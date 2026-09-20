@@ -1,0 +1,107 @@
+CONTROLLED BASELINE TRANSFORMER
+BEAM SEARCH + REPETITION CONTROL
+======================================================================
+
+Checkpoint epoch: 10
+Validation loss: 5.150976363350363
+Sentences: 272
+BLEU: 1.3252
+chrF: 18.5463
+Repetition rate: 0.00%
+Evaluation time: 3.36 minutes
+Speed: 1.35 sentences/sec
+
+======================================================================
+SAMPLE TRANSLATIONS
+======================================================================
+
+Example 1
+
+Reference:
+O Devī queen! Do not worry.
+
+Generated:
+The image should be worshipped with the recitation of aṅgulas.
+
+----------------------------------------------------------------------
+Example 2
+
+Reference:
+Having conquered Indra, he became Indrajit. He was stronger than Rāvaṇa.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 3
+
+Reference:
+Whoever causes to set up a pleasure grove stays eternally in the garden of Indra. One who builds a monastery goes to heaven and remains in the world of Indra.
+
+Generated:
+The image should be worshipped with the mantra of aṅgulas. One should be placed in the recitation of one has to worship with the syllable.
+
+----------------------------------------------------------------------
+Example 4
+
+Reference:
+What a kind of wife you. are like the night of destruction at the end of the world. Bharata is not such a kind of son.
+
+Generated:
+The image should be worshipped with the recitation of aṅgulas.
+
+----------------------------------------------------------------------
+Example 5
+
+Reference:
+The principle of water should be purified by means of three stretches of awful minuteness.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 6
+
+Reference:
+This is the weapon which cleans and which wards off all diseases.
+
+Generated:
+The image should be worshipped with the recitation of aṅgulas.
+
+----------------------------------------------------------------------
+Example 7
+
+Reference:
+Siṃhikā was also their daughter, who was married by Vipracitti.
+
+Generated:
+The image of Viṣṇu should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 8
+
+Reference:
+Hrim salutation to Gaurī Pārvatī, Gam salutation to Gaṇa, face of Śakra Indra, Caṇḍa, heart and others. The mystic syllables in the worship of the sun are described now. The tawnycoloured Daṇḍin is to be worshipped.
+
+Generated:
+The image should be worshipped with the recitation of aṅgulas. One should be placed in order to the syllable and the mantra.
+
+----------------------------------------------------------------------
+Example 9
+
+Reference:
+Nārāyaṇa bears the conch, lotus, mace and disc.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 10
+
+Reference:
+Or four images of Garuḍa vehicle of Lord Viṣṇu should be placed in the four quarters.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------

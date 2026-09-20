@@ -1,0 +1,106 @@
+MORPHOLOGY-AWARE TRANSFORMER
+======================================================================
+
+Checkpoint epoch: 10
+Validation loss: 5.1396808484021355
+Sentences: 272
+BLEU: 0.3066
+chrF: 9.4581
+Repetition rate: 75.71%
+Evaluation time: 4.43 minutes
+Speed: 1.02 sentences/sec
+
+======================================================================
+SAMPLE TRANSLATIONS
+======================================================================
+
+Example 1
+
+Reference:
+O Devī queen! Do not worry.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 2
+
+Reference:
+Having conquered Indra, he became Indrajit. He was stronger than Rāvaṇa.
+
+Generated:
+The image of the image of the image should be placed in the image.
+
+----------------------------------------------------------------------
+Example 3
+
+Reference:
+Whoever causes to set up a pleasure grove stays eternally in the garden of Indra. One who builds a monastery goes to heaven and remains in the world of Indra.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 4
+
+Reference:
+What a kind of wife you. are like the night of destruction at the end of the world. Bharata is not such a kind of son.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 5
+
+Reference:
+The principle of water should be purified by means of three stretches of awful minuteness.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 6
+
+Reference:
+This is the weapon which cleans and which wards off all diseases.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 7
+
+Reference:
+Siṃhikā was also their daughter, who was married by Vipracitti.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 8
+
+Reference:
+Hrim salutation to Gaurī Pārvatī, Gam salutation to Gaṇa, face of Śakra Indra, Caṇḍa, heart and others. The mystic syllables in the worship of the sun are described now. The tawnycoloured Daṇḍin is to be worshipped.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of
+
+----------------------------------------------------------------------
+Example 9
+
+Reference:
+Nārāyaṇa bears the conch, lotus, mace and disc.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------
+Example 10
+
+Reference:
+Or four images of Garuḍa vehicle of Lord Viṣṇu should be placed in the four quarters.
+
+Generated:
+The image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image.
+
+----------------------------------------------------------------------

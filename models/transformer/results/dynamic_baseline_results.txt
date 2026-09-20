@@ -1,0 +1,62 @@
+Transformer Dynamic Padding Baseline
+==================================================
+Test sentences: 500
+BLEU: 0.5422
+chrF: 12.2925
+Validation Loss: 4.188372887183573
+Evaluation Time: 8.88 minutes
+Average Speed: 0.94 sentences/sec
+
+
+Sample Translations
+==================================================
+
+Example 1
+Sanskrit : adṛṣṭa pūrvam hṛṣitaḥ asmi dṛṣṭvā bhayena ca pravyathitam manaḥ me tat eva me darśaya deva rūpam prasīda deva īśa jagat nivāsa
+Reference: After seeing this universal form, which I have never seen before, I am gladdened, but at the same time my mind is disturbed with fear. Therefore please bestow Your grace upon me and reveal again Your form as the Personality of Godhead, O Lord of lords, O abode of the universe.
+Generated: I am the creator of the universe, and I am the creator of the universe, and I am the creator of the universe.
+
+Example 2
+Sanskrit : kirīṭinam gadinam cakra hastam icchāmi tvām draṣṭum aham tathā eva tena eva rūpeṇa catuḥ bhujena sahasra bāho bhava viśva mūrte
+Reference: O universal form, O thousand-armed Lord, I wish to see You in Your four-armed form, with helmeted head and with club, wheel, conch and lotus flower in Your hands. I long to see You in that form.
+Generated: I desire to behold thee that art the foremost of all wielders of weapons, and that art the foremost of all wielders of weapons.
+
+Example 3
+Sanskrit : śrī bhagavān uvāca mayā prasannena tava arjuna idam rūpam param darśitam ātma yogāt tejaḥ mayam viśvam anantam ādyam yat me tvat anyena na dṛṣṭa pūrvam
+Reference: The Supreme Personality of Godhead said: My dear Arjuna, happily have I shown you, by My internal potency, this supreme universal form within the material world. No one before you has ever seen this primal form, unlimited and full of glaring effulgence.
+Generated: Śrī Nārada said: O king of Mithilā, I have no form of the Supreme Soul, I have no form of the Supreme Soul.
+
+Example 4
+Sanskrit : na veda yajña adhyayanaiḥ na dānaiḥ na ca kriyābhiḥ na tapobhiḥ ugraiḥ evam rūpaḥ śakyaḥ aham nṛ loke draṣṭum tvat anyena kuru pravīra
+Reference: O best of the Kuru warriors, no one before you has ever seen this universal form of Mine, for neither by studying the Vedas, nor by performing sacrifices, nor by charity, nor by pious activities, nor by severe penances can I be seen in this form in the material world.
+Generated: I do not know that the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the Vedas, the
+
+Example 5
+Sanskrit : mā te vyathā mā ca vimūḍha bhāvaḥ dṛṣṭvā rūpam ghoram īdṛk mama idam vyapeta bhīḥ prīta manāḥ punaḥ tvam tat eva me rūpam idam prapaśya
+Reference: You have been perturbed and bewildered by seeing this horrible feature of Mine. Now let it be finished. My devotee, be free again from all disturbances. With a peaceful mind you can now see the form you desire.
+Generated: Beholding that, my eyes, my eyes, my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes, and my eyes
+
+Example 6
+Sanskrit : sañjayaḥ uvāca iti arjunam vāsudevaḥ tathā uktvā svakam rūpam darśayām āsa bhūyaḥ āśvāsayām āsa ca bhītam enam bhūtvā punaḥ saumya vapuḥ mahā ātmā
+Reference: Sañjaya said to Dhṛtarāṣṭra: The Supreme Personality of Godhead, Kṛṣṇa, having spoken thus to Arjuna, displayed His real four-armed form and at last showed His two-armed form, thus encouraging the fearful Arjuna.
+Generated: Having said these words, Vasudeva, the mighty-armed Vasudeva, having said these words, Vasudeva, the highly powerful Vasudeva, said to Vasudeva, 'O Lord of the universe, I have come to him, and then to him.
+
+Example 7
+Sanskrit : arjunaḥ uvāca dṛṣṭvā idam mānuṣam rūpam tava saumyam janārdana idānīm asmi saṁvṛttaḥ sa cetāḥ prakṛtim gataḥ
+Reference: When Arjuna thus saw Kṛṣṇa in His original form, he said: O Janārdana, seeing this humanlike form, so very beautiful, I am now composed in mind, and I am restored to my original nature.
+Generated: And beholding that wonderful form, O Janardana, I am the foremost of all the worlds, and the foremost of all the worlds, and the foremost of all the worlds, and the foremost of all the worlds, and the foremost of all the worlds, and the foremost of all the worlds, and the mobile and immobile beings, and immobile, and immobile, and immobile, and immobile, and immobile, and immobile, and immobile, and immobile, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the eternal, and the
+
+Example 8
+Sanskrit : śrī bhagavān uvāca su durdarśam idam rūpam dṛṣṭavān asi yat mama devāḥ api asya rūpasya nityam darśana kāṅkṣiṇaḥ
+Reference: The Supreme Personality of Godhead said: My dear Arjuna, this form of Mine you are now seeing is very difficult to behold. Even the demigods are ever seeking the opportunity to see this form, which is so dear.
+Generated: The Supreme Personality of Godhead said: O king, I am always devoted to my words, and that is the Supreme Personality of Godhead.
+
+Example 9
+Sanskrit : na aham vedaiḥ na tapasā na dānena na ca ijyayā śakyaḥ evam vidhaḥ draṣṭum dṛṣṭavān asi mām yathā
+Reference: The form you are seeing with your transcendental eyes cannot be understood simply by studying the Vedas, nor by undergoing serious penances, nor by charity, nor by worship. It is not by these means that one can see Me as I am.
+Generated: I do not know me, O thou of great intelligence, nor am I, nor am I, nor am I, nor I am I, nor I am I am I, nor I am I am not able to perform any sacrifice.
+
+Example 10
+Sanskrit : bhaktyā tu ananyayā śakyaḥ aham evam vidhaḥ arjuna jñātum draṣṭum ca tattvena praveṣṭum ca param tapa
+Reference: My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding.
+Generated: I have now told thee, O thou of great intelligence, that I am the foremost of all persons of whom I have been gratified with thee, and I have been gratified with thee, O thou of great intelligence, and I have been gratified with thee, for thy sake.

@@ -1,0 +1,1096 @@
+V2 Morphology-Conditioned Transformer
+Checkpoint epoch: 9
+Validation loss: 5.006670783547794
+Samples: 272
+BLEU: 2.6487
+chrF: 20.2512
+Repetition rate: 0.00%
+
+[1]
+Reference: O Devī queen! Do not worry.
+Prediction: He was born to you, “O Rāma and others were born from the son of Viṣṇu.
+
+[2]
+Reference: Having conquered Indra, he became Indrajit. He was stronger than Rāvaṇa.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and others.
+
+[3]
+Reference: Whoever causes to set up a pleasure grove stays eternally in the garden of Indra. One who builds a monastery goes to heaven and remains in the world of Indra.
+Prediction: One has to worship the mode of Viṣṇu in this way, who was born from aṅgulas.
+
+[4]
+Reference: What a kind of wife you. are like the night of destruction at the end of the world. Bharata is not such a kind of son.
+Prediction: He was born to you, Rāma and others from the son of Viṣṇu.
+
+[5]
+Reference: The principle of water should be purified by means of three stretches of awful minuteness.
+Prediction: The image of Viṣṇu should be placed in the mantra of aṅgulas.
+
+[6]
+Reference: This is the weapon which cleans and which wards off all diseases.
+Prediction: The image should be worshipped with the right hand and other directions.
+
+[7]
+Reference: Siṃhikā was also their daughter, who was married by Vipracitti.
+Prediction: One has to worship the mode of Viṣṇu, and others.
+
+[8]
+Reference: Hrim salutation to Gaurī Pārvatī, Gam salutation to Gaṇa, face of Śakra Indra, Caṇḍa, heart and others. The mystic syllables in the worship of the sun are described now. The tawnycoloured Daṇḍin is to be worshipped.
+Prediction: The image should be placed in the right hand and others as well as having offered the heart, and other directions. One has to worship of Viṣṇu, “You have been worshipped with the earth.
+
+[9]
+Reference: Nārāyaṇa bears the conch, lotus, mace and disc.
+Prediction: The image should be placed in the right hand and other directions.
+
+[10]
+Reference: Or four images of Garuḍa vehicle of Lord Viṣṇu should be placed in the four quarters.
+Prediction: The image should be placed in the recitation of Viṣṇu and other directions.
+
+[11]
+Reference: The grass should be lifted up with the śikhā tuft mantra and divided into three with the armour mantra.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[12]
+Reference: One should merge the earth, wind, water, fire and sky, one into the other without any deviation in the order. You hear about it now!
+Prediction: The image should be placed in the right hand and having worshipped with the heart, and others.
+
+[13]
+Reference: Sage Kaśayapa was then born from Marīci. The Sun god and Vaivasvata Manu were born successively in the line. Then from him Vaivasvata Manu, Ikṣvāku was born. Kakutstha was born in his line.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord! you be worshipped in this way, he was born from the celestials.
+
+[14]
+Reference: The central part of the pedestal should be hewn and divided into three parts.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[15]
+Reference: Having placed the idol in the pavilion and having adored and worshipped the dressed idol one has to say “ bow to you the sovereign lady of celestials who has been made ready by Viśvakarman the divine architect.” make obeisance to you who is resplendant and is the sustainer of the entire universe.
+Prediction: The image should be worshipped with the mantra of Viṣṇu and having placed in the right hand. Having offered aṅgulas and others, one has to worship the east etc.
+
+[16]
+Reference: Mṛga occupying one upper square is then worshipped with blue cloth.
+Prediction: The image should be placed in the right hand and others.
+
+[17]
+Reference: The second creation is that of the subtle principles tanmātrās, known as the bhūtasarga creation of elements. The third is the creation of evolutes vaikārikas known as the senseorgans.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others in aṅgulas. Then one has to worship by the lord of Viṣṇu.
+
+[18]
+Reference: The five Pāṇḍavas, Sātyaki and Kṛṣṇa survived and none else.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born in this way.
+
+[19]
+Reference: The image of the Sun should be made to ride a chariot having one wheel and seven horses.
+Prediction: The image should be placed in the right hand and others with aṅgulas.
+
+[20]
+Reference: Trailokyamohana one who stupefies the three worlds should be represented as riding the Tārkhya the eaglevehicle and possess eight hands, holding the sword, mace and goad in the right hand and the conch, bow, mace and the noose in the left hand.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of the east, one has to worship with the heart and the left hand.
+
+[21]
+Reference: The assignment of fingers on the different parts of the body by touching them.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[22]
+Reference: Then having poured portions of the clarified butter in the south and north, one has to offer oblation in the middle reciting the mystic formulae in the order of worship.
+Prediction: The image should be placed in the right hand and having worshipped with aṅgulas.
+
+[23]
+Reference: The characteristics of those mystical letters which are consonants are different.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and other directions.
+
+[24]
+Reference: The householder should then enter the house after having honoured the astrologers.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and others.
+
+[25]
+Reference: Then beginning with the syllable ‘Om’ and ending with the word salutations and then the words salutations to Nārāyaṇa are uttered.
+Prediction: The image of Viṣṇu should be placed in the heart and others.
+
+[26]
+Reference: The demons killed the monkeys with arrows, spears and mace”. The monkeys killed demons with nails, teeth and stones.
+Prediction: One who was born to you, Rāma and others in the son of Viṣṇu, “You have been worshipped by me.
+
+[27]
+Reference: The excavation should begin in the same way.
+Prediction: The image should be placed in the middle of aṅgulas.
+
+[28]
+Reference: One should enter after having removed obstacles by throwing flowers and the repetition of names of weapons.
+Prediction: The image of Viṣṇu should be placed in the east and other directions.
+
+[29]
+Reference: Seeing the beautiful form of Rāma, that lustful woman said to him, “Who are you? Whence have you come? You become my husband being entreated by me.
+Prediction: One has to worship the mode of Viṣṇu and others, “O Lord Rāma! you be worshipped with the lord of Viṣṇu.
+
+[30]
+Reference: cannot live without her.” Being consoled by Sugrīva and others Rāma reached the banks of ocean.
+Prediction: One who was born to you, “O Rāma and others were born from the son of Viṣṇu.
+
+[31]
+Reference: The breadth of the base of the thigh is said to be twelve aṅgulas.
+Prediction: The image should be made to aṅgulas.
+
+[32]
+Reference: An octagonal block known as the part of Viṣṇu is certainly obtained thus.
+Prediction: One has to worship the mode of Viṣṇu in aṅgulas.
+
+[33]
+Reference: The priest should think himself as Viṣṇu and the sculptor as Viśvakarman the divine architect.
+Prediction: The image of Viṣṇu should be worshipped with the mantra.
+
+[34]
+Reference: Having spent the night on the banks of the river Tamasā he went away leaving the people.
+Prediction: One has to worship the mode of Viṣṇu and others in this way.
+
+[35]
+Reference: May Aniruddha, who wields the disc, mace, conch and lotus protect us.
+Prediction: One has to worship the form of Viṣṇu and others, and other deities.
+
+[36]
+Reference: There was a fierce battle between the two which made the domain of Yama the god of death extensive.
+Prediction: The image of Viṣṇu is known as the celestials and others.
+
+[37]
+Reference: The edifice should be built as a quadrilateral without having any walls on the diagonal lines.
+Prediction: The image should be placed in the middle of aṅgulas.
+
+[38]
+Reference: The directions east etc. are decorated with the strength, abode and kingdom.
+Prediction: The image should be placed in the right hand and having worshipped with water, and others.
+
+[39]
+Reference: Viṣṇu removed heavy oppression on the earth having Pāṇḍavas as the instrumental cause.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born to you.
+
+[40]
+Reference: The semidivine beings Kinnaras may be represented as holding lutes in their arms and the Vidyādharas semidivine beings as having garlands and moving in the sky.
+Prediction: The image should be placed in the recitation of Viṣṇu, and others.
+
+[41]
+Reference: Those principles, one, five, ten or twelve may be tied individually and given by those who devote their thought on the principles.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[42]
+Reference: The goddess earth should be worshipped in a copper vessel of the shape of a lotus.
+Prediction: One has to worship the mode of Viṣṇu and others in this way.
+
+[43]
+Reference: The rest of the liṅgas should be fifteen fingers.
+Prediction: The image should be worshipped with the recitation of Viṣṇu. Having placed in aṅgulas.
+
+[44]
+Reference: invite you in the morning and offer this sacred thread.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[45]
+Reference: will free these beings by your grace from their earlier fetters by which they are bound”.
+Prediction: One has to worship the mode of Viṣṇu, he was born to you.
+
+[46]
+Reference: Having made the expansion from the middle, three parts should be fixed from the middle.
+Prediction: The image should be placed in the left hand and aṅgulas.
+
+[47]
+Reference: Thousands or hundreds of them are placed in a circular form and Viṣṇu in the east and northeast at an elevated place in an altar.
+Prediction: The image should be placed in the recitation of aṅgulas. One has to worship which is worshipped with the right hand.
+
+[48]
+Reference: will now describe the rite known as the cleansing for the protection of one’s self and others, by which a man would become freed of miseries and get happiness.
+Prediction: One has to worship the mode of Viṣṇu, “O Lord Hari, who was born to you be worshipped in this way and others.
+
+[49]
+Reference: Rice and sesamum should be placed in the central square for Brahmā.
+Prediction: The image should be placed in the right hand and others as well as having worshipped.
+
+[50]
+Reference: The oblation should be done with the vyāhṛti bhūḥ, bhuvaḥ, svaḥ, the vedic mantras such as gāyatrī mantra, tadviprāsa, viśvataścakṣuḥ and bhūragnaye.
+Prediction: The image should be placed in the mantra of the recitation of Viṣṇu, and having worshipped it with the right hand.
+
+[51]
+Reference: The breadth of the liṅga may be divided into eight parts. An umbrellashaped top portion of the liṅga is got by discarding half of this length.
+Prediction: The image should be placed in aṅgulas. One has to be made to be worshipped with the right hand.
+
+[52]
+Reference: O Skanda! shall describe the mode of worship of Sun preceded by the assignment of letters on the body. After having contemplated as “ am the Sun ”, one should worship by offering waters arghya.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others as well as having placed it.
+
+[53]
+Reference: Then the image should be bathed with varuṇasya and waters for sipping should be given with tvanno varuṇa.
+Prediction: The image should be placed in the right hand and others.
+
+[54]
+Reference: Oṃ, hrūṃ, haḥ, phaṭ, hrūṃ. absorb the subtle principle of taste. Salutations. Oṃ, hrūṃ, haḥ, phaṭ, hrūṃ absorb the subtle principle of touch.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu, one has to worship by the heart.
+
+[55]
+Reference: Vibhīṣaṇa who was forsaken by his wicked brother Rāvaṇa for having advised him to return Sītā to Rāma, came there alone to Rāma. Rāma anointed his friend Vibhiṣaṇa as the ruler of Laṅkā.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born from the celestials, “You have been worshipped by me in this way, he was killed by you.
+
+[56]
+Reference: O Kaikeyī, “The royal lineage will be taken away from Bharata.
+Prediction: One who was born to you, “O Lord of Viṣṇu and others.
+
+[57]
+Reference: Then one should meditate on the Prakṛti in which the universe lies and from which the universe is born, as being present there,.
+Prediction: The image should be worshipped with the recitation of Viṣṇu.
+
+[58]
+Reference: She holds the severed head along with the neck in the left hand and a mirror in the second hand.
+Prediction: The image should be placed in the right hand and others with the mantra.
+
+[59]
+Reference: should be assigned to the spokes.
+Prediction: The image of Viṣṇu should be placed in the recitation of the east, and others.
+
+[60]
+Reference: Salutations to the wearer of clean dress made yellow by the filaments of lotuses and the disc of Viṣṇu hurled on the shoulders of the enemies at the great battle, and the wielder of the same.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu, one has to worship by the heart.
+
+[61]
+Reference: From that ceremony were born the clever singers sūta and māgadha.
+Prediction: The image should be made to the mode of aṅgulas.
+
+[62]
+Reference: Then having purified the elements, one has to purify the instruments of action, the intellect, the principles, mind, knowledge and egoism.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others in the right hand. Then one has to worship of Viṣṇu.
+
+[63]
+Reference: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha are the four forms.
+Prediction: The image of Viṣṇu should be placed in the celestials.
+
+[64]
+Reference: Knowing him as dead, Kauśalyā said, “O have been ruined.” The men and women then wept.
+Prediction: He was born to you, “O Rāma and others were born from the son of Viṣṇu.
+
+[65]
+Reference: shall describe the consecration of the divine edifice the doors of which have been consecrated and wherein the image of Hari has been duly installed. It is in the consecration of the adytum. Listen.
+Prediction: The image should be placed in the right hand and aṅgulas. One has to worship of Viṣṇu on the recitation of Śiva.
+
+[66]
+Reference: am describing the manifestation of Viṣṇu as Buddha, by reading and hearing which one gets wealth.
+Prediction: One has to worship the mode of Viṣṇu and others, “O Lord! you be worshipped.
+
+[67]
+Reference: He who builds an abode for Viṣṇu, Rudra, Sun or the goddess etc.
+Prediction: One has to worship the mode of Viṣṇu, he who was born from the celestials.
+
+[68]
+Reference: Brahmā was its instrumental cause.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others.
+
+[69]
+Reference: Only the principal mantra would be different. The other formalities are the same. ṚV. ...
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[70]
+Reference: Having propitiated the consort of Umā Śiva in the past kalpa, a boon was obtained by Bāṇa from the lord that he would always wander by the side of the lord.
+Prediction: The image of Viṣṇu should be made to the celestials and others, “O Rāma! you have been worshipped by the son of Viṣṇu.
+
+[71]
+Reference: All the mystic syllables are pronounced preceded by the Praṇava syllable Om, adding bindu the nasal sound marked by a dot, either while offering adorations or the performance of repetition.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu, one has to worship by the heart.
+
+[72]
+Reference: And Śikhaṇḍi was the commander for the Pāṇḍavas. There was a fight between these two armies.
+Prediction: He was born to you, Rāma and others.
+
+[73]
+Reference: The crown should be of a measure of a tāla aṅgulas. In the same way the face should be of the measure of a tāla. The neck and heart should also be a tāla each.
+Prediction: The image should be placed in the mantra of aṅgulas. One has to be made to worship with the right hand.
+
+[74]
+Reference: Salutations to the attendants of Viṣṇu. The offering should be made on the altar. One should worship the Universal Being, the Allpervading on the northeast.
+Prediction: The image of Viṣṇu should be made to the right hand and aṅgulas. One has been worshipped with the east, one’stheast, and others.
+
+[75]
+Reference: One who has the right to do these rites should perform these in the company of his wife. Having contemplated on the deity in the heart and other limbs and worshipping him, one has to offer sixtyfour oblations for every one of the rites again.
+Prediction: The image should be worshipped with the mantra of Viṣṇu, and having placed in the right hand. Having offered to the recitation of the heart, one has to worship with the east and other directions.
+
+[76]
+Reference: Pāvaka fire as the king of Vasus Vāsava Indra as the lord of Maruts and then Dakṣa as the king of Prajāpatis patriarchs, Prahlāda as the ruler of demons.
+Prediction: One has to worship the mode of Viṣṇu, he who was born to you, “O Rāma and others in this way one’s.
+
+[77]
+Reference: The yajamāna should adorn himself and should present the fees as well as a cow, ornament and cloth.
+Prediction: He was born to you, “O Rāma and others.
+
+[78]
+Reference: The measurement around the heads of the images of Keśava and other gods should be thirtysix aṅgulas.
+Prediction: The image should be placed in the right hand and aṅgulas.
+
+[79]
+Reference: The Goddess of speech along with the God should be invoked therein and worshipped.
+Prediction: The image should be placed in the right hand and other directions.
+
+[80]
+Reference: He should purify them befitting their nature and unite them with the deity. They are then collected with pure mental disposition and yoked in order.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others in aṅgulas.
+
+[81]
+Reference: Food should be given along with milk to brahmins for four days consecutively.
+Prediction: The image should be placed in the recitation of Viṣṇu, and others.
+
+[82]
+Reference: The highly radiant Bālakhilyas were born to Sannati from Kratu.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[83]
+Reference: Creation has been described as threefold by the people. They are usual nitya, subject to some cause naimittika, and daily dainandinī. The creation after the intermediate dissolution is known as the daily dainandinī. The constant creation that takes place everyday is considered as nitya.
+Prediction: One has to worship the mode of Viṣṇu, and others in the lord of Viṣṇu on the celestials, “O Lord Hari Viṣṇu, one who was born from the form of Viṣṇu. The image of Viṣṇu is known as well as it should be made by a temple.
+
+[84]
+Reference: Mode of consecration of the flag has been thus described in general.
+Prediction: The image should be placed in the recitation of Viṣṇu.
+
+[85]
+Reference: With the utterance of the mantra āpo hi ṣṭhā thrice, the sanctified water got ready by the brahmins and the holy waters of the sacred spots should be sprinkled into the tank and herd of kine should be given to brahmins.
+Prediction: The image should be worshipped with the mantra of Viṣṇu and having placed on the right hand. Having offered the recitation of the east, one has to worship with the heart and other directions.
+
+[86]
+Reference: P. . xxi. . The intellect mahat is the first creation of Brahmā.
+Prediction: One has to worship the mode of Viṣṇu, one’s form.
+
+[87]
+Reference: Thirtytwo cubits of ground should be equally divided into thirtytwo compartments.
+Prediction: The image should be worshipped with aṅgulas.
+
+[88]
+Reference: The preceptor has to release or bind the children. Or the preceptor remaining in his natural state has to perform a different kind of initiation called Śaktidīkṣā.
+Prediction: The image should be placed in the recitation of Viṣṇu, and others with the right hand. Having worshipped it is made to the heart and other directions.
+
+[89]
+Reference: Hayaśiras told Brahmā for the installation of gods.
+Prediction: He was born to you, Rāma and others.
+
+[90]
+Reference: O Brahmin! When Yudhiṣṭhira was ruling the kingdom, Dhṛtarāṣṭra went to the forest along with Gāndhārī and Pṛthā Kuntī and passed from one stage of life to another.
+Prediction: One has to worship the mode of Viṣṇu and others, who was born in the celestials.
+
+[91]
+Reference: Also narrate to me the AgniPurāṇa as heard from Viṣṇu in the days of yore.
+Prediction: One has to worship the mode of Viṣṇu, one who is known as the celestials.
+
+[92]
+Reference: Over that the temples sides of the forehead should be made two aṅgulas endowed with curbs.
+Prediction: The image should be made to the left hand and aṅgulas.
+
+[93]
+Reference: The auspicious sacrificial platform should be made ready with one third or half of the above space.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[94]
+Reference: Having omitted the six compartments inside and having sprinkled for beautification the four at the centre, the four on the sides and two inside and outside, and having cleansed three inside and five outside for accomplishing additional doors, as before beautification is made.
+Prediction: The image should be placed in the recitation of Viṣṇu and having worshipped with aṅgulas and other things on the right hand. One has to worship one’s mantra of Viṣṇu.
+
+[95]
+Reference: Salutation to the rays of the sun, to his head, and similarly to the flames reaching up the regions of demons,. wind, earth, ether, and heavens.
+Prediction: The image should be placed in the right hand and having worshipped with aṅgulas. One has to worship of Viṣṇu on the east, one’s mantra.
+
+[96]
+Reference: One should adore Uccaiḥśravas the horse of Indra, the very much pure Aruṇa younger brother of the Sungod.
+Prediction: The image of Viṣṇu should be placed in the right hand and others with the heart.
+
+[97]
+Reference: And Bhīmasena killed Kīcaka in the night as he was desirous of winning over Draupadī.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others.
+
+[98]
+Reference: The syllable huṃ should be placed in the middle after having contemplated on Hari, composed of mystic syllables.
+Prediction: The image of Viṣṇu should be placed in the mantra of aṅgulas.
+
+[99]
+Reference: The Airāvata the elephant of Indra, goat, buffalo, monkey, fish, deer, hare, bull, tortoise, and haṃsa should be worshipped and Kṛṣṇa on the outside.
+Prediction: One has to worship the mode of Viṣṇu, “O Lord Hari Viṣṇu and others should be worshipped with the celestials.
+
+[100]
+Reference: Accept this article of worship which is capable of yielding fruits of anual worship for the sake of purification.
+Prediction: One has to worship the mode of Viṣṇu in this way, one’s form of Viṣṇu.
+
+[101]
+Reference: Having taken with them the clarified butter twice and having carried them, they must be cast downwards thrice.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[102]
+Reference: The sacred waters of the rivers Sarasvatī and others should be drawn into the heart with the formation of aṅkuśamudrā a formation with the fingers resembling the goad.
+Prediction: The image should be placed in the recitation of Viṣṇu, one has to worship with aṅgulas.
+
+[103]
+Reference: This is assignment in the six limbs commencing with the heart.
+Prediction: The image should be placed in the recitation of Viṣṇu.
+
+[104]
+Reference: The evolutes are the ten celestials and the mind, the eleventh sense.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[105]
+Reference: Aniruddha went and made marry with Uṣā.
+Prediction: One has to worship the lord of Viṣṇu, and others in this way.
+
+[106]
+Reference: Aruṇa and Garuḍa were born from Vinatā.
+Prediction: One has to worship the celestials and others, he was born to you.
+
+[107]
+Reference: May the Manlion deity, the soul ofall beings, possessing terrific roars protect me in the east, west, south and north.
+Prediction: The image should be placed in the right hand and aṅgulas. One has to worship of Viṣṇu on the recitation of the east, one’s mantra.
+
+[108]
+Reference: The Srīdhara stone has a garland of wild flowers and five lines and is circular.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[109]
+Reference: Having placed all of them the aspirant should assign his son in parts.
+Prediction: One has to worship the mode of Viṣṇu, and others.
+
+[110]
+Reference: .
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[111]
+Reference: Vidura was burnt by the forest fire and ascended heavens.
+Prediction: The image of Viṣṇu should be worshipped with the mantra.
+
+[112]
+Reference: By building a temple for Viṣṇu one conveys hundreds of his discendants and hundreds of his ancestors to the world of Acyuta.
+Prediction: The image of Viṣṇu should be placed in the recitation of aṅgulas.
+
+[113]
+Reference: Having adorned the deity with perfumes and flowers, one should worship him with the mystic formula.
+Prediction: The image should be worshipped with the mantra and other directions.
+
+[114]
+Reference: His head was severed by his enemy Hari Viṣṇu. That severed head of Rāhu then said to Hari, the bestower of gifts by whose grace it had attained immortality.
+Prediction: One has to worship the mode of Viṣṇu and others, “You be worshipped in this way and other things.
+
+[115]
+Reference: The first step should be one such part. The second step should be of two such parts in height while the remaining steps should have a height of such a single part until one reaches the neck portion step by step.
+Prediction: The image should be placed in the middle of aṅgulas. One has to be made to worship of the right hand.
+
+[116]
+Reference: May the dreadful face of the Manlion of enormous strength destroy these evil forces completely for the welfare of the world.
+Prediction: One has to worship the celestials, “O Rāma! you have been seen by me in this way and others.
+
+[117]
+Reference: from Raurava Naraka. Vyādhi, Jarā, Śoka, Tṛṣṇā and Krodha were born from Mṛtyu.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and others.
+
+[118]
+Reference: From Dhṛtarāṣṭra through Gāndhārī hundred sons were born with Duryodhana as the first.
+Prediction: The image should be placed in the right hand and others.
+
+[119]
+Reference: in the four directions. Then gruel of barley should be prepared, and offered to the fire.
+Prediction: The image should be worshipped with the mantra of Viṣṇu. Having placed in aṅgulas.
+
+[120]
+Reference: The monkeys were Hanūmat, Mainda, Dvivida, Jāmbavat, Nala, Nīla, Tāra, Aṅgada, Dhūmra, Suṣeṇa, Keśarī, Gaya, Panasa, Vinata, Rambha, Śarabha, Krathana the strong, Gavākṣa, Dadhivaktra, Gandhamādana and others and Sugrīva.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born in this way, “You be worshipped with the form of Viṣṇu on the earth as well as having offered by the celestials and other things, he should be placed in the sake of Viṣṇu.
+
+[121]
+Reference: Thinking that the king was sleeping, Kauśalyā also slept on account of pangs of grief.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born to you.
+
+[122]
+Reference: Kumbhakarṇa was always sleeping, Vibhīṣaṇa became deeprooted in dharma.
+Prediction: One who builds a temple of Viṣṇu is known as well as the celestials and others.
+
+[123]
+Reference: The twilight is the witness of deeds of men. The soul should be known as following its radiance.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born in this way.
+
+[124]
+Reference: The divine herbs sahadevī, kumārī, siṃhī, vyāghrī, amṛtā, viṣṇuparṇā, śataśivā and vacā should be placed in the other eight pitchers.
+Prediction: The image should be placed in the mantra of Viṣṇu and having worshipped with the right hand, one has to worship on the east with the recitation of Śiva.
+
+[125]
+Reference: Viśvarūpa, the great illustrious and fortunate was the son of Tvaṣṭṛ.
+Prediction: The image of Viṣṇu should be worshipped with the earth.
+
+[126]
+Reference: and ending with Viṣvaksena an epithet of Viṣṇu. Having offered to the fire the oblations placed near the fire for Viṣṇu and other gods, and having worshipped, the final oblation should then be made with the basic formula for the expiation of one’s sins.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu, one has to worship.
+
+[127]
+Reference: One should perform the appeasing oblation with the three sweet things.
+Prediction: The image should be placed in the mantra of the recitation of Viṣṇu.
+
+[128]
+Reference: Lord Viṣṇu should be worshipped with perfumes etc., in the diagram of a lotus inscribed in a circle.
+Prediction: The image should be worshipped with the mantra of Viṣṇu in aṅgulas.
+
+[129]
+Reference: The image of the deity should be placed facing the city and never turned backwards.
+Prediction: The image should be placed in aṅgulas.
+
+[130]
+Reference: The door of the temple at the centre of the village or on the eastern part should face the west, while in other directions the door should be facing the west and in the southern, northern and western parts the door should face the east.
+Prediction: The image should be worshipped with the right hand and having placed in the mantra of Viṣṇu, one has to worship by the fire as well as the heart and others.
+
+[131]
+Reference: Then Śatrughna and Bharata married Śrutakīrti and Māṇḍavī, the two daughters of the brother of Janaka.
+Prediction: One has to worship the mode of Viṣṇu, and others in this way, he was born from the celestials and other things.
+
+[132]
+Reference: No need to speak about the merits of one who has built a temple in the prescribed manner. It is impossible for anyone to describe the merits one would accrue by building a temple with eight bricks alone.
+Prediction: One has to worship the mode of Viṣṇu, and others in this way one who is known as well as aṅgulas.
+
+[133]
+Reference: . The installation of the images of Garuḍa vehicle of Viṣṇu Brahman, Nṛhari manlion form of Viṣṇu and of the sudarśana disc should be done in the same way as that of Viṣṇu with their respective mantras. Listen to me.
+Prediction: The image of Viṣṇu should be placed in the mantra of the deity.
+
+[134]
+Reference: The same procedure is to be followed in the initiation ceremony related to Saura, Śakti the female deity and Viṣṇu.
+Prediction: The image of Viṣṇu should be placed in the recitation of aṅgulas.
+
+[135]
+Reference: One should offer an umbrella with the syllable indra cchatra, mirror with virāja, the chowrie with vikarṇa and_ the ornaments with rathantara.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, one has to worship. Having placed in aṅgulas.
+
+[136]
+Reference: One should submit a cooking vessel, covering pan, ladle, pestle, crushing stone, grinding stone, groomstick, utensils for eating and other household things should be given to the goddess.
+Prediction: The image should be placed in the right hand and aṅgulas. One has to worship of Viṣṇu on the recitation of Śiva.
+
+[137]
+Reference: shall describe the characteristics of nine forms of Viṣṇu commencing with Vāsudeva.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[138]
+Reference: The words salutations to the lord are said at first along with the mystical letters a, ā, am, aḥ.
+Prediction: The image of Viṣṇu should be placed in the right hand and others.
+
+[139]
+Reference: Their beds should be a little inclined towards the eastern side.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[140]
+Reference: Having worshipped the lord as before endowed with all the materials, the excellent preceptor has to initiate the disciple on the dvādaśī the th day from the beginning of the rite.
+Prediction: The image should be placed in the right hand and aṅgulas. Then one has to worship of Viṣṇu on the east with the recitation of the mantra.
+
+[141]
+Reference: One who is desirous of enjoyment gets all things.
+Prediction: One has to worship the mode of Viṣṇu, he was born to you.
+
+[142]
+Reference: One should make the four central squares endowed with.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[143]
+Reference: The temple should be decorated with gems all around. Leaving out oneeighth of the door if that is done, it is not defective.
+Prediction: The image of Viṣṇu should be made to the recitation of the right hand.
+
+[144]
+Reference: The heart, head, coat of mail, eye and weapons, conch, disc, mace, lotus, Śrīvatsa sacred mark on Lord Kṛṣṇa’s chest and the Kaustubha gem are worshipped. The garland of woodflowers worn by Kṛṣṇa, Śrī Lakṣmī, Puṣṭi nourishment, Garuḍa vehicle of Viṣṇu, and the preceptor are worshipped.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of the heart, one has to worship by the head of the left hand and the fire on the sacred syllables of Viṣṇu.
+
+[145]
+Reference: Whatever defects, in them may be made good by touching them with the kuśa and the astramantra of Śiva.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and other directions.
+
+[146]
+Reference: The Yoginīs Piṅgākṣī, Kṣayā, Kṣemā, Ilā, Līlā, Layā, Laktā, Balākeśī, Lālasā and Vimalā dwell in the southeast.
+Prediction: The image should be placed in the right hand and having worshipped with the heart, the head of Viṣṇu. Then one has to worship which is known as well as aṅgulas.
+
+[147]
+Reference: The mansions of the images of gods should be consecrated in the prescribed way for the gods.
+Prediction: One has to worship the mode of Viṣṇu in this way, and others.
+
+[148]
+Reference: By means of his penance he got a boon from Brahmā and conquered celestials.
+Prediction: One has to worship the mode of Viṣṇu, and others.
+
+[149]
+Reference: have to be worshipped in the middle. Hari, Dhṛti, Śrī, Rati, and Krānti etc. have to be invoked in the middle. Acyuta is established with the principal mystic syllable.
+Prediction: The image should be placed in the mantra of Viṣṇu, and having worshipped with the right hand etc.
+
+[150]
+Reference: More than the charities and more than the acts which would glorify him, one has to build the temples of Viṣṇu and other gods.
+Prediction: The image should be placed in the recitation of Viṣṇu, one has to offer aṅgulas and others on the right hand.
+
+[151]
+Reference: They have the same length as the height of the image and have breadth half the height of the image. Or the breadth should be half or onethird of the measure of the height. The girdle should be equal to onethird of its breadth.
+Prediction: The image should be placed in aṅgulas. One has to be made to worship of the length of aṅgula on the middle part of the right hand and with the two parts.
+
+[152]
+Reference: Hanūmat bore him Lakṣmaṇa to that place where Indrajit was doing homa and offering āhutis unto the fire at Nikumbilā Lakṣmaṇa killed the valiant Indrajit in battle.
+Prediction: One has to worship the mode of Viṣṇu, and others, “O Lord Hari, who was born from the lord of Viṣṇu in this way, “You be worshipped with the celestials.
+
+[153]
+Reference: The heart and other limbs have to be worshipped in the east, south, west and north.
+Prediction: The image should be placed in the right hand and other directions.
+
+[154]
+Reference: Rice grains, gems, three kinds of minerals, iron and other metallic substances, sandal wood etc., should be placed in the nine holes commencing with the east at the centre as one likes.
+Prediction: The image should be placed in the east and having worshipped with the mantra of Viṣṇu, one has to worship with the right hand and other directions.
+
+[155]
+Reference: The Hṛt etc., Lakṣmī, Medhā, Kalā, Tuṣṭi, Puṣṭikā, Gaurī, Prabhāvatī, and Durgā the different female divinities, goblins, preceptor and the presiding deity of the field are worshipped.
+Prediction: The image should be placed in the right hand and having worshipped with the east, one’s form of Viṣṇu. One has to worship the heart and other things are made.
+
+[156]
+Reference: Having sprinkled mentally the sacred thread and the self, and having sprinkled the pitcher of Viṣṇu, one should go near the deity.
+Prediction: The image should be worshipped with the mantra of Viṣṇu, and having placed in the right hand etc.
+
+[157]
+Reference: Banner, camel, lion, dog, bull, donkey, elephant and crow are said to be eight āyas.
+Prediction: The image should be placed in the right hand and having worshipped by the heart.
+
+[158]
+Reference: The image of Vināyaka should have a human body, big belly, elephant face, big trunk and sacred thread.
+Prediction: The image of Viṣṇu should be placed in the right hand and others.
+
+[159]
+Reference: One has to perform the four ritesthe vaiṣṇavī, pārthī, bhautikī and śrautī, and making a gift of cows, entering the life of a householder after completing one’s vedic studies.
+Prediction: The image should be worshipped with the right hand and others in aṅgulas.
+
+[160]
+Reference: In the liṅga of five parts, the head part is said to be circular.
+Prediction: One has to worship the mode of Viṣṇu in aṅgulas.
+
+[161]
+Reference: Then the threads are made to lie fall and then an eightpetalled lotus is drawn.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[162]
+Reference: O Brahmā! Describe unto me the manifestations of Viṣṇu, such as the Fish etc., which are the cause of creation.
+Prediction: The image of Viṣṇu should be placed in the earth with the right hand.
+
+[163]
+Reference: The post should be made to measure a half or one third of the height of the image. The flag should have a mark of a circle of eight or twelve radii.
+Prediction: The image should be placed in the mantra of aṅgulas. One has to worship with the right hand and then be worshipped in order.
+
+[164]
+Reference: Having protected the enclosure with the weapon and the outer place with its mantra the mahāmudrā consisting of the energy should be shown below and above that.
+Prediction: The image should be placed in the mantra of the recitation of Viṣṇu. One has to worship with aṅgulas.
+
+[165]
+Reference: The liṅgas measuring one to five fingers known as the short are said to be movable.
+Prediction: The image should be made to the mode of Viṣṇu in aṅgulas.
+
+[166]
+Reference: That Hari, the protector of righteousness and the celestials then disappeared.
+Prediction: One has to worship the lord of Viṣṇu and others, “O Rāma! you have been worshipped.
+
+[167]
+Reference: The eyes of the goddess Lakṣmī should be opened with the recitation of the mantra hiraṇyavarṇām hariṇīm.
+Prediction: The image of Viṣṇu should be placed in the mantra of the recitation of Viṣṇu.
+
+[168]
+Reference: The awful demoness Śūrpaṇakhā came there to devour them all.
+Prediction: One has to worship the mode of Viṣṇu, and other things are worshipped.
+
+[169]
+Reference: He destroyed the grove, having killed the guards of the grove with his teeth and nails, and all the attendants, the sons of seven ministers, prince Akṣa.
+Prediction: One has to worship the lord of Viṣṇu and others, “O Lord Hari, who was born from the celestials and others as well as having worshipped by the earth.
+
+[170]
+Reference: The image of Varuṇa ocean god is made as seated on a crocodile and as holding a noose, that of Vāyu wind god as riding an antelope and holding a banner, that of Kubera god of wealth as seated on a sheep and bearing a mace, and that of Īśāna as seated on a bull and having a matted hair.
+Prediction: One has to worship the mode of Viṣṇu, and others as well as he was born in this way, “You have been worshipped by me.
+
+[171]
+Reference: The goddess is represented as resting her right foot on the lion and the left foot on. the demon underneath. This form of Caṇḍikā, the destroyer of enemies.
+Prediction: The image should be placed in the recitation of Viṣṇu, and having worshipped it to the right hand and others as well as well by the earth with the heart and other directions.
+
+[172]
+Reference: Vaitaṇḍya, Śrama, Śānta, and Muni were the sons of Āpa.
+Prediction: One has to worship the mode of Viṣṇu, he was born to you.
+
+[173]
+Reference: The pitcher shaped part of the temple should be placed over the top and the flag should be placed over the same.
+Prediction: The image should be placed in the left hand and aṅgulas.
+
+[174]
+Reference: One who consecrates a reservoir of water acquires in a single day a merit ten crores times more than one who performs thousands of aśvamedha the horsesacrifice.
+Prediction: One has to worship the mode of Viṣṇu, one who is known as well as the celestials.
+
+[175]
+Reference: A beautiful boundary line is to be made with the remaining space around the pit.
+Prediction: The image should be placed in aṅgulas.
+
+[176]
+Reference: After having been anointed in the kingdom and being bent on contemplation with the attitude of “ am brahman”, and then the son of Sītā after having ruled for ,000 years and after performing sacrifices went to heaven along with the citizens and his brother, and being attended to by the people and honoured by the celestials.
+Prediction: One who was born to you, “O Rāma and others in the son of Viṣṇu, “You have been worshipped by me in this way, he was born from the celestials.
+
+[177]
+Reference: should be placed in front of the place and the purification of five material components of the earth should be done.
+Prediction: The image should be worshipped with the recitation of Viṣṇu.
+
+[178]
+Reference: The supreme sandhyā is declared as that which remains. invisible in the cavities situated at the heart, and the upper end of the nose and which secures the realization of Śiva.
+Prediction: One has to worship the mode of Viṣṇu in this way, “O Lord! you be made by Rāma and others on the celestials.
+
+[179]
+Reference: Then offerings to the goblins should be given by the preceptor. Having worshipped the good spirits, the demons, guhyakas a class of attendantgods of Kubera, and accomplished souls and others who may be residing there, should be requested to forgive. They should be addressed as follows.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu, one has to worship by the recitation of Śiva.
+
+[180]
+Reference: After having pierced the seven Tāla trees with a single arrow and even as others were seeing, threw away the body of Dundubhi by his foot to a distance of ten yojanas.
+Prediction: The image should be worshipped with the right hand and having placed in aṅgulas. Then one has to worship of Viṣṇu, and other things are known as well as it.
+
+[181]
+Reference: Their sister was Śūrpaṇakhā, Meghanāda was born from Rāvaṇa.
+Prediction: The image should be placed in the right hand and other directions.
+
+[182]
+Reference: The third is that of the joints of the petals and the fourth, that of the tips of the petals.
+Prediction: The image should be placed in the recitation of aṅgulas.
+
+[183]
+Reference: The basic syllables forming part of the Gāyatrīmantra. Having sprinkled with the residual offering one should perform consecration of the sacred, subtle, and chanted mystic formulae of the manlion.
+Prediction: The image should be placed in the mantra of aṅgulas. One has to worship which is worshipped with the right hand.
+
+[184]
+Reference: Rāvaṇa attacked monkeys and Māruti and others attacked Rāvaṇa.
+Prediction: He was born to you, Rāma and others, “You be worshipped.
+
+[185]
+Reference: The watercourse should be onethird of the breadth of the base.
+Prediction: The image should be placed in aṅgulas. One has to be made to be worshipped.
+
+[186]
+Reference: Whoever reads or hears the stories of the manifestations of Viṣṇu would get all desired things, become pure, and attain heaven along with his race.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born in this way, he should be worshipped with the celestials.
+
+[187]
+Reference: Then the killer of Naraka, seated on the bird Garuḍa, in the company of Satyabhāmā and with the jewelstore and other jewels after having conquered Indra in the heavens and brought the divine tree Pārijāta planted it in the house of Satyabhāmā.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born to you, “You be worshipped with the celestials and other deities of Viṣṇu.
+
+[188]
+Reference: will make you get the ambrosia and not the demons.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[189]
+Reference: The waters of the Ganges should be poured with the mantra samudraṃ gaccha, rain waters with somo dhenum, water from waterfalls with devīrāpa, the water of the masculine rivers with pañca nadyaḥ, the spring water with udbhid, the waters from sacred places with pāvamānī, the pañcagavya the five things from a cow with āpo hi ṣṭhā and from the golden pitcher with hiraṇyavarṇām.
+Prediction: The image should be placed in the mantra of Viṣṇu, and having worshipped with water on the right hand and having offered to the heart with the head of the recitation of Śiva, one has to worship with the left hand and other parts of the sacred syllables of the east etc.
+
+[190]
+Reference: Vedaśirā gave birth to Mārkaṇḍeya from Mṛkaṇḍu.
+Prediction: He was born to Rāma and others, “O Lord! you.
+
+[191]
+Reference: The preceptor should take up pure materials and bring together the two excellent principles in order in such a way they are not broken.
+Prediction: The image should be worshipped with the mantra of Viṣṇu, and others as well as having offered the right hand.
+
+[192]
+Reference: Or else you fight with him.” Hearing these words, Suyodhana Duryodhana said to Kṛṣṇa, “ will not give land even of the size of a needle tip.
+Prediction: One who builds a temple of Viṣṇu is known as well as he was born to you. He was born from the celestials and others.
+
+[193]
+Reference: One should draw a lotus having eight radii and worship the preceptor and others as before. Having offered the seat with the eight sacred letters one should place the stone with the same formula.
+Prediction: The image should be placed in the right hand and having worshipped with aṅgulas. Then one has to worship of Viṣṇu on the mantra of the east etc.
+
+[194]
+Reference: The Viśvedevas were born to Viśvā, Sādhyā gave birth to the Sādhyas.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[195]
+Reference: There is no other male on the earth besides you, who is capable of conquering this illusory power of mine.” Then the demons, who had not got the ambrosia were defeated by the celestials in battle.
+Prediction: One has to worship the celestials and others, who was born to you. Having worshipped by Rāma, “You have been killed by me.
+
+[196]
+Reference: Having worshipped fire at the rite of dismissal the threads are removed.
+Prediction: One has to worship the mode of Viṣṇu in the celestials and others.
+
+[197]
+Reference: Having worshipped the anus and penis one has to worship the lords of the twelve months as well as the twentysix forms commencing with Puruṣottama in the external enclosure.
+Prediction: The image should be placed in the mantra of Viṣṇu and having worshipped it with water, one has to worship with the right hand.
+
+[198]
+Reference: The following are the names of Gaṇeśa to be worshipped “Gaṇapati Lord of gaṇas, Gaṇādhipa chieftain of the gaṇas, Gaṇeśa Lord of gaṇas, Gaṇanāyaka the lord of gaṇas, Gaṇakrīḍa one who sports with the gaṇas, Vakratuṇḍa having a bent trunk, Ekadaṃṣṭra having one tusk, Mahodara bigbellied, Gajavaktra elephantfaced, Lambakukṣi longbellied, Vikaṭa dreadful, Vighnanāśana destroyer of impediments, Dhūnravarṇa tawnycoloured and Mahendra.
+Prediction: The image of Viṣṇu should be placed in the right hand and having worshipped with the heart, one has to worship by the head of the east and the mantra of the fire on the left hand and other deities of Śiva. Having offered the northwest, one’s form of Viṣṇu in the recitation of Viṣṇu.
+
+[199]
+Reference: Hanūmat killed the enemy Dhūmrākṣa with a big rock.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord! you be worshipped.
+
+[200]
+Reference: The pericarp should be of yellow colour, and all the lines equal and white.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[201]
+Reference: The primary offering and the offering with clarified butter should be done with the syllable oṃ.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[202]
+Reference: Padma, mahāpadma, makara, kacchapa, kumuda, nanda, padma, śaṅkha and padminī are the divinities.
+Prediction: The image should be placed in the right hand and having offered to the heart, the head of Viṣṇu. Having worshipped with the left hand etc.
+
+[203]
+Reference: By destiny there was enmity between the Kurus Kauravas and Pāṇḍavas.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[204]
+Reference: Listen now the narration of the characteristics of all liṅgas.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[205]
+Reference: The Nāga serpent is worshipped in a square with the nāga flowers and the chief serpent in two squares with edibles The Bhallāṭa a kind of superhuman being is worshipped in a single square with rice mixed with kidneybean, and the moon with the same offering in the next square.
+Prediction: The image should be placed in the mantra of aṅgulas and having worshipped with the right hand. One has to worship on the east, one’s form of Viṣṇu.
+
+[206]
+Reference: The pedestal of the image of Hari also should always be made beautiful.
+Prediction: The image should be worshipped with the recitation of Viṣṇu.
+
+[207]
+Reference: would live, O Khara! only when you would make me drink the hot blood of Sītā, the wife of Rāma and Lakṣmaṇa, his brother.
+Prediction: Then the celestials was born of Viṣṇu and others, “O Rāma were born to you have been worshipped by me.
+
+[208]
+Reference: Oblations should be given to Sūrya, Prajāpati the creator, the lord of the ethereal region.
+Prediction: The image should be placed in the mantra of the recitation of Viṣṇu.
+
+[209]
+Reference: Beholding her and adoring her all the celestials regained their lost prosperity.
+Prediction: The image should be worshipped with the celestials and others.
+
+[210]
+Reference: The destroyer of the monkey Dvivida and the destroyer of the pride of Kauravas, Lord Hari amused himself in many forms along with Rukmiṇī and others.
+Prediction: The image should be placed in the recitation of Viṣṇu and having worshipped it with aṅgulas. Then one has to worship of Viṣṇu, and others.
+
+[211]
+Reference: Whichever benefit could not be obtained by doing sacrificial rites, could be got by the erection of an abode for the god. He who erects an abode for the god reaps fruits of bathing in all holy waters.
+Prediction: The image should be worshipped with the recitation of Viṣṇu in aṅgulas. One has to worship the earth on the east and other directions.
+
+[212]
+Reference: The cavity in the ear is spoken to be in the same line as the eyebrows.
+Prediction: The image should be worshipped with the recitation of Viṣṇu and others.
+
+[213]
+Reference: They two, the protectors of the entire world became the protectors of cows.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[214]
+Reference: The female one is that in which these characteristics are present in a lesser degree. If they are devoid of colours they are neuter.
+Prediction: The image should be placed in the middle of aṅgulas.
+
+[215]
+Reference: The supreme brahman is to be worshipped in the auspicious twentyfive compartment formation.
+Prediction: The image of Viṣṇu should be made to the form of aṅgulas.
+
+[216]
+Reference: The goddess Kṣamā Forbearance should be surrounded by jackals, old, having two arms, and widely opened mouth. The goddess Kṣemaṅkarī Benevolent may have protruding teeth and be resting her knees on the ground. The wives of semigods should be made to have long and motionless eyes.
+Prediction: The image of Viṣṇu should be made to the right hand and aṅgulas. One has been worshipped with the recitation of the heart, one’s form of Śiva in the east and other directions.
+
+[217]
+Reference: You make the image imbued with your soul both inside and outside.
+Prediction: He was born to you, “O Rāma and others.
+
+[218]
+Reference: Then Saumitri Lakṣmaṇa being told inconsistent words by Sītā went in search of Rāma.
+Prediction: He was born to you, Rāma and others.
+
+[219]
+Reference: It is of the shape of a mace. The Nṛsiṃha stone is tawny. It has the mark of a big disc and five dots. The Varāha stone is of the shape of the female divinity.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others in aṅgulas. Then one has to worship which is known as well as it.
+
+[220]
+Reference: By the curse of a sage then he Pāṇḍu died on account of union with his wife at the hermitage of Śataśṛṅga, then Yudhiṣṭhira was born to Pāṇḍu through Kuntī from Dharma Yama.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord! you be worshipped in this way, he was born from the celestials.
+
+[221]
+Reference: May there be no impediment here in the pavitraka rite.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[222]
+Reference: Then after offering oblations to the fire, the pupils who are seated in the Padmāsana posture are called upon and are initiated.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[223]
+Reference: A fourstoreyed building devoid of all defects is always commended.
+Prediction: The image should be placed in the middle of aṅgulas.
+
+[224]
+Reference: From the lightning he created thunder and clouds, the rainbow and birds.
+Prediction: The image of Viṣṇu should be placed in the right hand.
+
+[225]
+Reference: Śarmiṣṭhā, the daughter of Vṛṣaparvan gave birth to Druhyu, Anu and Puru through Yayāti.
+Prediction: The image should be placed in the right hand and having worshipped with the mantra of Viṣṇu.
+
+[226]
+Reference: One should place one thousand and eight twigs of the palāśa tree in each one of the fire pits and offer grains with vedic hymns. Clarified butter and sesamum should be offered to fire with the vyāhṛtis Oṃ bhūḥ, bhuvaḥ, suvaḥ and ghee with the principal mantra.
+Prediction: The image should be placed in the mantra of Viṣṇu and having worshipped with water, one has to worship with the east etc. Having offered with the right hand and other things should be made by the left hand.
+
+[227]
+Reference: Surabhi begot eleven Rudras from Kaśyapa.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[228]
+Reference: Three figures are drawn on each side of the petal for beautifying it. Similarly, three ornaments are to be drawn on the opposite direction inside the angular point as well as outside without any difference between the two.
+Prediction: The image should be placed in the mantra of the right hand and having worshipped with one has to worship by the east with the recitation of Viṣṇu. One has been offered with the heart.
+
+[229]
+Reference: Mounting the chariot brought by Indra he reached heavens along with his brothers, having seen Duryodhana and others and Vāsudeva and becoming happy.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord! you be worshipped in this way, he was born from the celestials.
+
+[230]
+Reference: O Sugrīva! You stand by at this juncture. Do not take to the course of Vālin.” Sugrīva said, “ did not realize the elapse of time on account of my preoccupation.”
+Prediction: One who was born to you, “O Rāma and others were born from the son of Viṣṇu.
+
+[231]
+Reference: The sons of Hiraṇyākṣa were five. Śambara, Śakuni, Dvimūrddhan , Śaṅkurārya were the prominent among the hundred sons of Danu.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born from the earth in the celestials.
+
+[232]
+Reference: Remaining in Kūrma tortoise posture, one should adore Ananta, Yama, the solar and other luminous regions and other planets occupying the filament and pericarp of the lotus.
+Prediction: The image of Viṣṇu should be made to the right hand and having placed in aṅgulas. One has been worshipped with the heart, and others.
+
+[233]
+Reference: Having heard that, he Rāma spent the four months on the Mālyavat mountain.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others.
+
+[234]
+Reference: After having collected the brahmakūrca grass, the worshipper should prepare the gruel made of barley and milk of tawny coloured cow with the mantra tadviṣṇoḥ.
+Prediction: The image should be worshipped with the recitation of Viṣṇu, and others as well as aṅgulas. One has to worship of Viṣṇu.
+
+[235]
+Reference: Three such parts will be the height of the neck portion.
+Prediction: The image should be placed in the right hand and aṅgulas.
+
+[236]
+Reference: They are made to be coloured as the rocanā.
+Prediction: The image should be placed in the right hand and having worshipped it with aṅgulas.
+
+[237]
+Reference: They would receive even from the vile. All of them became mixed Dasyus and devoid of good conduct at the end of Kaliyuga.
+Prediction: One has to worship the mode of Viṣṇu, and others in this way, who was born from a square with the earth.
+
+[238]
+Reference: And again having taken the ladles sruk and sruva and having sprinkled them with water with them the kuśa grass and having heated and wiped them with the darbhas and again having sprinkled water and burnt and having placed along with the syllable Om, the aspirant must perform fire oblation commencing with the syllable Om and ending with salutation.
+Prediction: The image should be placed in the mantra of Viṣṇu and having worshipped with the right hand etc. One has to worship with the heart, and others on the recitation of Śiva in the east and other deities of Viṣṇu in the left hand and others.
+
+[239]
+Reference: Glory be to the daughter of Bhārgava Śukra the preceptor of demons, the giver of success to her offsprings.
+Prediction: One has to worship the mode of Viṣṇu and others.
+
+[240]
+Reference: His brothers Citriiṅgada and Vicitra vīrya were born to Śantanu through Satyavatī.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born to you.
+
+[241]
+Reference: A lotus figure is drawn in front outside and a circle is drawn around it.
+Prediction: The image should be worshipped with the mantra of Viṣṇu, and having placed in aṅgulas.
+
+[242]
+Reference: Then the demon Hiraṇyakaśipu, brother of Hiraṇyākṣa after conquering the celestials was grabbing a share of the offerings exercised control over all the celestials.
+Prediction: One has to worship the mode of Viṣṇu, and others, “O Lord! you be worshipped.
+
+[243]
+Reference: The priest should show these at the foot with the hymn called aśvasūkta and the tripād gāyatrī.
+Prediction: The image should be placed in the middle of the recitation of aṅgulas.
+
+[244]
+Reference: shall describe the mystic syllables for the application with which the oblation relating to the initiation is closely associated Oṃ, Yaṃ, the goblins, the pure huṃ, phaṭ.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born from aṅgulas.
+
+[245]
+Reference: In the same manner, six or four compartments are omitted outside the door and four inside.
+Prediction: The image should be placed in the mantra of aṅgulas.
+
+[246]
+Reference: The celestials got back to their celestial home. One who reads this account goes to the celestial region.
+Prediction: The image of Viṣṇu should be worshipped with the celestials and others.
+
+[247]
+Reference: The sacred waters of the sacred spots should be invoked for their presence with the recitation of vedic mantras symbolising the waters. The image should again be worshipped with the principal oblations uttering the mantra āpo hi ṣṭhā.
+Prediction: The image should be worshipped with the mantra of Viṣṇu and having placed on the recitation of the right hand. One has to worship which is offered in the east with the sacred syllables of the mystic syllable.
+
+[248]
+Reference: The liṅga, situated in one’s self, and which has been purified earlier, is then to be transferred.
+Prediction: The image should be worshipped with the mantra of Viṣṇu.
+
+[249]
+Reference: The Hayaśiras horseheaded form of Viṣṇu should be represented as holding the conch, disc, mace and the Vedas. The left foot should rest on the serpent Śeṣa and the right on the back of tortoise.
+Prediction: The image of Viṣṇu should be made to the right hand and having placed in the heart, one has been worshipped with aṅgulas.
+
+[250]
+Reference: Acyuta divided into many forms is regarded as ‘truth’.
+Prediction: The image should be placed in the recitation of Viṣṇu. One has been worshipped with aṅgulas.
+
+[251]
+Reference: Knowing that personunited with herself, she identified Aniruddha from the drawn portraits of princes through the assistance of her friend Citralekhā and brought that grandson of Kṛṣṇa from Dvārakā to her place by the daughter of Kumbhāṇḍa, the minister of Bāṇa.
+Prediction: One has to worship the mode of Viṣṇu, and others, “O Lord Hari, who was born in this way, “You be worshipped with the celestials.
+
+[252]
+Reference: The yogic seat should be bedecked with any of the colours according to one’s own desire.
+Prediction: The image of Viṣṇu should be worshipped with the earth and others.
+
+[253]
+Reference: The principle of earth should be purified.
+Prediction: The image should be worshipped with the mantra of the east etc.
+
+[254]
+Reference: He conferred gifts on the deserving men. He protected the welfare of his subjects.
+Prediction: He was born to Rāma and others, “O you.
+
+[255]
+Reference: The seven kinds of Pākayajñas are aṣṭakā, pārvaṇaśrāddha, śrāvaṇī, āgrayaṇī, caitrī and āśvayujī. The Haviryajñas are seven. You hear them.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord! you be worshipped with the celestials, he was born in this way, “You have been done by me.
+
+[256]
+Reference: Being consoled by Vyāsa, he thought, “My strength remains only in the presence of Kṛṣṇa.” Having come to Hastināpura, Pārtha then informed Yudhiṣṭhira, his brothers and the guards of the people.
+Prediction: One has to worship the lord of Viṣṇu, and others, “O Lord Hari, who was born to you have been worshipped by me in this way, “You be placed on the celestials.
+
+[257]
+Reference: Having placed these materials on the right side of the deity with a pleasing face and having lifted these showing saṃhāra mudrā posture of the fingers representing destruction, one should place them on the head with the repetition of the mantra.
+Prediction: The image should be worshipped with the mantra of Viṣṇu, and having placed on the right hand. Having offered the east and the recitation of the heart, one has to be made.
+
+[258]
+Reference: The terrestrial boar manifestation should have a human body and as carrying a mace and other weapons in the right hand, and the conch, the goddess Lakṣmī or a lotus in the left. Or the goddess is represented as resting on the left elbow and the earth and the serpent Ananta at the feet.
+Prediction: The image should be placed in the right hand and having worshipped with the heart, one’s form of Viṣṇu on the head, the east and the mantra.
+
+[259]
+Reference: The young sprouts from the vaṭa udumbara, aśvattha, campaka, aśoka, śrīdruma, palāśa, arjuna, plakṣa, kadamba, bakula and mango trees should be brought and put in the eastern pitcher.
+Prediction: The image should be placed in the mantra of Viṣṇu, and others with the right hand and having worshipped on the recitation of the head of the east and other directions.
+
+[260]
+Reference: The image should then be bathed with the waters of.pitchers on the south, west and north with the recitation of hymns kāmosmi te, candram prabhāsām, āditya varṇa respectively
+Prediction: The image should be worshipped with the right hand and having placed in aṅgulas. One has to worship of Viṣṇu on the recitation of the east, one’s.
+
+[261]
+Reference: The image should be made to have two or four arms, holding the mace in the right hand and conferring benediction.
+Prediction: The image should be placed in the right hand and having worshipped with aṅgulas.
+
+[262]
+Reference: May Acyuta, who holds mace, lotus, disc and conch, protect you all. So also may Upendra, who is of the form of a child and who holds the disc and lotus, protect you.
+Prediction: The image should be placed in the right hand and others as well as having offered the heart and other directions.
+
+[263]
+Reference: As desired by you, shall send them. Let them search for Jānakī in the direction of east etc. Let them return in a month. If they come after a month will kill them.”
+Prediction: One has to worship the mode of Viṣṇu, “O Lord Hari Viṣṇu in this way, who was born to you.
+
+[264]
+Reference: The builder of five abodes reaches the world of Śambhu Śiva. By building eight abodes one remains in the world of Hari.
+Prediction: The image should be placed in the right hand and others as well as having worshipped it.
+
+[265]
+Reference: Those who sing the glories of Govinda while standing or sleeping or walking or standing behind or stumbling or remaining at a place are to be avoided by you from a distance.
+Prediction: One has to worship the mode of Viṣṇu and others, “O Lord! you be worshipped in this way, he was born from the celestials.
+
+[266]
+Reference: The wiseman should divide the liṅga measuring aṅgulas into parts through the central line upto the Brahman and Rudra parts.
+Prediction: The image should be aṅgulas. Having made the length of the middle of aṅgula.
+
+[267]
+Reference: Yaśodā carried the daughter born to her and left it at the couch of Devakī.
+Prediction: One has to worship the mode of Viṣṇu and others, he was born to you.
+
+[268]
+Reference: After stirring it with the basic syllable of Pradyumna the worshipper has to mix it slowly with the ladle and then the cooked food is lifted with the basic syllable of Aniruddha. Having washed him and besmearing with sandals, the vertical mark is made on the forehead with the ashes.
+Prediction: The image should be worshipped with the mantra of Viṣṇu and having placed on the right hand, one has to worship with the recitation of Śiva in the east and the heart with the sacred syllables of the head of Viṣṇu.
+
+[269]
+Reference: They are hiraṇyāṅghri, hiraṇyākṣa, hiraṇyamitra, hiraṇyapāṇi, hemākṣa, hemāṅga, hemasūtraka, hiraṇyāsya, hiraṇyāṅga, hemajihva, and hiraṇyavat.
+Prediction: The image should be placed in the east and the earth with the right hand. Then one has to worship of Viṣṇu.
+
+[270]
+Reference: Among the outer angles leaving off seven, the rest and three inside are sprinkled with water.
+Prediction: The image should be worshipped with the mantra.
+
+[271]
+Reference: Then contemplating on Hari, offering waters of oblation and reciting the twelvesyllabled mantra, appeasing all others with devotion commencing in order with the seat of meditation, the mantras upto all the guardian deities of the quarters, the sages, clans of manes, men, all beings and ending with the mobile beings are placed.
+Prediction: The image should be placed in the mantra of Viṣṇu, and having worshipped with the right hand and having offered to the east and having placed on the head, the heart, one’s form of Śiva.
+
+[272]
+Reference: Four pitchers should be placed at the corners of the sacrificial altar with the sacred syllable ājighra.
+Prediction: The image of Viṣṇu should be placed in the recitation of Viṣṇu.
+

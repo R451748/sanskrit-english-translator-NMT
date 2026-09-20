@@ -1,0 +1,64 @@
+V2-5504 MODEL EVALUATION
+======================================================================
+
+Checkpoint epoch: 8
+Checkpoint validation loss: 4.6158898498701015
+Validation sentences: 551
+Validation loss: 4.6159
+BLEU: 2.0378
+chrF: 19.3986
+Repetition rate: 5.26%
+
+======================================================================
+TRANSLATION EXAMPLES
+======================================================================
+
+Example 1
+Index: 7765
+Prediction: The king should not be punished with a brahmin or a brahmin or a brahmin or a king.
+Reference: But the above described punishments should be half if the crimes have been done inadvertently or for fun.
+
+Example 2
+Index: 7207
+Prediction: The king should be made as the king. The king should be made as the king.
+Reference: That earth upto the continent of Jambū is spoken as excellent.
+
+Example 3
+Index: 2686
+Prediction: The image should be made as having worshipped the fire in the mantra of the mantra of the heart. The image should be made as before. The image should be made with the mantra of the mantra.
+Reference: Having wiped it dry with a clean cloth, the preliminary offering of water should be given. The hand should not be moved over the head of the image. The liṅga should never be left without any flower on its head.
+
+Example 4
+Index: 6912
+Prediction: One should worship lord Viṣṇu in the sacred thread for the lord Viṣṇu in the body.
+Reference: After fasting on the eleventh day, lord Hari should be worshipped for a month.
+
+Example 5
+Index: 1127
+Prediction: O Lord! you come. O lord! you come.
+Reference: O Acyuta, the foremost among gods you destroy the evil. forces.
+
+Example 6
+Index: 9078
+Prediction: The king should not not not not not not not do the king.
+Reference: It will rain in no time.
+
+Example 7
+Index: 1560
+Prediction: The image of Śiva should be worshipped in the mantra of the heart.
+Reference: The omnipresent form of Hari should be placed in the centre in the construction of the thirteen chambers.
+
+Example 8
+Index: 3206
+Prediction: The king should be made by the same way, a brahmin, a brahmin and a brahmin.
+Reference: The sīmantonnayana parting of the hair and the divine limbs should be treated as the body.
+
+Example 9
+Index: 865
+Prediction: The image of Viṣṇu is the form of Viṣṇu, Viṣṇu, Viṣṇu, mace, disc, disc, disc, and lotus and the earth.
+Reference: Viṣṇu, Madhuhara killer of the demon Madhu, Trivikrama, Vāmana, Śrīdhara, Hṛṣīkeśa, Padmanābha, Dāmodara, Keśava, Nārāyaṇa, Mādhava, Govinda are the names of Viṣṇu.
+
+Example 10
+Index: 2850
+Prediction: The image of Viṣṇu is made in the same way.
+Reference: After having taken possession of the sacred ground, the sungod should be worshipped.

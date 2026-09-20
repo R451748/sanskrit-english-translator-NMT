@@ -1,0 +1,623 @@
+FAST LoRA EVALUATION - 100 SENTENCES
+============================================================
+
+Samples: 100
+Batch size: 4
+Beams: 1
+Max new tokens: 64
+
+BASE MODEL
+BLEU: 1.4553
+chrF: 19.0451
+
+LoRA MODEL
+BLEU: 1.8675
+chrF: 20.9062
+
+CHANGE
+BLEU: +0.4122
+chrF: +1.8611
+
+============================================================
+TRANSLATIONS
+============================================================
+
+[1]
+Sanskrit: kāma krodha vimuktānām yatīnām yata cetasām abhitaḥ brahma nirvāṇam vartate vidita ātmanām
+Reference: Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.
+Base: " Kama is the liberation from anger, the liberation of the mind from anger. "
+LoRA: " Kama is the liberation from anger, the consciousness of the mind, the awareness of the self, the knowledge of the Brahman, the Nirvana. "
+
+[2]
+Sanskrit: sparśān kṛtvā bahiḥ bāhyān cakṣuḥ ca eva antare bhruvoḥ prāṇa apānau samau kṛtvā nāsa abhyantara cāriṇau yata indriya manaḥ buddhiḥ muniḥ mokṣa parāyaṇaḥ vigata icchā bhaya krodhaḥ yaḥ sadā muktaḥ eva saḥ
+Reference: Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils, and thus controlling the mind, senses and intelligence, the transcendentalist aiming at liberation becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
+Base: " And when he hath touched, he hid from the outside the outer eye, and from the inside the inner eye the soul of the brother, and hath not taken it in, but hath cleansed the inner body, and the mind, and senses, and mind, the sage,
+LoRA: " And when the eyes are opened, and the outer eyes are closed, and within the soul the soul of the brother is not absorbed, but the innermost four legs are closed : the senses, the mind, the intellect, the sage, the desire, the fear, the anger, the eternal release,
+
+[3]
+Sanskrit: bhoktāram yajña tapasām sarva loka mahā īśvaram su hṛdam sarva bhūtānām jñātvā mām śāntim ṛcchati
+Reference: A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.
+Base: " And when I shall have worshipped him, I will pray him that he may give me peace, that he might know the great God, and that he himself may know the devils of my heart. "
+LoRA: " And when the Lord hath called the people to worship, he hath given me peace, knowing that the great God is in the midst of the heart and all the devils. "
+
+[4]
+Sanskrit: śrī bhagavān uvāca anāśritaḥ karma phalam kāryam karma karoti yaḥ saḥ sannyāsī ca yogī ca na niḥ agniḥ na ca akriyaḥ
+Reference: The Supreme Personality of Godhead said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic, not he who lights no fire and performs no duty.
+Base: " Shri Bhagwan said, " " The fruit of unshrinking action is action, that is, the ascetic and yogi who is neither fire nor fire. " " "
+LoRA: " Shri Bhagwan said that the fruit of unrelenting action is the action of the action, that ascetic and yogi who is neither fire nor inert. "
+
+[5]
+Sanskrit: yam sannyāsam iti prāhuḥ yogam tam viddhi pāṇḍava na hi asannyasta saṅkalpaḥ yogī bhavati kaścana
+Reference: What is called renunciation you should know to be the same as yoga, or linking oneself with the Supreme, O son of Pāṇḍu, for one can never become a yogī unless he renounces the desire for sense gratification.
+Base: " Yama, sannyasa, yogic practice, is the practice of the unformed concept of yogin, not of the Pandava. "
+LoRA: " One who is a yogic ascetic, who is not a Pandava, but a yogi of unsolved concept. "
+
+[6]
+Sanskrit: ārurukṣoḥ muneḥ yogam karma kāraṇam ucyate yoga ārūḍhasya tasya eva śamaḥ kāraṇam ucyate
+Reference: For one who is a neophyte in the eightfold yoga system, work is said to be the means; and for one who is already elevated in yoga, cessation of all material activities is said to be the means.
+Base: " The reason for the beginning of yoga is called the cause of Karma, "
+LoRA: " The reason for the Yoga of the Moon is called Karma and the reason for starting the Yoga is called Shama. "
+
+[7]
+Sanskrit: yadā hi na indriya artheṣu na karmasu anuṣajjate sarva saṅkalpa sannyāsī yoga ārūḍhaḥ tadā ucyate
+Reference: A person is said to be elevated in yoga when, having renounced all material desires, he neither acts for sense gratification nor engages in fruitive activities.
+Base: " When he has attained the ascetic yoga of all the concepts, not the sense sense, not action, "
+LoRA: " When he has not attained the sense sense or the action, then all the concepts and the sanyasis have started the yoga. "
+
+[8]
+Sanskrit: uddharet ātmanā ātmānam na ātmānam avasādayet ātmā eva hi ātmanaḥ bandhuḥ ātmā eva ripuḥ ātmanaḥ
+Reference: One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.
+Base: " For the Spirit is not the soul, but the spirit : the Spirit, the friend of the self, the spirit, the repentance of the soul. "
+LoRA: " For the Spirit is not the soul, but the spirit, and the spirit is the friend of the self, and not the downfall of the soul : "
+
+[9]
+Sanskrit: bandhuḥ ātmā ātmanaḥ tasya yena ātmā eva ātmanā jitaḥ anātmanaḥ tu śatrutve varteta ātmā eva śatru vat
+Reference: For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy.
+Base: " Friend is the soul, the self, the soul is the enemy of the self. "
+LoRA: " For the soul is the enemy of the soul, and the soul the enemy, and not the enemy. "
+
+[10]
+Sanskrit: jita ātmanaḥ praśāntasya parama ātmā samāhitaḥ śīta uṣṇa sukha duḥkheṣu tathā māna apamānayoḥ
+Reference: For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquillity. To such a man happiness and distress, heat and cold, honor and dishonor are all the same.
+Base: " Jita Atman : One who is the supreme Self of peace, cool, warm, happy, sad and humbled. "
+LoRA: " Jita atman : One who is the supreme Self of the tranquility, the ultimate Self, the supreme self, the Supreme Self, who is endowed with the highest state of being, the highest of all, the lowest of all. "
+
+[11]
+Sanskrit: jñāna vijñāna tṛpta ātmā kūṭa sthaḥ vijita indriyaḥ yuktaḥ iti ucyate yogī sama loṣṭra aśma kāñcanaḥ
+Reference: A person is said to be established in self-realization and is called a yogī [or mystic] when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything – whether it be pebbles, stones or gold – as the same.
+Base: " Jnana-vigyanah : One who is endowed with knowledge, knowledge, wisdom, knowledge and wisdom. "
+LoRA: " The yogis are called yogic, sama lostra, asma, kanchan, yogin, yogi, yagya, vigyana, vijnana, jnana and vijñana, yajnana is the knowledge of the universe,
+
+[12]
+Sanskrit: su hṛt mitra ari udāsīna madhya stha dveṣya bandhuṣu sādhuṣu api ca pāpeṣu sama buddhiḥ viśiṣyate
+Reference: A person is considered still further advanced when he regards honest well-wishers, affectionate benefactors, the neutral, mediators, the envious, friends and enemies, the pious and the sinners all with an equal mind.
+Base: " And in the midst of the heart of thee is friendship, and in the middle of indifference, and understanding of the two brethren, and of the saints, and sins ; "
+LoRA: " And in the midst of the heart, and in the heart of the friend, and of the adversary, and the midst, and two brethren, and one mind is equal unto righteousness and sin. "
+
+[13]
+Sanskrit: yogī yuñjīta satatam ātmānam rahasi sthitaḥ ekākī yata citta ātmā nirāśīḥ aparigrahaḥ
+Reference: A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness.
+Base: " In the yogic yogis, the soul is always in the secret, the mind is alone, the spirit is in despair, and the grace is imperishable. "
+LoRA: " In the yogic yogis, the soul is always in the secret, the mind is alone, the spirit is in despair, and the grace is imperishable. "
+
+[14]
+Sanskrit: śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ na ati ucchritam na ati nīcam caila ajina kuśa uttaram tatra eka agram manaḥ kṛtvā yata citta indriya kriyaḥ upaviśya āsane yuñjyāt yogam ātma viśuddhaye
+Reference: To practice yoga, one should go to a secluded place and should lay kuśa grass on the ground and then cover it with a deerskin and a soft cloth. The seat should be neither too high nor too low and should be situated in a sacred place. The yogī should then sit on it very firmly and practice yoga to purify the heart by controlling his mind, senses and activities and fixing the mind on one point.
+Base: " And set him in a clean place, and sit in a stable posture : neither too loud nor too low for the soul : but sit there on your knees, and meditate on one of the four corners of your mind, and do all your mental and sensory work. "
+LoRA: " And when he was established in a clean land, he set him in a stable posture, not too loud or too low for the soul, not wanting to be called abased, but having a certain mind, and having sat down in the seat of the mind and the senses, "
+
+[15]
+Sanskrit: samam kāya śiraḥ grīvam dhārayan acalam sthiraḥ samprekṣya nāsikā agram svam diśaḥ ca anavalokayan praśānta ātmā vigata bhīḥ brahmacāri vrate sthitaḥ manaḥ saṁyamya mat cittaḥ yuktaḥ āsīta mat paraḥ
+Reference: One should hold one’s body, neck and head erect in a straight line and stare steadily at the tip of the nose. Thus, with an unagitated, subdued mind, devoid of fear, completely free from sex life, one should meditate upon Me within the heart and make Me the ultimate goal of life.
+Base: " And he stood still, and held his head and neck, and opened his nostrils, and his mouth, and looked toward himself, and the spirit was at peace, and he was in the past celibate fast, and made his mind to pass through. "
+LoRA: " And he stood still, and held his head and neck, and opened his nostrils, and his eyes, and looked in his direction, and the spirit was at peace, and he was in the past celibate fast, and was mindful of him, and kept his mind in him. "
+
+[16]
+Sanskrit: yuñjan evam sadā ātmānam yogī niyata mānasaḥ śāntim nirvāṇa paramām mat saṁsthām adhigacchati
+Reference: Thus practicing constant control of the body, mind and activities, the mystic transcendentalist, his mind regulated, attains to the kingdom of God [or the abode of Kṛṣṇa] by cessation of material existence.
+Base: " For the same way the Spirit always endures the yogi, the appointed mind, the peace of mind, and the perfection of the Supreme Self, "
+LoRA: " For the same way the yogi always endures the eternal atman, the appointed mind, the peace of mind, and the supreme attainment of nirvana, the attainment to the supreme and the attainable. "
+
+[17]
+Sanskrit: na ati aśnataḥ tu yogaḥ asti na ca ekāntam anaśnataḥ na ca ati svapna śīlasya jāgrataḥ na eva ca arjuna
+Reference: There is no possibility of one’s becoming a yogī, O Arjuna, if one eats too much or eats too little, sleeps too much or does not sleep enough.
+Base: " Neither too much sleep, nor loneliness, nor sleep, neither sleep, sleep, wake, sleep and sleep, "
+LoRA: " Neither too much sleep, nor loneliness, nor sleep, neither too much dream, neither awake, neither alone, neither in the form of the mind, neither is yoga, nor in the nature of the world, neither the mind of the universe, nor the mind which is the source of all the dreams
+
+[18]
+Sanskrit: yukta āhāra vihārasya yukta ceṣṭasya karmasu yukta svapna avabodhasya yogaḥ bhavati duḥkha hā
+Reference: He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system.
+Base: " Yukta, aahar, vihara, yukta ( effort ), karma, kriyas ( deeds ), yog ( realization ), sadhana ( sorrow ), "
+LoRA: " The sum of the yogic practices, the yoga of the dream, the karma of the kruta, the yoga of the action of the desire, the vihara of the food, the Yoga of the realization of the dreams, the Yogah of the sorrow, the Krut
+
+[19]
+Sanskrit: yadā viniyatam cittam ātmani eva avatiṣṭhate nispṛhaḥ sarva kāmebhyaḥ yuktaḥ iti ucyate tadā
+Reference: When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in transcendence – devoid of all material desires – he is said to be well established in yoga.
+Base: " When the mind is nothing, and the spirit is nothing ; when the mind, being nothing, is nothing. "
+LoRA: " When the mind is nothing but the self, and the mind the self : when the mind, the mind and the spirit are nothing, it is said that it is endowed with all things. "
+
+[20]
+Sanskrit: yathā dīpaḥ nivāta sthaḥ na iṅgate sā upamā smṛtā yoginaḥ yata cittasya yuñjataḥ yogam ātmanaḥ
+Reference: As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.
+Base: " And the yogis remembered the parable, How a lamp cannot be put out, for the mind is the same as the soul. "
+LoRA: " And the yogis remembered the parable, that when the lamp was put out, they could not see : for the mind is the same as the soul. "
+
+[21]
+Sanskrit: yatra uparamate cittam niruddham yoga sevayā yatra ca eva ātmanā ātmānam paśyan ātmani tuṣyati sukham ātyantikam yat tat buddhi grāhyam atīndriyam vetti yatra na ca eva ayam sthitaḥ calati tattvataḥ yam labdhvā ca aparam lābham manyate na adhikam tataḥ yasmin sthitaḥ na duḥkhena guruṇā api vicālyate tam vidyāt duḥkha saṁyoga viyogam yoga saṁjñitam
+Reference: In the stage of perfection called trance, or samādhi, one’s mind is completely restrained from material mental activities by practice of yoga. This perfection is characterized by one’s ability to see the Self by the pure mind and to relish and rejoice in the Self. In that joyous state, one is situated in boundless transcendental happiness, realized through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty. This indeed is actual freedom from all miseries arising from material contact.
+Base: " Wherever the mind is restrained by the above belief, by the yogic service, wherever the soul sees the self, the self will be destroyed. Happiness is the ultimate, that which the intellect perceives, the innermost, where it is not, what it has acquired from the moving element, what
+LoRA: " Wherever the mind is restrained by the above belief, by the yogic service, wherever the soul sees the self, the self will be destroyed. Happiness is the ultimate, that which the intellect perceives, the innermost sense organism perceives and perceives that which is not there, which is
+
+[22]
+Sanskrit: saḥ niścayena yoktavyaḥ yogaḥ anirviṇṇa cetasā saṅkalpa prabhavān kāmān tyaktvā sarvān aśeṣataḥ manasā eva indriya grāmam viniyamya samantataḥ
+Reference: One should engage oneself in the practice of yoga with determination and faith and not be deviated from the path. One should abandon, without exception, all material desires born of mental speculation and thus control all the senses on all sides by the mind.
+Base: " And he said unto them, Yoga, the absence of mind, the lack of consciousness, the excess of desire, the emptiness of the mind, and the absence from the village of the senses, "
+LoRA: " And he said unto them, Yoga, the absence of mind, the lack of consciousness, the abstinence from all desire, the excess of the will, the emptiness of the mind, and the dissolution of the senses, "
+
+[23]
+Sanskrit: śanaiḥ śanaiḥ uparamet buddhyā dhṛti gṛhītayā ātma saṁstham manaḥ kṛtvā na kiñcit api cintayet
+Reference: Gradually, step by step, one should become situated in trance by means of intelligence sustained by full conviction, and thus the mind should be fixed on the Self alone and should think of nothing else.
+Base: " And slowly he lifted up his mind, and took hold of it, and gave himself to the task of doing it, not to think of any thing. "
+LoRA: " And slowly the mind lifted up, and took hold of him, and gave thought to the things which were to be done in himself, and thought nothing of them. "
+
+[24]
+Sanskrit: yataḥ yataḥ niścalati manaḥ cañcalam asthiram tataḥ tataḥ niyamya etat ātmani eva vaśam nayet
+Reference: From wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self.
+Base: " For when the mind is still, the mind faint, and the mind be not in control of the spirit : "
+LoRA: " For when the mind is still, the mind faint, and the mind be not in control of the self, "
+
+[25]
+Sanskrit: yuñjan evam sadā ātmānam yogī vigata kalmaṣaḥ sukhena brahma saṁsparśam atyantam sukham aśnute
+Reference: Thus the self-controlled yogī, constantly engaged in yoga practice, becomes free from all material contamination and achieves the highest stage of perfect happiness in transcendental loving service to the Lord.
+Base: " You all must always be a yogi of the Atman, and to touch the past Kalmas with Brahman and Sabhyam is a great happiness. "
+LoRA: " And it is always a pleasure to touch the past abode of the yogi with the bliss of Brahman, the supreme Self. "
+
+[26]
+Sanskrit: yaḥ mām paśyati sarvatra sarvam ca mayi paśyati tasya aham na praṇaśyāmi saḥ ca me na praṇaśyati
+Reference: For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me.
+Base: " He that seeth me, and seeeth me everywhere, him will I not worship ; and he that seest me not will I worship not. "
+LoRA: " He that seeth me, and seeeth me everywhere, him will I not worship ; and he that seethe me not shall I worship. "
+
+[27]
+Sanskrit: sarva bhūta sthitam yaḥ mām bhajati ekatvam āsthitaḥ sarvathā vartamānaḥ api saḥ yogī mayi vartate
+Reference: Such a yogī, who engages in the worshipful service of the Supersoul, knowing that I and the Supersoul are one, remains always in Me in all circumstances.
+Base: " For all the spirits are in me, and he that worships me, the same being, the one who is present in all, and that yogi is in me. "
+LoRA: " For all the spirits are in me, and the one who worships me is the same being, the same yogi who is in me. "
+
+[28]
+Sanskrit: ātma aupamyena sarvatra samam paśyati yaḥ arjuna sukham vā yadi vā duḥkham saḥ yogī paramaḥ mataḥ
+Reference: He is a perfect yogī who, by comparison to his own self, sees the true equality of all beings, in both their happiness and their distress, O Arjuna!
+Base: " Arjuna, who sees the same everywhere in the self, is the ultimate yogi, whether he is happy or sad. "
+LoRA: " Arjuna, who sees the same thing everywhere in the self, as the self-righteousness, is the supreme yogi of happiness or sorrow. "
+
+[29]
+Sanskrit: arjunaḥ uvāca yaḥ ayam yogaḥ tvayā proktaḥ sāmyena madhu sūdana etasya aham na paśyāmi cañcalatvāt sthitim sthirām
+Reference: Arjuna said: O Madhusūdana, the system of yoga which You have summarized appears impractical and unendurable to me, for the mind is restless and unsteady.
+Base: " Arjuna said, " " This yoga, you are doing, I am not seeing the honey in the suda, I will not move the sati. " " "
+LoRA: Arjuna said that this yoga is like suction of honey in your likeness. I do not see this. I am not able to sit still because of the restlessness.
+
+[30]
+Sanskrit: cañcalam hi manaḥ kṛṣṇa pramāthi bala vat dṛḍham tasya aham nigraham manye vāyoḥ iva su duṣkaram
+Reference: The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa, and to subdue it, I think, is more difficult than controlling the wind.
+Base: " And his heart was strong and steadfast above Krishna ; and his mind was hard as the wind, and I believed in his subjection. "
+LoRA: " And the mind was strong and strong against Krishna ; and I believed in him, and he was as hard as the wind. "
+
+[31]
+Sanskrit: śrī bhagavān uvāca asaṁśayam mahā bāho manaḥ durnigraham calam abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate
+Reference: Lord Śrī Kṛṣṇa said: O mighty-armed son of Kuntī, it is undoubtedly very difficult to curb the restless mind, but it is possible by suitable practice and by detachment.
+Base: " Shri Bhagwan said, " " " Asamahayama, mahabhauha, baho, mana, malgriha, chalma, chala, konta, vairaga, and raga are taken by practice. " " [ 1 ] "
+LoRA: " Shri Bhagwan said, " " " Great brother, great brother, mind, mind and mind are taken away by evil deeds, evil deeds and evil deeds. " "
+
+[32]
+Sanskrit: asaṁyata ātmanā yogaḥ duṣprāpaḥ iti me matiḥ vaśya ātmanā tu yatatā śakyaḥ avāptum upāyataḥ
+Reference: For one whose mind is unbridled, self-realization is difficult work. But he whose mind is controlled and who strives by appropriate means is assured of success. That is My opinion.
+Base: " I believe that yoga is a sin of the self, not of the impossible. "
+LoRA: " I believe that yoga is a sin of the self, not of the impossible, and that the self must find ways to overcome it as best as it can. "
+
+[33]
+Sanskrit: arjunaḥ uvāca ayatiḥ śraddhayā upetaḥ yogāt calita mānasaḥ aprāpya yoga saṁsiddhim kām gatim kṛṣṇa gacchati
+Reference: Arjuna said: O Kṛṣṇa, what is the destination of the unsuccessful transcendentalist, who in the beginning takes to the process of self-realization with faith but who later desists due to worldly-mindedness and thus does not attain perfection in mysticism?
+Base: " Arjuna said, " " " I have faith in you, I have no mind to walk in yoga, I am doing yoga, "
+LoRA: " Arjuna said, " " " By faith, by yoga, the mind is not able to attain yoga, it is reaching the goal of perfection, the goal is to reach the goal and the goal goes to Krishna. " "
+
+[34]
+Sanskrit: kaccit na ubhaya vibhraṣṭaḥ chinna abhram iva naśyati apratiṣṭhaḥ mahā bāho vimūḍhaḥ brahmaṇaḥ pathi
+Reference: O mighty-armed Kṛṣṇa, does not such a man, who is bewildered from the path of transcendence, fall away from both spiritual and material success and perish like a riven cloud, with no position in any sphere?
+Base: " Neither the two bewildered, nor the two broken, nor as the broken, the great, the big, the foolish, the path of Brahman. "
+LoRA: " For neither the two are divided, nor the two become as the shadows of the abyss, nor as the great arms, the great fool, the path of the Brahman. "
+
+[35]
+Sanskrit: etat me saṁśayam kṛṣṇa chettum arhasi aśeṣataḥ tvat anyaḥ saṁśayasya asya chettā na hi upapadyate
+Reference: This is my doubt, O Kṛṣṇa, and I ask You to dispel it completely. But for You, no one is to be found who can destroy this doubt.
+Base: " For this is my help, and thou shalt not cut off my brother, but thou art the end of the world. "
+LoRA: " For this is the Lord who is able to cut off the darkness of the universe, and not the darkness that is the shadow of the darkness, but the light that is not the shadow that cuts through the darkness. "
+
+[36]
+Sanskrit: śrī bhagavān uvāca pārtha na eva iha na amutra vināśaḥ tasya vidyate na hi kalyāṇa kṛt kaścit durgatim tāta gacchati
+Reference: The Supreme Personality of Godhead said: Son of Pṛthā, a transcendentalist engaged in auspicious activities does not meet with destruction either in this world or in the spiritual world; one who does good, My friend, is never overcome by evil.
+Base: " Shri Bhagwan said, There is neither earth nor earth, there is no destruction of the Son, there exists no goodness, there goes no evil. "
+LoRA: " Shri Bhagwan said, There is neither earth nor the universe, there is no destruction of the universe ; there is neither good nor evil. "
+
+[37]
+Sanskrit: prāpya puṇya kṛtām lokān uṣitvā śāśvatīḥ samāḥ śucīnām śrī matām gehe yoga bhraṣṭaḥ abhijāyate
+Reference: The unsuccessful yogī, after many, many years of enjoyment on the planets of the pious living entities, is born into a family of righteous people, or into a family of rich aristocracy.
+Base: " And when he hath received the good, he hid them that were virtuous, and hath kept them clean for ever, and ever, he is found to be corrupt in the faith of the Lord. "
+LoRA: " And when he hath received the good, he hid them that were done in righteousness, and hath kept them in the form of the pure, pure, and pure, the faith of the Lord, and the faith hath corrupted him. "
+
+[38]
+Sanskrit: atha vā yoginām eva kule bhavati dhī matām etat hi durlabha taram loke janma yat īdṛśam
+Reference: Or [if unsuccessful after long practice of yoga] he takes his birth in a family of transcendentalists who are surely great in wisdom. Certainly, such a birth is rare in this world.
+Base: " Or, it is said, that the Yogis are the family of the religion, and this is the rare quality of people born into it. "
+LoRA: " Or the Yogin is born in the same clan, and this is the rare quality of the religion. "
+
+[39]
+Sanskrit: tatra tam buddhi saṁyogam labhate paurva dehikam yatate ca tataḥ bhūyaḥ saṁsiddhau kuru nandana
+Reference: On taking such a birth, he revives the divine consciousness of his previous life, and he again tries to make further progress in order to achieve complete success, O son of Kuru.
+Base: " Wherein the mind findeth the perfect work of the body : and the earth make the perfect of it. "
+LoRA: " Therein the mind findeth the perfect use of the body, and the mind attaineth the possible use of it : "
+
+[40]
+Sanskrit: pūrva abhyāsena tena eva hriyate hi avaśaḥ api saḥ jijñāsuḥ api yogasya śabda brahma ativartate
+Reference: By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles – even without seeking them. Such an inquisitive transcendentalist stands always above the ritualistic principles of the scriptures.
+Base: " By the previous practice, he loses the same, and he becomes inquisitive and the word Brahman of Yoga is changed to Avar. "
+LoRA: " By the previous practice he loses the same, and he becomes inquisitive and the word Brahman of Yoga becomes transcendent. "
+
+[41]
+Sanskrit: prayatnāt yatamānaḥ tu yogī saṁśuddha kilbiṣaḥ aneka janma saṁsiddhaḥ tataḥ yāti parām gatim
+Reference: And when the yogī engages himself with sincere endeavor in making further progress, being washed of all contaminations, then ultimately, achieving perfection after many, many births of practice, he attains the supreme goal.
+Base: " By effort the yogi has attained to the perfection of the pure, the perfection which is attained by many births, and thencecece to the next. "
+LoRA: " By effort the yogi has attained the perfection of the pure, the perfection which is attained by many births, and then the progress beyond that is
+
+[42]
+Sanskrit: tapasvibhyaḥ adhikaḥ yogī jñānibhyaḥ api mataḥ adhikaḥ karmibhyaḥ ca adhikaḥ yogī tasmāt yogī bhava arjuna
+Reference: A yogī is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogī.
+Base: " Say,'More yogis than ascetics, more knowledgeable and virtuous, more workers, more yogic, so be a yogi, Arjuna '. "
+LoRA: " He who is a yogi is a more knowledgeable and knowledgeable ascetic than the ascetics. He who does not think much about the subject is a better yogi than the doer of the task, and therefore the yogi becomes Arjuna. "
+
+[43]
+Sanskrit: yoginām api sarveṣām mat gatena antaḥ ātmanā śraddhā vān bhajate yaḥ mām saḥ me yukta tamaḥ mataḥ
+Reference: And of all yogīs, the one with great faith who always abides in Me, thinks of Me within himself and renders transcendental loving service to Me – he is the most intimately united with Me in yoga and is the highest of all. That is My opinion.
+Base: " And the yogin also believed that he had in me the spirit, and that he was in me, and in me all things were made. "
+LoRA: " The yogin also believes in the Spirit, in the spirit of the whole being, and in the me that is the me, and that I am the me. "
+
+[44]
+Sanskrit: śrī bhagavān uvāca mayi āsakta manāḥ pārtha yogam yuñjan mat āśrayaḥ asaṁśayam samagram mām yathā jñāsyasi tat śṛṇu
+Reference: The Supreme Personality of Godhead said: Now hear, O son of Pṛthā, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.
+Base: " Shri Bhagwan said, " " " If I have a mind attached to you, you must practice Partha Yoga, that I may know the whole meaning of your abode. " "
+LoRA: " The Lord said, " " " If I have a mind attached to you, you will know that by doing the Partha Yoga, I will be able to attain the goal of my abode and the whole of my being. " "
+
+[45]
+Sanskrit: jñānam te aham sa vijñānam idam vakṣyāmi aśeṣataḥ yat jñātvā na iha bhūyaḥ anyat jñātavyam avaśiṣyate
+Reference: I shall now declare unto you in full this knowledge, both phenomenal and numinous. This being known, nothing further shall remain for you to know.
+Base: " To them it is written, I speak this science : that they may know no more than this, because they know not the truth. "
+LoRA: " To them it is written, I speak the same science : that they may know nothing, but that they shall know the world. "
+
+[46]
+Sanskrit: manuṣyāṇām sahasreṣu kaścit yatati siddhaye yatatām api siddhānām kaścit mām vetti tattvataḥ
+Reference: Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth.
+Base: " For there is one among men, that is perfect : and there is another that is perfected, that hath called me by reason. "
+LoRA: " For there is one of men perfect, and he that is perfect, who hath called me to the point of being. "
+
+[47]
+Sanskrit: bhūmiḥ āpaḥ analaḥ vāyuḥ kham manaḥ buddhiḥ eva ca ahaṅkāraḥ iti iyam me bhinnā prakṛtiḥ aṣṭadhā
+Reference: Earth, water, fire, air, ether, mind, intelligence and false ego – all together these eight constitute My separated material energies.
+Base: " Bhumi, Apa, Anal, Vayu, Khama, Mana, Budhi, ego, these are the eight elements of the different natures. "
+LoRA: " The earth is the air, the air is the wind, the mind is the intellect, the ego is the ego, "
+
+[48]
+Sanskrit: aparā iyam itaḥ tu anyām prakṛtim viddhi me parām jīva bhūtām mahā bāho yayā idam dhāryate jagat
+Reference: Besides these, O mighty-armed Arjuna, there is another, superior energy of Mine, which comprises the living entities who are exploiting the resources of this material, inferior nature.
+Base: " And this is the great arm of the other living entity, the spirit, which in the knowledge of other nature, is the world, which it holds. "
+LoRA: " And this is the great arm of the other living entity, the spirit, which in the knowledge of the nature of the world holds this world. "
+
+[49]
+Sanskrit: etat yonīni bhūtāni sarvāṇi iti upadhāraya aham kṛtsnasya jagataḥ prabhavaḥ pralayaḥ tathā
+Reference: All created beings have their source in these two natures. Of all that is material and all that is spiritual in this world, know for certain that I am both the origin and the dissolution.
+Base: " Saying, These are the yoni and the devils ; I am the end of the universe, and I am not the end. "
+LoRA: " I am the yoni, the yogin, the ghost, the world, the universe, the destruction, the dissolution, the creation, the manifestation, the coming of the universe. "
+
+[50]
+Sanskrit: mattaḥ para taram na anyat kiñcit asti dhanam jaya mayi sarvam idam protam sūtre maṇi gaṇāḥ iva
+Reference: O conqueror of wealth, there is no truth superior to Me. Everything rests upon Me, as pearls are strung on a thread.
+Base: " There is nothing better than the glory of the Lord ; there is nothing more than the riches of the world. I have everything in this proto-sutra. "
+LoRA: " There is nothing better than the quality of the drink, there is nothing more than the wealth, the victory, everything is like a mani in the first sutra. "
+
+[51]
+Sanskrit: bījam mām sarva bhūtānām viddhi pārtha sanātanam buddhiḥ buddhi matām asmi tejaḥ tejasvinām aham
+Reference: O son of Pṛthā, know that I am the original seed of all existences, the intelligence of the intelligent, and the prowess of all powerful men.
+Base: " To me belong the seeds of all wisdom ; to me are the eternal wisdom, the eternal understanding, the infinite light. "
+LoRA: " To me belong the seed, the wisdom of all devils, the eternal wisdom, the mind of the world, the light of the universe, the brilliance of the light, the knowledge of the eternal mind, the intellect of the mind, "
+
+[52]
+Sanskrit: balam bala vatām ca aham kāma rāga vivarjitam dharma aviruddhaḥ bhūteṣu kāmaḥ asmi bharata ṛṣabha
+Reference: I am the strength of the strong, devoid of passion and desire. I am sex life which is not contrary to religious principles, O lord of the Bhāratas [Arjuna].
+Base: " I am strong and powerful, I am Kama, I have no anger, I do not have any religion, I work with all my heart, "
+LoRA: " I am strong and powerful, I am Kama, I have no anger, I do not have any religion, I work with the devils, I become Kama. "
+
+[53]
+Sanskrit: ye ca eva sāttvikāḥ bhāvāḥ rājasāḥ tāmasāḥ ca ye mattaḥ eva iti tān viddhi na tu aham teṣu te mayi
+Reference: Know that all states of being – be they of goodness, passion or ignorance – are manifested by My energy. I am, in one sense, everything, but I am independent. I am not under the modes of material nature, for they, on the contrary, are within Me.
+Base: " And they that are of good faith, and kings, and scribes, know not that I am the drunkenness ; but that I AM in them. "
+LoRA: " And the wise brethren, and the kings, and them that are drunken, knew not that I am he : but they were he that was me. "
+
+[54]
+Sanskrit: daivī hi eṣā guṇa mayī mama māyā duratyayā mām eva ye prapadyante māyām etām taranti te
+Reference: This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.
+Base: " These are the divine qualities, which are given unto me by the power of my love, and which float in me. "
+LoRA: " This is the divine quality, which is given to me by the distance of my love, and those who float in me, "
+
+[55]
+Sanskrit: na mām duṣkṛtinaḥ mūḍhāḥ prapadyante nara adhamāḥ māyayā apahṛta jñānāḥ āsuram bhāvam āśritāḥ
+Reference: Those miscreants who are grossly foolish, who are lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons do not surrender unto Me.
+Base: " Neither are I visited by the foolish of the wicked, neither by the wicking, neither is I taken captive by the devil ; "
+LoRA: " Neither are the foolish of the wicked come to me : neither are the wicking, and the wise, and those taken away by me, are in the spirit of the devil. "
+
+[56]
+Sanskrit: catuḥ vidhāḥ bhajante mām janāḥ su kṛtinaḥ arjuna ārtaḥ jijñāsuḥ artha arthī jñānī ca bharata ṛṣabha
+Reference: O best among the Bhāratas, four kinds of pious men begin to render devotional service unto Me – the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
+Base: " The four streams are : Arjuna, Artha, Jigyasa, Arthana, Ardh, Arh, Ardha, Arrah, Arsh, Arha, Arr, Arhat, Arsha, Arkh, Argh, Arbh, Arhar, Arshad, Ar
+LoRA: " The four streams are : Arjuna, Artha, Jigyasa, Arthana, Arta, Ardh, Arh, Arrah, Arsh, Ardha, Arha, Arsha, Arr, Arkh, Arhat, Argh, Arj, Arbh, Ar
+
+[57]
+Sanskrit: teṣām jñānī nitya yuktaḥ eka bhaktiḥ viśiṣyate priyaḥ hi jñāninaḥ atyartham aham saḥ ca mama priyaḥ
+Reference: Of these, the one who is in full knowledge and who is always engaged in pure devotional service is the best. For I am very dear to him, and he is dear to Me.
+Base: " And theirs shall be a godliness endowed with everlasting wisdom : beloved, I am the very meaning of the wise, and he is my beloved. "
+LoRA: " And their wisdom shall be a constant devotion, and their love shall be the utmost of the wise : and he is my beloved. "
+
+[58]
+Sanskrit: udārāḥ sarve eva ete jñānī tu ātmā eva me matam āsthitaḥ saḥ hi yukta ātmā mām eva anuttamām gatim
+Reference: All these devotees are undoubtedly magnanimous souls, but he who is situated in knowledge of Me I consider to be just like My own self. Being engaged in My transcendental service, he is sure to attain Me, the highest and most perfect goal.
+Base: " The generous are all these, the wise are the spirit, the spirit is my mind ; the spirit which is in me is the best of all movements. "
+LoRA: " The generous are all these, the wise are the spirit, the spirit is the mind, the soul is the movement of the good to me. "
+
+[59]
+Sanskrit: bahūnām janmanām ante jñāna vān mām prapadyate vāsudevaḥ sarvam iti saḥ mahā ātmā su durlabhaḥ
+Reference: After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare.
+Base: " At the end of many births, knowledge comes to me, Vasudeva is the Supreme Self, the Supreme Being. "
+LoRA: " At the end of many births, knowledge comes to me, Vasudeva is the Supreme Self, the Supreme Being, the All-Encompassing Being. "
+
+[60]
+Sanskrit: kāmaiḥ taiḥ taiḥ hṛta jñānāḥ prapadyante anya devatāḥ tam tam niyamam āsthāya prakṛtyā niyatāḥ svayā
+Reference: Those whose intelligence has been stolen by material desires surrender unto demigods and follow the particular rules and regulations of worship according to their own natures.
+Base: " By works they have made their hearts wise ; and the other gods have made them to believe in the law of nature, as their own. "
+LoRA: " By works they have given knowledge to the heart, and other gods have appointed them to believe in the law of nature, by their own will. "
+
+[61]
+Sanskrit: yaḥ yaḥ yām yām tanum bhaktaḥ śraddhayā arcitum icchati tasya tasya acalām śraddhām tām eva vidadhāmi aham
+Reference: I am in everyone’s heart as the Supersoul. As soon as one desires to worship some demigod, I make his faith steady so that he can devote himself to that particular deity.
+Base: " I say unto him that believeth on me, that he should worship with faith the things which are my God : "
+LoRA: " I say unto him that believeth on me, that he should worship with faith the things which are my God, and that he shall be called according to his faith. "
+
+[62]
+Sanskrit: saḥ tayā śraddhayā yuktaḥ tasya ārādhanam īhate labhate ca tataḥ kāmān mayā eva vihitān hi tān
+Reference: Endowed with such a faith, he endeavors to worship a particular demigod and obtains his desires. But in actuality these benefits are bestowed by Me alone.
+Base: " And he hath faith in him, and hath regard to his worship : and these things have I ordained unto him, "
+LoRA: " And he hath faith in him, and hath regard to his worship, and he hates him : and the desires are mine, and I have given them. "
+
+[63]
+Sanskrit: anta vat tu phalam teṣām tat bhavati alpa medhasām devān deva yajaḥ yānti mat bhaktāḥ yānti mām api
+Reference: Men of small intelligence worship the demigods, and their fruits are limited and temporary. Those who worship the demigods go to the planets of the demigods, but My devotees ultimately reach My supreme planet.
+Base: " And the end is that they shall have a fruit, which shall be to me also, and to the gods of the least wisdom, which worship him. "
+LoRA: " And the end is that they shall have the fruit of the gods of the least wisdom, which are my worshippers, which also are my gods. "
+
+[64]
+Sanskrit: avyaktam vyaktim āpannam manyante mām abuddhayaḥ param bhāvam ajānantaḥ mama avyayam anuttamam
+Reference: Unintelligent men, who do not know Me perfectly, think that I, the Supreme Personality of Godhead, Kṛṣṇa, was impersonal before and have now assumed this personality. Due to their small knowledge, they do not know My higher nature, which is imperishable and supreme.
+Base: " For the invisible man thinketh that he is : and the invisible knoweth me, and knoweth not my inward parts, and despiseth my inmost things. "
+LoRA: " For the invisible man thinketh that he is the same, and knoweth not my mind, and my mind is the best. "
+
+[65]
+Sanskrit: na aham prakāśaḥ sarvasya yoga māyā samāvṛtaḥ mūḍhaḥ ayam na abhijānāti lokaḥ mām ajam avyayam
+Reference: I am never manifest to the foolish and unintelligent. For them I am covered by My internal potency, and therefore they do not know that I am unborn and infallible.
+Base: " Neither do I know the light, nor the darkness, the darkness of the universe, the light of the world, the power of the mind, the mind of the people, the knowledge of the light. "
+LoRA: " Neither I am light, nor the whole Yoga, the Maya, the mu ̄ dhu, the fool, the man does not know that I am invisible. "
+
+[66]
+Sanskrit: veda aham samatītāni vartamānāni ca arjuna bhaviṣyāṇi ca bhūtāni mām tu veda na kaścana
+Reference: O Arjuna, as the Supreme Personality of Godhead, I know everything that has happened in the past, all that is happening in the present, and all things that are yet to come. I also know all living entities; but Me no one knows.
+Base: " I am the Vedas, the present, the Arjuna, the future, the ghosts, the Veda is not for me. "
+LoRA: " I am the Vedas, the present, the Arjuna, the future, the ghosts, the Veda is not for me. "
+
+[67]
+Sanskrit: icchā dveṣa samutthena dvandva mohena bhārata sarva bhūtāni sammoham sarge yānti param tapa
+Reference: O scion of Bharata, O conqueror of the foe, all living entities are born into delusion, bewildered by dualities arisen from desire and hate.
+Base: " By will, hatred, and strife, India will be filled with the power of the ghosts. "
+LoRA: " And when the will and the hatred of the will rise, and the strife cease, and all the devils of India are taken up into the heaven of enchantment, and are overcome with the power of the Spirit, "
+
+[68]
+Sanskrit: yeṣām tu anta gatam pāpam janānām puṇya karmaṇām te dvandva moha nirmuktāḥ bhajante mām dṛḍha vratāḥ
+Reference: Persons who have acted piously in previous lives and in this life and whose sinful actions are completely eradicated are freed from the dualities of delusion, and they engage themselves in My service with determination.
+Base: " And unto them that are dead, and come to an end, and to them that suffer evil and evil, and are not enticed, give me thanks. "
+LoRA: " And they that are in the end, and have not been tempted by sin, and the righteousness of men, are called unto me. "
+
+[69]
+Sanskrit: jarā maraṇa mokṣāya mām āśritya yatanti ye te brahma tat viduḥ kṛtsnam adhyātmam karma ca akhilam
+Reference: Intelligent persons who are endeavoring for liberation from old age and death take refuge in Me in devotional service. They are actually Brahman because they entirely know everything about transcendental activities.
+Base: " For the salvation of death, they depend on me, because they are the Brahman, the whole of creation, the Self, the Karma, the universe. "
+LoRA: " For the salvation of death, they depend on me, for the salvations of death ; for they are the Brahman, the whole body of all that is created, the Self, the Karma, the universe. "
+
+[70]
+Sanskrit: sa adhibhūta adhidaivam mām sa adhiyajñam ca ye viduḥ prayāṇa kāle api ca mām te viduḥ yukta cetasaḥ
+Reference: Those in full consciousness of Me, who know Me, the Supreme Lord, to be the governing principle of the material manifestation, of the demigods, and of all methods of sacrifice, can understand and know Me, the Supreme Personality of Godhead, even at the time of death.
+Base: " And he gave me this authority, and this authority : and he taught me the things that were before me, and the things which were before my eyes. "
+LoRA: " And he gave me the authority which was in my power, and the authority that was in me, and gave me knowledge of the things which were before me, as I went my way. "
+
+[71]
+Sanskrit: arjunaḥ uvāca kim tat brahma kim adhyātmam kim karma puruṣa uttama adhibhūtam ca kim proktam adhidaivam kim ucyate
+Reference: Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.
+Base: " Arjuna asked whether it is called Brahman, Adhyatma, Karma, Purusha, Uttama, Pratyama, Dirkhama or Proktam. "
+LoRA: Arjuna said whether it is Brahman or spirituality or karma and the man is endowed with good qualities or what is called proktam dirkhama?
+
+[72]
+Sanskrit: adhiyajñaḥ katham kaḥ atra dehe asmin madhusūdana prayāṇa kāle ca katham jñeyaḥ asi niyata ātmabhiḥ
+Reference: Who is the Lord of sacrifice, and how does He live in the body, O Madhusūdana? And how can those engaged in devotional service know You at the time of death?
+Base: " Adhyagya : One who is the knowledge of the universe, the universe and the universe. "
+LoRA: " Adhyagya : One who is the knowledge of the universe, the universe and the universe. "
+
+[73]
+Sanskrit: śrī bhagavān uvāca akṣaram brahma paramam svabhāvaḥ adhyātmam ucyate bhūta bhāva udbhava karaḥ visargaḥ karma saṁjñitaḥ
+Reference: The Supreme Personality of Godhead said: The indestructible, transcendental living entity is called Brahman, and his eternal nature is called adhyātma, the self. Action pertaining to the development of the material bodies of the living entities is called karma, or fruitive activities.
+Base: " Shri Bhagwan said, " " Brahman is the Supreme Self, the Supreme Nature, the Self, The Spirit, the Spirit, The Viharga, the Viharg, the Karma, the Abode of the Divine. " " "
+LoRA: " Shri Bhagwan said, the letter Brahman is the Supreme Self, the Supreme Nature is called Atman, the Spirit is the manifestation of the spirit, the dissolution of the universe is known as Karma. "
+
+[74]
+Sanskrit: adhibhūtam kṣaraḥ bhāvaḥ puruṣaḥ ca adhidaivatam adhiyajñaḥ aham eva atra dehe deha bhṛtām vara
+Reference: O best of the embodied beings, the physical nature, which is constantly changing, is called adhibhūta [the material manifestation]. The universal form of the Lord, which includes all the demigods, like those of the sun and moon, is called adhidaiva. And I, the Supreme Lord, represented as the Supersoul in the heart of every embodied being, am called adhiyajña [the Lord of sacrifice].
+Base: " And the body is the same as the body, and the mind is the body ; and the body as the mind, and as the spirit, and so the mind as the intellect, and all that the body contains, is the one who is the Bride of the body. "
+LoRA: " And the man was in the midst of the body, and the woman was in it, and I was the master of the whole body, "
+
+[75]
+Sanskrit: anta kāle ca mām eva smaran muktvā kalevaram yaḥ prayāti saḥ mat bhāvam yāti na asti atra saṁśayaḥ
+Reference: And whoever, at the end of his life, quits his body remembering Me alone at once attains My nature. Of this there is no doubt.
+Base: " For he that remembereth me in the end, and taketh away my salvation, hath not my spirit with him : but he that is herein is able. "
+LoRA: " And in the last days he that remembereth me, and hath redeemed me, hath not his heart broken, but hath the power to do this. "
+
+[76]
+Sanskrit: yam yam vā api smaran bhāvam tyajati ante kalevaram tam tam eva eti kaunteya sadā tat bhāva bhāvitaḥ
+Reference: Whatever state of being one remembers when he quits his body, O son of Kuntī, that state he will attain without fail.
+Base: " Whoever forsakes the memory, calls it that which is at the end of the day, and the feeling is always that which it is. "
+LoRA: " Whoever has left the memory, the feeling is always the same, who in the end calls the Kalavara as he is. "
+
+[77]
+Sanskrit: tasmāt sarveṣu kāleṣu mām anusmara yudhya ca mayi arpita manaḥ buddhiḥ mām eva eṣyasi asaṁśayaḥ
+Reference: Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.
+Base: " Therefore I will not walk after thee all the days, and fight against thee, neither shall my heart be able to stand against the same mind which is given me. "
+LoRA: " Therefore shall I always fight against you, and not be able to bear you unto me, because of the heart which is given me, and because of my mind ; "
+
+[78]
+Sanskrit: kavim purāṇam anuśāsitāram aṇoḥ aṇīyāṁsam anusmaret yaḥ sarvasya dhātāram acintya rūpam āditya varṇam tamasaḥ parastāt
+Reference: One should meditate upon the Supreme Person as the one who knows everything, as He who is the oldest, who is the controller, who is smaller than the smallest, who is the maintainer of everything, who is beyond all material conception, who is inconceivable, and who is always a person. He is luminous like the sun, and He is transcendental, beyond this material nature.
+Base: " Remembering the poet who disciplined the Puranas, and who was able to make an annya, who, not thinking of the mother of all, gave the form of Aditya to Tamas. "
+LoRA: " Remembering the poet who, after having disciplined the Puranas, could not control the anya, who, not thinking of the dharma of everything, gave the form of the aditya varna to the tamas. "
+
+[79]
+Sanskrit: prayāṇa kāle manasā acalena bhaktyā yuktaḥ yoga balena ca eva bhruvoḥ madhye prāṇam āveśya samyak saḥ tam param puruṣam upaiti divyam
+Reference: One who, at the time of death, fixes his life air between the eyebrows and, by the strength of yoga, with an undeviating mind, engages himself in remembering the Supreme Lord in full devotion, will certainly attain to the Supreme Personality of Godhead.
+Base: " And as he went, the mind was moved, and the mind became devout, and he was moved with the power of yoga, and brought life into the breasts, and overstood them, and was filled with the divine. "
+LoRA: " And when he was gone, he stirred up the mind, and with the power of yoga, and devotion, and took up the soul in the midst of the brethren, and beat it upon the other side of the Divine. "
+
+[80]
+Sanskrit: yat akṣaram veda vidaḥ vadanti viśanti yat yatayaḥ vīta rāgāḥ yat icchantaḥ brahma caryam caranti tat te padam saṅgraheṇa pravakṣye
+Reference: Persons who are learned in the Vedas, who utter oṁ-kāra, and who are great sages in the renounced order enter into Brahman. Desiring such perfection, one practices celibacy. I shall now briefly explain to you this process by which one may attain salvation.
+Base: " The Vedas say that all ragas which are of the nature of Brahma, perform the Brahma chariots of their choice, "
+LoRA: " The Vedas say that the ragas of the universe perform the Brahma chariots of their choice, by compiling the verses of the raga. "
+
+[81]
+Sanskrit: sarva dvārāṇi saṁyamya manaḥ hṛdi nirudhya ca mūrdhni ādhāya ātmanaḥ prāṇam āsthitaḥ yoga dhāraṇām
+Reference: The yogic situation is that of detachment from all sensual engagements. Closing all the doors of the senses and fixing the mind on the heart and the life air at the top of the head, one establishes himself in yoga.
+Base: " And when he had opened all the gates, he closed the mind, and the heart, and departed from the head, and ceased from the spirit, and was in the midst of the body, "
+LoRA: " And when the mind and heart are closed, and all the gates are closed ; and the mind is not in the darkness, but in the spirit, and in the soul, and the spirit are established, "
+
+[82]
+Sanskrit: oṁ iti eka akṣaram brahma vyāharan mām anusmaran yaḥ prayāti tyajan deham saḥ yāti paramām gatim
+Reference: After being situated in this yoga practice and vibrating the sacred syllable oṁ, the supreme combination of letters, if one thinks of the Supreme Personality of Godhead and quits his body, he will certainly reach the spiritual planets.
+Base: " Omiha : One who is the Supreme Being, who is not the only one who is above the body but who is also the ultimate goal of the universe. "
+LoRA: " Omiha, a letter of Brahman, followed me and said, He who has left the body, he who has followed me, has attained the supreme speed. "
+
+[83]
+Sanskrit: ananya cetāḥ satatam yaḥ mām smarati nityaśaḥ tasya aham su labhaḥ pārtha nitya yuktasya yoginaḥ
+Reference: For one who always remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service.
+Base: " He that remembereth me continually, and in time past, I shall be his bread ; and he that is of the earth, and of the world, he is a yogin. "
+LoRA: " He that hath everlasting mind, and ever remembers me, hath always found me, and I am the yogis of the eternal and eternal yogin. "
+
+[84]
+Sanskrit: mām upetya punaḥ janma duḥkha ālayam aśāśvatam na āpnuvanti mahā ātmānaḥ saṁsiddhim paramām gatāḥ
+Reference: After attaining Me, the great souls, who are yogīs in devotion, never return to this temporary world, which is full of miseries, because they have attained the highest perfection.
+Base: " For I am born again, and the temple of sorrow is not, that they should not receive the glory of the great Spirit, and that they might be made perfect in him. "
+LoRA: " For I am born again, and the temple of sorrow is not, that they should not receive the glory of the great Spirit, and that they might attain unto the fullness of the power of the Spirit. "
+
+[85]
+Sanskrit: ā brahma bhuvanāt lokāḥ punaḥ āvartinaḥ arjuna mām upetya tu kaunteya punaḥ janma na vidyate
+Reference: From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kuntī, never takes birth again.
+Base: " O Brahma, from the earth, people again and again, Arjuna left me and said, There is no birth again. "
+LoRA: " And again and again people from the Brahma universe said, Arjuna has left me and has not been born again. "
+
+[86]
+Sanskrit: sahasra yuga paryantam ahaḥ yat brahmaṇaḥ viduḥ rātrim yuga sahasra antām te ahaḥ rātra vidaḥ janāḥ
+Reference: By human calculation, a thousand ages taken together form the duration of Brahmā’s one day. And such also is the duration of his night.
+Base: " From the thousand ages, the Brahmanas have been the night, the Yuga the thousand years, the Anta the night and the people. "
+LoRA: " From the thousand yugas to the thousand nights of the Brahmanas, the yuga and the end of the thousand years, the night and the people, "
+
+[87]
+Sanskrit: avyaktāt vyaktayaḥ sarvāḥ prabhavanti ahaḥ āgame rātri āgame pralīyante tatra eva avyakta saṁjñake
+Reference: At the beginning of Brahmā’s day, all living entities become manifest from the unmanifest state, and thereafter, when the night falls, they are merged into the unmanifest again.
+Base: " For the things that are not known, are not revealed, but are revealed in the night, when the night cometh, and the day cometh. "
+LoRA: " For the unseen are all things, and the night cometh, and there cometh the night, and it is there that the unseened is called the knower. "
+
+[88]
+Sanskrit: bhūta grāmaḥ saḥ eva ayam bhūtvā bhūtvā pralīyate rātri āgame avaśaḥ pārtha prabhavati ahaḥ āgame
+Reference: Again and again, when Brahmā’s day arrives, all living entities come into being, and with the arrival of Brahmā’s night they are helplessly annihilated.
+Base: " And the ghost of the village, being this, came forth, and came into the night, and entered into the earth, and was come into the sea, and dwelt therein : "
+LoRA: " And the ghost of the village, being this, came forth, and came into the night, and was not afraid of the earth, but of the world that is coming. "
+
+[89]
+Sanskrit: paraḥ tasmāt tu bhāvaḥ anyaḥ avyaktaḥ avyaktāt sanātanaḥ yaḥ saḥ sarveṣu bhūteṣu naśyatsu na vinaśyati
+Reference: Yet there is another unmanifest nature, which is eternal and is transcendental to this manifested and unmanifested matter. It is supreme and is never annihilated. When all in this world is annihilated, that part remains as it is.
+Base: " But the spirit, which is not of the past, is not perishable, which was perisheth from all the devils, which are eternal, which were not manifest. "
+LoRA: " But the spirit, which is not of the past, is not perishable, which was perisheth from the past ; but is perishably perishible from the eternal. "
+
+[90]
+Sanskrit: avyaktaḥ akṣaraḥ iti uktaḥ tam āhuḥ paramām gatim yam prāpya na nivartante tat dhāma paramam mama
+Reference: That which the Vedāntists describe as unmanifest and infallible, that which is known as the supreme destination, that place from which, having attained it, one never returns – that is My supreme abode.
+Base: " Avyaktah : One who is called the Avyakshatra, because he is the ultimate, the highest, the abode of the Supreme Being, who never fails to attain the ultimate speed. "
+LoRA: " The letter Avyaktah is called akshr, the abode of the Supreme Being, who is not moved by the attainment of the supreme movement. "
+
+[91]
+Sanskrit: puruṣaḥ saḥ paraḥ pārtha bhaktyā labhyaḥ tu ananyayā yasya antaḥ sthāni bhūtāni yena sarvam idam tatam
+Reference: The Supreme Personality of Godhead, who is greater than all, is attainable by unalloyed devotion. Although He is present in His abode, He is all-pervading, and everything is situated within Him.
+Base: " But the spirit which is in him is not of the male, but of the female : for this is the end of all things. "
+LoRA: " But the man was not worthy of the devotion of the gods, but of the spirit within whom all things were made. "
+
+[92]
+Sanskrit: agniḥ jyotiḥ ahaḥ śuklaḥ ṣaṭ māsāḥ uttara ayanam tatra prayātāḥ gacchanti brahma brahma vidaḥ janāḥ
+Reference: Those who know the Supreme Brahman attain that Supreme by passing away from the world during the influence of the fiery god, in the light, at an auspicious moment of the day, during the fortnight of the waxing moon, or during the six months when the sun travels in the north.
+Base: " Fire, light, fire, fire and fire, six months after Shukla, they go there in the northern solstice. "
+LoRA: " Fire, light, fire, fire and fire, six months after Shukla, they go to the northern solstice and seek the knowledge of Brahma, the Brahman. "
+
+[93]
+Sanskrit: dhūmaḥ rātriḥ tathā kṛṣṇaḥ ṣaṭ māsāḥ dakṣiṇa ayanam tatra cāndramasam jyotiḥ yogī prāpya nivartate
+Reference: The mystic who passes away from this world during the smoke, the night, the fortnight of the waning moon, or the six months when the sun passes to the south reaches the moon planet but again comes back.
+Base: " Dhoom is the night and Krishna is the rightful solstice for six months. The moon and moon are illuminated by the yogi. "
+LoRA: " Dhoom is the night and Krishna is the rightful solstice for six months. The moon and moon are illuminated by the yogi and he returns. "
+
+[94]
+Sanskrit: śukla kṛṣṇe gatī hi ete jagataḥ śāśvate mate ekayā yāti anāvṛttim anyayā āvartate punaḥ
+Reference: According to Vedic opinion, there are two ways of passing from this world – one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns.
+Base: " Shukla Krishna is the speed at which the worlds are eternal, one unfolding and another repeating. "
+LoRA: " In the Shukla Krishna, the speed is the speed at which the universe is eternal, as if it were one entity, it is repeated by another. "
+
+[95]
+Sanskrit: na ete sṛtī pārtha jānan yogī muhyati kaścana tasmāt sarveṣu kāleṣu yoga yuktaḥ bhava arjuna
+Reference: Although the devotees know these two paths, O Arjuna, they are never bewildered. Therefore be always fixed in devotion.
+Base: " Nor do these sruti-partah-jnanas give yogis, that is, that they may be endowed with yoga at all times. "
+LoRA: " Neither these Srutis, nor the Partha, give the jogis knowledge, but one who is the Yoga of all times, and by this Arjuna is the yoga of all time. "
+
+[96]
+Sanskrit: vedeṣu yajñeṣu tapaḥsu ca eva dāneṣu yat puṇya phalam pradiṣṭam atyeti tat sarvam idam viditvā yogī param sthānam upaiti ca ādyam
+Reference: A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing sacrifices, undergoing austerities, giving charity or pursuing philosophical and fruitive activities. Simply by performing devotional service, he attains all these, and at the end he reaches the supreme eternal abode.
+Base: " Knowing the goodness of the fruits of the Vedas, sacrifices and penances, the yogi is endowed with the highest attainable attainable status. "
+LoRA: " Knowing the goodness of the fruits of the Vedas, sacrifices and penances, the yogi is able to attain the highest position. "
+
+[97]
+Sanskrit: śrī bhagavān uvāca idam tu te guhya tamam pravakṣyāmi anasūyave jñānam vijñāna sahitam yat jñātvā mokṣyase aśubhāt
+Reference: The Supreme Personality of Godhead said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most confidential knowledge and realization, knowing which you shall be relieved of the miseries of material existence.
+Base: " And the Lord said unto him, This is the secret of the Lord, that he may reveal unto you the knowledge of the world, and the knowledge that is with it, and that which is not good. "
+LoRA: " And the Lord said unto him, This is the secret of the Lord, that he may reveal unto you the knowledge of the unseen, and the knowledge that is with the knowledge, and that which is not evil, and will bring him out of the darkness of the world. "
+
+[98]
+Sanskrit: aśraddadhānāḥ puruṣāḥ dharmasya asya param tapa aprāpya mām nivartante mṛtyu saṁsāra vartmani
+Reference: Those who are not faithful in this devotional service cannot attain Me, O conqueror of enemies. Therefore they return to the path of birth and death in this material world.
+Base: " But men that are unbelieving, and do not have patience with this religion, turn not away from me, and die, and be not consumed. "
+LoRA: " And the men that were unbelieving repented of this religion, and repented not of me, and were not afraid of death : "
+
+[99]
+Sanskrit: mayā tatam idam sarvam jagat avyakta mūrtinā mat sthāni sarva bhūtāni na ca aham teṣu avasthitaḥ
+Reference: By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them.
+Base: " And I said unto him, These are not devils, but all things that are in me, and all things are in hidden idols. "
+LoRA: " And I said unto him, These are not devils, but all things that are in the world, and all things are of me, and I am not in them : "
+
+[100]
+Sanskrit: na ca mat sthāni bhūtāni paśya me yogam aiśvaram bhūta bhṛt na ca bhūta sthaḥ mama ātmā bhūta bhāvanaḥ
+Reference: And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities and although I am everywhere, I am not a part of this cosmic manifestation, for My Self is the very source of creation.
+Base: " Neither see the devils that are in me : I am a yoga, and have no spirit, neither am I a ghost : my spirit is a spirit, and I am not a spirit. "
+LoRA: " Neither see the devils that are in me : I am a yoga of the rich, and I am not a ghost : neither is my spirit a ghost. "

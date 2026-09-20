@@ -1,0 +1,105 @@
+MORPHOLOGY-AWARE TRANSFORMER
+BEAM SEARCH + REPETITION CONTROL
+======================================================================
+
+BLEU: 0.9179
+chrF: 14.8867
+Repetition rate: 0.00%
+Sentences: 272
+Evaluation time: 9.77 minutes
+Speed: 0.46 sentences/sec
+
+======================================================================
+SAMPLE TRANSLATIONS
+======================================================================
+
+Example 1
+
+Reference:
+O Devī queen! Do not worry.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 2
+
+Reference:
+Having conquered Indra, he became Indrajit. He was stronger than Rāvaṇa.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 3
+
+Reference:
+Whoever causes to set up a pleasure grove stays eternally in the garden of Indra. One who builds a monastery goes to heaven and remains in the world of Indra.
+
+Generated:
+The image of Viṣṇu should be made with the mantra.
+
+----------------------------------------------------------------------
+Example 4
+
+Reference:
+What a kind of wife you. are like the night of destruction at the end of the world. Bharata is not such a kind of son.
+
+Generated:
+The image of Viṣṇu should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 5
+
+Reference:
+The principle of water should be purified by means of three stretches of awful minuteness.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 6
+
+Reference:
+This is the weapon which cleans and which wards off all diseases.
+
+Generated:
+The image of Viṣṇu should be made with the mantra.
+
+----------------------------------------------------------------------
+Example 7
+
+Reference:
+Siṃhikā was also their daughter, who was married by Vipracitti.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------
+Example 8
+
+Reference:
+Hrim salutation to Gaurī Pārvatī, Gam salutation to Gaṇa, face of Śakra Indra, Caṇḍa, heart and others. The mystic syllables in the worship of the sun are described now. The tawnycoloured Daṇḍin is to be worshipped.
+
+Generated:
+The image of Viṣṇu should be placed in the mantra and having worshipped with aṅgulas.
+
+----------------------------------------------------------------------
+Example 9
+
+Reference:
+Nārāyaṇa bears the conch, lotus, mace and disc.
+
+Generated:
+The image of Viṣṇu should be made with the mantra.
+
+----------------------------------------------------------------------
+Example 10
+
+Reference:
+Or four images of Garuḍa vehicle of Lord Viṣṇu should be placed in the four quarters.
+
+Generated:
+The image should be worshipped with the mantra.
+
+----------------------------------------------------------------------

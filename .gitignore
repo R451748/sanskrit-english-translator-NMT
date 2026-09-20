@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Large datasets
+dataset/raw/
+dataset/processed/
+dataset/final/
+*.csv
+*.npy
+
+# Morphology outputs
+morphology/batches/
+morphology/*.json
+
+# Temporary files
+application/temp/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+WORD-BASED MORPHOLOGY ALIGNMENT REPORT
+============================================================
+Records          : 2,720
+Total words      : 18,794
+Matched words    : 3,673
+Unmatched words  : 15,121
+Match rate       : 19.54%

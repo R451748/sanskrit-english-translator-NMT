@@ -1,0 +1,1009 @@
+[
+  {
+    "test_row": 0,
+    "sanskrit": "adṛṣṭa pūrvam hṛṣitaḥ asmi dṛṣṭvā bhayena ca pravyathitam manaḥ me tat eva me darśaya deva rūpam prasīda deva īśa jagat nivāsa",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "adṛṣṭa",
+          "pūrvam",
+          "hṛṣitaḥ",
+          "asmi",
+          "dṛṣṭvā",
+          "bhayena",
+          "ca",
+          "pravyathitam"
+        ],
+        "morphology": "adṛṣṭa_adṛṣṭa_Cp pūrvam_pūrvam_U hṛṣitaḥ_hṛṣ_SNPaPsM asmi_as_SPr1In dṛṣṭvā_dṛś_Co bhayena_bhay"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "ca",
+          "pravyathitam",
+          "manaḥ",
+          "me",
+          "tat",
+          "eva",
+          "me",
+          "darśaya"
+        ],
+        "morphology": "ca_ca_U pravyathitam_pravyath_SNPaPsNe manaḥ_manas_SNNe me_mad_SG tat_tad_SANe eva_eva_U me_mad_SD darśaya_darśay_SPr2Im"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "me",
+          "darśaya",
+          "deva",
+          "rūpam",
+          "prasīda",
+          "deva",
+          "īśa",
+          "jagat"
+        ],
+        "morphology": "me_mad_SD darśaya_darśay_SPr2Im deva_deva_MCp rūpam_rūpa_SANe prasīda_prasad_SPr2Im deva_deva_MCp īśa_īśa_SVM jagat_jag"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "īśa",
+          "jagat",
+          "nivāsa"
+        ],
+        "morphology": "īśa_īś_SPr2Im jagat_jagant_NeCp nivāsa_nivāsa_SVM"
+      }
+    ]
+  },
+  {
+    "test_row": 1,
+    "sanskrit": "kirīṭinam gadinam cakra hastam icchāmi tvām draṣṭum aham tathā eva tena eva rūpeṇa catuḥ bhujena sahasra bāho bhava viśva mūrte",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "kirīṭinam",
+          "gadinam",
+          "cakra",
+          "hastam",
+          "icchāmi",
+          "tvām",
+          "draṣṭum",
+          "aham"
+        ],
+        "morphology": "kirīṭinam_kirīṭin_SAM gadinam_gadin_SAM cakra_cakra_NeCp hastam_hasta_SAM icchāmi_iṣ_SPr1In tvām_tvad_SA draṣṭum_d"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "draṣṭum",
+          "aham",
+          "tathā",
+          "eva",
+          "tena",
+          "eva",
+          "rūpeṇa",
+          "catuḥ"
+        ],
+        "morphology": "draṣṭum_dṛś_In aham_mad_SN tathā_tathā_U eva_eva_U tena_tad_SINe eva_eva_U rūpeṇa_rūpa_SINe catuḥ_catur_SANe"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "rūpeṇa",
+          "catuḥ",
+          "bhujena",
+          "sahasra",
+          "bāho",
+          "bhava",
+          "viśva",
+          "mūrte"
+        ],
+        "morphology": "rūpeṇa_rūpa_SINe catuḥ_catur_Cp bhujena_bhuja_SINe sahasra_sahasra_NeCp bāho_bāhu_SVM bhava_bhū_SPr2Im viśva_viśva_Cp"
+      }
+    ]
+  },
+  {
+    "test_row": 2,
+    "sanskrit": "śrī bhagavān uvāca mayā prasannena tava arjuna idam rūpam param darśitam ātma yogāt tejaḥ mayam viśvam anantam ādyam yat me tvat anyena na dṛṣṭa pūrvam",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "śrī",
+          "bhagavān",
+          "uvāca",
+          "mayā",
+          "prasannena",
+          "tava",
+          "arjuna",
+          "idam"
+        ],
+        "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In mayā_mad_SI prasannena_prasad_SIPaPsM tava_tvad_SG arjuna_arjuna_SVM "
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "arjuna",
+          "idam",
+          "rūpam",
+          "param",
+          "darśitam",
+          "ātma",
+          "yogāt",
+          "tejaḥ"
+        ],
+        "morphology": "arjuna_arjuna_SVM idam_idam_SNNe rūpam_rūpa_SNNe param_para_SNNe darśitam_darśay_SNPaPsNe ātma_ātman_MCp yogāt_yoga_SBM t"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "yogāt",
+          "tejaḥ",
+          "mayam",
+          "viśvam",
+          "anantam",
+          "ādyam",
+          "yat",
+          "me"
+        ],
+        "morphology": "yogāt_yoga_SBM tejaḥ_tejas_NeCp mayam_maya_SNNe viśvam_viśva_SNNe anantam_ananta_SNNe ādyam_ādya_SNNe yat_yad_SNNe me_mad"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "yat",
+          "me",
+          "tvat",
+          "anyena",
+          "na",
+          "dṛṣṭa",
+          "pūrvam"
+        ],
+        "morphology": "yat_yad_SNNe me_mad_SG tvat_tvad_SB anyena_anya_SIM na_na_U dṛṣṭa_dṛś_PaPsCp pūrvam_pūrva_SNNe"
+      }
+    ]
+  },
+  {
+    "test_row": 3,
+    "sanskrit": "na veda yajña adhyayanaiḥ na dānaiḥ na ca kriyābhiḥ na tapobhiḥ ugraiḥ evam rūpaḥ śakyaḥ aham nṛ loke draṣṭum tvat anyena kuru pravīra",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "na",
+          "veda",
+          "yajña",
+          "adhyayanaiḥ",
+          "na",
+          "dānaiḥ",
+          "na",
+          "ca"
+        ],
+        "morphology": "na_na_U veda_veda_MCp yajña_yajña_MCp adhyayanaiḥ_adhyayana_PINe na_na_U dānaiḥ_dāna_PINe na_na_U ca_ca_U"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "na",
+          "ca",
+          "kriyābhiḥ",
+          "na",
+          "tapobhiḥ",
+          "ugraiḥ",
+          "evam",
+          "rūpaḥ"
+        ],
+        "morphology": "na_na_U ca_ca_U kriyābhiḥ_kriyā_PIF na_na_U tapobhiḥ_tapas_PINe ugraiḥ_ugra_PINe evam_evam_U rūpaḥ_rūpa_SNM"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "evam",
+          "rūpaḥ",
+          "śakyaḥ",
+          "aham",
+          "nṛ",
+          "loke",
+          "draṣṭum",
+          "tvat"
+        ],
+        "morphology": "evam_evam_U rūpaḥ_rūpa_SNM śakyaḥ_śakya_SNM aham_mad_SN nṛ_nṛ_MCp loke_loka_SLM draṣṭum_dṛś_In tvat_tvad_SB"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "draṣṭum",
+          "tvat",
+          "anyena",
+          "kuru",
+          "pravīra"
+        ],
+        "morphology": "draṣṭum_dṛś_In tvat_tvad_SB anyena_anya_SIM kuru_kṛ_SPr2Im pravīra_pravīra_SVM"
+      }
+    ]
+  },
+  {
+    "test_row": 4,
+    "sanskrit": "mā te vyathā mā ca vimūḍha bhāvaḥ dṛṣṭvā rūpam ghoram īdṛk mama idam vyapeta bhīḥ prīta manāḥ punaḥ tvam tat eva me rūpam idam prapaśya",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "mā",
+          "te",
+          "vyathā",
+          "mā",
+          "ca",
+          "vimūḍha",
+          "bhāvaḥ",
+          "dṛṣṭvā"
+        ],
+        "morphology": "mā_mā_U te_tvad_SG vyathā_vyathā_SNF mā_mā_U ca_ca_U vimūḍha_vimuh_PaPsCp bhāvaḥ_bhāva_SNM dṛṣṭvā_dṛś_Co"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "bhāvaḥ",
+          "dṛṣṭvā",
+          "rūpam",
+          "ghoram",
+          "īdṛk",
+          "mama",
+          "idam",
+          "vyapeta"
+        ],
+        "morphology": "bhāvaḥ_bhāva_SNM dṛṣṭvā_dṛś_Co rūpam_rūpa_SANe ghoram_ghora_SANe īdṛś_īdṛś_SANe mama_mad_SG idam_idam_SA"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "idam",
+          "vyapeta",
+          "bhīḥ",
+          "prīta",
+          "manāḥ",
+          "punaḥ",
+          "tvam",
+          "tat"
+        ],
+        "morphology": "idam_idam_SANe vyapeta_vyape_PPr2Im bhīḥ_bhī_SNF prīta_prī_PaPsCp manāḥ_manas_SNF punar_punar_U tvam_tvad_SN tat_tad_SA"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "tvam",
+          "tat",
+          "eva",
+          "me",
+          "rūpam",
+          "idam",
+          "prapaśya"
+        ],
+        "morphology": "tvam_tvad_SN tat_tad_SANe eva_eva_U me_mad_SG rūpam_rūpa_SANe idam_idam_SANe prapaśya_prapaś_SPr2Im"
+      }
+    ]
+  },
+  {
+    "test_row": 5,
+    "sanskrit": "sañjayaḥ uvāca iti arjunam vāsudevaḥ tathā uktvā svakam rūpam darśayām āsa bhūyaḥ āśvāsayām āsa ca bhītam enam bhūtvā punaḥ saumya vapuḥ mahā ātmā",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "sañjayaḥ",
+          "uvāca",
+          "iti",
+          "arjunam",
+          "vāsudevaḥ",
+          "tathā",
+          "uktvā",
+          "svakam"
+        ],
+        "morphology": "sañjayaḥ_saṃjaya_SNM uvāca_vac_SPs3In iti_iti_U arjunam_arjuna_SAM vāsudevaḥ_vāsudeva_SNM tathā_tathā_U uktvā_vac_C"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "uktvā",
+          "svakam",
+          "rūpam",
+          "darśayām",
+          "āsa",
+          "bhūyaḥ",
+          "āśvāsayām",
+          "āsa"
+        ],
+        "morphology": "uktvā_vac_Co svakam_svaka_SANe rūpam_rūpa_SANe darśayām_darśay_SPs3In āsa_as_SPs3In bhūyas_bhūyas_U āśvāsayām_āśv"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "āśvāsayām",
+          "āsa",
+          "ca",
+          "bhītam",
+          "enam",
+          "bhūtvā",
+          "punaḥ",
+          "saumya"
+        ],
+        "morphology": "āśvāsayām_āśvāsay_SPs3In āsa_as_SPs3In ca_ca_U bhītam_bhī_SAPaPsM enam_enad_SAM bhūtvā_bhū_Co punar_punar_U saumya_"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "punaḥ",
+          "saumya",
+          "vapuḥ",
+          "mahā",
+          "ātmā"
+        ],
+        "morphology": "punar_punar_U saumya_saumya_Cp vapuḥ_vapus_SNNe mahā_mahat_Cp ātmā_ātman_SNM"
+      }
+    ]
+  },
+  {
+    "test_row": 6,
+    "sanskrit": "arjunaḥ uvāca dṛṣṭvā idam mānuṣam rūpam tava saumyam janārdana idānīm asmi saṁvṛttaḥ sa cetāḥ prakṛtim gataḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "arjunaḥ",
+          "uvāca",
+          "dṛṣṭvā",
+          "idam",
+          "mānuṣam",
+          "rūpam",
+          "tava",
+          "saumyam"
+        ],
+        "morphology": "arjunaḥ_arjuna_SNM uvāca_vac_SPs3In dṛṣṭvā_dṛś_Co idam_idam_SANe mānuṣam_mānuṣa_SANe rūpam_rūpa_SANe tava_t"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "tava",
+          "saumyam",
+          "janārdana",
+          "idānīm",
+          "asmi",
+          "saṁvṛttaḥ",
+          "sa",
+          "cetāḥ"
+        ],
+        "morphology": "tava_tvad_SG saumyam_saumya_SAM janārdana_janārdana_SVM idānīm_idānīm_U asmi_as_SPr1In saṁvṛttaḥ_saṃvṛt_SNPaPsM "
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "sa",
+          "cetāḥ",
+          "prakṛtim",
+          "gataḥ"
+        ],
+        "morphology": "sa_tad_SNM cetāḥ_cetas_SNM prakṛtim_prakṛti_SAF gataḥ_gam_SNPaPsM"
+      }
+    ]
+  },
+  {
+    "test_row": 7,
+    "sanskrit": "śrī bhagavān uvāca su durdarśam idam rūpam dṛṣṭavān asi yat mama devāḥ api asya rūpasya nityam darśana kāṅkṣiṇaḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "śrī",
+          "bhagavān",
+          "uvāca",
+          "su",
+          "durdarśam",
+          "idam",
+          "rūpam",
+          "dṛṣṭavān"
+        ],
+        "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In su_su_U durdarśam_durdarśa_SANe idam_idam_SANe rūpam_rūpa_SANe d"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "rūpam",
+          "dṛṣṭavān",
+          "asi",
+          "yat",
+          "mama",
+          "devāḥ",
+          "api",
+          "asya"
+        ],
+        "morphology": "rūpam_rūpa_SANe dṛṣṭavān_dṛś_SNPaPsM asi_as_SPr2In yat_yad_SANe mama_mad_SG devāḥ_deva_PNM api_api_U asya_idam_SG"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "api",
+          "asya",
+          "rūpasya",
+          "nityam",
+          "darśana",
+          "kāṅkṣiṇaḥ"
+        ],
+        "morphology": "api_api_U asya_idam_SGNe rūpasya_rūpa_SGNe nityam_nityam_U darśana_darśana_NeCp kāṅkṣiṇaḥ_kāṅkṣin_PNM"
+      }
+    ]
+  },
+  {
+    "test_row": 8,
+    "sanskrit": "na aham vedaiḥ na tapasā na dānena na ca ijyayā śakyaḥ evam vidhaḥ draṣṭum dṛṣṭavān asi mām yathā",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "na",
+          "aham",
+          "vedaiḥ",
+          "na",
+          "tapasā",
+          "na",
+          "dānena",
+          "na"
+        ],
+        "morphology": "na_na_U aham_mad_SN vedaiḥ_veda_PIM na_na_U tapasā_tapas_SINe na_na_U dānena_dāna_SINe na_na_U"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "dānena",
+          "na",
+          "ca",
+          "ijyayā",
+          "śakyaḥ",
+          "evam",
+          "vidhaḥ",
+          "draṣṭum"
+        ],
+        "morphology": "dānena_dāna_SINe na_na_U ca_ca_U ijyayā_ijyā_SIF śakyaḥ_śakya_SNM evam_evam_U vidhaḥ_vidha_SNM draṣṭum_dṛś_In"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "vidhaḥ",
+          "draṣṭum",
+          "dṛṣṭavān",
+          "asi",
+          "mām",
+          "yathā"
+        ],
+        "morphology": "vidhaḥ_vidha_SNM draṣṭum_dṛś_In dṛṣṭavān_dṛś_SNPaPsM asi_as_SPr2In mām_mad_SA yathā_yathā_U"
+      }
+    ]
+  },
+  {
+    "test_row": 9,
+    "sanskrit": "bhaktyā tu ananyayā śakyaḥ aham evam vidhaḥ arjuna jñātum draṣṭum ca tattvena praveṣṭum ca param tapa",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "bhaktyā",
+          "tu",
+          "ananyayā",
+          "śakyaḥ",
+          "aham",
+          "evam",
+          "vidhaḥ",
+          "arjuna"
+        ],
+        "morphology": "bhaktyā_bhakti_SIF tu_tu_U ananyayā_ananya_SIF śakyaḥ_śakya_SNM aham_mad_SN evam_evam_U vidhaḥ_vidha_SNM arjuna_arjuna_S"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "vidhaḥ",
+          "arjuna",
+          "jñātum",
+          "draṣṭum",
+          "ca",
+          "tattvena",
+          "praveṣṭum",
+          "ca"
+        ],
+        "morphology": "vidhaḥ_vidha_SNM arjuna_arjuna_SVM jñātum_jñā_In draṣṭum_dṛś_In ca_ca_U tattvena_tattva_SINe praveṣṭum_praviś_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "praveṣṭum",
+          "ca",
+          "param",
+          "tapa"
+        ],
+        "morphology": "praveṣṭum_praviś_In ca_ca_U param_para_SANe tapa_tap_SPr2Im"
+      }
+    ]
+  },
+  {
+    "test_row": 10,
+    "sanskrit": "mat karma kṛt mat paramaḥ mat bhaktaḥ saṅga varjitaḥ nirvairaḥ sarva bhūteṣu yaḥ saḥ mām eti pāṇḍava",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "mat",
+          "karma",
+          "kṛt",
+          "mat",
+          "paramaḥ",
+          "mat",
+          "bhaktaḥ",
+          "saṅga"
+        ],
+        "morphology": "mad_mad_Cp karma_karman_NeCp kṛt_kṛt_SNM mad_mad_Cp paramaḥ_parama_SNM mad_mad_Cp bhaktaḥ_bhakta_SNM saṅga_saṅga_SVM"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "bhaktaḥ",
+          "saṅga",
+          "varjitaḥ",
+          "nirvairaḥ",
+          "sarva",
+          "bhūteṣu",
+          "yaḥ",
+          "saḥ"
+        ],
+        "morphology": "bhaktaḥ_bhakta_SNM saṅga_saṅga_MCp varjitaḥ_varjay_SNPaPsM nirvairaḥ_nirvaira_SNM sarva_sarva_Cp bhūteṣu_bhūta_PLN"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "yaḥ",
+          "saḥ",
+          "mām",
+          "eti",
+          "pāṇḍava"
+        ],
+        "morphology": "yaḥ_yad_SNM saḥ_tad_SNM mām_mad_SA eti_i_SPr3In pāṇḍava_pāṇḍava_SVM"
+      }
+    ]
+  },
+  {
+    "test_row": 11,
+    "sanskrit": "arjunaḥ uvāca evam satata yuktāḥ ye bhaktāḥ tvām paryupāsate ye ca api akṣaram avyaktam teṣām ke yoga vit tamāḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "arjunaḥ",
+          "uvāca",
+          "evam",
+          "satata",
+          "yuktāḥ",
+          "ye",
+          "bhaktāḥ",
+          "tvām"
+        ],
+        "morphology": "arjunaḥ_arjuna_SNM uvāca_vac_SPs3In evam_evam_U satata_satata_Cp yuktāḥ_yuj_PNPaPsM ye_yad_PNM bhaktāḥ_bhakta_PNM tvām"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "bhaktāḥ",
+          "tvām",
+          "paryupāsate",
+          "ye",
+          "ca",
+          "api",
+          "akṣaram",
+          "avyaktam"
+        ],
+        "morphology": "bhaktāḥ_bhakta_PNM tvām_tvad_SA paryupāsate_paryupās_PPr3In ye_yad_PNM ca_ca_U api_api_U akṣaram_akṣara_SANe avyaktam_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "akṣaram",
+          "avyaktam",
+          "teṣām",
+          "ke",
+          "yoga",
+          "vit",
+          "tamāḥ"
+        ],
+        "morphology": "akṣaram_akṣara_SNNe avyaktam_avyakta_SNNe teṣām_tad_PGM ke_ka_PNM yoga_yoga_MCp vid_vid_SNM tamāḥ_tama_PNM"
+      }
+    ]
+  },
+  {
+    "test_row": 12,
+    "sanskrit": "śrī bhagavān uvāca mayi āveśya manaḥ ye mām nitya yuktāḥ upāsate śraddhayā parayā upetāḥ te me yukta tamāḥ matāḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "śrī",
+          "bhagavān",
+          "uvāca",
+          "mayi",
+          "āveśya",
+          "manaḥ",
+          "ye",
+          "mām"
+        ],
+        "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In mayi_mad_SL āveśya_āveśay_Co manaḥ_manas_SANe ye_yad_PNM mām_ma"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "ye",
+          "mām",
+          "nitya",
+          "yuktāḥ",
+          "upāsate",
+          "śraddhayā",
+          "parayā",
+          "upetāḥ"
+        ],
+        "morphology": "ye_yad_PNM mām_mad_SA nitya_nitya_Cp yuktāḥ_yuj_PNPaPsM upāsate_upās_PPr3In śraddhayā_śraddhā_SIF parayā_para_SIF upe"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "parayā",
+          "upetāḥ",
+          "te",
+          "me",
+          "yukta",
+          "tamāḥ",
+          "matāḥ"
+        ],
+        "morphology": "parayā_parā_SIF upetāḥ_upe_PNPaPsM te_tad_PNM me_mad_SG yukta_yuj_PaPsCp tamāḥ_tama_PNM matāḥ_man_PNPaPsM"
+      }
+    ]
+  },
+  {
+    "test_row": 13,
+    "sanskrit": "ye tu akṣaram anirdeśyam avyaktam paryupāsate sarvatra gam acintyam ca kūṭa stham acalam dhruvam sanniyamya indriya grāmam sarvatra sama buddhayaḥ te prāpnuvanti mām eva sarva bhūta hite ratāḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "ye",
+          "tu",
+          "akṣaram",
+          "anirdeśyam",
+          "avyaktam",
+          "paryupāsate",
+          "sarvatra",
+          "gam"
+        ],
+        "morphology": "ye_yad_PNM tu_tu_U akṣaram_akṣara_SANe anirdeśyam_anirdeśya_SANe avyaktam_avyakta_SANe paryupāsate_paryupās_PPr3In sarva"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "sarvatra",
+          "gam",
+          "acintyam",
+          "ca",
+          "kūṭa",
+          "stham",
+          "acalam",
+          "dhruvam"
+        ],
+        "morphology": "sarvatra_sarvatra_U gam_ga_SAM acintyam_acintya_SAM ca_ca_U kūṭa_kūṭa_MCp stham_stha_SAM acalam_acala_SAM dhruvam_dhruva_S"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "acalam",
+          "dhruvam",
+          "sanniyamya",
+          "indriya",
+          "grāmam",
+          "sarvatra",
+          "sama",
+          "buddhayaḥ"
+        ],
+        "morphology": "acalam_acala_SAM dhruvam_dhruva_SAM sanniyamya_niyam_Co indriya_indriya_NeCp grāmam_grāma_SAM sarvatra_sarvatra_U sama_sama_Cp"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "sama",
+          "buddhayaḥ",
+          "te",
+          "prāpnuvanti",
+          "mām",
+          "eva",
+          "sarva",
+          "bhūta"
+        ],
+        "morphology": "sama_sama_Cp buddhayaḥ_buddhi_PNM te_tad_PNM prāpnuvanti_prāp_PPr3In mām_mad_SA eva_eva_U sarva_sarva_Cp bhūta_bhū_SVPaPs"
+      },
+      {
+        "chunk_number": 5,
+        "words": [
+          "sarva",
+          "bhūta",
+          "hite",
+          "ratāḥ"
+        ],
+        "morphology": "sarva_sarva_Cp bhūta_bhūta_NeCp hite_hita_SLNe ratāḥ_ram_PNPaPsM"
+      }
+    ]
+  },
+  {
+    "test_row": 14,
+    "sanskrit": "kleśaḥ adhika taraḥ teṣām avyakta āsakta cetasām avyaktā hi gatiḥ duḥkham deha vadbhiḥ avāpyate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "kleśaḥ",
+          "adhika",
+          "taraḥ",
+          "teṣām",
+          "avyakta",
+          "āsakta",
+          "cetasām",
+          "avyaktā"
+        ],
+        "morphology": "kleśaḥ_kleśa_SNM adhika_adhika_Cp taraḥ_tara_SNM teṣām_tad_PGM avyakta_avyakta_NeCp āsakta_āsañj_PaPsCp cetasām_cet"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "cetasām",
+          "avyaktā",
+          "hi",
+          "gatiḥ",
+          "duḥkham",
+          "deha",
+          "vadbhiḥ",
+          "avāpyate"
+        ],
+        "morphology": "cetasām_cetas_PGNe avyaktā_avyakta_SNF hi_hi_U gatiḥ_gati_SNF duḥkham_duḥkha_SNNe deha_deha_MCp vadbhiḥ_vat_U avāpyat"
+      }
+    ]
+  },
+  {
+    "test_row": 15,
+    "sanskrit": "ye tu sarvāṇi karmāṇi mayi sannyasya mat parāḥ ananyena eva yogena mām dhyāyantaḥ upāsate teṣām aham samuddhartā mṛtyu saṁsāra sāgarāt bhavāmi na cirāt pārtha mayi āveśita cetasām",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "ye",
+          "tu",
+          "sarvāṇi",
+          "karmāṇi",
+          "mayi",
+          "sannyasya",
+          "mat",
+          "parāḥ"
+        ],
+        "morphology": "ye_yad_PNM tu_tu_ sarvāṇi_sarva_PANe karmāṇi_karman_PANe mayi_mad_SL sannyasya_saṃnyas_Co mat_mad_SB parāḥ_para_PNM"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "mat",
+          "parāḥ",
+          "ananyena",
+          "eva",
+          "yogena",
+          "mām",
+          "dhyāyantaḥ",
+          "upāsate"
+        ],
+        "morphology": "mat_mad_Cp parāḥ_para_PNM ananyena_ananya_SIM eva_eva_U yogena_yoga_SIM mām_mad_SA dhyāyantaḥ_dhyā_PNPaPrM upāsate_upā"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "dhyāyantaḥ",
+          "upāsate",
+          "teṣām",
+          "aham",
+          "samuddhartā",
+          "mṛtyu",
+          "saṁsāra",
+          "sāgarāt"
+        ],
+        "morphology": "dhyāyantaḥ_dhyā_PNPaPrM upāsate_upās_PPr3In teṣām_tad_PGM aham_mad_SN samuddhartā_samuddhartṛ_SNM mṛtyu_mṛtyu_MC"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "saṁsāra",
+          "sāgarāt",
+          "bhavāmi",
+          "na",
+          "cirāt",
+          "pārtha",
+          "mayi",
+          "āveśita"
+        ],
+        "morphology": "saṁsāra_saṃsāra_MCp sāgarāt_sāgara_SBM bhavāmi_bhū_SPr1In na_na_U cirāt_cirāt_U pārtha_pārtha_SVM mayi_mad_SL āv"
+      },
+      {
+        "chunk_number": 5,
+        "words": [
+          "mayi",
+          "āveśita",
+          "cetasām"
+        ],
+        "morphology": "mayi_mad_SL āveśita_āveśay_PaPsCp cetasām_cetas_PGM"
+      }
+    ]
+  },
+  {
+    "test_row": 16,
+    "sanskrit": "mayi eva manaḥ ādhatsva mayi buddhim niveśaya nivasiṣyasi mayi eva ataḥ ūrdhvam na saṁśayaḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "mayi",
+          "eva",
+          "manaḥ",
+          "ādhatsva",
+          "mayi",
+          "buddhim",
+          "niveśaya",
+          "nivasiṣyasi"
+        ],
+        "morphology": "mayi_mad_SL eva_eva_U manaḥ_manas_SANe ādhatsva_ādhā_SPr2Im mayi_mad_SL buddhim_buddhi_SAF niveśaya_niveśay_SPr2Im nivasi"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "niveśaya",
+          "nivasiṣyasi",
+          "mayi",
+          "eva",
+          "ataḥ",
+          "ūrdhvam",
+          "na",
+          "saṁśayaḥ"
+        ],
+        "morphology": "niveśaya_niveśay_SPr2Im nivasiṣyasi_nivas_SFu2In mayi_mad_SL eva_eva_U atas_atas_U ūrdhvam_ūrdhvam_U na_na_U saṁśayaḥ"
+      }
+    ]
+  },
+  {
+    "test_row": 17,
+    "sanskrit": "atha cittam samādhātum na śaknoṣi mayi sthiram abhyāsa yogena tataḥ mām icchā āptum dhanam jaya",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "atha",
+          "cittam",
+          "samādhātum",
+          "na",
+          "śaknoṣi",
+          "mayi",
+          "sthiram",
+          "abhyāsa"
+        ],
+        "morphology": "atha_atha_U cittam_citta_SANe samādhātum_samādhā_In na_na_U śaknoṣi_śak_SPr2In mayi_mad_SL sthiram_sthira_SANe abhyāsa_"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "sthiram",
+          "abhyāsa",
+          "yogena",
+          "tataḥ",
+          "mām",
+          "icchā",
+          "āptum",
+          "dhanam"
+        ],
+        "morphology": "sthiram_sthira_SAM abhyāsa_abhyāsa_MCp yogena_yoga_SIM tatas_tatas_U mām_mad_SA icchā_iṣ_SPr2Im āptum_āp_In dhanam_dhana"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "āptum",
+          "dhanam",
+          "jaya"
+        ],
+        "morphology": "āptum_āp_In dhanam_dhana_SANe jaya_ji_SPr2Im"
+      }
+    ]
+  },
+  {
+    "test_row": 18,
+    "sanskrit": "abhyāse api asamarthaḥ asi mat karma paramaḥ bhava mat artham api karmāṇi kurvan siddhim avāpsyasi",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "abhyāse",
+          "api",
+          "asamarthaḥ",
+          "asi",
+          "mat",
+          "karma",
+          "paramaḥ",
+          "bhava"
+        ],
+        "morphology": "abhyāse_abhyāsa_SLM api_api_U asamarthaḥ_asamartha_SNM asi_as_SPr2In mat_mad_SB karma_karman_NeCp paramaḥ_parama_SNM bhava"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "paramaḥ",
+          "bhava",
+          "mat",
+          "artham",
+          "api",
+          "karmāṇi",
+          "kurvan",
+          "siddhim"
+        ],
+        "morphology": "paramaḥ_parama_SNM bhava_bhū_SPr2Im mat_mad_SB artham_artha_SAM api_api_U karmāṇi_karman_PANe kurvan_kṛ_SNPaPrM siddhim_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "kurvan",
+          "siddhim",
+          "avāpsyasi"
+        ],
+        "morphology": "kurvan_kṛ_SNPaPrM siddhim_siddhi_SAF avāpsyasi_avāp_SFu2In"
+      }
+    ]
+  },
+  {
+    "test_row": 19,
+    "sanskrit": "atha etat api aśaktaḥ asi kartum mat yogam āśritaḥ sarva karma phala tyāgam tataḥ kuru yata ātma vān",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "atha",
+          "etat",
+          "api",
+          "aśaktaḥ",
+          "asi",
+          "kartum",
+          "mat",
+          "yogam"
+        ],
+        "morphology": "atha_atha_U etat_etad_SANe api_api_U aśaktaḥ_aśakta_SNM asi_as_SPr2In kartum_kṛ_In mat_mad_SB yogam_yoga_SAM"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "mat",
+          "yogam",
+          "āśritaḥ",
+          "sarva",
+          "karma",
+          "phala",
+          "tyāgam",
+          "tataḥ"
+        ],
+        "morphology": "mat_mad_Cp yogam_yoga_SAM āśritaḥ_āśri_SNPaPsM sarva_sarva_Cp karma_karman_NeCp phala_phala_NeCp tyāgam_tyāga_SAM tatas_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "tyāgam",
+          "tataḥ",
+          "kuru",
+          "yata",
+          "ātma",
+          "vān"
+        ],
+        "morphology": "tyāgam_tyāga_SAM tataḥ_tatas_U kuru_kṛ_SPr2Im yatas_yatas_U ātma_ātman_MCp vān_vat_U"
+      }
+    ]
+  }
+]

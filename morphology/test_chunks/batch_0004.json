@@ -1,0 +1,919 @@
+[
+  {
+    "test_row": 60,
+    "sanskrit": "sattvam rajaḥ tamaḥ iti guṇāḥ prakṛti sambhavāḥ nibadhnanti mahā bāho dehe dehinam avyayam",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "sattvam",
+          "rajaḥ",
+          "tamaḥ",
+          "iti",
+          "guṇāḥ",
+          "prakṛti",
+          "sambhavāḥ",
+          "nibadhnanti"
+        ],
+        "morphology": "sattvam_sattva_SNNe rajaḥ_rajas_SNNe tamaḥ_tamas_SNNe iti_iti_U guṇāḥ_guṇa_PNM prakṛti_prakṛti_FCp sambhavāḥ_s"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "sambhavāḥ",
+          "nibadhnanti",
+          "mahā",
+          "bāho",
+          "dehe",
+          "dehinam",
+          "avyayam"
+        ],
+        "morphology": "sambhavāḥ_sambhava_PNM nibadhnanti_nibandh_PPr3In mahā_mahat_Cp bāho_bāhu_SVM dehe_deha_SLNe dehinam_dehin_SAM avyayam_avy"
+      }
+    ]
+  },
+  {
+    "test_row": 61,
+    "sanskrit": "tatra sattvam nirmalatvāt prakāśakam anāmayam sukha saṅgena badhnāti jñāna saṅgena ca anagha",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "tatra",
+          "sattvam",
+          "nirmalatvāt",
+          "prakāśakam",
+          "anāmayam",
+          "sukha",
+          "saṅgena",
+          "badhnāti"
+        ],
+        "morphology": "tatra_tatra_U sattvam_sattva_SANe nirmala_nirmala_Cp tvāt_tva_SBNe prakāśakam_prakāśaka_SANe anāmayam_anāmaya_SANe sukha_"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "saṅgena",
+          "badhnāti",
+          "jñāna",
+          "saṅgena",
+          "ca",
+          "anagha"
+        ],
+        "morphology": "saṅgena_saṅga_SIM badhnāti_bandh_SPr3In jñāna_jñāna_NeCp saṅgena_saṅga_SIM ca_ca_U anagha_anagha_SVM"
+      }
+    ]
+  },
+  {
+    "test_row": 62,
+    "sanskrit": "rajaḥ rāga ātmakam viddhi tṛṣṇā saṅga samudbhavam tat nibadhnāti kaunteya karma saṅgena dehinam",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "rajaḥ",
+          "rāga",
+          "ātmakam",
+          "viddhi",
+          "tṛṣṇā",
+          "saṅga",
+          "samudbhavam",
+          "tat"
+        ],
+        "morphology": "rajaḥ_rajas_SANe rāga_rāga_MCp ātmakam_ātmaka_SANe viddhi_vid_SPr2Im tṛṣṇā_tṛṣṇā_FCp saṅga_saṅga_MCp sam"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "samudbhavam",
+          "tat",
+          "nibadhnāti",
+          "kaunteya",
+          "karma",
+          "saṅgena",
+          "dehinam"
+        ],
+        "morphology": "samudbhavam_samudbhava_SAM tat_tad_SNNe nibadhnāti_nibandh_SPr3In kaunteya_kaunteya_SVM karma_karman_NeCp saṅgena_saṅga_SIM"
+      }
+    ]
+  },
+  {
+    "test_row": 63,
+    "sanskrit": "tamaḥ tu ajñāna jam viddhi mohanam sarva dehinām pramāda ālasya nidrābhiḥ tat nibadhnāti bhārata",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "tamaḥ",
+          "tu",
+          "ajñāna",
+          "jam",
+          "viddhi",
+          "mohanam",
+          "sarva",
+          "dehinām"
+        ],
+        "morphology": "tamaḥ_tamas_SANe tu_tu_U ajñāna_ajñāna_NeCp jam_ja_SANe viddhi_vid_SPr2Im mohanam_mohana_SANe sarva_sarva_Cp dehinām_dehi"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "sarva",
+          "dehinām",
+          "pramāda",
+          "ālasya",
+          "nidrābhiḥ",
+          "tat",
+          "nibadhnāti",
+          "bhārata"
+        ],
+        "morphology": "sarva_sarva_Cp dehinām_dehin_PGM pramāda_pramāda_MCp ālasya_ālasya_NeCp nidrābhiḥ_nidrā_PIF tat_tad_SNNe nibadhnāti_ni"
+      }
+    ]
+  },
+  {
+    "test_row": 64,
+    "sanskrit": "sattvam sukhe sañjayati rajaḥ karmaṇi bhārata jñānam āvṛtya tu tamaḥ pramāde sañjayati uta",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "sattvam",
+          "sukhe",
+          "sañjayati",
+          "rajaḥ",
+          "karmaṇi",
+          "bhārata",
+          "jñānam",
+          "āvṛtya"
+        ],
+        "morphology": "sattvam_sattva_SNNe sukhe_sukha_SLNe sañjayati_sañjay_SPr3In rajaḥ_rajas_SNNe karmaṇi_karman_SLNe bhārata_bhārata_SVM j"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "jñānam",
+          "āvṛtya",
+          "tu",
+          "tamaḥ",
+          "pramāde",
+          "sañjayati",
+          "uta"
+        ],
+        "morphology": "jñānam_jñāna_SANe āvṛtya_āvṛ_Co tu_tu_U tamaḥ_tamas_SANe pramāde_pramāda_SLM sañjayati_sañjay_SPr3In uta_uta_U"
+      }
+    ]
+  },
+  {
+    "test_row": 65,
+    "sanskrit": "rajaḥ tamaḥ ca abhibhūya sattvam bhavati bhārata rajaḥ sattvam tamaḥ ca eva tamaḥ sattvam rajaḥ tathā",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "rajaḥ",
+          "tamaḥ",
+          "ca",
+          "abhibhūya",
+          "sattvam",
+          "bhavati",
+          "bhārata",
+          "rajaḥ"
+        ],
+        "morphology": "rajaḥ_rajas_SANe tamaḥ_tamas_SANe ca_ca_U abhibhūya_abhibhū_Co sattvam_sattva_SNNe bhavati_bhū_SPr3In bhārata_bhārata_S"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "bhārata",
+          "rajaḥ",
+          "sattvam",
+          "tamaḥ",
+          "ca",
+          "eva",
+          "tamaḥ",
+          "sattvam"
+        ],
+        "morphology": "bhārata_bhārata_SVM rajaḥ_rajas_SNNe sattvam_sattva_SNNe tamaḥ_tamas_SNNe ca_ca_U eva_eva_U tamaḥ_tamas_SNNe sattvam_sat"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "tamaḥ",
+          "sattvam",
+          "rajaḥ",
+          "tathā"
+        ],
+        "morphology": "tamaḥ_tamas_SNNe sattvam_sattva_SNNe rajaḥ_rajas_SNNe tathā_tathā_U"
+      }
+    ]
+  },
+  {
+    "test_row": 66,
+    "sanskrit": "yadā sattve pravṛddhe tu pralayam yāti deha bhṛt tadā uttama vidām lokān amalān pratipadyate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "yadā",
+          "sattve",
+          "pravṛddhe",
+          "tu",
+          "pralayam",
+          "yāti",
+          "deha",
+          "bhṛt"
+        ],
+        "morphology": "yadā_yadā_U sattve_sattva_SLNe pravṛddhe_pravṛdh_SLPaPsNe tu_tu_U pralayam_pralaya_SAM yāti_yā_SPr3In deha_deha_MCp bh"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "deha",
+          "bhṛt",
+          "tadā",
+          "uttama",
+          "vidām",
+          "lokān",
+          "amalān",
+          "pratipadyate"
+        ],
+        "morphology": "deha_deha_MCp bhṛt_bhṛt_SNM tadā_tadā_U uttama_uttama_Cp vidām_vid_PGM lokān_loka_PAM amalān_amala_PAM pratipadyate_pra"
+      }
+    ]
+  },
+  {
+    "test_row": 67,
+    "sanskrit": "rajasi pralayam gatvā karma saṅgiṣu jāyate tathā pralīnaḥ tamasi mūḍha yoniṣu jāyate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "rajasi",
+          "pralayam",
+          "gatvā",
+          "karma",
+          "saṅgiṣu",
+          "jāyate",
+          "tathā",
+          "pralīnaḥ"
+        ],
+        "morphology": "rajasi_rajas_SLNe pralayam_pralaya_SAM gatvā_gam_Co karma_karman_NeCp saṅgiṣu_saṅgin_PLM jāyate_jan_SPr3In tathā_tathā"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "tathā",
+          "pralīnaḥ",
+          "tamasi",
+          "mūḍha",
+          "yoniṣu",
+          "jāyate"
+        ],
+        "morphology": "tathā_tathā_U pralīnaḥ_pralī_SNPaPsM tamasi_tamas_SLNe mūḍha_muh_PaPsCp yoniṣu_yoni_PLF jāyate_jan_SPr3In"
+      }
+    ]
+  },
+  {
+    "test_row": 68,
+    "sanskrit": "karmaṇaḥ su kṛtasya āhuḥ sāttvikam nirmalam phalam rajasaḥ tu phalam duḥkham ajñānam tamasaḥ phalam",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "karmaṇaḥ",
+          "su",
+          "kṛtasya",
+          "āhuḥ",
+          "sāttvikam",
+          "nirmalam",
+          "phalam",
+          "rajasaḥ"
+        ],
+        "morphology": "karmaṇaḥ_karman_SGNe su_su_U kṛtasya_kṛ_SGPaPsNe āhuḥ_ah_PPs3In sāttvikam_sāttvika_SANe nirmalam_nirmala_SANe phala"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "phalam",
+          "rajasaḥ",
+          "tu",
+          "phalam",
+          "duḥkham",
+          "ajñānam",
+          "tamasaḥ",
+          "phalam"
+        ],
+        "morphology": "phalam_phala_SNNe rajasaḥ_rajas_SGNe tu_tu_U phalam_phala_SNNe duḥkham_duḥkha_SNNe ajñānam_ajñāna_SNNe tamasaḥ_tamas"
+      }
+    ]
+  },
+  {
+    "test_row": 69,
+    "sanskrit": "sattvāt sañjāyate jñānam rajasaḥ lobhaḥ eva ca pramāda mohau tamasaḥ bhavataḥ ajñānam eva ca",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "sattvāt",
+          "sañjāyate",
+          "jñānam",
+          "rajasaḥ",
+          "lobhaḥ",
+          "eva",
+          "ca",
+          "pramāda"
+        ],
+        "morphology": "sattvāt_sattva_SBNe sañjāyate_saṃjan_SPr3In jñānam_jñāna_SNNe rajasaḥ_rajas_SBNe lobhaḥ_lobha_SNM eva_eva_U ca_ca_U"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "ca",
+          "pramāda",
+          "mohau",
+          "tamasaḥ",
+          "bhavataḥ",
+          "ajñānam",
+          "eva",
+          "ca"
+        ],
+        "morphology": "ca_ca_U pramāda_pramāda_MCp mohau_moha_DuNM tamasaḥ_tamas_SGNe bhavataḥ_bhū_DuPr3In ajñānam_ajñāna_SNNe eva_eva_U ca_"
+      }
+    ]
+  },
+  {
+    "test_row": 70,
+    "sanskrit": "ūrdhvam gacchanti sattva sthāḥ madhye tiṣṭhanti rājasāḥ jaghanya guṇa vṛtti sthāḥ adhaḥ gacchanti tāmasāḥ",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "ūrdhvam",
+          "gacchanti",
+          "sattva",
+          "sthāḥ",
+          "madhye",
+          "tiṣṭhanti",
+          "rājasāḥ",
+          "jaghanya"
+        ],
+        "morphology": "ūrdhvam_ūrdhvam_U gacchanti_gam_PPr3In sattva_sattva_MCp sthāḥ_stha_PNM madhye_madhya_SLNe tiṣṭhanti_sthā_PPr3In rāja"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "rājasāḥ",
+          "jaghanya",
+          "guṇa",
+          "vṛtti",
+          "sthāḥ",
+          "adhaḥ",
+          "gacchanti",
+          "tāmasāḥ"
+        ],
+        "morphology": "rājasāḥ_rājasa_PNM jaghanya_jaghanya_Cp guṇa_guṇa_MCp vṛtti_vṛtti_FCp sthāḥ_stha_PNM adhas_adhas_U gacchanti_gam"
+      }
+    ]
+  },
+  {
+    "test_row": 71,
+    "sanskrit": "na anyam guṇebhyaḥ kartāram yadā draṣṭā anupaśyati guṇebhyaḥ ca param vetti mat bhāvam saḥ adhigacchati",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "na",
+          "anyam",
+          "guṇebhyaḥ",
+          "kartāram",
+          "yadā",
+          "draṣṭā",
+          "anupaśyati",
+          "guṇebhyaḥ"
+        ],
+        "morphology": "na_na_U anyam_anya_SAM guṇebhyaḥ_guṇa_PBM kartāram_kartṛ_SAM yadā_yadā_U draṣṭā_draṣṭṛ_SNM anupaśyati_anu"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "anupaśyati",
+          "guṇebhyaḥ",
+          "ca",
+          "param",
+          "vetti",
+          "mat",
+          "bhāvam",
+          "saḥ"
+        ],
+        "morphology": "anupaśyati_anupaś_SPr3In guṇebhyaḥ_guṇa_PBM ca_ca_U param_para_SAM vetti_vid_SPr3In mat_mad_SB bhāvam_bhāva_SAM saḥ_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "bhāvam",
+          "saḥ",
+          "adhigacchati"
+        ],
+        "morphology": "bhāvam_bhāva_SAM saḥ_tad_SNM adhigacchati_adhigam_SPr3In"
+      }
+    ]
+  },
+  {
+    "test_row": 72,
+    "sanskrit": "guṇān etān atītya trīn dehī deha samudbhavān janma mṛtyu jarā duḥkhaiḥ vimuktaḥ amṛtam aśnute",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "guṇān",
+          "etān",
+          "atītya",
+          "trīn",
+          "dehī",
+          "deha",
+          "samudbhavān",
+          "janma"
+        ],
+        "morphology": "guṇān_guṇa_PAM etān_etad_PAM atītya_atī_Co trīn_tri_PAM dehī_dehin_SNM deha_deha_MCp samudbhavān_samudbhava_PAM janma"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "samudbhavān",
+          "janma",
+          "mṛtyu",
+          "jarā",
+          "duḥkhaiḥ",
+          "vimuktaḥ",
+          "amṛtam",
+          "aśnute"
+        ],
+        "morphology": "samudbhavān_samudbhava_PAM janma_janman_NeCp mṛtyu_mṛtyu_MCp jarā_jarā_FCp duḥkhaiḥ_duḥkha_PINe vimuktaḥ_vimuc_SN"
+      }
+    ]
+  },
+  {
+    "test_row": 73,
+    "sanskrit": "arjunaḥ uvāca kaiḥ liṅgaiḥ trīn guṇān etān atītaḥ bhavati prabho kim ācāraḥ katham ca etān trīn guṇān ativartate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "arjunaḥ",
+          "uvāca",
+          "kaiḥ",
+          "liṅgaiḥ",
+          "trīn",
+          "guṇān",
+          "etān",
+          "atītaḥ"
+        ],
+        "morphology": "arjunaḥ_arjuna_SNM uvāca_vac_SPs3In kaiḥ_ka_PIM liṅgaiḥ_liṅga_PIM trīn_tri_PAM guṇān_guṇa_PAM etān_etad_PAM at"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "etān",
+          "atītaḥ",
+          "bhavati",
+          "prabho",
+          "kim",
+          "ācāraḥ",
+          "katham",
+          "ca"
+        ],
+        "morphology": "etān_etad_PAM atītaḥ_atī_SNPaPsM bhavati_bhū_SPr3In prabho_prabhu_SVM kim_kim_U ācāraḥ_ācāra_SNM katham_katham_U ca_"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "katham",
+          "ca",
+          "etān",
+          "trīn",
+          "guṇān",
+          "ativartate"
+        ],
+        "morphology": "katham_katham_U ca_ca_U etān_etad_PAM trīn_tri_PAM guṇān_guṇa_PAM ativartate_ativṛt_SPr3In"
+      }
+    ]
+  },
+  {
+    "test_row": 74,
+    "sanskrit": "śrī bhagavān uvāca prakāśam ca pravṛttim ca moham eva ca pāṇḍava na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati udāsīna vat āsīnaḥ guṇaiḥ yaḥ na vicālyate guṇāḥ vartante iti evam yaḥ avatiṣṭhati na iṅgate sama duḥkha sukhaḥ sva sthaḥ sama loṣṭa aśma kāñcanaḥ tulya priya apriyaḥ dhīraḥ tulya nindā ātma saṁstutiḥ māna apamānayoḥ tulyaḥ tulyaḥ mitra ari pakṣayoḥ sarva ārambha parityāgī guṇa atītaḥ saḥ ucyate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "śrī",
+          "bhagavān",
+          "uvāca",
+          "prakāśam",
+          "ca",
+          "pravṛttim",
+          "ca",
+          "moham"
+        ],
+        "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In prakāśam_prakāśa_SAM ca_ca_U pravṛttim_pravṛtti_SAF ca_ca_U mo"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "ca",
+          "moham",
+          "eva",
+          "ca",
+          "pāṇḍava",
+          "na",
+          "dveṣṭi",
+          "sampravṛttāni"
+        ],
+        "morphology": "ca_ca_ moham_moha_SAM eva_eva_ ca_ca_ pāṇḍava_pāṇḍava_SVM na_na_ dveṣṭi_dviṣ_SPr3In sampravṛttāni_sampravṛt"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "dveṣṭi",
+          "sampravṛttāni",
+          "na",
+          "nivṛttāni",
+          "kāṅkṣati",
+          "udāsīna",
+          "vat",
+          "āsīnaḥ"
+        ],
+        "morphology": "dveṣṭi_dviṣ_SPr3In sampravṛttāni_sampravṛt_PAPaPsNe na_na_U nivṛttāni_nivṛt_PAPaPsNe kāṅkṣati_kāṅkṣ_SP"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "vat",
+          "āsīnaḥ",
+          "guṇaiḥ",
+          "yaḥ",
+          "na",
+          "vicālyate",
+          "guṇāḥ",
+          "vartante"
+        ],
+        "morphology": "vat_vat_U āsīnaḥ_ās_SNPaPsM guṇaiḥ_guṇa_PIM yaḥ_yad_SNM na_na_U vicālyate_vicālay_SPr3InPv guṇāḥ_guṇa_PNM "
+      },
+      {
+        "chunk_number": 5,
+        "words": [
+          "guṇāḥ",
+          "vartante",
+          "iti",
+          "evam",
+          "yaḥ",
+          "avatiṣṭhati",
+          "na",
+          "iṅgate"
+        ],
+        "morphology": "guṇāḥ_guṇa_PNM vartante_vṛt_PPr3In iti_iti_U evam_evam_U yaḥ_yad_SNM avatiṣṭhati_avasthā_SPr3In na_na_U iṅgate"
+      },
+      {
+        "chunk_number": 6,
+        "words": [
+          "na",
+          "iṅgate",
+          "sama",
+          "duḥkha",
+          "sukhaḥ",
+          "sva",
+          "sthaḥ",
+          "sama"
+        ],
+        "morphology": "na_na_U iṅgate_iṅg_SPr3In sama_sama_Cp duḥkha_duḥkha_NeCp sukhaḥ_sukha_SNM sva_sva_NeCp sthaḥ_stha_SNM sama_sama_Cp"
+      },
+      {
+        "chunk_number": 7,
+        "words": [
+          "sthaḥ",
+          "sama",
+          "loṣṭa",
+          "aśma",
+          "kāñcanaḥ",
+          "tulya",
+          "priya",
+          "apriyaḥ"
+        ],
+        "morphology": "sthaḥ_stha_SNM sama_sama_Cp loṣṭa_loṣṭa_MCp aśma_aśman_MCp kāñcanaḥ_kāñcana_SNM tulya_tulya_Cp priya_priya_Cp "
+      },
+      {
+        "chunk_number": 8,
+        "words": [
+          "priya",
+          "apriyaḥ",
+          "dhīraḥ",
+          "tulya",
+          "nindā",
+          "ātma",
+          "saṁstutiḥ",
+          "māna"
+        ],
+        "morphology": "priya_priya_Cp apriyaḥ_apriya_SNM dhīraḥ_dhīra_SNM tulya_tulya_Cp nindā_nindā_FCp ātma_ātman_MCp saṁstutiḥ_saṃst"
+      },
+      {
+        "chunk_number": 9,
+        "words": [
+          "saṁstutiḥ",
+          "māna",
+          "apamānayoḥ",
+          "tulyaḥ",
+          "tulyaḥ",
+          "mitra",
+          "ari",
+          "pakṣayoḥ"
+        ],
+        "morphology": "saṁstutiḥ_saṃstuti_SNM māna_māna_MCp apamānayoḥ_apamāna_DuLM tulyaḥ_tulya_SNM tulyaḥ_tulya_SNM mitra_mitra_MCp a"
+      },
+      {
+        "chunk_number": 10,
+        "words": [
+          "ari",
+          "pakṣayoḥ",
+          "sarva",
+          "ārambha",
+          "parityāgī",
+          "guṇa",
+          "atītaḥ",
+          "saḥ"
+        ],
+        "morphology": "ari_ari_MCp pakṣayoḥ_pakṣa_DuLM sarva_sarva_Cp ārambha_ārambha_MCp parityāgī_parityāgin_SNM guṇa_guṇa_MCp atīta"
+      },
+      {
+        "chunk_number": 11,
+        "words": [
+          "atītaḥ",
+          "saḥ",
+          "ucyate"
+        ],
+        "morphology": "atītaḥ_atī_SNPaPsM saḥ_tad_SNM ucyate_vac_SPr3InPv"
+      }
+    ]
+  },
+  {
+    "test_row": 75,
+    "sanskrit": "mām ca yaḥ avyabhicāreṇa bhakti yogena sevate saḥ guṇān samatītya etān brahma bhūyāya kalpate",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "mām",
+          "ca",
+          "yaḥ",
+          "avyabhicāreṇa",
+          "bhakti",
+          "yogena",
+          "sevate",
+          "saḥ"
+        ],
+        "morphology": "mām_mad_SA ca_ca_U yaḥ_yad_SNM avyabhicāreṇa_avyabhicāra_SIM bhakti_bhakti_FCp yogena_yoga_SIM sevate_sev_SPr3In saḥ_ta"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "sevate",
+          "saḥ",
+          "guṇān",
+          "samatītya",
+          "etān",
+          "brahma",
+          "bhūyāya",
+          "kalpate"
+        ],
+        "morphology": "sevate_sev_SPr3In saḥ_tad_SNM guṇān_guṇa_PAM samatītya_samatī_Co etān_etad_PAM brahma_brahman_NeCp bhūyāya_bhūya_SD"
+      }
+    ]
+  },
+  {
+    "test_row": 76,
+    "sanskrit": "brahmaṇaḥ hi pratiṣṭhā aham amṛtasya avyayasya ca śāśvatasya ca dharmasya sukhasya aikāntikasya ca",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "brahmaṇaḥ",
+          "hi",
+          "pratiṣṭhā",
+          "aham",
+          "amṛtasya",
+          "avyayasya",
+          "ca",
+          "śāśvatasya"
+        ],
+        "morphology": "brahmaṇaḥ_brahman_SGNe hi_hi_U pratiṣṭhā_pratiṣṭhā_SNF aham_mad_SN amṛtasya_amṛta_SGNe avyayasya_avyaya_SGNe c"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "ca",
+          "śāśvatasya",
+          "ca",
+          "dharmasya",
+          "sukhasya",
+          "aikāntikasya",
+          "ca"
+        ],
+        "morphology": "ca_ca_U śāśvatasya_śāśvata_SGM ca_ca_U dharmasya_dharma_SGM sukhasya_sukha_SGNe aikāntikasya_aikāntika_SGNe ca_ca_U"
+      }
+    ]
+  },
+  {
+    "test_row": 77,
+    "sanskrit": "śrī bhagavān uvāca ūrdhva mūlam adhaḥ śākham aśvattham prāhuḥ avyayam chandāṁsi yasya parṇāni yaḥ tam veda saḥ veda vit",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "śrī",
+          "bhagavān",
+          "uvāca",
+          "ūrdhva",
+          "mūlam",
+          "adhaḥ",
+          "śākham",
+          "aśvattham"
+        ],
+        "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In ūrdhva_ūrdhva_Cp mūlam_mūla_SAM adhas_adhas_U śākham_śākhā_SA"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "śākham",
+          "aśvattham",
+          "prāhuḥ",
+          "avyayam",
+          "chandāṁsi",
+          "yasya",
+          "parṇāni",
+          "yaḥ"
+        ],
+        "morphology": "śākham_śākha_SAM aśvattham_aśvattha_SAM prāhuḥ_prāh_PPs3In avyayam_avyaya_SAM chandāṁsi_chandas_PNNe yasya_yad_SGM "
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "parṇāni",
+          "yaḥ",
+          "tam",
+          "veda",
+          "saḥ",
+          "veda",
+          "vit"
+        ],
+        "morphology": "parṇāni_parṇa_PANe yaḥ_yad_SNM tam_tad_SAM veda_vid_SPs3In saḥ_tad_SNM veda_veda_MCp vid_vid_SNM"
+      }
+    ]
+  },
+  {
+    "test_row": 78,
+    "sanskrit": "adhaḥ ca ūrdhvam prasṛtāḥ tasya śākhāḥ guṇa pravṛddhāḥ viṣaya pravālāḥ adhaḥ ca mūlāni anusantatāni karma anubandhīni manuṣya loke",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "adhaḥ",
+          "ca",
+          "ūrdhvam",
+          "prasṛtāḥ",
+          "tasya",
+          "śākhāḥ",
+          "guṇa",
+          "pravṛddhāḥ"
+        ],
+        "morphology": "adhas_adhas_U ca_ca_U ūrdhvam_ūrdhvam_U prasṛtāḥ_prasṛ_PNPaPsF tasya_tad_SGM śākhāḥ_śākhā_PNF guṇa_guṇa_MCp"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "guṇa",
+          "pravṛddhāḥ",
+          "viṣaya",
+          "pravālāḥ",
+          "adhaḥ",
+          "ca",
+          "mūlāni",
+          "anusantatāni"
+        ],
+        "morphology": "guṇa_guṇa_MCp pravṛddhāḥ_pravṛdh_PNPaPsM viṣaya_viṣaya_MCp pravālāḥ_pravāla_PNM adhas_adhas_U ca_ca_U mūlā"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "mūlāni",
+          "anusantatāni",
+          "karma",
+          "anubandhīni",
+          "manuṣya",
+          "loke"
+        ],
+        "morphology": "mūlāni_mūla_PNNe anusantatāni_anusaṃtan_PNPaPsNe karma_karman_NeCp anubandhīni_anubandhin_PNNe manuṣya_manuṣya_MCp lo"
+      }
+    ]
+  },
+  {
+    "test_row": 79,
+    "sanskrit": "na rūpam asya iha tathā upalabhyate na antaḥ na ca ādiḥ na ca sampratiṣṭhā aśvattham enam su virūḍha mūlam asaṅga śastreṇa dṛḍhena chittvā tataḥ padam tat parimārgitavyam yasmin gatāḥ na nivartanti bhūyaḥ tam eva ca ādyam puruṣam prapadye yataḥ pravṛttiḥ prasṛtā purāṇi",
+    "chunks": [
+      {
+        "chunk_number": 1,
+        "words": [
+          "na",
+          "rūpam",
+          "asya",
+          "iha",
+          "tathā",
+          "upalabhyate",
+          "na",
+          "antaḥ"
+        ],
+        "morphology": "na_na_U rūpam_rūpa_SNNe asya_idam_SGM iha_iha_U tathā_tathā_U upalabhyate_upalabh_SPr3InPv na_na_U antaḥ_anta_SNM"
+      },
+      {
+        "chunk_number": 2,
+        "words": [
+          "na",
+          "antaḥ",
+          "na",
+          "ca",
+          "ādiḥ",
+          "na",
+          "ca",
+          "sampratiṣṭhā"
+        ],
+        "morphology": "na_na_U antaḥ_anta_SNM na_na_U ca_ca_U ādiḥ_ādi_SNM na_na_U ca_ca_U sampratiṣṭhā_sampratiṣṭhā_SNF"
+      },
+      {
+        "chunk_number": 3,
+        "words": [
+          "ca",
+          "sampratiṣṭhā",
+          "aśvattham",
+          "enam",
+          "su",
+          "virūḍha",
+          "mūlam",
+          "asaṅga"
+        ],
+        "morphology": "ca_ca_U sampratiṣṭhā_sampratiṣṭhā_SNF aśvattham_aśvattha_SAM enam_enad_SAM su_su_U virūḍha_viruh_PaPsCp mūlam_m"
+      },
+      {
+        "chunk_number": 4,
+        "words": [
+          "mūlam",
+          "asaṅga",
+          "śastreṇa",
+          "dṛḍhena",
+          "chittvā",
+          "tataḥ",
+          "padam",
+          "tat"
+        ],
+        "morphology": "mūlam_mūla_SANe asaṅga_asaṅga_MCp śastreṇa_śastra_SINe dṛḍhena_dṛḍha_SINe chittvā_chid_Co tatas_tatas_U padam"
+      },
+      {
+        "chunk_number": 5,
+        "words": [
+          "padam",
+          "tat",
+          "parimārgitavyam",
+          "yasmin",
+          "gatāḥ",
+          "na",
+          "nivartanti",
+          "bhūyaḥ"
+        ],
+        "morphology": "padam_pada_SNNe tat_tad_SNNe parimārgitavyam_parimārg_SNNeGd yasmin_yad_SLNe gatāḥ_gam_PNPaPsM na_na_U nivartanti_nivṛt_P"
+      },
+      {
+        "chunk_number": 6,
+        "words": [
+          "nivartanti",
+          "bhūyaḥ",
+          "tam",
+          "eva",
+          "ca",
+          "ādyam",
+          "puruṣam",
+          "prapadye"
+        ],
+        "morphology": "nivartanti_nivṛt_PPr3In bhūyaḥ_bhūyas_U tam_tad_SAM eva_eva_U ca_ca_U ādyam_ādya_SAM puruṣam_puruṣa_SAM prapadye_pra"
+      },
+      {
+        "chunk_number": 7,
+        "words": [
+          "puruṣam",
+          "prapadye",
+          "yataḥ",
+          "pravṛttiḥ",
+          "prasṛtā",
+          "purāṇi"
+        ],
+        "morphology": "puruṣam_puruṣa_SAM prapadye_prapad_SPr1In yatas_yatas_U pravṛttiḥ_pravṛtti_SNF prasṛtā_prasṛ_SNPaPsF purāṇi_pu"
+      }
+    ]
+  }
+]

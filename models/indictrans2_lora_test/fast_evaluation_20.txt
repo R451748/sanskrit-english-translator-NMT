@@ -1,0 +1,138 @@
+FAST LoRA EVALUATION
+============================================================
+
+Samples: 20
+Batch size: 4
+
+BASE MODEL
+BLEU: 1.3804
+chrF: 17.5308
+
+LoRA MODEL
+BLEU: 2.0263
+chrF: 20.8755
+
+CHANGE
+BLEU: 0.6459
+chrF: 3.3448
+
+
+[1]
+Sanskrit: kāma krodha vimuktānām yatīnām yata cetasām abhitaḥ brahma nirvāṇam vartate vidita ātmanām
+Reference: Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.
+Base: " Kama is the liberation from anger, the liberation of the mind from anger. "
+LoRA: " Kama is the liberation from anger, the consciousness of the mind, the awareness of the self, the knowledge of the Brahman, the Nirvana. "
+
+[2]
+Sanskrit: sparśān kṛtvā bahiḥ bāhyān cakṣuḥ ca eva antare bhruvoḥ prāṇa apānau samau kṛtvā nāsa abhyantara cāriṇau yata indriya manaḥ buddhiḥ muniḥ mokṣa parāyaṇaḥ vigata icchā bhaya krodhaḥ yaḥ sadā muktaḥ eva saḥ
+Reference: Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils, and thus controlling the mind, senses and intelligence, the transcendentalist aiming at liberation becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
+Base: " And when he hath touched, he hid from the outside the outer eye, and from the inside the inner eye the soul of the brother, and hath not taken it in, but hath cleansed the inner body, and the mind, and senses, and mind, the sage,
+LoRA: " And when the eyes are opened, and the outer eyes are closed, and within the soul the soul of the brother is not absorbed, but the innermost four legs are closed : the senses, the mind, the intellect, the sage, the desire, the fear, the anger, the eternal release,
+
+[3]
+Sanskrit: bhoktāram yajña tapasām sarva loka mahā īśvaram su hṛdam sarva bhūtānām jñātvā mām śāntim ṛcchati
+Reference: A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.
+Base: " And when I shall have worshipped him, I will pray him that he may give me peace, that he might know the great God, and that he himself may know the devils of my heart. "
+LoRA: " And when the Lord hath called the people to worship, he hath given me peace, knowing that the great God is in the midst of the heart and all the devils. "
+
+[4]
+Sanskrit: śrī bhagavān uvāca anāśritaḥ karma phalam kāryam karma karoti yaḥ saḥ sannyāsī ca yogī ca na niḥ agniḥ na ca akriyaḥ
+Reference: The Supreme Personality of Godhead said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic, not he who lights no fire and performs no duty.
+Base: " Shri Bhagwan said, " " The fruit of unshrinking action is action, that is, the ascetic and yogi who is neither fire nor fire. " " "
+LoRA: " Shri Bhagwan said that the fruit of unrelenting action is the action of the action, that ascetic and yogi who is neither fire nor inert. "
+
+[5]
+Sanskrit: yam sannyāsam iti prāhuḥ yogam tam viddhi pāṇḍava na hi asannyasta saṅkalpaḥ yogī bhavati kaścana
+Reference: What is called renunciation you should know to be the same as yoga, or linking oneself with the Supreme, O son of Pāṇḍu, for one can never become a yogī unless he renounces the desire for sense gratification.
+Base: " Yama, sannyasa, yogic practice, is the practice of the unformed concept of yogin, not of the Pandava. "
+LoRA: " One who is a yogic ascetic, who is not a Pandava, but a yogi of unsolved concept. "
+
+[6]
+Sanskrit: ārurukṣoḥ muneḥ yogam karma kāraṇam ucyate yoga ārūḍhasya tasya eva śamaḥ kāraṇam ucyate
+Reference: For one who is a neophyte in the eightfold yoga system, work is said to be the means; and for one who is already elevated in yoga, cessation of all material activities is said to be the means.
+Base: " The reason for the beginning of yoga is called the cause of Karma, "
+LoRA: " The reason for the Yoga of the Moon is called Karma and the reason for starting the Yoga is called Shama. "
+
+[7]
+Sanskrit: yadā hi na indriya artheṣu na karmasu anuṣajjate sarva saṅkalpa sannyāsī yoga ārūḍhaḥ tadā ucyate
+Reference: A person is said to be elevated in yoga when, having renounced all material desires, he neither acts for sense gratification nor engages in fruitive activities.
+Base: " When he has attained the ascetic yoga of all the concepts, not the sense sense, not action, "
+LoRA: " When he has not attained the sense sense or the action, then all the concepts and the sanyasis have started the yoga. "
+
+[8]
+Sanskrit: uddharet ātmanā ātmānam na ātmānam avasādayet ātmā eva hi ātmanaḥ bandhuḥ ātmā eva ripuḥ ātmanaḥ
+Reference: One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.
+Base: " For the Spirit is not the soul, but the spirit : the Spirit, the friend of the self, the spirit, the repentance of the soul. "
+LoRA: " For the Spirit is not the soul, but the spirit, and the spirit is the friend of the self, and not the downfall of the soul : "
+
+[9]
+Sanskrit: bandhuḥ ātmā ātmanaḥ tasya yena ātmā eva ātmanā jitaḥ anātmanaḥ tu śatrutve varteta ātmā eva śatru vat
+Reference: For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy.
+Base: " Friend is the soul, the self, the soul is the enemy of the self. "
+LoRA: " For the soul is the enemy of the soul, and the soul the enemy, and not the enemy. "
+
+[10]
+Sanskrit: jita ātmanaḥ praśāntasya parama ātmā samāhitaḥ śīta uṣṇa sukha duḥkheṣu tathā māna apamānayoḥ
+Reference: For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquillity. To such a man happiness and distress, heat and cold, honor and dishonor are all the same.
+Base: " Jita Atman : One who is the supreme Self of peace, cool, warm, happy, sad and humbled. "
+LoRA: " Jita atman : One who is the supreme Self of the tranquility, the ultimate Self, the supreme self, the Supreme Self, who is endowed with the highest state of being, the highest of all, the lowest of all. "
+
+[11]
+Sanskrit: jñāna vijñāna tṛpta ātmā kūṭa sthaḥ vijita indriyaḥ yuktaḥ iti ucyate yogī sama loṣṭra aśma kāñcanaḥ
+Reference: A person is said to be established in self-realization and is called a yogī [or mystic] when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything – whether it be pebbles, stones or gold – as the same.
+Base: " Jnana-vigyanah : One who is endowed with knowledge, knowledge, wisdom, knowledge and wisdom. "
+LoRA: " The yogis are called yogic, sama lostra, asma, kanchan, yogin, yogi, yagya, vigyana, vijnana, jnana and vijñana, yajnana is the knowledge of the universe,
+
+[12]
+Sanskrit: su hṛt mitra ari udāsīna madhya stha dveṣya bandhuṣu sādhuṣu api ca pāpeṣu sama buddhiḥ viśiṣyate
+Reference: A person is considered still further advanced when he regards honest well-wishers, affectionate benefactors, the neutral, mediators, the envious, friends and enemies, the pious and the sinners all with an equal mind.
+Base: " And in the midst of the heart of thee is friendship, and in the middle of indifference, and understanding of the two brethren, and of the saints, and sins ; "
+LoRA: " And in the midst of the heart, and in the heart of the friend, and of the adversary, and the midst, and two brethren, and one mind is equal unto righteousness and sin. "
+
+[13]
+Sanskrit: yogī yuñjīta satatam ātmānam rahasi sthitaḥ ekākī yata citta ātmā nirāśīḥ aparigrahaḥ
+Reference: A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness.
+Base: " In the yogic yogis, the soul is always in the secret, the mind is alone, the spirit is in despair, and the grace is imperishable. "
+LoRA: " In the yogic yogis, the soul is always in the secret, the mind is alone, the spirit is in despair, and the grace is imperishable. "
+
+[14]
+Sanskrit: śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ na ati ucchritam na ati nīcam caila ajina kuśa uttaram tatra eka agram manaḥ kṛtvā yata citta indriya kriyaḥ upaviśya āsane yuñjyāt yogam ātma viśuddhaye
+Reference: To practice yoga, one should go to a secluded place and should lay kuśa grass on the ground and then cover it with a deerskin and a soft cloth. The seat should be neither too high nor too low and should be situated in a sacred place. The yogī should then sit on it very firmly and practice yoga to purify the heart by controlling his mind, senses and activities and fixing the mind on one point.
+Base: " And set him in a clean place, and sit in a stable posture : neither too loud nor too low for the soul : but sit there on your knees, and meditate on one of the four corners of your mind, and do all your mental and sensory work. "
+LoRA: " And when he was established in a clean land, he set him in a stable posture, not too loud or too low for the soul, not wanting to be called abased, but having a certain mind, and having sat down in the seat of the mind and the senses, "
+
+[15]
+Sanskrit: samam kāya śiraḥ grīvam dhārayan acalam sthiraḥ samprekṣya nāsikā agram svam diśaḥ ca anavalokayan praśānta ātmā vigata bhīḥ brahmacāri vrate sthitaḥ manaḥ saṁyamya mat cittaḥ yuktaḥ āsīta mat paraḥ
+Reference: One should hold one’s body, neck and head erect in a straight line and stare steadily at the tip of the nose. Thus, with an unagitated, subdued mind, devoid of fear, completely free from sex life, one should meditate upon Me within the heart and make Me the ultimate goal of life.
+Base: " And he stood still, and held his head and neck, and opened his nostrils, and his mouth, and looked toward himself, and the spirit was at peace, and he was in the past celibate fast, and made his mind to pass through. "
+LoRA: " And he stood still, and held his head and neck, and opened his nostrils, and his eyes, and looked in his direction, and the spirit was at peace, and he was in the past celibate fast, and was mindful of him, and kept his mind in him. "
+
+[16]
+Sanskrit: yuñjan evam sadā ātmānam yogī niyata mānasaḥ śāntim nirvāṇa paramām mat saṁsthām adhigacchati
+Reference: Thus practicing constant control of the body, mind and activities, the mystic transcendentalist, his mind regulated, attains to the kingdom of God [or the abode of Kṛṣṇa] by cessation of material existence.
+Base: " For the same way the Spirit always endures the yogi, the appointed mind, the peace of mind, and the perfection of the Supreme Self, "
+LoRA: " For the same way the yogi always endures the eternal atman, the appointed mind, the peace of mind, and the supreme attainment of nirvana, the attainment to the supreme and the attainable. "
+
+[17]
+Sanskrit: na ati aśnataḥ tu yogaḥ asti na ca ekāntam anaśnataḥ na ca ati svapna śīlasya jāgrataḥ na eva ca arjuna
+Reference: There is no possibility of one’s becoming a yogī, O Arjuna, if one eats too much or eats too little, sleeps too much or does not sleep enough.
+Base: " Neither too much sleep, nor loneliness, nor sleep, neither sleep, sleep, wake, sleep and sleep, "
+LoRA: " Neither too much sleep, nor loneliness, nor sleep, neither too much dream, neither awake, neither alone, neither in the form of the mind, neither is yoga, nor in the nature of the world, neither the mind of the universe, nor the mind which is the source of all the dreams
+
+[18]
+Sanskrit: yukta āhāra vihārasya yukta ceṣṭasya karmasu yukta svapna avabodhasya yogaḥ bhavati duḥkha hā
+Reference: He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system.
+Base: " Yukta, aahar, vihara, yukta ( effort ), karma, kriyas ( deeds ), yog ( realization ), sadhana ( sorrow ), "
+LoRA: " The sum of the yogic practices, the yoga of the dream, the karma of the kruta, the yoga of the action of the desire, the vihara of the food, the Yoga of the realization of the dreams, the Yogah of the sorrow, the Krut
+
+[19]
+Sanskrit: yadā viniyatam cittam ātmani eva avatiṣṭhate nispṛhaḥ sarva kāmebhyaḥ yuktaḥ iti ucyate tadā
+Reference: When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in transcendence – devoid of all material desires – he is said to be well established in yoga.
+Base: " When the mind is nothing, and the spirit is nothing ; when the mind, being nothing, is nothing. "
+LoRA: " When the mind is nothing but the self, and the mind the self : when the mind, the mind and the spirit are nothing, it is said that it is endowed with all things. "
+
+[20]
+Sanskrit: yathā dīpaḥ nivāta sthaḥ na iṅgate sā upamā smṛtā yoginaḥ yata cittasya yuñjataḥ yogam ātmanaḥ
+Reference: As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.
+Base: " And the yogis remembered the parable, How a lamp cannot be put out, for the mind is the same as the soul. "
+LoRA: " And the yogis remembered the parable, that when the lamp was put out, they could not see : for the mind is the same as the soul. "
