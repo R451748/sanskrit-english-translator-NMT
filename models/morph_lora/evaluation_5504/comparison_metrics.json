@@ -1,0 +1,28 @@
+{
+  "experiment": "Baseline vs Morphology LoRA 5504",
+  "validation_sentences": 550,
+  "seed": 42,
+  "generation": {
+    "num_beams": 2,
+    "max_new_tokens": 128,
+    "no_repeat_ngram_size": 3,
+    "repetition_penalty": 1.1
+  },
+  "baseline": {
+    "BLEU": 3.4929079540154087,
+    "chrF": 26.078132680482568,
+    "repetition_rate": 56.00000000000001,
+    "sentences": 550
+  },
+  "morphology": {
+    "BLEU": 3.5837794742409406,
+    "chrF": 26.012573277617758,
+    "repetition_rate": 55.81818181818182,
+    "sentences": 550
+  },
+  "difference": {
+    "BLEU": 0.09087152022553191,
+    "chrF": -0.06555940286481032,
+    "repetition_rate": -0.18181818181818699
+  }
+}

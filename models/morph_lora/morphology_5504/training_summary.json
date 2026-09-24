@@ -1,0 +1,24 @@
+{
+  "experiment": "IndicTrans2 Morphology LoRA 5504",
+  "morphology": true,
+  "dataset_size": 5504,
+  "train_size": 4954,
+  "validation_size": 550,
+  "seed": 42,
+  "epochs": 2,
+  "batch_size": 1,
+  "gradient_accumulation": 4,
+  "learning_rate": 0.0002,
+  "weight_decay": 0.01,
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "training_loss": 3.473969313170105,
+  "evaluation": {
+    "eval_loss": 3.1502134799957275,
+    "eval_runtime": 65.1836,
+    "eval_samples_per_second": 8.438,
+    "eval_steps_per_second": 8.438,
+    "epoch": 1.998788857488898
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment": "IndicTrans2 LoRA Baseline 5504",
+  "morphology": false,
+  "dataset_size": 5504,
+  "train_size": 4954,
+  "validation_size": 550,
+  "seed": 42,
+  "epochs": 2,
+  "batch_size": 1,
+  "gradient_accumulation": 4,
+  "learning_rate": 0.0002,
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "training_loss": 3.4588975921778764,
+  "evaluation": {
+    "eval_loss": 3.1447153091430664,
+    "eval_runtime": 79.1943,
+    "eval_samples_per_second": 6.945,
+    "eval_steps_per_second": 6.945,
+    "epoch": 1.998788857488898
+  }
+}

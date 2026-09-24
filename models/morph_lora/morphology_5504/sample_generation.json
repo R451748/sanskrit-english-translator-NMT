@@ -1,0 +1,7 @@
+{
+  "sanskrit_iast": "dyaṃgena cordhvapaṭṭantu ekāṃśāḥ śeṣapaṭṭikā / bhāgaṃ bhāgaṃ praviṣṭantu yāvat kaṇṭhaṃ tataḥ punaḥ //",
+  "sanskrit_devanagari": "द्यंगेन चोर्ध्वपट्टन्तु एकांशाः शेषपट्टिका / भागं भागं प्रविष्टन्तु यावत् कण्ठं ततः पुनः //",
+  "morphology": "Cp PNM Cp SNF SAM SAM",
+  "expected": "The first step should be one such part. The second step should be of two such parts in height while the remaining steps should have a height of such a single part until one reaches the neck portion step by step.",
+  "generated": "Then one part should be placed around the neck with the two fingers and the remaining part of the thread should be inserted into the neck. Then the neck should be drawn again."
+}

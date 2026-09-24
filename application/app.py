@@ -73,12 +73,6 @@ st.title(
     "🕉️ Sanskrit → English Translator"
 )
 
-st.write(
-    "Translate Sanskrit text or Sanskrit images "
-    "into English using OCR and IndicTrans2."
-)
-
-
 
 # ============================================================
 # UTILITY FUNCTIONS
