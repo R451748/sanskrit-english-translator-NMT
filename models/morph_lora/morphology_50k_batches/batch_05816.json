@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46520,
+    "sanskrit": "sa candana utpalaiḥ snigdhaiḥ paittikam saṃpralepayet padma utpala mṛṇālaiḥ ca sasarja arjuna vetasaiḥ sarpiḥ snigdhaiḥ sa madhukaiḥ paittikam saṃpralepayet",
+    "english": "In a case of the Pittaja type of the disease, a plaster composed of Gairika, Anjana, Yashti-madhu, Shariva, Ushira, Padmaka, (red) Chandana and Utpala mixed with a Sneha (clarified butter),[8] or that composed of Padma, Mrinala, Sarjja% Arjuna, Vetasa, and Yashti madhu mixed with clarified butter should be applied to the affected organ which should be sprinkled with a solution of milk, clarified butter, sugar, sugar-cane juice and honey, or with a cold decoction of the drugs of Vata, etc.",
+    "morphology": "sa_sa_U candana_candana_MCp utpalaiḥ_utpala_PINe snigdhaiḥ_snigdha_PINe paittikam_paittika_SAM saṃpralepayet_saṃpralepay_SPr3O padma_padma_MCp utpala_utpala_MCp mṛṇālaiḥ_mṛṇāla_PINe ca_ca_U sasarja_sasarja_MCp arjuna_arjuna_MCp vetasai"
+  },
+  {
+    "index": 46521,
+    "sanskrit": "ajātamithyāśaṅkaśca na saṃvādamapekṣate /",
+    "english": "An illusory judgment is not such as does not accord with facts.",
+    "morphology": "a_a_ jāta_jan_PaCp mithyā_mithyā_ āśaṅkaḥ_āśaṅkā_SNM ca_ca_ na_na_ saṃvādam_saṃvāda_SAM"
+  },
+  {
+    "index": 46522,
+    "sanskrit": "atra it oṁ iti me maṁsase satyam uktam dvi pāt ca yat catuḥ pāt sam sr̥jāni strī bhiḥ yaḥ atra vr̥ṣaṇam pr̥tanyāt ayuddhaḥ asya vi bhajāni vedaḥ",
+    "english": "There wilt thou hold as true my spoken purpose, to bring together quadrupeds. and bipeds. I will divide, without a fight, his riches who warreth here, against the Bull, with women.",
+    "morphology": "atra_atra_U id_id_U oṁ_oṃ_U iti_iti_U me_mad_SD maṁsase_man_SPs2Su satyam_satya_SNNe uktam_vac_SNPaPsNe dvi_dvi_Cp pād_pād_SNNe ca_ca_U yat_yad_SNNe catuḥ_catur_Cp pād_pād_SNNe sam_sam_U sr̥jāni_sraj_SPr1Im strī_strī_FCp bhiḥ_bhiḥ_U ya"
+  },
+  {
+    "index": 46523,
+    "sanskrit": "tathā hi padārthapraveśake granthaḥ ---\" evaṃ dharmair vinā dharmiṇām eṣa nirdeśaḥ kṛta\" iti /",
+    "english": "as is found in the following words of the Padārthapraveśaka ‘This mention has been made of only the things with properties, without any mention of the Properties’.”",
+    "morphology": "tathā_tathā_ hi_hi_ padārtha_padārtha_Cp praveśake_praveśaka_SLM granthaḥ_grantha_SNM ---_evam_ dharmaiḥ_dharma_PIM vinā_vinā_ dharmiṇām_dharmin_PGM eṣa_etad_SNM nirdeśaḥ_nirdeśa_SNM kṛtaḥ_kṛ_SNPaM iti_iti_"
+  },
+  {
+    "index": 46524,
+    "sanskrit": "tatas garbha nirgame pragāḍham | tatas garbhe yoni mukham prapanne gāḍhataram āviśalya bhāvāt tatra pratilomam anulomayet",
+    "english": "Deep urgings should be made on the exit of the fetus out of the uterus, and after that deeper urgings should be made during the passage of the child through the canal until delivery.",
+    "morphology": "tatas_tatas_U garbha_garbha_MCp nirgame_nirgama_SLM pragāḍham_pragāḍham_U  / tatas_tatas_U garbhe_garbha_SLM yoni_yoni_MCp mukham_mukha_SANe prapanne_prapad_SLPaPsM gāḍhataram_gāḍhataram_U āviśalya_āviśalya_Cp bhāvāt_bhāva_SBM tatra_tatr"
+  },
+  {
+    "index": 46525,
+    "sanskrit": "kāryaṃ tvadājñayā bhadre tatsarvaṃ vaktumarhasi | tenoktātra tadā sādhvī uvāca kamalekṣaṇā || 102 ||",
+    "english": "On being told thus by him, the lotus-eyed chaste lady said:",
+    "morphology": "kāryam_kṛ_SNNeGd tvad_tvad_Cp ājñayā_ājñā_SIF bhadre_bhadra_SVF tat_tad_SANe sarvam_sarva_SANe vaktum_vac_In arhasi_arh_SPr2In  / tena_tad_SIM uktā_vac_SNPaF atra_atra_ tadā_tadā_ sādhvī_sādhu_SNF uvāca_vac_SPs3In kamala_kamala_Cp īkṣa"
+  },
+  {
+    "index": 46526,
+    "sanskrit": "śrīrāma uvāca / pare pade pariṇataṃ pāñcajanyasvanairmanaḥ / kathaṃ prabuddhaṃ bhagavanprahādasya mahātmanaḥ //",
+    "english": "Rama said:—Tell me sir, how the sound of the panchajanya conch shell, roused the mind of the devout Prahlada from its immersion in holy meditation.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / pare_para_SLNe pade_pada_SLNe pariṇatam_pariṇam_SNPaNe pāñcajanya_pāñcajanya_Cp svanaiḥ_svana_PIM manaḥ_manas_SNNe  / katham_katham_ prabuddham_prabudh_SNPaNe bhagavan_bhagavat_SVM prahāda"
+  },
+  {
+    "index": 46527,
+    "sanskrit": "indra agnī kāma sa ratham hi bhūtvā nīcais sapatnān mama pādayāthaḥ / teṣām pannānām adhamā tamāṃsi agne vāstūni anunirdaha tvam /",
+    "english": "Ye, Indra, Agni, Kāma! come together and cast mine adver- saries down beneath me. When they have sunk into the deepest darkness, O Agni, with thy fire consume their dwellings.",
+    "morphology": "indra_indra_MCp agnī_agni_DuVM kāma_kāma_SVM sa_sa_U ratham_ratha_SNNe hi_hi_U bhūtvā_bhū_Co nīcais_nīca_PIM sapatnān_sapatna_PAM mama_mad_SG pādayāthaḥ_pāday_DuPr2Su  / teṣām_tad_PGM pannānām_pad_PGPaPsM adhamā_adhama_PANe tamāṃsi_t"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24744,
+    "sanskrit": "yudhiṣṭhira uvāca | mahābhayānāṃ lokasya nāgānāṃ dvijasattama | kathaṃ jātaṃ bhayaṃ tīvraṃ yena te tapasi sthitāḥ || 2 ||",
+    "english": "Yudhiṣṭhira said: O excellent Brāhmaṇa, usually Nāgas (serpents) cause great terror unto the world (people). How then did a cause of great terror unto them occur whereby they engaged themselves in a severe penance.",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In  / mahā_mahat_Cp bhayānām_bhaya_PGM lokasya_loka_SGM nāgānām_nāga_PGM dvijasattama_dvijasattama_SVM  / katham_katham_ jātam_jan_SNPaNe bhayam_bhaya_SNNe tīvram_tīvra_SNNe yena_yad_SINe te_t"
+  },
+  {
+    "index": 24745,
+    "sanskrit": "taddeśakālapratiṣṭhitānāṃ sarveṣāṃ saṃtānāniyama utpadyate na kevalam ekasya / yathā taimirikāṇāṃ saṃtāne keśādyābhāso nānyeṣāṃ /",
+    "english": "And why is it that it arises in the moment-series of all that are situated in that time and place, and not just in the momentseries of one, just as the appearance of hair, etc. arises in the moment-series of those afflicted by an optical disorder, and not in the moment-series of others?",
+    "morphology": "tad_tad_Cp deśa_deśa_Cp kāla_kāla_Cp pratiṣṭhitānām_pratiṣṭhā_PGPaM sarveṣām_sarva_PGM saṃtāna_saṃtāna_Cp aniyamaḥ_aniyama_SNM utpadyate_utpad_SPr3In na_na_ kevalam_kevala_SANe ekasya_eka_SGM  / yathā_yathā_ taimirikāṇām_tai"
+  },
+  {
+    "index": 24746,
+    "sanskrit": "kṛtātmā dharma vid tasyām vyādhaḥ nivasate kila",
+    "english": "Without doubt there dwelleth in that city a fowler of soul under complete control and fully acquainted with the mysteries of virtue and morality.",
+    "morphology": "kṛtātmā_kṛtātman_SNM dharma_dharma_MCp vid_vid_SNM tasyām_tad_SLF vyādhaḥ_vyādha_SNM"
+  },
+  {
+    "index": 24747,
+    "sanskrit": "yaḥ asau śvetaḥ tasya devasya keśaḥ tayoḥ ekaḥ baladevaḥ babhūva",
+    "english": "And one of these hairs viz., that which was white, became Valadeva.",
+    "morphology": "yaḥ_yad_SNM asau_adas_SNM śvetaḥ_śveta_SNM tasya_tad_SGM devasya_deva_SGM keśaḥ_keśa_SNM tayoḥ_tad_DuGM ekaḥ_eka_SNM baladevaḥ_baladeva_SNM babhūva_bhū_SPs3In"
+  },
+  {
+    "index": 24748,
+    "sanskrit": "yadi caikānta to brūyaḥ śabdāḥ kālāntare phalam /",
+    "english": "And further, if the words of the Veda itself could express the fact of the Result following at some other time, then alone could we, on the strength of that, assume the intervening agency of something else. That is to say, the Vedic Injunction is found to serve the purpose of .",
+    "morphology": "yadi_"
+  },
+  {
+    "index": 24749,
+    "sanskrit": "tisro vāca udīrate gāvo mimanti dhenavaḥ / harireti kanikradat //",
+    "english": "Three several words are uttered kine are lowing, cows who give the milk; the tawnyhued goes bellowing on",
+    "morphology": "tisraḥ_tri_PNF vācaḥ_vāc_PNF udīrate_udīr_PPr3In gāvaḥ_go_PNF mimanti_mā_PPr3In dhenavaḥ_dhenu_PNF  / hariḥ_hari_SNM"
+  },
+  {
+    "index": 24750,
+    "sanskrit": "roṣato guruvāgdaṇḍapāruṣyaṃ vidurugratāṃ / ūho vitarkaḥsyādvyādhirmanovapuravagrahaḥ //",
+    "english": "Dissimulation is the concealment coming under the range of gesture and appearance. Harshness of vehement verbal attack arising from anger is. known to be fierceness.",
+    "morphology": "roṣataḥ_roṣa_SBM guru_guru_Cp vāgdaṇḍa_vāgdaṇḍa_Cp pāruṣyam_pāruṣya_SANe viduḥ_vid_PPs3In ugra_ugra_Cp tām_tā_SAF  / ūhaḥ_ūha_SNM vitarkaḥ_vitarka_SNM syāt_as_SPr3O vyādhiḥ_vyādhi_SNM manaḥ_manas_SNNe vapuḥ_vapus_SN"
+  },
+  {
+    "index": 24751,
+    "sanskrit": "mokṣāya bhagavānāvirbabhūva puruṣottamaḥ | pracchannaṃ vapuretasya kṣetraṃ nāsya vicārayet || 66 ||",
+    "english": "This holy spot is the mysterious body of this Lord. This cannot be discussed (specially) or thought of by means of the testimonies that apply to ordinary holy rites (?)",
+    "morphology": "mokṣāya_mokṣa_SDM bhagavān_bhagavant_SNM āvirbabhūva_āvirbhū_SPs3In puruṣottamaḥ_puruṣottama_SNM  / pracchannam_pracchad_SNPaNe vapuḥ_vapus_SNNe etasya_etad_SGM kṣetram_kṣetra_SANe na_na_ asya_idam_SGM vicārayet_vicāray_SPr3O"
+  }
+]

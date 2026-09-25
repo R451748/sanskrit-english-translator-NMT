@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41080,
+    "sanskrit": "aṣṭāvakraḥ uvāca bho bho rājan janakānām variṣṭha sabhājyaḥ tvam tvayi sarvam samṛddham",
+    "english": "Ashtavakra then addressing the king said, 'O king, O foremost of Janaka's race, thou art the paramount sovereign and all power reposeth in thee.",
+    "morphology": "aṣṭāvakraḥ_aṣṭāvakra_SNM uvāca_vac_SPs3In bho_bho_U bho_bho_U rājan_rājan_SVM janakānām_janaka_PGM variṣṭha_variṣṭha_SVM sabhājyaḥ_sabhājya_SNM tvam_tvad_SN tvayi_tvad_SL sarvāḥ_sarva_PNM"
+  },
+  {
+    "index": 41081,
+    "sanskrit": "kriyā'pi citretyaticitram / tāpaprakāśabhede vā'gniprabhāyā ādimadhyānte tadrūpasparśayoranupapattiḥ /",
+    "english": "It would be truly too diverse to be an entity!",
+    "morphology": "kriyā_kriyā_SNF api_api_ citrā_citra_SNF iti_iti_ ati_ati_ citram_citra_SNNe  / tāpa_tāpa_Cp prakāśa_prakāśa_Cp bhede_bheda_SLM vā_vā_ agni_agni_Cp prabhāyāḥ_prabhā_SGF ādi_ādi_Cp madhya_madhya_Cp ante_anta_SLM tad_tad_Cp rūpa_rūpa_Cp s"
+  },
+  {
+    "index": 41082,
+    "sanskrit": "evañ ca asaṃvādavisaṃvādābhyāṃ apramānaṃ vedaḥ //",
+    "english": "Thus the result, declared by the Vedas, is reversed.",
+    "morphology": "evam_evam_ ca_ca_ a_a_ saṃvāda_saṃvāda_Cp visaṃvāda_visaṃvāda_SNM a_a_ pramāṇa_pramāṇa_SNM vedaḥ_veda_SNM  /"
+  },
+  {
+    "index": 41083,
+    "sanskrit": "cāndrāyaṇāni kṛcchrāṇi mahāsāṃ tapanāni ca | prāyaścittāni dīyante yatra nāsti sarasvatī || 10 ||",
+    "english": "10. The expiations like Cāndrāyaṇa, Kṛcchra, and Mahāsāntapana are prescribed where there is no Sarasvatī.",
+    "morphology": "cāndrāyaṇāni_cāndrāyaṇa_PNNe kṛcchrāṇi_kṛcchra_PNNe mahā_mahat_Cp āsām_ās_PGF tapanāni_tapana_PNNe ca_ca_  / prāyaścittāni_prāyaścitta_PNNe dīyante_dā_PPr3InPv yatra_yatra_ na_na_ asti_as_SPr3In sarasvatī_sarasvatī_SNF"
+  },
+  {
+    "index": 41084,
+    "sanskrit": "yajñasomastatastūṣṇīṃ gatvā patnyai nivedya tat / tayā saha prasthitavāndaivaikaśaraṇas tataḥ // gacchan prāpto 'ṭavīṃ daivān nigīrṇo 'jagareṇa saḥ / tadbhāryā ca tad ālokya cakranda patitā bhuvi //",
+    "english": "Subjection to bad women is pernicious! Then Yajñasoma went away silent, and told that to his wife, and set out with her, relying upon the help of Heaven only. When they reached the wood, it happened that, as he was going along, he was swallowed by a monstrous serpent. And when his wife saw it, she fell on the ground and lamented.",
+    "morphology": "yajñasomaḥ_yajñasoma_SNM tatas_tatas_ tūṣṇīm_tūṣṇīm_ gatvā_gam_Co patnyai_patnī_SDF nivedya_niveday_Co tat_tad_SANe  / tayā_tad_SIF saha_saha_ prasthitavān_prasthā_SNPaM daiva_daiva_Cp eka_eka_Cp śaraṇaḥ_śaraṇa_SNM tatas_tatas_"
+  },
+  {
+    "index": 41085,
+    "sanskrit": "tataḥ paṃcākṣaraṃ japtvā śatarudri yameva ca | stutīrnānāvidhāḥ kṛtvā paṃcāṃgapaṭhanaṃ tathā || tataḥ pradakṣiṇāṃ kṛtvā natvā liṃgaṃ visarjayet | iti proktamaśeṣaṃ ca śivapūjanamādarāt ||",
+    "english": "51-52. Then he shall repeat the five-syllabled mantra, Śatarudriya, many Saiva hymns and read Pañcāṅga and perform circumambulation. After obeisance he shall bid farewell to the phallic image. Thus have I mentioned the worship of Śiva with due devotion.",
+    "morphology": "tatas_tatas_ paṃcākṣaram_paṃcākṣara_SANe japtvā_jap_Co śatarudri_śatarudrī_SVF yam_yad_SAM eva_eva_ ca_ca_  / stutīḥ_stuti_PAF nānāvidhāḥ_nānāvidha_PAF kṛtvā_kṛ_Co paṃcāṅga_pañcāṅga_Cp paṭhanam_paṭhana_SANe tathā_"
+  },
+  {
+    "index": 41086,
+    "sanskrit": "atha ye 'nyathāto vidur anyarājānas te kṣayyalokā bhavanti / teṣāṃ sarveṣu lokeṣv akāmacāro bhavati //",
+    "english": "while those that know otherwise than this are ruled by others, and live in perishable regions, and they are not free to do what they please, in all regions",
+    "morphology": "atha_atha_ ye_yad_PNM anyathā_anyathā_ atas_atas_ viduḥ_vid_PPs3In anya_anya_Cp rājānaḥ_rājan_PNM te_tad_PNM kṣayya_kṣi_GdCp lokāḥ_loka_PNM bhavanti_bhū_PPr3In  / teṣām_tad_PGM sarveṣu_sarva_PLM lokeṣu_loka_PLM akāma_akāma_Cp cār"
+  },
+  {
+    "index": 41087,
+    "sanskrit": "janmātiriktakālena vyāpāreṇātra kiṃ phalam / sattaiva vyāpṛtis tasyāṃ satyāṃ kāryodayo yataḥ // kāraṇasattāsamanantaram eva kāryasya niṣpannatvād akiñcitkara eva kāryasya janmottarakālabhāvī vyāpāraḥ kārye /",
+    "english": "Inasmuch as the Effect is produced immediately after the Cause has come into existence, any operation of that Cause on this Effect, after the latter has come about, would be absolutely useless. Because, what is it that is called the ‘operation’ of the Cause? It is that immediately after which the Effect secures its appearance; and as a matter of fact, the Effect appears immediately after the existence of the Cause;",
+    "morphology": "janma_janman_Cp atirikta_atiric_PaCp kālena_kāla_SIM vyāpāreṇa_vyāpāra_SIM atra_atra_ kim_ka_SNNe phalam_phala_SNNe  / sattā_sattā_SNF eva_eva_ vyāpṛtiḥ_vyāpṛti_SNF tasyām_tad_SLF satyām_as_SLPaPrF kārya_kārya_Cp udayaḥ_udaya_SNM ya"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40664,
+    "sanskrit": "śrūyatām nakulaḥ yaḥ asau yathā vāc asya mānuṣī",
+    "english": "Hear as I tell thee who that mongoose was and why he could assume a human voice.",
+    "morphology": "śrūyatām_śru_SPr3ImPv nakulaḥ_nakula_SNM yaḥ_yad_SNM asau_adas_SNM"
+  },
+  {
+    "index": 40665,
+    "sanskrit": "aṣṭame nirvikalpakasavikalpakapratyakṣa- pramāṇacintanam|",
+    "english": "In the eighth book he examines \"indeterminate\" and \"determinate\" perception, and means of proof.",
+    "morphology": "__aṣṭama_U"
+  },
+  {
+    "index": 40666,
+    "sanskrit": "āyuṣpā agne 'sy āyur me pāhi cakṣuṣpā agne 'si cakṣur me pāhi dhruvāsi yam paridhim paryadhatthā agne deva paṇibhir vīyamāṇas taṃ ta etam anu joṣam bharāmi ned eṣa tvad apacetayātai yajñasya pātha upa sam itam |",
+    "english": "Guardian of life art thou, O Agni, guard my life. Guardian of the eye art thou, O Agni, guard my eye. Thou art the secure one. The fence which thou didst put round thee When thou wast beset by the Panis, O god Agni, That do I bring here to thee that thou mayst rejoice in it, That it be not removed from thee.",
+    "morphology": "āyuṣpāḥ_āyuṣpā_SNM agne_agni_SVM asi_as_SPr2In āyuḥ_āyus_SANe me_mad_SG pāhi_pā_SPr2Im cakṣuṣpāḥ_cakṣuṣpā_SNM agne_agni_SVM asi_as_SPr2In cakṣuḥ_cakṣus_SANe me_mad_SG pāhi_pā_SPr2Im dhruvā_dhruva_SNF asi_as_SPr2In yam_y"
+  },
+  {
+    "index": 40667,
+    "sanskrit": "tatastvanye pṛthagvarṇāḥ pṛthagdharmān samācaran | paryāyeṇa samutpannā hyanulomavilomataḥ || 7 ||",
+    "english": "The Varṇas other than they are separate and they perform their respective duties separately. They are born in the usual order or in the opposite order (vilomataḥ).",
+    "morphology": "tatas_tatas_ tu_tu_ anye_anya_PNM pṛthak_pṛthak_ varṇāḥ_varṇa_PNM pṛthak_pṛthak_ dharmān_dharma_PAM samācaran_samācar_P3ImIn  / paryāyeṇa_paryāya_SIM"
+  },
+  {
+    "index": 40668,
+    "sanskrit": "karmāsti cet prativyakti nanu tadbhidyate tathā //",
+    "english": "If it be said that “the act (of cooking) is the basis”, then, the answer is that the act varies with each individual person;",
+    "morphology": "karma_karman_SNNe asti_as_SPr3In ced_ced_ prati_prati_ vyakti_vyakti_SNNe nanu_nanu_ tat_tad_SNNe bhidyate_bhid_SPr3InPv tathā_tathā_"
+  },
+  {
+    "index": 40669,
+    "sanskrit": "athāto gṛhāṇāmevopacāraḥ /",
+    "english": "Then as to the observances in regard to (the entering of) his house.",
+    "morphology": "atha_atha_ atas_atas_ gṛhāṇām_gṛha_PGM eva_eva_ upacāraḥ_upacāra_SNM"
+  },
+  {
+    "index": 40670,
+    "sanskrit": "anye tu brāhmaṇena niṣkāraṇo dharmaḥ ṣaḍaṅgo vedo 'dhyeyaḥ iti niṣkāraṇa ity etasyādhikārapadatāṃ manyante /",
+    "english": "Others have held that in the text \"that the Veda with its six subsidiary sciences should be learnt is what should be done by the Brāhmaṇa without any other motive,\" the phrase \"without any other motive\" explains the nature of the act as regards the person to perform it; the term \"without any motive\" means \"without having any other end in view;\" so that what is meant is that the act should be done as a compulsory one.",
+    "morphology": "anye_anya_PNM tu_tu_ brāhmaṇena_brāhmaṇa_SIM niṣkāraṇaḥ_niṣkāraṇa_SNM dharmaḥ_dharma_SNM ṣaṣ_ṣaṣ_Cp aṅgaḥ_aṅga_SNM vedaḥ_veda_SNM adhyeyaḥ_adhī_SNMGd iti_iti_ niṣkāraṇaḥ_niṣkāraṇa_SNM iti_iti_ etasya_etad_"
+  },
+  {
+    "index": 40671,
+    "sanskrit": "dānam adhyayanam yajñaḥ tapaḥ hrīḥ ārjavam damaḥ etaiḥ vardhayate tejaḥ pāpmānam ca apakarṣati",
+    "english": "Gifts, study of the Vedas, sacrifices, penances, modesty, guilelessness, and self-restraint,--these enhance one's energy and destroy one's sins.",
+    "morphology": "dānam_dāna_SNNe adhyayanam_adhyayana_SNNe yajñaḥ_yajña_SNM tapaḥ_tapas_SNNe hrīḥ_hrī_SNF ārjavam_ārjava_SNNe damaḥ_dama_SNM etaiḥ_etad_PIM vardhayate_vardhay_SPr3In tejaḥ_tejas_SANe pāpmānam_pāpman_SAM"
+  }
+]

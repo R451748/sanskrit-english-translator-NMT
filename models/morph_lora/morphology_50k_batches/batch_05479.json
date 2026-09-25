@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43824,
+    "sanskrit": "tasmād iti / saṅketāt /",
+    "english": "‘Tasmāt’ stands for the Convention.",
+    "morphology": "tasmāt_tasmāt_ iti_iti_  / saṅketāt_saṃyoga_SBM "
+  },
+  {
+    "index": 43825,
+    "sanskrit": "ūrg vā udumbara ūrg annam ūrjaivāsmā ūrjam annam ava runddhe |",
+    "english": "the Udumbara is strength, food is strength; verily by strength he wins for him strength and food.",
+    "morphology": "ūrj_ūrj_SNF vai_vai_ udumbaraḥ_udumbara_SNM ūrj_ūrj_SNF annam_anna_SNNe ūrjā_ūrj_SIF eva_eva_ asmai_idam_SDM ūrjam_ūrj_SAF annam_anna_SANe ava_ava_ runddhe_rudh_SPr3In"
+  },
+  {
+    "index": 43826,
+    "sanskrit": "pradīpa ityarciṣāṃ saṃtāna upacaryate /",
+    "english": "One says that the lamp moves: here is what the moving of the lamp consists of: “lamp” is the name metaphorically attributed to the uninterrupted series of moments of the flame that one sees, wrongly, as a “unity.”",
+    "morphology": "pradīpaḥ_pradīpa_SNM iti_iti_ arciṣām_arcis_PGNe saṃtānaḥ_saṃtāna_SNM upacaryate_upacar_SPr3InPv  /"
+  },
+  {
+    "index": 43827,
+    "sanskrit": "vatseśvaro 'pi nivasaṃstasmindeśe davīyasīm / ākheṭakārthamaṭavīmaṭati sma dine dine //",
+    "english": "The King of Vatsa, for his part, while staying in that place, ranged every day the wide-extended forest for the sake of sport.",
+    "morphology": "vatsa_vatsa_Cp īśvaraḥ_īśvara_SNM api_api_ nivasan_nivas_SNPaPrM tasmin_tad_SLM deśe_deśa_SLM davīyasīm_davīyas_SAF  / ākheṭaka_ākheṭaka_Cp artham_artha_SAM aṭavīm_aṭavī_SAF aṭati_aṭ_SPr3In sma_sma_ dine_dina_SLNe dine_dina_SLNe "
+  },
+  {
+    "index": 43828,
+    "sanskrit": "yattu kimarthaṃ codanā nopalabhyantaiti / tatra ke cidāhuḥ / nityānumeyāstā na kadā ciduḥccāryyante /",
+    "english": "Then, there is the questionHow is it that this Vedic Injunction of the Ashtaka is not found? To this, some people make the following reply Such Vedic Injunc tions are always to be inferred they are never directly mentioned exactly like those injunctions that are assumed on the strength of the implication of certain mantras e.g., the mantra I cut the grass, the seat of the gods is accepted as pointing to the assumed injunction that this n mantra should be recited at the cutting of the grass.",
+    "morphology": "yat_yad_SNNe tu_tu_ kimartham_kimartham_ codanāḥ_codana_PNF na_na_ upalabhyante_upalabh_PPr3InPv eti_i_SPr3In  / tatra_tatra_ ke_ka_PNM cit_cit_PNM āhuḥ_ah_PPs3In  / nitya_nitya_Cp anumeyāḥ_anumā_PNFGd tāḥ_tad_PNF na_na_ kadā_kadā_ cit_cit_ "
+  },
+  {
+    "index": 43829,
+    "sanskrit": "tasmāt sādhīyastadadhīnatvat ta evāśrayā na rūpādayaḥ /",
+    "english": "Consequently, it is the organ, and not the object, which is the point of support of consciousness. Consciousness knows the object.",
+    "morphology": "tasmāt_tasmāt_"
+  },
+  {
+    "index": 43830,
+    "sanskrit": "tatas kṛṣṇam samāsādya kuntī rāja sutā tadā provāca rāja śārdūla bāṣpa gadgadayā girā vāsudeva mahā bāho suprajā devakī tvayā",
+    "english": "Meeting Krishna, Kunti, that daughter of the Bhoja race, said unto him, O foremost of monarchs, these words in a voice chocked with tears, 'O Vasudeva, O mighty-armed hero, Devaki by having borne thee, has come to be regarded as an excellent genetrix.",
+    "morphology": "tatas_tatas_U kṛṣṇam_kṛṣṇa_SAM samāsādya_samāsāday_Co kuntī_kuntī_SNF rāja_rājan_MCp sutā_sutā_SNF tadā_tadā_U provāca_pravac_SPs3In rāja_rājan_MCp śārdūla_śārdūla_SVM bāṣpa_bāṣpa_SVM gadgadayā_gadgada_SIF girā_gir_"
+  },
+  {
+    "index": 43831,
+    "sanskrit": "| sūta uvāca | yatpūrvāparasīmāntaṃ tanmayā saṃprakīrtitam | dakṣiṇottarasaṃbhūtaṃ tadvo vakṣyāmi sāṃpratam || 1 ||",
+    "english": "Sūta said: 1-7. I have already recounted what is between the eastern and western borders. Now I shall recount what is between northern and southern borders.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / yat_yad_SNNe pūrva_pūrva_Cp apara_apara_Cp sīmāntam_sīmānta_SNNe tat_tad_SNNe mayā_mad_SI saṃprakīrtitam_saṃprakīrtay_SNPaNe  / dakṣiṇa_dakṣiṇa_Cp uttara_uttara_Cp saṃbhūtam_sambhū_SAPaNe tat"
+  }
+]

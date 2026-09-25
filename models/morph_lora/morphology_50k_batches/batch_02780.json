@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22232,
+    "sanskrit": "praśaṃsā /",
+    "english": "As for the Sun, it is absolutely impossible for him to be employed as the post.",
+    "morphology": "praśaṃsā_"
+  },
+  {
+    "index": 22233,
+    "sanskrit": "yaḥ tvā devi sarasvati upa brūte dhane hite indram na vr̥tra tūyer",
+    "english": "Whoso, divine Sarasvatî, invokes thee where the prize is set, Like Indra when he smites the foe.",
+    "morphology": "yaḥ_yad_SNM"
+  },
+  {
+    "index": 22234,
+    "sanskrit": "anaḥ śakaṭas tatsaṃkhyānam etat /",
+    "english": "\"Anas\" is cart, which stands here as a measure.",
+    "morphology": "anaḥ_anas_SNNe śakaṭaḥ_śakaṭa_SNM tad_tad_Cp saḥ_saḥ_SNM"
+  },
+  {
+    "index": 22235,
+    "sanskrit": "rāmakṛṣṇau samāliṅgya yadubhiś cānumoditaḥ / vasudevābhyanujñātaḥ svam eva śakaṭaṃ yayau / sūtaḥ",
+    "english": "Vaishampayana said:—United with Rohini's son Krishna spent some days happily in the city of Mathura filled with Yādavas.",
+    "morphology": "rāma_rāma_Cp kṛṣṇau_kṛṣṇa_DuAM samāliṅgya_samāliṅgay_Co yadubhiḥ_yadu_PIM ca_ca_ anumoditaḥ_anumoday_SNPaM  / vasudeva_vasudeva_Cp abhyanujñātaḥ_abhyanujñā_SNPaM svam_sva_SANe eva_eva_ śakaṭam_śakaṭa_SANe yayau_yā_SPs3I"
+  },
+  {
+    "index": 22236,
+    "sanskrit": "kāṣṭhena vā nakhena vā kaṇḍūyeta garbho vā eṣa bhavati yo dīkṣate yo vai garbhasya kāṣṭhena vā nakhena vā kaṇḍūyedapāsyanmrityettato dīkṣitaḥ pāmano bhavitordīkṣitaṃ vā anu retāṃsi tato retāṃsi pāmanāni janitoḥ svā vai yonī reto na hinastyeṣā vā etasya svā yonirbhavati yatkṛṣṇaviṣāṇā tatho hainameṣā na hinasti tasmāddīkṣitaḥ kṛṣṇaviṣāṇayaiva kaṇḍūyeta nānyena kṛṣṇaviṣāṇāyāḥ //",
+    "english": "For he who is consecrated becomes an embryo; and were any one to scratch an embryo either with a chip of wood or his nail, thereby expelling it, it would die . Thereafter the consecrated would be liable to be affected with the itch; and--offspring (retas) coming after the consecrated--that offspring would then also be liable to be born with the itch. Now hisown womb does not injure its offspring, and that black deer's horn being indeed his own womb, that (horn) does not injure him; and therefore the consecrated should scratch himself with the black deer's horn and with nothing but the black deer's horn.",
+    "morphology": "kāṣṭhena_kāṣṭha_SINe vā_vā_ nakhena_nakha_SINe vā_vā_ kaṇḍūyeta_kaṇḍūy_SPr3O garbhaḥ_garbha_SNM vai_vai_ eṣa_etad_SNM bhavati_bhū_SPr3In yaḥ_yad_SNM dīkṣate_dīkṣ_SPr3In yaḥ_yad_SNM vai_vai_ garbhasya_garbha_SGM kāṣ"
+  },
+  {
+    "index": 22237,
+    "sanskrit": "jyogujjvalaṃ jīvati /",
+    "english": "He lives gloriously,ie, a glorious life",
+    "morphology": "jyok_jyok_ ujjvalam_ujjvala_SANe jīvati_jīv_SPr3In  /"
+  },
+  {
+    "index": 22238,
+    "sanskrit": "yathā sāmidhenīṣu sāptadaśyapāñcadaśyayoḥ pāñcadaśyena prakṛtir avaruddhā sāptadaśyaṃ pratyakṣaśrutam api nākāṅkṣati /",
+    "english": "Just as in the case of the Sāmidhenī verses, though the two numbers, seventeen and fifteen, are both equally mentioned in available Vedic texts, yet when we have once found that the number fifteen is applicable to the action in hand, we have no desire to have recourse to the number seventeen, even though this also is directly mentioned in the Veda.",
+    "morphology": "yathā_yathā_ sāmidhenīṣu_sāmidhenī_PLF sāptadaśya_sāptadaśya_Cp pāñcadaśyayoḥ_pāñcadaśya_DuGNe pāñcadaśyena_pāñcadaśya_SINe prakṛtiḥ_prakṛti_SNF avaruddhā_avarudh_SNPaF sāptadaśyam_sāptadaśya_SANe pratyakṣa_pratyakṣ"
+  },
+  {
+    "index": 22239,
+    "sanskrit": "mahā-padmaś-ceti |",
+    "english": "the great red-lotus (hell).",
+    "morphology": "mahā_mahat_Cp"
+  }
+]

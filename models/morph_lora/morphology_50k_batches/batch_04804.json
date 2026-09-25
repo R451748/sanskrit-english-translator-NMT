@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38424,
+    "sanskrit": "svādhyāya niratāḥ viprāḥ tathā svastyayane nṛṇām",
+    "english": "It is said that a Brahmana's duty consists in studying the Vedas and seeking the welfare of the human race;",
+    "morphology": "svādhyāya_svādhyāya_MCp niratāḥ_niram_PNPaPsM viprāḥ_vipra_PNM tathā_tathā_U svastyayane_svastyayana_SLNe nṛṇām_nṛ_PGM"
+  },
+  {
+    "index": 38425,
+    "sanskrit": "svarga apavarga saṃsarga yatnaḥ ayam aphaḥ tatas | īhā sādhyam na kiñcid hi phalam atra upalakṣyate ||",
+    "english": "As a consequence of this, all attempt to attain heaven and final beatitude would be futile; as no fruit is found that could be attained by effort",
+    "morphology": "svarga_svarga_MCp apavarga_apavarga_MCp saṃsarga_saṃsarga_MCp yatnaḥ_yatna_SNM ayam_idam_SNM aphaḥ_apha_SNM tatas_tatas_U  / īhā_īhā_FCp sādhyam_sādhay_SNNeGd na_na_U kiñcid_kaścit_SNNe hi_hi_U phalam_phala_SNNe atra_atra_U upalakṣyate_up"
+  },
+  {
+    "index": 38426,
+    "sanskrit": "amātyān parirakṣeta bheda saṃghātayoḥ api",
+    "english": "He should protect his ministers from disunion and destructions.",
+    "morphology": "amātyān_amātya_PAM parirakṣeta_parirakṣ_SPr3O bheda_bheda_MCp saṃghātayoḥ_saṃghāta_DuNM"
+  },
+  {
+    "index": 38427,
+    "sanskrit": "kāṃsya āyasa tanutrān tān narān aśvān ca pāṇḍavaḥ",
+    "english": "With that mace the son of Pandu crushed men and steeds cased in steel armour.",
+    "morphology": "kāṃsya_kāṃsya_NeCp āyasa_āyasa_NeCp tanutrān_tanutra_PAM tān_tad_PAM narān_nara_PAM aśvān_aśva_PAM ca_ca_U"
+  },
+  {
+    "index": 38428,
+    "sanskrit": "asaìkhya koṭi mārtaṇòa jyotiṣam maṇòalam prabhumparipūrṇatamam sākṣāc chrī kṛṣṇam puruṣottamam",
+    "english": "On Śeṣa's lap Akrūra also saw Lord Kṛṣṇa, the perfect Supreme Personality of Godhead, glorious as countless millions of suns,",
+    "morphology": "asañkhya_asaṃkhya_Cp koṭi_koṭi_FCp mārtaṇòa_mārtaṇòa_MCp jyotiṣam_jyotiṣa_SAM maṇòalam_maṇḍala_SAM prabhumparipūrṇatamam_prabhumparipūrṇatama_SAM sākṣāt_sākṣāt_U śrī_śrī_FCp kṛṣṇam_kṛṣṇa_SAM puruṣot"
+  },
+  {
+    "index": 38429,
+    "sanskrit": "agnim tam manye yaḥ vasuḥ astam yam yanti dhenavaḥ astam avarntaḥ āśavaḥ astam nityāsaḥ vājinaḥ iṣam stotr̥ bhyaḥ ā bhara",
+    "english": "I think of that Agni who is a Vasu, to whom the milch-cows go home, the swift horses (go) home, (our) own racers (go) home. Bring food to thy praisers!",
+    "morphology": "agnim_agni_SAM tam_tad_SAM manye_man_SPr1In yaḥ_yad_SNM vasuḥ_vasu_SNM astam_asta_SAM yam_yad_SAM yanti_i_PPr3In dhenavaḥ_dhenu_PNF astam_asta_SAM avarntaḥ_vṛ_PPs3In āśavaḥ_āśu_PNM astam_asta_SAM nityāsaḥ_nitya_PNM vājinaḥ_vājin_PNM "
+  },
+  {
+    "index": 38430,
+    "sanskrit": "yān āhuḥ brahmaṇaḥ putrān mānasān dakṣasaptamān teṣām api mahāmeruḥ sthānam śivam anāmayam",
+    "english": "And the Mahameru is the auspicious and healthy abode even of the seven mind-born sons of Brahma, of whom Daksha was the seventh.",
+    "morphology": "yān_yad_PAM āhuḥ_ah_PPs3In brahmaṇaḥ_brahman_SGM putrān_putra_PAM mānasān_mānasa_PAM dakṣasaptamān_dakṣasaptama_PAM teṣām_tad_PGM api_api_U mahāmeruḥ_mahāmeru_SNM sthānam_sthāna_SNNe śivam_śiva_SNNe anāmayam_anāmaya_SNNe"
+  },
+  {
+    "index": 38431,
+    "sanskrit": "evaṃ sā tatra saṃjātā gartā brāhmaṇasattamāḥ | yathā tasyāṃ vipāpmābhūtsau dāsastadvadāmyaham || 16 ||",
+    "english": "16. It was thus, O excellent Brāhmaṇas, that the chasm was formed there. I shall tell you now how Saudāsa became liberated from sin therein.",
+    "morphology": "evam_evam_ sā_tad_SNF tatra_tatra_ saṃjātā_saṃjan_SNPaF gartā_gartā_SNF brāhmaṇa_brāhmaṇa_Cp sattamāḥ_sattama_PVM  / yathā_yathā_ tasyām_tad_SLF vipāpmā_vipāpman_SNM abhūt_bhū_SPs3In sau_adas_SNM dāsaḥ_dāsa_SNM tat_tad_SANe va"
+  }
+]

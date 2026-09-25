@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36992,
+    "sanskrit": "bhīṣma droṇau hatau śrutvā sūtaputram ca pātitam senāpatim praṇetāram kim akurvata māmakāḥ",
+    "english": "\"Dhritarashtra said, 'After Bhishma and Drona had been slain, and the Suta's son also overthrown, whom did my warriors make their generalissimo? The Pandavas are slaying without any delay everyone whom my warriors are making their generalissimo in battle.",
+    "morphology": "bhīṣma_bhīṣma_MCp droṇau_droṇa_DuAM hatau_han_DuAPaPsM śrutvā_śru_Co sūtaputram_sūtaputra_SAM ca_ca_U pātitam_pātay_SAPaPsM"
+  },
+  {
+    "index": 36993,
+    "sanskrit": "ataḥ tajjanakasya na pratyakṣatā prasajyate //",
+    "english": "Thus the definition of perception is not too wide since it does neither apply to the source of memory nor to that of inference.",
+    "morphology": "atas_atas_ __tad_U __janaka_U __"
+  },
+  {
+    "index": 36994,
+    "sanskrit": "śriyaḥ sakāśāt arthaḥ ca jātaḥ dharmeṇa pāṇḍava",
+    "english": "She became the spouse of Dharma of great intelligence upon Sree, O son of Pandu, Dharma begot Artha.",
+    "morphology": "śriyaḥ_śrī_SGF sakāśāt_sakāśāt_SBM arthaḥ_artha_SNM ca_ca_U jātaḥ_jan_SNPaPsM"
+  },
+  {
+    "index": 36995,
+    "sanskrit": "kadrūruvāca | vinate tvaṃ vijānāsi yadi tadbrūhi megrataḥ | akhaṃḍitā gatistesti yato gaganamaṃḍale || 5 ||",
+    "english": "Kadrū said: 5. O Vinatā, if you know, tell it to me as you have unobstructed movement in the firmament.",
+    "morphology": "kadrūḥ_kadru_SNF uvāca_vac_SPs3In  / vinate_vinatā_SVF tvam_tvad_SN vijānāsi_vijñā_SPr2In yadi_yadi_ tat_tad_SANe brūhi_brū_SPr2Im megrataḥ_megra_SBM  / akhaṇḍitā_akhaṇḍita_SNF gatiḥ_gati_SNF te_tvad_SG asti_as_SPr3In yatas_yatas_ g"
+  },
+  {
+    "index": 36996,
+    "sanskrit": "atha enam chinna dhanvānam hata aśvam hata sārathim vivyādha sāyakaiḥ pārthaḥ caturbhiḥ pāṇḍu nandanaḥ",
+    "english": "Then, the son of Pandu and Pritha pierced the bowless, the steedless, and the driverless Karna with four shafts.",
+    "morphology": "atha_atha_U enam_enad_SAM chinna_chid_PaPsCp dhanvānam_dhanvan_SAM hata_han_PaPsCp aśvam_aśva_SAM hata_han_PaPsCp sārathim_sārathi_SAM vivyādha_vyadh_SPs3In sāyakaiḥ_sāyaka_PIM pārthaḥ_pārtha_SNM caturbhiḥ_catur_PIM pāṇḍu_pāṇḍu_MC"
+  },
+  {
+    "index": 36997,
+    "sanskrit": "prātaśca vardhyatāṃ rājandhvajo rātrau patiṣyati | mama tvevaṃ ca sampūrṇe prājāpatye tathā punaḥ || anyathāyaṃ dhvajo me hi rātrāvapi sthiro bhavet | ityuktvāntarhitaśśaṃbhū rājñe tuṣṭaḥ kṛpānidhiḥ ||",
+    "english": "65-66. The banner will be raised and bound in the morning. It will fall down in the night. This will happen when the Prājāpatya rite is full and complete. Otherwise this banner will remain steady even during the night. After saying this to the king, the delighted Śiva, the storehouse of mercy, vanished.",
+    "morphology": "prātar_prātar_ ca_ca_ vardhyatām_vardhay_SPr3ImPv rājan_rājan_SVM dhvajaḥ_dhvaja_SNM rātrau_rātri_SLF patiṣyati_pat_SFu3In  / mama_mad_SG tu_tu_ evam_evam_ ca_ca_ sampūrṇe_sampṛ_SLPaNe prājāpatye_prājāpatya_SLNe tathā_tathā_ punar_pun"
+  },
+  {
+    "index": 36998,
+    "sanskrit": "tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam / lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // samānaṃ hyetadubhayaṃ vistārataḥ /",
+    "english": "The circle of water and gold have a diameter of twelve hundred three thousand four hundred and fifty leagues;",
+    "morphology": "tiryak_tiryañc_SANe trīṇi_tri_PNNe sahasrāṇi_sahasra_PNNe sārdham_sārdham_ śata_śata_Cp catuṣṭayam_catuṣṭaya_SNNe  / lakṣa_lakṣa_Cp dvādaśakam_dvādaśaka_SNNe ca_ca_ eva_eva_ jala_jala_Cp kāñcana_kāñcana_Cp maṇḍalam_maṇ"
+  },
+  {
+    "index": 36999,
+    "sanskrit": "vayamu tvāmapūrvya sthūraṃ na kaccidbharanto 'vasyavaḥ / vajriñcitraṃ havāmahe //",
+    "english": "We call on thee, O matchless one We, seeking help, possessing nothing firm ourselves",
+    "morphology": "vayam_mad_PN u_u_ tvām_tvad_SA apūrvya_apūrvya_SVM sthūram_sthūra_SANe na_na_ kaccit_kaścit_SANe bharantaḥ_bhṛ_PNPaPrM avasyavaḥ_avasyu_PNM  / vajrin_vajrin_SVM"
+  }
+]

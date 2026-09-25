@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12688,
+    "sanskrit": "madhye pūrṇaśilānyāsaḥ subhadrakalaśe 'rdhataḥ /",
+    "english": "The preceptor should locate the stone slab Pūrṇa in the pitcher known as Subhadra halfimmersed.",
+    "morphology": "madhye_madhya_SLNe pūrṇa_pṛ_PaCp śilā_śilā_Cp nyāsaḥ_nyāsa_SNM subhadra_subhadra_Cp kalaśe_kalaśa_SLM ardha_ardha_SNM "
+  },
+  {
+    "index": 12689,
+    "sanskrit": "teṣām tu vājinām bhūmiḥ khuraiḥ citrā viśām pate aśobhata yathā nārī karaja kṣata vikṣatā",
+    "english": "The field, O monarch, indented with the hoofs of those steeds, looked beautiful like a beautiful woman bearing the marks of (her lover's) nails on her person.",
+    "morphology": "teṣām_tad_PGM tu_tu_U vājinām_vājin_PGM bhūmiḥ_bhūmi_SNF khuraiḥ_khura_PIM citrā_citra_SNF viśām_viś_PGF pate_pati_SVM aśobhata_śubh_SPs3In yathā_yathā_U nārī_nārī_SNF karaja_karaja_MCp kṣata_kṣata_NeCp vikṣatā_vikṣan_SNPaP"
+  },
+  {
+    "index": 12690,
+    "sanskrit": "sā viśvasya jananī iti evam asya arthaḥ anubhāṣyate",
+    "english": "Even this is the meaning of the word Tamas.",
+    "morphology": "sā_tad_SNF"
+  },
+  {
+    "index": 12691,
+    "sanskrit": "ātmīye jīvite brahma yāvadvarṣaśataṃ sthitaḥ | keśavo'pi svamānena varṣāṇāṃ jīvite śatam || 55 ||",
+    "english": "55. Brahmā lives a full life-span of one hundred years according to his own reckoning, Keśava also lives a hundred years according to his own reckoning.",
+    "morphology": "ātmīye_ātmīya_SLNe jīvite_jīvita_SLNe brahma_brahman_SANe yāvat_yāvat_ varṣa_varṣa_Cp śatam_śata_SNNe sthitaḥ_sthā_SNPaM  / keśavaḥ_keśava_SNM api_api_ sva_sva_Cp mānena_māna_SIM varṣāṇām_varṣa_PGM jīvite_jīvita_SLNe śatam"
+  },
+  {
+    "index": 12692,
+    "sanskrit": "viviktānām iti /",
+    "english": "‘Clear’ correct;",
+    "morphology": "viviktānām_vivic_PGPaPsM"
+  },
+  {
+    "index": 12693,
+    "sanskrit": "siddham dhānyāmla saṃyuktam tailam utpāta nāśanam||",
+    "english": "This oil proves curative in a case of Utpata.",
+    "morphology": "siddham_sidh_SNPaPsNe"
+  },
+  {
+    "index": 12694,
+    "sanskrit": "yadīdamapyavagamyate kiṃ no bādhyate/ tathā ca yājñikānāṃ vyavahāreṣu nāmadayamupannabhāmahe / samastavākyānuvādasya tu ta deva prayojanaṃ yat prayogavākyagataikatvopajananaṃ nāma /",
+    "english": "C Objection We have already got a name for this sacrifice Jyotish toma what then would be the use of another name ? Reply What harm is there if we have another name? Very often The useful purpose served by such reference to a number of sacrifices, as we hold, is that it is only when all these sacrifices are referred to collectively as one, that they could be spoken of in the singular num ber, in the final sentence that sums up their performability viz., the sentence jyotishṭomena svargakāmo yajēta.",
+    "morphology": "yadi_yadi_ idam_idam_SNNe api_api_ avagamyate_avagam_SPr3InPv kim_ka_SNNe naḥ_mad_PG bādhyate_bādh_SPr3InPv  / tathā_tathā_ ca_ca_ yājñikānām_yājñika_PGM vyavahāreṣu_vyavahāra_PLM nāma_nāman_Cp dayam_dayā_SANe upannabhāmahe_upannabh_PPr"
+  },
+  {
+    "index": 12695,
+    "sanskrit": "kulāni samupetāni gobhiḥ puruṣataḥ aśvataḥ kula saṃkhyām na gacchanti yāni hīnāni vṛttataḥ vṛttataḥ tu avihīnāni kulāni alpa dhanāni api",
+    "english": "Those families that are possessed of members, wealth and kine, are not regarded as families if they be wanting in good manners and conduct, while families wanting in wealth but distinguished by manners and good conduct are regarded as such and win great reputation.",
+    "morphology": "kulāni_kula_PNNe samupetāni_samupe_PNPaPsNe gobhiḥ_go_PIM puruṣataḥ_puruṣa_SBM aśvataḥ_aśva_SBM kula_kula_NeCp saṃkhyām_saṃkhyā_SAF na_na_U gacchanti_gam_PPr3In yāni_yad_PNNe hīnāni_hā_PNPaPsNe vṛttataḥ_vṛtta_SBNe vṛttataḥ"
+  }
+]

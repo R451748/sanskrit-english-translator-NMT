@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6800,
+    "sanskrit": "putrān pitṝn sakhīn bhrātṝn samāropya dṛḍha kṣatān jalena kledayanti anye vimucya kavacāni api",
+    "english": "Some, placing their sons and sires and friends and brothers (on vehicles) and taking off their armour, were seen washing them with water.",
+    "morphology": "putrān_putra_PAM pitṝn_pitṛ_PAM sakhīn_sakhi_PAM bhrātṝn_bhrātṛ_PAM samāropya_samāropay_Co dṛḍha_dṛḍha_Cp kṣatān_kṣan_PAPaPsM jalena_jala_SINe kledayanti_kleday_PPr3In anye_anya_PNM"
+  },
+  {
+    "index": 6801,
+    "sanskrit": "māteva putram pṛthivī purīṣyamiti / māteva putram pṛthivī paśavyamityetadagniṃ sve yonāvabhārukhetyagniṃ sve yonāvabhārṣīdukhetyetattāṃ viśvairdevairṛtubhiḥ saṃvidānaḥ prajāpatirviśvakarmā vimuñcatviyṛtavo vai viśve devāstadenāṃ viśvairdevairṛtubhiḥ saṃvidānaḥ prajāpatirviśvakarmā vimuñcati tāmuttarato 'gnernidadhātyaratnimātre tasyokto bandhuḥ //",
+    "english": "'Even as a mother her son, so hath the Earth borne Agni Purîshya,'--that is, Agni, favourable to cattle;--'she, the Ukhâ, in her own womb;' that is, the Ukhâ has borne Agni in her own womb;--'May Pragâpati, the all-former, release her, in concert with the All-gods, the seasons!' the All-gods doubtless are the seasons: thus Pragâpati, the all-former, releases it, in concert with the All-gods, the seasons.",
+    "morphology": "mātā_mātṛ_SNF iva_iva_ putram_putra_SAM pṛthivī_pṛthivī_SNF purīṣyam_purīṣya_SAM iti_iti_  / mātā_mātṛ_SNF iva_iva_ putram_putra_SAM pṛthivī_pṛthivī_SNF paśavyam_paśavya_SAM iti_iti_ etat_etad_SNNe agnim_agni_SAM sve_sva_SLM y"
+  },
+  {
+    "index": 6802,
+    "sanskrit": "tac caturvidhaṃ nāmaākhyātaupasarganipātāś caiti //",
+    "english": "The word is of four kindsnouns, verbs, prefixes of verbs, and particles nipáta",
+    "morphology": "tat_tad_SNNe caturvidham_caturvidha_SNNe nāma_nāman_Cp ākhyāta_ākhyāta_Cp aupasarga_aupasarga_Cp nipātāḥ_nipāta_PNM ca_ca_"
+  },
+  {
+    "index": 6803,
+    "sanskrit": "nanu cetihāsapurāṇeṣu brahmādiḥ sarvajñaḥ kīritaḥ, tathā hi brahmaṇo jñānamapratighaṃ vairāgyaṃ ceti tatra paṭhyate, tat katham āgamāt sarvajño na siddha ityatrāha itihāsetyādi / itihāsapurāṇeṣu brahmādir yo 'pi sarvavit /",
+    "english": "Hence in view of all this, the reason adduced must be rejected as ‘Inconclusive’. “The description that we meet with in itihāsas and purāṇas of Brahmā being omniscient and of his knowledge and dispassion as untrammelled, all this should be understood in the figurative sense, like the commendatory declarations relating to mantras.",
+    "morphology": "nanu_nanu_ ca_ca_ itihāsa_itihāsa_Cp purāṇeṣu_purāṇa_PLNe brahma_brahman_Cp ādiḥ_ādi_SNM sarvajñaḥ_sarvajña_SNM kīritaḥ_kīray_SNPaM tathā_tathā_ hi_hi_ brahmaṇaḥ_brahman_SGM jñānam_jñāna_SNNe apratigham_apratigha_SNNe vairā"
+  },
+  {
+    "index": 6804,
+    "sanskrit": "bhinnāḥ vimanasaḥ sarve gacchanti ari vaśam bhayāt",
+    "english": "Dissociated from the king, all of them become dissatisfied, and acting from fear, side with the enemies of their ruler.",
+    "morphology": "bhinnāḥ_bhid_PNPaPsM"
+  },
+  {
+    "index": 6805,
+    "sanskrit": "sarvān nudāmi te śatrūn raṇe raṇa viśārada",
+    "english": "I will rout all thy foes in battle, O great warrior, And, O thou of mighty arms, be at thy ease.",
+    "morphology": "sarvān_sarva_PAM"
+  },
+  {
+    "index": 6806,
+    "sanskrit": "yo hi yadāśrito na bhavati tannivṛttau na niyamena tasya nivṛttiḥ /",
+    "english": "There is no incongruity in this. When one thing does not subsist in another, it does not necessarily cease upon the cessation of the latter;",
+    "morphology": "yaḥ_yad_SNM hi_hi_ yad_yad_Cp āśritaḥ_āśri_SNPaM na_na_ bhavati_bhū_SPr3In tad_tad_Cp nivṛttau_nivṛtti_SLF na_na_ niyamena_niyama_SIM tasya_tad_SGM nivṛttiḥ_"
+  },
+  {
+    "index": 6807,
+    "sanskrit": "āvidhya āvidhya te rājan prakṣipanti sma yat tṛṇam",
+    "english": "He who hurled a blade of grass saw that it pierced through even such things as were utterly impenetrable.",
+    "morphology": "āvidhya_āvyadh_Co"
+  }
+]

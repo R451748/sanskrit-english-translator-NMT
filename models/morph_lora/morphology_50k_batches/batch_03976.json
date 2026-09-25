@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31800,
+    "sanskrit": "jaṅgamāḥ sthāvarāḥ ca eva divi vā yadi vā bhuvi",
+    "english": "All creatures, mobile and immobile, in heaven, or earth, are influenced by Kala.",
+    "morphology": "jaṅgamāḥ_jaṅgama_PNM sthāvarāḥ_sthāvara_PNM ca_ca_U eva_eva_U divi_div_SLM vā_vā_U yadi_yadi_U vā_vā_U bhuvi_bhū_SLF"
+  },
+  {
+    "index": 31801,
+    "sanskrit": "daśa eva māsān bibhrati garbhavatyaḥ daśa irakāḥ daśa dāśāḥ daśa arṇāḥ bandī uvāca",
+    "english": "ten is the number of months, during which women bear;",
+    "morphology": "daśa_daśan_SANe eva_eva_U māsān_māsa_PAM bibhrati_bhṛ_PPr3In garbhavatyaḥ_garbhavat_PNF daśa_daśan_SNNe irakāḥ_irakā_PNF daśa_daśan_SNNe dāśāḥ_dāśa_PNM daśa_daśan_Cp arṇāḥ_arṇa_PNM bandī_bandin_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 31802,
+    "sanskrit": "tasmādgārhasthyamāsādya kuru saṃtativardhanam | tenā'smākaṃ tavā'pi syādgatirūrdhvā na saṃśayaḥ || 76 ||",
+    "english": "76. Hence adopt the life of a householder and raise a family. Thereby you and we shall undoubtedly have the uplift.",
+    "morphology": "tasmāt_tasmāt_ gārhasthyam_gārhasthya_SANe āsādya_āsāday_Co kuru_kṛ_SPr2Im saṃtati_saṃtati_Cp vardhanam_vardhana_SANe  / tena_tad_SINe asmākam_mad_PG tava_tvad_SG api_api_ syāt_as_SPr3O gatiḥ_gati_SNF ūrdhvā_ūrdhva_SNF na_na_ saṃśay"
+  },
+  {
+    "index": 31803,
+    "sanskrit": "giriyajñā vayaṃ gopā ijyo 'smābhir girir vane //",
+    "english": "Therefore we should worship the mountains in the forest.",
+    "morphology": "giri_giri_Cp yajñāḥ_yajña_PNM vayam_mad_PN gopāḥ_gopā_PNM ijyaḥ_yaj_SNMGd asmābhiḥ_mad_PI giriḥ_giri_SNM vane_vana_SLNe  /"
+  },
+  {
+    "index": 31804,
+    "sanskrit": "te ca bhedam gamiṣyanti daiva yuktena hetunā",
+    "english": "Through an irresistible decree of Destiny, the Kshatriyas and the Bhargavas will fall out.",
+    "morphology": "te_tad_PNM ca_ca_U bhedam_bheda_SAM gamiṣyanti_gam_PFu3In daiva_daiva_NeCp yuktena_yuj_SIPaPsM hetunā_hetu_SIM"
+  },
+  {
+    "index": 31805,
+    "sanskrit": "śākāni sṛjatā tena brahmaṇā parameṣṭhinau | kālaśākaṃ puraḥ sṛṣṭaṃ tena tattṛptidāyakam || 44 ||",
+    "english": "44. While creating greens and vegetables Kālaśāka was created at the outset by Brahmā, the Parameṣṭhin. Hence it gives satisfaction.",
+    "morphology": "śākāni_śāka_PANe sṛjatā_sṛj_SIPaPrM tena_tad_SIM brahmaṇā_brahman_SIM parameṣṭhinau_parameṣṭhin_DuVM  / kālaśākam_kālaśāka_SNNe puras_puras_ sṛṣṭam_sṛj_SNPaNe tena_tena_ tat_tad_SNNe tṛpti_tṛpti_Cp dāyakam_dāyaka_SN"
+  },
+  {
+    "index": 31806,
+    "sanskrit": "darśapūrṇamā māviṣṭveti pūrveṇaiva nyāyenāśeṣābhyāmanirvṛtyuttarakālaṃ somayāgaḥ syāt /",
+    "english": "Objection The words Purnamāsī and Amāvāsyā in the sen tence quoted, denote the particular times and as the time would apper tain to the constituent Repetitions, a transgression of these would be the transgression of the Purnamāsī and the Amāvāsyā, which would be the proper occasion for the Expiatory Rite.",
+    "morphology": "darśa_darśa_Cp pūrṇamāsau_pūrṇamāsa_DuAM iṣṭvā_yaj_Co iti_iti_ pūrveṇa_pūrva_SIM eva_eva_ nyāyena_nyāya_SIM aśeṣābhyām_aśeṣa_DuIM anirvṛti_anirvṛti_Cp uttara_uttara_Cp kālam_kāla_SAM soma_soma_Cp yāgaḥ_yāga_SNM syāt_"
+  },
+  {
+    "index": 31807,
+    "sanskrit": "ucchrāyā dvyaṅgulaṃ cāgre karavīropamāḥ smṛtāḥ /",
+    "english": "From its tip it should be two aṅgulas similar to the karavīra flower oleander.",
+    "morphology": "ucchrāyāḥ_ucchrāya_PNM dvi_dvi_Cp aṅgulam_aṅgula_SNNe ca_ca_ agre_agra_SLNe karavīra_karavīra_Cp upamāḥ_upama_PNM smṛtāḥ_smṛ_PNPaM  /"
+  }
+]

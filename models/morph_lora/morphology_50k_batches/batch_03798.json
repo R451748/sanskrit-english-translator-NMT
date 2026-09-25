@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30376,
+    "sanskrit": "sā kaṭhānām iyam iti vyapadiśyamānā bahvṛcānām api svārthāvagamanaṃ karoty eva / kartavyatā vedasya svārthe smṛtīnāṃ ca / avagatāyāṃ ca kartavyatāyāṃ kartṛviśeṣāśravaṇe svādhikāro na syād yathā ca tanūnapāti prayāje vasiṣṭhānām, niṣedhād vā patitam / na ceha dvayam apy asti /",
+    "english": "Further, when Gṛhya Smṛti is a trustworthy source of knowledge, even though it may be named after the \"Kaṭhas,\" it cannot fail to make its purport known to the Ṛgvedins also; and what forms the purport of the Vedas and the Smṛtis is that \"such and such an act should be done\" So that when one has come to know that \"this should be done,\" there can be nothing to limit the performance of that act to any particular class of persons, unless there is a Vedic text specifying any particular performer;as for instance, when the performance of the Tanūnapāt Prayāja is restricted to the \"Vaśiṣṭha\" clan, or a distinct prohibition sets aside the said \"performability\" Neither of these two circumstances is present in the case in question.",
+    "morphology": "sā_tad_SNF kaṭhānām_kaṭha_PGM iyam_idam_SNF iti_iti_ vyapadiśyamānā_vyapadiś_SNPaPrFPv bahvṛcānām_bahvṛca_PGM api_api_ sva_sva_Cp artha_artha_Cp avagamanam_avagamana_SANe karoti_kṛ_SPr3In eva_eva_  / kartavya_kṛ_GdCp tā_tā_SNF vedasy"
+  },
+  {
+    "index": 30377,
+    "sanskrit": "tasya priyā sudehā ca śivadharmaparāyaṇaḥ | patisevāparā nityaṃ gṛhakarmavicakṣaṇā ||",
+    "english": "4. His beloved wife Sudehā was interested in Śaiva cult and sacred rites. She was skilful in all household activities and she devoutly served her husband.",
+    "morphology": "tasya_tad_SGM priyā_priyā_SNF sudehā_sudehā_SNF ca_ca_ śiva_śiva_Cp dharma_dharma_Cp parāyaṇaḥ_parāyaṇa_SNM  / pati_pati_Cp sevā_sevā_Cp parā_para_SNF"
+  },
+  {
+    "index": 30378,
+    "sanskrit": "spraṣṭavyāyatanaṃ catvāri mahābhūtāni uktaśca yaḥ spraṣṭabyaikadeśaḥ",
+    "english": "The sense-field of the tactile is the four great elements and everything (all the incredibly numerous various sensations) which can be subsumed under tactile sensations.",
+    "morphology": "spraṣṭavya_spṛś_GdCp āyatanam_āyatana_SNNe catvāri_catur_PNNe mahābhūtāni_mahābhūta_PNNe uktaḥ_vac_SNPaM ca_ca_ yaḥ_yad_SNM"
+  },
+  {
+    "index": 30379,
+    "sanskrit": "niṣekādīni karmāṇi yaḥ karoti yathāvidhi / saṃbhāvayati cānnena sa vipro gurur ucyate //",
+    "english": "That Brāhmaṇa, who performs, in the prescribed manner, one\" s sacramental rites beginning with the rites of impregnation, and supports him with food, is called the Guru, Mentor.",
+    "morphology": "niṣeka_niṣeka_Cp ādīni_ādi_PANe karmāṇi_karman_PANe yaḥ_yad_SNM karoti_kṛ_SPr3In yathāvidhi_yathāvidhi_  / saṃbhāvayati_sambhāvay_SPr3In"
+  },
+  {
+    "index": 30380,
+    "sanskrit": "dvārāṇi tasyāḥ hi vadanti santo bahu prakārāṇi durāvarāṇi",
+    "english": "The righteous say that there are various kinds of gates, all difficult of being guarded, for giving access to the last kind of prosperity.",
+    "morphology": "dvārāḥ_dvāra_PANe tasyāḥ_tad_SGF hi_hi_ vadanti_vad_PPr3In santaḥ_as_PNPaPrM"
+  },
+  {
+    "index": 30381,
+    "sanskrit": "muniruvāca / tataḥ śrṛṇu tadā sādho tasmiṃstaddhṛdayaujasi / apūrvaṃ eva vṛttāntaḥ ko vṛtto vṛttasaspṛha //",
+    "english": "The sage replied:—Hear me then tell thee, O honest fellow, what then passed in the heart of the person wherein I had entered, and listen to the wondrous tale with proper attention.",
+    "morphology": "muniḥ_muni_SNM uvāca_vac_SPs3In  / tatas_tatas_ śrṛṇu_śru_SPr2Im tadā_tadā_ sādho_sādhu_SVM tasmin_tad_SLNe tad_tad_Cp hṛdaya_hṛdaya_Cp ojasi_ojas_SLNe  / apūrvaḥ_apūrva_SNM eva_eva_ vṛttāntaḥ_vṛttānta_SNM kaḥ_ka_SNM vṛtta"
+  },
+  {
+    "index": 30382,
+    "sanskrit": "vedā me paramam dhāma vedā me brahma ca uttamam",
+    "english": "The Vedas are my great refuge. The Vedas are my high Brahman.",
+    "morphology": "vā_vā_"
+  },
+  {
+    "index": 30383,
+    "sanskrit": "nivartane dhṛta manāḥ paryāvartata bhārata",
+    "english": "Resolved to return, O Bharata, he retraced his steps.",
+    "morphology": "nivartane_nivartana_SLNe dhṛta_dhṛ_Pṛ_PNF"
+  }
+]

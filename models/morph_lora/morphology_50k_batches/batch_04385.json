@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35072,
+    "sanskrit": "ślokāḥ ca caturāśītiḥ proktāḥ vyāsena dhīmatā",
+    "english": "Chapter XVIII 186.",
+    "morphology": "ślokāḥ_śloka_PNM"
+  },
+  {
+    "index": 35073,
+    "sanskrit": "kārmikaviṣamaḥ nirvartanaviṣamaḥ, piṇḍaviṣamaḥ,",
+    "english": "inconsistency in giving charities; incongruity in representing the work turned out; inconsistency in dealing with fixed items;",
+    "morphology": "__kārmika_U __viṣama_U"
+  },
+  {
+    "index": 35074,
+    "sanskrit": "ruci pradāḥ ca eva su durjarāḥ ca sarve smṛtāḥ vaidalikāḥ tu śimbāḥ |",
+    "english": "Raw and unripe pulse beans (Vaidalika Shimvi) produce a condition of extreme parchedness in the system, are long retained in the stomach and but imperfectly digested.",
+    "morphology": "ruci_ruci_FCp pradāḥ_prada_PNM ca_ca_U eva_eva_U su_su_U durjarāḥ_durjara_PNM ca_ca_U sarve_sarva_PNM smṛtāḥ_smṛ_PNPaPsM vaidalikāḥ_vaidalika_PNM tu_tu_U śimbāḥ_śimba_PNM"
+  },
+  {
+    "index": 35075,
+    "sanskrit": "evam astv iti śakras tam uvāca tridaśaiḥ saha /",
+    "english": "The deities along with their king said So be it.",
+    "morphology": "evam_evam_ astu_as_SPr3Im iti_iti_ śakraḥ_śakra_SNM tam_tad_SAM uvāca_vac_SPs3In tridaśaiḥ_tridaśa_PIM saha_saha_"
+  },
+  {
+    "index": 35076,
+    "sanskrit": "bahūni yajña rūpāṇi nānā karma phalāni ca",
+    "english": "Sacrifices are multifarious. Their rites and fruits again are multifarious.",
+    "morphology": "bahūni_bahu_PANe"
+  },
+  {
+    "index": 35077,
+    "sanskrit": "tato visarjanaṃ kāryaṃ bodhaikātmyaprayogataḥ | kṛtvā vā vahnigāṃ mantratṛptiṃ proktavidhānataḥ | dvārapīṭhaguruvrātasamarpitanivedanāt ṛte'nyatsvayamaśnīyādagādhe'mbhasyatha kṣipet |",
+    "english": "This should be followed by the ceremony of sending off the Divine with the sense of oneness with Him or by offering of all to the fire as oblation for the sake of satiation of the mantra as per the instruction of the śāstra. The sanctified food prasāda should be offered to the deity of the door, that of the seat to the group of teachers and the remainder of it should be taken by the disciple himself dropping the rest in any deep reservoir of water.",
+    "morphology": "tatas_tatas_ visarjanam_visarjana_SNNe kāryam_kṛ_SNNeGd bodha_bodha_Cp aikātmya_aikātmya_Cp prayogataḥ_prayoga_SBM  / kṛtvā_kṛ_Co vā_vā_ vahni_vahni_Cp gām_go_SAF mantra_mantra_Cp tṛptim_tṛpti_SAF prokta_pravac_PaCp vidhānataḥ_vidhān"
+  },
+  {
+    "index": 35078,
+    "sanskrit": "trātāram indram avitāram indram have have su havam śūram indram hvayāmi śakram puru hūtam indram svasti naḥ magha vā dhātu indraḥ",
+    "english": "Indra the Rescuer, Indra the Helper, Hero who listens at each invocation, Ṣakra I call, Indra invoked of many. May Indra Maghavan prosper and bless us.",
+    "morphology": "trātāram_trātṛ_SAM indram_indra_SAM avitāram_avitṛ_SAM indram_indra_SAM have_hava_SLM have_hava_SLM su_su_U havam_hava_SAM śūram_śūra_SAM indram_indra_SAM hvayāmi_hvā_SPr1In śakram_śakra_SAM puru_puru_Cp hūtam_hvā_SAPaPsM indram_indra_SAM"
+  },
+  {
+    "index": 35079,
+    "sanskrit": "tataḥ saṃsthāpya talliṃgaṃ devadevasya śūlinaḥ | samyagārādhayāmāsa śraddhayā parayā yutaḥ || 13 ||",
+    "english": "13. He installed the Liṅga of the Trident-bearing Lord of Devas and propitiated it well with the utmost faith.",
+    "morphology": "tatas_tatas_ saṃsthāpya_saṃsthāpay_Co tat_tad_SANe liṃgam_liṅga_SANe devadevasya_devadeva_SGM śūlinaḥ_śūlin_SGM  / samyak_samyak_ ārādhayāmāsa_ārādhay_SPs3InPe śraddhayā_śraddhā_SIF parayā_para_SIF yutaḥ_yuta_SNM"
+  }
+]

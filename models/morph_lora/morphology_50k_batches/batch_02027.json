@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16208,
+    "sanskrit": "pūrve śayyāsana-staraṇa-manāpa-vastrānupradānatayā nirvttam |",
+    "english": "arose through previously being generous with bedding, spreadings and pleasing garments.",
+    "morphology": "pūrve_pūrva_SLM śayyā_śayyā_Cp āsana_āsana_Cp staraṇa_staraṇa_Cp manāpa_manāpa_Cp vastra_vastra_Cp anupradāna_anupradāna_Cp tayā_tā_SIF"
+  },
+  {
+    "index": 16209,
+    "sanskrit": "yameśaṃ ca yamādityaṃ yamena sthāpitaṃ naman | yamatīrthe kṛtasnāno yamalokaṃ na paśyati || 110 ||",
+    "english": "110. One who bows to Yameśa and Yamāditya installed by Yama and takes his holy dip in Yamatīrtha does not see the world of Yama.",
+    "morphology": "yameśam_yameśa_SANe ca_ca_ yama_yama_Cp ādityam_āditya_SANe yamena_yama_SIM sthāpitam_sthāpay_SAPaNe naman_nam_SNPaPrM  / yama_yama_Cp tīrthe_tīrtha_SLNe kṛta_kṛ_PaCp snānaḥ_snāna_SNM yama_yama_Cp lokam_loka_SAM na_na_ paśyati_dṛś_SPr3I"
+  },
+  {
+    "index": 16210,
+    "sanskrit": "eṣa saṃdṛśyate pārthaḥ vāsudeva vyapāśrayaḥ dārayan sarva sainyāni dhārtarāṣṭrāṇi sarvaśas",
+    "english": "There cometh Partha, having Vasudeva for his protector, checking (as he cometh) this entire Dhartarashtra army.",
+    "morphology": "eṣa_etad_SNM saṃdṛśyate_saṃdṛś_SPr3InPv pārthaḥ_pārtha_SNM vāsudeva_vāsudeva_MCp vyapāśrayaḥ_vyapāśraya_SNM dārayan_dāray_SNPaPrM sarva_sarva_Cp sainyāni_sainya_PANe dhārtarāṣṭrāṇi_dhārtarāṣṭra_PANe sarvaśas_sarva"
+  },
+  {
+    "index": 16211,
+    "sanskrit": "na staumi na ca nindāmi yadicchasi tadācara / cūḍālovāca / yadyevaṃ tanmahābāho samākarṇaya manmatam //",
+    "english": "I will neither excite nor prevent, nor praise or blame thee for aught thou doest; but leave thee at thy full liberty, to do whatever thou best choosest for thyself.",
+    "morphology": "na_na_ staumi_stu_SPr1In na_na_ ca_ca_ nindāmi_nind_SPr1In yat_yad_SANe icchasi_iṣ_SPr2In tat_tad_SANe ācara_ācar_SPr2Im  / cūḍālā_cūḍālā_SNF uvāca_vac_SPs3In  / yadi_yadi_ evam_evam_ tat_tad_SANe mahā_mahat_Cp bāho_bāhu_SVM samākarṇa"
+  },
+  {
+    "index": 16212,
+    "sanskrit": "indraḥ | vṛtrāya vajram prāharat sa tredhā vy abhavat sphyas tṛtīyaṃ rathas tṛtīyaṃ yūpas tṛtīyam |",
+    "english": "Indra [1] hurled his bolt at Vrtra; it parted into three, one third the wooden sword, one-third the chariot, one-third the sacrificial post;",
+    "morphology": "indraḥ_indra_SNM  / vṛtrāya_vṛtra_SDM vajram_vajra_SAM prāharat_prahṛ_S3ImIn sa_tad_SNM tredhā_tredhā_ vi_vi_ abhavat_bhū_S3ImIn sphyaḥ_sphya_SNM tṛtīyam_tṛtīya_SNNe rathaḥ_ratha_SNM tṛtīyam_tṛtīya_SNNe yūpaḥ_yūpa_SNM tṛt"
+  },
+  {
+    "index": 16213,
+    "sanskrit": "na kṣutpipāse kālaṃ vā jānāmi sma tadānagha /",
+    "english": "sinless one, did not feel then hunger and thirst nor the progress of time.",
+    "morphology": "na_na_ kṣudh_kṣudh_Cp pipāse_pipāsā_DuAF kālam_kāla_SAM vā_vā_ jānāmi_jñā_SPr1In sma_sma_ tadā_tadā_ anagha_anagha_SVM"
+  },
+  {
+    "index": 16214,
+    "sanskrit": "tauntau vā vipulānekā cakrajātiḥ samīritā /",
+    "english": "Many varieties of the Cakra class have been described.",
+    "morphology": "tauntau_taunta_DuNM vā_vā_ vipula_vipula_Cp anekā_aneka_SNF cakra_cakra_Cp jātiḥ_jāti_SNF samīritā_samīray_SNPaF  /"
+  },
+  {
+    "index": 16215,
+    "sanskrit": "deva avyaḥ naḥ pari sicyamānāḥ kṣayam su vīram dhanvantu somāḥ āyajyavaḥ su matim viśva vārāḥ hotāraḥ na divi yajaḥ mandra tamāḥ",
+    "english": "Effused by us let God-delighting Somas bring as they flow a home with noble heroes. Rich in all boons like priests acquiring favour, the worshippers of heaven, the best of Cheerers.",
+    "morphology": "deva_deva_MCp avyaḥ_avi_PNM naḥ_mad_PD pari_pari_U sicyamānāḥ_sic_PNPaPrMPv kṣayam_kṣaya_SAM su_su_U vīram_vīra_SAM dhanvantu_dhanv_PPr3Im somāḥ_soma_PNM āyajyavaḥ_āyajyu_PNM su_su_U matim_mati_SAF viśva_viśva_Cp vārāḥ_vāra_PNM "
+  }
+]

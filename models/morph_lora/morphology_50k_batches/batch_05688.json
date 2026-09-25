@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45496,
+    "sanskrit": "pāṇi pāda upariṣṭāt tu chidraiḥ bahubhiḥ āvṛtam",
+    "english": "A patient suffering from an attack of Valmika appearing either on his hands or feet and attended with swelling and a large number of cavities should be abandoned by a wise physician.",
+    "morphology": "pāṇi_pāṇi_MCp pāda_pāda_MCp upariṇā_upariṇā_SINe"
+  },
+  {
+    "index": 45497,
+    "sanskrit": "sakhā sakhāyau sakhāyaḥ hesakhe vraja satpatiṃ //",
+    "english": "‘He sakhe! vraja satpatiṃ’ O Friend! go to a good master, Sakhāyaṃ the friend, Sakhāyau the two friends, Sakhīn the friends are accusative forms.",
+    "morphology": "sakhā_sakhi_SNM sakhāyau_sakhi_DuNM sakhāyaḥ_sakhi_PNM he_he_ sakhe_SVM"
+  },
+  {
+    "index": 45498,
+    "sanskrit": "ata eva pramiter na nirālambanatvam //",
+    "english": "The objection, mentioned above, does not hold good.",
+    "morphology": "atas_atas_ eva_ pramiteḥ_pramiti_SGF na_"
+  },
+  {
+    "index": 45499,
+    "sanskrit": "nanu ca santater avastutvāt tasyāmavasthāviśeṣo yo vyavasthāpitaḥ sopyavastveva, tataś ca tatra tasyāṃ santatāvasthāviśeṣe 'vasthāpito 'yaṃ paraloko 'pi napāramārthikaḥ syāt /",
+    "english": "as no such ‘other world’ is postulated by us. An objection is raised “The Chain being a non-entity, any State that is attributed to it must also be a non-entity; under the circumstances, the ‘other world’ based upon such limitation could not be real”.",
+    "morphology": "nanu_nanu_ ca_ca_ santateḥ_saṃtati_SGF avastu_avastu_Cp tvāt_tva_SBNe tasyām_tad_SLF avasthā_avasthā_Cp viśeṣaḥ_viśeṣa_SNM yaḥ_yad_SNM vyavasthāpitaḥ_vyavasthāpay_SNPaM saḥ_tad_SNM upi_api_ avastu_avastu_SNNe eva_eva_ tatas_tatas_ c"
+  },
+  {
+    "index": 45500,
+    "sanskrit": "siṃhāsanāni bhūrīṇi vicitrāṇi ca bhejire",
+    "english": "And those kings with leonine necks and endued with great energy took their seats separately and in pairs upon many elevated seats of beautiful make and colour.",
+    "morphology": "siṃhāsanāni_siṃhāsana_PANe bhūrīḥ_bhūri_PANe"
+  },
+  {
+    "index": 45501,
+    "sanskrit": "śrī nārada uvāca mādhavo mādhave māsi mādhavībhiḥ samākulevṛndāvane samārebhe rāsaṃ rāseśvaraḥ svayam",
+    "english": "Śrī Nārada said: In the month of Mādhava (April May), when Vṛndāvana forest was filled with blossoming mādhavī vines, Lord Kṛṣṇa, the king of the rāsa dance, began the rāsa dance pastime.",
+    "morphology": "śrī_śrī_SNF nāradaḥ_nārada_SNM uvāca_vac_SPs3In mādhavaḥ_mādhava_SNM mādhave_mādhava_SLM māsi_mās_SLM mādhavībhiḥ_mādhavī_PIF samākule_samākula_SLNe vṛndāvane_vṛndāvana_SLNe samārebhe_samārabh_SPs3In rāsam_rāsa_SAM rāse"
+  },
+  {
+    "index": 45502,
+    "sanskrit": "vāmadeva uvāca | jñānaśaktidhara svāminparamānandavigraha | praṇavārthāmṛtaṃ pītaṃ śrīmukhakhjātparisrutam || dṛḍhaprajñaśca jāto'smi saṃdeho vigato mama | kiṃcidanyanmahāsena pṛcchāmi tvāṃ śṛṇu prabho ||",
+    "english": "2-3. O lord endowed with the power of knowledge and of the form of great bliss, I have heard the sweet meaning of Praṇava from your glorious lotus-like mouth and nourished intellect. My doubts have gone. O lord, Mahāsena, I ask you something else. Please listen.",
+    "morphology": "vāmadevaḥ_vāmadeva_SNM uvāca_vac_SPs3In  / jñāna_jñāna_Cp śakti_śakti_Cp dhara_dhara_SVM svāmin_svāmin_SVM paramānanda_paramānanda_Cp vigraha_vigraha_SVM  / praṇava_praṇava_Cp artha_artha_Cp amṛtam_amṛta_SNNe pītam_pā_SNPaNe  / d"
+  },
+  {
+    "index": 45503,
+    "sanskrit": "atrāntare 'tidūrāsu bhrāntvākheṭakabhūmiṣu / vatsarājaścirādāgātsāyaṃ lāvāṇakaṃ punaḥ //",
+    "english": "In the meanwhile the King of Vatsa, who had wandered away into very distant hunting-grounds, returned late in the evening to Lāvāṇaka.",
+    "morphology": "atrā_atra_ antare_antara_SLNe ati_ati_ dūrāsu_dūra_PLF bhrāntvā_bhram_Co ākheṭaka_ākheṭaka_Cp bhūmiṣu_bhūmi_PLF  / vatsa_vatsa_Cp rājaḥ_rāja_SNM cirāt_cirāt_ āgāt_āgā_SPs3In sāyam_sāyam_ lāvāṇakam_lāvāṇaka_SAM punar_puna"
+  }
+]

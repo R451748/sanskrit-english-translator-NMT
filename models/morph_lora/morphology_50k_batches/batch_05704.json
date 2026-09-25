@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45624,
+    "sanskrit": "kāścijjanasahasrāntāḥ patanti vanaparṇavat / karmavātyā paribhrāntā luṭhanti girikukṣiṣu //",
+    "english": "Thousands of living souls, are falling off as fast as the leaves of forest trees; and being borne away by the force of their pursuits, they are rolling about as the fallen leaves wafted by the breeze in the valleys.",
+    "morphology": "kāścid_kaścit_PNF jana_jana_Cp sahasra_sahasra_Cp antāḥ_anta_PNF patanti_pat_PPr3In vana_vana_Cp parṇa_parṇa_Cp vat_vat_  / karma_karman_Cp vātyā_vāti_SIF paribhrāntāḥ_paribhram_PNPaF luṭhanti_luṭh_PPr3In giri_giri_Cp kukṣiṣu_kuk"
+  },
+  {
+    "index": 45625,
+    "sanskrit": "athottasthau sabhā sarvā sarājamunimaṇḍalā / maṇḍalākīrṇaratnaughapariveṣāvṛtānanā //",
+    "english": "Then rose the whole assembly with the king and the assemblage of sages; and the gems and jewels that decked the persons of the princes and people, shed their lustres on the faces of all.",
+    "morphology": "atha_atha_ uttasthau_utthā_SPs3In sabhā_sabhā_SNF sarvā_sarva_SNF sa_sa_ rāja_rājan_Cp muni_muni_Cp maṇḍalā_maṇḍala_SNF  / maṇḍala_maṇḍala_Cp ākīrṇa_ākṛ_PaCp ratna_ratna_Cp ogha_ogha_Cp pariveṣa_pariveṣa_Cp āvṛta_āvṛ"
+  },
+  {
+    "index": 45626,
+    "sanskrit": "abda iti saṃvatsaraparyāyaḥ //3630-",
+    "english": "‘Abda’ is year.’ (3630-3631)",
+    "morphology": "abdaḥ_abda_SNM iti_iti_ saṃvatsara_saṃvatsara_Cp paryāyaḥ_paryāya_SNM  /"
+  },
+  {
+    "index": 45627,
+    "sanskrit": "durgāt sa tāritaḥ dhenvā kṣīranadyām pramodate",
+    "english": "Such a man sports in great felicity.",
+    "morphology": "durgāt_durga_SBNe sa_tad_SNM tāritaḥ_tāray_SNPaPsM dhenvā_dhenu_SIF kṣīranadyām_kṣīranadī_SLF pramodate_pramud_SPr3In"
+  },
+  {
+    "index": 45628,
+    "sanskrit": "tau eva anye samāsādya jagmuḥ vaivasvata kṣayam",
+    "english": "Others, encountering these two proceeded to the abode of Yama.",
+    "morphology": "tau_tad_DuAM eva_eva_U anye_anya_PNM samāsādya_samāsāday_Co jagmuḥ_gam_PPs3In vaivasvata_vaivasvata_MCp kṣayam_kṣaya_SAM"
+  },
+  {
+    "index": 45629,
+    "sanskrit": "śivovāca | patimanveṣayiṣyāmi sarvajñaṃ sakalārthadam | svataṃtraṃ nirvikāraṃ ca jagatāmīśvaraṃ varam || 24 ||",
+    "english": "Śivā said: 24. I am searching for my husband who is omniscient, who bestows all objects, who is independent and devoid of aberrations and who is the most excellent lord of all the worlds.",
+    "morphology": "śivā_śivā_SNF uvāca_vac_SPs3In  / patim_pati_SAM anveṣayiṣyāmi_anveṣay_SFu1In sarvajñam_sarvajña_SAM sakala_sakala_Cp artha_artha_Cp dam_da_SAM  / svataṃtram_svatantra_SAM nirvikāram_nirvikāra_SAM ca_ca_ jagatām_jagant_PGNe īśvaram_ī"
+  },
+  {
+    "index": 45630,
+    "sanskrit": "nipunata etad ucyamānam atigranthavistaram ākṣipatīty uparamyate /",
+    "english": "A full discussion of this subject will prolong our work to an undue length. Hence we stop here.",
+    "morphology": "nipunataḥ_nipū_SGPaPrM etat_etad_SANe ucyamānam_vac_SAPaPrNePv atigrantha_atigrantha_Cp vistaram_vistara_SAM ākṣipati_ākṣip_SPr3In iti_iti_ uparamyate_uparam_SPr3InPv  /"
+  },
+  {
+    "index": 45631,
+    "sanskrit": "śirovirecanam ca eva dhūpanam pūraṇam tathā pramārjanam dhāvanam ca vīkṣya vīkṣya avcārayet",
+    "english": "Errhines, fumigating, filling up the cavity of the ear (as with an ear-drop), cleansing and washing should be employed according to the exigencies of each case.",
+    "morphology": "śirovirecanam_śirovirecana_SANe ca_ca_U eva_eva_U dhūpanam_dhūpana_SANe pūraṇam_pūraṇa_SANe tathā_tathā_U pramārjanam_pramārjana_SANe dhāvanam_dhāvana_SANe ca_ca_U vīkṣya_vīkṣ_Co vīkṣya_vīkṣ_Co avcārayet_avcāray_SPr3O"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49256,
+    "sanskrit": "yadi kāmāt apakāmāt dhṛdayāt jāyate pari / hṛdaḥ balāsam aṅgebhyaḥ bahis niḥ mantrayāmahe /",
+    "english": "If the disease originates from love, from hatred, from the heart, Forth from the heart and from the limbs we charm the wasting malady.",
+    "morphology": "yadi_yadi_U kāmāt_kāma_SBM apakāmāt_apakāma_SBM dhṛdayāt_hṛdaya_SBNe jāyate_jan_SPr3In pari_pari_U  / hṛdaḥ_hṛd_SBNe balāsam_balāsa_SAM aṅgebhyaḥ_aṅga_PBNe bahis_bahis_U niḥ_niḥ_U mantrayāmahe_mantray_PPr1In  /"
+  },
+  {
+    "index": 49257,
+    "sanskrit": "maraṇavyādhiduḥkhārte lobhadveṣavaśīkṛte / dagdhe duścaritaiḥ śocye kaḥ kopaṃ kartumarhati //",
+    "english": "being subject to sorrow, death and sickness, subdued by cupidity and hatred, consumed by his evil actions, is a person to be pitied. Who ought to get angry with such a one?.",
+    "morphology": "maraṇa_maraṇa_Cp vyādhi_vyādhi_Cp duḥkha_duḥkha_Cp ārte_ārta_SLM lobha_lobha_Cp dveṣa_dveṣa_Cp vaśīkṛte_vaśīkṛ_SLPaM  / dagdhe_dah_SLPaM duścaritaiḥ_duścarita_PINe śocye_śuc_SLMGd kaḥ_ka_SNM kopam_kopa_SAM kartum_kṛ_In arh"
+  },
+  {
+    "index": 49258,
+    "sanskrit": "yadetayā pūrvabhave nānnadānādikaṃ kṛtam | kṣutpipāsādibhiḥ kleśaistasmādiha nipīḍyate || 97 ||",
+    "english": "97. In her previous births she had never made any gift of food. Hence in this birth, she suffers from hunger, thirst and the like.",
+    "morphology": "yat_yad_SNNe etayā_etad_SIF pūrva_pūrva_Cp bhave_bhava_SLM na_na_ anna_anna_Cp dāna_dāna_Cp ādikam_ādika_SNNe kṛtam_kṛ_SNPaNe  / kṣudh_kṣudh_Cp pipāsā_pipāsā_Cp ādibhiḥ_ādi_PIM kleśaiḥ_kleśa_PIM tasmāt_tasmāt_ iha_iha_ nipīḍ"
+  },
+  {
+    "index": 49259,
+    "sanskrit": "athavā nirvāṇamantaḥ /",
+    "english": "Or rather the end of suffering is Nirvāṇa.",
+    "morphology": "athavā_athavā_"
+  },
+  {
+    "index": 49260,
+    "sanskrit": "maṃkirvairāgyamāpannastyaktvā grāmaṃ vanaṃ yayau | sa gatvā nirjharaṃ kañcidarbude nṛpasattama || 8 ||",
+    "english": "8. Then O virtuous king! Maṅki embracing non-attachment left for forest giving up his village. He went and began to put up near some waterfall in the Arbuda mountain.",
+    "morphology": "maṃkiḥ_maṅki_SNM vairāgyam_vairāgya_SANe āpannaḥ_āpad_SNPaM tyaktvā_tyaj_Co grāmam_grāma_SAM vanam_vana_SANe yayau_yā_SPs3In  / sa_tad_SNM gatvā_gam_Co nirjharam_nirjhara_SAM kañcid_kaścit_SAM arbude_arbudi_SVM nṛpa_nṛpa_Cp sattama_s"
+  },
+  {
+    "index": 49261,
+    "sanskrit": "tato gaṅgā prabhavati smaraṇāt pāśanāśanī /",
+    "english": "The river Gaṅgā which purifies one by mere remembrance flows from there.",
+    "morphology": "tatas_tatas_ gaṅgā_gaṅgā_SNF prabhavati_prabhū_SPr3In smaraṇāt_smaraṇa_SBNe pāśa_pāśa_Cp nāśanī_nāśana_SNF  /"
+  },
+  {
+    "index": 49262,
+    "sanskrit": "diṣṭam na śakyam vyativartitum vai",
+    "english": "I am unable to transgress my destiny.",
+    "morphology": "diṣṭam_diṣṭa_SNNe"
+  },
+  {
+    "index": 49263,
+    "sanskrit": "tad asya vaidehakavyañjanāḥ śatrumukhyeṣu vikrīṇīran // tataḥ sattriṇaḥ pareṣu grāhayeyuḥ etat paṇyam aripradattam iti //",
+    "english": "Spies, under the garb of merchants, may sell that merchandise to other important enemies and tell them that that merchandise was given to the conqueror by the enemy whose countrys product it is",
+    "morphology": "tat_tad_SANe asya_idam_SGM vaidehaka_vaidehaka_Cp vyañjanāḥ_vyañjana_PNM śatru_śatru_Cp mukhyeṣu_mukhya_PLM vikrīṇīran_vikrī_PPr3O  // tatas_tatas_ sattriṇaḥ_sattrin_PNM pareṣu_para_PLM grāhayeyuḥ_grāhay_PPr3O etat_etad_SNNe paṇya"
+  }
+]

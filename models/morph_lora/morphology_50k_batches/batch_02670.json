@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21352,
+    "sanskrit": "ehi manuḥ deva yuḥ yajña kāmaḥ aram kr̥tya tamasi kṣeṣi agne su gān pathaḥ kr̥ṇuhi deva yānān vaha havyāni su manasyamānaḥ",
+    "english": "Come; man is pious and would fain do worship, he waits prepared: in gloom thou, Agni, dwellest. Make pathways leading God-ward clear and easy, and bear oblations with a kindly spirit.",
+    "morphology": "ehi_e_SPr2Im manuḥ_manu_SNM deva_deva_MCp yuḥ_yu_SNM yajña_yajña_MCp kāmaḥ_kāma_SNM aram_aram_U kr̥tya_krī_Co tamasi_tamas_SLNe kṣeṣi_kṣi_SPr2In agne_agni_SVM su_su_U gān_ga_PAM pathaḥ_pathin_PAM kr̥ṇuhi_kṛ_SPr2Im deva_deva_MCp y"
+  },
+  {
+    "index": 21353,
+    "sanskrit": "na enam duḥśāsanaḥ sūtam na api kaḥ cana sainikaḥ hṛta uttamāṅgam āśu tvāt sahadevena buddhavān",
+    "english": "From the celerity with which that act was accomplished by Sahadeva, neither Duhsasana nor any of the troops knew that the driver's head had been cut off.",
+    "morphology": "na_na_U enam_enad_SAM duḥśāsanaḥ_duḥśāsana_SNM sūtam_sūta_SAM na_na_U api_api_U kaḥ_ka_SNM cana_cana_U sainikaḥ_sainika_SNM hṛta_hṛ_PaPsCp uttamāṅgam_uttamāṅga_SAM āśu_āśu_Cp tvāt_tva_SBNe sahadevena_sahadeva_SIM buddhavān_b"
+  },
+  {
+    "index": 21354,
+    "sanskrit": "caṃdracaṃdanakastūrīkuṃkumairanulepanam || 33 ||",
+    "english": "133-135. The anointing shall be done with camphor, sandal, musk and saffron.",
+    "morphology": "candra_candra_Cp candana_candana_Cp kastūrī_kastūrī_Cp kuṅkumaiḥ_kuṅkuma_PINe __anulepana_SN"
+  },
+  {
+    "index": 21355,
+    "sanskrit": "“anāgataṃ cittamutpadyamānaṃ visucyate aśaikṣamāvaraṇebhya” iti śāstrapāṭhaḥ /",
+    "english": "The Śāstra says, \"The future Aśaikṣa mind is delivered from its obstacle.",
+    "morphology": "anāgatam_anāgata_SNNe cittam_citta_SNNe utpadyamānam_utpad_SNPaPrNe visucyate_visuc_SPr3InPv aśaikṣam_aśaikṣa_SNNe āvaraṇebhyaḥ_āvaraṇa_PBNe iti_iti_ śāstra_śāstra_Cp pāṭhaḥ_pāṭha_SNM  /"
+  },
+  {
+    "index": 21356,
+    "sanskrit": "indrāya soma pātave vr̥tra ghne pari sicyase nare ca dakṣiṇāvate devāya sadana sade",
+    "english": "For Vr̥itra-slaying Indra, thou, Soma, art poured that he may drink, Poured for the guerdon-giving man, poured for the God who sitteth there.",
+    "morphology": "indrāya_indra_SDM soma_soma_SVM pātave_pā_In vr̥tra_vratra_NeCp ghne_han_SDM pari_pari_U sicyase_sic_SPr2InPv nare_nṛ_SDM ca_ca_U dakṣiṇāvate_dakṣiṇāvat_SDM devāya_deva_SDM sadana_sadana_NeCp"
+  },
+  {
+    "index": 21357,
+    "sanskrit": "svāhāprāṇebhyaḥ sādhipatikebhyaḥ / pṛthivyai svāhā / agnaye svāhā / antarikṣe svāhā / vāyave svāhā / dive svāhā / sūryāya svāhā //",
+    "english": "SVÂHÂ to the Vital Breathings with their Controlling Lord! To Earth Svâhâ! To Agni Svâhâ! To Firmament, Svâhâ! To Vâyu Svâhâ! To Sky Svâhâ! To Sûrya Svâhâ! 2",
+    "morphology": "svāhā_svāhā_Cp prāṇebhyaḥ_prāṇa_PDM sa_sa_ ādhipatikebhyaḥ_ādhipatika_PDM  / pṛthivyai_pṛthivī_SDF svāhā_svāhā_  / agnaye_agni_SDM svāhā_svāhā_  / antarikṣe_antarikṣa_SLNe svāhā_svāhā_  / vāyave_vāyu_SDM svāhā_svāh"
+  },
+  {
+    "index": 21358,
+    "sanskrit": "pūrvāṃ gatvā tataḥ pārtha śubhaṃ sthānaṃ vyalokayat | vyāsa saṃsthāpayāmāsa dinanāthaṃ ca susthiram || 45 ||",
+    "english": "45. O Vyāsa, Pārtha then went to the east and found out a splendid spot. He installed Dinanātha (the Sun-god) firmly.",
+    "morphology": "pūrvām_pūrva_SAF gatvā_gam_Co tatas_tatas_ pārtha_pārtha_SVM śubham_śubha_SANe sthānam_sthāna_SANe vyalokayat_vilokay_S3ImIn  / vyāsa_vyāsa_SVM saṃsthāpayāmāsa_saṃsthāpay_SPs3InPe dinanātham_dinanātha_SAM ca_ca_ su_su_ sthiram_sthira_"
+  },
+  {
+    "index": 21359,
+    "sanskrit": "bhaviṣyati ca dharma ātmā sarva śāstra viśāradaḥ",
+    "english": "He shall, however, be virtuous and conversant with the scriptures.",
+    "morphology": "bhaviṣyati_bhū_SFu3In"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34800,
+    "sanskrit": "vimanāḥ ca abhavat yuddhe dṛṣṭvā pārṣatam agratas ṛṣīṇām brahma vādānām svargasya gamanam prati",
+    "english": "Beholding Prishata's son, again, before him, and bearing in mind the words of the Rishis about his leaving the world for heaven, he became cheerless.",
+    "morphology": "vimanāḥ_vimanas_SNM ca_ca_U abhavat_bhū_SPs3In yuddhe_yuddha_SLNe dṛṣṭvā_dṛś_Co pārṣatam_pārṣata_SAM agratas_agratas_U ṛṣīṇām_ṛṣi_PGM brahma_brahman_NeCp vādānām_vāda_PGM svargasya_svarga_SGM gamanam_gamana_SANe prati_pr"
+  },
+  {
+    "index": 34801,
+    "sanskrit": "durlabhā martyalokotthā pūjā brāhmaṇasattama | sā me tava prasādena yathā syāttatsamācara || 53 ||",
+    "english": "53-54. “O excellent Brāhmaṇa, worship in the human world is rare and very difficult to get. Do manage it in such a manner as I can get that with your favour.",
+    "morphology": "durlabhā_durlabha_SNF martya_martya_Cp loka_loka_Cp utthā_uttha_SNF pūjā_pūjā_SNF brāhmaṇa_brāhmaṇa_Cp sattama_sattama_SVM  / sā_tad_SNF me_mad_SG tava_tvad_SG prasādena_prasāda_SIM yathā_yathā_ syāt_as_SPr3O tat_tad_SANe samācara_samāc"
+  },
+  {
+    "index": 34802,
+    "sanskrit": "dakṣiṇāyanaṃ rātriḥ //",
+    "english": "The southern progress of the sun is (with them) a night.",
+    "morphology": "dakṣiṇāyanam_dakṣiṇāyana_SNNe rātriḥ_rātri_SNF  /"
+  },
+  {
+    "index": 34803,
+    "sanskrit": "dhṛṣṇos tu dhārṣṇikaṃ kṣatraṃ raṇadṛṣṭaṃ babhūva ha /",
+    "english": "Dhrishnu's son Dharshtaka and Ranadhrishta became known as Kshatra.",
+    "morphology": "dhṛṣṇoḥ_dhṛṣṇu_SGM tu_tu_ dhārṣṇikam_dhārṣṇika_SNNe kṣatram_kṣatra_SNNe raṇa_raṇa_Cp dṛṣṭam_dṛś_SNPaNe babhūva_bhū_SPs3In ha_ha_  /"
+  },
+  {
+    "index": 34804,
+    "sanskrit": "prayujyamānam ājñāya daiteya astram mahā balaḥ brahmāstreṇa antarā chittvā mumoca anyān patatriṇaḥ",
+    "english": "But cutting into pieces those powerful Daitya weapons shot at him in mid-career by means of his Brahma weapon, Pradyumna discharged winged shafts of other kings.",
+    "morphology": "prayujyamānam_prayuj_SAPaPrNePv ājñāya_ājñā_Co daiteya_daiteya_MCp astram_astra_SANe mahā_mahat_Cp balaḥ_bala_SNM brahmāstreṇa_brahmāstra_SINe antarā_antarā_U chittvā_chid_Co mumoca_muc_SPs3In anyān_anya_PAM patatriṇaḥ_patatrin_PAM"
+  },
+  {
+    "index": 34805,
+    "sanskrit": "śīghra astraḥ citra yodhī ca bhaviṣyasi su saṃmataḥ",
+    "english": "Quick in the use of weapons and a fierce warrior, thou shalt be well-skilled in battle.",
+    "morphology": "śīghra_śīghra_Cp astraḥ_astra_SNM citra_citra_Cp yodhī_yodhin_SNM ca_ca_U bhaviṣyasi_bhū_SFu2In"
+  },
+  {
+    "index": 34806,
+    "sanskrit": "svargastvamapavargastvaṃ tvamoṃkārastvamadhvaraḥ | tvaṃ yogastvaṃ parā saṃvitkiṃ tvaṃ na bhavasīśvara || 15 ||",
+    "english": "15. You are the heaven; you are salvation; you are Oṃkāra; you are Adhvara (‘sacrifice’). You are the Yoga-practice. You are the supreme consciousness, O Īśvara. What is it that you are not?",
+    "morphology": "svargaḥ_svarga_SNM tvam_tvad_SN apavargaḥ_apavarga_SNM tvam_tvad_SN tvam_tvad_SN oṃkāraḥ_oṃkāra_SNM tvam_tvad_SN adhvaraḥ_adhvara_SNM  / tvam_tvad_SN yogaḥ_yoga_SNM tvam_tvad_SN parā_para_SNF saṃvid_saṃvid_SNF kim_ka_SNNe tvam_tvad_SN "
+  },
+  {
+    "index": 34807,
+    "sanskrit": "ayam vaḥ phalgunaḥ bhrātā gāṇḍīvam parama āyudham parityajya vanam yātu na anena arthaḥ asti kaḥ cana",
+    "english": "Let your brother Phalguna proceed to the woods after casting off Gandiva, that high weapon. He has no longer any need of it.",
+    "morphology": "ayam_idam_SNM vaḥ_tvad_PG phalgunaḥ_phalguna_SNM bhrātā_bhrātṛ_SNM gāṇḍīvam_gāṇḍīva_SANe parama_parama_Cp āyudham_āyudha_SANe parityajya_parityaj_Co vanam_vana_SANe yātu_yā_SPr3Im na_na_U anena_idam_SIM arthaḥ_artha_SNM asti_as_S"
+  }
+]

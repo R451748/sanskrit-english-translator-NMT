@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3000,
+    "sanskrit": "sūta uvāca | evaṃ sā mādhavī viprāḥ subhagārūpamāsthitā | avatīrṇā dharāpṛṣṭhe lakṣmīśāpaprapīḍitā || 22 ||",
+    "english": "Sūta said: 22. It was thus that Mādhavī who was afflicted by the curse of Lakṣmī was born on the earth (and later) attained the beautiful form of a Subhagā (a fortunate lady).",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / evam_evam_ sā_tad_SNF mādhavī_mādhavī_SNF viprāḥ_vipra_PVM subhagā_subhagā_Cp rūpam_rūpa_SANe āsthitā_āsthā_SNPaF  / avatīrṇā_avatṛ_SNPaF dharā_dharā_Cp pṛṣṭhe_pṛṣṭha_SLNe lakṣm"
+  },
+  {
+    "index": 3001,
+    "sanskrit": "devasya vacanaṃ śrutvā so'ndhako vimanāḥ sthitaḥ | vṛthā kleśaśca me jāto na kiṃcitsādhitaṃ mayā || 27 || niśvāsaṃ paramaṃ muktvā nipapāta dharātale | mūlacchinno yathā vṛkṣo nirucchvāsastadābhavat || 28 ||",
+    "english": "27-33. On hearing the words of the Lord, Andhaka stood there disappointed and gloomy. He said: “My painful struggles and austerities have become futile. Nothing has been achieved by me.” He took a deep sigh and fell on the ground like a tree the roots of which have been cut. He lay breathless.",
+    "morphology": "devasya_deva_SGM vacanam_vacana_SANe śrutvā_śru_Co saḥ_tad_SNM andhakaḥ_andhaka_SNM vimanāḥ_vimanas_SNM sthitaḥ_sthā_SNPaM  / vṛthak_vṛthak_ kleśaḥ_kleśa_SNM ca_ca_ me_mad_SG jātaḥ_jan_SNPaM na_na_ kiṃcid_kaścit_SNNe sādhitam_s"
+  },
+  {
+    "index": 3002,
+    "sanskrit": "mūlamantrāḥ pṛthakteṣāṃ śeṣaṃ kāryaṃ samānakaṃ //",
+    "english": "Only the principal mantra would be different. The other formalities are the same. ṚV. ...",
+    "morphology": "mūlamantrāḥ_mūlamantra_PNM pṛthak_pṛthak_ teṣām_tad_PGM śeṣaḥ_śeṣa_SNM kārya_kṛ_SNNeGd samānakaḥ_samānaka_SNM  /"
+  },
+  {
+    "index": 3003,
+    "sanskrit": "guroḥ pādopasaṃgrahaṇaṃ prātaḥ /",
+    "english": "When he is given permission, he should sit at the teacher's right facing the east or the north.",
+    "morphology": "guroḥ_guru_SGM pāda_pāda_SNM __pā_PNF "
+  },
+  {
+    "index": 3004,
+    "sanskrit": "yadi śabdārthānāmananyatvaṃ lokavedayorbhavet tata etasyā vyaktyākṛtyabhidhānacintāyā vṛddhavyavahārasthāneka prayogānusaraṇadvāreṇābhidheyānabhidheyatvanirṇayaḥ śakyate kartum saṃmūrchitānekārthasannidhāne hi śabdaḥ prayuktaḥ kiyatyapyartha jāte pratyayaṃ karoti tena cāviviktābhidheyagamyamānāṃśenāpi prathamādhyāyasya tṛtoyaḥ pāda /",
+    "english": "On account of nondifferentiation there is same ness of the object as otherwise there would be no Injunction of performance. From among the four kinds of wordsNouns, Verbs, Prefixes and Nipātas, we take the case of the Nouns and from among Nouns, signi fying the Class, Property, Action, Substance, Names and Pronouns, we take into consideration only those that denote the Olass and from these again, we single out the word Cow as a typical instance, And with regard to this we proceed to consider whether the word denotes the Class or the Individual. But leaving this point aside for a time, to be taken up later, we proceed, with a view to ascertain the character of the means word and consequences signification of Vedic Injunctions, to consider the ques tion as to whether the words used in the Veda, and the meanings signified by them, are the same as those in ordinary parlance, or different? An objection is here raised What would be the use of proving that the words used in the Veda are the same as those in ordinary parlance, that this should be taken up first of all? To this we make the following reply The use of this discussion will be found to appertain to the Vedic words while the means of such discussion and ascertainment is found in the ordinary parlance of the people of the present day and as such it becomes necessary to prove the two to be the same. That is to say, if the words used in the Veda and the sense in which they are there used, be the same as those in ordinary parlance, then alone could it be possible for us to ascertain whether any particular object is denotable by a certain Vedic word or not and this can be done only Individual in accordance with the various usages current among the experienced men of the present day.",
+    "morphology": "yadi_yadi_ śabda_śabda_Cp arthānām_artha_PGM ananya_ananya_Cp tvam_tva_SNNe loka_loka_Cp vedayoḥ_veda_DuGM bhavet_bhū_SPr3O tatas_tatas_ etasyāḥ_etad_SGF vyakti_vyakti_Cp ākṛti_ākṛti_Cp abhidhāna_abhidhāna_Cp cintāyāḥ_cintā_SGF vṛd"
+  },
+  {
+    "index": 3005,
+    "sanskrit": "śrīrāma uvāca / mūḍhasyāsatkulotthasya pravṛttasyādhamasya ca / aprāptayogisaṅgasya kathamuttaraṇaṃ bhavet //",
+    "english": "Rama said:—Now tell me sir, what is the way of the salvation of an ignorant man, of one of a base birth, and addicted to baseness himself; who has never associated with the yogis, nor received any spiritual instruction.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / mūḍhasya_muh_SGPaM asat_asat_Cp kula_kula_Cp utthasya_uttha_SGM pravṛttasya_pravṛt_SGPaM adhamasya_adhama_SGM ca_ca_  / aprāpta_aprāpta_Cp yogi_yogin_Cp saṅgasya_saṅga_SGM"
+  },
+  {
+    "index": 3006,
+    "sanskrit": "daśamī tadadhaścaṇḍā mahācaṇḍā tato'pyadhaḥ | caṇḍakolāhalā cānyā pracaṇḍā caṇḍanāyikā || padmā padmāvatī bhītā bhīmā bhīṣaṇanāyikā | karālā vikarālā ca vajrāviṃśatimā smṛtā ||",
+    "english": "20-21. The tenth beneath the previous is Caṇḍā. Mahācaṇḍā is lower still. Caṇḍakolāhalā is another. Pracaṇḍā, Caṇḍanāyikā, Padmā, Padmāvatī, Bhītā, Bhīmā, Bhīṣaṇanāyikā and Vajrā are terrible, very terrible.",
+    "morphology": "daśamī_daśama_SNF tad_tad_Cp adhas_adhas_ caṇḍā_caṇḍā_SNF mahācaṇḍā_mahācaṇḍā_SNF tatas_tatas_ api_api_ adhas_adhas_  / caṇḍakolāhalā_caṇḍakolāhalā_SNF ca_ca_ anyā_anya_SNF pracaṇḍā_pracaṇḍā_SNF caṇḍanāy"
+  },
+  {
+    "index": 3007,
+    "sanskrit": "yat pāñca janyayā viśā indre ghoṣāḥ asr̥kṣata astr̥ṇāt barhaṇā vipaḥ aryaḥ mānasya saḥ kṣayaḥ",
+    "english": "When the Five Tribes with all their men to Indra have sent out their voice, And when the priest hath strewn much grass, this is the Friend's own dwellingpiace.",
+    "morphology": "yat_yat_U pāñca_pāñcan_Cp janyayā_janya_SIF viśā_viś_SIF indre_indra_SLM ghoṣāḥ_ghoṣa_PNM asr̥kṣata_sṛj_PPs3In astrāṇāt_stṛ_SPs3In barhaṇā_barhaṇā_SIF vipaḥ_vip_PNF aryaḥ_ari_SGM mānasā_māna_SINe sāḥā_sā_SNF"
+  }
+]

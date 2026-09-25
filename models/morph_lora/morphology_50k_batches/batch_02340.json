@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18712,
+    "sanskrit": "ye pṛṣṭhatas te tvarayanti rājan",
+    "english": "Crows, whether stationary or on their wings, utter cries that are agreeable.",
+    "morphology": "ye_yad_PNM"
+  },
+  {
+    "index": 18713,
+    "sanskrit": "tasyābhāvasyaivamapohe sati na vastutā prāpnoti //",
+    "english": "but even though there is ‘Apoha’ of negation, it does not acquire the character of the positive entity.",
+    "morphology": "tasya_tad_SGM abhāvasya_abhāva_SGM evam_evam_ apohe_apoha_SLM sati_as_SLPaPrM na_na_ vastu_vastu_Cp tā_tā_SNF prāpnoti_prāp_SPr3In  /"
+  },
+  {
+    "index": 18714,
+    "sanskrit": "te hatāḥ hanyamānāḥ ca nyagṛhṇan tam ratha uttamam",
+    "english": "Slain, or in the act of being slain, those failed to reach the excellent car.",
+    "morphology": "te_tad_PNM hatāḥ_han_PNPaPsM hanyamānāḥ_han_PNPaPrMPv"
+  },
+  {
+    "index": 18715,
+    "sanskrit": "santaḥ pratiṣṭhā hi sukha cyutānām",
+    "english": "O thou of the prowess of the chief of the celestials, the wise and the virtuous are the support of their brethren in grief.",
+    "morphology": "santaḥ_as_PNPaPrM"
+  },
+  {
+    "index": 18716,
+    "sanskrit": "vāṅgena pāñcadaśyena vyāptīstā hyatideśataḥ / vihitaṃ sāmidheyaṅgaṃ sāptadaśyaṃ na gṛgahate",
+    "english": "And it does not enter into all the Modifications, on the sole strength of the fact of its Injunction not occur ring in the context of any particular sacrifice because in regard to the Modifications other than the Paçu, the Mitravinda, etc., its entrance would be blocked by the prior entrance of the number fifteen as all these would be pervaded by this latter number, on the authority of the Implica tory Injunction and as such they could not take up the seventeen which is laid down only as belonging to the Samidhenis.",
+    "morphology": "vā_vā_ aṅgena_aṅga_SINe pāñcadaśyena_pāñcadaśya_SINe vyāptīḥ_vyāpti_PAF tāḥ_tad_PAF hi_hi_ atideśataḥ_atideśa_SBM  / vihitam_vidhā_SNPaNe sāmidheya_sāmidheya_Cp aṅgam_aṅga_SNNe sāptadaśyam_sāptadaśya_SNNe na_na_ gṛga_g"
+  },
+  {
+    "index": 18717,
+    "sanskrit": "tapovanastho 'pi vṛtaḥ prajābhirjagāma rājā puramaṃbarīṣaḥ | tathā mahīṃ viprakṛtāmanāryaistapovanādetya rarakṣa rāmaḥ ||",
+    "english": "‘The king Ambarīṣa, though he had dwelt in the forest, went back to the city, surrounded by his children; so too Rāma, seeing the earth oppressed by the base, came forth from his hermitage and ruled it again.",
+    "morphology": "tapaḥ_tapas_Cp vana_vana_Cp sthaḥ_stha_SNM api_api_ vṛtaḥ_vṛ_SNPaM prajābhiḥ_prajā_PIF jagāma_gam_SPs3In rājā_rājan_SNM puram_pura_SANe aṃbarīṣaḥ_ambarīṣa_SNM  / tathā_tathā_ mahīm_mahī_SAF viprakṛtām_viprakṛ_SAPaF anā"
+  },
+  {
+    "index": 18718,
+    "sanskrit": "krīl̥anti asya sūnr̥tāḥ āpaḥ na pra vatā yatīḥ ayā dhiyā yaḥ ucyate patiḥ divaḥ",
+    "english": "Sweet strains that glorify him play like waters speeding down a slope, Yea, him who in this song is called the Lord of Heaven;",
+    "morphology": "krīl̥anti_krīl̥_PPr3In asya_idam_SGM sūnr̥tāḥ_sūnr̥tā_PNF āpaḥ_ap_PNF na_na_U pra_pra_U vatā_vat_U yatīḥ_i_PNPaPrF ayā_idam_SIF dhiyā_dhī_SIF yaḥ_yad_SNM ucyate_vac_SPr3InPv patiḥ_pati_SNM divaḥ_div_SGM"
+  },
+  {
+    "index": 18719,
+    "sanskrit": "avidvāṃsam alaṃ loke vidvāṃsam api vā punaḥ / pramadā hy utpathaṃ netuṃ kāmakrodhavaśānugam //",
+    "english": "In this world women are capable op leading astray the ignorant, as well as the learned, who becomes a servile follower of desire and passion.",
+    "morphology": "a_a_ vidvāṃsam_vid_SAPaPsM alam_alam_ loke_loka_SLM vidvāṃsam_vid_SAPaPsM api_api_ vā_vā_ punar_punar_  / pramadāḥ_pramadā_PNF hi_hi_ utpatham_utpatha_SAM netum_nī_In kāma_kāma_Cp krodha_krodha_Cp vaśa_vaśa_Cp anugam_anuga_SAM  /"
+  }
+]

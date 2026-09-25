@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46024,
+    "sanskrit": "kramāt prāpyāṭavīṃ dūrām uktvā taskarajāṃ bhiyam / gṛhītvābharaṇaṃ tasyā bhāryāyāḥ svīcakāra saḥ //",
+    "english": "And in course of time he reached a distant wood, and on the plea that there was danger of robbers he took those ornaments from his wife and got them into his own possession.",
+    "morphology": "kramāt_kramāt_ prāpya_prāp_Co aṭavīm_aṭavī_SAF dūrām_dūra_SAF uktvā_vac_Co taskara_taskara_Cp jām_ja_SAF bhiyam_bhī_SAF  / gṛhītvā_grah_Co ābharaṇam_ābharaṇa_SANe tasyāḥ_tad_SGF bhāryāyāḥ_bhāryā_SGF svīcakāra_svīkṛ_"
+  },
+  {
+    "index": 46025,
+    "sanskrit": "cāturvaṇyādivac ca svārtha eva gośabdāt bhāvapratyayaḥ tvatalādiḥ syāt //",
+    "english": "The suffixes 'tva' 'tal' etc. conveying an abstract property should only signify the meaning of the stem to which they are attached.",
+    "morphology": "cāturvaṇya_cāturvaṇya_Cp ādi_ādi_Cp vat_vat_ ca_ca_ svārthe_svārtha_SLM eva_eva_ go_go_Cp śabdāt_śabda_SBM bhāva_bhāva_Cp pratyayaḥ_pratyaya_SNM tva_tva_Cp tala_tala_Cp ādiḥ_ādi_SNM syāt_as_SPr3O  /"
+  },
+  {
+    "index": 46026,
+    "sanskrit": "yaḥ tu eva tu vijānīte yaḥ bhuṅkte yaḥ ca bhujyate",
+    "english": "He, however, who enjoys it, is said to know it. Kshetrajna being enjoyer, Nature is enjoyed.",
+    "morphology": "yaḥ_yad_SNM tu_tu_U eva_eva_U tu_tu_U vijānīte_vijñā_SPr3In yaḥ_yad_SNM bhuṅkte_bhuj_SPr3In yaḥ_yad_SNM ca_ca_U"
+  },
+  {
+    "index": 46027,
+    "sanskrit": "sa ca tān brāhmaṇān āha dhanī kapa vacaḥ yathā",
+    "english": "Dhanin, coming to them as they sat on the earth, thus delivered to them the message of the Kapas.",
+    "morphology": "sa_tad_SNM ca_ca_U tān_tad_PAM brāhmaṇān_brāhmaṇa_PAM āha_ah_SPs3In dhanī_dhanin_SNM kapa_kapa_MCp vacaḥ_vacas_SANe yathā_yathā_U"
+  },
+  {
+    "index": 46028,
+    "sanskrit": "tau parasparam āsādya yat tau anyonya rakṣaṇe mārjārau iva bhakṣa arthe tatakṣāte muhur muhur",
+    "english": "Both bent upon carefully protecting themselves, as they approached, they repeatedly mangled each other like two cats fighting for a piece of meat.",
+    "morphology": "tau_tad_DuNM parasparam_paraspara_SAM āsādya_āsāday_Co yat_yat_U tau_tad_DuNM anyonya_anyonya_Cp rakṣaṇe_rakṣaṇa_SLNe mārjārau_mārjāra_DuNM iva_iva_U bhakṣa_bhakṣa_MCp arthe_artha_SLM tatakṣāte_takṣ_DuPs3In muhur_muhur_U muhur_muhu"
+  },
+  {
+    "index": 46029,
+    "sanskrit": "parāśara uvāca",
+    "english": "I will explain to you, Maitreya, the subject of your inquiry.",
+    "morphology": "parāśaraḥ_SNM"
+  },
+  {
+    "index": 46030,
+    "sanskrit": "chinnanāsikayā ruṇḍaṃ bodhisattvaṃ nṛpaśriyā / yuktaṃ sadṛśasaṃyogaṃ tadā vidhiradarśayat //",
+    "english": "And in this matter Fate showed a becoming combination, for it united a woman without nose and cars with a man without hands and feet, and a man who was an incarnation of a portion of a Bodhisattva with the splendour of royalty.",
+    "morphology": "chinna_chid_PaCp nāsikayā_nāsikā_SIF ruṇḍam_ruṇḍa_SAM bodhisattvam_bodhisattva_SAM nṛpa_nṛpa_Cp śriyā_śrī_SIF  / yuktam_yuj_SAPaM sadṛśa_sadṛśa_Cp saṃyogam_saṃyoga_SAM tadā_tadā_ vidhiḥ_vidhi_SNM adarśayat_darśay_S3ImIn "
+  },
+  {
+    "index": 46031,
+    "sanskrit": "dṛśyātmakaṃ rūpamekamekamasyaivamakṣayam / svayamevamajaṃ bhāti yanna bhātīva kiṃcana //",
+    "english": "The visible world is of the same form, and equally imperishable as the intellectual; it is the eternal God that manifests himself in this manner, which is otherwise nothing of itself.",
+    "morphology": "dṛśya_dṛś_GdCp ātmakam_ātmaka_SNNe rūpam_rūpa_SNNe ekam_eka_SNNe ekam_eka_SNNe asya_idam_SGM evam_evam_ akṣayam_akṣaya_SNNe  / svayam_svayam_ evam_evam_ ajam_aja_SNNe bhāti_bhā_SPr3In yat_yad_SNNe na_na_ bhāti_bhā_SPr3In iva_iva_ kiṃcan"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12288,
+    "sanskrit": "kaḥ cit mahati saṃsāre vartamānaḥ dvijaḥ kila vanam durgam anuprāptaḥ mahat kravyāda saṃkulam",
+    "english": "A certain brahmana, living in the great world, found himself on one occasion in a large inaccessible forest teeming with beasts of prey.",
+    "morphology": "kaḥ_ka_SNM cit_cit_U mahati_mahat_SLM saṃsāre_saṃsāra_SLM vartamānaḥ_vṛt_SNPaPrM dvijaḥ_dvija_SNM kila_kila_U vanam_vana_SANe durgam_durga_SANe anuprāptaḥ_anuprāp_SNPaPsM mahat_mahat_SANe kravyāda_kravyāda_MCp saṃkulam_saṃkula_SANe"
+  },
+  {
+    "index": 12289,
+    "sanskrit": "yaḥ te madaḥ vareṇyaḥ tena pavasva andhasā deva avīḥ aghaśaṁsa hā",
+    "english": "Flow onward with that juice of thine most excellent, that brings delight, Slaying the wicked, dear to Gods.",
+    "morphology": "yaḥ_yad_SNM te_tvad_SG madaḥ_mada_SNM vareṇyaḥ_vareṇya_SNM tena_tad_SINe pavasva_pū_SPr2Im andhasā_andhas_SINe deva_deva_SVM avīḥ_avī_SNM aghaśaṃsa_aghaśaṃsa_SVM"
+  },
+  {
+    "index": 12290,
+    "sanskrit": "paratragāmikasya te kṛta akṛtasya karmaṇaḥ na sākṣiḥ ātmanā samaḥ nṛṇām iha asti kaḥ cana",
+    "english": "Of men that have gone to the other world, there is no witness, better than the soul, of all act done or undone in life.",
+    "morphology": "paratragāmikasya_paratragāmika_SGNe te_tvad_SG kṛta_kṛ_PaPsCp akṛtasya_akṛta_SGNe karmaṇaḥ_karman_SGNe na_na_U sākṣiḥ_sākṣi_SNM ātmanā_ātman_SIM samaḥ_sama_SNM nṛṇām_nṛ_PGM iha_iha_U asti_as_SPr3In kaḥ_ka_SNM cana_cana_U"
+  },
+  {
+    "index": 12291,
+    "sanskrit": "kaṃsasya ca bhayāt trastaṃ bhavadbhyāṃ ca vinākṛtam /",
+    "english": "Out of Kansa’s fear and your absence his mind is always burning in anxiety.",
+    "morphology": "kaṃsasya_kaṃsa_SGM ca_ca_ bhayāt_bhaya_SBNe trastam_tras_SAPaM bhavadbhyām_bhavat_DuIM ca_ca_ vinākṛtam_vinākṛta_SAM  /"
+  },
+  {
+    "index": 12292,
+    "sanskrit": "vinayaṃ vidyāupadeśena,",
+    "english": "keep up his personal discipline by receiving lessons in the sciences;",
+    "morphology": "vinayam_vinaya_SAM"
+  },
+  {
+    "index": 12293,
+    "sanskrit": "vasantaḥ kusumānīva vedānādāya saṃstutān / līlayā kalpayāmāsa citrasaṃkalpajāḥ prajāḥ //",
+    "english": "He produced the holy Vedas as the spring does its flowers; and formed with ease all varieties of creatures from their archetypes in his mind.",
+    "morphology": "vasantaḥ_vasanta_SNM kusumāni_kusuma_PANe iva_iva_ vedān_veda_PAM ādāya_ādā_Co saṃstutān_saṃstu_PAPaM  / līlayā_līlā_SIF kalpayāmāsa_kalpay_SPs3InPe citra_citra_Cp saṃkalpa_saṃkalpa_Cp jāḥ_ja_PAF prajāḥ_prajā_PAF  /"
+  },
+  {
+    "index": 12294,
+    "sanskrit": "māsā ayāvās |",
+    "english": "with ghee; hail!",
+    "morphology": "mī_mī_SIF"
+  },
+  {
+    "index": 12295,
+    "sanskrit": "lakṣatrayaṃ śmaśrukeśakūpānām //",
+    "english": "Of hair-holes, of the hair of the beard and of the head, there are three hundred thousand.",
+    "morphology": "lakṣa_lakṣa_Cp trayam_traya_SANe śmaśru_śmaśru_Cp keśa_keśa_Cp kūpānām_kūpa_PGM  /"
+  }
+]

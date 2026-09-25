@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46904,
+    "sanskrit": "rudrāṇyāḥ saṃśayaḥ yaḥ ca daṃpatyoḥ tam ca me śṛṇu",
+    "english": "Listen to me as I narrate also PART I the doubt that filled the mind of the spouse of Rudra and that of Rudra himself.",
+    "morphology": "rudrāṇyāḥ_rudrāṇī_SGF saṃśayaḥ_saṃśaya_SNM yaḥ_yad_SNM ca_ca_U daṃpatyoḥ_dampati_DuGM"
+  },
+  {
+    "index": 46905,
+    "sanskrit": "tatra bhārata bhīṣmasya raṇe dṛṣṭvā parākramam ati adbhutam apaśyāma śakrasya iva parākramam",
+    "english": "Beholding, O Bharata, the prowess of Bhishma in that battle, it seemed to us that it was equal to that of Sakra himself.",
+    "morphology": "tatra_tatra_U bhārata_bhārata_SVM bhīṣmasya_bhīṣma_SGM raṇe_raṇa_SLM dṛṣṭvā_dṛś_Co parākramam_parākrama_SAM ati_ati_U adbhutam_adbhuta_SAM apaśyāma_paś_PPs2In śakrasya_śakra_SGM iva_iva_U parākramam_parākrama_SAM"
+  },
+  {
+    "index": 46906,
+    "sanskrit": "na ca bhīṣmaḥ na ca droṇaḥ yuktam tatra āhatuḥ vacaḥ",
+    "english": "Neither Bhishma nor Drona said anything on that subject.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 46907,
+    "sanskrit": "tṛtīyam śakra pādam me tasmāt su nihitam kuru śakraḥ uvāca yasmin devāḥ ca yajñāḥ ca yasmin vedāḥ pratiṣṭhitāḥ",
+    "english": "Do thou, after this, O Sakra, assign a proper place for my third quarter.' \"Sakra said, 'The Vedas, the sacrifices, and the deities are all established in Fire.",
+    "morphology": "tṛtīyam_tṛtīya_SAM śakra_śakra_MCp pādam_pāda_SAM me_mad_SD tasmāt_tasmāt_U su_su_U nihitam_nidhā_SAPaPsM kuru_kṛ_SPr2Im śakraḥ_śakra_SNM uvāca_vac_SPs3In yasmin_yad_SLM devāḥ_deva_PNM ca_ca_U yajñāḥ_yajña_PNM ca_ca_U yasmin_yad"
+  },
+  {
+    "index": 46908,
+    "sanskrit": "brahmovāca | iti śrutvā mama vaco laukikī gatimāśritaḥ | uvāca vihasanrudro mune māṃ bhaktavatsalaḥ || rudra uvāca | gamiṣye bhavatā sārddhaṃ nāradena ca tadgṛham | ahameva jagatsraṣṭastasmāttvaṃ nāradaṃ smara ||",
+    "english": "14. O sage, on hearing these words of mine, Rudra, who is favourably disposed to His devotees, spoke with a smile, strictly adhering to the conventions of the world. 15. I shall go to his house accompanied by you and Nārada. Hence, O creator of the universe, you remember Nārada.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ śrutvā_śru_Co mama_mad_SG vacaḥ_vacas_SANe laukikī_laukikī_SNF gatim_gati_SAF āśritaḥ_āśri_SNPaM  / uvāca_vac_SPs3In vihasan_vihas_SNPaPrM rudraḥ_rudra_SNM mune_muni_SVM mām_mad_SA bhakta_b"
+  },
+  {
+    "index": 46909,
+    "sanskrit": "tam abravīt tadā karṇaḥ vyartham vyāhṛtavān asi",
+    "english": "Then Karna, addressing him, said, \"The words thou hadst uttered were futile.",
+    "morphology": "tam_tad_SAM abravīt_brū_SPs3In tadā_tadā_U"
+  },
+  {
+    "index": 46910,
+    "sanskrit": "sukhitaḥ duḥkhitaḥ vā api naraḥ lobham parityajet avekṣya manasā śāstram buddhyā ca nṛpa sattama",
+    "english": "Even those that are destitute of true knowledge win Renunciation as the consequence of their penances.[1535] Whether in affluent circumstances or miserable, a person should cast off cupidity, reflecting on the scriptures, with the aid of his Mind and understanding, O best of kings.",
+    "morphology": "sukhitaḥ_sukhita_SNM duḥkhitaḥ_duḥkhita_SNM vā_vā_U api_api_U naraḥ_nara_SNM lobham_lobha_SAM parityajet_parityaj_SPr3O avekṣya_avekṣ_Co manasā_manas_SINe śāstram_śāstra_SANe budhhā_budhhā_SIF"
+  },
+  {
+    "index": 46911,
+    "sanskrit": "pralīnān sveṣu iva aṅgeṣu nirāhārān tapodhanān",
+    "english": "And those Rishis were, from want of food, very lean and almost merged in their own bodies.",
+    "morphology": "pralīnān_pralī_PAPaPsM"
+  }
+]

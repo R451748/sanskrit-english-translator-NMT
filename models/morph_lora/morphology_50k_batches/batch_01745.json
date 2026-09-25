@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13952,
+    "sanskrit": "rājā uvāca",
+    "english": "I say unto him that what I gave I gave away.",
+    "morphology": "rājā_rājan_SNM"
+  },
+  {
+    "index": 13953,
+    "sanskrit": "tṛṣṇā 'vidyā matiśca sā //",
+    "english": "Three roots, desire, ignorance, and mat are neutral.",
+    "morphology": "tṛṣṇā_tṛṣṇā_SNF avidyā_avidyā_SNF matiḥ_mati_SNF ca_ca_ sā_tad_SNF  /"
+  },
+  {
+    "index": 13954,
+    "sanskrit": "idamanubhavavaibhavaṃ vicitraṃ duritaharaṃ śivaliṃgamadrirūpam | amalamanabhigamyanāmadheyaṃ varamaruṇādrināyakaṃ bhajasva || 138 ||",
+    "english": "138. Worship this excellent Śivaliṅga in the form of a mountain. His greatness is experienced. He is of a variegated nature. He dispels sins. He is devoid of impurities. He is the excellent Lord of Aruṇādri. His name is inaccessible(?).",
+    "morphology": "idam_idam_SANe anubhava_anubhava_Cp vaibhavam_vaibhava_SANe vicitram_vicitra_SANe durita_durita_Cp haram_hara_SANe śiva_śiva_Cp liṃgam_liṅga_SANe adri_adri_Cp rūpam_rūpa_SANe  / amalam_amala_SANe anabhigamya_anabhigamya_Cp nāmadheyam_nāmadheya_SA"
+  },
+  {
+    "index": 13955,
+    "sanskrit": "dhanadhānyasamṛddho'bhūttathā jīvadhanādhikaḥ | mṛtaḥ pitā mṛtā mātā sa ca bhrātṛvivarjitaḥ || 91 ||",
+    "english": "91. He was rich with wealth and com, and had more wealth than required for living. His father died. His mother died. He was brotherless.",
+    "morphology": "dhana_dhana_Cp dhānya_dhānya_Cp samṛddhaḥ_samṛdh_SNPaM abhūt_bhū_SPs3In tathā_tathā_ jīva_jīva_Cp dhana_dhana_Cp adhikaḥ_adhika_SNM  / mṛtaḥ_mṛ_SNPaM pitā_pitṛ_SNM mṛtā_mṛ_SNPaF mātā_mātṛ_SNF sa_tad_SNM ca_ca_ bhrātṛ_b"
+  },
+  {
+    "index": 13956,
+    "sanskrit": "sāpiṇḍyalakṣaṇaṃ vakṣyate /",
+    "english": "The qualifications of the \"Sapiṇḍa\" shall be described later on.",
+    "morphology": "sāpiṇḍya_sāpiṇḍya_Cp lakṣaṇam_lakṣaṇa_SNNe vakṣyate_vac_SFu3In  /"
+  },
+  {
+    "index": 13957,
+    "sanskrit": "ityuktvā tāṃ svapatnīṃ sa preṣayāmāsa cāśramam | tato devāgrato vipraḥ samādhimagamattadā || 94 ||",
+    "english": "94. After saying this to his wife, he sent her to his own hermitage. Then, the Brāhmaṇa went into a state of concentration in the presence of the Devas,",
+    "morphology": "iti_iti_ uktvā_vac_Co tām_tad_SAF sva_sva_Cp patnīm_patnī_SAF sa_tad_SNM preṣayāmāsa_preṣay_SPs3InPe ca_ca_ āśramam_āśrama_SAM  / tatas_tatas_ deva_deva_Cp agratas_agratas_ vipraḥ_vipra_SNM samādhim_samādhi_SAM agamat_gam_SPs3InTh tadā_t"
+  },
+  {
+    "index": 13958,
+    "sanskrit": "tathā na vidyate 'bhidheyaṃ yasyāsāvanabhidheyo yobhidhāyakas tenānabhidheyatvamanarthakatvād eva siddham /",
+    "english": "Similarly, the apprehension of an inapprehensible object being impossible, inapprehensibility by such apprehension follows as a matter of course.",
+    "morphology": "tathā_tathā_ na_na_ vidyate_vid_SPr3InPv abhidheyam_abhidheya_SNNe yasya_yad_SGNe asau_adas_SNM anabhidheyaḥ_anabhidheya_SNM yaḥ_yad_SNM abhidhāyakaḥ_abhidhāyaka_SNM tena_tad_SIM anabhidheya_anabhidheya_Cp tvam_tva_SNNe anarthaka_anarthaka_Cp tv"
+  },
+  {
+    "index": 13959,
+    "sanskrit": "tatas tejaḥ mayāḥ bāṇāḥ rathāt pārthasya niḥsṛtāḥ",
+    "english": "Those arrows endued with great energy and power, issuing out of Partha's car, were seen to be displayed in the vicinity of Karna's vehicle.",
+    "morphology": "tatas_tatas_U tejaḥ_tejas_NeCp mayāḥ_maya_PNM bāṇāḥ_bāṇa_PNM rathāt_ratha_SBM pārthasya_pārtha_SGM niḥsṛtāḥ_niḥsṛ_PNPaPsM"
+  }
+]

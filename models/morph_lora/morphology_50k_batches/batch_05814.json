@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46504,
+    "sanskrit": "praviśanti yadā grāmamāraṇyā mṛgapakṣiṇaḥ // araṇyaṃ yānti vā grāmyāḥ jalaṃ yānti sthalodbhavāḥ / sthalaṃ vā jalajā yānti rājadvārādike śivāḥ // pradoṣe kukkuṭo vāse śivā cārkodaye bhavet / gṛhaṅkapotaḥ praviśet kravyāhā mūrdhni līyate //",
+    "english": "If wild animals and birds enter village and those of village enter forest land animals enter water and water animals enter land, vixens howl at the threshold of a palace, cocks crow at pradoṣa the time preceding the night fall vixens howl at the residence or at the rising Sun dove enters the house, carnivorous birds stoop down on the head bees make sweet sound crows mate in sight strong arches of palace, garden, doorways, corridor and mansions fall without an obvious cause, it forebodes evil.",
+    "morphology": "praviśanti_praviś_PPr3In yadā_yadā_ grāmam_grāma_SAM āraṇyāḥ_āraṇya_PNM mṛga_mṛga_Cp pakṣiṇaḥ_pakṣin_PNM  / araṇyam_araṇya_SANe yānti_yā_PPr3In vā_vā_ grāmyāḥ_grāmya_PNM jalam_jala_SANe yānti_yā_PPr3In sthala_sthal"
+  },
+  {
+    "index": 46505,
+    "sanskrit": "athavopapātir ananyathāsambhavaḥ /",
+    "english": "Alternatively, the logical possibility is that which is not possible otherwise.",
+    "morphology": "__athavā_U __upapāti_U __ananyathā_U __paPrU"
+  },
+  {
+    "index": 46506,
+    "sanskrit": "athavā sthānaṃ sambhavaḥ asthānaṃ punar asambhavaḥ /",
+    "english": "Alternatively, propriety is equivalent to possibility and impropriety is equivalent to impossibility.",
+    "morphology": "athavā_athavā_ sthānam_sthāna_SNNe sambhavaḥ_sambhava_SNM"
+  },
+  {
+    "index": 46507,
+    "sanskrit": "kauśīdyaṃ pramādaś ca /",
+    "english": "carelessness.",
+    "morphology": "kauśīdyam_kauśīdya_SNNe"
+  },
+  {
+    "index": 46508,
+    "sanskrit": "śruteḥ sambandhasaukaryaṃ na cāsti vyabhicāritetyādi varṇitam tadapohābhyupagame na yuktamityetat pratipādayann āha vidhirūpaścetyādi / vidhirūpaśca śabdārtho yena nābhyupagamyate /",
+    "english": "under this theory, there can be no possibility of the relation of qualification and qualified or of co-ordination, in the case of such verbal expressions as ‘blue-lotus’, which have a mixed connotation; because the ‘exclusion of the non-blue’ does not involve the ‘exclusion of the non-lotus’, nor does the latter involve the former, hence the relation of qualification and qualified is not possible (between the blue colour and the lotus).",
+    "morphology": "śruteḥ_śruti_SGF sambandha_sambandha_Cp saukaryam_saukarya_SNNe na_na_ ca_ca_ asti_as_SPr3In vyabhicāri_vyabhicārin_Cp tā_tā_Cp ityādi_ityādi_SNNe varṇitam_varṇay_SNPaNe tad_tad_Cp apoha_apoha_Cp abhyupagame_abhyupagama_SLM na_na_ yuktam_yuj_"
+  },
+  {
+    "index": 46509,
+    "sanskrit": "itihāsa purāṇeṣu nānā śikṣāsu ca abhibho veda vedāṅga tattva jñāḥ sarvatra kṛta niśramāḥ",
+    "english": "Well-read in history and the Puranas and various branches of learning, and acquainted with the truths of the Vedas and their branches they acquired knowledge, which was versatile and deep.",
+    "morphology": "itihāsa_itihāsa_MCp purāṇeṣu_purāṇa_PLNe nānā_nānā_U śikṣāsu_śikṣā_PLF ca_ca_U abhibho_abhibhu_SVM veda_veda_MCp vedāṅga_vedāṅga_NeCp tattva_tattva_NeCp jñāḥ_jña_PNM"
+  },
+  {
+    "index": 46510,
+    "sanskrit": "kintu idamityaṅgulyā nirdiśyamānaṃ karmatayā yajjñānasya janakaṃ tadālambanamityucyamāne na kaściddoṣaḥ //",
+    "english": "But if it is defined as that which couses an awareness, becomes at the same time the object of such awareness and is referred to by the demonstrativa prohoun 'this', then the definition is free from all defects.",
+    "morphology": "kintu_kiṃtu_ idam_idam_SNNe iti_iti_ aṅgulyā_aṅguli_SIF nirdiśyamānam_nirdiś_SNPaPrNePv karmatayā_karmatā_SIF yat_yad_SNNe jñānasya_jñāna_SGNe janakam_janaka_SNNe tat_tad_SNNe ālambanam_ālambana_SNNe iti_iti_ ucyamāne_vac_SLPaPrNePv na_n"
+  },
+  {
+    "index": 46511,
+    "sanskrit": "pretā jayatā nara indro vaḥ śarma yacchatu / ugrā vaḥ santu bāhavo 'nādhṛṣyā yathāsatha //",
+    "english": "Advance, O heroes, win the day, May Indra be your sure defence!",
+    "morphology": "pra_pra_ ita_i_PPr2Im jayata_ji_PPr2Im naraḥ_nṛ_PVM indraḥ_indra_SNM vaḥ_tvad_PD śarma_śarman_SANe yacchatu_yam_SPr3Im  / ugrāḥ_ugra_PNM vaḥ_tvad_PG santu_as_PPr3Im bāhavaḥ_bāhu_PNM anādhṛṣyāḥ_anādhṛṣya_PNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15544,
+    "sanskrit": "bukkātpukkasakaplīhakṛtakoṣṭhāṅgahṛdvraṇāḥ /",
+    "english": "O Fortunate one! heart, lungs, liver and spleen are formed in due succession.",
+    "morphology": "__bukka_U __pukkasaka_U __plīhan_U __kṛtaka_U __kaḥ_U __pa_U __"
+  },
+  {
+    "index": 15545,
+    "sanskrit": "sainye ca rajasā dhvaste nirmaryādam avartata",
+    "english": "Overwhelmed with the dust raised by the troops, the battle became furious.",
+    "morphology": "sainye_sainya_SLNe ca_ca_ rajasā_rajas_SINe dhvaste_dhvaṃs_SLPaNe nirmaryādam_nirmaryāda_SNNe"
+  },
+  {
+    "index": 15546,
+    "sanskrit": "|| sūta uvāca | ataḥ paraṃ ca ghuśmeśaṃ jyotirliṃgamudāhṛtam | tasyaiva ca sumāhātmyaṃ śrūyatāmṛṣisattamaḥ ||",
+    "english": "1. O excellent sages, the next Jyotirliṅga to be mentioned is Ghuśmeśa. May its greatness be listened to.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / atas_atas_ param_para_SNNe ca_ca_ ghuśmeśam_ghuśmeśa_SNNe jyotirliṃgam_jyotirliṅga_SNNe udāhṛtam_udāhṛ_SNPaNe  / tasya_tad_SGNe eva_eva_ ca_ca_ su_su_ māhātmyam_māhātmya_SNNe śrūyatām_śru_SPr3Im"
+  },
+  {
+    "index": 15547,
+    "sanskrit": "evam vidvān yaḥ vinihanti kāmān",
+    "english": "Ignorance, assuming the form of Yama, cannot devour that learned man who controlled his desires in this manner.",
+    "morphology": "evam_evam_U"
+  },
+  {
+    "index": 15548,
+    "sanskrit": "aurasena balena annam arjayitvā avihiṃsakaḥ yaḥ prayacchati viprebhyaḥ na sa durgāṇi sevate",
+    "english": "That man who, by putting forth his physical strength, earns food without doing any act of injury to any creature, and makes gift of it unto Brahmanas succeeds in avoiding all calamities.",
+    "morphology": "aurasena_aurasa_SINe balena_bala_SINe annam_anna_SANe arjayitvā_arjay_Co avihiṃsakaḥ_avihiṃsaka_SNM yaḥ_yad_SNM prayacchati_prayam_SPr3In viprebhyaḥ_vipra_PDM na_na_U sa_tad_SNM durgāṇi_durga_PANe"
+  },
+  {
+    "index": 15549,
+    "sanskrit": "tat sarvam su kṛtam cūrṇam snehena āloḍya yuktitaḥ",
+    "english": "It should then be burnt, and the patient made to inhale the fumes.",
+    "morphology": "tat_tad_SANe"
+  },
+  {
+    "index": 15550,
+    "sanskrit": "liṃgeprasūtikartāraṃ liṃginaṃ puruṣo yajet | liṃgārthagamakaṃ cihnaṃ liṃgamityabhidhīyate || liṃgamarthaṃ hi puruṣaṃ śivaṃ gamayatītyadaḥ | śivaśaktyośca cihnasya melanaṃ liṃgamucyate ||",
+    "english": "106-107. Persons should worship Śiva, the cause of birth, in his phallic form. That which makes the Puruṣa known, is called Liṅga, the symbol. The unification and fusion of the symbols of Śiva and Śakti is thus called Liṅga.",
+    "morphology": "liṃgeprasūti_liṃgeprasūti_Cp kartāram_kartṛ_SAM liṃginam_liṅgin_SAM puruṣaḥ_puruṣa_SNM yajet_yaj_SPr3O  / liṃga_liṅga_Cp artha_artha_Cp gamakam_gamaka_SNNe cihnam_cihna_SNNe liṃgam_liṅga_SNNe iti_iti_ abhidhīyate_abhidhā_SPr3In"
+  },
+  {
+    "index": 15551,
+    "sanskrit": "teṣāṃ ciṃtayatāmevaṃ duḥkhitānāṃ tapasvinām | uvāca vacanaṃ tatra ṛṣiruddālakastadā || 23 ||",
+    "english": "23. When the ascetics were getting worried as such being sad within themselves, the sage Uddālaka began to speak out.",
+    "morphology": "teṣām_tad_PGM ciṃtayatām_cit_PGPaPrM evam_evam_ duḥkhitānām_duḥkhita_PGM tapasvinām_tapasvin_PGM  / uvāca_vac_SPs3In vacanam_vacana_SANe tatra_tatra_ ṛṣiḥ_ṛṣi_SNM uddālakaḥ_uddālaka_SNM tadā_tadā_"
+  }
+]

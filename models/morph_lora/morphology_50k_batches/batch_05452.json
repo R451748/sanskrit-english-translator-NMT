@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43608,
+    "sanskrit": "sa vanāni vicitrāṇi tīrthāni ca sarāṃsi ca abhigacchan krameṇa sma kam cit munim upasthitaḥ tam sa tena yathoddiṣṭam nāgam vipreṇa brāhmaṇaḥ",
+    "english": "Having dismissed his guest, the righteous Brahmana, resolved to achieve his purpose, took leave of his kinsmen and relatives, and set out in due time for the abode of that foremost of Nagas, with heart steadily directed towards it.'\" SECTION CCCLVII \"Bhishma said, 'Proceeding by many delightful forests and lakes and sacred waters, the Brahmana at last arrived at the retreat of a certain ascetic.",
+    "morphology": "sa_tad_SNM vanāni_vana_PANe vicitrāṇi_vicitra_PANe tīrthāni_tīrtha_PANe ca_ca_U sarāṃsi_saras_PANe ca_ca_U abhigacchan_abhigam_SNPaPrM krameṇa_krameṇa_U sma_sma_U kam_ka_SAM cit_cit_U munim_muni_SAM upasthitaḥ_upasthā_SNPaPsM tam_tad_SAM s"
+  },
+  {
+    "index": 43609,
+    "sanskrit": "kila dvividho vedaḥ śrūyamāṇaḥ anumīyamānaś ca / śrūyamāṇaś ca śrutir ity ucyate /",
+    "english": "There are two types of the Vedas viz. the Vedas which are directly heard and the Vedas which are in- ferred are called Smṛti.",
+    "morphology": "kila_kila_ dvividhaḥ_dvividha_SNM vedaḥ_veda_SNM śrūyamāṇaḥ_śru_SNPaPrMPv anumīyamānaḥ_anumā_SNPaPrMPv ca_ca_  / śrūyamāṇaḥ_śru_SNPaPrMPv ca_ca_ śrutiḥ_śruti_SNF iti_iti_ ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 43610,
+    "sanskrit": "sarvapāpavinirmukto yadyapi syātsupāpakṛt || 85 ||",
+    "english": "Even if he has committed great sins, he shall become rid of all those sins.”",
+    "morphology": "sarva_sarva_Cp pāpa_pāpa_Cp vinirmuktaḥ_vinirmuc_SNPaM yadi_yadi_ api_api_ syāt_as_SPr3O su_su_ pāpa_pāpa_Cp kṛt_kṛt_SNM"
+  },
+  {
+    "index": 43611,
+    "sanskrit": "gaṇaḥ krodhavaśaḥ nāma yaḥ te rājan prakīrtitaḥ tatas saṃjajñire vīrāḥ kṣitau iha narādhipāḥ",
+    "english": "And, O king, from the tribe of Asuras called Krodhavasa, of whom I have already spoken to thee, were born many heroic kings on earth.",
+    "morphology": "gaṇaḥ_gaṇa_SNM krodhavaśaḥ_krodhavaśa_SNM nāma_nāma_U yaḥ_yad_SNM te_tvad_SG rājan_rājan_SVM prakīrtitaḥ_prakīrtay_SNPaPsM tatas_tatas_U saṃjajñire_saṃjan_PPs3In vīrāḥ_vīra_PNM kṣitau_kṣiti_SLF iha_iha_U narādhipāḥ_nar"
+  },
+  {
+    "index": 43612,
+    "sanskrit": "kapota dharmiṇaḥ tasya durbhikṣe sati dāruṇe",
+    "english": "On one occasion, ye Brahmanas, there occurred a dreadful famine in the land.",
+    "morphology": "kapota_kapota_MCp dharmiṇaḥ_dharmin_SGM tasya_tad_SGM durbhikṣe_durbhikṣa_SLNe sati_as_SLPaPrNe dāruṇe_dāruṇa_SLNe"
+  },
+  {
+    "index": 43613,
+    "sanskrit": "uttiṣṭha putra paśya imām duḥkhitām prapitāmahīm",
+    "english": "Rise, O son and behold this thy afflicted great-grandmother.",
+    "morphology": "uttiṣṭha_utthā_SPr2Im"
+  },
+  {
+    "index": 43614,
+    "sanskrit": "śiloñchavṛtter apy evaṃ vidhim icchanti, paṅgvādīnāṃ ca / teṣāṃ hi dārakaraṇaṃ vakṣyati yady arthitā tu dāraiḥ syāt iti /",
+    "english": "Some people regard this verse as enjoining what is to be done by the person living on \"pickings and gleanings,\" as also by the lame and the maimed, That such persons also may marry wives is going to be declared later on in 0.",
+    "morphology": "śila_śila_Cp uñcha_uñcha_Cp vṛtteḥ_vṛtti_SGM api_api_ evam_evam_ vidhim_vidhi_SAM icchanti_iṣ_PPr3In paṅgu_paṅgu_Cp ādīnām_ādi_PGM ca_ca_  / teṣām_tad_PGM hi_hi_ dārakaraṇam_dārakaraṇa_SANe vakṣyati_vac_SFu3In yadi_yadi_ arth"
+  },
+  {
+    "index": 43615,
+    "sanskrit": "niṣkāsitamahājihva nānāmukhavikāradam / śarabhārāḍhyamanyonyaṃ hriyamāṇaśavāṅgakam //",
+    "english": "They stretched their long tongues from their horrid mouths, and licked away the blood exuding from the wounds of the dead bodies.",
+    "morphology": "niṣkāsita_niṣkāsay_PaCp mahā_mahat_Cp jihva_jihvā_SVM nānā_nānā_ mukha_mukha_Cp vikāra_vikāra_Cp dam_da_SNNe  / śara_śara_Cp bhāra_bhāra_Cp āḍhyam_āḍhya_SNNe anyonyam_anyonya_SAM hriyamāṇa_hṛ_PaPrPvCp śava_śava_Cp aṅgakam_a"
+  }
+]

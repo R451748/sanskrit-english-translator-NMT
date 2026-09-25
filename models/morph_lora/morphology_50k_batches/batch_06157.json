@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49248,
+    "sanskrit": "samānodakānām ayaṃ vidhiḥ / tryahaikāhapakṣe ca sapiṇḍānām api /",
+    "english": "This rule refers to Samānodaka relations; and also to Sapiṇḍa ones, but only when the option of three or one day is accepted.",
+    "morphology": "samānodakānām_samānodaka_PGM ayam_idam_SNM vidhiḥ_vidhi_SNM  / tri_tri_Cp aha_aha_Cp eka_eka_Cp aha_aha_Cp pakṣe_pakṣa_SLM ca_ca_ sapiṇḍānām_sapiṇḍa_PGM"
+  },
+  {
+    "index": 49249,
+    "sanskrit": "evaṃ muhūrtamardhaṃ vā dhyāyed yaḥ śraddhayā hariṃ / sopi yāṃ gatimāpnoti na tāṃ sarvair mahāmakhaiḥ //",
+    "english": "The position which one attains by contemplating lord Hari with faith for a moment or half in this manner, could not be got by performing all great sacrificial rites.",
+    "morphology": "evam_evam_ muhūrtam_muhūrta_SANe ardham_ardha_SANe vā_vā_ dhyāyet_dhyā_SPr3O yaḥ_yad_SNM śraddhayā_śraddhā_SIF harim_hari_SAM  / saḥ_tad_SNM upi_api_ yām_yad_SAF gatim_gati_SAF āpnoti_āp_SPr3In na_na_ tām_tad_SAF sarvaiḥ_sarva_PIM mahā"
+  },
+  {
+    "index": 49250,
+    "sanskrit": "śrī nārada uvāca nalakūvara maṇigrīvau rāja rāja sutau paraujagmatur nandana vanaṃ mandākinyās taṭe sthitau",
+    "english": "Śrī Nārada said: They were the two demigods Nalakūvara and Maṇigrīva, the two demigod sons of the great king (Kuvera). (One day) they both went to the Nandana forest by the shore of the celestial Ganges.",
+    "morphology": "śrī_śrī_SNF nāradaḥ_nārada_SNM uvāca_vac_SPs3In nalakūbara_nalakūbara_SVM maṇigrīvau_maṇigrīva_DuNM rāja_rājan_SVM rāja_rājan_SVM sutau_suta_DuNM parau_para_DuNM jagmatuḥ_gam_DuPs3In nandana_nandana_SVM vanam_vana_SANe"
+  },
+  {
+    "index": 49251,
+    "sanskrit": "ye tu vijñāninaste'tra dvedhā kampretaratvataḥ | tatra ye kampravijñānāste dehānte śivāḥ sphuṭam |",
+    "english": "- As regards the destiny of the knowledgeable ones, they are of two kinds as per Tantrāloka their motivation by the kind of Force they are motivated by. If they know the secret of the Force, they become one with Śiva without any doubt following their demise.",
+    "morphology": "ye_yad_PNM tu_tu_ vijñāninaḥ_vijñānin_PNM te_tad_PNM atra_atra_ dvedhā_dvedhā_ kampra_kampra_Cp itara_itara_Cp tvataḥ_tva_SBNe  / tatra_tatra_ ye_yad_PNM kampra_kampra_Cp vijñānāḥ_vijñāna_PNM te_tad_PNM dehānte_dehānta_SLM __śiva_U __ā"
+  },
+  {
+    "index": 49252,
+    "sanskrit": "parvatīyāni tīrthāni bhaviṣyaṃti na cānyathā | śivālayāni divyāni divyānyāyatanāni ca || 88 ||",
+    "english": "88. All mountain regions will become holy spots and not otherwise. They will become divine temples of Śiva and other holy shrines.",
+    "morphology": "parvatīyāni_parvatīya_PNNe tīrthāni_tīrtha_PNNe bhaviṣyanti_bhū_PFu3In na_na_ ca_ca_ anyathā_anyathā_  / śiva_śiva_Cp ālayāni_ālaya_PNNe divyāni_divya_PNNe divyāni_divya_PNNe āyatanāni_āyatana_PNNe ca_ca_"
+  },
+  {
+    "index": 49253,
+    "sanskrit": "atha mithyaiva sāvocattvayāhaṃ mālayā yadā / abhyāhatā tadāpaśyaṃ kṛṣṇaṃ puruṣamāgatam // pāśahastaṃ jvalannetraṃ prāṃśumūrdhvaśiroruham / bhayānakaṃ nijacchāyāmalinīkṛtadiktaṭam //",
+    "english": "Then the Yakṣa, her husband, said to her: “What have you seen?” Then she told the following invented story:— “When you struck me with the garland, I saw a black man come, with a noose in his hand, with flaming eyes, tall, with upstanding hair, terrible, darkening the whole horizon with his shadow.",
+    "morphology": "atha_atha_ mithyā_mithyā_ eva_eva_ sā_tad_SNF avocat_vac_SPs3InTh tvayā_tvad_SI aham_mad_SN mālayā_mālā_SIF yadā_yadā_  / abhyāhatā_abhyāhan_SNPaF tadā_tadā_ apaśyam_paś_S1ImIn kṛṣṇam_kṛṣṇa_SAM puruṣam_puruṣa_SAM āgatam_ā"
+  },
+  {
+    "index": 49254,
+    "sanskrit": "tathā ca śṛṇu devāhaṃ tatkathāṃ kathayāmi te / ity uktvā gomukho mahyamimāmakathayatkathām //",
+    "english": "I will tell you the story of that couple.’ When Gomukha had said this, he told me the following tale.",
+    "morphology": "tathā_tathā_ ca_ca_ śṛṇu_śru_SPr2Im deva_deva_SVM aham_mad_SN tad_tad_Cp kathām_kathā_SAF kathayāmi_kathay_SPr1In te_tvad_SG  / iti_iti_ uktvā_vac_Co gomukhaḥ_gomukha_SNM mahyam_mad_SD imām_idam_SAF akathayat_kathay_S3ImIn kathām_kathā_SAF"
+  },
+  {
+    "index": 49255,
+    "sanskrit": "sāmānyavivakṣā cātrānyapadārthe draṣṭavyā tena ṭāb na bhavati /",
+    "english": "The feminine affix ‘ṭāp’ is not added at the end of the compound, because it is intended to be a common factor.",
+    "morphology": "sāmānya_sāmānya_Cp vivakṣā_vivakṣā_SNF ca_ca_ atra_atra_ anya_anya_Cp padārthe_padārtha_SLM draṣṭavyā_dṛś_SNFGd tena_tena_"
+  }
+]

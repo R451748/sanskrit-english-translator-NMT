@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19600,
+    "sanskrit": "gāyano yo gītena jīvati /",
+    "english": "\"Singer,\" Who lives by singing.",
+    "morphology": "gāyanaḥ_gāyana_SNM yaḥ_yad_SNM gītena_gīta_SINe jīvati_"
+  },
+  {
+    "index": 19601,
+    "sanskrit": "darśanānām param jñānam saṃtoṣaḥ paramam sukham",
+    "english": "knowledge is the foremost of all objects of search; and contentment is the foremost of all happiness.",
+    "morphology": "darśanānām_darśana_PGNe param_para_SNNe jñānam_jñāna_SNNe saṃtoṣaḥ_saṃtoṣa_SNM paramam_parama_SNNe sukham_sukha_SNNe"
+  },
+  {
+    "index": 19602,
+    "sanskrit": "nirvraṇaḥ api ca moktavyaḥ eṣa dharmaḥ sanātanaḥ",
+    "english": "This is the eternal duty.",
+    "morphology": "nirvraṇaḥ_nirvraṇa_SNM api_api_U ca_ca_U moktavyaḥ_muc_SNMGd"
+  },
+  {
+    "index": 19603,
+    "sanskrit": "rāṣṭre kim cakratuḥ vīrau vāsudeva dhanaṃjayau vaiśampāyanaḥ uvāca vijite pāṇḍaveyaiḥ tu praśānte ca viśām pate",
+    "english": "SECTION XV Janamejaya said, 'O the best of regenerate beings, when the Pandavas had reconquered and pacified their kingdom, what did the two warriors, Vasudeva and Dhananjaya do? Vaisampayana said, 'O lord of the earth, Vasudeva and Dhananjaya were highly pleased when the Pandavas had succeeded in regaining and pacifying their dominions, and they deported themselves with great satisfaction, like unto Indra and his consort in the celestial regions, and amidst picturesque woodland sceneries, and tablelands of mountains, and sacred places of pilgrimage, and lakes and rivers, they travelled with great pleasure like the two Aswins in the Nandana garden of Indra.",
+    "morphology": "rāṣṭre_rāṣṭra_SLNe kim_ka_SANe cakratuḥ_kṛ_DuPs3In vīrau_vīra_DuNM vāsudeva_vāsudeva_MCp dhanaṃjayau_dhanaṃjaya_DuNM vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In vijite_viji_SLPaPsNe pāṇḍaveyaiḥ_pāṇḍaveya_SVM tu_"
+  },
+  {
+    "index": 19604,
+    "sanskrit": "padma patra nibhaiḥ ca aśvaiḥ mallikākṣaiḥ alaṃkṛtaiḥ śikhaṇḍī kṣatradevaḥ ca svayam pratvarayan yayau",
+    "english": "Kshatradeva, the son of Sikhandin, himself urging well-decked steeds of the hue of lotus-leaves and with eyes of pure white, proceeded (against Drona).",
+    "morphology": "padma_padma_MCp patra_pattra_NeCp nibhaiḥ_nibha_PIM ca_ca_U aśvaiḥ_aśva_PIM mallikākṣaiḥ_mallikākṣa_PIM alaṃkṛtaiḥ_alaṃkṛ_PIPaPsM śikhaṇḍī_śikhaṇḍin_SNM kṣatradevaḥ_kṣatradeva_SNM ca_ca_U svayam_svayam_U pratvarayan"
+  },
+  {
+    "index": 19605,
+    "sanskrit": "puṣpaṃ patraṃ svamānena samidhāṃ tu daśāṅgulaṃ /",
+    "english": "The oblations of flowers and leaves should be according to their own measure. The sacrificial twigs should measure ten fingers in length.",
+    "morphology": "puṣpam_puṣpa_SNNe patram_pattra_SNNe sva_sva_Cp mānena_māna_SINe samidhām_samidh_PGF tu_tu_ daśa_daśan_Cp aṅgulam_aṅgula_SNNe  /"
+  },
+  {
+    "index": 19606,
+    "sanskrit": "mantrāścākamakaraṇāstadvat",
+    "english": "Sūtra The Mantras also, that are not instrumental in the performance of any actions, are like the Desire.",
+    "morphology": "mantrāḥ_mantra_PNM ca_ca_ a_a_ kama_kama_Cp karaṇāḥ_karaṇa_PNM tadvat_tadvat_"
+  },
+  {
+    "index": 19607,
+    "sanskrit": "āhrīkyaṃ katamat avadyena svayamalajjā",
+    "english": "And what is lack of shame? It is a lack of internal shame at offences one has committed.",
+    "morphology": "āhrīkyam_āhrīkya_SNNe katamat_katama_SNNe avadyena_avadya_SINe svayam_svayam_ alajjā_alajjā_SNF"
+  }
+]

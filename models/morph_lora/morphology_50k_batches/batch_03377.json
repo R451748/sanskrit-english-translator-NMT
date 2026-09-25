@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27008,
+    "sanskrit": "viparyaye bādhakapramāṇābhāvāt /",
+    "english": "as there is no valid reason for precluding the contrary conclusion;",
+    "morphology": "viparyaye_U __U __U __U __U"
+  },
+  {
+    "index": 27009,
+    "sanskrit": "nāvartate padāvṛttau vācyamāvartate padam //",
+    "english": "In the repetition of a word, a word is repeated and not the sense.",
+    "morphology": "na_na_ āvartate_āvṛt_SPr3In pada_pada_Cp āvṛttau_āvṛtti_SLF vācyam_vac_SNNeGd āvartate_āvṛt_SPr3In padam_pada_SNNe  /"
+  },
+  {
+    "index": 27010,
+    "sanskrit": "idaṃ karma ktaṃ copacitaṃ ca |",
+    "english": "This is the deed that is accumulated when done.",
+    "morphology": "idam_idam_SNNe"
+  },
+  {
+    "index": 27011,
+    "sanskrit": "aṃtaḥsthitaṃ rakṣatu śaṃkaro māṃ sthāṇuḥ sadā pātu bahiḥsthitaṃ mām | tadaṃtare pātu patiḥ paśūnāṃ sadā śivo rakṣatu māṃ samaṃtāt || 21 ||",
+    "english": "21. Let Śaṅkara protect me when I stay within; let Sthāṇu always protect me when I stay outside; let the Lord of Paśus protect me in between and let Sadāśiva protect me all around.",
+    "morphology": "antar_antar_ sthitam_sthā_SAPaM rakṣatu_rakṣ_SPr3Im śaṃkaraḥ_śaṃkara_SNM mām_mad_SA sthāṇuḥ_sthāṇu_SNM sadā_sadā_ pātu_pā_SPr3Im bahis_bahis_ sthitam_sthā_SAPaM mām_mad_SA  / tad_tad_Cp antare_antara_SLNe pātu_pā_SPr3Im pati"
+  },
+  {
+    "index": 27012,
+    "sanskrit": "na ca teṣāṃ kim api kāryāntaram asti yena te ekatām adhigaccheyuḥ //",
+    "english": "Concepts have no distinct part to play so that they may make the impression that they are the same.",
+    "morphology": "na_na_ ca_ca_ teṣām_tad_PGM kim_ka_SNNe api_api_ kārya_kārya_Cp antaram_antara_SNNe asti_as_SPr3In yena_yad_SINe te_tad_PNM ekatām_ekatā_SAF adhigaccheyuḥ_adhigam_PPr3O  /"
+  },
+  {
+    "index": 27013,
+    "sanskrit": "kadācitparighasyābhūdavarṣaṃ maṇḍale mahat / kalpānta iva saṃsāre prajāduṣkṛtadoṣajam //",
+    "english": "It happened at one time, that a great drought occurred in the land of Suraghu, and it was attended by a famine, resembling the final desolation of the earth, brought on by the sins of men.",
+    "morphology": "kadācid_kadācid_ parighasya_parigha_SGM abhūt_bhū_SPs3In avarṣam_avarṣa_SNNe maṇḍale_maṇḍala_SLM mahat_mahat_SNNe  / kalpa_kalpa_Cp ante_anta_SLM iva_iva_ saṃsāre_saṃsāra_SLM prajā_prajā_Cp duṣkṛta_duṣkṛta_Cp doṣa_doṣa_C"
+  },
+  {
+    "index": 27014,
+    "sanskrit": "tāṃ ca haṃsāvalīṃ tatra praviṣṭāḥ svamahattarāḥ / prātarantaḥpure 'drākṣuryuktāṃ saṃbhogalakṣaṇaiḥ //",
+    "english": "“And when the chamberlains belonging to Haṃsāvalī entered her chamber the next morning, they saw that her lover had been with her.",
+    "morphology": "tām_tad_SAF ca_ca_ haṃsa_haṃsa_Cp āvalīm_āvali_SAF tatra_tatra_ praviṣṭāḥ_praviś_PNPaM sva_sva_Cp mahattarāḥ_mahattara_PNM  / prātar_prātar_ antaḥpure_antaḥpura_SLNe adrākṣuḥ_dṛś_PPs3InFs yuktām_yuj_SAPaF saṃbhoga_sambho"
+  },
+  {
+    "index": 27015,
+    "sanskrit": "udbhidaḥ trikramaḥ vaidyaḥ virajaḥ virajombaraḥ",
+    "english": "Thou art he who covers the three worlds with three steps of his.",
+    "morphology": "udbhidaḥ_udbhida_SNM trikramaḥ_trikrama_SNM vaidyaḥ_vaidya_SNM virajaḥ_viraja_SNM virajombaraḥ_virajombara_SNM"
+  }
+]

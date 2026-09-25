@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17424,
+    "sanskrit": "ṛṣaya ūcuḥ | kṣayaṃ yadukule yāte bhāre copahṛte bhuvaḥ | prabhāse yādavaśreṣṭhaḥ svasthānamagamaddhariḥ || 9 || dvārāvatyā plāvitāyāṃ samaṃtātsāgareṇa hi | kathaṃ sa bhagavāṃstatra kalau daitya prakīrtyate || 10 || kathayasva suraśreṣṭha kathaṃ viṣṇurmahītale | sthitaścānarttaviṣaya etadvistarato vada || 11 ||",
+    "english": "9-11. The sages said, “When the Yadu dynasty met with its downfall, then the best of the Yadu, i.e. Kṛṣṇa had rescued the earth from its resultant burden and had then left for his own place, i.e. Prabhāsa. When flooded by sea, Dvārāvat got washed away. So how could God’s name be used to be taken with all glory there in the Kaliyuga? How could Viṣṇu stay back in this region on earth’s surface evoking adoration of people? Tell us in details.”",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / kṣayam_kṣaya_SAM yadu_yadu_Cp kule_kula_SLNe yāte_yā_SLPaNe bhāre_bhāra_SLM ca_ca_ upahṛte_upahṛ_SLPaM bhuvaḥ_bhū_SGF  / prabhāse_prabhāsa_SLM yādava_yādava_Cp śreṣṭhaḥ_śreṣṭha_S"
+  },
+  {
+    "index": 17425,
+    "sanskrit": "tāni catvāri marmāṇi |",
+    "english": "An injury to any of the four Sringataka-Marmas[48] which forms the junction of the four Shiras (nerves), (branches of the facial artery) and soothes the nose, the eyes, the ears and the tongue, proves fatal within the day.",
+    "morphology": "tāni_tad_PNNe"
+  },
+  {
+    "index": 17426,
+    "sanskrit": "tatra vṛttāntamāvedya bhāryāṃ putraṃ ca so 'bhyadhāt / nyakkāraikaparo 'smākaṃ kīdṛśaḥ paśyataṃ vidhiḥ //",
+    "english": "There he told what had taken place, and said to his wife and son: “Observe how exclusively bent on humiliating us Fortune is.",
+    "morphology": "tatra_tatra_ vṛttāntam_vṛttānta_SAM āvedya_āveday_Co bhāryām_bhāryā_SAF putram_putra_SAM ca_ca_ saḥ_tad_SNM abhyadhāt_abhidhā_SPs3In  / nyakkāra_nyakkāra_Cp eka_eka_Cp paraḥ_para_SNM asmākam_mad_PG kīdṛśaḥ_kīdṛśa_SNM paśyata"
+  },
+  {
+    "index": 17427,
+    "sanskrit": "akāmaṃ vānirvāsyaḥ // /",
+    "english": "In the case of the offence being unintentional, he may not be banished.",
+    "morphology": "akāmam_akāma_SAM"
+  },
+  {
+    "index": 17428,
+    "sanskrit": "evam eva kāśyapa jñāna utpanne'jñānaṃ vigacchati na khalu punaḥ kāśyapa jñānasyaivaṃ bhavaty aham ajñānaṃ vidhamāmīti /",
+    "english": "Similarly, O Kaśyapa, when direct intuition arises, nescience vanishes and by no means, O Käsyapa, does direct intuition have this thought I can disperse nescience.",
+    "morphology": "evam_evam_ eva_eva_ kāśyapa_kāśyapa_SVM jñāne_jñāna_SLNe utpanne_utpad_SLPaNe ajñānam_ajñāna_SNNe vigacchati_vigam_SPr3In na_na_ khalu_khalu_ punar_punar_ kāśyapa_kāśyapa_SVM jñānasya_jñāna_SGNe evam_evam_ bhavati_bhū_SPr3In aham_mad_S"
+  },
+  {
+    "index": 17429,
+    "sanskrit": "śūdrāyāṃ gamane kṣatriyavaiśyayoḥ sāhasro daṇḍaḥ / sahasram eva sāhasram, svārthiko 'ṇ /",
+    "english": "For approaching a Śūdra woman, the Kṣatriya and the \"Vaiśya should be fined one hundred. \"Sāhasra\" is the same as \"Sahasra,\" the affix \"aṇ\" having the reflexiveforce.",
+    "morphology": "śūdrāyām_śūdrā_SLF gamane_gamana_SLNe kṣatriya_kṣatriya_Cp vaiśyayoḥ_vaiśya_DuGM sāhasraḥ_sāhasra_SNM daṇḍaḥ_daṇḍa_SNM  / sahasra_sahasra_SNNe eva_eva_ sāhasram_sāhasra_SNNe svārthikaḥ_svārthika_SNM"
+  },
+  {
+    "index": 17430,
+    "sanskrit": "ātmā hi ekaḥ sukha duḥkhasya vettā",
+    "english": "One's own self it is that enjoys or suffers one's happiness or misery.",
+    "morphology": "ā_ā_U"
+  },
+  {
+    "index": 17431,
+    "sanskrit": "pānaṃ pānīyaṃ caauṣadhena vyākhyātam //",
+    "english": "The same rule shall apply to liquor and other beverages",
+    "morphology": "pānam_pāna_SNNe pānīyam_pānīya_SNNe ca_ca_ auṣadhena_auṣadha_SINe"
+  }
+]

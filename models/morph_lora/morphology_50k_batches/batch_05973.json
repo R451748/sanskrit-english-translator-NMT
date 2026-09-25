@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47776,
+    "sanskrit": "agne ni pāhi naḥ tvam prati sma deva riṣataḥ bhindhi dveṣaḥ sahaḥ kr̥ta",
+    "english": "O Agni, be our Guardian thou, God, against those who injure us: Destroy our foes, thou Son of Strength.",
+    "morphology": "agne_agni_SVM ni_ni_U pāhi_pā_SPr2Im naḥ_mad_PA tvam_tvad_SN prati_prati_U sma_sma_U deva_deva_SVM riṣataḥ_riṣ_PAPaPsM bhindhi_bhid_SPr2Im dveṣaḥ_dveṣas_SANe sahaḥ_sahas_SANe krāta_kṛ_SVPaPsM"
+  },
+  {
+    "index": 47777,
+    "sanskrit": "tathāvidhasya dharmiṇo 'siddhatvāt //2310 // atheti /",
+    "english": "Kamalaśila says, this represents the view of the Śikṣā that ‘the Śabda consists of Air and is inexpressive’;",
+    "morphology": "tathāvidhasya_tathāvidha_SGM dharmiṇaḥ_dharmin_SGM asiddha_asiddha_Cp tvāt_tva_SBNe  //2310  // atha_"
+  },
+  {
+    "index": 47778,
+    "sanskrit": "jaṃbudvīpādhipaḥ ṣaṅbhiścakravartī ca saptabhiḥ | vidhivatparvatairdattaireta dāha pitāmahaḥ || 452 ||",
+    "english": "452. Through six gifts one becomes the Lord of Jaṃbūdvīpa and through seven gifts an emperor. This is the outcome of gifting the mountains in accordance with injunctions. Pitāmaha said so.",
+    "morphology": "jaṃbudvīpa_jambudvīpa_Cp adhipaḥ_adhipa_SNM ṣaṅbhiḥ_ṣaṣ_PIM cakravartī_cakravartin_SNM ca_ca_ saptabhiḥ_saptan_PIM  / vidhivat_vidhivat_ parvataiḥ_parvata_PIM dattaiḥ_dā_PIPaM eta_e_PPr2Im dāha_dah_SPs3In pitāmahaḥ_pitāmaha_SNM"
+  },
+  {
+    "index": 47779,
+    "sanskrit": "pratyahaṃ dvādaśaśilāḥ śālagrāmasya yo'rcayet | dvāravatyāḥ śilāyuktaḥ sa vaikuṃṭhe mahīyate || 65 ||",
+    "english": "65. He who worships everyday twelve stones of Śālagrāma and Dvārāvatīcakra[3] stones(?) is honoured in Vaikuṇṭha.",
+    "morphology": "pratyaham_pratyaham_ dvādaśa_dvādaśan_Cp śilāḥ_śilā_PAF śālagrāmasya_śālagrāma_SGM yaḥ_yad_SNM arcayet_arcay_SPr3O  / dvāravatyāḥ_dvāravatī_SGF śilā_śilā_Cp yuktaḥ_yuj_SNPaM sa_tad_SNM vaikuṇṭhe_vaikuṇṭha_SLM mahīyate"
+  },
+  {
+    "index": 47780,
+    "sanskrit": "mucyet ārtaḥ tathā rogāt śrutvā imām āditas kathām",
+    "english": "A sick person, by listening to this narrative from the beginning, becomes freed from his illness.",
+    "morphology": "mucyet_muc_SPr3O ārtaḥ_ārta_SNM tathā_tathā_U rogāt_roga_SBM śrutvā_śru_Co"
+  },
+  {
+    "index": 47781,
+    "sanskrit": "tataḥ kimityāha dṛṣṭam ityādi / dṛṣṭam iti /",
+    "english": "What if it is so? ‘It has been found, etc. etc.’ ‘Found’ in scriptures and also in common experience;",
+    "morphology": "tatas_tatas_ kim_ka_SNNe iti_iti_ āha_ah_SPs3In dṛṣṭam_dṛś_SNPaNe ityādi_ityādi_SNNe  / dṛṣṭam_dṛś_SNPaNe iti_iti_  /"
+  },
+  {
+    "index": 47782,
+    "sanskrit": "ahiṃsā paramaḥ dharmaḥ sa ca satye pratiṣṭhitaḥ",
+    "english": "Of these, that latter is a cardinal virtue, and is based on truth.",
+    "morphology": "ahiṃsā_ahiṃsā_SNF paramaḥ_parama_SNM dharmaḥ_dharma_SNM sa_tad_SNM ca_ca_U satye_satya_SLNe pratiṣṭhitaḥ_pratiṣṭhā_SNPaPsM"
+  },
+  {
+    "index": 47783,
+    "sanskrit": "ayatnopanate'pyakṣi padārtheṣu yathā punaḥ / nīrāgameva patati tadvatkāryeṣu dhīradhīḥ //",
+    "english": "As our eye-sight falls indifferently on all objects about us, so doth the wise man look unconcernedly upon all things and transactions of life.",
+    "morphology": "ayatna_ayatna_Cp upanate_upanam_SNPaNe api_api_ akṣi_akṣi_SNNe padārtheṣu_padārtha_PLM yathā_yathā_ punar_punar_  / nīrāgam_nīrāga_SNNe eva_eva_ patati_pat_SPr3In tadvat_tadvat_ kāryeṣu_kārya_PLNe dhīra_dhīra_Cp dhīḥ_dhī_SNM  /"
+  }
+]

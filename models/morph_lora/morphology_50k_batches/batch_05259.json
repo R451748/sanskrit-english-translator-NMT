@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42064,
+    "sanskrit": "mahādharmaikajananaṃ mahārthapratipādakam | kāraṇaṃ sarvakāmāpteḥ kāśīkhaṃḍamidaṃ smṛtam || 16 ||",
+    "english": "116. This Kāśīkhaṇḍa is known as the sole cause of great Dharmas, the expounder of great truths and the cause of the acquisition of all desires.",
+    "morphology": "__mahādharma_U __eka_U __janana_U __mahārtha_U __pratipādaka_U  / __kāraṇa_U sarva_sarva_U __kāma_U __āpti_U __kāśīkhaṇḍa_U __idam_U __smṛ_PaU __"
+  },
+  {
+    "index": 42065,
+    "sanskrit": "ataḥ paramṛcaḥ sapta vāyvādyā yāḥ prakīrtitāḥ //",
+    "english": "Then the seven ṛks hymns known as Vāyu etc.",
+    "morphology": "atas_atas_ param_param_ ṛcaḥ_ṛc_PNF sapta_saptan_SNNe vāyu_vāyu_Cp ādyāḥ_ādya_PNF yāḥ_yad_PNF prakīrtitāḥ_prakīrtay_PNPaF  /"
+  },
+  {
+    "index": 42066,
+    "sanskrit": "śatabhuji bhiḥ tam abhi hruteḥ aghāt pūḥ bhiḥ rakṣata marutaḥ yam āvata janam yam ugrāḥ tavasaḥ vi rapśinaḥ pāthana śaṁsāt tanayasya puṣṭiṣu",
+    "english": "With castles hundredfold, O Maruts, guard ye well the man whom ye have loved from ruin and from sin,– The man whom ye the fierce, the Mighty ones who roar, preserve from calumny by cherishing his seed.",
+    "morphology": "śatabhuji_śatabhuji_PIM bhiḥ_bhiḥ_U tam_tad_SAM abhi_abhi_U hruteḥ_hruti_SBF aghāt_agha_SBNe pūḥ_pur_PIF bhiḥ_bhiḥ_U rakṣata_rakṣ_PPr2Im marutaḥ_marut_PVM yam_yad_SAM āvata_av_PPs2In janam_jana_SAM yam_yad_SAM ugrāḥ_ugra_PNM tavas"
+  },
+  {
+    "index": 42067,
+    "sanskrit": "sarpāḥ ca bhasmasāt nītāḥ gatāḥ ca padavīm pituḥ",
+    "english": "The snakes have been consumed into ashes and have PART I followed the footsteps of thy sire.",
+    "morphology": "sarpāḥ_sarpa_PNM ca_ca_U bhasmasāt_bhasmasāt_U nītāḥ_nī_PNPaPsM"
+  },
+  {
+    "index": 42068,
+    "sanskrit": "pari ṇayati |",
+    "english": "(verily it serves) for prosperity.",
+    "morphology": "pari_"
+  },
+  {
+    "index": 42069,
+    "sanskrit": "ayam apavādo nimittaviśeṣe bhaikṣavṛttyupadeśasya /",
+    "english": "This verse provides an exception, under certain conditions, to the rules regarding subsisting on alms.",
+    "morphology": "ayam_idam_SNM apavādaḥ_apavāda_SNM nimitta_nimitta_Cp viśeṣe_viśeṣa_SLM bhaikṣa_bhaikṣa_Cp vṛtti_vṛtti_Cp upadeśasya_upadeśa_SGM"
+  },
+  {
+    "index": 42070,
+    "sanskrit": "sūryodayamanuprāpya prācyāṃ śuṣkatarūpari | karaṭo rāraṭītyeṣa kaṭūtkaṭa bhayapradaḥ || 27 ||",
+    "english": "27. At sunrise the crow has perched itself on the top of a dried-up tree in the East and begins to crow harshly making others very much afraid.",
+    "morphology": "sūrya_sūrya_Cp udayam_udaya_SAM anuprāpya_anuprāp_Co prācyām_prācī_SLF śuṣka_śuṣka_Cp taru_taru_Cp upari_upari_  / karaṭaḥ_karaṭa_SNM rāraṭī_rāraṭ_SPr3In iti_iti_ eṣa_etad_SNM kaṭu_kaṭu_Cp utkaṭa_utkaṭa_SVM bhaya_bhaya_"
+  },
+  {
+    "index": 42071,
+    "sanskrit": "guṇavantam ca yaḥ dveṣṭi tam āhuḥ puruṣa adhamam",
+    "english": "That wrathful wretch of every good quality, is regarded as the vilest of men.",
+    "morphology": "guṇavantam_guṇavat_SAM ca_ca_U yaḥ_yad_SNM dveṣṭi_dviṣ_SPr3In tam_tad_SAM āhuḥ_ah_PPs3In puruṣa_puruṣa_MCp adhamam_adhama_SAM"
+  }
+]

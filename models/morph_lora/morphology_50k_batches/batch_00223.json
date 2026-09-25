@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1776,
+    "sanskrit": "raso mānasī tṛṣṇā /",
+    "english": "Rasa means mental thirst i.e. the strong desire for the house etc. remains.",
+    "morphology": "rasaḥ_rasa_SNM"
+  },
+  {
+    "index": 1777,
+    "sanskrit": "śrutiḥ ca api aparā deva putrān hi pitaraḥ ayajan",
+    "english": "On one occasion, the deities, who were sires, taught their children the Srutis.",
+    "morphology": "śrutiḥ_śruti_SNF ca_ca_U api_api_U aparā_apara_SNF deva_deva_MCp putrān_putra_PAM hi_hi_U pitaraḥ_pitṛ_PNM ayajan_yaj_PPs3In"
+  },
+  {
+    "index": 1778,
+    "sanskrit": "vyāsadarśanāt tu bhojayitur ayaṃ doṣo na bhoktuḥ /",
+    "english": "According to Vyāsa\" s view, the evil result accrues to the person offering the focal, and not to the eater, nor to the ancestors.",
+    "morphology": "vyāsa_vyāsa_Cp darśanāt_darśana_SBNe tu_tu_ bhojayituḥ_bhojayitṛ_SGM ayam_idam_SNM doṣaḥ_doṣa_SNM na_na_ bhoktuḥ_bhoktṛ_SGM  /"
+  },
+  {
+    "index": 1779,
+    "sanskrit": "yadvā pratyekamubhayaviṣayatve doṣadvayam āpatati //",
+    "english": "Or both being taken as referring to both, there are two objectionable features.",
+    "morphology": "yat_yat_ vā_vā_ pratyekam_pratyeka_SNNe ubhaya_ubhaya_Cp viṣaya_viṣaya_Cp tve_tva_SLNe doṣa_doṣa_Cp dvayam_dvaya_SNNe āpatati_āpat_SPr3In  /"
+  },
+  {
+    "index": 1780,
+    "sanskrit": "vyatiṣajyante prajayā paśubhir ya evaṃ vidvāṃsa etā āsate |",
+    "english": "Those who knowing thus perform (the rite of) these (nights) have both offspring and cattle.",
+    "morphology": "vyatiṣajyante_vyatiṣañj_PPr3InPv prajayā_prajā_SIF paśubhiḥ_paśu_PIM ye_yad_PNM evam_evam_ vidvāṃsaḥ_vid_PNPaPsM etāḥ_etad_PNF āsate_ās_PPr3In  /"
+  },
+  {
+    "index": 1781,
+    "sanskrit": "bhūrbhuvaḥ svaritīreśa pūjanaṃ parikīrtitam | gāyatryā pūjayeddevamoṃkāreṇābhimaṃtritam || 47 ||",
+    "english": "47. The worship of Īśa is proclaimed with the utterance of bhūḥ bhuvaḥ svaḥ After consecrating with Oṃkāra the devotee should worship the Lord by means of Gāyatrī Mantra.",
+    "morphology": "bhūḥ_bhū_SNF bhuvaḥ_bhū_PNF svar_svar_ iti_iti_ tīra_tīra_Cp īśa_īśa_SVM pūjanam_pūjana_SNNe parikīrtitam_parikīrtay_SNPaNe  / gāyatryā_gāyatrī_SIF pūjayet_pūjay_SPr3O devam_deva_SAM oṃkāreṇa_oṃkāra_SIM abhimaṃtritam_abhima"
+  },
+  {
+    "index": 1782,
+    "sanskrit": "itthaṃ stuvaṃtaste devāstejomaṇḍalamāsthitam | dadṛśurgaganaṃ tatra jvālāvyāptadigaṃtaram || 23 ||",
+    "english": "23. Even as those Devas were eulogizing thus, they saw a mass of splendour spreading in the firmament. Flames spread in all the quarters and the intervening spaces.",
+    "morphology": "ittham_ittham_ stuvantaḥ_stu_PNPaPrM te_tad_PNM devāḥ_deva_PNM tejaḥ_tejas_Cp maṇḍalam_maṇḍala_SANe āsthitam_āsthā_SAPaNe  / dadṛśuḥ_dṛś_PPs3In gaganam_gagana_SANe tatra_tatra_ jvālā_jvālā_Cp vyāpta_vyāp_PaCp digaṃtaram_di"
+  },
+  {
+    "index": 1783,
+    "sanskrit": "garbham dhāraya kalyāṇi devarasya mahātmanaḥ putram janaya suśroṇi devarāja sama prabham",
+    "english": "O thou of fair hips, bring thou forth a child equal in splendour unto the chief of the celestials.",
+    "morphology": "garbham_garbha_SAM dhāraya_dhāray_SPr2Im kalyāṇi_kalyāṇa_SVF devarasya_devara_SGM mahātmanaḥ_mahātman_SGM putram_putra_SAM janaya_janay_SPr2Im suśroṇi_suśroṇī_SVF devarāja_devarāja_MCp sama_sama_Cp prabham_prabhā_SAM"
+  }
+]

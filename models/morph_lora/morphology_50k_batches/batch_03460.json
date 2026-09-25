@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27672,
+    "sanskrit": "pravekṣyati mahātmānam viduraḥ ca yudhiṣṭhiram",
+    "english": "Vidura will enter into the high-souled Yudhishthira.",
+    "morphology": "pravekṣyati_praviś_SFu3In mahātmānam_mahātman_SAM viduraḥ_vidura_SNM ca_ca_U yudhiṣṭhiram_yudhiṣṭhira_SAM"
+  },
+  {
+    "index": 27673,
+    "sanskrit": "annaṃ vāva balādbhūyaḥ / balahetutvāt /",
+    "english": "Food indeed is greater than Power,because it is the source of Power",
+    "morphology": "annam_anna_SNNe vāva_vāva_ balāt_bala_SBNe bhūyaḥ_bhūyas_SNNe  / bala_bala_Cp hetu_hetu_Cp tvāt_tva_SBNe"
+  },
+  {
+    "index": 27674,
+    "sanskrit": "pārtha pārṣatayoḥ ca anye jagṛhuḥ tatra nāmanī",
+    "english": "Many amongst them challenged the two Pandava heroes, mentioning their names.",
+    "morphology": "pārtha_pārtha_MCp pārṣatayoḥ_pārṣata_DuGM ca_ca_U anye_anya_PNM"
+  },
+  {
+    "index": 27675,
+    "sanskrit": "śrīrāma uvāca / sarve śrṛṇuta bhadraṃ vo niścayena suniścitam / ātmajñānātparaṃ nāsti gurorapi ca tadvidaḥ //",
+    "english": "Rama said:—May ye all prosper, and know the most certain truth to which I have arrived; that there is nothing better than the knowledge of the self, and none superior to the preceptor from whom it is derived.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / sarve_sarva_PNM śrṛṇuta_śru_PPr2Im bhadram_bhadra_SNNe vaḥ_tvad_PG niścayena_niścaya_SIM su_su_ niścitam_niści_SNPaNe  / ātma_ātman_Cp jñānāt_jñāna_SBNe param_para_SNNe na_na_ asti_a"
+  },
+  {
+    "index": 27676,
+    "sanskrit": "vasiṣṭha uvāca / tāmevāryāṃ paṭhantī sā tathaivānunayānvitā / matsamīpe nabhodehā vyomni devīva saṃsthitā //",
+    "english": "Vasishtha replied:—That aerial damsel of aeriform body, that recited in the arya metre; advanced courteously towards me, and sat herself beside me in the air.",
+    "morphology": "vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / tām_tad_SAF eva_eva_ āryām_ārya_SAF paṭhantī_paṭh_SNPaPrF sā_tad_SNF tathā_tathā_ eva_eva_ anunaya_anunaya_Cp anvitā_anvita_SNF  / mad_mad_Cp samīpe_samīpa_SLNe nabhaḥ_nabhas_Cp dehā_d"
+  },
+  {
+    "index": 27677,
+    "sanskrit": "diśaḥ vicarataḥ tasya sarvāḥ ca pradiśaḥ tathā raṇe abhimanyoḥ kruddhasya rūpam antaradhīyata",
+    "english": "When Abhimanyu angrily careered over the field of battle in all directions, his very form became invisible.",
+    "morphology": "diśaḥ_diś_PAF vicarataḥ_vicar_SGPaPrM tasya_tad_SGM sarvāḥ_sarva_PAF ca_ca_U pradiśaḥ_pradiś_PAF tathā_tathā_U raṇe_raṇa_SLM abhimanyoḥ_abhimanyu_SGM kruddhasya_krudh_SGPaPsM rūpam_rūpa_SNNe antaradhīyata_antardhā_SPs3InPv"
+  },
+  {
+    "index": 27678,
+    "sanskrit": "samāropitoarghaḥ,",
+    "english": "price of commodities enhanced;",
+    "morphology": "samāropitaḥ_samāropay_SNPaM"
+  },
+  {
+    "index": 27679,
+    "sanskrit": "dvāraṃ praveśāya surālayasya saṃsāradurgottaraṇāya setuḥ // atha saudāsaḥ sādhu yuktamityabhipraṇamyainaṃ savismayamabhivīkṣamāṇaḥ punaruvāca-",
+    "english": "It is the entrance-door of the abode of the Celestials, the bridge to cross the swamps of Samsāra. Then the son of Sudāsa exclaimed: Excellent! right! and bowing to him and casting an admiring look on him, said again:.",
+    "morphology": "dvāram_dvāra_SNNe praveśāya_praveśa_SDM surālayasya_surālaya_SGM saṃsāra_saṃsāra_Cp durga_durga_Cp uttaraṇāya_uttaraṇa_SDNe setuḥ_setu_SNM  // atha_atha_ saudāsaḥ_saudāsa_SNM sādhu_sādhu_SNNe yuktam_yuj_SNPaNe iti_iti_ abhipraṇa"
+  }
+]

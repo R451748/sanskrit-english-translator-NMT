@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47520,
+    "sanskrit": "ubhāv api hi tau dharmau nanu ca ko bhedas tatra dharmāv ity asmād etasya /",
+    "english": "\"Both have bent proclaimed to be Dharma\" What is the difference between this statement and the former one,\"both are Dharma\" ?",
+    "morphology": "ubhau_ubh_DuNM api_api_ hi_hi_ tau_tad_DuNM dharmau_dharma_DuNM nanu_nanu_ ca_ca_ kaḥ_ka_SNM bhedaḥ_bheda_SNM tatra_tatra_ dharmau_dharma_DuNM iti_iti_ asmāt_idam_SBM etasya_etad_SGM  /"
+  },
+  {
+    "index": 47521,
+    "sanskrit": "hastyaśvarathasaṃhrādāḥ śaṃkhabherīsvanāstathā | abhavansiṃhanādāśca senayorubhayostadā || 21 ||",
+    "english": "21. Then a tumultuous sound arose from both the armies inclusive of the trumpeting of elephants, the neighing sounds of horses, the rumblings of chariots, the sounds of conchs and Bherī drums and leonine roars of warriors.",
+    "morphology": "hasti_hastin_Cp aśva_aśva_Cp ratha_ratha_Cp saṃhrādāḥ_saṃhrāda_PNM śaṃkha_śaṅkha_Cp bherī_bherī_Cp svanāḥ_svana_PNM tathā_tathā_  / abhavan_bhū_P3ImIn siṃhanādāḥ_siṃhanāda_PNM ca_ca_ senayoḥ_senā_DuGF ubhayoḥ_ubhaya_D"
+  },
+  {
+    "index": 47522,
+    "sanskrit": "mūlamavidyetyāsravaḥ pṛthak //",
+    "english": "Ignoraṇce is the root: it is thus said to constitute a separate cankerous influence.",
+    "morphology": "mūlam_mūla_SNNe avidyā_avidyā_SNF iti_iti_ āsravaḥ_āsrava_SNM pṛthak_pṛthak_"
+  },
+  {
+    "index": 47523,
+    "sanskrit": "etaddhi kāraṇaṃ proktaṃ yuṣmākaṃ ca kathaṃcana | kṣutpipāsodbhavaṃ raudraṃ yuṣmābhiryadudīritam || 43 ||",
+    "english": "43. This is the reason cited for the unbearable sufferings of yours arising from hunger and thirst as said by you now.",
+    "morphology": "etat_etad_SNNe hi_hi_ kāraṇam_kāraṇa_SNNe proktam_pravac_SNPaNe yuṣmākam_tvad_PG ca_ca_ kathaṃcana_kathaṃcana_  / kṣudh_kṣudh_Cp pipāsā_pipāsā_Cp udbhavam_udbhava_SNNe raudram_raudra_SNNe yuṣmābhiḥ_tvad_PI yat_yad_SNNe udīritam_u"
+  },
+  {
+    "index": 47524,
+    "sanskrit": "śākānyetāni varjyāni kramātpratipadādiṣu | evameva hi māghe'pi kuryyācca niyamānvratī || 55 ||",
+    "english": "55b-56. In this manner in Māgha too the devotee should maintain the various pious observances.",
+    "morphology": "śākāni_śāka_PNNe etāni_etad_PNNe varjyāni_varjay_PNNeGd kramāt_kramāt_ pratipad_pratipad_Cp ādiṣu_ādi_PLM  / evam_evam_ eva_eva_ hi_hi_ māghe_māgha_SLM api_api_ kuryāt_kṛ_SPr3O ca_ca_ niyamān_niyama_PAM vratī_vratin_SNM  /"
+  },
+  {
+    "index": 47525,
+    "sanskrit": "indram id dharī vahato 'pratidhṛṣṭaśavasam / ṛṣīṇāṃ ca stutīr upa yajñaṃ ca mānuṣāṇām //",
+    "english": "His pair of tawny Coursers bring Indra of unresisted might Hither to Rishis’ songs of praise and sacrifice performed by men. Taken upon a base, etc., as in 33",
+    "morphology": "indram_indra_SAM id_id_ harī_hari_DuNM vahataḥ_vah_DuPr3In a_a_ pratidhṛṣṭa_pratidhṛṣ_PaCp śavasam_śavas_SAM  / ṛṣīṇām_ṛṣi_PGM ca_ca_ stutīḥ_stuti_PAF upa_upa_ yajñam_yajña_SAM ca_ca_ mānuṣāṇām_mānuṣa_PGM  /"
+  },
+  {
+    "index": 47526,
+    "sanskrit": "atriḥ vasiṣṭhaḥ atha bhṛguḥ pulastyaḥ pulahaḥ kratuḥ",
+    "english": "Amongst them were Atri and Vasishtha and Bhrigu and Pulastya and Pulaha and Kratu.",
+    "morphology": "atriḥ_atri_SNM vasiṣṭhaḥ_vasiṣṭha_SNM atha_atha_U bhṛguḥ_bhṛgu_SNM pulastyaḥ_pulastya_SNM pulahaḥ_pulaha_SNM kratuḥ_kratu_SNM"
+  },
+  {
+    "index": 47527,
+    "sanskrit": "iti rājñām caturviṃśat nāradena sura ṛṣiṇā putra śoka abhitaptāya purā śaibyāya kīrtitāḥ",
+    "english": "These twenty-four Rajas were formerly spoken of by the celestial Rishi Narada unto Saivya when much afflicted for the loss of his children.",
+    "morphology": "iti_iti_U rājñām_rājan_PGM caturviṃśat_caturviṃśat_SNF nāradena_nārada_SIM sura_sura_MCp ṛṣiṇā_ṛṣi_SIM putra_putra_MCp śoka_śoka_MCp abhitaptāya_abhitap_SDPaPsM purā_purā_U śaibyāya_śaibya_SDM kīrtitāḥ_kīrtay_PNPaPsF"
+  }
+]

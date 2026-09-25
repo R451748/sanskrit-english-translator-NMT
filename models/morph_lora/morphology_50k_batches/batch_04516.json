@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36120,
+    "sanskrit": "brāhmaṇā ūcuḥ | dāsyāmahe baliṃ devi yaste manasi vartate | asmākaṃ caiva dampatyo rakṣārthaṃ tvaṃ sthirā bhava || 29 ||",
+    "english": "The Brāhmaṇas said: 129. O goddess, we shall give oblations of whatever you may think of. Stay on here for the protection of our couples. The goddess said:",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM ūcuḥ_vac_PPs3In  / dāsyāmahe_dā_PFu1In balim_bali_SAM devi_devī_SVF yaḥ_yad_SNM te_tvad_SG manasi_manas_SLNe vartate_vṛt_SPr3In  / asmākam_mad_PG ca_ca_ eva_eva_ dampatyaḥ_dampati_PNM rakṣā_rakṣā_Cp artha"
+  },
+  {
+    "index": 36121,
+    "sanskrit": "apsaṃvartanyāstṛtīyaṃ dhyānaṃ śīrṣa bhavatyadhaḥ klidyate /",
+    "english": "the Third Dhyāna is the limit of the destruction by water: everything below it is dissolved;",
+    "morphology": "ap_ap_Cp saṃvartanyāḥ_saṃvartanī_SGF tṛtīyam_tṛtīya_SNNe dhyānam_dhyāna_SNNe"
+  },
+  {
+    "index": 36122,
+    "sanskrit": "svāna bhrājāṅghare bambhāre hasta suhasta kṛśānavete vaḥ somakrayaṇāstānrakṣadhvam mā vo dabhanniti dhiṣṇyānāṃ vā ete bhājanenaitāni vai dhiṣṇyānāṃ nāmāni tānyevaibhya etadanvadikṣata // athātrāporṇute /",
+    "english": "Thereupon he (the sacrificer) assigns (to the Gandharvas) the objects constituting the purchase price for the Soma, with the text, 'O Svâna, Bhrâga, Aṅghâri, Bambhâri, Hasta, Suhasta, Krisânu! these are your wages for Soma: keep them! may they not fail you!' Now those (Gandharvas) are instead of the hearth-mounds--these being the names of the hearth-mounds--it is these very (names) that he thereby has assigned to them .",
+    "morphology": "svāna_svāna_SVM bhrāja_bhrāja_Cp aṅghare_aṅghari_SVM bambhāre_bambhāri_SVM hasta_hasta_SVM suhasta_suhasta_SVM kṛśāno_kṛśānu_SVM ete_etad_PNM vaḥ_tvad_PA soma_soma_Cp krayaṇāḥ_krayaṇa_PVM tān_tad_PAM rakṣadhvam_rakṣ_PPr2Im m"
+  },
+  {
+    "index": 36123,
+    "sanskrit": "| vyāsa uvāca | nāgatīrthaṃ tvayā brahmanpurā proktaṃ yaśasvinā | tasya tīrthavarasyā'pi mahimānaṃ ca sattama || 1 || bhūyastu śrotumicchāmi tvatto brahmavidāṃ vara | kiyatkāle samākhyātametadvistarato vada || 2 ||",
+    "english": "1-2. O holy Sir, earlier the Nāga Tīrtha was referred to by your renowned good self. I wish to hear further the greatness of that Tīrtha also from you, O most excellent one among those who know Brahman. At what time did this excessively glorious Tīrtha come into existence. Tell me in detail.",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / nāgatīrtham_nāgatīrtha_SNNe tvayā_tvad_SI brahman_brahman_SVM purā_purā_ proktam_pravac_SNPaNe yaśasvinā_yaśasvin_SIM  / tasya_tad_SGM tīrtha_tīrtha_Cp varasya_vara_SGM api_api_ mahimānam_mahiman_SAM c"
+  },
+  {
+    "index": 36124,
+    "sanskrit": "vayameva sadātrasthāḥ śrāvaṇe māsi sattama | paurṇamāsyāṃ bhaviṣyāmastava snehādasaṃśayam || 74 ||",
+    "english": "74. Undoubtedly, out of love for you, on the Full-Moon day in the month of Śrāvaṇa, we shall all be present here.",
+    "morphology": "vayam_mad_PN eva_eva_ sadā_sadā_ atra_atra_ sthāḥ_stha_PNM śrāvaṇe_śrāvaṇa_SLM māsi_mās_SLM sattama_sattama_SVM  / paurṇamāsyām_paurṇamāsī_SLF bhaviṣyāmaḥ_bhū_PFu1In tava_tvad_SG snehāt_sneha_SBM asaṃśayam_asaṃśayam_"
+  },
+  {
+    "index": 36125,
+    "sanskrit": "yāvadākāśasyetyādyuktārtham //",
+    "english": "In the sphere within reach of Ākāśa etc, etc,as explained already",
+    "morphology": "yāvat_yāvat_ ākāśasya_ākāśa_SGM ityādi_ityādi_SNNe"
+  },
+  {
+    "index": 36126,
+    "sanskrit": "viguṇatvāt /",
+    "english": "A defiled mind is contrary to a mind acquired through effort.",
+    "morphology": "viguṇa_Cp tvāt_SBNe"
+  },
+  {
+    "index": 36127,
+    "sanskrit": "evaṃ parāvarādyāś ca dakṣiṇottarakāntarāḥ /",
+    "english": "Para superior, Avara inferior as well as Dakṣiṇa south, Uttara north, Antara in between, Aparāḥ others, Adharaḥ below are to be known in the same way.",
+    "morphology": "evam_evam_ para_para_Cp avara_avara_Cp ādyāḥ_ādya_PNM ca_ca_ dakṣiṇa_dakṣiṇa_Cp uttaraka_uttaraka_Cp antarāḥ_antara_PNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14144,
+    "sanskrit": "sa vai śrāntaḥ kṣudhitaḥ kāśyapaḥ tān",
+    "english": "And on the way he was fatigued and hungry, when he reached those same settlements of cowherds, rich with cattle.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 14145,
+    "sanskrit": "aprakṛtasyodapātrasya śravaṇaṃ sarvadā nṛṇām, na bhikṣādānasyaiveti darśayitum /",
+    "english": "The mention of the \"waterpot,\" which has not been referred to in this context before, is meant to indicate that in all cases one need not always give alms only.",
+    "morphology": "a_a_ prakṛtasya_prakṛ_SGPaNe uda_uda_Cp pātrasya_pātra_SGNe śravaṇa_śravaṇa_SNNe sarvadā_sarvadā_ nṛṇām_nṛ_PGM na_na_ bhikṣā_bhikṣā_Cp dānasya_dāna_SGNe eva_eva_ iti_iti_ darśayitum_darśay_In"
+  },
+  {
+    "index": 14146,
+    "sanskrit": "kenedaṃ pāpmanā śalyaṃ mamāṃtaḥ paricālitam | yenāhaṃ duḥkhayukto'pi bhūyo duḥkhāspadīkṛtaḥ || 43 ||",
+    "english": "\"43. “Who is that sinful one by whom the spike within me is shaken? Already miserable, I have been forced to bear greater pain!\"\" \"",
+    "morphology": "kena_ka_SIM idam_idam_SNNe pāpmanā_pāpman_SIM śalyam_śalya_SNNe mama_mad_SG antar_antar_ paricālitam_paricālay_SNPaNe  / yena_yad_SINe aham_mad_SN duḥkha_duḥkha_Cp yuktaḥ_yuj_SNPaM api_api_ bhūyas_bhūyas_ duḥkha_duḥkha_Cp āspadīkṛta"
+  },
+  {
+    "index": 14147,
+    "sanskrit": "yata āha / yo vardhayitum icchantīti / tasyāpy anabhyarcya pitṝn devān / na tu rogahetots tv arcanam akurvato 'pi kathaṃcid asaṃbhavān na doṣaḥ //",
+    "english": "That this is so is clear from the words of the text \"he who seeks to increase\" In him also, only if he does it \"without worshipping the Gods and Pitṛs\" But if the man is ill, and recovery is not possible without eating meat, then there would be no harm, even if the said worshipping were not done.",
+    "morphology": "yatas_yatas_ āha_ah_SPs3In  / yaḥ_yad_SNM vardhayitum_vardhay_In icchanti_iṣ_PPr3In iti_iti_  / tasya_tad_SGM api_api_ an_an_ abhyarcya_abhyarc_Co pitṝn_pitṛ_PAM devān_deva_PAM  / na_na_ tu_tu_ tu_tu_ arcanam_arcana_SANe akurvataḥ_akurvat_SGM a"
+  },
+  {
+    "index": 14148,
+    "sanskrit": "{2} śrotra-vijñānaṃ,",
+    "english": "{2} ear-consciousness,",
+    "morphology": "ḥ"
+  },
+  {
+    "index": 14149,
+    "sanskrit": "brahmāṇastvā yujā vayaṃ somapāmindra sominaḥ / sutāvanto havāmahe //",
+    "english": "We Somabearing Brahmans call thee Somadrinker with thy friend,",
+    "morphology": "brahmāṇaḥ_brahman_PNM tvā_tvad_SI yujā_yuj_SIM vayam_mad_PN soma_soma_Cp pām_pā_SAM indra_indra_SVM sominaḥ_somin_PNM  / sutāvantaḥ_sutāvat_PNM"
+  },
+  {
+    "index": 14150,
+    "sanskrit": "nimeṣo mānuṣo yo 'sau mātrāmātrāpramāṇataḥ / taiḥ pañcadaśabhiḥ kāṣṭhā triṃśatkāṣṭha kalā smṛtā //",
+    "english": "The shortest period of time is a Mātrā, which is equal to the twinkling of the human eye. Fifteen Mātrās make a Kāṣṭhā thirty Kāṣṭhās, one Kalā fifteen Kalās, one Nāḍikā.",
+    "morphology": "nimeṣaḥ_nimeṣa_SNM mānuṣaḥ_mānuṣa_SNM yaḥ_yad_SNM asau_adas_SNM mātrā_mātrā_Cp mātrā_mātrā_Cp pramāṇataḥ_pramāṇa_SBNe  / taiḥ_tad_PIM pañcadaśabhiḥ_pañcadaśan_PIM kāṣṭhā_kāṣṭhā_SNF triṃśat_triṃśat_C"
+  },
+  {
+    "index": 14151,
+    "sanskrit": "tatra vakram kuṇṭham khaṇḍam kharadhāram atisthūlam atituccham ati dīrgham ati hrasvam iti aṣṭau śastra doṣāḥ iti aṣṭau śastra doṣāḥ iti aṣṭau śastra doṣāḥ iti aṣṭau śastra doṣāḥ |",
+    "english": "Curvature, bluntness Kuntha—lit: -incapable of cutting hair, unequal sharpness of the edge, rough-edgedness, over-thickness, over-thinness, over-lengthiness, and over-shortness are the defective traits in a surgical instrument.",
+    "morphology": "tatra_tatra_U vakram_vakra_SNNe kuṇṭham_kuṇṭha_SNNe khaṇḍam_khaṇḍa_SNNe kharadhāram_kharadhāra_SNNe atisthūlam_atisthūla_SNNe atituccham_atituccha_SNNe ati_ati_U dīrgham_dīrgha_SNNe ati_ati_U hrasvam_hrasva_SNNe iti_iti_U aṣṭau_a"
+  }
+]

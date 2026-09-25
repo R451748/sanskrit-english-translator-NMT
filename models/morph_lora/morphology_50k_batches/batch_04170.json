@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33352,
+    "sanskrit": "dharmyam vadet vyāhṛtam tat caturtham",
+    "english": "and if what is agreeable is to be said, then it is better to say what is consistent with morality.",
+    "morphology": "dharmyam_dharmya_SANe vadet_vad_SPr3O vyāhṛtam_vyāhṛ_SNPaPsNe tat_tad_SNNe caturtham_caturtha_SNNe"
+  },
+  {
+    "index": 33353,
+    "sanskrit": "atha vā siddhiḥ eva syāt mahimā tu tathā eva te vṛkodarasya bībhatsoḥ bhrātroḥ ca yamayoḥ api",
+    "english": "If thou meetest failure, then that will furnish a proof unto thee and Vrikodara and Vivatsu and the twins (that ye are unable to snatch the kingdom from the foe).",
+    "morphology": "atha_atha_U vā_vā_U siddhiḥ_siddhi_SNF eva_eva_U syāt_as_SPr3O mahimā_mahiman_SNM tu_tu_U tathā_tathā_U eva_eva_U te_tvad_SG vṛkodarasya_vṛkodara_SGM bībhatsoḥ_bībhatsu_SGM bhrātroḥ_bhrātṛ_DuGM ca_ca_U yamayoḥ_yama_DuGM api_api_U"
+  },
+  {
+    "index": 33354,
+    "sanskrit": "na iṣuḥ liptaḥ na karṇī syāt asatām etat āyudham",
+    "english": "These are the weapons of the wicked.",
+    "morphology": "na_na_U iṣuḥ_iṣu_SNM liptaḥ_lip_SNPaPsM na_na_U karṇī_karṇin_SNM syāt_as_SPr3O"
+  },
+  {
+    "index": 33355,
+    "sanskrit": "etenāyatanena śrāmyateti te 'gnināyatanenāśrāmyan te saṃvatsara ekāṃ gām asṛjanta tāṃ vasubhyo rudrebhya ādityebhyaḥ prāyachan |",
+    "english": "After a year they produced one cow. They gave it to the Vasus, Rudras, and Adityas, saying 'Guard it.' The Vasus, Rudras, and Adityas guarded it.",
+    "morphology": "etena_etad_SINe āyatanena_āyatana_SINe śrāmyata_śram_PPr2Im iti_iti_ te_tad_PNM agninā_agni_SIM āyatanena_āyatana_SINe aśrāmyan_śram_P3ImIn te_tad_PNM saṃvatsare_saṃvatsara_SLM ekām_eka_SAF gām_go_SAF asṛjanta_sṛj_P3ImIn tām_tad_SAF v"
+  },
+  {
+    "index": 33356,
+    "sanskrit": "tataḥ kathāvasāne ca calacittaṃ raghūttamam | vilokya pradadau tasmai ratnābharaṇamuttamam || 27 ||",
+    "english": "27. At the end of the narration, the sage observed that Raghūttama was emotionally upset. He then gave him an excellent ornament studded with jewels.",
+    "morphology": "tatas_tatas_ kathā_kathā_Cp avasāne_avasāna_SLNe ca_ca_ cala_cala_Cp cittam_citta_SAM raghu_raghu_Cp uttamam_uttama_SAM  / vilokya_vilokay_Co pradadau_pradā_SPs3In tasmai_tad_SDM ratna_ratna_Cp ābharaṇam_ābharaṇa_SANe uttamam_uttama_SANe  /"
+  },
+  {
+    "index": 33357,
+    "sanskrit": "anityam dvaṃdva saṃyuktam sattvam āhuḥ guṇa ātmakam",
+    "english": "The wise have said that Nature is always made up of pairs of opposites (and consists of qualities).",
+    "morphology": "anityam_anitya_SANe dvaṃdva_dvaṃdva_NeCp saṃyuktam_saṃyuj_SAPaPsNe sattvam_sattva_SANe āhuḥ_ah_PPs3In guṇa_guṇa_MCp"
+  },
+  {
+    "index": 33358,
+    "sanskrit": "yasminsā jāyate harmye ṣaṇmāsābhyaṃtare ca tat | karoti vibhavairhīnaṃ dhanadasyāpyasaṃśayam || 8 ||",
+    "english": "8. She will render the mansion wherein she is born, even if it be that of Kubera, a place devoid of riches within six months.",
+    "morphology": "yasmin_yad_SLNe sā_tad_SNF jāyate_jan_SPr3In harmye_harmya_SLNe ṣaṣ_ṣaṣ_Cp māsa_māsa_Cp abhyantare_abhyantara_SLNe ca_ca_ tat_tad_SANe  / karoti_kṛ_SPr3In vibhavaiḥ_vibhava_PIM hīnam_hā_SAPaNe dhanadasya_dhanada_SGM api_api_ asaṃśayam_"
+  },
+  {
+    "index": 33359,
+    "sanskrit": "etad artham śubha mate pitaraḥ piṇḍa saṃjñitāḥ",
+    "english": "Hence have the Pitris come to be called by the name of Pinda.",
+    "morphology": "etad_etad_Cp artham_artha_SAM śubha_śubha_Cp mate_mati_SVF"
+  }
+]

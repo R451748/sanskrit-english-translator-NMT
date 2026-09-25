@@ -1,0 +1,50 @@
+[
+  {
+    "index": 176,
+    "sanskrit": "śrute 'pi tadvācini pade sutarām asaṅgatiḥ [gauḥ śukla ānīyatāṃ saṃsargaḥ] iti ko 'rthaḥ /",
+    "english": "Does the sentence. \"The white cow be brought the relation\" convey any sense? Hence the hypothesis that a sen- tence points to external objects as its meaning is absolutely absurd.",
+    "morphology": "śrute_śru_SLPaNe api_api_ tad_tad_Cp vācini_vācin_SLNe pade_pada_SLNe sutarām_sutarām_ asaṅgatiḥ_asaṃgati_SNF  /"
+  },
+  {
+    "index": 177,
+    "sanskrit": "gomayamindhanaṃ yayor agnidhūmayos tau gomayendhanau, sa deśo yayos tau taddeśaugomayendhanau ca tau taddeśau ceti vigrahaḥ /",
+    "english": "The compound ‘gomayendhana’ means ‘that of which dry cowdung is the fuel’, and the compound ‘taddeśa’ means ‘that of which that is the place’;",
+    "morphology": "gomayam_gomaya_SNNe indhanam_indhana_SNNe yayoḥ_yad_DuGM agni_agni_Cp dhūmayoḥ_dhūma_DuGM tau_tad_DuNM gomaya_gomaya_Cp indhanau_indhana_DuNM saḥ_tad_SNM deśaḥ_deśa_SNM yayoḥ_yad_DuGM tau_tad_DuNM tad_tad_Cp deśau_deśa_DuNM gomaya_gomaya_Cp"
+  },
+  {
+    "index": 178,
+    "sanskrit": "śubhā saṃvicchubhāṃllokānsaṃpaśyatyaśubhā'śubhān / khātmikā khātmakāneva ciraṃ vānubhavatyapi //",
+    "english": "A good conscience has all goodly prospects before it, as a vitiated soul meets with ghastly aspects on all sides; the airy mind sees only such aerial shapes in its vacuity.",
+    "morphology": "śubhā_śubha_SNF saṃvid_saṃvid_SNF śubhān_śubha_PAM lokān_loka_PAM saṃpaśyati_saṃpaś_SPr3In aśubha_aśubha_Cp aśubhān_aśubha_PAM  / kha_kha_Cp ātmikā_ātmaka_SNF kha_kha_Cp ātmakān_ātmaka_PAM eva_eva_ ciram_ciram_ vā_vā_ anubhava"
+  },
+  {
+    "index": 179,
+    "sanskrit": "tathā inavānaṃ yajatoti yājyāta ārabhya yāvadyanaterarthaḥ samāpyate tāvannāvānitavyam /",
+    "english": "That is to say before the appearance of the sentence the Yajya belongs to the Sacrificer, the name Hautra indicated all the three to belong to the Hotr and when the said sentence did appear, it trans ferred the Yajya only to the Sacrificer, and left the Vaşatkāra and Eating in the same position as before i.e.",
+    "morphology": "tathā_tathā_ yajati_yaj_SPr3In iti_iti_ yājyātaḥ_yājyā_SBF ārabhya_ārabh_Co yāvat_yāvat_ yanateḥ_yanati_SGF arthaḥ_artha_SNM samāpyate_samāp_SPr3InPv tāvat_tāvat_  /"
+  },
+  {
+    "index": 180,
+    "sanskrit": "kadalītribhāgā śākulā koṭhamaṇḍalacitrā kṛtakarṇikāajinacitrā vā / iti //",
+    "english": "Sákulá is variegated with large round spots similar to those that manifest themselves in a kind of leprosy kushtha, or is furnished with tendrils and spotted like a deers skin",
+    "morphology": "kadalī_kadala_Cp tri_tri_Cp bhāgā_bhāga_SNF śākulā_śākula_SNF koṭha_koṭha_Cp maṇḍala_maṇḍala_Cp citrā_citra_SNF kṛtakarṇikā_kṛtakarṇikā_Cp ajina_ajina_Cp citrā_citra_SNF vā_vā_  / iti_"
+  },
+  {
+    "index": 181,
+    "sanskrit": "śabdapravṛttyupāyajñatvāt /",
+    "english": "because He is cognisant all the time of the means whereby speech is prompted.",
+    "morphology": "śabda_śabda_Cp pravṛtti_pravṛtti_Cp upāya_upāya_Cp jña_jña_Cp tvāt_tva_SBNe "
+  },
+  {
+    "index": 182,
+    "sanskrit": "adyeyaṃ mama saṃjātā bhogānpratyaratiḥ sphuṭam / diṣṭyā śamasukhaṃ svacchaṃ viśāmyamṛtaśītalam //",
+    "english": "It is now that I feel my aversion to the enjoyments of life, and come to perceive by my good luck the bliss of tranquillity, to liken the clear and cooling ambrosial drink of heavenly bliss.",
+    "morphology": "adyā_adya_ iyam_idam_SNF mama_mad_SG saṃjātā_saṃjan_SNPaF bhogān_bhoga_PAM prati_prati_ aratiḥ_arati_SNF sphuṭam_sphuṭa_SANe  / diṣṭyā_diṣṭi_SIF śama_śama_Cp sukham_sukha_SANe svaccham_svaccha_SANe viśāmi_viś_SPr1In amṛta_am"
+  },
+  {
+    "index": 183,
+    "sanskrit": "śītāmalasvādujalaṃ nipānaṃ bibhitsatāmasti na ccenniṣeddhā / vyarthābhidhānā bata lokapālā viproṣitā vā śrutimātrakaṃ vā //",
+    "english": "If no one will prevent those who are about to destroy that well of cold, pure, and sweet water, then in truth the guardians of the world-quarters are falsely named so, or they are absent, or they are nothing but a mere sound..",
+    "morphology": "śīta_śīta_Cp amala_amala_Cp svādu_svādu_Cp jalam_jala_SANe nipānam_nipāna_SANe bibhitsatām_bibhits_PGPaPrM asti_as_SPr3In na_na_ ced_ced_ niṣeddhā_niṣeddhṛ_SNM  / vyartha_vyartha_Cp abhidhānāḥ_abhidhāna_PNM bata_bata_ lokapālāḥ_lok"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12344,
+    "sanskrit": "hemanto nidhanam //",
+    "english": "and the Winter is Nidhana",
+    "morphology": "hemantaḥ_hemanta_SNM nidhanam_nidhana_SNNe  /"
+  },
+  {
+    "index": 12345,
+    "sanskrit": "sopāyanair gopa gaṇair nanda rājādibhiḥ sahamathurā darśana miṣād rathenānaya mām ciram",
+    "english": "One pretext of bringing Them to see Mathura' City bring, accompanied by King Nanda and the gopas bearing gifts, the two of Them to me at once.",
+    "morphology": "sa_sa_ upāyanaiḥ_upāyana_PIM gopa_gopa_SVM gaṇaiḥ_gaṇa_PIM nanda_nanda_SVM rāja_rājan_Cp ādibhiḥ_ādi_PIM saha_saha_ mathurā_mathurā_SNF darśana_darśana_SVM miṣāt_miṣa_SBNe rathena_ratha_SIM ānaya_ānī_SPr2Im mām_mad_SA ciram_cir"
+  },
+  {
+    "index": 12346,
+    "sanskrit": "svabhāvaviśeṣaṇaṃ cet siddhamabhūtvā bhavanam /",
+    "english": "Would this be the fact of modifying the unique or self nature of a pre-existent result? But is there not, in this thesis, the appearance of a modification previously non-existent?",
+    "morphology": "svabhāva_svabhāva_Cp viśeṣaṇam_viśeṣaṇa_SNNe ced_ced_ siddham_sidh_SNPaNe a_a_ bhūtvā_bhū_Co bhavanam_bhavana_SNNe  /"
+  },
+  {
+    "index": 12347,
+    "sanskrit": "bhṛguraṃgirā marīcistu pulastyaḥ pulahaḥ kratuḥ | atriścaiva vasiṣṭhaśca aṣṭau te brahmaṇaḥ sutāḥ || 64 ||",
+    "english": "64. They are the eight sons of Brahmā, viz. Bhṛgu, Aṅgiras, Marīci, Pulastya, Pulaha, Kratu, Atri and Vasiṣṭha.",
+    "morphology": "bhṛguḥ_bhṛgu_SNM aṃgirāḥ_aṅgiras_SNM marīciḥ_marīci_SNM tu_tu_ pulastyaḥ_pulastya_SNM pulahaḥ_pulaha_SNM kratuḥ_kratu_SNM  / atriḥ_atri_SNM ca_ca_ eva_eva_ vasiṣṭhaḥ_vasiṣṭha_SNM ca_ca_ aṣṭau_aṣṭan_PNM te_tad_PNM "
+  },
+  {
+    "index": 12348,
+    "sanskrit": "cintāmayaṃ kalpaśate śeṣa ākṣipate hi tat //",
+    "english": "in the course of one hundred supplementary cosmic ages.",
+    "morphology": "cintā_cintā_Cp mayam_maya_SANe kalpa_kalpa_Cp śate_śata_SLNe śeṣaḥ_śeṣa_SNM ākṣipate_ākṣip_SPr3In hi_hi_ tat_tad_SANe  /"
+  },
+  {
+    "index": 12349,
+    "sanskrit": "athavā aham kariṣyāmi kulasya asya vimokṣaṇam phala saṃsthā bhaviṣyāmi kṛtvā karma su duṣkaram",
+    "english": "It is therefore that I am resolved to rescue my father's race and share the merit of that act by accomplishing this difficult task.",
+    "morphology": "athavā_athavā_U aham_mad_SN kariṣyāmi_kṛ_SFu1In kulasya_kula_SGNe asya_idam_SGNe vimokṣaṇam_vimokṣaṇa_SANe phala_phala_NeCp saṃsthā_saṃsthā_SNF bhaviṣyāmi_bhū_SFu1In kṛtvā_kṛ_Co karma_karman_SANe su_su_U duṣkaram_duṣkara_S"
+  },
+  {
+    "index": 12350,
+    "sanskrit": "surā ca paiṣṭīti vijñeyā / tāṃ mukhyety upacaranti / anyatra tu prayogo gauṇaḥ / kāmataḥ pāne caitat / tathā ca vakṣyati /",
+    "english": "In the present case, the \"wine\" should be understood as standing for that liquor which is obtained from grains; as it is this liquor to which the term \"wine\" is held to be directly applicable; its application to other liquors being indirect What is said here is applicable to cases of intentional winedrinking; sis it is going to be declared later on If one drinks wine unintentionally, he becomes purified by going through the sacramental rites\".",
+    "morphology": "surā_surā_SNF ca_ca_ paiṣṭī_paiṣṭī_SNF iti_iti_ vijñeyā_vijñā_SNFGd  / tām_tad_SAF mukhyā_mukhya_SNF iti_iti_ upacaranti_upacar_PPr3In  / anyatra_anyatra_ tu_tu_ prayogaḥ_prayoga_SNM gauṇaḥ_gauṇa_SNM  / kāmatas_kāmatas_ pāne_p"
+  },
+  {
+    "index": 12351,
+    "sanskrit": "vāditrāṇi ca divyāni su ghoṣāṇi samantataḥ stutayaḥ ca indra saṃyuktāḥ aśrūyanta manoharāḥ",
+    "english": "And on all sides there were heard charming symphony and captivating hymns relating to Indra.",
+    "morphology": "vāditrāṇi_vāditra_PNNe ca_ca_U divyāni_divya_PNNe su_su_U ghoṣāṇi_ghoṣa_PNNe samantataḥ_samantataḥ_U stutayaḥ_stuti_PNF ca_ca_U indra_indra_MCp saṃyuktāḥ_saṃyuj_PNPaPsF aśrūyanta_śru_PPs3InPv manoharāḥ_manohara_PNF"
+  }
+]

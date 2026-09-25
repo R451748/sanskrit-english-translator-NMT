@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14024,
+    "sanskrit": "sarva gaḥ sarva bhūta ātmā sarva bhūta bhava udbhavaḥ",
+    "english": "Thou art he that pervadest all things, that art the Soul of all things, thou art the Creator of the Creator of all entities.",
+    "morphology": "sarva_sarva_Cp gaḥ_ga_SNM sarva_sarva_Cp bhūta_bhūta_Cp ātmā_ātman_SNM"
+  },
+  {
+    "index": 14025,
+    "sanskrit": "ajñaḥ ca aśraddadhānaḥ ca saṃśaya ātmā vinaśyati",
+    "english": "One who hath no knowledge and no faith, and whose minds is full of doubt, is lost.",
+    "morphology": "ajñaḥ_ajña_SNM ca_ca_U aśraddadhānaḥ_aśraddhā_SNPaPrM ca_ca_U"
+  },
+  {
+    "index": 14026,
+    "sanskrit": "sa kṛcchra kālam saṃprāpya vyathām na eva eti karhi cit",
+    "english": "Accordingly, when the hour of death approacheth, he feeleth no pangs.",
+    "morphology": "sa_tad_SNM kṛcchra_kṛcchra_Cp kālam_kāla_SAM saṃprāpya_samprāp_Co"
+  },
+  {
+    "index": 14027,
+    "sanskrit": "kastarhi dṛṣṭicaritaḥ",
+    "english": "the only one who cuts them off is the rationalist.",
+    "morphology": "kaḥ_ka_SNM tarhi_tarhi_"
+  },
+  {
+    "index": 14028,
+    "sanskrit": "pūrvajāstasya tuṣyeraṃstarpyamāṇā dinedine | tathetyuktvā tu tāṃ dharmo maunamācaṣṭa saṃsthitaḥ | triḥparikramya taṃ dharmaṃ namaskṛtya divaṃ yayau || 23 ||",
+    "english": "One who resorts to the lake Vardhamāna for five days, may his ancestors become pleased on being offered a daily libation of water. After saying to her, “So it shall be”, Dharma became silent. She circumambulated Dharma thrice, bowed down to him and went to heaven.",
+    "morphology": "pūrvajāḥ_pūrvaja_PNM tasya_tad_SGM tuṣyeran_tuṣ_PPr3O tarpyamāṇāḥ_tarpay_PNPaPrMPv dine_dina_SLNe dine_dina_SLNe  / tathā_tathā_ iti_iti_ uktvā_vac_Co tu_tu_ tām_tad_SAF dharmaḥ_dharma_SNM maunam_mauna_SANe ācaṣṭa_ācakṣ_S3ImIn "
+  },
+  {
+    "index": 14029,
+    "sanskrit": "tasmād apratiṣedho 'yaṃ nityasāmānyasādharmyanibandhanasaṃśayāpādanarūpaḥ //",
+    "english": "Thus it is more of the nature of a parisamkhyā vidhi than that of a niyama vidhi since its function is mainly negative.",
+    "morphology": "tasmāt_tasmāt_ apratiṣedhaḥ_apratiṣedha_SNM ayam_idam_SNM nitya_nitya_Cp sāmānya_sāmānya_Cp sādharmya_sādharmya_Cp nibandhana_nibandhana_Cp saṃśaya_saṃśaya_Cp āpādana_āpādana_Cp rūpaḥ_rūpa_SNM  /"
+  },
+  {
+    "index": 14030,
+    "sanskrit": "vadhāya nīyate yo 'yam eṣa bhartā vṛto mayā / tan nṛpād rakṣa tātainaṃ na ced enam anu mriye //",
+    "english": "So she went and said to her father, Ratnadatta: “I select as my husband this man here, who is being led off to execution, so ransom him from the king, my father.",
+    "morphology": "vadhāya_vadha_SDM nīyate_nī_SPr3InPv yaḥ_yad_SNM ayam_idam_SNM eṣa_etad_SNM bhartā_bhartṛ_SNM vṛtaḥ_vṛ_SNPaM mayā_mad_SI  / tat_tad_SANe nṛpāt_nṛpa_SBM rakṣa_rakṣ_SPr2Im tāta_tāta_SVM enam_enad_SAM na_na_ ced_ced_ enam_enad_SAM "
+  },
+  {
+    "index": 14031,
+    "sanskrit": "atha ṣaṣṭhodhyāyaḥ",
+    "english": "End of Section of Discourse End of Discourse",
+    "morphology": "atha_atha_"
+  }
+]

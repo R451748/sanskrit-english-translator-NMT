@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20488,
+    "sanskrit": "śrībhagavānuvāca | ekādaśaprakārā yā mūrtayo nirmitā mayā | etābhireva sarvābhiḥ sthāsyāmyatra sadaiva hi || 28 ||",
+    "english": "Śrī Bhagavān said: 28. I shall stay here always in all these forms of eleven kinds assumed by me.",
+    "morphology": "śrī_śrī_Cp bhagavān_bhagavant_SNM uvāca_vac_SPs3In  / ekādaśa_ekādaśan_Cp prakārāḥ_prakāra_PNF yāḥ_yad_PNF mūrtayaḥ_mūrti_PNF nirmitāḥ_nirmā_PNPaF mayā_mad_SI  / etābhiḥ_etad_PIF eva_eva_ sarvābhiḥ_sarva_PIF sthāsyāmi_sth"
+  },
+  {
+    "index": 20489,
+    "sanskrit": "saṃpūjyate śalmaliḥ ca dvīpe śālmalike nṛpa",
+    "english": "Along with the kingdoms there, O king, the (celestial) clump of Kusa grass in Kusadwipa, and the Salmali tree in the island of Salmalika, are adored.",
+    "morphology": "saṃpūjyate_sampūjay_SPr3InPv śalmaliḥ_śalmali_SNM ca_ca_U dvīpe_dvīpa_SLM śālmalike_śālmalika_SLM"
+  },
+  {
+    "index": 20490,
+    "sanskrit": "‘asyā doṣeṇāhaṃ vkṣam ārūḍhaḥ.’",
+    "english": "‘It is her fault I climbed the tree!’",
+    "morphology": "__idam_U __doṣa_U"
+  },
+  {
+    "index": 20491,
+    "sanskrit": "kalāvekṣā kṛpāṇyādinyāsaścāraḥ śarīragaḥ | brahmavidyāvidhiścaivamuktaṃ sadyaḥ samutkrame |",
+    "english": "Difference Between Consciousness and Reality Apparent... In this process would be discussed kalā-veksā, such bodily actions as placement of the sword and principle concerning the brahma-vidyā.",
+    "morphology": "kalā_kalā_Cp avekṣā_avekṣā_SNF kṛpāṇī_kṛpāṇī_Cp ādi_ādi_Cp nyāsaḥ_nyāsa_SNM cāraḥ_cāra_SNM śarīra_śarīra_Cp gaḥ_ga_SNM  / brahmavidyā_brahmavidyā_Cp vidhiḥ_vidhi_SNM ca_ca_ evam_evam_ uktam_vac_SNPaNe sadyas_sadyas_ "
+  },
+  {
+    "index": 20492,
+    "sanskrit": "kanyāgrahaṇaṃ strīmatropalakṣaṇārtham iti vyācakṣate /",
+    "english": "See verse below. The term \"maiden\" stands for woman in general, say some people;",
+    "morphology": "kanyā_kanyā_Cp grahaṇam_grahaṇa_SNNe strīm_strī_SAF atra_atra_ upalakṣaṇa_upalakṣaṇa_Cp artham_artha_SAM iti_iti_ vyācakṣate_vyācakṣ_PPr3In  /"
+  },
+  {
+    "index": 20493,
+    "sanskrit": "yugapad vedyate vyaktam atra iṣṭaprasādhanam //",
+    "english": "this is what is shown in the following Text: [see verse 198 above]",
+    "morphology": "yugapad_yugapad_ vedyate_veday_SPr3InPv vyaktam_vyakta_SNNe atra_"
+  },
+  {
+    "index": 20494,
+    "sanskrit": "itthaṃ svasaṃvedanamādisiddhamasādhyamātmānamanīśamīśam | svaśaktisampūrṇamadeśakālaṃ nityaṃ vibhuṃ bhairavanāthamīḍe |",
+    "english": "Understanding of oneself like this is self-proved from the very beginning. What has remained to be proved is the servility of the Lord who is self-powered, Paramārthacarcā- Deliberation on the Supreme Objective of Life perfect in Himself, lies beyond the limitations of time and space, is eternal and all-pervading.",
+    "morphology": "ittham_ittham_ sva_sva_Cp saṃvedanam_saṃvedana_SAM ādi_ādi_Cp siddham_sidh_SAPaM asādhyam_asādhya_SAM ātmānam_ātman_SAM anīśam_anīśa_SAM īśam_īśa_SAM  / sva_sva_Cp śakti_śakti_Cp sampūrṇam_sampṛ_SAPaM adeśa_adeśa_Cp kālam_kāla"
+  },
+  {
+    "index": 20495,
+    "sanskrit": "agniś ca ma āpaś ca ma ity āha |",
+    "english": "'May for me fire, for me the waters', be says;",
+    "morphology": "agniḥ_agni_SNM ca_ca_ me_mad_SD āpaḥ_ap_PNF ca_ca_ me_mad_SD iti_iti_"
+  }
+]

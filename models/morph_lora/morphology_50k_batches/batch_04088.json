@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32696,
+    "sanskrit": "yadā tvayā vṛtaḥ rājā vṛtaḥ eva tadā mayā",
+    "english": "When thou hadst chosen the king for thy husband, I, too, chose him as mine.",
+    "morphology": "yadā_yadā_U tvayā_tvad_SI vṛtaḥ_vṛ_SNPaPsM rājā_rājan_SNM vṛtaḥ_vṛ_SNPaPsM eva_eva_U tadā_tadā_U"
+  },
+  {
+    "index": 32697,
+    "sanskrit": "sa vṛddhabrāhmaṇo bhūtvā brahmacārī śacīpatiḥ | jagāma tatra viprendra parīkṣārthaṃ hi tasya vai ||",
+    "english": "39. O leading brahmin, Indra, the lord of Śacī, assumed the form of an elderly brahmin bachelor and went there to test him.",
+    "morphology": "sa_tad_SNM vṛddha_vṛddha_Cp brāhmaṇaḥ_brāhmaṇa_SNM bhūtvā_bhū_Co brahmacārī_brahmacārin_SNM śacīpatiḥ_śacīpati_SNM  / jagāma_gam_SPs3In tatra_tatra_ vipra_vipra_Cp indra_indra_SVM parīkṣā_parīkṣā_Cp artham_artha_SAM hi_hi_ "
+  },
+  {
+    "index": 32698,
+    "sanskrit": "sa jālakam gavākṣa āḍhyam āpta varga niṣevitam",
+    "english": "The kitchen should be kept clean, well lighted by means of a large number of windows and guarded with nets and fret works (against the intrusion of crows, etc.).",
+    "morphology": "sa_sa_U jālakam_jālaka_SNNe gavākṣa_gavākṣa_NeCp āḍhyam_āḍhya_SNNe āpta_āpta_Cp varga_varga_Cp"
+  },
+  {
+    "index": 32699,
+    "sanskrit": "yadā dvārāvatī viprā plāvitā sāgareṇa hi | puṇyāni bahutīrthāni cchannāni jalapāṃsubhiḥ || 7 ||",
+    "english": "7. O Brāhmaṇas! when Dvārāvat got flooded with sea water, many auspicious centres of pilgrimage there got submerged under the mighty water.",
+    "morphology": "yadā_yadā_ dvārāvatī_dvārāvatī_SNF viprāḥ_vipra_PVM plāvitā_plāvay_SNPaF sāgareṇa_sāgara_SIM hi_hi_  / puṇyāni_puṇya_PNNe bahu_bahu_Cp tīrthāni_tīrtha_PNNe channāni_chad_PNPaNe jala_jala_Cp pāṃsubhiḥ_pāṃsu_PIM "
+  },
+  {
+    "index": 32700,
+    "sanskrit": "atha mantrārthavādaliṅgamātraprabhavā ete dharmāḥ /",
+    "english": "c Or, that the Dharmas in question have their origin only in the indications of Mantras and Arthavādas.",
+    "morphology": "atha_atha_ mantra_mantra_Cp arthavāda_arthavāda_Cp liṅga_liṅga_Cp mātra_mātra_Cp prabhavāḥ_prabhava_PNM ete_etad_PNM dharmāḥ_dharma_PNM  /"
+  },
+  {
+    "index": 32701,
+    "sanskrit": "na ca vyākaraṇaṃ nityaṃ kathaṃ cidavagamyate /",
+    "english": "And it still remains to be explained how he forgot to explain the purpose, in such an extensive work.",
+    "morphology": "na_na_ ca_ca_ vyākaraṇam_vyākaraṇa_SNNe nityam_nitya_SNNe katham_katham_ cit_cit_ avagamyate_avagam_SPr3InPv  /"
+  },
+  {
+    "index": 32702,
+    "sanskrit": "ākṣapramāṇamubhayoḥ pramāṇaṃ tadyugārdhayo / hrasvokṣastadyugārdhena dhruvādhāro rathasya vai / dvitīyekṣe tu taccakraṃ sasthitaṃ mānasācale //",
+    "english": "The two halves of the yoke are of the same length respectively as the two axles the longer and the shorter. The short axle, with the short yoke, are supported by the polestar the end of the longer axle, to which the wheel of the car is attached, moves on the Mānasa mountain.",
+    "morphology": "ā_ā_ akṣa_akṣa_Cp pramāṇam_pramāṇa_SNNe ubhayoḥ_ubhaya_DuGNe pramāṇam_pramāṇa_SNNe tad_tad_Cp yuga_yuga_Cp ardhayoḥ_ardha_DuGNe  / hrasva_hrasva_Cp ukṣaḥ_ukṣa_SNM tad_tad_Cp yuga_yuga_Cp ardhena_ardha_SINe dhruva_dhruva_Cp ādh"
+  },
+  {
+    "index": 32703,
+    "sanskrit": "viguṇāḥ hi api saṃrakṣyāḥ jñātayaḥ bharata ṛṣabha",
+    "english": "Even relatives that are destitute of good qualities should be protected.",
+    "morphology": "viguṇāḥ_viguṇa_PNM hi_hi_U api_api_U saṃrakṣyāḥ_saṃrakṣ_PNMGd"
+  }
+]

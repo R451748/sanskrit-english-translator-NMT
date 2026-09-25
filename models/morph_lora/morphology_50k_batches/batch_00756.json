@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6040,
+    "sanskrit": "yogeśvara tatas me tvam darśaya ātmānam avyayam śrī bhagavān uvāca paśya me pārtha rūpāṇi śataśas atha sahasraśas",
+    "english": "If, O Lord, thou thinkest that I am competent to behold that (form), then, O Lord of mystic power, show me thy eternal Self.[248]' \"The Holy One said, 'Behold, O son of Pritha, my forms by hundreds and thousands, various, divine, diverse in hue and shape.",
+    "morphology": "yogeśvara_yogeśvara_SVM tatas_tatas_U me_mad_SD tvam_tvad_SN darśaya_darśay_SPr2Im ātmānam_ātman_SAM avyayam_avyaya_SAM śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In paśya_paś_SPr2Im me_mad_SG pārtha_pārtha_SVM rūpāṇi_rūpa_PANe "
+  },
+  {
+    "index": 6041,
+    "sanskrit": "tatra vipratipattiś ca bahurūpā vipaścitām //",
+    "english": "The scholars hold diverse views on this topic.",
+    "morphology": "tatra_tatra_ vipratipattiḥ_vipratipatti_SNF ca_ca_ bahu_bahu_Cp rūpā_rūpa_SNF vipaścitām_vipaścit_PGM  /"
+  },
+  {
+    "index": 6042,
+    "sanskrit": "indraḥ tu bhūyas papraccha kva viśeṣaḥ bhavet iti",
+    "english": "Indra, however, once more asked him as to whether there was anything higher than that.",
+    "morphology": "indraḥ_indra_SNM tu_tu_U bhūyas_bhūyas_U papraccha_pracch_SPs3In kva_kva_U"
+  },
+  {
+    "index": 6043,
+    "sanskrit": "tebhyo bodhisattvastamarthaṃ yathānubhūtaṃ nivedayāmāsa /",
+    "english": "And the Bodhisattva told them the matter as he had experienced it.",
+    "morphology": "tebhyaḥ_tad_PDM bodhisattvaḥ_bodhisattva_SNM tam_tad_SAM artham_artha_SAM yathā_yathā_ anubhūtam_anubhū_SAPaM nivedayāmāsa_niveday_SPs3InPe  /"
+  },
+  {
+    "index": 6044,
+    "sanskrit": "āgamopyadhiko bhuktiṃ vinā pūrvakramāgatāṃ // āgamopi balannaiva bhuktiḥ stokāpi yatra na /",
+    "english": "Possession is title, even in the absence of proof of continuous enjoyment. But possession without proof of even a little enjoyment has no strength for the title.",
+    "morphology": "āgamaḥ_āgama_SNM upi_api_ adhikaḥ_adhika_SNM bhuktim_bhukti_SAF vinā_vinā_ pūrva_pūrva_Cp krama_krama_Cp āgatām_āgam_SAPaF  // āgamaḥ_āgama_SNM upi_api_ balāt_bala_SBNe nā_na_ eva_eva_ bhuktiḥ_bhukti_SNF stokā_stoka_SNF api_api_ yatra"
+  },
+  {
+    "index": 6045,
+    "sanskrit": "ravikarmaviparītā tithināḍīsamāyutā /",
+    "english": "The correction for one tithi viz.",
+    "morphology": "ravi_ravi_Cp karma_karman_Cp viparītā_viparīta_SNF tithi_tithi_Cp nāḍī_nāḍī_Cp samāyutā_samāyuta_SNF  /"
+  },
+  {
+    "index": 6046,
+    "sanskrit": "satyāvalokanenaiṣā mithyādṛṣṭirvinaśyati / avalokanayā sāmyamātape jaladhiryathā //",
+    "english": "The sight of truth, removes every false appearance; as the knowledge of light in the sandy desert, displaces the mirage of the ocean in the sun-beams.",
+    "morphology": "satya_satya_Cp avalokanena_avalokana_SINe eṣā_etad_SNF mithyādṛṣṭiḥ_mithyādṛṣṭi_SNF vinaśyati_vinaś_SPr3In  / avalokanayā_avalokanā_SIF sāmyam_sāmya_SANe ātape_ātapa_SLM jaladhiḥ_jaladhi_SNM yathā_yathā_  /"
+  },
+  {
+    "index": 6047,
+    "sanskrit": "somo rudro gṛhī bhūtvā'kārṣīllīlāṃ parāṃ prabhuḥ | mohayitvātha māṃ tatra svavivāhe'vikāradhīḥ ||",
+    "english": "19. In the company of Umā, Rudra became a householder and the great lord performed divine sports. He of undecaying intellect deluded me even at the time of his marriage.",
+    "morphology": "somaḥ_soma_SNM rudraḥ_rudra_SNM gṛhī_gṛhin_SNM bhūtvā_bhū_Co akārṣīt_kṛ_SPs3InFs līlām_līlā_SAF parām_para_SAF prabhuḥ_prabhu_SNM  / mohayitvā_mohay_Co atha_atha_ mām_mad_SA tatra_tatra_ sva_sva_Cp vivāhe_vivāha_SLM avikāra_av"
+  }
+]

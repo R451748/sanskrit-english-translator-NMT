@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45952,
+    "sanskrit": "dhānūn prakṣobhayan doṣaḥ mokṣa kāle balīyate",
+    "english": "The Dosha involved (in a case of fever) becomes aggravated by affecting, at the time of the remission of the fever, the other fundamental vital principles (Dhatus) of the body and thereby makes the patient weak and dejected at this time.",
+    "morphology": "dhānūn_dhānu_PAM"
+  },
+  {
+    "index": 45953,
+    "sanskrit": "rātrau ca susthitāṃ dṛṣṭvā tāṃ sa rājā dvitīyayā / tārāvalyā sahārohac candraprāsādam īśvaraḥ //",
+    "english": "And at night, seeing that she was going on well, the king retired with the second, Tārāvalī, to an apartment on the roof of the palace exposed to the rays of the moon.",
+    "morphology": "rātrau_rātri_SLF ca_ca_ su_su_ sthitām_sthā_SAPaF dṛṣṭvā_dṛś_Co tām_tad_SAF sa_tad_SNM rājā_rājan_SNM dvitīyayā_dvitīya_SIF  / tārāvalyā_tārāvalī_SIF saha_saha_ ārohat_āruh_S3ImIn candra_candra_Cp prāsādam_prāsāda_SAM īśv"
+  },
+  {
+    "index": 45954,
+    "sanskrit": "tatas śayānaḥ madhuram gīta śabdam aśṛṇot sa śrutvā acintayat na iha manuṣya gatim paśyāmi",
+    "english": "And while he was lying by the side of the tank, he heard certain sweet strains of music, and hearing those strains, he reflected, 'I do not see here the foot-prints of men.",
+    "morphology": "tatas_tatas_U śayānaḥ_śī_SNPaPrM madhuram_madhura_SAM gīta_gīta_NeCp śabdam_śabda_SAM aśṛṇot_śru_SPs3In sa_tad_SNM śrutvā_śru_Co acintayat_cintay_SPs3In na_na_U iha_iha_U manuṣya_manuṣya_MCp gatim_gati_SAF paśyāmi_paś_SPr1In"
+  },
+  {
+    "index": 45955,
+    "sanskrit": "chandāṃsi vṛṅkte sajanīyaṃ śasyam |",
+    "english": "One should recite the Sajaniya hymn;",
+    "morphology": "chandāṃsi_chandas_PANe vṛṅkte_vṛj_SPr3In sajanīyaḥ_sajanīya_SNM"
+  },
+  {
+    "index": 45956,
+    "sanskrit": "prāptir buddhapratyekabuddhatvādhigamaḥ /",
+    "english": "Attainment refers to the realization of Buddhahood or pratyekabuddhahood.",
+    "morphology": "prāptiḥ_prāpti_SNF buddha_buddha_Cp pratyekabuddha_pratyekabuddha_Cp tva_tva_Cp adhigamaḥ_adhigama_SNM "
+  },
+  {
+    "index": 45957,
+    "sanskrit": "tadvidā tatpadasthena tanmuktenānubhūyate / anyaiḥ kevalamāmnātairāgamaireva varṇyate //",
+    "english": "It is only a notion in the conception of wise and beside which no one can conceive or know anything of it, whatever definition or description of it is given by others, is only a repetition of the words of the vedas.",
+    "morphology": "tad_tad_Cp vidā_vid_SIM tad_tad_Cp pada_pada_Cp sthena_stha_SIM tad_tad_Cp muktena_muc_SIPaM anubhūyate_anubhū_SPr3InPv  / anyaiḥ_anya_PIM kevalam_kevalam_ āmnātaiḥ_āmnā_PIPaM āgamaiḥ_āgama_PIM eva_eva_ varṇyate_varṇay_SPr3InPv  /"
+  },
+  {
+    "index": 45958,
+    "sanskrit": "yataḥ kāraṇaśaktipratiniyamātkiñcidevāsatkriyate yasyotpādakaṃ kāraṇamasti yasya tu viyadabjāder nāsti kāraṇaṃ tan na kriyata ityanekānta eva /",
+    "english": "inasmuch as the potency of the Gause is always restricted, it is only some non-existent thing that is produced, only that for the production of which the Cause is there; that thing, for producing which there is no Cause such for instance as the ‘Sky-lotus’, is never, produced.",
+    "morphology": "yatas_yatas_ kāraṇa_kāraṇa_Cp śakti_śakti_Cp pratiniyamāt_pratiniyama_SBM kiñcid_kaścit_SNNe eva_eva_ asatkriyate_asatkṛ_SPr3InPv yasya_yad_SGNe utpādakam_utpādaka_SNNe kāraṇam_kāraṇa_SNNe asti_as_SPr3In yasya_yad_SGM tu_tu_ viyat_viya"
+  },
+  {
+    "index": 45959,
+    "sanskrit": "nandīśvara uvāca | etasminsamaye vyāso bhasmabhūṣitamastakaḥ | rudrākṣābharaṇaścāyājjaṭājūṭavibhūṣitaḥ ||",
+    "english": "22. In the meantime Vyāsa came there with the ashes decorating his forehead, with Rudrākṣa as an ornament and well bedecked in matted hair.",
+    "morphology": "nandīśvaraḥ_nandīśvara_SNM uvāca_vac_SPs3In  / etasmin_etad_SLM samaye_samaya_SLM vyāsaḥ_vyāsa_SNM bhasma_bhasman_Cp bhūṣita_bhūṣay_PaCp mastakaḥ_mastaka_SNM  / rudra_rudra_Cp akṣa_akṣa_Cp ābharaṇaḥ_ābharaṇa_SNM ca_ca_ ayāt_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36560,
+    "sanskrit": "kṣavakam kṛmilam teṣu svādu pākam sa picchalam |",
+    "english": "It is slimy and sweet in taste, and tends to increase the secretions of the internal organs.",
+    "morphology": "kṣavakam_kṣavaka_SNNe"
+  },
+  {
+    "index": 36561,
+    "sanskrit": "śara vrātena mahatā sarvatas paryavārayat",
+    "english": "Rama of prowess incapable of being baffled, covered me on all sides with a thick shower of arrows.",
+    "morphology": "śara_śara_MCp"
+  },
+  {
+    "index": 36562,
+    "sanskrit": "evam āhuḥ pare loke brahmacaryavido janāḥ //",
+    "english": "The Brahmavādins, living in the most excellent region, have recorded this.",
+    "morphology": "evam_evam_"
+  },
+  {
+    "index": 36563,
+    "sanskrit": "śaṅkhaprāntena govindastaṃ pasparśa kṛtāñjalim / uttānapādatanayaṃ dvijavarya jagatpatiḥ // atha prasannavadanaḥ sa kṣaṇānnṛpanandanaḥ / tuṣṭāva praṇato bhūtvā bhūtadhātāramacyutam //",
+    "english": "Whilst lowly bowing, with his hands uplifted to his forehead, Govinda, the lord of the world, touched the son of Uttānapāda with the tip of his conchshell, and immediately the royal youth, with a countenance sparkling with delight, praised respectfully the imperishable protector of living beings.",
+    "morphology": "śaṅkha_śaṅkha_Cp prāntena_prānta_SIM govindaḥ_govinda_SNM tam_tad_SAM pasparśa_spṛś_SPs3In kṛtāñjalim_kṛtāñjali_SAM  / uttānapāda_uttānapāda_Cp tanayam_tanaya_SAM dvija_dvija_Cp varya_varya_SVM jagatpatiḥ_jagatpati_SNM  // atha_"
+  },
+  {
+    "index": 36564,
+    "sanskrit": "tad eva niṣpatatoabhiyuktasya kuryāt //",
+    "english": "The same punishment shall be meted out to such of the defendants as fail in their defence",
+    "morphology": "tat_tad_SANe eva_eva_"
+  },
+  {
+    "index": 36565,
+    "sanskrit": "tatra proḍḍayanālolakhagapakṣaticañcalāḥ / ālokayaṃllokagatīrvilalāpedamākulaḥ //",
+    "english": "Hence he saw the flights of birds, flying at random in different directions; and reflected on the hurrying of men in the same manner, and thus bewailed in himself on their deplorable conditions.",
+    "morphology": "tatra_tatra_ proḍḍayana_proḍḍayana_Cp ālola_ālola_Cp khaga_khaga_Cp pakṣati_pakṣati_Cp cañcalāḥ_cañcala_PAF  / ālokayan_ālokay_SNPaPrM loka_loka_Cp gatīḥ_gati_PAF vilalāpa_vilap_SPs3In idam_idam_SANe ākulaḥ_ākula_SNM  /"
+  },
+  {
+    "index": 36566,
+    "sanskrit": "na gātra nakha vaktra vāditram kuryāt |",
+    "english": "Never keep time with music by beating the body or the cheeks with the hands or by striking the finger nails against each other.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 36567,
+    "sanskrit": "saṃpattaraṃgiṇī stutyā sthāṇumaulikṛtālayā | sthairyadā subhagā saukhyā strīṣu saubhāgyadāyinī || 64 ||",
+    "english": "970. Subhagā (Having excellent reputation) 971. Saukhyā (Conducive to happiness) 972. Strīṣu-saubhāgya-dāyinī (One who bestows conjugal bliss unto women)",
+    "morphology": "__sampad_U __taraṃgiṇī_U __stu_GdU __sthāṇu_U __mauli_U __kṛ_PaU __ālaya_U __sthairya_U __da_U __subhaga_U __saukhya_U __strī_U __saubhāgya_U __dāyin_U"
+  }
+]

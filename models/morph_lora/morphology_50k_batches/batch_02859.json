@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22864,
+    "sanskrit": "ṛgādiprakaraṇāttadbrahmeti trayo vedāḥ /",
+    "english": "As the present context is dealing with Ṛk and allied things, the term ‘brahman’ should be taken as standing for the Three Vedas",
+    "morphology": "ṛc_ṛc_Cp ādi_ādi_Cp prakaraṇāt_prakaraṇa_SBNe tat_tad_SNNe brahma_brahman_SNNe iti_"
+  },
+  {
+    "index": 22865,
+    "sanskrit": "avidyā-pratyayāḥ saṃskārā iti |",
+    "english": "With ignorance as condition: volitions is said.",
+    "morphology": "avidyā_avidyā_FCp pratyayāḥ_pratyaya_PNM"
+  },
+  {
+    "index": 22866,
+    "sanskrit": "apramattaḥ pramatteṣu kālaḥ jāgarti dehiṣu",
+    "english": "All embodied beings may be heedless of Time, but Time is heedful and is broad awake behind them.",
+    "morphology": "apramattaḥ_apramatta_SNM"
+  },
+  {
+    "index": 22867,
+    "sanskrit": "sadyobhiśṛtapūtaṃ yat tat phāṇṭamabhidhīyate /",
+    "english": "Decoction is that distilled immediately after boiling.",
+    "morphology": "sadyas_sadyas_ śṛta_śrī_PaCp pūtam_pū_SNPaNe yat_yad_SNNe tat_tad_SNNe phāṇṭam_phāṇṭa_SNNe abhidhīyate_abhidhā_SPr3InPv "
+  },
+  {
+    "index": 22868,
+    "sanskrit": "doṣa avisaraṇāt tāsām na bhavanti stana āmayāḥ",
+    "english": "The milk-carrying ducts remain closed in the breast of a nullipera thus barring the possibility of the descent of the Doshas through them and of an attack of any disease at that part of the body.",
+    "morphology": "doṣa_doṣa_MCp avisaraṇāt_avisaraṇa_SBNe"
+  },
+  {
+    "index": 22869,
+    "sanskrit": "vyāsāya viṣṇu rūpāya vyāsa rūpāya viṣṇave",
+    "english": "The bow of Vishnu, as that of Siva is called Pinaka.",
+    "morphology": "vyāsāya_vyāsa_SDM viṣṇu_viṣṇu_MCp rūṇī_rūṇī_SNF"
+  },
+  {
+    "index": 22870,
+    "sanskrit": "sūta uvāca | ityetadvacanaṃ tasya varuṇasya mahātmanaḥ | paropakārī tacchutvā gotamo vākyamabravīta ||",
+    "english": "12. On hearing these words of Varuṇa the great Ātman, Gautama, eager to help others spoke thus.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / iti_iti_ etat_etad_SANe vacanam_vacana_SANe tasya_tad_SGM varuṇasya_varuṇa_SGM mahātmanaḥ_mahātman_SGM  / paropakārī_paropakārin_SNM tat_tad_SANe śutvā_śru_Co gotamaḥ_gotama_SNM vākyam_vākya_SANe ab"
+  },
+  {
+    "index": 22871,
+    "sanskrit": "tathā hi yadi caikaḥ sattāmanubhavati tadaiva yadā pare tadvadeva tamanubhavanti ta evaṃ sarve tathotpadyamānā akramavyapadeśanibandhanaṃ bhavanti / tadyathā samagrasāmagrīkā bahavo 'ṅkurāḥ samutpadyamānāḥ /",
+    "english": "For instance, when it so happens that when one comes into existence, the others also-come into existence similarly, then they form the basis of the notion of ‘non-succession’ or ‘simultaneity’; as is found in the case of several sprouts coming out from similar causal conditions; when, on the other hand, things appear in a different manner, they are spoken of as ‘successive’;",
+    "morphology": "tathā_tathā_ hi_hi_ yadi_yadi_ ca_ca_ ekaḥ_eka_SNM sattām_sattā_SAF anubhavati_anubhū_SPr3In tadā_tadā_ eva_eva_ yadā_yadā_ pare_para_PNM tadvat_tadvat_ eva_eva_ tam_tad_SAM anubhavanti_anubhū_PPr3In te_tad_PNM evam_evam_ sarve_sarva_PNM tathā"
+  }
+]

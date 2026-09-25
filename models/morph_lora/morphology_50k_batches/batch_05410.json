@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43272,
+    "sanskrit": "gāyatriyā brāhmaṇasya gāyatro hi brāhmaṇas triṣṭubhā rājanyasya traiṣṭubho hi rājanyas |",
+    "english": "(he puts it on) with a Gayatri for a Brahman, for the Brahman is connected with the Gayatri, with a Tristubh for a Rajanya, for the Rajanya is connected with the Tristubh.",
+    "morphology": "gāyatriyā_gāyatrī_SIF brāhmaṇasya_brāhmaṇa_SGM gāyatraḥ_gāyatra_SNM hi_hi_ brāhmaṇaḥ_brāhmaṇa_SNM triṣṭubhā_triṣṭubh_SIF rājanyasya_rājanya_SGM traiṣṭubhaḥ_traiṣṭubha_SNM hi_hi_ rājanyaḥ_rājanya_SNM  /"
+  },
+  {
+    "index": 43273,
+    "sanskrit": "śaktirādhīyate tatra kācittāṃ kiṃ na paśyasi|",
+    "english": "\"'A certain capacity is produced in it,—do you not see it?'\"",
+    "morphology": "śaktiḥ_śakti_SNF ādhīyate_ādhā_SPr3InPv tatra_tatra_ kācid_kaścit_SNF tām_tad_SAF kim_kim_"
+  },
+  {
+    "index": 43274,
+    "sanskrit": "tasmin deva ṛṣi carite deśe parama durgame bhāgīrathī puṇya jale tarpayām cakrire tadā devān ṛṣīn ca kaunteyāḥ paramam śaucam āsthitāḥ",
+    "english": "And at that spot, frequented by celestials and sages, and extremely inaccessible, they, after having purified themselves offered oblations unto the pitris and the gods and the rishis in the sacred waters of the Bhagirathi.",
+    "morphology": "tasmin_tad_SLM deva_deva_MCp ṛṣi_ṛṣi_MCp carite_car_SLPaPsM deśe_deśa_SLM parama_parama_Cp durgame_durgama_SLNe bhāgīrathī_bhāgīrathī_FCp puṇya_puṇya_Cp jale_jala_SLNe tarpayām_tarpay_SPs3In cakrire_kṛ_PPs3In tadā_tadā_U devān_dev"
+  },
+  {
+    "index": 43275,
+    "sanskrit": "yaḥ ohate rakṣasaḥ deva vītau acakrebhiḥ tam marutaḥ ni yāta yaḥ vaḥ samīm śaśamānasya nindāt tucchyān kāmān karate sisvidānaḥ",
+    "english": "With wheelless chariots drive down him, O Maruts, who at the feasts of Gods regards the demons. May he, though bathed in sweat, form empty wishes, who blames his sacred rite who toils to serve you.",
+    "morphology": "yaḥ_yad_SNM ohate_ūh_SPr3In rakṣasaḥ_rakṣas_PAM deva_deva_MCp vītau_vīti_SLF acakrebhiḥ_acakra_PIM tam_tad_SAM marutaḥ_marut_PVM ni_ni_U yāta_yā_PPr2Im yaḥ_yad_SNM vaḥ_tvad_PA samīm_samī_SAF śaśamānasya_śam_SGPaPsM nindāt_nind_S"
+  },
+  {
+    "index": 43276,
+    "sanskrit": "jajñāno vācamiṣyasi pavamāna vidharmaṇi / krandaṃ devo na sūryaḥ //",
+    "english": "Shown forth thou sendest out thy voice, O Pavamana, with a roar",
+    "morphology": "jajñānaḥ_jan_SNPaPsM vācam_vāc_SAF iṣyasi_iṣ_SFu2In pavamāna_pū_SVPaPrM vidharmaṇi_vidharman_SLNe  / krandam_kranda_SAM devaḥ_deva_SNM na_na_ sūryaḥ_sūrya_SNM  /"
+  },
+  {
+    "index": 43277,
+    "sanskrit": "tathā ca śiṣṭā darśanīyakanyābhāve kapilādirūpām upayacchanti / tathā ca sahadharmānuṣṭhānam ācaranti /",
+    "english": "In many eases, for instance, people marry the \"tawny girl,\" and several such others as are forbidden; and with the assistance of those wives they do cany on their religious duties.",
+    "morphology": "tathā_tathā_ ca_ca_ śiṣṭāḥ_śās_PNPaM darśanīya_darśanīya_Cp kanyā_kanyā_Cp abhāve_abhāva_SLM kapilā_kapilā_Cp ādi_ādi_Cp rūpām_rūpa_SAF upayacchanti_upayam_PPr3In  / tathā_tathā_ ca_ca_ saha_saha_ dharma_dharma_Cp anuṣṭhān"
+  },
+  {
+    "index": 43278,
+    "sanskrit": "yathā ca varṇānasṛjadyadguṇāṃ ś ca prajāpatiḥ / yacca teṣāṃ smṛtaṃ karma viprādīnāṃ taducyatām //",
+    "english": "Different kinds of grain.",
+    "morphology": "yathā_yathā_ ca_ca_ varṇān_varṇa_PAM asṛjat_sṛj_S3ImIn yad_yad_Cp guṇān_guṇa_PAM ca_ca_ prajāpatiḥ_prajāpati_SNM  / yat_yad_SNNe ca_ca_ teṣām_tad_PGM smṛtam_smṛ_SNPaNe karma_karman_SNNe vipra_vipra_Cp ādīnām_ādi_PGM tat_tad_S"
+  },
+  {
+    "index": 43279,
+    "sanskrit": "ete sapta mahālokāḥ kāleya kathitāstava | pātālāni ca saptaiva brahmāṇḍasya ca vistaraḥ ||",
+    "english": "19. O sage, thus the seven worlds have been mentioned to you. The Pātālas too are also seven. Thus the universe has been explained to you.",
+    "morphology": "ete_etad_PNM sapta_saptan_PNM mahā_mahat_Cp lokāḥ_loka_PNM kāleya_kāleya_SVM kathitāḥ_kathay_PNPaM tava_tvad_SG  / pātālāni_pātāla_PNNe ca_ca_ sapta_saptan_SNNe eva_eva_ brahmāṇḍasya_brahmāṇḍa_SGNe ca_ca_ vistaraḥ_vistara_SNM"
+  }
+]

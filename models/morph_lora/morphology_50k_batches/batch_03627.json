@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29008,
+    "sanskrit": "manoja bāṇa bhinnāìgāḥ ślathan nīvyaḥ suraiḥ sahakaśmalaṃ prāyayu rājan vimāneṣv amarāìganāḥ",
+    "english": "O king, wounded by Kāmadeva's arrows, and their tight belts now loosened, the demigoddesses also fainted because of that music as they flew in airplanes with the demigods.",
+    "morphology": "manoja_manoja_SVM bāṇa_bāṇa_SVM bhinna_bhid_PaCp añgāḥ_añga_PNF ślathan_ślath_SNPaPrM nīvyaḥ_nīvi_PNF suraiḥ_sura_PIM saha_saha_ kaśmalam_kaśmala_SANe prāyayuḥ_prayā_PPs3In rājan_rājan_SVM vimāneṣu_vimāna_PLNe"
+  },
+  {
+    "index": 29009,
+    "sanskrit": "rātriṃrātrim aprayāvam bharatno 'śvāyeva tiṣṭhate ghāsam asmai | rāyas poṣeṇa sam iṣā madanto 'gne mā te prativeśā riṣāma |",
+    "english": "Mighty by night, unfailingly bearing (food) For him as fodder to a stalled horse, May we, O Agni, thy neighbours, be not harmed, Rejoicing in increase of wealth, in food.",
+    "morphology": "rātrim_rātri_SAF rātrim_rātri_SAF a_a_ prayāvam_prayu_Co bharatnaḥ_bharatna_SNM aśvāya_aśva_SDM iva_iva_ tiṣṭhate_sthā_SDPaPrM ghāsam_ghāsa_SAM asmai_idam_SDM  / rāyaḥ_rai_SGM poṣeṇa_poṣa_SIM sam_sam_ iṣā_iṣ_SIF madantaḥ_ma"
+  },
+  {
+    "index": 29010,
+    "sanskrit": "idam indra prati havyaṃ gṛbhāya satyāḥ santu yajamānasya kāmāḥ |",
+    "english": "Indra, accept this oblation; May the desires of the sacrificer be fulfilled.",
+    "morphology": "idam_idam_SANe indra_indra_SVM prati_prati_ havyam_havya_SANe gṛbhāya_gṛbhāy_SPr2Im satyāḥ_satya_PNM santu_as_PPr3Im yajamānasya_yaj_SGPaPrM kāmāḥ_kāma_PNM"
+  },
+  {
+    "index": 29011,
+    "sanskrit": "atha enam niśitaiḥ bāṇaiḥ sātyakiḥ pratyavidhyata sārathim ca mahā rāja tribhiḥ eva samārdayat",
+    "english": "Then Satyaki pierced him in return with many keen arrows, and struck his driver, O monarch, with three arrows.",
+    "morphology": "atha_atha_U enam_enad_SAM niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM sātyakiḥ_sātyaki_SNM pratyavidhyata_prativyadh_SPs3In sārathim_sārathi_SAM ca_ca_U mahā_mahat_Cp rāja_rāja_SVM tribhiḥ_tri_PIM eva_eva_U samārdayat_samarday_SPs3In"
+  },
+  {
+    "index": 29012,
+    "sanskrit": "yāvat pakṣadharmatvāvadhāraṇā na bhavati na tāvad anumānam iti yāvat //",
+    "english": "That is to say, until the presence of the Probans in the Subject is definitely cognised with certainty, there can be no Inference”.",
+    "morphology": "yāvat_yāvat_ pakṣa_pakṣa_Cp dharma_dharma_Cp tva_tva_Cp avadhāraṇā_avadhāraṇā_SNF na_na_ bhavati_bhū_SPr3In na_na_ tāvat_tāvat_ anumānam_anumāna_SNNe iti_iti_ yāvat_yāvat_"
+  },
+  {
+    "index": 29013,
+    "sanskrit": "na eva saṃjāyate jantuḥ na ca jātu vipadyate",
+    "english": "This Jiva is never born, nor doth he ever die.",
+    "morphology": "na_na_U eva_eva_U saṃjāyate_saṃjan_SPr3In jantuḥ_jantu_SNM na_na_U ca_ca_U jātu_jātu_U vipadyate_vipad_SPr3In"
+  },
+  {
+    "index": 29014,
+    "sanskrit": "svara upaghāte medaḥ je kapha vat vidhiḥ iṣyate",
+    "english": "The medical treatment in the case of the Medoja type of Svarabheda should be the same as in the Kaphaja type.",
+    "morphology": "svara_svara_MCp upaghāte_upaghāta_SLM medaḥ_medas_NeCp je_ja_SLM kapha_kapha_MCp vat_vat_U"
+  },
+  {
+    "index": 29015,
+    "sanskrit": "visrāvya ksāra vat cūrṇam bhāvayet karabha asthi jam",
+    "english": "The burnt ashes of elephant’s bones should be soaked several (seven) times with the above alkaline preparation in the manner of Bhavana saturation.",
+    "morphology": "visrāvya_visrāvay_Co ksāra_ksāra_MCp vat_vat_U cūrṇam_cūrṇa_SANe"
+  }
+]

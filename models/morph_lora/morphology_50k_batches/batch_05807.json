@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46448,
+    "sanskrit": "apare tv āhuḥ / doṣā rāgādayas tān dahet /",
+    "english": "But some people explain this verse to mean that \"one shall destroy the taints\" ie, love, hatred &c.",
+    "morphology": "apare_apara_PNM tu_tu_ āhuḥ_ah_PPs3In  / doṣāḥ_doṣa_PNM rāga_rāga_Cp ādayaḥ_ādi_PNM tān_tad_PAM"
+  },
+  {
+    "index": 46449,
+    "sanskrit": "jñānaṃ bodhiryathoditā // yaiva hi pūrvaṃ bodhiruktā saiveha samyagjñānaṃ veditavyam /",
+    "english": "Bodhi, as described above, is knowledge.",
+    "morphology": "jñānam_jñāna_SNNe bodhiḥ_bodhi_SNF yathā_yathā_ uditā_vad_SNPaF  // yā_yad_SNF eva_eva_ hi_hi_ pūrvam_pūrvam_ bodhiḥ_bodhi_SNF uktā_vac_SNPaF sā_tad_SNF eva_eva_ iha_iha_ samyak_samyak_ jñānam_jñāna_SNNe veditavyam_vid_SNNeGd  /"
+  },
+  {
+    "index": 46450,
+    "sanskrit": "nānā patākā kalilam kiṅkiṇī jāla mālinam uhyamānam iva ākāśe vimānam pāṇḍuraiḥ hayaiḥ",
+    "english": "Teeming with banners and decked with rows of bells, it looks like a celestial car borne along the welkin by steeds white in hue.",
+    "morphology": "nānā_nānā_U patākā_patākā_FCp kalilam_kalila_SAM kiṅkiṇī_kiṅkiṇī_FCp jāla_jāla_NeCp mālinam_mālin_SAM uhyamānam_vah_SAPaPrMPv iva_iva_U ākāśe_ākāśa_SLNe vimānam_vimāna_SAM pāṇḍuraiḥ_pāṇḍura_PIM hayaiḥ_haya_PIM"
+  },
+  {
+    "index": 46451,
+    "sanskrit": "kastamindra tvā vasavā martyo dadharṣati / śraddhā hi te maghavanpārye divi vājī vājaṃ siṣāsati //",
+    "english": "Indra whose wealth is in thyself, what mortal will attack this man?",
+    "morphology": "kaḥ_ka_SNM tam_tad_SAM indra_indra_SVM tvā_tvad_SA vasavā_vasu_DuVM martyaḥ_martya_SNM dadharṣati_dhṛṣ_SPs3Su  / śraddhā_śraddhā_SNF hi_hi_ te_tvad_SG maghavan_maghavan_SVM pārye_pārya_SLM divi_div_SLM vājī_vājin_SNM vājam_vāja_SAM s"
+  },
+  {
+    "index": 46452,
+    "sanskrit": "mohanī haritā krāntā sahadevī śikhā tathā / mātulaṅgarasaiḥ piṣṭaṃ lalāṭe tilako vaśe //",
+    "english": "Mohinī, haritā, kāntā, sahadevī and śikhā made into a paste in the juice of pomegranate and worn on the forehead as a mark subjugates all.",
+    "morphology": "__mohanī_U __haritā_U __krāntā_U __sahadevī_U __śikhā_U __tathā_U  / __mātulaṅga_U __rasa_U __piṣ_PaU __lalāṭa_U __tilaka_U __vaśa_U  /"
+  },
+  {
+    "index": 46453,
+    "sanskrit": "etena sadākhyenā'tmanā'tmavatsarvamidaṃ jagat /",
+    "english": "That is, it is through this Self known as ‘Being’ that all this Universe is imbued with Self;",
+    "morphology": "etena_etad_SIM sat_as_PaPrCp ākhyena_ākhyā_SIM ātmanā_ātman_SIM ātma_ātman_Cp vat_vat_ sarvam_sarva_SNNe idam_idam_SNNe jagat_jagant_SNNe  /"
+  },
+  {
+    "index": 46454,
+    "sanskrit": "tathā svargaḥ ca bhogaḥ ca niṣṭhā yā ca manīṣi tā sarvam puruṣakāreṇa kṛtena iha upapadyate",
+    "english": "Even so does one attain to heaven, and all the objects of enjoyment, as also the fulfilment of one's heart's desires by well-directed individual Exertion.",
+    "morphology": "tathā_tathā_U svargaḥ_svarga_SNM ca_ca_U bhogaḥ_bhoga_SNM ca_ca_U niṣṭhā_niṣṭhā_SNF yā_yad_SNF ca_ca_U manīṣi_manīṣin_Cp tā_tā_SNF sarvam_sarva_SNNe puruṣakāreṇa_puruṣakāra_SIM kṛtena_kṛ_SIPaPsM iha_iha_U upapadyate_upa"
+  },
+  {
+    "index": 46455,
+    "sanskrit": "sārathim ca śareṇa asya bhṛśam marmaṇi atāḍayat gautamaḥ tu tatas kruddhaḥ dhanuḥ gṛhya navam dṛḍham suketum triṃśatā bāṇaiḥ sarva marmasu atāḍayat",
+    "english": "The grandson of Gautama then, filled with rage, took up a new and very strong bow and struck Suketu with thirty arrows in all his vital limbs.",
+    "morphology": "sārathim_sārathi_SAM ca_ca_U śareṇa_śara_SIM asya_idam_SGM bhṛśam_bhṛśam_U marmaṇi_marman_SLNe atāḍayat_tāḍay_SPs3In gautamaḥ_gautama_SNM tu_tu_U tatas_tatas_U kruddhaḥ_krudh_SNPaPsM dhanuḥ_dhanus_SANe gṛhya_grah_Co navam_nava_S"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20304,
+    "sanskrit": "sāṃpratam ca mataḥ me asi brāhmaṇaḥ na atra saṃśayaḥ",
+    "english": "and even now, I consider thee to be a Brahmana, there is no doubt about this.",
+    "morphology": "sāṃpratam_sāṃpratam_U ca_ca_U mataḥ_man_SNPaPsM me_mad_SG asi_as_SPr2In brāhmaṇaḥ_brāhmaṇa_SNM na_na_U atra_atra_U saṃśayaḥ_saṃśaya_SNM"
+  },
+  {
+    "index": 20305,
+    "sanskrit": "ājyam ity ukthaṃ tad vai grahāṇāṃ nidānam |",
+    "english": "The hymn called the Ajya (Çastra), that is the foundation of the cups;",
+    "morphology": "ājyam_ājya_SNNe iti_iti_ uktham_uktha_SNNe tat_tad_SNNe vai_vai_ grahāṇām_graha_PGM nidānam_nidāna_SNNe"
+  },
+  {
+    "index": 20306,
+    "sanskrit": "ātmarakṣāparo nityamapramatto dṛḍhavrataḥ | viśvāsaṃ naiva kurvīthāḥ svabhṛtyeṣvapi kutra cit || 34 ||",
+    "english": "34. Be alert in guarding yourself; be unerring, steadfast in your observances; do not place too much of faith even in your servants at any cost.",
+    "morphology": "ātma_ātman_Cp rakṣā_rakṣā_Cp paraḥ_para_SNM nityam_nityam_ apramattaḥ_apramatta_SNM dṛḍha_dṛḍha_Cp vrataḥ_vrata_SNM  / viśvāsam_viśvāsa_SAM na_na_ eva_eva_ kurvīthāḥ_kṛ_SPr2O sva_sva_Cp bhṛtyeṣu_bhṛtya_PLM api_api_ kut"
+  },
+  {
+    "index": 20307,
+    "sanskrit": "rājanye ca catūrātraṃ vaiśye pañcāhameva ca //",
+    "english": "It lasts for four nights in the case of royal people, and for five days in the case of tradesmen.",
+    "morphology": "rājanye_rājanya_SLM ca_ca_ catur_catur_Cp rātram_rātra_SAM vaiśye_vaiśya_SLM pañca_pañcan_Cp aham_aha_SAM eva_eva_ ca_ca_  /"
+  },
+  {
+    "index": 20308,
+    "sanskrit": "caṃdreśvaraṃ samabhyarcya yadyanyatrāpi saṃsthitaḥ | aghaughapaṭalīṃ bhittvā somalokamavāpsyati || 62 ||",
+    "english": "62. One who worships Candreśvara, but dies elsewhere shall pierce clusters of sins and attain Somaloka.",
+    "morphology": "candreśvaram_candreśvara_SAM samabhyarcya_samabhyarcay_Co yadi_yadi_ anyatra_anyatra_ api_api_ saṃsthitaḥ_saṃsthā_SNPaM  / agha_agha_Cp ogha_ogha_Cp paṭalīm_paṭala_SAF bhittvā_bhid_Co soma_soma_Cp lokam_loka_SAM avāpsyati_avāp_SFu3In  /"
+  },
+  {
+    "index": 20309,
+    "sanskrit": "śrāddhe bhuktvā'tha dattvā vā śrāddhaṃ yo yuddhamācaret | asaṃdigdhaṃ hi tacchrāddhaṃ sa mando vyarthataṃ nayet || 22 ||",
+    "english": "22. If after performing a Śrāddha or partaking of the food therein, one indulges in a fight, undoubtedly that Śrāddha’ shall be futile.",
+    "morphology": "śrāddhe_śrāddha_SLNe bhuktvā_bhuj_Co atha_atha_ dattvā_dā_Co vā_vā_ śrāddham_śrāddha_SANe yaḥ_yad_SNM yuddham_yuddha_SANe ācaret_ācar_SPr3O  / asaṃdigdham_asaṃdigdha_SANe hi_hi_ tat_tad_SANe śrāddham_śrāddha_SANe sa_tad_SNM manda"
+  },
+  {
+    "index": 20310,
+    "sanskrit": "evaṃ padārthajñānasya vākyārthapratyayena nairākācyādagrahaṇam /",
+    "english": "Similarly, the cognition of the meanings of the component words also are wholly taken up by the indication of the meaning of the sentence composed by them and as such, this too cannot be said to be compre hended by means of the Context.",
+    "morphology": "evam_evam_ padārtha_padārtha_Cp jñānasya_jñāna_SGNe vākya_vākya_Cp artha_artha_Cp pratyayena_pratyaya_SIM nairākācyāt_nairākācya_SBNe agrahaṇam_agrahaṇa_SNNe  /"
+  },
+  {
+    "index": 20311,
+    "sanskrit": "vaiśampāyanaḥ uvāca sthite muhūrtam pārthe tu dharmarāje yudhiṣṭhire ājagmuḥ tatra kauravya devāḥ śakra purogamāḥ",
+    "english": "Indeed, O ruler of men, he informed Indra of all that Dharmas son had said! Vaishampayana said, \"King Yudhishthira the just, the son of Pritha, had not stayed there for more than a moment when, O thou of Kurus race, all the gods with Indra at their head came to that spot.",
+    "morphology": "vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In sthite_sthā_SLPaPsM muhūrtam_muhūrta_SANe pārthe_pārtha_SLM tu_tu_U dharmarāje_dharmarāja_SLM yudhiṣṭhire_yudhiṣṭhira_SLM ājagmuḥ_āgam_PPs3In tatra_tatra_U kauravya_kauravya_MCp dev"
+  }
+]

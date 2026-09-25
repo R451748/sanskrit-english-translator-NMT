@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38928,
+    "sanskrit": "|| brahmovāca | ityuktvā viṣṇupramukhān surānsarvān śaśāpa sā | prajvalaṃtī prakopena śailarājasutā śivā ||",
+    "english": "17. After saying these words Pārvatī, the daughter of the king of mountains, blazing with fury cursed Viṣṇu and all other gods.",
+    "morphology": "__brahman_U uvāca_vac_SPs3In  / __iti_U __vac_CoU __viṣṇu_U __pramukha_U __sura_U __sarva_U śaśāpa_śap_SPs3In __tad_U  / __prajval_PaPrU __prakopa_U __śailarājasutā_U __śivā_U"
+  },
+  {
+    "index": 38929,
+    "sanskrit": "api ca prāṅmukho darpaṇamavalokayan katham iva pratyaṅmukho bhavati / nahi tasya tadā pṛṣṭhābhimukhaṃ mukhamupajātaṃ dṛśyate //",
+    "english": "Then again, when a man facing the East looks at the mirror, how does he come to face the West? Certainly a face is not seen to have been produced at his back.",
+    "morphology": "api_api_ ca_ca_ prāc_prāñc_Cp mukhaḥ_mukha_SNM darpaṇam_darpaṇa_SAM avalokayan_avalokay_SNPaPrM katham_katham_ iva_iva_ pratyak_pratyañc_Cp mukhaḥ_mukha_SNM bhavati_bhū_SPr3In  / nahi_nahi_ tasya_tad_SGM tadā_tadā_ pṛṣṭha_pṛṣṭha_"
+  },
+  {
+    "index": 38930,
+    "sanskrit": "asya kvacid apavādaḥ //",
+    "english": "To this rule, there are some exceptions\" and these are noted below.",
+    "morphology": "asya_idam_SGM "
+  },
+  {
+    "index": 38931,
+    "sanskrit": "ā pavasva diśām pate ārjīkāt soma mīḍhavaḥ r̥ta vākena satyena śraddhayā tapasā sutaḥ indrāya indo iti pari srava",
+    "english": "Lord of the Quarters, flow thou on, boon Soma, from Ârjîka land, Effused with ardour and with faith, and the true hymn of sacrifice. Flow, Indu, flow for Indra's sake.",
+    "morphology": "ā_ā_U pavasva_pū_SPr2Im diśām_diś_PGF pate_pati_SVM ārjīkāt_ārjīka_SBM soma_soma_SVM mīḍhavaḥ_mīḍhavas_SVM r̥ta_rā_PaPsCp vākena_vāka_SINe satyena_satya_SINe śraddhayā_śraddhā_SIF tapasā_tapas_SINe sutaḥ_su_SNPaPsM indrāya_in"
+  },
+  {
+    "index": 38932,
+    "sanskrit": "evaṃ cānyapadārthavidhānāttatpradhāno bahubrohiranugrahoṣyate/",
+    "english": "Thus too, the word Rathantarasāma being taken as referring to something distinct from that which is denoted by the words Rathan tura and sama themselves, the presence of the Bahuvrihi compound would become justified as the predominant factor in that compound is always something apart from that denoted by the component words.",
+    "morphology": "evam_evam_"
+  },
+  {
+    "index": 38933,
+    "sanskrit": "anṛtam akarteti samantaṃ devān pary aviśan te devā agnāv anāthanta te 'gnaye pravate puroḍāśam aṣṭākapālaṃ nir avapann agnaye vibādhavate 'gnaye pratīkavate yad agnaye pravate niravapan yāny eva purastād rakṣāṃsi |",
+    "english": "The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides. The gods found a protector in Agni; they offered to Agni, the forward, a cake on eight potsherds, to Agni, the overcomer, to Agni with the face. In that they offered to Agni, the forward, the Raksases in front [2] they repelled thereby;",
+    "morphology": "anṛtam_anṛta_SANe akarta_kṛ_PPs2In iti_iti_ samantam_samanta_SANe devān_deva_PAM pari_pari_ aviśan_viś_P3ImIn te_tad_PNM devāḥ_deva_PNM agnau_agni_SLM anāthanta_nāth_P3ImIn te_tad_PNM agnaye_agni_SDM pravate_pravat_SDM puroḍāśam_puroḍā"
+  },
+  {
+    "index": 38934,
+    "sanskrit": "|| śaṃkara uvāca | purā me sarvamākhyātaṃ yogināṃ hitakāmyayā | kālaṃ jigāya yassamyagvāyorliṃgaṃ yathā bhavet ||",
+    "english": "2. Formerly, desirous of the welfare of Yogins I had explained everything as to how wind became a symbol for the Yogins desirous of conquering Kāla.",
+    "morphology": "__śaṃkara_U uvāca_vac_SPs3In  / purā_purā_U __mad_U __sarva_U __ākhyā_PaU __yogin_U __hita_U __kāmyā_U  / __kāla_U jigāya_ji_SPs3In __yad_U samyak_samyak_U __vāyu_U __liṅga_U __yathā_U bhavet_bhū_SPr3O"
+  },
+  {
+    "index": 38935,
+    "sanskrit": "putram ca ātma samam vīrye tapasā sraṣṭum āgataḥ",
+    "english": "The object that has brought me here is to acquire by the aid of penances a son that would be my equal in energy.",
+    "morphology": "putram_putra_SAM ca_ca_U ātma_ātman_MCp samaḥ_sama_SNM"
+  }
+]

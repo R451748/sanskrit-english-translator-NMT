@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43280,
+    "sanskrit": "iṣṭa tuṣṭa mayī lakṣmīḥ gomaye vasate sadā",
+    "english": "Nilakantha's explanation does not seem to be satisfactory.",
+    "morphology": "iṣṭa_iṣ_PaPsF tuṣṭa_tuṣ_PaPsF"
+  },
+  {
+    "index": 43281,
+    "sanskrit": "tṛtīyaṃ kutsasaṃjñaṃ ca gotradevyastathaiva ca | prathamaṃ dhāraṇasagotraṃ pravaratrayameva ca || 77 ||",
+    "english": "The first one is Dhāraṇagotra with three Pravaras: Agasti, Dārḍhācyuta and Idhmavāhana.",
+    "morphology": "tṛtīyam_tṛtīya_SNNe kutsa_kutsa_Cp saṃjñam_saṃjñā_SNNe ca_ca_ gotradevyaḥ_gotradevī_PNF tathā_tathā_ eva_eva_ ca_ca_  / prathama_prathama_SNNe dhāraṇa_dhāraṇa_Cp sagotram_sagotra_SNNe pravara_pravara_Cp trayam_traya_SNNe eva_eva_ ca"
+  },
+  {
+    "index": 43282,
+    "sanskrit": "tathā duḥkhamanuśete kaścitpratyayaḥ 'īdṛśaṃ sarvaṃ duḥkhaṃ sarvadā me mā bhūt' iti /",
+    "english": "In the same way there is some peculiar transformation in the form of 'never all such pain be unto me', which dwells on the experience of pain.",
+    "morphology": "tathā_tathā_ duḥkham_duḥkha_SNNe anuśete_anuśī_SPr3In kaścid_kaścit_SNM pratyayaḥ_pratyaya_SNM 'īdṛśam_īdṛśa_SNNe sarvam_sarva_SNNe duḥkham_duḥkha_SNNe sarvadā_sarvadā_ me_mad_SG mā_mā_ bhūt_bhū_SPs3"
+  },
+  {
+    "index": 43283,
+    "sanskrit": "snigdha svinnāya vamanam dattam samyak pravartate",
+    "english": "An emetic medicine does its fullest action, when given to a man after having applied a Sneha and Sveda (to him) and after having stirred up the Doshas of his body with the help of a soft mucilaginous (Kapha-producing)[1] fluid and emollient food so as to accelerate their easy expulsion from the system 4.",
+    "morphology": "snigdha_snih_PaPsCp"
+  },
+  {
+    "index": 43284,
+    "sanskrit": "atha rudro mahādevaḥ śaṃbhormūrtirgarīyasī | vāhneyamaṇḍalādhīśaḥ pauruṣaiśvaryavānprabhuḥ || śivābhimānasaṃpanno nirguṇastriguṇātmakaḥ | kevalaṃ sāttvikaścāpi rājasaścaiva tāmasaḥ || avikārarataḥ pūrvaṃ tatastu samavikriyaḥ | asādhāraṇakarmā ca sṛṣṭyādikaraṇātpṛthak || brahmaṇopi śiraśchettā janakastasya tatsutaḥ | janakastanayaścāpi viṣṇorapi niyāmakaḥ || bodhakaśca tayornityamanugrahakaraḥ prabhuḥ | aṃḍasyāṃtarbahirvartī rudro lokadvayādhipaḥ ||",
+    "english": "118-123. Then the great lord Rudra, the important form of lord Śivā, is the lord of the zone of Fire and possesses all Aiśvaryas. He is enriched with the identity with Śiva. He is devoid as well as possessed of attributes. He is Sāttvic, Rājasic and Tāmasic. Basically he is not prone to aberrations. Then outwardly he assumes aberrations. He is of extraordinary activity apart from the activity of creation etc. He cut off the head of Brahmā. He is his father as well as his son. He is the progenitor and son of Viṣṇu to whom he controls. He is the enlightener of both. The lord blesses them for ever. Rudra is stationed within and without the cosmos. He is the lord of the worlds. He is fond of Śiva to whom he is fondly attached. He is engaged in the worship of Śiva. May he grant my desire at the behest of Śiva.",
+    "morphology": "atha_atha_ rudraḥ_rudra_SNM mahādevaḥ_mahādeva_SNM śaṃbhoḥ_śambhu_SGM mūrtiḥ_mūrti_SNF garīyasī_garīyas_SNF  / vāhneya_vāhneya_Cp maṇḍala_maṇḍala_Cp adhīśaḥ_adhīśa_SNM pauruṣa_pauruṣa_Cp aiśvaryavān_aiśvaryavat_SNM"
+  },
+  {
+    "index": 43285,
+    "sanskrit": "cāturvarṇyādivad rūpasiddhiḥ /",
+    "english": "\"Traividya\" is the compounded form of \"trayo\"; the formation of the term being similar to that of such terms as \"chaturvarṇya\" and the rest.",
+    "morphology": "__cāturvarṇya_U __ādi_U __vat_U"
+  },
+  {
+    "index": 43286,
+    "sanskrit": "indro viṣṇurvyāhṛtīnāṃ daivatāni yathākramaṃ //",
+    "english": "Fire god, Wind god, Sun, Jupiter, Varuṇa, Indra, Viṣṇu are the presiding deities of vyāhṛtis in order.",
+    "morphology": "indraḥ_indra_SNM viṣṇuḥ_viṣṇu_SNM vyāhṛtīnām_vyāhṛti_PGF "
+  },
+  {
+    "index": 43287,
+    "sanskrit": "yat ca anyat api kartavyam tat vidhatsva mahāmate",
+    "english": "And, O high-souled one, order thou whatever else there is that remaineth to be done.",
+    "morphology": "yat_yad_SNNe ca_ca_U anyat_anya_SNNe api_api_U kartavyam_kṛ_SNNeGd"
+  }
+]

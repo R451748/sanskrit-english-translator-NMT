@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15144,
+    "sanskrit": "bāliśyād abhiyoktur vā duhśrutaṃ durlikhitaṃ pretaabhiniveśaṃ vā samīkṣya sākṣipratyayam eva syāt //",
+    "english": "In cases where the plaintiff proves himself stupid, or where bad hearing on the part of witnesses at the time of the transaction or bad writing is the cause of difficulty, or where the debtor is dead, the evidence of witnesses alone shall be depended on sákshipratyayameva syát",
+    "morphology": "bāliśyāt_bāliśya_SBNe abhiyoktuḥ_abhiyoktṛ_SGM vā_vā_ duhśrutam_duhśruta_SANe durlikhitam_durlikhita_SANe preta_preta_Cp abhiniveśam_abhiniveśa_SAM vā_vā_ samīkṣya_samīkṣ_Co sākṣi_sākṣin_Cp pratyayam_pratyaya_SNNe eva_eva_ syā"
+  },
+  {
+    "index": 15145,
+    "sanskrit": "(27) viśuddha-gātrāś-ca,",
+    "english": "(27) purified limbs,",
+    "morphology": "viśuddha_viśudh_PaCp"
+  },
+  {
+    "index": 15146,
+    "sanskrit": "yāpy eṣā kukkurī asyaiva gha-pater mātā |",
+    "english": "Also this bitch is the householder’s mother.",
+    "morphology": "yā_yad_SNF api_api_ eṣā_etad_SNF kukkurī_kukkurī_SNF asya_idam_SGM eva_eva_ g￞_gṛha_Cp pateḥ_pati_SGM mātā_mātṛ_SNF"
+  },
+  {
+    "index": 15147,
+    "sanskrit": "ahorātropavāsena vidhivattāṃ visarjayet | yā sā yamapure ghore nadī vaitaraṇī smṛtā || 104 ||",
+    "english": "After observing fast for a day and a night, the devotee should gift it in accordance with the injunctions.",
+    "morphology": "ahorātra_ahorātra_Cp upavāsena_upavāsa_SIM vidhivat_vidhivat_ tām_tad_SAF visarjayet_visarjay_SPr3O  / yā_yad_SNF sā_tad_SNF yama_yama_Cp pure_pura_SLNe ghore_ghora_SLNe nadī_nadī_SNF vaitaraṇī_vaitaraṇī_SNF smṛtā_smṛ_SNPaF  /"
+  },
+  {
+    "index": 15148,
+    "sanskrit": "yadi na praṇayed rājā daṇḍaṃ daṇḍyeṣv atandritaḥ / śūle matsyān ivāpakṣyan durbalān balavattarāḥ //",
+    "english": "If the king did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit;",
+    "morphology": "yadi_yadi_ na_na_ praṇayet_praṇī_SPr3O rājā_rājan_SNM daṇḍam_daṇḍa_SAM daṇḍyeṣu_daṇḍay_PLMGd atandritaḥ_atandrita_SNM  / śūle_śūla_SLNe matsyān_matsya_PAM iva_iva_ apakṣyan_pac_PFu3 durbalān_durbala_PAM balavattarāḥ_b"
+  },
+  {
+    "index": 15149,
+    "sanskrit": "muśalī ca tataḥ sarvāñjitvā dānavapuṃgavān | svasthānamagamattatra kṛtvā kāryaṃ suśobhanam || 69 ||",
+    "english": "After finishing his task splendidly i.e. after conquering the leading Dānavas, Musalin (i.e. Balarāma) came back to his abode. Both of them, Kṛṣṇa and Saṅkarṣaṇa, set off to Dvārakā.",
+    "morphology": "muśalī_muśalī_SNF ca_ca_ tatas_tatas_ sarvān_sarva_PAM jitvā_ji_Co dānava_dānava_Cp puṃgavān_puṃgava_PAM  / sva_sva_Cp sthānam_sthāna_SANe agamat_gam_SPs3InTh tatra_tatra_ kṛtvā_kṛ_Co kāryam_kārya_SANe su_su_ śobhanam_śobhana_SANe  "
+  },
+  {
+    "index": 15150,
+    "sanskrit": "saṃśayād vā pravṛttau vedārthe 'pi tathaiva syād iti śāstram anārabdhavyaṃ syāt //",
+    "english": "If it is held that when a man understands the utility of a book following its logic he reads the whole of it but not otherwise.",
+    "morphology": "saṃśayāt_saṃśaya_SBM vā_vā_ pravṛttau_pravṛtti_SLF veda_veda_Cp arthe_artha_SLM api_api_ tathā_tathā_ eva_eva_ syāt_as_SPr3O iti_iti_ śāstram_śāstra_SNNe anārabdhavyam_anārabdhavya_SNNe syāt_as_SPr3O  /"
+  },
+  {
+    "index": 15151,
+    "sanskrit": "svāminoktā gaṇāste cādbhutalīlena śaṃbhunā | punarāgatya tatraiva tamūcurdvārapālakam ||",
+    "english": "14. Thus commanded by lord Śiva of wonderful sports the Gaṇas returned to the place and spoke to the doorkeeper.",
+    "morphology": "svāminā_svāmin_SIM uktāḥ_vac_PNPaM gaṇāḥ_gaṇa_PNM te_tad_PNM ca_ca_ adbhuta_adbhuta_Cp līlena_līlā_SIM śaṃbhunā_śambhu_SIM  / punar_punar_ āgatya_āgam_Co tatra_tatra_ eva_eva_ tam_tad_SAM ūcuḥ_vac_PPs3In dvārapālakam_dvārapāla"
+  }
+]

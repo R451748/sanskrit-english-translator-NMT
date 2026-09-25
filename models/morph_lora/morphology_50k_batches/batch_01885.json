@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15072,
+    "sanskrit": "jñātibhyaḥ ca eva bibhyethāḥ mṛtyoḥ iva yatas sadā",
+    "english": "Thou shouldst fear thy kinsmen as thou shouldst death itself.",
+    "morphology": "jñātibhyaḥ_jñāti_PBM ca_ca_U"
+  },
+  {
+    "index": 15073,
+    "sanskrit": "pauruṣeyavacanān na bhidyate iti yāvat /",
+    "english": "that is, they do not differ from human assertions.",
+    "morphology": "pauruṣeya_pauruṣeya_Cp vacanāt_vacana_SBNe na_na_ bhidyate_bhid_SPr3InPv"
+  },
+  {
+    "index": 15074,
+    "sanskrit": "kāmyakarmārambhe pūrvaṃ tapaḥ kartavyam / tad api tāvad anūdyate /",
+    "english": "Before undertaking a rite conducive to a desirable result, it is necessary to perform an austerity; it is this fact that is referred to here.",
+    "morphology": "kāmya_kāmya_Cp karma_karman_Cp ārambhe_ārambha_SLM pūrvam_pūrvam_ tapaḥ_tapas_SNNe kartavyam_kṛ_SNNeGd  / tat_tad_SNNe api_api_ ḥ_ḥ_"
+  },
+  {
+    "index": 15075,
+    "sanskrit": "gomukho vanavāse ca rakṣato rathavājinaḥ / pralambabāhoḥ siṃhādivadhaśauryamavarṇayat //",
+    "english": "And Gomukha described the valour of Pralambabāhu, while he was protecting the horses during their sojourn in the forest, in killing lions and other noxious beasts.",
+    "morphology": "gomukhaḥ_gomukha_SNM vana_vana_Cp vāse_vāsa_SLM ca_ca_ rakṣataḥ_rakṣ_SGPaPrM ratha_ratha_Cp vājinaḥ_vājin_SGM  / pralamba_pralamba_Cp bāhoḥ_bāhu_SGM"
+  },
+  {
+    "index": 15076,
+    "sanskrit": "rākṣasāḥ ca piśācāḥ ca yātudhānāḥ śalāvṛkāḥ śālāvṛkāḥ ca bahavaḥ vṛkāḥ ca vikṛta ānanāḥ te karṇam bhakṣayiṣyantaḥ sarvatas samupādravan",
+    "english": "Then many Rakshasas and Pisachas and Yatudhanas, and large numbers of wolves and leopards, of frightful faces rushed towards Karna for devouring him.",
+    "morphology": "rākṣasāḥ_rākṣasa_PNM ca_ca_U piśācāḥ_piśāca_PNM ca_ca_U yātudhānāḥ_yātudhāna_PNM śalāvṛkāḥ_śalāvṛka_PNM śālāvṛkāḥ_śālāvṛka_PNM ca_ca_U bahavaḥ_bahu_PNM vṛkāḥ_vṛka_PNM ca_ca_U vikṛta_vikṛ_PaPsCp ā"
+  },
+  {
+    "index": 15077,
+    "sanskrit": "asyām etam bhavān kāmam saṃpādayatu me varam etat śrutvā tu sā kanyā gālavam vākyam abravīt mama dattaḥ varaḥ kaḥ cit kena cit brahma vādinā",
+    "english": "Kindly grant this request of mine.' Hearing these words of the king, that damsel said unto Galava, 'A reciter of Brahma granted me a boon that I would after each delivery, be a maiden again.",
+    "morphology": "asyām_idam_SLF etam_etad_SAM bhavān_bhavat_SNM kāmam_kāma_SAM saṃpādayatu_sampāday_SPr3Im me_mad_SG varam_vara_SAM etat_etad_SANe śrutvā_śru_Co tu_tu_U sā_tad_SNF kanyā_kanyā_SNF gālavam_gālava_SAM vākyam_vākya_SANe abravīt_brū_SPs3In m"
+  },
+  {
+    "index": 15078,
+    "sanskrit": "teneyam atra vyākhyā / asatsu savarṇāsv asavarṇāsv api ye jātās te 'pi jāyāṃśam uddhāreṇa savarṇavad vibhajeran //",
+    "english": "Thus, the rule on this subject should be as that when there are no sons of the wife of the same caste, oven those sons that are born of wives of different, castes should give to the eldest brother of the same caste as themselves, his preferential share and divide the rest equally.",
+    "morphology": "tena_tena_ iyam_idam_SNF atra_atra_ vyākhyā_vyākhyā_SNF  / asatsu_asat_PLF savarṇāsu_savarṇa_PLF asavarṇāsu_asavarṇa_PLF api_api_ ye_yad_PNM jātāḥ_jan_PNPaM te_tad_PNM api_api_ jāyā_jāyā_SNF aṃśam_aṃśa_SAM uddhāreṇa_uddhāra_"
+  },
+  {
+    "index": 15079,
+    "sanskrit": "satyaṃ satyaṃ punaḥ satyaṃ bravīmi dvijapuṃgavāḥ | sarvasaṃtāpaśamanamaśeṣamalanāśanam || 74 || snapanaṃ śrīpaterjyaiṣṭhyāṃ yadi bhaktyā vilokanam | prāyaścittanimittāni yāni pāpāni saṃti vai || 75 ||",
+    "english": "74-78. It is true. It is (definitely) true, O eminent Brāhmaṇas. I am speaking the truth. It subdues all distresses. It is destructive of all sins and impurities, if the ablution of Śrīpati is devoutly witnessed on the full-moon day in the month of Jyeṣṭha.",
+    "morphology": "satyam_satya_SANe satyam_satya_SANe punar_punar_ satyam_satya_SANe bravīmi_brū_SPr1In dvija_dvija_Cp puṃgavāḥ_puṃgava_PVM  / sarva_sarva_Cp saṃtāpa_saṃtāpa_Cp śamanam_śamana_SANe aśeṣa_aśeṣa_Cp mala_mala_Cp nāśanam_nāśana_SANe  /"
+  }
+]

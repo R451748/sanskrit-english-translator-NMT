@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24736,
+    "sanskrit": "artha arthī puruṣaḥ rājan bṛhantam dharmam ṛcchati",
+    "english": "He that wisheth (to obtain) wealth, seeketh for a large share of virtue to crown his wish with success.",
+    "morphology": "artha_artha_MCp arthī_arthin_SNM puruṣaḥ_puruṣa_SNM"
+  },
+  {
+    "index": 24737,
+    "sanskrit": "svāhākr̥tāni ā gahi upa havyāni vītaye indra ā gahi śrudhi havam tvām havante adhvare",
+    "english": "Come hither to enjoy the gifts prepared with cry of Glory! Come, O Indra, hear their calling; they invite thee to the sacrifice.",
+    "morphology": "svāhākr̥tāni_svāhākṛta_PANe ā_ā_U gahi_gam_SPs2Im upa_upa_U havyāni_havya_PANe vītaye_vī_In indra_indra_SVM ā_ā_U gahi_gam_SPs2Im"
+  },
+  {
+    "index": 24738,
+    "sanskrit": "bhārāvataraṇaṃ deva na kariṣyasi cāśu cet | rasātalaṃ prayāsyāmi tadā'haṃ nātra saṃśayaḥ || 52 ||",
+    "english": "52. O Lord, if you do not reduce the burden immediately, I shall undoubtedly sink into Rasātala (nether world).",
+    "morphology": "bhāra_bhāra_Cp avataraṇam_avataraṇa_SANe deva_deva_SVM na_na_ kariṣyasi_kṛ_SFu2In ca_ca_ āśu_āśu_ ced_ced_  / rasātalam_rasātala_SANe prayāsyāmi_prayā_SFu1In tadā_tadā_ aham_mad_SN na_na_ atra_atra_ saṃśayaḥ_saṃśaya_SNM"
+  },
+  {
+    "index": 24739,
+    "sanskrit": "atha vā sthānaṃ svadeśāc cāpracyavanam /",
+    "english": "Or,\"sthāna\" ,\"state\" , may mean not deviating from its own position.",
+    "morphology": "atha_atha_ vā_vā_ sthānam_sthāna_SANe sva_sva_Cp deśāt_deśa_SBM ca_ca_ a_a_ pracyavanam_pracyu_SANeGd"
+  },
+  {
+    "index": 24740,
+    "sanskrit": "ajñātvā yaḥ śivaṃ bhukte kathyate so'tra brahmahā | mārṣṭi ca brahmahānnāde tasmāttasya na bhakṣayet || 52 ||",
+    "english": "52. He who takes food without knowing Śiva, is called Brahmahā (‘slayer of a Brāhmaṇa’). A murderer of a Brāhmaṇa wipes off (all the merits) of the person who takes his food. Hence one shall not take his food.",
+    "morphology": "a_a_ jñātvā_jñā_Co yaḥ_yad_SNM śivam_śiva_SAM bhukte_bhuj_SLPaM kathyate_kathay_SPr3InPv saḥ_tad_SNM atra_atra_ brahma_brahman_Cp hā_han_SNM  / mārṣṭi_mṛj_SPr3In ca_ca_ brahma_brahman_Cp hā_han_SNM nāde_nāda_SLM tasmāt_tasmāt_ tasya"
+  },
+  {
+    "index": 24741,
+    "sanskrit": "vistareṇa dhvajaḥ kāryo viṃśadaṅgulasannibhaḥ //",
+    "english": "The banner should measure half the dimension of the staff. The breadth should measure twenty fingers.",
+    "morphology": "vistareṇa_vistara_SIM dhvajaḥ_dhvaja_SNM kāryaḥ_kṛ_SNMGd viṃśat_viṃśat_Cp aṅgula_aṅgula_Cp sannibhaḥ_saṃnibha_SNM  /"
+  },
+  {
+    "index": 24742,
+    "sanskrit": "sudakṣiṇā iti pāṭhe 'nyad api suvarṇādi tatra dātavyam / śobhanārthe vā suśabdaḥ paṭhitavyaḥ / sā gauḥ śobhanā dakṣiṇādānam / kāṃsyopadohā iti pāṭhāntaram /",
+    "english": "Or, we may read \"su\" for \"sa\" i e,\"sudaksiṇā,\" meaning beautiful; the meaning being that the cow given, as also the presents, shall be excellent \"kāṃsyopadohā is another reading for \"sakāṃsyapatra;\" \"kāṃsya\" standing for a particular measure; and the cow should give that much milk; ie, she should give a large quantity of milk.",
+    "morphology": "su_su_ dakṣiṇāḥ_dakṣiṇā_PNF iti_iti_ pāṭhe_pāṭha_SLM anyat_anya_SNNe api_api_ suvarṇa_suvarṇa_Cp ādi_ādi_SNNe tatra_tatra_ dātavyam_dā_SNNeGd  / śobhana_śobhana_Cp arthe_artha_SLM vā_vā_ su_su_ śabdaḥ_śabda_SNM paṭhitavy"
+  },
+  {
+    "index": 24743,
+    "sanskrit": "tvaṃ hi mūḍhatvamāpanno na jānāsi hi kiṃcana | vācyāvācyaṃ maheśasya viṣayā hi bahirmukhāḥ || 77 || yeye āgamikāścādre naṣṭāste nātra saṃśayaḥ | arūpoyaṃ virūpākṣo hyakulīno'yamucyate || 78 ||",
+    "english": "77-78. You are confounded. You do not know anything about what should be said or should not be said. All worldly objects are external to Maheśa. O Mountain, whatever is originated, whatever has a birth, becomes dead. There is no doubt about it. This Virūpākṣa (one with uneven eyes) is devoid of form and features. (Hence) he is called Akulīna (having no family).",
+    "morphology": "tvam_tvad_SN hi_hi_ mūḍha_muh_PaCp tvam_tva_SANe āpannaḥ_āpad_SNPaM na_na_ jānāsi_jñā_SPr2In hi_hi_ kiṃcana_kaścana_SANe  / vācya_vac_GdCp avācyam_avācya_SANe maheśasya_maheśa_SGM viṣayāḥ_viṣaya_PNM hi_hi_ bahirmukhāḥ_bahirmukh"
+  }
+]

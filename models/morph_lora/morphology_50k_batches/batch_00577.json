@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4608,
+    "sanskrit": "yo dadyāttu vyatīpāta ūrṇāyugasamanvitam | rājasūyasahasrasya phalamāpnoti mānavaḥ || 76 ||",
+    "english": "76-77a. A man who makes the gift of that Purāṇa along with two woollen cloths, attains the merit of a thousand Rājasūyas. If the gift is accompanied by a gold replica of a cow, it bestows the region of Brahmā.",
+    "morphology": "yaḥ_yad_SNM dadyāt_dā_SPr3O tu_tu_ vyatīpāte_vyatīpāta_SLM ūrṇā_ūrṇā_Cp yuga_yuga_Cp samanvitam_samanvita_SANe  / rājasūya_rājasūya_Cp sahasrasya_sahasra_SGNe phalam_phala_SANe āpnoti_āp_SPr3In "
+  },
+  {
+    "index": 4609,
+    "sanskrit": "nanu aham kṛṣṇa bhīṣmasya dhṛtarāṣṭrasya ca ubhayoḥ",
+    "english": "Morally, O Krishna, I am the daughter-in-law of both Bhishma and Dhritarashtra.",
+    "morphology": "nanu_nanu_U aham_mad_SN kṛṣṇa_kṛṣṇa_SVM bhīṣmasya_bhīṣma_SGM dhṛtarāṣṭrasya_dhṛtarāṣṭra_SGM ca_ca_U"
+  },
+  {
+    "index": 4610,
+    "sanskrit": "jaiminiruvāca | prasaṃgātkathitaṃ hyetadrahasyaṃ pāpanāśanam | śṛṇvaṃti ye tu caritaṃ puṇḍarīkāṃbarīṣayoḥ || 76 || satataṃ c kīrtayaṃtaśca mudā paramaya yutāḥ | vrajaṃti viṣṇunilayaṃ mudā paramayā yutāḥ | vrajaṃti viṣṇunilayaṃ te'pi nirddhūtakalmaṣāḥ || 77 ||",
+    "english": "76-77. It is just incidentally that this secret conducive to the destruction of sins has been told. Those who listen to this story of Puṇḍarīka and Aṃbarīṣa and those who recite it always with great joy, go to the abode of Viṣṇu with great joy. They will go to the abode of Viṣṇu with all sins dispelled.",
+    "morphology": "jaiminiḥ_jaimini_SNM uvāca_vac_SPs3In  / prasaṃgāt_prasaṅga_SBM kathitam_kathay_SNPaNe hi_hi_ etat_etad_SNNe rahasyam_rahasya_SNNe pāpa_pāpa_Cp nāśanam_nāśana_SNNe  / śṛṇvaṃti_śru_PPr3In ye_yad_PNM tu_tu_ caritam_carita_SANe puṇḍa"
+  },
+  {
+    "index": 4611,
+    "sanskrit": "gautamyuvāca | paśyaitāni sutīrthāni gaṃgādyāḥ sarito'malāḥ | sāgarā girayaḥ puṇyā gayātritayameva ca || 16 ||",
+    "english": "Gautamī said:",
+    "morphology": "gautamī_gautamī_SNF uvāca_vac_SPs3In  / paśya_paś_SPr2Im etāni_etad_PANe su_su_ tīrthāni_tīrtha_PANe gaṃgā_gaṅgā_Cp ādyāḥ_ādya_PNF saritaḥ_sarit_PNF amalāḥ_amala_PNF  / sāgarāḥ_sāgara_PNM girayaḥ_giri_PNM puṇyāḥ_puṇya"
+  },
+  {
+    "index": 4612,
+    "sanskrit": "pūrṇe śata sahasre tu viprāṇām pariviṣyatām sthāpitā tatra saṃjñā abhūt śaṅkhaḥ dhmāyati nityaśas",
+    "english": "When a hundred thousand Brahmanas were fed, it had been arranged that to notify this act every day conches would be blown in a chorus.",
+    "morphology": "pūrṇe_pṛ_SLPaPsNe śata_śata_NeCp sahasre_sahasra_SLNe tu_tu_U viprāṇām_vipra_PGM pariviṣyatām_pariviṣ_PGPaPrM sthāpitā_sthāpay_SNPaPsF tatra_tatra_U saṃjñā_saṃjñā_SNF abhūt_bhū_SPs3In śaṅkhaḥ_śaṅkha_SNM"
+  },
+  {
+    "index": 4613,
+    "sanskrit": "anye punarācāryāḥ paśyanti narakavedanīyaṃ narakāccānyakāmadhātuvedanīyaṃ karma yathākrama kṛṣṇaṃ kṛṣṇaśuklaṃ ceti /",
+    "english": "According to other masters action which should be experienced in hell is black action; action which should be experienced elsewhere in Kāmadhātu, in addition to hell, is blackwhite action. Infernal retribution is produced exclusively through bad.",
+    "morphology": "anye_anya_PNM punar_punar_ ācāryāḥ_ācārya_PNM paśyanti_paś_PPr3In naraka_naraka_Cp vedanīyam_vid_SANeGd narakāt_naraka_SBNe ca_ca_ anya_anya_Cp kāmadhātu_kāmadhātu_Cp vedanīyam_vid_SANeGd karma_karman_SANe yathākrama_yathākrama_ kṛṣ"
+  },
+  {
+    "index": 4614,
+    "sanskrit": "tam drauṇiḥ agratas dṛṣṭvā sthitam kuru kula udvaha sanna kaṇṭhaḥ abravīt vākyam abhivādya su dīna vat bho bho māyā yadṛcchā vā na vidmaḥ kim idam bhavet",
+    "english": "Beholding him, that perpetuator of Kura's race, standing on his way, the son of Drona with voice choked in grief, and like one exceedingly cheerless, saluted him and said, 'O sire, O sire, is this an illusion, or is it a caprice (on the part of the weapon)? I do not know what it is.",
+    "morphology": "tam_tad_SAM drauṇiḥ_drauṇi_SNM agratas_agratas_U dṛṣṭvā_dṛś_Co sthitam_sthā_SAPaPsM kuru_kuru_MCp kula_kula_NeCp udvaha_udvaha_SVM sanna_sad_PaPsCp kaṇṭhaḥ_kaṇṭha_SNM abravīt_brū_SPs3In vākyam_vākya_SANe abhivādya_abhivāday"
+  },
+  {
+    "index": 4615,
+    "sanskrit": "atha sarvānsamutsṛjya brāhmaṇānbrahmavatsalaḥ | sarvaṃ daivakṛtaṃ mattvā niściṃtaḥ pārthivo'bhavat || 26 ||",
+    "english": "26. All the Brāhmaṇas were sent off by the king who was favourable and friendly to them. Considering that everything was the handiwork of adverse fate, the king became free from anxiety.",
+    "morphology": "atha_atha_ sarvān_sarva_PAM samutsṛjya_samutsṛj_Co brāhmaṇān_brāhmaṇa_PAM brahma_brahman_Cp vatsalaḥ_vatsala_SNM  / sarvaḥ_sarva_SNM daiva_daiva_Cp kṛtam_kṛ_SAPaNe niściṃtaḥ_niścita_SNM"
+  }
+]

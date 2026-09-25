@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10136,
+    "sanskrit": "anvālabhet dakṣiṇatas vrajet ca",
+    "english": "When making journeys, one should proceed by their right (i.e., keeping them to one's left).",
+    "morphology": "anvālabhet_anvālabh_SPr3O"
+  },
+  {
+    "index": 10137,
+    "sanskrit": "ukthaśā ity āha prātaḥsavanam pratigīrya trīṇy etāny akṣarāṇi | tripadā gāyatrī gāyatram prātaḥsavanam prātaḥsavana eva pratigare chandāṃsi sam pādayati |",
+    "english": "the syllables herein are three, [2], the Gayatri has three Padas, the morning pressing is connected with the Gayatri; verily at the morning pressing he produces the metres in the response;",
+    "morphology": "ukthaśas_ukthaśas_ iti_iti_ āha_ah_SPs3In prātaḥsavanam_prātaḥsavana_SANe pratigīrya_pratigṛ_Co trīṇi_tri_PANe etāni_etad_PANe akṣarāṇi_akṣara_PANe  / tri_tri_Cp padā_pada_SNF gāyatrī_gāyatrī_SNF gāyatram_gāyatra_SNNe prāta"
+  },
+  {
+    "index": 10138,
+    "sanskrit": "mṛtabandhordaśāhāni kulasyānnaṃ na bhujyate / dānaṃ pratigraho homaḥ svādhyāyaś ca nivartate //",
+    "english": "The food of a family in which a kinsman is deceased is not to be partaken of for ten days and during that period, gifts, acceptance, sacrifice, and sacred study are suspended.",
+    "morphology": "mṛta_mṛ_PaCp bandhoḥ_bandhu_SGM daśa_daśan_Cp ahāni_ahar_PANe kulasya_kula_SGNe annam_anna_SNNe na_na_ bhujyate_bhuj_SPr3InPv  / dānam_dāna_SNNe pratigrahaḥ_pratigraha_SNM homaḥ_homa_SNM svādhyāyaḥ_svādhyāya_SNM ca_ca_"
+  },
+  {
+    "index": 10139,
+    "sanskrit": "vinaṣṭam atha vā śrutvā bhaviṣyanti nirudyamāḥ dharma śīlāḥ mayā te hi bādhyante rājya gṛddhinā",
+    "english": "And hearing that I have been killed, (my brothers) will forego all exertion, for, firm in promise, they have hitherto been controlled by my harsh speech, I being desirous of gaining the kingdom.",
+    "morphology": "vinaṣṭam_vinaś_SAPaPsM atha_atha_U vā_vā_U śrutvā_śru_Co bhaviṣyanti_bhū_PFu3In nirudyamāḥ_nirudyama_PNM dharma_dharma_MCp śīlāḥ_śīla_PNM mayā_mad_SI te_tad_PNM hi_hi_U bādhyante_bādh_PPr3InPv"
+  },
+  {
+    "index": 10140,
+    "sanskrit": "na vṛttam manyate anyasya manyate anyasya pāpakam",
+    "english": "His sins are never regarded as sins.",
+    "morphology": "na_na_U vṛttam_vṛtta_SANe manīḥ_man_SPr3In anyasya_anya_SGM manīḥ_man_SPr3In"
+  },
+  {
+    "index": 10141,
+    "sanskrit": "akṣauhiṇībhir daśabhī rathārūòho mahā balaḥ śrī kṛṣṇasya puraḥ pūrvaṃ yuyudhe māgadheśvaraḥ",
+    "english": "Riding on a chariot, and accompanied by ten akṣauhiṇī divisons, Jarāsandha fought with Lord Kṛṣṇa.",
+    "morphology": "akṣauhiṇībhiḥ_akṣauhiṇī_PIF daśabhiḥ_daśan_PIF mahā_mahat_Cp balaḥ_bala_SNM śrīḥ_śrī_SNF kṛṣṇasya_kṛṣṇa_SGM puras_puras_ pūrvam_pūrvam_"
+  },
+  {
+    "index": 10142,
+    "sanskrit": "ājjyasya {F pūrṇāṃ}{W pūrṇāṃ}{GLOS pūrṇāṃ} kārṣmaryamayīṃ dadhnaḥ pūrṇām audumbarīm iyaṃ vai kārṣmaryamayy asāv audumbarī |",
+    "english": "He puts down two ladles, one made of Karsmarya and full of butter, one of Udumbara and full of curds; that made of Karsmarya is this (earth), that of Udumbara is yonder (sky);",
+    "morphology": "ājjyasya_ājjya_SGNe pūrṇām_pṛ_SAPaF kārṣmarya_kārṣmarya_Cp mayīm_maya_SAF dadhnaḥ_dadhi_SGNe pūrṇām_pṛ_SAPaF audumbarīm_audumbara_SAF iyam_idam_SNF vai_vai_ kārṣmarya_kārṣmarya_Cp mayī_maya_SNF asau_adas_SNF audumbarī_audumb"
+  },
+  {
+    "index": 10143,
+    "sanskrit": "prasaktaṃ śakyate vaktuṃ yasmāt tatrāpyadaḥ sphuṭam //",
+    "english": "as the same arguments apply clearly to, and can be asserted in regard to, that view also;",
+    "morphology": "prasaktam_prasañj_SNPaNe śakyate_śak_SPr3InPv vaktum_vac_In yasmāt_"
+  }
+]

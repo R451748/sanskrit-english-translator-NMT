@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31600,
+    "sanskrit": "jigīṣayā tatas devāḥ vavrire a ṅgirasam munim",
+    "english": "The gods, then, from desire of victory, installed the son of Angiras (Vrihaspati) as their priest to conduct their sacrifices;",
+    "morphology": "jigīṣayā_jigīṣā_SIF tatas_tatas_U devāḥ_deva_PNM"
+  },
+  {
+    "index": 31601,
+    "sanskrit": "vijñāsyatyakṛtārthatvaṃ kṣaṇāntarakadarthanaiḥ / upāyaṃ kalpanātmānamanupāyaṃ vidurbudhāḥ //",
+    "english": "The man comes to meet with his ill success, who strives to thrive by improper means; because the learned reckon all fanciful steps, as no steps at all to successfulness.",
+    "morphology": "vijñāsyati_vijñā_SFu3In akṛtārtha_akṛtārtha_Cp tvam_tva_SANe kṣaṇa_kṣaṇa_Cp antara_antara_Cp kadarthanaiḥ_kadarthana_PINe  / upāyam_upāya_SAM kalpanā_kalpanā_Cp ātmānam_ātman_SAM anupāyam_anupāya_SAM viduḥ_vid_PPs3In budhā"
+  },
+  {
+    "index": 31602,
+    "sanskrit": "vākyārthanaiva vākyārthopamā syādupamānataḥ /",
+    "english": "Vākyārthopamā simile of the sense of the sentence arises from a comparison of verily the meaning of the sentences.",
+    "morphology": "vākya_vākya_Cp arthanā_arthanā_SNF eva_eva_ vākya_vākya_Cp artha_artha_Cp upamā_upamā_SNF syāt_as_SPr3O"
+  },
+  {
+    "index": 31603,
+    "sanskrit": "ityuktaḥ sa tadovāca durvāsāḥ śaṃkarāṃśajaḥ | dhyātvā tu suciraṃ kālaṃ yajñadevaṃ dvijottamam || 78 ||",
+    "english": "78. On being told thus, Durvāsas, born of a part of Śaṅkara, meditated for a long time and spoke to the excellent Brāhmaṇa Yajñadeva: Durvāsas said:",
+    "morphology": "iti_iti_ uktaḥ_vac_SNPaM sa_tad_SNM tadā_tadā_ uvāca_vac_SPs3In durvāsāḥ_durvāsas_SNM śaṃkara_śaṃkara_Cp aṃśa_aṃśa_Cp jaḥ_ja_SNM  / dhyātvā_dhyā_Co tu_tu_ su_su_ ciram_cira_SAM kālam_kāla_SAM yajñadevam_yajñadeva_SAM dvijotta"
+  },
+  {
+    "index": 31604,
+    "sanskrit": "tat śubhā śubham āsādya saugandhikam anuttamam atīva muditā rājan bhīmasenam atha abravīt paśya divyam su ruciram bhīma puṣpam anuttamam",
+    "english": "And having obtained that excellent and beautiful lotus, that blessed one became exceedingly delighted, O king, and addressed Bhimasena in the following words, 'Behold, O Bhima, this most beautiful unearthly flower having within it the very source of fragrance.",
+    "morphology": "tat_tad_SANe śubhā_śubha_SNF śubham_śubha_SANe āsādya_āsāday_Co saugandhikam_saugandhika_SANe anuttamam_anuttama_SANe atīva_atīva_U muditā_mud_SNPaPsF rājan_rājan_SVM bhīmasenam_bhīmasena_SAM atha_atha_U abravīt_brū_SPs3In paśya_paś_SPr"
+  },
+  {
+    "index": 31605,
+    "sanskrit": "pariśiṣṭaṃ sarvam arthavādārtham /",
+    "english": "The rest of it all is only commendatory.",
+    "morphology": "pariśiṣṭam_pariśiṣ_SNPaNe sarvam_sarva_SNNe arthavāda_arthavāda_Cp artham_artha_SNNe  /"
+  },
+  {
+    "index": 31606,
+    "sanskrit": "atha enam bhakṣitaiḥ pādaiḥ vyāghraḥ gṛhṇātu vai tatas",
+    "english": "And when this is done, let the tiger approach and seize it.",
+    "morphology": "atha_atha_U enam_enad_SAM bhakṣitaiḥ_bhakṣay_PIPaPsM pādaiḥ_pāda_PIM vyāghraḥ_vyāghra_SNM gṛhṇātu_grah_SPr3Im"
+  },
+  {
+    "index": 31607,
+    "sanskrit": "janmasaṃkleśaḥ śeṣāṇyangānīti vijñānanāmarūpaṣaḍāyatanasparśavedanājātijarāmaraṇāni eṣāṃ janmasangṛhītatvāt /",
+    "english": "The defilement of rebirth consists in the remaining elements, i. e. consciousness, name form, the six sensefields, contact, sensation, birth, oldage and death, since these are included within rebirth.",
+    "morphology": "janma_janman_Cp saṃkleśaḥ_saṃkleśa_SNM śeṣāṇi_śeṣa_PNNe angāni_anga_PNNe iti_iti_ vijñāna_vijñāna_Cp nāma_nāman_Cp rūpa_rūpa_Cp ṣaṣ_ṣaṣ_Cp āyatana_āyatana_Cp sparśa_sparśa_Cp vedanā_vedanā_Cp jāti_jāti_Cp jarā_jar"
+  }
+]

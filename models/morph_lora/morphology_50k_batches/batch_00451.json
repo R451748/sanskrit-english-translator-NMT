@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3600,
+    "sanskrit": "same 'pumān miśrīkṛte puṃstriyau /",
+    "english": "When the two are equal, there in burn either a nonmale, or a boy and a girl, together.",
+    "morphology": "same_sama_SLM"
+  },
+  {
+    "index": 3601,
+    "sanskrit": "tatas kadā cit samaye kasmin cit matsya jīvinaḥ",
+    "english": "One day some fishermen came there.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 3602,
+    "sanskrit": "ekatas vā jagat kṛtsnam ekatas vā janārdanaḥ sārataḥ jagataḥ kṛtsnāt atiriktaḥ janārdanaḥ",
+    "english": "If the whole universe be placed on one scale and Janardana on the other, even then Janardana will outweigh the entire universe.",
+    "morphology": "ekatas_ekatas_U vā_vā_U jagat_jagant_SNNe kṛtsnam_kṛtsna_SNNe ekatas_ekatas_U vā_vā_U janārdanaḥ_janārdana_SNM sārataḥ_sāra_SBM jagataḥ_jagant_SBNe kṛtsnāt_kṛtsna_SBNe atiriktaḥ_atiric_SNPaPsM janārdanaḥ_janārdana_SNM"
+  },
+  {
+    "index": 3603,
+    "sanskrit": "tvaṃ tu kaḥ śikṣayasi māmityakātmaja re vada / ity uktavantaṃ taṃ bhūyo hasannāha sa gomukhaḥ // bhartsayantyavinītaṃ kiṃ svavācā prabhaviṣṇavaḥ / avaśyaṃ tasya vaktavyaṃ tatpārśvasthairyathocitam //",
+    "english": "But tell me, who are you that you take upon you to instruct me, you son of Ityaka?” When he said this, Gomukha replied to him, smiling: “Do princes reprove with their own mouths an ill-behaved servant? Undoubtedly their attendants must remind him of what is proper.",
+    "morphology": "tvam_tvad_SN tu_tu_ kaḥ_ka_SNM śikṣayasi_śikṣay_SPr2In mām_mad_SA ityaka_ityaka_Cp ātmaja_ātmaja_SVM re_re_ vada_vad_SPr2Im  / iti_iti_ uktavantam_vac_SAPaM tam_tad_SAM bhūyas_bhūyas_ hasan_has_SNPaPrM āha_ah_SPs3In sa_tad_SNM gomukhaḥ_gomu"
+  },
+  {
+    "index": 3604,
+    "sanskrit": "sa tathā su mahā tejāḥ kṛtvā niḥkṣatriyām mahīm",
+    "english": "Possessed of great energy, he quickly reft the earth of all Kshatriyas.",
+    "morphology": "sa_tad_SNM tathā_tathā_U su_su_U mahā_mahat_Cp tejāḥ_tejas_SNM kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 3605,
+    "sanskrit": "yena vispardhase nityam yad artham ghaṭase aniśam yudhyataḥ tena te pāpa bhūmiḥ cakram grasiṣyati tatas cakre mahī graste mūrdhānam te vicetasaḥ",
+    "english": "While fighting him, O wretch whom thou always challengest, and for whose sake thou strivest so much every day, the earth shall swallow the wheel of thy car! And while the wheel of thy car shall thus be swallowed up by the earth, thy foe, putting forth his prowess, will cut off thy head, thyself being stupefied the while! Leave me, O vile man! As thou hast heedlessly slain this my cow, even so wilt thy foe cut off thy head while thou shalt be heedless!' Though cursed, Karna still sought to gratify that foremost of Brahmanas by offering him kine and wealth and gems.",
+    "morphology": "yena_yad_SIM vispardhase_vispṛdh_SPr2In nityam_nityam_U yad_yad_Cp artham_artha_SAM ghaṭase_ghaṭ_SPr2In aniśam_aniśam_U yudhyataḥ_yudh_PAPaPrM tena_tad_SIM te_tvad_SG pāpa_pāpa_Cp bhūmiḥ_bhūmi_SNF cakram_cakra_SANe grasiṣyati_gras_SFu3In "
+  },
+  {
+    "index": 3606,
+    "sanskrit": "[p.171] yadi hyeko jñātā bhavet tadā syāt pratisandhātṛvaśājjñeyasya bhede 'pi sādṛśyakṛtaṃ pratyabhijñānam /",
+    "english": "If there were a single cogniser, then there could be Recognition based upon similarity, even when there is difference between the two things concorned, such Recognition being due to the common Cogniser.",
+    "morphology": "yadi_yadi_ hi_hi_ ekaḥ_eka_SNM jñātā_jñātṛ_SNM bhavet_bhū_SPr3O tadā_tadā_ syāt_as_SPr3O pratisandhātṛ_pratisaṃdhātṛ_Cp vaśāt_vaśa_SBM jñeyasya_jñā_SGNeGd bhede_bheda_SLM api_api_ sādṛśya_sādṛśya_Cp kṛtam_kṛ_SNPaNe pr"
+  },
+  {
+    "index": 3607,
+    "sanskrit": "idaṃ jagadahaṃ ceti bodhābhyāsaṃ viduḥ pare//'",
+    "english": "neither this world nor \"I\" is ever existent-this the wise know to be the best practice of knowledge' .",
+    "morphology": "idam_idam_SNNe jagat_jagant_SNNe aham_mad_SN ca_ca_ iti_iti_ bodha_bodha_Cp abhyāsam_abhyāsa_SAM viduḥ_vid_PPs3In pare_para_PNM"
+  }
+]

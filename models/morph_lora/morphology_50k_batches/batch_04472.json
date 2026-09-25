@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35768,
+    "sanskrit": "rūpam saṃdhyā abhra saṃyuktam kim upasthāpyatām tava saḥ uvāca tadā tām strīm snāna udakam iha ānaya",
+    "english": "What service shall I do unto thee.--The Rishi addressed her, saying,--.'Fetch water for my ablutions.",
+    "morphology": "rūpam_rūpa_SNNe saṃdhyā_saṃdhyā_FCp abhra_abhra_MCp saṃyuktam_saṃyuj_SNPaPsNe kim_kim_U upasthāpyatām_upasthāpay_SPr3ImPv tava_tvad_SG saḥ_tad_SNM uvāca_vac_SPs3In tadā_tadā_U tām_tad_SAF strīm_strī_SAF snāna_snāna_NeCp udakam_udak"
+  },
+  {
+    "index": 35769,
+    "sanskrit": "na ceṣṭyanantaraṃ putrapaśvādiphalam upalabhyate /",
+    "english": "On the completion of these sacrifices the performer does not invariably obtain the result.",
+    "morphology": "na_na_ ca_ca_ iṣṭi_iṣṭi_Cp anantaram_anantara_SNNe putra_putra_Cp paśu_paśu_Cp ādi_ādi_Cp phalam_phala_SNNe upalabhyate_upalabh_SPr3InPv  /"
+  },
+  {
+    "index": 35770,
+    "sanskrit": "na trātumārtāniti ye sayatnā dharmo 'pi manye śrutimātrameva //",
+    "english": "Dharma himself is but a mere sound, suppose.",
+    "morphology": "na_na_ trātum_trā_In ārtān_ārta_PAM iti_iti_ ye_yad_PNM sa_sa_ yatnāḥ_yatna_PNM dharmaḥ_dharma_SNM api_api_ manye_man_SPr1In śruti_śruti_Cp mātram_mātra_SANe eva_eva_"
+  },
+  {
+    "index": 35771,
+    "sanskrit": "na adāsyat ced varam mahyam bhavān pāṇḍava nigrahe na āvārayiṣyam gacchantam aham sindhupatim gṛhān",
+    "english": "If thou hadst not granted me the boon about humiliating and checking the Pandavas, I would never have prevented the ruler of the Sindhus from returning to his own country.",
+    "morphology": "na_na_U adāsyat_dā_SFu3 ced_ced_U varam_vara_SAM mahyam_mad_SD bhavān_bhavat_SNM pāṇḍava_pāṇḍava_MCp nigrahe_nigraha_SLM na_na_U āvārayiṣyam_āvāray_SFu1 gacchantam_gam_SAPaPrM aham_mad_SN sindhupatim_sindhupati_SAM gṛhān_gṛha_PAM"
+  },
+  {
+    "index": 35772,
+    "sanskrit": "namaskārāṃstataḥ kuryātsāṣṭāṃgaṃ vidhivatpumān | tataḥ puṣpāṃjalideṃyo maṃtreṇānena bhaktitaḥ ||",
+    "english": "76. Then he shall perform prostration with the eight limbs touching the ground many times. He shall then offer handfuls of flowers with great devotion repeating the following mantra.",
+    "morphology": "namaskārān_namaskāra_PAM tatas_tatas_ kuryāt_kṛ_SPr3O sa_sa_ aṣṭāṅgam_aṣṭāṅga_SAM vidhivat_vidhivat_ pumān_puṃs_SNM  / tatas_tatas_ puṣpa_puṣpa_Cp aṃjali_añjali_Cp deṃyaḥ_deṃya_SNM maṃtreṇa_mantra_SIM anena_idam_SIM "
+  },
+  {
+    "index": 35773,
+    "sanskrit": "nanu jñānaphalāḥ śabdā ityādāvāha divābhojanetyādi / divābhojanavākyāder ivāsyāpi phaladvayam /",
+    "english": "As in the case of the sentence speaking of ‘not eating at night’, the word in question has two fruits (resultants), one direct and the other by implication;",
+    "morphology": "nanu_nanu_ jñāna_jñāna_Cp phalāḥ_phala_PNM śabdāḥ_śabda_PNM iti_iti_ ādau_ādi_SLM āha_ah_SPs3In divābhojana_divābhojana_Cp ityādi_ityādi_SNNe  / divābhojana_divābhojana_Cp vākya_vākya_Cp ādeḥ_ādi_SGM iva_iva_ asya_idam_SGM api_ap"
+  },
+  {
+    "index": 35774,
+    "sanskrit": "utkṛtya dagdhvā snehena jayet kadara saṃjñakam",
+    "english": "In a case of Kadara, the seat of the disease should be scraped off (with the aid of a knife) and cauterised with (the application of) heated oil[8] 13-14.",
+    "morphology": "utkṛtya_utkṛt_Co dagdhvā_dah_Co snehena_sneha_SIM jayet_ji_SPr3O kadara_kadara_MCp saṃjñakam_saṃjñaka_SAM"
+  },
+  {
+    "index": 35775,
+    "sanskrit": "saṃvananī samuṣpalā babhru kalyāṇi sam nuda / amūm ca mām ca sam nuda samānam hṛdayam kṛdhi //",
+    "english": "Drive us together, tawny! fair! a go-between who wakens love. Drive us together, him and me, and give us both one heart and mind.",
+    "morphology": "saṃvananī_saṃvanana_SNF samuṣpalā_samuṣpala_SNF babhru_babhru_SVF kalyāṇi_kalyāṇa_SVF sam_sam_U nuda_nud_SPr2Im  / amūm_adas_SAF ca_ca_U mām_mad_SA ca_ca_U sam_sam_U nuda_nud_SPr2Im samānam_samāna_SANe hṛdayam_hṛdaya_SANe kṛdhi_k"
+  }
+]

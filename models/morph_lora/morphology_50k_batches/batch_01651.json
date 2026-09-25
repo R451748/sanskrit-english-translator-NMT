@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13200,
+    "sanskrit": "ṛc sāma varṇa akṣarataḥ yajuṣaḥ atharvaṇaḥ tathā",
+    "english": "That knowledge is to be derived from the Richs, the Samans, and the sciences called Varna and Akshara. There are besides, the Yajuses and the Atharvans.",
+    "morphology": "ṛc_ṛc_FCp sāma_sāman_NeCp varṇa_varṇa_MCp akṣarataḥ_akṣara_SBNe yajuṣaḥ_yajus_SBNe"
+  },
+  {
+    "index": 13201,
+    "sanskrit": "tān sarvān prasabham dṛṣṭvā balinau jaghnatuḥ tadā",
+    "english": "And slaughtering them with violence they departed for some other place.",
+    "morphology": "tān_tad_PAM sarvān_sarva_PAM prasabham_prasabham_U dṛṣṭvā_dṛś_Co"
+  },
+  {
+    "index": 13202,
+    "sanskrit": "satī dākṣā yiṇī pūrvaṃ tyaktadehā tu yābhavat | sotpannā menakāgarbhātsā kathā viditā hi vaḥ ||",
+    "english": "28. Satī, the daughter of Dakṣa, formerly cast off her body. She is now born of Menakā’s womb. That event is already known to you all.",
+    "morphology": "satī_satī_SNF dākṣā_dākṣā_SNF pūrvam_pūrvam_ tyakta_tyaj_PaCp dehā_deha_SNF tu_tu_ yā_yad_SNF abhavat_bhū_S3ImIn  / sā_tad_SNF utpannā_utpad_SNPaF menakā_menakā_Cp garbhāt_garbha_SBM sā_tad_SNF kathā_kathā_SNF viditā_vid_SNPaF hi_hi"
+  },
+  {
+    "index": 13203,
+    "sanskrit": "atha sarpākṛtiṃ māṃ ca duḥkhena mahatānvitam | taṭasthaṃ bhayasaṃtrastaṃ tathā sarvajanaṃ tadā || 166 ||",
+    "english": "166. Then he saw me in great misery in my new form of serpent and the people there standing aloof in great fear.",
+    "morphology": "atha_atha_ sarpa_sarpa_Cp ākṛtim_ākṛti_SAM mām_mad_SA ca_ca_ duḥkhena_duḥkha_SINe mahatā_mahat_SINe anvitam_anvita_SAM  / taṭa_taṭa_Cp stham_stha_SAM bhaya_bhaya_Cp saṃtrastam_saṃtras_SAPaM tathā_tathā_ sarva_sarva_Cp janam_jana_SAM t"
+  },
+  {
+    "index": 13204,
+    "sanskrit": "śrīmārkaṇḍeya uvāca | tato gacchenmahārāja somatīrthamanuttamam | yatra somastapastaptvā nakṣatrapathamāsthitaḥ || 1 ||",
+    "english": "Śrī Mārkaṇḍeya said: 1-5. Thereafter, O great king, one should go to the excellent Somatīrtha where Soma performed penance and attained a permanent place in the stellar path.",
+    "morphology": "śrī_śrī_Cp mārkaṇḍeyaḥ_mārkaṇḍeya_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O mahā_mahat_Cp rāja_rāja_SVM somatīrtham_somatīrtha_SANe anuttamam_anuttama_SANe  / yatra_yatra_ somaḥ_soma_SNM tapaḥ_tapas_SANe taptvā_tap_C"
+  },
+  {
+    "index": 13205,
+    "sanskrit": "vyādha uvāca | haṃtumicchurahaṃ brahmanbhagavantamihāgataḥ | idānīṃ svagatā buddhistvāṃ dṛṣṭvaiva mahāprabham || 9 ||",
+    "english": "9-17. O holy Sir, I came here desirous of killing you. Now, on seeing you with excessive refulgence, my intellect has come to itself (become sensible).",
+    "morphology": "vyādhaḥ_vyādha_SNM uvāca_vac_SPs3In  / haṃtum_han_In icchuḥ_icchu_SNM aham_mad_SN brahman_brahman_SVM bhagavantam_bhagavat_SAM iha_iha_ āgataḥ_āgam_SNPaM  / idānīm_idānīm_ svagatā_svagata_SNF buddhiḥ_buddhi_SNF tvām_tvad_SA dṛṣṭv"
+  },
+  {
+    "index": 13206,
+    "sanskrit": "svarūpamatha sādṛśyamutprekṣātiśayāvapi // vibhāvanā virodhaś ca hetuś ca samamaṣṭadhā /",
+    "english": "It is of eight kindssvarūpa natural form, sādṛśya similarity, utprekṣā fancy, atiśaya exaggeration, vibhāvanā imagination, virodha contradiction, hetu cause and sama evenness.",
+    "morphology": "svarūpam_svarūpa_SNNe atha_atha_ sādṛśyam_sādṛśya_SNNe utprekṣā_utprekṣā_Cp atiśayau_atiśaya_DuNM api_api_  // vibhāvanā_vibhāvanā_SNF virodhaḥ_virodha_SNM ca_ca_ hetuḥ_hetu_SNM ca_ca_ samam_sama_SNNe aṣṭadhā_aṣṭadhā_"
+  },
+  {
+    "index": 13207,
+    "sanskrit": "atriruvāca | mātaraṃ pitaraṃ nityaṃ durmatiḥ so'vamanyatām | śūdraṃ pṛcchatu dharmārthaṃ bisastainyaṃ karoti yaḥ || 76 ||",
+    "english": "Atri said: 76. May the stealer of the lotus-stalks be an evil-minded person who always insults his father and mother or one who consults a Śūdra in religious matters.",
+    "morphology": "atriḥ_atri_SNM uvāca_vac_SPs3In  / mātaram_mātṛ_SAF pitaram_pitṛ_SAM nityam_nityam_ durmatiḥ_durmati_SNM saḥ_tad_SNM avamanyatām_avaman_SPr3Im  / śūdram_śūdra_SAM pṛcchatu_pracch_SPr3Im dharma_dharma_Cp artham_artha_SAM bisa_bisa_Cp sta"
+  }
+]

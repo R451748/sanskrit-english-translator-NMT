@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23696,
+    "sanskrit": "ekasmindivase putra bhāradvājo mahāmuniḥ | samāgato gṛhe tasya vīrabāhormahātmanaḥ || 9 ||",
+    "english": "9. One day, O son, the great sage Bhāradvāja (? Bharadvāja) came to the abode of that noble-souled Vīrabāhu.",
+    "morphology": "ekasmin_eka_SLM divase_divasa_SLM putra_putra_SVM bhāradvājaḥ_bhāradvāja_SNM mahā_mahat_Cp muniḥ_muni_SNM  / samāgataḥ_samāgam_SNPaM gṛhe_gṛha_SLM tasya_tad_SGM vīra_vīra_Cp bāhoḥ_bāhu_SGM mahātmanaḥ_mahātman_SGM"
+  },
+  {
+    "index": 23697,
+    "sanskrit": "subījaṃ caiva sukṣetre jātaṃ saṃpadyate yathā / tathāryāj jāta āryāyāṃ sarvaṃ saṃskāram arhati // //",
+    "english": "Just as good seed grown in a good soil turns out well, so is the child born to an Ārya from an Ārya woman worthy of all sacraments.",
+    "morphology": "su_su_ bījam_bīja_SNNe ca_ca_ eva_eva_ su_su_ kṣetre_kṣetra_SLNe jātam_jan_SNPaNe saṃpadyate_sampad_SPr3InPv yathā_yathā_  / tathā_tathā_ āryāt_ārya_SBM jātaḥ_jan_SNPaM āryāyām_ārya_SLF sarvam_sarva_SAM saṃskāram_saṃskāra_SAM a"
+  },
+  {
+    "index": 23698,
+    "sanskrit": "pratibandhāsiddheḥ /",
+    "english": "specially as no Invariable Concomitance is admitted.",
+    "morphology": "pratibandha_"
+  },
+  {
+    "index": 23699,
+    "sanskrit": "iṣṭaḥ hi vāsudevasya pāṇḍavaiḥ mama vigrahaḥ",
+    "english": "A battle between myself and Pandavas is much desired by Vasudeva.",
+    "morphology": "iṣṭaḥ_iṣ_SNPaPsM hi_hi_U vāsudevasya_vāsudeva_SGM pāṇḍavaiḥ_pāṇḍava_SVM mama_mad_SG vigrahaḥ_vigraha_SNM"
+  },
+  {
+    "index": 23700,
+    "sanskrit": "upaśāmyati tan nidhanam / saṃśāmyati tan nidhanam /",
+    "english": "the calming down is the Nidhana, complete extinguishment is the Nidhana",
+    "morphology": "upaśāmyati_upaśam_SPr3In tat_tad_SNNe nidhanam_nidhana_SNNe  / saṃśāmyati_saṃśāmay_SPr3In"
+  },
+  {
+    "index": 23701,
+    "sanskrit": "bādhasāmānyena ca dvayor api tirohitabhedatvād anyasya cāvadhāraṇakāraṇasyānabhyupagamād vibhāgenāparijñānād idaṃ pramāṇamapramāṇam iti vyavasthā na syāt /",
+    "english": "because would both Validity and Invalidity belong to the same individual cognition? Or to different ones (Validity to one and Invalidity to another)? It is not possible for two mutually contradictory and exclusive characters as Validity and Invalidity to belong to one and the same individual. Nor can they belong to different individuals;",
+    "morphology": "bādha_bādha_Cp sāmānyena_sāmānya_SINe ca_ca_ dvayoḥ_dvi_DuGNe api_api_ tirohita_tirodhā_PaCp bheda_bheda_Cp tvāt_tva_SBNe anyasya_anya_SGNe ca_ca_ avadhāraṇa_avadhāraṇa_Cp kāraṇasya_kāraṇa_SGNe anabhyupagamāt_anabhyupagama_SBM vibhā"
+  },
+  {
+    "index": 23702,
+    "sanskrit": "pālanāyodyato viṣṇuḥ kimanyaiścarmacakṣubhiḥ | indrādyāśca surāḥ sarve viṣṇorvyāpārakāriṇaḥ || 150 ||",
+    "english": "150. Viṣṇu is ready for protection. What is the use of other physical eyes? And all gods like Indra, work for Viṣṇu.",
+    "morphology": "pālanāya_pālana_SDNe udyataḥ_udyam_SNPaM viṣṇuḥ_viṣṇu_SNM kim_ka_SNNe anyaiḥ_anya_PIM carma_carman_Cp cakṣubhiḥ_cakṣu_PIM  / indra_indra_Cp ādyāḥ_ādya_PNM ca_ca_ surāḥ_sura_PNM sarve_sarva_PNM viṣṇoḥ_viṣṇu_SGM vyāp"
+  },
+  {
+    "index": 23703,
+    "sanskrit": "mitraṃ samānasukhaduḥkham ātmanirviśeṣaṃ na śrāddhe bhojayet /",
+    "english": "\"A friend\" one whose happiness and unhappiness are the same as one\" s own, and who is in no way different from himself,\"one should not feed at a Śrāddha\".",
+    "morphology": "mitram_mitra_SAM samāna_samāna_Cp sukha_sukha_Cp duḥkham_duḥkha_SAM ātma_ātman_Cp nirviśeṣam_nirviśeṣa_SAM na_na_ śrāddhe_śrāddha_SLNe bhojayet_bhojay_SPr3O"
+  }
+]

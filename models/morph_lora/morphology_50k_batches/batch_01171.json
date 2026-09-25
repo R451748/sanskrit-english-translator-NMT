@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9360,
+    "sanskrit": "sūta uvāca | bhagavanbhūtabhavyeśa sarvajñānamahānidhe | avāpya kāśīṃ gīrvāṇaiḥ kimakāri vadācyuta || 1 ||",
+    "english": "1. O holy Sir, O Acyuta (Viṣṇu in the form of Vyāsa), the Lord of the past and the future, O great receptacle of all knowledge and lores, what was done by the Devas after reaching Kāśī. Kindly tell me.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / bhagavan_bhagavant_SVM bhūta_bhūta_Cp bhavya_bhavya_Cp īśa_īśa_SVM sarva_sarva_Cp jñāna_jñāna_Cp mahā_mahat_Cp nidhe_nidhi_SVM  / avāpya_avāp_Co kāśīm_kāśī_SAF gīrvāṇaiḥ_gīrvāṇa_PIM"
+  },
+  {
+    "index": 9361,
+    "sanskrit": "iyaṃ mama mahāśaktirgaurī māyā jagatprasūḥ | anayācchādyate viśvaṃ śaśvadvistāryate'pi ca || 43 ||",
+    "english": "43. This is Gaurī, my greatest Śakti. She is Māyā, the mother of the universe. It is by her that this universe is constantly enveloped and revealed and expanded.",
+    "morphology": "iyam_idam_SNF mama_mad_SG mahā_mahat_Cp śaktiḥ_śakti_SNF gaurī_gaurī_SNF māyā_māyā_SNF jagatprasūḥ_jagatprasū_SNF  / anayā_idam_SIF ācchādyate_ācchāday_SPr3InPv viśvam_viśva_SNNe śaśvat_śaśvat_ vistāryate_vistāray_SPr3InPv api_a"
+  },
+  {
+    "index": 9362,
+    "sanskrit": "akampanaṃ prahastañca yudhyantaṃ nīla ābadhīt //",
+    "english": "Nīla killed the fighting Akampana and Prahasta.",
+    "morphology": "akampanaḥ_akampana_SNM prahastaḥ_prahasta_SNM ca_ca_ yudhyantam_yudh_SAPaPrM nīlaḥ_nīla_SNM"
+  },
+  {
+    "index": 9363,
+    "sanskrit": "patanti vipreṣu yateṣu bhūyas hitvā ca deham praviśanti mokṣam divaukasaḥ dyām iva pārtha sāṃkhyāḥ",
+    "english": "Lording it over the celestials as they will, they fall, upon the expiration of the allotted period, among learned Brahmanas and Yatis.[1605] Casting off this body, those regenerate ones that follow the Sankhya system enter into the superior state of Brahma like the celestials entering into the firmament by devoting themselves wholly to that adorable system which is theirs and which is worshipped by all wise men.",
+    "morphology": "patanti_pat_PPr3In vipreṣu_vipra_PLM yateṣu_yam_PLPaPsM bhūyas_bhūyas_U hitvā_hā_Co ca_ca_U deham_deha_SAM praviśanti_praviś_PPr3In"
+  },
+  {
+    "index": 9364,
+    "sanskrit": "tena nānavastheti bhāvaḥ //",
+    "english": "Thus there would be no Infinite Regress.",
+    "morphology": "tena_tena_ na_na_ anavasthā_anavasthā_SNF iti_iti_ bhāvaḥ_bhāva_SNM  /"
+  },
+  {
+    "index": 9365,
+    "sanskrit": "jagmatuḥ parama prīte param pāram mahodadheḥ kadrūḥ ca vinatā ca eva dākṣāyaṇyau vihāyasā",
+    "english": "And having laid the wager, O best of Brahmanas, the two sisters Kadru and Vinata, the daughters of Daksha, proceeded in great delight along the sky to see the other side of the Ocean.",
+    "morphology": "jagmatuḥ_gam_DuPs3In parama_parama_Cp prīte_prī_DuNPaPsF param_para_SAM pāram_pāra_SAM mahodadheḥ_mahodadhi_SGM kadrā_kadru_SIF ca_ca_U vinatā_vinatā_SNF ca_ca_U evā_eva_U"
+  },
+  {
+    "index": 9366,
+    "sanskrit": "pūrvamanvantare śreṣṭhā dvādaśāsansurottamāḥ / tuṣitā nāma te 'nyonyamūcurvaivasvatentare // upasthite 'tiyaśasaścākṣuṣasyāntare manoḥ / samavāyīkṛtāḥ sarve samāgamya parasparam // āgacchata drutaṃ devā aditiṃ saṃpraviśya vai / manvantare prasūyāmastannaḥ śreyo bhavediti // evamuktvā tu te sarve cākṣuṣasyāntare manoḥ / mārīcātkaśyapājjātā adityā dakṣakanyayā // tatra viṣṇuś ca śakraś ca jajñāte punar eva hi / aryamā caiva dhātā ca tvaṣṭā pūṣā tathaiva ca //",
+    "english": "There were twelve celebrated deities in a former Manvantara, called Tuṣitas, who, upon the approach of the present period, or in the reign of the last Manu, Cākṣuṣa, assembled, and said to one another, “Come, let us quickly enter into the womb of Aditī, that we may be born in the next Manvantara, for thereby we shall again enjoy the rank of gods” and accordingly they were born the sons of Kaśyapa, the son of Marīci, by Aditī, the daughter of Dakṣa thence named the twelve Ādityas whose appellations were respectively, Viṣṇu, Śakra, Āryaman, Dhūtī, Tvāṣṭri, Pūṣan, Vivaswat, Savitri, Mitra, Varuṇa, Aṃśa, and Bhaga.",
+    "morphology": "pūrva_pūrva_Cp manvantare_manvantara_SLNe śreṣṭhāḥ_śreṣṭha_PNM dvādaśa_dvādaśan_SNNe āsan_as_P3ImIn sura_sura_Cp uttamāḥ_uttama_PNM  / tuṣitāḥ_tuṣita_PNM nāma_nāma_ te_tad_PNM anyonyam_anyonya_SAM ūcuḥ_vac_PPs3In vaivasva"
+  },
+  {
+    "index": 9367,
+    "sanskrit": "ityuktavati deveśe śivāti mudamāpa sā | tapoduḥkhantu yatsarvaṃ tajjahau drutameva hi || tataḥ prahṛṣṭā sā dṛṣṭvā divyarūpaṃ śivasya tat | pratyuvāca prabhuṃ prītyā lajjayādho mukhī śivā ||",
+    "english": "60. When the lord of gods said thus, Pārvatī rejoiced much. Whatever misery she experienced in performing the penance, she cast off immediately. 61. On seeing that divine form of Śiva, Pārvatī replied to the lord with face lowered due to bashfulness.",
+    "morphology": "iti_iti_ uktavati_vac_SLPaM deveśe_deveśa_SLM śivā_śivā_SNF ati_ati_ mudam_mud_SAF āpa_āp_SPs3In sā_tad_SNF  / tapaḥ_tapas_Cp duḥkham_duḥkha_SNNe tu_tu_ yat_yad_SNNe sarvam_sarva_SNNe tat_tad_SANe jahau_hā_SPs3In drutam_drutam_ eva_eva_ hi_"
+  }
+]

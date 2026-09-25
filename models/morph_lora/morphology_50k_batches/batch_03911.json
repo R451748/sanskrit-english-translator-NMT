@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31280,
+    "sanskrit": "na gurau akṛtaprajñe śakyam śiṣyeṇa vartitum",
+    "english": "If the preceptor happens to be unendued with wisdom, the disciple cannot possibly behave towards him in a respectful or proper way.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 31281,
+    "sanskrit": "pakvāśaya gate ca api rujaḥ gauravam eva ca śīta tā ca api adhas nāmeḥ khebhyaḥ raktasya ca āgamaḥ",
+    "english": "A perforation of the Pakvashaya fills it with blood and is attended with extreme pain, a heaviness in the limbs, coldness of the sub-umbilical region, and bleeding through the (lower) ducts and orifices of the body.",
+    "morphology": "pakvāśaya_pakvāśaya_MCp gate_gam_SLPaPsM ca_ca_U api_api_U rujaḥ_ruj_PNM gauravam_gaurava_SNNe eva_eva_U ca_ca_U śīta_śīta_Cp tā_tā_SNF ca_ca_U api_api_U adhas_adhas_U nāmeḥ_nāmi_SGF khebhyaḥ_kha_PBNe raktasya_rakta_SGNe ca_ca_U āgamaḥ"
+  },
+  {
+    "index": 31282,
+    "sanskrit": "tatsamavattadhānyāmānayati taddhṛdayam prāsyati jihvāṃ vakṣastanima matasne vaniṣṭhumathopariṣṭāddvirājyasyābhighārayati //",
+    "english": "The broth which is left he pours into the Samavattadhânî, and therein he throws the heart, tongue, breast, the broad piece (of the back part), the kidneys, and the rectum. He then bastes it twice with ghee above.",
+    "morphology": "tat_tad_SANe samavatta_samavado_PaCp dhānyām_dhānī_SLF ānayati_ānī_SPr3In tat_tad_SANe hṛdayam_hṛdaya_SANe prāsyati_prās_SPr3In jihvām_jihvā_SAF vakṣaḥ_vakṣas_SANe tanima_taniman_SANe matasne_matasna_DuANe vaniṣṭhum_vaniṣṭhu_SA"
+  },
+  {
+    "index": 31283,
+    "sanskrit": "sahasā sa hatastena vāraṇo bhairavānravān | vinadañjavamāsthāya yajñavāṭamupādravat || 40 ||",
+    "english": "40. Attacked forcefully thus, the elephant trumpeted terrible sounds and hurried to the Yajñavāṭa with great speed.",
+    "morphology": "sahasā_sahasā_ sa_tad_SNM hataḥ_han_SNPaM tena_tad_SIM vāraṇaḥ_vāraṇa_SNM bhairavān_bhairava_PAM ravān_rava_PAM  / vinadan_vinad_SNPaPrM javam_java_SAM āsthāya_āsthā_Co yajña_yajña_Cp vāṭam_vāṭa_SAM upādravat_upadru_S3ImIn  /"
+  },
+  {
+    "index": 31284,
+    "sanskrit": "hatośvatthāmā cetyukte droṇaḥ śastrāṇi cātyajat /",
+    "english": "When it was proclaimed that Aśvatthāman was killed, Droṇa abandoned his astras.",
+    "morphology": "hata_han_PaCp uśvatthāmā_uśvatthāman_SNM ca_ca_ iti_iti_ ukte_vac_SLPaNe droṇaḥ_droṇa_SNM śastrāṇi_śastra_PANe ca_ca_ atyajat_tyaj_S3ImIn  /"
+  },
+  {
+    "index": 31285,
+    "sanskrit": "bhūyasāṃ ca sadharmatvamasminpace bhaviṣyati /",
+    "english": "and it often happens that, in view of the peculiar character of their auxiliaries, they are taken even in such a sense as is not generally known.",
+    "morphology": "bhūyasām_bhūyas_PGM ca_ca_ sadharma_sadharma_Cp tvam_tva_SNNe asmin_idam_SLM pace_paca_SLM bhaviṣyati_bhū_SFu3In  /"
+  },
+  {
+    "index": 31286,
+    "sanskrit": "jātavedāḥ ca jāgartiḥ viśvāvāsaḥ vināyakaḥ",
+    "english": "Thou art that Pravritti whence all actions flow.",
+    "morphology": "jātavedāḥ_jātavedas_SNM ca_ca_U jāgartiḥ_jāgarti_SNM viśvāvāsaḥ_viśvāvāsa_SNM"
+  },
+  {
+    "index": 31287,
+    "sanskrit": "tatrāsti madhye viṭapī laghuḥ pelavapallavaḥ / sthita eṣo'mbare śūnye mandaraśmirivāṃśumān //",
+    "english": "There is in the midst of it a branching tree, with little of its verdant leaves and leaf-lets; and the luminous sun dispensed his gentle beams, from the upper sky and through cooling foliage.",
+    "morphology": "tatra_tatra_ asti_as_SPr3In madhye_madhya_SLNe viṭapī_viṭapin_SNM laghuḥ_laghu_SNM pelava_pelava_Cp pallavaḥ_pallava_SNM  / sthitaḥ_sthā_SNPaM eṣaḥ_etad_SNM ambare_ambara_SLNe śūnye_śūnya_SLNe manda_manda_Cp raśmiḥ_raśmi_SNM iva_iva"
+  }
+]

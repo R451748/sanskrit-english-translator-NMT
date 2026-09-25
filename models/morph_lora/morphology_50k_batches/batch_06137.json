@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49088,
+    "sanskrit": "prasanna-gātratā,",
+    "english": "clear limbs,",
+    "morphology": "prasanna_PaCp"
+  },
+  {
+    "index": 49089,
+    "sanskrit": "kulmāṣāḥ vātalāḥ rūkṣāḥ guravaḥ bhinna varcasaḥ",
+    "english": "Kulmashas (half boiled Chanakas or gram) generate the Vayu, produce loose stool, and are heavy of digestion, and tend to produce a condition of parchedness in the organism.",
+    "morphology": "kulmāṣāḥ_kulmāṣa_PNM vātalāḥ_vātala_PNM rūkṣāḥ_rūkṣa_PNM guravaḥ_guru_PNM bhinna_bhid_PaPsCp varcasaḥ_varcas_PNM"
+  },
+  {
+    "index": 49090,
+    "sanskrit": "nimbaparpaṭakaiḥ śākair jāṅgalānāṃ tathā rasaḥ // viḍaṅgaṃ maricaṃ mustaṃ kuṣṭhaṃ lodhraṃ suvarcikā / manaḥśilā ca vāleyaḥ kuṣṭhahā mūtrapeṣitaḥ //",
+    "english": "The juice of venison mixed with neem and parpaṭaka and vegetables, viḍaṅga embelia ribes, black pepper, musta, kuṣṭha, lodhra, natron are also good. Paste of red arsenic and vacā a kind of aromatic root with cow’s urine cures leprosy. Cakes, kuṣṭha, kulmāṣa black barley and barley etc.",
+    "morphology": "nimba_nimba_Cp parpaṭakaiḥ_parpaṭaka_PIM śākaiḥ_śāka_PIM jāṅgalānām_jāṅgala_PGM tathā_tathā_ rasaḥ_rasa_SNM  // viḍaṅgam_viḍaṅga_SNNe maricam_marica_SNNe mustam_mustā_SNNe kuṣṭham_kuṣṭha_SNNe lodhram_lodhra_SNNe suv"
+  },
+  {
+    "index": 49091,
+    "sanskrit": "bahu mitrāḥ vayam sarve teṣām naḥ mātulaḥ hi ayam rakṣām karotu satatam vṛddha bālasya sarvaśas",
+    "english": "Let this one, therefore, become our maternal uncle, and let him always protect all the old and young ones of our race.",
+    "morphology": "bahu_bahu_Cp mitrāḥ_mitra_PNM vayam_mad_PN sarve_sarva_PNM teṣām_tad_PGM naḥ_mad_PG mātulaḥ_mātula_SNM hi_hi_U ayam_idam_SNM rakṣām_rakṣā_SAF karotu_kṛ_SPr3Im satatam_satatam_U vṛddha_vṛddha_Cp bālasya_bāla_SGM sarvaśas_sarvaśas"
+  },
+  {
+    "index": 49092,
+    "sanskrit": "kathaṃ ca nindito rudro dakṣeṇa ca mahātmanā | nimittamapi kiṃ tatra yena syānniṃdito bhavaḥ ||",
+    "english": "2. How was Rudra censured by Dakṣa the noble soul? What could be the cause whereby Śiva was censured?",
+    "morphology": "katham_katham_ ca_ca_ ninditaḥ_nind_SNPaM rudraḥ_rudra_SNM dakṣeṇa_dakṣa_SIM ca_ca_ mahātmanā_mahātman_SIM  / nimittam_nimitta_SNNe api_api_ kim_ka_SNNe tatra_tatra_ yena_yad_SINe syāt_as_SPr3O ninditaḥ_nind_SNPaM bhavaḥ_bhava_SNM "
+  },
+  {
+    "index": 49093,
+    "sanskrit": "kālī kālīti hṛdayaṃ duṣṭacāṇḍālikā śiraḥ //",
+    "english": "One should say Kālī, Kālī and touch the heart and Duṣṭacāṇḍālikā vicious Cāṇḍālikā and touch the head.",
+    "morphology": "kālī_kālī_SNF kālī_kālī_SNF iti_iti_ hṛdayam_hṛdaya_SNNe duṣṭa_duṣ_PaCp cāṇḍālikā_cāṇḍālikā_SNF śiraḥ_śiras_SNNe  /"
+  },
+  {
+    "index": 49094,
+    "sanskrit": "kramādirūpaḥ //",
+    "english": "‘Such property’ as Order, etc.",
+    "morphology": "__U __U __U __U __U  /"
+  },
+  {
+    "index": 49095,
+    "sanskrit": "dhigdhikpāpa tvayā kanyātīva rūpavatī sadā | vaṃcayitvā janetāramudūḍhā sā sumadhyamā || 9 ||",
+    "english": "9-17a. ‘Fie upon you! Fie upon you! O sinful one, a very beautiful girl of excellent middle has been married by you after deceiving her father.",
+    "morphology": "dhik_dhik_ dhik_dhik_ pāpa_pāpa_SVM tvayā_tvad_SI kanyā_kanyā_SNF atīva_atīva_ rūpavatī_rūpavat_SNF sadā_sadā_  / vaṃcayitvā_vañcay_Co janetāram_janetṛ_SAM udūḍhā_udvah_SNPaF sā_tad_SNF sumadhyamā_sumadhyamā_SNF"
+  }
+]

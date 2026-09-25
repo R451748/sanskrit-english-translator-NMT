@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23000,
+    "sanskrit": "nāsattvasaṃkhyātau /",
+    "english": "It belongs to living beings, and not to noa-living beings.",
+    "morphology": "na_ a_a_ sattva_Cp saṃkhyātau_saṃkhyāti_SLF "
+  },
+  {
+    "index": 23001,
+    "sanskrit": "śamaḥ saṃdhiḥ samādhir ity ekoarthaḥ // rājñāṃ viśvāsaupagamaḥ śamaḥ saṃdhiḥ samādhir iti //",
+    "english": "MAKING PEACE AND BREAKING IT THE words sama quiet, sandhi agreement of peace, and samádhi reconcilement, are synonymous That which is conducive to mutual faith among kings is termed sama, sandhi, or samádhi",
+    "morphology": "śamaḥ_śama_SNM saṃdhiḥ_saṃdhi_SNM samādhiḥ_samādhi_SNM iti_iti_ ekaḥ_eka_SNM arthaḥ_artha_SNM  // rājñām_rājan_PGM viśvāsa_viśvāsa_Cp aupagamaḥ_aupagama_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM s"
+  },
+  {
+    "index": 23002,
+    "sanskrit": "yasyā lāvaṇyajaladhau nimagnaścaturānanaḥ | svadhairyyaṃ mumuce pūrvaṃ tayā kānyopamīyate ||",
+    "english": "48. Even the four-faced[2] lord Brahmā, immersed in her ocean of beauty, lost his mental steadiness formerly.[3] Who can be compared to such a beautiful lady?",
+    "morphology": "yasyāḥ_yad_SGF lāvaṇya_lāvaṇya_Cp jaladhau_jaladhi_SLM nimagnaḥ_nimajj_SNPaM caturānanaḥ_caturānana_SNM  / sva_sva_Cp dhairyam_dhairya_SANe mumuce_muc_SPs3In pūrvam_pūrvam_"
+  },
+  {
+    "index": 23003,
+    "sanskrit": "śrīvasiṣṭha uvāca / iti saṃcintya sa kaca ujjagāma triviṣṭapam / vākpatiṃ prāpya sasnehaṃ vavande praṇanāma ca //",
+    "english": "Vasishtha related:—Having thought so, Kacha went upward to the upper sky, and meeting the lord of speech there, he bowed down to him, and did his homage with filial love and affection.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / iti_iti_ saṃcintya_saṃcintay_Co sa_tad_SNM kacaḥ_kaca_SNM ujjagāma_udgam_SPs3In triviṣṭapam_triviṣṭapa_SANe  / vākpatim_vākpati_SAM prāpya_prāp_Co sa_sa_ sneham_sneha_S"
+  },
+  {
+    "index": 23004,
+    "sanskrit": "kiṃ tarhi---tāttvikīmapohayor avastutām āśritya sāṃvṛtam eva gamyagamakatvaṃ niṣidhyate, na bhāvikam, tena na hetor asiddhatā nāpi siddhasādhyatā pratijñādoṣo bhaviṣyati //",
+    "english": "The following might be urged by the other party: “We are not denying the real relation of Denoted and Denoter; what we are denying is the illusory relation of Denoted and Denoter which is based upon the real fact of the two Apohas being non-entities; so that our Reason is not not-admitted; nor is our conclusion open to the defect of being superfluous”.",
+    "morphology": "kim_ka_SNNe tarhi_tarhi_ tāttvikīm_tāttvika_SAF apohayoḥ_apoha_DuGM avastu_avastu_Cp tām_tā_SAF āśritya_āśri_Co sāṃvṛtam_sāṃvṛta_SNNe eva_eva_ gamya_gam_GdCp gamaka_gamaka_Cp tvam_tva_SNNe niṣidhyate_niṣidh_SPr3InPv na_na_ bhāvika"
+  },
+  {
+    "index": 23005,
+    "sanskrit": "tīrtha yātrā tathā eva atra pāṇḍavānām mahātmanām",
+    "english": "also the pilgrimage of the high-souled Pandavas.",
+    "morphology": "tīrtha_tīrtha_NeCp yātrā_yātrā_SNF"
+  },
+  {
+    "index": 23006,
+    "sanskrit": "tasya pādau surāḥ rājan abhivādya praṇamya ca",
+    "english": "And the celestials saluted the feet of the Rishi and bowed unto him and begged of him the boon that the Grandsire had bade them do.",
+    "morphology": "tasya_tad_SGM pādau_pāda_DuAM surāḥ_sura_PNM rājan_rājan_SVM"
+  },
+  {
+    "index": 23007,
+    "sanskrit": "tatraikāpohyabhedāt gavāśvayor bhedo bhavatu bhūyasām apohyānām abhedād abhedo vā bhavatu iti vicāraṇāyāṃ [vipratiṣiddhadharmasamavāye bhūyasāṃ syāt sadharmatvaṃ] ity a bheda eva nyāyyo bhavet //",
+    "english": "The Mimâṁsakas haves tated that if a uni- versal is a necessary assumption for the understanding of the meaning of a term then the attempt at the framing of the hypothesis of an apoha is futile. Now, the Buddhists may contend that the apoha 'non-non- cow' denotes all cows without an exception.",
+    "morphology": "tatra_tatra_ eka_eka_Cp apohya_apoh_GdCp bhedāt_bheda_SBM gavāśvayoḥ_go_Cp bhedaḥ_bheda_SNM bhavatu_bhū_SPr3Im bhūyasām_bhūyas_PGNe apohyānām_apoh_PGNeGd abhedāt_abheda_SBM abhedaḥ_abheda_SNM vā_vā_ bhavatu_bhū_SPr3Im iti_iti_ vicāraṇ"
+  }
+]

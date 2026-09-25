@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15704,
+    "sanskrit": "ye'tra snānaṃ kariṣyaṃti śrāvaṇyāṃ śraddhayā dvijāḥ | kṣālayiṣyaṃti te pāpaṃ caurya karmasamudbhavam || 87 ||",
+    "english": "87. Those who faithfully take their holy bath here on Śrāvaṇī day, O Brāhmaṇas, will wash off their sin due to thievery. Sūta said:",
+    "morphology": "ye_yad_PNM atra_atra_ snānam_snāna_SANe kariṣyanti_kṛ_PFu3In śrāvaṇyām_śrāvaṇī_SLF śraddhayā_śraddhā_SIF dvijāḥ_dvija_PNM  / kṣālayiṣyaṃti_kṣālay_PFu3In te_tad_PNM pāpam_pāpa_SANe caurya_caurya_Cp karma_karman_Cp samudbha"
+  },
+  {
+    "index": 15705,
+    "sanskrit": "liṅartho hi niyogo vākyārthaḥ/",
+    "english": "The function of the optative suffix is command (niyoga).",
+    "morphology": "__liṅ_U __artha_U"
+  },
+  {
+    "index": 15706,
+    "sanskrit": "tato hṛṣṭamanāḥ kṛṣṇo rāmaṃ vacanam abravīt / tvarate khalu kāryārtho devatānāṃ na saṃśayaḥ //",
+    "english": "Afterwards with a delighted heart Krishna said to Rāma:—Forsooth the accomplishment of the object of the gods is near at hand since king Jarāsandha has come near us.",
+    "morphology": "tatas_tatas_ hṛṣṭa_hṛṣ_PaCp manāḥ_manas_SNM kṛṣṇaḥ_kṛṣṇa_SNM rāmam_rāma_SAM vacanam_vacana_SANe abravīt_brū_S3ImIn  / tvarate_tvar_SPr3In khalu_khalu_ kārya_kārya_Cp arthaḥ_artha_SNM devatānām_devatā_PGF na_na_ saṃś"
+  },
+  {
+    "index": 15707,
+    "sanskrit": "tām āpatantīm sahasā kauravāṇām mahā camūm",
+    "english": "Towards that mighty division of the Kauravas thus advancing with impetuosity, Arjuna of white steeds rushed with great impetuosity.",
+    "morphology": "tām_tad_SAF"
+  },
+  {
+    "index": 15708,
+    "sanskrit": "surāpaḥ vāruṇīm uṣṇām pītvā pāpāt vimucyate tayā sa kāye nirdagdhe mṛtyunā pretya śudhyati lokān ca labhate vipraḥ na anyathā labhate hi saḥ",
+    "english": "His body being burnt with that hot drink, he is cleansed through death in the other world.[477] A Brahmana stained by such a sin obtains regions of felicity by such a course and not by any other.",
+    "morphology": "surāpaḥ_surāpa_SNM vāruṇīm_vāruṇī_SAF uṣṇām_uṣṇa_SAF pītvā_pā_Co pāpāt_pāpa_SBNe vimucyate_vimuc_SPr3InPv tayā_tad_SIF sa_sa_U kāye_kāya_SLM nirdagdhe_nirdah_SLPaPsM mṛtyunā_mṛtyu_SIM pretya_pre_Co śudhyati_śudh_SPr3In "
+  },
+  {
+    "index": 15709,
+    "sanskrit": "pūrvānte sati madhyānto bhavati madhyāntasyotpādādaparānta utpadyata iti /",
+    "english": "from the arising of present existence future existence arises;",
+    "morphology": "pūrva_pūrva_Cp ante_anta_SLM sati_as_SLPaPrM madhya_madhya_Cp antaḥ_anta_SNM bhavati_bhū_SPr3In madhya_madhya_Cp antasya_anta_SGM utpādāt_utpāda_SBM apara_apara_Cp antaḥ_anta_SNM utpadyate_utpad_SPr3In iti_iti_  /"
+  },
+  {
+    "index": 15710,
+    "sanskrit": "ity uktvā bhagavān devas tatraivāntaradhīyata //",
+    "english": "Having said this the lord disappeared there from #.",
+    "morphology": "iti_iti_ uktvā_vac_Co bhagavān_bhagavant_SNM devaḥ_deva_SNM tatra_tatra_ eva_eva_ antaradhīyata_antardhā_S3ImInPv  /"
+  },
+  {
+    "index": 15711,
+    "sanskrit": "śṛṇuṣva avahitaḥ bhūtvā yat te vakṣyāmi bhārata",
+    "english": "Listen attentively to what, O Bharata, I say unto thee.",
+    "morphology": "śṛṇuṣva_śru_SPr2Im avahitaḥ_avahita_SNM bhūtvā_bhū_Co yat_yad_SANe te_tvad_SD vakṣyāmi_vac_SFu1In bhārata_bhārata_SVM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7496,
+    "sanskrit": "ke cit hi sauhṛdāt eva doṣam na paricakṣate",
+    "english": "Of counsellers some from friendship do not notice the difficulties;",
+    "morphology": "ke_ka_PNM cit_cit_U hi_hi_U sauhṛdāt_sauhṛda_SBNe eva_eva_U doṣam_doṣa_SAM na_na_U"
+  },
+  {
+    "index": 7497,
+    "sanskrit": "api rudrādayo devā madbāṇebhyo dvijottama | soḍhuṃ śaktā na te yasmāttatkathaṃ syādiyaṃ śilā || 42 ||",
+    "english": "42. O excellent Brāhmaṇa, even Devas beginning with Rudra are unable to bear my arrows. Hence could she have borne? Why should she be turned into a rock?",
+    "morphology": "api_api_ rudra_rudra_Cp ādayaḥ_ādi_PNM devāḥ_deva_PNM mad_mad_Cp bāṇebhyaḥ_bāṇa_PBM dvijottama_dvijottama_SVM  / soḍhum_sah_In śaktāḥ_śak_PNPaM na_na_ te_tad_PNM yasmāt_yasmāt_ tat_tad_SNNe katham_katham_ syāt_as_SPr3O iyam_idam_SN"
+  },
+  {
+    "index": 7498,
+    "sanskrit": "pāpakutseṣadarthe ku dhigjugupsananindayoḥ /",
+    "english": "The particle ku is used in the sense of sin, condemnation and little. Dhik is used in the sense of disgust and censure.",
+    "morphology": "pāpa_pāpa_Cp kutsa_kutsa_Cp iṣad_iṣad_Cp arthe_artha_SLM ku_ku_SNNe dhik_dhik_SNNe jugupsana_jugupsana_Cp nindayoḥ_nindā_DuLF"
+  },
+  {
+    "index": 7499,
+    "sanskrit": "tataś candanacūrṇaiś ca puṣpavarṣaiś ca sarvaśaḥ /",
+    "english": "Afterwards showering flowers, scents and powdered sandal they adored the gods.",
+    "morphology": "tatas_tatas_ candana_candana_Cp cūrṇaiḥ_cūrṇa_PINe ca_ca_ puṣpa_puṣpa_Cp varṣaiḥ_varṣa_PIM ca_ca_ sarvaśas_sarvaśas_  /"
+  },
+  {
+    "index": 7500,
+    "sanskrit": "śiśire puṇḍarīkasya vasante cāśvamedhajam // grīṣme tu vājapeyasya rājasūyasya varṣati /",
+    "english": "A person would get the benefit of performing the Puṇḍarīka rite in Śiśira advanced winter, Aśvamedha rite in the spring, Vājapeya rite in the summer and Rājasūya in the rainy season.",
+    "morphology": "śiśire_śiśira_SLM puṇḍarīkasya_puṇḍarīka_SGM vasante_vasanta_SLM ca_ca_ aśvamedha_aśvamedha_Cp jam_ja_SAM  // grīṣme_grīṣma_SLM tu_tu_ vājapeyasya_vājapeya_SGM rājasūyasya_rājasūya_SGM varṣati_vṛṣ_SLPaPrM  /"
+  },
+  {
+    "index": 7501,
+    "sanskrit": "nābhāga uvāca | brūhi mūlyaṃ mahābhāga munerasya mahātmanaḥ | paritrāyasva māmasmātsajñātikulabāṃdhavam || 36 ||",
+    "english": "Nābhāga said: 36. Tell me the value of the great sage, O highly fortunate one. Protect me along with my clan, and family relatives from this (sage).",
+    "morphology": "nābhāgaḥ_nābhāga_SNM uvāca_vac_SPs3In  / brūhi_brū_SPr2Im mūlyam_mūlya_SANe mahābhāga_mahābhāga_SVM muneḥ_muni_SGM asya_idam_SGM mahātmanaḥ_mahātman_SGM  / paritrāyasva_paritrā_SPr2Im mām_mad_SA asmāt_idam_SBM sa_sa_ jñāti_jñāt"
+  },
+  {
+    "index": 7502,
+    "sanskrit": "lokatraya vidhātāram ekam lokatraya āśrayam",
+    "english": "The Ordainer of the three worlds, he is the sole refuge of the three worlds.",
+    "morphology": "lokatraya_lokatraya_NeCp vidhātāram_vidhātṛ_SAM ekam_eka_SAM lokatraya_lokatraya_NeCp"
+  },
+  {
+    "index": 7503,
+    "sanskrit": "tatassa himavān tāta suprahṛṣṭāḥ prasannadhīḥ | sammānya sakalānprītyā snātuṃ gaṃgāṃ jagāma ha ||",
+    "english": "25. The happy and delighted Himavat, honoured everyone. Then he went to the Gaṅgā for his bath.",
+    "morphology": "tatas_tatas_ sa_tad_SNM himavān_himavant_SNM tāta_tāta_SVM su_su_ prahṛṣṭāḥ_prahṛṣ_PNPaM prasanna_prasad_PaCp dhīḥ_dhī_SNM  / sammānya_sammānay_Co sakalān_sakala_PAM prītyā_prīti_SIF snātum_snā_In gaṃgām_gaṅgā_SAF jagāma_"
+  }
+]

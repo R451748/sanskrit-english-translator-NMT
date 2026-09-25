@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45984,
+    "sanskrit": "sa viṣṇorjñānamāsādya tenaiva saha modate ||",
+    "english": "27. He who recites this everyday, listens to it or narrates it to others attains Viṣṇu’s wisdom and rejoices with him.",
+    "morphology": "sa_tad_SNM viṣṇoḥ_viṣṇu_SGM jñānam_jñāna_SANe āsādya_āsāday_Co"
+  },
+  {
+    "index": 45985,
+    "sanskrit": "naranāgāsurāgāragirigahvaradṛṣṭibhiḥ / citireveti visṛtā dhūmo'mbudatayeva khe //",
+    "english": "It is the Intellect alone which shines amidst this gloom, like a luminary in the sky; and looks over all mankind, Nagas and Asuras, and over mountains and in their caves.",
+    "morphology": "nara_nara_Cp nāga_nāga_Cp asura_asura_Cp āgāra_āgāra_Cp giri_giri_Cp gahvara_gahvara_Cp dṛṣṭibhiḥ_dṛṣṭi_PIF  / citiḥ_citi_SNF ā_ā_ iva_iva_ ā_ā_"
+  },
+  {
+    "index": 45986,
+    "sanskrit": "tatas śatānīkam avidhyat āśugaiḥ tribhiḥ śitaiḥ karṇa sutaḥ arjunam tribhiḥ",
+    "english": "Then Karna's son pierced Satanika with three arrows, made wholly of iron and Arjuna also with as many.",
+    "morphology": "tatas_tatas_U śatānīkam_śatānīka_SAM avidhyat_vyadh_SPs3In āśugaiḥ_āśuga_PIM tribhiḥ_tri_PIM śitaiḥ_śā_PIPaPsM karṇa_karṇa_MCp sutaḥ_suta_SNM arjunam_arjuna_SAM"
+  },
+  {
+    "index": 45987,
+    "sanskrit": "sa prajāpatirgrahaṃ dvedhā cakāra sa hovācedaṃ vāyorityatha punarardhaṃ dvedhā cakāra sa hovācedaṃ vāyoritīdaṃ tavetīndra turīyameva bhājayāṃ cakāra yadvai caturthaṃ tatturīyaṃ tata eṣa aindraturīyo graho 'bhavat //",
+    "english": "Pragâpati divided the cup (of Soma) into two parts and said, 'This (half) is Vâyu's!' Then he divided the (other) half into two parts and said, 'This is Vâyu's!--This is thine!' then he assigned to Indra a fourth part for his share--one fourth is the same as a quarter: henceforward that cup belonged, one fourth of it, to Indra.",
+    "morphology": "sa_tad_SNM prajāpatiḥ_prajāpati_SNM graham_graha_SAM dvedhā_dvedhā_ cakāra_kṛ_SPs3In sa_tad_SNM ha_ha_ uvāca_vac_SPs3In idam_idam_SNNe vāyoḥ_vāyu_SGM iti_iti_ atha_atha_ punar_punar_ ardham_ardha_SANe dvedhā_dvedhā_ cakāra_kṛ_SPs3In sa_t"
+  },
+  {
+    "index": 45988,
+    "sanskrit": "saptādau mānasāñjajñe sanakādīṃstato'parān | marīci dakṣaprabhṛtīnmanvādīṃśca prajāsṛjaḥ || 30 ||",
+    "english": "30. At the outset he created seven mental sons, Sanaka and others. Then he created the patriarchs, Marīci, Dakṣa, Manu and others.",
+    "morphology": "sapta_saptan_PAM ādau_ādi_SLM mānasān_mānasa_PAM jajñe_jan_SPs3In sanaka_sanaka_Cp ādīn_ādi_PAM tatas_tatas_ aparān_apara_PAM  / __marīci_U __dakṣa_U __ādi_U __ādi_U"
+  },
+  {
+    "index": 45989,
+    "sanskrit": "tadviparyayāt avarṇyaḥ siddhaḥ dṛṣṭāntadharmaḥ /",
+    "english": "Thus all sophism which centres round definition of the chastity of a word stands refuted.",
+    "morphology": "tad_tad_Cp viparyayāt_viparyaya_SBM a_a_ varṇyaḥ_varṇay_SNMGd"
+  },
+  {
+    "index": 45990,
+    "sanskrit": "tato godohamātraṃ vai kālaṃ tiṣṭhedgṛhāṅgaṇe / atithigrahaṇārthāya tadūrdhvaṃ tu tathaicchāyā //",
+    "english": "”The householder is then to remain at eventide in his courtyard as long as it takes to milk a cow, or longer if he pleases, to await the arrival of a guest.",
+    "morphology": "tatas_tatas_ godoha_godoha_Cp mātram_mātra_SAM vai_vai_ kālam_kāla_SAM tiṣṭhet_sthā_SPr3O gṛha_gṛha_Cp aṅgaṇe_aṅgaṇa_SLNe  / atithi_atithi_Cp grahaṇa_grahaṇa_Cp arthāya_artha_SDM tad_tad_Cp ūrdhvam_ūrdhvam_ tu_tu_  /"
+  },
+  {
+    "index": 45991,
+    "sanskrit": "ekaivākāśasaṃkāśe kevale hṛdaye rame / na rame rājalīlāsu tenāsmi śrīmatī sthitā //",
+    "english": "I delight only in one vacuous entity, that has taken possession of my heart, and I take no pleasure in the royal gardens and sports, and thence I am thy fortunate princess as ever.",
+    "morphology": "ekā_eka_SNF eva_eva_ ākāśa_ākāśa_Cp saṃkāśe_saṃkāśa_SLNe kevale_kevala_SLNe hṛdaye_hṛdaya_SLNe rame_ram_SPr1In  / na_na_ rame_ram_SPr1In rāja_rājan_Cp līlāsu_līlā_PLF tena_tena_ asmi_as_SPr1In śrīmatī_śrīmat_SNF sthitā_sthā_"
+  }
+]

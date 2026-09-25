@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47496,
+    "sanskrit": "sarveṣām pāṇḍu putrāṇām jayaḥ pārthe pratiṣṭhitaḥ",
+    "english": "Among all the sons of Pandu, it is Partha in whom Victory is always established.",
+    "morphology": "sarveṣām_sarva_PGM pāṇḍu_pāṇḍu_MCp putrāṇām_putra_PGM jayaḥ_jaya_SNM pārthe_pārtha_SLM pratiṣṭhitaḥ_pratiṣṭhā_SNPaPsM"
+  },
+  {
+    "index": 47497,
+    "sanskrit": "jīrṇayā tvacā muktaḥ sarpo yathā bhavati /",
+    "english": "\"Just as the snake from the slough,\" just as the snake becomes freed from the castoff skin.",
+    "morphology": "jīrṇayā_jṛ_SIPaF tvacā_tvac_SIF muktaḥ_muc_SNPaM sarpaḥ_sarpa_SNM yathā_yathā_ bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 47498,
+    "sanskrit": "abdaṃ svarūpasaubhāgyaṃ svargabhāg jāyate vratī / kārttike śuktipakṣasya ditīyāyāṃ yamaṃ yajet //",
+    "english": "One who practises vow for a year would get good fortune and reach heaven. One should worship the god of Death on the second day of the bright fortnight in the month of kārttika NovemberDecember.",
+    "morphology": "abdam_abda_SAM sva_sva_Cp rūpa_rūpa_Cp saubhāgyam_saubhāgya_SANe svarga_svarga_Cp bhāj_bhāj_SNM jāyate_jan_SPr3In vratī_vratin_SNM  / kārttike_kārttika_SLM śukti_śukti_Cp pakṣasya_pakṣa_SGM ditīyāyām_ditīyā_SLF yamam_yama_SAM yajet_yaj"
+  },
+  {
+    "index": 47499,
+    "sanskrit": "tathāvidhena karmaṇā tayoḥ kvacid apyanvayāsiddheḥ /",
+    "english": "because the concomitance of such Conjunction and Disjunction with Action is in nowise admitted (or proved).",
+    "morphology": "tathāvidhena_tathāvidha_SINe karmaṇā_karman_SINe tayoḥ_tad_DuGM kvacid_kvacid_ api_api_ anvaya_anvaya_Cp asiddheḥ_asiddhi_SBF  /"
+  },
+  {
+    "index": 47500,
+    "sanskrit": "tahnāya purekkhaṭā prajā parisappanti śaśo va bādhito |",
+    "english": "People surrounded by craving crawl round like a hare in a trap,",
+    "morphology": "purekkhaṭā_purekkhaṭa_PNNe prajā_prajā_PNNe parisappanti_parisapp_PPr3In śaśaḥ_śaśa_SNM"
+  },
+  {
+    "index": 47501,
+    "sanskrit": "agryam agre pratijñāya tena asi duhitā mama",
+    "english": "Having promised me in these words,--I will give my first born,--thy father gladly gave thee to me while thou wert yet in thy infancy.",
+    "morphology": "agryam_agrya_SAM agre_agra_SLNe pratijñāya_pratijñā_Co tena_tena_U asi_as_SPr2In"
+  },
+  {
+    "index": 47502,
+    "sanskrit": "ghātakaḥ vadha bandhābhyām iti eṣa trividhaḥ vadhaḥ",
+    "english": "Those are the three kinds of slaughter, each of these three acts being so.",
+    "morphology": "ghātakaḥ_ghātaka_SNM vadha_vadha_MCp bandhābhyām_bandha_DuIM iti_iti_U eṣa_etad_SNM trividhaḥ_trividha_SNM vadhaḥ_vadha_SNM"
+  },
+  {
+    "index": 47503,
+    "sanskrit": "upalabhyate ca chāyāstha ādarśe sūryasya prativimbakamiti na yukto 'sya tatra prādurbhāvaḥ /",
+    "english": "Now, if one places a mirror in the shade, in a shed situated close to a pond lit by the sun, one would see in this mirror the reflection of the reflection of the sun on the surface of the water. It is thus proved, by these three observations, that a reflection is not a real, substantial thing. The Kārikā is iable to another interpretation.",
+    "morphology": "upalabhyate_upalabh_SPr3InPv ca_ca_ chāyā_chāyā_Cp sthe_stha_SLM ādarśe_ādarśa_SLM sūryasya_sūrya_SGM prativimbakam_prativimbaka_SNNe iti_iti_ na_na_ yuktaḥ_yuj_SNPaM asya_idam_SGM tatra_tatra_ prādurbhāvaḥ_prādurbhāva_SNM  /"
+  }
+]

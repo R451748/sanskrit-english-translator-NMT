@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2544,
+    "sanskrit": "parāśara ātmajam vande śuka tātam tapaḥ nidhim",
+    "english": "It should be noted here that the Hindu idea of emancipation is not bliss enjoyed by a conscious Self, but freedom from the obligation of re-birth and Karma.",
+    "morphology": "parāśara_parāśara_MCp ātmajam_ātmajā_SAM"
+  },
+  {
+    "index": 2545,
+    "sanskrit": "sasaptāśve saikacakre rathe sūryo dvipadmadhṛk /",
+    "english": "The image of the Sun should be made to ride a chariot having one wheel and seven horses.",
+    "morphology": "sa_sa_ sapta_saptan_Cp aśve_aśva_SLM sa_sa_ eka_eka_Cp cakre_cakra_SLM rathe_ratha_SLM sūryaḥ_"
+  },
+  {
+    "index": 2546,
+    "sanskrit": "aindradyumneḥ yajña dṛśau iha āvām vivakṣū vai janaka indram didṛkṣū",
+    "english": "And, O son of Indradyumna, we have come, desirous of seeing the sacrifice, and to meet king Janaka and speak to him.",
+    "morphology": "aindradyumneḥ_aindradyumni_SGM yajña_yajña_MCp dṛśau_dṛś_DuNM iha_iha_U āvām_mad_DuN vivakṣū_vivakṣu_DuNM vai_vai_U janaka_janaka_SVM indram_indra_SAM didṛkṣū_didṛkṣu_DuNM"
+  },
+  {
+    "index": 2547,
+    "sanskrit": "janmākṣepāttatra tatra sattvanikāye jātijarāmaraṇaduḥkhamanyacca śokaparideva/ duḥkhaṃ daurmanasyopāyāsaduḥkhamanantaprabhedamanubhavatīti /",
+    "english": "That is the case here because one experiences, when the birth is projected, sorrow in endless variety in such and such a group of sentient beings. It is the pain [which inheres in] birth, decay and death as well as the pain of grief and lamenting and the pain of dejection and mental unrest.",
+    "morphology": "janma_janman_Cp ākṣepāt_ākṣepa_SBM tatra_tatra_ tatra_tatra_ sattva_sattva_Cp nikāye_nikāya_SLM jāti_jāti_Cp jarā_jarā_Cp maraṇa_maraṇa_Cp duḥkham_duḥkha_SNNe anyat_anya_SNNe ca_ca_ śoka_śoka_Cp parideva_parideva_SVM  / duḥkham_du"
+  },
+  {
+    "index": 2548,
+    "sanskrit": "paridevati tān vīrān dhṛtarāṣṭraḥ mahīpatiḥ",
+    "english": "King Dhritarashtra is always grieving for those heroes.",
+    "morphology": "paridevati_paridīv_SPr3In"
+  },
+  {
+    "index": 2549,
+    "sanskrit": "taiśca sarvapurāṇāni śrutāni sthirabuddhibhiḥ | kāśīkhaṃḍaṃ śrutaṃ yaiśca sarveṣāṃ śreyasāṃ padam || 12 ||",
+    "english": "112. If Kāśīkhaṇḍa which is the cause of all welfare is heard by persons of steady intellect, then all the Purāṇas have been heard.",
+    "morphology": "taiḥ_tad_PIM ca_ca_ sarva_sarva_Cp purāṇāni_purāṇa_PNNe śrutāni_śru_PNPaNe sthira_sthira_Cp buddhibhiḥ_buddhi_PIM  / kāśīkhaṇḍam_kāśīkhaṇḍa_SNNe śrutam_śru_SNPaNe yaiḥ_yad_PIM ca_ca_ sarveṣām_sarva_PGM śreyasām_śreyas_"
+  },
+  {
+    "index": 2550,
+    "sanskrit": "viśeṣataḥ tapaḥ vṛddham evam kṣāntam mayā tava",
+    "english": "It was for this that I forgive thee.",
+    "morphology": "viśeṣataḥ_viśeṣataḥ_U tapaḥ_tapas_SNNe vṛddham_vṛdh_SNPaPsNe eva_eva_U"
+  },
+  {
+    "index": 2551,
+    "sanskrit": "kalpadrumavanacchāyā viśrāntā vitatānvitāḥ / paśya pārthiva gāyanti siddhavidyādharādhvagāḥ //",
+    "english": "Behold the weary wayfarers, laying and lulling themselves to rest, under the shade of the Kalpa trees in the garden of paradise; while the siddhas and Vidyadharas are sitting there at ease, and singing their songs to the tune of their stringed instruments.",
+    "morphology": "kalpadruma_kalpadruma_Cp vana_vana_Cp chāyāḥ_chāyā_PNF viśrāntāḥ_viśram_PNPaF vitata_vitan_PaCp anvitāḥ_anvita_PNF  / paśya_paś_SPr2Im pārthiva_pārthiva_SVM gāyanti_gā_PPr3In siddha_siddha_Cp vidyādhara_vidyādhara_Cp adhvagāḥ_adhv"
+  }
+]

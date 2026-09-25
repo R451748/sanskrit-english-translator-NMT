@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25296,
+    "sanskrit": "raktapitta vidhiḥ tasya hitaḥ snigdhaḥ anila apahaḥ",
+    "english": "Emulsive and Vayu-subduing remedies are likewise applicable therein.",
+    "morphology": "raktapitta_raktapitta_NeCp vidhiḥ_vidhi_SNM"
+  },
+  {
+    "index": 25297,
+    "sanskrit": "janārdanam dvādaśabhiḥ parābhinan navaiḥ navatyā ca śaraiḥ tathā arjunam saṃchādya bāṇaiḥ sa tu gārdhra patraiḥ",
+    "english": "And he pierced Janardana with a dozen shafts and Arjuna with nine and ninety.",
+    "morphology": "janārdanam_janārdana_SAM dvādaśabhiḥ_dvādaśan_PIM parābhinan_parābhid_SPs3In navaiḥ_nava_PIM navatyā_navati_SIF ca_ca_U śaraiḥ_śara_PIM tathā_tathā_U arjunam_arjuna_SAM saṃchādya_saṃchāday_Co bāṇaiḥ_bāṇa_PIM sa_tad_SNM tu_t"
+  },
+  {
+    "index": 25298,
+    "sanskrit": "tānahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān / kṣipāmyajasramaśubhānāsurīpveva yoniṣu //",
+    "english": "'These malicious and cruel evil-doers, most degraded of men, I hurl perpetually into the wombs of the Asuras only, in these worlds.",
+    "morphology": "tān_tad_PAM aham_mad_SN dviṣataḥ_dviṣ_PAPaPrM krūrān_krūra_PAM saṃsāreṣu_saṃsāra_PLM nara_nara_Cp adhamān_adhama_PAM  / kṣipāmi_kṣip_SPr1In ajasram_ajasram_ aśubhān_aśubha_PAM āsurīṣu_āsurī_PLF eva_eva_ yoniṣu_yoni_PLF  /"
+  },
+  {
+    "index": 25299,
+    "sanskrit": "deśavyavasthā tv āśrayaṇīyā /",
+    "english": "In fact in each individual case, local custom has got to be followed.",
+    "morphology": "deśa_deśa_Cp vyavasthā_vyavasthā_SNF"
+  },
+  {
+    "index": 25300,
+    "sanskrit": "tasmād anumānavihīno 'pi sa kartā kalpyate /",
+    "english": "Hence, if such an Author is assumed, such an assumption cannot be supported by Inference.",
+    "morphology": "tasmāt_tasmāt_ __anumāna_U __vihā_PaU __paU __"
+  },
+  {
+    "index": 25301,
+    "sanskrit": "medhātithessutā bhūtvā muniśreṣṭhasya dhīmatī | brahmaviṣṇumaheśānavacanāccaritavratā || vavre patiṃ mahātmānaṃ vasiṣṭhaṃ śaṃsitavratam | pativratā ca mukhyā'bhūdvaṃdyā pūjyā tvabhīṣaṇā ||",
+    "english": "9-10. She was born as the intelligent daughter of the excellent sage Medhātithi, performed sacred rites at the bidding of Brahmā, Viṣṇu and Śiva and chose as her husband the noble-souled Vasiṣṭha of praiseworthy rites. She of auspicious countenance became the foremost of chaste ladies and deserved honour and respect from everyone,",
+    "morphology": "medhātitheḥ_medhātithi_SGM sutā_sutā_SNF bhūtvā_bhū_Co muni_muni_Cp śreṣṭhasya_śreṣṭha_SGM dhīmatī_dhīmat_SNF  / brahma_brahman_Cp viṣṇu_viṣṇu_Cp maheśāna_maheśāna_Cp vacanāt_vacana_SBNe carita_car_PaCp vratā_vrata_SNF  "
+  },
+  {
+    "index": 25302,
+    "sanskrit": "draviḍāḥ keralāḥ prācyāḥ bhūṣikāḥ vana vāsinaḥ",
+    "english": "They are the Dravidas, the Keralas, the Prachyas, the Mushikas, and the Vanavashikas;",
+    "morphology": "draviḍāḥ_draviḍa_PNM keralāḥ_kerala_PNM prācyāḥ_prācya_PNM bhūṣikāḥ_bhūṣika_PNM"
+  },
+  {
+    "index": 25303,
+    "sanskrit": "tāṃ kāśīṃ prāpya vṛtrāre vṛtrahatyāpanuttaye | samārādhaya viśveśaṃ viśvamuktipradāyakam || 13 ||",
+    "english": "13. O enemy of Vṛtra, for the purpose of dispelling the sin of the slaughter of Vṛtra go to that famous Kāśī and propitiate Viśveśa, the bestower of salvation on all the world.",
+    "morphology": "tām_tad_SAF kāśīm_kāśī_SAF prāpya_prāp_Co vṛtrāre_vṛtrāri_SVM vṛtra_vṛtra_Cp hatyā_hatyā_Cp apanuttaye_apanutti_SDF  / samārādhaya_samārādhay_SPr2Im viśveśam_viśveśa_SAM viśva_viśva_Cp mukti_mukti_Cp pradāyaka_SAM"
+  }
+]

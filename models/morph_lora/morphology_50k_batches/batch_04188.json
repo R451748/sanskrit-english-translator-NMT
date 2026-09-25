@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33496,
+    "sanskrit": "sa taiḥ prītyā atha satkāram upanītam mahā ṛṣibhiḥ prayataḥ pratigṛhya atha dharmaputraḥ yudhiṣṭhiraḥ",
+    "english": "And Yudhishthira the just received with regard the things gladly offered for his reception by the great sages.",
+    "morphology": "sa_tad_SNM taiḥ_tad_PIM prītyā_prīti_SIF atha_atha_U satkāram_satkāra_SAM upanītam_upanī_SAPaPsM mahā_mahat_Cp ṛṣibhiḥ_ṛṣi_PIM prayataḥ_prayam_SNPaPsM pratigṛhya_pratigrah_Co atha_atha_U dharmaputraḥ_dharmaputra_SNM yudhiṣṭhir"
+  },
+  {
+    "index": 33497,
+    "sanskrit": "kṣatram ca anye abhyanindanta bhīṣmam ca eke abhyapūjayan",
+    "english": "And some censured the practices of the Kshatriya order and some applauded Bhishma.",
+    "morphology": "kṣatram_kṣatra_SANe ca_ca_U anye_anya_PNM abhyanindanta_abhinind_PPs3In"
+  },
+  {
+    "index": 33498,
+    "sanskrit": "prādurbhāvaḥ ca bhūtānām dehanyāsaḥ tathā eva ca prāpti vyāyāma yogaḥ ca sarvam etat pratiṣṭhitam",
+    "english": "Similarly, the birth of creatures and their death, and the accessions of gain and loss, are all pre-ordained.",
+    "morphology": "prādurbhāvaḥ_prādurbhāva_SNM ca_ca_U bhūtānām_bhūta_PGNe dehanyāsaḥ_dehanyāsa_SNM tathā_tathā_U eva_eva_U ca_ca_U prāpti_prāpti_FCp vyāyāma_vyāyāma_MCp yogaḥ_yoga_SNM ca_ca_U sarvam_sarva_SNNe etat_etad_SNNe pratiṣṭhitam_prati"
+  },
+  {
+    "index": 33499,
+    "sanskrit": "tathā ca [kuru kuru] iti yo brūte sa kārayatīty ucyate na pratītibhedāt /",
+    "english": "This is the exact meaning of the causative suffix. But in case of the impe- rative suffix the sense is contrary to that of the above one.",
+    "morphology": "tathā_tathā_ ca_ca_ kuru_kṛ_SPr2Im kuru_kṛ_SPr2Im iti_iti_ yaḥ_yad_SNM brūte_brū_SPr3In sa_tad_SNM kārayati_kāray_SPr3In iti_iti_ ucyate_vac_SPr3InPv na_na_ pratīti_pratīti_Cp bhedāt_bheda_SBM  /"
+  },
+  {
+    "index": 33500,
+    "sanskrit": "paillyam hanyāt arma naktāndhya kācāt nīlī rogam taimiram ca añjanena",
+    "english": "This prepared compound, used as a collyrium, is efficacious in cases of eye-diseases, such as night-blindness, Arman, Nili, Kacha-roga (dimness of sight) and Timira.",
+    "morphology": "paillyam_paillya_SANe hanyāt_han_SPr3O arma_arman_MCp naktāndhya_naktāndhya_NeCp kācāt_kāca_SBNe nīlī_nīlī_FCp rogam_roga_SAM taimiram_taimira_SAM ca_ca_U añjanena_añjana_SINe"
+  },
+  {
+    "index": 33501,
+    "sanskrit": "brahmayajñaṃ dvijaḥ kuryāddevānāṃ tṛptaye sakṛt | brahmayajña iti prokto vedasyā'dhyayanaṃ bhavet ||",
+    "english": "10. The regular study of the Vedas is called Brahmayajña. A brahmin shall perform this constantly for the propitiation of gods.",
+    "morphology": "brahmayajñam_brahmayajña_SAM dvijaḥ_dvija_SNM kuryāt_kṛ_SPr3O devānām_deva_PGM tṛptaye_tṛpti_SDF sakṛt_sakṛt_  / brahmayajñaḥ_brahmayajña_SNM iti_iti_ proktaḥ_pravac_SNPaM vedasya_veda_SGM adhyayanam_adhyayana_SNNe bhavet_bhū_SPr3O "
+  },
+  {
+    "index": 33502,
+    "sanskrit": "sthala jāḥ kapha pitta ghnāḥ kaṣāyāḥ kaṭuka anvayāḥ",
+    "english": "It subdues the deranged Pitta and Kapha, (generates Vayu —D.",
+    "morphology": "sthala_sthala_NeCp jāḥ_ja_PNM kapha_kapha_MCp pitta_pitta_NeCp ghnāḥ_ghna_PNM kaṣāyāḥ_kaṣāya_PNM kaṭuka_kaṭuka_Cp anvayāḥ_anvaya_PNM"
+  },
+  {
+    "index": 33503,
+    "sanskrit": "nārada uvāca | gaccha rājanpradhānāni tīrthāni manujeśvara | pitaraṃ teṣu cānīya tasmādrājanmarusthalāt || 188 ||",
+    "english": "Nārada said: 188. O king, go to prominent sacred places. Bring your father from that desert place to those sacred places, O Lord of men.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / gaccha_gam_SPr2Im rājan_rājan_SVM pradhānāni_pradhāna_PANe tīrthāni_tīrtha_PANe manuja_manuja_Cp īśvara_īśvara_SVM  / pitaram_pitṛ_SAM teṣu_tad_PLNe ca_ca_ ānīya_ānī_Co tasmāt_tad_SBNe rājan"
+  }
+]

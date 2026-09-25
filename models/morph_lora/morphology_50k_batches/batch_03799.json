@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30384,
+    "sanskrit": "prāṇa apānau cakṣuḥ śrotram akṣitiḥ ca kṣitiḥ ca yā / vyāna udānau vāc manaḥ te vai ākūtim āvahan //",
+    "english": "Inbreath and outbreath, eye and ear, decay and freedom from. decay, Spiration upward and diffused, voice, mind have brought us wish and plan.",
+    "morphology": "prāṇa_prāṇa_MCp apānau_apāna_DuNM cakṣuḥ_cakṣus_SNNe śrotram_śrotra_SNNe akṣitiḥ_akṣiti_SNF ca_ca_U kṣitiḥ_kṣiti_SNF ca_ca_U yā_yad_SNF  / vyāna_vyāna_MCp udānau_udāna_DuNM vāc_vāc_SNF manaḥ_manas_SNNe te_tad_PNM vai_va"
+  },
+  {
+    "index": 30385,
+    "sanskrit": "etattīrthavaraṃ puṇyaṃ liṅgo yatra janārdanaḥ | vañcayitvā ripūnsaṃkhye krodho bhūtvā sanātanaḥ || 20 ||",
+    "english": "This excellent Tīrtha is meritorious, for it has Janārdana as the Liṅga. After deceiving the enemies in the battle in the guise of Boar, the eternal Lord (is installed here).",
+    "morphology": "etat_etad_SNNe tīrtha_tīrtha_Cp varam_vara_SNNe puṇyam_puṇya_SNNe liṅgaḥ_liṅga_SNM yatra_yatra_ janārdanaḥ_janārdana_SNM  / vañcayitvā_vañcay_Co ripūn_ripu_PAM saṃkhye_saṃkhya_SLNe krodhaḥ_krodha_SNM bhūtvā_bhū_Co sanātanaḥ_"
+  },
+  {
+    "index": 30386,
+    "sanskrit": "jānu sandheḥ upari adhas vā catur aṅgule gṛdhrasyām |",
+    "english": "In a case of Gridhrasi (sciatica), the vein should be opened four fingers above or below the Janu (knee-joint).",
+    "morphology": "jānu_jānu_MCp sandheḥ_saṃdhi_SGM upari_upari_U adhas_adhas_U vā_vā_U catur_catur_Cp aṅgule_aṅgula_SLM gṛdhrasyām_gṛdhrasī_SLF"
+  },
+  {
+    "index": 30387,
+    "sanskrit": "parikleśayata utkoṭayato vā madhyamaḥ sāhasadaṇḍaḥ,",
+    "english": "when be troubles or receives bribes from a prisoner, he shall be punished, with the middlemost amercement;",
+    "morphology": "parikleśayataḥ_parikleśay_SGPaPrM utkoṭayataḥ_utkoṭay_SGPaPrM vā_vā_ madhyamaḥ_madhyama_SNM"
+  },
+  {
+    "index": 30388,
+    "sanskrit": "ādyaiḥ svaraiś ca kādyaś ca vargair bhinnalipirdvidhā / svarajo vasumānvargī itikṣepā ca mātṛkā //",
+    "english": "The alphabets are divided into two groupsthe vowels beginning with ‘a’ and the groups of letters beginning with ‘ka’ ka, ca, ṭa, ta and pa. The group forming the vowels is known as vasumān.",
+    "morphology": "ādyaiḥ_ādya_PIM svaraiḥ_svara_PIM ca_ca_ kādyaḥ_kādya_SNM ca_ca_ vargaiḥ_varga_PIM bhinna_bhid_PaCp lipiḥ_lipi_SNF dvidhā_dvidhā_  / svara_svara_Cp jaḥ_ja_SNM vasumān_vasumant_SNM vargī_vargin_SNM itikṣepā_itikṣepā_SNF ca_ca_ māt"
+  },
+  {
+    "index": 30389,
+    "sanskrit": "tasyānvavāyaḥ sumahān yasya nāmnā stha kauravāḥ //",
+    "english": "His family was highly great from whom the Kouravas received their appellation –.",
+    "morphology": "tasya_tad_SGM anvavāyaḥ_anvavāya_SNM su_su_ mahān_mahat_SNM yasya_yad_SGM nāmnā_nāman_SINe stha_as_PPr2In kauravāḥ_kaurava_PNM  /"
+  },
+  {
+    "index": 30390,
+    "sanskrit": "prāṇaniṣpādyo hi svarastasmātsavarasya prāṇo gatiḥ /",
+    "english": "it is through Breath that Accent is produced; hence Breath is the essence of Accent",
+    "morphology": "prāṇa_prāṇa_Cp niṣpādyaḥ_niṣpāday_SNMGd hi_hi_ svaraḥ_svara_SNM tasmāt_tasmāt_ sa_sa_ varasya_vara_SGM prāṇaḥ_prāṇa_SNM gatiḥ_gati_SNF  /"
+  },
+  {
+    "index": 30391,
+    "sanskrit": "atha viśvadeveṣu sarve saṃgṛhītā bhaviṣyantīti teṣāṃ grahaṇam /",
+    "english": "Then again, in accordance with the rule laid down under the Adhikarana on Vaiçvadeva, the sentence mentioning the vajina would stand in need of the further help of the Context.",
+    "morphology": "atha_atha_ viśvadeveṣu_viśvadeva_PLM sarve_sarva_PNM saṃgṛhītāḥ_saṃgrah_PNPaM bhaviṣyanti_bhū_PFu3In iti_iti_ teṣām_tad_PGM grahaṇam_grahaṇa_SNNe  /"
+  }
+]

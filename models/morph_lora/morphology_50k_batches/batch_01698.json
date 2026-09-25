@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13576,
+    "sanskrit": "ataścatvāryeva saṃskṛta lakṣaṇāni /",
+    "english": "Conclusion: there are four characteristics.",
+    "morphology": "atas_atas_U __catur_U eva_eva_U __saṃskṛta_U __lakṣaṇa_U"
+  },
+  {
+    "index": 13577,
+    "sanskrit": "na sā bubodha tat tena śakaṭaṃ parivartitam / svasti me dārakāyeti prītyā bhītā ca sābhavat // kiṃ nu vakṣyati te putra pitā paramakopanaḥ /",
+    "english": "She could not truly make out how the carriage was overturned; and then filled with fear she said to her boy my child, your father is highly wrathful. do not know what he will say when he will come to know of your sleeping under the carriage and of its being overturned.",
+    "morphology": "na_na_ sā_tad_SNF bubodha_budh_SPs3In tat_tad_SANe tena_tad_SIM śakaṭam_śakaṭa_SANe parivartitam_parivartay_SAPaNe  / svasti_svasti_SNNe me_mad_SG dārakāya_dāraka_SDM iti_iti_ prītyā_prīti_SIF bhītā_bhī_SNPaF ca_ca_ sā_tad_SNF abhavat_bhū"
+  },
+  {
+    "index": 13578,
+    "sanskrit": "tucchāṃ mokṣadhiyaṃ tyaktvā bandhabuddhiṃ tathaiṣaṇām / svavairāgyavivekābhyāṃ kevalaṃ kṣapayenmanaḥ //",
+    "english": "Avoid both your desire of liberation, as also your eagerness for worldly bondage; but strive to enfeeble your mind by lessening its egoism, by the two means of your indifference to and discrimination of worldly objects.",
+    "morphology": "tucchām_tuccha_SAF mokṣa_mokṣa_Cp dhiyam_dhī_SAF tyaktvā_tyaj_Co bandha_bandha_Cp buddhim_buddhi_SAF tathā_tathā_ eṣaṇām_eṣaṇā_SAF  / sva_sva_Cp vairāgya_vairāgya_Cp vivekābhyām_viveka_DuIM kevalam_kevalam_ kṣapayet_kṣapay_SPr3O "
+  },
+  {
+    "index": 13579,
+    "sanskrit": "śāligrāmasya bhedāṃśca mayoktāstava śūdraja | mūrtibhedāstathā proktā eta eva mahādhana || 9 ||",
+    "english": "9. O one born of a Śūdra, the different types of Śāligrāma have been named by me to you, O highly affluent one, the different Mūrtis (Godly forms) are also mentioned. These are they themselves.",
+    "morphology": "śāligrāmasya_śāligrāma_SGM bhedān_bheda_PAM ca_ca_ mayā_mad_SI uktāḥ_vac_PNPaM tava_tvad_SG śūdra_śūdra_Cp ja_ja_SVM  / mūrti_mūrti_Cp bhedāḥ_bheda_PNM tathā_tathā_ proktāḥ_pravac_PNPaM ete_etad_PNM eva_eva_ mahādhana_mahādhana_S"
+  },
+  {
+    "index": 13580,
+    "sanskrit": "svasthīkṛtajagajjātasvavyāpārasthacetasaḥ / yadṛcchayā karaspando yasyāsurapurakṣayaḥ //",
+    "english": "The perpetual rest of his meditative mind in holy trance samadhi, hath restored the world to rest; and the movement of his arms at intervals, is attended with the destruction of demons.",
+    "morphology": "svasthīkṛta_svasthīkṛ_PaCp jagat_jagant_Cp jāta_jan_PaCp sva_sva_Cp vyāpāra_vyāpāra_Cp stha_stha_Cp cetasaḥ_cetas_SGNe  / yadṛcchayā_yadṛcchā_SIF kara_kara_Cp spandaḥ_spanda_SNM yasya_yad_SGM asura_asura_Cp pura_pura_Cp kṣayaḥ_kṣ"
+  },
+  {
+    "index": 13581,
+    "sanskrit": "janayitvā vasūn aṣṭau jitāḥ lokāḥ tvayā akṣayāḥ",
+    "english": "Thou also, having become the father of the eight Vasus, hast acquired many regions of perennial bliss.",
+    "morphology": "janayitvā_janay_Co vasūn_vasu_PAM aṣṭau_aṣṭan_PAM jitāḥ_ji_PNPaPsM lokāḥ_loka_PNM tvayā_tvad_SI"
+  },
+  {
+    "index": 13582,
+    "sanskrit": "yathā śaktimayī kīrtiḥ skandasyātra pratiṣṭhitā | lohayaṣṭimayī tadvattava rāma bhaviṣyati || 20 ||",
+    "english": "20. Just as the glory of Skanda has been established here in the form of his Śakti, O Rama, so also your glory will be established here in the form of this steel staff.",
+    "morphology": "yathā_yathā_ śakti_śakti_Cp mayī_maya_SNF kīrtiḥ_kīrti_SNF skandasya_skanda_SGM atra_atra_ pratiṣṭhitā_pratiṣṭhā_SNPaF  / loha_loha_Cp yaṣṭi_yaṣṭi_Cp mayī_maya_SNF tadvat_tadvat_ tava_tvad_SG rāma_rāma_SVM bhaviṣyati_bhū_SF"
+  },
+  {
+    "index": 13583,
+    "sanskrit": "māsopayogī vā saṃcayo māsaparyāptaḥ saṃcayo māsasaṃcayaḥ /",
+    "english": "The man who has a collection that lasts for one month.",
+    "morphology": "māsa_māsa_Cp upayogī_upayogin_SNM vā_vā_ saṃcayaḥ_saṃcaya_SNM māsa_māsa_Cp paryāptaḥ_paryāp_SNPaM saṃcayaḥ_saṃcaya_SNM māsa_māsa_Cp saṃcayaḥ_saṃcaya_SNM"
+  }
+]

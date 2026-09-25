@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11408,
+    "sanskrit": "vāsanāstu viparyastā ito netumitaśca tāḥ / puṃsā prājñena śakyante sukhaṃ paryanuyojitum //",
+    "english": "The various desires of the mind, that run in their divers directions, are capable of being collected together by the sapient, and employed in the way of their best advantage and well being.",
+    "morphology": "vāsanāḥ_vāsanā_PNF tu_tu_ viparyastāḥ_viparyasta_PNF itas_itas_ netum_nī_In itas_itas_ ca_ca_ tāḥ_tad_PNF  / puṃsā_puṃs_SIM prājñena_prājña_SIM śakyante_śak_PPr3InPv sukham_sukham_"
+  },
+  {
+    "index": 11409,
+    "sanskrit": "adityāḥ viṣṇunā prītiḥ yathā abhūt abhivardhitā tathā viṣṇu samaḥ prītim vardhayiṣyati te arjunaḥ",
+    "english": "As Vishnu (the youngest of Aditi's sons) had enhanced Aditi's joy, so shall this child enhance thy joy.",
+    "morphology": "adityāḥ_aditi_SGF viṣṇunā_viṣṇu_SIM prītiḥ_prīti_SNF yathā_yathā_U abhūt_bhū_SPs3In abhivardhitā_abhivardhay_SNPaPsF tathā_tathā_U viṣṇu_viṣṇu_MCp samaḥ_sama_SNM"
+  },
+  {
+    "index": 11410,
+    "sanskrit": "vibhinnārthanibandhanā iti /",
+    "english": "‘On the basis of differentiated things’;",
+    "morphology": "vibhinna_vibhid_PaCp artha_artha_Cp nibandhanāḥ_PNM"
+  },
+  {
+    "index": 11411,
+    "sanskrit": "purastāt viṣṭhitam dṛṣṭvā mama īśānam ca bhārata sa prajāpati śakra antam jagat mām abhyudaikṣata",
+    "english": "Seeing that Isana had showed himself to me by being seated in glory before my eyes, the whole universe, with the Grandsire and Sakra, looked at me.",
+    "morphology": "purastāt_purastāt_U viṣṭhitam_viṣṭhā_SAPaPsM dṛṣṭvā_dṛś_Co mama_mad_SG īśānam_īśāna_SAM ca_ca_U bhārata_bhārata_SVM sa_tad_SNM prajāpati_prajāpati_MCp śakra_śakra_MCp antam_anta_SNNe jāṇā_jāṇṇā_SNF ākāṇā_āk"
+  },
+  {
+    "index": 11412,
+    "sanskrit": "tagarañ ca palāśamhi yo naro upanahyati |",
+    "english": "That man who wraps up pinwheel in flame-tree leaves,",
+    "morphology": "tagaraḥ_tagara_SNM "
+  },
+  {
+    "index": 11413,
+    "sanskrit": "kaḥ eṣa veṣa pracchannaḥ bhasmanā iva hutāśanaḥ kim cit asya yathā puṃsaḥ kim cit asya yathā striyaḥ iti evam sainikāḥ prāhuḥ droṇaḥ tān idam abravīt",
+    "english": "And beholding him thus running, the Kurus began to argue, 'Who is this person, thus disguised like fire concealed in ashes? He is partly a man and partly a woman.",
+    "morphology": "kaḥ_ka_SNM eṣa_etad_SNM veṣa_veṣa_MCp pracchannaḥ_pracchad_SNPaPsM bhasmanā_bhasman_SINe iva_iva_U hutāśanaḥ_hutāśana_SNM kim_ka_SNNe cit_cit_U asya_idam_SGM yathā_yathā_U puṃsaḥ_puṃs_SGM kim_ka_SNNe cit_cit_U asya_idam_SGM yathā_"
+  },
+  {
+    "index": 11414,
+    "sanskrit": "sa tu tatra nara śreṣṭhaḥ tapaḥ ghoram samāśritaḥ",
+    "english": "And that most praiseworthy of men at that spot betook himself to an awful austere course of life.",
+    "morphology": "sa_tad_SNM tu_tu_U tatra_tatra_U nara_nara_MCp śreṣṭhaḥ_śreṣṭha_SNM"
+  },
+  {
+    "index": 11415,
+    "sanskrit": "kṛtyayā dahyamānāṃstanvilokya sa mahāmatiḥ / trāhi kṛṣṇetyananteti vadannabhyavapadyata // prahlāda uvāca sarvavyāpin jagadrūpa jagatstraṣṭarjanārdana / pāhi viprānimānasmādduḥ sahānmantrapāvakāt //",
+    "english": "But Prahlāda, beholding them perish, hastily appealed to Kṛṣṇa, the eternal, for succour, and said, “Oh Janārddana! who art every where, the creator and substance of the world, preserve these Brahmans from this magical and insupportable fire.",
+    "morphology": "kṛtyayā_kṛtyā_SIF dahyamānān_dah_PAPaPrMPv tan_tan_SANe vilokya_vilokay_Co sa_tad_SNM mahāmatiḥ_mahāmati_SNM  / trāhi_trā_SPr2Im kṛṣṇa_kṛṣṇa_SVM iti_iti_ ananta_ananta_SVM iti_iti_ vadan_vad_SNPaPrM abhyavapadyata_abhyavapad_S3ImI"
+  }
+]

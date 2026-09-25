@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26016,
+    "sanskrit": "na a mahāpuruṣaḥ kaḥ cit na anātmā na a sahāyavān",
+    "english": "None who is not a great man with cleansed soul and possessed of accomplishments and friends can bear a heavy burthen.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 26017,
+    "sanskrit": "sa bhavantam yadi jānīyāt",
+    "english": "He may know thee.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 26018,
+    "sanskrit": "bṛhaspatiruvāca || saṃdigdho vijayo yuddhe yasmāddaivena sattama | tasmātkuru maheṃdreṇa vyavasthāṃ vacanānmama || 61 ||",
+    "english": "Bṛhaspati said: 61. O excellent one, since victory in battle is doubtful, as it is controlled by fate, do enter into an agreement (of peace) with Mahendra at my instance.",
+    "morphology": "bṛhaspatiḥ_bṛhaspati_SNM uvāca_vac_SPs3In  /"
+  },
+  {
+    "index": 26019,
+    "sanskrit": "mahati dāne mahati ca tapasi mahati ca yajñe jyotiṣṭomādau yady asamarthas tadā nodāsīnena bhavitavyam / kiṃ tarhi, śanaiḥ śanaiḥ svalpena dānena svalpena tapasā yathāśakti paropakareṇa japahomābhyāṃ smārtābhyāṃ dharmaḥ saṃcetavyaḥ / yathā mṛtsaṃghātaṃ puttikāḥ pipīlikāḥ saṃcinvanti /",
+    "english": "If one is unable to bestow a large gift, or perform a difficult austerity, or offer an elaborate sacrificelike the Jyotiṣṭoma and the rest, he should not he despondent on that account; on the contrary, he should \"slowly\" and gently \"accumulate spiritual merit,\" by means of small gifts, small austerities, by helping others, to the best of his ability, and by muttering prayers and offering oblations prescribed in the Smṛtis; just in the same manner in which white ants accumulate the anthill.",
+    "morphology": "mahati_mahat_SLNe dāne_dāna_SLNe mahati_mahat_SLNe ca_ca_ tapasi_tapas_SLNe mahati_mahat_SLM ca_ca_ yajñe_yajña_SLM jyotiṣṭoma_jyotiṣṭoma_Cp ādau_ādi_SLM yadi_yadi_ asamarthaḥ_asamartha_SNM tadā_tadā_ na_na_ udāsīnena_udāsīna_SIM bhav"
+  },
+  {
+    "index": 26020,
+    "sanskrit": "ataścaivaṃjātāśakannaiva ka cidapi viśvasyeta aviśvāsācātyantameva prāmāṇyaṃ pratihamyeta /",
+    "english": "? Consequently people having their suspicions once aroused could not come to have any confidence in any Smrti Injunc tion and this want of confidence would deprive the Smrti of even the slightest shade of authority.",
+    "morphology": "atas_atas_ ca_ca_ evaṃjātā_evaṃjāta_SNF aśakat_śak_SPs3InTh na_na_ eva_eva_ ka_ka_SNNe cit_cit_ api_api_ viśvasyeta_viśvas_SPr3O aviṇā_aviṇā_"
+  },
+  {
+    "index": 26021,
+    "sanskrit": "sa śobhamānaḥ vara daḥ khaḍgī bāṇī śarāsanī pradīpayan rathe tasthau trīn lokān svena tejasā",
+    "english": "Resplendent with beauty, the boon-giving Lord, armed with scimitar, shaft, and bow, stayed on the car causing the three worlds to blaze forth with his own energy.",
+    "morphology": "sa_tad_SNM śobhamānaḥ_śubh_SNPaPrM vara_vara_MCp daḥ_da_SNM khaḍgī_khaḍgin_SNM bāṇī_bāṇin_SNM śarāsanī_śarāsanin_SNM pradīpayan_pradīpay_SNPaPrM rathe_ratha_SLM tasthau_sthā_SPs3In"
+  },
+  {
+    "index": 26022,
+    "sanskrit": "etā vai devatā vṛṣṭyā īśate tā eva svena bhāgadheyenopa dhāvati tāḥ |",
+    "english": "these deities are the lords of rain; them he has recourse to with their own share;",
+    "morphology": "etāḥ_etad_PNF vai_vai_ devatāḥ_devatā_PNF vṛṣṭyai_vṛṣṭi_SDF īśate_īś_PPr3In tāḥ_tad_PAF eva_eva_ svena_sva_SINe bhāgadheyena_bhāgadheya_SINe upa_upa_ dhāvati_dhāv_SPr3In"
+  },
+  {
+    "index": 26023,
+    "sanskrit": "śrīsūta uvāca | evaṃ vaḥ kathito viprāḥ setuyātrākramo dvijāḥ | etatpaṭhanvā śṛṇvanvā sarvaduḥkhādvimucyate || 80 ||",
+    "english": "Śrī Sūta said: Thus, O Brāhmaṇas, the procedure of the pilgrimage to Setu has been recounted to you. One who reads this or listens to this, shall be liberated from all miseries. FOOTNOTES AND REFERENCES:",
+    "morphology": "śrī_śrī_Cp sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / evam_evam_ vaḥ_tvad_PA kathitaḥ_kathay_SNPaM viprāḥ_vipra_PVM setu_setu_Cp yātrā_yātrā_Cp kramaḥ_krama_SNM dvijāḥ_dvija_PVM  / etat_etad_SANe paṭhan_paṭh_SNPaPrM vā_vā_ śṛṇva"
+  }
+]

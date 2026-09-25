@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38024,
+    "sanskrit": "akāmataḥ ity uttaraślokād apakṛṣyate /",
+    "english": "The qualification \"unintentionally\" of the next verse has to be construed with this also.",
+    "morphology": "a_a_ kāmatas_kāmatas_ iti_iti_ uttara_uttara_Cp ślokāt_śloka_SBM apakṛṣyate_apakṛṣ_SPr3InPv  /"
+  },
+  {
+    "index": 38025,
+    "sanskrit": "gṛhabhittiparāvṛttā sattvasaṃrambhamāṃsalā / śabdaśrīḥ pūrayāmāsa karṇamarṇa ivārṇavam //",
+    "english": "The thickening noise of the hurry and flurry of men, resounded as hoarsely within the hollow walls of the hall, that they filled the cars of men, as the dashing waves fill the concave of the hollow sea.",
+    "morphology": "gṛha_gṛha_Cp bhitti_bhitti_Cp parāvṛttā_parāvṛt_SNPaF sattva_sattva_Cp saṃrambha_saṃrambha_Cp māṃsalā_māṃsala_SNF  / śabda_śabda_Cp śrīḥ_śrī_SNF pūrayāmāsa_pūray_SPs3InPe karṇam_karṇa_SAM arṇaḥ_arṇas_SANe iva_iva"
+  },
+  {
+    "index": 38026,
+    "sanskrit": "kṛṣigorakṣavāṇijyakusīdayonipoṣaṇāni vaiśyasya //",
+    "english": "For a Vaisya, tillage, keeping cows (and other cattle), traffic, lending money upon interest, and growing seeds;",
+    "morphology": "kṛṣi_kṛṣi_Cp gorakṣa_gorakṣa_Cp vāṇijya_vāṇijya_Cp kusīda_kusīda_Cp yoni_yoni_Cp poṣaṇāni_poṣaṇa_PNNe vaiśyasya_vaiśya_SGM  /"
+  },
+  {
+    "index": 38027,
+    "sanskrit": "satkṛtya te tām saritam tatas kṛṣṇa mukhāḥ nṛpāḥ",
+    "english": "All the kings there present, headed by Krishna, O monarch, having honoured that goddess duly, received her permission to depart from her banks.'\" The end of Anusasana Parva. FOOTNOTES 1.",
+    "morphology": "satkṛtya_satkṛ_Co te_tad_PNM tām_tad_SAF saritam_sarit_SAF tatas_tatas_U kṛṣṇa_kṛṣṇa_MCp mukhāḥ_mukha_PNM"
+  },
+  {
+    "index": 38028,
+    "sanskrit": "sītāharaṇajaṃ duḥkhaṃ prathamaṃ me bhaviṣyati | nāsākarṇavihīnāṃ tāṃ kariṣye rākṣasīṃ vane || 185 ||",
+    "english": "185. “I shall first be grieved by the pain due to Sītā’s being kidnapped. I shall render that demoness bereft of nose and ears, in the forest.",
+    "morphology": "sītā_sītā_Cp āharaṇa_āharaṇa_Cp jam_ja_SNNe duḥkham_duḥkha_SNNe prathamam_prathama_SNNe me_mad_SG bhaviṣyati_bhū_SFu3In  / nāsā_nāsā_Cp karṇa_karṇa_Cp vihīnām_vihā_SAPaF tām_tad_SAF kariṣye_kṛ_SFu1In rākṣasīm_rākṣas"
+  },
+  {
+    "index": 38029,
+    "sanskrit": "teṣām eva kṛtaḥ bhāgaḥ mālavāḥ śālva kekayāḥ trigartānām ca dvau mukhyau yau tau saṃśaptakau iti",
+    "english": "And in their share are included the Malavas also, and the Salwakas, as also, the two famous warriors of the Trigarta host who have sworn to conquer or die.",
+    "morphology": "teṣām_tad_PGM eva_eva_U kṛtaḥ_kṛ_SNPaPsM bhāgaḥ_bhāga_SNM mālavāḥ_mālava_PNM śālva_śālva_MCp kekayāḥ_kekaya_PNM trigartānām_trigarta_PGM ca_ca_U dvau_dvi_DuNM mukhyau_mukhya_DuNM yau_yad_DuNM tau_tad_DuNM saṃśaptakau_saṃśap"
+  },
+  {
+    "index": 38030,
+    "sanskrit": "anarthagahanāścārthā vyarthānarthakadarthanāḥ / diśanto duḥkhasaṃrambhamabhitaḥ prahitāpadaḥ //",
+    "english": "Wealth, the fond object of the foolish people, is fraught with every ill and evil desire; its pleasure is poison and productive of misery, and its prosperity is replete with dangers.",
+    "morphology": "anartha_anartha_Cp gahanāḥ_gahana_PNM ca_ca_ arthāḥ_artha_PNM vyartha_vyartha_Cp anartha_anartha_Cp kadarthanāḥ_kadarthana_PNM  / diśantaḥ_diś_PNPaPrM duḥkha_duḥkha_Cp saṃrambham_saṃrambha_SAM abhitas_abhitas_ prahita_prahi_PaCp āpada"
+  },
+  {
+    "index": 38031,
+    "sanskrit": "pitṛvyamātāmahamātulaśvaśuranṛpapatnyabhigamanaṃ gurudāragamanasamam //",
+    "english": "Sexual connection with the wife of a paternal uncle, of a maternal grandfather, of a maternal uncle, of a father-in-law, or of the king, are crimes equal to sexual connection with a Guru's wife;",
+    "morphology": "pitṛvya_pitṛvya_Cp mātāmaha_mātāmaha_Cp mātula_mātula_Cp śvaśura_śvaśura_Cp nṛpa_nṛpa_Cp patnī_patnī_Cp abhigamanam_abhigamana_SNNe guru_guru_Cp dāra_dāra_Cp gamana_gamana_Cp samam_sama_SNNe  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9160,
+    "sanskrit": "uktas trivargaḥ puruṣārthaḥ / kaścit tulyatāṃ manyamānaḥ — arthakāmaparihāreṇa yathā dharmaḥ sevyate tadvirodhī jyotiṣṭomādiḥ /",
+    "english": "It has been said above that the \"group of three\" constitutes the \"ends of man\" Some people might think that all the three are equally important, and argue as follows and act accordingly Righteous acts, like the Jyotiṣṭoma, &c, are found to be performed at the cost of wealth and pleasure.",
+    "morphology": "uktaḥ_vac_SNPaM trivargaḥ_trivarga_SNM puruṣa_puruṣa_Cp arthaḥ_artha_SNM  / kaścid_kaścit_SNM tulya_tulya_Cp tām_tā_SAF manyamānaḥ_man_SNPaPrM  / artha_artha_Cp kāma_kāma_Cp parihāreṇa_parihāra_SIM yathā_yathā_ dharmaḥ_dharma_SNM"
+  },
+  {
+    "index": 9161,
+    "sanskrit": "ato na dharmāt pratiṣedhanam iti yatrārambhaḥ //",
+    "english": "This is what is meant by the words that \"there is no prohibition against sacred rites\".",
+    "morphology": "atas_atas_ na_na_ dharmāt_dharma_SBM pratiṣedhanam_pratiṣedhana_SNNe iti_iti_ yatra_yatra_ ārambhaḥ_ārambha_SNM  /"
+  },
+  {
+    "index": 9162,
+    "sanskrit": "tadā tasya puruṣasya kinimittaṃ nāma bhavatītyāha /",
+    "english": "QuestionWhy is the man so called as desiring to eat?",
+    "morphology": "tadā_tadā_ tasya_tad_SGM puruṣasya_puruṣa_SGM kinimittam_kinimitta_SNNe nāma_nāman_SNNe bhavati_bhū_SPr3In iti_iti_ āha_ah_SPs3In  /"
+  },
+  {
+    "index": 9163,
+    "sanskrit": "pitāputravirodhe sākṣiṇāṃ daśapaṇo daṇḍaḥ //",
+    "english": "The fine for the witnesses in a I dispute between father and son shall be ten Panas.",
+    "morphology": "pitāputra_pitāputra_Cp virodhe_virodha_SLM sākṣiṇām_sākṣin_PGM daśa_daśan_Cp paṇaḥ_paṇa_SNM daṇḍaḥ_SNM  /"
+  },
+  {
+    "index": 9164,
+    "sanskrit": "prajñayā nirmitaiḥ dhīrāḥ tārayanti abudhān plavaiḥ",
+    "english": "Those wise men who have arrived at certain conclusions (regarding the character of the soul and that which is called life) by the aid of wisdom, are able to assist the ignorant in crossing the stream of time or life with the raft of knowledge.",
+    "morphology": "prajñayā_prajñā_SIF nirmitaiḥ_nirmā_PIPaPsM"
+  },
+  {
+    "index": 9165,
+    "sanskrit": "sa tatra nikṣipya sutam mahā ṛṣiḥ uvāca sūrya agni sama prabhāvam jāte putre vanam eva āvrajethā",
+    "english": "And the great saint, whose power rivalled that of the sun and the god of fire, placed there his son, and thus spake, 'As soon as a son is born to thee, and having performed all that is agreeable to the king, to the forest must thou come without fail.' And Rishyasringa did exactly as his father said, and went back to the place where his father was.",
+    "morphology": "sa_tad_SNM tatra_tatra_U nikṣipya_nikṣip_Co sutam_suta_SAM mahā_mahat_Cp ṛṣiḥ_ṛṣi_SNM uvāca_vac_SPs3In sūrya_sūrya_MCp agni_agni_MCp sama_sama_Cp prabhāvam_prabhāva_SAM jāte_jan_SLPaPsM putre_putra_SLM vanam_vana_SANe eva_eva_U āvraje"
+  },
+  {
+    "index": 9166,
+    "sanskrit": "yathā na doṣastathā 'stu /",
+    "english": "”One must interpret the text in a manner in which it will not give rise to criticism.",
+    "morphology": "yathā_yathā_ na_na_ doṣaḥ_doṣa_SNM tathā_tathā_ astu_as_SPr3Im "
+  },
+  {
+    "index": 9167,
+    "sanskrit": "tatastu tāṃ śatrubalasya senāṃ kṣaṇena cāpancyutabāṇaghātaiḥ | vidhvastahastyaśvarathānmahātmā jagrāha cakraṃ ripusaṅghanāśanaḥ || 8 ||",
+    "english": "Within a moment Lord Viṣṇu, the destroyer of hosts of enemies, annihilated the army of enemies with arrows discharged from the bow. The elephants, horses and chariots were destroyed and the noble-souled Lord took up his discus.",
+    "morphology": "tatas_tatas_ tu_tu_ tām_tad_SAF śatru_śatru_Cp balasya_bala_SGNe senām_senā_SAF kṣaṇena_kṣaṇa_SIM  / vidhvasta_vidhvaṃs_PaCp hasti_hastin_Cp aśva_aśva_Cp rathān_ratha_PAM mahātmā_mahātman_SNM jagrāha_grah_SPs3In cakram_cakra_SANe ripu"
+  }
+]

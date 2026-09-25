@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36128,
+    "sanskrit": "pādapā vṛkṣāḥ / kṣīriṇo 'rkodumbaraprabhṛtayaḥ /",
+    "english": "\"Pādapa\" is plant \"Plants with milkyjuice\" such as the Arka, the Udumbara and the like.",
+    "morphology": "pādapāḥ_pādapa_PNM vṛkṣāḥ_vṛkṣa_PNM  / kṣīriṇaḥ_kṣīrin_PNM arka_arka_Cp udumbara_udumbara_Cp prabhṛtayaḥ_prabhṛti_PNM  /"
+  },
+  {
+    "index": 36129,
+    "sanskrit": "kārtikaṃ hi samagraṃ tu vardhaṃte tasya saṃpadaḥ | saṃpūrṇe kārtike caiva dīpodyāpanamācaret || 88 ||",
+    "english": "The Dīpa should be filled with ghee. His riches will increase. When the month of Kārttika is over he should perform the Udyāpana (concluding rite unto the Dīpa).",
+    "morphology": "kārtikam_kārttika_SAM hi_hi_ samagram_samagra_SANe tu_tu_ vardhante_vṛdh_PPr3In tasya_tad_SGM saṃpadaḥ_sampad_PNF  / saṃpūrṇe_sampṛ_SLPaM kārtike_kārttika_SLM ca_ca_ eva_eva_ dīpa_dīpa_Cp udyāpanam_udyāpana_SANe ācaret_ācar_SPr3O  /"
+  },
+  {
+    "index": 36130,
+    "sanskrit": "bhakta anukampī bhagavān bhaktaḥ ca aham sadā tvayi",
+    "english": "I bow to thee, O sinless one! Thou, O illustrious one, art full of compassion for thy devotees. I am always devoted to thee.",
+    "morphology": "bhakta_bhakta_MCp anukampī_anukampin_SNM bhagavān_bhagavat_SNM bhaktaḥ_bhakta_SNM ca_ca_U aham_mad_SN sadā_sadā_U tvayi_tvad_SL"
+  },
+  {
+    "index": 36131,
+    "sanskrit": "rāja ṛṣīṇām purāṇānām anuyātu gatim nṛpaḥ",
+    "english": "Let this king follow the path of all royal sages of old.",
+    "morphology": "rāja_rājan_MCp ṛṣīṇām_ṛṣi_PGM purāṇānām_purāṇa_PGM anuyātu_anuyā_SPr3Im gatim_gati_SAF"
+  },
+  {
+    "index": 36132,
+    "sanskrit": "tataḥ satyavatīsūnustathā staṃbhitadorlataḥ | prārabdhavānmaheśānaṃ parituṣṭotumudāradhīḥ || 55 ||",
+    "english": "55. Thereupon the son of Satyavatī whose arm had been paralysed in that manner, began to eulogize Maheśāna liberal-mindedly.",
+    "morphology": "tatas_tatas_ satyavatī_satyavatī_Cp sūnuḥ_sūnu_SNM tathā_tathā_ staṃbhita_stambhay_PaCp dos_dos_Cp lataḥ_latā_SNM  / prārabdhavān_prārabh_SNPaM maheśānam_maheśāna_SAM parituṣṭotum_parituṣ_In utum_udāra_Cp dhīḥ_dhī_SNM  /"
+  },
+  {
+    "index": 36133,
+    "sanskrit": "atha vā kim anena purāṇapuruṣaparivādena /",
+    "english": "Hence he should have written \"Janmani janmani' etc.",
+    "morphology": "atha_atha_ vā_vā_ kim_ka_SNNe anena_idam_SIM purāṇapuruṣa_purāṇapuruṣa_Cp parivādena_parivāda_SIM  /"
+  },
+  {
+    "index": 36134,
+    "sanskrit": "prāpyate helayā yatra sarve kāmā na saṃśayaḥ | gomatījalakallolaiḥ krīḍate yatra sāgaraḥ || 2 ||",
+    "english": "2. It is beyond doubt that all desires can be accomplished here without any difficulty for it is the sea that plays sport here in the waves of the river Gomatī.",
+    "morphology": "prāpyate_prāp_SPr3InPv helayā_helā_SIF yatra_yatra_ sarve_sarva_PNM kāmāḥ_kāma_PNM na_na_ saṃśayaḥ_saṃśaya_SNM  / gomatī_gomatī_Cp jala_jala_Cp kallolaiḥ_kallola_PIM krīḍate_krīḍ_SPr3In yatra_yatra_ sāgaraḥ_sāgara_SNM  /"
+  },
+  {
+    "index": 36135,
+    "sanskrit": "mahāntaḥ tu amī doṣāḥ tvayā svargasya kīrtitāḥ devadūtaḥ uvāca",
+    "english": "Thou hast described unto me these great defects belonging to the celestial regions.",
+    "morphology": "mahāntaḥ_mahat_PNM tu_tu_U amī_adas_PNM doṣāḥ_doṣa_PNM tvayā_tvad_SI svargasya_svarga_SGM kīrtitāḥ_kīrtay_PNPaPsM devadūtaḥ_devadūta_SNM uvāca_vac_SPs3In"
+  }
+]

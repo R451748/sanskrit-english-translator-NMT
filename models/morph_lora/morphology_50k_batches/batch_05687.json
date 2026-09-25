@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45488,
+    "sanskrit": "sarvam daiva kṛtam tat vai kaḥ atra kim vaktum arhati guruḥ mataḥ bhavān asya kṛtsnasya jagataḥ prabhuḥ",
+    "english": "Who can say anything else in this? Thou art regarded as the Guru and the master of the whole world.",
+    "morphology": "sarvam_sarva_SNNe daiva_daiva_NeCp kṛtam_kṛ_SNPaPsNe tat_tad_SNNe vai_vai_U kaḥ_ka_SNM atra_atra_U kim_ka_SANe vaktum_vac_In arhati_arh_SPr3In guruḥ_guru_SNM mataḥ_man_SNPaPsM bhavān_bhavat_SNM"
+  },
+  {
+    "index": 45489,
+    "sanskrit": "na ca etat śakyate jñātum kaḥ na vadhyet iti prabho",
+    "english": "I know none whom it may not slay, O lord! Indeed, It would slay even the unslayable.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 45490,
+    "sanskrit": "iti uktaḥ aham śarīram svam apaśyam śrī samāyutam",
+    "english": "After he had ceased speaking, I saw that my body became endued with great beauty and splendour.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 45491,
+    "sanskrit": "dṛśyate kṣīyate caiva rūpaṃ sadasatoścalam / tathaiveyamiha tveṣā kāle nyūnātiriktatā //",
+    "english": "That some objects come to sight, and others disappear from it; and that some appear to be smaller or larger than they are and others to be moving; so do all these objects of our vision, appear and disappear from our sight in the course of time.",
+    "morphology": "dṛśyate_dṛś_SPr3InPv kṣīyate_kṣi_SPr3InPv ca_ca_ eva_eva_ rūpam_rūpa_SNNe sat_as_PaPrCp asatoḥ_asat_DuGNe calam_cala_SNNe  / tathā_tathā_ eva_eva_ iyam_idam_SNF iha_iha_ tu_tu_ eṣā_etad_SNF kāle_kāla_SLM"
+  },
+  {
+    "index": 45492,
+    "sanskrit": "kathaṃ tarhi nityaparokṣe kriyāsvalakṣaṇe 'numānaṃ kramata iti cet kāryasya kādācitkatvena kāraṇapūrvakatvāt paridṛśyamānasya dravyasvarūpasya kāraṇātve sarvadā kāryotpādanaprasaṅgāt sarvadā tatsvarūpasadbhāvāt na ca sarvadā kāryam utpadyata iti tadatiriktakriyānumānam //",
+    "english": "If an action is a transcendental object then can we infer it? The answer to this question is as follows. An effect is an event in time. So, it depends upon its cause for its coming into being. If the substance-in-itself is its cause then effects will constantly issue of it since the paramount cause is always there. But the effect does not always come into being.",
+    "morphology": "katham_katham_ tarhi_tarhi_ nitya_nitya_Cp parokṣe_parokṣa_SLNe kriyāsu_kriyā_PLF alakṣaṇe_alakṣaṇa_SLNe anumānam_anumāna_SNNe kramate_kram_SPr3In iti_iti_ ced_ced_ kāryasya_kārya_SGNe kādācitkatvena_kādācitkatva_SINe kāraṇa_kāra"
+  },
+  {
+    "index": 45493,
+    "sanskrit": "tasya dveṣaḥ ca kāmaḥ ca krodhaḥ dambhaḥ anṛtam madaḥ nityam eva abhivartante guṇāḥ prakṛti saṃbhavāḥ",
+    "english": "Accordingly, of him who hath Tamas for his refuge, the passions of envy, lust, wrath, pride, falsehood, and vanity, continually grow, for one's qualities have one's nature for their spring.",
+    "morphology": "tasya_tad_SGM dveṣaḥ_dveṣa_SNM ca_ca_U kāmaḥ_kāma_SNM ca_ca_U krodhaḥ_krodha_SNM dambhaḥ_dambha_SNM anṛtam_anṛta_SNNe madaḥ_mada_SNM nityam_nityam_U eva_eva_U abhivartante_abhivṛt_PPr3In guṇāḥ_guṇa_PNM prakṛti_prakṛti_FCp s"
+  },
+  {
+    "index": 45494,
+    "sanskrit": "paiśunyena mitrabhedo 'sya bhavati pāruṣyeṇāmanojñaśabdaśravaṇaṃ saṃbhinnapralāpenānādeyavākyaḥ",
+    "english": "through malicious speech, his friends will become enemies; through injurious speech, he will only understand disagreeable speech; through inconsiderate speech, his words will not come to be believed;",
+    "morphology": "paiśunyena_paiśunya_SINe mitra_mitra_Cp bhedaḥ_bheda_SNM asya_idam_SGM bhavati_bhū_SPr3In pāruṣyeṇa_pāruṣya_SINe amanojña_amanojña_Cp śabda_śabda_Cp śravaṇam_śravaṇa_SNNe saṃbhinna_sambhid_PaCp pralāpeṇa_pralāpa_SIM"
+  },
+  {
+    "index": 45495,
+    "sanskrit": "svādu amlam ati amlaka manda jātam tathā śṛta kṣīra bhavam saraḥ ca | asāram evam dadhi saptadhā asmin varge smṛtāḥ mastu guṇāḥ tathā eva || iti dadhi vargaḥ |",
+    "english": "In this group have been described the virtues of the seven kinds of curd such as, the sweet, the acid, the extremely acid, the curd of incomplete curdling, the curd of boiled milk, curd cream, and the creamless curd, as well as the residuary sediment (Mastu).",
+    "morphology": "svādu_svādu_SNNe amlam_amla_SNNe ati_ati_U amlaka_amlaka_NeCp manda_manda_Cp jātam_jan_SNPaPsNe tathā_tathā_U śṛta_śrī_PaPsCp kṣīra_kṣīra_NeCp bhavam_bhava_SNNe saraḥ_saras_SNNe ca_ca_U  / asāram_asāra_SNNe evam_evam_U dadhi_dadhi_SNNe "
+  }
+]

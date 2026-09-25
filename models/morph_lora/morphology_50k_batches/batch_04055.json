@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32432,
+    "sanskrit": "viṣa apahaiḥ vā api agadaiḥ vilipya vādyāni citrāṇi api vādayeta",
+    "english": "As an alternative, drums and other musical instruments smeared with plasters of anti-poisonous compounds (Agadas)[6] should be beaten and sounded (round them).",
+    "morphology": "viṣa_viṣa_NeCp apahaiḥ_apaha_PIM vā_vā_U api_api_U agadaiḥ_agada_PIM vilipya_vilip_Co vādyāni_vādya_PANe citrāṇi_citra_PANe api_api_U vādayeta_vāday_SPr3O"
+  },
+  {
+    "index": 32433,
+    "sanskrit": "brahmovāca | adyaprabhṛti yaḥ kaścidyajñamatra kariṣyati | śrāddhaṃ vā nāgarairbāhyaṃ vṛthā tatsaṃbhaviṣyati || 26 ||",
+    "english": "Brahmā said: 26. From now onwards if anyone performs Yajña or Śrāddha here excluding the Nāgaras, it shall become futile.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / adya_adya_ prabhṛti_prabhṛti_ yaḥ_yad_SNM kaścid_kaścit_SNM yajñam_yajña_SAM atra_atra_ kariṣyati_kṛ_SFu3In  / śrāddham_śrāddha_SNNe vā_vā_ nāgaraiḥ_nāgara_PIM bāhyam_bāhya_SNNe vṛthā_v"
+  },
+  {
+    "index": 32434,
+    "sanskrit": "vasatām loka vīrāṇām āsan tat brūhi sattama vistareṇa ca me śaṃsa bhīmasena parākramam yat yat cakre mahā bāhuḥ tasmin haimavate girau",
+    "english": "Do thou describe the prowess of Bhimasena, and what that mighty-armed one did in the mountain Himalayan.",
+    "morphology": "vasatām_vas_PGPaPrM loka_loka_MCp vīrāṇām_vīra_PGM āsan_as_PPs3In tat_tad_SANe brūhi_brū_SPr2Im sattama_sattama_SVM vistareṇa_vistara_SIM ca_ca_U me_mad_SD śaṃsa_śaṃs_SPr2Im bhīmasena_bhīmasena_SVM parākramam_parākrama_SAM yat_yad_SAN"
+  },
+  {
+    "index": 32435,
+    "sanskrit": "avetyaprasādā iti ko 'rthaḥ /",
+    "english": "What is the meaning of the term avetyaprasāda?",
+    "morphology": "ava_ava_ iti_iti_ aprasādāḥ_aprasāda_PNM iti_iti_"
+  },
+  {
+    "index": 32436,
+    "sanskrit": "evaṃ pradakṣiṇīkṛtya goṣpadaṃ tīrthamuttamam | viprebhyo dakṣiṇāṃ dattvā nadyāṃ piṃḍānvisarjayet || 60 ||",
+    "english": "60. In this manner, the excellent Goṣpaḍa Tīrtha should be circumambulated. Then after paying the Dakṣiṇā (fee for performance of the religious tasks) to Brāhmaṇas, the Piṇḍas should be cast off in the river.",
+    "morphology": "evam_evam_ pradakṣiṇīkṛtya_pradakṣiṇīkṛ_Co goṣpadam_goṣpada_SANe tīrtham_tīrtha_SANe uttamam_uttama_SANe  / viprebhyaḥ_vipra_PDM dakṣiṇām_dakṣiṇā_SAF dattvā_dā_Co nadyām_nadī_SLF piṃḍān_piṇḍa_PAM visarjayet_visa"
+  },
+  {
+    "index": 32437,
+    "sanskrit": "oṣadhīṣu |",
+    "english": "They also say, 'In the plants [2] he placed it.' Therefore plants, though not anointed, glisten.' They also say, 'He placed it in offspring.' Therefore twins are born.",
+    "morphology": "oḥ_"
+  },
+  {
+    "index": 32438,
+    "sanskrit": "evaṃ hyaitihyasya na pramāṇāntaratā bhaviṣyati upadeśarūpatvāviśeṣāditi //",
+    "english": "Similarly, the adjective 'apta' 'has been used to refute the hypothesis that rumour is a distinct source of knowledge and has the object in view to establish that 'rumour' (aitihya) is distinct from sabda.",
+    "morphology": "evam_evam_ hi_hi_ aitihyasya_aitihya_SGNe na_na_ pramāṇa_pramāṇa_Cp antara_antara_Cp tā_tā_SNF bhaviṣyati_bhū_SFu3In upadeśa_upadeśa_Cp rūpa_rūpa_Cp tva_tva_Cp aviśeṣāt_aviśeṣa_SBM iti_iti_  /"
+  },
+  {
+    "index": 32439,
+    "sanskrit": "anu tvā ratho anu maryo arvann anu gāvo 'nu bhagaḥ kanīnām |",
+    "english": "Thee follows the chariot, thee the lover, O steed, Thee the kine, thee the portion of maidens;",
+    "morphology": "anu_anu_ tvā_tvad_SA rathaḥ_ratha_SNM anu_anu_ maryaḥ_marya_SNM arvan_arvant_SVM anu_anu_ gāvaḥ_go_PNM anu_anu_ bhagaḥ_bhaga_SNM kanīnām_kanī_PGF"
+  }
+]

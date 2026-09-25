@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40520,
+    "sanskrit": "yatra brahma ādayaḥ devāḥ ṛṣayaḥ siddha cāraṇāḥ abhigacchanti rāja indra caitra śukla caturdaśīm",
+    "english": "Thither, O king, the gods with Brahma at their head and Rishis with wealth of asceticism repair for adoring Kesava on the fourteenth day of the lighted fortnight of the month of Chaitra.",
+    "morphology": "yatra_yatra_U brahma_brahman_MCp ādayaḥ_ādi_PNM devāḥ_deva_PNM ṛṣayaḥ_ṛṣi_PNM siddha_siddha_MCp cāraṇāḥ_cāraṇa_PNM abhigacchanti_abhigam_PPr3In rāja_rājan_MCp indra_indra_MCp caitra_caitra_MCp śukla_śukla_MCp caturdaśīm_catu"
+  },
+  {
+    "index": 40521,
+    "sanskrit": "praviṣṭaḥ sa niśām tām ca gamayām āsa pārthivaḥ",
+    "english": "And having entered (his tent) the monarch passed the night (in. sleep).",
+    "morphology": "praviṣṭaḥ_praviṣ_SNPaPsM"
+  },
+  {
+    "index": 40522,
+    "sanskrit": "smayamānaḥ ca lokeśaḥ lokān sarvān avaikṣata",
+    "english": "And casting his eyes upon all the creation he smiled.",
+    "morphology": "smayamānaḥ_smi_SNPaPrM"
+  },
+  {
+    "index": 40523,
+    "sanskrit": "tasyānupagame na syād vedaprāmāṇyamanyathā // tenārthāpattilabdhena dharmajñopagamena tu /",
+    "english": "In fact, if such an author were not It has been argued that “The Perceiver of Dharma cannot exist, because the only means of Cognition by which his existence can be envisaged is ‘Non-apprehension’ (Negation).”",
+    "morphology": "tasya_tad_SGM anupagame_anupagama_SLM na_na_ syāt_as_SPr3O veda_veda_Cp prāmāṇyam_prāmāṇya_SNNe anyathā_anyathā_  // tena_tad_SIM ḥ_tad_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 40524,
+    "sanskrit": "jānānaś ca na ced rājan mama tattvaṃ vadiṣyasi / tad eṣa śatadhā mūrdhā niścitaṃ te sphuṭiṣyati // ity uktavantaṃ vetālaṃ vijānañ śāpabhītitaḥ / sa trivikramasenas tam evaṃ pratyabravīn nṛpaḥ // yogeśvara kim ajñeyam etan naiṣāṃ hi pātakam / trayāṇām api rājñas tu pāpaṃ karṇotpalasya tat //",
+    "english": "And if, King, you do not tell me the truth, though you know it, this head of yours shall certainly split in a hundred pieces.” When the Vetāla said this, the king, who discerned the truth, out of fear of being cursed, gave him this answer: “O thou skilled in magic arts, what difficulty is there about it? Why, none of the three was in fault, but the whole of the guilt attaches to King Karṇotpala.” The Vetāla then said: “Why, what did the king do? Those three were instrumental in the matter.",
+    "morphology": "jānānaḥ_jñā_SNPaPrM ca_ca_ na_na_ ced_ced_ rājan_rājan_SVM mama_mad_SG tattvam_tattva_SANe vadiṣyasi_vad_SFu2In  / tat_tad_SANe eṣa_etad_SNM śatadhā_śatadhā_ mūrdhā_mūrdhan_SNM niścitam_niścitam_ te_tvad_SG sphuṭiṣyati_sphuṭ_SFu3"
+  },
+  {
+    "index": 40525,
+    "sanskrit": "asti karma preta-lokopapatti-saṃvartanīyam,",
+    "english": "this is the deed that leads to rebirth in the Preta world,",
+    "morphology": "asti_as_SPr3In karma_karman_SNNe preta_preta_Cp loka_loka_Cp upapatti_upapatti_Cp saṃvartanīya_saṃvṛt_SNNeGd"
+  },
+  {
+    "index": 40526,
+    "sanskrit": "grāvāṇau śailapāṣānau mūrkhanīcau pṛthagjanau / taruśailau śikhariṇau tanustvagdehayorapi //",
+    "english": "Grāvan is used to denote a hill and a stone. The word pṛthakjana denotes a fool and also a low class man. The word śikharin denotes a tree as well as a mountain. Tanu denotes the skin and the body.",
+    "morphology": "grāvāṇau_grāvan_DuNM śaila_śaila_Cp pāṣānau_pāṣāṇa_DuNM mūrkha_mūrkha_Cp nīcau_nīca_DuNM pṛthagjanau_pṛthagjana_DuNM  / taru_taru_Cp śailau_śaila_DuNM śikhariṇaḥ_śikharin_DuNM tanuḥ_tanu_SNF"
+  },
+  {
+    "index": 40527,
+    "sanskrit": "bhramākṛti yadastīha dṛśyate'lātacakravat / mṛgatṛṣṇādvicandrādibālavetālakādivat //",
+    "english": "All these erroneous appearances, that present themselves before us, are as false as a circle described by the whirling flame of a torch; and as delusive as the water in the mirage, a secondary moon in the mist, and the spectre of boys.",
+    "morphology": "bhrama_bhrama_Cp ākṛti_ākṛti_SNNe yat_yad_SNNe asti_as_SPr3In iha_iha_ dṛśyate_dṛś_SPr3InPv alāta_alāta_Cp cakra_cakra_Cp vat_vat_  / mṛgatṛṣṇā_mṛgatṛṣṇā_Cp dvi_dvi_Cp"
+  }
+]

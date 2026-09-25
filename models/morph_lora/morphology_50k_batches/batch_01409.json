@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11264,
+    "sanskrit": "mahā asuraḥ hataḥ śakra namuciḥ dāruṇaḥ tvayā",
+    "english": "And he said, 'O Indra, the great Asura Namuchi was killed by thee;",
+    "morphology": "mahā_mahat_Cp asuraḥ_asura_SNM hataḥ_han_SNPaPsM śakra_śakra_SVM namuciḥ_namuci_SNM dāruṇaḥ_dāruṇa_SNM"
+  },
+  {
+    "index": 11265,
+    "sanskrit": "kathaṃ ca vāṅnāmno bhūyasītyāhavāgvā ṛgvedaṃ vijñāpayatyayamṛgveda iti /",
+    "english": "How is speech greater than Name?Answer ‘It is speech that makes known the Ṛgveda‘This is the Ṛgveda’;",
+    "morphology": "katham_katham_ ca_ca_ vāc_vāc_SNF nāmnaḥ_nāman_SBNe bhūyasī_bhūyas_SNF iti_iti_ āha_ah_SPs3In vāc_vāc_SNF vai_vai_ ṛgvedam_ṛgveda_SAM vijñāpayati_vijñāpay_SPr3In ayam_idam_SNM ṛgvedaḥ_ṛgveda_SNM iti_iti_"
+  },
+  {
+    "index": 11266,
+    "sanskrit": "kaupīnācchādanaprāyā vāñchā kalpadrumādapi / jāyate yadapuṇyānāṃ soparādhaḥ svadoṣajaḥ //",
+    "english": "It is the fault of the impure acts of the unrighteous to proffer such idle requests to one able to confer such more important benefits, like asking for a rag to cover ones nakedness from the tree that bestows whatever is solicited.",
+    "morphology": "kaupīna_kaupīna_Cp ācchādana_ācchādana_Cp prāyā_prāya_SNF vāñchā_vāñchā_SNF kalpadrumāt_kalpadruma_SBM api_api_  / jāyate_jan_SPr3In yat_yat_ apuṇyānām_apuṇya_PGM sa_sa_ uparādhaḥ_uparādha_SNM sva_sva_Cp doṣa_doṣa_Cp jaḥ_ja"
+  },
+  {
+    "index": 11267,
+    "sanskrit": "mitram kr̥ṇudhvam khalu mr̥l̥ata naḥ mā naḥ ghoreṇa carata abhi dhr̥ṣṇu ni vaḥ nu manyuḥ viśatām arātiḥ anyaḥ babhrūṇām pra sitau nu astu",
+    "english": "Make friends with us, we pray, to us be gracious; Do not bewitch us forcibly with magic; Let now your enmity, your anger slumber: Let others be in brownies' toils entangled.",
+    "morphology": "mitram_mitra_SANe kr̥ṇudhvam_kṛ_PPr2Im khalu_khalu_U mr̥l̥ata_mr̥l̤_PPr2Im naḥ_mad_PG mā_mā_U naḥ_mad_PA ghoreṇa_ghora_SINe carata_car_PPr2Im abhi_abhi_U dhr̥ṣṇu_dhr̥ṣṇu_SANe ni_ni_U vaḥ_tvad_PG nu_nu_U manyuḥ_manyu_SNM viśa"
+  },
+  {
+    "index": 11268,
+    "sanskrit": "vicitravarṇavihagā nānāvallīvilāsinī / vanecaravyāptataṭī puṣpakesarabhāsinī //",
+    "english": "This spot was frequented by birds of variegated hues, and filled with plants of various kinds. Its banks were beset by wild beasts, and fraught with flowers shining smilingly over the woodland scene.",
+    "morphology": "vicitra_vicitra_Cp varṇa_varṇa_Cp vihagā_vihaga_SNF nānā_nānā_ vallī_vallī_Cp vilāsinī_vilāsin_SNF  / vanecara_vanecara_Cp vyāpta_vyāp_PaCp taṭī_taṭī_SNF puṣpa_puṣpa_Cp kesara_kesara_Cp bhāsinī_bhāsin_SNF  /"
+  },
+  {
+    "index": 11269,
+    "sanskrit": "anu yat īm marutaḥ mandasānam ārcan indram papi vāṁsam sutasya ā adatta vajram abhi yat ahim han apaḥ yahvīḥ asr̥jat sartavai oṁ iti",
+    "english": "What time the Maruts sang their song to Indra, joyous when he had drunk of Soma juices, He grasped his thunderbolt to slay the Dragon, and loosed, that they might flow, the youthful Waters.",
+    "morphology": "anu_anu_U yat_yat_U īm_īṃ_U marutaḥ_marut_PNM mandasānam_mand_SAPaPrM ārcan_arc_PPs3In indram_indra_SAM papi_pā_SPs3In vāṁsam_vāṃsa_SAM sutasya_su_SGPaPsM ā_ā_U adatta_dā_SPs3In vajram_vajra_SAM abhi_abhi_U yat_yat_U ahim_ahi_SAM han_han_"
+  },
+  {
+    "index": 11270,
+    "sanskrit": "akrudhyat sa tayā viddhe netre parama manyumān",
+    "english": "And as his eyes being pierced by her, he felt exceeding pain and became wroth.",
+    "morphology": "akrudhyat_krudh_SPs3In sa_tad_SNM"
+  },
+  {
+    "index": 11271,
+    "sanskrit": "atraiva kāraṇam āha tad doṣā'darśanād iti /",
+    "english": "Here now he gives the reason because one does not perceive the faults of the latter.",
+    "morphology": "atra_atra_ eva_eva_ kāraṇam_kāraṇa_SANe āha_ah_SPs3In tat_tad_SNNe doṣa_doṣa_Cp a_a_ darśanāt_darśana_SBNe iti_"
+  }
+]

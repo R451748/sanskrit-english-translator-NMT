@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21112,
+    "sanskrit": "evaṃ hateṣu vīreṣu dṛṣṭvā vidyādharakṣayam / śrutaśarmā śatānīkam abhyadhāvat svayaṃ krudhā //",
+    "english": "When these heroes had been slain, Śrutaśarman, beholding the slaughter of the Vidyādharas, himself attacked Śatānīka in his anger.",
+    "morphology": "evam_evam_ hateṣu_han_PLPaM vīreṣu_vīra_PLM dṛṣṭvā_dṛś_Co vidyādhara_vidyādhara_Cp kṣayam_kṣaya_SAM  / śrutaśarmā_śrutaśarman_SNM śatānīkam_śatānīka_SAM abhyadhāvat_abhidhāv_S3ImIn svayam_svayam_ krudhā_krudh_SIF  /"
+  },
+  {
+    "index": 21113,
+    "sanskrit": "devaputrākṛtiṃ vyomni jahau māyāvinirmitām / vidagdhamugdhamākāraṃ straiṇaṃ jagrāha sundaram //",
+    "english": "She forsook her form of the son of the Divine sage in the empty sky, and which she had took upon her by her magic spell. The enchanted form melted away in the air, and she appeared in her female form of beauteous fair.",
+    "morphology": "deva_deva_Cp putra_putra_Cp ākṛtim_ākṛti_SAF vyomni_vyoman_SLM jahau_hā_SPs3In māyā_māyā_Cp vinirmitām_vinirmā_SAPaF  / vidagdha_vidagdha_Cp mugdham_muh_SAPaM ākāram_ākāra_SAM straiṇam_straiṇa_SAM jagrāha_grah_SPs3In sundaram_sundara_"
+  },
+  {
+    "index": 21114,
+    "sanskrit": "ayam ca kālaḥ saṃprāptaḥ durlabha jñāti bāndhavaḥ",
+    "english": "The time that has come is fraught with great distress.",
+    "morphology": "ayam_idam_SNM"
+  },
+  {
+    "index": 21115,
+    "sanskrit": "somakāḥ ca sa pañcālāḥ prāhṛṣyanta janeśvara",
+    "english": "And the Somakas and the Panchalas all rejoiced, O king.",
+    "morphology": "somakāḥ_somaka_PNM ca_ca_U sa_sa_U pañcālāḥ_pañcāla_PNM"
+  },
+  {
+    "index": 21116,
+    "sanskrit": "agnaye rukmate puroḍāśam aṣṭākapālaṃ nir vaped rukkāmas |",
+    "english": "He who desires radiance should offer a cake on eight potsherds to Agni, the radiant;",
+    "morphology": "agnaye_agni_SDM rukmate_rukmat_SDM puroḍāśam_puroḍāśa_SAM aṣṭākapālam_aṣṭākapāla_SAM niḥ_niḥ_ vapet_vap_SPr3O ruc_ruc_Cp kāmaḥ_kāma_SNM"
+  },
+  {
+    "index": 21117,
+    "sanskrit": "hi antar ca asyāḥ bhavitā ca iti viddhi param nayanti iha vilobhyamānam yathā plavam vāyuḥ iva arṇava stham",
+    "english": "No man sees the end of the earth but knows this, viz., that the earth's end Will surely come.[703] Man, agitated here (by attachments), is surely led to his last refuge like the wind leading a vessel tossed on the sea to a safe harbour at last.",
+    "morphology": "hi_hi_U antar_antar_U ca_ca_U asyāḥ_idam_SGF bhavitā_bhū_SFu3In ca_ca_U iti_iti_U viddhi_vid_SPr2Im param_para_SAM nayanti_nī_PPr3In iha_iha_U vilobhyamānam_vilobhay_SAPaPrMPv"
+  },
+  {
+    "index": 21118,
+    "sanskrit": "yasya svabhāvaviśrāntiḥ kathaṃ tasyāsti bhogitā / asvabhāvo hi bhogitvaṃ tatkṣaye tatkathaṃ kutaḥ //",
+    "english": "He who is disposed to repose by nature, can have no inclination to enjoyments; it is unnatural to indulge in carnal enjoyments, but the subdued nature needs nothing to enjoy.",
+    "morphology": "yasya_yad_SGM svabhāva_svabhāva_Cp viśrāntiḥ_viśrānti_SNF katham_katham_ tasya_tad_SGM asti_as_SPr3In bhogi_bhogin_Cp tā_tā_SNF  / asvabhāvaḥ_asvabhāva_SNM hi_hi_ bhogi_bhogin_Cp tvam_tva_SNNe tad_tad_Cp kṣaye_kṣaya_SLM tat_tad_SNNe katha"
+  },
+  {
+    "index": 21119,
+    "sanskrit": "idam ahaṃ sarpāṇāṃ dandaśūkānāṃ grīvā upa grathnāmīty āhādandaśūkās tāṃ samāṃ sarpā bhavanti tamasā somavikrayiṇaṃ{FN corrected in IS Ed: somavikrayiṇaṃ} vidhyati svāna |",
+    "english": "'Thus do I intertwine the necks of the biting serpents', he says; the serpents do not bite that year, he pierces the Soma-seller with darkness.",
+    "morphology": "idam_idam_SANe aham_mad_SN sarpāṇām_sarpa_PGM dandaśūkānām_dandaśūka_PGM grīvāḥ_grīvā_PAF upa_upa_ grathnāmi_granth_SPr1In iti_iti_ āha_ah_SPs3In a_a_ dandaśūkāḥ_dandaśūka_PNM tām_tad_SAF samām_samā_SAF sarpāḥ_sarpa_PNM bhava"
+  }
+]

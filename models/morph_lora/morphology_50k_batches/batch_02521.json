@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20160,
+    "sanskrit": "prāṇinām jananam satyam satyam saṃtatiḥ eva ca",
+    "english": "Truth is the origin of creatures. Truth is their progeny.",
+    "morphology": "prāṇinām_prāṇin_PGM jananam_janana_SNNe satyam_satya_SNNe satyam_satya_SNNe saṃtatiḥ_saṃtati_SNF"
+  },
+  {
+    "index": 20161,
+    "sanskrit": "manopavicārā iti ko 'rthaḥ / manaḥ kila pratītyaite saumanasyadayo viṣayānupavicarantīti / viṣayeṣu vā mana upavicārayantītyapare /",
+    "english": "What is the meaning of the expression manopavicāra? Why are the different types of mental sensation?",
+    "morphology": "manaḥ_manas_Cp upavicārāḥ_upavicāra_PNM iti_iti_ kaḥ_ka_SNM arthaḥ_artha_SNM  / manaḥ_manas_SANe kila_kila_ pratītya_pratī_Co ete_etad_PNM saumanasya_saumanasya_Cp dayaḥ_di_PNM viṣayān_viṣaya_PAM upavicaranti_upavicar_PPr3In iti_iti_ "
+  },
+  {
+    "index": 20162,
+    "sanskrit": "mahā ṛṣibhyaḥ dadau khaḍgam ṛṣayaḥ vāsavāya tu",
+    "english": "The divine Marichi gave it unto all the great Rishis. The latter gave it to Vasava.",
+    "morphology": "mahā_mahat_Cp ṛṣibhyaḥ_ṛṣi_PDM dadau_dā_SPs3In khaḍgam_khaḍga_SAM ṛṣayaḥ_ṛṣi_PNM"
+  },
+  {
+    "index": 20163,
+    "sanskrit": "śunam huvema maghavānam indram asmin bhare nr̥ tamam vāja sātau śr̥ṇvantam ugram ūtaye samat su ghnantam vr̥trāṇi sam jitam dhanānām",
+    "english": "Call we on Indra, Makhavan, auspicious, best Hero in the fight where spoil is gathered; The Strong, who listens, who gives aid in battles, who slays the Vr̥itras, wins and gathers riches.",
+    "morphology": "śunam_śuna_SANe huvema_hu_PPs1O maghavānam_maghavan_SAM indram_indra_SAM asmin_idam_SLM bhare_bhara_SLM nr̥_nr̥_U tamam_tama_SAM vāja_vāja_MCp sātau_sāti_SLF śr̥ṇvantam_śru_SAPaPrM ugram_ugra_SAM ūtaye_ūti_SDF samat_samat_U su_su_U ghnantam"
+  },
+  {
+    "index": 20164,
+    "sanskrit": "anvīyamānaḥ vīreṇa dāśārheṇa mahātmanā yuyudhānena ca tathā tathā eva ca yuyutsunā",
+    "english": "The son of Kunti was followed by the high-souled and heroic Krishna of Dasharhas race, and by Yuyudhana, as also by Yuyutsu.",
+    "morphology": "anvīyamānaḥ_anvi_SNPaPrMPv vīreṇa_vīra_SIM dāśārheṇa_dāśārha_SIM mahātmanā_mahātman_SIM yuyudhānena_yuyudhāna_SIM ca_ca_U tathā_tathā_U tathā_tathā_U eva_eva_U ca_ca_U yuyutsunā_yuyutsu_SIM"
+  },
+  {
+    "index": 20165,
+    "sanskrit": "te praviśya puram vīrāḥ tūrṇam jagmuḥ atho gṛhān brāhmaṇānām mahīpāla ratānām sveṣu karmasu nagara adhikṛtānām ca gṛhāṇi rathinām tathā",
+    "english": "Entering the town those heroes first went, O monarch, to the abodes of Brahmanas engaged in their proper duties.",
+    "morphology": "te_tad_PNM praviśya_praviś_Co puram_pura_SANe vīrāḥ_vīra_PNM tūrṇam_tūrṇam_U jagmuḥ_gam_PPs3In atho_atho_U gṛhān_gṛha_PAM brāhmaṇānām_brāhmaṇa_PGM mahīpāla_mahīpāla_MCp ratānām_ram_PGPaPsM sveṣu_sva_PLNe karmasu_karman_P"
+  },
+  {
+    "index": 20166,
+    "sanskrit": "tasmāttvayā mahatkarma kṛtamīdṛksuduṣkaram | prajānāṃ pārthivaśreṣṭha tyaktvā dūrādbhayaṃ mama || 32 ||",
+    "english": "32. O most excellent one among kings, a great deed like this, very difficult to be carried out, has been done by you. You have warded off from afar the fear (evil consequences) of mine from your subjects.",
+    "morphology": "tasmāt_tasmāt_ tvayā_tvad_SI mahat_mahat_SNNe karma_karman_SNNe kṛtam_kṛ_SNPaNe īdṛś_īdṛś_SNNe su_su_ duṣkaram_duṣkara_SNNe  / prajānām_prajā_PGF pārthiva_pārthiva_Cp śreṣṭha_śreṣṭha_SVM tyaktvā_tyaj_Co dūrāt_dūrāt_ b"
+  },
+  {
+    "index": 20167,
+    "sanskrit": "teṣāṃ koṇārdhakoṇasthaiścintyāt koṇāni sūtrakaiḥ /",
+    "english": "One has to mark the angular points by means of threads placed at the angular and middle ofangular points.",
+    "morphology": "teṣām_tad_PGM koṇa_koṇa_Cp ardha_ardha_Cp koṇa_koṇa_Cp sthaiḥ_stha_PIM cintyāt_cintay_SPr3O koṇāni_koṇa_PANe"
+  }
+]

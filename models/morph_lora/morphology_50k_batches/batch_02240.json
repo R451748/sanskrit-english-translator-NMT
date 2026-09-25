@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17912,
+    "sanskrit": "parastrīṣu dviguṇāḥ,",
+    "english": "If the same offence is committed on the women of others, the fines shall be doubled",
+    "morphology": "para_para_Cp strīṣu_strī_PLF"
+  },
+  {
+    "index": 17913,
+    "sanskrit": "mṛgayāṃ pānamakṣāṃś ca rājyanāśaṃstyajennṛpaḥ //",
+    "english": "The king should avoid hunting, drinking and dice playing that destroys the kingdom.",
+    "morphology": "mṛgayām_mṛgayā_SAF pānam_pāna_SANe akṣān_akṣa_PAM ca_ca_ rājya_rājya_Cp anāśān_anāśa_PAM tyajet_tyaj_SPr3O __nṛpa_PAM  /"
+  },
+  {
+    "index": 17914,
+    "sanskrit": "kūle lakṣmaṇatīrthasya tanmantraṃ japate tu yaḥ | sa sarvaśāstravettā syāccaturvedavidapyasau || 4 ||",
+    "english": "He who recites Lakṣmaṇa’s Mantra on the banks of Lakṣmaṇa-tīrtha shall become a master of all scriptures. He shall become conversant with all the four Vedas.",
+    "morphology": "kūle_kūla_SLNe lakṣmaṇatīrthasya_lakṣmaṇatīrtha_SGNe tat_tad_SANe mantram_mantra_SANe japate_jap_SPr3In tu_tu_ yaḥ_yad_SNM  / sa_tad_SNM sarva_sarva_Cp śāstra_śāstra_Cp vettā_vettṛ_SNM syāt_as_SPr3O catur_catur_Cp veda_veda_Cp vid_vid"
+  },
+  {
+    "index": 17915,
+    "sanskrit": "dīyate viṣuveṣu evam śrotriyebhyaḥ viśeṣataḥ",
+    "english": "The sense is this: for a horse-sacrifice, the Dakshina or sacrificial present, payable to the principal Ritwija or to be distributed among all the Ritwijas including the other Brahmanas, is enjoined to be of a certain measure.",
+    "morphology": "dīyate_dā_SPr3InPv viṣuveṣu_viṣuva_PLNe evam_evam_U śrotriyebhyaḥ_śrotriya_PDM viśeṣataḥ_viśeṣataḥ_"
+  },
+  {
+    "index": 17916,
+    "sanskrit": "tadetadbhāvanārūpe tathedaṃ bhuvanatrayam / tasminneva sthitaṃ jātaṃ tasmādeva tadeva ca //",
+    "english": "Thus the triple world subsists in the thought of the Divine mind. It has thus sprung from the mind of God, and rests in its self-same state with the all-comprehending mind.",
+    "morphology": "tat_tad_SNNe etat_etad_SNNe bhāvanā_bhāvanā_Cp rūpe_rūpa_SLNe tathā_tathā_ idam_idam_SNNe bhuvanatrayam_bhuvanatraya_SNNe  / tasmin_tad_SLNe eva_eva_ sthitam_sthā_SNPaNe jātam_jan_SNPaNe tasmāt_tad_SBNe eva_eva_ tat_tad_SNNe eva_eva_ ca_ca_  /"
+  },
+  {
+    "index": 17917,
+    "sanskrit": "tathā hi yannivṛttau yanniyamena nivartate sa tena vyāpto vyapadiśyate, nivṛtteś ca nānupalabdhilakṣaṇaprāptānupalambhamantareṇa siddhir bhavati /",
+    "english": "for instance, when the absence of one thing is always followed by the absence of the other, the latter is said to be ‘pervaded’ by the other; and the said absence is not possible except where there is Non-apprehension of what is apprehensible.",
+    "morphology": "tathā_tathā_ hi_hi_ yad_yad_Cp nivṛttau_nivṛtti_SLF yad_yad_Cp niyamena_niyama_SIM nivartate_nivṛt_SPr3In sa_tad_SNM tena_tad_SIM vyāptaḥ_vyāp_SNPaM vyapadiśyate_vyapadiś_SPr3InPv nivṛtteḥ_nivṛtti_SGF ca_ca_ na_na_ anupalabdhi_anupalabd"
+  },
+  {
+    "index": 17918,
+    "sanskrit": "tathā bhīmena śalyasya tāḍitā gadayā gadā aṅgāra varṣam mumuce tat adbhutam iva abhavat",
+    "english": "Similarly, struck by Bhima with his mace, the mace of Shalya produced a shower of blazing coals which seemed exceedingly wonderful.",
+    "morphology": "tathā_tathā_U bhīmena_bhīma_SIM śalyasya_śalya_SGM tāḍitā_tāḍay_SNPaPsF gadayā_gadā_SIF gadā_gadā_SNF aṅgāra_aṅgāra_MCp varṣam_varṣa_SAM mumuce_muc_SPs3In tat_tad_SNNe adbhutam_adbhuta_SNNe iva_iva_U abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 17919,
+    "sanskrit": "indrasenam sutam ca api indrasenām ca kanyākām",
+    "english": "And the high-minded king begat upon Damayanti a son named Indrasena, and a daughter named Indrasena.",
+    "morphology": "indrasenam_indrasena_SAM sutam_suta_SAM ca_ca_U api_api_U indrasenām_indrasenā_SAF ca_ca_U kanyākām_kanyākā_SAF"
+  }
+]

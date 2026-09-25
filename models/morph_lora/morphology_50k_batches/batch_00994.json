@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7944,
+    "sanskrit": "tatra vaḥ vipulā vṛttiḥ pūjā ca eva bhaviṣyati",
+    "english": "There the parents of those children will worship you in their calamities and you shall get plenty to live upon.” 3B.",
+    "morphology": "tatra_tatra_U"
+  },
+  {
+    "index": 7945,
+    "sanskrit": "tadvat śarīra saṃyuktaḥ śarīrī iti upalabhyate",
+    "english": "Similarly, the Soul becomes an object of apprehension only when it exists with the body.",
+    "morphology": "tadvat_tadvat_"
+  },
+  {
+    "index": 7946,
+    "sanskrit": "yaḥ mitrāya varuṇāya avidhat janaḥ anarvāṇam tam pari pātaḥ aṁhasaḥ dāśvāṁsam martam aṁhasaḥ tam aryamā abhi rakṣati r̥ju yantam anu vratam ukthaiḥ yaḥ enoḥ pari bhūṣati vratam stomaiḥ ābhūṣati vrtam",
+    "english": "Whoso, with worship serves Mitra and VaruiIa, him guard ye carefully, uninjured, from distress, guard from distress the liberal man. Aryaman guards him well who acts uprightly following his law, Who beautifies their service with his lauds, who makes it beautiful with songs of praise.",
+    "morphology": "yaḥ_yad_SNM mitrāya_mitra_SDM varuṇāya_varuṇa_SDM avidhat_vidh_SPs3In janaḥ_jana_SNM anarvāṇam_anarvan_SAM tam_tad_SAM pari_pari_U pātaḥ_pā_DuPr3In aṁhasaḥ_aṃhas_SBNe dāśvāṁsam_dāś_SAPaPsM martam_marta_SAM aṁhasaḥ_aṃhas_"
+  },
+  {
+    "index": 7947,
+    "sanskrit": "upa nau hvayadhvamiti te ha devā ūcurna vāmupahvayiṣyāmahe bahu manuṣyeṣu saṃsṛṣṭamacāriṣṭam bhiṣajyantāviti //",
+    "english": "They said, 'Invite us thereto!' The gods said, 'We will not invite you: ye have wandered and mixed much among men, performing cures.'",
+    "morphology": "upa_upa_ nau_mad_DuA hvayadhvam_hvā_PPr2Im iti_iti_ te_tad_PNM ha_ha_ devāḥ_deva_PNM ūcuḥ_vac_PPs3In na_na_ vām_tvad_DuA upahvayiṣyāmahe_upahvā_PFu1In bahu_bahu_SANe manuṣyeṣu_manuṣya_PLM saṃsṛṣṭam_saṃsṛj_SAPaNe acāriṣṭam"
+  },
+  {
+    "index": 7948,
+    "sanskrit": "kāmāptadṛśyaviṣayāḥ prathamāḥ",
+    "english": "The first ones have for their object the visible things of Kāmadhātu.",
+    "morphology": "kāma_kāma_Cp āpta_āpta_Cp dṛśya_dṛś_GdCp viṣayāḥ_viṣaya_PNM"
+  },
+  {
+    "index": 7949,
+    "sanskrit": "hata ārohāḥ ca mātaṅgāḥ pāṇḍavena mahātmanā viprajagmuḥ anīkeṣu meghāḥ vāta hatāḥ iva mṛdnantaḥ svāni anīkāni vinadantaḥ śara āturāḥ",
+    "english": "And elephants deprived by Pandu's son, in that battle, of their riders, and afflicted with arrows wandered on the field, treading down their own ranks and uttering loud roars like masses of clouds driven by the wind.",
+    "morphology": "hata_han_PaPsCp ārohāḥ_āroha_PNM ca_ca_U mātaṅgāḥ_mātaṃga_PNM pāṇḍavena_pāṇḍava_SIM mahātmanā_mahātman_SIM viprajagmuḥ_vipragam_PPs3In anīkeṣu_anīka_PLNe meghāḥ_megha_PNM vāta_vāta_MCp hatāḥ_han_PNPaPsM iva_iva_U m"
+  },
+  {
+    "index": 7950,
+    "sanskrit": "ekaḥ sāṃyaminīm jitvā kurūṇām akarot yaśaḥ",
+    "english": "Alone vanquishing all foes he hath spread the fame of the Kurus.",
+    "morphology": "ekaḥ_eka_SNM"
+  },
+  {
+    "index": 7951,
+    "sanskrit": "bhīma uvāca | mātarme kaḥ pitā kutra kathaṃ vaikākinī sthitā | jñātumicchāmi tatsarvaṃ yathārthaṃ tvaṃ vadādhunā ||",
+    "english": "8. O mother, who is my father? Where is he? How is it that you are living alone? I wish to know everything. Please tell me the truth.",
+    "morphology": "bhīmaḥ_bhīma_SNM uvāca_vac_SPs3In  / mātar_mātṛ_SVF me_mad_SG kaḥ_ka_SNM pitā_pitṛ_SNM kutra_kutra_ katham_katham_ vā_vā_ ekākinī_ekākin_SNF sthitā_sthā_SNPaF  / jñātum_jñā_In icchāmi_iṣ_SPr1In tat_tad_SANe sarvam_sarva_SANe yat"
+  }
+]

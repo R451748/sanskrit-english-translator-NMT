@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14672,
+    "sanskrit": "samānabuddhigrāhye 'pi sāmānye 'vasthite kvacit / bhavaty anyānusandhānaṃ kvacid vā na bhavaty api //",
+    "english": "If an in- dividual is cognized as possessed of a universal then such cogni- tion does not necessarily provoke the memory of another similar individual. It (the above cognition) sometimes produces the memory in question but also fails to do so at some other times.",
+    "morphology": "samāna_samāna_Cp buddhi_buddhi_Cp grāhye_grah_SLNeGd api_api_ sāmānye_sāmānya_SLNe avasthite_avasthā_SLPaNe kvacid_kvacid_  / bhavati_bhū_SPr3In anya_anya_Cp anusandhānam_anusaṃdhāna_SNNe kvacid_kvacid_ vā_vā_ na_na_ bhavati_bhū_SPr3In api_"
+  },
+  {
+    "index": 14673,
+    "sanskrit": "atha vā ṣaḍāyatanapratyayaḥ sparśa indriyasya sukhādivedanānukūlaṃ trividhaṃ vikāraṃ prasūte /",
+    "english": "Alternatively, contact which has the six sensefields for its causal condition, produces a threefold modification of the sense faculty that is conducive to the sensation of pleasure etc.",
+    "morphology": "atha_atha_ vā_vā_ ṣaṣ_ṣaṣ_Cp āyatana_āyatana_Cp pratyayaḥ_pratyaya_SNM sparśaḥ_sparśa_SNM indriyasya_indriya_SGNe sukha_sukha_Cp ādi_ādi_Cp vedanā_vedanā_Cp anukūlam_anukūla_SAM trividham_trividha_SAM vikāram_vikāra_SAM prasūte_p"
+  },
+  {
+    "index": 14674,
+    "sanskrit": "taiḥ taiḥ veṣaiḥ ca rūpaiḥ ca triṣu lokeṣu bhārgava aham viṣṇuḥ aham brahmā śakraḥ atha prabhava apyayaḥ",
+    "english": "In those forms that I assume for the purpose, I am known, O son of Bhrigu's race, in the three worlds as Vishnu and Brahman and Sakra.",
+    "morphology": "taiḥ_tad_PIM taiḥ_tad_PIM veṣaiḥ_veṣa_PIM ca_ca_U rūpaiḥ_rūpa_PINe ca_ca_U triṣu_tri_PLM lokeṣu_loka_PLM bhārgava_bhārgava_SVM aham_mad_SN viṣṇuḥ_viṣṇu_SNM aham_mad_SN brahmā_brahman_SNM śakraḥ_śakra_SNM atha_atha_U prabh"
+  },
+  {
+    "index": 14675,
+    "sanskrit": "annaṃ vai pāvakas |",
+    "english": "verily he wins food.",
+    "morphology": "annam_anna_SNNe"
+  },
+  {
+    "index": 14676,
+    "sanskrit": "ahaṃ kamalajastatra jātaḥ putraścaturmukhaḥ | udaraṃ nābhinālena praviśyātha vyalokayam || 4 ||",
+    "english": "4. I became his four-faced son born of the lotus. Through the hollow stalk of the lotus at his navel, I entered his belly and surveyed.",
+    "morphology": "aham_mad_SN kamala_kamala_Cp jaḥ_ja_SNM tatra_tatra_ jātaḥ_jan_SNPaM putraḥ_putra_SNM caturmukhaḥ_caturmukha_SNM  / udaram_udara_SANe nābhi_nābhi_Cp nālena_nāla_SIM praviśya_praviś_Co atha_atha_ vyalokayam_vilokay_S1ImIn"
+  },
+  {
+    "index": 14677,
+    "sanskrit": "puṣpairdhūpaistathā gandhairvastraiḥ saṃpūjya bhaktitaḥ | gaṇānāṃ tveti mantreṇa arghyaṃ cāsmai nivedayet || 4 ||",
+    "english": "4. After devoutly worshipping with flowers, incense, scents and garments, the pilgrim should offer Arghya uttering the Mantra: “gaṇānām tvā” (RV.II.23.11) etc.",
+    "morphology": "puṣpaiḥ_puṣpa_PINe dhūpaiḥ_dhūpa_PIM tathā_tathā_ gandhaiḥ_gandha_PIM vastraiḥ_vastra_PINe saṃpūjya_sampūjay_Co bhaktitaḥ_bhakti_SBF  / gaṇānām_gaṇa_PGM tvā_tvad_SA iti_iti_ mantreṇa_mantra_SIM arghyam_arghya_SANe ca_ca_ asma"
+  },
+  {
+    "index": 14678,
+    "sanskrit": "vijñānātmano hi pratibhāse [ahaṃ rajatam] iti pratītiḥ syātna [idaṃ rajatam] iti /",
+    "english": "If consciousness plays the double role of the knower and the known then both the subject and the object are nothing but consciousness.",
+    "morphology": "vijñāna_vijñāna_Cp ātmanaḥ_ātman_SGM hi_hi_ pratibhāse_pratibhāsa_SLM aham_mad_SN rajatam_rajata_SNNe iti_iti_ pratītiḥ_pratīti_SNF syāt_as_SPr3O na_na_ idam_idam_SNNe rajatam_rajata_SNNe iti_iti_"
+  },
+  {
+    "index": 14679,
+    "sanskrit": "yat ca mā bhāṣase pārtha prāptaḥ kālaḥ iti prabho anṛtam na utsahe vaktum na hi etat mayi vidyate antareṇa api kaunteya nikṛtim pāpa niścayam",
+    "english": "But, O son of Pritha, as for thy assertion, 'O Lord, the time is complete', I cannot dare tell an untruth, for untruth is not in me.",
+    "morphology": "yat_yad_SANe ca_ca_U mā_mad_SA bhāṣase_bhāṣ_SPr2In pārtha_pārtha_SVM prāptaḥ_prāp_SNPaPsM kālaḥ_kāla_SNM iti_iti_U prabho_prabhu_SVM anṛtam_anṛta_SANe na_na_U utsahe_utsah_SPr1In vaktum_vac_In na_na_U hi_hi_U etat_etad_SNNe mayi_mad_SL"
+  }
+]

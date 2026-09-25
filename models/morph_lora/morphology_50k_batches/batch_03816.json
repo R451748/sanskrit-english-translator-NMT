@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30520,
+    "sanskrit": "cāturmāsye ye manujā narmadā'marakaṇṭake | tīrthe snāsyaṃti niyatāsteṣāṃ vāsastriviṣṭape || 15 ||",
+    "english": "15. The men who keep up self-control and take their holy bath in the Narmadā Tīrtha at Amarkaṇṭaka shall reside in the heaven.",
+    "morphology": "cāturmāsye_cāturmāsya_SLNe ye_yad_PNM manujāḥ_manuja_PNM narmadā_narmadā_Cp amarakaṇṭake_amarakaṇṭaka_SLNe  / tīrthe_tīrtha_SLNe snāsyanti_snā_PFu3In niyatāḥ_niyam_PNPaM teṣām_tad_PGM vāsaḥ_vāsa_SNM triviṣṭape_triviṣṭ"
+  },
+  {
+    "index": 30521,
+    "sanskrit": "yajña dāna tapo yoga japāḥ saniyamā yamāḥ | gaṃgāsevāsahasrāṃśaṃ na labhaṃte kalau hare || 24 ||",
+    "english": "24. O Hari, Yajña, Dāna, penance, Yoga, Japa, restraint and observance of holy vows do not merit even a thousandth part of the service rendered to Gaṅgā.",
+    "morphology": "yajña_yajña_MCp dāna_dāna_NeCp tapaḥ_tapas_NeCp yoga_yoga_MCp japāḥ_japa_PNM saniyamāḥ_saniyama_PNM yamāḥ_yama_PNM  / gaṃgā_gaṅgā_Cp sevā_sevā_Cp sahasra_sahasra_Cp aṃśam_aṃśa_SAM na_na_ labhaṃte_labh_PPr3In kalau_kali_SLM ha"
+  },
+  {
+    "index": 30522,
+    "sanskrit": "divyam te cakṣuḥ utpannam svastham te nirmalam manaḥ",
+    "english": "Thy mind too has, of itself, become cleansed of every impurity.",
+    "morphology": "divyam_divya_SNNe te_tvad_SG cakṣuḥ_cakṣus_SNNe utpannam_utpad_SNPaPsNe svastham_svastha_SNNe te_tvad_SG nirmalam_nirmala_SNNe"
+  },
+  {
+    "index": 30523,
+    "sanskrit": "tatas ca śūlāni parasvadhāni cakrāṇi nārāca śatāni ca eva niścakramuḥ ghoratarāṇi yodhāḥ",
+    "english": "Thence also issued long darts and battle-axes and discs and cloth-yard shafts in hundreds, all of awful forms, at which hostile warriors all around began to be deprived of life.",
+    "morphology": "tatas_tatas_U ca_ca_U śūlāni_śūla_PANe parasvadhāni_parasvadha_PANe cakrāṇi_cakra_PANe nārāca_nārāca_MCp śatāni_śata_PANe ca_ca_U eva_eva_U niścakramuḥ_niṣkram_PPs3In ghoratarāṇi_ghoratara_PANe yodhāḥ_yodha_PNM"
+  },
+  {
+    "index": 30524,
+    "sanskrit": "vyādhibhirvividhair ghoraiḥ śastraiś ca yudhi nirjitāḥ /",
+    "english": "May the enemies of the king be destroyed quickly. May the enemies be conquered by different kinds of terrible diseases and weapons.",
+    "morphology": "vyādhibhiḥ_vyādhi_PIM vividhaiḥ_vividha_PIM ghoraiḥ_ghora_PIM śastraiḥ_śastra_PINe ca_ca_ yudhi_yudh_SLF nirjitāḥ_nirji_PNPaM  /"
+  },
+  {
+    "index": 30525,
+    "sanskrit": "ṛṣabha pratirūpa akṣau śayānau vimala srajau",
+    "english": "Possessed of eyes like those of a bull, and decked with bright garlands, both of them are stretched on the field.",
+    "morphology": "ṛṣabha_ṛṣabha_MCp pratirūpa_pratirūpa_Cp akṣau_akṣa_DuNM śayānau_śī_DuNPaPrM vimala_vimala_Cp srajau_sraj_DuNM"
+  },
+  {
+    "index": 30526,
+    "sanskrit": "tasmai nivedyābhiprāyaṃ yuyudhe vānareṇa saḥ dvividenāpi viṃśatyā dinaiḥ kaṃso hy aviśramam",
+    "english": "After presenting his proposal before him, Kaṃsa fought with the gorilla Dvivida for twenty days without becoming tired.",
+    "morphology": "tasmai_tad_SDM nivedya_niveday_Co abhiprāyam_abhiprāya_SAM yuyudhe_yudh_SPs3In vānareṇa_vānara_SIM saḥ_tad_SNM dvividena_dvivida_SIM api_api_ viṃśatyā_viṃśati_SIF dinaiḥ_dina_PIM kaṃsaḥ_kaṃsa_SNM hi_hi_ aviśramam_aviśrama_SAM"
+  },
+  {
+    "index": 30527,
+    "sanskrit": "atha nāsti / asadapyālambanaṃ bhavatīti siddham / tadeva tadvikīrṇamiti cet /",
+    "english": "if it is not one that one grasps through the memory, then the memory consciousness certainly has a non-existent object.",
+    "morphology": "atha_atha_ na_na_ asti_as_SPr3In  / asat_asat_SNNe api_api_ ālambanam_ālambana_SNNe bhavati_bhū_SPr3In iti_iti_ siddham_sidh_SNPaNe  / tat_tad_SNNe eva_eva_ tat_tad_SNNe vikīrṇam_vikṛ_SNPaNe iti_iti_ ced_ced_"
+  }
+]

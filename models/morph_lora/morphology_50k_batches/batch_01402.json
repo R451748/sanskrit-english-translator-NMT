@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11208,
+    "sanskrit": "bhaṅktvā śūlam gadā agreṇa gadā yuddha viśāradaḥ abhidudrāva tam tūrṇam garutmān iva pannagam",
+    "english": "Thereat breaking the dart with the end of his mace, that mighty-armed one skilled in mace-fighting, speedily rushed to slay him, as Garuda (rushed) to slay a serpent.",
+    "morphology": "bhaṅktvā_bhañj_Co śūlam_śūla_SANe gadā_gadā_FCp agreṇa_agra_SINe gadā_gadā_FCp yuddha_yuddha_NeCp viśāradaḥ_viśārada_SNM abhidudrāva_abhidru_SPs3In tam_tad_SAM tūrṇam_tūrṇam_U garutmān_garutmant_SNM iva_iva_U pannagam_pannaga_SA"
+  },
+  {
+    "index": 11209,
+    "sanskrit": "su nīthaḥ gha saḥ martyaḥ yam marutaḥ yam aryamā mitraḥ pānti adruhaḥ",
+    "english": "Fair guidance hath the mortal man whom Aryaman, the Marut host, And Mitra, void of guile, protect.",
+    "morphology": "su_su_U nīthaḥ_nītha_SNM gha_gha_U saḥ_tad_SNM martyaḥ_martya_SNM yam_yad_SAM marutaḥ_marut_PNM yam_yad_SAM aryamā_aryaman_SNM mitraḥ_mitra_SNM pānti_pā_PPr3In adruhaḥ_adruh_PNM"
+  },
+  {
+    "index": 11210,
+    "sanskrit": "saṃvinmātraikasāreṣu ramyaṃ bhogeṣu nāma kim / avatiṣṭhe gatodvegasaṃvidvyomnyeva kevalam //",
+    "english": "I find my chief delight to consist in intelligence, and perceive no pleasure in worldly enjoyments, therefore I must rely only in my intellectual speculations, and abide without any anxiety, in the unclouded sphere of my spiritual felicity.",
+    "morphology": "saṃvid_saṃvid_Cp mātra_mātra_Cp eka_eka_Cp sāreṣu_sāra_PLM ramyam_ramya_SNNe bhogeṣu_bhoga_PLM nāma_nāma_ kim_ka_SNNe  / avatiṣṭhe_avasthā_SPr1In gata_gam_PaCp udvega_udvega_Cp saṃvid_saṃvid_Cp vyomni_vyoman_SLNe eva_eva_ kevalam_kev"
+  },
+  {
+    "index": 11211,
+    "sanskrit": "brāhmādīnām idam arthe taddhitaḥ / brahmādisaṃbandhitā ca stutyāropyate /",
+    "english": "In the words,\"Brāhma,\" etc, the nominal affix denotes relation; and the relationship of Brahma and the rest is ascribed to the marriage, with a view to eulogising it.",
+    "morphology": "brāhma_brāhma_Cp ādīnām_ādi_PGM idam_idam_SNNe arthe_artha_SLM taddhitaḥ_taddhita_SNM  / brahma_brahman_Cp ādi_ādi_Cp saṃbandhi_sambandhin_Cp tā_tā_SNF ca_ca_ stutyā_stuti_SIF āropyate_āropay_SPr3InPv  /"
+  },
+  {
+    "index": 11212,
+    "sanskrit": "saṃsthitir āśrayaḥ /",
+    "english": "\"Resting place\" support.",
+    "morphology": "saṃsthitiḥ_saṃsthiti_SNF"
+  },
+  {
+    "index": 11213,
+    "sanskrit": "sarve dharmāḥ ca āśramāṇām gatāḥ syuḥ kṣātre tyakte rāja dharme purāṇe",
+    "english": "Indeed, if these ancient duties belonging to the Kshatriyas be abandoned, all the duties in respect of all the modes of life, become lost.",
+    "morphology": "sarve_sarva_PNM dharmāḥ_dharma_PNM ca_ca_U āśramāṇām_āśrama_PGM gatāḥ_gam_PNPaPsM syuḥ_as_PPr3O kṣātre_kṣātra_SLM tyakte_tyaj_SLPaPsM rāja_rājan_MCp dharme_dharma_SLM purāṇe_purāṇa_SLM"
+  },
+  {
+    "index": 11214,
+    "sanskrit": "ahaṃ tāvadyathājñānaṃ yathāvastu yathākramam / yathāsvabhāvaṃ tatsarvaṃ vacmīdaṃ śrūyatāṃ budha //",
+    "english": "Hear me, O intelligent Rama! now expound to you all things according to my best knowledge of them, and agreeably to their nature and substance in the order of creation.",
+    "morphology": "aham_mad_SN tāvat_tāvat_ yathājñānam_yathājñānam_ yathāvastu_yathāvastu_ yathākramam_yathākramam_  / yathāsvabhāvam_yathāsvabhāvam_ tat_tad_SANe sarvam_sarva_SANe vacmi_vac_SPr1In idam_idam_SANe śrūyatām_śru_SPr3ImPv budha_budha_SVM  /"
+  },
+  {
+    "index": 11215,
+    "sanskrit": "saṃsāradṛṣṭiruditaṃ jñātalokaparāvaram / na rañjayati saccittaṃ jalalekhā yathāmbujam //",
+    "english": "The man of elevated mind, who has known the nature of superior and inferior souls (i.e., the divine and human spirits); is not affected by the sight of the visibles, any more than the lotus leaf, by the hue of its encompassing waters.",
+    "morphology": "saṃsāra_saṃsāra_Cp dṛṣṭiḥ_dṛṣṭi_SNF uditam_vad_SNPaNe jñāta_jñā_PaCp loka_loka_Cp parāvaram_parāvara_SNNe  / na_na_ rañjayati_rañjay_SPr3In sat_sat_Cp cittam_citta_SAM jalalekhā_jalalekhā_SNF yathā_yathā_ ambujam_ambuja_SAM "
+  }
+]

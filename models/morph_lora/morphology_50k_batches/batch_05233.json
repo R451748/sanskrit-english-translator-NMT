@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41856,
+    "sanskrit": "viśveṣām agne yajñānām hotā iti",
+    "english": "Thou art, O Agni, the Hotri of the universe and of sacrifices.",
+    "morphology": "viśveṣām_viśva_PGM agne_agni_SVM yajñānām_yajña_PGM hotā_hotṛ_SNM"
+  },
+  {
+    "index": 41857,
+    "sanskrit": "tatra vidhisādhanasyātrādhi [p.831] kārānānupalabdhis tāvad ihādhikriyate.",
+    "english": "(a) In the present instance, what is needed is a positive reason, hence there is no room for non-apprehension.",
+    "morphology": "tatra_tatra_"
+  },
+  {
+    "index": 41858,
+    "sanskrit": "ratnāni maṇayaḥ śambarapulindādibhyo 'py upāttāḥ śuddhās tadvad vidyādy apīti /",
+    "english": "\"Gems\" precious stones, even though obtained from such lowborn people as the Śabara, the Pulinda and so forth, are regarded as clean; similarly should learning be regarded.",
+    "morphology": "ratnāni_ratna_PNNe maṇayaḥ_maṇi_PNM śambara_śambara_Cp pulinda_pulinda_Cp ādibhyaḥ_ādi_PBM api_api_ upāttāḥ_upadā_PNPaM śuddhāḥ_śudh_PNPaM tadvat_tadvat_ vidyā_vidyā_Cp ādi_ādi_SNNe api_api_ iti_iti_"
+  },
+  {
+    "index": 41859,
+    "sanskrit": "yaḥ asya prathamaḥ vyānaḥ sā iyam bhūmiḥ //",
+    "english": "His first diffused breath is this Earth.",
+    "morphology": "yaḥ_yad_SNM asya_idam_SGM prathamaḥ_prathama_SNM vyānaḥ_vyāna_SNM sā_tad_SNF iyam_idam_SNF bhūmiḥ_bhūmi_SNF  /"
+  },
+  {
+    "index": 41860,
+    "sanskrit": "dvātriṃśat karaṇāni syuḥ yāni yuddhāni bhārata",
+    "english": "Indeed, those two and thirty kinds of separate manoeuvres that characterise encounters of that kind.",
+    "morphology": "dvātriṃśat_dvātriṃśat_SNF karaṇāni_karaṇa_PNNe syuḥ_as_PPr3O"
+  },
+  {
+    "index": 41861,
+    "sanskrit": "evaṃ kṛtvā nivṛttyantaṃ śāṃtyatītamanukramāt | hutvāhutitrayaṃ paścānmaṇḍale ca śivaṃ yajet ||",
+    "english": "32. In this manner after offering the Āhutis of Śāntyatīta upto the end of Nivṛtti he shall perform three Āhutis and worship Śiva in the Maṇḍala.",
+    "morphology": "evam_evam_ kṛtvā_kṛ_Co nivṛtti_nivṛtti_Cp antam_anta_SAM śāṃti_śānti_Cp atītam_atī_SAPaM anukramāt_anukrama_SBM  / hutvā_hu_Co āhuti_āhuti_Cp trayam_traya_SANe paścāt_paścāt_ maṇḍale_maṇḍala_SLM ca_ca_ śivam_śiva_SAM yaje"
+  },
+  {
+    "index": 41862,
+    "sanskrit": "gaṇeśaṃ vāyave 'bhyarcya haraṃ pañcāmṛtādibhiḥ // snāpayet pūrvavat prārcya kuṇḍe ca śivapāvakaṃ / vidhivacca caruṃ kṛtvā sampātāhutiśodhitaṃ //",
+    "english": "lord of the gaṇas in the northwest and Lord Hara Viṣṇu with the five sweet things milk, sugar, ghee, curd and honey, the fire sacred to Śiva should be worshipped in the sacrificial pit as before and bathed after having made the sacrificial gruel duly purified by the sampāta residual oblation.",
+    "morphology": "gaṇeśam_gaṇeśa_SAM vāyave_vāyu_SDM abhyarcya_abhyarc_Co haram_hara_SAM pañcāmṛta_pañcāmṛta_Cp ādibhiḥ_ādi_PIM  // snāpayet_snāpay_SPr3O pūrvavat_pūrvavat_ prārcya_prārc_Co kuṇḍe_kuṇḍa_SLNe ca_ca_ śiva_śiva_Cp pāvakam_p"
+  },
+  {
+    "index": 41863,
+    "sanskrit": "gatvā vṛṣṇi andhaka kulam dhanurvedam grahīṣyati astrāṇi ca vicitrāṇi nīti śāstram ca kevalam",
+    "english": "Taking up his residence with the Vrishnis and Andhakas, he will obtain from them the science of arms, indeed, diverse wonderful weapons and the whole of the science of politics and morality.",
+    "morphology": "gatvā_gam_Co vṛṣṇi_vṛṣṇi_MCp andhaka_andhaka_MCp kulam_kula_SANe dhanurvedam_dhanurveda_SAM grahīṣyati_grah_SFu3In astrāṇi_astra_PANe ca_ca_U vicitrāṇi_vicitra_PANe nīti_nīti_FCp śāstram_śāstra_SANe ca_ca_U kevalam_kevala_SANe"
+  }
+]

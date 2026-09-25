@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24192,
+    "sanskrit": "sneha ādibhiḥ kriyā yogaiḥ na tathā lepanaiḥ api",
+    "english": "An act of venesection, properly performed, gives more speedy relief than that derived from the application of medicated oil etc., or of plaster as well.",
+    "morphology": "sneha_sneha_MCp ādibhiḥ_ādi_PIM kriyā_kriyā_FCp yogaiḥ_yoga_PIM na_na_U tathā_tathā_U lepanaiḥ_lepana_PINe"
+  },
+  {
+    "index": 24193,
+    "sanskrit": "śarīraṃ caiva vācaṃ ca buddhīndriyamanāṃsi ca / niyamya prāñjalis tiṣṭhed vīkṣamāṇo guror mukham //",
+    "english": "Having under control his body and his speech, as also his organs of sensation and his hind, he should stand with joined palms, looking at the face of his Teacher.",
+    "morphology": "śarīram_śarīra_SANe ca_ca_ eva_eva_ vācam_vāc_SAF ca_ca_ buddhīndriya_buddhīndriya_Cp manāṃsi_manas_PANe ca_ca_  / niyamya_niyam_Co prāñjaliḥ_prāñjali_SNM tiṣṭhet_sthā_SPr3O vīkṣamāṇaḥ_vīkṣ_SNPaPrM guroḥ_guru_SGM mukham_m"
+  },
+  {
+    "index": 24194,
+    "sanskrit": "na ca paṭuvijñāne cyutyupapattī yujyete /",
+    "english": "the other sensations are active and, as a consequence, an aṛising and a dying consciousness cannot be associated with them, for, in this hypothesis, it would itself be active.",
+    "morphology": "na_na_ ca_ca_ paṭu_paṭu_Cp vijñāne_vijñāna_SLNe cyuti_cyuti_Cp upapattī_upapatti_DuNF yujyete_yuj_DuPr3InPv  /"
+  },
+  {
+    "index": 24195,
+    "sanskrit": "aṣṭavarṣaṃ brāhmāṇamupanīyata tamadhyāpayītetyatrādhyāpanaṃ niyogaviṣayaḥ pratibhāsate|",
+    "english": "In the Smṛti rule,[12] \"Let him admit as a pupil the Brahman lad when eight years old (by investing him with the sacred cord), let him instruct him,\" the object of the direction appears to be the pupil's instruction.",
+    "morphology": "aṣṭa_aṣṭan_Cp varṣam_varṣa_SAM brāhmāṇam_brāhmaṇa_SAM upanīyata_upanī_S3ImInPv tam_tad_SAM adhyāpayīta_adhyāpay_SPr3O iti_iti_ atra_atra_ adhyāpanam_adhyāpana_SNNe niyoga_niyoga_Cp viṣayaḥ_viṣaya_SNM pratibhāsate_pratibhās"
+  },
+  {
+    "index": 24196,
+    "sanskrit": "yathā eva hi mahābhāgāḥ kaunteyāḥ mama sāṃpratam tathā eva vāsudevasya pāṇḍu putrāḥ na saṃśayaḥ",
+    "english": "For the illustrious sons of Pandu now are to me as they are, without doubt, to Vasudeva.",
+    "morphology": "yathā_yathā_U eva_eva_U hi_hi_U mahābhāgāḥ_mahābhāga_PNM kaunteyāḥ_kaunteya_PNM mama_mad_SG sāṃpratam_sāṃpratam_U tathā_tathā_U eva_eva_U vāsudevasya_vāsudeva_SGM pāṇḍu_pāṇḍu_MCp putrāḥ_putra_PNM na_na_U saṃśayaḥ_sa"
+  },
+  {
+    "index": 24197,
+    "sanskrit": "devaścāyaṃ mahīyānvai tasyārthe pūjanaṃ tvidam | gaṃdhacandanapuṣpādi kimarthaṃ pratimāṃ vinā ||",
+    "english": "66. This lord is very great and this is the mode of worship of that lord. If there is no idol, of what avail are scents, sandal paste, flowers, etc.?",
+    "morphology": "devaḥ_deva_SNM ca_ca_ ayam_idam_SNM mahīyān_mahīyas_SNM vai_vai_ tasya_tad_SGM arthe_artha_SLM pūjanam_pūjana_SNNe tu_tu_ idam_idam_SNNe  / gandha_gandha_Cp candana_candana_Cp puṣpa_puṣpa_Cp ādi_ādi_SNNe kim_ka_SNNe artham_artha_SNNe pratimām"
+  },
+  {
+    "index": 24198,
+    "sanskrit": "māsakau dvau trayaś caiva māse māse pradāpayet //",
+    "english": "Two or three māṣakas a particular weight of gold should be given every month.",
+    "morphology": "māsakau_māsaka_DuNM dvau_dvi_DuNM trayaḥ_tri_PNM ca_ca_ eva_eva_ māse_māsa_SLM māse_māsa_SLM pradāpayet_pradāpay_SPr3O  /"
+  },
+  {
+    "index": 24199,
+    "sanskrit": "pradyumno yuyudhānaśca gatassāṃbotha sāraṇaḥ | naṃdopanaṃdabhadrādyā rāmakṛṣṇānuvartinaḥ ||",
+    "english": "6. Pradyumna, Yuyudhāna, Sāmba, Sāraṇa, Nanda, Upananda, Bhadra and others following Rāma and Kṛṣṇa went there.",
+    "morphology": "pradyumnaḥ_pradyumna_SNM yuyudhānaḥ_yuyudhāna_SNM ca_ca_ sāraṇaḥ_sāraṇa_SNM  / naṃda_nanda_Cp upanaṃda_upananda_Cp bhadra_bhadra_Cp ādyāḥ_ādya_PNM rāmakṛṣṇa_rāmakṛṣṇa_Cp anuvartinaḥ_anuvartin_PNM  /"
+  }
+]

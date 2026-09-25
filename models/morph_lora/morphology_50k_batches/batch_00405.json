@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3232,
+    "sanskrit": "tān maharṣīn nāmato nirdiśati /",
+    "english": "The ten great sages are mentioned by name in verse.",
+    "morphology": "tān_tad_PAM"
+  },
+  {
+    "index": 3233,
+    "sanskrit": "sa bhagavantam ikṣūṇi yācati |",
+    "english": "and asked the Fortunate One for sugar-cane.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 3234,
+    "sanskrit": "garuḍo dayitaṃ putraṃ mayūraṃ citrabarhiṇam | aruṇastāmracūḍaṃ ca pradadau caraṇāyudham || 41 ||",
+    "english": "41. Garuḍa gave his beloved son Mayūra (‘Peacock’) having a cluster of feathers of various colours as tail. Aruṇa gave him a cock Tāmracūḍa (‘having copper-coloured crest’).",
+    "morphology": "garuḍaḥ_garuḍa_SNM dayitam_dayita_SAM putram_putra_SAM mayūram_mayūra_SAM citra_citra_Cp barhiṇam_barhiṇa_SAM  / aruṇaḥ_aruṇa_SNM tāmracūḍam_tāmracūḍa_SAM ca_ca_ pradadau_pradā_SPs3In caraṇa_caraṇa_Cp āyudha_āyudha_SANe"
+  },
+  {
+    "index": 3235,
+    "sanskrit": "skaṃda uvāca | śṛṇvagastya mahābhāga kāśyāṃ brahmaṇyapisthite | giriśaściṃtayāmāsa bhṛśamudvignamānasaḥ || 2 ||",
+    "english": "2. O Agastya, O blessed one, when Brahmā too stayed at Kāśī, Giriśa who was extremely afflicted in mind, began to think.",
+    "morphology": "skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / śṛṇu_śru_SPr2Im agastya_agastya_SVM mahābhāga_mahābhāga_SVM kāśyām_kāśi_SLF brahmaṇi_brahman_SLM apisthite_apiṣṭhā_SLPaM  / giriśaḥ_giriśa_SNM ciṃtayāmāsa_cit_SPs3InPe bhṛśam_bh"
+  },
+  {
+    "index": 3236,
+    "sanskrit": "tāsāṃ madhye ca dīptānāṃ dadarśaikāṃ sa kanyakām / tārāṇām iva śītāṃśulekhāṃ locanahārinīm // vikasatpadmavadanāṃ lolalocanaṣaṭpadām / salīlahaṃsagamanāṃ bahadutpalasaurabhām // taraṅgahāritrivalīlatālaṃkṛtamadhyamām / sākṣādiva smarodyānavāpīśobhādhidevatām //",
+    "english": "And in the middle of those glittering ones he saw a maiden charming to the eye, like a digit of the moon in the middle of the stars, with face like an opening lotus, with rolling eyes like circling bees, with the swimming gait of a swan, diffusing the perfume of a blue lotus, with dimples charming like waves, with waist adorned with a string of pearls, like the presiding goddess of the lovely lake in Kāma’s garden, appearing in bodily form.",
+    "morphology": "tāsām_tad_PGF madhye_madhya_SLNe ca_ca_ dīptānām_dīp_PGPaF dadarśa_dṛś_SPs3In ekām_eka_SAF sa_tad_SNM kanyakām_kanyakā_SAF  / tārāṇām_tārā_PGF iva_iva_ śītāṃśu_śītāṃśu_Cp lekhām_lekhā_SAF locana_locana_Cp hārinīm_hārin_"
+  },
+  {
+    "index": 3237,
+    "sanskrit": "ucitāṃ saṃvidhitsustāṃ vāsanāṃ tādṛśīṃ śrayet | dīkṣāṃ prati na daiśikaḥ | āyātaśaktipātasya avajñāṃ vidadhīteti śaṃbhunājñā nirūpitā | svadhanena daridrasya kuryāddīkṣāṃ guruḥ svayam |",
+    "english": "b-a In regard to the initiation of the student having the prospect of descent of the force of consciousness on him, the teacher should not be negligent; this is the imperative of Sambhu. b-a In the case of the student being poor, the teacher should perform the rite of his initiation with the use of his own money and in case of he himself being poor, the rite may be performed with only dūrvā grass and water or alternatively the student may take to begging. b-a NOTE: Dūrvā – Latin name: Cynodon dactylon, syn.",
+    "morphology": "ucitām_ucita_SAF saṃvidhitsuḥ_saṃvidhitsu_SNM tām_tad_SAF vāsanām_vāsanā_SAF tādṛśīm_tādṛśa_SAF śrayet_śri_SPr3O  / dīkṣām_dīkṣā_SAF prati_prati_ na_na_ daiśikaḥ_daiśika_SNM  / āyāta_āyā_PaCp śaktipātasya_śaktipāt"
+  },
+  {
+    "index": 3238,
+    "sanskrit": "ity atra nanditasuhṛtsvajanāvarodho vatseśvarasya tanayo 'tha sa tānyahāni / ratnaprabhāmadanamañcukayostṛtīyāṃ karpūrikāṃ samadhigamya sukhaṃ nināya //",
+    "english": "Thus, having delighted his friends, followers and wives, and obtained a third wife, Karpūrikā, in addition to Ratnaprabhā and Madanamañcukā, the son of the King of Vatsa spent those days in happiness.",
+    "morphology": "iti_iti_ atra_atra_ nandita_nand_PaCp suhṛd_suhṛd_Cp sva_sva_Cp jana_jana_Cp avarodhaḥ_avarodha_SNM vatsa_vatsa_Cp īśvarasya_īśvara_SGM tanayaḥ_tanaya_SNM atha_atha_ sa_tad_SNM tāni_tad_PANe ahāni_ahar_PANe  / ratnaprabhā_ratnaprabhā_Cp mad"
+  },
+  {
+    "index": 3239,
+    "sanskrit": "etaiḥ doṣaiḥ vinirmuktam yantram aṣṭādaśa aṅgulam | praśastam bhiṣajā jñeyam tat hi karmasu yojayet || dṛśyam siṃha mukha ādyaiḥ tu gūḍham kaṅka mukha ādibhiḥ",
+    "english": "The use of an instrument devoid of the abovesaid defects and measuring eighteen fingers in length, is commended in surgical operations, Shalyas which are manifest and visible to the naked eye, should be extracted with the instruments of the Sinha-mukha (lion-mouthed) type, while those that can not be seen, should be removed with the help of the Kanka-mukhas (heron-mouthed) instruments, etc., according to the directions laid down in the Shastras medical or surgical works of recognised authority).",
+    "morphology": "etaiḥ_etad_PIM doṣaiḥ_doṣa_PIM vinirmuktam_vinirmuc_SNPaPsNe yantram_yantra_SNNe aṣṭādaśa_aṣṭādaśan_Cp aṅgulam_aṅgula_SNNe  / praśastam_praśaṃs_SNPaPsNe bhiṣajā_bhiṣaj_SIM jñeyam_jñā_SNNeGd tat_tad_SANe hi_hi_U karmasu_k"
+  }
+]

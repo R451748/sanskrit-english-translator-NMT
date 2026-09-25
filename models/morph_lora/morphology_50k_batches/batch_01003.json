@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8016,
+    "sanskrit": "yadā yaugapadyena sadasadrūpe vivakṣati sāmānyaviśeṣarūpaṃ vā tadā tasya rūpaṃ vyavasthāpyate / atha krameṇa vivakṣati sadrūpamasadrūpaṃ sāmānyaviśeṣaṃ vā tadāsya tadvyavasthāpyate /",
+    "english": "so that when one wishes to speak of the ‘existence’ and the ‘non-existence’ aspects of a thing, or the ‘General’ and ‘Particular’ aspects of it, simultaneously, he emphasises its form in that way. If he wishes to speak successively, one after the other, of the ‘existence’ and ‘non-existence’ aspects, or the ‘General’ and ‘Particular’ aspects then he emphasises that form.",
+    "morphology": "yadā_yadā_ yaugapadyena_yaugapadya_SINe sat_as_PaPrCp asat_asat_Cp rūpe_rūpa_DuANe vivakṣati_vivakṣ_SPr3In sāmānya_sāmānya_Cp viśeṣa_viśeṣa_Cp rūpam_rūpa_SANe vā_vā_ tadā_tadā_ tasya_tad_SGM rūpam_rūpa_SNNe vyavasthāpyate_vyavast"
+  },
+  {
+    "index": 8017,
+    "sanskrit": "nātisauhityaṃ tṛptiṃ na kuryāt /",
+    "english": "\"He shall not commit gluttony\" Eat too much.",
+    "morphology": "na_na_ ati_ati_ sauhityam_sauhitya_SANe"
+  },
+  {
+    "index": 8018,
+    "sanskrit": "yathā apsaraḥ gaṇāḥ phalam sukham mahā ṛṣibhiḥ saha tathā āpnuvanti karmataḥ vimāna kāma gāminaḥ",
+    "english": "As Apsaras and great Rishis attain to fruits of great felicity, after the same manner, men of righteous deeds, as the fruits of their respective righteous acts, obtain in the other world cars of transcendent brightness that move everywhere at the will of the riders.",
+    "morphology": "yathā_yathā_U apsaraḥ_apsaras_FCp gaṇāḥ_gaṇa_PNM phalam_phala_SANe sukham_sukha_SANe mahā_mahat_Cp ṛṣibhiḥ_ṛṣi_PIM saha_saha_U tathā_tathā_U āpnuvanti_āp_PPr3In karmataḥ_karman_SBNe vimāna_vimāna_SVM kāma_kāma_SVM gāminaḥ"
+  },
+  {
+    "index": 8019,
+    "sanskrit": "somaāpyāyanaḥ śuklaḥ // somaavacchedano bahulaḥ //",
+    "english": "That paksha during which the moon waxes is white sukla and that paksha during which the moon wanes is bahula",
+    "morphology": "soma_soma_Cp āpyāyanaḥ_āpyāyana_SNM śuklaḥ_śukla_SNM  // soma_soma_Cp avacchedanaḥ_avacchedana_SNM bahulaḥ_"
+  },
+  {
+    "index": 8020,
+    "sanskrit": "samaḥ na tvam dvijātibhyaḥ śreṣṭham viddhi narādhipa",
+    "english": "Thou art not equal to the Brahmanas. Do thou, O king, seek thy own good.",
+    "morphology": "samaḥ_sama_SNM"
+  },
+  {
+    "index": 8021,
+    "sanskrit": "adhaḥ ṣaṭkaṃ dvibhāgantu kaṇṭhaṃ kuryāttribhāgakam //",
+    "english": "The lower six divisions should be made to comprise two parts. The neck should be three parts.",
+    "morphology": "adhas_adhas_ ṣaṭkam_ṣaṭka_SANe kaṇṭham_kaṇṭha_SAM kuryāt_kṛ_SPr3O tri_tri_Cp bhāgakam_bhāgaka_SAM  /"
+  },
+  {
+    "index": 8022,
+    "sanskrit": "katham tvā ninditam karma kārayeyam nṛpa ātmaja vaiśampāyanaḥ uvāca evam uktaḥ sa pārthena rathāt praskandya kuṇḍalī",
+    "english": "Heir to the king of the Matsyas, and born in a noble family, why should I, O prince, make thee do such a reproachable deed?' \"Vaisampayana said, 'Thus addressed by Partha, Virata's son, decked in ear-rings, alighted from the car, and climbed up that Sami tree reluctantly.",
+    "morphology": "katham_katham_U tvā_tvad_SA ninditam_nind_SAPaPsNe karma_karman_SANe kārayeyam_kāray_SPr1O nṛpa_nṛpa_MCp ātmaja_ātmaja_SVM vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In evam_evam_U uktaḥ_vac_SNPaPsM sa_tad_SNM pārthena_pārtha_SIM rath"
+  },
+  {
+    "index": 8023,
+    "sanskrit": "kasya cit tu atha kālasya kuru rājaḥ yudhiṣṭhiraḥ śuśrāva vṛṣṇi cakrasya mausale kadanam kṛtam",
+    "english": "A little while after, the Kuru king Yudhishthira heard of the wholesale carnage of the Vrishnis in consequence of the iron bolt.",
+    "morphology": "kasya_ka_SGM cit_cit_U tu_tu_U atha_atha_U kālasya_kāla_SGM kuru_kuru_MCp rājaḥ_rāja_SNM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM śuśrāva_śru_SPs3In vṛṣṇi_vṛṣṇi_MCp cakrasya_cakra_SGNe mausale_mausala_SLM kadanam_kadana_SANe kṛtam_k"
+  }
+]

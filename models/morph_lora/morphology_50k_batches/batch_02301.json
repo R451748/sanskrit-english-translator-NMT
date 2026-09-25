@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18400,
+    "sanskrit": "aṅgadī baddha mukuṭaḥ diśaḥ prajvālayan iva",
+    "english": "And furnished with armlets, and decked with a diadem, he came smiling, and illumining all the directions.",
+    "morphology": "aṅgadī_aṅgadin_SNM baddha_bandh_PaPsCp mukuṭaḥ_mukuṭa_SNM diśaḥ_diś_PAF prajvālayan_prajvālay_SNPaPrM"
+  },
+  {
+    "index": 18401,
+    "sanskrit": "gaurīmantraḥ sarvakaraḥ homāddhyānājjapārcanāt //",
+    "english": "This mantra of Goddess Gaurī would yield all things when it is used for doing oblation, meditation, repetition and worship.",
+    "morphology": "__gaurī_U __mantra_U sarva_sarva_U __kara_U __homa_U __dhyāna_U __japa_U __arcana_U  /"
+  },
+  {
+    "index": 18402,
+    "sanskrit": "īśvara uvāca | tato gacchenmahādevi kṣetrapeśvaramuttamam | siddheśvara samīpasthaṃ pūrvasminnātidūrataḥ || 1 ||",
+    "english": "Īśvara said: 1-3. Thereafter, O great goddess, a pilgrim should go to the excellent shrine Kṣetrapāleśvara situated in the vicinity of Siddheśvara, not very far in the eastern direction.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O mahādevi_mahādevī_SVF kṣetrapeśvaram_kṣetrapeśvara_SANe uttamam_uttama_SANe  / siddheśvara_siddheśvara_SVM samīpa_samīpa_Cp stham_stha_SANe pūrvasmin_pūrva_SLNe na_"
+  },
+  {
+    "index": 18403,
+    "sanskrit": "kṛṣṇadvaipāyanāt tāta gṛhīta upaniṣad mayā",
+    "english": "I have obtained a science from Krishna Dwaipayana.",
+    "morphology": "kṛṣṇadvaipāyanāt_kṛṣṇadvaipāyana_SBM tāta_tāta_SVM gṛhīta_grah_SNPaF upaniṣad_upaniṣad_SNF"
+  },
+  {
+    "index": 18404,
+    "sanskrit": "anaikāntikatāklṛpter na tepi vinibandhanam // niyamārthakriyāśaktir bhāvānāṃ pratyayodbhavā /",
+    "english": "hence these cannot serve to make our reason ‘inconclusive’, in the case of all entities, their restricted capacity for effective action must be due to some cause;",
+    "morphology": "anaikāntika_anaikāntika_Cp tā_tā_Cp klṛpteḥ_klṛpti_SBF na_na_ te_tad_PNM api_api_ vinibandhanam_vinibandhana_SNNe  // niyama_niyama_Cp artha_artha_Cp kriyā_kriyā_Cp śaktiḥ_śakti_SNF bhāvānām_bhāva_PGM pratyaya_pratyaya_Cp udbhavā_udbha"
+  },
+  {
+    "index": 18405,
+    "sanskrit": "prakṛtim ca api vettha asya vikṛtim ca api bhūyasīm",
+    "english": "Thou also well knowest their ordinary states, as well as the great changes they undergo.",
+    "morphology": "prakṛtim_prakṛti_SAF ca_ca_U api_api_U vettha_vid_SPs2In asya_idam_SGNe vikṛtim_vikṛti_SAF ca_ca_U api_api_U bhūyasīm_bhūyas_SAF"
+  },
+  {
+    "index": 18406,
+    "sanskrit": "surā vai malam annānāṃ pāpmā ca malam ucyate / tasmād brāhmaṇarājanyau vaiśyaś ca na surāṃ pibet //",
+    "english": "Sura, indeed, is the dirty refuse (mala) of grain, sin also is called dirt (mala); hence a Brahmana, a Kshatriya, and a Vaisya shall not drink Sura.",
+    "morphology": "surā_surā_SNF vai_vai_ malam_mala_SNNe annānām_anna_PGNe pāpmā_pāpman_SNM ca_ca_ malam_mala_SNNe ucyate_vac_SPr3InPv  / tasmāt_tasmāt_ brāhmaṇa_brāhmaṇa_Cp rājanyau_rājanya_DuNM vaiśyaḥ_vaiśya_SNM ca_ca_ na_na_ surām_surā_SAF pibet_p"
+  },
+  {
+    "index": 18407,
+    "sanskrit": "pitāmaho'si devānāmṛṣīṇāṃ prapitāmahaḥ | kathaṃ na te trapā jātā ātmanaḥ paśyatastanum || 72 ||",
+    "english": "You are the grandfather of Devas and the great-grandfather of the sages. How was it that you were not ashamed to see your own body?",
+    "morphology": "pitāmahaḥ_pitāmaha_SNM asi_as_SPr2In devānām_deva_PGM ṛṣīṇām_ṛṣi_PGM prapitāmahaḥ_prapitāmaha_SNM  / katham_katham_ na_na_ te_tvad_SG trapā_trapā_SNF jātā_jan_SNPaF ātmanaḥ_ātman_SGM paśyataḥ_dṛś_SGPaPrM tanum_tanu_SAF  "
+  }
+]

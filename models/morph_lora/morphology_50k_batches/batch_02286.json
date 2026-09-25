@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18280,
+    "sanskrit": "agnimūrdhetimantreṇa yajedvā āgneya namaḥ /",
+    "english": "One should worship Agni with the sacred syllable agnir mūrddhā. Salutations to Agni.",
+    "morphology": "agni_agni_Cp mūrdhā_mūrdhan_SNM iti_iti_ mantreṇa_mantra_SIM yajet_yaj_SPr3O vai_vai_ āgneya_āgneya_SVM namaḥ_namas_SNNe"
+  },
+  {
+    "index": 18281,
+    "sanskrit": "vicitradehairvaraśāpayogāddṛśyānyanantāni mayā mahātman / janmāntarāvartavivartanāni dṛḍhaikacittena varātkṛśānoḥ //",
+    "english": "It was by favour of the god of fire, and by the good and bad turns of fate; that I have seen a great many scenes, in my course in various forms and lives, like the revolving waters in a whirlpool, with a calm and constant and resolute mind.",
+    "morphology": "vicitra_vicitra_Cp dehaiḥ_deha_PIM vara_vara_Cp śāpa_śāpa_Cp yogāt_yoga_SBM dṛśyāni_dṛś_PNNeGd anantāni_ananta_PNNe mayā_mad_SI mahātman_mahātman_SVM  / janma_janman_Cp antara_antara_Cp āvarta_āvarta_Cp vivartanāni_vivartana_PNNe ā_ā"
+  },
+  {
+    "index": 18282,
+    "sanskrit": "arjunaḥ kauravam sainyam arjunam ca api kauravāḥ nānā śastra samāvāpaiḥ anyonyam paryapīḍayan",
+    "english": "Arjuna began to afflict the Kauravas, and the Kauravas began to afflict Arjuna, with diverse kinds of weapons.",
+    "morphology": "arjunaḥ_arjuna_SNM kauravam_kaurava_SANe sainyam_sainya_SANe arjunam_arjuna_SAM ca_ca_U api_api_U kauravāḥ_kaurava_PNM nānā_nānā_U śastra_śastra_NeCp samāvāpaiḥ_samāvāpa_PIM anyonyam_anyonya_SAM"
+  },
+  {
+    "index": 18283,
+    "sanskrit": "devānvā eṣa upāvartate yo dīkṣate sa devatānāmeko bhavati na vai devā sarveṇeva saṃvadante brāhmaṇena vaiva rājanyena vā vaiśyena vā te hi yajñiyāstasmādyadyenaṃ śūdreṇa saṃvādo vindedeteṣāmevaikam brūyādimamiti vicakṣvemamiti vicakṣvetyeṣa u tatra dīkṣitasyopacāraḥ //",
+    "english": "Let him not commune with every one; for he who is consecrated draws nigh to the gods, and becomes one of the deities. Now the gods do not commune with every one, but only with a Brahman, or a. Râganya, or a Vaisya; for these are able to sacrifice. Should there be occasion for him to converse with a Sûdra, let him say to one of those, 'Tell this one so and so! tell this one so and so!'This is the rule of conduct for the consecrated in such a case.",
+    "morphology": "devān_deva_PAM vai_vai_ eṣaḥ_etad_SNM upāvartate_upāvṛt_SPr3In yaḥ_yad_SNM dīkṣate_dīkṣ_SPr3In sa_tad_SNM devatānām_devatā_PGF ekaḥ_eka_SNM bhavati_bhū_SPr3In na_na_ vai_vai_ devā_deva_DuNM sarveṇa_sarva_SIM iva_iva_ saṃvadante_"
+  },
+  {
+    "index": 18284,
+    "sanskrit": "nādṛṣṭe 'smin sa dṛśyate // 22d",
+    "english": "Therefore he says: If this is not seen, that is not seen.",
+    "morphology": "na_na_ a_a_ dṛṣṭe_dṛś_SLPaM a_a_ "
+  },
+  {
+    "index": 18285,
+    "sanskrit": "iti śrīviṣṇumahāpurāṇe pañcamāṃśa evaviṃśodhyāyaḥ",
+    "english": "The mighty Kansa had married the two daughters of Jarāsandha, one named Asti, the other Prāptī.",
+    "morphology": "iti_iti_ śrī_śrī_Cp viṣṇu_viṣṇu_Cp mahāpurāṇe_mahāpurāṇa_SLNe pañcama_pañcama_Cp aṃśe_aṃśa_SLM eva_eva_ viṃśaḥ_viṃśa_SNM __adhyāya_SNM"
+  },
+  {
+    "index": 18286,
+    "sanskrit": "tad uktam [pravartakatvaṃ tu śabdārthaḥ sarvatrāparityāgāt] iti /",
+    "english": "Thus, he who says 'Do this, do this' causes another to do this.",
+    "morphology": "__tad_U __vac_PaU __pravartaka_U __tva_U tu_tu_U __śabda_U __artha_U __sarvatra_U __aparityāga_U"
+  },
+  {
+    "index": 18287,
+    "sanskrit": "na tu pāśavasāṃkhyīyavaiṣṇavādidvitādṛśā | aprāptadhruvadhāmāno vijñānākalatājuṣaḥ |",
+    "english": "It is exclusive of those who have done so under the ambit of the dualistic disciplines such as Sānkhya and Vaisnavism.",
+    "morphology": "na_na_ tu_tu_ pāśava_pāśava_Cp sāṃkhyīya_sāṃkhyīya_Cp vaiṣṇava_vaiṣṇava_Cp ādi_ādi_Cp dvi_dvi_Cp tādṛśā_tādṛś_SIF  / a_a_ __pṛ_P_PaPrF __ka_PNF __ka_PNF"
+  }
+]

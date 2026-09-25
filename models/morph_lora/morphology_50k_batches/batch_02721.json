@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21760,
+    "sanskrit": "devānvidrāvitāndṛṣṭvā daityassāgaranaṃdanaḥ | śaṃkhabherī jayaravaiḥ praviveśāmarāvatīm ||",
+    "english": "64. On seeing the gods routed, the Asura, Jalandhara, the son of the ocean, entered Amarāvatī[8] with sounds of victory from the conches and drums.",
+    "morphology": "devān_deva_PAM vidrāvitān_vidrāvay_PAPaM dṛṣṭvā_dṛś_Co daityaḥ_daitya_SNM sāgara_sāgara_Cp nandanaḥ_nandana_SNM  / śaṅkha_śaṅkha_Cp bherī_bherī_SNF jaya_jaya_Cp ravaiḥ_rava_PIM praviveśa_praviś_SPs3In amarāvatīm_amarāvat"
+  },
+  {
+    "index": 21761,
+    "sanskrit": "prathamaṃ śaiśavo bhāvaḥ kaumārākhyo dvitīyakaḥ | tṛtīyo yauvano bhāvaścaturtho vārddhakastathā ||",
+    "english": "42. (In all living beings) the first stage shall be infancy, the second childhood, the third youth and the fourth stage shall be old age.",
+    "morphology": "prathamam_prathamam_ śaiśavaḥ_śaiśava_SNM bhāvaḥ_bhāva_SNM kaumāra_kaumāra_Cp ākhyaḥ_ākhyā_SNM dvitīyakaḥ_dvitīyaka_SNM  / tṛtīyaḥ_tṛtīya_SNM yauvanaḥ_yauvana_SNM bhāvaḥ_bhāva_SNM caturthaḥ_caturtha_SNM vārddhakaḥ_v"
+  },
+  {
+    "index": 21762,
+    "sanskrit": "yad jātīyaiḥ pramāṇaiḥ tu yad jātīya artha darśanam | dṛṣṭam samprati lokasya tathā kāla antare api abhūt ||",
+    "english": "As a matter of fact, the perception of certain things through certain causes in the past was exactly as it is found to appear at the present time.”",
+    "morphology": "yad_yad_Cp jātīyaiḥ_jātīya_PINe pramāṇaiḥ_pramāṇa_PINe tu_tu_U yad_yad_Cp jātīya_jātīya_Cp artha_artha_MCp darśanam_darśana_SNNe  / dṛṣṭam_dṛś_SNPaPsNe samprati_samprati_U lokasya_loka_SGM tathā_tathā_U kāla_kāla_MCp antare"
+  },
+  {
+    "index": 21763,
+    "sanskrit": "evam etat saubaleyi na etat jātu anyathā bhavet",
+    "english": "But my words can never be futile.",
+    "morphology": "evam_evam_U ḥ_ḥ_U"
+  },
+  {
+    "index": 21764,
+    "sanskrit": "na caitāvatā śabdasvarūpāropaprasaṅgaḥ /",
+    "english": "Nor does this involve the imposition of the form of the word upon the sacrifice.",
+    "morphology": "na_na_ ca_ca_ etāvatā_etāvat_SIM ḥ_ḥ_SNM "
+  },
+  {
+    "index": 21765,
+    "sanskrit": "tatra upaviṣṭāḥ te sarve pāṇḍavāḥ kauravāḥ ca ha upacchannān bahūn kāmān te bhuñjanti tatas tatas",
+    "english": "The Kauravas and the Pandavas sat down and began to enjoy the things provided for them.",
+    "morphology": "tatra_tatra_U upaviṣṭāḥ_upaviś_PNPaPsM te_tad_PNM sarve_sarva_PNM pāṇḍavāḥ_pāṇḍava_PNM kauravāḥ_kaurava_PNM ca_ca_U ha_ha_U upacchannān_upacchad_PAPaPsM bahūn_bahu_PAM kāmān_kāma_PAM te_tad_PNM bhuñjanti_bhuj_PPr3In tatas_tata"
+  },
+  {
+    "index": 21766,
+    "sanskrit": "viśvāmitra uvāca | praśnabhāro mahāneṣa tvayā me parikīrtitaḥ | tathāpi ca vadiṣyāmi yadi te kautukaṃ nṛpa | yasmātsañjāyate doṣaścūrṇapatrasya bhakṣaṇāt || 11 ||",
+    "english": "Viśvāmitra said: 11. The importance of the questions asked by you is great. Still, O king, if you have any curiosity, I shall explain to you how evil results from chewing the broken leaves.",
+    "morphology": "viśvāmitraḥ_viśvāmitra_SNM uvāca_vac_SPs3In  / praśna_praśna_Cp bhāraḥ_bhāra_SNM mahān_mahat_SNM eṣa_etad_SNM tvayā_tvad_SI me_mad_SG parikīrtitaḥ_parikīrtay_SNPaM  / tathā_tathā_ api_api_ ca_ca_ vadiṣyāmi_vad_SFu1In yadi_yadi_ te"
+  },
+  {
+    "index": 21767,
+    "sanskrit": "yathāśaktyā pradadyādvai kanakaṃ vastrameva ca | aśaktaḥ kārtike māsi vrataṃ kuryātpuroditam || 51 ||",
+    "english": "A man not capable of the full (-timed) austerities should perform the austerities in the month of Kārttika as mentioned before.",
+    "morphology": "yathāśaktyā_yathāśaktyā_ pradadyāt_pradā_SPr3O vai_vai_ kanakam_kanaka_SANe vastram_vastra_SANe eva_eva_ ca_ca_  / aśaktaḥ_aśakta_SNM kārtike_kārttika_SLM māsi_mās_SLM vratam_vrata_SANe kuryāt_kṛ_SPr3O purā_purā_ uditam_vad_SAPaNe "
+  }
+]

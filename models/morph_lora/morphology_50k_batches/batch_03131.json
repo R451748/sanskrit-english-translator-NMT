@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25040,
+    "sanskrit": "vayam hi vām havāmahe vipanyavaḥ viprāsaḥ vāja sātaye tā valgū iti dasrā puru daṁsasā dhiyā aśvinā śruṣṭī ā gatam",
+    "english": "For we the priestly singers, fain tohymn your praise, invoke you for the gain of strength. So, wondrous, fair, and famed for great deeds come to us, through our hymn, Aṣvins, when ye hear.",
+    "morphology": "vayam_mad_PN hi_hi_U vām_tvad_DuA havāmahe_hvā_PPr1In vipanyavaḥ_vipanyu_PNM viprāsaḥ_vipra_PNM vāja_vāja_MCp sātaye_sāti_SDF tā_tad_DuNM valgū_valgu_DuNM iti_iti_U dasrā_dasra_DuVM puru_puru_Cp daṁsasā_daṃsas_DuVM dhiyā_dhī_SIF aśvi"
+  },
+  {
+    "index": 25041,
+    "sanskrit": "mūḍhaḥ ayam na abhijānāti lokaḥ mām ajam avyayam",
+    "english": "This deluded world knoweth not me that I am unborn and undecaying.",
+    "morphology": "mūḍhaḥ_muh_SNPaPsM"
+  },
+  {
+    "index": 25042,
+    "sanskrit": "śaikṣāśaikṣābhyāṃ ca vyutthānakāle /",
+    "english": "and two pure minds, of Śaikṣa or Aśaikṣa, upon leaving the Understanding of the Truths.",
+    "morphology": "śaikṣa_śaikṣa_Cp aśaikṣābhyām_aśaikṣa_DuIM ca_ca_"
+  },
+  {
+    "index": 25043,
+    "sanskrit": "śuklavittena yo dharmaṃ prakuryācchraddhayānvitaḥ | tīrthaṃ pātraṃ samāsādya devatve tatsamaśnute || 6 ||",
+    "english": "6. If a person performs a holy rite by means of Śukla wealth with great faith and sincerity, in a holy spot and on behalf of a deserving person, he will enjoy the benefit thereof as a Deva.",
+    "morphology": "śukla_śukla_Cp vittena_vitta_SINe yaḥ_yad_SNM dharmam_dharma_SAM prakuryāt_prakṛ_SPr3O śraddhayā_śraddhā_SIF anvitaḥ_anvita_SNM  / tīrtham_tīrtha_SANe pātram_pātra_SANe samāsādya_samāsāday_Co deva_deva_Cp tve_tva_SLNe tat_tad_SANe sama"
+  },
+  {
+    "index": 25044,
+    "sanskrit": "rocatām eṣa vā upāyaḥ vimokṣāya hutāśanāt śārṅgakāḥ ūcuḥ",
+    "english": "Follow my advice if you are to escape from the conflagration.' \"The infant birds replied, 'Without feathers we are but so many balls of flesh.",
+    "morphology": "rocatām_ruc_SPr3Im eṣa_etad_SNM vā_vā_U upāyaḥ_upāya_SNM"
+  },
+  {
+    "index": 25045,
+    "sanskrit": "sa śatruḥ nihataḥ saṃkhye mayā dharmeṇa pāṇḍava yathā tvayā hataḥ śūraḥ bhagadattaḥ pituḥ sakhā",
+    "english": "He hath been righteously slain by me in battle, O son of Pandu, even as thou hast slain the brave Bhagadatta, thy friend.",
+    "morphology": "sa_tad_SNM śatruḥ_śatru_SNM nihataḥ_nihan_SNPaPsM saṃkhye_saṃkhya_SLNe mayā_mad_SI dharmeṇa_dharma_SIM pāṇḍava_pāṇḍava_SVM yathā_yathā_U tvayā_tvad_SI hataḥ_han_SNPaPsM"
+  },
+  {
+    "index": 25046,
+    "sanskrit": "ye tv arthāvabodhadvāreṇa jyotiṣṭomādividhyekakāryatvam icchanti tatphalasyaiva ca prayatnaviśeṣād atiśayam āhus teṣām ācāryakaraṇavidhinā kim aparāddham, yena mahatā yatnena tadekakāryatā niṣidhyate / aprāmāṇyaṃ vedasya bhavatīti cet, astu / na prayojanavaśena yuktisāmarthyāyāto 'rtho hātuṃ śakyate /",
+    "english": "Some people have held the view thatthe injunction of Vedic Study serves, through the comprehension of meaning, the same purpose as the injunctions of the Jyotiṣṭoma and other acts, and that the additional effort involved in Vedic Study and comprehension of meaning serves to enhance the quality of the results brought about by those acts But what fault has the Injunction of \"becoming a Teacher\" done for those people, that they should have made great efforts to deny the view that this latter also serves the same purpose as the Injunction of \"Vedic Study?\" If it be urged thatunder this view, the Veda would become unauthoritative, our answer is that, that might be so; but when a certain fact is well established by reason and arguments, it is not abandoned or rejected for the sake of accomplishing any purpose.",
+    "morphology": "ye_yad_PNM tu_tu_ artha_artha_Cp avabodha_avabodha_Cp dvāreṇa_dvāra_SINe jyotiṣṭoma_jyotiṣṭoma_Cp ādi_ādi_Cp vidhi_vidhi_Cp eka_eka_Cp kāryatvam_kāryatva_SANe icchanti_iṣ_PPr3In tad_tad_Cp phalasya_phala_SGNe eva_eva_ ca_ca_ prayatna_pray"
+  },
+  {
+    "index": 25047,
+    "sanskrit": "dama anvitaḥ puruṣaḥ dharma śīlaḥ bhūtāni ca ātmānam iva anupaśyet",
+    "english": "Endued with self-restraint, and possessed of righteous behaviour, one should look upon all creatures as on one's own self.",
+    "morphology": "dama_dama_MCp anvitaḥ_anvita_SNM puruṣaḥ_puruṣa_SNM dharma_dharma_MCp śīlaḥ_śīla_SNM bhūtāni_bhūta_PANe"
+  }
+]

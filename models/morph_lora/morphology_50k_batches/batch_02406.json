@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19240,
+    "sanskrit": "pañcabhūtātmako dehastvagasṛṅmāṃsabandhanaḥ | medomajjāsthinicito viṇmūtraśleṣmabhājanam || 67 ||",
+    "english": "67. The body is constituted of the five elements. The skin, the blood and the flesh make it stay together. It is filled and overspread by suets, marrow and bones. It is the receptacle of urine, faeces and phlegm.",
+    "morphology": "__pañcabhūta_U __ātmaka_U __deha_U __tvac_U __asṛj_U __māṃsa_U __bandhana_U  / __māṃsa_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __ātman_U __"
+  },
+  {
+    "index": 19241,
+    "sanskrit": "balyāḥ vṛṣyāḥ tu guravaḥ vijñeyāḥ māṣa sādhitāḥ ||",
+    "english": "Cakes made of Masha pulse are tonic, spermatopoietic and heavy of digestion.",
+    "morphology": "balyāḥ_balya_PNM"
+  },
+  {
+    "index": 19242,
+    "sanskrit": "kimidaṃ syājjagatkiṃ syāddehamityaniśaṃ śanaiḥ / vicārayādhyātmadṛśā svayaṃ vā sajjanaiḥ saha //",
+    "english": "Therefore think always within yourself, and in the society of good people, about what is all this, what is this world, and what is this body in a spiritual light.",
+    "morphology": "kim_ka_SNNe idam_idam_SNNe syāt_as_SPr3O jagat_jagant_SNNe kim_ka_SNNe syāt_as_SPr3O deham_deha_SNNe iti_iti_ aniśam_aniśam_ śanais_śanais_  / vicāraya_vicāray_SPr2Im adhyātma_adhyātma_Cp dṛśā_dṛś_SIF svayam_svayam_ vā_vā_ sat_sat_Cp jan"
+  },
+  {
+    "index": 19243,
+    "sanskrit": "an apāhatam eva idam na idam śāstram apārthakam daiteyān uśanāḥ prāha saṃśaya chedane purā",
+    "english": "In days of old, Usanas said unto the Daityas this truth, which should remove all doubts, that scriptures are no scriptures if they cannot stand the test of reason.",
+    "morphology": "an_an_U apāhatam_apāhan_SNPaPsNe eva_eva_U idam_idam_SNNe na_na_U idam_idam_SNNe śāstram_śāstra_SNNe apārthakam_apārthaka_SNNe daiteyān_daiteya_PAM uśanāḥ_uśanas_SNM prāha_prāh_SPs3In"
+  },
+  {
+    "index": 19244,
+    "sanskrit": "avaśyaṃ hyekādikrameṇa saptadaśa karmāṇyapūrvāṇi ca kalpayitavyāni /",
+    "english": "It would, however, be necessary for you to assume from one to seventeen Actions and as many Apurvas.",
+    "morphology": "avaśyam_avaśyam_ hi_hi_ eka_eka_Cp ādi_ādi_Cp krameṇa_krama_SIM saptadaśa_saptadaśan_SNNe karmāṇi_karman_PNNe apūrvāṇi_apūrva_PNNe ca_ca_ kalpayitavyāni_kalpay_PNNeGd"
+  },
+  {
+    "index": 19245,
+    "sanskrit": "puruṣa uvāca | kiṃ kariṣyāmyahaṃ karma brahmaṃstatra niyojaya | mānyodya puruṣo yasmāducitaḥ śobhito vidhe || abhimānaṃ ca yogyaṃ ca sthānaṃ patnī ca yā mama | tanme vada trilokeśa tvaṃ sraṣṭā jagatāṃ patiḥ ||",
+    "english": "33-34. “O Brahmā, what is the work I am to do? Please assign me an honourable task, O Brahmā, suitable to and becoming me, O lord of the three worlds, you are - the creator and hence the lord of all the worlds. Please tell me. What is my honourable and suitable place? Who is going to be my wife?”",
+    "morphology": "puruṣaḥ_puruṣa_SNM uvāca_vac_SPs3In  / kim_ka_SANe kariṣyāmi_kṛ_SFu1In aham_mad_SN karma_karman_SANe brahman_brahman_SVM tatra_tatra_ niyojaya_niyojay_SPr2Im  / mānya_mānay_Co udya_udya_Co puruṣaḥ_puruṣa_SNM yasmāt_yasmāt_ ucitaḥ_uc"
+  },
+  {
+    "index": 19246,
+    "sanskrit": "yathoktam \"tat pakṣavacanaṃ cakrur abhiprāyanivedane /",
+    "english": "as declared in the following passage ‘They made the assertion of the Minor Term, for the purpose of intimating their intention, which shows where the doubt lay;",
+    "morphology": "yathā_yathā_ uktam_vac_SNPaNe"
+  },
+  {
+    "index": 19247,
+    "sanskrit": "iti sā tam giri śreṣṭham uktvā pārthiva nandinī damayantī tatas bhūyas jagāma diśam uttarām",
+    "english": "Do thou, O virtuous one, comfort me.' \"Having addressed that foremost of mountain thus, Damayanti then went in a northerly direction.",
+    "morphology": "iti_iti_U sā_tad_SNF tam_tad_SAM giri_giri_MCp śreṣṭham_śreṣṭha_SAM uktvā_vac_Co pārthiva_pārthiva_MCp nandinī_nandinī_SNF damayantī_damayantī_SNF tatas_tatas_U bhūyas_bhūyas_U jagāma_gam_SPs3In"
+  }
+]

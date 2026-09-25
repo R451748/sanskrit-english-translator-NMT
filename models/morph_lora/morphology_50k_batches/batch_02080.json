@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16632,
+    "sanskrit": "asādhyāsu api abhihitam pratyākhyāya āśu yojayet",
+    "english": "The act of cauterisation should be continued until the patient himself (through pain) prohibits the continuation of the same.",
+    "morphology": "asādhyāsu_asādhya_PLF api_api_U abhihitam_abhidhā_SAPaPsNe pratyākhyāya_pratyākhyā_Co"
+  },
+  {
+    "index": 16633,
+    "sanskrit": "tasmād evaṃ tad vaktavyam / yasmin pakṣe 'vidyamānānyaputraḥ putrikābhartā, putrikāputraś cākhiladravyahārī tasmin pakṣe /",
+    "english": "For these reasons, the conclusion should be as followsin a ease where the husband of the \"appointed daughter\" has no other sons, the son of the \"appointed daughter\" shall inherit his entire property, and also offer funeral cakes to him.",
+    "morphology": "tasmāt_tasmāt_ evam_evam_ tat_tad_SNNe vaktavyam_vac_SNNeGd  / yasmin_yad_SLM pakṣe_pakṣa_SLM a_a_ vidyamāna_vid_PaPrPvCp anya_anya_Cp putraḥ_putra_SNM putrikā_putrikā_Cp bhartā_bhartṛ_SNM putrikā_putrikā_Cp putraḥ_putra_SNM ca_ca_ akhila"
+  },
+  {
+    "index": 16634,
+    "sanskrit": "prakaraṇa viśeṣāhā tadyuktasya tatsaṃskāro dravyavadivyādiṣu /",
+    "english": "It might be argued that it is the fact of being appointed that is the condition or basis of the applicatoin of the name and as such the oiting of the instance of the functions pertaining to the Rtvik is wholly irrelevant.",
+    "morphology": "tad_tad_Cp yuktasya_yuj_SGPaM tad_tad_Cp saṃskāraḥ_saṃskāra_SNM dravyavat_dravyavat_Cp iva_iva_ ādiṣu_ādi_PLM  /"
+  },
+  {
+    "index": 16635,
+    "sanskrit": "śeṣaṃ subodham //",
+    "english": "The rest is clear.",
+    "morphology": "śeṣam_śeṣa_SNNe su_su_ bodham_bodha_SNNe  /"
+  },
+  {
+    "index": 16636,
+    "sanskrit": "sarvasya hi prapañcajātasya brahmaiva tattvamātmā; na ca svabhāvo heyaḥ,aśakyahānatvāt ;",
+    "english": "Indeed, of the entire universe, Brahman alone is the true self nor is ones nature what is to be rejected, since it cannot be rejected nor is it what is to be accepted, being already attained.",
+    "morphology": "sarvasya_sarva_SGNe hi_hi_ prapañca_prapañca_Cp jātasya_jāta_SGNe brahmā_brahman_SNM eva_eva_ tattvam_tattva_SNNe ātmā_ātman_SNM  / na_na_ ca_ca_ svabhāvaḥ_svabhāva_SNM heyaḥ_hā_SNMGd aśakya_aśakya_Cp hāna_hāna_Cp tvāt_tva_SBNe"
+  },
+  {
+    "index": 16637,
+    "sanskrit": "īśvara uvāca | tato gacchedvarārohe liṃgaṃ mṛtyuñjayeśvaram | tasyaiva vahni koṇasthaṃ dhanuṣāṃ daśake sthitam || 1 ||",
+    "english": "Īśvara said: 1-3. Thereafter, O beautiful lady, a pilgrim should go to the Liṅga named Mṛtyuñjayeśvara situated within a distance of ten Dhanus in the south-east corner thereof.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O varārohe_varāroha_SVF liṃgam_liṅga_SANe mṛtyuṃjayeśvaram_mṛtyuṃjayeśvara_SANe  / tasya_tad_SGM eva_eva_ koṇa_koṇa_Cp stham_stha_SAM dhanuṣām_dhanus_PGNe da"
+  },
+  {
+    "index": 16638,
+    "sanskrit": "tatas tau tu śara ogheṇa bībhatsum saha keśavam ācchādayetām saṃrabdhau siṃhanādam ca nedatuḥ",
+    "english": "Thereupon, the two brothers, filled with rage, covered Vibhatsu and Kesava with showers of shafts and uttered leonine roars.",
+    "morphology": "tatas_tatas_U tau_tad_DuNM tu_tu_U śara_śara_MCp ogheṇa_ogha_SIM bībhatsum_bībhatsu_SAM saha_saha_U keśavam_keśava_SAM ācchādayetām_ācchāday_DuPr3Im saṃrabdhau_saṃrabh_DuNPaPsM siṃhanādam_siṃhanāda_SAM ca_ca_U nedatuḥ_nad_DuPs3In"
+  },
+  {
+    "index": 16639,
+    "sanskrit": "pratiśrutyāpy adharmasaṃyuktāya na dadyāt /",
+    "english": "When a request is made for an unlawful (adharma) purpose, he should not give, even if he has already promised to do so.",
+    "morphology": "pratiśrutya_pratiśru_Co api_api_ a_a_ dharma_dharma_Cp saṃyuktāya_saṃyuj_SDPaM na_na_ dadyāt_dā_SPr3O"
+  }
+]

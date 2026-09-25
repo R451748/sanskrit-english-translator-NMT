@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5856,
+    "sanskrit": "na ca etat evam draṣṭavyam asādhyam iti kim cana",
+    "english": "Nothing, however, should be regarded as impracticable.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 5857,
+    "sanskrit": "ākhyānāni sauparṇamaitrāvaruṇādīni bāhvṛcye paṭhyante /",
+    "english": "\"Stories\" such as those of Suparṇa, Mitrāvaruṇa, and the rest, related in the Ṛgveda.",
+    "morphology": "ākhyānāni_ākhyāna_PNNe"
+  },
+  {
+    "index": 5858,
+    "sanskrit": "aham karṇaḥ ca śalyaḥ ca kṛpaḥ hārdikyaḥ eva ca nimeṣāt pāṇḍavīm senām kṣapayema nṛpa uttama",
+    "english": "Myself, Karna, Salya, Kripa, and Hridika's son, could, O best of kings, destroy the Pandava host within the twinkling of an eye.",
+    "morphology": "aham_mad_SN karṇaḥ_karṇa_SNM ca_ca_U śalyaḥ_śalya_SNM ca_ca_U kṛpaḥ_kṛpa_SNM hārdikyaḥ_hārdikya_SNM eva_eva_U ca_ca_U nimeṣāt_nimeṣa_SBM pāṇḍavīm_pāṇḍava_SNM"
+  },
+  {
+    "index": 5859,
+    "sanskrit": "sa ca asmākam upādhyāyaḥ saha asmābhiḥ viśām pate catur veda udgatābhiḥ ca ṛgbhiḥ tam abhituṣṭuve",
+    "english": "Our preceptor, with ourselves, O king, then adored the great Deity with Richs extracted from the four Vedas.",
+    "morphology": "sa_tad_SNM ca_ca_U asmākam_mad_PG upādhyāyaḥ_upādhyāya_SNM saha_saha_U asmābhiḥ_mad_PI viśām_viś_PGF pate_pati_SVM catur_catur_Cp veda_veda_MCp udgatābhiḥ_udgam_PIPaPsF ca_ca_U ṛgbhiḥ_ṛc_PIF"
+  },
+  {
+    "index": 5860,
+    "sanskrit": "akṛtam munibhiḥ pūrvam kim mayā etat anuṣṭhitam katham nu śāpena na mām daheyuḥ brāhmaṇāḥ iti tatas saṃcintayām āsa vaṃśa kartāram ātmanaḥ",
+    "english": "Indeed, filled with regret he began to think of what he had done.[412] 'Never done before by the Munis, alas, what have I done! How shall I (for having done an act that has not been ordained) avoid being cursed by the Brahmanas (as an introducer of strange rites)?' He then thought of the original progenitor of his race.",
+    "morphology": "akṛtam_akṛta_SNNe munibhiḥ_muni_PIM pūrvam_pūrvam_U kim_ka_SNNe mayā_mad_SI etat_etad_SNNe anuṣṭhitam_anuṣṭhā_SNPaPsNe katham_katham_U nu_nu_U śāpena_śāpa_SIM na_na_U mām_mad_SA daheyuḥ_dah_PPr3O brāhmaṇāḥ_brāhmaṇa_PNM iti"
+  },
+  {
+    "index": 5861,
+    "sanskrit": "evaṃ tarhi sarveṣām eva brāhmaṇādīnām avāntaragotrabhedāḥ santīti /",
+    "english": "Thus it is that among Brāhmaṇas and others, there are subdivisious of gotras.",
+    "morphology": "evam_evam_ tarhi_tarhi_ sarveṣām_sarva_PGM eva_eva_ brāhmaṇa_brāhmaṇa_Cp ādīnām_ādi_PGM avāntaragotra_avāntaragotra_Cp bhedāḥ_bheda_PNM santi_as_PPr3In iti_iti_"
+  },
+  {
+    "index": 5862,
+    "sanskrit": "tena sā rudracāmuṇḍā nāṭeśvaryatha nṛtyatī /",
+    "english": "Hence she is known as Rudracāmuṇḍā, the goddess of dancing and one who is dancing.",
+    "morphology": "tena_tad_SIM sā_tad_SNF rudracāmuṇḍā_rudracāmuṇḍā_SNF nāṭeśvarī_nāṭeśvarī_SNF atha_atha_ "
+  },
+  {
+    "index": 5863,
+    "sanskrit": "savyasya ca doṣṇo dakṣiṇāyāśca ca doṣṇaḥ savyāvāśca śroṇestasmādayam paśurakṣṇayā pado haratyatha yatsamyagavadyetsamīco haivāyam paśuḥ pado harettasmādakṣṇayāvadyatyatha yanna śīrṣṇo 'vadyati nāṃsayornānūkasya nāparasakthayoḥ //",
+    "english": "And because he cuts crossways,--of the left fore-foot and the right haunch; and of the right forefoot and the left haunch,--therefore this animal draws forward its feet crossways. But were he to cut straight on, this animal would draw forward its feet (of the same side) simultaneously: therefore he cuts crossways. Then as to why he does not make cuttings of the head, nor the shoulders, nor the neck, nor the hind-thighs.",
+    "morphology": "savyasya_savya_SGNe ca_ca_ doṣṇaḥ_dos_SGNe dakṣiṇāyāḥ_dakṣiṇa_SGF ca_ca_ ca_ca_ doṣṇaḥ_dos_SGNe savyāvāḥ_savyāva_SGF ca_ca_ śroṇeḥ_śroṇi_SGF tasmāt_tasmāt_ ayam_idam_SNM paśuḥ_paśu_SNM akṣṇayā_akṣṇayā_ p"
+  }
+]

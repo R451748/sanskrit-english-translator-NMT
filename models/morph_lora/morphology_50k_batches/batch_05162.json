@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41288,
+    "sanskrit": "ṛṣeḥ indra prabhāvasya amṛta yoneḥ bhiṣaj guroḥ dhārayitvā tu vimalam matam parama saṃmatam ukta āhāra samācāraḥ iha pretya ca modate",
+    "english": "Who ever stores up in his memory and acts up to these sacred and worshipful injunctions on the science of life propounded, as it is, by the nectar-origined sage (Dhanvantari), the preceptor of all physicians and equal to the celestial Indra in respect of majesty, enjoys happiness both in this world and in the next.",
+    "morphology": "ṛṣeḥ_ṛṣi_SGM indra_indra_MCp prabhāvasya_prabhāva_SGM amṛta_amṛta_Cp yoneḥ_yoni_SGM bhiṣaj_bhiṣaj_MCp guroḥ_guru_SGM dhārayitvā_dhāray_Co tu_tu_U vimalam_vimala_SANe matam_mata_SANe parama_parama_Cp saṃmatam_samman_SAPaPsNe ukt"
+  },
+  {
+    "index": 41289,
+    "sanskrit": "dhik kartāram ca kāryam ca śramaḥ ca ayam nirarthakaḥ nāstikyam anyathā ca syāt vedānām pṛṣṭhataḥkriyā",
+    "english": "One becomes chargeable with atheism if one disregards the Vedas by not doing the acts they direct.",
+    "morphology": "dhik_dhik_U kartāram_kartṛ_SAM ca_ca_U kāryam_kārya_SANe ca_ca_U śramaḥ_śrama_SNM ca_ca_U ayam_idam_SNM nirarthakaḥ_nirarthaka_SNM nāstikyam_nāstikya_SNNe anyathā_anyathā_U ca_ca_U syāt_as_SPr3O vedānām_veda_PGM pṛṣṭhataḥkriyā_p"
+  },
+  {
+    "index": 41290,
+    "sanskrit": "nāradasya vacaḥ śrutvā kṛṣṇas tv idam athābravīt /",
+    "english": "Hearing the words of Nārada, Krishna smilingly said:—Hear and understand what say great Muni.",
+    "morphology": "nāradasya_nārada_SGM vacaḥ_vacas_SANe śrutvā_śru_Co kṛṣṇaḥ_kṛṣṇa_SNM tu_tu_ idam_idam_SANe atha_atha_ abravīt_brū_S3ImIn  /"
+  },
+  {
+    "index": 41291,
+    "sanskrit": "śūdrānnena dvijo yastu agnihotraṃ juhoti ca | caṇḍālo jāyate pretya śūdrāccaiveha daivataḥ || 17 ||",
+    "english": "17. If a Brāhmaṇa performs Agnihotra (gives libation) with the cooked food of a Śūdra, he is born as a Cāṇḍāla after death and that Śūdra attains divinity.",
+    "morphology": "śūdra_śūdra_Cp annena_anna_SINe dvijaḥ_dvija_SNM yaḥ_yad_SNM tu_tu_ agnihotram_agnihotra_SANe juhoti_hu_SPr3In ca_ca_  / caṇḍālaḥ_caṇḍāla_SNM jāyate_jan_SPr3In pretya_pre_Co śūdrāt_śūdra_SBM ca_ca_ eva_eva_ iha_iha_ daivataḥ_dai"
+  },
+  {
+    "index": 41292,
+    "sanskrit": "ṣaḍarhanto matāḥ teṣāṃ pañca śraddhādhimuktijāḥ / vimuktiḥ sāmayikyeṣām akopyākopyadharmaṇaḥ //",
+    "english": "Six types of Arhat are known. Five arise from the Śraddhādhimuktas (“those liberated through faith”). Their deliverance is occasional. For an Immovable One, is it immovable.",
+    "morphology": "ṣaṭ_ṣaṣ_PNM arhantaḥ_arhant_PNM matāḥ_man_PNPaM teṣām_tad_PGM pañca_pañcan_PNM śraddhā_śraddhā_Cp adhimukti_adhimukti_Cp jāḥ_ja_PNM  / vimuktiḥ_vimukti_SNF sāmayikā_sāmayika_SNF eṣām_idam_PGM a_a_ kopya_kup_GdCp a_a_ kopya_"
+  },
+  {
+    "index": 41293,
+    "sanskrit": "sarva āvāsam vāsudevam kṣetrajñam viddhi tattvataḥ",
+    "english": "Know that Vasudeva is He when called Kshetrajna. Verily shouldst thou know that, that Vasudeva is the abode or original refuge of all things in the universe.",
+    "morphology": "sarva_sarva_Cp āvāsam_āvāsa_SAM"
+  },
+  {
+    "index": 41294,
+    "sanskrit": "tvam asya viśvasya param nidhānam",
+    "english": "Thou art indestructible, (and) the Supreme object of this universe.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 41295,
+    "sanskrit": "kāśīṃ prakāśīṃ kṛtapuṇyarāśiṃ hā śīghranāśī visṛjennaraḥ kim | nūnaṃ svanūnaṃ sukṛtaṃ tadīyaṃ madīyamevaṃ vivṛṇoti cetaḥ || 16 ||",
+    "english": "16. Alas! How can a man who is likely to perish quickly (die at any moment) leave Kāśī, the merit whereof has been revealed (by Scriptures as well as by Lord Śiva)? My mind says that his (such a man’s) merit has dwindled certainly (if he were to leave it).",
+    "morphology": "kāśīm_kāśī_SAF prakāśīm_prakāśī_SAF kṛta_kṛ_PaCp puṇya_puṇya_Cp rāśim_rāśi_SAF hā_hā_ śīghra_śīghra_Cp nāśī_nāśin_SNM visṛjet_visṛj_SPr3O naraḥ_nara_SNM kim_kim_  / nūnam_nūnam_ sva_sva_Cp nūnam_nūna_SNNe su_su_"
+  }
+]

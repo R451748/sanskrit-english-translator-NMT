@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10904,
+    "sanskrit": "tau śilīmukha viddha aṅgau petatuḥ ratha sattamau",
+    "english": "Those two foremost of car-warriors, pierced with those shafts, fell down.",
+    "morphology": "tau_tad_DuNM śilīmukha_śilīmukha_MCp viddha_vyadh_PaPsCp aṅgau_aṅga_DuNM"
+  },
+  {
+    "index": 10905,
+    "sanskrit": "vidyuto 'śanimeghāṃś ca rohitendradhanūṃṣi ca / ulkānirghātaketūṃś ca jyotīṃṣy uccāvacāni ca //",
+    "english": "Lightnings, Hails, Clouds, Vertical Phosphorescence, Rainbows, Meteors, Portentous Sounds, Comets, and Stars of varying magnitudes.",
+    "morphology": "vidyutaḥ_vidyut_PAF aśani_aśani_Cp meghān_megha_PAM ca_ca_ rohita_rohita_Cp indradhanūṃṣi_indradhanus_PANe ca_ca_  / ulkā_ulkā_Cp nirghāta_nirghāta_Cp ketūn_ketu_PAM ca_ca_ jyotīṃṣi_jyotis_PANe uccāvacāni_uccāvaca_PANe ca_ca_  /"
+  },
+  {
+    "index": 10906,
+    "sanskrit": "aho kaṣṭam snehavatāṃ durṇivāram mahā matekim karomi vinā putraṃ katham jīvāmi mānada",
+    "english": "O noble hearted one, for they who love Him, this is a great calamity. O gentle one, what will I do without my son? How can I live?",
+    "morphology": "aho_aho_ kaṣṭam_kaṣṭa_SNNe snehavatām_snehavat_PGM durṇivāram_durṇivāra_SNNe mahā_mahat_Cp mate_mati_SVM kim_ka_SANe karomi_kṛ_SPr1In vinā_vinā_ putram_putra_SAM katham_katham_ jīvāmi_jīv_SPr1In mānada_mānada_SVM"
+  },
+  {
+    "index": 10907,
+    "sanskrit": "yathālambanaṃ caiṣāṃ nāma svaparobhayasaṃtatyālambanatvāt pratyekameṣāṃ traividhyam /",
+    "english": "Each foundation of mindfulness is threefold accordingly as it is considered as oneself, as another, or as oneself and another.",
+    "morphology": "yathālambanam_yathālambanam_ ca_ca_ eṣām_idam_PGM nāma_nāman_SNNe sva_sva_Cp para_para_Cp ubhaya_ubhaya_Cp saṃtati_saṃtati_Cp ālambana_ālambana_Cp tvāt_tva_SBNe pratyekam_pratyeka_SNNe eṣām_idam_PGM traividhyam_traividhya_SNNe  /"
+  },
+  {
+    "index": 10908,
+    "sanskrit": "manohaṃkāravilaye sarvabhāvāntarasthitā / samudeti parānandā yā tanuḥ pārameśvarī //",
+    "english": "After extinction of egoism and the mental powers, and subsidence of all the feelings in oneself; there arises a transcendent ecstasy in the soul, which is styled the form of the divine or perfect joy and blissness:—",
+    "morphology": "manaḥ_manas_Cp haṃkāra_haṃkāra_Cp vilaye_vilaya_SLM sarva_sarva_Cp bhāva_bhāva_Cp antara_antara_Cp sthitā_sthā_SNPaF  / samudeti_samudi_SPr3In para_para_Cp ānandā_ānanda_SNF yā_yad_SNF tanuḥ_tanu_SNF pārameśvarī_pārameśvara_SNF  /"
+  },
+  {
+    "index": 10909,
+    "sanskrit": "itareṣv āgamād dharmaḥ pādaśas tv avaropitaḥ / caurikānṛtamāyābhir dharmaś cāpaiti pādaśaḥ //",
+    "english": "In the other Cycles, virtue fell off from the scriptures, foot by foot; and on account of theft, falsehood and fraud, virtuous acts deteriorated foot by foot.",
+    "morphology": "itareṣu_itara_PLM āgamāt_āgama_SBM dharmaḥ_dharma_SNM pādaśas_pādaśas_ tu_tu_ avaropitaḥ_avaropay_SNPaM  / caurikā_caurikā_Cp anṛta_anṛta_Cp māyābhiḥ_māyā_PIF dharmaḥ_dharma_SNM ca_ca_ apaiti_ape_SPr3In pādaśas_pādaśas_  /"
+  },
+  {
+    "index": 10910,
+    "sanskrit": "śīla vṛtta anvitā sādhuḥ niyatā na ca māninī",
+    "english": "And she beareth an excellent character, is observant of vow, chaste, and of subdued senses.",
+    "morphology": "śīla_śīla_NeCp vṛtta_vṛtta_NeCp anvitā_anvita_SNF sādhuḥ_sādhu_SNF"
+  },
+  {
+    "index": 10911,
+    "sanskrit": "putra saṃkrāmita śrīḥ tu bṛhadaśvaḥ mahīpatiḥ jagāma tapase dhīmān tapaḥ vanam amitra hā atha śuśrāva rājarṣim tam uttaṅkaḥ yudhiṣṭhira",
+    "english": "And having thus made over the royal dignity to his son, that slayer of foes--king Vrihadaswa of great intelligence--retired into the woods for asceticism.\" \"Markandeya continued, 'O king, when the royal sage Vrihadaswa was about to retire into the woods, that best of Brahmanas, Utanka heard of it.",
+    "morphology": "putra_putra_MCp saṃkrāmita_saṃkrāmay_PaPsCp śrīḥ_śrī_SNM tu_tu_U bṛhadaśvaḥ_bṛhadaśva_SNM mahīpatiḥ_mahīpati_SNM jagāma_gam_SPs3In tapase_tapas_SDNe dhīmān_dhīmat_SNM tapaḥ_tapas_NeCp vanam_vana_SANe amitra_amitra_MCp hā_han_"
+  }
+]

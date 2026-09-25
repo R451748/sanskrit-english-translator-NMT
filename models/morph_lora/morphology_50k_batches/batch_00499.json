@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3984,
+    "sanskrit": "indreṇa idam dasyu vadhāya karma",
+    "english": "Indra invented these contrivances, for putting the plunderers to death.",
+    "morphology": "indreṇa_indra_SIM"
+  },
+  {
+    "index": 3985,
+    "sanskrit": "muṇḍanaṃ sarvakṛcchreṣu snānaṃ homo hareryajiḥ /",
+    "english": "In all the expiations called kṣcchras there would be shaving, bathing, offering of oblations and worship of Hari Viṣṇu.",
+    "morphology": "muṇḍanam_muṇḍana_SNNe sarva_sarva_Cp kṛcchreṣu_kṛcchra_PLNe snānam_snāna_SNNe homaḥ_homa_SNM hareḥ_hari_SGM yajiḥ_yaji_SNM  /"
+  },
+  {
+    "index": 3986,
+    "sanskrit": "tau dūrāt sātyakiḥ dṛṣṭvā dhṛṣṭadyumna vṛkodarau kaliṅgān samare vīrau yodhayantau manasvinau",
+    "english": "Dhrishtadyumna and Vrikodara, endued with great energy, beholding Satyaki at a distance, furiously encountered the Kalingas in battle.",
+    "morphology": "tau_tad_DuAM dūrāt_dūrāt_U sātyakiḥ_sātyaki_SNM dṛṣṭvā_dṛś_Co dhṛṣṭadyumna_dhṛṣṭadyumna_MCp vṛkodarau_vṛkodara_DuAM kaliṅgān_kaliṅga_PAM samare_samara_SLNe vīrau_vīra_DuAM yodhayantau_yodhay_DuAPaPrM manasvinau_mana"
+  },
+  {
+    "index": 3987,
+    "sanskrit": "jaṭila uvāca | himācalasute devi kā buddhiḥ svīkṛtā tvayā | rudrārthaṃ vibudhānhitvā karoṣi vipulantapaḥ ||",
+    "english": "32. O gentle lady, O daughter of Himavat, what is this idea that has struck you? You are performing this great penance for obtaining Śiva after leaving off all the gods.",
+    "morphology": "jaṭilaḥ_jaṭila_SNM uvāca_vac_SPs3In  / himācalasute_himācalasutā_SVF devi_devī_SVF kā_ka_SNF buddhiḥ_buddhi_SNF svīkṛtā_svīkṛ_SNPaF tvayā_tvad_SI  / rudra_rudra_Cp artham_artha_SAM vibudhān_vibudha_PAM hitvā_hā_Co karoṣi_kṛ_SPr"
+  },
+  {
+    "index": 3988,
+    "sanskrit": "tvat saṃstavakṣaṇabhraṃśāt kleśaṃ taṃ cāptavān aham / yasyaiṣaḥ pariṇāmo me kanyārūpagraho 'bhavat //",
+    "english": "And from the immediate interruption of our acquaintance I derived that sorrow, of which the final result was my taking, as you see, the form of a maiden.",
+    "morphology": "tvat_tvad_SB saṃstava_saṃstava_Cp kṣaṇa_kṣaṇa_Cp bhraṃśāt_bhraṃśa_SBM kleśam_kleśa_SAM tam_tad_SAM ca_ca_ āptavān_āp_SNPaM aham_mad_SN  / yasya_yad_SGM eṣaḥ_etad_SNM pariṇāmaḥ_pariṇāma_SNM me_mad_SG kanyā_kanyā_Cp rūp"
+  },
+  {
+    "index": 3989,
+    "sanskrit": "śaktiṃ sarvātmakāṃ tatra nyaset prāsādarūpiṇīṃ /",
+    "english": "The female energy, contained in every being, in the form of grace is assigned there.",
+    "morphology": "śaktim_śakti_SAF sarva_sarva_Cp ātmakām_ātmaka_SAF tatra_tatra_ nyaset_nyas_SPr3O prāsāda_prāsāda_Cp rūpiṇīm_rūpin_SAF  /"
+  },
+  {
+    "index": 3990,
+    "sanskrit": "tadadhaścāpavatsākhyaṃ kendrantareṣu ṣaṭpade //",
+    "english": "God known as Apavatsa should be located in the six squares below that between the central points.",
+    "morphology": "tad_tad_Cp adhas_adhas_ cāpa_cāpa_Cp vat_vat_ sa_sa_ ākhyam_ākhyā_SNNe kendra_kendra_Cp antareṣu_antara_PLNe ṣaṭpade_ṣaṭpada_SLNe  /"
+  },
+  {
+    "index": 3991,
+    "sanskrit": "tasya śaṅkhasya śabdena bhīmasena raveṇa ca bāhu śabdena ca ugreṇa nardanti iva gireḥ guhāḥ",
+    "english": "And filled with the sounds of the shell, and with the shouts of Bhimasena, and also with the reports produced by the striking of his arms, the caves of the mountain seemed as if they were roaring.",
+    "morphology": "tasya_tad_SGM śaṅkhasya_śaṅkha_SGM śabdena_śabda_SIM bhīmasena_bhīmasena_SVM raveṇa_rava_SIM ca_ca_U bāhu_bāhu_MCp śabdena_śabda_SIM ca_ca_U ugreṇa_ugra_SIM nardanti_nard_PPr3In iva_iva_U gireḥ_giri_SGM guhāḥ_guhā_PNF"
+  }
+]

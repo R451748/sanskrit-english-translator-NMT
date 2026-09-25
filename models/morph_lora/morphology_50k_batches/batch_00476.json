@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3800,
+    "sanskrit": "someśvaraṃ mahāliṃgaṃ śivasya paramātmakam | dṛṣṭvā pramucyate pāpādbhuktiṃ muktiṃ ca vindati ||",
+    "english": "9. On seeing Someśvara, the great phallic image of Śīva, people are freed from sin. They attain worldly pleasures and salvation.",
+    "morphology": "someśvaram_someśvara_SANe mahā_mahat_Cp liṃgam_liṅga_SANe śivasya_śiva_SGM parama_parama_Cp ātmakam_ātmaka_SANe  / dṛṣṭvā_dṛś_Co pramucyate_pramuc_SPr3InPv pāpāt_pāpa_SBNe bhuktim_bhukti_SAF muktim_mukti_SAF ca_ca_ vindati_vid_SPr3I"
+  },
+  {
+    "index": 3801,
+    "sanskrit": "sa cintā paramaḥ bhūtvā tasthau tatra eva jambukaḥ",
+    "english": "And the jackal waited there, deeply meditating upon what he should do.",
+    "morphology": "sa_tad_SNM chāhā_chāhā_SNF"
+  },
+  {
+    "index": 3802,
+    "sanskrit": "parasparāṅgasaṃghaṭṭaraṇatkeyūrakaṅkaṇā / hārabhārāhṛtasvarṇapaṭṭābhorustanāntarā //",
+    "english": "There was a commingled tinkling of the bracelets and armlets of the throng caused by the collision of their bodies (in their egress), and mixed flashing of the necklaces and brocades that decorated their persons.",
+    "morphology": "paraspara_paraspara_Cp aṅga_aṅga_Cp saṃghaṭṭa_saṃghaṭṭa_Cp raṇat_raṇ_PaPrCp keyūra_keyūra_Cp kaṅkaṇā_kaṅkaṇa_SNF  / hāra_hāra_Cp bhāra_bhāra_Cp āhṛta_āhṛ_PaCp svarṇa_svarṇa_Cp paṭṭa_paṭṭa_Cp ābha_ābha_"
+  },
+  {
+    "index": 3803,
+    "sanskrit": "tatastatkaṇṭhamāvṛtya nijāṃ bāhulatāṃ bhayāt | mune māṃ rakṣa śaraṇamāgatā'smītyabhāṣata || 10 || munistāṃ vihvalāṃ dṛṣṭvā rākṣasā'nugatāṃ tadā | huṃkāreṇaiva tau ghorau cakāra vimukhau ruṣā || 11 ||",
+    "english": "10. Out of fear she put her tender arms round his neck and said: “O sage, protect me. I have sought refuge in you.” 11. On seeing her agitated and closely pursued by the Rākṣasas, he angrily made a loud hum sound whereby he turned back those terrible demons.",
+    "morphology": "tatas_tatas_ tad_tad_Cp kaṇṭham_kaṇṭha_SAM āvṛtya_āvṛ_Co nijām_nija_SAF bāhu_bāhu_Cp latām_latā_SAF bhayāt_bhaya_SBNe  / mune_muni_SVM mām_mad_SA rakṣa_rakṣ_SPr2Im śaraṇam_śaraṇa_SANe āgatā_āgam_SNPaF asmi_as_SPr1In iti_it"
+  },
+  {
+    "index": 3804,
+    "sanskrit": "hutāśana śikhā iva tvam jvalamānā sva tejasā sutā tārādhipasya iva prabhayā divam āgatā",
+    "english": "Thou seemest to be a daughter of the Lord of stars, come to heaven in thy own effulgence.",
+    "morphology": "hutāśana_hutāśana_MCp śikhā_śikhā_SNF iva_iva_U tvamā_tvad_SN jvalamānā_jval_SNPaPrF sva_sva_Cp tejasā_tejas_SINe sutā_sutā_SNF"
+  },
+  {
+    "index": 3805,
+    "sanskrit": "lohitāyati ca āditye tvaramāṇaḥ dhanaṃjayaḥ pañcaviṃśati sāhasrān nijaghāna mahā rathān",
+    "english": "And when the sun assumed a red hue, Dhananjaya exerting himself actively, slew five and twenty thousand great car-warriors.",
+    "morphology": "lohitāyati_lohitāy_SLPaPrM ca_ca_U āditye_āditya_SLM tvaramāṇaḥ_tvar_SNPaPrM dhanaṃjayaḥ_dhanaṃjaya_SNM pañcaviṃśati_pañcaviṃśati_FCp sāhasrān_sāhasra_PAM nijaghāna_nihan_SPs3In mahā_mahat_Cp rathān_ratha_PAM"
+  },
+  {
+    "index": 3806,
+    "sanskrit": "maithunāya iha saṃprāptā kāmam prāptam drutam cara",
+    "english": "I have come here to gratify my desire.",
+    "morphology": "maithunāya_maithuna_SDNe iha_iha_U"
+  },
+  {
+    "index": 3807,
+    "sanskrit": "agastyaḥ ca parām prītim bhāryāyām akarot prabhuḥ",
+    "english": "And the exalted Agastya also began to manifest great love for his wife.",
+    "morphology": "agastyaḥ_agastya_SNM ca_ca_U parā_para_SAF prītim_prīti_SAF"
+  }
+]

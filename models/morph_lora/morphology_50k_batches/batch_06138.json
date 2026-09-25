@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49096,
+    "sanskrit": "tvaṃ brahmā tvaṃ hṛṣīkeśastvaṃ śakrastvaṃ hutāśanaḥ | tvaṃ yajñastvaṃ vaṣaṭkārastvamindustvaṃ divākaraḥ || 12 || athavā bahunoktena kiṃ stavena tava prabho | samāsādeva vakṣyāmi vibhūtiṃ śrutinoditām || 13 || yatkiṃcittriṣu lokeṣu sthāvaraṃ jaṃgamaṃ vibho | tatsarvaṃ bhavatā vyāptaṃ kāṣṭhaṃ havyabhujā yathā || 14 ||",
+    "english": "9-14. Be victorious, O omnipresent one, O Lord of all. Be victorious, O Lord worthy of being meditated upon by all, be victorious, O destroyer of the sins of all. You are the creator and the dispenser; you are the creator and the protector of the groups of living beings of four types, O Śaṅkara, O Lord of Devas. Just as oil is present in gingelly seed or ghee in curds, so also you invisibly are present in the entire universe on which you preside. You are Brahmā; you are Hṛṣīkeśa; you are Śakra; you are Hutāśana (Fire god); you are Yajña; you are Vaṣaṭkāra. You are the Moon. You are the Sun. Or, of what avail is a eulogy of thine, O Lord, in too many words? I shall briefly mention your glorious power as recounted by Śruti. Whatever is mobile and immobile in all the three words, O Lord, is pervaded by you, like fuel by fire.”",
+    "morphology": "tvam_tvad_SN brahmā_brahman_SNM tvam_tvad_SN hṛṣīkeśaḥ_hṛṣīkeśa_SNM tvam_tvad_SN śakraḥ_śakra_SNM tvam_tvad_SN hutāśanaḥ_hutāśana_SNM  / tvam_tvad_SN yajñaḥ_yajña_SNM tvam_tvad_SN vaṣaṭkāraḥ_vaṣaṭkāra_SNM tvam_tvad_"
+  },
+  {
+    "index": 49097,
+    "sanskrit": "nirvikalpakavelāyāṃ nirdeṣṭuṃ tan na śakyate /",
+    "english": "It can never exist apart from them.",
+    "morphology": "nirvikalpaka_nirvikalpaka_Cp velāyām_velā_SLF nirdeṣṭum_nirdiś_In tat_tad_SNNe na_na_ śakyate_śak_SPr3InPv "
+  },
+  {
+    "index": 49098,
+    "sanskrit": "yajñapūtaḥ //",
+    "english": "One purified by offering sacrifices;",
+    "morphology": "yajña_yajña_Cp pūtaḥ_SNPaM"
+  },
+  {
+    "index": 49099,
+    "sanskrit": "na vārṣṇeyasya aparādhaḥ bhavitavyam hi tat tathā",
+    "english": "Thy soldiers also argued the matter, 'It is no fault of the Vrishni hero.",
+    "morphology": "na_na_U vārṣṇeyasya_vārṣṇeya_SGM aparādhaḥ_aparādha_SNM"
+  },
+  {
+    "index": 49100,
+    "sanskrit": "iti cchāndogyopaniṣadi caturthādhyāyasya daśamaḥ khaṇḍaḥ",
+    "english": "End of Section 0 of Discourse",
+    "morphology": "iti_iti_ chāndogya_chāndogya_Cp upaniṣadi_upaniṣad_SLF"
+  },
+  {
+    "index": 49101,
+    "sanskrit": "taiḥ iṣṭaḥ pañca kāla jñaiḥ hariḥ ekāntibhiḥ naraiḥ bhaktyā paramayā yuktaiḥ manaḥ vāc karmabhiḥ tadā nūnam tatra āgataḥ devaḥ yathā taiḥ vāc udīritā",
+    "english": "Those men, endued with great devotion, possessed of hearts full of reverence, conversant with the ordinances laid down in the Pancharatra, were then worshipping the great deity with mind, word, and deed.[1809] Without doubt, Hari appeared in that place whence the sound we heard arose.",
+    "morphology": "taiḥ_tad_PIM iṣṭaḥ_yaj_SNPaPsM pañca_pañcan_Cp kāla_kāla_MCp jñaiḥ_jña_PIM hariḥ_hari_SNM ekāntibhiḥ_ekāntin_PIM naraiḥ_nara_PIM bhaktyā_bhakti_SIF paramayā_parama_SIF yuktaiḥ_yuj_PIPaPsM manaḥ_manas_NeCp vāc_vāc_FCp karmabh"
+  },
+  {
+    "index": 49102,
+    "sanskrit": "prathamo rāgādinā tyaktadharmaḥ, dvitīyo nāsti vastv iti viparītābhiniveśaḥ /",
+    "english": "The former \"who heeds not the bounds of morality\" is one who acts against the law, through hate and other passions and who does not hold wrong opinions, while the latter is one who deities the law, and adheres to principles contrary to it.",
+    "morphology": "prathamaḥ_prathama_SNM rāga_rāga_Cp ādinā_ādi_SIM tyakta_tyaj_PaCp dharmaḥ_dharma_SNM dvitīyaḥ_dvitīya_SNM na_na_ asti_as_SPr3In vastu_vastu_SNNe iti_iti_ viparīta_viparīta_Cp abhiniveśaḥ_abhiniveśa_SNM  /"
+  },
+  {
+    "index": 49103,
+    "sanskrit": "tasmādastyapūrvaṃ sūtrasyāpi ca na prakṛtīprayikamanyamarthaṃ pa śyāmaḥ / tenārambhacodanaivāpūrvasyāpi codanetyayamevārthaḥ /",
+    "english": "Thus then, we conclude that the Apurva does exist and the Sutra too cannot be taken in any other sense, that would be of any use in the present context and hence we take the meaning of the Sutra to be that the Injunction of the Action is the Injunction authority of the Apurva. The view here tentatively brought foward emanates from one who finds the assumption of the Apurva to be utterly groundless, and hence prefers the comparatively reasonable theory of the nondestruc tion of the Action.",
+    "morphology": "tasmāt_tasmāt_ asti_as_SPr3In apūrvam_apūrva_SNNe sūtrasya_sūtra_SGNe api_api_ ca_ca_ na_na_ anyam_anya_SAM artham_artha_SAM  / tena_tena_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_ ṇa_ṇa_"
+  }
+]

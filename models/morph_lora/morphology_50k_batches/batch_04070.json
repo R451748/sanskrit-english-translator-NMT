@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32552,
+    "sanskrit": "bhūḥ avyakta sthala śvabhrā bahu śasya upaśobhitā",
+    "english": "The earth is covered with profuse vegetation.",
+    "morphology": "bhūḥ_bhū_SNF"
+  },
+  {
+    "index": 32553,
+    "sanskrit": "tasyaikā ca sutānaṅgamañjarīty udapadyata / svaḥsundarīpratikṛtir bhuvi dhātreva darśitā //",
+    "english": "And to him there was born a daughter named Anaṅgamañjarī, who was exhibited on earth by the Creator as a likeness of a heavenly nymph.",
+    "morphology": "tasya_tad_SGM ekā_eka_SNF ca_ca_ sutā_sutā_SNF anaṅgamañjarī_anaṅgamañjarī_SNF iti_iti_ udapadyata_utpad_S3ImIn  / svar_svar_ sundarī_sundarī_Cp pratikṛtiḥ_pratikṛti_SNF"
+  },
+  {
+    "index": 32554,
+    "sanskrit": "dvaitādvaitasamudbhedairvākyasaṃdarbhavibhramaiḥ / mā viṣīdata duḥkhāya vibudhā abudhā iva //",
+    "english": "Therefore, ye wise men, do not trouble yourself as the unwise with the discrimination of unity and duality, and the propriety or impropriety of speech, all which is wholly useless and painful frivolity.",
+    "morphology": "dvaita_dvaita_Cp advaita_advaita_Cp samudbhedaiḥ_samudbheda_PIM vākya_vākya_Cp saṃdarbha_saṃdarbha_Cp vibhramaiḥ_vibhrama_PIM  / mā_mā_ viṣīdata_viṣad_PPr2Im duḥkhāya_duḥkha_SDNe"
+  },
+  {
+    "index": 32555,
+    "sanskrit": "vedasmṛtipurāṇaiśca ye na paśyaṃti bhūtalam | pātālaṃ svargalokaṃ ca vaṃcitāste narā iha || 41 ||",
+    "english": "41. Those men, who do not see the world by means of the Vedas, Smṛtis and Purāṇas, so also the Nether world and the Heaven, are duped here.",
+    "morphology": "veda_veda_Cp smṛti_smṛti_Cp purāṇaiḥ_purāṇa_PINe ca_ca_ ye_yad_PNM na_na_ paśyaṃti_dṛś_PPr3In bhū_bhū_Cp talam_tala_SAM  / pātālam_pātāla_SAM svarga_svarga_Cp lokam_loka_SAM ca_ca_ vaṃcitāḥ_vañcay_PNPaM te_tad_PNM narāḥ_nar"
+  },
+  {
+    "index": 32556,
+    "sanskrit": "yadā bhāṣaṇacittaṃ tadā nirmāṇacittābhāvo nirmāṇacittābhāvānnirmitābhāva iti kathamenaṃ bhāṣayanti /",
+    "english": "thus how does a fictive being speak? The fictive being speaks, because its creator sets speech.",
+    "morphology": "yadā_yadā_ bhāṣaṇa_bhāṣaṇa_Cp cittam_citta_SNNe tadā_tadā_ nirmāṇa_nirmāṇa_Cp citta_citta_Cp abhāvaḥ_abhāva_SNM nirmāṇa_nirmāṇa_Cp citta_citta_Cp abhāvāt_abhāva_SBM nirmita_nirmā_PaCp abhāvaḥ_abhāva_SNM iti_iti_ katham"
+  },
+  {
+    "index": 32557,
+    "sanskrit": "tava dharmme matirnityaṃ yaśaścāpracalaṃ mahat | tvatsāmīpyaṃ sthirā bhaktistvayi nityaṃ mamāstviti || putrāṇi ca daśādyānāṃ putrāṇāṃ mama saṃtu vai | vadhyāśca ripavassarve saṃgrāme baladarpitāḥ || apamāno bhavennaiva kvacinme śatrutaḥ prabho | yogināmapi sarveṣāṃ bhaveyamativallabhaḥ ||",
+    "english": "23-25. Let my mind be always in your cult. Let my fame be steady. Let me have nearness to you. Let my devotion to you be always unflinching. Let my senior sons have ten sons each. Let all my enemies who are arrogant by their might be killed in battle. O lord, nowhere shall I suffer dishonour from enemies. I shall be the beloved of all Yogins.",
+    "morphology": "tava_tvad_SG dharmme_dharma_SLM matiḥ_mati_SNF nityam_nityam_ yaśaḥ_yaśas_SNNe ca_ca_ apracalam_apracala_SNNe mahat_mahat_SNNe  / tvad_tvad_Cp sāmīpyam_sāmīpya_SNNe sthirā_sthira_SNF bhaktiḥ_bhakti_SNF tvayi_tvad_SL nityam_nityam_ mama_mad_SG "
+  },
+  {
+    "index": 32558,
+    "sanskrit": "tathā ca tadṛccaiva hautramakurvata yajuṣā ''dhvaryavaṃ sāmnaudgātraṃ yad eva trayyai vidyāyai śukraṃ tena brahmatvam iti ucyate vayam apy evam ādīni vākyāni na nādhīmahi / kiṃ tv eṣām ayam evārthaḥ atharvāṅgirovid eva brahmeti /",
+    "english": "They declare that the Rg Veda helps to discharge the duties of a Hotr priest, the Yajur Veda assists to discharge the duties of an Adhvaryu priest and the Sama Veda renders assistance to discharge the duties of an Udgâtr priest. But which Veda does help us to render the service of a Brāhmaṇa priest? They say in reply that the duties of a Brahmaņa priest may be fulfilled by the knowledge of the three Vedas.",
+    "morphology": "tathā_tathā_ ca_ca_ hautram_hautra_SANe akurvata_kṛ_P3ImIn yajuṣā_yajus_SINe ādhvaryavam_ādhvaryava_SANe sāmnā_sāman_SINe audgātram_audgātra_SANe yat_yad_SNNe eva_eva_ trayyai_traya_SDF vidyāyai_vidyā_SDF śukram_śukra_SNNe tena_tad_SINe b"
+  },
+  {
+    "index": 32559,
+    "sanskrit": "teṣāṃ te saṃvidākāśāḥ pṛthakpṛthagavasthitāḥ / muhūrtamātraṃ sthāsyanti suṣuptasthā jaḍā iva //",
+    "english": "Then their conscious souls, will remain separately in air for a little while; and there continue in a state of torpidity, as in the insensibility of sleep.",
+    "morphology": "teṣām_tad_PGM te_tad_PNM saṃvid_saṃvid_Cp ākāśāḥ_ākāśa_PNM pṛthak_pṛthak_ pṛthak_pṛthak_ avasthitāḥ_avasthā_PNPaM  / muhūrta_muhūrta_Cp mātram_mātra_SANe sthāsyanti_sthā_PFu3In suṣupta_suṣupta_Cp sthāḥ_stha_PNM ja"
+  }
+]

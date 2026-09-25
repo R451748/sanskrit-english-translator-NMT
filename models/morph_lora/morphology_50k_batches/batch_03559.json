@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28464,
+    "sanskrit": "atha ced tapyase pāpaiḥ dharmam ced anupaśyasi janamejayaḥ uvāca",
+    "english": "If, again, thou repentest in sin, thy sight will be clear and thou wilt succeed in beholding righteousness.' \"Janamejaya said, 'I am repenting of my sins.",
+    "morphology": "atha_atha_U ced_ced_U tapyase_tap_SPr2InPv pāpaiḥ_pāpa_PINe dharmam_dharma_SAM ced_ced_U anupaśyasi_anupaś_SPr2In janamejayaḥ_janamejaya_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 28465,
+    "sanskrit": "pramāṇataiva na hy asya sākāṅkṣajñānakāriṇaḥ // puro 'vasthitavastvaṃśadarśanaprāptinirvṛti /",
+    "english": "A sentence which conveys a complete meaning is only a source of valid knowledge since an incomplete sentence conveys no meaning, being not self-sufficient.",
+    "morphology": "pramāṇa_pramāṇa_Cp tā_tā_SNF eva_eva_ na_na_ hi_hi_ asya_idam_SGM sākāṅkṣa_sākāṅkṣa_Cp jñāna_jñāna_Cp kāriṇaḥ_kārin_SGM  // puras_puras_ avasthita_avasthā_PaCp vastu_vastu_Cp aṃśa_aṃśa_Cp darśana_darśana_Cp prāpti_pr"
+  },
+  {
+    "index": 28466,
+    "sanskrit": "apatyasya cāpatyadarśane vā //",
+    "english": "Or (he must do so) when he sees the son of his son.",
+    "morphology": "apatyasya_apatya_SGNe ca_ca_ apatya_apatya_Cp darśane_darśana_SLNe vā_vā_"
+  },
+  {
+    "index": 28467,
+    "sanskrit": "dhyāna yogena śuddhena nirmamāḥ nirahaṃkṛtāḥ prāpnuvanti mahātmānaḥ mahāntam lokam uttamam",
+    "english": "Those high-souled ones, however, who are devoid of mineness and freed from egoism through the pure contemplation of Yoga, attain to the great and highest regions.",
+    "morphology": "dhyāna_dhyāna_NeCp yogena_yoga_SIM śuddhena_śuddha_SIM nirmamāḥ_nirmama_PNM nirahaṃkṛtāḥ_nirahaṃkṛta_PNM prāpnuvanti_prāp_PPr3In mahātmānaḥ_mahātman_PNM mahāntam_mahat_SAM lokam_loka_SAM uttamam_uttama_SAM"
+  },
+  {
+    "index": 28468,
+    "sanskrit": "strīrūpiṇyau vanaspatyau dṛṣṭvā viṣṇustadā nṛpa | uttasthau saṃbhramādvṛṃdā rūpātiśayavibhramaḥ || 3 ||",
+    "english": "3. On seeing the plants in the form of women, O king, Viṣṇu got up with great excitement. His flurry and perturbation was mainly due to the excessive beauty of Vṛndā.",
+    "morphology": "strī_strī_Cp rūpiṇyau_rūpin_DuAF vanaspatyau_vanaspati_DuAF dṛṣṭvā_dṛś_Co viṣṇuḥ_viṣṇu_SNM tadā_tadā_ nṛpa_nṛpa_SVM  / uttasthau_utthā_SPs3In saṃbhramāt_sambhrama_SBM vṛndā_vṛndā_SNF rūpa_rūpa_Cp atiśaya_atiśay"
+  },
+  {
+    "index": 28469,
+    "sanskrit": "nānāvidhāni sainyāni tava hatvā tu sātvataḥ praviṣṭaḥ tāvakam sainyam drāvayitvā camūm bhṛśam",
+    "english": "Having slain diverse kinds of thy troops, he of the Satwata race entered into thy host, agitating and routing thy army.",
+    "morphology": "nānāvidhāni_nānāvidha_PANe sainyāni_sainya_PANe tava_tvad_SG hatvā_han_Co tu_tu_U sātvataḥ_sātvata_SNM praviṣṭaḥ_praviś_SNPaPsM tāvakam_tāvaka_SANe sainyam_sainya_SANe drāvayitvā_drāvay_Co camūm_camū_SAF bhṛśam_bhṛśam_U"
+  },
+  {
+    "index": 28470,
+    "sanskrit": "yathābhihitasya dvīndriyagrāhyadharmiṇo 'siddheḥ kāraṇādāśrayaikadeśāsiddhyā hetor asiddhiḥ //59- [p.47]",
+    "english": "that is, the object as stated by the Naiyāyika in the form ‘perceptible by two sense-organs’ is not proven, unknown;",
+    "morphology": "yathā_yathā_ abhihitasya_abhidhā_SGPaM dvi_dvi_Cp indriya_indriya_Cp grāhya_grah_GdCp dharmiṇaḥ_dharmin_SGM asiddheḥ_asiddhi_SBF kāraṇāt_kāraṇa_SBNe āśraya_āśraya_Cp eka_eka_Cp deśa_deśa_Cp asiddhyā_asiddhi_SIF hetoḥ_hetu_SGM asid"
+  },
+  {
+    "index": 28471,
+    "sanskrit": "śaktakāraṇasadbhāvād viṣayasyāpyadūṣaṇāt /",
+    "english": "because its efficient cause would always be there; so the objective of that notion too would not be abrogated.",
+    "morphology": "śakta_śak_PaCp kāraṇa_kāraṇa_Cp sadbhāvāt_sadbhāva_SBM viṣayasya_viṣaya_SGM api_api_ a_a_ dūṣaṇāt_dūṣaṇa_SBNe  /"
+  }
+]

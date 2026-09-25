@@ -1,0 +1,50 @@
+[
+  {
+    "index": 224,
+    "sanskrit": "ete ca anye ca bahavaḥ vṛṣṇi bhoja andhakāḥ tathā ājagmuḥ khāṇḍavaprastham ādāya haraṇam bahu",
+    "english": "These and many other Vrishnis and Bhojas, and Andhakas came to Indraprastha, bringing with them many nuptial presents.",
+    "morphology": "ete_etad_PNM ca_ca_U anye_anya_PNM ca_ca_U bahavaḥ_bahu_PNM vṛṣṇi_vṛṣṇi_MCp bhoja_bhoja_MCp andhakāḥ_andhaka_PNM tathā_tathā_U ājagmuḥ_āgam_PPs3In khāṇḍavaprastham_khāṇḍavaprastha_SAM ādāya_ādā_Co haraṇam_haraṇa_SAN"
+  },
+  {
+    "index": 225,
+    "sanskrit": "athārthāntarabhūta iti pakṣas tatrāpyakiñcitkara eva vināśahetur bhāvasyeti darśayati padārthavyatirikta ityādi /",
+    "english": "If the other alternative be accepted that ‘the Destruction produced is something different from the thing’, even so, the cause of the destruction of the thing would be useless. This is what is shown in the following [see verse 360 next]",
+    "morphology": "atha_atha_ artha_artha_Cp antara_antara_Cp bhūtaḥ_bhū_SNPaM iti_iti_ pakṣaḥ_pakṣa_SNM tatra_tatra_ api_api_ akiñcitkaraḥ_akiñcitkara_SNM eva_eva_ vināśa_vināśa_Cp hetuḥ_hetu_SNM bhāvasya_bhāva_SGM iti_iti_ darśayati_darśay_SPr3In pa"
+  },
+  {
+    "index": 226,
+    "sanskrit": "śabdaṃ nārabhate śabdaḥ śabdatvāc chrotraśabdavat //",
+    "english": "A sound -does not produce another sound because it is a soundlike the sound which is produced within the ear-hole.",
+    "morphology": "śabdam_śabda_SAM na_na_ ārabhate_ārabh_SPr3In śabdaḥ_śabda_SNM śabda_śabda_Cp tvāt_tva_SBNe śrotra_śrotra_Cp śabda_śabda_Cp vat_vat_  /"
+  },
+  {
+    "index": 227,
+    "sanskrit": "anena śakyate yāvattāvattoyaṃ samāhara | na tvayā śoṣaṇīyo'yaṃ samudaḥ saritāṃpatiḥ || 100 ||",
+    "english": "100. Draw only that much water which can be drawn through this. Samudra, the Lord of rivers, should not be dried away by you.”",
+    "morphology": "anena_idam_SIM śakyate_śak_SPr3InPv yāvat_yāvat_ tāvat_tāvat_ toyam_toya_SANe samāhara_samāhṛ_SPr2Im  / na_na_ tvayā_tvad_SI śoṣaṇīyaḥ_śoṣay_SNMGd ayam_idam_SNM samudaḥ_samud_SGF saritāṃpatiḥ_saritāmpati_SNM  /"
+  },
+  {
+    "index": 228,
+    "sanskrit": "tato 'haṃ baladībhūtastayā dāntoṣṭrajīvinaḥ / ekasya puṃso vikrīto gṛhītābhīṣṭamūlyayā //",
+    "english": "Then I, thus transformed into an ox, was sold by her, on receiving the required price, to a man who lived by keeping domesticated camels.",
+    "morphology": "tatas_tatas_ aham_mad_SN baladībhūtaḥ_baladībhū_SNPaM tayā_tad_SIF dānta_dam_PaCp uṣṭra_uṣṭra_Cp jīvinaḥ_jīvin_SGM  / ekasya_eka_SGM puṃsaḥ_puṃs_SGM vikrītaḥ_vikrī_SNPaM gṛhīta_grah_PaCp abhīṣṭa_abhīṣ_PaCp mūlyayā"
+  },
+  {
+    "index": 229,
+    "sanskrit": "ekāntena vibhinnatā viśeṣaṇasyeti /",
+    "english": "It might be urged that “The Reason is Inadmissible, as it pertains to the Universal only”.",
+    "morphology": "ekāntena_ekānta_SIM vibhinna_vibhid_PaCp tā_tā_SNF viśeṣaṇasya_viśeṣaṇa_SGNe iti_"
+  },
+  {
+    "index": 230,
+    "sanskrit": "brahmaśālopaviṣṭānāṃ yadi vākyaṃ vṛthā bhavet | māhātmyaṃ naśyate teṣāṃ tataḥ krodhaḥ prajāyate || 8 ||",
+    "english": "8. If the utterance of those sitting in the Brahmaśālā goes in vain, their greatness perishes and that leads to anger.",
+    "morphology": "brahma_brahman_Cp śālā_śālā_Cp upaviṣṭānām_upaviś_PGPaM yadi_yadi_ vākyam_vākya_SNNe vṛthak_vṛthak_ bhavet_bhū_SPr3O  / māhātmyam_māhātmya_SNNe naśyate_naś_SPr3InPv teṣām_tad_PGM tatas_tatas_ krodhaḥ_krodha_SNM prajāyate_pra"
+  },
+  {
+    "index": 231,
+    "sanskrit": "jñānaṃ ca jñeyaniṣṭham ity uktam //",
+    "english": "The culminating point of theNyayamanjari knowledge of the soul is the soul itself.",
+    "morphology": "jñānam_jñāna_SNNe ca_ca_ jñeya_jñā_GdCp niṣṭham_niṣṭhā_SNNe iti_iti_ uktam_vac_SNPaNe  /"
+  }
+]

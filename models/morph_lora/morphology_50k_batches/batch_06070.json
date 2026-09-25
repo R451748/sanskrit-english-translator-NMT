@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48552,
+    "sanskrit": "kṣatriyāḥ me sva karma sthāḥ māmaka antaram āviśaḥ",
+    "english": "How then hast thou been able to possess my soul? The Vaisyas in my dominion are all observant of the duties of their order.",
+    "morphology": "kṣatriyāḥ_kṣatriya_PNM me_mad_SG sva_sva_Cp karma_karman_NeCp sthāḥ_stha_PNM māmaka_māmaka_Cp antaram_antara_SANe āviśaḥ_āviś_SPs2In"
+  },
+  {
+    "index": 48553,
+    "sanskrit": "iti duḥkhaṃ samāpannāśśakrādyā munayassurāḥ | nāradaṃ ca samāhūya papracchurvikalāstadā ||",
+    "english": "31. Thus distressed, Indra and other gods, and the sages too invited Nārada and asked him dejectedly.",
+    "morphology": "iti_iti_ duḥkham_duḥkha_SANe samāpannāḥ_samāpad_PNPaM śakra_śakra_Cp ādyāḥ_ādya_PNM munayaḥ_muni_PNM surāḥ_sura_PNM  / nāradam_nārada_SAM ca_ca_ samāhūya_samāhvā_Co papracchuḥ_pracch_PPs3In vikalāḥ_vikala_PNM tadā_tadā_"
+  },
+  {
+    "index": 48554,
+    "sanskrit": "tān jaghāna śitaiḥ bāṇaiḥ sūtaputraḥ mahā rathaḥ",
+    "english": "The Suta's son, however, that mighty car-warrior, began to smite them with his keen shafts.",
+    "morphology": "tān_tad_PAM jaghāna_han_SPs3In śitaiḥ_śā_PIPaPsM bāṇaiḥ_bāṇa_PIM sūtaputraḥ_sūtaputra_SNM mahā_mahat_Cp rathaḥ_ratha_SNM"
+  },
+  {
+    "index": 48555,
+    "sanskrit": "pṛthivī tham / āditya evot /",
+    "english": "the Earth is tha;the Sun is ut;",
+    "morphology": "pṛthivī_pṛthivī_SNF tham_tha_SNNe  / ādityaḥ_āditya_SNM eva_ ṛ_"
+  },
+  {
+    "index": 48556,
+    "sanskrit": "gautama uvāca | gokarṇādahamāgacchankvāpi deśe viśāṃpate | jāte madhyāhnasamaye labdha vānvimalaṃ saraḥ || 2 ||",
+    "english": "Gautama said: 2. While returning from Gokarṇa, O king, at the time of midday, I saw a clear lake in a certain place.",
+    "morphology": "gautamaḥ_gautama_SNM uvāca_vac_SPs3In  / gokarṇāt_gokarṇa_SBM aham_mad_SN āgacchan_āgam_SNPaPrM kvāpi_kvāpi_ deśe_deśa_SLM viśām_viś_PGF pate_pati_SVM  / jāte_jan_SLPaM madhyāhna_madhyāhna_Cp samaye_samaya_SLM vān_vān_ vimalam_vimala_"
+  },
+  {
+    "index": 48557,
+    "sanskrit": "yathā cānena puruṣārthopadeśaparatā śāstrasyocyate tathā padārthayojanāt pratipādayiṣyāmaḥ /",
+    "english": "In what manner the present Treatise is made up of Instructions bearing upon the ends of man we shall show by the interpretation of the words of the text.",
+    "morphology": "yathā_yathā_ ca_ca_ anena_idam_SIM puruṣa_puruṣa_Cp artha_artha_Cp upadeśa_upadeśa_Cp para_para_Cp tā_tā_SNF śāstrasya_śāstra_SGNe ucyate_vac_SPr3InPv tathā_tathā_ padārtha_padārtha_Cp yojanāt_yojana_SBNe pratipādayiṣyāmaḥ_pratipā"
+  },
+  {
+    "index": 48558,
+    "sanskrit": "rajanyāḥ paścime yāme sarpāḥ citrāḥ caranti hi śeṣeṣu uktāḥ maṇḍalinaḥ divā darvīkarāḥ smṛtāḥ",
+    "english": "A snake of the Rajiman species, is found abroad in the fourth or the last quarter of the night, the Mandali snakes are found to be out in the three preceding watches, while the Darvi-kara snakes are found to be abroad (in quest of prey) only in the day time.",
+    "morphology": "rajanyāḥ_rajanī_SGF paścime_paścima_SLM yāme_yāma_SLM sarpāḥ_sarpa_PNM citrāḥ_citra_PNM caranti_car_PPr3In hi_hi_U śeṣeṣu_śeṣa_PLM uktāḥ_vac_PNPaPsM maṇḍalinaḥ_maṇḍalin_PNM divā_divā_U darvīkarāḥ_darvīkara_PNM sm"
+  },
+  {
+    "index": 48559,
+    "sanskrit": "tadgaccha kathayasvā'sya sarvaṃ mathanakāraṇam | nārada uvāca | itthaṃ visarjito dūtastadeṃdreṇā'gamadbhuvam || 12 ||",
+    "english": "12a. Therefore, go and tell him everything about the cause of the churning (of the Ocean). Nārada said:",
+    "morphology": "tat_tad_SANe gaccha_gam_SPr2Im kathayasva_kathay_SPr2Im asya_idam_SGM sarvam_sarva_SANe mathana_mathana_Cp kāraṇam_kāraṇa_SANe  / nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / ittham_ittham_ visarjitaḥ_visarjay_SNPaM dūtaḥ_dūta_SNM tadā_tadā_ i"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19000,
+    "sanskrit": "ayam asmi mahā bāho brūhi yat te vivakṣitam kariṣyāmi hi tat sarvam yat tvam vakṣyasi bhārata yudhiṣṭhiraḥ uvāca",
+    "english": "Tell me what thou desirest to say, for I will, O Bharata, accomplish whatever thou wilt tell me.' \"Yudhishthira said, 'Thou hast heard what the intention is of Dhritarashtra and his own.",
+    "morphology": "ayam_idam_SNM asmi_as_SPr1In mahā_mahat_Cp bāho_bāhu_SVM brūhi_brū_SPr2Im yat_yad_SNNe te_tvad_SD vivakṣitam_vivakṣ_SNPaPsNe kariṣyāmi_kṛ_SFu1In hi_hi_U tat_tad_SANe sarvam_sarva_SANe yat_yad_SANe tvam_tvad_SN vakṣyasi_vac_SFu2In bhārata_b"
+  },
+  {
+    "index": 19001,
+    "sanskrit": "yūyam hi stha su dānavaḥ rudrāḥ r̥bhukṣaṇaḥ dame uta pra cetasaḥ made",
+    "english": "For, Rudras and Ṛbhukṣans, ye, O bounteous ones, are in our house And wise when ye enjoy the draught.",
+    "morphology": "yūyam_tvad_PN hi_hi_U stha_as_PPr2In su_su_U dānavaḥ_dānu_PVM rudrāḥ_rudra_PVM r̥bhukṣaṇaḥ_r̥bhukṣan_PVM dame_dama_SLM uta_uta_U pra_pra_U cetasaḥ_cetas_PVM"
+  },
+  {
+    "index": 19002,
+    "sanskrit": "tomaram tu tribhiḥ bāṇaiḥ droṇaḥ chittvā mahā mṛdhe śaktim ciccheda sahasā kṛtahastaḥ mahā balaḥ tomaram pañcabhiḥ chittvā śaktim ciccheda saptabhiḥ",
+    "english": "Cutting off that lance with five shafts, Drona cut off that dart also with five arrows.",
+    "morphology": "tomaram_tomara_SAM tu_tu_U tribhiḥ_tri_PIM bāṇaiḥ_bāṇa_PIM droṇaḥ_droṇa_SNM chittvā_chid_Co mahā_mahat_Cp mṛdhe_mṛdha_SLM śaktim_śakti_SAF ciccheda_chid_SPs3In sahasā_sahasā_U kṛtahastaḥ_kṛtahasta_SNM mahā_mahat_Cp balaḥ_"
+  },
+  {
+    "index": 19003,
+    "sanskrit": "yathāyathā kathāstatra prajāyante sabhātale | devadvijanarendrāṇāṃ dharmākhyānāni kuṃbhaja || 62 || tathātathā mamātīva kṣudvṛddhiṃ saṃpragacchati | jāne kiṃ bhakṣayāmyāśu dṛṣadaḥ kāṣṭhameva vā || 63 ||",
+    "english": "62-63. O Pot-born One, as the discourses of the Devas, Brāhmaṇas and kings on Dharma (righteousness) continued on the floor of the hall of the assembly, my hunger too kept on increasing. I knew I was even ready to gobble up stone or wood.",
+    "morphology": "yathā_yathā_ yathā_yathā_ kathāḥ_kathā_PNF tatra_tatra_ prajāyante_prajan_PPr3In sabhā_sabhā_Cp tale_tala_SLM  / deva_deva_Cp dvija_dvija_Cp narendrāṇām_narendra_PGM dharma_dharma_Cp ākhyānāni_ākhyāna_PNNe kumbhaja_kumbhaja_SVM  / tath"
+  },
+  {
+    "index": 19004,
+    "sanskrit": "tasmiñjanapade ramye purī bhagavatī śubhā | cāturvarṇyasamāyuktā puraprākāramaṃḍitā || 9 ||",
+    "english": "9. In that beautiful region, his city was splendid and divinely blessed, adorned with ramparts and consisted of persons of all the four castes.",
+    "morphology": "tasmin_tad_SLM janapade_janapada_SLM ramye_ramya_SLM purī_purī_SNF bhagavatī_bhagavat_SNF śubhā_śubha_SNF  / cāturvarṇya_cāturvarṇya_Cp samāyuktā_samāyuj_SNPaF pura_pura_Cp prākāra_prākāra_Cp maṇḍitā_maṇḍay_SNPaF"
+  },
+  {
+    "index": 19005,
+    "sanskrit": "viṣṇave savidhātre te labdhānvedānnyavedayan | labdhvā vedānsamagrāṃstu brahmā harṣasamanvitaḥ || 43 ||",
+    "english": "43. They submitted all the Vedas they recovered to Viṣṇu accompanied by Brahmā. After regaining the entire set of Vedas Brahmā became delighted.",
+    "morphology": "viṣṇave_viṣṇu_SDM sa_sa_ vidhātre_vidhātṛ_SDM te_tad_PNM labdhān_labh_PAPaM vedān_veda_PAM nyavedayan_niveday_P3ImIn  / labdhvā_labh_Co ā_ā_ iti_iti_"
+  },
+  {
+    "index": 19006,
+    "sanskrit": "na amṛṣyanta mahā rāja pāṇḍavānām mahā rathāḥ adhikṣepeṇa kṛṣṇasya pārthasya ca mahātmanaḥ",
+    "english": "And at that insult to Krishna and the high-souled Partha, the car-warriors of the Pandavas were greatly agitated.",
+    "morphology": "na_na_U amṛṣyanta_mṛṣ_PPs3In mahā_mahat_Cp rāja_rāja_MCp pāṇḍavānām_pāṇḍava_PGM mahā_mahat_Cp rathāḥ_ratha_PNM adhikṣepeṇa_adhikṣepa_SIM kṛṣṇasya_kṛṣṇa_SGM pārthasya_pārtha_SGM ca_ca_U mahātmanaḥ_mahātman_"
+  },
+  {
+    "index": 19007,
+    "sanskrit": "śāśvatam sukham atyantam anvicchan sa su durlabham",
+    "english": "Dwelling wherever he pleased, he desired to place before the reach of all men eternal felicity that is so difficult of attainment.",
+    "morphology": "śāśvatam_śāśvata_SANe sukha_sukha_SANe atyantam_atyanta_SANe"
+  }
+]

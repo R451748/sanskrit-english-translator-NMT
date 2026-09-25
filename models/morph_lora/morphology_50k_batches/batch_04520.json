@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36152,
+    "sanskrit": "tasmānmahendraśailendrāccalitaḥ sa mahīpatiḥ / pathi paśyangirīndeśānnadīrgrāmānsajaṅgalān //",
+    "english": "The prince then proceeded from the Mahendra mountain, seeing on both sides the mountains and flatlands, rivers, forests and habitations of men, as he went onward with his great array.",
+    "morphology": "tasmāt_tad_SBM mahendra_mahendra_Cp śaila_śaila_Cp indrāt_indra_SBM calitaḥ_cal_SNPaM sa_tad_SNM mahīpatiḥ_mahīpati_SNM  / pathi_pathin_SLM paśyan_paś_SNPaPrM girīn_giri_PAM deśān_deśa_PAM nadīḥ_nadī_PAF grāmān_grāma_PAM sajaṅgalā"
+  },
+  {
+    "index": 36153,
+    "sanskrit": "asmin yuddhe bhīmasena tvayi bhāraḥ samāhitaḥ",
+    "english": "In this war burthen resteth on thee, O Bhimasena.",
+    "morphology": "asmin_idam_SLNe yuddhe_yuddha_SLNe bhīmasena_bhīmasena_SVM tvayi_tvad_SL bhāraḥ_bhāra_SNM"
+  },
+  {
+    "index": 36154,
+    "sanskrit": "catvāri saṅgraha-vastūni dharmāloka-mukhaṃ",
+    "english": "the four bases of sympathy entrance into the light of the Dharma",
+    "morphology": "catvāri_catur_PNNe saṅgraha_saṃgraha_Cp vastūni_vastu_PNNe dharma_dharma_Cp āloka_āloka_Cp mukham_mukha_SNNe"
+  },
+  {
+    "index": 36155,
+    "sanskrit": "mathyamānāttataḥ sindhorjjajñe dhanvantariḥ pumān | viṣṇoraṃśena gaurāṃgaḥ sudhākumbhaṃ kare dadhat || 29 ||",
+    "english": "29. Then, from the Ocean that was churned was born a man Dhanvantari with a part of Viṣṇu. He was fair in complexion, was holding in his hand a pitcher containing Sudhā (Nectar).",
+    "morphology": "mathyamānāt_math_SBPaPrMPv tatas_tatas_ sindhoḥ_sindhu_SBM jjajñe_jan_SPs3In dhanvantariḥ_dhanvantari_SNM pumān_puṃs_SNM  / viṣṇoḥ_viṣṇu_SGM aṃśena_aṃśa_SIM gaura_gaura_Cp aṅgaḥ_aṅga_SNM sudhā_sudhā_Cp kumbham_kumbha_SAM k"
+  },
+  {
+    "index": 36156,
+    "sanskrit": "smarantaḥ svarṇamukharīṃ yatra kutrāpi mānavāḥ | toyāntareṣu snātvāpi labhante phalamuttamam || 28 ||",
+    "english": "28. Even when men take their bath in other waters (e.g. tanks, lakes or rivers) wherever they may be, if they remember Suvarṇamukharī at the time, they derive excellent benefit.",
+    "morphology": "smarantaḥ_smṛ_PNPaPrM svarṇa_svarṇa_Cp mukharīm_mukhara_SAF yatra_yatra_ kutra_kutra_ api_api_ mānavāḥ_mānava_PNM  / toya_toya_Cp antareṣu_antara_PLNe snātvā_snā_Co api_api_ labhante_labh_PPr3In phalam_phala_SANe uttamam_uttama_SANe  /"
+  },
+  {
+    "index": 36157,
+    "sanskrit": "caṇḍālānnaṃ bhuktvā trirātram upavaset //",
+    "english": "For (knowingly) eating (undressed) food, which has been left by a Kandâla (or Svapaka or other member of the seven lowest castes), he must fast for three days.",
+    "morphology": "caṇḍāla_caṇḍāla_Cp annam_anna_SANe bhuktvā_bhuj_Co tri_tri_Cp rātram_rātra_SAM upavaset_upavas_SPr3O  /"
+  },
+  {
+    "index": 36158,
+    "sanskrit": "sukhasaumanasyopekṣendriyāṇāmanyatamaṃ bhavati / niśrayaviśeṣāt /",
+    "english": "In order to understand the Truths, he places himself either in an absorption of the Third Dhyana, an absorption of either the First or the Second Dhyana, an absorption of anagamya or dhyanantara, or of the Fourth Dhyana: according to the case, his ndriya of sensation is the ndriya of pleasure, satisfaction, or equanimity. Contrarily, the bhayovitaraga always obtains the result of Sakrdagamin with the ndriya of indifference.",
+    "morphology": "sukha_sukha_Cp saumanasya_saumanasya_Cp upekṣā_upekṣā_Cp indriyāṇām_indriya_PGNe anyatamam_anyatama_SNNe bhavati_bhū_SPr3In  / niśraya_niśraya_Cp viśeṣāt_viśeṣa_SBM  /"
+  },
+  {
+    "index": 36159,
+    "sanskrit": "tasminnipatite devi putretreḥ paramātma ni | tuṣṭuvurbrahmaṇaḥ putrā mānasāḥ sapta ye śrutāḥ || 56 ||",
+    "english": "56. O goddess, when the great soul, the son of Atri, fell down, the well-known mental sons of Brahmā eulogized him.",
+    "morphology": "tasmin_tad_SLM nipatite_nipat_SLPaM devi_devī_SVF putretreḥ_putretri_SGM paramātma_paramātman_SLM ni_ni_  / tuṣṭuvuḥ_stu_PPs3In brahmaṇaḥ_brahman_SGM putrāḥ_putra_PNM mānasāḥ_mānasa_PNM sapta_saptan_PNM ye_yad_PNM śrutāḥ_śru_PNP"
+  }
+]

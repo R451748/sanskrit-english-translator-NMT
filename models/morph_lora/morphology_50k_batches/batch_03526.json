@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28200,
+    "sanskrit": "andhena tamasā lokāḥ prāvṛtāḥ na cakāśire",
+    "english": "All the worlds became enveloped in gloom. Nothing could be seen.",
+    "morphology": "andhena_andha_SINe tamasā_tamas_SINe lokāḥ_loka_PNM prāvṛtāḥ_prāvṛ_PNPaPsM"
+  },
+  {
+    "index": 28201,
+    "sanskrit": "bharat vājāya ava dhukṣata dvitā dhenum ca viśva dohasam iṣam ca v iśva bhojasam",
+    "english": "For Bharadvâja she poured down in days of old The milch-cow yielding milk for all, and food that gives all nourishment.",
+    "morphology": "bharat_bhṛ_SPr2 vājāya_vāja_SDM ava_ava_U dhukṣata_duh_SPs3 dvitā_dvitā_U dhenum_dhenu_SAF ca_ca_U viśva_viśva_Cp dohasam_dohas_SAF iṣam_iṣ_SAF ca_ca_U u_u_U iśva_iśva_Cp bhojasam_bhojas_SAF"
+  },
+  {
+    "index": 28202,
+    "sanskrit": "| sūta uvāca | tathānyadapi tatrāsti durvāsaḥsthāpitaṃ purā | talliṃgaṃ devadevasya trinetrasya mahātmanaḥ || 1 ||",
+    "english": "Sūta said: 1-3. There is another Liṅga installed earlier by Durvāṣas. It is the Liṅga of the three-eyed, noble-souled Lord of Devas.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / tathā_tathā_ anyat_anya_SNNe api_api_ tatra_tatra_ asti_as_SPr3In durvāsaḥ_durvāsas_Cp sthāpitam_sthāpay_SNPaNe purā_purā_  / tat_tad_SNNe liṃgam_liṅga_SNNe devadevasya_devadeva_SGM trinetrasya_trinetra"
+  },
+  {
+    "index": 28203,
+    "sanskrit": "indriyajñānasyāpi cakṣuṣīcchayā nimīlite nivṛttir icchāvaśāt sambhavatīti cet /",
+    "english": "It might be argued that “even in the case of Perception through the Senses, there can be cessation at will, by closing one’s eyes for instance”.",
+    "morphology": "indriya_indriya_Cp jñānasya_jñāna_SGNe api_api_ cakṣuṣi_cakṣus_SLNe icchayā_icchā_SIF nimīlite_nimīlay_SLPaNe nivṛttiḥ_nivṛtti_SNF icchā_icchā_Cp vaśāt_vaśa_SBM sambhavati_sambhū_SPr3In iti_iti_ ced_ced_  /"
+  },
+  {
+    "index": 28204,
+    "sanskrit": "tam oṁ iti abhi pra gāyata puru hūtam puru stutam indram gīḥ bhiḥ taviṣam ā vivāsata",
+    "english": "SING forth to him whom many men invoke, to him whom many laud. Invite the powerful Indra with your songs of praise.",
+    "morphology": "tam_tad_SAM oṁ_oṃ_U iti_iti_U abhi_abhi_U pra_pra_U gāyata_gā_PPr2Im puru_puru_Cp hūtam_hvā_SAPaPsM puru_puru_Cp stutam_stu_SAPaPsM indram_indra_SAM gīḥ_gir_U taviṣam_taviṣa_SAM ā_ā_U vivāsata_vivās_PPr2Im"
+  },
+  {
+    "index": 28205,
+    "sanskrit": "videhamuktaviṣayaṃ turyamaunamato mayā / noktaṃ tava paraṃ maunaṃ sadehasya raghūdvaha //",
+    "english": "I have related to you, Rama! the quadruple reticence of embodied beings, and have not as yet expounded the nature of the silence of disembodied souls.",
+    "morphology": "videha_videha_Cp mukta_muc_PaCp viṣayam_viṣaya_SNNe turya_turya_Cp maunam_mauna_SNNe atas_atas_ mayā_mad_SI  / na_na_ uktam_vac_SNPaNe tava_tvad_SG param_para_SNNe maunam_mauna_SNNe sa_sa_ dehasya_deha_SGM raghūdvaha_raghūdvaha_SVM  /"
+  },
+  {
+    "index": 28206,
+    "sanskrit": "sa chinna dhanvā tejasvī ratha śaktyā sutam tava",
+    "english": "Endued with great energy, the bowless Bhima then, putting forth his prowess pierced the chest of thy son with a dart.",
+    "morphology": "sa_tad_SNM chinna_chid_PaPsCp dhanvā_dhanvan_SNM tejasvī_tejasvin_SNM ratha_ratha_MCp śaktyā_śakti_SIF sutam_su_SAPaPsM tava_tvad_SG"
+  },
+  {
+    "index": 28207,
+    "sanskrit": "dvijottamagrahaṇam atantram /",
+    "english": "No stress is meant to be laid on the mention of the. \"Brāhmaṇa\".",
+    "morphology": "dvijottama_dvijottama_Cp grahaṇam_grahaṇa_SNNe atantram_atantra_SNNe  /"
+  }
+]

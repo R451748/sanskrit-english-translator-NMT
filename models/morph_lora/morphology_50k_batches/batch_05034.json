@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40264,
+    "sanskrit": "puruṣāṇāṃ ca nārīṇāmadhikārotra niścitam | nadyāṃ taḍāge kūpe vā jalāṃtarmṛdamāharet ||",
+    "english": "5. Both men and women are authorized in this. The clay should be brought from the beds of rivers, lakes or wells.",
+    "morphology": "puruṣāṇām_puruṣa_PGM ca_ca_ nārīṇām_nārī_PGF adhikāraḥ_adhikāra_SNM utra_utra_ niścitam_niścitam_"
+  },
+  {
+    "index": 40265,
+    "sanskrit": "tataste tridaśāḥ sarve sa ca devaṃ śatakratuḥ | praṇipatya punaḥ proccaiḥ prajagmustridaśālayam || 3 || tato jajñe mahāṃstatra svarge vṛtravadhotsavaḥ | devendratvamanuprāpte punaḥ śakre dvijottamāḥ || 132 ||",
+    "english": "Thereafter all the Devas and Śatakratu bowed down to the Lord and went to the heavenly abode. There in heaven the festivities connected with the slaughter of Vṛtra were celebrated, O excellent Brāhmaṇas, when Śakra regained his status as the overlord of the Devas.",
+    "morphology": "tatas_tatas_ te_tad_PNM tridaśāḥ_tridaśa_PNM sarve_sarva_PNM sa_tad_SNM ca_ca_ devam_deva_SAM śatakratuḥ_śatakratu_SNM  / praṇipatya_praṇipat_Co punar_punar_ proccais_proccais_ prajagmuḥ_pragam_PPs3In tridaśālayam_tridaśālaya_SAM  / tata"
+  },
+  {
+    "index": 40266,
+    "sanskrit": "viduraḥ uvāca",
+    "english": "Ye are not answering her.",
+    "morphology": "viḥ_"
+  },
+  {
+    "index": 40267,
+    "sanskrit": "abhāginī nūnamiyaṃ vasuṃdharā tamāryakarmāṇamanuttamaṃ prati | gatastato 'sau guṇavān hi tādṛśo nṛpaḥ prajābhāgyaguṇaiḥ prasūyate ||",
+    "english": "‘This earth is indeed unworthy as regards that peerless doer of noble actions, for such a virtuous hero has gone away from her, — it is the merits and virtues of the subjects which produce their king.",
+    "morphology": "abhāginī_abhāgin_SNF nūnam_nūnam_ iyam_idam_SNF vasuṃdharā_vasuṃdharā_SNF tam_tad_SAM ārya_ārya_Cp karmāṇam_karman_SAM anuttamam_anuttama_SAM prati_prati_  / gataḥ_gam_SNPaM tatas_tatas_ asau_adas_SNM guṇavān_guṇavat_SNM hi_hi_ tād"
+  },
+  {
+    "index": 40268,
+    "sanskrit": "yathaiva dṛṣṭabādhaṃ sādhyaṃ hetur na sādhayati tathā śaṅkyamānabādham apītyato bādhāśaṅkā bādhādṛṣṭer na bhidyate tenāsarvajñatvasādhanam api mābhūd āśaṅkyamānabādhatvāt //",
+    "english": "Just as a Reason cannot prove that of which the contrary has been perceived, similarly it cannot also prove that of which the contrary is suspected; and in this respect, the suspicion of the contrary does not differ from the perception of the contrary. Consequently, there can be no proving of non-omniscience, because its contrary is open to suspicion.",
+    "morphology": "yathā_yathā_ eva_eva_ dṛṣṭa_dṛś_PaCp bādham_bādha_SANe sādhyam_sādhya_SANe hetuḥ_hetu_SNM na_na_ sādhayati_sādhay_SPr3In tathā_tathā_ śaṅkyamāna_śaṅk_PaPrPvCp bādham_bādhā_SANe api_api_ iti_iti_ atas_atas_ bādhā_bādhā_Cp "
+  },
+  {
+    "index": 40269,
+    "sanskrit": "paras apehi manaspāpa kim aśastāni śaṃsasi / parehi na tvā kāmaye vṛkṣām vanāni sam cara gṛheṣu goṣu me manaḥ /",
+    "english": "Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence away, I love thee not. Go to the forests and the trees. My heart is in our homes and cows.",
+    "morphology": "paras_paras_U apehi_ape_SPr2Im manaspāpa_manaspāpa_SVM kim_kim_U aśastāni_aśasta_PANe śaṃsasi_śaṃs_SPr2In  / parehi_pare_SPr2Im na_na_U tvā_tvad_SA kāmaye_kāmay_SPr1In vanāni_vana_PANe sam_sam_U cara_car_SPr2Im gṛhā_gṛha_PANe gāḥ_gā"
+  },
+  {
+    "index": 40270,
+    "sanskrit": "kāmyake drakṣyase vīram nivasantam yudhiṣṭhiram",
+    "english": "Thou wilt behold the brave Yudhishthira living in the woods of Kamyaka.",
+    "morphology": "kāmyake_kāmyaka_SLM"
+  },
+  {
+    "index": 40271,
+    "sanskrit": "caturbhiḥ sahitaḥ putraiḥ bhānoḥ eva anvayaḥ tu saḥ",
+    "english": "And Stuva is the sixth son of Bhanu.",
+    "morphology": "caturbhiḥ_catur_PIM sahitaḥ_sahita_SNM putraiḥ_putra_PIM bhānoḥ_bhānu_SGM evā_eva_U"
+  }
+]

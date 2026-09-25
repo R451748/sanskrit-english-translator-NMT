@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49480,
+    "sanskrit": "mumoca śīghram sa ripu pramāthī tatas prajajvāla diśaḥ nabhaḥ ca ulkāḥ ca ghorāḥ sahasā nipetuḥ",
+    "english": "All the points of the compass and the welkin became ablaze and terrible meteors, and thunderbolts fell.",
+    "morphology": "mumoca_muc_SPs3In śīghram_śīghram_U sa_tad_SNM ripu_ripu_MCp pramāthī_pramāthin_SNM tatas_tatas_U prajajvāla_prajval_SPs3In diśaḥ_diś_PAF nabhaḥ_nabhas_SNNe ca_ca_U ulkāḥ_ulkā_PNF ca_ca_U ghorāḥ_ghora_PNF"
+  },
+  {
+    "index": 49481,
+    "sanskrit": "nadīnadataḍāgānāṃ salilair aparaṃ nyaset //",
+    "english": "Another pitcher should be filled with the waters of the rivers and tanks.",
+    "morphology": "nadīnada_nadīnada_Cp taḍāgānām_taḍāga_PGNe"
+  },
+  {
+    "index": 49482,
+    "sanskrit": "jñātvaiva saṃdhyākāle yaḥ svapiti /",
+    "english": "\"Intentionally;\" ie, who knowingly sleeps in the evening.",
+    "morphology": "jñātvā_jñā_Co eva_eva_ saṃdhyā_saṃdhyā_Cp kāle_kāla_SLM yaḥ_yad_SNM"
+  },
+  {
+    "index": 49483,
+    "sanskrit": "yuga ante ca antakaḥ rājan jāmadagnyaḥ ca vīryavān raṇa sthaḥ bhīmasenaḥ ca kathyante sadṛśāḥ trayaḥ",
+    "english": "The Destroyer himself at the end of the Yuga, Jamadagni's valiant son (Rama), and Bhimasena on his car,--these three, O king, are spoken of as equal.",
+    "morphology": "yuga_yuga_NeCp ante_anta_SLM ca_ca_U antakaḥ_antaka_SNM rājan_rājan_SVM jāmadagnyaḥ_jāmadagnya_SNM ca_ca_U vīryavān_vīryavat_SNM raṇa_raṇa_MCp sthaḥ_stha_SNM bhīmasenaḥ_bhīmasena_SNM ca_ca_U kathyante_kathay_PPr3InPv sadṛśāḥ_sad"
+  },
+  {
+    "index": 49484,
+    "sanskrit": "na āraṇyaiḥ na iṣṭa viṣayaiḥ na sutaiḥ na dhana āgamaiḥ tathā prasādaḥ bhavati gaṅgām vīkṣya yathā nṛṇām pūrṇam indum yathā dṛṣṭvā nṛṇām dṛṣṭiḥ prasīdati",
+    "english": "One does not obtain that joy through acts that lead to the region of Brahma, or through such sacrifices and rites that lead to heaven, or through children or wealth, which one obtain from a sight of Ganga.[241] The pleasures that men derive from a sight of Ganga is equal to what they derive from a sight of the full moon.",
+    "morphology": "na_na_U āraṇyaiḥ_āraṇya_PIM na_na_U iṣṭa_iṣ_PaPsCp viṣayaiḥ_viṣaya_PIM na_na_U sutaiḥ_suta_PIM na_na_U dhana_dhana_NeCp āgamaiḥ_āgama_PIM tathā_tathā_U prasādaḥ_prasāda_SNM bhavati_bhū_SPr3In gaṅgām_gaṅgā_SAF vīkṣy"
+  },
+  {
+    "index": 49485,
+    "sanskrit": "punaśśaktiśca niḥkṣiptā tena śaṃbhūpari dvijāḥ | śaṃbhunā sāpi bāṇaissvairlakṣadhā ca kṛtā drutam ||",
+    "english": "36. O brahmins, then a lance was hurled at Śiva by him. It too was split into a hundred-thousand pieces with his arrows by Śiva.",
+    "morphology": "punar_punar_ śaktiḥ_śakti_SNF ca_ca_ niḥkṣiptā_niḥkṣip_SNPaF tena_tad_SIM śaṃbhu_śambhu_Cp upari_upari_ dvijāḥ_dvija_PVM  / śaṃbhunā_śambhu_SIM sā_tad_SNF api_api_ bāṇaiḥ_bāṇa_PIM svaiḥ_sva_PIM lakṣadhā_lakṣadhā_ c"
+  },
+  {
+    "index": 49486,
+    "sanskrit": "ihaiva yanmayā dṛṣṭamāśvaryaṃ vacmi tacchṛṇu / balavarmābhidhāno 'bhūdasyām eva vaṇikpuri //",
+    "english": "I will tell you a wonder which happened in this very place; hear it.",
+    "morphology": "iha_iha_ eva_eva_ yat_yad_SNNe mayā_mad_SI dṛṣṭam_dṛś_SNPaNe āśvaryam_āśvarya_SNNe vacmi_vac_SPr1In tat_tad_SANe śṛṇu_śru_SPr2Im  / balavarma_balavarman_Cp abhidhānaḥ_abhidhāna_SNM abhūt_bhū_SPs3In asyām_idam_SLF eva_eva_ vaṇij"
+  },
+  {
+    "index": 49487,
+    "sanskrit": "na cāgamavirodhe nyāyaḥ kāryakṣamo bhavati /",
+    "english": "But the same reason does not apply to the other. Kārakas besides the Objective and the Nominative and as such there is a distinct limit to the application of the said reasoning.",
+    "morphology": "na_na_ ca_ca_ āgama_āgama_Cp virodhe_virodha_SLM nyāyaḥ_nyāya_SNM kārya_kārya_Cp kṣamaḥ_kṣama_SNM"
+  }
+]

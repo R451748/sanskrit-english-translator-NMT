@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17704,
+    "sanskrit": "avirodhe hi vedena tanmūlamanumoyate svātantryeṇa pramāṇatvaṃ smṛtestāvanna sammatam /",
+    "english": "In the case of the Smrti we do not admit of a selfsufficient authority and as for its authority being based upon the Veda, this is found to be con trary to the perceptible fact of its being contradictory to the Veda.",
+    "morphology": "avirodhe_avirodha_SLM hi_hi_ vedena_veda_SIM tad_tad_Cp mūlam_mūla_SNNe anumoyate_anumā_SPr3InPv svātantryeṇa_svātantrya_SINe pramāṇa_pramāṇa_Cp tvam_tva_SNNe smṛteḥ_smṛti_SGF tāvat_tāvat_"
+  },
+  {
+    "index": 17705,
+    "sanskrit": "pātālasaptakaṃ cakre lokānāṃ saptakaṃ tathā / dvīpānām udadhīnāṃ ca sthānāni vividhāni ca //",
+    "english": "He created the seven (lower regions called) Pâtâlas and the seven worlds, the seven Dvîpas.",
+    "morphology": "pātāla_pātāla_Cp saptakam_saptaka_SANe cakre_kṛ_SPs3In lokānām_loka_PGM saptakam_saptaka_SANe tathā_tathā_  / dvīpānām_dvīpa_PGM udadhīnām_udadhi_PGM ca_ca_ sthānāni_sthāna_PANe vividhāni_vividha_PANe ca_ca_  /"
+  },
+  {
+    "index": 17706,
+    "sanskrit": "tasmād ekamubhayātmakam iti parasparavyahatam etat //",
+    "english": "From all this it follows that the assertion that “every entity has two aspects” involves self-contradiction.",
+    "morphology": "tasmāt_tasmāt_ ekam_eka_SNNe ubhaya_ubhaya_Cp ātmakam_ātmaka_SNNe iti_iti_ paraspara_paraspara_Cp vyahatam_vyahan_SNPaNe "
+  },
+  {
+    "index": 17707,
+    "sanskrit": "śākamūlaphalairvāpi paṃcayajñanna hāpayet | ammūlaphalabhikṣābhirarcayedbhikṣukātithīn || 4 ||",
+    "english": "4. He should not discontinue the five Yajñas even if he has to make use of greens, roots and fruits. He should propitiate mendicants and guests through the alms consisting of water, roots and fruits.",
+    "morphology": "śāka_śāka_Cp mūla_mūla_Cp phalaiḥ_phala_PINe vā_vā_ api_api_ paṃcayajña_pañcayajña_Cp na_na_ hāpayet_hāpay_SPr3O  /"
+  },
+  {
+    "index": 17708,
+    "sanskrit": "bhālajāṃ kutsavatsau ca mohovī ākuśastathā | īyāślīā śāṃḍilaśca godharīpātrameva ca || 47 || ānaṃdīyā dve caiva bhāradvājaśāṃḍilaścaiva pāṭaḍīā kuśameva ca || 48 ||",
+    "english": "47-48. Bhālajā has Kutsa and Vatsa (as Pravara). Mohovī, Ākuśa, and Īyāślīā have Śāṇḍila. So also Godharī Pātra and Ānandīya have two Pravaras viz. Bhāradvāja and Śāṇḍila. Pāṭadīā has Kuśa as Pravara.",
+    "morphology": "bhālajām_bhālajā_SAF kutsa_kutsa_Cp vatsau_vatsa_DuAM ca_ca_ ākuśaḥ_ākuśa_SNM tathā_tathā_  / śāṃḍilaḥ_śāṃḍila_SNM ca_ca_ godharī_godharī_Cp pātram_pātra_SANe eva_eva_ ca_ca_  / ānaṃdīyā_ānandīyā_SNF dve_dvi_DuNF ca_ca"
+  },
+  {
+    "index": 17709,
+    "sanskrit": "aparādhavivarjitāṃ tyajannanakūlāṃ sahadharmacāriṇīm / yatidharmaparaḥ sa nekṣate kimimaṃ dharmapathavyatikramam //",
+    "english": "Abandoning his chaste and devoted wife, the companion of his religious duties, how is it that he does not perceive that by excessive love of the Law he is here transgressing the path of the Law?.",
+    "morphology": "aparādha_aparādha_Cp vivarjitām_vivarjay_SAPaF tyajan_tyaj_SNPaPrM anakūlām_anakūla_SAF saha_saha_ dharmacāriṇīm_dharmacāriṇī_SAF  / yati_yati_Cp dharma_dharma_Cp paraḥ_para_SNM sa_tad_SNM na_na_ īkṣate_īkṣ_SPr3In kim_kim_ imam_idam_S"
+  },
+  {
+    "index": 17710,
+    "sanskrit": "gaccha tvam samanujñātaḥ yatra yātaḥ dhanaṃjayaḥ",
+    "english": "Commanded by me, go thou thither where Dhananjaya hath gone.",
+    "morphology": "gaccha_gam_SPr2Im tvam_tvad_SN"
+  },
+  {
+    "index": 17711,
+    "sanskrit": "kuśale punaḥ karmaṇi bhavāgracetanā sarveṣāṃ mahāphalatamā /",
+    "english": "\"Volition for Bhavagra\" means the mental action through which one is reborn in the highest stage of Arupyadhatu.",
+    "morphology": "kuśale_kuśala_SLNe punar_punar_ karmaṇi_karman_SLNe bhavāgra_bhavāgra_Cp cetanā_cetanā_SNF sarveṣāḥ_sarva_PGM mahāphalatamā_mahāphalatama_SNF  /"
+  }
+]

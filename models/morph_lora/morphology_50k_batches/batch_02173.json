@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17376,
+    "sanskrit": "yayā me caraṇo mūrdhni bhasmareṇūṣitaḥ kṛtaḥ //",
+    "english": "Pleased with his self-control, mastery over his senses and regulations Brahma was highly pleased.",
+    "morphology": "yayā_yad_SIF"
+  },
+  {
+    "index": 17377,
+    "sanskrit": "iti suśrutasaṃhitāyām uttaratantra antargate kāyacikitsā tantre raktapittapratiṣedhaḥ nāma (saptamaḥ adhyāyaḥ | āditaḥ ( pañcacatvāriṃśattamaḥ adhyāyaḥ||45|| ṣaṭcatvāriṃśattamaḥ adhyāyaḥ",
+    "english": "Thus ends the forty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with (the symptoms and) the medical treatment of Rakta-pitta.",
+    "morphology": "iti_iti_U suśrutasaṃhitāyām_suśrutasaṃhitā_SLF uttaratantra_uttaratantra_NeCp antargate_antargam_SLPaPsNe kāyacikitsā_kāyacikitsā_FCp tantre_tantra_SLNe raktapittapratiṣedhaḥ_raktapittapratiṣedha_SNM nāma_nāma_U saptamaḥ_saptama_SNM "
+  },
+  {
+    "index": 17378,
+    "sanskrit": "rudrāṇām api yaḥ rudraḥ prabhuḥ prabhavatām api",
+    "english": "to him who is the Rudra of all Rudras and the effulgence of all things endued with effulgence;",
+    "morphology": "rudrāṇām_rudra_PGM api_api_U yaḥ_yad_SNM rudraḥ_rudra_SNM prabhuḥ_prabhu_SNM"
+  },
+  {
+    "index": 17379,
+    "sanskrit": "yaḥ ca tiktam kaṣāyam vā api āsvāda vidhuram hitam āhāram kurute nityam saḥ amṛta tvāya kalpate",
+    "english": "He who takes every day food that is nutritive, be it bitter or astringent or palatable or sweet, enjoys a long life.",
+    "morphology": "yaḥ_yad_SNM ca_ca_U tiktam_tikta_SAM kaṣāyam_kaṣāya_SAM vā_vā_U api_api_U āsvāda_āsvāda_MCp vidhuram_vidhura_SAM hitam_hita_SAM āhāram_āhāra_SAM kurute_kṛ_SPr3In nityam_nityam_U saḥ_tad_SNM amṛta_amṛta_Cp tvāya_tva_SDNe"
+  },
+  {
+    "index": 17380,
+    "sanskrit": "majjasāra mahā vīrya sarvān dhātūn viśodhaya",
+    "english": "“Cleansest and purifiest, O Thou potent essence of seedmarrow, all the essential principles of (my) vital organism.",
+    "morphology": "majjasāra_majjasāra_SVM"
+  },
+  {
+    "index": 17381,
+    "sanskrit": "yānaśayyādhirūḍho vā ciṃtāvyākulito 'tha vā | śaktaścetsarvamevaitadaśaktaḥ śaktito japet | kimatra bahunoktena samāsena vacaḥ śṛṇu | sadācāro japañchuddhaṃ dhyāyanbhadraṃ samaśnute ||",
+    "english": "54. Of what avail is much talk? Hear these words in brief. A person of good conduct, performing Japa and meditating purely attains welfare.",
+    "morphology": "yāna_yāna_Cp śayyā_śayyā_Cp adhirūḍhaḥ_adhiruh_SNPaM vā_vā_ ciṃtā_cintā_Cp vyākulitaḥ_vyākulita_SNM atha_atha_ vā_vā_  / śaktaḥ_śak_SNPaM ced_ced_ sarvam_sarva_SANe eva_eva_ etat_etad_SANe aśaktaḥ_aśakta_SNM śaktitas_śaktit"
+  },
+  {
+    "index": 17382,
+    "sanskrit": "itthaṃ tau pitṛbhiḥ śaptau śāpamokṣāya tāstataḥ | prārthayāmāsaturnnatvā tadocuste kṛpālavaḥ || 19 ||",
+    "english": "19. Both of them who were thus cursed by the manes (Pitṛs), bowed down to them, and prayed to them for absolving them from the curse. Then those compassionate ones spoke:",
+    "morphology": "ittham_ittham_ tau_tad_DuNM pitṛbhiḥ_pitṛ_PIM śaptau_śap_DuNPaM śāpa_śāpa_Cp mokṣāya_mokṣa_SDM tāḥ_tad_PAF tatas_tatas_  / prārthayāmāsatuḥ_prārthay_DuPs3InPe natvā_nam_Co tadā_tadā_ ā_ā_"
+  },
+  {
+    "index": 17383,
+    "sanskrit": "tatas sa dhātryā kakṣeṇa uhyamānaḥ nṛpa ātmajaḥ dadarśa tam pakṣi sutam bālyāt āgatya bālakaḥ",
+    "english": "One day the infant prince, while borne on the arms of his nurse, saw the little offspring of Pujani.",
+    "morphology": "tatas_tatas_U sa_tad_SNM dhātryā_dhātrī_SIF kakṣeṇa_kakṣa_SIM uhyamānaḥ_vah_SNPaPrMPv nṛpa_nṛpa_MCp ātmajaḥ_ātmaja_SNM dadarśa_dṛś_SPs3In tam_tad_SAM pakṣi_pakṣin_MCp sutam_suta_SAM bālyāt_bālya_SBNe āgatya_āgam_Co"
+  }
+]

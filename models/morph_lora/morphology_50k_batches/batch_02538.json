@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20296,
+    "sanskrit": "dāntān veda vrata snātān snātān avabhṛtheṣu ca",
+    "english": "And they were all self-restrained, purified by the study of the Vedas and by vows.",
+    "morphology": "dāntān_dam_PAPaPsM"
+  },
+  {
+    "index": 20297,
+    "sanskrit": "divaḥ na tubhyam anu indra satrā asuryam devebhiḥ dhāyi viśvam ahi m yat vr̥tram apaḥ vavri vāṁsam han r̥jīṣin viṣṇunā sacānaḥ",
+    "english": "Even as the power of Dyaus, to thee, O Indra, all Asura sway was by the Gods entrusted, When thou, Impetuous! leagued with Vishṇu, slewest Vr̥itra the Dragon who enclosed the waters.",
+    "morphology": "divaḥ_div_PNM na_na_U tubhyam_tvad_SD anu_anu_U indra_indra_SVM satrā_satrā_U asuryam_asurya_SNNe devebhiḥ_deva_PIM dhāyi_dhā_SPs3InPv viśvam_viśva_SNNe ahi_ahi_SNNe m_m_SNNe yat_yad_SNNe vr̥tram_vrātra_SNNe apaḥ_ap_PAF vavri_vṛ_SPs3In vā"
+  },
+  {
+    "index": 20298,
+    "sanskrit": "jīva yuktaḥ rathaḥ divyaḥ brahma loke virājate",
+    "english": "The body with jiva within it is an excellent car.",
+    "morphology": "jīva_jīva_MCp yuktaḥ_yuj_SNPaPsM"
+  },
+  {
+    "index": 20299,
+    "sanskrit": "tena prathamapāde rucakasvastikavardhamānakodāharaṇātsaṃsthānākṛtyabhidhānāśaṅkācayādadarśanavadāsīdityetābhyāṃ praśnottarābhyāṃ vyāvartyate / ataśca dravyaguṇakarmaṇāṃ yāvatkiṃ citprāga, vyaktibhyaḥ sāmānyaṃ tatsarvatantravārtika /",
+    "english": "C Thus then, inasmuch as the instances of Akrti, cited in the Tarkapada, being the various ornaments svastika and the like, it would seem that it was the material shape of objects that was meant, as held by the followers of Gautama and it is with a view to remove this misconception that the Bhashya has explained the real meaning by means of questions and an swers.",
+    "morphology": "tena_tena_ prathama_prathama_Cp pāde_pāda_SLM rucaka_rucaka_Cp svastika_svastika_Cp vardhamānaka_vardhamānaka_Cp udāharaṇāt_udāharaṇa_SBNe saṃsthāna_saṃsthāna_Cp ākṛti_ākṛti_Cp abhidhāna_abhidhāna_Cp āśaṅkā_āśaṅkā_Cp cay"
+  },
+  {
+    "index": 20300,
+    "sanskrit": "tatas sa ratham āsthāya drutam aśvān acodayat",
+    "english": "Riding upon his own car, he urged his steeds to great speed.",
+    "morphology": "taḥ_tad_SNM"
+  },
+  {
+    "index": 20301,
+    "sanskrit": "utkarṣo vā grahaṇādviśeṣasya vākyakṛtādvā dīrghasomasaṃyogādutkarṣaḥ /",
+    "english": "Sutra It should be taken apart because of the mention of the speciality. On account of the Syntactial Connection of the joining together with the Dirghasoma, the former must be taken apart from the Context. Because, an object is known as long Dirgha only when it is compared with another thing of the same kind, which is shorter than itself.",
+    "morphology": "utkarṣaḥ_utkarṣa_SNM vā_vā_ grahaṇāt_grahaṇa_SBNe viśeṣasya_viśeṣa_SGM vākya_vākya_Cp kṛtāt_kṛ_SBPaNe vā_vā_ dīrgha_dīrgha_Cp soma_soma_Cp saṃyogāt_saṃyoga_SBM"
+  },
+  {
+    "index": 20302,
+    "sanskrit": "maṅgalācārayuktānāṃ nityaṃ ca prayatātmanām / japatāṃ juhvatāṃ caiva vinipāto na vidyate //",
+    "english": "For those who are ever intent upon auspicious customs, who have their mind under control, and who go on reciting prayers and offering oblations, there is no calamity.",
+    "morphology": "maṅgala_maṅgala_Cp ācāra_ācāra_Cp yuktānām_yuj_PGPaM nityam_nityam_ ca_ca_ prayata_prayam_PaCp ātmanām_ātman_PGM  / japatām_jap_PGPaPrM juhvatām_hu_PGPaPrM ca_ca_ eva_eva_ vinipātaḥ_vinipāta_SNM "
+  },
+  {
+    "index": 20303,
+    "sanskrit": "yadyevaṃ suviraktiḥ syātsaṃsāropari saṃsthitā | samārādhaya deveśaṃ śaṃkaraṃ śaśiśekharam || 23 ||",
+    "english": "23. If you have such a strong detachment with worldly pleasures, do propitiate Śaṅkara, the moon-crested Lord of Devas.",
+    "morphology": "yadi_yadi_ evam_evam_ su_su_ viraktiḥ_virakti_SNF syāt_as_SPr3O saṃsāra_saṃsāra_Cp upari_upari_ saṃsthitā_saṃsthā_SNPaF  / samārādhaya_samārādhay_SPr2Im deveśam_deveśa_SAM śaṃkaram_śaṃkara_SAM śaśiśekharam_śaśiśekhara_SAM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15752,
+    "sanskrit": "prekṣamāṇaḥ bahūn bhāvān jagāma adbhuta darśanān",
+    "english": "And he seemed to see many wonderful sights as he reached (those place).",
+    "morphology": "prekṣamāṇaḥ_prekṣ_SNPaPrM bahūn_bahu_PAM bhāvān_bhāva_PAM"
+  },
+  {
+    "index": 15753,
+    "sanskrit": "anyonyam ghātayiṣyanti dṛḍhaiḥ śastraiḥ prahāriṇaḥ",
+    "english": "Capable of smiting, they will cause one another to be slain through the instrumentality of hard weapons.",
+    "morphology": "anyonyam_anyonya_SAM ghātayiṣyanti_ghātay_PNPaPrM"
+  },
+  {
+    "index": 15754,
+    "sanskrit": "avināśena lokasya kāṅkṣante pāṇḍavāḥ svakam",
+    "english": "They desire to get back their own share without involving the world in ruin.",
+    "morphology": "avināśena_avināśa_SIM"
+  },
+  {
+    "index": 15755,
+    "sanskrit": "droṇam kṛpam vikarṇam ca mahā iṣvāsān mahā balān rājñaḥ ca anyān raṇe śūrān bahūn ārchat dhanaṃjayaḥ saindhavam ca mahā iṣvāsam sa amātyam saha bandhubhiḥ",
+    "english": "And Dhananjaya encountered Drona and Kripa, and Vikarna and many other kings, brave in battle, all mighty bowmen endued with great strength, as also that mighty bowman the ruler of the Sindhus supported by his friends and kinsmen and many kings of the west and the south also, O bull of Bharata's race.",
+    "morphology": "droṇam_droṇa_SAM kṛpam_kṛpa_SAM vikarṇam_vikarṇa_SAM ca_ca_U mahā_mahat_Cp iṣvāsān_iṣvāsa_PAM mahā_mahat_Cp balān_bala_PAM rājñaḥ_rājan_PAM ca_ca_U anyān_anya_PAM raṇe_raṇa_SLM śūrān_śūra_PAM bahūn_bahu_PAM ārchat_ṛ"
+  },
+  {
+    "index": 15756,
+    "sanskrit": "tena iṣṭvā tvam vipāpmā vai bhavitā na atra saṃśayaḥ vaiśampāyanaḥ uvāca iti uktaḥ sa tu dharma ātmā kuru rājaḥ yudhiṣṭhiraḥ",
+    "english": "Without doubt, having worshipped the deities by that sacrifice thou wilt surely be cleansed of all sins.' \"Vaisampayana continued, 'Thus addressed, the Kuru king Yudhisthira of righteous soul then set his heart, O monarch, on making the necessary preparations for the horse-sacrifice.",
+    "morphology": "tena_tad_SIM iṣṭvā_yaj_Co tvam_tvad_SN vipāpmā_vipāpman_SNM vai_vai_U bhavitā_bhū_SFu3In na_na_U atra_atra_U saṃśayaḥ_saṃśaya_SNM vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In iti_iti_U uktaḥ_vac_SNPaPsM sa_tad_SNM tu_tu_U dhar"
+  },
+  {
+    "index": 15757,
+    "sanskrit": "bhūyo 'vayavasāmānyayogaḥ sādṛśyam asti cet //",
+    "english": "It might be urged that “there is the connection of the manifold commonalty of component parts, which is what is cognised”.",
+    "morphology": "bhūyas_bhūyas_ avayava_avayava_Cp sāmānya_sāmānya_Cp yogaḥ_yoga_SNM sādṛśyam_sādṛśya_SNNe asti_as_SPr3In ced_ced_"
+  },
+  {
+    "index": 15758,
+    "sanskrit": "buddhyādīnāṃ caitanyaparyāyatvāt / tathā hi yat prakāśātmatayā svasaṃviditarūpaṃ paranirapekṣam eva prakāśate taccaitanyamucyate tattvaṃ buddher apyastīti kimiti sā cidrūpā na bhavet / na cāpi buddhivyatirekeṇāparaṃ cidrūpam upalakṣyāmaḥ /",
+    "english": "as ‘Buddhi’ (Intellect) etc. are only so many synonyms of ‘Sentience’, For instance, that which is of the nature of light and has its form known by itself and shines independently of all else, is ‘Sentience and this character is present in Buddhi (Intellect) also; why then should this latter not be the same as Sentience? specially as apart from Intellect, we do not perceive any other form of Sentience, by virtue of which this distinct nature could be attributed to Spirit.",
+    "morphology": "buddhi_buddhi_Cp ādīnām_ādi_PGM caitanya_caitanya_Cp paryāya_paryāya_Cp tvāt_tva_SBNe  / tathā_tathā_ hi_hi_ yat_yad_SNNe prakāśa_prakāśa_Cp ātma_ātman_Cp tayā_tā_SIF sva_sva_Cp saṃvidita_saṃvid_PaCp rūpam_rūpa_SNNe para_para_Cp nira"
+  },
+  {
+    "index": 15759,
+    "sanskrit": "viddhi candramasam darśe sūkṣmayā kalayā sthitam vidyā mayam tam puruṣam nityam jñāna guṇa ātmakam",
+    "english": "Know that the man of knowledge, without undergoing destruction, remains existent for ever like the moon on the last day of the dark fortnight existing in a subtle (but undestroyed) form.",
+    "morphology": "viddhi_vid_SPr2Im candramasam_candramas_SAM darśe_darśa_SLM sūkṣmayā_sūkṣma_SIF kalayā_kalā_SIF sthitam_sthā_SAPaPsM vidyā_vidyā_FCp mayam_maya_SAM tam_tad_SAM puruṣam_puruṣa_SAM"
+  }
+]

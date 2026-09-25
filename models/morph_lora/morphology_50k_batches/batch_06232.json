@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49848,
+    "sanskrit": "mithyājñānaṃ samānaṃ ca pūrvapakṣavyapekṣayā / iṣṭaghātakṛtā janyaṃ jñānamuktaṃ na vastutaḥ //",
+    "english": "When the ‘wrong cognition’, as ‘subversive of what is desirable’, is spoken of as being ‘similar’, the ‘similarity’ meant must be only that of the view of the first party, and not real similarity;",
+    "morphology": "mithyājñānam_mithyājñāna_SNNe samānam_samāna_SNNe ca_ca_ pūrvapakṣa_pūrvapakṣa_Cp vyapekṣayā_vyapekṣā_SIF  / iṣṭa_iṣṭa_Cp ghāta_ghāta_Cp kṛtā_kṛt_SIM janyam_jan_SNNeGd jñānam_jñāna_SNNe uktam_vac_SNPaNe na_na_ vastuta"
+  },
+  {
+    "index": 49849,
+    "sanskrit": "kuśalānāṃ punaḥ karmapathānāṃ dvividhāḥ sapta kuśalāḥ",
+    "english": "Among the good courses of action, Seven good courses of action are of two types.",
+    "morphology": "kuśalānām_kuśala_PGM punar_punar_ karma_karman_Cp pathānām_patha_PGM dvividhāḥ_dvividha_PNM sapta_saptan_PNM kuśalāḥ_kuśala_PNM"
+  },
+  {
+    "index": 49850,
+    "sanskrit": "indrādidevatāścaiva siddhacāraṇakinnarāḥ | anye ca devanivahā gaṃdhamādanaparvate || 60 || tāṃ yajñabhūmimāśritya svayaṃ rudreṇa sevitām | niraṃtaramavartaṃta viditvā tasya vaibhavam || 61 ||",
+    "english": "When the Yajñas were concluded, the sages who had controlled their passions and sense-organs, Indra and other Devas, Siddhas, Cāraṇas and Kinnaras and other groups of divine beings continued to stay permanently on the Gandhamādana mountain. They resorted to the sacrificial site visited by Rudra himself, because they had realized its efficacy.",
+    "morphology": "indra_indra_Cp ādi_ādi_Cp devatāḥ_devatā_PNF ca_ca_ eva_eva_ siddha_siddha_Cp cāraṇa_cāraṇa_Cp kinnarāḥ_kiṃnara_PNM  / anye_anya_PNM ca_ca_ deva_deva_Cp nivahāḥ_nivaha_PNM gaṃdhamādana_gandhamādana_Cp parvate_parvata_SLM  / tām_tad"
+  },
+  {
+    "index": 49851,
+    "sanskrit": "granthayo daśa kartavyā athavā tantusaṅkhyayā // antaraṃ vā yathāśobhamekadvicaturaṅgulaṃ /",
+    "english": "There should be ten knots or equal to the number of strings. The interspace between the knots should be one, two or four finger lengths in such a way as to make it elegant.",
+    "morphology": "granthayaḥ_granthi_PNM daśa_daśan_SNNe kartavyāḥ_kṛ_PNMGd athavā_athavā_ tantu_tantu_Cp saṅkhyayā_saṃkhyā_SIF  /"
+  },
+  {
+    "index": 49852,
+    "sanskrit": "uktaṃ tāvat kāmajasya vyasanavargasya lobho mūlam /",
+    "english": "It has been said that Greediness is at the root of the set of vices born of love of pleasure;",
+    "morphology": "uktam_vac_SNPaNe tāvat_tāvat_ kāma_kāma_Cp jasya_ja_SGM vyasana_vyasana_Cp vargasya_varga_SGM lobhaḥ_lobha_SNM mūlam_mūla_SNNe  /"
+  },
+  {
+    "index": 49853,
+    "sanskrit": "nikṛttāni eva tāni sma samadṛśyanta bhārata tatas te tu nimeṣa ardhāt pratyapadyan dhanūṃṣi ca",
+    "english": "And those bows we saw were cut off, O Bharata, and thereupon they all took up, within half the time taken up in a wink of the eye, other bows.",
+    "morphology": "nikṛttāni_nikṛt_PNPaPsNe eva_eva_U tāni_tad_PNNe sma_sma_U samadṛśyanta_saṃdṛś_PPs3InPv bhārata_bhārata_SVM tatas_tatas_U te_tad_PNM tu_tu_U nimeṣa_nimeṣa_MCp ardhāt_ardha_SBNe prathāt_prathā_SINe hi_hi_U hi_hi_U hi_hi_U hi_hi_U hi_h"
+  },
+  {
+    "index": 49854,
+    "sanskrit": "brāhmaṇāḥ sa agnihotrāḥ ca tathā eva ca niragnayaḥ svādhyāyinaḥ bhikṣavaḥ ca sa japāḥ vana vāsinaḥ bahavaḥ brāhmaṇāḥ tatra parivavruḥ yudhiṣṭhiram",
+    "english": "And Yudhishthira was surrounded by numerous Brahmanas some of whom sacrificed with fire and some without it and some of whom, devoted to the study of the Vedas, lived upon alms or were of the class called Vanaprasthas.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM sa_sa_U agnihotrāḥ_agnihotra_PNM ca_ca_U tathā_tathā_U eva_eva_U ca_ca_U niragnayaḥ_niragni_PNM svādhyāyinaḥ_svādhyāyin_PNM bhikṣavaḥ_bhikṣu_PNM ca_ca_U sa_sa_U japāḥ_japa_PNM vana_vana_NeCp vāsinaḥ_"
+  },
+  {
+    "index": 49855,
+    "sanskrit": "āhavanīya iti brūyāt |",
+    "english": "The theologians say, 'What in the sacrifice is the sacrificer' 'The bundle' (is the reply).",
+    "morphology": "āhavanīyaḥ_āhavanīya_SNM"
+  }
+]

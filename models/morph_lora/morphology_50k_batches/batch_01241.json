@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9920,
+    "sanskrit": "tatas sa kavacī dhanvī bāṇī dīptaḥ iva analaḥ stūyamānaḥ sura ṛṣibhiḥ",
+    "english": "Put on shining mail on his person and armed with the bow, Pratarddana, his praises sung by bards and the celestial Rishis, shone resplendent like the risen star of day.",
+    "morphology": "tatas_tatas_U sa_tad_SNM kavacī_kavacin_SNM dhanvī_dhanvin_SNM bāṇī_bāṇin_SNM dīptaḥ_dīp_SNPaPsM iva_iva_U analaḥ_anala_SNM stūyamānaḥ_stu_SNPaPrMPv"
+  },
+  {
+    "index": 9921,
+    "sanskrit": "athānanyaḥ syāddāhyameva dāhakaṃ syāt /",
+    "english": "if fire were the same as fuel the consumed would be the consumer.",
+    "morphology": "atha_atha_ ananyaḥ_ananya_SNM syāt_as_SPr3O dāhyam_dāhay_SNNeGd eva_eva_ dāhakam_dāhaka_SNNe syāt_as_SPr3O  /"
+  },
+  {
+    "index": 9922,
+    "sanskrit": "kṛcchrasāṃtapane niṣṭhā mahāpārākiṇaḥ pare | aṃbubhakṣā vāyubhakṣāḥ phenapāścoṣmapāḥ pare || 11 ||",
+    "english": "11. Some having the eligibility to cross over were engaged in the observance of the most painful and arduous religious vow while others were excessively engaged in having water, air, foam or heat as food only.",
+    "morphology": "kṛcchrasāṃtapane_kṛcchrasāṃtapana_SLNe niṣṭhāḥ_niṣṭhā_PNM mahā_mahat_Cp pārākiṇaḥ_pārākin_PNM pare_para_PNM  / aṃbu_ambu_Cp bhakṣāḥ_bhakṣa_PNM vāyu_vāyu_Cp bhakṣāḥ_bhakṣa_PNM phenapāḥ_phenapa_PNM ca_ca_ "
+  },
+  {
+    "index": 9923,
+    "sanskrit": "yātavyayaugapadye guruvyasanaṃ nyāyavṛttiṃ laghuvyasanam anyāyavṛttiṃ viraktaprakṛtiṃ vāiti viraktaprakṛtiṃ yāyāt // guruvyasanaṃ nyāyavṛttim abhiyuktaṃ prakṛtayoanugṛhṇanti,",
+    "english": "When there are two assailable enemies, one of virtuous character and under worse troubles, and another of vicious character, under less troubles, and with disloyal subjects, which of them is to be marched against first? When the enemy of virtuous character and under worse troubles is attacked, his subjects will help him;",
+    "morphology": "yātavya_yātavya_Cp yaugapadye_yaugapadya_SLNe guru_guru_Cp vyasanam_vyasana_SANe nyāya_nyāya_Cp vṛttim_vṛtti_SAF laghu_laghu_Cp vyasanam_vyasana_SANe anyāya_anyāya_Cp vṛttim_vṛtti_SAF virakta_virañj_PaCp prakṛtim_prakṛti_SAF vā_vā_ iti"
+  },
+  {
+    "index": 9924,
+    "sanskrit": "śrutāni ca purāṇāni rāja dharmāḥ ca kevalāḥ",
+    "english": "Thou hast heard all old histories, and everything about the duties of kings.",
+    "morphology": "śrutāni_śru_PNPaPsNe ca_ca_U purāṇāni_purāṇa_PNNe"
+  },
+  {
+    "index": 9925,
+    "sanskrit": "tam kārmuka mahā vegam astra jvalita pāvakam droṇam āsādayām cakruḥ pāñcālāḥ pāṇḍavaiḥ saha",
+    "english": "Then the Panchalas and the Pandavas boldly approached Drona, who, armed with his bow of great force, resembled a fire having weapons for its flames.",
+    "morphology": "tam_tad_SAM kārmuka_kārmuka_NeCp mahā_mahat_Cp vegam_vega_SAM astra_astra_NeCp jvalita_jval_PaPsCp pāvakam_pāvaka_SAM droṇam_droṇa_SAM āsādayām_āsāday_SPs3In cakruḥ_kṛ_PPs3In pāñcālāḥ_pāñcāla_PNM pāṇḍavaiḥ_pāṇḍava_PNM"
+  },
+  {
+    "index": 9926,
+    "sanskrit": "adhyāyāḥ saptatiḥ jñeyāḥ tathā dvau ca atra saṃkhyayā ślokānām dve sahasre tu pañca śloka śatāni ca ślokāḥ ca ekādaśa jñeyāḥ parvaṇi asmin prakīrtitāḥ",
+    "english": "This parva is divided into seventh-eight sections, O best of Brahmanas, of two thousand, five hundred and seven slokas.",
+    "morphology": "adhyāyāḥ_adhyāya_PNM saptatiḥ_saptati_SNF jñeyāḥ_jñā_PNMGd tathā_tathā_U dvau_dvi_DuNM ca_ca_U atra_atra_U saṃkhyayā_saṃkhyā_SIF ślokānām_śloka_PGM dve_dvi_DuNNe sahasre_sahasra_DuNNe tu_tu_U pañca_pañcan_PNNe śloka_śloka_MCp "
+  },
+  {
+    "index": 9927,
+    "sanskrit": "uccāvacān mṛgān jaghnuḥ medhyān ca śataśas paśūn",
+    "english": "And deer of various kinds and clean animals by hundreds were slain.",
+    "morphology": "uccāvacān_uccāvaca_PAM mṛgān_mṛga_PAM jaghnuḥ_han_PPs3In"
+  }
+]

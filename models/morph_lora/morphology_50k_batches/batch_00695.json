@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5552,
+    "sanskrit": "agniḥ tvam āhutiḥ [80",
+    "english": "Thou art the sanctified butter that is poured into the sacrificial fire.",
+    "morphology": "agniḥ_agni_SNM tvam_tvad_SN āhutiḥ_āhuti_SNF"
+  },
+  {
+    "index": 5553,
+    "sanskrit": "yadā tasminpradeśe'ntarbhāgabhāgānpatanti te / dehe pariṇamanto'ntastadevātyadrivarṣaṇam //",
+    "english": "As after digestion certain kind of juice appears within the body in the shape of vitality, so stone begins to fall therein.",
+    "morphology": "yadā_yadā_ tasmin_tad_SLM pradeśe_pradeśa_SLM antar_antar_ bhāga_bhāga_Cp bhāgān_bhāga_PAM patanti_pat_PPr3In te_tad_PNM  / dehe_deha_SLM pariṇamantaḥ_pariṇam_PNPaPrM antar_antar_ tat_tad_SNNe eva_eva_ ati_ati_ adri_adri_Cp varṣaṇam_var"
+  },
+  {
+    "index": 5554,
+    "sanskrit": "yathā bhagavān sākṣād dharmaṃ dṛṣṭavānnirdiṣṭavāṃśceti /",
+    "english": "It has been already proved that the Blessed Lord had the direct perception of Dharma and taught it.",
+    "morphology": "yathā_yathā_ bhagavān_bhagavant_SNM sākṣāt_sākṣāt_ dharmam_dharma_SAM dṛṣṭavān_dṛś_SNPaM nirdiṣṭavān_nirdiś_SNPaM ca_ca_ iti_iti_  /"
+  },
+  {
+    "index": 5555,
+    "sanskrit": "athāhavanīyamupatiṣṭhate /",
+    "english": "He then steps up to the Âhavanîya fire.",
+    "morphology": "atha_atha_ āhavanīyam_āhavanīya_SAM upatiṣṭhate_upasthā_SPr3In  /"
+  },
+  {
+    "index": 5556,
+    "sanskrit": "tatra me trijagadrūpamantaḥ kacitamātmani / tathā tanna tu tadvāhye vidyate kenacitkvacit //",
+    "english": "I see the triple world expanding within myself (according to our reminiscence of the same which is engraven in the mind), beside which there is no outer world on the outside of of any body.",
+    "morphology": "tatra_tatra_ me_mad_SG trijagat_trijagant_Cp rūpam_rūpa_SNNe antar_antar_  / tathā_tathā_ tat_tad_SNNe na_na_ tu_tu_ tat_tad_SNNe vāhye_vāhya_SLNe vidyate_vid_SPr3InPv kenacid_kaścit_SIM kvacid_kvacid_  /"
+  },
+  {
+    "index": 5557,
+    "sanskrit": "pūrvoktenaiva mārgeṇa vyāmocaikāntakacanām / vikalpe 'vaśyamāpannāṃ smṛtāveva niyacchati",
+    "english": "Or, it may mean that the idea brought about by the Smrti having previously at the time when the Vedic alternative is accepted found to be a mistaken one, it can never attain even to partial authoritativeness and thus the passage may also serve to point out the fact of the Smrti text being contradicted by the Vedic one, specially on account of the former having its origin in Illusion &c.",
+    "morphology": "pūrva_pūrva_Cp uktena_vac_SIPaM eva_eva_ mārgeṇa_mārga_SIM vyāmoca_vyāmoca_Cp ekānta_ekānta_Cp kacanām_kacana_SAF  / vikalpe_vikalpa_SLM avaśyam_avaśyam_ āpannām_āpad_SAPaF smṛtau_smṛti_SLF eva_eva_ niyacchati_niyam_SPr3In"
+  },
+  {
+    "index": 5558,
+    "sanskrit": "rājarṣiḥ api anirviṇṇaḥ karṣati eva vasuṃdharām",
+    "english": "The royal sage Kuru, however, without being at all depressed, continued to till the soil.",
+    "morphology": "rājarṣiḥ_rājarṣi_SNM api_api_U anirviṇṇaḥ_anirviṇṇa_SNM karṣati_kṛṣ_SPr3In eva_eva_U vasuṃdharām_vasuṃdharā_SAF"
+  },
+  {
+    "index": 5559,
+    "sanskrit": "sthānam asya kṣitipateḥ śrotum icchāmi aham vibho",
+    "english": "O puissant one, I wish to hear from thee what region will be acquired by the royal Dhritarashtra.",
+    "morphology": "sthānam_sthāna_SANe asya_idam_SGM kṣitipateḥ_kṣitipati_SGM śrotum_śru_In icchāmi_iṣ_SPr1In aham_mad_SN vibho_vibhu_SVM"
+  }
+]

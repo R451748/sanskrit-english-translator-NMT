@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3112,
+    "sanskrit": "antareva navanītam |",
+    "english": "fresh butter is as it were midway;",
+    "morphology": "antarā_"
+  },
+  {
+    "index": 3113,
+    "sanskrit": "tatra yāsāṃ mātṛṇāmaṇḍānyārabhya smṛtirna muṣyate tānyaṇḍāni na pūtībhavanti yāsāṃ tu muṣyate tāni pūtībhavanti / tadetanna varṇayanti sautrāntikāḥ /",
+    "english": "If the mother forgets the eggs, they will perish.",
+    "morphology": "tatra_tatra_ yāsām_yad_PGF mātṛṇām_mātṛṇā_SAF aṇḍāni_aṇḍa_PANe ārabhya_ārabh_Co smṛtiḥ_smṛti_SNF na_na_ muṣyate_muṣ_SPr3InPv tāni_tad_PNNe aṇḍāni_aṇḍa_PNNe na_na_ pūtībhavanti_pūtībhū_PPr3In yāsām_yad_PGF"
+  },
+  {
+    "index": 3114,
+    "sanskrit": "sampattir abhyudayaḥ sa ca dvidhākāraḥ prāptaścāprāptaś ca /",
+    "english": "Success is equivalent to prosperity and this has two aspects a that which is attained and b that not attained.",
+    "morphology": "sampattiḥ_sampatti_SNF abhyudayaḥ_abhyudaya_SNM sa_tad_SNM ca_ca_ dvidhākāraḥ_dvidhākāra_SNM prāptaḥ_prāp_SNPaM ca_ca_ aprāptaḥ_aprāpta_SNM ca_ca_  /"
+  },
+  {
+    "index": 3115,
+    "sanskrit": "malayam ca api paśyāmi pāriyātram ca parvatam",
+    "english": "And I beheld there the mountains of Malaya and of Paripatra also.",
+    "morphology": "malayaḥ_malaya_SNM"
+  },
+  {
+    "index": 3116,
+    "sanskrit": "tatas duryodhanaḥ kopāt utpapāta mahā balaḥ bhrātṛ padma vanāt tasmāt mada utkaṭaḥ iva dvipaḥ saḥ abravīt bhīma karmāṇam bhīmasenam avasthitam",
+    "english": "And even as a mad elephant riseth from an assemblage of lotuses, the mighty Duryodhana rose in wrath from among his brothers, and addressed that performer of dreadful deeds, Bhimasena, present there, 'O Vrikodara, it behoveth thee not to speak such words.",
+    "morphology": "tatas_tatas_U duryodhanaḥ_duryodhana_SNM kopāt_kopa_SBM utpapāta_utpat_SPs3In mahā_mahat_Cp balaḥ_bala_SNM bhrātṛ_bhrātṛ_MCp padma_padma_MCp vanāt_vana_SBNe tasmāt_tad_SBNe mada_mada_MCp utkaṭaḥ_utkaṭa_SNM iva_iva_U dvipaḥ_dvipa_SNM "
+  },
+  {
+    "index": 3117,
+    "sanskrit": "loha gandhiḥ tu raktena vyāmiśraḥ sāṃnipātikaḥ ||",
+    "english": "An ulcer, deranged by the action of the vitiated blood, emits a smell like that of iron (Loha-gandhi), while one, originated through the concerted action of the deranged humours, emits a smell characterised by the distinctive features of each of them.",
+    "morphology": "loha_loha_NeCp gandhiḥ_gandhi_SNM tu_tu_U raktena_rakta_SINe vyāmiśraḥ_vyāmiśra_SNM sāṃnipātikaḥ_sāṃnipātika_SNM"
+  },
+  {
+    "index": 3118,
+    "sanskrit": "kaḥ asi kam tvā abhijānīmaḥ vayam kim karavāmahe",
+    "english": "We long to know who thou art and whose son.",
+    "morphology": "kaḥ_ka_SNM asi_as_SPr2In kam_ka_SAM tvā_tvad_SA abhijānīmaḥ_abhijñā_PPr1In"
+  },
+  {
+    "index": 3119,
+    "sanskrit": "prāktanā janmavidyāstāṃ śaradīva prapedire | haṃsālissvarṇadī naktamātmabhāso mahauṣadhim ||",
+    "english": "24. Just as the flock of swans returns to the Gaṅgā in the autumnal season and just as the brilliant lustre manifests itself in the medicinal herbs during the night, so also all the learning of the previous birth returned to Kālī.",
+    "morphology": "prāktanāḥ_prāktana_PNF janma_janman_Cp vidyāḥ_vidyā_PNF tām_tad_SAF śaradi_śarad_SLF iva_iva_ prapedire_prapad_PPs3In  /"
+  }
+]

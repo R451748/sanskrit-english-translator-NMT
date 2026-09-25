@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27816,
+    "sanskrit": "uta syā naḥ divā matiḥ aditiḥ ūtyā ā gamat sā śam tāti mayaḥ karat apa sridhaḥ",
+    "english": "And in the day our hymn is this: May Aditi come nigh to help, With loving-kindness bring us weal and chase our foes.",
+    "morphology": "uta_uta_U syā_tya_SNF naḥ_mad_PA divā_divā_U matiḥ_mati_SNF aditiḥ_aditi_SNF ūtyā_ūti_SIF ā_ā_U gamat_gam_SPs3Su sā_tad_SNF śam_śam_SANe tāti_tāti_SIF mayaḥ_mayas_SANe karā_kṛ_SPs3Su"
+  },
+  {
+    "index": 27817,
+    "sanskrit": "śrīrāma uvāca / evaṃ sthite he bhagavanbuddhisaṃskārataḥ smṛtiḥ / iti kiṃ prāpyate brūhi saṃbuddhā yadi na smṛtiḥ //",
+    "english": "Rama said:—If it is so sir, that all these powers are the spontaneous growth of chance, how can the mental power of memory be produced on a sudden, when it is well known to be the product of remembrance or former impressions in the mind. Please explain me this.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / evam_evam_ sthite_sthā_SLPaNe he_he_ bhagavan_bhagavat_SVM buddhi_buddhi_Cp saṃskārataḥ_saṃskāra_SBM smṛtiḥ_smṛti_SNF  / iti_iti_ kim_ka_SNNe prāpyate_prāp_SPr3InPv brūhi_brū_SPr2Im "
+  },
+  {
+    "index": 27818,
+    "sanskrit": "kiṃ punaratra dravyameva dravyaṃ gṛhyate āhosvidāyatanam / kiṃ cātaḥ / yadi dravyameva dravyaṃ gṛhyate atyalpamidamucyate aṣṭadravyako navadaśādravyaka iti /",
+    "english": "Are we to understand dravyas as individual substances, as things that have their own characteristics, or as āyaṭanas that one can term dravyas, substances, since they each possess distinctive general characteristics? In the first hypothesis the numbers proposed are too few.",
+    "morphology": "kim_ka_SNNe punar_punar_ atra_atra_ dravyam_dravya_SNNe eva_eva_ dravyam_dravya_SNNe gṛhyate_grah_SPr3InPv āhosvit_āhosvit_ āyatanam_āyatana_SNNe  / kim_ka_SNNe ca_ca_ atas_atas_  / yadi_yadi_ dravyam_dravya_SNNe eva_eva_ dravyam_dravya_SNNe gṛhyat"
+  },
+  {
+    "index": 27819,
+    "sanskrit": "ekānta grāhi tā raudram asūyā dharma bāhya tā",
+    "english": "A Rakshasa-Sattva man is solitary in his habits, fierce, jealous of others excellence, externally pious, extremely vain and ignorant.",
+    "morphology": "ekānta_ekānta_MCp"
+  },
+  {
+    "index": 27820,
+    "sanskrit": "anantavipulāgādhagambhīre kālasāgare / utpattyotpattya līyante te tvāvartavivartayā //",
+    "english": "All these rise and fall in the eventful ocean of time, and having leapt and jumped and danced awhile, sink in the abyss of the fathomless whirl of death, from which none can rise again.",
+    "morphology": "ananta_ananta_Cp vipula_vipula_Cp agādha_agādha_Cp gambhīre_gambhīra_SLM kāla_kāla_Cp sāgare_sāgara_SLM  / utpattya_utpad_Co utpattya_utpad_Co līyante_lī_PPr3In te_tad_PNM tu_tu_ āvarta_āvarta_Cp vivartayā_vivarta_SIF  /"
+  },
+  {
+    "index": 27821,
+    "sanskrit": "iti maryādāsthāpanam /",
+    "english": "Thus the determination of boundaries is dealt with",
+    "morphology": "iti_"
+  },
+  {
+    "index": 27822,
+    "sanskrit": "śrīvasiṣṭha uvāca / prathamaṃ jātamātreṇa puṃsā kiṃcidvikasitabuddhinaiva satsaṃgamapareṇa bhavitavyam //",
+    "english": "Vasishtha said (prose): After the birth of a man and a slight development of his understanding, he should associate the company of good and wise men.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / prathamam_prathamam_ jāta_jan_PaCp mātreṇa_mātra_SIM puṃsā_puṃs_SIM kiṃcid_kaścit_SANe vikasita_vikas_PaCp buddhinā_buddhi_SIM eva_eva_ sat_sat_Cp saṃgama_saṃgama_Cp par"
+  },
+  {
+    "index": 27823,
+    "sanskrit": "durāśādīrghadaurātmyadhūsarā bhogabhasmanā / bhayabhogihitā diṣṭyā bhūyasyo vāsanāḥ kṣatāḥ //",
+    "english": "Ah! where is my egoism fled, with its body besmeared with the dust and dirt of worldliness, and battered by the rocks of its insatiable desires? It is bitten by the deadly dragons of fears and dangers, and pierced in its hearts by repeated disappointments and despair.",
+    "morphology": "durāśā_durāśā_Cp dīrgha_dīrgha_Cp daurātmya_daurātmya_Cp dhūsarāḥ_dhūsara_PNF bhoga_bhoga_Cp bhasmanā_bhasman_SINe  / bhaya_bhaya_Cp bhogi_bhogin_Cp hitāḥ_hita_PNF diṣṭyā_diṣṭi_SIF bhūyasīḥ_bhūyas_PNF vāsanāḥ_vāsanā_P"
+  }
+]

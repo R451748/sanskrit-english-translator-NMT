@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8752,
+    "sanskrit": "anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /",
+    "english": "According to others, the first two actions are retributed in hell and retributed moreover in Kāmadhātu.",
+    "morphology": "anye_anya_PNM naraka_naraka_Cp vedya_vid_GdCp anya_anya_Cp kāma_kāma_Cp vedyam_vid_SANeGd dvayam_dvaya_SANe viduḥ_vid_PPs3In  /"
+  },
+  {
+    "index": 8753,
+    "sanskrit": "iyaṃ hi śāṃkarī śaktiḥ kalā śambhorilāhvayā | narmadā duritadhvaṃsakāriṇī bhavatāriṇī || 39 ||",
+    "english": "But ever since my birth till to-day, I do not know (the nature of) her former existence. This Narmadā is the Śakti of Śaṅkara, the Kalā named Ilā of Śaṃbhu. She destroys all sins and redeems people from worldly existence.",
+    "morphology": "iyam_idam_SNF hi_hi_ śāṃkarī_śāṃkara_SNF śaktiḥ_śakti_SNF kalā_kalā_SNF śambhoḥ_śambhu_SGM ilā_ilā_Cp āhvayā_āhvaya_SNF  / narmadā_narmadā_SNF durita_durita_Cp dhvaṃsa_dhvaṃsa_Cp kāriṇī_kārin_SNF bhava_bhava_Cp tāriṇī"
+  },
+  {
+    "index": 8754,
+    "sanskrit": "saṃprākruṣṭe rudita strī kumāre parābhūte pauruṣe dhārtarāṣṭre mayā kṛtyam iti jānāmi sūta",
+    "english": "O charioteer, I know that even this is what I should do, when women and children cry for help, or when Duryodhana's prowess sustains a check.",
+    "morphology": "saṃprākruṣṭe_saṃprākruś_SLPaPsM rudita_rud_PaPsCp strī_strī_FCp kumāre_kumāra_SLM parābhūte_parābhū_SLPaPsNe pauruṣe_pauruṣa_SLNe dhārtarāṣṭre_dhārtarāṣṭra_SLNe mayā_mad_SI kṛtyam_kṛ_SNNeGd iti_iti_U jānāmi_jñā_S"
+  },
+  {
+    "index": 8755,
+    "sanskrit": "mayā hi atra āhitam brahma tapaḥ āsthāya dāruṇam",
+    "english": "Having performed severe austerities, I infused the virtue of my religious acts in this water, that a son might be born to thee.",
+    "morphology": "mayā_mad_SI hi_hi_U atra_atra_U āhitam_ādhā_SNPaPsNe brahma_brahman_SNNe tapaḥ_tapas_SANe āsthāḥ_āsthā_SNPaPsM"
+  },
+  {
+    "index": 8756,
+    "sanskrit": "suvarṇamukharītoyapuṣṭasasyānnabhojinaḥ | na lipyante mahāpāpairdurbhojanaśatodbhavaiḥ || 43 ||",
+    "english": "33. Those who regularly consume the grains and vegetables nourished by the waters of Suvarṇamukharī are never afflicted with great sins arising from hundreds of consumptions of faulty foodstuffs.",
+    "morphology": "suvarṇa_suvarṇa_Cp mukharī_mukharī_Cp toya_toya_Cp puṣṭa_puṣ_PaCp sasya_sasya_Cp anna_anna_Cp bhojinaḥ_bhojin_PNM  / na_na_ lipyante_lip_PPr3InPv mahā_mahat_Cp pāpaiḥ_pāpa_PINe durbhojana_durbhojana_Cp śata_śata_Cp udbhavaiḥ_udbhava_"
+  },
+  {
+    "index": 8757,
+    "sanskrit": "śāstrato gurutaścaiva svataśceti trisiddhayaḥ / sarvatra puruṣārthasya na daivasya kadācana //",
+    "english": "There are three fold benefits derived from the study of books, from lectures of a preceptor, and from one's own industry, all of which are attendant on our exertions and not destiny.",
+    "morphology": "śāstrataḥ_śāstra_SBNe gurutaḥ_guru_SBM ca_ca_ eva_eva_ svatas_svatas_ ca_ca_ iti_iti_ tri_tri_Cp siddhayaḥ_siddhi_PNF  / sarvatra_sarvatra_ puruṣa_puruṣa_Cp arthasya_artha_SGM na_na_ daivasya_daiva_SGNe kadācana_kadācana_  /"
+  },
+  {
+    "index": 8758,
+    "sanskrit": "na tu etat sahasā pārtha moktavyam puruṣe kva cit",
+    "english": "How could men know anything of it? But, O son of Pritha, this weapon should not be hurled without adequate cause;",
+    "morphology": "na_na_U tu_tu_U etat_etad_SNNe sahasā_sahasā_U pārtha_pārtha_SVM moktavyam_muc_SNNeGd"
+  },
+  {
+    "index": 8759,
+    "sanskrit": "prakṛtamupasaṃharati–tasmānnapratipatti iti |yadapi kecidāhuḥ, pravṛttinivṛttividhi-taccheṣavyatirekeṇa kevalavastuvādī vedabhāgonāstīti, tanna;",
+    "english": "Therefore, not as subsidiary to the injunction of contemplation etc. That too which some say, There is no portion of the Veda, which deals with bare things, other than injunc tions for engaging in and desisting from activity and what is subsidiary thereto, that is not so for the self propounded in the Upanişads is not subsidiary to any thing else.",
+    "morphology": "prakṛtam_prakṛ_SAPaNe upasaṃharati_upasaṃhṛ_SPr3In iti_iti_  /yat_yad_SANe api_api_ kecid_kaścit_PNM āhuḥ_ah_PPs3In pravṛtti_pravṛtti_Cp nivṛtti_nivṛtti_Cp vidhi_vidhi_Cp tad_tad_Cp śeṣa_śeṣa_Cp vyatirekeṇa_vyatireka_SIM keval"
+  }
+]

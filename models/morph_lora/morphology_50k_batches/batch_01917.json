@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15328,
+    "sanskrit": "tvam ca asya dhātā garbhasya satyam āha śakuntalā",
+    "english": "Sakuntala hath spoken the truth.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 15329,
+    "sanskrit": "jagannirmāṇarahite sphāre nabhasi sā tataḥ / vāsanā tasya babhrāma nirnīḍā vihagī yathā //",
+    "english": "Finding no other world nor body where he could enter (upon the extinction of the universe), his spirit roved about in the empty air, as a bird soars on high without its nest.",
+    "morphology": "jagat_jagant_Cp nirmāṇa_nirmāṇa_Cp rahite_rahita_SLNe sphāre_sphāra_SLNe nabhasi_nabhas_SLNe sā_tad_SNF tatas_tatas_  / vāsanā_vāsanā_SNF tasya_tad_SGM babhrāma_bhram_SPs3In nirnīḍā_nirnīḍa_SNF"
+  },
+  {
+    "index": 15330,
+    "sanskrit": "hiṃsāmātreṇa daṇḍam imam icchanti / na prakṛtayānavidhihetuṃ bruvate /",
+    "english": "People have held that the penalties laid down here refer to \"hurt\" in general, and not to \"hurt\" caused by conveyances, which form the subjectmatter of the context.",
+    "morphology": "hiṃsā_hiṃsā_Cp mātreṇa_mātra_SINe daṇḍam_daṇḍa_SAM imam_idam_SAM icchanti_iṣ_PPr3In  / na_na_ prakṛta_prakṛ_PaCp yāna_yāna_Cp vidhi_vidhi_Cp hetum_hetu_SAM"
+  },
+  {
+    "index": 15331,
+    "sanskrit": "devā api na jānaṃti talasotpattikāraṇam | pūrvaṃ kṛtayuge devi govindeti prakīrtitaḥ || 5 || tretāyāṃ vāmanaḥ svāmī stutisvāmī tṛtīyake | kalau yuge mahādevi talasvāmī prakīrtitaḥ || 6 ||",
+    "english": "5-6. Even gods do not know the cause of the creation of Tala. O goddess, formerly in Kṛta Age, he was famous as Govinda. In Tretā Yuga, (he was known) as Vāmanasvāmī. In the third (Dvāpara) Yuga (He was called) Stutisvāmī. O great goddess, it is in the Kali Age that he is glorified as Talasvāmī.",
+    "morphology": "devāḥ_deva_PNM api_api_ na_na_ jānanti_jñā_PPr3In talasa_talasa_Cp utpatti_utpatti_Cp kāraṇam_kāraṇa_SANe  / pūrvam_pūrvam_ kṛta_kṛta_Cp yuge_yuga_SLNe devi_devī_SVF govinda_govinda_Cp iti_iti_ prakīrtitaḥ_prakīrtay_SNPaM  / tretāy"
+  },
+  {
+    "index": 15332,
+    "sanskrit": "bālyena bālye viśrānto yauvane yauvanena ca / jarasā ca jarārūpe maraṇe maraṇena ca //",
+    "english": "He is the childhood of children, and the youth of young men; he shows himself as fading in the decay and decline of beings, and as his extinction in their death and demise.",
+    "morphology": "bālyena_bālya_SINe bālye_bālya_SLNe viśrāntaḥ_viśram_SNPaM yauvane_yauvana_SLNe yauvanena_yauvana_SINe ca_ca_  / jarasā_jaras_SIF ca_ca_ jarā_jarā_Cp rūpe_rūpa_SLNe maraṇe_maraṇa_SLNe maraṇena_maraṇa_SINe ca_ca_  /"
+  },
+  {
+    "index": 15333,
+    "sanskrit": "vaṣaṭkāraḥ abhavat jyā tu dhanuṣaḥ tasya bhārata",
+    "english": "The sacred (mantra) \"vashat,\" O Bharata, was made its string.",
+    "morphology": "vaṣaṭkāraḥ_vaṣaṭkāra_SNM abhavat_bhū_SPs3In jyā_jyā_SNF tu_tu_U dhanuḥḥḥḥ_dhanṛṣṇḥḥ_ṛṣṇḥ_SNM"
+  },
+  {
+    "index": 15334,
+    "sanskrit": "tato 'paredyuḥ saṃnaddhaistaistaiḥ svai rājabhiḥ saha / sa cakravartī taṃ prāyāddevamāyaṃ prati prabhuḥ //",
+    "english": "So the next day the emperor moved out against Devamāya, with all the allied kings, prepared for battle.",
+    "morphology": "tatas_tatas_ aparedyus_aparedyus_ saṃnaddhaiḥ_saṃnah_PIPaM taiḥ_tad_PIM taiḥ_tad_PIM svaiḥ_sva_PIM rājabhiḥ_rājan_PIM saha_saha_  / sa_tad_SNM cakravartī_cakravartin_SNM tam_tad_SAM prāyāt_prayā_S3ImIn deva_deva_Cp māyam_māyā_SAM pra"
+  },
+  {
+    "index": 15335,
+    "sanskrit": "tatas śata sahasrāṇi rathinām sarvaśas prabho chādayānam śaraiḥ ghoraiḥ tam ekam anuvavrire sa teṣām pravarān yodhān hasti aśva ratha sādinaḥ",
+    "english": "Then thousands of car-warriors armed with all weapons and fully prepared for battle overwhelmed his single self with terrible shafts.",
+    "morphology": "tatas_tatas_U śata_śata_NeCp sahasrāṇi_sahasra_PNNe rathinām_rathin_PGM sarvaśas_sarvaśas_U prabho_prabhu_SVM chādayānam_chāday_SAPaPrM śaraiḥ_śara_PIM ghoraiḥ_ghora_PIM tam_tad_SAM ekam_eka_SAM anuvavrire_anuvṛ_PPs3In sa_tad_SNM teṣā"
+  }
+]

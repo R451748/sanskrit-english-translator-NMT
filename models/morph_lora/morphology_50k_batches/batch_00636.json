@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5080,
+    "sanskrit": "mātṝḥ anye pitṝn anye bhrātṝn anye vicukruśuḥ",
+    "english": "Some called upon their brothers, some upon their sires, and some upon their sons.",
+    "morphology": "mātṝḥ_mātṛ_PAF"
+  },
+  {
+    "index": 5081,
+    "sanskrit": "evam ukte 'pi duṣyatīti / ekasya vibhāgāyogāt /",
+    "english": "‘Evamuktepi, etc.’ because there can be no division for what is one only.",
+    "morphology": "evam_evam_ ukte_vac_SLPaNe api_api_ duṣyati_duṣ_SPr3In iti_iti_  / __eka_U __U __U __U"
+  },
+  {
+    "index": 5082,
+    "sanskrit": "tasya saṃnihitā vāpī kṛtā tena mahātmanā | sunirmalajalāpūrṇā sarvatīrthopamā śubhā || 3 ||",
+    "english": "A tank near it was constructed by that noble-souled one, filled with water free from all impurities and very auspicious, comparable to all the Tīrthas.",
+    "morphology": "tasya_tad_SGM saṃnihitā_saṃnidhā_SNPaF vāpī_vāpī_SNF kṛtā_kṛ_SNPaF tena_tad_SIM mahātmanā_mahātman_SIM  / su_su_ nirmala_nirmala_Cp jala_jala_Cp āpūrṇā_āp￞_SNPaF sarva_sarva_Cp tīrtha_tīrtha_Cp upamā_upama_SNF"
+  },
+  {
+    "index": 5083,
+    "sanskrit": "kva deva te paraṃ dhāma kva ca tucchaṃ ca no vacaḥ | tathāpi bhagavan bhaktyā pralapaṃtaṃ kṣamasva mām ||",
+    "english": "31. O lord, where is your great splendour and where the worthless words of ours. Still O lord, forgive me that babble but with devotion.",
+    "morphology": "kva_kva_ deva_deva_SVM te_tvad_SG param_para_SNNe dhāma_dhāman_SNNe kva_kva_ ca_ca_ tuccham_tuccha_SNNe ca_ca_ naḥ_mad_PG vacaḥ_vacas_SNNe  / tathā_tathā_ api_api_ bhagavan_bhagavat_SVM bhaktyā_bhakti_SIF pralapantam_pralap_SAPaPrM kṣamasva_kṣ"
+  },
+  {
+    "index": 5084,
+    "sanskrit": "takāraṃ vinyasenmūrdhni sakāraṃ mukhamaṇḍale | vikāraṃ kaṃṭhadeśe tu tukāraṃ cāṃgasaṃdhiṣu || 30 ||",
+    "english": "30. The Nyāsa of Takāra (the syllable tat) is on the head, that of ‘sa’ syllable is in the region of the face, that of ‘vi’ is in the region of the throat and that of ‘tu’ (that is tur) is in the joints of the limbs.",
+    "morphology": "takāram_takāra_SAM vinyaset_vinyas_SPr3O mūrdhni_mūrdhan_SLM sakāram_sakāra_SAM mukha_mukha_Cp maṇḍale_maṇḍala_SLM  / vikāram_vikāra_SAM kaṇṭha_kaṇṭha_Cp deśe_deśa_SLM tu_tu_ tukāram_tukāra_SAM ca_ca_ aṅga_aṅga_Cp saṃdhi"
+  },
+  {
+    "index": 5085,
+    "sanskrit": "tapasvinau ca tau āhuḥ tābhyām kāryam sadā namaḥ",
+    "english": "One should always bow unto these two[536].",
+    "morphology": "tapasvinau_tapasvin_DuAM ca_ca_U tau_tad_DuAM āhuḥ_ah_PPs3In"
+  },
+  {
+    "index": 5086,
+    "sanskrit": "virodhamātraṃ tvakiñcitkara /",
+    "english": "The content of one Agama is contrary to that of ano- ther.",
+    "morphology": "virodha_virodha_Cp mātram_mātra_SNNe "
+  },
+  {
+    "index": 5087,
+    "sanskrit": "yadi garbhaṃ jahātīha gṛhṇāmītyabravītpunaḥ | garbhe mayā punastatra tyājite munisattamāḥ || kasyāyaṃ ca punargarbhassomasyeti ca sā'bravīt | paścāttena gṛhītā sā mayā ca vāritena vai ||",
+    "english": "29-30. But he said, “If she casts off the foetus I shall accept her.” When they asked her whose child she bore in the womb, she replied that the foetus grew out of the seed of the moon. O excellent sages, I then removed the foetus and urged by me, she was accepted by him.",
+    "morphology": "yadi_yadi_ garbham_garbha_SAM jahāti_hā_SPr3In iha_iha_ gṛhṇāmi_grah_SPr1In iti_iti_ abravīt_brū_S3ImIn punar_punar_  / garbhe_garbha_SLM mayā_mad_SI punar_punar_ tatra_tatra_ tyājite_tyājay_SLPaM muni_muni_Cp sattamāḥ_sattama_PVM  / kasya_k"
+  }
+]

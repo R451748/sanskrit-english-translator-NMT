@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49712,
+    "sanskrit": "śrutamasti na te kiṃciddhepurodho vimṛśyatām | yoṣidbhiḥ procyamāno'pi uvācātha bṛhaspatiḥ || 40 ||",
+    "english": "On being told thus by the women, Bṛhaspati said:",
+    "morphology": "śrutam_śru_SNPaNe asti_as_SPr3In na_na_ te_tvad_SG kiṃcid_kaścit_SNNe vimṛśyatām_vimṛś_SPr3ImPv  / yoṣidbhiḥ_yoṣit_PIF procyamānaḥ_pravac_SNPaPrMPv"
+  },
+  {
+    "index": 49713,
+    "sanskrit": "hetuḥ pradhānaṃ lokaprasiddhaṃ ca kṣīrādi /",
+    "english": "‘Hetu’, ‘Cause’, stands for Primordial Matter, and also the common things, Milk and the like;",
+    "morphology": "hetuḥ_hetu_SNM pradhānam_pradhāna_SNNe loka_loka_Cp prasiddham_prasidh_SNPaNe ca_ca_ kṣīra_kṣīra_Cp ādi_ādi_SNNe  /"
+  },
+  {
+    "index": 49714,
+    "sanskrit": "madhye vāgīśvarīṃ diṇḍimahodarayugaṃ tathā | kramātsvadakṣavāmasthaṃ tathaitena krameṇa ca | ekaikaṃ pūjayetsamyaṅ nandikālau trimārgagām | kālindīṃ chāgameṣāsyau svadakṣāvāḥ sathaśākhayoḥ|",
+    "english": "b-a At the top of the door should be placed the statues of Ganesa and Laksmi on the right and left sides with Vāgiśvari in the middle of them. So should be placed and worshipped the deities known as Dindi and Mahodara on the right and left sides accordingly. Here also need to be worshipped Nandi, Kāla, Gangā in her triple streams and Yamunā. Images of a he-goat placed on the right side and that of a sheep on the left also need to be worshipped.",
+    "morphology": "madhye_madhya_SLNe vāgīśvarīm_vāgīśvarī_SAF diṇḍi_diṇḍi_Cp mahodara_mahodara_Cp yugam_yuga_SANe tathā_tathā_  / kramāt_kramāt_ sva_sva_Cp dakṣa_dakṣa_Cp vāma_vāma_Cp stham_stha_SANe tathā_tathā_ etena_etad_SIM krameṇa_krama_SI"
+  },
+  {
+    "index": 49715,
+    "sanskrit": "sā ca garbhālasā daivādvālmīkeḥ prāpadāśramam / tenarṣiṇā samāśvāsya tatraiva grāhitā sthitim //",
+    "english": "And Sītā, languid with pregnancy, happened to reach the hermitage of Vālmīki, and that Ṛṣi comforted her, and made her take up her abode there.",
+    "morphology": "sā_tad_SNF ca_ca_ garbha_garbha_Cp alasā_alasa_SNF daivāt_daiva_SBNe vālmīkeḥ_vālmīki_SGM prāpat_prāp_SPs3InTh āśramam_āśrama_SAM  / tena_tad_SIM ṛṣiṇā_ṛṣi_SIM samāśvāsya_samāśvāsay_Co tatra_tatra_ eva_eva_ grāhitā_grāhay"
+  },
+  {
+    "index": 49716,
+    "sanskrit": "tato viprā mahātmānaḥ sāgnihotrāḥ samaṃtataḥ | saputradārāḥ kākutsthamanugacchati sarvaśaḥ || 142 ||",
+    "english": "142. Thereafter the noble-souled Brāhmaṇas with the Agnihotra sacrifices all round and accompanied by their wives and sons followed Kākutstha.",
+    "morphology": "tatas_tatas_ viprāḥ_vipra_PNM mahātmānaḥ_mahātman_PNM sa_sa_ agnihotrāḥ_agnihotra_PNM samaṃtataḥ_samaṃtataḥ_  / sa_sa_ putra_putra_Cp dārāḥ_dāra_PNM kākutstham_kākutstha_SAM anugacchati_anugam_SPr3In sarvaśas_sarvaśas_"
+  },
+  {
+    "index": 49717,
+    "sanskrit": "jīvanaṃ hi kvacid astitvam ucyate /",
+    "english": "His life means his exis- tence somewhere.",
+    "morphology": "jīvanam_jīvana_SNNe hi_hi_ kvacid_kvacid_"
+  },
+  {
+    "index": 49718,
+    "sanskrit": "dantoṣṭhaṃ mṛdu sthāpanīyam / jivhā coparidantamūle sthāpanīyā /",
+    "english": "The lips and the teeth should be gently placed and the tongue should touch the roots of the upper teeth.",
+    "morphology": "danta_danta_Cp uṣṭham_uṣṭha_SNNe mṛdu_mṛdu_SNNe sthāpanīyam_sthāpay_SNNeGd  / jivhā_jivhā_SNF"
+  },
+  {
+    "index": 49719,
+    "sanskrit": "ut īrṣva nāri abhi jīva lokam gata asum etam upa śeṣe ā ihi hasta grābhasya didhiṣoḥ tava idam patyuḥ jani tvam abhi sam babhūtha",
+    "english": "Arise, come to the world of life, O woman; Thou liest here by one whose breath has left him. Come: thou hast entered upon the wifehood Of this thy lord who takes thy hand and woos thee.",
+    "morphology": "ud_ud_U īrṣva_īr_SPr2Im nāri_nārī_SVF abhi_abhi_U jīva_jīva_Cp lokam_loka_SAM gata_gam_PaPsCp asum_asu_SAM etam_etad_SAM upa_upa_U śeṣe_śī_SPr2In ā_ā_U ihi_i_SPr2Im hasta_hasta_MCp grābhasya_grābha_SGM didhiṣoḥ_didhiṣu_SGM tava_tvad"
+  }
+]

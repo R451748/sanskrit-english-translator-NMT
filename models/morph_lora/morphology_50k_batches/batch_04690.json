@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37512,
+    "sanskrit": "bhavatām tu vacaḥ na aham alam samativartitum",
+    "english": "I am incapable of obeying your command.",
+    "morphology": "bhavatām_bhavat_PGM tu_tu_U"
+  },
+  {
+    "index": 37513,
+    "sanskrit": "ye tu dharmam praśaṃsantaḥ caranti pṛthivīm imām an ācarantaḥ tat dharmam saṃkare niratāḥ prabho",
+    "english": "There are persons who wander over the earth, praising righteousness but without practising what they preach and engaged all the while in sin.",
+    "morphology": "ye_yad_PNM tu_tu_U dharmam_dharma_SAM praśaṃsantaḥ_praśaṃs_PNPaPrM caranti_car_PPr3In pṛthivīm_pṛthivī_SAF imām_idam_SAF an_an_U ācarantaḥ_ācar_PNPaPrM tat_tad_SANe dharmam_dharma_SAM saṃkare_saṃkara_SLM niratāḥ_niram_PNPaPrM prab"
+  },
+  {
+    "index": 37514,
+    "sanskrit": "anyathaiva hyayaṃ kānaḥ karaṇāṃśena yujyate / anyathotpattivāṛyastho nirapekṣaḥ parasparama",
+    "english": "Thus then, the Result being found to follow from only those sacrifices that go to form the composite wholes, all the sacrifices other than these must be taken as subsidiary to them the former ones, the Agnēya and the rest, being taken as the Primary Sacrifices and as such they are not all of equal importance .",
+    "morphology": "anyathā_anyathā_ eva_eva_ hi_hi_ ayam_idam_SNM kānaḥ_kāna_SNM karaṇa_karaṇa_Cp aṃśena_aṃśa_SIM yujyate_yuj_SPr3InPv  / anyathā_anyathā_ utpatti_utpatti_Cp vāṛya_vāṛya_Cp sthaḥ_stha_SNM nirapekṣaḥ_nirapekṣa_SNM parasparama_pa"
+  },
+  {
+    "index": 37515,
+    "sanskrit": "varuṇātpāśamādāya tena baddhā nyapātayat | mahāṃkuśena vāyuṃ ca ciraṃ mūrdhni jaghāna saḥ || 118 ||",
+    "english": "118. He seized the noose from Varuṇa and bound him with it and toppled him down. With his great goad he went on striking Vāyu for a long time on his head.",
+    "morphology": "varuṇāt_varuṇa_SBM pāśam_pāśa_SAM ādāya_ādā_Co tena_tad_SIM baddhā_bandh_SNPaF nyapātayat_nipātay_S3ImIn  / mahā_mahat_Cp aṃkuśena_aṅkuśa_SIM vāyum_vāyu_SAM ca_ca_ ciram_ciram_ mūrdhni_mūrdhan_SLM jaghāna_han_SPs3In saḥ_tad_SN"
+  },
+  {
+    "index": 37516,
+    "sanskrit": "nāradaḥ api tathā veda saḥ api aśaṃsat sadā mama",
+    "english": "And this is also what Narada knoweth, for he hath always spoken so unto me.",
+    "morphology": "nāradaḥ_nārada_SNM api_api_U tathā_tathā_U veda_vid_SPs3In saḥ_tad_SNM api_api_U aśaḥ_aśaṃs_SPs3In sadā_sadā_U mama_mad_SG"
+  },
+  {
+    "index": 37517,
+    "sanskrit": "anye paura janāḥ ca evam anvaśocanta pāṇḍavān",
+    "english": "The citizens also wept for the Pandavas but Vidura did not weep much, because he knew the truth.",
+    "morphology": "anye_anya_PNM paura_paura_MCp janāḥ_jana_PNM ca_ca_U evam_evam_U anvaśocanta_anuśuc_PPs3In pāṇḍavān_pāṇḍava_PAM"
+  },
+  {
+    "index": 37518,
+    "sanskrit": "vīramādhavasaṃjñohaṃ vīreśātpaścime mune | tatra vratī samabhyarcya na yāmīṃ yātanāṃ labhet || 85 ||",
+    "english": "185. I am named Vīramādhava to the west of Vīreśa, O age. If the observer of vows worships me there, he does not meet with the torture of Yama.",
+    "morphology": "vīramādhava_vīramādhava_Cp saṃjñā_saṃjñā_SNF ūham_mad_SN vīreśāt_vīreśa_SBM paścime_paścima_SLM mune_muni_SVM  / tatra_tatra_ vratī_vratin_SNM samabhyarcya_samabhyarcay_Co na_na_ yāmīm_yāma_SAF yātanām_yātanā_SAF labhet_labh_SPr"
+  },
+  {
+    "index": 37519,
+    "sanskrit": "enaḥ pāpam adṛṣṭaṃ duḥkhakāraṇam /",
+    "english": "\"Taint\" is evil, an unseen source of pain.",
+    "morphology": "enaḥ_enas_SNNe pāpam_pāpa_SNNe adṛṣṭam_adṛṣṭa_SNNe duḥkha_duḥkha_Cp kāraṇam_kāraṇa_SNNe  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46656,
+    "sanskrit": "viśveśānugṛhītānāṃ vicchinnākhilakarmaṇām | bhavetkāśīṃ prati matirnetareṣāṃ kadācana || 130 ||",
+    "english": "130. The idea of going to Kāśī shall occur only in the minds of those who are blessed by Viśveśa and whose Karmas have been destroyed. Never does it occur to the minds of the others.",
+    "morphology": "viśveśa_viśveśa_Cp anugṛhītānām_anugrah_PGPaM vicchinna_vicchid_PaCp akhila_akhila_Cp karmaṇām_karman_PGM  / bhavet_bhū_SPr3O kāśīm_kāśī_SAF prati_prati_ matiḥ_mati_SNF na_na_ itareṣām_itara_PGM kadācana_kadācana_  /"
+  },
+  {
+    "index": 46657,
+    "sanskrit": "na kaś cit kasya cit śrotā na kaś cit kasya cit guruḥ",
+    "english": "And no one will listen to the words of others and no one will be regarded as a preceptor by another.",
+    "morphology": "na_na_ kaḥ_ka_SNM cit_cit_SNM kasya_ka_SGM cit_cit_SNM śrotā_śrotṛ_SNM"
+  },
+  {
+    "index": 46658,
+    "sanskrit": "padakāyaḥ tadyathā “sarvasaṃskārā anityāḥ sarvadharma anātmānaḥ śāntaṃ nirvāṇami” tyevamādi /",
+    "english": "padakāya = “The saṁskārar aṭe impeṟmanent, the dharmas are impersonal, Nirvana is tranquil. ” etc;",
+    "morphology": "pada_pada_Cp kāyaḥ_kāya_SNM tat_tad_SNNe yathā_yathā_  / sarva_sarva_Cp saṃskārāḥ_saṃskāra_PNM anityāḥ_anitya_PNM sarva_sarva_Cp dharma_dharma_SVM anātmānaḥ_anātman_PNM śāntam_śam_SNPaNe nirvāṇam_nirvāṇa_SNNe iti_iti_ evamā"
+  },
+  {
+    "index": 46659,
+    "sanskrit": "lobhaḥ ca artha kṛtaḥ nṝṇām yena muhyanti paṇḍitāḥ",
+    "english": "Here cupidity for wealth is also seen, a passion that stupefies even those that are learned amongst men.",
+    "morphology": "lobhaḥ_lobha_SNM ca_ca_U artha_artha_MCp kṛtaḥ_kṛ_SNPaPsM nṝṇām_nṛ_PGM yena_yad_SIM muhyanti_muh_PPr3In paṇḍitāḥ_paṇḍita_PNM"
+  },
+  {
+    "index": 46660,
+    "sanskrit": "brāhmaṇeṣu ca vidvāṃso vidvatsu kṛtabuddhayaḥ / kṛtabuddhiṣu kartāraḥ kartṛṣu brahmavedinaḥ //",
+    "english": "Among Brāhmaṇas, the learned are the best, among the learned, those with firm convictions, among the men with firm convictions, those that act up to them; and among the actors, those that know Brahman.",
+    "morphology": "brāhmaṇeṣu_brāhmaṇa_PLM ca_ca_ vidvāṃsaḥ_vid_PNPaPsM vidvatsu_vid_PLPaPsM kṛtabuddhayaḥ_kṛtabuddhi_PNM  / kṛtabuddhiṣu_kṛtabuddhi_PLM kartāraḥ_kartṛ_PNM kartṛṣu_kartṛ_PLM brahma_brahman_Cp vedinaḥ_vedin_PNM  /"
+  },
+  {
+    "index": 46661,
+    "sanskrit": "kasmād ity āha",
+    "english": "The following Text explains why it would be so: [see verse 135 next]",
+    "morphology": "kasmāt_kasmāt_"
+  },
+  {
+    "index": 46662,
+    "sanskrit": "tatraitat syāt kāryeṇa liṅgenānumeyāḥ śaktayo nārthāpattipramāṇagamyā ityāha sambandhagrahaṇādṛta iti /",
+    "english": "It might be argued that ‘Potencies are always inferred from the effects, they are not presumed’. The answer to this is that the cognitions in question are brought about without any idea of the relation (of Concomitance, necessary in all Inference);",
+    "morphology": "tatra_tatra_ etat_etad_SNNe syāt_as_SPr3O kāryeṇa_kārya_SINe liṅgena_liṅga_SINe anumeyāḥ_anumā_PNFGd śaktayaḥ_śakti_PNF na_na_ arthāpatti_arthāpatti_Cp pramāṇa_pramāṇa_Cp gamyāḥ_gam_PNFGd iti_iti_ āha_ah_SPs3In sambandha_samban"
+  },
+  {
+    "index": 46663,
+    "sanskrit": "atyalpamidamucyate|",
+    "english": "This is very little to say about the matter.",
+    "morphology": "ati_ati_ alpam_alpa_SNNe"
+  }
+]

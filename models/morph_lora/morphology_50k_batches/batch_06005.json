@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48032,
+    "sanskrit": "prathamam samānaḥ vyānaḥ vyasyate karma tena tat",
+    "english": "First is Samana; then Vyana. The latter's function is managed through it (viz., Samana).",
+    "morphology": "prathamam_prathamam_U samānaḥ_samāna_SNM vyānaḥ_vyāna_SNM vyasyate_vyas_SPr3InPv karma_karman_SNNe tena_tena_U tat_tad_SNNe"
+  },
+  {
+    "index": 48033,
+    "sanskrit": "nāḍyaḥ pañca iti śoṇitam dantaveṣṭebhyaḥ yasya akasmāt pravartate",
+    "english": "Diseases which are peculiar to the roots of the teeth, are known as Shitada, Danta-pupputaka, Danta-veshtaka, Shaushira, Maha-Saushira, Paridara, Upakusha, Dantavaidarbha, Vardhana, Adhimansa and the five sorts of Nadi (sinus).",
+    "morphology": "nāḍyaḥ_nāḍī_PNF pañca_pañcan_PNF iti_iti_U śoṇitam_śoṇita_SNNe dantaveṣṭebhyaḥ_dantaveṣṭa_PBM yasya_yad_SGM akasmāt_akasmāt_U"
+  },
+  {
+    "index": 48034,
+    "sanskrit": "ajāmilaṃ dvijaśreṣṭhaṃ vṛṣalyā saha saṃyutam | na bhiyā vārayāmāsussurāstāṃ cāpi kecana ||",
+    "english": "38. Though Ajāmila,[9] a noble brahmin, was in copulation with a Śūdra woman, gods did not interfere due to this fear.",
+    "morphology": "ajāmilam_ajāmila_SAM dvijaśreṣṭham_dvijaśreṣṭha_SAM vṛṣalyā_vṛṣalī_SIF saha_saha_ saṃyutam_saṃyuta_SAM  / na_na_ bhiyā_bhī_SIF vārayāmāsuḥ_vāray_PPs3InPe surāḥ_sura_PNM tām_tad_SAF ca_ca_ api_api_ kecana_kaścana_PNM  "
+  },
+  {
+    "index": 48035,
+    "sanskrit": "atha ced te pravarteran mayi kim cit asāṃpratam nirdaheyam kurūn sarvān iti me dhīyate matiḥ",
+    "english": "If, after all, they do me any injury, then I will consume all the Kurus.",
+    "morphology": "atha_atha_U ced_ced_U te_tad_PNM pravarteran_pravṛt_PPr3O mayi_mad_SL kim_ka_SNNe cit_cit_U asāṃpratam_asāṃprata_SNNe nirdaheyam_nirdah_SPr1O kurūn_kuru_PAM sarvān_sarva_PAM iti_iti_U"
+  },
+  {
+    "index": 48036,
+    "sanskrit": "tatra tattvābhisambodho bodhinirvikalpaṃ jñānaṃ tatra ṣaṭ smṛṭyādīni bodhyanukūlāt tadangāni /",
+    "english": "In the above, enlightenment, which refers to the perfect comprehension of reality, consists in the direct intuition that is free from conceptual differentiation. With regard to that, the six beginning with mindfulness are its limbs because they are in conformity with enlightenment.",
+    "morphology": "tatra_tatra_ tattva_tattva_Cp abhisambodhaḥ_abhisambodha_SNM bodhi_bodhi_Cp nirvikalpam_nirvikalpa_SNNe jñānam_jñāna_SNNe tatra_tatra_ ṣaḍ_ṣaṣ_PNNe smṛṭi_smṛṭi_Cp ādīni_ādi_PNNe bodhi_bodhi_Cp anukūlāt_anukūla_SBNe tad_tad_Cp an"
+  },
+  {
+    "index": 48037,
+    "sanskrit": "saurabheyyaḥ sarvahitāḥ pavitrāḥ pāpanāśanāḥ / pratigṛhṇantu me grāsaṃ gāvastrailokyamātaraḥ //",
+    "english": "Then offerings are made to the cows with the following words ‘Accept this oblation of mine, O cows, the daughters of the celestial cow, that are good for all, holy, destroyer of sins and the mothers of the three worlds’.",
+    "morphology": "saurabheyyaḥ_saurabheyī_PNF sarva_sarva_Cp hitāḥ_hita_PNF pavitrāḥ_pavitra_PNF pāpa_pāpa_Cp nāśanāḥ_nāśana_PNF  / pratigṛhṇantu_pratigrah_PPr3Im me_mad_SG grāsam_grāsa_SAM gāvaḥ_go_PNF trailokya_trailokya_Cp mātaraḥ_mātṛ_PN"
+  },
+  {
+    "index": 48038,
+    "sanskrit": "sa candramāḥ sa ca īśānaḥ sa sūryaḥ varuṇaḥ ca saḥ",
+    "english": "he is Isana; he is Surya; he is Varuna;",
+    "morphology": "sa_tad_SNM candramāḥ_candramas_SNM sa_tad_SNM ca_ca_U īśānaḥ_īśāna_SNM sa_tad_SNM sūryaḥ_sūrya_SNM varuṇaḥ_varuṇa_SNM ca_ca_U saḥ_tad_SNM"
+  },
+  {
+    "index": 48039,
+    "sanskrit": "ṛṣaya ūcuḥ | durvāsā nāmakaścāyaṃ kenāyaṃ sthāpito haraḥ | kasminkāle mahābhāga sarvaṃ no vistarādvada || 3 ||",
+    "english": "The sages said: Who is this sage named Durvāsas? By whom was Hara installed? O highly esteemed one, at what time was it installed? Mention everything in detail.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / durvāsāḥ_durvāsas_SNM nāmakaḥ_nāmaka_SNM ca_ca_ ayam_idam_SNM kena_ka_SIM ayam_idam_SNM sthāpitaḥ_sthāpay_SNPaM haraḥ_hara_SNM  / kasmin_ka_SLM kāle_kāla_SLM mahābhāga_mahābhāga_SVM sarvam"
+  }
+]

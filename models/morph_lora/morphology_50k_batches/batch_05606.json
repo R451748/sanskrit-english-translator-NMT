@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44840,
+    "sanskrit": "yaḥ pitṛpaitāmaham artham anyāyena bhakṣayati sa mūlaharaḥ //",
+    "english": "Whoever unjustly eats up the property left by his father and Kautilyas Arthashastra grandfather is a prodigal person múlahara",
+    "morphology": "yaḥ_yad_SNM pitṛpaitāmaham_pitṛpaitāmaha_SAM artham_artha_SAM anyāyena_anyāya_SIM bhakṣayati_bhakṣay_SPr3In sa_tad_SNM mūla_mūla_Cp haraḥ_hara_SNM  /"
+  },
+  {
+    "index": 44841,
+    "sanskrit": "aṅguṣṭhena kaniṣṭāntaṃ namayitvāṅgulitrayaṃ //",
+    "english": "One has to bend the three fingers commencing with the little finger, with the thumb.",
+    "morphology": "aṅguṣṭhena_aṅguṣṭha_SIM kaniṣṭhā_kaniṣṭhā_Cp antam_anta_SAM namayitvā_namay_Co aṅguli_aṅguli_Cp trayam_traya_SANe  /"
+  },
+  {
+    "index": 44842,
+    "sanskrit": "sadā rakṣā prakartavyā bhaktānāṃ bhaktavatsala | vadhyāḥ khalāśca deveśa tvayā sarveśvara prabho ||",
+    "english": "44. O fond of devotees, you shall protect them always. O lord of the gods, wicked men shall be slain by you, O lord of all.",
+    "morphology": "sadā_sadā_ rakṣā_rakṣā_SNF prakartavyā_prakṛ_SNFGd bhaktānām_bhakta_PGM bhakta_bhakta_Cp vatsala_vatsala_SVM  / vadhyāḥ_vadh_PNMGd khalāḥ_khala_PNM ca_ca_ deveśa_deveśa_SVM tvayā_tvad_SI sarva_sarva_Cp īśvara_īśvara_SVM prabho_pra"
+  },
+  {
+    "index": 44843,
+    "sanskrit": "vasānaṃ mṛdulaṃ valkaṃ mṛgacarmottarīyakam | saumyaṃ bhasmāṃkaruciraṃ rudrākṣakṛtabhūṣaṇam || 62 ||",
+    "english": "62. He wears a soft bark garment. His form is gentle, beautifully marked and smeared with ash. Rudrākṣa beads constitute his ornament.",
+    "morphology": "vasānam_vas_SAPaPrM mṛdulam_mṛdula_SAM valkam_valka_SAM mṛga_mṛga_Cp carma_carman_Cp uttarīyakam_uttarīyaka_SAM  / saumyam_saumya_SAM bhasma_bhasman_Cp aṃka_aṅka_Cp ruciram_rucira_SAM rudrākṣa_rudrākṣa_Cp kṛta_kṛ_PaCp bhūṣaṇam"
+  },
+  {
+    "index": 44844,
+    "sanskrit": "karoti ced namaskāram upahāram ca kārayet",
+    "english": "The causal verb karayate may be taken as equivalent to karoti.",
+    "morphology": "karoti_kṛ_SPr3In ced_ced_U"
+  },
+  {
+    "index": 44845,
+    "sanskrit": "dṛṣṭvā kedāraśikharaṃ pītvā tatratyamaṃbu ca | saptajanmakṛtātpāpānmucyate nātra saṃśayaḥ || 8 ||",
+    "english": "8. By visiting the mountain peak of Kedāra, and by drinking the water (of Kedāra Tīrtha) a devotee shall undoubtedly be rid of the sins acquired in the course of seven births.",
+    "morphology": "dṛṣṭvā_dṛś_Co kedāra_kedāra_Cp śikharam_śikhara_SANe pītvā_pā_Co tatratyam_tatratya_SANe aṃbu_ambu_SANe ca_ca_  / sapta_saptan_Cp janma_janman_Cp kṛtāt_kṛ_SBPaNe pāpāt_pāpa_SBNe mucyate_muc_SPr3InPv na_na_ atra_atra_ saṃśaya"
+  },
+  {
+    "index": 44846,
+    "sanskrit": "sarve tu ātyayikāḥ kālāḥ kāryāṇām bharata ṛṣabha",
+    "english": "At all times, however thou shouldst think of the means for accomplishing thy purposes.",
+    "morphology": "sarve_sarva_PNM tu_tu_U ātyayikāḥ_ātyayika_PNM kālāḥ_kāla_PNM kāryāṇām_kārya_PGNe"
+  },
+  {
+    "index": 44847,
+    "sanskrit": "dātavyaṃ ca suvarṇādi yathāśaktyā dvijanmane | putrārthī labhate putrāndharmmārthī dharmamāpnuyāt || 85 ||",
+    "english": "85. Gold etc. should be given in accordance with one’s capacity to a Brāhmaṇa. He who seeks sons will get sons. He who seeks Dharma will get Dharma.",
+    "morphology": "dātavyam_dā_SNNeGd ca_ca_ suvarṇa_suvarṇa_Cp ādi_ādi_SNNe yathāśaktyā_yathāśaktyā_ dvijanmane_dvijanman_SDM  / putra_putra_Cp arthī_arthin_SNM labhate_labh_SPr3In putrān_putra_PAM dharma_dharma_Cp arthī_arthin_SNM dharmam_dharma_SAM āpnuy"
+  }
+]

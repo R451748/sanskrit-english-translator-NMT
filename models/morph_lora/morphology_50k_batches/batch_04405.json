@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35232,
+    "sanskrit": "nyūnatvātprahīṇatvacca /",
+    "english": "For the good mind of a lower sphere is of an inferior order; and the defiled mind has been abandoned.",
+    "morphology": "nyūna_nyūna_Cp tvāt_tva_SBNe prahīṇa_prahā_PaCp tvat_tva_SNNe ca_ca_"
+  },
+  {
+    "index": 35233,
+    "sanskrit": "sarva kāmaiḥ su pūrṇāni patākā ucchrayavanti ca tatra saṃjanayām āsa nānā āgārāṇi anekaśas",
+    "english": "And he built this palace for sporting in the water there, and filled it with all kinds of entertaining things and choice viands.",
+    "morphology": "sarva_sarva_Cp kāmaiḥ_kāma_PIM su_su_U pūrṇāni_pṛ_PAPaPsNe patākā_patākā_FCp ucchrayavanti_ucchrayavat_PANe ca_ca_U tatra_tatra_U saṃjanayām_saṃjanay_SPs3In āsa_as_SPs3In nānā_nānā_U āgārāṇi_āgāra_PANe anekaśas_anekaśas_U"
+  },
+  {
+    "index": 35234,
+    "sanskrit": "antaḥsaktaṃ mano baddhaṃ muktaṃ saktivivarjitam / antaḥsaṃsaktirevaikaṃ kāraṇaṃ bandhamokṣayoḥ //",
+    "english": "The mind attached to the world, is said to be bound to it; but that which is detached from it, is said to be set free from it. It is the internal attachment and detachment of the mind, that are the causes of its bondage and liberation.",
+    "morphology": "antar_antar_ saktam_sañj_SNPaNe manaḥ_manas_SNNe baddham_bandh_SNPaNe muktam_muc_SNPaNe sakti_sakti_Cp vivarjitam_vivarjay_SNPaNe  / antar_antar_ saṃsaktiḥ_saṃsakti_SNF eva_eva_ ekam_eka_SNNe kāraṇam_kāraṇa_SNNe bandha_bandha_Cp mokṣayoḥ"
+  },
+  {
+    "index": 35235,
+    "sanskrit": "yā vidyā yā tathāvidyā yatsadyaccāsadavyayam / tatsarvaṃ sarvabhūteśe maitreya madhusūdane //",
+    "english": "All that is wisdom, all that is ignorance, all that is, all that is not, all that is everlasting, is centred in the destroyer of Madhu, the lord of all creatures.",
+    "morphology": "yā_yad_SNF vidyā_vidyā_SNF yā_yad_SNF tathā_tathā_ avidyā_avidyā_SNF yat_yad_SNNe sat_as_SNPaPrNe yat_yad_SNNe ca_ca_ asat_asat_SNNe avyayam_avyaya_SNNe  / tat_tad_SNNe sarvam_sarva_SNNe sarva_sarva_Cp bhūta_bhūta_Cp īśe_īśa_SLM maitreya_mait"
+  },
+  {
+    "index": 35236,
+    "sanskrit": "ādāv ity anuvādaḥ / pāṭhakrameṇaivāgner ādau siddhatvāt te pṛthag āhutī /",
+    "english": "The term \"first\" is a mere reiterative reference; that the offering to Agni is to be made first of all being already indicated by the order in which the names are mentioned.",
+    "morphology": "ādau_ādi_SLM iti_iti_ anuvādaḥ_anuvāda_SNM  / pāṭha_pāṭha_Cp krameṇa_krama_SIM eva_eva_ agneḥ_agni_SGM ādau_ādi_SLM siddha_sidh_PaCp tvāt_tva_SBNe te_tad_DuNF pṛthak_pṛthak_ āhutī_āhuti_DuNF  /"
+  },
+  {
+    "index": 35237,
+    "sanskrit": "sa tu sārthaḥ mahā rāja kasmin cit giri gahvare",
+    "english": "It so happened however, O king, that that large caravan was assailed, while passing through a valley, by an infuriated elephant.",
+    "morphology": "sa_tad_SNM tu_tu_U sārthaḥ_sārtha_SNM mahā_mahat_Cp rāja_rāja_SVM kasmin_ka_SLNe cit_cit_SNF giri_giri_MCp gahvare_gahvara_SLNe"
+  },
+  {
+    "index": 35238,
+    "sanskrit": "pure caṭacaṭāsphoṭairdahatāṃ jātavedasām / paurāṇāṃ dagdhadārāṇāṃ mahāhalahalāravaiḥ //",
+    "english": "The gorgeous elephants bursting in the city with a clattering (chatchata) sound; and the high halloos (halahala) of citizens, whose houses have been burnt down on the ground:—",
+    "morphology": "pure_pura_SLNe caṭacaṭā_caṭacaṭā_Cp āsphoṭaiḥ_āsphoṭa_PIM dahatām_dah_PGPaPrM jātavedasām_jātavedas_PGM  / paurāṇām_paura_PGM dagdha_dah_PaCp dārāṇām_dāra_PGM mahā_mahat_Cp halahala_halahala_Cp āravaiḥ_ārava_PIM  /"
+  },
+  {
+    "index": 35239,
+    "sanskrit": "tayor āsattimāśritya viśeṣaṇaviśeṣyatā /",
+    "english": "for instance, the relation of qualification and qualified is assumed on the basis of the close proximity (contact) between the two factors concerned;",
+    "morphology": "tayoḥ_tad_DuGM āsattim_āsatti_SAF āśritya_āśri_Co viśeṣaṇa_viśeṣaṇa_Cp viśeṣya_viśeṣay_GdCp tā_tā_SNF  /"
+  }
+]

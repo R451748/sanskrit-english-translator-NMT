@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7840,
+    "sanskrit": "vipāke niyataṃ hi yat //",
+    "english": "This refers to action having a necessary retribution, but indeterminate with regard to the period of its retribution: this action will be retributed in the present life.",
+    "morphology": "vipāke_vipāka_SLM niyatam_niyam_SNPaNe hi_hi_ yat_yad_SNNe "
+  },
+  {
+    "index": 7841,
+    "sanskrit": "alaṅkṛtastato dadyāddhemagonnabhuvādikaṃ //",
+    "english": "After having adorned, one should then give gold, cow, food, earth etc.",
+    "morphology": "alaṅkṛtaḥ_alaṃkṛ_SNPaM tatas_tatas_  /"
+  },
+  {
+    "index": 7842,
+    "sanskrit": "akasmāt naḥ bhayāt tyaktāḥ na ca trāta abhaya eṣiṇaḥ tyaktvā akasmāt niśāyām ca na dattam abhayam mayā",
+    "english": "I did not extend my protection to those that came to me with prayers for dispelling their fear.",
+    "morphology": "akasmāt_akasmāt_U naḥ_mad_PG bhayāt_bhaya_SBNe tyaktāḥ_tyaj_PNPaPsM na_na_U ca_ca_U trāta_trā_PaPsCp abhaya_abhaya_NeCp eṣiṇaḥ_eṣin_PNM tyaktvā_tyaj_Co"
+  },
+  {
+    "index": 7843,
+    "sanskrit": "heṣamāṇo javodagro govindābhimukho yayau //",
+    "english": "Seeing the horse-demon Keshi fall on him Govinda confronted him as a cloud approaches the moon.",
+    "morphology": "heṣamāṇaḥ_heṣ_SNPaPrM java_java_Cp udagraḥ_udagra_SNM govinda_govinda_Cp abhimukhaḥ_abhimukha_SNM"
+  },
+  {
+    "index": 7844,
+    "sanskrit": "etad eva darśayati sthite hītyādi /",
+    "english": "The same idea is further explained: [see verse 3075 next]",
+    "morphology": "__etad_U"
+  },
+  {
+    "index": 7845,
+    "sanskrit": "tatrāpi yāvatyanupayujāmāno yajamānabhaca saṃskāryatvaṃ na pratipadyate tāvataiva yajñabhāgenārthāpacyā saṃbadhyataityavadhāraṇādyajamānaca masābhyā senaivaikena saṃbadhyate na hi grahacamasāntareṣvanupayujāmānasyāsya yajamānabhakṣatvamanupapannam ataḥ somo 'pyanugrahīṣyate /",
+    "english": "The above explanation is not admissible as it involves the following anomalies Remote syntactical connection the rejection of the signification of tamasmui absence of injunctive potency the assumption of the injunctive potency for that which serves the sole purpose of pointing out the prompting cause assumption of the sense of the Instrumental ending rejection of the Accusative the removal of all Soma and the assumption of the factor of simple sacrifice from the causative yajayêēt. That is to say though between the latter yājayēt and the former conditional declaration sa yadi, etc., we have the sentence sa yadi somam vibhakşayişèt, yet we take the former two as syntactically con nected, irrespective of the interruption. Though the Pronoun in tamasmai is, by direct declaration, known to have the power of referring to the person spoken of in the context, the above explanation would neces sitate the rejection of this power, as also the immediate sequence. The presence of the conditional if in the sentence sa yadi, etc., sets aside the injunctive potency of the sentence and hence it could not be taken as laying down the sacrifice as connected with the Phalacamasa unless we were to assume an injunctive potency in the sentence.",
+    "morphology": "tatra_tatra_ api_api_ yāvati_yāvat_SLNe anupayujāmānaḥ_anupayujāmāna_SNM saṃskārya_saṃskṛ_GdCp tvam_tva_SANe na_na_ pratipadyate_pratipad_SPr3In tāvatā_tāvat_SIM eva_eva_ yajñabhāgena_yajñabhāga_SIM arthāpacyā_arthāpacī_SIF saṃb"
+  },
+  {
+    "index": 7846,
+    "sanskrit": "daśamyāṃ śoṇanāthāya yaḥ karaṃbhaṃ nivedayet | sa bhavetsarvalokānāṃ sadaiva prītibhājanam || 15 ||",
+    "english": "15. If anyone offers flour or meal mixed with curd to the Lord of Śoṇa on the Daśamī day (i.e. tenth tithi), he will always be a favourite of all the worlds.",
+    "morphology": "daśamyām_daśamī_SLF śoṇanāthāya_śoṇanātha_SDM yaḥ_yad_SNM karaṃbham_karambha_SAM nivedayet_niveday_SPr3O  / sa_tad_SNM bhavet_bhū_SPr3O sarva_sarva_Cp lokānām_loka_PGM sadā_sadā_ eva_eva_ prīti_prīti_Cp bhājanam_bhājana_SNNe"
+  },
+  {
+    "index": 7847,
+    "sanskrit": "kalevaraṃ parityaktaṃ prabhāse hariṇā yadā | kalābhiḥ sahitaṃ tejastasyāṃ mūrtau niveśitam || 12 ||",
+    "english": "12. When Hari gave up his body at Prabhāsa (i.e. a centre of pilgrimage near Dvārakā) all his attributes (i.e. the so-called sixteen qualities) integral to his brightness got embedded in this idol of him.",
+    "morphology": "kalevaram_kalevara_SNNe parityaktam_parityaj_SNPaNe prabhāse_prabhāsa_SLM hariṇā_hari_SIM yadā_yadā_  / kalābhiḥ_kalā_PIF ā_ā_ iti_iti_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38552,
+    "sanskrit": "phenapāḥ nāma nāmnā te phena āhārāḥ ca mātale",
+    "english": "They are called Foam-drinkers because they live, O Matali, on nothing else save that foam.",
+    "morphology": "phenapāḥ_phenapa_PNM nāma_nāma_U nāmnā_nāman_SINe te_tad_PNM"
+  },
+  {
+    "index": 38553,
+    "sanskrit": "mā maṇḍūkān jighāṃsa tvam kopam saṃdhāraya acyuta ślokau ca atra bhavataḥ",
+    "english": "It behoveth thee not to slay the innocent frogs.' Here occurs a couple of Slokas.",
+    "morphology": "mā_mā_U maṇḍūkān_maṇḍūka_PAM jighāṃsa_jighāṃs_SPr2Im tvam_tvad_SN kopam_kopa_SAM saṃdhāraya_saṃdhāray_SPr2Im acyuta_acyuta_MCp ślokau_śloka_DuNM ca_ca_U atra_atra_U bhavataḥ_bhū_DuPr3In"
+  },
+  {
+    "index": 38554,
+    "sanskrit": "praveśayām āsa gṛhaṃ pradyumno rukmiṇīsutaḥ //",
+    "english": "Rukshmini's son Pradyumna himself took to the house the Pārijāta the most favourite of Indra's trees.",
+    "morphology": "praveśayām_praveśay_SPs3InPe āsa_as_SPs3In gṛham_gṛha_SANe pradyumnaḥ_pradyumna_SNM rukmiṇī_rukmiṇī_Cp sutaḥ_suta_SNM  /"
+  },
+  {
+    "index": 38555,
+    "sanskrit": "dhārānikṛttaśastraughamastrayoryudhyamānayoḥ / madastravāraṇenaiva kālopāyo'calātmanaḥ //",
+    "english": "Thus were the warring weapons breaking one another by their concussion, and protracting the engagement by their mutual overthrow.",
+    "morphology": "dhārā_dhārā_Cp nikṛtta_nikṛt_PaCp śastra_śastra_Cp ogham_ogha_SNNe astrayoḥ_astra_DuGNe yudhyamānayoḥ_yudh_DuGPaPrNe  / mad_mad_Cp astra_astra_Cp vāraṇena_vāraṇa_SINe eva_eva_ kāla_kāla_Cp upāyaḥ_upāya_SNM acala_acala_Cp ātmana"
+  },
+  {
+    "index": 38556,
+    "sanskrit": "tataścaiva tapastepe vairāgyaṃ paramaṃ gataḥ | ahaṃ vārddhakyamāpannā kaumārye'pi ca saṃsthitā || 5 ||",
+    "english": "5. He became disgusted and detached, so performed a penance. I have become old, yet I continue to be a confirmed virgin.",
+    "morphology": "tatas_tatas_ ca_ca_ eva_eva_ tapaḥ_tapas_SANe tepe_tap_SPs3In vairāgyam_vairāgya_SANe paramam_parama_SANe gataḥ_gam_SNPaM  / aham_mad_SN vārddhakyam_vārddhakya_SANe āpannā_āpad_SNPaF kaumārye_kaumārya_SLNe api_api_ ca_ca_ saṃsthitā_saṃsth"
+  },
+  {
+    "index": 38557,
+    "sanskrit": "paurmamāsyāmamāvāsyāmaṣṭamyāmatha vā paṭhan / dvādaśyāṃ tadāprantoti gopradānaphalaṃ dvija //",
+    "english": "The perusal of this history on the day of full moon, of new moon, or on the eighth or twelfth day of the lunation, shall yield fruit equal to the donation of a cow.",
+    "morphology": "paurmamāsyām_paurmamāsī_SLF amāvāsyām_amāvāsī_SLF aṣṭamyām_aṣṭamī_SLF atha_atha_ vā_vā_ paṭhan_paṭh_SNPaPrM  / dvādaśyām_dvādaśī_SLF go_go_Cp pradāna_pradāna_Cp phalam_phala_SANe dvija_dvija_SVM  /"
+  },
+  {
+    "index": 38558,
+    "sanskrit": "gacchansa dānavendrastu teṣāṃ sevanakurvatām | vireje śaśivadbhānāṃ grahāṇāṃ graharāḍiva ||",
+    "english": "11. The leader of the Dānavas going in the midst of his attendants shone as the moon in the midst of stars or as the sun in the midst of planets.",
+    "morphology": "gacchan_gam_SNPaPrM sa_tad_SNM dānava_dānava_Cp indraḥ_indra_SNM tu_tu_ teṣām_tad_PGM sevana_sevana_Cp kurvatām_kṛ_PGPaPrM  / vireje_virāj_SPs3In śaśi_śaśin_Cp vat_vat_ bhānām_bhā_PGM grahāṇām_graha_PGM graha_graha_Cp rāj_rāj_SNM iv"
+  },
+  {
+    "index": 38559,
+    "sanskrit": "sarva deva namaskāraḥ keśavam prati gacchati",
+    "english": "By reciting them within a house, all evils are dispelled from the inmates.",
+    "morphology": "sarva_sarva_Cp deva_deva_MCp namaskāraḥ_namaskāra_SNM keśavam_keśava_SAM prati_prati_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8944,
+    "sanskrit": "evaṃ tu varṇayanti dravyāntaramevāyurastīti /",
+    "english": "The Vaibhāṣikas maintain that the āyas is a thing in and of itself.",
+    "morphology": "evam_evam_ tu_tu_ varṇayanti_varṇay_PPr3In dravya_dravya_Cp antaram_antara_SNNe eva_eva_ āyuḥ_āyus_SNNe asti_as_SPr3In iti_iti_"
+  },
+  {
+    "index": 8945,
+    "sanskrit": "śrutiśca — 'manaḥ saṃkalpakaṃ dhyātvā saṃkṣipyātmani buddhimān / dhārayitvā tathātmānaṃ dhāraṇā parikīrtitā' //",
+    "english": "And the śruti also has it thus : 'The intelligent , having studied the mind-the instrument of thought , should concentrate it on the Self—holding on to such state is described as dhāranā' .",
+    "morphology": "śrutiḥ_śruti_SNF ca_ca_  / __manas_U __saṃkalpaka_U dhyātvā_dhyā_CoU __saṃkṣip_CoU __ātman_U __buddhimat_U  / __dhāray_CoU __tathā_U __ātman_U __dhāraṇā_U __parikīrtay_PaU  /"
+  },
+  {
+    "index": 8946,
+    "sanskrit": "jarāyā bahavo doṣāḥ pānabhojanakāritāḥ /",
+    "english": "There are many inconveniences regarding food and drink in decrepitude.",
+    "morphology": "jarāyāḥ_jarā_SBF bahavaḥ_bahu_PNM doṣāḥ_doṣa_PNM pāna_pāna_Cp bhojana_bhojana_Cp kāritāḥ_kāray_PNPaM"
+  },
+  {
+    "index": 8947,
+    "sanskrit": "rātrau jāgaraṇaṃ kāryyaṃ stotrairnānāvidhairapi | āhūya brāhmaṇānbhaktyā bhojayecca svaśaktitaḥ || 37 ||",
+    "english": "37. Remaining awake throughout the night utter the varieties of hymns in the God’s name. Invite the Brāhmaṇas and feed them as per your ability and affordability.",
+    "morphology": "rātrau_rātri_SLF jāgaraṇam_jāgaraṇa_SNNe kāryam_kṛ_SNNeGd stotraiḥ_stotra_PINe nānāvidhaiḥ_nānāvidha_PINe api_api_  / āhūya_āhvā_Co brāhmaṇān_brāhmaṇa_PAM bhaktyā_bhakti_SIF bhojayet_bhojay_SPr3O ca_ca_ sva_sva_Cp śaktitas_"
+  },
+  {
+    "index": 8948,
+    "sanskrit": "yathārha dātā ca arheṣu dharma caryā paraḥ bhavet",
+    "english": "He gives unto deserving persons what they deserve. He becomes devoted to the observance of every duty and every act of righteousness.",
+    "morphology": "yathārha_yathārha_Cp"
+  },
+  {
+    "index": 8949,
+    "sanskrit": "devāḥ ca aiśvaryavantaḥ vai śarīrāṇi āviśanti vai",
+    "english": "The deities are possessed of (Yoga) puissance. They are able to penetrate human bodies.[48] There are deities.",
+    "morphology": "devāḥ_deva_PNM ca_ca_U aiśvaryavantaḥ_aiśvaryavat_PNM vai_vai_U"
+  },
+  {
+    "index": 8950,
+    "sanskrit": "kimartha viniyoktavyā /",
+    "english": "To what purpose?",
+    "morphology": "kim_ka_SNNe"
+  },
+  {
+    "index": 8951,
+    "sanskrit": "tālamegha uvāca | ko'yaṃ mṛtyuvaśaṃ prāpto hyajñātvā mama vikramam | dhundhumārājñayā hyāśu svasainyaparivāritaḥ || 46 || balādānaya taṃ baddhvā mamāgre bahuśālinam || 47 ||",
+    "english": "46-55. O Dhundhumāra, who is it that has unwittingly fallen into the clutches of Death without being aware of my power? O Dhundhumāra, at my behest, go quickly, surrounded by your own army; bind that professedly mighty one and bring him to me forcibly.",
+    "morphology": "tālameghaḥ_tālamegha_SNM uvāca_vac_SPs3In  / kaḥ_ka_SNM ayam_idam_SNM mṛtyu_mṛtyu_Cp vaśam_vaśa_SAM prāptaḥ_prāp_SNPaM hi_hi_ a_a_ jñātvā_jñā_Co mama_mad_SG vikramam_vikrama_SAM  / dhundhumāra_dhundhumāra_Cp ājñayā_ājñā_SIF hi"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3928,
+    "sanskrit": "bhūyo bhūtātmano viṣṇoḥ prādurbhāvo mahātmanaḥ /",
+    "english": "The Great Vishnu, the soul of all, next incarnated himself as the highly forgiving Dattātreya.",
+    "morphology": "bhūyas_bhūyas_ bhūtātmanaḥ_bhūtātman_SBM viṣṇoḥ_viṣṇu_SBM prādurbhāvaḥ_prādurbhāva_SNM mahātmanaḥ_mahātman_SBM  /"
+  },
+  {
+    "index": 3929,
+    "sanskrit": "diṣṭyā idam āgatam iti matvā sa prājña sattamaḥ",
+    "english": "Taking these facts for his subject, Dwaipayana composed a holy Upanishad that has been published to the world by learned and sacred bards in the Puranas composed by them.",
+    "morphology": "diṣṭyā_diṣṭi_SIF idam_idam_SNNe āgatam_āgam_SNPaPsNe iti_iti_U matvā_man_Co"
+  },
+  {
+    "index": 3930,
+    "sanskrit": "mama nārthāya sa iti vakṣi cettatkathaṃ bhavet / deśāntaragatāḥ sarve bhavantyarthāya saṃprati //",
+    "english": "But you may object and say that, things that are absent and at a distance from you, are no way serviceable to you, and yet they cannot be said to be inexistent or unreal; because they come to use when they are present before us.",
+    "morphology": "mama_mad_SG na_na_ arthāya_artha_SDM saḥ_tad_SNM iti_iti_ vakṣi_vac_SPr2In ced_ced_ tat_tad_SNNe katham_katham_ bhavet_bhū_SPr3O  / deśa_deśa_Cp antara_antara_Cp gatāḥ_gam_PNPaM sarve_sarva_PNM bhavanti_bhū_PPr3In arthāya_artha_SDM saṃprati_"
+  },
+  {
+    "index": 3931,
+    "sanskrit": "lalāṭe keśavaṃ dhyāyeddhṛdaye mādhavaṃ tathā | bāhvośca ubhayorvatsa smaredvai madhusūdanam || 27 ||",
+    "english": "Know what is to be done by a Kṣatriya. He should meditate on Keśava on his forehead and on Mādhava in the chest. O dear one, he should remember (for Nyāsa) Madhusūdana on boṃ the arms. The procedure for a Kṣatriya has been spoken.",
+    "morphology": "lalāṭe_lalāṭa_SLNe keśavam_keśava_SAM dhyāyet_dhyā_SPr3O hṛdaye_hṛdaya_SLNe mādhavam_mādhava_SAM tathā_tathā_  / bāhvoḥ_bāhu_DuLM ca_ca_ ubhayoḥ_ubhaya_DuLM vatsa_vatsa_SVM smaret_smṛ_SPr3O vai_vai_ madhusūdanam_madhusūdana_SAM "
+  },
+  {
+    "index": 3932,
+    "sanskrit": "sa tu bhāra abhibhūta ātmā na tathā śīghra gaḥ abhavat",
+    "english": "And being oppressed with the weight, he could not proceed rapidly as before.",
+    "morphology": "sa_tad_SNM tu_tu_U bhāra_bhāra_MCp abhibhūta_abhibhū_PaPsCp ātmā_ātman_SNM na_na_U tathā_tathā_U śīghra_śīghra_Cp gaḥ_ga_SNM abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 3933,
+    "sanskrit": "smṛty upasthāneṣu vastvakauśalam āvaraṇam iti /",
+    "english": "Lack of skill in regard to the foundation is an obscuration to the applications of mindfulness.",
+    "morphology": "smṛti_smṛti_SNF upasthāneṣu_upasthāna_PLNe vastu_vastu_Cp akauśalam_akauśala_SNNe āvaraṇam_āvaraṇa_SNNe iti_iti_"
+  },
+  {
+    "index": 3934,
+    "sanskrit": "prācchādayat arīn saṃkhye kāla sṛṣṭaḥ iva antakaḥ vinardamānaḥ madra īśaḥ megha hrādaḥ mahā balaḥ",
+    "english": "The mighty ruler of the Madras began to roar aloud like the clouds.",
+    "morphology": "prācchādayat_pracchāday_SPs3In arīn_ari_PAM saṃkhye_saṃkhya_SLNe kāla_kāla_MCp sṛṣṭaḥ_sṛj_SNPaPsM iva_iva_U antakaḥ_antaka_SNM vinardamānaḥ_vinard_SNPaPrM madra_madra_MCp īśaḥ_īśa_SNM megha_megha_MCp hrādaḥ_hrāda_SNM mah"
+  },
+  {
+    "index": 3935,
+    "sanskrit": "putra śoka abhisaṃtaptam putram vacanam abravīt",
+    "english": "Hearing these words of his, the puissant Vyasa thus spoke unto his son afflicted with grief on account of the death of his children.",
+    "morphology": "putra_putra_MCp śoka_śoka_MCp abhisaṃtaptam_abhisaṃtap_SAPaPsM putram_putra_SAM vacanam_vacana_SANe"
+  }
+]

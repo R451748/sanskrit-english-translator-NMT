@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39048,
+    "sanskrit": "sa dagdhaḥ droṇa karṇābhyām divyaiḥ astraiḥ mahā rathaḥ atha dīptaḥ agninā hi āśu prajajvāla mahīpate",
+    "english": "The top of the vehicle, which had before been burnt by Drona and Karna with their celestial weapons, quickly blazed forth to ashes, O king, without any visible fire having been in sight.",
+    "morphology": "sa_tad_SNM dagdhaḥ_dah_SNPaPsM droṇa_droṇa_MCp karṇābhyām_karṇa_DuIM divyaiḥ_divya_PINe astraiḥ_astra_PINe mahā_mahat_Cp rathaḥ_ratha_SNM atha_atha_U dīptaḥ_dīp_SNPaPsM agninā_agni_SIM hi_hi_U āśu_āśu_U prajajvāla_prajval_SPs3I"
+  },
+  {
+    "index": 39049,
+    "sanskrit": "indraḥ uvāca svarge loke śvavatām na asti dhiṣṇyam",
+    "english": "\"Indra said, There is no place in Heaven for persons with dogs.",
+    "morphology": "indraḥ_indra_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 39050,
+    "sanskrit": "kathaṃ punas tatra saṅketāsambhava ity āha na dvayoḥ sa hi siddhyatīti /",
+    "english": "Question: Why is Convention not possible in this case? “Answer: Because it cannot be known to both.",
+    "morphology": "katham_katham_ punar_punar_ tatra_tatra_ saṅketa_saṃketa_Cp asaṃbhavaḥ_asaṃbhava_SNM iti_iti_ āha_ah_SPs3In na_na_ dvayoḥ_dvi_DuGM sa_tad_SNM hi_hi_ siddhi_siddhi_Cp ati_ati_ iti_iti_"
+  },
+  {
+    "index": 39051,
+    "sanskrit": "vaiśaṃpāyana uvāca śrutas te daityasainyasya vistaras tāta vigrahe /",
+    "english": "Vaishampayana said:— my child, you have thus heard of the arrangement of the Daitya army in the war between the gods and demons.",
+    "morphology": "vaiśaṃpāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In śrutaḥ_śru_SNPaM te_tvad_SG daitya_daitya_Cp sainyasya_sainya_SGNe vistaraḥ_vistara_SNM tāta_tāta_SVM vigrahe_vigraha_SLM"
+  },
+  {
+    "index": 39052,
+    "sanskrit": "devā api śiromadhyacchedāt bhriyanta ityapare / uktā aśubhāḥ /",
+    "english": "According to another opinion, the gods also kill by-cutting the head or the body.",
+    "morphology": "devāḥ_deva_PNM api_api_ śiraḥ_śiras_Cp madhya_madhya_Cp chedāt_cheda_SBM bhriyante_bhṛ_PPr3InPv iti_iti_ apare_apara_PNM  / uktāḥ_vac_PNPaM"
+  },
+  {
+    "index": 39053,
+    "sanskrit": "didr̥kṣeṇyaḥ pari kāṣṭhāsu jenyaḥ īl̥enyaḥ mahaḥ arbhāya jīvase puru trā yat abhavat sūḥ aha ebhyaḥ garbhebhyaḥ magha vā viśva darśataḥ",
+    "english": "Born noble in the regions, aim of all mens' eyes to be implored for life by great and small alike, Far as the Wealthy One hath spread himself abroad, he is the Sire all-visible of this progeny.",
+    "morphology": "didr̥kṣeṇyaḥ_didr̥kṣeṇya_SNM pari_pari_U kāṣṭhāsu_kāṣṭhā_PLF jenyaḥ_jenya_SNM īl̥enyaḥ_īl̥enya_SNM mahaḥ_maha_SNM arbhāya_arbha_SDM jīvase_jīv_In puru_puru_Cp trā_trā_U yat_yat_U abhavat_bhū_SPs3In sūḥ_sū_SNF aha"
+  },
+  {
+    "index": 39054,
+    "sanskrit": "brāhmeṇety etad api stutyartham eva /",
+    "english": "\"Dedicated to Brahmā\";this also is a figurative eulogy.",
+    "morphology": "brāhmeṇa_brāhma_SINe iti_iti_ etat_etad_SNNe api_api_ stuti_stuti_Cp artham_artha_SNNe "
+  },
+  {
+    "index": 39055,
+    "sanskrit": "mudga māṣa upamā raktā piḍakā raktapitta jā",
+    "english": "The disease is due to the vitiated condition of the blood and Pitta.",
+    "morphology": "muṣṇā_muṣṇā_SNF"
+  }
+]

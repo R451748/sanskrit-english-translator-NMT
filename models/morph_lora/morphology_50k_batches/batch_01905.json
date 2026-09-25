@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15232,
+    "sanskrit": "indraṃ viśvā avīvṛdhant samudravyacasaṃ giraḥ | rathītamaṃ rathīnāṃ vājānāṃ satpatim patim |",
+    "english": "All songs have caused Indra to wax To encompass the ocean, Best charioteer of charioteers, True lord and lord of strength.",
+    "morphology": "indram_indra_SAM viśvāḥ_viśva_PNF avīvṛdhan_vṛdh_PPs3In samudra_samudra_Cp vyacasam_vyacas_SAM giraḥ_gir_PNF  / rathītamam_rathītama_SAM rathīnām_rathī_PGM vājānām_vāja_PGM satpatiḥ_satpati_SNM patim_pati_SAM"
+  },
+  {
+    "index": 15233,
+    "sanskrit": "tasmāt punar api bhāṭṭapakṣavat dvayam āpatati prerakaś ca vidhiḥ kāryarūpaś cānuṣṭheyo 'rtha iti sukhaidhito niranusandhāna ivāyuṣmān evaṃ vyavaharati /",
+    "english": "A niyoga prompts one to perform an obligatory duty by its verbal force. The hypothesis in question like that of the Bhaṭṭas sug- gests that an injunction has got two parts to play. It plays the role of a mover and that of a rite to be performed.",
+    "morphology": "tasmāt_tasmāt_ punar_punar_ api_api_ bhāṭṭa_bhāṭṭa_Cp pakṣa_pakṣa_Cp vat_vat_ dvayam_dvaya_SNNe āpatati_āpat_SPr3In prerakaḥ_preraka_SNM ca_ca_ vidhiḥ_vidhi_SNM kārya_kārya_Cp rūpaḥ_rūpa_SNM ca_ca_ anuṣṭheyaḥ_anuṣṭhā_"
+  },
+  {
+    "index": 15234,
+    "sanskrit": "tvāyā indra somam susuma su dakṣa tvāyā haviḥ cakr̥ma brahma vāhaḥ adha ni yutvaḥ sa gaṇaḥ marut bhiḥ asmin yajñe barhiṣi mādayasva",
+    "english": "We, fain for thee, strong Indra, have pressed Soma, and, O thou sought with prayer, have made oblations. Now at this sacrifice, with all thy Maruts, on sacred grass, O team-borne God, rejoice thee.",
+    "morphology": "tvāyā_tvāyā_U indra_indra_SVM somam_soma_SAM susuma_su_PPs1In su_su_U dakṣa_dakṣa_SVM tvāyā_tvāyā_U haviḥ_havis_SANe cakr̥ma_kṛ_PPs1In brahma_brahman_NeCp vāhaḥ_vāh_PAM adha_adha_U ni_ni_U yutvaḥ_yutva_SNM sa_sa_U gaṇaḥ_gaṇa_SN"
+  },
+  {
+    "index": 15235,
+    "sanskrit": "tato'maratvamāpannaḥ sa yāvatsiṃhikāsutaḥ | tāvatprokto'cyutenātha sāmnā paramavalgunā || 44 ||",
+    "english": "44. Thereupon, the son of Siṃhikā (Rāhu) gained immortality and so Acyuta told him in excessively sweet conciliatory terms:",
+    "morphology": "tatas_tatas_ amara_amara_Cp tvam_tva_SANe āpannaḥ_āpad_SNPaM sa_tad_SNM yāvat_yāvat_ siṃhikāsutaḥ_siṃhikāsuta_SNM  / tāvat_tāvat_ proktaḥ_pravac_SNPaM acyutena_acyuta_SIM atha_atha_ sāmnā_sāman_SINe parama_parama_Cp valgunā_valgu_SINe"
+  },
+  {
+    "index": 15236,
+    "sanskrit": "sva phena paṭa saṃvītā mattā iva pramadā avrajat",
+    "english": "and covered with foam as with a robe: she went forward like a woman drunk.",
+    "morphology": "sva_sva_Cp phena_phena_MCp paṭa_paṭa_MCp saṃvītā_saṃvye_SNPaPsF"
+  },
+  {
+    "index": 15237,
+    "sanskrit": "kaḥ cit duḥkhe vartamānaḥ sukhasya smartum icchati kaḥ cit sukhe vartamānaḥ duḥkhasya smartum icchati",
+    "english": "Some people while afflicted by sorrow, desire to recall (past) happiness, while others, while in the enjoyment of happiness, desire to recall past sorrow.",
+    "morphology": "kaḥ_ka_SNM cit_cit_U duḥkhe_duḥkha_SLNe vartamānaḥ_vṛt_SNPaPrM sukhasya_sukha_SGNe smartum_smṛ_In icchati_iṣ_SPr3In kaḥ_ka_SNM cit_cit_U sukhe_sukha_SLNe vartamānaḥ_vṛt_SNPaPrM duḥkhasya_duḥkha_SGNe smartum_smṛ_In icchati_iṣ_S"
+  },
+  {
+    "index": 15238,
+    "sanskrit": "sarve dadhmuḥ mahā śaṅkhān hema jāla pariṣkṛtān",
+    "english": "And they all blew their large conchs decked with gold.",
+    "morphology": "sarve_sarva_PNM"
+  },
+  {
+    "index": 15239,
+    "sanskrit": "nāpi caitasikaṃ prītivacanāt /",
+    "english": "the happiness attributed to these Dhyānas cannot be mental happiness because these Dhyānas possess joy.",
+    "morphology": "na_na_ api_api_ caitasikam_caitasika_SNNe prīti_prīti_Cp vacanāt_vacana_SBNe"
+  }
+]

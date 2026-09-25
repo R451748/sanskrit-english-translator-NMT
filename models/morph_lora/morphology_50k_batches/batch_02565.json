@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20512,
+    "sanskrit": "udīcyāṃ bhārabhūteśādāṣāḍhīśaṃ samarcayan | āṣāḍhyāṃ paṃcadaśyāṃ vai na pāpaiḥ paritapyate || 28 ||",
+    "english": "28. By worshipping Āṣāḍhīśa to the north of Bhārabhūteśa, on the new-moon day of the month of Āṣāḍha, one is never distressed by sins.",
+    "morphology": "udīcyām_udīcī_SLF bhārabhūteśāt_bhārabhūteśa_SBM āṣāḍhīśam_āṣāḍhīśa_SAM samarcayan_samarcay_SNPaPrM  / āṣāḍhyām_āṣāḍhī_SLF pañcadaśyām_pañcadaśī_SLF vai_vai_ na_na_ pāpaiḥ_pāpa_PINe paritapyate_paritap_SPr"
+  },
+  {
+    "index": 20513,
+    "sanskrit": "adhvaryum vā madhu pāṇim su hastyam agnidham vā dhr̥ta dakṣam damūnasam viprasya vā yat savanāni gacchathaḥ ataḥ ā yātam madhu peyam aśvincā",
+    "english": "If to the deft Adhvaryu with the meath in hand, or to the Kindler firm in strength, the household friend, Or to the sage's poured libations ye approach, come thence, O Aṣvins, now to drink the offered meath.",
+    "morphology": "adhvaryum_adhvaryu_SAM vā_vā_U madhu_madhu_NeCp pāṇim_pāṇi_SAM su_su_U hastyam_hastya_SAM agnidham_agnidh_SAM vā_vā_U dhr̥ta_dhruta_Cp dakṣam_dakṣa_SAM damūnasam_damūnas_SAM viprasya_vipra_SGM vā_vā_U yat_yat_U savanāni_savana_PANe gacc"
+  },
+  {
+    "index": 20514,
+    "sanskrit": "bharato dattalakṣmīkaḥ śālagrāme hariṃ gataḥ //",
+    "english": "Bharata resorted to Śālagrāma to worship Hari after entrusting his kingdom to his son.",
+    "morphology": "bharataḥ_bharata_SNM datta_dā_PaCp lakṣmīkaḥ_lakṣmīka_SNM śālagrāme_śālagrāma_SLM harim_hari_SAM gataḥ_gam_SNPaM  /"
+  },
+  {
+    "index": 20515,
+    "sanskrit": "vanaparṇalatāpatre vasantaṃ vyasanāturam / vindhyakāntāramākāramabhyāgatamivodbhaṭam //",
+    "english": "When tired they took their seats on beds of leaves and creepers, which were spread over the plains, like those strewn over the skirts of the Vindhya hills, by the driving winds.",
+    "morphology": "vana_vana_Cp parṇa_parṇa_Cp latā_latā_Cp patre_pattra_SLNe vasantam_vas_SAPaPrM vyasana_vyasana_Cp āturam_ātura_SAM  / vindhya_vindhya_Cp kāntāram_kāntāra_SAM ākāram_ākāra_SAM abhyāgatam_abhyāgam_SAPaM iva_iva_ udbhaṭam_udbhaṭa_SAM  /"
+  },
+  {
+    "index": 20516,
+    "sanskrit": "amātyo mantripurohitaḥ senānī /",
+    "english": "\"Minister\" the Councillor, the Priest, the ArmyCommander.",
+    "morphology": "amātyaḥ_amātya_SNM"
+  },
+  {
+    "index": 20517,
+    "sanskrit": "vindhye saṃtāpya ca ātmānam satya saṃdhaḥ tu ahiṃsakaḥ",
+    "english": "By exposing oneself to heat in the tirtha called Vindhya, a person devoted to truth and endued with compassion for all creatures should then betake himself to austere penances, actuated by humility.",
+    "morphology": "vindhye_vindhya_SLM saṃtāpya_saṃtāpay_Co ca_ca_U ātmānam_ātman_SAM"
+  },
+  {
+    "index": 20518,
+    "sanskrit": "nānāsphārasamullāsaiḥ svasaṃkalpopakalpitaiḥ / mano valgati dehe'sminsādhvīvāntaḥpurājire //",
+    "english": "The mind is delighted with its imaginary desires within the body, as a secluded woman takes her delight in the seraglio.",
+    "morphology": "nānā_nānā_ sphāra_sphāra_Cp samullāsaiḥ_samullāsa_PIM sva_sva_Cp saṃkalpa_saṃkalpa_Cp upakalpitaiḥ_upakalpay_PIPaM  / manaḥ_manas_SNNe valgati_valg_SPr3In dehe_deha_SLM asmin_idam_SLM sādhvī_sādhvī_SNF iva_iva_ antaḥpura_antaḥpura"
+  },
+  {
+    "index": 20519,
+    "sanskrit": "adhyetavyaṃ dhāraṇīyaṃ śrāvyaṃ śrotavyam eva ca / śrāddheṣu śrāvaṇīyaṃ ca bhūtikāmair naraiḥ sadā // ya idaṃ paṭhate nityaṃ bhūtikāmo naraḥ sadā /",
+    "english": ". It must be studied, it must be borne in mind, it must be recited, it must be listened too, and it must be constantly repeated at Srâddhas by persons desirous of prosperity.laws, which is conducive to happiness, the best means of purification, destructive of bad dreams, productive of a great deal of religious merit, and the source of prosperity.]",
+    "morphology": "adhyetavyam_adhī_SNNeGd dhāraṇīyam_dhṛ_SNNeGd śrāvyam_śrāvay_SNNeGd śrotavyam_śru_SNNeGd eva_eva_ ca_ca_  / śrāddheṣu_śrāddha_PLNe śrāvaṇīyam_śru_SNNeGd ca_ca_ bhūti_bhūti_Cp kāmaiḥ_kāma_PIM naraiḥ_nara_PIM sadā_sadā_  //"
+  }
+]

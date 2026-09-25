@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3336,
+    "sanskrit": "aiśvaraṃ padamāptasya bhavaṃtyetāśca siddhayaḥ | tato na jāyate naiva vardhate na vinaśyati || 121 ||",
+    "english": "121. These Siddhis occur in one who attains the status of Īśvara (Lord). Thereafter, he is not reborn nor does he grow or perish.",
+    "morphology": "aiśvaram_aiśvara_SANe padam_pada_SANe āptasya_āp_SGPaM bhavanti_bhū_PPr3In etāḥ_etad_PNF ca_ca_ siddhayaḥ_siddhi_PNF  / tatas_tatas_ na_na_ jāyate_jan_SPr3In na_na_ eva_eva_ vardhate_vṛdh_SPr3In na_na_ vinaśyati_vinaś_SPr3In  /"
+  },
+  {
+    "index": 3337,
+    "sanskrit": "dhaumyaḥ uvāca",
+    "english": "And Dhaumya then addressed Jayadratha and said, 'Do thou, O Jayadratha, observe the ancient custom of the Kshatriyas.",
+    "morphology": "dhaumyaḥ_SNM"
+  },
+  {
+    "index": 3338,
+    "sanskrit": "ete mr̥ṣṭāḥ amartyāḥ sasr̥ vāṁsaḥ na śaśramuḥ iyakṣantaḥ pathaḥ rajaḥ",
+    "english": "Immortal, cleansed, these drops, since first they flowed, have never wearied, fain To reach the regions and their paths.",
+    "morphology": "ete_etad_PNM mr̥ṣṭāḥ_mṛj_PNPaPsM amartyāḥ_amartya_PNM sasr̥_sasṛ_Cp vāṁsaḥ_vāṁ_PNM na_na_U śaśramuḥ_śram_PPs3In iyakṣantaḥ_iyakṣ_PNPaPrM pathaḥ_pathin_SGM rajaḥ_rajas_SANe"
+  },
+  {
+    "index": 3339,
+    "sanskrit": "teṣām hi akāma karaṇāt rājñaḥ saṃjāyate bhayam",
+    "english": "By neglecting to gratify the wishes of Brahmanas, the king brings danger on himself.",
+    "morphology": "teṣām_tad_PGM hi_hi_U akāma_akāma_Cp karaṇāt_karaṇa_SBNe rājñaḥ_rājan_SBM saṃjāyate_saṃjan_SPr3In bhayam_bhaya_SNNe"
+  },
+  {
+    "index": 3340,
+    "sanskrit": "viratham sātyakim kṛtvā madra rājaḥ mahā balaḥ viśikhānām śatena enam ājaghāna samantataḥ",
+    "english": "Having made Satyaki carless, that mighty car-warrior, the ruler of the Madras, struck him with a hundred arrows from every side.",
+    "morphology": "viratham_viratha_SAM sātyakim_sātyaki_SAM kṛtvā_kṛ_Co madra_madra_MCp rājaḥ_rāja_SNM mahā_mahat_Cp balaḥ_bala_SNM viśikhānām_viśikha_PGM śatena_śata_SINe enam_enad_SAM ājaghāna_āhan_SPs3In samantataḥ_samantataḥ_U"
+  },
+  {
+    "index": 3341,
+    "sanskrit": "pudgala-nairātmyaṃ ceti |",
+    "english": "and the selflessness of people.",
+    "morphology": "pudgala_pudgala_Cp nairātmyam_nairātmya_SNNe ca_ca_ iti_iti_"
+  },
+  {
+    "index": 3342,
+    "sanskrit": "svāgatam te bhagavan ājñāpaya kim karavāṇi iti sa tām uvāca",
+    "english": "And as the Queen perceived him, she saluted him respectfully and said, 'Welcome, Sir, command me what I have to do.' And Utanka said unto her, 'It behoveth thee to give me those ear-rings of thine.",
+    "morphology": "svāgatam_svāgata_SNNe te_tvad_SD bhagavan_bhagavat_SVM ājñāpaya_ājñāpay_SPr2Im kim_ka_SANe karavāṇi_kṛ_SPr1Im iti_iti_U sa_tad_SNM tām_tad_SAF uvāca_vac_SPs3In"
+  },
+  {
+    "index": 3343,
+    "sanskrit": "ukthebhir vṛtrahantamā yā mandānā cid ā girā / āṅgūṣair āvivāsataḥ //",
+    "english": "Call hither with the song and lauds the two best slayers of the foe, Delighting even in our hymn. 77",
+    "morphology": "ukthebhiḥ_uktha_PINe vṛtra_vṛtra_Cp hantamā_hantama_DuNM yā_yad_DuNM mandānā_mad_DuNPaPsM cit_cit_ ā_ā_ girā_gir_SIF  / āṅgūṣaiḥ_āṅgūṣa_PIM āvivāsataḥ_āvivās_DuPr3In  /"
+  }
+]

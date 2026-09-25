@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5000,
+    "sanskrit": "sthitis tena kriyata iti cet na /",
+    "english": "It might be said that “what it brings about is continued existence”. But that cannot be right.",
+    "morphology": "sthitiḥ_sthiti_SNF"
+  },
+  {
+    "index": 5001,
+    "sanskrit": "bhāti caitrarathaṃ caiva nandanaṃ ca mahad vanam /",
+    "english": "The ghostly attendants of the great Mahādeva guard that forest.",
+    "morphology": "bhāti_bhā_SPr3In caitraratham_caitraratha_SNNe ca_ca_ eva_eva_ nandana_nandana_SNNe ca_ca_ mahat_mahat_SNNe vanam_vana_SNNe  /"
+  },
+  {
+    "index": 5002,
+    "sanskrit": "saṃkalpavātavalitaṃ janmajālakadambakam / asaṃkalpānilasparśādviśrāmyati pare pade //",
+    "english": "It is the net work of our thoughts and desires, that is interwoven with the threads of our repeated births; but the winds of our apathy and indifference blow off this web, and settle us in the state of supreme felicity.",
+    "morphology": "saṃkalpa_saṃkalpa_Cp vāta_vāta_Cp valitam_val_SNPaNe janma_janman_Cp jāla_jāla_Cp kadambakam_kadambaka_SNNe  / a_a_ saṃkalpa_saṃkalpa_Cp anila_anila_Cp sparśāt_sparśa_SBM viśrāmyati_viśram_SPr3In paraḥ_para_SNM "
+  },
+  {
+    "index": 5003,
+    "sanskrit": "yathā raśmibhiḥ ādityaḥ pracchādayati medinīm tathā gāṇḍīva nirmuktāḥ chādayanti śarāḥ diśaḥ",
+    "english": "Partha soon covered all the points of the horizon with countless arrows shot from the Gandiva, like the sun covering the whole earth with his rays.",
+    "morphology": "yathā_yathā_U raśmibhiḥ_raśmi_PIM ādityaḥ_āditya_SNM pracchādayati_pracchāday_SPr3In medinīm_medinī_SAF tathā_tathā_U gāṇḍīva_gāṇḍīva_NeCp nirmuktāḥ_nirmuc_PNPaPsM chādayanti_chāday_PPr3In śarāḥ_śara_PNM diśaḥ_diś_"
+  },
+  {
+    "index": 5004,
+    "sanskrit": "apanunutsur apanetum icchuḥ /",
+    "english": "\"Who desires to remove\" anxious to wipe off; desirous of purification0.",
+    "morphology": "apanunutsuḥ_apanunutsu_SNM"
+  },
+  {
+    "index": 5005,
+    "sanskrit": "ndoviṣayatvena yāvantaḥ śabdaviśeṣāḥ smaryyante tainna bhavitavyamityekapadatadavayavohe tanmantragata sarvacchāndasopodvāreṇa laukika śabda prayogaḥ karttavya iti",
+    "english": "If it be held that the character of Mantra would reside even in a part namely that which has not been modified, then all words, even in ordinary parlance, would become Mantras, inasmuch as all of them form parts of certain Mantras. Consequently the modification of even the slightest letter having set aside the character of the Mantra, it ceases to be amenable to all processes attendant upon a Mantra. It is only the modified portion that ceases to be Mantra because the generic form of the Mantra having been ascertained to exist in a cer tain sentence, that generic character does not entirely disappear by a mere excess or diminution in a certain part of it.",
+    "morphology": "yāvantaḥ_yāvat_PNM śabda_śabda_Cp viśeṣāḥ_viśeṣa_PNM smaryyante_smṛ_PPr3InPv taiḥ_tad_PIM na_na_ bhavitavyam_bhū_SNNeGd iti_iti_ eka_eka_Cp pada_pada_Cp tad_tad_Cp avayava_avayava_Cp ūhe_ūha_SLM tad_tad_Cp mantra_mantra_Cp gata_gam_Pa"
+  },
+  {
+    "index": 5006,
+    "sanskrit": "athābhūttumulaṃ tāsāṃ yuddhaṃ ghoraṃ tu taiḥ saha | śastrāstrairvividhairghoraiḥ śatrupakṣa kṣayaṃkaraiḥ || 13 ||",
+    "english": "13. A terribly tumultuous battle ensued between them with weapons and missiles of various kinds destructive of the enemies.",
+    "morphology": "atha_atha_ abhūt_bhū_SPs3In tumulam_tumula_SNNe tāsām_tad_PGF yuddham_yuddha_SNNe ghoram_ghora_SNNe tu_tu_ taiḥ_tad_PIM saha_saha_  / śastra_śastra_Cp astraiḥ_astra_PINe vividhaiḥ_vividha_PINe ghoraiḥ_ghora_PINe śatru_śatru_Cp pakṣa_pak"
+  },
+  {
+    "index": 5007,
+    "sanskrit": "sarpavṛścikasaṃyuktastathā'nyo narakaḥ śrutaḥ | tatra ye dāṃbhikā loke te gacchanti narādhamāḥ | saptamāsikadānena teṣāṃ muktiḥ prajāyate || 58 ||",
+    "english": "58. Similarly there is another Naraka about which it is heard that it has serpents and scorpions. Those base men who are hypocrites in the world go there. Their salvation lies in offering Śrāddha once in seven months.",
+    "morphology": "sarpa_sarpa_Cp vṛścika_vṛścika_Cp saṃyuktaḥ_saṃyuj_SNPaM tathā_tathā_ anyaḥ_anya_SNM narakaḥ_naraka_SNM śrutaḥ_śru_SNPaM  / tatra_tatra_ ye_yad_PNM dāṃbhikāḥ_dāmbhika_PNM loke_loka_SLM te_tad_PNM gacchanti_gam_PPr3In nara_nara_"
+  }
+]

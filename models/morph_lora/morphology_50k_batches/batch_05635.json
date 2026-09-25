@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45072,
+    "sanskrit": "ayam ca kāmaḥ drupadasya rājño hṛdi sthitaḥ nityam anindita aṅgāḥ yat arjunaḥ vai pṛthu dīrgha bāhuḥ",
+    "english": "Ye heroes of features perfectly faultless, king Drupada hath all along cherished this desire in his heart that Arjuna of strong and long arms might wed this daughter of his according to the ordinance.",
+    "morphology": "ayam_idam_SNM ca_ca_U kāmaḥ_kāma_SNM drupadasya_drupada_SGM rājñaḥ_rājan_SGM hṛdi_hṛd_SLNe sthitaḥ_sthā_SNPaPsM nityam_nityam_U anindita_anindita_Cp aṅgāḥ_aṅga_PVM yat_yat_U arjunaḥ_arjuna_SNM vai_vai_U pṛthu_pṛthu_SANe dīrgha"
+  },
+  {
+    "index": 45073,
+    "sanskrit": "kālaṃ gacchati tan nidhanam / pāraṃ gacchati tan nidhanam /",
+    "english": "the Passing of the Time is the Nidhana; the going to the End is the Nidhana",
+    "morphology": "kālam_kāla_SAM gacchati_gam_SPr3In tat_tad_SNNe nidhanam_nidhana_SNNe  / pāram_pāra_SAM"
+  },
+  {
+    "index": 45074,
+    "sanskrit": "vāk sūnṛtā dayā dānaṃ hīnopagatarakṣaṇaṃ // iti vṛttaṃ satāṃ sādhuhitaṃ satpuruṣavrataṃ /",
+    "english": "Courteous words, compassion, charity and protection of one that has sought refuge are the acts of good people agreeable to pious men.",
+    "morphology": "vāc_vāc_SNF sūnṛtā_sūnṛta_SNF dayā_dayā_SNF dānam_dāna_SNNe hīna_hā_PaCp upagata_upagam_PaCp rakṣaṇam_rakṣaṇa_SNNe  /"
+  },
+  {
+    "index": 45075,
+    "sanskrit": "karṇena vijitāḥ rājan duḥśāsanam anuvratāḥ",
+    "english": "They are commanded by Karna and devoted to Duhsasana.",
+    "morphology": "karṇena_karṇa_SIM vijitāḥ_viji_PNPaPsM rājan_rājan_SVM duḥśāsanam_duḥśāsana_SAM anuvratāḥ_anuvrata_PNM"
+  },
+  {
+    "index": 45076,
+    "sanskrit": "[p.476] śakyadarśanasya upalabdhilakṣaṇaprāptasya vastunaḥ, ābhā ākāro yasya tat tathā, śakyadarśanavastvābhaṃ ca tat pratyakṣaṃ ceti karmadhārayaḥ /",
+    "english": "‘Śakyadarśana’ is that thing the Perception of which is possible, i.e. what is perceptible. ‘Ābhā’ is form, figure; hence what is meant is that Perception which envisages the perceptible thing.",
+    "morphology": "śakya_śakya_Cp darśanasya_darśana_SGNe upalabdhi_upalabdhi_Cp lakṣaṇa_lakṣaṇa_Cp prāptasya_prāp_SGPaNe vastunaḥ_vastu_SGNe ābhāḥ_ābhā_PNF ākāraḥ_ākāra_SNM yasya_yad_SGNe tat_tad_SNNe tathā_tathā_ śakya_śakya_Cp darśana_dar"
+  },
+  {
+    "index": 45077,
+    "sanskrit": "kaṃdukeśa samutpattiṃ yaḥ śroṣyati mudānvitaḥ | pūjayiṣyati yo bhaktastasya duḥkhabhayaṃ kutaḥ || 38 ||",
+    "english": "38. How can fear of misery assail that devotee who listens joyously to the manifestation of Kandukeśa and adores it?",
+    "morphology": "kandukeśa_kandukeśa_SVM samutpattim_samutpatti_SAF yaḥ_yad_SNM śroṣyati_śru_SFu3In mudā_mud_SIF anvitaḥ_anvita_SNM  / pūjayiṣyati_pūjay_SFu3In yaḥ_yad_SNM bhaktaḥ_bhakta_SNM tasya_tad_SGM duḥkha_duḥkha_Cp bhayam_bhaya_SNNe kutas_kuta"
+  },
+  {
+    "index": 45078,
+    "sanskrit": "prahlāda praśnam anagham mūrdhnā te viphaliṣyati prahrādaḥ uvāca udakam madhuparkam ca api ānayantu sudhanvane",
+    "english": "O chief of the Asuras, I shall ask thee a question, do not answer it untruly!' Prahlada said, 'Let water, and honey and curds, be brought for Sudhanwan.",
+    "morphology": "prahlāda_prahlāda_SVM praśnam_praśna_SAM anagham_anagha_SAM mūrdhnā_mūrdhan_SIM te_tvad_SG viphaliṣyati_viphal_SFu3In prahrādaḥ_prahrāda_SNM uvāca_vac_SPs3In udakam_udaka_SANe madhuparkam_madhuparka_SAM ca_ca_U api_api_U ānayantu_ānī_PPr3I"
+  },
+  {
+    "index": 45079,
+    "sanskrit": "budhāḥ yena praśaṃsanti mokṣam sukham anuttamam",
+    "english": "It is only the senseless that do not applaud the felicity of Emancipation that is unrivalled.",
+    "morphology": "budhāḥ_budha_PNM"
+  }
+]

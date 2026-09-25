@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1936,
+    "sanskrit": "na śocat mṛtam anveti na śocat mriyate naraḥ",
+    "english": "What matter of grief then is there in this? The man that indulges in grief succeeds not in meeting with the dead. By indulging in grief, one does not himself die.",
+    "morphology": "na_na_U śocat_śuc_SNPaPrM mṛtam_mṛ_SAPaPsM anveti_anvi_SPr3In na_na_U śocat_śuc_SNPaPrM mriyate_mṛ_SPr3InPv"
+  },
+  {
+    "index": 1937,
+    "sanskrit": "purohitaṃ ca kurvīta vṛṇuyād eva ca rtvijaḥ / te 'sya gṛhyāṇi karmāṇi kuryur vaitānikāni ca //",
+    "english": "Let him appoint a domestic priest (purohita) and choose officiating priests (ritvig); they shall perform his domestic rites and the (sacrifices) for which three fires are required.",
+    "morphology": "purohitam_purohita_SAM ca_ca_ kurvīta_kṛ_SPr3O vṛṇuyāt_vṛ_SPr3O eva_eva_ ca_ca_ ṛtvijaḥ_ṛtvij_PAM  / te_tad_PNM asya_idam_SGM gṛhyāṇi_gṛhya_PANe karmāṇi_karman_PANe kuryuḥ_kṛ_PPr3O vaitānikāni_vaitānika_PANe ca_ca_  /"
+  },
+  {
+    "index": 1938,
+    "sanskrit": "evaṃ svīyeṣu sainyeṣu hateṣu mahiṣāsuraḥ | devīniḥśvāsasaṃbhūtānbhāvayāmāsa tāngaṇān ||",
+    "english": "42. When his armies fell the demon Mahiṣa struggled with the hosts of soldiers that issued from the breath of the goddess.",
+    "morphology": "evam_evam_ svīyeṣu_svīya_PLNe sainyeṣu_sainya_PLNe hateṣu_han_PLPaNe mahiṣa_mahiṣa_Cp asuraḥ_asura_SNM  / devī_devī_Cp niḥśvāsa_niḥśvāsa_Cp saṃbhūtān_sambhū_PAPaM bhāvayāmāsa_bhāvay_SPs3InPe tān_tad_PAM gaṇān_gaṇa_PAM"
+  },
+  {
+    "index": 1939,
+    "sanskrit": "tatas kuntīm abhikramya śaśāsa atīva bhārata vāyum āvāhayasva iti sa devaḥ balavattaraḥ",
+    "english": "Thus commanded by her lord, Kunti then invoked Vayu.",
+    "morphology": "tatas_tatas_U kuntīm_kuntī_SAF abhikramya_abhikram_Co śaśāsa_śās_SPs3In atīva_atīva_U bhārata_bhārata_SVM vāyum_vāyu_SAM āvāhayasva_āvāhay_SPr2Im iti_iti_U sa_tad_SNM devaḥ_deva_SNM balavattaraḥ_balavattara_SNM"
+  },
+  {
+    "index": 1940,
+    "sanskrit": "uṣṇīṣa-śiras-katā,",
+    "english": "he has a protuberance on the head,",
+    "morphology": "uṣṇīṣa_uṣṇīṣa_Cp"
+  },
+  {
+    "index": 1941,
+    "sanskrit": "kva nūnam su dānavaḥ madatha vr̥kta barhiṣaḥ brahmā kaḥ vaḥ saparyati",
+    "english": "Where, bounteous Maruts, do ye now Rejoice, for whom the straw is spread, What Brahman priest is serving you?",
+    "morphology": "kva_kva_U nūnam_nūnam_U su_su_U dānavaḥ_dānu_PVM madatha_mad_PPr2In vrīkta_vraśc_PaPsCp barhiṣaḥ_barhis_PVM brahmā_brahman_SNM kaḥ_ka_SNM vaḥ_tvad_PA saparyati_sapary_SPr3In"
+  },
+  {
+    "index": 1942,
+    "sanskrit": "na naḥ bhañjyāt iti tadā divyāḥ kanaka śākhinaḥ",
+    "english": "And those divine trees having golden boughs feared that they would break.",
+    "morphology": "na_na_U naḥ_mad_PA bhañjyāt_bhañj_SPr3O iti_iti_U tadā_tadā_U divyāḥ_divya_PNM kanaka_kanaka_NeCp śākhinaḥ_śākhin_PNM"
+  },
+  {
+    "index": 1943,
+    "sanskrit": "iti śrīśivamahāpurāṇe tṛtīyāyāṃ śatarudrasaṃhitāyāṃ pippalādāvatāracaritavarṇanaṃ nāma paṃcaviṃśo'dhyāyaḥ ||",
+    "english": "[Sanskrit text for this chapter is available]",
+    "morphology": "iti_iti_ śrī_śrī_Cp śiva_śiva_Cp mahāpurāṇe_mahāpurāṇa_SLNe tṛtīyāyām_tṛtīya_SLF śatarudrasaṃhitāyām_śatarudrasaṃhitā_SLF pippalādāvatāracaritavarṇanam_pippalādāvatāracaritavarṇana_SNNe nāma_nāma_ paṃcaviṃśa"
+  }
+]

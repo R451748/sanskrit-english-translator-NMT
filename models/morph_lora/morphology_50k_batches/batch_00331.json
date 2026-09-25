@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2640,
+    "sanskrit": "uktaḥ ca jātaḥ martyeṣu punar lokān avāpsyasi",
+    "english": "But thou shall again and again attain to these regions.",
+    "morphology": "uktaḥ_vac_SNPaPsM ca_ca_U jātaḥ_jan_SNPaPsM martyeṣu_martya_PLM punar_punar_U lokān_loka_PAM avāpsyasi_avāp_SFu2In"
+  },
+  {
+    "index": 2641,
+    "sanskrit": "śara vṛṣṭim tu tām muktām sūtaputreṇa bhārata vyadhamat śara varṣeṇa smayan iva dhanaṃjayaḥ",
+    "english": "Dhananjaya then, O Bharata, smiling the while, baffled with his own shafts, that arrowy shower shot by the Suta's son.",
+    "morphology": "śara_śara_MCp vṛṣṭim_vṛṣṭi_SAF tu_tu_U tām_tad_SAF muktām_muc_SAPaPsF sūtaputreṇa_sūtaputra_SIM bhārata_bhārata_SVM vyadhamat_vidham_SPs3In śara_śara_MCp varṣeṇa_varṣa_SIM smayan_smi_SNPaPrM iva_iva_U dhanaṃjayaḥ_dhanaṃj"
+  },
+  {
+    "index": 2642,
+    "sanskrit": "akrandad ity anv āha rakṣasām apahatyai |",
+    "english": "'He hath cried', he repeats, to smite away the Raksases.",
+    "morphology": "akrandat_krand_S3ImIn iti_iti_ anu_anu_ āha_ah_SPs3In rakṣasām_rakṣas_PGNe apahatyai_apahati_SDF"
+  },
+  {
+    "index": 2643,
+    "sanskrit": "sa parjanyaḥ /",
+    "english": "it is Parjanya;",
+    "morphology": "sa_tad_SNM parjanyaḥ_parjanya_SNM"
+  },
+  {
+    "index": 2644,
+    "sanskrit": "athopaviśya mṛduni navapallavaviṣṭare / kṣaṇamālokitāstena diśaḥ kautukacañcalam //",
+    "english": "From this his leafy and easy couch of repose, he cast his curious eyes to view the wonders of nature on all sides.",
+    "morphology": "athā_atha_ upaviśya_upaviś_Co mṛduni_mṛdu_SLNe nava_nava_Cp pallava_pallava_Cp viṣṭare_viṣṭara_SLNe  / kṣaṇam_kṣaṇa_SAM ālokitāḥ_ālokay_PNPaF tena_tad_SIM diśaḥ_diś_PNF kautuka_kautuka_Cp cañcalam_cañcala_SANe  /"
+  },
+  {
+    "index": 2645,
+    "sanskrit": "teṣāṃ jñānāgninā dāha iti śraddhāvijṛmbhitam //",
+    "english": "We learn it from our experience. Hence a doubt arises in our mind.",
+    "morphology": "teṣām_tad_PGM jñāna_jñāna_Cp agninā_agni_SIM dāhaḥ_dāha_SNM iti_iti_ śraddhā_śraddhā_Cp vijṛmbhitam_vijṛmbh_SNPaNe  /"
+  },
+  {
+    "index": 2646,
+    "sanskrit": "parjanyaḥ prathamo devo dvitīyaś ca karagrahaḥ /",
+    "english": "Parjanya is the first god. The second one is Karagraha.",
+    "morphology": "parjanyaḥ_parjanya_SNM prathamaḥ_prathama_SNM devaḥ_deva_SNM dvitīyaḥ_dvitīya_SNM ca_ca_ karagrahaḥ_karagraha_SNM  /"
+  },
+  {
+    "index": 2647,
+    "sanskrit": "tarpaṇa arhāḥ na ye proktāḥ sneha pāna akṣamāḥ ca ye",
+    "english": "The Puta-paka is not applicable in cases where Nasya (errhines), Tarpana and the internal application of Sneha (Sneha-pana) are forbidden.",
+    "morphology": "tarpaṇa_tarpaṇa_NeCp arhāḥ_arha_PNM na_na_U ye_yad_PNM proktāḥ_pravac_PNPaPsM sneha_sneha_MCp pāna_pāna_NeCp akṣamāḥ_akṣama_PNM"
+  }
+]

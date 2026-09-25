@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48112,
+    "sanskrit": "te ca enam bhṛśa saṃkruddhāḥ śara vrātaiḥ avākiran",
+    "english": "Scorched with the arrowy showers of Karna, those five brothers covered Karna with their arrows.",
+    "morphology": "te_tad_PNM ca_ca_U enam_enad_SAM bhṛśa_bhṛśa_Cp saṃkruddhāḥ_saṃkrudh_PNPaPsM śara_śara_MCp vrātaiḥ_vrāta_PIM avākiran_avakṛ_PPs3In"
+  },
+  {
+    "index": 48113,
+    "sanskrit": "tasya taṃ vīkṣamāṇasya saṃjātāḥ pāvakārciṣaḥ | tābhiḥ sa dhanuṣā yukto bhasmasātsamapadyata || 17 ||",
+    "english": "17. Even as he looked at (that Kāma) sparks of fire rose up and he was reduced to ash along with his bow.",
+    "morphology": "tasya_tad_SGM tam_tad_SAM vīkṣamāṇasya_vīkṣ_SGPaPrM saṃjātāḥ_saṃjan_PNPaF pāvaka_pāvaka_Cp arciṣaḥ_arcis_PNF  / tābhiḥ_tad_PIF sa_tad_SNM dhanuṣā_dhanus_SINe yuktaḥ_yuj_SNPaM bhasmasāt_bhasmasāt_ samapadyata_sampad_S3ImIn  "
+  },
+  {
+    "index": 48114,
+    "sanskrit": "naivasaṃjñānāsaṃjñāyatanopagāḥ śāriputre“ti /",
+    "english": "The School explains, “Beings in Rūpadhātu and the first three stages of Ārūpyadhātu can destroy their existence ‘by themselves,'” that is, by a course of action within their own realm, and ‘by others,' namely by a course of action belonging to the preliminary stages of a higher stage.",
+    "morphology": "na_na_ eva_eva_ saṃjñā_saṃjñā_Cp na_na_ asaṃjñā_asaṃjñā_Cp āyatana_āyatana_Cp upagāḥ_upaga_PNM śāriputra_śāriputra_SVM iti_iti_"
+  },
+  {
+    "index": 48115,
+    "sanskrit": "siddhāntacchelavad ubhayaṃ vā yugapad eva pratipādyate iti tantreṇa āvṛttyā vā tadupapādane na kaścid doṣa iti //",
+    "english": "In order to do it if the device of tantra (serving many purposes be one and the same thing) or the device of avṛtti (the repetition of something) is adopted then it suffers from no defect.",
+    "morphology": "ubhayam_ubhaya_SNNe vā_vā_ yugapad_yugapad_ eva_eva_ pratipādyate_pratipāday_SPr3InPv iti_iti_ tantreṇa_tantra_SINe āvṛttyā_āvṛtti_SIF vā_vā_ tad_tad_Cp upapādane_upapādana_SLNe na_na_ kaścid_kaścit_SNM doṣaḥ_doṣa_SNM iti_iti_  /"
+  },
+  {
+    "index": 48116,
+    "sanskrit": "sāgara ūrmiḥ iva uddhūtaḥ tiryak ūrdhvam avartata vasudhām dārayitvā ca punar apsu nyamajjata",
+    "english": "Tearing through the earth and rising on the surface, he dived again into the waters.",
+    "morphology": "sāgara_sāgara_MCp ūrmiḥ_ūrmi_SNM iva_iva_U uddhūtaḥ_uddhū_SNPaPsM tiryak_tiryañc_SANe ūrdhvam_ūrdhvam_U avartata_vṛt_SPs3In vasudhām_vasudhā_SAF dārayitvā_dāray_Co ca_ca_U punar_punar_U apsu_ap_PLF nyamajjata_nimajj_SPs3In"
+  },
+  {
+    "index": 48117,
+    "sanskrit": "vasiṣṭho'pi 'guṇā: śamādayo jñānācchamādibhyastathā jñatā / parasparaṃ vivardhete dve padmasarasī iva //'",
+    "english": "Vasistha also says: ‘The virtues as self-restraint etc. prosper on knowledge and knowledge thrives on the virtues, even as the lake and the lotus thrive on each other .",
+    "morphology": "vasiṣṭhaḥ_vasiṣṭha_SNM api_api_ 'guṇāḥ_guṇa_PNM śama_śama_Cp ādayaḥ_ādi_PNM jñānāt_jñāna_SBNe śama_śama_Cp ādibhyaḥ_ādi_PBM tathā_tathā_ jña_jña_Cp tā_tā_SNF  / parasparam_paraspara_SAM vivardhete_vivṛdh_DuPr3In dv"
+  },
+  {
+    "index": 48118,
+    "sanskrit": "diśām ca pradiśām ca ūrdhvā diś jātā prathamam tathā",
+    "english": "Of all the cardinal and subsidiary points of the horizon, the eastern is said to be the foremost and first-born.",
+    "morphology": "diśām_diś_PGF ca_ca_U pradiśām_pradiś_PGF ca_ca_U ūrdhvā_ūrdhva_SNF diś_diś_SNF jātā_jan_SNPaPsF prathamam_prathamam_U"
+  },
+  {
+    "index": 48119,
+    "sanskrit": "śatṛṅ śānacau bhavan edhamāno bhavantyapi /",
+    "english": "Śatṛṅ present participle in the Parasmaipada and śānac present participle in the Ātmanepada are bhavan becoming and edhamāna being prosperous.",
+    "morphology": "śatṛṅ_śatṛṅ_SNM śānacau_śānac_DuNM bhavan_bhū_SNPaPrM edhamānaḥ_edh_SNPaPrM bhavanti_bhū_PPr3In api_api_"
+  }
+]

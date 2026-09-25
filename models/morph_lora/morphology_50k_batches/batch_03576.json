@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28600,
+    "sanskrit": "hṛṣyet mayūraḥ udvignaḥ krośataḥ śuka sārike",
+    "english": "A peacock moves about and becomes sprightly, and a Shuka and a Sarika scream (in fear).",
+    "morphology": "hṛṣyet_hṛṣ_SPr3O mayūraḥ_mayūra_SNM udvignaḥ_udvij_SNPaPsM krośataḥ_kruś_SGPaPrM"
+  },
+  {
+    "index": 28601,
+    "sanskrit": "sa ucriyati /",
+    "english": "He thengrasps the girding-part all round, and says (to the Hotri), 'Recite to the (stake) being set up!'",
+    "morphology": "saḥ_tad_SNM"
+  },
+  {
+    "index": 28602,
+    "sanskrit": "tatra caṇḍī mahāmuṇḍā bhaktavighnopaśāṃtidā | balipūjopahārādyaiḥ pūjyā svābhīṣṭasiddhaye || 15 ||",
+    "english": "15. There Goddess Caṇḍī with a huge head destroys great obstacles of the devotees. For the achievement of one’s cherished desires, she should be worshipped with the requisite offerings of adoration, oblations etc.",
+    "morphology": "tatra_tatra_ caṇḍī_caṇḍī_SNF mahā_mahat_Cp muṇḍā_muṇḍa_SNF bhakta_bhakta_Cp vighna_vighna_Cp upaśāṃti_upaśam_Cp dā_da_SNF  / bali_bali_Cp pūjā_pūjā_Cp upahāra_upahāra_Cp ādyaiḥ_ādya_PIM pūjyā_pūjay_SNFGd sva_sva_Cp ab"
+  },
+  {
+    "index": 28603,
+    "sanskrit": "hetutadvattayā dāḍharyābhimāno mocako hyaṇoḥ | nādhyātmena vinā bāhyaṃ nādhyātmaṃ bāhyavarjitam |",
+    "english": "b-a The outer reality cannot be possible without the inner and conversely the inner cannot be sustained without the outer.",
+    "morphology": "hetu_hetu_Cp tadvat_tadvat_Cp tayā_tā_SIF dāḍharya_dāḍharya_Cp abhimānaḥ_abhimāna_SNM mocakaḥ_mocaka_SNM hi_hi_ aṇoḥ_aṇu_SGM  / na_na_ adhyātmena_adhyātma_SINe vinā_vinā_ bāhyam_bāhya_SNNe na_na_ adhyātmam_adhyātma_SNNe bāhya_b"
+  },
+  {
+    "index": 28604,
+    "sanskrit": "na glāniḥ āsīt karṇasya kṣipataḥ sāyakān bahūn raṇe vinighnataḥ śatrūn kruddhasya iva śatakratoḥ",
+    "english": "Although many were the arrows that he shot while slaying his foes in that battle, like Indra himself inspired with wrath, Karna yet felt no fatigue.",
+    "morphology": "na_na_U glāniḥ_glāni_SNF āsīt_as_SPs3In karṇasya_karṇa_SGM kṣipataḥ_kṣip_SGPaPrM sāyakān_sāyaka_PAM bahūn_bahu_PAM raṇe_raṇa_SLM vinighnataḥ_vinihan_SGPaPrM śatrūn_śatru_PAM kruddhasya_krudh_SGPaPsM"
+  },
+  {
+    "index": 28605,
+    "sanskrit": "yatnaḥ hi satatam kāryaḥ kṛtaḥ daivena sidhyati",
+    "english": "(It seems however, that their affection is not strong)! One should always exert oneself. Thence does one succeed through destiny.",
+    "morphology": "yatnaḥ_yatna_SNM hi_hi_U satatam_satatam_U kāryaḥ_kṛ_SNMGd"
+  },
+  {
+    "index": 28606,
+    "sanskrit": "aśoka vanikā abhyāśe gṛham kṛtvā nyaveśayat vṛtām dāsī sahasreṇa śarmiṣṭhām āsurāyaṇīm vāsobhiḥ anna pānaiḥ ca saṃvibhajya su satkṛtām",
+    "english": "And the king surrounded Vrishaparvan's daughter Sarmishtha with a thousand maids and honoured her by making every arrangement for her food and garments.",
+    "morphology": "aśoka_aśoka_MCp vanikā_vanikā_FCp abhyāśe_abhyāśa_SLM gṛham_gṛha_SANe kṛtvā_kṛ_Co nyaveśayat_niveśay_SPs3In vṛtām_vṛ_SAPaPsF dāsī_dāsī_FCp sahasreṇa_sahasra_SINe śarmiṣṭhām_śarmiṣṭhā_SAF āsurāyaṇīm_āsurāya"
+  },
+  {
+    "index": 28607,
+    "sanskrit": "puṣpakarpūradhūpāḍhyaṃ gandhāmoditaparvatam / sarvamaṇḍalasaṃbhāraracitānekaśāsanam //",
+    "english": "The air was perfumed by the fragrance of flowers, camphor and heaps of frankincense; and the royal hall was filled with presents sent from different provinces.",
+    "morphology": "puṣpa_puṣpa_Cp karpūra_karpūra_Cp dhūpa_dhūpa_Cp āḍhyam_āḍhya_SAM gandha_gandha_Cp āmodita_āmoday_PaCp parvatam_parvata_SAM  / sarva_sarva_Cp maṇḍala_maṇḍala_Cp saṃbhāra_sambhāra_Cp racita_racay_PaCp aneka_aneka_Cp śāsanam_ś"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5352,
+    "sanskrit": "etat samṛddham api ūrdhvam tapaḥ bhavati kevalam",
+    "english": "They that have fallen off from patience (and are incapable, therefore, of attaining to Knowledge) acquire such asceticism in consequence of the purpose they entertain, viz., the attainment of bliss in the high regions hereafter.",
+    "morphology": "etat_etad_SNNe samṛddham_samṛdh_SNPaPsNe api_api_U ūrdhvam_ūrdhvam_U tapaḥ_tapas_SNNe"
+  },
+  {
+    "index": 5353,
+    "sanskrit": "kevalāruṇavācitvaṃ liṅgādyadyapi gamyate / tathāpyagatito vākyāta taṇāvṛttirāśritā",
+    "english": "being nothing to point to it, says Even though there is no genitive ending, yet the coextensiveness between aruṇā and ēkahāyanī is distinctly expressed by the fact of both words having the same caseending the Instru mental.",
+    "morphology": "kevala_kevala_Cp aruṇa_aruṇa_Cp vāci_vācin_Cp tvam_tva_SNNe liṅgāt_liṅga_SBNe yadi_yadi_ api_api_ gamyate_gam_SPr3InPv  / tathā_tathā_ api_api_ agatitaḥ_agati_SBF vākyāt_vākya_SBNe taṇa_taṇa_Cp āvṛttiḥ_āvṛtti_SNF āśritā_ā"
+  },
+  {
+    "index": 5354,
+    "sanskrit": "kusīdapatham āhus taṃ pañcakaṃ śatam arhati //",
+    "english": "They declare this to be the usurer\" s way. It is only five per cent to which the man is entitled.",
+    "morphology": "kusīda_kusīda_Cp patham_patha_SAM āhuḥ_ah_PPs3In tam_tad_SAM pañcakam_pañcaka_SANe śatam_śata_SANe arhati_arh_SPr3In  /"
+  },
+  {
+    "index": 5355,
+    "sanskrit": "bījaṃ bhavetsvayaṃ dṛśyaṃ cittādīndriyagocaram / yavadhānādidhānyāni yuktaḥ patrāṅkurodbhavaḥ //",
+    "english": "A seed is in itself a visible thing, and is more an object of sense than that of the mind; as the seeds of paddy and barley, are seen to sprout forth in their germs and leaves.",
+    "morphology": "bījam_bīja_SNNe bhavet_bhū_SPr3O svayam_svayam_ dṛśyam_dṛś_SNNeGd citta_citta_Cp ādi_ādi_Cp indriya_indriya_Cp gocaram_gocara_SNNe  / yava_yava_Cp dhānā_dhānā_Cp ādi_ādi_Cp dhānyāni_dhānya_PANe yuktaḥ_yuj_SNPaM pattra_pattra_Cp aṅku"
+  },
+  {
+    "index": 5356,
+    "sanskrit": "idaṃ cāpi na jñāyate kathaṃ vāṅnāmni pravarttata iti / kiṃ tāvadutpādayatyāhosvit prakāśayati / yadyutpāda yati /",
+    "english": "A word is either produced by the voice or revealed by the voice.",
+    "morphology": "idam_idam_SNNe ca_ca_ api_api_ na_na_ jñāyate_jñā_SPr3InPv katham_katham_ vāc_vāc_SNF nāmni_nāman_SLNe pravarttate_pravṛt_SPr3In iti_iti_  / kim_ka_SANe tāvat_tāvat_ utpādayati_utpāday_SPr3In āhosvit_āhosvit_ prakāśayati_prakāśay_SPr3In"
+  },
+  {
+    "index": 5357,
+    "sanskrit": "papraccha avasaram gatvā bhrātṝn vidura pañcamān dharme ca arthe ca kāme ca loka vṛttiḥ samāhitā",
+    "english": "The king addressing his brothers with Vidura forming the fifth, said, 'The course of the world rests upon Virtue, Wealth, and Desire.",
+    "morphology": "papraccha_pracch_SPs3In avasaram_avasara_SAM gatvā_gam_Co bhrātṝn_bhrātṛ_PAM vidura_vidura_SVM pañcamān_pañcama_PAM dharme_dharma_SLM ca_ca_U arthe_artha_SLM ca_ca_U kāme_kāma_SLM ca_ca_U loka_loka_MCp vṛttiḥ_vṛtti_SNF samāhitā_samādh"
+  },
+  {
+    "index": 5358,
+    "sanskrit": "tatra eva mātaliḥ tūrṇam nipatya pṛthivī tale ratham tam tu samāśliṣya prādravat ratha yoga vid",
+    "english": "And even there, eftsoons entering underneath the earth, Matali skilled in guiding the car, sitting fast on the chariot drove it with force;",
+    "morphology": "tatra_tatra_U eva_eva_U mātaliḥ_mātali_SNM tūrṇam_tūrṇam_U nipatya_nipat_Co pṛthivī_pṛthivī_FCp tale_tala_SLM ratham_ratha_SAM tam_tad_SAM tu_tu_U samāśliṣya_samāśliṣ_Co prādravat_pradru_SPs3In ratha_ratha_MCp yoga_yoga_MCp vid_vid"
+  },
+  {
+    "index": 5359,
+    "sanskrit": "bibheda āśu tadā rājan tat adbhutam iva abhavat",
+    "english": "That feat of his, O king, seemed highly wonderful.",
+    "morphology": "bibheda_bhid_SPs3In āśu_āśu_U tadā_tadā_U rājan_rājan_SVM tat_tad_SNNe adbhutam_adbhuta_SNNe iva_iva_U abhavā"
+  }
+]

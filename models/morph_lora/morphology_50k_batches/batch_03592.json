@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28728,
+    "sanskrit": "kalpeṣu vedāśca punaḥpunarāvartakāḥ smṛtāḥ | maṃtrāścaiva tathā devi muktvā tu śatarudriyam || 41 ||",
+    "english": "41. O goddess, Smṛtis say that the Vedas and the Mantras are repeated in every Kalpa but Śatarudriya is not.",
+    "morphology": "kalpeṣu_kalpa_PLM vedāḥ_veda_PNM ca_ca_ punar_punar_ punar_punar_ āvartakāḥ_āvartaka_PNM smṛtāḥ_smṛ_PNPaM  / maṃtrāḥ_mantra_PNM ca_ca_ eva_eva_ tathā_tathā_ devi_devī_SVF muktvā_muc_Co tu_tu_ śatarudriyam_śatarudriya_SANe "
+  },
+  {
+    "index": 28729,
+    "sanskrit": "tvadvidhenāpi siddhena dṛśyate māṃsacakṣuṣā //",
+    "english": "Such persons of consummate ascetic powers behold me with their own eyes.",
+    "morphology": "tvadvidhena_tvadvidha_SIM api_api_ siddhena_sidh_SIPaM dṛśyate_dṛś_SPr3InPv māṃsacakṣuṣā_māṃsacakṣus_SINe  /"
+  },
+  {
+    "index": 28730,
+    "sanskrit": "yathā nīladhiyaḥ svātmā dvitīyo vā yathoḍupaḥ /",
+    "english": "For example, the cognition of the blue, or the second moon;",
+    "morphology": "yathā_yathā_ nīladhiyaḥ_nīladhī_SGM sva_sva_Cp ātmā_ātman_SNM dvitīyaḥ_dvitīya_SNM vā_vā_ yathā_yathā_ uḍupaḥ_uḍupa_SNM"
+  },
+  {
+    "index": 28731,
+    "sanskrit": "pakṣeṇānena bhagavanbhavatā janmakarmaṇoḥ / tiraskṛtā jagajjātā sā'vinābhāvitaitayoḥ //",
+    "english": "On one hand you have set at naught the law of antecedence and sequence of birth and action to one another, by your position of their simultaneity.",
+    "morphology": "pakṣeṇa_pakṣa_SIM anena_idam_SIM bhagavan_bhagavat_SVM bhavatā_bhavat_SIM janma_janman_Cp karmaṇoḥ_karman_DuGNe  / tiraskṛtā_tiraskṛ_SNPaF jagat_jagant_SNNe jātā_jan_SNPaF sā_tad_SNF avinābhāvitā_avinābhāvita_SNF etayoḥ_etad_DuGNe"
+  },
+  {
+    "index": 28732,
+    "sanskrit": "tatas te tam mahātmānam śuddha ātmānam akalmaṣam dadṛśuḥ pāṇḍavāḥ rājan pathi dvaipāyanam tadā",
+    "english": "And on their way those heroes beheld the illustrious Dwaipayana--that Muni of pure soul, and perfectly sinless.",
+    "morphology": "tatas_tatas_U te_tad_PNM tam_tad_SAM mahātmānam_mahātman_SAM śuddha_śudh_PaPsCp ātmānam_ātman_SAM akalmaṣam_akalmaṣa_SAM dadṛśuḥ_dṛś_PPs3In pāṇḍavāḥ_pāṇḍava_PNM rājan_rājan_SVM pathini_pathin_SLM dvaipāyanam_dvaipāyana_"
+  },
+  {
+    "index": 28733,
+    "sanskrit": "vīkṣamāṇe 'nvagāyāte tīrasthe siṃhavikrame / madhyenadi ca sā cakre pariskhalitamātmanaḥ //",
+    "english": "And while Siṃhavikrama, who had followed her, was looking at her from the bank, she slipped in the middle of the river.",
+    "morphology": "vīkṣamāṇe_vīkṣ_SLPaPrM tīra_tīra_Cp sthe_stha_SLM siṃha_siṃha_Cp vikrame_vikrama_SLM  / madhyenadi_madhyenadī_SVF ca_ca_ sā_tad_SNF cakre_kṛ_SPs3In pariskhalitam_pariskhal_SAPaNe ātmanaḥ_ātman_SGM  /"
+  },
+  {
+    "index": 28734,
+    "sanskrit": "tataḥ stokena kālena tasya putracatuṣṭayam | saṃjātaṃ loke vikhyātaṃ kalatratritayasya ca || 18 ||",
+    "english": "18. Within a short time thereafter, he begot of his three wives four sons who became well-known in the world.",
+    "morphology": "tatas_tatas_ stokena_stoka_SIM kālena_kāla_SIM tasya_tad_SGM putra_putra_Cp catuṣṭayam_catuṣṭaya_SNNe  / saṃjātam_saṃjan_SNPaNe loke_loka_SLM vikhyātam_vikhyā_SNPaNe kalatra_kalatra_Cp tritayasya_tritaya_SGNe ca_ca_"
+  },
+  {
+    "index": 28735,
+    "sanskrit": "sarvaṃ kāyasucaritaṃ kāyaśaucam / sarvaṃ vāṅmanaḥ sucaritaṃ vāṅmanaḥ śaucam / duścaritamalāpakarṣaṇāttāvatkālamatyantaṃ vā /",
+    "english": "All the good practices of the body, pure or impure, are a purification of the body, because, either for a time or in a definitive manner, they.",
+    "morphology": "sarvam_sarva_SNNe kāya_kāya_Cp su_su_ caritam_carita_SNNe kāya_kāya_Cp śaucam_śauca_SNNe  / sarvam_sarva_SNNe vāc_vāc_Cp manaḥ_manas_SNNe su_su_ caritam_carita_SNNe vāc_vāc_Cp manaḥ_manas_Cp śaucam_śauca_SNNe  / duścarita_duścarita_Cp mal"
+  }
+]

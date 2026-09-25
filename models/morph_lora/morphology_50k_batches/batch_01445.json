@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11552,
+    "sanskrit": "tvaṃ soma tanūkṛdbhyo dveṣobhyo 'nyakṛtebhya uru yantāsi varūthaṃ svāhā juṣāṇo aptur ājyasya vetu svāhā |",
+    "english": "Thou, O Soma, art the giver of wide protection from hostility, brought about by ourselves or by others; hail! May the active one gladly partake of the ghee.",
+    "morphology": "tvam_tvad_SN soma_soma_SVM tanū_tanū_Cp kṛdbhyaḥ_kṛt_PBNe dveṣobhyaḥ_dveṣas_PBNe anya_anya_Cp kṛtebhyaḥ_kṛ_PBPaNe uru_uru_SANe yantāsi_yam_SFu2InPe varūtham_varūtha_SANe svāhā_svāhā_ juṣāṇaḥ_juṣ_SNPaPsM aptur_aptur_SNM "
+  },
+  {
+    "index": 11553,
+    "sanskrit": "dattam avyavahāryam ekatraanuśaye varteta //",
+    "english": "Invalid gifts shall be kept in the safe custody of some persons",
+    "morphology": "dattam_dā_SNPaNe avyavahāryam_avyavahārya_SNNe ekatra_ekatra_ anuśaye_anuśaya_SLM"
+  },
+  {
+    "index": 11554,
+    "sanskrit": "śatam śatam tulāyām tu sahasram daśa taulike",
+    "english": "Each Tula weight of this medicine, taken successively, adds a century to the duration of human life, while ten Tula measures extend it to a thousand years.",
+    "morphology": "śatam_śata_SNNe śatam_śata_SNNe tulāyām_tulā_SLF tu_tu_U"
+  },
+  {
+    "index": 11555,
+    "sanskrit": "sadojire ca boddhāro yoddhāraścaraṇājire | na yasya śāstrairvijitā na śastraiḥ kenacitkvacit || 23 ||",
+    "english": "23. In his assemblies the scholarly propounders were not conquered by anyone at any place in scriptural lores. In his battlefield the warriors were not conquered by anyone at any place by means of weapons.",
+    "morphology": "sadā_sadā_ ujire_ujira_SLNe ca_ca_ boddhāraḥ_boddhṛ_PNM yoddhāraḥ_yoddhṛ_PNM caraṇa_caraṇa_Cp ajire_ajira_SLNe  / na_na_ yasya_yad_SGM śāstraiḥ_śāstra_PINe vijitāḥ_viji_PNPaM na_na_ śastraiḥ_śastra_PINe kenacid_kaścit_SIM kvac"
+  },
+  {
+    "index": 11556,
+    "sanskrit": "kārpaṇyātsa prayatnena sarvaṃ tṛṇatuṣādikam / kapardakārthamabhito dudhāva divasatrayam //",
+    "english": "He ran on every side, and beat at the bush for three days to find out his lost couri, and impelled by his niggardliness to leave no fallen leaf unturned over the ground.",
+    "morphology": "kārpaṇyāt_kārpaṇya_SBNe sa_tad_SNM prayatnena_prayatna_SIM sarvam_sarva_SANe tṛṇa_tṛṇa_Cp tuṣa_tuṣa_Cp ādikam_ādika_SANe  / kapardaka_kapardaka_Cp artham_artha_SAM abhitas_abhitas_ dudhāva_dhū_SPs3In divasa_divasa_Cp trayam_traya_SAN"
+  },
+  {
+    "index": 11557,
+    "sanskrit": "aśrāvaṇaṃ yathā rūpaṃ vidyuddvāyatnajā yathā //",
+    "english": "as for example, colour is spoken of as ‘inaudible’, or lightning is spoken of as ‘not produced by effort’.",
+    "morphology": "a_a_ śrāvaṇam_śru_SNNeGd yathā_yathā_ rūpam_rūpa_SNNe vidyut_vidyut_SNF dvār_dvār_Cp yatna_yatna_Cp jā_ja_SNF yathā_yathā_  /"
+  },
+  {
+    "index": 11558,
+    "sanskrit": "namaḥ kamalanetrāya kṣīrābdhiśayanāya te | duṣṭarākṣasasaṃhartre śrīnivāsāya te namaḥ || 15 ||",
+    "english": "15. Obeisance to the Lord with lotus-like eyes. Obeisance to you lying on the Milk Ocean. Hail to you, Śrīnivāsa, the slayer of wicked Rākṣasas.",
+    "morphology": "namaḥ_namas_SNNe kamala_kamala_Cp netrāya_netra_SDM kṣīrābdhi_kṣīrābdhi_Cp śayanāya_śayana_SDM te_tvad_SD  / duṣṭa_duṣ_PaCp rākṣasa_rākṣasa_Cp saṃhartre_saṃhartṛ_SDM śrīnivāsāya_śrīnivāsa_SDM te_tvad_SD namaḥ_namas_"
+  },
+  {
+    "index": 11559,
+    "sanskrit": "loketivelamativelamahāmahobhirnirmāsi kaumudamudaṃ ca samutsamudram | vidrāvitākhilatamāḥ sutamohimāṃśo pīyūṣapūraparipūrita tannamaste || 2 ||",
+    "english": "102. (Śiva-as the Moon-god praised) In this world, every moment, with your great lustre extending beyond the billowy shore, you increase the pleasure of the night-blooming lilies and the seas. You have routed the entire host of darkness and are excessively splendid. O Moon with cool rays, filled with the flood of nectar, obeisance to you.",
+    "morphology": "loka_loka_Cp itivelam_itivela_SAM ativela_ativela_Cp mahā_mahat_Cp mahobhiḥ_mahas_PIM nirmāsi_nirmā_SPr2In kaumudam_kaumuda_SAM udam_uda_SAM ca_ca_ samud_samud_ samudram_samudra_SAM  / vidrāvita_vidrāvay_PaCp akhila_akhila_Cp tamāḥ_tamas_SNM su_s"
+  }
+]

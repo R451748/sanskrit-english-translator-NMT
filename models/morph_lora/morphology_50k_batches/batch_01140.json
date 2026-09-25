@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9112,
+    "sanskrit": "yajñasya paramā yoniḥ patiḥ ca ayam paraḥ smṛtaḥ",
+    "english": "Thou art the highest cause, whence Sacrifice has flowed.",
+    "morphology": "yajñasya_yajña_SGM paramā_parama_SNF yoniḥ_yoni_SNF patiḥ_pati_SNM ca_ca_U ayam_idam_SNM paraḥ_para_SNM"
+  },
+  {
+    "index": 9113,
+    "sanskrit": "jālasthārkamarīcigataṃ rajaḥ trasareṇusaṃjñakam //",
+    "english": "The (very small mote of) dust which may be discerned in a sun-beam passing through a lattice is called trasarenu (trembling dust).",
+    "morphology": "__jāla_U __stha_U __arka_U __marīci_U __gam_PaU __rajas_U __trasareṇu_U __saṃjñaka_U  /"
+  },
+  {
+    "index": 9114,
+    "sanskrit": "athājñānaṃ na hyabhāvo mithyājñānaṃ tu tanmatam | tadeva karmaṇāṃ svasminkartavye sahakāraṇam |",
+    "english": "On the other hand, if ignorance were to be admitted as false knowledge instead of absence of knowledge, then it turns into the co-cause of all actions one has to accomplish.",
+    "morphology": "atha_atha_ ajñānam_ajñāna_SNNe na_na_ hi_hi_ abhāvaḥ_abhāva_SNM mithyājñānam_mithyājñāna_SNNe tu_tu_ tat_tad_SNNe matam_man_SNPaNe  / tat_tad_SNNe eva_eva_ karmaṇām_karman_PGNe svasmin_sva_SLNe kartavye_kartavya_SLNe sahakāraṇam_sahakā"
+  },
+  {
+    "index": 9115,
+    "sanskrit": "kaḥ hi anyaḥ puruṣa vyāghra mahābhārata kṛt bhavet dharmān nānāvidhān ca eva kaḥ brūyāt tam ṛte prabhum",
+    "english": "Who else than he, O tiger among kings, could compile such a treatise as the Mahabharata? Who else than that puissant Rishi could discourse upon the diverse kinds of duties and cults for the observance and adoption of men? Thou hast resolved upon performing a great sacrifice.",
+    "morphology": "kaḥ_ka_SNM hi_hi_U anyaḥ_anya_SNM puruṣa_puruṣa_MCp vyāghra_vyāghra_SVM mahābhārata_mahābhārata_NeCp kṛt_kṛt_SNM bhavet_bhū_SPr3O dharmān_dharma_PAM nānāvidhān_nānāvidha_PAM ca_ca_U eva_eva_U kaḥ_ka_SNM brūyāt_brū_SPr3O tam_ta"
+  },
+  {
+    "index": 9116,
+    "sanskrit": "sudhanvanas tu dāyādaḥ suhotro matimān smṛtaḥ / cyavanas tasya putras tu rājā dharmārthakovidaḥ //",
+    "english": "Sudhanwa's son was the intelligent Suhotra. His son was Chyavana who was well read in the Vedas and other scriptures. Chyavana's son was Krityajna.",
+    "morphology": "sudhanvanaḥ_sudhanvan_SGM tu_tu_ dāyādaḥ_dāyāda_SNM suhotraḥ_suhotra_SNM matimān_matimat_SNM smṛtaḥ_smṛ_SNPaM  / cyavanaḥ_cyavana_SNM tasya_tad_SGM putraḥ_putra_SNM tu_tu_ rājā_rājan_SNM dharma_dharma_Cp artha_artha_Cp kovidaḥ_kov"
+  },
+  {
+    "index": 9117,
+    "sanskrit": "pra somāsaḥ vipaḥ citaḥ apām na yanti ūrmayaḥ vanāni mahiṣāḥ iva",
+    "english": "LIKE waves of waters, skilled in song the juices of the Soma speed Onward, as buffaloes to woods.",
+    "morphology": "pra_pra_U somāsaḥ_soma_PNM vipaḥ_vip_PNF citaḥ_cit_PNF apām_ap_PGF na_na_U yanti_i_PPr3In ūrmayaḥ_ūrmi_PNM vanāni_vana_PANe mahiṣāḥ_mahiṣa_PNM iva_iva_U"
+  },
+  {
+    "index": 9118,
+    "sanskrit": "manobhiḥ te manuṣya indra pūrvam yodhāḥ parasparam yuddhāya samavartanta samāhūya itaretaram tatas pravavṛte yuddham ghora rūpam bhaya āvaham",
+    "english": "Then O ruler of men, the warriors, first challenging each other by name, engaged with each other.[428] Then commenced a fierce and terrible battle between thy troops and those of the foe striking one another.",
+    "morphology": "manobhiḥ_manas_PINe te_tad_PNM manuṣya_manuṣya_MCp indra_indra_SVM pūrvam_pūrvam_U yodhāḥ_yodha_PNM parasparam_paraspara_SAM yuddhāya_yuddha_SDNe samavartanta_saṃvṛt_PPs3In samāhūya_samāhvā_Co itaretaram_itaretara_SAM tatas_tatas_U prav"
+  },
+  {
+    "index": 9119,
+    "sanskrit": "ahaṃ vā vāsudevo vā sthāṇurvā puruṣottamaḥ | bhaviṣyāmastava vaśe kimanye prāṇadhārakāḥ ||",
+    "english": "39. O best of beings, not to speak of ordinary living beings even I Brahmā, Vāsudeva and Śiva will be in your control.",
+    "morphology": "aham_mad_SN vā_vā_ vāsudevaḥ_vāsudeva_SNM vā_vā_ sthāṇuḥ_sthāṇu_SNM vā_vā_ puruṣottamaḥ_puruṣottama_SNM  / bhaviṣyāmaḥ_bhū_PFu1In tava_tvad_SG vaśe_vaśa_SLM kim_ka_SANe anye_anya_PNM prāṇa_prāṇa_Cp dhārakāḥ_dhārak"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42240,
+    "sanskrit": "dhīranabhyastasaṅgā hi rāmādīnāmivānagha / ghanamohanimagnāpi vimūḍhāpi na muhyati //",
+    "english": "Know, O thou sinless one, that the learned and the meek, that do not mix with the society of worldly men, but remain steady as Rama and others in their right principles, are never liable to be deluded although they are beset by temptations on all sides.",
+    "morphology": "dhīḥ_dhī_SNF an_an_ abhyasta_abhyas_PaCp saṅgā_saṅga_SNF hi_hi_ rāma_rāma_Cp ādīnām_ādi_PGM iva_iva_ anagha_anagha_SVM  / ghana_ghana_Cp moha_moha_Cp nimagnā_nimajj_SNPaF api_api_ vimūḍhā_vimuh_SNPaF api_api_ na_na_ muhyati_muh_SPr3In  "
+  },
+  {
+    "index": 42241,
+    "sanskrit": "yato bādhātmakasyaiva buddhaḥ prāptā pramāṇatā / yathārthajñānahetūtthaguṇajñānād apodyate //",
+    "english": "Because it is in the nature of apprehension that cognition is regarded as invalid, and it is discarded only by the knowledge that it is right, in accordance with the reality of things, and by the cognition of the excellence of its sources;",
+    "morphology": "yatas_yatas_ bādhā_bādhā_Cp ātmakasya_ātmaka_SGM eva_eva_ buddhaḥ_budh_SNPaM prāptā_prāp_SNPaF pramāṇa_pramāṇa_Cp tā_tā_SNF  / yathārtha_yathārtha_Cp jñāna_jñāna_Cp hetu_hetu_Cp uttha_uttha_Cp guṇa_guṇa_Cp jñānāt_jñāna_SBN"
+  },
+  {
+    "index": 42242,
+    "sanskrit": "aniṣpannaṃ cedaṃ yaduta śābdikīyaṃ kartṛkriyāvyavasthānaṃ bhavatītyeṣa karttā bhūtirityeṣā kriyā /",
+    "english": "Yet the theory of the Grammarians and the manner in which they oppose an agent and action, is not tenable. For them there is an agent which is \"he who arises\", and an action which here is the action of arising.",
+    "morphology": "aniṣpannam_aniṣpanna_SNNe ca_ca_ idam_idam_SNNe yat_yad_SNNe uta_uta_ śābdikīyam_śābdika_SNNe kartṛ_kartṛ_Cp kriyā_kriyā_Cp vyavasthānam_vyavasthāna_SNNe bhavati_bhū_SPr3In iti_iti_ eṣa_etad_SNM karttā_kartṛ_SNM bhūtiḥ_bhūti_SNF "
+  },
+  {
+    "index": 42243,
+    "sanskrit": "na yonisaṃkaraścāsīttatra nācārasaṃkaraḥ | na vaṃdhyā durbhagā nārī kākavaṃdhyā mṛta prajā || 95 ||",
+    "english": "95. There was no mixture of castes and no transgression of duties. There was no barren or wretched woman; no woman had only a single child or had her child dead.",
+    "morphology": "na_na_ yoni_yoni_Cp saṃkaraḥ_saṃkara_SNM ca_ca_ āsīt_as_S3ImIn tatra_tatra_ na_na_ ācāra_ācāra_Cp saṃkaraḥ_saṃkara_SNM  / na_na_ vaṃdhyā_vaṃdhyā_SNF durbhagā_durbhaga_SNF nārī_nārī_SNF kāka_kāka_Cp vaṃdhyā_vaṃdhyā_SNF m"
+  },
+  {
+    "index": 42244,
+    "sanskrit": "ardhaguṇahīnaḥ śāsanaharaḥ //",
+    "english": "Whoever possesses the same qualifications less by onehalf is a conveyer of royal writs sásanaharah",
+    "morphology": "ardha_ardha_Cp guṇa_guṇa_Cp hīnaḥ_hā_SNPaM śāsana_śāsana_Cp haraḥ_hara_SNM  /"
+  },
+  {
+    "index": 42245,
+    "sanskrit": "kāmarūpārūpyāvacarāṇāṃ kāmarūpārūpyāvacarī yathākramam /",
+    "english": "The prāpii of a dharma in Kāmadhātu is, itself, in Kāmadhātu; and thus following.",
+    "morphology": "kāmarūpa_kāmarūpa_Cp ārūpya_ārūpya_Cp avacarāṇām_avacara_PGM kāmarūpa_kāmarūpa_Cp ārūpya_ārūpya_Cp avacarī_avacara_SNF yathākramam_yathākramam_  /"
+  },
+  {
+    "index": 42246,
+    "sanskrit": "jvalitāḥ ca mahā ulkāḥ vai samāhatya divākaram nipetuḥ sahasā bhūmau vedayānāḥ mahat bhayam mahānti anīkāni mahā samucchraye",
+    "english": "And blazing meteors, striking against the Sun's disc, fell with great celerity on the earth, foreboding great terrors.",
+    "morphology": "jvalitāḥ_jval_PNPaPsF ca_ca_U mahā_mahat_Cp ulkāḥ_ulkā_PNF vai_vai_U samāhatya_samāhan_Co divākaram_divākara_SAM nipetuḥ_nipat_PPs3In sahasā_sahas_SINe bhūmau_bhūmi_SLF vedayānāḥ_veday_PNPaPrF mahat_mahat_SANe bhayam_bhaya_SANe mahānt"
+  },
+  {
+    "index": 42247,
+    "sanskrit": "pāṇḍoḥ iti mayā putra tasmāt uddharṣaṇam kṛtam",
+    "english": "I instilled courage into your hearts, O my sons, in order that the race of Pandu, represented by my children, might not be lost.",
+    "morphology": "pāṇḍoḥ_pāṇḍu_SGM iti_iti_U mayā_mad_SI putra_putra_SVM tasmāt_tasmāt_U"
+  }
+]

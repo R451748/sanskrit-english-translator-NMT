@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44600,
+    "sanskrit": "śyenam abhicaran karoty abhicaryamāṇaś ca mriyate / athocyate kāmina evaitat phalam / śatrumaraṇaṃ hi yajamānaḥ kāmayate /",
+    "english": "The case in question is analogous to that of the Śyena sacrifice the Śyena is performed by a man seekiug to encompass death, and this death falls upon the person against whom the performance is aimed and not on the performer himself.",
+    "morphology": "śyenam_śyena_SAM abhicaran_abhicar_SNPaPrM karoti_kṛ_SPr3In abhicaryamāṇaḥ_abhicar_SNPaPrMPv ca_ca_ mriyate_mṛ_SPr3InPv  / atha_atha_ ucyate_vac_SPr3InPv kāminaḥ_kāmin_SGM eva_eva_ etat_etad_SNNe phalam_phala_SNNe  / śatru_śatru_Cp maraṇ"
+  },
+  {
+    "index": 44601,
+    "sanskrit": "taccopariṭānnirākariṣyāmaḥ",
+    "english": ". refute below.",
+    "morphology": "tat_tad_SANe ca_ca_ upariṭāt_upariṭāt_"
+  },
+  {
+    "index": 44602,
+    "sanskrit": "ārupyadhātvālambana eva / nahi maulānāmārupyāṇāmadharo dhāturālambanamiti paścāt prativedaviṣyāmaḥ / ete ca manopavicārāḥ",
+    "english": "As we shall see, the mind, in the principle absorption of Ārūpyadhātu, does not grasp lower Dhātus for its object.",
+    "morphology": "ārupya_ārupya_Cp dhātu_dhātu_Cp ālambanaḥ_ālambana_SNM eva_eva_  / nahi_nahi_ maulānām_maula_PGM ārupyāṇām_ārupya_PGM adharaḥ_adhara_SNM dhātuḥ_dhātu_SNM ālambanam_ālambana_SNNe iti_iti_ paścāt_paścāt_  / ete_etad_PNM ca_ca_ man"
+  },
+  {
+    "index": 44603,
+    "sanskrit": "nādhīyītāśvam ārūḍho na vṛkṣaṃ na ca hastinam / na nāvaṃ na kharaṃ noṣṭraṃ nerinastho na yānagaḥ //",
+    "english": "He shall not recite the Veda while seated on a horse, or a tree, or an elephant, or a boat, or a donkey, or a camel; nor when seated on barren ground, nor when going on a conveyance0.",
+    "morphology": "na_na_ adhīyīta_adhī_SPr3O aśvam_aśva_SAM ārūḍhaḥ_āruh_SNPaM na_na_ vṛkṣam_vṛkṣa_SAM na_na_ ca_ca_ hastinam_hastin_SAM  / na_na_ nāvam_nau_SAF na_na_ kharam_khara_SAM na_na_ uṣṭram_uṣṭra_SAM na_na_ irina_irina_Cp sthaḥ_stha_S"
+  },
+  {
+    "index": 44604,
+    "sanskrit": "kauśāravis tad bhayād dhi gaìgā tīre gato nṛpaḥ rājyārtham tvat padāmbhojaṃ bhajate su jitendriyaḥ",
+    "english": "Out of fear of him, the king of Kauśāravi fled to the Gaìgā's shore where, controlling his senses, he worships Your lotus feet to regain his kingdom.",
+    "morphology": "kauśāraviḥ_kauśāravi_SNM tat_tad_SANe bhayāt_bhaya_SBNe hi_hi_ gañgā_gañgā_SNF tīre_tīra_SLNe gataḥ_gam_SNPaM nṛpaḥ_nṛpa_SNM rājya_rājya_Cp artham_artha_SAM tvad_tvad_Cp pada_pada_Cp ambhojam_ambhoja_SANe bhajate_bhaj_SPr3In su_su_ j"
+  },
+  {
+    "index": 44605,
+    "sanskrit": "yathā kamalabījāntaḥ sthitā kamalavallarī / mahācitparamāṇvantastathā dṛśyaṃ jagatsthitam //",
+    "english": "The visible world is situated in an atom of the great mind, in the same manner, as the germ of the lotus plant is contained within its seed.",
+    "morphology": "yathā_yathā_ kamala_kamala_Cp bīja_bīja_Cp antar_antar_ sthitā_sthā_SNPaF kamala_kamala_Cp vallarī_vallarī_SNF  / mahā_mahat_Cp cit_cit_Cp paramāṇu_paramāṇu_Cp antar_antar_ tathā_tathā_ dṛśyam_dṛś_SNNeGd jagant_jagant_SNNe sthitam_st"
+  },
+  {
+    "index": 44606,
+    "sanskrit": "trijagatprasṛtācchācchasaṃvidrūpasya cātmanaḥ / neśvarasyākṛterbrahmanvyapadeśo hi yujyate //",
+    "english": "Know, O Brahman! that the spirit of God, which pervades the three worlds, and is of the nature of pure intellect, is not to be circumscribed by any form or figure.",
+    "morphology": "trijagat_trijagant_Cp prasṛta_prasṛ_PaCp accha_accha_Cp accha_accha_Cp saṃvid_saṃvid_Cp rūpasya_rūpa_SGM ca_ca_ ātmanaḥ_ātman_SGM  / na_na_ īśvarasya_īśvara_SGM ākṛteḥ_ākṛti_SGF brahman_brahman_SVM vyapadeśaḥ_vyapadeśa_SNM hi_"
+  },
+  {
+    "index": 44607,
+    "sanskrit": "mitro navākṣareṇa trivṛtaṃ stomam ud ajayat |",
+    "english": "Mitra with nine syllables won the threefold Stoma [1];",
+    "morphology": "mitraḥ_mitra_SNM nava_navan_Cp akṣareṇa_akṣara_SINe trivṛtaḥ_trivṛt_SAM stomaḥ_stoma_SNM ud_ud_ ajayat_ji_S3ImIn"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22032,
+    "sanskrit": "lābha-mātsaryam-",
+    "english": "selfishness regarding wealth,",
+    "morphology": "u_U"
+  },
+  {
+    "index": 22033,
+    "sanskrit": "āraṇyakam mahā rāja vyāsasya anumate tadā evam sa tapasā rājā dhṛtarāṣṭraḥ mahā manāḥ yojayām āsa ca ātmānam tān ca api anucarān tadā",
+    "english": "In this way the high-souled Dhritarashtra set himself to the practice of penances, and all his followers also to the same course of conduct.",
+    "morphology": "āraṇyakam_āraṇyaka_SANe mahā_mahat_Cp rāja_rājan_MCp vyāsasya_vyāsa_SGM anumate_anumata_SLNe tadā_tadā_U evam_evam_U sa_tad_SNM tapasā_tapas_SINe rājā_rājan_SNM dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM mahā_mahat_Cp manāḥ_manas_SNM"
+  },
+  {
+    "index": 22034,
+    "sanskrit": "tacchrutvā mantravādī taṃ śrīdarśanamuvāca saḥ / vetālāhvānasāhāyye samartho bhadra cedasi // tattvaṃ kṛṣṇacaturdaśyāmadyaivāsyāṃ niśāgame / iha śmaśānamāgaccherantikaṃ mama siddhaye // ityuktvā sa tato 'yāsīttapasvī mantrasādhakaḥ / srīdarśano 'py agacchattaṃ maṭhamāmantrya bhūpatim //",
+    "english": "do what you said.” When that enchanter heard that, he said to Śrīdarśana: “My good sir, if you are able to assist me in raising a Vetāla, come to me in the cemetery at nightfall this very day, the fourteenth of the black fortnight.” When the ascetic, who practised magic, had said this, he went away, and Śrīdarśana took leave of the king and returned to that asylum.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co mantra_mantra_Cp vādī_vādin_SNM tam_tad_SAM śrīdarśanam_śrīdarśana_SAM uvāca_vac_SPs3In saḥ_tad_SNM  / vetāla_vetāla_Cp āhvāna_āhvāna_Cp sāhāyye_sāhāyya_SLNe samarthaḥ_samartha_SNM bhadra_bhadra_SVM ced"
+  },
+  {
+    "index": 22035,
+    "sanskrit": "iti chāndogyopaniṣadi dvitīyādhyāyasya navamaḥ khaṇḍaḥ",
+    "english": "because he brings about the end of the world, through time divided into Day and Night;",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 22036,
+    "sanskrit": "lābhānāṃ putralābho'si vāyurvegavatāmasi | nityakarmasu sarveṣu saṃdhyopāstirbhavānmatā ||",
+    "english": "45. Among all acquisitions you are the acquisition of sons; among those with velocity you are the wind; among the routine sacred rites you are the Sandhyā worship.",
+    "morphology": "lābhānām_lābha_PGM putra_putra_Cp lābhaḥ_lābha_SNM asi_as_SPr2In vāyuḥ_vāyu_SNM vegavatām_vegavat_PGM asi_as_SPr2In  / nitya_nitya_Cp karmasu_karman_PLNe sarveṣu_sarva_PLNe saṃdhyā_saṃdhyā_SNF upāstiḥ_upāsti_SNF"
+  },
+  {
+    "index": 22037,
+    "sanskrit": "dve kṛṣṇale iti saṃjñā /",
+    "english": "\"Two kṛṣṇalas\" is the thing named, and the compound term \"SilverBean\" the name.",
+    "morphology": "dve_dvi_DuNNe"
+  },
+  {
+    "index": 22038,
+    "sanskrit": "sa hi rāma bhayāt ebhiḥ nāgaraiḥ vipravāsitaḥ",
+    "english": "From fear of Rama, my brother fled, the more so as his subject deserted him.",
+    "morphology": "sa_tad_SNM hi_hi_U rāma_rāma_SVM bhayāt_bhaya_SBNe"
+  },
+  {
+    "index": 22039,
+    "sanskrit": "ime vai lokā eṣo 'gnirebhyastallokebhyo bahirdhā śucaṃ dadhāti bahirvedīyaṃ vai vedirasyai tadbahirdhā śucaṃ dadhātyudaṅ tiṣṭhannetasyāṃ ha diśyete paśavastadyatraite paśavastadevaiṣvetacucaṃ dadhāti //",
+    "english": "Let him remove it outside the fire (-altar); that fire (-altar) being these worlds, he thus puts distress outside these worlds;--outside the Vedi; the Vedi being this earth, he thus puts distress outside this earth; (he does so) standing with his face towards the north; for in that region those animals are, and he thus puts distress into them in the region in which they are.",
+    "morphology": "ime_idam_PNM vai_vai_ lokāḥ_loka_PNM eṣaḥ_etad_SNM agniḥ_agni_SNM ebhyaḥ_idam_PBM tat_tad_SANe lokebhyaḥ_loka_PBM bahirdhā_bahirdhā_ śucam_śuc_SAF dadhāti_dhā_SPr3In bahirvedī_bahirvedi_SNF iyam_idam_SNF vai_vai_ vediḥ_vedi_SNF asyai_"
+  }
+]

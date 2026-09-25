@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32312,
+    "sanskrit": "lavāìga latikābhiś ca vicitrāṇi videha rāṭgadā pāṭhīna śaìkhaiś ca giri rājena śaktibhiḥ",
+    "english": "many clove vines, a club, fish, conchshell, mountain king, many śakti weapons,",
+    "morphology": "lavāñga_lavāñga_SVM latikābhiḥ_latikā_PIF ca_ca_ vicitrāṇi_vicitra_PANe videha_videha_SVM ca_ca_ giri_giri_MCp rājena_rāja_SIM śaktibhiḥ_śakti_PIF"
+  },
+  {
+    "index": 32313,
+    "sanskrit": "vyaktam hataḥ mṛtaḥ vā api kacaḥ tāta bhaviṣyati",
+    "english": "It is plain that Kacha hath been lost, or is dead.",
+    "morphology": "vyaktam_vyakta_SANe hataḥ_han_SNPaPsM mṛtaḥ_mṛ_SNPaPsM vā_vā_U api_api_U kacaḥ_kaca_SNM tāta_tāta_SVM bhavā_bhū_SFu3In"
+  },
+  {
+    "index": 32314,
+    "sanskrit": "siṃha nādāḥ ca vividhāḥ vāhanānām ca nisvanāḥ",
+    "english": "And numerous leonine roars were sent forth and all the animals in the camp uttered their cries together.",
+    "morphology": "siṃha_siṃha_MCp nādāḥ_nāda_PNM ca_ca_U vividhāḥ_vividha_PNM vāhanānām_vāhana_PGNe ca_ca_U"
+  },
+  {
+    "index": 32315,
+    "sanskrit": "yasminsagaye uddhātaṃ cittaṃ bhavati auddhatyābhiśaṅki vā akālastasminsamaye dharmavicayavīryaprītisaṃvodhyaṅgānāṃ bhāvanāyā” iti /",
+    "english": "When the mind is small or fears becoming small, this is not a fitting moment to cultivate the dharmavicaya, vīrya, and prīi paṟts of Bodhi.",
+    "morphology": "yasmin_yad_SLM sagaye_sagaya_SLM uddhātam_uddhāta_SNNe cittam_citta_SNNe bhavati_bhū_SPr3In auddhatya_auddhatya_Cp abhiśaṅki_abhiśaṅkin_SNNe vā_vā_ akālaḥ_akāla_SNM tasmin_tad_SLM samaye_samaya_SLM dharma_dharma_Cp vicaya_vicaya_Cp vīrya_v"
+  },
+  {
+    "index": 32316,
+    "sanskrit": "tasya yat vṛttam uktam hi rakṣaṇam ca mayā āditas",
+    "english": "A brief outline of the means to be applied and of the rules to be observed for the realisation of that end, has also been given before.",
+    "morphology": "tasya_tad_SGM yat_yad_SNNe vṛttam_vṛtta_SNNe uktam_vac_SNPaPsNe hi_hi_U"
+  },
+  {
+    "index": 32317,
+    "sanskrit": "etat dharmam adharmam vā janmanā eva abhyajāyathāḥ",
+    "english": "Whether all this be righteous or unrighteous, you are to practise it, in consequence of your very birth.",
+    "morphology": "etat_etad_SANe dharmam_dharma_SAM adharmam_adharma_SAM vā_vā_U janmanā_janman_SINe eva_eva_U abhyajāyathāḥ_abhijan_SPs2In"
+  },
+  {
+    "index": 32318,
+    "sanskrit": "sarvān kāmān imāṃs tāta prāpsyasi tvaṃ na saṃśayaḥ //",
+    "english": "Undoubtedly you will attain to all your desired-for objects –.",
+    "morphology": "sarvān_sarva_PAM kāmān_kāma_PAM imān_idam_PAM tāta_tāta_SVM prāpsyasi_prāp_SFu2In tvam_tvad_SN na_na_ saṃśayaḥ_saṃśaya_SNM  /"
+  },
+  {
+    "index": 32319,
+    "sanskrit": "sa tathābhūta evātmā svayamanya ivollasan / jīvatāmupayātīva bhāvināmnā kadarthitām //",
+    "english": "This self-same spirit next shows itself in another form, which is called the living soul (Jivatma), and comes afterwards to be understood in the limited sense of life.",
+    "morphology": "sa_tad_SNM tathābhūtaḥ_tathābhūta_SNM eva_eva_ ātmā_ātman_SNM svayam_svayam_ anyaḥ_anya_SNM iva_iva_ ullasan_ullas_SNPaPrM  / jīvatām_jīv_PGPaPrM upayāti_upayā_SPr3In iva_iva_ bhāvi_bhāvin_Cp nāmnā_nāman_SINe kadarthi_kadarthin_Cp tām"
+  }
+]

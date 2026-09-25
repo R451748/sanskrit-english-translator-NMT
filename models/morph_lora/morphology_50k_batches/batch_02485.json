@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19872,
+    "sanskrit": "ātmatvādeva ca sarveṣām, naheyo nāpyupādeyaḥ |",
+    "english": "And even because of being the self of all, he is not what is to be rejected or accepted.",
+    "morphology": "ātma_ātman_Cp tvāt_tva_SBNe eva_eva_ ca_ca_ sarveṣām_sarva_PGM "
+  },
+  {
+    "index": 19873,
+    "sanskrit": "atha anyat dhanuḥ ādāya sātyakiḥ satya vikramaḥ vivyādha bahubhiḥ vīram bhāradvājam śilā śitaiḥ",
+    "english": "Then Satyaki, of prowess incapable of being baffled, took up another bow and pierced the heroic son of Bharadwaja with many arrows whetted on stone.",
+    "morphology": "atha_atha_U anyat_anya_SANe dhanuḥ_dhanus_SANe ādāya_ādā_Co sātyakiḥ_sātyaki_SNM satya_satya_Cp vikramaḥ_vikrama_SNM vivyādha_vyadh_SPs3In bahubhiḥ_bahu_PIM vīram_vīra_SAM bhāradvājam_bhāradvāja_SAM śilā_śilā_FCp śitaiḥ_śā_PIP"
+  },
+  {
+    "index": 19874,
+    "sanskrit": "namo vijñānabhātrāya guhāvāsa nivāsine | hṛṣīkeśāya śāṃtāya tubhyaṃ bhagavate namaḥ || 16 ||",
+    "english": "16. Obeisance to the Lord of the nature of pure knowledge, to the Lord residing in his abode in the cavity (hearts of all beings); obeisance to you, to Lord Hṛṣīkeśa, the calm one.",
+    "morphology": "namaḥ_namas_SNNe vijñāna_vijñāna_Cp bhātrāya_bhātra_SDM guhā_guhā_Cp vāsa_vāsa_SVM nivāsine_nivāsin_SDM  / hṛṣīkeśāya_hṛṣīkeśa_SDM śāntāya_śam_SDPaM tubhyam_tvad_SD bhagavante_bhagavant_SDM namaḥ_namas_SNNe"
+  },
+  {
+    "index": 19875,
+    "sanskrit": "devatābhiḥ ca ye sārdham pitṛbhiḥ ca upabhuñjate ramante putra pautraiḥ ca teṣām gatiḥ anuttamā yudhiṣṭhiraḥ uvāca",
+    "english": "They who share their food with the deities and the Pitris pass their days in constant happiness with their sons and grandsons and at last, leaving off this body, attain to a very high end.'\" SECTION CCXXII \"Yudhishthira said, 'In this world, O Bharata, acts good and bad attach themselves to man for the purpose of producing fruits for enjoyment or endurance.",
+    "morphology": "devatābhiḥ_devatā_PIF ca_ca_U ye_yad_PNM sārdham_sārdham_U pitṛbhiḥ_pitṛ_PIM ca_ca_U upabhuñjate_upabhuj_PPr3In ramante_ram_PPr3In putra_putra_MCp pautraiḥ_pautra_PIM ca_ca_U teṣām_tad_PGM gatiḥ_gati_SNF anuttamā_anuttama_SNF yudhiṣ"
+  },
+  {
+    "index": 19876,
+    "sanskrit": "kr̥dhi ratnam su sanitaḥ dhanānām saḥ gha it agne bhavasi yat sami ddhaḥ stotuḥ duroṇe su bhagasya revat sr̥prā karasnā dadhiṣe vapūṁṣi",
+    "english": "Give us treasures, O best gainer of riches: such indeed art thou, Agni, when thou hast been kindled. In the blessed praiser's house thou hast placed, together with wealth, thy mighty(?) arms 1, thy marvellous shapes.",
+    "morphology": "kr̥dhi_kṛ_SPs2Im ratnam_ratna_SANe su_su_U sanitar_sanitṛ_SVM dhanānām_dhana_PGNe saḥ_tad_SNM gha_gha_U id_id_U agne_agni_SVM bhavasi_bhū_SPr2In yat_yat_U sami_sami_U ddhaḥ_dhā_SNPaPsM stotuḥ_stotṛ_SGM duroṇe_duroṇa_SLNe su_su_U bhagas"
+  },
+  {
+    "index": 19877,
+    "sanskrit": "tāvakāḥ dṛśya muktau tau vikrośanti sma sarvatas",
+    "english": "and thy men then, from all sides, set up a loud wail.",
+    "morphology": "tāvakāḥ_tāvaka_PNM dṛśya_dṛś_Co"
+  },
+  {
+    "index": 19878,
+    "sanskrit": "atha enam saptasaptatyā nārācānām samārpayat",
+    "english": "He pierced Arjuna in return with seven and seventy shafts.",
+    "morphology": "atha_atha_U enam_enad_SAM saptasaptatyā_saptasaptati_SIF"
+  },
+  {
+    "index": 19879,
+    "sanskrit": "itthaṃgataḥ sannapi cenna dadya yāyāḥ punaḥ pūrvasamṛddhiśobhām //",
+    "english": "Though being as poor as thou art now, if thou dost not give, thou mayst recover thy former beautiful riches.",
+    "morphology": "itthaṃgataḥ_itthaṃgata_SNM san_as_SNPaPrM api_api_ ced_ced_ na_na_ dadya_dā_SPr1O yāyāḥ_yā_SPr2O punar_punar_"
+  }
+]

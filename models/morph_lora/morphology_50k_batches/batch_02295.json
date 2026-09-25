@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18352,
+    "sanskrit": "aiśvarya guṇa saṃpannāḥ krīḍanti ca yathāsukham",
+    "english": "By this gift of the ear-rings to a deserving Brahmana, much merit may arise.",
+    "morphology": "aiśvarya_aiśvarya_NeCp guṇa_guṇa_MCp saṃpannāḥ_sampad_PNPaPsM"
+  },
+  {
+    "index": 18353,
+    "sanskrit": "yatra yatra rathaḥ yāti pāṇḍavasya mahātmanaḥ tatra tatra eva dīryante senāḥ tava viśām pate",
+    "english": "Thither where the car of the high-souled son of Pandu proceeded, thither thy troops, O monarch, broke and yielded a way.",
+    "morphology": "yatra_yatra_U yatra_yatra_U rathaḥ_ratha_SNM yāti_yā_SPr3In pāṇḍavasya_pāṇḍava_SGM mahātmanaḥ_mahātman_SGM tatra_tatra_U tatra_tatra_U eva_eva_U dīryante_dṛ_PPr3InPv"
+  },
+  {
+    "index": 18354,
+    "sanskrit": "viśvedevāstathā raupyaṃ vasavaśca tathaiva ca | ārakūṭamayaṃ vāpi pārthivaṃ hyaśvinau mune ||",
+    "english": "32. The Viśvedevas and the Vasus took silver liṅgas. O sage, the Aśvini devas took the brazen and earthen liṅgas.",
+    "morphology": "viśvedevāḥ_viśvedeva_PNM tathā_tathā_ raupyam_raupya_SNNe vasavaḥ_vasu_PNM ca_ca_ tathā_tathā_ eva_eva_ ca_ca_  / ārakūṭa_ārakūṭa_Cp mayaḥ_maya_SNM vā_vā_ api_api_ pārthivaḥ_pārthiva_SNM hi_hi_ aśvinaḥ_aśvin_DuNM mune_muni_SV"
+  },
+  {
+    "index": 18355,
+    "sanskrit": "śrotavyaḥ ca eva satatam śrāvyaḥ ca eva anasūyatā",
+    "english": "It should be always heard and recited to others, in a proper frame of mind.",
+    "morphology": "śroṇāḥ_śru_SNMGd"
+  },
+  {
+    "index": 18356,
+    "sanskrit": "vayaṃ vanacarā gopa gopā godhanajīvinaḥ /",
+    "english": "We are all milk-men who range in the forest. The precious kine constitute our subsistence.",
+    "morphology": "vayam_mad_PN"
+  },
+  {
+    "index": 18357,
+    "sanskrit": "anurāgeṇa śaithilyamasmāsu vrajite harauḥ / śaithilyamupayāntyāśu kareṣu valayānyapi // akrūraḥ krūrahṛdayaḥ śīvraṃ prerayate hayān / eva mārtāsu yoṣitsu kṛpā kasya na jāyate //",
+    "english": "In proportion as the affection of Hari for us decays, so do our limbs wither, and the bracelets slip from our arms and now the cruel Akrūra urges on the horses all conspire to treat unhappy females with unkindness.",
+    "morphology": "anurāgeṇa_anurāga_SIM śaithilyam_śaithilya_SNNe asmāsu_mad_PL vrajite_vraj_SLPaM harauḥ_hari_SVM  / śaithilyam_śaithilya_SANe upayānti_upayā_PPr3In āśu_āśu_ kareṣu_kara_PLM valayāni_valaya_PNNe api_api_  // akrūraḥ_akrūra_SNM krūra"
+  },
+  {
+    "index": 18358,
+    "sanskrit": "daśāṣṭādaśavasvaṣṭabhinnaṃ yacchāsanaṃ vibhoḥ | tatsāraṃ trikaśāstraṃ hi tatsāraṃ mālinīmatam |",
+    "english": "The empire of the Lord extending to ten states of Himself, eighteen those of Rudra and eight of the Vasus are summed up in the Trika Sāstra whose essence lies compressed in the Mālinivijayottara Tantra.",
+    "morphology": "daśa_daśan_Cp aṣṭādaśa_aṣṭādaśan_Cp vasu_vasu_SNNe aṣṭa_aṣṭan_Cp bhinnam_bhid_SNPaNe yat_yad_SNNe śāsanam_śāsana_SNNe vibhoḥ_vibhu_SGM  / tad_tad_Cp sāram_sāra_SNNe trikaśāstram_trikaśāstra_SNNe hi_hi_ tat_tad_SNNe sāra"
+  },
+  {
+    "index": 18359,
+    "sanskrit": "lambamānaḥ lambita uṣṭhaḥ calat gāmī yaśonidhiḥ",
+    "english": "Thou hast a deer on thy lap.",
+    "morphology": "lambamānaḥ_lamb_SNPaPrM"
+  }
+]

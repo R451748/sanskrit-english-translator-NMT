@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29360,
+    "sanskrit": "rāja nītim vyapāśritya prahitāḥ ca eva kānanam",
+    "english": "In accordance with the dictates of statecraft, they were exited into the woods.",
+    "morphology": "rāja_rājan_MCp nītim_nīti_SAF vyapāśritya_vyapāśri_Co ḥḥ_ḥḥ_ḥḥ_ḥḥ_ḥḥ_"
+  },
+  {
+    "index": 29361,
+    "sanskrit": "| sūta uvāca | tṛtīye ca dine prāpte trayodaśyāṃ dvijottamāḥ | prātaḥsavanamādāya ṛtvijaḥ sarva eva te | svesve karmaṇi saṃlagnā yajñakṛtyasamudbhave || 1 || tataḥ pravartate yajñastadā paitāmaho mahān | sarvakāmasamṛddhastu sarvaiḥ samudito guṇaiḥ || 2 ||",
+    "english": "1-2. The advent of the third day was on the thirteenth lunar day, O excellent Brāhmaṇas. All the Ṛtviks became engaged in their respective duties in connection with the Yajña rite beginning with Prātassavana. Then the great Yajña of Pitāmaha began, rich in all good qualities and desirable components.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / tṛtīye_tṛtīya_SLNe ca_ca_ dine_dina_SLNe prāpte_prāp_SLPaNe trayodaśyām_trayodaśī_SLF dvijottamāḥ_dvijottama_PVM  / prātaḥsavanam_prātaḥsavana_SANe ādāya_ādā_Co ṛtvijaḥ_ṛtvij_PNM sarve_"
+  },
+  {
+    "index": 29362,
+    "sanskrit": "nṛṣveva janyante",
+    "english": "One produces them among humans.",
+    "morphology": "nṛṣu_nṛ_PLM"
+  },
+  {
+    "index": 29363,
+    "sanskrit": "vṛkṣa ākāraḥ vṛkṣaketuḥ analaḥ vāyuvāhanaḥ",
+    "english": "Thou art exceedingly devoted to (Yoga) contemplation.[142] Thou art of the form of the tree of the world.[143] Thou art he that is indicated by the tree of the world.[144] Thou art never satiated when eating (because of thy being of the form of fire, for of all elements, fire is never satiated with the quantity offered it for consumption).",
+    "morphology": "vṛkṣa_vṛkṣa_MCp ākāraḥ_ākāra_SNM vṛkṣaketuḥ_vṛkṣaketu_SNM analaḥ_anala_SNM vāyuvāhanaḥ_vāyuvāhana_SNM"
+  },
+  {
+    "index": 29364,
+    "sanskrit": "śriyā yuktaṃ suparṇasthaṃ śaṅkhacakragadādharam | surārisūdanaṃ dadhyau sugatirme bhavatviti || 60 ||",
+    "english": "He meditated upon the Lord who was accompanied by Śrī and was seated on Garuḍa, the Lord who held conch, discus and club and who invariably slew Asuras. (He prayed:) “May beatitude be attained by me.”",
+    "morphology": "śriyā_śrī_SIF yuktam_yuj_SAPaM suparṇa_suparṇa_Cp stham_stha_SAM śaṅkha_śaṅkha_Cp cakra_cakra_Cp gadā_gadā_Cp dharam_dhara_SAM  / surāri_surāri_Cp sūdanam_sūdana_SAM dadhyau_dhyā_SPs3In su_su_ gatiḥ_gati_SNF mama_mad_SG bhavatu_bhū_"
+  },
+  {
+    "index": 29365,
+    "sanskrit": "devatācakragurvagniśāstraṃ sāmyātsadārcayet | aniveditametebhyo na kiṃcidapi bhakṣayet | etaddravyaṃ nāpaharehuruvargaṃ prapūjayet | sa ca tadbhrātṛbhāryātukprāyo vidyākṛto bhavet | |",
+    "english": "Circle of deities, the teacher, fire and Śāstra should always be worshipped and should never eat anything without dedicating it to these agencies. Objects belonging to the teacher, his brothers, his wife, and son should never be taken away. Rather all those who are related to the teacher deserve worship as they may prove useful in the acquisition of knowledge.",
+    "morphology": "devatā_devatā_Cp cakra_cakra_Cp guru_guru_Cp agni_agni_Cp śāstram_śāstra_SANe sāmyāt_sāmya_SBNe sadā_sadā_ arcayet_arcay_SPr3O  / a_a_ niveditam_niveday_SAPaNe etebhyaḥ_etad_PDM na_na_ kiṃcid_kaścit_SANe api_api_ bhakṣayet_bhakṣay_SPr3O"
+  },
+  {
+    "index": 29366,
+    "sanskrit": "ruśadaśvāt bharadvājaḥ droṇaḥ tasmāt kṛpaḥ tatas",
+    "english": "From Prishadaswa it was received by Bharadwaja, and from the last by Drona. After Drona it was taken by Kripa.",
+    "morphology": "ruśadaśvāt_ruśadaśva_SBM bharadvājaḥ_bharadvāja_SNM"
+  },
+  {
+    "index": 29367,
+    "sanskrit": "prapītāmṛtasāreva labdhā labhyapadeva ca / ānandāpūrapūrṇeva rājase nitarāṃ priye //",
+    "english": "You shine more brightly, my beloved, than one drinking the ambrosia or elixir of life, and as one obtaining the object of her desire, and filled with perfect delight in herself.",
+    "morphology": "prapīta_prapā_PaCp amṛta_amṛta_Cp sārā_sāra_SNF iva_iva_ labdhā_labh_SNPaF labhya_labh_GdCp padā_pada_SNF iva_iva_ ca_ca_  / ānanda_ānanda_Cp āpūra_āpūra_Cp pāṇā_pā_SNF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37816,
+    "sanskrit": "rathaṃtaraḥ ca tapasaḥ putraḥ agniḥ paripaṭhyate mitravindāya vai tasya haviḥ adhvaryavaḥ viduḥ",
+    "english": "Of the son of Tapa who is known as Rathantara, it is said by officiating priests that the sacrificial oblation offered in his honour is offered to Mitravinda.",
+    "morphology": "rathaṃtaraḥ_rathaṃtara_SNM ca_ca_U tapasaḥ_tapas_SGM putraḥ_putra_SNM agniḥ_agni_SNM paripaṭhyate_paripaṭh_SPr3InPv mitravindāya_mitravinda_SDM vai_vai_U tasya_tad_SGM haviḥ_havis_SANe adhvaryavaḥ_adhvaryu_PNM viduḥ_vid_PPs3In"
+  },
+  {
+    "index": 37817,
+    "sanskrit": "saḥ abravīt gautamaḥ asmi iti brāhma na anyat udāharat",
+    "english": "The man answered, saying, 'I am a Brahmana known by the name of Gautama,' and then remained silent.",
+    "morphology": "saḥ_tad_SNM abravīt_brū_SPs3In gautamaḥ_gautama_SNM asmi_as_SPr1In iti_iti_U brāhma_brāhma_SVM na_na_U anyat_anya_SANe udāharat_udāhṛ_SPs3In"
+  },
+  {
+    "index": 37818,
+    "sanskrit": "hanyāt saḥ eva yaḥ hanyāt kula dharmam svakām tanum",
+    "english": "The usages of one's race are as one's own body. Those usages slay him that destroyeth them.",
+    "morphology": "hanyāt_han_SPr3O saḥ_tad_SNM eva_eva_U yaḥ_yad_SNM hanyāt_han_SPr3O kula_kula_NeCp dharmam_dharma_SAM svakām_svaka_SAF tanum_tanu_SAF"
+  },
+  {
+    "index": 37819,
+    "sanskrit": "setumūle dhanuṣkoṭyāṃ gaṃdhamādanaparvate | piṃḍaṃ dattvā pitṛbhyo'tra ṛṇānmukto bhaviṣyati || 29 ||",
+    "english": "Three places have been created by Rāma for the propitiation of Pitṛs. By offering rice-balls at Setumūla, Dhanuṣkoṭi and Gandhamādana one becomes free from indebtedness to Pitṛs.",
+    "morphology": "setu_setu_Cp mūle_mūla_SLNe dhanuṣkoṭyām_dhanuṣkoṭi_SLF gaṃdhamādana_gandhamādana_Cp parvate_parvata_SLM  / piṃḍam_piṇḍa_SANe dattvā_dā_Co pitṛbhyaḥ_pitṛ_PDM atra_atra_ ṛṇāt_ṛṇa_SBNe muktaḥ_muc_SNPaM bhaviṣyati_b"
+  },
+  {
+    "index": 37820,
+    "sanskrit": "tasmād avāntau yathāśrutaprāyaścittam eva veditavyam //",
+    "english": "Hence the meaning must be that in the event of the man not vomiting the food, he should perform the prescribed expiations0.",
+    "morphology": "tasmāt_tasmāt_ avāntau_avānti_SLF yathā_yathā_ śruta_śru_PaCp prāyaścittam_prāyaścitta_SNNe eva_eva_ veditavyam_vid_SNNeGd  /"
+  },
+  {
+    "index": 37821,
+    "sanskrit": "ṛco yajūṃṣi cānyāni sāmāni vividhāni ca / eṣa jñeyas trivṛdvedo yo vedainaṃ sa vedavit //",
+    "english": "The Rikas, the Yagus (-formulas) which differ (from the former), the manifold Saman (-songs), must be known (to form) the triple Veda; he who knows them, (is called) learned in the Veda.",
+    "morphology": "ṛcaḥ_ṛc_PAF yajūṃṣi_yajus_PANe ca_ca_ anyāni_anya_PANe sāmāni_sāman_PANe vividhāni_vividha_PANe ca_ca_  / eṣa_etad_SNM jñeyaḥ_jñā_SNMGd trivṛt_trivṛt_Cp vedaḥ_veda_SNM yaḥ_yad_SNM veda_vid_SPs3In enam_enad_SAM sa_tad_SNM veda"
+  },
+  {
+    "index": 37822,
+    "sanskrit": "arcitāḥ satatam devāḥ puṣpaiḥ adbhiḥ sadā ca vaḥ",
+    "english": "And with flowers and water have the gods been worshipped by us.",
+    "morphology": "arcitāḥ_arcay_PNPaPsM satatam_satatam_U devāḥ_deva_PNM puṣpaiḥ_puṣpa_PINe adbhiḥ_ap_PIF sadā_sadā_U ca_ca_U vaḥ_tvad_PG"
+  },
+  {
+    "index": 37823,
+    "sanskrit": "yadevāmbhastadevāntardravatvamapṛthagyathā / cittvameva tathā cittaṃ tadrūpatvāttadarthayoḥ //",
+    "english": "And as the property of fluidity, is never distinct from the nature of liquids; so the thoughts (of all created things), are never apart from the thinking principle of the Divine mind.",
+    "morphology": "yat_yad_SNNe eva_eva_ ambhaḥ_ambhas_SNNe tat_tad_SNNe eva_eva_ antar_antar_ drava_drava_Cp tvam_tva_SNNe apṛthak_apṛthak_ yathā_yathā_  / cit_cit_Cp tvam_tva_SNNe eva_eva_ tathā_tathā_ cittam_citta_SNNe tad_tad_Cp rūpa_rūpa_Cp tvāt_tva_SBNe ta"
+  }
+]

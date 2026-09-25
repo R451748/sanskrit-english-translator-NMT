@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31536,
+    "sanskrit": "arjunam ca raṇe rājan yodhayan sa vyarājata śikhaṇḍī tu raṇe rājan vivyādha eva pitāmaham śaraiḥ aśani saṃsparśaiḥ tathā sarpa viṣa upamaiḥ",
+    "english": "Arjuna, O king, fighting with his foes in that battle, looked exceedingly resplendent.[482] Then Sikhandin, in that battle, O king, pierced the grandsire with many arrows whose touch resembled that of the bolts of heaven and which were as fatal as the poison of the snake.",
+    "morphology": "arjunam_arjuna_SAM ca_ca_U raṇe_raṇa_SLM rājan_rājan_SVM yodhayan_yodhay_SNPaPrM sa_tad_SNM vyarājata_virāj_SPs3In śikhaṇḍī_śikhaṇḍin_SNM tu_tu_U raṇe_raṇa_SLM rājan_rājan_SVM vivyādha_vyadh_SPs3In eva_eva_U pitāmaham_pitāmaha_S"
+  },
+  {
+    "index": 31537,
+    "sanskrit": "abhyāso hi nāma punaḥpunaḥ prayogaḥ kriyāyā abhyāvṛttiḥ viṣayasya cābhyastatā bhūyobhūyaḥ pravṛttiḥ /",
+    "english": "Repetition literally means the doing of an act again and again. When it applies to the obtaining of an object it has a secondary sense. It signifies the frequent movement towards an object.",
+    "morphology": "abhyāsaḥ_abhyāsa_SNM hi_hi_ nāma_nāma_ punar_punar_ punar_punar_ prayogaḥ_prayoga_SNM kriyāyāḥ_kriyā_SGF abhyāvṛttiḥ_abhyāvṛtti_SNF viṣayasya_viṣaya_SGM ca_ca_ abhyasta_abhyas_PaCp tā_tā_SNF bhūyas_bhūyas_ bhūyas_bhūyas_ prav"
+  },
+  {
+    "index": 31538,
+    "sanskrit": "etat te kathitam sarvam aśeṣeṇa mayā nṛpa bhṛgūṇām kuśikānām ca prati saṃbandha kāraṇam",
+    "english": "I have now told thee everything, O Bharata, relating to thy questions, viz., how the Bhrigus and the Kusikas became connected with each other by marriage.",
+    "morphology": "etat_etad_SNNe te_tvad_SD kathitam_kathay_SNPaPsNe sarvam_sarva_SNNe aśeṣeṇa_aśeṣeṇa_U mayā_mad_SI nṛpa_nṛpa_MCp bhṛgūṇām_bhṛgu_PGM kuśikānām_kuśika_PGM ca_ca_U prati_prati_U saṃbandha_sambandha_MCp kāraṇam_kāraṇa_SNNe"
+  },
+  {
+    "index": 31539,
+    "sanskrit": "nityaś ca kopena sambandhaḥ pāpapratiṣedhaarthaḥ //",
+    "english": "Anger is always a necessary quality for the prevention of sin",
+    "morphology": "nityaḥ_nitya_SNM ca_ca_ kopena_kopa_SIM sambandhaḥ_sambandha_SNM pāpa_pāpa_Cp pratiṣedha_pratiṣedha_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 31540,
+    "sanskrit": "anye 'pi kuhetava iti /",
+    "english": "‘Other wrong arguments’;",
+    "morphology": "anye_anya_PNM "
+  },
+  {
+    "index": 31541,
+    "sanskrit": "parair ādheyaviśeṣatve cāṅgīkriyamāṇe satyanityatvaprasaṅgaḥ, tataś ca vyaktivadevāsādhāraṇatvān na sāmānyaṃ syāt /",
+    "english": "If it be held that other things do introduce peculiar features into the Universal, then, like the Individual, it would become specific, and cease to be Universal.",
+    "morphology": "paraiḥ_para_PIM ādheya_ādheya_Cp viśeṣa_viśeṣa_Cp tve_tva_SLNe ca_ca_ aṅgīkriyamāṇe_aṅgīkṛ_SLPaPrNePv sati_sat_SLNe anitya_anitya_Cp tva_tva_Cp prasaṅgaḥ_prasaṅga_SNM tatas_tatas_ ca_ca_ vyakti_vyakti_Cp vat_vat_ eva_eva_ asādh"
+  },
+  {
+    "index": 31542,
+    "sanskrit": "teṣām puruṣāṇāṃ vidaḥ saṃvittayaḥ pratyekamabhiṣvaṅgādimātraikarūpaniyamādekākārāḥ saṃvedyanta ity arthaḥ /",
+    "english": "the term ‘tat’ stands for Men, Spirits; what is meant is that the Cognitions that men have are all found to be of one form, having their form determined solely by each one of the numerous circumstances of ‘Attachment’ and the like.",
+    "morphology": "teṣām_tad_PGM puruṣāṇām_puruṣa_PGM vidaḥ_vid_PNF saṃvittayaḥ_saṃvitti_PNF pratyekam_pratyekam_ abhiṣvaṅga_abhiṣvaṅga_Cp ādi_ādi_Cp mātra_mātra_Cp eka_eka_Cp rūpa_rūpa_Cp niyamāt_niyama_SBM eka_eka_Cp ākārāḥ_ākāra_PN"
+  },
+  {
+    "index": 31543,
+    "sanskrit": "agnim mandram puru priyam śīram pāvaka śociṣam hr̥t bhiḥ mandrebhiḥ īmahe",
+    "english": "We venerate with cheerful hearts the cheerful Agni, dear to all, Burning, with purifying flame.",
+    "morphology": "agnim_agni_SAM mandram_mandra_SAM puru_puru_Cp priyam_priya_SAM śīram_śīra_SAM pāvaka_pāvaka_Cp śociṣam_śocis_SAM hrāt_hrāt_PIF bhiḥ_bhiḥ_PIF"
+  }
+]

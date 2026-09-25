@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44808,
+    "sanskrit": "brāhmaṇa apasadāḥ yatra tulya kālāḥ prajāpateḥ",
+    "english": "The lowest of brahmanas also are residing there from very remote times.",
+    "morphology": "brāhmaṇa_brāhmaṇa_MCp apasadāḥ_apasada_PNM yatra_yatra_U tulya_tulya_Cp kālāḥ_kāla_PNM prajāpateḥ_prajāpati_SGM"
+  },
+  {
+    "index": 44809,
+    "sanskrit": "na tvedadṛṣṭamiti naivaṃ vyavasthāpyate /",
+    "english": "But the case does not present itself; hence we do not recognize undiscipline \"for a time.",
+    "morphology": "na_na_ tu_tu_ etat_idam_SNNe adṛṣṭam_adṛṣṭa_SNNe iti_iti_ na_na_ evam_evam_"
+  },
+  {
+    "index": 44810,
+    "sanskrit": "agner bhasmāsy agneḥ purīṣam asi |",
+    "english": "Thou art the ashes of Agni; thou art the rubble of Agni.",
+    "morphology": "agneḥ_agni_SGM bhasma_bhasman_SNNe asi_as_SPr2In agneḥ_agni_SGM purīṣam_purīṣa_SNNe asi_as_SPr2In"
+  },
+  {
+    "index": 44811,
+    "sanskrit": "samakāyaśīragrīvaṃ dhārayannacalaṃ sthiraḥ //",
+    "english": "The body, head and neck should be held erect and firm without movement and one should look at the tip of the nose.",
+    "morphology": "sama_sama_Cp kāya_kāya_Cp śīra_śīra_Cp grīvam_grīvā_SANe dhārayan_dhāray_SNPaPrM acalam_acala_SANe sthiraḥ_sthira_SNM  /"
+  },
+  {
+    "index": 44812,
+    "sanskrit": "ādāvante ca yannāsti kīdṛśī tasya satyatā / ādāvante ca yannityaṃ tatsatyaṃ nāma netarat //",
+    "english": "That which was not before, nor will be in being at the end, is no reality at all but what continues in being both at first and last, is the true existence and naught besides.",
+    "morphology": "ādau_ādi_SLM ante_anta_SLM ca_ca_ yat_yad_SNNe na_na_ asti_as_SPr3In kīdṛśī_kīdṛśa_SNF tasya_tad_SGNe satya_satya_Cp tā_tā_SNF  / ādau_ādi_SLM ante_anta_SLM ca_ca_ yat_yad_SNNe nityam_nitya_SNNe tat_tad_SNNe satyam_satya_SNNe nāma_nāma_ na"
+  },
+  {
+    "index": 44813,
+    "sanskrit": "āttānaṃ upamaṃ kattā neva haṃyyā na ghātaye ||",
+    "english": "comparing oneself with others, one should not hurt or have them hurt.",
+    "morphology": "āttānam_āttāna_SAM upamam_upama_SAM kattā_kattṛ_SNM na_na_ iva_iva_ haṃyyā_haṃyā_SIF na_na_ ghātaye_ghātay_SPr1In"
+  },
+  {
+    "index": 44814,
+    "sanskrit": "etasminnantare durgāṃ śailāntaḥpuracārikā | bahirjagmussamādāya pūjituṃ kuladevatām ||",
+    "english": "23. In the meantime the servant-maids in the harem of the mountain took Pārvatī out in order to worship the tutelar family deity.",
+    "morphology": "etasmin_etad_SLNe antare_antara_SLNe durgām_durgā_SAF śaila_śaila_Cp antaḥpura_antaḥpura_Cp cārikā_cārikā_SNF  / bahis_bahis_ jagmuḥ_gam_PPs3In samādāya_samādā_Co pūjitum_pūjay_In kuladevatām_kuladevatā_SAF  /"
+  },
+  {
+    "index": 44815,
+    "sanskrit": "na hi dhūmādeḥ pratyāyakatvaṃ svābhāvikam analāvinābhāvitvaṃ tu tasya nijjaṃ balam /",
+    "english": "Smoke has no inherent power of revealing fire though it is by nature an inva- riable concomitant of fire.",
+    "morphology": "na_na_ hi_hi_ dhūma_dhūma_Cp ādeḥ_ādi_SGM pratyāyaka_pratyāyaka_Cp tvam_tva_SNNe svābhāvikam_svābhāvika_SNNe anala_anala_Cp avinābhāvi_avinābhāvin_Cp tvam_tva_SNNe tu_tu_ tasya_tad_SGM nijjam_nijja_SNNe balam_bala_SNNe  /"
+  }
+]

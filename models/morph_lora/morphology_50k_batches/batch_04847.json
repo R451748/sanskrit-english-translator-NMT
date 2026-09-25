@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38768,
+    "sanskrit": "yāme ca paścime svairam āgāt svamaṭhikāṃ śivaḥ / mādhavo 'pi prabhāte svaṃ dhūrtam ekaṃ samādiśat // etad gṛhītvā gaccha tvaṃ vastrayugmam upāyanam / śaṃkarasvāminaḥ pārśvam iha rājapurodhasaḥ // rājaputraḥ parābhūto mādhavo nāma gotrajaiḥ / pitryaṃ bahu gṛhītvārtham āgato dakṣiṇāpathāt //",
+    "english": "And in the last watch of the night Śiva went back leisurely to his hut. And in the morning Mādhava said to one of his gang: “Take these two garments and give them as a present to the domestic chaplain of the king here, who is called Śaṅkarasvāmin, and say to him respectfully: ‘There is a Rājpūt come from the Deccan of the name of Mādhava, who has been oppressed by his relations, and he brings with him much inherited wealth;",
+    "morphology": "yāme_yāma_SLM ca_ca_ paścime_paścima_SLM svairam_svaira_SANe āgāt_āgā_SPs3In sva_sva_Cp maṭhikām_maṭhikā_SAF śivaḥ_śiva_SNM  / mādhavaḥ_mādhava_SNM api_api_ prabhāte_prabhāta_SLNe svam_sva_SAM dhūrtam_dhūrta_SAM ekam_eka_SAM samā"
+  },
+  {
+    "index": 38769,
+    "sanskrit": "veda aham tava māhātmyam uta te veda yat balam",
+    "english": "I know thy magnanimity of soul, and also thy strength, and thy deeds.",
+    "morphology": "veḥ_vid_SPs1In aham_mad_SN tava_tvad_SG māhātmyam_māhātmya_SANe uḥ_5_"
+  },
+  {
+    "index": 38770,
+    "sanskrit": "nahyakiñcitkaro vyañjako yukto 'tiprasaṅgāt / kiñcitkaratve janakatvam evāsyābhyupagataṃ syāt /",
+    "english": "Nothing can be regarded as ‘Manifester’ unless it does something; otherwise there would be incongruities'; and if it does something, then it becomes admitt ed that it is the producer;",
+    "morphology": "na_na_ hi_hi_ akiñcitkaraḥ_akiñcitkara_SNM vyañjakaḥ_vyañjaka_SNM yuktaḥ_yuj_SNPaM atiprasaṅgāt_atiprasaṅga_SBM  / kiñcitkara_kiṃcitkara_Cp tve_tva_SLNe janaka_janaka_Cp tvam_tva_SNNe "
+  },
+  {
+    "index": 38771,
+    "sanskrit": "kāme vede laukike yat phalam ca viṣvaksene sarvam etat pratīhi",
+    "english": "Know, O king, that this Krishna, who is called Vishwaksena, is the fruit of all acts that relate to pleasure, of all acts that are founded on the Vedas, and of all acts that appertain to the world.",
+    "morphology": "kāmā_kāma_SNF"
+  },
+  {
+    "index": 38772,
+    "sanskrit": "upendra iti kṛṣṇa tvām gāsyanti divi devatāḥ //",
+    "english": "Krishna, the gods will celebrate thy name as Upendra.",
+    "morphology": "u_u_U"
+  },
+  {
+    "index": 38773,
+    "sanskrit": "samagrā pārthivī senā pārtham ekam dhanaṃjayam kasmāt aśaktāḥ nirjetum iti hetuḥ na vidyate",
+    "english": "There, indeed, is no reason why the united army of all the kings will be incapable of vanquishing Dhananjaya singly.",
+    "morphology": "samagrā_samagra_SNF pārthivī_pārthiva_SNF senā_senā_SNF pārtham_pārtha_SAM ekam_eka_SAM dhanaṃjayam_dhanaṃjaya_SAM kasmāt_kasmāt_U aśaktāḥ_aśakta_PNF"
+  },
+  {
+    "index": 38774,
+    "sanskrit": "na hi vartamānātītāvubhau jñānalakṣaṇau jñātavantau nāpi sāmprataṃ jānītaḥ /",
+    "english": "as both these ‘Cognitive Moments’ did not cognise the thing in the past, nor do they cognise it in the present;",
+    "morphology": "na_na_ hi_hi_ vartamāna_vartamāna_Cp atītau_atī_DuNPaM ubhau_ubh_DuNM jñāna_jñāna_Cp lakṣaṇau_lakṣaṇa_DuNM jñātavantau_jñā_DuNPaM na_na_ api_api_ sāṇḍa_sāṇḍa_SNF jānītaḥ_jñā_DuPr3In"
+  },
+  {
+    "index": 38775,
+    "sanskrit": "ṣaḍyojanavahā kulya nadyo'lpā dvādaśaiva ca | caturviṃśatigā nadyo mahānadyastato'dhikāḥ || 67 ||",
+    "english": "Kulyā is a stream flowing to a distance of six Yojanas. Those that flow twelve Yojanas are called Alpanadīs (small rivers). Those that flow twenty-four Yojanas are Nadīs. Mahānadīs are rivers that flow to a greater distance.[Sanskrit text for this chapter is available]",
+    "morphology": "ṣaṣ_ṣaṣ_Cp yojana_yojana_Cp vahā_vaha_SNF nadyaḥ_nadī_PNF alpāḥ_alpa_PNF dvādaśa_dvādaśan_SNNe eva_eva_ ca_ca_  / caturviṃśati_caturviṃśati_Cp gāḥ_ga_PNF nadyaḥ_nadī_PNF mahā_mahat_Cp nadyaḥ_nadī_PNF tatas_tatas_ adhikā"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14664,
+    "sanskrit": "saṃskṛtaṃ sargabandhādi prākṛtaṃ skandhakādi yat | osarādirapabhraṃśo nāṭakādi tu miśrakam ||",
+    "english": "In Sanskrit are Sargabandha and similar compositions; in Prakrit are Skandhaka and the like; Osara and others are in Apabhramsa; while the dramas etc.",
+    "morphology": "saṃskṛtam_saṃskṛta_SNNe sargabandha_sargabandha_Cp ādi_ādi_SNNe prākṛtam_prākṛta_SNNe skandhaka_skandhaka_Cp ādi_ādi_SNNe yat_yad_SNNe  / osara_osara_Cp ādiḥ_ādi_SNM apabhraṃśaḥ_apabhraṃśa_SNM nāṭaka_nāṭaka_Cp ādi_ādi_"
+  },
+  {
+    "index": 14665,
+    "sanskrit": "tam viṣaṇṇam rathe dṛṣṭvā tāvakāḥ bharata ṛṣabha",
+    "english": "Beholding that hero in a swoon, thy troops, O bull among men, worshipped the son of Hridika, and waved their garments in the air.",
+    "morphology": "tam_tad_SAM viṣaṇṇam_viṣad_SAPaPsM rathe_ratha_SLM dṛṣṭvā_dṛś_Co tāvakāḥ_tāvaka_PNM bharata_bharata_MCp ṛṣabha_ṛṣabha_SVM"
+  },
+  {
+    "index": 14666,
+    "sanskrit": "devamāyamahāvīrarakṣitadvāradeśayā / agrasthayā triśīrṣākhyaguhayā hy eṣa rakṣyate //",
+    "english": "For he is protected by the cave, called the cave of Triśīrṣa,[28] which forms the approach to his kingdom, and the entrance of which is guarded by the great champion Devamāya.",
+    "morphology": "deva_deva_Cp māya_māyā_Cp mahāvīra_mahāvīra_Cp rakṣita_rakṣ_PaCp dvāra_dvāra_Cp deśayā_deśa_SIF  / agra_agra_Cp sthayā_stha_SIF triśīrṣa_triśīrṣa_Cp ākhya_ākhya_Cp guhayā_guhā_SIF hi_hi_ eṣa_etad_SNM rakṣyate_rakṣ_SPr3InP"
+  },
+  {
+    "index": 14667,
+    "sanskrit": "ayam kurūṇām ṛṣabhaḥ kuntī putraḥ yudhiṣṭhiraḥ asya prabhāvāt sarve api bhrātaraḥ amī vayam nṛpa",
+    "english": "Kind unto all creatures he is no other than the bull of the Kuru race, king Yudhishthira the just.",
+    "morphology": "ayam_idam_SNM kurūṇām_kuru_PGM ṛṣabhaḥ_ṛṣabha_SNM kuntī_kuntī_FCp putraḥ_putra_SNM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM asya_idam_SGM prabhāvāt_prabhāva_SBM sarve_sarva_PNM api_api_U bhrātaraḥ_bhrātṛ_PNM amī_adas_PNM vayam_mad"
+  },
+  {
+    "index": 14668,
+    "sanskrit": "atraiva kāraṇam āha hīnayāna manasikārasamudācārād iti /",
+    "english": "Here now he provides the reason because of the manifestation of the mental attention of the inferior vehicle.",
+    "morphology": "atra_atra_ eva_eva_ kāraṇam_kāraṇa_SANe āha_ah_SPs3In hīnayāna_hīnayāna_SVM manasikāra_manasikāra_Cp samudācārāt_samudācāra_SBM iti_iti_"
+  },
+  {
+    "index": 14669,
+    "sanskrit": "sa te dāsyastyasaṃdigdhaṃ tyaktvā prāṇānatipriyān | tasyāsthibhiḥ praharaṇaṃ vajrākhyaṃ te bhaviṣyati || 76 ||",
+    "english": "76. He will give up his life though very dear to him, and undoubtedly place the bones at your service. With his bones the weapon named Vajra can be fashioned.",
+    "morphology": "sa_tad_SNM te_tvad_SD dāsī_dāsī_SNF asti_as_SPr3In asaṃdigdham_asaṃdigdha_SANe tyaktvā_tyaj_Co prāṇān_prāṇa_PAM ati_ati_ priyān_priya_PAM  / tasya_tad_SGM asthibhiḥ_asthi_PINe praharaṇam_praharaṇa_SNNe vajra_vajra_Cp ākhyam_ākhyā_"
+  },
+  {
+    "index": 14670,
+    "sanskrit": "niṣkṛtiḥ na bhavet tasmin yaḥ hanyāt śaraṇa āgatam",
+    "english": "That man, however, will never be cleansed who slays a suppliant.",
+    "morphology": "niṣkṛtiḥ_niṣkṛti_SNF na_na_U bhavet_bhū_SPr3O tasmin_tad_SLM yaḥ_yad_SNM hanyāt_han_SPr3O"
+  },
+  {
+    "index": 14671,
+    "sanskrit": "amanyata mahābhāga tathā tat ca na saṃśayaḥ",
+    "english": "Indeed, O blessed monarch, without doubt that was the transgression which he had actually committed.",
+    "morphology": "amanyata_man_SPs3In mahābhāga_mahābhāga_SVM tathā_tathā_U tat_tad_SNNe ca_ca_U na_na_U saṃśayaḥ_saṃśaya_SNM"
+  }
+]

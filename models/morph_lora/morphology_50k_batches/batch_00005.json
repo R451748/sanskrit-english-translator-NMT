@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32,
+    "sanskrit": "śeṣaṃ vaktavyam / ata idamucyate /",
+    "english": "We must now teach the rest.",
+    "morphology": "śeṣam_śeṣa_SNNe vaktavyam_vac_SNNeGd  / atas_atas_ idam_idam_SNNe ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 33,
+    "sanskrit": "tāvakāḥ ca hatam dṛṣṭvā rākṣasa indram mahā balam alambuṣam bhīma rūpam viśīrṇam iva parvatam",
+    "english": "Thy brave warriors, however, beholding that mighty prince or Rakshasas, viz., Alamvusha, slain and lying like a crushed mountain, uttered cries, O monarch, of Oh and Alas.",
+    "morphology": "tāvakāḥ_tāvaka_PNM ca_ca_U hatam_han_SAPaPsM dṛṣṭvā_dṛś_Co rākṣasa_rākṣasa_MCp indram_indra_SAM mahā_mahat_Cp balam_bala_SAM alambuṣam_alambuṣa_SAM bhīma_bhīma_Cp rūpam_rūpa_SAM viśīrṇam_viśṛ_SAPaPsM iva_iva_U parvatam_"
+  },
+  {
+    "index": 34,
+    "sanskrit": "etat ākhyānam āstīkam yathāvat kīrtitam mayā prabrūhi bhṛgu śārdūla kim bhūyas kathyatām iti",
+    "english": "There is the story of Astika that I have related duly Now, tell me, O tiger of Bhrigu's race, what else I shall narrate.\" So ends the fifteenth section in the Astika Parva of the Adi Parva.",
+    "morphology": "etat_etad_SNNe ākhyānam_ākhyāna_SNNe āstīkam_āstīka_SNNe yathāvat_yathāvat_U kīrtitam_kīrtay_SNPaPsNe mayā_mad_SI prabrūhi_prabrū_SPr2Im bhṛgu_bhṛgu_MCp śārdūla_śārdūla_SVM kim_ka_SNNe bhūyas_bhūyas_U kathyatām_kathay_SPr3ImPv i"
+  },
+  {
+    "index": 35,
+    "sanskrit": "dāreṣu atiprasaktaḥ ca yakṣmāṇam samapadyata",
+    "english": "During this period, he became very much attached to his wives and accordingly had an attack of phthisis.",
+    "morphology": "dāreṣu_dāra_PLM atiprasaktaḥ_atiprasañj_SNPaPsM"
+  },
+  {
+    "index": 36,
+    "sanskrit": "tameva mantraṃ mantreṇa nyāsena ca viśeṣataḥ | samyagārādhayāmāsa saṃpūjyātmānamātmanā || 18 ||",
+    "english": "18. He worshipped his own self through himself. He uttered the selfsame Mantra along with ritualistic touching of the limbs (Nyāsa) in particular and perfected his propitiation.",
+    "morphology": "tam_tad_SAM eva_eva_ mantram_mantra_SAM mantreṇa_mantra_SIM nyāsena_nyāsa_SIM ca_ca_ viśeṣataḥ_viśeṣataḥ_  / samyak_samyak_ ārādhayāmāsa_ārādhay_SPs3InPe saṃpūjya_sampūjay_Co ātmānam_ātman_SAM ātmanā_ātman_SIM  /"
+  },
+  {
+    "index": 37,
+    "sanskrit": "imāṃ sāṃvatsarīṃ yātrāṃ ye kariṣyaṃti mānavāḥ | tīrthapratigrahātpāpānniḥsariṣyaṃti te narāḥ || 78 ||",
+    "english": "78. Those men who perform annual pilgrimage here will be liberated from the sin of Tīrtha-pratigraha (acceptance of dāna in a Tīrtha).",
+    "morphology": "imām_idam_SAF sāṃvatsarīm_sāṃvatsara_SAF yātrām_yātrā_SAF ye_yad_PNM kariṣyanti_kṛ_PFu3In mānavāḥ_mānava_PNM  / tīrtha_tīrtha_Cp pratigrahāt_pratigraha_SBM pāpāt_pāpa_SBNe niḥsariṣyanti_niḥsṛ_PFu3In te_tad_PNM narāḥ_na"
+  },
+  {
+    "index": 38,
+    "sanskrit": "mahājanagṛhītatvaṃ pitrādyanugamādi ca /",
+    "english": "Because as for the authority afforded by the acceptance by great men, and by the fact of their being handed down by ones forefathers, the upholders of these antiVedic Smrtis also bring these forward in support of their own Smrtis, which, they urge, is accepted by great men of other countries.",
+    "morphology": "mahājana_mahājana_Cp gṛhīta_grah_PaCp tvam_tva_SNNe pitṛ_pitṛ_Cp ādi_ādi_Cp anugama_anugama_Cp ādi_ādi_SNNe"
+  },
+  {
+    "index": 39,
+    "sanskrit": "upapatir jāro bhāryāyā gṛhe jāro yasya vartate //",
+    "english": "He in whose house there lives the paramour of his wife.",
+    "morphology": "upapatiḥ_upapati_SNM jāraḥ_jāra_SNM bhāryāyāḥ_bhāryā_SGF gṛhe_gṛha_SLNe jāraḥ_jāra_SNM yasya_yad_SGM vartate_vṛt_SPr3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11624,
+    "sanskrit": "pitta je rakta je vā api sakṛtā iva parikṣipet |",
+    "english": "An ulcer, due either to the deranged condition of blood or the Pitta, should be dressed and bandaged once a day which may be extended to a number of times in the case of an ulcer brought about by the deranged Kapha and Vayu.",
+    "morphology": "pitta_pitta_NeCp je_ja_SLM rakta_rakta_NeCp je_ja_SLM vā_vā_U api_api_U sakṛtā_sakṛt_SIM"
+  },
+  {
+    "index": 11625,
+    "sanskrit": "svar yat vedi su dṛśīkam arkaiḥ mahi jyotīḥ rurucuḥ yat ha vastoḥ / andhā tamāṃsi dudhitā vicakṣe nṛbhyaḥ cakāra nṛtamaḥ abhiṣṭau /",
+    "english": "When heaven's fair light by hymns was made apparent. (they made great splendour shine at break of morning), He with his succour, best of heroes, scattered the blinding dark- ness so that men saw clearly.",
+    "morphology": "svar_svar_SNNe yat_yad_SNNe vedi_vid_SPs3InPv su_su_U dṛśīkam_dṛśīka_SNNe arkaiḥ_arka_PIM mahi_mahi_SANe jyotīḥ_jyotis_SANe rurucuḥ_ruc_PPs3In yat_yat_U ha_ha_U vastoḥ_vastu_SGF  / andhā_andha_PANe tamāṃsi_tamas_PANe dudhitā_dudhita_P"
+  },
+  {
+    "index": 11626,
+    "sanskrit": "gauryādisaṃvarair eva pūrvavat sarvamācaret //",
+    "english": "All routines should be performed as before with the goddess Gaurī and others.",
+    "morphology": "gaurī_gaurī_Cp ādi_ādi_Cp saṃvaraiḥ_saṃvara_PIM eva_eva_ pūrvavat_pūrvavat_ sarvam_sarva_SANe ācaret_ācar_SPr3O  /"
+  },
+  {
+    "index": 11627,
+    "sanskrit": "tat punar bhedābhāve'pi phalabhedāc caturdhā vyavasthāpyata iti smṛtiḥ /",
+    "english": "Although the latter cannot be differentiated, they are respectively determined as fourfold due to the differentiation in result.",
+    "morphology": "tat_tad_SNNe punar_punar_ bheda_bheda_Cp abhāve_abhāva_SLM api_api_ phala_phala_Cp bhedāt_bheda_SBM caturdhā_caturdhā_ vyavasthāpyate_vyavasthāpay_SPr3InPv iti_iti_ smṛtiḥ_smṛti_SNF  /"
+  },
+  {
+    "index": 11628,
+    "sanskrit": "ya idaṃ kīrtayedbhaktyā yasya kasyāpi śikṣayā | sa tatphalamavāpnoti śivayoḥ prītikāraṇāt ||",
+    "english": "34. He who recites this with devotion or teaches to anyone whatsoever reaps the fruit thereof as a result of the pleasure of Śiva and Śivā.",
+    "morphology": "yaḥ_yad_SNM idam_idam_SANe kīrtayet_kīrtay_SPr3O bhaktyā_bhakti_SIF yasya_yad_SGM kasya_ka_SGM api_api_ śikṣayā_śikṣā_SIF  / sa_tad_SNM tad_tad_Cp phalam_phala_SANe avāpnoti_avāp_SPr3In śivayoḥ_śiva_DuGM prīti_prīti_Cp kāraṇāt_kār"
+  },
+  {
+    "index": 11629,
+    "sanskrit": "aṃbhoja mukulākāramaṃguṣṭhāṃgulisaṃmukham | hastadvayaṃ mṛgākṣīṇāṃ bahubhogāya jāyate || 69 ||",
+    "english": "69. If the pair of hands of fawn-eyed women has the shape of a lotus-bud and if the thumb and the fingers face each other, it indicates enjoyment of much pleasure.",
+    "morphology": "ambhoja_ambhoja_SVM mukula_mukula_Cp ākāram_ākāra_SNNe aṃguṣṭha_aṅguṣṭha_Cp aṅguli_aṅguli_Cp saṃmukham_sammukha_SNNe  / hasta_hasta_Cp dvayam_dvaya_SNNe mṛga_mṛga_Cp akṣīṇām_akṣa_PGF bahu_bahu_Cp bhogāya_bhoga_SDM jāyate"
+  },
+  {
+    "index": 11630,
+    "sanskrit": "parīta buddhiḥ hi visaṃjña kalpo duryodhanaḥ na abhyanandat vacaḥ me",
+    "english": "Reft of his senses, like unto an idiot, Duryodhana placed no reliance on those utterances.",
+    "morphology": "parīta_parī_PaPsCp buddhiḥ_buddhi_SNM hi_hi_U visaṃjña_visaṃjña_Cp kalpaḥ_kalpa_SNM duryodhanaḥ_duryodhana_SNM na_na_U abhyanandat_abhinand_SPs3In"
+  },
+  {
+    "index": 11631,
+    "sanskrit": "abhedamanumanyante katham adhvasu vastunaḥ / tā abhūtvā bhavantyaś ca naśyantyaś ca tadātmikāḥ //",
+    "english": "How do these people accept the view that there is non-difference between the entity and the states? They (the states), not having been in existence, come into existence and then become destroyed;",
+    "morphology": "abhedam_abheda_SAM anumanyante_anuman_PPr3In katham_katham_ adhvasu_adhvan_PLM vastunaḥ_vastu_SGNe  / tāḥ_tad_PNF a_a_ bhūtvā_bhū_Co bhavantyaḥ_bhū_PNPaPrF ca_ca_ naśyantyaḥ_naś_PNPaPrF ca_ca_ tad_tad_Cp ātmikāḥ_ātmaka_PNF  /"
+  }
+]

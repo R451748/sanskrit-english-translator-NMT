@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20168,
+    "sanskrit": "tatra punaravijñaptirdvidhā /",
+    "english": "The avijñapti is never neutral.",
+    "morphology": "tatra_tatra_"
+  },
+  {
+    "index": 20169,
+    "sanskrit": "droṇam abhyudyatam dṛṣṭvā pāṇḍavāḥ saha sṛñjayaiḥ pratyagṛhṇan tadā rājan śara varṣaiḥ pṛthak pṛthak",
+    "english": "Then the Pandavas and the Srinjayas, beholding Drona rush towards them, received him, O king, with showers upon showers (in distinct sets) of arrows.",
+    "morphology": "droṇam_droṇa_SAM abhyudyatam_abhyudyam_SAPaPsM dṛṣṭvā_dṛś_Co pāṇḍavāḥ_pāṇḍava_PNM saha_saha_U sṛñjayaiḥ_sṛñjaya_PIM pratyagṛhṇan_pratigrah_PPs3In tadā_tadā_U rājan_rājan_SVM śara_śara_MCp varṣaiḥ_varṣa_PIM"
+  },
+  {
+    "index": 20170,
+    "sanskrit": "raśmīnāmubhayaliṅgatvātta ityucyante //",
+    "english": "The term ‘ray’ raśmi is both masculine and femininehence, they are spoken of as ‘they’ ‘te’ in the last sentence",
+    "morphology": "raśmīnām_raśmi_PGM ubhaya_ubhaya_Cp liṅga_liṅga_Cp tvāt_tva_SBNe te_tad_PNM "
+  },
+  {
+    "index": 20171,
+    "sanskrit": "dantāḥ calanti vā iṣṭebhyaḥ tālu ca api avadīryate",
+    "english": "It is caused by the deranged blood and Kapha of the locality.",
+    "morphology": "dantāḥ_danta_PNM calanti_cal_PPr3In vā_vā_U iṣṭebhiḥ_iṣ_PBPaPsM"
+  },
+  {
+    "index": 20172,
+    "sanskrit": "puṇyaṃ śrutvā purāṇaṃ vai dīrghamāyuśca vindati | mahīṃ vijayate rājā śatrūṃścāpyadhitiṣṭhati || 13 || vedavicca bhavidvipraḥ kṣatriyo rājyamāpnuyāt | dhanaṃ dhānyaṃ tathā vaiśyaḥ śūdraḥ sukhamavāpnuyāt || 14 || adhyāyamekaṃ śṛṇuyācchlokaṃ ślokārdhameva vā | yaḥ ślokapādaṃ śṛṇuyādviṣṇulokaṃ sa gacchati || 15 ||",
+    "english": "Listening to and reading this Purāṇa grant all desires of human beings. People get long life by listening to this auspicious Purāṇa while a king gets victory over the world with full domination of his enemies. The Brāhmaṇas get learned in the Vedas while the Kṣatriyas get kingdom by reading it. The Vaiśyas get the fortune of wealth and remain gratified while its reading blesses the Śūdras with all happiness. By listening to one chapter or just a śloka (i.e. verse) or half of a śloka one goes to the abode of Viṣṇu. Listening to the various accounts integral to the Purāṇa and following it up with a worship of its narrator is equivalent to worship of Brahmā, Viṣṇu and Rūdra [Rudra?] (an epithet of Śiva).",
+    "morphology": "puṇyam_puṇya_SANe śrutvā_śru_Co purāṇam_purāṇa_SANe vai_vai_ dīrgham_dīrgha_SANe āyuḥ_āyus_SANe ca_ca_ vindati_vid_SPr3In  / mahīm_mahī_SAF vijayate_viji_SPr3In rājā_rājan_SNM śatrūn_śatru_PAM ca_ca_ api_api_ adhitiṣṭhati_adh"
+  },
+  {
+    "index": 20173,
+    "sanskrit": "prasaṃkhyānaikarūḍhānāṃ jñānināṃ tu taducyate | sarvatobhadramāpūrṇaṃ sarvato vedyasattayā |",
+    "english": "Those yogins are called all-round auspicious, sarvtobhadra, who have access to the centre of all kinds of knowledge and hence everything has become their object of understanding.",
+    "morphology": "prasaṃkhyāna_prasaṃkhyāna_Cp eka_eka_Cp rūḍhānām_ruh_PGPaM jñāninām_jñānin_PGM tu_tu_ tat_tad_SNNe ucyate_vac_SPr3InPv  / sarvatobhadram_sarvatobhadra_SNNe āpūrṇam_āp￞_SNPaNe"
+  },
+  {
+    "index": 20174,
+    "sanskrit": "pramiddhe bhāvanābheda bhāvyabhedo niyogataḥ / na cāso samudāyatvameka śabdyādineṣyate",
+    "english": "Then again, in the case of the word, we have such agencies as those of sound and the like, which, being distinct from the Word itself, make unreal any such distinctions of words as into the Short,etc. whereas in the case in question, the sacrifice,etc. which are signified by a part of the same word as the Bhāvanā are neither removed nor totally distinct from the Bhāvanā itself and as such the distinctions based upon those sacrifice,etc. cannot be said to be unreal.",
+    "morphology": "pramiddhe_pramidh_SLPaM bhāvanā_bhāvanā_Cp bheda_bheda_SVM bhāvya_bhāvay_GdCp bhedaḥ_bheda_SNM niyogataḥ_niyoga_SBM  /"
+  },
+  {
+    "index": 20175,
+    "sanskrit": "tam prapadya mahātmānam bhūtim āpnoti anuttamām",
+    "english": "Be seeking thy shelter, O high-souled one, I shall enjoy unrivalled prosperity.",
+    "morphology": "tam_tad_SAM"
+  }
+]

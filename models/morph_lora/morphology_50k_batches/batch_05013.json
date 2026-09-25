@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40096,
+    "sanskrit": "āsādya, āsannaṃ jñātvaty arthaḥ /",
+    "english": "\"Taking into consideration\" having ascertained its advent.",
+    "morphology": "āsādya_āsāday_Co"
+  },
+  {
+    "index": 40097,
+    "sanskrit": "vasiṣṭhaḥ ca mahābhāgaḥ sarvam etat apaśyata jñāna yogena mahatā tapasā ca paraṃtapa",
+    "english": "And, O thou oppressor of all foes, the illustrious and exalted Vasishtha by his ascetic power and spiritual insight immediately knew all.",
+    "morphology": "vasiṣṭhaḥ_vasiṣṭha_SNM ca_ca_U mahābhāgaḥ_mahābhāga_SNM sarvam_sarva_SANe etat_etad_SANe apaśyata_paś_SPs3In jñāna_jñāna_NeCp yogena_yoga_SIM mahatā_mahat_SIM tapasā_tapas_SINe ca_ca_U paraṃtapa_paraṃtapa_SVM"
+  },
+  {
+    "index": 40098,
+    "sanskrit": "paśu pāla uvāca | bhagavanbrahmaputrādya mayā dṛṣṭaṃ tu kautukam | akasmātpuruṣāḥ paṃca samāyātā bhayāvahāḥ || 10 ||",
+    "english": "Paśupāla said:",
+    "morphology": "paśu_paśu_MCp pālaḥ_pāla_SNM uvāca_vac_SPs3In  / bhagavan_bhagavat_SVM brahma_brahman_Cp putra_putra_SVM adya_adya_ mayā_mad_SI dṛṣṭam_dṛś_SNPaNe tu_tu_ kautukam_kautuka_SNNe  / akasmāt_akasmāt_ puruṣāḥ_puruṣa_PNM pañca_pañcan_P"
+  },
+  {
+    "index": 40099,
+    "sanskrit": "bhūriśravāḥ śalaḥ śalyaḥ somadattaḥ ca bāhlikaḥ akṣauhiṇyā vṛtāḥ vīrāḥ dakṣiṇam pakṣam āśritāḥ",
+    "english": "and Salya, and Somadatta, and Valhika, these heroes, surrounded by a full Akshauhini, took Chapter XVIII up their position in the right wing.",
+    "morphology": "bhūriśravāḥ_bhūriśravas_SNM śalaḥ_śala_SNM śalyaḥ_śalya_SNM somadattaḥ_somadatta_SNM ca_ca_U bāhlikaḥ_bāhlika_SNM akṣauhiṇyā_akṣauhiṇī_SIF vṛtāḥ_vṛ_PNPaPsM vīrāḥ_vīra_PNM dakṣiṇam_dakṣiṇa_SAM pakṣam_pak"
+  },
+  {
+    "index": 40100,
+    "sanskrit": "tena me sarva vāsānām śmaśāne ramate manaḥ nyagrodha śākhā saṃchanne nirbhukta sraj vibhūṣite",
+    "english": "Hence, of all abodes, the crematorium pleases my heart most, shaded that it generally is by branches of the banian and adorned with torn garlands of flowers.",
+    "morphology": "tena_tena_U me_mad_SG sarva_sarva_Cp vāsānām_vāsa_PGM śmaśāne_śmaśāna_SLNe ramate_ram_SPr3In manaḥ_manas_SNNe nyagrodha_nyagrodha_MCp śākhā_śākhā_FCp saṃchanne_saṃchad_SLPaPsNe nirbhukta_nirbhuj_PaPsCp sraj_sraj_FCp vibhūṣite_vibh"
+  },
+  {
+    "index": 40101,
+    "sanskrit": "vaiśyāḥ śūdrāḥ tathā karṇa striyaḥ sādhvyaḥ ca suvratāḥ",
+    "english": "so also Vaishyas and Shudras, O Karna, women of chastity and excellent vows may also be found everywhere.",
+    "morphology": "vaiśyāḥ_vaiśya_PNM śūdrāḥ_śūdra_PNM tathā_tathā_U karṇa_karṇa_MCp striyaḥ_strī_PNF sādhvyaḥ_sādhu_PNF ca_ca_U"
+  },
+  {
+    "index": 40102,
+    "sanskrit": "saḥ anyat dhanuḥ samādāya krodha rakta īkṣaṇaḥ śvasan abhyavarṣat śara oghaiḥ tam dhṛṣṭadyumnam mahā balam",
+    "english": "Taking up another Chapter XVIII bow, Karna, with eyes red in rage, and breathing hard, covered mighty Dhrishtadyumna with clouds of arrows.",
+    "morphology": "saḥ_tad_SNM anyat_anya_SANe dhanuḥ_dhanus_SANe samādāya_samādā_Co krodha_krodha_MCp rakta_rakta_Cp īkṣaṇaḥ_īkṣaṇa_SNM śvasan_śvas_SNPaPrM abhyavarṣat_abhivṛṣ_SPs3In śara_śara_MCp oghaiḥ_ogha_PIM tam_tad_SAM dhṛṣṭadyumn"
+  },
+  {
+    "index": 40103,
+    "sanskrit": "prayayau himavat pārśvam tatas vajradhara ātmajaḥ agastya vaṭam āsādya vasiṣṭhasya ca parvatam",
+    "english": "Arriving at the spot called Agastyavata, he next went to Vasishtha's peak.",
+    "morphology": "prayayau_prayā_SPs3In himavat_himavant_MCp pārśvam_pārśva_SANe tatas_tatas_U vajradhara_vajradhara_MCp ātmajaḥ_ātmaja_SNM agastya_agastya_MCp vaṭam_vaṭa_SAM āsādya_āsāday_Co vasiṣṭhasya_vasiṣṭha_SGM ca_ca_U parvatam_parvata_SAM"
+  }
+]

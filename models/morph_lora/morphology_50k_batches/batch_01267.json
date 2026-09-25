@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10128,
+    "sanskrit": "grāmāt niṣkramya munayaḥ vigata krodha matsarāḥ vane kuṭumba dharmāṇaḥ dṛśyante parimohitāḥ",
+    "english": "There are men who subduing wrath and pride betake themselves to ascetic courses of life and leaving village and towns repair to the woods.",
+    "morphology": "grāmāt_grāma_SBM niṣkramya_niṣkram_Co munayaḥ_muni_PNM vigata_vigam_PaPsCp krodha_krodha_MCp matsarāḥ_matsara_PNM vane_vana_SLNe kuṭumba_kuṭumba_NeCp dharmāṇaḥ_dharman_PNM dṛśyante_dṛś_PPr3InPv"
+  },
+  {
+    "index": 10129,
+    "sanskrit": "athemāṃ viśvaṃtarapravrājanapravṛttimupalabhya rājakule tumula ākrandaśabdaḥ prādurabhūt /",
+    "english": "But in the king's palace the news of the banishment pronounced upon Visvantara caused great alarm and violent lamentations.",
+    "morphology": "atha_atha_ imām_idam_SAF viśvaṃtara_viśvaṃtara_Cp pravrājana_pravrājana_Cp pravṛttim_pravṛtti_SAF upalabhya_upalabh_Co rāja_rājan_Cp kule_kula_SLNe tumulaḥ_tumula_SNM ākranda_ākranda_Cp śabdaḥ_śabda_SNM prādurabhūt_prādurbhū_SPs3"
+  },
+  {
+    "index": 10130,
+    "sanskrit": "tatas duryodhanaḥ rājā prahāra vara mohitaḥ niṣasāda rathopasthe kaśmalam ca jagāma ha",
+    "english": "Then king Duryodhana, afflicted by the violence of that blow, sat down on the terrace of his car and swooned away.",
+    "morphology": "tatas_tatas_U duryodhanaḥ_duryodhana_SNM rājā_rājan_SNM prahāra_prahāra_MCp vara_vara_MCp mohitaḥ_mohay_SNPaPsM niṣasāda_niṣad_SPs3In rathopasthe_rathopastha_SLM kaśmalam_kaśmala_SANe ca_ca_U jagāma_gam_SPs3In ha_ha_U"
+  },
+  {
+    "index": 10131,
+    "sanskrit": "tīrthadvaye'pi yaḥ snātvā etasmiñchraddhayā'nvitaḥ | tvattaḥ padmāni saṃgṛhya asyāstoyaṃ ca nirmalam | etacca māmakaṃ liṃgaṃ snāpayitvā'rcayiṣyati || 83 ||",
+    "english": "A person should take his holy bath in both the Tīrthas with great faith. He should collect lotuses from your Tīrtha and pure water from her Tīrtha. Then he shall bathe my Liṅga and adore it.",
+    "morphology": "tīrtha_tīrtha_Cp dvaye_dvaya_SLNe api_api_ yaḥ_yad_SNM snātvā_snā_Co etasmin_etad_SLNe śraddhayā_śraddhā_SIF anvitaḥ_anvita_SNM  / tvattaḥ_tvad_SBM padmāni_padma_PANe saṃgṛhya_saṃgrah_Co asyāḥ_idam_SGF toyam_toya_SANe ca_ca_ nirmal"
+  },
+  {
+    "index": 10132,
+    "sanskrit": "karotītyādiśabdebhyaś ca yathā na bhavitavyaviśiṣṭebhyaḥ tatpratītir iṣyate na tathā sarvebhyaḥ //",
+    "english": "The activity which is conveyed by 'karoti' cannot be somehow communicated by any other word. Words which denote distinct verbs only convey also such an activity. All words do not com- municate it.",
+    "morphology": "karoti_kṛ_SPr3In ityādi_ityādi_Cp śabdebhyaḥ_śabda_PBM ca_ca_ yathā_yathā_ na_na_ bhavitavya_bhū_GdCp viśiṣṭebhyaḥ_viśiṣ_PBPaM tad_tad_Cp pratītiḥ_pratīti_SNF iṣyate_iṣ_SPr3InPv na_na_ tathā_tathā_ sarvebhyaḥ_sarva_PBM  /"
+  },
+  {
+    "index": 10133,
+    "sanskrit": "bhavati su nirvṛtā bhava na mām śaktaḥ takṣakaḥ nāga rājaḥ dharṣayitum iti saḥ evam uktvā tām kṣatriyām āmantrya pauṣya sakāśam āgacchat",
+    "english": "Takshaka, Chief of the serpents, is not able to overtake me.' And having said this, and taking leave of the Queen, he went back into the presence of Paushya, and said, 'Paushya, I am gratified.' Then Paushya said to Utanka, 'A fit object of charity can only be had at long intervals.",
+    "morphology": "bhavati_bhavat_SVF su_su_U nirvṛtā_nirvṛta_SNF bhava_bhū_SPr2Im na_na_U mām_mad_SA śaktaḥ_śak_SNPaPsM takṣakaḥ_takṣaka_SNM nāga_nāga_MCp rājaḥ_rāja_SNM dharṣayitum_dharṣay_In iti_iti_U saḥ_tad_SNM evam_evam_U uktvā_vac_Co tām"
+  },
+  {
+    "index": 10134,
+    "sanskrit": "yathopapattim kurvanti śaktimantaḥ kṛta vratāḥ pakva vidyāḥ mahā prājñāḥ jita krodhāḥ jita indriyāḥ manasā karmaṇā vācā na aparādhyanti kasya cit",
+    "english": "Possessed of power and regulated minds, they do at their pleasure, according to the way in which it should be done, what waits for them to do in respect of all objects, O Devala, if solicited regardfully thereto.[868] Of mature knowledge, of great wisdom, with wrath under complete control, and with their passions kept under sway, they never do an injury to any one in thought, word, or deed.",
+    "morphology": "yathopapattim_yathopapatti_SAF kurvanti_kṛ_PPr3In śaktimantaḥ_śaktimat_PNM kṛta_kṛ_PaPsCp vratāḥ_vrata_PNM pakva_pakva_Cp vidyāḥ_vidyā_PNM mahā_mahat_Cp prājñāḥ_prājña_PNM jita_ji_PaPsCp krodhāḥ_krodha_PNM jita_ji_PaPsCp indriy"
+  },
+  {
+    "index": 10135,
+    "sanskrit": "cāturmāsye viśeṣeṇa yogayukto dvijo bhavet | iyaṃ bhaktiḥ samādiṣṭā mokṣamārgaprade harau || 22 ||",
+    "english": "22. Especially during Cāturmāsya, a Brāhmaṇa should possess (practise) Yoga. This is cited as devotion to Hari, the bestower of the path of salvation.[Sanskrit text for this chapter is available]",
+    "morphology": "cāturmāsye_cāturmāsya_SLNe viśeṣeṇa_viśeṣeṇa_ yoga_yoga_Cp yuktaḥ_yuj_SNPaM dvijaḥ_dvija_SNM bhavet_bhū_SPr3O  / iyam_idam_SNF bhaktiḥ_bhakti_SNF samādiṣṭā_samādis_SNPaF mokṣa_mokṣa_Cp mārga_mārga_Cp prade_prada_SLM harau_"
+  }
+]

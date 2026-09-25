@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13656,
+    "sanskrit": "caratā dharma nityena vana vāsam yaśasvinā eṣa paitāmahaḥ vaṃśaḥ pāṇḍunā punar uddhṛtaḥ",
+    "english": "Leading in righteousness the life of a Vanaprastha in the woods, illustrious Pandu hath thus revived the almost extinct line of his grandfather.",
+    "morphology": "caratā_car_SIPaPrM dharma_dharma_MCp nityena_nitya_SIM vana_vana_NeCp vāsam_vāsa_SAM yaśasvinā_yaśasvin_SIM eṣa_etad_SNM paitāmahaḥ_paitāmaha_SNM vaṃśaḥ_vaṃśa_SNM pāṇḍunā_pāṇḍu_SIM punar_punar_U uddhṛtaḥ_uddhṛ_SNPaPsM"
+  },
+  {
+    "index": 13657,
+    "sanskrit": "caturthāṃśā ca tadvṛddhiryāvanmeruḥ prakīrtitaḥ || 62 ||",
+    "english": "62. The height of the palaces goes on increasing to one fourth of the height of Meru.",
+    "morphology": "caturtha_caturtha_Cp aṃśā_aṃśa_SNF ca_ca_ tad_tad_Cp vṛddhiḥ_vṛddhi_SNF yāvat_yāvat_ meruḥ_meru_SNM prakīrtitaḥ_prakīrtay_SNPaM"
+  },
+  {
+    "index": 13658,
+    "sanskrit": "nityaṃ snānaṃ ca kurvīta śvetavastrāṇi dhārayet | yatiśca brahmacārī ca vidhavā ca viśeṣataḥ || 84 ||",
+    "english": "84. An ascetic, a religious student and a widow in particular, should take bath everyday and wear white clothes.",
+    "morphology": "nityam_nityam_ snānam_snāna_SANe ca_ca_ kurvīta_kṛ_SPr3O śveta_śveta_Cp vastrāṇi_vastra_PANe dhārayet_dhāray_SPr3O  / yatiḥ_yati_SNM ca_ca_ brahmacārī_brahmacārin_SNM ca_ca_ vidhavā_vidhavā_SNF ca_ca_ viśeṣataḥ_viśeṣataḥ_  /"
+  },
+  {
+    "index": 13659,
+    "sanskrit": "carma ca apratimam rājan ārṣabham puruṣa ṛṣabha",
+    "english": "And that bull among men also took up, O king, crescents made of gold.",
+    "morphology": "carma_carman_SANe ca_ca_U apratimam_apratima_SANe rājan_rājan_SVM ārṣabham_ārṣabha_SANe puruṣa_puruṣa_MCp ṛṣabha_ṛṣabha_SVM"
+  },
+  {
+    "index": 13660,
+    "sanskrit": "sa tam ratham hema vibhūṣita aṅgam sa aśvam sa sūtam sahasā vimṛdya utkṣipya hastena tadā mahā dvipo",
+    "english": "That gigantic elephant, meanwhile, suddenly crushing that gold-decked car with its steeds and driver, raised it up in the air with his trunk and then dashed it down on the Earth.",
+    "morphology": "sa_tad_SNM tam_tad_SAM ratham_ratha_SAM hema_heman_NeCp vibhūṣita_vibhūṣay_PaPsCp aṅgam_aṅga_SAM sa_sa_U aśvam_aśva_SAM sa_sa_U sūtam_sūta_SAM sahasā_sahas_SINe vimṛdya_vimṛd_Co utkṣipya_utkṣip_Co hastena_hasta_SIM tadā_tadā_U mah"
+  },
+  {
+    "index": 13661,
+    "sanskrit": "dīkṣākāle'dharādhvasthaśuddhau yaccādharādhvagam| anantasya samīpe tu satsarvaṃ pariniṣṭhitam |",
+    "english": "At the time of initiation get purged out the factors of impurity such as kalā, etc., which tend to pull the individual downward while on attaining the proximity of the Infinite, Ananta, all the rest get restored to Him.",
+    "morphology": "dīkṣā_dīkṣā_Cp kāle_kāla_SLM adhara_adhara_Cp adhva_adhvan_Cp stha_stha_Cp śuddhau_śuddhi_SLF yat_yad_SNNe ca_ca_ adhara_adhara_Cp adhva_adhvan_Cp gam_ga_SNNe anantasya_ananta_SGM samīpe_samīpa_SLNe tu_tu_ sat_as_SNPaPrNe sarvam_sarva_SNNe pa"
+  },
+  {
+    "index": 13662,
+    "sanskrit": "amūbhyāṃ bahuśo dṛṣṭā mama maṃgaladīpikāḥ | pītaṃ śrutipuṭābhyāṃ ca mama nāmākṣarāmṛtam || 33 ||",
+    "english": "133. Many times the auspicious lights shown to me were seen by them and the nectarine syllables of my names had been imbibed through the ears.",
+    "morphology": "amūbhyām_adas_DuIM bahuśas_bahuśas_ dṛṣṭāḥ_dṛś_PNPaF mama_mad_SG maṃgala_maṅgala_Cp dīpikāḥ_dīpikā_PNF  / pītam_pā_SNPaNe śruti_śruti_Cp puṭābhyām_puṭa_DuIM ca_ca_ mama_mad_SG nāma_nāman_Cp akṣara_akṣara_Cp amṛta"
+  },
+  {
+    "index": 13663,
+    "sanskrit": "jagataḥ cintayan sṛṣṭim citrām bahu guṇa udbhavām",
+    "english": "He then thinks of the Creation of the Universe of diversified phenomena and fraught with immeasurable attributes.",
+    "morphology": "jagataḥ_jagant_SGNe cintayan_cintay_SNPaPrM sṛṣṭim_sṛṣṭi_SAF citrām_citra_SAF bahu_bahu_Cp guṇa_guṇa_MCp udbhavām_udbhava_SAF"
+  }
+]

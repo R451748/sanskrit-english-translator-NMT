@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27216,
+    "sanskrit": "nṛtya vāditra gītaiḥ ca hāsyaiḥ ca vividhaiḥ api ramayanti sma nṛpate devarājam śatakratum stutibhiḥ maṅgalaiḥ ca eva stuvantaḥ karmabhiḥ tathā",
+    "english": "And, O King, many Apsaras and Gandharvas, by various kinds of dances and music both instrumental and vocal, and by the practice of auspicious rites, and by the exhibition of many feats of skill, gratify the lord of the celestials--Satakratu--the illustrious slayer of Vala and Vritra.",
+    "morphology": "nṛtya_nṛtya_NeCp vāditra_vāditra_NeCp gītaiḥ_gīta_PINe ca_ca_U hāsyaiḥ_hāsya_PINe ca_ca_U vividhaiḥ_vividha_PINe api_api_U ramayanti_ramay_PPr3In sma_sma_U nṛpate_nṛpati_SVM devarājam_devarāja_SAM śatakratum_śatakratu_SAM stutibhi"
+  },
+  {
+    "index": 27217,
+    "sanskrit": "bhinnāśraye syātām iti / vyadhikaraṇe syātāsmity arthaḥ //",
+    "english": "There is a hiatus after the particle ‘yadi’ (‘if’). ‘They cannot be co-substrate’; i.e. they cannot be co-ordinated.",
+    "morphology": "bhinna_bhid_PaCp āśraye_āśraya_DuNNe syātām_as_DuPr3O iti_iti_  / vyadhikaraṇe_vyadhikaraṇa_DuNNe syātām_as_DuPr3O iti_iti_"
+  },
+  {
+    "index": 27218,
+    "sanskrit": "śrīrāma uvāca / yogayuktasya cittasya śama eva nirūpitaḥ / samyagjñānamidānīṃ me kathayānugrahātprabho //",
+    "english": "Rama said:—Sir, as you have related to me the methods of suspending the mind to a dead lock, by means of yoga practices; I hope you will kindly tell me now, the manner in which it is brought to stand still, by means of perfect knowledge.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / yoga_yoga_Cp yuktasya_yuj_SGPaNe cittasya_citta_SGNe śamaḥ_śama_SNM eva_eva_ nirūpitaḥ_nirūpay_SNPaM  / samyak_samyak_ jñānam_jñāna_SANe idānīm_idānīm_ me_mad_SG kathaya_kathay_SPr2Im a"
+  },
+  {
+    "index": 27219,
+    "sanskrit": "rūpaṃ tu yaḥ paśyati tasya sabhāgaṃ yo na paśyati tasya tatsabhāgam / kiṃ kāraṇam /",
+    "english": "But a certain visible thing is sabhāga for the person who sees it.",
+    "morphology": "rūpam_rūpa_SANe tu_tu_ yaḥ_yad_SNM paśyati_paś_SPr3In tasya_tad_SGM sa_sa_ bhāgam_bhāga_SNNe yaḥ_yad_SNM na_na_ paśyati_paś_SPr3In tasya_tad_SGM tat_tad_SNNe sa_sa_ bhāgam_bhāga_SNNe  / kim_ka_SNNe kāraṇam_kāraṇa_SNNe  /"
+  },
+  {
+    "index": 27220,
+    "sanskrit": "śivena abhivadāmi tvām gaccha yudhyasva śatrubhiḥ",
+    "english": "In auspicious words I command thee, go and fight with the enemy.",
+    "morphology": "śivena_śiva_SINe"
+  },
+  {
+    "index": 27221,
+    "sanskrit": "maryādā taiḥ samaṃ yena devānāṃ ca yadā kṛtā | arhāṇāṃ yajñabhāgasya kāśyapānāmathāgrajām || 3 ||",
+    "english": "This agreement was made by Devas with them because being the sons of Kaśyapa, both of them deserved share in the Yajñas.",
+    "morphology": "maryādā_maryādā_SNF taiḥ_tad_PIM samam_samam_ yena_yad_SIM devānām_deva_PGM ca_ca_ yadā_yadā_ kṛtā_kṛ_SNPaF  / arhāṇām_arha_PGM yajña_yajña_Cp bhāgasya_bhāga_SGM kāśyapānām_kāśyapa_PGM atha_atha_ agrajām_agrajā_SAF"
+  },
+  {
+    "index": 27222,
+    "sanskrit": "āvirbabhūva muktāṭṭahāsaḥ so 'dhyayanaṃ paṭhan / ghūrṇan raktāsavakṣībo jṛmbhamāṇo muhuḥ śvasan // jvalannetro diśaḥ kurvan dehacchāyāndhakāritāḥ / jvālāmukho mahāraudradarśano brahmarākṣasaḥ //",
+    "english": "And then the Brāhman demon, Jvālāmukha, appeared, uttering a loud laugh, and reciting the Vedas. His appearance was very terrible; he was drunk with a full draught of blood, yawning, and panting frequently; his eyes blazed, and he darkened the whole horizon with the shadow of his body.",
+    "morphology": "āvirbabhūva_āvirbhū_SPs3In mukta_muc_PaCp aṭṭahāsaḥ_aṭṭahāsa_SNM saḥ_tad_SNM adhyayanam_adhyayana_SANe paṭhan_paṭh_SNPaPrM  / ghūrṇan_ghūrṇ_SNPaPrM rakta_rakta_Cp āsava_āsava_Cp kṣībaḥ_kṣība_SNM jṛmbhamāṇaḥ_jṛ"
+  },
+  {
+    "index": 27223,
+    "sanskrit": "droṇasya ratha nirghoṣam parjanya ninada upamam śrutvā prabhadrakāḥ rājan samakampanta māriṣa",
+    "english": "Hearing the rattle of Drona's car, O king, that resembled the roar of the clouds, the Prabhadrakas, O sire, began to tremble.",
+    "morphology": "droṇasya_droṇa_SGM ratha_ratha_MCp nirghoṣam_nirghoṣa_SAM parjanya_parjanya_MCp ninada_ninada_MCp upamam_upama_SAM śrutvā_śru_Co prabhadrakāḥ_prabhadraka_PNM ṛṣṭhāḥ_ṛṣṭha_PNM ṛṣṭhāḥ_ṛṣṭha_PNM ṛṣṭhāḥ_ṛ"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7000,
+    "sanskrit": "śrutirvedaḥ /",
+    "english": "Śruti is the Veda.",
+    "morphology": "śrutiḥ_śruti_SNF"
+  },
+  {
+    "index": 7001,
+    "sanskrit": "vyapaneṣyanti te duḥkham yena te vipriyam kṛtam",
+    "english": "And they will surely display thy woe and take the life of him that hath wronged thee.' Hearing these words the Sairindhri replied, 'They of whom I am the wedded wife are, I ween, extremely kind.",
+    "morphology": "vyapaneṣyanti_vyapanī_PFu3In"
+  },
+  {
+    "index": 7002,
+    "sanskrit": "etat te kathitam sarvam triṣu piṇḍeṣu yā gatiḥ",
+    "english": "I have thus told thee everything about the end of the three rice-balls offered at the Sraddha and consigned to the three (viz., water, the spouse, and the fire).",
+    "morphology": "etat_etad_SNNe te_tvad_SD kathitam_kathay_SNPaPsNe sarvam_sarva_SNNe"
+  },
+  {
+    "index": 7003,
+    "sanskrit": "tatra bālā bhāvādigrahābhiniveśād viparyastadhiyaḥ saṃsāre paribhramanti /",
+    "english": "The ignorant people owing to their fixation in the acquisition of bhava worldly things etc., wander in the samsāra with their intellects deluded.",
+    "morphology": "tatra_tatra_ bālāḥ_bāla_PNM bhāva_bhāva_Cp ādi_ādi_Cp graha_graha_Cp abhiniveśāt_abhiniveśa_SBM viparyasta_viparyasta_Cp dhiyaḥ_dhī_PNM saṃsāre_saṃsāra_SLM paribhramanti_paribhram_PPr3In  /"
+  },
+  {
+    "index": 7004,
+    "sanskrit": "ahrīkaḥ vā vimūḍhaḥ vā na eva strī na punar pumān",
+    "english": "He that is without shame and sense is neither man nor woman.",
+    "morphology": "ahrīkaḥ_ahrīka_SNM vā_vā_U vimūḍhaḥ_vimuh_SNPaPsM vā_vā_U"
+  },
+  {
+    "index": 7005,
+    "sanskrit": "jyeṣṭhalā paṃcamaścaiva vatsakuśau prakīrttitau || 5 || śreyasthānaṃ hi ṣaṣṭhaṃ vai bhāradvājaḥ kuśastathā || 40 ||",
+    "english": "40. Jyeṣṭhalā is the fifth. Vatsa and Kuśa are glorified (as Pravarās). Śreyasthāna is the sixth (and has) Bhāradvāja and Kuśa (as Pravaras).",
+    "morphology": "jyeṣṭhalā_jyeṣṭhalā_SNF paṃcamaḥ_pañcama_SNM ca_ca_ eva_eva_ vatsa_vatsa_Cp kuśau_kuśa_DuNM prakīrttitau_prakīrtay_DuNPaM  / hi_hi_ ṣaṣṭham_ṣaṣṭha_SAM vai_vai_ bhāradvājaḥ_bhāradvāja_SNM kuśaḥ_kuśa_SNM tathā_tathā"
+  },
+  {
+    "index": 7006,
+    "sanskrit": "padmajanmā dadau padmaṃ muktāhāraṃ sarasvatī | nāgāśca śeṣapramukhāstasyai ratneṃdrakuṇḍale || 28 ||",
+    "english": "28. The Lotus-born (God Brahmā) gave her a lotus and Sarasvatī presented her a pearl necklace. Nāgas of whom Śeṣa was prominent bestowed on her two ear-rings set with the best of jewels.",
+    "morphology": "padmajanmā_padmajanman_SNM dadau_dā_SPs3In padmam_padma_SANe muktā_muktā_Cp hāram_hāra_SANe sarasvatī_sarasvatī_SNF  / nāgāḥ_nāga_PNM ca_ca_ śeṣa_śeṣa_Cp pramukhāḥ_pramukha_PNM tasyai_tad_SDF ratnendra_ratnendra_Cp kuṇḍale_kuṇ"
+  },
+  {
+    "index": 7007,
+    "sanskrit": "vidhamet abhra jālāni yathā vāyuḥ samantataḥ vyadhamat tāni anīkāni tathā eva pavanātmajaḥ",
+    "english": "Indeed, as the wind, when it riseth, driveth away gathering masses of clouds, so did that son of Pavana rout that elephant force of the Kauravas.",
+    "morphology": "vidhamet_vidham_SPr3O abhra_abhra_MCp jālāni_jāla_PANe yathā_yathā_U vāyuḥ_vāyu_SNM samantataḥ_samantataḥ_U vyadhamat_vidham_SPs3In tāni_tad_PANe anīkāni_anīka_PANe tathā_tathā_U eva_eva_U pavanātmajaḥ_pavanātmaja_SNM"
+  }
+]

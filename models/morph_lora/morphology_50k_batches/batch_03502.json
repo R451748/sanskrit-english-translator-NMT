@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28008,
+    "sanskrit": "āre bādhasva duchunām |",
+    "english": "Far away drive ill-fortune.",
+    "morphology": "āre_āre_U __vā_U"
+  },
+  {
+    "index": 28009,
+    "sanskrit": "śrīmārkaṇḍeya uvāca | parameṣṭhisutaḥ pārtha nārado munisattamaḥ | revāyāścottare kūle tapastena purā kṛtam || 3 ||",
+    "english": "Śrī Mārkaṇḍeya said: Nārada, the son of Parameṣṭhin, the excellent sage, O son of Kuntī, performed penance on the northern bank of Revā formerly. The control of the nine Nāḍīs[1] (blood vessels?) reached its extreme limit and Paśubhartṛ (i.e. Śiva) was thus propitiated by Nārada.",
+    "morphology": "śrī_śrī_Cp mārkaṇḍeyaḥ_mārkaṇḍeya_SNM uvāca_vac_SPs3In  / parameṣṭhi_parameṣṭhin_Cp sutaḥ_suta_SNM pārtha_pārtha_SVM nāradaḥ_nārada_SNM muni_muni_Cp sattamaḥ_sattama_SNM  / revāyāḥ_revā_SGF ca_ca_ uttare_uttara_SLNe "
+  },
+  {
+    "index": 28010,
+    "sanskrit": "puruṣaḥ sarvam iti eva śrūyate bahudhā vibhuḥ",
+    "english": "He is called Purusha, and pervades everything, having made himself many.",
+    "morphology": "puruṣaḥ_puruṣa_SNM"
+  },
+  {
+    "index": 28011,
+    "sanskrit": "śakra aśani prakhya ruciḥ śita agraḥ bhuja antaram prāpya dhanaṃjayasya viveśa valmīkam iva uraga uttamaḥ",
+    "english": "That shaft of keen point and endued with the effulgence of Sakra's thunder, sped from Karna's arms, fell upon Dhananjaya's chest and penetrated it like a mighty snake penetrating an ant-hill.",
+    "morphology": "śakra_śakra_MCp aśani_aśani_MCp prakhya_prakhya_Cp ruciḥ_ruci_SNM śita_śā_PaPsCp agraḥ_agra_SNM bhuja_bhuja_MCp antaram_antara_SANe prāpya_prāp_Co dhanaṃjayasya_dhanaṃjaya_SGM viveśa_viś_SPs3In valmīkam_valmīka_SANe iva_iva_U uraga_ura"
+  },
+  {
+    "index": 28012,
+    "sanskrit": "ṛṣivākyena rājāsau śīghraṃ gatvā nareśvaraḥ | sa dadarśa tataḥ śīghraṃ bahudvijasamākulam || 48 ||",
+    "english": "At the instance of the sages the king went on hastily and ere long saw the Tīrtha full of many Dvijas (birds, Brāhmaṇas), overgrown with a number of creepers and trees and rendered splendid by numerous flowers. There were many bears and lions too and splendid devotees observing many kinds of vows. Some of them were standing on a single foot. Others had their 'eyes turned towards the sun. Some were standing on a single big toe. Others were standing with the arms lifted up. Some took a single meal a day. Some took in as food bulbous roots and fruits. Some took in food only once in three nights. Others observed the vow of Parāka. Some were engaged in Cāndrāyaṇa expiation. Some observed fast for a fortnight. Some observed fast for a whole month. Some broke fast at the end of a Ṛtu. Some were engaged in the practice of Yogic exercises. Some meditated upon ‘That’ (Tat-pada i.e. Supreme Brahman). Some took in as food only withered and decaying leaves. Some ate 'jitter and estringent things. Some took in mosses for food. Some took in air as food. Some were householders and some were Agnihotrins. On seeing the Brāhmaṇas like these, the king knelt down on the ground, bowed down his head and spoke these words, O king:",
+    "morphology": "ṛṣi_ṛṣi_Cp vākyena_vākya_SINe rājā_rājan_SNM asau_adas_SNM śīghram_śīghram_ gatvā_gam_Co nareśvaraḥ_nareśvara_SNM  / sa_tad_SNM dadarśa_dṛś_SPs3In tatas_tatas_ śīghram_śīghram_ bahu_bahu_Cp dvija_dvija_Cp samākulam_samākula_"
+  },
+  {
+    "index": 28013,
+    "sanskrit": "yo me manoratho nātha saphalaḥ sa tvayā kṛtaḥ / tapaś ca taptaṃ saphalaṃ yaddṛṣṭo 'si jagatpate //",
+    "english": "The desire that I cerished has been gratified, lord, by thee my devotions have been crowned with success, in that I have seen thee.”",
+    "morphology": "yaḥ_yad_SNM me_mad_SG manorathaḥ_manoratha_SNM nātha_nātha_SVM saphalaḥ_saphala_SNM sa_tad_SNM tvayā_tvad_SI kṛtaḥ_kṛ_SNPaM  / tapaḥ_tapas_SNNe ca_ca_ taptam_tap_SNPaNe saphalam_saphala_SNNe yat_yat_ dṛṣṭaḥ_dṛś_SNPaM asi_as_SPr2"
+  },
+  {
+    "index": 28014,
+    "sanskrit": "atho tejo vai hiraṇyam |",
+    "english": "moreover gold is brilliance;",
+    "morphology": "atha_atha_ u_u_ tejaḥ_tejas_SNNe vai_vai_ hiraṇyam_hiraṇya_SNNe"
+  },
+  {
+    "index": 28015,
+    "sanskrit": "sūryavaṃśaṃ somavaṃśaṃ rajñāṃ vaṃśaṃ vadami te /",
+    "english": "shall describe to you the genealogies of the solar and lunar races and of other kings.",
+    "morphology": "sūrya_sūrya_Cp vaṃśam_vaṃśa_SAM soma_soma_Cp vaṃśam_vaṃśa_SAM rajñām_rajas_PGM vaṃśam_vaṃśa_SAM vadami_vad_SPr1In te_tvad_SD  /"
+  }
+]

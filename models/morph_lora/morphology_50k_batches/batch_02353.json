@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18816,
+    "sanskrit": "gītiṣu sāmākhyā",
+    "english": "Sutra The name Sama is given to songs.",
+    "morphology": "gītiṣu_gīti_PLF"
+  },
+  {
+    "index": 18817,
+    "sanskrit": "prasiddhe rājarathyāpradeśe bandhagṛhāṇi saṃniveśayet kuryāt / duḥkhitā yatra dṛśyerann ity anyatrāpi saṃniveśanaṃ tatpradeśabhramaṇaṃ darśayati / etenānyā api bandhasaṃsthānāṃ pīḍāḥ kartavyā ity āha /",
+    "english": "The king shall \"establish\" placehouses of incarceration on all wellknown roads, where the \"suffering offenders might be seen;\" this implies that the position of the prisons shall be so arranged as to fall within such places as are passed by ordinary passersby; and it follows from this that various forms of torture shall be inflicted on the prisoners.",
+    "morphology": "prasiddhe_prasidh_SLPaM rāja_rājan_Cp rathyā_rathyā_Cp pradeśe_pradeśa_SLM bandhagṛhāṇi_bandhagṛha_PANe saṃniveśayet_saṃniveśay_SPr3O kuryāt_kṛ_SPr3O  / duḥkhitāḥ_duḥkhita_PNM yatra_yatra_ dṛśyeran_dṛś_PPr3O iti_iti_ anya"
+  },
+  {
+    "index": 18818,
+    "sanskrit": "kāmāvacarāḥ prathamaghyānabhūmikāśca prathamābhinirvṛttavarjyāḥ” /",
+    "english": "The six gods of Kāmadhātu and the gods of the First Dhyāna except the prathamābhinirvṛ̥ttas.",
+    "morphology": "kāmāvacarāḥ_kāmāvacara_PNM prathama_prathama_Cp ghyāna_ghyāna_Cp bhūmikāḥ_bhūmikā_PNM ca_ca_ prathama_prathama_Cp abhinirvṛtta_abhinirvṛt_PaCp varjyāḥ_varjay_PNMGd  /"
+  },
+  {
+    "index": 18819,
+    "sanskrit": "laghu agni dīpanam hṛdyam rucyam dṛṣṭi prasādanam ||",
+    "english": "Of the varieties of Shulyam, those which are boiled with oil should be considered as heat-making in their potency, heavy of digestion and as generating the Pitta, while those, which have been fried with clarified butter, should be regarded as light, appetising, agreeable, relishing, beneficial to the eyes, and cooling in their potency.",
+    "morphology": "laghu_laghu_SNNe agni_agni_MCp dīpana_dīpana_SNNe hṛdyam_hṛdya_SNNe rucyam_rucya_SNNe dṛṣṭi_dṛṣṭi_SNNe"
+  },
+  {
+    "index": 18820,
+    "sanskrit": "nīrā putrāṃś ca saubhāgyaṃ patiṃ kanyā nṛpodbhavaṃ //",
+    "english": "A woman would get children and fortune and a girl would get a husband born to a king.",
+    "morphology": "nīrā_nīrā_SNF putrān_putra_PAM ca_ca_ saubhāgyam_saubhāgya_SANe patim_pati_SAM kanyāḥ_kanyā_PAF nṛpa_nṛpa_Cp udbhavaḥ_udbhava_SNM  /"
+  },
+  {
+    "index": 18821,
+    "sanskrit": "imāṃ pūjāṃ vratapate gṛhītvā vraja sāmprataṃ / punarāgamanāyaiva varadānāya vai prabho //",
+    "english": "O Lord of vows! Accepting this worship you may go now only to come again, to confer boons, O Lord!",
+    "morphology": "imām_idam_SAF pūjām_pūjā_SAF vratapate_vratapati_SVM gṛhītvā_grah_Co vraja_vraj_SPr2Im sāmpratam_sāṃpratam_  / punar_punar_ āgamanāya_āgamana_SDNe eva_eva_ vara_vara_Cp dānāya_dāna_SDNe vai_vai_ prabho_prabhu_SVM"
+  },
+  {
+    "index": 18822,
+    "sanskrit": "iyam sura suta prakhyā sarva dharma upacāyinī",
+    "english": "In beauty, she resembleth a daughter of the celestials. She is capable of prompting every virtue.",
+    "morphology": "iyam_idam_SNF"
+  },
+  {
+    "index": 18823,
+    "sanskrit": "manonirmāṇasaṃmohāttasmātsa virarāma ha / kalpāntasamaye brahmā jagadviracanādiva //",
+    "english": "His mind being freed from its painful thoughts, regained its repose after the troublesome dream, had passed away, and he resumed his calmness, as the god Brahma had his rest, after the labour of his creation was over at the end of the kalpa.",
+    "morphology": "manaḥ_manas_Cp nirmāṇa_nirmāṇa_Cp saṃmohāt_sammoha_SBM tasmāt_tasmāt_ sa_tad_SNM virarāma_viram_SPs3In ha_ha_  / kalpa_kalpa_Cp anta_anta_Cp samaye_samaya_SLM brahmā_brahman_SNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36680,
+    "sanskrit": "rājaputrarakṣaṇam, aparuddhavṛttam,",
+    "english": "protection of princes; the conduct of a prince kept under restraint;",
+    "morphology": "rāja_rājan_Cp putra_putra_Cp rakṣaṇam_rakṣaṇa_SNNe"
+  },
+  {
+    "index": 36681,
+    "sanskrit": "tatra pūrva vyatītāni vikrāntāni ratāni ca bahūni kathayitvā tau remāte pārtha mādhavau",
+    "english": "Vasudeva and Partha amused themselves there with discoursing upon many past achievements of prowess and other topics.",
+    "morphology": "tatra_tatra_U pūrva_pūrva_Cp vyatītāni_vyatī_PAPaPsNe vikrāntāni_vikrānta_PANe ratāni_rata_PANe ca_ca_U bahūni_bahu_PANe kathayitvā_kathay_Co tau_tad_DuNM remāte_ram_DuPs3In pārtha_pārtha_MCp mādhavau_mādhava_DuNM"
+  },
+  {
+    "index": 36682,
+    "sanskrit": "deśakālakriyādravyamanobuddhīndriyādi ca / jhaṭityeva mṛterante vapuḥ paśyati yauvane //",
+    "english": "It does not however remain long in this state, but enters a new body soon after its death, to which the properties of the mind and senses, are added afterwards in their proper times.",
+    "morphology": "deśa_deśa_Cp kāla_kāla_Cp kriyā_kriyā_Cp dravya_dravya_Cp manaḥ_manas_Cp buddhi_buddhi_Cp indriya_indriya_Cp ādi_ādi_SANe ca_ca_  / jhaṭiti_jhaṭiti_ eva_eva_ mṛteḥ_mṛti_SGF ante_anta_SLM vapuḥ_vapus_SANe paśyati_dṛś_SPr3In yauvane"
+  },
+  {
+    "index": 36683,
+    "sanskrit": "indrasenasya jananī kupitā mā aśapat purā yadā tvayā parityaktā tatas aham bhṛśa pīḍitaḥ",
+    "english": "Indrasena's mother had formerly cursed me in anger when she had been deserted by thee.",
+    "morphology": "indrasenasya_indrasena_SGM jananī_jananī_SNF kupitā_kup_SNPaPsF mā_mad_SA aśapat_śap_SPs3In purā_purā_U yadā_yadā_U tvayā_tvad_SI parityaktā_parityaj_SNPaPsF tatas_tatas_U aham_mad_SN bhṛśa_bhṛśa_Cp pīḍitaḥ_pīḍay_SNPaPsM"
+  },
+  {
+    "index": 36684,
+    "sanskrit": "evaṃ krameṇa cāsādya svargaṃ tīvratapobalāt / ārādhya śaṃkaraṃ prāpa jñānaṃ nirdagdhakilbiṣaḥ //",
+    "english": "Thus in course of time he obtained a right to perpetual residence in heaven, by virtue of his severe asceticism; and by propitiating Śiva his sin was burnt up, and he obtained knowledge.",
+    "morphology": "evam_evam_ krameṇa_krameṇa_ ca_ca_ āsādya_āsāday_Co svargam_svarga_SAM tīvra_tīvra_Cp tapaḥ_tapas_Cp balāt_bala_SBNe  / ārādhya_ārādhay_Co śaṃkaram_śaṃkara_SAM prāpa_prāp_SPs3In jñānam_jñāna_SANe nirdagdha_nirdah_PaCp kilbiṣa"
+  },
+  {
+    "index": 36685,
+    "sanskrit": "pari priyā divaḥ kaviḥ vayāṁsi naptyoḥ hitaḥ suvānaḥ yāti kavi kratuḥ",
+    "english": "THE Sage of Heaven whose heart is wise, when laid between both hands and pressed, Sends us delightful powers of life.",
+    "morphology": "pari_pari_U priyā_priya_PANe divaḥ_div_SGM kaviḥ_kavi_SNM vayāṁsi_ve_SPr2Su naptyoḥ_naptī_DuLF hitaḥ_dhā_SNPaPsM suvānaḥ_sū_SNPaPsM yāti_yā_SPr3In kavi_kavi_MCp kratuḥ_kratu_SNM"
+  },
+  {
+    "index": 36686,
+    "sanskrit": "bhāsita iti /",
+    "english": "[verses 2737-2739]",
+    "morphology": "bhāsitaḥ_bhās_SNPaM"
+  },
+  {
+    "index": 36687,
+    "sanskrit": "ni vpannaścāhavanīya upadiśyate niṣphalakarmānurodhena ca bhātṛtīyādhyāyasya prathamaḥ pāda /",
+    "english": "The former of these speaks of the fire as something to be prepared, and as such standing in need of the preparatory rites and consequently it can be taken as laying down the Pavamana offerings, etc., which have no results of their own, as the required preparatory rites. And the latter may be taken as laying down the fire as a wellestablished entity, calculated to serve as that into which the libations of all sacrifices are to be offered.",
+    "morphology": "ni_ni_ vpannaḥ_vpad_SNPaM ca_ca_ āhavanīyaḥ_āhavanīya_SNM upadiśyate_upadiś_SPr3InPv niṣphala_niṣphala_Cp karma_karman_Cp anurodhena_anurodha_SIM ca_ca_  /"
+  }
+]

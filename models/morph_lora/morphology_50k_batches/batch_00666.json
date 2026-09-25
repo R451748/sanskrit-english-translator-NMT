@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5320,
+    "sanskrit": "tasya madhye mahādevi liṃgarūpo vasāmyaham || 41 ||",
+    "english": "41. O great goddess, I reside at its centre in the form of a Liṅga.",
+    "morphology": "tasya_tad_SGM madhye_madhya_SLNe mahādevi_mahādevī_SVF"
+  },
+  {
+    "index": 5321,
+    "sanskrit": "mumucuḥ ca mahābhāgaḥ svastyātreyaḥ ca vīryavān mitrāvaruṇayoḥ putraḥ tathā agastyaḥ pratāpavān",
+    "english": "Others, viz., Unmuchu, Pramuchu, all highly blessed, Swastyatreya of great energy, Agastya of great prowess, the son of Mitra and Varuna;",
+    "morphology": "mumucuḥ_mumucu_SNM ca_ca_U mahābhāgaḥ_mahābhāga_SNM svastyātreyaḥ_svastyātreya_SNM ca_ca_U vīryavān_vīryavat_SNM mitrāvaruṇayoḥ_mitrāvaruṇa_DuGM putraḥ_putra_SNM tathā_tathā_U agastyaḥ_agastya_SNM pratāpavān_pratāpavat_SNM"
+  },
+  {
+    "index": 5322,
+    "sanskrit": "adya prabhṛti mām rājan kaṣṭāḥ hṛdaya śoṣaṇāḥ ādhayaḥ abhibhaviṣyanti tvat ṛte puṣkarekṣaṇa",
+    "english": "O thou of eyes like lotus-petals, without thee, from this day, mental agonies will overwhelm me and eat into my heart.",
+    "morphology": "adya_adya_U prabhṛti_prabhṛti_U mām_mad_SA rājan_rājan_SVM kaṣṭāḥ_kaṣṭa_PNM hṛdaya_hṛdaya_NeCp śoṣaṇāḥ_śoṣaṇa_PNM ādhayaḥ_ādhi_PNM abhibhaviṣyanti_abhibhū_PFu3In tvat_tvad_SB ṛte_ṛte_U puṣkarekṣaṇa_puṣk"
+  },
+  {
+    "index": 5323,
+    "sanskrit": "n cānaikāntikatā avikalakāraṇatvahāniprasaṅgāt avikalakāraṇasyāpyanutpattau sarvadaivānutpattiprasaṅgo 'viśeṣāt /",
+    "english": "for if that were so (doubtful), then there would be no ‘Perfect (defectless) Cause’ at all (of things). If then, the Perfect Cause itself never came into existence, then there would be no birth (production) of anything, as the ‘absence of Perfect Cause’ would always be there.",
+    "morphology": "n_n_ ca_ca_ anaikāntika_anaikāntika_Cp tā_tā_SNF avikala_avikala_Cp kāraṇatva_kāraṇatva_Cp hāni_hāni_Cp prasaṅgāt_prasaṅga_SBM avikala_avikala_Cp kāraṇasya_kāraṇa_SGNe api_api_ anutpattau_anutpatti_SLF sarvadā_sarvadā_ eva_eva_ anu"
+  },
+  {
+    "index": 5324,
+    "sanskrit": "karma avasthā viśeṣeṇa viṣayoḥ ubhayoḥ śṛṇu",
+    "english": "We shall now deal with the specific treatment of poisoning of either kind according to the physical symptoms developed in the patient.",
+    "morphology": "karma_karman_SNNe avasthā_avasthā_SNF viśeṣṇāḥ_viśeṣa_SNF"
+  },
+  {
+    "index": 5325,
+    "sanskrit": "dīpaḥ śrutaṃ mohatamaḥ pramāthī caurādyahāryaṃ paramaṃ dhanaṃ ca / saṃmohaśatruvyathanāya śastraṃ nayopadeṣṭā paramaśca mantrī // āpadgatasyāpyavikāri mitramapīḍanī śokarujaścikitsā / balaṃ mahaddoṣabalāvamardi paraṃ nidhānaṃ yaśasaḥ śriyaśca //",
+    "english": "Holy texts are a light which destroys the darkness of delusion (moha); they are the highest wealth, a wealth beyond the reach of thieves and the rest; the weapon to hurt that enemy whose name is infatuation; the best counsellor and adviser as to a man's course of conduct; an unalterable friend even in time of distress; the painless medicine of the disease called sorrow; a mighty army strong enough to crush the army of vices; the highest treasure of glory and bliss.",
+    "morphology": "dīpaḥ_dīpa_SNM śrutam_śruta_SNNe moha_moha_Cp tamaḥ_tamas_SNNe pramāthī_pramāthin_SNM caura_caura_Cp ādi_ādi_Cp ahāryam_ahārya_SNNe paramam_parama_SNNe dhanam_dhana_SNNe ca_ca_  / saṃmoha_sammoha_Cp śatru_śatru_Cp vyathanāya_vyathana_SD"
+  },
+  {
+    "index": 5326,
+    "sanskrit": "tasyām abhūn nagaryāṃ ca gauryāyatanam uttamam / tasya dakṣiṇataś cāsīd gaurītīrthābhidhaṃ saraḥ //",
+    "english": "And in that city there was a splendid temple of Gaurī, and to the south of it there was a lake, called Gaurītīrtha.",
+    "morphology": "tasyām_tad_SLF abhūt_bhū_SPs3In nagaryām_nagarī_SLF ca_ca_ gaurī_gaurī_Cp āyatanam_āyatana_SNNe uttamam_uttama_SNNe  / tasya_tad_SGNe dakṣiṇatas_dakṣiṇatas_ ca_ca_ āsīt_as_S3ImIn gaurītīrtha_gaurītīrtha_Cp abhidham_abhidhā_SNNe sara"
+  },
+  {
+    "index": 5327,
+    "sanskrit": "tatra upaśamayet tejaḥ tvac dhātum ca vivardhayet",
+    "english": "The medical treatment under such circumstances consists in alleviating the heat and adding to the watery component of the body.",
+    "morphology": "tat_tat_U"
+  }
+]

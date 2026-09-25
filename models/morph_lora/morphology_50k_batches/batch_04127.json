@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33008,
+    "sanskrit": "yāḥ prācyaḥ syandante sa udgīthaḥ / yāḥ pratīcyaḥ sa pratihāraḥ /",
+    "english": "those flowing eastward are the Udgītha; those flowing westward are the Pratihāra;",
+    "morphology": "yāḥ_yad_PNF prācyaḥ_prāñc_PNF syandante_syand_PPr3In saḥ_tad_SNM udgīthaḥ_udgītha_SNM  / yāḥ_yad_PNF pratīcyaḥ_pratyañc_PNF saḥ_tad_SNM pratihāraḥ_pratihāra_SNM  /"
+  },
+  {
+    "index": 33009,
+    "sanskrit": "sahārthaḥ bhajamānaḥ ca sahajaḥ kṛtrimaḥ tathā",
+    "english": "They are he that has the same object, he that is devoted, he that is related by birth, and he that has been won over (by gifts and kindness).",
+    "morphology": "sahārthaḥ_sahārtha_SNM bhajamānaḥ_bhajamāna_SNM"
+  },
+  {
+    "index": 33010,
+    "sanskrit": "na ca dadhiśabdasyāsati rthānapāyāttāvanmātreṇa prayojanasiddhiḥ / yastu homasaṃbandha kṛto pravṛttinimitte karmanāmadheyatvaṃ ghaṭate / soyamubhayasmād bhraṣṭo viśeṣo nāsau kiṃ cidviruṇaddhi /",
+    "english": "The bringing in pranayana, spoken of in the sentence cited by the Vrtti, being of the nature of carrying a certain thing from one place to another, is not affected one way or the other by the diversity or identity of the Actions concerned as whether the Result follows from the milking vessel, or from the bringing in by means of that vessel, in any case, the performance of the main Action would be exactly the same. In the case of the sentence cited by us, on the other hand, if the Result followed from the material Dadhi, then Dadhi would be the material that should be offered in the morning and evening Libations of the Agnihotra whereas if it followed from the Homa, then this Homa of the Dadhi, having no fixed time for its per formance, would be wholly different from the AgnihotraHomas, the time for which is fixed and thus having the character of an independent.",
+    "morphology": "na_na_ ca_ca_ dadhi_dadhi_Cp śabdasya_śabda_SGM asati_asat_SLNe rtha_rtha_Cp anapāyāt_anapāya_SBM tāvat_tāvat_Cp mātreṇa_mātra_SINe prayojana_prayojana_Cp siddhiḥ_siddhi_SNF  / yaḥ_yad_SNM tu_tu_ pravṛtti_pravṛtti_Cp nimitte_nimitta_SLNe"
+  },
+  {
+    "index": 33011,
+    "sanskrit": "iti br̥hatī iti abhi śriyā hiraṇyayī iti vakvarī iti barhiḥ āśāteiti",
+    "english": "For, Agni, like a herdsman, thou by thine own might rulest o'er all that is in heaven and on the earth; And these two Mighty Ones, bright, golden closely joined, rolling them round are come unto thy sacred grass.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 33012,
+    "sanskrit": "patyau jīvati yaḥ strībhir alaṅkāro dhṛto bhavet / na taṃ bhajeran dāyādā bhajamānāḥ patanti te //",
+    "english": "The ornaments which may have been worn by women during their husbands' lifetime, his heirs shall not divide; those who divide them become outcasts.",
+    "morphology": "patyau_pati_SLM jīvati_jīv_SLPaPrM yaḥ_yad_SNM strībhiḥ_strī_PIF alaṅkāraḥ_alaṃkāra_SNM dhṛtaḥ_dhṛ_SNPaM bhavet_bhū_SPr3O  / na_na_ tam_tad_SAM bhajeran_bhaj_PPr3O dāyādāḥ_dāyāda_PNM bhajamānāḥ_bhaj_PNPaPrM patanti_pat_PPr"
+  },
+  {
+    "index": 33013,
+    "sanskrit": "tatrākartṛkaṃ vākyaṃ śaktaṃ vā syāt jñānajanane, kadācid aśaktaṃ veti",
+    "english": "The ‘eternal Sentence’ may be ‘capable’ of bringing about the cognition, or ‘incapable’ at times;",
+    "morphology": "tatra_tatra_ akartṛkam_akartṛka_SNNe vākyam_vākya_SNNe śaktam_śak_SNPaNe vā_vā_ syāt_as_SPr3O jñāna_jñāna_Cp janane_janana_SLNe kadācid_kadācid_"
+  },
+  {
+    "index": 33014,
+    "sanskrit": "ghṛta toyaḥ samudraḥ atra dadhimaṇḍa udakaḥ aparaḥ",
+    "english": "Then is the ocean whose waters are curds.",
+    "morphology": "ghṛta_ghṛta_NeCp toyaḥ_toya_SNM samudraḥ_samudra_SNM atra_atra_U dadhimaṇḍa_dadhimaṇḍa_SNM"
+  },
+  {
+    "index": 33015,
+    "sanskrit": "gate tasmin sa kāruṇyanidhir jīmūtavāhanaḥ / tattrāṇāyātmadānena bubudhe labdham antaram //",
+    "english": "And when he was gone, Jīmūtavāhana, that treasure-house of compassion, considered that he had gained an opportunity of offering himself up to save the snake’s life.",
+    "morphology": "gate_gam_SLPaM tasmin_tad_SLM sa_tad_SNM kāruṇya_kāruṇya_Cp nidhiḥ_nidhi_SNM jīmūtavāhanaḥ_jīmūtavāhana_SNM  / tad_tad_Cp trāṇāya_trāṇa_SDNe ātma_ātman_Cp dānena_dāna_SINe bāḍham_bāḍham_"
+  }
+]

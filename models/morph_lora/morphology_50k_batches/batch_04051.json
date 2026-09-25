@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32400,
+    "sanskrit": "prastāvabhājino hy etasya sāmnaḥ //",
+    "english": "being supplicants to the Prastāva of the Sāma",
+    "morphology": "prastāva_prastāva_Cp bhājinaḥ_bhājin_PNM hi_hi_ etasya_etad_SGNe sāmnaḥ_sāman_SGNe  /"
+  },
+  {
+    "index": 32401,
+    "sanskrit": "svānurūpām iti / viśeṣaṇasvarūpoparaktām /",
+    "english": "‘In keeping with itself’ i.e. tinged with the form of the qualifying factors;",
+    "morphology": "sva_sva_Cp anurūpām_anurūpa_SAF iti_iti_  / viśeṣaṇa_viśeṣaṇa_Cp sva_sva_Cp rūpa_rūpa_Cp uparaktām_uparañj_SAPaF  /"
+  },
+  {
+    "index": 32402,
+    "sanskrit": "akṣiṇi dṛśyata iti prajāpatinoktaṃ sarvendriyadvāropalakṣaṇārtham /",
+    "english": "Prajāpati has spoken of it as Seen in the eye; ‘but that is only illustration; what has been stated is true of all senseorgans;",
+    "morphology": "akṣiṇi_akṣi_SLNe dṛśyate_dṛś_SPr3InPv iti_iti_ prajāpatinā_prajāpati_SIM uktam_vac_SNPaNe sarva_sarva_Cp indriya_indriya_Cp dvāra_dvāra_Cp upalakṣaṇa_upalakṣaṇa_Cp artham_artha_SAM  /"
+  },
+  {
+    "index": 32403,
+    "sanskrit": "tasyām rajanyām ghorāyām nadantyaḥ sarvatas śivāḥ nyavedayan bhayam ghoram sa jvāla kavalaiḥ mukhaiḥ",
+    "english": "On that night of pitch darkness, yelling jackals everywhere inspired great fear with their blazing mouths.",
+    "morphology": "tasyām_tad_SLF rajanyām_rajanī_SLF ghorāyām_ghora_SLF nadantyaḥ_nad_PNPaPrF sarvatas_sarvatas_U śivāḥ_śivā_PNF nyavedayan_niveday_PPs3In bhayam_bhaya_SANe ghoram_ghora_SANe sa_sa_U jvāla_jvāla_MCp kavalaiḥ_kavala_PINe mukhaiḥ_mukha_PINe"
+  },
+  {
+    "index": 32404,
+    "sanskrit": "[p.185] tadevaṃ svapakṣaṃ vyavasthāpya sarvathetyādinā parapakṣaṃ pratiṣedhayati",
+    "english": "Having thus established his own doctrine, the Author proceeds to discard the doctrine of the Opponent: [see verse 546 above]",
+    "morphology": "tat_tad_SANe evam_evam_ sva_sva_Cp pakṣam_pakṣa_SAM vyavasthāpya_vyavasthāpay_Co sarvathā_sarvathā_ ityādinā_ityādi_SINe para_para_Cp pakṣam_pakṣa_SAM pratiṣedhayati_pratiṣedhay_SPr3In"
+  },
+  {
+    "index": 32405,
+    "sanskrit": "tān aham dviṣataḥ krūrān saṃsāreṣu nara adhamān kṣipāmi ajasram aśubhān āsurīṣu eva yoniṣu",
+    "english": "These haters (of Me), cruel, the vilest among men, and unholy, I hurl continually down into demoniac wombs.",
+    "morphology": "tān_tad_PAM aham_mad_SN dviṣataḥ_dviṣ_PAPaPrM krūrān_krūra_PAM saṃsāreṣu_saṃsāra_PLM nara_nara_MCp adhamān_adhama_PAM kṣipāmi_kṣip_SPr1In ajasram_ajasram_U aśubhān_aśubha_PAM āsurīṣu_āsura_PLF eva_eva_U yoniṣu_yoni_PLF"
+  },
+  {
+    "index": 32406,
+    "sanskrit": "tasya putrāstrayaśśiṣṭāḥ dṛḍhāśvaḥ śreṣṭha ucyate | haṃsāśvakapilāśvau ca kumārau tatkanīyasau ||",
+    "english": "39. Three of his sons survived. The eldest of them was Dṛḍhāśva. Haṃsāśva and Kapilāśva were younger princes.",
+    "morphology": "tasya_tad_SGM putrāḥ_putra_PNM trayaḥ_tri_PNM śiṣṭāḥ_śiṣ_PNPaM dṛḍhāśvaḥ_dṛḍhāśva_SNM śreṣṭhaḥ_śreṣṭha_SNM ucyate_vac_SPr3InPv  / haṃsāśva_haṃsāśva_Cp kapilāśvau_kapilāśva_DuNM ca_ca_ kumārau_kumāra_D"
+  },
+  {
+    "index": 32407,
+    "sanskrit": "neha draṣṭāsti no bhoktā sarvamastīha tādṛśam / yanna kiṃcicca kiṃcicca maunamevātivāgapi //",
+    "english": "The Intellect is neither the observer nor enjoyer (i.e. neither the active nor passive agent of creation); it is something as nothing, perfectly quiet and utterly unspeakable in its nature.",
+    "morphology": "na_na_ iha_iha_ draṣṭā_draṣṭṛ_SNM asti_as_SPr3In no_no_ bhoktā_bhoktṛ_SNM sarvam_sarva_SNNe asti_as_SPr3In iha_iha_ tādṛśam_tādṛśa_SNNe  / yat_yad_SNNe na_na_ kiṃcid_kaścit_SNNe ca_ca_ kiṃcid_kaścit_SNNe ca_ca_ maunam_mauna_SNNe"
+  }
+]

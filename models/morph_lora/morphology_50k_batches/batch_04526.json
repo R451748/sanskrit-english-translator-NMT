@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36200,
+    "sanskrit": "tatas aparaiḥ tribhiḥ bāṇaiḥ drauṇim vivyādha pāṇḍavaḥ",
+    "english": "The son of Pandu then pierced Drona's son with three other shafts.",
+    "morphology": "tatas_tatas_U aparaiḥ_apara_PIM tribhiḥ_tri_PIM bāṇaiḥ_bāṇa_PIM drauṇim_drauṇi_SAM viḥ_vyadh_SPs3In"
+  },
+  {
+    "index": 36201,
+    "sanskrit": "āśvine māsi bhūtāditithayaḥ kīrtitāstrayaḥ | dīpadānādikāryeṣu grāhyā madhyāhnakālikāḥ || 67 ||",
+    "english": "In the month of Āśvina three Tithis have been glorified beginning with Caturdaśī. They should be taken when they spread over the midday for the rites of offering lamps etc.",
+    "morphology": "āśvine_āśvina_SLM māsi_mās_SLM bhūtādi_bhūtādi_Cp tithayaḥ_tithi_PNM kīrtitāḥ_kīrtay_PNPaM trayaḥ_tri_PNM  / dīpa_dīpa_Cp dāna_dāna_Cp ādi_ādi_Cp kāryeṣu_kārya_PLNe grāhyāḥ_grah_PNMGd madhyāhna_madhyāhna_Cp kālikāḥ_k"
+  },
+  {
+    "index": 36202,
+    "sanskrit": "svecchayā munigeheṣu darśayatyaṃgacāpalam | kvacidgāyati gītāni kvacinnṛtyati chandataḥ || 10 ||",
+    "english": "10. As he passed through the abode of sages at will, he displayed fickle and rash movements of his limbs. He sang songs here and danced there as he pleased,",
+    "morphology": "sva_sva_Cp icchayā_icchā_SIF muni_muni_Cp geheṣu_geha_PLNe darśayati_darśay_SPr3In aṅga_aṅga_Cp cāpalam_cāpala_SANe  / kvacid_kvacid_ gāyati_gā_SPr3In gītāni_gīta_PANe kvacid_kvacid_ nṛtyati_nṛt_SPr3In chandataḥ_chanda_SBM"
+  },
+  {
+    "index": 36203,
+    "sanskrit": "aśeṣataḥ prahāṇaṃ, pratiniḥsargo, vyantībhāvaḥ,",
+    "english": "its abandonment without remainder, letting go, wasting away,",
+    "morphology": "aśeṣataḥ_aśeṣatas_"
+  },
+  {
+    "index": 36204,
+    "sanskrit": "abhito vārṣikam / sarve varṣāvidyutstanayitnusaṃnipāte / prasyandini / ūrdhvaṃ bhojanād utsave /",
+    "english": "In the opinion of all authorities, when rain, lightning, and thunder occur together, the suspension lasts for three days, as also when there is heavy rain. On a festive day vedic recitation is suspended after the meal.",
+    "morphology": "abhitas_abhitas_ vārṣikam_vārṣika_SNNe  / sarve_sarva_PNM varṣā_varṣā_Cp vidyut_vidyut_Cp stanayitnu_stanayitnu_Cp saṃnipāte_saṃnipāta_SLM  / prasyandini_prasyandin_SLM  / ūrdhvam_ūrdhvam_ bhojanāt_bhojana_SBNe utsave_utsava_SLM  /"
+  },
+  {
+    "index": 36205,
+    "sanskrit": "tato brahmā mahāsenaṃ prajāpatirathābravīt | abhigaccha mahādevaṃ pitaraṃ mātaraṃ prabho || 199 || anayorvīryasaṃyogāttavotpattistu prāthamī | evamastviti cāpyuktvā mahāseno maheśvaram || 200 ||",
+    "english": "199-203. Then Brahmā, the Prajāpati (‘Lord of created beings’) said to Mahāsena: “Go ahead to meet your father Mahādeva and your mother, O Lord. Your birth at the outset was due to the mingling of the semen virile of these two.”",
+    "morphology": "tatas_tatas_ brahmā_brahman_SNM mahāsenam_mahāsena_SAM prajāpatiḥ_prajāpati_SNM atha_atha_ abravīt_brū_S3ImIn  / abhigaccha_abhigam_SPr2Im mahādevam_mahādeva_SAM pitaram_pitṛ_SAM mātaram_mātṛ_SAF prabho_prabhu_SVM  / anayoḥ_idam_DuGM vī"
+  },
+  {
+    "index": 36206,
+    "sanskrit": "tathā eva pāṇḍavāḥ śūrāḥ dhṛṣṭadyumna śikhaṇḍinau draupadeyāḥ ca saṃkruddhāḥ abhyaghnan tāvakam balam evam eṣa kṣayaḥ vṛttaḥ pāṇḍavānām tatas tatas",
+    "english": "Similarly the Pandava heroes, Dhrishtadyumna and Shikhandi and the (five) sons of Draupadi, filled with rage, slaughtered thy host.",
+    "morphology": "tathā_tathā_U eva_eva_U pāṇḍavāḥ_pāṇḍava_PNM śūrāḥ_śūra_PNM dhṛṣṭadyumna_dhṛṣṭadyumna_MCp śikhaṇḍinau_śikhaṇḍin_DuNM draupadeyāḥ_draupadeya_PNM ca_ca_U saṃkruddhāḥ_saṃkrudh_PNPaPsM abhyaghnan_abhihan_PP"
+  },
+  {
+    "index": 36207,
+    "sanskrit": "yady api syāt tu satputro yady asatputro 'pi vā bhavet / nādhikaṃ daśamād dadyāc chūdrāputrāya dharmataḥ //",
+    "english": "Whether a Brāhmaṇa has a son or no son, he shall not, according to law, allot more than the tenth part to the son of the Śūdra wife.",
+    "morphology": "yadi_yadi_ api_api_ syāt_as_SPr3O tu_tu_ sat_sat_Cp putraḥ_putra_SNM yadi_yadi_ asat_asat_Cp putraḥ_putra_SNM api_api_ vā_vā_ bhavet_bhū_SPr3O  / na_na_ adhikam_adhika_SANe daśamāt_daśama_SBM dadyāt_dā_SPr3O śūdrā_śūdrā_Cp putrāya_putra"
+  }
+]

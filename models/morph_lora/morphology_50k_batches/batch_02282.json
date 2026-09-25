@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18248,
+    "sanskrit": "tasmādvedasyāpauruṣeya- tvavācoyuktirna yukte ti cet- tatra samādhānamabhidhīyate|",
+    "english": "Consequently the arguments in favour of the doctrine that the Veda had no personal author are inconclusive.\"",
+    "morphology": "tasmāt_tasmāt_ vedasya_veda_SGM apauruṣeya_apauruṣeya_Cp tva_tva_Cp vācoyuktiḥ_vācoyukti_SNF na_na_ ced_ced_ tatra_tatra_ samādhānam_samādhāna_SNNe abhidhīyate_abhidhā_SPr3InPv"
+  },
+  {
+    "index": 18249,
+    "sanskrit": "arjunaḥ uvāca bhavān eva mahā ṛṣīṇām vṛddhānām paryupāsitā",
+    "english": "And Arjuna said, 'Thou hast respectfully waited upon all the great and old Rishis.",
+    "morphology": "arjunaḥ_arjuna_SNM uvāca_vac_SPs3In bhavān_bhavat_SNM eva_eva_U mahā_mahat_Cp ṛṣīṇām_ṛṣi_PGM vṛddhānām_vṛddha_PGM paryupāsitā_paryupāsitṛ_SNM"
+  },
+  {
+    "index": 18250,
+    "sanskrit": "ahna āpūryamāṇapakṣam /",
+    "english": "from the Day, to the Bright Fortnight;",
+    "morphology": "ahnaḥ_ahar_SGNe āpūryamāṇapakṣam_āpūryamāṇapakṣa_SAM  /"
+  },
+  {
+    "index": 18251,
+    "sanskrit": "brahmovāca vaḍavāmukhe 'sya vasatiḥ samudre vai bhaviṣyati /",
+    "english": "Brahma said:—This boy will live in the mouth of the ocean resembling that of a mare.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In vaḍavāmukhe_vaḍabāmukha_SLNe asya_idam_SGM vasatiḥ_vasati_SNF samudre_samudra_SLM vai_vai_ bhaviṣyati_bhū_SFu3In  /"
+  },
+  {
+    "index": 18252,
+    "sanskrit": "nidhyanvādhiyācitāvakrītādhayo naṣṭāh sarvānaninditān puruṣāparādhena /",
+    "english": "So long as a person has a blameless reputation, he is not accountable for an open or sealed deposit, something borrowed or purchased, or a collateral for a loan that is lost without his fault.",
+    "morphology": "nidhi_nidhi_Cp anvādhi_anvādhi_Cp yācita_yāc_PaCp avakrīta_avakrī_PaCp ādhayaḥ_ādhi_PNM naṣṭāḥ_naś_PNPaM sarvān_sarva_PAM aninditān_anindita_PAM puruṣa_puruṣa_Cp aparādhena_aparādha_SIM  /"
+  },
+  {
+    "index": 18253,
+    "sanskrit": "tat saṃvatsaraṃ proṣya paryetyovāca katham aśakatarte maj jīvitum iti /",
+    "english": "and after having stayed away for a year, it came back and said‘How have you been able to live without me?’",
+    "morphology": "tat_tad_SNNe saṃvatsaram_saṃvatsara_SAM proṣya_pravas_Co paryetya_parye_Co uvāca_vac_SPs3In katham_katham_ aśakata_śak_PPs2InTh ṛte_ṛte_ mat_mad_SB jīvitum_jīv_In iti_iti_"
+  },
+  {
+    "index": 18254,
+    "sanskrit": "annamayaṃ hi somya mana āpomayaḥ prāṇastejomayī vāgiti yuktameva mayoktamityamiprāyaḥ /",
+    "english": "‘My dear, Mind consists of Food, Lifebreath consists of Water, and Speech consists of Fire’,thus that had asserted is right; such is the meaning",
+    "morphology": "anna_anna_Cp mayam_maya_SNNe hi_hi_ somya_somya_SVM manaḥ_manas_SNNe āpaḥ_āpas_Cp mayaḥ_maya_SNM prāṇaḥ_prāṇa_SNM tejaḥ_tejas_Cp mayī_maya_SNF vāc_vāc_SNF iti_iti_ yuktam_yuj_SNPaNe eva_eva_ mayā_mad_SI uktam_vac_SNPaNe iti_iti_ amipr"
+  },
+  {
+    "index": 18255,
+    "sanskrit": "tatra provāca saṃhṛṣṭastāranādena nādayan | diśaḥ sarvā mahādevo harṣa gadgadayā girā || 10 ||",
+    "english": "10. In words faltering with excessive delight, Mahādeva joyously rendered all the quarters resonant with his voice of high pitch and spoke:",
+    "morphology": "tatra_tatra_ provāca_pravac_SPs3In saṃhṛṣṭaḥ_saṃhṛṣ_SNPaM tāra_tāra_Cp nādena_nāda_SIM nādayan_nāday_SNPaPrM  / diśaḥ_diś_PAF sarvāḥ_sarva_PAF mahādevaḥ_mahādeva_SNM harṣa_harṣa_SVM gadgadayā_gadgada_SIF girā_gir_SIF"
+  }
+]

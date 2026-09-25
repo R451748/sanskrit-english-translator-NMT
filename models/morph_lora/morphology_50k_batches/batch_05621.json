@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44960,
+    "sanskrit": "namaḥ te puṇḍarīkākṣa punar punar ariṃdama tvām ekam āhuḥ puruṣam tvām āhuḥ sātvatām patim",
+    "english": "O thou of eyes like lotus leaves, I repeatedly bow to thee, O chastiser of foes! Thou hast been called the One only Being.",
+    "morphology": "namaḥ_namas_SNNe te_tvad_SD puṇḍarīkākṣa_puṇḍarīkākṣa_SVM punar_punar_U punar_punar_U ariṃdama_ariṃdama_SVM tvām_tvad_SA ekam_eka_SAM āhuḥ_ah_PPs3In puruṣam_puruṣa_SAM tvā_tvad_SA āhuḥ_ah_PPs3In sātvatām_sātvant_PGM pat"
+  },
+  {
+    "index": 44961,
+    "sanskrit": "karṇa śophaḥ bhavet pālau sa rujaḥ paripoṭavān",
+    "english": "A painful swelling attended with a burning sensation and suppuration, appearing in the lobe of the ear, owing to the friction and movements of a heavy ornament worn in the lobe, is originated from the vitiated condition of the blood and the Pitta.",
+    "morphology": "karṇa_karṇa_MCp śophaḥ_śopha_SNM bhavā_bhṛ_SPr3O"
+  },
+  {
+    "index": 44962,
+    "sanskrit": "kuryādyogyeṣu śiṣyeṣu nāyogyeṣu kadācana | rahasye yojayedvipraṃ parīkṣya viparītataḥ |",
+    "english": "b-a If the candidate of initiation be a follower of the Vedic tradition, he should be initiated only after making him pass through a practical examination contrary to his erstwhile practice concerning his amenability to the Saiva system of discipline and not otherwise.",
+    "morphology": "kuryāt_kṛ_SPr3O yogyeṣu_yogya_PLM śiṣyeṣu_śiṣya_PLM na_na_ ayogyeṣu_ayogya_PLM kadācana_kadācana_  / rahasye_rahasya_SLNe yojayet_yojay_SPr3O vipram_vipra_SAM parīkṣya_parīkṣ_Co"
+  },
+  {
+    "index": 44963,
+    "sanskrit": "balakṣaye vā sarvasainyānāṃ iti maulabalakālaḥ //",
+    "english": "or when he thinks that other kinds of force are wanting in strength, then is the time for taking the hereditary army",
+    "morphology": "bala_bala_Cp kṣaye_kṣaya_SLM vā_vā_ sarva_sarva_Cp sainyānām_sainya_PGNe iti_"
+  },
+  {
+    "index": 44964,
+    "sanskrit": "indra ūti bhiḥ bahulābhiḥ naḥ adya yāt śreṣṭhābhiḥ magha van śūra ji nva yaḥ naḥ dveṣṭi adharaḥ saḥ padīṣṭa yam oṁ iti dviṣmaḥ tam oṁ iti prāṇaḥ jahātu",
+    "english": "With various aids this day come to us, Indra, with best aids speed us, Maghavan, thou Hero. Let him who hatcth us fall headlong downward: him whom we hate let vital breath abandon.",
+    "morphology": "indra_indra_SVM ūti_ūti_FCp bhiḥ_bhiḥ_U bahulābhiḥ_bahula_PIF naḥ_mad_PA adya_adya_U yāt_yā_SPs3 śreṣṭhābhiḥ_śreṣṭha_PIF magha_magha_Cp van_vat_SVM śūra_śūra_SVM ji_ji_U nva_nv_SPr2Im yaḥ_yad_SNM naḥ_mad_PA dveṣṭi_dvi"
+  },
+  {
+    "index": 44965,
+    "sanskrit": "mama āśrama samīpe vai sameṣu maru dhanvasu samudraḥ vālukāpūrṇaḥ ujjānakaḥ iti smṛtaḥ",
+    "english": "Close to my asylum there is a sea of sands known by the name of Ujjalaka.",
+    "morphology": "mama_mad_SG āśrama_āśrama_MCp samīpe_samīpa_SLNe vai_vai_U sameṣu_sama_PLNe maru_maru_MCp dhanvasu_dhanvan_PLNe samudraḥ_samudra_SNM vālukāpūrṇaḥ_vālukāpūrṇa_SNM ujjānakaḥ_ujjānaka_SNM iti_iti_U smṛtaḥ_smṛ_SNPaPsM"
+  },
+  {
+    "index": 44966,
+    "sanskrit": "vyādha uvāca / anantaraṃ he bhagavanvitatākāśavāsinaḥ / kiṃbhaviṣyati me tatra dehe'dhaḥpātini kṣitau //",
+    "english": "The huntsman said:—Tell me Sir, what will then become of my soul in its aerial position, and of my body in its situation on earth.",
+    "morphology": "vyādhaḥ_vyādha_SNM uvāca_vac_SPs3In  / anantaram_anantaram_ he_he_ bhagavan_bhagavat_SVM vitata_vitan_PaCp ākāśa_ākāśa_Cp vāsinaḥ_vāsin_PNM  / kim_ka_SNNe bhaviṣyati_bhū_SFu3In me_mad_SG tatra_tatra_ dehe_deha_SLM adhaḥpātini_adhaḥp"
+  },
+  {
+    "index": 44967,
+    "sanskrit": "kaṭiṃ rādhā patiḥ pātu pīta vāsas tavodaramhṛdayaṃ padma nābhaś ca bhujau govardhanoddharaḥ",
+    "english": "May the Lord of Rādhā protect Your hips. May the Lord who wears yellow garments protect Your abdomen. May the Lord whose navel is a lotus flower protect Your chest. May the Lord who lifted Govardhana Hill protect Your arms.",
+    "morphology": "kaṭim_kaṭi_SAF rādhā_rādhā_SNF patiḥ_pati_SNM pātu_pā_SPr3Im pīta_pā_SPr2Im vāsaḥ_vāsas_SANe tava_tvad_SG udaram_udara_SANe hṛdayam_hṛdaya_SANe padma_padma_SVM nābhaḥ_nābhas_SANe"
+  }
+]

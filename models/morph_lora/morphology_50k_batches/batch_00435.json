@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3472,
+    "sanskrit": "evañca trividhaṃ śaila nītiśāstroditaṃ vacaḥ | kathyatāṃ triṣu madhye kiṃ bruve vākyaṃ tvadīpsitam ||",
+    "english": "34. O mountain, these are the three types of behaviour as mentioned in the treatises on polity. Tell me which type of behaviour shall I adopt to please you.",
+    "morphology": "evam_evam_ ca_ca_ trividham_trividha_SNNe śaila_śaila_SVM nīti_nīti_Cp śāstra_śāstra_Cp uditam_vad_SNPaNe vacaḥ_vacas_SNNe  / kathyatām_kathay_SPr3ImPv triṣu_tri_PLNe madhye_madhya_SLNe kim_ka_SANe bruve_brū_SPr1In vākyam_vākya_SANe tvad_tv"
+  },
+  {
+    "index": 3473,
+    "sanskrit": "avaśyam hi dhanam deyam śūdrā putrāya bhārata",
+    "english": "Some portion of the sire's wealth should without doubt, be given, O Bharata, to the son of the Sudra wife.",
+    "morphology": "avaśyam_avaśyam_U hi_hi_U dhanam_dhana_SNNe deyam_dā_SNNeGd"
+  },
+  {
+    "index": 3474,
+    "sanskrit": "parayuktenopacitrā pādākulakamityataḥ //",
+    "english": "If it gets mixed with the next i.e. the tenth it is Upacitrā. Pādākulaka is the next metre.",
+    "morphology": "para_para_Cp yuktena_yuj_SIPaM upacitrā_upacitra_SNF pādākulakam_pādākulaka_SNNe iti_iti_ atas_atas_"
+  },
+  {
+    "index": 3475,
+    "sanskrit": "etaddhi tapaso mūlaṃ yadetanmanasastyajet | tyakteṣveteṣu sarveṣu para brahmamayo bhavet || 31 ||",
+    "english": "31. This indeed is the root of Tapas that it is eschewed from the mind. When all these base qualities are eschewed, one shall become identical with Brahman.",
+    "morphology": "etat_etad_SNNe hi_hi_ tapasaḥ_tapas_SGNe mūlam_mūla_SNNe yat_yad_SANe etat_etad_SANe manasaḥ_manas_SGNe tyajet_tyaj_SPr3O  / tyakteṣu_tyaj_PLPaM eteṣu_etad_PLM sarveṣu_sarva_PLM para_para_SVM brahma_brahman_Cp mayaḥ_maya_SNM bhavet_bhū_SPr3O"
+  },
+  {
+    "index": 3476,
+    "sanskrit": "na ca tṣā-bahulo bhavati |",
+    "english": "One is never greatly thirsty.",
+    "morphology": "na_na_ ca_ca_ tﾑ"
+  },
+  {
+    "index": 3477,
+    "sanskrit": "tenāpi gandhaviṣayaṃ prati caṅkramati /",
+    "english": "as it is through this that it moves over to objects of olfactory perception",
+    "morphology": "tena_tad_SIM api_api_ gandha_gandha_Cp viṣayam_viṣaya_SAM prati_prati_ caṅkramati_caṅkram_SPr3In  /"
+  },
+  {
+    "index": 3478,
+    "sanskrit": "skaṃda uvāca | havyaṃ kavyaṃ ca yatkiṃciddvijā hoṣyaṃti pāvake || 212 ||",
+    "english": "212-215. Whatever Brāhmaṇas offer into the sacred fire such as Havya and Kavya, they will offer them with your name. Your residence shall be along with him forever.",
+    "morphology": "skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / havyam_havya_SANe kavyam_kavya_SANe ca_ca_ yat_yad_SANe kiṃcid_kaścit_SANe dvijāḥ_dvija_PNM hoṣyanti_hu_PFu3In pāvake_pāvaka_SLM  /"
+  },
+  {
+    "index": 3479,
+    "sanskrit": "niṣṭhuram tyakta dharmāṇam ākrośana parāyaṇam yat sabhāyām tvayā rājñaḥ dhṛtarāṣṭrasya śṛṇvataḥ",
+    "english": "In the assembly (for the Kurus) and in the hearing of king Dhritarashtra, thou hadst, with thy harsh speeches, angered king Yudhishthira.",
+    "morphology": "niṣṭhuram_niṣṭhura_SAM tyakta_tyaj_PaPsCp dharmāṇam_dharman_SAM ākrośana_ākrośana_NeCp parāyaṇam_parāyaṇa_SAM yat_yad_SNNe sabhāyām_sabhā_SLF tvayā_tvad_SI rājñaḥ_rājan_SGM dhṛtarāṣṭrasya_dhṛtarāṣṭra_SGM śṛṇ"
+  }
+]

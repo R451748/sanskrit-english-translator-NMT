@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14712,
+    "sanskrit": "devadattādiśabdeṣu spaṣṭo bhedaḥ pratīyate //",
+    "english": "but in the case of such words as ‘Devadatta’, the difference is clearly perceived.",
+    "morphology": "devadatta_devadatta_Cp ādi_ādi_Cp śabdeṣu_śabda_PLM spaṣṭaḥ_spaṣṭa_SNM"
+  },
+  {
+    "index": 14713,
+    "sanskrit": "satīrthyāś caikaguravaḥ sabhyāḥ sāmājikās tathā // sabhāsadaḥ sabhāstārā ṛtvijo yājakāś ca te /",
+    "english": "Those having the same preceptors are called satīrthyāḥ . The members of an assembly are called sabhyas, sāmājikas, sabhāsada and sabhāstāras.",
+    "morphology": "sa_sa_ tīrthyāḥ_tīrthya_PNM ca_ca_ eka_eka_Cp guravaḥ_guru_PNM sabhyāḥ_sabhya_PNM sāmājikāḥ_sāmājika_PNM tathā_tathā_  // sabhāsadaḥ_sabhāsad_PNM sabhāstārāḥ_sabhāstāra_PNM ṛtvijaḥ_ṛtvij_PNM yājakāḥ_yājaka_PNM ca_ca"
+  },
+  {
+    "index": 14714,
+    "sanskrit": "athāgatastadā rāhustuṣṭāva supraṇamya tam | śaṃkaraṃ sakalādhīśaṃ vāgbhiriṣṭābhirādarāt ||",
+    "english": "14. Then Rāhu too, came there. He bowed to and eulogised lord Śiva with reverence by means of sweet words.",
+    "morphology": "atha_atha_ āgataḥ_āgam_SNPaM tadā_tadā_ rāhuḥ_rāhu_SNM tuṣṭāva_stu_SPs3In su_su_ praṇamya_praṇam_Co tam_tad_SAM  / śaṃkaram_śaṃkara_SAM sakala_sakala_Cp adhīśam_adhīśa_SAM vāgbhiḥ_vāc_PIF iṣṭābhiḥ_iṣ_PIPaF ādarāt"
+  },
+  {
+    "index": 14715,
+    "sanskrit": "manorathāḥ mahā rāja ye tatra āsan yudhiṣṭhira tān ime bharata śreṣṭha prāpnuvantu mahā rathāḥ",
+    "english": "Wielding the rod of chastisement, O king, is the duty of kings and not the shaving of the head.'\" SECTION XXIV of Kunti: 'Let these great car-warriors of abundant energy of mind, O monarch, let these brothers of thine, O Yudhishthira, the chief of the Bharatas, obtain those wishes of theirs that they cherished while dwelling in the woods.",
+    "morphology": "manorathāḥ_manoratha_PNM mahā_mahat_Cp rāja_rāja_SVM ye_yad_PNM tatra_tatra_U āsan_as_PPs3In yudhiṣṭhira_yudhiṣṭhira_SVM tān_tad_PAM ime_idam_PNM bharata_bharata_MCp śreṣṭha_śreṣṭha_SVM prāpnuvantu_prāp_PPr3Im"
+  },
+  {
+    "index": 14716,
+    "sanskrit": "svataḥ sarvamidaṃ jātamanyonyaṃ hetutāṃ gatam / anyonyamabhinaśyattatsvata eva vilīyate //",
+    "english": "All this is derived from the one self-existence, and have become the reciprocal causes of one another, by their mutual transformations; and again they are destroyed of themselves by their mutual destructiveness of one another.",
+    "morphology": "svatas_svatas_ sarvam_sarva_SNNe idam_idam_SNNe jātam_jan_SNPaNe anyonyam_anyonya_SNNe hetutām_hetutā_SAF gatam_gam_SNPaNe  / anyonyam_anyonya_SANe abhinaśyat_abhinaś_SNPaPrNe tat_tad_SNNe svatas_svatas_ eva_eva_ vilīyate_vilī_SPr3In  /"
+  },
+  {
+    "index": 14717,
+    "sanskrit": "yasya yajña śateṣu āsan prayuta ayutaśas dvijāḥ tattva jñāna artha saṃpannāḥ yajvānaḥ putra pautriṇaḥ yaḥ imām vasu saṃpūrṇām vasudhām vasudhā adhipaḥ",
+    "english": "Brahmanas, vested in knowledge of Truth, devoted to the performance of sacrifices, blessed with children and children's children and numbering myriads upon myriads, were present at his hundreds of sacrifices.",
+    "morphology": "yasya_yad_SGM yajña_yajña_MCp śateṣu_śata_PLNe āsan_as_PPs3In prayuta_prayuta_NeCp ayutaśas_ayutaśas_U dvijāḥ_dvija_PNM tattva_tattva_NeCp jñāna_jñāna_NeCp artha_artha_MCp saṃpannāḥ_sampad_PNPaPsM yajvānaḥ_yajvan_PNM putra_putra_MCp"
+  },
+  {
+    "index": 14718,
+    "sanskrit": "kaupīna ācchādanam yāvat tāvat icchet ca cīvaram",
+    "english": "Clad in the scantiest robes, he may yet regard himself as attired in the richest vestments.",
+    "morphology": "kaupīna_kaupīna_NeCp"
+  },
+  {
+    "index": 14719,
+    "sanskrit": "sārathim ca tribhiḥ bāṇaiḥ ājaghāna yata vrataḥ",
+    "english": "Of rigid vows, Bhishma also struck his (adversary's) charioteer.",
+    "morphology": "sārathim_sārathi_SAM ca_ca_U tribhiḥ_tri_PIM bāṇaiḥ_bāṇa_PIM ājaghāna_āhan_SPs3In"
+  }
+]

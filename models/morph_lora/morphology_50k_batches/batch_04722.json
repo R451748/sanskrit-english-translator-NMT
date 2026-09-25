@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37768,
+    "sanskrit": "brahmovāca | tatheti coktvāgama āśu hi tvaṃ sadaiva taiśśailasutādibhiśca | tatratyakṛtyaṃ suvidhāya bhuktvā mahāmanāstvaṃ śivasa nnidhānam ||",
+    "english": "15. You accepted the suggestion noble-heartedly and performed the duties there. Then accompanied by the sons of the mountain and others you went to Śiva’s presence.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / tathā_tathā_ iti_iti_ ca_ca_ uktvā_vac_Co āgamaḥ_āgam_SPs2InTh āśu_āśu_ hi_hi_ tvam_tvad_SN sadā_sadā_ eva_eva_ taiḥ_tad_PIM śailasuta_śailasuta_Cp ādibhiḥ_ādi_PIM ca_ca_  / tatratya_tatratya_Cp"
+  },
+  {
+    "index": 37769,
+    "sanskrit": "na kṣodhuko bhavati nāsya rudraḥ paśūn abhi manyate vajro vai yajñaḥ kṣut khalu vai manuṣyasya bhrātṛvyas |",
+    "english": "he is not hungry and Rudra does not plot evil against his cattle. The sacrificer is a bolt, the enemy of man is hunger;",
+    "morphology": "na_na_ kṣodhukaḥ_kṣodhuka_SNM bhavati_bhū_SPr3In na_na_ asya_idam_SGM rudraḥ_rudra_SNM paśūn_paśu_PAM abhi_abhi_ manyate_man_SPr3In vajraḥ_vajra_SNM vai_vai_ yajñaḥ_yajña_SNM kṣudh_kṣudh_SNF khalu_khalu_ vai_vai_ manuṣyasya_manuṣy"
+  },
+  {
+    "index": 37770,
+    "sanskrit": "parijñāya parityāgo vāsanānāṃ ya uttamaḥ / sattāsāmānyarūpatvaṃ tatkaivalyapadaṃ viduḥ //",
+    "english": "A man is then only said to have reached to his state of solity kaivalya, when he understands the community of all existence in the unity, and forsakes his desire for this thing and that.",
+    "morphology": "parijñāya_parijñā_Co parityāgaḥ_parityāga_SNM vāsanānām_vāsanā_PGF yaḥ_yad_SNM uttamaḥ_uttama_SNM  / sattā_sattā_Cp sāmānya_sāmānya_Cp rūpa_rūpa_Cp tvam_tva_SANe tat_tad_SANe kaivalya_kaivalya_Cp padam_pada_SANe viduḥ_vid_PPs3In "
+  },
+  {
+    "index": 37771,
+    "sanskrit": "bhāvābhāvayoś ca sāhacaryaṃ tayor asty eva /",
+    "english": "Thus the relation of invariable concomitance subsists between them, i.e., the pair of the two opposite terms.",
+    "morphology": "bhāva_bhāva_Cp abhāvayoḥ_abhāva_DuGM ca_ca_ sāhacaryam_sāhacarya_SNNe tayoḥ_tad_DuGM asti_as_SPr3In eva_eva_"
+  },
+  {
+    "index": 37772,
+    "sanskrit": "svato vākyaṃ pramāṇaṃ ca doṣābhāvopalakṣitam //",
+    "english": "tThus the validity belongs to the word itself, and is indicated by the absence of the defects.” (2889-2890)",
+    "morphology": "svatas_svatas_ vākyam_vākya_SNNe pramāṇam_pramāṇa_SNNe ca_ca_ doṣa_doṣa_Cp abhāva_abhāva_Cp upalakṣitam_upalakṣay_SNPaNe  /"
+  },
+  {
+    "index": 37773,
+    "sanskrit": "dvitīye 'hni ca te vīrā gṛhātkṣatturvinirgatāḥ / babhramurnagare tatra catvaro 'pi sakautukāḥ //",
+    "english": "And the next day the four heroes went out from the house of the doorkeeper and roamed about in the town out of curiosity.",
+    "morphology": "dvitīye_dvitīya_SLNe ahni_ahar_SLNe ca_ca_ te_tad_PNM vīrāḥ_vīra_PNM gṛhāt_gṛha_SBNe kṣattuḥ_kṣattṛ_SGM vinirgatāḥ_vinirgam_PNPaM  / babhramuḥ_bhram_PPs3In nagare_nagara_SLNe tatra_tatra_ catvaraḥ_catvara_SNM api_api_ sa_sa_ kaut"
+  },
+  {
+    "index": 37774,
+    "sanskrit": "tasmāc chrāstravihitāni karmāntarāṇy evaitāni /",
+    "english": "From all this it is clear that the rites referred to here are those that have been prescribed in the scriptures, as entirely apart from the rites relating to the Agnihotra, &c.",
+    "morphology": "tasmāt_tasmāt_ śrāstra_śrāstra_Cp vihitāni_vidhā_PNPaNe karmāntarāṇi_karmāntara_PNNe eva_eva_ etāni_etad_PNNe  /"
+  },
+  {
+    "index": 37775,
+    "sanskrit": "maṃdāṃdolitakarpūra kadalīdala saṃjñayā | viśramāya śramāpannānāhūyaṃtamivādhvagān || 13 ||",
+    "english": "13. It appears (as if) to beckon the weary travellers for rest through the gestures of the gently moving leaves of Karpūrakadalī (a variety of plantain).",
+    "morphology": "manda_manda_Cp āṃdolita_āndolay_PaPsCp karpūra_karpūra_Cp kadala_kadala_Cp dala_dala_Cp saṃjñayā_saṃjñā_SIF  / viśramāya_viśrama_SDM śrama_śrama_Cp āpannān_āpad_PAPaM āhūyantam_āhvā_SAPaPrM iva_iva_ adhvagān_adhvaga_PAM"
+  }
+]

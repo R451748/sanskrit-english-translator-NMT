@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22016,
+    "sanskrit": "dīptam agnim juhvati ca gurūṇām vacane sthitāḥ",
+    "english": "They pour libations on the blazing sacrificial fire (every day) and 'are obedient to the behests of their preceptors and seniors.",
+    "morphology": "dīptam_dīp_SAPaPsM"
+  },
+  {
+    "index": 22017,
+    "sanskrit": "jalaukobhiḥ haret ca asṛk pakvam ca ā paṭhya buddhimān kṣīravṛkṣa kaṣāyeṇa prakṣālya audaka jena vā",
+    "english": "An intelligent surgeon should (lance a suppurated abscess and) wash the incidental ulcer with a decoction of Kshira-Vriksha or of aquatic bulbs.",
+    "morphology": "jalaukobhiḥ_jalaukas_PIM haret_hṛ_SPr3O ca_ca_U asṛk_asṛj_SANe pakvam_pakva_SANe ca_ca_U ā_ā_U paṭhya_paṭh_Co buddhimān_buddhimat_SNM kṣīravṛkṣa_kṣīravṛkṣa_MCp kaṣāyeṇa_kaṣāya_SIM prakṣālya_prakṣālay_Co audaka_aud"
+  },
+  {
+    "index": 22018,
+    "sanskrit": "vyādhyādiyoge 'py eṣu dayā na kartavyā /",
+    "english": "No sympathy shall be extended to them, even when struck by disease or other calamities.",
+    "morphology": "vyādhi_vyādhi_Cp ādi_ādi_Cp yoge_yoga_SLM api_api_ eṣu_idam_PLM"
+  },
+  {
+    "index": 22019,
+    "sanskrit": "teṣām ūrdhvaṃ pitṛto dāyavibhāgaḥ pitṛdravyāṇām //",
+    "english": "After their time, division of ancestral property among descendants from the same ancestor shall take place, calculating per sterpes according to fathers",
+    "morphology": "teṣām_tad_PGM ūrdhvam_ūrdhvam_ pitṛtaḥ_pitṛ_SBM dāya_dāya_Cp vibhāgaḥ_vibhāga_SNM pitṛ_pitṛ_Cp dravyāṇām_dravya_PGNe  /"
+  },
+  {
+    "index": 22020,
+    "sanskrit": "ādher mokṣaṇakālo dviguṇībhūtaṃ dhanam / tasyātikramas tasminn api kāle 'mokṣaṇam / upanidhir api yāvatā kālena nāsyāvasaro bhavati, madīyam evaitad bhoktāham iti, sa pratyāharaṇakālaḥ /",
+    "english": "The time for the redeeming of the pledge is just when the principal, with accrued interest, has become double; and there is \"lapse\" of this time, if the thing is not redeemed then. For the deposit also, the right time to recover it is before the other party has occasion to think that the thing belongs to him by reason of his having the use of it.",
+    "morphology": "ādheḥ_ādhi_SGM mokṣaṇa_mokṣaṇa_Cp kālaḥ_kāla_SNM dviguṇībhūtam_dviguṇībhū_SNPaNe dhanam_dhana_SNNe  / tasya_tad_SGM atikramaḥ_atikrama_SNM tasmin_tad_SLM api_api_ kāle_kāla_SLM amokṣaṇam_amokṣaṇa_SNNe  / upanidhiḥ_upan"
+  },
+  {
+    "index": 22021,
+    "sanskrit": "sa dīpavāsanāyogādbahūndīpānpradīpya vai | alakāyāḥ patirabhūdratnadīpaśikhāśrayaḥ ||",
+    "english": "61. The impression of lamps persisted in his mind. He caused many lamps to be lighted. Finally he became the lord of Alakā[4] with gem-set lamps to his credit.",
+    "morphology": "sa_tad_SNM dīpa_dīpa_Cp vāsanā_vāsanā_Cp yogāt_yoga_SBM bahūn_bahu_PAM dīpān_dīpa_PAM pradīpya_pradīpay_Co vai_vai_  / alakāyāḥ_alakā_SGF patiḥ_pati_SNM"
+  },
+  {
+    "index": 22022,
+    "sanskrit": "tasya cārthakriyābhyāsajñānād anyan na lakṣaṇam //",
+    "english": "and there is no feature of it except the repeated cognition of effective action.",
+    "morphology": "tasya_tad_SGM ca_ca_ artha_artha_Cp kriyā_kriyā_Cp abhyāsa_abhyāsa_Cp jñānāt_jñāna_SBNe anyat_anya_SNNe na_na_ lakṣaṇam_lakṣaṇa_SNNe  /"
+  },
+  {
+    "index": 22023,
+    "sanskrit": "anagheti saṃbodhanam niṣkalmaṣatayā stutyartham /",
+    "english": "\"anagha,\" \"sinless one,\" is in the Case of Address; denoting freedom from sin, which is meant to be a praise of the teacher.",
+    "morphology": "anagha_anagha_SVM iti_iti_ saṃbodhanam_sambodhana_SNNe niṣkalmaṣa_niṣkalmaṣa_Cp tayā_tā_SIF stuti_stuti_Cp artham_artha_SAM"
+  }
+]

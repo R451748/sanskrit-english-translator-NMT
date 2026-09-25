@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39272,
+    "sanskrit": "brahmaṇo duhitā nityaṃ satyaṃ paramamāśritā | kāśyapī gotrataścaiva nāmato viśrutā tulā || 24 ||",
+    "english": "24-25. “It is the daughter of Brahma resorting permanently to the greatest truth. It is Kāśyapī by lineage and is well-known by the name Tulā.",
+    "morphology": "brahmaṇaḥ_brahman_SGM duhitā_duhitṛ_SNF nityam_nityam_ satyam_satya_SANe paramam_parama_SANe āśritā_āśri_SNPaF  / kāśyapī_kāśyapī_SNF gotrataḥ_gotra_SBNe ca_ca_ eva_eva_ nāmataḥ_nāman_SBNe viśrutā_viśru_SNPaF tulā_tulā_SNF "
+  },
+  {
+    "index": 39273,
+    "sanskrit": "loka nistāraṇāya eva nirmitāḥ kapilāḥ svayam",
+    "english": "They live, dissociated from their origin, in consequence of their acts.",
+    "morphology": "loka_loka_MCp nistāraṇāya_nistāraṇa_SDNe eva_eva_U nirmitāḥ_nirmā_PNPaPsF"
+  },
+  {
+    "index": 39274,
+    "sanskrit": "(yātavyaamitrayor abhigrahacintāḥ kṣayalobhavirāgahetavaḥ prakṛtīnāṃ sāmavāyikaviparimarśah)",
+    "english": "CONSIDERATIONS ABOUT MARCHING AGAINST AN ASSAILABLE ENEMY AND A STRONG ENEMY; CAUSES LEADING TO THE DWINDLING, GREED, AND DISLOYALTY OF THE ARMY; AND CONSIDERATIONS ABOUT THE COMBINATION OF POWERS",
+    "morphology": "__yā_GdCp amitrayoḥ_amitra_DuGM __abhigraha_U __cintā_U __kṣaya_U __lobha_U __virāga_U __hetu_U"
+  },
+  {
+    "index": 39275,
+    "sanskrit": "taṃ ve prasahate māro vāto rukkham va dubbalaṃ |",
+    "english": "Māra surely overthrows that one, like wind overthrows a weak tree.",
+    "morphology": "tam_tad_SAM vai_vai_ prasahate_prasah_SPr3In māraḥ_māra_SNM"
+  },
+  {
+    "index": 39276,
+    "sanskrit": "vinā maṃtraiśca yaddattaṃ na tadgṛhṇanti te'malāḥ | śrutirapyatra prāhedaṃ maṃtrāṇāṃ viṣaye nṛpa || 162 ||",
+    "english": "162. Those beings bereft of impurities do not accept anything offered without Mantras. Even Śruti says this, O king, in the matter of the Mantras.",
+    "morphology": "vinā_vinā_ maṃtraiḥ_mantra_PIM ca_ca_ yat_yad_SNNe dattam_dā_SNPaNe na_na_ tat_tad_SANe gṛhṇanti_grah_PPr3In te_tad_PNM amalāḥ_amala_PNM  / śrutiḥ_śruti_SNF api_api_ atra_atra_ prāha_prāh_SPs3In idam_idam_SANe maṃtrāṇām_mantra_PGM"
+  },
+  {
+    "index": 39277,
+    "sanskrit": "tatra sa brāhmaṇo yāvadgaṃgātoyasamudbhavam | gaṃḍūṣaṃ kurute vaktre tāvacchuddho babhūva saḥ | udarādakhilaṃ toyaṃ niṣkrāṃtaṃ dvijasattamāḥ || 41 ||",
+    "english": "There, as soon as the Brāhmaṇa took a mouthful of the Gaṅgā water, he became purified. The entire water came out of the belly, O excellent Brāhmaṇas, and he entered the splendid waters.",
+    "morphology": "tatra_tatra_ sa_tad_SNM brāhmaṇaḥ_brāhmaṇa_SNM yāvat_yāvat_ gaṃgā_gaṅgā_Cp toya_toya_Cp samudbhavam_samudbhava_SNNe  / gaṃḍūṣam_gaṇḍūṣa_SANe kurute_kṛ_SPr3In vaktre_vaktra_SLNe tāvat_tāvat_ śuddhaḥ_śudh_SNPaM babhūva_"
+  },
+  {
+    "index": 39278,
+    "sanskrit": "ābhātameva trailokyaṃ yathā svapne na kiṃcana / śūnyameva bhavedevamevaṃ jāgrati nirvapuḥ //",
+    "english": "The triple world is only a reflection, and like the sight of something in dream, it is but an airy nothing; it is the empty air which becomes thus (diversified), and is entirely bodiless, though seeming to be embodied in our waking state.",
+    "morphology": "ābhātam_ābhā_SNPaNe eva_eva_ trailokyam_trailokya_SNNe yathā_yathā_ svapne_svapna_SLM na_na_ kiṃcana_kaścana_SNNe  / śūnyam_śūnya_SNNe eva_eva_ bhavet_bhū_SPr3O evam_evam_ evam_evam_ jāgrati_jāgṛ_PPr3In nirvapuḥ_nirvapus_SNNe"
+  },
+  {
+    "index": 39279,
+    "sanskrit": "caitraśuklacaturdaśyāṃ tatra yo jāgṛyānniśi | pūjāstutikathābhiśca sa prāpnotīpsitaṃ phalam || 12 ||",
+    "english": "12. He who keeps awake at night on the fourteenth lunar day in the bright half of the month of Caitra doing adoration, singing eulogy and hearing/telling devotional stories gets the desired fruit.",
+    "morphology": "caitra_caitra_Cp śukla_śukla_Cp caturdaśyām_caturdaśī_SLF tatra_tatra_ yaḥ_yad_SNM jāgṛyāt_jāgṛ_SPr3O niśi_niś_SLF  / pūjā_pūjā_Cp stuti_stuti_Cp kathābhiḥ_kathā_PIF ca_ca_ saḥ_tad_SNM prāpnoti_prāp_SPr3In īpsitam_īpsay_SAPaN"
+  }
+]

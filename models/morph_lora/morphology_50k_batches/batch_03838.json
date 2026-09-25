@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30696,
+    "sanskrit": "namaḥ ghuṣyāya ghoṣāya namaḥ kalakalāya ca",
+    "english": "Salutations to thee that deservest to, be praised in sounds, that art of the form of sorrow, and that art of the form of deep and confused noise.",
+    "morphology": "namaḥ_namas_SNNe"
+  },
+  {
+    "index": 30697,
+    "sanskrit": "mithyāsaṃhṛtaḥ, sāmantaaṭavīhṛta iti kośasaṅgavargaḥ // pīḍanānām anutpattāv utpannānāṃ ca vāraṇe /",
+    "english": "[Thus ends Chapter , The Group of Molestations, the Group of Obstructions, and the Group of Financial Troubles in BookVIII, Concerning Vices and Calamities, of the Arthasástra of Kautilya",
+    "morphology": "mithyā_mithyā_ saṃhṛtaḥ_saṃhṛ_SNPaM sāmanta_sāmanta_Cp aṭavī_aṭavī_Cp hṛtaḥ_hṛ_SNPaM iti_iti_ kośa_kośa_Cp saṅga_saṅga_Cp vargaḥ_varga_SNM  // pīḍanānām_pīḍana_PGNe anutpattau_anutpatti_SLF utpannānām_utpad_PGPaN"
+  },
+  {
+    "index": 30698,
+    "sanskrit": "prapañco'yaṃ mahābhāga dṛśyate jāgate bhrame / paramārthena te prājña nāsti mitraṃ na bāndhavāḥ //",
+    "english": "It is all but a delusion, O my fortunate boy, that is presented before us in this illusive world; while in truth, O my sensible child, we have nobody, whom we may call to be our real friends or positive enemies in this world.",
+    "morphology": "prapañcaḥ_prapañca_SNM ayam_idam_SNM mahābhāga_mahābhāga_SVM dṛśyate_dṛś_SPr3InPv jāgate_jāgata_SLM bhrame_bhrama_SLM  / parama_parama_Cp arthena_artha_SIM te_tvad_SG prājña_prājña_SVM na_na_ asti_as_SPr3In mitram_mitra_SNNe na_na_ bān"
+  },
+  {
+    "index": 30699,
+    "sanskrit": "sā 'pi hi viṣayabhedād eva bhidyate // dūrād dhi vastusāmānyaṃ dharmamātropalakṣitam /",
+    "english": "This admission also points to the acceptance of the hypothesis that the relation of inherence is perceived under certain circum- stances.",
+    "morphology": "sā_tad_SNF api_api_ hi_hi_ viṣaya_viṣaya_Cp bhedāt_bheda_SBM eva_eva_ bhidyate_bhid_SPr3InPv  // dūrāt_dūrāt_ hi_hi_ vastu_vastu_Cp sāmānyam_sāmānya_SNNe dharma_dharma_Cp mātra_mātra_Cp upalakṣitam_upalakṣay_SNPaNe"
+  },
+  {
+    "index": 30700,
+    "sanskrit": "agastyacaritāmāśāmanāśāsyajayo yayau // Ragh(K)_4.46 //",
+    "english": "sought after, marched towards the quarter resorted to by Agastya (the south).",
+    "morphology": "agastya_agastya_Cp caritām_car_SAPaF āśām_āśā_SAF anāśāsya_anāśāsya_Cp jayaḥ_jaya_SNM yayau_yā_SPs3In  // Ragh_SVM 555"
+  },
+  {
+    "index": 30701,
+    "sanskrit": "taiḥ eva avyāpannaiḥ adhas madhya ūrdhva sanniviṣṭaiḥ śarīram idam dhāryate agāram iva sthūṇābhiḥ tisṛbhiḥ atas ca tri sthūṇam āhuḥ eke |",
+    "english": "These fundamental and vital humours, occupying respectively the lower, middle, and upper parts of the body, maintain its integrity. The human body is supported by the three fundamental humours in the same way as a dwelling house is propped up by three supporting poles or stays; from which fact, the body is called the three-supported one (Tristhuna) by certain authorities.",
+    "morphology": "taiḥ_tad_PIM eva_eva_U avyāpannaiḥ_avyāpanna_PIM adhas_adhas_U madhya_madhya_NeCp ūrdhva_ūrdhva_Cp sanniviṣṭaiḥ_saṃniviś_PIPaPsM śarīram_śarīra_SNNe idam_idam_SNNe dhāryate_dhāray_SPr3InPv agāram_agāra_SNNe iva_iva_U sthūṇābhi"
+  },
+  {
+    "index": 30702,
+    "sanskrit": "āyurdā agne 'sy āyur me | dehi varcodā agne 'si varco me dehi tanūpā agne 'si tanuvam me pāhi |",
+    "english": "Thou art giver of radiance, O Agni; give me radiance. Thou art guardian of the body, O Agni; guard my body.",
+    "morphology": "āyuḥ_āyus_Cp dāḥ_dā_SNM agne_agni_SVM asi_as_SPr2In āyuḥ_āyus_SANe me_mad_SD  / dehi_dā_SPr2Im varcaḥ_varcas_Cp dāḥ_dā_SNM agne_agni_SVM asi_as_SPr2In varcaḥ_varcas_SANe me_mad_SD dehi_dā_SPr2Im tanū_tanū_Cp pāḥ_pā_SNM agne_agni"
+  },
+  {
+    "index": 30703,
+    "sanskrit": "tatra me śubhadāṃ mūrtiṃ mune tattīrthasaṃjñikām | saṃpūjya śraddhayā dhīmānmama loke mahīyate || 81 ||",
+    "english": "181. There, O sage, the intelligent devotee who worships my auspicious image named after the Tīrtha (i. e. Gaṅgā-Keśaveśvara) with great faith, is honoured in my world.",
+    "morphology": "tatra_tatra_ me_mad_SG śubha_śubha_Cp dām_da_SAF mūrtim_mūrti_SAF mune_muni_SVM tad_tad_Cp tīrtha_tīrtha_Cp saṃjñakām_saṃjñaka_SAF  / saṃpūjya_sampūjay_Co śraddhayā_śraddhā_SIF dhīmān_dhīmat_SNM mama_mad_SG loke_loka_SLM mahīyate_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45568,
+    "sanskrit": "aṃśumān evam uktaḥ tu sagareṇa mahātmanā jagāma duḥkhāt tam deśam yatra vai dāritā mahī",
+    "english": "Therefore, O grandson! harassed with grief and confounded with the obstruction to my religious rites as I am, thou must bring back the horse and deliver me from hell.' Thus addressed by the magnanimous Sagara, Ansuman went with sorrow to that spot where the earth had been excavated.",
+    "morphology": "aṃśumān_aṃśumant_SNM evam_evam_U uktaḥ_vac_SNPaPsM tu_tu_U sagareṇa_sagara_SIM mahātmanā_mahātman_SIM jagāma_gam_SPs3In duḥkhāt_duḥkha_SBNe tam_tad_SAM deśam_deśa_SAM yatra_yatra_U vai_vai_U dāritā_dāray_SNPaPsF mahī_mahī_SNF"
+  },
+  {
+    "index": 45569,
+    "sanskrit": "dvau sūryau nāgalokasthau madhye dvau gaganasya ca | ityete dvādaśādityāstapante sarvato diśam || 10 ||",
+    "english": "10. Two Suns were stationed in Nāgaloka and two in the middle of the sky. Thus twelve Ādityas began to blaze in all the quarters.",
+    "morphology": "dvau_dvi_DuNM sūryau_sūrya_DuNM nāga_nāga_Cp loka_loka_Cp sthau_stha_DuNM madhye_madhya_SLNe dvau_dvi_DuNM gaganasya_gagana_SGNe ca_ca_  / iti_iti_ ete_etad_PNM dvādaśa_dvādaśan_Cp ādityāḥ_āditya_PNM tapante_tap_PPr3In sarvatas_sarvatas_ diśa"
+  },
+  {
+    "index": 45570,
+    "sanskrit": "śarkarā ikṣu rasa kṣīra ghṛta yuktāḥ su śītalāḥ kṣīravṛkṣa kaṣāya āḍhyāḥ vastayaḥ śoṇite hitāḥ",
+    "english": "A Vasti composed of a copious quantity of the decoction of Kshira-Vrikshas mixed with (an adequate quantity of) the expressed juice of the sugar-cane, milk, sugar, and clarified butter should be applied in a cold state in cases marked by a vitiated condition of the blood of the system.",
+    "morphology": "śarkarā_śarkarā_FCp ikṣu_ikṣu_MCp rasa_rasa_MCp kṣīra_kṣīra_NeCp ghṛta_ghṛta_NeCp yuktāḥ_yuj_PNPaPsM su_su_U śītalāḥ_śītala_PNM kṣīravṛkṣa_kṣīravṛkṣa_MCp kaṣāya_kaṣāya_MCp āḍhyāḥ_āḍhya_PNM vastayaḥ"
+  },
+  {
+    "index": 45571,
+    "sanskrit": "tābhir jijñāsitānarthān sarvān jānanti mānavāḥ /",
+    "english": "and with the help of these, men come to know all that they want to know;",
+    "morphology": "tābhiḥ_tad_PIF jijñāsita_jijñās_PaCp anarthān_anartha_PAM sarvān_sarva_PAM jānanti_jñā_PPr3In mānavāḥ_mānava_PNM"
+  },
+  {
+    "index": 45572,
+    "sanskrit": "mattaḥ jagat jaṅgamam sthāvaram ca sarve vedāḥ sa rahasyāḥ hi putra",
+    "english": "From me have flowed the universe with all its mobile and immobile creatures, and all the Vedas, O son, with their mysteries.",
+    "morphology": "mattaḥ_mad_SBM jagat_jagant_SNNe jaṅgamam_jaṅgama_SNNe sthāvaram_sthāvara_SNNe ca_ca_U sarve_sarva_PNM vedāḥ_veda_PNM sa_sa_U rahasyāḥ_rahasya_PNM hi_hi_U"
+  },
+  {
+    "index": 45573,
+    "sanskrit": "prakṛtiḥ sarva bhūtānām bhūmiḥ vai śāśvatī matā",
+    "english": "The earth is the original source of all creatures (for it is from earth that all creatures derive their sustenance).",
+    "morphology": "prakṛtiḥ_prakṛti_SNF sarva_sarva_Cp bhūtānām_bhūta_PGNe bhūmiḥ_bhūmi_SNF vai_vai_U śāśvatī_śāśvata_SNF matā_man_SNPaPsF"
+  },
+  {
+    "index": 45574,
+    "sanskrit": "su kṛtaḥ yatra te yajñaḥ tatra devāḥ hitāḥ tava",
+    "english": "When preparations were made for any sacrifice of thine, the deities became beneficially inclined to thee.",
+    "morphology": "su_su_U kṛtaḥ_kṛ_SNPaPsM yatra_yatra_U te_tvad_SG yajñaḥ_yajña_SNM tatra_tatra_U devāḥ_deva_PNM hitāḥ_dhā_PNPaPsM tava_tvad_SG"
+  },
+  {
+    "index": 45575,
+    "sanskrit": "yat kiṃcit snehasaṃyuktaṃ bhakṣyaṃ bhojyam agarhitam / tat paryuṣitam apy ādyaṃ haviḥśeṣaṃ ca yad bhavet //",
+    "english": "Such Food and eatables as are mixed with oils may be eaten though stale, if unspoilt; so also what may be the remnant of a sacrificial offering.",
+    "morphology": "yat_yad_SNNe kiṃcid_kaścit_SNNe sneha_sneha_Cp saṃyuktam_saṃyuj_SNPaNe bhakṣyam_bhakṣya_SNNe bhojyam_bhuj_SNNeGd agarhitam_agarhita_SNNe  / tat_tad_SNNe paryuṣitam_paryuṣita_SNNe api_api_ ādyam_ādya_SNNe haviḥ_havis_Cp śeṣam_śeṣa_S"
+  }
+]

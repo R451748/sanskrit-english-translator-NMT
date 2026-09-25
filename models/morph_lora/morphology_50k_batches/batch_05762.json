@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46088,
+    "sanskrit": "pitṝṃś ca namaskuryāt /",
+    "english": "He should also salute the Pitṛs;",
+    "morphology": "pitṝn_PAM"
+  },
+  {
+    "index": 46089,
+    "sanskrit": "bhavaty eva |",
+    "english": "verily he prospers.",
+    "morphology": "__"
+  },
+  {
+    "index": 46090,
+    "sanskrit": "yadyatkarmamayaṃ liṃgaṃ brahmaliṃgaṃ janorcayan | bhedenaikāṃtamadvaitaṃ tasmai bhagavate namaḥ || 85 ||",
+    "english": "85. The japa is: “Whatever Liṅga constituted of rites (? karmamayam) people worship with a sense of difference (between God and the devotee) is the Brahma-Liṅga which is one and non-dual. Obeisance to that Lord.”",
+    "morphology": "yat_yad_SNNe yat_yad_SNNe karma_karman_Cp mayam_maya_SNNe liṃgam_liṅga_SNNe brahma_brahman_Cp liṃgam_liṅga_SNNe jana_jana_Cp ūrcayan_ūrcay_SNPaPrM  / bhedena_bheda_SIM ekāntam_ekānta_SNNe advaitam_advaita_SNNe tasmai_tad_SDM bhagavante_bhagavan"
+  },
+  {
+    "index": 46091,
+    "sanskrit": "sṛgālavānarau pūrvamāstāṃ jātismarāvubhau | purāpi mānuṣe bhāve sakhāyau tau babhūvatuḥ || 2 || anyāṃ yoniṃ samāpannau sārgālīṃ vānarīṃ tathā | sakhyaṃ samīyaturubhau sṛgālo vānaro dvijāḥ || 3 ||",
+    "english": "Formerly, there was a jackal and also a monkey. Both of them could remember their previous births. In their previous human births they were friends. They were (re-)born in different species, namely, that of a jackal and that of a monkey. This jackal and the monkey again became close friends, O Brāhmaṇas.",
+    "morphology": "sṛgāla_sṛgāla_Cp vānarau_vānara_DuNM pūrvam_pūrvam_ āstām_as_Du3ImIn jāti_jāti_Cp smarau_smara_DuNM ubhau_ubh_DuNM  / purā_purā_ api_api_ mānuṣe_mānuṣa_SLM bhāve_bhāva_SLM sakhāyau_sakhi_DuNM tau_tad_DuNM babhūvatuḥ_bhū_DuPs3In"
+  },
+  {
+    "index": 46092,
+    "sanskrit": "duḥśāsanasya iṣu varam chittvā rādheyam abhyayāt",
+    "english": "Then cutting off the bow of Duhshasana, he proceeded against the son of Radha.",
+    "morphology": "duḥḥḥ_duḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ"
+  },
+  {
+    "index": 46093,
+    "sanskrit": "karpūrajalakābhekatailaṃ pāṭalimūlayuk // piṣṭvā lipya pade dve ca caredaṅgārake naraḥ / tṛṇautthānādikaṃ vyūhya darśayanvai kutūhalaṃ //",
+    "english": "If camphor, oil extracted from leech and frog and root of pāṭali are ground well and anointed on the two feet, one could walk on the fire after arranging and raising of the grass ? and provide entertainment to the spectators.",
+    "morphology": "__karpūra_U __jalaka_U __bheka_U __taila_U __pāṭali_U __mūla_U __yuj_U  // piṣṭvā_piṣ_CoU lipya_lip_CoU __pada_U __dvi_U ca_ca_U caret_car_SPr3O __aṅgāraka_U __nara_U  / __tṛṇa_U __autthāna_U __ādika_U __vyūh_CoU __darśay_PaPrU __vai"
+  },
+  {
+    "index": 46094,
+    "sanskrit": "devarājasamādeśāccalitā deva vāhinī | sumeroḥ pūrvadigbhāge yuddhamāsītparasparam || 210 ||",
+    "english": "210. the army of gods started by the order of the King of gods. On the eastern side of the mountain Meru the war between the two (armies) took place.",
+    "morphology": "devarāja_devarāja_Cp samādeśāt_samādeśa_SBM calitā_cal_SNPaF deva_deva_SVM vāhinī_vāhinī_SNF  / sumeroḥ_sumeru_SGM pūrva_pūrva_Cp digbhāga_digbhāga_SLM yuddham_yuddha_SNNe āsīt_as_S3ImIn paraspara_paraspara_SNNe"
+  },
+  {
+    "index": 46095,
+    "sanskrit": "viśvakarmā tvā sādayatv antarikasya pṛṣṭhe vyacasvatīṃ prathasvatīm antarikṣaṃ yacchāntarikṣaṃ dṛm̐hāntarikṣaṃ mā him̐sīḥ // viśvasmai prāṇāyāpānāya vyānāyodānāya pratiṣṭhāyai caritrāya // vāyuṣ ṭvābhi pātu mahyā svastyā chardiṣā śaṃtamena tayā devatayāṅgirasvad dhruvā sīda //",
+    "english": "On the air's back let Visvakarman set thee, thee the capacious, thee the far-extended. Control the air, fix firm the air, do thou the air no injury. For all breath, out-breath, through-breath, upward breathing, for high position, for prescribed observance, May Vâyu keep thee safe with great well-being, with securest shelter. In the manner of Angiras, with that Deity lie steady. 13",
+    "morphology": "viśvakarmā_viśvakarman_SNM tvā_tvad_SA sādayatu_sāday_SPr3Im antarikasya_antarika_SGNe pṛṣṭhe_pṛṣṭha_SLNe vyacasvatīm_vyacasvat_SAF prathasvatīm_prathasvat_SAF antarikṣam_antarikṣa_SANe yaccha_yam_SPr2Im antarikṣam_antarikṣa_SAN"
+  }
+]

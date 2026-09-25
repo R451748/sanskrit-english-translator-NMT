@@ -1,0 +1,50 @@
+[
+  {
+    "index": 336,
+    "sanskrit": "saṃpad ādi anukūlābhiḥ kathābhiḥ prīta mānasaḥ |",
+    "english": "His friends and relations should regale him with fond and loving topics to drive away the feeling of sleepiness with the prospect of a speedy cure.",
+    "morphology": "saṃpad_sampad_FCp ādi_ādi_MCp anukūlābhiḥ_anukūla_PIF kathābhiḥ_kathā_PIF"
+  },
+  {
+    "index": 337,
+    "sanskrit": "bhede 'pi nāmni vivādaḥ syāt //",
+    "english": "Thus the contest is merely nominal but not real.",
+    "morphology": "bhede_bheda_SLM api_api_ nāmni_nāman_SLNe vivādaḥ_vivāda_SNM syāt_as_SPr3O  /"
+  },
+  {
+    "index": 338,
+    "sanskrit": "naṃdikeśvara uvāca | aruṇācalamāhātmyaṃ vistarātparipṛcchatā | mārkaṃḍeya tvayā manye mayi nyasto mahānbharaḥ || 1 ||",
+    "english": "Nandikeśvara said: 1. I think a great burden (i.e. responsibility) has been placed on me, O Mārkaṇḍeya, by you who have asked for (a description) of the greatness of Aruṇācala in detail.",
+    "morphology": "naṃdikeśvaraḥ_nandikeśvara_SNM uvāca_vac_SPs3In  / aruṇācala_aruṇācala_Cp māhātmyam_māhātmya_SANe vistarāt_vistara_SBM paripṛcchatā_paripracch_SIPaPrM  / mārkaṃḍeya_mārkaṇḍeya_SVM tvayā_tvad_SI manye_man_SPr1In mayi_mad_SL n"
+  },
+  {
+    "index": 339,
+    "sanskrit": "śrī bhagavān uvāca kasmai deyam idam guhyaṃ rāga rūpam manoharambuddhyā vicārayann itthaṃ gandharva nagaram yayau",
+    "english": "The Supreme Personality of Godhead said: Thinking, “to whom should I give this beautiful and secret knowledge of music?, Nārada went to the city of the gandharvas.",
+    "morphology": "śrī_śrī_FCp bhagavān_bhagavant_SNM uvāca_vac_SPs3In kasmai_ka_SDM deyam_dā_SNNeGd idam_idam_SNNe guhyam_guhya_SNNe rāga_rāga_MCp rūpam_rūpa_SNNe manoharambuddhyā_manoharambuddhi_SIF vicārayan_vicāray_SNPaPrM ittham_ittham_U gandharva_gandharv"
+  },
+  {
+    "index": 340,
+    "sanskrit": "atītā vartamānāś ca krameṇaitena bhārata // etāny uktāni kauravya saptātītāni bhārata /",
+    "english": "descendant of Bharata, have thus described to you the past and present Manwantaras as well as the seven Manus, descendant of Kuru.",
+    "morphology": "atītāḥ_atī_PNPaM vartamānāḥ_vṛt_PNPaPrM ca_ca_ krameṇa_krama_SIM etena_etad_SIM bhārata_bhārata_SVM  // etāni_etad_PNNe uktāni_vac_PNPaNe kauravya_kauravya_SVM sapta_saptan_SNNe atītāni_atī_PNPaNe bhārata_bhārata_SVM  /"
+  },
+  {
+    "index": 341,
+    "sanskrit": "nayantau tau tadā ceśā babhūvaturarindamau | te'pi devā nirābādhā hṛṣṭacittā hyabhedataḥ || 6 ||",
+    "english": "6. Thanks to this non-difference, the Lords became suppressors of the enemies and Devas became delighted in their minds on being rid of obstacles.",
+    "morphology": "nayantau_nī_DuNPaPrM tau_tad_DuNM tadā_tadā_ ca_ca_ īśāḥ_īśa_PNM babhūvatuḥ_bhū_DuPs3In ariṃdamau_ariṃdama_DuNM  / te_tad_PNM api_api_ devāḥ_deva_PNM nirābādhāḥ_nirābādha_PNM hṛṣṭa_hṛṣ_PaCp cittāḥ_citta_PNM hi_hi_ a"
+  },
+  {
+    "index": 342,
+    "sanskrit": "ucitaḥ ca eva saṃbandhaḥ subhadrā ca yaśasvinī",
+    "english": "This alliance is very proper. Subhadra is a renowned girl.",
+    "morphology": "ucitaḥ_ucita_SNM ca_ca_U eva_eva_U saṃbandhaḥ_sambandha_SNM subhadrā_subhadrā_SNF ca_ca_U yaśasvinī_yaśasvin_SNF"
+  },
+  {
+    "index": 343,
+    "sanskrit": "yadi cāturvarṇyasyātrādhikāras tadā yad vakṣyati parastāt śuddhavidhau caturṇām api varṇānām iti tad anarthakam /",
+    "english": "If this is applicable to all the four castes, then there is no point in what is going to be said under in connection with purifications.",
+    "morphology": "yadi_yadi_ cāturvarṇyasya_cāturvarṇya_SGNe atra_atra_ adhikāraḥ_adhikāra_SNM tadā_tadā_ yat_yad_SANe vakṣyati_vac_SFu3In parastāt_parastāt_ śuddha_śuddha_Cp vidhau_vidhi_SLM caturṇām_catur_PGM api_api_ varṇānām_varṇa_PGM iti_iti_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39648,
+    "sanskrit": "dharma artha kuśalaḥ dhīmān medhāvī dhūta kalmaṣaḥ viduraḥ śūdra yonau tu jajñe dvaipāyanāt api",
+    "english": "And from Dwaipayana also born, in the Sudra caste, the wise and intelligent Vidura, conversant with both religion and profit, and free from all sins.",
+    "morphology": "dharma_dharma_MCp artha_artha_MCp kuśalaḥ_kuśala_SNM dhīmān_dhīmat_SNM medhāvī_medhāvin_SNM dhūta_dhū_PaPsCp kalmaṣaḥ_kalmaṣa_SNM viduraḥ_vidura_SNM śūdra_śūdra_MCp yonau_yoni_SLF tu_tu_U jajñe_jan_SPs3In dvaipāyanāt_dvaipāyana_"
+  },
+  {
+    "index": 39649,
+    "sanskrit": "apare punaḥ abhinavaṃ vākyārthaṃ udyogaṃ nāma varṇayāṃ babhūvuḥ ity anekaśākhā vipratipattiḥ /",
+    "english": "(7) Some other logicians hold that a new enterprise is denoted by a sentence. So, these diffe- rent hypotheses are at variance with one another.",
+    "morphology": "apare_apara_PNM punar_punar_ abhinavam_abhinava_SAM vākya_vākya_Cp artham_artha_SAM udyogam_udyoga_SAM nāma_nāma_ varṇayām_varṇay_SPr1Im babhūvuḥ_bhū_PPs3In iti_iti_ aneka_aneka_Cp śākhā_śākhā_SNF vipratipattiḥ_vipratipatti_SNF  /"
+  },
+  {
+    "index": 39650,
+    "sanskrit": "prapanna sādhayannarthaṃ na vācyā nṛpatirbhavet /",
+    "english": "A king would not be censurable by paying money to those in need.",
+    "morphology": "sādhayan_sādhay_SNPaPrM artham_artha_SAM na_na_ vācyā_vācya_SNF nṛpatiḥ_nṛpati_SNM bhavān_bhavān_"
+  },
+  {
+    "index": 39651,
+    "sanskrit": "tadāha patañjaliḥ- ahiṃsāsatyāsteyabrahmacaryāparigrahā yamāḥ| (pāta. yo. sū. 2/30) iti|",
+    "english": "The harmfulness of aiming at the fruit of an action has been declared by the venerable Nīlakaṇṭha-bhāratī—",
+    "morphology": "tat_tad_SANe āha_ah_SPs3In patañjaliḥ_patañjali_SNM ahiṃsā_ahiṃsā_Cp satya_satya_Cp asteya_asteya_Cp brahmacarya_brahmacarya_Cp aparigrahāḥ_aparigraha_PNM yamāḥ_yama_PNM iti_iti_"
+  },
+  {
+    "index": 39652,
+    "sanskrit": "itaścetaśca gacchadbhirnirjharāṃbhobhirāvṛtaḥ | śuśubhe sitavastrāḍhyaiḥ pumāniva vibhūṣitaḥ || 13 ||",
+    "english": "13. The mountain shone like a man adorned with white cloths etc., as it was sprayed by the waters of rivulets, flowing here and there in different directions.",
+    "morphology": "itas_itas_ ca_ca_ itas_itas_ ca_ca_ gacchadbhiḥ_gam_PIPaPrNe nirjhara_nirjhara_Cp aṃbhobhiḥ_ambhas_PINe āvṛtaḥ_āvṛ_SNPaM  / śuśubhe_śubh_SPs3In sita_sita_Cp vastra_vastra_Cp āḍhyaiḥ_āḍhya_PINe pumān_puṃs_SNM iva_iva_ vibhūṣit"
+  },
+  {
+    "index": 39653,
+    "sanskrit": "kariṣyāmi aham iti eva yaḥ sa rājasu sidhyati",
+    "english": "By acting thus one may win royal favour.",
+    "morphology": "kariṣyāmi_kṛ_SFu1In aham_mad_SN iti_iti_U eva_eva_U yaḥ_yad_SNM sa_tad_SNM rājasu_rājan_PLM sidhyati_sidh_SPr3In"
+  },
+  {
+    "index": 39654,
+    "sanskrit": "tanmaivaṃ kriyatāmetadabandhasyaiva bandhanam / kānyatā amalavyomnaścinmayasya nirākṛteḥ //",
+    "english": "Therefore do not confine your free and unconfined nature, in the bondage of gross matter; and never change the pure vacuum of your person to a material stuff, nor disfigure your formless and intellectual self in a gross and finite form.",
+    "morphology": "tat_tad_SNNe mā_mā_ evam_evam_ kriyatām_kṛ_SPr3ImPv etat_etad_SNNe abandhasya_abandha_SGM eva_eva_ bandhanam_bandhana_SNNe  / kānyatā_kānyatā_SNF amala_amala_Cp vyomnaḥ_vyoman_SGM cit_cit_Cp mayasya_maya_SGM nirākṛteḥ_nirākṛti_SBF  /"
+  },
+  {
+    "index": 39655,
+    "sanskrit": "athāsedurdinasyānte lambamāne divākare / bhaviṣyannavanirmāṇaṃ nagaraṃ nagasannibham //",
+    "english": "They resumed their journey, and arrived at the end of the day and about sunset, to their future abode of a new-built city, standing afar as on the height of a hill.",
+    "morphology": "atha_atha_ āseduḥ_āsad_PPs3In dinasya_dina_SGM ante_anta_SLM lambamāne_lamb_SLPaPrM divākare_divākara_SLM  / bhaviṣyat_bhū_PaFuCp nava_nava_Cp nirmāṇam_nirmāṇa_SANe nagaram_nagara_SANe naga_naga_Cp sannibham_saṃnibha_SANe  /"
+  }
+]

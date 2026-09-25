@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25800,
+    "sanskrit": "kṛte karmaṇi rāja indra pūjayet dhana saṃcayaiḥ mānena ca yathārheṇa sāntvena vividhena ca",
+    "english": "After any task of the king has been accomplished, he should reward that those that have aided in its accomplishment with wealth and other proportionate gifts and thankful speeches.",
+    "morphology": "kṛte_kṛ_SLPaPsNe karmaṇi_karman_SLNe rāja_rājan_MCp indra_indra_SVM pūjayet_pūjay_SPr3O dhana_dhana_NeCp saṃcayaiḥ_saṃcaya_PIM mānena_māna_SIM ca_ca_U yathārheṇa_yathārha_SINe sāntvena_sāntva_SINe vividhena_vividha_SINe ca_ca_U"
+  },
+  {
+    "index": 25801,
+    "sanskrit": "pratigrahaśca vai ghoraḥ ṣaṣṭhāṃ'śaphaladastathā | evaṃ bruvati tasmiṃśca hārītonāma cābravīt || 22 ||",
+    "english": "22. Accepting gifts too is terrible. It gives only one-sixth benefit. Even as he was saying thus, a sage named Hārīta said:",
+    "morphology": "pratigrahaḥ_pratigraha_SNM ca_ca_ vai_vai_ ghoraḥ_ghora_SNM ṣaṣṭha_ṣaṣṭha_Cp aṃśa_aṃśa_Cp phala_phala_Cp daḥ_da_SNM tathā_tathā_  / evam_evam_ bruvati_brū_SLPaPrM tasmin_tad_SLM ca_ca_ hārītaḥ_hārīta_SNM nāma_nāman_SANe c"
+  },
+  {
+    "index": 25802,
+    "sanskrit": "saṃvatsarasya madhye ca yadi syādadhimāsakaḥ // tadā dvādaśake śrāddhe kāryaṃ tadadhikaṃ bhavet /",
+    "english": "If an intercalary month occurs in the middle of the year, then there would be extra rites at the time of doing the twelfth ceremony.",
+    "morphology": "saṃvatsarasya_saṃvatsara_SGM madhye_madhya_SLNe ca_ca_ yadi_yadi_ syāt_as_SPr3O adhimāsakaḥ_adhimāsaka_SNM  // tadā_tadā_ dvādaśake_dvādaśaka_SLNe śrāddhe_śrāddha_SLNe kāryam_kṛ_SNNeGd tad_tad_Cp adhikam_adhika_SNNe bhavet_bhū_SPr3O "
+  },
+  {
+    "index": 25803,
+    "sanskrit": "sa tāmasaḥ madhuḥ jātaḥ tadā nārāyaṇa ājñayā",
+    "english": "From that drop sprang, at the command of Narayana, a Daitya of the name of Madhu made up of the attribute of Tamas (Dullness).",
+    "morphology": "sa_tad_SNM tāmasaḥ_tāmasa_SNM madhuḥ_madhu_SNM jātaḥ_jan_SNPaPsM tadā_tadā_U nārāyaṇa_nārāyaṇa_MCp ājñayā_ājñā_SIF"
+  },
+  {
+    "index": 25804,
+    "sanskrit": "ekadā ca rahasyeko mantrī bhīmaparākramaḥ / tamāha śrūyatāṃ deva rātrau vṛttaṃ mamādya yat //",
+    "english": "And one day his minister Bhīmaparākrama said to him in secret: “Hear, Prince, what happened to me in the night.",
+    "morphology": "ekadā_ekadā_ ca_ca_ rahasi_rahas_SLNe ekaḥ_eka_SNM mantrī_mantrin_SNM bhīma_bhīma_Cp parākramaḥ_parākrama_SNM  / tam_tad_SAM āha_ah_SPs3In śrūyatām_śru_SPr3ImPv deva_deva_SVM rātrau_rātri_SLF vṛttam_vṛt_SNPaNe mama_mad_SG adya_adya_ y"
+  },
+  {
+    "index": 25805,
+    "sanskrit": "oṃkāram udgiran vaktrāt sāvitrīm ca tad anvayām",
+    "english": "With one of his mouths he uttered the syllable Om and then the Gayatri following Om.",
+    "morphology": "oṃkāram_oṃkāra_SAM udgiran_udgṛ_SNPaPrM vaktrāt_vaktra_SBNe sāvitrīm_sāvitrī_SAF ca_ca_U"
+  },
+  {
+    "index": 25806,
+    "sanskrit": "vyadhamat sa gaja anīkam gadayā pāṇḍava ṛṣabhaḥ mahā abhra jālam atulam mātariśvā iva saṃtatam",
+    "english": "Then that bull among the sons of Pandu began with his mace to consume that elephant-division like the wind dispelling a huge mass of clouds covering the welkin.",
+    "morphology": "vyadhamat_vidham_SPs3In sa_tad_SNM gaja_gaja_MCp anīkam_anīka_SANe gadayā_gadā_SIF pāṇḍava_pāṇḍava_MCp ṛṣabhaḥ_ṛṣabha_SNM mahā_mahat_Cp abhra_abhra_NeCp jālam_jāla_SANe atulam_atula_SANe mātariśvā_mātariśvan_SNM iva_iva_U sa"
+  },
+  {
+    "index": 25807,
+    "sanskrit": "atredaṃ prāyaścittaṃ caret /",
+    "english": "In connection with what has gone before one should perform the following expiatory rite.",
+    "morphology": "atra_atra_ idam_idam_SANe prāyaścittam_prāyaścitta_SANe caret_car_SPr3O  /"
+  }
+]

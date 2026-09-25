@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3552,
+    "sanskrit": "tatas aham pāṃsunā chidram apidhāsyāmi putrakāḥ",
+    "english": "After ye have entered it, I shall, ye children, cover its mouth with dust.",
+    "morphology": "tatas_tatas_U aham_mad_SN pāṃsunā_pāṃsu_SIM chidram_chidra_SANe apidhāsyāmi_apidhā_SFu1In putrakāḥ_putraka_PVM"
+  },
+  {
+    "index": 3553,
+    "sanskrit": "sarvajagatsūkṣmabhedajñatvaprasādhana iti nimittasaptamī / granthavādayor ityatra tu saṃrambhāpekṣāvadhārasaptamī //",
+    "english": "The Locative ending at the end of the compound ‘Sarva, etc.’ connotes ‘for the purpose of’, while that at the end of the compound ‘granthavādayoḥ’, it connotes the receptacle of the attempt.",
+    "morphology": "sarva_sarva_Cp jagat_jagant_Cp sūkṣma_sūkṣma_Cp bheda_bheda_Cp jñatva_jñatva_Cp prasādhane_prasādhana_SLNe iti_iti_ nimitta_nimitta_Cp saptamī_saptamī_SNF  / grantha_grantha_Cp vādayoḥ_vāda_DuGM iti_iti_ atra_atra_ tu_tu_ saṃrambha_saṃr"
+  },
+  {
+    "index": 3554,
+    "sanskrit": "kṣutkṣāmaṃ dīnavadanamasthicarmā'vaśeṣitam | tamālokya dvijāgryo'bhūtkṛpayā'nvitamānasaḥ || 10 ||",
+    "english": "10. He was emaciated due to hunger. His face was pale and gloomy. Only bones and skin remained (on his body). On seeing him the eminent Brāhmaṇa was moved with pity.",
+    "morphology": "kṣudh_kṣudh_Cp kṣāmam_kṣāma_SAM dīna_dīna_Cp vadanam_vadana_SAM asthi_asthi_Cp carma_carman_Cp avaśeṣitam_avaśeṣay_SAPaM  / tam_tad_SAM ālokya_ālokay_Co dvijāgryaḥ_dvijāgrya_SNM abhūt_bhū_SPs3In kṛpayā_kṛpā_SIF anvita_anvita"
+  },
+  {
+    "index": 3555,
+    "sanskrit": "saṃtyeva munayaḥ śreṣṭhā brāhmaṇā brahmavidvarāḥ | gautamādyāstathāpyeṣā na ramyā brahmaṇaḥ sabhā || 47 ||",
+    "english": "Of course, there are Gautama and other excellent sages, Brāhmaṇas, well-versed in the Vedas; still the assembly of Brahmā is not delightful. Though the night may have many stars, yet it is through the Moon that it shines well.”",
+    "morphology": "saṃti_as_PPr3In eva_eva_ munayaḥ_muni_PNM śreṣṭhāḥ_śreṣṭha_PNM brāhmaṇāḥ_brāhmaṇa_PNM brahma_brahman_Cp vid_vid_Cp varāḥ_vara_PNM  / gautama_gautama_Cp ādyāḥ_ādya_PNM tathā_tathā_ api_api_ eṣā_etad_SNF na_na_ ramyā_r"
+  },
+  {
+    "index": 3556,
+    "sanskrit": "tatas aham na adhigacchāmi tapye bahuvidham tadā",
+    "english": "Urged by her, I could not however, find any means for the destruction of the infinite creation.",
+    "morphology": "tatas_tatas_U aham_mad_SN na_na_U adhigacchāmi_adhigam_SPr1In tapye_tap_SPr1InPv"
+  },
+  {
+    "index": 3557,
+    "sanskrit": "sargasya rakṣaṇa arthāya tasmai śuddhātmane namaḥ",
+    "english": "Salutations to thee in thy form of sleep! Thou buildest the bridge for the good (to cross the sea of life) with Truth, with those means by which emancipation may be obtained, and with the means by which the senses may be controlled.",
+    "morphology": "sargasya_sarga_SGM rakṣaṇa_rakṣaṇa_NeCp arthāya_artha_SDM tasmai_tad_SDM śuddha_śuddha_Cp ātmane_ātman_SDM namaḥ_namas_SNNe"
+  },
+  {
+    "index": 3558,
+    "sanskrit": "abhyāśe nityam devānām saptarṣīṇām dhruvasya ca",
+    "english": "He that destroys the foes of the deities (or, He that slays those who obstruct or forbid the giving of presents unto deserving persons) (CXCVII--CCVIII);",
+    "morphology": "abhyāśe_abhyāśa_SLM nityam_nityam_U"
+  },
+  {
+    "index": 3559,
+    "sanskrit": "hastavyāpārādināyonau maithunena ca retaḥ śukraṃ skandayan kṣarayan hinasti nāśayati brahmacaryavratam ātmanaḥ //",
+    "english": "By allowing his manhood to runby any meanshe \"breaks\" destroys \"his vow\" of studentship continence0.",
+    "morphology": "hasta_hasta_Cp vyāpāra_vyāpāra_Cp ādinā_ādi_SIM ayonau_ayoni_SLF maithunena_maithuna_SINe ca_ca_ retaḥ_retas_SANe śukram_śukra_SANe skandayan_skanday_SNPaPrM kṣarayan_kṣaray_SNPaPrM hinasti_hiṃs_SPr3In nāśayati_nāśay_SPr3In brahmacarya"
+  }
+]

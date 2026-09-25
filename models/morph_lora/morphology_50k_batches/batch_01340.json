@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10712,
+    "sanskrit": "yogaiśvaryaṃ sadā tuṣṭiṃ brahmavidyāmanaśvarām | samṛddhiṃ paramāntasmai dadau saṃtuṣṭamānasaḥ ||",
+    "english": "50. The goddess, out of delight, gave him the Yogic prosperity, perpetual contentment, imperishable Brahma-Vidyā and the greatest affluence.",
+    "morphology": "yoga_yoga_Cp aiśvaryam_aiśvarya_SANe sadā_sadā_ tuṣṭim_tuṣṭi_SAF brahma_brahman_Cp vidyām_vidyā_SAF anaśvarām_anaśvara_SAF  / samṛddhim_samṛddhi_SAF parama_parama_Cp ātmanaḥ_ātman_SNM"
+  },
+  {
+    "index": 10713,
+    "sanskrit": "somaḥ sutaḥ dhārayā atyaḥ na hitvā sindhuḥ na nimnam abhi vājī akṣāriti ā yonim vanyam asadat punānaḥ sam induḥ gobhiḥ asarat sam at bhiḥ",
+    "english": "Strong Soma, pressed, like an impetuous courser, hath flowed in stream as a flood speeding downward. Cleansed, he hath settled in his wooden dwelling: Indu hath flowed with milk and with the waters.",
+    "morphology": "somaḥ_soma_SNM sutaḥ_su_SNPaPsM dhārayā_dhārā_SIF atyaḥ_atya_SNM na_na_U hitvā_hā_Co sindhuḥ_sindhu_SNM na_na_U nimnam_nimna_SANe abhi_abhi_U vājī_vājin_SNM akṣāriti_kṣar_SPs3In ā_ā_U yonim_yoni_SAF vanyam_vanya_SAM asadat_sad_SPs3I"
+  },
+  {
+    "index": 10714,
+    "sanskrit": "tāḥ prajāḥ muditāḥ sarvāḥ dṛṣṭvā bala niṣūdanaḥ // // // _ _ _ _ _ // _ _ _ _ _ _ // _ _ _ _ _ _ // _ _ _ _ _ _ _ _ _ // _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "english": "And all persons, devoted to the duties of their respective orders, were perfectly happy and cheerful, and the slayer of Vala, beholding all the creatures of the world happy and cheerful, became himself filled with joy.",
+    "morphology": "tāḥ_tad_PAF prajāḥ_prajā_PAF muditāḥ_mud_PAPaPsF sarvāḥ_sarva_PAF dṛṣṭvā_dṛś_Co bala_bala_NeCp niṣūdanaḥ_niṣūdana_SNM  //  / __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U __pa_U  /"
+  },
+  {
+    "index": 10715,
+    "sanskrit": "sattvadravyasyābhāvāt vandhyāputraśyāmagauratādivat /",
+    "english": "In the same way one would reject the question, 'Is the child of a sterile woman white or black?",
+    "morphology": "sattva_sattva_Cp dravyasya_dravya_SGNe abhāva_abhāva_SNM"
+  },
+  {
+    "index": 10716,
+    "sanskrit": "yat sambhindyād alpāḥ |",
+    "english": "(verily it serves) for attainment.",
+    "morphology": "yat_yat_ sambhindyāt_sambhid_SPr3O"
+  },
+  {
+    "index": 10717,
+    "sanskrit": "utpādane sāmarthyam /",
+    "english": "An efficacy with regard to production ?",
+    "morphology": "utpādane_utpādana_SLNe"
+  },
+  {
+    "index": 10718,
+    "sanskrit": "trapuṣī mūla kalkam vā sa kṣaudram taṇḍulāmbunā",
+    "english": "A paste (Kalka) of Trapusi -roots in combination with honey and washings of rice or two Tolas of the pasted Yashti-madhu should be taken (with the same vehicles).",
+    "morphology": "__trapuṣī_FCp __mā_FCp __ā_FCp __ā_FCp __ā_FCp __ā_"
+  },
+  {
+    "index": 10719,
+    "sanskrit": "ājñā caiva paraṃ brahma dve vidye ca parāpare | śuddhavidyā śuddhakalā sarvaṃ śaktikṛtaṃ yataḥ ||",
+    "english": "7. Ājñā is the great Brahman. The two Vidyās are Parā and Aparā, Śuddhavidyā and Śuddhakalā since everything is created by Śakti.",
+    "morphology": "ājñā_ājñā_SNF ca_ca_ eva_eva_ param_para_SNNe brahma_brahman_SNNe dve_dvi_DuNF vidye_vidyā_DuNF ca_ca_ parāpare_parāpara_DuNF  / śuddhavidyā_śuddhavidyā_SNF śuddha_śudh_PaCp kalā_kalā_SNF sarvam_sarva_SNNe śakti_śakti_Cp kṛtam_kṛ_SNP"
+  }
+]

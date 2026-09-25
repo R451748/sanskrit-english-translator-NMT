@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8728,
+    "sanskrit": "raibhyasya tu sutau āstām arvāvasu parāvasū",
+    "english": "Now, Raivya had two sons, named Arvavasu and Paravasu.",
+    "morphology": "raibhyasya_raibhya_SGM"
+  },
+  {
+    "index": 8729,
+    "sanskrit": "ugradaṃṣṭrā cogradaṃḍā koṭavī ca papau madhu | anyāśca devyastatrājau nanṛturmadhu saṃpapuḥ || mahān kolāhalo jāto gaṇadevadale tadā | jahṛṣurbahugarjaṃtassarve suragaṇādayaḥ ||",
+    "english": "3. The manifestations of Durgā viz—Ugradaṃṣṭrā (one with fierce fangs) Ugradaṇḍā (one with fierce baton) and Kotavī (the naked) danced on the battle ground and drank wine. 4. There was great tumult on the side of the Gaṇas and the gods. All the gods and the Gaṇas roared and rejoiced.",
+    "morphology": "ugradaṃṣṭrā_ugradaṃṣṭrā_SNF ca_ca_ ugradaṃḍā_ugradaṃḍā_SNF koṭavī_koṭavī_SNF ca_ca_ papau_pā_SPs3In madhu_madhu_SANe  / anyāḥ_anya_PNF ca_ca_ devyaḥ_devī_PNF tatra_tatra_ ājau_āji_SLM nanṛtuḥ_nṛt_PPs3In madhu_ma"
+  },
+  {
+    "index": 8730,
+    "sanskrit": "vastu eka ātmakam eva idam aneka ākāram iṣyate | te ca anuvṛtti vyāvṛtti buddhi grāhya tayā sthitāḥ || ādyāḥ ete anuvṛtta tvāt sāmānyam iti kīrttitāḥ | viśeṣāḥ tu abhidhīyante vyāvṛtta tvāt tatas apare ||",
+    "english": "The entity itself is only one in essence, but is regarded as having several aspects; and these aspects are there in the form of being apprehended by inclusive and exclusive cognitions; the former ones, being inclusive, are spoken of as ‘common’ (universal, general), while the latter, being exclusive, are called ‘particular’",
+    "morphology": "vastu_vastu_SNNe eka_eka_Cp ātmakam_ātmaka_SNNe eva_eva_U idam_idam_SNNe aneka_aneka_Cp ākāram_ākāra_SNNe iṣyate_iṣ_SPr3InPv  / te_tad_PNM ca_ca_U anuvṛtti_anuvṛtti_FCp vyāvṛtti_vyāvṛtti_FCp buddhi_buddhi_FCp grāhya_grah_GdCp tayā_tā"
+  },
+  {
+    "index": 8731,
+    "sanskrit": "pūrvavad iti saṃhatāvasthadaviśeṣāt //",
+    "english": "‘As before’ as in the massed state; there being no difference between the flame in the two states.",
+    "morphology": "pūrvavat_pūrvavat_"
+  },
+  {
+    "index": 8732,
+    "sanskrit": "pravṛtte bhūtasaṃhāre prakṛtau pratisaṃcare | bhaviṣyatsarvabījāni niṣeduryatra niścayam || 54 ||",
+    "english": "54. When the annihilation of all living beings takes place, when all created things are reabsorbed into Prakṛti, all the future seeds are certainly deposited there.",
+    "morphology": "pravṛtte_pravṛt_SLPaM bhūta_bhūta_Cp saṃhāre_saṃhāra_SLM prakṛtau_prakṛti_SLF pratisaṃcare_pratisaṃcara_SLM  / bhaviṣyat_bhū_PaFuCp sarva_sarva_Cp bījāni_bīja_PNNe niṣeduḥ_niṣad_PPs3In"
+  },
+  {
+    "index": 8733,
+    "sanskrit": "tat anena padena vyavacchidyate na tat pratyakṣam iti //",
+    "english": "The erroneous sense-perception is excluded from the realm of true sense-perception by the adjec- tive 'non-erroneous'.",
+    "morphology": "tat_tad_SNNe anena_idam_SINe padena_pada_SINe vyavacchidyate_vyavacchid_SPr3InPv na_na_U tat_tad_SNNe pratyakṣam_pratyakṣa_SNNe iti_"
+  },
+  {
+    "index": 8734,
+    "sanskrit": "mañcādhikāre kartavyāḥ striyaḥ sevyāḥ svarāmikāḥ //",
+    "english": "The king should share his bed only with his beloved women.",
+    "morphology": "mañca_mañca_Cp adhikāre_adhikāra_SLM kartavyāḥ_kṛ_PNFGd striyaḥ_strī_PNF sevyāḥ_sev_PNFGd sva_sva_Cp rāmikāḥ_rāmika_PNF  /"
+  },
+  {
+    "index": 8735,
+    "sanskrit": "snigdhasya tailam nasyam syāt kulīra rasa sādhitam",
+    "english": "Oil duly prepared with Kulira (crabs) should be used for Nasya (snuffing) purposes subsequent to the employment of the (above) fomentation.",
+    "morphology": "__snigdha_U"
+  }
+]

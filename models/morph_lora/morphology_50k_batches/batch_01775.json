@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14192,
+    "sanskrit": "adha svapnasya niḥ vide abhuñjataḥ ca revataḥ ubhā tā basri naśyataḥ",
+    "english": "It holdeth slumber in contempt. and the rich who enjoyeth not: Both vanish quickly and are lost.",
+    "morphology": "adha_adha_U svapnasya_svapna_SGM niḥ_niḥ_U vide_vid_SPr3In abhuñjataḥ_abhuñjat_SGM ca_ca_U revataḥ_revat_SGM ubhā_ubh_DuNM tā_tad_DuNM basri_basri_U naśyataḥ_naś_DuPr3In"
+  },
+  {
+    "index": 14193,
+    "sanskrit": "niyutvantaḥ grāma jitaḥ yathā naraḥ aryamaṇaḥ na marutaḥ kavandhinaḥ pinvanti utsam yat ināsaḥ asvaran vi undanti pr̥thivīm madhvaḥ andhasā",
+    "english": "With harnessed team like heroes overcoming troops, the friendly Maruts, laden with their watercasks, Let the spring flow, and when impetuous' they roar they inundate the earth with floods of pleasant meath.",
+    "morphology": "niyutvantaḥ_niyutvat_PNM grāma_grāma_MCp jitaḥ_jit_PNM yathā_yathā_U naraḥ_nṛ_PNM aryamaṇaḥ_aryaman_PNM na_na_U marutaḥ_marut_PNM kavandhinaḥ_kavandhin_PNM pinvanti_pinv_PPr3In utsam_utsa_SAM yat_yat_U ināsaḥ_ina_PNM asvaran_svar_PPs"
+  },
+  {
+    "index": 14194,
+    "sanskrit": "vihṛtya svecchayā nityamasmingirivare śubhe | dināṃte devamāsādya tatsamīpe vasatyayam || 71 ||",
+    "english": "71. After sporting about as it pleases on this excellent mountain, at the end of the day it invariably comes back to the Lord and remains near him.",
+    "morphology": "vihṛtya_vihṛ_Co sva_sva_Cp icchayā_icchā_SIF nityam_nityam_ asmin_idam_SLM giri_giri_Cp vare_vara_SLM śubhe_śubha_SLM  / dina_dina_Cp ante_anta_SLM devam_deva_SAM āsādya_āsāday_Co tad_tad_Cp samīpe_samīpa_SLNe vasati_vas_SPr3In ayam_idam_SNM"
+  },
+  {
+    "index": 14195,
+    "sanskrit": "evaṃ dhvanibhāve śabdānām upalambho 'sti, kimiti tat kāryatvaṃ na bhavet, etāvanmātranibandhanatvāt kāryavyavahārasyetyāha tadbhāvabhāvitetyādi /",
+    "english": "why then, should Sound be not regarded as the effect produced, by the articulations? Specially because the said fact is the sole basis for anything being regarded as the effect of something else.",
+    "morphology": "evam_evam_ dhvani_dhvani_Cp bhāve_bhāva_SLM śabdānām_śabda_PGM upalambhaḥ_upalambha_SNM asti_as_SPr3In kim_ka_SNNe iti_iti_ tat_tad_SNNe kārya_kārya_Cp tvam_tva_SNNe na_na_ bhavet_bhū_SPr3O etāvat_etāvat_Cp mātra_mātra_Cp nibandhana_nibandha"
+  },
+  {
+    "index": 14196,
+    "sanskrit": "sa āha /",
+    "english": "“To this question,”’ said Nāgasena, `there are no grounds for answer.”",
+    "morphology": "saḥ_tad_SNM"
+  },
+  {
+    "index": 14197,
+    "sanskrit": "tatropaviṣṭāste devā lakṣyante śrṛṅgamūrdhasu / suśuddhakāntayastāpādajalā jaladā iva //",
+    "english": "Sitting in those parts and places, the gods could well behold the pinnacles of the mountain; which were surely bright to sight, and as white as the rainless clouds of the skies.",
+    "morphology": "tatra_tatra_ upaviṣṭāḥ_upaviś_PNPaM te_tad_PNM devāḥ_deva_PNM lakṣyante_lakṣay_PPr3InPv śrṛṅga_śrṛṅga_Cp mūrdhasu_mūrdhan_PLM  / su_su_ śuddha_śudh_PaCp kāntayaḥ_kānti_PNM tāpa_tāpa_Cp āda_āda_Cp jalāḥ_jala_PNM jalad"
+  },
+  {
+    "index": 14198,
+    "sanskrit": "tena nairātmyagrahaṇasvabhāvam eveti tannātmagrahaṇasvabhāvam /",
+    "english": "Thus Cognition is of the nature of the apprehension of soul-lessness, not of the nature of the apprehension of the Soul.",
+    "morphology": "tena_tena_ nairātmya_nairātmya_Cp grahaṇa_grahaṇa_Cp svabhāvam_svabhāva_SNNe eva_eva_ iti_iti_ tat_tad_SNNe na_na_ ātma_ātman_Cp grahaṇa_grahaṇa_Cp svabhāvam_svabhāva_SNNe  /"
+  },
+  {
+    "index": 14199,
+    "sanskrit": "jñā{jā---}yanāmānāyā eva buddheḥ prāmāṇyaṃ yathā syād iti pratipādanārthaṃ janmagrahaṇaṃ kṛtam iti /",
+    "english": "the sense being that the term ‘birth’ has been used in order to point out that the Cognition is valid as soon as it is born.",
+    "morphology": "eva_eva_ buddheḥ_buddhi_SGF prāmāṇyam_prāmāṇya_SNNe yathā_yathā_ syāt_as_SPr3O iti_iti_ pratipādana_pratipādana_Cp artham_artha_SAM janma_janman_Cp grahaṇam_grahaṇa_SNNe kṛtam_kṛ_SNPaNe iti_iti_  /"
+  }
+]

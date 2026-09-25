@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32736,
+    "sanskrit": "na saṃkhyāṃ nāmadheyaṃ vā śeṣo gaṇayituṃ kṣamaḥ | kiṃ tvahaṃ prabravīmyadya tatra tīrthāni kānicit || 103 ||",
+    "english": "103. Even Śeṣa is incapable of counting all of them and telling their names. But I shall describe a few of those Tīrthas.",
+    "morphology": "na_na_ saṃkhyām_saṃkhyā_SAF nāmadheyam_nāmadheya_SANe vā_vā_ śeṣaḥ_śeṣa_SNM gaṇayitum_gaṇay_In kṣamaḥ_kṣama_SNM  / kim_ka_SANe tu_tu_ aham_mad_SN prabravīmi_prabrū_SPr1In adya_adya_ tatra_tatra_ tīrthāni_tīrtha_PNNe kānici"
+  },
+  {
+    "index": 32737,
+    "sanskrit": "tatas kālaṃjaram gatvā parvatam loka viśrutam",
+    "english": "There in that tirtha is the mountain known over the whole world and called Kalanjara.",
+    "morphology": "tatas_tatas_U kālaṃjaram_kālañjara_SAM gatvā_gam_Co parvataḥ_parvata_SNM"
+  },
+  {
+    "index": 32738,
+    "sanskrit": "athasenādhināthābhyāṃ vicārya sahamantribhiḥ / dūtāḥ parasparaṃ vṛttā yuddhaṃ saṃhriyatāmiti //",
+    "english": "Then the commanders of the armies, in concert with the ministers of war, sent envoys to the hostile parties for a truce to the fighting.",
+    "morphology": "atha_atha_ senā_senā_Cp adhināthābhyām_adhinātha_DuIM vicārya_vicāray_Co saha_saha_ mantribhiḥ_mantrin_PIM  / dūtāḥ_dūta_PNM parasparam_paraspara_SAM vṛttāḥ_vṛt_PNPaM yuddham_yuddha_SNNe saṃhriyatām_saṃhṛ_SPr3ImPv iti_iti_  /"
+  },
+  {
+    "index": 32739,
+    "sanskrit": "cinmayaṃ cetsadā sarvaṃ taccittvaṃ pravicāraya / śuddhaṃ sattvamanādyantaṃ tatrāṅga kalanā kutaḥ //",
+    "english": "But if you find by the reasoning of your mind, all things to be mere intellections of the intellect at all times; then say why do you rely on the substantiality of your body.",
+    "morphology": "cit_cit_Cp mayam_maya_SNNe ced_ced_ sadā_sadā_ sarvam_sarva_SNNe tat_tad_SANe cittvam_cittva_SANe pravicāraya_pravicāray_SPr2Im  / śuddham_śudh_SNPaNe sattvam_sattva_SNNe anādi_anādi_Cp antam_anta_SNNe tatra_tatra_ aṅga_aṅga_ kalanā_kalanā_SN"
+  },
+  {
+    "index": 32740,
+    "sanskrit": "upadhābhiḥ śaucaaśaucajñānam amātyānām, gūḍhapuruṣapraṇidhiḥ,",
+    "english": "the creation of councillors and priests; ascertaining by temptations purity or impurity in the character of ministers; the institution of spies",
+    "morphology": "upadhābhiḥ_upadhā_PIF śauca_śauca_Cp aśauca_aśauca_Cp jñānam_jñāna_SNNe amātyānām_amātya_PGM gūḍha_guh_PaCp puruṣa_puruṣa_Cp praṇidhiḥ_praṇidhi_SNM"
+  },
+  {
+    "index": 32741,
+    "sanskrit": "anusṛtya divo lokān ahaṃ brahmapurogamān / gataḥ sūryasakhaṃ tāta vipulaṃ meruparvatam //",
+    "english": "my son, ranging in Nandana and Chaitraratha gardens, in Brahmā and other celestial regions arrived at the great mount Sumeru, the friend of the sun –.",
+    "morphology": "anusṛtya_anusṛ_Co divaḥ_div_SBM lokān_loka_PAM aham_mad_SN brahma_brahman_Cp purogamān_purogama_PAM  / gataḥ_gam_SNPaM sūryasakham_sūryasakha_SAM tāta_tāta_SVM vipulam_vipula_SAM meru_meru_Cp parvatam_parvata_SAM  /"
+  },
+  {
+    "index": 32742,
+    "sanskrit": "bhṛtyaiḥ vihīyamānānām para piṇḍa upajīvinām kṛpaṇānām asattvānām mā vṛttim anuvartithāḥ",
+    "english": "Do not adopt the course of life that is followed by those wretched persons, who, destitute of strength, and without servants and attendants (to do their bidding) live upon the food supplied by others.",
+    "morphology": "bhṛtyaiḥ_bhṛtya_PIM vihīyamānānām_vihā_PGPaPrMPv para_para_Cp piṇḍa_piṇḍa_MCp upajīvinām_upajīvin_PGM kṛpaṇānām_kṛpaṇa_PGM asattvānām_asattva_PGM mā_mā_U vṛttim_vṛtti_SAF anuvartithāḥ_anuvṛt_SPs2"
+  },
+  {
+    "index": 32743,
+    "sanskrit": "evam sa pāṇḍavaḥ kruddhaḥ āttam āttam punar punar",
+    "english": "Indeed, that chastiser of foes, viz., Arjuna, who was capable of drawing the bow with even his left hand, excited with rage, one after another, cut off all the bows that Bhishma took up.",
+    "morphology": "evam_evam_U sa_tad_SNM pāṇḍavaḥ_pāṇḍu_PNM kruddhaḥ_krudh_SNPaPsM āttam_ādā_SAPaPsNe āttam_ādā_SAPaPsNe punar_punar_U"
+  }
+]

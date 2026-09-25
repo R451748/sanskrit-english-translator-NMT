@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35752,
+    "sanskrit": "dveṣo viparyayāt /",
+    "english": "Hatred with the contrary.",
+    "morphology": "__U"
+  },
+  {
+    "index": 35753,
+    "sanskrit": "yāja yāmāsatuḥ satre bṛhaddyumnaṃ mahīpatim | nābhavatskhalanaṃ bhrātroḥ satre sāṃgeṣu karmasu || 12 ||",
+    "english": "They performed the Yajña (Sattra) on behalf of King Bṛhaddyumna. Not a single slip did the brothers commit in the Sattra and in the holy rites with their subsidiary activities.",
+    "morphology": "satre_sattra_SLNe bṛhaddyumnam_bṛhaddyumna_SAM mahīpatim_mahīpati_SAM  / na_na_ abhavat_bhū_S3ImIn skhalanam_skhalana_SNNe bhrātroḥ_bhrātṛ_DuGM satre_sattra_SLNe sa_sa_ aṅgeṣu_aṅga_PLNe karmasu_karman_PLNe"
+  },
+  {
+    "index": 35754,
+    "sanskrit": "nāmabhiḥ kīrtitaiḥ tasya keśavasya mahātmanaḥ pṛṣṭavān keśavam rājan phalgunaḥ para vīra hā",
+    "english": "That slayer of hostile heroes, viz., Phalguna, had at one time asked Kesava, enquiring after the imports of the some of the names by which the high-souled Keshva is adored.",
+    "morphology": "nāmabhiḥ_nāman_PINe kīrtitaiḥ_kīrtay_PIPaPsNe tasya_tad_SGM keśavasya_keśava_SGM mahātmanaḥ_mahātman_SGM pṛṣṭavān_pracch_SNPaPsM keśavam_keśava_SAM rājan_rājan_SVM phalgunaḥ_phalguna_SNM parāṇā_parāṇā_PNM"
+  },
+  {
+    "index": 35755,
+    "sanskrit": "tathā eva bhīṣma pramukhāḥ nara ṛṣabhāḥ",
+    "english": "Other bulls among men, headed by Bhishma, have also been slain.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 35756,
+    "sanskrit": "ya enāṃ śṛṇuyādbhaktyā śrāvayedvā samāhitaḥ | paṭhedvā pāṭhayedvāpi sa yāti paramāṃ gatim ||",
+    "english": "85. He who listens to this with devotion or narrates it piously or reads it himself or causes it to be read attains the supreme god.",
+    "morphology": "yaḥ_yad_SNM enām_enad_SAF śṛṇuyāt_śru_SPr3O bhaktyā_bhakti_SIF śrāvayet_śrāvay_SPr3O vā_vā_ samāhitaḥ_samāhita_SNM  / paṭhet_paṭh_SPr3O vā_vā_ pāṭhayet_pāṭhay_SPr3O vā_vā_ api_api_"
+  },
+  {
+    "index": 35757,
+    "sanskrit": "ityetadapi no yuktam asāmānyāśrayatvataḥ /",
+    "english": "This is not right; because of the absence of a common substratum;",
+    "morphology": "iti_iti_ etat_etad_SNNe api_api_ no_no_ yuktam_yuj_SNPaNe a_a_ sāmānya_sāmānya_Cp āśraya_āśraya_Cp tvataḥ_tva_SBNe"
+  },
+  {
+    "index": 35758,
+    "sanskrit": "yaḥ pramāṇapañcakavirahasvabhāvābhāvapramāṇaviṣayīkṛtavigrahaḥ sa viduṣāmabhāvavyavahāragocaratām evāvatarati, [p.817] yathā gagananalinam abhāvapramāṇaviṣayīkṛtavigrahaś ca sarvadarśī puruṣa iti svabhavahetuḥ /",
+    "english": "As regards the argument that “the capacity that does not belong to a thing by itself cannot be produced by anything else”, which has been put forward in support of the denial of the idea of the validity being due to other circumstantial causes, that is equally applicable to Invalidity also; so that that also should have to be regarded as inherent in the cognition. Hence the Reason adduced is no Reason at all; as it is false and inconclusive.",
+    "morphology": "yaḥ_yad_SNM pramāṇa_pramāṇa_Cp pañcaka_pañcaka_Cp viraha_viraha_Cp svabhāva_svabhāva_Cp abhāva_abhāva_Cp pramāṇa_pramāṇa_Cp viṣayīkṛta_viṣayīkṛ_PaCp vigrahaḥ_vigraha_SNM sa_tad_SNM viduṣām_vidvas_PGM abhāva_abhāva_Cp vy"
+  },
+  {
+    "index": 35759,
+    "sanskrit": "kariṣyāmaḥ priyam sarvam tava kaurava nandana etat ājñāya vacanam sarvān tān abravīt tadā jīvitam rakṣata nṛpāḥ śāsanam gṛhyatām iti",
+    "english": "O delighter of the Kurus, we shall execute all thy commands.' Hearing these words expressive of their submission, Dhananjaya, said unto them, 'Do ye, O kings, save your lives, and accept my dominion.'\" SECTION LXXV \"Vaisampayana said, 'That foremost of steeds then proceeded to the realm of Pragjyotisha and began to wander there.",
+    "morphology": "kariṣyāmaḥ_kṛ_PFu1In priyam_priya_SANe sarvam_sarva_SANe tava_tvad_SG kaurava_kaurava_MCp nandana_nandana_SVM etat_etad_SANe ājñāya_ājñā_Co vacanam_vacana_SANe sarvān_sarva_PAM tān_tad_PAM abravīt_brū_SPs3In tadā_tadā_U jīvitam_jīvita_"
+  }
+]

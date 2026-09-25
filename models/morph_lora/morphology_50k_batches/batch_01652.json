@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13208,
+    "sanskrit": "śīrṇa nābhi yathā cakram chidram somam prapaśyati",
+    "english": "One, who sees the lunar disc to have many holes like a spider's web, or one, who sees the solar disc to have similar holes has but one week more to live.",
+    "morphology": "śīrṇa_śṛ_PaPsCp nābhi_nābhi_SNNe yathā_yathā_U cakram_cakra_SNNe chidram_chidra_SAM somam_soma_SAM prapaśyati_prapaś_SPr3In"
+  },
+  {
+    "index": 13209,
+    "sanskrit": "pīṭha vīthībahibhūmikaṇṭhakarṇakapolataḥ | śobhopaśobhāsaṃbhedāda guṇarekhāvikalpataḥ |",
+    "english": "b- Colours should be applied to the figures as per the system of beautification. The colours recommended for this purpose are whitish-red sindūra, deep red, blackish red khatikā, black and shining white.",
+    "morphology": "vīthi_vīthi_Cp bahi_bahi_ bhūmi_bhūmi_Cp kaṇṭha_kaṇṭha_Cp karṇa_karṇa_Cp kapolataḥ_kapola_SBM  / śobhā_śobhā_Cp upaśobhā_upaśobhā_Cp saṃbhedāt_sambheda_SBM guṇa_guṇa_Cp rekhā_rekhā_Cp vikalpa_vikalpa_SBM"
+  },
+  {
+    "index": 13210,
+    "sanskrit": "maitreya uvāca",
+    "english": "Measure of time.",
+    "morphology": "maitreyaḥ_maitreya_SNM"
+  },
+  {
+    "index": 13211,
+    "sanskrit": "gavāhnikaṃ ca nodattaṃ kokaṃḍūtirna vai kṛtā | noddhṛtā paṃkamagnā gaurgolokasukhadāyinī || 34 ||",
+    "english": "34. The daily mouthfuls of fodder to the cows were not given; I have not scratched the cows for removing the itching sensation; no cow stuck in the mud has been lifted up by me—an act that would have bestowed happiness on me in the Goloka (Region of Cows).",
+    "morphology": "gavāhnikam_go_SNNe ca_ca_ na_na_ udattam_uddā_SNPaNe kokaṃḍūtiḥ_kokaṇḍūti_SNF na_na_ vai_vai_ kṛtā_kṛ_SNPaF  / na_na_ uddhṛtā_uddhṛ_SNPaF paṃka_paṅka_Cp magnā_majj_SNPaF gauḥ_go_SNF goloka_goloka_Cp sukha_sukha_Cp dāyinī_d"
+  },
+  {
+    "index": 13212,
+    "sanskrit": "upadeśamahāmaṃtrairmāṃ jāṃgulika jīvaya | mahāmohamahā vṛkṣo hṛdyāvāpasamutthitaḥ || 79 ||",
+    "english": "The great tree of excessive delusion is growing within the Āvāpa (‘water-basin round a tree’) of the heart. Let it be destroyed by the sharp-edged hatchet of your (wise) sayings.",
+    "morphology": "upadeśa_upadeśa_Cp mahā_mahat_Cp maṃtraiḥ_mantra_PIM mām_mad_SA jāṃgulika_jāṅgulika_SVM jīvaya_jīvay_SPr2Im  / mahā_mahat_Cp moha_moha_Cp mahā_mahat_SNM vṛkṣaḥ_vṛkṣa_SNM hṛdya_hṛdya_Cp āvāpa_āvāpa_Cp samutthitaḥ_samutt"
+  },
+  {
+    "index": 13213,
+    "sanskrit": "guruṇā kathitaṃ sarvaṃ taccakāra śatakratuḥ | tenaiva ca sahāyena iṃdro yuddhaparāyaṇaḥ || 136 ||",
+    "english": "136. Śatakratu (Indra) performed everything mentioned by Guru (Bṛhaspati). With him as his main help, Indra engaged himself in the battle.",
+    "morphology": "guruṇā_guru_SIM kathitam_kathay_SAPaNe sarvam_sarva_SANe tat_tad_SANe cakāra_kṛ_SPs3In śatakratuḥ_śatakratu_SNM  / tena_tad_SIM eva_eva_ ca_ca_ sahāyena_sahāya_SIM iṃdraḥ_indra_SNM yuddha_yuddha_Cp parāyaṇaḥ_parāyaṇa_SNM"
+  },
+  {
+    "index": 13214,
+    "sanskrit": "kīrtayet bhāratam ca eva tathā syāt akṣayam haviḥ",
+    "english": "On such occasions one should also recite the Bharata.",
+    "morphology": "kīrtayet_kīrtay_SPr3O bhāratam_bhārata_SANe ca_ca_U eva_eva_U tathā_tathā_U syāt_as_SPr3O akṣayam_akṣaya_SNNe haviḥ_havis_SNNe"
+  },
+  {
+    "index": 13215,
+    "sanskrit": "tau darśayantau samare yuddha krīḍām samantataḥ gadābhyām sahasā anyonyam ājaghnatuḥ ariṃdamau tau parasparam āsādya daṃṣṭrābhyām dviradau yathā",
+    "english": "Meanwhile those two chastisers of foes, displaying on every side their skill in battle, continued to strike each other with their maces, like two elephants approaching and striking each other with their tusks.",
+    "morphology": "tau_tad_DuNM darśayantau_darśay_DuNPaPrM samare_samara_SLNe yuddha_yuddha_NeCp krīḍām_krīḍā_SAF samantataḥ_samantataḥ_U gadābhyām_gadā_DuIF sahasā_sahas_SINe anyonyam_anyonya_SAM ājaghnatuḥ_āhan_DuPs3In ariṃdamau_ariṃdama_DuNM tau"
+  }
+]

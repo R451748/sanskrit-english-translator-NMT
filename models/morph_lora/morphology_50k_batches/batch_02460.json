@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19672,
+    "sanskrit": "mahā bhogā bhogi jana praveśyā gandharva yakṣaiḥ apsarobhiḥ ca juṣṭā",
+    "english": "There Gandharvas and Yakshas and Apsaras live (gladdening all the denizens with enchanting dances and music).",
+    "morphology": "mahā_mahat_Cp bhogā_bhoga_SNF bhogi_bhogin_Cp jana_jana_MCp praveśyā_praviś_SNFGd gandharva_gandharva_MCp yakṣaiḥ_yakṣa_PIM apsarobhiḥ_apsaras_PIF ca_ca_U juṣṭā_juṣ_SNPaPsF"
+  },
+  {
+    "index": 19673,
+    "sanskrit": "tataḥ sa vinayādāha devīṃ śikharavāsinīm | yadarthamaṃba sṛṣṭo'haṃ tatkāryaṃ vada mā ciram || 17 || trailokye tvatprasādena nāsādhyaṃ vidyate mama || 18 ||",
+    "english": "\"17-18. The newly created one spoke humbly to the goddess staying on the peak (of the mount): “O mother, tell me the job for which I have been created. Do not delay. With your favour, there is nothing which I cannot accomplish in all the three worlds.\"\" \"",
+    "morphology": "tatas_tatas_ sa_tad_SNM vinayāt_vinaya_SBM āha_ah_SPs3In devīm_devī_SAF śikhara_śikhara_Cp vāsinīm_vāsin_SAF  / yad_yad_Cp artham_artha_SAM aṃba_ambā_SVF sṛṣṭaḥ_sṛj_SNPaM aham_mad_SN tat_tad_SANe kāryam_kārya_SANe vada_vad_SPr2Im m"
+  },
+  {
+    "index": 19674,
+    "sanskrit": "vāyoḥ tvac sparśa ceṣṭāḥ ca vāc iti etat catuṣṭayam",
+    "english": "Touch, action, and skin are the triple attributes of the Wind.",
+    "morphology": "vāyoḥ_vāyu_SGM tvac_tvac_SNF sparśa_sparśa_MCp ceṣṭāḥ_ceṣṭā_PNF"
+  },
+  {
+    "index": 19675,
+    "sanskrit": "nistaret eka bhaktena vaiśākham yaḥ jita indriyaḥ naraḥ vā yadi vā nārī jñātīnām śreṣṭha tām vrajet",
+    "english": "The person, whether male or female, who passes the month of Vaisakha, confining himself or herself every day to one meal, and keeping his or her senses under control, succeeds in attaining to a position of eminence among kinsmen.",
+    "morphology": "nistaret_nistṛ_SPr3O eka_eka_Cp bhaktena_bhakta_SINe vaiśākham_vaiśākha_SAM yaḥ_yad_SNM jita_ji_PaPsCp indriyaḥ_indriya_SNM naraḥ_nara_SNM vā_vā_U yadi_yadi_U vā_vā_U nārī_nārī_SNF jñātīnām_jñāti_PGM śreṣṭha_śreṣṭha_Cp t"
+  },
+  {
+    "index": 19676,
+    "sanskrit": "bṛhaspate suprajā vīravanto vayaṃ syāma patayo rayīṇām |",
+    "english": "Brhaspati, with good offspring, with heroes, May we be lords of wealth.",
+    "morphology": "bṛhaspate_bṛhaspati_SVM su_su_ prajāḥ_prajā_PNM vīravantaḥ_vīravat_PNM vayam_mad_PN syāma_as_PPr1O patayaḥ_pati_PNM rayīṇām_rayi_PGM"
+  },
+  {
+    "index": 19677,
+    "sanskrit": "chinnāḥ piśācasaṃyuktā bhūtāpahṛtahetayaḥ / pātayitvā yayuḥ karṇāndaśārṇāstarṇakā iva //",
+    "english": "Hacked by the Pisachas (Assamese), and snatched of their weapons by the Bhutas (Bhoteas), the Dasarnas (at the confluence of the ten streams of Vindhya) threw off their staffs, and fled as a herd of heifers.",
+    "morphology": "chinnāḥ_chid_PNPaM piśāca_piśāca_Cp saṃyuktāḥ_saṃyuj_PNPaM bhūta_bhūta_Cp apahṛta_apahṛ_PaCp hetayaḥ_heti_PNM  / pātayitvā_pātay_Co yayuḥ_yā_PPs3In karṇān_karṇa_PAM daśārṇāḥ_daśārṇa_PNM tarṇakāḥ_tarṇaka_PN"
+  },
+  {
+    "index": 19678,
+    "sanskrit": "mohaḥ hi dharma mūḍha tvam mānaḥ tu ātma abhimāni tā",
+    "english": "Pride is a consciousness of one's being himself an actor or sufferer in life.",
+    "morphology": "mohaḥ_moha_SNM"
+  },
+  {
+    "index": 19679,
+    "sanskrit": "yathaiva devadattasya sthānopaveśanagamanaśayanādyavasthābhede 'pi devadattatvaṃ nāpaiti tathā jyotiṣṭomātmanaḥ saṃsthāntaropajanāpāye tattvaṃ nāpaiti /",
+    "english": "Just as whether he be sitting, or walking or sleeping, Devadatta all along remains Dēvadatta so, in the same manner, the disappear ance of one Terminus, and the appearance of another does not make any difference in the applicability of the name Jyotishloma.",
+    "morphology": "yathā_yathā_ eva_eva_ devadattasya_devadatta_SGM sthāna_sthāna_Cp upaveśana_upaveśana_Cp gamana_gamana_Cp śayana_śayana_Cp ādi_ādi_Cp avasthā_avasthā_Cp bhede_bheda_SLM api_api_ devadatta_devadatta_Cp tvam_tva_SNNe na_na_ apaiti_ape_SPr3In tath"
+  }
+]

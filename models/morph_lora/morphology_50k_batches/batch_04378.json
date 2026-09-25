@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35016,
+    "sanskrit": "vṛddhānām bhāra taptānām strīṇām bāla āturasya ca brāhmaṇānām gavām rājñām panthānam dadate ca te atithīnām ca sarveṣām preṣyāṇām sva janasya ca",
+    "english": "They give the way, themselves standing aside, unto those that are old, those that are afflicted with burdens, ladies, those that hold high appointments in the village or town administration, Brahmanas, kine, and kings.",
+    "morphology": "vṛddhānām_vṛddha_PGM bhāra_bhāra_MCp taptānām_tap_PGPaPsM strīṇām_strī_PGF bāla_bāla_MCp āturasya_ātura_SGM ca_ca_U brāhmaṇānām_brāhmaṇa_PGM gavām_go_PGM rājñām_rājan_PGM panthānam_pathin_SAM dadate_dā_PPr3In ca_ca_U te_ta"
+  },
+  {
+    "index": 35017,
+    "sanskrit": "yathecchakam gaccha vā tiṣṭha vā tvam",
+    "english": "Stay or go as thou likest.",
+    "morphology": "yathecchakam_yathecchaka_SANe"
+  },
+  {
+    "index": 35018,
+    "sanskrit": "jarāsaṃdhasya nidhane kālaḥ ayam samupāgataḥ",
+    "english": "The time hath, therefore come for the destruction of Jarasandha.",
+    "morphology": "jarāsaṃdhasya_jarāsaṃdha_SGM nidhane_nidhana_SLNe"
+  },
+  {
+    "index": 35019,
+    "sanskrit": "atha krameṇa saṃtyajya praśvāsocchvāsasaṃvidaḥ / saṃniveśaṃ tyajāmīmamanarthaṃ dehanāmakam //",
+    "english": "I will gradually do away with the inspiration and respiration of my breath and outward sensations; till I part with this trifle—the seat all of troubles—this the so called body.",
+    "morphology": "atha_atha_ krameṇa_krameṇa_ saṃtyajya_saṃtyaj_Co praśvāsa_praśvāsa_Cp ucchvāsa_ucchvāsa_Cp saṃvidaḥ_saṃvid_PAF  / saṃniveśam_saṃniveśa_SAM tyajāmi_tyaj_SPr1In imam_idam_SAM anartham_anartha_SAM deha_deha_Cp nāmakam_nāmaka_SAM  "
+  },
+  {
+    "index": 35020,
+    "sanskrit": "samāpto hetuvistaraḥ //",
+    "english": "We have explained causes.",
+    "morphology": "samāptaḥ_samāp_SNPaM hetu_hetu_Cp vistaraḥ_vistara_SNM  /"
+  },
+  {
+    "index": 35021,
+    "sanskrit": "visasarjātha sā tattvamanveṣṭuṃ ceṭikāṃ nijām / sā cānviṣyāgatā ceṭī tām uvāca priyotsukām //",
+    "english": "And she sent her own maid to find out the truth, and she inquired into it, and came back and said to her mistress, who was longing for her beloved lord: “Queen, I have inquired into the matter;",
+    "morphology": "visasarja_visṛj_SPs3In atha_atha_ sā_tad_SNF tattvam_tattva_SANe anveṣṭum_anviṣ_In ceṭikām_ceṭikā_SAF nijām_nija_SAF  / sā_tad_SNF ca_ca_ anviṣya_anviṣ_Co āgatā_āgam_SNPaF ceṭī_ceṭī_SNF tām_tad_SAF uvāca_vac_SPs3In priya_pri"
+  },
+  {
+    "index": 35022,
+    "sanskrit": "pṛthagbhūto mithyāvādī caeṣām uttamaṃ daṇḍaṃ dadyāt // akṛtaahorūpaharaṃ māsam ākāṅkṣeta //",
+    "english": "Kautilyas Arthashastra Whoever of these ministers or clerks ? is of undivided counsel or keeps himself aloof, or utters falsehood shall be punished with the highest amercement When an accountant has not prepared the table of daily accounts akritáhorúpaharam, he may be given a month more for its preparation",
+    "morphology": "pṛthak_pṛthak_ bhūtaḥ_bhū_SNPaM mithyā_mithyā_ vādī_vādin_SNM ca_ca_ eṣām_idam_PGM uttamam_uttama_SAM daṇḍam_daṇḍa_SAM dadyāt_dā_SPr3O  // a_a_ kṛta_kṛ_PaCp ahorūpa_ahorūpa_Cp haram_hara_SAM māsam_māsa_SAM ākāṅkṣeta_"
+  },
+  {
+    "index": 35023,
+    "sanskrit": "sūrpabhaktaiḥ śilāyāṃ tu bhāgaṃ svāṅgulamucyate / dvyaṅgulaṃ golakaṃ nāmnā kālanetraṃ taducyate //",
+    "english": "In the twelve divisions of the line a division is said to be an aṅgula a finger breadth. Two aṅgulas are known to be a golaka. It is also said to be a kālanetra.",
+    "morphology": "sūrpa_sūrpa_Cp bhaktaiḥ_bhakta_PINe śilāyām_śilā_SLF tu_tu_ bhāgam_bhāga_SAM sva_sva_Cp aṅgulam_aṅgula_SAM ucyate_vac_SPr3InPv  / dvi_dvi_Cp aṅgulam_aṅgula_SNNe golakam_golaka_SNNe nāmnā_nāman_SINe kālanetram_kālanetra_SNNe tat_tad_"
+  }
+]

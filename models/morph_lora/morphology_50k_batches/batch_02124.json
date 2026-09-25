@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16984,
+    "sanskrit": "āhur utpādakaṃ kecid apare kṣetriṇaṃ viduḥ //",
+    "english": "Some say the son belongs to the husband of the mother, and others say he belongs to the begetter.",
+    "morphology": "āhuḥ_ah_PPs3In utpādakam_utpādaka_SAM kecid_kaścit_PNM apare_apara_PNM kṣetriṇam_kṣetrin_SAM viduḥ_vid_PPs3In  /"
+  },
+  {
+    "index": 16985,
+    "sanskrit": "tam it su havyam aṅgiraḥ su devam sahasaḥ yaho iti janāḥ āhuḥ su barhiṣam",
+    "english": "Such a man the people call a giver of good oblations, O Aṅgiras, a friend of the gods, O son of strength 1, and a possessor of a good Barhis (or sacrificial grass).",
+    "morphology": "tam_tad_SAM id_id_U su_su_U havyam_hu_SAMGd aṅgiraḥ_aṅgiras_SVM su_su_U devam_deva_SAM sahasaḥ_sahas_SGNe yaho_yahu_SVM iti_iti_U janāḥ_jana_PNM āhuḥ_ah_PPs3In su_su_U barhiṣam_barhis_SAM"
+  },
+  {
+    "index": 16986,
+    "sanskrit": "nocchravasenniḥśvasennaiva naiva gātrāṇi cālayet / evaṃ tāvanniyuñjīta kumbhakasyeti lakṣaṇam //'",
+    "english": "'Neither breathing in nor breathing out, one should practise holding the body absolutely motionless and this is the definition of kumbhaka' .",
+    "morphology": "na_na_ ucchravaset_ucchravas_SPr3O niḥśvaset_niḥśvas_SPr3O na_na_ eva_eva_ na_na_ eva_eva_ gātrāṇi_gātra_PANe cālayet_cālay_SPr3O  / evam_evam_ tāvat_tāvat_ niyuñjīta_niyuj_SPr3O kumbhakasya_kumbhaka_SGM iti_iti_ lakṣaṇam_lakṣaṇa_S"
+  },
+  {
+    "index": 16987,
+    "sanskrit": "yat pūrvānte ’jñānam, aparānte ’jñānam, pūrvāntāparānte ’jñānam,",
+    "english": "Not knowing the past, not knowing the future, not knowing the past and the future,",
+    "morphology": "yat_yad_SNNe pūrva_pūrva_Cp ante_anta_SLM ajñānam_ajñāna_SNNe ajñānam_ajñāna_SNNe"
+  },
+  {
+    "index": 16988,
+    "sanskrit": "ime tu bharata śreṣṭha vijñeyāḥ paṅkti pāvanāḥ ye tu atas tān pravakṣyāmi parīkṣasva iha tān dvijān",
+    "english": "'I shall now, O chief of Bharata's race, tell thee who are sanctifiers of the line. Do thou find them out by examination.",
+    "morphology": "ime_idam_PNM tu_tu_U bharata_bharata_MCp śreṣṭha_śreṣṭha_SVM vijñeyāḥ_vijñā_PNMGd paṅkti_paṅkti_FCp pāvanāḥ_pāvana_PNM ye_yad_PNM tu_tu_U atas_atas_U tān_tad_PAM pravakṣyāmi_pravac_SFu1In parīkṣasva_parīkṣ_SPr2Im iha_iha_"
+  },
+  {
+    "index": 16989,
+    "sanskrit": "indra uvāca | mayā vinihatāḥ pūrvaṃ bahavaḥ kila dānavāḥ | brahmahatyā na saṃjātā mama hatyādhunā katham || 106 ||",
+    "english": "Indra said: Many Dānavas have been killed by me formerly but this sin of Brāhmaṇa-slaughter did not overtake me. How is it so now? Brahmā said:",
+    "morphology": "indraḥ_indra_SNM uvāca_vac_SPs3In  / mayā_mad_SI vinihatāḥ_vinihan_PNPaM pūrvam_pūrvam_ bahavaḥ_bahu_PNM kila_kila_ dānavāḥ_dānava_PNM  / brahma_brahman_Cp hatyā_hatyā_SNF na_na_ saṃjātā_saṃjan_SNPaF mama_mad_SG hatyā_hatyā_SNF ad"
+  },
+  {
+    "index": 16990,
+    "sanskrit": "indradyumna uvāca | kiṃ tvayā vihitaṃ karma yenedṛgjīvitaṃ sthitam | kiṃ dānasyaprabhāvo'yaṃ tapaso niyamasya vā || 339 ||",
+    "english": "Indradyumna said: 339. What Karma was done by you, whereby such a (long) life has been acquired? Is it due to the power of Dāna, of penance or of observance of restraints?",
+    "morphology": "indradyumnaḥ_indradyumna_SNM uvāca_vac_SPs3In  / kim_ka_SNNe tvayā_tvad_SI vihitam_vidhā_SNPaNe karma_karman_SNNe yena_yad_SINe īdṛś_īdṛś_Cp jīvitam_jīvita_SNNe sthitam_sthā_SNPaNe  / kim_ka_SNNe dānasya_dāna_SGNe aprabhāvaḥ_aprabhāva"
+  },
+  {
+    "index": 16991,
+    "sanskrit": "dvayormātṛkayostattvasthityā varṇakramaḥ purā | kathitastaṃ tathā nyasyettattattattvaviśuddhaye |",
+    "english": "I have already explained the sequence of letters in both the systems of the alphabet known as mātrkā and mālinī in keeping with the states of the essence.",
+    "morphology": "dvayoḥ_dvi_DuGF mātṛkayoḥ_mātṛkā_DuGF tattva_tattva_Cp sthityā_sthiti_SIF varṇa_varṇa_Cp kramaḥ_krama_SNM purā_purā_  / kathitaḥ_kathay_SNPaM tam_tad_SAM tathā_tathā_ nyasyet_nyas_SPr3O tad_tad_Cp tad_tad_Cp tattva_tattva_Cp viśudd"
+  }
+]

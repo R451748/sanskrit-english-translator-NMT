@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7320,
+    "sanskrit": "sya tannimittatvāt",
+    "english": "the Agnishtoma only, that also would be quite in keeping with the Context.",
+    "morphology": "__U"
+  },
+  {
+    "index": 7321,
+    "sanskrit": "notkuṭakaḥ //",
+    "english": "Nor lying stretched out on the back;",
+    "morphology": "na_na_ utkuṭakaḥ_utkuṭaka_SNM  /"
+  },
+  {
+    "index": 7322,
+    "sanskrit": "asādhubhyaḥ nirādāya sādhubhyaḥ yaḥ prayacchati ātmānam saṃkramam kṛtvā kṛtsna dharma vid eva saḥ",
+    "english": "He who making himself an instrument of acquisition, takes wealth from the wicked and gives it unto them that are good, is said to be conversant with the morality of adversity.",
+    "morphology": "asādhubhyaḥ_asādhu_PDM nirādāya_nirādā_Co sādhubhyaḥ_sādhu_PDM yaḥ_yad_SNM prayacchati_prayam_SPr3In ātmānam_ātman_SAM saṃkramam_saṃkrama_SAM kṛtvā_kṛ_Co kṛtsna_kṛtsna_Cp dharma_dharma_MCp vid_vid_SNM eva_eva_U saḥ_tad_SNM"
+  },
+  {
+    "index": 7323,
+    "sanskrit": "śabdam na vindet śrotreṇa sparśam tvacā na vedayet",
+    "english": "He has no perception of sound through the ear; no perception of touch through the skin;",
+    "morphology": "śabdam_śabda_SAM na_na_U vindet_vid_SPr3O śrotreṇa_śrotra_SINe sparśam_sparśa_SAM tvacā_tvac_SIF"
+  },
+  {
+    "index": 7324,
+    "sanskrit": "tadā na āśaṃse vijayāya saṃjaya yadā aśrauṣam vāhaneṣu āśvasatsu rathopasthe tiṣṭhatā gāṇḍivena",
+    "english": "When I heard that while his horses were fatigued, Arjuna staying in his chariot checked all his assailants, then, O Sanjaya, I had no hope of success.",
+    "morphology": "tadā_tadā_U na_mad_PA āśaṃse_āśaṃs_SPr1In vijayāya_vijaya_SDM saṃjaya_saṃjaya_SVM yadā_yadā_U aśrauṣam_śru_SPs1In vāhaneṣu_vāhana_PLNe āśvasatsu_āśvas_PLPaPrNe rathopasthe_rathopastha_SLM tiṣṭhatā_sthā_SIPaPrNe gāṇḍi"
+  },
+  {
+    "index": 7325,
+    "sanskrit": "ciravilvo naktamālaḥ karajaś ca karañjake / prakīryaḥ pūtikarajo markaṭyaṅgāravallarī //",
+    "english": "Cirabilva , naktamāla and karaja are the other names of karañjaka. Pūtika is also known as prakīrya and pūtikaraja. Markaṭī and aṅgāravallarī are varieties of karañja.",
+    "morphology": "__ciravilva_U __naktamāla_U __karaja_U ca_ca_U __karañjaka_U  / __prakīrya_U __pūtikaraja_U __markaṭī_U __aṅgāravallarī_U  /"
+  },
+  {
+    "index": 7326,
+    "sanskrit": "yasmātpāpa tvayāhaṃ ca pādaghātaiḥ pratāḍitaḥ | tasmātte patatāṃ pādau sadya eva dharātale || 24 ||",
+    "english": "24. “O sinful one, since I have been kicked by you with the feet, therefore those two feet will fall off instantly on the ground.”",
+    "morphology": "yasmāt_yasmāt_ pāpa_pāpa_SVM tvayā_tvad_SI aham_mad_SN ca_ca_ pāda_pāda_Cp ghātaiḥ_ghāta_PIM pratāḍitaḥ_pratāḍay_SNPaM  / tasmāt_tasmāt_ te_tvad_SG patatām_pat_SPr3Im pādau_pāda_DuNM sadyas_sadyas_ eva_eva_ dharā_dharā_Cp tale_tal"
+  },
+  {
+    "index": 7327,
+    "sanskrit": "athāta iṣṭakāmātrāṇāmeva /",
+    "english": "Now, then, of the measures of the bricks.",
+    "morphology": "atha_atha_ atas_atas_ iṣṭakā_iṣṭakā_Cp mātrāṇām_mātrā_PGF eva_eva_  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42808,
+    "sanskrit": "dakṣiṇasyām diśi yamam pratyapaśyam vyavasthitam varuṇam devarājam ca yathāsthānam avasthitam",
+    "english": "And I saw Yama seated on the south and Varuna and the lord of the celestials at their respective regions.",
+    "morphology": "dakṣiṇasyām_dakṣiṇa_SLF diśi_diś_SLF yamam_yama_SAM pratyapaśyam_pratipaś_SPs1In vyavasthitam_vyavasthā_SAPaPsM varuṇam_varuṇa_SAM devarājam_devarāja_SAM ca_ca_U yathāsthānam_yathāsthānam_U avasthitam_avasthā_SAPaPsM"
+  },
+  {
+    "index": 42809,
+    "sanskrit": "pratyakṣoktiḥ pratyayaśca praśnapūrvaḥ pratigrahaḥ | yājanā'dhyāpane vādaḥ ṣaḍvidho vedavikrayaḥ || 25 ||",
+    "english": "25. Selling of the Vedas is of six types, mentioned as: Pratyakṣokti (direct statement), Pratyaya (solemn oath), Praśnapūrvaḥ pratigrahaḥ (acceptance of remuneration after answering a question), Yājana (performing Yajñas), Adhyāpana (teaching) and Vāda (disputation).",
+    "morphology": "pratyakṣa_pratyakṣa_Cp uktiḥ_ukti_SNF pratyayaḥ_pratyaya_SNM ca_ca_ praśna_praśna_Cp pūrvaḥ_pūrva_SNM pratigrahaḥ_pratigraha_SNM  / yājana_yājana_Cp adhyāpane_adhyāpana_DuNNe vādaḥ_vāda_SNM ṣaḍvidhaḥ_ṣaḍvidha_SNM veda_veda"
+  },
+  {
+    "index": 42810,
+    "sanskrit": "ekasyaikatra vijñāne vyāhate hi kriyākriye //",
+    "english": "Because in any single thing, both action and inaction would be selfcontradictory.",
+    "morphology": "ekasya_eka_SGNe ekatra_ekatra_ vijñāne_vijñāna_SLNe vyāhate_vyāhan_DuNPaF "
+  },
+  {
+    "index": 42811,
+    "sanskrit": "brahmaṇā noditā pūrvaṃ tapaḥ paramamāśritā | tapasā tena mahatā kumāraṃ prati vai tadā | āgatā duhitā mṛtyoḥ senā nāmaikasuṃdarī || 12 ||",
+    "english": "12. Formerly she had been urged by Brahmā to resort to great penance (to enable herself to attain) Kumāra by means of that great penance. That beautiful lady named Senā,[1] the daughter of Mṛtyu, came there.",
+    "morphology": "brahmaṇā_brahman_SIM na_na_ uditā_vad_SNPaF pūrvam_pūrvam_ tapaḥ_tapas_SANe paramam_parama_SANe āśritā_āśri_SNPaF  / tapasā_tapas_SINe tena_tad_SINe mahatā_mahat_SINe kumāram_kumāra_SAM prati_prati_ vai_vai_ tadā_tadā_  / āgatā_āgam_S"
+  },
+  {
+    "index": 42812,
+    "sanskrit": "modate ca sukham svarge deva gandharva pūjitaḥ yaḥ dadāti mahīm samyak vidhinā iha dvijātaye",
+    "english": "That king who makes gifts of earth with due rites unto persons of the regenerate order, sports in bliss in the celestial regions, adorned all the while by the deities and Gandharvas.",
+    "morphology": "modate_mud_SPr3In ca_ca_U sukham_sukham_U svarge_svarga_SLM deva_deva_MCp gandharva_gandharva_MCp pūjitaḥ_pūjay_SNPaPsM yaḥ_yad_SNM dadāti_dā_SPr3In mahīm_mahī_SAF samyak_samyak_U vidhinā_vidhi_SIM"
+  },
+  {
+    "index": 42813,
+    "sanskrit": "evaṃ suvihitā khyātā vṛddhiṃ yāti dinedine | śuklapakṣe kalā cendoryathaiva gaganāṃgaṇe || 7 ||",
+    "english": "17. Thus duly consecrated and well reputed she grew up day by day like the digit of the moon in the firmament.",
+    "morphology": "evam_evam_ su_su_ vihitā_vidhā_SNPaF khyātā_khyā_SNPaF vṛddhim_vṛddhi_SAF yāti_yā_SPr3In dine_dina_SLNe dine_dina_SLNe  / śukla_śukla_Cp pakṣe_pakṣa_SLM kalā_kalā_SNF ca_ca_ indoḥ_indu_SGM yathā_yathā_ eva_eva_ gagana_gagana_Cp aṅg"
+  },
+  {
+    "index": 42814,
+    "sanskrit": "viddhi puryaṣṭakaṃ jīvo yo garbhasthendriyodayaḥ / yadyathā bhāvayatyāśu tattathā paripaśyati //",
+    "english": "Know that as the living soul, dwelling in its body in the mother's womb, comes to reflect on the actions of the senses, it finds their proper organ supplied to its body immediately.",
+    "morphology": "viddhi_vid_SPr2Im puryaṣṭakam_puryaṣṭaka_SANe jīvaḥ_jīva_SNM yaḥ_yad_SNM garbha_garbha_Cp stha_stha_Cp indriya_indriya_Cp udayaḥ_udaya_SNM  / yat_yad_SANe yathā_yathā_ bhāvayati_bhāvay_SPr3In āśu_āśu_ tat_tad_SANe tathā_tathā_ par"
+  },
+  {
+    "index": 42815,
+    "sanskrit": "tat tvam asi śvetaketo iti /",
+    "english": "That thou art, O, Śvetaketu",
+    "morphology": "tat_tad_SNNe tvam_tvad_SN asi_as_SPr2In śvetaketo_śvetaketu_SVM iti_iti_"
+  }
+]

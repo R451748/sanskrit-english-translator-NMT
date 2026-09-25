@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40688,
+    "sanskrit": "yo śāsanaṃ arahatāṃ ayirāṇāṃ dhammajīvināṃ |",
+    "english": "Whoever reviles the worthy teaching of the Noble Ones who live by Dhamma,",
+    "morphology": "yaḥ_yad_SNM śāsanaḥ_śāsana_SNM arahatām_arahat_PGM ayirāṇām_ayira_PGM dhamma_dhamma_Cp jīvināṃ_jīvin_PGM"
+  },
+  {
+    "index": 40689,
+    "sanskrit": "saṃbhinnāya vibhinnāya chāyāya ātapanāya ca",
+    "english": "Salutations to thee that art united as cause and disunited as effects, and that art the form of shadow and of light.",
+    "morphology": "saṃbhinnāya_sambhid_SDPaPsM vibhinnāya_vibhid_SDPaPsM chāyāya_chāyā_SDM ātapanāya_ātapana_SDM ca_ca_"
+  },
+  {
+    "index": 40690,
+    "sanskrit": "tasmātpuṇyatamaṃ tīrthaṃ cakratīrthamanuttamam || 4 ||",
+    "english": "4. Hence Cakratīrtha, the excellent Tīrtha, is excessively meritorious.",
+    "morphology": "tasmāt_tad_SBNe puṇyatamam_puṇyatama_SNNe tīrtham_tīrtha_SNNe cakratīrtham_cakratīrtha_SNNe anuttamam_anuttama_SNNe  /"
+  },
+  {
+    "index": 40691,
+    "sanskrit": "kṣamate sarvatas sādhuḥ sādhu āpnoti ca satyavān",
+    "english": "This virtue may well be acquired through the practice of truthfulness.",
+    "morphology": "kṣamate_kṣam_SPr3In sarvatas_sarvatas_U sādhuḥ_sādhu_SNM sādhu_sādhu_SANe āpnoti_āp_SPr3In ca_ca_U satyavān_satyavat_SNM"
+  },
+  {
+    "index": 40692,
+    "sanskrit": "etat vaḥ sarvam ākhyātam mayā vipra ṛṣi sattamāḥ",
+    "english": "I have now declared everything to you, ye foremost of regenerate Rishis.",
+    "morphology": "etat_etad_SNNe vaḥ_tvad_PA sarvam_sarva_SNNe ākhyātam_ākhyā_SNPaPsNe mayā_mad_SI vipra_vipra_MCp ṛṣi_ṛṣi_MCp sattamāḥ_sattama_PVM"
+  },
+  {
+    "index": 40693,
+    "sanskrit": "utpāta meghāḥ raudrāḥ ca vavarṣuḥ śoṇitam bahu",
+    "english": "And terrible masses of clouds dropped thick showers of blood.",
+    "morphology": "utpāta_utpāta_MCp meghāḥ_megha_PNM raudrāḥ_raudra_PNM ca_ca_U vavarṣuḥ_vṛṣ_PPs3In śoṇitam_śoṇita_SANe bahu_bahu_SANe"
+  },
+  {
+    "index": 40694,
+    "sanskrit": "paripūrṇatamaḥ sākṣāc chrī kṛṣṇo nānya eva hieka kāryārtham āgatya koṭi kāryam cakāra ha",
+    "english": "Śrī Kṛṣṇa, and no one else, is the original Supreme Personality of Godhead. Coming to this world to do one thing, He did millions of other things as well.",
+    "morphology": "paripūrṇatamaḥ_paripūrṇatama_SNM sākṣāt_sākṣāt_ śrī_śrī_FCp kṛṣṇaḥ_kṛṣṇa_SNM na_na_ anyaḥ_anya_SNM eva_eva_ hi_hi_U eka_eka_Cp kāryārtham_kāryārtha_SAM āgatya_āgam_Co koṭi_koṭi_FCp kāryam_kārya_SANe cakāra_k"
+  },
+  {
+    "index": 40695,
+    "sanskrit": "api ca api aphalam karma paśyāmaḥ kurvataḥ janān na anyathā hi abhijānanti vṛttim loke katham cana",
+    "english": "It is even seen that creatures sometimes perform acts that have no fruits, for without acts the course of life itself would be impossible.",
+    "morphology": "api_api_U ca_ca_U api_api_U aphalam_aphala_SANe karma_karman_SANe paśyāmaḥ_dṛś_PPr1In kurvataḥ_kṛ_PAPaPrM janān_jana_PAM na_na_U anyathā_anyathā_U hi_hi_U abhijānanti_abhijñā_PPr3In vṛttim_vṛtti_SAF loke_loka_SLM katham_katham_U cana_c"
+  }
+]

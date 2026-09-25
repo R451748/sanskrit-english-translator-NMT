@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33280,
+    "sanskrit": "ye pyājaḥ",
+    "english": "Some people assert that, inasmuch as the Mantras are laid down by the Brāhmaṇas, as instrumental in the performance of sacrifices,exactly as the corn, &c., are, they cannot have any injunctive potency, just as the corn, &c., have none.",
+    "morphology": "ye_yad_PNM"
+  },
+  {
+    "index": 33281,
+    "sanskrit": "śarkarā madhu miśreṇa śītena madhuka ambunā",
+    "english": "A cold decoction of Yashti-madhu saturated with honey and sugar[20] or a decoction of the (bark of the) milk-exuding trees (Kshiri-Vriksha), or cold milk, should again be injected into the bladder, in the event of there being a burning sensation in that organ.",
+    "morphology": "śarkarā_śarkarā_SNF"
+  },
+  {
+    "index": 33282,
+    "sanskrit": "pradhānatvāpradhānatvapratītiratu dravyaguṇayoḥ svābhāviko nityaṃci rūpādiṣu svaprādhānyenābhidhīyamāneṣu dravyaṃ viśeṣatvenocate śukādiṣu viśeṣyavenā, ta eva cānādikāla prasiddārthatvādasyā lakṣaṇāyā matubnopānāne nānugamaḥ",
+    "english": "As a matter of fact also, we do not find that the substance is never signified by the cognition of Rupa etc., for we actually find that the Rupa points to the substance as its invariable concomitant, just as the smoke points to the fire all that we mean is that the word Rūpa itself not pertaining to the substance, there is no Indication in this case. Between the Substance and the Property, whether it is the one or the other that is cognized as the predominant element depends upon their nature and in the case of Rupa etc., we find that they are always denoted as the predominant factors and hence in such cases the sub stance is signified merely as a qualifying subsidiary whereas in the case of the word Çukla and the like, the substance is expressed as the quali fied predominant factor. It is on account of this indicative signification having continued from the very beginning of things that it is explained by means of the explanatory grammatical rule laying down the elim.",
+    "morphology": "pradhāna_pradhāna_Cp tva_tva_Cp apradhāna_apradhāna_Cp tva_tva_Cp pratītiḥ_pratīti_SNF atu_atu_ dravya_dravya_Cp guṇayoḥ_guṇa_DuGM svābhāvikaḥ_svābhāvika_SNM rūpa_rūpa_Cp ādiṣu_ādi_PLM sva_sva_Cp prādhānyena_prādhānya_SINe abh"
+  },
+  {
+    "index": 33283,
+    "sanskrit": "suvarṇabindutīrthaṃ ca ṛṇapāpapramocanam | bhārabhūteśvaraṃ tīrthaṃ tathā muṇḍīśvaraṃ viduḥ || 100 ||",
+    "english": "Suvarṇabindutīrtha; Ṛṇapāpapramocana; Bhārabhūteśvara Tīrtha; Muṇḍīśvara;",
+    "morphology": "__suvarṇabindutīrtha_U ca_ca_U __ṛṇa_U __pāpa_U __pramocana_U  / __bhārabhūteśvara_U __tīrtha_U __tathā_U __muṇḍīśvara_U __vid_PPs3In"
+  },
+  {
+    "index": 33284,
+    "sanskrit": "sarva ātmanā ca kartāsmi yadi api syāt su duṣkaram",
+    "english": "What am I to do now for enhancing your joy? Even if it be exceedingly difficult of achievement, I will yet do it with all my soul.",
+    "morphology": "sarva_sarva_Cp ātmanā_ātman_SIM ca_ca_U"
+  },
+  {
+    "index": 33285,
+    "sanskrit": "veda vidyā vidhātāram brahmāṇam amita dyutim",
+    "english": "Of immeasurable effulgence, Brahman became also the expositor of the knowledge of the Vedas.",
+    "morphology": "vāṇī_vāṇī_FCp"
+  },
+  {
+    "index": 33286,
+    "sanskrit": "labdhalābhaḥ pitṝndevānbrāṃhmaṇāṃścaiva tarpayet | te tṛptāstasya tatpāpaṃ śamayaṃti na saṃśayaḥ || 60 ||",
+    "english": "60. When he acquires profit, he should propitiate the Pitṛs, Devas and Brāhmaṇas. On being satisfied, they undoubtedly quell his sin.",
+    "morphology": "labdha_labh_PaCp lābhaḥ_lābha_SNM pitṝn_pitṛ_PAM devān_deva_PAM brāhmaṇān_brāhmaṇa_PAM ca_ca_ eva_eva_ tarpayet_tarpay_SPr3O  / te_tad_PNM tṛptāḥ_tṛp_PNPaM tasya_tad_SGM tat_tad_SANe pāpam_pāpa_SANe śamayanti_śamay_PPr3In na_na_ "
+  },
+  {
+    "index": 33287,
+    "sanskrit": "evam anyeṣām api balīvardādivāhyaprayoktṝṇām īdṛśī vṛddhiś cakravṛddir ucyate /",
+    "english": "In the case of oxen and other things that are used as conveyances, interest is paid in this same manner and it is this that is called \"wheelinterest\".",
+    "morphology": "evam_evam_ anyeṣām_anya_PGM api_api_ balīvarda_balīvarda_Cp ādi_ādi_Cp vāhya_vah_GdCp prayoktṝṇām_prayoktṛ_PGM īdṛśī_īdṛśa_SNF"
+  }
+]

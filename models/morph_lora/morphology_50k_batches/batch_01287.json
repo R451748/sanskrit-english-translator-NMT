@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10288,
+    "sanskrit": "tatas sa nara śārdūlaḥ prativindhyam tam āhave kukṣi deśe avadhīt rājan sa hataḥ nyapatat bhuvi",
+    "english": "Then that tiger among men, in that dreadful battle, struck Prativindhya in the abdomen, at which the latter, O king, deprived of life, fell down on the Earth.",
+    "morphology": "tatas_tatas_U sa_tad_SNM nara_nara_MCp śārdūlaḥ_śārdūla_SNM prativindhyam_prativindhya_SAM tam_tad_SAM āhave_āhava_SLM kukṣi_kukṣi_MCp deśe_deśa_SLM avadhīt_vadh_SPs3In rājan_rājan_SVM sa_tad_SNM hataḥ_han_SNPaPsM nyapatat_nipat_SPs3In"
+  },
+  {
+    "index": 10289,
+    "sanskrit": "praśāsitāraṃ sarveṣām aṇīyāṃsam aṇor api / rukmābhaṃ svapnadhīgamyaṃ vidyāt taṃ puruṣaṃ param //",
+    "english": "The ruler of all, who is minuter than the minutest atom, bright like gold, amenable to dreamcognition, him should one know as the Highest Puruṣa.",
+    "morphology": "praśāsitāram_praśāsitṛ_SAM sarveṣām_sarva_PGM aṇīyāṃsam_aṇīyas_SAM aṇoḥ_aṇu_SBM api_api_  / rukma_rukma_Cp ābham_ābha_SAM svapna_svapna_Cp dhī_dhī_Cp gamyam_gam_SAMGd vidyāt_vid_SPr3O tam_tad_SAM puruṣam_puruṣa_SAM param_p"
+  },
+  {
+    "index": 10290,
+    "sanskrit": "kṣīrodanam ca bhuṅkṣva tvam amṛtena samanvitam bandhubhiḥ sahitaḥ kalpam tatas mām upayāsyasi",
+    "english": "Do thou, with thy friends, always obtain food prepared with milk, with the celestial nectar besides being mixed with it.[67] After the expiration of a Kalpa thou shalt then obtain my companionship.",
+    "morphology": "kṣīrodanam_kṣīrodana_SANe ca_ca_U bhuṅkṣva_bhuj_SPr2Im tvam_tvad_SN amṛtena_amṛta_SINe samanvitam_samanvita_SANe bandhubhiḥ_bandhu_PIM sahitaḥ_sahita_SNM kalpam_kalpa_SAM tatas_tatas_U mām_mad_SA upayāsyasi_upayā_SFu2In"
+  },
+  {
+    "index": 10291,
+    "sanskrit": "uyyogamukhe ca tiṣṭhasi pātheyaṃ pi ca te na vijjati ||",
+    "english": "you stand at decay’s door, with no provisions for the journey found.",
+    "morphology": "uyyoga_uyyoga_Cp mukhe_mukha_SLNe ca_ca_ tiṣṭhasi_sthā_SPr2In pātheyam_pātheya_SNNe ca_ca_ te_tvad_SG"
+  },
+  {
+    "index": 10292,
+    "sanskrit": "pautradauhitrayor loke viśeṣo nopapadyate /",
+    "english": "No difference is made in this world between the son of a son and the son of a daughter;",
+    "morphology": "pautra_pautra_Cp dauhitrayoḥ_dauhitra_DuGM loke_loka_SLM viśeṣaḥ_viśeṣa_SNM"
+  },
+  {
+    "index": 10293,
+    "sanskrit": "sugrīvatīrthamā hātmyamevaṃ vaḥ kathitaṃ dvijāḥ || | vaibhavaṃ nalatīrthasya tvidānīṃ prabravīmi vaḥ || 40 ||",
+    "english": "Now I shall recount the glory of Nalatīrtha[3] to you.",
+    "morphology": "sugrīvatīrtham_sugrīvatīrtha_SNNe ā_ā_ hātmyam_hātmya_SNNe evam_evam_ vaḥ_tvad_PA kathitam_kathay_SNPaNe dvijāḥ_dvija_PVM  / vaibhavam_vaibhava_SANe nalatīrthasya_nalatīrtha_SGNe tu_tu_ idānīm_idānīm_ prabravīmi_prabrū_SPr1In vaḥ_tva"
+  },
+  {
+    "index": 10294,
+    "sanskrit": "tena arcitaḥ na eva bhavāmi samyak",
+    "english": "Telang renders the line 'one practising concentration should never become despondent.' I think, Nilakantha is right.",
+    "morphology": "tena_tad_SIM"
+  },
+  {
+    "index": 10295,
+    "sanskrit": "nu naḥ indrāvaruṇā gr̥ṇānā pr̥ṅktam rayim sauśravasāya devā itthā gr̥ṇantaḥ mahinasya śardhaḥ apaḥ na nāvā duḥ itā tarema",
+    "english": "Indra. and Varuṇa, Gods whom we are lauding, mingle ye wealth with our heroic glory. May we, who praise the strength of what is mighty, pass dangers, as with boats we cross the waters.",
+    "morphology": "nu_nu_U naḥ_mad_PD indrāvaruṇā_indrāvaruṇa_DuVM gr̥ṇānā_grant_DuNPaPrM pr̥ṅktam_pracch_DuPr2Im rayim_rayi_SAM sauśravasāya_sauśravasa_SDNe devā_deva_DuVM itthā_itthā_U gr̥ṇantaḥ_grant_PNPaPrM mahinasya_mahina_SGM śardhaḥ_śar"
+  }
+]

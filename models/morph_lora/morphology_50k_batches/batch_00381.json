@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3040,
+    "sanskrit": "imāḥ agne matayaḥ tubhyam jātāḥ gobhiḥ aśvaiḥ abhi gr̥ṇanti rādhaḥ yadā te martaḥ anu bhogam ānaṭ vaso iti dadhānaḥ mati bhiḥ su jāta",
+    "english": "These hymns brought forth for thee, O Agni, laud thee for bounteous gifts, with cattle and with horses. Good Lord, when man from thee hath gained enjoyment, by hymns, O noblyborn, hath he obtained it.",
+    "morphology": "imāḥ_idam_PNF agne_agni_SVM matayaḥ_mati_PNF tubhyam_tvad_SD jātāḥ_jan_PNPaPsF gobhiḥ_go_PIM aśvaiḥ_aśva_PIM abhi_abhi_U gr̥ṇanti_grah_PPr3In rādhaḥ_rādhas_SANe yadā_yadā_U te_tvad_SG martaḥ_marta_SNM anu_anu_U bhogam_bhoga_SAM ā"
+  },
+  {
+    "index": 3041,
+    "sanskrit": "vigraham pūjayet yaḥ vai liṅgam vā api mahātmanaḥ",
+    "english": "If there is one who worship him by creating his image, another who worships his emblem, the latter it is that attains to great prosperity for ever.",
+    "morphology": "vigraham_vigraha_SAM pūjayet_pūjay_SPr3O yaḥ_yad_SNM vai_vai_U liṅgam_liṅga_SANe vā_vā_U api_api_U mahātmanaḥ_mahātman_SGM"
+  },
+  {
+    "index": 3042,
+    "sanskrit": "adāna-patayo hi nirayaṃ gacchanti,",
+    "english": "Those who don’t give go to the underworld,",
+    "morphology": "a_a_ dāna_dāna_Cp patayaḥ_pati_PNM"
+  },
+  {
+    "index": 3043,
+    "sanskrit": "anye tv anyad ucchiṣṭam iti vyācakṣate bhuktojjhitam ucchiṣṭam /",
+    "english": "Others have explained \"leavings\" as something differentas what has been left after one has eaten.",
+    "morphology": "anye_anya_PNM tu_tu_ anyat_anya_SANe ucchiṣṭam_ucchiṣṭa_SNNe iti_iti_ vyācakṣate_vyācakṣ_PPr3In bhukta_bhukta_Cp ujjhitam_ujjhita_SNNe ucchiṣṭam_ucchiṣṭa_SNNe  /"
+  },
+  {
+    "index": 3044,
+    "sanskrit": "na jātu na aham asmi iti prasaktavyam asādhuṣu",
+    "english": "He who wishes to prevent self-destruction should never mix with wicked wights for general or special reasons.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 3045,
+    "sanskrit": "brahmovāca | ityukto roṣatāmrākṣo vedamaryādapālakaḥ | virarāma mahāvīraṃ kālārissakaleśvaraḥ ||",
+    "english": "59. After saying thus to Vīrabhadra the great hero, Śiva the lord of all, the slayer of Kāla, the protector of Vedic conventions, stopped, with his eyes still resembling copper (due to anger).",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ uktaḥ_vac_SNPaM roṣa_roṣa_Cp tāmra_tāmra_Cp akṣaḥ_akṣa_SNM veda_veda_Cp maryādā_maryādā_Cp pālakaḥ_pālaka_SNM  / virarāma_viram_SPs3In mahā_mahat_Cp vīram_vīra_SAM kālāriḥ_kāl"
+  },
+  {
+    "index": 3046,
+    "sanskrit": "jyotīṃṣi śuklāni ca sarva loke",
+    "english": "He is the white rays of light that are seen in all the worlds.",
+    "morphology": "jyotīṃḥ_jyotis_PANe"
+  },
+  {
+    "index": 3047,
+    "sanskrit": "upasargā na śeṣāṃśca kubjā harati pūjitā | tasmātkubjā prayatnena pūjyā kāśyāṃ śubhārthibhiḥ || 59 ||",
+    "english": "59. On being worshipped, Kubjā removes calamities entirely. Hence Kubjā should be assiduously worshipped in Kāśī by those who seek auspiciousness and welfare.",
+    "morphology": "upasargāḥ_upasarga_PNM na_na_ śeṣān_śeṣa_PAM ca_ca_ kubjā_kubja_SNF harati_hṛ_SPr3In pūjitā_pūjay_SNPaF  / tasmāt_tasmāt_ kubjā_kubja_SNF prayatnena_prayatna_SIM pūjyā_pūjay_SNFGd kāśyām_kāśi_SLF śubha_śubha_Cp arthibhiḥ_arth"
+  }
+]

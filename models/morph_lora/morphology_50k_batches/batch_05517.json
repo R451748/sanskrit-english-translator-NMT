@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44128,
+    "sanskrit": "atho etad vai yajñasya rūpam |",
+    "english": "Again this is the form of the sacrifice;",
+    "morphology": "atha_atha_ u_u_ etat_etad_SNNe vai_vai_ yajñasya_yajña_SGM rūpam_rūpa_SNNe"
+  },
+  {
+    "index": 44129,
+    "sanskrit": "a vimṛśya eva ca tatas kṛtavān asmi tat tathā tena ucchiṣṭena gātrāṇi śiraḥ ca eva abhyamṛkṣayam",
+    "english": "Indeed, with the remnant of that frumenty I smeared my body and head.",
+    "morphology": "a_a_U vimṛśya_vimṛś_Co eva_eva_U ca_ca_U tatas_tatas_U kṛtavān_kṛ_SNPaPsM asmi_as_SPr1In tat_tad_SANe tathā_tathā_U tena_tad_SINe ucchiṣṭena_ucchiṣṭa_SINe gātrāṇi_gātra_PANe śiraḥ_śiras_SANe ca_ca_U eva_eva_U abhyamṛkṣayam"
+  },
+  {
+    "index": 44130,
+    "sanskrit": "śiras ruj gaurava ālasya hanu stambha galgrahe śiraḥ virecayet kṣipram manyā stambhe ca dāruṇe",
+    "english": "The head of the patient should be cleansed (purged) with medicinal errhines (Nasya) in the case of pain and a heaviness of the head, lassitude, lock-jaw, constriction of the throat (Gala-graha) and violent wryneck (Manya-stambha).",
+    "morphology": "śiras_śiras_NeCp ruj_ruj_MCp gaurava_gaurava_NeCp ālasya_ālasya_NeCp hanu_hanu_MCp stambha_stambha_MCp galgrahe_galgraha_SLM śiraḥ_śiras_SANe virecayet_virecay_SPr3O kṣipram_kṣipram_U manyā_manyā_FCp stambhe_stambha_SLM cāṇā_cāṇā_FCp "
+  },
+  {
+    "index": 44131,
+    "sanskrit": "manīṣitāḥ santi gṛhe 'pi devatās tapaḥ kva vatse kva ca tāvakaṃ vapuḥ / padaṃ saheta bhramarasya pelavaṃ śirīśapuṣpaṃ na punaḥ patatriṇaḥ //",
+    "english": "In the house are deities such as the heart would desire what a wide difference is there between austerities and thy body The delicate Sirisha flower can bear the tread of a bee but not that of a bird",
+    "morphology": "manīṣitāḥ_manīṣita_PNF santi_as_PPr3In gṛhe_gṛha_SLNe api_api_ devatāḥ_devatā_PNF tapaḥ_tapas_SNNe kva_kva_ vatse_vatsā_SVF kva_kva_ ca_ca_ tāvakam_tāvaka_SNNe vapuḥ_vapus_SNNe  / padam_pada_SANe saheta_sah_SPr3O bhramarasya_bhramar"
+  },
+  {
+    "index": 44132,
+    "sanskrit": "īḍito devair harivām̐ abhiṣṭir ājuhvāno haviṣā śardhamānaḥ / puraṃdaro gotabhid vajrabāhur ā yātu yajñam upa no juṣāṇaḥ //",
+    "english": "Lauded by Gods, Lord of Bay Steeds, the Helper, showing his greatness. worshipped with oblations. Fort-render, Cowpen-cleaver, Thunder-wielder, may he approach our sacrifice rejoicing 39",
+    "morphology": "īḍitaḥ_īḍ_SNPaM devaiḥ_deva_PIM harivān_harivat_SNM abhiṣṭiḥ_abhiṣṭi_SNM ājuhvānaḥ_āhu_SNPaPrM haviṣā_havis_SINe śardhamānaḥ_śṛdh_SNPaPrM  / puraṃdaraḥ_puraṃdara_SNM gotabhid_gotabhid_SNM vajra_vajra_Cp bāhuḥ_b"
+  },
+  {
+    "index": 44133,
+    "sanskrit": "saṃdhyām upāssva bhagavan apaḥ spṛṣṭvā yata vrataḥ",
+    "english": "O thou of rigid vows, O illustrious one, do your evening prayer after purifying yourself with water and uttering the name of Vishnu.",
+    "morphology": "saṃdhyām_saṃdhyā_SAF upāssva_upās_SPr2Im bhagavat_bhagavat_SVM apaḥ_ap_PAF spṛṣṭvā_spṛś_SPr2Im"
+  },
+  {
+    "index": 44134,
+    "sanskrit": "svarge śakrānuyāteṣu devatūryānunādiṣu /",
+    "english": "When the king of gods repaired to the celestial region bugles were sounded.",
+    "morphology": "svarge_svarga_SLM śakra_śakra_Cp anuyāteṣu_anuyā_PLPaM deva_deva_Cp tūrya_tūrya_Cp anunādiṣu_anunādin_PLM "
+  },
+  {
+    "index": 44135,
+    "sanskrit": "tasmātsarvamicchāmātreṇa bhagavān jānātīti sautrāntikāḥ /",
+    "english": "\" Consequently the Blessed One knows immediately and at his will all things, not by inference, and not by divination.",
+    "morphology": "tasmāt_tasmāt_ sarvam_sarva_SANe icchā_icchā_Cp mātreṇa_mātra_SINe bhagavān_bhagavant_SNM jānāti_jñā_SPr3In iti_iti_ sautrāntikāḥ_sautrāntika_PNM  /"
+  }
+]

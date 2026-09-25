@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43744,
+    "sanskrit": "yajñanidhana //",
+    "english": "Thou art the consummation of offerings.",
+    "morphology": "yajña_yajña_Cp nidhana_nidhana_SVM "
+  },
+  {
+    "index": 43745,
+    "sanskrit": "dvirvacanaṃ vā ete ca //",
+    "english": "Or, we may read the Dual form \"ete\" instead of \"etāḥ\".",
+    "morphology": "dvirvacanam_dvirvacana_SNNe vā_vā_ ete_etad_PNM ca_ca_  /"
+  },
+  {
+    "index": 43746,
+    "sanskrit": "munaya ūcuḥ | tīrthayātrāprasaṃgena bhramamāṇā mahītalam ḥ | camatkārapurābhyāśe vayaṃ prāptāḥ pitāmaha || 31 ||",
+    "english": "The sages said:",
+    "morphology": "munayaḥ_muni_PNM ūcuḥ_vac_PPs3In  / tīrtha_tīrtha_Cp yātrā_yātrā_Cp prasaṃgena_prasaṅga_SIM bhramamāṇāḥ_bhram_PNPaPrM mahī_mahī_Cp talam_tala_SAM  / camatkāra_camatkāra_Cp pura_pura_Cp abhyāśe_abhyāśa_SLM vayam_mad_PN prāptā"
+  },
+  {
+    "index": 43747,
+    "sanskrit": "nityam ekam vibhudravyaṃ kālameke pracakṣate //",
+    "english": "Says the Opponent People who have postulated Time have regarded it as one, all-pervading and eternal;",
+    "morphology": "nityam_nitya_SANe ekam_eka_SANe vibhu_vibhu_Cp dravyam_dravya_SANe kālam_kāla_SAM eke_eka_PNM pracakṣate_pracakṣ_PPr3In  /"
+  },
+  {
+    "index": 43748,
+    "sanskrit": "gaja aśva deha asthi cayaiḥ parvataiḥ iva saṃcitam nara śīrṣa kapālaiḥ ca śaṅkhaiḥ iva samācitam",
+    "english": "It abounded also with many a hill formed of the bodies and bones of elephants and steeds, and human heads and skulls lay stretched over it like conch-shells.",
+    "morphology": "gaja_gaja_MCp aśva_aśva_MCp deha_deha_MCp asthi_asthi_NeCp cayaiḥ_caya_PIM parvataiḥ_parvata_PIM iva_iva_U saṃcitam_saṃci_SAPaPsNe nara_nara_MCp śīrṣa_śīrṣa_NeCp kapālaiḥ_kapāla_PIM ca_ca_U śaṅkhaiḥ_śaṅkha_PIM iva_iva_U samāc"
+  },
+  {
+    "index": 43749,
+    "sanskrit": "atharṣabhamāhvayitavai brūyāt /",
+    "english": "Let him then tell (the Sacrificer) to make a bull roar.",
+    "morphology": "atha_atha_ ṛṣabham_ṛṣabha_SAM āhvayitavai_āhvā_In"
+  },
+  {
+    "index": 43750,
+    "sanskrit": "na cātra vātantravārtike /",
+    "english": "i. the word jätiḥ in the clause citravyáktiriyam jātiḥ .",
+    "morphology": "na_na_ ca_ca_ atra_atra_ vā_vā_ atantravārtike_atantravārtika_SLNe "
+  },
+  {
+    "index": 43751,
+    "sanskrit": "ye evam kurvate martyāḥ sukham jīvanti sarvadā",
+    "english": "Indeed, men that can live in this way can pass their days for ever in happiness.",
+    "morphology": "ye_yad_PNM evam_evam_U"
+  }
+]

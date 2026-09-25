@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42120,
+    "sanskrit": "tato jagāda taṃ bhikṣumācārya kathamīdṛśaḥ / bahucchidro 'nupālyaḥ syāddharmo jagati mādṛśaiḥ // tac chrutvā so 'bravīdbhikṣurdeva naitāvatā budhaiḥ / dharmasya rakṣaṇavidhau kāryānutsāhinī matiḥ //",
+    "english": "Then he said to the mendicant: “Teacher, how can men like myself obey in this world a law which admits of so many infractions?” When the mendicant heard that, he said: “Wise men should not allow such a little thing to damp their ardour in the keeping of the law of righteousness.",
+    "morphology": "tatas_tatas_ jagāda_gad_SPs3In tam_tad_SAM bhikṣum_bhikṣu_SAM ācārya_ācārya_SVM katham_katham_ īdṛśaḥ_īdṛśa_SNM  / bahu_bahu_Cp chidraḥ_chidra_SNM anupālyaḥ_anupālay_SNMGd syāt_as_SPr3O dharmaḥ_dharma_SNM jagati_jagant_SLNe mād"
+  },
+  {
+    "index": 42121,
+    "sanskrit": "jānāmi tvām mahābhāga pāṇḍavānām hite ratam",
+    "english": "O thou that art highly blessed, I know thou art devoted to the welfare of the Pandavas.",
+    "morphology": "jānā_jñā_SNPaPrM"
+  },
+  {
+    "index": 42122,
+    "sanskrit": "taṃ vai pūrvārdhe minoti / vajro vai yūpo vajro daṇḍaḥ pūrvārdhaṃ vai daṇḍasyābhipadya praharati pūrvārdha eṣa yajñasya tasmātpūrvārdhe minoti //",
+    "english": "That (sacrificial stake) he sets up on the fore-part (of the altar); for the stake is a thunderbolt, as the club is a thunderbolt. But in hurling the club one takes hold of its fore-part; and that (stake) is the fore-part of the sacrifice; therefore he sets it up on the fore-part (of the altar).",
+    "morphology": "tam_tad_SAM vai_vai_ pūrva_pūrva_Cp ardhe_ardha_SLNe minoti_mi_SPr3In  / vajraḥ_vajra_SNM vai_vai_ yūpaḥ_yūpa_SNM vajraḥ_vajra_SNM daṇḍaḥ_daṇḍa_SNM pūrva_pūrva_Cp ardham_ardha_SANe vai_vai_ daṇḍasya_daṇḍa_SGM abhipadya_abhipad"
+  },
+  {
+    "index": 42123,
+    "sanskrit": "na śabdapratyabhijñānam uttārayitum īśmahe /",
+    "english": "'gatva' but not to the letter 'g'.",
+    "morphology": "na_"
+  },
+  {
+    "index": 42124,
+    "sanskrit": "samāgamya bhrātṛbhiḥ pārtha tasyām suhṛd dyūtam kriyatām ramyatām ca",
+    "english": "Repairing thither, O son of Pritha, with thy brothers, enjoy ye in that mansion and sit to a friendly match at dice.",
+    "morphology": "samāgamya_samāgam_Co bhrātṛbhiḥ_bhrātṛ_PIM pārtha_pārtha_SVM tasyām_tad_SLF"
+  },
+  {
+    "index": 42125,
+    "sanskrit": "vakra aṅgān tu sa nityam vai sarvatas bāṇa gocare jaghāna gautamaḥ rājan yathā dasyu gaṇaḥ tathā",
+    "english": "Every day, like the other robbers residing there, Gautama, O king, went into the woods and slaughtered wild cranes in abundance.",
+    "morphology": "vakra_vakra_Cp aṅgān_aṅga_PAM tu_tu_U sa_tad_SNM nityam_nityam_U vai_vai_U sarvatas_sarvatas_U bāṇa_bāṇa_MCp gocare_gocara_SLM jaghāna_han_SPs3In gautamaḥ_gautama_SNM rājan_rājan_SVM yathā_yathā_U dasyu_dasyu_MCp gaṇaḥ_gaṇa_SNM"
+  },
+  {
+    "index": 42126,
+    "sanskrit": "avatīrya tatasturaṃgapṛṣṭhācchanakairgāṃ vyacarat śucā parītaḥ | jagato jananavyayaṃ vicinvan kṛpaṇaṃ khalvidamityuvāca cārttaḥ ||",
+    "english": "Having alighted from the back of his horse, he went over the ground slowly, overcome with sorrow, — pondering the birth and destruction of the world, he, grieved, exclaimed, ‘this is indeed pitiable.’",
+    "morphology": "avatīrya_avatṛ_Co tatas_tatas_ turaṃga_turaṃga_Cp pṛṣṭhāt_pṛṣṭha_SBNe śanakais_śanakais_ gām_go_SAF vyacarat_vicar_S3ImIn śucā_śuc_SIF parītaḥ_parī_SNPaM  / jagataḥ_jagant_SGNe janana_janana_Cp vyayam_vyaya_SAM vicinvan_vici"
+  },
+  {
+    "index": 42127,
+    "sanskrit": "anenānanuṣṭhānapratyavāyaṃ vadan nityatām eva samarthayati /",
+    "english": "The present verse, describing the evil accruing from the nonperformance of the TwilightPrayers, serves to emphasise the compulsory character of these.",
+    "morphology": "anena_idam_SINe an_an_ anuṣṭhāna_anuṣṭhāna_Cp pratyavāyam_pratyavāya_SAM vadan_vad_SNPaPrM nitya_nitya_Cp tām_tā_SAF"
+  }
+]

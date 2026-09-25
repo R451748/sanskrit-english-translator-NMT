@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40504,
+    "sanskrit": "tatheti coktvā vacanaṃ devadevo maheśvaraḥ | jagāmākāśamāviśya stūyamāno'psarogaṇaiḥ || 39 ||",
+    "english": "Saying “So be it”, Maheśvara, the Lord of Devas, went away piercing through the sky. He was then eulogized by the groups of celestial damsels.",
+    "morphology": "tathā_tathā_ iti_iti_ ca_ca_ uktvā_vac_Co vacanam_vacana_SANe devadevaḥ_devadeva_SNM maheśvaraḥ_maheśvara_SNM  / jagāma_gam_SPs3In ākāśam_ākāśa_SANe āviśya_āviś_Co stūyamānaḥ_stu_SNPaPrMPv apsaraḥ_apsaras_Cp gaṇaiḥ_gaṇa_PIM "
+  },
+  {
+    "index": 40505,
+    "sanskrit": "kāmayā bhujaga brūhi kaḥ asi imām vikriyām gataḥ ḍuṇḍubhaḥ uvāca aham purā ruro nāmnā ṛṣiḥ āsam sahasra pād",
+    "english": "And Ruru, the possessor of the six attributes, comforting the snake addressed it, saying, 'Tell me fully, O snake, who art thou thus metamorphosed?' And the Dundubha replied, 'O Ruru! I was formerly a Rishi by name Sahasrapat.",
+    "morphology": "kāmayā_kāmayā_U bhujaga_bhujaga_SVM brūhi_brū_SPr2Im kaḥ_ka_SNM asi_as_SPr2In imām_idam_SAF vikriyām_vikriyā_SAF gataḥ_gam_SNPaPsM ḍuṇḍubhaḥ_ḍuṇḍubha_SNM uvāca_vac_SPs3In aham_mad_SN purā_purā_U ruro_ruru_SVM nāmnā_nāman_SI"
+  },
+  {
+    "index": 40506,
+    "sanskrit": "anu eva ca tatas vyomnaḥ puṣpa varṣam avāpatat",
+    "english": "After the slaughter of that blind beast, a floral shower fell from the skies (upon the head of the hunter).",
+    "morphology": "anu_anu_U eva_eva_U ca_ca_U tatas_tatas_U vyomnaḥ_vyoman_SBM"
+  },
+  {
+    "index": 40507,
+    "sanskrit": "bali homa arcitam divyam su saṃmṛṣṭa anulepanam",
+    "english": "and beautified with offerings, and homas; and sacred;",
+    "morphology": "bali_bali_MCp homa_homa_MCp arcitam_arcay_SAPaPsM divyam_divya_SAM"
+  },
+  {
+    "index": 40508,
+    "sanskrit": "rāja upakrośa doṣāḥ ca sarve saṃśraya vāsinām",
+    "english": "All who live by the side of kings have to endure great pain in consequence of evil speeches against themselves.",
+    "morphology": "rāja_rājan_MCp upakrośa_upakrośa_MCp doṣāḥ_doṣa_PNM ca_ca_U sarve_sarva_PNM saṃśraya_saṃśraya_MCp"
+  },
+  {
+    "index": 40509,
+    "sanskrit": "sūta uvāca | evaṃ kratuḥ sa saṃjātaḥ pañcarātraṃ dvijottamāḥ | hāṭakeśvaraje kṣetre sarvakāma samṛddhimān || 1 ||",
+    "english": "Sūta said: 1-3. Thus, O excellent Brāhmaṇas, that Kratu lasted for five days in the holy place of Hāṭakeśvara with everything desirable achieved in plenty.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / evam_evam_ kratuḥ_kratu_SNM sa_tad_SNM saṃjātaḥ_saṃjan_SNPaM pañca_pañcan_Cp rātram_rātra_SAM dvijottamāḥ_dvijottama_PVM  / hāṭakeśvara_hāṭakeśvara_Cp je_ja_SLNe kṣetre_kṣetra_SLNe sarva_s"
+  },
+  {
+    "index": 40510,
+    "sanskrit": "āpaḥ śāntāḥ ūrgudumbara ityādi /",
+    "english": "But in the passage in question, we have the Context pointing to the injunction of the post being made of the Udumbara wood and this Injunction takes within itself the persuasion expressed by the sentence the Udumbara is strength and certainly, there can be no contradiction of the Context, which, in this case, is found to indicate the Injunction of the Udumbara, as qualified by the said persuasion.",
+    "morphology": "āpaḥ_ap_PNF śāntāḥ_śam_PNPaF ūrj_ūrj_SNF udumbaraḥ_udumbara_SNM ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 40511,
+    "sanskrit": "dvaṃdvam eṣām trayāṇām tu saṃnipātam ca tattvataḥ sattvasya rajasaḥ ca eva tamasaḥ ca śṛṇuṣva me",
+    "english": "Listen now to me, O king, as I speak to thee of the intermixture or compounds of the three attributes of Sattwa, Rajas, and Tamas.",
+    "morphology": "dvaṃdvam_dvaṃdva_SANe eṣām_idam_PGM trayāṇām_tri_PGM tu_tu_U saṃnipātam_saṃnipāta_SAM ca_ca_U tattvataḥ_tattva_SBNe sattvasya_sattva_SGNe rajasaḥ_rajas_SGNe ca_ca_U eva_eva_U tamasaḥ_tamas_SGNe ca_ca_U śṛṇuṣva_śru_SPr2Im me_m"
+  }
+]

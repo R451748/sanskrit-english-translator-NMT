@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15048,
+    "sanskrit": "yathānarthamavāpnoti tathā krīḍati cañcalam / bhāviduḥkhamapaśyansvaṃ durlīlābhirivārbhakaḥ //",
+    "english": "The more is the mind of man afflicted by troubles, the more busily is it employed in its foibles; just as a boy indulges himself in his playfulness, unmindful of the evils waiting upon it.",
+    "morphology": "yathā_yathā_ anartham_anartha_SAM avāpnoti_avāp_SPr3In tathā_tathā_ krīḍati_krīḍ_SPr3In cañcalam_cañcala_SANe  / bhāvi_bhāvin_Cp duḥkham_duḥkha_SANe apaśyān_apaśyat_SNM svam_sva_SANe durlīlābhiḥ_durlīlā_PIF iva_iva_ arbhakaḥ_"
+  },
+  {
+    "index": 15049,
+    "sanskrit": "ete sarve varuṇasya uta yajñam",
+    "english": "They have gone to witness Varuna's sacrifice.",
+    "morphology": "ete_etad_PNM"
+  },
+  {
+    "index": 15050,
+    "sanskrit": "nāradasya vacaḥ śrutvā sādhu sādhviti pūjayan | cintayāmāsa deveśo bhramaṇaṃ tripurasya hi || 5 ||",
+    "english": "5. On hearing the words of Nārada, the Lord gave his approval saying, “Well done! Well done!” Then the Lord of Devas pondered over the whirling of Tripura.",
+    "morphology": "nāradasya_nārada_SGM vacaḥ_vacas_SANe śrutvā_śru_Co sādhu_sādhu_SNNe sādhu_sādhu_SNNe iti_iti_ pūjayan_pūjay_SNPaPrM  / cintayāmāsa_cintay_SPs3InPe deveśaḥ_deveśa_SNM bhramaṇam_bhramaṇa_SANe tripurasya_tripura_SGNe hi_hi_"
+  },
+  {
+    "index": 15051,
+    "sanskrit": "nāmarūpāvasthāyāṃ hi śarīram aparipūrṇam ucyate cakṣurādy āyatanābhāvāt / asti ca tasyām avasthāyāṃ kāyāyatanaṃ manāayatanañca tad apy aparipūrṇam eva āśritāśrayaparipūryabhāvāt /",
+    "english": "For the individual nature is described as incomplete in the state of name form because of the absence of the sensefields of sight etc.Moreover, although the tactile and mind sensefields do exist in that state, they too are definitely incomplete because as a field comprising both that which is based and the basis, it is incomplete.",
+    "morphology": "nāma_nāman_Cp rūpa_rūpa_Cp avasthāyām_avasthā_SLF hi_hi_ śarīram_śarīra_SNNe aparipūrṇam_aparipūrṇa_SNNe ucyate_vac_SPr3InPv cakṣuḥ_cakṣus_Cp ādi_ādi_SNNe āyatana_āyatana_Cp abhāvāt_abhāva_SBM  / asti_as_SPr3In ca_ca_ tasyām_"
+  },
+  {
+    "index": 15052,
+    "sanskrit": "na bāhyavastusaṃvādas tāsvavasthāsu vidyate //",
+    "english": "hence in those states, there can be no conformity with external objects;",
+    "morphology": "na_na_ bāhya_bāhya_Cp vastu_vastu_Cp saṃvādaḥ_saṃvāda_SNM tāsu_tad_PLF avasthāsu_avasthā_PLF "
+  },
+  {
+    "index": 15053,
+    "sanskrit": "śivo'pi svagirau tasthau pārvatyā viharanmudā | sarve gaṇāssukhaṃ prāpuratīva svabhajañchivau ||",
+    "english": "30. On the mountain, Śiva stayed with Pārvatī and continued his divine sports with joy. The Gaṇas too were happy and they worshipped the married couple.",
+    "morphology": "śivaḥ_śiva_SNM api_api_ sva_sva_Cp girau_giri_SLM tasthau_sthā_SPs3In pārvatyāḥ_pārvatī_SGF viharan_vihṛ_SNPaPrM mudā_mud_SIF  / sarve_sarva_PNM gaṇāḥ_gaṇa_PNM sukham_sukha_SANe prāpuḥ_prāp_PPs3In atīva_atīva_"
+  },
+  {
+    "index": 15054,
+    "sanskrit": "ato niryāhi niryāhi mama tvaṃ dṛṣṭimārgataḥ | svāśramātsaralāmenāṃ vinatāṃ jitavatyasi || 25 ||",
+    "english": "Hence get away, get away from the very path of my sight and from my hermitage. You had defeated this simple-minded Vinatā (by deceit).”",
+    "morphology": "atas_atas_ niryāhi_niryā_SPr2Im niryāhi_niryā_SPr2Im mama_mad_SG tvam_tvad_SN dṛṣṭi_dṛṣṭi_Cp mārgataḥ_mārga_SBM  / sva_sva_Cp āśramāt_āśrama_SBM saralām_sarala_SAF enām_enad_SAF vinatām_vinatā_SAF jitavatī_ji_SNPaF"
+  },
+  {
+    "index": 15055,
+    "sanskrit": "na tasya sambhavo martye tasya vāso bhaveddivi | niyamastho vimucyeta trijanmajanitādaghāt || 50 ||",
+    "english": "Strictly observing the restraints he will be rid of sins accumulated in the course of three births.",
+    "morphology": "na_na_ tasya_tad_SGM sambhavaḥ_sambhava_SNM martye_martya_SLM tasya_tad_SGM vāsaḥ_vāsa_SNM bhavet_bhū_SPr3O divi_div_SLM  / niyama_niyama_Cp sthaḥ_stha_SNM vimucyeta_vimuc_SPr3OPv"
+  }
+]

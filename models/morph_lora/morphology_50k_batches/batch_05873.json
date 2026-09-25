@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46976,
+    "sanskrit": "saṃgame saritostatra pitṝnsaṃtarpya devatāḥ | japahomādikarmāṇi kṛtvā phalamanaṃtakam || 2 ||",
+    "english": "It has great merit. After offering libations to the Pitṛs and propitiating Devas at a confluence of rivers there a person should perform Japa, Homa and other rites. It has infinite benefit.",
+    "morphology": "saṃgame_saṃgama_SLM saritoḥ_sarit_DuGF tatra_tatra_ pitṝn_pitṛ_PAM saṃtarpya_saṃtarpay_Co devatāḥ_devatā_PAF  / __japa_U __homa_U __ādi_U __karman_U __U __U"
+  },
+  {
+    "index": 46977,
+    "sanskrit": "rāmatīrthaṃ yadā paśyetsvayaṃ rāmeṇa nirmitam | tadaiva brahmahatyāyā mucyate nātra saṃśayaḥ || 5 ||",
+    "english": "When one sees Rāmatīrtha created by Rāma himself, one is absolved of Brahmahatyā (sin of Brāhmaṇa’s slaughter). There is no doubt about it.",
+    "morphology": "rāmatīrtham_rāmatīrtha_SANe yadā_yadā_ paśyet_paś_SPr3O svayam_svayam_ rāmeṇa_rāma_SIM nirmitam_nirmā_SAPaNe  / tadā_tadā_ eva_eva_ brahma_brahman_Cp hatyāyāḥ_hatyā_SBF mucyate_muc_SPr3InPv na_na_ atra_atra_ saṃśayaḥ_saṃśaya_SNM"
+  },
+  {
+    "index": 46978,
+    "sanskrit": "aṅgaabhiradane tadaṅgān mocyaḥ //",
+    "english": "if he bites any limb of these persons, be shall be deprived of the corresponding limb",
+    "morphology": "aṅga_aṅga_Cp abhiradane_abhiradana_SLNe"
+  },
+  {
+    "index": 46979,
+    "sanskrit": "syād etat mābhūt paryāyatvam eṣām, arthabhedasya parikalpitatvāt sāmānyaviśeṣavācitvavyavasthā tu vinā sāmānyaviśeṣābhyāṃ katham eṣāṃ siddhyatītyata āha bahvalpetyādi / bahvalpaviṣayatvena tat saṅketānumānataḥ / sāmānyabhedavācyatvam apyeṣāṃ na virudhyate //",
+    "english": "Nor is there any incongruity in universals and particulars being denoted by words, as appertaining to larger and smaller number of things, on the basis of the inference of the relevant convention. The following might be urged: “The words may not be synonymous, because a distinction is assumed in the things; but how can there be the difference between words denoting Universals and those denoting Particulars, unless there are Universals and Particulars?”",
+    "morphology": "syāt_as_SPr3O etat_etad_SNNe mā_mā_ abhūt_bhū_SPs3 paryāya_paryāya_Cp tvam_tva_SNNe eṣām_idam_PGM artha_artha_Cp bhedasya_bheda_SGM parikalpita_parikalpay_PaCp tvāt_tva_SBNe sāmānya_sāmānya_Cp viśeṣa_viśeṣa_Cp vāci_vācin_Cp tva_tva_C"
+  },
+  {
+    "index": 46980,
+    "sanskrit": "avabhṛtha nicumpuṇa /",
+    "english": "Having silently walked thither and entered (the water), he (the Adhvaryu) immerses (the vessel containing the scrapings).",
+    "morphology": "a_a_"
+  },
+  {
+    "index": 46981,
+    "sanskrit": "parvamaithuna kṛnmehī parityajya svagehinīm | veśyādirakto mūḍhātmā khalvāṭo jāyate naraḥ || 19 ||",
+    "english": "One who indulges in sexual intercourse during Parvan days shall suffer from urinary disease. A foolish man who abandons his wife and becomes attached to prostitutes etc., is born as a bald-headed person.",
+    "morphology": "parva_parvan_Cp maithuna_maithuna_NeCp kṛt_kṛt_SNM mehī_mehin_SNM parityajya_parityaj_Co sva_sva_Cp gehinīm_gehinī_SAF  / veśyā_veśyā_Cp ādi_ādi_Cp raktaḥ_rañj_SNPaM mūḍha_muh_PaCp ātmā_ātman_SNM khalvāṭa_khalvāṭa_SNM jāyate_ja"
+  },
+  {
+    "index": 46982,
+    "sanskrit": "sarvaṃ caupāṃśu saha svādhyāyena / naaraṇyam abhiāśrāvayet /",
+    "english": "And he should recite everything, including his private vedic recitation, in an inaudible voice, never permitting wild animals to hear him.",
+    "morphology": "sarvam_sarva_SNNe ca_ca_ aupāṃśu_aupāṃśu_SNNe saha_saha_ svādhyāyena_svādhyāya_SIM  / ṣṭaḥ_ṣṭaḥ_ṣṭaḥ_"
+  },
+  {
+    "index": 46983,
+    "sanskrit": "nikuñja līlā lalitam manoharaṃ kalindajā kūla latā kadambakamvṛndāvanonmatta milinda śabditaṃ vrajet sa golokam idam paṭhec ca yaḥ",
+    "english": "A person who recites these hundred names goes to Goloka, the beautiful realm filled with flowering vines by the Yamunā's shore, the sound of intoxicated bees, and the charming pastimes of the Supreme Personality of Godhead.",
+    "morphology": "nikuñja_nikuñja_MCp līlā_līlā_FCp lalitam_lal_SAPaPsNe manoharam_manohara_SANe vṛndāvana_vṛndāvana_NeCp unmatta_unmad_PaPsCp milinda_milinda_MCp śabditam_śabday_SAPaPsNe vrajet_vraj_SPr3O"
+  }
+]

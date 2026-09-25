@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15448,
+    "sanskrit": "rudreśvarābhidhamidaṃ vṛddhaliṃgaṃ svayaṃbhuvam | veśyānaṃgavatīnāmnī śivarātriparāyaṇā || 36 ||",
+    "english": "36-38a. This Vṛddha Liṅga is a self-born one and is named Rudreśvara.",
+    "morphology": "rudreśvara_rudreśvara_Cp abhidham_abhidhā_SNNe idam_idam_SNNe vṛddha_vṛddha_Cp liṃgam_liṅga_SNNe svayaṃbhuvam_svayambhu_SAM  / veśyā_veśyā_SNF anaṅgavatī_anaṅgavatī_Cp nāmnī_nāman_SNF"
+  },
+  {
+    "index": 15449,
+    "sanskrit": "brāhmaṇebhyaḥ dadat grāmān gāḥ ca rājan sahasraśas mucyate sarva pāpebhyaḥ tamobhyaḥ iva candramāḥ paura jānapadāḥ sarve prāyaśas kuru nandana",
+    "english": "Like the Moon emerging from the clouds, the king is purified from all sins by bestowing villages on Brahmanas and kine by thousands.",
+    "morphology": "brāhmaṇebhyaḥ_brāhmaṇa_PDM dadat_dā_SNPaPrM grāmān_grāma_PAM gāḥ_go_PAM ca_ca_U rājan_rājan_SVM sahasraśas_sahasraśas_U mucyate_muc_SPr3InPv sarva_sarva_Cp pāpebhyaḥ_pāpa_PBNe tamobhyaḥ_tamas_PBNe iva_iva_U candramāḥ_candramas_S"
+  },
+  {
+    "index": 15450,
+    "sanskrit": "samāśvāsya kṛta āhārām atha papraccha bhārata kasya tvam mṛgaśāvākṣi katham ca abhyāgatā vanam katham ca idam mahat kṛcchram prāptavatī asi bhāmini",
+    "english": "O Bharata, he addressed her saying, 'O thou with eyes like those of a young gazelle, who art thou? And why also hast thou come into the woods? And, O beauteous one, how hast thou fallen into this extreme misery' And thus accosted, O monarch, by that man, Damayanti, O Bharata, related unto him all that had happened.",
+    "morphology": "samāśvāsya_samāśvāsay_Co kṛta_kṛ_PaPsCp āhārām_āhāra_SAF atha_atha_U papraccha_pracch_SPs3In bhārata_bhārata_SVM kasya_ka_SGM tvam_tvad_SN mṛgaśāvākṣi_mṛgaśāvākṣī_SVF katham_katham_U ca_ca_U abhyāgatā_abhyāgam_SNPaPsF van"
+  },
+  {
+    "index": 15451,
+    "sanskrit": "tam tvā madāya ghr̥ṣvaye oṁ iti loka kr̥tnum īmahe tava pra śastayaḥ mahīḥ",
+    "english": "To thee who givest ample room we pray, to win the joyous draught: Great are the praises due to thee.",
+    "morphology": "tam_tad_SAM tvā_tvad_SA madāya_mada_SDM ghrīṣvaye_ghrīṣvi_SDM oṁ_oṃ_U iti_iti_U loka_loka_MCp krātnum_krātnu_SAM īmahe_ī_PPr1In"
+  },
+  {
+    "index": 15452,
+    "sanskrit": "mogham te jīvitam rājan parikliṣṭam ca jīvasi",
+    "english": "Thy life, O king, is useless. Thou livest most miserably.",
+    "morphology": "mogham_mogha_SNNe"
+  },
+  {
+    "index": 15453,
+    "sanskrit": "nānākarmakaro nityaṃ nirvikāro'khileśvaraḥ | vayaṃ brahmādayassarve tava dāsā maheśvara || prasanno bhava deveśa rakṣāsmānsarvadā śiva | tvatprajāśca vayaṃ nātha sadā tvaccharaṇaṃ gatāḥ ||",
+    "english": "30. You are free from aberrations, O lord of all, you perform different activities incessantly. O lord Śiva, we all, Brahmā and others are your slaves. 31. O lord of gods, be pleased. O Śiva, protect us ever. O lord, we are your subjects and we ever seek refuge in you.”",
+    "morphology": "nānā_nānā_ karma_karman_Cp karaḥ_kara_SNM nityam_nityam_ nirvikāraḥ_nirvikāra_SNM akhila_akhila_Cp īśvaraḥ_īśvara_SNM  / vayam_mad_PN brahma_brahman_Cp ādayaḥ_ādi_PNM sarve_sarva_PNM tava_tvad_SG dāsāḥ_dāsa_PNM maheśvara_maheśvar"
+  },
+  {
+    "index": 15454,
+    "sanskrit": "pratyāśramaṃ liṅgadharaṇam /",
+    "english": "There is a distinctive badge connected with each of the lifestages.",
+    "morphology": "pratyāśramam_pratyāśramam_"
+  },
+  {
+    "index": 15455,
+    "sanskrit": "kosalānām ādhipatyam saṃprāpte kṣemadarśini muniḥ kālakavṛkṣīyaḥ ājagāma iti naḥ śrutam",
+    "english": "It hath been heard by us that once on a time the sage Kalakavrikshiya came to Kshemadarsin who had ascended the throne of the kingdom of Kosala.",
+    "morphology": "kosalānām_kosala_PGM ādhipatyam_ādhipatya_SANe saṃprāpte_samprāp_SLPaPsM kṣemadarśiṇi_kṣemadarśin_SLM muniḥ_muni_SNM kālakavṛkṣīyaḥ_kālakavṛkṣīya_SNM ājagāma_āgam_SPs3In iti_iti_U naḥ_mad_PG"
+  }
+]

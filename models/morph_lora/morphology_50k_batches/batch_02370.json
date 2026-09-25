@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18952,
+    "sanskrit": "na mātā na pitā kim cit kasya cit pratipadyate",
+    "english": "Neither the mother, nor the father, can confer the slightest benefit upon one in the next world.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 18953,
+    "sanskrit": "aceti agniḥ cikituḥ havya vāṭ saḥ sumat rathaḥ agniḥ śukreṇa śociṣā br̥hat sūraḥ arocata divi sūryaḥ arocata",
+    "english": "Observant Agni hath appeared, oblation-bearer with his car. Agni with his resplendent flame hath shone on high as shines the Sun, hath shone like Sûrya in the heavens.",
+    "morphology": "aceti_cit_SPs3InPv agniḥ_agni_SNM cikituḥ_cikitu_SNM havya_havya_NeCp vāh_vāh_SNM saḥ_tad_SNM sumat_sumat_U rathaḥ_ratha_SNM agniḥ_agni_SNM śukreṇa_śukra_SINe śociṣā_śocis_SINe brāhat_brāhman_SANe sūraḥ_sūra_SNM arocata_ruc_SPs3I"
+  },
+  {
+    "index": 18954,
+    "sanskrit": "om ity etad akṣaram udgīthaḥ /",
+    "english": "the syllable Om is Udgītha",
+    "morphology": "om_oṃ_U iti_iti_U __U"
+  },
+  {
+    "index": 18955,
+    "sanskrit": "na hi svabhāvaḥ kāryaṃ vā svabhāvāt kāraṇādṛte /",
+    "english": "(a) there can be no nature (or character) without a nature (or character); (b) nor can there be effect without a cause.",
+    "morphology": "na_na_ hi_hi_ svabhāvaḥ_svabhāva_SNM kāryam_kārya_SNNe vā_vā_ svabhāvāt_svabhāva_SBM kāraṇāt_kāraṇa_SBNe ṛte_ṛte_"
+  },
+  {
+    "index": 18956,
+    "sanskrit": "tīrthakaras tapasvī vyādhitaḥ kṣutpipāsāadhvaklāntas tirojanapado daṇḍakhedī niṣkiṃcanaś caanugrāhyāḥ //",
+    "english": "Such persons as a pilgrim, an ascetic engaged in penance, a diseased person, any one suffering from hunger, thirst, or fatigue from journey, a villager from country parts, any one that has suffered much from punishment and a moneyless pauper shall be shown mercy",
+    "morphology": "tīrthakaraḥ_tīrthakara_SNM tapasvī_tapasvin_SNM vyādhitaḥ_vyādhita_SNM kṣudh_kṣudh_Cp pipāsā_pipāsā_Cp adhva_adhvan_Cp klāntaḥ_klam_SNPaM tirojanapadaḥ_tirojanapada_SNM daṇḍa_daṇḍa_Cp khedī_khedin_SNM niṣkiṃcanaḥ_niṣk"
+  },
+  {
+    "index": 18957,
+    "sanskrit": "cāṃdaṇakheḍe ye jātā bhāradvājasamudbhavāḥ | āṃgiraso bārhaspatyastṛtīyo bhāradvājastathā || 8 || yakṣiṇī cāsya vai devī proktā vyāsena dhīmatā | bhāradvājāstu ye jātā dvijā brahmasvarūpiṇaḥ || 9 ||",
+    "english": "108-111. Those who are born in Cāndaṇakheḍa are of Bhāradvāja Gotra. Āṅgirasa, Bārhaspatya and the third Bhāradvāja are the Sages. Yakṣiṇī has been mentioned as the deity here by the intelligent Vyāsa.",
+    "morphology": "cāṃdaṇakheḍe_cāndaṇakheḍa_SLM ye_yad_PNM jātāḥ_jan_PNPaM bhāradvāja_bhāradvāja_Cp samudbhavāḥ_samudbhava_PNM  / āṃgirasaḥ_āṃgirasa_SNM bārhaspatyaḥ_bārhaspatya_SNM tṛtīyaḥ_tṛtīya_SNM bhāradvājaḥ_bhāradvāja_S"
+  },
+  {
+    "index": 18958,
+    "sanskrit": "ādeśa ādiṣṭam / vratādeśanasaṃbandhād rūḍhirūpeṇa brahmacāry ucyate /",
+    "english": "\"Ādiṣṭa\" means \"ādeśa\" ,\"instruction\"; and the term \"person under instruction\" denotes the Student, by reason of his connection with the instruction that he receives regarding his observances.",
+    "morphology": "ādeśaḥ_ādeśa_SNM ādiṣṭam_ādiś_SNPaNe  / vrata_vrata_Cp ādeśana_ādeśana_Cp saṃbandhāt_sambandha_SBM ṛṣiḥ_ṛṣi_SNM"
+  },
+  {
+    "index": 18959,
+    "sanskrit": "strī niṣedhe śataṃ dadyād dviśatantu damaṃ pumān //",
+    "english": "If it is prohibited for a woman, she has to pay a fine of one hundred paṇas and if for a man, he has to pay two hundred paṇas.",
+    "morphology": "strī_strī_SNF niṣedhe_niṣedha_SLM śatam_śata_SANe dadyāt_dā_SPr3O"
+  }
+]

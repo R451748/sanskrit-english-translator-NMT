@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48664,
+    "sanskrit": "tasya aśvāḥ pradrutāḥ rājan nihate ratha sārathau",
+    "english": "And when the charioteer of Satyaki's car was thus slain, his steeds, O king, bolted away.",
+    "morphology": "tasya_tad_SGM aśvāḥ_aśva_PNM pradrutāḥ_pradru_PNPaPsM rājan_rājan_SVM nihate_nihan_SLPaPsM ratha_ratha_MCp sārathau_sārathi_SLM"
+  },
+  {
+    "index": 48665,
+    "sanskrit": "pūrva sarge tu kaunteya sādhvyaḥ nāryaḥ iha abhavan",
+    "english": "In a former creation, O son of Kunti, women were all virtuous.",
+    "morphology": "pūrva_pūrva_Cp sarge_sarga_SLM tu_tu_U kaunteya_kaunteya_SVM"
+  },
+  {
+    "index": 48666,
+    "sanskrit": "vibhāṣāyāṃ tūcyate “yadyābhidharmikaḥ skandhaprajñaptimapekṣate / sa āha paramāṇurekasya dhātorekasyāyatanasyaikasya skandhasya pradeśaḥ /",
+    "english": "When the Ābhidhārmikas take into consideration the fact that the term séandha is only the denomination of a heap, they say that an atom is part of a dhātu, an āyatama, and a skandha;",
+    "morphology": "vibhāṣāyām_vibhāṣā_SLF tu_tu_ ucyate_vac_SPr3InPv yadi_yadi_ ābhidharmikaḥ_ābhidharmika_SNM skandha_skandha_Cp prajñaptim_prajñapti_SAF apekṣate_apekṣ_SPr3In  / saḥ_tad_SNM āha_ah_SPs3In paramāṇuḥ_paramāṇu_SNM ekasya_eka_SGM d"
+  },
+  {
+    "index": 48667,
+    "sanskrit": "viśeṣataḥ pradātavyā savatsā gauḥ svalaṃkṛtā | śayyā sopaskarāṃ dadyādviṣṇurme prīyatāmiti || 63 ||",
+    "english": "63. Donate a decorated cow along with calf in particular. Give away beds as well as any other article of household use which yields Viṣṇu’s pleasure.",
+    "morphology": "viśeṣataḥ_viśeṣataḥ_ pradātavyā_pradā_SNFGd sa_sa_ vatsā_vatsa_SNF gauḥ_go_SNF su_su_ alaṃkṛtā_alaṃkṛ_SNPaF  / śayyā_śayyā_SNF sa_sa_ upaskarām_upaskara_SAF dadyāt_dā_SPr3O viṣṇuḥ_viṣṇu_SNM me_mad_SG prīyatām_pr"
+  },
+  {
+    "index": 48668,
+    "sanskrit": "tadātmātiśayāyogād bādhiryādi na yujyate //",
+    "english": "if this is urged, then (the answer is that), inasmuch as no additional properties could be produced in it, deafness, etc. would not be possible.",
+    "morphology": "__tad_U __ātman_U __atiśaya_U __ayoga_U __bādhirya_U __ādi_U na_U __yuj_SPr3InPv  /"
+  },
+  {
+    "index": 48669,
+    "sanskrit": "danturaścipiṭaghrāṇaḥ kṛṣṇaḥ kātaralocanaḥ / pṛthūdaro vakrapādaḥ śūrpakarṇapuṭaś ca saḥ //",
+    "english": "He has projecting teeth, a flat nose, a black colour, squinting eyes, a big belly, crooked feet, and ears like winnowing-baskets.",
+    "morphology": "danturaḥ_dantura_SNM cipiṭa_cipiṭa_Cp ghrāṇaḥ_ghrāṇa_SNM kṛṣṇaḥ_kṛṣṇa_SNM kātara_kātara_Cp locanaḥ_locana_SNM  / pṛthu_pṛthu_Cp udaraḥ_udara_SNM vakra_vakra_Cp pādaḥ_pāda_SNM śūrpa_śūrpa_Cp karṇa_karṇa_Cp p"
+  },
+  {
+    "index": 48670,
+    "sanskrit": "vijñānātmā śāsitā viśvabījaṃ brahmaivālaṃ svaṃ cidākāśamātram / yasmājjātaṃ yattadeveti vidyādvedyaṃ svāntarbodhasaṃbodhamātram //",
+    "english": "The enlightened soul, freed from its knowledge of the mundane seed, and knowing Brahma alone as the plenum filling the vacuum of intellect;knows the knowable (God) in his inward understanding, as the same with what has proceeded from him.",
+    "morphology": "vijñāna_vijñāna_Cp ātmā_ātman_SNM śāsitā_śāsitṛ_SNM viśva_viśva_Cp bījam_bīja_SNNe brahma_brahman_SNNe eva_eva_ alam_alam_ svam_sva_SNNe cit_cit_Cp ākāśa_ākāśa_Cp mātram_mātra_SNNe  / yasmāt_yad_SBNe jātam_jan_SNPaNe yat_yad_SNN"
+  },
+  {
+    "index": 48671,
+    "sanskrit": "prādhānyena hi bhūyiṣṭham ameyāḥ keśave guṇāḥ",
+    "english": "In Kesava are infinite merits in excess.",
+    "morphology": "prādhānyena_prādhānya_SINe hi_hi_ bhūyiṣṭham_bhūyiṣṭha_SANe"
+  }
+]

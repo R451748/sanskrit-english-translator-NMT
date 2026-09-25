@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4232,
+    "sanskrit": "dṛṣṭaścānnaśabda upakaraṇeṣustriyo 'nnaṃ paśavo 'nnaṃ viśāṃ viśo 'nnaṃ rājñām ityādi /",
+    "english": "The term ‘anna’ food is actually found to be used in the sense of accessory, in such expressions as‘women are food’, ‘cattle are food’, ‘the people are food’,‘of the King’; and so forth",
+    "morphology": "dṛṣṭaḥ_dṛś_SNPaM ca_ca_ anna_anna_Cp śabdaḥ_śabda_SNM upakaraṇa_upakaraṇa_Cp iṣu_iṣu_Cp striyaḥ_strī_PNF annam_anna_SNNe paśavaḥ_paśu_PNM annam_anna_SNNe viśām_viś_PGF viśaḥ_viś_PNF annam_anna_SNNe rājñām_rājan_PGM "
+  },
+  {
+    "index": 4233,
+    "sanskrit": "purato'śvatthamūlasya cakāra mayi taddṛḍham | tenātra vrajavallīṣu vasāmi badarīṃ gataḥ || 49 ||",
+    "english": "49. In front of the root of Aśvattha (Pippla tree) he made it firmly fixed in me. Therefore, having gone to Badarī I stay here in the creepers of Vraja.",
+    "morphology": "puratas_puratas_ aśvattha_aśvattha_Cp mūlasya_mūla_SGNe cakāra_kṛ_SPs3In mayi_mad_SL tat_tad_SANe dṛḍham_dṛḍha_SANe  / tena_tena_ atra_atra_ vraja_vraja_Cp vallīṣu_vallī_PLF vasāmi_vas_SPr1In badarīm_badarī_SAF gataḥ_gam_SNPaM"
+  },
+  {
+    "index": 4234,
+    "sanskrit": "cara krodham imam tyaktvā na evam dharmam prahāsyasi",
+    "english": "Kill this thy anger and destroy not the fruit of thy ascetic acts in this way.",
+    "morphology": "ca_ca_U"
+  },
+  {
+    "index": 4235,
+    "sanskrit": "tena saṃgamya vetsyāmi kāryasya asya viniścayam",
+    "english": "Having consulted with him, I will inform thee what my judgment is in respect of this affair.",
+    "morphology": "tena_tad_SIM"
+  },
+  {
+    "index": 4236,
+    "sanskrit": "bhikṣāṭanaṃ ca kṛtavān purā dāruvane vibhuḥ | śapto yadbhikṣuko rudro bhavadbhirmunibhistadā || śaptenāpi ca rudreṇa yatkṛtaṃ vismṛtaṃ katham | talliṃgenākhilaṃ dagdhaṃ bhuvanaṃ sacarācaram ||",
+    "english": "23-24. Once the lord wandered (begging for alms) in Dāruvana[4]. You, sages, cursed him in the guise of a mendicant. How is it that you have now forgotten what Śiva did on being cursed by you? The entire universe of the mobile and immobile was burnt by His Liṅga.",
+    "morphology": "bhikṣāṭanam_bhikṣāṭana_SANe ca_ca_ kṛtavān_kṛ_SNPaM purā_purā_ dāru_dāru_Cp vane_vana_SLNe vibhuḥ_vibhu_SNM  / śaptaḥ_śap_SNPaM yat_yat_ bhikṣukaḥ_bhikṣuka_SNM rudraḥ_rudra_SNM bhavadbhiḥ_bhavat_PIM munibhiḥ_muni_PIM ta"
+  },
+  {
+    "index": 4237,
+    "sanskrit": "sukṛtaṃ naiva satatamākhyātavyaṃ kadācana | kṛtaṃ mayeti kathanātpuṇyaṃ kṣayati tatkṣaṇāt || 69 ||",
+    "english": "69. A meritorious act (performed by oneself) should never be frequently boasted of. By saying “It has been done by me”, merit diminishes instantly.",
+    "morphology": "sukṛtam_sukṛta_SNNe na_na_ eva_eva_ satatam_satatam_ ākhyātavyam_ākhyā_SNNeGd kadācana_kadācana_  / kṛtam_kṛ_SNPaNe mayā_mad_SI iti_iti_ kathanāt_kathana_SBNe puṇyam_puṇya_SNNe kṣayati_kṣi_SPr3In tad_tad_Cp kṣaṇāt_kṣaṇa_SBM"
+  },
+  {
+    "index": 4238,
+    "sanskrit": "tāṃ tu sarvānavadyāṅgīṃ cakame vāsavas tadā /",
+    "english": "Their knees bruised they fell down into the hollow of the mountain –.",
+    "morphology": "tām_tad_SAF tu_tu_ sarva_sarva_Cp anavadya_anavadya_Cp aṅgīm_aṅga_SAF cakame_kam_SPs3In vāsavaḥ_vāsava_SNM tadā_tadā_"
+  },
+  {
+    "index": 4239,
+    "sanskrit": "pitṛyajña parityaktaṃ tyaktabhāryaṃ kulādhamam | ghoṇasnānaparityaktaṃ tamāhurgovighātukam || 25 ||",
+    "english": "25. They call the person who has abandoned Ghoṇasnāna, a person who has abandoned Pitṛyajña (i.e. performance of śrāddha), who has deserted his wife, is the meanest in the family and who kills cows.",
+    "morphology": "pitṛ_pitṛ_Cp yajña_yajña_SVM parityaktam_parityaj_SAPaM tyakta_tyaj_PaCp bhāryam_bhāryā_SAM kula_kula_Cp adhamam_adhama_SAM  / ghoṇa_ghoṇa_Cp snāna_snāna_Cp parityaktam_parityaj_SAPaM tam_tad_SAM āhuḥ_ah_PPs3In go_go_Cp vighātukam_vighā"
+  }
+]

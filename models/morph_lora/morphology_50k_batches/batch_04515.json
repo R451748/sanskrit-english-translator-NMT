@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36112,
+    "sanskrit": "na asādhyam mṛdunā kim cit tasmāt tīkṣṇataram mṛdu",
+    "english": "There is nothing that mildness cannot effect. For this reason, mildness is said to be sharper than fierceness.",
+    "morphology": "na_na_U asādhyam_asādhya_SNNe mṛdunā_mṛdu_SIM kim_ka_SNNe cit_cit_U tasmāt_tad_SBNe tīkṣṇataram_tīkṣṇatara_SNNe mṛdu_mṛdu_SNNe"
+  },
+  {
+    "index": 36113,
+    "sanskrit": "śiṣyāṇām vacanam śrutvā sarva ajñāna tamonudaḥ parāśara sutaḥ śrīmān vyāsaḥ vākyam uvāca ha mayā hi su mahat taptam tapaḥ parama dāruṇam",
+    "english": "Hearing these words that were addressed to him by his disciples that dispeller of all kinds of darkness represented by ignorance, viz., the blessed Vyasa, the son of Parasara, said these words: have undergone very severe, in fact, the austerest of penances.",
+    "morphology": "śiṣyāṇām_śiṣya_PGM vacanam_vacana_SANe śrutvā_śru_Co sarva_sarva_Cp ajñāna_ajñāna_NeCp tamonudaḥ_tamonuda_SNM parāśara_parāśara_MCp sutaḥ_suta_SNM śrīmān_śrīmat_SNM vyāsaḥ_vyāsa_SNM vākyam_vākya_SANe uvāca_vac_SPs3In ha"
+  },
+  {
+    "index": 36114,
+    "sanskrit": "pittāt pītam nīlam ālohitam vā tṛṣṇā mūrchā dāha pāka jvara ārtaḥ",
+    "english": "The specific features of the Pitta-origined type are that the stool is fetid, hot, yellow, blue or slightly red-coloured, or resembles the washings of meat, and is emitted with sharp or acute force and is accompanied by thirst, epileptic fits (fainting), burning sensation, perspiration, suppuration and inflamation (Paka) of the affected organs, and fever.",
+    "morphology": "pittāt_pitta_SBNe pītam_pīta_SANe nīlam_nīla_SANe ālohitam_ālohita_SANe"
+  },
+  {
+    "index": 36115,
+    "sanskrit": "śālārjunāḥ kvacidbhāṃti vanoddeśeṣu puṣpitāḥ | dhautakauśeyavāsobhiḥ prāvṛtāḥ puruṣottamāḥ || 20 ||",
+    "english": "20. In some places Arjuna trees in full bloom shine like excellent men in the forest regions, full-dressed (covered) with white silk clothes.",
+    "morphology": "śālā_śālā_Cp arjunāḥ_arjuna_PNM kvacid_kvacid_ bhānti_bhā_PPr3In vana_vana_Cp uddeśeṣu_uddeśa_PLM puṣpitāḥ_puṣpita_PNM  / dhauta_dhāv_PaCp kauśeya_kauśeya_Cp vāsobhiḥ_vāsas_PINe prāvṛtāḥ_prāvṛ_PNPaM puruṣa_puruṣa_C"
+  },
+  {
+    "index": 36116,
+    "sanskrit": "saṃvinmayatvājjagatāṃ teṣāṃ bhūmyacalādi tat / sarvaṃ cidātmakaṃ viddhi nau cedanyatkimucyatām //",
+    "english": "It was in their own consciousness, that they saw the solid earth with all its hills &c. in themselves; because all things have reference to the intellect, and are viewed intellectually only.",
+    "morphology": "saṃvid_saṃvid_Cp maya_maya_Cp tvāt_tva_SBNe jagatām_jagant_PGNe teṣām_tad_PGM bhūmi_bhūmi_Cp acala_acala_Cp ādi_ādi_SNNe tat_tad_SNNe  / sarvam_sarva_SANe cit_cit_Cp ātmakam_ātmaka_SANe viddhi_vid_SPr2Im nau_mad_DuG ced_ced_ anyat_anya_SNNe "
+  },
+  {
+    "index": 36117,
+    "sanskrit": "mahā iṣvāsāḥ kaccit ete api arogāḥ",
+    "english": "I hope all those mighty bowmen are free from disease.",
+    "morphology": "mahā_mahat_Cp iṣvāsāḥ_iṣvāsa_PVM"
+  },
+  {
+    "index": 36118,
+    "sanskrit": "śalākayā kāṃcanayā 2 kuṃkumādirasāktayā | lakṣitaṃ lakṣaṇaṃ śilpaśāstreṇa vilikhettataḥ ||",
+    "english": "5. With a gold rod dipped into the solution of saffron he shall draw the characteristic signs in the prescribed manner.",
+    "morphology": "śalākayā_śalākā_SIF kāṃcanayā_kāñcana_SIF kuṃkuma_kuṅkuma_Cp ādi_ādi_Cp rasa_rasa_Cp aktayā_añj_SIPaF  / lakṣitam_lakṣay_SAPaNe lakṣaṇam_lakṣaṇa_SANe śilpa_śilpa_Cp śāstreṇa_śāstra_SINe vilikhet_vilikh_SPr3O tatas_ta"
+  },
+  {
+    "index": 36119,
+    "sanskrit": "atho anayor eva prati tiṣṭhanti |",
+    "english": "verily also in them they find support.",
+    "morphology": "atha_atha_ u_u_ anayoḥ_idam_DuLF eva_eva_ prati_prati_"
+  }
+]

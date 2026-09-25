@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3776,
+    "sanskrit": "utsanna kula dharmāṇām manuṣyāṇām janārdana narake niyatam vāsaḥ bhavati iti anuśuśruma",
+    "english": "We have heard, O Janarddana, that men whose family rites become extinct, ever dwell in hell.",
+    "morphology": "utsanna_utsad_PaPsCp kula_kula_NeCp dharmāṇām_dharma_PGM manuṣyāṇām_manuṣya_PGM janārdana_janārdana_SVM narake_naraka_SLM niyatam_niyatam_U vāsaḥ_vāsa_SNM bhavati_bhū_SPr3In iti_iti_U anuśuśruma_anuśru_PPs1In"
+  },
+  {
+    "index": 3777,
+    "sanskrit": "svatantragrāha iti yat svairaṃ vaśitvaṃ sa ātmā yo'dhikāraḥ sa ātmeti yo grāhaḥ / hetvanurūpasyaiva vā phalasyotpattau vaśitvam asyeti svatantragrāhaḥ /",
+    "english": "The reality of characteristic is the insubstantiality of the personal entity and the dharmas and since it is not something other this is also equivalent to the thusness of characteristic, c The reality of representation is .",
+    "morphology": "svatantra_svatantra_Cp grāhaḥ_grāha_SNM iti_iti_ yat_yad_SNNe svairam_svaira_SNNe vaśitvam_vaśitva_SNNe saḥ_tad_SNM ātmā_ātman_SNM yaḥ_yad_SNM adhikāraḥ_adhikāra_SNM saḥ_tad_SNM ātmā_ātman_SNM iti_iti_ yaḥ_yad_SNM grāhaḥ_grāha_S"
+  },
+  {
+    "index": 3778,
+    "sanskrit": "kratavaḥ saṃpravartantāṃ dīkṣaṇīyair dvijātibhiḥ / dakṣiṇāś cāpi vartantāṃ yathoktaṃ sarvasatriṇām //",
+    "english": "Let sacrifices be undertaken by the Brāhmanas who are worthy of performing initiatory rites and let all the proper sacrificial gifts be distributed.",
+    "morphology": "kratavaḥ_kratu_PNM saṃpravartantām_sampravṛt_PPr3Im dīkṣaṇīyaiḥ_dīkṣ_PIMGd dvijātibhiḥ_dvijāti_PIM  / dakṣiṇāḥ_dakṣiṇā_PNF ca_ca_ api_api_ vartantām_vṛt_PPr3Im yathoktam_yathoktam_ sarva_sarva_Cp satriṇām_sattrin_PGM"
+  },
+  {
+    "index": 3779,
+    "sanskrit": "sarvahitam ekasya bruvataḥ kuryur ājñām //",
+    "english": "The order of any person attempting to do a work beneficial to all shall be obeyed",
+    "morphology": "sarva_sarva_Cp hitam_hita_SANe ekasya_eka_SGM bruvataḥ_brū_SGPaPrM kuryuḥ_kṛ_PPr3O"
+  },
+  {
+    "index": 3780,
+    "sanskrit": "tathā bhaga sahasreṇa mahendram paricihnitam",
+    "english": "The great Indra had at one time been marked all over with a thousand sex-marks.",
+    "morphology": "tathā_tathā_U "
+  },
+  {
+    "index": 3781,
+    "sanskrit": "tvayā me suciraṃ kālaṃ dagdhā pṛṣṭhirmakhāgninā | adyāpi ca prapaśyāmi tāṃ jvalaṃtīmiva sthitām || 307 ||",
+    "english": "For a long time my back was burnt by you through the sacrificial fire. Even now I see it blazing as it were. That was why, O king, I disappeared on seeing you.",
+    "morphology": "tvayā_tvad_SI me_mad_SG su_su_ ciram_cira_SAM kālam_kāla_SAM dagdhā_dah_SNPaF pṛṣṭhiḥ_pṛṣṭhi_SNF makha_makha_Cp agninā_agni_SIM  / adya_adya_ api_api_ ca_ca_ prapaśyāmi_prapaś_SPr1In tām_tad_SAF jvalantīm_jval_SAPaPrF iva_iva_ sthit"
+  },
+  {
+    "index": 3782,
+    "sanskrit": "vāyuruvāca | vilepanāni śubhrāṇi sugaṃdhāni viśeṣataḥ | yotra dāsyati viprebhyo nīrogaḥ sa bhaviṣyati || 177 ||",
+    "english": "Vāyu said: 177. Those who offer specially the flavoured paste of sandalwood to Brāhmaṇas will remain free from all diseases.",
+    "morphology": "vāyuḥ_vāyu_SNM uvāca_vac_SPs3In  / vilepanāni_vilepana_PANe śubhrāṇi_śubhra_PANe su_su_ gaṃdhāni_gandha_PANe viśeṣataḥ_viśeṣataḥ_  / yaḥ_yad_SNM atra_atra_ dāsyati_dā_SFu3In viprebhyaḥ_vipra_PDM nīrogaḥ_nīroga_SNM sa_tad_S"
+  },
+  {
+    "index": 3783,
+    "sanskrit": "yā sīdatī na ceṣṭate sā durvāntā tām punar samyak vāmayet |",
+    "english": "These should be made to disgorge again.",
+    "morphology": "yā_yad_SNF sīdatī_sad_SNPaPrF na_na_U ceṣṭate_ceṣṭ_SPr3In sā_tad_SNF durvāntā_durvānta_SNF tām_tad_SAF punar_punar_U samyak_samyak_U"
+  }
+]

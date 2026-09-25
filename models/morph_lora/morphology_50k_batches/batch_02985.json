@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23872,
+    "sanskrit": "padārthajātaṃ bhūtāni bṛhadbrahma ca bhārata / ekamevākhilaṃ viddhi pṛthaktvaṃ na manāgapi //",
+    "english": "All material beings of every species, are forms of the Great Brahma himself; know this one as all, and there is nothing apart or distinct from him.",
+    "morphology": "padārtha_padārtha_Cp jātam_jan_SAPaNe bhūtāni_bhūta_PANe bṛhat_bṛhat_SANe brahma_brahman_SANe ca_ca_ bhārata_bhārata_SVM  / ekam_eka_SANe eva_eva_ akhilam_akhila_SANe viddhi_vid_SPr2Im pṛthaktvam_pṛthaktva_SANe na_na_ manāk_manāk_ api_api"
+  },
+  {
+    "index": 23873,
+    "sanskrit": "hitāni ca yathābhavyaṃ kṣipramāsādayanti te //",
+    "english": "and thus they quickly secure all that is good for them’.",
+    "morphology": "hitāni_hita_PANe ca_ca_ yathābhavyam_yathābhavyam_ kṣipram_kṣipram_ āsādayanti_āsāday_PPr3In te_tad_PNM  /"
+  },
+  {
+    "index": 23874,
+    "sanskrit": "araṇye yaḥ vimuñceta saṃgrāme vā tanum naraḥ kratūn āhṛtya mahataḥ mahimānam sa gacchati",
+    "english": "The man who casts away his body in the woods or in battle after having performed sacrifices, obtains great glory.",
+    "morphology": "araṇye_araṇya_SLNe yaḥ_yad_SNM vimuñceta_vimuc_SPr3O saṃgrāme_saṃgrāma_SLM vā_vā_U tanum_tanu_SAF naraḥ_nara_SNM kratūn_kratu_PAM āhṛtya_āhṛ_Co mahataḥ_mahat_PAM mahimānam_mahiman_SAM sa_tad_SNM gacchati_gam_SPr3In"
+  },
+  {
+    "index": 23875,
+    "sanskrit": "nāstyajātayā // anāgatayā tu vijñaptyā na kaścit samanvāgataḥ / nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ /",
+    "english": "No one possesses future vijñapti, because such vijñapti does not now accompany the mind.",
+    "morphology": "na_na_ asti_as_SPr3In a_a_ jātayā_jan_SIPaF  // anāgatayā_anāgata_SIF tu_tu_ vijñaptyā_vijñapti_SIF na_na_ kaścid_kaścit_SNM samanvāgataḥ_samanvāgam_SNPaM  / nivṛta_nivṛ_PaCp a_a_ nivṛtābhyām_nivṛ_DuIPaM ca_ca_ na_na_ atītābhyām_"
+  },
+  {
+    "index": 23876,
+    "sanskrit": "tvam hi kṛṣṇāt ca karṇāt ca phalgunāt ca viśeṣataḥ",
+    "english": "There is not the slightest doubt, O tiger among kings, that thou art superior to Krishna, to Karna, and to Phalguna.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 23877,
+    "sanskrit": "kim aṅga punar eva anyaḥ martyaḥ satyam bravīmi vaḥ",
+    "english": "What, O friend, Chapter XVIII shall we say then of any mortal? I say this truly.",
+    "morphology": "kim_kim_U aṅga_aṅga_U punar_punar_U eva_eva_U anyaḥ_anya_SNM martyaḥ_martya_SNM satyam_satya_SANe bravīmi_brū_SPr1In vaḥ_tvad_PA"
+  },
+  {
+    "index": 23878,
+    "sanskrit": "yat ādityam sthitam madhye gūhanti śikhinaḥ arciṣaḥ",
+    "english": "Dazzling flames of fire, ablaze all around, conceal the Sun that is in the centre of space.",
+    "morphology": "yat_yat_U ādityam_āditya_SAM sthitam_sthā_SAPaPsM madhye_madhya_SLNe gūhanti_guh_PPr3In"
+  },
+  {
+    "index": 23879,
+    "sanskrit": "jñeyajñeyo jñānagamyo'pyagamyo māyātīto mānameyo'numānāt | kṛtsnasyādiḥ kṛtsnakarttānumaṃtā pātā harttā viśvasākṣinnamaste || 40 ||",
+    "english": "40. You are both comprehensible and incomprehensible. You can be realised through knowledge, yet you cannot be so realized. You are beyond Māyā. You can be measured, comprehended through inference; you are the cause of everything. You are the maker of everything. You are the knower, protector and annihilator (of all things). O Witness of the universe, obeisance to you!",
+    "morphology": "jñeya_jñā_GdCp jñeyaḥ_jñā_SNMGd jñāna_jñāna_Cp gamyaḥ_gam_SNMGd api_api_ agamyaḥ_agamya_SNM māyā_māyā_Cp atītaḥ_atī_SNPaM māna_māna_Cp meyaḥ_mā_SNMGd anumānāt_anumāna_SBNe  / kṛtsnasya_kṛtsna_SGNe ādiḥ_ādi_SNM kṛts"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3440,
+    "sanskrit": "vāsudevam ca saptatyā punar pārtham ca pañcabhiḥ",
+    "english": "And he, once more, pierced Partha with five arrows, and Vasudeva with twenty.",
+    "morphology": "vāsudevam_vāsudeva_SAM ca_ca_U saptatyā_saptati_SIF punar_punar_U pārtham_pārtha_SAM ca_ca_U pañcabhiḥ_pañcan_PIM"
+  },
+  {
+    "index": 3441,
+    "sanskrit": "nāradenāpi mattīre sthānaṃ saṃsthāpya śobhanam | sarvebhyaḥ puṇyakṣetrebhyo dattaṃ śraiṣṭhyaṃ purā mama || 30 ||",
+    "english": "30. Nārada established the splendid sacred place on my banks. Formerly I have been given the status of being the most excellent among all the holy spots by Nārada himself.",
+    "morphology": "nāradena_nārada_SIM api_api_ mad_mad_Cp tīre_tīra_SLNe sthānam_sthāna_SANe saṃsthāpya_saṃsthāpay_Co śobhanam_śobhana_SANe  / sarvebhyaḥ_sarva_PBNe puṇya_puṇya_Cp kṣetrebhyaḥ_kṣetra_PBNe dattam_dā_SNPaNe śraiṣṭhyam_śraiṣ"
+  },
+  {
+    "index": 3442,
+    "sanskrit": "yadi dhātvarthameva prati guṇatvameva kalapyeta tataḥ sakkadupāḍhāne vipratiṣiddhamiva syāt /",
+    "english": "Then, as for the mere cogni tion of the Agent by Indication, that would be possible only when the Agent would be a subordinate factor, and honce the said Indication could not point to the fact of the Agent being the predominant factor.",
+    "morphology": "yadi_yadi_ dhātvartham_dhātvartha_SAM eva_eva_ prati_prati_ guṇa_guṇa_Cp tvam_tva_SNNe eva_eva_ kalapyeta_kalapay_SPr3OPv tatas_tatas_ sakkat_sakkat_ upāḍhāne_upāḍhāna_SLNe vipratiṣiddham_vipratiṣidh_SNPaNe iva_iva_ syāt_as_SPr3O  /"
+  },
+  {
+    "index": 3443,
+    "sanskrit": "yasya me dīyate kanyā kadācinnṛpateriyam | purodhāstasya yo viprastasmai deyā nijā sutā || 27 ||",
+    "english": "Your daughter should be. given to the Brāhmaṇa engaged as the priest of the king who is likely to be offered the hand of my daughter some time hereafter.",
+    "morphology": "yasya_yad_SGM me_mad_SG dīyate_dā_SPr3InPv kanyā_kanyā_SNF kadācid_kadācid_ nṛpateḥ_nṛpati_SGM iyam_idam_SNF  / purodhāḥ_purodhas_SNM tasya_tad_SGM yaḥ_yad_SNM vipraḥ_vipra_SNM tasmai_tad_SDM deyā_dā_SNFGd nijā_nija_SNF sutā_sutā_SN"
+  },
+  {
+    "index": 3444,
+    "sanskrit": "tasmādguṇāṃśca bhogāṃśca devāsuramahībhṛtām | tṛṇavadyastyajettasya yogasiddhiḥ parā bhavet ||",
+    "english": "44. Hence he who abandons the attributes and the pleasures of the gods, Asuras and kings, considering them as worthless as blades of grass acquires the greatest Yogic power.",
+    "morphology": "tasmāt_tasmāt_ guṇān_guṇa_PAM ca_ca_ bhogān_bhoga_PAM ca_ca_ deva_deva_Cp asura_asura_Cp mahībhṛtām_mahībhṛt_PGM  / tṛṇa_tṛṇa_Cp vat_vat_ yaḥ_yad_SNM tyajet_tyaj_SPr3O tasya_tad_SGM yoga_yoga_Cp siddhiḥ_siddhi_SNF parā_para_SNF "
+  },
+  {
+    "index": 3445,
+    "sanskrit": "viṣāṇīti bahuvacanaṃ kṛtrimākṛtrimabhedena sthāvarajaṅgamabhedena garādiprakārabhedena vā //",
+    "english": "\"Poisons\" The plural number is used, in view of there being several kinds of poison, which are divided into \"natural\" and \"artificial,\" or into \"moveable\" and \"immoveable,\" or into the various varieties of \"gara\" and the rest.",
+    "morphology": "viṣāṇi_viṣa_PNNe iti_iti_ bahuvacanam_bahuvacana_SNNe kṛtrima_kṛtrima_Cp akṛtrima_akṛtrima_Cp bhedena_bheda_SIM sthāvara_sthāvara_Cp jaṅgama_jaṅgama_Cp bhedena_bheda_SIM gara_gara_Cp ādi_ādi_Cp prakāra_prakāra_Cp bhedena_bheda_SIM "
+  },
+  {
+    "index": 3446,
+    "sanskrit": "tasmāt teṣu mahā daṇḍaḥ kṣeptavyaḥ kṣipram acyuta tvayā ca eva mahā bāho pāṇḍavaiḥ saha sṛñjayaiḥ",
+    "english": "Therefore, O mighty-armed Achyuta, heavy should be the punishment that deserves to be speedily inflicted upon them by thyself aided by the Pandavas and the Srinjayas.",
+    "morphology": "tasmāt_tasmāt_U teṣu_tad_PLM mahā_mahat_Cp daṇḍaḥ_daṇḍa_SNM kṣeptavyaḥ_kṣip_SNMGd kṣipram_kṣipram_U acyuta_acyuta_SVM tvayā_tvad_SI ca_ca_U eva_eva_U mahā_mahat_Cp bāho_bāhu_SVM pāṇḍavaiḥ_pāṇḍava_PIM saha_saha_U s"
+  },
+  {
+    "index": 3447,
+    "sanskrit": "tatra mādryā kṛtodāraparicaryaḥ svabhāryayā / tarumūle kṛtāvāsastasthau mṛgaparicchadaḥ //",
+    "english": "There he took up his abode at the foot of a tree, and lived with deer for his only retinue, nobly waited on by his wife, Mādrī.",
+    "morphology": "tatra_tatra_ mādryā_mādrī_SIF kṛta_kṛ_PaCp udāra_udāra_Cp paricaryaḥ_paricaryā_SNM sva_sva_Cp bhāryayā_bhāryā_SIF  / taru_taru_Cp mūle_mūla_SLNe kṛta_kṛ_PaCp āvāsaḥ_āvāsa_SNM tasthau_sthā_SPs3In mṛga_mṛga_Cp paricchadaḥ_"
+  }
+]

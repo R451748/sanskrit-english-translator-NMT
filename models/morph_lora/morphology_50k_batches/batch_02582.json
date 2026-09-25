@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20648,
+    "sanskrit": "paratantraḥ sadā rājā su alpe saḥ api prasajjate",
+    "english": "The king is always dependent on others. He enjoys a very small share of all he is supposed to own, and to that small share he is forced to be attached (as well as others are attached to their respective possessions).",
+    "morphology": "paratantraḥ_paratantra_SNM sadā_sadā_U rājā_rājan_SNM su_su_U alpe_alpa_SLNe saḥ_tad_SNM api_api_U"
+  },
+  {
+    "index": 20649,
+    "sanskrit": "hanta pṛcchāmi tasmāt tvām pitāmaha namaḥ astu te",
+    "english": "Therefore, do I ask thee (this).",
+    "morphology": "hanta_hanta_U pṛcchāmi_pracch_SPr1In tasmāt_tasmāt_U"
+  },
+  {
+    "index": 20650,
+    "sanskrit": "yad ahaṃ pṛṣṭaḥ śṛṇu tat /",
+    "english": "\"Listen to what you have asked\".",
+    "morphology": "yat_yad_SANe aham_mad_SN pṛṣṭaḥ_pracch_SNPaM śṛṇu_śru_SPr2Im tat_tad_SANe  /"
+  },
+  {
+    "index": 20651,
+    "sanskrit": "kapālinaṃ mālinamādidevaṃ jaṭādharaṃ bhīmabhujaṃgahāram | prabhāsitāraṃ ca sahasramūrtiṃ sahasraśīrṣaṃ puruṣaṃ viśiṣṭam || 27 ||",
+    "english": "27. I bow down to Kapālin (the Lord with Skull in his hand), the primordial Lord with garlands, the Lord having matted hair who wears terrible serpents as garlands. He has a thousand forms and he makes everything shine. He is the most excellent Puruṣa (Being) with a thousand heads.",
+    "morphology": "kapālinam_kapālin_SAM mālinam_mālin_SAM ādidevam_ādideva_SAM jaṭā_jaṭā_Cp dharam_dhara_SAM bhīma_bhīma_Cp bhujaṃga_bhujaṃga_Cp hāram_hāra_SAM  / prabhāsitāram_prabhāsitṛ_SAM ca_ca_ sahasramūrtim_sahasramūrti_SAM sahasraśīrṣam"
+  },
+  {
+    "index": 20652,
+    "sanskrit": "aśvī rathī surūpa idgomāṃ yadindra te sakhā / śvātrabhājā vayasā sacate sadā candrairyāti sabhāmupa //",
+    "english": "Indra! thy friend, when fair of form and rich in chariots, steeds, and kine,",
+    "morphology": "aśvī_aśvin_SNM rathī_rathin_SNM surūpaḥ_surūpa_SNM id_id_ gomān_gomat_SNM yat_yat_ indra_indra_SVM te_tvad_SG sakhā_sakhi_SNM  / śvātra_śvātra_Cp bhājā_bhāj_SINe vayasā_vayas_SINe sacate_sac_SPr3In sadā_sadā_ candraiḥ_candra_PIM yāti"
+  },
+  {
+    "index": 20653,
+    "sanskrit": "sādhusādhu mahāyogindhanyosmi tava darśanāt | māṃ vimocaya dharmātmanghorādasmātkujanmanaḥ || 62 ||",
+    "english": "62. “Well said, well said, O great Yogin. I am blessed by seeing you. O pious-souled one, release me from this terrible evil birth.",
+    "morphology": "sādhu_sādhu_Cp sādhu_sādhu_SANe mahā_mahat_Cp yogin_yogin_SVM dhanyaḥ_dhanya_SNM asmi_as_SPr1In tava_tvad_SG darśanāt_darśana_SBNe  / mām_mad_SA vimocaya_vimocay_SPr2Im dharma_dharma_Cp ātman_ātman_SVM ghorāt_ghora_SBNe asmāt_idam_SBNe ku_ku"
+  },
+  {
+    "index": 20654,
+    "sanskrit": "nando yaśodā nṛpa rohiṇī ca balaś ca sannanda mukhāś ca vṛddhāḥ āliìgya kṛṣṇaṃ pradadur dhanāni śubhāśiṣā samyuyujur ghṛṇārtāḥ",
+    "english": "O king, then Nanda, Yaśodā, Rohiṇī, and the gopa elders headed by Sannanda, embraced Kṛṣṇa, gave Him great wealth, and, filled with kindness and love, spoke many benedictions blessing Him.",
+    "morphology": "nandaḥ_nanda_SNM yaśodā_yaśodā_SNF nṛpa_nṛpa_SVM rohiṇī_rohiṇī_SNF ca_ca_ balaḥ_bala_SNM ca_ca_ sannanda_saṃnanda_SVM mukhāḥ_mukha_PNM ca_ca_ vṛddhāḥ_vṛddha_PNM āliñgya_āliñg_Co kṛṣṇam_kṛṣṇa_SAM pradaduḥ_prad"
+  },
+  {
+    "index": 20655,
+    "sanskrit": "na śuśrāva yathārthaṃ tu tadvākyaṃ smaravihvalaḥ | paryaikṣacchrīmatīṃ tāṃ vai tallipsurmohito muniḥ ||",
+    "english": "43. The sage overwhelmed by love did not heed their whisper. He went on gazing at the princess Śrīmatī and was eager to get her.",
+    "morphology": "na_na_ śuśrāva_śru_SPs3In yathārtham_yathārtha_SANe tu_tu_ tad_tad_Cp vākyam_vākya_SANe smara_smara_Cp vihvalaḥ_vihvala_SNM  / paryaikṣat_parīkṣ_S3ImIn śrīmatīm_śrīmat_SAF tām_tad_SAF vai_vai_ tad_tad_Cp lipsuḥ_lipsu_SNM mohitaḥ_mo"
+  }
+]

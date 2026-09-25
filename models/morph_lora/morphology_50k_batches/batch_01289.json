@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10304,
+    "sanskrit": "pradyumno dakṣiṇe vajraṃ śaṅkhaṃ vāme dhanuḥ kare //",
+    "english": "The image of Pradyumna is represented as having thunderbolt and conch on the right arm and the bow in the left arm.",
+    "morphology": "pradyumnaḥ_pradyumna_SNM dakṣiṇe_dakṣiṇa_SLM vajra_vajra_SAM śaṅkha_śaṅkha_SAM vāme_vāma_SLM dhanuḥ_dhanus_SANe kare_kara_SLM  /"
+  },
+  {
+    "index": 10305,
+    "sanskrit": "evam ātma parityāgaḥ tava rājan na śobhanaḥ",
+    "english": "This self-destruction, O king, does not look well in thee.",
+    "morphology": "evam_evam_"
+  },
+  {
+    "index": 10306,
+    "sanskrit": "anāsraveṇāryasattvāḥ",
+    "english": "The Aryans possess pure discipline.",
+    "morphology": "anāsraveṇa_anāsrava_SIM"
+  },
+  {
+    "index": 10307,
+    "sanskrit": "sarva veda niruktānām niruktam ṛṣibhiḥ kṛtam",
+    "english": "Hence, forgiveness was always practised by the Brahmanas who were ascetics.",
+    "morphology": "sarva_sarva_Cp veda_veda_MCp niruktānām_nirukta_PGNe niruktam_nirukta_SNNe ṛṣiṇā_ṛṣi_SIM"
+  },
+  {
+    "index": 10308,
+    "sanskrit": "anaśitvā muhūrtaṃ sabhāyāmāsitvāpi kāmam palyayeta tadeva tasyopasthānamatha yatraiva bhasmoddhṛtamupanigacettadeva tasyopasthānamevamu hāsyaitā devatā upasthitā bhavanti //",
+    "english": "And when he steps near where lie the ashes removed (from the fire-places) that is the homage rendered to that (fire). And thus homage has been rendered to those deities of his.",
+    "morphology": "an_an_ aśitvā_aś_Co muhūrtam_muhūrta_SANe sabhāyām_sabhā_SLF āsitvā_ās_Co api_api_ kāmam_kāmam_ palyayeta_palyay_SPr3O tat_tad_SNNe eva_eva_ tasya_tad_SGM upasthānam_upasthāna_SNNe atha_atha_ yatra_yatra_ eva_eva_ bhasma_bhasman_SNNe uddhṛ"
+  },
+  {
+    "index": 10309,
+    "sanskrit": "ādiśabdena padavicchedaplutodāttādiparigrahaḥ /",
+    "english": "‘Ādi’ includes broken words, ultra-long vowels, and difficulties of accentuation and so forth.",
+    "morphology": "ādi_ādi_Cp śabdena_śabda_SIM "
+  },
+  {
+    "index": 10310,
+    "sanskrit": "tatra kṣaṇikatvaṃ nīlādikṣaṇānāṃ sattvenānumātavyaṃ yatsattatkṣaṇikaṃ yathā jaladharapaṭalaṃ santaścāmī bhāvā iti| na cāyamasiddho hetuḥ| arthakriyākāritvalakṣaṇasya sattvasya nīlādikṣaṇānāṃ pratyakṣasiddhatvāt| vyāpakavyāvṛtyā vyāpyavyāvṛttiriti nyāyena vyāpakakramākramavyāvṛttāvakṣakṣikātsattvavyāvṛtteḥ siddhatvācca|",
+    "english": "Of these points of view, the momentariness of fleeting things, blue and so forth (i.e., whatever be their quality), is to be inferred from their existence; thus, whatever is is momentary (or fluxional) like a bank of clouds, and all these things are.[4] Nor may any one object that the middle term (existence) is unestablished; for an existence consisting of practical efficiency is established by perception to belong to the blue and other momentary things; and the exclusion of existence from that which is not momentary is established, provided that we exclude from it the non-momentary succession and simultaneity, according to the rule that exclusion of the continent is exclusion of the contained.",
+    "morphology": "tatra_tatra_ kṣaṇika_kṣaṇika_Cp tvam_tva_SNNe nīla_nīla_Cp ādi_ādi_Cp kṣaṇānām_kṣaṇa_PGM sattvena_sattva_SINe anumātavyam_anumā_SNNeGd yat_yad_SNNe sat_as_SNPaPrNe tat_tad_SNNe kṣaṇikam_kṣaṇika_SNNe yathā_yathā_ jaladhara_"
+  },
+  {
+    "index": 10311,
+    "sanskrit": "nāsti cāsyārtha ° ityākāracatuṣṭayasya /",
+    "english": "Its [external] object does not exist, viz.",
+    "morphology": "na_na_ asti_as_SPr3In ca_ca_ asya_idam_SGM arthaḥ_artha_SNM iti_iti_ "
+  }
+]

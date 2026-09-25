@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32464,
+    "sanskrit": "siddho na paśyatyācāramācaratītyubhayo: parasparavirodha iti cenna /",
+    "english": "The Bhāgavata also has it thus : ‘As a drunken man does not see whether his garments are on his body or have fallen by chance, so the accomplished one , since he has realized his real nature, does not see his body, whether by chance, remains at one place or moves about or by chance he is still embodied or the body is cast off' .",
+    "morphology": "siddhaḥ_siddha_SNM na_na_ paśyati_paś_SPr3In ācāram_ācāra_SAM ācarati_ācar_SPr3In iti_iti_ ubhayayoḥ_ubhaya_DuGM paraspara_paraspara_Cp virodhaḥ_virodha_SNM"
+  },
+  {
+    "index": 32465,
+    "sanskrit": "naiti kauṭilyaḥ // laghusamuttham alpaṃ śreyaḥ // lagusamuttham alpaṃ mitraṃ kāryakālaṃ naatipātayati daurbalyāc ca yathāiṣṭabhogyaṃ bhavati,",
+    "english": "Not so, says Kautilya a small friend easy to be roused is better, for such a friend will not, in virtue of his ready preparations, be behind the opportune moment of work, and can, in virtue of his weakness in power, be used in any way the conqueror may like;",
+    "morphology": "na_na_ eti_i_SPr3In kauṭilyaḥ_kauṭilya_SNM  // laghu_laghu_Cp samuttham_samuttha_SNNe alpam_alpa_SNNe śreyaḥ_śreyas_SNNe  // lagu_lagu_Cp samuttham_samuttha_SAM alpam_alpa_SAM mitram_mitra_SAM kārya_kārya_Cp kālam_kāla_SAM na_na_ atipātayati"
+  },
+  {
+    "index": 32466,
+    "sanskrit": "kṛṣṇaḥ hi mūlam pāṇḍūnām pārthaḥ skandhaḥ iva udgataḥ",
+    "english": "Krishna is the root of the Pandavas, and Partha is like their risen trunk.",
+    "morphology": "kṛṣṇaḥ_kṛṣṇa_SNM hi_hi_U mūlam_mūla_SNNe pāṇḍūnām_pāṇḍu_PGM pārthaḥ_pārtha_SNM skandhaḥ_skandha_SNM iva_iva_U udgataḥ_udgam_SNPaPsM"
+  },
+  {
+    "index": 32467,
+    "sanskrit": "asya rūpaṃ tu kāyasyobhe ca sarvataḥ //",
+    "english": "Visible matter, in relation to consciousness, and visible matter as well as consciousness, through relation to the body, is of all types.",
+    "morphology": "asya_idam_SGM rūpam_rūpa_SNNe tu_tu_ kāyasya_kāya_SGM ubhe_ubh_DuNNe ca_ca_ sarvatas_sarvatas_  /"
+  },
+  {
+    "index": 32468,
+    "sanskrit": "kanyāratnaṃ ca tasyāsti viprasyaikam iti śrutam / tad apy etatprasaṅgena dhruvaṃ tasmād avāpsyate //",
+    "english": "and that Brāhman has a pearl of a daughter spoken of as matchless;",
+    "morphology": "kanyā_kanyā_Cp ratnam_ratna_SNNe ca_ca_ tasya_tad_SGM asti_as_SPr3In viprasya_vipra_SGM ekam_eka_SNNe iti_iti_ śrutam_śru_SNPaNe  / tat_tad_SNNe api_api_ etat_etad_SNNe prasaṅgena_prasaṅga_SIM dhruvam_dhruvam_ tasmāt_tad_SBM avāpsyate_avāp_SFu3I"
+  },
+  {
+    "index": 32469,
+    "sanskrit": "su bahūni nṛśaṃsāni putraiḥ tava janeśvara nikṛtāni iha pāṇḍūnām nīcaiḥ iva yathā naraiḥ",
+    "english": "Thy sons, O king, like despicable men, did many cruel and deceitful acts to the sons of Pandu.",
+    "morphology": "su_su_U bahūni_bahu_PNNe nṛśaṃsāni_nṛśaṃsa_PNNe putraiḥ_putra_SVM tava_tvad_SG janeśvara_janeśvara_SVM nikṛtāni_nikṛ_PNPaPsNe iha_iha_U pāṇḍūnām_pāṇḍu_PGM nīcaiḥ_nīca_PIM iva_iva_U yathā_yathā_U naraiḥ_nara_PIM"
+  },
+  {
+    "index": 32470,
+    "sanskrit": "tadyathānuśrūyate-",
+    "english": "This will be taught in the following.",
+    "morphology": "tat_tad_SNNe yathā_yathā_"
+  },
+  {
+    "index": 32471,
+    "sanskrit": "yaḥ rakṣāṁsi ni jūrvati vr̥ṣā śukreṇa śociṣā saḥ naḥ parṣat ati dvi ṣaḥ",
+    "english": "The Bull with brightly-gleaming flame who utterly consumes the fiends So may he bear us past our foes.",
+    "morphology": "yaḥ_yad_SNM rakṣāṁ_rakṣ_SNPaPsM ni_ni_U jūrvati_jūrv_SPr3In vr̥ṣā_vrīṣ_SIF śukreṇa_śukra_SINe śociṣā_śocis_SINe saḥ_tad_SNM naḥ_mad_PA parṣat_pṛ_SPs3Su ati_ati_U dvi_dvi_Cp sahaḥ_sah_SNM"
+  }
+]

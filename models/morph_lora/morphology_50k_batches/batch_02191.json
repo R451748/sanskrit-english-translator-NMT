@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17520,
+    "sanskrit": "etad artham hi jīvāmi kṛtvā jñāti vadham mahat",
+    "english": "Having slaughtered all my kinsmen, I live for him alone.",
+    "morphology": "etad_etad_Cp artham_artha_SAM hi_hi_U jīvāmi_jīv_SPr1In"
+  },
+  {
+    "index": 17521,
+    "sanskrit": "tatrāpi yo yāvaj jānāti sa tāvaty adhikriyate / agnihotravākyānāṃ yo 'rthaṃ vetti sa tatrādhikriyate / kratvantarajñānaṃ na tatropakārakam /",
+    "english": "But here also the title to perform the rites is dependent upon the extent of knowledge possessed by the man; eg, one who knows the meaning of tho texts bearing upon the Agnihotra is entitled to its performance; the knowledge of other sacrifices is of no use in that.",
+    "morphology": "tatra_tatra_ api_api_ yaḥ_yad_SNM yāvat_yāvat_SANe jānāti_jñā_SPr3In sa_tad_SNM tāvati_tāvat_SLM adhikriyate_adhikṛ_SPr3InPv  / agnihotra_agnihotra_Cp vākyānām_vākya_PGNe yaḥ_yad_SNM artham_artha_SAM vetti_vid_SPr3In sa_tad_SNM tatra_tatr"
+  },
+  {
+    "index": 17522,
+    "sanskrit": "{6} ābhāsvarāḥ,",
+    "english": "{6} (the High Divinities of) Streaming Radiance,",
+    "morphology": "ābhāsvarāḥ_"
+  },
+  {
+    "index": 17523,
+    "sanskrit": "sa ha satyakāmo hāridrumataṃ haridrumato 'patyaṃ hāridrumataṃ gautamaṃ gotrata etya gatvovāca brahmacaryaṃ bhagavati pūjāvati tvayi vatsyāmyata upeyāmupagaccheyaṃ",
+    "english": "He, SatyakāmaJābāla, having gone to Hārīdrumatathe son of HaridrumataGautama, being his family name, said to him‘Reverend Sir, wish to live as a Religious Student under you,and live with you, would approach you",
+    "morphology": "sa_tad_SNM ha_ha_ satyakāmaḥ_satyakāma_SNM hāridrumatam_hāridrumata_SAM haridrumataḥ_haridrumant_SGM apatyam_apatya_SANe hāridrumatam_hāridrumata_SAM gautamam_gautama_SAM gotrataḥ_gotra_SBNe etya_e_Co gatvā_gam_Co uvāca_vac_SPs3In brahmacarya"
+  },
+  {
+    "index": 17524,
+    "sanskrit": "tatra yoṣidviveko vasiṣṭhena darśita : 'māṃsapāñcālikāyāstu yantralole'ṅgapañjare / snāyvasthigranthiśālinyāḥ striyāḥ kimiva śobhanam //",
+    "english": "Vasistha has described the discrimination about women thus : 'What is beautiful there in a woman-a doll of flesh, a functioning contraption devised with muscles, bones, joints, and limbs? .",
+    "morphology": "tatra_tatra_ yoṣit_yoṣit_Cp vivekaḥ_viveka_SNM vasiṣṭhena_vasiṣṭha_SIM darśitaḥ_darśay_SNPaM  / a_a_ māṃsapāñcālikāyāḥ_māṃsapāñcālikā_SGF tu_tu_ yantra_yantra_Cp lole_lola_SLNe aṅga_aṅga_Cp pañjare_pañjara_SLNe  / s"
+  },
+  {
+    "index": 17525,
+    "sanskrit": "tam bhaja sauśravaseṣv agna ukthauktha ā bhaja śasyamāne | priyaḥ sūrye priyo agnā bhavāty uj jātena bhinadad uj janitvaiḥ |",
+    "english": "Give him portion, O Agni, in praises; Give him portion in every hymn that is sung, Dear shall he be before Surya, dear before Agni With what is born, what is to be born shall he be victorious.",
+    "morphology": "tam_tad_SAM bhaja_bhaj_SPr2Im sauśravaseṣu_sauśravasa_PLNe agne_agni_SVM ukthaukthe_ukthauktha_SLNe ā_ā_ bhaja_bhaj_SPr2Im śasyamāne_śaṃs_SLPaPrNePv  / priyaḥ_priya_SNM sūrye_sūrya_SLM priyaḥ_priya_SNM agnā_agni_SLM bhavāti_bhū_SPr3Su u"
+  },
+  {
+    "index": 17526,
+    "sanskrit": "yaḥ r̥ṣvaḥ śravayat sakhā viśvā it saḥ veda janima puru stutaḥ tam viśve mānuṣā yugā indram havante taviṣam yata srucaḥ",
+    "english": "High, glorifier of his friend, he knows all generations, he whom many praise. All races of mankind with ladies lifted up invoke that Mighty Indra's aid.",
+    "morphology": "yaḥ_yad_SNM r̥ṣvaḥ_r̥ṣva_SNM śravayat_śravay_PaPrCp sakhā_sakhi_SNM viśvā_viśva_PANe id_id_U saḥ_tad_SNM veda_vid_SPs3In janima_janiman_SANe puru_puru_Cp stutaḥ_stu_SNPaPsM tam_tad_SAM viśve_viśva_PNM mānuṣā_mānuṣa_PNM yugā_yu"
+  },
+  {
+    "index": 17527,
+    "sanskrit": "liṅgātmānaṃ viśodhyānte prakṛtiṃ śodhāyet punaḥ /",
+    "english": "After having purified the soul of the body, he should again purify the primordial principle at the end.",
+    "morphology": "__liṅga_U __ātman_U __viśodhay_CoU __anta_U __prakṛti_U __śodhāy_SPr3O __punar_U  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41584,
+    "sanskrit": "tam tu śabdam abhiśrutya bhīmasenaḥ mahā balaḥ babhūva parama prītaḥ pārtha darśana lālasaḥ",
+    "english": "Hearing that sound, the mighty Bhimasena, desirous as he had been of obtaining a sight of Partha, became filled with joy.",
+    "morphology": "tam_tad_SAM tu_tu_U śabdam_śabda_SAM abhiśrutya_abhiśru_Co bhīmasenaḥ_bhīmasena_SNM mahā_mahat_Cp balaḥ_bala_SNM babhūva_bhū_SPs3In parama_parama_Cp prītaḥ_prī_SNPaPsM pārtha_pārtha_MCp darśana_darśana_NeCp lālasaḥ_lālasa_SNM"
+  },
+  {
+    "index": 41585,
+    "sanskrit": "mārjālyaḥ mr̥jyate sve damūnāḥ kavi praśastaḥ atithiḥ śivaḥ naḥ sahasra śr̥ṅgaḥ vr̥ṣabhaḥ tat ojā viśvān agne sahasā pra asi anyān",
+    "english": "He, worshipful House-Friend, in his home is worshipped, our own auspicious guest, lauded by sages. That strength the Bull with thousand horns possesses. In might, O Agni, thou excellest others.",
+    "morphology": "mārjālyaḥ_mārjālya_SNM mr̥jyate_mr̥j_SPr3InPv sve_sva_SLNe damūnāḥ_damūnas_SNM kavi_kavi_MCp praśastaḥ_praśaṃs_SNPaPsM atithiḥ_atithi_SNM śivaḥ_śiva_SNM naḥ_mad_PD sahasra_sahasra_NeCp śr̥ṅgaḥ_śrīṅga_SNM vr̥ṣabhaḥ_"
+  },
+  {
+    "index": 41586,
+    "sanskrit": "ahaṃ sākṣī ca cinmātro jāgratsvapnādikasya ca /",
+    "english": "It is of the form of consciousness alone in the waking, dreaming and other states.",
+    "morphology": "aham_mad_SN sākṣī_sākṣin_SNM ca_ca_ cit_cit_Cp mātraḥ_mātra_SNM jāgrat_jāgrant_Cp svapna_svapna_Cp ādikasya_ādika_SGNe "
+  },
+  {
+    "index": 41587,
+    "sanskrit": "atra codayanti /",
+    "english": "Another alternative view may be suggested here.",
+    "morphology": "atra_"
+  },
+  {
+    "index": 41588,
+    "sanskrit": "teṣām na ca rajaḥ vastram bādhate tatra vai mune",
+    "english": "And, there, O Muni, dust doth not soils one's garments.",
+    "morphology": "teṣām_tad_PGM na_na_U ca_ca_U rajaḥ_rajas_SNNe vastram_vastra_SANe bādhate_bādh_SPr3In tathā_tathā_U ha_ha_U"
+  },
+  {
+    "index": 41589,
+    "sanskrit": "tato bahuśrutapratipattiyukta udāraṃ dharmaṃ nirdiśati sattvaparipācanārthaṃ /",
+    "english": ". Then, one who is endowed with much learning and understanding teaches the sublime Dharma for the purpose of bringing sentient beings to full maturation.",
+    "morphology": "tatas_tatas_ bahu_bahu_Cp śruta_śruta_Cp pratipatti_pratipatti_Cp yuktaḥ_yuj_SNPaM udāram_udāra_SAM dharmam_dharma_SAM nirdiśati_nirdiś_SPr3In sattva_sattva_Cp paripācana_paripācana_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 41590,
+    "sanskrit": "nārāyaṇeti tvannāma kīrtitaṃ tu yadṛcchayā | tvatto'dhikaṃ jagannātha caturvargaikasādhanam || 29 ||",
+    "english": "29. If your name Nārāyaṇa is pronounced even by chance, O Lord of the worlds, it becomes superior even to you.[3] It is the sole means for achieving the fourfold aim (of life).",
+    "morphology": "nārāyaṇa_nārāyaṇa_Cp iti_iti_ tvad_tvad_Cp nāma_nāman_SNNe kīrtitam_kīrtay_SNPaNe tu_tu_ yadṛcchayā_yadṛcchā_SIF  / tvattaḥ_tvad_SBM adhikam_adhika_SNNe jagannātha_jagannātha_SVM caturvarga_caturvarga_Cp eka_eka_Cp sādhanam_sādhana_"
+  },
+  {
+    "index": 41591,
+    "sanskrit": "gaccha putri na saṃtāpastvayā kāryaḥ kathaṃcana | ariṣṭaṃ vraja paṃthānaṃ mā saṃtu paripanthinaḥ || 20 ||",
+    "english": "20. “Do go, dear daughter. You need not strain yourself on any account. May you traverse the path without obstacles. Let there be no antagonists.”",
+    "morphology": "gaccha_gam_SPr2Im putri_putrī_SVF na_na_ saṃtāpaḥ_saṃtāpa_SNM tvayā_tvad_SI kāryaḥ_kṛ_SNMGd kathaṃcana_kathaṃcana_  / ariṣṭam_ariṣṭa_SAM vraja_vraj_SPr2Im paṃthānam_pathin_SAM mā_mā_ santu_as_PPr3Im paripanthinaḥ_paripanth"
+  }
+]

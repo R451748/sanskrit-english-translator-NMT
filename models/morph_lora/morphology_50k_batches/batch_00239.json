@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1904,
+    "sanskrit": "atha caturthe 'hanvyūhati /",
+    "english": "Then, on the fourth day, he transposes the grahas, and they transpose the metres.",
+    "morphology": "atha_atha_ "
+  },
+  {
+    "index": 1905,
+    "sanskrit": "pārvatīṃ bilvavṛkṣasthāṃ lakṣmīṃ ca tulasīgatām | ādau sarvaṃ vṛkṣamayaṃ pūrvaṃ viśvamajāyata || 21 ||",
+    "english": "21. They sought Pārvatī stationed in Bilva tree and Lakṣmī present in Tulasī. Formerly, at the outset the entire universe was full of trees.",
+    "morphology": "pārvatīm_pārvatī_SAF bilva_bilva_Cp vṛkṣa_vṛkṣa_Cp sthām_stha_SAF lakṣmīm_lakṣmī_SAF ca_ca_ tulasī_tulasī_Cp gatām_gam_SAPaF  / ādau_ādau_ sarvam_sarva_SNNe vṛkṣa_vṛkṣa_Cp mayam_maya_SNNe pūrvam_pūrvam_ viśvam_viśva_SNNe"
+  },
+  {
+    "index": 1906,
+    "sanskrit": "āsannapīnajaladāvalitālayānāṃ gehopaśalyapariphullavanadrumāṇām / lakṣmīḥ palāśapaṭalāvalitāmbarāṇāṃ ghoṣaukasāṃ samavalokaya parvateṣu //",
+    "english": "Look at the abodes of the Ghosha shepherds at the foot of the mountain, which are continually covered under the shrouding clouds;and behold the beauty of the blossoming palasa and patala trees thereabouts.",
+    "morphology": "āsanna_āsad_PaCp pīna_pīna_Cp jalada_jalada_Cp āvalita_āval_PaCp ālayānām_ālaya_PGM geha_geha_Cp upaśalya_upaśalya_Cp pariphulla_pariphulla_Cp vana_vana_Cp drumāṇām_druma_PGM  / lakṣmīḥ_lakṣmī_SNF palāśa_palāśa_Cp paṭala_paṭ"
+  },
+  {
+    "index": 1907,
+    "sanskrit": "śāstre hy āsevyamāne tadarthasya prakāśanād granthipramokṣād buddhivivṛddhiḥ prasiddhaiva /",
+    "english": "\"It expands the intellect\" when the treatise is duly studied, its subjectmatter becomes illuminated, and the hard knots become untied; hence follows the expansion of the understanding, as is well known.",
+    "morphology": "śāstre_śāstra_SLNe hi_hi_ āsevyamāne_āsev_SLPaPrNePv tad_tad_Cp arthasya_artha_SGM prakāśanāt_prakāśana_SBNe granthi_granthi_Cp pramokṣāt_pramokṣa_SBM buddhi_buddhi_Cp vivṛddhiḥ_vivṛddhi_SNF prasiddhā_prasidh_SNPaF eva_eva_  /"
+  },
+  {
+    "index": 1908,
+    "sanskrit": "ṛṣaya ūcuḥ | muktirnāma tvayā proktā tasyāṃ kiṃ nu bhavediha | avasthā kīdṛśī tatra bhavediti vadasva naḥ ||",
+    "english": "1. What is liberation has been explained by you. What will happen in that state? What is the nature of that state? Please explain to us.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / muktiḥ_mukti_SNF nāma_nāma_ tvayā_tvad_SI proktā_pravac_SNPaF tasyām_tad_SLF kim_ka_SNNe nu_nu_ bhavet_bhū_SPr3O iha_iha_  / avasthā_avasthā_SNF kīdṛśī_kīdṛśa_SNF tatra_tatra_ bhavet_bhū_SP"
+  },
+  {
+    "index": 1909,
+    "sanskrit": "kāryātvād ākāśāśritatvaṃ kalpyata ity eke //",
+    "english": "A sound is an effect of a single substance because it inheres only in the sky.",
+    "morphology": "kāryā_kāryā_Cp tvāt_tva_SBNe ākāśa_ākāśa_Cp āśrita_āśri_PaCp tvam_tva_SNNe kalpyate_kalpay_SPr3InPv iti_iti_ eke_eka_PNM  /"
+  },
+  {
+    "index": 1910,
+    "sanskrit": "pūrvavādastayoḥ pakṣaḥ pratipakṣastvanantaraḥ /",
+    "english": "Among these two, the first one is the plaintiff and the other one is the defendant.",
+    "morphology": "pūrva_pūrva_Cp vādaḥ_vāda_SNM tayoḥ_tad_DuGM pakṣaḥ_pakṣa_SNM pratipakṣaḥ_pratipakṣa_SNM tu_tu_ anantaraḥ_anantara_SNM  /"
+  },
+  {
+    "index": 1911,
+    "sanskrit": "evaṃ sabhāyāṃ kruddhāyāṃ sa nirgatya suvigrahaḥ / dūto mṛgāṅkadattasya pārśvaṃ svakaṭakaṃ yayau //",
+    "english": "The whole court being thus incensed, the ambassador Suvigraha went out, and repaired to Mṛgāṅkadatta in his camp.",
+    "morphology": "evam_evam_ sabhāyām_sabhā_SLF kruddhāyām_krudh_SLPaF sa_tad_SNM nirgatya_nirgam_Co su_su_ vigrahaḥ_vigraha_SNM  / dūtaḥ_dūta_SNM mṛgāṅkadattasya_mṛgāṅkadatta_SGM pārśvam_pārśva_SANe sva_sva_Cp kaṭakam_kaṭaka_SANe yayau_yā_SPs3"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27992,
+    "sanskrit": "nirdahyamānān bhīṣmeṇa droṇena ca mahātmanā",
+    "english": "He, however, beholding us consumed by Bhishma and the high-souled Drona, looketh indifferently on us.",
+    "morphology": "nirdahyamānān_nirdah_PAPaPrMPv"
+  },
+  {
+    "index": 27993,
+    "sanskrit": "nṛṇāṃ caivāgnidānāṃ ca snānālaṃkārakāriṇām / taptakṛcchradvaye śuddhir aśrupāte 'nuyāyinām //",
+    "english": "\"For incendiaries, for keepers of baths and makers of ornaments and for professional mourners, there is purification after the performance of two Taptakṛcchra penances.",
+    "morphology": "nṛṇām_nṛ_PGM ca_ca_ eva_eva_ agnidānām_agnida_PGM ca_ca_ snāna_snāna_Cp alaṃkāra_alaṃkāra_Cp kāriṇām_kārin_PGM  / taptakṛcchra_taptakṛcchra_Cp dvaye_dvaya_SLNe śuddhiḥ_śuddhi_SNF aśru_aśru_Cp pāte_pāta_SLM anuyāyinām_anu"
+  },
+  {
+    "index": 27994,
+    "sanskrit": "tṛṇa agreṇa api saṃspṛṣṭaḥ prāpta kālaḥ na jīvati bhīṣmaḥ uvāca īhamānaḥ samārambhān yadi na āsādayet dhanam",
+    "english": "On the other hand, one lays down one's life, if one's hour has come, even if it be a blade of grass with which one is struck.' \"Bhishma said, 'If one, setting oneself to undertaking involving even great exertions, fails to earn wealth, one should then practise severe austerities.",
+    "morphology": "tṛṇa_tṛṇa_NeCp agreṇa_agra_SINe api_api_U saṃspṛṣṭaḥ_saṃspṛś_SNPaPsM prāpta_prāp_PaPsCp kālaḥ_kāla_SNM na_na_U jīvati_jīv_SPr3In bhīṣmaḥ_bhīṣma_SNM uvāca_vac_SPs3In īhamānaḥ_īh_SNPaPrM samārambhān_samārambh"
+  },
+  {
+    "index": 27995,
+    "sanskrit": "sanniveśaviśeṣas tu naivāmīṣu tathāvidhaḥ / na tu tarvādibhedeṣu śabda eva tu kevalaḥ //",
+    "english": "the ‘peculiar arrangement of parts’ in such diverse things as the body, the mountain and the like however is not an effect of this kind; there is a mere assertion to that effect.",
+    "morphology": "sanniveśa_saṃniveśa_Cp viśeṣaḥ_viśeṣa_SNM tu_tu_ na_na_ eva_eva_ amīṣu_adas_PLM tathāvidhaḥ_tathāvidha_SNM  / na_na_ tu_tu_ taru_taru_Cp ādi_ādi_Cp bhedeṣu_bheda_PLM śabdaḥ_śabda_SNM eva_eva_ tu_tu_ kevalaḥ_kevala_SNM  /"
+  },
+  {
+    "index": 27996,
+    "sanskrit": "āmapātram apakvaṃ śarāvādibhājanam /",
+    "english": "\"Āma\" unbaked \"pātra\" vessels, such as saucer, and the like.",
+    "morphology": "āma_āma_Cp pātram_pātra_SNNe apakvam_apakva_SNNe śarāva_śarāva_Cp ādi_ādi_Cp bhājanam_bhājana_SNNe "
+  },
+  {
+    "index": 27997,
+    "sanskrit": "tan mitrasya varuṇasyābhicakṣe sūryo rūpaṃ kṛṇute dyor upasthe / anantam anyad ruśad asya pājaḥ kṛṣṇam anyad dharitaḥ saṃ bharanti //",
+    "english": "In the sky's lap the Sun this form assumeth that Varuna and Mitra may behold it. His Bay Steeds well maintain their power eternal, at one time bright, and darksome at another. 39",
+    "morphology": "tat_tad_SANe mitrasya_mitra_SGM varuṇasya_varuṇa_SGM abhicakṣe_abhicakṣ_In sūryaḥ_sūrya_SNM rūpam_rūpa_SANe kṛṇute_kṛ_SPr3In dyoḥ_div_SGM upasthe_upastha_SLNe  / anantam_ananta_SNNe anyat_anya_SNNe ruśat_ruśat_SNNe asya_idam_SGM pā"
+  },
+  {
+    "index": 27998,
+    "sanskrit": "tasyāsīdaparo vipraḥ sakhā sārasvatāhvayaḥ | tāvubhau paramasnigdhāvekadeśanivāsinau || 3 ||",
+    "english": "3. He had another Brāhmaṇa friend named Sārasvata. Both of them hailing from the same place were very friendly to each other.",
+    "morphology": "tasya_tad_SGM āsīt_as_S3ImIn aparaḥ_apara_SNM vipraḥ_vipra_SNM sakhā_sakhi_SNM sārasvata_sārasvata_Cp āhvayaḥ_āhvaya_SNM  / tau_tad_DuNM ubhau_ubh_DuNM parama_parama_Cp snigdhau_snigdha_DuNM eka_eka_Cp deśa_deśa_Cp nivāsinaḥ_nivāsin_DuNM"
+  },
+  {
+    "index": 27999,
+    "sanskrit": "etad api kathaṃ bhaviṣyati /",
+    "english": "How can this also be possible?",
+    "morphology": "etat_etad_SNNe api_api_ katham_katham_ bhaviṣyati_bhū_SFu3In  /"
+  }
+]

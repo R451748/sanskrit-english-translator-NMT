@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39520,
+    "sanskrit": "camatkārapure kṣetre mayā dattā sthitiḥ sadā | pṛthivyāṃ kulamukhyānāṃ nāgānāṃ nāgasattamāḥ || 33 ||",
+    "english": "33. O excellent Nāgas, a permanent residence in the holy spot of Camatkārapura on the earth has been granted by me to prominent serpents of all the serpent races.",
+    "morphology": "camatkāra_camatkāra_Cp pure_pura_SLNe kṣetre_kṣetra_SLNe mayā_mad_SI dattā_dā_SNPaF sthitiḥ_sthiti_SNF sadā_sadā_  / pṛthivyām_pṛthivī_SLF kula_kula_Cp mukhyānām_mukhya_PGM nāgānām_nāga_PGM nāga_nāga_Cp sattamāḥ_sattama_PVM  /"
+  },
+  {
+    "index": 39521,
+    "sanskrit": "ajamīḍhasya keśinyāṃ jajñe jahnuḥ pratāpavān /",
+    "english": "The valorous Jahnu was born to Ajamīḍha and Keśinī.",
+    "morphology": "ajamīḍhasya_ajamīḍha_SGM keśinyām_keśinī_SLF jajñe_jan_SPs3In jahnuḥ_jahnu_SNM pratāpavān_pratāpavat_SNM"
+  },
+  {
+    "index": 39522,
+    "sanskrit": "avidyā prakṛtiḥ jñeyā vidyā puruṣaḥ ucyate",
+    "english": "He that is not endued therewith is Purusha. Similarly, that which is called Avidya (the unknowable) is Prakriti;",
+    "morphology": "avidyā_avidyā_SNF prakṛtiḥ_prakṛti_SNF jñeyā_jñā_SNFGd vidyā_vidyā_SNF puruṣaḥ_puruṣa_SNM ucyate_vac_SPr3InPv"
+  },
+  {
+    "index": 39523,
+    "sanskrit": "śva ādayaḥ abhihitāḥ vyālāḥ ye atra daṃṣṭra viṣāḥ mayā",
+    "english": "The poison of a (rabid) dog, etc., lies in the teeth and tends to aggravate the Pitta and the Vayu and hence the patient bitten by such animals is found to imitate their cries and nature.",
+    "morphology": "śva_śvan_Cp ādayaḥ_ādi_PNM abhihitāḥ_abhidhā_PNPaPsM vyālāḥ_vyāla_PNM ye_yad_PNM atra_atra_U daṃṣṭra_daṃṣṭra_MCp viṣāḥ_viṣa_PNM mayā_mad_SI"
+  },
+  {
+    "index": 39524,
+    "sanskrit": "vaiḍūrya maṇi daṇḍam ca cāmīkara vibhūṣitam",
+    "english": "Hence the invention about the transformation of the mongoose.",
+    "morphology": "vaiḍūrya_vaiḍūrya_NeCp maṇi_maṇi_MCp daṇḍam_daṇḍa_SAM ca_ca_U cāmīkara_cāmīkara_MCp vibhūṣitam_vibhūṣay_SAPaPsM"
+  },
+  {
+    "index": 39525,
+    "sanskrit": "praharasva yathāśakti na manyuḥ vidyate mama",
+    "english": "Do thou strike me to the best of thy power.",
+    "morphology": "praharasva_prahṛ_SPr2Im yathāśakti_yathāśakti_U"
+  },
+  {
+    "index": 39526,
+    "sanskrit": "tathā kathayatām eva teṣām arjuna saṃkathāḥ upāyāt vacanāt martyaḥ vijayasya mahātmanaḥ",
+    "english": "While they were still engaged in discoursing on Arjuna, an envoy came from that high-souled hero bearing a message from him.",
+    "morphology": "tathā_tathā_U kathayatām_kathay_PGPaPrM eva_eva_U teṣām_tad_PGM arjuna_arjuna_MCp saṃkathāḥ_saṃkathā_PAF upāyāt_upayā_SPs3In vacanāt_vacana_SBNe martyaḥ_martya_SNM vijayasya_vijaya_SGM mahātmanaḥ_mahātman_SGM"
+  },
+  {
+    "index": 39527,
+    "sanskrit": "kravya adbhyaḥ iva bhūtānām adāntebhyaḥ sadā bhayam",
+    "english": "Like tigers and other carnivorous beasts, persons destitute of self-restraint always inspire all creatures with dread.",
+    "morphology": "kravya_kravya_NeCp adbhyaḥ_ap_PBF iva_iva_U bhūtānām_bhūta_PGNe adāntebhyaḥ_adānta_PBF"
+  }
+]

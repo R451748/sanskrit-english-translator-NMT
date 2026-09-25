@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1952,
+    "sanskrit": "vaiśampāyanaḥ uvāca rājā pāṇḍuḥ mahā araṇye mṛgavyāla niṣevite vane maithuna kāla stham dadarśa mṛga yūthapam",
+    "english": "O Vaisampayana, recite thou their achievements.' \"Vaisampayana said, 'O king, one day Pandu, while roaming about in the woods (on the southern slopes of the Himavat) that teemed with deer and wild animals of fierce disposition, saw a large deer, that seemed to be the leader of a herd, serving his mate.",
+    "morphology": "vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In rājā_rājan_SNM pāṇḍuḥ_pāṇḍu_SNM mahā_mahat_Cp araṇye_araṇya_SLNe mṛgavyāla_mṛgavyāla_MCp niṣevite_niṣev_SLPaPsNe vane_vana_SLNe maithuna_maithuna_NeCp kāla_kāla_MCp stha"
+  },
+  {
+    "index": 1953,
+    "sanskrit": "puṣpam pattram phalam nālam kandāḥ ca guravaḥ kramāt ||",
+    "english": "Of flowers, leaves, fruits, stems and bulbs, each succeeding one is heavier (of digestion) than the one immediately preceding it in the order of enumeration.",
+    "morphology": "puṣpam_puṣpa_SNNe pattram_pattra_SNNe phalam_phala_SNNe nālam_nāla_SNNe"
+  },
+  {
+    "index": 1954,
+    "sanskrit": "raivateśvaramityuktaṃ sarvapātaka nāśanam | darśanādeva sarveṣāṃ dehināṃ dvijasattamāḥ || 30 ||",
+    "english": "30. The deity is called Raivateśvara. It was simply through paying a visit to the Lord that it destroyed all the sins of all embodied beings, O excellent Brāhmaṇas.",
+    "morphology": "raivateśvaram_raivateśvara_SNNe iti_iti_ uktam_vac_SNPaNe sarva_sarva_Cp pātaka_pātaka_Cp nāśanam_nāśana_SNNe  / darśanāt_darśana_SBNe eva_eva_ sarvasmin_sarva_SLM dehinām_dehin_PGM dvijasattamāḥ_dvijasattama_PVM"
+  },
+  {
+    "index": 1955,
+    "sanskrit": "ādhānavikrayaapavyayaneṣu caasya caturguṇapañcabandho daṇḍaḥ //",
+    "english": "If the deposit is either mortgaged or sold or lost, the depositary shall not only restore four times its value, but pay a fine of five times the stipulated value pancbabandho dandah",
+    "morphology": "ādhāna_ādhāna_Cp vikraya_vikraya_Cp apa_apa_Cp vyayaneṣu_vyayana_PLNe ca_ca_ aḥ_idam_SGM caturguṇa_caturguṇa_Cp pañca_pañcan_Cp bandhaḥ_bandha_SNM daṇḍaḥ_daṇḍa_SNM  /"
+  },
+  {
+    "index": 1956,
+    "sanskrit": "sukhādi manasā buddhvā kapitthādi ca cakṣuṣā /",
+    "english": "We are immediately conscious of the feeling of pleasure, etc.",
+    "morphology": "sukha_sukha_Cp ādi_ādi_SANe manasā_manas_SINe buddhvā_budh_Co kapittha_kapittha_Cp ādi_ādi_SANe "
+  },
+  {
+    "index": 1957,
+    "sanskrit": "anāyatanā hi tasmād āhuḥ śithilaṃ vai madhyamam ahas trirātrasya vi hi tad avairyateti traiṣṭubham madhyamasyāhna ājyam bhavati saṃyānāni sūktāni śaṃsati ṣoḍaśinaṃ śaṃsati |",
+    "english": "Therefore they say, 'The midmost day of the three-day night is not fixed; for it was moved.' The Ajya (Çastra) of the midmost day is in the Tristubh metre. He recites the Samyana hymns, then recites the Sodaçin, that the day may be made firm and be not loose.",
+    "morphology": "anāyatanāḥ_anāyatana_PNM hi_hi_ tasmāt_tasmāt_ āhuḥ_ah_PPs3In śithilam_śithila_SNNe vai_vai_ madhyamam_madhyama_SNNe ahar_ahar_SNNe trirātrasya_trirātra_SGM vi_vi_ hi_hi_ tat_tad_SNNe traiṣṭubham_traiṣṭubha_SNNe madhyamasya_madhyama_S"
+  },
+  {
+    "index": 1958,
+    "sanskrit": "deśa prakṛti sātmya ṛtu viṣa vega bala abalam pradhārya nipuṇam buddhyā tatas karma samācaret",
+    "english": "But a wise physician should treat a case of snake-bite with a full regard to the nature of the country, season, temperament, as well as to the intensity and the particular stage of poisoning the case has reached.",
+    "morphology": "deśa_deśa_MCp prakṛti_prakṛti_FCp sātmya_sātmya_NeCp ṛtu_ṛtu_MCp viṣa_viṣa_NeCp vega_vega_MCp bala_bala_NeCp abalam_abala_SANe ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣāṇā_ṣ"
+  },
+  {
+    "index": 1959,
+    "sanskrit": "ahaṃ hi brahmaṇo vākyādviprāṇāṃ sthānakaṃ śubham | dātukāmo mahātīrthe mahīsāgarasaṃgame || 9 || parīkṣanbrāhmaṇānatra prāpto yūyaṃ parīkṣitāḥ | ahaṃ vaḥ sthāyiṣyāmi cānujānīta taddvijāḥ || 10 ||",
+    "english": "9-10. At the instance of god Brahmā, I wish to give a charitable gift, an auspicious holy spot, to the Brāhmaṇas in the great Tīrtha (named) Mahī-Sāgara-Saṅgama. I had been testing the Brāhmaṇas on my way to this place. You have been examined. I shall now settle you (in a colony), O Brāhmaṇas. Agree to it.”",
+    "morphology": "aham_mad_SN hi_hi_ brahmaṇaḥ_brahman_SGM vākyāt_vākya_SBNe viprāṇām_vipra_PGM sthānakam_sthānaka_SANe śubham_śubha_SANe  / dātu_dātu_Cp kāmaḥ_kāma_SNM mahā_mahat_Cp tīrthe_tīrtha_SLNe mahī_mahī_Cp sāgara_sāgara_Cp saṃgame_sa"
+  }
+]

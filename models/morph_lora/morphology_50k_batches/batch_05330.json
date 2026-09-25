@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42632,
+    "sanskrit": "anugrasati anantam hi mahātmā viśvam īśvaraḥ",
+    "english": "That Infinite and supreme Soul, that Lord of all, thus swallows up the Universe.",
+    "morphology": "anugrasati_anugras_SPr3In anantam_ananta_SANe hi_hi_U"
+  },
+  {
+    "index": 42633,
+    "sanskrit": "kākatālīyavaccittvācciti dṛśyaṃ prakāśate / svayameva svabhāvasthamāvartādi yathāmbudhau //",
+    "english": "It happens that the intellect comes to present, the adventitious appearance of the world to our minds; in the same manner, as the sea shows its whirls and waves to our sight, of its own nature.",
+    "morphology": "kākatālīya_kākatālīya_Cp vat_vat_ cit_cit_Cp tvāt_tva_SBNe citi_cit_SLF dṛśyam_dṛś_SNNeGd prakāśate_prakāś_SPr3In  / svayam_svayam_ eva_eva_ svabhāva_svabhāva_Cp stham_stha_SNNe āvarta_āvarta_Cp ādi_ādi_SNNe yathā_yathā_ ambudhau_a"
+  },
+  {
+    "index": 42634,
+    "sanskrit": "agnihotram na lupyeta tadā ānayata pāṇḍavāḥ brāhmaṇasya vacaḥ śrutvā saṃtaptaḥ atha yudhiṣṭhiraḥ",
+    "english": "Tracking that powerful deer, O king, by its foot-prints, do ye, ye sons of Pandu, bring back those articles of mine, so that my Agnihotra may not be stopped!' Hearing these words of the Brahmana, Yudhishthira became exceedingly concerned.",
+    "morphology": "agnihotram_agnihotra_SNNe na_na_U lupyeta_lup_SPr3OPv tadā_tadā_U ānayata_ānī_PPr2Im pāṇḍavāḥ_pāṇḍava_PVM brāhmaṇasya_brāhmaṇa_SGM vacaḥ_vacas_SANe śrutvā_śru_Co saṃtaptaḥ_saṃtap_SNPaPsM atha_atha_U yudhiṣṭhiraḥ_yud"
+  },
+  {
+    "index": 42635,
+    "sanskrit": "saṃchinna bhuja nāga indrām bahu ratna apahāriṇīm",
+    "english": "Arms lopped off from trunks formed its foremost of snakes. Innumerable jewels and gems were carried along by the current.",
+    "morphology": "saṃchinna_saṃchid_PaPsCp bhuja_bhuja_MCp nāga_nāga_MCp indrām_indra_SAF bahu_bahu_Cp ratna_ratna_MCp apahāriṇīm_apahārin_SAF"
+  },
+  {
+    "index": 42636,
+    "sanskrit": "bahirantaraparikalpanabhedamahābījanicayamarpayata | tasyātidīptasaṃvijjvalane yatnādvinā bhavati homa | | |",
+    "english": "He gets his ritual of offerings accomplished effortlessly by putting into the blazing fire of his pure consciousness the huge heap of seeds in the form of idea of diversity of internal and external objects.",
+    "morphology": "bahis_bahis_ antara_antara_Cp parikalpana_parikalpana_Cp bheda_bheda_Cp mahā_mahat_Cp bīja_bīja_Cp nicayam_nicaya_SAM arpayata_arpay_PPr2Im  / tasya_tad_SGM ati_ati_ dīpta_dīp_PaCp saṃvid_saṃvid_Cp jvalane_jvalana_SLM yatnāt_yatna_SBM vinā_vinā"
+  },
+  {
+    "index": 42637,
+    "sanskrit": "hatam bhīṣmam ādhirathiḥ viditvā bhinnām nāvam iva ati agādhe kurūṇām sodarya vat vyasanāt sūtaputraḥ",
+    "english": "When Bhishma, that refuge of Kauravas, was slain, could Karna, that foremost of bowmen, succeed in filling up the gap caused? Filling up that gap, could Karna fill the foe with fear? Could he also crown with fruit the hopes, entertained by my sons, of victory?'\" SECTION II \"Sanjaya said, 'Then Adhiratha's son of the Suta caste, knowing that Bhishma had been slain, became desirous of rescuing, like a brother, thy son's army from the distress into which it had fallen, and which then resembled a boat sunk in the fathomless ocean.",
+    "morphology": "hatam_han_SAPaPsM bhīṣmam_bhīṣma_SAM ādhirathiḥ_ādhirathi_SNM viditvā_vid_Co bhinnām_bhid_SAPaPsF nāvam_nau_SAF iva_iva_U ati_ati_U agādhe_agādha_SLNe kurūṇām_kuru_PGM sodarya_sodarya_MCp vat_vat_U vyasanāt_vyasana_SBNe sūtaputraḥ_s"
+  },
+  {
+    "index": 42638,
+    "sanskrit": "yaḥ aham saḥ aham iti hi uktvā guṇān anu nivartate",
+    "english": "Regarding himself as this or that, he follows the attributes of Sattwa, Rajas, and Tamas.",
+    "morphology": "yaḥ_yad_SNM aham_mad_SN saḥ_tad_SNM aham_mad_SN iti_iti_U hi_hi_U uktvā_vac_Co"
+  },
+  {
+    "index": 42639,
+    "sanskrit": "kuhurasya suto dhṛṣṇudhṛṣṇostu tanayo dhṛtiḥ /",
+    "english": "Dhṛṣṇu was the son of Kuhura. Dhṛti was the son of Dhṛṣṇu.",
+    "morphology": "kuhurasya_kuhura_SGM sutaḥ_suta_SNM dhṛṣṇu_dhṛṣṇu_Cp dhṛṣṇoḥ_dhṛṣṇu_SGM tu_tu_ tanayaḥ_tanaya_SNM dhṛtiḥ_dhṛti_SNM  /"
+  }
+]

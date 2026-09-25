@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13352,
+    "sanskrit": "taiḥ paścimā vyākhyātāḥ //",
+    "english": "like divisions in the reverse order in the afternoon",
+    "morphology": "taiḥ_tad_PIM"
+  },
+  {
+    "index": 13353,
+    "sanskrit": "utsādanam tathā snānam vanitāḥ kānanāni ca",
+    "english": "Utsadana (massage) and bath should be had, and groves should be resorted to.",
+    "morphology": "utsādanam_utsādana_SNNe"
+  },
+  {
+    "index": 13354,
+    "sanskrit": "brahmacārī jitakrodho jitalobho vimatsaraḥ | abdamitthaṃ sadābhyāsātsa yogīti nigadyate || 35 ||",
+    "english": "135. He should practise celibacy; subdue anger and covetousness. He should be free from jealousy. If he practises continuously thus for a year, he is called a Yogī.",
+    "morphology": "brahmacārī_brahmacārin_SNM jita_ji_PaCp krodhaḥ_krodha_SNM jita_ji_PaCp lobhaḥ_lobha_SNM vimatsaraḥ_vimatsara_SNM  / abdam_abda_SAM ittham_ittham_ sadā_sadā_ abhyāsāt_abhyāsa_SBM sa_tad_SNM yogī_yogin_SNM iti_iti_ nigadyate_nigad_SPr3InPv"
+  },
+  {
+    "index": 13355,
+    "sanskrit": "ukta vākye tu nṛpatau sulabhā cāru darśanā tatas cārutaram vākyam pracakrāma atha bhāṣitum",
+    "english": "After the king had said these words, the beautiful Sulabha then addressed herself for saying the following words in reply that were more handsome than her person.",
+    "morphology": "ukta_vac_PaPsCp vākye_vākya_SLM tu_tu_U nṛpatau_nṛpati_SLM sulabhā_sulabha_SNF cāru_cāru_Cp darśanā_darśana_SNF tatas_tatas_U cārutaram_cārutara_SANe vākyam_vākya_SANe pracchāṇāḥ_pracch_PNPaPsM"
+  },
+  {
+    "index": 13356,
+    "sanskrit": "ity ākarṇyābravīdrājā dāsyāmyanviṣya tattava / dhanaṃ svakoṣādathavā mā tyākṣīrjīvitaṃ dvija // ity uktvā maraṇodyogānnivārya vinidhāya ca / dvijaṃ taṃ vaṇijo haste sa rājābhyantaraṃ gataḥ //",
+    "english": "Do not commit suicide, Brāhman.” After saying this, and so diverting the Brāhman from his intention of committing suicide, the king entrusted him to the care of the merchant, and retired to his palace.",
+    "morphology": "iti_iti_ ākarṇya_ākarṇay_Co abravīt_brū_S3ImIn rājā_rājan_SNM dāsyāmi_dā_SFu1In anviṣya_anviṣ_Co tat_tad_SANe tava_tvad_SG  / dhanam_dhana_SANe sva_sva_Cp koṣāt_kośa_SBM athavā_athavā_ mā_mā_ tyākṣīḥ_tyaj_SPs2 jīvitam_jīvi"
+  },
+  {
+    "index": 13357,
+    "sanskrit": "vayam āsma yathā samyak bhavataḥ viditam tathā",
+    "english": "It is known to thee how we lived (under that ruler).",
+    "morphology": "vay_mad_PN āsma_as_PPs1In"
+  },
+  {
+    "index": 13358,
+    "sanskrit": "prāṇā amī meśarabha tvadīyāḥ prāgeva yatrāsti mama prabhutvam /",
+    "english": "This life of mine is at thy disposal, śarabha.",
+    "morphology": "prāṇāḥ_prāṇa_PNM amī_adas_PNM meśarabha_meśarabha_SVM tvadīyāḥ_tvadīya_PNM prāk_prāk_ eva_eva_ yatra_yatra_ asti_as_SPr3In mama_mad_SG prabhu_prabhu_Cp tvam_tva_SNNe"
+  },
+  {
+    "index": 13359,
+    "sanskrit": "mahāyuddhaṃ tayorāsīnmuhūrttammunisattamāḥ | vikarālaṃ ca bhayadaṃ sarveṣāṃ romaharṣaṇam ||",
+    "english": "20. O excellent sages, a great fight ensued between them for some time. It was terrifying, frightening and caused horripilation to every one.",
+    "morphology": "mahā_mahat_Cp yuddham_yuddha_SNNe tayoḥ_tad_DuGM āsīt_as_S3ImIn muhūrtam_muhūrta_SANe muni_muni_Cp sattamāḥ_sattama_PVM  / vikarālam_vikarāla_SNNe ca_ca_ bhaya_bhaya_Cp daḥ_da_SNM sarveṣām_sarva_PGM romaharṣaṇaḥ_romaharṣaṇa_SNM"
+  }
+]

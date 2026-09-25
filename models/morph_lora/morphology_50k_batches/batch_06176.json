@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49400,
+    "sanskrit": "kāni tīrthāni mukhyāni hyarbude saṃti parvate | sarvaṃ vistarato brūhi paraṃ kautūhalaṃ hi naḥ || 9 ||",
+    "english": "8-9. What are the dimensions of this Arbuda mountain? Where is it situated? How could it get the fame by the greatness of Vasiṣṭha? Which are the main places of pilgrimage on this Arbuda? Please explain in details. We have a great curiosity to know.",
+    "morphology": "kāni_ka_PNNe tīrthāni_tīrtha_PNNe mukhyāni_mukhya_PNNe hi_hi_ arbude_arbuda_SLM saṃti_as_PPr3In parvate_parvata_SLM  / sarvam_sarva_SANe vistarataḥ_vistara_SBM brūhi_brū_SPr2Im param_para_SNNe kautūhalam_kautūhala_SNNe hi_hi_ naḥ_mad_PG  /"
+  },
+  {
+    "index": 49401,
+    "sanskrit": "sa mahā yoginaḥ buddhvā tam roṣam vai mahātmanaḥ",
+    "english": "Indeed, having ascertained the fact of the wrath of the high-souled Maheswara of superior Yoga-power, the puissant Usanas began to reflect as to whether he should go to Maheswara or fly away or remain where he was.",
+    "morphology": "sa_tad_SNM mahā_mahat_Cp yoginaḥ_yogin_SGM buddhvā_budh_Co"
+  },
+  {
+    "index": 49402,
+    "sanskrit": "sairandhranāmānaṃ sūte utpādayati /",
+    "english": "\"Sairandhra\" by name. \"Begets\" produces.",
+    "morphology": "sairandhra_sairandhra_Cp nāmānam_nāman_SAM sūte_sū_SPr3In utpādayati_utpāday_SPr3In  /"
+  },
+  {
+    "index": 49403,
+    "sanskrit": "rājovāca | tathāpi yūyaṃ sahitā upāyaṃ cintayantviti | yena śreyo bhavennityamiha loke paratra ca || 29 ||",
+    "english": "Yet, all of you join together and think about the means of remedy whereby there will be all-round welfare always in this world as well as hereafter.",
+    "morphology": "rājā_rājan_SNM uvāca_vac_SPs3In  / tathā_tathā_ api_api_ yūyam_tvad_PN sahitāḥ_sahita_PNM upāyam_upāya_SAM cintayantu_cintay_PPr3Im iti_iti_  / yena_yad_SIM śreyaḥ_śreyas_SNNe bhavet_bhū_SPr3O nityam_nityam_ iha_iha_ loke_loka_SLM paratra_"
+  },
+  {
+    "index": 49404,
+    "sanskrit": "yat agre ca anubandhe ca sukham mohanam ātmanaḥ nidrā ālasya pramāda uttham tat tāmasam udāhṛtam",
+    "english": "That happiness which in the beginning and its consequences deludeth the soul, and springeth from sleep, indolence, and stupidity, that is described to be of the quality of darkness.",
+    "morphology": "yat_yad_SNNe agre_agra_SLNe ca_ca_U anubandhe_anubandha_SLM ca_ca_U sukham_sukha_SNNe mohanam_mohana_SNNe ātmanaḥ_ātman_SGM nidrā_nidrā_FCp ālasya_ālasya_NeCp pramāda_pramāda_MCp uttham_uttha_SNNe tat_tad_SNNe tāmasam_tāmasa_SNNe udāhṛtam_ud"
+  },
+  {
+    "index": 49405,
+    "sanskrit": "vinā na karmāsti gatiprabandhaḥ śubhaṃ na cāniṣṭavipākamasti /",
+    "english": "Without karma the series of existences cannot be; it is also an impossibility that good actions should have evil as their result.",
+    "morphology": "vinā_vinā_ na_na_ karma_karman_SANe asti_as_SPr3In gati_gati_Cp prabandhaḥ_prabandha_SNM śubham_śubha_SANe na_na_ ca_ca_ aniṣṭa_aniṣṭa_Cp vipākam_vipāka_SNNe asti_as_SPr3In  /"
+  },
+  {
+    "index": 49406,
+    "sanskrit": "yathopadarśitāntyapadajñānam eva ca vākyārthajñānam iti na tasya caritārthatvam anyatra ity evaṃ vākyād eva vākyārthapratyayaḥ setsyati na padarthebhya iti //",
+    "english": "Then, the relation of denotation holding between the second word and its meaning is recalled in our memory. The consciousness of the second word is on the eve of destruction at that time.",
+    "morphology": "yathā_yathā_ upadarśita_upadarśay_PaCp antya_antya_Cp pada_pada_Cp jñānam_jñāna_SNNe eva_eva_ ca_ca_ vākya_vākya_Cp artha_artha_Cp jñānam_jñāna_SNNe iti_iti_ na_na_ tasya_tad_SGM caritārtha_caritārtha_Cp tvam_tva_SNNe anyatra_anyatra_ iti_i"
+  },
+  {
+    "index": 49407,
+    "sanskrit": "nandīśvara uvāca | niyojya tāmiti tadā brahmahatyāṃ ca tāmprabhuḥ | mahādbhutaśca sa śivo'pyantardhānamagāttataḥ ||",
+    "english": "66. Thus directing the Brahmahatyā, the wonderful lord Śiva, vanished from the scene.",
+    "morphology": "nandīśvaraḥ_nandīśvara_SNM uvāca_vac_SPs3In  / niyojya_niyojay_Co tām_tad_SAF iti_iti_ tadā_tadā_ brahmahatyām_brahmahatyā_SAF ca_ca_ tām_tad_SAF prabhuḥ_prabhu_SNM  / mahā_mahat_Cp adbhutaḥ_adbhuta_SNM ca_ca_ sa_tad_SNM śivaḥ_śiva_SN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18512,
+    "sanskrit": "nāgādayo 'tha bhāvādidaśasthānāni karma ca / sūtakaṃ daṣṭaceṣṭeti saptalakṣaṇamucyate //",
+    "english": "The different species of serpents , their nature, the ten places in the body at which a bite would be fatal, the remedial action, the resultant impurity and the behaviour of the person bitten by the serpent are said to be the seven characteristics.",
+    "morphology": "nāga_nāga_Cp ādayaḥ_ādi_PNM atha_atha_ bhāva_bhāva_Cp ādi_ādi_Cp daśa_daśan_Cp sthānāni_sthāna_PNNe karma_karman_SNNe ca_ca_  / sūtakam_sūtaka_SNNe daṣṭa_daṣṭa_Cp ceṣṭā_ceṣṭā_SNF iti_iti_ sapta_saptan_Cp lakṣaṇam_lak"
+  },
+  {
+    "index": 18513,
+    "sanskrit": "buddhyākāraś ca buddhistho nārthabuddhyantarānugaḥ /",
+    "english": "As regards the ‘form of cognition’, it rests in the cognition itself, and does not follow either the object or another cognition;",
+    "morphology": "buddhi_buddhi_Cp ākāraḥ_ākāra_SNM ca_ca_ buddhi_buddhi_Cp sthaḥ_stha_SNM na_na_ artha_artha_Cp buddhi_buddhi_Cp antara_antara_Cp anugaḥ_anuga_SNM  /"
+  },
+  {
+    "index": 18514,
+    "sanskrit": "stutvā tv evaṃ prasannena manasā pṛthivī tadā / uvāca saṃmukhaṃ devīṃ labdhakāmā vasuṃdharā //",
+    "english": "The goddess of the earth, after her desire had been gratified, and after she had thus praised(Vishnu) with a cheerful mind I addressed herself to the goddess (Lakshmî).",
+    "morphology": "stutvā_stu_Co tu_tu_ evam_evam_ prasannena_prasad_SIPaNe manasā_manas_SINe pṛthivī_pṛthivī_SNF tadā_tadā_  / uvāca_vac_SPs3In saṃmukham_sammukha_SANe devīm_devī_SAF labdha_labh_PaCp kāmā_kāma_SNF vasuṃdharā_vasuṃdharā_SNF  /"
+  },
+  {
+    "index": 18515,
+    "sanskrit": "tvam nṛbhiḥ nṛmaṇaḥ deva vītau bhūrīṇi vṛtrā haryaśva haṃsi / tvam ni dasyum cumurim dhunim cāsvāpayaḥ dabhītaye su hantu /",
+    "english": "At the Gods' banquet, Hero-souled! with heroes, Lord of Bay Steeds, thou slewest many Vritras. Thou sentest in swift death to sleep the Dasyu, both Chumuri and Dhuni, for Dabhiti,",
+    "morphology": "tvam_tvad_SN nṛbhiḥ_nṛ_PIM nṛmaṇaḥ_nṛmaṇas_SVM deva_deva_MCp vītau_vīti_SLF bhūrīṇi_bhūri_PANe vṛtrā_vṛtra_PANe haryaśva_haryaśva_SVM haṃsi_han_SPr2In  / tvam_tvad_SN ni_ni_U dasyum_dasyu_SAM cumurim_cumuri_SAM dhunim_dhuni_"
+  },
+  {
+    "index": 18516,
+    "sanskrit": "atha sā jananī tasyā vāṣpa paryākulekṣaṇā | sasvaje tāṃ tathā cānyāḥ sakhyaḥ snigdhena cetasā || 45 ||",
+    "english": "45. With her eyes turned turbid, her mother embraced her. Her companions too with affectionate mind closely clasped her.",
+    "morphology": "atha_atha_ sā_tad_SNF jananī_jananī_SNF tasyāḥ_tad_SGF paryākula_paryākula_Cp īkṣaṇā_īkṣaṇa_SNF  / sasvaje_svaj_SPs3In tām_tad_SAF tathā_tathā_ ca_ca_ anyāḥ_anya_PNF sakhyaḥ_sakhī_PNF snigdhena_snigdha_SINe cetasā_cetas_SINe "
+  },
+  {
+    "index": 18517,
+    "sanskrit": "bālave kaulave nāge taitile karaṇe yadi / uttiṣṭhan saṅkramatyarkrastadā lokaḥ sukhī bhavet //",
+    "english": "If the Sun passes from one sign to the other in the karaṇas divisions of a day bālava, kaulava and taitila, then the people would be happy.",
+    "morphology": "bālave_bālava_SLNe kaulave_kaulava_SLNe nāge_nāga_SLNe taitile_taitila_SLNe karaṇe_karaṇa_SLNe yadi_yadi_  / uttiṣṭhan_utthā_SNPaPrM saṅkramati_saṃkram_SPr3In arkraḥ_arkra_SNM tadā_tadā_ lokaḥ_loka_SNM sukhī_sukhin_SNM bhavet_bhū_S"
+  },
+  {
+    "index": 18518,
+    "sanskrit": "gautamaḥ saṃnikarṣeṇa dasyubhiḥ sama tām iyāt",
+    "english": "In consequence of his intimacy with robbers he became like one of them.",
+    "morphology": "gautamaḥ_gautama_SNM saṃnikarṣeṇa_saṃnikarṣa_SIM dasyubhiḥ_dasyu_PIM sama_sama_Cp tām_tā_SAF"
+  },
+  {
+    "index": 18519,
+    "sanskrit": "tat ājñāpaya vipra ṛṣe brūhi kim karavāṇi te",
+    "english": "Do thou then, O regenerate Rishi, set thy commands on me.",
+    "morphology": "tat_tad_SANe ājñāpaya_ājñāpay_SPr2Im vipra_vipra_MCp ṛṣe_ṛṣi_SVM brūhi_brū_SPr2Im"
+  }
+]

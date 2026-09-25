@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45360,
+    "sanskrit": "te ca sarve tathā śrutvā śaṃkarāya nyavedayan | natvā prāṃjalayo dīnāḥ śakraprabhṛtayassurāḥ ||",
+    "english": "45. On hearing that, Indra and other gods joined their palms in reverence and piteously intimated to Śiva what had transpired there.",
+    "morphology": "te_tad_PNM ca_ca_ sarve_sarva_PNM tathā_tathā_ śrutvā_śru_Co śaṃkarāya_śaṃkara_SDM nyavedayan_niveday_P3ImIn  / natvā_nam_Co prāṃjalayaḥ_prāñjali_PNM dīnāḥ_dīna_PNM śakra_śakra_Cp prabhṛtayaḥ_prabhṛti_PNM surāḥ_sura_PNM"
+  },
+  {
+    "index": 45361,
+    "sanskrit": "niścitaṃ maṭhikāsthānaṃ yācitavyo balistvayā | tadāsmākaṃ mahacchreyo deśasya nagarasya ca || 212 ||",
+    "english": "212. You should certainly implore Bali in the cell of the demons. Then the great good of the country and the city (will follow).",
+    "morphology": "niścitam_niścitam_ maṭhikā_maṭhikā_Cp sthānam_sthāna_SANe yācitavyaḥ_yāc_SNMGd baliḥ_bali_SNM tvayā_tvad_SI  / tadā_tadā_ asmākam_mad_PG mahat_mahat_SNNe śreyaḥ_śreyas_SNNe deśasya_deśa_SGM nagarasya_nagara_SGNe ca_ca_"
+  },
+  {
+    "index": 45362,
+    "sanskrit": "tridhātvāptāmalau ca tau / tadvipakṣāviti vartate /",
+    "english": "They are of the three spheres or pure.",
+    "morphology": "tri_tri_Cp dhātu_dhātu_Cp āpta_āp_PaCp amalau_amala_DuNM ca_ca_ tau_tad_DuNM  / tad_tad_Cp vipakṣau_vipakṣa_DuNM"
+  },
+  {
+    "index": 45363,
+    "sanskrit": "camatkārapure pūrvamāsītkaścitsuśalyavit | rajakaḥ śuddhakonāma putrapautrasamanvitaḥ || 2 || sa sarvarajakānāṃ ca prādhānyena vyavasthitaḥ | pradhānabrāhmaṇānāṃ ca karotyaṃbaraśodhanam || 3 ||",
+    "english": "Formerly, there was a washerman named Śuddhaka in Camatkārapura. He was an expert in the use of darts. He was accompanied by his sons and grandsons. He was chief of all washermen. He used to wash the garments of important Brāhmaṇas.",
+    "morphology": "camatkāra_camatkāra_Cp pure_pura_SLNe pūrvam_pūrvam_ āsīt_as_S3ImIn kaścid_kaścit_SNM suśalya_suśalya_Cp vid_vid_SNM  / rajakaḥ_rajaka_SNM śuddhakaḥ_śuddhaka_SNM nāma_nāma_ putra_putra_Cp pautra_pautra_Cp samanvitaḥ_samanvita_SNM  / sa_"
+  },
+  {
+    "index": 45364,
+    "sanskrit": "na amitraḥ vinikartavyaḥ na ati chedyaḥ katham cana",
+    "english": "An enemy should not be deceived by unfair means, nor should be wounded mortally.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 45365,
+    "sanskrit": "cāraṇair atra murajeṣvāhateṣu mahotsave / nago 'py avādayadiva pratiśabdavatīrguhāḥ //",
+    "english": "and when cymbals were struck by minstrels at that great festival, the mountain seemed to send forth responsive strains from its echoing caves;",
+    "morphology": "cāraṇaiḥ_cāraṇa_PIM atra_atra_ murajeṣu_muraja_PLM āhateṣu_āhan_PLPaM mahā_mahat_Cp utsave_utsava_SLM  / nagaḥ_naga_SNM api_api_ avādayat_vāday_S3ImIn iva_iva_ pratiśabdavatīḥ_pratiḥḥ_ḥḥ_"
+  },
+  {
+    "index": 45366,
+    "sanskrit": "bhāvivārivilāsātmā tadbījaṃ rasaśākhinaḥ / anyonyasvadane tasmātsaṃsāraḥ prasariṣyati //",
+    "english": "The desire of the soul for different flavours (rasas), is the seed of the tree of taste, and it is by the relish of a variety of tastes, that the world is to go on in its course.",
+    "morphology": "bhāvi_bhāvin_Cp vāri_vāri_Cp vilāsa_vilāsa_Cp ātmā_ātman_SNM tat_tad_SNNe bījam_bīja_SNNe rasa_rasa_Cp śākhinaḥ_śākhin_PNM  / anyonya_anyonya_Cp svadane_svadana_SLNe tasmāt_tasmāt_"
+  },
+  {
+    "index": 45367,
+    "sanskrit": "ekasmin hi vācake siddhe tat sādṛśyāditaras tathaiveti kalpyeta tac ca na sambhavati, sarveṣām eva śabdānām arthasambandhitvena pratītatvāt /",
+    "english": "When one Word has been admitted to be expressive, others could be assumed to be expressive on the ground of their similarity to that Word; but this is not possible; because all Words are equally recognised as not connected with a meaning.",
+    "morphology": "ekasmin_eka_SLM hi_hi_ vācake_vācaka_SLM siddhe_sidh_SLPaM tat_tad_SNNe sādṛśyāt_sādṛśya_SBNe itaraḥ_itara_SNM tathā_tathā_ eva_eva_ iti_iti_ kalpyeta_kalpay_SPr3OPv tat_tad_SNNe ca_ca_ na_na_ sambhavati_sambhū_SPr3In sarveṣām_sarva_PGM "
+  }
+]

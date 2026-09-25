@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29096,
+    "sanskrit": "atas sa tatpūrvaka iṣyate //",
+    "english": "This is the account of the above logicians.",
+    "morphology": "atas_atas_U __tad_U __tad_U __pūrva_U __"
+  },
+  {
+    "index": 29097,
+    "sanskrit": "uttānabarhiṣe purvāṃ bhūriṣeṇāya dakṣiṇāmpaścimām ca diśam sarvāṃ ānartāya dadau nṛpaḥ",
+    "english": "To Uttānabarhi King Śaryāti gave the eastern part of his kingdom, to Bhūriṣeṇa he gave the southern part, and to Anarta he gave the western part.",
+    "morphology": "uttānabarhiṣe_uttānabarhis_SDM purvām_purva_SAF bhūriṣeṇāya_bhūriṣeṇa_SDM dakṣiṇām_dakṣiṇa_SAF paścimām_paścima_SAF ca_ca_U diśam_diś_SAF sarvām_sarva_SAF ānartāya_ānarta_SDM dadau_dā_SPs3In nṛpaḥ_nṛpa_SNM"
+  },
+  {
+    "index": 29098,
+    "sanskrit": "brahmovāca | devarṣe śrūyatāṃ samyakkathayāmi kathāṃ mudā | tāṃ mahāpāpasaṃhartrīṃ śivabhaktivivarddhinīm ||",
+    "english": "2. O celestial sage, let this be listened to. I shall resume the story joyfully, the story that quells all sins and increases devotion to Śiva.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / deva_deva_Cp ṛṣe_ṛṣi_SVM śrūyatām_śru_SPr3ImPv samyak_samyak_ kathayāmi_kathay_SPr1In kathām_kathā_SAF mudā_mud_SIF  / tām_tad_SAF mahā_mahat_Cp pāpa_pāpa_Cp saṃhartrīm_saṃhartṛ_SAF śiva_"
+  },
+  {
+    "index": 29099,
+    "sanskrit": "dāhaśokādimuktena vapuṣā mānasena tat / tatra gacchantya bubudhe vahanaṃ pūrvavāsitam //",
+    "english": "Having passed that region of fire, without being burnt or hurt in his spiritual body; he was led by his mind to another region, where he thought and felt himself to be borne aloft by the winds to his former habitation.",
+    "morphology": "dāha_dāha_Cp śoka_śoka_Cp ādi_ādi_Cp muktena_muc_SIPaNe vapuṣā_vapus_SINe mānasena_mānasa_SINe tat_tad_SANe  / tatra_tatra_ bubudhe_budh_SPs3In vahanam_vahana_SANe pūrva_pūrva_Cp vāsitam_vāsay_SAPaNe  /"
+  },
+  {
+    "index": 29100,
+    "sanskrit": "maunāt dhyānāt ca yogāt ca viddhi bhārata mādhavam",
+    "english": "He is called Madava, O Bharata, because of his practising as a Muni, concentration of mind on truth and Yoga-absorption.",
+    "morphology": "maunāt_mauna_SBNe"
+  },
+  {
+    "index": 29101,
+    "sanskrit": "evaṃ jñātvā suraśreṣṭha kuru yatte surocate | atikrāmati kālo'yaṃ yajñayānasamudravaḥ | tiṣṭhate ca gṛhavyagrā sāpi strī śithilātmikā || 52 ||",
+    "english": "52. Know this, O most excellent one among Suras, and do what pleases you the most. It is rather getting very late for the procedure of the Yajña rite. That woman in her dilatoriness is busy with her domestic chores.”",
+    "morphology": "evam_evam_ jñātvā_jñā_Co suraśreṣṭha_suraśreṣṭha_SVM kuru_kṛ_SPr2Im yat_yad_SNNe te_tvad_SD su_su_ rocate_ruc_SPr3In  / atikrāmati_atikram_SPr3In kālaḥ_kāla_SNM ayam_idam_SNM yajña_yajña_Cp yāna_yāna_Cp samudravaḥ_samudrava_SNM "
+  },
+  {
+    "index": 29102,
+    "sanskrit": "dviṣaṭkabhāge ṣaṭtriṃśatpadaṃ padmantu vīthikā //",
+    "english": "In the figure having twelve compartments a lotus figure with thirtysix petals is drawn.",
+    "morphology": "dvi_dvi_Cp ṣaṭka_ṣaṭka_Cp bhāge_bhāga_SLM ṣaṭtriṃśat_ṣaṭtriṃśat_Cp padam_pada_SNNe padma_padma_SNNe tu_tu_ vīthikā_vīthikā_SNF  /"
+  },
+  {
+    "index": 29103,
+    "sanskrit": "tena manyāmahe na niścitaṃ tatpramāṇyaṃ saṃśayādeva vyavaharama iti //",
+    "english": "Thus, the possibility of the opposite predicate is due to the defect in the cause.) The Mimãmsakas put forward such an example as is found in the Vedic literature.",
+    "morphology": "tena_tena_ manyāmahe_man_PPr1In na_na_ niścitam_niści_SNPaNe tat_tad_SNNe pramāṇyam_pramāṇya_SNNe saṃśayāt_saṃśaya_SBM eva_eva_ vyavaharamaḥ_vyavahṛ_PPr1In iti_iti_"
+  }
+]

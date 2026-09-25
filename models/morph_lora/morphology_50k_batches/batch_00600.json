@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4792,
+    "sanskrit": "saṅkhyāpi sāmāyikyeva, na vāstavī /",
+    "english": "Number also is purely conventional, not real.",
+    "morphology": "saṅkhyā_saṃkhyā_SNF api_api_ sāmāyikī_sāmāyika_SNF eva_eva_ na_na_ vāstavī_vāstava_SNF  /"
+  },
+  {
+    "index": 4793,
+    "sanskrit": "tasya kruddhaḥ sa nāga indraḥ bṛhataḥ sādhu vāhinaḥ padā yugam adhiṣṭhāya jaghāna caturaḥ hayān",
+    "english": "That prince of elephants, in great wrath, placing his leg upon the yoke of (Salya's) car, killed his four large steeds of excellent speed.",
+    "morphology": "tasya_tad_SGM kruddhaḥ_krudh_SNPaPsM sa_tad_SNM nāga_nāga_MCp indraḥ_indra_SNM bṛhataḥ_bṛhat_SGM sādhu_sādhu_Cp vāhinaḥ_vāhin_SGM padā_pad_SIM yugam_yuga_SANe adhiṣṭhāya_adhiṣṭhā_Co jaghāna_han_SPs3In caturaḥ_catur_PAM hayā"
+  },
+  {
+    "index": 4794,
+    "sanskrit": "ni akrandayan upa yantaḥ enam amehayan vr̥ṣabham madhye ājeḥ tena sūbharvam śata vat sahasram gavām mudgalaḥ pra dhane jigāya",
+    "english": "They came anear the bull; they made him thunder, made him pour rain down ere the fight was ended. And Mudgala thereby won in the contest well-pastured kine in hundreds and in thousands.",
+    "morphology": "ni_ni_U akrandayan_kranday_PPs3In upa_upa_U yantaḥ_i_PNPaPrM enam_enad_SAM amehayan_mehay_PPs3In vr̥ṣabham_vr̥ṣabha_SAM madhye_madhya_SLNe ājeḥ_āji_SGM tena_tad_SIM sūbharvam_sūbharva_SAM śata_śata_NeCp vat_vat_U sahasram_sahasra_SANe gavā"
+  },
+  {
+    "index": 4795,
+    "sanskrit": "pippalasya śarvapiturvilasantaṃ sutaṃ ca tam | saṃskṛtya vidhivatsarve viṣṇvādyāstuṣṭuvuḥ punaḥ ||",
+    "english": "60. After consecrating the refulgent child and the fig tree who became the father of Rudra, Viṣṇu and other gods eulogised him again.",
+    "morphology": "pippalasya_pippala_SGM śarva_śarva_Cp pituḥ_pitṛ_SGM vilasantam_vilas_SAPaPrM sutam_suta_SAM ca_ca_ tam_tad_SAM  / saṃskṛtya_saṃskṛ_Co vidhivat_vidhivat_ sarve_sarva_PNM viṣṇu_viṣṇu_Cp ādyāḥ_ādya_PNM tuṣṭuvuḥ_stu_PPs3In pun"
+  },
+  {
+    "index": 4796,
+    "sanskrit": "ānupūrvyāt dvayoḥ hīnau mātṛ jātyau prasūyataḥ",
+    "english": "Those sons, however, that are begotten by him on the two spouses that belong to the next two orders (viz., Vaisya and Sudra), are inferior, their status being determined not by that of their father but by that of their mothers.",
+    "morphology": "ānupūrvyāt_ānupūrvya_SBNe dvayoḥ_dvi_DuGM"
+  },
+  {
+    "index": 4797,
+    "sanskrit": "mahātmānaḥ tu mām pārtha daivīm prakṛtim āśritāḥ bhajanti an anya manasaḥ jñātvā bhūta ādim avyayam satatam kīrtayantaḥ mām yatantaḥ ca dṛḍha vratāḥ",
+    "english": "But high-souled ones, O son of Pritha, possessed of divine nature, and with minds directed to nothing else, worship me, knowing (me) to be the origin of all entities and undestructible.",
+    "morphology": "mahātmānaḥ_mahātman_PNM tu_tu_U mām_mad_SA pārtha_pārtha_SVM daivīm_daiva_SAF prakṛtim_prakṛti_SAF āśritāḥ_āśri_PNPaPsM bhajanti_bhaj_PPr3In an_an_U anya_anya_Cp manasaḥ_manas_PNM jñātvā_jñā_Co bhūta_bhūta_NeCp ādim_ādi_SAM a"
+  },
+  {
+    "index": 4798,
+    "sanskrit": "yaḥ tu sarvam idam hanyāt brāhmaṇam ca na tad samam",
+    "english": "One slaying all other living creatures in the world does not incur a sin so heinous as that of slaying a single Brahmana.",
+    "morphology": "yaḥ_yad_SNM tu_tu_U sarvam_sarva_SANe idam_idam_SANe hanyāt_han_SPr3O"
+  },
+  {
+    "index": 4799,
+    "sanskrit": "na jalaṃ tu tvayā dattaṃ sādhavo vā na sevitāḥ | tena te durgatiśceyaṃ prāptā cekṣvākunandana || 37 ||",
+    "english": "37. Water was not offered nor good men were served by you. Therefore, you attained this miserable plight, O scion of the family of Ikṣvākus.",
+    "morphology": "na_na_ jalam_jala_SNNe tu_tu_ tvayā_tvad_SI dattam_dā_SNPaNe sādhavaḥ_sādhu_PNM vā_vā_ na_na_ sevitāḥ_sev_PNPaM  / tena_tena_ te_tvad_SG durgatiḥ_durgati_SNF ca_ca_ iyam_idam_SNF prāptā_prāp_SNPaF ca_ca_ ikṣvāku_ikṣvāku_Cp nandana_nan"
+  }
+]

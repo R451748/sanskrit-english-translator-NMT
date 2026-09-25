@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49736,
+    "sanskrit": "yāvatā nirvyāpāramevedaṃ viśvaṃ na hi paramārthataḥ kaścit kartā karma vāstyanyatra dharmasaṅketād iti samudāyārthaḥ /",
+    "english": "As a matter of fact, however, the whole of this universe is entirely devoid of activity, there is, in reality, no ‘active agent’ or ‘objective’ at all, apart from ‘Convention Such is the sense of the whole answer.",
+    "morphology": "yāvatā_yāvat_SINe nirvyāpāram_nirvyāpāra_SNNe eva_eva_ idam_idam_SNNe viśvam_viśva_SNNe na_na_ hi_hi_ paramārthataḥ_paramārtha_SBM kaścid_kaścit_SNM kartā_kartṛ_SNM karma_karman_SNNe vā_vā_ asti_as_SPr3In anyatra_anyatra_ dharma_dharma_"
+  },
+  {
+    "index": 49737,
+    "sanskrit": "tasmādadhyātmādhidaivatayorekatvameva /",
+    "english": "Hence the Bodily and the Divine Persons must be one and the same",
+    "morphology": "tasmāt_tasmāt_ adhyātma_adhyātma_Cp adhidaivatayoḥ_adhidaivata_DuGNe eka_eka_Cp tvam_tva_SNNe eva_eva_"
+  },
+  {
+    "index": 49738,
+    "sanskrit": "tathā ca śrutiḥ 'nāyamātmā pravacanena labhyo na medhayā na bahunā śrutena' kaṭhopaniṣadi iti /",
+    "english": "And the śruti has it thus: ‘This Self cannot be attained by instruction, nor by intellectual power, nor even through much hearing' .",
+    "morphology": "tathā_tathā_ ca_ca_ śrutiḥ_śruti_SNF an_na_ ayam_idam_SNM ātmā_ātman_SNM pravacanena_pravacana_SINe labhyaḥ_labh_SNMGd na_na_ medhayā_medhā_SIF na_na_ bahunā_bahu_SINe śrutena_śruta_SINe kaṭha_kaṭha_Cp upaniṣadi_upaniṣad_SLF iti_iti"
+  },
+  {
+    "index": 49739,
+    "sanskrit": "agrāhyāḥ karmakāleṣu karṣakā rājapuruṣāś ca //",
+    "english": "Kautilyas Arthashastra Cultivators or government servants shall not be caught hold of for debts while they are engaged in their duties or at work",
+    "morphology": "agrāhyāḥ_agrāhya_PNM karma_karman_Cp kāleṣu_kāla_PLM karṣakāḥ_karṣaka_PNM rāja_rājan_Cp puruṣāḥ_puruṣa_PNM ca_ca_  /"
+  },
+  {
+    "index": 49740,
+    "sanskrit": "vaiśyaśūdraprāyaṃ ca //",
+    "english": "And inhabited by many Vaisyas and Sûdras.",
+    "morphology": "vaiśya_vaiśya_Cp śūdra_śūdra_Cp prāyam_prāya_SNNe ca_ca_  /"
+  },
+  {
+    "index": 49741,
+    "sanskrit": "kūrmapṛṣṭhasamā bhūḥ syāttataḥ kālāgnirudrakaḥ //",
+    "english": "The surface of the earth would appear like the back of a tortoise.",
+    "morphology": "kūrma_kūrma_Cp pṛṣṭha_pṛṣṭha_Cp samā_sama_SNF bhūḥ_bhū_SNF syāt_as_SPr3O tatas_tatas_ kālāgni_kālāgni_Cp rudrakaḥ_rudraka_SNM  /"
+  },
+  {
+    "index": 49742,
+    "sanskrit": "snānakāle tu toyāni retodakamathāspṛśan | amogharetasā tena putro'yaṃ tava saṃsthitaḥ || 27 || evaṃ jñātvā mahābhāge yadyuktaṃ tatsamācara || 28 ||",
+    "english": "At the time of your bath the waters got mingled with the seminal fluid. This son of yours is the product of that never-failing seminal fluid. Now that you have understood everything, O highly esteemed lady, do what is proper in this respect.”",
+    "morphology": "snāna_snāna_Cp kāle_kāla_SLM tu_tu_ toyāni_toya_PANe retaḥ_retas_Cp udakam_udaka_SANe atha_atha_ aspṛśan_spṛś_P3ImIn  / amogharetasā_amogharetas_SIM tena_tad_SIM putraḥ_putra_SNM ayam_idam_SNM tava_tvad_SG saṃsthitaḥ_saṃsthā_SNPaM  /"
+  },
+  {
+    "index": 49743,
+    "sanskrit": "adarśi gātuvittamo yasminvratānyādadhuḥ / upo ṣu jātamāryasya vardhanamagniṃ nakṣantu no giraḥ //",
+    "english": "He hath appeared, best prosperer, in whom men lay their holy acts",
+    "morphology": "adarśi_dṛś_SPs3InPv gātu_gātu_Cp vittamaḥ_vittama_SNM yasmin_yad_SLM vratāni_vrata_PANe ādadhuḥ_ādhā_PPs3In  / upa_upa_ u_u_ su_su_ jātam_jan_SAPaM āryasya_ārya_SGM vardhanam_vardhana_SAM agnim_agni_SAM nakṣantu_nakṣ_PPr3Im naḥ_mad_P"
+  }
+]

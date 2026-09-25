@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19168,
+    "sanskrit": "anujñām labhatām rājā mā vṛthak iha mariṣyati",
+    "english": "Let the old king have thy permission.",
+    "morphology": "anujñām_anujñā_SAF labhatām_labh_SPr3Im"
+  },
+  {
+    "index": 19169,
+    "sanskrit": "tato'vatīrṇaḥ kālena iha rājā bhaveddhruvam | hastyaśvarathasampanno mahābhogī paraṃtapaḥ || 69 ||",
+    "english": "In due course of time, he comes down to the earth here and certainly becomes a king who will scorch his enemies, enjoy great pleasures and be richly endowed with elephants, horses and chariots.",
+    "morphology": "tatas_tatas_ avatīrṇaḥ_avatṛ_SNPaM kālena_kāla_SIM iha_iha_ rājā_rājan_SNM bhavet_bhū_SPr3O dhruvam_dhruvam_  / hasti_hastin_Cp aśva_aśva_Cp ratha_ratha_Cp sampannaḥ_sampad_SNPaM mahā_mahat_Cp bhogī_bhogin_SNM paraṃtapaḥ_paraṃtapa_"
+  },
+  {
+    "index": 19170,
+    "sanskrit": "na tāvad ayam asiddho hetuḥ śanno devīr abhiṣṭaye ityādiṣu vedavākyasandabheṣu padaracanāyā svarakramādiviśeṣavatyāḥ pratyakṣatvena pakṣe hetoḥ vartamānatvāt //",
+    "english": "Hence it should not be held that the reason in question does not belong to the subject of inference. Let us cite a few Vedic sentences, viz. Śanno devira- bhiṣṭaye, etc., and examine them. Each of these sentences is an orderly arrangement of words containing accents properly distributed and other signs of arrangement.",
+    "morphology": "na_na_ tāvat_tāvat_ ayam_idam_SNM asiddhaḥ_asiddha_SNM hetuḥ_hetu_SNM śat_śat_SANe naḥ_mad_PD devīḥ_devī_PAF abhiṣṭaye_abhiṣṭi_SDF ityādiṣu_ityādi_PLNe veda_veda_Cp vākya_vākya_Cp sandabheṣu_saṃdabha_PLM pada_pada_Cp racanā"
+  },
+  {
+    "index": 19171,
+    "sanskrit": "lokapriyatvam arthasamyogena vṛttim //",
+    "english": "and endear himself to the people by bringing them in contact with wealth and doing good to them",
+    "morphology": "__loka_U __priya_U __tva_U __U __U __U"
+  },
+  {
+    "index": 19172,
+    "sanskrit": "tulasyalaṃkṛtā ye ye tulasī nāmajāpakāḥ | tulasīvanapālā ye te tyājyā dūrato bhaṭāḥ || 9 ||",
+    "english": "109. O soldiers, they also should be kept far off and abandoned, those who are adorned with Tulasī, those who repeat the name of Tulasī and those who grow Tulasī plants.”",
+    "morphology": "tulasī_tulasī_Cp alaṃkṛtāḥ_alaṃkṛ_PNPaM ye_yad_PNM ye_yad_PNM tulasī_tulasī_SNF nāma_nāman_Cp jāpakāḥ_jāpaka_PNM  / tulasī_tulasī_Cp vana_vana_Cp pālāḥ_pāla_PNM ye_yad_PNM te_tad_PNM tyājyāḥ_tyaj_PNMGd"
+  },
+  {
+    "index": 19173,
+    "sanskrit": "yasyāṃ bhūmau yā pāramitātiriktatarā sā tatra viśiṣṭā sarvāsu ca sarvatra samudāgacchatīty aviśiṣṭā /",
+    "english": "\" The excellence in the päramitãs which relate to certain specific stages in the Bodhisattva's career is distinct practise. Indistinct practise is that which springs up everywhere .",
+    "morphology": "yasyām_yad_SLF bhūmau_bhūmi_SLF yā_yad_SNF pāramitā_pāramitā_SNF atiriktatarā_atiriktatara_SNF sā_tad_SNF tatra_tatra_ viśiṣṭā_viśiṣ_SNPaF sarvāsu_sarva_PLF ca_ca_ sarvatra_sarvatra_ samudāgacchati_samudāgam_SPr3In iti_iti_ a_a_ viśi"
+  },
+  {
+    "index": 19174,
+    "sanskrit": "tathā sati nirodha ekaikasminkṣaṇe cittamanugacchati / so'yamīdṛśaścittasya nirodhapariṇāmo bhavati /",
+    "english": "When this is accomplished, the mind, in each and every moment, remains restrained . And in this manner the mind is transformed in the form of restraint i.e., restraint-transformation.",
+    "morphology": "tathā_tathā_ sati_as_SLPaPrM nirodhe_nirodha_SLM ekaikasmin_ekaika_SLM kṣaṇe_kṣaṇa_SLM cittam_citta_SNNe anugacchati_anugam_SPr3In  / saḥ_tad_SNM ayam_idam_SNM īdṛśaḥ_īdṛśa_SNM cittasya_citta_SGNe nirodha_nirodha_Cp pariṇāmaḥ_par"
+  },
+  {
+    "index": 19175,
+    "sanskrit": "ātmana eva tad yajamānāḥ śarma nahyante 'nārtyai bṛhadrathaṃtarābhyāṃ yanti |",
+    "english": "verily thus the sacrificers don a protection for the breath, to avoid injury. They proceed with the Brhat and the Rathantara.",
+    "morphology": "ātmanaḥ_ātman_SBM eva_eva_ tat_tad_SANe yajamānāḥ_yaj_PNPaPrM śarma_śarman_SANe nahyante_nah_PPr3In anārtyai_anārti_SDF bṛhat_bṛhant_Cp rathaṃtarābhyām_rathaṃtara_SINe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2976,
+    "sanskrit": "sa tayā vīra ghātinyā gadayā gadinām varaḥ gautamasya hayān hatvā sārathim ca nyapātayat",
+    "english": "The foremost of all wielders of the mace, Chekitana, with that hero-slaying mace of his, slew the steeds of Gautama and then felled his charioteer.",
+    "morphology": "sa_tad_SNM tayā_tad_SIF vīra_vīra_MCp ghātinyā_ghātin_SIF gadayā_gadā_SIF gadinām_gadin_PGM varaḥ_vara_SNM gautamasya_gautama_SGM hayān_haya_PAM"
+  },
+  {
+    "index": 2977,
+    "sanskrit": "etābhya eva devatābhyo namas karoti brahmavādinaḥ |",
+    "english": "verily he pays honour to these deities.",
+    "morphology": "etābhyaḥ_etad_PDF eva_eva_ devatābhyaḥ_devatā_PDF namaḥ_namas_SANe karoti_kṛ_SPr3In brahma_brahman_Cp vādinaḥ_vādin_SGM"
+  },
+  {
+    "index": 2978,
+    "sanskrit": "prabhedatatvaṃ mūlatatve kathaṃ veditavyaṃ / saptavidhaṃ prabhedatatvaṃ pravṛttitatvaṃ / lakṣaṇatatvaṃ / vijñaptitatvaṃ sanniveśatatvaṃ / mithyāpratipattitatvaṃ /",
+    "english": "And how is the reality of differentiation to be known in basic reality? In seven different ways as the reality of development, as the reality of characteristics, as the reality of perceptions, as the reality of settlement into them, as the reality of false practise, as the reality of complete clearing, and as the reality of right practise, which seven-fold Suchness was discussed in the Sandhinirmocana-sutra.",
+    "morphology": "prabheda_prabheda_Cp tatvam_tatva_SNNe mūla_mūla_Cp tatve_tatva_SLNe katham_katham_ veditavyam_vid_SNNeGd  / saptavidham_saptavidha_SNNe prabheda_prabheda_Cp tatvam_tatva_SNNe pravṛtti_pravṛtti_Cp tatvam_tatva_SNNe  / lakṣaṇa_lakṣaṇa_Cp tatva"
+  },
+  {
+    "index": 2979,
+    "sanskrit": "bhartṛyajña uvāca | naṣṭavaṃśastu yo brūyānnāgaro'smīti saṃsadi | tasya śīlaṃ pravijñeyaṃ tataḥ śuddhiṃ samādiśet || 4 ||",
+    "english": "4. If a person of untraceable family comes and says in the assembly. “I am a Nāgara”, his conduct should be ascertained and then purity is to be proclaimed.",
+    "morphology": "bhartṛyajñaḥ_bhartṛyajña_SNM uvāca_vac_SPs3In  / naṣṭa_naś_PaCp vaṃśaḥ_vaṃśa_SNM tu_tu_ yaḥ_yad_SNM brūyāt_brū_SPr3O nāgaraḥ_nāgara_SNM asmi_as_SPr1In iti_iti_ saṃsadi_saṃsad_SLF  / tasya_tad_SGM śīlam_śīla_SNNe pravi"
+  },
+  {
+    "index": 2980,
+    "sanskrit": "yadi śabdavad yuktivirodhaḥ syāt /",
+    "english": "A sensation, whereas sound is provoked by a desire to speak. If it were provoked by desire, it would not be retribution.",
+    "morphology": "yadi_yadi_ śabda_śabda_Cp vat_vat_ yukti_yukti_Cp virodhaḥ_virodha_SNM"
+  },
+  {
+    "index": 2981,
+    "sanskrit": "kiṃ tarhi vasturūpādhyavasāyenaiva śābdī dhīḥ pravartamānā samālakṣyate /",
+    "english": "on the contrary, Verbal Cognition is always found to apprehend the positive form of things;",
+    "morphology": "kim_kim_ tarhi_tarhi_ vastu_vastu_Cp rūpa_rūpa_Cp adhyavasāyena_adhyavasāya_SINe eva_eva_ śābdī_śābda_SNF dhīḥ_dhī_SNF pravartamānā_pravṛt_SNPaPrF samālakṣyate_samālakṣay_SPr3InPv "
+  },
+  {
+    "index": 2982,
+    "sanskrit": "nānā prāṇo yajamānasya paśunety āha vyāvṛttyai |",
+    "english": "' The breath of the sacrifice is apart from the victim', he says, for distinction [1].",
+    "morphology": "nānā_nānā_ prāṇaḥ_prāṇa_SNM yajamānasya_yaj_SGPaPrM paśunā_paśu_SIM iti_iti_"
+  },
+  {
+    "index": 2983,
+    "sanskrit": "bahunā api hi avidvāṃsaḥ na eva tuṣyanti abuddhayaḥ",
+    "english": "Ignorant fools are not content with even that much they get (here), because they have no happiness born of virtue to acquire to in the world hereafter.",
+    "morphology": "bahunā_bahu_SINe api_api_U hi_hi_U avidvāṃsaḥ_avidvas_PNM na_na_U eva_eva_U tuṣyanti_tuṣ_PPr3In abuddhayaḥ_abuddhi_PNM"
+  }
+]

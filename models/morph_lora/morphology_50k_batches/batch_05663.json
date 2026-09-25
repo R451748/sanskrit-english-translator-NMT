@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45296,
+    "sanskrit": "|| brahmovāca | śivenaiva tadā proktaṃ gaṇeśāya mahātmane | tadānīṃ daivataiścaiva sarvaiśca ṛṣisattamaiḥ ||",
+    "english": "61-62. When this was mentioned by Śiva to Gaṇeśa of great soul, O sage, the gods, the sages and the Gaṇas, favourites of Śiva said “So be it” and worshipped Gaṇeśa according to prescribed rules.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / śivena_śiva_SIM eva_eva_ tadā_tadā_ proktam_pravac_SNPaNe gaṇeśāya_gaṇeśa_SDM mahātmane_mahātman_SDM  / tadānīm_tadānīm_ daivataiḥ_daivata_PINe ca_ca_ eva_eva_ sarvaiḥ_sarva_PIM ca_ca_ ṛṣi_"
+  },
+  {
+    "index": 45297,
+    "sanskrit": "sa copāyena pratyamitra-jana-kāyo vibhrāmitaḥ, sa rājā mokṣitaḥ |",
+    "english": "and the enemy and his people were scattered through this means, and the king set free.",
+    "morphology": "sa_tad_SNM ca_ca_ upāyena_upāya_SIM pratyamitra_pratyamitra_Cp jana_jana_Cp kāyaḥ_kāya_SNM vibhrāmitaḥ_vibhrāmay_SNPaM"
+  },
+  {
+    "index": 45298,
+    "sanskrit": "rudhireṇa avasikta aṅgam prasravantam yathā acalam",
+    "english": "Sankhalikhitam, i.e., that which is written on the forehead by the Ordainer.",
+    "morphology": "rudhireṇa_rudhira_SINe avasikta_avasic_PaPsCp aṅgam_aṅga_SAM prasravantam_prasru_SAPaPrM"
+  },
+  {
+    "index": 45299,
+    "sanskrit": "tataḥ surūpa dhṛgbhānuruttarānagamatkurūn | dadṛśe tatra saṃjñāṃ tu vaḍavārūpadhāriṇīm || 1203 ||",
+    "english": "203. Bhānu (Sun) with a lovely body went to Uttarakuru region. There he saw Saṃjñā in the form of a mare.",
+    "morphology": "tatas_tatas_ surūpa_surūpa_SVM dhṛk_dhṛk_Cp bhānuḥ_bhānu_SNM uttarān_uttara_PAM agamat_gam_SPs3InTh kurūn_kuru_PAM  / dadṛśe_dṛś_SPs3In tatra_tatra_ saṃjñām_saṃjñā_SAF tu_tu_ vaḍabā_vaḍabā_Cp rūpa_rūpa_Cp dhāriṇī_dhār"
+  },
+  {
+    "index": 45300,
+    "sanskrit": "na saṃśritasyaiva saṃśrayaṇam / anyathā evam evāvakṣyat etān deśāṃs tyaktvā nānyatra nivaset / atha siddhe saṃśrayaṇe tadvacanam anyanivṛttiyartham iti, parisaṃkhyā tathā syāt / tasyāś ca trayo doṣāḥ /",
+    "english": "If this were not meant, then the Author would have simply said that \"one should never reside in any other country after renouncing these\" It might be argued that the \"resorting\" being already accomplished, the reiteration of it serves the purpose of precluding othersBut in that case this would become a \"Parisankhyā\" a \"Preclusive Injunction and such injunctions are beset with three defects.",
+    "morphology": "na_na_ saṃśritasya_saṃśri_SGPaNe eva_eva_ saṃśrayaṇam_saṃśrayaṇa_SNNe  / anyathā_anyathā_ evam_evam_ eva_eva_ avakṣyat_vac_SFu3 etān_etad_PAM deśān_deśa_PAM tyaktvā_tyaj_Co na_na_ anyatra_anyatra_ nivaset_nivas_SPr3O  / atha_atha_ "
+  },
+  {
+    "index": 45301,
+    "sanskrit": "ajaraḥ ca amaraḥ ca eva parāśara sutaḥ tava evam uktvā sa bhagavān tatra eva antaradhīyata",
+    "english": "Freed from diseases of every kind, that son of thine, O Parasara, shall besides, be immortal.--Having said these words, the great Deity disappeared there and then.",
+    "morphology": "ajaraḥ_ajara_SNM ca_ca_U amaraḥ_amara_SNM ca_ca_U eva_eva_U parāśara_parāśara_MCp sutaḥ_suta_SNM tava_tvad_SG evam_evam_U uktvā_vac_Co saḥ_tad_SNM bhagaḥ_bhaga_SNM"
+  },
+  {
+    "index": 45302,
+    "sanskrit": "dyauḥ svāhā brahmaṇe svāhā pṛthivī mahārājakaḥ //",
+    "english": "Oblation to sky! Oblations to Brahman! Oblations should be given upto the earth and the great king.",
+    "morphology": "dyauḥ_div_SNM svāhā_svāhā_ brahmaṇe_brahman_SDM svāhā_svāhā_ pṛthivī_pṛthivī_SNF mahārājakaḥ_mahārājaka_SNM  /"
+  },
+  {
+    "index": 45303,
+    "sanskrit": "niḥ oṁ iti svasāram akr̥ta uṣasam devī āyatī apa it oṁ iti hāsate tamaḥ",
+    "english": "The Goddess as she comes hath set the Dawn her Sister in her place: And then the darkness vanishes.",
+    "morphology": "niḥ_niḥ_U oṇā_oṇ_SNF iti_iti_U svasāram_svasṛ_SAF akrāta_kṛ_PPs3In uṣasam_uṣas_SAF devī_devī_SNF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30104,
+    "sanskrit": "vṛkṣa antara ālokitayā jyotsnayā ca api lakṣaye",
+    "english": "And further, by the light of the moon between the trees, I can see them.",
+    "morphology": "vṛkṣa_vṛkṣa_MCp antara_antara_SLNe ālokitayā_ālokay_SIPaPsF"
+  },
+  {
+    "index": 30105,
+    "sanskrit": "āgamiṣyanti kaunteyāḥ kuntī ca saha kṛṣṇayā drupadaḥ uvāca evam etat mahā prājña yathā āttha vidura adya mām",
+    "english": "Then, O king, will the Pandavas set out with Kunti and Krishna.'\" SECTION CCIX (Viduragamana Parva continued) \"Vaisampayana said, 'Hearing these words of Vidura, Drupada said, 'It is even so as thou, O Vidura of great wisdom, hast said.",
+    "morphology": "āgamiṣyanti_āgam_PFu3In kaunteyāḥ_kaunteya_PNM kuntī_kuntī_SNF ca_ca_U saha_saha_U kṛṣṇayā_kṛṣṇā_SIF drupadaḥ_drupada_SNM uvāca_vac_SPs3In evam_evam_U etat_etad_SANe mahā_mahat_Cp prājña_prājña_SVM yathā_yathā_U āttha_ah_S"
+  },
+  {
+    "index": 30106,
+    "sanskrit": "yajeta vāśvamedhena svarjitā gosavena vā / abhijidviśvajidbhyāṃ vā trivṛtāgniṣṭutāpi vā //",
+    "english": "Or he may offer a horse-sacrifice, a Svargit, a Gosava, an Abhigit, a Visvagit, a Trivrit, or an Agnishtut;",
+    "morphology": "yajeta_yaj_SPr3O vā_vā_ aśvamedhena_aśvamedha_SIM svarjitā_svarjit_SIM gosavena_gosava_SIM vā_vā_  / abhijit_abhijit_Cp viśvajidbhyām_viśvajit_DuIM vā_vā_ trivṛtā_trivṛt_SIM agniṣṭutā_agniṣṭut_SIM api_api_ vā_vā_  /"
+  },
+  {
+    "index": 30107,
+    "sanskrit": "kṛśam ca bharate yā gauḥ mama putram apastanam",
+    "english": "She is nourishing, besides, a weak child of mine that has just been weaned.",
+    "morphology": "kṛśam_kṛśa_SAM ca_ca_U bharate_bhṛ_SPr3In yā_yad_SNF gauḥ_go_SNF mama_mad_SG putram_putra_SAM"
+  },
+  {
+    "index": 30108,
+    "sanskrit": "yogo na siddhyatīti /",
+    "english": "hence there is no reason for postulating the relationship.",
+    "morphology": "yogaḥ_yoga_SNM"
+  },
+  {
+    "index": 30109,
+    "sanskrit": "ata evoktaṃ manunā muninā - upanīya tu yaḥ śiṣyaṃ vedamadhyāpayed dvijaḥ|",
+    "english": "Hence the inspired sage Manu has said (ii.",
+    "morphology": "atas_atas_ eva_eva_ uktam_vac_SNPaNe manunā_manu_SIM muninā_muni_SIM - upanīya_upanī_Co tu_tu_ yaḥ_yad_SNM śiṣyam_śiṣya_SAM vedam_veda_SAM adhyāpayet_adhyāpay_SPr3O"
+  },
+  {
+    "index": 30110,
+    "sanskrit": "tamāśramam jātapariśramau tāvupetya kāle sadṛśānuyātrau | rājarddhimutsṛjya vinītaceṣṭāvupeyaturbhārgavadhiṣṇyameva ||",
+    "english": "Having come at last full of weariness to that hermitage, accompanied by a fitting train, — they dismissed their royal pomp and with sober gestures entered the abode of Bhārgava.",
+    "morphology": "tam_tad_SAM āśramam_āśrama_SAM jāta_jan_PaCp pariśramau_pariśrama_DuNM tau_tad_DuNM upetya_upe_Co kāle_kāla_SLM sadṛśa_sadṛśa_Cp anuyātrau_anuyātra_DuNM  / rāja_rājan_Cp ṛddhim_ṛddhi_SAF utsṛjya_utsṛj_Co vinīta_vinī_PaCp ceṣ"
+  },
+  {
+    "index": 30111,
+    "sanskrit": "mittraprāptyutsuko nītvā kṛcchrāt padma iva kṣapām / prātar bhīmabhaṭas taṃ sa cinvan prasthitavāṃs tataḥ //",
+    "english": "And being anxious to regain his friend, he passed the night in impatience, like the lotus-flower, and the next morning he set out in search of him.",
+    "morphology": "mittra_mitra_Cp prāpti_prāpti_Cp utsukaḥ_utsuka_SNM nītvā_nī_Co kṛcchrāt_kṛcchra_SBNe padmaḥ_padma_SNM iva_iva_ kṣapām_kṣapā_SAF  / prātar_prātar_ bhīma_bhīma_Cp bhaṭaḥ_bhaṭa_SNM tam_tad_SAM sa_tad_SNM cinvan_ci_SNPaPrM prasth"
+  }
+]

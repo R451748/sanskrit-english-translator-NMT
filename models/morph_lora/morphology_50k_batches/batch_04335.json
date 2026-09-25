@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34672,
+    "sanskrit": "ataḥ paramahaṃsānāṃ dhāryaye supriyā gatiḥ | avadhūtasvarūpeṇa parānaṃdena śaṃbhunā ||",
+    "english": "65. Therefore he assumes the attitude and behaviour of great Yogins. Śiva is a supreme bliss personified and an Avadhūta in form.",
+    "morphology": "atas_atas_ paramahaṃsānām_paramahaṃsa_PGM dhāryaye_dhāryā_SDF su_su_ priyā_priya_SNF gatiḥ_gati_SNF  / avadhūta_avadhū_PaCp svarūpeṇa_svarūpa_SIM parānaṃdena_parānanda_SIM śaṃbhunā_śambhu_SIM  /"
+  },
+  {
+    "index": 34673,
+    "sanskrit": "hata ārohāḥ tathā nāgāḥ chinna hastāḥ tathā narāḥ",
+    "english": "They were then like elephants without riders and men without arms.",
+    "morphology": "hata_han_PaPsCp ārohāḥ_āroha_PNM tathā_tathā_U nāgāḥ_nāga_PNM chinna_chid_PaPsCp hastāḥ_hasta_PNM tathā_tathā_U narāḥ_nara_PNM"
+  },
+  {
+    "index": 34674,
+    "sanskrit": "madhyadeśe mahān grāmaḥ brāhmaṇānām babhūva ha gaṅgā yamunayoḥ madhye yāmunasya gireḥ adhas",
+    "english": "In the country lying between the rivers Ganga and Yamuna, at the foot of the hills called Yamuna, there was a large town inhabited by Brahmanas.",
+    "morphology": "madhyadeśe_madhyadeśa_SLM mahān_mahat_SNM grāmaḥ_grāma_SNM brāhmaṇānām_brāhmaṇa_PGM babhūva_bhū_SPs3In ha_ha_U gaṅgā_gaṅgā_SNF yamunayoḥ_yamunā_DuGF madhye_madhya_SLNe yāmunasya_yāmuna_SGM gireḥ_giri_SGM adhas_adhas_U"
+  },
+  {
+    "index": 34675,
+    "sanskrit": "paścime sāgare tasya vanaṃ sarvasamṛddhimat | yojanānāṃ ṣoḍaśabhirvistṛtaṃ sarvato diśam ||",
+    "english": "4. His fertile and flourishing forest was on the shores of the Western ocean.[1] It extended to sixteen Yojanas in every direction.",
+    "morphology": "paścime_paścima_SLM sāgare_sāgara_SLM tasya_tad_SGM vanam_vana_SNNe sarva_sarva_Cp samṛddhimat_samṛddhimat_SNNe  / yojanānām_yojana_PGNe ṣoḍaśabhiḥ_ṣoḍaśan_PINe vistṛtam_vistṛ_SNPaNe sarvatas_sarvatas_ diśam_diś_SAF  /"
+  },
+  {
+    "index": 34676,
+    "sanskrit": "svabhāvikam anādikālikam anāgantukam ityarthaḥ /",
+    "english": "That which derives from ownbeing exists from time immemorial what is meant is it is not adventitious.",
+    "morphology": "svabhāvikam_svabhāvika_SNNe anādikālikam_anādikālika_SNNe anāgantukam_anāgantuka_SNNe iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 34677,
+    "sanskrit": "samanvitāni bhūtāni teṣu varṣeṣu bhārata",
+    "english": "In these Varshas, O Bharata, creatures (though of diverse species) yet, live together.",
+    "morphology": "samanvitāni_samanvita_PNNe bhūtāni_bhūta_PNNe teṣu_tad_PLM varṣeṣu_varṣa_PLM bhārata_bhārata_SVM"
+  },
+  {
+    "index": 34678,
+    "sanskrit": "tatas tau nara śārdūlau bāhu śastrau samīyatuḥ vīrau parama saṃhṛṣṭau anyonya jaya kāṅkṣiṇau",
+    "english": "Then those tigers among men, those heroes of great prowess, with their bare arms as their only weapons, cheerfully engaged themselves in the encounter, each desirous of vanquishing the other.",
+    "morphology": "tatas_tatas_U tau_tad_DuNM nara_nara_MCp śārdūlau_śārdūla_DuNM bāhu_bāhu_MCp śastrau_śastra_DuNM samīyatuḥ_sami_DuPs3In vīrau_vīra_DuNM parama_parama_Cp saṃhṛṣṭau_saṃhṛṣ_DuNPaPsM anyonya_anyonya_Cp jaya_jaya_MCp kāṅkṣiṇa"
+  },
+  {
+    "index": 34679,
+    "sanskrit": "yat avadhāraṇena ucyate saḥ ekāntaḥ",
+    "english": "Ekanta is the term used to denote a thing which is certain in every case.",
+    "morphology": "yat_yad_SNNe avadhāraṇena_avadhāraṇa_SINe ucyate_vac_SPr3InPv saḥ_tad_SNM ekāntaḥ_ekānta_SNM"
+  }
+]

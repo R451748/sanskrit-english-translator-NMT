@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49880,
+    "sanskrit": "ghṛtavatī savitar ādhipatyaiḥ payasvatī rantir āśā no astu |",
+    "english": "Rich in ghee, O Savitr, through thy overlordship, Be the bounteous region rich in milk, for us.",
+    "morphology": "ghṛtavatī_ghṛtavat_SNF savitar_savitṛ_SVM ādhipatyaiḥ_ādhipatya_PINe payasvatī_payasvat_SNF rantiḥ_ranti_SNF āśā_āśā_SNF"
+  },
+  {
+    "index": 49881,
+    "sanskrit": "puṣpasannaddhaśikharāḥ karṇikāradrumāḥ kvacit | yugmayugmavivāhe ca śobhaṃte sādhu daṃpatīḥ || 16 ||",
+    "english": "16. In some places, Karṇikāra trees in pairs with their tops laden with flowers, shone like excellent couples at the time of marriage.",
+    "morphology": "puṣpa_puṣpa_Cp sannaddha_saṃnah_PaCp śikharāḥ_śikhara_PNM karṇikāra_karṇikāra_Cp drumāḥ_druma_PNM kvacid_kvacid_  / yugma_yugma_Cp yugma_yugma_Cp vivāhe_vivāha_SLM ca_ca_ śobhaṃte_śubh_PPr3In sādhu_sādhu_SANe daṃpatīḥ_dampa"
+  },
+  {
+    "index": 49882,
+    "sanskrit": "tato rahasyam ātmīyaṃ sarvam asmai mayoditam / tad buddhvaiva tadā svairaṃ mām evam ayam abravīt //",
+    "english": "Then I told him all my secret. When he heard it, he said to me of his own accord: “Keep the matter quiet;",
+    "morphology": "tatas_tatas_ rahasyam_rahasya_SNNe ātmīyam_ātmīya_SNNe sarvam_sarva_SNNe asmai_idam_SDM mayā_mad_SI uditam_vad_SNPaNe  / tat_tad_SANe buddhvā_budh_Co eva_eva_ tadā_tadā_ svairam_svaira_SANe mām_mad_SA evam_evam_ ayam_idam_SNM abravīt_brū_S3ImIn "
+  },
+  {
+    "index": 49883,
+    "sanskrit": "pañcaaratni dhanuḥ // tasmin dhanvinaṃ sthāpayet,",
+    "english": "A bow means five aratnis x 0 angulas Archers should be stationed at the distance of five bows from one line to another;",
+    "morphology": "pañca_pañcan_Cp aratni_aratni_SNNe dhanuḥ_dhanus_SNNe  // tasmin_tad_SLNe dhanvinam_dhanvin_SAM sthāpayet_sthāpay_SPr3O"
+  },
+  {
+    "index": 49884,
+    "sanskrit": "mā asmān adhākṣuḥ dṛṣṭvā eva pāṇḍavāḥ krūra cakṣuṣā smṛtvā anubhāvam rājarṣeḥ ambarīṣasya dhīmataḥ",
+    "english": "Would not the Pandavas destroy us by looking down upon us with angry eyes? I know the royal sage Yudhishthira to be possessed of great ascetic power.",
+    "morphology": "mā_mā_U asmān_mad_PA adhākṣuḥ_dah_PPs3In dṛṣṭvā_dṛś_Co eva_eva_U pāṇḍavāḥ_pāṇḍava_PNM krūra_krūra_Cp cakṣuṣā_cakṣus_SINe smṛtvā_smṛ_Co anubhāvam_anubhāva_SAM rājarṣeḥ_rājarṣi_SGM ambarīṣasya_ambarī"
+  },
+  {
+    "index": 49885,
+    "sanskrit": "kṣatra dharmāt cyutaḥ rājñi bhaveyam śāsvatīḥ samāḥ",
+    "english": "Those words are still in my remembrance, I would, for all years to come, have been regarded to have swerved from the duties of a Kshatriya if I had left that vow unaccomplished.",
+    "morphology": "kṣatra_kṣatra_NeCp dharmāt_dharma_SBM cyutaḥ_cyu_SNPaPsM rājñi_rājñī_SVF bhaveyam_bhū_SPr1O"
+  },
+  {
+    "index": 49886,
+    "sanskrit": "manmūrtestava keyaṃ vā prāyaścittirihocyate | athāpi dharmamārgoyaṃ tvayaiva paripālyate || 50 ||",
+    "english": "50. “You constitute my own person. Hence what expiation is to be suggested? Still, this path of virtue is being maintained by you.",
+    "morphology": "mad_mad_Cp mūrteḥ_mūrti_SGM tava_tvad_SG kā_ka_SNF iyam_idam_SNF vā_vā_ prāyaścittiḥ_prāyaścitti_SNF iha_iha_ ucyate_vac_SPr3InPv  / atha_atha_ api_api_ dharma_dharma_Cp mārgaḥ_mārga_SNM yam_idam_SNM tvayā_tvad_SI eva_eva_ paripālyate_pa"
+  },
+  {
+    "index": 49887,
+    "sanskrit": "tatra sāṃvatsarī yātrā karttavyā suprayatnataḥ | ūrjakṛṣṇanavamyāṃ ca sarvapāpāpanuttaye || 23 ||",
+    "english": "23. The annual festival is to be celebrated carefully with special effort on the ninth day in the dark half of the month of Kārttika, for the purpose of dispelling all sins.",
+    "morphology": "tatra_tatra_ sāṃvatsarī_sāṃvatsara_SNF yātrā_yātrā_SNF karttavyā_kṛ_SNFGd su_su_ prayatnataḥ_prayatna_SBM  / ūrja_ūrja_Cp kṛṣṇa_kṛṣṇa_Cp navamyām_navamī_SLF ca_ca_ sarva_sarva_Cp pāpa_pāpa_Cp apanuttaye_apanutti_SDF  /"
+  }
+]

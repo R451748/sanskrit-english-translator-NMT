@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10280,
+    "sanskrit": "dogdhā dvi mūrdhā tatra āsīt vatsaḥ ca āsīt virocanaḥ",
+    "english": "In that act, Dwimurddhan became the milker, and Virochana, the calf.",
+    "morphology": "dogdhā_dogdhṛ_SNM dvi_dvi_Cp mūrdhā_mūrdhan_SNM tathā_tathā_U"
+  },
+  {
+    "index": 10281,
+    "sanskrit": "tālītamālakhaṇḍeṣu patitāḥ pātitāṅgakāḥ / pārasīkā gatā mohaṃ bhramādvaimānikā iva //",
+    "english": "The Persians being worsted in their bodies, fell into the tala and tamala forests; whereby drinking their intoxicating extracts, they became as giddy as drunken men.",
+    "morphology": "tālī_tālī_Cp tamāla_tamāla_Cp khaṇḍeṣu_khaṇḍa_PLM patitāḥ_pat_PNPaM pātita_pātay_PaCp aṅgakāḥ_aṅgaka_PNM  / pārasīkāḥ_pārasīka_PNM gatāḥ_gam_PNPaM"
+  },
+  {
+    "index": 10282,
+    "sanskrit": "caturdigāvarjanasambhṛtāṃ yo mṛtpātraśeṣāmakarodvibhūtim // Ragh(K)_6.76 //",
+    "english": "For a long time did the king, whose progeny was awaiting (the appearance of) an efficient cause, remain like the ocean with its production of the jewels not manifested before the churning (i.e. before its being churned).",
+    "morphology": "catur_catur_Cp diś_diś_Cp āvarjana_āvarjana_Cp sambhṛtām_sambhṛta_SAF yaḥ_yad_SNM mṛd_mṛd_Cp pātra_pātra_Cp śeṣa_śeṣa_SAF akarot_kṛ_S3ImIn vibhūtim_vibhūti_SAF  /"
+  },
+  {
+    "index": 10283,
+    "sanskrit": "durmṛtyunā mṛtā ye ca saṃgrāmeṣu hatāśca ye | ekoddiṣṭe sutairdatte teṣāṃ tṛptirbhaviṣyati || 15 ||",
+    "english": "15. In the case of those who die an unnatural and inglorious death and those who are killed in battles, they will have satisfaction if Ekoddiṣṭa is offered by the sons.",
+    "morphology": "durmṛtyunā_durmṛtyu_SIM mṛtāḥ_mṛ_PNPaM ye_yad_PNM ca_ca_ saṃgrāmeṣu_saṃgrāma_PLM hatāḥ_han_PNPaM ca_ca_ ye_yad_PNM  / ekoddiṣṭe_ekoddiṣṭa_SLNe sutaiḥ_suta_PIM datte_dā_SPr3In teṣām_tad_PGM tṛptiḥ_tṛpti_SNF bhavi"
+  },
+  {
+    "index": 10284,
+    "sanskrit": "dyūte advitīyaḥ śakuniḥ nareṣu",
+    "english": "Sakuni hath not his equal among men at dice-play.",
+    "morphology": "dyūte_dyūta_SLNe"
+  },
+  {
+    "index": 10285,
+    "sanskrit": "marīcimatriṃ pulahaṃ pulastyāṃgirasau kratum | vasiṣṭhaṃ nāradaṃ dakṣaṃ bhṛguṃ ceti mahāprabhūn || brahmāhaṃ mānasānputrānasarjaṃ ca yadā mune | tadā manmanaso jātā cārurūpā varāṃganā ||",
+    "english": "18-19. O sage, when I created Marīci, Atri, Pulaha, Pulastya, Aṅgiras, Kratu, Vasiṣṭha, Nārada, Dakṣa and Bhṛgu, my mental sons of lordly stature, a beautiful woman of handsome features was born of my mind.",
+    "morphology": "marīcim_marīci_SAM atrim_atri_SAM pulaham_pulaha_SAM pulastya_pulastya_Cp aṃgirasau_aṅgiras_DuAM kratum_kratu_SAM  / vasiṣṭham_vasiṣṭha_SAM nāradam_nārada_SAM dakṣam_dakṣa_SAM bhṛgum_bhṛgu_SAM ca_ca_ iti_iti_ mahā_mahat_Cp prabhūn"
+  },
+  {
+    "index": 10286,
+    "sanskrit": "tathā bhavatvahaṃ jyeṣṭha cariṣye vratamuttamam | brahmahatyāviśuddhyarthaṃ tvaṃ satradhuramāvaha || 36 ||",
+    "english": "36. “O elder brother, let it be so. I shall perform the excellent holy rites for the purification of the sin of Brāhmaṇa-slaughter. You do bear the burden of the Sattra.”",
+    "morphology": "tathā_tathā_ bhavatu_bhū_SPr3Im aham_mad_SN jyeṣṭha_jyeṣṭha_SVM cariṣye_car_SFu1In vratam_vrata_SANe uttamam_uttama_SANe  / brahmahatyā_brahmahatyā_Cp viśuddhi_viśuddhi_Cp artham_artha_SAM tvam_tvad_SN sattra_sattra_Cp dhuram_dhur_SAF"
+  },
+  {
+    "index": 10287,
+    "sanskrit": "śivaḥ śikhā tathā jyotiḥ savitraścetigocarāḥ /",
+    "english": "a They are divided into four classes gocaras Śiva, Śikhā, Jyoti and Sāvitra.",
+    "morphology": "śivaḥ_śiva_SNM śikhā_śikhā_SNF tathā_tathā_ jyotiḥ_jyotis_SNM savitraḥ_savitra_SNM ca_ca_ iti_iti_ gocarāḥ_gocara_PNM  /"
+  }
+]

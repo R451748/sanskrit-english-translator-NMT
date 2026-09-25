@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27584,
+    "sanskrit": "notpannā vidyate naiva tasmātkiṃ kveva vedanam / vedyonmukhatvaṃ saṃtyajya rūpaṃ yadvedanasya vai //",
+    "english": "There being no such thing as production, there is no knowledge of anything whatever that is produced; abandon therefore your eagerness to know the knowable forms (of things), and have the knowledge of the only invisible One.",
+    "morphology": "na_na_ utpannā_utpad_SNPaF vidyate_vid_SPr3InPv na_na_ eva_eva_ tasmāt_tasmāt_ kim_ka_SNNe kva_kva_ iva_iva_ vedanam_vedana_SNNe  / vedya_vid_GdCp unmukha_unmukha_Cp tvam_tva_SANe saṃtyajya_saṃtyaj_Co rūpam_rūpa_SNNe yat_yad_SNNe vedanasya_vedana_"
+  },
+  {
+    "index": 27585,
+    "sanskrit": "ekaṃ jñeyaṃ mahābhasma dvitīyaṃ svalpasaṃjñakam | mahābhasma iti proktaṃ bhasma nānāvidhaṃ param ||",
+    "english": "2. One is known as Mahābhasma (Great ashes) and the second is known as Svalpa (the little). The Mahābhasma is of various types.",
+    "morphology": "ekam_eka_SNNe jñeyam_jñā_SNNeGd mahābhasma_mahābhasman_SNNe dvitīyam_dvitīya_SNNe svalpa_svalpa_Cp saṃjñakam_saṃjñaka_SNNe  / mahābhasma_mahābhasman_SNNe iti_iti_ proktam_pravac_SNPaNe bhasma_bhasman_SNNe nānāvidham_nānāvidha_SNNe param_"
+  },
+  {
+    "index": 27586,
+    "sanskrit": "soyaṃ bhaviṣyadākṣepaḥ prāgevātimanasvinī | kadācidaparādhosya bhāvītyevamarundva yat ||",
+    "english": "This is Interdiction-of-what-will-happen since, even in advance, an excessively proud lady has interdicted [her lover] lest he might some time commit the fault.",
+    "morphology": "saḥ_tad_SNM iyam_idam_SNM bhaviṣyat_bhū_PaFuCp ākṣepaḥ_ākṣepa_SNM prāk_prāk_ eva_eva_ ati_ati_ manasvinī_manasvin_SNF  / kadācid_kadācid_ aparādhaḥ_aparādha_SNM sya_idam_SGM bhāvi_bhāvin_SNNe iti_iti_ evam_evam_ arundva_rud_SPr2Im y"
+  },
+  {
+    "index": 27587,
+    "sanskrit": "prajñā lābhe hi puruṣaḥ śāstrāṇi eva anvavekṣate",
+    "english": "When wisdom is regained, such a man turneth his attention to scriptures;",
+    "morphology": "prajñā_prajñā_FCp"
+  },
+  {
+    "index": 27588,
+    "sanskrit": "dhyāna-vimokṣa-samādhi-samāpattīnāṃ –",
+    "english": "absorptions, freedoms, concentration, attainments –",
+    "morphology": "__dhyāna_U"
+  },
+  {
+    "index": 27589,
+    "sanskrit": "śarīra kṛt prāṇa dātā yasya ca annāni bhuñjate krameṇa te trayaḥ api uktāḥ pitaraḥ dharma niścaye",
+    "english": "Indeed, the maker of the body, the protector of life, the giver of food, are all three, fathers in their order, according to the scriptures.",
+    "morphology": "śarīra_śarīra_NeCp kṛt_kṛt_SNM prāṇa_prāṇa_MCp dātā_dātṛ_SNM yasya_yad_SGM ca_ca_U annāni_anna_PANe bhuñjate_bhuj_SPr3In krameṇa_krameṇa_U te_tad_PNM trayaḥ_tri_PNM api_api_U uktāḥ_vac_PNPaPsM pitaraḥ_pitṛ_PNM dharma_dharm"
+  },
+  {
+    "index": 27590,
+    "sanskrit": "mātā-pitror vtti-pradānam |",
+    "english": "Giving the means of subsistence for mother and father.",
+    "morphology": "mātā_mātā_FCp pitroḥ_pitṛ_DuGM"
+  },
+  {
+    "index": 27591,
+    "sanskrit": "athedaṃ lakṣaṇaṃ hetor dharmiṇyevāvagamyate / yataḥ pramāṇān nāsiddhiḥ sādhyasyāpi tato na tu // sādhyasyāpratipattau hi hetor api na niścayaḥ /",
+    "english": "If the proposed definition of the probans is meant to be one that is found in the minor term only, then that same means of cognition which has made the probans known would make known the probandum also. If the probandum does not become known, then the probans also cannot become known.",
+    "morphology": "atha_atha_ idam_idam_SNNe lakṣaṇam_lakṣaṇa_SNNe hetoḥ_hetu_SGM dharmiṇī_dharmin_SNF eva_eva_ avagamyate_avagam_SPr3InPv  / yatas_yatas_ pramāṇāt_pramāṇa_SBNe na_na_ asiddhiḥ_asiddhi_SNF sādhyasya_sādhya_SGNe api_api_ tatas_tatas_ na"
+  }
+]

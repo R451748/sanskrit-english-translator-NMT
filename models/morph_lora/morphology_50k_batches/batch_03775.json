@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30192,
+    "sanskrit": "kaṇḍū varṇabheda śopha āsrāva gauravāṇi śleṣmaṇā||",
+    "english": "An excessive action of the deranged Kapha, in a case of Kushtha, gives rise to itching, discolouring and swelling of the affected part which becomes heavy and exudes the characteristic secretion.",
+    "morphology": "kaṇḍū_kaṇḍū_FCp varṇabheda_varṇabheda_MCp śopha_śopha_MCp āsrāva_āsrāva_MCp gauravāṇi_gaurava_PANe"
+  },
+  {
+    "index": 30193,
+    "sanskrit": "amāt eṣām bhiyasā bhūmiḥ ejati nauḥ na pūrṇā kṣarati vyathiḥ yatī dūre dr̥śaḥ ye citayante ema bhiḥ antaḥ mahe vidathe yetire naraḥ",
+    "english": "Earth shakes and reels in terror at their onward rush, like a full ship which, quivering, lets the water in. Marked on their ways are they, visible from afar: the Heroes press between in mighty armament.",
+    "morphology": "amāt_ama_SBM eṣām_idam_PGM bhiyasā_bhiyas_SIM bhūmiḥ_bhūmi_SNF ejati_ej_SPr3In nauḥ_nau_SNF na_na_U pūrṇā_pṛ_SNPaPsF kṣarati_kṣar_SPr3In vyathiḥ_vyathis_SNF yatī_i_SNPaPrF dūre_dūra_SLNe dr̥śaḥ_drāś_PAF ye_yad_PNM citayante_"
+  },
+  {
+    "index": 30194,
+    "sanskrit": "yadveva gārhapatyaṃ ca punaścitiṃ copadadhāti /",
+    "english": "And as to why he lays down both the Gârhapatya and the Punaskiti.",
+    "morphology": "yat_yat_ u_u_ eva_eva_ gārhapatyam_gārhapatya_SAM ca_ca_ punaścitim_punaściti_SAF ca_ca_ upadadhāti_upadhā_SPr3In "
+  },
+  {
+    "index": 30195,
+    "sanskrit": "tathā dṛṣṭavyabhicārāyāṃ gamane laghīyaḥ /",
+    "english": "The expiation is lighter in the case of a woman whose unchastity is well known.",
+    "morphology": "tathā_tathā_ dṛṣṭa_dṛś_PaCp vyabhicārāyām_vyabhicāra_SLF gamane_gamana_SLNe laghīyaḥ_laghīyas_SNNe  /"
+  },
+  {
+    "index": 30196,
+    "sanskrit": "dadyāt sarpiḥ sadā pitte majjānam ca sa mārute",
+    "english": "Similarly clarified butter should be used as a snuff in a case of a Pittaja disorder, while the snuff should consist of Majja (marrow) in a case marked by (the concerted actions of the deranged) Vayu and Pitta.",
+    "morphology": "dadyāt_dā_SPr3O"
+  },
+  {
+    "index": 30197,
+    "sanskrit": "ākāśabhāvanāmacchāṃ śabdabījarasonmukhīm / tatastāṃ ghanatāṃ yātaṃ ghanaspandakramānmanaḥ //",
+    "english": "When this limited power which is Brahma, thinks on the state of his having been the Hiranyagarbha, in his former state of existence in the prior Kalpa; he is immediately transformed to that state which is in his mind, and which is ever busy with its thoughts and imaginations.",
+    "morphology": "ākāśa_ākāśa_Cp bhāvanām_bhāvanā_SAF acchām_accha_SAF śabda_śabda_Cp bīja_bīja_Cp rasa_rasa_Cp unmukhīm_unmukha_SAF  / tatas_tatas_ tām_tad_SAF ghana_ghana_Cp tām_tā_SAF yātam_yā_SNPaNe ghana_ghana_Cp spanda_spanda_Cp kramāt_krama_SBM "
+  },
+  {
+    "index": 30198,
+    "sanskrit": "tad atra cintyate nityamekaṃ caitanyamiṣyate / yadi buddhir api prāptā tadrūpaiva tathā sati //",
+    "english": "In this connection, the following points are to be considered: if intelligence is held to be eternal and one, then, cognition also should have to be regarded as of the same character.",
+    "morphology": "tat_tad_SNNe atra_atra_ cintyate_cintay_SPr3InPv nityam_nitya_SNNe ekam_eka_SNNe caitanyam_caitanya_SNNe iṣyate_iṣ_SPr3InPv  / yadi_yadi_ buddhiḥ_buddhi_SNF api_api_ prāptā_prāp_SNPaF tad_tad_Cp rūpā_rūpa_SNF eva_eva_ tathā_tathā_ sati_as_SLP"
+  },
+  {
+    "index": 30199,
+    "sanskrit": "atha dehamevāvaraṇam| tathā ca tannivṛttau pañjarānmuktasya śukasyevātmanaḥ satatordhvagamanaṃ muktiriti cet- tadā vaktavyam|",
+    "english": "But if he maintains that \"the body is the true obstruction, and hence Liberation is the continual upspringing of the soul consequent on the body's annihilation, as of a parrot released from its cage,\" then we must inquire whether this said soul possesses form or not.",
+    "morphology": "atha_atha_ deham_deha_SNNe eva_eva_ āvaraṇam_āvaraṇa_SNNe tathā_tathā_ ca_ca_ tad_tad_Cp nivṛttau_nivṛtti_SLF pañjarāt_pañjara_SBNe muktasya_muc_SGPaM śukasya_śuka_SGM iva_iva_ ātmanaḥ_ātman_SGM satata_satata_Cp ūrdhva_ūrdhva_Cp gama"
+  }
+]

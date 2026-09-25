@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8096,
+    "sanskrit": "agguṣṭhena spṛśet kumbhaṃ hṛdā muṣṭyāstravardhanīṃ //",
+    "english": "The pitcher should be touched with the little finger, the weapon with the heart and vardhanī with the clenched fist.",
+    "morphology": "agguṣṭhena_agguṣṭha_SIM spṛśet_spṛś_SPr3O kumbham_kumbha_SAM hṛdā_hṛd_SINe muṣṭyā_muṣṭi_SIF astra_astra_Cp vardhanīḥ_vardhana_SAF  /"
+  },
+  {
+    "index": 8097,
+    "sanskrit": "vivekamātrasādhyaṃ tadvicāraikāntaniścayam / tyajatā duḥkhajālāni nareṇaitadavāpyate //",
+    "english": "So it is by means of discrimination, reasoning and ultimate ascertainment of truth, that a man may avoid the snares of misery, and attain his best state.",
+    "morphology": "viveka_viveka_Cp mātra_mātra_Cp sādhyam_sādhay_SNNeGd tat_tad_SNNe vicāra_vicāra_Cp ekānta_ekānta_Cp niścayam_niścaya_SNNe  / tyajatā_tyaj_SIPaPrM duḥkha_duḥkha_Cp jālāni_jāla_PANe nareṇa_nara_SIM etat_etad_SNNe avāpyate_avāp_SPr3InPv"
+  },
+  {
+    "index": 8098,
+    "sanskrit": "tatheti matvā sa jagāma tūrṇāṃ sahai va taiḥ parvatarājabhiśca | tvarāgataścaikapadena śaṃbhuṃ prāpnodṛṣīṇāṃ pravaro mahātmā || 31 ||",
+    "english": "31. Thinking that it should be so, that noble-souled one, the most excellent among sages, went quickly along with those leading Mountains. Hastening, he came to Śaṃbhu immediately.",
+    "morphology": "tathā_tathā_ iti_iti_ matvā_man_Co sa_tad_SNM jagāma_gam_SPs3In tūrṇām_tūrṇām_ taiḥ_tad_PIM parvata_parvata_Cp rājabhiḥ_rājan_PIM ca_ca_  / tvarā_tvarā_Cp gataḥ_gam_SNPaM ca_ca_ eka_eka_Cp padena_pada_SINe śaṃbhum_śambhu_SAM prāp"
+  },
+  {
+    "index": 8099,
+    "sanskrit": "virakto'pyasau brahmavidyābhareṇa vidhiniṣedhāvullaṅghayati /",
+    "english": "Although non-attached he oversteps injunctions and pro hibitions due to the abundance of Brahman-knowledge.",
+    "morphology": "viraktaḥ_virañj_SNPaM api_api_ asau_adas_SNM brahma_brahman_Cp vidyā_vidyā_Cp bhareṇa_bhara_SIM vidhi_vidhi_Cp niṣedhau_niṣedha_DuAM ullaṅghayati_ullaṅghay_SPr3In"
+  },
+  {
+    "index": 8100,
+    "sanskrit": "saha rāmeṇa mālābhṛn mālākāre varandadau /",
+    "english": "Wearing the garland along with Rāma Balarāma he blessed the garlandmaker.",
+    "morphology": "saha_saha_ rāmeṇa_rāma_SIM "
+  },
+  {
+    "index": 8101,
+    "sanskrit": "bhāvābhāvagrahotsargadṛśāmiha hi rāghava / na vicārādṛte tattvaṃ jñāyate sādhu kiṃcana //",
+    "english": "The wise that hold fast on the truth and forsake all untruth in this world, are yet unable to discern their true natures without the aid of reason.",
+    "morphology": "bhāva_bhāva_Cp abhāva_abhāva_Cp graha_graha_Cp utsarga_utsarga_Cp dṛśām_dṛś_PGF iha_iha_ hi_hi_ rāghava_rāghava_SVM  / na_na_ vicārāt_vicāra_SBM ṛte_ṛte_ tattvam_tattva_SNNe jñāyate_jñā_SPr3InPv sādhu_sādhu_SNNe kiṃcana_kaścana"
+  },
+  {
+    "index": 8102,
+    "sanskrit": "sarvā hi śabdārthadṛśo brahmaivaitāḥ pṛthaṅga tat / sarvārthaśabdārthakalārūpamāsāṃ na vidyate //",
+    "english": "That which has an insight or intuitive knowledge of all things, which are expressed by words and their meanings, is Brahma—the soul and no other; and nothing that is meant by any significant term, has a different form of its own.",
+    "morphology": "sarvāḥ_sarva_PNF hi_hi_ śabda_śabda_Cp artha_artha_Cp dṛśaḥ_dṛś_PNF brahma_brahman_SNNe eva_eva_ etāḥ_etad_PNF pṛthak_pṛthak_ ga_ga_ tat_tad_SNNe  / sarva_sarva_Cp artha_artha_Cp śabda_śabda_Cp artha_artha_Cp kalā_kalā_Cp rūpam_rū"
+  },
+  {
+    "index": 8103,
+    "sanskrit": "nanu ca bhavatu nāma mānasam tathāpyabhrāntagrahaṇaṃ kartavyam eva, nahyanenendriyajñānasyaiva pratyakṣalakṣaṇaṃ kartumārabdham, kiṃ tarhi/",
+    "english": "because what the person propounding the definition under review wanted to do was not to provide a definition of only that ‘Sense-perception’ which is brought about by the Sense-organs, but also of that Sense-perception which appears in the Mystic and which is purely mental;",
+    "morphology": "nanu_nanu_ ca_ca_ bhavatu_bhū_SPr3Im nāma_nāma_ mānasam_mānasa_SNNe tathā_tathā_ api_api_ abhrānta_abhrānta_Cp grahaṇam_grahaṇa_SNNe kartavyam_kṛ_SNNeGd eva_eva_ na_na_ hi_hi_ anena_idam_SIM indriya_indriya_Cp jñānasya_jñāna_SGNe eva_eva"
+  }
+]

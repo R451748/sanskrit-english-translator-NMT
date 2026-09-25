@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18056,
+    "sanskrit": "tasya tejaḥ mayaḥ sūryaḥ manaḥ candramasi sthitam",
+    "english": "The light of His eye is the Sun, and His mind is in the Moon.",
+    "morphology": "tasya_tad_SGM tejaḥ_tejas_NeCp mayaḥ_maya_SNM sūryaḥ_sūrya_SNM manaḥ_manas_SNNe candramasi_candramas_SLM sthitā_sthā_SNPaPsF"
+  },
+  {
+    "index": 18057,
+    "sanskrit": "jātīnām apyanityatvam akāmasyāpi te bhavet //",
+    "english": "The several particles used here are to be taken as serving the purpose of introduction.",
+    "morphology": "jātīnām_jāti_PGF api_api_ anitya_anitya_Cp tvam_tva_SNNe akāmasya_akāma_SGM api_api_ te_tvad_SG"
+  },
+  {
+    "index": 18058,
+    "sanskrit": "yama uvāca | evamastviti tāṃ prāha cānyaṃ varaya satvaram | dadāmi varamutkṛṣṭaṃ gānena toṣitosmyaham || 20 ||",
+    "english": "Yama said: 20. Let it be so. Further, ask quickly for another boon as well. Delighted by your song, I shall grant you another boon also.",
+    "morphology": "yamaḥ_yama_SNM uvāca_vac_SPs3In  / evam_evam_ astu_as_SPr3Im iti_iti_ tām_tad_SAF prāha_prāh_SPs3In ca_ca_ anyam_anya_SAM varaya_varay_SPr2Im satvaram_satvara_SANe  / dadāmi_dā_SPr1In varam_vara_SAM utkṛṣṭam_utkṛṣṭa_SAM gānena_gāna_SI"
+  },
+  {
+    "index": 18059,
+    "sanskrit": "tam ced na yajase rājan prāptaḥ tvam deva kilbiṣam",
+    "english": "If thou dost not perform that sacrifice, O king, then the sins of this kingdom shall all be thine.",
+    "morphology": "tam_tad_SAM ced_ced_U na_na_U yajase_yaj_SPr2In rājan_rājan_SVM"
+  },
+  {
+    "index": 18060,
+    "sanskrit": "samastasyāprabuddhasya manojātasya kasyacit / bījaṃ vinā mṛṣaiveyaṃ mithyārūḍhimupāgatā //",
+    "english": "So the knowledge of the reality of all things, in the minds of the un-enlightened; is dispersed upon conviction of their unreality in the minds of the enlightened.",
+    "morphology": "samastasya_samasta_SGNe aprabuddhasya_aprabuddha_SGNe manaḥ_manas_Cp jātasya_jāta_SGNe kasyacid_kaścit_SGNe  / bījam_bīja_SANe vinā_vinā_ mṛṣā_mṛṣā_ eva_eva_ iyam_idam_SNF mithyā_mithyā_ ārūḍhim_ārūḍhi_SAF upāgatā_upāgam_SNP"
+  },
+  {
+    "index": 18061,
+    "sanskrit": "yaṣṭavyo vidhinā yajño niṣkāmāya sa sāttvikaḥ /",
+    "english": "The sacrificial rite is said to be sāttvika if it is performed as laid down without desiring reward.",
+    "morphology": "yaṣṭavyaḥ_yaj_SNMGd vidhinā_vidhi_SIM yajñaḥ_yajña_SNM niṣkāmāya_niṣkāma_SDM sa_tad_SNM sāttvikaḥ_sāttvika_SNM  /"
+  },
+  {
+    "index": 18062,
+    "sanskrit": "brahmaṇodhipatisso'pi harerapi maheśvaraḥ | avamānyā na vai tasya śāsanā dānavarṣabha ||",
+    "english": "28. He is the overlord of Brahmā. He is lord Śiva even into Viṣṇu. O excellent Dānava, his behest should never be slighted.",
+    "morphology": "brahmaṇaḥ_brahman_SGM adhipatiḥ_adhipati_SNM saḥ_tad_SNM api_api_ hareḥ_hari_SGM api_api_ maheśvaraḥ_maheśvara_SNM  / avamānyāḥ_avaman_PNMGd na_na_ vai_vai_ tasya_tad_SGM śāsanā_śāsana_SINe dānava_dānava_Cp ṛṣabha_ṛṣabha_SV"
+  },
+  {
+    "index": 18063,
+    "sanskrit": "tathā hi / kleśādhipatyena karma janmākṣipati /",
+    "english": "Accordingly the acts project individual existence [i.e. a new birth] by the predominance of passion.",
+    "morphology": "tathā_tathā_ hi_hi_  / kleśa_kleśa_Cp ādhipatyena_ādhipatya_SINe karma_karman_SNNe janma_janman_SANe ākṣipati_ākṣip_SPr3In "
+  }
+]

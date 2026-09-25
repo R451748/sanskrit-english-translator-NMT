@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36584,
+    "sanskrit": "tr̥ṣu yat annā tr̥ṣuṇā vavakṣa tr̥ṣum dūtam kr̥ṇute yahvaḥ agniḥ vātasya mel̥im sacate ni jūrvan āśum na vājayate hinve arvā",
+    "english": "When he hath borne off food with swift flame swiftly, strong Agni makes himself a speedy envoy, Follows the rustling of the wind, consuming, and courser-like, speeds, drives the swift horse onward.",
+    "morphology": "tr̥ṣu_tri_PANe yat_yat_U annā_anna_PANe tr̥ṣuṇā_tr̥ṣu_SIM vavakṣa_vakṣ_SPs3In tr̥ṣum_tr̥ṣu_SAM dūtam_dūta_SAM kr̥ṇute_kṛ_SPr3In yahvaḥ_yahva_SNM agniḥ_agni_SNM vātasya_vāta_SGM mel̥im_mel̥i_SAF sacate_sac_SPr3In ni_ni_"
+  },
+  {
+    "index": 36585,
+    "sanskrit": "bhāvābhāvau kathañcitsadātmakau kathañcid upalabhyatvāt / atra na sādharmyavaidharmyadṛṣṭāntau bahirbhūtau prayogātmakāvarthātmakau vā vidyete /",
+    "english": "The Reasoning is in the form ‘Positive and Negative entities are somehow existent, because they are apprehensible somehow’, In this case there are no external corroborative Instances, either of similarity or dissimilarity, either in the form of a statement or in the form of actual things;",
+    "morphology": "bhāva_bhāva_Cp abhāvau_abhāva_DuNM kathañcid_kathaṃcid_ sat_as_PaPrCp ātmakau_ātmaka_DuNM kathañcid_kathaṃcid_ upalabhya_upalabh_GdCp tvāt_tva_SBNe  / atra_atra_ na_na_ sādharmya_sādharmya_Cp vaidharmya_vaidharmya_Cp dṛṣṭāntau_dṛṣ"
+  },
+  {
+    "index": 36586,
+    "sanskrit": "tatas śara sahasreṇa droṇam vivyādha pārthivaḥ",
+    "english": "The son of Pandu then pierced Drona with his steeds, driver, standard, and car, with a thousand arrows.",
+    "morphology": "tatas_tatas_U śara_śara_MCp sahasreṇa_sahasra_SINe droṇam_droṇa_SAM vivyādha_vyadh_SPs3In"
+  },
+  {
+    "index": 36587,
+    "sanskrit": "tadyuddham abhavad ghoraṃ devadānavasaṃkulam / kṣamāparākramamayaṃ darpasya vinayasya ca //",
+    "english": "That encounter, between the gods and demons displaying humility and pride, forgiveness and prowess, grew exceedingly dreadful.",
+    "morphology": "tat_tad_SNNe yuddham_yuddha_SNNe abhavat_bhū_S3ImIn ghoram_ghora_SNNe deva_deva_Cp dānava_dānava_Cp saṃkulam_saṃkula_SNNe  / kṣamā_kṣamā_Cp parākrama_parākrama_Cp mayam_maya_SNNe darpasya_darpa_SGM vinayasya_vinaya_SGM ca_ca_  /"
+  },
+  {
+    "index": 36588,
+    "sanskrit": "jāta mātraṃ haniṣyāmīty uktvāste bhaya vihvalaḥ paśyan sarvatra ca hariṃ pūrva śatruṃ vicintayan",
+    "english": "As soon as He is born I will kill Him. Saying this, looking in all directions, and thinking of his former enemy Lord Hari, he became filled with fear.",
+    "morphology": "jāta_jan_PaCp mātram_mātra_SAM haniṣyāmi_han_SFu1In iti_iti_ uktvā_vac_Co āste_ās_SPr3In bhaya_bhaya_Cp vihvalaḥ_vihvala_SNM paśyan_dṛś_SNPaPrM sarvatra_sarvatra_ ca_ca_ harim_hari_SAM śatrum_śatru_SAM vicintayan_vicintay_SNPaPrM"
+  },
+  {
+    "index": 36589,
+    "sanskrit": "divyena vidhinā pārtha tat śṛṇuṣva a vicārayan",
+    "english": "Listen.",
+    "morphology": "divyena_divya_SIM vidhinā_vidhi_SIM pārtha_pārtha_SVM"
+  },
+  {
+    "index": 36590,
+    "sanskrit": "ananya viṣayatvena sthānamukthyādiṣu sthitam /",
+    "english": "Reply It is not so because before the particular position of the Hish has been duly ascertained, the Saubhara cannot be laid down as accomplished by it and then, what you say would involve a mutual inter dependence the position of the Hish being ascertained by the fact of its helping in the accomplishment of the Saubhara, and this latter fact being based upon that position of the Hish.",
+    "morphology": "an_an_U anya_anya_Cp viṣaya_viṣaya_Cp tvena_tva_SINe sthāna_sthāna_SNNe ukthya_ukthya_Cp ādiṣu_ādi_PLM sthita_SNPaPsNe  /"
+  },
+  {
+    "index": 36591,
+    "sanskrit": "tadyūyamavilaṃbyeha yudhyadhvamaribhissaha | vīraistaiḥ pramathaivīrāḥ smṛtvā gurupadāṃbujam ||",
+    "english": "11. Hence do not waste time. Fight with the enemy, the heroic Pramathas, after remembering the lotus-like feet of the preceptor.",
+    "morphology": "tat_tad_SANe yūyam_tvad_PN a_a_ vilaṃbya_vilamb_Co iha_iha_ yudhyadhvam_yudh_PPr2Im aribhiḥ_ari_PIM saha_saha_  / vīraiḥ_vīra_PIM taiḥ_tad_PIM smṛtvā_smṛ_Co"
+  }
+]

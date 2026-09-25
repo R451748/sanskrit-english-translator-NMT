@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12088,
+    "sanskrit": "ekatra cira vāsaḥ hi na prīti jananaḥ bhavet",
+    "english": "To reside in one place for any length of time is scarcely pleasant.",
+    "morphology": "ekatrā_ekatra_U"
+  },
+  {
+    "index": 12089,
+    "sanskrit": "tasmāt catuṣṭaye tasmin pradhānaḥ daṇḍaḥ ucyate",
+    "english": "Hence, of the four requisites of rule, viz., Conciliation, Gift, Disunion, and Chastisement, Chastisement is said to be the foremost.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 12090,
+    "sanskrit": "sa sūta aśva dhvajam tasya syandanam tam ca māriṣa ācitam samapaśyāma śvāvidham śalalaiḥ iva",
+    "english": "Himself, his standard, and his car, O sire, were seen by us covered with shafts like (trees overwhelmed with) flights of locusts.",
+    "morphology": "sa_tad_SNM sūta_sūta_MCp aśva_aśva_MCp dhvajam_dhvaja_SAM tasya_tad_SGM syandanam_syandana_SAM tam_tad_SAM ca_ca_U māriṣa_māriṣa_MCp ācitam_āci_SAPaPsM samapaśyāma_saṃpaṇṇā_SNF"
+  },
+  {
+    "index": 12091,
+    "sanskrit": "kecidgomayabhakṣāśca jalāhārāstathā pare | sāgnihotrāḥ suvidvāṃso mokṣamārgārthacintakāḥ || 22 ||",
+    "english": "22. Some subsisted on cow-dung (Pañca-gavya?) and some on mere water. All were excellent scholars performing Agnihotra rites. They pondered over matters pertaining to salvation.",
+    "morphology": "kecid_kaścit_PNM gomaya_gomaya_Cp bhakṣāḥ_bhakṣa_PNM ca_ca_ jala_jala_Cp āhārāḥ_āhāra_PNM tathā_tathā_ pare_para_PNM  / sa_sa_ agnihotrāḥ_agnihotra_PNM su_su_ vidvāṃsaḥ_vidvas_PNM"
+  },
+  {
+    "index": 12092,
+    "sanskrit": "vijñaptiṃ śṛṇu matprītyā svadāsasya mamādhunā | tava devājñayā tāta dīnatvādvarṇayāmi hi || sabhāgyohaṃ mahādeva prasādāttava śaṃkara | matvā svadāsaṃ māṃ nātha kṛpāṃ kuru namo'stu te ||",
+    "english": "20. Please listen to my entreaty with a long heart. I am your slave. O dear lord, in humility I shall explain the same to you. 21. O great god Śiva, by your favour I feel most fortunate. O lord, consider me your slave and be sympathetic towards me. Obeisance to you.",
+    "morphology": "vijñaptim_vijñapti_SAF śṛṇu_śru_SPr2Im mad_mad_Cp prītyā_prīti_SIF sva_sva_Cp dāsasya_dāsa_SGM mama_mad_SG adhunā_adhunā_  / tava_tvad_SG deva_deva_Cp ājñayā_ājñā_SIF tāta_tāta_SVM dīna_dīna_Cp tvāt_tva_SBNe varṇayāmi_varṇay_"
+  },
+  {
+    "index": 12093,
+    "sanskrit": "śrīrāma uvāca / kathamasyātilolasya vego vegaikakāraṇam / calatā manaso brahmanbalato vinivāryate //",
+    "english": "Rama said:—Tell me sir, why the mind is identified with momentum, and what is the cause of its velocity; tell me also; if there is any other force to impede the motion of the mind.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / katham_katham_ asya_idam_SGM ati_ati_ lolasya_lola_SGM vegaḥ_vega_SNM vega_vega_Cp eka_eka_Cp kāraṇam_kāraṇa_SNNe  / calatā_cal_SIPaPrNe manasaḥ_manas_SGNe brahman_brahman_SVM balataḥ_bala"
+  },
+  {
+    "index": 12094,
+    "sanskrit": "dāne rata tvam satyam ca ahiṃsā priyam eva ca",
+    "english": "Truth is (sometimes) more praiseworthy than some acts of charity;",
+    "morphology": "dāne_dāna_SLNe"
+  },
+  {
+    "index": 12095,
+    "sanskrit": "yatra yatra bhavedyajñaḥ satraṃ 'pyutsavo'thavā | tatra gatvā niśāyoge prakurvaṃti janakṣayam || 7 ||",
+    "english": "7. Wherever there was any Yajña, Sattra or religious festivities, they went there at nightfall and carried on annihilation of those people.",
+    "morphology": "yatra_yatra_ yatra_yatra_ bhavet_bhū_SPr3O yajñaḥ_yajña_SNM satram_sattra_SNNe api_api_ utsavaḥ_utsava_SNM athavā_athavā_  / tatra_tatra_ gatvā_gam_Co niśā_niśā_Cp yoge_yoga_SLM prakurvanti_prakṛ_PPr3In jana_jana_Cp kṣayam_kṣaya_SAM"
+  }
+]

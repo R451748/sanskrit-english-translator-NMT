@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14840,
+    "sanskrit": "na ca bhīṣmasya durmedhāḥ śṛṇoti vidurasya vā",
+    "english": "That wretch of wicked understanding listeneth not in the least to the counsels of Bhishma or Vidura or mine.",
+    "morphology": "na_na_ ca_ca_ bhīṣmasya_bhīṣma_SGM durmedhāḥ_durmedhas_SNM śṛṇoti_śru_SPr3In vidurasya_vidura_SGM vā_vā_"
+  },
+  {
+    "index": 14841,
+    "sanskrit": "śaktim kanaka vaiḍūrya bhūṣitām āyasīm dṛḍhām yama daṇḍa upamām ghorām prāhiṇot sātyakāya vai",
+    "english": "And he then hurled at his foe, in that dreadful battle, a tough dart, made wholly of iron, decked with gold and stones of lapis lazuli, and fierce as the rod of Yama himself.",
+    "morphology": "śaktim_śakti_SAF kanaka_kanaka_NeCp vaiḍūrya_vaiḍūrya_NeCp bhūṣitām_bhūṣay_SAPaPsF āyasīm_āyasa_SAF dṛḍhām_dṛḍha_SAF yama_yama_MCp daṇḍa_daṇḍa_MCp upamām_upama_SAF ghorām_ghora_SAF prāhiṇot_prahi_SPs3In sātyakāya_s"
+  },
+  {
+    "index": 14842,
+    "sanskrit": "siddhānte tu prakṛtitulya mevānuṣṭhānamiti",
+    "english": "Inasmuch as the word juhoti is mentioned but once, the action.",
+    "morphology": "siddhānte_siddhānta_SLM tu_tu_ prakṛti_prakṛti_Cp tulyam_tulya_SNNe eva_eva_ anuṣṭhānam_anuṣṭhāna_SNNe iti_iti_"
+  },
+  {
+    "index": 14843,
+    "sanskrit": "parā dehi śāmulyam brahma bhyaḥ vi bhaja vasu kr̥tyā eṣā pat vatī bhūtvī ā jāyā viśate patim",
+    "english": "Give thou the woollen robe away: deal treasure to the Brahman priests. This female fiend hath got her feet, and as a wife attends her lord.",
+    "morphology": "parā_parā_U dehi_dā_SPr2Im śāmulyam_śāmulya_SANe brahma_brahman_PDM vi_vi_U bhaja_bhaj_SPr2Im vasu_vasu_SANe kr̥tyā_krīti_SIF eṣā_etad_SNF pat_pat_Cp vatī_vat_SNF bhūtvī_bhū_Co ā_ā_U jāyā_jāyā_SNF viśate_viś_SPr3In patim_pati_SAM"
+  },
+  {
+    "index": 14844,
+    "sanskrit": "tadaiṣā kvāpi yāsyāmi kimatrāstyekayā mama | tapasyate ca saubhāgyamarjanīyaṃ mayādhunā || 15 ||",
+    "english": "15. Therefore, I shall go somewhere. What is (to be done) here by me alone and single. Now marital felicity should be acquired by me by performing penance.",
+    "morphology": "tadā_tadā_ eṣā_etad_SNF kvāpi_kvāpi_ yāsyāmi_yā_SFu1In kim_ka_SNNe atra_atra_ asti_as_SPr3In ekayā_eka_SIF mama_mad_SG  / tapasyate_tapasy_SDPaPrM ca_ca_ saubhāgyam_saubhāgya_SNNe arjanīyam_ṛj_SNNeGd mayā_mad_SI adhunā_adhunā_"
+  },
+  {
+    "index": 14845,
+    "sanskrit": "prāṇāyāmāṃścaranvipro niyateṃdriya mānasaḥ | ahorātrakṛtaiḥ pāpairmukto bhavati tatkṣaṇāt || 16 ||",
+    "english": "116. A Brāhmaṇa with his mind and sense-organs under control repeating the Prāṇāyāma regularly, shall be rid of all the sins committed during that day and night instantaneously.",
+    "morphology": "prāṇāyāmān_prāṇāyāma_PAM caran_car_SNPaPrM vipraḥ_vipra_SNM niyata_niyam_PaCp iṃdriya_indriya_SVM mānasaḥ_mānasa_SNM  / ahorātra_ahorātra_Cp kṛtaiḥ_kṛ_PIPaNe pāpaiḥ_pāpa_PINe muktaḥ_muc_SNPaM bhavati_bhū_SPr3In tad_tad_Cp "
+  },
+  {
+    "index": 14846,
+    "sanskrit": "jagrāha ca mahā śaktim girīṇām api dāraṇīm",
+    "english": "And he took up a huge dart that was capable of piercing even a mountain.",
+    "morphology": "jagrāha_grah_SPs3In ca_ca_U mahā_mahat_Cp śaktim_śakti_SAF"
+  },
+  {
+    "index": 14847,
+    "sanskrit": "tataḥ kṣayamanuprāpte vaṃśe kurusamudbhave | vicitravīryamāsādya pārthivaṃ dvijasattamāḥ || 6 ||",
+    "english": "6-7. Once the Kuru race became extinct ending with King Vicitravīrya, O excellent Brāhmaṇas.",
+    "morphology": "tatas_tatas_ kṣayam_kṣaya_SAM anuprāpte_anuprāp_SLPaM vaṃśe_vaṃśa_SLM kuru_kuru_Cp samudbhave_samudbhava_SLM  / vicitravīryam_vicitravīrya_SAM āsādya_āsāday_Co pārthivam_pārthiva_SAM dvijasattamāḥ_dvijasattama_PNM  /"
+  }
+]

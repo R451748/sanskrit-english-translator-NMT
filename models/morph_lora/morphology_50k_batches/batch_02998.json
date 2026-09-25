@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23976,
+    "sanskrit": "adhīhyadhīṣva bhagavā bha vinniti kilopasasāda /",
+    "english": "‘Teach me, Revered Sir’thus did Nārada approach Sanatkumāra",
+    "morphology": "adhīhi_adhī_SPr2Im adhīṣva_adhī_SPr2Im bhagavān_bhagavat_SNM"
+  },
+  {
+    "index": 23977,
+    "sanskrit": "dvādaśaāḍhakaṃ piṣṭasya pañca prasthāḥ kiṇvasya kramukatvakphalayukto vā jātisambhāraḥ prasannāyogaḥ //",
+    "english": "Twelve ádhakas of flour pishta, five prasthas of kinva ferment, with the addition of spices játisambhára together with the bark and fruits of putraká a species of tree constitute prasanná",
+    "morphology": "dvādaśa_dvādaśan_Cp āḍhakam_āḍhaka_SNNe piṣṭasya_piṣṭa_SGNe pañca_pañcan_PNM prasthāḥ_prastha_PNM kiṇvasya_kiṇva_SGM kramuka_kramuka_Cp tvac_tvac_Cp phala_phala_Cp yuktaḥ_yuj_SNPaM vā_vā_ jāti_jāti_Cp sambhāraḥ_sambhāra"
+  },
+  {
+    "index": 23978,
+    "sanskrit": "tat su naḥ śarma yacchata ādityāḥ yat mumocati enasvantam cit enasaḥ su dānavaḥ",
+    "english": "Now, O Âdityas, grant to us the shelter that lets man go free, Yea, even the sinner from his sin, ye Bounteous Gods!",
+    "morphology": "tat_tad_SANe su_su_U naḥ_mad_PD śarma_śarman_SANe yacchata_yam_PPr2Im ādityāḥ_āditya_PVM yat_yad_SANe mumocati_muc_SPs3Su enasvantam_enasvat_SAM cit_cit_U enasaḥ_enas_SBNe"
+  },
+  {
+    "index": 23979,
+    "sanskrit": "na etat khādan prāpsyase prāṇam anyam",
+    "english": "Do thou seek for some other kind of alms.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 23980,
+    "sanskrit": "vārāṇasīpatis tv eṣa brahmadatto durāśayaḥ / jāne vyabhicaraty eko viśvāsaḥ kuṭileṣu kaḥ //",
+    "english": "But this King of Benares, Brahmadatta, is an ill-conditioned fellow, and he alone, I think, will plot against me;",
+    "morphology": "vārāṇasī_vārāṇasī_Cp patiḥ_pati_SNM tu_tu_ eṣa_etad_SNM brahmadattaḥ_brahmadatta_SNM durāśayaḥ_durāśaya_SNM  / jāne_jñā_SPr1In vyabhicarati_vyabhicar_SPr3In ekaḥ_eka_SNM viśvāsaḥ_viśvāsa_SNM kuṭileṣu_kuṭila_PLM kaḥ_"
+  },
+  {
+    "index": 23981,
+    "sanskrit": "tatraitat syāt mānasam idaṃ jñānaṃ sugandhibandhūkabodhavad bhaviṣyati / uktam atra śabdaliṅgādikaraṇāntaravyāpāraviratau kāryam upajāyamānaṃ kevalamanaḥkaraṇam iti kalpyate na tatsaṃbhave 'pi /",
+    "english": "When a word or a mark or a similar source of knowledge fails to discharge its function as an instrumental cause and an effect in the shape of a judgment arises in our mind we entertain a hypothesis that the inner organ plays the part of an instrumental cause to generate it. But if the possibility of a source of knowledge as an instrumental cause is not ruled out then the causality of the inner organ should not be relied upon.",
+    "morphology": "tatra_tatra_ etat_etad_SNNe syāt_as_SPr3O mānasam_mānasa_SNNe idam_idam_SNNe jñānam_jñāna_SNNe sugandhi_sugandhi_Cp bandhūka_bandhūka_Cp bodha_bodha_Cp vat_vat_ bhaviṣyati_bhū_SFu3In  / uktam_vac_SNPaNe atra_atra_ śabda_śabda_Cp liṅga_liṅ"
+  },
+  {
+    "index": 23982,
+    "sanskrit": "sa jīvastac-charīram-",
+    "english": "that which is soul, that is (also) the body,",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 23983,
+    "sanskrit": "vasiṣṭhena abhyanujñātaḥ tasmin eva dharādhare saḥ akāmayata rājarṣiḥ vihartum saha bhāryayā",
+    "english": "The royal sage, with the permission of Vasishtha, desired to sport with his wife on that mountain.",
+    "morphology": "vasiṣṭhena_vasiṣṭha_SIM abhyanujñātaḥ_abhyanujñā_SNPaPsM tasmin_tad_SLM eva_eva_U dharādhare_dharādhara_SLM saḥ_tad_SNM akāmayata_kāmay_SPs3In rājarṣiḥ_rājarṣi_SNM vihartum_vihṛ_In saha_saha_U bhāryayā_bhāryā_SIF"
+  }
+]

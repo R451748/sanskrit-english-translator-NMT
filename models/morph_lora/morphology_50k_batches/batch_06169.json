@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49344,
+    "sanskrit": "dhanvadurgaṃ mahīdurgam abdurgaṃ vārkṣam eva vā / nṛdurgaṃ giridurgaṃ vā samāśritya vaset puram //",
+    "english": "He shall live in a city, taking up his residence either in a \"bowfort\" , or in an \"earthen fort\" , or in an \"aquatic fort,\" or in an \"arborial fort,\" or in a \"human fort,\" or in a \"hilly fort\" 0.",
+    "morphology": "dhanva_dhanvan_Cp durgam_durga_SANe mahī_mahī_Cp durgam_durga_SANe ap_ap_Cp durgam_durga_SANe vārkṣam_vārkṣa_SANe eva_eva_ vā_vā_  / nṛ_nṛ_Cp durgam_durga_SANe giri_giri_Cp durgam_durga_SANe vā_vā_ samāśritya_samāśri_Co vaset_vas_SPr3O "
+  },
+  {
+    "index": 49345,
+    "sanskrit": "sattvamātraṃ samālokya kāścidevamupāgatāḥ / jātājātā nikhanyante kṛtāntajaraṭhākhunā //",
+    "english": "Some have come to being only with their bodies (without any share of understanding); and they know not that death has been undermining the fabric of their bodies, as a mouse burrows a house.",
+    "morphology": "sattva_sattva_Cp mātram_mātra_SANe samālokya_samālokay_Co kāścid_kaścit_PNF evam_evam_ upāgatāḥ_upāgam_PNPaF  / jāta_jan_PaCp ajātāḥ_ajāta_PNF nikhanyante_nikhan_PPr3InPv kṛtānta_kṛtānta_Cp jaraṭha_jaraṭha_Cp ākhunā_ākhu_SIM "
+  },
+  {
+    "index": 49346,
+    "sanskrit": "svārambhakāṇām avayavānāṃ saṃniveśaḥ pracayātmakaḥ saṃyogaḥ /",
+    "english": "‘Arrangement of component parts’; the ‘arrangement’, i.e. conjunction in the form of ‘aggregation’, of the parts that go to make up the Things;",
+    "morphology": "sva_sva_Cp ārambhakāṇām_ārambhaka_PGM avayavānām_avayava_PGM saṃniveśaḥ_saṃniveśa_SNM pracaya_pracaya_Cp ātmakaḥ_ātmaka_SNM saṃyogaḥ_saṃyoga_SNM  /"
+  },
+  {
+    "index": 49347,
+    "sanskrit": "na vyāpāraḥ parokṣatvāt /",
+    "english": "This counter-thesis does not stand to reasons.",
+    "morphology": "na_na_ vyāpāraḥ_vyāpāra_SNM parokṣa_parokṣa_Cp tvāt_tva_SBNe"
+  },
+  {
+    "index": 49348,
+    "sanskrit": "atha utathyaḥ iti khyātaḥ āsīt dhīmān ṛṣiḥ purā",
+    "english": "There was in olden days a wise Rishi of the name of Utathya.",
+    "morphology": "atha_atha_U utathyaḥ_utathya_SNM iti_iti_U khyātaḥ_khyā_SNPaPsM āsīḥ_as_SPs3In"
+  },
+  {
+    "index": 49349,
+    "sanskrit": "evam ete mahā rāja tāvakāḥ pāṇḍavaiḥ saha",
+    "english": "It was thus, O king, that those chastisers of foes, viz., thy troops and the Pandavas, ceased to fight when darkness came.",
+    "morphology": "evam_evam_U ete_etad_PNM mahā_mahat_Cp rāja_rāja_SVM tāvakāḥ_tāvaka_PNM pāṇḍavaiḥ_pāṇḍava_PVM hanta_hanta_PVM"
+  },
+  {
+    "index": 49350,
+    "sanskrit": "prerakatvaṃ ca vasiṣṭha āha 'dve bīje cittavṛkṣasya vṛttivratatidhāriṇaḥ / ekaṃ prāṇaparispando dvitīyaṃ dṛḍhavāsanā //",
+    "english": "Their exciting nature is described by Vasistha thus : \"The mind, as it were, like a tree with climbing plants of transformation, has two seeds — one is the vital energy and the second is the strong desire .",
+    "morphology": "preraka_preraka_Cp tvam_tva_SANe ca_ca_ vasiṣṭhaḥ_vasiṣṭha_SNM āha_ah_SPs3In a_a_ dve_dvi_DuNNe bīje_bīja_DuNNe citta_citta_Cp vṛkṣasya_vṛkṣa_SGM vṛtti_vṛtti_Cp vratati_vratati_Cp dhāriṇaḥ_dhārin_SGM  / ekam_eka_SNNe prāṇa"
+  },
+  {
+    "index": 49351,
+    "sanskrit": "devāḥ ūcuḥ pramarditānām vṛtreṇa devānām deva sattama",
+    "english": "And the gods said, 'O best of gods, O foremost of celestials, be thou the refuge of the gods now crushed by Vritra.",
+    "morphology": "devāḥ_deva_PNM ūcuḥ_vac_PPs3In pramarditānām_pramarday_PGPaPsM"
+  }
+]

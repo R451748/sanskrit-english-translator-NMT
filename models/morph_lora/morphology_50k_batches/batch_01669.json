@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13344,
+    "sanskrit": "prakāśena abhivikhyātau tvam tu khadyota vat nṛṣu",
+    "english": "Thou, however, art like a fire-fly among men.",
+    "morphology": "prakāśena_prakāśa_SIM"
+  },
+  {
+    "index": 13345,
+    "sanskrit": "“yatra yatropapadyāmi mātā-pitroḥ śuśrūṣāṃ kuryām aham iti!",
+    "english": "“Wherever I am reborn may I be of service to my mother and father!",
+    "morphology": "__yatra_U __yatra_U __upapad_SPr1In __mātā_U __pitṛ_U __śuśrūṣā_U kuryām_kṛ_SPr1O __mad_U"
+  },
+  {
+    "index": 13346,
+    "sanskrit": "saṃdhātum vā śakṣyasi mānava indra rājā uvāca ikṣvākavaḥ paśyata mām gṛhītam",
+    "english": "Ye lords of earth, behold my prowess now.' And at these words of Dala, Vamadeva said, 'This arrow of terrible mien and tempered with poison, that thou aimest at me, thou shall not, O ruler of men, be able to aim nor even to shoot.' And thereupon the king said, 'Ye men of Ikshvaku's race, behold me incapable of shooting the arrow that hath been taken up by me.",
+    "morphology": "saṃdhātum_saṃdhā_In vā_vā_U śakṣyasi_śak_SFu2In mānava_mānava_SVM indra_indra_SVM rājā_rājan_SNM uvāca_vac_SPs3In ikṣvākavaḥ_ikṣvāku_PVM paśyata_paś_PPr2Im mām_mad_SA gṛhītam_grah_SAPaPsM"
+  },
+  {
+    "index": 13347,
+    "sanskrit": "yasmāt pareṇa duḥkhaṃ nāsti /",
+    "english": "Suffering beyond which there is no more suffering.",
+    "morphology": "yasmāt_yasmāt_ pareṇa_para_SIM duḥkham_duḥkha_SNNe na_na_ asti_as_SPr3In  /"
+  },
+  {
+    "index": 13348,
+    "sanskrit": "upayāmam adhareṇoṣṭhena sad uttareṇa |",
+    "english": "support with the lower lip; the existent with the upper;",
+    "morphology": "upayāmam_upayāma_SAM adhareṇa_adhara_SIM uṣṭhena_uṣṭha_SIM sat_as_SNPaPrNe saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM saḥ_tad_SNM"
+  },
+  {
+    "index": 13349,
+    "sanskrit": "munayaḥ kathito vo'yaṃ mahāvedīmahotsavaḥ | yasya saṃkīrttanādeva nirmalo jāyate naraḥ || 21 ||",
+    "english": "21. O sages, this great festival of the Great Altar has been described to you. By glorifying this a man becomes free from impurities (and sins).",
+    "morphology": "munayaḥ_muni_PVM kathitaḥ_kathay_SNPaM vaḥ_tvad_PA ayam_idam_SNM mahā_mahat_Cp vedī_vedi_Cp mahā_mahat_Cp utsavaḥ_utsava_SNM  / yasya_yad_SGM saṃkīrttanāt_saṃkīrtana_SBNe eva_eva_ nirmalaḥ_nirmala_SNM jāyate_jan_SPr3In naraḥ_nara_SNM"
+  },
+  {
+    "index": 13350,
+    "sanskrit": "yathā dīpaḥ prakāśa ātmā hrasvaḥ vā yadi vā mahān jñāna ātmānam tathā vidyāt puruṣam sarva jantuṣu",
+    "english": "As a lamp discovers all objects great or small (irrespective of its own size), after the same manner the Soul dwells in all creatures as the principle of knowledge (regardless of the attributes or accidents of those creatures).",
+    "morphology": "yathā_yathā_U dīpaḥ_dīpa_SNM prakāśa_prakāśa_MCp ātmā_ātman_SNM hrasvaḥ_hrasva_SNM vā_vā_U yadi_yadi_U vā_vā_U mahān_mahat_SNM jñāna_jñāna_NeCp ātmānam_ātman_SAM tathā_tathā_U vidyāt_vid_SPr3O puruṣam_puruṣa_SAM sarva_sarv"
+  },
+  {
+    "index": 13351,
+    "sanskrit": "sa tam hasati tejasvī tad annam upayujya ca āsādya tu vanam tasya rakṣasaḥ pāṇḍavaḥ balī ājuhāva tatas nāmnā tat annam upayojayan",
+    "english": "The mighty son of Pandu, approaching the forest where the Rakshasa dwelt, began to eat himself the food he carried, calling loudly to the Rakshasa by name.",
+    "morphology": "sa_tad_SNM tam_tad_SAM hasati_has_SPr3In tejasvī_tejasvin_SNM tad_tad_Cp annam_anna_SANe upayujya_upayuj_Co ca_ca_U āsādya_āsāday_Co tu_tu_U vanam_vana_SANe tasya_tad_SGNe rakṣasaḥ_rakṣas_SGNe pāṇḍavaḥ_pāṇḍava_SNM balī_balin_SNM āj"
+  }
+]

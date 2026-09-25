@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12512,
+    "sanskrit": "indram vaḥ viśvatas pari havāmahe janebhyaḥ / asmākam astu kevalaḥ //",
+    "english": "For you, from every side, we call Indra away from other men: Ours, and none others,’ let him be.",
+    "morphology": "indram_indra_SAM vaḥ_tvad_PD viśvatas_viśvatas_U pari_pari_U havāmahe_hvā_PPr1In janebhyaḥ_jana_PDM  / asmākam_mad_PG_PGM astu_as_SPr3Im kevalaḥ_kevala_SNM  /"
+  },
+  {
+    "index": 12513,
+    "sanskrit": "saḥ upahūtaḥ antarikṣe bhakṣayati upahūtaḥ tasmin yat divi viśva rūpam // saḥ upahūtaḥ divi bhakṣayati upahūtaḥ tasmin yat divi viśva rūpam // saḥ upahūtaḥ deveṣu bhakṣayati upahūtaḥ tasmin yat divi viśva rūpam //",
+    "english": "He having been invited in the sky, regales, invited, in that which wears all various forms in the sky. He, having been invited among the gods, regales, invited in that which wears all various forms among the Gods.",
+    "morphology": "saḥ_tad_SNM upahūtaḥ_upahvā_SNPaPsM antarikṣe_antarikṣa_SLNe bhakṣayati_bhakṣay_SPr3In upahūtaḥ_upahvā_SNPaPsM tasmin_tad_SLM yat_yad_SNNe divi_div_SLM viśva_viśva_Cp rūpam_rūpa_SNNe  // saḥ_tad_SNM upahūtaḥ_upahvā_SNPaPsM divi_"
+  },
+  {
+    "index": 12514,
+    "sanskrit": "bhāvāḥ ca sarve nyak bhūtāḥ tatra eva āsan samāgatāḥ ṛtavaḥ sarva puṣpaiḥ ca vyakiranta mahā adbhutaiḥ",
+    "english": "All the Seasons were present there and scattered those regions with all kinds of wonderful flowers.",
+    "morphology": "bhāvāḥ_bhāva_PNM ca_ca_U sarve_sarva_PNM nyak_nyāñc_Cp bhūtāḥ_bhū_PNPaPsM tatra_tatra_U eva_eva_U āsan_as_PPs3In samāgatāḥ_samāgam_PNPaPsM ṛtavaḥ_ṛtu_PNM sarva_sarva_Cp puṣpaiḥ_puṣpa_PINe ca_ca_U vyakiranta_vikṛ_PPs3In mahā"
+  },
+  {
+    "index": 12515,
+    "sanskrit": "na pūrve na apare jātu kāmānām antam āpnuvan",
+    "english": "No one born on earth did ever attain to the end of desire, and to one that will take birth will succeed in attaining to it.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 12516,
+    "sanskrit": "aparaṃ nāgaro yo'tra tvasminnahani saṃsthite | pradakṣiṇātrayaṃ kṛtvā tava dattvā phalatrayam || 28 || stotreṇānena bhavatīṃ stutvā ca kurute natim | tasya saṃvatsaraṃ yāvadrogo rakṣyastvayā'khilaḥ || 29 ||",
+    "english": "28-29. Another thing: If a Nāgara devotee circumambulates you three times, offers you three fruits, eulogizes you with this prayer and bows to you on that particular day, then for the period of the whole of that year, all his ailments should be prevented by you.",
+    "morphology": "aparam_apara_SNNe nāgaraḥ_nāgara_SNM yaḥ_yad_SNM atra_atra_ tu_tu_ asmin_idam_SLNe ahani_ahar_SLNe saṃsthite_saṃsthā_SLPaNe  / pradakṣiṇā_pradakṣiṇā_Cp trayam_traya_SANe kṛtvā_kṛ_Co tava_tvad_SG dattvā_dā_Co phala_phala_Cp traya"
+  },
+  {
+    "index": 12517,
+    "sanskrit": "cheda bheda abhighātebhyaḥ dahanāt dāraṇāt api upaghātam vijānīyāt marmaṇām tulya lakṣaṇam",
+    "english": "An injury to the adjacent part of a Marma, whether incidental to a cut, incision, blow (Abhighata), burn, puncture, or to any other cause exhibits the same series of symptoms as an actually affected one.",
+    "morphology": "cheda_cheda_MCp bheda_bheda_MCp abhighātebhyaḥ_abhighāta_PBM dahanāt_dahana_SBNe dāraṇāt_dāraṇa_SBNe api_api_U upaghātam_upaghāta_SAM"
+  },
+  {
+    "index": 12518,
+    "sanskrit": "jaiminiruvāca | ataḥ paraṃ pravakṣyāmi yātrāmakṣayamokṣadām | anāyāsena mūḍhānāṃ vāsanābaddhacetasām || 1 ||",
+    "english": "1. Henceforth I shall describe a Yātrā that will yield everlasting salvation without strain to (even) the dull-witted whose mind is tied to the imprints of previous Karmas.",
+    "morphology": "jaiminiḥ_jaimini_SNM uvāca_vac_SPs3In  / atas_atas_ param_param_ pravakṣyāmi_pravac_SFu1In yātrām_yātrā_SAF akṣaya_akṣaya_Cp mokṣa_mokṣa_Cp dām_da_SAF  / anāyāsena_anāyāsa_SIM mūḍhānām_muh_PGPaM"
+  },
+  {
+    "index": 12519,
+    "sanskrit": "manvantarādayo gītāḥ dharmā varṇādikasya ca //",
+    "english": "The different periods of Manu and the duties of different classes of men have been explained.",
+    "morphology": "manvantara_manvantara_Cp ādayaḥ_ādi_PNM gītāḥ_gā_PNPaM"
+  }
+]

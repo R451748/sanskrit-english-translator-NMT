@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1080,
+    "sanskrit": "sthitā sā tu muhūrtam vai bhartuḥ śāpa bhayāt śubhā yayau ānayitum bhūyas sāyakān asita īkṣaṇā",
+    "english": "The black-eyed and graceful Renuka, having rested for only a moment, feared the curse of her husband and, therefore, addressed herself again to the task of collecting and bringing back the arrows.",
+    "morphology": "sthitā_sthā_SNPaPsF sā_tad_SNF tu_tu_U muhūrtam_muhūrta_SANe vai_vai_U bhartuḥ_bhartṛ_SGM śāpa_śāpa_MCp bhayāt_bhaya_SBNe śubhā_śubha_SNF yayau_yā_SPs3In ānayitum_ānī_In bhūyas_bhūyas_U sāyakān_sāyaka_PAM asita_asita_Cp īkṣaṇ"
+  },
+  {
+    "index": 1081,
+    "sanskrit": "yāhi avighnena vai vīra drakṣyāmaḥ tvām sabhā gatam",
+    "english": "Go thither safely, O hero.",
+    "morphology": "yāhi_yā_SPr2Im avighnena_avighna_SINe vai_vai_U vīra_vīra_SVM drakṣyāmaḥ_dṛś_PFu1In tvām_tvad_SA sabhā_sabhā_FCp gatam_gam_SAPaPsM"
+  },
+  {
+    "index": 1082,
+    "sanskrit": "śiśiraādy uttaraayaṇam // varṣaādi dakṣiṇaayanam //",
+    "english": "Seasons from sisira and upwards are the summersolstice uttaráyana, and those from varshá and upwards are the winter solstice dakshináyana",
+    "morphology": "śiśira_śiśira_Cp ādi_ādi_SNNe uttaraayaṇam_uttaraayaṇa_SNNe  // varṣa_varṣa_Cp ādi_ādi_SNNe dakṣiṇaayanam_dakṣiṇaayana_SNNe  /"
+  },
+  {
+    "index": 1083,
+    "sanskrit": "evam anye 'pi rājāno jarāsandha vaśānugāḥ prāṇaiḥ sahāyam kurvantau jarāsandhasya maithila",
+    "english": "O king of Mithilā, many other kings, Jarāsandha's vassals, gave their lives to help him in the battle.",
+    "morphology": "evam_evam_U anye_anya_PNM api_api_U rājānaḥ_rājan_PNM jarāsandha_jarāsaṃdha_MCp vaśa_vaśa_Cp anugāḥ_anuga_PNM prāṇaiḥ_prāṇa_PIM sahāyam_sahāya_SAM kurvantau_kṛ_DuNPaPrM jarāsandhasya_jarāsaṃdha_SGM maithila_maithila_SVM"
+  },
+  {
+    "index": 1084,
+    "sanskrit": "ciddhāturyatra yatrāste tatra tatra nijaṃ vapuḥ / paśyatyeṣa jagadrūpaṃ vyomatāmeva cātyajat //",
+    "english": "Wherever there is the substance of Intellect, there is the cosmical image of the Deity impressed upon it; in its empty vacuous form, which it never forsakes.",
+    "morphology": "cit_cit_Cp dhātuḥ_dhātṛ_SGM yatra_yatra_ yatra_yatra_ āste_ās_SPr3In tatra_tatra_ tatra_tatra_ nijam_nija_SANe vapuḥ_vapus_SANe  / paśyati_paś_SPr3In eṣa_etad_SNM jagat_jagant_Cp rūpam_rūpa_SANe vyoma_vyoman_Cp tām_tā_SAF eva_eva_ ca_ca_ "
+  },
+  {
+    "index": 1085,
+    "sanskrit": "teṣu viṣayavastuni bhu janta iti bhojanaṃ /",
+    "english": "Because they are experienced as real existing objects they are the enjoyed, \"the experienced\".",
+    "morphology": "teṣu_tad_PLM viṣaya_viṣaya_Cp vastuni_vastu_SLNe bhu_bhu_SANe jantaḥ_j_PNPaPrM iti_iti_ bhojanam_bhojana_SNNe  /"
+  },
+  {
+    "index": 1086,
+    "sanskrit": "hasan eva ca bhogena takṣakeṇa abhiveṣṭitaḥ tasmāt phalāt viniṣkramya yat tat rājñe niveditam",
+    "english": "And as the king was smiling, Takshaka, who had (in the form of that insect) come out of the fruit that had been offered to the king, coiled himself round the neck of the monarch.",
+    "morphology": "hasan_has_SNPaPrM eva_eva_U ca_ca_U bhogena_bhoga_SIM takṣakeṇa_takṣaka_SIM abhiveṣṭitaḥ_abhiveṣṭay_SNPaPsM tasmāt_tad_SBNe phalāt_phala_SBNe viniṣkramya_viniṣkram_Co yat_yad_SNNe tat_tad_SNNe rājñe_rājan_SDM niveditam_niveday_SNPa"
+  },
+  {
+    "index": 1087,
+    "sanskrit": "syādā 'nyārthadarśanāt",
+    "english": "Sutra The Eating should be done because we find it mentioned in connection with the other pur posés.",
+    "morphology": "syādā_syādā_SNF anya_anya_Cp artha_artha_Cp darśanāt_darśana_SBNe"
+  }
+]

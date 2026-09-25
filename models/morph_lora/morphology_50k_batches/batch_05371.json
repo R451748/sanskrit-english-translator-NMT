@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42960,
+    "sanskrit": "iti eṣa pūroḥ vaṃśaḥ tu pāṇḍavānām ca kīrtitaḥ",
+    "english": "\"Thus have I, O king, recited the history of the descendants of Puru and of the Pandavas.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 42961,
+    "sanskrit": "ūrdhvam adhigantuś caturthaṃ rājñaḥ śeṣaḥ /",
+    "english": "Ownership If someone finds lost property whose owner is unknown, he should disclose it to the king. The king should have it publicized and keep it safely for a year, after which time a quarter goes to the finder and the rest to the king.",
+    "morphology": "ūrdhvam_ūrdhvam_ adhigantuḥ_adhigantṛ_SGM caturtham_caturtha_SNNe rājñaḥ_rājan_SGM śeṣaḥ_śeṣa_SNM  /"
+  },
+  {
+    "index": 42962,
+    "sanskrit": "itthamicchākalājñānaśaktiśūlāmbujāśritaḥ | bhairavaḥ sarvabhāvānāṃ svabhāva pariśīlyate |",
+    "english": "This is how Bhairava is contemplated on as the resort of the will of creativity, power of division, knowledge and power as well as thorn in the lotus and thus the inner nature of all the beings.",
+    "morphology": "ittham_ittham_ icchā_icchā_Cp kalā_kalā_Cp jñāna_jñāna_Cp śakti_śakti_Cp śūla_śūla_Cp ambuja_ambuja_Cp āśritaḥ_āśri_SNPaM  /"
+  },
+  {
+    "index": 42963,
+    "sanskrit": "atra bhogavatī nāma purī vāsuki pālitā takṣakeṇa ca nāgena tathā eva airāvatena ca",
+    "english": "In this region is the city called Bhogavati that is ruled by Vasuki, by the Naga Takshaka and also by Airavata.",
+    "morphology": "atra_atra_U bhogavatī_bhogavatī_SNF nāma_nāma_U purī_purī_SNF vāsuki_vāsuki_SVM pālitā_pālay_SNPaPsF takṣakṇḥ"
+  },
+  {
+    "index": 42964,
+    "sanskrit": "yeṣām tu aprāpta jātaḥ ayam śabdaḥ śrotreṇa gṛhyate | teṣām aprāpti tulya tvāt dūra vyavahita ādiṣu || tatra dūra samīpa stha grahaṇa agrahaṇe same | syātām na ca kramaḥ na api tīvra manda ādi sambhavaḥ ||",
+    "english": "There are some people, according to whom the word-sound is apprehended by the auditory organ, when it is produced but not in actual contact with that organ;—for them, the absence of contact being equally present in the case of distant and near sounds, the apprehension and non-apprehension by people far and near would be equally possible; and there could be no order of sequence, nor the greater and less intensity (of sounds heard).”—[Ślokavārtika—eternality of words, 119-121]",
+    "morphology": "yeṣām_yad_PGM tu_tu_U aprāpta_aprāpta_Cp jātaḥ_jan_SNPaPsM ayam_idam_SNM śabdaḥ_śabda_SNM śrotreṇa_śrotra_SINe gṛhyate_grah_SPr3InPv  / teṣām_tad_PGM aprāpti_aprāpti_FCp tulya_tulya_Cp tvāt_tva_SBNe dūra_dūra_Cp vyavahita_vyavadh"
+  },
+  {
+    "index": 42965,
+    "sanskrit": "kramāgateṣvakhinno'rthaṃ bakavaccintayārjaya / arthopārjanakāryeṣu vāsanākrāntamūḍhavat //",
+    "english": "Earn money by honest means and with the circumspection of a crane, in whatever chance presents itself before thee; and do not run in pursuit of gain, like the ignorant rabble.",
+    "morphology": "krama_krama_Cp āgateṣu_āgam_PLPaM akhinnaḥ_akhinna_SNM artham_artha_SAM baka_baka_Cp vat_vat_ cintayā_cintā_SIF arjaya_arjay_SPr2Im  / artha_artha_Cp upārjana_upārjana_Cp kāryeṣu_kārya_PLNe"
+  },
+  {
+    "index": 42966,
+    "sanskrit": "tasyāṃ babhūva nṛpatiḥ padmanābha iti śrutaḥ / saccakranandakaḥ srīmān ākrāntabalirājakaḥ // tasmin pṛthvīpatau tasyāṃ nagaryāṃ sumahāvaṇik / arthadattābhidhāno 'bhūd dhanair vijitavittapaḥ //",
+    "english": "In it there lived a fortunate king, named Padmanābha, who was a source to good men, and excelled King Bali.[2] In the reign of that king there lived in that city a great merchant, named Arthadatta, who surpassed in opulence the God of Wealth.",
+    "morphology": "tasyām_tad_SLF babhūva_bhū_SPs3In nṛpatiḥ_nṛpati_SNM padmanābhaḥ_padmanābha_SNM iti_iti_ śrutaḥ_śru_SNPaM  / sat_sat_Cp cakra_cakra_Cp nandakaḥ_nandaka_SNM srīmān_srīmat_SNM ākrānta_ākram_PaCp bali_bali_Cp rājakaḥ_rājaka_SNM  /"
+  },
+  {
+    "index": 42967,
+    "sanskrit": "sūta uvāca | pūjayedvidhivadbhaktyācāryyaṃ śrutvā kathāṃ parām | granthānte vidhivaddadyādācāryyāya prasannadhīḥ ||",
+    "english": "2. After hearing the story the devotee shall worship the preceptor duly with devotion. Delighted in mind he shall make liberal gifts duly to the preceptor at the conclusion of the holy book.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / pūjayet_pūjay_SPr3O vidhivat_vidhivat_ bhaktyā_bhakti_SIF ācāryam_ācārya_SAM śrutvā_śru_Co kathām_kathā_SAF parām_para_SAF  / grantha_grantha_Cp ante_anta_SLM vidhivat_vidhivat_ dadyāt_dā_SPr3O ācāry"
+  }
+]

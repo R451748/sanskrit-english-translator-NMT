@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15040,
+    "sanskrit": "kāmaṃ prasahyāpi dhanāni hartuṃ",
+    "english": "Men such as you, would doubtlessly be able to seize on wealth even by violence.",
+    "morphology": "kāmam_kāma_SAM"
+  },
+  {
+    "index": 15041,
+    "sanskrit": "nava snāyu śatāni tāsām śākhāsu ṣaṣ śatāni | dve śate triṃśat ca koṣṭhe |",
+    "english": "There are nine hundred ligaments (Snayus) in the human body, of which six hundred occur in the four extremities ; two hundred and thirty in the trunk (Kos’itha) and seventy in the neck and upwards.",
+    "morphology": "nava_navan_SNNe snāyu_snāyu_NeCp śatāni_śata_PNNe tāsām_tad_PGF śākhāsu_śākhā_PLF ṣaṣ_ṣaṣ_Cp śatāni_śata_PNNe  / dve_dvi_DuNNe śate_śata_DuNNe triṃśat_triṃśat_SNF ca_ca_U koṣṭhe_koṣṭha_SLM  /"
+  },
+  {
+    "index": 15042,
+    "sanskrit": "ityuktā tatkṣaṇājjātā sā kanyā rūpavarjitā | kurūpo nṛpatirjātaḥ śāpāttasya mahātmanaḥ || 30 ||",
+    "english": "30. On being spoken (cursed) thus, that girl became rid of beauty instantly. Due to the curse of the noble-souled sage, the king became deformed.",
+    "morphology": "iti_iti_ uktā_vac_SNPaF tad_tad_Cp kṣaṇāt_kṣaṇa_SBM jātā_jan_SNPaF sā_tad_SNF kanyā_kanyā_SNF rūpa_rūpa_Cp varjitā_varjay_SNPaF  / kurūpaḥ_kurūpa_SNM nṛpatiḥ_nṛpati_SNM jātaḥ_jan_SNPaM śāpāt_śāpa_SBM tasya_tad_SGM mahāt"
+  },
+  {
+    "index": 15043,
+    "sanskrit": "iti niścitya vipra indrāḥ kriyatām yat anantaram śrutvā etat vacanam rājñaḥ brāhmaṇāḥ sa purodhasaḥ idam ūcuḥ vacaḥ hṛṣṭāḥ dharmarāja priya īpsavaḥ",
+    "english": "Ye foremost of learned Brahmanas, having formed this resolution, let that be done which should be done after this.' Hearing these words of the king, the Brahmanas with those amongst them that were well-skilled in the performance of religious rites, became filled with gladness and desirous of doing what was agreeable to king Yudhishthira the just, said these words in reply, 'This very day is, an auspicious one with an auspicious constellation.",
+    "morphology": "iti_iti_U niścitya_niści_Co vipra_vipra_MCp indrāḥ_indra_PVM kriyatām_kṛ_SPr3ImPv yat_yad_SNNe anantaram_anantara_SNNe śrutvā_śru_Co etat_etad_SANe vacanam_vacana_SANe rājñaḥ_rājan_SGM brāhmaṇāḥ_brāhmaṇa_PNM sa_sa_U purodhasaḥ_pu"
+  },
+  {
+    "index": 15044,
+    "sanskrit": "athaikadeśeti pakṣas tadānavasthā syād ekadeśānām / tathā hi yair ekadeśais taddravyamavayaveṣu vartate te 'pi tasyaikadeśā iti, teṣvapyanena vartitavayam, tathaivāpareṣvityaniṣṭhā /",
+    "english": "If the other view be held, that it is in part that the Composite subsists in each component, then there would be an infinity of such ‘parts’ of the Composite. For instance, those of its parts in which this Composite subsists in each of its components would themselves be its ‘parts’, in which also the Composite would subsist in part;",
+    "morphology": "atha_atha_ eka_eka_Cp deśa_deśa_Cp iti_iti_ pakṣaḥ_pakṣa_SNM tadā_tadā_ anavasthā_anavasthā_SNF syāt_as_SPr3O ekadeśānām_ekadeśa_PGM  / tathā_tathā_ hi_hi_ yaiḥ_yad_PIM eka_eka_Cp deśaiḥ_deśa_PIM tat_tad_SNNe dravyam_dravya_SNNe av"
+  },
+  {
+    "index": 15045,
+    "sanskrit": "bhaginī tava durbuddhe rākṣasānām yaśaḥ hara",
+    "english": "Thou wicked wretch and the most infamous of Rakshasas, thy sister came here at thy command.",
+    "morphology": "bhaginī_bhaginī_SNF"
+  },
+  {
+    "index": 15046,
+    "sanskrit": "ityevaṃ tu vacaḥ śrutvā daityarājasya nirmalam | pratyuvāca suyatnena ṛṣissa ca sanātanaḥ ||",
+    "english": "56. On hearing the frank words of the ruler of the Asuras the heretic sage, professing to be eternal, spoke emphatically.",
+    "morphology": "iti_iti_ evam_evam_ tu_tu_ vacaḥ_vacas_SANe śrutvā_śru_Co daitya_daitya_Cp rājasya_rāja_SGM nirmalam_nirmala_SANe  / pratyuvāca_prativac_SPs3In su_su_ yatnena_yatna_SIM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ"
+  },
+  {
+    "index": 15047,
+    "sanskrit": "cacāla pṛthivī ca api pāṃsu varṣam papāta ca",
+    "english": "And the earth began to tremble, and dust fell in showers.",
+    "morphology": "cacāla_cal_SPs3In pṛthivī_pṛthivī_SNF ca_ca_U api_api_U pāṃsu_pāṃsu_SNNe varṣam_varṣa_SNNe papāta_pat_SPs3In"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13592,
+    "sanskrit": "ubhe bṛhatyau rajanīm śuka ākhyām kākādanīm ca api sa kākamācīm ādāribimbīm sa kadambapuṣpīm vipācya sarpiḥ vipacet kaṣāye||",
+    "english": "Clarified butter duly cooked with the Kalka and decoction of the two kinds of Vrihati, Rajani, Shukakhya (Shuka-shimbi), Kakadani, Kakamachi, Adari-vimbi and Kadamba-pushpi (Bhumi-Kadamba) should be taken as a remedy for Pandu-roga.",
+    "morphology": "ubhe_ubh_DuAF bṛhatyau_bṛhatī_DuAF rajanīm_rajanī_SAF śuka_śuka_MCp ākhyām_ākhyā_SAF kākādanīm_kākādanī_SAF ca_ca_U api_api_U sa_sa_U kākamācīm_kākamācī_SAF ādāribimbīm_ādāribimbī_SAF sa_sa_U kadambapuṣpīm_kadambapuṣpī_"
+  },
+  {
+    "index": 13593,
+    "sanskrit": "bhaktyā stoṣyaṃti ye nāma liṃgasyāsya ca mānavāḥ | mānasaiḥ pātakairmuktā yāsyaṃti svargamakṣayam || 42 ||",
+    "english": "Those men who eulogize devoutly the name of this Liṅga shall be liberated from mental sins and will go to everlasting Svarga.",
+    "morphology": "bhaktyā_bhakti_SIF stoṣyaṃti_stu_PFu3In ye_yad_PNM nāma_nāman_SANe liṃgasya_liṅga_SGM asya_idam_SGM ca_ca_ mānavāḥ_mānava_PNM  / mānasaiḥ_mānasa_PINe pātakaiḥ_pātaka_PINe muktāḥ_muc_PNPaM yāsyaṃti_yā_PFu3In svargam_svarga_SAM"
+  },
+  {
+    "index": 13594,
+    "sanskrit": "idaṃ karmopacitaṃ na ktam |",
+    "english": "This is the deed that is accumulated (even) when not done.",
+    "morphology": "idam_idam_SNNe karma_karman_SNNe upacitam_upaci_SNPaNe"
+  },
+  {
+    "index": 13595,
+    "sanskrit": "yassendriyāṇi samathaṃ gatāni aśśā yathā sārathinā sudāntā |",
+    "english": "For the one whose senses are balanced, like horses well-trained by their charioteer,",
+    "morphology": "yassa_yad_SGM indriyāṇi_indriya_PNNe samatham_samatha_SANe gatāni_gam_PNPaNe aśśā_aśśā_SNF yathā_yathā_ sārathinā_sārathi_SIM su_su_ dāntā_dam_DuNPaM"
+  },
+  {
+    "index": 13596,
+    "sanskrit": "yatra brahmā pavamāna chandasyām vācam vadan grāvṇā some mahīyate somena ānandam janayan indrāya indo iti pari srava",
+    "english": "O Pavamâna, where the priest, as he recites the rhythmic prayer, Lords it o'er Soma with the stone, with Soma bringing forth delight, flow, Indu, flow for Indra's sake.",
+    "morphology": "yatra_yatra_U brahmā_brahman_SNM pavamāna_pū_PaPrCp chandasyām_chandasya_SAF vācam_vāc_SAF vadan_vad_SNPaPrM grāvṇā_grāvan_SIM some_soma_SLM mahīyate_mahīy_SPr3In somena_soma_SIM ānandam_ānanda_SAM janayan_janay_SNPaPrM indrāya_indra_SDM in"
+  },
+  {
+    "index": 13597,
+    "sanskrit": "ṛte kṛṣṇaprakāśaṃ tu svātmabodho na kasyacit | tatprakāśastu jīvānāṃ māyayā pihitaḥ sadā || 9 ||",
+    "english": "9. Without the light of Kṛṣṇa no one shall have self-enlightenment. That light is always hidden by Māyā in the case of the individual souls.",
+    "morphology": "ṛte_ṛte_ kṛṣṇa_kṛṣṇa_Cp prakāśam_prakāśa_SAM tu_tu_ sva_sva_Cp ātma_ātman_Cp bodhaḥ_bodha_SNM na_na_ kasyacid_kaścit_SGM  / tad_tad_Cp prakāśaḥ_prakāśa_SNM tu_tu_ jīvānām_jīva_PGM māyayā_māyā_SIF pihitaḥ_pidhā_SNPa"
+  },
+  {
+    "index": 13598,
+    "sanskrit": "ajñānajantunā hyete śliṣṭā jātā nirantarāḥ / ajñāne jñānagilite pṛthaktiṣṭhantyasanmayāḥ //",
+    "english": "Such is their inseparably reciprocal relation in the minds of the ignorant; but the wise who are freed from their ignorance, remain aloof from the visibles with their mental meditations alone.",
+    "morphology": "ajñāna_ajñāna_Cp jantunā_jantu_SIM hi_hi_ ete_etad_PNM śliṣṭāḥ_śliṣ_PNPaM jātāḥ_jan_PNPaM nirantarāḥ_nirantara_PNM  / ajñāne_ajñāna_SLNe jñāna_jñāna_Cp gilite_gil_SLPaNe pṛthak_pṛthak_ tiṣṭhanti_sthā_PPr3In asat_asat"
+  },
+  {
+    "index": 13599,
+    "sanskrit": "'sphārabrahmāmalāmbhodhe: phenāḥ sarve kulācalā: /",
+    "english": "“The great mountain ranges of the world are merely the bubbles of the all-pervading pure ocean of Brahman;",
+    "morphology": "__asphāra_U __brahman_U __amala_U __ambhodhi_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23688,
+    "sanskrit": "divyam vaiyāghrapadyasya upamanyoḥ mahātmanaḥ",
+    "english": "That delightful retreat was owned by the high-souled Upamanyu who was a descendant of Vyaghrapada.",
+    "morphology": "divyam_divya_SNNe vaiyāghrapadyasya_vaiyāghrapadya_SGM upamanyoḥ_upamanyu_SGM"
+  },
+  {
+    "index": 23689,
+    "sanskrit": "māṃsa māṣa guḍa kṣīra dadhi tailaiḥ kapha udbhavāḥ",
+    "english": "The Kaphaja worms germinate in the system in consequence of eating flesh, Masha-pulse (D.",
+    "morphology": "māṃsa_māṃsa_NeCp māṣa_māṣa_MCp guḍa_guḍa_MCp kṣīra_kṣīra_NeCp dadhi_dadhi_NeCp tailaiḥ_taila_PINe"
+  },
+  {
+    "index": 23690,
+    "sanskrit": "aṣṭakamaṣṭāṣṭakamatha vividhaṃ saṃpūjayetkrameṇa muniḥ |",
+    "english": "b-a The contemplative sage needs to worship the deities in eight groups of eight each on his body taking it as the abode of gods and goddesses.",
+    "morphology": "aṣṭakam_aṣṭaka_SANe aṣṭa_aṣṭan_Cp aṣṭakam_aṣṭaka_SANe atha_atha_ vividham_vividha_SANe saḥ_tad_SNM "
+  },
+  {
+    "index": 23691,
+    "sanskrit": "paśuṣu svāmināṃ caiva pālānāṃ ca vyatikrame / vivādaṃ saṃpravakṣyāmi yathāvad dharmatattvataḥ //",
+    "english": "am going to expound fully the true law relating to disputes between owners and keepers arising from transgressions regarding cattle.",
+    "morphology": "paśuṣu_paśu_PLM svāminām_svāmin_PGM ca_ca_ eva_eva_ pālānām_pāla_PGM ca_ca_ vyatikrame_vyatikrama_SLM  / vivādam_vivāda_SAM saṃpravakṣyāmi_saṃpravac_SFu1In yathāvat_yathāvat_ dharma_dharma_Cp tattvataḥ_tattva_SBNe  /"
+  },
+  {
+    "index": 23692,
+    "sanskrit": "yathotsāham ca samare jaghnuḥ lokam mahā rathāḥ",
+    "english": "Indeed, thy troops began to smite according to the measure of their courage.",
+    "morphology": "yathotsāham_yathotsāha_SANe ca_ca_U samare_samara_SLNe jaghnuḥ_han_PPs3In lokam_loka_SAM"
+  },
+  {
+    "index": 23693,
+    "sanskrit": "na eṣām duścaritam brūmaḥ tasmāt mṛtyu bhayam na naḥ",
+    "english": "therefore hath death no terror for us.",
+    "morphology": "na_na_U eṣām_idam_PGM duścaritam_duścarita_SANe brūmaḥ_brū_PPr1In tasmāt_tasmāt_U mṛtyu_mṛtyu_MCp bhayam_bhaya_SNNe na_na_U naḥ_mad_PG"
+  },
+  {
+    "index": 23694,
+    "sanskrit": "yaiḥ śrutā yaiḥ smṛtā vīra yairdṛṣṭā maṇikarṇikā | ta eva kṛtino loke kṛtakṛtyāsta eva hi || 88 ||",
+    "english": "88. O Vīra, only they are blessed, they can be considered as persons of fulfilled tasks by whom Maṇikarṇikā is heard, seen and remembered.",
+    "morphology": "yaiḥ_yad_PIM śrutā_śru_SNPaF yaiḥ_yad_PIM smṛtā_smṛ_SNPaF vīra_vīra_SVM yaiḥ_yad_PIM dṛṣṭā_dṛś_SNPaF maṇikarṇikā_maṇikarṇikā_SNF  / te_tad_PNM eva_eva_ kṛtinaḥ_kṛtin_PNM loke_loka_SLM kṛtakṛtyāḥ_kṛtakṛty"
+  },
+  {
+    "index": 23695,
+    "sanskrit": "tataścārādhayāmāsa puṣpadhūpānulepanaiḥ | snātvā kuṇḍe'pibattoyaṃ triḥkṛtvā ca yathāpurā || 57 ||",
+    "english": "57. Then he propitiated the Lord with flowers, incense and unguents. He took his bath in the Kuṇḍa and drank water thrice as before.",
+    "morphology": "tatas_tatas_ ca_ca_ ārādhayāmāsa_ārādhay_SPs3InPe puṣpa_puṣpa_Cp dhūpa_dhūpa_Cp anulepanaiḥ_anulepana_PINe  / snātvā_snā_Co kuṇḍe_kuṇḍa_SLNe apibat_pā_S3ImIn toyam_toya_SANe tris_tris_ kṛtvā_kṛ_Co ca_ca_ yathā_yathā_ purā_"
+  }
+]

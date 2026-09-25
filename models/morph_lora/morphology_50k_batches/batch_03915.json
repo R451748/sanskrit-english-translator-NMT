@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31312,
+    "sanskrit": "yudhiṣṭhira uvāca | kīdṛśaṃ śāsanaṃ brahmanrāmeṇa likhitaṃ purā | kathayasva prasādena tretāyāṃ satyamaṃdire || 2 ||",
+    "english": "Yudhiṣṭhira said: 2. What was the letter of authority written by Rāma formerly, O Brāhmaṇa, in Tretā, at Satyamandira? Kindly tell me. Vyāsa said:",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In  / kīdṛśam_kīdṛśa_SNNe śāsanam_śāsana_SNNe brahman_brahman_SVM rāmeṇa_rāma_SIM likhitam_likh_SNPaNe purā_purā_  / kathayasva_kathay_SPr2Im prasādena_prasāda_SIM tretāyām_tretā_"
+  },
+  {
+    "index": 31313,
+    "sanskrit": "[2946,11] nanu ca yat sandigdhārthāvinābhāvitvenāniścitārthaprāpaṇasāmarthyaṃ jñānam, tad anumānavan na pramāṇaṃ prāpnoti. tathā hi anumānasyārthāvinābhāvasaṃśaye sati na prāmāṇyam [p.782] iṣṭam, evaṃ pratyakṣe 'pi na prāpnoti.",
+    "english": "Says the Opponent: “That cognition, which is concomitant with the suspicion of invalidity, and hence in regard to which there is no certainty regarding its capacity to get at its objective, would be like Inference and hence not valid. Because, in the case of Inference, when there is doubt regarding the invariable concomitance of the objective, ṇo validity attaches to it; in the same manner Perceptions also would be not valid”.",
+    "morphology": "nanu_nanu_ ca_ca_ yat_yad_SNNe sandigdha_saṃdigdha_Cp artha_artha_Cp avinābhāvi_avinābhāvin_Cp tvena_tva_SINe aniścita_aniścita_Cp artha_artha_Cp prāpaṇa_prāpaṇa_Cp sāmarthyam_sāmarthya_SNNe jñānam_jñāna_SNNe tat_tad_SNNe anumāna_anum"
+  },
+  {
+    "index": 31314,
+    "sanskrit": "daityemaṃ ratham ātiṣṭha śīghram ehi mahābala /",
+    "english": "highly powerful Daitya, get upon this car soon; hero, will be your charioteer.",
+    "morphology": "daitya_daitya_SVM imam_idam_SAM ratham_ratha_SAM ātiṣṭha_āsthā_SPr2Im śīghram_śīghram_"
+  },
+  {
+    "index": 31315,
+    "sanskrit": "etāni nṛpa tīrthāni kuṇòādyāyatanāni caaìgāni girirājasya kiṃ bhūyaḥ śrotum icchasi",
+    "english": "O king, these are the lakes and other holy places that are the limbs of Govardhana Hill. What more do you wish to hear?",
+    "morphology": "etāni_etad_PNNe nṛpa_nṛpa_SVM tīrthāni_tīrtha_PNNe kuṇò_kuṇò_Cp ādi_ādi_Cp āyatanāni_āyatana_PNNe giri_giri_Cp rājasya_rāja_SGM kim_ka_SANe"
+  },
+  {
+    "index": 31316,
+    "sanskrit": "pitaraḥ tasya tuṣyanti prahṛṣṭa manasaḥ sadā deva dūtaḥ prajāḥ vivardhate ca asya akṣayam ca upatiṣṭhati",
+    "english": "The Pitris of that man who act according to this ordinance become gratified with him and remain always cheerful.",
+    "morphology": "pitaraḥ_pitṛ_PNM tasya_tad_SGM tuṣyanti_tuṣ_PPr3In prahṛṣṭa_prahṛṣ_PaPsCp manasaḥ_manas_PNM sadā_sadā_U deva_deva_MCp dūtaḥ_dūta_SNM prajāḥ_prajā_PAF vivardhate_vivṛdh_SPr3In ca_ca_U asya_idam_SGM akṣayam_akṣaya_SANe ca_"
+  },
+  {
+    "index": 31317,
+    "sanskrit": "āhvaya enān mahābrahman viśamānān tatas tatas paśya imān hasta pādeṣu śliṣṭān dehe ca sarvaśas",
+    "english": "Behold, O Brahmana, those birds have contracted their wings and legs for entering their respective nests.",
+    "morphology": "āhvaya_āhvā_SPr2Im enān_enad_PAM mahābrahman_mahābrahman_SVM viśamānān_viś_PAPaPrM tatas_tatas_U tatas_tatas_U paśya_paś_SPr2Im imān_idam_PAM hasta_hasta_MCp pādeṣu_pāda_PLM śliṣṭān_śliṣ_PAPaPsM"
+  },
+  {
+    "index": 31318,
+    "sanskrit": "agnīdagnīnvihara barhi stṛṇīhi puroḍāśāṃ alaṃkuru paśunehīti viharatyagnīdagnīntsaminddha evainānetatstṛṇāti barhi stīrṇe barhiṣi saminddhe devebhyo juhavānīti puroḍāśāṃ alaṃkurvite puroḍāśairhi pracariṣyanbhavati paśunehīti paśuṃ hyupākarīṣyanbhavati //",
+    "english": "Thereupon, when the chanting is over , heutters this speech,--'Agnîdh, spread the fires! strew the barhis! Prepare the cakes! go on with the victim!' The Agnîdh spreads the fires, that is to say, kindles them ; he strews that barhis , thinking, 'When the barhis is strewn, I will offer to the gods on the kindled (fire).'--'Prepare the cakes,' he says, because he is about to proceed with the cakes; and, 'Go on with the victim,' because he is about to get ready the victim .",
+    "morphology": "agnīdh_agnīdh_SVM agnīn_agni_PAM vihara_vihṛ_SPr2Im barhiḥ_barhis_SANe stṛṇīhi_stṛ_SPr2Im puroḍāśān_puroḍāśa_PAM alaṃkuru_alaṃkṛ_SPr2Im paśunā_paśu_SIM ihi_i_SPr2Im iti_iti_ viharati_vihṛ_SPr3In agnīdh_agnīdh_SVM agnīn_"
+  },
+  {
+    "index": 31319,
+    "sanskrit": "rūpād akṛtrimattve ca kalpanā kalpitaiva sā / ādimadvastubuddhis tu vācakair akṣaraiḥ sphuṭaiḥ //",
+    "english": "If we frame the hypothesis that the Vedas are eternal seeing the characteristic features of the Vedas then the said hypothe- sis is only based upon pure imagination but is not established by a proof.",
+    "morphology": "rūpāt_rūpa_SBNe akṛtrima_akṛtrima_Cp tve_tva_SLNe ca_ca_ kalpanā_kalpanā_SNF kalpitā_kalpay_SNPaF eva_eva_ sā_tad_SNF  / ādimat_ādimat_SNNe vastu_vastu_Cp buddhiḥ_buddhi_SNF ā_ā_"
+  }
+]

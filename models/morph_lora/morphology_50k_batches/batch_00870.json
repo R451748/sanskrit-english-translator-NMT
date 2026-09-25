@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6952,
+    "sanskrit": "ṣaḍ eva devakīgarbhāḥ ṣadgarbhā vai mahāsurāḥ /",
+    "english": "ye great Asuras Saragarbhas, you all six will be born in order from Devaki and Kansa will kill you.",
+    "morphology": "ṣaṭ_ṣaṣ_PNM eva_eva_ devakī_devakī_Cp garbhāḥ_garbha_PNM ṣaṣ_ṣaṣ_Cp garbhāḥ_garbha_PNM vai_vai_ mahā_mahat_Cp asurāḥ_asura_PNM  /"
+  },
+  {
+    "index": 6953,
+    "sanskrit": "nyūnāḥ pareṣām sapta eva kasmāt me syāt parājayaḥ",
+    "english": "The army of the enemy is less than mine, amounting only to seven Akshauhinis.",
+    "morphology": "nyūnāḥ_nyūna_PNM pareṣām_para_PGM sapta_saptan_PNM eva_eva_U"
+  },
+  {
+    "index": 6954,
+    "sanskrit": "na saḥ asti rogaḥ yam ca api nihanyāt na śilājatu",
+    "english": "Indeed there is no such bodily distemper[1] which does not yield to its highly curative virtues.",
+    "morphology": "na_na_U saḥ_tad_SNM asti_as_SPr3In rogaḥ_roga_SNM yam_yad_SAM ca_ca_U"
+  },
+  {
+    "index": 6955,
+    "sanskrit": "saḥ abhikrudhyati bhṛtyānām suhṛdaḥ ca abhyasūyati tam tadā manyuḥ eva eti sa bhūyas saṃpramuhyati",
+    "english": "Sometimes he getteth angry with his servants, and sometimes he cherisheth malice towards even his well-wishers.",
+    "morphology": "saḥ_tad_SNM abhikrudhyati_abhikrudh_SPr3In bhṛtyānām_bhṛtya_PGM suhṛdaḥ_suhṛd_PAM ca_ca_U abhyasūyati_abhyasūy_SPr3In tam_tad_SAM tadā_tadā_U manyuḥ_manyu_SNM eva_eva_U eti_i_SPr3In sa_tad_SNM bhūyas_bhūyas_U saṃpramuhyati_saṃpram"
+  },
+  {
+    "index": 6956,
+    "sanskrit": "ṛcā sadyojātamiti mṛdāharaṇamācaret | vāmadevāya iti ca jalaprakṣepamācaret ||",
+    "english": "39. The clay shall be brought with the mantra “Sadyo Jātam”[53]. The sprinkling of water shall be performed with the mantra “Vāmadevāya”[54].",
+    "morphology": "ṛcā_ṛc_SIF sadyojātam_sadyojāta_SAM iti_iti_ mṛd_mṛd_Cp āharaṇam_āharaṇa_SANe ācaret_ācar_SPr3O  / vāmadevāya_vāmadeva_SDM iti_iti_ ca_ca_ jala_jala_Cp prakṣepam_prakṣepa_SAM"
+  },
+  {
+    "index": 6957,
+    "sanskrit": "tathā ca smaryate 'yaṃ na santaṃ na cāsantaṃ nāśrutaṃ na bahuśrutam / na suvṛttaṃ na durvṛttaṃ veda kaścitsa vai yatiḥ //",
+    "english": "The same is described by the smrti thus : “The ascetic is precisely he whom no one knows to be high-born or low-born, ignorant or learned, rogue or virtuous' .",
+    "morphology": "tathā_tathā_ ca_ca_ smaryate_smṛ_SPr3InPv ayam_idam_SNM na_na_ santam_sat_SAM na_na_ ca_ca_ asantam_asat_SAM na_na_ aśrutam_aśruta_SAM na_na_ bahu_bahu_Cp śrutam_śruta_SAM  / na_na_ su_su_ vṛttam_vṛtta_SAM na_na_ durvṛttam_durvṛtta_SAM veda"
+  },
+  {
+    "index": 6958,
+    "sanskrit": "gacchagaccha mahādeva asmābhiḥ sahitaḥ prabho | tato viṣṇuruvācedaṃ prastāvasadṛśaṃvacaḥ || 49 ||",
+    "english": "49. “Go ahead, go ahead, O Lord Mahādeva, along with us.” Then Viṣṇu spoke these words appropriate to the occasion:",
+    "morphology": "gaccha_gam_SPr2Im gaccha_gam_SPr2Im mahādeva_mahādeva_SVM asmābhiḥ_mad_PI sahitaḥ_sahita_SNM prabho_prabhu_SVM  / tatas_tatas_ viṣṇuḥ_viṣṇu_SNM uvāca_vac_SPs3In idam_idam_SANe prastāva_prastāva_Cp sadṛśam_sadṛśa_SANe vacaḥ_vacas"
+  },
+  {
+    "index": 6959,
+    "sanskrit": "celaka u ha smāha śāṇḍilyāyanaḥ ima eva lokāstisraḥ svayamātṛṇavatyaścitayo yajamānaścaturthī sarve kāmāḥ pañcamīmāṃśca lokāntsaṃskurva ātmānaṃ ca sarvāṃśca kāmānityeva vidyāditi //",
+    "english": "And Kelaka Sândilyâyana said, 'Let him know that the three layers containing the naturally-perforated (bricks) are these worlds, that the fourth (layer) is the Sacrificer, and the fifth all objects of desire; and that it is these worlds, and his own self and all his objects of desire he compasses.'",
+    "morphology": "celakaḥ_celaka_SNM u_u_ ha_ha_ sma_sma_ āha_ah_SPs3In śāṇḍilyāyanaḥ_śāṇḍilyāyana_SNM ime_idam_PNM eva_eva_ lokāḥ_loka_PNM tisraḥ_tri_PNF svayamātṛṇavatyaḥ_svayamātṛṇavat_PNF citayaḥ_citi_PNF yajamānaḥ_yaj_SNPaPrM ca"
+  }
+]

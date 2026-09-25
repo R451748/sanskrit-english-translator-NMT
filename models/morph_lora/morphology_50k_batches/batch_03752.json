@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30008,
+    "sanskrit": "vinā snānaṃ tu yatkarma puṇyakāryamayaṃ śubham | kriyate niṣphalaṃ brahmaṃstatpragṛhṇaṃti rākṣasāḥ || 28 ||",
+    "english": "28. O Brāhmaṇa, if an auspicious and meritorious rite is performed without taking bath, it is fruitless. Rākṣasas accept the same.",
+    "morphology": "vinā_vinā_ snānam_snāna_SANe tu_tu_ yat_yad_SNNe karma_karman_SNNe puṇya_puṇya_Cp kārya_kārya_Cp mayam_maya_SNNe śubham_śubha_SNNe  / kriyate_kṛ_SPr3InPv niṣphalam_niṣphala_SNNe brahman_brahman_SVM tat_tad_SANe pragṛhṇanti_pragrah_PPr"
+  },
+  {
+    "index": 30009,
+    "sanskrit": "evamuktastu kṛṣṇena tūṣṇīṃbhūtā jalecarāḥ || 23 ||",
+    "english": "23. On being told thus by Kṛṣṇa, the aquatic beings kept quiet.",
+    "morphology": "evam_evam_ uktaḥ_vac_SNPaM tu_tu_ kṛṣṇena_kṛṣṇa_SIM tūṣṇīṃbhūtāḥ_tūṣṇīṃbhūta_PNM jalecarāḥ_jalecara_PNM"
+  },
+  {
+    "index": 30010,
+    "sanskrit": "sā cāgatya pratīhārya mukhenāveditātmakā / praviveśa mahādevyā nikaṭaṃ tatkṛtādarā //",
+    "english": "And Indumatī arrived, and had herself announced by the female warder, and went into the presence of the great queen, who received her graciously.",
+    "morphology": "sā_tad_SNF ca_ca_ āgatya_āgam_Co mukhena_mukha_SINe āvedita_āveday_PaCp ātmakā_ātmaka_SNF  / praviveśa_praviś_SPs3In mahādevyāḥ_mahādevī_SGF nikaṭam_nikaṭa_SANe tad_tad_Cp kṛta_kṛ_PaCp ādarā_ādara_SNF  /"
+  },
+  {
+    "index": 30011,
+    "sanskrit": "kare grahītumārabdhāḥ svakarairhṛṣṭamānasāḥ | gajastānkarasaṃlagnānvicikṣepa tapodhanān || 48 ||",
+    "english": "48. They were extremely delighted and so began to hold and fondle his trunk with their own hands. The elephant tossed off the ascetics even as they held themselves to the trunk.",
+    "morphology": "kare_kara_SLM grahītum_grah_In ārabdhāḥ_ārabh_PNPaM sva_sva_Cp karaiḥ_kara_PIM hṛṣṭa_hṛṣ_PaCp mānasāḥ_mānasa_PNM  / gajaḥ_gaja_SNM tān_tad_PAM kara_kara_Cp saṃlagnān_saṃlag_PAPaM vicikṣepa_vikṣip_SPs3In tapodhanān_tapodh"
+  },
+  {
+    "index": 30012,
+    "sanskrit": "ity evaṃ tā rudantyaś ca vadantyaś ca punaḥ punaḥ /",
+    "english": "Exclaiming thus those beautiful women continually wept and shed profuse tears.",
+    "morphology": "iti_iti_ evam_evam_ tāḥ_tad_PNF rudantyaḥ_rud_PNPaPrF ca_ca_ vadantyaḥ_vad_PNPaPrF ca_ca_ punar_punar_ punar_punar_  /"
+  },
+  {
+    "index": 30013,
+    "sanskrit": "pratidoṣanindā, pratilomastavaḥ,",
+    "english": "condemnation of a man of opposite defects; condemnation of his opponent;",
+    "morphology": "__pratidoṣa_U"
+  },
+  {
+    "index": 30014,
+    "sanskrit": "nacāpi tasya parairanupakāryasya tadapekṣā yuktā yena sahakārivaikalyāt kadācijjanayed iti syāt // kṣaṇikeṣvapītyādinā bhadantayogasenamatamāśaṅkate",
+    "english": "Nor can it be said to be dependent upon the help of other things, as by its very nature it is incapable of being helped by anything else; hence its activity towards producing its effect could not be hold to bo occasional on account of the occasional absence of such aids.",
+    "morphology": "na_na_ ca_ca_ api_api_ tasya_tad_SGNe paraiḥ_para_PIM anupakāryasya_anupakārya_SGNe tad_tad_Cp apekṣā_apekṣā_SNF yuktā_yuj_SNPaF yena_yad_SINe sahakāri_sahakārin_Cp vaikalyāt_vaikalya_SBNe kadācid_kadācid_ janayet_janay_SPr3O iti_iti_ syāt"
+  },
+  {
+    "index": 30015,
+    "sanskrit": "asyāṃ jagadaraṇyānyāṃ muhyantaṃ mugdhabālavat / svayamārādhya dhairyāśamātmanātmānamuddharet //",
+    "english": "Let people rely on their patience, and redeem their souls by their own exertions; which are otherwise seen to be wandering about in the forest of this world, like lost and stray boys:",
+    "morphology": "asyām_idam_SLF jagat_jagant_Cp araṇyānyām_araṇyānī_SLF muhyantam_muh_SAPaPrM mugdha_muh_PaCp bāla_bāla_Cp vat_vat_  / svayam_svayam_ ārādhya_ārādhay_Co dhairya_dhairya_Cp āśam_āśā_SAF ātmanā_ātman_SIM ātmānam_ātman_SAM uddharet_ud"
+  }
+]

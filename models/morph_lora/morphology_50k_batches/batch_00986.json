@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7880,
+    "sanskrit": "namaḥ astu pīta varṇāya pīta ambara dharāya ca pīta dhvaja patākāya pīta sraj anulepine",
+    "english": "Salutations to thee that art brown in complexion, to thee that art clad in brown vestments, to thee, that hast a brown banner with brown flags, to thee that wearest brown garlands and usest brown unguents.",
+    "morphology": "namaḥ_namas_SNNe astu_as_SPr3Im pīta_pīta_Cp varṇāya_varṇa_SDM pīta_pīta_Cp ambara_ambara_NeCp dharāya_dhara_SDM ca_ca_U pīta_pīta_Cp dhvaja_dhvaja_MCp patākāya_patākā_SDM pīta_pīta_Cp sraj_sraj_FCp anulepine_anulepin_SDM"
+  },
+  {
+    "index": 7881,
+    "sanskrit": "brahmovāca | iti rudroktavacanaṃ lokācārasugarbhitam | śrutvāhaṃ nāradamune sāṃtvayannagadaṃ śivam ||",
+    "english": "8. O sage Nārada, on hearing the words of Śiva best speaking of His strict adherence to the conventions of the world I told Śiva, consoling Him.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ rudra_rudra_Cp ukta_vac_PaCp vacanam_vacana_SANe loka_loka_Cp ācāra_ācāra_Cp su_su_ garbhitam_garbhita_SANe  / śrutvā_śru_Co aham_mad_SN nārada_nārada_Cp mune_muni_SVM sāṃtvayan_sāṃtvay_SNPaP"
+  },
+  {
+    "index": 7882,
+    "sanskrit": "devatā bhāvavṛttastu ṛṣiś caivāghamarṣaṇaḥ // chandaścānuṣṭubhaṃ tasya bhāvavṛtto hariḥ smṛtaḥ /",
+    "english": "Bhāvavṛtta is the deity, Aghamarṣaṇa is the sage and anuṣṭubh is the metre for the aghamarṣaṇa hymn. Lord Hari Viṣṇu is remembered to be Bhāvavṛtta.",
+    "morphology": "devatāḥ_devatā_PAF bhāva_bhāva_Cp vṛttaḥ_vṛt_SNPaM tu_tu_ ṛṣiḥ_ṛṣi_SNM ca_ca_ eva_eva_ aghamarṣaṇaḥ_aghamarṣaṇa_SNM  // chandaḥ_chandas_SANe ca_ca_ anuṣṭubham_anuṣṭubh_SAF tasya_tad_SGM bhāva_bhāva_Cp vṛttaḥ_"
+  },
+  {
+    "index": 7883,
+    "sanskrit": "bheka uvāca | asmiñjalāśaye vahniḥ sāṃprataṃ paryavasthitaḥ | tasyaite jalamadhyasthā mṛtā bhūrijalodbhavāḥ || 41 ||",
+    "english": "The frog said: 41. Now Vahni is staying in this water pond. On account of him many aquatic animals are dead under water itself.",
+    "morphology": "bhekaḥ_bheka_SNM uvāca_vac_SPs3In  / asmin_idam_SLM jalāśaye_jalāśaya_SLM vahniḥ_vahni_SNM sāṃpratam_sāṃpratam_ paryavasthitaḥ_paryavasthā_SNPaM  / tasya_tad_SGM ete_etad_PNM jala_jala_Cp madhya_madhya_Cp sthāḥ_stha_PNM mṛtāḥ_mṛ"
+  },
+  {
+    "index": 7884,
+    "sanskrit": "dhṛṣṭadyumnam ca samare hantā aham pāpa kāriṇam karmaṇā yena tena iha mṛdunā dāruṇena vā",
+    "english": "I shall certainly slay in battle Dhrishtadyumna, that perpetrator of unrighteous deeds.",
+    "morphology": "dhṛṣṭadyumnam_dhṛṣṭadyumna_SAM ca_ca_U samare_samara_SLNe hantā_han_SFu3In aham_mad_SN pāpa_pāpa_Cp kāriṇam_kārin_SAM karmaṇā_karman_SINe yena_yad_SINe tena_tad_SINe iha_iha_U mṛdunā_mṛdu_SINe dāruṇena_dāruṇa_SINe vā_vā_U"
+  },
+  {
+    "index": 7885,
+    "sanskrit": "bhuktvā vā yadi vā'bhuktvā divā vā yadi vā niśi | na kālaniyamastatra yatra prācī sarasvatī || 8 ||",
+    "english": "8. This can be after taking food or while abstaining from food. It may be by day or at night; In Prācī Sarasvatī there is no time restriction (for drinking water).",
+    "morphology": "bhuktvā_bhuj_Co vā_vā_ yadi_yadi_ vā_vā_ a_a_ bhuktvā_bhuj_Co divā_divā_ vā_vā_ yadi_yadi_ vā_vā_ niśi_niś_SLF  / na_na_ kāla_kāla_Cp niyamaḥ_niyama_SNM tatra_tatra_ yatra_yatra_ prācī_prāñc_SNF sarasvatī_sarasvatī_SNF  /"
+  },
+  {
+    "index": 7886,
+    "sanskrit": "adyā'pi devaloke tu śatakoṭipravistaram | tadartho'tra caturlakṣaḥ saṃkṣepeṇa niveśitaḥ || 26 ||",
+    "english": "26. Even today, in the celestial world, it extends to a hundred crores (of verses). The essence thereof is summarized into four hundred thousand (verses) (in this world).",
+    "morphology": "adyā_adya_ api_api_ deva_deva_Cp loke_loka_SLM tu_tu_ śata_śata_Cp koṭi_koṭi_Cp pravistaram_pravistara_SNNe  / tad_tad_Cp arthaḥ_artha_SNM atra_atra_ catur_catur_Cp lakṣaḥ_lakṣa_SNM saṃkṣepeṇa_saṃkṣepa_SIM niveśitaḥ_niveśay_SNP"
+  },
+  {
+    "index": 7887,
+    "sanskrit": "japatām juhvatām ca eva nityam ca prayata ātmanām",
+    "english": "He that is always moving;",
+    "morphology": "japatām_jap_PGPaPrM juhvatām_hu_PGPaPrM ca_ca_U eva_eva_U nityam_nityam_U ca_ca_U prayata_prayam_PaPsCp"
+  }
+]

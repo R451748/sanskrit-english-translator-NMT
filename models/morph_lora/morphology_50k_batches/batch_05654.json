@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45224,
+    "sanskrit": "eka veda samāyuktāḥ eka mantra vidhi kriyāḥ",
+    "english": "and there was only one mantra (the Om), and there was one ordinance.",
+    "morphology": "eka_eka_Cp veda_veda_MCp samāyuktāḥ_samāyuj_PNPaPsF"
+  },
+  {
+    "index": 45225,
+    "sanskrit": "tatra pañcabandho daṇḍaḥ //",
+    "english": "Herein a fine of ten times the amount panchabandha shall be imposed",
+    "morphology": "tatra_tatra_ pañca_pañcan_Cp bandhaḥ_bandha_SNM daṇḍaḥ_daṇḍa_SNM  /"
+  },
+  {
+    "index": 45226,
+    "sanskrit": "śītātapādivihitaṃ sukhaṃ duḥkhaṃ vidanti ca / pātumattumavaṣṭabdhumīhituṃ śaknuvanti no //",
+    "english": "They are susceptible of feeling the pain and pleasure, occasioned by heat and cold; but they are incapable of the actions of eating, drinking, holding and supporting anything with their spiritual bodies.",
+    "morphology": "śīta_śīta_Cp ātapa_ātapa_Cp ādi_ādi_Cp vihitam_vidhā_SAPaNe sukham_sukha_SANe duḥkham_duḥkha_SANe vidanti_vid_PPr3In ca_ca_  / pātum_pā_In attum_ad_In avaṣṭabdhum_avaṣṭambh_In īhitum_īh_In śaknuvanti_śak_PPr3In no_no_  /"
+  },
+  {
+    "index": 45227,
+    "sanskrit": "papoṣa sā taṃ covāca ratiste 'haṃ patirmama //",
+    "english": "She also said to him, “ am Rati. You are my husband.",
+    "morphology": "papoṣa_puṣ_SPs3In sā_tad_SNF tam_tad_SAM ca_ca_ uvāca_vac_SPs3In ratiḥ_rati_SNF te_tvad_SG"
+  },
+  {
+    "index": 45228,
+    "sanskrit": "dṛṣṭvā vyavasthitam bhīmam tava putraḥ mahā balaḥ caran citratarān mārgān kaunteyam abhidudruve",
+    "english": "Beholding Bhima firmly stationed on the field, thy mighty son, careering in more beautiful motions, rushed towards that son of Kunti.",
+    "morphology": "dṛṣṭvā_dṛś_Co vyavasthitam_vyavasthā_SAPaPsM bhīmam_bhīma_SAM tava_tvad_SG putraḥ_putra_SNM mahā_mahat_Cp balaḥ_bala_SNM caran_car_SNPaPrM citratarān_citratara_PAM mārgān_mārga_PAM kaunteyam_kaunteya_SAM abhidudruve_abhidru_SPs3In"
+  },
+  {
+    "index": 45229,
+    "sanskrit": "ikṣvākuvaṃśajaḥ śrīmānrājā parama dhārmikaḥ | āsīnmitrasahonāma śreṣṭhaḥ sarvadhanurbhṛtām || 17 ||",
+    "english": "17. Born of the Ikṣvāku race, there was a glorious king named Mitrasaha[1] who was extremely virtuous. He was the most excellent one among all wielders of bow.",
+    "morphology": "ikṣvāku_ikṣvāku_Cp vaṃśa_vaṃśa_Cp jaḥ_ja_SNM śrīmān_śrīmat_SNM rājā_rājan_SNM parama_parama_SVM dhārmikaḥ_dhārmika_SNM  / āsīt_as_S3ImIn mitrasahaḥ_mitrasaha_SNM nāma_nāma_ śreṣṭhaḥ_śreṣṭha_SNM sarva_sarva_Cp dha"
+  },
+  {
+    "index": 45230,
+    "sanskrit": "mriyamāṇo'pyādadīta na rājā brāhmaṇātkaram | na ca kṣudhā 'sya saṃsīdedbrāhmaṇo viṣaye vasan || 95 ||",
+    "english": "95. A king shall not levy and exact tax from a Brāhmaṇa even when he is faced by death. A Brāhmaṇa residing in his realm should not (be allowed to) languish due to hunger.",
+    "morphology": "mriyamāṇaḥ_mṛ_SNPaPrMPv api_api_ ādadīta_ādā_SPr3O na_na_ rājā_rājan_SNM brāhmaṇāt_brāhmaṇa_SBM karam_kara_SAM  / na_na_ ca_ca_ kṣudhā_kṣudh_SIF asya_idam_SGM saṃsīdet_saṃsad_SPr3O brāhmaṇaḥ_brāhmaṇa_SNM viṣaye_vi"
+  },
+  {
+    "index": 45231,
+    "sanskrit": "tathā ukta vākyam tu purohitam tam",
+    "english": "nothing more conducive to fame and virtue, so far as Drupada is concerned.' \"Having said this, the priest remained silent and humbly waited for an answer.",
+    "morphology": "tathā_tathā_U"
+  }
+]

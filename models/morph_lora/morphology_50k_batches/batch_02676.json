@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21400,
+    "sanskrit": "agastya uvāca | trilocanaṃ samāsādya devadevaḥ ṣaḍānanaḥ | jagadaṃbikayāyuktaḥ kiṃ cakārāśu tadvada || 1 ||",
+    "english": "Agastya said: 1. After reaching the holy shrine Trilocana, what did the Lord of Devas do in the company of the Mother of the universe? Tell me quickly. Skanda said:",
+    "morphology": "agastyaḥ_agastya_SNM uvāca_vac_SPs3In  / trilocanam_trilocana_SAM samāsādya_samāsāday_Co devadevaḥ_devadeva_SNM ṣaḍānanaḥ_ṣaḍānana_SNM  / jagat_jagant_Cp ambikayā_ambikā_SIF ayuktaḥ_ayukta_SNM kim_ka_SANe cakāra_kṛ_SPs3In āśu_"
+  },
+  {
+    "index": 21401,
+    "sanskrit": "anugrahaḥ paśūṇām hi saṃskāraḥ vidhi coditaḥ",
+    "english": "Animals have become sacred (fit for sacrifice) through the kindness manifested towards them by the Creator himself in the ordinance laid down by him.",
+    "morphology": "anugrahaḥ_anugraha_SNM"
+  },
+  {
+    "index": 21402,
+    "sanskrit": "ityarthaḥ / ityevamāha smeti pūrveṇa sambandhaḥ /",
+    "english": "So said hethe words occurring in the beginning of the text",
+    "morphology": "iti_iti_ arthaḥ_artha_SNM  / iti_iti_ evam_evam_ āha_ah_SPs3In sma_sma_ iti_ pūrveṇa_pūrva_SINe sambandhaḥ_"
+  },
+  {
+    "index": 21403,
+    "sanskrit": "vāggha vā etasyāgnihotrasyāgnihotrī mana eva vatsastadidam manaśca vākca samānameva sannāneva tasmātsamānyā rajjvā vatsaṃ ca mātaraṃ cābhidadhati teja eva śraddhā satyamājyam //",
+    "english": "Verily, the Agnihotrî cow is the speech of the Agnihotra, and her calf is its mind. Now these two, mind and speech, whilst being one and the same, are, as it were, distinct from each other: therefore they tie up the calf and its mother with one and the same rope; and the fire , indeed, is faith, and the ghee truth.",
+    "morphology": "vāc_vāc_SNF ha_ha_ vai_vai_ etasya_etad_SGNe agnihotrasya_agnihotra_SGNe agnihotrī_agnihotrī_SNF manaḥ_manas_SNNe eva_eva_ vatsaḥ_vatsa_SNM tat_tad_SNNe idam_idam_SNNe manaḥ_manas_SNNe ca_ca_ vāc_vāc_SNF ca_ca_ samānam_samāna_SNNe eva_eva_ sa"
+  },
+  {
+    "index": 21404,
+    "sanskrit": "vyaktisambandharūpāṇāṃ jātīnāṃ ca vyavasthitau /",
+    "english": "There is another point: granting that ‘there are universals which serve to manifest the sounds, and there are as many of these as there are letters’;",
+    "morphology": "vyakti_vyakti_Cp sambandha_sambandha_Cp rūpāṇām_rūpa_PGF jātīnām_jāti_PGF ca_ca_ vyavasthitau_vyavasthiti_SLF"
+  },
+  {
+    "index": 21405,
+    "sanskrit": "iti saṃkṣepataḥ proktaṃ ketuliṃgaṃ mahodayam | grahapīḍopaśamanaṃ sarvapātakanāśanam || 9 ||",
+    "english": "9. Thus Ketuliṅga granting great prosperity has been succinctly mentioned. It suppresses the afflictions caused by the Planets and destroys all sins.",
+    "morphology": "iti_iti_ saṃkṣepataḥ_saṃkṣepa_SBM proktam_pravac_SNPaNe ketu_ketu_Cp liṃgam_liṅga_SNNe mahā_mahat_Cp udayam_udaya_SNNe  / graha_graha_Cp pīḍā_pīḍā_Cp upaśamanam_upaśamana_SNNe sarva_sarva_Cp pātaka_pātaka_Cp nāśanam_nāśana_SN"
+  },
+  {
+    "index": 21406,
+    "sanskrit": "tatra divyāpsarobhiśca devagandharvagāyanaiḥ | krīḍate sevyamānastu kalpakoṭiśataṃ nṛpa || 48 ||",
+    "english": "There he sports about with the divine Apsarās and musicians of Devas and Gandharvas serving him for a hundred crores of Kalpas, O king.",
+    "morphology": "tatra_tatra_ divya_divya_Cp apsarobhiḥ_apsaras_PIF ca_ca_ deva_deva_Cp gandharva_gandharva_Cp gāyanaiḥ_gāyana_PINe  / krīḍate_krīḍ_SPr3In sevyamānaḥ_sev_SNPaPrMPv tu_tu_ kalpa_kalpa_Cp koṭi_koṭi_Cp śatam_śata_SANe nṛpa_nṛpa_SVM"
+  },
+  {
+    "index": 21407,
+    "sanskrit": "tatas kuruṣu bhagneṣu bībhatsuḥ aparājitaḥ bhīmasenam samāsādya muhūrtam saḥ abhyavartata",
+    "english": "After the Kurus had been routed, the unvanquished Vibhatsu, approaching Bhimasena, stayed there for a moment.",
+    "morphology": "tatas_tatas_U kuruṣu_kuru_PLM bhagneṣu_bhañj_PLPaPsM bībhatsuḥ_bībhatsu_SNM aparājitaḥ_aparājita_SNM bhīmasenam_bhīmasena_SAM samāsādya_samāsāday_Co muhūrtam_muhūrta_SANe saḥ_tad_SNM abhyavartata_abhivṛt_SPs3In"
+  }
+]

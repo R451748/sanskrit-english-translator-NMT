@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9200,
+    "sanskrit": "kathamasyopakārasya kariṣye te pratikriyāḥ / manye kulāṅganāṃ loke loke sarvāstvayādhunā //",
+    "english": "How shall I, O virtuous lady! repay the recompense of what thou hast done for me, and whom I now regard as the wisest and best of all the virtuous ladies in the whole world.",
+    "morphology": "katham_katham_ asya_idam_SGM upakārasya_upakāra_SGM kariṣye_kṛ_SFu1In te_tvad_SG pratikriyāḥ_pratikriyā_PAF  / manye_man_SPr1In kula_kula_Cp aṅganām_aṅganā_SAF loke_loka_SLM loke_loka_SLM sarvāḥ_sarva_PAF"
+  },
+  {
+    "index": 9201,
+    "sanskrit": "bahis ca adhiṣṭhite yadvat jñāninām karma saṃbhavam karma tat kurute tarṣāt ahaṃkāra parigraham",
+    "english": "In that succession of existences, the living creature, seized by the idea of Self in consequence of desire, engages itself in acts.",
+    "morphology": "bahis_bahis_U ca_ca_U adhiṣṭhite_adhiṣṭhā_SLPaPsM yadvat_yadvat_U jñāninām_jñānin_PGM karma_karman_NeCp saṃbhavam_sambhava_SNNe karma_karman_SNNe tat_tad_SNNe kurute_kṛ_SPr3In"
+  },
+  {
+    "index": 9202,
+    "sanskrit": "so 'tha tenopadiṣṭaṃ taṃ yogam āsthāya bhūpatiḥ / tasmin puruṣadehe 'ntas tyaktasvatanur āviśat // tataḥ sa jṛmbhikāṃ kṛtvā śanair unmīlya locane / gatanidra ivottasthau puruṣaḥ śayanīyataḥ //",
+    "english": "enter it.” The king had recourse to the magic contemplation taught by Maya, and entered the body of that hero, abandoning his own frame.[13] Then the hero yawned slowly, opened his eyes and rose up from the bed, as if awaking out of sleep.",
+    "morphology": "saḥ_tad_SNM atha_atha_ tena_tad_SIM upadiṣṭam_upadiś_SAPaM tam_tad_SAM yogam_yoga_SAM āsthāya_āsthā_Co bhūpatiḥ_bhūpati_SNM  / tasmin_tad_SLM puruṣa_puruṣa_Cp dehe_deha_SLM antar_antar_ tyakta_tyaj_PaCp sva_sva_Cp tanuḥ_tanu_SNM āviś"
+  },
+  {
+    "index": 9203,
+    "sanskrit": "mātṛ jātyām prasūyante pravarāḥ hīna yoniṣu yathā caturṣu varṇeṣu dvayoḥ ātmā asya jāyate",
+    "english": "When they beget children in women taken from castes that are inferior to theirs, such children become inferior to their fathers, for they become invested with the status that belongs to their mothers Thus as regards the four pure orders, persons beget children invested with their own status upon spouses taken from their own orders as also upon them that are taken from the orders immediately below their own.",
+    "morphology": "mātṛ_mātṛ_FCp jātyām_jāti_SLF prasūyante_prasū_PPr3In pravarāḥ_pravara_PNM hīna_hā_PaPsCp yoniṣu_yoni_PLF yathā_yathā_U caturṣu_catur_PLM varṇeṣu_varṇa_PLM dvayā_dvi_DuVM"
+  },
+  {
+    "index": 9204,
+    "sanskrit": "kīdṛśā ete duḥkhadarśanaheyāḥ kīdṛśā yāvad bhāvanāheyāḥ /",
+    "english": "What is the characteristic or definition of the aenuśayas susceptible of being abandoned through the Seeing of Suffering? What is the definition of the aznuśayas susceptible of being?",
+    "morphology": "kīdḥ_kīdḥ_PNM ete_etad_PNM duḥkha_duḥkha_Cp darśana_darśana_Cp heyāḥ_hā_PNMGd kīdḥ_kīdḥ_PNM yāvat_yāvat_"
+  },
+  {
+    "index": 9205,
+    "sanskrit": "an ādi nidhanam ca āhuḥ akṣaram param eva ca",
+    "english": "It hath been said that it hath neither beginning nor end, and that it is both indestructible and destructible.[842] Though it is without attributes by itself, yet it enters all existent objects and as such assumes attributes.",
+    "morphology": "an_an_U ādi_ādi_SANe"
+  },
+  {
+    "index": 9206,
+    "sanskrit": "tathā hi loke yadātmakaṃ kāraṇaṃ bhavati śuklais tu śuklaḥ /",
+    "english": "For instance, in the ordinary world, it is found that the Product is of the same essence as the Cause;",
+    "morphology": "tathā_tathā_ hi_hi_ loke_loka_SLM yad_yad_Cp ātmaka_ātmaka_SNNe kāraṇam_kāraṇa_SNNe bhavati_bhū_SPr3In śuklaiḥ_śukla_PIM tu_tu_ śuklaḥ_śukla_SNM  /"
+  },
+  {
+    "index": 9207,
+    "sanskrit": "sūta uvāca | vicitramidamākhyānaṃ mayā samanuvarṇitam | bhūyo'pi vakṣye māhātmyaṃ somavāravratoditam || 177 ||",
+    "english": "Sūta said: 177. This wonderful narrative has been told by me. I shall further recount the greatness of the pious Monday observance.[Sanskrit text for this chapter is available]",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / vicitram_vicitra_SNNe idam_idam_SNNe ākhyānam_ākhyāna_SNNe mayā_mad_SI samanuvarṇitam_samanuvarṇay_SNPaNe  / bhūyas_bhūyas_ api_api_ vakṣye_vac_SFu1In māhātmyam_māhātmya_SANe somavāravrata_somavāra"
+  }
+]

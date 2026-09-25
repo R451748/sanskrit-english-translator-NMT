@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12384,
+    "sanskrit": "naitat sarvaṃ yojanaparisaṃkhyayā sukaraṃ parisaṃkhyātum /",
+    "english": "It is not easy to calculate this height in yojanas, but 72a-b.",
+    "morphology": "na_na_ etat_etad_SNNe sarvam_sarva_SNNe yojana_yojana_Cp parisaṃkhyayā_parisaṃkhyā_SIF"
+  },
+  {
+    "index": 12385,
+    "sanskrit": "kuryām apūrvam na kṛtam yat anyaiḥ vivitsamānaḥ kim u tatra sādhu bruvāṇam evam nṛpatim yayātim",
+    "english": "When others desirous of acquiring religious merits do not accept gifts, how can I do what they themselves do not? On the conclusion of this speech, that best of kings, Yayati, was then addressed by Vasumat in the following words.'\" SECTION XCIII (Sambhava Parva continued) \"Vasumat said, 'I am Vasumat, the son of Oshadaswa.",
+    "morphology": "kuryām_kṛ_SPr1O apūrvam_apūrva_SANe na_na_U kṛtam_kṛ_SNPaPsNe yat_yad_SNNe anyaiḥ_anya_PIM vivitsamānaḥ_vivits_SNPaPrM"
+  },
+  {
+    "index": 12386,
+    "sanskrit": "mātovāca | yadi putra tvayā kāryaṃ prāyaścittaṃ viśuddhaye | tadahaṃ patinā sārdhaṃ pravekṣyāmi puro'nalam || 46 ||",
+    "english": "Mother said: 46. If it is compulsory for you, dear son, to perform this expiatory rite for the sake of purity, then I will enter the burning fire before you, along with my husband.",
+    "morphology": "mātā_mātṛ_SNF uvāca_vac_SPs3In  / yadi_yadi_ putra_putra_SVM tvayā_tvad_SI kāryam_kṛ_SNNeGd prāyaścittam_prāyaścitta_SNNe viśuddhaye_viśuddhi_SDF  / tat_tad_SANe aham_mad_SN patinā_pati_SIM sārdham_sārdham_"
+  },
+  {
+    "index": 12387,
+    "sanskrit": "itthaṃ svadurnayavipākavaśena divyāḥ śāpacyutā hy avataranti manuṣyaloke / bhuktvā phalaṃ taducitaṃ ca nijāṃ gatiṃ te pūrvārjitena sukṛtena punaḥ prayānti // iti sa kathāṃ naravāhanadattaḥ sacivān niśamya gomukhataḥ / sālaṃkāravatīkas tutoṣa cakre tataś ca dinakṛtyam //",
+    "english": "[M] (main story line continued) “Thus divine beings fall by virtue of a curse, and, owing to the consequences of their own wickedness, are incarnate in the world of men, and after reaping the fruit appropriate to their bad conduct they again go to their own home on account of previously acquired merit.” When Naravāhanadatta heard this tale from his minister Gomukha, he and Alaṅkāravatī were delighted, and then he performed the duties of the day.",
+    "morphology": "ittham_ittham_ sva_sva_Cp durnaya_durnaya_Cp vipāka_vipāka_Cp vaśena_vaśa_SIM divyāḥ_divya_PNM śāpa_śāpa_Cp cyutāḥ_cyu_PNPaM hi_hi_ avataranti_avatṛ_PPr3In manuṣya_manuṣya_Cp loke_loka_SLM  / bhuktvā_bhuj_Co phalam_phala_SANe tad_tad_C"
+  },
+  {
+    "index": 12388,
+    "sanskrit": "tasya kāryam tvayā vīra rakṣaṇam su mahātmanaḥ",
+    "english": "It is thy duty, O hero, to protect that illustrious one.",
+    "morphology": "tasya_tad_SGM"
+  },
+  {
+    "index": 12389,
+    "sanskrit": "munayaḥ prāyaśastatra kṣudhā vyākulitendriyāḥ | parokṣavādavedārthānviparītānprapedire || 13 ||",
+    "english": "Most of the sages whose sense-organs had become confused due to hunger gave perverse interpretation of the Vedas.",
+    "morphology": "munayaḥ_muni_PNM prāyaśas_prāyaśas_ tatra_tatra_ kṣudhā_kṣudh_SIF vyākulita_vyākulita_Cp indriyāḥ_indriya_PNM  / parokṣa_parokṣa_Cp vāda_vāda_Cp veda_veda_Cp arthān_artha_PAM"
+  },
+  {
+    "index": 12390,
+    "sanskrit": "pāvitaḥ hi tvayā dehaḥ loke kīrtiḥ sthirā ca te",
+    "english": "Behold me! Thou hast rescued thy body. The fame of thy achievement will last in the world.",
+    "morphology": "pāvitaḥ_pāvay_SNPaPsM"
+  },
+  {
+    "index": 12391,
+    "sanskrit": "tāvattatra samāyātā rājakanyā suśobhanā | sarvalakṣaṇasampūrṇā sarvaireva guṇairyutā || 14 ||",
+    "english": "14. By that time the splendid princess came there. She was fully endowed with all characteristic features and all good qualities.",
+    "morphology": "tāvat_tāvat_ tatra_tatra_ samāyātā_samāyā_SNPaF rāja_rājan_Cp kanyā_kanyā_SNF su_su_ śobhanā_śobhana_SNF  / sarva_sarva_Cp sā_tad_SNF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9936,
+    "sanskrit": "vivaktum prāpti śaithilyāt tena asi hariṇaḥ kṛśaḥ",
+    "english": "It is for this that thou art pale and lean.",
+    "morphology": "vivaktum_vivac_In"
+  },
+  {
+    "index": 9937,
+    "sanskrit": "nārado malinātmā hi sarvado jjvaladehavān | jānīmastaṃ viśeṣeṇa vayaṃ tatsahavāsinaḥ ||",
+    "english": "42. Nārada has a dirty soul though he is endowed with a white brilliant complexion for ever. We know him particularly because we are his associates.",
+    "morphology": "nāradaḥ_nārada_SNM malina_malina_Cp ātmā_ātman_SNM hi_hi_ sarva_sarva_Cp daḥ_da_SNM jjvala_jvala_Cp dehavān_dehavat_SNM  / jānīmaḥ_jñā_PPr1In tam_tad_SAM viśeṣeṇa_viśeṣeṇa_ ā_ā_ agre_agre_ __agre_"
+  },
+  {
+    "index": 9938,
+    "sanskrit": "tasya pūrvamasattvāt /",
+    "english": "because before Production, the existent cannot be there.",
+    "morphology": "tasya_tad_SGM pūrvam_pūrvam_ asattvāt_asattva_SBNe"
+  },
+  {
+    "index": 9939,
+    "sanskrit": "nāstameti na codeti kvacitkiṃcitkadācana / sarvaṃ śāntamajaṃ brahma ciddhanaṃ suśilāghanam //",
+    "english": "There is nothing that rises or sets anywhere, nor appears or disappears at any time; but everything is unborn at all times, and lies quiet in the Divine Intellect, which is as solid as a massive rock.",
+    "morphology": "na_na_ astam_asta_SAM eti_i_SPr3In na_na_ ca_ca_ udeti_udi_SPr3In kvacid_kvacid_ kiṃcid_kaścit_SNNe kadācana_kadācana_  / sarvam_sarva_SNNe śāntam_śam_SNPaNe ajam_aja_SNNe brahma_brahman_SNNe cit_cit_Cp dhanam_dhana_SNNe suśilā_suśilā_Cp ghanam"
+  },
+  {
+    "index": 9940,
+    "sanskrit": "evamuktā tu sā vipraṃ pratyuvāca varāpsarā | viṣaye sati vakṣyāmi samarthāṃ manyase'tha mām ||",
+    "english": "7. O brahmin, thus addressed the excellent celestial damsel replied—“If you consider me competent and if there is a proper subject, I shall explain.”",
+    "morphology": "evam_evam_ uktā_vac_SNPaF tu_tu_ sā_tad_SNF vipram_vipra_SAM pratyuvāca_prativac_SPs3In vara_vara_Cp apsarāḥ_apsaras_SNF  / viṣaye_viṣaya_SLM sati_as_SLPaPrM vakṣyāmi_vac_SFu1In samarthām_samartha_SAF manyase_man_SPr2In atha_atha_"
+  },
+  {
+    "index": 9941,
+    "sanskrit": "yaccehābhyasyate'jasraṃ yacca dehāntare'pi ca / jāgratsvapneṣvasadapi tatsadityanubhūyate //",
+    "english": "Whatever a man is accustomed to do or think upon constantly, in this life or in the next state of his being; the same appears as a reality to him in his waking state of day dream, as unreality appears as real in the sleeping or night dream of a man.",
+    "morphology": "yat_yad_SNNe ca_ca_ iha_iha_ abhyasyate_abhyas_SPr3InPv ajasram_ajasram_ yat_yad_SNNe ca_ca_ deha_deha_Cp antare_antara_SLM api_api_ ca_ca_  / jāgrat_jāgrant_Cp svapneṣu_svapna_PLM asat_asat_SNNe api_api_ tat_tad_SNNe sat_as_SNPaPrNe iti_iti_ anubhūya"
+  },
+  {
+    "index": 9942,
+    "sanskrit": "samudagrarayāghātanipātitataṭadrumā | kulyānirgatavāḥpūrasamāplāvitakānanā || 26 ||",
+    "english": "26. With increased force of its current it causes the trees on the banks to fall down. It floods the forests (and fields) through the waters gushing out through its canals.",
+    "morphology": "samudagra_samudagra_Cp raya_raya_Cp āghāta_āghāta_Cp nipātita_nipātay_PaCp taṭa_taṭa_Cp drumā_druma_SNF  / kulyā_kulyā_Cp ā_ā_ a_a_ __sā_PaPrCp "
+  },
+  {
+    "index": 9943,
+    "sanskrit": "śrutvā vāditranirghoṣaṃ sarve śaṃkarasevakāḥ | utthitāstvaikapadyena sadevarṣigaṇā mudā || parasparaṃ samūcuste harṣanirbharamānasāḥ | atrāgacchaṃti girayaśśivānayanakāmyayā ||",
+    "english": "19. On hearing the loud sound of musical instruments trumpets etc. the attendants of Śiva simultaneously got up joyously along with the gods and sages. 20. With great joy m their minds they said to one another—“O here come the mountains to take Śiva over there!",
+    "morphology": "śrutvā_śru_Co vāditra_vāditra_Cp nirghoṣam_nirghoṣa_SAM sarve_sarva_PNM śaṃkara_śaṃkara_Cp sevakāḥ_sevaka_PNM  / utthitāḥ_utthā_PNPaM tu_tu_ aikapadyena_aikapadya_SINe sa_sa_ devarṣi_devarṣi_Cp gaṇāḥ_gaṇa_PNM mudā_mud_SIF "
+  }
+]

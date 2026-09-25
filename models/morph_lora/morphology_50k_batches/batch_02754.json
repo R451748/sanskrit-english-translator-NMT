@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22024,
+    "sanskrit": "vidyārtham /",
+    "english": "\"Or for the sake of learning\".",
+    "morphology": "vidyā_vidyā_Cp artham_artha_SAM"
+  },
+  {
+    "index": 22025,
+    "sanskrit": "aśvastomīyaṃ hutvā dvipadā juhoti aśvo vā aśvastomīyam puruṣo dvipadā dvipādvai puruṣo dvipratiṣṭhastadenam pratiṣṭhayā samardhayati //",
+    "english": "Having performed the Asvastomîya (set of) oblations, he offers the Dvipadâs ; for the Asvastomîya is the horse, and the Dvipadâ is man, for man is two-footed (dvipâd), supported on two (feet): he thus supplies him with a support.",
+    "morphology": "aśvastomīyam_aśvastomīya_SANe hutvā_hu_Co dvipadāḥ_dvipadā_PAF juhoti_hu_SPr3In aśvaḥ_aśva_SNM vai_vai_ aśvastomīyam_aśvastomīya_SNNe puruṣaḥ_puruṣa_SNM dvipadā_dvipadā_SNF dvipād_dvipad_SNM vai_vai_ puruṣaḥ_puruṣa_SNM dvipa"
+  },
+  {
+    "index": 22026,
+    "sanskrit": "sadasyastasya bhagavānharirnārāyaṇaḥ prabhuḥ | sanatkumārapramukhairādyairbrahmarṣibhirvṛtaḥ || 75 ||",
+    "english": "75. Lord Hari, Nārāyaṇa was his Sadasya (member of the sacrificial assembly). He was surrounded by the primordial sages, the chief of whom was Sanatkumāra.",
+    "morphology": "sadasyaḥ_sadasya_SNM tasya_tad_SGM bhagavān_bhagavant_SNM hariḥ_hari_SNM nārāyaṇaḥ_nārāyaṇa_SNM prabhuḥ_prabhu_SNM  / sanatkumāra_sanatkumāra_Cp pramukhaiḥ_pramukha_PIM ādyaiḥ_ādya_PIM brahmarṣibhiḥ_brahmarṣi_PIM vṛtaḥ_v"
+  },
+  {
+    "index": 22027,
+    "sanskrit": "śrībhagavānuvāca | anenaiva tu rūpeṇa mastakasthena vai tataḥ | tapaḥ kuru samādhistho mamārādhanatatparaḥ || 48 ||",
+    "english": "Śrī Bhagavān said: 48. With this form held on your head perform penance. Meditate on me with eagerness to propitiate me.",
+    "morphology": "śrī_śrī_Cp bhagavān_bhagavant_SNM uvāca_vac_SPs3In  / anena_idam_SINe eva_eva_ tu_tu_ rūpeṇa_rūpa_SINe mastaka_mastaka_Cp sthena_stha_SINe vai_vai_ tatas_tatas_  / tapaḥ_tapas_SANe kuru_kṛ_SPr2Im samādhi_samādhi_Cp sthaḥ_stha_SNM mama_mad"
+  },
+  {
+    "index": 22028,
+    "sanskrit": "akṣaraḥ kṣaram ātmānam abuddhiḥ tu abhimanyate",
+    "english": "Though Indestructible, he still regards himself Destructible.",
+    "morphology": "akṣaraḥ_akṣara_SNM kṣaram_kṣara_SAM ātmānam_ātman_SAM"
+  },
+  {
+    "index": 22029,
+    "sanskrit": "sarve te priyam icchanti bāndhavāḥ saha sṛñjayaiḥ",
+    "english": "And all our friends along with the Srinjayas equally desire to please thee.",
+    "morphology": "sarve_sarva_PNM te_tvad_SG priyam_priya_SANe icchanti_iṣ_PPr3In bāndhavāḥ_bāndhava_PNM"
+  },
+  {
+    "index": 22030,
+    "sanskrit": "anenākleśitābhihitā /",
+    "english": "This denotes freedom from troubles.",
+    "morphology": "anena_idam_SIM"
+  },
+  {
+    "index": 22031,
+    "sanskrit": "sarvasmādadhiko 'styeva śivaḥ paramakāraṇam | tatkṛtaṃ hi jagatsarvaṃ brahmādyāstasya kiṃkarāḥ ||",
+    "english": "38. Definitely there is Śiva superior to all, the great cause. The entire universe in created by him. Brahmā and and others are his servants.",
+    "morphology": "sarvasmāt_sarva_SBM adhikaḥ_adhika_SNM asti_as_SPr3In eva_eva_ śivaḥ_śiva_SNM parama_parama_Cp kāraṇam_kāraṇa_SNNe  / tat_tad_SNNe kṛtam_kṛ_SNPaNe hi_hi_ jagat_jagant_SNNe sarvam_sarva_SNNe brahma_brahman_Cp ādyāḥ_ādya_PNM tasya_tad_S"
+  }
+]

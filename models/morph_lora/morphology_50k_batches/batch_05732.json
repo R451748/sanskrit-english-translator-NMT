@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45848,
+    "sanskrit": "ṛṣaya ūcuḥ | andhakaḥ kasya putro'yaṃ kiṃprabhāvaḥ kathaṃ hataḥ | kasmāddhatastu saṃgrāme sarvaṃ vistarato vada || 13 ||",
+    "english": "The sages said: 13. Whose son was Andhaka? What was his power? How was he killed? Why. was he killed in battle? Do narrate everything in detail.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / andhakaḥ_andhaka_SNM kasya_ka_SGM putraḥ_putra_SNM ayam_idam_SNM kiṃprabhāvaḥ_kiṃprabhāva_SNM katham_katham_ hataḥ_han_SNPaM  / kasmāt_kasmāt_ hataḥ_han_SNPaM tu_tu_ saṃgrāme_saṃgrāma_S"
+  },
+  {
+    "index": 45849,
+    "sanskrit": "ayaṃ sohamidaṃ tanma ityākalpitakalpanam / jagadyathā nṛṇāṃ sphāraṃ tathaivoccairguṇaiḥ kṛmeḥ //",
+    "english": "As the world passes with us in the thoughts of ourselves, our egoism and meity of this and that; so it goes on with every creature, in its selfish thoughts and cares for its own kind.",
+    "morphology": "ayam_idam_SNM saḥ_tad_SNM ham_han_SNM idam_idam_SNNe tat_tad_SNNe me_mad_SG iti_iti_ ākalpita_ākalpay_PaCp kalpanam_kalpana_SNNe  / jagat_jagant_SNNe yathā_yathā_ nṛṇām_nṛ_PGM sphāram_sphāra_SNNe tathā_tathā_ eva_eva_ uccais_uccais_ guṇa"
+  },
+  {
+    "index": 45850,
+    "sanskrit": "sūtra uktaṃ “kathaṃ cittamadhyātmaṃ saṃkṣiptaṃ bhavati /",
+    "english": "The Sūtra says, “What is a mind internally concentrated?",
+    "morphology": "sūtre_sūtra_SLNe uktam_vac_SNPaNe "
+  },
+  {
+    "index": 45851,
+    "sanskrit": "hariḥ ca hariṇākṣaḥ ca sarva bhūta haraḥ prabhuḥ",
+    "english": "Thou art Hara in consequence of thy being the destroyer of all things.",
+    "morphology": "hariḥ_hari_SNM ca_ca_U hariṇākṣaḥ_hariṇākṣa_SNM ca_ca_U sarva_sarva_Cp bhūta_bhūta_NeCp haraḥ_hara_SNM prabhuḥ_prabhu_SNM"
+  },
+  {
+    "index": 45852,
+    "sanskrit": "navaiva lakṣā grāmāṇāṃ kāṃtipure prakīrtitāḥ | navalakṣāstathā caiva mācipure prakīrtitāḥ || 132 ||",
+    "english": "132. Nine hundred thousand villages are well-known in Kāntipūra.[26] Similarly nine hundred thousand villages are well-known in Mācipūra.[27]",
+    "morphology": "navā_navan_SNM eva_eva_ lakṣāḥ_lakṣa_PNM grāmāṇām_grāma_PGM kāṃtipure_kāntipura_SLNe prakīrtitāḥ_prakīrtay_PNPaM  / nava_navan_Cp lakṣāḥ_lakṣa_PNM tathā_tathā_ ca_ca_ eva_eva_ mācipure_mācipura_SLNe prakīrtitāḥ_prakīr"
+  },
+  {
+    "index": 45853,
+    "sanskrit": "anyonyakṛtasaṃdhānā maṃtraṃ kṛtvā samā hitāḥ | jagmuste tatra yatrāste prajāpatirakalmaṣaḥ || 20 ||",
+    "english": "20. Meeting and taking counsel together with great concentration, they all went to the place where the patriarch devoid of impurities was present.",
+    "morphology": "anyonya_anyonya_Cp kṛta_kṛ_PaCp saṃdhānāḥ_saṃdhāna_PNM maṃtram_mantra_SAM kṛtvā_kṛ_Co samāḥ_sama_PNM hitāḥ_hita_PNM  / jagmuḥ_gam_PPs3In te_tad_PNM tatra_tatra_ yatra_yatra_ āste_ās_SPr3In prajāpatiḥ_prajāpati_SNM akalma"
+  },
+  {
+    "index": 45854,
+    "sanskrit": "saṃditāḥ pāśajālaiś ca niryatnāś ca śaraiḥ kṛtāḥ / praviṣṭā dānavīṃ māyāṃ na śekus te viceṣṭitum //",
+    "english": "Being fettered by the nooses of the Danavas, wounded by their arrows and possessed by the illusions of their women the gods stood motionless.",
+    "morphology": "saṃditāḥ_saṃdā_PNPaM pāśa_pāśa_Cp jālaiḥ_jāla_PINe ca_ca_ niryatnāḥ_niryatna_PNM ca_ca_ śaraiḥ_śara_PIM kṛtāḥ_kṛ_PNPaM  / praviṣṭāḥ_praviś_PNPaM dānavīm_dānava_SAF māyām_māyā_SAF na_na_ śekuḥ_śak_PPs3In te_t"
+  },
+  {
+    "index": 45855,
+    "sanskrit": "vasantam avaskandeta //",
+    "english": "When he does so, he may be caught hold of",
+    "morphology": "vasantam_vasanta_SAM"
+  }
+]

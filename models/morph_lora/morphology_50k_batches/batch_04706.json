@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37640,
+    "sanskrit": "“syād evam bhikṣavo yuṣmākam anyaḥ sa tena kālena tena samayena",
+    "english": "“It may be, monastics, that at that time, on that occasion,",
+    "morphology": "syāt_as_SPr3O evam_evam_ bhikṣavaḥ_bhikṣu_PVM yuṣmākam_tvad_PG anyaḥ_anya_SNM"
+  },
+  {
+    "index": 37641,
+    "sanskrit": "carma avanaddham durgandhi pūrṇam mūtra purīṣayoḥ",
+    "english": "the skin for its outer case; full of urine and faeces and, therefore, emitting a foul smell;",
+    "morphology": "carma_carman_SINe"
+  },
+  {
+    "index": 37642,
+    "sanskrit": "nirākartuṃ samartho'pi munirmene tathaiva tat | etāvānsādhuvādo hi yataśca kṣamate svayam || 24 ||",
+    "english": "Although he (Nārada) was capable of countering the curses the sage accepted them. He deserves praise for it since he himself is capable (of countering the curses).",
+    "morphology": "nirākartum_nirākṛ_In samarthaḥ_samartha_SNM api_api_ muniḥ_muni_SNM mene_man_SPs3In tathā_tathā_ eva_eva_ tat_tad_SANe  / etāvān_etāvat_SNM sādhuvādaḥ_sādhuvāda_SNM hi_hi_ yatas_yatas_ ca_ca_ kṣamate_kṣam_SPr3In"
+  },
+  {
+    "index": 37643,
+    "sanskrit": "tatas tam ekam bahavaḥ parivārya samantataḥ parikālya kurūn sarvān śara varṣaiḥ avākiran",
+    "english": "Then a great many warriors, surrounding that single warrior on all sides, defeated the Kurus (that protected him) and covered him with shower of arrows.",
+    "morphology": "tatas_tatas_U tam_tad_SAM ekam_eka_SAM bahavaḥ_bahu_PNM parivārya_parivāray_Co samantataḥ_samantataḥ_U parikālya_parikālay_Co"
+  },
+  {
+    "index": 37644,
+    "sanskrit": "pūrveṇa yādṛśē deyaṃ tat patram uktam / anenāpatre dadataḥ pratiṣedhaḥ /",
+    "english": "The preceding verse has described the person to whom presents are to be made; the present verse proceeds to prohibit the giving of presents to unqualified persons.",
+    "morphology": "pūrveṇa_pūrva_SIM yādṛśā_yādṛśa_SNF deyam_dā_SNNeGd tat_tad_SNNe patram_pattra_SNNe uktam_vac_SNPaNe  / anena_idam_SINe a_a_ patre_pattra_SLNe dadataḥ_dā_SGPaPrM pratiṣedhaḥ_pratiṣedha_SNM  /"
+  },
+  {
+    "index": 37645,
+    "sanskrit": "yathā\"kāśasyānavayavasyāpi saṃyogipadārthabhedād ghaṭākāśaṃ piṭharākāśam iti bhedo bhavati tathehāpi bhaviṣyati /",
+    "english": "Though Ākāśa is without parts yet, on account of the diversity of the objects with which it comes into contact, it becomes subject to distinctions as ‘ākāśa in the Jar’, ‘ākāśa in the Pot’ and so forth; the same would be the case in the matter under consideration also.",
+    "morphology": "yathā_yathā_ ākāśasya_ākāśa_SGNe anavayavasya_anavayava_SGNe api_api_ saṃyogi_saṃyogin_Cp padārtha_padārtha_Cp bhedāt_bheda_SBM ghaṭa_ghaṭa_Cp ākāśam_ākāśa_SNNe piṭhara_piṭhara_Cp ākāśam_ākāśa_SNNe iti_iti_ bhedaḥ_bheda"
+  },
+  {
+    "index": 37646,
+    "sanskrit": "ete saṃpālayiṣyanti maryādākāramuttamam | sandeheṣu ca sarveṣu vivādeṣu viśeṣataḥ || 14 ||",
+    "english": "They will strictly observe the bounds and limits of decorum in cases of doubts and especially in cases of all disputes (But the following is to be noted).",
+    "morphology": "ete_etad_PNM saṃpālayiṣyanti_sampālay_PFu3In maryādā_maryādā_Cp ākāram_ākāra_SAM uttamam_uttama_SAM  / sandeheṣu_saṃdeha_PLM ca_ca_ sarveṣu_sarva_PLM vivādeṣu_vivāda_PLM viśeṣataḥ_viśeṣataḥ_"
+  },
+  {
+    "index": 37647,
+    "sanskrit": "yadi prakṛte vayaṃ kramaviniyogamabhyapagacchema tata evaṃ svādiha tu prakaraṇenatantravārtika / darśa pūrṇamāsānyatarārthatve 'vadhārite tadviśeṣākāṅkṣāyāṃ kevala eva kramo vyāpriyataitvavirodhaḥ /",
+    "english": "Consequently whenever Context and Order both start on a common errand, the Context is quicker in getting at its corroborative Direct Declaration and as such it is the stronger of the two. Question What is the example of conflict between Order and Name? This question emanates from one labouring under the mis conception that, inasmuch as the Name applies to its object in its literal signification, it is as operative in its indication of the relationship as Direct Declaration itself and as such it is very much stronger than Order. Answer We find that the name Puurodāçika applies to the whole section of the DarçaPurnamāsa.",
+    "morphology": "yadi_yadi_ prakṛte_prakṛta_SLNe vayam_mad_PN krama_krama_Cp viniyogam_viniyoga_SAM abhyapagacchema_abhyapagam_PPr1O tatas_tatas_ evam_evam_ svāt_sva_SBNe iha_iha_ tu_tu_  / darśa_darśa_Cp pūrṇamāsa_pūrṇamāsa_Cp anyatara_anyatara_Cp artha_art"
+  }
+]

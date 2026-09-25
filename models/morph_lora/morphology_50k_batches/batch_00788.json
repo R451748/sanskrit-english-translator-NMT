@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6296,
+    "sanskrit": "yathārūpāṇi paśyāmi su abhyagraḥ naḥ parākramaḥ",
+    "english": "From what I see, I infer that the time for the display of our prowess hath drawn nigh'.",
+    "morphology": "yathārūpāṇi_yathārūpa_PANe paśyāmi_paś_SPr1In"
+  },
+  {
+    "index": 6297,
+    "sanskrit": "prāpyate hi yathā satyam tat ca śrotum tvam arhasi",
+    "english": "It behoveth thee to hear also as to how Truth may be acquired.",
+    "morphology": "prāpyate_prāp_SPr3InPv"
+  },
+  {
+    "index": 6298,
+    "sanskrit": "duryodhanaḥ tatas karṇam upetya bharata ṛṣabha abravīt madra rājam ca tathā eva anyān mahā rathān yadṛcchayā upasaṃprāptam svarga dvāram apāvṛtam",
+    "english": "Meanwhile Yudhishthira, O chief of the Bharatas, in great pain owing to his wounds, retreating about two miles from the battle, rested himself for some time.'\" \"Sanjaya said, 'Then Duryodhana, O chief of Bharatas, repairing to Karna, said unto him as also unto the ruler of the Madras and the other lords of Earth present there, these words, \"Without seeking hath this occasion arrived, when the gates of heaven have become wide open.",
+    "morphology": "duryodhanaḥ_duryodhana_SNM tatas_tatas_U karṇam_karṇa_SAM upetya_upe_Co bharata_bharata_MCp ṛṣabha_ṛṣabha_SVM abravīt_brū_SPs3In madra_madra_MCp rājam_rāja_SAM ca_ca_U tathā_tathā_U eva_eva_U anyān_anya_PAM mahā_mahat_Cp rathān_ratha"
+  },
+  {
+    "index": 6299,
+    "sanskrit": "tau dhyānānāsravasaṃvarānvitau samāhitaryamārgasamāpannau vartamānayā avijñaptyā samanvāgatau yathākramaṃ na tu vyutthitau / saṃvarāsaṃvarasthānāṃ tāvadeṣa vṛttāntaḥ /",
+    "english": "The person who is absorbed, the person who is cultivating the Way, possesses, at present, the vijnapti which is proper to him, arisen from dhyana, and pure. When he leaves the absorption, he does not possess this present avijñapti, for this avijñapti only accompanies an absorbed mind.",
+    "morphology": "tau_tad_DuNM dhyāna_dhyāna_Cp anāsrava_anāsrava_Cp saṃvara_saṃvara_Cp anvitau_anvita_DuNM samāhitari_samāhitṛ_SLM amārga_amārga_Cp samāpannau_samāpad_DuNPaM vartamānayā_vṛt_SIPaPrF avijñaptyā_avijñapti_SIF samanvāgatau_samanvāgam_D"
+  },
+  {
+    "index": 6300,
+    "sanskrit": "kiṃ punaḥ kratukaraṇena kartavyaṃ prayojanam /",
+    "english": "ie thus should one meditate, this being construed from the preceding sentence",
+    "morphology": "kim_ka_SNNe punar_punar_ kratu_kratu_Cp karaṇena_karaṇa_SIM kartavyam_kṛ_SNNeGd"
+  },
+  {
+    "index": 6301,
+    "sanskrit": "sa rājasi puruṣṭutam ekaḥ vṛtrāṇi jighnase / indra jaitrā śravasya ca yantave / vayam u tvām apūrvya sthūram na kad cit bharantaḥ avasyavaḥ / vāje citram havāmahe / vāje citram havāmahe /",
+    "english": "Such, praised by many! thou art King: alone thou smitest foe- men dead, To gain, O Indra, spoils of war and high renown.",
+    "morphology": "sa_tad_SNM rājasi_rāj_SPr2In puruṣṭutam_puruṣṭuta_SAM ekaḥ_eka_SNM vṛtrāṇi_vṛtra_PANe jighnase_han_SPr2In  / indra_indra_SVM jaitrā_jaitra_PANe śravasya_śravasya_SVM ca_ca_U yantave_yam_In  / vayam_mad_PN u_u_U tvām_tvad_SA apūrvya_"
+  },
+  {
+    "index": 6302,
+    "sanskrit": "tamevātiprasaṅgaṃ darśayann āha tarupaṅktyādītyādi /",
+    "english": "The Author proceeds to show the Incongruities that the above would lead to: [see verses 1557-1558 next]",
+    "morphology": "tam_tad_SAM eva_eva_ atiprasaṅgam_atiprasaṅga_SAM darśayan_darśay_SNPaPrM āha_ah_SPs3In taru_taru_Cp paṅkti_paṅkti_Cp"
+  },
+  {
+    "index": 6303,
+    "sanskrit": "uccaistaraṃ mahāśailamavalokya sarasvatī | atha vegena ruddhena giriṇā vismitā satī || 66 ||",
+    "english": "66. The river Sarasvatī looked at the great lofty mountain. The chaste lady (river) became surprised, when the mountain held up the speed of her current.",
+    "morphology": "uccaistaram_uccaistara_SAM mahā_mahat_Cp śailam_śaila_SAM avalokya_avalokay_Co sarasvatī_sarasvatī_SNF  / atha_atha_ vegena_vega_SIM ruddhena_rudh_SIPaM giriṇā_giri_SIM vismitā_vismi_SNPaF satī_satī_SNF"
+  }
+]

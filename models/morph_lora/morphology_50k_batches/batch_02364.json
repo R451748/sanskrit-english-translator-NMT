@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18904,
+    "sanskrit": "maheśvaraḥ ca lokānām mahatām īśvaraḥ ca saḥ",
+    "english": "Since, again, he is the master of the vast universe, he is called Maheswara.",
+    "morphology": "maheśvaraḥ_maheśvara_SNM ca_ca_U lokānām_loka_PGM mahatām_mahat_PGM īśvaraḥ_īśvara_SNM ca_ca_U saḥ_tad_SNM"
+  },
+  {
+    "index": 18905,
+    "sanskrit": "ete ca niyamāḥ sarve śakyaṃte yadi bho dvijāḥ | kartuṃ ca caturo māsānekasminvā'pi kārttike || 28 ||",
+    "english": "28. O Brāhmaṇas, all these Niyamas (restraints and observances) may be carried out all the four months or in the month of Kārttika alone.",
+    "morphology": "ete_etad_PNM ca_ca_ niyamāḥ_niyama_PNM sarve_sarva_PNM śakyaṃte_śak_PPr3InPv yadi_yadi_ bho_bho_ dvijāḥ_dvija_PVM  / kartum_kṛ_In ca_ca_ caturaḥ_catur_PAM māsān_māsa_PAM ekasmin_eka_SLM vā_vā_ api_api_ kārttike_kārttika_SLM  /"
+  },
+  {
+    "index": 18906,
+    "sanskrit": "athānyatamo bhikṣus tasyāṃ velāyāṃ gāthām bhāṣate sma:",
+    "english": "Then a certain monastic at that time spoke these verses:",
+    "morphology": "atha_atha_ anyatamaḥ_anyatama_SNM bhikṣuḥ_bhikṣu_SNM tasyām_tad_SLF velāyām_velā_SLF gāthām_gāthā_SAF bhāṣate_bhāṣ_SPr3In sma_sma_"
+  },
+  {
+    "index": 18907,
+    "sanskrit": "namo'stu sarvarudrebhyo ye divaṃ saṃśritāḥ sadā | jīvāpayaṃti jagatīṃ vāyubhiśca pṛthagvidhaiḥ || 19 ||",
+    "english": "19. Obeisance to all the Rudras who have occupied heaven always. They enliven the earth with the winds of diverse kinds.",
+    "morphology": "namaḥ_namas_SNNe astu_as_SPr3Im sarva_sarva_Cp rudrebhyaḥ_rudra_PDM ye_yad_PNM divam_div_SAM saṃśritāḥ_saṃśri_PNPaM sadā_sadā_  / jīvāpayanti_jīvāpay_PPr3In jagatīm_jagatī_SAF vāyubhiḥ_vāyu_PIM ca_ca_ pṛthagvidhaiḥ_pṛthagvidh"
+  },
+  {
+    "index": 18908,
+    "sanskrit": "iyamasmākamapyāpadāgatā dainyadāyinī / tasyaikasya prasādena duṣpauruṣagaterhareḥ //",
+    "english": "O! the greatest of our grief is, this sad and calamitous fall of ours at the hands of a single Hari, who has reduced us to this state of helpless impotency.",
+    "morphology": "iyam_idam_SNF asmākam_mad_PG api_api_ āpad_āpad_SNF āgatā_āgam_SNPaF dainya_dainya_Cp dāyinī_dāyin_SNF  / tasya_tad_SGM ekasya_eka_SGM prasādena_prasāda_SIM duṣpauruṣa_duṣpauruṣa_Cp gateḥ_gati_SGM hareḥ_hari_SGM  /"
+  },
+  {
+    "index": 18909,
+    "sanskrit": "iti rājaapasarpāḥ //",
+    "english": "These and others are the spies aiming on the life of a king",
+    "morphology": "iti_iti_U __rājan_U __apasarpa_U  /"
+  },
+  {
+    "index": 18910,
+    "sanskrit": "ajñānamucyate cittamasatsadiva saṃsthitam / asaṃvedanamajñānaṃ jñānaṃ saṃvedanaṃ bhavet //",
+    "english": "The mind is another name for ignorance, and an unreality appearing as a real entity. Here ignorance takes the name of the mind, and unreality passes under the title of reality. Ignorance is the want of true knowledge, as knowledge is the privation of ignorance.",
+    "morphology": "ajñānam_ajñāna_SNNe ucyate_vac_SPr3InPv cittam_citta_SNNe asat_asat_SNNe sat_as_SNPaPrNe iva_iva_ saṃsthitam_saṃsthā_SNPaNe  / asaṃvedanam_asaṃvedana_SNNe ajñānam_ajñāna_SNNe jñānam_jñāna_SNNe saṃvedanam_saṃvedana_SNNe bhavet_bhū_"
+  },
+  {
+    "index": 18911,
+    "sanskrit": "[p.400] vyavasthāyām ityādinaitaddarśayati",
+    "english": "The same idea is further elucidated: [see verse 1349 next]",
+    "morphology": "vyavasthāyām_vyavasthā_SLF ityādinā_ityādi_SINe etat_etad_SANe darśayati_darśay_SPr3In"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21816,
+    "sanskrit": "tasmādālayavijñānātpratyetauti tatpratyaya mutpadyata ityarthaḥ /",
+    "english": "From this alayavijñana [the pravṛttivijñāna] proceeds; the real significance is that it arises while having that [ālayavijñāna] as a condition.",
+    "morphology": "tasmāt_tad_SBNe ālayavijñānāt_ālayavijñāna_SBNe pratyetau_pratī_SPr3In iti_iti_"
+  },
+  {
+    "index": 21817,
+    "sanskrit": "sadyo jagāma nirvāṇaṃ medinī tasya dhāraṇāt / cakāra ca namaskāraṃ tasmai devāya vedhase /",
+    "english": "The sacred Upanishad was his seat. The image of his wife was his help and he was tall like the summit of the mount Meru.",
+    "morphology": "sadyas_sadyas_ jagāma_gam_SPs3In nirvāṇam_nirvāṇa_SANe medinī_medinī_SNF tasya_tad_SGM dhāraṇāt_dhāraṇa_SBNe  / cakāra_kṛ_SPs3In ca_ca_ namaskāram_namaskāra_SAM"
+  },
+  {
+    "index": 21818,
+    "sanskrit": "manomatpravaṇaṃ cittaṃ na manomātramucyate | mannāmaniratā vāṇī vāṅmatā khalu netarā | liṃgairmacchāsanādiṣṭaistripuṃḍrādibhiraṃkitaḥ | mamopacāranirataḥ kāyaḥ kāyo na cetaraḥ ||",
+    "english": "50. The mind that is devoted to me is the true mind and not any mind as it is. The speech that pertains to my name is true speech and not anything else. 51. The body that is marked by the characteristic symbols as prescribed by me such as Tripuṇḍras, and that is",
+    "morphology": "manaḥ_manas_Cp mad_mad_Cp pravaṇam_pravaṇa_SNNe cittam_citta_SNNe na_na_ manaḥ_manas_Cp mātram_mātra_SNNe ucyate_vac_SPr3InPv  / mad_mad_Cp nāma_nāman_Cp niratā_niram_SNPaF vāṇī_vāṇī_SNF vāc_vāc_Cp matā_man_SNPaF khalu_khalu_ na_na_"
+  },
+  {
+    "index": 21819,
+    "sanskrit": "avakramaṇa-janmābhiniṣkramaṇa-",
+    "english": "* opens the way to manifesting the descent, birth, consecration,",
+    "morphology": "__U"
+  },
+  {
+    "index": 21820,
+    "sanskrit": "teṣāṃ ca draupadyāṃ pañcaiva babhūvuḥ //",
+    "english": "These had each a son by Draupadī.",
+    "morphology": "teṣām_tad_PGM ca_ca_ draupadyām_draupadī_SLF pañca_pañcan_PNM eva_eva_ babhūvuḥ_bhū_PPs3In  /"
+  },
+  {
+    "index": 21821,
+    "sanskrit": "iti ca / tatraiva ; yogavāsiṣṭhe // ātmaviṣayastu saṃprajñātasamādhirvāsanākṣayasya nirodhasamādheśca hetuḥ/",
+    "english": "As the samprajñāta samādhi, concerned with the Self leads to the destruction of desire and brings about the nirodha samādhi, therefore we have paid attention to this.",
+    "morphology": "iti_iti_ ca_ca_  / tatra_tatra_ eva_eva_  / tatra_tatra_ eva_eva_  / ātma_ātman_Cp viṣayaḥ_viṣaya_SNM tu_tu_ saṃprajñāta_samprajñā_PaCp samādhiḥ_samādhi_SNM vāsanā_vāsanā_Cp kṣayasya_kṣaya_SGM nirodha_nirodha_Cp samādheḥ_samād"
+  },
+  {
+    "index": 21822,
+    "sanskrit": "tacchrutvā droṇavacanaṃ śambhuḥ proce tathāstviti | abhūdantarhitastāta kautukī sukhakṛnmune ||",
+    "english": "11. On hearing the words of Droṇa, Śiva said, “So be it.” O dear sage, the lord who bestows happiness, then vanished.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co droṇa_droṇa_Cp vacanam_vacana_SANe śambhuḥ_śambhu_SNM proce_pravac_SPs3In tathā_tathā_ astu_as_SPr3Im iti_iti_  / abhūt_bhū_SPs3In antarhitaḥ_antardhā_SNPaM tāta_tāta_SVM kautukī_kautukin_SNM sukha_sukha_Cp k"
+  },
+  {
+    "index": 21823,
+    "sanskrit": "evaṃ yo yajamānaśca yacca teṣāṃ dvijanmanām | kvacijjalānnavikṣepaḥ śuciraspṛṣṭa eva ca || 93 || ye cānye narake jātāstatra yonyaṃtaraṃ gatāḥ | prayāṃtyāpyāyanaṃ vatsa samyakchrāddhakriyāvatām || 94 ||",
+    "english": "93-95. Thus the person who worships and he who becomes pure on being slightly touched by the scattered water drops and leavings of food of those Brāhmaṇas, those who are fallen in the hell and those who have attained other births—all these, O dear one, become satisfied with the performance of the Śrāddha rite in the proper manner.",
+    "morphology": "evam_evam_ yaḥ_yad_SNM yajamānaḥ_yaj_SNPaPrM ca_ca_ yat_yad_SNNe ca_ca_ teṣām_tad_PGM dvijanmanām_dvijanman_PGM  / kvacid_kvacid_ jala_jala_Cp anna_anna_Cp vikṣepaḥ_vikṣepa_SNM śuciḥ_śuci_SNM a_a_ spṛṣṭaḥ_spṛś_SNPaM eva_eva_ c"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27776,
+    "sanskrit": "draṣṭāramavimuktasya dṛṣṭvā daṃḍadharo yamaḥ | dūrādeva praṇamati prabaddhakarasaṃpuṭaḥ || 94 ||",
+    "english": "94. On seeing from afar a person who has visited Avimukta, Yama, the bearer of a baton, joins his palms in reverence and makes obeisance to him.",
+    "morphology": "draṣṭāram_draṣṭṛ_SAM avimuktasya_avimukta_SGNe dṛṣṭvā_dṛś_Co daṇḍa_daṇḍa_Cp dharaḥ_dhara_SNM yamaḥ_yama_SNM  / dūrāt_dūrāt_ ā_ā_ ahar_ahar_SNNe ā_ā_ ahar_ahar_SNNe ā_ahar_SNNe ā_ā_ ahar_ahar_SNNe ā_ā_ ahar_ahar"
+  },
+  {
+    "index": 27777,
+    "sanskrit": "prasanno bhava deveśa sarvaśāpānnirākuru | sabodhaḥ prerakastvaṃ me tvamevaṃ vinivārakaḥ ||",
+    "english": "51. O Lord of gods, be pleased. Remove all curses. Thou art my conscious encourager. Thou alone art the restrainer.",
+    "morphology": "prasannaḥ_prasad_SNPaM bhava_bhū_SPr2Im deveśa_deveśa_SVM sarva_sarva_Cp śāpān_śāpa_PAM nirākuru_nirākṛ_SPr2Im  / sa_sa_ bodhaḥ_bodha_SNM prerakaḥ_preraka_SNM tvam_tvad_SN mama_mad_SG tvam_tvad_SN"
+  },
+  {
+    "index": 27778,
+    "sanskrit": "atha vā pāpānutpattir eva pūtatvam /",
+    "english": "Or, being \"purified\" may be taken as consisting in the nonincurring of sin.",
+    "morphology": "atha_atha_ vā_vā_ pāpa_pāpa_Cp anutpattiḥ_anutpatti_SNF"
+  },
+  {
+    "index": 27779,
+    "sanskrit": "sarva evāyaṃ praśnaprativacanasaṃdarbho vakṣyamāṇasyānnadoṣasya gauravajñāpanārthaḥ / parigrahaduṣṭād annasvabhāvaduṣṭaṃ gurutaram iti / saṃbandhidoṣāt svarūpadoṣo balavān antaraṅgatvāt /",
+    "english": "The whole of the text, describing the question and the answer, is meant to indicate the importance of the subject of the evils attaching to food; the moaning being that the evils attaching to the food itself are more serious than those attaching to the nature of its gift and acceptance; and this on the ground that the defects attaching to the thing itself are more intimate, and hence more serious, than those arising from contact.",
+    "morphology": "sarvaḥ_sarva_SNM eva_eva_ ayam_idam_SNM praśna_praśna_Cp prativacana_prativacana_Cp saṃdarbhaḥ_saṃdarbha_SNM vakṣyamāṇasya_vac_SGPaFuM anna_anna_Cp doṣasya_doṣa_SGM gaurava_gaurava_Cp jñāpana_jñāpana_Cp arthaḥ_artha_SNM  / parigrah"
+  },
+  {
+    "index": 27780,
+    "sanskrit": "jātijātyādayasteṣāṃ",
+    "english": "They should also arise, last, grow old, and perish; they should then, in their turn, possess four characteristics: arising-of-arising, etc. , which will be the secondary characteristics of the dharma under consideration.",
+    "morphology": "__jāti_U"
+  },
+  {
+    "index": 27781,
+    "sanskrit": "vaijayantaś ca prāsādo vāma-pādāṅguṣṭhena kampitaḥ,",
+    "english": "who with his left toe shook the Vaijayanta palace,",
+    "morphology": "vaijayantaḥ_vaijayanta_SNM ca_ca_ prāsādaḥ_prāsāda_SNM"
+  },
+  {
+    "index": 27782,
+    "sanskrit": "tasmājjanmanivṛttyarthaṃ śivaliṃgaṃ prapūjayet | mātā devī biṃdurūpā nādarūpaḥ śivaḥ pitā ||",
+    "english": "91. Hence to ward off future births, the devotee shall worship the phallic emblem of Śiva. Goddess of the form of Bindu is the mother and Śiva of the form of Nāda is the father.",
+    "morphology": "tasmāt_tasmāt_ janma_janman_Cp nivṛtti_nivṛtti_Cp artham_artha_SAM śiva_śiva_Cp liṃgam_liṅga_SANe prapūjayet_prapūjay_SPr3O  / mātā_mātṛ_SNF devī_devī_SNF bindu_bindu_Cp rūpā_rūpa_SNF nāda_nāda_Cp rūpaḥ_rūpa_SNM śivaḥ_śiva"
+  },
+  {
+    "index": 27783,
+    "sanskrit": "iti vijñāpitaḥ śaṃbhuḥ punaḥ kuṃbhajamabravīt | kuṃbhajodvāhaveṣaṃ te pārvatyā sahito hyaham || 7 || vedāraṇye mahāpuṇye darśayiṣyāmyasaṃśayaḥ | tadgaccha śīghraṃ viṃdhyādriṃ nigrahītuṃ munīśvara || 8 ||",
+    "english": "On being requested thus, Śaṃbhu spoke to the Pot-born One again: “O Pot-born One, accompanied by Pārvatī, I shall reveal unto you, my marriage apparel and pose in the highly meritorious holy spot Vedāraṇya. There is no doubt about it. Therefore, O great sage, go quickly to restrain (the growth of) the Vindhya mountain.”",
+    "morphology": "iti_iti_ vijñāpitaḥ_vijñāpay_SNPaM śaṃbhuḥ_śambhu_SNM punar_punar_ kuṃbhajam_kumbhaja_SAM abravīt_brū_S3ImIn  / kuṃbhaja_kumbhaja_Cp udvāha_udvāha_Cp veṣam_veṣa_SAM te_tvad_SG pārvatyā_pārvatī_SIF sahitaḥ_sahita_SNM hi_hi_ aha"
+  }
+]

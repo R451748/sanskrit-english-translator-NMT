@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18064,
+    "sanskrit": "kāsasya api ca vijñeyāḥ te eva utpatti hetavaḥ",
+    "english": "Cough has its origin in the same sets of causes, which excite or usher in an attack of hiccough or asthma.",
+    "morphology": "kāsasya_kāsa_SGM api_api_U"
+  },
+  {
+    "index": 18065,
+    "sanskrit": "etad vai paśūnāṃ rūpam |",
+    "english": "that is the form of cattle;",
+    "morphology": "etat_etad_SNNe vai_vai_ paśūnām_paśu_PGM rūpam_rūpa_SNNe"
+  },
+  {
+    "index": 18066,
+    "sanskrit": "dṛśyate hi kule jātaḥ darśanīyaḥ pratāpavān",
+    "english": "It is seen that some one of noble birth, possessed of handsome features, and endued with great prowess, lives in misery, with all his counsellors and friends.",
+    "morphology": "dṛśyate_dṛś_SPr3InPv hi_hi_U kule_kula_SLNe jātaḥ_jan_SNPaPsM"
+  },
+  {
+    "index": 18067,
+    "sanskrit": "imāḥ rudrāya sthira dhanvane giraḥ kṣipra save devāya svadhāvne aṣāl̥hāya sahamānāya vedhase tigma āyudhāya bharata śr̥ṇotu naḥ",
+    "english": "Offer ye these songs to Rudra whose bow is strong, whose arrows are swift, the self-dependent 1 god, the unconquered conqueror, the intelligent, whose weapons are sharp—may he hear us!",
+    "morphology": "imāḥ_idam_PAF rudrāya_rudra_SDM sthira_sthira_Cp dhanvane_dhanvan_SDM giraḥ_gir_PAF kṣipra_kṣipra_Cp save_sava_SLM devāya_deva_SDM svadhāvne_svadhāvan_SDM aṣāl̥hāya_aṣāl̥ha_SDM sahamānāya_sah_SDPaPrM vedhase_vedhas_SDM tigma_tigma_C"
+  },
+  {
+    "index": 18068,
+    "sanskrit": "tam bahūni sahasrāṇi grāmaṇi tve abhivavrire nirmaryādāni dasyūnām niranukrośa kāriṇām dasyavaḥ ūcuḥ",
+    "english": "As regards those that were unwilling, from fear of others, to accept gifts from him because of the profession he followed, he used to go to their abodes before dawn and leave flesh at their doors.[406] One day many thousands of robbers, destitute of compassion in their conduct and regardless of all restraints, desired to elect him as their leader.' \"The robbers said, 'Thou art acquainted with the requirements of place and time.",
+    "morphology": "tam_tad_SAM bahūni_bahu_PNNe sahasrāṇi_sahasra_PNNe grāmaṇi_grāmaṇi_MCp tve_tva_SLNe abhivavrire_abhivṛ_PPs3In nirmaryādāni_nirmaryāda_PNNe dasyūnām_dasyu_PGM niranukrośa_niranukrośa_MCp kāriṇām_kārin_PGM dasyavaḥ_dasyu_PNM ūcu"
+  },
+  {
+    "index": 18069,
+    "sanskrit": "madāṃdolitakahlāra parāgaparipiṃgalam | ullasatpaṃkajamukhaṃ nīleṃdīvaralocanam || 2 ||",
+    "english": "102. It was turned reddish yellow due to the pollen dust from the gently moving Kelhāra flowers. The blooming lotuses were its face. The blue lotuses were its eyes.",
+    "morphology": "mada_mada_Cp āṃdolita_āndolay_PaCp kahlāra_kahlāra_SVM parāga_parāga_Cp paripiṃgalam_paripiṅgala_SAM  / ullasat_ullas_PaPrCp paṅkaja_paṅkaja_Cp mukham_mukha_SAM nīla_nīla_Cp iṃdīvara_indīvara_Cp locana_locana_SAM"
+  },
+  {
+    "index": 18070,
+    "sanskrit": "aśaikṣāvasthāyāṃ tu śrāvaka ity ucyate pratyekabuddha iti vā / na tad gotraṃ tasya prakarṣāvasthānāt /",
+    "english": "When this exists, then, in the However, one who is in the state of the adept is described as a śrāvaka or pratyekabuddha or a Buddha and there is no spiritual lineage on his part because of his preeminent state.",
+    "morphology": "aśaikṣa_aśaikṣa_Cp avasthāyām_avasthā_SLF tu_tu_ śrāvakaḥ_śrāvaka_SNM iti_iti_ ucyate_vac_SPr3InPv pratyekabuddhaḥ_pratyekabuddha_SNM iti_iti_ vā_vā_  / na_na_ tat_tad_SNNe gotram_gotra_SNNe tasya_tad_SGM prakarṣa_prakarṣa_Cp avasth"
+  },
+  {
+    "index": 18071,
+    "sanskrit": "sa eva vāḍavo bhūtvā vahnirākalpamarṇave / ahaṃkāraḥ pibatyambu rudraḥ sarvaṃ tu tattadā //",
+    "english": "Rudra the personified Ego, remains in the form of latent heat in the submarine fire; and continues to suck up the waters of the ocean, until the end of a kalpa epoch.",
+    "morphology": "saḥ_tad_SNM eva_eva_ vāḍavaḥ_vāḍaba_SNM bhūtvā_bhū_Co vahniḥ_vahni_SNM ākalpam_ākalpam_ arṇave_arṇava_SLM  / ahaṃkāraḥ_ahaṃkāra_SNM pibati_pā_SPr3In ambu_ambu_SANe rudraḥ_rudra_SNM sarvam_sarva_SNNe tu_tu_ tat_tad_SNNe tadā"
+  }
+]

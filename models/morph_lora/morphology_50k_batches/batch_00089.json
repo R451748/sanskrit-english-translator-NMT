@@ -1,0 +1,50 @@
+[
+  {
+    "index": 704,
+    "sanskrit": "tat mahā udadhi saṃkāśam nirānandam anutsavam vīra patnībhiḥ ākīrṇam gaṅgā tīram aśobhata",
+    "english": "The shores of the stream, though crowded with those spouses of heroes, looked as broad as the ocean and presented a spectacle of sorrow and cheerlessness.",
+    "morphology": "tat_tad_SNNe mahā_mahat_Cp udadhi_udadhi_MCp saṃkāśam_saṃkāśa_SNNe nirānandam_nirānanda_SNNe anutsavam_anutsava_SNNe vīra_vīra_MCp patnībhiḥ_patnī_PIF ākīrṇam_ākṛ_SNPaPsNe ṣaṣ_ṣaṣ_SNNe ṣaṣ_ṣaṣ_SNNe ṣaṣ_ṣaṣ_SN"
+  },
+  {
+    "index": 705,
+    "sanskrit": "dharmataḥ śiṣṭācārataḥ //",
+    "english": "\"On the basis of propriety\" ie on the strength of the practice of cultured people.",
+    "morphology": "dharmataḥ_dharma_SBM"
+  },
+  {
+    "index": 706,
+    "sanskrit": "mā bhūd dvayor eko 'pi vidhiḥ /",
+    "english": "The answer to this is that neither of the two statements may be regarded as an Injunction.",
+    "morphology": "mā_mā_"
+  },
+  {
+    "index": 707,
+    "sanskrit": "tato jagannāśabhayād ratavighnāya śūlinaḥ / vahniṃ smaranti sma surāḥ pitāmahanideśataḥ //",
+    "english": "Then from fear of the world perishing, the gods, by order of Brahmā, called to mind Agni in order to stop Śiva’s amorous play.",
+    "morphology": "tatas_tatas_ jagat_jagant_Cp nāśa_nāśa_Cp bhayāt_bhaya_SBNe rata_rata_Cp vighnāya_vighna_SDM śūlinaḥ_śūlin_SGM  / vahnim_vahni_SAM smaranti_smṛ_PPr3In sma_sma_ surāḥ_sura_PNM pitāmaha_pitāmaha_Cp nideśataḥ_nideśa_SBM  /"
+  },
+  {
+    "index": 708,
+    "sanskrit": "tasmāt dadāti yaḥ dhenum śaraṇam saṃprayacchati",
+    "english": "Hence, the man who makes the gift of a cow is regarded as making the gift of what is the high refuge for all creatures.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 709,
+    "sanskrit": "yathā'raṇinirmathanāt tad dahanasamarthasyāgner utpatīcihnaṃ pūrvam ūṣmotpadyate evaṃ sarvakleśendhanadahanasamarthasyāryamārgāgneḥ pūrvarūpatvāt tad uṣmagatam ity ucyate /",
+    "english": "For example, from the rubbing together of kindling sticks, heat is produced which is the first mark of the arising of the fire which has the capacity to burn that fuel. Similarly, the state of heat is socalled because its nature precedes the fire of the noble path which has the capacity to consume the fuel of all moral defilement.",
+    "morphology": "yathā_yathā_ araṇi_araṇi_Cp nirmathanāt_nirmathana_SBNe tat_tad_SNNe dahana_dahana_Cp samarthasya_samartha_SGM agneḥ_agni_SGM pūrvam_pūrvam_ ūṣmā_ūṣman_SNM utpadyate_utpad_SPr3In evam_evam_ sarva_sarva_Cp kleśa_kleśa_Cp indhana_indhana_"
+  },
+  {
+    "index": 710,
+    "sanskrit": "taṃ caivānujagāmāśvaḥ saumyaḥ paramavegavān / devalokonmukhaṃ tuṣṭaṃ śakramuccaiḥśravā iva //",
+    "english": "He was followed by his swift and beautiful courser, as the Uchcha Srava horse of Indra follows his master in the celestial regions.",
+    "morphology": "tam_tad_SAM ca_ca_ eva_eva_ anujagāma_anugam_SPs3In aśvaḥ_aśva_SNM saumyaḥ_saumya_SNM parama_parama_Cp vegavān_vegavat_SNM  / deva_deva_Cp loka_loka_Cp unmukhaḥ_unmukha_SNM tuṣṭaḥ_tuṣ_SNPaM śakram_śakra_SAM uccaiḥśravāḥ_uccaiḥś"
+  },
+  {
+    "index": 711,
+    "sanskrit": "ubhayaṃ haitadagre prajāpatirāsa martyaṃ caivāmṛtaṃ ca tasya prāṇā evāmṛtā āsuḥ śarīram martyaṃ sa etena karmaṇaitayāvṛtaikadhājaramamṛtamātmānamakuruta tathaivaitadyajamāna ubhayameva bhavati martyaṃ caivāmṛtaṃ ca tasya prāṇā evāmṛtā bhavanti śarīram martyaṃ sa etena karmaṇaitayāvṛtaikadhājaramamṛtamātmānaṃ kurute //",
+    "english": "Now, at the beginning, Pragâpati was (composed of) both these, the mortal and the immortal--his vital airs alone were immortal, his body mortal: by this sacrificial performance, and by this order of proceeding, he made his body uniformly undecaying and immortal. And in like manner is the Sacrificer (composed of) both the mortal and the immortal--his vital airs alone are immortal, his body mortal: by this sacrificial performance, and by this order of proceeding, he makes his body uniformly undecaying and immortal.",
+    "morphology": "ubhayam_ubhaya_SNNe ha_ha_ etat_etad_SNNe agre_agra_SLNe prajāpatiḥ_prajāpati_SNM āsa_as_SPs3In martyam_martya_SNNe ca_ca_ eva_eva_ amṛtam_amṛta_SNNe ca_ca_ tasya_tad_SGM prāṇāḥ_prāṇa_PNM eva_eva_ amṛtāḥ_amṛta_PNM āsuḥ_as_PPs3In"
+  }
+]

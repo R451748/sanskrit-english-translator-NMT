@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34880,
+    "sanskrit": "mūṣikāṇām gaṇaḥ ca atra bhṛśam saṃkṣīyate atha saḥ mārjāraḥ vardhate ca api tejaḥ bala samanvitaḥ",
+    "english": "And thus while the mice began to be reduced in number, the cat began to grow in vigour and strength.",
+    "morphology": "mūṣikāṇām_mūṣika_PGM gaṇaḥ_gaṇa_SNM ca_ca_U atra_atra_U bhṛśam_bhṛśam_U saṃkṣīyate_saṃkṣi_SPr3InPv atha_atha_U saḥ_tad_SNM mārjāraḥ_mārjāra_SNM vardhate_vṛdh_SPr3In ca_ca_U api_api_U tejaḥ_tejas_NeCp bala_bala_NeC"
+  },
+  {
+    "index": 34881,
+    "sanskrit": "śuklo raktas tathā pīto varṇo 'syānu yugaṃ dhṛtaḥ dvāparānte kaler ādau bālo 'yaṃ kṛṣṇatāṃ gataḥ",
+    "english": "In the other yugas He is white, red, or yellow, but at the end of Dvāpara yuga and the beginning of Kali yuga, this boy becomes dark complexioned (kṛṣṇa).",
+    "morphology": "śuklaḥ_śukla_SNM raktaḥ_rakta_SNM tathā_tathā_ pītaḥ_pīta_SNM varṇaḥ_varṇa_SNM asya_idam_SGM anu_anu_ yugam_yuga_SANe dhṛtaḥ_dhṛ_SNPaM dvāpara_dvāpara_Cp ante_anta_SLM kaleḥ_kali_SGM ādau_ādi_SLM"
+  },
+  {
+    "index": 34882,
+    "sanskrit": "gajendraṃ caiva vajraṃ ca dadau tasmai sureśvaraḥ | śvetacchatraṃ ratnamālāṃ dadau vastuṃ jaleśvaraḥ ||",
+    "english": "43. Then Indra gave him a lordly elephant and a thunderbolt. The lord of the waters, Varuṇa, gave him a white umbrella and a necklace of gems to wear.",
+    "morphology": "gaja_gaja_Cp indram_indra_SAM ca_ca_ eva_eva_ vajram_vajra_SANe ca_ca_ dadau_dā_SPs3In tasmai_tad_SDM sureśvaraḥ_sureśvara_SNM  / śveta_śveta_Cp chatram_chattra_SANe ratna_ratna_Cp mālām_mālā_SAF tāḥ_tad_PAF tāḥ_tad_PAF tāḥ_tad_PAF tā"
+  },
+  {
+    "index": 34883,
+    "sanskrit": "vṛtaḥ ca eṣa mahā nāgaḥ sthāpitaḥ samayaḥ ca me anena ca mayā deva bhartavyaḥ prasavaḥ mahān",
+    "english": "Why dost thou then stand in the way of that divine decree? I had selected this great Naga and had fixed time, for O god, I had intended to offer the meat of his body, as sustenance to my numerous progeny.",
+    "morphology": "vṛtaḥ_vṛ_SNPaPsM ca_ca_U eṣa_etad_SNM mahā_mahat_Cp nāgaḥ_nāga_SNM sthāpitaḥ_sthāpay_SNPaPsM samayaḥ_samaya_SNM ca_ca_U me_mad_SG anena_idam_SIM ca_ca_U mayā_mad_SI deva_deva_SVM bhartavyaḥ_bhṛ_SNMGd"
+  },
+  {
+    "index": 34884,
+    "sanskrit": "tataḥ saṃvatsarādūrdhvaṃ nijakarmasamudbhavam | śubhāśubhaṃ prapadyaṃte dharmarājasamīpagāḥ || 70 ||",
+    "english": "70. Thereafter, beyond the year, they get auspicious or inauspicious conditions in accordance with their Karmas and remain near Dharmarāja.",
+    "morphology": "tatas_tatas_ saṃvatsarāt_saṃvatsara_SBM ūrdhvam_ūrdhvam_ nija_nija_Cp karma_karman_Cp samudbhavam_samudbhava_SANe  / śubha_śubha_Cp aśubham_aśubha_SANe prapadyante_prapad_PPr3In dharmarāja_dharmarāja_Cp samīpa_samīpa_Cp gāḥ_ga_PNM"
+  },
+  {
+    "index": 34885,
+    "sanskrit": "mahāmahobhūrmaṇikarṇikāsthalī tamastatiryatra sameti saṃkṣayam | paraḥ śatairjanmabhiredhitāpi yā divākarāgnīṃdukarairanigrahā || 45 ||",
+    "english": "45. The region of Maṇikarṇikā is the source of excellent refulgence, where the expanse of darkness (i.e. ignorance) which is accumulated and increased in the course of hundreds of births and which cannot be quelled by fire or the rays of the sun and the moon, gets destroyed.",
+    "morphology": "mahā_mahat_Cp mahā_mahat_Cp bhūḥ_bhū_SNF maṇi_maṇi_Cp karṇikā_karṇikā_Cp sthalī_sthalī_SNF tamaḥ_tamas_SNNe tatiḥ_tati_SNF yatra_yatra_ sameti_sami_SPr3In saṃkṣayam_saṃkṣaya_SAM  / paras_paras_ śataiḥ_śata_PINe janmabhiḥ"
+  },
+  {
+    "index": 34886,
+    "sanskrit": "manaḥ adhyātmam iti prāhuḥ yathāśruti nidarśanam",
+    "english": "Mind has been called Adhyatma;",
+    "morphology": "manaḥ_manas_SNNe adhyātmam_adhyātma_SNNe iti_iti_U"
+  },
+  {
+    "index": 34887,
+    "sanskrit": "bādhādṛṣṭer nacet sarvadharmaniścaya iṣyate / bādhāśaṅkā nanūkte 'pi bādhādṛṣṭer na bhidyate // tathā hi puro 'vasthite puṃsi śarīramātradarśanān nāyaṃ sarvajña ityevam asarvavidā niścetumaśakyam kimuta deśakālavyavasthite puṃsi /",
+    "english": "If it be urged that “there is conviction regarding the presence of such qualities in all men only when we do not perceive anything to the contrary”, then our answer is that in regard to the matter under consideration, the mere suspicion to the contrary has the same effect as the actual perception of that contrary. That is, even when the man is standing before one, one sees only his body, and if the observer is himself not-omniscient, he cannot know that the man before him is not-omniscient.",
+    "morphology": "bādhā_bādhā_Cp dṛṣṭeḥ_dṛṣṭi_SBF na_na_ ced_ced_ sarva_sarva_Cp dharma_dharma_Cp niścayaḥ_niścaya_SNM iṣyate_iṣ_SPr3InPv  / bādhā_bādhā_Cp śaṅkā_śaṅkā_SNF nanu_nanu_ ukte_vac_SLPaNe api_api_ bādhā_bādhā_Cp dṛṣ"
+  }
+]

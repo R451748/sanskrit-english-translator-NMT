@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14856,
+    "sanskrit": "tīrthāni hi mahā bāho tapaḥ vighna karaiḥ sadā",
+    "english": "O thou of mighty arms, the tirthas are infested by Rakshasas that ever obstruct ascetic penances.",
+    "morphology": "tīrthāni_tīrtha_PNNe hi_hi_U mahā_mahat_Cp bāho_bāhu_SVM tapaḥ_tapas_SNNe vighna_vighna_MCp karaiḥ_kara_PNNe"
+  },
+  {
+    "index": 14857,
+    "sanskrit": "haṃsā va ādiccapathe vehāyasaṃ yānti iddhiyā |",
+    "english": "As geese go through the path of the sky, they go through the sky by their power,",
+    "morphology": "haṃsāḥ_haṃsa_PNM vaḥ_tvad_PG ādit_ādit_ capathe_capatha_SLM vehāyasam_vehāyasa_SANe yānti_yā_PPr3In id_id_ dhiyā_dhī_SIF"
+  },
+  {
+    "index": 14858,
+    "sanskrit": "yaḥ tu śūratamaḥ rājan senayoḥ ubhayoḥ mataḥ",
+    "english": "Duryodhana's son, Lakshmana, resisted the slayer of the Patachcharas,--him, that is, O king, who is regarded by both the armies as the bravest of the brave.",
+    "morphology": "yaḥ_yad_SNM tu_tu_U śūratamaḥ_śūratama_SNM rājan_rājan_SVM senayoḥ_senā_DuGF ubhayoḥ_ubhaya_DuGF mataḥ_man_SNPaPsM"
+  },
+  {
+    "index": 14859,
+    "sanskrit": "anyajātermṛtasyātha dhṛtā vāpi vivāhitā | vaiśvānarasya mārgeṇa sā tamuddharate patim || 23 ||",
+    "english": "23. If the dead husband belongs to another caste, whether she had been kept (as a concubine) or is really married, she redeems that husband through the path of Vaiśvānara (Fire)—self-immolation in fire.",
+    "morphology": "anya_anya_Cp jāteḥ_jāti_SGM mṛtasya_mṛ_SGPaM atha_atha_ dhṛtā_dhṛ_SNPaF vā_vā_ api_api_ vivāhitā_vivāhay_SNPaF  / vaiśvānarasya_vaiśvānara_SGM mārgeṇa_mārga_SIM sā_tad_SNF tam_tad_SAM uddharate_uddhṛ_SPr3In patim_pati_SAM  /"
+  },
+  {
+    "index": 14860,
+    "sanskrit": "ye mriyanti narā devi eraṇḍyāḥ saṅgame śubhe | yāvadyugasahasraṃ tu rudraloke vasanti te || 73 ||",
+    "english": "73-79. The men who die at the splendid confluence of Eraṇḍī, O goddess, reside in the Rudraloka for a thousand Yugas.",
+    "morphology": "ye_yad_PNM mriyanti_mṛ_PPr3In narāḥ_nara_PNM devi_devī_SVF eraṇḍyāḥ_eraṇḍā_SGF saṅgame_saṃgama_SLM śubhe_śubha_SLM  / yāvat_yāvat_ yuga_yuga_Cp sahasram_sahasra_SANe tu_tu_ rudra_rudra_Cp loke_loka_SLM vasanti_vas_PPr3In te_tad_PN"
+  },
+  {
+    "index": 14861,
+    "sanskrit": "ālāpayati bhāvena na tu karma karoti yaḥ | sarāgacittaḥ śṛṃgārī na ca dharmapriyaṃkaraḥ || 8 ||",
+    "english": "108. He who enthusiastically speaks about it but does not acts accordingly is a libidinous wretch of a lustful mind. He is not one favourably disposed towards Dharma.",
+    "morphology": "ālāpayati_ālāpay_SPr3In bhāvena_bhāva_SIM na_na_ tu_tu_ karma_karman_SANe karoti_kṛ_SPr3In yaḥ_yad_SNM  / sa_sa_ rāga_rāga_Cp cittaḥ_citta_SNM śṛṃgārī_śṛṃgārin_SNM na_na_ ca_ca_ dharma_dharma_Cp priyaṃkaraḥ_priyaṃkara_SNM  "
+  },
+  {
+    "index": 14862,
+    "sanskrit": "brahmatīrthaṃ tataḥ puṇyaṃ vīrabrahmeśvarātpuraḥ | brahmavidyāmavāpnoti tatra snānena mānavaḥ || 97 ||",
+    "english": "97. O Vīra, beyond that is the meritorious Brahma Tīrtha in front of Brahmeśvara. By taking his holy bath there, a man attains Brahmavidyā.",
+    "morphology": "brahmatīrtham_brahmatīrtha_SNNe tatas_tatas_ puṇyam_puṇya_SNNe vīra_vīra_Cp brahma_brahman_Cp īśvarāt_īśvara_SBM puras_puras_  / brahma_brahman_Cp vidyām_vidyā_SAF avāpnoti_avāp_SPr3In tatra_tatra_ snānena_snāna_SINe mānavaḥ_mānava_S"
+  },
+  {
+    "index": 14863,
+    "sanskrit": "tamevaṃ toṣayāṇaṃ tu bhaktyā paramayā yutam | bhagavāṃśca tamabhyetya idaṃ vacanamabravīt || 13 ||",
+    "english": "13. Even as he was endowed with great devotion and propitiated the Lord thus, the Lord came to him and spoke these words:",
+    "morphology": "tam_tad_SAM evam_evam_ toṣayāṇam_toṣay_SAPaPrM tu_tu_ bhaktyā_bhakti_SIF paramayā_parama_SIF yutam_yuta_SAM  / bhagavān_bhagavant_SNM ca_ca_ tam_tad_SAM abhyetya_abhye_Co idam_idam_SANe vacanam_vacana_SANe abravīt_brū_S3ImIn  /"
+  }
+]

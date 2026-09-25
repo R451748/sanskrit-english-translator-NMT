@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25808,
+    "sanskrit": "/ pītakāstāmrakās tāmrapītakā vā bhūmiprastaradhātavo bhinnā nīlarājīvanto",
+    "english": "Those ores which are obtained from plains or slopes of mountains; which are either yellow or as red as copper or reddish yellow;",
+    "morphology": "__pītaka_U __tāmraka_U __tāmra_U __pītaka_U"
+  },
+  {
+    "index": 25809,
+    "sanskrit": "tena yauvanasaṃpannavilāsarasaśālinī / taṃ vinā vyasanenāhaṃ dahye'gnāviva padminī //",
+    "english": "But I being advanced in my youth, and fond of youthful dalliance (have given him my mind);and do now burn in the flame of my passion for him, like the lotus flower in a fiery furnace.",
+    "morphology": "tena_tad_SIM yauvana_yauvana_Cp saṃpanna_sampad_PaCp vilāsa_vilāsa_Cp rasa_rasa_Cp śālinī_śālin_SNF  / tam_tad_SAM vinā_vinā_ vyasanena_vyasana_SINe aham_mad_SN dahye_dah_SPr1InPv agnau_agni_SLM iva_iva_ padminī_padminī_SNF  /"
+  },
+  {
+    "index": 25810,
+    "sanskrit": "dravyaṃ guṇavadevaṃ ca na kathaṃ cidvidhīyate",
+    "english": "The same reasons would also show that the sentence could not be taken in any of the aforesaid three ways as laying down the num ber of the cakes.",
+    "morphology": "dravyam_dravya_SNNe guṇavat_guṇavat_SNNe evam_evam_ ca_ca_ na_na_"
+  },
+  {
+    "index": 25811,
+    "sanskrit": "nanu pratyakṣaviśeṣadvayapūrvakatvam anumānābhāseṣv api savyabhicāraviruddhādiṣu saṃbhavatīty ativyāptiḥ maivam hetulakṣaṇe sādhyasādhanagrahaṇena tatpratikṣepāt /",
+    "english": "It is pointed out that it still remains too wide as the previous definition has been since it applies to some other forms of fallacy such as 'Savyabhicāra', 'Viruddha' etc. This objection does not hold good since the reason has been qualified by the adjective clause 'which proves the object to be established'.",
+    "morphology": "nanu_nanu_ pratyakṣa_pratyakṣa_Cp viśeṣa_viśeṣa_Cp dvaya_dvaya_Cp pūrvakatvam_pūrvakatva_SNNe anumāna_anumāna_Cp ābhāseṣu_ābhāsa_PLM api_api_ savyabhicāra_savyabhicāra_Cp viruddha_virudh_PaCp ādiṣu_ādi_PLM saṃbhavati_sambhū_SPr"
+  },
+  {
+    "index": 25812,
+    "sanskrit": "yā etāḥ saṃvido brāhmyo mananaikakalaṅkitāḥ / etattatkarmaṇāṃ bījamapyakarmaiva viddhi tāḥ //",
+    "english": "Our consciousness of ourselves as Brahma, being vitiated by the various thoughts in our minds, becomes the root of our activities; while the pure consciousness of ego sum—I am, is free from all actions and energies.",
+    "morphology": "yāḥ_yad_PNF etāḥ_etad_PNF saṃvidaḥ_saṃvid_PNF brāhmyaḥ_brāhma_PNF manana_manana_Cp eka_eka_Cp kalaṅkitāḥ_kalaṅkita_PNF  / etat_etad_SANe tad_tad_Cp karmaṇām_karman_PGNe bījam_bīja_SANe api_api_ akarma_akarman_SANe eva_eva_ viddh"
+  },
+  {
+    "index": 25813,
+    "sanskrit": "asādhāraṇatvāt manāṣā 'manāpānāṃ vipariṇāmaduḥkhaduḥkhate ukte /",
+    "english": "Suffering in and of itself, nor do the disagreeable dharmas participate in suffering which is transformation: the second state of suffering belongs to the first ones, and the first to the second ones.",
+    "morphology": "asādhāraṇa_asādhāraṇa_Cp tvāt_tva_SBNe manāṣā_manāṣa_SNF amanāpānām_amanāpa_PGM vipariṇāma_vipariṇāma_Cp duḥkha_duḥkha_Cp duḥkha_duḥkha_Cp te_tā_DuNF"
+  },
+  {
+    "index": 25814,
+    "sanskrit": "tarhi kuśalākuśalakarmaphala upabhujyate anubhavātmakatvāt / na nāmarūpasya tadādhipatyaṃ vedanāsambhārabhāvāt /",
+    "english": "It is through the dominant influence of these that one experiences the result of wholesome and unwholesome karma because they have the nature of experience, but name / form have no dominant influence over them because they are the ground for sensation.",
+    "morphology": "tarhi_tarhi_ kuśala_kuśala_Cp akuśala_akuśala_Cp karma_karman_Cp phalaḥ_phala_SNM upabhujyate_upabhuj_SPr3InPv anubhava_anubhava_Cp ātmaka_ātmaka_Cp tvāt_tva_SBNe  / na_na_ nāma_nāman_Cp rūpasya_rūpa_SGNe tad_tad_Cp ādhipatyam_ādhipatya_SNNe"
+  },
+  {
+    "index": 25815,
+    "sanskrit": "prāyeṇa gāvaḥ puruṣāṇāṃ bhavanti, na tathā vihaṅgmādaya iti prasiddher anuvādo 'sau /",
+    "english": "It is only a reiteration of the wellknown fact that birds and other animals do not form the \"property\" of men to the same extent as cows do.",
+    "morphology": "prāyeṇa_prāyeṇa_ gāvaḥ_go_PNM puruṣāṇām_puruṣa_PGM bhavanti_bhū_PPr3In na_na_ tathā_tathā_ vihaṅgma_vihaṃgma_Cp ādayaḥ_ādi_PNM iti_iti_ prasiddheḥ_prasiddhi_SBF"
+  }
+]

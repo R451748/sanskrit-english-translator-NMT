@@ -1,0 +1,50 @@
+[
+  {
+    "index": 360,
+    "sanskrit": "tasmāj jugupseta /",
+    "english": "Hence, one should cultivate a feeling of disgust",
+    "morphology": "tasmāt_tad_SBNe "
+  },
+  {
+    "index": 361,
+    "sanskrit": "anyathā tu yadbrahmādhyayanaṃ tat steyam iva / so 'dhyetānena brahmacaureṇa saṃyukto narakaṃ mahāyātanāsthānaṃ prāpnoti /",
+    "english": "Otherwise, the reading of the Veda would be like \"stealing\"; and the learner, being corrupted with this sin of stealing the Veda, falls into hellie, into a place of condign punishment.",
+    "morphology": "anyathā_anyathā_ tu_tu_ yat_yad_SNNe brahma_brahman_Cp adhyayanam_adhyayana_SNNe tat_tad_SNNe steyam_steya_SNNe iva_iva_  / saḥ_tad_SNM adhyetā_adhī_SFu3InPe anena_idam_SIM brahmacaureṇa_brahmacaura_SIM saṃyuktaḥ_saṃyuj_SNPaM narakam_naraka_S"
+  },
+  {
+    "index": 362,
+    "sanskrit": "sahasrahastaḥ vijayaḥ vyavasāyaḥ hi aninditaḥ",
+    "english": "Thou art possessed of a thousand arms. Thou art victory.",
+    "morphology": "sahasrahastaḥ_sahasrahasta_SNM vijayaḥ_vijaya_SNM vyavasāyaḥ_vyavasāya_SNM hi_hi_U aninditaḥ_anindita_SNM"
+  },
+  {
+    "index": 363,
+    "sanskrit": "nacaikasya strīpunnapuṃsakākhyaṃ svabhāvatrayaṃ yuktam ekatvahāniprasaṅgāt /",
+    "english": "and it is not possible for one and the same thing to have the three forms Masculine, Neuter and Feminine;",
+    "morphology": "na_na_ ca_ca_ ekasya_eka_SGM strī_strī_Cp put_put_Cp napuṃsaka_napuṃsaka_Cp ākhyam_ākhyā_SNNe svabhāva_svabhāva_Cp trayam_traya_SNNe yuktam_yuj_SNPaNe eka_eka_Cp tva_tva_Cp hāni_hāni_Cp prasaṅgāt_prasaṅga_SBM  /"
+  },
+  {
+    "index": 364,
+    "sanskrit": "viśvasya ketur bhuvanasya garbha ā | rodasī apṛṇāj jāyamānaḥ |",
+    "english": "The banner of the whole world, the germ [2], Filled on birth the firmaments;",
+    "morphology": "viśvasya_viśva_SGNe ketuḥ_ketu_SNM bhuvanasya_bhuvana_SGNe garbhaḥ_garbha_SNM ā_ā_  / rodasī_rodasī_SNF apṛṇāt_pṛ_S3ImIn jāyāḥ_jan_SNPaPrM "
+  },
+  {
+    "index": 365,
+    "sanskrit": "yadi hi rāgeṇāsaṃprayuktaṃ vigatarāgaṃ syādanyakleśasamprayuktamapi syāt /",
+    "english": "it is mixed with craving, and it is united to craving.",
+    "morphology": "yadi_yadi_ hi_hi_ rāgeṇa_rāga_SIM a_a_ saṃprayuktam_saṃprayuj_SNPaNe vigata_vigam_PaCp rāgam_rāga_SNNe syāt_as_SPr3O anya_anya_Cp kleśa_kleśa_Cp samprayuktam_samprayuj_SNPaNe api_api_ syāt_as_SPr3O  /"
+  },
+  {
+    "index": 366,
+    "sanskrit": "dadau tasmai kapālārghapātreṇārghyaṃ sunirmalaiḥ / naradantais tataḥ puṣpaṃ sugāndhi ca vilepanam //",
+    "english": "He offered to him an argha[5] of white human teeth in a skull by way of an argha vessel; and he presented to him flowers and fragrant unguents;",
+    "morphology": "dadau_dā_SPs3In tasmai_tad_SDM kapāla_kapāla_Cp arghapātreṇa_arghapātra_SINe arghyam_arghya_SANe su_su_ nirmalaiḥ_nirmala_PIM  / nara_nara_Cp dantaiḥ_danta_PIM tatas_tatas_ puṣpam_puṣpa_SANe sugāndhi_sugāndhi_SANe ca_ca_ vilepanam_vilepana"
+  },
+  {
+    "index": 367,
+    "sanskrit": "sāṃkhyaṃ yogo lokāyataṃ caity ānvīkṣikī //",
+    "english": "Anvikshaki comprises the Philosophy of Sankhya, Yoga, and Lokayata Atheism ?",
+    "morphology": "sāṃkhyam_sāṃkhya_SNNe yogaḥ_yoga_SNM lokāyatam_lokāyata_SNNe ca_ca_ eti_i_SPr3In ānvīkṣikī_ānvīkṣikī_SNF  /"
+  }
+]

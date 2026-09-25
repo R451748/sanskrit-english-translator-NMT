@@ -1,0 +1,50 @@
+[
+  {
+    "index": 112,
+    "sanskrit": "ūrdhvam rasānām dadate prajābhyaḥ sarvān yathā sarvam anitya tām ca",
+    "english": "They take up all the different tastes from all creatures, even as inconstancy sucks up truth.",
+    "morphology": "ūrdhvam_ūrdhvam_U rasānām_rasa_PGM dadate_dā_PPr3In prajābhyaḥ_prajā_PDF"
+  },
+  {
+    "index": 113,
+    "sanskrit": "satye sthitāḥ te naradeva sarve",
+    "english": "They all, O god among men, are devoted to truth.",
+    "morphology": "satye_satya_SLNe"
+  },
+  {
+    "index": 114,
+    "sanskrit": "śirobhis te gṛhītvorvīṃ sragviṇo raktavāsasaḥ / sukṛtaiḥ sāpitāḥ svaiḥ svair nayeyus te samañjasam //",
+    "english": "Placing earth upon their heads, wearing garlands and red clothes, and being sworn by their respective meritorious deeds, they shall decide honestly.",
+    "morphology": "śirobhiḥ_śiras_PINe te_tad_PNM gṛhītvā_grah_Co urvīm_urvī_SAF sragviṇaḥ_sragvin_PNM rakta_rakta_Cp vāsasaḥ_vāsas_PNM  / sukṛtaiḥ_sukṛta_PINe sāpitāḥ_sāpita_PNM svaiḥ_sva_PINe svaiḥ_sva_PINe nayeyuḥ_nī_PPr3O te_tad_PNM sa"
+  },
+  {
+    "index": 115,
+    "sanskrit": "brahmovāca || evaṃ sa manmathanibhassadā sahacarobhavat | ānukūlyaṃ tava kṛtaḥ sarvaṃ deva kariṣyati ||",
+    "english": "45. O God, thus a constant companion for you has come to exist. He too resembles you. He will render favourable service unto you.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  /"
+  },
+  {
+    "index": 116,
+    "sanskrit": "sa kajjalam tāmra ghaṭe ca ghṛṣṭam sarpiḥ yutam tulthakam añjanam ca||",
+    "english": "An Anjana prepared with the admixture of Kajjala and Tuthhaka (Sulphate of copper) rubbed in clarified butter on the surface of a copper vessel, would be similarly used (in such cases).",
+    "morphology": "sa_sa_U kajjalam_kajjala_SNNe tāmra_tāmra_NeCp ghaṭe_ghaṭa_SLM ca_ca_U ghṛṣṭam_ghṛṣ_SNPaPsNe sarpiḥ_sarpis_NeCp yutam_yuta_SNNe"
+  },
+  {
+    "index": 117,
+    "sanskrit": "dharmo vedārthaḥ / pūrvaṃ vedasvarūpam uktam, idānīṃ tadarthaḥ / svarūpārthaḥ pradhānatara ity uktaṃ bhavati /",
+    "english": "\"Dharma\" What is expounded in the Veda; the former verse had spoken of the Veda itself, and the present one speaks of what is contained in the Veda; this shows that the meaning is more important than the form of the word.",
+    "morphology": "dharmaḥ_dharma_SNM veda_veda_Cp arthaḥ_artha_SNM  / pūrvam_pūrvam_ veda_veda_Cp svarūpam_svarūpa_SNNe uktam_vac_SNPaNe idānīm_idānīm_ tad_tad_Cp arthaḥ_artha_SNM  / sva_sva_Cp rūpa_rūpa_SINe pāṇi_pāṇi_SINe an_an_ ā_ā_ an_an_ ā_ā_ "
+  },
+  {
+    "index": 118,
+    "sanskrit": "“mayā bhagavan na kadācin, ‘necchāmīty’ uktam pūrvam.”",
+    "english": "“Fortunate One, I have never said, ‘I do not desire.’ previously.”",
+    "morphology": "__mad_U __bhagavat_U na_na_U __kadācid_U"
+  },
+  {
+    "index": 119,
+    "sanskrit": "| ṛṣaya ūcuḥ | yadeṣā bhavatā proktā brāhmī tatra mahāśilā | mokṣadā sarvajaṃtūnāṃ tathā pātakanāśinī || 1 || sā kathaṃ sthāpitā tatra kiṃprabhāvā ca sūtaja | etanno brūhi niḥśeṣaṃ na hi tṛpyāmahe vayam || 2 ||",
+    "english": "1-2. O Sūtaja, it has been mentioned by Your Holiness that a great rock (Slab) pertaining to Brahmā is present there. It accords salvation unto all the creatures and destroys sins. How was it installed there? What is its power? Do narrate this completely. We are not fully satisfied.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / yat_yat_ eṣā_etad_SNF bhavatā_bhavat_SIM proktā_pravac_SNPaF brāhmī_brāhma_SNF tatra_tatra_ mahā_mahat_Cp śilā_śilā_SNF  / mokṣa_mokṣa_Cp dā_da_SNF sarva_sarva_Cp jantūnām_jantu_PGM tathā_"
+  }
+]

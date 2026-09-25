@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45424,
+    "sanskrit": "tayā sa samyak pratinanditaḥ tadā tathā eva sarvaiḥ vidura ādibhiḥ tatas",
+    "english": "He was properly accosted by her in return, and then by all the others having Vidura for their first.",
+    "morphology": "tayā_tad_SIF sa_tad_SNM samyak_samyak_U pratinanditaḥ_pratinand_SNPaPsM tadā_tadā_U tathā_tathā_U eva_eva_U sarvaiḥ_sarva_PIM vidura_vidura_MCp ādibhiḥ_ādi_PIM tatas_tatas_U"
+  },
+  {
+    "index": 45425,
+    "sanskrit": "brahmaiva sargo bhūtātmā karma janmeti kalpanāḥ / svayaṃ kurvadidaṃ bhāti vibhutvātkalpitārthabhāk //",
+    "english": "In truth Brahma being the very creation or the great cosmos itself, is verily the soul of all beings; it is in vain therefore to suppose our prior acts as cause of our births. That God is the creator of the universe, is a mere assumption made from his omnipotence.",
+    "morphology": "brahmā_brahman_SNM eva_eva_ sargaḥ_sarga_SNM bhūtātmā_bhūtātman_SNM karma_karman_SNNe janma_janman_SNNe iti_iti_ kalpanāḥ_kalpanā_PNF  / svayam_svayam_ kurvat_kṛ_SNPaPrNe idam_idam_SNNe bhāti_bhā_SPr3In vibhu_vibhu_Cp tvāt_tva_SBNe kalpita"
+  },
+  {
+    "index": 45426,
+    "sanskrit": "aparāṅmukhāḥ yuddhyamānāḥ iti saṃbandhaḥ / svargaṃ yānti /",
+    "english": "\"Without turning back\";this is to be construed with \"fighting\";proceed to heaven\".",
+    "morphology": "a_a_ parāṅmukhāḥ_parāṅmukha_PNM yuddhyamānāḥ_yuddh_PNPaPrM iti_iti_ saṃbandhaḥ_sambandha_SNM  / svargam_svarga_SAM yānti_yā_PPr3In  /"
+  },
+  {
+    "index": 45427,
+    "sanskrit": "lokayātrā samāyattā bhūyasī teṣu pārthiva",
+    "english": "The affairs of the kingdom, O king, depend to a great extent upon them.",
+    "morphology": "lokayātrā_lokayātrā_SNF samāyattā_samāyat_SNPaF"
+  },
+  {
+    "index": 45428,
+    "sanskrit": "vidhi prayuktām pūjām ca gṛhṇāti bhagavān svayam",
+    "english": "He accepts also all worship that is offered to Him agreeably to the ordinance.",
+    "morphology": "vidhi_vidhi_MCp prayuktām_prayuj_SAPaPsF pūjām_pūjā_SAF ca_ca_U gṛhṇāti_grah_SPr3In bhagavān_bhagavant_SNM svayam_svayam_U"
+  },
+  {
+    "index": 45429,
+    "sanskrit": "santānāntaracittasya na kācid vyāhatir bhavet //",
+    "english": "It has thus been proved that the first Cognition after birth cannot proceed from any material substance.",
+    "morphology": "santāna_saṃtāna_Cp antara_antara_Cp cittasya_citta_SGNe na_na_ kācid_kaścit_SNF vyāhatiḥ_vyāhati_SNF bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 45430,
+    "sanskrit": "kṣattriyaparamparayaiveyaṃ vidyatāvantaṃ kālamāgatā /",
+    "english": "this Philosophy has been handed down by unspoken tradition among Kṣattriyas only;",
+    "morphology": "kṣattriya_kṣatriya_Cp paramparayā_paramparā_SIF eva_eva_ iyam_idam_SNF vidya_vid_GdCp tāvantam_tāvat_SAM kālam_kāla_SAM āgatā_āgam_SNPaF  /"
+  },
+  {
+    "index": 45431,
+    "sanskrit": "atha te maruvadbhāsvāṃstatrāhamanubhūtavān / jagadākāśakośeṣu teṣu tāmarasekṣaṇa //",
+    "english": "All these appeared to me as the mirage in a desert, and I beheld them as phantasms in my mind;and this scene of the world was situated in the womb of vacuum, and I beheld these sceneries, O bright eyed Rama, all these sceneries seem to resemble the appearances of a phantasmagoria to me.",
+    "morphology": "atha_atha_ te_tvad_SG maru_maru_Cp vat_vat_ bhāsvān_bhāsvant_SNM tatra_tatra_ aham_mad_SN anubhūtavān_anubhū_SNPaM  / jagat_jagant_Cp ākāśa_ākāśa_Cp kośeṣu_kośa_PLM teṣu_tad_PLM tāmarasa_tāmarasa_Cp īkṣaṇa_īkṣaṇa_SVM  /"
+  }
+]

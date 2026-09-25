@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10368,
+    "sanskrit": "kṣura antam bāla sūrya ābham maṇi vajra vibhūṣitam",
+    "english": "Its edge was sharp as a razor, and it was resplendent as the rising sun. And it was decked with diverse gems and diamonds.",
+    "morphology": "kṣura_kṣura_MCp antam_anta_SAM bāla_bāla_Cp sūrya_sūrya_Cp ābha_ābha_SAM ā_ā_"
+  },
+  {
+    "index": 10369,
+    "sanskrit": "pitovāca | bālye vayasi varttaṃtī mātṛhīnā suduḥkhitā | bahiṣkṛtā vivāhena pitṛhīnā bhaviṣyasi || 68 ||",
+    "english": "The Father said: You will become separated from your mother even in your infancy and become distressed. Precluded from marriage, you will become bereft of your father too.",
+    "morphology": "pitā_pitṛ_SNM uvāca_vac_SPs3In  / bālye_bālya_SLNe vayasi_vayas_SLNe vartantī_vṛt_SNPaPrF mātṛ_mātṛ_Cp hīnā_hā_SNPaF su_su_ duḥkhitā_duḥkhita_SNF  / bahiṣkṛtā_bahiṣkṛ_SNPaF vivāhena_vivāha_SIM"
+  },
+  {
+    "index": 10370,
+    "sanskrit": "tuṣārīkṛtamadhyāhnadivākarakarotkaraiḥ / phullapuṣpotkarāsārapraṇādotkataṭadrumaiḥ //",
+    "english": "The mid-day was mantled by sun beams, as by a white mist of frost, and the arbours resounded with the humming of bees, fluttering about their clustering flowers.",
+    "morphology": "tuṣārīkṛta_tuṣārīkṛ_PaCp madhyāhna_madhyāhna_Cp divākara_divākara_Cp kara_kara_Cp utkaraiḥ_utkara_PIM  / phulla_phulla_Cp puṣpa_puṣpa_Cp utkara_utkara_Cp āsāra_āsāra_Cp praṇāda_pāṇā_SNF ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā"
+  },
+  {
+    "index": 10371,
+    "sanskrit": "evaṃ saṃdhyācaritraṃ te kathitaṃ munisattama | pavitraṃ pāvanaṃ divyaṃ sarvakāmaphalapradam || ya idaṃ śṛṇuyānnārī puruṣo vā śubhavrataḥ | sarvānkāmānavāpnoti nātra kāryā vicāraṇā ||",
+    "english": "26-27. O excellent sage, I have narrated to you the story of Sandhyā. It is holy, sanctifying, divine and bestower of all benefits. He or she who hears this story accompanied by auspicious rites attains all cherished desires. There is no doubt about it.",
+    "morphology": "evam_evam_ saṃdhyā_saṃdhyā_Cp caritram_caritra_SNNe te_tvad_SG kathitam_kathay_SNPaNe muni_muni_Cp sattama_sattama_SVM  / pavitram_pavitra_SNNe pāvanam_pāvana_SNNe divyam_divya_SNNe sarva_sarva_Cp kāma_kāma_Cp phala_phala_Cp pradam_prada_SNNe  / "
+  },
+  {
+    "index": 10372,
+    "sanskrit": "jayāsutā sā jāteyaṃ bhāryā somaprabhā tava / dhūrjaṭaḥ sa ca jāto 'yaṃ mantrī te śivabhūtikaḥ //",
+    "english": "And that daughter of Jayā has been born as this lady, your wife, Somaprabhā; and that Dhūrjaṭa has been born as this your minister, Śivabhūti.",
+    "morphology": "jayā_jayā_Cp sutā_sutā_SNF sā_tad_SNF jātā_jan_SNPaF iyam_idam_SNF bhāryā_bhāryā_SNF somaprabhā_somaprabhā_SNF tava_tvad_SG  / dhūrjaṭaḥ_dhūrjaṭa_SNM sa_tad_SNM ca_ca_ jātaḥ_jan_SNPaM ayam_idam_SNM mantrī_mantrin_SNM te_tvad_SG śi"
+  },
+  {
+    "index": 10373,
+    "sanskrit": "indriyāṇi śatakrato yā te janeṣu pañcasu |",
+    "english": "O Çatakratu, the strength of thine That is in the five folks, That do I choose of thee.",
+    "morphology": "indriyāṇi_indriya_PNNe śatakrato_śatakratu_SVM yā_yad_PNNe te_tvad_SG janeṣu_jana_PLM pañcasu_pañcan_PLM"
+  },
+  {
+    "index": 10374,
+    "sanskrit": "dhāraṇāddharaṇīṃ viddhi ākāśaṃ śuṣirātmakaṃ / tejastat pāvakaṃ viddhi vāyuṃ sparśagataṃ tathā //",
+    "english": "In a temple the dharaṇī earth is so called from its ability to hold, its internal cavity stands for the sky, the illumination inside represents the fire, and its touch represents the wind.",
+    "morphology": "dhāraṇāt_dhāraṇa_SBNe dharaṇīm_dharaṇī_SAF viddhi_vid_SPr2Im ākāśam_ākāśa_SANe śuṣira_śuṣira_Cp ātmakam_ātmaka_SANe  / tejaḥ_tejas_SANe tat_tad_SANe pāvakam_pāvaka_SANe viddhi_vid_SPr2Im vāyum_vāyu_SAM sparśa_sparśa_Cp ga"
+  },
+  {
+    "index": 10375,
+    "sanskrit": "dhāma tasya upayuñjanti bhūyaḥ eva tu jāyate",
+    "english": "With the eternal and immutable portion on Jiva primal essence become united and this union takes place repeatedly.",
+    "morphology": "dhāma_dhāman_SANe tasya_tad_SGM upayuñjanti_upayuj_PPr3In"
+  }
+]

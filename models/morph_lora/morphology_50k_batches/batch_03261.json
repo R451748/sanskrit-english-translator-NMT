@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26080,
+    "sanskrit": "na tam aśnoti kaḥ cana divaḥ iva sānu ārabham sāvarṇyasya dakṣiṇā vi sindhuḥ iva paprathe",
+    "english": "No one attains to him, as though a man would grasp the heights of heaven. Sâvarṇya's sacrificial meed hath broadened like an ample flood.",
+    "morphology": "na_na_U tam_tad_SAM aśnoti_aś_SPr3In kaḥ_ka_SNM cana_cana_U divaḥ_div_SGM iva_iva_U sānu_sānu_NeCp ārabham_ārabh_In sāvarṇyasya_sāvarṇya_SGM dakṣiṇā_dakṣiṇā_SNF vi_vi_U sindhuḥ_sindhu_SNF iva_iva_U paprāā_prath_SPs3In"
+  },
+  {
+    "index": 26081,
+    "sanskrit": "sa taiḥ eva juhāva asya rāṣṭram māṃsaiḥ mahā tapāḥ",
+    "english": "Observant of rigid vows, the great Dalvya Vaka, O monarch, poured Dhritarashtra's kingdom as a libation on the fire, with the aid of those pieces of meat.",
+    "morphology": "sa_tad_SNM taiḥ_tad_PINe eva_eva_U juhāva_hu_SPs3In asya_idam_SGM rāṣṭram_rāṣṭra_SANe māṇā_māṇa_SINe"
+  },
+  {
+    "index": 26082,
+    "sanskrit": "jananīśāsanātsadyassa suto nirjarādhipam | balāddhṛtvā dadau daṃḍaṃ vividhaṃ nirjarānapi ||",
+    "english": "19. At the bidding of his mother, he immediately abducted Indra, the lord of gods, the other gods and punished them in various ways.",
+    "morphology": "jananī_jananī_Cp śāsanāt_śāsana_SBNe sadyas_sadyas_ sa_tad_SNM sutaḥ_suta_SNM nirjara_nirjara_Cp adhipam_adhipa_SAM  / balāt_bala_SBNe hṛtvā_hṛ_Co dadau_dā_SPs3In daṇḍam_daṇḍa_SAM vividham_vividha_SAM nirjarān_nirjara_PAM api_api_"
+  },
+  {
+    "index": 26083,
+    "sanskrit": "pratyakṣam tasya havyāni pratigṛhṇanti devatāḥ",
+    "english": "In his very sight the gods used to take the libations of clarified butter poured into the fire for them, and the Pitris the food that was offered to them, in Sraddhas.",
+    "morphology": "pratyakṣam_pratyakṣa_SANe"
+  },
+  {
+    "index": 26084,
+    "sanskrit": "āgacchacchūrasanmānonmukhagandharvacāraṇam / śūronmukhāmarastraiṇakaṭākṣekṣitasadbhaṭam //",
+    "english": "The charanas and Gandharvas, were singing praises of the advancing heroes; and heavenly nymphs that liked heroism, were glancing at the best combatants.",
+    "morphology": "āgacchat_āgam_S3ImIn śūra_śūra_Cp sat_sat_Cp māna_māna_Cp unmukha_unmukha_Cp gandharva_gandharva_Cp cāraṇam_cāraṇa_SAM  / śūra_śūra_Cp unmukha_unmukha_Cp amara_amara_Cp straiṇa_straiṇa_Cp kaṭākṣa_kaṭākṣa_Cp īkṣita_īkṣ_"
+  },
+  {
+    "index": 26085,
+    "sanskrit": "sa mahimā sadruḥ bhūtvā antam pṛthivyāḥ agacchat samudraḥ abhavat //",
+    "english": "He, having become moving majesty, went to the ends of the earth. He became the sea.",
+    "morphology": "sa_tad_SNM mahimā_mahiman_SNM sadruḥ_sadru_SNM bhūtvā_bhū_Co antam_anta_SAM pṛthivyāḥ_pṛthivī_SGF agacchat_gam_SPs3In samudraḥ_samudra_SNM abhavat_bhū_SPs3In  /"
+  },
+  {
+    "index": 26086,
+    "sanskrit": "jaï viraho ṇa sahijjaï māṇo [suhā v] parivajjaṇīo te / viraho hiaa sahijjaï māṇo [evva] parivaḍhḍhaṇīo te // [yadi viraho na sahyate mānaḥ [sukhād api] parivarjanīyas te",
+    "english": "And she was repeating, with accents charming on account of her broken speech, in a voice interrupted with sobs, showing her gleaming teeth, this fragment of a Prakrit song: “If you cannot endure separation, you must cheerfully abandon anger.",
+    "morphology": "jañ_jañ_ virahaḥ_viraha_SNM na_na_ sahijjañ_sah_SPr3O māṇaḥ_māṇa_SNM te_tvad_SG  / virahaḥ_viraha_SNM hiaa_hiaa_ sahijjañ_sah_SPr3O mānaḥ_māna_SNM te_tvad_SG  / yadi_yadi_ virahaḥ_viraha_SNM na_na_ sahyate_sah_SPr3InPv mānaḥ_māna_"
+  },
+  {
+    "index": 26087,
+    "sanskrit": "paśced guruṃ tena dattāśīrvado 'tha vrajetsabhāṃ //",
+    "english": "He should then see the preceptor and go to the court after having been blessed by him.",
+    "morphology": "paśced_paśced_ gurum_guru_SAM tena_tad_SIM datta_dā_PaCp āśīrvadaḥ_āśīrvada_SNM atha_atha_ vrajet_vraj_SPr3O sabhām_sabhā_SAF  /"
+  }
+]

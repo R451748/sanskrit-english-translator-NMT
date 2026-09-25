@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43928,
+    "sanskrit": "yuktaṃ ca tanniścayārthamāptagrahaṇam /",
+    "english": "The adjective 'apta' has been used to indicate the correctness of the assertion.",
+    "morphology": "yuktam_yuj_SNPaNe ca_ca_ tad_tad_Cp niścaya_niścaya_Cp artham_artha_SAM āpta_āpta_Cp grahaṇam_grahaṇa_SNNe  /"
+  },
+  {
+    "index": 43929,
+    "sanskrit": "pitta ghnam teṣu kūṣmāṇḍam bālam madhyam kapha āvaham |",
+    "english": "Of these the tender Kushmandas are light in digestion, heat-making in their potency, and contain a greater proportion of alkaline matter.",
+    "morphology": "pitta_pitta_NeCp ghnam_ghna_SNNe teṣu_tad_PLM kūṣmāṇḍam_kūṣmāṇḍa_SNNe bālam_bāla_SNNe madhyam_madhya_SNNe kapha_kapha_MCp āvaham_āvaha_SNNe  /"
+  },
+  {
+    "index": 43930,
+    "sanskrit": "biṃdunādamayaṃ liṃgaṃ sthāvaraṃ jaṃgamaṃ ca yat | bhāvanāmayametaddhi śivadṛṣṭaṃ na saṃśayaḥ ||",
+    "english": "36. The Bindu and Nāda forms, the stationary or mobile ones are conceptual but belong to Śiva, undoubtedly.",
+    "morphology": "bindu_bindu_Cp nāda_nāda_Cp mayam_maya_SNNe liṃgam_liṅga_SNNe sthāvaram_sthāvara_SNNe jaṃgamam_jaṅgama_SNNe ca_ca_ yat_yad_SNNe  / bhāvanā_bhāvanā_Cp mayam_maya_SNNe etat_etad_SNNe hi_hi_ śiva_śiva_Cp dṛṣṭam_dṛś_SNPaNe na_na_ sa"
+  },
+  {
+    "index": 43931,
+    "sanskrit": "na vandhyāsutaśūnyatve jīvaddehaḥ prasajyate /",
+    "english": "It has been argued above (under Text 184) that “The living body would be devoid of Breathing, etc., if there were no Soul”.",
+    "morphology": "na_na_ vandhyā_vandhyā_Cp suta_suta_Cp śūnya_śūnya_Cp tve_tva_SLNe jīvat_jīv_PaPrCp dehaḥ_deha_SNM prasajyate_prasañj_SPr3InPv  /"
+  },
+  {
+    "index": 43932,
+    "sanskrit": "bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham / tathārūpyāptamāryaṃ tu phalāptyuttaptihānibhiḥ //",
+    "english": "The “good” of the sphere of dhyāna is lost through a change of state and through falling. The same for the good of Ārūpyadhātu. Pure good is lost through the obtaining of a result, through perfection of the faculties, or through falling away.",
+    "morphology": "bhūmi_bhūmi_Cp saṃcāra_saṃcāra_Cp hānibhyām_hāni_DuIF dhyāna_dhyāna_Cp āptam_āp_SNPaNe tyajyate_tyaj_SPr3InPv śubham_śubha_SNNe  / tathā_tathā_ ārūpya_ārūpya_Cp āptam_āp_SNPaNe āryam_ārya_SNNe tu_tu_ phala_phala_Cp āpti_āpti_Cp"
+  },
+  {
+    "index": 43933,
+    "sanskrit": "iti sarvaśarīreṇa jaṃgamatvena jaṃgamam / sthāvaraṃ sthāvaratvena sarvātmā bhāvayan sthitaḥ //",
+    "english": "Thus all moving and unmoving things, have their movable and immovable bodies, according to their intrinsic disposition or idiosyncrasy as such and such.",
+    "morphology": "iti_iti_ sarva_sarva_Cp śarīreṇa_śarīra_SINe jaṃgama_jaṅgama_Cp tvena_tva_SINe jaṃgamam_jaṅgama_SAM  / sthāvaram_sthāvara_SAM sthāvara_sthāvara_Cp tvena_tva_SINe sarvātmā_sarvātman_SNM bhāvayan_bhāvay_SNPaPrM sthitaḥ_sthā_SNPaM  /"
+  },
+  {
+    "index": 43934,
+    "sanskrit": "ataḥ sarvambharaḥ prāṇo 'to viśuddhaḥ /",
+    "english": "hence the Breath in the Mouth is the nourisher of all,hence pure",
+    "morphology": "atas_atas_ sarvambharaḥ_sarvambhara_SNM prāṇaḥ_prāṇa_SNM atas_atas_ viśuddhaḥ_viśudh_SNPaM  /"
+  },
+  {
+    "index": 43935,
+    "sanskrit": "na eva pumān pumān ca eva sa liṅgī iti abhidhīyate",
+    "english": "The Supreme Soul is different from both the Jiva-soul and the universe.",
+    "morphology": "na_na_U eva_eva_U pumān_puṃs_SNM pumān_puṃs_SNM ca_ca_U eva_eva_U sa_sa_U liṅgī_liṅgin_SNM iti_iti_U"
+  }
+]

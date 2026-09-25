@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12448,
+    "sanskrit": "śaṅkukarṇa mahākarṇa kumbhakarṇa arṇava ālaya",
+    "english": "Thou art the receptacle of the Ocean.",
+    "morphology": "śaṅkukarṇa_śaṅkukarṇa_SVM mahākarṇa_mahākarṇa_SVM kumbhakarṇa_kumbhakarṇa_SVM"
+  },
+  {
+    "index": 12449,
+    "sanskrit": "tasmād dvividha evārthaḥ /",
+    "english": "For all these reasons, things are of only two kinds (Perceptible and Imperceptible).",
+    "morphology": "tasmāt_tasmāt_"
+  },
+  {
+    "index": 12450,
+    "sanskrit": "ahaṃkārapiśācena grastā ye nirayaiṣiṇaḥ / teṣāṃ mohamadāndhānāṃ na mitrāṇi na bāndhavāḥ //",
+    "english": "Those hellish people that are seized and possessed by the devils of Egotism, are blinded in their self-delusion and giddiness; and are unbefriended by their fellows and friends, as they are unfriendly to others in this world.",
+    "morphology": "ahaṃkāra_ahaṃkāra_Cp piśācena_piśāca_SIM grastāḥ_gras_PNPaM ye_yad_PNM niraya_niraya_Cp eṣiṇaḥ_eṣin_PNM  / teṣām_tad_PGM moha_moha_Cp mada_mada_Cp andhānām_andha_PGM na_na_ mitrāṇi_mitra_PNNe na_na_ bāndhavāḥ_bāndhava_PNM "
+  },
+  {
+    "index": 12451,
+    "sanskrit": "yat kiṃ cit triṣu lokeṣu ratnabhūtaṃ prapaśyasi /",
+    "english": "There does not in the universe exist any one who may be their third.",
+    "morphology": "yat_yad_SANe kim_ka_SANe cit_cit_ triṣu_tri_PLM lokeṣu_loka_PLM ratna_ratna_Cp bhūtaḥ_bhū_SAPaNe"
+  },
+  {
+    "index": 12452,
+    "sanskrit": "ahiṃsā sūnṛtā vāṇī satyaṃ śaucaṃ dayā kṣamā / varṇināṃ liṅgināṃ caiva sāmānyo dharma ucyate //",
+    "english": "Abstaining from killing or causing injury to beings, courteous laṅguage, truthfulness, purity, kindness, and forbearance are the general virtues of the religious students.",
+    "morphology": "ahiṃsā_ahiṃsā_SNF sūnṛtā_sūnṛta_SNF vāṇī_vāṇī_SNF satyam_satya_SNNe śaucam_śauca_SNNe dayā_dayā_SNF kṣamā_kṣamā_SNF  / varṇinām_varṇin_PGM liṅginām_liṅgin_PGM ca_ca_ eva_eva_ sāmānyaḥ_sāmānya_SNM dharmaḥ_dha"
+  },
+  {
+    "index": 12453,
+    "sanskrit": "kāmyake kānana śreṣṭhe punargamanam ucyate vrīhi drauṇikam ākhyānam atra eva bahu vistaram",
+    "english": "then the re-entry of the Pandavas into the Kamyaka forest, here also is the long story of Vrihidraunika.",
+    "morphology": "kāmyake_kāmyaka_SLM kānana_kānana_NeCp śreṣṭhe_śreṣṭha_SLM punargamanam_punargamana_SNNe ucyate_vac_SPr3InPv vrīhi_vrīhi_MCp drauṇikam_drauṇika_SNNe ākhyānam_ākhyāna_SNNe atra_atra_U eva_eva_U bahu_bahu_Cp vistaram_vistara_SNNe"
+  },
+  {
+    "index": 12454,
+    "sanskrit": "hrī niṣedhāḥ mahātmānaḥ parān abhimukhāḥ raṇe chidyamānāḥ śitaiḥ śastraiḥ kṣatra dharma parāyaṇāḥ gatāḥ te brahma sadanam hatāḥ vīrāḥ su varcasaḥ",
+    "english": "Those high-souled warriors who, observant of the duties of kshatriya-hood and regarding flight from battle to be shameful, have fallen, mangled with keen weapons, while advancing unarmed against fighting foes, have all assumed bright forms and attained the regions of Brahman.",
+    "morphology": "hrī_hrī_FCp niṣedhāḥ_niṣedha_PNM mahātmānaḥ_mahātman_PNM parān_para_PAM abhimukhāḥ_abhimukha_PNM raṇe_raṇa_SLM chidyamānāḥ_chid_PNPaPrMPv śitaiḥ_śā_PIPaPsNe śastraiḥ_śastra_PINe kṣatra_kṣatra_NeCp dharma_dharma_MCp pa"
+  },
+  {
+    "index": 12455,
+    "sanskrit": "nākāśe //",
+    "english": "Nor in the air;",
+    "morphology": "na_na_ "
+  }
+]

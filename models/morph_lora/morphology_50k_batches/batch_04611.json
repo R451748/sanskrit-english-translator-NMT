@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36880,
+    "sanskrit": "ud agātām bhagavatī vicṛtau nāma tārake / preha amṛtasya yacchatām praitu baddhaka mocanam /",
+    "english": "The two auspicious stars whose name is called Releasers have gone up. Send Amrit hither, let it come freeing the captive from his bonds!",
+    "morphology": "ud_ud_U agātām_gā_DuPs2In bhagavatī_bhagavat_DuNF vicṛtau_vicṛt_DuNF nāma_nāma_U tārake_tārakā_DuNF  / preha_preha_U amḥ"
+  },
+  {
+    "index": 36881,
+    "sanskrit": "śopha anvitaḥ a śopha yutaḥ ca pākau iti evam ete daśa saṃpradiṣṭāḥ",
+    "english": "The four types of Abhishyandha (Ophthalmatis), the four types of Adhi-mantha, the two forms of Akshi-paka (suppuration of the eye) attended with or without swelling, these ten, as well as Hatadhimantha, Anila-Parjaya, Shuskakshi-paka, Anyato-vata, Amladhyushita, Drishti, Sirot-pata and Shira-Harsha are the names of the (seventeen kinds of) diseases which affect the eye as a whole.",
+    "morphology": "śopha_śopha_MCp anvitaḥ_anvita_SNM a_a_U śopha_śopha_MCp yutaḥ_yuta_SNM ca_ca_U pākau_pāka_DuNM"
+  },
+  {
+    "index": 36882,
+    "sanskrit": "chāyāyāṃ galitāṅgāyāṃ tatraivāśu yathātapaḥ / prāṇe tvastaṃgate bāhyādapānaḥ proditaḥ kṣaṇāt //",
+    "english": "As the prana expiration expires in the open air, the inhaling breath rises and rushes in a moment; just as the light having fled from the horizon, is succeeded immediately by deep darkness.",
+    "morphology": "chāyāyām_chāyā_SLF galita_gal_PaCp aṅgāyām_aṅga_SLF tatra_tatra_ eva_eva_ āśu_āśu_ yathātapas_yathātapas_  / prāṇe_prāṇa_SLM tu_tu_ astam_asta_SAM gate_gam_SLPaM bāhyāt_bāhya_SBNe apānaḥ_apāna_SNM pāṇā_pāṇi_SIM āḥ_ap"
+  },
+  {
+    "index": 36883,
+    "sanskrit": "yoṣitsu strīṣv api patitāsv eṣa eva vidhiḥ /",
+    "english": "\"This same method is to be adopted in the case of female outcasts,\" of women who have become outcasts.",
+    "morphology": "yoṣitsu_yoṣit_PLF strīṣu_strī_PLF api_api_ patitāsu_pat_PLPaF"
+  },
+  {
+    "index": 36884,
+    "sanskrit": "anadannannamahnyeva na vai tasmin gṛhe vaset //",
+    "english": "If not eaten food there, he becomes pure that day itsel£ Then one should not stay in that house.",
+    "morphology": "a_a_ nadan_nad_SNPaPrM annam_anna_SANe ahni_ahar_SLNe eva_eva_ na_na_ vai_vai_ tasmin_SLNe gṛhe_gṛha_SLNe"
+  },
+  {
+    "index": 36885,
+    "sanskrit": "“ārya-putra tavāyam pthivī-pradeśo ’pūrvaḥ,",
+    "english": "“Noble sir, this country is quite new to you,",
+    "morphology": "__ārya_U __putra_U"
+  },
+  {
+    "index": 36886,
+    "sanskrit": "yadyadiṣṭatamaṃ loke yaccaivātmahitaṃ gṛhe | tattadguṇavate deyaṃ tatraivākṣayamicchatā | svarṇadhānyāni vāsāṃsi chatropānatkamaṇḍalum || 22 || gṛhaṃ devasya vai śaktyā kṛtvā syādbhuvi bhūpatiḥ | gītanṛtyakathābhiśca toṣayetparameśvaram || 23 ||",
+    "english": "Whatever one likes most in the world, whatever is beneficial to him in the house should be given to a person of good qualities, if the donor desires everlasting benefit. By offering gold, foodgrain, clothes, umbrellas, shoes, waterpot etc., and constructing temples according to his capacity, one shall become a king on the earth. He should propitiate Parameśvara through songs, dances and tales (about the deity).[Sanskrit text for this chapter is available]",
+    "morphology": "yat_yad_SNNe yat_yad_SNNe iṣṭatamam_iṣṭatama_SNNe loke_loka_SLM yat_yad_SNNe ca_ca_ eva_eva_ ātma_ātman_Cp hitam_hita_SNNe gṛhe_gṛha_SLNe  / tat_tad_SNNe tat_tad_SNNe guṇavate_guṇavat_SDM deyam_dā_SNNeGd tatra_tatra_ eva_eva_ akṣayam_a"
+  },
+  {
+    "index": 36887,
+    "sanskrit": "tatrātītaṃ rūpamanityatāniruddham / anāgatamanutpannam / pratyutpannamutpannāniruddham /",
+    "english": "past rāpa is r%pa destroyed by impermanence, future r%pa is rūpa which has not arisen, and present rūpa is rūpa which has arisen and which has not been destroyed; rūpa is internal when it forrs part of the series called “me”;",
+    "morphology": "tatra_tatra_ atītam_atī_SNPaNe rūpam_rūpa_SNNe anitya_anitya_Cp tā_tā_Cp niruddham_nirudh_SNPaNe  / anāgatam_anāgata_SNNe anutpannam_anutpanna_SNNe  / pratyutpannam_pratyaya_SNNe"
+  }
+]

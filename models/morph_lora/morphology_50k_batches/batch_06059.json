@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48464,
+    "sanskrit": "smarāmi smṛtivākyāni yāni prāha gururmama | kiṃcidvedamayaṃ pātraṃ kiṃcitpātraṃ tapomayam || 220 ||",
+    "english": "220. “I shall recollect the sentences from the Smṛtis, which my preceptor had spoken to me. Someone is worthy of the Veda, someone of penance.",
+    "morphology": "smarāmi_smṛ_SPr1In smṛti_smṛti_Cp vākyāni_vākya_PANe yāni_yad_PANe prāha_prāh_SPs3In guruḥ_guru_SNM mama_mad_SG  / kiṃcid_kaścit_SNNe veda_veda_Cp mayam_maya_SNNe pātram_pātra_SNNe kiṃcid_kaścit_SNNe pātram_pātra_SNNe tapaḥ_tapas"
+  },
+  {
+    "index": 48465,
+    "sanskrit": "sa mahā ṛṣi vākya sama kālam eva tasmāt yānāt avāpatat",
+    "english": "As soon as these words were uttered by the great Rishi, Nahusha fell down from that vehicle.",
+    "morphology": "sa_tad_SNM mahā_mahat_Cp ṛṣi_ṛṣi_MCp vākya_vākya_NeCp sama_sama_Cp kālam_kāla_SAM eva_eva_U tasmāt_tad_SBNe yānāt_yāna_SBNe avāpatat_avapat_SPs3In"
+  },
+  {
+    "index": 48466,
+    "sanskrit": "tulasī śuṣkakāṣṭheṣu yā rūpā viśvavyāpinī | majjāyāṃ padmavāsā ca tvacāsu ca haripriyā || 5 ||",
+    "english": "5. She is present in the form of Viśvavyāpinī (Pervaḍer of the universe) in the dry twigs of Tulasī. Padmavāsā resides in the pith and Haripriyā in the bark.",
+    "morphology": "tulasī_tulasī_SNF śuṣka_śuṣka_Cp kāṣṭheṣu_kāṣṭha_PLNe yā_yad_SNF viśva_viśva_Cp vyāpinī_vyāpin_SNF  / majjāyām_majjā_SLF padma_padma_Cp vāsā_vāsas_SNF ca_ca_ tvacāsu_tvacā_PLF ca_ca_ hari_hari_Cp priyā_priya_SNF  /"
+  },
+  {
+    "index": 48467,
+    "sanskrit": "lokam me lokakṛtau kṛṇutam |",
+    "english": "Make ye a place for me, ye place-makers.",
+    "morphology": "lokam_loka_SAM me_mad_SG loka_loka_Cp kṛtau_kṛt_DuNM"
+  },
+  {
+    "index": 48468,
+    "sanskrit": "avaniṣṭhīvato darpād dvāv oṣṭhau chedayen nṛpaḥ / avamūtrayato meḍhram avaśardhayato gudam //",
+    "english": "If out of arrogance he spits (on a superior), the king shall cause both his lips to be cut off; if he urines (on him), the penis; if he breaks wind (against him), the anus.",
+    "morphology": "avaniṣṭhīvataḥ_avaniṣṭhīv_SGPaPrM darpāt_darpa_SBM dvau_dvi_DuAM oṣṭhau_oṣṭha_DuAM chedayet_cheday_SPr3O nṛpaḥ_nṛpa_SNM  / avamūtrayataḥ_avamūtr_SGPaPrM meḍhram_meḍhra_SANe avaśardhayataḥ_avaśardhay_SGPaPrM gudam_guda"
+  },
+  {
+    "index": 48469,
+    "sanskrit": "evaṃ nityatve durlo yuktimārgaḥ tasmān mantavyaḥ kārya eveti śabdaḥ /",
+    "english": "Therefore, the Mimamsakas cannot but hold that a sound is an effect, i. c., non-eternal.",
+    "morphology": "evam_evam_ nitya_nitya_Cp tve_tva_SLNe durlaḥ_durla_SNM yukti_yukti_Cp mārgaḥ_mārga_SNM tasmāt_tasmāt_ mantavyaḥ_man_SNMGd kāryaḥ_kṛ_SNMGd eva_eva_ iti_iti_ śabdaḥ_śabda_SNM  /"
+  },
+  {
+    "index": 48470,
+    "sanskrit": "eko mṛtyuṃjayaḥ pūjyo janmamṛtyujarāharaḥ | mṛtyuṃjayaṃ kilābhyarcya śveto mṛtyuṃjayobhavat || 56 ||",
+    "english": "56. Mṛtyuñjaya alone is worthy of being adored. He removes birth, death and old age. Indeed, by worshipping Mṛtyuñjaya, Śveta (ketu) was able to vanquish death.",
+    "morphology": "ekaḥ_eka_SNM mṛtyuṃjayaḥ_mṛtyuṃjaya_SNM pūjyaḥ_pūjay_SNMGd janma_janman_Cp mṛtyu_mṛtyu_Cp jarā_jarā_Cp haraḥ_hara_SNM  / mṛtyuṃjayam_mṛtyuṃjaya_SAM kila_kila_ abhyarcya_abhyarc_Co śvetaḥ_śveta_SNM mṛtyuṃjayaḥ_mṛt"
+  },
+  {
+    "index": 48471,
+    "sanskrit": "athavā yaḥ so'hamapi bhrāntimātraṃ na sanmayaḥ / tathāpi citraśatatā yannāmāsadviḍambyate //",
+    "english": "Or what ever I am, I find myself to be full of errors only, and there is no truth whatever in me; and yet it is the error of errors and the greatest blunder, that we should be so beguiled and betrayed by unrealities.",
+    "morphology": "athavā_athavā_ yaḥ_yad_SNM saḥ_tad_SNM aham_mad_SN api_api_ bhrānti_bhrānti_Cp mātram_mātra_SANe na_na_ sat_sat_Cp mayaḥ_maya_SNM  / tathā_tathā_ api_api_ citra_citra_Cp śata_śata_Cp tā_tā_SNF yat_yad_SNNe nāma_nāma_ asat_as_SNPaPrNe vi"
+  }
+]

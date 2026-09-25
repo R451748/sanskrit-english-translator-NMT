@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5904,
+    "sanskrit": "traivedikam adhyayanam uktam / ekadvivedādhyayanam aprāptaṃ vikalpyate /",
+    "english": "The \"learning of Three Vedas\" has been mentioned in the preceding verse; the learning of \"two\" and \"one\" Veda, not having been mentioned anywhere, are here put forward us alternatives.",
+    "morphology": "traivedikam_traivedika_SNNe adhyayanam_adhyayana_SNNe uktam_vac_SNPaNe  / eka_eka_Cp dvi_dvi_Cp veda_veda_Cp adhyayanam_adhyayana_SNNe aprāptam_aprāpta_SNNe vikalpyate_vikalpay_SPr3InPv  /"
+  },
+  {
+    "index": 5905,
+    "sanskrit": "agniḥ vai devatāḥ sarvāḥ iti vedasya śāsanam",
+    "english": "Agni (fire) is all the deities. Even this is the teaching of the Veda.",
+    "morphology": "agniḥ_agni_SNM vai_vai_U devatāḥ_devatā_PNF sarvāḥ_sarva_PNF iti_iti_U"
+  },
+  {
+    "index": 5906,
+    "sanskrit": "jaigīṣavya mahābuddhe paśya māṃ divyacakṣuṣā | tuṣṭo'smi varadaścāhaṃ brūhi yatte manogatam || 14 ||",
+    "english": "14. “O Jaigīṣavya of great intellect, look at me with your divine vision. I am pleased with you. I shall grant you boons. Tell me whatever you cherish in your mind”.",
+    "morphology": "jaigīṣavya_jaigīṣavya_SVM mahā_mahat_Cp buddhe_buddhi_SVM paśya_paś_SPr2Im mām_mad_SA divya_divya_Cp cakṣuṣā_cakṣus_SINe  / tuṣṭaḥ_tuṣ_SNPaM asmi_as_SPr1In vara_vara_Cp daḥ_da_SNM ca_ca_ aham_mad_SN brūhi_brū_SPr2Im yat_yad_SNN"
+  },
+  {
+    "index": 5907,
+    "sanskrit": "bhūyāma te sumatau vājino vayaṃ mā na starabhimātaye / asmāṃ citrābhiravatādabhiṣṭibhirā naḥ sumneṣu yāmaya //",
+    "english": "In thy kind grace and favour may we still be strong cast us not down before the foe!",
+    "morphology": "bhūyāma_bhū_PPs1O te_tvad_SG sumatau_sumati_SLF vājinaḥ_vājin_PNM vayam_mad_PN mā_mā_ naḥ_mad_PA star_stṛ_SPs2 abhimātaye_abhimāti_SDF  / asmām_mad_SA citrābhiḥ_citra_PIF avatāt_av_SPr2Im abhiṣṭibhiḥ_abhiṣṭi_PIF ā_ā_ naḥ_m"
+  },
+  {
+    "index": 5908,
+    "sanskrit": "kālena tvā aham ajayam kālena aham jitaḥ tvayā",
+    "english": "Aided by Time I had vanquished thee. Aided by Time thou hast vanquished me.",
+    "morphology": "kālena_kāla_SIM tvā_tvad_SA aham_mad_SN ajayam_ji_SPs1In kālena_kāla_SIM aham_mad_SN jitaḥ_ji_SNPaPsM tvayā_tvad_SI"
+  },
+  {
+    "index": 5909,
+    "sanskrit": "vasām rājānam vasatim janānām arātayaḥ ni dadhuḥ martyeṣu brahmāṇi atreḥ ava tam sr̥jantu ninditāraḥ nindyāsaḥ bhavantu",
+    "english": "Mid mortal men godless have secreted the King of all who live, home of the people. So may the prayers of Atri give him freedom. Reproached in turn be those who now reproach him.",
+    "morphology": "vasām_vasā_SAF rājānam_rājan_SAM vasatim_vasati_SAF janānām_jana_PGM arātayaḥ_arāti_PNF ni_ni_U dadhuḥ_dhā_PPs3In martyeṣu_martya_PLM brahmāṇi_brahman_PANe atreḥ_atri_SGM ava_ava_U tam_tad_SAM sr̥jantu_sr̥j_PPr3Im ninditāraḥ_nindi"
+  },
+  {
+    "index": 5910,
+    "sanskrit": "durgamāḥ parvatāḥ pārtha samādhim paramam kuru",
+    "english": "Therefore, O son of Pritha, do thou concentrate thy thoughts.",
+    "morphology": "durgamāḥ_durgama_PNM parvatāḥ_parvata_PNM pārtha_pārtha_SVM"
+  },
+  {
+    "index": 5911,
+    "sanskrit": "atha bhūmitalaṃ bhittvā prādurbhūtā mahānadī | tāṃ śilāmamalaistoyaiḥ kṣālayantī samaṃtataḥ || 16 ||",
+    "english": "16. Thereat the great river came into view piercing the ground and flooding the slab all round with her sacred water.",
+    "morphology": "atha_atha_ bhūmi_bhūmi_Cp talam_tala_SAM bhittvā_bhid_Co prādurbhūtā_prādurbhū_SNPaF mahā_mahat_Cp nadī_nadī_SNF  / tām_tad_SAF śilām_śilā_SAF amalaiḥ_amala_PINe toyaiḥ_toya_PINe kṣālayantī_kṣālay_SNPaPrF samaṃtataḥ_samaṃta"
+  }
+]

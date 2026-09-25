@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21232,
+    "sanskrit": "lohayaṣṭyāṃ kṛte śrāddhe nabhasye caṃdrasaṃkṣaye | pretayonivinirmuktāḥ krīḍaṃti pitaro divi || 3 ||",
+    "english": "If Śrāddha is performed at Lohayaṣṭi in the dark half of Nabhasya (Bhādrapada), the Pitṛs begin to sport about in heaven freed from the state of being ghosts.",
+    "morphology": "loha_loha_Cp yaṣṭyām_yaṣṭi_SLF kṛte_kṛ_SLPaNe śrāddhe_śrāddha_SLNe nabhasye_nabhasya_SLM caṃdra_candra_Cp saṃkṣaye_saṃkṣaya_SLM  / preta_preta_Cp yoni_yoni_Cp vinirmuktāḥ_vinirmuc_PNPaM krīḍanti_krīḍ_PPr3In pitaraḥ_pit"
+  },
+  {
+    "index": 21233,
+    "sanskrit": "tvayā ca kāvyam iti uktam tasmāt kāvyam bhaviṣyati",
+    "english": "Thou hast called thy present work a poem, wherefore it shall be a poem.",
+    "morphology": "tvayā_tvad_SI ca_ca_U kāvyam_kāvya_SNNe iti_iti_U uktam_vac_SNPaPsNe tasmāt_tasmāt_U"
+  },
+  {
+    "index": 21234,
+    "sanskrit": "śṛṇvaṃtu brāhmaṇāḥ sarve vacanaṃ mama sāṃpratam | mayā vinirgatenaiva tatpurāttoṣito haraḥ || 63 ||",
+    "english": "63-65 “May all the Brāhmaṇas hear my statement now. As soon as I came out of that city, Hara was propitiated by me.",
+    "morphology": "śṛṇvaṃtu_śru_PPr3Im brāhmaṇāḥ_brāhmaṇa_PNM sarve_sarva_PNM vacanam_vacana_SANe mama_mad_SG sāṃpratam_sāṃpratam_  / mayā_mad_SI vinirgatena_vinirgam_SIPaM eva_eva_ tad_tad_Cp purāt_pura_SBNe toṣitaḥ_toṣay_SNPaM haraḥ_hara_SN"
+  },
+  {
+    "index": 21235,
+    "sanskrit": "parair apīḍītaḥ puṣpaphaladhānyasanvitaḥ /",
+    "english": "It should not be vulnerable for attack by others and should abound with flowers, fruits and grains.",
+    "morphology": "paraiḥ_para_PIM a_a_ pīḍītaḥ_pīḍīta_SNM puṣpa_puṣpa_Cp phala_phala_Cp dhānya_dhānya_Cp sanvitaḥ_sanvita_SNM"
+  },
+  {
+    "index": 21236,
+    "sanskrit": "guṇātītaṃ paraṃ brahma vyāpakaṃ vraja ucyate | sadānandaṃ paraṃ jyotirmuktānāṃ padamavyayam || 20 ||",
+    "english": "20. Supreme Brahman is beyond Guṇas. It is pervasive and is called Vraja. It is the greatest splendour and of the nature of perpetual bliss. It is the immutable region of the liberated ones.",
+    "morphology": "guṇa_guṇa_Cp atītam_atī_SNPaNe param_para_SNNe brahma_brahman_SNNe vyāpakam_vyāpaka_SNNe vrajaḥ_vraja_SNM ucyate_vac_SPr3InPv  / sadānandam_sadānanda_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe muktānām_muc_PGPaM padam_pada_SNNe avyayam_avyaya_"
+  },
+  {
+    "index": 21237,
+    "sanskrit": "yad asi bho-kārād buk-kāram āgataḥ.”",
+    "english": "so from saying ‘bho’ you (now) bark",
+    "morphology": "yat_yat_ asi_as_SPr2In bho_bho_ kārāt_kāra_SBM buk_buk_Cp kāram_kāra_SAM āgataḥ_āgam_SNPaM"
+  },
+  {
+    "index": 21238,
+    "sanskrit": "ucitāṃ vā mitrād bhūmiṃ dīyamānāṃ na pratigṛhṇīyāt //",
+    "english": "He should not accept the offer of a good country even from a friend",
+    "morphology": "ucitām_ucita_SAF vā_vā_ mitrāt_mitra_SBM bhūmim_bhūmi_SAF dīyamānām_dā_SAPaPrFPv na_na_ pratigṛhṇīyāt_pratigrah_SPr3O  /"
+  },
+  {
+    "index": 21239,
+    "sanskrit": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam / ubhau tau na vijānīto nāyaṃ hanti na hanyate //",
+    "english": "He who thinks the soul to be the slayer of or slain by any body, is equally ignorant of its nature, never kills nor is ever killed by any body.",
+    "morphology": "yaḥ_yad_SNM enam_enad_SAM vetti_vid_SPr3In hantāram_hantṛ_SAM yaḥ_yad_SNM ca_ca_ enam_enad_SAM manyate_man_SPr3In hatam_han_SAPaM  / ubhau_ubh_DuNM tau_tad_DuNM na_na_ vijānītaḥ_vijñā_DuPr3In na_na_ ayam_idam_SNM hanti_han_SPr3In na_na_ hanyat"
+  }
+]

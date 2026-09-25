@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15800,
+    "sanskrit": "ānāyayacca duhiturmandirāttaṃ vidūṣakam / dattānuyātraṃ manasā tasyāḥ snehānupātinā //",
+    "english": "And he had Vidūṣaka brought from his daughter’s apartment, escorted all the way by her soul, which followed him out of affection.",
+    "morphology": "ānāyayat_ānāyay_S3ImIn ca_ca_ duhituḥ_duhitṛ_SGF mandirāt_mandira_SBNe tam_tad_SAM vidūṣakam_vidūṣaka_SAM  / datta_dā_PaCp anuyātram_anuyātra_SAM manasā_manas_SINe tasyāḥ_tad_SGF sneha_sneha_Cp anupātinā_anupātin_SINe  /"
+  },
+  {
+    "index": 15801,
+    "sanskrit": "sarveṣu tīrtheṣu atha dhūta pāpā jagmuḥ tatas brahmasaraḥ su puṇyam devasya tīrthe jalam agni kalpā",
+    "english": "Having cleansed themselves of all sins by ablutions performed in all the sacred waters, they at last proceeded to the very sacred Brahmasara.",
+    "morphology": "sarveṣu_sarva_PLNe tīrtheṣu_tīrtha_PLNe atha_atha_U dhūta_dhū_PaPsCp pāpāḥ_pāpa_PNM jagmuḥ_gam_PPs3In tatas_tatas_U brahmasaraḥ_brahmasaras_SANe su_su_U puṇyam_puṇya_SANe devasya_deva_SGM tīrthe_tīrtha_SLNe jalam_jala_SANe agni_agni_"
+  },
+  {
+    "index": 15802,
+    "sanskrit": "evaṃvidhena bhagavānvicāreṇa mahātapāḥ / so'tiṣṭhanmuniśārdūlo bahūnvarṣagaṇāniha //",
+    "english": "In this manner that great devotee, went on with his cogitations for many years, in that solitary cell of Vindhya mountain.",
+    "morphology": "evaṃvidhena_evaṃvidha_SIM bhagavān_bhagavat_SNM vicāreṇa_vicāra_SIM mahā_mahat_Cp tapāḥ_tapas_SNM  / saḥ_tad_SNM atiṣṭhat_sthā_S3ImIn muni_muni_Cp śārdūlaḥ_śārdūla_SNM bahūn_bahu_PAM varṣa_varṣa_Cp gaṇān_gaṇa_PAM iha_i"
+  },
+  {
+    "index": 15803,
+    "sanskrit": "anyatra nenijato vastraupaghātaṃ ṣaṭpaṇaṃ ca daṇḍaṃ dadyuḥ //",
+    "english": "Washing elsewhere shall not only be punished with a fine of panas, but also be subject for the payment of a compensation equal to the damage",
+    "morphology": "anyatra_anyatra_ nenijataḥ_nenij_SGPaPrM vastra_vastra_Cp aupaghātam_aupaghāta_SAM ṣaṣ_ṣaṣ_Cp paṇam_paṇa_SAM ca_ca_ daṇḍam_daṇḍa_SAM dadyuḥ_dā_PPr3O  /"
+  },
+  {
+    "index": 15804,
+    "sanskrit": "atha vā gṛhītavedasya tadarthajijñāsā bhaikṣabhujo 'pi /",
+    "english": "Or, even one who has learnt the Veda may be seeking for the knowledge of what is contained in the Veda, though he may be living on alms.",
+    "morphology": "atha_atha_ vā_vā_ gṛhīta_grah_PaCp vedasya_veda_SGM tad_tad_Cp artha_artha_Cp jijñāsā_jijñāsā_SNF bhaikṣa_bhaikṣa_Cp bhujaḥ_bhuj_SGM api_api_"
+  },
+  {
+    "index": 15805,
+    "sanskrit": "vedaprabhavā uktayo yeṣāṃ te tathoktāḥ //",
+    "english": "They are persons whose assertions have their source in the Veda.",
+    "morphology": "veda_veda_Cp prabhavāḥ_prabhava_PNF uktayaḥ_ukti_PNF yeṣām_yad_PGM te_tad_PNM tathā_tathā_ uktāḥ_vac_PNPaM  /"
+  },
+  {
+    "index": 15806,
+    "sanskrit": "narān eva narāḥ jaghnuḥ udagrāḥ ca hayāḥ hayān rathān ca rathinaḥ jaghnuḥ vāraṇāḥ vara vāraṇān",
+    "english": "And men slew men, and steeds of fiery metal slew steeds, and car-warriors slew car-warriors and elephants slew elephants.",
+    "morphology": "narān_nara_PAM eva_eva_U narāḥ_nara_PNM jaghnuḥ_han_PPs3In udagrāḥ_udagra_PNM ca_ca_U hayāḥ_haya_PNM hayān_haya_PAM rathān_ratha_PAM ca_ca_U rathinaḥ_rathin_PAM jaghnuḥ_han_PPs3In vāraṇāḥ_vāraṇa_PNM vara_vara_Cp vāraṇān_vāra"
+  },
+  {
+    "index": 15807,
+    "sanskrit": "dviguṇāni dvāparam // triguṇāni tretā //",
+    "english": "Twice as many (or two thousand four hundred) are a Dvâpara (Yuga).S. Thrice as many (or three thousand six hundred) are a Tretâ (Yuga).",
+    "morphology": "dviguṇāni_dviguṇa_PNNe dvāparam_dvāpara_SNNe  // triguṇāni_triguṇa_PNNe tretā_tretā_SNF  /"
+  }
+]

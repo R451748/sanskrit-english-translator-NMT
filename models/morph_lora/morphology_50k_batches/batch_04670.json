@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37352,
+    "sanskrit": "arhanti ardham pṛthivyāḥ te bhoktum sāmarthya sādhanāḥ",
+    "english": "Possessed of sufficient might, the Pandavas deserve to enjoy half the earth.",
+    "morphology": "arhanti_arh_PPr3In ardham_ardha_SANe pṛthivyāḥ_pṛthivī_SGF"
+  },
+  {
+    "index": 37353,
+    "sanskrit": "janmendubhāskarādīnāmindropendravyavasthitim / hiraṇyākṣāpaharaṇaṃ varāhoddharaṇaṃ kṣiteḥ //",
+    "english": "It was then that the sun and moon had their birth, and the gods Indra and Upendra had their dominions. After this occurred the slaughter of Hiranya-Kasipu, and the restoration of the earth by the great Varaha or boar like incarnation of Vishnu.",
+    "morphology": "janma_janman_Cp indu_indu_Cp bhāskara_bhāskara_Cp ādīnām_ādi_PGM indra_indra_Cp upendra_upendra_Cp vyavasthitim_vyavasthiti_SAF  / hiraṇyākṣa_hiraṇyākṣa_Cp apaharaṇa_apaharaṇa_Cp varāha_varāha_Cp uddharaṇa_uddharaṇa_Cp kṣiteḥ_"
+  },
+  {
+    "index": 37354,
+    "sanskrit": "vayam sarve saha amātyāḥ kuntī putram yudhiṣṭhiram",
+    "english": "Such being the case, all of us, with our counsellors, shall propitiate Yudhishthira the son of Kunti.",
+    "morphology": "vayam_mad_PN"
+  },
+  {
+    "index": 37355,
+    "sanskrit": "pitrā tena tadā tanvī mātrā caiva vicāritā | bāle ehi gṛhe śīghraṃ mā śramaṃ kartumarhasi || 128 ||",
+    "english": "128. The slim lady was enquired[4] by her father and mother: “O girl, come back to our abode quickly. Do not exert yourself. It does not behove you to strain yourself.”",
+    "morphology": "pitrā_pitṛ_SIM tena_tad_SIM tadā_tadā_ tanvī_tanvī_SNF mātrā_mātṛ_SIF ca_ca_ eva_eva_ vicāritā_vicāray_SNPaF  / bāle_bālā_SVF ehi_e_SPr2Im gṛhe_gṛha_SLNe śīghram_śīghram_ mā_mā_ śramam_śrama_SAM kartum_kṛ_In arhasi_arh_SPr2I"
+  },
+  {
+    "index": 37356,
+    "sanskrit": "tato varṣasahasrāṃte daśame samupasthite | jitastena sahasrākṣaḥ sasainyaḥ saparigrahaḥ || 10 || tataḥ svargaṃ parityajya sarvadevagaṇaiḥ saha | jagāma śaraṇaṃ viṣṇoḥ śvetadvīpaṃ pratiśrayam || 11 ||",
+    "english": "10. When ten thousand years were completed the Thousandeyed One (Indra) was defeated by him along with his armies and followers. 11. He left heaven along with all the groups of Devas and sought refuge in Viṣṇu seeking shelter in Śvetadvīpa.",
+    "morphology": "tatas_tatas_ varṣa_varṣa_Cp sahasra_sahasra_Cp ante_anta_SLM daśame_daśama_SLM samupasthite_samupasthā_SLPaM  / jitaḥ_ji_SNPaM tena_tad_SIM sahasrākṣaḥ_sahasrākṣa_SNM sa_sa_ sainyaḥ_sainya_SNM sa_sa_ parigrahaḥ_parigraha_SNM  / tatas_t"
+  },
+  {
+    "index": 37357,
+    "sanskrit": "jambudvīpāvadhiḥ sā ca uttamā medinīritā /",
+    "english": "That earth upto the continent of Jambū is spoken as excellent.",
+    "morphology": "__jambudvīpa_U __avadhi_U __tad_U ca_ca_U __uttama_U __medinī_U __īray_PaU"
+  },
+  {
+    "index": 37358,
+    "sanskrit": "utsaìge krīòitaṃ bālaṃ lālayanty ekadā nṛpagiri bhāraṃ na sehe sā voòhuṃ śrī nanda gehinī",
+    "english": "O king, one day, as He played on her lap and she fondled Him, Nanda's wife could not longer hold her infant boy, for he had become as heavy as a mountain.",
+    "morphology": "utsañge_utsañga_SLM krīòitam_krīòita_SAM bālam_bāla_SAM lālayantī_lālay_SNPaPrF ekadā_ekadā_ nṛpa_nṛpa_Cp giri_giri_SVM bhāram_bhāra_SAM na_na_ sehe_sah_SPs3In sā_tad_SNF"
+  },
+  {
+    "index": 37359,
+    "sanskrit": "karkādiśābaleyādyādhārabhedād apohabheda iti cet na teṣām ādhāratvasya nirastatvāt /",
+    "english": "The exclusion of non-cow lacks a distinct character since the term 'non-cows' denotes everything excepting cow.",
+    "morphology": "karka_karka_Cp ādi_ādi_Cp śābaleya_śābaleya_Cp ādi_ādi_Cp ādhāra_ādhāra_Cp bhedāt_bheda_SBM apoha_apoha_Cp bhedaḥ_bheda_SNM iti_iti_ ced_ced_ na_na_ teṣām_tad_PGM ādhāra_ādhāra_Cp tvasya_tva_SGNe nirasta_niras_PaCp tvāt_tva_SBNe"
+  }
+]

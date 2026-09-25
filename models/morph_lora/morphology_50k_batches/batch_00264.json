@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2104,
+    "sanskrit": "akṣeṣu nityam su parāṅmukheṣu",
+    "english": "And although the dice constantly went against him, he would still have Sakuni alone for his opponent.",
+    "morphology": "akṣeḥ_akṣa_PLM"
+  },
+  {
+    "index": 2105,
+    "sanskrit": "vaiśākhe caiva saṃprāpte saptamyāśca dine śubhe | sitepakṣe sadā gaṃgā hyāyāti dvijasattama ||",
+    "english": "60. O excellent brahmin, in the month of Vaiśākha on the auspicious seventh day in the bright half, Gaṅgā comes here always.",
+    "morphology": "vaiśākhe_vaiśākha_SLM ca_ca_ eva_eva_ saṃprāpte_samprāp_SLPaNe saptamyāḥ_saptamī_SGF ca_ca_ dine_dina_SLNe śubhe_śubha_SLNe  / site_sita_SLM pakṣe_pakṣa_SLM sadā_sadā_ gaṃgā_gaṅgā_SNF hi_hi_ āyāti_āyā_SPr3In dvijasattama_dvija"
+  },
+  {
+    "index": 2106,
+    "sanskrit": "ya imaṃ śṛṇuyādbhaktyā bhṛgukacchasya vistaram | koṭitīrthaphalaṃ tasya bhavedvai nātra saṃśayaḥ || 65 ||",
+    "english": "There is no doubt about this that he who devoutly listens to the description of Bhṛgukaccha attains the benefit of a crore of Tīrthas. FOOTNOTES AND REFERENCES:",
+    "morphology": "yaḥ_yad_SNM imam_idam_SAM śṛṇuyāt_śru_SPr3O bhaktyā_bhakti_SIF bhṛgukacchasya_bhṛgukaccha_SGM vistaram_vistara_SAM  / koṭi_koṭi_Cp tīrtha_tīrtha_Cp phalam_phala_SNNe tasya_tad_SGM bhavet_bhū_SPr3O vai_vai_ na_na_ atra_atra_ saṃśaya"
+  },
+  {
+    "index": 2107,
+    "sanskrit": "yadṛcchayā''gatastatra śaṃkhacūḍaśca dānavaḥ | tapaścarantī tulasī yatra dharmadhvajātmajā ||",
+    "english": "11. The Dānava Śaṅkhacūḍa casually visited the place where the daughter of Dharmadhvaja, Tulasī was performing the penance.",
+    "morphology": "yadṛcchayā_yadṛcchā_SIF āgataḥ_āgam_SNPaM tatra_tatra_ śaṃkhacūḍaḥ_śaṃkhacūḍa_SNM ca_ca_ dānavaḥ_dānava_SNM  / tapaḥ_tapas_SANe carantī_car_SNPaPrF tulasī_tulasī_SNF yatra_yatra_ dharmadhvaja_dharmadhvaja_Cp ātmajā_ātmaj"
+  },
+  {
+    "index": 2108,
+    "sanskrit": "rātrau ahani dharma jña yena pāpaiḥ na lipyate",
+    "english": "He that does not bear or put up with those that are wicked, (or, He that puts up with the occasional transgressions of his devotees);",
+    "morphology": "rātrau_rātri_SLF ahani_ahar_SLNe dharma_dharma_MCp jña_jña_SVM"
+  },
+  {
+    "index": 2109,
+    "sanskrit": "viparītadeśajātigotranāmakarmaapadeśaṃ,",
+    "english": "who frequently change their residence, caste and the names, not only of themselves, but also of their family gotra;",
+    "morphology": "viparīta_viparīta_Cp deśa_deśa_Cp jāti_jāti_Cp gotra_gotra_Cp nāma_nāman_Cp karma_karman_Cp apadeśam_apadeśa_SAM"
+  },
+  {
+    "index": 2110,
+    "sanskrit": "saviśeṣaṇabhāvāc ca bhinna eveti gamyate //",
+    "english": "and as it has a particular characteristic, it is regarded as distinct (from other things).",
+    "morphology": "sa_sa_ viśeṣaṇa_viśeṣaṇa_Cp bhāvāt_bhāva_SBM ca_ca_ bhinnaḥ_bhid_SNPaM eva_eva_ iti_iti_ gamyate_gam_SPr3InPv  /"
+  },
+  {
+    "index": 2111,
+    "sanskrit": "sa samāsādya paulastyam amātyaiḥ abhisaṃvṛtam rāma saṃdeśam āmantrya vāgmī vaktum pracakrame āha tvām rāghavaḥ rājan kosala indraḥ mahā yaśāḥ",
+    "english": "And having approached the hero of Pulastya's race in the midst of his counsellors, the eloquent Angada saluted the king and began to deliver Rama's message in these words, 'That descendant of Raghu, O king, who ruleth at Kosala and whose renown hath spread over the whole world, sayeth unto thee these words suited to the occasion.",
+    "morphology": "sa_tad_SNM samāsādya_samāsāday_Co paulastyam_paulastya_SAM amātyaiḥ_amātya_PIM abhisaṃvṛtam_abhisaṃvṛ_SAPaPsM rāma_rāma_MCp saṃdeśam_saṃdeśa_SAM āmantrya_āmantray_Co vāgmī_vāgmin_SNM vaktum_vac_In pracakrame_prakram_SPs3In āha"
+  }
+]

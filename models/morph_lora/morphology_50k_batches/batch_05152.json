@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41208,
+    "sanskrit": "sa tatra bahumanyamānastadadhyuṣitairdevatāviśeṣairabhigamyamānaśca śreyobhilāṣiṇā guṇavatsalena janena kṣāntipratisaṃyuktābhiḥ śrutihṛdayahlādinībhirdharmyābhiḥ kathābhistasya janakāyasya paramanugrahaṃ cakāra /",
+    "english": "There he was venerated by the different deities who were living there, and often visited by such people as were lovers of virtues and desirous of their salvation. To that multitude of visitors he showed the high favour of entertaining them with his sermons on the subject of forbearance, rejoicing both their ears and hearts..",
+    "morphology": "sa_tad_SNM tatra_tatra_ bahu_bahu_Cp manyamānaḥ_man_SNPaPrM tad_tad_Cp adhyuṣitaiḥ_adhivas_PIPaM devatā_devatā_Cp viśeṣaiḥ_viśeṣa_PIM abhigamyamānaḥ_abhigam_SNPaPrMPv ca_ca_ śreyaḥ_śreyas_Cp abhilāṣiṇā_abhilāṣin_SIM guṇa_"
+  },
+  {
+    "index": 41209,
+    "sanskrit": "tailaṃ bhaved ghṛtākāraṃ kiñciccūrṇaṃ jalānvitaṃ /",
+    "english": "The oil of the paste with water would be like ghee.",
+    "morphology": "tailam_taila_SNNe bhavet_bhū_SPr3O ghṛta_ghṛta_Cp ākāram_ākāra_SNNe kiṃcid_kaścit_SANe cūrṇam_carv_SNPaNe jala_jala_Cp anvita_anvita_SNNe"
+  },
+  {
+    "index": 41210,
+    "sanskrit": "toraṇaṃ vāruṇaṃ kumbhaṃ nyasecca karakānvitaṃ //",
+    "english": "There should be an arch. A pitcher made of stone for Lord Varuṇa should be placed.",
+    "morphology": "toraṇaḥ_toraṇa_SNM vāruṇaḥ_vāruṇa_SNM kumbhaḥ_kumbha_SNM nyaset_nyas_SPr3O ca_ca_ karaka_karaka_Cp anvitaḥ_anvita_SNM  /"
+  },
+  {
+    "index": 41211,
+    "sanskrit": "sarvatra sukha saṃsparśā niṣpaṅkā nīrajā śubhā",
+    "english": "The climate there is such that the excellencies of every season are felt.",
+    "morphology": "sā_tad_SNF"
+  },
+  {
+    "index": 41212,
+    "sanskrit": "apasavyān tu tān cakre rathena madhusūdanaḥ",
+    "english": "The slayer of Madhu then, guiding his, car placed all of them to his right.",
+    "morphology": "apasavyān_apasavya_PAM"
+  },
+  {
+    "index": 41213,
+    "sanskrit": "yāvat sūrya udeti sma yāvā ca pratitiṣṭhatitāvad rājya pradam cātra śrī kṛṣṇa vaśa kārakam",
+    "english": "This worship brings one a kingdom that lasts for as long as the sun rises and shines in the sky. This worship makes Lord Kṛṣṇa into one's submissive servant.",
+    "morphology": "yāvat_yāvat_ sūryaḥ_sūrya_SNM udeti_udi_SPr3In sma_sma_ ca_ca_ pratitiṣṭhati_pratiṣṭhā_SPr3In tāvat_tāvat_ rājya_rājya_NeCp pradam_prada_SNNe ca_ca_ atra_atra_ śrī_śrī_Cp kṛṣṇa_kṛṣṇa_MCp vaśa_vaśa_MCp"
+  },
+  {
+    "index": 41214,
+    "sanskrit": "ekayā hi duḥkhe dharmajñānakṣāntyā daśānuśayātyantasamudghātaḥ kriyate /",
+    "english": "a good mind is of great force, for the Patience of the Knowledge of the dharmas concerned with Suffering definitively cuts off ten latent defilements.",
+    "morphology": "ekayā_eka_SIF hi_hi_ duḥkhe_duḥkha_SLNe dharma_dharma_Cp jñāna_jñāna_Cp kṣāntyā_kṣānti_SIF daśa_daśan_Cp anuśaya_anuśaya_Cp atyanta_atyanta_Cp samudghātaḥ_samudghāta_SNM"
+  },
+  {
+    "index": 41215,
+    "sanskrit": "sāpi tena vinirmuktā kṛtakṛtyā vilāsinī | prahṛṣṭā prayayau tatra yatra devāḥ savāsavāḥ || 51 ||",
+    "english": "51. On being dismissed by him the contented lady of graceful charms became glad. She joyously went to the place where Devas including Vāsava were present.[Sanskrit text for this chapter is available] Sūta said:",
+    "morphology": "sā_tad_SNF api_api_ tena_tad_SIM vinirmuktā_vinirmuc_SNPaF kṛtakṛtyā_kṛtakṛtya_SNF vilāsinī_vilāsinī_SNF  / prahṛṣṭā_prahṛṣ_SNPaF prayayau_prayā_SPs3In tatra_tatra_ yatra_yatra_ devāḥ_deva_PNM sa_sa_ vāsavāḥ_vāsava_PNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31728,
+    "sanskrit": "śukam prāveśayat mantrī pramadā vanam uttamam",
+    "english": "The minister led Suka from the second chamber to that delightful spot.",
+    "morphology": "śukam_śuka_SAM prāveśayat_praveśay_SPs3In mantrī_mantrin_SNM"
+  },
+  {
+    "index": 31729,
+    "sanskrit": "rāmanātheśvaraṃ devaṃ mahākāruṇikaṃ prabhum | bhaktyā bhajaṃti ye nityaṃ te bhūloke sukhānvitāḥ || 39 ||",
+    "english": "139. Those who devoutly worship Lord Rāmanātheśvara, the exceedingly merciful lord, become ever happy in this terrestrial world.",
+    "morphology": "rāma_rāma_Cp nātha_nātha_Cp īśvaram_īśvara_SAM devam_deva_SAM mahā_mahat_Cp kāruṇikam_kāruṇika_SAM prabhum_prabhu_SAM  / bhaktyā_bhakti_SIF bhajanti_bhaj_PPr3In ye_yad_PNM nityam_nityam_ te_tad_PNM bhū_bhū_Cp loke_loka_SLM sukha_sukha_Cp "
+  },
+  {
+    "index": 31730,
+    "sanskrit": "brāhmaṇe dāruṇam na asti maitraḥ brāhmaṇaḥ ucyate",
+    "english": "There is no severity in a Brahmana. The Brahmana is said to be the friend of all creatures.",
+    "morphology": "brāhmaṇe_brāhmaṇa_SLM dāruṇam_dāruṇa_SNNe na_na_U asti_as_SPr3In maitraḥ_maitra_SNM brāhmaṇaḥ_brāhmaṇa_SNM ucyate_vac_SPr3InPv"
+  },
+  {
+    "index": 31731,
+    "sanskrit": "vyāsa uvāca | śṛṇu sūta pravakṣyāmi kathāṃ kalaśajanmanaḥ | yāmākarṇya naro bhūyādvirajā jñānabhājanam || 1 ||",
+    "english": "The play on words (puns) in vv 8-21 is very interesting.[Sanskrit text for this chapter is available] Vyāsa said: 1. Listen, O Sūta, I shall recount the story of the Pitcher-born Sage (Agastya), on hearing which a man becomes free from Rajoguṇa and possessor of knowledge.",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / śṛṇu_śru_SPr2Im sūta_sūta_SVM pravakṣyāmi_pravac_SFu1In kathām_kathā_SAF kalaśajanmanaḥ_kalaśajanman_SGM  / yām_yad_SAF ākarṇya_ākarṇay_Co naraḥ_nara_SNM bhūyāt_bhū_SPs3 virajāḥ_vira"
+  },
+  {
+    "index": 31732,
+    "sanskrit": "bhūtam hitvā bhaviṣye arthe yaḥ avalambeta manda dhīḥ",
+    "english": "He who casteth off what he hath for the sake of what he may acquire, is a wicked person.",
+    "morphology": "bhūtam_bhūta_SANe hitvā_hā_Co bhaviṣye_bhaviṣya_SLM arthe_artha_SLM yaḥ_yad_SNM"
+  },
+  {
+    "index": 31733,
+    "sanskrit": "yaḥ tu vaktā dvayoḥ artham aviruddham prabhāṣate",
+    "english": "That speaker, however, who employs words that are, while expressing his own meaning, intelligible to the hearer, as well, truly deserves to be called a speaker.",
+    "morphology": "yaḥ_yad_SNM tu_tu_U vaktā_vaktṛ_SNM dvayoḥ_dvi_DuGM artham_artha_SAM aviruddham_aviruddha_SAM"
+  },
+  {
+    "index": 31734,
+    "sanskrit": "reme ca divyānyudyānavāpīdevakulāni saḥ / paśyaṃstayā samāruhya tadvidyābalato nabhaḥ //",
+    "english": "And he amused himself by looking in her company at beautiful temples of the gods in gardens and lakes, having ascended with her the heaven by the might of her science.",
+    "morphology": "reme_ram_SPs3In ca_ca_ divyāni_divya_PANe udyāna_udyāna_Cp vāpī_vāpī_Cp devakulāni_devakula_PANe saḥ_tad_SNM  / paśyan_paś_SNPaPrM tayā_tad_SIF samāruhya_samāruh_Co tad_tad_Cp vidyā_vidyā_Cp balataḥ_bala_SBNe nabhaḥ_nabhas_SANe  /"
+  },
+  {
+    "index": 31735,
+    "sanskrit": "krodhābhibhūte vipre tu taḍitkoṭisabhaprabham | sūryenduvahnisaṃyogādguṇatrayasamanvitam || 29 ||",
+    "english": "29. If a Brāhmaṇa is overwhelmed with anger it (the sacred thread) has the lustre of ten million lightning streaks. With the association of the Sun, the Moon and Fire it has thrice the splendour.",
+    "morphology": "krodha_krodha_Cp abhibhūte_abhibhū_SLPaM vipre_vipra_SLM tu_tu_ taḍit_taḍit_SNF koṭi_koṭi_Cp sabhā_sabhā_Cp prabham_prabhā_SNNe  / sūrya_sūrya_Cp indu_indu_Cp vahni_vahni_Cp saṃyogāt_saṃyoga_SBM guṇatraya_guṇatraya_Cp samanvitam_sam"
+  }
+]

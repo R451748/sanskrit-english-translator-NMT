@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14616,
+    "sanskrit": "dūraāyātam, pariśrāntam,",
+    "english": "that which has made a long journey; that which is tired;",
+    "morphology": "dūra_dūra_Cp"
+  },
+  {
+    "index": 14617,
+    "sanskrit": "gṛhītastena sugrīvaḥ karṇanāsaṃ cakarta saḥ //",
+    "english": "Being seized by him, Sugrīva cut off his ears and nose.",
+    "morphology": "gṛhītaḥ_grah_SNPaM tena_tad_SIM sugrīvaḥ_sugrīva_SNM karṇa_karṇa_Cp nāsaḥ_nāsā_SNM"
+  },
+  {
+    "index": 14618,
+    "sanskrit": "abhyāśa stham mahā rāja pāṇḍavam vākyam abravīt yudhiṣṭhira mahā prājña sarva śāstra viśārada śṛṇu me vacanam tāta dharmyam svargyam ca jalpataḥ",
+    "english": "And seeing Yudhishthira near him, O king, he addressed him, saying, 'O Yudhishthira, O thou of great wisdom, O thou that art acquainted with every branch of learning, listen to these righteous and heaven-leading words, O sire, that I say.",
+    "morphology": "abhyāśa_abhyāśa_MCp stham_stha_SAM mahā_mahat_Cp rāja_rājan_MCp pāṇḍavam_pāṇḍava_SAM vākyam_vākya_SANe abravīt_brū_SPs3In yudhiṣṭhira_yudhiṣṭhira_SVM mahā_mahat_Cp prājña_prājña_SVM sarva_sarva_Cp śāstra_śāstra_NeCp vi"
+  },
+  {
+    "index": 14619,
+    "sanskrit": "yo cetāṃ sahate jaṃmiṃ tahnāṃ loke duraccayāṃ |",
+    "english": "Whoever overcomes this low craving in the world, which is difficult to get past,",
+    "morphology": "yaḥ_yad_SNM"
+  },
+  {
+    "index": 14620,
+    "sanskrit": "prajñāpāramitāyām ukto mantraḥ tad-yathā:",
+    "english": "In the Perfection of Wisdom the mantra has been uttered in this way:",
+    "morphology": "__prajñāpāramitā_U"
+  },
+  {
+    "index": 14621,
+    "sanskrit": "saṁvatsaram śaśayānāḥ brāhmaṇāḥ vrata cāriṇaḥ vācam parjanya jinvitām pra maṇḍūkāḥ avādiṣuḥ",
+    "english": "THEY who lay quiet for a year, the Brahmans who fulfil their vows, The Frogs have lifted up their voice, the voice Parjanya hath inspired.",
+    "morphology": "saṁvatsaram_saṃvatsara_SAM śaśayānāḥ_śī_PNPaPsM brāhmaṇāḥ_brāhmaṇa_PNM vrata_vrata_NeCp cāriṇaḥ_cārin_PNM vācam_vāc_SAF parjanya_parjanya_MCp jinvitām_jinv_SAPaPsF pra_pra_U maṇḍūkāḥ_maṇḍūka_PNM avādiṣuḥ_vad_"
+  },
+  {
+    "index": 14622,
+    "sanskrit": "śrībhagavānuvāca | mārgaśuklacaturdaśyāṃ tīrthe snātvā'tra tāvake | vilokayiṣyati prītyā mama liṃgaṃ tataḥ param || 37 || bhūtapretapiśācādi saṃbhavāstasya tatkṣaṇāt | doṣā nāśaṃ prayāsyaṃti tathā rogā jvarādayaḥ || 38 ||",
+    "english": "37-38. If a person takes his holy bath in your Tīrtha on the fourteenth lunar day in the bright half of the month of Mārgaśīrṣa and lovingly visits my Liṅga thereafter, all troubles arising from ghosts, spirits, vampires etc. and all ailments like fever will finish.",
+    "morphology": "śrī_śrī_Cp bhagavān_bhagavant_SNM uvāca_vac_SPs3In  / mārga_mārga_Cp śukla_śukla_Cp caturdaśyām_caturdaśī_SLF tīrthe_tīrtha_SLNe snātvā_snā_Co atra_atra_ tāvake_tāvaka_SLNe  / vilokayiṣyati_vilokay_SFu3In prītyā_prīti_SIF mama_mad"
+  },
+  {
+    "index": 14623,
+    "sanskrit": "sātyakim te samāsādya pṛtanāsu anivartinam bahavaḥ laghu hastāḥ ca śara varṣaiḥ avākiran ***** **** yavanāḥ su mahā balāḥ",
+    "english": "Thereupon, the Yavanas, many in number and endued with lightness of hands, approaching unretreating Satyaki, covered him with showers of arrows.",
+    "morphology": "sātyakim_sātyaki_SAM te_tad_PNM samāsādya_samāsāday_Co pṛtanāsu_pṛtanā_PLF anivartinam_anivartin_SAM bahavaḥ_bahu_PNM laghu_laghu_Cp hastāḥ_hasta_PNM ca_ca_U śara_śara_MCp varṣaiḥ_varṣa_PIM avākiran_avakṛ_PPs3In  /"
+  }
+]

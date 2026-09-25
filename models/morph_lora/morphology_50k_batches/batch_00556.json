@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4440,
+    "sanskrit": "ayaṃ tu rāja rājendraḥ pṛthuḥ pṛthula vikramaḥ kathaṃ varo bhaven no vai tad vada tvaṃ mahā mune",
+    "english": "O great sage, please tell us how powerful Pṛthu, the king of the kings of kings, may become our husband.",
+    "morphology": "ayam_idam_SNM tu_tu_ rāja_rājan_SVM rāja_rājan_Cp indraḥ_indra_SNM pṛthuḥ_pṛthu_SNM pṛthula_pṛthula_SVM vikramaḥ_vikrama_SNM katham_katham_ varaḥ_vara_SNM bhavet_bhū_SPr3O naḥ_mad_PA vai_vai_ tat_tad_SANe vada_vad_SPr2Im tvam_tvad_SN"
+  },
+  {
+    "index": 4441,
+    "sanskrit": "caitryām hi paurṇamāsyām ca tava dīkṣā bhaviṣyati",
+    "english": "The rite of initiating thee will be performed on the day of full moon belonging to the month of Chaitra.",
+    "morphology": "caitryām_caitrī_SLF hi_hi_U paurṇamāsyām_paurṇamāsī_SLF ca_ca_U tava_tvad_SG"
+  },
+  {
+    "index": 4442,
+    "sanskrit": "ādadānasya ced rājyam ye ke cit paripanthinaḥ hantavyāḥ te iti prājñāḥ kṣatra dharma vidaḥ viduḥ",
+    "english": "Wise men acquainted with Kshatriya duties have declared that they who stand in the way of the person taking the sovereignty of the earth, should be slain.",
+    "morphology": "ādadānasya_ādā_SGPaPrM ced_ced_U rājyam_rājya_SANe ye_yad_PNM ke_ka_PNM cit_cit_U paripanthinaḥ_paripanthin_PNM hantavyāḥ_han_PNMGd te_tad_PNM iti_iti_U prājñāḥ_prājña_PNM kṣatra_kṣatra_NeCp dharma_dharma_MCp vidaḥ_vid_PNM viduḥ_v"
+  },
+  {
+    "index": 4443,
+    "sanskrit": "śraddadhānena kartavyam gurūṇām vacanam sadā",
+    "english": "One should, endued with faith, always do the bidding of one's preceptor and other seniors.",
+    "morphology": "śraddadhānena_śraddhā_SIPaPrM"
+  },
+  {
+    "index": 4444,
+    "sanskrit": "pūrva-videho,",
+    "english": "Pūrva-videha (in the east),",
+    "morphology": "pūḥ_pūḥ_U"
+  },
+  {
+    "index": 4445,
+    "sanskrit": "ut oṁ iti syaḥ devaḥ savitā yayāma hiraṇyayīm amatim yām aśiśret nūnam bhagaḥ havyaḥ mānuṣebhiḥ vi yaḥ ratnā puru vasuḥ dadhāti",
+    "english": "ON high hath Savitar, this God, extended the golden lustre which he spreads around him. Now, now must Bhaga be invoked by mortals, Lord of great riches who distributes treasures.",
+    "morphology": "ud_ud_U oṁ_oṃ_U iti_iti_U syaḥ_sya_SNM devaḥ_deva_SNM savitā_savitṛ_SNM yayāma_yam_SPs3In hiraṇyayīm_hiraṇyaya_SAF amatim_amati_SAF yām_yad_SAF aśiśret_śri_SPs3In nūnam_nūnam_U bhagaḥ_bhaga_SNM havyaḥ_hvā_SNMGd mānuṣebhiḥ_m"
+  },
+  {
+    "index": 4446,
+    "sanskrit": "virajaskā babhur mārgā nākamārgādayas trayaḥ //",
+    "english": "Etherial and celestial roads appeared beautiful –.",
+    "morphology": "virajaskāḥ_virajaska_PNM babhuḥ_bhā_PPs3In mārgāḥ_mārga_PNM nāka_nāka_Cp mārga_mārga_Cp ādayaḥ_ādi_PNM trayaḥ_tri_PNM  /"
+  },
+  {
+    "index": 4447,
+    "sanskrit": "tasmāc chūdrasya dvirātratrirātrādīty eva kalpayet /",
+    "english": "For these reasons, for the Śūdra cutting fruitbearing trees, etc, the expiation shall be fasting for two or three days.",
+    "morphology": "tasmāt_tasmāt_ śūdrasya_śūdra_SGM dvi_dvi_Cp rātra_rātra_Cp tri_tri_Cp rātra_rātra_Cp ādi_ādi_SNNe iti_iti_"
+  }
+]

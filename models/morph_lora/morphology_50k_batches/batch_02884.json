@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23064,
+    "sanskrit": "satīviyogabhaṃgassyādyathā me tvaṃ tathā kuru | samāśvāsaya taṃ dakṣaṃ sarvavidyāviśāradaḥ ||",
+    "english": "36. Exploit all means to cut short her days of separation. O adept in every lore, console Dakṣa.",
+    "morphology": "satī_satī_Cp viyoga_viyoga_Cp bhaṃgaḥ_bhaṅga_SNM syāt_as_SPr3O yathā_yathā_ me_mad_SG tvam_tvad_SN tathā_tathā_ kuru_kṛ_SPr2Im  / samāśvāsaya_samāśvāsay_SPr2Im tam_tad_SAM dakṣam_dakṣa_SAM sarva_sarva_Cp vidyā_vidyā_Cp viśārada"
+  },
+  {
+    "index": 23065,
+    "sanskrit": "priya-vacanam-",
+    "english": "kindly speech,",
+    "morphology": "priya_priya_Cp"
+  },
+  {
+    "index": 23066,
+    "sanskrit": "phala māṃsa ikṣu vikṛti tila māṣa upasaṃskṛtāḥ ||",
+    "english": "Confectionary made of fruit, meat, modifications of sugar-cane juice (treacle, sugar, etc.), sesamum and Masha pulse is tonic, heavy of digestion, tissuebuilding and palatable.",
+    "morphology": "phala_phala_NeCp māṃsa_māṃsa_NeCp ikṣu_ikṣu_MCp vikṛti_vikṛti_FCp tila_tila_MCp māṣa_māṣa_MCp upasaṃskṛtāḥ_upasaṃskṛ_PNPaPsM"
+  },
+  {
+    "index": 23067,
+    "sanskrit": "avadhīraṇāyāṃ nigired iti prayujyate / tatsamānārthaś ca grasatiḥ / tathā ca vaktāro bhavanti yāvat kiṃcid asyocyate tat sarvaṃ nigirati na kiṃcid ayaṃ prativakti /",
+    "english": "The verb \"nigiret,\" \"swallow,\" is often used in the sense of ignoring; and the root \"gram\" used in the text is synonymous with \"nigira\" People make use of such expressions as \"everything that is said today he swallows up, and he does not answer it\".",
+    "morphology": "avadhīraṇāyām_avadhīraṇā_SLF nigiret_nigṛ_SPr3O iti_iti_ prayujyate_prayuj_SPr3InPv  / tad_tad_Cp samāna_samāna_Cp arthaḥ_artha_SNM ca_ca_ grasatiḥ_grasati_SNF  / tathā_tathā_ ca_ca_ vaktāraḥ_vaktṛ_PNM bhavanti_bhū_PPr3In yāvat_y"
+  },
+  {
+    "index": 23068,
+    "sanskrit": "pitiṝn śrāddhena / atra yathāśruta eva niyogaḥ / sa ca śrāddhavidhau nirṇeṣyate /",
+    "english": "\"The Pitṛs by Śrāddha offerings\" here the Injunction is to be taken in its direct sense; and this shall be explained under the section on \"Śrāddha\".",
+    "morphology": "pitiṝn_pitiṝn_PAM śrāddhena_śrāddha_SINe  / atra_atra_ yathāśrutaḥ_yathāśruta_SNM eva_eva_ niyogaḥ_niyoga_SNM  / sa_tad_SNM ca_ca_ śrāddha_śrāddha_Cp vidhau_vidhi_SLM nirṇeṣyate_nirṇī_SFu3In"
+  },
+  {
+    "index": 23069,
+    "sanskrit": "evam sthitasya śāstrasya durvijñeyam balābalam yadi atra kim cit pratyakṣam ahiṃsāyāḥ param matam",
+    "english": "When the scriptures stand thus, the strength or weakness of particular declarations must be very difficult to ascertain.",
+    "morphology": "evam_evam_U sthitasya_sthā_SGPaPsNe śāstrasya_śāstra_SGNe durvijñeyam_durvijñeya_SNNe balābalam_balābala_SNNe yadi_yadi_U atra_atra_U kim_ka_SNNe cit_cit_U pratyakṣam_pratyakṣa_SNNe ahiṃsāyāḥ_ahiṃsā_SGF param_para_SNNe"
+  },
+  {
+    "index": 23070,
+    "sanskrit": "ity uktvātha gate kṛṣṇe paripūrṇatame harauprāptānandā manda hasā gopyaḥ sarvā gṛhān yayuḥ",
+    "english": "After speaking these words, Lord Kṛṣṇa, the perfect Supreme Personality of Godhead, left. Then all the gopīs, gently smiling and their hearts filled with bliss, went to their homes.",
+    "morphology": "iti_iti_ uktvā_vac_Co atha_atha_ gate_gam_SLPaM kṛṣṇe_kṛṣṇa_SLM paripūrṇatame_paripūrṇatama_SLM harau_hari_SLM prāpta_prāp_PaCp ānandāḥ_ānanda_PNF manda_manda_SVM hasā_has_SINe gopyaḥ_gopī_PNF"
+  },
+  {
+    "index": 23071,
+    "sanskrit": "āpośanaṃ samarpyātha prārthayettānidamprati | sadāśivādayaḥ prītā varadāśca bhavantu me ||",
+    "english": "15. He shall stand up and offer giving water for drinking he shall request them thus, “May Sadāśiva and others be delighted with me and bestow boons on me”.",
+    "morphology": "samarpya_samarpay_Co atha_atha_ prārthayet_prārthay_SPr3O tān_tad_PAM idam_idam_SANe prati_prati_  / sadāśiva_sadāśiva_Cp ādayaḥ_ādi_PNM prītāḥ_prī_PNPaM vara_vara_Cp dāḥ_da_PNM ca_ca_ bhavantu_bhū_PPr3Im me_mad_SG"
+  }
+]

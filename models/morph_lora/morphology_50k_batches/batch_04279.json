@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34224,
+    "sanskrit": "rāṣṭrād enaṃ viṣayād brāhmaṇaṃ bahiḥ kuryān nirvāsayet / samagradhanaṃ sarvasvasahitam, akṣatam akṣataśarīram /",
+    "english": "The king shall \"banish him\" send him away \"from the kingdom\" out of his realm; \"with all his property\" along with all his belongings; \"unhurt\" in body.",
+    "morphology": "rāṣṭrāt_rāṣṭra_SBNe enam_enad_SAM viṣayāt_viṣaya_SBM brāhmaṇam_brāhmaṇa_SAM bahis_bahis_ kuryāt_kṛ_SPr3O nirvāsayet_nirvāsay_SPr3O  / samagra_samagra_Cp dhanam_dhana_SAM sarvasva_sarvasva_Cp sahitam_sahita_SAM akṣatam_akṣata_"
+  },
+  {
+    "index": 34225,
+    "sanskrit": "anekadhāvṛttavarṇavinyāsaiḥ śilpakalpanā // tattatprasiddhavastūnāṃ bandha ity abhidhīyate /",
+    "english": "The skillful composition of different kinds of the forms of various wellknown objects by means of arrangement of letters repeated in many ways is said to be bandha structure.",
+    "morphology": "anekadhā_anekadhā_ vṛtta_vṛt_PaCp varṇa_varṇa_Cp vinyāsaiḥ_vinyāsa_PIM śilpa_śilpa_Cp kalpanā_kalpanā_SNF  // tad_tad_Cp tad_tad_Cp prasiddha_prasidh_PaCp vastūnām_vastu_PGNe bandhaḥ_bandha_SNM iti_iti_ abhidhīyate_abhidhā_SPr3InPv "
+  },
+  {
+    "index": 34226,
+    "sanskrit": "dīrgha āyuṣaḥ samṛddhāḥ ca vidharmāṇaḥ yuga kṣaye",
+    "english": "while they that are sinful become long-lived and win prosperity.",
+    "morphology": "dīrgha_dīrgha_Cp āyuṣaḥ_āyus_PNM samṛddhāḥ_samṛdh_PNPaPsM ca_ca_U vidharmāṇaḥ_vidharman_PNM yuga_yuga_NeCp kṣaye_kṣaya_SLM"
+  },
+  {
+    "index": 34227,
+    "sanskrit": "kathaṃ kṣaṇikaḥ /",
+    "english": "How is pratīyasamupāda momentary?",
+    "morphology": "katham_katham_"
+  },
+  {
+    "index": 34228,
+    "sanskrit": "vāsudeva sahāyāḥ ca mahā indra sama vikramāḥ",
+    "english": "They have Vasudeva for their ally and are equal to Mahendra himself in prowess.",
+    "morphology": "vāsudeva_vāsudeva_MCp sahāyāḥ_sahāya_PNM ca_ca_U mahā_mahat_Cp indra_indra_MCp sama_sama_Cp vikramāḥ_vikrama_PNM"
+  },
+  {
+    "index": 34229,
+    "sanskrit": "sarvaṃ vai viśve devāḥ sarvameṣa grahastasmādviśvebhyo devebhyo gṛhṇāti //",
+    "english": ": He draws it for the All-gods; for the All-gods are all, and this graha is all: therefore he draws it for the All-gods.",
+    "morphology": "sarvam_sarva_SNNe vai_vai_ viśve_viśva_PNM devāḥ_deva_PNM sarvam_sarva_SNNe eṣa_etad_SNM grahaḥ_graha_SNM tasmāt_tasmāt_ viśvebhyaḥ_viśva_PDM devebhyaḥ_deva_PDM gṛhṇāti_grah_SPr3In  /"
+  },
+  {
+    "index": 34230,
+    "sanskrit": "paraiḥ śeṣaiḥ satyākāraiḥ saṃprayuktaḥ samādhipraṇihito daśākāraḥ /",
+    "english": "The absorption of the absence of intention is the absorption that grasps the other ten aspects.",
+    "morphology": "paraiḥ_para_PIM śeṣaiḥ_śeṣa_PIM satya_satya_Cp ākāraiḥ_ākāra_PIM saṃprayuktaḥ_saṃprayuj_SNPaM samādhi_samādhi_Cp praṇihitaḥ_praṇidhā_SNPaM daśa_daśan_Cp ākāraḥ_ākāra_SNM  /"
+  },
+  {
+    "index": 34231,
+    "sanskrit": "darśayanto muneḥ śaktiṃ tamapṛcchan dvijottamam | śrotumicchāma te brahman kiṃ pāpaṃ kṛtavānasi || 21 ||",
+    "english": "After noticing the power of the sage they asked the excellent Brāhmaṇa: “O Brāhmaṇa, we wish to hear. What sin was committed by you?”",
+    "morphology": "darśayantaḥ_darśay_PNPaPrM muneḥ_muni_SGM śaktim_śakti_SAF tam_tad_SAM apṛcchan_pracch_P3ImIn dvijottamam_dvijottama_SAM  / śrotum_śru_In icchāma_iṣ_PPr1Im te_tvad_SD brahman_brahman_SVM kim_ka_SANe pāpam_pāpa_SANe kṛtavān_kṛ_SNPaM as"
+  }
+]

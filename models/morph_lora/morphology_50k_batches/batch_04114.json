@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32904,
+    "sanskrit": "na, ārādupakārakatvātkarmaṇāṃ yajñā-dīnām |",
+    "english": "No we reply, for, rites like sacri fice are remote auxiliaries.",
+    "morphology": "na_na_U ārāt_ārāt_U __upakāraka_U __tva_U __karman_U"
+  },
+  {
+    "index": 32905,
+    "sanskrit": "paradārakṛtaṃ yacca mātrāpi ca samaṃ kṛtam | kṣālayiṣyati tatpāpaṃ snāpitaṃ pūjitaṃ paraiḥ || 14 ||",
+    "english": "The Liṅga that has been caused to be washed or adored by others, washes off that sin arising from habitation with other people’s wives or even with one’ own mother.",
+    "morphology": "para_para_Cp dāra_dāra_Cp kṛtam_kṛ_SNPaNe yat_yad_SNNe ca_ca_ mātrā_mātṛ_SIF api_api_ ca_ca_ samam_sama_SNNe kṛtam_kṛ_SNPaNe  / kṣālayiṣyati_kṣālay_SFu3In tat_tad_SANe pāpam_pāpa_SANe snāpitam_snāpay_SAPaNe pūjitam_pūjay_SAPaNe"
+  },
+  {
+    "index": 32906,
+    "sanskrit": "atha pratiprasthātā pratiparaiti /",
+    "english": "Thereupon the Pratiprasthâtri returns (to where the sacrificer's wife is seated).",
+    "morphology": "atha_atha_ pratiprasthātā_pratiprasthātṛ_SNM pratiparaiti_pratiparā_SPr3In"
+  },
+  {
+    "index": 32907,
+    "sanskrit": "abbhakṣaṇam tvayā rājan ayuktam kṛtam adya vai",
+    "english": "By drinking this water, O king, thou hast done what was not at all right.",
+    "morphology": "abbhakṣaṇam_abbhakṣaṇa_SNNe tvayā_tvad_SI rājan_rājan_SVM"
+  },
+  {
+    "index": 32908,
+    "sanskrit": "layaṃ gatā tatra liṅge tena puṇyatamā hi sā | narmadāyāṃ vasannityaṃ narmadāmbu pibansadā | dīkṣitaḥ sarvayajñeṣu somapānaṃ dine dine || 16 ||",
+    "english": "One who stays near Narmadā always and drinks her waters, is on a par with one initiated in all the Yajñas and drinks Soma juice everyday.",
+    "morphology": "layam_laya_SAM gatā_gam_SNPaF tatra_tatra_ liṅge_liṅga_SLNe tena_tena_ puṇyatamā_puṇyatama_SNF hi_hi_ sā_tad_SNF  / narmadāyām_narmadā_SLF vasan_vas_SNPaPrM nityam_nityam_ narmadā_narmadā_Cp ambu_ambu_SANe piban_pā_SNPaPrM sadā_sadā_  / "
+  },
+  {
+    "index": 32909,
+    "sanskrit": "vigṛhya ca su durbuddhī pṛthivyām saṃnipetatuḥ",
+    "english": "And when the foolish pair quarrelled, they both fell on the earth.",
+    "morphology": "vigṛhya_vigrah_Co"
+  },
+  {
+    "index": 32910,
+    "sanskrit": "vatsalā priya putrā ca priyā asmākam janārdana",
+    "english": "who is always engaged in waiting upon her superiors who is fond of her sons, bearing for them an affection that knows no bounds; who, O Janardana, is dearly loved by us;",
+    "morphology": "vatsalā_vatsala_SNF priya_priya_Cp putrā_putra_SNF ca_ca_U priyā_priya_SNF asmākam_mad_PG"
+  },
+  {
+    "index": 32911,
+    "sanskrit": "svecchayātmātmano brahmanbhāvayitvā svakaṃ vapuḥ / saṃsārānmokṣamāpnoti svālānādiva vāraṇaḥ //",
+    "english": "But when the mind inclines to think of its spiritual nature by its own free will; it gets its release from the prison-house of the body and bondage in the world; as a bird or beast is released from its cage, and the big elephant let loose from his fetters and the tying post.",
+    "morphology": "sva_sva_Cp icchayā_icchā_SIF ātmā_ātman_SNM ātmanaḥ_ātman_SGM brahman_brahman_SVM bhāvayitvā_bhāvay_Co svakam_svaka_SANe vapuḥ_vapus_SANe  / saṃsārāt_saṃsāra_SBM mokṣam_mokṣa_SAM āpnoti_āp_SPr3In sva_sva_Cp ālānāt_ālāna_SBNe"
+  }
+]

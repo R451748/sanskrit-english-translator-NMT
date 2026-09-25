@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2304,
+    "sanskrit": "ajātenāsatārthena khena vyavaharanti ye / mūḍhā mṛtamajātaṃ vā tanayaṃ pālayanti te //",
+    "english": "They who deal in this uncreated world, with all the unreal shadows of its persons and things; are as ignorant as madmen, who take a hobby to nourish their unborn or dead offspring.",
+    "morphology": "ajātena_ajāta_SIM asatā_asat_SIM arthena_artha_SIM khena_kha_SINe vyavaharanti_vyavahṛ_PPr3In ye_yad_PNM  / mūḍhāḥ_muh_PNPaM mṛtam_mṛ_SAPaM ajātam_ajāta_SAM vā_vā_ tanayam_tanaya_SAM pālayanti_pālay_PPr3In te_tad_PNM  /"
+  },
+  {
+    "index": 2305,
+    "sanskrit": "rājan na atra kāryā vicāraṇā",
+    "english": "It does not surely mean 'kinsmen of Kshatriyas'.",
+    "morphology": "rājan_rājan_SVM"
+  },
+  {
+    "index": 2306,
+    "sanskrit": "dvādaśa prajātā,",
+    "english": "but if she has given birth to children, she should wait for twelve years",
+    "morphology": "dvādaśa_dvādaśan_SNNe"
+  },
+  {
+    "index": 2307,
+    "sanskrit": "dvayaṃ tīvratare brahmalokamokṣavibhedataḥ / talloke tattvaviddhaṃso loke'smin parahaṃsakaḥ //",
+    "english": "The other two varieties of sannyāsa namely, harmsa and paramahamsa, are possible in stronger aversion to worldly life and its goods. The difference between them is that the former leads to brahmaloka and the latter to moksa, i.e. to complete liberation.",
+    "morphology": "dvayam_dvaya_SNNe tīvratare_tīvratara_SLM brahma_brahman_Cp loka_loka_Cp mokṣa_mokṣa_Cp vibhedataḥ_vibheda_SBM  / tad_tad_Cp loke_loka_SLM tattva_tattva_Cp vid_vid_SNM haṃsaḥ_haṃsa_SNM loke_loka_SLM asmin_idam_SLM para_para_Cp haṃsakaḥ_ha"
+  },
+  {
+    "index": 2308,
+    "sanskrit": "vṛṣaṇau stha ity āha vṛṣaṇau | hy etau |",
+    "english": "'Ye are the two male ones', he says, for they are the two male ones [2].",
+    "morphology": "vṛṣaṇau_vṛṣan_DuNM sthaḥ_as_DuPr2In iti_iti_ āha_ah_SPs3In vṛṣaṇau_vṛṣan_DuNM  / hi_hi_ etau_etad_DuNM"
+  },
+  {
+    "index": 2309,
+    "sanskrit": "deśasya jātyāḥ saṃghasya dharmo grāmasya vāapi yaḥ /",
+    "english": "Partition of inheritance shall be made in accordance with the customs prevalent in the country, caste, guild sangha, or the village of the inheritors",
+    "morphology": "deśasya_deśa_SGM jātyāḥ_jāti_SGF saṃghasya_saṃgha_SGM dharmaḥ_dharma_SNM grāmasya_grāma_SGM vā_vā_ api_api_ yaḥ_yad_SNM  /"
+  },
+  {
+    "index": 2310,
+    "sanskrit": "akṣaraṃ ca kṣaraṃ caiva kṣarākṣaraparaṃ tathā | tadetattritayaṃ bhūmnā kathyate tattvavedibhiḥ ||",
+    "english": "13. On many occasions knowers of reality call the three by Akṣara, Kṣara and Kṣarākṣarapara.",
+    "morphology": "akṣaram_akṣara_SNNe ca_ca_ kṣaram_kṣara_SNNe ca_ca_ eva_eva_ kṣara_kṣara_Cp akṣara_akṣara_Cp param_para_SNNe tathā_tathā_  / tat_tad_SNNe etat_etad_SNNe tritayam_tritaya_SNNe bhūmnā_bhūman_SIM kathyate_kathay_SPr3InPv tattva_tattva_Cp "
+  },
+  {
+    "index": 2311,
+    "sanskrit": "gajāḥ svalaṃkṛtā hyāsankṛtrimā hyakṛtopamāḥ | tathāśvāḥ sādibhiścaiva gajāśca gajasādibhiḥ || 12 ||",
+    "english": "12. There were well-caparisoned artificial elephants and horses along with elephant-riders and horsemen. They appeared like real ones.",
+    "morphology": "gajāḥ_gaja_PNM su_su_ alaṃkṛtāḥ_alaṃkṛ_PNPaM hi_hi_ āsan_as_P3ImIn kṛtrimāḥ_kṛtrima_PNM hi_hi_ akṛta_akṛta_Cp upamāḥ_upama_PNM  / tathā_tathā_ aśvāḥ_aśva_PNM sādibhiḥ_sādin_PIM ca_ca_ eva_eva_ gajāḥ_gaja_PNM ca_ca"
+  }
+]

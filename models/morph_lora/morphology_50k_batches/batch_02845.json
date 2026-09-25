@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22752,
+    "sanskrit": "kanīyāṃsaḥ vivardhante jyeṣṭhāḥ hīyanti bhārata",
+    "english": "The younger ones are growing while the elder ones are decaying.",
+    "morphology": "kanīyāṃsaḥ_kanīyas_PNM vivardhante_vivṛdh_PPr3In jyeṣṭhāḥ_jyeṣṭha_PNM"
+  },
+  {
+    "index": 22753,
+    "sanskrit": "brahmacārī /",
+    "english": "\"The, Student\".",
+    "morphology": "brahmacārī_SNM"
+  },
+  {
+    "index": 22754,
+    "sanskrit": "adattānām upādānaṃ hiṃsā caivāvidhānataḥ / paradāropasevā ca śārīraṃ trividhaṃ smṛtam //",
+    "english": "\"Idle prattling\" and \"telling an untruth\". Taking what has not been given, unsanctioned killing, and intercourse with the wives of othersthese have been declared to be three kinds of \"bodily action\".",
+    "morphology": "adattānām_adatta_PGNe upādānam_upādāna_SNNe hiṃsā_hiṃsā_SNF ca_ca_ eva_eva_ avidhānataḥ_avidhāna_SBNe  / paradāra_paradāra_Cp upasevā_upasevā_SNF ca_ca_ śārīram_śārīra_SNNe trividham_trividha_SNNe smṛtam_smṛ_SNPaNe  /"
+  },
+  {
+    "index": 22755,
+    "sanskrit": "imām kāka upamām karṇa procyamānām nibodha me",
+    "english": "Listen, O Karna, to this simile of a crow that I am about to narrate.",
+    "morphology": "imām_idam_SAF"
+  },
+  {
+    "index": 22756,
+    "sanskrit": "tat ājñāpaya kartā aham saṃdhiḥ eva astu nau sakhe asmāt te saṃśayāt muktaḥ sa mitra gaṇa bāndhavaḥ sarva kāryāṇi kartā aham priyāṇi ca hitāni ca",
+    "english": "Let there be peace between us, O friend! Liberated from this danger, I shall, with all my friends and relatives, do all that may be agreeable and beneficial to thee.",
+    "morphology": "tat_tad_SANe ājñāpaya_ājñāpay_SPr2Im kartā_kṛ_SFu3In aham_mad_SN saṃdhiḥ_saṃdhi_SNM eva_eva_U astu_as_SPr3Im nau_mad_DuG sakhe_sakhi_SVM asmāt_idam_SBM te_tvad_SG saṃśayāt_saṃśaya_SBM muktaḥ_muc_SNPaPsM sa_sa_U mitra_mitra_MCp ga"
+  },
+  {
+    "index": 22757,
+    "sanskrit": "kulattha kṣāra saṃsṛṣṭam kṣāra pānam ca pūjitam",
+    "english": "Meals composed of the articles of bitter and pungent tastes as well as draughts of milk mixed with the soup of Kulattha -pulse are recommended.",
+    "morphology": "kulattha_kulattha_MCp kṣāra_kṣāra_MCp saṃsṛṣṭa_saṃsṛj_SNPaPsNe"
+  },
+  {
+    "index": 22758,
+    "sanskrit": "tatas kadā cit rāja indra kāṣṭhāni ānayitum yayau",
+    "english": "One day, he set out, O PART I monarch, for fetching fuel for his preceptor.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 22759,
+    "sanskrit": "atha karmabhir ātmakṛtair gurum ātmānaṃ manyetātmārthe prasṛtiyāvakaṃ śrapayet //",
+    "english": "Now if a man feels his conscience charged with some guilty act (such as performing a sacrifice for, or accepting a gift from, unworthy persons, or eating excrements) committed by himself (or if his conscience tells him that he has done more evil than good, or if he thinks himself less pure than others), let him boil a handful of barley-gruel for the sake of his own spiritual welfare.",
+    "morphology": "atha_atha_ karmabhiḥ_karman_PINe ātma_ātman_Cp kṛtaiḥ_kṛ_PIPaNe gurum_guru_SAM ātmānam_ātman_SAM manyet_man_SPr3O ātma_ātman_Cp arthe_artha_SLM prasṛti_prasṛti_Cp yāvakam_yāvaka_SAM śrapayet_śrapay_SPr3O"
+  }
+]

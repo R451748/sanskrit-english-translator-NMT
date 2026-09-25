@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11896,
+    "sanskrit": "achinnaḥ |",
+    "english": "that is according to the text.",
+    "morphology": "a_a_ chinnaḥ_SNM"
+  },
+  {
+    "index": 11897,
+    "sanskrit": "teṣāmapi prasannā sā'nugrahaṃ samupākarot | viṣṇustutā mahābhāgā viśvamātā'ghanāśinī || 4 ||",
+    "english": "4. The highly esteemed mother of the universe, the destroyer of sins, was eulogized by Viṣṇu. She became pleased and she blessed all the Devas:",
+    "morphology": "teṣām_tad_PGM api_api_ prasannā_prasad_SNPaF sā_tad_SNF anugraham_anugraha_SAM samupākarot_samupākṛ_S3ImIn  / viṣṇu_viṣṇu_Cp stutā_stu_SNPaF mahābhāgā_mahābhāga_SNF viśva_viśva_Cp mātā_mātṛ_SNF agha_agha_Cp nāśinī_nāśin_S"
+  },
+  {
+    "index": 11898,
+    "sanskrit": "tathā rājñaḥ vadeḥ sarvān ye yuddhāya abhyupāgatāḥ yat vaḥ manīṣitam tat vai sarvam saṃpādayāmi vaḥ",
+    "english": "Say also unto all the kings that have come for battling that I will fully accomplish the desire cherished by them.",
+    "morphology": "tathā_tathā_U rājñaḥ_rājan_PAM vadeḥ_vad_SPr2O sarvān_sarva_PAM ye_yad_PNM yuddhāya_yuddha_SDNe abhyupāgatāḥ_abhyupāgam_PNPaPsM yat_yad_SNNe vaḥ_tvad_PG manīṣitam_manīṣita_SNNe tat_tad_SANe vai_vai_U sarvam_sarva_SANe saṃpādayām"
+  },
+  {
+    "index": 11899,
+    "sanskrit": "yadi na sādhyate kathaṃ tarhi svayaṃ siddhyatītyāha yannāmetyādi /",
+    "english": "Question: If it is not proved (by you), how does it become proved by itself? Answer (from the Mīmāṃsaka): [see verses 2097-2099 next]",
+    "morphology": "yadi_yadi_ na_na_ sādhyate_sādhay_SPr3InPv katham_katham_ tarhi_tarhi_ svayam_svayam_ siddhi_siddhi_SPr3In ati_ati_ iti_iti_ āha_ah_SPs3In yad_yad_Cp nāma_nāman_SNNe ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 11900,
+    "sanskrit": "tenātīndriyārthaparijñātṛtve satīti saviśeṣaṇatvāddhetor na kavibhir vyabhicāra ityāśaṅkyāha sarvajñeṣvityādi /",
+    "english": "Consequently the addition of the qualification ‘being a person knowing supersensuous things’ would prevent the Reason applying to the case of Poets and hence from ‘Falsity’ (Inconclusiveness).",
+    "morphology": "tena_tena_ atīndriya_atīndriya_Cp artha_artha_Cp parijñātṛ_parijñātṛ_Cp tve_tva_SLNe sati_as_SLPaPrNe iti_iti_ sa_sa_ viśeṣaṇa_viśeṣaṇa_Cp tvāt_tva_SBNe hetoḥ_hetu_SBM na_na_ kavibhiḥ_kavi_PIM vyabhicāraḥ_vyabhicāra_SNM iti_iti"
+  },
+  {
+    "index": 11901,
+    "sanskrit": "krodhanimittaś cāyaṃ pratiṣedhaḥ / suratasaṃbhoge tu kāminyāḥ keśagrahaḥ, sa na niṣidhyate /",
+    "english": "What is forbidden here is the haircatching, etc, done in anger; for there is \"haircatching\" also during sexual intercourse, and this is not forbidden.",
+    "morphology": "krodha_krodha_Cp nimittaḥ_nimitta_SNM ca_ca_ ayam_idam_SNM pratiṣedhaḥ_pratiṣedha_SNM  / surata_surata_Cp saṃbhoge_sambhoga_SLM tu_tu_ kāminyāḥ_kāminī_SGF keśa_keśa_Cp grahaḥ_graha_SNM saḥ_tad_SNM na_na_ niṣidhyate_niṣidh_SPr3InPv"
+  },
+  {
+    "index": 11902,
+    "sanskrit": "pañcakriḍāvayobhiś ca prāṇidyutasamāhvayaḥ //",
+    "english": "It is termed as animal gambling if it is played with animals, and birds kept for pleasure.",
+    "morphology": "__pa_U __pa_U __pa_U __pa_U __"
+  },
+  {
+    "index": 11903,
+    "sanskrit": "sa cet saṃvatsaraṃ pratipālya, atīte saṃvatsare punas tasyām eva saṃgṛhyate tadā tasyaikaṃ vāram abhiśastasya saṃvatsare gate punar duṣṭasya dviguṇo daṇḍaḥ /",
+    "english": "If such a man, within a year, commits adultery with the same woman, then the man being thus convicted and accused again, the fine shall be double.",
+    "morphology": "sa_tad_SNM ced_ced_ saṃvatsaram_saṃvatsara_SAM pratipālya_pratipālay_Co atīte_atī_SLPaM saṃvatsare_saṃvatsara_SLM punar_punar_ tasyām_tad_SLF eva_eva_ saṃgṛhyate_saṃgrah_SPr3InPv tadā_tadā_ tasya_tad_SGM ekam_eka_SAM vāram_vāra_SAM a"
+  }
+]

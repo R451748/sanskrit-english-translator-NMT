@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45320,
+    "sanskrit": "brahmovāca | purābhavacca sarveṣāmadhvaro vidhinā mahān | prayāge samavetānāṃ munīnāṃ ca mahā tmanām ||",
+    "english": "[Sanskrit text for this chapter is available] 1. Formerly, a great sacrifice was performed by the sages and noble souls who assembled at Prayāga[1].",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / purā_purā_ abhavat_bhū_S3ImIn ca_ca_ sarveṣām_sarva_PGM adhvaraḥ_adhvara_SNM vidhinā_vidhi_SIM mahān_mahat_SNM  / prayāge_prayāga_SLM samavetānām_samave_PGPaM munīnām_muni_PGM ca_ca_ mahā_mahat_Cp "
+  },
+  {
+    "index": 45321,
+    "sanskrit": "ekānekatvam iṣṭaṃ vā sattārūpādibhedata\" // iti /",
+    "english": "what is held is that they are one as well as diverse, as conceived in the form of ‘Being’ (when they are one) and in the form of ‘Colour’, etc. (when they are diverse)”, (Ślokavārtika, Sense-perception, 158).",
+    "morphology": "eka_eka_Cp aneka_aneka_Cp tvam_tva_SNNe iṣṭam_iṣ_SNPaNe vā_vā_ sattā_sattā_Cp rūpa_rūpa_Cp ādi_ādi_Cp bhedataḥ_bheda_SBM  /"
+  },
+  {
+    "index": 45322,
+    "sanskrit": "nacāptaḥ puruṣo vāsti tena vedāpramāṇatā //",
+    "english": "And yet there is no reliable person (known, who could be the author of the Veda);",
+    "morphology": "na_na_ ca_ca_ āptaḥ_āpta_SNM puruṣaḥ_puruṣa_SNM vā_vā_ asti_as_SPr3In tena_tena_ veda_veda_Cp apramāṇa_apramāṇa_Cp tā_tā_SNF "
+  },
+  {
+    "index": 45323,
+    "sanskrit": "sāyam vā bhuktavān upaśruta śāntiḥ kuśa śayyāyām kṛṣṇājina uttarāyām suhṛdbhiḥ upāsyamānaḥ śayīta | tṛṣitaḥ vā śīta udaka mātrām pibet (1aśanāyitaḥ vā kṣīram",
+    "english": "Or the patient may, after taking his meal in the evening and hearing the benedictory words, lie down on a mattress of Kusha-grass covered with black-deer skin and thus pass the night among his friends and may take cold water when thirsty.",
+    "morphology": "sāyam_sāyam_U vā_vā_U bhuktavān_bhuj_SNPaPsM upaśruta_upaśru_PaPsCp śāntiḥ_śānti_SNM kuśa_kuśa_MCp śayyāyām_śayyā_SLF kṛṣṇājina_kṛṣṇājina_NeCp uttarāyām_uttara_SLF suhṛdbhiḥ_suhṛd_PIM upāsyamānaḥ_upās_SNPaPrMP"
+  },
+  {
+    "index": 45324,
+    "sanskrit": "'tvaṅmāṃsaraktavāṣpāmbu pṛthakkṛtvā vilocane / samālokaya ramye cet kiṃ mudhā parimuhyasi //",
+    "english": "'Look closely at the pair of the eyes of a woman after analysing its contents — skin, muscles, blood and tearsif anything is there so charming to be fond of ? .",
+    "morphology": "__a_U __tvac_U __māṃsa_U __rakta_U __vāṣpa_U __ambu_U pṛthakkṛtvā_pṛthakkṛ_CoU __vilocana_U  / __samālokay_SPr2Im __ramya_U ced_ced_U __kim_U __mudhā_U __parimuh_SPr2In  /"
+  },
+  {
+    "index": 45325,
+    "sanskrit": "catto iti itaḥ cattā amutaḥ sarvā bhrūṇānyi āruṣī arāyyam brahmaṇaḥ pate tīkṣṇa śr̥ṅga ut r̥ṣan ihi",
+    "english": "Scared from this place and that is she, destroyer of each germ unborn. Go, sharp-horned Brahmanaspti and drive Arayi far away.",
+    "morphology": "catto_cat_SVPaPsF iti_iti_U itas_itas_U cattā_cat_SNPaPsF amutas_amutas_U sarvā_sarva_PANe bhrūṇānyi_bhrūṇānī_SVF āruṣī_ṛch_SNPaPsF arāyyam_arāyī_SAF brahmaṇaḥ_brahman_SGNe pate_pati_SVM tīkṣṇa_tīkṣṇa_SVM śrīṇā_śrī"
+  },
+  {
+    "index": 45326,
+    "sanskrit": "tapasā eva hi sidhyanti tapaḥ mūlam hi sādhanam",
+    "english": "The accomplishment of all purposes depends upon penance.",
+    "morphology": "tapasā_tapas_SINe eva_eva_U hi_hi_U"
+  },
+  {
+    "index": 45327,
+    "sanskrit": "iti śrīviṣṇumahāpurāṇe tṛtīyāṃśe saptamo 'dhyāyaḥ",
+    "english": "How Viṣṇu is to be worshipped, as related by Aurva to Sagara.",
+    "morphology": "iti_iti_ śrī_śrī_Cp viṣṇu_viṣṇu_Cp mahāpurāṇe_mahāpurāṇa_SLNe tṛtīya_tṛtīya_Cp aṃśe_aṃśa_SLM saptamaḥ_saptama_SNM adhyāyaḥ_"
+  }
+]

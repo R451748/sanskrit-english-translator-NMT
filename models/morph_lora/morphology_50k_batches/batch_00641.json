@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5120,
+    "sanskrit": "gopālako 'tha vivāhakartuḥ saṃdeśataḥ pituḥ / prayayau śīghramāvṛttiṃ vatsarājena yācitaḥ //",
+    "english": "Then Gopālaka, being ordered by his father to return to get married himself, went away, after having been entreated by the King of Vatsa to return quickly.",
+    "morphology": "gopālakaḥ_gopālaka_SNM atha_atha_ vivāha_vivāha_Cp kartuḥ_kartṛ_SGM saṃdeśataḥ_saṃdeśa_SBM pituḥ_pitṛ_SGM  / prayayau_prayā_SPs3In śīghram_śīghram_ āvṛttim_āvṛtti_SAF vatsa_vatsa_Cp rājena_rāja_SIM yācitaḥ_yāc_SNPaM  "
+  },
+  {
+    "index": 5121,
+    "sanskrit": "dharmaviruddho bhūteṣu kāmo 'smiiti smṛteḥ /",
+    "english": "as declared in the Smṛtitext‘Among living beings, am such Desire as is not inconsistent with Right’",
+    "morphology": "dharma_dharma_Cp viruddhaḥ_virudh_SNPaM bhūteṣu_bhūta_PLNe kāmaḥ_kāma_SNM asmi_as_SPr1In iti_iti_ smṛteḥ_smṛti_SBF "
+  },
+  {
+    "index": 5122,
+    "sanskrit": "asaṃbhave nadyādīnām uddhṛtodakenāpi snānaṃ darśayati //",
+    "english": "\"going to water\" This indicates that where a river or some such reservoir of water is not available, one may perform his bath even with water pulled out of a well.",
+    "morphology": "asaṃbhave_asaṃbhava_SLM nadī_nadī_Cp ādīnām_ādi_PGM uddhṛta_uddhṛ_PaCp udakena_udaka_SINe api_api_ snānam_snāna_SANe darśayati_darśay_SPr3In  /"
+  },
+  {
+    "index": 5123,
+    "sanskrit": "garuḍodgāraratnānāṃ tulāḥ prayutasaṃmitāḥ | śuddhavidrumaratnānāṃ tulāśca navakoṭayaḥ || 50 ||",
+    "english": "50. There were a million emeralds and nine crores of Tulās of pure coral.",
+    "morphology": "garuḍodgāra_garuḍodgāra_Cp ratnānām_ratna_PGNe tulāḥ_tulā_PNF prayuta_prayuta_Cp saṃmitāḥ_saṃmā_PNPaF  / śuddha_śudh_PaCp vidruma_vidruma_Cp ratnānām_ratna_PGNe tulāḥ_tulā_PNF ca_ca_ nava_navan_Cp koṭayaḥ_koṭi_PNF"
+  },
+  {
+    "index": 5124,
+    "sanskrit": "sadā śubham yaḥ śṛṇuyāt tathā naraḥ",
+    "english": "For Prataptam, the correct reading is satatam;",
+    "morphology": "sadā_sadā_U śubham_śubha_SANe yaḥ_yad_SNM śṛṇuyāt_śru_SPr3O"
+  },
+  {
+    "index": 5125,
+    "sanskrit": "rājā tu tatra bhagavānātmā sarvapadātigaḥ / tena mantrī kṛtaḥ prājño mano nāma mahāmate //",
+    "english": "The king of that place is the soul of divine essence, which transcends all other substances; and it is the mind which is appointed by that soul as its wise minister.",
+    "morphology": "rājā_rājan_SNM tu_tu_ tatra_tatra_ bhagavān_bhagavat_SNM ātmā_ātman_SNM sarva_sarva_Cp padātigaḥ_padātiga_SNM  / tena_tad_SIM mantrī_mantrin_SNM kṛtaḥ_kṛ_SNPaM prājñaḥ_prājña_SNM manaḥ_mana_SNM nāma_nāma_ mahāmate_mahāmati_SVM"
+  },
+  {
+    "index": 5126,
+    "sanskrit": "nivāta kavacāḥ ca eva saṃsādhyāḥ kuru nandana pituḥ mama aṃśaḥ devasya sarva loka pratāpinaḥ karṇaḥ sa su mahā vīryaḥ tvayā vadhyaḥ dhanaṃjaya",
+    "english": "And, O son of the Kuru race, O Dhananjaya, thou shalt also slay Karna of fierce prowess, who is even a portion of my father Surya, of energy celebrated throughout the worlds.",
+    "morphology": "nivāta_nivāta_MCp kavacāḥ_kavaca_PNM ca_ca_U eva_eva_U saṃsādhyāḥ_saṃsādhay_PNMGd kuru_kuru_MCp nandana_nandana_MCp pituḥ_pitṛ_SGM mama_mad_SG aṃśaḥ_aṃśa_SNM devasya_deva_SGM sarva_sarva_Cp loka_loka_MCp pratāpinaḥ_pratāpin_SG"
+  },
+  {
+    "index": 5127,
+    "sanskrit": "tena dṛṣṭārtheṣukarmasu śaktaḥ pravartamānaḥ prāpnotu phalamdṛṣṭatvāt |",
+    "english": "Therefore, in respect of rites which have a visible result, he who has capacity and engages therein TO may obtain the fruit, that being seen.",
+    "morphology": "tena_tena_ dṛṣṭa_dṛś_PaCp artheṣu_artha_PLNe karmasu_karman_PLNe śaktaḥ_śak_SNPaM pravartamānaḥ_pravṛt_SNPaPrM prāpnotu_prāp_SPr3Im phalam_phala_SANe dṛṣṭa_dṛś_PaCp tvāt_tva_SBNe"
+  }
+]

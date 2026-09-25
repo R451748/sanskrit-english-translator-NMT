@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46704,
+    "sanskrit": "pratimānasamībhūto rekhāṃ kṛtvāvatāritaḥ //",
+    "english": "After the balance comes to rest, line is drawn and the accused is taken off.",
+    "morphology": "pratimāna_pratimāna_Cp samībhūtaḥ_samībhū_SNPaM rekhām_rekhā_SAF kṛtvā_kṛ_Co avatāritaḥ_avatāray_SNPaM  /"
+  },
+  {
+    "index": 46705,
+    "sanskrit": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ / mohād gṛhītvāsadgrāhān pravartante'śucivratāḥ //",
+    "english": "‘Filled with insatiable desires, full of hypocrisy, pride and arrogance, holding evil ideas through delusion, they work with impure resolves .",
+    "morphology": "kāmam_kāma_SAM āśritya_āśri_Co duṣpūram_duṣpūra_SAM dambha_dambha_Cp māna_māna_Cp mada_mada_Cp anvitāḥ_anvita_PNM  / mohāt_moha_SBM gṛhītvā_grah_Co asat_asat_Cp grāhān_grāha_PAM pravartante_pravṛt_PPr3In aśuci_aśuci_Cp vratā"
+  },
+  {
+    "index": 46706,
+    "sanskrit": "abodhi hotā yajathāya devānūrdhvo agniḥ sumanāḥ prātarasthāt / samiddhasya ruśadadarśi pājo mahāndevastamaso niramoci //",
+    "english": "For the Gods worship hath the priest been wakened kind Agni hath arisen erect at morning",
+    "morphology": "abodhi_budh_SPs3InPv hotā_hotṛ_SNM yajathāya_yajatha_SDM devān_deva_PAM ūrdhvaḥ_ūrdhva_SNM agniḥ_agni_SNM sumanāḥ_sumanas_SNM prātar_prātar_ asthāt_sthā_SPs3In  / samiddhasya_samindh_SGPaM ruśat_ruśat_SNNe adarśi_dṛś_SPs3InPv pāja"
+  },
+  {
+    "index": 46707,
+    "sanskrit": "mitrāṇi vāasya brūyāt ahaṃ vaḥ setuḥ,",
+    "english": "Or the enemys rearenemy may be told am, as it were, a bridge to you all;",
+    "morphology": "mitrāṇi_mitra_PANe vā_vā_U asya_idam_SGM brūyāt_brū_SPr3O"
+  },
+  {
+    "index": 46708,
+    "sanskrit": "atha brāhmaṇasya brāhmaṇakṣatriyau putrau syātāṃ,",
+    "english": "Again, if there are two sons of a Brâhmana, the one belonging to the Brâhmana and the other to the Kshatriya caste, they shall divide the estate into seven parts;",
+    "morphology": "atha_atha_ brāhmaṇasya_brāhmaṇa_SGM brāhmaṇa_brāhmaṇa_Cp kṣatriyau_kṣatriya_DuNM putrau_putra_DuNM"
+  },
+  {
+    "index": 46709,
+    "sanskrit": "sarvasvaṃ śivabhaktebhyo dattvā dhyātvā sadāśivam | tamagniṃ triḥ parikramya pradeśābhimukhī sthitā || 73 ||",
+    "english": "73. She made a gift of all her possessions to the devotees of Śiva. While meditating on Sadāśiva, she circumambulating the fire three times stood ready to enter the fire.",
+    "morphology": "sarva_sarva_Cp svam_sva_SANe śiva_śiva_Cp bhaktebhyaḥ_bhakta_PDM dattvā_dā_Co dhyātvā_dhyā_Co sadāśivam_sadāśiva_SAM  / tam_tad_SAM agnim_agni_SAM tris_tris_ parikramya_parikram_Co pradeśa_pradeśa_Cp abhimukhī_abhimukha_SNF sthitā_sthā_SN"
+  },
+  {
+    "index": 46710,
+    "sanskrit": "dāha pāka rāga kaṇḍū prāyaḥ pāṇḍu ghana rakta āsrāvī ca iti pitta śleṣma śoṇitebhyaḥ",
+    "english": "An ulcer associated with the deranged Kapha, Pitta, and blood (Kapha-PittaRaktaja type) is largely attended with redness, itching, suppuration and burning sensation. It emits a thick, greyish, bloody secretion.",
+    "morphology": "dāha_dāha_MCp pāka_pāka_MCp rāga_rāga_MCp kaṇḍū_kaṇḍū_FCp prāyas_prāyas_U pāṇḍu_pāṇḍu_Cp ghana_ghana_Cp rakta_rakta_Cp āsrāvī_āsrāvin_SNM ca_ca_U iti_iti_U pitta_pitta_NeCp śleṣma_śleṣman_MCp śoṇitebhyaḥ_śoṇit"
+  },
+  {
+    "index": 46711,
+    "sanskrit": "yanmanaḥpratyakṣabhāvenādhiṣṭitaṃ pratyātmavedyaṃ tadvijñātami“ti /",
+    "english": "and what is perceived by.",
+    "morphology": "yat_yad_SNNe manaḥ_manas_Cp pratyakṣa_pratyakṣa_Cp bhāvena_bhāva_SIM adhiṣṭitam_adhiṣṭhā_SNPaNe pratyātma_pratyātma_ vedyam_vid_SNNeGd tat_tad_SNNe vijñātam_vijñā_SNPaNe iti_iti_  /"
+  }
+]

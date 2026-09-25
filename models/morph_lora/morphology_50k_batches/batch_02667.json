@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21328,
+    "sanskrit": "tad anyasya bhoktur abhāvāt /",
+    "english": "Because there is no agent of enjoyment apart from these and because they see the eyes etc.",
+    "morphology": "tat_tad_SNNe anyasya_anya_SGM bhoktuḥ_bhoktṛ_SGM abhāvāt_abhāva_SBM "
+  },
+  {
+    "index": 21329,
+    "sanskrit": "abhraṃ vidyut stanayitnur aśarīrāṇy etāni /",
+    "english": "and Cloud, Lightning, Thunder,these are unbodied",
+    "morphology": "abhram_abhra_SNNe vidyut_vidyut_SNF stanayitnuḥ_stanayitnu_SNM aśarīrāṇi_aśarīra_PNNe etāni_etad_PNNe  /"
+  },
+  {
+    "index": 21330,
+    "sanskrit": "sā ca kalpanāpi na puruṣanirapekṣā tajjñānotpādane samartheti vyarthā tat kalpanā /",
+    "english": "this assumption also is not independent of personalities in providing that knowledge, hence the assumption is entirely futile.",
+    "morphology": "sā_tad_SNF ca_ca_ kalpanā_kalpanā_SNF api_api_ na_na_ puruṣa_puruṣa_Cp nirapekṣā_nirapekṣa_SNF tad_tad_Cp jñāna_jñāna_Cp utpādane_utpādana_SLNe samarthā_samartha_SNF iti_iti_ vyarthā_vyartha_SNF tat_tad_SNNe kalpanā_kalpanā_SNF  /"
+  },
+  {
+    "index": 21331,
+    "sanskrit": "yavanāḥ ca sa kāmbojāḥ dāruṇāḥ mleccha jātayaḥ",
+    "english": "the Yavanas, the Chinas, the Kamvojas, the Darunas, and many Mleccha tribes;",
+    "morphology": "yavanāḥ_yavana_PNM ca_ca_U sa_sa_U kāmbojāḥ_kāmboja_PNM dāruṇāḥ_dāruṇa_PNF mleccha_mleccha_MCp jātayaḥ_jāti_PNF"
+  },
+  {
+    "index": 21332,
+    "sanskrit": "duścikitsyatamaḥ mandaḥ su kaṣṭaḥ dhātu śoṣa kṛt",
+    "english": "Of these the type known as the Pralepaka appears in cases of Shosha (consumption) and though its attak is a mild one, it puts almost insurmountable difficulties in the way of its cure, brings about a loss or waste of Dhatus (the seven fundamental principles of the organism) and thus ultimately ends in death.",
+    "morphology": "duścikitsyatamaḥ_duścikitsyatama_SNM mandaḥ_manda_SNM su_su_U kaṣṭaḥ_kaṣṭa_SNM dhātu_dhātu_MCp śoṣa_śoṣa_MCp kṛt_kṛt_SNM"
+  },
+  {
+    "index": 21333,
+    "sanskrit": "sāmānyena gatinirdeśo guṇanimitto 'yam //",
+    "english": "This verse indicates in general the states of existence brought about by the three qualities0.",
+    "morphology": "sāmānyena_sāmānya_SINe gati_gati_Cp nirdeśaḥ_nirdeśa_SNM guṇa_guṇa_Cp nimittaḥ_nimitta_SNM ayam_idam_SNM  /"
+  },
+  {
+    "index": 21334,
+    "sanskrit": "yaḥ kāmayeta pratheya paśubhiḥ pra prajayā jāyeyeti sa etām aviṃ vaśām ādityebhyaḥ kāmāya |",
+    "english": "He who desires, 'May I be extended with cattle, with offspring be propagated' should offer this barren ewe to the Adityas as desire [3].",
+    "morphology": "yaḥ_yad_SNM kāmayeta_kāmay_SPr3O pratheya_prath_SPr1O paśubhiḥ_paśu_PIM pra_pra_ prajayā_prajā_SIF jāyeya_jan_SPr1O iti_iti_ saḥ_tad_SNM etām_etad_SAF avim_avi_SAF vaśām_vaśā_SAF ādityebhyaḥ_āditya_PDM kāmāya_kāma_SPr3In  /"
+  },
+  {
+    "index": 21335,
+    "sanskrit": "upāyamādiśa śrīmannabhigamyo yathā bhavān | iti vijñāpito devaḥ śrīmāñchoṇācaleśvaraḥ || 36 ||",
+    "english": "On being petitioned thus, the glorious Lord, the Lord of Śoṇācala, the immanent soul of everyone, the storehouse of mercy, blessed me as I bowed down:",
+    "morphology": "upāyam_upāya_SAM ādiśa_ādiś_SPr2Im śrīman_śrīmat_SVM abhigamyaḥ_abhigam_SNMGd yathā_yathā_ bhavān_bhavat_SNM  / iti_iti_ vijñāpitaḥ_vijñāpay_SNPaM devaḥ_deva_SNM śrīmān_śrīmat_SNM śoṇācala_śoṇācala_Cp īśvaraḥ_īśvar"
+  }
+]

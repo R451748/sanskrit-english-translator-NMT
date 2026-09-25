@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44216,
+    "sanskrit": "bhūtabhautikatvam /",
+    "english": "The primary elements and physical matter derived from these primary elements.",
+    "morphology": "bhūta_bhūta_Cp bhautika_bhautika_Cp tvam_tva_SNNe"
+  },
+  {
+    "index": 44217,
+    "sanskrit": "atha kālasya paryāye vṛddhaḥ nṛpati sattamaḥ saṃbhārān abhiṣeka artham kārayām āsa śāstrataḥ",
+    "english": "In course of time, the old and best of kings, Pratipa, caused all preparations to be made according to the scriptures for the installation of Devapi (on the throne).",
+    "morphology": "atha_atha_U kālasya_kāla_SGM paryāye_paryāya_SLM vṛddhaḥ_vṛddha_SNM nṛpati_nṛpati_MCp sattamaḥ_sattama_SNM saṃbhārān_sambhāra_PAM abhiṣeka_abhiṣeka_MCp artham_artha_SAM kārayām_kāray_SPs3In āsa_as_SPs3In śāstrataḥ_śāstra_"
+  },
+  {
+    "index": 44218,
+    "sanskrit": "samādhirnāma bhāvanā| sā ca bhāvyasya viṣayāntaraparihāreṇa cetasi punaḥ punarniveśanam|",
+    "english": "Now this \"meditation\" is a kind of \"pondering\" (bhāvanā), which is the taking into the mind again and again, to the exclusion of all other objects, that which is to be pondered.",
+    "morphology": "samādhiḥ_samādhi_SNM nāma_nāma_ bhāvanā_bhāvanā_SNF sā_tad_SNF ca_ca_ bhāvyasya_bhāvay_SGNeGd viṣaya_viṣaya_Cp antara_antara_Cp parihāreṇa_parihāra_SIM cetasi_cetas_SLNe punar_punar_ punar_punar_ niveśanam_niveśana_SNNe"
+  },
+  {
+    "index": 44219,
+    "sanskrit": "haritaṃ,",
+    "english": "green,",
+    "morphology": "haritam_harita_SAM"
+  },
+  {
+    "index": 44220,
+    "sanskrit": "brāhmaṇā vedavidvāṃsaḥ kṣatriyā rājyapālakāḥ | vaiśyā vṛttiratāstatra śūdrāḥ śuśrūṣakāstriṣu || 10 ||",
+    "english": "10-22. The Brāhmaṇas were learned in the Vedas, the Kṣatriyas were protectors of the kingdom; the Vaiśyas were engaged in their avocations and the Śūdras attended upon the other three castes.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM veda_veda_Cp vidvāṃsaḥ_vid_PNPaPsM kṣatriyāḥ_kṣatriya_PNM rājya_rājya_Cp pālakāḥ_pālaka_PNM  / vaiśyāḥ_vaiśya_PNM vṛtti_vṛtti_Cp ratāḥ_ram_PNPaM tatra_tatra_ śūdrāḥ_śūdra_PNM śuśrūṣ"
+  },
+  {
+    "index": 44221,
+    "sanskrit": "mānase sarasi khyātaḥ kūrmomaṃtharakākhyayā | tasya nāviditaṃ kiṃcidehi tatra vrajāmahe || 4 ||",
+    "english": "4. In the Mānasa lake there is a tortoise well-known by the name Mantharaka. There is nothing unknown to him. Come, we shall go there.”",
+    "morphology": "mānase_mānasa_SLNe sarasi_saras_SLNe khyātaḥ_khyā_SNPaM kūrmaḥ_kūrma_SNM umaṃtharaka_umaṃtharaka_Cp ākhyayā_ākhyā_SIF  / tasya_tad_SGM na_na_ a_a_ viditam_vid_SNPaNe kiṃcid_kaścit_SNNe ehi_e_SPr2Im tatra_tatra_ vrajāmahe_vraj_PPr1In  "
+  },
+  {
+    "index": 44222,
+    "sanskrit": "kanyā varaḥ purā dattaḥ marudbhiḥ iti naḥ śrutam",
+    "english": "It has been beard by us that' even this was the boon granted to men in days of old by the Maruts in respect of maidens[284].",
+    "morphology": "kanyā_kanyā_FCp varaḥ_vara_SNM purā_purā_U dattaḥ_dā_SNPaPsM marudbhiḥ_marut_PIM iti_iti_U naḥ_mad_PG śrutam_śru_SNPaPsNe"
+  },
+  {
+    "index": 44223,
+    "sanskrit": "ayā pavā pavasvainā vasūni māṃścatva indro sarasi pra dhanva / braghnaścidyasya vāto na jūtiṃ purumedhāścittakave naraṃ dhāt //",
+    "english": "Pour forth this wealth with this purification flow onward to the yellow lake, O Indu!",
+    "morphology": "ayā_idam_SIF pavā_pavā_SIF pavasva_pū_SPr2Im enā_enad_PANe vasūni_vasu_PANe māṃścatve_māṃścatva_SLNe indra_indra_SVM sarasi_saras_SLNe pra_pra_ dhanva_dhanv_SPr2Im  / braghnaḥ_braghna_SNM cit_cit_ yasya_yad_SGM vātaḥ_vāta_SNM na_na_ jū"
+  }
+]

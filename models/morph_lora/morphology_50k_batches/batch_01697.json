@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13568,
+    "sanskrit": "kaṃsaṃ marud gaṇāḥ sarve gṛòhra pakṣaiḥ sphurat prabhaiḥ bāṇaughaiś chādayām āsuḥ pravṛt sūryam ivāmbudaḥ",
+    "english": "Then all the Maruts coverd Kaṃsa with a great and splendid flood of gṛdhra feathered arrows like a monsoon cloud covering the sun.",
+    "morphology": "kaṃsam_kaṃsa_SAM marut_marut_MCp gaṇāḥ_gaṇa_PNM sarve_sarva_PNM gṛòhra_gṛòhra_MCp pakṣaiḥ_pakṣa_PIM sphurat_sphur_PaPrCp prabhaiḥ_prabhā_PIM bāṇa_bāṇa_MCp oghaiḥ_ogha_PIM chādayām_chāday_SPs3In āsuḥ_as_PPs3In pravṛ"
+  },
+  {
+    "index": 13569,
+    "sanskrit": "nanu cāparāhṇavidhānāt kuto rātryādiṣu prāptiḥ / atha mataviśeṣavacanena, anyatrāpy astīti jñāpitam /",
+    "english": "ObjectionInasmuch as it has been laid down that Śrāddhas shall be performed in the afternoon, where was there any possibility of performance at night that it should have been considered necessary to prohibit it? It might be argued that the specification of the time itself implies the possibility of performance at other times also.",
+    "morphology": "nanu_nanu_ ca_ca_ aparāhṇa_aparāhṇa_Cp vidhānāt_vidhāna_SBNe kutas_kutas_ rātri_rātri_Cp ādiṣu_ādi_PLM prāptiḥ_prāpti_SNF  / atha_atha_ mata_mata_Cp viśeṣa_viśeṣa_Cp vacanena_vacana_SINe anyatra_anyatra_ api_api_ asti_as_SPr3In iti"
+  },
+  {
+    "index": 13570,
+    "sanskrit": "yajñabhāgasamopetaṃ tathānyeṣāṃ divaukasām | viśeṣeṇa suraśreṣṭhāḥ sthānaṃ copari saṃsthitam || 109 ||",
+    "english": "104. Also like other Heaven-dwellers I must have an equal share in Yajñas. O excellent Suras, a position above them too.",
+    "morphology": "yajña_yajña_Cp bhāga_bhāga_Cp samopetam_samopeta_SANe tathā_tathā_ anyeṣām_anya_PGM divaukasām_divaukas_PGM  / viśeṣeṇa_viśeṣeṇa_ sura_sura_Cp śreṣṭhāḥ_śreṣṭha_PVM sthānam_sthāna_SANe ca_ca_ upari_upari_ saṃsthitam_sa"
+  },
+  {
+    "index": 13571,
+    "sanskrit": "pṛthoḥ stavārthaṃ tau tatra samāhūtau maharṣibhiḥ //",
+    "english": "They were invited by the celestial saints for chanting the glories of Prithu.",
+    "morphology": "pṛthoḥ_pṛthu_SGM stava_stava_Cp artham_artha_SAM tau_tad_DuNM tatra_tatra_ samāhūtau_samāhvā_DuNPaM mahā_mahat_Cp ṛṣibhiḥ_ṛṣi_PIM  /"
+  },
+  {
+    "index": 13572,
+    "sanskrit": "hatasya ca hṛṣīkeśa samau jaya parājayau",
+    "english": "Who in striking another is not himself struck? As regard the person, however, who is struck, victory and defeat, O Hrishikesa, are the same.",
+    "morphology": "hatasya_han_SGPaPsM ca_ca_U hṛṣīkeśa_hṛṣīkeśa_SVM"
+  },
+  {
+    "index": 13573,
+    "sanskrit": "tat naḥ vi vocaḥ yadi te purā cit jaritāraḥ ānaśuḥ sumnam indra / kaḥ te bhāgaḥ kim vayaḥ dudhra khiduḥ puruhūta purūvaso asura ghnaḥ /",
+    "english": "Declare to us—if at thy hand aforetime the earlier singers have obtained good fortune What is thy share and portion, strong Subduer, Asura-slayer, rich, invoked of many?",
+    "morphology": "tat_tad_SANe naḥ_mad_PA vi_vi_U vocaḥ_vac_SPs2 yadi_yadi_U te_tvad_SG purā_purā_U cit_cit_U jaritāraḥ_jaritṛ_PNM ānaśuḥ_aś_PPs3In sumnam_sumna_SANe indra_indra_SVM  / kaḥ_ka_SNM te_tvad_SG bhāgaḥ_bhāga_SNM kim_ka_SNNe vayaḥ_vayas_SN"
+  },
+  {
+    "index": 13574,
+    "sanskrit": "bhūmim bhittvā oṣadhīḥ chittvā vṛkṣa ādīn aṇḍa jān paśūn manuṣyāḥ tanvate yajñān te svargam prāpnuvanti ca",
+    "english": "Others may be seen, who (in the observance of domesticity) tilling the soil, uprooting herbs, cutting off trees and killing birds and animals, perform sacrifices and at last attain to heaven.",
+    "morphology": "bhūmim_bhūmi_SAF bhittvā_bhid_Co oṣadhīḥ_oṣadhi_PAF chittvā_chid_Co vṛkṣa_vṛkṣa_MCp ādīn_ādi_PAM aṇḍa_aṇḍa_NeCp jān_ja_PAM paśūn_paśu_PAM manuṣyāḥ_manuṣya_PNM tanvate_tan_PPr3In yajñān_yajña_PAM te_tad_PNM svarga"
+  },
+  {
+    "index": 13575,
+    "sanskrit": "tena anuśiṣṭāḥ guruṇā sadā eva",
+    "english": "Be instructed by that preceptor;",
+    "morphology": "tena_tad_SIM anuśiṣṭāḥ_anuśās_PNPaPsM guruṇā_guru_SIM sadā_sadā_U eva_eva_U"
+  }
+]

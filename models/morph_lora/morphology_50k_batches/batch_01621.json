@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12960,
+    "sanskrit": "anugrahatirobhāvasaṃhṛtisthitisṛṣṭibhiḥ | karotyavirataṃ līlāmekaśśaktiyutaśśivaḥ ||",
+    "english": "50. That Śiva alone accompanied by Śakti performs incessant sports through blessing, disappearance, dissolution, sustenance and creation.",
+    "morphology": "anugraha_anugraha_Cp tirobhāva_tirobhāva_Cp saṃhṛti_saṃhṛti_Cp sthiti_sthiti_Cp sṛṣṭibhiḥ_sṛṣṭi_PIF  / karoti_kṛ_SPr3In aviratam_avirata_SANe līlām_līlā_SAF ekaḥ_eka_SNM śakti_śakti_Cp yutaḥ_yuta_SNM śivaḥ_śiva_SNM  "
+  },
+  {
+    "index": 12961,
+    "sanskrit": "nārāyaṇendumukhyaistu devaiḥ kṣiptāni yāni ca | āyudhāni samastāni praṇemustriśikhaṃ ca tat ||",
+    "english": "26. All the weapons hurled by the devas of whom Nārāyaṇa and Indra were the most important, bowed down in reverence to that trident.",
+    "morphology": "nārāyaṇa_nārāyaṇa_Cp indu_indu_Cp mukhyaiḥ_mukhya_PIM tu_tu_ devaiḥ_deva_PIM kṣiptāni_kṣip_PNPaNe yāni_yad_PNNe ca_ca_  / āyudhāni_āyudha_PNNe samastāni_samasta_PNNe praṇemuḥ_praṇam_PPs3In tri_tri_Cp śikham_śikhā_SANe ca_ca_ "
+  },
+  {
+    "index": 12962,
+    "sanskrit": "unmattam iva tat sarvam babhūva rajanīmukhe",
+    "english": "All were possessed with a madness in that night.",
+    "morphology": "unmattam_unmad_SNPaNe iva_iva_ tat_tad_SNNe sarvam_sarva_SNNe babhūva_bhū_SPs3In rajanī_rajanī_Cp mukhe_mukha_SLNe"
+  },
+  {
+    "index": 12963,
+    "sanskrit": "rakṣāatikrame pūrvaḥ sāhasadaṇḍaḥ //",
+    "english": "Those who violate the above rule shall be punished with the first amercement",
+    "morphology": "rakṣā_rakṣā_Cp atikrame_atikrama_SLM pūrvaḥ_pūrva_SNM sāhasa_sāhasa_Cp daṇḍaḥ_"
+  },
+  {
+    "index": 12964,
+    "sanskrit": "saptāhād iti pañcamīdarśanād arvāg ity adhyāhriyate /",
+    "english": "\"Saptāhāt,\" \"within a week,\" the use of the Ablative implies that the proposition \"before\" is understood.",
+    "morphology": "sapta_saptan_Cp ahāt_aha_SBM iti_iti_ pañcamī_pañcamī_Cp darśanāt_darśana_SBNe arvāk_arvāk_ iti_iti_ adhyāhriyate_adhyāhṛ_SPr3InPv  /"
+  },
+  {
+    "index": 12965,
+    "sanskrit": "abuddhipūrvaṃ saṃjātā ratnādīnāṃ yathārciṣaḥ / sattaiva saṃniveśena tathaivāsāṃ jagaddṛśām //",
+    "english": "As the precious gems growing insensibly of themselves, have their lustre inherent in them; and as this brilliance is no substance or anything real at all, so the appearance of the world has no substantiality of itself.",
+    "morphology": "a_a_ buddhi_buddhi_Cp pūrvam_pūrvam_ saṃjātāḥ_saṃjan_PNPaF ratna_ratna_Cp ādīnām_ādi_PGM yathā_yathā_ arciṣaḥ_arcis_PNF  / sattā_sattā_SNF eva_eva_ saṃniveśena_saṃniveśa_SIM tathā_tathā_ eva_eva_ āsām_idam_PGF jagat_jagant_C"
+  },
+  {
+    "index": 12966,
+    "sanskrit": "vijitya pṛthivīm sarvām modamānaḥ sukhī bhava",
+    "english": "And subjugating the whole earth, rejoice thou and let happiness be thine.",
+    "morphology": "vijitya_viji_Co pṛthivīm_pṛthivī_SAF sarvām_sarva_SAF modamānaḥ_mud_SNPaPrM sukhī_sukhin_SNM bhava_bhū_SPr2Im"
+  },
+  {
+    "index": 12967,
+    "sanskrit": "tasya tarpayataḥ devān sarasvatyām mahātmanaḥ samīpatas mahā rāja sā upātiṣṭhata bhāminī",
+    "english": "Thither where on the banks of the Sarasvati the high-souled sage was engaged in the act of gratifying the gods, the celestial damsel named above, O monarch, made her appearance.",
+    "morphology": "tasya_tad_SGM tarpayataḥ_tarpay_SGPaPrM devān_deva_PAM sarasvatyām_sarasvatī_SLF mahātmanaḥ_mahātman_SGM samīpatas_samīpatas_U mahā_mahat_Cp rāja_rāja_MCp sā_tad_SNF upātiṣṭhata_upasthā_SPs3In bhāminī_bhāminī_SNF"
+  }
+]

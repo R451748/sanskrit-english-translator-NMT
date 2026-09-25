@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48272,
+    "sanskrit": "rājñaḥ ca api sa bhāryasya dhairyam paśyata yādṛśam śrāntau api hi kṛcchreṇa ratham etam samūhatuḥ na ca etayoḥ vikāram vai dadarśa bhṛgunandanaḥ",
+    "english": "Gathering in knots they said unto each other, 'Behold the might of penances! Although all of us are angry, we are still unable to look at the Rishi! Great is the energy of the holy Rishi of cleaned soul! Behold also the endurance of the king and his royal spouse! Though worn out with toil and hunger, they are still bearing the car! The son of Bhrigu notwithstanding the misery he caused to Kusika and his queen, failed to mark any sign of dissatisfaction or agitation in them.' \"Bhishma continued, 'The perpetuator of Bhrigu's race beholding the king and the queen totally unmoved, began to give away very largely (wealth obtained from the king's treasury) as if he were a second Lord of Treasures.",
+    "morphology": "rājñaḥ_rājan_SGM ca_ca_U api_api_U sa_sa_U bhāryasya_bhāryā_SGM dhairyam_dhairya_SANe paśyata_paś_PPr2Im yādṛśam_yādṛśa_SANe śrāntau_śram_DuNPaPsM api_api_U hi_hi_U kṛcchreṇa_kṛcchra_SINe ratham_ratha_SAM etam_etad_SAM samūhatu"
+  },
+  {
+    "index": 48273,
+    "sanskrit": "kimekaiva parijñā sarvaprahāṇam / netyāha /",
+    "english": "and prahāṉaparijñā, `perfect knowledge whichDoes all abandoning constitute one perfect knowledge?",
+    "morphology": "kim_kim_ ekā_eka_SNF eva_eva_ parijñā_parijñā_SNF sarva_sarva_Cp prahāṇam_prahāṇa_SNNe  / na_na_ iti_iti_"
+  },
+  {
+    "index": 48274,
+    "sanskrit": "tadaditamuduyanena - bhāvo yathā tathābhāvaḥ kāraṇaṃ kāryavanmataḥ|",
+    "english": "\"'As existence, so too non-existence is held to be a cause as well as an effect.'",
+    "morphology": "tat_tad_SNNe aditam_aditi_SNNe uduyanena_uduyana_SIM -_bhāva_SNM yathā_yathā_ tathā_tathā_ abhāvaḥ_abhāva_SNM kāraṇam_kāraṇa_SNNe kārya_kārya_Cp vat_vat_"
+  },
+  {
+    "index": 48275,
+    "sanskrit": "naraḥ ko 'pyasti sarvajñas tat sarvajñatvamityapi / sādhanaṃ yat prayujyeta pratijñānyūnam eva tat //",
+    "english": "How can the truthfulness of Buddha be established by the proving of some omniscient person in general?” (3233)",
+    "morphology": "naraḥ_nara_SNM kaḥ_ka_SNM api_api_ asti_as_SPr3In sarvajñaḥ_sarvajña_SNM tat_tad_SNNe sarvajña_sarvajña_Cp tvam_tva_SNNe iti_iti_ api_api_  / sādhanam_sādhana_SNNe yat_yad_SNNe prayujyeta_prayuj_SPr3OPv pratijñā_pratijñā_Cp nyūnam_nyūna_S"
+  },
+  {
+    "index": 48276,
+    "sanskrit": "anyatamena tīrthena trir apa udakam ācāmed āsyena jaṭharaṃ praveśayet /",
+    "english": "Through any one of the aforesaid \"receptacles\" he should three times \"sip water,\" ie, he should let water enter his stomach through the mouth.",
+    "morphology": "anyatamena_anyatama_SINe tīrthena_tīrtha_SINe tris_tris_ apaḥ_ap_PAF udakam_udaka_SANe ācāmet_ācam_SPr3O āsyena_āsya_SINe jaṭharam_jaṭhara_SANe praveśayet_praveśay_SPr3O"
+  },
+  {
+    "index": 48277,
+    "sanskrit": "rogiṇī bahurogā duṣpratikāravyādhigṛhītā ca / bhūmnīniḥ matvarthīyo nityayoge vā /",
+    "english": "\"Who has disease\" who is suffering from many diseases, or is overtaken by some incurable disease;the possessive affix having the sense of many or Of permanence.",
+    "morphology": "rogiṇī_rogiṇī_SNF bahu_bahu_Cp rogā_roga_SNF duṣpratikāra_duṣpratikāra_Cp vyādhi_vyādhi_Cp gṛhītā_grah_SNPaF ca_ca_  / bhūmnīniḥ_bhūmnīni_SNM matu_matu_Cp arthīyaḥ_arthīya_SNM nitya_nitya_Cp yoge_yoga_SLM vā_vā_"
+  },
+  {
+    "index": 48278,
+    "sanskrit": "mārjane viniyogasya hayāvabhṛthake kratoḥ // aghamarṣaṇasūktasya ṛṣirevāghamarṣaṇaṃ /",
+    "english": "It should be used for sprinkling water on the body or at the time of bathing at the conclusion of a sacrifice. Aghamarṣaṇa is the sage for this aghamarṣaṇa hymn.",
+    "morphology": "mārjane_mārjana_SLNe viniyogasya_viniyoga_SGM haya_haya_Cp avabhṛthake_avabhṛthaka_SLM kratoḥ_kratu_SGM  // aghamarṣaṇa_aghamarṣaṇa_Cp sūktasya_sūkta_SGNe ṛṣiḥ_ṛṣi_SNM eva_eva_ aghamarṣaṇaḥ_aghamarṣaṇa_SNM  /"
+  },
+  {
+    "index": 48279,
+    "sanskrit": "yajñaiḥ ca devān prīṇāti svādhyāya tapasā munīn",
+    "english": "The gods are paid (gratified) by sacrifices, the Rishis, by study, meditation, and asceticism, the (deceased) ancestors, by begetting children and offering the funeral cake, and, lastly other men, by leading a humane and inoffensive life.",
+    "morphology": "yajñaiḥ_yajña_PIM"
+  }
+]

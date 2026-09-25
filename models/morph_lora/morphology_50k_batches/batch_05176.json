@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41400,
+    "sanskrit": "ṣaṭpada udgīta ninadaiḥ vighuṣṭam sāmagaiḥ iva",
+    "english": "And it resounded with the hum of bees as if they were reciting Samans.",
+    "morphology": "ṣaṭpada_ṣaṭpada_Cp udgīta_udgā_PaPsCp ninadā_ninada_SNF"
+  },
+  {
+    "index": 41401,
+    "sanskrit": "māsam ekam phala āhāraḥ dvitīyam salila aśanaḥ",
+    "english": "For one month I lived on fruits. The second month I subsisted upon water.",
+    "morphology": "__phala_U"
+  },
+  {
+    "index": 41402,
+    "sanskrit": "aśmasāra mayaiḥ dāntaiḥ su āstīrṇaiḥ sa uttaracchadaiḥ",
+    "english": "And all the seats were wrapped with excellent covers.",
+    "morphology": "aśmasāra_aśmasāra_MCp mayaiḥ_maya_PIM dāntaiḥ_dam_PIPaPsM su_su_U āstīā_āstṛ_PAPaPsM"
+  },
+  {
+    "index": 41403,
+    "sanskrit": "apatyāpatyavadyoge vaiṣamyaṃ vada kīdṛśam",
+    "english": "C.",
+    "morphology": "apatya_apatya_Cp apatya_apatya_Cp vat_vat_ yoge_yoga_SLM vaiṣamyam_vaiṣamya_SNNe vada_vad_SPr2Im kīdṛśam_kīdṛśa_SNNe"
+  },
+  {
+    "index": 41404,
+    "sanskrit": "śaṭha pralāpāt viratāḥ viruddha parivarjakāḥ saumya pralāpinaḥ nityam te narāḥ svarga gāminaḥ",
+    "english": "They who abstain from evil speech or sinful conversation, who avoid such speeches as are disagreeable, and who utter only such words as are auspicious and agreeable, succeed in ascending to Heaven.",
+    "morphology": "śaṭha_śaṭha_Cp pralāpāt_pralāpa_SBM viratāḥ_viram_PNPaPsM viruddha_virudh_PaPsCp parivarjakāḥ_parivarjaka_PNM saumya_saumya_Cp pralāpiṇaḥ_pralāpin_PNM nityam_nityam_U te_tad_PNM narāḥ_nara_PNM svarga_svarga_MCp gāminaḥ_gāmin_PNM"
+  },
+  {
+    "index": 41405,
+    "sanskrit": "śaṃbhuṃ purāṇaṃ puruṣaṃ hyadhīśaṃ vareṇyarūpaṃ ca paraṃ parāṇām | tapo juṣāṇaṃ paramārtharūpaṃ parātparaṃ taṃ śaraṇaṃ vrajāmi || 180 ||",
+    "english": "I seek refuge in Śaṃbhu who is the ancient Puruṣa, is the overlord of excellent form, who is greater than the greatest and is engaged in penance. His form is the greatest one and he is greater than the greatest.” FOOTNOTES AND REFERENCES: This refers to Bṛhaspati’s rape of his pregnant sister-in-law (brother Utathya’s wife).",
+    "morphology": "śaṃbhum_śambhu_SAM purāṇam_purāṇa_SAM puruṣam_puruṣa_SAM hi_hi_ adhīśam_adhīśa_SAM vareṇya_vareṇya_Cp rūpam_rūpa_SAM ca_ca_ param_para_SAM parāṇām_para_PGM  / tapaḥ_tapas_SANe juṣāṇam_juṣ_SAPaPsM parama_parama_Cp artha_"
+  },
+  {
+    "index": 41406,
+    "sanskrit": "ekārthe caikavanacaṃ dvyarthe dvivacanaṃ bhavet //",
+    "english": "Singular is used to denote a single thing. Dual comes in the sense of two things.",
+    "morphology": "eka_eka_Cp arthe_artha_SLM ca_ca_ ekavanacam_ekavanaca_SNNe dvi_dvi_Cp arthe_artha_SLM dvi_dvi_Cp vacana_vacana_SNNe"
+  },
+  {
+    "index": 41407,
+    "sanskrit": "vasaṃtako vicitrāstu kathayāmāsa vai kathāḥ | tatkathāśravaṇenaiva tāṃ rātriṃ sa nināya vai || 149 || tataḥ kālena kakubhaṃ prāpya jaṃbhāripālitām | jamadagnyāśramaṃ gatvā nirvairaharikuṃjaram || 150 || tapasyaṃtaṃ muniṃ dṛṣṭvā śirasā praṇanāma saḥ | āśīrvādena sa muniḥ pratijagrāha taṃ nṛpam || 151 ||",
+    "english": "147-152. He proceeded towards that self-same mountain where the moon, the sun and other (luminaries) rise at once. After traversing a part of the path, he halted and saw that the army got its rest. Eagerly engaged in thinking about (the impending) union with his wife, the king had no sleep. Vasantaka narrated to him various wonderful anecdotes. He spent that night listening to those stories. In due course, he proceeded to the direction protected by Indra (i.e. the eastern direction). He went to the hermitage of Jamadagni where lion and elephant did not bear any enmity to each other. On seeing the sage engaged in penance, he bowed down his head before him. The sage received the king with due words of benediction. The sage duly honoured him with Pādya, Arghya and Ācamanīyaka. He spoke to the king the following virtuous words:",
+    "morphology": "vasaṃtakaḥ_vasaṃtaka_SNM vicitrāḥ_vicitra_PAF tu_tu_ kathayāmāsa_kathay_SPs3InPe vai_vai_ kathāḥ_kathā_PAF  / tad_tad_Cp kathā_kathā_Cp śravaṇena_śravaṇa_SINe eva_eva_ tām_tad_SAF rātrim_rātri_SAF sa_tad_SNM nināya_nī_SPs3In vai"
+  }
+]

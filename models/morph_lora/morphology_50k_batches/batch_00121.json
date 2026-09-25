@@ -1,0 +1,50 @@
+[
+  {
+    "index": 960,
+    "sanskrit": "tasmāt etān naraḥ nityam dūratas parivarjayet",
+    "english": "Hence, one should always cast off these faults to a great distance.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 961,
+    "sanskrit": "samudyamya ca cikṣepa satyasenasya saṃyuge",
+    "english": "Raising that weapon he hurled it at Satyasena in that encounter.",
+    "morphology": "samudyamya_samudyam_Co"
+  },
+  {
+    "index": 962,
+    "sanskrit": "namaḥ kṛtsnavītāya dhāvate satvanām pataye namaḥ | namaḥ sahamānāya nivyādhina āvyādhinīnām pataye namas |",
+    "english": "Homage to the wholly covered, to the running, to the lord of warriors homage! Homage to the strong, the piercing, to the lord of assailers homage!",
+    "morphology": "namaḥ_namas_SNNe kṛtsna_kṛtsna_Cp vītāya_vye_SDPaPsM dhāvate_dhāv_SDPaPrM satvanām_satvan_PGM pataye_pati_SDM namaḥ_namas_SNNe  / namaḥ_namas_SNNe sahamānāya_sah_SDPaPrM nivyādhinaḥ_nivyādhin_SGM āvyādhinīnām_āvyādhin_PGF"
+  },
+  {
+    "index": 963,
+    "sanskrit": "dvijānāṃ vaidikenāpi mārgeṇārādhanaṃ varam | anyeṣāmapi jaṃtūnāṃ vaidikena na saṃmatam ||",
+    "english": "41. The twice-born can very well worship according to the Vedic rites but not so the others who are not authorized.",
+    "morphology": "dvijānām_dvija_PGM vaidikena_vaidika_SIM api_api_ mārgeṇa_mārga_SIM ārādhanam_ārādhana_SNNe varam_vara_SNNe  / anyeṣām_anya_PGM api_api_ jantūnām_jantu_PGM vaidikena_vaidika_SIM na_na_ saṃmatam_samman_SNPaNe"
+  },
+  {
+    "index": 964,
+    "sanskrit": "iti / na nāpitaḥ, tasya spṛśyatvāt bhojyānnatvāc ca / yat tu śmaśrukarmaṇi tasyedaṃ snānam ity āhus tad api siddhatvād avācyam / avaśyaṃ śmaśrukarmāṇi kārayato romāṇi gātrāṇi spṛśanti, tāni śarīrāc cyutāny aśuddhānīti siddhaṃ snānam /",
+    "english": "It cannot stand for the barber here; for the barber is among the touchables, and also because he is one whose food may be eaten by the Brāhmaṇa. As for the rule laying down the necessity of bathing after a shave, this cannot be put forward in the present context, as the bathing in this case is necessitated by the consideration that, while one is shaving hairs are bound to fall on the body, and as, on falling from the body, they are unclean, it is necessary that one should bathe.",
+    "morphology": "iti_iti_  / na_na_ nāpitaḥ_nāpita_SNM tasya_tad_SGM spṛśya_spṛś_GdCp tvāt_tva_SBNe bhojya_bhuj_GdCp anna_anna_Cp tvāt_tva_SBNe ca_ca_  / yat_yad_SANe tu_tu_ śmaśrukarmaṇi_śmaśrukarman_SLNe tasya_tad_SGM idam_idam_SNNe snānam_snāna_SNNe "
+  },
+  {
+    "index": 965,
+    "sanskrit": "pādāt caturthāt saṃbhūtaḥ ātmā yasmāt mune tava",
+    "english": "And since, O ascetic, this body of thine hath sprung from the fourth foot of Dharma (viz., Truth).",
+    "morphology": "pādāt_pāda_SBM"
+  },
+  {
+    "index": 966,
+    "sanskrit": "tato 'tra damayantī sā pitaraṃ svair am abravīt / niḥsaṃdehaṃ sa evāryaputraḥ sūdamiṣaṃ śritaḥ //",
+    "english": "Then Damayantī, of her own accord, said to her father: “Without doubt that man is my husband disguised as a cook.",
+    "morphology": "tatas_tatas_ atra_atra_ damayantī_damayantī_SNF sā_tad_SNF pitaram_pitṛ_SAM svaiḥ_sva_PIM abravīt_brū_S3ImIn  / niḥsaṃdeham_niḥsaṃdeha_SANe ḥ_ḥ_"
+  },
+  {
+    "index": 967,
+    "sanskrit": "hetvarthe kutsite 'ṅge sā tṛtīyā ca viśeṣaṇe //",
+    "english": "The third case is also employed to express the cause or motive or the object or purpose of an action, to express some defect in a limb of the body or a characteristic attribute indicative of the existence of a particular state.",
+    "morphology": "hetu_hetu_Cp arthe_artha_SLM kutsite_kutsay_SLPaNe aṅge_aṅga_SLNe sā_tad_SNF tṛtīyā_tṛtīyā_SNF"
+  }
+]

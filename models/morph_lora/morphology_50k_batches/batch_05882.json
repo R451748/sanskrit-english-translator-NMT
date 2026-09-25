@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47048,
+    "sanskrit": "lobha moha abhibhūtāḥ ca tyaktāḥ devaiḥ tatas narāḥ aśubhaiḥ karmabhiḥ pāpāḥ tiryak naraka gāminaḥ",
+    "english": "Then those wicked men, when disembodied, on account of their unrighteous and unblessed deeds, went to hell in a crooked way.",
+    "morphology": "lobha_lobha_MCp moha_moha_MCp abhibhūtāḥ_abhibhū_PNPaPsM ca_ca_U tyaktāḥ_tyaj_PNPaPsM devaiḥ_deva_SVM tatas_tatas_U narāḥ_nara_PNM aśubhaiḥ_aśubha_PINe karmabhiḥ_karman_PINe pāpāḥ_pāpa_PNM tiryakhā_tiryañc_SANe naraka_naraka_MCp g"
+  },
+  {
+    "index": 47049,
+    "sanskrit": "anyata iti / pauruṣeyāt kiṃ na bhavati bhavatyeveti yāvat /",
+    "english": "‘From another sentence’ i.e. from one emanating from a man. ‘Why cannot there be’ i.e. there must be.",
+    "morphology": "anyatas_anyatas_ iti_iti_  / pauruṣeyāt_pauruṣeya_SBNe kim_ka_SNNe na_na_ bhavati_bhū_SPr3In bhavati_bhū_SPr3In eva_eva_ iti_iti_"
+  },
+  {
+    "index": 47050,
+    "sanskrit": "brahmajñānātha kamalā paramā vidyayā saha //",
+    "english": "Brahmajñānā, Kamalā and Paramā together with Vidyā should also be worshipped.",
+    "morphology": "__brahman_U __jñāna_U __"
+  },
+  {
+    "index": 47051,
+    "sanskrit": "tam mahātmā svayam prītyā devyā saha mahā dyutiḥ jāta mātram muneḥ putram vidhinā upānayat tadā",
+    "english": "The high-souled Mahadeva of great effulgence, accompanied by the Goddess, and moved by affection, came there and soon after the birth of the Muni's son invested him with the sacred-thread.",
+    "morphology": "tam_tad_SAM mahātmā_mahātman_SNM svayam_svayam_U prītyā_prīti_SIF devyā_devī_SIF saha_saha_U mahā_mahat_Cp dyutiḥ_dyuti_SNM jāta_jan_PaPsCp mātram_mātra_SAM muneḥ_muni_SGM putram_putra_SAM viṣṇā_viṣṇu_SIM"
+  },
+  {
+    "index": 47052,
+    "sanskrit": "na vahniṃ putra viṃdāmi mārgamāṇo'pi sarvaśaḥ | rātrimadhye tu saṃprāpte dvāreṣu pihiteṣu ca || 64 || nidrāparavaśāḥ paurā naiva dāsyaṃti pāvakam | itthaṃ vijayadatto'sāvuktaḥ pitrā jvarāturaḥ || 65 || yayāce vahnimevāsau pitaraṃ dīnayā girā | śītajvarasamudbhūtaśītabādhāprapīḍitam || 66 ||",
+    "english": "64-69. “O son, I am not able to get fire, though I have searched for it everywhere. It is midnight now. All the doors are closed. The citizens are overcome by sleep. They will not give fire.” Thus Vijayadatta who was afflicted with fever was told by his father. Still in a piteous tone, he begged of his father to fetch him some fire. (He said:) “I am afflicted with chillness as a result of the shivering fever. The wind with icy sprays oppresses me with doubly increased severity. A lie has been uttered by you, O father, that fire could not be got. See, yonder, there, in front of us, a fire is blazing. It has clusters of flames. It licks the sky with shooting flames. O father, fetch that fire quickly for quelling the chillness.”",
+    "morphology": "na_na_ vahnim_vahni_SAM putra_putra_SVM viṃdāmi_vid_SPr1In mārgamāṇaḥ_mārg_SNPaPrM api_api_ sarvaśas_sarvaśas_  / rātri_rātri_Cp madhye_madhya_SLNe tu_tu_ saṃprāpte_samprāp_SLPaNe dvāreṣu_dvāra_PLNe pihiteṣu_pidhā_PLPaNe ca_ca_  / "
+  },
+  {
+    "index": 47053,
+    "sanskrit": "bhṛgu aṅgirobhiḥ sahitaḥ devaiḥ ca api abhipūjitaḥ",
+    "english": "and on it progressed in the company of Bhrigu, Angiras and others.",
+    "morphology": "bhṛgu_bhṛgu_MCp aṅgirobhiḥ_aṅgiras_PIM sahitaḥ_sahita_SNM"
+  },
+  {
+    "index": 47054,
+    "sanskrit": "mahā vṛkṣa gala skandhaḥ śaṅkukarṇaḥ vibhīṣaṇaḥ",
+    "english": "His shoulders were broad like the neck of a tree;",
+    "morphology": "__mahā_U"
+  },
+  {
+    "index": 47055,
+    "sanskrit": "yaduktaṃ vyāpṛtaṃ hyarthavittāviti tadasaṃgatam nahyarthavittir anyā jñānāt /",
+    "english": "It has been asserted (under Text 2013) that “while functioning over the apprehending of the Object, the Cognition does not touch itself This is irrelevant.",
+    "morphology": "yat_yad_SNNe uktam_vac_SNPaNe vyāpṛtam_vyāpṛta_SNNe hi_hi_ artha_artha_Cp vittau_vitti_SLF iti_iti_ tat_tad_SNNe asaṃgatam_asaṃgata_SNNe"
+  }
+]

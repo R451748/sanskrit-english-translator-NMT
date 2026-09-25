@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40000,
+    "sanskrit": "caṇḍālād udakāt sarpād brāhmaṇād vaidyutād api / daṃṣṭribhyaś ca paśubhyaś ca maraṇam pākakarmaṇām //",
+    "english": "\"Sinful men meet death from the Cāṇḍāla, from water, from serpents, from Brāhmaṇas, from lightning and from fanged animals\".",
+    "morphology": "caṇḍālāt_caṇḍāla_SBM udakāt_udaka_SBNe sarpāt_sarpa_SBM brāhmaṇāt_brāhmaṇa_SBM vaidyutāt_vaidyuta_SBM api_api_  / daṃṣṭribhyaḥ_daṃṣṭrin_PBM ca_ca_ paśubhyaḥ_paśu_PBM ca_ca_ maraṇam_maraṇa_SNNe pāka_pāka_Cp karma"
+  },
+  {
+    "index": 40001,
+    "sanskrit": "so 'ntarikṣagato bhūtvā māyayā śīghravikramaḥ /",
+    "english": "Thus addressed by Maghavān Nārada speedily went away —.",
+    "morphology": "saḥ_tad_SNM antarikṣa_antarikṣa_Cp gataḥ_gam_SNPaM bhūtvā_bhū_Co māyayā_māyā_SIF śīghra_śīghra_Cp vikramaḥ_vikrama_SNM  /"
+  },
+  {
+    "index": 40002,
+    "sanskrit": "śaivaṃ śapathamullaṃghya sthitaṃ māṃ cakramīdṛśam | asaṃhatyaiva sahasā kṛpayaiva sthiraṃ param ||",
+    "english": "41. This discus has remained without killing me, although I had transgressed the avowal of Śiva. It indicates that it is compassionate.",
+    "morphology": "śaivam_śaiva_SAM śapatham_śapatha_SAM ullaṃghya_ullaṅghay_Co sthitam_sthā_SAPaM mām_mad_SA cakram_cakra_SANe īdṛśam_īdṛśa_SANe  / a_a_ saṃhatya_saṃhan_Co eva_eva_ sahasā_sahas_SINe kṛpayā_kṛpā_SIF eva_eva_ sthiram_sthira_SANe"
+  },
+  {
+    "index": 40003,
+    "sanskrit": "ahaṃ brahma paraṃ jyotiḥ samānaparivarjitaṃ / ahaṃ brahma paraṃ jyotirjarāmaraṇavarjitaṃ //",
+    "english": "am Brahman, the Supreme Light devoid of the vital wind samāna in the body. am Brahman, the Supreme Effulgence devoid of old age and death. am Brahman.",
+    "morphology": "aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe samāna_samāna_Cp parivarjitam_parivarjay_SNPaNe  / aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe jarā_jarā_Cp maraṇa_maraṇa_Cp varjitam_varjay_SNPaNe  /"
+  },
+  {
+    "index": 40004,
+    "sanskrit": "kṣayo virāgo nirodho vyupaśamo ’staṃgamaḥ |",
+    "english": "destruction, fading away, cessation, stilling and disappearance.",
+    "morphology": "__kṣaya_U"
+  },
+  {
+    "index": 40005,
+    "sanskrit": "dhanyā dhanyā mahāmāyā śāṃbhavī munisattamāḥ | tadgatiṃ na hi paśyaṃti viṣṇubrahmādayopi hi ||",
+    "english": "28. O great sages, blessed and very blessed is Śiva’s Māyā. Even Viṣṇu, Brahmā and others do not know the the turn it takes.",
+    "morphology": "dhanyā_dhanya_SNF dhanyā_dhanya_SNF mahāmāyā_mahāmāyā_SNF śāṃbhavī_śāmbhavī_SNF muni_muni_Cp sattamāḥ_sattama_PVM  / tad_tad_Cp gatim_gati_SAF na_na_ hi_hi_ paśyanti_dṛś_PPr3In viṣṇu_viṣṇu_Cp brahma_brahman_Cp ādayaḥ_ādi_"
+  },
+  {
+    "index": 40006,
+    "sanskrit": "vāde tu vicāryamāṇo nyāyaḥ saṃśayacchedanenādhyavasitāvabodhaṃ adhyavasitābhyanujñānaṃ ca vidadhat tattvapariśuddhim ādadhātīti vītarāgaiḥ śiṣyasabrahmacāribhis saha vādaḥ prayoktavyaḥ //",
+    "english": "In fine, in order to establish that a definite conclusion which is drawn from a syllogism, has a distinct character of its own, nimaya deserves a distinct mention...... There is no such rule Enough of it.Tattvajñāna as a Means of Moksa Suppose two contesting parties put forward the two distinct trains of syllogism in order to prove their opposite views on a certain topic.",
+    "morphology": "vāde_vāda_SLM tu_tu_ vicāryamāṇaḥ_vicāray_SNPaPrMPv nyāyaḥ_nyāya_SNM saṃśaya_saṃśaya_Cp chedanena_chedana_SINe adhyavasita_adhyavaso_PaCp avabodham_avabodha_SAM adhyavasita_adhyavaso_PaCp abhyanujñānam_abhyanujñāna_SANe ca_ca_ vidadh"
+  },
+  {
+    "index": 40007,
+    "sanskrit": "nagarī plāvitā svapne taraṃgaiḥ kṣīranīradheḥ | pakṣaistricaturaiḥ śaṃke mahāśaṃkāṃ puraukasām || 14 ||",
+    "english": "14. In the dream, the city was flooded with the waves of the ocean of milk. I suspect a great danger to the citizens within three or four fortnights.",
+    "morphology": "nagarī_nagarī_SNF plāvitā_plāvay_SNPaF svapne_svapna_SLM taraṃgaiḥ_taraṃga_PIM kṣīra_kṣīra_Cp nīradheḥ_nīradhi_SGM  / pakṣaiḥ_pakṣa_PIM tricaturaiḥ_tricatura_PIM śaṃke_śak_SPr1In mahā_mahat_Cp śaṅkām_śaṅkā_SAF"
+  }
+]

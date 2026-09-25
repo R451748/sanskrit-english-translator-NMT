@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34824,
+    "sanskrit": "samāje tridaśaiḥ sārddhaṃ tatra te ca didṛkṣayā | brahmaviṣṇumaheśānāstatra harṣātsamāgatāḥ || 4 ||",
+    "english": "Eighty-eight thousand hermit-householders assembled there with a desire to see everything. Brahmā, Viṣṇu and Maheśāna came there with great pleasure along with the Devas.",
+    "morphology": "samāje_samāja_SLM tridaśaiḥ_tridaśa_PIM sārddham_sārdham_ tatra_tatra_ te_tad_PNM ca_ca_ didṛkṣayā_didṛkṣā_SIF  / brahma_brahman_Cp viṣṇu_viṣṇu_Cp maheśānāḥ_maheśāna_PNM tatra_tatra_ harṣāt_harṣa_SBM samāgatāḥ_sam"
+  },
+  {
+    "index": 34825,
+    "sanskrit": "yadidaṃ dṛśyate kiṃcijjagatsthāvarajaṅgamam / sarvaṃ sarvaprakārāḍhyaṃ sasurāsurakinnaram //",
+    "english": "Because this world which appears to contain these moving and unmoving beings, and abounds in various races of gods, Asura—giants and Kinnara—pigmies.",
+    "morphology": "yat_yad_SNNe idam_idam_SNNe dṛśyate_dṛś_SPr3InPv kiṃcid_kaścit_SNNe jagat_jagant_SNNe sthāvara_sthāvara_Cp jaṅgamam_jaṅgama_SNNe  / sarvam_sarva_SNNe sarva_sarva_Cp prakāra_prakāra_Cp āḍhyam_āḍhya_SNNe sa_sa_ sura_sura_Cp asura_asura"
+  },
+  {
+    "index": 34826,
+    "sanskrit": "vicārya kuṇḍadhāraḥ tu mānuṣyam calam adhruvam tapase matim ādhatta brāhmaṇasya yaśasvinaḥ",
+    "english": "At the command of the gods I shall give him untold wealth.' Kundadhara, then, reflecting upon the fleeting and unreal character of the status of humanity, set his heart, O Yudhishthira, upon inclining the Brahmana to penances.",
+    "morphology": "vicārya_vicāray_Co kuṇḍadhāraḥ_kuṇḍadhāra_SNM tu_tu_U mānuṣyam_mānuṣya_SANe calam_cala_SANe adhruvam_adhruva_SANe tapase_tapas_SDNe matim_mati_SAF ādhatta_ādhā_SPs3In brāhmaṇasya_brāhmaṇa_SGM yaśasvinaḥ_yaśasvin_SGM"
+  },
+  {
+    "index": 34827,
+    "sanskrit": "tatas yajñāḥ pravartante dharmāḥ ca vividhāḥ kriyāḥ",
+    "english": "And thence sacrifices and various religious observances come into existence.",
+    "morphology": "tatas_tatas_U yajñāḥ_yajña_PNM pravartante_pravṛt_PPr3In"
+  },
+  {
+    "index": 34828,
+    "sanskrit": "dharmasya ca nimittatvam uktam uttaraśloke darśayiṣyati /",
+    "english": "How piety forms the motive is going to be shown in the next verse.",
+    "morphology": "dharmasya_dharma_SGM ca_ca_ nimitta_nimitta_Cp tvam_tva_SANe uktam_vac_SAPaNe uttara_uttara_Cp śloke_śloka_SLM darśayiṣyati_darśay_SFu3In  /"
+  },
+  {
+    "index": 34829,
+    "sanskrit": "artha prakāśanā seyamupacārastato bhavet | astu cedbhāsate tarhi sa eva patadadrivat |",
+    "english": "Therefore, illumination of the object by its knowledge also must be analogical. Illumination of the object in this expression is analogical to the falling of the peak.",
+    "morphology": "artha_artha_MCp prakāśanā_prakāśanā_SNF sā_tad_SNF iyam_idam_SNF upacāraḥ_upacāra_SNM tatas_tatas_ bhavet_bhū_SPr3O  / astu_as_SPr3Im ced_ced_ bhāsate_bhās_SPr3In tarhi_tarhi_ saḥ_tad_SNM eva_eva_ patat_pat_PaPrCp adri_adri_Cp vat_vat_"
+  },
+  {
+    "index": 34830,
+    "sanskrit": "vaiśampāyanaḥ uvāca kuru vaṃśasya sadṛśam idam kautūhalam tava harṣam utpādayati etat vacaḥ me janamejaya",
+    "english": "The words that I shall speak, will, O Janamejaya, be conducive to thy pleasure.",
+    "morphology": "vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In kuru_kuru_MCp vaṃśasya_vaṃśa_SGM sadṛśam_sadṛśa_SNNe idam_idam_SNNe kautūhalam_kautūhala_SNNe tava_tvad_SG harṣam_harṣa_SAM utpādayati_utpāday_SPr3In etat_etad_SNNe vacaḥ_vacas_SN"
+  },
+  {
+    "index": 34831,
+    "sanskrit": "iti suśrutasaṃhitāyām sūtrasthāne dravadravyavijñānīyaḥ nāma pañcatvāriṃśaḥ adhyāyaḥ || ṣaṭcatvāriṃśattamaḥ adhyāyaḥ |",
+    "english": "Thus ends the forty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of liquids.",
+    "morphology": "iti_iti_U suśrutasaṃhitāyām_suśrutasaṃhitā_SLF sūtrasthāne_sūtrasthāna_SLNe dravadravyavijñānīyaḥ_dravadravyavijñānīya_SNM nāma_nāma_U pañcatvāriṃśaḥ_pañcatvāriṃśa_SNM adhyāyaḥ_adhyāya_SNM  / ṣaṭcatvāriṃśattam"
+  }
+]

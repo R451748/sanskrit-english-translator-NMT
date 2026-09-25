@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41568,
+    "sanskrit": "asau hi tāvakān pārtha karṇaḥ nighnati saṃyuge śakra tulya balaḥ vīryāt śaṃkara pratimaḥ api vā",
+    "english": "Yonder, O Partha, Karna, equal unto Indra in energy, or, perhaps, Sankara himself, is slaughtering thy troops with his shafts.",
+    "morphology": "asau_adas_SNM hi_hi_U tāvakān_tāvaka_PAM pārtha_pārtha_MCp karṇaḥ_karṇa_SNM nighnati_nihan_SPr3In saṃyuge_saṃyuga_SLNe śakra_śakra_MCp tulya_tulya_Cp balaḥ_bala_SNM vīryāt_vīrya_SBNe śaṃkara_śaṃkara_MCp pratimaḥ_pratimā_SNM a"
+  },
+  {
+    "index": 41569,
+    "sanskrit": "ārjavena apare yuktāḥ nihatāḥ anārjavaiḥ janaiḥ",
+    "english": "Others characterised by simplicity and truth, have been slain by men of wickedness.",
+    "morphology": "ārjavena_ārjava_SINe apare_apara_PNM yuktāḥ_yuj_PNPaPsM nihatāḥ_nihan_PNPaPsM anārjavaiḥ_anārjava_PIM janaiḥ_jana_PIM"
+  },
+  {
+    "index": 41570,
+    "sanskrit": "avivekānusaṃdhānāccittamāpadamīdṛśīm / anantabhavaduḥkhāya parigṛhṇāti helayā //",
+    "english": "Following after untruth by slighting the truth, is attended with the danger of incurring endless miseries, which the careless pursuer after it, is little aware of.",
+    "morphology": "a_a_ viveka_viveka_Cp anusaṃdhānāt_anusaṃdhāna_SBNe cittam_citta_SNNe āpadam_āpad_SAF īdṛśīm_īdṛśa_SAF  / ananta_ananta_Cp bhava_bhava_Cp duḥkhāya_duḥkha_SDNe parigṛhṇāti_parigrah_SPr3In helayā_helā_SIF  /"
+  },
+  {
+    "index": 41571,
+    "sanskrit": "mā tvam brahma gatim hiṃsyāḥ prāyaścittam kṛtam tvayā",
+    "english": "Do not, again, destroy the means of a brahmana's support.",
+    "morphology": "mā_mā_U tvam_tvad_SN brahma_brahman_MCp gatim_gati_SAF hiṃsyāḥ_hiṃs_SPr2O"
+  },
+  {
+    "index": 41572,
+    "sanskrit": "athākrūrapakṣīyair bhojaiḥ śatrughne sātvatasya prapautre vyāpādite bhojaiḥ sahākrūro dvārakāmapahāyāpakrāntaḥ //",
+    "english": "At the end of that period, Śatrughna, the great grandson of Satwata, was killed by the Bhojas, and as they were in bonds of alliance with Akrūra, he accompanied them in their flight from Dvārakā.",
+    "morphology": "atha_atha_ akrūra_akrūra_Cp pakṣīyaiḥ_pakṣīya_PIM bhojaiḥ_bhoja_PIM śatrughne_śatrughna_SLM sātvatasya_sātvata_SGM prapautre_prapautra_SLM vyāpādite_vyāpāday_SLPaM bhojaiḥ_bhoja_PIM saha_saha_ akrūraḥ_akrūra_SNM dvārakām_dvārak"
+  },
+  {
+    "index": 41573,
+    "sanskrit": "vipraḥ asmi muktaḥ asmi vanecaraḥ asmi",
+    "english": "I am a Brahmana possessed of Vedic knowledge, I am emancipated. I am a forest recluse.",
+    "morphology": "vipraḥ_vipra_SNM asmi_as_SPr1In muktaḥ_muc_SNPaPsM asmi_as_SPr1In vanecaraḥ_vanecara_SNM asmi_as_SPr1In"
+  },
+  {
+    "index": 41574,
+    "sanskrit": "tṛtīyā ca tataḥ kaṣṭatarā saṃsāragatirvairāgyahetorvaktavyetyārabhyate /",
+    "english": "Then again, a third Path is going to be described, which is still more painful,the way of the ordinary world;this being described for the purpose of creating disgust in the mind of the pupil against worldliness",
+    "morphology": "tṛtīyā_tṛtīya_SNF ca_ca_ tatas_tatas_ kaṣṭatarā_kaṣṭatara_SNF saṃsāra_saṃsāra_Cp gatiḥ_gati_SNF vairāgya_vairāgya_Cp hetoḥ_hetu_SBM vaktavyā_vac_SNFGd iti_iti_ ārabhyate_ārabh_SPr3InPv  /"
+  },
+  {
+    "index": 41575,
+    "sanskrit": "agneḥ jāgarti varuṇaḥ varuṇāt ca prajāpatiḥ",
+    "english": "after him, Agni of blazing flames; after him, Varuna; after Varuna, Prajapati;",
+    "morphology": "agneḥ_agni_SBM jāgarti_jāgṛ_SPr3In varuṇaḥ_varuṇa_SNM varuṇāt_varuṇa_SBM ca_ca_U prajāpatiḥ_prajāpati_SNM"
+  }
+]

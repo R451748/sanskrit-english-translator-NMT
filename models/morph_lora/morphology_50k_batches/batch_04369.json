@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34944,
+    "sanskrit": "satsvanantapadārtheṣu jīvatvenābhibimbati / ātmā puryaṣṭakādarśe svabhāvavaśataḥ svataḥ //",
+    "english": "The soul residing in the infinity of substances, reflects itself as the living soul in animated bodies, as the sun-light reflects its rays in a prismatic glass.",
+    "morphology": "satsu_as_PLPaPrM ananta_ananta_Cp padārtheṣu_padārtha_PLM jīva_jīva_Cp tvena_tva_SINe abhibimbati_abhibimb_SPr3In  / ātmā_ātman_SNM puryaṣṭaka_puryaṣṭaka_Cp ādarśe_ādarśa_SLM svabhāva_svabhāva_Cp vaśataḥ_vaśa_SBM svatas_svatas_  "
+  },
+  {
+    "index": 34945,
+    "sanskrit": "tasmād anyā nītyā saṃsargapratyayo bhavati sādhuḥ /",
+    "english": "The knowledge which follows from this method is sound.",
+    "morphology": "tasmāt_tasmāt_ anyā_anya_SNF nītyā_nīti_SIF saṃsarga_saṃsarga_Cp pratyayaḥ_pratyaya_SNM bhavati_bhū_SPr3In sādhuḥ_sādhu_SNM  /"
+  },
+  {
+    "index": 34946,
+    "sanskrit": "cidambudhau sphurantyetā dehabudbudapaṅkatayaḥ / itaścānyā itaścānyā etāsvāsthā na dhīmataḥ //",
+    "english": "Look at these chains of living bodies, which are indiscriminately and incessantly rising and falling like bubbles and billows, in the vast ocean of the divine Intellect, and there is no difference of any one of them from another; why then should the wise make any distinction between objects that are equally frail in their nature, and proceed from and return to the same source.",
+    "morphology": "cit_cit_Cp ambudhau_ambudhi_SLM sphuranti_sphur_PPr3In etāḥ_etad_PNF deha_deha_Cp budbuda_budbuda_Cp paṅkatayaḥ_paṅkati_PNF  / itas_itas_ ca_ca_ anyāḥ_anya_PNF itas_itas_ ca_ca_ anyāḥ_anya_PNF etāsu_etad_PLF āsthāḥ_āsthā_PNF na_na_ dh"
+  },
+  {
+    "index": 34947,
+    "sanskrit": "rakṣamāṇaḥ kapotam tvam bahūn prāṇān naśiṣyasi",
+    "english": "O prince, thou dost not protect many lives.",
+    "morphology": "rakṣamāṇaḥ_rakṣ_SNPaPrM kapotam_kapota_SAM tvam_tvad_SN bahūn_bahu_PAM prāṇān_prāṇa_PAM naśiṣyasi_naś_SFu2In"
+  },
+  {
+    "index": 34948,
+    "sanskrit": "evamāścaryamākhyānamucyatāṃ me yathākramam / kutaḥ kasya kimetadvā paramo hi sa vismayaḥ //",
+    "english": "Please to explain to me this wonderful narration of yours, in due order; as to who he is and whence and wherefore he comes in this questionable form.",
+    "morphology": "evam_evam_ āścaryam_āścarya_SNNe ākhyānam_ākhyāna_SNNe ucyatām_vac_SPr3ImPv me_mad_SG yathākramam_yathākramam_  / kutas_kutas_ kasya_ka_SGM kim_ka_SNNe etat_etad_SNNe vā_vā_ paramaḥ_parama_SNM hi_hi_ sa_tad_SNM vismayaḥ_vismaya_SNM  /"
+  },
+  {
+    "index": 34949,
+    "sanskrit": "nara iti vacanaṃ cāturvarṇyādhikārārtham //",
+    "english": "\"Man\" This term has been added for the purpose of indicating that what is here stated applies to all the four castes.",
+    "morphology": "naraḥ_nṛ_PNM iti_iti_ vacanam_vacana_SNNe cāturvarṇya_cāturvarṇya_Cp adhikāra_adhikāra_Cp artham_artha_SAM  /"
+  },
+  {
+    "index": 34950,
+    "sanskrit": "dinādikalpanotthe tu naiyatye sarvanityatā | dinamāsarkṣavarṣādinaiyatyāducyate tadā |",
+    "english": "Regularity of observance is the universal phenomenon of recurrence of days, months, movement of asterisks, and beginning of the day of the year. This is why observances related to them are known as niyata, determined.",
+    "morphology": "dina_dina_Cp ādi_ādi_Cp kalpanā_kalpanā_Cp utthe_uttha_SLNe tu_tu_ naiyatye_naiyatya_SLNe sarva_sarva_Cp nitya_nitya_Cp tā_tā_SNF  / dina_dina_Cp māsa_māsa_Cp ṛkṣa_ṛkṣa_Cp varṣa_varṣa_Cp ādi_ādi_Cp naiyatyāt_naiyatya_SBNe ucyate_vac_"
+  },
+  {
+    "index": 34951,
+    "sanskrit": "api ca abhidhānābhidheyaniyamaniyogarūpaḥ samayaḥ jñānam eva na tato 'rthāntaram /",
+    "english": "In other words, a convention implies that the word denotes this object but nothing else. Thus a con- vention is only a piece of knowledge.",
+    "morphology": "api_api_ ca_ca_ abhidhāna_abhidhāna_Cp abhidheya_abhidheya_Cp niyama_niyama_Cp niyoga_niyoga_Cp rūpaḥ_rūpa_SNM samayaḥ_samaya_SNM jñānam_jñāna_SNNe eva_eva_ na_na_ tatas_tatas_ artha_artha_Cp antaram_antara_SNNe  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37728,
+    "sanskrit": "bāhya sparśeṣu asakta ātmā vindati ātmani yat sukham",
+    "english": "He whose mind is not attached to external objects of sense, obtaineth that happiness which is in self;",
+    "morphology": "bāhya_bāhya_Cp sparśeṣu_sparśa_PLM asakta_asakta_SNF"
+  },
+  {
+    "index": 37729,
+    "sanskrit": "varaḥ varāhaḥ vara daḥ vara īśaḥ su mahā svanaḥ",
+    "english": "Thou art he whose grace is very great. Thou art the great subjugator.",
+    "morphology": "vaḥ_vara_SNM varāhaḥ_varāha_SNM vara_vara_MCp daḥ_da_SNM vara_vara_MCp īśaḥ_īśa_SNM"
+  },
+  {
+    "index": 37730,
+    "sanskrit": "audārikasya pūrvaṃ darśanāt /",
+    "english": "According to the Vaibhāṣikas, because one first sees that which is the coarsest.",
+    "morphology": "audārikasya_audārika_SGM pūrvam_pūrvam_"
+  },
+  {
+    "index": 37731,
+    "sanskrit": "manorājyamapi prājñā labhante vyavasāyinaḥ / gādhinā svapnasaṃdṛṣṭaṃ gatvā labdhamakhaṇḍitam //",
+    "english": "He travelled onward, and obtained at last the sight of the country he had seen in his dream; as intelligent and wayfaring men, reach to their desired destinations in distant regions.",
+    "morphology": "manaḥ_manas_Cp rājyam_rājya_SANe api_api_ prājñāḥ_prājña_PNM labhante_labh_PPr3In vyavasāyinaḥ_vyavasāyin_PNM  / gādhinā_gādhin_SIM svapna_svapna_Cp saṃdṛṣṭaḥ_saṃdṛś_SNPaF gāthā_gāthā_SNF āhṛṣṭaḥ_āhṛ_SNPaF "
+  },
+  {
+    "index": 37732,
+    "sanskrit": "sa dharma ucyate tādṛg iti / yato 'bhyudayaniḥśreyasasiddhiḥ sa dharma iti vacanāt //",
+    "english": "‘This is what is described as Dharma’ as is clear from the assertion (in the Vaiśeṣika-Sūtra) that ‘Dharma is that from which follows the fulfilment of Prosperity and the Highest Good’.",
+    "morphology": "sa_tad_SNM dharmaḥ_dharma_SNM ucyate_vac_SPr3InPv tādṛś_tādṛś_SNM iti_iti_  / yatas_yatas_ abhyudaya_abhyudaya_Cp niḥśreyasa_niḥśreyasa_Cp siddhiḥ_siddhi_SNF sa_tad_SNM dharmaḥ_dharma_SNM iti_iti_  /"
+  },
+  {
+    "index": 37733,
+    "sanskrit": "īśvara uvāca | evaṃ snātvā vidhānena dattvārghyaṃ ca mahodadhau | saṃpūjya gaṃdhapuṣpaiśca vastraiḥ puṣpāvalepanaiḥ || 2 || hiraṇmayaṃ yathāśaktyā prakṣipettatra kaṃkaṇam | tataḥ pitṝṃstarpayitvā gaccheddevaṃ kapardinam || 3 ||",
+    "english": "2-3. After duly taking the holy bath, offering the Arghya in the great ocean and worshipping it with scented flowers, garments and floral unguents, the pilgrim should cast into it a golden bracelet in accordance with his capacity. Then he should offer libations to the Pitṛs and go to Lord Kapardin.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / evam_evam_ snātvā_snā_Co vidhānena_vidhāna_SINe dattvā_dā_Co arghyam_arghya_SANe ca_ca_ mahā_mahat_Cp udadhau_udadhi_SLM  / saṃpūjya_sampūjay_Co gandha_gandha_Cp puṣpaiḥ_puṣpa_PINe ca_ca_ vast"
+  },
+  {
+    "index": 37734,
+    "sanskrit": "yadi sambandhasambandhātsambandhato vā dhavādivyaktiṣu vanaśabdasya pravṛttistadaiko 'pi pādapo vanam ityevamucyeta, pravṛttinimittasya vidyamānatvāt /",
+    "english": "If the application of the word ‘vana’ to Individual Trees, Dhava and the rest, be due only to the presence of the connection of the Connected, or of Connection itself, then even a single tree could be spoken of as ‘Vana’; as the basis of the application would be present there.",
+    "morphology": "yadi_yadi_ sambandha_sambandha_Cp sambandhāt_sambandha_SBM sambandhataḥ_sambandha_SBM vā_vā_ dhava_dhava_Cp ādi_ādi_Cp vyaktiṣu_vyakti_PLF vana_vana_Cp śabdasya_śabda_SGM pravṛttiḥ_pravṛtti_SNF tadā_tadā_ ekaḥ_eka_SNM api_api_ pādapa"
+  },
+  {
+    "index": 37735,
+    "sanskrit": "mahadbhiḥ samare tasmin anyonyam abhijaghnatuḥ vividhaiḥ parvata agraiḥ ca nānā dhātubhiḥ ācitaiḥ teṣām śabdaḥ mahān āsīt vajrāṇām bhidyatām iva",
+    "english": "The clash of those trees and mountain-summits became very loud like the roar of driving thunder.",
+    "morphology": "mahadbhiḥ_mahat_PIM samare_samara_SLNe tasmin_tad_SLNe anyonyam_anyonya_SAM abhijaghnatuḥ_abhihan_DuPs3In vividhaiḥ_vividha_PINe parvata_parvata_MCp agraiḥ_agra_PINe ca_ca_U nānā_nānā_U dhātubhiḥ_dhātu_PIM ācitaiḥ_āci_PIPaPsNe teṣām_"
+  }
+]

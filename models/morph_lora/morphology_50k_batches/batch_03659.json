@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29264,
+    "sanskrit": "evaṃ nāmāni devasya saṃkṣepātkīrtitāni me | vistarātkathituṃ naiva śakyaṃte kālagauravāt || 22 ||",
+    "english": "22. Thus the names of the Lord have been described briefly by me. They cannot be expounded in detail because of the greatness of time (required for it).",
+    "morphology": "evam_evam_ nāmāni_nāman_PNNe devasya_deva_SGM saṃkṣepāt_saṃkṣepa_SBM kīrtitāni_kīrtay_PNPaNe me_mad_SG  / vistarāt_vistara_SBM kathitum_kath_In na_na_ eva_eva_ śakyate_śak_SPr3InPv kāla_kāla_Cp gauravāt_gaurava_SBNe  /"
+  },
+  {
+    "index": 29265,
+    "sanskrit": "adbhyaḥ agniḥ brahmataḥ kṣatram aśmanaḥ loham utthitam",
+    "english": "Fire hath sprung from water, the Kshatriya from the Brahmana, and iron from stone.",
+    "morphology": "adbhyaḥ_ap_PBF agniḥ_agni_SNM brahmataḥ_brahman_SBM kṣatram_kṣatra_SNNe aśmanaḥ_aśman_SBM loham_loha_SNNe utthitaḥ_utthā_SNPaPsNe"
+  },
+  {
+    "index": 29266,
+    "sanskrit": "tatkāritapraśriyatā vṛttaṃ saṃśrayiṇaḥ śrutaṃ //",
+    "english": "The code of conduct for those seeking refuge has been heard.",
+    "morphology": "tad_tad_Cp kārita_kāray_PaCp praśriyatā_praśriyat_SIF vṛttam_vṛtta_SNNe saṃśrayiṇaḥ_saṃśrayin_SGM  /"
+  },
+  {
+    "index": 29267,
+    "sanskrit": "ayogī naiva jānāti jātyandho hi ghaṭaṃ yathā //",
+    "english": "One who is not a yogin never knows it just as a bornblind person does not know the pot.",
+    "morphology": "ayogī_ayogin_SNM na_na_ eva_eva_ jānāti_jñā_SPr3In jātyandhaḥ_jātyandha_SNM hi_hi_ ghaṭam_ghaṭa_SAM yathā_yathā_"
+  },
+  {
+    "index": 29268,
+    "sanskrit": "svāmidruhaḥ kṛtaghnāśca ye ca viśraṃbhaghātakāḥ | teṣāṃ kvāpi gatirnāsti muktvā vārāṇasīṃ purīm || 14 ||",
+    "english": "114. There is no refuge anywhere except at the city of Vārāṇasī to those who are disloyal traitors to their masters, who are ungrateful and who kill treacherously.",
+    "morphology": "svāmi_svāmin_Cp druhaḥ_druh_PNM kṛtaghnāḥ_kṛtaghna_PNM ca_ca_ ye_yad_PNM ca_ca_ viśraṃbha_viśrambha_Cp ghātakāḥ_ghātaka_PNM  / teṣām_tad_PGM kvāpi_kvāpi_ gatiḥ_gati_SNF nā_na_ asti_as_SPr3In muktvā_muc_Co vārāṇasīm_vārā"
+  },
+  {
+    "index": 29269,
+    "sanskrit": "ityāhuticatuṣkantu datvā kuryāttu yojanāṃ / vahnikuṇḍārcitaṃ devaṃ maṇḍalābhyarcite śive //",
+    "english": "So also to firegod, the accomplishes After having made four oblations, the union of the gods respectively worshipped in the sacrificial pit and the mystic circle of lord Śiva should be brought about.",
+    "morphology": "iti_iti_ āhuti_āhuti_Cp catuṣkam_catuṣka_SANe tu_tu_ da_da_Cp tvā_tvad_SA kuryāt_kṛ_SPr3O tu_tu_ yojanām_yojana_SAF  / vahnikuṇḍa_vahnikuṇḍa_Cp arcitam_arcay_SAPaM devam_deva_SAM maṇḍala_maṇḍala_Cp abhyarcite_abhyarc_SLPaM śive_"
+  },
+  {
+    "index": 29270,
+    "sanskrit": "na te janma na vā śīlaṃ na deśo na kulaṃ ca te | itthaṃ bhūtopīśvaratvaṃ trilokyāḥ kāmamāvahe ||",
+    "english": "103. You have neither birth nor conduct of life. You have neither a native land nor a family. Even so you are the lord of the three worlds. You fulfil the desires of the three worlds.",
+    "morphology": "na_na_ te_tvad_SG janma_janman_SNNe na_na_ vā_vā_ śīlam_śīla_SNNe na_na_ deśaḥ_deśa_SNM na_na_ kulam_kula_SNNe ca_ca_ te_tvad_SG  / ittham_ittham_ bhūta_bhū_PaCp upīśvara_upīśvara_Cp tvam_tva_SANe trilokyāḥ_trilokī_SGF kāmam_kāmam_ ā"
+  },
+  {
+    "index": 29271,
+    "sanskrit": "sālambanā viṣayagrahaṇāt /",
+    "english": "\"have an object\" or \"a subject of consciousness,\" because they grasp their \"sphere;",
+    "morphology": "sa_sa_ ālambanā_ālambana_SNF viṣaya_viṣaya_Cp grahaṇāt_grahaṇa_SBNe  /"
+  }
+]

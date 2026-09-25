@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4120,
+    "sanskrit": "aindram pāśupatam brāhmam sthūṇākarṇam ca mādhava mantrāḥ tatra bhaviṣyanti prayuktāḥ savyasācinā",
+    "english": "The weapons called Aindra, Pasupata, Brahma, and Sthunakarna, applied by Arjuna, will, O Madhava, be the mantras (of that sacrifice).",
+    "morphology": "aindram_aindra_SNNe pāśupatam_pāśupata_SNNe brāhmam_brāhma_SNNe sthūṇākarṇam_sthūṇākarṇa_SNNe ca_ca_U mādhava_mādhava_MCp mantrāḥ_mantra_PNM tatra_tatra_U bhaviṣyanti_bhū_PFu3In prayuktāḥ_prayuj_PNPaPsM savyasācinā_savyasāci"
+  },
+  {
+    "index": 4121,
+    "sanskrit": "agnir manyum pratinudan purastāt | adabdho gopāḥ pari pāhi nas tvam |",
+    "english": "Agni, driving away wrath in front [2], As guardian unfailing, do thou guard us on all sides;",
+    "morphology": "agniḥ_agni_SNM manyum_manyu_SAM pratinudan_pratinud_SNPaPrM purastāt_purastāt_  / adabdhaḥ_adabdha_SNM gopāḥ_gopā_SNM pari_pari_ pāhi_pā_SPr2Im naḥ_mad_PA tvam_tvad_SN"
+  },
+  {
+    "index": 4122,
+    "sanskrit": "tasyādya yāvadanagha pravāhapatite nije / karmaṇyacalasaṃkāśasthiraṃ cittamavasthitam //",
+    "english": "It is obedience to the Divine ordinance, that the gods are still employed in their fixed charges with their steady minds.",
+    "morphology": "tasya_tad_SGM adya_adya_ yāvat_yāvat_ anagha_anagha_SVM pravāha_pravāha_Cp patite_pat_SLPaNe nije_nija_SLNe  / karmaṇi_karman_SLNe acala_acala_Cp saṃkāśa_saṃkāśa_Cp sthiram_sthira_SNNe cittam_citta_SNNe avasthitam_avasthā_SNPaNe  /"
+  },
+  {
+    "index": 4123,
+    "sanskrit": "[p.295] yadyapyasau na pratīyate tathāpyastyeveti cedāha svarūpotpādetyādi /",
+    "english": "It might be said that “even though it is not apprehended, it may be there all the same”; hence it is added ‘In fact, etc. etc.’;",
+    "morphology": "yadi_yadi_ api_api_ asau_adas_SNM na_na_ pratīyate_pratī_SPr3InPv tathā_tathā_ api_api_ asti_as_SPr3In eva_eva_ iti_iti_ ced_ced_ āha_ah_SPs3In svarūpa_svarūpa_Cp utpāda_utpāda_Cp ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 4124,
+    "sanskrit": "evañ coddeśalakṣaṇayor ekaviṣayatā nitarāṃ darśitā bhavati /",
+    "english": "Thus, the thorough agreement between the general statement and the specified ones has been perfectly maintained.",
+    "morphology": "evam_evam_ ca_ca_ uddeśa_uddeśa_Cp lakṣaṇayoḥ_lakṣaṇa_DuGNe eka_eka_Cp viṣaya_viṣaya_Cp tā_tā_SNF nitarām_nitarām_ darśitā_darśay_SNPaF"
+  },
+  {
+    "index": 4125,
+    "sanskrit": "yathā ca eva uktavān bhīmaḥ tvām uddiśya sa bāndhavam kartā aham karmaṇaḥ tasya kuru kāryāṇi sarvaśas",
+    "english": "I shall certainly accomplish all which Bhima hath said adverting to thee with all thy followers.",
+    "morphology": "yathā_yathā_U ca_ca_U eva_eva_U uktavān_vac_SNPaPsM bhīmaḥ_bhīma_SNM tvām_tvad_SA uddiśya_uddiś_Co sa_sa_U bāndhavam_bāndhava_SAM kartā_kṛ_SFu3In aham_mad_SN karmaṇaḥ_karman_SGNe tasya_tad_SGNe kuru_kṛ_SPr2Im kāryāṇi_kārya_PANe sa"
+  },
+  {
+    "index": 4126,
+    "sanskrit": "kṛṣṇājinottarīyeṣu kūrceṣu ca vṛsīṣu ca | sūte ca teṣāṃ madhyasthaṃ kathayānaṃ kathāḥ śubhāḥ || 30 ||",
+    "english": "30. They were seated on Darbha grass covered with antelope-skins as well as Bṛsīs (special mats) Sūta was seated in their midst narrating excellent tales and legends.",
+    "morphology": "kṛṣṇājina_kṛṣṇājina_Cp uttarīyeṣu_uttarīya_PLNe kūrceṣu_kūrca_PLNe ca_ca_ vṛsīṣu_vṛsī_PLF ca_ca_  / sūte_sūta_SLM ca_ca_ teṣām_tad_PGM madhya_madhya_Cp stham_stha_SAM kathayānam_kathayāna_SAM kathāḥ_kathā_PAF śubh"
+  },
+  {
+    "index": 4127,
+    "sanskrit": "yatreti viśeṣaṇamanarthakaṃ prāptamiti cet / na /",
+    "english": "iv In that case, the qualifying term ‘wherein’ becomes meaningless No;",
+    "morphology": "yatra_yatra_ iti_iti_ viśeṣaṇam_viśeṣaṇa_SNNe anarthakam_anarthaka_SNNe prāptam_prāp_SNPaNe iti_iti_ ced_ced_  / na_na_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23592,
+    "sanskrit": "brahmāṇamāha jagatāmaṃbā sapraśrayā girā | pitāmaha jagannātha viditaṃ sarvameva yat || 22 || mokṣadaṃ sarvajaṃtūnāmetatkṣetraṃ samādiśa | kāmākhyaṃ kṣetrapālaṃ ca vimalaṃ vā tapāsthitā || 23 ||",
+    "english": "22-26. “O Lord of the worlds, O Brahmā, everything is known (to you). Declare that this holy spot bestows salvation on all creatures. Perform penance with Kāmākhya (‘one whose name is Kāma’) and Kṣetrapāla (the Guardian of the holy spot) or Vimala in view (Defective Text).",
+    "morphology": "brahmāṇam_brahman_SAM āha_ah_SPs3In jagatām_jagant_PGNe aṃbā_ambā_SNF sa_sa_ praśrayā_praśraya_SNF girā_gir_SIF  / pitāmaha_pitāmaha_SVM jagannātha_jagannātha_SVM viditam_vid_SNPaNe sarvam_sarva_SNNe eva_eva_ yat_yad_SNNe  / mokṣa_mokṣ"
+  },
+  {
+    "index": 23593,
+    "sanskrit": "ekādaśabhiraiśvaryaṃ cakragaḥ saṃprayacchati | nirvāṇaṃ dvādaśātmā ca dvādaśabhirdadāti ca || 63 ||",
+    "english": "63. The stone having marks of eleven discuses bestows one with power and might, while the stone bearing marks of twelve discuses blesses one with salvation.",
+    "morphology": "ekādaśabhiḥ_ekādaśan_PINe aiśvaryam_aiśvarya_SANe cakra_cakra_Cp gaḥ_ga_SNM saṃprayacchati_saṃprayam_SPr3In  / nirvāṇam_nirvāṇa_SANe dvādaśa_dvādaśan_Cp ātmā_ātman_SNM ca_ca_ dvādaśabhiḥ_dvādaśan_PINe anyaiḥ_anya_PINe any"
+  },
+  {
+    "index": 23594,
+    "sanskrit": "niyatasya tu saṃnyāsaḥ karmaṇaḥ na upapadyate",
+    "english": "The renunciation of an act prescribed (in the scriptures) is not proper.",
+    "morphology": "niyataḥ_niyam_SNPaPsM"
+  },
+  {
+    "index": 23595,
+    "sanskrit": "tatpatraistatphalairvāpi saṃpūjyaḥ karuṇeśvaraḥ | yo na jānāti talliṃgaṃ samyagjñānavivarjitaḥ || 25 ||",
+    "english": "25-28. Karuṇeśvara may also be worshipped with the leaves or the fruits thereof (i.e. of the Karuṇāmallikā plant). If a person devoid of perfect knowledge does not know that Liṅga, he will worship Karuṇā plant uttering “May the Lord of Devas be pleased.”",
+    "morphology": "tad_tad_Cp patraiḥ_pattra_PINe tad_tad_Cp phalaiḥ_phala_PINe vā_vā_ api_api_ saṃpūjyaḥ_sampūjay_SNMGd karuṇeśvaraḥ_karuṇeśvara_SNM  / yaḥ_yad_SNM na_na_ jānāti_jñā_SPr3In __tad_SNF __yad_SNF"
+  },
+  {
+    "index": 23596,
+    "sanskrit": "anyasmin jñāta sambandhe na ca anyaḥ bodhakaḥ bhavet | go śabde jñāta sambandhe na aśva śabdaḥ hi vācakaḥ ||",
+    "english": "If the relationship has been recognised with one word, any other word cannot be expressive of that meaning (whose relationship has been cognised with another word). for example, when the relationship has been recognised with the word ‘cow’, that does not make the ‘word ‘horse’ expressive (of that meaning)”.—[Ślokavārtika—eternality of words, 244-245]",
+    "morphology": "anyasmin_anya_SLM jñāta_jñā_PaPsCp sambandhe_sambandha_SLM na_na_U ca_ca_U anyaḥ_anya_SNM bodhakaḥ_bodhaka_SNM bhavet_bhū_SPr3O  / go_go_MCp śabde_śabda_SLM jñāta_jñā_PaPsCp sambandhe_sambandha_SLM na_na_U aśva_aśva_MCp śabdaḥ_śabda_SN"
+  },
+  {
+    "index": 23597,
+    "sanskrit": "atrāpyudāharantīmamitihāsaṃ purātanam | nāradasya ca saṃvādamṛṣernārāyaṇasya ca || 22 ||",
+    "english": "22. Here, they cite this ancient legend in the form a dialogue between Nārada and Sage Nārāyaṇa.",
+    "morphology": "atra_atra_ api_api_ udāharanti_udāhṛ_PPr3In imam_idam_SAM itihāsam_itihāsa_SAM purātanam_purātana_SAM  / nāradasya_nārada_SGM ca_ca_ saṃvādam_saṃvāda_SAM ṛṣeḥ_ṛṣi_SGM nārāyaṇasya_nārāyaṇa_SGM ca_ca_"
+  },
+  {
+    "index": 23598,
+    "sanskrit": "tāvanmayā drutaṃ gatvā sa pṛṣṭaḥ kautukānnṛpaḥ | sevyamāno'pi gandharvaiḥ samaṃtādbuddhitatparaiḥ || 41 ||",
+    "english": "41. By that time, I hastened to him out of curiosity. Even as he continued to be attended upon by the Gandharvas with keen intellect all round, I asked him:",
+    "morphology": "tāvat_tāvat_ mayā_mad_SI drutam_drutam_ gatvā_gam_Co sa_tad_SNM pṛṣṭaḥ_pracch_SNPaM kautukāt_kautuka_SBNe nṛpaḥ_nṛpa_SNM  / sevyamānaḥ_sev_SNPaPrMPv api_api_ gandharvaiḥ_gandharva_PIM samaṃtāt_samaṃtāt_ buddhi_buddhi_Cp tatpar"
+  },
+  {
+    "index": 23599,
+    "sanskrit": "yāvajjīvetsukhaṃ jīvedṛṇaṃ kṛtvā ghṛtaṃ pibet|",
+    "english": "While life remains let a man live happily, let him feed on ghee even though he runs in debt;",
+    "morphology": "yāvat_yāvat_"
+  }
+]

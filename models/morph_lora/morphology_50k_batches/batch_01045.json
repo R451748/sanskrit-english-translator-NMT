@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8352,
+    "sanskrit": "saṃnivṛttān tatas tān tu dṛṣṭvā rājā suyodhanaḥ abravīt tvaritaḥ gatvā bhīṣmam śāṃtanavam vacaḥ",
+    "english": "And king Duryodhana, beholding that army of his rallied for the fight, quickly repaired to Santanu's son Bhishma and Chapter XVIII said these words.",
+    "morphology": "saṃnivṛttān_saṃnivṛt_PAPaPsM tatas_tatas_U tān_tad_PAM tu_tu_U dṛṣṭvā_dṛś_Co rājā_rājan_SNM suyodhanaḥ_suyodhana_SNM abravīt_brū_SPs3In tvaritaḥ_tvar_SNPaPsM gatvā_gam_Co bhīṣmam_bhīṣma_SAM śāṃtanavam_śāṃtanava_S"
+  },
+  {
+    "index": 8353,
+    "sanskrit": "darśanātmama bhaktānāṃ mṛtyumāpnoti yaḥ kvacit | vinā matsmaraṇātputra muktimeti sa mānavaḥ || 43 ||",
+    "english": "43. If any man dies anywhere within the sight of my devotees, he shall attain salvation even without remembering me.",
+    "morphology": "darśanāt_darśana_SBNe mama_mad_SG bhaktānām_bhakta_PGM mṛtyum_mṛtyu_SAM āpnoti_āp_SPr3In yaḥ_yad_SNM kvacid_kvacid_  / vinā_vinā_ mad_mad_Cp smaraṇāt_smaraṇa_SBNe putra_putra_SVM muktim_mukti_SAF eti_i_SPr3In sa_tad_SNM mānavaḥ_māna"
+  },
+  {
+    "index": 8354,
+    "sanskrit": "taddhaike /",
+    "english": "The Barhis and enclosing-sticks he throws in afterwards .",
+    "morphology": "tat_tad_SANe ha_ha_"
+  },
+  {
+    "index": 8355,
+    "sanskrit": "na veti śaṅkāyām upanayavacanam uccāryate /",
+    "english": "We need not enter into the contents of his arguments since they are deliberately misleading.",
+    "morphology": "na_na_ vā_vā_ iti_iti_ śaṅkāyām_śaṅkā_SLF upanaya_upanaya_Cp vacanam_vacana_SNNe uccāryate_uccāray_SPr3InPv  /"
+  },
+  {
+    "index": 8356,
+    "sanskrit": "atra api udāharanti imam itihāsam purātanam manoḥ prajāpateḥ vādam suvarṇasya ca bhārata tapasvī kaś cit abhavat suvarṇaḥ nāma nāmataḥ",
+    "english": "There was in days of yore an ascetic, O Bharata, of the name of Suvarna.",
+    "morphology": "atra_atra_U api_api_U udāharanti_udāhṛ_PPr3In imam_idam_SAM itihāsam_itihāsa_SAM purātanam_purātana_SAM manoḥ_manu_SGM prajāpateḥ_prajāpati_SGM vādam_vāda_SAM suvarṇasya_suvarṇa_SGM ca_ca_U bhārata_bhārata_SVM tapasvī_tapasvin_SNM ka"
+  },
+  {
+    "index": 8357,
+    "sanskrit": "maṇināgam tatas gatvā go sahasra phalam labhet naityakam bhuñjate yaḥ tu maṇināgasya mānavaḥ",
+    "english": "Proceeding next to Maninaga, one obtains the merit of giving away a thousand kine.",
+    "morphology": "maṇināgam_maṇināga_SAM tatas_tatas_U gatvā_gam_Co go_go_U sahasra_sahasra_NeCp phalam_phala_SANe labhet_labh_SPr3O naityakam_naityaka_SANe bhuñjate_bhuj_SPr3In yaḥ_yad_SNM tu_tu_U maṇināgasya_maṇināga_SGM mānavaḥ_mānava_SNM"
+  },
+  {
+    "index": 8358,
+    "sanskrit": "gatvā cāntaḥpuraṃ tasyāḥ praviśyādṛṣṭa eva ca / damayantyāḥ śaśaṃsaiva devādeśaṃ tathaiva tam //",
+    "english": "And he entered the apartments of Damayantī without being seen, and delivered that command of the gods, exactly as it was given.",
+    "morphology": "gatvā_gam_Co ca_ca_ antaḥpuram_antaḥpura_SANe tasyāḥ_tad_SGF praviśya_praviś_Co adṛṣṭaḥ_adṛṣṭa_SNM eva_eva_ ca_ca_  / damayantyāḥ_damayantī_SGF śaśaṃsa_śaṃs_SPs3In eva_eva_ deva_deva_Cp ādeśam_ādeśa_SAM tathā_tathā_"
+  },
+  {
+    "index": 8359,
+    "sanskrit": "aduṣṭāḥ hi striyaḥ ratnam āpaḥ iti eva dharmataḥ",
+    "english": "women, jewels and other valuables, and water, can never, according to the scriptures, be impure or unclean.",
+    "morphology": "aduṣṭāḥ_aduṣṭa_PNF hi_hi_U striyaḥ_strī_PNF ratnam_ratna_SNNe āpaḥ_ap_PNF iti_iti_U eva_eva_U dharmataḥ_dharma_SBM"
+  }
+]

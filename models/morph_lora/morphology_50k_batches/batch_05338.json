@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42696,
+    "sanskrit": "evam uktvā sa sacivaṃ vikramādityabhūpatiḥ / dinakṛtyaṃ sa kṛtvā taṃ vyasṛjatsaparicchadam //",
+    "english": "He said, “So be it,” and departed;",
+    "morphology": "evam_evam_ uktvā_vac_Co sa_tad_SNM sacivam_saciva_SAM vikramāditya_vikramāditya_Cp bhūpatiḥ_bhūpati_SNM  / dinakṛtyam_dinakṛtya_SANe saḥ_tad_SNM kṛtvā_kṛ_Co tam_tad_SAM vyasṛjat_visṛj_S3ImIn sa_sa_ paricchadam_paricchada_SAM  /"
+  },
+  {
+    "index": 42697,
+    "sanskrit": "iha yadātmakaṃ kāraṇaṃ tadātmakaṃ kāryamiti yathā kṛṣṇatantukṛtaḥ kṛṣṇa eva paṭo bhavati /",
+    "english": "In this world, the effect has the same essence as the cause has e.g., a piece of cloth woven out of black yarn will be black.",
+    "morphology": "iha_iha_ yad_yad_Cp ātmakam_ātmaka_SNNe kāraṇam_kāraṇa_SNNe tad_tad_Cp ātmakam_ātmaka_SNNe kāryam_kārya_SNNe iti_iti_ yathā_yathā_ kṛṣṇa_kṛṣṇa_Cp tantu_tantu_Cp kṛtaḥ_kṛ_SNPaM kṛṣṇaḥ_kṛṣṇa_SNM eva_eva_ paṭa"
+  },
+  {
+    "index": 42698,
+    "sanskrit": "brahmaṇaḥ pate tvam asya yantā su uktasya bodhi tanayam ca jinva viśvam tat bhadram yat avanti devāḥ br̥hat vadema vidathe su vīrāḥ",
+    "english": "O Brahmaṇaspati, be thou controller of this our hymn, and prosper thou our children. All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.",
+    "morphology": "brahmaṇaḥ_brahman_SGNe pate_pati_SVM tvam_tvad_SN asya_idam_SGNe yantā_yantṛ_SNM su_su_U uktasya_vac_SGPaPsNe bodhi_bhū_SPs2Im tanayam_tanaya_SAM ca_ca_U jinva_jinv_SPr2Im viśvam_viśva_SANe tat_tad_SANe bhadram_bhadra_SANe yat_yad_SANe avanti_av_"
+  },
+  {
+    "index": 42699,
+    "sanskrit": "tejaḥ śukras |",
+    "english": "people are connected with the All-gods, the Çukra is brilliance;",
+    "morphology": "tejaḥ_tejas_SNNe"
+  },
+  {
+    "index": 42700,
+    "sanskrit": "śūrāṇām harṣa jananī bhīrūṇām bhaya vardhinī prāvartata nadī raudrā kuru sṛñjaya saṃkulā",
+    "english": "Inspiring the brave with delight and enhancing the fears of the timid, that fierce river set in, whose shores abounded with Kurus and Srinjayas.",
+    "morphology": "śūrāṇām_śūra_PGM harṣa_harṣa_MCp jananī_janana_SNF bhīrūṇām_bhīru_PGM bhaya_bhaya_NeCp vardhinī_vardhin_SNF prāvartata_pravṛt_SPs3In nadī_nadī_SNF raudrā_raudra_SNF"
+  },
+  {
+    "index": 42701,
+    "sanskrit": "asitasyānujaḥ pūrvaṃ pīḍayā kṛtavāṃstapaḥ | mūlagrāheṇa viśvasya devalo nāma tāpasaḥ || purandareṇa śaptastu tapasvī yaśca susthiram | adharmyaṃ dharmamala malliṃgamāradhya kāmadam ||",
+    "english": "60-61. The ascetic Devala, younger brother of Asita, harassed the universe formerly by clutching at its root. He was then cursed by the lord, destroyer of cities. He performed penance by propitiating the phallic image that bestows all desires and removes the past evil.",
+    "morphology": "asitasya_asita_SGM anujaḥ_anuja_SNM pūrvam_pūrvam_ pīḍayā_pīḍā_SIF kṛtavān_kṛ_SNPaM tapaḥ_tapas_SANe  / mūla_mūla_Cp grāheṇa_grāha_SIM viśvasya_viśva_SGM devalaḥ_devala_SNM nāma_nāma_ tāpasaḥ_tāpasa_SNM  / purandareṇa_p"
+  },
+  {
+    "index": 42702,
+    "sanskrit": "atrāntare ca tadbuddhvā tam upāgāttapasvinam / śrīdarśanānvito bhaktyā śrīsenanṛpatiḥ svayam //",
+    "english": "In the meanwhile King Śrīsena himself, having heard what had taken place, reverently approached the ascetic, accompanied by Śrīdarśana.",
+    "morphology": "atrā_atra_ antare_antara_SLNe ca_ca_ tat_tad_SANe buddhvā_budh_Co tam_tad_SAM upāgāt_upagā_SPs3In tapasvinam_tapasvin_SAM  / śrī_śrī_Cp darśana_darśana_Cp anvitaḥ_anvita_SNM bhaktyā_bhakti_SIF śrīsena_śrīsena_Cp nṛpatiḥ_nṛpati_SNM s"
+  },
+  {
+    "index": 42703,
+    "sanskrit": "vyapeta bhīḥ amitrāṇām āvahat su mahat bhayam",
+    "english": "Himself devoid of fear, he inspired his foes with great fear.",
+    "morphology": "vyapeta_vyape_SPs3InPv"
+  }
+]

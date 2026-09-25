@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47064,
+    "sanskrit": "gāvaḥ svargasya sopānam gāvaḥ svarge api pūjitāḥ",
+    "english": "Kine constitute the stairs that lead to heaven. Kine are adorned in heaven itself.",
+    "morphology": "gāvaḥ_go_PNM svargasya_svarga_SGM sopānam_sopāna_SNNe gāvaḥ_go_PNM svarge_svarga_SLM api_api_U pūjāḥ_pūjay_PNPaPsM"
+  },
+  {
+    "index": 47065,
+    "sanskrit": "adhvānaṃ vrajamānasya punarevāgamo bhavet //",
+    "english": "One who undertakes journey under these asterisms would again return home.",
+    "morphology": "adhvānam_adhvan_SAM vrajamānasya_vraj_SGPaPrM punar_punar_ eva_eva_ āgamaḥ_āgama_SNM bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 47066,
+    "sanskrit": "na śokaḥ na jarā tatra na āyāsa paridevane",
+    "english": "And neither grief, nor decrepitude, nor labour, nor repentance also is there.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 47067,
+    "sanskrit": "duryodhana nikārāt ca bāhu vīryāt ca darpitaḥ kṛṣṇa ānayana dṛṣṭaḥ ca vyavardhata vṛkodaraḥ",
+    "english": "And remembering their (late) disgrace at the hands of Duryodhana, and proud of the strength of his arms, and conscious also of Krishna looking at him, Vrikodara began to swell in vigour.",
+    "morphology": "duryodhana_duryodhana_MCp nikārāt_nikāra_SBM ca_ca_U bāhu_bāhu_MCp vīryāt_vīrya_SBNe ca_ca_U darpitaḥ_darpay_SNPaPsM kṛṣṇa_kṛṣṇa_MCp ānayana_ānayana_NeCp dṛṣṭaḥ_dṛś_SNPaPsM ca_ca_U vyavardhata_vivṛdh_SPs3In vṛkodara"
+  },
+  {
+    "index": 47068,
+    "sanskrit": "yūyam rājānam iryam janāya vibhva taṣṭam janayatha yajatrāḥ yuṣmat eti muṣṭi hā bāhu jūtaḥ yuṣmat sat aśvaḥ marutaḥ su vīraḥ",
+    "english": "O worshipful Maruts, you create for man an active king, fashioned by Vibhvan 1; from you comes the man who can fight with his fist, and is quick with his arm, from you the man with good horses and valiant heroes.",
+    "morphology": "yūyam_tvad_PN rājānam_rājan_SAM iryam_irya_SAM janāya_jana_SDM vibhva_vibhvan_Cp taṣṭam_takṣ_SAPaPsM janayatha_janay_PPr2In yajatrāḥ_yajatra_PVM yuṣmat_tvad_PB eti_i_SPr3In muṣṭi_muṣṭi_MCp hā_han_SNM bāhu_bāhu_MCp jūtaḥ_jū_SN"
+  },
+  {
+    "index": 47069,
+    "sanskrit": "vayaḥ tu trividham bālyam madhyam vṛddham iti |",
+    "english": "The three stages of man may be roughly described as",
+    "morphology": "vayaḥ_vayas_SNNe tu_tu_U trividham_trividha_SNNe bālyam_bālya_SNNe madhyam_madhya_SNNe vṛddham_vṛddha_SNNe iti_iti_U"
+  },
+  {
+    "index": 47070,
+    "sanskrit": "saṃtānakatarucchāyā- suptavidyādharādhvagam / yasya copavanaṃ bāhyaṃ sugandhir gandhamādanaḥ //",
+    "english": "Whose outer garden is the fragrant Gandhamadana, in which the Vidyàdhara travellers sleep in the shades of the Santanaka heavenly trees",
+    "morphology": "saṃtānaka_saṃtānaka_Cp taru_taru_Cp chāyā_chāyā_Cp supta_svap_PaCp vidyādhara_vidyādhara_Cp adhvagam_adhvaga_SNNe  / yasya_yad_SGM ca_ca_ upavanam_upavana_SNNe bāhyam_bāhya_SNNe sugandhiḥ_sugandhi_SNM gandhamādanaḥ_gandhamādana_SNM  /"
+  },
+  {
+    "index": 47071,
+    "sanskrit": "rājamārgāḥ ca tatra āsan sumanobhiḥ alaṃkṛtāḥ",
+    "english": "The principal streets of the city were adorned with flowers.",
+    "morphology": "rājamārgāḥ_rājamārga_PNM ca_ca_U tatra_tatra_U āsan_as_PPs3In sumanobhiḥ_sumanas_PIF alaṃkṛtāḥ_alaṃkṛ_PNPaPsM"
+  }
+]

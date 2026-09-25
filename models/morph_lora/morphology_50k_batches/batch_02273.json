@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18176,
+    "sanskrit": "dūtaṃ ca preṣayāmāsa kailāsaṃ parvataṃ prati | gaccha dūta haraṃ brūhi mama vākyena sāṃpratam || 3 ||",
+    "english": "3-5. He sent a messenger to Kailāsa mountain instructing him: “O messenger, go and tell Hara these words of mine now:",
+    "morphology": "dūtam_dūta_SAM ca_ca_ preṣayāmāsa_preṣay_SPs3InPe kailāsam_kailāsa_SAM parvatam_parvata_SAM prati_prati_  / gaccha_gam_SPr2Im dūta_dūta_SVM haram_hara_SAM brūhi_brū_SPr2Im mama_mad_SG vākyena_vākya_SINe sāṃpratam_sāṃpratam_"
+  },
+  {
+    "index": 18177,
+    "sanskrit": "prākcaitasmādvijñānādahamevaṃ kariṣyāmyagnihotrādīni karmāṇyahamatrādhikṛtaḥ /",
+    "english": "Before all this is known, the ordinary man has such notions as‘ shall perform these actions, the Agnihotra and the rest",
+    "morphology": "prāk_prāk_ ca_ca_ etasmāt_etad_SBNe vijñānāt_vijñāna_SBNe aham_mad_SN evam_evam_ kariṣyāmi_kṛ_SFu1In agnihotra_agnihotra_Cp ādīni_ādi_PANe karmāṇi_karman_PANe"
+  },
+  {
+    "index": 18178,
+    "sanskrit": "na vihitapratyabhijñānataḥ kaścit karmabhede hetur asti /",
+    "english": "And since we recognise in these sacrifices the same that have been enjoined, before, there is no reason why they should be regarded as distinct acts.",
+    "morphology": "na_na_ vihita_vidhā_PaCp pratyabhijñānataḥ_pratyabhijñāna_SBNe kaścid_kaścit_SNM karma_karman_Cp bhede_bheda_SLM hetuḥ_hetu_SNM asti_as_SPr3In  /"
+  },
+  {
+    "index": 18179,
+    "sanskrit": "yaḥ hi yam kāmayet kāmam yasmin arthe arcyate punar",
+    "english": "He knows the desire cherished by every one of his PART I worshippers. He becomes acquainted with the object in which one pays him adorations.",
+    "morphology": "yaḥ_yad_SNM"
+  },
+  {
+    "index": 18180,
+    "sanskrit": "tatra prāyaścittiḥ kriyate yadi purejānaḥ syānnināhyādgṛhṇīyāddivā hi tasya tāḥ purā gṛhītā bhavanti yadyu anījānaḥ syādya enamījāna upāvasito vā paryavasito vā syāttasya nināhyādgṛhṇīyāddivā hi tasya tāḥ purā gṛhītā bhavanti //",
+    "english": "And if the sun were to set on any one's (Vasatîvarîs) not having been taken, then expiation is made. If he have performed a (Soma-)sacrifice before this, let him (the Adhvaryu) take it from his tank , sincethat (water) of his has been taken before (sunset) by day. But should he not have offered before, if there be one who has offered (Soma) settled close by or somewhere thereabout , let him take it from his tank, since that (water) of his has been taken before, by day.",
+    "morphology": "tatra_tatra_ prāyaścittiḥ_prāyaścitti_SNF kriyate_kṛ_SPr3InPv yadi_yadi_ purā_purā_ ījānaḥ_yaj_SNPaPsM syāt_as_SPr3O nināhyāt_nināhya_SBNe gṛhṇīyāt_grah_SPr3O divā_divā_ hi_hi_ tasya_tad_SGM tāḥ_tad_PNF purā_purā_ gṛhītā"
+  },
+  {
+    "index": 18181,
+    "sanskrit": "yathā icchasi tathā kṣipram kuru tvam mā vicāraya",
+    "english": "O, do in haste what thou desirest;",
+    "morphology": "yathā_yathā_U"
+  },
+  {
+    "index": 18182,
+    "sanskrit": "tathā saṃbhāṣatām teṣām prādurāsīt dhanaṃjayaḥ didṛkṣuḥ bharata śreṣṭham rājānam sa suhṛd gaṇam",
+    "english": "Dispel thy grief and the fever (of thy heart), O king, and be thou graced with prosperity.'\" SECTION LXXXIV \"Sanjaya said, 'While Yudhishthira, Vasudeva, and others were thus conversing, Dhananjaya came there, desirous of beholding that foremost one of Bharata's race, viz., the king, as also his friends and well-wishers.",
+    "morphology": "tathā_tathā_U saṃbhāṣatām_sambhāṣ_PGPaPrM teṣām_tad_PGM prādurāsīt_prāduras_SPs3In dhanaṃjayaḥ_dhanaṃjaya_SNM didṛkṣuḥ_didṛkṣu_SNM bharata_bharata_MCp śreṣṭham_śreṣṭha_SAM rājānam_rājan_SAM sa_sa_U suhṛd_suh"
+  },
+  {
+    "index": 18183,
+    "sanskrit": "śrīmahādeva uvāca | śṛṇutaṃ sāvadhānena mama vākyaṃ surottamau | yathārthaṃ vacmi vāṃ tāta vāṃ krodhaṃ sarvadāsaham ||",
+    "english": "3. O excellent devas, both of you listen with attention. O dear ones, I shall state the truth. I have always borne your wrath.",
+    "morphology": "śrī_śrī_Cp mahādevaḥ_mahādeva_SNM uvāca_vac_SPs3In  / śṛṇutam_śru_DuPr2Im sa_sa_ avadhānena_avadhāna_SINe mama_mad_SG vākyam_vākya_SANe sura_sura_Cp uttamau_uttama_DuVM  / yathārtham_yathārtha_SANe vacmi_vac_SPr1In vām_tvad_DuA tāta_"
+  }
+]

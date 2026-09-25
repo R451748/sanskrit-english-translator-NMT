@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34360,
+    "sanskrit": "arśeghnaḥ śūraṇaḥ kando mustakaḥ kuruvindakaḥ //",
+    "english": "The other names of sūraṇa are arśoghna and kanda. Mustaka and kuruvindaka are synonyms.",
+    "morphology": "__arśeghna_U __śūraṇa_U __kanda_U __mustaka_U __kuruvindaka_U  /"
+  },
+  {
+    "index": 34361,
+    "sanskrit": "sa gatim paramām prāptaḥ duṣprāpām ajita indriyaiḥ",
+    "english": "He has attained to the highest end--an end which none can win that has not completely subjugated his senses, nor can be won by even any of the deities.",
+    "morphology": "sa_tad_SNM gatim_gati_SAF paramām_parama_SAF prāptaḥ_prāp_SNPaPsM duṣprāpām_duṣprāpa_SAF ajita_ajita_SVM"
+  },
+  {
+    "index": 34362,
+    "sanskrit": "kālamṛtyurapi prājñairnīyate nāpi saṃyutaiḥ | nāsti mṛtyusamaṃ duḥkhaṃ nāsti mṛtyusamaṃ bhayam || 106 ||",
+    "english": "106b-111a. There is no agony like death. There is nothing as fearful as death. There is no terror like death unto all living beings.",
+    "morphology": "kāla_kāla_Cp mṛtyuḥ_mṛtyu_SNM api_api_ prājñaiḥ_prājña_PIM nīyate_nī_SPr3InPv na_na_ api_api_ saṃyutaiḥ_saṃyuta_PIM  / na_na_ asti_as_SPr3In mṛtyu_mṛtyu_Cp samam_sama_SNNe duḥkham_duḥkha_SNNe na_na_ asti_as_SPr3In mṛtyu_mṛ"
+  },
+  {
+    "index": 34363,
+    "sanskrit": "saphalaṃ pānakaṃ meṣamāse sāyaṃ dvijātaye | dadyāttena pitṝṇāṃ tu sudhāpānaṃ na saṃśayaḥ || 50 ||",
+    "english": "50. One should give Pānaka along with fruits in the evening in the month of Meṣa to a Brāhmaṇa. Thereby the Pitṛs shall have a drink of nectar undoubtedly.",
+    "morphology": "sa_sa_ phalam_phala_SANe pānakam_pānaka_SANe meṣa_meṣa_Cp māse_māsa_SLM sāyam_sāyam_ dvijātaye_dvijāti_SDM  / dadyāt_dā_SPr3O tena_tad_SINe pitṝṇām_pitṛ_PGM tu_tu_ sudhā_sudhā_Cp pānam_pāna_SNNe na_na_ saṃśayaḥ_saṃśaya_SNM "
+  },
+  {
+    "index": 34364,
+    "sanskrit": "vara atisargam śrutvā eva kaśyapāt uttamam ca te harṣāt apratimām prītim prāpatuḥ sma vara striyau",
+    "english": "Hearing that their lord was willing to confer on them their choice blessings, those excellent ladies felt transports of joy.",
+    "morphology": "vara_vara_MCp atisargam_atisarga_SAM śrutvā_śru_Co eva_eva_U kaśyapāt_kaśyapa_SBM uttamam_uttama_SAM ca_ca_U te_tad_PNM harṣāt_harṣa_SBM apratimām_apratima_SAF prītim_prīti_SAF prāpatuḥ_prāp_DuPs3In sma_sma_U vara_vara_MCp striyau_strī_D"
+  },
+  {
+    "index": 34365,
+    "sanskrit": "atha atas śoṣapratiṣedham vyākhyāsyāmaḥ||",
+    "english": "Now we shall discourse on the (symptoms and) medical treatment of Phthisis (Shosha-Pratishedha).",
+    "morphology": "atha_atha_U __atas_U __śoṣapratiṣedha_U"
+  },
+  {
+    "index": 34366,
+    "sanskrit": "striyaḥ hi avadhyāḥ sarveṣām ye dharma viduṣaḥ janāḥ brāhmaṇaḥ uvāca prītaḥ asmi tava bhadram te gataḥ krodhaḥ ca śobhane",
+    "english": "O faultless one, it behoveth thee to forgive me, if what I have said be unpalatable, for they that are desirous of acquiring virtue are incapable of injuring women!' \"At these words of the chaste woman, the Brahmana replied, saying, 'I am gratified with thee.",
+    "morphology": "striyaḥ_strī_PNF hi_hi_U avadhyāḥ_avadhya_PNF sarveṣām_sarva_PGM ye_yad_PNM dharma_dharma_MCp viduṣaḥ_vid_PNPaPsM janāḥ_jana_PNM brāhmaṇaḥ_brāhmaṇa_SNM uvāca_vac_SPs3In prītaḥ_prī_SNPaPsM asmi_as_SPr1In tava_tvad_SG bhadram_bha"
+  },
+  {
+    "index": 34367,
+    "sanskrit": "kumbhe gacchatyakumbhatvaṃ kumbhākāśo yathāmbare / tiṣṭhatyevamayaṃ kṣīṇe dehe dehī nirāmayaḥ //",
+    "english": "As a pot being broken, its vacuous part mixes, with the air; so the body being dissolved, the soul remains unhurt in the empty space.",
+    "morphology": "kumbhe_kumbha_SLM gacchati_gam_SPr3In a_a_ kumbha_kumbha_Cp tvam_tva_SANe kumbha_kumbha_Cp ākāśaḥ_ākāśa_SNM yathā_yathā_ ambare_ambara_SLNe  / tiṣṭhati_sthā_SPr3In evam_evam_ ayam_idam_SNM kṣīṇe_kṣi_SLPaM dehe_deha_SLM dehī_dehin_SNM"
+  }
+]

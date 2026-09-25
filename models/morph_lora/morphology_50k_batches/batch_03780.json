@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30232,
+    "sanskrit": "dadataḥ gām hiraṇyam ca brāhmaṇaiḥ abhisaṃvṛtāḥ stūyamānāḥ yayuḥ rājan rathaiḥ maṇi vibhūṣitaiḥ",
+    "english": "And having made presents of kine and gold to the Brahmanas, who walked around them and uttered blessings, the sons of Pandu commenced the march on their cars decked with jewels.",
+    "morphology": "dadataḥ_dā_PNPaPrM gām_go_SAM hiraṇyam_hiraṇya_SANe ca_ca_U brāhmaṇaiḥ_brāhmaṇa_PIM abhisaṃvṛtāḥ_abhisaṃvṛ_PNPaPsM stūyamānāḥ_stu_PNPaPrMPv yayuḥ_yā_PPs3In rājan_rājan_SVM rathaiḥ_ratha_PIM maṇi_maṇi_MCp vibhūṣ"
+  },
+  {
+    "index": 30233,
+    "sanskrit": "na ciraṃ tiṣṭhati dvāri na dvāramupasevate | adāpitaṃ tvayā kiṃcitkasmaicinna dadātyapi || 14 ||",
+    "english": "14. She does not stand at the doorway for a long time; nor does she lie near the doorway and block it. She does not give anything to anyone unless asked by you to give.",
+    "morphology": "na_na_ ciram_ciram_ tiṣṭhati_sthā_SPr3In dvāri_dvār_SLF na_na_ dvāram_dvāra_SANe upasevate_upasev_SPr3In  / a_a_ dāpitam_dāpay_SNPaNe tvayā_tvad_SI kiṃcid_kaścit_SNNe kasmaicid_kaścit_SDM na_na_ dadāti_dā_SPr3In api_api_  /"
+  },
+  {
+    "index": 30234,
+    "sanskrit": "varṇānām anukrameṇa musalādīnām upadeśaṃ manyante /",
+    "english": "Some people hold that the weapons to be carried have been mentioned in the particular order in view of the caste of the thief.",
+    "morphology": "varṇānām_varṇa_PGM anukrameṇa_anukrama_SIM musala_musala_Cp ādīnām_ādi_PGM upadeśam_upadeśa_SAM manyante_man_PPr3In  /"
+  },
+  {
+    "index": 30235,
+    "sanskrit": "bhīmaḥ tu tava putreṇa raṇa śauṇḍena saṃgataḥ",
+    "english": "Bhima was engaged with thy son, that delighter in battle.",
+    "morphology": "bhīmaḥ_bhīma_SNM tu_tu_U tava_tvad_SG putreṇa_putra_SIM raṇa_raṇa_MCp śauṇḍena_śauṇḍa_SIM saṇā_saṇā_SNF"
+  },
+  {
+    "index": 30236,
+    "sanskrit": "arhatameva kecicca palāyanaparāyaṇāḥ | tato vāyuḥ samabhavadvahnimāṃdolayanniva || 28 ||",
+    "english": "Then the Wind blew, as if to kindle the fire all the more.",
+    "morphology": "arhatam_arh_SAPaPrM eva_eva_ kecid_kaścit_PNM ca_ca_ palāyana_palāyana_Cp parāyaṇāḥ_parāyaṇa_PNM  / tatas_tatas_ vāyuḥ_vāyu_SNM samabhavat_sambhū_S3ImIn vahnim_vahni_SAM āṃdolayan_āṃdolay_SNPaPrM iva_iva_  /"
+  },
+  {
+    "index": 30237,
+    "sanskrit": "ślakṣṇaḥ picchila vat jñeyaḥ karkaśaḥ viśadaḥ yathā ||",
+    "english": "Humidity is like sliminess.",
+    "morphology": "ślakṣṇaḥ_ślakṣṇa_SNM picchila_picchila_Cp vat_vat_U jñeyaḥ_jñā_SNMGd karkaśaḥ_karkaśa_SNM viśadaḥ_viśada_SNM yathā_yathā_U  /"
+  },
+  {
+    "index": 30238,
+    "sanskrit": "pṛthivīvāsinaḥ sarve ye ca svarganivāsinaḥ | pātālavāsinastṛptā jāyaṃte liṃgapūjayā || 112 ||",
+    "english": "112. All the residents of the earth, all the dwellers of heaven and all the residents of Pātāla become satisfied by the worship of the Liṅga.",
+    "morphology": "pṛthivī_pṛthivī_Cp vāsinaḥ_vāsin_PNM sarve_sarva_PNM ye_yad_PNM ca_ca_ svarga_svarga_Cp nivāsinaḥ_nivāsin_PNM  / pātāla_pātāla_Cp vāsinaḥ_vāsin_PNM tṛptāḥ_tṛp_PNPaM jāyaṃte_jan_PPr3In liṃga_liṅga_Cp pūjayā_pūjā_SIF  "
+  },
+  {
+    "index": 30239,
+    "sanskrit": "agna āyūṃsi hutvājyaṃ dveṣaṃ nāpnoti kenacit //",
+    "english": "One will not earn enmity with anyone by offering oblations of clarified butter with the repetition of agna āyūṃṣi.",
+    "morphology": "agne_agni_SVM āyūṃsi_āyus_PANe hutvā_hu_Co ājyam_ājya_SANe dveṣam_dveṣa_SAM na_na_ āpnoti_āp_SPr3In kenacid_kaścit_SINe  /"
+  }
+]

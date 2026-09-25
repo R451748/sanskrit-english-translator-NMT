@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32480,
+    "sanskrit": "ityuktavati deveśe tāḥ kanyā hṛṣṭamānasāḥ | praṇamya procurīśānaṃ prabaddhakarasaṃpuṭāḥ || 103 ||",
+    "english": "When the Lord of Devas said thus, those girls became delighted in their minds. They bowed down to Īśāna with hands cupped together in veneration. The Nāga Maidens said:",
+    "morphology": "iti_iti_ uktavati_vac_SLPaM deveśe_deveśa_SLM tāḥ_tad_PNF kanyāḥ_kanyā_PNF hṛṣṭa_hṛṣ_PaCp mānasāḥ_mānasa_PNF  / praṇamya_praṇam_Co procuḥ_pravac_PPs3In īśānam_īśāna_SAM prabaddha_prabandh_PaCp kara_kara_Cp saṃpuṭā"
+  },
+  {
+    "index": 32481,
+    "sanskrit": "yeṣveva śabdeṣu naṭyoga iti / abhakṣyo grāmasūka ityādiṣu / svātmaiveti / svarūpam eva vidhilakṣaṇam /",
+    "english": "‘In those words alone where the negative term is present’, e.g. in such expressions as ‘abhakṣyo grāmasūkaraḥ’, ‘the tame hog is not-to-be-eaten ‘The thing itself’ in the positive form.",
+    "morphology": "yeṣu_yad_PLM eva_eva_ śabdeṣu_śabda_PLM naṭ_naṭ_Cp yogaḥ_yoga_SNM iti_iti_  / abhakṣyaḥ_abhakṣya_SNM grāmasūkaḥ_grāmasūka_SNM ityādiṣu_ityādi_PLM  / sva_sva_Cp ātmā_ātman_SNM eva_eva_ iti_iti_  / svarūpam_svarūpa_SNNe eva_e"
+  },
+  {
+    "index": 32482,
+    "sanskrit": "sarvam balam parityajya durgam saṃśritya tiṣṭhati",
+    "english": "At that time, abandoning everything he lived in misery.",
+    "morphology": "sarvam_sarva_SANe balam_bala_SANe parityajya_parityaj_Co durgam_durga_SANe saṃśritya_saṃśri_Co"
+  },
+  {
+    "index": 32483,
+    "sanskrit": "teṣām havyam ca kavyam ca api arhaṇa artham vidhīyate",
+    "english": "The scriptures ordain that what is offered to the deities and the Pitris in sacrifices and religious rites is meant for the service of guests like these.",
+    "morphology": "teṣām_tad_PGM havyam_havya_SNNe ca_ca_U kavyam_kavya_SNNe ca_ca_U api_api_U arhaṇa_arhaṇa_NeCp artham_artha_SAM vidhīyate_vidhā_SPr3InPv"
+  },
+  {
+    "index": 32484,
+    "sanskrit": "mantriṣu ādhāya tat rājyam vana nityaḥ babhūva ha",
+    "english": "And he of mighty soul and rigid vows made over to his ministers the duties of the state, and became a constant resident of the woods.",
+    "morphology": "mantriṣu_mantrin_PLM ādhāya_ādhā_Co tat_tad_SANe rājyam_rājya_SANe vana_vana_NeCp nityaḥ_nitya_SNM babhūva_bhū_SPs3In ha_ha_U"
+  },
+  {
+    "index": 32485,
+    "sanskrit": "imam ca api aparam bhūyaḥ itihāsam nibodha me",
+    "english": "There is another story which I will narrate. Listen once more to it.",
+    "morphology": "imam_idam_SAM ca_ca_U api_api_U aparam_apara_SAM bhūyaḥ_bhūyas_U itihāsam_itihāsa_SAM"
+  },
+  {
+    "index": 32486,
+    "sanskrit": "jātyādiyojanāṃ ye 'pi kalpanāṃ samupāśritāḥ / tairabhyupeyā niyataṃ pratītir abhilāpinī //",
+    "english": "Even those who are wedded to the notion that conceptual content consists in ‘connection with the universal and the rest’, have to admit that it is ‘idea associated with words’.",
+    "morphology": "jāti_jāti_Cp ādi_ādi_Cp yojanām_yojana_SAF ye_yad_PNM api_api_ kalpanām_kalpanā_SAF samupāśritāḥ_samupāśri_PNPaM  / taiḥ_tad_PIM abhyupeyā_abhyupe_SNFGd niyatam_niyatam_ pratītiḥ_pratīti_SNF abhilāpinī_abhilāpin_SNF  /"
+  },
+  {
+    "index": 32487,
+    "sanskrit": "śvasaṃnidhānato nekṣerann iti yady api śrutam, tathāpi tatpradeśasaṃnidhim eva śiṣṭā nānumanyante /",
+    "english": "Though it has been declared that \"these shall not look at dose quarters,\" yet what the cultured people avoid is these being near the place.",
+    "morphology": "śva_śvan_Cp saṃnidhānataḥ_saṃnidhāna_SBNe na_na_ īkṣeran_īkṣ_PPr3O iti_iti_ yadi_yadi_ api_api_ śrutam_śru_SNPaNe tathā_tathā_ api_api_ tad_tad_Cp pradeśa_pradeśa_Cp saṃnidhim_saṃnidhi_SAM eva_eva_ śiṣṭāḥ_śās_PNPaM na_na"
+  }
+]

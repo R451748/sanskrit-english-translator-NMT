@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28344,
+    "sanskrit": "parivartya tatas vastim baddhvā guptam nidhāpayet",
+    "english": "The mouth of the bladder should then be folded and again tied (below the Karnika).",
+    "morphology": "parivartya_parivartay_Co"
+  },
+  {
+    "index": 28345,
+    "sanskrit": "saḥ avardhata mahā tejāḥ magadha adhipateḥ sutaḥ pramāṇa bala saṃpannaḥ huta āhutiḥ iva analaḥ māgadhaḥ bala saṃpannaḥ iva analaḥ",
+    "english": "And the son of the king of Magadha endued with great energy, began to grow up in bulk and strength like a fire into which hath been poured libation of clarified butter.",
+    "morphology": "saḥ_tad_SNM avardhata_vṛdh_SPs3In mahā_mahat_Cp tejāḥ_tejas_SNM magadha_magadha_MCp adhipateḥ_adhipati_SGM sutaḥ_suta_SNM pramāṇa_pramāṇa_NeCp bala_bala_NeCp saṃpannaḥ_sampad_SNPaPsM huta_hu_PaPsCp āhutiḥ_āhuti_SNM iva_iva_U anala"
+  },
+  {
+    "index": 28346,
+    "sanskrit": "tatrārya maitre yā dhiṣṭhānāi ṇa paramparayā śāstramidamāvirbhūtamucyate /",
+    "english": "For this scripture has been revealed and explained to him through the spiritual influence of Arya Maitreya as a continuation of the Doctrine.",
+    "morphology": "tatra_tatra_ ārya_ārya_SVM maitre_maitra_SLM yā_yad_SNF paramparayā_paramparā_SIF śāstram_śāstra_SNNe idam_idam_SNNe āvirbhūta_āvirbhū_SNPaNe ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 28347,
+    "sanskrit": "śrī trita uvāca gajavat tvam madonmatto 'bhūr janān parimardayanvicaran raìga yatrāyāṃ tvam gajo bhava durmate",
+    "english": "Śrī Trita said: Pushing the people on the way to Raìga kṣetra, you have become like a wild elephant. Fool, then I curse you to become an elephant.",
+    "morphology": "śrī_śrī_SNF tritaḥ_trita_SNM uvāca_vac_SPs3In gaja_gaja_Cp vat_vat_ tvam_tvad_SN mada_mada_Cp unmattaḥ_unmad_SNPaM abhūḥ_bhū_SPs2In janān_jana_PAM parimardayan_parimarday_SNPaPrM vicaran_vicar_SNPaPrM rañga_rañga_SVM yatra_yatra_ āyām_ida"
+  },
+  {
+    "index": 28348,
+    "sanskrit": "saṃskārās teṣu kartavyā ity uktaṃ bhavati /",
+    "english": "And this means that the proper sacramental rites should be performed.",
+    "morphology": "saṃskārāḥ_saṃskāra_PNM teṣu_tad_PLM kartavyāḥ_kṛ_PNMGd iti_iti_"
+  },
+  {
+    "index": 28349,
+    "sanskrit": "agner ahaṃ devayajyayānnādo bhūyāsam ity āha |",
+    "english": "'By sacrifice to the god Agni, may I be an eater of food', he says;",
+    "morphology": "agneḥ_agni_SGM aham_mad_SN deva_deva_Cp yajyayā_yajya_SIF anna_anna_Cp ādaḥ_āda_SNM bhūyāsam_bhū_SPs1 iti_iti_"
+  },
+  {
+    "index": 28350,
+    "sanskrit": "īl̥e agnim vipaḥ citam girā yajñasya sādhanam śruṣṭī vānam dhita vānam",
+    "english": "I magnify 1 with prayer Agni who has knowledge of prayers (?), the accomplisher of sacrifice, who hears us, and in whom (manifold wealth) has been laid down.",
+    "morphology": "īḍe_īḍ_SPr3In agnim_agni_SAM vipaḥ_vip_SGM citam_cit_SAM girā_gir_SIF yajñasya_yajña_SGM sādhanam_sādhana_SAM śruṣṭī_śruṣṭi_SIF vānam_vāna_SAM"
+  },
+  {
+    "index": 28351,
+    "sanskrit": "nahi tāni darśanaprahātavyāni yujyante nāpyaprahātavyāni /",
+    "english": "The primary elements cannot be abandoned through Seeing; they are no longer not-to-be-abandoned.",
+    "morphology": "nahi_nahi_ tāni_tad_PNNe darśana_darśana_Cp prahātavyāni_prahā_PNNeGd yujyante_yuj_PPr3InPv na_na_ api_api_ a_a_ prahātavyāni_prahā_PNNeGd"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21016,
+    "sanskrit": "kiṃ ca",
+    "english": "would be contracted.",
+    "morphology": "kim_ka_SNNe"
+  },
+  {
+    "index": 21017,
+    "sanskrit": "dvitīyāntapāṭhe pūrvaślokād ākhyātānuṣaṅgaḥ /",
+    "english": "If we read these words with the Accusative ending, then they have to be construed with the verb of the preceding verse.",
+    "morphology": "dvitīyā_dvitīyā_Cp anta_anta_Cp pāṭhe_pāṭha_SLM"
+  },
+  {
+    "index": 21018,
+    "sanskrit": "bhūmigrahaṇam upalakṣaṇārtham / tena praṇālikāgatā api śucaya eva /",
+    "english": "The \"ground\" is mentioned only by way of illustration; so that water in canals is also pure.",
+    "morphology": "bhūmi_bhūmi_Cp grahaṇam_grahaṇa_SNNe upalakṣaṇa_upalakṣaṇa_Cp artham_artha_SAM  / tena_tena_ praṇālikā_praṇālikā_Cp gatāḥ_gam_PNPaF api_api_ śucayaḥ_śuci_PNF eva_eva_  /"
+  },
+  {
+    "index": 21019,
+    "sanskrit": "cakre ca veśmanaḥ tasya madhye na ati mahat mukham",
+    "english": "And the mouth of that passage was in the centre of that house, and it was on a level with the floor and closed up with planks.",
+    "morphology": "cakre_kṛ_SPs3In"
+  },
+  {
+    "index": 21020,
+    "sanskrit": "ātmānaṃ pāvayedvidvāngāyatryā ca tataḥ kṛtī | āpo hiṣṭheti tisṛbhiḥ pratyṛcaṃ pāvanaṃ smṛtam || 5 ||",
+    "english": "Then the Brāhmaṇa with great learning should purify himself through Prāṇana and Mahāvyāhṛtis. He should sanctify himself with Gāyatrī and be contented. He should also sanctify himself with the three passages beginning with: āpo hi ṣṭhā mayobhuvaḥ etc. Each one of the three Ṛks is purifying. 106-107. The following too are sanctifying Mantras: idam āpaḥ pravahata (RV 1.23.22);",
+    "morphology": "ātmānam_ātman_SAM pāvayet_pāvay_SPr3O vidvān_vid_SNPaPsM gāyatryā_gāyatrī_SIF ca_ca_ tatas_tatas_ kṛtī_kṛtin_SNM  / āpaḥ_ap_PNF hiṣṭhā_hiṣṭhā_SNF iti_iti_ tisṛbhiḥ_tri_PIF pratyṛcam_pratyṛcam_ pāvanam_pāvana_SNNe smṛ"
+  },
+  {
+    "index": 21021,
+    "sanskrit": "kāmadhātī yāvadbhavāgre /",
+    "english": "It exists in all spheres, from Kamadhatu up to Bhavagra.",
+    "morphology": "kāma_kāma_Cp dhātī_dhātin_SNM yāvat_yāvat_ "
+  },
+  {
+    "index": 21022,
+    "sanskrit": "caturthehnica kartavyaṃ tasyāsthicayanaṃ nṛpa / tadūrdhvamaṅgasaṃsparśaḥsapiṇḍānāmapīṣyate //",
+    "english": "On the fourth day the ashes and bones should be collected after which the body of one connected with the deceased by offerings of funeral cakes may be touched by an indifferent person, without thereby iñcurring impurity and those who are related only by presentation of water are qualified for any occupation.",
+    "morphology": "caturthe_caturtha_SLNe ihani_ihan_SLNe ca_ca_ kartavyam_kṛ_SNNeGd tasya_tad_SGM asthi_asthi_Cp cayanam_cayana_SNNe nṛpa_nṛpa_SVM  / tad_tad_Cp ūrdhvam_ūrdhvam_ aṅga_aṅga_Cp saṃsparśaḥ_saṃsparśa_SNM sapiṇḍānām_sapiṇḍa_PGM api_a"
+  },
+  {
+    "index": 21023,
+    "sanskrit": "nirgatya yāvatkurute bhaktitastriḥ pradakṣiṇam / tāvat sa ca sakhā cāsya jātiṃ sasmaraturnijām // harṣāc ca pūrvavṛttāntaṃ yāvadanyonyamāhatuḥ / tāvat padmāvatī dṛṣṭigocaraṃ sā yayau tayoḥ //",
+    "english": "And when he came out he walked devoutly round the temple three times, keeping his right hand towards it,[5] and then he and his friend remembered their former birth, and in their joy they were telling to one another the events of their life as Vidyādharas, when Padmāvatī met their view.",
+    "morphology": "nirgatya_nirgam_Co yāvat_yāvat_ kurute_kṛ_SPr3In bhaktitaḥ_bhakti_SBF tris_tris_ pradakṣiṇam_pradakṣiṇa_SAM  / tāvat_tāvat_ sa_tad_SNM ca_ca_ sakhā_sakhi_SNM ca_ca_ asya_idam_SGM jātim_jāti_SAF sasmaratuḥ_smṛ_DuPs3In nijām_nija_SAF "
+  }
+]

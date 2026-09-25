@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5672,
+    "sanskrit": "yādṛśena krayeṇa svāmyaṃ bhavati taṃ darśayati /",
+    "english": "The present verse shows by what sort of purchase real ownership is produced.",
+    "morphology": "yādṛśena_yādṛśa_SIM krayeṇa_kraya_SIM svāmyam_svāmya_SNNe bhavati_bhū_SPr3In tam_tad_SAM darśayati_darśay_SPr3In  /"
+  },
+  {
+    "index": 5673,
+    "sanskrit": "sa bhīmena parāmṛṣṭaḥ durbalaḥ balinā raṇe",
+    "english": "And thus seized by the mighty Bhima, the fatigued Rakshasa, became faint, and trembling all over, he still pressed the (Pandava) with all his strength.",
+    "morphology": "sa_tad_SNM bhīmena_bhīma_SIM parāmṛṣṭaḥ_parāmṛś_SNPaPsM durbalaḥ_durbala_SNM balinā_balin_SIM raṇe_raṇa_SLM"
+  },
+  {
+    "index": 5674,
+    "sanskrit": "tataḥ paripakvavineyeṣu tadvimocanārthaṃ vaśitvaṃ buddhatvam avāpnotīti /",
+    "english": "After that, it is said that one attains mastery, i. e. Buddhahood, when those to be trained are brought to full maturation in order to liberate them.",
+    "morphology": "tatas_tatas_ paripakva_paripakva_Cp vineyeṣu_vinī_PLMGd tad_tad_Cp vimocana_vimocana_Cp artham_artha_SAM vaśi_vaśin_Cp tvam_tva_SANe buddha_buddha_Cp tvam_tva_SANe avāpnoti_avāp_SPr3In iti_iti_  /"
+  },
+  {
+    "index": 5675,
+    "sanskrit": "vyabhrājata bhṛśam rājan putraḥ tava viśām pate dhvajena mahatā saṃkhye kurūṇām ṛṣabhaḥ tadā",
+    "english": "And, O king, thy son, that bull among the Kurus, looked resplendent, O monarch, with that tall standard in battle.",
+    "morphology": "vyabhrājata_vibhrāj_SPs3In bhṛśam_bhṛśam_U rājan_rājan_SVM putraḥ_putra_SNM tava_tvad_SG viśām_viś_PGF pate_pati_SVM dhvajena_dhvaja_SIM mahatā_mahat_SIM saṃkhye_saṃkhya_SLNe kurūṇām_kuru_PGM ṛṣabhaḥ_ṛṣabha_SNM tadā_tadā"
+  },
+  {
+    "index": 5676,
+    "sanskrit": "bhāti ca tapati ca kīrtyā yaśasā brahmavarcasena ya evaṃ veda //",
+    "english": "One who knows this shines and warms up with renown, fame and Brahmic glory",
+    "morphology": "bhāti_bhā_SPr3In ca_ca_ tapati_tap_SPr3In ca_ca_ kīrtyā_kīrti_SIF yaśasā_yaśas_SINe brahmavarcasena_brahmavarcasa_SINe yaḥ_yad_SNM evam_evam_ veda_vid_SPs3In  /"
+  },
+  {
+    "index": 5677,
+    "sanskrit": "śūrāḥ pramukhato deyāḥ skandhamātrapradarśanaṃ //",
+    "english": "Bold men should be placed in front. Only a division of the army should be shown.",
+    "morphology": "śūrāḥ_śūra_PNM pramukhatas_pramukhatas_ deyāḥ_dā_PNMGd skandha_skandha_Cp mātra_mātra_Cp pradarśanam_pradarśana_SNNe  /"
+  },
+  {
+    "index": 5678,
+    "sanskrit": "srotāṃsi udāvartayati purīṣam ca ativartayet tatas hṛd vasti śūla ārtaḥ gaurava aruci pīḍitaḥ",
+    "english": "It dries up the fecal matter (in the body) causing pain in the heart and bladder, a sense of heaviness in the limbs (D.",
+    "morphology": "srotāṃsi_srotas_PANe udāvartayati_udāvartay_SPr3In purīṣam_purīṣa_SANe ca_ca_U ativartayet_ativartay_SPr3O tatas_tatas_U hṛd_hṛd_NeCp vasti_vasti_MCp śūla_śūla_MCp ārtaḥ_ārta_SNM gaurava_gaurava_NeCp aruci_aruci_FCp pīḍitaḥ_pī"
+  },
+  {
+    "index": 5679,
+    "sanskrit": "sa me labdhaḥ dasyu vadhāya kṛṣṇo",
+    "english": "That Krishna hath been obtained by me for the destruction of those wicked ones.",
+    "morphology": "sa_tad_SNM me_mad_SG labhṇā_labh_SNPaPsM dasyu_dasyu_MCp vadhāya_vadha_SDM kṛṣṇo_kṛṣṇu_SVM"
+  }
+]

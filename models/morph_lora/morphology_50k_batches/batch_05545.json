@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44352,
+    "sanskrit": "yaḥ tvām agne inadhate yata sruk triḥ te annam kr̥ṇavat sasmin ahan saḥ su dyumnaiḥ abhi astu pra sakṣat tava kratvā jāta vedaḥ cikitvān",
+    "english": "May the man who holds the sacrificial ladle and kindles thee, O Agni, who thrice prepares food for thee on this day, victoriously overcome (his foes) through his lustre, wise through the power of thy mind, O Gâtavedas.",
+    "morphology": "yaḥ_yad_SNM tvām_tvad_SA agne_agni_SVM inadhate_indh_SPr3Su yata_yam_PaPsCp sruc_sruc_SNM tris_tris_U te_tvad_SD annam_anna_SANe kr̥ṇavat_kṛ_SPr3Su sasmin_tad_SLNe ahan_ahar_SLNe saḥ_tad_SNM su_su_U dyumnaiḥ_dyumna_PINe abhi_abhi_U astu_as_SPr3"
+  },
+  {
+    "index": 44353,
+    "sanskrit": "iti suśrutasaṃhitāyām sūtrasthāne śiṣyopanayanīyaḥ nāma dvitīyaḥ adhyāyaḥ || tṛtīyaḥ adhyāyaḥ |",
+    "english": "Thus ends the second chapter of the Sutrasthana in the Sushruta Samhita which treats of the formal initiation of a student into the avurveda.",
+    "morphology": "iti_iti_U suśrutasaṃhitāyām_suśrutasaṃhitā_SLF sūtrasthāne_sūtrasthāna_SLNe śiṣyopanayanīyaḥ_śiṣyopanayanīya_SNM nāma_nāma_U dvitīyaḥ_dvitīya_SNM adhyāyaḥ_adhyāya_SNM  / tṛtīyaḥ_tṛtīya_SNM adhyāyaḥ_adhyāya_SNM "
+  },
+  {
+    "index": 44354,
+    "sanskrit": "ruruduḥ śokasaṃvignā duḥkhasāgaramadhyagāḥ || pra | paśyaṃtīṣu tāsveva durdamo rākṣaso'bhavat || 28 ||",
+    "english": "Then the young women in great agony embraced their husband Durdama and began to lament. They were grief-stricken. They were in the depths of the ocean of distress. Even as they were watching him, Durdama turned into a Rākṣasa.",
+    "morphology": "ruruduḥ_rud_PPs3In śoka_śoka_Cp saṃvignāḥ_saṃvij_PNPaF duḥkha_duḥkha_Cp sāgara_sāgara_Cp madhya_madhya_Cp gāḥ_ga_PNF  / paśyaṃtīṣu_paś_PLPaPrF tāsu_tad_PLF eva_eva_ durdamaḥ_durdama_SNM rākṣasaḥ_rākṣasa_SNM abhavat_bh"
+  },
+  {
+    "index": 44355,
+    "sanskrit": "uṭajārthe ca me dehi bhūmīṃ bhūmibhṛtāṃvara | baṭostasyaiva tadvākyaṃ śrutvā balirabhāṣata || 189 ||",
+    "english": "189. For the sake of a hut give me some ground, O most excellent one among the kings of earth. On hearing the words of that Baṭu, Bali spoke:",
+    "morphology": "uṭaja_uṭaja_Cp arthe_artha_SLM ca_ca_ me_mad_SD dehi_dā_SPr2Im bhūmīm_bhūmi_SAF bhūmibhṛtām_bhūmibhṛt_PGM vara_vara_SVM  / baṭoḥ_baṭu_SGM tasya_tad_SGM eva_eva_ tat_tad_SANe vākyam_vākya_SANe śrutvā_śru_Co baliḥ_bali_SNM abhā"
+  },
+  {
+    "index": 44356,
+    "sanskrit": "visṛjya bhūteṣu mahatsu deham",
+    "english": "Indeed, casting off his body to the (five) great primal elements, he assumes a form that is similarly made of the same (five) elements.",
+    "morphology": "visṛjya_visṛj_Co bhūteṣu_bhūta_PLNe mahatsu_mahat_PLNe deham_deha_SAM"
+  },
+  {
+    "index": 44357,
+    "sanskrit": "aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam /",
+    "english": "Bad actions are black, good actions of Rūpa are white, and good actions of Kāma are black-white.",
+    "morphology": "aśubham_aśubha_SNNe rūpa_rūpa_Cp kāma_kāma_Cp āptam_āp_SNPaNe śubham_śubha_SNNe ca_ca_ eva_eva_ yathākramam_yathākramam_"
+  },
+  {
+    "index": 44358,
+    "sanskrit": "aṇḍajaḥ,",
+    "english": "Egg-born,",
+    "morphology": "aḥ_aḥ_"
+  },
+  {
+    "index": 44359,
+    "sanskrit": "viveśa ca sa hṛṣṭa ātmā cira kāla pravāsakaḥ kṛtvā nasukaram karma dānaveṣu iva vāsavaḥ",
+    "english": "Govinda entered his residence after a long absence, having accomplished feats of great difficulty like Vasava amid the Danava host.",
+    "morphology": "viveśa_viś_SPs3In ca_ca_U sa_tad_SNM hṛṣṭa_hṛṣ_PaPsCp ātmā_ātman_SNM cira_cira_Cp kāla_kāla_MCp pravāsakaḥ_pravāsaka_SNM kṛtvā_kṛ_Co nasukaram_nasukara_SANe karma_karman_SANe dānaveṣu_dānava_PLM iva_iva_U vāsavaḥ_vāsava_SN"
+  }
+]

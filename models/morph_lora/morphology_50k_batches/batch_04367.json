@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34928,
+    "sanskrit": "kali-yugaṃ ceti |",
+    "english": "and the dark age.",
+    "morphology": "__kali_U"
+  },
+  {
+    "index": 34929,
+    "sanskrit": "āpa evemā mūrtāḥ /",
+    "english": "All these are Water having assumed forms",
+    "morphology": "āpaḥ_ap_PNF eva_eva_ imāḥ_idam_PNF "
+  },
+  {
+    "index": 34930,
+    "sanskrit": "dhṛṣṭadyumnam mahā rāja bhīṣma antikam upāgatam tvaramāṇaḥ raṇe yattam kṛtavarmā nyavārayat",
+    "english": "Kritavarman, O king, resisted Dhrishtadyumna who had reached the presence of Bhishma and who was exerting himself with great activity and vigour in that battle.",
+    "morphology": "dhṛṣṭadyumnam_dhṛṣṭadyumna_SAM mahā_mahat_Cp rāja_rāja_MCp bhīṣma_bhīṣma_MCp antikam_antika_SANe upāgatam_upāgam_SAPaPsM tvaramāṇaḥ_tvar_SNPaPrM raṇe_raṇa_SLM yattam_yat_SAPaPsM kṛtavarmā_kṛtavarman_SNM nyavārayat_niv"
+  },
+  {
+    "index": 34931,
+    "sanskrit": "aṣṭādaśaguṇam yat tat sattvam sattvavatām vara prakṛtiḥ sā parā mahyam rodasī yoga dhāriṇī",
+    "english": "O foremost of all persons endued with Sattwa, the attribute of Sattwa consists of the eight and ten qualities.[1851] That attribute is Supreme Nature having for her soul the Sky and Earth and succeeding by her creative forces in upholding the universe.",
+    "morphology": "aṣṭādaśaguṇam_aṣṭādaśaguṇa_SNNe yat_yad_SNNe tat_tad_SNNe sattvam_sattva_SNNe sattvavatām_sattvavat_PGM vara_vara_Cp prakṛtiḥ_prakṛti_SNF sā_tad_SNF parā_para_SNF mahyam_mad_SD rodasī_rodas_DuNNe yoga_yoga_MCp dhāriṇī_dhārin_"
+  },
+  {
+    "index": 34932,
+    "sanskrit": "tau śāṇḍilyamunestāta nideśānniyama sthitau | pradoṣe cakratuḥ śambhoḥ pūjāṃ kṛtvā vrataṃ śubham ||",
+    "english": "68. O dear, at the behest of the sage Śāṇḍilya they observed vows and restraints and performed the worship of Śiva during dusk.",
+    "morphology": "tau_tad_DuNM śāṇḍilya_śāṇḍilya_Cp muneḥ_muni_SGM tāta_tāta_SVM nideśāt_nideśa_SBM niyama_niyama_Cp sthitau_sthā_DuNPaM  / pradoṣe_pradoṣa_SLM cakratuḥ_kṛ_DuPs3In śambhoḥ_śambhu_SGM pūjām_pūjā_SAF kṛtvā_kṛ_Co vratam_"
+  },
+  {
+    "index": 34933,
+    "sanskrit": "bhūṣite dūṣite dehe na hi kiṃciccitaḥ kṣatam / na cidantamupāyāti nātmā calati rāghava //",
+    "english": "There is no end of the Intellect in its extent, nor any motion of the soul from its place; there is no change in the Divine spirit of Brahma, nor do any of these decay with the decline of the body.",
+    "morphology": "bhūṣite_bhūṣay_SLPaM dūṣite_dūṣay_SLPaM dehe_deha_SLM na_na_ hi_hi_ kiṃcid_kaścit_SNNe citaḥ_cit_SGF kṣatam_kṣan_SNPaNe  / na_na_ cit_cit_Cp antam_anta_SAM upāyāti_upāyā_SPr3In na_na_ ātmā_ātman_SNM calati_cal_SPr3In rāghava_r"
+  },
+  {
+    "index": 34934,
+    "sanskrit": "bhṛgutuṅge mahārāja prasiddho bhairavaḥ śivaḥ | tasya yāmyavibhāge ca tīrthaṃ vai capaleśvaram || 141 ||",
+    "english": "The Tīrtha Jvāleśvara is etymologically connected with the burning of the second city out of Tripuras.",
+    "morphology": "bhṛgutuṅge_bhṛgutuṅga_SLM mahā_mahat_Cp rāja_rāja_SVM prasiddhaḥ_prasidh_SNPaM bhairavaḥ_bhairava_SNM śivaḥ_śiva_SNM  / tasya_tad_SGM yāmya_yāmya_Cp vibhāge_vibhāga_SLM ca_ca_ tīrtham_tīrtha_SNNe vai_vai_ capaleśvaram_capaleśvara"
+  },
+  {
+    "index": 34935,
+    "sanskrit": "ityevaṅka thitastāta śivodvāhassumaṃgalaḥ | śokaghno harṣajanaka āyuṣyo dhanavarddhanaḥ ||",
+    "english": "31. O dear, I have thus narrated the auspicious story of the marriage of Śiva, that dispels sorrow, generates delight and increases wealth and longevity.",
+    "morphology": "iti_iti_ evam_evam_ ka_ka_SNM thitaḥ_thā_SNPaM tāta_tāta_SVM śiva_śiva_Cp udvāhaḥ_udvāha_SNM su_su_ maṃgalaḥ_maṅgala_SNM  / śoka_śoka_Cp ghnaḥ_ghna_SNM harṣa_harṣa_Cp janakaḥ_janaka_SNM āyuṣyaḥ_āyuṣya_SNM dhana_dhana_Cp v"
+  }
+]

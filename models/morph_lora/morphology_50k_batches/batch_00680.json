@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5432,
+    "sanskrit": "gaccha raivatakaṃ śailaṃ yatra dāmodaraḥ sthitaḥ | kṛtvā māsopavāsaṃ tu dvijo dāmodarāgrataḥ || 89 || na nivartati kālena dāmodarapuraṃ vrajet | karotyanaśanaṃ yaśca naro nāryathavā punaḥ | sarva lokānatikramya sa harergehamāpnuyāt || 90 ||",
+    "english": "89-90. Go to the Raivataka mountain where Dāmodara dwells. A Brāhmaṇa who fasts for one month in front of Dāmodara, does not die, (but) would go to the city of Dāmodara. A man or a woman who observes a fast, would secure Hari’s (i.e. Viṣṇu’s) abode after going beyond all worlds.",
+    "morphology": "gaccha_gam_SPr2Im raivatakam_raivataka_SAM śailam_śaila_SAM yatra_yatra_ dāmodaraḥ_dāmodara_SNM sthitaḥ_sthā_SNPaM  / kṛtvā_kṛ_Co māsopavāsam_māsopavāsa_SAM tu_tu_ dvijaḥ_dvija_SNM dāmodara_dāmodara_Cp agratas_agratas_  / na_na_ nivar"
+  },
+  {
+    "index": 5433,
+    "sanskrit": "sadātmanā satyatvābhyupagamāt /",
+    "english": "what we hold is that it is, real, in so far as it is of the nature of Being",
+    "morphology": "__as_PaPrU __ātman_U __satya_U __tva_U __U"
+  },
+  {
+    "index": 5434,
+    "sanskrit": "tasmiṃliṃge sthite tatra sarvalokahitāya vai | rāvaṇaḥ svagṛhaṃ gatvā varaṃ prāpya mahottamam | priyāyai sarvamācakhyau sukhenāti mahāsuraḥ ||",
+    "english": "22. It stood there for the benefit of the worlds. Rāvaṇa returned to his abode after securing the blissful boon.",
+    "morphology": "tasmin_tad_SLNe liṃge_liṅga_SLNe sthite_sthā_SLPaNe tatra_tatra_ sarva_sarva_Cp loka_loka_Cp hitāya_hita_SDNe vai_vai_  / rāvaṇaḥ_rāvaṇa_SNM sva_sva_Cp gṛham_gṛha_SANe gatvā_gam_Co varam_vara_SAM prāpya_prāp_Co mahā_mahat_Cp uttamam_u"
+  },
+  {
+    "index": 5435,
+    "sanskrit": "dakṣiṇam sindhum āsādya brahmacārī jita indriyaḥ agniṣṭomam avāpnoti vimānam ca adhirohati",
+    "english": "He that goeth into the Southern ocean, practising the Brahmacharya mode of life, and with senses subdued, acquireth the fruit of the Agnishtoma sacrifice and ascendeth to heaven.",
+    "morphology": "dakṣiṇam_dakṣiṇa_SAM sindhum_sindhu_SAM āsādya_āsāday_Co brahmacārī_brahmacārin_SNM jita_ji_PaPsCp indriyaḥ_indriya_SNM agniṣṭomam_agniṣṭoma_SAM avāpnoti_avāp_SPr3In vimānam_vimāna_SANe ca_ca_U ṛchat_ṛch_SPr2Im ṛchat_ṛc"
+  },
+  {
+    "index": 5436,
+    "sanskrit": "āgamena upayojyāni bheṣajāni vicakṣaṇaiḥ ||",
+    "english": "Unscrutable and unthinkable are the virtues of drugs (medicines), which are above all rules of syllogism; and hence drugs (medicines), which have been observed to be efficacious from time immemorial, as well as those laid down in the scriptures on medicines, should alone be used in the course of a medical treatment, A learned physician should think it a sacrilege to logically dispute the efficacy of a medicine of tested virtue, and which has been adopted after generations of careful observation and is instinctively pronounced by men as a beneficial remedy.",
+    "morphology": "āgamena_āgama_SIM"
+  },
+  {
+    "index": 5437,
+    "sanskrit": "svargādyaiḥ krīḍate devo yo 'haṃ sa puruṣaḥ prabhuḥ /",
+    "english": "“ am that lord who sports with the paradise and the like.",
+    "morphology": "svarga_svarga_Cp ādyaiḥ_ādya_PIM krīḍate_krīḍ_SPr3In devaḥ_deva_SNM yaḥ_yad_SNM aham_mad_SN sa_tad_SNM puruṣaḥ_puruṣa_SNM prabhuḥ_prabhu_SNM  /"
+  },
+  {
+    "index": 5438,
+    "sanskrit": "upo devān daivīr viśaḥ prāgur vahnīr uśijas |",
+    "english": "To the gods the servants of the gods have come, the priests, the eager ones.",
+    "morphology": "upa_upa_ ḥ_ḥ_"
+  },
+  {
+    "index": 5439,
+    "sanskrit": "gaṃdhalepāpanodārtha śaucaṃ dehasya kīrtitam | dvayasyāpagamācchuddhiśśuddhasparśādviśudhyati ||",
+    "english": "17. The purification of the body is for removing bad odour and sliminess. If both are removed there is purity. The touch of a pure thing also sanctifies it.",
+    "morphology": "gandha_gandha_Cp lepa_lepa_Cp apanoda_apanoda_Cp artha_artha_SVM śaucam_śauca_SNNe dehasya_deha_SGM kīrtitam_kīrtay_SNPaNe  /"
+  }
+]

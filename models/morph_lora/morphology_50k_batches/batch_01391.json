@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11120,
+    "sanskrit": "vr̥ṣā soma dyu mān asi vr̥ṣā deva vr̥ṣa vrataḥ vr̥ṣā dharmāṇi dadhiṣe",
+    "english": "Soma, thou art a splendid Steer, a Steer, O God, with steerlike sway: Thou as a Steer ordainest laws.",
+    "morphology": "vrāṣā_vrāṣan_SNM soma_soma_SVM dyu_div_MCp mān_mad_SNM asi_as_SPr2In vrāṣā_vrāṣan_SNM deva_deva_SVM vrāṣa_vrāṣan_SVM vrataḥ_vrata_SNM vrāṣā_vrāṇa_SNM dharā_dharā_SIF"
+  },
+  {
+    "index": 11121,
+    "sanskrit": "yato niṣpattir iti sambandhaḥ /",
+    "english": "‘The Highest Good’ ‘follows from which’ such is the construction.",
+    "morphology": "__yatas_U __niṣpatti_U __iti_U __sambandh_U"
+  },
+  {
+    "index": 11122,
+    "sanskrit": "tasya sainyasya saṃgrāme yudhyamānasya bhārata babhūva su mahān śabdaḥ sāgarasya iva garjataḥ",
+    "english": "And loud became the uproar, O Bharata, of that mighty army struggling in battle, that resembled the sound of the roaring ocean.",
+    "morphology": "tasya_tad_SGNe sainyasya_sainya_SGNe saṃgrāme_saṃgrāma_SLM yudhyamānasya_yudh_SGPaPrNe bhārata_bhārata_SVM babhūva_bhū_SPs3In su_su_U mahān_mahat_SNM śabdaḥ_śabda_SNM sāgarasya_sāgara_SGM iva_iva_U garjataḥ_garj_SGPaPrM"
+  },
+  {
+    "index": 11123,
+    "sanskrit": "niḥśvāsa paramaḥ rājā dhyāyan āste hi adhomukhaḥ",
+    "english": "Aklishtakarman literally means one who is not tired with what he does;",
+    "morphology": "niḥśvāsa_niḥśvāsa_MCp paramaḥ_parama_SNM rājā_rājan_SNM dhyāyan_dhyā_SNPaPrM āste_ās_SPr3In hi_hi_U adhomukhaḥ_adhomukha_SNM"
+  },
+  {
+    "index": 11124,
+    "sanskrit": "hṛdbindubrahmarandhreṣu arūpā tu pare sthitā / śivabodhaparā yā tu sā sandhyā maramocyate //",
+    "english": "The supreme sandhyā is declared as that which remains. invisible in the cavities situated at the heart, and the upper end of the nose and which secures the realization of Śiva.",
+    "morphology": "hṛd_hṛd_Cp bindu_bindu_Cp brahmarandhreṣu_brahmarandhra_PLNe arūpā_arūpa_SNF tu_tu_ pare_para_SLNe sthitā_sthā_SNPaF  / śiva_śiva_Cp bodha_bodha_Cp parā_para_SNF yā_yad_SNF tu_tu_ sā_tad_SNF sandhyā_saṃdhyā_SNF maramā_maramā_SNF ucyat"
+  },
+  {
+    "index": 11125,
+    "sanskrit": "mūrdhānam divaḥ aratim pr̥thivyāḥ vaiśvānaram r̥te ā jātam agnim kavim sam rājam atithim janānām āsan ā pātram janayanta devāḥ",
+    "english": "Him, messenger of earth and head of heaven, Agni Vaiṣvânara, born in holy Order, The Sage, the King, the guest of men, a vessel fit for their mouths, the Gods have generated.",
+    "morphology": "mūrdhānam_mūrdhan_SAM divaḥ_div_SGM aratim_arati_SAM pr̥thivyāḥ_prthivī_SGF vaiśvānaram_vaiśvānara_SAM r̥te_r̥ta_SLNe ā_ā_U jātam_jan_SAPaPsM agnim_agni_SAM kavim_kavi_SAM sam_sam_U rājam_rāj_SAM atithim_atithi_SAM janānām_jana_PGM "
+  },
+  {
+    "index": 11126,
+    "sanskrit": "atha vā bahuṣu jīvanopāyeṣu satsu yac chastreṇa jīvanaṃ tato niyamāt svargaḥ /",
+    "english": "Or, the meaning of all this may be that, there being many means of livelihood, living by military service is sure to lead to heaven.",
+    "morphology": "atha_atha_ vā_vā_ bahuṣu_bahu_PLM jīvana_jīvana_Cp upāyeṣu_upāya_PLM satsu_as_PLPaPrM yat_yad_SNNe śastreṇa_śastra_SINe jīvanam_jīvana_SNNe tatas_tatas_ niyamāt_niyama_SBM svargaḥ_svarga_SNM  /"
+  },
+  {
+    "index": 11127,
+    "sanskrit": "kasyāṃ gatau kati karmapathā akuśalā kuśalā vā saṃmukhībhāvataḥ samanvāgamato vā /",
+    "english": "What are the courses of action which exist, either in fact or as potentiality, in the different realms of rebirth?",
+    "morphology": "kasyām_ka_SLF gatau_gati_SLF kati_kati_ karma_karman_Cp pathāḥ_patha_PNM akuśalāḥ_akuśala_PNM kuśalāḥ_kuśala_PNM vā_vā_ saṃmukhībhāvataḥ_saṃmukhībhāva_SBM samanvāgamataḥ_samanvāgama_SBM vā_vā_  /"
+  }
+]

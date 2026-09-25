@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6488,
+    "sanskrit": "yatra kvacil liṅgaṃ na vivakṣyate, yatha brāhmaṇo na hantavyaḥ iti striyā api pratiṣedho vijñāyate, tatra dvitīyayā śrutyā brāhmaṇasyepsitatamatvāt prādhānyam / na ca pradhāne prātipadikārthavyatirekeṇānyaliṅgasaṃkhyādi vivakṣyate /",
+    "english": "It is true that in some cases, significance is not meant to be attached to the particular gender used;eg, in the text \"the Brāhmaṇa should not be killed\" , where the prohibition is understood to apply to the killing of the female Brāhmaṇa also. But what happens in this latter case is that the direct signification of the Accusative caseending marks out the \"Brāhmaṇa\" to be the predominant factor by reason of his being what is most intended to be \"got at\" by the preadicate; and as a rule in the case of the predominant factor no significance is attached to the gender, or the number or any other factor, except what is expressed by the basic noun itself.",
+    "morphology": "yatra_yatra_ kvacid_kvacid_ liṅgam_liṅga_SNNe na_na_ vivakṣyate_vivakṣ_SPr3InPv brāhmaṇaḥ_brāhmaṇa_SNM na_na_ hantavyaḥ_han_SNMGd iti_iti_ striyāḥ_strī_SGF api_api_ pratiṣedhaḥ_pratiṣedha_SNM vijñāyate_vijñā_SPr3InPv tatra_t"
+  },
+  {
+    "index": 6489,
+    "sanskrit": "nārada uvāca | aho bata mahatkaṣṭaṃ sāvitryā nṛpate kṛtam | bālasvabhāvādanayā guṇavānsatyavāgvṛtaḥ || 29 ||",
+    "english": "Nārada said: 29. Alas, it is a great pity, O king! What has been committed by Sāvitrī is very pitiable. On account of her childishness, Satyavāg (Satyavān) though virtuous, has been selected.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / aho_aho_ bata_bata_ mahat_mahat_SNNe kaṣṭam_kaṣṭa_SNNe sāvitryāḥ_sāvitrī_SGF nṛpate_nṛpati_SVM kṛtam_kṛ_SNPaNe  / bāla_bāla_Cp svabhāvāt_svabhāva_SBM aḥ_idam_SNM"
+  },
+  {
+    "index": 6490,
+    "sanskrit": "saṃpūrṇaśāntamanasaḥ paritṛptavṛtternityaṃ same sukhamayātmani tiṣṭhato'ntaḥ / siddhyanti durlabhatarā api vāñchitārthā gaṅgāvatāra iva sāgarakhātavastu //",
+    "english": "It was by his perfectly peaceful and contended mind, and by the lasting felicity of the equanimity of his soul, that this prince succeeded to bring down the heavenly Ganges on earth, and the princes of Sagar's line were enabled to perform the arduous task of digging the bay of Bengal.",
+    "morphology": "saṃpūrṇa_sampṛ_PaCp śānta_śam_PaCp manasaḥ_manas_SGM paritṛpta_paritṛp_PaCp vṛtteḥ_vṛtti_SGM nityam_nityam_ same_sama_SLM sukha_sukha_Cp maya_maya_Cp ātmani_ātman_SLM tiṣṭhataḥ_sthā_SGPaPrM antar_antar_  / siddhyanti_siddhi_P"
+  },
+  {
+    "index": 6491,
+    "sanskrit": "kṛtyamanayorapyekam /",
+    "english": "Ālokasaṁjñā.",
+    "morphology": "kṛtyam_kṛtya_SNNe anayoḥ_idam_DuGM "
+  },
+  {
+    "index": 6492,
+    "sanskrit": "kiṃ kāraṇaṃ ? advayaprakṛtiṣv avidyādiṣv avidyamānadvayādhyāropapravṛttavāt /",
+    "english": "What is the reason? Because the imposition of a nonexisting duality occurs in regard to nescience etc. which are nondual by nature.",
+    "morphology": "kim_ka_SNNe kāraṇam_kāraṇa_SNNe  /"
+  },
+  {
+    "index": 6493,
+    "sanskrit": "phalamālyamahābhārabhāsurairajiradrumaiḥ / ānīya puṣpasaṃbhāraṃ tiṣṭhadbhiriva saṃkulam //",
+    "english": "The trees in the glens, loaded as they were with their fruits and flowers, appeared as waiters upon the goddesses, and standing to welcome their approach with their rich presents.",
+    "morphology": "phala_phala_Cp mālya_mālya_Cp mahā_mahat_Cp bhāra_bhāra_Cp bhāsuraiḥ_bhāsura_PIM ajira_ajira_Cp drumaiḥ_druma_PIM  / ānīya_ānī_Co puṣpa_puṣpa_Cp saṃbhāram_sambhāra_SAM tiṣṭhadbhiḥ_sthā_PIPaPrM iva_iva_ saṃkulam_saṃkula_SAN"
+  },
+  {
+    "index": 6494,
+    "sanskrit": "traivedikaṃ vrataṃ caryam / trayāṇāṃ vedānāṃ samāhāras trivedī, tadgrahaṇaprayojanaṃ traivedikam / grahaṇakriyā vṛttāv antarbhavati vedādhigamasya prāgvihitatvāt / vrataṃ brahmacāridharmakalāpaḥ / caryaṃ caritavyam /",
+    "english": "\"Duties relating to the Three Vedas should be observed\" \"Relating to the three Vedas\" means \"conducive to the learning of the three Vedas;\" the act of \"learning\" being implied by the compound, on the strength of the fact that the \"getting up of the Veda\" has been presented before \"Duties\" ie, the whole lot of duties laid down for the Religious Student,\"should be observed\" one shall observe them; the verbal affix having the injunctive force.",
+    "morphology": "traivedikam_traivedika_SNNe vratam_vrata_SNNe caryam_car_SNNeGd  / trayāṇām_tri_PGM vedānām_veda_PGM samāhāraḥ_samāhāra_SNM trivedī_trivedī_SNF tad_tad_Cp grahaṇa_grahaṇa_Cp prayojanam_prayojana_SNNe traivedikam_traivedika_SNNe  / graha"
+  },
+  {
+    "index": 6495,
+    "sanskrit": "ta evamete ṣaḍanuśayā ākāraprakāradhātubhedairaṣṭānavatirmatāḥ āmidhārmikāṇām /",
+    "english": "The Ābhidhārmikas say that the six enuṝayas make ninety-eight through the differences of their aspect, their mode of expulsion, and their sphere of existence.",
+    "morphology": "te_tad_PNM evam_evam_ ete_etad_PNM ṣaṣ_ṣaṣ_SNM anuśayāḥ_anuśaya_PNM ākāra_ākāra_Cp prakāra_prakāra_Cp dhātu_dhātu_Cp bhedaiḥ_bheda_PIM aṣṭānavatiḥ_aṣṭānavati_SNF matāḥ_man_PNPaM  /"
+  }
+]

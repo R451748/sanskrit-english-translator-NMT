@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32304,
+    "sanskrit": "kṣamāvantaḥ nirākārāḥ kāṣṭhe agniḥ iva śerate",
+    "english": "Fire lieth concealed in wood without showing itself externally.",
+    "morphology": "kṣamāvantaḥ_kṣamāvat_PNM"
+  },
+  {
+    "index": 32305,
+    "sanskrit": "eṣa te kathito devi prabhāvaḥ pāpanāśanaḥ | pattaneśasya devasya ānaṃdeśamataḥ śṛṇu || 28 ||",
+    "english": "Such, O goddess, is the sin-destroying power of the deity Pattaneśa. Henceforth listen to (the story of) Ānandeśa.[Sanskrit text for this chapter is available]",
+    "morphology": "eṣa_etad_SNM te_tvad_SG kathitaḥ_kathay_SNPaM devi_devī_SVF prabhāvaḥ_prabhāva_SNM pāpa_pāpa_Cp nāśanaḥ_nāśana_SNM  / pattaneśasya_pattaneśa_SGM devasya_deva_SGM ānaṃda_ānanda_Cp īśam_īśa_SAM atas_atas_"
+  },
+  {
+    "index": 32306,
+    "sanskrit": "ajānānaḥ prakāśaṃ yaḥ paradravyaṃ krīṇīyāt, tatra tasya na doṣaḥ //",
+    "english": "He who buys unawares in open market the property of another man (from one not authorised to sell it) is not to blame;",
+    "morphology": "a_a_ jānānaḥ_jñā_SNPaPrM prakāśam_prakāśa_SANe yaḥ_yad_SNM para_para_Cp dravyam_dravya_SANe krīṇīyāt_krī_SPr3O tatra_tatra_ tasya_tad_SGM na_na_ doṣaḥ_doṣa_SNM  /"
+  },
+  {
+    "index": 32307,
+    "sanskrit": "ṭhiṇṭhākarālo dṛṣṭvā taṃ parijñāya vyacintayat / aho etamahaṃ paśyamyujjayinyāmajaṃ paśum // ihendrasya puraścāyamīdṛśo bhaṇḍanartakaḥ / atarkyā divyamāyeyaṃ vicitrā bata kācana // evaṃ ṭhiṇṭhākarālasya tasya cintayato hṛdi / nṛttānte chāgabhaṇḍasya śakrāsthānaṃ nyavartata //",
+    "english": "And Ṭhiṇṭhākarāla, when he saw him, recognized him, and said to himself: “Why, I see this goat in Ujjayinī, figuring as a mere animal, and here he is dancing as a mime before Indra. Of a truth this must be some strange incomprehensible heavenly delusion.” While Ṭhiṇṭhākarāla was going through these reflections in his mind, the dance of the goat-mime came to an end, and then Indra returned to his own place.",
+    "morphology": "ṭhiṇṭhā_ṭhiṇṭhā_Cp karālaḥ_karāla_SNM dṛṣṭvā_dṛś_Co tam_tad_SAM parijñāya_parijñā_Co vyacintayat_vicintay_S3ImIn  / aho_aho_ etam_etad_SAM aham_mad_SN paśyami_paś_SPr1In ujjayinyām_ujjayinī_SLF ajam_aja_SAM paśum_paśu_"
+  },
+  {
+    "index": 32308,
+    "sanskrit": "yadṛcchayā atha tat rakṣaḥ kare jagrāha lakṣmaṇam",
+    "english": "And that Rakshasa seized Lakshmana by the hand, without any difficulty.",
+    "morphology": "yadṛcchayā_yadṛcchā_SIF atha_atha_U tat_tad_SNNe rakṣaḥ_rakṣas_SNNe"
+  },
+  {
+    "index": 32309,
+    "sanskrit": "vyādeśāddānasaṃstutiḥ",
+    "english": "Sūtra As for the said Praise of the Giving, it is due to the said pointing out.",
+    "morphology": "__vyādeśa_U"
+  },
+  {
+    "index": 32310,
+    "sanskrit": "tvad nideśe sthitaḥ śaśvat pujayiṣyāmi aham dvijān",
+    "english": "In obedience to thy command I shall always worship Brahmanas.",
+    "morphology": "tvad_tvad_SB"
+  },
+  {
+    "index": 32311,
+    "sanskrit": "kṛtam uddharṣaṇam pūrvam mayā vaḥ sīdatām nṛpa",
+    "english": "Ye kings, formerly when ye were cheerless, it was even in this way that I excited you all.",
+    "morphology": "kṛtam_kṛ_SNPaPsNe uddharṣaṇam_uddharṣaṇa_SNNe pūrvam_pūrva_SNNe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36280,
+    "sanskrit": "dharmarājasya ca ātmānam bravīṣi bhrātaram katham teṣām tu vacanam śrutvā vāryamāṇaḥ api pāṇḍavaḥ āmantrya yakṣa rājam vai tatas piba harasva ca",
+    "english": "Why then dost thou say that thou art the brother of Yudhishthira the just? First, taking the permission of the lord of Yakshas, do thou drink of this lake and take away the flowers.",
+    "morphology": "dharmarājasya_dharmarāja_SGM ca_ca_U ātmānam_ātman_SAM bravīṣi_brū_SPr2In bhrātaram_bhrātṛ_SAM katham_katham_U teṣām_tad_PGM tu_tu_U vacanam_vacana_SANe śrutvā_śru_Co vāryamāṇaḥ_vāray_SNPaPrMPv api_api_U pāṇḍavaḥ_pāṇḍa"
+  },
+  {
+    "index": 36281,
+    "sanskrit": "mama satram idam divyam aham gṛhapatiḥ tu iha",
+    "english": "I am the Grahapati in it.",
+    "morphology": "mama_mad_SG"
+  },
+  {
+    "index": 36282,
+    "sanskrit": "tejasā abhyadhikau sūryāt sarva loka virocanāt",
+    "english": "And in consequence of the effulgence with which they illumined the world they seemed to transcend the very Sun in energy.",
+    "morphology": "tejaḥ_tejas_SINe"
+  },
+  {
+    "index": 36283,
+    "sanskrit": "kiṃ tarhi pratiniyatebhyaḥ kādācitkebhyaḥ svahetupratyayebhyaḥ samutpadyate /",
+    "english": "what happens is that the milk is produced by particular causes functioning occasionally;",
+    "morphology": "kim_ka_SNNe tarhi_tarhi_ pratiniyatebhyaḥ_pratiniyam_PBPaM kādācitkebhyaḥ_kādācitka_PBM sva_sva_Cp hetu_hetu_Cp pratyayebhyaḥ_pratyaya_PBM samutpadyate_samutpad_SPr3In  /"
+  },
+  {
+    "index": 36284,
+    "sanskrit": "śṛṇutāṃ me vacaḥ putrau nidhānakalaśīmimām | samaṃ vibhajya gṛhṇītaṃ mama śāsanagauravāt || 92 ||",
+    "english": "92. “Listen to me, dear sons. Share this treasure trove equally between you two. That is my order.”",
+    "morphology": "śṛṇutām_śru_DuPr3Im mama_mad_SG vacaḥ_vacas_SANe putrau_putra_DuNM nidhāna_nidhāna_Cp kalaśīm_kalaśī_SAF imām_idam_SAF  / samam_sama_SANe vibhajya_vibhaj_Co gṛhṇītam_grah_DuPr2Im mama_mad_SG śāsana_śāsana_Cp gauravāt_gaurava_SBNe"
+  },
+  {
+    "index": 36285,
+    "sanskrit": "sṛṣṭau brahmā sthitau viṣṇuḥ pralaye hararūpadhṛk | rajassattvatamobhiśca triguṇairaguṇaḥ prabho ||",
+    "english": "33. By virtue of three Guṇas, Rajas, Sattva and Tamas, Thou assumest the form of Brahmā at the time of creation, that of Viṣṇu at the time of sustenance and that of Rudra at the time of dissolution. Yet, O lord, Thou art devoid of attributes.",
+    "morphology": "sṛṣṭau_sṛṣṭi_SLF brahmā_brahman_SNM sthitau_sthiti_SLF viṣṇuḥ_viṣṇu_SNM pralaye_pralaya_SLM hara_hara_Cp rūpadhṛk_rūpadhṛk_SNM  /"
+  },
+  {
+    "index": 36286,
+    "sanskrit": "ity ākarṇya nṛpasya tasya vacanaṃ bhūyas tadaṃsasthalād vetālaḥ sahasā svam eva sa padaṃ māyāprabhāvād yayau / rājāpy anvasarat tathaiva sa punaḥ saṃprāptum etaṃ javād ārabdhe hi suduḥkare 'pi mahatāṃ madhye virāmaḥ kutaḥ // pañcaviṃśas taraṅgaḥ / tataḥ pitṛvane tasmin kravyabhakṣibhir āvṛte / jvālāvilolarasanair bhūtair iva citāgnibhiḥ // gatvaiva tasyām akṣobhyaḥ kṣapāyāṃ śiṃśapātarum / sa trivikramasenas tam āsasāda punar nṛpaḥ //",
+    "english": "therefore him I consider the more self-controlled of the two.” When the Vetāla heard this speech of the king’s, he again rapidly quitted his shoulder by the might of his delusive power, and returned to his own place; and the king followed him swiftly, as before, to recover him: for how can great men leave off in the middle of an enterprise which they have begun, even though it be very difficult? THEN in that cemetery, full of flames of funeral pyres, as of demons, flesh-devouring, with lolling tongues of fire, the undaunted King Trivikramasena went back that same night to the śiṃśapā tree.",
+    "morphology": "iti_iti_ ākarṇya_ākarṇay_Co nṛpasya_nṛpa_SGM tasya_tad_SGM vacanam_vacana_SANe bhūyas_bhūyas_ tad_tad_Cp aṃsa_aṃsa_Cp sthalāt_sthala_SBNe vetālaḥ_vetāla_SNM sahasā_sahasā_ svam_sva_SANe eva_eva_ sa_tad_SNM padam_pada_SANe māyā_māy"
+  },
+  {
+    "index": 36287,
+    "sanskrit": "hanyuḥ kruddhāḥ mahā rāja brāhmaṇāḥ ye tapasvinaḥ",
+    "english": "There is the superiority, however, of Penances, viz., that Brahmanas endued with Penances, O monarch, can, if angry, slay the object of their wrath (regardless of the measure of Energy with which that object may be endued).",
+    "morphology": "hanyuḥ_han_PPr3O"
+  }
+]

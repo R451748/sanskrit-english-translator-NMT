@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13536,
+    "sanskrit": "tatas devāḥ sa gandharvāḥ munayaḥ apsarasaḥ api ca kathām tām brahmaṇā gītām śrutvā prītāḥ divam yayuḥ",
+    "english": "And the gods and the Gandharvas, and the Munis and the Apsaras also, having listened to those words spoken by Brahman, were filled with delight and repaired to heaven.",
+    "morphology": "tatas_tatas_U devāḥ_deva_PNM sa_sa_U gandharvāḥ_gandharva_PNM munayaḥ_muni_PNF apsarasaḥ_apsaras_PNF api_api_U ca_ca_U kathām_kathā_SAF tām_tad_SAF brahmaṇā_brahman_SIM gītām_gā_SAPaPsF śrutvā_śru_Co prītāḥ_prī_PNPaPsM divam_div_"
+  },
+  {
+    "index": 13537,
+    "sanskrit": "tanna|",
+    "english": "iv.",
+    "morphology": "tat_tad_SNNe"
+  },
+  {
+    "index": 13538,
+    "sanskrit": "vṛkṣamadhyādutsṛjedgāṃ tato 'bhiṣekamantrataḥ //",
+    "english": "Remaining in the midst of trees a cow should be let off with the recitation of abhiṣekamantra.",
+    "morphology": "vṛkṣa_vṛkṣa_Cp madhyāt_madhya_SBNe utsṛjet_utsṛj_SPr3O gām_go_SAF tatas_tatas_ abhiṣeka_abhiṣeka_Cp mantrataḥ_mantra_SBM  /"
+  },
+  {
+    "index": 13539,
+    "sanskrit": "devakīṃ vasudevaṃ ca yaśodāṃ nandakaṃ balaṃ /",
+    "english": "In the same way one should worship Devakī, Vasudeva, Yaśodā, Nandaka foster father of Kṛṣṇa and Bala bhadra.",
+    "morphology": "devakīm_devakī_SAF vasudevam_vasudeva_SAM ca_ca_ yaśodām_yaśodā_SAF nandakaḥ_nandaka_SNM balaḥ_bala_SNM  /"
+  },
+  {
+    "index": 13540,
+    "sanskrit": "bālam hi anārtavam jīrṇam vyādhitam krimi bhakṣitam |",
+    "english": "Edible bulbs, which are extremely tender or immature, diseased, decomposed or sprouting in an improper season of the year, or are worm-eaten, should be rejected as unfit for use.",
+    "morphology": "bālam_bāla_SAM hi_hi_U anārtavam_anārtava_SAM jīrṇam_jīrṇa_SAM vyādhitam_vyādhita_SAM krimi_krimi_MCp bhakṣitam_bhakṣay_SAPaPsM"
+  },
+  {
+    "index": 13541,
+    "sanskrit": "pārśvayoḥ asthi hīna udgatam asthi chalitam |",
+    "english": "The case where the covering or skin of the bone (periosteum) is cast or splintered off is called the Asthi-challita.",
+    "morphology": "pārśvayoḥ_pārśva_DuLM asthi_asthi_NeCp hīna_hā_PaPsCp udgatam_udgam_SNPaPsNe asthi_asthi_NeCp chalitam_chalay_SNPaPsNe"
+  },
+  {
+    "index": 13542,
+    "sanskrit": "puruṣa evedam̐ sarvaṃ yad bhūtaṃ yac ca bhāvyam / utāmṛtatvasyeśāno yad annenātirohati //",
+    "english": "Purusha is in truth this All, what hath been and what yet shall be; Lord, too, of immortality which waxes greater still by food. 3",
+    "morphology": "puruṣaḥ_puruṣa_SNM eva_eva_ idam_idam_SNNe sarvam_sarva_SNNe yat_yad_SNNe bhūtam_bhū_SNPaNe yat_yad_SNNe ca_ca_ bhāvyam_bhū_SNNeGd  / uta_uta_ amṛta_amṛta_Cp tvasya_tva_SGNe īśānaḥ_īś_SNPaPrM yat_yat_ annena_anna_SINe atirohati_atiruh_"
+  },
+  {
+    "index": 13543,
+    "sanskrit": "mama dharmyam balim datta kim vā mām pratipatsyatha",
+    "english": "Give me the just tribute or encounter me in battle.' If the people accept him for their king, there need not be any fighting.",
+    "morphology": "mama_mad_SG dharmyam_dharmya_SAM balim_bali_SAM datta_dā_PPr2Im kim_kim_U vā_vā_U mām_mad_SA pratipatsyatha_pratipad_PFu2In"
+  }
+]

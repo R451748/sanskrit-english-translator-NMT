@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17048,
+    "sanskrit": "santi tīrthānyanekāni suguptāni dvijottamāḥ | tāni gacchettu viprendrāḥ sarvapāpāpanuttaye || 36 ||",
+    "english": "36. O the good Brāhmaṇas! there have been many centres of pilgrimage here lying undisclosed/uncovered. One can raise oneself above all sins by going there.",
+    "morphology": "santi_as_PPr3In tīrthāni_tīrtha_PNNe anekāni_aneka_PNNe su_su_ guptāni_gup_PNPaNe dvijottamāḥ_dvijottama_PVM  / tāni_tad_PANe gacchet_gam_SPr3O tu_tu_ vipra_vipra_Cp indrāḥ_indra_PVM sarva_sarva_Cp pāpa_pāpa_Cp apanuttaye_apanutti_SDF  /"
+  },
+  {
+    "index": 17049,
+    "sanskrit": "tatas gaccheta dharma jña dadhīcasya mahātmanaḥ tīrtham puṇyatamam rājan pāvanam loka viśrutam",
+    "english": "One should next proceed, O virtuous one, to the most sacred tirtha of the illustrious Dadhicha, that sanctifying tirtha which is celebrated over the whole world.",
+    "morphology": "tatas_tatas_U gaccheta_gam_SPr3O dharma_dharma_MCp jña_jña_SVM dadhīcasya_dadhīca_SGM mahātmanaḥ_mahātman_SGM tīrtham_tīrtha_SANe puṇyatamam_puṇyatama_SANe rājan_rājan_SVM pāvanam_pāvana_SANe loka_loka_MCp viśrutam_viśru_SAPaPsNe"
+  },
+  {
+    "index": 17050,
+    "sanskrit": "tadeva samahīnantu proktaṃ madhyakanīyasi /",
+    "english": "It is said to be mediocre if equal and inferior if less than that.",
+    "morphology": "tat_tad_SNNe eva_eva_ sama_sama_Cp hīnam_hā_SNPaNe tu_tu_ proktam_pravac_SNPaNe madhya_madhya_Cp kanīyasi_kanīyas_SLNe  /"
+  },
+  {
+    "index": 17051,
+    "sanskrit": "sa ca tam ratham utsṛjya dhṛṣṭaketuḥ mahāmanāḥ",
+    "english": "The high-souled Dhrishtaketu then.",
+    "morphology": "sa_tad_SNM ca_ca_U tam_tad_SAM ratham_ratha_SAM utsṛjya_utsṛj_Co dhṛṣṭaketuḥ_dhṛṣṭaketu_SNM mahāmanāḥ_mahāmanas_SNM"
+  },
+  {
+    "index": 17052,
+    "sanskrit": "nityam na aticaran lābhe alābhe sapta pūrayan",
+    "english": "If I do not obtain anything after completing my round of seven or ten houses, moved by covetousness, I shall not enlarge my round.",
+    "morphology": "nityam_nityam_U na_na_U aticaran_aticar_SNPaPrM"
+  },
+  {
+    "index": 17053,
+    "sanskrit": "pākayajñaiḥ svayaṃ yajetety eke /",
+    "english": "According to some, he may offer sacrifices on his own using cooked food.",
+    "morphology": "pākayajñaiḥ_pākayajña_PIM svayam_svayam_ yajeta_yaj_SPr3O iti_iti_ eke_eka_PNM"
+  },
+  {
+    "index": 17054,
+    "sanskrit": "tena avakīrṇāḥ rajasā devāḥ moham upāgaman",
+    "english": "And the latter, overwhelmed with that dust, swooned away.",
+    "morphology": "tena_tad_SINe avakīrṇāḥ_avakṛ_PNPaPsM rajasā_rajas_SINe devāḥ_deva_PNM moham_moha_SAM upāgaman_upagam_PPs3In"
+  },
+  {
+    "index": 17055,
+    "sanskrit": "tatra lohita pūrṇa koṣṭha tayā mriyate",
+    "english": "An injury to the Parshva-Sandhi-Marmas[33] (celic axes) which are situated just at the middle below the extremities of the sides (Parshva) and which lies attached at the middle between the loins at their lower regions, feels the Koshtha (abdomen) with the blood and results into death A hurt to the Vrihati-Marmas[34] which commencing from the roots of the breast course round both the sides of the spinal column (Pristha-vamsha), cause excessive bleeding, and the patient dies, as supervening symptoms arise from an excessive loss of blood.",
+    "morphology": "tatā_tatra_U"
+  }
+]

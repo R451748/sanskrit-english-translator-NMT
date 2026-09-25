@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47656,
+    "sanskrit": "kṣatriyasya śūdrāyām ugraḥ // śūdra eva vaiśyasya //",
+    "english": "The son begotten by a Kshatriya on a Súdra woman is known as Ugra; the son begotten by a Vaisya on a Súdra woman is no other than a Súdra",
+    "morphology": "kṣatriyasya_kṣatriya_SGM śūdrāyām_śūdrā_SLF ugraḥ_ugra_SNM  // śūdraḥ_śūdra_SNM eva_eva_ vaiśyasya_vaiśya_SGM  /"
+  },
+  {
+    "index": 47657,
+    "sanskrit": "purā rāthaṃtare kalpe devadāruvane śubhe | ṛṣirmaṃkaṇakonāma vedavedāṃgapāragaḥ | yogābhyāsarato nityaṃ śāṃtidāṃtisamāsthitiḥ || 2 || siddhikāmastapastepe kathaṃ siddho bhavāmyaham | raktamayavikāroyaṃ kathaṃ yāsyati saṃkṣayam || 3 ||",
+    "english": "2-4. Formerly in the Rāthantara Kalpa, in the splendid Devadāru Vana, Sage Maṅkaṇaka[1] performed a penance. He was a master of the Vedas and Vedāṅgas. He was always engaged in the practice of Yoga. He had equipoise and full mental control and control over the sense-organs. He desired achievement of spiritual powers. ‘How can I become a Siddha? How can this fault inherent in the blood, will cease to exist?’",
+    "morphology": "purā_purā_ rāthaṃtare_rāthaṃtara_SLM kalpe_kalpa_SLM devadāru_devadāru_Cp vane_vana_SLNe śubhe_śubha_SLNe  / ṛṣiḥ_ṛṣi_SNM maṃkaṇakaḥ_maṅkaṇaka_SNM nāma_nāma_ veda_veda_Cp vedāṃga_vedāṅga_Cp pāragaḥ_pāraga_SNM  / "
+  },
+  {
+    "index": 47658,
+    "sanskrit": "yudhiṣṭhira uvāca | alaṃ sarvaguṇaistasyā yasyāstveko guṇo mahān | kriyate kiṃ hi kṣīreṇa yadi tadviṣamiśritam || 65 ||",
+    "english": "Yudhiṣṭhira said: 65-67. She may very well have many good qualities but she has one great defect. What is the use of that milk which is mixed with poison?",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In  / alam_alam_ sarva_sarva_Cp guṇaiḥ_guṇa_PIM tasyāḥ_tad_SGF yasyāḥ_yad_SGF tu_tu_ ekaḥ_eka_SNM guṇaḥ_guṇa_SNM mahān_mahat_SNM  / kriyate_kṛ_SPr3InPv kim_ka_SNNe hi_hi_ kṣīre"
+  },
+  {
+    "index": 47659,
+    "sanskrit": "akṛtyān kṛtyapakṣīyair darśitān kāryahetubhiḥ / paraapasarpajñānaarthaṃ mukhyān anteṣu vāsayet //",
+    "english": "Those chiefs whose inimical design has been found out by spies supporting the kings cause shall, in view of affording opportunity to detect the spies of foreign kings, be made to live on Kautilyas Arthashastra the boundaries of the state",
+    "morphology": "akṛtyān_akṛtya_PAM kṛtya_kṛtya_Cp pakṣīyaiḥ_pakṣīya_PIM darśitān_darśay_PAPaM kārya_kārya_Cp hetubhiḥ_hetu_PIM  / para_para_Cp apasarpa_apasarpa_Cp jñāna_jñāna_Cp artham_artha_SAM mukhyān_mukhya_PAM"
+  },
+  {
+    "index": 47660,
+    "sanskrit": "te ca yadusainikāstatra maptāṣṭādināni tanniṣkrāntimudikṣamāṇāstasthuḥ // aniṣkramaṇe ca madhuripurasāvavaśyamatra bile 'tyantaṃ nāśamavāpto bhaviṣyatyanyathā",
+    "english": "The Yādavas who had accompanied the latter waited seven or eight days in expectation of his return, but as the foe of Madhu still came not forth, they concluded that he must have met his death in the cavern.",
+    "morphology": "te_tad_PNM ca_ca_ yadu_yadu_Cp sainikāḥ_sainika_PNM tatra_tatra_ mapta_maptan_Cp aṣṭa_aṣṭan_Cp dināni_dina_PANe tad_tad_Cp niṣkrāntim_niṣkrānti_SAF udikṣamāṇāḥ_udīkṣ_PNPaPrM tasthuḥ_sthā_PPs3In  // a_a_ niṣkramaṇe_niṣk"
+  },
+  {
+    "index": 47661,
+    "sanskrit": "rājñām hi balam aiśvaryam brahma brahma vidām balam",
+    "english": "The power of kings consists in their sovereignty. The power of Brahmanas conversant with the Vedas is in the Vedas.",
+    "morphology": "rājñām_rājan_PGM"
+  },
+  {
+    "index": 47662,
+    "sanskrit": "tantravārtika /",
+    "english": "Sutra . What has been said above applies to the last two Sutras of the Purvapaksha.",
+    "morphology": "__U"
+  },
+  {
+    "index": 47663,
+    "sanskrit": "anena viṣayo 'sya kevalo nirdiṣṭo natu svarūpam //",
+    "english": "This shows only the object cognisable by this Means of Cognition, not the form of the Cognition itself.",
+    "morphology": "anena_idam_SIM viṣayaḥ_viṣaya_SNM asya_idam_SGM kevalaḥ_kevala_SNM nirdiṣṭaḥ_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 128,
+    "sanskrit": "anyodaryastu saṃsṛṣṭī nānyodaryadhanaṃ haret /",
+    "english": "The coparcener not born of the same womb should not inherit the property of one not born of the same womb.",
+    "morphology": "anya_anya_Cp udaryaḥ_udarya_SNM tu_tu_ saṃsṛṣṭī_saṃsṛṣṭin_SNM na_na_ aḥ_ḥ_"
+  },
+  {
+    "index": 129,
+    "sanskrit": "nānā varṇa rujā āsrāvaḥ ghāṭālaḥ viṣamaḥ mahān viṣamam pacyate ca api vidradhiḥ sāṃnipātikaḥ",
+    "english": "An abscess of the Sannipatika type is of varied colour, and is attended with a varied sort of pain (sucking, drawing, turning etc.) and exudes secretions of various colours (white, yellow, etc.).",
+    "morphology": "nānā_nānā_U varṇa_varṇa_MCp rujā_rujā_FCp āsrāvaḥ_āsrāva_SNM ghāṭālaḥ_ghāṭāla_SNM viṣamaḥ_viṣama_SNM mahān_mahat_SNM viṣamam_viṣama_SANe pacyate_pac_SPr3InPv ca_ca_U api_api_U vidradhiḥ_vidradhi_SNM sāṃnipātikaḥ"
+  },
+  {
+    "index": 130,
+    "sanskrit": "na adhyagaccham yadā tāsu tadā me kaśmalaḥ abhavat",
+    "english": "When I failed to find it even there, a cloudedness of understanding came over me.",
+    "morphology": "na_na_U adhyagaccham_adhigam_SPs1In yadā_yadā_U tāsu_tad_PLF tadā_tadā_U me_mad_SG kaśmalaḥ_kaśmala_SNM abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 131,
+    "sanskrit": "buddhyante niyatād arthāt arthāntaram asaṃśayam //209// anumānāpalāpe tupratyakṣād api durlabhā /",
+    "english": "If validity is denied to inference then all worldly transactions cannot be conducted with the mere help of perception.",
+    "morphology": "buddhi_buddhi_Cp ante_anta_SLM niyatāt_niyam_SBPaM arthāt_artha_SBM artha_artha_Cp antaram_antara_SNNe asaṃśayam_asaṃśayam_  //209 anumāna_anumāna_Cp apalāpe_apalāpa_SLM tu_tu_ pratyakṣāt_pratyakṣa_SBNe api_api_ durlabhā_durlabha_SNF  /"
+  },
+  {
+    "index": 132,
+    "sanskrit": "kāni dānāni śastāni kasmai deyāni kānyapi | kālaṃ deśaṃ ca pātraṃ ca sarvamācakṣva me vibho || 2 ||",
+    "english": "What are the Dānas specially recommended. To whom what should be given? O Lord, tell me everything, including the proper time, place and deserving person.",
+    "morphology": "kāni_ka_PNNe dānāni_dāna_PNNe śastāni_śaṃs_PNPaNe kasmai_ka_SDM deyāni_dā_PNNeGd kāni_ka_PNNe api_api_  / kālam_kāla_SAM deśam_deśa_SAM ca_ca_ pātram_pātra_SANe ca_ca_ sarvam_sarva_SANe ācakṣva_ācakṣ_S2ImIn me_mad_SD vibho_vibhu_SVM"
+  },
+  {
+    "index": 133,
+    "sanskrit": "brahmovāca | vadantu brāhmaṇāḥ sarve gopakanyāpyasau yadi | saṃbhūya brāhmaṇīśreṣṭhā yathā patnī bhavenmama || 71 ||",
+    "english": "Brahmā said: 71. May all the Brāhmaṇas say collectively that though she is the daughter of a cowherd she has become an excellent Brāhmaṇa girl so that she can be my wife. The Brāhmaṇas said:",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / vadantu_vad_PPr3Im brāhmaṇāḥ_brāhmaṇa_PNM sarve_sarva_PNM gopa_gopa_Cp kanyā_kanyā_SNF api_api_ asau_adas_SNF yadi_yadi_  / saṃbhūya_sambhū_Co brāhmaṇī_brāhmaṇī_Cp śreṣṭhā_śreṣṭha_S"
+  },
+  {
+    "index": 134,
+    "sanskrit": "gṛhastha āśramiṇaḥ tat ca yajña karma virodhakam",
+    "english": "For one in the observance of domesticity the performance of sacrifice is fraught with impediments.",
+    "morphology": "gṛhastha_gṛhastha_MCp āśramiṇaḥ_āśramin_PNM"
+  },
+  {
+    "index": 135,
+    "sanskrit": "samantādyojanaśataṃ mahāpuṇyaṃ bhaviṣyati /",
+    "english": "Hundred yojanas all along the hill would become greatly meritorious.",
+    "morphology": "samantāt_samantāt_ yojana_yojana_Cp śatam_śata_SANe mahā_mahat_Cp puṇyam_puṇya_SNNe bhaviṣyati_bhū_SFu3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48632,
+    "sanskrit": "na khalu vai paśava āyavase ramante dūrveṣṭakām upa dadhāti paśūnāṃ dhṛtyai dvābhyām pratiṣṭhityai kāṇḍātkāṇḍāt prarohantīty āha kāṇḍenakāṇḍena hy eṣā pratitiṣṭhai |",
+    "english": "animals do not find pleasure in want of grass; a brick of Durva grass he puts down, to support animals; with two (verses), for support. 'Arising from every stem', he says, for it finds support with every stem; 'do thou, O Durva, extend us with a thousand, a hundred', he says;",
+    "morphology": "na_na_ khalu_khalu_ vai_vai_ paśavaḥ_paśu_PNM āyavase_āyavasa_SLNe ramante_ram_PPr3In dūrvā_dūrvā_Cp iṣṭakām_iṣṭakā_SAF upa_upa_ dadhāti_dhā_SPr3In paśūnām_paśu_PGM dhṛtyai_dhṛti_SDF dvābhyām_dvi_DuIF pratiṣṭhityai_prati"
+  },
+  {
+    "index": 48633,
+    "sanskrit": "agniṃ hotāram iha taṃ huve devān yajñiyān iha yān havāmahe |",
+    "english": "may it be successful for me. Agni, the priest, I summon hither;",
+    "morphology": "agnim_agni_SAM hotāram_hotṛ_SAM iha_iha_ tam_tad_SAM huve_hvā_SPr1In devān_deva_PAM yajñiyān_yajñiya_PAM"
+  },
+  {
+    "index": 48634,
+    "sanskrit": "mā naḥ soma paribādhaḥ mā arātayaḥ juhuranta ā naḥ indo iti vāje bhaja",
+    "english": "O Soma 1, let not those who harass and injure overthrow us; O Indu, help us to booty!",
+    "morphology": "mā_mā_U naḥ_mad_PA soma_soma_SVM paribādhaḥ_paribādh_PNF mā_mā_U arātayaḥ_arāti_PNF juhuranta_hvṛ_PPr3Su"
+  },
+  {
+    "index": 48635,
+    "sanskrit": "śucīn nirupādhīn /",
+    "english": "\"Pure\" free from defects.",
+    "morphology": "śucīḥ_śuci_PAM"
+  },
+  {
+    "index": 48636,
+    "sanskrit": "aviṣahyam tatas dṛṣṭvā rādheyam yudhi yodhinaḥ bhīmasenam upāgacchan karṇa bāṇa prapīḍitāḥ",
+    "english": "Beholding the son of Radha to be irresistible in that battle, those warriors, afflicted with the arrows of their assailant, repaired to the presence of Bhimasena.",
+    "morphology": "aviṣahyam_aviṣahya_SAM tatas_tatas_U dṛṣṭvā_dṛś_Co rādheyam_rādheya_SAM yudhi_yudh_SLF yodhinaḥ_yodhin_PNM bhīmasenam_bhīmasena_SAM upāgacchan_upagam_PPs3In karṇa_karṇa_MCp bāṇa_bāṇa_MCp prapīḍitāḥ_prapīḍay_PNPaPsM"
+  },
+  {
+    "index": 48637,
+    "sanskrit": "tasmānmaheśvaraścaiva prakṛtiḥ puruṣastathā | sadāśivabhavo viṣṇurbrahmā sarvaśivātmakam ||",
+    "english": "12. Hence he alone is Prakṛti, Puruṣa, Sadāśiva, Bhava, Viṣṇu and Brahmā. Everything is identical with Śiva.",
+    "morphology": "tasmāt_tasmāt_ maheśvaraḥ_maheśvara_SNM ca_ca_ eva_eva_ prakṛtiḥ_prakṛti_SNF puruṣaḥ_puruṣa_SNM tathā_tathā_  / sadāśiva_sadāśiva_Cp bhavaḥ_bhava_SNM viṣṇuḥ_viṣṇu_SNM brahmā_brahman_SNM sarva_sarva_Cp śiva_śiva_Cp āt"
+  },
+  {
+    "index": 48638,
+    "sanskrit": "prahṛṣṭāḥ ca sutāḥ tubhyam kuravaḥ ca api sarvaśas",
+    "english": "Thy sons, however, and all the Kurus, were filled with delight.",
+    "morphology": "prahṛṣṭāḥ_prahṛṣ_PNPaPsM ca_ca_U sutāḥ_suta_PNM tubhyam_tvad_SD kuravaḥ_kuru_PNM ca_ca_U api_api_U sarvaśas_sarvaśas_U"
+  },
+  {
+    "index": 48639,
+    "sanskrit": "nārada uvāca | āgato'haṃ nṛpaśreṣṭha sakāśācchamanasya ca | vyāsenoktāṃ brahmaṇogre kathāṃ paurāṇikīṃ śubhām || 99 ||",
+    "english": "Nārada said: 99-103. O excellent king, I am coming from the presence of Śamana (Dharma). The divine story concerning Dharmāraṇya, the splendid mythological story that dispels all distress, was recounted by Vyāsa in the presence of Brahmā.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / āgataḥ_āgam_SNPaM aham_mad_SN nṛpa_nṛpa_Cp śreṣṭha_śreṣṭha_SVM sakāśāt_sakāśa_SBM śamanasya_śamana_SGM ca_ca_  / vyāsena_vyāsa_SIM uktām_vac_SAPaF brahmaṇā_brahman_SIM ugre_ugra_SLN"
+  }
+]

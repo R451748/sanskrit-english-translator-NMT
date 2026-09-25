@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16592,
+    "sanskrit": "āvidhyantam gadām dṛṣṭvā bhīmasenam tava ātmajaḥ samudyamya gadām ghorām pratyavidhyat ariṃdamaḥ",
+    "english": "Seeing Bhima whirl his mace, thy son, uplifting his own terrible weapon, struck him again.",
+    "morphology": "āvidhyantam_āvyadh_SAPaPrM gadām_gadā_SAF dṛṣṭvā_dṛś_Co bhīmasenam_bhīmasena_SAM tava_tvad_SG ātmajaḥ_ātmaja_SNM samudyamya_samudyam_Co gadām_gadā_SAF ghorām_ghora_SAF pratyavidhyat_prativyadh_SPs3In ariṃdamaḥ_ariṃdama_SNM"
+  },
+  {
+    "index": 16593,
+    "sanskrit": "sā ca vṛkṣe nopalabhyata iti //",
+    "english": "There is also a noun 'ghata'.",
+    "morphology": "sā_tad_SNF ca_ca_ vṛkṣe_vṛkṣa_SLM na_na_ upalabhyate_upalabh_SPr3InPv iti_iti_"
+  },
+  {
+    "index": 16594,
+    "sanskrit": "na ca samastā api te grāsā yugapat prayoktum śakyāḥ //",
+    "english": "But none can swallow up all morsels of food at a time.",
+    "morphology": "na_na_U ca_ca_U samastāḥ_samasta_PNM api_api_U te_tad_PNM grāsāḥ_grāsa_PNM yugapad_yugapad_U prayoktum_prayuj_In śakyāḥ_śakya_PNM  /"
+  },
+  {
+    "index": 16595,
+    "sanskrit": "arājakeṣu rāṣṭreṣu na asti vṛṣṭiḥ na devatāḥ prajānāthā vinaśyati",
+    "english": "In a kingdom where there is no king, the people perish from want of protection;",
+    "morphology": "arājakeṣu_arājaka_PLNe rāṣṭreṣu_rāṣṭra_PLNe na_na_U asti_as_SPr3In vṛṣṭiḥ_vṛṣṭi_SNF na_na_U devatāḥ_devatā_PNF prajānāthā_prajānāthā_SNF vinaśyati_vinaś_SPr3In"
+  },
+  {
+    "index": 16596,
+    "sanskrit": "kuñcyamānam rujā ārtam vā gātram stabdham atha api vā gāḍham paṭṭaiḥ nibadhnīyāt kṣauma kārpāsika aurṇikaiḥ",
+    "english": "The poultice should be applied to such part of the body as is numbed, painful or contracted and the affected part should be firmly bandaged thereafter with a piece of Kshauma[7] linen or woollen cloth.",
+    "morphology": "kuñcyamānam_kuñc_SAPaPrNePv rujā_ruj_SIF ārtam_ārta_SANe vā_vā_U gātram_gātra_SANe stabdham_stambh_SAPaPsNe atha_atha_U api_api_U vā_vā_U gāḍham_gāḍham_U paṭṭaiḥ_paṭṭa_PIM nibadhnīyāt_nibandh_SPr3O kṣauma_kṣauma_Cp kārpā"
+  },
+  {
+    "index": 16597,
+    "sanskrit": "ekasthānaniveśo vā vyaktisthānamapekṣya saḥ||",
+    "english": "\"Or entrance into the same place, or in relation to the place of the individual;",
+    "morphology": "eka_eka_Cp sthāna_sthāna_Cp niveśaḥ_niveśa_SNM vā_vā_ vyakti_vyakti_Cp sthānam_sthāna_SANe apekṣya_apekṣ_Co saḥ_tad_SNM"
+  },
+  {
+    "index": 16598,
+    "sanskrit": "tatra rūpādiśabdāntānāṃ rūpatvādijātirlakṣaṇam|",
+    "english": "Their respective genera (rūpatva, &c.) are their several definitions.",
+    "morphology": "tatra_tatra_ rūpa_rūpa_Cp ādi_ādi_Cp śabda_śabda_Cp antānām_anta_PGM rūpa_rūpa_Cp tva_tva_Cp ādi_ādi_Cp jātiḥ_jāti_SNF"
+  },
+  {
+    "index": 16599,
+    "sanskrit": "dakṣahastena saṃgṛhya jalaṃ vāmena pāṇinā | samācchādya dviṣaḍvāraṃ praṇave nābhimaṃtrayet ||",
+    "english": "27-28. Touching the navel, the joints of the arms and the back in order he shall wash both the hands duly and perform Ācamana twice. He shall take some water in the right hand and cover it with the left hand. Praṇava is then repeated twelve times.",
+    "morphology": "dakṣa_dakṣa_Cp hastena_hasta_SIM saṃgṛhya_saṃgrah_Co jalam_jala_SANe vāmena_vāma_SIM pāṇinā_pāṇi_SIM  / samācchādya_samācchāday_Co dvi_dvi_Cp ṣaṣ_ṣaṣ_Cp vāram_vāra_SAM praṇave_praṇava_SLM na_na_ abhimaṃtrayet_abhimant"
+  }
+]

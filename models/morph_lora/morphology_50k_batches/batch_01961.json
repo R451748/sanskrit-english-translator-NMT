@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15680,
+    "sanskrit": "vṛddho vayaḥpariṇāmād asaṃsmṛtiḥ /",
+    "english": "\"Too old\" One who is too old is subject to lapses of memory.",
+    "morphology": "__vṛddha_U"
+  },
+  {
+    "index": 15681,
+    "sanskrit": "pūrṇāhaṃ bhāvamāśritya ye muktā dehapaṃjarāt | ye tūpāsanamārgeṇa dehamuktāḥ paraṃgataḥ || teṣāṃ gativiśeṣañca bhagavañchaṃkarātmaja | vaktumarhasi suprītyā māṃ vicāryya svaśiṣyataḥ ||",
+    "english": "3-4. O lord, son of Śiva, considering me as your disciple please tell me lovingly the mode of departure for those who are liberated from the corporal cage after realising perfect identity with the Brahman and who have attained their goal after liberation through the path of Upāsanā.",
+    "morphology": "pūrṇā_pūrṇa_SNF aham_mad_SN bhāvam_bhāva_SAM āśritya_āśri_Co ye_yad_PNM muktāḥ_muc_PNPaM deha_deha_Cp paṃjarāt_pañjara_SBNe  / ye_yad_PNM tu_tu_ upāsana_upāsana_Cp mārgeṇa_mārga_SIM deha_deha_Cp muktāḥ_muc_PNPaM paraṃgataḥ_"
+  },
+  {
+    "index": 15682,
+    "sanskrit": "viśvāni śakraḥ naryāṇi vidvān apaḥ rireca sakhibhiḥ nikāmaiḥ / aśmānam cit ye bibhiduḥ vacobhiḥ vrajam gomantam uśijaḥ vi vavruḥ //",
+    "english": "Sakra who knoweth well all human actions hath with his eager friends let loose the waters. They with their songs cleft e'en the mountain open, and willingly disclosed the stall of cattle.",
+    "morphology": "viśvāni_viśva_PANe śakraḥ_śakra_SNM naryāṇi_narya_PANe vidvān_vid_SNPaPsM apaḥ_ap_PAF rireca_ric_SPs3In sakhibhiḥ_sakhi_PIM nikāmaiḥ_nikāma_PIM  / aśmānam_aśman_SAM cit_cit_U ye_yad_PNM bibhiduḥ_bhid_PPs3In vacobhiḥ_vacas_PINe vra"
+  },
+  {
+    "index": 15683,
+    "sanskrit": "rasasyāṣṭaguṇā //",
+    "english": "On liquids, (no higher than to make it) eightfold;",
+    "morphology": "rasasya_rasa_SGM aḥ_aḥ_"
+  },
+  {
+    "index": 15684,
+    "sanskrit": "nirmalāstu te vimokṣamukhatrayam / anāsravāstvete trayaḥ samādhayastrīṇi vimokṣamukhānyucyante /",
+    "english": "Immaculate, they are the three gates to deliverance. When they are undefiled, they are also called “the gates to”.",
+    "morphology": "nirmalāḥ_nirmala_PNM tu_tu_ te_tad_PNM vimokṣa_vimokṣa_Cp mukha_mukha_Cp trayam_traya_SNNe  / anāsravāḥ_anāsrava_PNM tu_tu_ ete_etad_PNM trayaḥ_tri_PNM samādhayaḥ_samādhi_PNM trīṇi_tri_PNNe vimokṣa_vimokṣa_Cp mukhāni_mukha_PNNe uc"
+  },
+  {
+    "index": 15685,
+    "sanskrit": "yādṛśaṃ ca pānaṃ tādṛśe eva vastrānne 'to nikṛṣṭaṃ vastraṃ cānnaṃ dātavyam /",
+    "english": "Food and clothing also should be of the same inferior quality as the drink.",
+    "morphology": "yādṛśam_yādṛśa_SNNe ca_ca_ pānam_pāna_SNNe tādṛśe_tādṛśa_DuNNe eva_eva_ vastra_vastra_Cp anne_anna_DuNNe atas_atas_ nikṛṣṭa_nikṛṣṭa_SNNe vastram_vastra_SNNe ca_ca_ annam_anna_SNNe dātavyam_dā_SNNeGd  /"
+  },
+  {
+    "index": 15686,
+    "sanskrit": "ghoṣa yātrā apadeśena gamiṣyāmaḥ na saṃśayaḥ tatas prahasitāḥ sarve te anyonyasya talān daduḥ",
+    "english": "Without doubt, we may all go there under the pretext of supervising our cattle stations!' \"They then all three laughed together, and gave their hands unto one another.",
+    "morphology": "ghoṣa_ghoṣa_MCp yātrā_yātrā_FCp apadeśena_apadeśa_SIM gamiṣyāmaḥ_gam_PFu1In na_na_U saṃśayaḥ_saṃśaya_SNM tatas_tatas_U prahasitāḥ_prahas_PNPaPsM sarve_sarva_PNM te_tad_PNM anyonyasya_anyonya_SGM talān_tala_PAM"
+  },
+  {
+    "index": 15687,
+    "sanskrit": "bālaḥ eva abhijātaḥ asi sarva bhūta anupālakaḥ janamejayaḥ uvāca na asmin kule jātu babhūva rājā",
+    "english": "Thou wast installed while a child, and art thus protecting every creature.' \"Janamejaya said, 'There hath not been born in our race a king who hath not sought the good of his subjects or been loved by them.",
+    "morphology": "bālaḥ_bāla_SNM eva_eva_U abhijātaḥ_abhijan_SNPaPsM asi_as_SPr2In sarva_sarva_Cp bhūta_bhūta_NeCp anupālakaḥ_anupālaka_SNM janamejayaḥ_janamejaya_SNM uvāca_vac_SPs3In na_na_U asmin_idam_SLNe kule_kula_SLNe jātīḥ_jātī_SNF"
+  }
+]

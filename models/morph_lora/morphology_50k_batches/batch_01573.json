@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12576,
+    "sanskrit": "abhrir asi nāriḥ |",
+    "english": "Thou art the bearer, thou art the woman;",
+    "morphology": "abhriḥ_abhri_SNF"
+  },
+  {
+    "index": 12577,
+    "sanskrit": "kāṣāyā vaidyakaprasiddhā anekauṣadhisaṃyogena ye kvāthyante /",
+    "english": "\"Decoctions\" are wellknown in medical works, as prepared by the boiling of herbs.",
+    "morphology": "kāṣāyāḥ_kāṣāya_PNM vaidyaka_vaidyaka_Cp prasiddhāḥ_prasidh_PNPaM aneka_aneka_Cp oṣadhi_oṣadhi_Cp saṃyogena_saṃyoga_SIM ye_yad_PNM"
+  },
+  {
+    "index": 12578,
+    "sanskrit": "bhujyatām iti tena uktāḥ kṛṣṇa bhīma dhanaṃjayāḥ jarāsaṃdhena kauravya kṛṣṇena vikṛtam kṛtam",
+    "english": "And when Jarasandha, O thou of the Kuru race, asked Krishna and Bhima and Dhananjaya to eat, it was this Krishna that refused that monarch's request.",
+    "morphology": "bhujyatām_bhuj_SPr3ImPv iti_iti_U tena_tad_SIM uktāḥ_vac_PNPaPsM kṛṣṇa_kṛṣṇa_MCp bhīma_bhīma_MCp dhanaṃjayāḥ_dhanaṃjaya_PNM jarāsaṃdhena_jarāsaṃdha_SIM kauravya_kauravya_MCp kṛṣṇena_kṛṣṇa_SIM vikṛtam_vikṛ_SNPa"
+  },
+  {
+    "index": 12579,
+    "sanskrit": "naca yatra samyag jñānaṃ tatra tadviruddhasya mithyājñānasya sambhavaḥ //",
+    "english": "and a person who possesses True Knowledge can never have any false idea of things at all (3325-3330)",
+    "morphology": "na_na_ ca_ca_ yatra_yatra_ samyak_samyak_ jñānam_jñāna_SNNe tatra_tatra_ tad_tad_Cp viruddhasya_virudh_SGPaNe mithyājñānasya_mithyājñāna_SGNe sambhavaḥ_sambhava_SNM  /"
+  },
+  {
+    "index": 12580,
+    "sanskrit": "nimittam-asamanupaśyaṃs-tathāgataḥ",
+    "english": "Not seeing any ground (for that) the Realised One",
+    "morphology": "nimittam_nimitta_SANe"
+  },
+  {
+    "index": 12581,
+    "sanskrit": "iha sāṃkhyānāṃ svabhāvo nāma kaścitkāraṇamasti /",
+    "english": "Herein, among the followers of the Sāmkhya doctrine, there is a certain spontaneity as the cause ?.",
+    "morphology": "iha_iha_ sāṃkhyānām_sāṃkhya_PGM svabhāvaḥ_svabhāva_SNM nāma_nāma_"
+  },
+  {
+    "index": 12582,
+    "sanskrit": "bhrānta sarva mahābhūtam āvarjita divākaram",
+    "english": "The sun seemed to turn.",
+    "morphology": "bhrānta_bhraṃś_PaPsCp sarva_sarva_Cp māhā_māhā_Cp bhāṇā_bhāṇā_SNF"
+  },
+  {
+    "index": 12583,
+    "sanskrit": "tatrāgninā'bhavadyuddhaṃ yamena varuṇena ca | vimukhena tripādena jvareṇa ca guhena ca || pramathairvividhākāraisteṣāmanyaṃ tadāruṇam | yuddhaṃ babhūva vikaṭaṃ vṛṣṇīnāṃ romaharṣaṇam ||",
+    "english": "16-17. The fight continued with Agni, Yama, Varuṇa, Vimukha, Tripāda, Jvara and Kārttikeya and groups of Pramathas with the Vṛṣṇis. It was terrible and frightful causing horripilation.",
+    "morphology": "tatra_tatra_ agninā_agni_SIM abhavat_bhū_S3ImIn yuddham_yuddha_SNNe yamena_yama_SIM varuṇena_varuṇa_SIM ca_ca_  / vimukhena_vimukha_SIM tripādena_tripāda_SIM jvareṇa_jvara_SIM ca_ca_ guhena_guha_SIM ca_ca_  / pramathaiḥ_pramatha_PIM vividha_viv"
+  }
+]

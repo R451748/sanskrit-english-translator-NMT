@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17328,
+    "sanskrit": "nānāvāhanasaṃyuktā nānāvādyaparā yaṇā | patākābhirvicitrābhirapsarogaṇasaṃyutāḥ ||",
+    "english": "9. They rode on different vehicles. They played on musical instruments. Flags and banners of various colours and sizes fluttered on their chariots. The heavenly nymphs accompanied them.",
+    "morphology": "nānā_nānā_ vāhana_vāhana_Cp saṃyuktāḥ_saṃyuj_PNPaM nānā_nānā_ vādya_vādya_Cp pare_para_PNM  / patākābhiḥ_patākā_PIF vicitrābhiḥ_vicitra_PIF apsaraḥ_apsaras_Cp gaṇa_gaṇa_Cp saṃyutāḥ_saṃyuta_PNM"
+  },
+  {
+    "index": 17329,
+    "sanskrit": "vr̥ṣṭim divaḥ pari srava dyumnam pr̥thivyāḥ adhi sahaḥ naḥ soma pr̥t su dhāḥ",
+    "english": "Send down the rain from heaven, a stream of opulence from earth. Give us, O Soma, victory in war.",
+    "morphology": "vrāṣṭim_vrāṣṭi_SAF divaḥ_div_SBM pari_pari_U srava_sru_SPr2Im dyumnam_dyumna_SANe pr̥thivyāḥ_prāthivī_SBF adhi_adhi_U sahaḥ_sahas_SANe naḥ_mad_PD soma_soma_MCp prāt_prāt_SNM su_su_U dhāḥ_dhā_SNM"
+  },
+  {
+    "index": 17330,
+    "sanskrit": "ratha uḍupa śata ākīrṇām haya saṃghāta rodhasam",
+    "english": "And the carcases of countless steeds formed its banks.",
+    "morphology": "ratha_ratha_MCp uḍupa_uḍupa_NeCp śata_śata_NeCp ākīrṇām_ākṛ_SAPaPsF haya_haya_MCp saṃghāta_saṃghāta_MCp rāṇā_rāṇa_SINe"
+  },
+  {
+    "index": 17331,
+    "sanskrit": "evamukto gato viṣṇurbrahmaṇaḥ sada uttamam | sāvitrī tu samāyātā prabhāse varavarṇini || 124 ||",
+    "english": "124. On being told thus, Viṣṇu went to the excellent chamber of Brahmā, O lady of excellent complexion. Sāvitrī came to Prabhāsa.",
+    "morphology": "evam_evam_ uktaḥ_vac_SNPaM gataḥ_gam_SNPaM viṣṇuḥ_viṣṇu_SNM brahmaṇaḥ_brahman_SGM sadaḥ_sadas_SANe uttamam_uttama_SANe  / sāvitrī_sāvitrī_SNF tu_tu_ samāyātā_samāyā_SNPaF prabhāse_prabhāsa_SLM varavarṇini_varavarṇinī_SVF"
+  },
+  {
+    "index": 17332,
+    "sanskrit": "amuṣmiM loka ṛdhnuyām iti sa puroḍāśaṃ kurvīta |",
+    "english": "he who desires, 'May I prosper in yonder world', should offer cake;",
+    "morphology": "amuṣmin_SLM loke_loka_SLM ṛdhnuyām_ṛdh_SPr1O iti_iti_ sa_tad_SNM puroḍāśam_puroḍāśa_SAM kurvīta_kṛ_SPr3O"
+  },
+  {
+    "index": 17333,
+    "sanskrit": "durādhṛṣyaḥ ca durgrāhyaḥ durdṛśyaḥ hi akṛtātmabhiḥ",
+    "english": "They cannot seize him, nor can they obtain a sight of him.",
+    "morphology": "durādhṛṣyaḥ_durādhṛṣya_SNM ca_ca_U durgrāhyaḥ_durgrāhya_SNM durdṛśyaḥ_durdṛśya_SNM hi_hi_U akṛtātmabhiḥ_akṛtātman_PIM"
+  },
+  {
+    "index": 17334,
+    "sanskrit": "aṃbarīṣa uvāca | yadi prasanno bhagavanyadi deyo varo mama | saṃsārābdhestāraṇāya varado bhava me hare || 25 ||",
+    "english": "Ambarīṣa said: 25. God! if you are happy to give me a boon, kindly give me such a boon which will enable me to swim across this sea of world.",
+    "morphology": "aṃbarīṣaḥ_ambarīṣa_SNM uvāca_vac_SPs3In  / yadi_yadi_ prasannaḥ_prasad_SNPaM bhagavan_bhagavant_SVM yadi_yadi_ deyaḥ_dā_SNMGd varaḥ_vara_SNM mama_mad_SG  / saṃsāra_saṃsāra_Cp abdheḥ_abdhi_SGM tāraṇāya_tāraṇa_SDNe vara_vara_"
+  },
+  {
+    "index": 17335,
+    "sanskrit": "ānarta uvāca | evaṃ śuddhyarthamāyāto nāgarāṇāṃ puraḥ sthitaḥ | nāgaraḥ śuddhimāproti yathā tanme vada dvijaḥ || 1 ||",
+    "english": "Ānarta said: 1-4. Tell me, O Brāhmaṇa (twice-born one), how this Nāgara who comes for the sake of purification before the Nāgaras attains purity?",
+    "morphology": "ānartaḥ_ānarta_SNM uvāca_vac_SPs3In  / evam_evam_ śuddhi_śuddhi_Cp artham_artha_SAM āyātaḥ_āyā_SNPaM nāgarāṇām_nāgara_PGM puras_puras_ sthitaḥ_sthā_SNPaM  / nāgaraḥ_nāgara_SNM śuddhim_śuddhi_SAF āproti_āpru_SPr3In yathā_yath"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20400,
+    "sanskrit": "abhipūrvaṃ tryahā bhavanti |",
+    "english": "The Tryahas go in order;",
+    "morphology": "abhipūrvam_abhipūrva_SNNe"
+  },
+  {
+    "index": 20401,
+    "sanskrit": "phalasyāntaḥsaṃniveśo nāmānukramato yathā / citaḥ svasattāghanatā'nānā nānā sthitā tathā //",
+    "english": "As the substance contained in a fruit, passes under the several names of the kernel, pith and marrow and seeds; so the pith and marrow of the solid intellect being but one and the same thing, takes many names according to their multifarious forms.",
+    "morphology": "phalasya_phala_SGNe antar_antar_ saṃniveśaḥ_saṃniveśa_SNM nāma_nāma_ anukramataḥ_anukrama_SBM yathā_yathā_  / citaḥ_cit_SGF sva_sva_Cp sattā_sattā_Cp ghana_ghana_Cp tā_tā_SNF anānā_anānā_SNF nānā_nānā_ sthitā_sthā_SNPaF tathā"
+  },
+  {
+    "index": 20402,
+    "sanskrit": "kamanīyam nanda sutaṃ vīkṣya vṛndāvane ca tāḥ vṛndāvaneśvarīm vṛndāṃ lebhire tad varecchayā",
+    "english": "In Vṛndāvana forest seeing handsome Kṛṣṇa, and yearning to attain Him, they approached Vṛnda' devī, the ruler of Vṛndāvana.",
+    "morphology": "kamanīyam_kam_SAMGd nanda_nanda_MCp sutam_suta_SAM vīkṣya_vīkṣ_Co vṛndāvane_vṛndāvana_SLNe ca_ca_ tāḥ_tad_PNF vṛndāvana_vṛndāvana_Cp īśvarā_īśvarā_SNF vṛndām_vṛndā_SAF"
+  },
+  {
+    "index": 20403,
+    "sanskrit": "tasthau ca pūrvamadhyāhnaṃ siṃhadvāre 'sya bhūpateḥ / kṛtvāhnikādi cāgatya tatraivāsīn niśāṃ punaḥ // etāṃ taddinacaryāṃ ca nityaṃ cārā nyavedayan / rājñe tasmai tatastuṣṭaḥ sa tāṃścārānnyavartayat // so 'pi vīravaras tasya rājñastasthau divāniśam / snānādisamayaṃ muktvā siṃhadvāre dhṛtāyudhaḥ //",
+    "english": "And he stood at the palace gate of the king for the first half of the day, and after he had performed his daily prayers and other duties he came back and remained there at night also. The spies reported to the king continually that daily practice of his, and then the king, being satisfied, ordered those spies to desist from observing him. And Vīravara remained day and night at the gate of the king’s palace, sword in hand, excepting only the time set apart for bathing and matters of that kind.",
+    "morphology": "tasthau_sthā_SPs3In ca_ca_ pūrva_pūrva_Cp madhyāhnam_madhyāhna_SAM siṃhadvāre_siṃhadvāra_SLNe asya_idam_SGM bhūpateḥ_bhūpati_SGM  / kṛtvā_kṛ_Co āhnika_āhnika_Cp ādi_ādi_SANe ca_ca_ āgatya_āgam_Co tatra_tatra_ eva_eva_ āsīt_as_S3"
+  },
+  {
+    "index": 20404,
+    "sanskrit": "yasmādaṃte'sya saṃjātaṃ karma yannirayāpaham | yaḥ puṇyakarmiṇāṃ kuryāddarśanasparśabhāṣaṇam || 15 ||",
+    "english": "14b-16. O son of the Sun-god, this (Brāhmaṇa) does not deserve to suffer in hells, since at the end of his life there occurred certain acts (done by him) that dispel hells.",
+    "morphology": "yasmāt_yasmāt_ ante_anta_SLM asya_idam_SGM saṃjātam_saṃjan_SNPaNe karma_karman_SNNe yat_yad_SNNe niraya_niraya_Cp apaham_apaha_SNNe  / yaḥ_yad_SNM puṇya_puṇya_Cp karmiṇām_karmin_PGM kuryāt_kṛ_SPr3O darśana_darśana_Cp sparśa_sparśa_Cp"
+  },
+  {
+    "index": 20405,
+    "sanskrit": "iti uktena ca gāndhārī vyāsaḥ ca atra ājagāma ha",
+    "english": "In their presence, O king, I will tell thee everything about the intensions of Kesava and Partha.' \"Vaisampayana continued, 'Thus addressed, Dhritarashtra caused both Gandhari and Vyasa to be brought there.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 20406,
+    "sanskrit": "śruta vṛtta upasaṃpannaḥ sarvaiḥ samuditaḥ guṇaiḥ",
+    "english": "Possessed of learning and endued with excellent behaviour, thou art adorned with every excellent quality.",
+    "morphology": "śruta_śruta_NeCp vṛtta_vṛtta_NeCp upasaṃpannaḥ_upasaṃpad_SNPaPsM sarvaiḥ_sarva_PIM samuditaḥ_samudi_SNPaPsM guṇāḥ_guṇa_PIM"
+  },
+  {
+    "index": 20407,
+    "sanskrit": "pravṛttau vā nivṛttau vā sa te chetsyati saṃśayam",
+    "english": "He gave me to understand that the king of Mithila would dispel all my doubts.",
+    "morphology": "pravṛttau_pravṛtti_SLF"
+  }
+]

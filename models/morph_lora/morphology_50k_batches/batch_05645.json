@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45152,
+    "sanskrit": "āryāṇāṃ śīlavatām pratyupasthānam |",
+    "english": "Attending to virtuous noble ones.",
+    "morphology": "āryāṇām_ārya_PGM"
+  },
+  {
+    "index": 45153,
+    "sanskrit": "yuddhe saṃkarṣaṇa samaḥ balena abhyadhikaḥ bhuvi",
+    "english": "In battle I am Sankarshana's equal, and in might there is none superior to me on earth.",
+    "morphology": "yuddhe_yuddha_SLNe saṃkaṇā_saṃkaṇā_SNF"
+  },
+  {
+    "index": 45154,
+    "sanskrit": "na utkaṇṭhā phalgune kāryā kṛtāstraḥ śīghram eṣyati na aśuddha bāhu vīryeṇa na a kṛtāstreṇa vā raṇe bhīṣma droṇa ādayaḥ yuddhe śakyāḥ pratisamāsitum",
+    "english": "And for me tell thou the virtuous Yudhishthira of unbaffled prowess in battle, that he should not be anxious on account of Phalguna, for that hero will return to earth a thorough master of weapons, for without sanctified prowess of arms, and without skill in weapons, he would not be able to encounter Bhishma and Drona and others in battle.",
+    "morphology": "na_na_U utkaṇṭhā_utkaṇṭhā_SNF phalgune_phalguna_SLM kāryā_kṛ_SNFGd kṛtāstraḥ_kṛtāstra_SNM śīghram_śīghram_U eṣyati_i_SFu3In na_na_U aśuddha_aśuddha_Cp bāhu_bāhu_MCp vīryeṇa_vīrya_SIM na_na_U a_a_U kṛtāstreṇa_kṛtā"
+  },
+  {
+    "index": 45155,
+    "sanskrit": "yathaiva praviśeyuś ca dviṣataḥ sattrahetubhiḥ / tathaiva caapagaccheyur ity uktaṃ yogavāmanam //",
+    "english": "And they may get out as secretly as they came there with the pretence of witnessing the sights; thus it is that kings and other persons are enticed to come out and be captured",
+    "morphology": "yathā_yathā_ eva_eva_ praviśeyuḥ_praviś_PPr3O ca_ca_ dviṣataḥ_dviṣ_PAPaPrM sattra_sattra_Cp hetubhiḥ_hetu_PIM  / tathā_tathā_ eva_eva_ ca_ca_ apagaccheyuḥ_apagam_PPr3O iti_iti_ uktam_vac_SNPaNe yogavāmanam_yogavāmana_SNNe  /"
+  },
+  {
+    "index": 45156,
+    "sanskrit": "akṣayaṃ māmameyātman kuruṣva puruṣottama // sapta varṣāṇi sampūjya bhuktimuktimavāpunuyāt /",
+    "english": "O Immeasurable being! You make me without a loss, O Excellent among beings!” After having worshipped for seven years one would get enjoyment and emancipation.",
+    "morphology": "akṣayam_akṣaya_SAM mām_mad_SA ameya_ameya_Cp ātman_ātman_SVM kuruṣva_kṛ_SPr2Im puruṣottama_puruṣottama_SVM  // sapta_saptan_SANe varṣāṇi_varṣa_PANe sampūjya_sampūjay_Co"
+  },
+  {
+    "index": 45157,
+    "sanskrit": "śaṃbhunātho nyāsavidhau devo hi kathamanyathā | nyāse vivarjyate'muṣminnaṅgānyapyasya santi hi | mūrtiḥ sṛṣṭistritattvaṃ cetyaṣṭau mūrtyaṅgasaṃyutāḥ | śivaḥ sāṅgaśca vijñeyo nyāsaḥ ṣoḍhā prakīrtitaḥ |",
+    "english": "- My teacher, Śambhunātha, however, has expressed his view in this regard concerning the negligence to Lord Siva Himself as an integral being in this system of positing, in spite of involvement of His accessories though. In his view, the positing of the Divine needs to be conducted as per the forms mūrti, creation srsti, the three essentials tritattva, accessories of the form, Siva along with His accessories and thus of six kinds.",
+    "morphology": "śaṃbhu_śambhu_Cp nāthaḥ_nātha_SNM nyāsa_nyāsa_Cp vidhau_vidhi_SLM devaḥ_deva_SNM hi_hi_ katham_katham_ anyathā_anyathā_  / nyāse_nyāsa_SLM vivarjyate_vivarjay_SPr3InPv amuṣmin_adas_SLM aṅgāni_aṅga_PNNe api_api_ asya_idam_SGM santi_as"
+  },
+  {
+    "index": 45158,
+    "sanskrit": "abhūn mama sumatau viśvavedā āṣṭa pratiṣṭhām avidad dhi gādham |",
+    "english": "He hath enjoyed my lovingkindness, the all-knower; He hath found a support, for he hath won the shallow;",
+    "morphology": "abhūt_bhū_SPs3In mama_mad_SG sumatau_sumati_SLF viśva_viśva_Cp vedāḥ_vedas_SNM āṣṭa_aś_SPs3In pratiṣṭhām_pratiṣṭhā_SAF avidat_vid_SPs3InTh hi_hi_ gādham_gādha_SANe"
+  },
+  {
+    "index": 45159,
+    "sanskrit": "labdha lakṣyau tu gāndhārau ahatām pāṇḍavam punar nidāgha vārṣikau māsau lokam gharma ambubhiḥ yathā tau ratha sthau nara vyāghrau rājānau vṛṣaka acalau",
+    "english": "Of unfailing aim, these two princes of Gandhara, themselves unhurt, began once more to strike the son of Pandu, like the two months of summer afflicting the world with sweat-producing rays.[57] Then Arjuna slew those princes and tigers among men, viz., Vrishaka and Achala, staying on one car side by side, with, O monarch, a single arrow.",
+    "morphology": "labdha_labh_PaPsCp lakṣyau_lakṣya_DuNM tu_tu_U gāndhārau_gāndhāra_DuNM ahatām_han_DuPs3In pāṇḍavam_pāṇḍava_SAM punar_punar_U nidāgha_nidāgha_MCp vārṣikau_vārṣika_DuNM māsau_māsa_DuNM lokam_loka_SAM gharma_gharma_MCp ambubhiḥ_"
+  }
+]

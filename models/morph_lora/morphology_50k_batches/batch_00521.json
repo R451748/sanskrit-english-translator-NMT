@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4160,
+    "sanskrit": "tatra, katamat karma mahā-prajña-saṃvartanīyam?",
+    "english": "Herein, what is the deed that leads to having great wisdom?",
+    "morphology": "tatra_tatra_"
+  },
+  {
+    "index": 4161,
+    "sanskrit": "mudgānmāṣāṃśca vrīhīṃśca tathā ratnāni kāṃcanam | yuṣmākaṃ saṃpradāsyāmi yaccānyadapi durllabham | nivarttadhvamataḥ sarve hyetasmātpātakātparam || 13 ||",
+    "english": "13. I shall give you green gram, pulses, rice grains, jewels, gold and whatever other rare things there may be. Hence all of you desist from this sinful act at least.",
+    "morphology": "mudgān_mudga_PAM māṣān_māṣa_PAM ca_ca_ vrīhīn_vrīhi_PAM ca_ca_ tathā_tathā_ ratnāni_ratna_PANe kāṃcanam_kāñcana_SANe  / yuṣmākam_tvad_PG saṃpradāsyāmi_sampradā_SFu1In yat_yad_SNNe ca_ca_ anyat_anya_SNNe api_api_ durllabham_durlab"
+  },
+  {
+    "index": 4162,
+    "sanskrit": "pādagopā bhaveyuś ca puruṣā daśa pañca ca //",
+    "english": "Fifteen infantry men would guard each foot of the elephant.",
+    "morphology": "pāda_pāda_Cp gopāḥ_gopa_PNM bhaveyuḥ_bhū_PPr3O ca_ca_ puruṣāḥ_puruṣa_PNM"
+  },
+  {
+    "index": 4163,
+    "sanskrit": "adityai vyundanam asi / viṣṇo stupo 'si / ūrṇamradasaṃ tvā stṝṇāmi svāsasthāṃ devebhyaḥ / bhuvapataye svāhā / bhuvanapataye svāhā / bhūtānāṃ pataye svāhā //",
+    "english": "Thou art what giveth Aditi her moisture. Thou art the hair-tuft on the head of Vishnu. I spread thee, wool-soft, good for Gods to sit on. Hail to the Earth's Lord! To the World's Lord Hail! Hail to the Lord of Beings! 3",
+    "morphology": "adityai_aditi_SDF vyundanam_vyundana_SNNe asi_as_SPr2In  / viṣṇoḥ_viṣṇu_SGM stupaḥ_stupa_SNM asi_as_SPr2In  / ūrṇamradasam_ūrṇamradas_SAF tvā_tvad_SA stṝṇāmi_stṛ_SPr1In svāsasthām_svāsastha_SAF devebhyaḥ_deva_PDM  / bhuva_bhu"
+  },
+  {
+    "index": 4164,
+    "sanskrit": "atha tasyāḥ pitā nāma cakre dvādaśame dine | saṃmaṃtrya brāhmaṇaiḥ sārdhaṃ bhṛtyāmātyairmuhurmuhuḥ || 5 ||",
+    "english": "5. After repeated consultations with Brāhmaṇas, servants and ministers, her father gave her the name on the twelfth day.",
+    "morphology": "atha_atha_ tasyāḥ_tad_SGF pitā_pitṛ_SNM nāma_nāman_SANe cakre_kṛ_SPs3In dvādaśame_dvādaśama_SLNe dine_dina_SLNe  / saṃmaṃtrya_sammantray_Co brāhmaṇaiḥ_brāhmaṇa_PIM sārdham_sārdham_ bhṛtya_bhṛtya_Cp amātyaiḥ_amātya_PIM mu"
+  },
+  {
+    "index": 4165,
+    "sanskrit": "āraṇeyam upākhyānam yatra dharmaḥ anvaśāt sutam",
+    "english": "then the story called Aranya in which Dharma (the god of justice) gave advice to his son (Yudhishthira);",
+    "morphology": "āraṇeyam_āraṇeya_SNNe upākhyānam_upākhyāna_SNNe yatra_yatra_U"
+  },
+  {
+    "index": 4166,
+    "sanskrit": "tulya kālam saha anena paścāt prāpsyasi sat gatim lomaśaḥ uvāca sa cakāra tathā sarvam rājā rājīva locanaḥ",
+    "english": "After that thou shall go to the blessed regions.' \"Lomasa said, The lotus-eyed king did all that exactly in the way prescribed to him.",
+    "morphology": "tulya_tulya_Cp kālam_kāla_SAM saha_saha_U anena_idam_SIM paścāt_paścāt_U prāpsyasi_prāp_SFu2In sat_sat_Cp gatim_gati_SAF lomaśaḥ_lomaśa_SNM uvāca_vac_SPs3In sa_tad_SNM cakāra_kṛ_SPs3In tathā_tathā_U sarvam_sarva_SANe rājā_rājan_SNM rā"
+  },
+  {
+    "index": 4167,
+    "sanskrit": "eko 'pi vedavid dharmaṃ yaṃ vyavasyed dvijottamaḥ / sa vijñeyaḥ paro dharmo nājñānām udito 'yutaiḥ //",
+    "english": "That which even a single Brāhmaṇa learned in the Veda decides to be the law, shall be understood to be the highest law, and not what is asserted by ten thousand ignoramuses.",
+    "morphology": "ekaḥ_eka_SNM api_api_ veda_veda_Cp vid_vid_SNM dharmam_dharma_SAM yam_yad_SAM vyavasyet_vyavasā_SPr3O dvijottamaḥ_dvijottama_SNM  / sa_tad_SNM vijñeyaḥ_vijñā_SNMGd paraḥ_para_SNM dharmaḥ_dharma_SNM na_na_ ajñānām_ajña_PGM uditaḥ_vad_SNP"
+  }
+]

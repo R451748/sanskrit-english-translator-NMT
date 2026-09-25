@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26176,
+    "sanskrit": "kṛta anneṣu upayujyante saṃskāra artham anekadhā ||",
+    "english": "They are variously used for seasoning food.",
+    "morphology": "kṛta_kṛ_PaPsCp anneṣu_anna_PLNe upayujyante_upayuj_PPr3InPv saṃskāra_saṃskāra_MCp artham_artha_SAM anekadhā_anekadhā_U"
+  },
+  {
+    "index": 26177,
+    "sanskrit": "gaṅgā kūle mayā dṛṣṭaḥ tāpasaiḥ parivāritaḥ",
+    "english": "I saw him on the banks of Ganga in the midst of ascetics.",
+    "morphology": "gaṅgā_gaṅgā_FCp kūle_kūla_SLNe mayā_mad_SI dṛṣṭaḥ_dṛś_SNPaPsM tāpasaiḥ_tāpasa_PIM parivāritaḥ_parivāray_SNPaPsM"
+  },
+  {
+    "index": 26178,
+    "sanskrit": "saṃtānataḥ śrāvakādibuddhasaṃtānajatvāt /",
+    "english": "Ordinary compassion arises in the series of the Śrāvakas, etc. , whereas great compassion arises in the series of the Buddhas.",
+    "morphology": "saṃtānataḥ_saṃtāna_SBM śrāvaka_śrāvaka_Cp ādi_ādi_Cp buddha_buddha_Cp saṃtāna_saṃtāna_Cp ja_ja_Cp tvāt_tva_SBNe  /"
+  },
+  {
+    "index": 26179,
+    "sanskrit": "tāvakāḥ tava putrāḥ ca prāyaśas vimukhāḥ abhavan vaṇijaḥ nāvi bhinnāyām yathā agādhe aplave arṇave apāre pāram icchantaḥ hate śūre mahātmani",
+    "english": "Indeed, upon the slaughter of that hero by the illustrious Yudhishthira, thy troops were like ship-wrecked merchants on the vast deep without a raft to cross it.",
+    "morphology": "tāvakāḥ_tāvaka_PNM tava_tvad_SG putrāḥ_putra_PNM ca_ca_U prāyaśas_prāyaśas_U vimukhāḥ_vimukha_PNM abhavan_bhū_PPs3In vaṇijaḥ_vaṇij_PNM nāvi_nau_SLF bhinnāyām_bhid_SLPaPsF yathā_yathā_U agādhe_agādha_SLM aplave_aplava_SLM arṇa"
+  },
+  {
+    "index": 26180,
+    "sanskrit": "apiśabdo bhinnakramo draṣṭavyaḥ puṣpāṇy api nopādeyāni kiṃ punar dhānyāni //",
+    "english": "The term \"api\" ,\"even\" , should be construed away from where it occurs; the sense being \"even f lowers shall not be used, what to say of grains?\". Vaśiṣṭha ,\"He shall gather wildgrowing roots and fruits only\".",
+    "morphology": "api_api_ śabdaḥ_śabda_SNM bhinnakramaḥ_bhinnakrama_SNM draṣṭavyaḥ_dṛś_SNMGd puṣpāṇi_puṣpa_PNNe api_api_ na_na_ upādeyāni_upādā_PNNeGd kim_kim_ punar_punar_ dhānyāni_dhānya_PNNe  /"
+  },
+  {
+    "index": 26181,
+    "sanskrit": "piśācamocanakathāṃ pavitrāṃ pāpahāriṇīm | yaḥ paṭhecchaṇuyāccaiva hayamedhaphalaṃ labhet || 60 ||",
+    "english": "One who reads and listens to the sacred story of Piśācamocana that dispels sins, shall attain the merit of a horse-sacrifice.[Sanskrit text for this chapter is available]",
+    "morphology": "piśāca_piśāca_Cp mocana_mocana_Cp kathām_kathā_SAF pavitrām_pavitra_SAF pāpa_pāpa_Cp hāriṇīm_hārin_SAF  / yaḥ_yad_SNM paṭhet_paṭh_SPr3O śaṇuyāt_śaṇu_SPr3O ca_ca_ eva_eva_ hayamedha_hayamedha_Cp phalam_phala_SANe labhet_labh_SPr3O"
+  },
+  {
+    "index": 26182,
+    "sanskrit": "tridaśapuranivāsaṃ rūpaśobhāguṇaṃ vā / yadabhilaṣati sarvaṃ tatsamāpnoti dānā-",
+    "english": "All is obtained by almsgiving, whatever may be wished for, whether it be abundance of riches or brilliant domination, or a residence in the city of the Devas, or beauty of the body.",
+    "morphology": "tridaśa_tridaśa_Cp pura_pura_Cp nivāsam_nivāsa_SAM rūpa_rūpa_Cp śobhā_śobhā_Cp guṇam_guṇa_SAM vā_vā_  / yat_yad_SANe abhilaṣati_abhilaṣ_SPr3In sarvam_sarva_SANe tat_tad_SANe samāpnoti_samāp_SPr3In "
+  },
+  {
+    "index": 26183,
+    "sanskrit": "avirodhena bhūtānām tyāgaḥ ṣāḍguṇya kārakaḥ yaḥ syāt ubhaya bhāj dharmaḥ tat me brūhi pitāmaha",
+    "english": "Tell me, O grandsire, of that religion which leads to both results, viz., Enjoyment and Emancipation.",
+    "morphology": "avirodhena_avirodha_SIM bhūtānām_bhūta_PGNe tyāgaḥ_tyāga_SNM ṣāḍguṇya_ṣāḍguṇya_NeCp kārakaḥ_kāraka_SNM yaḥ_yad_SNM syāt_as_SPr3O ubhaya_ubhaya_Cp bhāj_bhāj_SNM dharmaḥ_dharma_SNM tat_tad_SANe me_mad_SD brūhi_brū_SPr2Im"
+  }
+]

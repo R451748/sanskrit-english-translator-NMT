@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49320,
+    "sanskrit": "catruṇām api sāmagryam icchanti atra vipaścitaḥ ||",
+    "english": "The wise and the erudite set an equal importance to each of them, and ascribe the curative efficacy of a medicine to the co-operation of all these five factors.",
+    "morphology": "catruṇām_catru_PGM api_api_U sāmagryam_sāmagrya_SANe icchanti_iṣ_PPr3In atra_atra_U vipaścitaḥ_vipaścit_PNM"
+  },
+  {
+    "index": 49321,
+    "sanskrit": "sūtaḥ uvāca iti uktaḥ sa tu vipra ṛṣiḥ anujñātaḥ mahātmanā vyāsena tasya nṛpateḥ ākhyātum upacakrame",
+    "english": "Sauti said: Thus questioned, that regenerate Rishi, receiving the permission of the high-souled Vyasa, set himself to answer the question of the king.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In iti_iti_U uktaḥ_vac_SNPaPsM sa_tad_SNM tu_tu_U vipra_vipra_MCp ṛṣiḥ_ṛṣi_SNM anujñātaḥ_anujñā_SNPaPsM mahātmanā_mahātman_SIM vyāsena_vyāsa_SIM tasya_tad_SGM nṛpateḥ_nṛpati_SGM ākhyātum_ākh"
+  },
+  {
+    "index": 49322,
+    "sanskrit": "āha ca",
+    "english": "Bhadanta-Śubhagupta has argued as follows:",
+    "morphology": "āha_ah_SPs3In"
+  },
+  {
+    "index": 49323,
+    "sanskrit": "yathā vāsanāyā: kṣaya: saṃpādanīyastathā manaso'pi / na ca tārkikavannityadravyamaṇuparimāṇaṃ mano vaidikā abhyupagacchanti yena manonāśo duḥsampāda: syāt /",
+    "english": "As the destruction of the desires so also that of the mind is to be effected. According to the Tārkika school the mindstuff is eternal and of atomic quantity; therefore its dissolution is hardly possible.",
+    "morphology": "yathā_yathā_ vāsanāyāḥ_vāsanā_SGF kṣayaḥ_kṣaya_SNM saṃpādanīyaḥ_sampāday_SNMGd tathā_tathā_ manasaḥ_manas_SGNe api_api_  / na_na_ ca_ca_ tārkika_tārkika_Cp vat_vat_ nitya_nitya_Cp dravyam_dravya_SANe aṇu_aṇu_Cp parimāṇam_"
+  },
+  {
+    "index": 49324,
+    "sanskrit": "ekaviṃśativāraistu gayāyāṃ piṃḍadānataḥ | dharmeśvare sakṛddattaṃ pitṝṇāṃ cākṣayaṃ bhavet || 90 ||",
+    "english": "90. Offering of balls of rice (to Pitṛs) at Gayā twenty-one times leads to the same everlasting benefits (satisfaction) to Pitṛs if they are offered only once at Dharmeśvara.",
+    "morphology": "ekaviṃśati_ekaviṃśati_Cp vāraiḥ_vāra_PIM tu_tu_ gayāyām_gayā_SLF piṃḍa_piṇḍa_Cp dānāt_dāna_SBNe  / dharmeśvare_dharmeśvara_SLM sakṛt_sakṛt_ dattam_dā_SNPaNe pitṝṇām_pitṛ_PGM ca_ca_ akṣayam_akṣaya_SNNe bhavet_bhū_S"
+  },
+  {
+    "index": 49325,
+    "sanskrit": "avaśiṣṭaḥ padasaṃghātaḥ ślokapūraṇārthaḥ /",
+    "english": "The rest of the words are meant only to fill up the verse.",
+    "morphology": "avaśiṣṭaḥ_avaśiṣ_SNPaM pada_pada_Cp saṃghātaḥ_saṃghāta_SNM śloka_śloka_Cp pūraṇa_pūraṇa_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 49326,
+    "sanskrit": "vayaṃ tu vaktuṃ mūrkhāṇāmajitātmīyacetasām / bhogakardamamagnānāṃ na vidmo'bhimataṃ matam //",
+    "english": "I am unable to describe to you, the fond beliefs of the minds of the ignorant populace, who are plunged in the mud of their sensual enjoyments.",
+    "morphology": "vayam_mad_PN tu_tu_ vaktum_vac_In mūrkhāṇām_mūrkha_PGM ajita_ajita_Cp ātmīya_ātmīya_Cp cetasām_cetas_PGM  / bhoga_bhoga_Cp kardama_kardama_Cp magnānām_majj_PGPaM na_na_ vidmaḥ_vid_PPr1In abhimatam_abhiman_SAPaNe matam_mata_SANe  /"
+  },
+  {
+    "index": 49327,
+    "sanskrit": "tapaś ca svādhyāyaś ceti dvandvagarbho bahuvrīhiḥ /",
+    "english": "The compound \"tapassvādhyāyaniṣṭhāḥ\" is Bahuvrīhi, containing within itself a copulative compound.",
+    "morphology": "tapaḥ_tapas_SNNe ca_ca_ svādhyāyaḥ_svādhyāya_SNM ca_ca_ iti_iti_ dvandva_dvaṃdva_Cp garbhaḥ_garbha_SNM bahuvrīhiḥ_bahuvrīhi_SNM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37400,
+    "sanskrit": "sarvatra ca pratyakṣaśrutibhir manvādismṛtināṃ vyatiṣaṅgaḥ, kvacin mantreṇa kvacid devatayā kvacid dravyavidhibhiḥ /",
+    "english": "As regards the orthodox Smṛtis of Manu and others, their relationship to directly perceptible Vedic texts is quite patent; in some cases they are related to the Vedic mantras, in others to the Vedic deities, and in others again with substances and other details.",
+    "morphology": "sarvatra_sarvatra_ ca_ca_ pratyakṣa_pratyakṣa_Cp śrutibhiḥ_śruti_PIF manu_manu_Cp ādi_ādi_Cp smṛtinām_smṛti_PGNe vyatiṣaṅgaḥ_vyatiṣaṅga_SNM kvacid_kvacid_ mantreṇa_mantra_SIM kvacid_kvacid_ devatayā_devatā_SIF kvacid_kvacid_ dr"
+  },
+  {
+    "index": 37401,
+    "sanskrit": "divyārāma samudbhūtakalpakādyāḥ suradrumāḥ | sevinastvāṃ prarohaṃtu bharitā vividhaiḥ phalaiḥ || 34 ||",
+    "english": "34. May the celestial trees beginning with Kalpaka growing in the divine gardens, serve you and thereby grow laden with different kinds of fruits.",
+    "morphology": "divya_divya_Cp ārāma_ārāma_SVM samudbhūta_samudbhū_PaCp kalpaka_kalpaka_Cp ādyāḥ_ādya_PNM suradrumāḥ_suradruma_PNM  / sevinaḥ_sevin_PNM tvām_tvad_SA prarohantu_praruh_PPr3Im bharitāḥ_bharita_PNM vividhaiḥ_vividha_PINe phalaiḥ_phala_"
+  },
+  {
+    "index": 37402,
+    "sanskrit": "yathānityatā duḥkhatā ce ti /",
+    "english": "It is the same with the nature of impermanence and the nature of pain.",
+    "morphology": "yathā_yathā_ anitya_anitya_Cp tā_tā_SNF duḥkha_duḥkha_Cp tā_tā_SNF ca_ca_ "
+  },
+  {
+    "index": 37403,
+    "sanskrit": "ayaṃ sukhaduḥkhā'sukhā'duḥkhasahitaḥ kāyastat phalaṃ /",
+    "english": "This body, accompanied by sensations that are pleasurable, painful and neither pleasurable nor painful, is the result of that.",
+    "morphology": "ayam_idam_SNM sukha_sukha_Cp duḥkha_duḥkha_Cp asukha_asukha_Cp aduḥkha_aduḥkha_Cp sahitaḥ_sahita_SNM kāyaḥ_kāya_SNM tat_tad_SNNe phalaḥ_phala_SNNe  /"
+  },
+  {
+    "index": 37404,
+    "sanskrit": "dharmādharmau vyavecayat vivekena pṛthagbhāvena vyavasthāpitavān ayaṃ dharma eva, ayam adharma eva /",
+    "english": "\"He differentiated Virtue and Vice\" He fixed their character by due distinction, ie, as distinct from each other; in such form \"this is Virtue, that is Vice\".",
+    "morphology": "dharma_dharma_Cp adharmau_adharma_DuAM vyavecayat_vyavecay_S3ImIn vivekena_viveka_SIM pṛthagbhāvena_pṛthagbhāva_SIM vyavasthāpitavān_vyavasthāpay_SNPaM ayam_idam_SNM dharmaḥ_dharma_SNM eva_eva_ ayam_idam_SNM adharmaḥ_adharma_SNM eva_eva_  /"
+  },
+  {
+    "index": 37405,
+    "sanskrit": "taduktaṃ prakīrṇake - dvidhā kaiścitpadaṃ bhinnaṃ caturdhā pañcadhāpi vā|",
+    "english": "Thus it has been said in the Prakīrṇaka— \"Some make a twofold division of words, some a fourfold or a fivefold,",
+    "morphology": "tat_tad_SNNe uktam_vac_SNPaNe prakīrṇake_prakīrṇaka_SLNe -_dvidhā_U __kaścit_U __pada_U __bhid_PaU caturdhā_caturdhā_U pañcadhā_pañcadhā_U api_api_U"
+  },
+  {
+    "index": 37406,
+    "sanskrit": "anvayī pratyayo yasmācchabdavyaktyavabhāsavān /",
+    "english": "The comprehensive notion (op all cows, for instance) manifests within itself the verbal expression and the constituent individuals;",
+    "morphology": "anvayī_anvayin_SNM pratyayaḥ_pratyaya_SNM yasmāt_yasmāt_ śabda_śabda_Cp vyakti_vyakti_Cp avabhāsavān_avabhāsavat_SNM "
+  },
+  {
+    "index": 37407,
+    "sanskrit": "prādurāsan nimittāni ghorāṇi ca bahūni ca",
+    "english": "Various frightful omens of evil then made their appearance.",
+    "morphology": "prādurāsan_prāduras_P3ImIn nimittāni_nimitta_PNNe ghorāṇi_ghora_PNNe ca_ca_ bahūni_bahu_PNNe ca_ca_"
+  }
+]

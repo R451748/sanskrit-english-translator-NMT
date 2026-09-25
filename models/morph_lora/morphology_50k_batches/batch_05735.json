@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45872,
+    "sanskrit": "aveṣkya ca uddhṛtām vīṭām vīṭā veddhāram abruvan mudrikām api vipra ṛṣe śīghram etām samuddhara tatas sa śaram ādāya dhanuḥ droṇaḥ mahā yaśāḥ",
+    "english": "And regarding what they had witnessed to be very extraordinary, they said, O learned Brahmana, do thou bring up the ring also without loss of time.' \"Then the illustrious Drona, taking a bow with an arrow, pierced the ring with that arrow and brought it up at once.",
+    "morphology": "aveṣkya_aveṣkay_Co ca_ca_U uddhṛtām_uddhṛ_SAPaPsF vīṭām_vīṭa_SAF vīṭā_vīṭa_FCp veddhāram_veddhṛ_SAM abruvan_brū_PPs3In mudrikām_mudrikā_SAF api_api_U vipra_vipra_MCp ṛṣe_ṛṣi_SVM śīghram_śīghram_U etām_etad_SAF samu"
+  },
+  {
+    "index": 45873,
+    "sanskrit": "manuṣyasya tu na kadācid īdṛśaṃ sāmarthaṃ sambhāvyaṃ tasya tadviparītatvāt /",
+    "english": "In the case of a human being, on the other hand, there is no possibility of any such capacity; as his character is quite the reverse.",
+    "morphology": "manuṣyasya_manuṣya_SGM tu_tu_ na_na_ kadācid_kadācid_ īdṛśam_īdṛśa_SNNe sāmartham_sāmartha_SNNe sambhāvyam_sambhāvay_SNNeGd tasya_tad_SGM tad_tad_Cp viparīta_viparīta_Cp tvāt_tva_SBNe  /"
+  },
+  {
+    "index": 45874,
+    "sanskrit": "hṛtkaṇṭhatālugābhiś ca yathāsaṃkhyaṃ dvijātayaḥ /",
+    "english": "By water which reaches either their heart, or their throat, or their palate respectively, members of the three twice-born castes are purified each in his turn;",
+    "morphology": "hṛd_hṛd_Cp kaṇṭha_kaṇṭha_Cp tālu_tālu_Cp gābhiḥ_ga_PIF ā_ā_ itas_itas_ ā_ā_ itas_itas_"
+  },
+  {
+    "index": 45875,
+    "sanskrit": "tathāpi kena vā janmabhūmirna smaryate // tvatprasādādidamaśeṣamatiśobhanam //",
+    "english": "Why then should I call to memory the place of my birth? To your favour am I indebted for all that I possess.",
+    "morphology": "tathā_tathā_ api_api_ kena_ka_SIM vā_vā_ janma_janman_Cp bhūmiḥ_bhūmi_SNF na_na_ smaryate_smṛ_SPr3InPv  // aḥ_aḥ_"
+  },
+  {
+    "index": 45876,
+    "sanskrit": "(1) smti-saṃbodhyaṅgam,",
+    "english": "(1) The factor of awakening that is mindfulness,",
+    "morphology": "__U"
+  },
+  {
+    "index": 45877,
+    "sanskrit": "tam aham draṣṭum icchāmi saṃmate tava phalguna vaiśampāyanaḥ uvāca iti ukta vacanam kṛṣṇam pratyuvāca dhanaṃjayaḥ",
+    "english": "I wish to see him again, with thy leave, O Phalguna!' \"Vaisampayana continued, 'Unto Krishna who had said so, Dhananjaya said in reply,--We shall go to-day from this town to the city called after the elephant.",
+    "morphology": "tam_tad_SAM aham_mad_SN draṣṭum_dṛś_In icchāmi_iṣ_SPr1In saṃmate_samman_SLPaPsNe tava_tvad_SG phalguna_phalguna_SVM vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In iti_iti_U ukta_vac_PaPsCp vacanam_vacana_SAM kṛṣṇam_kṛṣṇa_SNN"
+  },
+  {
+    "index": 45878,
+    "sanskrit": "yukto hayasahasreṇa manomārutaraṃhasā //",
+    "english": "That car, drawn by a thousand horses, was fleet like the mind or the air.",
+    "morphology": "yuktaḥ_yuj_SNPaM haya_haya_Cp sahasreṇa_sahasra_SINe"
+  },
+  {
+    "index": 45879,
+    "sanskrit": "tatas tayorgatavatormahākālāranāgatā / vidyādharasutaikātra stambhe devīṃ dadarśa tām // sulakṣaṇatvāt sāṃnidhyaṃ tasyāṃ matvā kṛtārcanā / adṛśyā viśramāyaitaṃ śilāstambhaṃ viveśa sā // tāvanniścayadattaḥ sa tatrāgatya vaṇiksutaḥ / sāścaryaḥ stambhamadhye tāṃ dadarśollikhitāmumām //",
+    "english": "Then, after they had departed, a certain daughter of the Vidyādharas came there to worship Mahākāla, and saw that image of Gaurī on the stone. From the clearness of the image she inferred the proximity of the goddess, and, after worshipping, she entered that stone pillar to rest. In the meanwhile Niścayadatta, the merchant’s son, came there, and to his astonishment beheld that figure of Umā carved on the stone.",
+    "morphology": "tatas_tatas_ tayoḥ_tad_DuGM gatavatoḥ_gam_DuGPaM mahākālāranāgatā_mahākālāranāgatā_SNF  / vidyādhara_vidyādhara_Cp sutā_sutā_SNF ekā_eka_SNF atra_atra_ stambhe_stambha_SLM devīm_devī_SAF dadarśa_dṛś_SPs3In tām_tad_SAF  // su_su_ l"
+  }
+]

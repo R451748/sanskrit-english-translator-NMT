@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42480,
+    "sanskrit": "śāśvate loke na kasyacit parinirvāṇaṃ prāpnuyāt / aśāśvate sarvepāmucchedaḥ prāpnuyāt / ubhayathātve niyamata ekeṣāṃ parinirvāṇaṃ prāpnuyāt ekeṣāṃ na /",
+    "english": "if it is not eternal, all would obtain Nirvana by spontaneous annihilation, and not through effort: if it is both eternal and non-eternal, some would never obtain Nirvāṇa, whereas others would obtain it spontaneously;",
+    "morphology": "śāśvate_śāśvata_SLM loke_loka_SLM na_na_ kasyacid_kaścit_SGM parinirvāṇam_parinirvāṇa_SANe prāpnuyāt_prāp_SPr3O  / aśāśvate_aśāśvata_SLM sarvepām_sarva_PGM ucchedaḥ_uccheda_SNM prāpnuyāt_prāp_SPr3O  / ubhayathātve_ubhayathātva"
+  },
+  {
+    "index": 42481,
+    "sanskrit": "etasya ca gurutvaṃ ca prasādāttava padmaja | yathā bhavati deveśa tayā nītirvidhīyatām || 33 ||",
+    "english": "O Lotus-born One, do manage everything with due expedients so that he can have the status of preceptor with your favour, O Lord of Devas.”",
+    "morphology": "etasya_etad_SGM ca_ca_ guru_guru_Cp tvam_tva_SNNe ca_ca_ prasādāt_prasāda_SBM tava_tvad_SG padmaja_padmaja_SVM  / yathā_yathā_ bhavati_bhū_SPr3In deveśa_deveśa_SVM tayā_tad_SIF nītiḥ_nīti_SNF vidhīyatām_vidhā_SPr3ImPv"
+  },
+  {
+    "index": 42482,
+    "sanskrit": "arundhatī tu tam dṛṣṭvā sarva aṅga upacitam śubhā bhavitāraḥ bhavantaḥ vai na evam iti abravīt ṛṣīn vasiṣṭhaḥ uvāca",
+    "english": "Beholding that mendicant whose limbs were all well-developed and handsome, Arundhati exclaimed, addressing the Rishis, 'None of you will ever be able to show such well-developed features!'\" \"Vasishtha said, 'The sacred fire of this person is not like ours for while he is able to pour libations on it, morning and evening, none of us are able to do the same.",
+    "morphology": "arundhatī_arundhatī_SNF tu_tu_U tam_tad_SAM dṛṣṭvā_dṛś_Co sarva_sarva_Cp aṅga_aṅga_NeCp upacitam_upaci_SAPaPsM śubhāḥ_śubha_PNM bhavitāraḥ_bhū_PFu3In bhavantaḥ_bhavat_PNM vai_vai_U na_na_U evam_evam_U iti_iti_U abravīt_brū_SPs3"
+  },
+  {
+    "index": 42483,
+    "sanskrit": "yataḥ sthāṇunarau dṛṣṭau kadācid iti tadgatiḥ /",
+    "english": "because the post and the man have both been seen somewhere, therefore it is possible that there should be doubt as to its being this or that.",
+    "morphology": "yatas_yatas_ sthāṇu_sthāṇu_Cp narau_nara_DuNM dṛṣṭau_dṛś_DuNPaM kadācid_kadācid_ iti_iti_ tad_tad_Cp gatiḥ_gati_SNF  /"
+  },
+  {
+    "index": 42484,
+    "sanskrit": "tathā hi prativastu vijñaptyātmakaṃ vijñānam, asati ca jñeye na kiñcidanena jñeyam ityavijñānam eva syāt /",
+    "english": "so that if the cognised Object is not there, there is nothing that could be apprehended by the Cognition; hence there would be no Cognition (or Idea) at all.",
+    "morphology": "tathā_tathā_ hi_hi_ prativastu_prativastu_ vijñapti_vijñapti_Cp ātmakam_ātmaka_SNNe vijñānam_vijñāna_SNNe asati_asat_SLNe ca_ca_ jñeye_jñā_SLNeGd na_na_ kiñcid_kaścit_SNNe anena_idam_SIM jñeyam_jñā_SNNeGd iti_iti_ avijñānam_avijñāna_S"
+  },
+  {
+    "index": 42485,
+    "sanskrit": "ayaṃ vai loko māyaṃ hi loko mita iva pramā canda ityantarikṣaloko vai pramāntarikṣaloko hyasmāllokātpramita iva pratimā canda ityasau vai lokaḥ pratimaiṣa hyantarikṣaloke pratimita ivāsrīvayaścanda ityannamasrīvayastadyadeṣu lokeṣvannaṃ tadasrīvayo 'tho yadebhyo lokebhyo 'nnaṃ sravati tadasrīvayo 'thāto niruktānyeva candāṃsyupadadhāti //",
+    "english": ", 'The metre Measure;'--the measure (mâ), doubtless, is this (terrestrial) world, for this world is, as it were, measured (mita);--'the metre Fore-measure!'--the fore-measure (pramâ), doubtless, is the air-world, for the air-world is, as it were, measured forward from this world;--'The metre Countermeasure,'--the counter-measure (pratimâ), doubtless, is yonder (heavenly) world, for yonder world is, as it were, counter-measured in the air;--'The metre Asrîvayas,'--'asrîvayas,' doubtless, is food: whatever food there is in these worlds that is 'asrîvayas.' Or, whatever food (anna) flows (sravati) from theseworlds that is 'asrîvayas.' Hereafter, now, he puts down only defined metres.",
+    "morphology": "ayam_idam_SNM vai_vai_ lokaḥ_loka_SNM mā_mā_ ayam_idam_SNM hi_hi_ lokaḥ_loka_SNM mitaḥ_mā_SNPaM iva_iva_ pramā_pramā_SNF candaḥ_candas_SNNe iti_iti_ antarikṣa_antarikṣa_Cp lokaḥ_loka_SNM vai_vai_ pramā_pramā_SNF antarikṣa_antarikṣa"
+  },
+  {
+    "index": 42486,
+    "sanskrit": "yadyayaṃ putri te bhartā varaṃ yacchati vāṃchitam | tatprārthaya sutaṃ tasmādbrāhmaṇyena samanvitam || 10 ||",
+    "english": "10-11. “O my daughter, if this husband of yours is giving whatever is desired by you as boon unto you, then request for a son endowed with Brāhmaṇical virtues.",
+    "morphology": "yadi_yadi_ ayam_idam_SNM putri_putrī_SVF te_tvad_SG bhartā_bhartṛ_SNM varam_vara_SAM yacchati_yam_SPr3In vāṃchitam_vāñch_SAPaM  / tat_tad_SANe prārthaya_prārthay_SPr2Im sutam_suta_SAM tasmāt_tad_SBNe ḥ_tvad_SG"
+  },
+  {
+    "index": 42487,
+    "sanskrit": "bhāvānām abhivddhir bhavati |",
+    "english": "that increase through development.",
+    "morphology": "bhāvānāḥ_"
+  }
+]

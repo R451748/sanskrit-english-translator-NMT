@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36888,
+    "sanskrit": "indrāśvineti indro vai yajñasya devatā sā yaiva yajñasya devatā tāmevaitatprīṇātyaśvinetyaśvināvevaitadāhāśvinau vā etadyajñasya śiraḥ pratyadhattāṃ tāvevaitatprīṇāti tasmādāhendrāśvineti //",
+    "english": "With, 'O Indra and ye Asvins!'--for Indra is the deity of the sacrifice, and he thus pleases him who is the deity of the sacrifice; and 'Ye Asvins' he says, because the Asvins at that time restored the head of the sacrifice, and it is them he thus pleases: therefore he says, 'O Indra and ye Asvins!'",
+    "morphology": "indra_indra_SVM aśvinā_aśvin_DuVM iti_iti_ indraḥ_indra_SNM vai_vai_ yajñasya_yajña_SGM devatā_devatā_SNF sā_tad_SNF yā_yad_SNF eva_eva_ yajñasya_yajña_SGM devatā_devatā_SNF tām_tad_SAF eva_eva_ etat_etad_SANe prīṇāti_prī_SPr3In aśvin"
+  },
+  {
+    "index": 36889,
+    "sanskrit": "śubhāśubhānāṃ dharmāṇāṃ jīvo viṣayatāṃ gataḥ / avivekaikadoṣeṇa kośeneva hi kīṭakaḥ //",
+    "english": "The living soul is the subject of its good and bad actions; but it becomes confined in its body by reason of its irrationality, and remains pent up there like the silkworm in its cocoon.",
+    "morphology": "śubha_śubha_Cp aśubhānām_aśubha_PGM dharmāṇām_dharma_PGM jīvaḥ_jīva_SNM viṣaya_viṣaya_Cp tām_tā_SAF gataḥ_gam_SNPaM  / aviveka_aviveka_Cp eka_eka_Cp doṣeṇa_doṣa_SIM kośaḥ_kośa_SNM iva_iva_ hi_hi_ kīṭakaḥ_kīṭaka_SNM  "
+  },
+  {
+    "index": 36890,
+    "sanskrit": "ānuśāsanikam parva śrutvā bhakti samanvitaḥ",
+    "english": "The Vedas should not be studied without faith.",
+    "morphology": "āḥ_aḥ_U"
+  },
+  {
+    "index": 36891,
+    "sanskrit": "yadi brahmendraviṣṇvādyā vārayeyuḥ sametya mām | tathāpyasmin kṣaṇe bhadre praviśāmi tyajāmyasūn ||",
+    "english": "40. Even if Brahmā, Indra, Viṣṇu and others were to prevent me, O gentle lady, I shall enter the fire this moment and shall forsake my life.",
+    "morphology": "yadi_yadi_ brahma_brahman_Cp indra_indra_Cp viṣṇu_viṣṇu_Cp ādyāḥ_ādya_PNM vārayeyuḥ_vāray_PPr3O sametya_same_Co mām_mad_SA  / tathā_tathā_ api_api_ asmin_idam_SLM kṣaṇe_kṣaṇa_SLM bhadre_bhadra_SVF"
+  },
+  {
+    "index": 36892,
+    "sanskrit": "tāsāṃ brāhmaṇaśuśrūṣā viṣṇudhyānaṃ śivārcanam | amantrātpuṇyakaraṇaṃ dānaṃ deyaṃ ca vai sadā || 4 || na dānasya kṣayo loke śraddhayā yatpradīyate | aśraddhayā'śucitayā dānaṃ vairasyakāraṇam || 41 ||",
+    "english": "40. In regard to them the following good actions are always prescribed—service to Brāhmaṇas, meditation on Viṣṇu, adoration of Śiva, performance of holy rites without the recital of Mantras and Dāna that should be always given. 41. If a religious gift is made with perfect faith, that is never wasted in the world. A gift made without faith and in an unclean manner is the cause of enmity.",
+    "morphology": "tāsām_tad_PGF brāhmaṇa_brāhmaṇa_Cp śuśrūṣā_śuśrūṣā_SNF viṣṇu_viṣṇu_Cp dhyānam_dhyāna_SNNe śiva_śiva_Cp arcanam_arcana_SNNe  / amantrāt_amantra_SBNe puṇya_puṇya_Cp karaṇam_karaṇa_SNNe dānam_dāna_SNNe deyam_dā_SNNe"
+  },
+  {
+    "index": 36893,
+    "sanskrit": "gaṃgāṃ gacchati yastveko yastu bhaktyānumodayet | tayostulyaphalaṃ prāhurbhaktirevātra kāraṇam || 36 ||",
+    "english": "36. One who goes to Gaṅgā and one who rejoices in devotion, both of them, they say, derive the same benefit. Devotion alone is the cause thereof.",
+    "morphology": "gaṃgām_gaṅgā_SAF gacchati_gam_SPr3In yaḥ_yad_SNM tu_tu_ ekaḥ_eka_SNM yaḥ_yad_SNM tu_tu_ bhaktyā_bhakti_SIF anumodayet_anumoday_SPr3O  / tayoḥ_tad_DuGM tulya_tulya_Cp phalam_phala_SANe prāhuḥ_prāh_PPs3In bhaktiḥ_bhakti_SNF eva_eva_ atra"
+  },
+  {
+    "index": 36894,
+    "sanskrit": "jātānām sama varṇāsu putrāṇām aviśeṣataḥ sarveṣām eva varṇānām sama bhāgaḥ dhane smṛtaḥ",
+    "english": "As regards all the orders, the children born of the spouse taken from the husband's own order shall, it has been laid down, share equally the father's wealth.",
+    "morphology": "jātānām_jan_PGPaPsM sama_sama_Cp varṇāsu_varṇa_PLF putrāṇām_putra_PGM aviśeṣataḥ_aviśeṣataḥ_U sarveṣām_sarva_PGM eva_eva_U varṇānām_varṇa_PGM sama_sama_Cp bhāgaḥ_bhāga_SNM dhane_dhana_SLNe smṛtaḥ_smṛ_SNPaPsM"
+  },
+  {
+    "index": 36895,
+    "sanskrit": "sādhanasaṃpattis tu kāmyaiva / brahmavādinas tu sauryādīnāṃ niṣedharthaṃ kāmātmateti manyante / phalārthitayā kriyamāṇā bandhātmakā bhavanti, niṣkāmas tu brahmārpaṇanyāyena kurvan mucyate /",
+    "english": "The Brahmavādins Vedāntins however regard the words \"it is not right to be absorbed in desires\" as a prohibition of the Saurya and all such other acts as are laid down as bringing rewards; and their reason is that all actions done with a view to rewards become setters of bondage; and it is only when an act is done without any thought of rewardsdoing it simply as an offering to Brahmanthat the man becomes released.",
+    "morphology": "sādhana_sādhana_Cp saṃpattiḥ_sampatti_SNF tu_tu_ kāmyā_kāmay_SNFGd eva_eva_  / brahma_brahman_Cp vādinaḥ_vādin_PNM tu_tu_ saurya_saurya_Cp ādīnām_ādi_PGM niṣedha_niṣedha_Cp artham_artha_SAM kāma_kāma_Cp ātma_ātman_Cp tā_tā_SNF it"
+  }
+]

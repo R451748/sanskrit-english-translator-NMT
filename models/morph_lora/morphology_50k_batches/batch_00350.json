@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2792,
+    "sanskrit": "brahma bhūtāḥ virajasaḥ tatas yānti parām gatim",
+    "english": "Subsequently, by casting off attachments they partake of the nature of Brahma and at last attain to the highest end.",
+    "morphology": "brahma_brahman_NeCp bhūtāḥ_bhū_PNPaPsM virajasaḥ_virajas_PNM"
+  },
+  {
+    "index": 2793,
+    "sanskrit": "ke punar atra trayo vedā abhipretāḥ /",
+    "english": "The next question that arises iswhich are the \"three Vedas\" that are meant here?",
+    "morphology": "ke_ka_PNM punar_punar_ atra_atra_ trayaḥ_tri_PNM vedāḥ_veda_PNM abhipretāḥ_abhipre_PNPaM"
+  },
+  {
+    "index": 2794,
+    "sanskrit": "jitvā viśvaṃ bhavānatra viharatyavarodhanaiḥ | viharatyapsarobhiste ripuvargo divaṃ gataḥ ||",
+    "english": "Here there is a syntactical relation with 'wandering' of both 'clouds' as well as 'elephants' having self-same characteristics; so this is Paronomastic Illuminator.",
+    "morphology": "jitvā_ji_Co viśvam_viśva_SANe bhavān_bhavat_SNM atra_atra_ viharati_vihṛ_SPr3In avarodhanaiḥ_avarodhana_PINe  / viharati_vihṛ_SPr3In apsarobhiḥ_apsaras_PIF te_tvad_SG ripu_ripu_Cp vargaḥ_varga_SNM divam_div_SAM gataḥ_gam_SNPaM  /"
+  },
+  {
+    "index": 2795,
+    "sanskrit": "naikena sahitaḥ kuryānna kuryādbahubhiḥ saha / na ca mūrkhair nacānāptair guptaṃ na prakaṭaṃ caret //",
+    "english": "He should not have the counsel with a single person or with many or ignorant men or untrustworthy men. He should also not make public the secret counsel.",
+    "morphology": "na_na_ ekena_eka_SIM sahitaḥ_sahita_SNM kuryāt_kṛ_SPr3O na_na_ kuryāt_kṛ_SPr3O bahubhiḥ_bahu_PIM saha_saha_  / na_na_ ca_ca_ mūrkhaiḥ_mūrkha_PIM na_na_ ca_ca_ anāptaiḥ_anāpta_PIM guptam_gup_SAPaNe na_na_ prakaṭam_prakaṭa_SANe caret_ca"
+  },
+  {
+    "index": 2796,
+    "sanskrit": "śīlānusmti dharmāloka-mukhaṃ",
+    "english": "the recollection of virtue entrance into the light of the Dharma",
+    "morphology": "__śīla_U"
+  },
+  {
+    "index": 2797,
+    "sanskrit": "naiti kauṭilyaḥ // svacakrapīḍanaṃ prakṛtipuruṣamukhyaupagrahavighātābhyāṃ śakyate vārayitum ekadeśaṃ vā pīḍayati,",
+    "english": "No, says Kautilya, troubles due to ones own Circle can be got rid of by arresting or destroying the leaders among the subjective people;",
+    "morphology": "na_na_ eti_i_SPr3In kauṭilyaḥ_kauṭilya_SNM  // sva_sva_Cp cakra_cakra_Cp pīḍanam_pīḍana_SNNe prakṛti_prakṛti_Cp puruṣa_puruṣa_Cp mukhya_mukhya_Cp aupagraha_aupagraha_Cp vighātābhyām_vighāta_DuIM śakyate_śak_SPr3InPv vārayitum_vā"
+  },
+  {
+    "index": 2798,
+    "sanskrit": "mā naḥ vadhīḥ rudra mā parā dāḥ mā te bhūma pra sitau hīl̥itasya ā naḥ bhaja barhiṣi jīva śaṁse yūyam pāta svasti bhiḥ sadā naḥ",
+    "english": "Slay us not, nor abandon us, O Rudra let not thy noose, when thou art angry, seize us. Give us trimmed grass and fame among the living. Preserve us evermore, ye Gods, with blessings.",
+    "morphology": "mā_mā_U naḥ_mad_PA vadhīḥ_vadh_SPs2 rudra_rudra_SVM mā_mā_U parā_parā_U dāḥ_dā_SPs2 mā_mā_U te_tvad_SD bhūma_bhū_PPs1 pra_pra_U sitau_siti_SLF hīl̥itasya_hīl̥ita_SGNe ā_ā_U naḥ_mad_PA bhaja_bhaj_SPr2Im barhiṣi_barhis_SLNe jīva"
+  },
+  {
+    "index": 2799,
+    "sanskrit": "pitṝn ca pitṛ loka sthān deva loke ca devatāḥ saṃtarpayati śānta ātmā yaḥ dadāti vasuṃdharām",
+    "english": "That man of tranquil soul who makes a gift of earth gratifies (by that act) the Pitris dwelling in their own region and the deities also hailing from the region that is theirs.",
+    "morphology": "pitṝn_pitṛ_PAM ca_ca_U pitṛ_pitṛ_MCp loka_loka_MCp sthān_stha_PAM deva_deva_MCp loke_loka_SLM ca_ca_U devatāḥ_devatā_PAF saṃtarpayati_saṃtarpay_SPr3In śānta_śam_PaPsCp ātmā_ātman_SNM yaḥ_yad_SNM dadāti_dā_SPr3In vasuṃdharām_va"
+  }
+]

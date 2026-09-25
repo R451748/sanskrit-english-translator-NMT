@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34608,
+    "sanskrit": "kuntīm utthāpya mādrī tu mohena āviṣṭa cetanām",
+    "english": "Why didst thou tempt him into solitude? Always melancholy at the thought of the Rishi's curse, how came he to be merry with thee in solitude? O princess of Valhika, more fortunate than myself, thou art really to be envied, for thou hast seen the face of our lord suffused with gladness and joy.' \"Madri then replied, saying, 'Revered sister, with tears in my eyes, I resisted the king, but he could not control himself, bent on, as it were making the Rishi's curse true.' \"Kunti then said, 'I am the older of his wedded wives;",
+    "morphology": "kuntīm_kuntī_SAF"
+  },
+  {
+    "index": 34609,
+    "sanskrit": "sūta uvāca | tayostaṃ niścayaṃ jñātvā bakaḥ paramadurmanā | suciraṃ ciṃtayāmāsa kathaṃ syādetayoḥ sukham || 121 ||",
+    "english": "Sūta said: 121. On coming to know of their decision, the Baka became highly vexed. He pondered for a long time: on how the happiness of those two could be brought about.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / tayoḥ_tad_DuGM tam_tad_SAM niścayam_niścaya_SAM jñātvā_jñā_Co bakaḥ_baka_SNM parama_parama_Cp durmanāḥ_durmanas_SNM  / su_su_ ciram_ciram_ ciṃtayāmāsa_cit_SPs3InPe katham_katham_ syāt_as_SPr3O etay"
+  },
+  {
+    "index": 34610,
+    "sanskrit": "yata eva bhedas tam upādāya gaṇanā kartavyā yāvat saptamāvadhi /",
+    "english": "The degrees are to be counted from that person from whom the two lines bifurcate.",
+    "morphology": "yatas_yatas_ eva_eva_ bhedaḥ_bheda_SNM tam_tad_SAM upādāya_upādā_Co gaṇanā_gaṇanā_SNF kartavyā_kṛ_SNFGd yāvat_yāvat_ saptama_saptama_Cp avadhi_avadhi_"
+  },
+  {
+    "index": 34611,
+    "sanskrit": "īśvara uvāca | tato gacchenmahādevi devīṃ saubhāgyakāriṇīm | kuṇḍeśvarīti vikhyātāṃ puṣkarādvāyugocare || 1 || dhanuṣāṃ triṃśatā devi bhūtanāthācca nairṛte | saṃsthitā pāpadamanī dāridryaughavināśinī || 2 || tasyā nairṛtadigbhāge dhanuḥpañcadaśe sthitam | śaṃkhodakaṃnāma kuṇḍaṃ sarvapātakanāśanam || 3 ||",
+    "english": "1-3. Thereafter, a pilgrim should go to the shrine of the goddess well-known as Kuṇḍeśvari, O great goddess. She confers conjugal felicity. The shrine is situated within a distance of thirty Dhanus to the north-west of Puṣkara and south-west of Bhūtanātha. The goddess that supresses sins and destroys a series of impoverished states is stationed there. There is a Kuṇḍa (holy pit) named Śaṅkhodaka situated within a distance of fifteen Dhanus to the south-west of the shrine of the goddess. This holy pit destroys all sins.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O mahādevi_mahādevī_SVF devīm_devī_SAF saubhāgya_saubhāgya_Cp kāriṇīm_kārin_SAF  / kuṇḍeśvarī_kuṇḍeśvarī_SNF iti_iti_ vikhyātām_vikhyā_SAPaF puṣkarāt_p"
+  },
+  {
+    "index": 34612,
+    "sanskrit": "tvam uktaḥ kuru vṛddhena mayā ca vidureṇa ca vāsudevena ca tathā śreyaḥ na eva abhipadyase",
+    "english": "Thou hast been addressed by the eldest of the Kurus, by me, by Vidura, and by Vasudeva. Thou dost not yet understand what is beneficial for thyself.",
+    "morphology": "tvam_tvad_SN uktaḥ_vac_SNPaPsM kuru_kṛ_SPr2Im vṛddhena_vṛddha_SIM mayā_mad_SI ca_ca_U vidureṇa_vidura_SIM ca_ca_U vāsudevena_vāsudeva_SIM ca_ca_U tathā_tathā_U ha_ha_U ṛṣṇā_han_SNPaPsF"
+  },
+  {
+    "index": 34613,
+    "sanskrit": "tadā eva ced vīra karma akariṣyo",
+    "english": "At the time of the play, thou hadst desired to burn my hands.",
+    "morphology": "tadā_tadā_U"
+  },
+  {
+    "index": 34614,
+    "sanskrit": "cakra vat parivarteta tat te jānāti duṣkṛtam",
+    "english": "They are ceaselessly moving like a circle.",
+    "morphology": "ca_cakra_NeCp"
+  },
+  {
+    "index": 34615,
+    "sanskrit": "te ca api nipuṇāḥ vaidyāḥ kuśalāḥ saṃbhṛta auṣadhāḥ vyādhibhiḥ parikṛṣyante mṛgāḥ vyādhaiḥ iva arditāḥ",
+    "english": "Even physicians, that are well-skilled and well-up in their scriptures and well-equipt with excellent medicines, are themselves afflicted by disease like animals assailed by hunters.",
+    "morphology": "te_tad_PNM ca_ca_U api_api_U nipuṇāḥ_nipuṇa_PNM vaidyāḥ_vaidya_PNM kuśalāḥ_kuśala_PNM saṃbhṛta_sambhṛ_PaPsCp auṣadhāḥ_auṣadha_PNM vyādhibhiḥ_vyādhi_PIM parikṛṣyante_parikṛṣ_PPr3InPv mṛgāḥ_mṛga_PNM vyādhaiḥ_"
+  }
+]

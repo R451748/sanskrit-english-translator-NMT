@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29464,
+    "sanskrit": "pariṣvajya ca gāndhārī kṛpaṇam paryadevayat",
+    "english": "Embracing her son, Gandhari indulged in piteous lamentations for him.",
+    "morphology": "pariṣvajya_pariṣvaj_Co"
+  },
+  {
+    "index": 29465,
+    "sanskrit": "sarva upāyaiḥ ādadīta dhanam yajña prayojanam",
+    "english": "Wealth for the performance of sacrifices should be acquired by every means.",
+    "morphology": "saḥ_saḥ_SNM"
+  },
+  {
+    "index": 29466,
+    "sanskrit": "dakṣiṇa agrāḥ tatas darbhāḥ viṣṭareṣu niveśitāḥ pādayoḥ ca eva viprāṇām ye tu annam upabhuñjate",
+    "english": "Towards the feet of those Brahmanas engaged in eating the food that was served unto them a number of Kusa blades was spread out on the seats they occupied, with the top ends of the blades directed towards the south.",
+    "morphology": "dakṣiṇa_dakṣiṇa_Cp agrāḥ_agra_PNM tatas_tatas_U darbhāḥ_darbha_PNM viṣṭareṣu_viṣṭara_PLM niveśitāḥ_niveśay_PNPaPsM pādayoḥ_pāda_DuLM ca_ca_U eva_eva_U viprāṇām_vipra_PGM ye_yad_PNM tu_tu_U annam_anna_SANe upabhuñjate_u"
+  },
+  {
+    "index": 29467,
+    "sanskrit": "svalpakṣīrāstathā gāvaḥ kṣīre sarpirna vidyate | evaṃ yuddhāni teṣāṃ ca vīkṣamāṇo divāniśam || 29 ||",
+    "english": "29. Cows yield very little quantity of milk. Milk does not contain adequate fat content (ghee). Thus I observed their battles day and night.",
+    "morphology": "su_su_ alpa_alpa_Cp kṣīrāḥ_kṣīra_PNF tathā_tathā_ gāvaḥ_go_PNF kṣīre_kṣīra_SLNe sarpiḥ_sarpis_SNNe na_na_ vidyate_vid_SPr3InPv  / evam_evam_ yuddhāni_yuddha_PANe teṣām_tad_PGM ca_ca_ vīkṣamāṇaḥ_vīkṣ_SNPaPrM divāniśam_"
+  },
+  {
+    "index": 29468,
+    "sanskrit": "yatra sarvāṇi kṣetrāṇi saṃsthitāni mamājñayā | tathānyāni ca tīrthāni kalikāle'pi saṃsthite || 9 ||",
+    "english": "9. At my bidding, all the holy places are present here. So also the other Tīrthas even when Kali age has arrived.",
+    "morphology": "yatra_yatra_ sarvāṇi_sarva_PNNe kṣetrāṇi_kṣetra_PNNe saṃsthitāni_saṃsthā_PNPaNe mama_mad_SG ājñayā_ājñā_SIF  / tathā_tathā_ anyāni_anya_PNNe ca_ca_ tīrthāni_tīrtha_PNNe kali_kali_Cp kāle_kāla_SLM api_api_ saṃsthite_saṃsth"
+  },
+  {
+    "index": 29469,
+    "sanskrit": "kāñcanaḥ su mahān pādaḥ tatra karma cakāra saḥ",
+    "english": "There on a huge golden hill he performed the rites.",
+    "morphology": "kāñcanaḥ_kāñcana_SNM"
+  },
+  {
+    "index": 29470,
+    "sanskrit": "iti rājñā susaṃpṛṣṭaḥ śrutadevo mahāmanāḥ | sādhusādhviti saṃbhāṣya vyājahāra nṛpottamam || 4 ||",
+    "english": "4. On being specifically asked thus by the king the noble-minded Śrutadeva said, “Good! Good!” and then addressed the excellent king thus:",
+    "morphology": "iti_iti_ rājñā_rājan_SIM su_su_ saṃpṛṣṭaḥ_sampracch_SNPaM śrutadevaḥ_śrutadeva_SNM mahā_mahat_Cp manāḥ_manas_SNM  / sādhu_sādhu_SANe sādhu_sādhu_SANe iti_iti_ saṃbhāṣya_sambhāṣ_Co"
+  },
+  {
+    "index": 29471,
+    "sanskrit": "babhūthātatantha ityādi nigame / vedārthavyākhyānāṅgavacano 'py asti / nigamaniruktavyākaraṇāny aṅgānīti / nirukte hi prayogaḥ nigamā ime bhavanti iti / tasyeha śrutigrahaṇād vā vakṣyamāṇodāharaṇāc cāsaṃbhavaḥ /",
+    "english": "The term \"nigama\" is also found to be used as a name for that subsidiary science which explains the meaning of vedic texts, ie in such statements as \"Nigama Nirukta and Vyākaraṇa are the subsidiary sciences\" In the Nirukta also in found the expression \"These are nigamas\"; and the term \"nigama\" here cannot be taken as standing for anything else but \"Vedic texts\" , as is dear from the examples cited.",
+    "morphology": "babhūtha_bhū_SPs2In ātatantha_tan_SPs2In ityādi_ityādi_SNNe nigame_nigama_SLM  / veda_veda_Cp artha_artha_Cp vyākhyāna_vyākhyāna_Cp aṅga_aṅga_Cp vacanaḥ_vacana_SNM api_api_ asti_as_SPr3In  / nigama_nigama_Cp nirukta_nirukta_Cp vyākaraṇān"
+  }
+]

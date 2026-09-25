@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18680,
+    "sanskrit": "tatra sahasram /",
+    "english": "In their case the fine shall be one thousand.",
+    "morphology": "tatra_"
+  },
+  {
+    "index": 18681,
+    "sanskrit": "dṛṣadi paradhane ca loṣṭakhaṃḍe paravanitāsu ca kūṭaśālmalīṣu | sakhiripusahajeṣu bandhuvarge samamatayaḥ khalu vaiṣṇavāḥ prasiddhāḥ || 13 ||",
+    "english": "111. Vaiṣṇavas are reputed to have the same attitude towards all these: a piece of stone, other men’s wealth or a lump of clay; other men’s wives or Śālmalī trees with sharp thorns all over them; friends, enemies, brothers and kinsmen.",
+    "morphology": "dṛṣadi_dṛṣad_SLF para_para_Cp dhane_dhana_SLNe ca_ca_ loṣṭa_loṣṭa_Cp khaṃḍe_khaṇḍa_SLM para_para_Cp vanitāsu_vanitā_PLF ca_ca_ kūṭa_kūṭa_Cp śālmalīṣu_śālmalī_PLF  / sakhi_sakhi_Cp ripu_ripu_Cp sahajeṣu_sahaja_PLM b"
+  },
+  {
+    "index": 18682,
+    "sanskrit": "yadā ca garbhātprabhṛti prajānāṃ vadhāya [… …] nubadhāya mṛtyuḥ | kasmādakāle vanasaṃśrayaṃ me putrapriyastatra bhavān avocat ||",
+    "english": "‘Since from the moment of leaving the womb death is a characteristic adjunct, why, in thy affection for thy son, hast thou called my departure to the forest ill-timed?",
+    "morphology": "yadā_yadā_ ca_ca_ garbhāt_garbha_SBM prabhṛti_prabhṛti_ prajānām_prajā_PGF vadhāya_vadha_SDM mṛtyuḥ_mṛtyu_SNM  / kasmāt_kasmāt_ akāle_akāla_SLM vana_vana_Cp saṃśrayam_saṃśraya_SAM me_mad_SG putra_putra_Cp priyaḥ_priya_SNM tatra"
+  },
+  {
+    "index": 18683,
+    "sanskrit": "parāvasośca yatproktaṃ vayasyairhāsyamāśritaiḥ | parāśarasamutthaṃ ca yadvākyaṃ tatsmṛteḥ param || 74 ||",
+    "english": "74. We shall also narrate what was said jokingly to Parāvasu by his friends. The statement of Parāśara is greater than any other Smṛti.",
+    "morphology": "parāvasoḥ_parāvasu_SGM ca_ca_ yat_yad_SNNe proktam_pravac_SNPaNe vayasyaiḥ_vayasya_PIM hāsyam_hāsya_SANe āśritaiḥ_āśri_PIPaM  / parāśara_parāśara_Cp samuttham_samuttha_SNNe ca_ca_ yat_yad_SNNe vākyam_vākya_SNNe tad_tad_Cp smṛteḥ_sm"
+  },
+  {
+    "index": 18684,
+    "sanskrit": "rātrau svapaṃti ye kecidviśvastā dharmabhājanāḥ | teṣāmasthīni dṛśyaṃte prātareva hi kevalam || 13 ||",
+    "english": "13. A few virtuous people who confìdentally took repose during nights (were killed) and only their bones were seen in the morning.",
+    "morphology": "rātrau_rātri_SLF svapaṃti_svap_PPr3In ye_yad_PNM kecid_kaścit_PNM viśvastāḥ_viśvas_PNPaM dharma_dharma_Cp bhājanāḥ_bhājana_PNM  / teṣām_tad_PGM asthīni_asthi_PNNe dṛśyaṇāt_dṛś_SPr3InPv prātar_prātar_ eva_eva_ hi_hi_ kevalam_ke"
+  },
+  {
+    "index": 18685,
+    "sanskrit": "saṃsaktirdvividhā proktā vandyā vandhyā ca rāghava / vandhyā sarvatra mūḍhānāṃ vandyā tattvavidāṃ nijā //",
+    "english": "Worldly affections are of two kinds said:—the praiseworthy and the fruitless ones; those of the wise and learned men, belong to the former kind;but the tendencies of the ignorant, are of the latter or unfruitful kind.",
+    "morphology": "saṃsaktiḥ_saṃsakti_SNF dvividhā_dvividha_SNF proktā_pravac_SNPaF vandyā_vand_SNFGd vandhyā_vandhyā_SNF ca_ca_ rāghava_rāghava_SVM  / vandhyā_vandhyā_SNF sarvatra_sarvatra_ mūḍhānām_muh_PGPaM vandyā_vand_SNFGd tattva_tattva_Cp vidām_vi"
+  },
+  {
+    "index": 18686,
+    "sanskrit": "paraviṣaye kṛtyaakṛtyapakṣaupagrahaḥ,",
+    "english": "winning over the factions for or against an enemys cause in an enemys state;",
+    "morphology": "para_para_Cp"
+  },
+  {
+    "index": 18687,
+    "sanskrit": "no evānyatraitasmāt /",
+    "english": "but none other than That;",
+    "morphology": "na_na_ u_u_ eva_eva_ anyatra_anyatra_"
+  }
+]

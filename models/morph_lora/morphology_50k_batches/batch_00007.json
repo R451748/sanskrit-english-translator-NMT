@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48,
+    "sanskrit": "īśvara uvāca | tato gacchenmahādevi devaṃ vaiśvānareśvaram | tasyaivāgneyakoṇasthaṃ dhanuṣāṃ paṃcake sthitam || 1 || pāpaghnaṃ sarvajaṃtūnāṃ darśanātsparśanādapi | tatra kaścicchukaḥ pūrvaṃ nīḍaṃ devi cakāra ha || 2 ||",
+    "english": "1-4. Thereafter, a devotee should go to the shrine of Lord Vaiśvānareśvara, O great goddess. It is stationed within a distance of five Dhanus of the same deity (i.e. Uttaṅkeśvara) in the south-east corner. Through visiting and touching it destroys the sins of all creatures.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O mahādevi_mahādevī_SVF devam_deva_SAM vaiśvānareśvaram_vaiśvānareśvara_SAM  / tasya_tad_SGM eva_eva_ āgneya_āgneya_Cp koṇa_koṇa_Cp stham_stha_SAM dhanuṣām_dhanus_"
+  },
+  {
+    "index": 49,
+    "sanskrit": "tasmiṃś ca kāle bhūyo bhūyaḥ /",
+    "english": "During all this time.",
+    "morphology": "tasmin_tad_SLM ca_ca_ kāle_kāla_SLM"
+  },
+  {
+    "index": 50,
+    "sanskrit": "nārada uvāca | kadā snānaṃ prakartavyaṃ kathaṃ stheyaṃ dināvadhi | āhnikaṃ tatsamācakṣva viśeṣeṇa pitāmaha || 1 ||",
+    "english": "Nārada said: 1. When should the bath be taken? How should one stay throughout the day? O Pitāmaha, recount the Āhnika3 (daily round of religious duties) in particular (during Kārttika). Brahmā said:",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / kadā_kadā_ snānam_snāna_SNNe prakartavyam_prakṛ_SNNeGd katham_katham_ stheyam_sthā_SNNeGd dina_dina_Cp avadhi_avadhi_  / āhnikam_āhnika_SANe tat_tad_SANe samācakṣva_samācakṣ_S2ImIn"
+  },
+  {
+    "index": 51,
+    "sanskrit": "ke cit abhyāhatāḥ nāgāḥ nāgaiḥ naga nibhāḥ bhuvi nipetuḥ samare tasmin pakṣavantaḥ iva adrayaḥ",
+    "english": "Some of those creatures, huge as hills, struck by hostile compeers, fell down in that battle, like winged mountains (when clipped of their wings).",
+    "morphology": "ke_ka_PNM cit_cit_U abhyāhatāḥ_abhyāhan_PNPaPsM nāgāḥ_nāga_PNM nāgaiḥ_nāga_PIM naga_naga_MCp nibhāḥ_nibha_PNM bhuvi_bhū_SLF nipetuḥ_nipat_PPs3In samare_samara_SLNe tasmin_tad_SLNe pakṣavantaḥ_pakṣavat_PNM"
+  },
+  {
+    "index": 52,
+    "sanskrit": "kuśaḥ krauñcas tathā śākaḥ puṣkaraśceti saptamaḥ //",
+    "english": "The seven continents are Jambū, Plakṣa, Śālmali, Kuśa, Krauñca, Śāka and Puṣkara.",
+    "morphology": "kuśaḥ_kuśa_SNM krauñcaḥ_krauñca_SNM tathā_tathā_ śākaḥ_śāka_SNM puṣkaraḥ_puṣkara_SNM ca_ca_ iti_iti_ saptamaḥ_saptama_SNM  /"
+  },
+  {
+    "index": 53,
+    "sanskrit": "dharmasya setum badhnāmi calite calite yuge tāḥ tāḥ yonīḥ praviśya aham prajānām hita kāmyayā",
+    "english": "In every Yuga I have to repair the causeway of Righteousness, entering into diverse kinds of wombs from desire of doing good to my creatures.",
+    "morphology": "dharmasya_dharma_SGM setum_setu_SAM badhnāmi_bandh_SPr1In calite_cal_SLPaPsNe calite_cal_SLPaPsNe yuge_yuga_SLNe tāḥ_tad_PAF tāḥ_tad_PAF yonīḥ_yoni_PAF"
+  },
+  {
+    "index": 54,
+    "sanskrit": "samāgatā śiva mūrdhnaḥ himādrim sutā avanīdhrasya harasya bhāryā divaḥ bhuvaḥ ca api kakṣyā anurūpā",
+    "english": "Ganga is the daughter of Himavat, the spouse of Hara, and the ornament of both Heaven and Earth.",
+    "morphology": "samāgatā_samāgam_SNPaPsF śiva_śiva_Cp mūrdhnaḥ_mūrdhan_SGM himādrim_himādri_SAM sutā_sutā_SNF avanīdhrasya_avanīdhra_SGM harasya_hara_SGM bhāryā_bhāryā_SNF divaḥ_div_SGM bhuvaḥ_bhū_SGF ca_ca_U api_api_U kakṣyā_kakṣyā_SNF"
+  },
+  {
+    "index": 55,
+    "sanskrit": "manye sādhuvibuddhosi pade viśrāntavānasi / saṃkalpairavamukto'si satyaikātmamayo bhava //",
+    "english": "I understand you to be enlightened to truth, and to rest in the state of supreme felicity; and now that you are freed from all your temporal desires, I wish you to be one with the true and holy spirit.",
+    "morphology": "manye_man_SPr1In sādhu_sādhu_Cp vibuddhaḥ_vibudh_SNPaM asi_as_SPr2In pade_pada_SLNe viśrāntavān_viśram_SNPaM asi_as_SPr2In  / saṃkalpaiḥ_saṃkalpa_SNM"
+  }
+]

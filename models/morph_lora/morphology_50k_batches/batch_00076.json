@@ -1,0 +1,50 @@
+[
+  {
+    "index": 600,
+    "sanskrit": "vi śrayantām urviyā hūyamānāḥ dvāraḥ devīḥ supra ayanāḥ namaḥ bhiḥ vyacasvatīḥ vi prathantām ajuryāḥ varṇam punānāḥ yaśasam su vīram",
+    "english": "May the divine doors which are easily passable, open themselves wide when invoked with adoration. May they, the far-embracing, undecaying ones, open wide, purifying our glorious race 1 which is rich in valiant men.",
+    "morphology": "vi_vi_U śrayantām_śri_PPr3Im urviyā_urviyā_U hūyamānāḥ_hvā_PNPaPrFPv dvāraḥ_dvār_PNF devīḥ_devī_PNF supra_supra_Cp ayanāḥ_ayana_PNF namaḥ_namas_PINe vyacasvatīḥ_vyacasvat_PNF vi_vi_U prathantām_prath_PPr3Im ajuryāḥ_ajurya_PNF"
+  },
+  {
+    "index": 601,
+    "sanskrit": "anabhimatam asevitam ca mūḍhaiḥ",
+    "english": "It is disapproved by persons of foolish understanding who never follow it.",
+    "morphology": "anabhimatam_anabhimata_SNNe"
+  },
+  {
+    "index": 602,
+    "sanskrit": "tvayyāgate tu sarvasminkuśalaṃ me bhaviṣyati | ityuktavaṃtaṃ nṛpatirutkaleśaṃ dvijottamāḥ || 35 ||",
+    "english": "When the king of Utkala concluded his speech thus, O excellent Brāhmaṇas, king (Indradyumna) honoured him duly and sent him off to take rest.",
+    "morphology": "tvayi_tvad_SL āgate_āgam_SLPaM tu_tu_ sarvasmin_sarva_SLM kuśalam_kuśala_SNNe me_mad_SG bhaviṣyati_bhū_SFu3In  / iti_iti_ uktavantam_vac_SAPaM nṛpatiḥ_nṛpati_SNM utkala_utkala_Cp īśam_īśa_SAM dvijottamāḥ_dvijottama_PVM"
+  },
+  {
+    "index": 603,
+    "sanskrit": "śālūka vat panasikām tām vidyāt śleṣma vāta jām||",
+    "english": "They are due to the action of the deranged Kapha and Vayu.",
+    "morphology": "śālūka_śālūka_MCp vat_vat_U panasikām_panasikā_SAF tām_tad_SAF vidyāt_vid_SPr3O śleṣma_śleṣman_MCp vāta_vāta_MCp jām_ja_SAF"
+  },
+  {
+    "index": 604,
+    "sanskrit": "na ca te jāta saṃmohāḥ vacaḥ gṛhṇanti me hitam",
+    "english": "But stupefied as they were and deprived of their senses, they refused to accept my words.",
+    "morphology": "na_na_U ca_ca_U te_tad_PNM jāta_jan_PaPsCp saṃmohāḥ_sammoha_PNM"
+  },
+  {
+    "index": 605,
+    "sanskrit": "jagatī vaṃśasthā vṛttaṃ jatau jāvatha tau javau /",
+    "english": "The metres belonging to the Jagatī class are now described. Vaṃśasthā consists of ja, ta, ja, and ra.",
+    "morphology": "jagatī_jagatī_SNF vaṃśa_vaṃśa_Cp sthā_stha_SNF vṛttam_vṛtta_SNNe"
+  },
+  {
+    "index": 606,
+    "sanskrit": "tadevam arthāyogād vijñaptimātratāṃ pratipādya samprati grāhyagrāhakalakṣaṇavaidhuryāt pratipādayann āha anirbhāsam ityādi /",
+    "english": "Having thus proved that Idea alone exists, on the ground of there being no ‘object’, the Author now proceeds to prove the same, on the ground of the absence of the characters of the ‘apprehended’ and the ‘apprehender’: [see verse 1999 above]",
+    "morphology": "tat_tad_SNNe evam_evam_ artha_artha_Cp ayogāt_ayoga_SBM vijñaptimātra_vijñaptimātra_Cp tām_tā_SAF pratipādya_pratipāday_Co samprati_samprati_ grāhya_grāhya_Cp grāhaka_grāhaka_Cp lakṣaṇa_lakṣaṇa_Cp vaidhuryāt_vaidhurya_SBNe pratipāday"
+  },
+  {
+    "index": 607,
+    "sanskrit": "rājñāṃ ca viduṣāṃ caiva kīrtireva hi bhūṣaṇam | satkīrtiprabhavā lakṣmīḥ puṇyaṃ satkīrtisaṃbhavam || 39 ||",
+    "english": "39. Fame alone is the ornament of kings and learned men. Prosperity comes out of good fame. Merit results from good fame.",
+    "morphology": "rājñām_rājan_PGM ca_ca_ viduṣām_vidvas_PGM ca_ca_ eva_eva_ kīrtiḥ_kīrti_SNF eva_eva_ hi_hi_ bhūṣaṇam_bhūṣaṇa_SNNe  / sat_sat_Cp kīrti_kīrti_Cp prabhavā_prabhava_SNF lakṣmīḥ_lakṣmī_SNF puṇyam_puṇya_SNNe sat_sat_Cp kīrti_"
+  }
+]

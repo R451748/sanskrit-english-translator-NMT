@@ -1,0 +1,50 @@
+[
+  {
+    "index": 160,
+    "sanskrit": "punar yathāgatam jagmuḥ sarva bhakṣaḥ ca saḥ abhavat",
+    "english": "They then returned to the places they had come from.",
+    "morphology": "punar_punar_U yathāgatam_yathāgata_SAM jaghuḥ_gam_PPs3In"
+  },
+  {
+    "index": 161,
+    "sanskrit": "dharma ādyāḥ hi yathā tretā vahnitretā tathā eva ca tathā eva putra pautrāṇām svarge tretā kila akṣayā",
+    "english": "Like the triple aggregate beginning with Religion, or the triple aggregate of sacred fires, there is a triple aggregate of everlasting Heavens, depending upon the son, the grandson, and the great-grandson.",
+    "morphology": "dharma_dharma_MCp ādyāḥ_ādya_PNM hi_hi_U yathā_yathā_U tretā_tretā_SNF vahnitretā_vahnitretā_SNF tathā_tathā_U eva_eva_U ca_ca_U tathā_tathā_U eva_eva_U putra_putra_MCp pautrāṇām_pautra_PGM svarge_svarga_SLM"
+  },
+  {
+    "index": 162,
+    "sanskrit": "dharmameva sadā kuryānniṣiddhāni parityajet | ityādiniyamopetaḥ setumūlaṃ tato vrajet || 14 ||",
+    "english": "14. He should always do what is righteous and avoid prohibited activities. Strictly adhering to these and other restrictions and observances, he should go to Setumūla.",
+    "morphology": "dharmam_dharma_SAM eva_eva_ sadā_sadā_ kuryāt_kṛ_SPr3O niṣiddhāni_niṣidh_PAPaNe parityajet_parityaj_SPr3O  / ityādi_ityādi_Cp niyama_niyama_Cp upetaḥ_upe_SNPaM setu_setu_Cp mūlam_mūla_SANe tatas_tatas_"
+  },
+  {
+    "index": 163,
+    "sanskrit": "caturthī mātrā gāndhārī prayuktā mūrdhnilakṣyate //",
+    "english": "The fourth syllabic instant is endowed with the gāndhārī accent and is indicated on the head.",
+    "morphology": "caturthī_caturtha_SNF mātrā_mātrā_SNF gāndhārī_gāndhārī_SNF prayuktā_prayuj_SNPaF "
+  },
+  {
+    "index": 164,
+    "sanskrit": "tasya hi jñāyamāno 'rthaḥ karaṇam na tadjñānamātram /",
+    "english": "But the mere knowledge of a tiger does not bring about such a change.",
+    "morphology": "tasya_tad_SGNe hi_hi_ jñāyamānaḥ_jñā_SNPaPrMPv arthaḥ_artha_SNM karaṇam_karaṇa_SNNe na_na_ tad_tad_Cp jñāna_jñāna_Cp mātram_mātra_SNNe  /"
+  },
+  {
+    "index": 165,
+    "sanskrit": "yudhyataḥ pāṇḍu putrasya sūtaputraḥ astra māyayā tasya iṣudhī dhanuḥ jyām ca bāṇaiḥ saṃnata parvabhiḥ raśmīn yoktrāṇi ca aśvānām karṇaḥ vaikartanaḥ acchinat",
+    "english": "Then excited with rage, the Suta's son, Karna, by the power of his weapons, with his straight arrows, cut off in that encounter the couple of quivers and the bow-string of fighting Bhima, as also the traces of his steeds.",
+    "morphology": "yudhyataḥ_yudh_SGPaPrM pāṇḍu_pāṇḍu_MCp putrasya_putra_SGM sūtaputraḥ_sūtaputra_SNM astra_astra_NeCp māyayā_māyā_SIF tasya_tad_SGM iṣudhī_iṣudhi_DuAM dhanuḥ_dhanus_NeCp jyām_jyā_SAF ca_ca_U bāṇaiḥ_bāṇa_PIM saṃnata_sa"
+  },
+  {
+    "index": 166,
+    "sanskrit": "saṃkṣobhaḥ ca api sattvānām anāvṛṣṭi kṛtaḥ abhavat",
+    "english": "and there was distress among animals on account of cessation of rains.",
+    "morphology": "saṃkṣobhaḥ_saṃkṣobha_SNM ca_ca_U api_api_U sattvānām_sattva_PGM anāvṛṣṭi_anāvṛṣṭi_FCp kṛtaḥ_kṛ_SNPaPsM"
+  },
+  {
+    "index": 167,
+    "sanskrit": "tadgajālānatāṃ prāptaiḥ saha kālāgurudrumaiḥ // Ragh(K)_4.84 //",
+    "english": "When he crossed the Lauhityá the lord of the Prágjyo- tishas quaked (with fear), as also did the black aloe-wood trees got to the condition of (used as) tie-posts for his elephants.",
+    "morphology": "tad_tad_Cp gaja_gaja_Cp ālāna_ālāna_Cp tām_tā_SAF prāptaiḥ_prāp_PIPaM saha_saha_ kālāguru_kālāguru_Cp drumaiḥ_druma_PIM  /"
+  }
+]

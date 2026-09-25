@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41096,
+    "sanskrit": "rājā daṇḍadharaḥ rājan rakṣā na anyatra kṣatriyāt",
+    "english": "Without the Kshatriya, O king, there can be no protection.",
+    "morphology": "rājā_rājan_SNM daṇḍadharaḥ_daṇḍadhara_SNM rājan_rājan_SVM rakṣā_rakṣā_SNF"
+  },
+  {
+    "index": 41097,
+    "sanskrit": "naitad evam / kim anyavidhānenānyaniṣedho 'vagamyate svaśabdena vā niṣedhaḥ / vicitrā dharmopadeśasya kṛtir manoḥ //",
+    "english": "There is no force in this; as Munu\" s way of teaching Dharma is diverse sometimes he leaves the negation to be implied by means of an affirmation, and at others he puts the negation directly in its own words.",
+    "morphology": "na_na_ etat_etad_SNNe evam_evam_  / kim_kim_ anya_anya_Cp vidhānena_vidhāna_SINe anya_anya_Cp niṣedhaḥ_niṣedha_SNM avagamyate_avagam_SPr3InPv sva_sva_Cp śabdena_śabda_SIM vā_vā_ niṣedhaḥ_niṣedha_SNM  / vicitrā_vicitra_SNF dharma_dharma_C"
+  },
+  {
+    "index": 41098,
+    "sanskrit": "iti tasya vacaḥ śrutvā gālavasya mahātmanaḥ | sā saṃpūjya viśālākṣī gālavaṃ munisattamam | papraccha parayā bhaktyā śāpāṃto hi kathaṃ bhavet || 40 || gālavaḥ kathayāmāsa dhyānenālokya yatnataḥ || 41 ||",
+    "english": "After hearing the words of that noble-souled Gālava, the queen, the lady of large eyes, honoured the excellent sage Gālava and devoutly asked him: “How is the curse to come to an end?” Gālava concentrated and saw through meditation and said:",
+    "morphology": "iti_iti_ tasya_tad_SGM vacaḥ_vacas_SANe śrutvā_śru_Co gālavasya_gālava_SGM mahātmanaḥ_mahātman_SGM  / sā_tad_SNF saṃpūjya_sampūjay_Co viśāla_viśāla_Cp akṣī_akṣa_SNF gālavam_gālava_SAM muni_muni_Cp sattamam_sattama_SAM  / papracch"
+  },
+  {
+    "index": 41099,
+    "sanskrit": "abbhakṣaḥ vāyubhakṣaḥ ca āsīt vipraḥ samāhitaḥ",
+    "english": "He had sometimes subsisted upon water, and sometimes upon air alone, passing his days with concentrated soul.",
+    "morphology": "abbhakṣaḥ_abbhakṣa_SNM"
+  },
+  {
+    "index": 41100,
+    "sanskrit": "yathā uvāca bhagavān dhanvantariḥ dhanvantariḥ dharma bhṛtām variṣṭhaḥ vāc viśāradaḥ viśvāmitra sutam śiṣyam ṛṣṭim suśrutam anvaśāt",
+    "english": "The holy Dhanvantari, the foremost of the pious and the greatest of all discoursers, thus discoursed to his disciple Sushruta, the son of Vishvamitra.",
+    "morphology": "yathā_yathā_U uvāca_vac_SPs3In bhagavān_bhagavat_SNM dhanvantariḥ_dhanvantari_SNM dhanvantariḥ_dhanvantari_SNM dharma_dharma_MCp bhṛtām_bhṛt_PGM variṣṭhaḥ_variṣṭha_SNM vāc_vāc_FCp viśāradaḥ_viśārada_SNM viśvāmitra_viśvāmi"
+  },
+  {
+    "index": 41101,
+    "sanskrit": "agniḥ sarvā devatā havir etad yat paśur iti yat paśum ālabhyāgnim manthati havyāyaivāsannāya sarvā devatā janayati |",
+    "english": "In that he produces the fire after offering the beast, he brings forth all the gods for the offering which is made ready. The fire should be produced, after bringing up (the beast).",
+    "morphology": "agniḥ_agni_SNM sarvāḥ_sarva_PNF devatāḥ_devatā_PNF haviḥ_havis_SNNe etat_etad_SNNe yat_yad_SNNe paśuḥ_paśu_SNM iti_iti_ yat_yat_ paśum_paśu_SAM ālabhya_ālabh_Co agnim_agni_SAM manthati_math_SPr3In havyāya_havya_SDNe eva_eva_ āsannāya_"
+  },
+  {
+    "index": 41102,
+    "sanskrit": "kāṣṭhībhūtaṃ tu taṃ jñātvā śivaḥ pasparśa pāṇinā | mahātapaḥ samudbhūta saṃtāpāmṛtavarṣiṇā || 42 ||",
+    "english": "42. Realizing that he had become a log of wood as it were, Śiva touched him with his hands shedding nectar, dispelling the distress due to the great penance.",
+    "morphology": "kāṣṭhībhūtam_kāṣṭhībhū_SAPaM tu_tu_ tam_tad_SAM jñātvā_jñā_Co śivaḥ_śiva_SNM pasparśa_spṛś_SPs3In pāṇinā_pāṇi_SIM  / mahā_mahat_Cp tapaḥ_tapas_SNNe"
+  },
+  {
+    "index": 41103,
+    "sanskrit": "uttamam yatnam āsthāya pratyehi bharata ṛṣabha",
+    "english": "Advance, O bull of Bharata's race, towards him with great speed.",
+    "morphology": "uttama_uttama_SAM"
+  }
+]

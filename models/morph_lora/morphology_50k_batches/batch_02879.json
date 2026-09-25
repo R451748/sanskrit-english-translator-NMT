@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23024,
+    "sanskrit": "pravṛddhaḥ sahasā pakṣī mahā kāyaḥ nabhaḥ gataḥ",
+    "english": "And soon after birth, that bird grew in size and increasing his body ascended the skies.",
+    "morphology": "pravṛddhaḥ_pravṛdh_SNPaPsM sahasā_sahasā_U pakṣī_pakṣin_SNM"
+  },
+  {
+    "index": 23025,
+    "sanskrit": "caturdaśasahasrāṇi vāyavīyaṃ haripriyaṃ //",
+    "english": "The Vāyavīya purāṇa that contains fourteen thousand verses is dear to Lord Hari Viṣṇu.",
+    "morphology": "caturdaśa_caturdaśan_Cp sahasrāṇi_sahasra_PNNe vāyavīyaḥ_vāyavīya_SNM haripriyaḥ_haripriya_SNM  /"
+  },
+  {
+    "index": 23026,
+    "sanskrit": "sa tām saṃdṛśya duṣṭa ātmā prāha sarvān sabhāsadaḥ indrasya mahiṣī devī kasmāt mām na upatiṣṭhati aham indraḥ asmi devānām lokānām ca tathā īśvaraḥ",
+    "english": "And that vicious soul, having looked at her, said to the courtiers, 'Why doth not this goddess, the queen of Indra, attend upon me? I am the monarch of the gods, and also the ruler of the worlds.",
+    "morphology": "sa_tad_SNM tām_tad_SAF saṃdṛśya_saṃdṛś_Co duṣṭa_duṣ_PaPsCp ātmā_ātman_SNM prāha_prāh_SPs3In sarvān_sarva_PAM sabhāsadaḥ_sabhāsad_PAM indrasya_indra_SGM mahiṣī_mahiṣī_SNF devī_devī_SNF kasmāt_kasmāt_U mām_mad_SA na_na_U"
+  },
+  {
+    "index": 23027,
+    "sanskrit": "viṣayā viṣavaiṣamyā vāmāḥ kāmavimohadāḥ / rasāḥ sarasavairasyā luṭhanneṣu na ko hataḥ //",
+    "english": "The sensibles are causes of our insensibility as poison, and women are deluders of men and provokers of their passions; all sweets are but gall, and all pleasures are only a sort of pleasing pain.",
+    "morphology": "viṣayāḥ_viṣaya_PNM viṣa_viṣa_Cp vaiṣamyāḥ_vaiṣamya_PNM vāmāḥ_vāma_PNM kāma_kāma_Cp vimoha_vimoha_Cp dāḥ_da_PNM  / rasāḥ_rasa_PNM sa_sa_ rasa_rasa_Cp vairasyāḥ_vairasya_PNM luṭhan_luṭh_SNPaPrM eṣu_idam_PLM na_na_ ka"
+  },
+  {
+    "index": 23028,
+    "sanskrit": "samābhāṣya prahartavyam na viśvaste na vihvale",
+    "english": "No one should strike another that is unprepared[8] or panic-struck.",
+    "morphology": "samābhāṣya_samābhāṣ_Co"
+  },
+  {
+    "index": 23029,
+    "sanskrit": "dhūmāgnyos tu kāryakāraṇayor bhedāt yuktaṃ vaktum dhūmasyāgnau pratibandhaḥ na tv agner dhūme /",
+    "english": "But fire, being the cause of smoke, it is reasonable to hold that smoke is the invariable concomitant of fire but not vice-versa, since smoke is different from fire.",
+    "morphology": "dhūma_dhūma_Cp agnyoḥ_agni_DuGM tu_tu_ kārya_kārya_Cp kāraṇayoḥ_kāraṇa_DuGNe bhedāt_bheda_SBM yuktam_yuj_SNPaNe vaktum_vac_In dhūmasya_dhūma_SGM agnau_agni_SLM pratibandhaḥ_pratibandha_SNM"
+  },
+  {
+    "index": 23030,
+    "sanskrit": "kṛtā dattam bhavet tena śrutam yena etat uttamam",
+    "english": "\"During the Mahaprasthanika, similar presents should be made, possessed of every quality of an agreeable kind.",
+    "morphology": "kṛtā_kṛtā_U dattam_dā_SNPaPsNe bhavāṇā_bhū_SPr3O"
+  },
+  {
+    "index": 23031,
+    "sanskrit": "tāsāṃ hiraṇyadhānyakṣayaḥ sarvaupaghātī kṛcchrapratīkāraś ca,",
+    "english": "When the dwindling of the people is due to want of gold and grain, it is a calamity fraught with danger to the whole of the kingdom and can be remedied with difficulty",
+    "morphology": "tāsām_tad_PGF hiraṇya_hiraṇya_Cp dhānya_dhānya_Cp kṣayaḥ_kṣaya_SNM sarva_sarva_Cp aupaghātī_aupaghātin_SNM kṛcchra_kṛcchra_Cp pratīkāraḥ_pratīkāra_SNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4776,
+    "sanskrit": "pāna abhyañjana nasyeṣu vasti karmaṇi secane",
+    "english": "It is an excellent medicated oil and used as a potion for anointing, and as an errhine, Vasti-karma and washes, it speedily brings about the union of fractured bones.",
+    "morphology": "pāna_pāna_NeCp"
+  },
+  {
+    "index": 4777,
+    "sanskrit": "vṛndovāca | muninātha dayāsindho parapīḍānivāraka | rakṣitāhaṃ tvayā ghorādbhayādasmātkha lodbhavāt ||",
+    "english": "18. “O leader of sages, O ocean of mercy, O remover of harassment from others, I have been saved by you from this terrible danger from the wicked demons.",
+    "morphology": "vṛndā_vṛndā_SNF uvāca_vac_SPs3In  / muni_muni_Cp nātha_nātha_SVM dayā_dayā_Cp sindho_sindhu_SVM para_para_Cp pīḍā_pīḍā_Cp nivāraka_nivāraka_SVM  /"
+  },
+  {
+    "index": 4778,
+    "sanskrit": "nagarārṇavaśailādyāstadicchānuvidhāyinaḥ | na svayaṃ sadasanto no kāraṇākāraṇātmakā |",
+    "english": "Towns, oceans, mountains, etc. are the follow-ups of the principle of wish of the Supreme Lord being in themselves neither real nor unreal, neither cause nor effect.",
+    "morphology": "__nagara_U __arṇava_U __śaila_U __ādya_U __tad_U __icchā_U __anuvidhāyin_U __U __paU __tad_U __tad_U __tad_U __tad_U __tad_U __tad_U"
+  },
+  {
+    "index": 4779,
+    "sanskrit": "ekaṃ manaḥśarīraṃ tu kṣiprakāri sadā calam / akiṃcitkaramanyattu śarīraṃ māṃsanirmitam //",
+    "english": "The one, that is the mental body, is ever active and always fickle;and the other is the worthless body of flesh, which is dull and inactive.",
+    "morphology": "ekam_eka_SNNe manaḥ_manas_Cp śarīram_śarīra_SNNe tu_tu_ kṣiprakāri_kṣiprakārin_SNNe sadā_sadā_ calam_cala_SNNe  / akiṇḍa_akiṇḍa_SNNe kāḥ_kāḥ_"
+  },
+  {
+    "index": 4780,
+    "sanskrit": "sarvathā śivarūpo hi rudro raudraparākramaḥ | utpanno bhaktakāryārthaṃ haribrahmasahāyakṛt ||",
+    "english": "12. Rudra of terrible exploits has the form of Śiva in every respect. He was born for carrying out the tasks of the devotees. He helps Viṣṇu and Brahmā.",
+    "morphology": "sarvathā_sarvathā_ śiva_śiva_Cp rūpaḥ_rūpa_SNM hi_hi_ rudraḥ_rudra_SNM raudra_raudra_Cp parākramaḥ_parākrama_SNM  / utpannaḥ_utpad_SNPaM"
+  },
+  {
+    "index": 4781,
+    "sanskrit": "atha bhettā kena samanvāgataḥ / sadavadyamṛṣāvādastena bhettā samanvitaḥ /",
+    "english": "But what does the schismatic possess?",
+    "morphology": "atha_atha_ bhettā_bhettṛ_SNM kena_ka_SIM samanvāgataḥ_samanvāgam_SNPaM  / sat_sat_Cp avadya_avadya_Cp mṛṣāvādaḥ_mṛṣāvāda_SNM"
+  },
+  {
+    "index": 4782,
+    "sanskrit": "atha maharṣirupāgatakautuko nijatapaḥphalameva tadāgamam | śivadayākalitaṃ paricintayannabhajadāśramamāśritavatsalaḥ || 73 ||",
+    "english": "The great sage thought that her arrival was the fruit of his own penance. It was coupled with the kindness of Śiva. With great eagerness he came into the hermitage. He who was fond of those who resorted to him, came to the hermitage, thinking about all these things.",
+    "morphology": "atha_atha_ mahā_mahat_Cp ṛṣiḥ_ṛṣi_SNM upāgata_upāgam_PaCp kautukaḥ_kautuka_SNM nija_nija_Cp tapaḥ_tapas_Cp phalam_phala_SANe eva_eva_ tadā_tadā_ agamam_gam_SPs1InTh  / śiva_śiva_Cp dayā_dayā_Cp kalitaiḥ_kalay_SVPaM paricintayan_par"
+  },
+  {
+    "index": 4783,
+    "sanskrit": "kṛṣṇam niyānam harayaḥ suparṇāḥ apaḥ vasānāḥ divam ud patanti / tam āvavṛtran sadanāt ṛtasya āt id ghṛtena pṛthivīm vi ūduḥ / apād eti prathamā padvatīnām kaḥ tat vām mitrāvaruṇā ciketa / garbhaḥ bhāram bharati ā cit asyāḥ ṛtam piparti anṛtam ni pāti /",
+    "english": "Sound are the skull-bones of thy head and thy heart's beat is regular. Thou, Sun, arising with thy beams hast chased away the head's disease, hast stilled the pain that racked the limbs. Afar let her depart: away we drive her whom, made with hands, all-beautiful, Skilled men prepare and fashion like a bride amid her nuptial train.",
+    "morphology": "kṛṣṇam_kṛṣṇa_SNNe niyānam_niyāna_SNNe harayaḥ_hari_PNM suparṇāḥ_suparṇa_PNM apaḥ_ap_PAF vasānāḥ_vas_PNPaPrM divam_div_SAM ud_ud_U patanti_pat_PPr3In  / tam_tad_SAM āvavṛtran_āvṛt_PPs3In sadanāt_sadana_SBNe ṛtasya_ṛta"
+  }
+]

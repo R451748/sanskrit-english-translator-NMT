@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9240,
+    "sanskrit": "bhavataḥ samyak eṣā hi buddhiḥ hiṃsā vivarjitā",
+    "english": "That understanding, which is freed from the desire of inflicting any kind of injury on others, is approved by us.",
+    "morphology": "bhavataḥ_bhavat_SGM samyak_samyak_U"
+  },
+  {
+    "index": 9241,
+    "sanskrit": "āvāṃ mantrayamāṇau hi yaḥ paśyedantikāgataḥ || 49 || mayā tyājyo bhavetkṣipramitthaṃ cakre sa saṃvidam || 51 ||",
+    "english": "51. He made the stipulation: “If anyone comes near us and sees us taking counsel together, he is to be punished by me immediately.”",
+    "morphology": "āvām_mad_DuA mantrayamāṇau_mantray_DuAPaPrM hi_hi_ yaḥ_yad_SNM paśyet_paś_SPr3O antika_antika_Cp āgataḥ_āgam_SNPaM  / mayā_mad_SI tyājyaḥ_tyaj_SNMGd bhavet_bhū_SPr3O kṣipram_kṣipram_ ittham_ittham_ cakre_kṛ_SPs3In sa_tad_SNM saṃvi"
+  },
+  {
+    "index": 9242,
+    "sanskrit": "ādityair no bhāratī vaṣṭu yajñaṃ sarasvatī saha rudrair na āvīt | iḍopahūtā vasubhiḥ sajoṣā yajñaṃ no devīr amṛteṣu dhatta |",
+    "english": "May Bharati with the Adityas love our sacrifice; Sarasvati with the Rudras hath holpen us, And Ida invoked with the Vasus in unison; Our sacrifice, O goddesses, place ye with the immortals.",
+    "morphology": "ādityaiḥ_āditya_PIM naḥ_mad_PG bhāratī_bhāratī_SNF vaṣṭu_vaś_SPr3Im yajñam_yajña_SAM sarasvatī_sarasvatī_SNF saha_saha_ rudraiḥ_rudra_PIM naḥ_mad_PA āvīt_av_SPs3InFis  / iḍā_iḍā_SNF upahūtā_upahvā_SNPaF vasubhiḥ_vasu_PIM"
+  },
+  {
+    "index": 9243,
+    "sanskrit": "preta lokam gate martye tat tat sarvam vibhāvasuḥ",
+    "english": "When a mortal goes into the region of the dead, the deity of the sun bears witness to all his acts.",
+    "morphology": "preta_preta_MCp lokam_loka_SAM gate_gam_SLPaPsM martye_martya_SLM tat_tad_SANe tat_tad_SANe sarvam_sarva_SANe"
+  },
+  {
+    "index": 9244,
+    "sanskrit": "ātma vṛddhi karīm nītim vidadhīta vicakṣaṇaḥ",
+    "english": "By exercising his own intelligence, he should settle what he is to do.",
+    "morphology": "ātma_ātman_MCp"
+  },
+  {
+    "index": 9245,
+    "sanskrit": "tasya vikramaṇāt eva devānām śrīḥ vyavardhata",
+    "english": "Through his prowess, the prosperity of the gods increased.",
+    "morphology": "tasya_tad_SGM vikramaṇāt_vikramaṇa_SBNe eva_eva_U devānām_deva_PGM śrīḥ_śrī_SNF"
+  },
+  {
+    "index": 9246,
+    "sanskrit": "paritoṣya sapatnīkānhaste dattvā ca modakān | ā sīmāṃtamanuvrajya bhuṃjīta saha baṃdhubhiḥ || 59 ||",
+    "english": "He should thus make the Brāhmaṇas with their wives well-satisfied, offer sweetmeats in their hands and follow them till the limit (of the village etc.). Thereafter, he should take food himself along with his kinsmen.",
+    "morphology": "paritoṣya_paritoṣay_Co sa_sa_ patnīkān_patnīka_PAM haste_hasta_SLM dattvā_dā_Co ca_ca_ modakān_modaka_PAM  / sīmāṃtam_sīmanta_SAM anuvrajya_anuvraj_Co bhuṃjīta_bhuj_SPr3O saha_saha_ bandhubhiḥ_bandhu_PIM"
+  },
+  {
+    "index": 9247,
+    "sanskrit": "upadraṣṭā anumantā ca bhartā bhoktā maheśvaraḥ paramātmā iti ca api uktaḥ dehe asmin puruṣaḥ paraḥ yaḥ evam vetti puruṣam prakṛtim ca guṇaiḥ saha",
+    "english": "The cause of its births in good or evil wombs is (its) connection with the qualities.[267] The Supreme Purusha in this body is said to be surveyor, approver, supporter, enjoyer, the mighty lord, and also the Supreme Soul.[268] He who thus knows Spirit, and Nature, with the qualities, in whatever state he may be, is never born again.",
+    "morphology": "upadraṣṭā_upadraṣṭṛ_SNM anumantā_anumantṛ_SNM ca_ca_U bhartā_bhartṛ_SNM bhoktā_bhoktṛ_SNM maheśvaraḥ_maheśvara_SNM paramātmā_paramātman_SNM iti_iti_U ca_ca_U api_api_U uktaḥ_vac_SNPaPsM dehe_deha_SLM asmin_idam_SLM puruṣaḥ_"
+  }
+]

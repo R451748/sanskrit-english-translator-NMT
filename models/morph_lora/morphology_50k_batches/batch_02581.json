@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20640,
+    "sanskrit": "tūṣṇīm eva abhavat tatra na ca pratyuktavān nṛpam",
+    "english": "He remained perfectly silent, without uttering a single word in answer.",
+    "morphology": "tūṣṇīm_tūṣṇīm_U eva_eva_U abhavat_bhū_SPs3In tatra_tatra_U na_na_U ca_ca_U pratyuktavān_prativac_SNPaPsM nṛpam_nṛpa_SAM"
+  },
+  {
+    "index": 20641,
+    "sanskrit": "mano'ntaścalati vyarthaṃ mananaiṣaṇamuhyayā / bahirgirisaridvyomasamudrapuralīlayā //",
+    "english": "The mind is restless of its own nature, with all its vain thoughts and desires within itself; but the man is carried abroad as by its current; over hills and deserts and across rivers and seas, to far and remote cities and countries.",
+    "morphology": "manaḥ_manas_SNNe antar_antar_ calati_cal_SPr3In vyartham_vyartha_SNNe manana_manana_Cp eṣaṇam_eṣaṇa_SNNe uhyayā_uhya_SIF  / bahis_bahis_ giri_giri_Cp sarit_sarit_Cp vyoma_vyoman_Cp samudra_samudra_Cp pura_pura_Cp līlayā_līlā_SIF  /"
+  },
+  {
+    "index": 20642,
+    "sanskrit": "evaṃvidhopāsakasya mallokagatimeva ca | matto vijñānamāsādya matsāyujyaphalaṃ priye ||",
+    "english": "70. O beloved, he who performs the rite of this type attains my world. After securing the knowledge of my principles he will attain Sāyujya salvation as the fruit.",
+    "morphology": "evaṃvidha_evaṃvidha_Cp upāsakasya_upāsaka_SGM mad_mad_Cp loka_loka_Cp gatim_gati_SAF eva_eva_ ca_ca_  / mattaḥ_mad_SBM vijñānam_vijñāna_SANe āsādya_āsāday_Co mad_mad_Cp sāyujya_sāyujya_Cp phalam_phala_SANe priye_priya_SVF  /"
+  },
+  {
+    "index": 20643,
+    "sanskrit": "svarga lokam avāpnoti brahma lokam ca gacchati",
+    "english": "Sojourning thither, one obtaineth the merit of the Agnishtoma sacrifice and goeth to the abode of Brahma.",
+    "morphology": "svarga_svarga_MCp lokam_loka_SAM avāpnoti_avāp_SPr3In brahma_brahman_MCp lokam_loka_SAM ca_ca_U gacchati_gam_SPr3In"
+  },
+  {
+    "index": 20644,
+    "sanskrit": "akhaṇḍacittā śailādisattā nidrā ca bhūruhām / dvaitopalambhamuktatvātkhamevaikamato jagat //",
+    "english": "The solid state of mountains and the sleepy nature of the vegetable creation, being devoid of the knowledge of a dualism (other than their own natures) have no sense of the existence of the world, except that of a non-entity or mere vacuity.",
+    "morphology": "akhaṇḍa_akhaṇḍa_Cp cittā_citta_SNF śaila_śaila_Cp ādi_ādi_Cp sattā_sattā_SNF nidrā_nidrā_SNF ca_ca_ bhūruhām_bhūruh_PGM  / dvaita_dvaita_Cp upalambha_upalambha_Cp mukta_muc_PaCp tvāt_tva_SBNe kham_kha_SNNe eva_eva_ ekam_eka_SNNe atas_a"
+  },
+  {
+    "index": 20645,
+    "sanskrit": "vacanena hi nityena yaḥ paśyati sa paśyati //",
+    "english": "This is what is shown in the following: [see verses 2372-2373 above]",
+    "morphology": "vacanena_vacana_SINe hi_hi_ nityena_nitya_SINe yaḥ_yad_SNM paśyati_paś_SPr3In sa_tad_SNM paśyati_paś_SPr3In  /"
+  },
+  {
+    "index": 20646,
+    "sanskrit": "kim tu sauhṛdam eva etat kṛpayā madhusūdana",
+    "english": "It is only for the sake of compassion, O slayer of Madhu, that I am for displaying goodwill to the foe.",
+    "morphology": "kim_ka_SNNe tu_tu_U sauhṛdam_sauhṛda_SNNe eva_eva_U etat_etad_SNNe kṛpayā_kṛpā_SIF ā_ā_U"
+  },
+  {
+    "index": 20647,
+    "sanskrit": "etatpañcaviṃśatitattvasādhakatvena pramāṇatrayamabhimatam|",
+    "english": "Three kinds of proof are accepted as establishing these twenty-five principles; and thus the Kārikā (§ 4).",
+    "morphology": "__etad_U __pañcaviṃśati_U __tattva_U __sādhaka_U __tva_U __pramāṇa_U __traya_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1392,
+    "sanskrit": "eṣaḥ devaḥ vipā kr̥taḥ ati hvarāṁsi dhāvati pavamānaḥ adābhyaḥ",
+    "english": "This God, made ready with the hymn, runs swiftly through the winding ways, Inviolable as he flows.",
+    "morphology": "eṣaḥ_etad_SNM devaḥ_deva_SNM vipā_vip_SIF kr̥taḥ_kṛ_SNPaPsM ati_ati_U hvarāṁ_hvṛ_SPr2Su dhāvati_dhāv_SPr3In pavamānaḥ_pū_SNPaPrM adābhyaḥ_adābhya_SNM"
+  },
+  {
+    "index": 1393,
+    "sanskrit": "tulasīkāṣṭhasaṃbhūtaṃ śirasaḥ kāṣṭhabhūṣaṇam | bāhau kare ca martyasya dehe yasya sa me priyaḥ || 10 ||",
+    "english": "10. He in whose body Tulasī twigs form ornaments for the head, arms and hands, is dear to me.",
+    "morphology": "tulasī_tulasī_Cp kāṣṭha_kāṣṭha_Cp saṃbhūtam_sambhū_SAPaM śirasaḥ_śiras_SGNe kāṣṭha_kāṣṭha_Cp bhūṣaṇam_bhūṣaṇa_SAM  / bāhau_bāhu_SLM kare_kara_SLM ca_ca_ martyasya_martya_SGM dehe_deha_SLM yasya_yad_SGM sa_tad_SNM m"
+  },
+  {
+    "index": 1394,
+    "sanskrit": "avivekyādiḥ siddhastraiguṇyāttadviparyayābhāvāt /",
+    "english": "This is answered The qualities of nondiscriminatedness and the rest of the characteristics of the Manifest are proved to exist in the Manifest by the possession of the three Attributes and by the absence of its i.e. of the Manifest reverse.",
+    "morphology": "aviveki_avivekin_Cp ādiḥ_ādi_SNM siddhaḥ_siddha_SNM traiguṇyāt_traiguṇya_SBNe tad_tad_Cp viparyaya_viparyaya_Cp abhāvāt_abhāva_SBM  /"
+  },
+  {
+    "index": 1395,
+    "sanskrit": "kanyāyā dūṣaṇaṃ caiva vārdhuṣyaṃ vratalopanam /",
+    "english": "Defiling a maiden, usury, breaking of a vow, selling a tank, a garden, one\" s wife or a child.",
+    "morphology": "kanyāyāḥ_kanyā_SGF dūṣaṇam_dūṣaṇa_SANe ca_ca_ eva_eva_ vārddhuṣyam_vārddhuṣya_SANe vrata_vrata_Cp lopanam_lopana_SANe  /"
+  },
+  {
+    "index": 1396,
+    "sanskrit": "variṣṭhāya vareṇyāya sarvasmai paramātmane | namo'khilajagadvyāpirūpāyānaṃtamūrttaye || 154 ||",
+    "english": "154. Obeisance to the most excellent one, Obeisance to one who is to be considered the most excellent one. Obeisance to the Supreme Ātman identical with all. Obeisance to one whose form pervades the entire universe. Obeisance to one of endless forms.",
+    "morphology": "variṣṭhāya_variṣṭha_SDM vareṇyāya_vareṇya_SDM sarvasmai_sarva_SDM paramātmane_paramātman_SDM  / namaḥ_namas_SNNe akhila_akhila_Cp jagat_jagant_Cp vyāpi_vyāpin_Cp rūpāya_rūpa_SDM ananta_ananta_Cp mūrttaye_mūrti_SDM  /"
+  },
+  {
+    "index": 1397,
+    "sanskrit": "ekatvenāpi saṃvadhya tāvatyeva kriyā yadi / tato niṣphalatodhyeta bhedastvastye ka saṃskṛteḥ",
+    "english": "To this argument, we offer the following reply Even when con nected with Singleness, if the Action were of the same extent as when not connected with it, then alone could it be rejected as useless as a matter of fact, however, we find that the connection of Singleness makes a great difference in the Action such difference lying in the fact that the Action of washing is done to one Vessel only otherwise if it were not connected with Singleness every one of the Vessels would have had to be washed.",
+    "morphology": "eka_eka_Cp tvena_tva_SINe api_api_ saṃvadhya_saṃvadh_Co tāvatī_tāvat_SNF eva_eva_ kriyā_kriyā_SNF yadi_yadi_  / tatas_tatas_ bhedaḥ_bheda_SNM tu_tu_ asti_as_SPr3In e_e_ ka_ka_Cp saṃskṛteḥ_saṃskṛti_SGF"
+  },
+  {
+    "index": 1398,
+    "sanskrit": "tadvidaḥ kṣetrajotpattividhijñāḥ /",
+    "english": "\"Learned in the subject\" persons versed in the laws relating to the begetting of \"Kṣetraja\" sons.",
+    "morphology": "tad_tad_Cp vidaḥ_vid_PNM kṣetraja_kṣetraja_Cp utpatti_utpatti_Cp vidhi_vidhi_Cp jñāḥ_jña_PNM  /"
+  },
+  {
+    "index": 1399,
+    "sanskrit": "idam tṛtīyam bhrātṝṇām arthe yat sthātum icchasi",
+    "english": "This has been thy third test; thou hast expressed thy wish to stay at Hell for the sake of thy brothers.",
+    "morphology": "idam_idam_SNNe tṛtīyam_tṛtīya_SNNe bhrātṝṇām_bhrātṛ_PGM arthe_artha_SLM yat_yad_SANe sthātum_sthā_In"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42464,
+    "sanskrit": "sneha vastiḥ vidheyaḥ tu na aviśuddhasya dehinaḥ",
+    "english": "A Snehavasti (emulsive or oleaginous enema) should not be applied to a person whose organism has not been previously cleansed (by an appropriate emetic and purgative).",
+    "morphology": "sneha_sneha_MCp vastiḥ_vasti_SNM vidheyaḥ_vidhā_SNMGd tu_tu_U na_na_U aviśuddhasya_aviśuddha_SGM dehinaḥ_dehin_SGM"
+  },
+  {
+    "index": 42465,
+    "sanskrit": "trayastriṃśat tantavo ye vitatnire ya imaṃ yajñaṃ svadhayā dadante teṣāṃ chinnam praty etad dadhāmi svāhā gharmo devāṃ apy etu |",
+    "english": "The three and thirty threads that stretch, That maintain in security the sacrifice, Of these the broken one I restore; hail! Let the cauldron go to the gods.",
+    "morphology": "trayastriṃśat_trayastriṃśat_SNF tantavaḥ_tantu_PNM ye_yad_PNM vitatnire_vitan_PPs3In ye_yad_PNM imam_idam_SAM yajñam_yajña_SAM svadhayā_svadhā_SIF dadante_dā_PPr3In teṣām_tad_PGM chinnam_chid_SAPaNe prati_prati_ etat_etad_SANe dadhāmi_dhā"
+  },
+  {
+    "index": 42466,
+    "sanskrit": "saṃdhāya ca śitam bāṇam kālāgni sama tejasam mumoca parama kruddhaḥ tasmin ghore niśācare",
+    "english": "Filled with wrath and aiming a sharp arrow that resembled the Yuga fire in energy, he sped it at that fierce wanderer of the night.",
+    "morphology": "saṃdhāya_saṃdhā_Co ca_ca_U śitam_śā_SAPaPsM bāṇam_bāṇa_SAM kālāgni_kālāgni_MCp sama_sama_Cp tejasam_tejas_SAM mumoca_muc_SPs3In parama_parama_Cp kruddhaḥ_krudh_SNPaPsM"
+  },
+  {
+    "index": 42467,
+    "sanskrit": "manasā abhivṛtaḥ pūrvam mayā tvam pārthiva ṛṣabha",
+    "english": "See that I do not fall off from righteousness! In my heart, I have chosen thee for my lord, O bull among kings.",
+    "morphology": "manasā_manas_SINe abhivṛtaḥ_abhivṛ_SNPaPsM pūrvīṇā_pūrvam_U"
+  },
+  {
+    "index": 42468,
+    "sanskrit": "nīlasya rājñaḥ duhitā babhūva atīva śobhanā",
+    "english": "King Nila had a daughter who was exceedingly beautiful.",
+    "morphology": "nīlasya_nīla_SGM rājñaḥ_rājan_SGM duhitā_duhitṛ_SNF"
+  },
+  {
+    "index": 42469,
+    "sanskrit": "dravya artha sparśa saṃyoge yā prītiḥ upajāyate",
+    "english": "The joy that one feeleth in consequence of contact with objects of touch or of possession of wealth, is what is called pleasure.",
+    "morphology": "dravya_dravya_NeCp"
+  },
+  {
+    "index": 42470,
+    "sanskrit": "śrī uddhava uvāca gatvā purīm tava param viraham nivedyā thārgham vidhāya nija netra jalena rādhenītvā harim tava puraḥ punar āgato 'smi mā śokam adya kuru me śapathas tvad aìghreḥ",
+    "english": "Śrī Uddhava said: I will go to Mathura' City, describe to Him how You feel in His absence, offer Him arghya with the tears from my eyes, and then, O Rādhā, I will bring Kṛṣṇa to You. Please don't lament. I place this promise at Your feet.",
+    "morphology": "śrī_śrī_FCp uddhava_uddhava_SNM uvāca_vac_SPs3In gatvā_gam_Co purīm_purī_SAF tava_tvad_SG param_para_SAM viraham_viraha_SAM nivedyā_niveday_Co thārgham_thārgha_SAM vidhāya_vidhā_Co nija_nija_Cp netra_netra_MCp jalena_jala_SINe harim_hari_SAM t"
+  },
+  {
+    "index": 42471,
+    "sanskrit": "etan na prāyaścittanirdeśārtham, kiṃ tarhi gurutvakhyāpanaparam / ataś ca gurutaraṃ prāyaścittaṃ bhavati /",
+    "english": "What is said here is not for the purpose of indicating what the exact expiatory rite in the case should be, but with a view to indicate the expiation also should be heavy.",
+    "morphology": "etat_etad_SNNe na_na_ prāyaścitta_prāyaścitta_Cp nirdeśa_nirdeśa_Cp artham_artha_SNNe kim_ka_SNNe tarhi_tarhi_ guru_guru_Cp tva_tva_Cp khyāpana_khyāpana_Cp param_para_SNNe  / atas_atas_ ca_ca_ gurutaram_gurutara_SNNe prāyaścittam_prāyaścitta_SN"
+  }
+]

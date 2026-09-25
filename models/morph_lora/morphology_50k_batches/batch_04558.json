@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36456,
+    "sanskrit": "anādi madhya paryantam jñāna aiśvaryam acintitam ātmānam paramam yasmāt varam tasmāt vṛṇīmahe",
+    "english": "I solicit boons from Him who is without beginning and middle and end, who is Knowledge and Puissance, who is inconceivable and who is the Supreme Soul.",
+    "morphology": "anādi_anādi_Cp madhya_madhya_NeCp paryantam_paryanta_SAM jñāna_jñāna_NeCp aiśvaryam_aiśvarya_SAM acintitam_acintita_SAM ātmānam_ātman_SAM paramam_parama_SAM"
+  },
+  {
+    "index": 36457,
+    "sanskrit": "ṛṣaya ūcuḥ | śrutāni mukhyatīrthāni tatkṣetraprodbhavāni ca | yeṣu snāto naraḥ smyaksarva tīrthaphalaṃ labhet || 1 ||",
+    "english": "The sages said: 1-2. Important holy places have been heard (described) and so also the origins of those shrines. It was made clear that a man who takes his holy bath there scrupulously obtains the benefit of all the Tīrthas.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / śrutāni_śru_PNPaNe mukhya_mukhya_Cp tīrthāni_tīrtha_PNNe tad_tad_Cp kṣetra_kṣetra_Cp prodbhavāni_prodbhava_PNNe ca_ca_  / yeṣu_yad_PLNe snātaḥ_snā_SNPaM naraḥ_nara_SNM tīrtha_tīrtha_Cp pha"
+  },
+  {
+    "index": 36458,
+    "sanskrit": "yathā snātakavratāni / yamadharmāḥ pratiṣedharūpāḥ ahiṃsādayaḥ /",
+    "english": "Restraintsare negative in their character, such as desisting from, killing and so forth.",
+    "morphology": "yathā_yathā_ snātaka_snātaka_Cp vratāni_vrata_PNNe  / yama_yama_Cp dharmāḥ_dharma_PNM pratiṣedha_pratiṣedha_Cp rūpāḥ_rūpa_PNM ahiṃsā_ahiṃsā_Cp ādayaḥ_PNM  /"
+  },
+  {
+    "index": 36459,
+    "sanskrit": "tataḥ śaṃbhuḥ prasannobhū'ttasyai nadyai śubhātmane | varaṃ vṛṇīṣva subhage yattubhyaṃ rocate'naghe || 17 ||",
+    "english": "17. Thereupon Śaṃbhu became pleased with that splendid-souled river end said: “O blessed one, O sinless one, choose whatever boon appeals to you.”",
+    "morphology": "tatas_tatas_ śaṃbhuḥ_śambhu_SNM nadyai_nadī_SDF śubha_śubha_Cp ātmane_ātman_SDF  / varam_vara_SAM vṛṇīṣva_vṛ_SPr2Im subhage_subhaga_SVF"
+  },
+  {
+    "index": 36460,
+    "sanskrit": "samarpitāḥ kāma-guṇeṣu pañcasu,",
+    "english": "endowed with the five strands of pleasure,",
+    "morphology": "samarpitāḥ_samarpay_PNPaPsM"
+  },
+  {
+    "index": 36461,
+    "sanskrit": "prajāpatikṛtaṃ setuṃ ko bhittvā svastimān vrajet //",
+    "english": "Disregarding the orders instituted by Prajapati who can be at ease?.",
+    "morphology": "prajāpati_prajāpati_Cp kṛtam_kṛ_SAPaM setum_setu_SAM kaḥ_ka_SNM bhittvā_bhid_Co"
+  },
+  {
+    "index": 36462,
+    "sanskrit": "athāpi syāt pratiniyata{nā}ameva puṃsāṃ śrutiyogo saṃskṛtau śrotravarṇau tena sarvair na śrūyata iti / evaṃ tarhi ye anyeṣāṃ varṇānāṃ pratipatās teṣāṃ śabdaśravaṇaṃ na prāpnoti /",
+    "english": "If the embellished organ and letter-sounds were capable of hearing by a few limited persons, then there would be no hearing for other persons who would be going to hear the same letter-sounds. The following might be urged “It is of only a few limited number of persons whose Organ and Letter-Sounds would be embellished and fit for audition, and hence the Sound could not be heard by all men”. But in that case, there would be no hearing by those men who were going to hear other Letter-Sounds.",
+    "morphology": "atha_atha_ api_api_ syāt_as_SPr3O pratiniyata_pratiniyam_PaCp nām_nāman_SNNe eva_eva_ puṃsām_puṃs_PGM saṃskṛtau_saṃskṛti_SLF śrotra_śrotra_Cp varṇau_varṇa_DuNM tena_tena_ sarvaiḥ_sarva_PIM na_na_ śrūyate_śru_SPr3InPv iti_iti_  / "
+  },
+  {
+    "index": 36463,
+    "sanskrit": "cakraṃ vibhīṣaṇaṃ martye jvālāmālāsamanvitam | patitaṃ narmadātoye jalaśāyisamīpataḥ || 69 ||",
+    "english": "The terrific Cakra (discus) with the garlands of flames and sparks fell into the waters of Narmadā in the mortal world very near Jalaśāyin.",
+    "morphology": "cakram_cakra_SNNe vibhīṣaṇam_vibhīṣaṇa_SNNe martye_martya_SLM jvālā_jvālā_Cp mālā_mālā_Cp samanvitam_samanvita_SNNe  / patitam_pat_SNPaNe narmadā_narmadā_Cp toye_toya_SLNe jalaśāyi_jalaśāyin_Cp samīpatas_samīpatas_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17160,
+    "sanskrit": "aurvabhārgavagotrāṇāṃ pañcaviṃśadudāhṛtāḥ | gautamānāṃ ca ṣaḍviṃśamālūbhāyanaviṃśatiḥ || 14 ||",
+    "english": "14. The families of Aurvas and of Bhārgavas were cited as twenty-five; those of Gautamas twenty-six and those of Ālūbhāyanas (v.l. Ālūtāyana) were twenty.",
+    "morphology": "aurva_aurva_Cp bhārgava_bhārgava_Cp gotrāṇām_gotra_PGM pañcaviṃśatī_pañcaviṃśat_SNF udāhṛtāḥ_udāhṛ_PNPaF  / gautamānām_gautama_PGM ca_ca_ ṣaḍviṃśa_ṣaḍviṃśa_Cp mālūbhāyana_mālūbhāyana_Cp viṃśatiḥ_viṃśati"
+  },
+  {
+    "index": 17161,
+    "sanskrit": "samudraphenakas tailayuktoambhasi plavamāno jvalati //",
+    "english": "Kautilyas Arthashastra Seafoam wetted with oil and ignited keeps burning when floating on water",
+    "morphology": "samudraphenakaḥ_samudraphenaka_SNM plavamānaḥ_plu_SNPaPrM jvalati_jval_SPr3In  /"
+  },
+  {
+    "index": 17162,
+    "sanskrit": "ekaḥ sūryaḥ tapasām yoniḥ ekā",
+    "english": "The Sun is one and single, but his rays extend over the wide universe.",
+    "morphology": "ekaḥ_eka_SNM"
+  },
+  {
+    "index": 17163,
+    "sanskrit": "śrutvā mama vaco devī hyevamastviti sābravīt | suyaśāṃ tāñca suprītyā nandipriyatamāṃ śivām ||",
+    "english": "56. On hearing my words the goddess said “Let it be so.” With great pleasure Śivā spoke to Suyaśā, the beloved wife of Nandin.",
+    "morphology": "śrutvā_śru_Co mama_mad_SG vacaḥ_vacas_SANe devī_devī_SNF hi_hi_ evam_evam_ astu_as_SPr3Im iti_iti_ sā_tad_SNF bravīt_brū_S3ImIn  / suyaśām_suyaśā_SAF tān_tad_PAM ca_ca_ su_su_ prītyā_prīti_SIF nandi_nandin_Cp priyatamām_priyatama_SAF śi"
+  },
+  {
+    "index": 17164,
+    "sanskrit": "tathā cāyam arthaḥ / trīn aṃśān putra ādadīta caturthaṃ kanyeti /",
+    "english": "The upshot therefore comes to be thisThree parts of the property shall be taken by the sons and the fourth part by the daughter.",
+    "morphology": "tathā_tathā_ ca_ca_ ayam_idam_SNM arthaḥ_artha_SNM  / trīn_tri_PAM aṃśān_aṃśa_PAM putraḥ_putra_SNM ādadīta_ādā_SPr3O caturtham_caturtha_SAM kanyā_kanyā_SNF iti_iti_  /"
+  },
+  {
+    "index": 17165,
+    "sanskrit": "sa tathā bhidyamāneṣu kārmukeṣu punar punar hayeṣu vinikṛtteṣu vimukhaḥ abhavat āhave sa satyajitam ālokya tathā vimukham āhave",
+    "english": "Then Satyajit, finding his bows repeatedly cut in twain and his horses slain, desisted from the fight.",
+    "morphology": "sa_tad_SNM tathā_tathā_U bhidyamāneṣu_bhid_PLPaPrNePv kārmukeṣu_kārmuka_PLNe punar_punar_U punar_punar_U hayeṣu_haya_PLM vinikṛtteṣu_vinikṛt_PLPaPsM vimukhaḥ_vimukha_SNM abhavat_bhū_SPs3In āhave_āhava_SLM sa_tad_SNM satyajitam_satyaji"
+  },
+  {
+    "index": 17166,
+    "sanskrit": "sa bhūmikāvānityuktaḥ śeṣaḥ svārtha iti smṛtaḥ / vicāranāmnīmitarāmāgato yogabhūmikām //",
+    "english": "Such a man is said to have come upon the (first) stage of yoga, or else he is a hypocrite who assumes the guise of a yogi for his own interest only. The yogi then comes to the next step of yoga, which is styled the stage of investigation—Vichara.",
+    "morphology": "sa_tad_SNM bhūmikāvān_bhūmikāvat_SNM iti_iti_ uktaḥ_vac_SNPaM śeṣaḥ_śeṣa_SNM svārthaḥ_svārtha_SNM iti_iti_ smṛtaḥ_smṛ_SNPaM  / vicāra_vicāra_Cp nāmnīm_nāman_SAF itarām_itara_SAF āgataḥ_āgam_SNPaM yoga_yoga_Cp bhūmikām_b"
+  },
+  {
+    "index": 17167,
+    "sanskrit": "pra bhūḥ jayantam mahān vipaḥ dhām mūrāḥ amūram purām darmāṇam nayantaḥ garbham vanām dhiyam dhuḥ hiri śmaśrum na arvāṇam dhana arcam",
+    "english": "The foolish brought the ne'er-bewildered forward, great, Victor, Song-inspirer, Fort-destroyer. Leading the Youth gold-bearded, like a courser gleaming with wealth, they turned their hymn to profit.",
+    "morphology": "pra_pra_U bhūḥ_bhū_SNF jayantam_ji_SAPaPrM mahān_mahat_SNM vipaḥ_vip_PAF dhām_dhā_SPs1 mūrāḥ_mūra_PNM amūram_amūra_SAM purām_pur_PGF darmāṇam_darman_SAM nayantaḥ_nī_PNPaPrM garbham_garbha_SAM vanām_van_PGNe dhiyam_dhī_SAF dhuḥ_dh"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16464,
+    "sanskrit": "nivartasva mahā bāho kuruṣva vacanam mama",
+    "english": "Do what I say.",
+    "morphology": "nivartasva_nivṛt_SPr2Im"
+  },
+  {
+    "index": 16465,
+    "sanskrit": "lekhaparisaṃharaṇaartha itiśabdo vācikam asyaiti ca //",
+    "english": "and also to indicate an oral message as in the phrase „váchikamasyeti,‟ an oral message along with this writ",
+    "morphology": "lekha_lekha_Cp parisaṃharaṇa_parisaṃharaṇa_Cp arthaḥ_artha_SNM iti_iti_ śabdaḥ_śabda_SNM vācikam_vācika_SANe asya_idam_SGM eti_i_SPr3In ca_ca_"
+  },
+  {
+    "index": 16466,
+    "sanskrit": "vaiśyaś ca brāhmaṇāśauce gāyatryaṣṭaśataṃ japet //",
+    "english": "A Vaisya, who has eaten the food of a Brâhmana, while the latter was impure, must (go to a river and) mutter the Gâyatrî one hundred and eight times.",
+    "morphology": "vaiśyaḥ_vaiśya_SNM ca_ca_ brāhmaṇa_brāhmaṇa_Cp āśauce_āśauca_SLNe gāyatrī_gāyatrī_Cp aṣṭaśatam_aṣṭaśata_SANe japet_jap_SPr3O  /"
+  },
+  {
+    "index": 16467,
+    "sanskrit": "vaiśyocchiṣṭāśane pañcarātram //",
+    "english": "If he eats what has been left by a Vaisya, (he must subsist upon milk) for five days.",
+    "morphology": "vaiśya_vaiśya_Cp ucchiṣṭa_ucchiṣṭa_Cp aśane_aśana_SLNe pañca_pañcan_Cp rātram_rātra_SAM  /"
+  },
+  {
+    "index": 16468,
+    "sanskrit": "taduttare mune rudraśtuḥśṛṃgosti bhīṣaṇaḥ | tripādastu dviśīrṣā ca hastāḥ syuḥ sapta eva hi || 77 ||",
+    "english": "77. O Sage, to the north thereof is Rudra, the terrible one, with four horns (Vedas), three feet (the Savanas), two heads (the Prāyaṇīya, introductory rite, and Udayanīya, concluding rite). He has seven hands (the Vedic Metres).",
+    "morphology": "tad_tad_Cp uttare_uttara_SLNe mune_muni_SVM bhīṣaṇaḥ_bhīṣaṇa_SNM  / tri_tri_Cp pādaḥ_pāda_SNM tu_tu_ dvi_dvi_Cp śīrṣā_śīrṣan_SNM ca_ca_ hastāḥ_hasta_PNM syuḥ_as_PPr3O sapta_saptan_PNM eva_eva_ hi_hi_"
+  },
+  {
+    "index": 16469,
+    "sanskrit": "udapānam prapā vāpī taḍāgāni sarāṃsi ca // 11 // nānā vrata samācāraiḥ sevitāni dvijottamaiḥ / tatas avatīrya ramyāyām pṛthvyām rājan śatakratuḥ // 12 //",
+    "english": "And he also looked upon tanks and reservoirs and wells and lakes and smaller lakes all full of water and adored by best of Brahmanas in the observance, besides, of various excellent vows, and then descending on the delightful earth, O king, the god of a hundred sacrifices, proceeded towards a blessed asylum teeming with animals and birds, situated by the side of the sea, in the delightful and auspicious regions of the East on a spot overgrown with abundance of vegetation.",
+    "morphology": "udapānam_udapāna_SNNe prapā_prapā_SNF vāpī_vāpī_SNF taḍāgāni_taḍāga_PNNe sarāṃsi_saras_PNNe ca_ca_U  // 11  / nānā_nānā_U vrata_vrata_NeCp samācāraiḥ_samācāra_PIM sevitāni_sev_PNPaPsNe dvijottamaiḥ_dvijottama_PIM  / tatas_tat"
+  },
+  {
+    "index": 16470,
+    "sanskrit": "sanatkumāra āha nāmno vāva bhūyo 'styevetyukta āha yadyasti tanme bhagavānbravītviti //",
+    "english": "Sanatkumāra answered‘Certainly, there is something greater than Name’Being told this, Nārada said‘If there is, then please explain that to me, Revered Sir’",
+    "morphology": "sanatkumāraḥ_sanatkumāra_SNM āha_ah_SPs3In nāmnaḥ_nāman_SBNe vāva_vāva_ bhūyaḥ_bhūyas_SNNe asti_as_SPr3In eva_eva_ iti_iti_ uktaḥ_vac_SNPaM āha_ah_SPs3In yadi_yadi_ asti_as_SPr3In tat_tad_SANe me_mad_SD bhagavān_bhagavat_SNM bravītu_br"
+  },
+  {
+    "index": 16471,
+    "sanskrit": "amṛtam asi puṣṭir asi prajananam asi |",
+    "english": "Thou art ambrosia, thou art prospering, thou art begetting.",
+    "morphology": "amṛtam_amṛta_SNNe asi_as_SPr2In puṣṭiḥ_puṣṭi_SNF asi_as_SPr2In prajananam_prajanana_SNNe asi_as_SPr2In"
+  }
+]

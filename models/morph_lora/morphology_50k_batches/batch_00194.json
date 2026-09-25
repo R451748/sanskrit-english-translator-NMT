@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1544,
+    "sanskrit": "tad utāpy āhuḥ / sāmnainam upāgād iti sādhunainam upāgād ity eva tad āhuḥ /",
+    "english": "In this connection they declare thusWhen they say ‘he approached him with Sāma’ what they mean is that he approached him in a good manner’;",
+    "morphology": "tat_tad_SANe uta_uta_ api_api_ āhuḥ_ah_PPs3In  / sāmnā_sāman_SINe enam_enad_SAM upāgāt_upagā_SPs3In iti_iti_"
+  },
+  {
+    "index": 1545,
+    "sanskrit": "rāghava tvamivāśeṣāḥ sāntvānunayabodhanaiḥ / prārthitaḥ kāryate bhṛtyairmahīpo divasakriyāḥ //",
+    "english": "Rama, he became as distracted as you had been before; and discharged his daily rituals, at the humble request and repeated solicitations of his attending servants.",
+    "morphology": "rāghava_rāghava_SVM tvam_tvad_SN iva_iva_ aśeṣāḥ_aśeṣa_PNM sāntva_sāntva_Cp anunaya_anunaya_Cp bodhanaiḥ_bodhana_PINe  / prārthitaḥ_prārthay_SNPaM kāryate_kāray_SPr3InPv bhṛtyaiḥ_bhṛtya_PIM ḥḥ_ḥḥ_SNM ḥḥ_ḥ_SNM ḥḥ"
+  },
+  {
+    "index": 1546,
+    "sanskrit": "tat punaraṣṭacittānantaram /",
+    "english": "It follows seven: four minds of the same sphere, the two good minds and the two bliy« minds;",
+    "morphology": "tat_tad_SNNe punar_punar_ aṣṭa_aṣṭan_Cp citta_citta_Cp anantaram_"
+  },
+  {
+    "index": 1547,
+    "sanskrit": "tasyāścetyādinā śābdavyavahārākhyakāryaliṅgito 'pi siddhimāha /",
+    "english": "The Author shows again how the existence of the Conceptual Content is vouched for by Perception: [see verse 1217 above]",
+    "morphology": "tasyāḥ_tad_SGF ca_ca_ ityādinā_ityādi_SINe śābda_śābda_Cp vyavahāra_vyavahāra_Cp ākhya_ākhya_Cp kārya_kārya_Cp liṅgitaḥ_liṅgita_SNM api_api_ siddhim_siddhi_SAF"
+  },
+  {
+    "index": 1548,
+    "sanskrit": "yathāprāptasya kartāsmi na kartāsmi kadācana / svayameva hi yo vyoma kartṛtā tasya kīdṛśī //",
+    "english": "I did as my duty called, and did nothing of my own accord; and remained as void and blank as vacuum, which is devoid of all action and motion.",
+    "morphology": "yathā_yathā_ prāptasya_prāp_SGPaNe kartāsmi_kṛ_SFu1InPe na_na_ kartāsmi_kṛ_SFu1InPe kadācana_kadācana_  / svayam_svayam_ eva_eva_ hi_hi_ yaḥ_yad_SNM vyoma_vyoman_SNNe kartṛ_kartṛ_Cp tā_tā_SNF tasya_tad_SGM kīdṛśā_kīdṛśa_SNF  /"
+  },
+  {
+    "index": 1549,
+    "sanskrit": "teṣām āsīt mahān śabdaḥ tāḍitānām ca sārvaśas asibhiḥ chidyamānānām naḍānām iva bhārata",
+    "english": "Loud sounds arose from among them while they were being assailed by Bhima, like those that arise from among herd of elephants struck with large pieces of rocks.",
+    "morphology": "teṣām_tad_PGM āsīt_as_SPs3In mahān_mahat_SNM śabdaḥ_śabda_SNM tāḍitānām_tāḍay_PGPaPsM ca_ca_U sārvaśas_sārvaśas_U asibhiḥ_asi_PIM chidyamānānām_chid_PGPaPrMPv naḍānām_naḍa_PGM"
+  },
+  {
+    "index": 1550,
+    "sanskrit": "yuddha arthī vāśitā hetoḥ gajaḥ pratigajam yathā bhīmasenam yayau śalyaḥ madrāṇām īśvaraḥ balī",
+    "english": "And Salya the mighty king of Madra rushed against Bhima like an elephant rushing against another for the sake of a she-elephant in heat;",
+    "morphology": "yuddha_yuddha_NeCp arthī_arthin_SNM vāśitā_vāśitā_FCp hetoḥ_hetu_SBM gajaḥ_gaja_SNM pratigajam_pratigaja_SAM yathā_yathā_U bhīmasenam_bhīmasena_SAM yayau_yā_SPs3In"
+  },
+  {
+    "index": 1551,
+    "sanskrit": "na vegān dhārayet vāta mūtra purīṣa ādīnām na bahis vegān grāma nagara devatā āyatana śmaśāna catuṣpatha salilāśaya pathi sannikṛṣṭau utsṛjet na prakāśam na vāyu agni salila soma arka go guru pratimukham na bhūmim vilikhet |",
+    "english": "A man should never repress any natural urging of his body, nor should he pass water or evacuate excrements in an open or public place, within the confines of a town or village, close to a cremation ground or any place of worship, at the crossing of roads, in reservoirs of water or on the high road nor should he do so facing a fire, in the presence of his superiors, cows, the sun and the moon nor facing against the wind.",
+    "morphology": "na_na_U vegān_vega_PAM dhārayet_dhāray_SPr3O vāta_vāta_MCp mūtra_mūtra_NeCp purīṣa_purīṣa_NeCp ādīnām_ādi_PGM na_na_U bahis_bahis_U vegān_vega_PAM grāma_grāma_MCp nagara_nagara_NeCp devatā_devatā_FCp āyatana_āyatana_NeCp śmaśāna_"
+  }
+]

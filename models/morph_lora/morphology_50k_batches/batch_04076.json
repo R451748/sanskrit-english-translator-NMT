@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32600,
+    "sanskrit": "kuru pākaṃ śucirbhūtvā mādhavāya mahātmane | pradakṣiṇānamaskārairbhaktyā māghe mayā saha || 48 ||",
+    "english": "48. Cook food unto the noble-souled Mādhava, remaining pure (in mind as well as in body). In the month of Māgha perform circumambulation and obeisances along with me with great devotion.",
+    "morphology": "kuru_kṛ_SPr2Im pākam_pāka_SAM śuciḥ_śuci_SNM bhūtvā_bhū_Co mādhavāya_mādhava_SDM mahātmane_mahātman_SDM  / pradakṣiṇā_pradakṣiṇā_Cp namaskāraiḥ_namaskāra_PIM bhaktyā_bhakti_SIF māghe_māgha_SLM mayā_mad_SI saha_saha_  /"
+  },
+  {
+    "index": 32601,
+    "sanskrit": "tasya hetuphalakriyāṇāṃ samāropāpavādasyābhāvād asamāropānapavādo veditavyaḥ /",
+    "english": "The absence of imputation and negation should be understood as being due to the absence of that imputation and negation in regard to cause, result and efficacy.",
+    "morphology": "tasya_tad_SGM hetu_hetu_Cp phala_phala_Cp kriyāṇām_kriyā_PGF samāropa_samāropa_Cp apavādasya_apavāda_SGM abhāvāt_abhāva_SBM a_a_ samāropa_samāropa_Cp anapavādaḥ_anapavāda_SNM veditavyaḥ_vid_SNMGd  /"
+  },
+  {
+    "index": 32602,
+    "sanskrit": "etāḥ mayā dṛṣṭa pūrvāḥ sabhāḥ deveṣu pāṇḍava",
+    "english": "I have seen these Sabhas, O Bharata, in regions of the celestials.",
+    "morphology": "etāḥ_etad_PNF mayā_mad_SI dṛṣṭa_dṛś_PaPsCp pūrvāḥ_pūrva_PNF sabhāḥ_sabhā_PNF deveṣu_deva_PLM pāṇḍava_pāṇḍava_SVM"
+  },
+  {
+    "index": 32603,
+    "sanskrit": "tathā yadā sūryo 'stameti vāyumevāpyeti /",
+    "english": "Similarly, when the Sun sets, it goes into Air;",
+    "morphology": "tathā_tathā_ yadā_yadā_ sūryaḥ_sūrya_SNM astam_asta_SAM eti_i_SPr3In vāyum_vāyu_SAM eva_eva_ apyeti_apī_SPr3In  /"
+  },
+  {
+    "index": 32604,
+    "sanskrit": "īdṛśam eva sarvadā jagadityatra na kiñcit sādhakaṃ pramāṇam asti /",
+    "english": "It has been asserted (by Kumārila) under Texts 2275 and 3114 that “the world has never been known to be unlike what it is now and that no Universal Dissolution can be admitted”.",
+    "morphology": "īdṛśam_īdṛśa_SNNe eva_eva_ sarvadā_sarvadā_ jagat_jagant_SNNe iti_iti_ atra_atra_ na_na_ kiñcid_kaścit_SNNe sādhakam_sādhaka_SNNe pramāṇam_pramāṇa_SNNe asti_as_SPr3In  /"
+  },
+  {
+    "index": 32605,
+    "sanskrit": "pañcāśat yojanāni śākhāpatrapalāśaṃ skaritvā tiṣṭhati /",
+    "english": "with its branches, leaves and petals, it covets fifty yojanas.",
+    "morphology": "pañcāśat_pañcāśat_SNF yojanāni_yojana_PANe śākhā_śākhā_Cp patra_pattra_Cp palāśam_palāśa_SANe skaritvā_skṛ_Co tiṣṭhati_sthā_SPr3In  /"
+  },
+  {
+    "index": 32606,
+    "sanskrit": "tān tu sāntvena nirjitya mānasam saraḥ uttamam ṛṣi kulyāḥ ca tāḥ sarvāḥ dadarśa kuru nandanaḥ",
+    "english": "Subjugating them by a policy of conciliation, the Kuru prince beheld (in that region) that excellent of lakes called Manasa and various other lakes and tanks sacred to the Rishis.",
+    "morphology": "tān_tad_PAM tu_tu_U sāntvena_sāntva_SINe nirjitya_nirji_Co mānasam_mānasa_SANe saraḥ_saras_SANe uttamam_uttama_SANe ṛṣi_ṛṣi_MCp kulyāḥ_kulyā_PAF ca_ca_U tāḥ_tad_PAF sarvāḥ_sarva_PAF dadarśa_dṛś_SPs3In kuru_kuru_MCp nandanaḥ_n"
+  },
+  {
+    "index": 32607,
+    "sanskrit": "asau yastāmro aruṇa uta babhruḥ sumaṃgalaḥ | iti tvāṃ sakalā vedāḥ stuvaṃti śivavigraham || 10 ||",
+    "english": "10. All the Vedas eulogize you, the body of Śiva, thus: ‘This one who is copper-coloured or reddish-brown or tawny-coloured is highly auspicious.’[2]",
+    "morphology": "asau_adas_SNM yaḥ_yad_SNM tāmraḥ_tāmra_SNM aruṇaḥ_aruṇa_SNM uta_uta_ babhruḥ_babhru_SNM su_su_ maṃgalaḥ_maṅgala_SNM  / iti_iti_ tvām_tvad_SA sakalāḥ_sakala_PNM vedāḥ_veda_PNM stuvanti_stu_PPr3In śiva_śiva_Cp vigraham_vigraha_SA"
+  }
+]

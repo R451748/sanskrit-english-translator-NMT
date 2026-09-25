@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7528,
+    "sanskrit": "idam apy aparaṃ hanta tena paryanuyujyatām //",
+    "english": "Now, we put a question to you.",
+    "morphology": "idam_idam_SNNe api_api_ aparam_apara_SNNe "
+  },
+  {
+    "index": 7529,
+    "sanskrit": "kāmopapattayastistraḥ kāmadevāḥ samānuṣāḥ / sukhopapattayastistro navatridhyānabhūmayaḥ //",
+    "english": "There are three “arisings” of the objects of desire: the gods of Kāmadhātu together with humans. There are three “arisings of pleasure”: the nine spheres of three Dhyānas.",
+    "morphology": "kāma_kāma_Cp upapattayaḥ_upapatti_PNF tistraḥ_tri_PNF kāmadevāḥ_kāmadeva_PNM sa_sa_ mānuṣāḥ_mānuṣa_PNM  / sukha_sukha_Cp upapattayaḥ_upapatti_PNF tistraḥ_tri_PNF nava_navan_SNNe tri_tri_Cp dhyānabhūmayaḥ_dhyānabhūmi_PNF  /"
+  },
+  {
+    "index": 7530,
+    "sanskrit": "manasaḥ tu parā buddhiḥ buddheḥ ātmā mahān paraḥ",
+    "english": "The understanding is superior to the mind. The Soul, also called Mahat, is superior to the understanding.",
+    "morphology": "manasaḥ_manas_SBNe tu_tu_U parā_para_SNF buddhiḥ_buddhi_SNF buddheḥ_buddhi_SBF"
+  },
+  {
+    "index": 7531,
+    "sanskrit": "karkaryā pūrayet śvabhraṃ śuklapuṣpāṇi ca nyaset /",
+    "english": "Then the hole is filled with water from the waterjar having holes at the bottOṃ, white flowers are placed.",
+    "morphology": "karkaryā_karkarī_SIF"
+  },
+  {
+    "index": 7532,
+    "sanskrit": "dāntasya kim araṇyena tathā adāntasya bhārata yatra eva hi vaset dāntaḥ tat araṇyam saḥ āśramaḥ vaiśampāyanaḥ uvāca",
+    "english": "What need has a man of self-control for a forest? Similarly, O Bharata, of what use is the forest to him that has no self-control? That is a forest where the man of self-control dwells, and that is even a sacred asylum.' \"Vaisampayana continued, 'Hearing these words of Bhishma, Yudhishthira became highly gratified as if he had quaffed nectar.",
+    "morphology": "dāntasya_dam_SGPaPsM kim_ka_SNNe araṇyena_araṇya_SINe tathā_tathā_U adāntasya_adānta_SGM bhārata_bhārata_SVM yatra_yatra_U eva_eva_U hi_hi_U vaset_vas_SPr3O dāntaḥ_dam_SNPaPsM tat_tad_SNNe araṇyam_araṇya_SNNe saḥ_tad_SNM āśramaḥ_ā"
+  },
+  {
+    "index": 7533,
+    "sanskrit": "atha gṛhṇāti / kadā cana starīrasi nendra saścāsi dāśuṣe upopennu maghavanbhūya innu te dānaṃ devasya pṛcyata ādityebhyastveti //",
+    "english": "He then draws (the juice from the sthâlî into the pâtra) with , 'At no time art thou barren, and never failest thou the worshipper, O Indra; butmore and ever more is thy divine gift increased, O mighty lord!--Thee to the Âdityas!'",
+    "morphology": "atha_atha_ gṛhṇāti_grah_SPr3In  / kadā_kadā_ cana_cana_ starīḥ_stṛ_SPs2 asi_as_SPr2In na_na_ indra_indra_SVM saśca_sac_SPr2In asi_as_SPr2In dāśuṣe_dāś_SDPaPsM upa_upa_ upa_upa_ id_id_ nu_nu_ maghavan_maghavan_SVM bhūyaḥ_bhūyas_SNNe i"
+  },
+  {
+    "index": 7534,
+    "sanskrit": "saṃdhyām abhimukhāḥ yānti tat parābhava lakṣaṇam",
+    "english": "All this is an indication of defeat.",
+    "morphology": "saṃdhyām_saṃdhyā_SAF abhimukhāḥ_abhimukha_PNM"
+  },
+  {
+    "index": 7535,
+    "sanskrit": "payaso vai prajāḥ sambhavanti payasaḥ sambhūtāstadyata eva sambhūtā yataḥ sambhavanti tadevābhya etatkaroti tadyāḥ pūrvairhavirbhiḥ prajāḥ sṛjate tā etasmātpayasa etasyai payasyāyai sambhavanti //",
+    "english": "Now it is on milk that the creatures subsist, it was by means of milk that they were preserved: hence he now offers to them that by which they were preserved, and whereon they subsist; and the beings whom he creates by means of the foregoing offerings, subsist on that milk, on that oblation of curds.",
+    "morphology": "payasaḥ_payas_SBNe vai_vai_ prajāḥ_prajā_PNF sambhavanti_sambhū_PPr3In payasaḥ_payas_SBNe sambhūtāḥ_sambhū_PNPaF tat_tad_SANe yatas_yatas_ eva_eva_ sambhūtāḥ_sambhū_PNPaF yatas_yatas_ sambhavanti_sambhū_PPr3In tat_tad_SANe eva_eva_ ābh"
+  }
+]

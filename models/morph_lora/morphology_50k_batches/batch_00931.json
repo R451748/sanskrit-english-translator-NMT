@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7440,
+    "sanskrit": "tvam āśritaḥ nagasya agram mūlam tu aham upāśritaḥ",
+    "english": "Thou hast lived on this tree and I have lived at its foot.",
+    "morphology": "tvam_tvad_SN āśritaḥ_āśri_SNPaPsM nagasya_naga_SGM agram_agra_SANe mūlam_mūla_SANe tu_tu_U aham_mad_SN upāśritaḥ_upāśri_SNPaPsM"
+  },
+  {
+    "index": 7441,
+    "sanskrit": "dānaṃ cittapariṣkārārthaṃ yiogasaṃbhārārthamuttamārthasya prāptaye dānaṃ dadāti /",
+    "english": "a gift made in order to adorn one’s mind; in order to fillthe mind; in order to equip it with a view to yoga; and in order to acquire the supreme goal.",
+    "morphology": "dānam_dāna_SANe citta_citta_Cp pariṣkāra_pariṣkāra_Cp artham_artha_SAM yioga_yioga_Cp saṃbhāra_sambhāra_Cp artham_artha_SAM uttama_uttama_Cp arthasya_artha_SGM prāptaye_prāpti_SDF"
+  },
+  {
+    "index": 7442,
+    "sanskrit": "puruṣaḥ puruṣāśrayāneva /",
+    "english": "Acquired by a male, it will only be found in a male body.",
+    "morphology": "puruṣaḥ_puruṣa_SNM puruṣa_puruṣa_Cp āśrayān_PAM eva_"
+  },
+  {
+    "index": 7443,
+    "sanskrit": "adhunā bhaktiyuktasya yathopakaraṇānmama | bhaviṣye yatphalaṃ kiṃcinno vedmi ca munīśvarāḥ | yena someśamutsṛjya atrāhaṃ bhakti tatparaḥ || 54 ||",
+    "english": "54. Now I am fully endowed with devotion and I have all essential requisites. What benefit is in store for me in the future, I do not know, O leading sages. Therefore, I have ignored Someśvara and became devouted [devoted?] to this deity (Kedāreśvara).",
+    "morphology": "adhunā_adhunā_ bhakti_bhakti_Cp yuktasya_yuj_SGPaM yathā_yathā_ upakaraṇāt_upakaraṇa_SBNe mama_mad_SG  / bhaviṣye_bhaviṣya_SLNe yat_yad_SNNe phalam_phala_SNNe kiṃcid_kaścit_SNNe naḥ_mad_PG vedmi_vid_SPr1In ca_ca_ muni_muni_Cp īśvarāḥ"
+  },
+  {
+    "index": 7444,
+    "sanskrit": "tannāyamāścaryasattvaściramimaṃ parikleśamanubhavitumarhati /",
+    "english": "It is not right, then, that this person of marvellous goodness should endure this great hardship for a long time.",
+    "morphology": "tat_tad_SNNe na_na_ ayam_idam_SNM āścarya_āścarya_Cp sattvaḥ_sattva_SNM ciram_ciram_ imam_idam_SAM parikleśam_parikleśa_SAM anubhavitum_anubhū_In arhati_arh_SPr3In  /"
+  },
+  {
+    "index": 7445,
+    "sanskrit": "vakṣye sāvitryamāvāsyāmbhuktimuktikarīṃ śubhāṃ //",
+    "english": "shall describe the newmoon day known as the Sāvitrī, that is auspicious and bestows enjoyment and emancipation.",
+    "morphology": "vakṣye_vac_SFu1In sāvitrī_sāvitrī_Cp amāvāsyām_amāvāsyā_SAF bhukti_bhukti_Cp mukti_mukti_Cp karīm_kara_SAF  /"
+  },
+  {
+    "index": 7446,
+    "sanskrit": "ityuktastaissusaṃkuddho hastābhyāṃ yaṣṭikāṃ tadā | gṛhītvā tāḍayāmāsa gaṇāṃstānparibhāṣiṇaḥ ||",
+    "english": "18. Thus taunted by them, Gaṇeśa became furious and took the staff with his hands and struck the Gaṇas even as they continued to speak harsh words.",
+    "morphology": "iti_iti_ uktaḥ_vac_SNPaM taiḥ_tad_PIM su_su_ saṃkuddhaḥ_saṃkudh_SNPaM hastābhyām_hasta_DuIM yaṣṭikām_yaṣṭikā_SAF tadā_tadā_  / gṛhītvā_grah_Co tāḍayāmāsa_tāḍay_SPs3InPe gaṇān_gaṇa_PAM tān_tad_PAM paribhāṣiṇa"
+  },
+  {
+    "index": 7447,
+    "sanskrit": "eṣa caṃdrastvayā śapto jāmātā na kṛtaṃ śubham | tasmādanugrahaṃ cāsya mama vākyātsamācara || 50 ||",
+    "english": "50. This Candra, your son-in-law, has been cursed by you. This is not good. Hence at my behest do bless him now.”",
+    "morphology": "eṣa_etad_SNM candraḥ_candra_SNM tvayā_tvad_SI śaptaḥ_śap_SNPaM jāmātā_jāmātṛ_SNM na_na_ kṛtam_kṛ_SNPaNe śubham_śubha_SNNe  / tasmāt_tasmāt_ anugraham_anugraha_SAM ca_ca_ asya_idam_SGM mama_mad_SG vākyāt_vākya_SBNe samācara_samā"
+  }
+]

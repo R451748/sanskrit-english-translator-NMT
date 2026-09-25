@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35448,
+    "sanskrit": "priyaḥ bhavati bhūtānām na ca vibhraśyate śriyaḥ",
+    "english": "Such a ruler becomes the beloved of all creatures and never falls away from prosperity.",
+    "morphology": "priyaḥ_priya_SNM bhavati_bhū_SPr3In bhūtānām_bhūta_PGM na_na_U ca_ca_U vibhraśyate_vibhraṃś_SPr3InPv śriyāḥ_śrī_SBF"
+  },
+  {
+    "index": 35449,
+    "sanskrit": "evaṃ dvitriguṇenaiva madhyamottamasiddhayaḥ //",
+    "english": "In this way by the repetition, twice or thrice one gets mediocre and excellent accomplishments.",
+    "morphology": "evam_evam_ dvi_dvi_Cp tri_tri_Cp guṇena_guṇa_SIM eva_eva_ madhyama_madhyama_Cp uttama_uttama_Cp siddhayaḥ_siddhi_PNF  /"
+  },
+  {
+    "index": 35450,
+    "sanskrit": "śīta uṣṇe ca eva vāyuḥ ca trayaḥ śārīra jāḥ guṇāḥ teṣām guṇānām sāmyam ca tat āhuḥ svastha lakṣaṇam",
+    "english": "Cold, heat, and wind,--these three are the attributes of the body.[41] Their existence in harmony is the sign of health.",
+    "morphology": "śīta_śīta_NeCp uṣṇe_uṣṇa_DuNNe ca_ca_U eva_eva_U vāyuḥ_vāyu_SNM ca_ca_U trayaḥ_tri_PNM śārīra_śārīra_NeCp jāḥ_ja_PNM guṇāḥ_guṇa_PNM teṣām_tad_PGM guṇānām_guṇa_PGM sāmyam_sāmya_SANe ca_ca_U tat_tad_SANe āhuḥ_a"
+  },
+  {
+    "index": 35451,
+    "sanskrit": "viṣaye vartamānānām yam tam vaiśeṣikaiḥ guṇaiḥ prāhuḥ viṣaya goptāram tasmai goptrā ātmane namaḥ",
+    "english": "Salutations to thee in thy form as Universe! Men of the world, according to the attributes ascribed to thee by the Vaiseshika theory, regard thee as the Protector of the world.",
+    "morphology": "viṣaye_viṣaya_SLM vartamānānām_vṛt_PGPaPrM yam_yad_SAM tam_tad_SAM vaiśeṣikaiḥ_vaiśeṣika_PIM guṇaiḥ_guṇa_PIM prāhuḥ_prāh_PPs3In viṣaya_viṣaya_MCp goptāram_goptṛ_SAM tasmai_tad_SDM goptrā_goptṛ_SIM ātmane_ātman_SDM nam"
+  },
+  {
+    "index": 35452,
+    "sanskrit": "garutmatpakṣavikṣubdhavanasaṃpātakampitam / udyaddinakarālokacañcatkanakakaṅkaṭam //",
+    "english": "Showers of shafts fell with a force, that would pierce the pinions of garuda, and struck out the glare of sunbeams, by hitting at the armours of the warriors.",
+    "morphology": "garutmat_garutmant_Cp pakṣa_pakṣa_Cp vikṣubdha_vikṣubh_PaCp vana_vana_Cp saṃpāta_sampāta_Cp kampitam_kamp_SAPaNe  / udyat_udi_PaPrCp dinakara_dinakara_Cp āloka_āloka_Cp cañcat_cañc_PaPrCp kanaka_kanaka_Cp kaṅkaṭam_kaṅkaṭa_SANe  /"
+  },
+  {
+    "index": 35453,
+    "sanskrit": "bhavatā eva kṛtāḥ rājan bhavatā paripālitāḥ",
+    "english": "They have been nourished by thee.",
+    "morphology": "bhavatā_bhavat_SIM eva_eva_U kṛtāḥ_kṛ_PNPaPsF rājan_rājan_SVM bhavān_bhavat_SIM paripālitāḥ_paripālay_PNPaPsF"
+  },
+  {
+    "index": 35454,
+    "sanskrit": "pītaśaṅkhādibuddhīnāṃ vibhrame 'pi pramāṇatām / arthakriyāvisaṃvādādapare sampracakṣate //",
+    "english": "There are others who declare that “notions like ‘the yellow conch-shell’, even though illusory, are valid, inasmuch as they are not in con gruent with effective action.” (1324)",
+    "morphology": "pīta_pīta_Cp śaṅkha_śaṅkha_Cp ādi_ādi_Cp buddhīnām_buddhi_PGF vibhrame_vibhrama_SLM api_api_ pramāṇa_pramāṇa_Cp tām_tā_SAF  / artha_artha_Cp kriyā_kriyā_Cp visaṃvādāt_visaṃvāda_SBM apare_apara_PNM sampracakṣate_sampracakṣ_P"
+  },
+  {
+    "index": 35455,
+    "sanskrit": "tathā hi agnihotraṃ samādāya ity paṭhyate / na tu saṃtyajya iti /",
+    "english": "Further, verse has spoken of the man \"taking with himself the sacred fire\" , and not leaving it behind.",
+    "morphology": "tathā_tathā_ hi_hi_ agnihotram_agnihotra_SANe samādāya_samādā_Co iti_iti_ paṭhyate_paṭh_SPr3InPv  / na_na_ tu_tu_ saṃtyajya_saṃtyaj_Co iti_iti_"
+  }
+]

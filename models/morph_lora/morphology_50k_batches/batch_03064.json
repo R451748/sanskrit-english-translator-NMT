@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24504,
+    "sanskrit": "sarvam sarveṇa sarvatra kriyamāṇam ca pūjaya",
+    "english": "One should always reverence the practices of one's own order.",
+    "morphology": "sarva_sarva_SANe"
+  },
+  {
+    "index": 24505,
+    "sanskrit": "sarvān rasān apoheta kṛtānnaṃ ca tilaiḥ saha / aśmano lavaṇaṃ caiva paśavo ye ca mānuṣāḥ //",
+    "english": "He must avoid (selling) condiments of all sorts, cooked food and sesamum, stones, salt, cattle, and human (beings),",
+    "morphology": "sarvān_sarva_PAM rasān_rasa_PAM apoheta_apoh_SPr3O kṛtānnam_kṛtānna_SANe ca_ca_ tilaiḥ_tila_PIM saha_saha_  / aśmanaḥ_aśman_SGM lavaṇam_lavaṇa_SNNe ca_ca_ eva_eva_ paśavaḥ_paśu_PNM ye_yad_PNM ca_ca_ mānuṣāḥ_mānuṣa_PNM  /"
+  },
+  {
+    "index": 24506,
+    "sanskrit": "tato yathādattam ādāya pramuñceyuḥ //",
+    "english": "Then the gnátis should leave them to marry after taking what had been presented to them on the occasion of their marriages",
+    "morphology": "tatas_tatas_ yathādattam_yathādattam_"
+  },
+  {
+    "index": 24507,
+    "sanskrit": "grāmān purāṇi ghoṣān ca pattanāni ca vīryavān jajvāla tasya bāṇaiḥ tu citrabhānuḥ didhakṣayā",
+    "english": "Springing from the point of his shafts, the god of fire, possessed of great energy, desirous of consuming (what was offered), burnt villages and towns and kingdoms and hamlets of cowherds.",
+    "morphology": "grāmān_grāma_PAM purāṇi_pura_PANe ghoṣān_ghoṣa_PAM ca_ca_U pattanāni_pattana_PANe ca_ca_U vīryavān_vīryavat_SNM jajvāla_jval_SPs3In tasya_tad_SGM bāṇaiḥ_bāṇa_PIM tu_tu_U citrabhānuḥ_citrabhānu_SNM didhakṣayā_didhakṣā_SIF"
+  },
+  {
+    "index": 24508,
+    "sanskrit": "nāṭakāḥ vividhāḥ kāvyāḥ kathā ākhyāyika kārikāḥ",
+    "english": "the Science of hymns in general, and various kinds of Verses and Songs;",
+    "morphology": "nāṭakāḥ_nāṭaka_PNM"
+  },
+  {
+    "index": 24509,
+    "sanskrit": "yastaṃ pūjayate bhaktyā māsamekaṃ nirantaram | ṣaṇmāsasyārcanenaiva yatpuṇyamupajāyate || 4 || tatpuṇyaṃ sakalaṃ tasya kumāreśārcanātsakṛt | labhate divasaikena vidhinā yadi pūjayet || 5 ||",
+    "english": "4-5. If a devotee worships (the Liṅga) duly, he gets much merit in a single day by adoring Kumāreśa once. He gets the entire merit of six months of adoration by worshipping for a month continuously.",
+    "morphology": "yaḥ_yad_SNM tam_tad_SAM pūjayate_pūjay_SPr3In bhaktyā_bhakti_SIF māsam_māsa_SAM ekam_eka_SAM nirantaram_nirantaram_  / ṣaṣ_ṣaṣ_Cp māsasya_māsa_SGM arcanena_arcana_SINe eva_eva_ yat_yad_SNNe puṇyam_puṇya_SNNe upajāyate_upajan_SPr3In  /"
+  },
+  {
+    "index": 24510,
+    "sanskrit": "na aham dharma phala anveṣī rāja putri carāmi uta",
+    "english": "O princess, I never act, solicitous of the fruits of my actions.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 24511,
+    "sanskrit": "śukraḥ śuśukvān uṣaḥ na jāraḥ paprā samīcī itisam īcī divaḥ na jyotiḥ",
+    "english": "Bright, flaming, like the lover of the Dawn 1, he has, like the light of the sky, filled the two (worlds of Heaven and Earth) which are turned towards each other.",
+    "morphology": "śukraḥ_śukra_SNM śuśukvān_śuc_SNPaPsM uṣaḥ_uṣ_SGF na_na_U jāraḥ_jāra_SNM paprā_prā_SPs3In samīcī_samyañc_DuAF itisam_itisam_U īcī_īcī_DuAF"
+  }
+]

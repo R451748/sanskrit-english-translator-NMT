@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25824,
+    "sanskrit": "saṃkrandanenānimiṣeṇa jiṣṇunā yutkāreṇa duścyavanena dhṛṣṇunā | tad indreṇa jayata tat sahadhvaṃ yudho nara iṣuhastena vṛṣṇā |",
+    "english": "With the bellowing, unwinking, conquering, Fighter, hard to overthrow, and daring Indra, With Indra do ye conquer, do ye withstand The foe, O heroes, with the strong one who holdeth the arrow in his hands.",
+    "morphology": "saṃkrandanena_saṃkrandana_SIM animiṣeṇa_animiṣa_SIM jiṣṇunā_jiṣṇu_SIM yutkāreṇa_yutkāra_SIM duścyavanena_duścyavana_SIM dhṛṣṇunā_dhṛṣṇu_SIM  / tat_tad_SANe indreṇa_indra_SIM jayata_ji_PPr2Im tat_tad_SANe sahadhvam_sa"
+  },
+  {
+    "index": 25825,
+    "sanskrit": "tathā ca deva vikhyātāmimāmatra kathāṃ śṛṇu / vikramāditya ityāsīdrājā pāṭaliputrake //",
+    "english": "In proof of this, King, hear this famous tale. There was in Pāṭaliputra a king named Vikramāditya;",
+    "morphology": "tathā_tathā_ ca_ca_ deva_deva_SVM vikhyātām_vikhyā_SAPaF imām_idam_SAF atra_atra_ kathām_kathā_SAF śṛṇu_śru_SPr2Im  / vikramādityaḥ_vikramāditya_SNM iti_iti_ āsīt_as_S3ImIn rājā_rājan_SNM pāṭaliputrake_pāṭaliputraka_SLNe  /"
+  },
+  {
+    "index": 25826,
+    "sanskrit": "āpatantaṃ hi vegena jarāsaṃdhaṃ mahābalam / ṣaḍbhir vivyādha nārācair yuyudhāno mahāmṛdhe //",
+    "english": "In that great battle Satyaki, with six winged shafts, speedily pierced the highly powerful Janārddana, who attacked them.",
+    "morphology": "āpatantam_āpat_SAPaPrM hi_hi_ vegena_vega_SIM jarāsaṃdham_jarāsaṃdha_SAM mahā_mahat_Cp balam_bala_SAM  / ṣaḍbhiḥ_ṣaṣ_PIM vivyādha_vyadh_SPs3In nārācaiḥ_nārāca_PIM yuyudhānaḥ_yuyudhāna_SNM mahā_mahat_Cp mṛdhe_mṛdha_SLM  /"
+  },
+  {
+    "index": 25827,
+    "sanskrit": "ubhayapakṣadvādaśīṣv evaṃ saṃvatsareṇa svargalokam āpnoti //",
+    "english": "By performing it for a year on each twelfth day of both halves of a month, he attains heaven.",
+    "morphology": "ubhaya_ubhaya_Cp pakṣa_pakṣa_Cp dvādaśīṣu_dvādaśī_PLF evam_evam_ saṃvatsareṇa_saṃvatsara_SIM svarga_svarga_Cp lokam_loka_SAM āpnoti_āp_SPr3In  /"
+  },
+  {
+    "index": 25828,
+    "sanskrit": "sutasya etat iha proktam daśamam parva sauptikam",
+    "english": "Thus the tenth Parva, called Sauptika, is recited.",
+    "morphology": "sutasya_suta_SGM"
+  },
+  {
+    "index": 25829,
+    "sanskrit": "tatas aham bharata śreṣṭha sarva senāpatiḥ tava śatrūn vidhvaṃsayiṣyāmi kadarthīkṛtya pāṇḍavān",
+    "english": "Then, O foremost of the Bharatas, come I, the leader of all thy troops, who will exterminate thy foes, vanquishing the Pandavas! It behoveth me not to speak of my own merits.",
+    "morphology": "tatas_tatas_U aham_mad_SN bharata_bharata_MCp śreṣṭha_śreṣṭha_SVM sarva_sarva_Cp senāpatiḥ_senāpati_SNM tava_tvad_SG śatrūn_śatru_PAM vidhvaṃsayiṣyāmi_vidhvaṃsay_SFu1In kadarthīkṛtya_kadarthīkṛ_Co pāṇḍavān_pāṇḍava_P"
+  },
+  {
+    "index": 25830,
+    "sanskrit": "aham āsam manuṣyaḥ vai śūdraḥ bahu dhanaḥ purā",
+    "english": "In my former life I was a human being. O puissant one, I was a Sudra possessed of great wealth.",
+    "morphology": "aham_mad_SN āsam_as_SPs1In manuṣyaḥ_manuṣya_SNM vai_vai_U śūdraḥ_śūdra_SNM bahu_bahu_Cp dhanaḥ_dhana_SNM purā_purā_U"
+  },
+  {
+    "index": 25831,
+    "sanskrit": "kathaṃ vyutthitaḥ saṃmukhī karoti /",
+    "english": "How does one actualize them upon leaving this contemplation?",
+    "morphology": "katham_katham_ vyutthitaḥ_vyutthā_SNPaM saṃmukhī_sammukhī_SNF karoti_kṛ_SPr3In  /"
+  }
+]

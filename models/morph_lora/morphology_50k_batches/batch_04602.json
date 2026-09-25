@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36808,
+    "sanskrit": "yastu pūjayate bhaktyā dakṣiṇāṃ diśamāsthitaḥ | puṣpaiḥ patraiḥ phalaiścaiva so'śvamedhaphalaṃ labhet || 3 ||",
+    "english": "3. The fruits of Aśvamedha Yajña accrue to the human who, while remaining in the Southern direction performs the worship with fruits, flowers and leaves and with due faith.",
+    "morphology": "yaḥ_yad_SNM tu_tu_ pūjayate_pūjay_SPr3In bhaktyā_bhakti_SIF dakṣiṇām_dakṣiṇa_SAF diśam_diś_SAF āsthitaḥ_āsthā_SNPaM  / puṣpaiḥ_puṣpa_PINe patraiḥ_pattra_PINe phalaiḥ_phala_PINe ca_ca_ eva_eva_ saḥ_tad_SNM aśvamedha_aśvame"
+  },
+  {
+    "index": 36809,
+    "sanskrit": "aham asya vijānāmi saṃkalpam manasi sthitam",
+    "english": "I know the desire that is in Arjuna's heart.",
+    "morphology": "aham_mad_SN asya_idam_SGM vijānāmi_vijñā_SPr1In"
+  },
+  {
+    "index": 36810,
+    "sanskrit": "'yeṣāṃ nimeṣaṇonmeṣī jagataḥ pralayodayau / tādṛśāḥ puruṣā naṣṭā mādṛśāṃ gaṇanaiva kā //'",
+    "english": "‘Whose shutting and opening of eyelids caused dissolution and creation of the world-such men are gone to oblivion ; can there be any count for men like us ?' .",
+    "morphology": "yeṣām_yad_PGM nimeṣaṇa_nimeṣaṇa_Cp unmeṣī_unmeṣin_DuNM jagataḥ_jagant_SGNe pralaya_pralaya_Cp udayau_udaya_DuNM  / tādṛśāḥ_tādṛśa_PNM puruṣāḥ_puruṣa_PNM naṣṭāḥ_naś_PNPaM mādṛśām_mādṛś_PGM gaṇanā_gaṇ"
+  },
+  {
+    "index": 36811,
+    "sanskrit": "ā bālatvācchubhaṃ tvetadyattvayā kārtikavratam | kṛtaṃ tasyā'rddhadānena puṇyaṃ dvaiguṇyamāgamat || 13 ||",
+    "english": "13. Ever since your childhood you have been performing the excellent Kārttikavrata. Half of the merit thereof you have donated. Hence your merit has become doubled.",
+    "morphology": "ā_ā_ bāla_bāla_Cp tvāt_tva_SBNe śubham_śubha_SNNe tu_tu_ etat_etad_SNNe yat_yad_SNNe tvayā_tvad_SI kārtikavratam_kārttikavrata_SNNe  / kṛtam_kṛ_SNPaNe tasya_tad_SGM arddha_ardha_Cp dānena_dāna_SINe puṇyam_puṇya_SNNe dvaiguṇyam_dvaigu"
+  },
+  {
+    "index": 36812,
+    "sanskrit": "nanu cārtvijye uktam eva iḍādibhakṣaṇaṃ yajamānasya tatra śāstranibandhano niyamaḥ, nartvijām /",
+    "english": "But in connection with the work of the priests, the eating of the Iḍū and such other materials has been prescribed; and the restrictions bearing upon that pertains to the Sacrifice, and not to the priests.",
+    "morphology": "nanu_nanu_ ca_ca_ ārtvijye_ārtvijya_SLNe uktam_vac_SNPaNe eva_eva_ iḍā_iḍā_Cp ādi_ādi_Cp bhakṣaṇam_bhakṣaṇa_SNNe yajamānasya_yaj_SGPaPrM tatra_tatra_ śāstra_śāstra_Cp nibandhanaḥ_nibandhana_SNM niyamaḥ_niyama_SNM na_na_ ṛtvijā"
+  },
+  {
+    "index": 36813,
+    "sanskrit": "tattvam etat tu vijñāya yadi na jñāyate prabho",
+    "english": "Having enquired into the truth regarding him, if, O lord, I obtain no news of him, then I shall visit thee;",
+    "morphology": "tattvam_tattva_SANe etat_etad_SANe tu_tu_ vijñāya_vijñā_Co yadi_yadi_ na_na_ jñāyate_jñā_SPr3InPv"
+  },
+  {
+    "index": 36814,
+    "sanskrit": "amuṣya ca vastuno 'yaṃ nirogha iti ṣaṣṭhīvyavasthā kathaṃ prakalpyate /",
+    "english": "In our system, the extinction of a thing is simply the non-existence of this thing. \"Extinction of suffering\" means that \"suffering will not exist any more.",
+    "morphology": "amuṣya_adas_SGNe ca_ca_ vastunaḥ_vastu_SGNe ayam_idam_SNM niroghaḥ_nirogha_SNM iti_iti_ ṣaṣṭhī_ṣaṣṭhī_Cp vyavasthā_vyavasthā_SNF katham_katham_ prakalpyate_prakalpay_SPr3InPv  /"
+  },
+  {
+    "index": 36815,
+    "sanskrit": "duḥśāsanaḥ mahā rāja kaśmalam ca āviśat mahat",
+    "english": "Afflicted thus by the arrows of Subhadra's son and deprived of his senses, Duhsasana.",
+    "morphology": "duḥśāsanaḥ_duḥśāsana_SNM mahā_mahat_Cp rāja_rāja_SVM kaśmalam_kaśmala_SANe ca_ca_U āviśat_āviś_SPs3In mahat_mahat_SANe"
+  }
+]

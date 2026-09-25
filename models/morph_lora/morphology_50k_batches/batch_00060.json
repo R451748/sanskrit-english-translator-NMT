@@ -1,0 +1,50 @@
+[
+  {
+    "index": 472,
+    "sanskrit": "bhagavān-āha:",
+    "english": "The Fortunate One said:",
+    "morphology": "bhagavān_"
+  },
+  {
+    "index": 473,
+    "sanskrit": "vijñānaṃ ceti |",
+    "english": "and consciousness.",
+    "morphology": "vijñānam_vijñāna_SNNe ca_ca_ iti_iti_"
+  },
+  {
+    "index": 474,
+    "sanskrit": "deva tvam api ca prāptāḥ saṃsiddhāḥ ca mahā balāḥ",
+    "english": "It was in consequence of this expiation that they succeeded in regaining their position as deities.",
+    "morphology": "deva_deva_MCp tvam_tva_SANe api_api_U ca_ca_U prāptāḥ_prāp_PNPaPsM"
+  },
+  {
+    "index": 475,
+    "sanskrit": "itihāsaḥ purāvṛttaṃ purāṇaṃ pañcalakṣaṇaṃ //",
+    "english": "Itihāsa is that which has happened in the past. Purāṇa has five characteristics.",
+    "morphology": "itihāsaḥ_itihāsa_SNM purāvṛttam_purāvṛtta_SNNe purāṇam_purāṇa_SNNe pañca_pañcan_Cp lakṣaṇaḥ_lakṣaṇa_SNM  /"
+  },
+  {
+    "index": 476,
+    "sanskrit": "evaṃ doṣo na bhavati /",
+    "english": "In the second hypothesis, this difficulty is not present.",
+    "morphology": "evam_evam_ doṣaḥ_doṣa_SNM na_na_ bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 477,
+    "sanskrit": "śumbhamānāḥ r̥tayu bhiḥ mr̥jyamānāḥ gabhastyoḥ pavante vāre avyaye",
+    "english": "They purified in both the hands, made beautiful by holy men, Flow onward to the fleecy cloth.",
+    "morphology": "śumbhamānāḥ_śubh_PNPaPrM r̥tayu_r̥tayu_PIM mr̥jyamānāḥ_mr̥j_PNPaPrMPv gabhastyoḥ_gabhasti_DuLM pavante_pū_PPr3In vāre_vāra_SLM avyaye_avyaya_SLM"
+  },
+  {
+    "index": 478,
+    "sanskrit": "śara cāpa dharaḥ pārthaḥ prajvalan iva bhārata dadāha samare yodhān kakṣam agniḥ iva jvalan yathā vana ante vanapaiḥ visṛṣṭaḥ",
+    "english": "Armed with bow and arrows, Partha, resembling the blazing sun, burnt the hostile combatants in that battle like a blazing fire consuming a heap of dry grass.",
+    "morphology": "śara_śara_MCp cāpa_cāpa_MCp dharaḥ_dhara_SNM pārthaḥ_pārtha_SNM prajvalan_prajval_SNPaPrM iva_iva_U bhārata_bhārata_SVM dadāha_dah_SPs3In samare_samara_SLNe yodhān_yodha_PAM kakṣam_kakṣa_SAM agniḥ_agni_SNM iva_iva_U jvalan_jval_SNPaPrM "
+  },
+  {
+    "index": 479,
+    "sanskrit": "mānaḥ / māno hi nāma sarva eva satkāyadṛṣṭisamāśrayeṇa pravartate /",
+    "english": "pride. All pride is based on the delusion of a permanent self and is characterized by an increased sense of self of the mind.",
+    "morphology": "mānaḥ_māna_SNM  / mānaḥ_māna_SNM hi_hi_ nāma_nāma_ sarvaḥ_sarva_SNM eva_eva_ sat_sat_Cp kāya_kāya_Cp dṛṣṭi_dṛṣṭi_Cp samāśrayeṇa_samāśraya_SIM pravartate_pravṛt_SPr3In  /"
+  }
+]

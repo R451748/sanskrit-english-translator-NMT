@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14320,
+    "sanskrit": "’vidyā,",
+    "english": "ignorance,",
+    "morphology": ""
+  },
+  {
+    "index": 14321,
+    "sanskrit": "śrīvasiṣṭha uvāca / svapauruṣaprayatnena vivekena vikāsinā / sa devo jñāyate rāma na tapaḥsnānakarmabhiḥ //",
+    "english": "Vasishtha replied:—He is to be known by means of your manly exertions (in knowledge and faith), and by the aid of a clear understanding and right reasoning, and never by the practice of austerities and ablutions, nor by acts attended with bodily pain of any kind.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / sva_sva_Cp pauruṣa_pauruṣa_Cp prayatnena_prayatna_SIM vivekena_viveka_SIM vikāsinā_vikāsin_SIM  / sa_tad_SNM devaḥ_deva_SNM"
+  },
+  {
+    "index": 14322,
+    "sanskrit": "āryāṇāṃ śīlavatāṃ varṇa-vāditā |",
+    "english": "Speaking in praise of virtuous noble ones.",
+    "morphology": "āryāṇām_ārya_PGM"
+  },
+  {
+    "index": 14323,
+    "sanskrit": "tulyatve guṇānām etasya caritārthatvāt / yathaiko 'pi vidyāvān aparo 'pi, tayor yasya guṇavatī prakṛṣṭā vidyā sa praśasyate /",
+    "english": "Not so; the epithet \"of high degree\" is meant to apply to the case where the two sets of qualities are equal; eg, where the one as well as the other is possessed of learning, superiority belongs to one whose learning is of the superior order.",
+    "morphology": "tulya_tulya_Cp tve_tva_SLNe guṇānām_guṇa_PGM etasya_etad_SGM caritārtha_caritārtha_Cp tvāt_tva_SBNe  / yathā_yathā_ ekaḥ_eka_SNM api_api_ vidyāvān_vidyāvat_SNM aparaḥ_apara_SNM api_api_ tayoḥ_tad_DuGM yasya_yad_SGM guṇavatī_guṇavat"
+  },
+  {
+    "index": 14324,
+    "sanskrit": "sahasrāra namaste'stu viṣṇupāṇivibhūṣaṇa | tvaṃ sarvalokarakṣāyai hariṇā ca dhṛtaṃ purā || 92 || tvāṃ yāce'dya yamaṃ trātuṃ viṣṇubhaktaṃ mahābalam || 93 || nṛṇāṃ devadruhāṃ kālastvameva hi na cā'paraḥ | tasmādenaṃ yamaṃ rakṣa kṛpāṃ kuru jagatpate || 94 ||",
+    "english": "92-94. “O Thousand-spoked (Discus), the ornament of the hands of Viṣṇu, obeisance to you. Formerly you were held by Hari for the sake of protecting all the worlds. I beg of you today to protect Yama, the highly powerful devotee of Viṣṇu. You alone are the deity of death unto men who are inimical to Devas. No one else. Hence, O lord of the universe, be merciful. Protect this Yama.”",
+    "morphology": "sahasrāra_sahasrāra_SVM namaḥ_namas_SNNe te_tvad_SD astu_as_SPr3Im viṣṇu_viṣṇu_Cp pāṇi_pāṇi_Cp vibhūṣaṇa_vibhūṣaṇa_SVM  / tvam_tvad_SN sarva_sarva_Cp loka_loka_Cp rakṣāyai_rakṣā_SDF hariṇā_hari_SIM ca_ca_ dhṛtam_dhṛ"
+  },
+  {
+    "index": 14325,
+    "sanskrit": "evam vibhajya yodhān tān pṛthak ca saha ca eva ha jvālā varṇaḥ mahā iṣvāsaḥ droṇam aṃśam akalpayat",
+    "english": "And distributing his warriors thus, individually and collectively, that mighty bowman, of the hue of blazing fire, kept Drona for his own share.",
+    "morphology": "evam_evam_U vibhajya_vibhaj_Co yodhān_yodha_PAM tān_tad_PAM pṛthak_pṛthak_U ca_ca_U saha_saha_U ca_ca_U eva_eva_U ha_ha_U"
+  },
+  {
+    "index": 14326,
+    "sanskrit": "catuṣṭayena bhedena saṃhitānāmidaṃ mune //",
+    "english": "The substance of which four Saṃhitās is collected into this Viṣṇu Purāṇa.",
+    "morphology": "catuṣṭayena_catuṣṭaya_SINe bhedena_bheda_SIM saḥ_tad_SNM ā_ā_ idam_ā_"
+  },
+  {
+    "index": 14327,
+    "sanskrit": "tathā ceyam iyatī vyutpattiḥ loke dṛśyate yat ayam asya vācyaḥ ayam asya vācaka iti na punaḥ śaktiparyantā vyutpattir asti /",
+    "english": "It may mean something else.Relation between a Word and its Meaning not eternal The Mimamsakas take an exception to our hypothesis on the ground that whenever a person utters a word he establishes each time a new convention.",
+    "morphology": "tathā_tathā_ ca_ca_ iyam_idam_SNF iyatī_iyat_SNF vyutpattiḥ_vyutpatti_SNF loke_loka_SLM dṛśyate_dṛś_SPr3InPv yat_yat_ ayam_idam_SNM asya_idam_SGM vācyaḥ_vac_SNMGd ayam_idam_SNM asya_idam_SGM vācakaḥ_vācaka_SNM iti_iti_ na_na_ punar_punar_"
+  }
+]

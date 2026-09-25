@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42712,
+    "sanskrit": "daśa ardha saṅkhyebhiḥ lavaṇaiḥ ca yuktam tailam pibet māgadhikādi siddham",
+    "english": "A medicated oil cooked with the drugs of the Pippalyadi group and mixed with the five officinal kinds of salt should be taken by the patient.",
+    "morphology": "__daśan_U __ardha_U __saṃkhyā_U __lavaṇa_U ca_ca_U __yuj_PaPsU __taila_U pibet_pā_SPr3O __māgadhikādi_U __sidh_PAPaPsNe"
+  },
+  {
+    "index": 42713,
+    "sanskrit": "tatra kalpasahasrāṃte sa prokto brahmaṇā svayam | iṃdradyumna dharāṃ gaccha na sthātavyaṃ tvayā'dhunā || 28 ||",
+    "english": "28. At the end of a thousand Kalpas, he was told by Brahmā himself: “O Indradyumna, go to the earth. Now you cannot stay here.”",
+    "morphology": "tatra_tatra_ kalpa_kalpa_Cp sahasra_sahasra_Cp ante_anta_SLM sa_tad_SNM proktaḥ_pravac_SNPaM brahmaṇā_brahman_SIM svayam_svayam_  / iṃdradyumna_indradyumna_SVM dharām_dharā_SAF gaccha_gam_SPr2Im na_na_ sthātavyam_sthā_SNNeGd tvayā_tvad_SI adhun"
+  },
+  {
+    "index": 42714,
+    "sanskrit": "āsurasya punar vaiśyaśūdrayor vidhānena parisaṃkhyā brāhmaṇakṣatriyayoḥ pratīyate /",
+    "english": "As regards the \"Āsura\" form, since it has been specifically prescribed for the Vaiśya and the Śūdra, it implies the exclusion of the Brāhmaṇa and the Kṣatriya from it.",
+    "morphology": "āsurasya_āsura_SGM punar_punar_ vaiśya_vaiśya_Cp śūdrayoḥ_śūdra_DuGM vidhānena_vidhāna_SINe parisaṃkhyā_parisaṃkhyā_SNF brāhmaṇa_brāhmaṇa_Cp kṣatriyayoḥ_kṣatriya_DuGM pratīyate_pratī_SPr3InPv  /"
+  },
+  {
+    "index": 42715,
+    "sanskrit": "indrāya tvā | ity ādhavanīyam |",
+    "english": "'to Indra thee!', (with these words) the stirring-vessel;",
+    "morphology": "indrāya_indra_SDM tvā_tvad_SA  / iti_"
+  },
+  {
+    "index": 42716,
+    "sanskrit": "adhyātma-pramodanāt-prīti-sukham-iti dvitīyaṃ,",
+    "english": "the second has internal clarity, and happiness and joy,",
+    "morphology": "adhyātma_adhyātma_Cp pramodanāt_pramodana_SBNe prīti_prīti_FCp sukham_sukha_SNNe iti_iti_ dvitīyam_dvitīya_SANe"
+  },
+  {
+    "index": 42717,
+    "sanskrit": "ātmehakāraḥ /",
+    "english": "the Self is the syllable Iha;",
+    "morphology": "ātmā_ātman_SNM iha_iha_ kāraḥ_kāra_SNM"
+  },
+  {
+    "index": 42718,
+    "sanskrit": "tvameva jagatāmīśo nijāṃśairdevatāmayaiḥ | kāryakāraṇarūpeṇa karoṣi svecchayā kriyāḥ || 17 ||",
+    "english": "You alone are the Lord of all worlds. You perform all acts through your own parts in the forms of Devas, by way of cause and effect.",
+    "morphology": "tvam_tvad_SN eva_eva_ jagatām_jagant_PGNe īśaḥ_īśa_SNM nija_nija_Cp aṃśaiḥ_aṃśa_PIM devatā_devatā_Cp mayaiḥ_maya_PIM  / kārya_kārya_Cp kāraṇa_kāraṇa_Cp rūpeṇa_rūpa_SINe karoṣi_kṛ_SPr2In sva_sva_Cp icchayā_icchā_SIF kriy"
+  },
+  {
+    "index": 42719,
+    "sanskrit": "asūta sā nāgavadhūpabhogyaṃ mainākam ambhonidhibaddhasakhyam / kruddhe 'pi pakṣacchidi vṛtraśatrāv avedanājñaṃ kuliśakṣatānām //",
+    "english": "She gave birth to Maináka, who wedded a Nága damsel, who contracted friendship with the ocean to hide himself in and who never experienced the pain of the wounds made by the thunderbolt even when the foe of Vrtra, the cleaver of pinions, was enraged",
+    "morphology": "asūta_sū_S3ImIn sā_tad_SNF nāga_nāga_Cp vadhū_vadhū_Cp upabhogyam_upabhuj_SAMGd mainākam_maināka_SAM ambhonidhi_ambhonidhi_Cp baddha_bandh_PaCp sakhyam_sakhya_SAM  / kruddhe_krudh_SLPaM api_api_ pakṣacchidi_pakṣacchid_SLM vṛtraśatrau_vṛtr"
+  }
+]

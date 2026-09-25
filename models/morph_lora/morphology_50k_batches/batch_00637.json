@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5088,
+    "sanskrit": "kṛpaḥ ca kṛtavarmā ca putram te abhiparīpsavaḥ",
+    "english": "Then the mighty car-warrior Ashvatthama, and Kripa and Kritavarma, followed that car, desirous of rescuing thy son.",
+    "morphology": "kṛpaḥ_kṛpa_SNM ca_ca_U kṛtavarmā_kṛtavarman_SNM ca_ca_U"
+  },
+  {
+    "index": 5089,
+    "sanskrit": "yadi mkṛdumadhyādhimātrāṇi cittāni kāraṇānīṣyante /",
+    "english": "The discipline is acquired by reason of one of these three minds. From this last point of view, four alternatives can be distinguished.",
+    "morphology": "yadi_yadi_"
+  },
+  {
+    "index": 5090,
+    "sanskrit": "te 'pyalobhasvabhāvāḥ /",
+    "english": "They are also non-desire in their nature.",
+    "morphology": "te_tad_PNM api_api_ a_a_ lobha_lobha_Cp svabhāvāḥ_svabhāva_PNM"
+  },
+  {
+    "index": 5091,
+    "sanskrit": "niviṣṭaikāgramanasā sarvānmāṇḍavyako'bravīt || 15 ||",
+    "english": "With fully concentrated mind, Māṇḍavyaka spoke to all:",
+    "morphology": "niviṣṭa_niviś_PaCp ekāgra_ekāgra_Cp manasā_manas_SINe sarvān_sarva_PAM māṇḍavyakaḥ_māṇḍavyaka_SNM abravīt_brū_S3ImIn "
+  },
+  {
+    "index": 5092,
+    "sanskrit": "na aham tam veda dabhyam dabhat saḥ yasya idam dūtīḥ asaram parākāt na tam gūhanti sravataḥ gabhīrāḥ hatāḥ indreṇa paṇayaḥ śayadhve",
+    "english": "I know he can't be harmed, but injures others, He as whose envoy from afar I come here. Deep-flowing streams cannot conceal his body: By Indra slain, ye shall lie prostrate, Paṇis.",
+    "morphology": "na_na_U aham_mad_SN tam_tad_SAM veda_vid_SPs1In dabhyam_dabhya_SAM dabhat_dabh_SPr3 saḥ_tad_SNM yasya_yad_SGM idam_idam_SANe dūtīḥ_dūtī_SNF asaram_sṛ_SPs1In parākāt_parāka_SBM na_na_U tam_tad_SAM gūhanti_guh_PPr3In sravataḥ_sru_PNPaPrM gabh"
+  },
+  {
+    "index": 5093,
+    "sanskrit": "ekodaye dvitīyasya na sattā dinarātrayoḥ / jñānaṃ nājñānatāmeti cchāyā nāyāti tāpatām //",
+    "english": "The presence of the one, nullifies the existence of the opposite other; as in the cases of day and night, of darkness and light, and of knowledge and ignorance.",
+    "morphology": "eka_eka_Cp udaye_udaya_SLM dvitīyasya_dvitīya_SGM na_na_ sattā_sattā_SNF dina_dina_Cp rātrayoḥ_rātra_DuGM  / jñānam_jñāna_SNNe na_na_ ajñāna_ajñāna_Cp tām_tā_SAF eti_i_SPr3In chāyā_chāyā_SNF na_na_ āyāti_āyā_SPr3In tāpa_tāpa_Cp "
+  },
+  {
+    "index": 5094,
+    "sanskrit": "ekadeśasthitātpuṃso dūrāyātasya cetasaḥ / yadrūpaṃ sakalaṃ madhye tadrūpaṃ paramātmanaḥ //",
+    "english": "As a man seated in this place, sees the light of heaven (heavenly bodies), as coming to him from a great distance, and filling the intermediate space; so the light of the Supreme soul fills and reaches to all.",
+    "morphology": "eka_eka_Cp deśa_deśa_Cp sthitāt_sthā_SBPaM puṃsaḥ_puṃs_SBM dūra_dūra_Cp āyātasya_āyā_SGPaNe cetasaḥ_cetas_SGNe  / yat_yad_SNNe rūpam_rūpa_SNNe sakalam_sakala_SNNe madhye_madhya_SLNe tat_tad_SNNe rūpam_rūpa_SNNe paramātmanaḥ_paramā"
+  },
+  {
+    "index": 5095,
+    "sanskrit": "tejaso 'pakāraṇatvāt /",
+    "english": "because Fire has no cause",
+    "morphology": "tejasaḥ_tejas_SGNe apakāraṇa_apakāraṇa_Cp tvāt_tva_SBNe"
+  }
+]

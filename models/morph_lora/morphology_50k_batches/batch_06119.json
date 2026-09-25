@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48944,
+    "sanskrit": "pra itaḥ muñcāmi na amutaḥ su baddhām amutaḥ karam yathā iyam indra mīḍhavaḥ su putrā su bhagā asati",
+    "english": "Hence, and not thence, I send these free. I make thee softly fettered there. That, Bounteous Indra, she may live blest in her fortune and her sons.",
+    "morphology": "pra_pra_U itas_itas_U muñcāmi_muc_SPr1In na_na_U amutas_amutas_U su_su_U baddhām_bandh_SAPaPsF amutaḥ_amutas_U karam_kṛ_SPs1Su yathā_yathā_U iyam_idam_SNF indra_indra_SVM mīḍhavaḥ_mīḍhvas_SVM su_su_U putrā_putra_SNF su_su_U bhagā_bhaga_S"
+  },
+  {
+    "index": 48945,
+    "sanskrit": "nanu mām tvam purā dūrāt abhivīkṣya abhibhāṣase",
+    "english": "Why dost thou not speak to me then? Formerly, thou usedst to address me even when thou wouldst see me at a distance.",
+    "morphology": "nanu_nanu_U"
+  },
+  {
+    "index": 48946,
+    "sanskrit": "citrāyudhaḥ citravarmā samare citra yodhinaḥ",
+    "english": "All of them were well-versed in every mode of warfare.",
+    "morphology": "citrāyudhaḥ_citrāyudha_SNM citravarmā_citravarman_SNM samare_samara_SLNe"
+  },
+  {
+    "index": 48947,
+    "sanskrit": "vimāna chandakān ca api prāsādān padma saṃnibhān",
+    "english": "And he noticed also many mansions that looked like celestial cars or like beautiful mountains.",
+    "morphology": "vimāna_vimāna_NeCp chandakān_chandaka_PAM ca_ca_U api_api_U prāsādān_prāsāda_PAM"
+  },
+  {
+    "index": 48948,
+    "sanskrit": "kati sapratidhāḥ daśa rūpiṇaḥ yatra yatpratidhātastatra tat sapratigham",
+    "english": "Which exercise resistance ? The ten which contain materiality, which exercise resistance on each other.",
+    "morphology": "kati_kati_ sapratidhāḥ_sapratidha_PNM daśa_daśan_SNNe rūpiṇaḥ_rūpin_PNM yatra_yatra_ yad_yad_Cp pratidhātaḥ_pratidhātḥ_PNM tatra_tatra_ tat_tad_SNNe sa_sa_ pratigham_pratigha_SNNe"
+  },
+  {
+    "index": 48949,
+    "sanskrit": "prahasan iva tām ca api śara vṛṣṭim jaghāna ha",
+    "english": "Laughing the while, he smote them (in return) with showers of arrows.",
+    "morphology": "prahasan_prahas_SNPaPrM iva_iva_U tām_tad_SAF ca_ca_U api_api_U śara_śara_MCp vṛṣṭim_vṛṣṭi_SAF jaghāna_han_SPs3In ha_ha_U"
+  },
+  {
+    "index": 48950,
+    "sanskrit": "svacchodakena saṃpūrṇaṃ padminīṣaṃḍamaṃḍitam | tataścāṃdrāyaṇaṃ cakre tapasaḥ prathamaṃ vratam || 56 ||",
+    "english": "56. It was full of clear water and was adorned by clusters of lotus-plants. Then she performed the Cāndrāyaṇa rite, the first of the Vratas pertaining to her penance.",
+    "morphology": "svaccha_svaccha_Cp udakena_udaka_SINe saṃpūrṇam_sampṛ_SAPaNe padminī_padminī_Cp ṣaṃḍa_ṣaṇḍa_Cp maṃḍitam_maṃḍay_SAPaNe  / tatas_tatas_ cāṃdrāyaṇam_cāndrāyaṇa_SANe cakre_kṛ_SPs3In tapasaḥ_tapas_SGNe prathamam_pratha"
+  },
+  {
+    "index": 48951,
+    "sanskrit": "viṣkambhā racitā meroryojanāyutavistṛtāḥ /",
+    "english": "They are beams of support for the Meru, each one extending to one lakh yojanas.",
+    "morphology": "viṣkambhāḥ_viṣkambha_PNM racitāḥ_racay_PNPaM meroḥ_meru_SGM yojana_yojana_Cp ayuta_ayuta_Cp vistṛtāḥ_vistṛ_PNPaM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5560,
+    "sanskrit": "maṇḍape paścimadvāre śayyāyāṃ viniveśayet // śaktyādiśaktiparyante vinyasedāsane śubhe /",
+    "english": "At the western door itself a pedestal should be placed on an auspicious seat permeated with the goddesses beginning with Śakti and ending with Mati.",
+    "morphology": "maṇḍape_maṇḍapa_SLM paścima_paścima_Cp dvāre_dvāra_SLNe śayyāyām_śayyā_SLF viniveśayet_viniveśay_SPr3O  // śakti_śakti_Cp ādi_ādi_Cp śakti_śakti_Cp paryante_paryanta_SLNe vinyaset_vinyas_SPr3O āsane_āsana_SLNe śubhe_śubha_SLNe "
+  },
+  {
+    "index": 5561,
+    "sanskrit": "evaṃ prāpte 'bhidhīyate",
+    "english": "Sutra .",
+    "morphology": "evam_evam_ prāpte_prāp_SLPaNe abhidhīyate_abhidhā_SPr3InPv"
+  },
+  {
+    "index": 5562,
+    "sanskrit": "yaḥ anāhitāgniḥ śataguḥ a yajvā ca sahasraguḥ",
+    "english": "The king should, therefore, take away (wealth for such a purpose) from a Sudra house of ours.[471] The king should also, without any scruple, take away from the kinsmen the wealth of him who does not perform sacrifices though possessed of a hundred kine and also of him who abstains from sacrifices though possessed of a thousand kine.",
+    "morphology": "yaḥ_yad_SNM anāhitāgniḥ_anāhitāgni_SNM śataguḥ_śatagu_SNM a_a_U yajvā_yajvan_SNM ca_ca_U sahasraguḥ_sahasragu_SNM"
+  },
+  {
+    "index": 5563,
+    "sanskrit": "mananaṃ cātroktaṃ draṣṭavyaṃ nānyanmanuta iti / prāyaśo mananapūrvakatvādvijñānasya / tathā nānyadvijānāti /",
+    "english": "and the others being mentioned as merely illustratives;but reflection should be understood to be included here by some such expression as ‘when one reflects upon nothing else’ as understanding is almost invariably preceded by reflection;similarly, when one understands nothing else",
+    "morphology": "mananam_manana_SNNe ca_ca_ atra_atra_ uktam_vac_SNPaNe draṣṭavyam_dṛś_SNNeGd na_na_ anyat_anya_SANe manute_man_SPr3In iti_iti_  / prāyaśas_prāyaśas_ manana_manana_Cp pūrvaka_pūrvaka_Cp tvāt_tva_SBNe vijñānasya_vijñāna_SGNe  / tathā_tath"
+  },
+  {
+    "index": 5564,
+    "sanskrit": "punar praharaṇāni eṣām kīrtyamānāni me śṛṇu",
+    "english": "Listen to me.",
+    "morphology": "punar_punar_U"
+  },
+  {
+    "index": 5565,
+    "sanskrit": "tīkṣṇā kṛṣṇā sudīrghā ca vahatyaṅgaṃ sadā nijam / śītalaivāsukhodarkā ghorā tṛṣṇākṛpāṇikā //",
+    "english": "It bears a form as formidable as that of a long, sharp and sable dagger; which is cold in appearance, but very injurious in her effects.",
+    "morphology": "tīkṣṇā_tīkṣṇa_SNF kṛṣṇā_kṛṣṇa_SNF su_su_ dīrghā_dīrgha_SNF ca_ca_ vahati_vah_SPr3In aṅgam_aṅga_SANe sadā_sadā_ nijam_nija_SANe  / śītalā_śītala_SNF eva_eva_ asukha_asukha_Cp udarkā_udarka_SNF ghorā_ghora_SNF tṛṣ"
+  },
+  {
+    "index": 5566,
+    "sanskrit": "athaitadvai āyretajjyotiḥ praviśati ya etamanuvā brūte bhakṣ/ ayati vā tasya vratacaryā yā sṛs/t/au //",
+    "english": "And, verily, whosoever either teaches, or partakes of, this (Pravargya) enters that life, and that light: the observance thereof is the same as at the creation .",
+    "morphology": "atha_atha_ etat_etad_SANe vai_vai_ āyuḥ_āyu_SNM etat_etad_SANe jyotiḥ_jyotis_SANe praviśati_praviś_SPr3In yaḥ_yad_SNM etam_etad_SAM anuvā_anu_SIM brūte_brū_SPr3In bhakṣ_bhakṣ_SPr2  / ayati_e_SPr3In vā_vā_ tasya_tad_SGM vrata_vrata_Cp car"
+  },
+  {
+    "index": 5567,
+    "sanskrit": "tadavaśyagahītavye śāstre svāṃśāpadeśini | mānakaphale'bhyupādeyatamaṃ tadviparītakam | |",
+    "english": "If anyone takes up any tradition for practice, he is sure to accept it as a whole. If, however, it proves to be capable of bearing only partial result, he has to go against its acceptability.",
+    "morphology": "tad_tad_Cp avaśya_avaśya_Cp gahītavye_gah_SLNeGd śāstre_śāstra_SLNe sva_sva_Cp aṃśa_aṃśa_Cp apadeśini_apadeśin_SLNe  / mānaka_mānaka_Cp phale_phala_SLNe abhyupādeyatamam_abhyupādeyatama_SNNe tad_tad_Cp viparītakam_viparītaka_SNNe"
+  }
+]

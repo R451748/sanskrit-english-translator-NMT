@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3888,
+    "sanskrit": "kuśīlavo 'vakīrṇī ca vṛṣalīpatir eva ca / paurnarbhavaś ca kāṇaś ca yasya copapatir gṛhe //",
+    "english": "An actor, one who has broken the vows of continence, the husband of a Śūdra woman, the son of a remarried woman, one who has only one eye, and he in whose house lives the paramour.",
+    "morphology": "kuśīlavaḥ_kuśīlava_SNM avakīrṇī_avakīrṇin_SNM ca_ca_ vṛṣalī_vṛṣalī_Cp patiḥ_pati_SNM eva_eva_ ca_ca_  / paurnarbhavaḥ_paurnarbhava_SNM ca_ca_ kāṇaḥ_kāṇa_SNM ca_ca_ yaḥ_yad_SNM"
+  },
+  {
+    "index": 3889,
+    "sanskrit": "udīcyāḥ diśaḥ śālāyāḥ namaḥ mahimne svāhā devebhyaḥ svāhyebhyaḥ // dhruvāyāḥ diśaḥ śālāyāḥ namaḥ mahimne svāhā devebhyaḥ svāhyebhyaḥ // ūrdhvāyāḥ diśaḥ śālāyāḥ namaḥ mahimne svāhā devebhyaḥ svāhyebhyaḥ //",
+    "english": "Now from the west side of the house, etc. Now from the north side of the house, etc. So from the mansion's every side to the Great Power be homage paid! Hail to the Gods whose due is Hail!",
+    "morphology": "udīcyāḥ_udañc_SGF diśaḥ_diś_SGF śālāyāḥ_śālā_SGF namaḥ_namas_SNNe mahimne_mahiman_SDM svāhā_svāhā_U devebhyaḥ_deva_PDM svāhyebhyaḥ_svāhya_PDM  // dhruvāyāḥ_dhruva_SGF diśaḥ_diś_SGF śālāyāḥ_śālā_SGF namaḥ_nam"
+  },
+  {
+    "index": 3890,
+    "sanskrit": "vidyāvinayahetur indriyajayaḥ iti // vyāsavākyaṃ nirdeśaḥ //",
+    "english": "for example It is the control of the organs of sense on which success in learning and discipline depend Explanation in detached words is the mentioning of a fact in detail;",
+    "morphology": "__vidyā_U __vinaya_U __hetu_U __indriya_U __jaya_U iti_U  //"
+  },
+  {
+    "index": 3891,
+    "sanskrit": "yathoktaṃ tenaiva sumatinā ---\"sattādisāmānyasvabhāvānuviddha eva viśeṣaḥ sākṣāt kriyate nānyathā, tato viśiṣṭaviṣayatvam eva viśeṣyasya yuktaṃ rūpam, sāmānyaṃ punar aśeṣanirapekṣaṃ sākṣātkartuṃ śakyata ityaviruddhamasyāvikalpaviṣayatvam\" iti /",
+    "english": "This has been declared by the same Sumati in the following words “The Particular is perceived only as infused with the character of such Universals as ‘Being’ and the like, not otherwise; hence it is only right that what is qualified should form the object of a qualified (determinate, conceptual) Perception; as for the Universal, on the other hand, it is capable of being perceived independently of all Particulars; and hence there can be nothing incongruous in its forming the object of the non-conceptual Perception”.",
+    "morphology": "yathā_yathā_ uktam_vac_SNPaNe tena_tad_SIM eva_eva_ sumatinā_sumati_SIM ---\"sattā_sattā_Cp ādi_ādi_Cp sāmānya_sāmānya_Cp svabhāva_svabhāva_Cp anuviddhaḥ_anuvyadh_SNPaM eva_eva_ viśeṣaḥ_viśeṣa_SNM sākṣāt_sākṣāt_ kriyate_kṛ_S"
+  },
+  {
+    "index": 3892,
+    "sanskrit": "na hi nīlādisaṃvedane kṣaṇikatvaṃ na saṃvedyate /",
+    "english": "it is not true that momentariness is not cognised when Blue, etc. are cognised;",
+    "morphology": "na_na_ hi_hi_ nīla_nīla_Cp ādi_ādi_Cp saṃvedane_saṃvedana_SLNe"
+  },
+  {
+    "index": 3893,
+    "sanskrit": "yadi yathā ghaṭas tathā śabdaḥ prāptaṃ tarhi yathā śabdaḥ tathā ghaṭa iti /",
+    "english": "It belongs to all homogeneous words just like the universal of cowness.",
+    "morphology": "yadi_yadi_ yathā_yathā_ ghaṭaḥ_ghaṭa_SNM tathā_tathā_ śabdaḥ_śabda_SNM prāptam_prāp_SNPaNe tarhi_tarhi_ yathā_yathā_ śabdaḥ_śabda_SNM tathā_tathā_"
+  },
+  {
+    "index": 3894,
+    "sanskrit": "śailūṣaṃ duṣṭagandharvaṃ sindhutīranivāsinam / takṣañca puṣkaraṃ putraṃ sthāpayitvātha deśayoḥ // bharatogātsaśatrughno rāghavaṃ pūjayan sthitaḥ /",
+    "english": "Having killed Śailūṣa, the wicked Gandharva, a resident on the banks of the river Sindhu and having established his sons Takṣa and Puṣkara in those countries, Bharata went to Rāghava along with Lakṣmaṇa and remained worshipping him after having killed the wicked in the battle and protected the pious.",
+    "morphology": "śailūṣam_śailūṣa_SAM duṣṭa_duṣ_PaCp gandharvam_gandharva_SAM sindhu_sindhu_Cp tīra_tīra_Cp nivāsinam_nivāsin_SAM  / takṣan_takṣ_SNPaPrM ca_ca_ puṣkaram_puṣkara_SAM putram_putra_SAM sthāpayitvā_sthāpay_Co atha_atha_ deśayoḥ_d"
+  },
+  {
+    "index": 3895,
+    "sanskrit": "tatas rājñā abhyanujñātaḥ bhīmasenaḥ mahā balaḥ pradadau tu maṇim divyam vacanam ca idam abravīt",
+    "english": "Then the mighty Bhimasena, desired by the king, gave that celestial gem unto her and said these words: \"This gem, O amiable lady, is thine.",
+    "morphology": "tatas_tatas_U rājñā_rājan_SIM abhyanujñātaḥ_abhyanujñā_SNPaPsM bhīmasenaḥ_bhīmasena_SNM mahā_mahat_Cp balaḥ_bala_SNM pradadau_pradā_SPs3In tu_tu_U maṇim_maṇi_SAM divyam_divya_SAM vacaḥ_vacas_SANe ṛṣṭā_ṛṣṭa_SNF ṛṣṭ"
+  }
+]

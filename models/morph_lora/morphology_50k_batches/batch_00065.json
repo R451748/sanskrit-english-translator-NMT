@@ -1,0 +1,50 @@
+[
+  {
+    "index": 512,
+    "sanskrit": "bhānostu bhānavaḥ putrā muhūrtāyāṃ muhūrtajāḥ //",
+    "english": "The Bhānus or suns of Bhānu and the deities presiding over moments, of Muhūrttā.",
+    "morphology": "bhānoḥ_bhānu_SGF tu_tu_ bhānavaḥ_bhānu_PNM putrāḥ_putra_PNM muhūrtāyāḥ_muhūrtā_SGF ḥ"
+  },
+  {
+    "index": 513,
+    "sanskrit": "bhīma cāpa cyutaiḥ bāṇaiḥ tava sainyam ariṃdama avadhyata camū madhye ghoraiḥ āśīviṣa upamaiḥ",
+    "english": "Many were the combatants, O chastiser of foes, in thy host that were deprived of life by arrows, resembling snakes of virulent poison shot from Bhima's bow.",
+    "morphology": "bhīma_bhīma_Cp cāpa_cāpa_MCp cyutaiḥ_cyu_PIPaPsM bāṇaiḥ_bāṇa_PIM tava_tvad_SG sainyamṇḍhāḥ_sainya_PNM ṇḍhāḥ_ṇḍhṛṇḍhāḥ_ṇḍhṛṇḍhāḥ_PNM"
+  },
+  {
+    "index": 514,
+    "sanskrit": "tvayi pratiṣṭhite nātha vayaṃ sarve pratiṣṭhitāḥ | tvadājñayā pratiṣṭheyaṃ pūrṇā'stāṃ tvatprasādataḥ || 97 ||",
+    "english": "97-102. When you are installed, O Lord, all of us are also stabilized. Let this installation rite be fulfilled at your bidding and thanks to your grace.",
+    "morphology": "tvayi_tvad_SL pratiṣṭhite_pratiṣṭhā_SLPaM nātha_nātha_SVM vayam_mad_PN sarve_sarva_PNM pratiṣṭhitāḥ_pratiṣṭhā_PNPaM  / tvad_tvad_Cp ājñayā_ājñā_SIF pratiṣṭhā_pratiṣṭhā_SNF iyam_idam_SNF pūrṇā_pṛ_SNPaF astām_as_"
+  },
+  {
+    "index": 515,
+    "sanskrit": "rāmo 'gātsavaśiṣṭhādyair jāmadagnyaṃ vijitya ca /",
+    "english": "Mārīca was a demon, son of Sunda and Tāṭakā. He was the uncle of Rāvaṇa. Rām. .xxiv.",
+    "morphology": "rāmaḥ_rāma_SNM agāt_gā_SPs3In sa_sa_ vasiṣṭha_vasiṣṭha_Cp ādyaiḥ_ādya_PIM"
+  },
+  {
+    "index": 516,
+    "sanskrit": "saṃsṛtyādau yathā kācitsaṃvicchītoṣṇarūpiṇī / agnīṣomābhidhāṃ prāptā saiva sarge nṛṇāmiha //",
+    "english": "There was a certain consciousness in the beginning of creation, which with its properties of heat and cold as those of agni and soma; came to be combined together in the formation of human body and mind.",
+    "morphology": "saṃsṛtya_saṃsṛ_Co ādau_ādi_SLM yathā_yathā_ kācid_kaścit_SNF saṃvid_saṃvid_SNF śīta_śīta_Cp uṣṇa_uṣṇa_Cp rūpiṇī_rūpin_SNF  / agnīṣoma_agnīṣoma_Cp abhidhām_abhidhā_SAF prāptā_prāp_SNPaF sā_tad_SNF eva_eva_ sarg"
+  },
+  {
+    "index": 517,
+    "sanskrit": "indratīrthe tu yaḥ snātvā tarpayetpitṛdevatāḥ | mahāpātakayukto'pi mucyate sarvapātakaiḥ || 39 || indratīrthe tu yaḥ snātvā pūjayetparameśvaram | so'śvamedhasya yajñasya puṣkalaṃ phalamaśnute || 40 ||",
+    "english": "He who takes his holy bath in the Indratīrtha and propitiates Pitṛs and Devatās will be liberated from all sins even if they are major ones. He who takes his holy ablution in the Indratīrtha and adores Parameśvara, enjoys the full benefit of Aśvamedha Yajña.",
+    "morphology": "indratīrthe_indratīrtha_SLNe tu_tu_ yaḥ_yad_SNM snātvā_snā_Co tarpayet_tarpay_SPr3O pitṛ_pitṛ_Cp devatāḥ_devatā_PAF  / mahāpātaka_mahāpātaka_Cp yuktaḥ_yuj_SNPaM api_api_ mucyate_muc_SPr3InPv sarva_sarva_Cp pātakaiḥ_pātaka_PINe  / i"
+  },
+  {
+    "index": 518,
+    "sanskrit": "yostīti akāryayogyaḥ //",
+    "english": "‘That which is not so’ i.e. not capable of action.",
+    "morphology": ""
+  },
+  {
+    "index": 519,
+    "sanskrit": "tato mātṛgaṇāḥ kecidvināyakagaṇaiḥ saha | vyavardhanta mahāraudrā jagatsaṃhārakāriṇaḥ || 54 ||",
+    "english": "Then some of the excessively fierce groups of Mātṛs in the company of Vināyakas rose up in size and started the act of annihilating the universe.",
+    "morphology": "tatas_tatas_ mātṛ_mātṛ_Cp gaṇāḥ_gaṇa_PNM kecid_kaścit_PNM vināyaka_vināyaka_Cp gaṇaiḥ_gaṇa_PIM saha_saha_  / vyavardhanta_vivṛdh_P3ImIn mahā_mahat_Cp raudrāḥ_raudra_PNM jagat_jagant_Cp saṃhāra_saṃhāra_Cp kāriṇaḥ_kāri"
+  }
+]

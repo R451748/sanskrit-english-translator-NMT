@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3240,
+    "sanskrit": "kaḥ punar atra viseṣaḥ /",
+    "english": "What difference does this make?",
+    "morphology": "kaḥ_ka_SNM"
+  },
+  {
+    "index": 3241,
+    "sanskrit": "vīkṣante tvā vismitāḥ ca eva sarve rūpam mahat te bahu vaktra netram mahā bāho bahu bāhu uru pādam",
+    "english": "Beholding Thy mighty form with many mouths and eyes, O mighty-armed one, with innumerable arms, thighs and feet, many stomachs, (and) terrible in consequence of many tusks, all creatures are frightened and I also.",
+    "morphology": "vīkṣante_vīkṣ_PPr3In tvā_tvad_SA vismitāḥ_vismi_PNPaPsM ca_ca_U eva_eva_U sarve_sarva_PNM rūpam_rūpa_SNNe mahat_mahat_SNNe te_tvad_SG bahu_bahu_Cp vaktra_vaktra_NeCp netram_netra_SNNe mahā_mahat_Cp bāho_bāhu_SVM bahu_bahu_Cp bāhu_bāhu_SNNe"
+  },
+  {
+    "index": 3242,
+    "sanskrit": "puṣpa uvāca | praviśāmi kimaṃgeṣu bhavantīṃ kiṃ milāmyaham | priye cireṇa labdhāsi na jāne kara vāṇi kim || 17 ||",
+    "english": "Puṣpa said: 17. Oh my beloved! I have obtained you after a long time. I do not know what to do. Shall 1 squeeze myself into you? Shall I merge my limbs into yours?",
+    "morphology": "puṣpaḥ_puṣpa_SNM uvāca_vac_SPs3In  / praviśāmi_praviś_SPr1In kim_kim_ aṃgeṣu_aṅga_PLNe bhavantīm_bhavat_SAF kim_kim_ milāmi_mil_SPr1In aham_mad_SN  / priye_priya_SVF cireṇa_cireṇa_ labdhā_labh_SNPaF asi_as_SPr2In na_na_ jāne_jñā_S"
+  },
+  {
+    "index": 3243,
+    "sanskrit": "asmākebhiḥ satva bhiḥ śūra śūraiḥ vīryā kr̥dhi yāni te kartvāni jyok abhūvan anu dhūpitāsaḥ hatvī teṣām ā bhara naḥ vasūni",
+    "english": "Perform, O Hero, with our valiant heroes the deeds heroic which thou hast to finish. Long have they been inflated with presumption: slay them, and bring us hither their possessions.",
+    "morphology": "asmākebhiḥ_asmāka_PIM satva_satvan_PIM śūra_śūra_SVM śūraiḥ_śūra_PIM vīryā_vīrya_PANe kr̥dhi_kṛ_SPs2Im yāni_yad_PNNe te_tvad_SD kartvāni_kṛ_PNNeGd jyok_jyok_U abhūvan_bhū_PPs3In anu_anu_U dhūpitāsaḥ_dhūpay_PNPaPsM hatvī_han_"
+  },
+  {
+    "index": 3244,
+    "sanskrit": "vārāṇasī yadā prāptā kadācitkālaparyayāt | sa upāyo vidhātavyo yena no niṣkramo bahiḥ || 44 ||",
+    "english": "44. If Kāśī is somehow reached after a long time, means should be found out whereby there is no exit therefrom.",
+    "morphology": "vārāṇasī_vārāṇasī_SNF yadā_yadā_ prāptā_prāp_SNPaF kadācid_kadācid_ kāla_kāla_Cp paryayāt_paryaya_SBM  / saḥ_tad_SNM upāyaḥ_upāya_SNM vidhātavyaḥ_vidhā_SNMGd yena_yad_SIM naḥ_mad_PG niṣkramaḥ_niṣkrama_SNM bahis_bahis_ "
+  },
+  {
+    "index": 3245,
+    "sanskrit": "yaḥ sa śakrāt an avaraḥ vīryeṇa draviṇena ca",
+    "english": "not inferior to Sakra himself in prowess and energy;",
+    "morphology": "yaḥ_yad_SNM sa_tad_SNM śakrāt_śakra_SBM an_an_U avaraḥ_avara_SNM"
+  },
+  {
+    "index": 3246,
+    "sanskrit": "rāja doṣeṇa hi jagat spṛśyate jagataḥ sa ca",
+    "english": "Indeed, the king's sins affect the world, and the world's sins affect him.",
+    "morphology": "rāja_rājan_MCp doṣeṇa_doṣa_SIM hi_hi_U jagat_jagant_SNNe spṛśyate_spṛś_SPr3InPv jagataḥ_jagant_SBNe sa_tad_SNM"
+  },
+  {
+    "index": 3247,
+    "sanskrit": "śikhaṇḍinam ca putrāḥ te pāṇḍavam ca dhanaṃjayam",
+    "english": "Thy sons, accompanied by many kings, proceeded against Sikhandin and Dhananjaya the son of Pritha, from desire of slaughtering both of them.",
+    "morphology": "śikhaṇḍinam_śikhaṇḍin_SAM ca_ca_U putrāḥ_putra_PNM te_tvad_SG pāṇḍavam_pāṇḍava_SAM ca_ca_U dhanaṃjayam_dhanaṃjaya_SAM"
+  }
+]

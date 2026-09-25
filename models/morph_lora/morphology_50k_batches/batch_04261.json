@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34080,
+    "sanskrit": "iṃdradyumna mahāsattva sākṣāttvaṃ bhagavatpriyaḥ | anyasya durlabho lokaḥ satyākhyo viditastava || 17 ||",
+    "english": "17-20. “O noble Indradyumna, you are the beloved of the Lord himself. This world named Satya which is inaccessible to others has been known by you (i.e. reached by you).",
+    "morphology": "iṃdradyumna_indradyumna_SVM mahā_mahat_Cp sattva_sattva_SVM sākṣāt_sākṣāt_ tvam_tvad_SN bhagavat_bhagavant_Cp priyaḥ_priya_SNM  / anyasya_anya_SGM durlabhaḥ_durlabha_SNM lokaḥ_loka_SNM satya_satya_Cp ākhyaḥ_ākhyā_SNM viditaḥ_vid_SNP"
+  },
+  {
+    "index": 34081,
+    "sanskrit": "tam abravīt samāgatya sa rājā brahma vittamam kim āgamanam ācakṣva bhagavan kṛtam eva tat",
+    "english": "Meeting him, the king addressed that foremost of all persons conversant with duties, saying, 'Tell me, O revered one, the reason of thy coming.",
+    "morphology": "tam_tad_SAM abravīt_brū_SPs3In samāgatya_samāgam_Co sa_tad_SNM rājā_rājan_SNM brahma_brahman_MCp vittamam_vittama_SAM kim_ka_SNNe āgamanam_āgamana_SNNe ācakṣva_ācakṣ_SPs2In bhagavan_bhagavat_SVM kṛtam_kṛ_SNPaPsNe eva_eva_U tat_tad_SNNe"
+  },
+  {
+    "index": 34082,
+    "sanskrit": "brahmovāca | evaṃ bhavatu bho vatsa vicarasvākutobhayaḥ | ityuktvā sahasā brahmā tatraivāṃtaradhīyata || 9 ||",
+    "english": "Brahmā said: 9. O dear one, let this be so. Move about without any fear from anywhere. After saying this Brahmā vanished there itself.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / evam_evam_ bhavatu_bhū_SPr3Im bho_bho_ vatsa_vatsa_SVM vicarasva_vicar_SPr2Im akutobhayaḥ_akutobhaya_SNM  / iti_iti_ uktvā_vac_Co sahasā_sahasā_ brahmā_brahman_SNM tatra_tatra_ eva_eva_ aṃtaradhīyata_antar"
+  },
+  {
+    "index": 34083,
+    "sanskrit": "tasyaitasya hṛdayasyaitadeva niruktaṃ nirvacanaṃ nānyata /",
+    "english": "The etymological explanation of this, of the Heart ‘Hṛdaya’is this,none other",
+    "morphology": "tasya_tad_SGNe etasya_etad_SGNe hṛdayasya_hṛdaya_SGNe etat_etad_SNNe eva_eva_ niruktam_nirvac_SNPaNe nirvacanam_nirvacana_SNNe  /"
+  },
+  {
+    "index": 34084,
+    "sanskrit": "sarve satya vrata parāḥ sarve kāma vihāriṇaḥ",
+    "english": "All were firm observers of the vow of truth, and all of them sported as they wished.",
+    "morphology": "sarve_sarva_PNM satya_satya_NeCp vrata_vrata_NeCp parāḥ_para_PNM"
+  },
+  {
+    "index": 34085,
+    "sanskrit": "yajñāya yajñeśvarāya yajñānāṃ pataye namaḥ //",
+    "english": "Obeisance to the sacrifice, the lord of the sacrifice and the master of sacrifices.",
+    "morphology": "yajñāya_yajña_SDM yajñeśvarāya_yajñeśvara_SDM yajñānām_yajña_PGM pataye_pati_SDM namaḥ_namas_SNNe  /"
+  },
+  {
+    "index": 34086,
+    "sanskrit": "yasyaivaṃ viduṣaḥ prayājā ijyante praibhyo lokebhyo bhrātṛvyān nudate |",
+    "english": "He for whom knowing thus are offered the fore-sacrifices, drives his enemy away from these worlds.",
+    "morphology": "yasya_yad_SGM evam_evam_ viduṣaḥ_vid_SGPaPsM prayājāḥ_prayāja_PNM ijyante_yaj_PPr3InPv pra_pra_ ebhyaḥ_idam_PBM lokebhyaḥ_loka_PBM bhrātṛvyān_bhrātṛvya_PAM nudate_nud_SPr3In  /"
+  },
+  {
+    "index": 34087,
+    "sanskrit": "nakulaḥ brāhmaṇāḥ ca anye lomaśaḥ ca mahā tapāḥ vṛkṣān āsādya saṃtrastāḥ tatra tatra nililyire",
+    "english": "And Nakula together with Lomasa and other Brahmanas of great asceticism stood in fright, each under a tree.",
+    "morphology": "nakulaḥ_nakula_SNM brāhmaṇāḥ_brāhmaṇa_PNM ca_ca_U anye_anya_PNM lomaśaḥ_lomaśa_SNM ca_ca_U mahā_mahat_Cp tapāḥ_tapas_SNM vṛkṣān_vṛkṣa_PAM āsādya_āsāday_Co saṃtrastāḥ_saṃtras_PNPaPsM tatra_tatra_U tatra_tatra_U nililyi"
+  }
+]

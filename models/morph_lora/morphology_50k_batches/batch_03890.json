@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31112,
+    "sanskrit": "sādṛśyaṃ dharmasāmānyamupamā rūpakaṃ tathā / mahoktyarthāntaranyāsāviti syāttu caturvidham //",
+    "english": "It is indeed fourfold Upamā simile, Rūpaka metaphor, Sahokti description of the common action of two different objects as coexisting and Arthāntaranyāsa corroboration.",
+    "morphology": "sādṛśyam_sādṛśya_SNNe dharma_dharma_Cp sāmānyam_sāmānya_SNNe upamā_upamā_SNF rūpakam_rūpaka_SNNe tathā_tathā_  / mahā_mahat_Cp ukti_ukti_Cp artha_artha_Cp antaranyāsau_antaranyāsa_SNM iti_iti_ syāt_as_SPr3O tu_tu_ caturvidham_caturvid"
+  },
+  {
+    "index": 31113,
+    "sanskrit": "purastāt viṣṭhitaḥ śarvaḥ mama āsīt tridaśeśvaraḥ",
+    "english": "Before me, that Lord of all the gods viz., Sarva, appeared seated in all his glory.",
+    "morphology": "purastāt_purastāt_U"
+  },
+  {
+    "index": 31114,
+    "sanskrit": "[gauḥ śukla ānīyatām] iti padagrāme saṃsargavādinaḥ padasyāśravaṇāt /",
+    "english": "Let us take an example, 'Let a white cow be brought'.",
+    "morphology": "__go_U __śukla_U __ānī_SPr3ImPv iti_iti_U __pada_U __grāma_U __saṃsarga_U __vādin_U __pada_U __aśravaṇa_U"
+  },
+  {
+    "index": 31115,
+    "sanskrit": "ityuktvā virarāmātha sā tu vāga śarīriṇī | tadā'śarīriṇīvākyaṃ yajñadevaḥ sa śuśruvān || 62 || saṃtuṣṭaḥ putrasahito rāmanāthaṃ niṣevya ca | dhanuṣkoṭiṃ namaskṛtya putreṇa sahi tastadā || 63 || svadeśaṃ prayayau hṛṣṭaḥ svagrāmaṃ svagṛhaṃ tathā | saputradāraḥ suciraṃ sukhamāste sunirvṛtaḥ || 64 ||",
+    "english": "After saying thus, the unembodied voice stopped. Yajñadeva who heard the utterance of the unembodied voice became glad. He served Rāmanātha in the company of his son. With great delight he bowed down to Dhanuṣkoṭi and accompanied by his son returned to his own land, his own village and his own abode. There, he lived happily for a long time along with his wife and son. He was extremely joyous.",
+    "morphology": "iti_iti_ uktvā_vac_Co virarāma_viram_SPs3In atha_atha_ sā_tad_SNF tu_tu_ śarīriṇī_śarīrin_SNF  / tadā_tadā_ aśarīriṇī_aśarīriṇī_Cp vākyam_vākya_SANe yajñadevaḥ_yajñadeva_SNM sa_tad_SNM  / saṃtuṣṭaḥ_saṃtuṣ_SNPaM putra"
+  },
+  {
+    "index": 31116,
+    "sanskrit": "tat idam draupadī hetoḥ anyonyasya pravāsanam",
+    "english": "The exile of any one amongst you, therefore, is only for the sake of Draupadi.",
+    "morphology": "tat_tad_SNNe idam_idam_SNNe ḥ_ḥ_"
+  },
+  {
+    "index": 31117,
+    "sanskrit": "rasāyanamivarṣīṇāṃ devānāmamṛtaṃ yathā / sudhevottamanāgānāṃ bhaiṣajyamidamastu te //",
+    "english": "Let this medicine be like the elixir of life of the sages, the nectar of the gods and the ambrosia of the outstanding serpents.”",
+    "morphology": "rasāyanam_rasāyana_SNNe iva_iva_ ṛṣīṇām_ṛṣi_PGM devānām_deva_PGM amṛtam_amṛta_SNNe yathā_yathā_  / sudhā_sudhā_SNF iva_iva_ uttama_uttama_Cp nāgānām_nāga_PGM bhaiṣajyam_bhaiṣajya_SNNe idam_idam_SNNe ḥ_SNF saḥ_tad_SNM ḥ"
+  },
+  {
+    "index": 31118,
+    "sanskrit": "yajñopavītī dvivastraḥ / tv ekavastraḥ /",
+    "english": "If he is wearing two garments, he should wear one of them over his left shoulder and under his right arm, but if he is wearing a single garment, he should wrap it around his lower body.",
+    "morphology": "yajña_yajña_Cp upavītī_upavītin_SNM dvi_dvi_Cp vastraḥ_vastra_SNM  /"
+  },
+  {
+    "index": 31119,
+    "sanskrit": "yajñeśvaramanāhūya yajñakarmarato 'bhavat | dakṣaṃ vaireṇa taṃ tasmādbhiṃdhi yajñaṃ gaṇeśvara ||",
+    "english": "46. In view of his enmity Dakṣa is performing sacrifice without inviting the lord of sacrifice. O chief of Gaṇas, split that sacrifice.",
+    "morphology": "yajñeśvaram_yajñeśvara_SAM an_an_ āhūya_āhvā_Co yajña_yajña_Cp karma_karman_Cp rataḥ_ram_SNPaM abhavat_bhū_S3ImIn  / dakṣam_dakṣa_SAM vaireṇa_vaira_SINe tam_tad_SAM tasmāt_tasmāt_"
+  }
+]

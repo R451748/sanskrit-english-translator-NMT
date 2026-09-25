@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47528,
+    "sanskrit": "sthitā hi indra sahasreṣu tvat viśiṣṭatameṣu iyam",
+    "english": "Indeed, she had dwelt in thousands of Indras before thee, all of whom, again, were very much superior to thee.",
+    "morphology": "sthitā_sthā_SNPaPsF hi_hi_U indra_indra_SVM sahasreṣu_sahasra_PLNe tvat_tvad_SB viśiṣṭatameṣu_viśiṣṭatama_PLNe iyam_idam_SNF"
+  },
+  {
+    "index": 47529,
+    "sanskrit": "tad ahar eva gṛhyakāroktaṃ kaṃcin madhuparkapūjāvihitasaṃskāraṃ prāpya samāvṛtto gurukulāt pitṛgṛhaṃ pratyāgata ity anuvādaḥ /",
+    "english": "\"Having returned\" ie, having gone through a particular consecratory rite consisting of the offering of the Madhuparka, etc, as laid down in the Gṛhyasūtra, and having returned from the Preceptor\" s home to his Father\" s home.",
+    "morphology": "tat_tad_SANe ahar_ahar_SANe eva_eva_ gṛhya_gṛhya_Cp kāra_kāra_Cp uktam_vac_SAPaM kaṃcid_kaścit_SAM madhuparka_madhuparka_Cp pūjā_pūjā_Cp vihita_vidhā_PaCp saṃskāram_saṃskāra_SAM prāpya_prāp_Co samāvṛttaḥ_samāvṛt_SNPaM guru_gur"
+  },
+  {
+    "index": 47530,
+    "sanskrit": "patitaścāgamatkhaḍgaḥ sa śīghraṃ śatakhaṇḍatām | jaleśaśca tataḥ kruddho mahābhairavarūpiṇam || 206 ||",
+    "english": "206-209. Even as it fell, the sword immediately broke into a hundred pieces.",
+    "morphology": "patitaḥ_pat_SNPaM ca_ca_ agamat_gam_SPs3InTh khaḍgaḥ_khaḍga_SNM sa_tad_SNM śīghram_śīghram_ śata_śata_Cp khaṇḍa_khaṇḍa_Cp tām_tā_SAF  / jaleśaḥ_jaleśa_SNM ca_ca_ tatas_tatas_ kruddhaḥ_krudh_SNPaM mahābhairava_mahābhairava_Cp"
+  },
+  {
+    "index": 47531,
+    "sanskrit": "ata evoktaṃ mantrasamarpaṇarahasyavedibhirajapāmantrasamarpaṇe - ṣaṭśatāni gaṇeśāya ṣaṭsahasraṃ svayaṃbhuve|",
+    "english": "Hence it has been said by those who know the secret of transmitting the mantras, concerning the transmission of the ajapāmantra[81]— \"Six hundred to Gaṇeśa, six thousand to the self-existent Brahman,",
+    "morphology": "atas_atas_ eva_eva_ uktam_vac_SNPaNe mantra_mantra_Cp samarpaṇa_samarpaṇa_Cp rahasya_rahasya_Cp vedibhiḥ_vedin_PIM ajapā_ajapā_Cp mantra_mantra_Cp samarpaṇe_samarpaṇa_SLNe - ṣaṣ_ṣaṣ_Cp śatāni_śata_PANe gaṇeśāya_gaṇeśa_SDM ṣa"
+  },
+  {
+    "index": 47532,
+    "sanskrit": "tasmādahaṃ parāṇvātmā samastajagadākṛtiḥ / sarvatraiva ca tiṣṭhāmi paramāṇūdare'pi ca //",
+    "english": "Therefore I who am a minute soul, am of the form of the whole world also (being its container in the mind); hence I abide everywhere likewise, even in the midst of an atom also.",
+    "morphology": "tasmāt_tasmāt_ aham_mad_SN parāṇu_parāṇu_Cp ātmā_ātman_SNM samasta_samasta_Cp jagat_jagant_Cp ākṛtiḥ_ākṛti_SNM  / sarvatra_sarvatra_ eva_eva_ ca_ca_ tiṣṭhāmi_sthā_SPr1In paramāṇu_paramāṇu_Cp udare_udara_SLNe api_api_ ca_ca_  "
+  },
+  {
+    "index": 47533,
+    "sanskrit": "iti /",
+    "english": "Consequently, i. e.",
+    "morphology": "iti_"
+  },
+  {
+    "index": 47534,
+    "sanskrit": "divyaiḥ puṣpaiḥ samākīrṇam antarikṣam samantataḥ āsīt kila mahā rāja śuka abhipatane tadā tatas mandākinīm ramyām upariṣṭāt abhivrajan",
+    "english": "The entire firmament became strewn with celestial flowers showered from heaven at that moment when Suka thus pierced through that impenetrable barrier, O monarch! The righteous-souled Suka then beheld from a high region the celestial stream Mandakini of great beauty, running below through a region adorned by many flowering groves and woods.",
+    "morphology": "divyaiḥ_divya_PINe puṣpaiḥ_puṣpa_PINe samākīrṇam_samākṛ_SNPaPsNe antarikṣam_antarikṣa_SNNe samantataḥ_samantataḥ_U āsīt_as_SPs3In kila_kila_U mahā_mahat_Cp rāja_rāja_MCp śuka_śuka_MCp abhipatane_abhipatana_SLNe tadā_tadā_U t"
+  },
+  {
+    "index": 47535,
+    "sanskrit": "atra kecit parihāram āhuḥ / naitat tena samānam /",
+    "english": "To this objection some people offer the following answerThe present case is not analogous to the case just cited.",
+    "morphology": "atra_atra_ kecid_kaścit_PNM parihāram_parihāra_SAM āhuḥ_ah_PPs3In  / na_na_ etat_etad_SNNe tena_tad_SINe samānam_samāna_SNNe  /"
+  }
+]

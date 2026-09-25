@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18560,
+    "sanskrit": "devyuvāca || | nātra vāsastvayā kāryaḥ kathaṃcidapi śobhane | manuṣyagarbhasaṃvāso bharttā ca bhavitā naraḥ || 37 ||",
+    "english": "37. O splendid lady, no fear need be entertained by you in this that you will have to stay in a human womb and that a man will be your husband.",
+    "morphology": "devī_devī_SNF uvāca_vac_SPs3In  / na_na_ atra_atra_ vāsaḥ_vāsa_SNM tvayā_tvad_SI kāryaḥ_kṛ_SNMGd kathaṃcid_kathaṃcid_ api_api_ śobhane_śobhana_SVF  / manuṣya_manuṣya_Cp garbha_garbha_Cp saṃvāsaḥ_saṃvāsa_SNM bharttā_bhartṛ_"
+  },
+  {
+    "index": 18561,
+    "sanskrit": "yāvat ca jāyate martyaḥ tāvat śūraḥ bhaviṣyati",
+    "english": "As many times he takes his birth in this world, so many times does he become celebrated for his heroism.",
+    "morphology": "yāvat_yāvat_U ca_ca_U jāyate_jan_SPr3In martyaḥ_martya_SNM tāvat_tāvat_U śūraḥ_śūra_SNM bhaviṣyati_bhū_SFu3In"
+  },
+  {
+    "index": 18562,
+    "sanskrit": "caitre māsi bhavaṃ dṛṣṭvā na punarjāyate bhuvi | vaiśākhyāmathavā samyagbhavaṃ dṛṣṭvā vimucyate || 6 ||",
+    "english": "6. On seeing Bhava in the month of Caitra, one is not reborn on the earth; on seeing Bhava on the Full-Moon night of Vaiśākha one is liberated.",
+    "morphology": "caitre_caitra_SLM māsi_mās_SLM bhavam_bhava_SAM dṛṣṭvā_dṛś_Co na_na_ punar_punar_ jāyate_jan_SPr3In bhuvi_bhū_SLF  / vaiśākhyām_vaiśākhī_SLF athavā_athavā_ samyak_samyak_ bhavam_bhava_SAM dṛṣṭvā_dṛś_Co vimucyate_vimuc_SPr3In"
+  },
+  {
+    "index": 18563,
+    "sanskrit": "sa tejīyasā manasā tvota uta śikṣa svapatyasya śikṣoḥ |",
+    "english": "He (flourishes) with keener mind, aided by thee. giver!",
+    "morphology": "sa_tad_SNM tejīyasā_tejīyas_SINe manasā_manas_SINe tvotaḥ_tvota_SNM uta_uta_ śikṣa_śikṣ_SPr2Im su_su_ apatyasya_apatya_SGNe śikṣoḥ_śikṣu_SGM "
+  },
+  {
+    "index": 18564,
+    "sanskrit": "muktabuddhīndriyo mukto baddhakarmendriyo'pi hi / baddhabuddhīndriyo baddho muktakarmendriyo'pi hi //",
+    "english": "He is free who has the freedom of his mind, although his body is enthralled in bondage; but he labours in bondage whose mind is bethralled by error, though he is free in his body.",
+    "morphology": "mukta_muc_PaCp buddhīndriyaḥ_buddhīndriya_SNM muktaḥ_muc_SNPaM baddha_bandh_PaCp karmendriyaḥ_karmendriya_SNM api_api_ hi_hi_  / baddha_bandh_PaCp buddhīndriyaḥ_buddhīndriya_SNM baddhaḥ_bandh_SNPaM mukta_muc_PaCp karmendriyaḥ_karmendriya_SN"
+  },
+  {
+    "index": 18565,
+    "sanskrit": "kāṣṭhamayabhāṇḍāny ulūkhalamusalaphalakādīni / loṣṭho mṛdvikāraḥ pāṣāṇākṛtiḥ piṇḍībhūtā mṛt /",
+    "english": "Vessels \"made of wood\" the mortar, the pestle, the board and so forth. \"Clay\" is a form of earth, ie, earth hardened into the form of stone; and vessels made of these are the cooking utensils, etc.",
+    "morphology": "kāṣṭha_kāṣṭha_Cp maya_maya_Cp bhāṇḍāni_bhāṇḍa_PNNe ulūkhala_ulūkhala_Cp musala_musala_Cp phalaka_phalaka_Cp ādīni_ādi_PNNe  / loṣṭhaḥ_loṣṭha_SNM mṛd_mṛd_Cp vikāraḥ_vikāra_SNM pāṣāṇa_pāṣāṇa_Cp ākṛti"
+  },
+  {
+    "index": 18566,
+    "sanskrit": "evaṃ puṇyā pavitrā ca kathitā tava bhūpate | bhūyo māṃ pṛcchasi ca yattaccaiva kathayāmyaham || 15 || | adhyāya || 24 ||",
+    "english": "Thus, O king, the meritorious and sacred river has been extolled to you. I shall narrate again whatever you may ask.[Sanskrit text for this chapter is available]",
+    "morphology": "evam_evam_ puṇyā_puṇya_SNF pavitrā_pavitra_SNF ca_ca_ kathitā_kathay_SNPaF tava_tvad_SG bhūpate_bhūpati_SVM  / bhūyas_bhūyas_ mām_mad_SA pṛcchasi_pracch_SPr2In ca_ca_ yat_yad_SANe tat_tad_SANe ca_ca_ eva_eva_ kathayāmi_kathay_SPr1In aham_mad"
+  },
+  {
+    "index": 18567,
+    "sanskrit": "uktam idam uttarārtham anūdyate /",
+    "english": "What is said here has already been said before; it is reiterated here for the purpose of laying down the additional details that follow.",
+    "morphology": "uktam_vac_SNPaNe idam_idam_SNNe uttara_uttara_Cp artham_artha_SNNe anūdyate_anuvad_SPr3InPv  /"
+  }
+]

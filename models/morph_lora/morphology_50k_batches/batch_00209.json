@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1664,
+    "sanskrit": "tadubhayadoṣaparijirhīrṣayā vaiśvānarāttṛbhāvapratipattyarthamuttaro grantha ārabhyate /",
+    "english": "In order to avoid both these undesirable contingencies, it is necessary for one to become the Vaiśvānara Fire who is the ‘eater of food’;",
+    "morphology": "tad_tad_Cp ubhaya_ubhaya_Cp doṣa_doṣa_Cp parijirhīrṣayā_parijirhīrṣā_SIF vaiśvānara_vaiśvānara_Cp āttṛ_āttṛ_Cp bhāva_bhāva_Cp pratipatti_pratipatti_Cp artham_artha_SAM uttaraḥ_uttara_SNM granthaḥ_grantha_SNM ārabhyate_ārabh_SP"
+  },
+  {
+    "index": 1665,
+    "sanskrit": "brahma vikraya nirdiṣṭam striyāḥ yat ca arjitam dhanam adeyam pitṛ devebhyaḥ yat ca klaibyāt upārjitam",
+    "english": "The wealth that one has acquired by the sale of Vedic lore, or which has been earned by a women, or which has been gained by meanness (such as giving false evidence in a court of law), should never be given to Brahmanas or spent in making offerings to the Pitris.",
+    "morphology": "brahma_brahman_MCp vikraya_vikraya_MCp nirdiṣṭam_nirdiś_SNPaPsNe striyāḥ_strī_SGF yat_yad_SNNe ca_ca_U arjitam_arjay_SNPaPsNe dhanam_dhana_SNNe adeyam_adeya_SNNe pitṛ_pitṛ_MCp devebhyaḥ_deva_PDM yat_yad_SNNe ca_ca_U klaibyāt_klaibya_SBNe up"
+  },
+  {
+    "index": 1666,
+    "sanskrit": "pūrvajanmani tuṣṭo'haṃ ghṛtakaṃbalapūjayā | prayacchāmyasmi ta rājyamadhunābhimataṃ vṛṇu || 56 ||",
+    "english": "56. “I am delighted with your Ghṛtakaṃbalapūjā in the previous birth. I have given you the kingdom (on that account). Now choose whatever you desire.”",
+    "morphology": "pūrva_pūrva_Cp janmani_janman_SLNe tuṣṭaḥ_tuṣ_SNPaM aham_mad_SN ghṛta_ghṛta_Cp kaṃbala_kambala_Cp pūjayā_pūjā_SIF  / prayacchāmi_prayam_SPr1In asmi_as_SPr1In rājyam_rājya_SANe adhunā_adhunā_ abhimatam_abhiman_SAPaNe vṛṇu_vṛ_S"
+  },
+  {
+    "index": 1667,
+    "sanskrit": "vedanādayo 'pi gṛhītavyāḥ //",
+    "english": "what is asserted should be -understood to be true of Feeling and the other Phases also.",
+    "morphology": "vedanā_vedanā_Cp ādayaḥ_ādi_PNM api_api_ gṛhītavyāḥ_grah_PNMGd  /"
+  },
+  {
+    "index": 1668,
+    "sanskrit": "astrasya asya prabhāvāt vai vyetu te mānasaḥ jvaraḥ iti uktvā varuṇaḥ prādāt gadām mantra puraskṛtām",
+    "english": "Therefore, let thy heart's fever be dispelled.' Having said these words, Varuna gave him, with mantras, a mace.",
+    "morphology": "astrasya_astra_SGNe asya_idam_SGNe prabhāvāt_prabhāva_SBM vai_vai_U vyetu_vī_SPr3Im te_tvad_SG mānasaḥ_mānasa_SNM jvaraḥ_jvara_SNM iti_iti_U uktvā_vac_Co varuṇaḥ_varuṇa_SNM prādāt_pradā_SPs3In gadām_gadā_SAF mantra_mantra_MCp purask"
+  },
+  {
+    "index": 1669,
+    "sanskrit": "saṃsārabhayabhītatvānnivasāmi vanāntare / jānatopi hi māmārya kathayāmyeva te manāk //",
+    "english": "It is from my fear of the world (and its temptations), that I have abandoned it and taken my abode amidst this forest; and this though you well know, will I now briefly state unto you.",
+    "morphology": "saṃsāra_saṃsāra_Cp bhaya_bhaya_Cp bhīta_bhī_PaCp tvāt_tva_SBNe nivasāmi_nivas_SPr1In vana_vana_Cp antare_antara_SLNe  / jānataḥ_jñā_SGPaPrM api_api_ hi_hi_ mām_mad_SA ārya_ārya_SVM kathayāmi_kathay_SPr1In eva_eva_ te_tvad_SD manāk_manā"
+  },
+  {
+    "index": 1670,
+    "sanskrit": "tṛṣṇānirodhād-upādānanirodhaḥ,",
+    "english": "from the cessation of craving, the cessation of attachment,",
+    "morphology": "__tṛṣṇā_U __nirodha_U"
+  },
+  {
+    "index": 1671,
+    "sanskrit": "sanā dakṣam uta kratum apa soma mr̥dhaḥ jahi atha naḥ vasyasaḥ kr̥dhi",
+    "english": "Win skilful strength and mental power. O Soma, drive away our foes; And make us better than we are.",
+    "morphology": "sanā_san_SPs2Im dakṣam_dakṣa_SAM uta_uta_U kratum_kratu_SAM apa_apa_U soma_soma_SVM mr̥dhaḥ_mrādh_PAF jahi_han_SPr2Im atha_atha_U naḥ_mad_PA vasyasaḥ_vasyas_PAM krīḍa_kṛ_SPs2Im"
+  }
+]

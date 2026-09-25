@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29632,
+    "sanskrit": "pañcāṅgaṃ nimbacūrṇasya khadirakvāthabhāvitaṃ // karṣaṃ bhṛṅgarasenāpi rogajiccāmaro bhavet /",
+    "english": "Five parts of pulverised neem boiled with the decoction of khadira used with a karṣa weight of the juice of bhṛṅga would make one overcome disease and become immortal.",
+    "morphology": "pañcāṅgam_pañcāṅga_SNNe nimba_nimba_Cp cūrṇasya_cūrṇa_SGNe khadira_khadira_Cp kvātha_kvātha_Cp bhāvitam_bhāvay_SNPaNe  // karṣam_karṣa_SNNe bhṛṅga_bhṛṅga_Cp rasena_rasa_SIM api_api_ roga_roga_Cp jit_jit_SNM ca_ca_ amaraḥ_ama"
+  },
+  {
+    "index": 29633,
+    "sanskrit": "mahāmahotsavastatra babhūva munisattama | sarve prasannatāṃ yātā viśeṣācca śivāśivau ||",
+    "english": "53. O excellent sage, there was great jubilation there. Everyone was delighted, especially Pārvatī and Śiva.",
+    "morphology": "mahā_mahat_Cp mahā_mahat_Cp utsavaḥ_utsava_SNM tatra_tatra_ babhūva_bhū_SPs3In muni_muni_Cp sattama_sattama_SVM  / sarve_sarva_PNM prasanna_prasad_PaCp tām_tā_SAF yātāḥ_yā_PNPaM viśeṣāt_viśeṣāt_ ca_ca_ śiva_śiva_Cp aśivau_aśiva_DuN"
+  },
+  {
+    "index": 29634,
+    "sanskrit": "daurmanasyena kāṅkṣā",
+    "english": "Doubt with dissatisfaction.",
+    "morphology": "daurmanasyena_daurmanasya_SINe kāḥ_kāḥ_"
+  },
+  {
+    "index": 29635,
+    "sanskrit": "yat tu dānapatim śūram kṣudhitāḥ pṛthivīcarāḥ",
+    "english": "Hungry men, approaching a brave and bountiful monarch, are gratified, and live by his side.",
+    "morphology": "yat_yat_U tu_tu_U dānapatim_dānapati_SAM śūram_śūra_SAM kṣudhitāḥ_kṣudh_PNPaPsM"
+  },
+  {
+    "index": 29636,
+    "sanskrit": "taduktam ‘rajastamaścābhibhūya sattvaṃ bhavati bhārata /",
+    "english": "It has been said thus : Sattva arises, O descendant of Bharata , predominating over rajas and tamas;",
+    "morphology": "tat_tad_SNNe uktam_vac_SNPaNe __rajas_U __tamas_U ca_ca_U abhibhūya_abhibhū_CoU __sattva_U bhavati_bhū_SPr3In __bhārata_U  /"
+  },
+  {
+    "index": 29637,
+    "sanskrit": "anabhyāsena vidyānāmasaṃsargeṇa dhīmatām | anigraheṇa cākṣāṇāṃ vyasanaṃ jāyate nṛṇām ||",
+    "english": "\"By an absence-of-the-study of the Sastras, by an absence-of-the-contact with the wise, and by an absence-ofthe-restraint of the senses is produced (as a consequence) [all] human misery\".",
+    "morphology": "anabhyāsena_anabhyāsa_SIM vidyānām_vidyā_PGF asaṃsargeṇa_asaṃsarga_SIM dhīmatām_dhīmat_PGM  / anigraheṇa_anigraha_SIM ca_ca_ akṣāṇām_akṣa_PGM vyasanam_vyasana_SNNe jāyate_jan_SPr3In nṛṇām_nṛ_PGM"
+  },
+  {
+    "index": 29638,
+    "sanskrit": "sahitāḥ baddha nistriṃśāḥ daheyuḥ śastra tejasā atha yūyam bahu tvāt tān ārabhadhvam katham cana anāryam paramam tat syāt aśakyam tat ca me matam",
+    "english": "Endued with ascetic merit she will certainly consume you, or perhaps, those heroes, armed with swords and weapons! Nor, if from force of numbers, ye seek to injure them in any respect, that will be a highly improper act, although, as I think, ye will never be able to succeed.",
+    "morphology": "sahitāḥ_sahita_PNM baddha_bandh_PaPsCp nistriṃśāḥ_nistriṃśa_PNM daheyuḥ_dah_PPr3O śastra_śastra_NeCp tejasā_tejas_SINe atha_atha_U yūyam_tvad_PN bahu_bahu_Cp tvāt_tva_SBNe tān_tad_PAM ārabhadhvam_ārabh_PPs2In katham_katham_U cana_cana"
+  },
+  {
+    "index": 29639,
+    "sanskrit": "svaraikādaśabhinnantu ūṣmaṇāntaṃ savindukam //",
+    "english": "Then the last among the sibilants together with the bindu the nasal sound is coupled with the eleventh vowel.",
+    "morphology": "svara_svara_Cp ekādaśa_ekādaśan_Cp bhinnan_bhid_SNPaPrM tu_tu_ ūṣmaṇā_ūṣman_SIM antam_anta_SAM sa_sa_ vindukam_vinduka_SAM  /"
+  }
+]

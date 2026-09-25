@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30816,
+    "sanskrit": "haste tu dakṣiṇe cakraṃ dṛṣṭvā tasya pitāmahaḥ / viṣṇoraṃśaṃ ṣṛthuṃ matvā paritoṣaṃ paraṃ yayai // viṣṇucakra kare cihnaṃ sarveṣāṃ cakravartinām / bhavatyavyāhato yasya prabhāvastridaśerapi //",
+    "english": "Beholding in his right hand the mark of the discus of Viṣṇu, Brahmā recognised a portion of that divinity in Prithu, and was much pleased for the mark of Viṣṇus discus is visible in the hand of one who is born to be a universal emperor, one whose power is invincible even by the gods.",
+    "morphology": "haste_hasta_SLM tu_tu_ dakṣiṇe_dakṣiṇa_SLM cakram_cakra_SANe dṛṣṭvā_dṛś_Co tasya_tad_SGM pitāmahaḥ_pitāmaha_SNM  / viṣṇoḥ_viṣṇu_SGM aṃśam_aṃśa_SAM ṣṛthum_ṣṛthu_SAM matvā_man_Co paritoṣam_paritoṣa_SAM param"
+  },
+  {
+    "index": 30817,
+    "sanskrit": "evam bahuvidhaḥ jñeyaḥ śabdaḥ ākāśa saṃbhavaḥ",
+    "english": "Sound which is born of space should thus be known to be of ten kinds.",
+    "morphology": "evam_evam_U"
+  },
+  {
+    "index": 30818,
+    "sanskrit": "teṣāṃ ca jātayo bhinnāḥ śabdābhivyaktihetavaḥ / yāvad varṇaṃ pravartante vyaktayo vā tadanvitāḥ //",
+    "english": "and there are distinct universals of these (articulations) also, which serve to bring about the manifestation of the sounds, and there are as many of these as there are letters’ or it is the particular individuals (articulations) themselves as associated with the said universals that bring about the manifestation of the particular letter-sounds.” [Ślokavārtika eternality of words, 296-297].",
+    "morphology": "teṣām_tad_PGM ca_ca_ jātayaḥ_jāti_PNF bhinnāḥ_bhid_PNPaF śabda_śabda_Cp abhivyakti_abhivyakti_Cp hetavaḥ_hetu_PNM  / yāvat_yāvat_ varṇam_varṇa_SAM pravartante_pravṛt_PPr3In vyaktayaḥ_vyakti_PNF vā_vā_ tad_tad_Cp anvitāḥ_anvita_"
+  },
+  {
+    "index": 30819,
+    "sanskrit": "idamitthamiti protā yatra saṃvittadeva tat / bhavatyavaśyaṃ tattvaṅga sadevāstvasadeva vā //",
+    "english": "Whatever appears in any manner in our consciousness, (either as existing or non-existent, or as so and so); the same is thought as real as it seems to be, without our consideration of its true nature of a reality or otherwise.",
+    "morphology": "idam_idam_SNNe ittham_ittham_ iti_iti_ protā_prave_SNPaF yatra_yatra_ saṃvid_saṃvid_SNF tat_tad_SNNe eva_eva_ tat_tad_SNNe  / bhavati_bhū_SPr3In avaśyam_avaśyam_ tat_tad_SNNe tu_tu_ aṅga_aṅga_"
+  },
+  {
+    "index": 30820,
+    "sanskrit": "jīvadetadavasthākaṃ sthitaṃ paśyati dehakam / asantameva gandharvapuraṃ svapranaraṃ yathā //",
+    "english": "So do our bodies appear to us in our living state, as the fairyland appears to one in his dream.",
+    "morphology": "jīvat_jīv_PaPrCp etad_etad_Cp avasthākam_avasthāka_SANe sthitam_sthā_SAPaNe paśyati_paś_SPr3In dehakam_dehaka_SANe  / asantam_asat_SANe eva_eva_ gandharva_gandharva_Cp puram_pura_SANe svapra_svapra_Cp naram_nara_SAM yathā_yathā_  /"
+  },
+  {
+    "index": 30821,
+    "sanskrit": "rañjayaty anurāgaṃ prajāsu janayati /",
+    "english": "\"Makes happy\" incites affection among the people.",
+    "morphology": "rañjayati_rañjay_SPr3In anurāgam_anurāga_SAM prajāsu_prajā_PLF janayati_janay_SPr3In"
+  },
+  {
+    "index": 30822,
+    "sanskrit": "iduvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhan namaḥ | teṣāṃ vayaṃ sumatau yajñiyānāṃ jyog ajītā ahatāḥ syāma |",
+    "english": "To the Idu year, the complete year, the year Pay ye honour great; In their lovingkindness that are worthy of sacrifice May we long be unfailing, unsmitten.",
+    "morphology": "iduvatsarāya_iduvatsara_SDM parivatsarāya_parivatsara_SDM saṃvatsarāya_saṃvatsara_SDM kṛṇuta_kṛ_PPr2Im bṛhat_bṛhat_SANe namaḥ_namas_SANe  / teṣām_tad_PGM vayam_mad_PN sumatau_sumati_SLF yajñiyānām_yajñiya_PGM jyok_jyok_ a_a_ jīt"
+  },
+  {
+    "index": 30823,
+    "sanskrit": "varaṃ paribhavastasmānna guṇānāṃ parābhavaḥ //",
+    "english": "Better to bear insults from such a one than to get rid of virtues.",
+    "morphology": "varam_vara_SNNe paribhavaḥ_paribhava_SNM tasmāt_tasmāt_ na_na_ guṇānām_guṇa_PGM parābhavaḥ_parābhava_SNM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15832,
+    "sanskrit": "saṃkaṭagatam agninā, dhānvanagataṃ dhūmena,",
+    "english": "He should be destroyed with fire when he is under a thicket; with smoke when he is in a desert;",
+    "morphology": "saṃkaṭa_saṃkaṭa_Cp gatam_gam_SAPaM agninā_agni_SIM dhānvana_dhānvana_Cp gatam_gam_SAPaM"
+  },
+  {
+    "index": 15833,
+    "sanskrit": "iṣe tvetyevādhvaryurgṛhṇātyupayāmagṛhīto 'syūrje tveti pratiprasthātaitāveva śāradau sa yacaradyūrgrasa oṣadhayaḥ pacyante teno haitāviṣaścorjaśca //",
+    "english": "With 'Thou art taken with a support: thee for Ish (sap)!' the Adhvaryu draws (the seventh); with 'Thou art taken with a support: thee for Ûrg (food)!' the Pratiprasthâtri (the eighth). These two are the autumn (months): because in autumn food (ûrg) and juice, (namely) plants, ripen, therefore these two are Isha and Ûrga.",
+    "morphology": "iṣe_iṣ_SDF tvā_tvad_SA iti_iti_ eva_eva_ adhvaryuḥ_adhvaryu_SNM gṛhṇāti_grah_SPr3In upayāma_upayāma_Cp gṛhītaḥ_grah_SNPaM asi_as_SPr2In ūrje_ūrj_SDF tvā_tvad_SA iti_iti_ pratiprasthātā_pratiprasthātṛ_SNM etau_etad_DuNM eva_eva_ "
+  },
+  {
+    "index": 15834,
+    "sanskrit": "yoryayetpūjayetstauti sarvaṃ tasyākṣayaṃ viduḥ | śivadharmeṣu yatproktaṃ phalaṃ pūrvaṃ mayā tava || 251 || tādṛśaṃ labhate martyo vāsudevaprasādataḥ || 252 ||",
+    "english": "They know that if anyone worships, adores and eulogizes him, he will have everything of everlasting benefit. A man obtains, thanks to the grace of Vāsudeva, a benefit similar to what has been previously described to you by me while expounding Śivadharmas.[12]",
+    "morphology": "__yorya_U __yad_U __pūjay_SPr3O stauti_stu_SPr3In __sarva_U __tad_U __akṣaya_U viduḥ_vid_PPs3In  / __śiva_U __dharma_U __yad_U __pravac_PaU __phala_U __pūrva_U __mad_U __tvad_U  / __tādṛśa_U labhate_labh_SPr3In __martya_U __vāsudeva_U __prasād"
+  },
+  {
+    "index": 15835,
+    "sanskrit": "guruḥ dharma upadeśena goptā ca paripālanāt",
+    "english": "By giving instruction in morality and virtue, he becomes a preceptor, and by exercising the duty of protection he becomes the protector.",
+    "morphology": "guruḥ_guru_SNM"
+  },
+  {
+    "index": 15836,
+    "sanskrit": "parāvarāṇām sraṣṭāram purāṇam param avyayam",
+    "english": "who is the creator of high and low; the ancient, exalted, inexhaustible one;",
+    "morphology": "parāvarāṇām_parāvara_PGNe sraṣṭāram_sraṣṭṛ_SAM purāṇam_purāṇa_SAM parāṇāḥ_parāṇā_PAM"
+  },
+  {
+    "index": 15837,
+    "sanskrit": "iyam ca kṛpaṇā vṛddhā hata putrā tapasvinī",
+    "english": "She too has lost her children and is helpless.",
+    "morphology": "iyam_idam_SNF"
+  },
+  {
+    "index": 15838,
+    "sanskrit": "dvitīyaḥ sātvikaścāyamasmānmatto vinaśyati | aṣṭau paśyati yonīśca devānāṃ daiva ityasau || 64 ||",
+    "english": "Śrāvaṇa is the ability to hear (sounds) thousands of Yojanas away. This is the second Sāttvika defect. One who is haughty on account of this, perishes. The next one, Daiva, is the ability to see eight species of Devas, viz. Vidyādharas, Apsaras (celestial damsels), Yakṣas, Rakṣasas, Gandharvas, Kinnaras, Guhyakas, Siddhas, Bhūtas. This also is a Sāttvika defect. He perishes on account of this conceit.",
+    "morphology": "dvitīyaḥ_dvitīya_SNM sātvikaḥ_sātvika_SNM ca_ca_ ayam_idam_SNM asmāt_idam_SBM mattaḥ_mad_SB vinaśyati_vinaś_SPr3In  / aṣṭau_aṣṭan_PAF paśyati_paś_SPr3In yonīḥ_yoni_PAF ca_ca_ devānām_deva_PGM daivaḥ_daiva_SNM iti_iti_ asau_ada"
+  },
+  {
+    "index": 15839,
+    "sanskrit": "marutaḥ mā gaṇaiḥ avantu prāṇāya apāna āyuṣe varcase ojase tejase / svastaye subhūtaye svāhā /",
+    "english": "May the Maruts protect me with their troops for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!",
+    "morphology": "marutaḥ_marut_PNM mā_mad_SA gaṇaiḥ_gaṇa_PIM avantu_av_PPr3Im prāṇāya_prāṇa_SDM apāna_apāna_MCp āyuṣe_āyus_SDNe varcase_varcas_SDNe ojase_ojas_SDNe tejase_tejas_SDNe  / svastaye_svasti_SDF"
+  }
+]

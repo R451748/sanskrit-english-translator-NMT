@@ -1,0 +1,50 @@
+[
+  {
+    "index": 896,
+    "sanskrit": "dhāraṇā paṃcanāḍīkā dhyānaṃ syātṣaṣṭināḍikam | dinadvāśakena syātsamādhiriha bhaṇyate || 24 ||",
+    "english": "124. Dhāraṇā has the duration of five Ghaṭis (i.e., about 2 hours); Dhyāna, of sixty Ghaṭis (i.e., 24 hours). It is called Samādhi when its duration is twelve days.",
+    "morphology": "dhāraṇā_dhāraṇā_SNF paṃca_pañcan_Cp nāḍīkā_nāḍīka_SNF dhyānam_dhyāna_SNNe syāt_as_SPr3O ṣaṣṭi_ṣaṣṭi_Cp nāḍikam_nāḍikā_SNNe  / dina_dina_Cp dvāśakena_dvāśaka_SINe syāt_as_SPr3O samādhiḥ_samādhi_SNM iha_iha_"
+  },
+  {
+    "index": 897,
+    "sanskrit": "yathāvṛttaḥ dhṛtarāṣṭraḥ a āmbikeyaḥ viduraḥ uvāca avocat mām dhṛtarāṣṭraḥ anuguptam",
+    "english": "And Vidura began to relate unto them in detail everything connected with the bearing of Dhritarashtra the son of Amvika.' \"Vidura said, 'O Ajatasatru, Dhritarashtra called me, his dependant, before him and honouring me duly said, 'Things have fared thus.",
+    "morphology": "yathāvṛttaḥ_yathāvṛtta_SNM dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM a_a_U āmbikeyaḥ_āmbikeya_SNM viduraḥ_vidura_SNM uvāca_vac_SPs3In avocat_vac_SPs3In mām_mad_SA dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM anuguptam_anugup_SAPaPsM"
+  },
+  {
+    "index": 898,
+    "sanskrit": "śucīn alubdhān avahitān śaktisaṃpannān sarvārtheṣu ca sahāyān //",
+    "english": "And (let him appoint) ministers (to help and advise him) in all his affairs, who are pure, free from covetousness, attentive, and able.",
+    "morphology": "śucīn_śuci_PAM alubdhān_alubdha_PAM avahitān_avahita_PAM śakti_śakti_Cp saṃpannān_sampad_PAPaM sarva_sarva_Cp artheṣu_artha_PLM ca_ca_ sahāyān_sahāya_PAM  /"
+  },
+  {
+    "index": 899,
+    "sanskrit": "prāpnuvanti narā yogaṃ yogo vai durlabho bhuvi //",
+    "english": "Those who commit iniquities and torture their elders also lose their Yoga.",
+    "morphology": "prāpnuvanti_prāp_PPr3In narāḥ_nara_PNM yogam_yoga_SAM yogaḥ_yoga_SNM vai_vai_ durlabhaḥ_durlabha_SNM bhuvi_bhū_SLF  /"
+  },
+  {
+    "index": 900,
+    "sanskrit": "purā nārāyaṇo devaḥ padmasṛṣṭau sanātanaḥ | sṛṣṭvā brahmādikāndevānidaṃ prāha janārdanaḥ || 28 ||",
+    "english": "28. Formerly in the Pādmakalpa, Nārāyaṇa, the eternal Lord, Janārdana, created Devas beginning with Brahmā and said thus:",
+    "morphology": "purā_purā_ nārāyaṇaḥ_nārāyaṇa_SNM devaḥ_deva_SNM padma_padma_Cp sṛṣṭau_sṛṣṭi_SLF sanātanaḥ_sanātana_SNM  / sṛṣṭvā_sṛj_Co brahma_brahman_Cp ādikān_ādika_PAM devān_deva_PAM idam_idam_SANe prāha_prāh_SPs3In janārd"
+  },
+  {
+    "index": 901,
+    "sanskrit": "atha api upāyam saṃpaśyet duḥkhasya parimokṣaṇe",
+    "english": "One should always seek to emancipate oneself from sorrow.",
+    "morphology": "atha_atha_U api_api_U upāyam_upāya_SAM saṃpaśyet_saṃpaś_SPr3O"
+  },
+  {
+    "index": 902,
+    "sanskrit": "athārdharātre saṃprāpte śruto gītadhvanirmayā | tataśca ciṃtitaṃ citte jāgaro'yamasaṃśayam || 37 ||",
+    "english": "37. When it was about midnight, the sound of music was heard by me and the thought occurred to me that this was the rite of Jāgara undoubtedly.",
+    "morphology": "atha_atha_ ardharātre_ardharātra_SLM saṃprāpte_samprāp_SLPaM śrutaḥ_śru_SNPaM gīta_gīta_Cp dhvaniḥ_dhvani_SNM mayā_mad_SI  / tatas_tatas_ ca_ca_ ciṃtitam_ciṃtay_SNPaNe citte_citta_SLNe jāgaraḥ_jāgara_SNM ayam_idam_SNM asaṃśayam_as"
+  },
+  {
+    "index": 903,
+    "sanskrit": "nara nārāyaṇau yau tau pūrvadevau vibhāvaso saṃprāptau mānuṣam lokam kārya artham hi divaukasām",
+    "english": "Those old deities, Nara and Narayana, have become incarnate in the world of men to accomplish the business of the celestials.",
+    "morphology": "nara_nara_MCp nārāyaṇau_nārāyaṇa_DuNM yau_yad_DuNM tau_tad_DuNM pūrvadevau_pūrvadeva_DuNM vibhāvaso_vibhāvasu_SVM saṃprāptau_samprāp_DuNPaPsM mānuṣam_mānuṣa_SAM lokam_loka_SAM kārya_kārya_NeCp artham_artha_SAM hi_hi_U divaukasām_di"
+  }
+]

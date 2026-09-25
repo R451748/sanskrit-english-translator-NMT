@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18976,
+    "sanskrit": "kālena ākramya loke asmin pacyamāne balīyasā",
+    "english": "Time that is strong, assailing the universe, cooks it within itself and sweeps away everything without consideration of seniority of years or the reverse.",
+    "morphology": "kālena_kāla_SIM"
+  },
+  {
+    "index": 18977,
+    "sanskrit": "bhavādṛśā mahātmānaḥ sadā lokahite ratāḥ | nātmano hitamicchaṃti kalpavṛkṣasadharmiṇaḥ || 69 ||",
+    "english": "69. Noble souls like you are always engaged in what is beneficial to the worlds. They do not wish for their own benefit. They are of the nature and quality of the divine wish-yielding Kalpa trees.”",
+    "morphology": "bhavādṛśāḥ_bhavādṛśa_PNM mahātmānaḥ_mahātman_PNM sadā_sadā_ loka_loka_Cp hite_hita_SLNe ratāḥ_ram_PNPaM  / na_na_ ātmanaḥ_ātman_SGM hitam_hita_SANe icchanti_iṣ_PPr3In kalpavṛkṣa_kalpavṛkṣa_Cp sadharmiṇaḥ_sadharmin_PNM"
+  },
+  {
+    "index": 18978,
+    "sanskrit": "halasya karaṇe ca api vyādiṣṭāḥ sarva śilpinaḥ",
+    "english": "and desired all the artisans to construct the (sacrificial) plough.",
+    "morphology": "halasya_hala_SGM karaṇe_karaṇa_SLNe ca_ca_U api_api_U"
+  },
+  {
+    "index": 18979,
+    "sanskrit": "bhīmaḥ api niṣkramya tatas supratīkā agratas abhavat bhīmam kareṇa avanamya jānubhyām abhyapātayat",
+    "english": "Supratika then, seizing Bhima by its trunk, threw him down by means of its knees.",
+    "morphology": "bhīmaḥ_bhīma_SNM api_api_U niṣkramya_niṣkram_Co tatas_tatas_U supratīkā_supratīkā_SNF agratas_agratas_U abhavat_bhū_SPs3In bhīmam_bhīma_SAM kareṇa_kara_SIM avanamya_avanam_Co jānubhyām_jānu_DuIM abhyapātayat_abhipātay_SPs3In"
+  },
+  {
+    "index": 18980,
+    "sanskrit": "śukena vyāsa putreṇa vyāsena ca munīśvaraiḥ | tatpūrvaiścākhilairdevairvedaiḥ śāstraistathā na hi ||",
+    "english": "11. It is not known to Śuka, son of Vyāsa nor to Vyāsa or other great sages. It is not known to the earlier beings, all the gods, all the Vedas and all the Śāstras.",
+    "morphology": "śukena_śuka_SIM vyāsa_vyāsa_SVM putreṇa_putra_SIM vyāsena_vyāsa_SIM ca_ca_ muni_muni_Cp īśvaraiḥ_īśvara_PIM  / tad_tad_Cp pūrvaiḥ_pūrva_PIM ca_ca_ akhilaiḥ_akhila_PIM devaiḥ_deva_PIM vedaiḥ_veda_PIM śāstraiḥ_śāstra_PINe tathā"
+  },
+  {
+    "index": 18981,
+    "sanskrit": "pavasva soma deva vītaye vr̥ṣā indrasya hārdi soma dhānam ā viśa purā naḥ bādhāt duḥ itā ati pāraya kṣetra vit hi diśaḥ āha vi pr̥cchate",
+    "english": "Flow on for the God's banquet, Soma, as a Steer, and enter Indra's heart, the Soma's reservoir. Bear us beyond misfortune ere we be oppres. sed. the man who knows the land directs the man who asks.",
+    "morphology": "pavasva_pū_SPr2Im soma_soma_SVM deva_deva_MCp vītaye_vīti_SDF vr̥ṣā_vr̥ṣan_SNM indrasya_indra_SGM hārdi_hārdi_SANe soma_soma_MCp dhānam_dhāna_SANe ā_ā_U viśa_viś_SPr2Im purā_purā_U naḥ_mad_PA bādhāt_bādha_SBM duḥ_duḥ_Cp itā_it"
+  },
+  {
+    "index": 18982,
+    "sanskrit": "śālagrāmādimūrteś ca vakṣyehaṃ bhuktimuktidāḥ /",
+    "english": "shall describe the characteristics of the śālagrāma mūrti the different gods represented by different kinds of śālagrāma stones which yield enjoyment and emancipation.",
+    "morphology": "śālagrāma_śālagrāma_Cp ādi_ādi_Cp mūrteḥ_mūrti_SGM ca_ca_ vakṣyā_vac_SFu1In iha_iha_ bhukti_bhukti_Cp mukti_mukti_Cp dāḥ_da_PVM "
+  },
+  {
+    "index": 18983,
+    "sanskrit": "iti dattvā varāñśaṃbhustalliṃge layamāyayau | skaṃda uvāca | talliṃgārādhanātkāmāḥ prāptā durvāsasā bhṛśam || 79 ||",
+    "english": "79-81. After granting these boons, Śaṃbhu merged into that Liṅga.",
+    "morphology": "iti_iti_ dattvā_dā_Co varān_vara_PAM śaṃbhuḥ_śambhu_SNM tad_tad_Cp liṃge_liṅga_SLNe layam_laya_SAM āyayau_āyā_SPs3In  / skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / tad_tad_Cp liṃga_liṅga_Cp ārādhanāt_ārādhana_SBNe kāmāḥ_kāma_P"
+  }
+]

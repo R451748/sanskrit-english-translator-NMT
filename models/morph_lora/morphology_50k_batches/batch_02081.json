@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16640,
+    "sanskrit": "jaḍāni prakṛtimahadahaṃkārādīni caturviṃśatiḥ| ajaḍaḥ puruṣaḥ|",
+    "english": "Twenty-four, including nature, intellect, egoism, &c., are senseless; that which is not senseless is Soul.",
+    "morphology": "jaḍāni_jaḍa_PNNe prakṛti_prakṛti_Cp mahat_mahant_Cp ahaṃkāra_ahaṃkāra_Cp ādīni_ādi_PNNe caturviṃśatiḥ_caturviṃśati_SNF ajaḍaḥ_ajaḍa_SNM puruṣaḥ_puruṣa_SNM"
+  },
+  {
+    "index": 16641,
+    "sanskrit": "samyak dagdhe tugākṣīrī plakṣa candana gairikaiḥ",
+    "english": "A plaster composed of Tugakshiri, Plaksha, Chandana, Gairika, and Amrita (Guduci), pasted together with clarified butter, should be applied over a bum of the Samyag-Dagdha type, or the flesh of domestic or aquatic or amphibious animals should be pasted and plastered over the affected part.",
+    "morphology": "samyak_samyak_U dagdhe_dah_SLPaPsNe tugākṣīrī_tugākṣīrī_FCp"
+  },
+  {
+    "index": 16642,
+    "sanskrit": "anena stavarājena stoṣyate yastu māṃ sadā | sarvadoṣavinirmuktaḥ paraṃ sthānaṃ gamiṣyati || 121 ||",
+    "english": "121. He who eulogizes me with this excellent prayer shall always be rid of all defects. He shall attain the greatest region.",
+    "morphology": "anena_idam_SIM stava_stava_Cp rājena_rāja_SIM stoṣyate_stu_SFu3In yaḥ_yad_SNM tu_tu_ mām_mad_SA sadā_sadā_  / sarva_sarva_Cp doṣa_doṣa_Cp vinirmuktaḥ_vinirmuc_SNPaM param_para_SANe sthānam_sthāna_SANe gamiṣyati_gam_SFu3In  /"
+  },
+  {
+    "index": 16643,
+    "sanskrit": "harisvāmīti vikhyātaḥ kāśyāmāsīdvijaḥ purā | tasyaikā tanayā jātā rūpeṇā'pratimā bhuvi || 54 ||",
+    "english": "54. Formerly, in Kāśī, there was a Brāhmaṇa well-known as Harisvāmī. A daughter was born to him. She was unexcelled in beauty in the whole earth.",
+    "morphology": "harisvāmī_harisvāmin_SNM iti_iti_ vikhyātaḥ_vikhyā_SNPaM kāśyām_kāśi_SLF āsīt_as_S3ImIn vijaḥ_vija_SNM purā_purā_  / tasya_tad_SGM ekā_eka_SNF tanayā_tanayā_SNF jātā_jan_SNPaF rūpeṇa_rūpa_SINe apratimā_apratima_SNF bhuvi_bhū_SL"
+  },
+  {
+    "index": 16644,
+    "sanskrit": "mahendro malayaḥ sahyaḥ śuktimānṛkṣaparvataḥ | viṃdhyaśca pāriyātraśca saptātra kulaparvatāḥ || 112 ||",
+    "english": "112. Mahendra, Malaya, Sahya, Śuktimān, Ṛkṣaparvata, Vindhya and Pāriyātra—these seven are the chief mountains.[8]",
+    "morphology": "mahendraḥ_mahendra_SNM malayaḥ_malaya_SNM sahyaḥ_sahya_SNM śuktimant_śuktimant_SNM ṛkṣa_ṛkṣa_Cp parvataḥ_parvata_SNM  / viṃdhyaḥ_vindhya_SNM ca_ca_ pāriyātraḥ_pāriyātra_SNM ca_ca_ sapta_saptan_PNM atra_atra_ kulaparvatāḥ_kula"
+  },
+  {
+    "index": 16645,
+    "sanskrit": "ekayānekavijñāne buddheta sakṛdeva tat /",
+    "english": "This has been thus declared: ‘Many things being apprehended by a single Cognition, all these would be apprehended once for alb without any distinction;",
+    "morphology": "ekayā_eka_SIF aneka_aneka_Cp vijñāne_vijñāna_SLNe budh_budh_SNPaF ita_i_SNPaF "
+  },
+  {
+    "index": 16646,
+    "sanskrit": "tatas karṇam dvādaśabhiḥ su muktaiḥ viddhvā punar saptabhiḥ abhyavidhyat sa pārtha bāṇāsana vega nunnaiḥ",
+    "english": "Piercing Karna next with a dozen shafts, he struck him once more with seven.",
+    "morphology": "tatas_tatas_U karṇam_karṇa_SAM dvādaśabhiḥ_dvādaśan_PIM su_su_U muktaiḥ_muc_PIPaPsM viddhvā_vyadh_Co punar_punar_U saptabhiḥ_saptan_PIM abhyavidhyat_abhivyadh_SPs3In sa_tad_SNM pārtha_pārtha_SVM bāṇāsana_bāṇāsana_NeCp vega_vega_MCp"
+  },
+  {
+    "index": 16647,
+    "sanskrit": "tathābhyastā ca sā karuṇā kramaśaḥ sakalasattvābhyuddharaṇecchāṃ svarasena eva utpādayati /",
+    "english": "By so practising this ‘karuṇā, the desire to ameliorate the suffering of all sentient beings will be automatically generated.",
+    "morphology": "tathā_tathā_ abhyastā_abhyas_SNPaF ca_ca_ sā_tad_SNF karuṇā_karuṇā_SNF kramaśas_kramaśas_ sakala_sakala_Cp sattva_sattva_Cp abhyuddharaṇa_abhyuddharaṇa_Cp icchām_icchā_SAF svarasena_svarasa_SIM eva_eva_ utpādayati_utpāday_SPr3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22080,
+    "sanskrit": "vācārambhaṇaṃ vikāro nāmadheyaṃ trīṇi rūpāṇīty eva satyam //",
+    "english": "thus vanishes Moonness of the Moon, being only a modification of words, a mere Name; and what is real is only that there are three colours",
+    "morphology": "vācā_vācā_Cp ārambhaṇam_ārambhaṇa_SNNe vikāraḥ_vikāra_SNM nāmadheyam_nāmadheya_SNNe trīṇi_tri_PNNe rūpāṇi_rūpa_PNNe iti_iti_ eva_eva_ satyam_satya_SNNe  /"
+  },
+  {
+    "index": 22081,
+    "sanskrit": "ahameva viśvarūpa karacaraṇādisvabhāva iva deha | sarvasminnahameva sphurāmi bhāveṣu bhāsvarūpamiva | | draṣṭā śrotā ghrātā dehendriyavarjito'pyakartāpi | siddhāntāgamatarkāścitrānahameva racayāmi | |",
+    "english": "Parmārthasāra “It is I who appears as the world having got developed organs like hands, feet, etc., as does the body. It is I who sparkles all as a lustre glittering within all beings.\" “I am the seer, the listener, the smeller and the doer, though I am bereft of a body and organs of sense and action both. It is I who authors the Siddhāntas, Agamas and treatises on reasoning of different varieties.",
+    "morphology": "aham_mad_SN eva_eva_ viśvarūpa_viśvarūpa_SVM kara_kara_Cp caraṇa_caraṇa_Cp ādi_ādi_Cp svabhāvaḥ_svabhāva_SNM iva_iva_ deha_deha_SVM  / sarvasmin_sarva_SLNe aham_mad_SN eva_eva_ sphurāmi_sphur_SPr1In bhāveṣu_bhāva_PLM bhāsvat_bhāsvant_C"
+  },
+  {
+    "index": 22082,
+    "sanskrit": "jambūdvīpo dvisāhasrastripārśvaḥ śakaṭākṛtiḥ // sāhasrāṇi trīṇi pārśvānyasya śakaṭasyevākṛtiḥ /",
+    "english": "Jambudvīpa has three sides of two thousand yojanas in length, one side of three yojanas and a halft¹ it thus has the shape of a carriage.",
+    "morphology": "jambūdvīpaḥ_jambūdvīpa_SNM dvi_dvi_Cp sāhasraḥ_sāhasra_SNM tri_tri_Cp pārśvaḥ_pārśva_SNM śakaṭa_śakaṭa_Cp ākṛtiḥ_ākṛti_SNM  /"
+  },
+  {
+    "index": 22083,
+    "sanskrit": "na punar ekā sarvavarṇagocarā smṛtiḥ /",
+    "english": "A word is used by a person and it communicates a meaning.",
+    "morphology": "na_na_ punar_punar_"
+  },
+  {
+    "index": 22084,
+    "sanskrit": "yady apy ayaṃ homas tathāpy agnau bāhulyena homānāṃ prasiddher bhūtayajño na homa ity āśaṅkāyāṃ prahuta ity uktam / prakarṣeṇāsau homa iti stutyā /",
+    "english": "The offering to elementals is \"Prahuta\" Though this also is a kind of \"Homa\" yet, in view of the fact that the terra \"Homa\" is generally restricted to offerings made into fire, people might think that the offering to elementals is not \"homa;\" hence with a view to preclude this notion it has been given the name of \"Prahuta,\" the act being praised as an excellent pra homa huta\".",
+    "morphology": "yadi_yadi_ api_api_ ayam_idam_SNM homaḥ_homa_SNM tathā_tathā_ api_api_ agnau_agni_SLM bāhulyena_bāhulya_SINe homānām_homa_PGM prasiddheḥ_prasiddhi_SBF bhūta_bhūta_Cp yajñaḥ_yajña_SNM na_na_ homaḥ_homa_SNM iti_iti_ āśaṅkāyām_āśaṅ"
+  },
+  {
+    "index": 22085,
+    "sanskrit": "iti āśvamedhikam parva proktam etat mahā adbhutam",
+    "english": "This is the most wonderful Parva called Aswamedhika.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 22086,
+    "sanskrit": "ekaḥ hi eva śriyam nityam bibharti puruṣa ṛṣabha antarātmā iva bhūtānām tad kṣaye vai bala kṣayaḥ",
+    "english": "That bull among men--Jarasandha--alone enjoyeth unfaded glory, like unto him who is the self in the heart of every created being.",
+    "morphology": "ekaḥ_eka_SNM hi_hi_U eva_eva_U śriyam_śrī_SAF nityam_nityam_U bibharti_bhṛ_SPr3In puruṣa_puruṣa_MCp ṛṣabha_ṛṣabha_MCp antarātmā_antarātman_SNM iva_iva_U bhūtānām_bhūta_PGNe tad_tad_Cp kṣaye_kṣaya_SLM ṛṣabha_ṛṣabha_SVM "
+  },
+  {
+    "index": 22087,
+    "sanskrit": "kramaśas saṃcita śikhaḥ dharma buddhi mayaḥ mahān andhakāre praveṣṭavye dīpaḥ yatnena dhāryatām",
+    "english": "When thou art destined to enter into the dark, do thou hold up the blazing lamp made of righteous understanding and whose flame has been well-husbanded out.",
+    "morphology": "kramaśas_kramaśas_U saṃcita_saṃci_PaPsCp śikhaḥ_śikhā_SNM dharma_dharma_MCp buddhi_buddhi_FCp mayaḥ_maya_SNM mahān_mahat_SNM andhakāre_andhakāra_SLM praveṣṭavye_praviś_SLMGd"
+  }
+]

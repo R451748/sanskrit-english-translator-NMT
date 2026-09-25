@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24112,
+    "sanskrit": "citta cañcala saṃsāra ātmano na sukhāya te / śamamehi śamācchāntaṃ sukhaṃ sāramavāpyate //",
+    "english": "O my mind that art roving all about with the revolving world, know that such restlessness of thine, is not agreeable to peace of the soul;therefore rest thou in quiet from thy wanderings abroad.",
+    "morphology": "citta_citta_NeCp cañcala_cañcala_Cp saṃsāra_saṃsāra_MCp ātmanaḥ_ātman_SGM na_na_U sukhāya_sukha_SDNe te_tvad_SG  / śamam_śama_SAM ehi_e_SPr2Im śamāt_śama_SBM śāntam_śam_SNPaNe sukham_sukha_SNNe"
+  },
+  {
+    "index": 24113,
+    "sanskrit": "tasmāt indraḥ bhavān astu trailokyasya abhayaṃkaraḥ skandaḥ uvāca kim indraḥ sarva lokānām karoti iha tapodhanāḥ",
+    "english": "Therefore do thou become the Indra (lord) of the three worlds and remove their cause of apprehension.' Skanda replied, 'You gentlemen of great ascetic wealth (tell me) what Indra does with all three worlds and how that sovereign of the celestials protects the hosts of gods unremittingly.' The Rishis replied, 'Indra is the giver of strength, power, children and happiness to all creatures and when propitiated, that Lord of the celestials bestows on all the objects of their desire.",
+    "morphology": "tasmāt_tasmāt_U indraḥ_indra_SNM bhavān_bhavat_SNM astu_as_SPr3Im trailokyasya_trailokya_SGNe abhayaṃkaraḥ_abhayaṃkara_SNM skandaḥ_skanda_SNM uvāca_vac_SPs3In kim_ka_SANe indraḥ_indra_SNM sarva_sarva_Cp lokānām_loka_PGM karoti_kṛ_SPr3In"
+  },
+  {
+    "index": 24114,
+    "sanskrit": "kathaṃ hi nāma bhāvābhāvadharmo bhāvadharmasiddhāv abhāvākhyavipakṣavṛttivyavacchedalabhyam, bhāvād vya{vya---}bhicāritvalakṣaṇaṃ hetutvam anubhavet.",
+    "english": "because such a Reason would be ‘inconclusive’, How could any Reason which belongs to both positive and negative entities serve as proving the existence of an entity, which it could do only if it were inseparable from the entity, and if it were excluded from existence in the Negative Entity, which is present in cases where the contrary of the Probandum is present?",
+    "morphology": "katham_katham_ hi_hi_ nāma_nāma_ bhāva_bhāva_Cp abhāva_abhāva_Cp dharmaḥ_dharma_SNM bhāva_bhāva_Cp dharma_dharma_Cp siddhau_siddhi_SLF abhāva_abhāva_Cp ākhya_ākhya_Cp vipakṣa_vipakṣa_Cp vṛtti_vṛtti_Cp vyavaccheda_vyavaccheda_Cp labhya"
+  },
+  {
+    "index": 24115,
+    "sanskrit": "caturaṅgulatālusthaṃ makāraṃ rudravācakaṃ /",
+    "english": "The letter ma, expressive of lord Rudra, occupies the region of the palate for four aṅgulas.",
+    "morphology": "catur_catur_Cp aṅgula_aṅgula_Cp tālu_tālu_Cp sthaḥ_stha_SNM makāraḥ_makāra_SNM rudra_rudra_Cp vācakaḥ_vācaka_SNM  /"
+  },
+  {
+    "index": 24116,
+    "sanskrit": "yas tuupanatān hatvā baddhvā vā bhūmidravyaputradārān abhimanyeta tasyaudvignaṃ maṇḍalam abhāvāyauttiṣṭhate //",
+    "english": "Whoever covets the lands, things, sons, and wives of the kings whom he has either slain or bound in chains will cause provocation to the Circle of States and make it rise against himself;",
+    "morphology": "yaḥ_yad_SNM tu_tu_ upanatān_upanam_PAPaM hatvā_han_Co baddhvā_bandh_Co vā_vā_ bhūmi_bhūmi_Cp dravya_dravya_Cp putra_putra_Cp dārān_dāra_PAM abhimanyeta_abhiman_SPr3O tasya_tad_SGM audvignam_audvigna_SNNe maṇḍalam_maṇḍala_SNNe abhāvāya"
+  },
+  {
+    "index": 24117,
+    "sanskrit": "bhūtādibodhane śaktā codanaivāparaṃ natu /",
+    "english": "which cannot be done by any other Sense-organ” (Śabara-Bhāṣya 1.",
+    "morphology": "bhūta_bhūta_Cp ādi_ādi_Cp bodhane_bodhana_SLNe śaktā_śak_SNPaF codanā_codana_SNF eva_eva_ aparam_apara_SNNe na_na_ tu_tu_"
+  },
+  {
+    "index": 24118,
+    "sanskrit": "utthitastu divā tiṣṭhedupaviṣṭas tathā niśi //",
+    "english": "After getting up, one should stand during the day and sit during the night when practising the expiations.",
+    "morphology": "utthitaḥ_utthā_SNPaM tu_tu_ divā_divā_ tiṣṭhet_sthā_SPr3O upaviṣṭaḥ_upaviś_SNPaM tathā_tathā_ niśi_niś_SLF  /"
+  },
+  {
+    "index": 24119,
+    "sanskrit": "parasparaṃ caite boddhavyās tādṛśair eva tādṛśāḥ /",
+    "english": "Similarly with persons capable of moving in water, who should go about secretly, and hold secret commissions.",
+    "morphology": "parasparam_paraspara_SAM ca_ca_ ete_etad_PNM boddhavyāḥ_budh_PNMGd tādṛśaiḥ_tādṛśa_PIM eva_eva_ tādṛśāḥ_tādṛśa_PNM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12320,
+    "sanskrit": "śvetā mūtra kapha stanya rakta māṃsa karā surā",
+    "english": "The wine known as the Sura (made of rice-paste and other fermenting drugs) proves curative in cough, piles, chronic indigestion and diarrhea, and retention of urine.",
+    "morphology": "śvetā_śveta_SNF mūtra_mūtra_NeCp kapha_kapha_MCp stanya_stanya_NeCp rakta_rakta_Cp māṃsa_māṃsa_NeCp karā_kara_SNF surā_surā_SNF"
+  },
+  {
+    "index": 12321,
+    "sanskrit": "ayam api vakṣyamāṇasaṃkṣepapratijñānārthaḥ //",
+    "english": "This verse also is a brief indication of what follows.",
+    "morphology": "ayam_idam_SNM api_api_ vakṣyamāṇa_vac_PaFuCp saṃkṣepa_saṃkṣepa_Cp pratijñāna_pratijñāna_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 12322,
+    "sanskrit": "rakta akṣam su mahā nāsam sukarṇam sukaṭī taṭam",
+    "english": "Its face and hoofs and nose and ears were exceedingly beautiful and its waist too exceedingly well-formed.",
+    "morphology": "rakta_rakta_Cp akṣam_akṣa_SAM su_su_U mahā_mahat_Cp nāsam_nāsā_SAM sukarṇam_sukarṇa_SAM"
+  },
+  {
+    "index": 12323,
+    "sanskrit": "sa chinna dhanvā virathaḥ śīrṇa varmā śara arditaḥ apāyāsīt raṇāt tūrṇam dharmaputraḥ yudhiṣṭhiraḥ",
+    "english": "His armour cut off, himself deprived of car and afflicted with the shafts of Kritavarman, Dharma's son, Yudhishthira, quickly retreated from battle.",
+    "morphology": "sa_tad_SNM chinna_chid_PaPsCp dhanvā_dhanvan_SNM virathaḥ_viratha_SNM śīrṇa_śṛ_PaPsCp varmā_varman_SNM śara_śara_MCp arditaḥ_arday_SNPaPsM apāyāsīt_apayā_SPs3In raṇāt_raṇa_SBM tūrṇam_tūrṇam_U dharmaputraḥ_dharmaputra_SNM yud"
+  },
+  {
+    "index": 12324,
+    "sanskrit": "jalāgnibrāhmaṇādīnāṃ devānāṃ nābhimukhyataḥ | liṃgaṃ pidhāya vāmena mukhamanyena pāṇinā ||",
+    "english": "11. He must never sit in front of water, fire, a brahmin or the idol of any god. He must screen the penis with the left hand and the mouth with the right.",
+    "morphology": "jala_jala_Cp agni_agni_Cp brāhmaṇa_brāhmaṇa_Cp ādīnām_ādi_PGM devānām_deva_PGM nābhimukhyataḥ_nābhimukhya_SBNe  / liṃgam_liṅga_SANe pidhāya_pidhā_Co vāmena_vāma_SIM mukham_mukha_SANe anyena_anya_SIM pāṇinā_pāṇi_SIM  /"
+  },
+  {
+    "index": 12325,
+    "sanskrit": "abhighātāt kṣayāt kopāt śokāt dhyānāt śramāt kṣudhaḥ",
+    "english": "A blow, a persistent wasting disease, anger, grief, cares and anxieties, fatigue and hunger, are the causes to which should be ascribed the wasting or disappearance of this strength-giving principle (albumen) of the body.",
+    "morphology": "abhighātāt_abhighāta_SBM kṣayāt_kṣaya_SBM kopāt_kopa_SBM śokāt_śoka_SBM dhyānāt_dhyāna_SBNe śramāt_śrama_SBM kṣudhaḥ_kṣudh_SBF"
+  },
+  {
+    "index": 12326,
+    "sanskrit": "na cedaparādhyuktasyāpi naiva patati /",
+    "english": "and if the offence is not one for which the offender’s head should fall off, then, it would not fall, even on his being told so",
+    "morphology": "na_na_ ced_ced_ apara_apara_Cp adhi_adhi_ uktasya_vac_SGPaM api_api_ na_na_ eva_eva_ patati_pat_SPr3In  /"
+  },
+  {
+    "index": 12327,
+    "sanskrit": "ahaṃ ca khaḍgadaṃṣṭrākhyā kanīyasyasya rakṣasaḥ / bhaginī kanyakā dṛṣṭe tvayi sadyo 'nurāgiṇī //",
+    "english": "And I am the younger sister of this Rākṣasa, and unmarried, but the moment I saw you I fell in love with you.",
+    "morphology": "aham_mad_SN ca_ca_ khaḍgadaṃṣṭra_khaḍgadaṃṣṭra_Cp ākhyā_ākhyā_SNF kanīyasī_kanīyas_SNF asya_idam_SGNe rakṣasaḥ_rakṣas_SGNe  / bhaginī_bhaginī_SNF kanyakā_kanyakā_SNF dṛṣṭe_dṛś_SLPaM tvayi_tvad_SL sadyas_sadyas_ anu"
+  }
+]

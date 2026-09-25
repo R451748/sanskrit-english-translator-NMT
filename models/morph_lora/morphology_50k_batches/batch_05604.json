@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44824,
+    "sanskrit": "prayogaḥ yā yā bhinnavabhāsā buddhayastāḥ sarvā naikaviṣayāḥ, yathā rasarūpādiviṣayāḥ, bhinnanirbhāsāś ca deśakālādibhinnā gośabdavyaktibuddhaya iti vyāpakaviruddhopalabdhiḥ /",
+    "english": "Those Cognitions that appear as different cannot all envisage the same object, e.g. the cognitions envisaging Taste, Colour and so forth; and the cognitions of the individual ‘Cow-words’ appearing at different times and places appear as different;",
+    "morphology": "prayogaḥ_prayoga_SNM yāḥ_yad_PNF yāḥ_yad_PNF bhinna_bhid_PaCp avabhāsāḥ_avabhāsa_PNF buddhayaḥ_buddhi_PNF tāḥ_tad_PNF sarvāḥ_sarva_PNF na_na_ eka_eka_Cp viṣayāḥ_viṣaya_PNF yathā_yathā_ rasa_rasa_Cp rūpa_rūpa_Cp ādi_ādi_Cp "
+  },
+  {
+    "index": 44825,
+    "sanskrit": "pratīkārtho dvitīya itikaraṇaḥ padārthaviparyāsakṛt /",
+    "english": "\"Itīti\" the first \"iti\" is the opening word of the text referred to, and the second \"iti\" is meant to show that the former is the opening word of a text;and it serves to show that a different text is meant.",
+    "morphology": "__pratīka_U __artha_U __u_U __U __U __U __U"
+  },
+  {
+    "index": 44826,
+    "sanskrit": "gamyāni api ca tīrthāni kīrtitāni agamāni ca",
+    "english": "Of the tirthas that have been recited here, some are easily accessible, while others are difficult of access.",
+    "morphology": "gamāni_gam_PNNeGd"
+  },
+  {
+    "index": 44827,
+    "sanskrit": "sṛṣṭinyāso bhavettatra sa vai sargāvalambanāt / sravantaṃ cintayettasminnamṛtaṃ sāttvikottamaḥ //",
+    "english": "The location of the creation should be therein because of its suspension from that. The foremost worshipper should contemplate therein the flowing ambrosia.",
+    "morphology": "sṛṣṭi_sṛṣṭi_Cp nyāsaḥ_nyāsa_SNM bhavet_bhū_SPr3O tatra_tatra_ sa_tad_SNM vai_vai_ sarga_sarga_Cp avalambanāt_avalambana_SBNe  / sravantam_sru_SAPaPrM cintayet_cintay_SPr3O tasmin_tad_SLM amṛtam_amṛta_SANe sāttvika_sāttvika_Cp uttama"
+  },
+  {
+    "index": 44828,
+    "sanskrit": "rāgamādarśayantreṣa vāruṇīyogavardhitam | tirobhavati dharmāśuraṅgajastu vijṛmbhate ||",
+    "english": "\"Ragam ādarśayannesha vāruṇīyogavardhitam Tirobhavati gharmāmśurangajastu vijribhate (Exhibiting45 ] [ ii.",
+    "morphology": "rāgam_rāga_SAM ādarśa_ādarśa_Cp yantra_yantra_Cp īṣa_īṣa_SNM vāruṇī_vāruṇī_Cp yoga_yoga_Cp vardhitam_vardhay_SAPaM  /"
+  },
+  {
+    "index": 44829,
+    "sanskrit": "ubhayam sarva kāryeṣu dṛśyate sādhu asādhu ca",
+    "english": "Right or wrong, in all acts, something of both is seen.",
+    "morphology": "ubhayam_ubhaya_SNNe sarva_sarva_Cp kāryeṣu_kārya_PLNe dṛḥ_dṛḥ_SNNe"
+  },
+  {
+    "index": 44830,
+    "sanskrit": "caturvidhā kila dūratā /",
+    "english": "There are four, say the School: 62.",
+    "morphology": "ca_ca_"
+  },
+  {
+    "index": 44831,
+    "sanskrit": "svargāyuṣyayaśasyāni vratadhāraṇaphalāni kecid āhuḥ / ataś caitat phalārthino vrateṣv adhikāraḥ /",
+    "english": "\"Conducive to heaven, longevity and fame\" Some people have held that this mentions the results actually following from the keeping of the observances; and hence it is only persons desiring these results, that have to keep the observances.",
+    "morphology": "svarga_svarga_Cp āyuṣya_āyuṣya_Cp yaśasyāni_yaśasya_PANe vrata_vrata_Cp dhāraṇa_dhāraṇa_Cp phalāni_phala_PANe kecid_kaścit_PNM āhuḥ_ah_PPs3In  / atas_atas_ ca_ca_ etat_etad_SNNe phala_phala_Cp arthinaḥ_arthin_SGM vrateṣu_vrata_PLNe "
+  }
+]

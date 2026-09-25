@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29128,
+    "sanskrit": "etat asti idam asti iti na kim cit pratipadyate",
+    "english": "Whether this opinion is right or that is right, there is no means of settling.",
+    "morphology": "etat_etad_SNNe asti_as_SPr3In idam_idam_SNNe asti_as_SPr3In iti_iti_"
+  },
+  {
+    "index": 29129,
+    "sanskrit": "kṣantavyam putra dharmaḥ hi hataḥ hanti na saṃśayaḥ",
+    "english": "If thou destroy Dharma, verily Dharma will destroy thee.",
+    "morphology": "kṣantavyam_kṣam_SNNeGd putra_putra_SVM dharmaḥ_dharma_SNM hi_hi_U hataḥ_han_SNPaPsM hanti_han_SPr3In na_na_U saṃśayaḥ_saṃśaya_SNM"
+  },
+  {
+    "index": 29130,
+    "sanskrit": "gaccha saṃhara sarvāḥ tvam prajāḥ mā te vicāraṇā",
+    "english": "Go, destroy all creatures, thou needst have no scruples.",
+    "morphology": "gaccha_gam_SPr2Im saṃhara_saṃhṛ_SPr2Im sarvāḥ_sarva_PAF tvam_tvad_SN prajāḥ_prajā_PAF mā_mā_U te_tvad_SG"
+  },
+  {
+    "index": 29131,
+    "sanskrit": "anasūyovāca | tvatprasādena devarṣe varaṃ prāptāsmi durlabham | tena devāḥ praśaṃsanti siddhāśca ṛṣayo'malāḥ || 88 ||",
+    "english": "Anasūyā said: 88-100. With your favour, O celestial sage, I have obtained a rare boon. Hence the Devas, Siddhas and pure sages praise (us). Īśvara continued:",
+    "morphology": "anasūyā_anasūyā_SNF uvāca_vac_SPs3In  / tvad_tvad_Cp prasādena_prasāda_SIM deva_deva_Cp ṛṣe_ṛṣi_SVM varam_vara_SAM prāptā_prāp_SNPaF asmi_as_SPr1In durlabham_durlabha_SAM  / tena_tena_ devāḥ_deva_PNM praśaṃsanti_praśaṃs_PPr3In si"
+  },
+  {
+    "index": 29132,
+    "sanskrit": "tathā vadhabandhau śarīravatāṃ tatkṛtau /",
+    "english": "\"Fettering and killing\" involved in the obtaining of meat.",
+    "morphology": "tathā_tathā_ vadha_vadha_Cp bandhau_bandhu_SLM śarīravatām_śarīravat_PGM tad_tad_Cp kṛtau_kṛ_DuNPaM  /"
+  },
+  {
+    "index": 29133,
+    "sanskrit": "tataḥ śailaḥ sapatnīkaḥ pādau prakṣālya harṣitaḥ | bhavasya tena toyena siṣice svaṃ jagattathā || 68 ||",
+    "english": "68. Then, the Mountain accompanied by his wife, became delighted while washing the feet of Bhava. He sprinkled the water on himself and on all the people (present there).",
+    "morphology": "tatas_tatas_ śailaḥ_śaila_SNM sa_sa_ patnīkaḥ_patnīka_SNM pādau_pāda_DuAM prakṣālya_prakṣālay_Co harṣitaḥ_harṣay_SNPaM  / bhavasya_bhava_SGM tena_tad_SINe toyena_toya_SINe siṣice_sic_SPs3In svam_sva_SANe jagant_jagant_SANe tathā_ta"
+  },
+  {
+    "index": 29134,
+    "sanskrit": "nārada uvāca | kumāreṇa sthāpito'tra kumāreśastataḥ surāḥ | praṇamya guhamūcuśca prabaddhakarasaṃpuṭāḥ || 1 ||",
+    "english": "Nārada said: 1. Kumāreśa was installed here by Kumāra. Thereupon, Suras bowed down to Guha and said with palms joined together (in reverence):",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / kumāreṇa_kumāra_SIM sthāpitaḥ_sthāpay_SNPaM atra_atra_ kumāra_kumāra_Cp īśaḥ_īśa_SNM tatas_tatas_ surāḥ_sura_PNM  / praṇamya_praṇam_Co guham_guha_SAM ūcuḥ_vac_PPs3In ca_ca_ prabaddha_pra"
+  },
+  {
+    "index": 29135,
+    "sanskrit": "dṛṣṭvātha taṃ maheśānaṃ sa praṇamya kṛtāñjaliḥ | tuṣṭāva kaśyapo hṛṣṭo devatātaḥ prasa nnadhīḥ ||",
+    "english": "12. On seeing lord Śiva, the delighted Kaśyapa bowed to him with palms joined in reverence. Kaśyapa, the progenitor of the gods, eulogised him with contentment in his mind.",
+    "morphology": "dṛṣṭvā_dṛś_Co atha_atha_ tam_tad_SAM maheśānam_maheśāna_SAM sa_tad_SNM praṇamya_praṇam_Co kṛtāñjaliḥ_kṛtāñjali_SNM  / tuṣṭāva_stu_SPs3In kaśyapaḥ_kaśyapa_SNM hṛṣṭaḥ_hṛṣ_SNPaM devatātaḥ_devatā_SBF prasa_p"
+  }
+]

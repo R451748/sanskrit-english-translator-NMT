@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43016,
+    "sanskrit": "kṛtavān puṇḍarīkākṣaḥ saṃkarṣaṇasahāyavān // ity uvāca purā vyāsas tapodīrgheṇa cakṣuṣā / mahāyogī mahābuddhiḥ sarvapratyakṣadarśivān //",
+    "english": "Beholding with his eyes, rendered more powerful by ascetic penances, the deeds which the lotus-eyed Keshava performed with Sangkarshana's help in his boyhood, the highly intelligent and the great Yogin Vyasa, the witness of all, had already narrated them all -.",
+    "morphology": "kṛtavān_kṛ_SNPaM puṇḍarīkākṣaḥ_puṇḍarīkākṣa_SNM saṃkarṣaṇa_saṃkarṣaṇa_Cp sahāyavān_sahāyavat_SNM  // iti_iti_ uvāca_vac_SPs3In purā_purā_ vyāsaḥ_vyāsa_SNM tapaḥ_tapas_Cp dīrgheṇa_dīrgha_SINe cakṣuṣā_c"
+  },
+  {
+    "index": 43017,
+    "sanskrit": "atra me mahatī śaṅkā bhavet eṣa nalaḥ nṛpaḥ tathā ca me manaḥ tuṣṭiḥ hṛdayasya ca nirvṛtiḥ",
+    "english": "Having regard to the feeling of satisfaction my mind experienceth, and the delight my heart feeleth, I am greatly afraid this one is king Nala himself.",
+    "morphology": "atra_atra_U me_mad_SG mahatī_mahat_SNF śaṅkā_śaṅkā_SNF bhavet_bhū_SPr3O eṣa_etad_SNM nalaḥ_nala_SNM nṛpaḥ_nṛpa_SNM tathā_tathā_U ca_ca_U me_mad_SG manaḥ_manas_SNNe tuṣṭiḥ_tuṣṭi_SNF hṛdayasya_hṛdaya_SGNe ca_ca_U nirvṛ"
+  },
+  {
+    "index": 43018,
+    "sanskrit": "ātmaputrāya te śaṃbho ātmadauhitrakāya te | ityukte viṣṇunā sarve sādhusādhviti te jaguḥ || 77 ||",
+    "english": "77. “O Śambhu, to you the son of Ātman, to the grandson of Ātman”. When this was said by Viṣṇu, all of them said, “Well-done! Well-done!”",
+    "morphology": "ātma_ātman_Cp putrāya_putra_SDM te_tvad_SD śaṃbho_śambhu_SVM ātma_ātman_Cp dauhitrakāya_dauhitraka_SDM te_tvad_SD  / iti_iti_ ukte_vac_SLPaNe viṣṇunā_viṣṇu_SIM sarve_sarva_PNM sādhu_sādhu_Cp sādhu_sādhu_SNNe iti_iti_ te_tad_PNM jagu"
+  },
+  {
+    "index": 43019,
+    "sanskrit": "dināni daśa bhīṣmeṇa nighnatā tāvakam balam",
+    "english": "Indeed, numberless were the shafts that Bhishma shot in battle.",
+    "morphology": "dināni_dina_PANe daśa_daśan_SANe bhīṣmeṇa_bhīṣma_SIM nighnatā_nihan_SIPaPrM tāvakam_tāvaka_SANe balam_bala_SANe"
+  },
+  {
+    "index": 43020,
+    "sanskrit": "tadvajraṃ nijavajreṇa saṃsṛṣṭamiva sarvataḥ | tṛṇenābhihataṃ tena tiryagagraṃ papāta ha ||",
+    "english": "50. When he could not lift it up he hurled his thunderbolt at it in order to cut it. 51. The thunderbolt coming into contact with the grass appeared to clash with a steel and fell aside.",
+    "morphology": "tat_tad_SNNe vajram_vajra_SNNe nija_nija_Cp vajreṇa_vajra_SIM saṃsṛṣṭam_saṃsṛj_SNPaNe iva_iva_ sarvatas_sarvatas_  / tṛṇena_tṛṇa_SINe abhihatam_abhihan_SNPaNe tena_tad_SINe tiryañc_tiryañc_Cp agram_agra_SNNe papāta_pat_SPs3In ha_ha"
+  },
+  {
+    "index": 43021,
+    "sanskrit": "āpothya samayet bhagnam tatas bhagna vat ācaret",
+    "english": "In the case of a faulty union of a (fractured) bone lying between two joints (Kanda-bhagna), the union should be again disjointed, and the fractured bone should again be set right and treated as a case of ordinary fracture.",
+    "morphology": "āpothya_āpothay_Co samayet_samay_SPr3O bhagnam_bhagna_SANe tata_tatas_U"
+  },
+  {
+    "index": 43022,
+    "sanskrit": "sattva tyāgāt tu mātsaryam ahitāni ca sevate",
+    "english": "Malice proceeds from the abandonment of truth and indulgence in wickedness.",
+    "morphology": "sattva_sattva_NeCp tyāgāt_tyāga_SBM tu_tu_U"
+  },
+  {
+    "index": 43023,
+    "sanskrit": "viśām kavim viśpatim śaśvatīnām ni tośanam vr̥ṣabham carṣaṇīnām preti iṣaṇim iṣayantam pāvakam rājantam agnim yajatam rayīṇām",
+    "english": "Sage of mankind, all peoples' Lord and Master, the Bull of men, the sender down of blessings, Still pressing on, promoting, purifying, Agni the Holy One, the Lord of riches.",
+    "morphology": "viśām_viś_PGF kavim_kavi_SAM viśpatim_viśpati_SAM śaśvatīnām_śaśvat_PGF ni_ni_U tośanam_tośana_SAM vr̥ṣabham_vr̥ṣabha_SAM carṣaṇīnām_carṣaṇi_PGF preti_preti_U iṣaṇim_iṣaṇi_SAM iṣayantam_iṣay_SAPaPrM pāvakam_pāvaka"
+  }
+]

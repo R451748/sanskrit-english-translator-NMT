@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26000,
+    "sanskrit": "na rujā mama kāpi syācchūlasaṃprotite'gake | amṛtasrāvi tacchūlaṃ prabhāvātkasya śaṃsa me || 45 ||",
+    "english": "When all my limbs were impaled on the stake, I did not have any pain at all. That Śūla (Stake) appeared to exude nectar. Do tell me to what power it was due.",
+    "morphology": "na_na_ rujā_rujā_SNF mama_mad_SG kā_ka_SNF api_api_ syāt_as_SPr3O śūla_śūla_Cp saṃprotite_saṃprotay_SLPaM agake_agaka_SLM  / amṛta_amṛta_Cp srāvi_srāvin_SNNe tat_tad_SNNe śūlam_śūla_SNNe prabhāvāt_prabhāva_SBM kasya_ka_SGM śaṃsa"
+  },
+  {
+    "index": 26001,
+    "sanskrit": "vasudattotra ca vaṇiksutāṃ vasusutopamām | abdamabhyarcya vīreśaṃ ratnadattopyavāptavān || 15 ||",
+    "english": "115. After adoring Vīreśa here, Vasudatta, a Vaiśya, obtained a daughter comparable to the girls of Vasus (semi-divine beings); so did Ratnadatta as well.",
+    "morphology": "vasudattā_vasudattā_SNF utra_utra_ ca_ca_ vaṇij_vaṇij_Cp sutām_sutā_SAF vasu_vasu_Cp sutā_sutā_Cp upamām_upama_SAF  / abdam_abda_SAM abhyarcya_abhyarc_Co vīra_vīra_Cp īśam_īśa_SAM ratnadattā_ratnadattā_SNF api_api_ avāptavān_avāp_SNPa"
+  },
+  {
+    "index": 26002,
+    "sanskrit": "te samudram avatīrṇāḥ |",
+    "english": "They crossed the sea.",
+    "morphology": "te_tad_PNM samudram_samudra_SAM"
+  },
+  {
+    "index": 26003,
+    "sanskrit": "etatsaṃkṣepato devi māhātmyaṃ kīrtitaṃ tava | mūlacaṇḍīśadevasya śrutaṃ pātakanāśanam || 68 ||",
+    "english": "68. O goddess, thus the greatness of Mūlacaṇḍīśa Deva has been succinctly glorified. On being listened to, it is destructive of all sins.[Sanskrit text for this chapter is available]",
+    "morphology": "etat_etad_SNNe saṃkṣepataḥ_saṃkṣepa_SBM devi_devī_SVF māhātmyam_māhātmya_SNNe kīrtitam_kīrtay_SNPaNe tava_tvad_SG  / mūla_mūla_Cp caṇḍīśa_caṇḍīśa_Cp devasya_deva_SGM śrutam_śru_SNPaNe pātaka_pātaka_Cp nāśanam_nāśana_S"
+  },
+  {
+    "index": 26004,
+    "sanskrit": "atha vopabhogo'tra vedanāyā anubhavaḥ /",
+    "english": "Alternatively, in this context senseexperience refers to the experience of a sensation and when pleasure etc.",
+    "morphology": "atha_atha_ vā_vā_ upabhogaḥ_upabhoga_SNM atra_atra_ vedanāyāḥ_vedanā_SGF anubhavaḥ_anubhava_SNM  /"
+  },
+  {
+    "index": 26005,
+    "sanskrit": "sa tena nāga pravareṇa pārthivaḥ bhṛśam jagāhe dviṣatām anīkinīm purā su guptām vibudhaiḥ iva āhave",
+    "english": "Mounted on that foremost of elephants, king Bhagadatta penetrated the hostile army like the Asura Virochana in days of old into the celestial host in battle well-protected by the gods.",
+    "morphology": "sa_tad_SNM tena_tad_SIM nāga_nāga_MCp pravareṇa_pravara_SIM pārthivaḥ_pārthiva_SNM bhṛśam_bhṛśam_U jagāhe_gāh_SPs3In dviṣatām_dviṣ_PGPaPrM anīkinīm_anīkinī_SAF purā_purā_U su_su_U guptām_gup_SAPaPsF vibudhaiḥ_vibudha_PIM iva_i"
+  },
+  {
+    "index": 26006,
+    "sanskrit": "sūta uvāca | atra tatkathayiṣyāmi yanmayā pitṛtaḥ śrutam | vadato brāhmaṇeṃdrasya purā durvāsaso muneḥ || 42 ||",
+    "english": "42. In this context I shall tell you what has been heard from my father (i.e. Lomaharṣaṇa). He was expounding this to Sage Durvāsas.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / atra_atra_ tat_tad_SANe kathayiṣyāmi_kathay_SFu1In yat_yad_SNNe mayā_mad_SI pitṛtaḥ_pitṛ_SBM śrutam_śru_SNPaNe  / vadataḥ_vad_SGPaPrM brāhmaṇa_brāhmaṇa_Cp indrasya_indra_SGM purā_purā_ durvāsas"
+  },
+  {
+    "index": 26007,
+    "sanskrit": "kimartham ca viṣādaḥ te tat brūhi vadatām vara na śocitavyam viduṣā śokaḥ kārya vināśanaḥ",
+    "english": "O foremost of men what for is this grief of thine? Grief should not be indulged in, O foremost of learned persons! Grief is an impediment to action.",
+    "morphology": "kimartham_kimartham_U ca_ca_U viṣādaḥ_viṣāda_SNM te_tvad_SG tat_tad_SANe brūhi_brū_SPr2Im vadatām_vad_PGPaPrM vara_vara_SVM na_na_U śocitavyam_śuc_SNNeGd viduṣā_vidvas_SIM śokaḥ_śoka_SNM kārya_kārya_NeCp vināśanaḥ_vināśana_SNM"
+  }
+]

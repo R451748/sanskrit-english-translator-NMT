@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33416,
+    "sanskrit": "evam eva ca rāja indra vijñeyam jñeya cintakaiḥ",
+    "english": "This is even so, O king, as ascertained by men of knowledge.",
+    "morphology": "evam_evam_U"
+  },
+  {
+    "index": 33417,
+    "sanskrit": "na tu teṣāṃ kṣatriyāṇāṃ havirbhugityādigotratayā śrāddhādau vyapadeśam arhanti /",
+    "english": "These, Kṣatriya, etc, are not worthy of being called by such titles as \"Havirbhuk,\" and the like.",
+    "morphology": "na_na_ tu_tu_ teṣām_tad_PGM kṣatriyāṇām_kṣatriya_PGM havirbhuj_havirbhuj_SNM iti_iti_ ādi_ādi_Cp gotra_gotra_Cp tayā_tā_SIF śrāddha_śrāddha_Cp ādau_ādi_SLM vyapadeśam_vyapadeśa_SAM arhanti_arh_PPr3In  /"
+  },
+  {
+    "index": 33418,
+    "sanskrit": "adri bhiḥ sutaḥ mati bhiḥ canaḥ hitaḥ pra rocayan rodasī iti mātarā śuciḥ romāṇi avyā samayā vi dhāvati madhoḥ dhārā pinvamānā dive dive",
+    "english": "Pressed by the stones, with hymns, and graciously inclined, illuminating both the Parents, Heaven and Earth, He flows in ordered season onward through the flee, a current of sweet juice still swelling day by day.",
+    "morphology": "adri_adri_MCp bhiḥ_bhiḥ_U sutaḥ_su_SNPaPsM mati_mati_FCp bhiḥ_bhiḥ_U canaḥ_canas_NeCp hitaḥ_dhā_SNPaPsM pra_pra_U rocayan_rocay_SNPaPrM rodasī_rodas_DuANe iti_iti_U mātarā_mātṛ_DuAF śuciḥ_śuci_SNM romāṇi_roman_PANe avyā_avya_PA"
+  },
+  {
+    "index": 33419,
+    "sanskrit": "tataśca vākprāptā taiva bacīyaso syāt /",
+    "english": "As a matter of fact, it is your own theory that would be the more incongruous of the two.",
+    "morphology": "tatas_tatas_ ca_ca_ vāc_vāc_SNF prāptā_prāp_SNPaF tā_tad_SNF eva_eva_ bacīyasaḥ_bacīyas_SBM syāt_as_SPr3O"
+  },
+  {
+    "index": 33420,
+    "sanskrit": "kṛtvevaṃ cātmaśuddhiḥ syādvinyasyārcanamārabhet //",
+    "english": "One will be purifying one’s self by doing thus.",
+    "morphology": "kṛtvā_kṛ_Co evam_evam_ ca_ca_ ātma_ātman_Cp śuddhiḥ_śuddhi_SNF syāt_as_SPr3O vinyasya_vinyas_Co arcanam_arcana_SANe ārabhet_ārabh_SPr3O  /"
+  },
+  {
+    "index": 33421,
+    "sanskrit": "na guṇāḥ viduḥ ātmānam sa guṇān vetti sarvaśas",
+    "english": "The qualities do not know the Soul, but the Soul knows them all.",
+    "morphology": "na_na_U guṇāḥ_guṇa_PNM viduḥ_vid_PPs3In ātmānam_ātman_SAM sa_tad_SNM guṇān_guṇa_PAM vetti_vid_SPr3In sarvaśas_sarvaśas_U"
+  },
+  {
+    "index": 33422,
+    "sanskrit": "na sthūlo'smi na sūkṣmo'smi satyamasmi ca sundari / tejobimbātprayātena bhittāvapatitena ca //",
+    "english": "I am neither any gross or subtile matter, nor am I like a ray of the solar light, that emanates from the body of the sun, and falls below by traversing through the midday sky.",
+    "morphology": "na_na_ sthūlaḥ_sthūla_SNM asmi_as_SPr1In na_na_ sūkṣmaḥ_sūkṣma_SNM asmi_as_SPr1In satyam_satya_SNNe asmi_as_SPr1In ca_ca_ sundari_sundarī_SVF  / tejaḥ_tejas_Cp bimbāt_bimba_SBNe prayātena_prayā_SIPaM bhittau_bhitti_SLF apatitena_apatita_S"
+  },
+  {
+    "index": 33423,
+    "sanskrit": "mūrchāgataṃ tu tajjñātvā hyandhako niryayau gṛhāt | tāvatsthāṇuḥ kṣaṇāllabdhvā cetanāmāttakārmukaḥ || 20 ||",
+    "english": "20. Coming to know that he had fallen in a swoon Andhaka went out of the abode (?) In an instant Sthāṇu (Śiva) regained consciousness and took up his bow.",
+    "morphology": "mūrchā_mūrchā_Cp gatam_gam_SAPaM tu_tu_ tat_tad_SANe jñātvā_jñā_Co hi_hi_ andhakaḥ_andhaka_SNM niryayau_niryā_SPs3In gṛhāt_gṛha_SBNe  / tāvat_tāvat_ sthāṇuḥ_sthāṇu_SNM kṣaṇāt_kṣaṇa_SBM labdhvā_labh_Co cetanām_cetanā_S"
+  }
+]

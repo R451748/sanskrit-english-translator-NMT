@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37688,
+    "sanskrit": "tuṣṭuvuśca gaṇā vīra śipiviṣṭe praceṣṭitam | cakruḥ kutūhalaṃ sarve tasmiṃśca gamanotsavaiḥ ||",
+    "english": "10. During the festivities of their march, the Gaṇas eulogised the heroic Vīrabhadra who was carrying out the job of Śiva and they exhibited their enthusiasm.",
+    "morphology": "tuṣṭuvuḥ_stu_PPs3In ca_ca_ gaṇāḥ_gaṇa_PNM vīra_vīra_SVM śipiviṣṭe_śipiviṣṭa_SLM praceṣṭitam_praceṣṭita_SANe  / cakruḥ_kṛ_PPs3In kutūhalam_kutūhala_SANe sarve_sarva_PNM tasmin_tad_SLM ca_ca_ gamana_gamana_Cp utsavaiḥ"
+  },
+  {
+    "index": 37689,
+    "sanskrit": "iti uktvā vacanam kurvan vāsudevasya pāṇḍavaḥ tatas kṣurapram niśitam gāṇḍīve samayojayat",
+    "english": "I shall, however, for the sake of that Yadava warrior, achieve a most difficult feat.' Having said these words, in obedience to Vasudeva, the son of Pandu, fixed on Gandiva a sharp razor-headed arrow.",
+    "morphology": "iti_iti_U uktvā_vac_Co vacanam_vacana_SANe kurvan_kṛ_SNPaPrM vāsudevasya_vāsudeva_SGM pāṇḍavaḥ_pāṇḍava_SNM tatas_tatas_U kṣurapram_kṣurapra_SAM niśitam_niśā_SAPaPsM gāṇḍīve_gāṇḍīva_SLNe saṃ_saṃ_U"
+  },
+  {
+    "index": 37690,
+    "sanskrit": "taptahāṭakakeśāgrajvalatpāvakalocana / vajrādhikanakhasparśaṃ divyasiṃha namostu te //",
+    "english": "Salutations to you, the divine lion having manes of the hue of molten gold, eyes bright like the burning fire, and claws harder than thunderbolt to touch.",
+    "morphology": "tapta_tap_PaCp hāṭaka_hāṭaka_Cp keśa_keśa_Cp agra_agra_Cp jvalat_jval_PaPrCp pāvaka_pāvaka_Cp locana_locana_SVM  / vajra_vajra_Cp adhika_adhika_Cp nakha_nakha_Cp sparśam_sparśa_SNNe divya_divya_Cp siṃha_siṃha_SVM namaḥ_namas_SNNe as_as_SP"
+  },
+  {
+    "index": 37691,
+    "sanskrit": "vidhyantaram idam /",
+    "english": "\"Separately\" with proper partition.",
+    "morphology": "vidhi_vidhi_Cp antaram_antara_SNNe"
+  },
+  {
+    "index": 37692,
+    "sanskrit": "sa hi devaḥ paraṃ jyotis tamaḥpāre vyavasthitam / paricchinnaprabhāvarddhir na mayā na ca viṣṇunā //",
+    "english": "That God Siva is the supreme soul highest lustre reigning beyond the region of darkness the quality of Tamashe, the extent of whose prowess cannot be accurately gauged either by me or by Vishnu",
+    "morphology": "sa_tad_SNM hi_hi_ devaḥ_deva_SNM param_para_SNNe jyotiḥ_jyotis_SNNe tamaḥ_tamas_Cp pāre_pāra_SLM vyavasthitam_vyavasthā_SNPaNe  / paricchinna_paricchid_PaCp prabhāva_prabhāva_Cp ṛddhiḥ_ṛddhi_SNM na_na_ mayā_mad_SI na_na_ ca_ca_ viṣṇun"
+  },
+  {
+    "index": 37693,
+    "sanskrit": "jaladeśasthena bhānavīyena tejasā prasyandanadharmaṇā cākṣuṣaṃ tejaḥ pratisrotaḥ pravartitam pratyagnītaṃ sat savitāram ādityaṃ svadeṣṭhameva gṛhṇāti /",
+    "english": "The solar light in the vessel of Water which flows out makes the light of the Eyes turn back reflected backwards and hence, it apprehends the Sun in its own place.",
+    "morphology": "jala_jala_Cp deśa_deśa_Cp sthena_stha_SINe bhānavīyena_bhānavīya_SINe tejasā_tejas_SINe prasyandana_prasyandana_Cp dharmaṇā_dharman_SINe cākṣuṣam_cākṣuṣa_SNNe tejaḥ_tejas_SNNe pratisrotas_pratisrotas_ pravartitam_pravartay_SNPaNe prat"
+  },
+  {
+    "index": 37694,
+    "sanskrit": "pra skambha deṣṇāḥ anavabhra rādhasaḥ alātr̥ṇāsaḥ vidatheṣu su stutāḥ arcanti arkam madirasya pītaye viduḥ vīrasya prathamāni paiṁsyā",
+    "english": "The Maruts whose gifts are firm, whose bounties are never ceasing, who do not: revile 1, and who are highly praised at the sacrifices, they sing their song 2 for to drink the sweet juice: they know the first manly deeds of the hero (Indra).",
+    "morphology": "pra_pra_U skambha_skambha_MCp deṣṇāḥ_deṣṇa_PNM anavabhra_anavabhra_Cp rādhasaḥ_rādhas_PNM alātr̥ṇāsaḥ_alātr̥ṇa_PNM vidatheṣu_vidatha_PLNe su_su_U stutāḥ_stu_PNPaPsM arcanti_arc_PPr3In arkam_arka_SAM madirasya_madira_SGM pīta"
+  },
+  {
+    "index": 37695,
+    "sanskrit": "buddhīndriyāṇām ca tathā viśeṣāḥ iti naḥ śrutam",
+    "english": "Of the senses of knowledge and their object, the former constitute Vidya as has been heard by us.",
+    "morphology": "buddhīndriyāṇām_buddhīndriya_PGNe ca_ca_U tathā_tathā_U"
+  }
+]

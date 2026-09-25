@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2888,
+    "sanskrit": "atha ājagāma vipra ṛṣiḥ tadā dvādaśame ahani sa viditvā eva nṛpatim tapatyā hṛta mānasam",
+    "english": "The Brahmana sage Vasishtha came there on the twelfth day: that great Rishi of soul under perfect command knew at once by his ascetic power that the monarch had lost his senses in consequence of Tapati.",
+    "morphology": "atha_atha_U ājagāma_āgam_SPs3In vipra_vipra_MCp ṛṣiḥ_ṛṣi_SNM tadā_tadā_U dvādaśame_dvādaśama_SLNe ahani_ahar_SLNe sa_tad_SNM viditvā_vid_Co eva_eva_U nṛpatim_nṛpati_SAM tapatyā_tapatī_SIF hṛta_hṛ_PaPsCp mānasam_mānasa_SAM"
+  },
+  {
+    "index": 2889,
+    "sanskrit": "nadyadridroṇikuṇḍādikuñjānsaṃsevatastava | rājye prajāḥ susaṃpannāstvaṃ ca prīto bhaviṣyasi || 39 ||",
+    "english": "39-42. As you resort to the river, mountains, water-troughs, holy pits and groves, the subjects in your land shall be very affluent and you will be delighted.",
+    "morphology": "nadī_nadī_Cp adri_adri_Cp droṇi_droṇi_Cp kuṇḍa_kuṇḍa_Cp ādi_ādi_Cp kuñjān_kuñja_PAM saṃsevataḥ_saṃsev_SGPaPrM tava_tvad_SG  / rājye_rājya_SLNe prajāḥ_prajā_PNF su_su_ saṃpannāḥ_sampad_PNPaF tvam_tvad_SN ca_ca_ prītaḥ_"
+  },
+  {
+    "index": 2890,
+    "sanskrit": "ajayyāḥ pāṇḍavāḥ tāta devaiḥ api sa vāsavaiḥ",
+    "english": "Indeed, O son, the Pandavas are incapable of being vanquished by the very gods with Vasava at their head.",
+    "morphology": "ajayyāḥ_ajayya_PNM pāṇḍavāḥ_pāṇḍava_PNM tāta_tāta_SVM devaiḥ_deva_PIM api_api_U sa_sa_U vāsavaiḥ_vāsava_PIM"
+  },
+  {
+    "index": 2891,
+    "sanskrit": "atyaṃ na mihe vi nayanti vājinam utsaṃ duhanti stanayantam akṣitam |",
+    "english": "The strong steer they lead about as it were for rain; They milk the thundering and never-failing spring.",
+    "morphology": "atyam_atya_SAM na_na_ mihe_mih_In vi_vi_ nayanti_nī_PPr3In vājinam_vājin_SAM utsam_utsa_SAM duhanti_duh_PPr3In stanayantam_stanay_SAPaPrM akṣitam_akṣita_SAM"
+  },
+  {
+    "index": 2892,
+    "sanskrit": "vaṣaṭkāreṇa ca haviḥpradānārthatvādijyate na kevalayā yājyayā /",
+    "english": "There can be no such transference of the Eating because there is no Vedic declaration to that effect and certainly the removal of one thing does not necessarily imply the transference of the other as there.",
+    "morphology": "vaṣaṭkāreṇa_vaṣaṭkāra_SIM ca_ca_ haviḥ_havis_Cp pradāna_pradāna_Cp artha_artha_Cp tvāt_tva_SBNe ijyate_yaj_SPr3InPv na_na_ kevalayā_kevala_SIF yājyayā_yājyā_SIF  /"
+  },
+  {
+    "index": 2893,
+    "sanskrit": "nahuṣasya yayātiḥ tu rājarṣiḥ deva saṃmitaḥ",
+    "english": "Nahusha had for his son Yayati who was a royal sage equal to a celestial.",
+    "morphology": "nahuṣasya_nahuṣa_SGM yayātiḥ_yayāti_SNM tu_tu_U rājarṣiḥ_rājarṣi_SNM deva_deva_MCp saṃmitaḥ_saṃmā_SNPaPsM"
+  },
+  {
+    "index": 2894,
+    "sanskrit": "tamasaḥ tāmasāḥ bhāvāḥ vyāpi sattvam tathā ubhayam",
+    "english": "From that element in it which represented the principle of Rajas, sprang all mobile creatures endued with the principle of Pravritti or action.[390] From the element of Tamas in it, sprang all immobile creatures.",
+    "morphology": "tamasaḥ_tamas_SGNe tāmasāḥ_tāmasa_PNM bhāvāḥ_bhāva_PNM vyāpi_vyāpin_SNNe sattvam_sattva_SNNe tathā_tathā_U ubhayam_ubhaya_SNNe"
+  },
+  {
+    "index": 2895,
+    "sanskrit": "ubhayatovaiśvānaro gṛhyate tasmād ubhayataḥ prāṇās |",
+    "english": "therefore there are breaths on both sides, below and above.",
+    "morphology": "ubhayatas_ubhayatas_ vaiśvānaraḥ_vaiśvānara_SNM gṛhyate_grah_SPr3InPv tasmāt_tasmāt_ ubhayatas_ubhayatas_ prāṇāḥ_prāṇa_PNM"
+  }
+]

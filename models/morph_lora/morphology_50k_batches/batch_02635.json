@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21072,
+    "sanskrit": "mālatī puṣpa vṛnta agram chidram sarṣapa nirgamam",
+    "english": "It should be shaped like the stem of a Malati flower (in girth) at its top-end and provided with an aperture admitting the passage of a mustard seed.",
+    "morphology": "mālatī_māla_SNF"
+  },
+  {
+    "index": 21073,
+    "sanskrit": "bṛhaspatiḥ ca saṃvartam bādhate sma punar punar sa bādhyamānaḥ satatam bhrātrā jyeṣṭhena bhārata",
+    "english": "Vrihaspati began to worry Samvarta again and again.",
+    "morphology": "bṛhaspatiḥ_bṛhaspati_SNM ca_ca_U saṃvartam_saṃvarta_SAM bādhate_bādh_SPr3In sma_sma_U punar_punar_U punar_punar_U sa_tad_SNM bādhyamānaḥ_bādh_SNPaPrMPv satatam_satatam_U bhrātṛ_bhrātṛ_SNM"
+  },
+  {
+    "index": 21074,
+    "sanskrit": "kauravāsaṃjñisattvāśca matamāvaraṇatrayam //",
+    "english": "and bad realms of rebirth, and Asaṁjñisattvas and Kurus, are the threefold obstacle.",
+    "morphology": "kaurava_kaurava_Cp asaṃjñi_asaṃjñin_Cp sattvāḥ_sattva_PNM ca_ca_ matam_man_SNPaNe āvaraṇa_āvaraṇa_Cp trayam_traya_SNNe  /"
+  },
+  {
+    "index": 21075,
+    "sanskrit": "śrī nārada uvāca evam āśvāsya gopālān ratha stho yadu nandanaḥ śrīdāmādyais ca gopālaiḥ sahito harṣa pūritaḥ viveśa nanda nagaraṃ sūrye sindhu gate sati",
+    "english": "Śrī Nārada said: In this way Uddhava comforted the gopas. Then, as the sun was setting in the west, cheerful Uddhava, accompanied by Śrīdāma' and the gopas, entered Nanda's village.",
+    "morphology": "śrī_śrī_FCp nāradaḥ_nārada_SNM uvāca_vac_SPs3In evam_evam_U āśvāsya_āśvāsay_Co gopālān_gopāla_PAM ratha_ratha_MCp sthaḥ_stha_SNM yadu_yadu_MCp nandanaḥ_nandana_SNM śrīdāma_śrīdāma_Cp ādyaiḥ_ādya_PIM ca_ca_U gopālaiḥ_gopā"
+  },
+  {
+    "index": 21076,
+    "sanskrit": "tadeva hyabhipretaṃ punaranabhipretaṃ bhavatyāryāṇāṃ naivālpakāle /",
+    "english": "But one would say this same desire is no longer cherished by the Aryans when they obtain detachment.",
+    "morphology": "tat_tad_SNNe eva_eva_ hi_hi_ abhipretam_abhipre_SNPaNe punar_punar_ anabhipretam_anabhipreta_SNNe bhavati_bhū_SPr3In āryāṇām_ārya_PGM na_na_ eva_eva_ alpa_alpa_Cp kāle_kāla_SLM"
+  },
+  {
+    "index": 21077,
+    "sanskrit": "varāṅkuśadharau cobhau eko grīvāgato 'paraḥ / skandhau dvau ca dhānuṣkau dvau ca khaḍgadharau gaje //",
+    "english": "Two soldiers should be bearing excellent goads, one of them on the neck of the elephant and the other on the shoulder and two archers and two soldiers carrying the sword on the elephant.",
+    "morphology": "vara_vara_Cp aṅkuśa_aṅkuśa_Cp dharau_dhara_DuNM ca_ca_ ubhau_ubh_DuNM ekaḥ_eka_SNM grīvā_grīvā_Cp gataḥ_gam_SNPaM aparaḥ_apara_SNM  / skandhau_skandha_DuNM dvau_dvi_DuNM ca_ca_ dhānuṣkau_dhānuṣka_DuNM dvau_dvi_DuNM ca_ca_ khaḍga_kha"
+  },
+  {
+    "index": 21078,
+    "sanskrit": "rūpiṇaḥ santi nānātvakāyā ekatvasaṃjñinastadyathā devā brahmakāyikā ye tatprathamābhinirvṛttāḥ / iyaṃ dvitīyā vijñānasthitiḥ /",
+    "english": "Material beings different in bodies but of similar ideas, namely.",
+    "morphology": "rūpiṇaḥ_rūpin_PNM santi_as_PPr3In nānātva_nānātva_Cp kāyāḥ_kāya_PNM ekatva_ekatva_Cp saṃjñinaḥ_saṃjñin_PNM tat_tad_SNNe yathā_yathā_ devāḥ_deva_PNM brahmakāyikāḥ_brahmakāyika_PNM ye_yad_PNM tad_tad_Cp prathama_prathama_Cp a"
+  },
+  {
+    "index": 21079,
+    "sanskrit": "putratulyo'smi te bhadre sthite mayi ca nā'rhasi | kāyaṃ tyaktuṃ dharmahetumityādyairbahudhā'pi sā || 8 || naiva sthātuṃ manaścakre tena saṃstabhitā ratiḥ | dṛṣṭvā dārḍhyaṃ vasanto'pi citiṃ cakre sarittaṭe || 9 ||",
+    "english": "8-9. “O gentle lady, I am like a son unto you. When I am present, it does not behove you to cast off your body which is the means of achieving Dharma.” In spite of these and oṃer words of pacification in diverse ways, she did not feel inclined to remain alive, though Rati was restrained by him (Vasanta). On seeing her firm decision, Vasanta arranged the funeral pyre on the banks of the river.",
+    "morphology": "putra_putra_Cp tulyaḥ_tulya_SNM asmi_as_SPr1In te_tvad_SG bhadre_bhadra_SVF sthite_sthā_SLPaM mayi_mad_SL ca_ca_ nā_na_ arhasi_arh_SPr2In  / kāyam_kāya_SAM tyaktum_tyaj_In dharma_dharma_Cp hetum_hetu_SAM ityādyaiḥ_ityādya_PINe bahudhā_bahudhā_ "
+  }
+]

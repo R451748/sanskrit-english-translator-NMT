@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9672,
+    "sanskrit": "āśrame janitam brahman nītāḥ te nagaram mayā",
+    "english": "All of them were born in the ascetic's retreat. I took them to the capital.",
+    "morphology": "āśrame_āśrama_SLM janitam_janay_SNPaPsNe brahman_brahman_SVM"
+  },
+  {
+    "index": 9673,
+    "sanskrit": "yaḥ sragvy api / srag asyāstīti sragvī, kṛtakusumadāmā puruṣa ucyate /",
+    "english": "\"Even though garlanded\" One who wears a garland is called \"garlanded,\" ie, the man who wears a string of flowers.",
+    "morphology": "yaḥ_yad_SNM sragvī_sragvin_SNM api_api_  / sraj_sraj_SNF asya_idam_SGM asti_as_SPr3In iti_iti_ sragvī_sragvin_SNM kṛta_kṛ_PaCp kusuma_kusuma_Cp dāmā_dāman_SNM"
+  },
+  {
+    "index": 9674,
+    "sanskrit": "tāḍite vāhane rudrastaṃ kṣurapreṇa līlayā | khaḍgaṃ ciccheda tasyāśu carma cāpi mahojjvalam || chinne'sau carmaṇi tadā śaktiṃ cikṣepa so'suraḥ | dvidhā cakre svabāṇena harastāṃ saṃmukhāgatām ||",
+    "english": "12. When his bull was hit, Śiva sportively cut off the sword and the shining shield by means of his Kṣurapra. 13. When the shield was split, the Asura hurled his spear. Śiva split it into two with his arrow as it came before him.",
+    "morphology": "tāḍite_tāḍay_SLPaNe vāhane_vāhana_SLNe rudraḥ_rudra_SNM tam_tad_SAM kṣurapreṇa_kṣurapra_SIM līlayā_līlā_SIF  / khaḍgam_khaḍga_SAM ciccheda_chid_SPs3In tasya_tad_SGM āśu_āśu_ carma_carman_SANe ca_ca_ api_api_ mahā_mahat_Cp ujjva"
+  },
+  {
+    "index": 9675,
+    "sanskrit": "tam bhīmasenaḥ navabhiḥ śaraiḥ vivyādha māriṣa",
+    "english": "Bhimasena, however, O Bharata, pierced him in return with nine arrows.",
+    "morphology": "tam_tad_SAM bhīmasenaḥ_bhīmasena_SNM navabhiḥ_navan_PIM śaraiḥ_śara_PIM viḥ_vyadh_SPs3In"
+  },
+  {
+    "index": 9676,
+    "sanskrit": "manujassa pramattacāriṇo tahnāvaddhatimālutā iva |",
+    "english": "For a human who lives life heedlessly craving increases like a clinging creeper,",
+    "morphology": "__manuṣ_PNF"
+  },
+  {
+    "index": 9677,
+    "sanskrit": "tvayeyaṃ nagarī kāryā maṃdare parvatottame | praṣṭavyaḥ kāraṇaṃ nāhamavaśyaṃ tadbhaviṣyati || 110 ||",
+    "english": "110. “You should situate this city on Mandāra, the excellent mountain. You should not ask me the reason (for doing so). There certainly will be (some reason).",
+    "morphology": "tvayā_tvad_SI iyam_idam_SNF nagarī_nagarī_SNF kāryā_kṛ_SNFGd maṃdare_maṃdara_SLM parvata_parvata_Cp uttame_uttama_SLM  / praṣṭavyaḥ_pracch_SNMGd kāraṇam_kāraṇa_SANe na_na_ aham_mad_SN avaśyam_avaśyam_ tat_tad_SNNe bhaviṣyati_bhū"
+  },
+  {
+    "index": 9678,
+    "sanskrit": "agne patnīr ihā vaha devānām uśatīr upa / tvaṣṭāram̐ somapītaye //",
+    "english": "O Agni, bring thou hitherward the yearning Consorts of the Gods Bring Tvashtar to the Soma-draught. 21",
+    "morphology": "agne_agni_SVM patnīḥ_patnī_PAF iha_iha_ ā_ā_ vaha_vah_SPr2Im devānām_deva_PGM uśatīḥ_vaś_PAPaPrF upa_upa_  / tvaṣṭāram_tvaṣṭṛ_SAM"
+  },
+  {
+    "index": 9679,
+    "sanskrit": "vahanti sīm aruṇāsaḥ ruśantaḥ gāvaḥ su bhagām urviyā prathanām apa ījate śūraḥ astāiva śatrūn bādhate tamaḥ ajiraḥ na vol̥hā",
+    "english": "Red are the kine and luminous that bear her the Blessed One who spreadeth through the distance. The foes she chaseth like a valiant archer, like a swift warrior she repelleth darkness.",
+    "morphology": "vahanti_vah_PPr3In sīm_sīm_U aruṇāsaḥ_aruṇa_PNM ruśantaḥ_ruśat_PNM gāvaḥ_go_PNM su_su_U bhagām_bhaga_SAF urviyā_urviyā_U prathanām_prathana_SAF apa_apa_U ījate_yaj_PPr3In śūraḥ_śūra_SNM astāiva_astṛ_SNM iva_iva_U śatrūn_śat"
+  }
+]

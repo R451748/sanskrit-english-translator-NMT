@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12768,
+    "sanskrit": "na rājakulam ucchindyāt //",
+    "english": "Let him not extirpate the royal race",
+    "morphology": "na_na_ rāja_rājan_Cp kulam_kula_SANe ucchindyāt_ucchid_SPr3O"
+  },
+  {
+    "index": 12769,
+    "sanskrit": "matsyāvatāraṃ vakṣye 'haṃ vasiṣṭha śṛṇu vai hareḥ /",
+    "english": "O Vasiṣṭha! shall describe to you the manifestation of Hari as a Fish. Listen.",
+    "morphology": "matsya_matsya_Cp avatāram_avatāra_SAM vakṣye_vac_SFu1In aham_mad_SN vasiṣṭha_vasiṣṭha_SVM śṛṇu_śru_SPr2Im vai_vai_ hareḥ_hari_SGM  /"
+  },
+  {
+    "index": 12770,
+    "sanskrit": "na tu tvayā kṛtam pārtha na api duryodhanena vai",
+    "english": "This evil has neither been of thy own creation, nor of Duryodhana's.",
+    "morphology": "na_na_U tu_tu_U tvayā_tvad_SI kṛtam_kṛ_SNPaPsNe pārtha_pārtha_SVM"
+  },
+  {
+    "index": 12771,
+    "sanskrit": "sāpi taṃ nāmato 'nviṣya vivaśānaṅgamañjarī / tayā svayā samaṃ sakhyā prāviśad vāsakaṃ śanaiḥ //",
+    "english": "As for Anaṅgamañjarī, she inquired what his name was, and, having no will of her own, slowly entered the house with that confidante of hers.",
+    "morphology": "sā_tad_SNF api_api_ tam_tad_SAM nāmataḥ_nāman_SBNe anviṣya_anviṣ_Co vivaśa_vivaśa_Cp anaṅga_anaṅga_Cp mañjarī_mañjarī_SNF  / tayā_tad_SIF svayā_sva_SIF samam_samam_ sakhyā_sakhī_SIF prāviśat_praviś_S3ImIn vāsakam_vāsaka_SANe śa"
+  },
+  {
+    "index": 12772,
+    "sanskrit": "paśyasīvaitadakhilaṃ na ca paśyasi kiṃcana / sarvātmakatayā nityaṃ prakacasyātmanātmani //",
+    "english": "You seem to see all things about you, but you see nothing real in them; it is your all seeing soul, that sees every thing in itself.",
+    "morphology": "paśyasi_dṛś_SPr2In iva_iva_ etat_etad_SANe akhilam_akhila_SANe na_na_ ca_ca_ paśyasi_paś_SPr2In kiṃcana_kaścana_SANe  / sarva_sarva_Cp ātmaka_ātmaka_Cp tayā_tā_SIF nityam_nityam_ prakacasya_prakaca_SGM ātmanā_ātman_SIM ātmani_ātman_SLM  /"
+  },
+  {
+    "index": 12773,
+    "sanskrit": "teṣām aṣṭau mahā nāgān catuḥṣaṣṭyā su tejanaiḥ sahadevaḥ jaghāna āśu te petuḥ saha sādibhiḥ",
+    "english": "Then Sahadeva, with four and sixty impetuous arrows, quickly slew eight of those huge elephants which fell down with their riders.",
+    "morphology": "teṣām_tad_PGM aṣṭau_aṣṭan_PAM mahā_mahat_Cp nāgān_nāga_PAM catuḥṣaṣṭyā_catuḥṣaṣṭi_SIF su_su_U tejanaiḥ_tejana_PIM sahadevaḥ_sahadeva_SNM jaghāna_han_SPs3In āśu_āśu_U te_tad_PNM petuḥ_pat_PPs3In saha_saha_U sādibh"
+  },
+  {
+    "index": 12774,
+    "sanskrit": "bhavet pituḥ putra śatam mama aurasam kulasya saṃtāna karam ca yat bhavet tṛtīyam etam varayāmi te varam",
+    "english": "That he may have a hundred sons begotten of his loins, so that his line may be perpetuated, is the third boon I would ask of thee!' Yama said, Thy sire, O auspicious lady, shall obtain a hundred illustrious sons, who will perpetuate and increase their father's race! Now, O daughter of a king, thou hast obtained thy wish.",
+    "morphology": "bhavet_bhū_SPr3O pituḥ_pitṛ_SGM putra_putra_MCp śatam_śata_SNNe mama_mad_SG aurasam_aurasa_SNNe kulasya_kula_SGNe saṃtāna_saṃtāna_MCp karam_kara_SNNe ca_ca_U yat_yad_SNNe bhavet_bhū_SPr3O tṛtīyam_tṛtīya_SAM"
+  },
+  {
+    "index": 12775,
+    "sanskrit": "atha teṣāṃ vikalpenārthavattvaṃ tadaraṃ śākhāntarāṇāmeva vyavasthitapratipādyānāmanāṅavataraṃ parikalpitamityapunaruktatā / samāptivaca saṃprekṣā",
+    "english": "Similarly does the professor of each particular Rescension treat of the texts of other Rescensions. And every one of these professors equally recognizes the Agnihotra as mentioned in a single text this is what is meant by the nondifference in the method of declaration . them that the Agnihotra is originally spoken of, and those found in the rest are mere repetitions. To this effect it has been declared elsewhere Inasmuch as all Rescensions have a simultaneous existence, no one of them can be looked upon as a repetition of the other specially as there is no order of sequence in which the various Rescensions are to be studied, as there is in the study of the various portions of a single Rescension.",
+    "morphology": "atha_atha_ teṣām_tad_PGNe vikalpena_vikalpa_SIM arthavat_arthavat_Cp tvam_tva_SNNe tat_tad_SNNe aram_aram_ śākhā_śākhā_Cp antarāṇām_antara_PGNe eva_eva_ vyavasthita_vyavasthā_PaCp pratipādyānām_pratipāday_PGNeGd anāṅavataram_anāṅava"
+  }
+]

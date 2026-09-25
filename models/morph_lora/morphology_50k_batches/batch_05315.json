@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42512,
+    "sanskrit": "yadyapi smṛtipūrvakaṃ tat sādṛśyagrāhi jñānaṃ, tathāpi gavayasthatvena sannihitatvā [p.445] tsādṛśyamindriyagocaraḥ /",
+    "english": "Though it is true that the said cognition apprehending the similarity follows after the Remembrance (of the Cow), yet, because as residing in the Gavaya, it would be in proximity (to the senses), the similarity would be within reach of the senses.",
+    "morphology": "yadi_yadi_ api_api_ smṛti_smṛti_Cp pūrvakam_pūrvaka_SNNe tat_tad_SNNe sādṛśya_sādṛśya_Cp grāhi_grāhin_SNNe jñānam_jñāna_SNNe tathā_tathā_ api_api_ gavaya_gavaya_Cp stha_stha_Cp tvena_tva_SINe sannihita_saṃnidhā_PaCp tvāt_tva_SBNe "
+  },
+  {
+    "index": 42513,
+    "sanskrit": "tridaśākṣidiśānetrair lepāt krīḍecca patragaiḥ /",
+    "english": "One would be able to play with serpents by besmearing with herbs denoted by tri , daśa 0, akṣi , dik and netra .",
+    "morphology": "tridaśa_tridaśa_Cp akṣi_akṣi_Cp diśā_diśā_Cp netraiḥ_netra_PIM"
+  },
+  {
+    "index": 42514,
+    "sanskrit": "karmaṇaḥ su kṛtasya āhuḥ sāttvikam nirmalam phalam",
+    "english": "The fruit of good action is said to be good and untainted.",
+    "morphology": "karmaḥ_karman_SGNe su_su_U kṛtasya_kṛ_SGPaPsNe āhuḥ_ah_PPs3In"
+  },
+  {
+    "index": 42515,
+    "sanskrit": "bhikṣāpi yatra bhikṣubhyo dattāmalakasaṃmitā | sumeruṇāpi tulitā vārāṇasyāṃ gururbhavet || 16 ||",
+    "english": "116. The alms there at Kāśī offered to mendicants, even if it be of the size of a fruit of Emblic Myrobalan, shall be weightier, if weighed against Sumeru (mountain).",
+    "morphology": "bhikṣā_bhikṣā_SNF api_api_ yatra_yatra_ bhikṣubhyaḥ_bhikṣu_PDM dattā_dā_SNPaF āmalaka_āmalaka_Cp saṃmitā_saṃmā_SNPaF  / sumeruṇā_sumeru_SIM api_api_ tulitā_tulay_SNPaF vārāṇasyām_vārāṇasī_SLF"
+  },
+  {
+    "index": 42516,
+    "sanskrit": "tulāpuruṣamukhyaiśca dānaiśca śraddhayānvitaiḥ | deśakāle ca vidhinā pātrebhyaḥ pratipāditaiḥ || 6 || na yamairbrahmacaryādyairniyamairnārcanādibhi | śarīraśoṣaṇairugrairna tapobhirdvijottama || 7 ||",
+    "english": "106-109. Knowledge is not properly gained by any of these means: through gifts, of which Tulāpuruṣa (that is making gifts of things equal in weight to the donor) is the chief one even if they are done with faith, even if they are made in accordance with the injunctions, even if they are made over to the deserving persons at the proper place and time. (Knowledge is not obtained) through activities of restraint such as vow of celibacy etc., through worships etc., through severe austerities causing emaciation of the body, O excellent Brāhmaṇa.",
+    "morphology": "tulāpuruṣa_tulāpuruṣa_Cp mukhyaiḥ_mukhya_PINe ca_ca_ dānaiḥ_dāna_PINe ca_ca_ śraddhayā_śraddhā_SIF anvitaiḥ_anvita_PINe  / deśa_deśa_Cp kāle_kāla_SLM ca_ca_ vidhinā_vidhi_SIM pātrebhyaḥ_pātra_PDNe pratipāditaiḥ_pratipāday_PIP"
+  },
+  {
+    "index": 42517,
+    "sanskrit": "pramādamohau tamaso bhavato'jñānameva ca //'",
+    "english": "miscomprehension, delusion, and ignorance arise from tamas' .",
+    "morphology": "pramāda_pramāda_Cp mohau_moha_DuNM tamasaḥ_tamas_SBNe bhavataḥ_SGPaPrM ajñānam_ajñāna_SNNe eva_"
+  },
+  {
+    "index": 42518,
+    "sanskrit": "yenābhyāsaḥ parityakta iṣṭe vastuni so'dhamaḥ / kadācinna tadāpnoti vandhyā svatanayaṃ yathā //",
+    "english": "He is reckoned as too mean and vile a person, who does not accustom himself to practice, whatever is good and proper for him; he never acquires his object, but becomes as useless as a barren woman in the family.",
+    "morphology": "yena_yad_SIM abhyāsaḥ_abhyāsa_SNM parityaktaḥ_parityaj_SNPaM iṣṭe_iṣ_SLPaNe vastuni_vastu_SLNe saḥ_tad_SNM adhamaḥ_adhama_SNM  / kadācid_kadācid_ na_na_ tat_tad_SANe āpnoti_āp_SPr3In vandhyā_vandhyā_SNF sva_sva_Cp tanayam_tanaya_SAM y"
+  },
+  {
+    "index": 42519,
+    "sanskrit": "saṃjayaḥ uvāca iti uktaḥ dharmarājena tathā iti uktvā dhanaṃjayaḥ vyādideśa sva sainyāni svayam ca agāt camū mukham",
+    "english": "Let the other warriors of our army encounter our other foes.'\" \"Sanjaya continued, 'Thus addressed by Yudhishthira the just, Dhananjaya saying, \"So be it,\" ordered his troops (to do the needful) and himself proceeded to the head of the army.",
+    "morphology": "saṃjayaḥ_saṃjaya_SNM uvāca_vac_SPs3In iti_iti_U uktaḥ_vac_SNPaPsM dharmarājena_dharmarāja_SIM tathā_tathā_U iti_iti_U uktvā_vac_Co dhanaṃjayaḥ_dhanaṃjaya_SNM vyādideśa_vyādiś_SPs3In sva_sva_Cp sainyāni_sainya_PANe svayam_svayam_U c"
+  }
+]

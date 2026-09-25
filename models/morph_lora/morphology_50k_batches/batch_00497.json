@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3968,
+    "sanskrit": "tridhātvāśrayamārūpyasaṃjñaṃ śeṣaṃ manuṣyajam //",
+    "english": "the others, only by humans.",
+    "morphology": "tri_tri_Cp dhātu_dhātu_Cp āśrayam_āśraya_SNNe ārūpya_ārūpya_Cp saṃjñam_saṃjñā_SNNe śeṣam_śeṣa_SNNe manuṣya_manuṣya_Cp jam_ja_SNNe  /"
+  },
+  {
+    "index": 3969,
+    "sanskrit": "tutoṣa ca yathāvat ca pūjām prāpya yudhiṣṭhirāt",
+    "english": "Receiving that worship from Yudhishthira in proper form, the Rishi became gratified.",
+    "morphology": "tutoṣa_tuṣ_SPs3In_SPs3In"
+  },
+  {
+    "index": 3970,
+    "sanskrit": "ghṛtenākte vṛṣaṇaṃ dadhāthām |",
+    "english": "Anointed with ghee, do ye produce a male.",
+    "morphology": "ghṛtena_ghṛta_SINe akte_akta_DuNF"
+  },
+  {
+    "index": 3971,
+    "sanskrit": "svayam prahartā ādātā ca vaśya ātmā vaśya sādhanaḥ",
+    "english": "He Should have his soul under control.",
+    "morphology": "svayam_svayam_U"
+  },
+  {
+    "index": 3972,
+    "sanskrit": "tathā kurvan prāpnoti puruṣānṛtam, manuṣyaharaṇe yat pāpaṃ tat tasya bhavati //",
+    "english": "By doing this the father incurs the guilt of \"fraud towards men\"; ie, he incurs the same guilt that would be incurred by the kidnapping of a human being.",
+    "morphology": "tathā_tathā_ kurvan_kṛ_SNPaPrM prāpnoti_prāp_SPr3In puruṣa_puruṣa_Cp anṛtam_anṛta_SANe manuṣya_manuṣya_Cp haraṇe_haraṇa_SLNe yat_yad_SNNe pāpam_pāpa_SNNe tat_tad_SNNe tasya_tad_SGM bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 3973,
+    "sanskrit": "vaikuṇṭhaparameṣṭhyādi gīrvāṇa nibiḍīkṛte | na tatra me tapaḥ kartumavyākṣepeṇa śakyate || 45 ||",
+    "english": "45. It is a place thickly crowded by Gīrvāṇas (i.e. Devas) beginning with Viṣṇu and Brahmā. Hence, O Umā, it is not possible (for me) to perform penance there without distraction or hindrance.",
+    "morphology": "vaikuṇṭha_vaikuṇṭha_Cp parameṣṭhi_parameṣṭhin_Cp ādi_ādi_SNNe gīrvāṇa_gīrvāṇa_SVM nibiḍīkṛte_nibiḍīkṛ_SLPaNe  / na_na_ tatra_tatra_ me_mad_SG tapaḥ_tapas_SNNe kartum_kṛ_In a_a_ vyākṣepeṇa_vyākṣepa_SIM"
+  },
+  {
+    "index": 3974,
+    "sanskrit": "anādhṛṣyo jātavedā anādhṛṣṭo virāḍ agne kṣatrabhṛd dīdihīha / viśvā āśāḥ pramuñcan mānuṣīr bhayaḥ śivebhir adya pari pāhi no vṛdhe //",
+    "english": "Holder of sway, shine here refulgent, Agni! invincible, unconquered Jâtavedas. Light all the regions, chasing human terrors: with happy helps guard us to-day for increase.8",
+    "morphology": "anādhṛṣyaḥ_anādhṛṣya_SNM jātavedāḥ_jātavedas_SNM anādhṛṣṭaḥ_anādhṛṣṭa_SNM virāj_virāj_SNM agne_agni_SVM kṣatra_kṣatra_Cp bhṛt_bhṛt_SNM dīdihi_dīdī_SPr2Im iha_iha_  / viśvāḥ_viśva_PAF āśāḥ_āśā_PAF p"
+  },
+  {
+    "index": 3975,
+    "sanskrit": "na anṛtaḥ pāṇḍavaḥ jyeṣṭhaḥ na aham vā adhārmikaḥ arjuna",
+    "english": "I myself, O Arjuna, am not sinful.",
+    "morphology": "na_na_U anṛtaḥ_anṛta_SNM pāṇḍavaḥ_pāṇḍava_SNM jyeṣṭhaḥ_jyeṣṭha_SNM na_na_U aham_mad_SN vā_vā_U adhārmikaḥ_adhārmika_SNM arjuna_arjuna_SVM"
+  }
+]

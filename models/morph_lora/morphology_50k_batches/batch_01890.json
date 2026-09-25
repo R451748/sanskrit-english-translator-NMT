@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15112,
+    "sanskrit": "yat ca śaṃsanti śāstreṣu vadanti parama ṛṣayaḥ",
+    "english": "The great Rishis speak of it and applaud it in the scriptures.",
+    "morphology": "yat_yad_SANe ca_ca_U śaṃsanti_śaṃs_PPr3In śāstreṣu_śāstra_PLNe vadanti_vad_PPr3In"
+  },
+  {
+    "index": 15113,
+    "sanskrit": "rājānam anuvartante tam pāpa abhipravartakam",
+    "english": "Others, again, imitate that wretch who sets sin agoing.",
+    "morphology": "rāṣṭāḥ_rāṣṭrā_PNF"
+  },
+  {
+    "index": 15114,
+    "sanskrit": "manasā mā bhūtenā viśety āha mano vai prājāpatyam prajāpatyo yajño mana eva yajñam ātman dhatte vāg asy aindrī sapatnakṣayaṇī vācā mendriyeṇā viśety āhaindrī vai vāg vācam evāndrīm ātman dhatte |",
+    "english": "'Thou art mind derived from Prajapati [5], with mind and true existence do thou enter me', he says; mind is derived from Prajapati, the sacrifice is derived from Prajapati; verily he confers upon himself mind and the sacrifice. 'Thou art speech, derived from Indra, destroying the foe;",
+    "morphology": "manasā_manas_SINe mā_mad_SA bhūtena_bhū_SIPaNe ā_ā_ viśa_viś_SPr2Im iti_iti_ āha_ah_SPs3In manaḥ_manas_SNNe vai_vai_ prājāpatyam_prājāpatya_SNNe prajāpatyaḥ_prajāpatya_SNM yajñaḥ_yajña_SNM manaḥ_manas_SANe eva_eva_ yajñam_yajña_S"
+  },
+  {
+    "index": 15115,
+    "sanskrit": "dakṣiṇasyāṃ diśi hi yo girirbrahmeti saṃjñakaḥ | tatra tena tapastaptaṃ varṣāṇāma yutaṃ tathā ||",
+    "english": "3. A penance extending to ten thousand years was performed by him on the Brahmagiri[1] mountain in the southern quarter.",
+    "morphology": "dakṣiṇasyām_dakṣiṇa_SLF diśi_diś_SLF hi_hi_ yaḥ_yad_SNM giriḥ_giri_SNM brahmā_brahman_SNM iti_iti_ saṃjñakaḥ_saṃjñaka_SNM  / tatra_tatra_ tena_tad_SIM tapaḥ_tapas_SNNe taptam_tap_SNPaNe varṣāṇām_varṣa_PGM a_a_ yutam_yuta_S"
+  },
+  {
+    "index": 15116,
+    "sanskrit": "kāyakarma punaḥ dvividhaṃ vijñaptyākhyamavijñaptyākhyaṃ ca / evaṃ vākkarma cetanā ceti pañcavidhaṃ bhavati /",
+    "english": "of five types, cetana, bodily vijñapti, bodily avijñaptśi, vocal vi̥jñapti, and vocal avijñapti.",
+    "morphology": "kāya_kāya_Cp karma_karman_SNNe punar_punar_ dvividham_dvividha_SNNe vijñapti_vijñapti_Cp ākhyam_ākhyā_SNNe avijñapti_avijñapti_Cp ākhyam_ākhyā_SNNe ca_ca_  / evam_evam_ vāc_vāc_Cp karma_karman_SNNe cetanā_cetanā_SNF ca_ca_ iti_iti_ pañcavi"
+  },
+  {
+    "index": 15117,
+    "sanskrit": "evam eṣa kṣayaḥ vṛttaḥ kuru pāṇḍava senayoḥ aparāhṇe mahā rāja kāṅkṣantyoḥ vipulam jayam dhṛtarāṣṭraḥ uvāca",
+    "english": "Even thus occurred that destruction of troops of both the Kurus and the Pandavas, both parties having been actuated by the desire of winning great fame, at that hour when the Sun had passed the meridian.'\" \"Dhritarashtra said, 'I have heard from thee, O Sanjaya, of many poignant and unbearable griefs as also of the losses sustained by my sons.",
+    "morphology": "evam_evam_U eṣa_etad_SNM kṣayaḥ_kṣaya_SNM vṛttaḥ_vṛt_SNPaPsM kuru_kṛ_SPr2Im pāṇḍava_pāṇḍava_MCp senayoḥ_senā_DuGF aparāhṇe_aparāhṇa_SLM mahā_mahat_Cp rāja_rāja_MCp kāṅkṣantyoḥ_kāṅkṣ_DuGPaPrF vipulam_vipula_"
+  },
+  {
+    "index": 15118,
+    "sanskrit": "sthātavyaṃ ca tathātraiva ubhābhyāmapi sādaram | svapurasya prarakṣārthametatkṛtyaṃ mataṃ hi nau || 20 ||",
+    "english": "20. Further, both of you should eagerly stay here for the protection of your own city. This is the task (boon) thought of by us.",
+    "morphology": "sthātavyam_sthā_SNNeGd ca_ca_ tathā_tathā_ atra_atra_ eva_eva_ ubhābhyām_ubh_DuIM api_api_ sādaram_sādara_SANe  / sva_sva_Cp purasya_pura_SGNe prarakṣā_prarakṣā_Cp artham_artha_SAM etat_etad_SNNe kṛtyam_kṛtya_SNNe matam_man_SNPaNe hi_hi_ "
+  },
+  {
+    "index": 15119,
+    "sanskrit": "devatām uddiśya dravyasya svatvatyāgaḥ nedaṃ mama, devatāyā idam iti yāgaḥ / etac ca svarūpaṃ home 'py asti /",
+    "english": "When one renounces his proprietary right over a substance in favour of a certain deity, the idea in his mind being \"this belongs to the deity now, and not to me,\" this is what constitutes \"yāga\" \"sacrifice\"; and exactly the same is the form of \"Homa,\" \"Pouring of libation,\" also.",
+    "morphology": "devatām_devatā_SAF uddiśya_uddiś_Co dravyasya_dravya_SGNe sva_sva_Cp tva_tva_Cp tyāgaḥ_tyāga_SNM na_na_ idam_idam_SNNe mama_mad_SG devatāyāḥ_devatā_SGF idam_idam_SNNe iti_iti_ yāgaḥ_yāga_SNM  / etat_etad_SNNe ca_ca_ svarūpam_svarūpa_SNNe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41456,
+    "sanskrit": "pratyakṣam tava dharma jña tat me kathayataḥ śṛṇu",
+    "english": "Listen to me about that worship.",
+    "morphology": "pratyakṣam_pratyakṣa_SANe tava_tvad_SG dharma_dharma_MCp jña_jña_SVM"
+  },
+  {
+    "index": 41457,
+    "sanskrit": "vismitāḥ pāṃḍavāstaṃ ca pūjayitvā punaḥ punaḥ | yathoktavidhinā cakrustīrthasnānamataṃdritāḥ || 73 ||",
+    "english": "73. The Pāṇḍavas were surprised. They adored him again and again. They actively performed their holy bath and other rites in accordance with the injunctions.",
+    "morphology": "vismitāḥ_vismi_PNPaM pāṃḍavāḥ_pāṃḍava_PNM tam_tad_SAM ca_ca_ pūjayitvā_pūjay_Co punar_punar_ punar_punar_  / yathā_yathā_ ukta_vac_PaCp vidhinā_vidhi_SIM cakruḥ_kṛ_PPs3In tīrtha_tīrtha_Cp snānam_snāna_SANe ataṃdritāḥ_ata"
+  },
+  {
+    "index": 41458,
+    "sanskrit": "evamanye 'pi pudgalāḥ saṃbhavataḥ saṃkhyeyāḥ /",
+    "english": "The calculation relative to other saints is established according to the same elements, with the differences of title.",
+    "morphology": "evam_evam_ anye_anya_PNM api_api_ pudgalāḥ_pudgala_PNM saṃbhavataḥ_sambhava_SBM saṃkhyeyāḥ_saṃkhyā_PNMGd  /"
+  },
+  {
+    "index": 41459,
+    "sanskrit": "ato na sādhanaṃ yuktam aprāmāṇyanivṛttaye //",
+    "english": "hence for the denial of invalidity, no arguments are needed.",
+    "morphology": "atas_atas_ na_na_ sādhanam_sādhana_SNNe yuktam_yuj_SNPaNe a_a_ prāmāṇya_prāmāṇya_Cp nivṛttaye_nivṛtti_SDF  /"
+  },
+  {
+    "index": 41460,
+    "sanskrit": "upasargabhaye jāte tasya doṣaḥ praśāmyati | śanaiḥ śanairasaṃdigdhaṃ pippalādavaco yathā || 23 ||",
+    "english": "23. If there occurs adverse effect of divine calamity, it shall disappear gradually as Pippalāda himself has said.",
+    "morphology": "upasarga_upasarga_Cp bhaye_bhaya_SLNe jāte_jan_SLPaNe tasya_tad_SGM doṣaḥ_doṣa_SNM praśāmyati_praśam_SPr3In  / śanais_śanais_ śanais_śanais_ asaṃdigdham_asaṃdigdha_SANe pippalāda_pippalāda_Cp vacaḥ_vacas_SNNe yathā_yathā_"
+  },
+  {
+    "index": 41461,
+    "sanskrit": "ekaviṃśas taraṅgaḥ / sa trivikramaseno 'tha gatvā taṃ śiṃśapātaroḥ / bhūyo 'py āsādya vetālaṃ skandhe jagrāha bhūpatiḥ //",
+    "english": "THEN King Trivikramasena went to the śiṃśapā tree, and again got hold of the Vetāla, and took him on his shoulder;",
+    "morphology": "ekaviṃśaḥ_ekaviṃśa_SNM taraṅgaḥ_taraṃga_SNM  / sa_tad_SNM trivikramasenaḥ_trivikramasena_SNM atha_atha_ gatvā_gam_Co tam_tad_SAM śiṃśapā_śiṃśapā_Cp taroḥ_taru_SGM  / bhūyas_bhūyas_ api_api_ āsādya_āsāday_Co vetālam_vetā"
+  },
+  {
+    "index": 41462,
+    "sanskrit": "etatte kathitaṃ sarvaṃ yathāpṛṣṭaṃ mahīpate / jagadapratighaṃ sarvamidaṃ cinmātrakalpanam //",
+    "english": "Thus have answered fully to whatever you have asked of me; and now know from all this, that the sensible world is an intangible dream, and an air drawn spectacle of the mind.",
+    "morphology": "etat_etad_SNNe te_tvad_SG kathitam_kathay_SNPaNe sarvam_sarva_SNNe yathāpṛṣṭam_yathāpṛṣṭam_ mahīpate_mahīpati_SVM  / jagat_jagant_SNNe apratigham_apratigha_SNNe sarvam_sarva_SNNe idam_idam_SNNe cit_cit_Cp mātra_mātra_Cp kalpanam_kalpanā_"
+  },
+  {
+    "index": 41463,
+    "sanskrit": "tatra varṣaśataṃ sāgraṃ puṣṭiṃ nītā ajāḥ pṛthak | mahānidhānasaṃsthānamajāpālena nirmiṃtam || 20 ||",
+    "english": "20. The goats were nourished thus for more than a hundred years. A big place for storage was built by Ajāpāla.",
+    "morphology": "tatra_tatra_ varṣa_varṣa_Cp śatam_śata_SANe sāgram_sāgra_SANe puṣṭim_puṣṭi_SAF nītāḥ_nī_PNPaM ajāḥ_aja_PNM pṛthak_pṛthak_  / mahā_mahat_Cp nidhāna_nidhāna_Cp saṃsthānam_saṃsthāna_SNNe ajāpālena_ajāpāla_SIM nirmitam_"
+  }
+]

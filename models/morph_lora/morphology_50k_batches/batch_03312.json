@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26488,
+    "sanskrit": "athocyate anādir evaiṣā cikitsakasmṛtiḥ vyākaraṇādismṛtivat / saṃkṣepavistaravivakṣayaiva carakādayaḥ kartāraḥ na tu te sarvadarśinaḥ /",
+    "english": "Now, the Mimāṁsakas take an exception to the above hypo- thesis that God is the author of all works. They hold that the science of medicine has not been composed but is only remem- bered like the science of grammar and the like.",
+    "morphology": "atha_atha_ ucyate_vac_SPr3InPv anādiḥ_anādi_SNF eva_eva_ eṣā_etad_SNF cikitsaka_cikitsaka_Cp smṛtiḥ_smṛti_SNF vyākaraṇa_vyākaraṇa_Cp ādi_ādi_Cp smṛti_smṛti_Cp vat_vat_  / saṃkṣepa_saṃkṣepa_Cp vistara_vistara_Cp vivakṣayā"
+  },
+  {
+    "index": 26489,
+    "sanskrit": "ata eva ca saṃprāptajñānābhyāmambikākṛtam / smṛtvā śapāntamāvābhyāṃ dattaṃ te niśi darśanam //",
+    "english": "And therefore we, having attained insight, and remembering the end of the curse appointed by Pārvatī, appeared to you at night.",
+    "morphology": "atas_atas_ eva_eva_ ca_ca_ saṃprāpta_samprāp_PaCp jñānābhyām_jñāna_DuIM ambikā_ambikā_Cp kṛtam_kṛ_SAPaNe  / smṛtvā_smṛ_Co śapa_śapa_Cp antam_anta_SAM āvābhyām_mad_DuI dattam_dā_SNPaNe te_tvad_SG niśi_niś_SLF darśanam_darśana_"
+  },
+  {
+    "index": 26490,
+    "sanskrit": "yadi me tvaṃ prasanna'si ajarāmaratāṃ prabho | dehi me yadvijānāsi ajeyatvaṃ tathaiva ca || 30 ||",
+    "english": "30. “If you are pleased with me, grant me freedom from old age and death and give me invincibility too as you know it.”",
+    "morphology": "yadi_yadi_ me_mad_SG tvam_tvad_SN ajara_ajara_Cp amara_amara_Cp tām_tā_SAF prabho_prabhu_SVM  / dehi_dā_SPr2Im me_mad_SG yat_yad_SANe vijānāsi_vijñā_SPr2In ajeya_ajeya_Cp tvam_tva_SANe tathā_tathā_ eva_eva_ ca_ca_"
+  },
+  {
+    "index": 26491,
+    "sanskrit": "devā ūcuḥ | tvamagne sarvabhūtānāmaṃtaścarasi pāvaka | tvayā hīnaṃ jagatsarvaṃ nāśaṃ yāsyati satvaram || 28 ||",
+    "english": "The gods said:",
+    "morphology": "devāḥ_deva_PNM ūcuḥ_vac_PPs3In  / tvam_tvad_SN agne_agni_SVM sarva_sarva_Cp bhūtānām_bhūta_PGNe antar_antar_ carasi_car_SPr2In pāvaka_pāvaka_SVM  / tvayā_tvad_SI hīnam_hā_SNPaNe jagant_jagant_SNNe sarvam_sarva_SNNe nāśam_nāśa_SAM yāsyat"
+  },
+  {
+    "index": 26492,
+    "sanskrit": "api ca /",
+    "english": "Further,.",
+    "morphology": "api_api_ "
+  },
+  {
+    "index": 26493,
+    "sanskrit": "prasravaṇeṣu //",
+    "english": "And near waterfalls;",
+    "morphology": "prasravaṇeṣu_prasravaṇa_PLNe"
+  },
+  {
+    "index": 26494,
+    "sanskrit": "smṛtiśca 'brahmavijñānalābhāya parahaṃsasamāhvayaḥ / śāntidāntyādibhiḥ sarvaiḥ sādhanaiḥ sahito bhavet //iti //",
+    "english": "There is a smrti also: one who is named as a paramahamsa should acquire the qualities such as control of mind, body, and the senses, which are considered the means to the realization of the knowledge of Brahman' .",
+    "morphology": "smṛtiḥ_smṛti_SNF ca_ca_ a_a_ brahma_brahman_Cp vijñāna_vijñāna_Cp lābhāya_lābha_SDM para_para_Cp haṃsa_haṃsa_Cp samāhvayaḥ_samāhvaya_SNM  / śānti_śānti_Cp dānti_dānti_Cp ādibhiḥ_ādi_PINe sarvaiḥ_sarva_PINe sādhanaiḥ_sād"
+  },
+  {
+    "index": 26495,
+    "sanskrit": "mām ca kṛṣṇa samāśritya kṛtaḥ śastra samudyamaḥ duryodhanena vārṣṇeya vigrahaḥ ca api pāṇḍavaiḥ",
+    "english": "Obtaining me, O Krishna, Duryodhana hath, O thou of Vrishni's race, made this preparations for an armed encounter and provoked hostilities with the sons of Pandu.",
+    "morphology": "mām_mad_SA ca_ca_U kṛṣṇa_kṛṣṇa_SVM samāśritya_samāśri_Co kṛtaḥ_kṛ_SNPaPsM śastra_śastra_NeCp samudyamaḥ_samudyama_SNM duryodhanena_duryodhana_SIM vārṣṇeya_vārṣṇeya_MCp vigrahaḥ_vigraha_SNM ca_ca_U api_api_U pāṇḍa"
+  }
+]

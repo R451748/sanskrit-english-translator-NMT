@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6824,
+    "sanskrit": "anyatra tatkālikātkāyabāhyapratyayaviśeṣāt /",
+    "english": "Except, of course, at the moment when other ideas are produced by a certain state of the body or by certain external objects.",
+    "morphology": "anyatra_anyatra_"
+  },
+  {
+    "index": 6825,
+    "sanskrit": "na yāti nirayam kaḥ cit iti dharma vidaḥ viduḥ",
+    "english": "That is what the righteous say.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 6826,
+    "sanskrit": "ājāneyāḥ vahanti tvām kasmāt śocasi putraka duryodhanaḥ uvāca",
+    "english": "Why then hast thou become pale and emaciated?' Duryodhana said, 'Ten thousands of high-souled Snataka Brahmanas daily eat at Yudhishthira's palace off plates of gold.",
+    "morphology": "ājāneyāḥ_ājāneya_PNM vahanti_vah_PPr3In tvām_tvad_SA"
+  },
+  {
+    "index": 6827,
+    "sanskrit": "tathāsti tatra tatsarvaṃ saṃsthānaṃ vastuto yathā / upalāntaḥ saṃniveśo nānātmāpyekapiṇḍatām //",
+    "english": "All things in the world appear to be situated exactly in the same state, as the various figures carved on the breast of a stone, seem to be separate though they are bellied in the same relief.",
+    "morphology": "tathā_tathā_ asti_as_SPr3In tatra_tatra_ tat_tad_SNNe sarvam_sarva_SNNe saṃsthānam_saṃsthāna_SNNe vastutas_vastutas_ yathā_yathā_  / upala_upala_Cp antar_antar_ saṃniveśaḥ_saṃniveśa_SNM nānā_nānā_ ātmā_ātman_SNM api_api_ eka_eka_Cp"
+  },
+  {
+    "index": 6828,
+    "sanskrit": "citraṃ devānāmiti ca tathānyattasya vallabham | haṃsaḥ śuciṣadityuktaṃ tataścāpi praharṣadam || 129 || pāvamānaṃ tathā sūktaṃ ye paṭhiṣyaṃti bahvṛcaḥ | ityeṣāmādyamevaṃ tu te yāsyaṃti parāṃ gatim || 130 ||",
+    "english": "128-135. (His advice in brief:) The Brāhmaṇas of Ṛk Śākhā should recite at least these Sūktas, the Sūkta beginning with rathaṃ yuñjanti: the Sūkta beginning with Triṣṭubh, that beginning with citram devānām (RV. I. 115), haṃsaḥ śuciṣat, etc. and also the Pāvamāna Sūkta commonly recited by Bahvṛcs (persons conversant with many Ṛk Mantras).",
+    "morphology": "citram_citra_SNNe devānām_deva_PGM iti_iti_ ca_ca_ tathā_tathā_ anyat_anya_SNNe tasya_tad_SGM vallabham_vallabha_SNNe  / haṃsaḥ_haṃsa_SNM śuciṣad_śuciṣad_SNM iti_iti_ uktam_vac_SNPaNe tatas_tatas_ ca_ca_ api_api_ praharṣa_praharṣa_Cp da"
+  },
+  {
+    "index": 6829,
+    "sanskrit": "dhārayan tu sa tān bāṇān śikhaṇḍī bahu aśobhata rājataḥ parvataḥ yadvat tribhiḥ śṛṅgaiḥ samanvitaḥ",
+    "english": "With those three arrows sticking on his forehead, Shikhandi looked highly beautiful like a silver mountain with three elevated crests.",
+    "morphology": "dhārayan_dhāray_SNPaPrM tu_tu_U sa_tad_SNM tān_tad_PAM bāṇān_bāṇa_PAM śikhaṇḍī_śikhaṇḍin_SNM bahu_bahu_SANe aśobhata_śubh_SPs3In rājataḥ_rājata_SNM parvataḥ_parvata_SNM yadvat_yadvat_U tribhiḥ_tri_PINe śṛṅgaiḥ_śṛṅ"
+  },
+  {
+    "index": 6830,
+    "sanskrit": "vīryaṃ katamat kausīddyapratipakṣaḥ kuśale cetaso bhyutsāhaḥ praśrabdhiḥ katamā dauṣṭhulyapratipakṣaḥ kāyacittakarmaṇyatā",
+    "english": "And what is vigor? It is the antidote to sloth, and is enthusiasm of citta towards the beneficial. And what is tranquility? It is the antidote to a situation of susceptibility to harm, and is a skill in bodily and mental action.",
+    "morphology": "vīryam_vīrya_SNNe katamat_katama_SNNe kausīddya_kausīddya_Cp pratipakṣaḥ_pratipakṣa_SNM kuśale_kuśala_SLNe cetasaḥ_cetas_SGNe bhyutsāhaḥ_bhyutsāha_SNM praśrabdhiḥ_praśrabdhi_SNF katamā_katama_SNF dauṣṭhulya_dauṣṭhulya_Cp prat"
+  },
+  {
+    "index": 6831,
+    "sanskrit": "iti śrīśivamahāpurāṇe pañcamyāmumāsaṃhitāyāṃ vaivasvatavaṃśodbhavarājavarṇanaṃ nāmaikonacatvāriṃśo'dhyāyaḥ ||",
+    "english": "[Sanskrit text for this chapter is available]",
+    "morphology": "iti_iti_ śrī_śrī_Cp śiva_śiva_Cp mahāpurāṇe_mahāpurāṇa_SLNe pañcamyām_pañcama_SLF umāsaṃhitāyām_umāsaṃhitā_SLF vaivasvata_vaivasvata_Cp vaṃśa_vaṃśa_Cp udbhava_udbhava_Cp rājavarṇanam_rājavarṇana_SNNe nāma_nāma_ ekona"
+  }
+]

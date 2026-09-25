@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16008,
+    "sanskrit": "sādhutvāsādhutvayorananuṣṭhānātmakatvādvidhipratiṣedhaviṣayatvam /",
+    "english": "It is only an indistinct sound, or single letters, or a conglomeration of letters without any reference to their signification, as for instance, the letters of the alphabet repeated by the boy, that can be said to be incorrect asădhu.",
+    "morphology": "__sādhu_U __tva_U __asādhu_U __tva_U __na_U __na_U __"
+  },
+  {
+    "index": 16009,
+    "sanskrit": "āsīd gajāhvaye vaiśyo rāja mārga patiḥ paraḥ mahā gaurava samyukto nidhīśo dhanado yathā",
+    "english": "In Hastināpura there was a great, generous, respectful, and very wealthy merchant.",
+    "morphology": "āsīt_as_SPs3In gajāhvaye_gajāhvaya_SLNe vaiśyaḥ_vaiśya_SNM rāja_rājan_MCp mārga_mārga_MCp patiḥ_pati_SNM paraḥ_para_SNM mahā_mahat_Cp gaurava_gaurava_NeCp samyuktaḥ_samyuj_SNPaPsM"
+  },
+  {
+    "index": 16010,
+    "sanskrit": "vadhū caturthaḥ vṛddhaḥ sa dharma ātmā niyata indriyaḥ",
+    "english": "Of righteous soul, and with senses under complete control, he adopted the mode of living that is followed by a parrot.",
+    "morphology": "vadhū_vadhū_FCp caṇḍīḥ_caṇḍī_FCp"
+  },
+  {
+    "index": 16011,
+    "sanskrit": "krośamānam bhaya udvignam trātāram na adhyagacchata",
+    "english": "And driven (from the asylum) twenty-seven full miles, panic-stricken, they shrieked aloud and beheld not anyone that could protect them.",
+    "morphology": "krośamānaḥ_kruś_SNPaPrNe"
+  },
+  {
+    "index": 16012,
+    "sanskrit": "tahnāṃ samūlāṃ khaṇatha uṣīrātthī va beruṇiṃ |",
+    "english": "dig up the root of craving, like one seeking the root digs up grass,",
+    "morphology": "sa_sa_ ḥ_ḥ_"
+  },
+  {
+    "index": 16013,
+    "sanskrit": "yūyam jijñāsavaḥ bhaktāḥ katham drakṣyatha tam prabhum kṣīrodadheḥ uttaratas śvetadvīpaḥ mahā prabhaḥ",
+    "english": "Devoted unto Narayana, ye seek to know how ye may succeed in beholding that god of great puissance! On the northern shores of the Ocean of Milk there is an island of great splendour called by the name of White Island.",
+    "morphology": "yūyam_tvad_PN jijñāsavaḥ_jijñāsu_PNM bhaktāḥ_bhakta_PNM katham_katham_U drakṣyatha_dṛś_PFu2In tam_tad_SAM prabhum_prabhu_SAM kṣīrodadheḥ_kṣīrodadhi_SGM uttaratas_uttaratas_U śvetadvīpaḥ_śvetadvīpa_SNM mahā_mahat_Cp prabhaḥ_p"
+  },
+  {
+    "index": 16014,
+    "sanskrit": "aśaknuvat nalaḥ kāmam tadā dhārayitum hṛdā",
+    "english": "And then Nala was unable to control the love that was in his bosom.",
+    "morphology": "aśaknuvat_aśaknuvat_SNM"
+  },
+  {
+    "index": 16015,
+    "sanskrit": "ahaṃ tvāṃ preṣayiṣyāmi yamamārge sudāruṇe | ahamanveṣayiṣyāmi kila yāsyāmi te gṛham || 9 || upanīto'si kālena saṅgrāme mama keśava | ye tvayā nirjitāḥ pūrvaṃ dānavā apyanekaśaḥ || 10 || na bhavanti pumāṃsaste striyastāścaiva keśava | paraṃ na śastrasaṅgrāmaṃ kariṣyāmi tvayā saha || 11 ||",
+    "english": "I am going to send you along the terrible path of Yama. I have been searching for you and was about to proceed1 towards your abode. But, O Keśava, you have been brought into a straight fight with me by Kāla. All those many Dānavas who were defeated earlier by you were not men, they were only women, O Keśava. But I will not fight with you by means of any weapon.",
+    "morphology": "aham_mad_SN tvām_tvad_SA preṣayiṣyāmi_preṣay_SFu1In yama_yama_Cp mārge_mārga_SLM su_su_ dāruṇe_dāruṇa_SLM  / aham_mad_SN anveṣayiṣyāmi_anveṣay_SFu1In kila_kila_ yāsyāmi_yā_SFu1In te_tvad_SG gṛham_gṛha_SANe  / upanītaḥ_upan"
+  }
+]

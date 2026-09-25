@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3008,
+    "sanskrit": "na ca bhīṣmaḥ na ca droṇaḥ na aśvatthāmā na saṃjayaḥ na somadattaḥ na śalyaḥ na kṛpaḥ yuddham icchati satyavrataḥ purumitraḥ jayaḥ bhūriśravāḥ tathā",
+    "english": "I myself do not desire war, nor Vahlika, nor Bhishma, nor Drona, nor Aswatthaman, nor Sanjaya, nor Somadatta, nor Salya, nor Kripa, nor Satyavrata, nor Purumitra, nor Bhurisravas,--in fact, none of these desireth war.",
+    "morphology": "na_na_U ca_ca_U bhīṣmaḥ_bhīṣma_SNM na_na_U ca_ca_U droṇaḥ_droṇa_SNM na_na_U aśvatthāmā_aśvatthāman_SNM na_na_U saṃjayaḥ_saṃjaya_SNM na_na_U somadattaḥ_somadatta_SNM na_na_U śalyaḥ_śalya_SNM na_na_U kṛpaḥ_kṛpa_SNM yuddha"
+  },
+  {
+    "index": 3009,
+    "sanskrit": "vyādha uvāca | yadi tuṣṭo'si deveśa yadi deyo varo mama | tava pārśve mahādeva vāso me pratidīyatām || 5 ||",
+    "english": "Vyādha said: O Lord of Devas, if you are pleased, if a boon is to be granted to me, let my stay beside you be granted to me, O Mahādeva. Īśvara said:",
+    "morphology": "vyādhaḥ_vyādha_SNM uvāca_vac_SPs3In  / yadi_yadi_ tuṣṭaḥ_tuṣ_SNPaM asi_as_SPr2In deveśa_deveśa_SVM yadi_yadi_ deyaḥ_dā_SNMGd varaḥ_vara_SNM mama_mad_SG  / tava_tvad_SG pārśve_pārśva_SLM mahādeva_mahādeva_SVM vāsaḥ_vāsa_SNM"
+  },
+  {
+    "index": 3010,
+    "sanskrit": "tataśca gautamastaṃ vai vṛṣṭiṃ ca prārthayattadā | tatassa varuṇastaṃ vai pratyuvāca muniṃ dvijāḥ ||",
+    "english": "10. O brahmins, then Gautama requested him for rain. Then Varuṇa replied to the sage.",
+    "morphology": "tatas_tatas_ ca_ca_ gautamaḥ_gautama_SNM tam_tad_SAM vai_vai_ vṛṣṭim_vṛṣṭi_SAF ca_ca_ prārthayat_prārthay_S3ImIn tadā_tadā_  / tatas_tatas_ sa_tad_SNM varuṇaḥ_varuṇa_SNM tam_tad_SAM vai_vai_ pratyuvāca_prativac_SPs3In munim_muni_SA"
+  },
+  {
+    "index": 3011,
+    "sanskrit": "nityanaimittikair devaṃ ye yajanti janārdanam //",
+    "english": "Those who worship Janārdana with obligatory and occasional rites are not to be beheld by you.",
+    "morphology": "__nitya_U __naimittika_U __deva_U __yad_U __yaj_PPr3In __janārdana_U"
+  },
+  {
+    "index": 3012,
+    "sanskrit": "bhoktaiva bhogyabhāvena dvaividhyātsaṃvyavasthitaḥ | ghaṭasya na hi bhogyatvaṃ svaṃ vapurmātṛgaṃ hi tat | ato mātari yā rūḍhiḥ sāsya bhogyatvamucyate | anuttaraṃ parāmṛśyaparāmarśakabhāvataḥ | |",
+    "english": "Thus the enjoyer itself has put itself here in a dual form. A pitcher is by no means an object of its own enjoyment but of the enjoyer of it. It is the idea of its user himself which serves as its enjoyer. -a It is the supernal sound a which having assumed the dual role of the contemplator and object of contemplation performs the act of contact while the power of will, etc.",
+    "morphology": "bhoktā_bhoktṛ_SNM eva_eva_ bhogya_bhuj_GdCp bhāvena_bhāva_SIM dvaividhyāt_dvaividhya_SBNe saṃvyavasthitaḥ_saṃvyavasthā_SNPaM  / ghaṭasya_ghaṭa_SGM na_na_ hi_hi_ bhogya_bhuj_GdCp tvam_tva_SNNe svam_sva_SNNe vapuḥ_vapus_SNNe mātṛ_māt"
+  },
+  {
+    "index": 3013,
+    "sanskrit": "vākyāntarābhyastamya juhuyāditi śabdasyaitatmā madhyaṃ hotīti śabdo bādhita iti tatparihārārthamāha avaśyaṃ juṅayena taveyaṃ bhrāntirbhavati homa eva karaṇamiti / nipuṇatastu yāditi vaktavyam /",
+    "english": "Thus, then, if in the sentence mentioning the Result, the original form of the previous Action put forward by the more authori tative proximity of the mental image partake of the form of that Action, then, in that case, on account of the incompatibility of the independent originative potency of the sentence mentioning the Result, it is concluded, on the strength of recognition, that the Action mentioned in this sentence is the same as that mentioned in the previous sentence.",
+    "morphology": "juhuyāt_hu_SPr3O iti_iti_ śabdasya_śabda_SGM madhyam_madhya_SANe hoti_hu_SPr3In iti_iti_ śabdaḥ_śabda_SNM bādhitaḥ_bādh_SNPaM iti_iti_ tad_tad_Cp parihāra_parihāra_Cp artham_artha_SAM āha_ah_SPs3In avaśyam_avaśyam_ tava_tvad_SG iyam_idam_SN"
+  },
+  {
+    "index": 3014,
+    "sanskrit": "prayogaḥ yo yadvijñānapratibhāsisvarūpo na bhavati na sa tadvijñānaviṣayaḥ, yathā rūpaṃ śrotrajñānasya, na bhavati pratibimbavijñānapratibhāsisvabhāvaś ca sūrya iti vyāpakānupalabdhiḥ /",
+    "english": "The argument may be formulated as follows: When an Object has a form that does not figure in a Cognition, that Object cannot be the objective basis of that Cognition; e.g. Colour cannot be the objective basis of Auditory Cognition; the Sun does not have the form that figures in the Cognition of the Reflected Image; hence there is non-apprehension of the wider character (which implies the absence of the less wide character).",
+    "morphology": "prayogaḥ_prayoga_SNM yaḥ_yad_SNM yad_yad_Cp vijñāna_vijñāna_Cp pratibhāsi_pratibhāsin_Cp svarūpaḥ_svarūpa_SNM na_na_ bhavati_bhū_SPr3In na_na_ sa_tad_SNM tad_tad_Cp vijñāna_vijñāna_Cp viṣayaḥ_viṣaya_SNM yathā_yathā_ rūpam_rūpa_"
+  },
+  {
+    "index": 3015,
+    "sanskrit": "devāḥ manuṣyān prīṇanti tairyagyonīn tathā eva ca vartamānaiḥ yathākālam śīta varṣa uṣṇa mārutaiḥ ijyā añjali namaskāra japa homa vrata ādibhiḥ",
+    "english": "The gods minister to the wants of men and beasts, etc., by marshalling different seasons of the year and by setting the air in motion and sending down the rain, and men, in their turn, propitiate the gods by duly and reverentially performing the sacrificial rites, by saying their prayers with blended palms, by bowing down in reverence, and by repetition of prayers, religious vows and other religious observances.",
+    "morphology": "devāḥ_deva_PNM manuṣyān_manuṣya_PAM prīṇanti_prī_PPr3In tairyagyonīn_tairyagyoni_PAM tathā_tathā_U eva_eva_U ca_ca_U vartamānaiḥ_vṛt_PIPaPrM yathākālam_yathākālam_U śīta_śīta_Cp varṣa_varṣa_MCp uṣṇa_uṣṇa_Cp mārutai"
+  }
+]

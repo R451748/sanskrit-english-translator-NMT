@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40800,
+    "sanskrit": "tvayā dhāryante sarva bhūtāni śakra tvam devānām mahimānam cakartha",
+    "english": "All the creatures, O Indra, are supported by thee, Thou didst build the greatness of the gods.",
+    "morphology": "tvayā_tvad_SI dhāryante_dhāray_PPr3InPv"
+  },
+  {
+    "index": 40801,
+    "sanskrit": "siddhāntavāḍhī svābhipretāne kārthavidhyanyathānupapattiphalaṃ kathayati /",
+    "english": "Objection Atha yagasambandhonuvādaḥ, prakaranēna cangāta. That is to say, the result following from the Accessory, what the sen tence does is to refer to the fact, pointed out by the context, of that being subsidiary to the sacrifice.",
+    "morphology": "__siddhānta_U __vāḍhī_U __sva_U __abhipreta_U __abhipreta_U __paU"
+  },
+  {
+    "index": 40802,
+    "sanskrit": "tatra vargacāriṇaḥ śrāvakapūrviṇaḥ pratyekajinā ucyante /",
+    "english": "The first are the ancient Śrāvakas [who will obtain the first or.",
+    "morphology": "tatra_tatra_ varga_varga_Cp cāriṇaḥ_cārin_PNM śrāvaka_śrāvaka_Cp pūrviṇaḥ_pūrvin_PNM pratyeka_pratyeka_Cp jināḥ_jina_PNM "
+  },
+  {
+    "index": 40803,
+    "sanskrit": "bodhisattvās tu tathāgatatvaprāptikāle kleśajñeyāvaraṇaprahāṇāt saṃsāre na tiṣṭhanti nirupadhiśeṣe nirvāṇe ca, dharmakāyaprabandhān na tiṣṭhanti nirvāṇe śrāvakādivat /",
+    "english": "At the time that they become tathāgatas, bodhisattvas do not remain in samsāra because they have relinquished both the obscurations that consist in moral defilement and the knowable.And because the Dharma Body continues without interruption in the nirvana devoid of the remnants of should probably read gton bas in place of ston pas.",
+    "morphology": "bodhisattvāḥ_bodhisattva_PNM tu_tu_ tathāgata_tathāgata_Cp tva_tva_Cp prāpti_prāpti_Cp kāle_kāla_SLM kleśa_kleśa_Cp jñeya_jñā_GdCp āvaraṇa_āvaraṇa_Cp prahāṇāt_prahāṇa_SBNe saṃsāre_saṃsāra_SLM na_na_ tiṣṭhanti_sthā_PPr3"
+  },
+  {
+    "index": 40804,
+    "sanskrit": "śṛṇuyātparayā bhaktyā tīrthayātrāmimāṃ dvijāḥ | sarvapāpavinirmukto viṣṇulokaṃ sa gacchati || 46 ||",
+    "english": "46. By listening to the accounts about them with due faith and by undertaking visits to such centres with all earnestness, O Brāhmaṇas, one goes to the abode of Viṣṇu becoming free from all sins.[Sanskrit text for this chapter is available]",
+    "morphology": "śṛṇuyāt_śru_SPr3O parayā_para_SIF bhaktyā_bhakti_SIF tīrtha_tīrtha_Cp yātrām_yātrā_SAF imām_idam_SAF dvijāḥ_dvija_PVM  / sarva_sarva_Cp pāpa_pāpa_Cp vinirmuktaḥ_vinirmuc_SNPaM viṣṇu_viṣṇu_Cp lokam_loka_SAM sa_tad_SNM gacchati"
+  },
+  {
+    "index": 40805,
+    "sanskrit": "yat tu karma akarot bhīmaḥ vāsudevasya paśyataḥ",
+    "english": "But there has been one act done by Bhima in the very presence of Vasudeva (that moves my resentment).",
+    "morphology": "yat_yad_SANe tu_tu_U"
+  },
+  {
+    "index": 40806,
+    "sanskrit": "yāś ca diśaḥ śrotrendriyaśaktau /",
+    "english": "\"Space into the ear\" The organ of hearing.",
+    "morphology": "yāḥ_yad_PNF ḥ_ḥ_PNF "
+  },
+  {
+    "index": 40807,
+    "sanskrit": "viṣṇuḥ śakro yamo dhātā mitro'tha varuṇastathā | vivasvānsavitā pūṣā caṇḍāṃśurbharga eva ca || 37 || iti dvādaśanāmāni japankṛtvā pradakṣiṇām | yatphalaṃ labhate pārtha tadihaikamanāḥ śṛṇu || 38 ||",
+    "english": "37-44. He shall repeat the twelve names (of the Sun-god) viz. Viṣṇu, Śakra, Yama, Dhātṛ, Mitra, Varuṇa, Vivasvān, Savitṛ, Pūṣan, Caṇḍāṃśu and Bharga (Ravi, the 12th name also) and circumambulate.",
+    "morphology": "viṣṇuḥ_viṣṇu_SNM śakraḥ_śakra_SNM yamaḥ_yama_SNM dhātā_dhātṛ_SNM mitraḥ_mitra_SNM atha_atha_ varuṇaḥ_varuṇa_SNM tathā_tathā_  / vivasvān_vivasvant_SNM savitā_savitṛ_SNM pūṣā_pūṣan_SNM caṇḍāṃśuḥ_caṇḍā"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27632,
+    "sanskrit": "buddhirastyeveti cetbahiṣṭvaṃ tarhi cintyaṃsat asadvā iti /",
+    "english": "The upholders of this hypothesis may contend that the above criticism is pointless since consciousness is real.",
+    "morphology": "buddhiḥ_buddhi_SNF asti_as_SPr3In eva_eva_ iti_iti_ ced_ced_ bahiṣṭvam_bahiṣṭva_SNNe tarhi_tarhi_ cintyam_cintay_SNNeGd asat_asat_SNNe"
+  },
+  {
+    "index": 27633,
+    "sanskrit": "yojā nv indra te harī |",
+    "english": "Yoke, O Indra, thy two bay steeds [1].",
+    "morphology": "yoja_yuj_SPr2Im  /"
+  },
+  {
+    "index": 27634,
+    "sanskrit": "kriyāsau nṛtyati tathā citiśaktiranāmayā / asyā vibhūṣaṇaṃ śūrpakuḍālapaṭalādikam //",
+    "english": "This power of the intellect, which is ignorant of herself and ever prone to action, continued thus to dance about with her decorations of various tools and instruments.",
+    "morphology": "kriyā_kriyā_SNF asau_adas_SNF nṛtyati_nṛt_SPr3In tathā_tathā_ citiśaktiḥ_citiśakti_SNF anāmayā_anāmaya_SNF  / asyāḥ_idam_SGF vibhūṣaṇam_vibhūṣaṇa_SNNe "
+  },
+  {
+    "index": 27635,
+    "sanskrit": "tasmai samyagghuto vahnirvājinīrājanāvidhau / pradakṣiṇārcirvyājena hasteneva jayaṃ dadau // Ragh(K)_4.25 //",
+    "english": "At the lustration ceremony of his horses, the sacrificial fire, fed with oblations duly offered, gave him (the blessing of) victory with his own hand, as it were, in the form of the flame turning towards the right (and thus betokening victory).",
+    "morphology": "tasmai_tad_SDM samyak_samyak_ hutaḥ_hu_SNPaM vahniḥ_vahni_SNM vājinī_vājinī_Cp rājanā_rājanā_Cp vidhau_vidhi_SLM  / pradakṣiṇa_pradakṣiṇa_Cp arciḥ_arcis_Cp vyājena_vyāja_SIM hastena_hasta_SIM iva_iva_ jayam_jaya_SAM dadau_dā_SPs3In"
+  },
+  {
+    "index": 27636,
+    "sanskrit": "kasya caiṣāṃ kvādhipatyam /",
+    "english": "What is the object of the predominating influence of each indriya?",
+    "morphology": "kasya_ka_SGM ca_ca_ eṣām_idam_PGM kva_kva_ ādhipatyam_ādhipatya_SNNe  /"
+  },
+  {
+    "index": 27637,
+    "sanskrit": "tataścitrāṃgadaṃ dṛṣṭvā sa gandharvaṃ divaukasām | tathārūpaṃ kṛpāviṣṭastataḥ provāca śaṃkaraḥ || 79 ||",
+    "english": "79. On seeing Citrāṅgada, the Gandharva (one) among the Heaven-dwellers, in that form, Śaṅkara became sympathetic and said to him:",
+    "morphology": "tatas_tatas_ citrāṅgadam_citrāṅgada_SAM dṛṣṭvā_dṛś_Co sa_tad_SNM gandharvam_gandharva_SAM divaukasām_divaukas_PGM  / tathārūpam_tathārūpa_SAM kṛpā_kṛpā_Cp āviṣṭaḥ_āviś_SNPaM tatas_tatas_ provāca_pravac_SPs3In śaṃkara"
+  },
+  {
+    "index": 27638,
+    "sanskrit": "yadi punarnividoṅgaṃ bhaveyustato godohananyāyenāśrayadapi tāvatkāmyeṣu prakaraṇānuvṛttiḥ syādathāpi kā myānāmaṅgatvaṃ bhavettathāpi pūṣā dyana mantraṇavatprakaraṇāvādhaṃ niviḍhāṃ kathaṃ ciḍhanusaṃdhānenādhyavasthema",
+    "english": "are, from the very words of the text, recognized as serving a desirable end for the performing agent and as such these could not be taken up by the former SamidhēnīRecitation. If, again, the nivids could be sub sidiary to the Sāmidhēnīs, then,in accordance with the law of the godohana, the container also being taken along with the contained, the Context of the Samidhenis could extend to the Kamya Samithēnī Recitation. And if the Kāmya SâmidhēniRecitation were subsidiary to the former SamidheniRecitation, then, in that case,as in the case of the mantrus recited to Pushan, etc., so here also, we could take the original Context of the Samidheni to be uninterrupted by the mention of the Nivids,these latter also being, somehow or other, taken along with it.",
+    "morphology": "yadi_yadi_ punar_punar_ nividaḥ_nivid_SGF oṅgam_oṅga_SNNe bhaveyuḥ_bhū_PPr3O tatas_tatas_ godohana_godohana_Cp nyāyena_nyāya_SIM aśrayat_śri_S3ImIn api_api_ tāvat_tāvat_ kāmyeṣu_kāmya_PLM prakaraṇa_prakaraṇa_Cp anuvṛttiḥ_anuvṛt"
+  },
+  {
+    "index": 27639,
+    "sanskrit": "saṃśayaviparyayābhyāmasaṃbhāvanāviparītabhāvanārūpābhyāṃ tattvajñānasya phalaṃ pratibadhyate /",
+    "english": "Doubt and contrary notion in the form of incertitude and erroneous knowledge obstruct the effect of the knowledge of reality.",
+    "morphology": "saṃśaya_saṃśaya_Cp viparyayābhyām_viparyaya_DuIM asaṃbhāvanā_asaṃbhāvanā_Cp viparīta_viparīta_Cp bhāvanā_bhāvanā_Cp rūpābhyām_rūpa_DuIM tattva_tattva_Cp jñānasya_jñāna_SGNe phalam_phala_SNNe"
+  }
+]

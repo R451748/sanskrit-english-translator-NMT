@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37920,
+    "sanskrit": "daivam tu paramam manye pauruṣam tu nirarthakam",
+    "english": "Fate, I ween, is ever supreme.",
+    "morphology": "daivam_daiva_SANe tu_tu_U parama_parama_SANe"
+  },
+  {
+    "index": 37921,
+    "sanskrit": "saṃvṛtto 'bhūt-saiva ca teṣāṃ pravrajyābhūt-saivopasaṃpad-bhikṣubhāvaḥ |",
+    "english": "they were restrained, and this was their going-forth, their higher ordination, their monkhood.",
+    "morphology": "saṃvṛttaḥ_saṃvṛt_SNPaM abhūt_bhū_SPs3In sā_tad_SNF eva_eva_ ca_ca_ teṣām_tad_PGM pravrajyā_pravrajyā_SNF abhūt_bhū_SPs3In sā_tad_SNF eva_eva_ upasaṃpad_upasaṃpad_SNF"
+  },
+  {
+    "index": 37922,
+    "sanskrit": "śrī vaideha uvāca yad rajo durlabhaṃ loke yogināṃ bahu janmabhiḥ tat pādābjaṃ hareḥ sākṣād babhau kāliya mūrdhasu",
+    "english": "Śrī Bahulāśva said: After many births even the great yogīs in this world cannot attain the dust of the Lord's feet. Still, Lord Kṛṣṇa placed His lotus feet directly on Kāliya's heads.",
+    "morphology": "śrī_śrī_SNF vaidehaḥ_vaideha_SNM uvāca_vac_SPs3In yat_yad_SNNe rajaḥ_rajas_SNNe durlabham_durlabha_SNNe loke_loka_SLM yoginām_yogin_PGM bahu_bahu_SNNe janmabhiḥ_janman_PINe tat_tad_SNNe pāda_pāda_Cp abjam_abja_SNNe hareḥ_hari_SGM sākṣāt"
+  },
+  {
+    "index": 37923,
+    "sanskrit": "nīrājayitvā deveśaṃ rāmeṇa saha bhadrayā | prāsādāṃtaḥ praveśyātha na paśyedvai kathaṃcana || 10 || etattu vistareṇoktaṃ pūrvameva mayā dvijāḥ || 11 ||",
+    "english": "10-11. After performing the rite of Nīrājana (i.e. waving of lights in front of the idol of God) to the Lord of Ramā along with Rāma and Bhadrā and making them enter the Mansion, no one shall see (the deities) at all. This has already been said in detail by me, O Brāhmaṇas.",
+    "morphology": "nīrājayitvā_nīrājay_Co deveśam_deveśa_SAM rāmeṇa_rāma_SIM saha_saha_ bhadrayā_bhadrā_SIF  / prāsāda_prāsāda_Cp antar_antar_ praveśya_praveśay_Co atha_atha_ na_na_ paśyet_paś_SPr3O vai_vai_ kathaṃcana_kathaṃcana_  / etat_etad_SNNe t"
+  },
+  {
+    "index": 37924,
+    "sanskrit": "bahuśobhānvitastātaḥ yayau himagirergṛham | niṣadopi prahṛṣṭātmā saparicchada āyayau ||",
+    "english": "29. O dear, the delighted mountain Niṣadha came along with his attendants. He was very brilliant.",
+    "morphology": "bahu_bahu_Cp śobhā_śobhā_Cp anvitaḥ_anvita_SNM tātaḥ_tāta_SNM yayau_yā_SPs3In himagireḥ_himagiri_SGM gṛham_gṛha_SANe  /"
+  },
+  {
+    "index": 37925,
+    "sanskrit": "sa tām aiśvarya yoga sthām buddhim śaktimatīm satīm uvāca vacanam devaḥ buddhim vai prabhuḥ avyayaḥ brahmāṇam praviśasva iti loka sṛṣṭi artha siddhaye",
+    "english": "The illustrious and puissant and immutable Hari, addressing the Goddess of Intelligence who was endued with activity and goodness and all the puissance of Yoga, said unto her these words:--For the accomplishment of the task of creating all the worlds do thou enter into Brahma.",
+    "morphology": "sa_tad_SNM tām_tad_SAF aiśvarya_aiśvarya_NeCp yoga_yoga_MCp sthām_stha_SAF buddhim_buddhi_SAF śaktimatīm_śaktimat_SAF satīm_sat_SAF uvāca_vac_SPs3In vacanam_vacana_SANe devaḥ_deva_SNM buddhim_buddhi_SAF vai_vai_U prabhuḥ_prabhu_SNM avyayaḥ_a"
+  },
+  {
+    "index": 37926,
+    "sanskrit": "tāḍanādubhayamāpnoti bhayānmohaś ca jāyate //",
+    "english": "Whipping causes fright and fear would produce confusion.",
+    "morphology": "tāḍanāt_tāḍana_SBNe ubhayam_ubhaya_SANe āpnoti_āp_SPr3In bhayāt_bhaya_SBNe mohaḥ_moha_SNM ca_ca_ jāyate_jan_SPr3In  /"
+  },
+  {
+    "index": 37927,
+    "sanskrit": "tisṛbhistisabhirṛgbhirvapati / trivṛdagniryāvānagniryāvatyasya mātrā tāvataivainametadbhiṣajyati //",
+    "english": "With three verses he sows each time,--threefold is Agni: as great as Agni is, as great as is his measure, with so much he thus heals him.",
+    "morphology": "tisṛbhiḥ_tri_PIF tisabhiḥ_tisṛ_PIF ṛgbhiḥ_ṛc_PIF vapati_vap_SPr3In  / trivṛt_trivṛt_SNM agniḥ_agni_SNM yāvān_yāvat_SNM agniḥ_agni_SNM yāvatī_yāvat_SNF asya_idam_SGM mātrā_mātrā_SNF tāvatā_tāvat_SIM eva_eva_ enam_enad_SAM "
+  }
+]

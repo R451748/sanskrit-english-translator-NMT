@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4624,
+    "sanskrit": "jaya bhīmarūpa khaṭvāṅgahasta śaśiśekhara jaya jagatāṃ praśasta | jaya sukhareśa suralokasāra jaya sarvasakalanirdagdhasāra || 87 ||",
+    "english": "Be victorious, O Lord with terrible forms, with the Khaṭvāṅga in the hand, O moon-crested one. Be victorious, O most praise-worthy one in all the worlds. Be victorious, O Lord of the most excellent ones among Suras, O essence of the world of Suras.",
+    "morphology": "jaya_ji_SPr2Im bhīma_bhīma_Cp rūpa_rūpa_SVM khaṭvāṅga_khaṭvāṅga_Cp hasta_hasta_SVM śaśiśekhara_śaśiśekhara_SVM jaya_ji_SPr2Im jagantām_jagant_PGNe praśasta_praśaṃs_SVPaM  / jaya_ji_SPr2Im sukhara_sukhara_Cp īśa_īśa_SVM sura_sur"
+  },
+  {
+    "index": 4625,
+    "sanskrit": "purātanā munaya evaṃ vadanti /",
+    "english": "\"Ancients\" ie, the sages.",
+    "morphology": "purātanāḥ_purātana_PNM"
+  },
+  {
+    "index": 4626,
+    "sanskrit": "vidyud aśaniḥ etad vyākhyātam /",
+    "english": "\"Lightning\" This has been already explained.",
+    "morphology": "vidyut_vidyut_SNF"
+  },
+  {
+    "index": 4627,
+    "sanskrit": "na pratikṣepāt sūtra eva hi pratikṣiptaṃ bhagavatā paramārthaśūnyatāyām / “iti hibhikṣavo 'sti karmāsti vipākaḥ kārakastu nopalabhyate / ya imāṃśca skandhānnikṣipati anyāṃśca skandhān pratisaṃdadhātyanyatra dharmasaṃketāditi /",
+    "english": "In the Paramārthafūnyata-sūtra, the Blessed One said, “There is action;",
+    "morphology": "na_na_ pratikṣepāt_pratikṣepa_SBM sūtre_sūtra_SLNe eva_eva_ hi_hi_ pratikṣiptam_pratikṣip_SNPaNe bhagavatā_bhagavant_SIM paramārtha_paramārtha_Cp śūnyatāyām_śūnyatā_SLF  / iti_iti_ hi_hi_ bhikṣavaḥ_bhikṣu_PVM asti_as_SPr3In karma"
+  },
+  {
+    "index": 4628,
+    "sanskrit": "yaḥ pañcanadamāsādya snātvā japtveśvareśvaram | pūjayecchivasāyujyaṃ prayātyeva na saṃśayaḥ ||",
+    "english": "20. He who goes to the holy centre of Pañcanada, takes his bath there, performs the Japa of the lord of lords and worships him, certainly attains the Sāyujya of Śiva.",
+    "morphology": "yaḥ_yad_SNM pañcanadam_pañcanada_SANe āsādya_āsāday_Co snātvā_snā_Co japtvā_jap_Co īśvara_īśvara_Cp īśvaram_īśvara_SAM  / pūjayet_pūjay_SPr3O śiva_śiva_Cp sāyujyam_sāyujya_SANe prayāti_prayā_SPr3In eva_eva_ na_na_ saṃśayaḥ_"
+  },
+  {
+    "index": 4629,
+    "sanskrit": "tathā vilīyamāneṣu tapasviṣu mahātmasu | sadyastirodadhe tejastadadbhutamivābhavat ||",
+    "english": "11. When those noble saints merged in it, the splendour suddenly vanished. It was highly mysterious.",
+    "morphology": "tathā_tathā_ vilīyamāneṣu_vilī_PLPaPrM tapasviṣu_tapasvin_PLM mahātmasu_mahātman_PLM  / sadyas_sadyas_ tirodadhe_tirodhā_SPs3In tejaḥ_tejas_SANe tat_tad_SNNe adbhutam_adbhuta_SNNe iva_iva_ abhavat_bhū_S3ImIn"
+  },
+  {
+    "index": 4630,
+    "sanskrit": "tatra doṣa abhibhūte tu snehe vastim nidhāpayet yathāsvam doṣa śamanāni upayojyāni yāni ca",
+    "english": "In these cases, applications of (Sneha) Vastis and such other remedial measures as are soothing to the Dosha or Doshas (giving rise to the retention of the Sneha in the bowels) should be adopted with due regard to the nature and intensity of each.",
+    "morphology": "tatra_tatra_U doṣa_doṣa_MCp abhibhūte_abhibhū_SLPaPsM tu_tu_U snehe_sneha_SLM vastim_vasti_SAF nidhāpayet_nidhāpay_SPr3O yathāsvam_yathāsvam_U doṣa_doṣa_MCp śamanāni_śamana_PNNe upayojyāni_upayuj_PNNeGd"
+  },
+  {
+    "index": 4631,
+    "sanskrit": "vāṇaliṅge vāṇarohe siddhaliṅge svayambhuvi / pratimāsu ca sarvāsu na caṇḍo 'dhikṛto bhavet // advaitabhāvanāyukte sthaṇḍileśavidhāvapi /",
+    "english": "Lord Caṇḍa should not be invoked in cases where a bāṇaliṅga a kind of stone representing lord Śiva or a liṅga placed on the bāṇa stone or an accomplished liṅga or selforiginated liṅga or images of all gods are established.",
+    "morphology": "vāṇaliṅge_vāṇaliṅga_SLNe vāṇarohe_vāṇaroha_SLNe siddha_siddha_Cp liṅge_liṅga_SLNe svayambhuvi_svayambhu_SLM  / pratimāsu_pratimā_PLF ca_ca_ sarvāsu_sarva_PLF na_na_ caṇḍaḥ_caṇḍa_SNM adhikṛtaḥ_adhikṛ_SNPaM bhavet_bhū_"
+  }
+]

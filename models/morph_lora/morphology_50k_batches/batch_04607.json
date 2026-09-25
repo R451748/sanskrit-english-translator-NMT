@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36848,
+    "sanskrit": "payodatūryasvanalabdhaharṣā vidyullatā nṛttamivācacāra //",
+    "english": "Or rain-clouds, out of season and black. The pun is in the word kālamegha..",
+    "morphology": "payoda_payoda_Cp tūrya_tūrya_Cp svana_svana_Cp labdha_labh_PaCp harṣā_harṣa_SNF vidyut_vidyut_Cp latā_latā_SNF nṛttam_nṛtta_SANe"
+  },
+  {
+    "index": 36849,
+    "sanskrit": "paścimasya samudrasya tīramāśritya tiṣṭhati | kuśasthalīti yā pūrvaṃ kuśena sthāpitā purī || 3 ||",
+    "english": "3. In earlier times there was a city named Kuśasthalī founded by Kuśa near the sea on the western coast of India [i.e., Paścima?].",
+    "morphology": "paścimasya_paścima_SGM samudrasya_samudra_SGM tīram_tīra_SANe āśritya_āśri_Co tiṣṭhati_sthā_SPr3In  / kuśasthalī_kuśasthalī_SNF iti_iti_ yā_yad_SNF pūrvam_pūrvam_ kuśena_kuśa_SIM sthāpitā_sthāpay_SNPaF purī_purī_SNF"
+  },
+  {
+    "index": 36850,
+    "sanskrit": "upaviṣṭaṃ ca māṃ tatra vanitāḥ paryavārayan / vivāhotsavasānandanānāceṣṭāsamākulāḥ //",
+    "english": "And when I sat down there, the female slaves surrounded me, full of joy at the wedding festival, busied with a thousand affairs.",
+    "morphology": "upaviṣṭam_upaviś_SAPaM ca_ca_ mām_mad_SA tatra_tatra_ vanitāḥ_vanitā_PNF paryavārayan_parivāray_P3ImIn  / vivāha_vivāha_Cp utsava_utsava_Cp sa_sa_ ānanda_ānanda_Cp nānā_nānā_ ceṣṭā_ceṣṭā_Cp samākulāḥ_samākula_PNF  /"
+  },
+  {
+    "index": 36851,
+    "sanskrit": "kena vā brāhmapīnāṃ surāpānaṃ pratiṣidvam",
+    "english": "It may be askedWhat is the text that prohibits the drinking of wine for Brāhmana women ? Well, we have the textFor this reason, the Brahmana and the Kshatriya, and also the Kshatriya, should not drink wine.",
+    "morphology": "kena_ka_SIM"
+  },
+  {
+    "index": 36852,
+    "sanskrit": "dāruṇe asmin vana uddeśe bhayam vaḥ na bhaviṣyati",
+    "english": "Frightful though this wilderness be, no danger will overtake you.",
+    "morphology": "dāruṇe_dāruṇa_SLM asmin_idam_SLM vana_vana_NeCp uddeśe_uddeśa_SLM bhayam_bhaya_SNNe vaḥ_tvad_PG"
+  },
+  {
+    "index": 36853,
+    "sanskrit": "sa rasaḥ pūrvāvayavasahito 'ṅkurādibhāvamāpadyata iti /",
+    "english": "and this Sap, along with the previous components assumes the form of the Sprout.",
+    "morphology": "sa_tad_SNM rasaḥ_rasa_SNM pūrva_pūrva_Cp avayava_avayava_Cp sahitaḥ_sahita_SNM aṅkura_aṅkura_Cp ādi_ādi_Cp bhāvam_bhāva_SAM āpadyate_āpad_SPr3In iti_iti_  /"
+  },
+  {
+    "index": 36854,
+    "sanskrit": "agnirīkāraḥ /",
+    "english": "Fire is the syllable ī;",
+    "morphology": "agniḥ_agni_SNM"
+  },
+  {
+    "index": 36855,
+    "sanskrit": "dattvā dānam dvijātibhyaḥ parivrājam apaśyata tadā kolāhale tasmin vartamāne mahā śubhe vāsudevaḥ ca pārthaḥ ca sahitau parijagmatuḥ",
+    "english": "When that delightful festival of immense grandeur commenced, Vasudeva and Partha went about, together, beholding everything around.",
+    "morphology": "dattvā_dā_Co dānam_dāna_SANe dvijātibhyaḥ_dvijāti_PDM parivrājam_parivrāja_SAM apaśyata_paś_SPs3In tadā_tadā_U kolāhale_kolāhala_SLM tasmin_tad_SLM vartamāne_vṛt_SLPaPrM mahā_mahat_Cp śubhe_śubha_SLM vāsudevaḥ_vāsudeva_SNM ca_ca_U"
+  }
+]

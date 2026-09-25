@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39096,
+    "sanskrit": "yaḥ yasmin jīvati sva artham paśyet tāvat sa jīvati sa tasya tāvat mitram syāt yāvat na syāt viparyayaḥ",
+    "english": "He who regards his own interests ensured as long as another person lives and thinks them endangered when that other person will cease to live, takes that other person for a friend and considers him so as long as those interests of his are not clashed against.",
+    "morphology": "yaḥ_yad_SNM yasmin_yad_SLM jīvati_jīv_SLPaPrM sva_sva_Cp artham_artha_SAM paśyet_paś_SPr3O tāvat_tāvat_U sa_tad_SNM jīvati_jīv_SPr3In sa_tad_SNM tasya_tad_SGM tāvat_tāvat_U mitram_mitra_SNNe syāt_as_SPr3O yāvat_yāvat_U na_na_U syāt_as_SPr3O"
+  },
+  {
+    "index": 39097,
+    "sanskrit": "visṛjyamānam ca anyatra puṇya aha svanaḥ eva ca",
+    "english": "and at another place the foods are being distributed.",
+    "morphology": "visṛjyamānam_visṛj_SNPaPrNePv"
+  },
+  {
+    "index": 39098,
+    "sanskrit": "kaḥ modate kim āścaryam kaḥ panthāḥ kā ca vārtikā yudhiṣṭhiraḥ uvāca vada me caturaḥ praśnān mṛtāḥ jīvantu bāndhavāḥ",
+    "english": "And he that is devoted to virtue obtaineth a happy state (in the next world).' The Yaksha asked,--'Who is truly happy? What is most wonderful? What is the path? And what is the news? Answer these four questions of mine and let thy dead brothers revive.' Yudhishthira answered,--'O amphibious creature, a man who cooketh in his own house, on the fifth or the sixth part of the day, with scanty vegetables, but who is not in debt and who stirreth not from home, is truly happy.",
+    "morphology": "kaḥ_ka_SNM modate_mud_SPr3In kim_ka_SNNe āścaryam_āścarya_SNNe kaḥ_ka_SNM panthāḥ_pathin_SNM kā_ka_SNF ca_ca_U vārtikā_vārttika_SNF yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In vada_vad_SPr2Im me_mad_SG caturaḥ_catur_PAM praśn"
+  },
+  {
+    "index": 39099,
+    "sanskrit": "bahuśaktitvamasyoktaṃ śivasya yadato mahān | kalātattvapuravarṇāṇupadādirbhedavistāraḥ |",
+    "english": "Siva is great as He is possessed of a multiplicity of forces. His forces are kalā, tattva, bhuvana, varna, pada, etc.",
+    "morphology": "bahu_bahu_Cp śakti_śakti_Cp tvam_tva_SNNe asya_idam_SGM uktam_vac_SNPaNe śivasya_śiva_SGM yat_yat_ atas_atas_ mahān_mahat_SNM  /"
+  },
+  {
+    "index": 39100,
+    "sanskrit": "dakṣiṇottarato yāvatsamudrā tkauraveśvarī | pūrvapaścimato yāvadgomukhāccāśvamedhikam | etadgarbhagṛhaṃ proktaṃ kailāsānmama vallabham || 20 ||",
+    "english": "20. Kauraveśvarī extends from south to north upto the ocean. Āśvamedhika extends from east to west upto Gomukha. This is what is called Garbhagṛha and it is dearer to the than Kailāsa.",
+    "morphology": "dakṣiṇa_dakṣiṇa_Cp uttaratas_uttaratas_ yāvat_yāvat_ samudrāt_samudra_SBM kauraveśvarī_kauraveśvarī_SNF  / pūrva_pūrva_Cp paścimatas_paścimatas_ yāvat_yāvat_ gomukhāt_gomukha_SBM ca_ca_ āśvamedhikam_āśvamedhika_SNNe  / etat_etad_S"
+  },
+  {
+    "index": 39101,
+    "sanskrit": "annāda eva bhavati yathā vatsena prattāṃ gāṃ duha evaṃ evemāM lokān prattān kāmam annādyaṃ duhe |",
+    "english": "Even as one milks a cow ready to give milk by reason of its calf, so he milks these worlds, made ready, for desire, for food;",
+    "morphology": "anna_anna_Cp ādaḥ_āda_SNM eva_eva_ bhavati_bhū_SPr3In yathā_yathā_ vatsena_vatsa_SIM prattām_pradā_SAPaF gām_go_SAF duhe_duh_SPr3In evam_evam_ eva_eva_ imām_idam_SAF lokān_loka_PAM prattān_pradā_PAPaM kāmam_kāma_SAM annādyam_annādya_SANe "
+  },
+  {
+    "index": 39102,
+    "sanskrit": "brahmann eva viśaṃ vi nāśayati |",
+    "english": "verily he brings the people to ruin with respect to the Brahman.",
+    "morphology": "brahman_brahman_SLNe eva_eva_ viśam_viś_SAF vi_vi_ "
+  },
+  {
+    "index": 39103,
+    "sanskrit": "iti uktāḥ te niṣādāḥ tu su bhṛśam bhaya kampitāḥ",
+    "english": "I do not wish to abandon them at such a time.' When he said these words unto them, the fishermen became exceedingly terrified.",
+    "morphology": "iti_iti_U uktāḥ_vac_PNPaPsM te_tad_PNM niṣādāḥ_niṣāda_PNM tu_tu_U su_su_U bhṛśam_bhṛśam_U bhaya_bhaya_NeCp kampitāḥ_kamp_PNPaPsM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29312,
+    "sanskrit": "deva dundubhayaḥ neduḥ puṣpa varṣāṇi ca apatan keśava arjunayoḥ mūrdhni prāha vāc ca aśarīriṇī",
+    "english": "And celestial kettle-drums sounded, and floral showers fell upon the heads of Keshava and Arjuna.",
+    "morphology": "deva_deva_MCp dundubhayaḥ_dundubhi_PNM neduḥ_nad_PPs3In puṣpa_puṣpa_NeCp varṣāṇi_varṣa_PNNe ca_ca_U apatan_pat_PPs3In keśava_keśava_MCp arjunayoḥ_arjuna_DuGM mūrdhni_mūrdhan_SLM prāha_prāh_SPs3In vāc_vāc_SNF ca_ca_U aśarīriṇī_"
+  },
+  {
+    "index": 29313,
+    "sanskrit": "sattvarajastamasāṃ rūpaṃ /",
+    "english": "The form of the Object consists of the Three Attributes of Sattva (Harmony), Rajas (Energy) and Tamas (Inertia).",
+    "morphology": "sattva_sattva_Cp rajaḥ_rajas_Cp tamasām_tamas_PGNe rūpam_rūpa_SNNe  /"
+  },
+  {
+    "index": 29314,
+    "sanskrit": "dakṣiṇe'pi mahāyogī kāyāvarohaṇeśvaraḥ | vitteśaḥ paścime dvāre kṣetrasyābhimukhaḥ sthitaḥ || 7 ||",
+    "english": "7-13a. The great Yogin, Kāyāvarohaṇeśvara (Nakulīśa) is stationed in the south. In the west, facing the holy spot, is stationed Bilveśa. Appointed by Maheśa, he has occupied the western quarter.",
+    "morphology": "dakṣiṇe_dakṣiṇa_SLM api_api_ mahā_mahat_Cp yogī_yogin_SNM kāya_kāya_Cp avarohaṇa_avarohaṇa_Cp īśvaraḥ_īśvara_SNM  / vitteśaḥ_vitteśa_SNM paścime_paścima_SLNe dvāre_dvāra_SLNe kṣetrasya_kṣetra_SGNe abhimukhaḥ_abhimukha_SN"
+  },
+  {
+    "index": 29315,
+    "sanskrit": "bhrāntihetor asadbhāvāt svatas tasya pramāṇatā /",
+    "english": "Of the second cognition, the validity is self-sufficient, because there are no causes for misapprehension;",
+    "morphology": "bhrānti_bhrānti_Cp hetoḥ_hetu_SGM asadbhāvāt_asadbhāva_SBM svatas_svatas_ tasya_tad_SGM pramāṇa_pramāṇa_Cp tā_tā_SNF  /"
+  },
+  {
+    "index": 29316,
+    "sanskrit": "pṛcchāmi tvā kuru śreṣṭha tat me vyākhyātum arhasi",
+    "english": "I ask thee this, O chief of Kuru's race! It behoveth thee to discourse to me on I his.",
+    "morphology": "pṛcchāmi_pracch_SPr1In tvā_tvad_SA kuru_kuru_MCp śreṣṭha_śreṣṭha_SVM"
+  },
+  {
+    "index": 29317,
+    "sanskrit": "tato mahallikā sāpi bahuvallabha yāmy aham / saṃpratīti ruṣā sūryaprabham uktvā tato yayau //",
+    "english": "Then Mahallikā too said to Sūryaprabha in wrath: “Now I will depart, man of many favourites,” and went away.",
+    "morphology": "tatas_tatas_ mahallikā_mahallikā_SNF sā_tad_SNF api_api_ bahu_bahu_Cp vallabha_vallabha_SVM yāmi_yā_SPr1In aham_mad_SN  / saṃprati_samprati_ iti_iti_ ruṣā_ruṣ_SIF sūryaprabham_sūryaprabha_SAM uktvā_vac_Co tatas_tatas_ yayau_yā_SPs3In  /"
+  },
+  {
+    "index": 29318,
+    "sanskrit": "saṃskārakaraṇakaṃ hi smaraṇaṃ bhavati /",
+    "english": "The perception in question is auditory.",
+    "morphology": "saṃskāra_saṃskāra_Cp karaṇakam_karaṇaka_SNNe hi_hi_ smaraṇam_smaraṇa_SNNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 29319,
+    "sanskrit": "janiṣva deva vītaye sarva tātā svastaye ā devān vakṣi amr̥tān r̥ta vr̥dhaḥ yajñam deveṣu pispr̥śaḥ",
+    "english": "For the Gods' banquet be thou born, for full perfection and for weal. Bring the Immortal Gods who strengthen holy Law: so let our sacrifice reach the Gods.",
+    "morphology": "janiṣva_jan_SPs2Im deva_deva_MCp vītaye_vīti_SDF sarva_sarva_Cp tātā_tāta_SVM svastaye_svasti_SDF ā_ā_U devān_deva_PAM vakṣi_vah_SPr2Su amr̥tān_amr̥ta_PAM r̥ta_r̥ta_NeCp vr̥dhaḥ_vr̥dha_SNM yajñam_yajña_SAM deveṣu_deva_PLM pispr̥ś"
+  }
+]

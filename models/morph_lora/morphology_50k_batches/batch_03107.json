@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24848,
+    "sanskrit": "tasmiṃstīrthe tu yaḥ snātvā bhaktyā tryakṣaṃ prapūjayet | agniṣṭomasya yajñasya phalaṃ prāpnoti mānavaḥ || 8 ||",
+    "english": "A man who takes his holy bath in that Tīrtha with great devotion and worships the Three-eyed Lord, attains the benefit of Agniṣṭoma Yajña.",
+    "morphology": "tasmin_tad_SLNe tīrthe_tīrtha_SLNe tu_tu_ yaḥ_yad_SNM snātvā_snā_Co bhaktyā_bhakti_SIF tryakṣam_tryakṣa_SAM prapūjayet_prapūjay_SPr3O  / agniṣṭomasya_agniṣṭoma_SGM yajñasya_yajña_SGM phalam_phala_SANe prāpnoti_prāp_SPr3In mānava"
+  },
+  {
+    "index": 24849,
+    "sanskrit": "śrīkṛṣṇa uvāca | yo naraḥ pūjayitvā tvāṃ pūjayiṣyati māmiha | tasya muktiṃ pradāsyāmi yā surairapi durllabhā || 7 ||",
+    "english": "7. Śrī Kṛṣṇa said, “I shall grant that man that particular state of liberation which is even a rarity for gods, if after worshipping you, he follows it up with worship of mine.” Prahlāda said:",
+    "morphology": "śrī_śrī_Cp kṛṣṇaḥ_kṛṣṇa_SNM uvāca_vac_SPs3In  / yaḥ_yad_SNM naraḥ_nara_SNM pūjayitvā_pūjay_Co tvām_tvad_SA pūjayiṣyati_pūjay_SFu3In mām_mad_SA iha_iha_  / tasya_tad_SGM muktim_mukti_SAF pradāsyāmi_pradā_SFu1In yā_yad_SNF"
+  },
+  {
+    "index": 24850,
+    "sanskrit": "grahaṇārtheneti / arthaśabdo'tra prayojanavācī / grahaṇaprayojanaṃ nimittaṃ tatrendriyam iti darśayati /",
+    "english": "The expression for the purpose of artha in the statement for the purpose of perception, signifies aim prayojana. He shows that the faculty therein is for the purpose of perception.",
+    "morphology": "grahaṇa_grahaṇa_Cp arthena_artha_SIM iti_iti_  / artha_artha_Cp śabdaḥ_śabda_SNM atra_atra_ prayojana_prayojana_Cp vācī_vācin_SNM  / grahaṇa_grahaṇa_Cp prayojanam_prayojana_SNNe nimittam_nimitta_SNNe tatra_tatra_ indriyam_indriya_SNNe iti_it"
+  },
+  {
+    "index": 24851,
+    "sanskrit": "tatas nāryaḥ nṛ siṃhānām sa ca yodha janaḥ tadā paura jānapadāḥ ca eva dadṛśuḥ tam narādhipam",
+    "english": "The ladies of those lions among men, and all the women of the royal household, as also all the inhabitants of the city and provinces, then beheld the old king.",
+    "morphology": "tatas_tatas_U nāryaḥ_nārī_PNF nṛ_nṛ_MCp siṃhānām_siṃha_PGM sa_tad_SNM ca_ca_U yodha_yodha_MCp janaḥ_jana_SNM tadā_tadā_U paura_paura_MCp jānapadāḥ_jānapada_PNM ca_ca_U eva_eva_U dadṛśuḥ_dṛś_PPs3In tam_tad_SAM narādhipam_nar"
+  },
+  {
+    "index": 24852,
+    "sanskrit": "marutvantam r̥jīṣiṇam ojasvantam vi rapśinam indram gīḥ bhiḥ havāmahe",
+    "english": "Mighty, impetuous, begirt by Maruts, him who loudly roars, Indra we invocate with songs.",
+    "morphology": "marutvantam_marutvat_SAM r̥jīṣiṇam_r̥jīṣin_SAM ojasvantam_ojasvat_SAM vi_vi_U rapśinam_rapśin_SAM indram_indra_SAM gīḥ_gir_PIF"
+  },
+  {
+    "index": 24853,
+    "sanskrit": "jambūkhaṇḍa vinirmāṇam yatra uktam saṃjayena ha",
+    "english": "In this hath been narrated by Sanjaya the formation of the region known as Jambu.",
+    "morphology": "jambūkhaṇḍa_jambūkhaṇḍa_NeCp vinirmāṇam_vinirmāṇa_SNNe yatra_yatra_U"
+  },
+  {
+    "index": 24854,
+    "sanskrit": "auṣadham sarva duḥkheṣu satyam etat bravīmi te nalaḥ uvāca evam etat yathā āttha tvam damayanti sumadhyame",
+    "english": "It is the truth, O Nala, that I speak unto thee.' Hearing those words of his queen, Nala replied, 'O slender-waisted Damayanti, it is even as thou hast said.",
+    "morphology": "auṣadham_auṣadha_SANe sarva_sarva_Cp duḥkheṣu_duḥkha_PLNe satyam_satya_SANe etat_etad_SANe bravīmi_brū_SPr1In te_tvad_SD nalaḥ_nala_SNM uvāca_vac_SPs3In evam_evam_U etat_etad_SANe yathā_yathā_U āttha_ah_SPs2In tvam_tvad_SN damayanti_damay"
+  },
+  {
+    "index": 24855,
+    "sanskrit": "yathoktaliṅgivijñānam anumānam iti sthitam //187//",
+    "english": "lize that where there is smoke there is a hill.",
+    "morphology": "yathā_yathā_ ukta_vac_PaCp liṅgi_liṅgin_Cp vijñānam_vijñāna_SNNe anumānam_anumāna_SNNe iti_iti_ sthitam_sthā_SNPaNe  /"
+  }
+]

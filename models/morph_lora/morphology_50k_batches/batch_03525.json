@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28192,
+    "sanskrit": "kuìkumāguru pāṭīra dvāraiḥ puṣpa rasais ca sāarcitā cāmarāndolaiḥ punas caitanyatām gataḥ",
+    "english": "Anointed with kuìkuma, aguru, sandal, and flower nectar, and fanned with cāmaras, Rādha' regained consciousness.",
+    "morphology": "kuñkumāguru_kuñkumāguru_MCp pāṭīra_pāṭīra_MCp dvāraiḥ_dvāra_PINe puṣpa_puṣpa_NeCp rasaiḥ_rasa_PIM ca_ca_U sāarcitā_sāarcita_SNF cāmarāndolaiḥ_cāmarāndola_PIM"
+  },
+  {
+    "index": 28193,
+    "sanskrit": "sarvo hy artho vāgvyavahārānatītaḥ, vācaś ca sarvasyā oṃkāro mūlam / tathā ca śrutiḥ tad yathā śaṃkunā sarvāṇi patrāṇi saṃtṛṇṇāny evam oṃkāreṇa sarvā vāk saṃtṛṇṇā / oṃkāra evedaṃ sarvam iti /",
+    "english": "Nothing is beyond the reach of words, and of all words the syllable \"om\" is the very source as says the Śruti \"Just as the needle pierces through all the leaves, so in the same manner is all speech pierced by om, all this is om itself\" Chāndogya Upaniṣad, .",
+    "morphology": "sarvaḥ_sarva_SNM hi_hi_ arthaḥ_artha_SNM vāc_vāc_Cp vyavahāra_vyavahāra_Cp anatītaḥ_anatīta_SNM vācaḥ_vāc_SGF ca_ca_ sarvasyāḥ_sarva_SGF oṃkāraḥ_oṃkāra_SNM mūlam_mūla_SNNe  / tathā_tathā_ ca_ca_ śrutiḥ_śruti_SNF tat_tad_S"
+  },
+  {
+    "index": 28194,
+    "sanskrit": "kaṭyāvartā ca kulaṭā nābhyāvartā pativratā | pṛṣṭhāvartā ca bhartṛghnī kulaṭā vātha jāyate || 42 ||",
+    "english": "142. A woman with a curl of hair on the hip becomes a whore. A woman with a curl of hair in the navel is very chaste. One with a curl on the back becomes the murderess of her husband or a prostitute.",
+    "morphology": "kaṭyāvartā_kaṭyāvartā_SNF ca_ca_ kulaṭā_kulaṭā_SNF nābhi_nābhi_Cp āvartā_āvarta_SNF pativratā_pativratā_SNF  / pṛṣṭha_pṛṣṭha_Cp āvartā_āvarta_SNF ca_ca_ bhartṛ_bhartṛ_Cp ghnī_ghna_SNF kulaṭā_kulaṭā_SNF vā_vā"
+  },
+  {
+    "index": 28195,
+    "sanskrit": "iti prakaraṇārthaḥ /",
+    "english": "Such is the sense of what is taught in the present context",
+    "morphology": "iti_"
+  },
+  {
+    "index": 28196,
+    "sanskrit": "saḥ eṣa kila niryātaḥ bāla bhāvāt na pauruṣāt",
+    "english": "He hath come out from childishness and not from true heroism.",
+    "morphology": "saḥ_tad_SNM"
+  },
+  {
+    "index": 28197,
+    "sanskrit": "kṛṣṇas tu kubjāṃ kāmārtāṃ sasmitaṃ visasarja ha /",
+    "english": "Thereupon smiling a little Krishna sent away Kuvjā who was stricken with desire.",
+    "morphology": "kṛṣṇaḥ_kṛṣṇa_SNM tu_tu_ kubjām_kubja_SAF kāma_kāma_Cp ārtām_ārta_SAF sa_sa_ smitam_smita_SANe visasarja_visṛj_SPs3In ha_ha_  /"
+  },
+  {
+    "index": 28198,
+    "sanskrit": "atapyata tapo ghoraṃ kasmiṃścidbhagavānbhṛguḥ / tamupāste sma tejasvī bālaḥ putro mahāmatiḥ //",
+    "english": "Here the sage Bhrigu conducted his arduous devotion in olden times and it was in this place, that his high-minded and valiant son Sukra, also came to perform his devotion.",
+    "morphology": "atapyata_tap_S3ImIn tapaḥ_tapas_SANe ghoram_ghora_SANe kasmiṃścid_kaścit_SLM bhagavān_bhagavat_SNM bhṛguḥ_bhṛgu_SNM  / tam_tad_SAM upāste_upās_SPr3In sma_sma_ tejasvī_tejasvin_SNM bālaḥ_bāla_SNM putraḥ_putra_SNM mahāmatiḥ_mahāmati"
+  },
+  {
+    "index": 28199,
+    "sanskrit": "daśahastena kuṇḍena triṃśatkuṇḍānnivartanaṃ //",
+    "english": "A nivarttana would be of thirty kuṇḍas, each kuṇḍa being ten cubits.",
+    "morphology": "daśa_daśan_Cp hastena_hasta_SINe kuṇḍena_kuṇḍa_SINe triṃśat_triṃśat_Cp kuṇḍāt_kuṇḍa_SBNe nivartanam_nivartana_SNNe  /"
+  }
+]

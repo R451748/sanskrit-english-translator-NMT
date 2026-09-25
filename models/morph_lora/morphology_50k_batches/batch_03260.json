@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26072,
+    "sanskrit": "“bhagavati konāgamunau saṃghārāme ca niveśe,",
+    "english": "“Under the Fortunate Konāgamuna a residence for the Saṅgha,",
+    "morphology": "bhagavati_bhagavat_SVF konāga_konāga_Cp munau_muni_SLM"
+  },
+  {
+    "index": 26073,
+    "sanskrit": "“rūpaṃ brāhmaṇagṛhapataye utpadyati pi nirudhyati pi,",
+    "english": "“Bodily form, brāhmaṇas and householders, arises and ceases,",
+    "morphology": "__rūpa_U"
+  },
+  {
+    "index": 26074,
+    "sanskrit": "yatra kvacanasaṃsthānāṃ kṣuttṛṣṇopahatātmanām / idamāpyāyanāyāstu mayā dattaṃ tilodakam // kāmyodakapradānaṃ te mayaitatkathitaṃ nṛpa / yaddattvā prīṇayatyetanmanuṣyaḥsakalaṃ jagat / jagadāpyāyanodbhūtaṃ puṇyamāpnoti cānadha //",
+    "english": "May this water and sesamum, presented by me, relieve the hunger and thirst of all who are suffering from those inflictions, wheresoever they may be.’ Presentations of water, given in the manner, oh king, which I have described, yield gratification to all the world and the sinless man, who in the sincerity of faith pours out these voluntary libations, obtains the merit that results from affording nutriment to all creatures.",
+    "morphology": "yatra_yatra_ kvacana_kvacana_ saṃsthānām_saṃstha_PGM kṣudh_kṣudh_Cp tṛṣṇā_tṛṣṇā_Cp upahata_upahan_PaCp ātmanām_ātman_PGM  / idam_idam_SNNe āpyāyanāya_āpyāyana_SDNe astu_as_SPr3Im mayā_mad_SI dattam_dā_SNPaNe tila_tila_Cp u"
+  },
+  {
+    "index": 26075,
+    "sanskrit": "manvantaraṃ caturthaṃ te kathayiṣyāmi tac chṛṇu /",
+    "english": "Hear, shall describe the fourth Manwantara.",
+    "morphology": "manvantaram_manvantara_SANe caturthaḥ_caturtha_SNM te_tvad_SD kathayiṣyāmi_kathay_SFu1In"
+  },
+  {
+    "index": 26076,
+    "sanskrit": "mayā caiva tadā viṣṇurindrādyā hyamarāstathā | svaṃ svaṃ veṣaṃ susambhūṣya giriśenācaranyutāḥ ||",
+    "english": "14. Viṣṇu, I, Indra and the other gods bedecked their bodies and dress and accompanied Śiva.",
+    "morphology": "mayā_mad_SI ca_ca_ eva_eva_ tadā_tadā_ viṣṇuḥ_viṣṇu_SNM indra_indra_Cp ādyāḥ_ādya_PNM hi_hi_ amarāḥ_amara_PNM tathā_tathā_  / svam_sva_SAM svam_sva_SAM veṣam_veṣa_SAM su_su_ sambhūṣya_sambhūṣay_Co giriśeṇa_giriśa_SIM ac"
+  },
+  {
+    "index": 26077,
+    "sanskrit": "īśānādyaṃ tu vijñeyaṃ vāyavyāvadhi cāmbike | ityukto maṇḍalavidhirmayā tubhyaṃ ca pārvati ||",
+    "english": "[Sanskrit text for this chapter is available]",
+    "morphology": "īśāna_īśāna_Cp ādyam_ādya_SNNe tu_tu_ vijñeyam_vijñā_SNNeGd vāyavya_vāyavya_Cp avadhi_avadhi_ ca_ca_ ambike_ambikā_SVF  / iti_iti_ uktaḥ_vac_SNPaM maṇḍala_maṇḍala_Cp vidhiḥ_vidhi_SNM mayā_mad_SI tubhyam_tvad_SD ca_ca_ pārvati_p"
+  },
+  {
+    "index": 26078,
+    "sanskrit": "etadācakṣva me brahmañcchrotu kautūhalaṃ hi me | śrutadeva uvāca | kumārajanma vakṣyāmi śravaṇātpāpanāśanam || 2 ||",
+    "english": "Śrutadeva said:",
+    "morphology": "etat_etad_SANe ācakṣva_ācakṣ_S2ImIn me_mad_SG brahman_brahman_SVM śrotu_śru_SPr3Im kautūhalam_kautūhala_SNNe hi_hi_ me_mad_SG  / śrutadevaḥ_śrutadeva_SNM uvāca_vac_SPs3In  / kumāra_kumāra_Cp janma_janman_SANe vakṣyāmi_vac_SFu1In śrava"
+  },
+  {
+    "index": 26079,
+    "sanskrit": "indraḥ dīrghāya cakṣase ā sūryam rohayat divi / vi gobhiḥ adrim airayat /",
+    "english": "They who stand round him as he moves harness the bright, the ruddy Steed: The lights are shining in the sky.",
+    "morphology": "indraḥ_indra_SNM dīrghāya_dīrgha_SDNe cakṣase_cakṣas_SDNe ā_ā_U sūryam_sūrya_SAM rohayat_rohay_SPs3In divi_div_SLM  / vi_vi_U gobhiḥ_go_PIM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36600,
+    "sanskrit": "yatra śaktirna patitā tatra śuddhirna jāyate | na vidyā na śivācāro na muktirna ca siddhayaḥ ||",
+    "english": "13. Where the Śakti is not grasped neither purity nor Vidyā nor right conduct nor salvation nor any achievement is secured.",
+    "morphology": "yatra_yatra_ śaktiḥ_śakti_SNF na_na_ patitā_pat_SNPaF tatra_tatra_ śuddhiḥ_śuddhi_SNF na_na_ jāyate_jan_SPr3In  / na_na_ vidyā_vidyā_SNF na_na_ śiva_śiva_Cp ācāraḥ_ācāra_SNM na_na_ muktiḥ_mukti_SNF na_na_ ca_ca_ siddhayaḥ_siddhi_PNF"
+  },
+  {
+    "index": 36601,
+    "sanskrit": "tadyathā titīlolūkādīnām / divā na rātrau /",
+    "english": "There is an eye struck by night, namely the eye of a bat, an owl, etc;",
+    "morphology": "tat_tad_SNNe yathā_yathā_ titīla_titīla_Cp ulūka_ulūka_Cp ādīnām_ādi_PGM  / divā_divā_ "
+  },
+  {
+    "index": 36602,
+    "sanskrit": "arūpālokamananaveṣṭitā muktadāmavat / budhāḥ karmasu ceṣṭante vṛkṣapatreṣvivānilaḥ //",
+    "english": "They who are regardless of the visibles and thoughtless of the affairs of the world, are like those that disentangled from their snares; and they are truly wise, who meddle with their business as freely, as the free airs of heaven gently play with and move the leaves of trees.",
+    "morphology": "a_a_ rūpa_rūpa_Cp āloka_āloka_Cp manana_manana_Cp veṣṭitā_veṣṭay_SNPaF mukta_muc_PaCp dāma_dāman_Cp vat_vat_  / budhāḥ_budha_PNM karmasu_karman_PLNe ceṣṭante_ceṣṭ_PPr3In vṛkṣa_vṛkṣa_Cp pattreṣu_pattra_PLNe iva_iva_ anila"
+  },
+  {
+    "index": 36603,
+    "sanskrit": "atha vītarāgaḥ prāpnoti tasya navabhiḥ / yathā srota āpattiphalasya / 04923-04923]",
+    "english": "The vīarāga obtains the result of Anāgāmin through the comprehension of the truths, through nine ôṉdriyas, as the above bhāyovītarāga obtains the result of Sakr̥dīgāmin.",
+    "morphology": "atha_atha_ vīta_vī_PaCp rāgaḥ_rāga_SNM prāpnoti_prāp_SPr3In tasya_tad_SGM navabhiḥ_navan_PIM  / yathā_yathā_ srotaḥ_srotas_Cp āpatti_āpatti_Cp phalasya_phala_SGNe  /"
+  },
+  {
+    "index": 36604,
+    "sanskrit": "iti me cintayantyā vai hṛdi duḥkham pravartate",
+    "english": "As I reflect on this, my heart swelleth with sorrow.",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 36605,
+    "sanskrit": "karṇam paśya mahā raṅge jvalantam iva pāvakam",
+    "english": "Behold Karna, who resembles a blazing fire, on the arena of the battle.",
+    "morphology": "karṇam_karṇa_SAM paśya_paś_SPr2Im mahā_mahat_Cp raṅge_raṅga_SLM"
+  },
+  {
+    "index": 36606,
+    "sanskrit": "yasmādātmano vyatirikte vastuni siddhe sati tatrecchā pravartate / yatra svātmano vyatiriktaṃ na kiṃcidapi saṃbhavati tatrātmā kimiva vāñchankimanusmarandhāvatu kimupaitu //",
+    "english": "\"Whereas it is impossible for any thing to exist beside the Spirit of God, it was the Spirit that \"\"willed to become many\"\". And as there was nothing beside itself, which it could think of or find for itself, it was necessary that it became so of itself, and without the aid of any extraneous matter. \"",
+    "morphology": "yasmāt_yasmāt_ ātmanaḥ_ātman_SGM vyatirikte_vyatiric_SLPaNe vastuni_vastu_SLNe siddhe_sidh_SLPaNe sati_as_SLPaPrNe tatra_tatra_ icchā_icchā_SNF pravartate_pravṛt_SPr3In  / yatra_yatra_ sva_sva_Cp ātmanaḥ_ātman_SBM vyatiriktam_vyatiric_SNPaNe "
+  },
+  {
+    "index": 36607,
+    "sanskrit": "samastavastuvijñānaśaktyapākaraṇe 'pi te /",
+    "english": "even against the wise men who hold this view, the argument of the other party is of no avail.",
+    "morphology": "samasta_samasta_Cp vastu_vastu_Cp vijñāna_vijñāna_Cp śakti_śakti_Cp apākaraṇe_apākaraṇa_SLNe api_api_"
+  }
+]

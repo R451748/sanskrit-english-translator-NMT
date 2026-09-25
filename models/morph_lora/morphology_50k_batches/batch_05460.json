@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43672,
+    "sanskrit": "nitya mattāḥ ca mātaṅgāḥ śūraiḥ mlecchaiḥ adhiṣṭhitāḥ ārohaṇaiḥ mahāmātraiḥ tomara aṅkuśa pāṇibhiḥ anvayuḥ tat ratha anīkam kṣarantaḥ iva toyadāḥ",
+    "english": "Ashvatthama and the other foremost of mighty car-warriors, and many ever-infuriate elephants shedding temporal secretions like the very clouds and ridden by brave Mlecchas, followed behind that car-force.",
+    "morphology": "nitya_nitya_Cp mattāḥ_mad_PNPaPsM ca_ca_U mātaṅgāḥ_mātaṃga_PNM śūraiḥ_śūra_PIM mlecchaiḥ_mleccha_PIM adhiṣṭhitāḥ_adhiṣṭhā_PNPaPsM ārohaṇaiḥ_ārohaṇa_PINe mahāmātraiḥ_mahāmātra_PIM tomara_tomara_MCp aṅkuśa_a"
+  },
+  {
+    "index": 43673,
+    "sanskrit": "mattakruddhāturāṇāṃ ca na bhuñjīta kadācana /",
+    "english": "One should never eat food from intoxicated, angry and sick men.",
+    "morphology": "matta_mad_PaCp kruddha_krudh_PaCp āturāḥ_ātura_PGM ca_ca_"
+  },
+  {
+    "index": 43674,
+    "sanskrit": "namo brahmāṇḍadehāya brahmāṃḍodaravartine | tatra saṃsiddhakāryāya saṃsiddhakaraṇāya ca || namostu sarvalokāya sarvalokavidhāyine | sarvātmadehasaṃyoga viyogavidhihetave ||",
+    "english": "20. Obeisance to the deity who has universe for his body, who is stationed within the belly of the universe, who has accomplished his task and whose body is perfectly accomplished. 21. Obeisance to the deity identical with the world, the creator, the sustainer and the annihilator of the world.",
+    "morphology": "namaḥ_namas_SNNe brahmāṇḍa_brahmāṇḍa_Cp dehāya_deha_SDM brahmāṃḍa_brahmāṇḍa_Cp udara_udara_Cp vartine_vartin_SDM  / tatra_tatra_ saṃsiddha_saṃsidh_PaCp kāryāya_kārya_SDM saṃsiddha_saṃsidh_PaCp karaṇāya_karaṇa_SDM ca_c"
+  },
+  {
+    "index": 43675,
+    "sanskrit": "tato daityastribhirdurgāṃ jaghāna viśikhairmukhe | paṃcabhiḥ paṃcabhirbāhvordvābhyāṃ dvābhyāṃ ca netrayoḥ || 67 ||",
+    "english": "67. Thereupon the Daītya struck Durgā in her face with three arrows. He discharged five arrows on each of the arms and two on each of the eyes.",
+    "morphology": "tatas_tatas_ daityaḥ_daitya_SNM tribhiḥ_tri_PIM durgām_durgā_SAF jaghāna_han_SPs3In viśikhaiḥ_viśikha_PIM mukhe_mukha_SLNe  / paṃcabhiḥ_pañcan_PIM paṃcabhiḥ_pañcan_PIM bāhvoḥ_bāhu_DuLM dvābhyām_dvi_DuIM dvābhyām_dvi_DuIM ca_ca_"
+  },
+  {
+    "index": 43676,
+    "sanskrit": "agnirūpasya viṣṇorhi havanaṃ dhyānamarcanaṃ // japyaṃ stutiś ca praṇatiḥ śārīrāśeṣāghaughanut /",
+    "english": "The oblations, contemplation, worship, repetition of sacred syllables, hymns and obeisance made to lord Viṣṇu of the form of Fire god would destroy sins relating to one’s body.",
+    "morphology": "agni_agni_Cp rūpasya_rūpa_SGM viṣṇoḥ_viṣṇu_SGM hi_hi_ havanam_havana_SNNe dhyānam_dhyāna_SNNe arcanam_arcana_SNNe  // japyam_japya_SNNe stutiḥ_stuti_SNF ca_ca_ praṇatiḥ_praṇati_SNF  /"
+  },
+  {
+    "index": 43677,
+    "sanskrit": "ativyayakarma ca vārayet //",
+    "english": "He shall also check their extravagant expenditure",
+    "morphology": "a_a_ vyaya_vyaya_Cp karma_karman_SANe ca_ca_ vārayet_vāray_SPr3O"
+  },
+  {
+    "index": 43678,
+    "sanskrit": "saptamo'rtha iti niyamārtham anukramārthañcāha /",
+    "english": "He states that this is the seventh subject so as to delimit and also to their sequential order.",
+    "morphology": "saptamaḥ_saptama_SNM arthaḥ_artha_SNM iti_iti_ niyama_niyama_Cp artham_artha_SAM anukrama_anukrama_Cp artham_artha_SAM ca_ca_ "
+  },
+  {
+    "index": 43679,
+    "sanskrit": "nityatvena vyavasthitāniti /",
+    "english": "‘Which appear there as eternal’, through the Universals.",
+    "morphology": "nitya_nitya_Cp tvena_tva_SINe"
+  }
+]

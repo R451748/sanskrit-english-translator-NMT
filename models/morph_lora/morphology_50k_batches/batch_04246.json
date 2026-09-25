@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33960,
+    "sanskrit": "kūrma kumbhīra karkaṭaka kṛṣṇakarkaṭaka śiśumāra prabhṛtayaḥ pādinaḥ ||",
+    "english": "Animals such as, the tortoise, alligator, crab, black crab, porpoise, etc., belong to this species.",
+    "morphology": "kūrma_kūrma_MCp kumbhīra_kumbhīra_MCp karkaṭaka_karkaṭaka_MCp kṛṣṇakarkaṭaka_kṛṣṇakarkaṭaka_MCp śiśumāra_śiśumāra_MCp prabhṛtayaḥ_prabhṛti_PNM pādinaḥ_pādin_PNM"
+  },
+  {
+    "index": 33961,
+    "sanskrit": "cīcīkūcītyavāśaṃta sārikā vṛṣṇiveśmasu | nopaśāmyati śabdaśca sa divārātrameva vā || 29 ||",
+    "english": "29. Sārikā birds shrieked “cī-cī-kū-cī” in the abodes of Vṛṣṇis. That noise continued day and night and never ceased.",
+    "morphology": "sārikāḥ_sārikā_PNF vṛṣṇi_vṛṣṇi_Cp veśmasu_veśman_PLNe  / na_na_ upaśāmyati_upaśam_SPr3In śabdaḥ_śabda_SNM ca_ca_ sa_tad_SNM divārātram_divārātram_ eva_eva_ vā_vā_"
+  },
+  {
+    "index": 33962,
+    "sanskrit": "tam āśritya mahīpālam āsan ca eva akutobhayāḥ",
+    "english": "And his subjects, depending upon him, never entertained any fear.",
+    "morphology": "tam_tad_SAM āśritya_āśri_Co mahīpālam_mahīpāla_SAM āsan_as_PPs3In ca_ca_U eva_eva_U akutobhayāḥ_akutobhaya_PNM"
+  },
+  {
+    "index": 33963,
+    "sanskrit": "kadācideva mriyata iti martyamityukte na tathā saṃtrāso bhavati yathā grastameva sadā vyāptameva mṛtyunetyukta iti vairāgyārthaṃ viśeṣa ityucyata",
+    "english": "hence, for this purpose of creating a feeling of disgust for the body, the particular expression has been used ‘is held by death’",
+    "morphology": "kadācid_kadācid_ eva_eva_ mriyate_mṛ_SPr3InPv iti_iti_ martyam_martya_SAM iti_iti_ ukte_vac_SLPaNe na_na_ tathā_tathā_ saṃtrāsaḥ_saṃtrāsa_SNM bhavati_bhū_SPr3In yathā_yathā_ grastam_gras_SNPaNe eva_eva_ sadā_sadā_ vyāptam_vyāp_SNPaNe e"
+  },
+  {
+    "index": 33964,
+    "sanskrit": "aniṣṭanivṛttiḥ śāstrapradarśitābhipretaniyamasya prāptiś ca phalasiddhir bhavati ity arthaḥ // – //",
+    "english": "That is, he is saved from all evil and attains that desirable result which has been described in the scriptures request your help to keep doing what.",
+    "morphology": "__aniṣṭa_U __nivṛtti_U __śāstra_U __pradarśay_PaU __abhipre_PaU __niyama_U __prāpti_U ca_ca_U __phala_U __siddhi_U bhavati_bhū_SPr3In iti_iti_U __artha_U  // __U  //"
+  },
+  {
+    "index": 33965,
+    "sanskrit": "ātmatṛtīyā mārgasya prārcyecchābhojanādinā //",
+    "english": "The third lunar day in the month of mārga śīrṣa DecemberJanuary is known as ātmatṛtīyā the third lunar day relating to the soul.",
+    "morphology": "ātma_ātman_Cp tṛtīyā_tṛtīya_SNF mārgasya_mārga_SGM prārcya_prārc_Co icchā_icchā_Cp bhojana_bhojana_Cp ādinā_ādi_SINe  /"
+  },
+  {
+    "index": 33966,
+    "sanskrit": "prati vām ratham nr̥patī itinr̥ patī jaradhyai haviṣmatā manasā yajñiyena yah vām dūtaḥ na dhiṣṇyau ajīgaḥ accha sūnuḥ na pitarā vivakmi",
+    "english": "I WITH a holy heart that brings oblation will sing forth praise to meet your car, ye Princes, Which, Much-desired! hath wakened as your envoy. I call you hither as a son his parents.",
+    "morphology": "prati_prati_U vām_tvad_DuG ratham_ratha_SAM nr̥patī_nr̥pati_DuVM itinr̥_itinr̥_U patī_pati_DuVM jaradhyai_jṛ_In haviṣmatā_haviṣmat_SINe manasā_manas_SINe yajñiyena_yajñiya_SINe yah_yah_SNM vām_tvad_DuA dūtaḥ_dūta_SNM na_na_U dhiṣṇ"
+  },
+  {
+    "index": 33967,
+    "sanskrit": "vaśiṣṭhaḥ kāśyapo 'thātrirjamadagniḥ sagotamaḥ / viśvāmitrabharadvājau munayaḥ sapta sāmprataṃ //",
+    "english": "Vasiṣṭha, Kāśyapa, Atri, Jamadagni, Gautama, Viśvāmitra and Bharadvāja were the seven sages.",
+    "morphology": "vaśiṣṭhaḥ_vaśiṣṭha_SNM kāśyapaḥ_kāśyapa_SNM atha_atha_ atriḥ_atri_SNM jamadagniḥ_jamadagni_SNM sa_sa_ gotamaḥ_gotama_SNM  / viśvāmitra_viśvāmitra_Cp bharadvājau_bharadvāja_DuNM munayaḥ_muni_PNM sapta_saptan_PNM sāmpratam_s"
+  }
+]

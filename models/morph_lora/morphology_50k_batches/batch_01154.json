@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9224,
+    "sanskrit": "saḥ abhyayāt kṛtavarmāṇam dhṛtarāṣṭra sutaḥ nṛpaḥ",
+    "english": "And the royal son of Dhritarashtra then went to Kritavarman.",
+    "morphology": "saḥ_tad_SNM abhyayāt_abhiyā_SPs3In kṛtavarmāṇam_kṛtavarman_SAM dhṛtarāṣṭra_dhṛtarāṣṭra_MCp sutaḥ_suta_SNM nṛpaḥ_nṛpa_SNM"
+  },
+  {
+    "index": 9225,
+    "sanskrit": "vācyavācakasaṃbaṃdho gāyatryāḥ saviturdvayoḥ | vācyosau savitā sākṣādgāyatrīvācikāparā || 54 ||",
+    "english": "54. The relationship between the two, the Sun and Gāyatrī is that of the word and the object signified by it. Gāyatrī is the great expression and the Sun is the expressed object.",
+    "morphology": "vācya_vac_GdCp vācaka_vācaka_Cp saṃbaṃdhaḥ_sambandha_SNM gāyatryāḥ_gāyatrī_SGF savituḥ_savitṛ_SGM dvayoḥ_dvi_DuGM  / vācyā_vac_SNFGd asau_adas_SNF savitā_savitṛ_SNM sākṣāt_sākṣāt_ gāyatrī_gāyatrī_Cp vācikā_vācaka_SN"
+  },
+  {
+    "index": 9226,
+    "sanskrit": "na pañcanakhāntarāgamane //",
+    "english": "When a five-toed animal has passed between the teacher and the pupil (the latter must interrupt his study for a day and a night).",
+    "morphology": "na_na_ pañcanakha_pañcanakha_Cp antar_antar_ āgamane_āgamana_SLNe  /"
+  },
+  {
+    "index": 9227,
+    "sanskrit": "kṛtaḥ ca samayaḥ pūrvam kṣantavyam vipriyam tava",
+    "english": "Before this, I made a compact with thee that any disagreeable speeches thou mightest utter would be pardoned by me.",
+    "morphology": "kṛtaḥ_kṛ_SNPaPsM ca_ca_U samayaḥ_samaya_SNM pūrvam_pūrvam_U kṣantavyam_kṣam_SNNeGd"
+  },
+  {
+    "index": 9228,
+    "sanskrit": "veda vedāṅga vid vipraḥ jāyate rāja pūjitaḥ",
+    "english": "Narayana is taken by Nilakantha to stand here for either the Veda or the Soul.",
+    "morphology": "veda_veda_MCp vedāṅga_vedāṅga_NeCp vid_vid_SNM vipraḥ_vipra_SNM jāyate_jan_SPr3In rāja_rājan_MCp"
+  },
+  {
+    "index": 9229,
+    "sanskrit": "rathān aśvān narān nāgān abhidhāvan tatas tatas cacāra unmatta vat droṇaḥ vṛddhaḥ api taruṇaḥ yathā",
+    "english": "Rushing on all sides at car-warriors and steeds and foot-soldiers and elephants, Drona furiously careered over the field like a young man, though bearing the weight of years.",
+    "morphology": "rathān_ratha_PAM aśvān_aśva_PAM narān_nara_PAM nāgān_nāga_PAM abhidhāvan_abhidhāv_SNPaPrM tatas_tatas_U tatas_tatas_U cacāra_car_SPs3In unmatta_unmad_PaPsCp vat_vat_U droṇaḥ_droṇa_SNM vṛddhaḥ_vṛddha_SNM api_api_U taruṇaḥ_taruṇa"
+  },
+  {
+    "index": 9230,
+    "sanskrit": "tatas tat bhavana śreṣṭham prākampata muhur muhur balavat ca api saṃkruddhau anyonyam tau agarjatām",
+    "english": "And as they roared at each other in wrath, that excellent and strong edifice began to shake every moment.",
+    "morphology": "tatas_tatas_U tat_tad_SNNe bhavana_bhavana_NeCp śreṣṭham_śreṣṭha_SNNe prākampata_prakamp_SPs3In muhur_muhur_U muhur_muhur_U balavat_balavat_SANe ca_ca_U api_api_U saṃkruddhau_saṃkrudh_DuNPaPsM anyonyam_anyonya_SAM tau_tad_DuNM agarjatām_gar"
+  },
+  {
+    "index": 9231,
+    "sanskrit": "mitradrohaṃ kathaṃ jānankaromi raṇakarkaśaḥ | suhṛddrohe mahatpāpaṃ pūrvamuktaṃ svayaṃbhuvā ||",
+    "english": "4. How can I knowingly commit malicious deeds to my friends though I am hardy and powerful in battles? Even Brahmā has said that there is a great sin attending on even casual malicious actions.",
+    "morphology": "mitra_mitra_Cp droham_droha_SAM katham_katham_ jānan_jñā_SNPaPrM karomi_kṛ_SPr1In raṇa_raṇa_Cp karkaśaḥ_karkaśa_SNM  / suhṛd_suhṛd_Cp drohe_droha_SLM mahat_mahat_SNNe pāpam_pāpa_SNNe pūrvam_pūrvam_ uktam_vac_SNPaNe svayaṃbhuvā_svaya"
+  }
+]

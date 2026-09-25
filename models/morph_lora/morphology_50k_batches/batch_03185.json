@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25472,
+    "sanskrit": "gorasaiś ca varteta //",
+    "english": "And let him subsist upon the (five) productions of a cow:",
+    "morphology": "go_go_Cp rasaiḥ_rasa_PIM"
+  },
+  {
+    "index": 25473,
+    "sanskrit": "pradātā sarva lokānām viśvam ca api ucyate mahat jyeṣṭha bhūtam vadanti enam brāhmaṇāḥ ṛṣayaḥ apare",
+    "english": "Verily, the Brahmanas and Rishis call him the eldest of all beings.",
+    "morphology": "pradātā_pradātṛ_SNM sarva_sarva_Cp lokānām_loka_PGM viśvam_viśva_SNNe ca_ca_U api_api_U ucyate_vac_SPr3InPv mahat_mahat_SNNe jyeṣṭha_jyeṣṭha_Cp bhūtam_bhū_SNPaPsNe vadanti_vad_PPr3In enam_enad_SAM brāhmaṇāḥ_brāhmaṇa_PNM ṛṣay"
+  },
+  {
+    "index": 25474,
+    "sanskrit": "yady api gotravat pravarān api smaranti, tathāpi bahutvāt kadācid vismareyur iti gotram upalakṣaṇīkṛtya pravarasmṛtir upanibaddhā / gotraṃ tu smaranti /",
+    "english": "Though, liketheir gotra, people remember their pravaras also, yet inasmuch as the number of pravaras is large, it was thought that people might forget them, and hence the Smṛtis were written for the purpose of mentioning the pravaras connected with each of the gotras.",
+    "morphology": "yadi_yadi_ api_api_ gotra_gotra_Cp vat_vat_ pravarān_pravara_PAM api_api_ smaranti_smṛ_PPr3In tathā_tathā_ api_api_ bahu_bahu_Cp tvāt_tva_SBNe kadācid_kadācid_ vismareyuḥ_vismṛ_PPr3O iti_iti_ gotram_gotra_SANe upalakṣaṇīkṛtya_upalakṣa"
+  },
+  {
+    "index": 25475,
+    "sanskrit": "asmin tu khalu saṃgrāme grāhyam vividham āyudham",
+    "english": "Indeed, in such a dreadful battle, diverse kinds of weapons ought to be taken.",
+    "morphology": "asmin_idam_SLM"
+  },
+  {
+    "index": 25476,
+    "sanskrit": "śrīvatsa vakṣāḥ śrīvāsaḥ śrīpatiḥ śrīmatām varaḥ",
+    "english": "He that give prosperity unto His worshippers;",
+    "morphology": "śrīvatsa_śrīvatsa_MCp vakṣāḥ_vakṣas_SNM śrīvāsaḥ_śrīvāsa_SNM śrīpatiḥ_śrīpati_SNM"
+  },
+  {
+    "index": 25477,
+    "sanskrit": "caturo vārṣikānmāsānekabhaktena yo nayet | vāsudevaṃ samuddiśya sa dhanī jāyate naraḥ || 5 ||",
+    "english": "5. The man who spends the four months of rainy season with only a single meal per day with Vāsudeva in view becomes endowed with wealth.",
+    "morphology": "caturaḥ_catur_PAM vārṣikān_vārṣika_PAM māsān_māsa_PAM eka_eka_Cp bhaktena_bhakta_SINe yaḥ_yad_SNM nayet_nī_SPr3O  / vāsudevam_vāsudeva_SAM samuddiśya_samuddiś_Co saḥ_tad_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 25478,
+    "sanskrit": "saṃkhyānaṃ yādavānāṃ kaḥ kariṣyati mahātmanām / yatrāyutānāmayutalakṣeṇāste sadāhukaḥ // devāsure hatā ye tu daiteyāḥsumahābalāḥ / utpannāste manuṣyeṣu pramāṇe ca prabhutve ca vyavasthitaḥ / nideśasthāyinastasya vavṛdhuḥsarvayādavāḥ //",
+    "english": "Who shall enumerate the whole of the mighty men of the Yādava race, who were tens of ten thousands and hundreds of hundred thousands in number?” Those powerful Daityas who were killed in the conflicts between them and the gods were born again upon earth as men, as tyrants and oppressors and, in order to check their violence, the gods also descended to the world of mortals, and became members of the hundred and one branches of the family of Yadu.",
+    "morphology": "saṃkhyānam_saṃkhyāna_SANe yādavānām_yādava_PGM kaḥ_ka_SNM kariṣyati_kṛ_SFu3In mahātmanām_mahātman_PGM  / yatra_yatra_ ayutānām_ayuta_PGNe ayuta_ayuta_Cp lakṣeṇa_lakṣa_SIM āste_ās_SPr3In sadā_sadā_ āhukaḥ_āhuka_SNM  / dev"
+  },
+  {
+    "index": 25479,
+    "sanskrit": "nyāyenedamivānena na sthitaṃ vasudhātalam / idaṃ caivaikamevādyasargasyādyamupāgatam //",
+    "english": "It is clear from this argument, that there is no such thing as the stable earth; it is of the same ideal form as it was conceived in the mind, at the first creation of the world.",
+    "morphology": "nyāyena_nyāya_SIM idam_idam_SNNe iva_iva_ anena_idam_SIM na_na_ sthitam_sthā_SNPaNe vasudhā_vasudhā_Cp talam_tala_SNNe  / idam_idam_SNNe ca_ca_ eva_eva_ ekam_eka_SNNe eva_eva_ ādya_ādya_Cp sargasya_sarga_SGM ādyam_ādya_SNNe upāgatam_upāgam_SNPaN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46720,
+    "sanskrit": "keśyam rasāyanam medhyam kāśmaryam phalam ucyate",
+    "english": "The fruit known as the Kashmarya Phala is pleasant and diuretic.",
+    "morphology": "keśyam_keśya_SNNe"
+  },
+  {
+    "index": 46721,
+    "sanskrit": "tataḥ pratyāgataprāṇau tataḥ prabhṛti tāvubhau / dṛṣṭānurāgāv anyonyam aviyuktau babhūvatuḥ //",
+    "english": "And after breath had returned to them, having each had a proof of the other’s affection, they continued inseparable for the rest of their lives.",
+    "morphology": "tatas_tatas_ pratyāgata_pratyāgam_PaCp prāṇau_prāṇa_DuNM tatas_tatas_ prabhṛti_prabhṛti_ tau_tad_DuNM ubhau_ubh_DuNM  / dṛṣṭa_dṛś_PaCp anurāgau_anurāga_DuNM anyonyam_anyonya_SAM a_a_ viyuktau_viyuj_DuNPaM babhūvatuḥ_bhū_DuPs3In  "
+  },
+  {
+    "index": 46722,
+    "sanskrit": "dṛṣṭisaṃyojanaṃ nirodhasatyaparijñāne satkāyā'ntagrāhadṛṣṭibhyāntad uttrāsāt mithyādṛṣṭyā cāpavādāt /",
+    "english": "The fetter that consists in false view is an obscuration in the clear comprehension of the truth of cessation because the fear of the latter is on account of the false views of individuality and the grasping of extremes and is also due to negation by wrong view.",
+    "morphology": "dṛṣṭi_dṛṣṭi_Cp saṃyojanam_saṃyojana_SNNe nirodha_nirodha_Cp satya_satya_Cp parijñāne_parijñāna_SLNe uttrāsāt_uttrāsa_SBM mithyādṛṣṭyā_mithyādṛṣṭi_SIF ca_ca_ apavādāt_apavāda_SBM  /"
+  },
+  {
+    "index": 46723,
+    "sanskrit": "āśrayo'rthāśritas tasya nimittaṃ phalam eva ca /",
+    "english": "The basis, that which is based on it, the cause of the former and the result.",
+    "morphology": "āśrayaḥ_āśraya_SNM artha_artha_Cp āśritaḥ_āśri_SNPaM tasya_tad_SGM nimittam_nimitta_SNNe phalam_phala_SNNe eva_"
+  },
+  {
+    "index": 46724,
+    "sanskrit": "tatas tam āryavatprāptaṃ babhror hastād ariṃdamaḥ / dadau hṛṣṭamanāḥ kṛṣṇas taṃ maṇiṃ babhrave punaḥ //",
+    "english": "Receiving from Akrura the jewel who gave it away with all simplicity, Hari, the repressor of enemies, returned it to him with a delighted heart.",
+    "morphology": "tatas_tatas_ tam_tad_SAM ārya_ārya_Cp vat_vat_ prāptam_prāp_SAPaM babhroḥ_babhru_SGM hastāt_hasta_SBM ariṃdamaḥ_ariṃdama_SNM  / dadau_dā_SPs3In hṛṣṭa_hṛṣ_PaCp manāḥ_manas_SNM kṛṣṇaḥ_kṛṣṇa_SNM tam_tad_SAM maṇim_ma"
+  },
+  {
+    "index": 46725,
+    "sanskrit": "sātrājitī tatas satyā rukmiṇī ca viśām pate abhipatya praruruduḥ parivārya dhanaṃjayam",
+    "english": "Then Satya, the daughter of Satrajit, and Rukmini too, O king, fell down beside Dhananjaya and uttered loud wails of grief.",
+    "morphology": "sātrājitī_sātrājitī_SNF tatas_tatas_U satyā_satyā_SNF rukmiṇī_rukmiṇī_SNF ca_ca_U viśām_viś_PGF pate_pati_SVM abhipatya_abhipat_Co praruruduḥ_prarud_PPs3In parivārya_parivāray_Co dhanaṃjayam_dhanaṃjaya_SAM"
+  },
+  {
+    "index": 46726,
+    "sanskrit": "aśvam prastotṛpratihartṛbhyām |",
+    "english": "the sacrificial fee is a great castrated (ox).",
+    "morphology": "aśvam_aśva_SAM"
+  },
+  {
+    "index": 46727,
+    "sanskrit": "aghāsuro nāma mahā daityas tatra sthito 'bhavatkrośa dīrghaṃ vapuḥ kṛtvā prasarya mukha maṇòalam",
+    "english": "A great demon named Aghāsura stayed there. His body was two miles long and his mouth wide open.",
+    "morphology": "aghāsuraḥ_aghāsura_SNM nāma_nāma_ mahā_mahat_Cp daityaḥ_daitya_SNM tatra_tatra_ sthitaḥ_sthā_SNPaM abhavat_bhū_S3ImIn dīrgham_dīrgha_SANe vapuḥ_vapus_SANe kṛtvā_kṛ_Co prasarya_prasṛ_Co"
+  }
+]

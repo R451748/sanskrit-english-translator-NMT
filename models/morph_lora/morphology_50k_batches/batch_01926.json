@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15400,
+    "sanskrit": "srotaḥ ca yāvat gaṅgāyāḥ channam āsīt jagatpate dakṣiṇābhiḥ pravṛttābhiḥ mama nāgām ca tad kṛte",
+    "english": "In those sacrifices, O Lord of the universe, the presents that flowed from me were as copious as the stream of Ganga herself.",
+    "morphology": "srotaḥ_srotas_SNNe ca_ca_U yāvat_yāvat_U gaṅgāyāḥ_gaṅgā_SGF channam_chad_SNPaPsNe āsīt_as_SPs3In jagatpate_jagatpati_SVM dakṣiṇābhiḥ_dakṣiṇā_PIF pravṛttābhiḥ_pravṛt_PIPaPsF mama_mad_SG nāgām_nāgā_SAF ca_ca_U tad_tad_Cp"
+  },
+  {
+    "index": 15401,
+    "sanskrit": "ātmakhyātipadasyārtha ātmakhyātipadojjhitaḥ / anādyanto nirullekhaḥ so'yamekaghanaḥ sthitaḥ //",
+    "english": "The word itself conveys the meaning of self said:—soul. It is without beginning and end, and no language can express it; in fact, it is an undivided whole.",
+    "morphology": "ātma_ātman_Cp khyāti_khyāti_Cp padasya_pada_SGNe arthaḥ_artha_SNM ātma_ātman_Cp khyāti_khyāti_Cp pada_pada_Cp ujjhitaḥ_ujjhita_SNM  / anādi_anādi_Cp antaḥ_anta_SNM nirullekhaḥ_nirullekha_SNM saḥ_tad_SNM ayam_idam_SNM eka_eka_Cp ghanaḥ"
+  },
+  {
+    "index": 15402,
+    "sanskrit": "paśya buddhyā manuṣyāṇām rājan āpadam ātmanaḥ",
+    "english": "Behold, O king, with thy intelligence, and thou wilt understand that the calamities which overtake men are all due to the conduct of men themselves.",
+    "morphology": "paśya_paś_SPr2Im"
+  },
+  {
+    "index": 15403,
+    "sanskrit": "priyaṅguḥ madhukam mustā tathā eva ca rasāñjanam",
+    "english": "A Samshodha Vasti (soothing enema) consists of Priyangu, Yas (?) madhu, Musta and Rasanjana with cow’s milk.",
+    "morphology": "priyaṅguḥ_priyaṅgu_SNM"
+  },
+  {
+    "index": 15404,
+    "sanskrit": "ahirbudhnyastathā ṣaṣṭhaḥ pinākī saptamastathā | paraṃ tapastathānyastu dahano navamastathā || 4 ||",
+    "english": "4. Ahirbudhnya is the sixth. Pinākin is the seventh. Parantapa is the other one (i.e. eighth). Dahana is the ninth one.",
+    "morphology": "ahirbudhnyaḥ_ahirbudhnya_SNM tathā_tathā_ ṣaṣṭhaḥ_ṣaṣṭha_SNM pinākī_pinākin_SNM saptamaḥ_saptama_SNM tathā_tathā_  / param_para_SNNe tapaḥ_tapa_SNM tathā_tathā_ anyaḥ_anya_SNM tu_tu_ dahanaḥ_dahana_SNM navamaḥ_navama_SNM "
+  },
+  {
+    "index": 15405,
+    "sanskrit": "tasmāt śaktau yuvām jetum mad śatrūn tau iva asurān",
+    "english": "United, ye two, therefore, are competent to vanquish my foes that are even like the Asuras.",
+    "morphology": "tasmāt_tasmāt_U śaktau_śak_DuNPaPsM yuvām_tvad_DuNM jetum_ji_In mad_mad_Cp śatrūn_śatru_PAM tau_tad_DuNM iva_iva_U asurān_asura_PAM"
+  },
+  {
+    "index": 15406,
+    "sanskrit": "yaḥ hi kaś cit dvijān hanyāt gām vā lokasya mātaram śaraṇa āgatam ca tyajate tulyam teṣām hi pātakam ekatas kratavaḥ sarve samāpta vara dakṣiṇāḥ",
+    "english": "He that slayeth a Brahmana, he that slaughtered a cow--the common mother of all the worlds--and he that forsaketh one seeking for protection are equally sinful.' Thereat the hawk replied, 'O lord of earth, it is from food that all beings derive their life, and it is food also that nourisheth and sustaineth them.",
+    "morphology": "yaḥ_yad_SNM hi_hi_U kaḥ_ka_SNM cit_cit_U dvijān_dvija_PAM hanyāt_han_SPr3O gām_go_SAM vā_vā_U lokasya_loka_SGM mātaram_mātṛ_SAF śaraṇa_śaraṇa_NeCp āgatam_āgam_SAPaPsM ca_ca_U tyajate_tyaj_SPr3In tulyam_tulya_SNNe teṣām_tad_PGM hi_hi"
+  },
+  {
+    "index": 15407,
+    "sanskrit": "ekadāhaṃ gataḥ putra camatkārapurottame | dṛṣṭaṃ mayā puraṃ tacca samaṃtādbrāhmaṇaivṛtam || 75 ||",
+    "english": "75. Once, dear son, I went to the excellent city of Camatkāra. The entire city was full of Brāhmaṇas.",
+    "morphology": "ekadā_ekadā_ aham_mad_SN gataḥ_gam_SNPaM putra_putra_SVM camatkāra_camatkāra_Cp pura_pura_Cp uttame_uttama_SLNe  / dṛṣṭam_dṛś_SNPaNe mayā_mad_SI puram_pura_SNNe tat_tad_SNNe ca_ca_ samaṃtāt_samantāt_ brāhmaṇaiḥ_brāhmaṇa_PIM vṛ"
+  }
+]

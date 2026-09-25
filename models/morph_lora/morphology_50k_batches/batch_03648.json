@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29176,
+    "sanskrit": "etac ca pādasparśe śaṅkānivṛttyartham / tad uktam ākarāḥ śucayaḥ sarve iti //",
+    "english": "All this is for the purpose of removing all doubts in the event of their being touched by foot, as it has been said that \"all things in large quantities are pure\".",
+    "morphology": "etat_etad_SNNe ca_ca_ pāda_pāda_Cp sparśe_sparśa_SLM śaṅkā_śaṅkā_Cp nivṛtti_nivṛtti_Cp artham_artha_SNNe  / tat_tad_SNNe uktam_vac_SNPaNe ākarāḥ_ākara_PNM śucayaḥ_śuci_PNM sarve_sarva_PNM iti_iti_  /"
+  },
+  {
+    "index": 29177,
+    "sanskrit": "manasendriyavṛttīnāṃ tattadviṣayataśca yat | ākarṣaṇaṃ pratīcīnaṃ pratyāhāraḥ sa īritaḥ || 16 ||",
+    "english": "The backward pull of the mind and the propensities of the sense-organs from their respective objects is called Pratyāhāra.",
+    "morphology": "manasā_manas_SINe indriya_indriya_Cp vṛttīnām_vṛtti_PGF tad_tad_Cp tad_tad_Cp viṣayataḥ_viṣaya_SBM ca_ca_ yat_yad_SNNe  / ākarṣaṇam_ākarṣaṇa_SNNe pratīcīnam_pratīcīna_SNNe pratyāhāraḥ_pratyāhāra_SNM saḥ_tad_SNM īritaḥ_"
+  },
+  {
+    "index": 29178,
+    "sanskrit": "latāvilāsakundaughabhāsinī rasaśālinī / pravālahastā puṣpābhā madhuśrīriva dehinī //",
+    "english": "She was buxom as a playful plant, and bright as a branch of kunda flowers, and full of glee and good humour. With her palms red as corals, and her fingers white as lilies, she was in her person a congeries of vernal beauties.",
+    "morphology": "latā_latā_Cp vilāsa_vilāsa_Cp kunda_kunda_Cp ogha_ogha_Cp bhāsinī_bhāsin_SNF rasa_rasa_Cp śālinī_śālin_SNF  / pravāla_pravāla_Cp hastā_hasta_SNF puṣpa_puṣpa_Cp ābhā_ābha_SNF madhu_madhu_Cp śrīḥ_śrī_SNF iva_iva_ dehinī_dehinī_S"
+  },
+  {
+    "index": 29179,
+    "sanskrit": "dāna ātithya kriyā dharmaiḥ yānti vaiśyāḥ ca sat gatim",
+    "english": "The Vaisyas attain excellent state through gifts, hospitality, and religious acts.",
+    "morphology": "dāna_dāna_NeCp ātithya_ātithya_NeCp kriyā_kriyā_FCp dharmaiḥ_dharma_PIM"
+  },
+  {
+    "index": 29180,
+    "sanskrit": "saṃtoṣaḥ sādhusaṅgaśca vicāro'tha śamastathā / eta eva bhavāmbhodhāvupāyāstaraṇe nṛṇām //",
+    "english": "Contentment, society of the virtuous, ratiocination and quietism, are the several means for crossing over the ocean of the world by mankind.",
+    "morphology": "saṃtoṣaḥ_saṃtoṣa_SNM sādhu_sādhu_Cp saṅgaḥ_saṅga_SNM ca_ca_ vicāraḥ_vicāra_SNM atha_atha_ śamaḥ_śama_SNM tathā_tathā_  / ete_etad_PNM eva_eva_ bhava_bhū_SPr2Im ambhodhau_ambhodhi_SLM upāya_upāya_SVM āstaraṇe_āstaraṇa_SL"
+  },
+  {
+    "index": 29181,
+    "sanskrit": "pratyakṣamūlatāyāṃ tu guruvī bhavati kalpanā /",
+    "english": "The Āgamas in question may draw their materials from Vedic works.",
+    "morphology": "pratyakṣa_pratyakṣa_Cp mūla_mūla_Cp tāyām_tā_SLF tu_tu_ guruvī_guru_SNF"
+  },
+  {
+    "index": 29182,
+    "sanskrit": "kṛṣṇopyanena saṃjānansāṃbaṃ svasutamaurasam | abravītkuṣṭhamokṣāya vraja vaiśveśvarīṃ purīm || 39 ||",
+    "english": "39. By this time Kṛṣṇa realized (his mistake) and told his bosom-born son Sāṃba: “To get the cure from leprosy, go to the city of Viśveśvara.",
+    "morphology": "kṛṣṇaḥ_kṛṣṇa_SNM api_api_ anena_idam_SIM saṃjānan_saṃjñā_SNPaPrM sa_sa_ aṃbam_ambā_SAM sva_sva_Cp sutam_suta_SAM aurasam_aurasa_SAM  / abravīt_brū_S3ImIn kuṣṭha_kuṣṭha_Cp mokṣāya_mokṣa_SDM vraja_vraj_SPr2Im vaiśveśv"
+  },
+  {
+    "index": 29183,
+    "sanskrit": "tenāsya vākyena supeśalena svāmyarthadhīreṇa ca ceṣṭitena / tathā prasanno 'smi yathāsya bhartā mayā samaṃ krūratayaiva muktaḥ //",
+    "english": "So great was the effect of his soft words and his strong deeds in behalf of his master, that was converted to tenderness, and dismissed his lord together with my own cruel temper.",
+    "morphology": "tena_tad_SINe asya_idam_SGM vākyena_vākya_SINe su_su_ peśalena_peśala_SINe svāmi_svāmin_Cp artha_artha_Cp dhīreṇa_dhīra_SINe ca_ca_ ceṣṭitena_ceṣṭita_SINe  / tathā_tathā_ prasannaḥ_prasad_SNPaM asmi_as_SPr1In yathā_yathā_ asya_idam_"
+  }
+]

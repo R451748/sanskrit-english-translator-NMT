@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44976,
+    "sanskrit": "śiva uvāca | brahmañchṛṇu mama dvāri bāla ekassamāsthitaḥ | mahābalo yaṣṭipāṇirgehāveśanivārakaḥ ||",
+    "english": "27. O Brahmā, listen. A boy is standing at the entrance to my house. He is very strong. He has a staff in his hand. He prevents me from entering the house.",
+    "morphology": "śivaḥ_śiva_SNM uvāca_vac_SPs3In  / brahman_brahman_SVM śṛṇu_śru_SPr2Im mama_mad_SG dvāri_dvār_SLF bālaḥ_bāla_SNM ekaḥ_eka_SNM samāsthitaḥ_samāsthā_SNPaM  /"
+  },
+  {
+    "index": 44977,
+    "sanskrit": "yady api na dānapratibhūr adya nirādiṣṭas tat tatputro dāpyate svadhanād eva / tadvad yo nirādiṣṭaputra iti draṣṭavyam, tasyaiva prakṛtatvāt, sākṣāt pratibhuvas tu pratibhūtvād eva prāptir iti cen maivam /",
+    "english": "Though the money had been made over to the surety, yet it is the son who is to be made to pay out as of his own property the surety having died. Hence the words should be construed to mean \"the son of the surety to whom money had been made over\"; as it is the son that forms the subjectmatter of the context; as for the surety himself, his liability would follow from the mere fact of his being a \"surety\".",
+    "morphology": "yadi_yadi_ api_api_ na_na_ dāna_dāna_Cp pratibhūḥ_pratibhū_SNM adya_adya_ nirādiṣṭaḥ_nirādiś_SNPaM tat_tad_SANe tad_tad_Cp putraḥ_putra_SNM dāpyate_dāpay_SPr3InPv sva_sva_Cp dhanāt_dhana_SBNe eva_eva_  / tadvat_tadvat_ yaḥ_yad_SNM nir"
+  },
+  {
+    "index": 44978,
+    "sanskrit": "apām upa sthe mahiṣāḥ agr̥bhṇata viśaḥ rājānam upa tasthuḥ r̥gmiyam ā dūtaḥ agnim abharat vivasvataḥ vaiśvānaram mātariśvā parāvataḥ",
+    "english": "The Migbty seized him in the bosom of the floods: the people waited on the King who should be praised. As envoy of Vivasvan Mâtariṣvan brought Agni Vaiṣvânara hither from far away.",
+    "morphology": "apām_ap_PGF upa_upa_U sthe_stha_SLNe mahiṣāḥ_mahiṣa_PNM agr̥bhṇata_grah_PPs3In viśaḥ_viś_PNF rājānam_rājan_SAM upa_upa_U tasthuḥ_sthā_PPs3In r̥gmiyam_r̥gmiya_SAM ā_ā_U dūtaḥ_dūta_SNM agnim_agni_SAM abharat_bhṛ_SPs3In vivasvat"
+  },
+  {
+    "index": 44979,
+    "sanskrit": "āgatya ca cakāroccairyātrāṃ tatrādareṇa saḥ | dṛṣṭvā māhātmyamatulamayodhyāyāḥ savismayaḥ || 3 ||",
+    "english": "3. After arriving he conducted an extensive pilgrimage with great respect here. He was surprised on noticing the matchless glory of Ayodhyā.",
+    "morphology": "āgatya_āgam_Co ca_ca_ cakāra_kṛ_SPs3In uccais_uccais_ yātrām_yātrā_SAF tatra_tatra_ ādareṇa_ādara_SIM saḥ_tad_SNM  / dṛṣṭvā_dṛś_Co"
+  },
+  {
+    "index": 44980,
+    "sanskrit": "etaiḥ kṛcchraiḥ śodhyāḥ /",
+    "english": "\"These penances\" the several kinds of Kṛcchra.",
+    "morphology": "etaiḥ_etad_PINe kṛcchraiḥ_kṛcchra_PINe"
+  },
+  {
+    "index": 44981,
+    "sanskrit": "abhyarṣa svāyudha soma dvibarhasaṃ rayim / athā no vasyasaskṛdhi //",
+    "english": "Wellweaponed Soma, pour to us a stream of riches doubly great;",
+    "morphology": "abhyarṣa_abhyṛṣ_SPr2Im su_su_ āyudha_āyudha_SVM soma_soma_SVM dvibarhasam_dvibarhas_SAM rayim_rayi_SAM  / atha_atha_ ḥ_ḥ_"
+  },
+  {
+    "index": 44982,
+    "sanskrit": "itthaṃ kramasaṃvitau mūḍho'pi śivātmako bhavati | kramikatathāvidhaśivatānugrahasubhagaṃ ca daiśikaṃ paśyan |",
+    "english": "Proceeding along this psychology, even a fool can get transformed into Siva.",
+    "morphology": "ittham_ittham_ krama_krama_Cp saṃvitau_saṃviti_SLF mūḍhaḥ_muh_SNPaM api_api_ śiva_śiva_Cp ātmakaḥ_ātmaka_SNM bhavati_bhū_SPr3In  / kramika_kramika_Cp tathāvidha_tathāvidha_Cp śiva_śiva_Cp tā_tā_Cp anugraha_anugraha_Cp subhagam_subhaga"
+  },
+  {
+    "index": 44983,
+    "sanskrit": "kālapariṇāmavyāpārāvasthāviśeṣādyapi grāhyam /",
+    "english": "Time, modifications, functions and conditions also are meant to be included.",
+    "morphology": "__kāla_U __pariṇāma_U __vyāpāra_U __avasthā_U __viśeṣa_U"
+  }
+]

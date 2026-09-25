@@ -1,0 +1,50 @@
+[
+  {
+    "index": 312,
+    "sanskrit": "dravyānuktau ghṛtaṃ home japo 'śaktasya sarvataḥ /",
+    "english": "For one who is not able to repeat, ghee would be the material for libation, in all the cases, if the material has not been specified.",
+    "morphology": "dravya_dravya_Cp anuktau_anukti_SLF ghṛtam_ghṛta_SNNe home_homa_SLM japaḥ_japa_SNM aśaktasya_aśakta_SGM sarvatas_sarvatas_"
+  },
+  {
+    "index": 313,
+    "sanskrit": "dvivitastir aratniḥ prājāpatyo hastaḥ // sadhanurgrahaḥ pautavavivītamānam //",
+    "english": "vitastis are equal to aratni or prájápatya hasta vitastis plus dhanurgraha are hasta used in measuring balances and cubic measures, equal to and pasture lands",
+    "morphology": "dvi_dvi_Cp vitastiḥ_vitasti_SNM aratniḥ_aratni_SNM prājāpatyaḥ_prājāpatya_SNM hastaḥ_hasta_SNM  // sa_sa_ dhanuḥ_dhanus_Cp grahaḥ_graha_SNM pautava_pautava_Cp vivīta_vivīta_Cp mānam_māna_SNNe  /"
+  },
+  {
+    "index": 314,
+    "sanskrit": "na strīṣu rājan ratim āpnuvanti na māgadhaiḥ stūyamānāḥ na sūtaiḥ",
+    "english": "nor do they, O king, derive any plea. sure from women, or the laudatory hymns of bards and eulogists.",
+    "morphology": "na_na_U strīṣu_strī_PLF rājan_rājan_SVM ratim_rati_SAF āpnuvanti_āp_PPr3In na_na_U māgadhaiḥ_māgadha_PIM stūyamānāḥ_stu_PNPaPrMPv"
+  },
+  {
+    "index": 315,
+    "sanskrit": "bāhlīkaḥ ratham āhārṣīt jāmbūnada pariṣkṛtam",
+    "english": "And king Vahlika brought there a car decked with pure gold.",
+    "morphology": "bāhlīkaḥ_bāhlīka_SNM ratham_ratha_SAM āhārṣīt_āhṛ_SPs3In jāmbūnada_jāmbūnada_NeCp pariṣkṛtaḥ_pariṣkṛ_SAPaPsM"
+  },
+  {
+    "index": 316,
+    "sanskrit": "āhutvaitānasantarpya prāsādādīnna kārayet /",
+    "english": "One should not build temples and other things. without offering to these deities or appeasing them.",
+    "morphology": "āhutvā_āhu_Co etān_etad_PAM a_a_ santarpya_saṃtarpay_Co prāsāda_prāsāda_Cp ādīn_ādi_PAM na_na_ kārayet_kāray_SPr3O"
+  },
+  {
+    "index": 317,
+    "sanskrit": "bhūtaiḥ parivṛtā sarvaiḥ sarveṣāmagrato'vrajat | gaṇāstāmanujagmuste gaṇānāṃ pṛṣṭhataḥ surāḥ || 76 ||",
+    "english": "Surrounded by all the Bhūtas, she went ahead of all. Gaṇas followed her and Suras were behind Gaṇas.",
+    "morphology": "bhūtaiḥ_bhūta_PINe parivṛtā_parivṛ_SNPaF sarvaiḥ_sarva_PINe sarveṣām_sarva_PGM agratas_agratas_ avrajat_vraj_S3ImIn  / gaṇāḥ_gaṇa_PNM tām_tad_SAF anujagmuḥ_anugam_PPs3In te_tad_PNM gaṇānām_gaṇa_PGM pṛṣṭhatas_pṛṣṭha"
+  },
+  {
+    "index": 318,
+    "sanskrit": "cetyānupātakalitacinmātre tiṣṭhatābhidham / manāgvivakalpakaluṣaṃ cittattvaṃ jīva ucyate //",
+    "english": "And the intellect being perverted by its various desires, is called the living soul; the animal soul being distinct from the rational soul.",
+    "morphology": "cetya_cetay_GdCp anupāta_anupāta_Cp kalita_kalay_PaCp cit_cit_Cp mātre_mātra_SLNe tiṣṭhatā_sthā_SIPaPrM abhidham_abhidhā_SAM  / cit_cit_Cp tattvam_tattva_SNNe jīvaḥ_jīva_SNM ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 319,
+    "sanskrit": "evaṃ subahurūpāṇi tasya tatra dadarśa saḥ | suvismito babhūvāśu paramānandasaṃplutaḥ ||",
+    "english": "32. Thus he saw him in various forms. He was much surprised and extremely delighted.",
+    "morphology": "evam_evam_ su_su_ bahu_bahu_Cp rūpāṇi_rūpa_PANe tasya_tad_SGM tatra_tatra_ dadarśa_dṛś_SPs3In saḥ_tad_SNM  / su_su_ vismitaḥ_vismi_SNPaM babhūva_bhū_SPs3In āśu_āśu_ parama_parama_Cp ānanda_ānanda_Cp saṃplutaḥ_samplu_SNPaM "
+  }
+]

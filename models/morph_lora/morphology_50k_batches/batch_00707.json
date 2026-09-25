@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5648,
+    "sanskrit": "aśma yuddham a jānantam ghnata enam yuddha kāmukam",
+    "english": "Stay ye, therefore, that warrior who, though desirous of battle, is ignorant of your mode of fight.",
+    "morphology": "aśma_aśman_MCp yuddham_yuddha_SANe"
+  },
+  {
+    "index": 5649,
+    "sanskrit": "jaghāna tena kṛṣṇaḥ tān ye asya pramukhataḥ abhavan",
+    "english": "With it Krishna slew all those that came before him.",
+    "morphology": "jaghāna_han_SPs3In tena_tad_SIM kṛṣṇaḥ_kṛṣṇa_SNM tān_tad_PAM yāhī_yad_PNM"
+  },
+  {
+    "index": 5650,
+    "sanskrit": "evam pāṇḍoḥ sutāḥ pañca devadattāḥ mahā balāḥ saṃbhūtāḥ kīrtimantaḥ te kuru vaṃśa vivardhanāḥ",
+    "english": "Let this be the boon granted (by thee) to me.' \"Thus, O king, were born unto Pandu five sons who were begotten by celestials and were endued with great strength, and who all lived to achieve great fame and expand the Kuru race.",
+    "morphology": "evam_evam_U pāṇḍoḥ_pāṇḍu_SGM sutāḥ_suta_PNM pañca_pañcan_PNM devadattāḥ_devadatta_PNM mahā_mahat_Cp balāḥ_bala_PNM saṃbhūtāḥ_sambhū_PNPaPsM kīrtimantaḥ_kīrtimat_PNM te_tad_PNM kuru_kuru_MCp vaṃśa_vaṃśa_MCp vivardhan"
+  },
+  {
+    "index": 5651,
+    "sanskrit": "vāsavasyotsavaṃ bhaṅktvā varṣaṃ vāsavaroṣajam / nirjalaṃ gokulaṃ kṛtvā dhṛto govardhano giriḥ //",
+    "english": "Suppressing the festivity in honor of Indra, and putting a stop to excessive rain consequent upon his anger that boy held up the mount Govardhana for affording shelter to the kine.",
+    "morphology": "vāsavasya_vāsava_SGM utsavam_utsava_SAM bhaṅktvā_bhañj_Co varṣam_varṣa_SAM vāsava_vāsava_Cp roṣa_roṣa_Cp jam_ja_SAM  / nirjalam_nirjala_SANe go_go_Cp kulam_kula_SANe kṛtvā_kṛ_Co dhṛtaḥ_dhṛ_SNPaM govardhanaḥ_govardhana_SNM giri"
+  },
+  {
+    "index": 5652,
+    "sanskrit": "jīvantau anujīvāmi bhartavyau tau mayā iti ha",
+    "english": "I hold my life so long as they live.",
+    "morphology": "jīvantau_jīv_DuAPaPrM"
+  },
+  {
+    "index": 5653,
+    "sanskrit": "āsaṃ pramuditaścāhaṃ paśyaṃstaṃ girisattamam | āhvayānaṃ narānsādhūnbhūmerbhujamivocchritam || 2 ||",
+    "english": "2. I was delighted to see that excellent mountain which rose up like the hand of the Earth beckoning all good men.",
+    "morphology": "āsam_as_S1ImIn pramuditaḥ_pramud_SNPaM ca_ca_ aham_mad_SN paśyan_dṛś_SNPaPrM tam_tad_SAM giri_giri_Cp sattamam_sattama_SAM  / āhvayānam_āhvā_SAPaPrM narān_nara_PAM sādhūn_sādhu_PAM bhūmeḥ_bhūmi_SGF bhujam_bhuja_SAM iva_iva_ ucchritam_ucc"
+  },
+  {
+    "index": 5654,
+    "sanskrit": "yathā tad eva sūtraṃ tantuvāyahaste vāyanārthaṃ dattaṃ kiṃcid dviguṇīkriyate kiṃcit parivartyate, evaṃ dadhi manthanamaricaśarkarādisaṃskṛtam, kṣīraṃ ghṛtam ityādisaṃskāraḥ /",
+    "english": "Or it may mean \"refined,\" ie,\"having fresh capacity produced in them\" For instance, after the yarn is at first handed over to the weaver for being woven into cloth, it is doubled up, then turned up and so forth; the curd becomes \"refined\" by having pepper, sugar and other things mixed with it; similarly milk, clarified butter and so forth.",
+    "morphology": "yathā_yathā_ tat_tad_SNNe eva_eva_ sūtram_sūtra_SNNe tantuvāya_tantuvāya_Cp haste_hasta_SLM vāyana_vāyana_Cp artham_artha_SAM dattam_dā_SNPaNe kiṃcid_kaścit_SNNe dviguṇīkriyate_dviguṇīkṛ_SPr3InPv kiṃcid_kaścit_SNNe parivartyate_pariv"
+  },
+  {
+    "index": 5655,
+    "sanskrit": "atha gāthā purī gītā agastyena mahātmanā | smaratā pūrvadehaṃ tu vismayenānubhūtijā || 6 ||",
+    "english": "6. There is a couplet (a verse) formerly sung by the noble-souled Agastya who recollected the previous birth with the wonder arising from his own experience.",
+    "morphology": "atha_atha_ gāthā_gāthā_SNF purī_purī_SNF gītā_gā_SNPaF agastyena_agastya_SIM mahātmanā_mahātman_SIM  / smaratā_smṛ_SIPaPrM pūrva_pūrva_Cp deham_deha_SAM tu_tu_ vismayena_vismaya_SIM anubhūti_anubhūti_Cp jā_ja_SNF"
+  }
+]

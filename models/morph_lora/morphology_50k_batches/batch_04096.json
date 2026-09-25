@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32760,
+    "sanskrit": "iṣṭāni ca api apatyāni dravyāṇi suhṛdaḥ priyāḥ āpad dharma vimokṣāya bhāryā ca api satām matam",
+    "english": "The wise have declared that children and relatives and wife and all things held dear are cherished for the purpose of liberating one's self from danger and distress.",
+    "morphology": "iṣṭāni_iṣ_PNPaPsNe ca_ca_U api_api_U apatyāni_apatya_PNNe dravyāṇi_dravya_PNNe suhṛdaḥ_suhṛd_PNM priyāḥ_priya_PNM āpad_āpad_SNF dharma_dharma_MCp vimokṣāya_vimokṣa_SDM bhāryā_bhāryā_SNF ca_ca_U api_api_U satām_sat_PGM matam_"
+  },
+  {
+    "index": 32761,
+    "sanskrit": "mriyate yadi kuṣṭhena punar jāte api gacchati",
+    "english": "The disease reattacks a man even in his next rebirth in the event of his dying with it.",
+    "morphology": "mriyate_mṛ_SPr3InPv yadi_yadi_U kuṣṭhena_kuṣṭha_SINe punar_punar_U jāte_jan_SLPaPsM api_api_U gacchati_gam_SPr3In"
+  },
+  {
+    "index": 32762,
+    "sanskrit": "proktaṃ mayā te dharaṇi yatpṛṣṭo'haṃ tvayā'male | ataḥ kiṃ te vyavasitaṃ brūhi tadvimalānane || 18 ||",
+    "english": "18. O Dharaṇī free from impurities, what I was asked by you has been told by me. Henceforth, O lady of pure face, relate to me what is intended by you (in your mind).",
+    "morphology": "proktam_pravac_SNPaNe mayā_mad_SI te_tvad_SD dharaṇi_dharaṇī_SVF yat_yad_SANe pṛṣṭaḥ_pracch_SNPaM aham_mad_SN tvayā_tvad_SI amale_amala_SVF  / atas_atas_ kim_ka_SNNe te_tvad_SD vyavasitam_vyavasā_SNPaNe brūhi_brū_SPr2Im tat_tad_SANe vimal"
+  },
+  {
+    "index": 32763,
+    "sanskrit": "caturthe prahare prāpte yaḥ śrāddhaṃ kurute naraḥ | vṛthā śrāddhamavāpnoti dātā ca narakaṃ vrajet || 93 ||",
+    "english": "93. When in the fourth Prahara (watch) a man performs Śrāddha, that Śrāddha is futile and one who offers it shall go to Naraka.",
+    "morphology": "caturthe_caturtha_SLM prahare_prahara_SLM prāpte_prāp_SLPaM yaḥ_yad_SNM śrāddham_śrāddha_SANe kurute_kṛ_SPr3In naraḥ_nara_SNM  / vṛthak_vṛthak_ śrāddham_śrāddha_SANe avāpnoti_avāp_SPr3In dātā_dātṛ_SNM ca_ca_ narakam_naraka_SANe v"
+  },
+  {
+    "index": 32764,
+    "sanskrit": "nisṛṣṭaḥ eṣa tava kāmaḥ adya bandī aṣṭāvakraḥ uvāca na anena jīvatā kaḥ cid arthaḥ me bandinā nṛpa",
+    "english": "As thou hast to-day defeated Vandin in discussion, I place even him at thy disposal.' Ashtavakra said, 'O king, Vandin remaining alive, will not serve any purpose of mine.",
+    "morphology": "nisṛṣṭaḥ_nisṛj_SNPaPsM eṣa_etad_SNM tava_tvad_SG kāmaḥ_kāma_SNM adya_adya_U bandī_bandin_SNM aṣṭāvakraḥ_aṣṭāvakra_SNM uvāca_vac_SPs3In na_na_U anena_idam_SIM jīvatā_jīv_SIPaPrM kaḥ_ka_SNM cid_cit_U arthaḥ_artha_SNM me_m"
+  },
+  {
+    "index": 32765,
+    "sanskrit": "citrasenam vikarṇam ca tathā durmarṣaṇam vibho ārjuniḥ samare rājan tava putrān ayodhayat",
+    "english": "And possessed of great prowess, (Abhimanyu) the son of Arjuna, fought in battle, O king, against the sons Chitrasena and Vikarna, and Durmarshana.",
+    "morphology": "citrasenam_citrasena_SAM vikarṇam_vikarṇa_SAM ca_ca_U tathā_tathā_U durmarṣaṇam_durmarṣaṇa_SAM vibho_vibhu_SVM ārjuniḥ_ārjuni_SNM samare_samara_SLNe rājan_rājan_SVM tava_tvad_SG putrān_putra_PAM ayodhayat_yodhay_SPs3In"
+  },
+  {
+    "index": 32766,
+    "sanskrit": "ābrahmastambaparyantamalīkaṃ jāyate jagat / yathā svapne tathālīkamevamāśu vinaśyati //",
+    "english": "But in truth all is unreal, from the highest empyrean to the lowest pit; and the world is as false and frail as a dream, which rises in vain before the mind, and vanishes in a minute.",
+    "morphology": "ā_ā_ brahmastamba_brahmastamba_Cp paryantam_paryanta_SNNe alīkam_alīka_SNNe jāyate_jan_SPr3In jagat_jagant_SNNe  / yathā_yathā_ svapne_svapna_SLM tathā_tathā_ alīkam_alīka_SNNe evam_evam_ āśu_āśu_ vinaśyati_vinaś_SPr3In  /"
+  },
+  {
+    "index": 32767,
+    "sanskrit": "kūjadbhṛṅgataraṅgaughaiḥ puṣpakesararājibhiḥ / rājamānaṃ patantībhiḥ saridbhiriva parvatam //",
+    "english": "The bees were continually humming over the farinaceous pistils of flowers, and sounding water-falls were incessantly exuding from the high hills in its neighbourhood.",
+    "morphology": "kūjat_kūj_PaPrCp bhṛṅga_bhṛṅga_Cp taraṅga_taraṃga_Cp oghaiḥ_ogha_PIM puṣpa_puṣpa_Cp kesara_kesara_Cp rājibhiḥ_rāji_PIF  / rājamānam_rāj_SAPaPrM patantībhiḥ_pat_PIPaPrF saridbhiḥ_sarit_PIF iva_iva_ parvatam_parvata_SAM  /"
+  }
+]

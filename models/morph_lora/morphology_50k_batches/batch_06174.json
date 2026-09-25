@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49384,
+    "sanskrit": "itarathā prākṛtapadatyāge 'nyakalpane ca dṛṣṭadvayaṃ kalpyeta",
+    "english": "So also are the Injunctive words. In the Brahmanas we find certain Injunctions, which very often make mention of the parts of certain mantras by means of synonymous words and this also shows that the mantras express a definite meaning.",
+    "morphology": "__itarathā_U __prākṛta_U __pada_U __tyāga_U"
+  },
+  {
+    "index": 49385,
+    "sanskrit": "ato na muktaḥ kopo me visphurannapi cetasi /",
+    "english": "For this reason did not release that anger, although it was struggling within me.",
+    "morphology": "atas_atas_ na_na_ muktaḥ_muc_SNPaM kopaḥ_kopa_SNM"
+  },
+  {
+    "index": 49386,
+    "sanskrit": "tato niścayadatto 'syāṃ gatāyāmaikṣatātra saḥ / agādhamantaḥ saviṣaṃ svacchaśītaṃ bahiḥ saraḥ // rāginstrīcittametādṛgityarkeṇa nidarśanam / prasāritakareṇeva prakaṭīkṛtya darśitam //",
+    "english": "When she had gone, Niścayadatta beheld a deep lake, transparent and cool, but tainted with poison, lit up by the sun, that, stretching forth the fingers of its rays, revealed it as an example illustrative of the nature of the heart of a passionate woman.",
+    "morphology": "tatas_tatas_ niścayadattaḥ_niścayadatta_SNM asyām_idam_SLF gatāyām_gam_SLPaF aikṣata_īkṣ_S3ImIn atra_atra_ saḥ_tad_SNM  / agādham_agādha_SANe antar_antar_ sa_sa_ viṣam_viṣa_SANe su_su_ accha_accha_Cp śītam_śīta_SANe bahis_bahis_ sar"
+  },
+  {
+    "index": 49387,
+    "sanskrit": "godhūmaśālayo mudgā brahmarkṣakhadiro 'bhayā / pañcakolañjāṅgalāś ca nimbadhātryaḥ paṭolakāḥ // mātulaṅgarasājātiśuṣkamūlakasaindhavāḥ /",
+    "english": "Wheat, śāli rice, green gram, cow’s urine, ṛkṣa, khadira, abhayā, pañcakola the five spiceslong pepper etc., venison, neem, dhātri a variety of myrobalan, snakegourd, the juice of citron, nutmeg, dried radish and saindhava a kind of rocksalt are good for dropsy.",
+    "morphology": "godhūma_godhūma_Cp śālayaḥ_śāli_PNM mudgāḥ_mudga_PNM brahma_brahman_Cp ṛkṣa_ṛkṣa_Cp khadiraḥ_khadira_SNM abhayā_abhayā_SNF  / ca_ca_ nimba_nimba_Cp dhātryaḥ_dhātrī_PNF paṭolakāḥ_paṭolaka_PNM  /"
+  },
+  {
+    "index": 49388,
+    "sanskrit": "kāmarūpadhātvoraparisaṃkhyānāt sarva eva catvāro bhavāḥ santītyanujñāpitaṃ bhavati /",
+    "english": "All four existences exist in Kāmadhātu and Rūpadhātu.",
+    "morphology": "kāma_kāma_Cp rūpa_rūpa_Cp dhātvoḥ_dhātu_DuGM aparisaṃkhyānāt_aparisaṃkhyāna_SBNe sarve_sarva_PNM eva_eva_ catvāraḥ_catur_PNM bhavāḥ_bhava_PNM santi_as_PPr3In iti_iti_ anujñāpitam_anujñāpay_SNPaNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 49389,
+    "sanskrit": "etasminn eva kāle tu yajñe paitāmahe śubhe /",
+    "english": "In the meantime at the sacred Yajna of Brahmā, was born the highly intelligent Suta.",
+    "morphology": "etasmin_etad_SLM eva_eva_ kāle_kāla_SLM tu_tu_ yajñe_yajña_SLM paitāmahe_paitāmaha_SLM śubhe_śubha_SLM"
+  },
+  {
+    "index": 49390,
+    "sanskrit": "taratsa mandī dhāvati dhārā sutasyāndhasaḥ / taratsa mandī dhāvati //",
+    "english": "Swift runs this giver of delight, even the stream of flowingjuice Swift runs this giver of delight",
+    "morphology": "tarat_tṛ_SPr3 sa_tad_SNM mandī_mandin_SNM dhāvati_dhāv_SPr3In dhārā_dhārā_SNF sutasya_su_SGPaNe andhasaḥ_andhas_SGNe  / tarat_tṛ_SPr3 sa_tad_SNM mandī_mandin_SNM"
+  },
+  {
+    "index": 49391,
+    "sanskrit": "varṣañjvalaṃścaiva sa tatra reje savidyududdyotapayodalakṣmyā //",
+    "english": "There he displayed his splendour, raining and flaming with as great a majesty as a cloud from which appears flashes of lightning.",
+    "morphology": "varṣan_vṛṣ_SNPaPrM jvalan_jval_SNPaPrM ca_ca_ eva_eva_ sa_tad_SNM tatra_tatra_ rāja_rāj_SPs3In"
+  }
+]

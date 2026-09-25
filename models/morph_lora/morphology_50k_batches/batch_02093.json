@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16736,
+    "sanskrit": "sapatnān ṛdhyataḥ a ātmānam hīyamānam niśāmya ca",
+    "english": "Knowing the affluence of the foe and my own destitution, even though that affluence is not before me, I yet see it before me.",
+    "morphology": "sapatnān_sapatna_PAM ṛdhyataḥ_ṛdh_PAPaPrM a_a_U ātmānam_ātman_SAM hīyamānam_hā_SAPaPrMPv"
+  },
+  {
+    "index": 16737,
+    "sanskrit": "yayā vāsanayā janturnīyate bhavapañjare / tadvāsanānurūpeṇa phalaṃ samanubhūyate //",
+    "english": "The desire that prompts a person to his particular pursuit in his prison house of this world, the same yields him the like fruits and no other.",
+    "morphology": "yayā_yad_SIF vāsanayā_vāsanā_SIF jantuḥ_jantu_SNM nīyate_nī_SPr3InPv bhava_bhava_Cp pañjare_pañjara_SLNe  / tad_tad_Cp vāsanā_vāsanā_Cp anurūpeṇa_anurūpa_SINe phalam_phala_SNNe samanubhūyate_samanubhū_SPr3InPv  /"
+  },
+  {
+    "index": 16738,
+    "sanskrit": "naiṣa doṣaḥ /",
+    "english": "There is no point in this objection",
+    "morphology": "na_na_ eṣa_etad_SNM doṣaḥ_doṣa_SNM  /"
+  },
+  {
+    "index": 16739,
+    "sanskrit": "pitryaṃ śrāddhakalpam / kāśiṃ gaṇitam /",
+    "english": "‘Pitṛya’ stands for the Science of the ŚrāddhaRituals;‘Rāśi’ stands for Mathematics;",
+    "morphology": "pitryam_pitrya_SAM śrāddha_śrāddha_Cp kalpam_kalpa_SAM  / kāśim_kāśi_SAM gaṇitam_gaṇita_SANe  /"
+  },
+  {
+    "index": 16740,
+    "sanskrit": "abādhyairindupādānāmasādhyaiścandanāmbhasām | dehoṣmabhiḥ subodhaṃ te sakhi kāmāturaṃ manaḥ ||",
+    "english": "254 [A regular example would be-] \"From the heat of your body that is not to be allayed by lunar rays and not to be cured by sandal juice, O friend, it is easy to infer that your heart is love-afflicted\".",
+    "morphology": "abādhyaiḥ_abādhya_PIM indu_indu_Cp pādānām_pāda_PGM asādhyaiḥ_asādhya_PIM candana_candana_Cp ambhasām_ambhas_PGNe  / deha_deha_Cp ūṣmabhiḥ_ūṣman_PIM su_su_ bodham_bodha_SNNe te_tvad_SG sakhi_sakhī_SVF kāma_kāma_Cp āturam_ātura_SNN"
+  },
+  {
+    "index": 16741,
+    "sanskrit": "nṝn atithibhikṣuprabhṛtīn arcayet / arcāpūrvakam annaṃ tebhyo dadyād ity arthaḥ //",
+    "english": "\"The men\" ie, guests, beggars, and so forth \"one should worship\" ie, give them food with due respect.",
+    "morphology": "nṝn_nṛ_PAM atithi_atithi_Cp bhikṣu_bhikṣu_Cp prabhṛtīn_prabhṛti_PAM arcayet_arcay_SPr3O  / arcā_arcā_Cp pūrvakam_pūrvaka_SANe annam_anna_SANe tebhyaḥ_tad_PDM dadyāt_dā_SPr3O iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 16742,
+    "sanskrit": "iti proktaṃ maheśasya caritaṃ pramudāvaham | sarvaduḥkhaharaṃ śrīdaṃ sarvakāmaprapūrakam ||",
+    "english": "38. Thus I have narrated to you the delightful story of lord Śiva that removes all misery, yields wealth and fulfils cherished desires.",
+    "morphology": "iti_iti_ proktam_pravac_SNPaNe maheśasya_maheśa_SGM caritam_carita_SNNe pramudā_pramudā_Cp āvaham_āvaha_SNNe  / sarva_sarva_Cp duḥkha_duḥkha_Cp haram_hara_SNNe śrī_śrī_Cp dam_da_SNNe sarva_sarva_Cp kāma_kāma_Cp prapūrakam_prapūraka_SNNe  "
+  },
+  {
+    "index": 16743,
+    "sanskrit": "bālaṃ nivedayedbhartre tava putro 'yamityuta //",
+    "english": "After the birth of a child the child should be brought to the father of the child by the other with the words “This is your son”.",
+    "morphology": "bālam_bāla_SAM nivedayet_niveday_SPr3O bhartre_bhartṛ_SDM tava_tvad_SG putraḥ_putra_SNM ayam_idam_SNM iti_iti_ uta_uta_  /"
+  }
+]

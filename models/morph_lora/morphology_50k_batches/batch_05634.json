@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45064,
+    "sanskrit": "yathāpratijñam kauravyaḥ sa ca api samitiṃjayaḥ pārthānām akarot bhīṣmaḥ satatam samiti kṣayam kurubhiḥ sahitam bhīṣmam yudhyamānam mahā ratham",
+    "english": "The ever-victorious Kuru warrior Bhishma also, agreeably to his vow, always caused a great carnage among the Partha army.",
+    "morphology": "yathāpratijñam_yathāpratijñam_U kauravyaḥ_kauravya_SNM sa_tad_SNM ca_ca_U api_api_U samitiṃjayaḥ_samitiṃjaya_SNM pārthānām_pārtha_PGM akarot_kṛ_SPs3In bhīṣmaḥ_bhīṣma_SNM satatam_satatam_U samiti_samiti_FCp kṣayam_kṣaya_SAM kur"
+  },
+  {
+    "index": 45065,
+    "sanskrit": "imāṃ visṛṣṭiṃ vijñāya jyāmaghasya mahātmanaḥ / yujyate parayā prītyā prajāvāṃś ca bhavaty uta //",
+    "english": "The man, who knows this account of the family of the high-souled Jyāmogha, gets offspring and highest felicity.",
+    "morphology": "imām_idam_SAF visṛṣṭim_visṛṣṭi_SAF vijñāya_vijñā_Co jyāmaghasya_jyāmagha_SGM mahātmanaḥ_mahātman_SGM  / yujyate_yuj_SPr3InPv parayā_para_SIF prītyā_prīti_SIF prajāvān_prajāvat_SNM ca_ca_ bhavati_bhū_SPr3In uta_uta_  /"
+  },
+  {
+    "index": 45066,
+    "sanskrit": "brahma svam hi na hartavyam ātmanaḥ hitam icchatā",
+    "english": "The man who desires his own good should not appropriate what belongs to a Brahmana.",
+    "morphology": "brahma_brahman_SNNe svam_sva_SNNe hi_hi_U na_na_U hartavyam_hṛ_SNNeGd"
+  },
+  {
+    "index": 45067,
+    "sanskrit": "samudaye dharmajñāna ekayā samanvāgataḥ / samudaye 'nvayajñāne dvābhyām / nirodhe dharmajñāne tisṛbhhirnirodhānvayajñāne catasṛbhirmārgadharmajñāne pañcabhiḥ /",
+    "english": "he is endowed with one perfect knowledge in saudaye'navayajñāna and śsamudaye’nvayajñāãnakṣãántÉ, with two in samadaye’nvayajñāna and nirodhe dharmajñānakṣānti, with three in nirodhe dharmajñāna aṇd nirodhe’nvayajñānakṣānti, with four in nirodhe’nvayajñāna and mārge dharmajñānakṣānti, with five in mārge dharmajñāna aṅnd mārge’nvayajñānakṣānti.",
+    "morphology": "samudaye_samudaya_SLM dharma_dharma_Cp jñāne_jñāna_SLNe ekayā_eka_SIF samanvāgataḥ_samanvāgam_SNPaM  / samudaye_samudaya_SLM anvaya_anvaya_Cp jñāne_jñāna_SLNe dvābhyām_dvi_DuIF  / nirodhe_nirodha_SLM dharma_dharma_Cp jñāne_jñāna_SLNe tis"
+  },
+  {
+    "index": 45068,
+    "sanskrit": "brahmāṇam upatasthe vai kāle kāle su saṃyataḥ",
+    "english": "At times, he worshipped with great attention and respect his preceptor seated with ease on his seat and ever engaged in the good of creatures.",
+    "morphology": "brahmāṇam_brahman_SAM"
+  },
+  {
+    "index": 45069,
+    "sanskrit": "bhūtārthabhāvanāprakarṣaparyantagamena sakalakalpanājālarahitaṃ sphuṭataraṃ dharmadhātvadhigamaṃ",
+    "english": "His meditation on the meaning of things having attained excellence, he becomes aware of the extremely clear dharma dhātu the true essence of things devoid of all fictionality kalpanājāla.",
+    "morphology": "bhūta_bhū_PaCp artha_artha_Cp bhāvanā_bhāvanā_Cp prakarṣa_prakarṣa_Cp paryanta_paryanta_Cp gamena_gama_SIM sakala_sakala_Cp kalpanā_kalpanā_Cp jāla_jāla_Cp rahitam_rahita_SAM sphuṭataram_sphuṭatara_SAM dharmadhātu_dharmadhātu_Cp adhigam"
+  },
+  {
+    "index": 45070,
+    "sanskrit": "mṛtāyāṃ dattamādadyāt pariśodhyobhayavyayam //",
+    "english": "In the event of her death, he may take away that given to her after checking the two expenses mentioned above.",
+    "morphology": "mṛtāyām_mṛ_SLPaF dattam_dā_SAPaNe ādadyāt_ādā_SPr3O pariśodhya_pariśodhay_Co"
+  },
+  {
+    "index": 45071,
+    "sanskrit": "sūta uvāca | sādhupṛṣṭamṛṣiśreṣṭha lokānāṃ hitakāmyayā | kathayāmi bhavatsnehāttāni saṃkṣepato dvijāḥ ||",
+    "english": "8. O brahmins, O excellent sages, you have asked well. I shall explain them in brief with a desire for the welfare of the worlds and due to my affection for you.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / sādhu_sādhu_Cp pṛṣṭam_pracch_SNPaNe ṛṣi_ṛṣi_Cp śreṣṭha_śreṣṭha_SVM lokānām_loka_PGM hita_hita_Cp kāmyayā_kāmyā_SIF  / kathayāmi_kathay_SPr1In bhavat_bhavat_Cp snehāt_sneha_SBM tāni_"
+  }
+]

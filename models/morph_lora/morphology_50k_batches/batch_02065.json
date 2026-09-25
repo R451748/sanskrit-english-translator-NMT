@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16512,
+    "sanskrit": "rudrakoṭiṃ virūpākṣaṃ tataḥ paṃcanadaṃ nṛpa | evamādīni tīrthāni puṇyānyāyatanāni ca | paribhramanmahīpāla pariśrāṃto narādhipaḥ || 18 ||",
+    "english": "18. Then O great king! after acquiring a great deal of goodness for himself after visiting Rudrakoṭi, Virupākṣa and thereafter the five rivers, the king became tired.",
+    "morphology": "rudrakoṭim_rudrakoṭi_SAF virūpākṣam_virūpākṣa_SAM tatas_tatas_ paṃcanadam_pañcanada_SANe nṛpa_nṛpa_SVM  / evamādīni_evamādi_PANe tīrthāni_tīrtha_PANe puṇyāni_puṇya_PANe āyatanāni_āyatana_PANe ca_ca_  / paribhraman_paribhram"
+  },
+  {
+    "index": 16513,
+    "sanskrit": "śyenī śyenāṃs tathā bhāsī bhāsān gṛdhrāṃś ca gṛdhrikā // śucir audakān pakṣigaṇān sugrīvī tu paraṃtapa /",
+    "english": "Kāki gave birth to crows, Uluki to owls, Sweni to Swena birds, Bhāsi to Bhāsa birds, Gidhri to vultures, Suchi to waterfowls and Sugrivi to horses, camels and asses.",
+    "morphology": "śyenī_śyenī_SNF śyenān_śyena_PAM tathā_tathā_ bhāsī_bhāsī_SNF bhāsān_bhāsa_PAM gṛdhrān_gṛdhra_PAM ca_ca_ gṛdhrikā_gṛdhrikā_SNF  /"
+  },
+  {
+    "index": 16514,
+    "sanskrit": "tadajñānena vāṃ vṛttamīśamānaṃ mahādbhutam | tannirākartumatraivamutthito'haṃ raṇakṣitau ||",
+    "english": "33. It is out of your ignorance of this fact that you were swept away by your false prestige and pride of being Isa, surprising as it is. I rose up in the middle of the battle-field for quelling the same.",
+    "morphology": "tad_tad_Cp ajñānena_ajñāna_SINe vām_tvad_DuG vṛttam_vṛtta_SNNe īśamānam_īś_SNPaPrNe mahā_mahat_Cp adbhutam_adbhuta_SNNe  / tat_tad_SANe nirākartum_nirākṛ_In atra_atra_ evam_evam_ utthitaḥ_utthā_SNPaM aham_mad_SN raṇa_raṇa_Cp kṣi"
+  },
+  {
+    "index": 16515,
+    "sanskrit": "ekaḥ yaḥ śaśa rudhira upamaḥ tu binduḥ śukla sthaḥ bhavati tam arjunam vadanti",
+    "english": "The appearance of a single dot or speck on the Sclerotic coat (Shukla), coloured like a (drop of the) hare’s blood, is called Arjuna.",
+    "morphology": "ekaḥ_eka_SNM yaḥ_yad_SNM śaśa_śaśa_MCp rudhira_rudhira_NeCp upamaḥ_upama_SNM tu_tu_U binduḥ_bindu_SNM śukla_śukla_Cp sthaḥ_stha_SNM bhavati_bhū_SPr3In tam_tad_SAM arjunam_arjuna_SAM vadanti_vad_PPr3In"
+  },
+  {
+    "index": 16516,
+    "sanskrit": "sūtikā ca tathā rakṣā prāṇināntu sadā hitā //",
+    "english": "The use of amulet for women after the delivery as well as for animals is always beneficial.",
+    "morphology": "sūtikā_sūtikā_SNF ca_ca_ tathā_tathā_ rakṣā_rakṣā_SNF prāṇinām_prāṇin_PGM tu_tu_ sadā_sadā_ hitā_hita_SNF  /"
+  },
+  {
+    "index": 16517,
+    "sanskrit": "sva patnī prabhavān pañca labdhān krītān vivardhitān kṛtān anyāsu ca utpannān putrān vai manuḥ abravīt",
+    "english": "Manu hath said that there are five kinds of sons; those begotten by one's self upon his own wife, those obtained (as gift) from others, those purchased for a consideration, those reared with affection and those begotten upon other women than upon wedded wives.",
+    "morphology": "sva_sva_Cp patnī_patnī_FCp prabhavān_prabhava_PAM pañca_pañcan_PAM labdhān_labh_PAPaPsM krītān_krī_PAPaPsM vivardhitān_vivardhay_PAPaPsM kṛtān_kṛ_PAPaPsM anyāsu_anya_PLF ca_ca_U utpannān_utpad_PAPaPsM putrān_putra_PAM vai_vai_U"
+  },
+  {
+    "index": 16518,
+    "sanskrit": "payasya aguru kālīya lepanam vā sa gairikam",
+    "english": "As an alternative, plasters composed of Payasya, Aguru and Kaliya pasted together with Gairika, or of a tooth of a boar pasted with clarified butter and honey, or of Kapittha and Rajadana pasted together, may also be used with benefit 20 21.",
+    "morphology": "payasya_payasya_SVM"
+  },
+  {
+    "index": 16519,
+    "sanskrit": "durbalam balavantam ca śūram bhīrum jaḍam kavim a prāpta sarva kāma artham mṛtyuḥ ādāya gacchati",
+    "english": "Death bears away the weak, the strong, the brave, the timid, the idiotic, and the learned, before any of these obtains the fruits of his acts.",
+    "morphology": "durbalam_durbala_SAM balavantam_balavat_SAM ca_ca_U śūram_śūra_SAM bhīrum_bhīru_SAM jaḍam_jaḍa_SAM kavim_kavi_SAM a_a_U prāpta_prāp_PaPsCp sarva_sarva_Cp kāma_kāma_MCp artham_artha_SAM mṛtyuḥ_mṛtyu_SNM ādāya_ādā_Co"
+  }
+]

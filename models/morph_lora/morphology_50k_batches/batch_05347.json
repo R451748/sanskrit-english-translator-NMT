@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42768,
+    "sanskrit": "evaṃ abhāvitaṃ cittaṃ rāgo samitivijjhati ||",
+    "english": "so passion penetrates a mind that is undeveloped.",
+    "morphology": "evam_evam_ a_a_ bhāvitam_bhāvay_SAPaNe cittam_citta_SANe rāgaḥ_rāga_SNM"
+  },
+  {
+    "index": 42769,
+    "sanskrit": "ye kīrtayaṃti suyaśo'mitabhāgyayutā narāḥ | kumāracaritaṃ divyaṃ śiva lokaṃ prayāṃti te ||",
+    "english": "32. Those who recite this divine story of Kumāra and glorify him are infinitely fortunate and attain Śivaloka.",
+    "morphology": "ye_yad_PNM kīrtayaṃti_kīrtay_PPr3In su_su_ yaśaḥ_yaśas_Cp amita_amita_Cp bhāgya_bhāgya_Cp yutāḥ_yuta_PNM narāḥ_nara_PNM  / kumāra_kumāra_Cp caritam_carita_SANe divyam_divya_SANe śiva_śiva_SVM lokam_loka_SAM prayānti_prayā_PPr3In te_ta"
+  },
+  {
+    "index": 42770,
+    "sanskrit": "sa hy asya pratyanantaraḥ / anantara eva pratyanantaraḥ / hetuvacanād vyavahitanivṛttiḥ pāpakārī /",
+    "english": "\"He is next to him\" \"pratyanantara\" is the same as \"anantara\" Inasmuch as the text has provided this reason, it follows that the occupations of those removed by further degrees ie, of the Vaiśya or the Śūdra involve sin for the Brāhmaṇa.",
+    "morphology": "sa_tad_SNM hi_hi_ asya_idam_SGM pratyanantaraḥ_pratyanantara_SNM  / anantaraḥ_anantara_SNM eva_eva_ pratyanantaraḥ_pratyanantara_SNM  / hetu_hetu_Cp vacanāt_vacana_SBNe vyavahita_vyavadhā_PaCp nivṛttiḥ_nivṛtti_SNM pāpa_pāpa_Cp kārī_kārin"
+  },
+  {
+    "index": 42771,
+    "sanskrit": "purodhasām ca mukhyam mām viddhi pārtha bṛhaspatim",
+    "english": "[238] Know me, O son of Pritha, to be Vrihaspati, the chief of household priests.",
+    "morphology": "purodhasām_purodhas_PGM ca_ca_U mukhyam_mukhya_SAM mām_mad_SA viddhi_vid_SPr2Im"
+  },
+  {
+    "index": 42772,
+    "sanskrit": "etās tisras tu bhāryārthe nopayaccheta buddhimān / jñātitvenānupeyās tāḥ patati hy upayann adhaḥ //",
+    "english": "A wise man should never take these three as his wife; being bloodrelations, they are not fit to be married; because by marrying them one sinks low.",
+    "morphology": "etāḥ_etad_PAF tisraḥ_tri_PAF tu_tu_ bhāryā_bhāryā_Cp arthe_artha_SLM na_na_ upayaccheta_upayam_SPr3O buddhimān_buddhimat_SNM  / jñāti_jñāti_Cp tvena_tva_SINe anupeyāḥ_anupā_PAFGd tāḥ_tad_PAF patati_pat_SPr3In hi_hi_ upayan_upe_SNPaPrM "
+  },
+  {
+    "index": 42773,
+    "sanskrit": "tatpārśve biṃdutīrthaṃ ca paramajñānakāraṇam | tatra śrāddhādikaṃ kṛtvā labhetsukṛtamuttamam || 63 ||",
+    "english": "63. By the side thereof is Bindu Tīrtha, the cause of the greatest knowledge. By performing Srāddha etc. there one shall get the excellent merit of good deeds.",
+    "morphology": "tad_tad_Cp pārśve_pārśva_SLM bindutīrtham_bindutīrtha_SNNe ca_ca_ parama_parama_Cp jñāna_jñāna_Cp kāraṇam_kāraṇa_SNNe  / tatra_tatra_ śrāddha_śrāddha_Cp ādikam_ādika_SANe kṛtvā_kṛ_Co labhet_labh_SPr3O sukṛtam_sukṛta_SANe utta"
+  },
+  {
+    "index": 42774,
+    "sanskrit": "caturvidhaḥ svedaḥ tat yathā tāpasveda | ūṣma sveda | upanāha svedaḥ |",
+    "english": "Sveda[1] (calorification, fomentation, diaphoretic measures, etc.) may be divided into four groups such as, the application of direct heat (Tapa-sveda), fomentation (Ushma-sveda), poulticing (Upanaha sveda) and the application of heated fluids (Drava-sveda).",
+    "morphology": "caturvidhaḥ_caturvidha_SNM svedaḥ_sveda_SNM tat_tad_SNNe yathā_yathā_U tāpa_tāpa_MCp sveda_sveda_MCp  / ūṣma_ūṣman_MCp sveda_sveda_MCp  /"
+  },
+  {
+    "index": 42775,
+    "sanskrit": "nidrā na chidyate yasya yaḥ vā jāgarti sarvadā |",
+    "english": "Similarly, a patient affected with a kind of stupor or insomnia and remaining drowsy, all day long, or fainting at the least attempt of speaking, should be counted with the dead.",
+    "morphology": "nidrā_nidrā_SNF na_na_U chidyate_chid_SPr3InPv yasya_yad_SGM yaḥ_yad_SNM vā_vā_U jāgarti_jāgṛ_SPr3In sarvadā_sarvadā_U"
+  }
+]

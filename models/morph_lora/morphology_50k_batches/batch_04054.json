@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32424,
+    "sanskrit": "sarveṣām eva śiṣyāṇām babhūva abhyadhikaḥ arjunaḥ",
+    "english": "Indeed, although the instruction the preceptor gave, was the same in the case of all, yet in lightness and skill Arjuna became the foremost of all his fellow-pupils.",
+    "morphology": "sarveṣām_sarva_PGM eva_eva_U śiṣyāṇām_śiṣya_PGM babhūva_bhū_SPs3In"
+  },
+  {
+    "index": 32425,
+    "sanskrit": "asūyakaḥ dandaśūkaḥ niṣṭhuraḥ vaira kṛt naraḥ sa kṛcchram mahat āpnoti nacirāt pāpam ācaran",
+    "english": "He that is envious, he that injureth others deeply, he that is cruel, he that constantly quarreleth, he that is deceitful, soon meeteth with great misery for practising these sins.",
+    "morphology": "asūyakaḥ_asūyaka_SNM dandaśūkaḥ_dandaśūka_SNM niṣṭhuraḥ_niṣṭhura_SNM vaira_vaira_NeCp kṛt_kṛt_SNM naraḥ_nara_SNM sa_tad_SNM kṛcchram_kṛcchra_SANe mahat_mahat_SANe āpnoti_āp_SPr3In nacirāt_nacirāt_U pāpam_pāpa_SANe ācara"
+  },
+  {
+    "index": 32426,
+    "sanskrit": "vyāyāmam muṣṭibhiḥ kṛtvā talaiḥ api samāhatau",
+    "english": "And we encountered each other first with blows and then with slaps.",
+    "morphology": "vyāyāmam_vyāyāma_SAM muṣṭibhiḥ_muṣṭi_PIM kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 32427,
+    "sanskrit": "caturdaśavidyāsthanajñaḥ paṅgvandhanirdhanādir anadhikṛto 'pi vidyayaiva pūjyate /",
+    "english": "Thus one who is fully versed in all the fourteeu sciences, is respected through his \"learning,\" even though he he not entitled to it on account of being lame, blind or poor.",
+    "morphology": "__caturdaśa_U __vidyā_U __sthana_U __jña_U __paṅgu_U __andha_U __nirdhana_U __ādi_U"
+  },
+  {
+    "index": 32428,
+    "sanskrit": "na idam samyak vyavasitam mahā ṛṣe karma vaikṛtam caṇḍāla svasya haraṇam abhakṣyasya viśeṣataḥ",
+    "english": "This was not wisely resolved by thee, therefore, O great Rishi, this act that is inconsistent with righteousness, this theft of what belongs to a Chandala, this theft, besides, of food that is unclean.",
+    "morphology": "na_na_U idam_idam_SNNe samyak_samyak_U vyavasitam_vyavasā_SNPaPsNe mahā_mahat_Cp ṛṣe_ṛṣi_SVM karma_karman_SNNe vaikṛtam_vaikṛta_SNNe caṇḍāla_caṇḍāla_MCp svasya_sva_SGNe haraṇam_haraṇa_SNNe abhakṣyasya_abhakṣya_SGNe viṣṇu"
+  },
+  {
+    "index": 32429,
+    "sanskrit": "sarvāgamapramāṇatve nanv evam upapādite / aham apy adya yat kiñcit āgamaṃ racayāmi cet // tasyāpi hi pramāṇatvaṃ dinaiḥ katipayair bhavet /",
+    "english": "If the validity of all Agamas is thus established then a new book which I write may be accepted as authentic within a few days. The reasons which have been stated above are also applicable to it.",
+    "morphology": "sarva_sarva_Cp āgama_āgama_Cp pramāṇa_pramāṇa_Cp tve_tva_SLNe nanu_nanu_ evam_evam_ upapādite_upapāday_SLPaNe  / aham_mad_SN api_api_ adya_adya_ yat_yad_SANe kiñcid_kaścit_SANe āgamam_āgama_SAM racayāmi_racay_SPr1In ced_ced_  /"
+  },
+  {
+    "index": 32430,
+    "sanskrit": "māndhātā śatabindor duhitaraṃ bundumatīmupayem // purukutsamaṃbarīṣaṃ mucukundaṃ ca tasyāṃ putratrayamutpādayāmāsa //",
+    "english": "Māndhātri married Vindumatī, the daughter of Śaśavindu, and had by her three sons, Purukutsa, Ambarīṣa, and Muchukunda he had also fifty daughters.",
+    "morphology": "māndhātā_māndhātṛ_SNM śatabindoḥ_śatabindu_SGM duhitaram_duhitṛ_SAF bundumatīm_bundumatī_SAF upayem_upayā_SPr1O  // purukutsam_purukutsa_SAM aṃbarīṣam_ambarīṣa_SAM mucukundam_mucukunda_SAM ca_ca_ tasyām_tad_SLF putra_putra_Cp traya"
+  },
+  {
+    "index": 32431,
+    "sanskrit": "prātastato vedikāyāṃ madhye maṇḍalamālikhet | padmaṃ vā svastikaṃ vāpi kumbhaṃ tatra nidhāpayet || 29 || pañcadrumakaṣāyaṃ ca tanmadhye pūrayetsudhīḥ | gaṃgādipuṇyatoyāni pallavānsa samṛttikāḥ || 30 ||",
+    "english": "In the morning, a holy mystic picture of circle, lotus or Svastika should be made on the Altar. A water-pot shall be placed thereon.",
+    "morphology": "prātar_prātar_ tatas_tatas_ vedikāyām_vedikā_SLF madhye_madhya_SLNe maṇḍalam_maṇḍala_SANe ālikhet_ālikh_SPr3O  / padmam_padma_SAM vā_vā_ svastikam_svastika_SAM vā_vā_ api_api_ kumbham_kumbha_SAM tatra_tatra_ nidhāpayet_nidhāpay_SPr3O  "
+  }
+]

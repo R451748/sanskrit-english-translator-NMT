@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27536,
+    "sanskrit": "mṛtasya bhadrāṇi kutas kauraveya kutas jayaḥ",
+    "english": "Where is the good of the dead person;",
+    "morphology": "mṛtasya_mṛ_SGPaPsM"
+  },
+  {
+    "index": 27537,
+    "sanskrit": "upayāmagṛhīto 'si |",
+    "english": "Thou art taken with a support.",
+    "morphology": "upayāma_upayāma_Cp ḥ_PNF"
+  },
+  {
+    "index": 27538,
+    "sanskrit": "daṇḍasya darśanādduṣṭān putrabhrātādi sāmataḥ //",
+    "english": "The wicked should be won by threats of punishment and the sons, brothers and others by conciliatory measures.",
+    "morphology": "daṇḍasya_daṇḍa_SGM darśanāt_darśana_SBNe duṣṭān_duṣ_PAPaM putra_putra_Cp bhrātā_bhrātṛ_SNM ādi_ādi_SANe sāmataḥ_sāman_SBNe  /"
+  },
+  {
+    "index": 27539,
+    "sanskrit": "gāḥ pālayantau ca punaḥ sahitau balakeśavau / bhramamāṇau vane tasminramyaṃ tālavanaṃ gatau // tattu tālavanaṃ divyaṃ dhenuko nāma dānavaḥ / mṛgamāṃsakṛtāhāraḥ sadādhyāste kharākṛtiḥ //",
+    "english": "AGAIN, tending upon the herds, Keśava and Rāma wandered through the woods, and on one occasion came to a pleasing grove of palms, where dwelt the fierce demon Dhenuka, feeding upon the flesh of deer.",
+    "morphology": "gāḥ_go_PA pālayantau_pālay_DuNPaPrM ca_ca_ punar_punar_ sahitau_sahita_DuNM bala_bala_Cp keśavau_keśava_DuNM  / bhramamāṇau_bhram_DuNPaPrM vane_vana_SLNe tasmin_tad_SLNe ramyam_ramya_SANe tāla_tāla_Cp vanam_vana_SANe gatau_gam_DuNPaM  / tat_tad"
+  },
+  {
+    "index": 27540,
+    "sanskrit": "ṛddhipādaiḥ karmaṇyacittasyāropite mokṣabhāgīye kuśalamūle iti /",
+    "english": "When the root of the wholesome which is conducive to liberation has been fostered by the bases of psychic power in one who has mental pliability.",
+    "morphology": "ṛddhipādaiḥ_ṛddhipāda_PIM karmaṇi_karman_SLNe acittasya_acitta_SGM āropite_āropay_SLPaNe mokṣa_mokṣa_Cp bhāgīye_bhāgīya_SLNe kuśala_kuśala_Cp mūle_mūla_SLNe iti_iti_"
+  },
+  {
+    "index": 27541,
+    "sanskrit": "suparṇa uvāca | prātaḥprātaraho mātaḥ kva yāsi tvaṃ dinedine | sāyamāyāsi ca kuto vicchāyā dīnamānasā || 46 ||",
+    "english": "46-50. “Alas, my mother, where do you go in the morning everyday and return in the evening, pale and afflicted in mind?",
+    "morphology": "suparṇaḥ_suparṇa_SNM uvāca_vac_SPs3In  / prātar_prātar_ prātar_prātar_ aho_aho_ mātar_mātṛ_SVF kva_kva_ yāsi_yā_SPr2In tvam_tvad_SN dine_dina_SLNe dine_dina_SLNe  / sāyam_sāyam_ āyāsi_āyā_SPr2In ca_ca_ kutas_kutas_ vicchāyā_vicchā"
+  },
+  {
+    "index": 27542,
+    "sanskrit": "an ādṛtya tatas śakram graham jagrāha bhārgavaḥ",
+    "english": "How can they then rightfully claim the juice of the Soma? \"Lomasa said, 'When these very identical words were spoken again and again by the lord of celestials, the son of Bhrigu, setting Indra at naught, took up the offering he had intended to make.",
+    "morphology": "an_an_U"
+  },
+  {
+    "index": 27543,
+    "sanskrit": "gatvāyodhyāmapi purīṃ prayayau badarīvanam | sālagrāmaṃ tato gatvā svadeśaṃ prati niryayau || 62 ||",
+    "english": "62. After going to the city of Ayodhyā he went to Badarīvana. From there he went to Śālagrāma[4] and then started back towards his own native place.",
+    "morphology": "gatvā_gam_Co ayodhyām_ayodhyā_SAF api_api_ purīm_purī_SAF prayayau_prayā_SPs3In badarī_badarī_Cp vanam_vana_SANe  / śālagrāmam_śālagrāma_SAM tatas_tatas_ gatvā_gam_Co sva_sva_Cp deśam_deśa_SAM prati_prati_ niryayau_niryā_SPs3In"
+  }
+]

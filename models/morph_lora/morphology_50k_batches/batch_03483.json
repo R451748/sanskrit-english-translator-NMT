@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27856,
+    "sanskrit": "tato jīvitanāśena gātraśuddhiḥ prajāyate || 52 ||",
+    "english": "52. When the life becomes extinct, the body is purified.",
+    "morphology": "tatas_tatas_ jīvita_jīvita_Cp nāśena_nāśa_SIM gātra_gātra_Cp śuddhiḥ_śuddhi_SNF prajāyate_prajan_SPr3In"
+  },
+  {
+    "index": 27857,
+    "sanskrit": "yaścātako himagirau yo rājā pauṇḍramaṇḍale / vyāghro yaḥ sahyakuñjeṣu sa evāhaṃ tavāgrajaḥ //",
+    "english": "I who had been a chataka bird in the Himalayas, and a prince in the Paundra province; and then as a mighty tiger in the forests of the sahya hill, am now become your elder brother.",
+    "morphology": "yaḥ_yad_SNM cātakaḥ_cātaka_SNM himagirau_himagiri_SLM yaḥ_yad_SNM rājā_rājan_SNM pauṇḍra_pauṇḍra_Cp maṇḍale_maṇḍala_SLM  / vyāghraḥ_vyāghra_SNM yaḥ_yad_SNM sahya_sahya_Cp kuñjeṣu_kuñja_PLM saḥ_tad_SNM eva_eva_ aham_ma"
+  },
+  {
+    "index": 27858,
+    "sanskrit": "niyaccha yaccha saṃyaccha indriyāṇi manaḥ giram",
+    "english": "Do thou, therefore, (as a remedy), restrain thy senses and mind and speech.",
+    "morphology": "niyaccha_niyam_SPr2Im yaccha_yam_SPr2Im saṃyaccha_saṃyam_SPr2Im indriyāṇi_indriya_PANe"
+  },
+  {
+    "index": 27859,
+    "sanskrit": "kṣemyaḥ ca ekākinā gamyaḥ panthāḥ kaḥ asti iti pṛccha mām",
+    "english": "If thou askest me what path is auspicious that one should tread alone, I shall tell thee.",
+    "morphology": "kṣemyaḥ_kṣemya_SNM ca_ca_U ekākinā_ekākin_SIM gamyaḥ_gam_SNMGd panthāḥ_pathin_SNM kaḥ_ka_SNM asti_as_SPr3In iti_iti_U pṛccha_pracch_SPr2Im"
+  },
+  {
+    "index": 27860,
+    "sanskrit": "vapāṃ te agnir iṣito 'va sarpatu |",
+    "english": "Over thy caul let Agni, aroused, creep.",
+    "morphology": "vapām_vapā_SAF te_tvad_SG agniḥ_agni_SNM iṣitaḥ_iṣ_SNPaM ava_ava_ sarpa_sṛp_SPr3Im"
+  },
+  {
+    "index": 27861,
+    "sanskrit": "kaḥ nu maryāḥ amithitaḥ sakhā sakhāyam abravīt jahā kaḥ asmat īṣate",
+    "english": "What friend, O people, unprovoked, hath ever said unto a friend, He turns and leaves us in distress?",
+    "morphology": "kaḥ_ka_SNM nu_nu_U maryāḥ_marya_PVM amithitaḥ_amithita_SNM sakhā_sakhi_SNM sakhāyam_sakhi_SAM abravīt_brū_SPs3In jahā_hā_SPr2Im kaḥ_ka_SNM asmat_mad_PB īṣate_īṣ_SPr3In"
+  },
+  {
+    "index": 27862,
+    "sanskrit": "pañcamūla kaṣāyeṇa prakṣālya lavaṇa uttaraiḥ tailaiḥ bhadra ādi madhuka saṃyuktaiḥ pratipūrayet",
+    "english": "After incision, the ulcer should be washed with a decoction of the Panca-mula; and an oil cooked with the drugs of the Bhadra-darvadi group and Yashti-madhu, and, mixed with an abundant quantity of salt, should be used in filling (healing up) the cavity of the wound.",
+    "morphology": "pañcamūla_pañcamūla_NeCp kaṣāyeṇa_kaṣāya_SIM prakṣālya_prakṣālay_Co lavaṇa_lavaṇa_Cp uttaraiḥ_uttara_PINe tailaiḥ_taila_PINe bhadra_bhadra_MCp ādi_ādi_MCp madhuka_madhuka_NeCp saṃyuktaiḥ_saṃyuj_PIPaPsNe pratipūrayet_prati"
+  },
+  {
+    "index": 27863,
+    "sanskrit": "uktaṃ ca adharme dharmarūpe vā 'py avibhakte phalaṃ prati /",
+    "english": "It has been stated to this effect. We should definitely know that virtue or vice brings about the particular result.",
+    "morphology": "uktam_vac_SNPaNe ca_ca_ adharme_adharma_SLM dharma_dharma_Cp rūpe_rūpa_SLNe vā_vā_ api_api_ avibhakte_avibhakta_SLNe phalam_phala_SANe prati_prati_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13240,
+    "sanskrit": "pari pra jātaḥ kratvā babhūtha bhuvaḥ devānām pitā putraḥ san",
+    "english": "As soon as thou wert born thou hast excelled by thy power of mind; being the son of the gods thou hast become their father.",
+    "morphology": "pari_pari_U pra_pra_U jātaḥ_jan_SNPaPsM kratvā_kratu_SIM babhūtha_bhū_SPs2In bhuvaḥ_bhū_SPs2Su devānām_deva_PGM pitā_pitṛ_SNM putrā_putra_SNM san_as_SNPaPrM"
+  },
+  {
+    "index": 13241,
+    "sanskrit": "kadrūḥ uvāca",
+    "english": "Let us lay a wager upon it.' Kadru replied, then, 'O thou of sweet smiles.",
+    "morphology": "kadrūḥ_SNF"
+  },
+  {
+    "index": 13242,
+    "sanskrit": "akṣān rukmī tato hṛṣṭaḥ pātayām āsa pārthivaḥ /",
+    "english": "When the dice, bearing four marks, were thrown by him Rukshmi was rightly defeated by Rāma.",
+    "morphology": "akṣān_akṣa_PAM rukmī_rukmin_SNM tatas_tatas_ hṛṣṭaḥ_hṛṣ_SNPaM pātayām_pātay_SPs3InPe"
+  },
+  {
+    "index": 13243,
+    "sanskrit": "kāmaḥ yavīyān iti ca pravadanti manīṣiṇaḥ",
+    "english": "Desire, it is said by the wise, is the lowest of the three.",
+    "morphology": "kāmaḥ_kāma_SNM"
+  },
+  {
+    "index": 13244,
+    "sanskrit": "tasya kalpatarormūrdhni dakṣiṇaskandhakoṭare / kaladhautalatāprote vidyate vihagālayaḥ //",
+    "english": "The tree was covered all over with fresh and beautiful creepers, and a branch of it extending towards the south, had a large hollow in its top, containing the nest of birds of various kinds.",
+    "morphology": "tasya_tad_SGM kalpataroḥ_kalpataru_SGM mūrdhni_mūrdhan_SLM dakṣiṇa_dakṣiṇa_Cp skandha_skandha_Cp koṭare_koṭara_SLM  / kaladhauta_kaladhauta_Cp latā_latā_Cp prote_prota_SLM vidyate_vid_SPr3InPv vihaga_vihaga_Cp ālayaḥ_ālaya_SNM  /"
+  },
+  {
+    "index": 13245,
+    "sanskrit": "kiñca bhavatu nāma sambandhibhedād bhedas tathāpi vastubhūtasāmānyānabhyupagame bhavatāṃ sa evāpohāśrayaḥ sambandhī na siddhyati /",
+    "english": "“Further, it may be granted that diversity is due to diversity in relatives; even so, as you do not admit of the ‘Universal’ as an entity, it is not possible for your Apoha to have the relative, in the shape of its substratum;",
+    "morphology": "kiñca_kiṃca_ bhavatu_bhū_SPr3Im nāma_nāma_ sambandhi_sambandhin_Cp bhedāt_bheda_SBM bhedaḥ_bheda_SNM tathā_tathā_ api_api_ vastu_vastu_Cp bhūta_bhū_PaCp sāmānya_sāmānya_Cp anabhyupagame_anabhyupagama_SLM bhavatām_bhū_PGPaPrM saḥ_tad_SN"
+  },
+  {
+    "index": 13246,
+    "sanskrit": "śrī siddha uvāca dhanyas tvaṃ brāhmaṇa śreṣṭha para trāṇa parāyaṇaḥ tvayā vimocito 'haṃ vai rākṣasatvān mahā mate",
+    "english": "The liberated soul said: O best of brāhmaṇas, you earnestly work for the salvation of others. O noble hearted one, you have rescued me from a monster's life.",
+    "morphology": "śrī_śrī_FCp siddhaḥ_siddha_SNM uvāca_vac_SPs3In dhanyaḥ_dhanya_SNM tvam_tvad_SN brāhmaṇa_brāhmaṇa_MCp śreṣṭha_śreṣṭha_SVM para_para_Cp trāṇa_trāṇa_NeCp parāyaṇaḥ_parāyaṇa_SNM tvayā_tvad_SI vimocitaḥ_vimocay_SNPaM a"
+  },
+  {
+    "index": 13247,
+    "sanskrit": "tava śarīram patayiṣṇu arvan tava cittam vātaḥ iva dhrajīmān tava śr̥ṅgāṇi vi ṣṭhitā puru trā araṇyeṣu jarbhurāṇā caranti",
+    "english": "A body formed for flight hast thou, O Charger; swift as the wind in motion is thy spirit. Thy horns are spread abroad in all directions: they move with restless beat in wildernesses.",
+    "morphology": "tava_tvad_SG śarīram_śarīra_SNNe patayiṣṇu_patayiṣṇu_SNNe arvan_arvant_SVM tava_tvad_SG cittam_citta_SNNe vātaḥ_vāta_SNM iva_iva_U dhrajīmān_dhrajīmat_SNM tava_tvad_SG śr̥ṅgāṇi_śrīṅga_PNNe vi_vi_U ṣṭhitā_sthā_PNPaPsNe pu"
+  }
+]

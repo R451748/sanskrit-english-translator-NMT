@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40088,
+    "sanskrit": "āpyāyata mahā tejāḥ kuntī putraḥ yudhiṣṭhiraḥ dhanaṃjayam abhiprekṣya vinītam sthitam antike jaṭilam devarājasya tapaḥ yuktam akalmaṣam",
+    "english": "And seeing the sinless Dhananjaya having ascetic merit, bearing clotted hair, stand in humility before the lord of celestials, Yudhishthira, the son of Kunti;",
+    "morphology": "āpyāyata_āpyā_PaPrCp mahā_mahat_Cp tejāḥ_tejas_SNM kuntī_kuntī_FCp putraḥ_putra_SNM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM dhanaṃjayam_dhanaṃjaya_SAM abhiprekṣya_abhiprekṣ_Co vinītam_vinī_SAPaPsM sthitam_sthā_SAPaPsM antike_antika_SL"
+  },
+  {
+    "index": 40089,
+    "sanskrit": "citraḥ vaḥ astu yāmaḥ citraḥ ūtī su dānavaḥ marutaḥ ahi bhānavaḥ",
+    "english": "May your march be brilliant, brilliant through your protection, O Maruts, you bounteous givers, shining like snakes!",
+    "morphology": "citraḥ_citra_SNM vaḥ_tvad_PG astu_as_SPr3Im yāmaḥ_yāma_SNM citraḥ_citra_SNM ūtī_ūti_SIF su_su_U dānavīḥ_dānu_PVM"
+  },
+  {
+    "index": 40090,
+    "sanskrit": "devā ūcuḥ | devadeva jagadvyāpinparameśa sadāśiva | jagadīśa jagannātha samprasīda jaganmaya ||",
+    "english": "12. O lord of gods, O pervader of the universe, O Sadāśiva, O lord of the universe, O lord of the world or the very world itself, be pleased.",
+    "morphology": "devāḥ_deva_PNM ūcuḥ_vac_PPs3In  / devadeva_devadeva_SVM jagat_jagant_Cp vyāpin_vyāpin_SVM parameśa_parameśa_SVM sadāśiva_sadāśiva_SVM  / jagadīśa_jagadīśa_SVM jagannātha_jagannātha_SVM samprasīda_samprasad_SPr2Im jagat_jagant_Cp maya_m"
+  },
+  {
+    "index": 40091,
+    "sanskrit": "kṛṣi bhāgī bahu dhanaḥ bahu putraḥ ca jāyate",
+    "english": "In fact, such a person reaps an abundance of harvest from his fields, acquires great wealth and much corn.",
+    "morphology": "kṛṣi_kṛṣi_FCp bhāgī_bhāgin_SNM bahu_bahu_Cp dhanaḥ_dhana_SNM bahu_bahu_Cp putraḥ_putra_SNM"
+  },
+  {
+    "index": 40092,
+    "sanskrit": "apa śatrūn vidhyatāṃ saṃvidāne ārtnī ime viṣphurantī amitrān |",
+    "english": "In unison shall they pierce the foes, These two ends springing asunder, the enemies.",
+    "morphology": "apa_apa_ śatrūn_śatru_PAM vidhyatām_vyadh_SPr3Im saṃvidāne_saṃvid_DuNPaPrF ārtnī_ārtnī_DuNF"
+  },
+  {
+    "index": 40093,
+    "sanskrit": "deśāddeśāntaraprāptirhastasya dravyadhāraṇam / vyāpāraśca tathāṅgānāṃ pauruṣeṇa na daivataḥ //",
+    "english": "One's going from one place to another, his holding a thing in the hand, and the movement of his limbs, are all the acts of his exertion and not his destiny.",
+    "morphology": "deśāt_deśa_SBM deśa_deśa_Cp antara_antara_Cp prāptiḥ_prāpti_SNF hastasya_hasta_SGM dravya_dravya_Cp dhāraṇam_dhāraṇa_SNNe  / vyāpāraḥ_vyāpāra_SNM ca_ca_ tathā_tathā_ aṅgānām_aṅga_PGNe pauruṣeṇa_pauruṣa_SINe na_na_ daivata"
+  },
+  {
+    "index": 40094,
+    "sanskrit": "sidhyati ca āmalaka rodhra priyaṅgu dantī kṛṣṇa ayaḥ tāmra cūrṇāni āvapet |",
+    "english": "It should be cooked again very carefully, so that it may not be burnt; powders of Amalaka,[6] Rodhra, Priyamgu, Danti, black-iron and copper should then be added to it just before the completion of the cooking, so that it may be reduced to the consistency of an Avaleha (lambative).",
+    "morphology": "sidhyati_sidh_SPr3In ca_ca_U āmalaka_āmalaka_MCp rodhra_rodhra_MCp priyaṅgu_priyaṅgu_MCp dantī_dantī_FCp kṛṣṇa_kṛṣṇa_Cp ayaḥ_ayas_NeCp tāmra_tāmra_NeCp cūrṇāni_cūrṇa_PANe"
+  },
+  {
+    "index": 40095,
+    "sanskrit": "tasyāḥ śabdajanitāyāḥ pramiteḥ yathārthetaratvaṃ puruṣadarśanādhīnamsamyagdarśini śucau puruṣe sati satyārthā sā bhavati pratītiḥitarathā tu tadviparīteti /",
+    "english": "The truth or falsehood of verbal knowledge entirely depends upon a person who makes the statement. If a person correctly sees an object and is honest then the knowledge, communicated by him, is true. If he is otherwise then the knowledge, communicated by his statement, is false.",
+    "morphology": "tasyāḥ_tad_SGF śabda_śabda_Cp janitāyāḥ_janay_SGPaF pramiteḥ_pramiti_SGF yathārtha_yathārtha_Cp itaratvam_itaratva_SNNe puruṣa_puruṣa_Cp darśana_darśana_Cp adhīnam_adhīna_SNNe samyak_samyak_ darśini_darśin_SLM śucau_śuci_SLM puru"
+  }
+]

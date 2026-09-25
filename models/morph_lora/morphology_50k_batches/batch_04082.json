@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32648,
+    "sanskrit": "saindhava ādi drava antānām siddhi kāmaiḥ bhiṣaj varaiḥ",
+    "english": "This kind of variation according to the age of the patient, in the quantity of each drug of a Niruha-Vasti which commences with the Saindhava salt and ends with the liquid (viz., Kashaya) has always been observed by the physician aspiring after success (in prescribing a Vasti).",
+    "morphology": "saindhava_saindhava_NeCp ādi_ādi_MCp drava_drava_MCp antānām_anta_PGM"
+  },
+  {
+    "index": 32649,
+    "sanskrit": "ratham yuktvā hi dāśārhaḥ miṣatām sarva dhanvinām jayadrathāya yāti eṣa kadarthīkṛtya naḥ raṇe tatra ke cit mithas rājan samabhāṣanta bhūmipāḥ",
+    "english": "Yoking his steeds unto his car in the very sight of all (our) bowmen, he of Dasarha's race is proceeding towards Jayadratha, slaughtering us in battle.' And some lords of earth there, O king, amongst themselves, having seen that highly wonderful incident in battle never seen before said, 'Alas, through Duryodhana's fault, these warriors of king Dhritarashtra, the Kshatriyas, and the whole earth, fallen into great distress, are being destroyed.",
+    "morphology": "ratham_ratha_SAM yuktvā_yuj_Co hi_hi_U dāśārhaḥ_dāśārha_SNM miṣatām_miṣ_PGPaPrM sarva_sarva_Cp dhanvinām_dhanvin_PGM jayadrathāya_jayadratha_SDM yāti_yā_SPr3In eṣa_etad_SNM kadarthīkṛtya_kadarthīkṛ_Co naḥ_mad_PA raṇe_raṇa_SL"
+  },
+  {
+    "index": 32650,
+    "sanskrit": "paraśarīre 'pi cetaso 'nupalabdhiprāptatvān na paurvāparyagrahaṇam asti /",
+    "english": "nor is it perceived apart from the Cognition. As regards the Body of another person also, the Cognition is not one that could be perceptible;",
+    "morphology": "para_para_Cp śarīre_śarīra_SLNe api_api_ cetasaḥ_cetas_SGNe anupalabdhi_anupalabdhi_Cp prāpta_prāp_PaCp tvāt_tva_SBNe na_na_ paurvāparya_paurvāparya_Cp grahaṇam_grahaṇa_SNNe"
+  },
+  {
+    "index": 32651,
+    "sanskrit": "mṛgaḥ bhūtvā mṛgaiḥ sārdham carāmi gahane vane",
+    "english": "In the form of a deer I rove in the deep woods in the company of other deer.",
+    "morphology": "mṛgaḥ_mṛga_SNM bhūtvā_bhū_Co mṛgaiḥ_mṛga_PIM sārdham_sārdham_U"
+  },
+  {
+    "index": 32652,
+    "sanskrit": "kalāvatyuvāca | nātha prajāsṛjāpūrvaṃ sṛṣṭā nānāvidhāḥ prajāḥ | prajāhitāya saṃsṛṣṭaṃ puruṣārthacatuṣṭayam || 88 ||",
+    "english": "Kalāvatī said: 88. My lord, formerly different kinds of subjects were created by Brahmā at the outset and for their good the four aims of life.",
+    "morphology": "kalāvatī_kalāvatī_SNF uvāca_vac_SPs3In  / nātha_nātha_SVM prajā_prajā_Cp sṛjā_sṛj_SIM apūrvam_apūrvam_ sṛṣṭāḥ_sṛj_PNPaF nānāvidhāḥ_nānāvidha_PNF prajāḥ_prajā_PNF  / prajā_prajā_Cp hitāya_hita_SDNe saṃsṛṣṭam_"
+  },
+  {
+    "index": 32653,
+    "sanskrit": "yasmāttadvedanāsukhaṃ dhyānayostu",
+    "english": "In the first two Dhyānas, happiness signifies well-being.",
+    "morphology": "yasmāt_yasmāt_"
+  },
+  {
+    "index": 32654,
+    "sanskrit": "viheṭhnaṃ vihiṃsā yena prahārapāruṣyādibhiḥ parān viheṭhyate / eṣāṃ punaḥ ṣaṇṇāṃ kleśamalānāṃ",
+    "english": "Hostility is what is translated into deeds and words harmful to another.",
+    "morphology": "viheṭhnam_viheṭhna_SNNe vihiṃsā_vihiṃsā_SNF yena_yad_SINe prahāra_prahāra_Cp pāruṣya_pāruṣya_Cp ādibhiḥ_ādi_PIM parān_para_PAM viheṭhyate_viheṭhay_SPr3InPv  / eṣām_idam_PGM punar_punar_ ṣaṇṇām_ṣaṣ_PGM kleśa_kleśa_"
+  },
+  {
+    "index": 32655,
+    "sanskrit": "kaṇṭakasthalanāmānaḥ pṛthagdīpakakomalāḥ / karṇāndhrāścaulikāścaiva tathā cārmaṇvatā api //",
+    "english": "Those named Kantakas from their thorny district, the unenlightened Komalas (of Comilla?); the Karnas (Canarese), the Andhras, the Cholas and the people on the borders of the Charmanvati river.",
+    "morphology": "kaṇṭakasthala_kaṇṭakasthala_Cp nāmānaḥ_nāman_PNM pṛthagdīpaka_pṛthagdīpaka_Cp komalāḥ_komala_PNM  / karṇāndhrāḥ_karṇāndhra_PNM caulikāḥ_caulika_PNM ca_ca_ eva_eva_ tathā_tathā_ cārmaṇvatāḥ_cārmaṇvata_PNM api_api"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17800,
+    "sanskrit": "bahvekaputrayor bahuputra ekaṃ dattvā śeṣapratiṣṭabdhaḥ saṃdhim atikrāmati, naitaraḥ //",
+    "english": "With regard to a king having many sons and another an only son, the former, giving one of his sons as a hostage and being contented with the rest, is able to break the peace but not the latter",
+    "morphology": "bahu_bahu_Cp eka_eka_Cp putrayoḥ_putra_DuGM bahu_bahu_Cp putraḥ_putra_SNM ekam_eka_SAM dattvā_dā_Co śeṣa_śeṣa_Cp pratiṣṭabdhaḥ_pratistambh_SNPaM saṃdhim_saṃdhi_SAM atikrāmati_atikram_SPr3In na_na_ etaraḥ_etara_SNM  /"
+  },
+  {
+    "index": 17801,
+    "sanskrit": "yatra śakrasamādeśātpūritaṃ pāṃsubhiḥ purā | saṃvartakena raudreṇa vāyunā tīrthamuttamam || 12 ||",
+    "english": "At the bidding of Śakra, the excellent Tīrtha was filled with dust particles by Saṃvartaka, the Raudra (terrible, pertaining to Rudra) wind.",
+    "morphology": "yatra_yatra_ śakra_śakra_Cp samādeśāt_samādeśa_SBM pūritam_pūray_SNPaNe pāṃsubhiḥ_pāṃsu_PIM purā_purā_  / saṃvartakena_saṃvartaka_SIM raudreṇa_raudra_SIM vāyunā_vāyu_SIM tīrtham_tīrtha_SNNe uttama_uttama_SNNe  /"
+  },
+  {
+    "index": 17802,
+    "sanskrit": "yatkuśalamakṛtvātapyate akuśalaṃ ca kṛtvā /",
+    "english": "When it is relative to a good action omitted or to a bad action accomplished.",
+    "morphology": "yat_yat_ kuśalam_kuśala_SANe a_a_ kṛtvā_kṛ_Co tapyate_tap_SPr3InPv akuśala_akuśala_SANe"
+  },
+  {
+    "index": 17803,
+    "sanskrit": "aṣṭabhirlavaṇaiḥ piṣṭhaiḥ prasannāḥ pāyayedghṛtam //",
+    "english": "Ghee mixed with the eight kinds of salts made into a paste should be given for drinking in the case of retention of urine.",
+    "morphology": "aṣṭabhiḥ_aṣṭan_PINe lavaṇaiḥ_lavaṇa_PINe piṣṭhaiḥ_piṣṭha_PINe prasannāḥ_prasannā_PAF pāyayet_pāyay_SPr3O ghṛtam_ghṛta_SANe  /"
+  },
+  {
+    "index": 17804,
+    "sanskrit": "yat eva yogāḥ paśyanti tat sāṃkhyaiḥ api dṛśyate",
+    "english": "That which the Yogins have in view is the very same which the Sankhyas also have in view.",
+    "morphology": "yat_yad_SANe eva_eva_U yogāḥ_yoga_PNM paśyanti_paś_PPr3In tat_tad_SNNe sāṃkhyaiḥ_sāṃkhya_PIM api_api_U"
+  },
+  {
+    "index": 17805,
+    "sanskrit": "sthito devārcanaṃ kṛtvā kauśalyāyai nivedya tat //",
+    "english": "He worshipped the gods and informed the news to Kauśalyā.",
+    "morphology": "sthitaḥ_sthā_SNPaM deva_deva_Cp arcanam_arcana_SANe kṛtvā_kṛ_Co kauśalyāyai_kauśalyā_SDF nivedya_niveday_Co tat_tad_SANe  /"
+  },
+  {
+    "index": 17806,
+    "sanskrit": "2.08a.01 yad api nityānityavibhāgena yutasiddheḥ svaśāstre paribhāṣaṇaṃ kṛtaṃ 2.08a.02 nityānāṃ paramāṇūnāṃ pṛthaggatimattvaṃ yutasiddhiḥ /",
+    "english": "A piece of cloth is distinct from a jar since the former inheres in threads and the latter inheres in pot-sherds. Threads are distinct from pot-sherds. Therefore, a piece of cloth is distinct from a jar. But a jar always depends upon pot-sherds.",
+    "morphology": "yat_yad_SNNe api_api_ nitya_nitya_Cp anitya_anitya_Cp vibhāgena_vibhāga_SIM yuta_yuta_Cp siddheḥ_siddhi_SGM sva_sva_Cp śāstre_śāstra_SLNe paribhāṣaṇam_paribhāṣaṇa_SNNe kṛtam_kṛ_SNPaNe 2.08a_2 nityānām_nitya_PGM paramāṇūnām_para"
+  },
+  {
+    "index": 17807,
+    "sanskrit": "śivahastasthiratvārthaṃ śataṃ mūlena homayet /",
+    "english": "One should make hundred oblations with the principal mantra for the sake of making the hand of the disciple permeated with the essence of Śiva.",
+    "morphology": "śiva_śiva_Cp hasta_hasta_Cp sthira_sthira_Cp tva_tva_Cp artham_artha_SAM śatam_śata_SANe mūlena_mūla_SINe homayet_homay_SPr3O"
+  }
+]

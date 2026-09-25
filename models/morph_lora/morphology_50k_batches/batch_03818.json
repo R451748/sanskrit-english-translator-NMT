@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30536,
+    "sanskrit": "tasmāt tu yācanām kurve viditvaivam vaco 'bravīt",
+    "english": "Therefore I will ask him for it. After thinking in this way, Lord Kṛṣṇa spoke.",
+    "morphology": "tasmāt_tasmāt_"
+  },
+  {
+    "index": 30537,
+    "sanskrit": "nāpy evam yat viśeṣaṇaṃ tat sambandham eveti samavāyasya saty api viśeṣaṇatve sambandhāntarābhāvāt /",
+    "english": "There is also no such law as shows that whatever qualifies an object is related to it by another relation. The relation of inherence qualifies its relata but is not related to them by an ab-extra relation.",
+    "morphology": "na_na_ api_api_ evam_evam_ yat_yad_SNNe viśeṣaṇam_viśeṣaṇa_SNNe tat_tad_SNNe sambandham_sambandha_SAM eva_eva_ iti_iti_ samavāyasya_samavāya_SGM sati_as_SLPaPrNe api_api_ viśeṣaṇa_viśeṣaṇa_Cp tve_tva_SLNe sambandha_sambandha_Cp antara"
+  },
+  {
+    "index": 30538,
+    "sanskrit": "āhūtaḥ taiḥ nara vyāghraiḥ pārthaḥ parapuraṃjayaḥ dharmarājam idam vākyam a pada antaram abravīt",
+    "english": "That tiger among men, and subjugator of hostile cities, Arjuna, thus challenged by them, said these words unto king Yudhishthira the Just without any delay: 'Summoned, I never turn back.",
+    "morphology": "āhūtaḥ_āhvā_SNPaPsM taiḥ_tad_PIM nara_nara_MCp vyāghraiḥ_vyāghra_PIM pārthaḥ_pārtha_SNM parapuraṃjayaḥ_parapuraṃjaya_SNM dharmarājam_dharmarāja_SAM idam_idam_SANe vākyam_vākya_SANe a_a_U pada_pada_NeCp antaram_antara_SANe abravīt"
+  },
+  {
+    "index": 30539,
+    "sanskrit": "prajñayā sādhyate 'sādhyaṃ tathā ca śrūyatāsṃ kathā / kācid grāmāntaraṃ nārī gantuṃ prāvartataikakā //",
+    "english": "[M] (Main story line continued) “Wisdom accomplishes the impossible; hear a story in proof of it. A certain woman set out alone to go to another village.",
+    "morphology": "prajñayā_prajñā_SIF sādhyate_sādhay_SPr3InPv asādhyam_asādhya_SNNe tathā_tathā_ ca_ca_ śrūyatā_śru_SPr3ImPv āsma_idam_SNF kathā_kathā_SNF  / kācid_kaścit_SNF grāma_grāma_Cp antaram_antara_SAM nārī_nārī_SNF gantum_gam_In prāvartata"
+  },
+  {
+    "index": 30540,
+    "sanskrit": "asya made svaryam dāḥ r̥tāya api vr̥tam usriyāṇām anīkam yat ha pra sarge tri kakup ni vartat apa druhaḥ mānuṣasya duraḥ varit i",
+    "english": "In joy of this thou didst restore, for worship, the lowing company of hidden cattle. When the three-pointed one descends with onslaught he opens wide the doors that cause man trouble.",
+    "morphology": "asya_idam_SGM made_mada_SLM svaryam_svarya_SANe dāḥ_dā_SPs2Su r̥tāya_r̥ta_SDNe api_api_U vr̥tam_vr̥ta_SANe usriyāṇām_usriyā_PGF anīkam_anīka_SANe yat_yad_SNNe ha_ha_U pra_pra_U sarge_sarga_SLM tri_tri_Cp kakubh_kakubh_SNF ni_ni_U vartat_v"
+  },
+  {
+    "index": 30541,
+    "sanskrit": "vāsudevam mahātmānam idam vacanam abravīt",
+    "english": "\"Bhishma said, 'Thou art the Master of all the deities and the Asuras.",
+    "morphology": "vāsudevam_vāsudeva_SAM mahātmānam_mahātman_SAM"
+  },
+  {
+    "index": 30542,
+    "sanskrit": "ātmatattvamahāmbhodhivīcayaḥ sargarājayaḥ / anuttamapadāmbhodavṛṣṭayaḥ śāstradṛṣṭayaḥ //",
+    "english": "It finds the nature of the soul, to be as extensive as the vast ocean, containing the creations as its billows; and it considers the all-pervasive soul as a big cloud, raining down in showers of sastras or knowledge.",
+    "morphology": "ātma_ātman_Cp tattva_tattva_Cp mahā_mahat_Cp ambhodhi_ambhodhi_Cp vīcayaḥ_vīci_PNM sarga_sarga_Cp rājayaḥ_rāji_PNF  / anuttama_anuttama_Cp pada_pada_Cp ambhoda_ambhoda_Cp vṛṣṭayaḥ_vṛṣṭi_PNF śāstra_śāstra_Cp dṛṣṭayaḥ_d"
+  },
+  {
+    "index": 30543,
+    "sanskrit": "aṅgulīr granthibhedasya chedayet prathame grahe / dvitīye hastacaraṇau tṛtīye vadham arhati //",
+    "english": "On the first conviction, let him cause two fingers of a cut-purse to be amputated; on the second, one hand and one foot; on the third, he shall suffer death.",
+    "morphology": "aṅgulīḥ_aṅguli_PAF granthibhedasya_granthibheda_SGM chedayet_cheday_SPr3O prathame_prathama_SLM grahe_graha_SLM  / dvitīye_dvitīya_SLM hasta_hasta_Cp caraṇau_caraṇa_DuAM tṛtīye_tṛtīya_SLM vadham_vadha_SAM arhati_arh_SPr3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30824,
+    "sanskrit": "dhūmarūpeṇa nirgatya dārubhyo gaganārṇave / kaṇaratnena nīlarkṣamaṇyantarvartinā sthitam //",
+    "english": "I saw the water rising from the earth in the form of vapour on high, and then mixing with the blue ocean of the azure sky, or appearing as blue sapphires among the twinkling stars of heaven.",
+    "morphology": "dhūma_dhūma_Cp rūpeṇa_rūpa_SINe nirgatya_nirgam_Co dārubhyaḥ_dāru_PBNe gagana_gagana_Cp arṇave_arṇava_SLM  / kaṇa_kaṇa_Cp ratnena_ratna_SINe nīla_nīla_Cp ṛkṣa_ṛkṣa_Cp maṇi_maṇi_Cp antarvartinā_antarvartin_SINe sthitam_sthā"
+  },
+  {
+    "index": 30825,
+    "sanskrit": "pārthena karṇaḥ vividhaiḥ śita agraiḥ babhau giriḥ gairika dhātu raktaḥ kṣaran prapātaiḥ iva raktam ambhaḥ",
+    "english": "Deeply struck by Partha with those diverse arrows of keen points and fierce energy, Karna (covered with blood) looked resplendent like a mountain of red chalk with streams of red water running adown its breast.",
+    "morphology": "pārthena_pārtha_SIM karṇaḥ_karṇa_SNM vividhaiḥ_vividha_PIM śita_śā_PaPsCp agraiḥ_agra_PIM babhau_bhā_SPs3In giriḥ_giri_SNM gairika_gairika_NeCp dhātu_dhātu_MCp raktaḥ_rakta_SNM kṣaran_kṣar_SNPaPrM prapātaiḥ_prapāta_PIM iva_iva"
+  },
+  {
+    "index": 30826,
+    "sanskrit": "bāhyenāgnimāharati / āpto vā asya sa raso ya eṣu lokeṣvatha ya imāṃlokānparāṅraso 'tyakṣarattamasminnetaddadhāti //",
+    "english": "He takes them from outside (the site of) the fire-altar; for the vital sap which is in these worlds is already possessed by him (Agni), and he now putsinto him that vital sap which flowed away beyond these worlds .",
+    "morphology": "bāhyena_bāhya_SIM agnim_agni_SAM āharati_āhṛ_SPr3In  / āptaḥ_āp_SNPaM vai_vai_ asya_idam_SGM sa_tad_SNM rasaḥ_rasa_SNM yaḥ_yad_SNM eṣu_idam_PLM lokeṣu_loka_PLM atha_atha_ yaḥ_yad_SNM imān_idam_PAM lokān_loka_PAM parāṅ_parāñc_SNM "
+  },
+  {
+    "index": 30827,
+    "sanskrit": "vedeṣu sapurāṇeṣu sarve te prabhaviṣṇavaḥ /",
+    "english": "Its Sandhyā and Sandhyāngsha are said to extend each over two hundred years.",
+    "morphology": "vedeṣu_veda_PLM sa_sa_ purāṇeṣu_purāṇa_PLM sarve_sarva_PNM te_tad_PNM prabhaviṣṇavaḥ_prabhaviṣṇu_PNM  /"
+  },
+  {
+    "index": 30828,
+    "sanskrit": "dāntaṃ nayanti samitiṃ dāntaṃ rājābhirūhati |",
+    "english": "They lead one trained into a crowd, a king mounts one who has been trained,",
+    "morphology": "dāntam_dam_SAPaM nayanti_nī_PPr3In samitim_samiti_SAF dāntam_dam_SAPaM rājā_rājan_SNM abhiḥ_abhi_"
+  },
+  {
+    "index": 30829,
+    "sanskrit": "cirād vijayadattaś ca gāḍham āśliṣyataḥ pituḥ / bhujamadhyam ivātyarthaṃ manoratham apūrayat //",
+    "english": "And when Vijayadatta’s father, after so long a separation, folded him in a close embrace, he filled not only his arms, but also his desire.",
+    "morphology": "cirāt_cirāt_ vijayadattaḥ_vijayadatta_SNM ca_ca_ gāḍham_gāḍham_ āśliṣyataḥ_āśliṣ_SGPaPrM pituḥ_pitṛ_SGM  / bhuja_bhuja_Cp madhyam_madhya_SANe iva_iva_ atyartham_atyartham_ manoratham_manoratha_SAM apūrayat_pūray_S3ImIn  /"
+  },
+  {
+    "index": 30830,
+    "sanskrit": "na tatrāpi yugāvasthā yathāsthāneṣu saptasu | tretāyugasamaḥ kālassarvadaiva mahāmune ||",
+    "english": "29. In all the seven subdivisions in it there is no differentiation among the various Yugas. O great sage, the time there is on a par with Tretā Yuga for ever.",
+    "morphology": "na_na_ tatra_tatra_ api_api_ yuga_yuga_Cp avasthā_avasthā_SNF yathā_yathā_ sthāneṣu_sthāna_PLNe saptasu_saptan_PLNe  / tretā_tretā_Cp yuga_yuga_Cp samaḥ_sama_SNM kālaḥ_kāla_SNM sarvadā_sarvadā_ eva_eva_ mahā_mahat_Cp mune_muni_SVM"
+  },
+  {
+    "index": 30831,
+    "sanskrit": "tīrthe sadaiva gaṃtavyaṃ sarve māsāśca śobhanāḥ | tithayaścottamāḥ sarvāḥ snānadānārcanādiṣu || 7 ||",
+    "english": "7. One should always go to a holy place. All months are auspicious. All lunar days are excellent for a bath, for charity or worship (of the deity).",
+    "morphology": "tīrthe_tīrtha_SLNe sadā_sadā_ eva_eva_ gaṃtavyam_gam_SNNeGd sarve_sarva_PNM māsāḥ_māsa_PNM ca_ca_ śobhanāḥ_śobhana_PNM  / tithayaḥ_tithi_PNF ca_ca_ uttamāḥ_uttama_PNF sarvāḥ_sarva_PNF snāna_snāna_Cp dāna_dāna_Cp arcana_arcana_Cp"
+  }
+]

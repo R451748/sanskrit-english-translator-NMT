@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1896,
+    "sanskrit": "teṣāṃ yavīyān pṛṣataḥ pṛṣatād drupadas tasmācca dhṛṣṭadyumnastatodhṛṣṭaketuḥ //",
+    "english": "The son of Pṛṣata was Drupada his son was Dhṛṣṭadyumna his son was Dṛṣṭaketu.",
+    "morphology": "teṣām_tad_PGM yavīyān_yavīyas_SNM pṛṣataḥ_pṛṣata_SNM pṛṣatāt_pṛṣata_SBM drupadaḥ_drupada_SNM tasmāt_tad_SBM ca_ca_ dhṛṣṭadyumnaḥ_dhṛṣṭadyumna_SNM tatas_tatas_ dhṛṣṭaketuḥ_dhṛṣṭaketu_SNM  /"
+  },
+  {
+    "index": 1897,
+    "sanskrit": "pañca gati ātma saṃsāra bahis bhāvāt na martya tā | buddhānām iṣyate asmābhiḥ nirmāṇam tat tathā matam ||",
+    "english": "Being beyond the ‘metempsychic cycle’ consisting of the ‘five states’, the Buddhas are not held by us to be ‘mortal’, what has been regarded as their ‘birth’ is only the creation of themselves by themselves",
+    "morphology": "pañca_pañcan_Cp gati_gati_FCp ātma_ātman_MCp saṃsāra_saṃsāra_MCp bahis_bahis_U bhāvāt_bhāva_SBM na_na_U martya_martya_MCp tā_tā_SNF  / buddhānām_buddha_PGM iṣyate_iṣ_SPr3InPv asmābhiḥ_mad_PI nirmāṇaḥ_nirmāṇa_SNM taḥ_tad_SN"
+  },
+  {
+    "index": 1898,
+    "sanskrit": "atha nirgacchasi, uttarāmukhena na gantavyam iti.”",
+    "english": "(But) then (if) you do go outside, you should not go in the northerly direction.”",
+    "morphology": "atha_atha_ nirgacchasi_nirgam_SPr2In uttarā_uttarā_Cp mukhena_mukha_SINe na_na_ gantavyam_gam_SNNeGd iti_"
+  },
+  {
+    "index": 1899,
+    "sanskrit": "ākārair iṅgitair gatyā ceṣṭayā bhāṣitena ca / netravaktravikāraiś ca gṛhyate 'ntargataṃ manaḥ //",
+    "english": "The internal (working of the) mind is perceived through the aspect, the motions, the gait, the gestures, the speech, and the changes in the eye and of the face.",
+    "morphology": "ākāraiḥ_ākāra_PIM iṅgitaiḥ_iṅgita_PINe gatyā_gati_SIF ceṣṭayā_ceṣṭā_SIF bhāṣitena_bhāṣita_SINe ca_ca_  / netra_netra_Cp vaktra_vaktra_Cp vikāraiḥ_vikāra_PIM ca_ca_ ā_ā_ antar_antar_ ā_ā_ antar_ā_ antar_antar_ ā_ā_ an"
+  },
+  {
+    "index": 1900,
+    "sanskrit": "anyeṣāṃ svayam eva niścayātmakatvāt /",
+    "english": "because the subsequent determinate cognitions are in the nature of certainty itself.",
+    "morphology": "anyeṣām_anya_PGM svayam_svayam_ eva_"
+  },
+  {
+    "index": 1901,
+    "sanskrit": "gatvā svāvāsamānāyya sa jagāda mahattarān / uddhṛtya tāṃ guṇavarāṃ snātāmānayata drutam //",
+    "english": "and going to his own chamber he had the eunuchs summoned, and said to them: “Take that Guṇavarā out of the dungeon, and after she has bathed bring her quickly;",
+    "morphology": "gatvā_gam_Co sva_sva_Cp āvāsam_āvāsa_SAM ānāyya_ānāyay_Co sa_tad_SNM jagāda_gad_SPs3In mahattarān_mahattara_PAM  / uddhṛtya_uddhṛ_Co tām_tad_SAF guṇa_guṇa_Cp varām_vara_SAF snātām_snā_SAPaF ā_ā_ ḥ_ḥ__SNPaF ḥ_ḥ_SNPaF ḥ"
+  },
+  {
+    "index": 1902,
+    "sanskrit": "kasya nābhūn manaḥprītyai sa vadhūvarayostayoḥ / saṃgamo mādhavīvallīvasantotsavayor iva // ehi vrajāvaḥ kauśāmbīmityanyedyuś ca so 'bravīt / naravāhanadattastāṃ kṛtī karpūrikāṃ priyām // tataḥ pratyabravītsā taṃ yadyevaṃ tatkhagāminā / tenaiva tvadvimānena vrajāmastvaritaṃ na kim // taccetsvalpaṃ tadaparaṃ vistīrṇaṃ ḍhaukayāmy aham / iha prāṇadharākhyo hi takṣā yantravimānakṛt //",
+    "english": "Whose mind was not delighted at the union of that couple, which resembled the marriage of the spring creeper and the spring festival? And on the next day Naravāhanadatta, who had attained his object, said to his beloved Karpūrikā: “Come, let us go to Kauśāmbī.” Then she answered him: “If it is to be so, why should we not go there immediately in this chariot of yours that flies through the air? If it is too small I will furnish another large one, for there is living here a mechanic who makes ingenious chariots, who has come from a foreign land, Prāṇadhara by name;",
+    "morphology": "kasya_ka_SGM nā_na_ abhūt_bhū_SPs3In manaḥ_manas_Cp prītyai_prīti_SDF sa_tad_SNM vadhū_vadhū_Cp varayoḥ_vara_DuGM tayoḥ_tad_DuGM  / saṃgamaḥ_saṃgama_SNM mādhavī_mādhavī_Cp vallī_vallī_Cp vasanta_vasanta_Cp utsavayoḥ_utsava_DuGM i"
+  },
+  {
+    "index": 1903,
+    "sanskrit": "āhūtaḥ sarva bhūtānām havyam vahati sarvadā",
+    "english": "But now he invariably carries the oblations of all creatures.",
+    "morphology": "āhūtaḥ_āhvā_SNPaPsM"
+  }
+]

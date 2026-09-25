@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16032,
+    "sanskrit": "sanemi asmat yuyota didyum mā vaḥ duḥ matiḥ iha praṇak naḥ",
+    "english": "Keep from us entirely your flame, let not your hatred reach us here.",
+    "morphology": "sanemi_sanemi_U asmat_mad_PB yuyota_yu_PPr2Im didyum_didyu_SAM"
+  },
+  {
+    "index": 16033,
+    "sanskrit": "tair apyekaikena pratyākhyātastāñchaśāpa //",
+    "english": "They all refused, and were in consequence cursed by the king.",
+    "morphology": "taiḥ_tad_PIM api_api_ ekaikena_ekaika_SIM"
+  },
+  {
+    "index": 16034,
+    "sanskrit": "paṇāndāpyaḥ pañcadaśaviṃśatiṃ tattrayantathā //",
+    "english": "One has to be fined five, ten, twenty and sixty paṇas respectively for assaulting, piercing, cutting and breaking the house of another person.",
+    "morphology": "paṇān_paṇa_PAM dāpyaḥ_dāpay_SNMGd pañcadaśa_pañcadaśan_Cp viṃśatim_viṃśati_SAF tad_tad_Cp trayam_traya_SANe tathā_tathā_"
+  },
+  {
+    "index": 16035,
+    "sanskrit": "jyeṣṭhe site dvitīyāyāṃ rathastho hi divākaraḥ | kuśasthalyāṃ dvijaiḥ śreṣṭhairbāhukṣepaiḥ praṇīyate || 57 ||",
+    "english": "57. On the second lunar day in the bright half of Jyeṣṭha, the Sun (Divākara) seated on the chariot is taken round in Kuśasthalī by excellent Brāhmaṇas who pull him along with their hands.",
+    "morphology": "jyeṣṭhe_jyeṣṭha_SLM site_sita_SLM dvitīyāyām_dvitīyā_SLF ratha_ratha_Cp sthaḥ_stha_SNM hi_hi_ divākaraḥ_divākara_SNM  / kuśasthalyām_kuśasthalī_SLF dvijaiḥ_dvija_PIM śreṣṭhaiḥ_śreṣṭha_PIM bāhu_bāhu_Cp kṣepaiḥ_kṣ"
+  },
+  {
+    "index": 16036,
+    "sanskrit": "brahmavidiva vai somya bhāsi / prasannendriyaḥ prahasitavadanaśca niścintaḥ kṛtārtho brahmavidbhavati /",
+    "english": "‘My boy, thou appearest as if thou knew Brahman;’ one who knows Brahman is always happy with his senses, wears a smiling face, is free from all anxiety and fully satisfied;",
+    "morphology": "brahma_brahman_Cp vid_vid_SNM iva_iva_ vai_vai_ somya_somya_SVM bhāsi_bhā_SPr2In  / prasanna_prasad_PaCp indriyaḥ_indriya_SNM prahasita_prahas_PaCp vadanaḥ_vadana_SNM ca_ca_ niścintaḥ_niścinta_SNM kṛtārthaḥ_kṛtārtha_SNM"
+  },
+  {
+    "index": 16037,
+    "sanskrit": "vṛkṣāśca hāṭakaṃ caiva caṃdanaṃ cekṣukastathā | ete bhuvi parārthe ca dakṣā evaṃ na kecana || dayāluramadasparśa upakārī jitendriyaḥ | etaiśca puṇyastambhaistu caturbhirdhāryyate mahī ||",
+    "english": "25. Trees, gold, sandal paste and the sugarcane exist for the enjoyment of the people. Men similarly competent are very rare in the world. 26. A kind man, a man unpuffed by arrogance a person habitually helping others and a person with perfect control over his sense-organs, these are the four holy pillars that support the earth.",
+    "morphology": "vṛkṣāḥ_vṛkṣa_PNM ca_ca_ hāṭakam_hāṭaka_SNNe ca_ca_ eva_eva_ candanam_candana_SNNe ca_ca_ ikṣukaḥ_ikṣuka_SNM tathā_tathā_  / ete_etad_PNM bhuvi_bhū_SLF para_para_Cp arthe_artha_SLM ca_ca_ dakṣāḥ_dakṣa_PNM evam_evam_ na_na_ k"
+  },
+  {
+    "index": 16038,
+    "sanskrit": "tato vilapya duḥkhārtā karuṇaṃ tatra kānane | jagāma mārgamāśrittha piturharmyaṃ śanaiḥśanaiḥ || 12 ||",
+    "english": "12. Distressed with misery, she lamented piteously in the forest. She slowly proceeded ahead along the path and reached the palace of her father.",
+    "morphology": "tatas_tatas_ vilapya_vilap_Co duḥkha_duḥkha_Cp ārtā_ārta_SNF karuṇam_karuṇa_SANe tatra_tatra_ kānane_kānana_SLNe  / jagāma_gam_SPs3In mārgam_mārga_SAM āśrittha_āśri_SPs2In pituḥ_pitṛ_SGM harmyam_harmya_SANe śanais_śanais_ śanais_"
+  },
+  {
+    "index": 16039,
+    "sanskrit": "sarvātmā sarvavit sarvaḥ sarvabhūteṣv avasthitaḥ / yohya'cintyo 'vyayo vyāpī sa vakṣyati mayā saha //",
+    "english": "The soul of all, the knower of all, he who is all, and is present in all, he who is permanent, undecaying, allpervading, will converse with me.",
+    "morphology": "sarva_sarva_Cp ātmā_ātman_SNM sarva_sarva_Cp vid_vid_SNM sarvaḥ_sarva_SNM sarva_sarva_Cp bhūteṣu_bhūta_PLNe avasthitaḥ_avasthā_SNPaM  / yaḥ_yad_SNM hi_hi_ a_a_ cintyaḥ_cintay_SNMGd avyayaḥ_avyaya_SNM vyāpī_vyāpin_SNM sa_tad_SNM"
+  }
+]

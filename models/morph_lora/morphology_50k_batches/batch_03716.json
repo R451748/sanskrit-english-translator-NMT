@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29720,
+    "sanskrit": "mātaraḥ putrabhāgānusāreṇa bhāgāpahāriṇyaḥ //",
+    "english": "Mothers shall receive shares proportionate to their son's shares;",
+    "morphology": "mātaraḥ_mātṛ_PNF putra_putra_Cp bhāga_bhāga_Cp anusāreṇa_anusāra_SIM bhāga_bhāga_Cp apahāriṇyaḥ_apahārin_PNF  /"
+  },
+  {
+    "index": 29721,
+    "sanskrit": "bhṛśam akṣipan apīḍayan / punaḥ punaḥ pratodena aṅkuśādinā atyantam udvekṣyamāṇā vighaṭayanti //",
+    "english": "\"Without striking much\" not causing them pain, again and again ,\" with the goad;\" as being struck again and again with the hook, etc, they become perturbed and cause injury.",
+    "morphology": "bhṛśam_bhṛśam_ akṣipan_akṣipat_SNM apīḍayan_apīḍayat_SNM  / punar_punar_ punar_punar_ pratodena_pratoda_SIM aṅkuśa_aṅkuśa_Cp ādinā_ādi_SIM atyantam_atyantam_ udvekṣyamāṇāḥ_udviś_PNPaFuM vighaṭayanti_vighaṭay_PPr3In  /"
+  },
+  {
+    "index": 29722,
+    "sanskrit": "anyacca vikṛtaṃ sarvaṃ kurvāṇo narakaṃ vrajet | anyakṣetre kṛtaṃ pāpaṃ dharmāraṇye vinaśyati || 5 ||",
+    "english": "104-109. Even in this holy spot, some people confused by Viṣṇu’s Māyā do perform evil acts such as adultery, theft of gold etc. One who does these and other evil acts, goes to hell.",
+    "morphology": "anyat_anya_SANe ca_ca_ vikṛtam_vikṛ_SAPaNe sarvam_sarva_SANe kurvāṇaḥ_kṛ_SNPaPrM narakam_naraka_SANe vrajet_vraj_SPr3O  / anya_anya_Cp kṣetre_kṣetra_SLNe kṛtam_kṛ_SNPaNe pāpam_pāpa_SNNe dharmāraṇye_dharmāraṇya_SLNe vinaśyati_vin"
+  },
+  {
+    "index": 29723,
+    "sanskrit": "kaścideva nivāso me nārthināmiti tuṣṭitaḥ / nṛtyantamiva bahvāḍhyalatāvalayavalganaiḥ //",
+    "english": "They danced also with delight with their branching arms and clasping armlets of the creepers, to think on the subsistence, that every part of their body affords to all kinds of living beings.",
+    "morphology": "kaścid_kaścit_SNM eva_eva_ nivāsaḥ_nivāsa_SNM me_mad_SG na_na_ arthinām_arthin_PGM iti_iti_ tuṣṭitaḥ_tuṣṭi_SBF  / nṛtyantam_nṛt_SAPaPrM iva_iva_ bahu_bahu_Cp āḍhya_āḍhya_Cp latā_latā_Cp valaya_valaya_Cp valganaiḥ_valgana_PINe"
+  },
+  {
+    "index": 29724,
+    "sanskrit": "śrutvā jayam ca itihāsam dvijāya",
+    "english": "\"Upon the conclusion of the Harivansa, a 1,000 brahmanas should be fed.",
+    "morphology": "śrutvā_śru_Co"
+  },
+  {
+    "index": 29725,
+    "sanskrit": "vivaram prāpya ca anyonyam anayan yama sādanam",
+    "english": "And seizing one another's laches, they despatched one another to the abode of Yama.",
+    "morphology": "vivaram_vivara_SANe prāpya_prāp_Co ca_ca_U anyonyam_anyonya_SAM anayan_nī_PPs2In"
+  },
+  {
+    "index": 29726,
+    "sanskrit": "imā te vājinn avamārjanānīmā śaphānām̐ sanitur nidhānā / atrā te bhadrā raśanā apaśyam ṛtasya yā abhirakṣanti gopāḥ //",
+    "english": "here are the traces of thy hooves as winner. Here have I seen the auspicious reins that guide thee, which those who guard the holy Law keep safely. 17",
+    "morphology": "imā_idam_PNNe te_tvad_SG vājin_vājin_SVM avamārjanāni_avamārjana_PNNe imā_idam_PNNe śaphānām_śapha_PGM sanituḥ_sanitṛ_SGM nidhānā_nidhāna_PNNe  / atrā_atra_ te_tvad_SG bhadrāḥ_bhadra_PAF raśanāḥ_raśanā_PAF apaśyam_paś_S1ImIn "
+  },
+  {
+    "index": 29727,
+    "sanskrit": "vāmadeva uvāca || | bhagavanparameśastvaṃ parāparavibhūtidaḥ | sarvvajñasarvakarttā ca sarvvaśaktidharaḥ prabhuḥ ||",
+    "english": "44. O lord, you are the great Īśa (parameśa), the bestower of prosperity to all and sundry. You are omniscient; creator of all and the lord bearing all Śaktis.",
+    "morphology": "vāmadevaḥ_vāmadeva_SNM uvāca_vac_SPs3In  / bhagavan_bhagavant_SVM parameśaḥ_parameśa_SNM tvam_tvad_SN parāpara_parāpara_Cp vibhūti_vibhūti_Cp daḥ_da_SNM  / sarvvajña_sarvajña_Cp sarva_sarva_Cp karttā_kartṛ_SNM ca_ca_ sarva_sarva_Cp śak"
+  }
+]

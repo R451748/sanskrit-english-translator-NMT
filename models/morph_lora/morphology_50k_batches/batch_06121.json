@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48960,
+    "sanskrit": "tatra mahā-jana-kāyo rudati |",
+    "english": "There a great crowd of people cried out.",
+    "morphology": "tatra_"
+  },
+  {
+    "index": 48961,
+    "sanskrit": "tathā hi gṛhye pretaśrāddham evādhikṛtya homa āmnāyate /",
+    "english": "In the Gṛhyasūtra, libations into fire have been laid down in connection with the Śrāddha offered to the recent dead.",
+    "morphology": "tathā_tathā_ hi_hi_ gṛhye_gṛhya_SLNe preta_preta_Cp śrāddham_śrāddha_SANe eva_eva_ adhikṛtya_adhikṛ_Co homaḥ_homa_SNM"
+  },
+  {
+    "index": 48962,
+    "sanskrit": "vaiśampāyanaḥ uvāca samāpte rājasūye tu kratu śreṣṭhe su durlabhe śiṣyaiḥ parivṛtaḥ vyāsaḥ purastāt samapadyata",
+    "english": "SECTION XLV (Dyuta Parva) Vaisampayana said,--\"when that foremost of sacrifices, the Rajasuya so difficult of accomplishment, was completed, Vyasa surrounded by his disciples presented himself before Yudhishthira.",
+    "morphology": "vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In samāpte_samāp_SLPaPsM rājasūye_rājasūya_SLM tu_tu_U kratu_kratu_MCp śreṣṭhe_śreṣṭha_SLM su_su_U durlabhe_durlabha_SLM śiṣyaiḥ_śiṣya_PIM parivṛtaḥ_parivṛ_SNPaPsM vyāsaḥ_"
+  },
+  {
+    "index": 48963,
+    "sanskrit": "acalaṃ bhedayitvā tu yasmānme liṃgamudgatam | acaleśvaranāmnaiva loke khyātiṃ gamiṣyati || 20 ||",
+    "english": "20. Having pierced this immobile mountain, my Liṅga has come up. Hence it will be renowned in the world by the name Acaleśvara.",
+    "morphology": "acalam_acala_SAM bhedayitvā_bheday_Co tu_tu_ yasmāt_yasmāt_ me_mad_SG liṃgam_liṅga_SNNe udgatam_udgam_SNPaNe  / acaleśvara_acaleśvara_Cp nāmnā_nāman_SINe eva_eva_ loke_loka_SLM khyātim_khyāti_SAF gamiṣyati_gam_SFu3In "
+  },
+  {
+    "index": 48964,
+    "sanskrit": "yat te bhūmim catuḥ bhr̥ṣṭim manaḥ jagāma dūrakam tat te ā vartayāmas i iha kṣayāya jīvase",
+    "english": "Thy spirit, that went far away, away to the four-cornered earth, We cause to come to thee again that thou mayst live and sojourn here.",
+    "morphology": "yat_yat_U te_tvad_SG bhūmim_bhūmi_SAF catuḥ_catur_Cp bhr̥ṣṭim_bhrāṣṭi_SAF manaḥ_manas_SNNe jagāma_gam_SPs3In dūrakam_dūrakam_U tat_tad_SANe te_tvad_SD ā_ā_U vartayāmaḥ_vartay_PPr1In i_i_U iha_iha_U kṣayāya_kṣaya_SDM"
+  },
+  {
+    "index": 48965,
+    "sanskrit": "ātmanaḥ tu hitam mukhyam pratikartavyam adya me gāndhāryāḥ ca eva rāja indra tat anujñātum arhasi",
+    "english": "It behoveth thee, O great king, to grant me permission.",
+    "morphology": "ātmanaḥ_ātman_SGM tu_tu_U hitam_hita_SNNe mukhyam_mukhya_SNNe pratikartavyam_pratikṛ_SNNeGd adya_adya_U me_mad_SG gāndhāryāḥ_gāndhārī_SGF ca_ca_U eva_eva_U rāja_rājan_MCp indra_indra_SVM tat_tad_SANe anujñātum_anujñā_In"
+  },
+  {
+    "index": 48966,
+    "sanskrit": "brāhmaṇakṣatriyaviśāṃ śūdrāputro na rikthabhāk / yad evāsya pitā dadyāt tad evāsya dhanaṃ bhavet //",
+    "english": "The son of a Brahmana, a Kshatriya, and a Vaisya by a Sudra (wife) receives no share of the inheritance; whatever his father may give to him, that shall be his property.",
+    "morphology": "brāhmaṇa_brāhmaṇa_Cp kṣatriya_kṣatriya_Cp viśām_viś_PGF śūdrā_śūdrā_Cp putraḥ_putra_SNM na_na_ riktha_riktha_Cp bhāj_bhāj_SNM  / yat_yad_SANe eva_eva_ asya_idam_SGM pitā_pitṛ_SNM dadyāt_dā_SPr3O tat_tad_SNNe eva_eva_ asya_idam_S"
+  },
+  {
+    "index": 48967,
+    "sanskrit": "ṛte jaṭāvalkaladhāraṇaśramādbhavānṛṣistvaṃ viditāyatiryatiḥ / na veṣamātraṃ hi munitvasiddhaye guṇairupetastviha tattvato muniḥ // ityabhilakṣya pratipūjyainaṃ tatraivāntardadhe //",
+    "english": "Though exempt from the toil caused by matted hair and a bark garment, thou art a Rși, thou art a holy ascetic knowing the future! It is not the dress, truly, that makes the Muni, but he who is adorned by virtues is the real Muni here. After thus distinguishing him and honouring him, he disappeared on the spot.",
+    "morphology": "ṛte_ṛte_ jaṭā_jaṭā_Cp valkala_valkala_Cp dhāraṇa_dhāraṇa_Cp śramāt_śrama_SBM bhavān_bhavat_SNM ṛṣiḥ_ṛṣi_SNM tvam_tvad_SN vidita_vid_PaCp āyatiḥ_āyati_SNM yatiḥ_yati_SNM  / na_na_ veṣa_veṣa_Cp mātram_mātra_SNNe hi_h"
+  }
+]

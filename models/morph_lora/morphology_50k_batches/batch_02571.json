@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20560,
+    "sanskrit": "śātakumbha ātmakau bhāvau yadā paśyati mūḍha dhīḥ | samāna apara bhāvena sthira tvam manyate tadā || hemnaḥ avasthita rūpa tve tad rūpam rucaka ādi api | pūrva uttara ādi avasthāsu dṛśyeta aneka tā anyathā ||",
+    "english": "When the dull-witted man perceives the two things made of gold, he looks upon it as a case of the appearance of similar products and thereby comes to think of it as something lasting.—If the gold itself had a lasting form, then that form, in the shape of the dish, could be perceived in its preceding and succeeding states also; or else, there would be diversity",
+    "morphology": "śātakumbha_śātakumbha_MCp ātmakau_ātmaka_DuAM bhāvau_bhāva_DuAM yadā_yadā_U paśyati_dṛś_SPr3In mūḍha_muh_PaPsCp dhīḥ_dhī_SNM  / samāna_samāna_Cp apara_apara_Cp bhāvena_bhāva_SIM sthira_sthira_Cp tvam_tva_SANe manyate_man_SPr3In tad"
+  },
+  {
+    "index": 20561,
+    "sanskrit": "jīrṇa auṣadhaḥ ca aparāhṇe himābhiḥ adbhiḥ pariṣikta gātraḥ śālīnām ṣaṣṭikānām ca payasā śarkarā madhureṇa odanam aśnīyāt",
+    "english": "After the digestion of the medicine, the patient should be advised to take a cold bith and to partake in the evening of a meal of well-cooked Shali or Shashtika rice with (boiled) milk sweetened with sugar.",
+    "morphology": "jīrṇa_jṛ_PaPsCp auṣadhaḥ_auṣadha_SNM ca_ca_U aparāhṇe_aparāhṇa_SLM himābhiḥ_hima_PIF adbhiḥ_ap_PIF pariṣikta_pariṣic_PaPsCp gātraḥ_gātra_SNM śālīnām_śāli_PGM ṣaṣṭikānām_ṣaṣṭika_PGM ca_ca_U payasā_payas_SIN"
+  },
+  {
+    "index": 20562,
+    "sanskrit": "bahavaḥ paśavaś ca ghātitāḥ |",
+    "english": "and many cattle were slaughtered.",
+    "morphology": "bahavaḥ_bahu_PNM"
+  },
+  {
+    "index": 20563,
+    "sanskrit": "yaduddiśya phalaṃ śreṣṭhaṃ paṭhiṣyanti narāstviha | sapsyante nātra saṃdehaḥ phalaṃ tatsatyamuttamam ||",
+    "english": "24. People undoubtedly derive excellent benefits which they will have in view in reciting this.",
+    "morphology": "yat_yad_SANe uddiśya_uddiś_Co phalam_phala_SANe śreṣṭham_śreṣṭha_SANe paṭhiṣyanti_paṭh_PFu3In narāḥ_nara_PNM tu_tu_ iha_iha_  / sapsyante_sap_PFu3In na_na_ atra_atra_ saṃdehaḥ_saṃdeha_SNM phalam_phala_SNNe tat_tad_SNNe satyam_sat"
+  },
+  {
+    "index": 20564,
+    "sanskrit": "kapha prasekaḥ śirasaḥ guru tā indriya vibhramaḥ",
+    "english": "Salivation, heaviness of the head, and dulness of the sense-organs are the symptoms which result from an excessive application of a Sneha (Nasya) and the remedy in such cases consists in employing the parching measures or medicines.",
+    "morphology": "kaḥ_kaṣā_SNF"
+  },
+  {
+    "index": 20565,
+    "sanskrit": "saṃsāraduḥkhaśāntyarthaṃ devenārdhendumaulinā / astīndukarasaṃbhārabhāsuraḥ pārago divaḥ //",
+    "english": "There is a mountain peak, bright as the collected mass of moon-beams, and penetrating the vault of heaven, where the god with the semi-circular moon on his fore-head, delivered this doctrine to me for appeasing the miseries of the world.",
+    "morphology": "saṃsāra_saṃsāra_Cp duḥkha_duḥkha_Cp śānti_śānti_Cp artham_artha_SAM devena_deva_SIM ardha_ardha_Cp indu_indu_Cp maulinā_mauli_SIM  / asti_as_SPr3In indu_indu_Cp kara_kara_Cp saṃbhāra_sambhāra_Cp bhāsuraḥ_bhāsura_SNM pāragaḥ_pārag"
+  },
+  {
+    "index": 20566,
+    "sanskrit": "asnigdhāḥ ca eva dustoṣāḥ karma ca etat bahu chalam",
+    "english": "Such a state of things has many faults.",
+    "morphology": "asnigdhāḥ_asnigdha_PNM"
+  },
+  {
+    "index": 20567,
+    "sanskrit": "grāhyāntaravyavacchinnaṃ bhāvena grāhi cenmatam / savikalpakavijñānaṃ bhaved vṛkṣādibodhavat //",
+    "english": "“If perception is regarded as apprehending the thing as distinguished from other apprehensible things, then this cognition would be conceptual (determinate), just like the cognition of the tree and other things.” (1268)",
+    "morphology": "grāhya_grah_GdCp antara_antara_Cp vyavacchinnam_vyavacchid_SNPaNe bhāvena_bhāva_SIM grāhi_grāhin_SNNe ced_ced_ matam_man_SNPaNe  / sa_sa_ vikalpaka_vikalpaka_Cp vijñānam_vijñāna_SNNe"
+  }
+]

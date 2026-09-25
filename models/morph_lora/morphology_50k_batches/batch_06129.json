@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49024,
+    "sanskrit": "yadasyākāraṇaṃ matvā vacanaṃ nākarocchaṭhaḥ / ataḥ so 'panayī mūrkho mayā viśvāsya vañcitaḥ //",
+    "english": "it is because he was infatuated by confidence, and did not act on that minister’s advice, that I was allowed to remain uninjured.",
+    "morphology": "yat_yat_ asya_idam_SGM akāraṇam_akāraṇa_SANe matvā_man_Co vacanam_vacana_SANe na_na_ akarot_kṛ_S3ImIn śaṭhaḥ_śaṭha_SNM  / atas_atas_ saḥ_tad_SNM apanayī_apanayin_SNM mūrkhaḥ_mūrkha_SNM mayā_mad_SI viśvāsya_viśvāsay_Co vañcita"
+  },
+  {
+    "index": 49025,
+    "sanskrit": "dvārakāyām subhadrā ca kāmayānena kāminī vāsudevasya anumate prāptā ca eva kirīṭinā",
+    "english": "the carrying away of Subhadra by Arjuna, incited thereto by her brother Krishna, in the wonderful car moving on land and water, and through mid-air, according to the wish of the rider;",
+    "morphology": "dvārakāyām_dvārakā_SLF subhadrā_subhadrā_SNF ca_ca_U kāmayānena_kāmay_SIPaPrM kāminī_kāminī_SNF vāsudevasya_vāsudeva_SGM anumate_anumata_SLNe prāptā_prāp_SNPaPsF ca_ca_U eva_eva_U kirīṭinā_kirīṭin_SIM"
+  },
+  {
+    "index": 49026,
+    "sanskrit": "kṛto vivāho yasminn agnau tatra kurvīta gṛhyaṃ karma, agnisādhyam aṣṭakāpārvaṇaśrāddhahomādi gṛhyasmṛtikārair uktam /",
+    "english": "In the fire in which the marriagerites have been performed, one should perform the \"Gṛhya rites,\" ie, rites that have been prescribed by the authors of Gṛhyasūtras as to be performed with the help of fire; eg, the Aṣṭakā śrāddha, the Pārvaṇaśrāddha, Libations, and so forth.",
+    "morphology": "kṛtaḥ_kṛ_SNPaM vivāhaḥ_vivāha_SNM yasmin_yad_SLM agnau_agni_SLM tatra_tatra_ kurvīta_kṛ_SPr3O gṛhyam_gṛhya_SANe karma_karman_SANe agni_agni_Cp sādhyam_sādhay_SNNeGd aṣṭakā_aṣṭakā_Cp pārvaṇa_pārvaṇa_Cp śrāddha_śrāddha_"
+  },
+  {
+    "index": 49027,
+    "sanskrit": "yāvad vijñaptimātratve vijñānaṃ nāvatiṣṭhate / grāhadvayasyānuśayas tāvan na vinivartate // 26",
+    "english": "He answers: As long as the consciousness does not remain in the vijnaptimātratā, the residues of the two illusions do not disappear.",
+    "morphology": "yāvat_yāvat_ vijñaptimātra_vijñaptimātra_Cp tve_tva_SLNe vijñānam_vijñāna_SNNe na_na_ avatiṣṭhate_avasthā_SPr3In  / grāha_grāha_Cp dvayasya_dvaya_SGNe anuśayaḥ_anuśaya_SNM tāvat_tāvat_ na_na_ vinivartate_vinivṛt_SPr3In  /"
+  },
+  {
+    "index": 49028,
+    "sanskrit": "tatas gacchet suvarṇākṣam triṣu lokeṣu viśrutam",
+    "english": "Then should one proceed to the tirtha called Suvarna, famed through the three worlds.",
+    "morphology": "tatas_tatas_U gacchet_gam_SPr3O suvarṇākṣam_suvarṇākṣa_SAM"
+  },
+  {
+    "index": 49029,
+    "sanskrit": "ṛṣiḥ evam mahābhāgaḥ tu aṅgirāḥ prāha dharma vid vimānam adhiruhya āśu brahma loke mahīyate",
+    "english": "Even this is what the highly blessed Rishi Angiras, conversant with every duty, said (regarding the fruits of such a fast).",
+    "morphology": "ṛṣiḥ_ṛṣi_SNM evam_evam_U mahābhāgaḥ_mahābhāga_SNM tu_tu_U aṅgirāḥ_aṅgiras_SNM prāha_prāh_SPs3In dharma_dharma_MCp vid_vid_SNM vimānam_vimāna_SANe adhiruhya_adhiruh_Co āśu_āśu_U brahma_brahman_MCp loke_loka_SLM mahīyate_mahī"
+  },
+  {
+    "index": 49030,
+    "sanskrit": "jīvitam bahu manye aham jīvitam hi adya durlabham",
+    "english": "We regard life very highly, for, under these circumstances, life is too precious (to be sacrificed).",
+    "morphology": "jīvitam_jīvita_SANe bahu_bahu_SANe manye_man_SPr1In aham_mad_SN jīvitam_jīvita_SNNe hi_hi_U adya_adya_U"
+  },
+  {
+    "index": 49031,
+    "sanskrit": "veda śāstra pramāṇam ca pramāṇam tat sanātanam",
+    "english": "The authority, again, of the Vedas and other scriptures (not inconsistent with the Vedas), is eternal.",
+    "morphology": "veda_veda_MCp śāstra_śāstra_NeCp pramāṇam_pramāṇa_SNNe ca_ca_U pramāṇam_pramāṇa_SNNe tat_tad_SNNe sanātanam_sanātana_SNNe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10496,
+    "sanskrit": "hatvā garbhamavijñātaṃ brahmahatyāvrataṃ caret //",
+    "english": "One should observe the vow for killing a brahmin after having killed an ass unknowingly.",
+    "morphology": "hatvā_han_Co garbham_garbha_SAM a_a_ vijñātam_vijñā_SAPaM brahma_brahman_Cp hatyā_hatyā_Cp vratam_vrata_SANe"
+  },
+  {
+    "index": 10497,
+    "sanskrit": "na dravyāvyatirekiṇaḥ /",
+    "english": "That is, what the other party seeks to prove is not that they are not non-different, but that they are different.",
+    "morphology": "na_na_ dravya_dravya_Cp a_a_ vyatirekiṇaḥ_"
+  },
+  {
+    "index": 10498,
+    "sanskrit": "kāyikaṃ satyānaṃ caitasikaṃ styānamityuktamabhidharme /",
+    "english": "Torpor of the body and torpor of the mind are termed torpor.",
+    "morphology": "kāyikam_kāyika_SNNe satyānam_satyāna_SNNe caitasikam_caitasika_SNNe styānam_styāna_SNNe iti_iti_ uktam_vac_SNPaNe abhidharme_abhidharma_SLM  /"
+  },
+  {
+    "index": 10499,
+    "sanskrit": "ityevasuktvā tāṃ devīṃ saṃgataḥ kaśyapo muniḥ / dadhāra sā ca taṃ garbhaṃ samyakchocasamanvitā // garbhamātmavadhārthāya jñātvā taṃ maghavānapi / śuśrūṣustāmathāgacchadvinayādamarādhipaḥ //",
+    "english": "When the king of the immortals, learnt that Diti bore a son destined for his destruction, he came to her, and attended upon her with the utmost humility, watching for an opportunity to disappoint her intention.",
+    "morphology": "iti_iti_ eva_eva_ suktvā_suc_Co tām_tad_SAF devīm_devī_SAF saṃgataḥ_saṃgam_SNPaM kaśyapaḥ_kaśyapa_SNM muniḥ_muni_SNM  / dadhāra_dhṛ_SPs3In sā_tad_SNF ca_ca_ tam_tad_SAM garbham_garbha_SAM  / garbham_garbha_SAM ātma_ātman_Cp vadha_vadh"
+  },
+  {
+    "index": 10500,
+    "sanskrit": "tataḥ sāyantanīṃ saṃdhyāmupāsya hutapāvakaḥ | viprairamātyaiḥ sahito yayau tasya kuṭīgṛhān || 50 ||",
+    "english": "Then he performed the rites connected with the evening prayer and performed Homa in the Sacred Fire.",
+    "morphology": "tatas_tatas_ sāyantanīm_sāyantana_SAF saṃdhyām_saṃdhyā_SAF upāsya_upās_Co huta_hu_PaCp pāvakaḥ_pāvaka_SNM  / vipraiḥ_vipra_PIM amātyaiḥ_amātya_PIM sahitaḥ_sahita_SNM yayau_yā_SPs3In ḥ_ḥ_SNM ḥ_ḥ_SNM"
+  },
+  {
+    "index": 10501,
+    "sanskrit": "athāpyayaṃ syādaparādha eva me kṣamā tu śobheta tathāpi te nṛpa /",
+    "english": "Suppose, however, there is here some fault of mine, forbearance would become you even then, my lord.",
+    "morphology": "atha_atha_ api_api_ ayam_idam_SNM syāt_as_SPr3O aparādhaḥ_aparādha_SNM eva_eva_ me_mad_SG kṣamā_kṣamā_SNF tu_tu_ śobheta_śubh_SPr3O"
+  },
+  {
+    "index": 10502,
+    "sanskrit": "vyāsa uvāca | śaṃbhośca paścime bhāge sthāpitaḥ kaśyapātmajaḥ | tatrāsti tanmahābhāga ravikṣetraṃ taducyate || 1 ||",
+    "english": "Vyāsa said: 1. The son of Kāśyapa was installed to the west of (the idol of) Śaṃbhu. O blessed one, it is what is called Ravikṣetra (‘the region of the Sun-god’).",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / śaṃbhoḥ_śambhu_SGM ca_ca_ paścime_paścima_SLM bhāge_bhāga_SLM sthāpitaḥ_sthāpay_SNPaM kaśyapa_kaśyapa_Cp ātmajaḥ_ātmaja_SNM  / tatra_tatra_ asti_as_SPr3In tat_tad_SNNe mahābhāga_mahābhāga_SV"
+  },
+  {
+    "index": 10503,
+    "sanskrit": "tvayāhamuddhṛtā pūrvaṃ tvanmayāhaṃ janārdana / tathānyāni ca bhūtāni gaganādinyaśeṣataḥ //",
+    "english": "From thee have I proceeded of thee do I consist as do the skies, and all other existing things.",
+    "morphology": "tvayā_tvad_SI aham_mad_SN uddhṛtā_uddhṛ_SNPaF pūrvam_pūrvam_ tvad_tvad_Cp mayā_maya_SNF aham_mad_SN janārdana_janārdana_SVM  / tathā_tathā_ anyāni_anya_PNNe ca_ca_ bhūtāni_bhūta_PNNe gagana_gagana_Cp ādini_ādin_PNNe aśeṣatas_aśeṣat"
+  }
+]

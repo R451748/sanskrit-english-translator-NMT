@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29664,
+    "sanskrit": "sadā hi tasya spardhā āsīt arjunena viśām pate arjunasya ca karṇena yatas dṛṣṭaḥ babhūva saḥ",
+    "english": "And, O king, ever since they first saw each other, Karna always used to challenge Arjuna, and Arjuna, on his part, used to challenge him.",
+    "morphology": "sadā_sadā_U hi_hi_U tasya_tad_SGM spardhā_spardhā_SNF āsīt_as_SPs3In arjunena_arjuna_SIM viśām_viś_PGF pate_pati_SVM arjunasya_arjuna_SGM ca_ca_U"
+  },
+  {
+    "index": 29665,
+    "sanskrit": "svayaṃ juhvadyadi vāsyānyo juhuyādatha yo 'nyathānyathā juhoti yathāpo vābhikhanannanyadvānnādyaṃ sa sāmi nivartetaivaṃ tadatha yaḥ sārdhaṃ juhoti yathāpo vābhikhanannanyadvānnādyaṃ tatkṣipre 'bhitṛndyādevaṃ tat // abhrayo ha vā etā annādyasya yadāhutayaḥ /",
+    "english": "Let him endeavour to adhere to some one of these (gods or fires) for a year, whether he (the householder) himself offer (the Agnihotra) or some one else offer for him. If, on the other hand, he offers now in this way, now in another, it is just as if, in digging for water or some other food, one were to leave off in the midst of it. But if he offers uniformly, it is just as if, in digging for water or some other food, one lays it open forthwith.",
+    "morphology": "svayam_svayam_ juhvat_hu_SNPaPrM yadi_yadi_ vā_vā_ asya_idam_SGM anyaḥ_anya_SNM juhuyāt_hu_SPr3O atha_atha_ yaḥ_yad_SNM anyathā_anyathā_ anyathā_anyathā_ juhoti_hu_SPr3In yathā_yathā_ apaḥ_ap_PAF vā_vā_ abhikhanan_abhikhan_SNPaPrM anyat_an"
+  },
+  {
+    "index": 29666,
+    "sanskrit": "gandharva apsaras ākīrṇe nānā druma latā āvṛte",
+    "english": "Overgrown with trees and creepers of diverse kinds that spot abounded with Gandharvas and Apsaras.",
+    "morphology": "gandharva_gandharva_MCp apsaras_apsaras_FCp"
+  },
+  {
+    "index": 29667,
+    "sanskrit": "ahamityeva śukrasthā saṃvidāpādamastakam / visaratyakhile dehe brahmāṇḍe'rkaprabhā yathā //",
+    "english": "The egoism which is bred in the pith, grows into intelligence extending from head to foot; and circulates throughout the whole body, as the sun beams pervade all over the sphere of heaven.",
+    "morphology": "aham_mad_SN iti_iti_ eva_eva_ śukra_śukra_Cp sthā_stha_SNF saṃvid_saṃvid_SNF āpādamastakam_āpādamastakam_  / visarati_visṛ_SPr3In akhile_akhila_SLM dehe_deha_SLM brahmāṇḍe_brahmāṇḍa_SLNe arka_arka_Cp prabhā_prabhā_SNF __tā_SNF __t"
+  },
+  {
+    "index": 29668,
+    "sanskrit": "mahādevasutenājau haṃtavyo'sau sasarja tam | kārtikeyamumāputraṃ rudravīryasamudbhavam || 170 ||",
+    "english": "170. He was to be killed by Mahādeva’s (i.e. Śiva’s) son, Kārttikeya, Umā’s son, born from Rudra’s semen.",
+    "morphology": "mahādeva_Cp sutena_suta_SIM ājau_āji_SLM haṃtavyaḥ_han_SNMGd asau_adas_SNM sasarja_sṛj_SPs3In tam_tad_SAM  / kārttikeyam_kārttikeya_SAM umā_umā_Cp putram_putra_SAM"
+  },
+  {
+    "index": 29669,
+    "sanskrit": "muditā dharmāloka-mukhaṃ",
+    "english": "the gladness entrance into the light of the Dharma",
+    "morphology": "ḥ"
+  },
+  {
+    "index": 29670,
+    "sanskrit": "yathā ca kṣīraṃ dadhitvena pariṇamadrasavīryavipākān parityajati na varṇam /",
+    "english": "An example which shows difference in qualities: milk becomes whey; its taste, force, and digestibility change, but not its color.",
+    "morphology": "yathā_yathā_ ca_ca_ kṣīram_kṣīra_SNNe dadhi_dadhi_Cp tvena_tva_SINe pariṇamat_pariṇam_SNPaPrNe rasa_rasa_Cp vīrya_vīrya_Cp vipākān_vipāka_PAM parityajati_parityaj_SPr3In"
+  },
+  {
+    "index": 29671,
+    "sanskrit": "jānaṃti bahavo bhaktāstvatkṛpāṃ prāpya bhaktitaḥ | śaraṇāgata bhaktānāṃ na kutrāpi bhramādikam ||",
+    "english": "19. Securing your grace through devotion, many devotees become acquainted with you. Seeking refuge in you they get correct knowledge about your real self.",
+    "morphology": "jānanti_jñā_PPr3In bahavaḥ_bahu_PNM bhaktāḥ_bhakta_PNM tvad_tvad_Cp kṛpām_kṛpā_SAF prāpya_prāp_Co bhaktitaḥ_bhakti_SBF  / śaraṇa_śaraṇa_Cp āgataḥ_āgam_SNPaM"
+  }
+]

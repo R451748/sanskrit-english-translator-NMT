@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40792,
+    "sanskrit": "udānāt ucchvasiti ca pratibhedāt ca bhāṣate",
+    "english": "Through that called Udana one eructates and is enabled to speak in consequence of its piercing through (the lungs, the throat, and the mouth).",
+    "morphology": "udānāt_udāna_SBM ucchvasiti_ucchvas_SPr3In ca_ca_U pratibhedāt_pratibheda_SBM ca_ca_U bhāṣate_bhāṣ_SPr3In"
+  },
+  {
+    "index": 40793,
+    "sanskrit": "pāṇḍavānām ca vijayaḥ hṛdayam dahati iva me",
+    "english": "That is burning my heart.",
+    "morphology": "pāṇḍavānām_pāṇḍava_PGM ca_ca_U vijayaḥ_vijaya_SNM hṛdayam_hṛdaya_SANe dahati_dah_SPr3In iva_iva_U me_mad_SG"
+  },
+  {
+    "index": 40794,
+    "sanskrit": "manasaḥ kāma ity etāṃ paśukāmo naro japet / kardamena iti snāyātprajākāmaḥ śucivrataḥ //",
+    "english": "A person who desires to have a cow should repeat the hymn manasaḥ kāma. One who desires to have progeny should bathe reciting the hymn kardamena, after becoming pure and practising vow.",
+    "morphology": "manasaḥ_manas_SGNe kāmaḥ_kāma_SNM iti_iti_ etām_etad_SAF paśu_paśu_Cp kāmaḥ_kāma_SNM naraḥ_nara_SNM japet_jap_SPr3O  / kardamena_kardama_SIM iti_iti_ snāyāt_snā_SPr3O prajā_prajā_Cp kāmaḥ_kāma_SNM śuci_śuci_Cp vrataḥ_vrata_SNM  "
+  },
+  {
+    "index": 40795,
+    "sanskrit": "mohāṃśe prajñaptatvāc ca mohāṃśikam eva na pṛthag vidyate /",
+    "english": "Because it stands as a label for a part of 'ignorance', it is only a part of it and does not specifically exist.",
+    "morphology": "moha_moha_Cp aṃśe_aṃśa_SLM prajñapta_prajñapay_PaCp tvāt_tva_SBNe ca_ca_ moha_moha_Cp āṃśikam_āṃśika_SNNe eva_eva_ na_na_ pṛthak_pṛthak_ vidyate_vid_SPr3InPv  /"
+  },
+  {
+    "index": 40796,
+    "sanskrit": "pañcapalaavarā vyāvahārikī bhājany antaḥpurabhājanī ca // tāsām ardhadharaṇaavaraṃ palam,",
+    "english": "such palas áyamání measure of royaPublic balance vyávaháriká, servants balance bhájiní, and hareantahpurabhájiní successively decrease by five palas compared with áyamáni",
+    "morphology": "pañca_pañcan_Cp pala_pala_Cp avarā_avara_SNF vyāvahārikī_vyāvahārika_SNF bhājanī_bhājanī_SNF antaḥpura_antaḥpura_Cp bhājanī_bhājanī_SNF ca_ca_  // tāsām_tad_PGF ardha_ardha_Cp dharaṇa_dharaṇa_Cp avaram_avara_SNNe palam_pala_SNNe"
+  },
+  {
+    "index": 40797,
+    "sanskrit": "athābhāvaḥ kasmān na bhavatītyāha na cābhāvo vastutvenāvasāyata iti /",
+    "english": "Question: “Why cannot it be negative?” Answer: ‘Nor is it negative, became it is apprehended as an entity’;",
+    "morphology": "atha_atha_ abhāvaḥ_abhāva_SNM kasmāt_kasmāt_ na_na_ bhavati_bhū_SPr3In iti_iti_ āha_ah_SPs3In na_na_ ca_ca_ abhāvaḥ_abhāva_SNM vastu_vastu_Cp tvena_tva_SINe avasāyate_avasā_SPr3InPv iti_iti_  /"
+  },
+  {
+    "index": 40798,
+    "sanskrit": "nākulim tu śatānīkam śāla puṣpa nibhāḥ hayāḥ āditya taruṇa prakhyāḥ ślāghanīyam udāvahan",
+    "english": "Steeds of the hue of Sala flowers or of morning sun bore Nakula's son Satanika worthy of every praise.",
+    "morphology": "nākulim_nākuli_SAM tu_tu_U śatānīkam_śatānīka_SAM śāla_śāla_MCp puṣpa_puṣpa_NeCp nibhāḥ_nibha_PNM hayāḥ_haya_PNM āditya_āditya_MCp taruṇa_taruṇa_Cp prakhyāḥ_prakhyā_PNM ślāghanīyam_ślāgh_SAMGd udāvahan_udāvah_PPs3In"
+  },
+  {
+    "index": 40799,
+    "sanskrit": "tatpratikṣepāt sarvākārajñatā pratikṣiptā bhavet /",
+    "english": "With lokottraprajña gone, omniscience sarvakārjñata will also get negated.",
+    "morphology": "tad_tad_Cp pratikṣepāt_pratikṣepa_SBM sarva_sarva_Cp ākāra_ākāra_Cp jña_jña_Cp tā_tā_SNF pratikṣiptā_pratikṣip_SNPaF bhavet_bhū_SPr3O  /"
+  }
+]

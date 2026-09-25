@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9088,
+    "sanskrit": "api yogaṃ hi yuṃjānā yogino yatamānasāḥ | naikenajanmanā muktāḥ kāśyāṃ muktā vapurvyayāt || 58 ||",
+    "english": "58. Even those who practise Yogic exercises, even the Yogins of well-restrained minds are not liberated in a single birth. But people are liberated through the loss of the body (i.e. death) in Kāśī.",
+    "morphology": "api_api_ yogam_yoga_SAM hi_hi_ yuṃjānāḥ_yuj_PNPaPrM yoginaḥ_yogin_PNM yata_yam_PaCp mānasāḥ_mānasa_PNM  / na_na_ ekena_eka_SINe janmanā_janman_SINe muktāḥ_muc_PNPaM kāśyām_kāśi_SLF muktāḥ_muc_PNPaM vapuḥ_vapus_Cp vyayāt_vyaya_SB"
+  },
+  {
+    "index": 9089,
+    "sanskrit": "sūta uvāca | etadvaḥ sarvamākhyātaṃ sīmāṃtaṃ dvijasattamāḥ | kṣetrasyāsya pramāṇaṃ ca vistareṇa caturdiśam || 90 ||",
+    "english": "Sūta said: 90-98. Thus, O excellent Brāhmaṇas, everything concerned with the border has been narrated to you. The extent of the holy spot in all the four directions has been recounted.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / etat_etad_SNNe vaḥ_tvad_PA sarvam_sarva_SNNe ākhyātam_ākhyā_SNPaNe sīmāṃtam_sīmāṃta_SNNe dvijasattamāḥ_dvijasattama_PVM  / kṣetrasya_kṣetra_SGNe asya_idam_SGNe pramāṇam_pramāṇa_SNNe ca_ca_ "
+  },
+  {
+    "index": 9090,
+    "sanskrit": "iti duryodhanaḥ vācyaḥ suhṛdaḥ ca asya keśava tat ca api na akarot vākyam śrutvā kṛṣṇa suyodhanaḥ yudhiṣṭhirasya dāśārha hrīmataḥ saṃdhim icchataḥ",
+    "english": "But, O Krishna, O thou of Dasarha's race, hearing those words of Yudhishthira, endued with modesty and anxious for peace, Suyodhana hath not acted according to them.",
+    "morphology": "iti_iti_U duryodhanaḥ_duryodhana_SNM vācyaḥ_vac_SNMGd suhṛdaḥ_suhṛd_PNM ca_ca_U asya_idam_SGM keśava_keśava_SVM tat_tad_SANe ca_ca_U api_api_U na_na_U akarot_kṛ_SPs3In vākyam_vākya_SANe śrutvā_śru_Co kṛṣṇa_kṛṣṇa_SVM suyodhan"
+  },
+  {
+    "index": 9091,
+    "sanskrit": "nacākṣiptasyākṣepo yukto 'navasthāprasaṅgāt /",
+    "english": "Nor can there be ‘projection’ of what has been already projected, as that would lead to an infinite regress.",
+    "morphology": "na_ ca_ca_ ākṣiptasya_ākṣip_SGPaM ākṣepaḥ_ākṣepa_SNM yuktaḥ_yuj_SNPaM"
+  },
+  {
+    "index": 9092,
+    "sanskrit": "mama antarātmā tava ca ye ca anye deha saṃjñitāḥ",
+    "english": "He is my Antaratma (inner soul). He is thy inner soul.",
+    "morphology": "mama_mad_SG antarātmā_antarātman_SNM tava_tvad_SG ca_ca_U ye_yad_PNM ca_ca_U anye_anya_PNM deha_deha_MCp"
+  },
+  {
+    "index": 9093,
+    "sanskrit": "śṛṇuṣvāva hito rāma śrutvā kartavyamācara | yadyājñayā te śuṣyāmi sasainyasya yiyāsataḥ || 85 || anye'pyājñāpayiṣyaṃti māmevaṃ dhanuṣo balāt | upāyamanyaṃ vakṣyāmi taraṇārthaṃ balasya te || 816 ||",
+    "english": "85-86. “Listen attentively, O Rāma. After hearing, do whatever you want to do. If I dry up at your bidding, because you are desirous of crossing along with your army, others also will command me on the strength of their bows. I shall tell another means whereby your army can cross.",
+    "morphology": "śṛṇuṣva_śru_SPr2Im ava_ava_ hitaḥ_hita_SNM rāma_rāma_SVM śrutvā_śru_Co kartavyam_kartavya_SANe ācara_ācar_SPr2Im  / yadi_yadi_ ājñayā_ājñā_SIF te_tvad_SG śuṣyāmi_śuṣ_SPr1In sa_sa_ sainyasya_sainya_SGM yiyāsataḥ_yiyās_SGPaP"
+  },
+  {
+    "index": 9094,
+    "sanskrit": "sa eṣāṃ pañcānāṃ lokottarāṇām-indriyāṇām-",
+    "english": "(Therefore) these five supermundane faculties",
+    "morphology": "saḥ_tad_SNM eṣām_idam_PGNe pañcānām_pañcan_PGNe lokottarāṇām_lokottara_PGNe"
+  },
+  {
+    "index": 9095,
+    "sanskrit": "dviskandhaka ekaphalaḥ kāyavākkarma tajjātyādayaśca /",
+    "english": "a retributive cause consisting of two skandhas can produce a single result: bodily and vocal action with its characteristics;",
+    "morphology": "dvi_dvi_Cp skandhakaḥ_skandhaka_SNM eka_eka_Cp phalaḥ_phala_SNM kāya_kāya_Cp"
+  }
+]

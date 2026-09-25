@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33880,
+    "sanskrit": "tadgotratvāt / anyathā na samartham /",
+    "english": "but not when it does not have a similar gotra.",
+    "morphology": "tad_tad_Cp gotra_gotra_Cp tvāt_tva_SBNe  /"
+  },
+  {
+    "index": 33881,
+    "sanskrit": "namaśśivāya śāṃtāya sagaṇāyādihetave | rudrāya viṣṇave tubhyaṃ brahmaṇe sūryamūrtaye ||",
+    "english": "34. Obeisance to Śiva the quiescent, the primordial cause, to Rudra accompanied by the Gaṇas; obeisance to him in the form of the sun, to Viṣṇu, to Brahmā.",
+    "morphology": "namaḥ_namas_SNNe śivāya_śiva_SDM śāntāya_śam_SDPaM sa_sa_ gaṇāya_gaṇa_SDM ādi_ādi_Cp hetave_hetu_SDM  / rudrāya_rudra_SDM viṣṇave_viṣṇu_SDM tubhyam_tvad_SD brahmaṇe_brahman_SDM sūrya_sūrya_Cp mūrtaye_mūrti_SDM"
+  },
+  {
+    "index": 33882,
+    "sanskrit": "durbuddhayo durācārā haitukā bahusaṃśayāḥ | paśyaṃti mohitā viṣṇo gaṃgāmanya nadīmiva || 54 ||",
+    "english": "54. The evil-minded, wicked, sceptics and rationalists who take Gaṅgā as another ordinary river, O Viṣṇu, are fools.",
+    "morphology": "durbuddhayaḥ_durbuddhi_PNM durācārāḥ_durācāra_PNM haitukāḥ_haituka_PNM bahu_bahu_Cp saṃśayāḥ_saṃśaya_PNM  / paśyaṃti_dṛś_PPr3In mohitāḥ_mohay_PNPaM viṣṇo_viṣṇu_SVM gaṃgām_gaṅgā_SAF anyaḥ_anya_SNM nadīm_nadī_S"
+  },
+  {
+    "index": 33883,
+    "sanskrit": "tatra dṛṣṭvā śivā sākṣāttapaḥsiddhirivāparā | mūrtā paramatejaskā vilasaṃtī sutejasā ||",
+    "english": "19. There she was seen as the personified achievement of penance itself. She was shining brilliantly with great splendour.",
+    "morphology": "tatra_tatra_ dṛṣṭvā_dṛś_Co śivā_śivā_SNF sākṣāt_sākṣāt_ tapaḥ_tapas_Cp siddhiḥ_siddhi_SNF iva_iva_ aparā_apara_SNF  / mūrtā_mūrch_SNPaF parama_parama_Cp tejaskā_tejaska_SNF vilasantī_vilas_SNPaPrF su_su_ tejasā_tejas_SINe"
+  },
+  {
+    "index": 33884,
+    "sanskrit": "gaṅgā ukṣitānām bhuvanasya panthāḥ",
+    "english": "Verily, Ganga is the path to Heaven of those that have bathed in her current.[246] The Brahmanas hold Ganga as equalling the Earth in forgiveness, and in the protection and upholding of those that live by her;",
+    "morphology": "gaṅgā_gā_SNFPaPsF"
+  },
+  {
+    "index": 33885,
+    "sanskrit": "iti śrīskāṃde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ saptame prabhāsakhaṇḍe prathame prabhāsakṣetra māhātmye bālārkamāhātmyavarṇanaṃnāma ṣaḍaśītyuttaradviśatatamo'dhyāyaḥ || 286 ||",
+    "english": "Īśvara said:",
+    "morphology": "iti_iti_ śrī_śrī_Cp skāṃde_skānda_SLNe mahāpurāṇe_mahāpurāṇa_SLNe ekāśīti_ekāśīti_Cp sāhasryām_sāhasra_SLF saṃhitāyām_saṃhitā_SLF saptame_saptama_SLM prabhāsa_prabhāsa_Cp khaṇḍe_khaṇḍa_SLM prathame_prathama_SLNe pr"
+  },
+  {
+    "index": 33886,
+    "sanskrit": "timirodgārikiraṇaṃ garjantam iva toyadam //",
+    "english": "Its sound was like the roaring of an ocean and its windows were covered with iron nets.",
+    "morphology": "timira_timira_Cp udgāri_udgārin_Cp kiraṇam_kiraṇa_SAM garjantam_garj_SAPaPrM iva_iva_ toyadam_toyada_SAM  /"
+  },
+  {
+    "index": 33887,
+    "sanskrit": "evaṃtatasvarūpo'pi dehī cāmokṣamākulaḥ / jīvayūthaṃ mayā tubhyaṃ kathitaṃ kathayā'nayā //",
+    "english": "And the human soul, though it is a form of the divine, yet being enclosed in its frail and mortal body, is doomed to misery until its final liberation from birth and body. Thus I have related to you the fate of all living souls, in the state and tale of the mendicant Bhikshu.",
+    "morphology": "evaṃtata_evaṃtata_Cp svarūpaḥ_svarūpa_SNM api_api_ dehī_dehin_SNM ca_ca_ amokṣam_amokṣa_SAM ākulaḥ_ākula_SNM  / jīva_jīva_Cp yūtham_yūtha_SNNe mayā_mad_SI tubhyam_tvad_SD kathitam_kathay_SNPaNe kathayā_kathā_SIF anayā_idam_SIF  /"
+  }
+]

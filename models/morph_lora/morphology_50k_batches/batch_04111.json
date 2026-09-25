@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32880,
+    "sanskrit": "apyabdābdhyadrinirghoṣo maunameva yathā tathā / na śrṛṇotyeva pārśvasthaḥ saṃprabudhyāpi kiṃcana //",
+    "english": "The howling of the sea, and clattering of clouds on mountains, though they are so very tremendous to the waking; are yet unheard by the sound sleeper by his side.",
+    "morphology": "api_api_ abda_abda_Cp abdhi_abdhi_Cp adri_adri_Cp nirghoṣaḥ_nirghoṣa_SNM maunam_mauna_SNNe eva_eva_ yathā_yathā_ tathā_tathā_  / na_na_ śrṛṇoti_śru_SPr3In eva_eva_ pārśva_pārśva_Cp sthaḥ_stha_SNM saṃprabudhya_saṃprabudh_Co api_api"
+  },
+  {
+    "index": 32881,
+    "sanskrit": "devam vaḥ deva yajyayā agnim īl̥īta martyaḥ sam iddhaḥ śukra dīdi hi r̥tasya yonim ā asadaḥ sasasya yonim ā asadaḥ",
+    "english": "Let mortal man adore your God, Agni, with worship due to Gods. Shine forth enkindled, Radiant One. Sit in the chamber of the Law, sit in the chamber of the food.",
+    "morphology": "devam_deva_SAM vaḥ_tvad_PG deva_deva_MCp yajyayā_yajya_SIF agnim_agni_SAM īl̥īta_īḍ_SPr3O martyaḥ_martya_SNM sam_sam_U iddhaḥ_indh_SNPaPsM śukra_śukra_SVM dīdi_dīdi_SVM hi_hi_U r̥tasya_rāta_SGNe yonim_yoni_SAF ā_ā_U asadaḥ_sad_SPs2In"
+  },
+  {
+    "index": 32882,
+    "sanskrit": "tasya jambudvīpakair manuṣyaiḥ sarvauṣadhir eka-nāma ktam |",
+    "english": "Then the people of the Rose-Apple Isle made the name: the Cure-All.",
+    "morphology": "tasya_tad_SGM jambudvīpakaiḥ_jambudvīpaka_PIM manuṣyaiḥ_manuṣya_PIM sarva_sarva_Cp oṣadhiḥ_oṣadhi_SNF"
+  },
+  {
+    "index": 32883,
+    "sanskrit": "yat pṛthivyām vrīhi yavam hiraṇyam paśavaḥ striyaḥ",
+    "english": "If a single person were owner of everything on Earth--all her yields of paddy and barley, her silver, gold, and gems, her animals and women, he would not still be content.",
+    "morphology": "yat_yad_SNNe pṛthivyāḥ_pṛthivī_SLF"
+  },
+  {
+    "index": 32884,
+    "sanskrit": "saḥ su kratuḥ puraḥ hitaḥ dame dame agniḥ yajñasya adhvarasya cetati kratvā yajñasya cetati kratvā vedhāḥ iṣu yate viśvā jātāni paspaśe yataḥ ghr̥ta śrīḥ atithiḥ ajāyata vahniḥ vedhāḥ ajāyata",
+    "english": "That Agni, wise High-Priest, in every house takes thought for sacrifice and holy service, yea, takes thought, with mental power, for sacrifice. Disposer, he with mental power shows all things unto him who strives; Whence he was born a guest enriched with holy oil, born as Ordainer and as Priest.",
+    "morphology": "saḥ_tad_SNM su_su_U kratuḥ_kratu_SNM puras_puras_U hitaḥ_dhā_SNPaPsM dame_dama_SLM dame_dama_SLM agniḥ_agni_SNM yajñasya_yajña_SGM adhvarasya_adhvara_SGM cetati_cit_SPr3In kratvā_kratu_SIM yajñasya_yajña_SGM cetati_cit_SPr3In kratvā_kratu_SI"
+  },
+  {
+    "index": 32885,
+    "sanskrit": "prahavaṇanimittam eko amātyaḥ sarvān amātyān āvāhayet //",
+    "english": "With the intention of sailing on a commercial vessel prahavananimittam, a minister may induce all other ministers to follow him",
+    "morphology": "prahavaṇa_prahavaṇa_Cp nimittam_nimitta_SANe ekaḥ_eka_SNM amātyaḥ_amātya_SNM"
+  },
+  {
+    "index": 32886,
+    "sanskrit": "nirīkṣitum amogha iṣum kariṣyanti kutas raṇam",
+    "english": "Far from fighting with him, none amongst even the strongest creatures mustered there could look at Arjuna whose weapons were never futile.",
+    "morphology": "nirīkṣitum_nirīkṣ_In"
+  },
+  {
+    "index": 32887,
+    "sanskrit": "tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā / punaścāṣṭādaśavidhā sā manopavicārataḥ //",
+    "english": "Six sensations arise from contact. Five are bodily sensations and one is mental. This same sensation is of eighteen types by reason of the objects of the mind (manopavicāras).",
+    "morphology": "tad_tad_Cp jāḥ_ja_PNF ṣaḍ_ṣaṣ_PNF vedanāḥ_vedanā_PNF pañca_pañcan_PNF kāyikī_kāyika_SNF ca_ca_ aitasī_aitasa_SNF parā_para_SNF  / punar_punar_ ca_ca_ aṣṭādaśavidhā_aṣṭādaśavidha_SNF sā_tad_SNF manaḥ_manas_Cp upavicāra"
+  }
+]

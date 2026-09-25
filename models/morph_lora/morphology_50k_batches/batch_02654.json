@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21224,
+    "sanskrit": "evam uktvā sa kaunteyam apohya vasanam svakam",
+    "english": "Say, whether thou regardest Krishna as unwon.' And having spoken thus unto the son of Kunti, Duryodhana.",
+    "morphology": "evam_evam_U"
+  },
+  {
+    "index": 21225,
+    "sanskrit": "bhavati saumyā asyāhutayo bhavanti juṣante 'sya devā āhutīs |",
+    "english": "the gods rejoice in his oblation. The gods discussed regarding holy power;",
+    "morphology": "bhavati_bhū_SPr3In saumyāḥ_saumya_PNF asya_idam_SGM āhutayaḥ_āhuti_PNF bhavanti_bhū_PPr3In juṣante_juṣ_PPr3In asya_idam_SGM devāḥ_deva_PNM"
+  },
+  {
+    "index": 21226,
+    "sanskrit": "putrasyāsya dhanaṃ me'stu guṇāścāyuśca śāśvatam / ityanāratacintābhirjahau satyāmavasthitim //",
+    "english": "He constantly prayed for the long life, wealth and learning of his darling, and thus forsook the constancy of his faith and reliance in Providence.",
+    "morphology": "putrasya_putra_SGM asya_idam_SGM dhanam_dhana_SNNe me_mad_SG astu_as_SPr3Im guṇāḥ_guṇa_PNM ca_ca_ āyuḥ_āyus_SNNe ca_ca_ śāśvatam_śāśvata_SNNe  / iti_iti_ anārata_anārata_Cp cintābhiḥ_cintā_PIF jahau_hā_SPs3In satyām_satya_SAF avast"
+  },
+  {
+    "index": 21227,
+    "sanskrit": "tatas tau samare śūrau yodhayantau parasparam dadṛśuḥ sarva bhūtāni śakra jambhau yathā purā śakunim rabhasam yuddhe kṛta vairam ca bhārata",
+    "english": "And as those heroes fought with each other in that battle, they seemed to all the troops to resemble Sakra and the Asura Jambha in days of old.",
+    "morphology": "tatas_tatas_U tau_tad_DuAM samare_samara_SLNe śūrau_śūra_DuAM yodhayantau_yodhay_DuAPaPrM parasparam_paraspara_SAM dadṛśuḥ_dṛś_PPs3In sarva_sarva_Cp bhūtāni_bhūta_PNNe śakra_śakra_MCp jambhau_jambha_DuAM yathā_yathā_U purā_purā_U śaku"
+  },
+  {
+    "index": 21228,
+    "sanskrit": "anayor lokayor vidhṛtyai |",
+    "english": "(verily it serves) to separate these worlds.",
+    "morphology": "anayoḥ_idam_DuGM lokayoḥ_loka_DuGM"
+  },
+  {
+    "index": 21229,
+    "sanskrit": "te kasyām cit avasthāyām śaraṇam śaraṇa arthine rājñe dadyuḥ yathākāmam tāpasāḥ saṃśita vratāḥ",
+    "english": "Engaged in penances and of rigid vows they would, if calamity overtakes the king and if he solicits protection, grant him what he wants.",
+    "morphology": "te_tad_PNM kasyām_ka_SLF cit_cit_U avasthāyām_avasthā_SLF śaraṇam_śaraṇa_SANe śaraṇa_śaraṇa_NeCp arthine_arthin_SDM rājñe_rājan_SDM dadyuḥ_dā_PPr3O yathākāmam_yathākāma_SANe tāpasāḥ_tāpasa_PNM saṃśita_saṃśita_Cp vratā"
+  },
+  {
+    "index": 21230,
+    "sanskrit": "tvadaṃgalakṣaṇairebhiḥ supavitraiśca te vrataiḥ | nirvāpayitumicchāmi daityāstraistāpitāṃ tanum || 91 ||",
+    "english": "91. I desire to get my body that was scorched by the weapons and missiles of the demon (Kola) alleviated a bit, by these characteristics of your limbs and your sacred vows.",
+    "morphology": "tvad_tvad_Cp aṃga_aṅga_Cp lakṣaṇaiḥ_lakṣaṇa_PINe ebhiḥ_idam_PINe su_su_ pavitraiḥ_pavitra_PINe ca_ca_ te_tvad_SG vrataiḥ_vrata_PINe  / nirvāpayitum_nirvāpay_In icchāmi_iṣ_SPr1In daitya_daitya_Cp astraiḥ_astra_PINe tāpitām_tāpa"
+  },
+  {
+    "index": 21231,
+    "sanskrit": "tad viśiṣṭaś ca bāṇo 'pi bhavasya satataṃ priyaḥ // darpotsekāt tu nāśāya varaṃ yācitavān bhavam /",
+    "english": "Guha is loved by Bhava more than his life. But Vāna is still a greater favourite. On account of his excessive pride, Vāna, for his own destruction, prayed for a battle to Bhava.",
+    "morphology": "tat_tad_SANe viśiṣṭaḥ_viśiṣ_SNPaM ca_ca_ bāṇaḥ_bāṇa_SNM api_api_ bhavasya_bhava_SGM satatam_satatam_ priyaḥ_priya_SNM  / darpa_darpa_Cp utsekāt_utseka_SBM tu_tu_ nāśāya_nāśa_SDM varam_vara_SAM yācitavān_yāc_SNPaM bhavam_bhava_S"
+  }
+]

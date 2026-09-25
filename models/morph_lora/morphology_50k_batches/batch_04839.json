@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38704,
+    "sanskrit": "darbhādibhiḥ parivṛtaṃ madhyapadmārkamaṃḍalam | somamaṇḍalamadhyasthaṃ dhyāyedvai vahnimaṃḍalam || 96 ||",
+    "english": "96. He should meditate upon the solar disc in the middle of the lotus, surrounded by Darbhas etc. He should meditate upon the circle of fire stationed in the middle of the lunar disc.",
+    "morphology": "darbha_darbha_Cp ādibhiḥ_ādi_PIM parivṛtam_parivṛ_SAPaM madhya_madhya_Cp padma_padma_Cp arka_arka_Cp maṇḍalam_maṇḍala_SAM  / soma_soma_Cp maṇḍala_maṇḍala_Cp madhya_madhya_Cp stham_stha_SAM dhyāyet_dhyā_SPr3O vai_vai_ vahni_vahni_C"
+  },
+  {
+    "index": 38705,
+    "sanskrit": "yadi vā aham anr̥ta devaḥ āsa mogham vā devān api ūhe agne kim asmabhyam jāta vedaḥ hr̥ṇīṣe drogha vācaḥ te nir r̥tham sacantām",
+    "english": "As if I worshipped deities of falsehood, or thought vain thoughts about the Gods, O Agni. Why art thou angry with us, Jâtavedas? Destruction fall on those who lie against thee!",
+    "morphology": "yadi_yadi_U vā_vā_U aham_mad_SN anr̥ta_anr̥ta_Cp devaḥ_deva_SNM āsa_as_SPs3In mogham_mogha_SANe vā_vā_U devān_deva_PAM api_api_U ūhe_ūh_SPs1In agne_agni_SVM kim_kim_U asmabhyam_mad_PD jāta_jan_PaPsCp vedaḥ_vedas_SVM hr̥ṇīṣe_hvṛ_SPr2I"
+  },
+  {
+    "index": 38706,
+    "sanskrit": "śrīvasiṣṭha uvāca / rājaputra mahābāho viditākhilavedya he / sphuṭaṃ śrṛṇu yathā pṛṣṭamayameṣāṃ hi niścayaḥ //",
+    "english": "Vasishtha replied:—Hear me tell you! O worthy prince that art great in arms as in thy knowledge of all things, the plain truth in reply to your question, and the certitude arrived at by all of them.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / rāja_rājan_Cp putra_putra_SVM mahā_mahat_Cp bāho_bāhu_SVM vidita_vid_PaCp akhila_akhila_Cp vedya_vid_SVMGd he_he_  / sphuṭam_sphuṭa_SANe śrṛṇu_śru_SPr2Im yathā_yathā_ p"
+  },
+  {
+    "index": 38707,
+    "sanskrit": "na hi śakyamadṛśyamānena kvacitpāpamācaritum /",
+    "english": "It is impossible, indeed, to commit a wicked action without being seen.",
+    "morphology": "na_na_ hi_hi_ śakyam_śakya_SNNe adṛśyamānena_adṛśyamāna_SIM"
+  },
+  {
+    "index": 38708,
+    "sanskrit": "saṃskṛtalakṣaṇāni lakṣyasya so 'pi taṣām /",
+    "english": "the same for the characteristics, atising, etc. , and the dharmas that they characterize.",
+    "morphology": "saṃskṛta_saṃskṛ_PaCp lakṣaṇāni_lakṣaṇa_PNNe lakṣyasya_lakṣya_SGNe saḥ_tad_SNM api_api_ "
+  },
+  {
+    "index": 38709,
+    "sanskrit": "adbhutasya tu māhātmyam yathā vedeṣu kīrtitam",
+    "english": "Know that the powers of those fires are the same as those of the Adbhuta fire as related in the Vedas.",
+    "morphology": "adbhutasya_adbhuta_SGM tu_tu_U māhātmyam_māhātmya_SNNe yathā_yathā_U"
+  },
+  {
+    "index": 38710,
+    "sanskrit": "iha eva dṛśyate rājñaḥ bhrātā yasya dhanaṃjayaḥ bhīmasenaḥ ca balavān mādrī putrau ca pāṇḍavau vāsudevaḥ ca vārṣṇeyaḥ yasya nāthaḥ vyavasthitaḥ",
+    "english": "Regard for Brahmanas, self-restraint, liberality, asceticism, and noble conduct, are seen in Yudhishthira alone who hath for his brothers Dhananjaya, and the mighty Bhimasena, and the twin sons of Madri by Pandu, and who hath Vasudeva of the Vrishni race for his protector.",
+    "morphology": "iha_iha_U eva_eva_U dṛśyate_dṛś_SPr3InPv rājñaḥ_rājan_SGM bhrātā_bhrātṛ_SNM yasya_yad_SGM dhanaṃjayaḥ_dhanaṃjaya_SNM bhīmasenaḥ_bhīmasena_SNM ca_ca_U balavān_balavat_SNM mādrī_mādrī_FCp putrau_putra_DuNM ca_ca_U pāṇḍavau"
+  },
+  {
+    "index": 38711,
+    "sanskrit": "tatra acira kāla jātāni alpa doṣa liṅga upadravāṇi bheṣaja sādhyāni |",
+    "english": "A case of recent origin involving the action of the Doshas to a slight degree and uncomplicated with any grave or dangerous symptom and complication may prove amenable to medicine alone.",
+    "morphology": "tatra_tatra_U acira_acira_Cp kāla_kāla_MCp jātāni_jan_PNPaPsNe alpa_alpa_Cp doṣa_doṣa_MCp liṅga_liṅga_MCp upadravāṇi_upadrava_PNNe bheṣaja_bheṣaja_NeCp sādhyāni_sādhay_PNNeGd"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44136,
+    "sanskrit": "jīrṇagomātrakadhanaḥ saṃropitalatāvṛtiḥ / saṃcitāgnyavaniprāṇirupārjitakamaṇḍaluḥ //",
+    "english": "I had an old cow only for my treasure, and the greens of my garden as my only provision; my collections were only the sacred fire and sacrificial animals, and my utensil an only water pot.",
+    "morphology": "jīrṇa_jṛ_PaCp go_go_Cp mātraka_mātraka_Cp dhanaḥ_dhana_SNM saṃropita_saṃropay_PaCp latā_latā_Cp āvṛtiḥ_āvṛti_SNM  / saṃcita_saṃci_PaCp agni_agni_Cp avani_avani_Cp prāṇiḥ_prāṇin_SNM upārjita_upārjay_PaCp kamaṇḍaluḥ"
+  },
+  {
+    "index": 44137,
+    "sanskrit": "petuḥ śavā nivātāstasaṃśuṣkavanaparṇavat / niryayurlohitā nadyo raṇādrermṛtivarṣiṇaḥ //",
+    "english": "Bodies of men were falling dead on the ground, like the dried leaves of forests blown away by blasts; and streams of blood were running in the field of battle, as if the heights of war were pouring down the floods of death below.",
+    "morphology": "petuḥ_pat_PPs3In śavāḥ_śava_PNM nivāta_nivāta_Cp asta_as_PaCp saṃśuṣka_saṃśuṣka_Cp vana_vana_Cp parṇa_parṇa_Cp vat_vat_  / niryayuḥ_niryā_PPs3In lohitāḥ_lohita_PNF nadyaḥ_nadī_PNF ā_ā_ āstāḥ_ās_PNPaF āstāḥ_ās_PNP"
+  },
+  {
+    "index": 44138,
+    "sanskrit": "vedoditānāṃ nityānāṃ karmaṇāṃ samatikrame / snātakavratalope ca prāyaścittam abhojanam // vedoditānāṃ darsapaurṇamāsādīnāṃ śrautānām, smārtānāṃ ca saṃdhyopāsanādīnām /",
+    "english": "For the neglect of the compulsory duties laid down by the Veda, and for the omission of the observances of the Accomplished Student, the expiation is fasting0. The duties laid down in the Veda area the Śrauta sacrifices, Darśapūrṇamāsa and the rest and b the Smārta rites of the Twilight Prayers and the rest.",
+    "morphology": "veda_veda_Cp uditānām_vad_PGPaNe nityānām_nitya_PGNe karmaṇām_karman_PGNe samatikrame_samatikrama_SLM  / snātaka_snātaka_Cp vrata_vrata_Cp lope_lopa_SLM ca_ca_ prāyaścittam_prāyaścitta_SNNe abhojanam_abhojana_SNNe  // veda_veda_Cp uditānām_v"
+  },
+  {
+    "index": 44139,
+    "sanskrit": "tatas ca api abhiniryātrāḥ ratha aśva nara dantinām",
+    "english": "Then comes the march from Hastinapura, for battle, of foot-soldiers, horses, charioteers and elephants.",
+    "morphology": "tatas_tatas_U ca_ca_U api_api_U abhiniryātrāḥ_abhiniryātṛ_PNM"
+  },
+  {
+    "index": 44140,
+    "sanskrit": "śriyaḥ etāḥ striyaḥ nāma satkāryāḥ bhūtim icchatā",
+    "english": "Deities of prosperity are women. The person that desire affluence and prosperity should honour them.",
+    "morphology": "śriyaḥ_śrī_PNF etāḥ_etad_PNF striyaḥ_strī_PNF nāma_nāma_U"
+  },
+  {
+    "index": 44141,
+    "sanskrit": "evamanyāsāmapibhaṅgīnāṃ bhaṅgovagantavyaḥ|",
+    "english": "In a like manner may be understood the refutation of the other bhaṅgas (Ārhata tenets).",
+    "morphology": "evam_evam_ anyāsām_anya_PGF api_api_ bhaṅgīnām_bhaṅga_SNM"
+  },
+  {
+    "index": 44142,
+    "sanskrit": "grahāṇāṃ maṇḍalaṃ kṛtsnaṃ śaśerupari saṃsthitam | sanakṣatraṃ sahasrāṇi daśaiva paritopari ||",
+    "english": "4. The spheres of the planets are entirely situated above the moon along with the stars about ten thousand Yojanas one above the other.",
+    "morphology": "grahāṇām_graha_PGM maṇḍalam_maṇḍala_SNNe kṛtsnam_kṛtsna_SNNe śaśeḥ_śaśi_SGM upari_upari_ saṃsthitam_saṃsthā_SNPaNe  / sa_sa_ nakṣatram_nakṣatra_SNNe sahasrāṇi_sahasra_PNNe daśa_daśan_SNNe eva_eva_ paritas_paritas_ upari_"
+  },
+  {
+    "index": 44143,
+    "sanskrit": "ātma ādibhiḥ karmabhiḥ idhyamānaḥ dharme pravṛttaḥ dyutimān sukha arthī",
+    "english": "One desirous of felicity (Emancipation), betaking oneself to religious rites, becomes purified (from attachments) by acts having for their object the purification of the soul, and at last wins great splendour.",
+    "morphology": "ātma_ātman_MCp ādibhiḥ_ādi_PINe karmabhiḥ_karman_PINe idhyamānaḥ_indh_SNPaPrMPv"
+  }
+]

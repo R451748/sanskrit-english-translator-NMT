@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31216,
+    "sanskrit": "kaḥ hi jānāti kasya adya mṛtyu senā nivekṣyate",
+    "english": "Who knows that Death will not come to him even today? In prime of age one should betake oneself to the practice of virtue.",
+    "morphology": "kaḥ_ka_SNM hi_hi_U jānāti_jñā_SPr3In kasya_ka_SGM adya_adya_U mṛtyu_mṛtyu_MCp senā_senā_SNF"
+  },
+  {
+    "index": 31217,
+    "sanskrit": "kapālapāṇirbhagavānbālakairbahubhirvṛtaḥ | kvacidgāyanhasaṃścaiva nṛtyanvadan kvacitkvacit || 5 ||",
+    "english": "The Lord had a skull in his hand. He was surrounded by many boys. Dancing and singing, laughing and playing at times, he moved on.",
+    "morphology": "kapāla_kapāla_Cp pāṇiḥ_pāṇi_SNM bhagavān_bhagavant_SNM bālakaiḥ_bālaka_PIM bahubhiḥ_bahu_PIM vṛtaḥ_vṛ_SNPaM  / kvacid_kvacid_ gāyan_gā_SNPaPrM hasan_has_SNPaPrM ca_ca_ eva_eva_ nṛtyan_nṛt_SNPaPrM vadan_vad_SNPaPrM kvacid_kvacid"
+  },
+  {
+    "index": 31218,
+    "sanskrit": "kartā ca dvividhaḥ proktaḥ kalpitākalpitātmakaḥ | kalpito dehabuddhyādivyavacchedena carcitaḥ | |",
+    "english": "The actor is of two kinds, supposed and actual. Supposed actor is the body, the organs of action, sense, manas and intellect presumed as actor on account of the limitation of the cognisance of the actual Actor.",
+    "morphology": "kartā_kartṛ_SNM ca_ca_ dvividhaḥ_dvividha_SNM proktaḥ_pravac_SNPaM kalpita_kalpay_PaCp a_a_ kalpita_kalpay_PaCp ātmakaḥ_ātmaka_SNM  / kalpitaḥ_kalpay_SNPaM deha_deha_Cp buddhi_buddhi_Cp ādi_ādi_Cp vyavacchedena_vyavaccheda_SIM carcitaḥ_car"
+  },
+  {
+    "index": 31219,
+    "sanskrit": "matam etat pituḥ tubhyam gāndhāryāḥ vidurasya ca",
+    "english": "What I have said unto thee represents also the opinion of thy father, of Gandhari, and also of Vidura.",
+    "morphology": "matam_man_SNPaPsNe etat_etad_SNNe pituḥ_pitṛ_SGM tubhyam_tvad_SD gāndhāryāḥ_gāndhārī_SGF vidurasya_vidura_SGM ca_ca_"
+  },
+  {
+    "index": 31220,
+    "sanskrit": "[p.560] trairūpyam vedyavedakavittibhedena //",
+    "english": "‘Three characters’ of the Cognised, the Cogniser and the Cognition (2001-2002)",
+    "morphology": "trairūpyam_trairūpya_SNNe vedya_vid_GdCp vedaka_vedaka_Cp vitti_vitti_Cp bhedena_bheda_SIM  /"
+  },
+  {
+    "index": 31221,
+    "sanskrit": "yasmindṛṣṭe'thavā spṛṣṭe kīrtite vā dvijottamāḥ | pātakaṃ nāśamāyāti bhāskareṇa tamo yathā || 2 ||",
+    "english": "If they are visited, touched or glorified, O excellent Brāhmaṇas, sin is dispelled like darkness by the Sun.",
+    "morphology": "yasmin_yad_SLM dṛṣṭe_dṛś_SLPaM athavā_athavā_ spṛṣṭe_spṛś_SLPaM kīrtite_kīrtay_SLPaM vā_vā_ dvijottamāḥ_dvijottama_PVM  / pātakam_pātaka_SNNe nāśam_nāśa_SAM āyāti_āyā_SPr3In bhāskareṇa_bhāskara_SIM tamaḥ_tamas_SNN"
+  },
+  {
+    "index": 31222,
+    "sanskrit": "etat jñānam ca panthāḥ ca yena yānti manīṣiṇaḥ",
+    "english": "and this wisdom is the path by which learned men proceed to their goal.",
+    "morphology": "etat_etad_SNNe jñānam_jñāna_SNNe ca_ca_U panthāḥ_pathin_SNM ca_ca_U"
+  },
+  {
+    "index": 31223,
+    "sanskrit": "yadi hi sarvalokaprasiddhaḥ kālona na samaveyāttatastadatikrameṇa karmaṇī gṛhayātām/",
+    "english": "Because if the commonly recognised signification of time by these words were not compatible with the sentence, then alone could we reject it and take the words to be indicative of Actions.",
+    "morphology": "yadi_yadi_ hi_hi_ sarva_sarva_Cp loka_loka_Cp prasiddhaḥ_prasidh_SNPaM na_na_ samaveyāt_samave_SPr3O tatas_tatas_ tad_tad_Cp atikrameṇa_atikrama_SIM karmaṇī_karman_DuNNe"
+  }
+]

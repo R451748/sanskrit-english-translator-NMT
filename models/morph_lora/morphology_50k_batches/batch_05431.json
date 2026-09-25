@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43440,
+    "sanskrit": "brahmovāca | ityuktvā pārvatī devī sakhībhyāṃ sundaraṃ vacaḥ | hitaṃ mene tadā tacca kartuṃ smāpyadhyavasyati ||",
+    "english": "14. Goddess Pārvatī to whom this charming suggestion was made by the two friends considered it wholesome and resolved to carry it out.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ uktvā_vac_Co pārvatī_pārvatī_SNF devī_devī_SNF sakhībhyām_sakhī_DuDF sundaram_sundara_SANe vacaḥ_vacas_SANe  / hitam_hita_SANe mene_man_SPs3In tadā_tadā_ tat_tad_SANe ca_ca_ kartum_kṛ_In sma"
+  },
+  {
+    "index": 43441,
+    "sanskrit": "tatas tān avadhīt pārthaḥ śaraiḥ saṃnata parvabhiḥ",
+    "english": "Then Partha slew them with his straight arrows.",
+    "morphology": "tatas_tatas_U tān_tad_PAM avadhīt_vadh_SPs3In pārthaḥ_pārtha_SNM śaraiḥ_śara_PIM saṃnata_saṃnam_PaPsCp parvabhiḥ_parvan_PIM"
+  },
+  {
+    "index": 43442,
+    "sanskrit": "śrutvā ca tat tathā kāryam bhavatā dvijasattama",
+    "english": "Having heard it, thou shouldst act according to it, O foremost of all regenerate persons.",
+    "morphology": "śrutvā_śru_Co ca_ca_ tat_tad_SANe tathā_tathā_ kāryam_kṛ_SNNeGd bhavatā_bhavat_SIM"
+  },
+  {
+    "index": 43443,
+    "sanskrit": "pravālapuṣpaśabalāḥ phalavantaś ca pādapāḥ //",
+    "english": "And the trees were embellished with leaves and flowers of various colours.",
+    "morphology": "pravāla_pravāla_Cp puṣpa_puṣpa_Cp śabalāḥ_śabala_PNM phalavantaḥ_phalavat_PNM ca_ca_ pādapāḥ_pādapa_PNM  /"
+  },
+  {
+    "index": 43444,
+    "sanskrit": "dhāvanti viṣayā~llakṣyamunmuktāścittasāyakāḥ / spṛśanti na guṇānbhūyaḥ kṛtaghnāḥ sauhṛdaṃ yathā //",
+    "english": "The desires of our hearts run to their objects, with as much speed as the arrow's fly from the archer's bow; but they never return to their seat in the heart or bow string, as our ungrateful friends that forsake us in our adversity.",
+    "morphology": "dhāvanti_dhāv_PPr3In viṣayān_viṣaya_PAM lakṣyam_lakṣya_SANe unmuktāḥ_unmuc_PNPaM citta_citta_Cp sāyakāḥ_sāyaka_PNM  / spṛśanti_spṛś_PPr3In na_na_ guṇān_guṇa_PAM bhūyas_bhūyas_ kṛtaghnāḥ_kṛtaghna_PNM sauhṛdam_sauhṛ"
+  },
+  {
+    "index": 43445,
+    "sanskrit": "śataṃ kathaṃ bhavedekaṃ kathamekaṃ śataṃ bhavet / kathaṃ sa cetanā ete kāṣṭhaloṣṭopalādayaḥ //",
+    "english": "How the single breath of inhalation becomes a centuple (in order to pass into a hundred channels of the arteries), and how these hundreds combine again into one (in their exhalation); and why are some as sensible beings, and others as insensible as woods and stones.",
+    "morphology": "śatam_śata_SNNe katham_katham_ bhavet_bhū_SPr3O ekam_eka_SNNe katham_katham_ ekam_eka_SNNe śatam_śata_SNNe bhavet_bhū_SPr3O  / katham_katham_ sa_tad_SNM cetanāḥ_cetanā_PNF ete_etad_PNM kāṣṭha_kāṣṭha_Cp loṣṭa_loṣṭa_Cp upala_upala"
+  },
+  {
+    "index": 43446,
+    "sanskrit": "prakārāntareṇeyam ācārastutiḥ /",
+    "english": "This verse eulogises Right Behaviour iu another manner.",
+    "morphology": "prakāra_prakāra_Cp antareṇa_antara_SIM iyam_idam_SNF ācāra_ācāra_Cp stutiḥ_stuti_SNF  /"
+  },
+  {
+    "index": 43447,
+    "sanskrit": "aruṇo bahurūpaśca virūpākṣo'kṣarākṛtiḥ | anādiraṃtarahitaḥ śivakāmaḥ svayaṃprabhuḥ || 12 ||",
+    "english": "Virūpākṣa (‘One with uneven three eyes’), Akṣarākṛti (‘One of imperishable form’), Anādi (‘Beginningless’),",
+    "morphology": "aruṇaḥ_aruṇa_SNM bahurūpaḥ_bahurūpa_SNM ca_ca_ virūpākṣaḥ_virūpākṣa_SNM akṣara_akṣara_Cp ākṛtiḥ_ākṛti_SNM  / anādiḥ_anādi_SNM anta_anta_Cp rahitaḥ_rahita_SNM śivakāmaḥ_śivakāma_SNM svayamprabhuḥ_svayamprabhu_SN"
+  }
+]

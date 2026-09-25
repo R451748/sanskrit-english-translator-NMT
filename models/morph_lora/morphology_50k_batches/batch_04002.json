@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32008,
+    "sanskrit": "evaṃ kuryādyathāśakti kramācchiva padaṃ labhet | nityaṃ rucikaraṃ tvekaṃ maṃtramāmaraṇāṃtikam ||",
+    "english": "51. Doing thus according to one’s capacity one shall gradually attain Śiva’s region. It is the duty of every one to repeat a mantra pleasing to him every day till his death.",
+    "morphology": "evam_evam_ kuryāt_kṛ_SPr3O yathāśakti_yathāśakti_ kramāt_kramāt_ śiva_śiva_SVM padam_pada_SANe labhet_labh_SPr3O  / nityam_nityam_ ruci_ruci_Cp karam_kara_SNNe tu_tu_ ekam_eka_SNNe maṃtram_mantra_SNNe āmaraṇāṃtikam_āmaraṇāṃtika_SNN"
+  },
+  {
+    "index": 32009,
+    "sanskrit": "prakṛtibhir upakruṣṭam apanayet, aupaghātike vā deśe niveśayet iti //",
+    "english": "Whoever has caused excitement to the people or incurred their displeasure should be removed and placed in a dangerous locality",
+    "morphology": "prakṛtibhiḥ_prakṛti_PIF upakruṣṭam_upakruś_SAPaNe apanayet_apanī_SPr3O aupaghātike_aupaghātika_SLM vā_vā_ deśe_deśa_SLM niveśayet_niveśay_SPr3O"
+  },
+  {
+    "index": 32010,
+    "sanskrit": "tena satyapi samavāye 'vasthitihetau sahakārikāraṇāntarābhāvād virodhipratyayopanipātāc ca na nityatvaprasaṅgo ghaṭādīnām iti parasya bhāvaḥ / na tadityādīnāṃ svārambhakeṣvavayavāntareṣu samavāyaḥ sarvadāstyeveti kuto vināśo vibhāgo vā /",
+    "english": "What he means is that, even though the Inherence may be there as the basis of the object’s continued existence, if other auxiliary causes are absent, and contrary circumstances become operative, the Jar cannot remain for ever. This is answered in the words ‘That cannot be so’, What has been urged cannot be right; because of the said components also there are components wherein their Inherence lies for ever; how then could there be any destruction or disruption?",
+    "morphology": "tena_tena_ sati_as_SLPaPrM api_api_ samavāye_samavāya_SLM avasthiti_avasthiti_Cp hetau_hetu_SLM sahakāri_sahakārin_Cp kāraṇa_kāraṇa_Cp antara_antara_Cp abhāvāt_abhāva_SBM virodhi_virodhin_Cp pratyaya_pratyaya_Cp upanipātāt_upanipāta_SBM ca_"
+  },
+  {
+    "index": 32011,
+    "sanskrit": "katham ayaṃ vṛthā paśubandhaḥ / ucyate /",
+    "english": "Why is this called needless animalslaughter, when it is sanctioned by the usage of cultured people?",
+    "morphology": "katham_katham_ ayam_idam_SNM vṛthā_vṛthak_ paśubandhaḥ_paśubandha_SNM  / ucyate_vac_SPr3InPv"
+  },
+  {
+    "index": 32012,
+    "sanskrit": "te api asmāsu prayuñjīran pracchannān su bahūn janān",
+    "english": "They will certainly set against us numerous spies in disguise.",
+    "morphology": "te_tad_PNM"
+  },
+  {
+    "index": 32013,
+    "sanskrit": "puruṣāsaṅgasaṅginyā rāgiṇyā kriyayānayā / vidravantyā vivakṣāsu citramandhīkṛtaḥ pumān //",
+    "english": "It is astonishing, that falsehood should betray a man, after attaching so close to him as his consort, and showing all her endearments to him; but flying at the approach of his reason.",
+    "morphology": "puruṣa_puruṣa_Cp āsaṅga_āsaṅga_Cp saṅginyā_saṅgin_SIF rāgiṇyā_rāgin_SIF kriyayā_kriyā_SIF anayā_idam_SIF  / vidravantyā_vidru_SIPaPrF vivakṣāsu_vivakṣā_PLF citram_citra_SANe andhīkṛtaḥ_andhīkṛ_SNPaM pumān_puṃs_SNM  "
+  },
+  {
+    "index": 32014,
+    "sanskrit": "tatas balākaḥ svaragāt evam dharmaḥ su durvidaḥ",
+    "english": "Morality is even so difficult of being understood.",
+    "morphology": "tatas_tatas_U balākaḥ_balāka_SNM_SNM svaḥ_sva_SNM"
+  },
+  {
+    "index": 32015,
+    "sanskrit": "ṣaṭ sutāḥ sumahāsattvāstāmrāyāḥ parikīrtitāḥ / śukī śyenī ca bhāsī ca sugrīvī śucigṛddhrakā // śukī śukānajanayadulūkapratyulūkikān / śyenī śyenāṃs tathā bhāsī bhāsāngṛrdhyāṃś ca gṛddhryapi //",
+    "english": "Tāmrā the wife of Kaśyapa had six illustrious daughters, named Śukī, Śyenī, Bhāsī, Sugrīvī, Śuci, and Gridhrikā. Śukī gave birth to parrots, owls, and crows Śyenī to hawks Bhāsī to kites Gridhrikā to vultures Śuci to waterfowl Sugrīvī to horses, camels, and asses.",
+    "morphology": "ṣaḍ_ṣaṣ_PNF sutāḥ_sutā_PNF su_su_ mahā_mahat_Cp sattvāḥ_sattva_PNF tāmrāyāḥ_tāmrā_SGF parikīrtitāḥ_parikīrtay_PNPaF  / śukī_śukī_SNF śyenī_śyenī_SNF ca_ca_ bhāsī_bhāsī_SNF ca_ca_ sugrīvī_sugrīvī_SNF śuci_śuci_C"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17512,
+    "sanskrit": "anye mām abhyadhāvanta nivāta kavacāḥ yudhi śita śastra āyudhāḥ raudrāḥ kāla rūpāḥ prahāriṇaḥ",
+    "english": "And other dreadful and grim-visaged smiters among the Nivata-Kavachas, furnished with bows and sharpened weapons, ran at me in fight.",
+    "morphology": "anye_anya_PNM mām_mad_SA abhyadhāvanta_abhidhāv_PPs3In nivāta_nivāta_Cp kavacāḥ_kavaca_PNM yudhi_yudh_SLF śita_śā_PaPsCp śastra_śastra_NeCp āyudhāḥ_āyudha_PNM raudrāḥ_raudra_PNM kāla_kāla_MCp rūpāḥ_rūpa_PNM prahāriṇaḥ_prah"
+  },
+  {
+    "index": 17513,
+    "sanskrit": "tac ca jñānam atmīyād eva hetor upajāyate /",
+    "english": "it is in this sense that the validity of cognitions is spoken of as inherent in themselves;",
+    "morphology": "tat_tad_SNNe ca_ca_ jñānam_jñāna_SNNe atmīyāt_atmīya_SBM eva_eva_ hetoḥ_hetu_SBM upajāyate_upajan_SPr3In"
+  },
+  {
+    "index": 17514,
+    "sanskrit": "vārtikakṛtā 'pi vyākhyātam [jātim evākṛtiṃ prāhuḥ vyaktir ākriyate yayā /",
+    "english": "The etymological meaning of the word 'akṛti' is that it is such as determines an individual. A universal determines an individual.",
+    "morphology": "vārtika_vārttika_Cp kṛtā_kṛt_SIM api_api_ vyākhyātam_vyākhyā_SNPaNe "
+  },
+  {
+    "index": 17515,
+    "sanskrit": "athānyopalabdhir evānupalabdhis tadā dṛśyānupalabdhāvevāntarbhāvaḥ / anayā ca nābhāvaḥ sādhyate tasya pratyakṣeṇaiva siddhatvāt /",
+    "english": "If, on the other hand, the ‘Non-apprehension’ of a thing is only the ‘apprehension of something else’, then it becomes included under ‘the Non-apprehension of what should have been apprehended’; and this does not prove the non-existence, which is cognised by Perception itself.",
+    "morphology": "atha_atha_ anya_anya_Cp upalabdhiḥ_upalabdhi_SNF eva_eva_ anupalabdhiḥ_anupalabdhi_SNF tadā_tadā_ dṛśya_dṛś_GdCp anupalabdhau_anupalabdhi_SLF eva_eva_ antarbhāvaḥ_antarbhāva_SNM  / anayā_idam_SIF ca_ca_ na_na_ abhāvaḥ_abhāva_SNM sādhy"
+  },
+  {
+    "index": 17516,
+    "sanskrit": "etenātideśapacaḥ pratyuktaḥ /",
+    "english": "The same reasoning serves to set aside the view that the Process comes in by Implication that is to say.",
+    "morphology": "etena_etad_SINe atideśa_atideśa_Cp pacaḥ_paca_SNM"
+  },
+  {
+    "index": 17517,
+    "sanskrit": "mithyāsaṃkalpakalitaṃ mithyāvasthitimāgatam / anviṣṭamapi no dṛṣṭaṃ kā tasya kila śaktatā //",
+    "english": "What is the power of that thing, which is a creation of mere fancy, and an unreal presentation of ignorance; and which being sought after, is nowhere to be found.",
+    "morphology": "mithyā_mithyā_ saṃkalpa_saṃkalpa_Cp kalitam_kalay_SNPaNe mithyā_mithyā_ avasthitim_avasthiti_SAF āgatam_āgam_SNPaNe  / anviṣṭam_anviṣ_SNPaNe api_api_ no_no_ dṛṣṭam_dṛś_SNPaNe kā_ka_SNF tasya_tad_SGM kila_kila_ śakta_śak_PaCp tā"
+  },
+  {
+    "index": 17518,
+    "sanskrit": "mārdavam daṇḍaḥ ālasyam pramādaḥ ca sura uttama māyāḥ ca vividhāḥ śakra sādhayanti avicakṣaṇam",
+    "english": "His own mildness, the severity of his punishments, his inactivity and heedlessness, O chief of the gods, and the deceitful contrivances well applied (by his foes), ruin a foolish ruler.",
+    "morphology": "mārdavam_mārdava_SNNe daṇḍaḥ_daṇḍa_SNM ālasyam_ālasya_SNNe pramādaḥ_pramāda_SNM ca_ca_U sura_sura_MCp uttama_uttama_SVM māyāḥ_māyā_PNF ca_ca_U vividhāḥ_vividha_PNF śakra_śakra_SVM sādhayanti_sādhay_PPr3In avicakṣaṇam_avic"
+  },
+  {
+    "index": 17519,
+    "sanskrit": "teṣām etat darśanam jñāna dṛṣṭam",
+    "english": "Unto these latter this science is productive of visible fruits, O lion among king.",
+    "morphology": "teṣām_tad_PGM etat_etad_SNNe darśanam_darśana_SNNe jñāna_jñāna_NeCp dṛṣṭam_dṛś_SNNe"
+  }
+]

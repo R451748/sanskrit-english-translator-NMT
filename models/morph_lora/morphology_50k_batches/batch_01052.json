@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8408,
+    "sanskrit": "āśrameṣu dvijātīnāṃ kārye vivadatāṃ mithaḥ / na vibrūyān nṛpo dharmaṃ cikīrṣan hitam ātmanaḥ //",
+    "english": "If twice-born men dispute among each other concerning the duty of the orders, a king who desires his own welfare should not (hastily) decide (what is) the law.",
+    "morphology": "āśrameṣu_āśrama_PLM dvijātīnām_dvijāti_PGM kārye_kārya_SLNe vivadatām_vivad_PGPaPrM mithas_mithas_  / na_na_ vibrūyāt_vibrū_SPr3O nṛpaḥ_nṛpa_SNM dharmam_dharma_SAM cikīrṣan_cikīrṣ_SNPaPrM hitam_hita_SANe ātmanaḥ_ātman_SGM  /"
+  },
+  {
+    "index": 8409,
+    "sanskrit": "na pālāśe śayane //",
+    "english": "Nor on a bedstead made of Palâsa-wood;",
+    "morphology": "na_na_ pālāśe_pālāśa_SLNe "
+  },
+  {
+    "index": 8410,
+    "sanskrit": "kūrpare maṇibaṃdhe ca hṛdaye pārśvayordvayoḥ | nābhau muṣkadvaye caivamūrvorgulphe ca jānuni || jaṃghādvayepadadvandve dvātriṃśatsthānamuttamam | agnyabbhūvāyudigdeśadikpālānvasubhiḥ saha || dharā dhruvaśca somaśca apaścevānilonalaḥ | pratyūṣaśca prabhāsaśca vasavoṣṭau prakīrtitāḥ ||",
+    "english": "98-102. The thirty-two places are:—head, forehead, two ears, two eyes, two noses, mouth, neck, two arms, two elbows, two wrists, chest, two sides, navel, two testicles, two thighs, two knees, two calves, two heels and two feet. The names of the following shall be uttered when the Tripuṇḍra is applied:—Fire, Water, Earth, Wind, the quarters, the guardians of the quarters, the eight Vasus.[11] The eight Vasus are Dharā, Dhruva, Soma, Āpa, Anila, Anala, Pratyūṣa and Prabhasa.",
+    "morphology": "kūrpare_kūrpara_SLM maṇibandhe_maṇibandha_SLM ca_ca_ hṛdaye_hṛdaya_SLNe pārśvayoḥ_pārśva_DuLM dvayoḥ_dvi_DuLM  / nābhau_nābhi_SLF muṣka_muṣka_Cp dvaye_dvaya_SLNe ca_ca_ evam_evam_ ūrvoḥ_ūru_DuLM gulphe_gulpha_SLM ca_ca_ jānuni_"
+  },
+  {
+    "index": 8411,
+    "sanskrit": "mṛd vāri, sati prayojane / prayojanaṃ ca gandhalepāpanayanam /",
+    "english": "\"Earth and water\";all this to be is used only if there is need for it; and the need would consist in the removing of the smell and stain.",
+    "morphology": "mṛd_mṛd_SNF vāri_vāri_SNNe sati_as_SLPaPrNe prayojane_prayojana_SLNe  / prayojanam_prayojana_SNNe"
+  },
+  {
+    "index": 8412,
+    "sanskrit": "na etāni ekena śakyāni sātatyena anvavekṣitum",
+    "english": "It is impossible, however, for one man to supervise all these matters at all times.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 8413,
+    "sanskrit": "vyathitaḥ karma tat kṛtvā śoka upahata cetanaḥ jagāma haihayānām vai sakāśam prathita ātmanām",
+    "english": "Pained at what he had done, and his senses paralysed with grief, he repaired to the presence of the more distinguished of the Haihaya chiefs.",
+    "morphology": "vyathitaḥ_vyath_SNPaPsM karma_karman_SANe tat_tad_SANe kṛtvā_kṛ_Co śoka_śoka_MCp upahata_upahan_PaPsCp cetanaḥ_cetanā_SNM jagāma_gam_SPs3In haihayānām_haihaya_PGM"
+  },
+  {
+    "index": 8414,
+    "sanskrit": "tato gaìgā taṭe ramye pūrvasyām krośa pañcakeparamaikānta rūpeṇa sevanam tat kariṣyati",
+    "english": "Forty miles to the east, with single pointed concentration he will worship a sacred place on the beautiful shore of the Gaìgā.",
+    "morphology": "tatas_tatas_U gañgā_gañgā_FCp taṭe_taṭa_SLNe ramye_ramya_SLNe pūrvasyām_pūrva_SLF"
+  },
+  {
+    "index": 8415,
+    "sanskrit": "sā tv aśokavatī rājñī tasya rūpaṃ guṇāṃś ca tān / dṛṣṭvā dṛṣṭvā dvijasyābhūt sadyas tadgatamānasā //",
+    "english": "But Queen Aśokavatī, having beheld again and again the beauty and abilities of that Brāhman, suddenly fell in love with him.",
+    "morphology": "sā_tad_SNF tu_tu_ aśokavatī_aśokavatī_SNF rājñī_rājñī_SNF tasya_tad_SGM rūpam_rūpa_SANe guṇān_guṇa_PAM ca_ca_ tān_tad_PAM  / dṛṣṭvā_dṛś_Co dṛṣṭvā_dṛś_Co dvijasya_dvija_SGM abhūt_bhū_SPs3In sadyas_sadyas_ tad_tad_Cp "
+  }
+]

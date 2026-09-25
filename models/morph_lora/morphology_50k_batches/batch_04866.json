@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38920,
+    "sanskrit": "a sūryam iva sūryeṇa nivātam iva vāyunā",
+    "english": "And this our sacrificial mansion is illuminated and gladdened by him as a sunless region by the sun, or a region of still air by a gust of breeze.",
+    "morphology": "a_a_U"
+  },
+  {
+    "index": 38921,
+    "sanskrit": "śrīviṣṇuruvāca | sādhusādhu mahāprājña nṛpacūḍāmaṇe'nagha | mayā yadupadeṣṭavyaṃ tattvayaiva nirūpitam || 72 ||",
+    "english": "Śrī Viṣṇu said: 172. O highly intelligent one, O sinless one, O crest jewel among kings, well-said, (very) well-said! What should have been given as advice by me has been well-indicated by you.",
+    "morphology": "śrī_śrī_Cp viṣṇuḥ_viṣṇu_SNM uvāca_vac_SPs3In  / sādhu_sādhu_SNNe sādhu_sādhu_SNNe mahā_mahat_Cp prājña_prājña_SVM nṛpa_nṛpa_Cp cūḍāmaṇe_cūḍāmaṇi_SVM anagha_anagha_SVM  / mayā_mad_SI yaḥ_yad_SNM upadeṣṭavyam_up"
+  },
+  {
+    "index": 38922,
+    "sanskrit": "kravyāda gaṇa saṃghuṣṭām śva śṛgāla gaṇa āyutām",
+    "english": "And it abounded with Rakshasas and dogs and jackals.",
+    "morphology": "kravyāda_kravyāda_MCp gaṇa_gaṇa_MCp saṃghuṣṭām_saṃghuṣ_SAPaPsF"
+  },
+  {
+    "index": 38923,
+    "sanskrit": "saṃdhināekato vigraheṇaekataś cet kāryasiddhiṃ paśyej jyāyān api dvaidhībhūtas tiṣṭhet //",
+    "english": "When a king is sure to achieve his desired ends by making peace with one and waging war with another, he should, though superior, adopt the double policy",
+    "morphology": "saṃdhinā_saṃdhi_SIM ekatas_ekatas_ vigraheṇa_vigraha_SIM ekatas_ekatas_ ced_ced_ kārya_kārya_Cp siddhim_siddhi_SAF paśyet_paś_SPr3O jyāyāḥ_jyāyas_SNM"
+  },
+  {
+    "index": 38924,
+    "sanskrit": "nanu cāsāmarthyād bālādayaḥ sākṣitve nirastāḥ / na hy ete sākṣyam avadhārayituṃ śaknuvanti buddher asthairyāt paripākādibhir doṣais tad āpadi pratiprasūyamānasamañjasam iti, na hy āpadi śaktir asyāvirbhavati /",
+    "english": "The minor and others have been excluded on the ground of incapacity, they are incapable of realising what is evidence, because of their mind being fickle and undeveloped; so that any exception in their favour, oven in connection with emergencies, cannot he right. For certainly even in an emergency they do not acquire the right capacity.",
+    "morphology": "nanu_nanu_ ca_ca_ asāmarthyāt_asāmarthya_SBNe bāla_bāla_Cp ādayaḥ_ādi_PNM sākṣi_sākṣin_Cp tve_tva_SLNe nirastāḥ_niras_PNPaM  / na_na_ hi_hi_ ete_etad_PNM sākṣyam_sākṣya_SANe avadhārayitum_avadhāray_In śaknuvanti_śak_PPr3In buddh"
+  },
+  {
+    "index": 38925,
+    "sanskrit": "śrīrāma uvāca / ādheḥ kathaṃ bhavedvyādhiḥ kathaṃ ca sa vinaśyati / dravyāditarayā yuktyā mantrapuṇyādirūpayā //",
+    "english": "Rama rejoined:—But tell me sir, how the intrinsic causes produce the external diseases; and how are they removed by other remedies than those of medicinal drugs, as the muttering of mantra incantations and observance of pious acts and ceremonies.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / ādheḥ_ādhi_SGM katham_katham_ bhavet_bhū_SPr3O vyādhiḥ_vyādhi_SNM katham_katham_ ca_ca_ sa_tad_SNM vinaśyati_vinaś_SPr3In  / dravyāt_dravya_SBNe itarayā_itara_SIF yuktyā_yukti_SIF mantra_"
+  },
+  {
+    "index": 38926,
+    "sanskrit": "śrīvasiṣṭha uvāca / yathālātaparispandādagnicakraṃ pradṛśyate / asadeva sadābhāsaṃ cittaspandāttathā jagat //",
+    "english": "Vasishtha continued:—As the rotation of a firebrand, describes a circle of sparkling fires; so the revolving of the mind, depicts the apparent circumference to the sky, as the real circle of the universe.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / yathā_yathā_ alāta_alāta_Cp parispandāt_parispanda_SBM agni_agni_Cp cakram_cakra_SNNe pradṛśyate_pradṛś_SPr3InPv  / asat_asat_SNNe eva_eva_ sat_as_PaPrCp ābhāsam_ābhāsa_SNN"
+  },
+  {
+    "index": 38927,
+    "sanskrit": "utpādastarhyabhūtvā bhavatīti siddham / atha sarvameva cāsti /",
+    "english": "An efficacy withThis is to admit that arising exists after having been non-existent.",
+    "morphology": "utpādaḥ_utpāda_SNM tarhi_tarhi_ a_a_ bhūtvā_bhū_Co bhavati_bhū_SPr3In iti_iti_ siddham_sidh_SNPaNe  / atha_atha_"
+  }
+]

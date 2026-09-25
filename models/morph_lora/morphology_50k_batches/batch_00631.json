@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5040,
+    "sanskrit": "te ca pratyekam eka ātma rūpa tvena jaḍaiḥ gate | saṅketa vyavahāra āpta kāla vyāptiḥ atas matā ||",
+    "english": "Each of the two is apprehended by dull-witted men as one and the same; thus it is that it is held to continue during all the time from the convention to the usage",
+    "morphology": "te_tad_PNM ca_ca_U pratyekam_pratyekam_U eka_eka_Cp ātma_ātman_MCp rūpa_rūpa_Cp tvena_tva_SINe jaḍaiḥ_jaḍa_PIM gate_gam_SLPaPsM  / saṅketa_saṃketa_MCp vyavahāra_vyavahāra_MCp āpta_āp_PaPsCp kāla_kāla_MCp vyāptiḥ_vyāpti_SNF atas_atas"
+  },
+  {
+    "index": 5041,
+    "sanskrit": "parayā bharata śreṣṭham pūjayā samavasthitau",
+    "english": "The two elderly chiefs honoured Arjuna duly.",
+    "morphology": "parayā_para_SIF bharata_bharata_MCp śreṣṭham_śreṣṭha_SAM pūjayā_pūjā_SIF"
+  },
+  {
+    "index": 5042,
+    "sanskrit": "kalau cārkasthalonāma triṣu lokeṣu kīrtitaḥ | avatīrṇamidaṃ devi svayameva pratiṣṭhitam || 10 ||",
+    "english": "10. In Kali Age he is glorified in all the three worlds by the name Arkasthala. The deity was self-installed soon after the incaranation.",
+    "morphology": "kalau_kali_SLM ca_ca_ arkasthalaḥ_arkasthala_SNM nāma_nāma_ triṣu_tri_PLM lokeṣu_loka_PLM kīrtitaḥ_kīrtay_SNPaM  / avatīrṇam_avatṛ_SNPaNe idam_idam_SNNe devi_devī_SVF svayam_svayam_ eva_eva_ pratiṣṭhitam_pratiṣṭhā_SNPaNe  /"
+  },
+  {
+    "index": 5043,
+    "sanskrit": "svādhyāyanam uddhatasya punaḥ punar abhyasanaṃ /",
+    "english": "Recitation, i.e. the repeated practice of what has been received.",
+    "morphology": "svādhyāyanam_svādhyāyana_SNNe uddhatasya_uddhan_SGPaM punar_punar_ punar_punar_ abhyasanam_abhyasana_SNNe  /"
+  },
+  {
+    "index": 5044,
+    "sanskrit": "na brahmā na śivaḥ śeṣo na devā na ca tāpasāḥ | śaknuvaṃti phalaṃ nālaṃ vaktuṃ pāvakatīrthajam || 15 ||",
+    "english": "15. Neither Brahmā, nor Śiva, nor Śeṣa, neither Devas nor ascetics are competent enough to recount the merit originating from Vahnitīrtha. They cannot.",
+    "morphology": "na_na_ brahmā_brahman_SNM na_na_ śivaḥ_śiva_SNM śeṣaḥ_śeṣa_SNM na_na_ devāḥ_deva_PNM na_na_ ca_ca_ tāpasāḥ_tāpasa_PNM  / śaknuvanti_śak_PPr3In phalam_phala_SANe na_na_ alam_alam_ vaktum_vac_In pāvakatīrtha_pāvakatīrtha_Cp jam_ja_"
+  },
+  {
+    "index": 5045,
+    "sanskrit": "tatra tīrthe tu yaḥ kaścitkurute prāṇamokṣaṇam | anivartikā gatistasya rudralokādasaṃśayam || 3 ||",
+    "english": "If anyone casts his life into that Tīrtha there, his departure to Rudraloka will certainly be one without any return. [Sanskrit text for this chapter is available]",
+    "morphology": "tatra_tatra_ tīrthe_tīrtha_SLNe tu_tu_ yaḥ_yad_SNM kaścid_kaścit_SNM kurute_kṛ_SPr3In prāṇamokṣaṇam_prāṇamokṣaṇa_SANe  / anivartikā_anivartika_SNF gatiḥ_gati_SNF tasya_tad_SGM rudra_rudra_Cp lokāt_loka_SBM asaṃśayam_asaṃśaya"
+  },
+  {
+    "index": 5046,
+    "sanskrit": "somena ādityāḥ balinaḥ somena pr̥thivī mahī atho iti nakṣatrāṇām eṣām upa sthe somaḥ āhitaḥ",
+    "english": "By Soma are the Âdityas strong, by Soma mighty is the earth. Thus Soma in the midst of all these constellations hath his place.",
+    "morphology": "somena_soma_SIM ādityāḥ_āditya_PNM balinaḥ_balin_PNM somena_soma_SIM pr̥thivī_pr̥thivī_SNF mahī_mah_SNF atho_atho_U iti_iti_U nakṣatrāṇām_nakṣatra_PGNe eṣām_idam_PGNe upa_upa_U sthe_stha_SLNe somaḥ_soma_SNM āhitaḥ_ādhā_SNPaPsM"
+  },
+  {
+    "index": 5047,
+    "sanskrit": "pibet payaḥ agni taptam ca nirvāpya gṛhagodhikām",
+    "english": "A lizard should be immersed in hot milk and this milk, when cooled, should be given to the patient to drink.",
+    "morphology": "pibet_pā_SPr3O payaḥ_payas_SANe agni_agni_MCp taptam_tap_SAPaPsNe ca_ca_U nirvāpya_nirvāpay_Co"
+  }
+]

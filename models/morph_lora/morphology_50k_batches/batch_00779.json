@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6224,
+    "sanskrit": "tābhiḥ idam śarīram gavākṣitam vibaddham ātatam ca |",
+    "english": "The net-work of these Dhamanis spreads over the whole organism and maintain its integrity.",
+    "morphology": "tābhiḥ_tad_PIF idam_idam_SNNe śarīram_śarīra_SNNe gavākṣitam_gavākṣita_SNNe vibaddham_vibandh_SNPaPsNe ātatam_ātan_SNPaPsNe ca_ca_U"
+  },
+  {
+    "index": 6225,
+    "sanskrit": "evam arthacarān pūrvaṃ rājā daṇḍena śodhayet / śodhayeyuś ca śuddhās te paurajānapadān damaiḥ //",
+    "english": "Thus shall the king, with adequate punishments, test first the conduct of Government servants, and then shall, through those officers of approved character, examine the conduct of his people both in towns and villages",
+    "morphology": "evam_evam_ artha_artha_Cp carān_cara_PAM pūrvam_pūrvam_ rājā_rājan_SNM daṇḍena_daṇḍa_SIM śodhayet_śodhay_SPr3O  / śodhayeyuḥ_śodhay_PPr3O ca_ca_ śuddhāḥ_śudh_PNPaM te_tad_PNM paura_paura_Cp jānapadān_jānapada_PAM damaiḥ_dama_P"
+  },
+  {
+    "index": 6226,
+    "sanskrit": "nireti vaktrāt sahasā sa doṣaḥ kāsaḥ sa vidvadbhiḥ udāhṛtaḥ tu",
+    "english": "This is called Kasha (cough) by the learned.",
+    "morphology": "nireti_niri_SPr3In vaktrāt_vaktra_SBNe sahasā_sahasā_U sa_sa_U doṣaḥ_doṣa_SNM kāsaḥ_kāsa_SNM sa_tad_SNM vidvadbhiḥ_vidvas_PIM udāhṛtaḥ_udāhṛ_SNPaPsM tu_tu_U"
+  },
+  {
+    "index": 6227,
+    "sanskrit": "kaṇḍūmatī dāha rujā upapannā vipādikā pāda gatā iyam eva",
+    "english": "The same form of malady attended with pain, burning and itching, and restricting itself solely to the lower extremities, is called Vipadika.",
+    "morphology": "kaṇḍūmatī_kaṇḍūmat_SNF dāha_dāha_MCp rujā_rujā_SIF upapannā_upapad_SNPaPsF vipādikā_vipādikā_SNF pāda_pāda_MCp gatā_gam_SNPaPsF iyam_idam_SNF"
+  },
+  {
+    "index": 6228,
+    "sanskrit": "tasmāt sarvāsu avasthāsu rakṣet jīvitam ātmanaḥ",
+    "english": "For these reasons one should, under all circumstances, protect his own self.",
+    "morphology": "tasmāt_tasmāt_U sarvāsu_sarva_PLF avasthāsu_avasthā_PLF rakṣet_rakṣ_SPr3O"
+  },
+  {
+    "index": 6229,
+    "sanskrit": "samānayā anayā ca iha sahavāsam aham katham",
+    "english": "Oh, how shall I dwell in those forms?[1630] How shall I live conjointly with her? In consequence only of my ignorance I repair to her companionship.",
+    "morphology": "samānayā_samāna_SIF anayā_idam_SIF ca_ca_U iha_iha_U sahavāsam_sahavāsa_SAM aham_mad_SN katham_katham_U"
+  },
+  {
+    "index": 6230,
+    "sanskrit": "evaṃ jalānilāgnitvaṃ bhūmitvaṃ khātmanā mayā / kṛtaṃ citeva svapneṣu bata māyāvijṛmbhitam //",
+    "english": "So I perceived the four elemental bodies of earth and air, and of fire and water, in my vacuous soul; in same manner as we see the delusive objects of our dream in the vacuity of our intellect.",
+    "morphology": "evam_evam_ jala_jala_Cp anila_anila_Cp agni_agni_Cp tvam_tva_SNNe bhūmi_bhūmi_Cp tvam_tva_SNNe kha_kha_Cp ātmanā_ātman_SIM mayā_mad_SI  / kṛtam_kṛ_SNPaNe citā_cit_SIF iva_iva_ svapneṣu_svapna_PLM bata_bata_ māyā_māyā_Cp vijṛmbhitam_vij"
+  },
+  {
+    "index": 6231,
+    "sanskrit": "punaśca daśakoṭyā hi kāraṇabrahmaṇaḥ padam | punaśca daśakoṭyā hi tatpadaiśvaryamāpnuyāt ||",
+    "english": "108. Then by ten crores of Japas he achieves the region of Kāraṇa Brahman. Again by ten crores he attains the prosperity of that region.",
+    "morphology": "punar_punar_ ca_ca_ daśa_daśan_Cp koṭyā_koṭi_SIF hi_hi_ kāraṇa_kāraṇa_Cp brahmaṇaḥ_brahman_SGNe padam_pada_SANe  / punar_punar_ ca_ca_ daśa_daśan_Cp koṭyā_koṭi_SIF hi_hi_ tad_tad_Cp pada_pada_Cp aiśvaryam_aiśvarya_SANe āpnuyāt_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23320,
+    "sanskrit": "viparyastendriyaṃ mattaṃ madirāghūrṇitekṣaṇam / dharmanirṇayasākṣitve kaḥ pramāṇīkarotyadhīḥ //",
+    "english": "What lack-wit is there, that would refer a question on law or religious subjects, to one of ungoverned passions and organs of sense, or whose eyeballs are rolling with the intoxication of wine.",
+    "morphology": "viparyasta_viparyas_PaCp indriyam_indriya_SAM mattam_mad_SAPaM madirā_madirā_Cp ghūrṇita_ghūrṇ_PaCp īkṣaṇam_īkṣaṇa_SAM  / dharma_dharma_Cp nirṇaya_nirṇaya_Cp sākṣi_sākṣin_Cp tve_tva_SLNe kaḥ_ka_SNM pramāṇīkaroti_pramāṇ"
+  },
+  {
+    "index": 23321,
+    "sanskrit": "eka eva jvaro loke bhavān astu yathāsukham /",
+    "english": "May you fare well therefore, Jvara. You will have what you are praying for.",
+    "morphology": "ekaḥ_eka_SNM eva_eva_ jvaraḥ_jvara_SNM loke_loka_SLM"
+  },
+  {
+    "index": 23322,
+    "sanskrit": "kurvatām śauca karmāṇi bhīṣmasya nidhane tadā",
+    "english": "And the Pandavas then in consequence of the death of Bhishma, were engaged in performing his funeral ceremonies.",
+    "morphology": "kurvatām_kṛ_PGPaPrM"
+  },
+  {
+    "index": 23323,
+    "sanskrit": "uttamaḥ sāhasastasya yaḥ pāpair uttamān kṣipet /",
+    "english": "One who insults men of respect should be meted the punishment of uttama sāhasa.",
+    "morphology": "uttamaḥ_uttama_SNM sāhasaḥ_sāhasa_SNM tasya_tad_SGM yaḥ_yad_SNM pāpaiḥ_pāpa_PIM uttamān_uttama_PAM kṣipet_kṣip_SPr3O"
+  },
+  {
+    "index": 23324,
+    "sanskrit": "māsena pūrvajātiṃ ca janmātītaṃ ca vetsyati | ekarātrāttanuṃ śuddhāṃ dvābhyāṃ tārayate pitṝn | trirātreṇa vyatītena tvaparānsapta tārayet || 25 ||",
+    "english": "25. Within a month he will begin to recollect the previous birth and everything that has happened before. Within a single night he will get a pure body. Within two days he will be able to redeem the Pitṛs and when three nights elapse, he will redeem seven succeeding generations.",
+    "morphology": "māsena_māsa_SIM pūrva_pūrva_Cp jātim_jāti_SAF ca_ca_ janma_janman_Cp atītam_atī_SAPaNe ca_ca_ vetsyati_vid_SFu3In  / eka_eka_Cp rātrāt_rātra_SBM tanum_tanu_SAF śuddhām_śudh_SAPaF dvābhyām_dvi_DuIM tārayate_tāray_SPr3In pitṝn_pitṛ_PAM "
+  },
+  {
+    "index": 23325,
+    "sanskrit": "annāt gṛhasthāḥ loke asmin bhikṣavaḥ tatas eva ca",
+    "english": "All classes of men, householders and mendicants and ascetics, exist, depending upon food.",
+    "morphology": "annāt_anna_SBNe gṛhasthāḥ_gṛhastha_PNM"
+  },
+  {
+    "index": 23326,
+    "sanskrit": "pākhaṃḍino vikarmasthāḥ paradāropajīvinaḥ | kāryakāraṇamāśritya yatra snehaḥ prajāyate || 86 || na svabhāvātsahasrākṣa kathaṃcidapi dehinām | yāsyaṃti mlecchabhāvaṃ ca sarve varṇā dvijātayaḥ || 87 ||",
+    "english": "Heretics indulge in misdeeds. They subsist on the bounty of the wives of other men. Friendship develops only on the basis of bussiness dealings (i.e. self-interest). O Thousand-eyed One, it never depends on natural affinity. All the castes of the twice-born ones become barbarous in their tendency.",
+    "morphology": "pāṣaṇḍinaḥ_pāṣaṇḍin_PNM vikarma_vikarman_Cp sthāḥ_stha_PNM para_para_Cp dāra_dāra_Cp upajīvinaḥ_upajīvin_PNM  / kārya_kārya_Cp kāraṇam_kāraṇa_SANe āśritya_āśri_Co yatra_yatra_ snehaḥ_sneha_SNM prajāyate_prajan_SPr3In"
+  },
+  {
+    "index": 23327,
+    "sanskrit": "sa ca kāyena kubjaḥ syājjarāvyāptastathaiva ca | valīpalitagātraśca hyatyaṃtaṃ ca virūpadhṛk || 36 ||",
+    "english": "36. This Maṇibhadra was an old man of graying hair and wrinkled body (limbs). He was extremely ugly in appearance.",
+    "morphology": "sa_tad_SNM ca_ca_ kāyena_kāya_SIM kubjaḥ_kubja_SNM syāt_as_SPr3O jarā_jarā_Cp vyāptaḥ_vyāp_SNPaM tathā_tathā_ eva_eva_ ca_ca_  / valī_valī_Cp palita_palita_Cp gātraḥ_gātra_SNM ca_ca_ hi_hi_ atyantam_atyantam_ ca_ca_ virūpa_virūpa_Cp dh"
+  }
+]

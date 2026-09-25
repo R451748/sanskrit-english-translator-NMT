@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32160,
+    "sanskrit": "tadevāha tenātraivam ityādi /",
+    "english": "This is what is said in the words ‘Consequently the illusory idea, etc. etc.’",
+    "morphology": "tat_tad_SANe eva_eva_ āha_ah_SPs3In tena_tena_ atra_atra_ evam_evam_"
+  },
+  {
+    "index": 32161,
+    "sanskrit": "triṣavaṇam upaspṛśya brahmacarya agni paricaraṇa guru śuśrūṣā nityaḥ bhaikṣa ādi sarva nivedita antarātmā",
+    "english": "He should perform his ablutions thrice (viz., in the morning, noon, and evening). He should lead a life of celibacy; attend to his sacred fire;",
+    "morphology": "triṣavaṇam_triṣavaṇa_SANe upaspṛśya_upaspṛś_Co brahmacarya_brahmacarya_NeCp agni_agni_MCp paricaraṇa_paricaraṇa_NeCp guru_guru_MCp śuśrūṣā_śuśrūṣā_SNF nityaḥ_nitya_SNM bhaikṣa_bhaikṣa_NeCp ādi_ādi_NeCp sarva_sarva_Cp n"
+  },
+  {
+    "index": 32162,
+    "sanskrit": "naiva taddhyātmahetubhyāṃ vinā sambhavati kvacit // parasparaviruddhau ca dharmau naikatra vastuni / yujyete sambhavo nāto viruddhāvyabhicāriṇaḥ //",
+    "english": "Because no such inference could be possible except through essential sameness or being the cause. Mutually contradictory properties cannot belong to the same thing. Consequently there can be no possibility of any pbobans which might be concomitant with the contrary of the desired conclusion.",
+    "morphology": "na_na_ eva_eva_ tat_tad_SNNe hi_hi_ ātma_ātman_Cp hetubhyām_hetu_DuBM vinā_vinā_ sambhavati_sambhū_SPr3In kvacid_kvacid_  // paraspara_paraspara_Cp viruddhau_virudh_DuNPaM ca_ca_ dharmau_dharma_DuNM na_na_ ekatra_ekatra_ vastuni_vastu_SLNe  / yujyete"
+  },
+  {
+    "index": 32163,
+    "sanskrit": "bālasya ā ṣoḍaśād varṣād adoṣaḥ /",
+    "english": "There is no harm in the case of the pupil who is still a \"child,\" not having passed his sixteenth year.",
+    "morphology": "bālasya_bāla_SGM ā_ā_ ṣoḍaśāt_ṣoḍaśa_SBM varṣāt_varṣa_SBM adoṣaḥ_adoṣa_SNM  /"
+  },
+  {
+    "index": 32164,
+    "sanskrit": "viśvam satyam magha vānā yuvoḥ it āpaḥ cana pra minanti vratam vām accha indrābrahmaṇaspatī iti haviḥ naḥ annam yujāiva vājinā jigātam",
+    "english": "From you, twain Maghavans, all truth proceedeth: even the waters break not your commandment. Come to us, Brahmaṇaspati and Indra, to our oblation Iiie yoked steeds to fodder.",
+    "morphology": "viśvam_viśva_SNNe satyam_satya_SNNe magha_magha_MCp vānā_vāna_DuVM yuvoḥ_tvad_DuG id_id_U āpaḥ_ap_PNF cana_cana_U pra_pra_U minanti_mī_PPr3In vratam_vrata_SANe vām_tvad_DuG accha_acchā_U indrābrahmaṇaspatī_indrābrahmaṇaspati_DuVM iti_it"
+  },
+  {
+    "index": 32165,
+    "sanskrit": "athāpyevaṃ kalpyeta vāgvyañjanaṃ janayati vyañjanaṃ tu nāmeti /",
+    "english": "It is not an evasion to suppose that voice engenders the phoneme, that a phoneme engenders a word, and that a word causes comprehension of objects.",
+    "morphology": "atha_atha_ api_api_ evam_evam_ kalpyeta_kalpay_SPr3OPv vāc_vāc_Cp vyañjanam_vyañjana_SANe janayati_janay_SPr3In vyañjanam_vyañjana_SNNe tu_tu_ nāma_nāma_"
+  },
+  {
+    "index": 32166,
+    "sanskrit": "tena puruṣeṇa jātamātreṇaiva bālyātprabhṛti vidyāgrahaṇaṃ kartavyaṃ guravo'nugantavyāḥ //",
+    "english": "The male child betakes himself in his boy-hood, to his tutor for the acquisition of knowledge.",
+    "morphology": "tena_tad_SIM puruṣeṇa_puruṣa_SIM jāta_jan_PaCp mātreṇa_mātra_SIM eva_eva_ bālyāt_bālya_SBNe prabhṛti_prabhṛti_ vidyā_vidyā_Cp grahaṇam_grahaṇa_SNNe kartavyam_kṛ_SNNeGd guravaḥ_guru_PNM anugantavyāḥ_anugam_PNMGd  /"
+  },
+  {
+    "index": 32167,
+    "sanskrit": "kaṇvāḥ iva bhṛgavaḥ sūryāḥ iva viśvam id dhītam ānaśuḥ / indram stomebhiḥ mahayantaḥ āyavaḥ priyamedhāsaḥ asvaran /",
+    "english": "The Bhrigus are like suns, like Kanvas, and have gained all that their thoughts were bent to win. The living men of Priyamedha's race have sung exalting Indra with their lauds.",
+    "morphology": "kaṇvāḥ_kaṇva_PNM iva_iva_U bhṛgavaḥ_bhṛgu_PNM sūryāḥ_sūrya_PNM iva_iva_U viśvam_viśva_SANe id_id_U dhītam_dhī_SAPaPsNe ānaśuḥ_aś_PPs3In  / indram_indra_SAM stomebhiḥ_stoma_PIM mahayantaḥ_mahay_PNPaPrM āyavaḥ_āyu_PNM priya"
+  }
+]

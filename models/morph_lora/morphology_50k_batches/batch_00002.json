@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8,
+    "sanskrit": "aprāptayauvanaḥ sotha samidāharaṇāya vai | gato vidhivaśāddaṣṭo daṃdaśūkena kānane || 140 ||",
+    "english": "140. Nārāyaṇa who had not by then attained his youth, had once gone to fetch sacrificial twigs. As fate would have it, he was bitten by a serpent in forest.",
+    "morphology": "aprāpta_aprāpta_Cp yauvanaḥ_yauvana_SNM saḥ_tad_SNM utha_utha_SVM samidh_samidh_Cp āharaṇāya_āharaṇa_SDNe vai_vai_  / gataḥ_gam_SNPaM vidhi_vidhi_Cp vaśāt_vaśa_SBM daṣṭaḥ_daṃś_SNPaM"
+  },
+  {
+    "index": 9,
+    "sanskrit": "anyatarāmevāhutimahauṣuranyatarām paryaśiṣanniti sa yām paryaśiṃṣaṃstānīmānyavadānāne tato devāḥ sviṣṭakṛte tryaṅgāṇyapābhajaṃstasmāttryaṅgāṇyathāsurā avādyañcīrṣṇoṃ 'sayoranūkasyāparasakthayostasmātteṣāṃ nāvadyedyannveva tvaṣṭānūkamabhyavamattasmādanūkasya nāvadyedathāhāgnīṣomābhyāṃ cāgasya haviṣo 'nubrūhītyāśrāvyāhāgnīṣomābhyāṃ cāgasya haviḥ preṣyeti na prasthitamityāha prasute prasthitamiti //",
+    "english": "Thereupon the gods made over three limbs to (Agni) Svishtakrit, whence the Tryaṅga oblations. The Asuras then made portions of the head, the shoulders, the neck, and the hind-thighs: therefore let him not make portions of these. And since Tvashtri spat upon the neck, therefore let him not make a portion of the neck. Thereupon he says (to the Hotri), 'Recite (the invitatory prayer) to Agni and Soma for the havis of the buck!' Having called for the Sraushat, he says (to the Maitrâvaruna), 'Prompt (the Hotri to recite the offering-prayer for) the havis of the buck to Agni and Soma!' He does not say '(the havis) made ready:' when the Soma has been pressed he says 'made ready.'",
+    "morphology": "anyatarām_anyatara_SAF eva_eva_ āhutim_āhuti_SAF ahauṣuḥ_hu_PPs3InFs anyatarām_anyatara_SAF paryaśiṣan_pariśiṣ_PPs3InTh iti_iti_ sa_tad_SNM yām_yad_SAF paryaśiṃṣan_pariśiṣ_P3ImIn tāni_tad_PANe imāni_idam_PANe avadānāne_avadānān"
+  },
+  {
+    "index": 10,
+    "sanskrit": "rājyāṅgadrohiṇaṃ hanyātkāle tīkṣṇo mṛdurbhavet //",
+    "english": "One who rebels against any of the above constituents of the kingdom should be killed. The king should be firm and liberal at the appropriate time.",
+    "morphology": "rājya_rājya_Cp aṅga_aṅga_Cp drohiṇam_drohin_SAM hanyāt_han_SPr3O kāle_kāla_SLM tīkṣṇaḥ_"
+  },
+  {
+    "index": 11,
+    "sanskrit": "etac chāstraṃ vo yuṣmākam ayaṃ bhṛgur aśeṣataḥ sarvaṃ śrāvayiṣyati karṇapathaṃ neṣyaty adhyāpayiṣyati vyākhyāsyati ca / etac chāstrasyaitad ā pratyavamarśaḥ /",
+    "english": "\"This,\" Law; \"to you\"; \"Bhṛgu will describe fully,\" will carry it to your cars, will teach and will explain The pronoun \"this\" in the second line refers to the Law; the whole of this Law this Sage has \"learnt,\" read,\"in its entirety,\" \"from me\" at my hands.",
+    "morphology": "etat_etad_SANe śāstram_śāstra_SANe vaḥ_tvad_PG yuṣmākam_tvad_PG ayam_idam_SNM bhṛguḥ_bhṛgu_SNM aśeṣatas_aśeṣatas_ sarvam_sarva_SANe śrāvayiṣyati_śrāvay_SFu3In karṇa_karṇa_Cp patham_patha_SAM neṣyati_nī_SFu3In adhyāpayiṣ"
+  },
+  {
+    "index": 12,
+    "sanskrit": "tat babhau raudra bībhatsam bībhatsoḥ yānam āhave ākrīḍaḥ iva rudrasya ghnataḥ kāla atyaye paśūn",
+    "english": "And the car of Vibhatsu in that battle shone fiercely like the car of Rudra himself, while engaged at the end of the Yuga in destroying all creatures.",
+    "morphology": "tat_tad_SNNe babhau_bhā_SPs3In raudra_raudra_Cp bībhatsam_bībhatsa_SNNe bībhatsoḥ_bībhatsu_SGM yānam_yāna_SNNe āhave_āhava_SLM ākrīḍaḥ_ākrīḍa_SNM iva_iva_U rudrasya_rudra_SGM ghnataḥ_han_SGPaPrM"
+  },
+  {
+    "index": 13,
+    "sanskrit": "athābhiprāyaḥ samācāra udvāhamātraprayojanaṃ dānam iti, ācāro durbalaḥ smṛter iti /",
+    "english": "If the idea of the objector is that, according to custom, the only benefit to which the girl is entitled is that her marriage should be performed, then our answer is that the direct assertion of the Smṛti is infinitely more authoritative than custom.",
+    "morphology": "atha_atha_ abhiprāyaḥ_abhiprāya_SNM samācāraḥ_samācāra_SNM udvāha_udvāha_Cp mātra_mātra_Cp prayojanam_prayojana_SNNe dānam_dāna_SNNe iti_iti_ ācāraḥ_ācāra_SNM"
+  },
+  {
+    "index": 14,
+    "sanskrit": "tvayedaṃ sthāpitaṃ liṃgaṃ tava nāmnā bhaviṣyati | siddhidaṃ sādhakānāṃ ca sarvapāpaharaṃ param || 61 ||",
+    "english": "161. The Liṅga installed by you, shall be (known) after your own name. It will bestow Sìddhis on all aspirants and it will be destructive of all sins.",
+    "morphology": "tvayā_tvad_SI idam_idam_SNNe sthāpitam_sthāpay_SNPaNe liṃgam_liṅga_SNNe tava_tvad_SG nāmnā_nāman_SINe bhaviṣyati_bhū_SFu3In  / siddhi_siddhi_Cp dam_da_SNNe sādhakānām_sādhaka_PGM ca_ca_ sarva_sarva_Cp pāpa_pāpa_Cp haram_hara_SNNe param_p"
+  },
+  {
+    "index": 15,
+    "sanskrit": "ubhayoḥ pakṣayoryasyāḥ strīṇāṃ kāṃtā yathepsitāḥ | śaucācāraparityaktā dharmakṛtyaparāṅmukhāḥ || 34 ||",
+    "english": "34. On both the sides (paternal and maternal) of that girl, the women have anyone they fancied as their husbands. They have cast off their cleanliness and decorum. They are averse to righteous activities.",
+    "morphology": "ubhayayoḥ_ubhaya_DuLM pakṣayoḥ_pakṣa_DuLM yasyāḥ_yad_SGF strīṇām_strī_PGF kāntāḥ_kāntā_PNF yathā_yathā_ īpsitāḥ_īpsay_PNPaF  / śauca_śauca_Cp ācāra_ācāra_Cp parityaktāḥ_parityaj_PNPaF"
+  }
+]

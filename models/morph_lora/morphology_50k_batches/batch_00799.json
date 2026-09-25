@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6384,
+    "sanskrit": "bhavatu vā vinaśvarasyāpi śabdasya sambandhagrahaṇam /",
+    "english": "The words, the objects denoted by them and the relation of significance hold- ing between them are eternal.",
+    "morphology": "bhavatu_bhū_SPr3Im vā_vā_ vinaśvarasya_vinaśvara_SGM api_api_ śabdasya_śabda_SGM sambandha_sambandha_Cp grahaṇam_grahaṇa_SNNe  /"
+  },
+  {
+    "index": 6385,
+    "sanskrit": "traivarṇasya niṣiddhāni pītvā taptvāpyapaḥ śuciḥ /",
+    "english": "Drinking of wine is prohibited for the three castes. After drinking so one should do penance and become pure by drinking water.",
+    "morphology": "traivarṇasya_traivarṇa_SGM niṣiddhāni_niṣidh_PAPaNe pītvā_pā_Co taptvā_tap_Co api_api_ apaḥ_ap_PAF śuciḥ_śuci_SNM  /"
+  },
+  {
+    "index": 6386,
+    "sanskrit": "tvam agne prathamo aṅgirā ṛṣir devo devānām abhavaḥ śivaḥ sakhā / tava vrate kavayo vidmanāpaso 'jāyanta maruto bhrājadṛṣṭayaḥ //",
+    "english": "O Agni, thou the earliest Angiras, the Seer, hast, God thyself, become the Gods’ auspicious Friend. After thy holy ordinance the Maruts, sage, active through wisdom, with their glittering spears, were born. 15",
+    "morphology": "tvam_tvad_SN agne_agni_SVM prathamaḥ_prathama_SNM aṅgirāḥ_aṅgiras_SNM ṛṣiḥ_ṛṣi_SNM devaḥ_deva_SNM devānām_deva_PGM abhavaḥ_bhū_S2ImIn śivaḥ_śiva_SNM sakhā_sakhi_SNM  / tava_tvad_SG vrate_vrata_SLNe kavayaḥ_kavi_PNM vidmana_"
+  },
+  {
+    "index": 6387,
+    "sanskrit": "adya dīrgheṇa kālena nirahaṃkṛtinā mayā / svargāpavargavaitṛṣṇyamidamāsāditaṃ dhiyā //",
+    "english": "Now after the lapse of a long time, I am quite released from my selfish egoism; and my mind has become indifferent to the desire of future rewards and heavenly felicity.",
+    "morphology": "adya_adya_ dīrgheṇa_dīrgha_SIM kālena_kāla_SIM nirahaṃkṛtinā_nirahaṃkṛtin_SIM mayā_mad_SI  / svarga_svarga_Cp apavarga_apavarga_Cp vaitṛṣṇyam_vaitṛṣṇya_SNNe idam_idam_SNNe āsāditam_āsāday_SNPaNe dhiyā_dhī_SIF  /"
+  },
+  {
+    "index": 6388,
+    "sanskrit": "yathāśrutavādīnāṃ yāpi vāccāntare śrutiḥ / arthaikatvāvirodhena guṇamātrānyatā parā",
+    "english": "wellrecognised word is found to point to something altogether strange i.e., walking on the back, which we do not per ceive in the ordinary cow yet even in this case, there being nothing in congruous in taking the word cow to mean the same thing that it does in ordinary parlauce, the word expressing the strange thing may be ex plained as simply showing a difference in the quality of the object denoted.",
+    "morphology": "yathāśruta_yathāśruta_Cp vādīnām_vādin_PGM yā_yad_SNF api_api_ vāc_vāc_Cp ca_ca_ antare_antara_SLNe śrutiḥ_śruti_SNF  / artha_artha_Cp ekatva_ekatva_Cp avirodhena_avirodha_SIM guṇa_guṇa_Cp mātra_mātra_Cp anyatā_anyatā_SNF parā_para_"
+  },
+  {
+    "index": 6389,
+    "sanskrit": "pātam āsya yajñasyodṛcas |",
+    "english": "do ye two [1] protect me until the completion of this sacrifice.",
+    "morphology": "pātam_pā_DuPr2Im"
+  },
+  {
+    "index": 6390,
+    "sanskrit": "yathā kāmaratiparikhinnā īśvarā dharmaratiṃ pratyanubhavanti dharmaratiparikhinnāḥ kāmaratimiti /",
+    "english": "In this same way kings fatigued with the pleasures of lust take up the pleasure of government, and fatigued with dharma take up again the pleasure of lust. One would object that it should hold for a god of the Third Dhyāna as for the gods of the Second Dhyāna: yet the gods of the Third Dhyāna do not pass into sāmantaka, and always possess the sensation of pleasure.",
+    "morphology": "yathā_yathā_ kāma_kāma_Cp rati_rati_Cp parikhinnāḥ_parikhid_PNPaM īśvarāḥ_īśvara_PNM dharma_dharma_Cp ratim_rati_SAF pratyanubhavanti_pratyanubhū_PPr3In dharma_dharma_Cp rati_rati_Cp parikhinnāḥ_parikhid_PNPaM kāma_kāma_Cp ratim_rati_SA"
+  },
+  {
+    "index": 6391,
+    "sanskrit": "tāvannayati saṃkocaṃ tṛṣṇā vai mānavāmbujam / yāvadvivekasūryasya noditā vimalā prabhā //",
+    "english": "So long will chill frost of penury continue to contract the lotus of humanity, as the clear light of reason does not shine upon the mind like the sun.",
+    "morphology": "tāvat_tāvat_ nayati_nī_SPr3In saṃkocam_saṃkoca_SAM tṛṣṇā_tṛṣṇā_SNF vai_vai_ mānava_mānava_Cp ambujam_ambuja_SANe  / yāvat_yāvat_ viveka_viveka_Cp sūryasya_sūrya_SGM na_na_ uditā_udi_SNPaF vimalā_vimala_SNF prabhā_prabhā_SNF  "
+  }
+]

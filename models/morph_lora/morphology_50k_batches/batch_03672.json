@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29368,
+    "sanskrit": "sidhyet saṃkalpaḥ manasā yam yam icchet na karma kuryāt viditam mama etat anyatra yuddhāt bahu yat laghīyaḥ",
+    "english": "Who, O charioteer, having got the other alternative would wish to fight? It is known to me, O Sanjaya, that if a man can have every wish of his heart without having to do anything, he would hardly like to do anything even though it might be of the least troublesome kind, far less would he engage in war.",
+    "morphology": "sidhyet_sidh_SPr3O saṃkalpaḥ_saṃkalpa_SNM manasā_manas_SINe yam_yad_SAM yam_yad_SAM icchet_iṣ_SPr3O na_na_U karma_karman_SANe kuryāt_kṛ_SPr3O viditam_vid_SNPaPsNe mama_mad_SG etat_etad_SNNe anyatra_anyatra_U yuddhāt_yuddha_SBNe bahu_bahu_SNNe "
+  },
+  {
+    "index": 29369,
+    "sanskrit": "yajante asya sakhyam vayaḥ ca namasvinaḥ sve r̥tasya dhāman v i pr̥kṣaḥ bābadhe nr̥ bhiḥ stavānaḥ idam namaḥ rudrāya preṣṭham",
+    "english": "In their own place of sacrifice adorers worship to gain long life and win his friendship. He hath poured food on men when they have praised him; be this, the dearest reverence, paid to Rudra.",
+    "morphology": "yajante_yaj_PPr3In asya_idam_SGM sakhyam_sakhya_SANe vayaḥ_vi_PNM ca_ca_U namasvinaḥ_namasvin_PNM sve_sva_SLNe r̥tasya_r̥ta_SGNe dhāman_dhāman_SLNe v_v_U i_i_U pr̥kṣaḥ_pr̥kṣ_PAF bābadhe_badh_SPs3In nr̥_nṛ_PIM bhiḥ_bhi_PIM stavānaḥ_"
+  },
+  {
+    "index": 29370,
+    "sanskrit": "karmakarasya karmasambandham āsannā vidyuḥ //",
+    "english": "Power of Masters over their hired servants Neighbours shall know the nature of agreement between a master and his servant",
+    "morphology": "karmakarasya_karmakara_SGM karma_karman_Cp sambandham_sambandha_SAM āsannāḥ_āsad_PNPaM vidyuḥ_vid_PPr3O"
+  },
+  {
+    "index": 29371,
+    "sanskrit": "indrādilokapālāṃśca hitvā śivamanu vratā | naitatsūktaṃ hi lokeṣu viruddhaṃ dṛśyate'dhunā ||",
+    "english": "24. Leaving off the guardians of the quarters you run after Śiva. This is not well said. It is against the conventions of the world.",
+    "morphology": "indra_indra_Cp ādi_ādi_Cp lokapālān_lokapāla_PAM ca_ca_ hitvā_hā_Co śivam_śiva_SAM anu_anu_ vratā_vrata_SNF  / na_na_ etat_etad_SNNe sūktam_sūkta_SNNe hi_hi_ lokeṣu_loka_PLM viruddham_virudh_SNPaNe dṛśyate_dṛś_SPr3InPv adhunā_adhunā_"
+  },
+  {
+    "index": 29372,
+    "sanskrit": "vikāramenaṃ saṃtyaktvā yuṣmadīyaṃ sugarhitāḥ | atha tāḥ sarvavṛttāṃtamūcustāpasayoṣitaḥ || 6 ||",
+    "english": "Thereupon the wives of those sages narrated all the events.",
+    "morphology": "vikāram_vikāra_SAM enam_enad_SAM saṃtyaktvā_saṃtyaj_Co yuṣmadīyam_yuṣmadīya_SAM sugarhitāḥ_sugarhita_PNF  / atha_atha_ tāḥ_tad_PNF sarva_sarva_Cp vṛttāṃtam_vṛttānta_SAM ūcuḥ_vac_PPs3In tāpasa_tāpasa_Cp yoṣitaḥ_yoṣit_PN"
+  },
+  {
+    "index": 29373,
+    "sanskrit": "na yathā candramaṇḍalasthaḥ kevalakarmī paratantro devānāmannabhūtaḥ /",
+    "english": "He is not like the mere Ritualist without know ledge who resides after death in the Moon, dependent upon others, treated by the deities as their ‘food’;",
+    "morphology": "na_na_ yathā_yathā_ candra_candra_Cp maṇḍala_maṇḍala_Cp sthaḥ_stha_SNM kevala_kevala_Cp karmī_karmin_SNM paratantraḥ_paratantra_SNM devānām_deva_PGM anna_anna_Cp bhūtaḥ_bhū_SNPaM  /"
+  },
+  {
+    "index": 29374,
+    "sanskrit": "ekādaśyāmupoṣyaiva mamāgre yaḥ paṭhiṣyati | stavamenaṃ sa pūtātmā mama lokamavāpsyati || 225 ||",
+    "english": "225. He who observes fast on the Ekādaśī day and recites this prayer in front of me, becomes a sanctified soul. He will attain my world.",
+    "morphology": "ekādaśyām_ekādaśī_SLF upoṣya_upavas_Co eva_eva_ mama_mad_SG agre_agre_ yaḥ_yad_SNM paṭhiṣyati_paṭh_SFu3In  / stavam_stava_SAM enam_enad_SAM sa_tad_SNM pūta_pū_PaCp ātmā_ātman_SNM mama_mad_SG lokam_loka_SAM avāpsyati_avāp_SFu3In "
+  },
+  {
+    "index": 29375,
+    "sanskrit": "sarvatra same vṛttamiti /",
+    "english": "When it arises equally in all directions, it is called \"circular.",
+    "morphology": "sarvatra_sarvatra_ same_sama_SLM vṛttam_vṛtta_SNNe iti_"
+  }
+]

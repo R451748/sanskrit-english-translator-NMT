@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43464,
+    "sanskrit": "saparyantaḥ purupriyam mitraṃ na kṣetrasādhasam |",
+    "english": "Honouring him who prospereth the fields Like a much loved friend.",
+    "morphology": "saparyantaḥ_sapary_PNPaPrM puru_puru_Cp priyam_priya_SAM mitra_mitra_SVM na_na_ kṣetrasādhasam_kṣetrasādhas_SAM"
+  },
+  {
+    "index": 43465,
+    "sanskrit": "anādyanantatve hetu-ruktaḥ - naisargika iti |",
+    "english": "The cause of the beginninglessness and endlessness is stated",
+    "morphology": "anādi_anādi_Cp ananta_ananta_Cp tve_tva_SLNe hetuḥ_hetu_SNM uktaḥ_vac_SNPaM __naisargika_U"
+  },
+  {
+    "index": 43466,
+    "sanskrit": "yā mātā janitrī tasyā matsya-kaṇtakāsthikāni dadāti |",
+    "english": "His mother, that he was born from, who gives the sharp fish bones.",
+    "morphology": "yā_yad_SNF mātā_mātṛ_SNF janitrī_janitrī_SNF tasyāḥ_tad_SGF matsya_matsya_Cp kaṇtaka_kaṇtaka_Cp asthikāni_asthika_PANe"
+  },
+  {
+    "index": 43467,
+    "sanskrit": "etat śrutvā pāṇḍavaḥ dharmarājaḥ bhrātuḥ vākyam paruṣam phalgunasya utthāya tasmāt śayanāt uvāca",
+    "english": "Hearing, however, those harsh words of his brother Phalguna, Pandu's son, king Yudhishthira, the just, rising up from that bed (on which he had been sitting), said these words unto Partha, with his heart filled with sorrow, \"O Partha, I have acted wickedly.",
+    "morphology": "etat_etad_SANe śrutvā_śru_Co pāṇḍavaḥ_pāṇḍava_SNM dharmarājaḥ_dharmarāja_SNM bhrātuḥ_bhrātṛ_SGM vākyam_vākya_SANe paruṣam_paruṣa_SANe phalgunasya_phalguna_SGM utthāya_utthā_Co tasmāt_tad_SBNe śayanāt_śayana_SBNe uvāca_"
+  },
+  {
+    "index": 43468,
+    "sanskrit": "tena tāṃ tvamavidyākhyāṃ bhrāntiṃ tyaktvā ciraṃ sthitām / bhaviṣyasi vinirvāṇo gataspanda ivānilaḥ //",
+    "english": "This light will then dispel the long prevailing gloom of ignorance from your mind, and then you shall attain your nirvana supineness, as the calm and breathless wind.",
+    "morphology": "tena_tena_ tām_tad_SAF tvam_tvad_SN avidyā_avidyā_Cp ākhyām_ākhyā_SAF bhrāntim_bhrānti_SAF tyaktvā_tyaj_Co ciram_ciram_ sthitām_sthā_SAPaF  / bhaviṣyasi_bhū_SFu2In vinirvāṇaḥ_vinirvā_SNPaM gata_gam_PaCp spandaḥ_spanda_SNM iva_iva_ an"
+  },
+  {
+    "index": 43469,
+    "sanskrit": "ye punaḥ kanyakāhetoḥ pūjayiṣyaṃti bhaktitaḥ | yāṃ kanyāṃ manasi sthāpya tāṃ labhiṣyantyasaṃśayam || 29 ||",
+    "english": "29. Those who devoutly worship for the sake of a daughter, shall undoubtedly obtain a daughter of their mental choice.",
+    "morphology": "ye_yad_PNM punar_punar_ kanyakā_kanyakā_Cp hetoḥ_hetu_SBM pūjayiṣyanti_pūjay_PFu3In bhaktitaḥ_bhakti_SBF  / yām_yad_SAF kanyām_kanyā_SAF manasi_manas_SLNe sthāpya_sthāpay_Co tām_tad_SAF labhiṣyanti_labh_PFu3In asaṃśayam_asaṃśaya_SAM"
+  },
+  {
+    "index": 43470,
+    "sanskrit": "na ādatte kasya cit pāpam na ca eva su kṛtam vibhuḥ",
+    "english": "The Lord receiveth no one's sin, nor also merit.",
+    "morphology": "na_na_U ādatte_ādā_SPr3In kasya_ka_SGM cit_cit_U pāpam_pāpa_SANe na_na_U ca_ca_U eva_eva_U su_su_U kṛtam_kṛ_SAPaPsNe vibhuḥ_vibhu_SNM"
+  },
+  {
+    "index": 43471,
+    "sanskrit": "ācāryam varaye tvā aham astra artham tridaśeśvara indraḥ uvāca krūram karma astra vid tāta kariṣyasi paraṃtapa",
+    "english": "With the view of learning arms do I beseech thee that thou mayst 'be my preceptor.' At this Indra said, 'O child, having learnt weapons thou wouldst perform terrible deeds and with this object thou desirest to obtain the weapons.",
+    "morphology": "ācāryam_ācārya_SAM varaye_varay_SPr1In tvā_tvad_SA aham_mad_SN astra_astra_NeCp artham_artha_SAM tridaśeśvara_tridaśeśvara_MCp indraḥ_indra_SNM uvāca_vac_SPs3In krūram_krūra_SANe karma_karman_SANe astra_astra_NeCp vid_vid_SNM tāta_tāta_SVM "
+  }
+]

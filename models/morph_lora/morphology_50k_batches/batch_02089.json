@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16704,
+    "sanskrit": "paraṃ tattvajñamāśritya nirāsaktermahātmanaḥ / sarvakarmaratasyāpi kartṛtodeti na kvacit //",
+    "english": "The great minded man that is acquainted with the superior knowledge of spirituality, forsakes his tendency to action, and does everything that comes to him without his being the actor thereof.",
+    "morphology": "param_para_SAM tattva_tattva_Cp jñam_jña_SAM āśritya_āśri_Co nirāsakteḥ_nirāsakti_SGM mahātmanaḥ_mahātman_SGM  / sarva_sarva_Cp karma_karman_Cp ratasya_ram_SGPaM api_api_ kartṛ_kartṛ_Cp tā_tā_SNF udeti_udi_SPr3In na_na_ kvacid_kvacid_  "
+  },
+  {
+    "index": 16705,
+    "sanskrit": "bahir antaś ca bhūtānām acaraṃ caram eva ca /",
+    "english": "It exists without and within created beings (as being enjoyed and as enjoyer), and in the shape both of immovable things (such as trees or stones) and of movable things (such as water or fire);",
+    "morphology": "bahis_bahis_ antar_antar_ ca_ca_ bhūtānām_bhūta_PGNe acaram_acara_SNNe caram_cara_SNNe eva_eva_ ca_ca_  /"
+  },
+  {
+    "index": 16706,
+    "sanskrit": "evam dhṛtimataḥ sādhoḥ sarva astra viduṣaḥ sataḥ",
+    "english": "Arjuna is possessed of such patience, and such honesty.",
+    "morphology": "evam_evam_U dhṛtimataḥ_dhṛtimat_SGM sādhoḥ_sādhu_SGM sarva_sarva_Cp astra_astra_NeCp viduṣaḥ_vidvas_SGM sataḥ_as_SGPaPrM"
+  },
+  {
+    "index": 16707,
+    "sanskrit": "vividhānām ca dānānām phala yogāḥ pṛthagvidhāḥ",
+    "english": "then the rules of charity and its merits;",
+    "morphology": "vividhānām_vividha_PGNe ca_ca_U dānānām_dāna_PGNe phala_phala_NeCp yogāḥ_yoga_PNM pṛthagvidhāḥ_pṛthagvidha_PNM"
+  },
+  {
+    "index": 16708,
+    "sanskrit": "evaṃ stutvā samādāya toyaṃ hemākṛtiṃ nṛpa | vāsudevaṃ hṛdi sthāpya maṃtreṇānena kalpayet || 26 ||",
+    "english": "26. After eulogizing thus, O king, the devotee takes up the golden replica and water. Retaining Vāsudeva in the heart, he recites this Mantra:",
+    "morphology": "evam_evam_ stutvā_stu_Co samādāya_samādā_Co toyam_toya_SANe hema_heman_Cp ākṛtim_ākṛti_SANe nṛpa_nṛpa_SVM  / vāsudevam_vāsudeva_SAM hṛdi_hṛd_SLNe sthāpya_sthāpay_Co maṃtreṇa_mantra_SIM anena_idam_SIM kalpayet_kalpay_SPr3O  /"
+  },
+  {
+    "index": 16709,
+    "sanskrit": "ṛṣeḥ tasya tapaḥ tīvram na śaśāka nirīkṣitum",
+    "english": "Indeed, Dyu, commanded by his lotus-eyed wife, did her bidding, forgetting at the moment the high ascetic merits of the Rishi who owned her.",
+    "morphology": "ṛṣeḥ_ṛṣi_SGM tasya_tad_SGM tapaḥ_tapas_SANe tīvram_tīvra_SANe na_na_U śaśāka_śak_SPs3In"
+  },
+  {
+    "index": 16710,
+    "sanskrit": "dṛśyate maṇḍalaṃ yasyāṃ sagarbhāṃ tāṃ vivarjayet //",
+    "english": "The stones in which the sign of a circle is found are to be taken as impregnated and should be rejected.",
+    "morphology": "dṛśyate_dṛś_SPr3InPv maṇḍalam_maṇḍala_SNNe yasyām_yad_SLF sa_sa_ garbhām_garbha_SAF tām_tad_SAF vivarjayet_vivarjay_SPr3O  /"
+  },
+  {
+    "index": 16711,
+    "sanskrit": "ātmano jagataścāsya tvamaṅga kalanāmalam / rāma dvitvamayīṃ tyaktvāśeṣasthaḥ susthiro bhava //",
+    "english": "Shun, Rama, the false thoughts of thy self-existence, and that of the visible world also; and forsake thy belief in the duality, in order to settle thyself in the infinite unity.",
+    "morphology": "ātmanaḥ_ātman_SGM jagataḥ_jagant_SGNe ca_ca_ asya_idam_SGNe tvam_tvad_SN aṅga_aṅga_ kalanā_kalanā_Cp malam_mala_SAM  / rāma_rāma_SVM dvi_dvi_Cp tva_tva_Cp mayīm_maya_SAF tyaktvā_tyaj_Co aśeṣa_aśeṣa_Cp sthaḥ_stha_SNM su_su_ sthiraḥ"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18808,
+    "sanskrit": "nāhutvā //",
+    "english": "Nor without having sprinkled his feet;",
+    "morphology": "na_ "
+  },
+  {
+    "index": 18809,
+    "sanskrit": "tathauṣadhyaḥ / oṣadhaya iti yuktam /",
+    "english": "\"Oṣadhyaḥ\" the right form is \"oṣadhayaḥ\" because the base ends in short i.",
+    "morphology": "tathā_tathā_ oṣadhyaḥ_oṣadhi_PNF  / oṣadhayaḥ_oṣadhi_PNF iti_iti_ yuktam_yuj_SNPaNe"
+  },
+  {
+    "index": 18810,
+    "sanskrit": "tato devāssagaṃdharvā vidyādharamahoragāḥ | mumucuḥ puṣpavṛṣṭiṃ ca sādhuvādānmanonugān ||",
+    "english": "18. Thus the gods, Gandharvas, Vidyādharas and the great serpents showered flowers and congratulated him delightfully.",
+    "morphology": "tatas_tatas_ devāḥ_deva_PNM sa_sa_ gaṃdharvāḥ_gandharva_PNM vidyādhara_vidyādhara_Cp mahā_mahat_Cp uragāḥ_uraga_PNM  / mumucuḥ_muc_PPs3In puṣpa_puṣpa_Cp vṛṣṭim_vṛṣṭi_SAF ca_ca_ sādhuvādān_sādhuvāda_PAM manonugān_manonu"
+  },
+  {
+    "index": 18811,
+    "sanskrit": "gṛhe purāṇa haviṣā abhyajya bālam śucau śuciḥ",
+    "english": "The child should be kept in a clean and purified chamber and its body should be rubbed or anointed with old and matured clarified butter.",
+    "morphology": "gṛhe_gṛha_SLM purāṇa_purāṇa_Cp haviṣā_havis_SINe abhyajya_abhyañj_Co"
+  },
+  {
+    "index": 18812,
+    "sanskrit": "guṇāś ca nātisthūlo nātikṛśaḥ nātidīrgho nātihrasvaḥ nātivṛddho nātibālaḥ / saptapuruṣān vidyātapobhyāṃ puṇyaiś ca karmabhiḥ samanuṣṭhitobhayabhāvān /",
+    "english": "Their qualifications arc \"They should be neither too fat nor too lean, neither too tall nor too short, neither too old nor too young, having at least six ancestors on both sides famed for learning, austerity and actions, their Brāhmaṇahood should be above suspicion and they should themselves be learned\"; and so forth.",
+    "morphology": "guṇāḥ_guṇa_PNM ca_ca_ na_na_ ati_ati_ sthūlaḥ_sthūla_SNM na_na_ ati_ati_ kṛśaḥ_kṛśa_SNM na_na_ ati_ati_ dīrghaḥ_dīrgha_SNM na_na_ ati_ati_ hrasvaḥ_hrasva_SNM na_na_ ati_ati_ vṛddhaḥ_vṛddha_SNM na_na_ ati_ati_ bālaḥ_bāla_S"
+  },
+  {
+    "index": 18813,
+    "sanskrit": "na mṛṣā nāradavacastviti saṃcintya sā śivā | snehaṃ śivapadadvandve cakārāti hṛdā tadā ||",
+    "english": "14. Convinced that Nārada’s words could not be false, Śivā turned her mind and love to Śiva’s feet.",
+    "morphology": "na_na_ mṛṣā_mṛṣā_ nārada_nārada_Cp vacaḥ_vacas_SNNe tu_tu_ iti_iti_ saṃcintya_saṃcintay_Co sā_tad_SNF śivā_śivā_SNF  / sneham_sneha_SAM śiva_śiva_Cp pada_pada_Cp dvandve_dvaṃdva_SLNe cakāra_kṛ_SPs3In ati_ati_ hṛdā_hṛd_SIN"
+  },
+  {
+    "index": 18814,
+    "sanskrit": "atha vā vijñānavāda eva suspaṣṭam āsthīyatām antarāvasthānaṃ tu na sāṃpratam /",
+    "english": "But the Buddhists hold that negation is a mental construction. In that case, they should be thorough and consistent subjective Idealists. It is not proper for them to embrace half-hearted Idealism.",
+    "morphology": "atha_atha_ vā_vā_ vijñāna_vijñāna_Cp vādaḥ_vāda_SNM eva_eva_ su_su_ spaṣṭam_spaṣṭa_SANe āsthīyatām_āsthā_SPr3ImPv antara_antara_Cp avasthānam_avasthāna_SNNe tu_tu_ na_na_ sāṃpratam_sāṃprata_SNNe"
+  },
+  {
+    "index": 18815,
+    "sanskrit": "parasaṃbhāvanāṅgaṃ tridhā samyagvākkarmāntājīvās tair hi yathākramaṃ /",
+    "english": "The limb for its cultivation by others is three-fold: right speech, action, and livelihood.",
+    "morphology": "para_para_Cp saṃbhāvanā_sambhāvanā_Cp aṅgam_aṅga_SNNe tridhā_tridhā_ samyak_samyak_ vāc_vāc_Cp karmānta_karmānta_Cp ājīvāḥ_ājīva_PNM taiḥ_tad_PIM hi_hi_ yathākramam_yathākramam_"
+  }
+]

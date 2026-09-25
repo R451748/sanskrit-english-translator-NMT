@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12152,
+    "sanskrit": "guru pūjā ca kauravya dayā bhūteṣu a paiśunam",
+    "english": "It also consists, O son of Kuru, of veneration for the preceptor and universal compassion.",
+    "morphology": "guru_guru_MCp pūjā_pūjā_SNF ā_ā_U"
+  },
+  {
+    "index": 12153,
+    "sanskrit": "agniḥ rūpam payaḥ srotaḥ vāyuḥ sparśanam eva ca mahī paṅka dharam ghoram ākāśam śravaṇam tathā",
+    "english": "It is settled that the body has fire for colour, water for blood and other liquids, wind for sense of touch, earth for the hideous holder of mind (viz., flesh and bones, etc.), space (or ether) for sound;",
+    "morphology": "agniḥ_agni_SNM rūpam_rūpa_SNNe payaḥ_payas_SNNe srotaḥ_srotas_SNNe vāyuḥ_vāyu_SNM sparśanam_sparśana_SNNe eva_eva_U ca_ca_U mahī_mahī_SNF paṅka_paṅka_MCp dharam_dhara_SNNe ghoram_ghora_SNNe"
+  },
+  {
+    "index": 12154,
+    "sanskrit": "bhavadbhiścaiva kartavyaṃ kāryaṃ lokasukhāvaham | lokānukūlaṃ caratāṃ bhaviṣyatyuttamā gatiḥ ||",
+    "english": "36. All activities conducive to the happiness of the worlds shall be performed by you. The goal of those who carry on activities favourable to the worlds shall become excellent.”",
+    "morphology": "bhavadbhiḥ_bhavat_PIM ca_ca_ eva_eva_ kartavyam_kṛ_SNNeGd kāryam_kārya_SNNe loka_loka_Cp sukha_sukha_Cp āvaham_āvaha_SNNe  / loka_loka_Cp anukūlam_anukūla_SANe caratām_car_PGPaPrM bhaviṣyati_bhū_SFu3In uttamā_uttama_SNF gatiḥ_gati_SNF"
+  },
+  {
+    "index": 12155,
+    "sanskrit": "sākṣāt pratyakṣa darśi tvāt yasya aśuci rasa ādayaḥ | sva saṃvedyāḥ prasajyante kaḥ nu tam kalpayiṣyati || na ca veda upavedāṅga pratyaṅga ādi artha bodhanam | buddha ādeḥ dṛśyate vākyam sa sarvajñaḥ katham mudhā ||",
+    "english": "If the person has the direct perception of all things, then he should have direct knowledge of such tastes, etc. also as are unclean;—who could assume the existence of such a person?” “As a matter of fact, the words of the Buddha and others are not found to provide any knowledge of what is contained in the Vedas, the Upavedas and the subsidiary sciences and their auxiliaries; how then can such a person be regarded as ‘omniscient’, without reason?”",
+    "morphology": "sākṣāt_sākṣāt_U pratyakṣa_pratyakṣa_Cp darśi_darśin_Cp tvāt_tva_SBNe yasya_yad_SGM aśuci_aśuci_Cp rasa_rasa_MCp ādayaḥ_ādi_PNM  / sva_sva_Cp saṃvedyāḥ_saṃvid_PNMGd prasajyante_prasañj_PPr3InPv kaḥ_ka_SNM nu_nu_U tam_tad_SAM k"
+  },
+  {
+    "index": 12156,
+    "sanskrit": "pitā rakṣati kaumāre bhartā rakṣati yauvane",
+    "english": "In childhood, the sire protects her. The husband protects her in youth. When she becomes old, her sons, protect her.",
+    "morphology": "pitā_pitṛ_SNM rakṣati_rakṣ_SPr3In kaumāre_kaumāra_SLNe bhartā_bhartṛ_SNM"
+  },
+  {
+    "index": 12157,
+    "sanskrit": "rāgānurūpaṃ bhojanādipravṛttiḥ /",
+    "english": "Responses to love etc. are of such nature as eating etc.;",
+    "morphology": "__U __U __U __U __U __U __U"
+  },
+  {
+    "index": 12158,
+    "sanskrit": "yajña aṅgāni ca catvāri tasya saṃhanane abhavan",
+    "english": "The four parts, of which a Sacrifice consists, became the adornments of that bow.",
+    "morphology": "yajña_yajña_MCp aṅgāni_aṅga_PNNe ca_ca_U cahā_catur_PNNe tasya_tad_SGM saṃhanane_saṃhanana_SLNe abhavan_bhū_PPs2In"
+  },
+  {
+    "index": 12159,
+    "sanskrit": "devaiśca ṛṣibhiścaiva brahmaṇā vā mayā tathā | viruddhaṃ kathyate kiṃ nu tvayaiva suvicāryatām ||",
+    "english": "89. May this be pondered over by you yourself. Can anything against you be mentioned by the gods, sages, or Brahmā or by myself?",
+    "morphology": "devaiḥ_deva_PIM ca_ca_ ṛṣibhiḥ_ṛṣi_PIM ca_ca_ eva_eva_ brahmaṇā_brahman_SIM vā_vā_ mayā_mad_SI tathā_tathā_  / viruddham_virudh_SNPaNe kathyate_kathay_SPr3InPv kim_ka_SNNe nu_nu_ tvayā_tvad_SI eva_eva_ su_su_ vicāryatām_vicāray_SPr3"
+  }
+]

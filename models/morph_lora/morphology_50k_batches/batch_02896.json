@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23160,
+    "sanskrit": "punaḥ punas tyāga-cittam abhyastam |",
+    "english": "Again and again he repeats his generosity.",
+    "morphology": "punar_punar_U punar_punar_U"
+  },
+  {
+    "index": 23161,
+    "sanskrit": "kavim śaśāsuḥ kavayaḥ adabdhāḥ ni dhārayantaḥ duryāsu āyoḥ ataḥ tvam dr̥śyān agne etān paṭ bhiḥ paśyeḥ adbhutām aryaḥ evaiḥ",
+    "english": "The undeceived sages instructed the sage (Agni), setting him down in the dwellings of Âyu 1. Hence mayst thou behold, O Agni, with thy eyes 2 these beings visible and secret (that move) on the Arya's ways 3.",
+    "morphology": "kavim_kavi_SAM śaśāsuḥ_śās_PPs3In kavayaḥ_kavi_PNM adabdhāḥ_adabdha_PNM ni_ni_U dhārayantaḥ_dhāray_PNPaPrM duryāsu_durya_PLF āyoḥ_āyu_SGM ataḥ_atas_U tvam_tvad_SN dr̥śyān_drāśya_PAM agne_agni_SVM etān_etad_PAM paṭ_paṣṭ_PI"
+  },
+  {
+    "index": 23162,
+    "sanskrit": "sapta sālambanāścittadhātavaḥ",
+    "english": "The seven dhātus which are mind have an object.",
+    "morphology": "sapta_saptan_PNM"
+  },
+  {
+    "index": 23163,
+    "sanskrit": "tasmādātmana evedaṃ rūpamityeva niścitam | prapaṃcārthaṃ pravakṣyāmi praṇavai kyapradarśanam ||",
+    "english": "51. Hence these are the features of the Ātman alone. I shall now explain then meaning of the creation indicating the identity with the Praṇava.",
+    "morphology": "tasmāt_tasmāt_ ātmanaḥ_ātman_SGM eva_eva_ idam_idam_SNNe rūpam_rūpa_SNNe iti_iti_ eva_eva_ niścitam_niści_SNPaNe  / prapaṃca_prapañca_Cp artham_artha_SAM pravakṣyāmi_pravac_SFu1In praṇava_praṇava_Cp i_i_ kya_kya_Cp pradarśana_pradarśa"
+  },
+  {
+    "index": 23164,
+    "sanskrit": "brāhmaṇānām parīvādam yaḥ kuryāt puruṣa adhamaḥ",
+    "english": "What is stated in this verse is that every Purusha is a duality, made up of Kshara and Akshara.",
+    "morphology": "brāhmaṇānām_brāhmaṇa_PGM parīvādam_parīvāda_SAM yaḥ_yad_SNM kuryāt_kṛ_SPr3O"
+  },
+  {
+    "index": 23165,
+    "sanskrit": "oṃkāraḥ ca mukhe rājan ati śobhā karaḥ abhavat",
+    "english": "And the syllable Om, O king, standing in the van of that car, made it exceedingly beautiful.",
+    "morphology": "oṃkāraḥ_oṃkāra_SNM ca_ca_U mukhe_mukha_SLNe rājan_rājan_SVM ati_ati_U śobhā_śobhā_FCp karaḥ_kara_SNM abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 23166,
+    "sanskrit": "sā asṛjat saurabheyīḥ tu surabhiḥ loka mātaraḥ",
+    "english": "The cow called Surabhi brought forth a number of daughters who came to be regarded as the mothers of the world.",
+    "morphology": "sā_tad_SNF asṛjat_sṛj_SPs3In saurabheyīḥ_saurabheyī_PAF tu_tu_U surabhiḥ_surabhi_SNF"
+  },
+  {
+    "index": 23167,
+    "sanskrit": "daṇḍākṣasūtrakaupīnabhikṣāpātrāṇi rūpiṇe / kajjalaṃ kuṅkumantailaṃ śalākāṃ keśaśodhanīṃ //",
+    "english": "An anchorite’s stick, rosary, loincloth, alms bowl, collyrium, saffron, oil, a small stick for applying the collyrium, comb, betel leaf, and mirror should be offered to the image of the god.",
+    "morphology": "daṇḍa_daṇḍa_Cp akṣasūtra_akṣasūtra_Cp kaupīna_kaupīna_Cp bhikṣā_bhikṣā_Cp pātrāṇi_pātra_PANe rūpiṇe_rūpin_SDM  / kajjalam_kajjala_SANe kuṅkuman_kuṅkuma_SANe tailam_taila_SANe śalākām_śalākā_SAF keśa_keśa_Cp śodha"
+  }
+]

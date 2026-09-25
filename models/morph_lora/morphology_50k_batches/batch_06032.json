@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48248,
+    "sanskrit": "sarva loka mahā iṣvāsau vṛṣabhau sarva dhanvinām āmukta kavacau kṛṣṇau loka madhye virejatuḥ",
+    "english": "Those two foremost of bowmen in all the worlds, those two bulls among all persons armed with the bow, the two Krishnas, clad in mail, are looking exceedingly beautiful.",
+    "morphology": "sarva_sarva_Cp loka_loka_MCp mahā_mahat_Cp iṣvāsau_iṣvāsa_DuNM vṛṣabhau_vṛṣabha_DuNM sarva_sarva_Cp dhanvinām_dhanvin_PGM āmukta_āmuc_PaPsCp kavacau_kavaca_DuNM kṛṣṇau_kṛṣṇa_DuNM loka_loka_MCp madhye_madhya_SLNe virejatuḥ_vi"
+  },
+  {
+    "index": 48249,
+    "sanskrit": "purā sarvam pravyathate mayi kruddhe puraṃdara",
+    "english": "Formerly, O Purandara, on occasions of my wrath everything used to become agitated.",
+    "morphology": "purā_purā_U sarvam_sarva_SNNe pravyathate_pravyath_SPr3In mayi_mad_SL kruddhe_krudh_SLPaPsM"
+  },
+  {
+    "index": 48250,
+    "sanskrit": "rūḍha dhānya aṅkura ākārāḥ śuklāḥ te tanavaḥ tathā",
+    "english": "They are white and small-sized like fresh paddy-sprouts.",
+    "morphology": "rūḍha_ruh_PaPsCp dhānya_dhānya_NeCp aṅkura_aṅkura_MCp ākārāḥ_ākāra_PNM śuklāḥ_śukla_PNM te_tvad_SG tanavaḥ_tanu_PNM tathā_tathā_U"
+  },
+  {
+    "index": 48251,
+    "sanskrit": "kaścidgāndharvikenāḍhyo gītavādyena toṣitaḥ / bhāṇḍāgārikamāhūya tatsamakṣam abhāṣata //",
+    "english": "A certain musician once gave great pleasure to a rich man, by singing and playing before him.",
+    "morphology": "kaścid_kaścit_SNM gāndharvikena_gāndharvika_SINe āḍhyaḥ_āḍhya_SNM gīta_gīta_Cp vādyena_vādya_SINe toṣitaḥ_toṣay_SNPaM  / bhāṇḍāgārikam_bhāṇḍāgārika_SAM āhūya_āhvā_Co tad_tad_Cp samakṣam_samakṣa_SANe abhāṣata_b"
+  },
+  {
+    "index": 48252,
+    "sanskrit": "sa bhṛśam tāḍayan vīraḥ rāvaṇiḥ māyayā āvṛtaḥ",
+    "english": "Indeed, the son of Ravana, concealing himself by his powers of illusion, furiously attacked the monkey host.",
+    "morphology": "sa_tad_SNM bhṛśam_bhṛśam_U tāḍayan_tāḍay_SNPaPrM vīraḥ_vīra_SNM rāvaṇiḥ_rāvaṇi_SNM māyayā_māyā_SIF āvṛtaḥ_āvṛ_SNPaPsM"
+  },
+  {
+    "index": 48253,
+    "sanskrit": "buddho 'pi hi nāma sakalasattvahitaṃ pratipannaḥ parārthaṃ svaprayojanatayaiva saṃpādayati /",
+    "english": "Lord Buddha himself who was bent upon doing good to all embraced altruism as his own interest since to render service to others was his self-interest.",
+    "morphology": "buddhaḥ_buddha_SNM api_api_ hi_hi_ nāma_nāma_ sakala_sakala_Cp sattva_sattva_Cp hitam_hita_SANe pratipannaḥ_pratipad_SNPaM para_para_Cp artham_artha_SAM sva_sva_Cp prayojana_prayojana_Cp tayā_tā_SIF eva_eva_ saṃpādayati_sampāday_SPr3In  /"
+  },
+  {
+    "index": 48254,
+    "sanskrit": "vartamānāni bhūtāni bhaviṣyanti ca yāni tat / jayanti tānyasaṃkhyāni phalāni raghunandana //",
+    "english": "All beings now in being, and those coming into existence in future, are innumerable in their number, and are as the fruits of this tree, growing and blooming and falling off by turns.",
+    "morphology": "vartamānāni_vṛt_PNPaPrNe bhūtāni_bhū_PNPaNe bhaviṣyanti_bhū_PNPaFuNe ca_ca_ yāni_yad_PNNe tat_tad_SNNe  / jayanti_ji_PPr3In tāni_tad_PNNe asaṃkhyāni_asaṃkhya_PNNe phalāni_phala_PNNe raghunandana_raghunandana_SVM  /"
+  },
+  {
+    "index": 48255,
+    "sanskrit": "prāvartata evam yajñaḥ sa pāṇḍavasya mahātmanaḥ pṛthivyām eka vīrasya śakrasya iva triviṣṭape",
+    "english": "Thus commenced on earth the sacrifice of that unrivalled hero, the illustrious son of Pandu, like the sacrifice in heaven of Sakra himself.",
+    "morphology": "prāvartata_pravṛt_SPs3In evam_evam_U yajñaḥ_yajña_SNM sa_tad_SNM pāṇḍavasya_pāṇḍava_SGM mahātmanaḥ_mahātman_SGM pṛthivyām_pṛthivī_SLF eka_eka_Cp vīrasya_vīra_SGM śakrasya_śakra_SGM iva_iva_U triviṣṭape_triviṣṭapa_SLNe"
+  }
+]

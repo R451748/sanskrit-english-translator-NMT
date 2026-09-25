@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48952,
+    "sanskrit": "yaḥ atyanta ācaritām vṛttim kṣatriyaḥ na anuvartate",
+    "english": "That Kshatriya who does not follow the conduct observed from days of old by other Kshatriyas.",
+    "morphology": "yaḥ_yad_SNM atyanta_atyanta_Cp ācaritām_ācar_SAPaPsF vṛttim_vṛtti_SAF kṣatriyaḥ_kṣatriya_SNM na_na_U anuvartate_anuvṛt_SPr3In"
+  },
+  {
+    "index": 48953,
+    "sanskrit": "chinnapakṣasyaiva rājñaś ceṣṭānāśaś ca //",
+    "english": "and like a bird, deprived of its feathers, the king loses his active capacity",
+    "morphology": "chinnapakṣasya_chinnapakṣa_SGM eva_eva_ rājñaḥ_rājan_SGM ca_ca_ iṣṭā_iṣṭā_Cp nāśaḥ_nāśa_SNM ca_ca_  /"
+  },
+  {
+    "index": 48954,
+    "sanskrit": "ityevaṃ vacanaṃ śrutvā kaśyapādyuditaṃ mune | āśvāsayanmunīndevān harirvākyamupādade ||",
+    "english": "21. O sage, on hearing these words of Kaśyapa and others, Viṣṇu consoled the sages and the gods and spoke thus.",
+    "morphology": "iti_iti_ evam_evam_ vacanam_vacana_SANe śrutvā_śru_Co kaśyapa_kaśyapa_Cp ādi_ādi_Cp uditam_vad_SAPaNe mune_muni_SVM  / āśvāsayan_āśvāsay_SNPaPrM munīn_muni_PAM devān_deva_PAM hariḥ_hari_SNM vākyam_vākya_SANe upādade_upādā_SPs3In  /"
+  },
+  {
+    "index": 48955,
+    "sanskrit": "tādātmyaniṣedhe tu sarvasyaiva niṣedhaḥ kāryo dṛṣṭaḥ, tadanyatvena sarvasya",
+    "english": "If sameness were denied, then all would be denied, as has been seen before; because all things become included under ‘what is not that thing which is apprehended’, according to the principle that ‘what is not the same as one thing is another thing (1684 1686)",
+    "morphology": "tādātmya_tādātmya_Cp niṣedhe_niṣedha_SLM tu_tu_ sarvasya_sarva_SGNe eva_eva_ niṣedhaḥ_niṣedha_SNM kāryaḥ_kṛ_SNMGd dṛṣṭaḥ_dṛś_SNPaM tad_tad_Cp anya_anya_Cp tvena_tva_SINe sarvasya_sarva_SGNe"
+  },
+  {
+    "index": 48956,
+    "sanskrit": "evaṃ varṣasahasrāṃte bhramatastasyabhūtalam | viprasya pakṣināthasya varārthāya drijottamāḥ || 25 ||",
+    "english": "25. Thus for a thousand years the Brāhmaṇa and the Lord of birds roamed about the earth for the sake of a suitable bridegroom, O excellent Brāhmaṇas.",
+    "morphology": "evam_evam_ varṣa_varṣa_Cp sahasra_sahasra_Cp ante_anta_SLM bhramataḥ_bhram_SGPaPrM tasya_tad_SGM bhū_bhū_Cp talam_tala_SAM  / viprasya_vipra_SGM pakṣināthasya_pakṣinātha_SGM vara_vara_Cp arthāya_artha_SDM drija_drija_Cp uttamāḥ_uttama_PVM"
+  },
+  {
+    "index": 48957,
+    "sanskrit": "na svid ete 'py ucchiṣṭā iti / na vā ajīviṣyam imān akhādann iti hovāca /",
+    "english": "When he said this, the other man said as follows Are not these also contaminated?He saidNot eating these, would not live;",
+    "morphology": "na_na_ svid_svid_ ete_etad_PNM api_api_ ucchiṣṭāḥ_ucchiṣ_PNPaM iti_iti_  / na_na_ vai_vai_ ajīviṣyam_jīv_SFu1 imān_idam_PAM akhādan_khād_P3ImIn iti_iti_ ha_ha_ uvāca_vac_SPs3In  /"
+  },
+  {
+    "index": 48958,
+    "sanskrit": "evaṃguṇaviśiṣṭaṃ taṃ samālokayato mama / mahotsavena sadṛśī sā babhūva tamasvinī //",
+    "english": "As they were viewing in this manner the beauties of the forest, the night passed away as soon as a night of festivity.",
+    "morphology": "evaṃguṇa_evaṃguṇa_Cp viśiṣṭam_viśiṣ_SAPaM tam_tad_SAM samālokayataḥ_samālokay_SGPaPrM mama_mad_SG  / mahā_mahat_Cp utsavena_utsava_SIM sadṛśī_sadṛśa_SNF sā_tad_SNF babhūva_bhū_SPs3In tamasvinī_tamasvinī_SNF  /"
+  },
+  {
+    "index": 48959,
+    "sanskrit": "samyagjñānaṃ samucchūnaṃ sadaivojjhi'tavāsanam / dhyānaṃ bhavati nirvāṇamānandapadamāgatam //",
+    "english": "Full knowledge of truth, and the renunciation of every desire at all times; lead men to the nirvana meditation, and to the infinite joy of the divine state.",
+    "morphology": "samyak_samyak_ jñānam_jñāna_SNNe samucchūnam_samucchvi_SNPaNe sadā_sadā_ eva_eva_ ujjhita_ujjhita_Cp vāsanam_vāsanā_SNNe  / dhyānam_dhyāna_SNNe bhavati_bhū_SPr3In nirvāṇam_nirvāṇa_SNNe ānanda_ānanda_Cp padam_pada_SANe āgatam_āgam_SNP"
+  }
+]

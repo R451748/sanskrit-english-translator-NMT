@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40672,
+    "sanskrit": "catuskandhāścaturdvārā vibhaktā bhāgaśo 'sitāḥ /",
+    "english": "they have four walls and four gates; they are as high as they are wide;",
+    "morphology": "catur_catur_Cp skandhāḥ_skandha_PNM catur_catur_Cp dvārāḥ_dvāra_PNM vibhaktāḥ_vibhaj_PNPaM"
+  },
+  {
+    "index": 40673,
+    "sanskrit": "yam agne pr̥t su martyam avāḥ vājeṣu yam junāḥ saḥ yantā śaśvatīḥ iṣaḥ",
+    "english": "The mortal, O Agni, whom thou protectest in battles, whom thou speedest in the races 1, he will command constant nourishment:",
+    "morphology": "yam_yad_SAM agne_agni_SVM prāt_prāt_SNM su_su_U martyam_martya_SAM avāḥ_av_SPr2Su vājeṣu_vāja_PLM yam_yad_SAM junāḥ_jū_SPr2Su"
+  },
+  {
+    "index": 40674,
+    "sanskrit": "bhagnaś ca vikramādityaḥ puraṃ pāṭaliputrakam / yayau palāyya tanmitre svaṃ svaṃ deśaṃ ca jagmatuḥ //",
+    "english": "And Vikramāditya, being routed, fled to his city Pāṭaliputra, and his two allies fled to their own countries.",
+    "morphology": "bhagnaḥ_bhañj_SNPaM ca_ca_ vikramādityaḥ_vikramāditya_SNM puram_pura_SANe pāṭaliputrakam_pāṭaliputraka_SANe  / yayau_yā_SPs3In palāyya_palāy_Co tad_tad_Cp mitre_mitra_DuNF svaḥ_sva_SNM svaḥ_sva_SNM deśaḥ_deśa_SNM ca_ca_ jagmatuḥ_g"
+  },
+  {
+    "index": 40675,
+    "sanskrit": "asya vyākhyānam utpādasthitītyādi / yadi hi vastvekamapyutpādādisvabhāvena tryātmakaṃ syāt tadā yugapat parasparavirodhina utpādasthitivināśaḥ prāpnuvanti, naca virodhinām ekatra yugapadbhāvo yuktaḥ, anyathā hi virodhitvam eva na syāt /",
+    "english": "this is explained in what follows ‘Production, Continuance, etc. etc.’ If a single entity had the three aspects of Production and the rest, then it would mean that all these three Production, Continuance and Destruction are there in the thing at one and the same time; and yet it cannot be possible for these mutually contradictory properties to be present in anything at one and the same time; as otherwise, they would not be contradictories at all.",
+    "morphology": "asya_idam_SGM vyākhyānam_vyākhyāna_SNNe utpāda_utpāda_Cp sthiti_sthiti_Cp ityādi_ityādi_SNNe  / yadi_yadi_ hi_hi_ vastu_vastu_SNNe ekam_eka_SNNe api_api_ utpāda_utpāda_Cp ādi_ādi_Cp svabhāvena_svabhāva_SIM tri_tri_Cp ātmakam_ātmaka_SNNe sy"
+  },
+  {
+    "index": 40676,
+    "sanskrit": "viratham tam ratha śreṣṭham dṛṣṭvā ādhirathim āhave duryodhanaḥ tatas rājan abhyabhāṣata durmukham eṣa durmukha rādheyaḥ bhīmena virathīkṛtaḥ",
+    "english": "Beholding that foremost of men, viz., the son of Adhiratha, deprived of his car, Duryodhana, O monarch, said unto (his brother) Durmukha, 'There, O Durmukha, the son of Radha hath been deprived of his car by Bhimasena.",
+    "morphology": "viratham_viratha_SAM tam_tad_SAM ratha_ratha_MCp śreṣṭham_śreṣṭha_SAM dṛṣṭvā_dṛś_Co ādhirathim_ādhirathi_SAM āhave_āhava_SLM duryodhanaḥ_duryodhana_SNM tatas_tatas_U rājan_rājan_SVM abhyabhāṣata_abhibhāṣ_SPs3In durmukham_d"
+  },
+  {
+    "index": 40677,
+    "sanskrit": "bṛhaspatim eva svena bhāgadheyenopa dhāvati sa evāsmin brahmavarcasam |",
+    "english": "verily he has recourse to Brhaspati with his own share; verily he bestows splendour on him [6];",
+    "morphology": "bṛhaspatim_bṛhaspati_SAM eva_eva_ svena_sva_SINe bhāgadheyena_bhāgadheya_SINe upa_upa_ dhāvati_dhāv_SPr3In saḥ_tad_SNM eva_eva_ asmin_idam_SLM brahmavarcasam_brahmavarcasa_SANe"
+  },
+  {
+    "index": 40678,
+    "sanskrit": "krimidantakaḥ | danta harṣaḥ",
+    "english": "Krimi-dantaka:—The disease in which the teeth are eaten into by worms, is called Krimi-dantaka (caries).",
+    "morphology": "krimidantaka_U"
+  },
+  {
+    "index": 40679,
+    "sanskrit": "padaṃ yathaitatsarvātma sarvārthaparivarjitam / yathā tatra ca paśyanti tatraikapariṇāminaḥ //",
+    "english": "Whatever be the nature of the universal soul, it is devoid of all attributes; and in whatever manner it is viewed, it comes at last to mean the self-same unity.",
+    "morphology": "padam_pada_SNNe yathā_yathā_ etat_etad_SNNe sarva_sarva_Cp ātma_ātman_SNNe sarva_sarva_Cp artha_artha_Cp parivarjitam_parivarjay_SNPaNe  / yathā_yathā_ tatra_tatra_ ca_ca_ paśyanti_dṛś_PPr3In tatra_tatra_ eka_eka_Cp pariṇāminaḥ_pariṇāmin_"
+  }
+]

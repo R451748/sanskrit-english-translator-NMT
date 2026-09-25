@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25904,
+    "sanskrit": "bodhisattvaḥ kila sālabakulapiyālahintālatamālanaktamālavidulaniculakṣupabahule siṃśapātiniśaśamīpalāśaśākakuśavaṃśaśaravaṇagahane kadambasarjārjunadhavakhadirakuṭajanicite vividhavallīpratānāvaguṇṭhitabahutaruviṭape rurupṛṣatasṛmaracamaragajagavayamahiṣahariṇanyaṅkuvarāhadvīpitarakṣuvyāghravṛkasiṃharkṣādimṛgavicarite manuṣyasaṃpātavirahite mahatyaraṇyavanapradeśe taptakāñcanojjvalavarṇaḥ sukumāraromā nānāvidhapadmarāgendranīlamarakatavaiḍūryaruciravarṇabinduvidyotitavicitragātraḥ snigdhābhinīlavimalavipulanayano maṇimayairivāparuṣaprabhairviṣāṇakṣurapradeśaiḥ paramadarśanīyarūpo ratnākara iva pādacārī rurumṛgo babhūva /",
+    "english": "One time the Bodhisattva, it is said, lived in the forest as a ruru-deer. He had his residence in a remote part of a large wilderness, far from the paths of men and overgrown with a rich, manifold vegetation. There were a great number of sāls, bakulas, piyālas, hintālas, tamālas, naktamālas, of vidula and nicula reeds and of shrubs; thickets of śimśapās, tiniśas, śamīs, palāśas, śākas, of kuśa-grass, bamboo and reeds encumbered it; kadambas, sarjas, arjunas, dhavas, khadiras, and kutajas abounded in it; and the outstretched branches of many trees were covered as if by a veil with the tendrils of manifold creeping plants. It was the abode of a great many forest-animals: deer of the ruru, pṛṣata and sṛmara varieties, yaks, elephants, gavaya-oxen, buffaloes, antelopes of the harina and the nyanku kind, boars, panthers, hyenas, tigers, wolves, lions, bears, and others. Among them that ruru-deer was conspicuous by its hue brilliant like pure gold and the very soft hair of his body, which was moreover adorned and resplendent with spots of different lovely colours, shining like rubies, sapphires, emeralds, and beryls.",
+    "morphology": "bodhisattvaḥ_bodhisattva_SNM kila_kila_ sāla_sāla_Cp bakula_bakula_Cp piyāla_piyāla_Cp hintāla_hintāla_Cp tamāla_tamāla_Cp naktamāla_naktamāla_Cp vidula_vidula_Cp nicula_nicula_Cp kṣupa_kṣupa_Cp bahule_bahula_SLNe siṃśapā_siṃśapā_Cp"
+  },
+  {
+    "index": 25905,
+    "sanskrit": "saṃvitkacanamevedaṃ yathā bhānaṃ vibhāsate / vyoma vyomani cidrūpaṃ cidrūpe vitatātmani //",
+    "english": "All this is the display of our consciousness, and whatever reflection it exhibits unto us it is but an empty shadow in the hollow of the vacant mind, which resides in the vacuity of the vacuous intellect, that pervades the infinite vacuum of the soul.",
+    "morphology": "saṃvid_saṃvid_SNF kacanam_kacana_SNNe eva_eva_ idam_idam_SNNe yathā_yathā_ bhānam_bhāna_SNNe vibhāsate_vibhās_SPr3In  / vyom_vyoman_SNNe vyomani_vyoman_SLNe cit_cit_Cp rūpam_rūpa_SNNe"
+  },
+  {
+    "index": 25906,
+    "sanskrit": "evaṃ yāvat kāyavijñānasya svamindriyaṃ vaktavyam /",
+    "english": "The same applies to the consciousness of hearing, smell, taste, and touch.",
+    "morphology": "evam_evam_ yāvat_yāvat_ kāya_kāya_Cp vijñānasya_vijñāna_SGNe svam_sva_SNNe indriyam_indriya_SNNe vaktavyam_vac_SNNeGd"
+  },
+  {
+    "index": 25907,
+    "sanskrit": "viśvāsaghātināṃ loke mahākaṣṭaṃ bhavatyaho | na hi mitradruhāṃ pāpaṃ naśyedyajñāyutairapi || 21 ||",
+    "english": "21. Those who are guilty of breach of trust will face great difficulties in the world. The sins of those who are treacherous to friends cannot be destroyed even by means of ten thousand Yajñas.",
+    "morphology": "viśvāsa_viśvāsa_Cp ghātinām_ghātin_PGM loke_loka_SLM mahā_mahat_Cp kaṣṭam_kaṣṭa_SNNe bhavati_bhū_SPr3In aho_aho_  / na_na_ hi_hi_ mitra_mitra_Cp druhām_druh_PGM pāpam_pāpa_SNNe naśyet_naś_SPr3O yajña_yajña_Cp ayutaiḥ_ayuta_PINe ap"
+  },
+  {
+    "index": 25908,
+    "sanskrit": "ṛṣabhagajavilāsitaṃ jñeyā śikhariṇī jagau // rasabhālabhṛgurudrāḥ pṛthvījasajasā janau /",
+    "english": "Ṛṣabhagajavilasita has bha, ra, three nas and ga. The pause is after seventh and ninth syllables. Śikhariṇī has ya, ma, na, sa, bha, la and ga. Pṛthvī consists of ja, sa, ja, sa,ya, la and ga.",
+    "morphology": "__ṛṣabha_U __gaja_U __vilāsita_U __jñā_GdU __śikhariṇī_U __gā_PPs3In  // __rasa_U __bhāla_U __bhṛgu_U __rudra_U __pṛthvī_U __jasa_U __jasa_U __"
+  },
+  {
+    "index": 25909,
+    "sanskrit": "audāsīnyādanicchatvānna bhuṅkte na karoti ca / samagrālokakāritvādbhuṃkte devaḥ karoti ca //",
+    "english": "From its secludedness and nolleity, it neither does nor receives any thing; but its universal pervasion, makes it both the actor and sufferer.",
+    "morphology": "audāsīnyāt_audāsīnya_SBNe anicchatvāt_anicchatva_SBNe na_na_ bhuṅkte_bhuj_SPr3In na_na_ karoti_kṛ_SPr3In ca_ca_  / samagra_samagra_Cp āloka_āloka_Cp kāri_kārin_Cp tvāt_tva_SBNe bhuṅkte_bhuj_SPr3In devaḥ_deva_SNM"
+  },
+  {
+    "index": 25910,
+    "sanskrit": "saṃsāravyavahārotthairāśāpāśairasanmayaiḥ / udgārairiva bhūkāko na vaivaśyaṃ vrajāmyaham //",
+    "english": "We are not led to the snare of false worldly affairs, nor frightened like earthly crows in our hankering after food by the hissings of men.",
+    "morphology": "saṃsāra_saṃsāra_Cp vyavahāra_vyavahāra_Cp utthaiḥ_uttha_PIM āśā_āśā_Cp pāśaiḥ_pāśa_PIM asat_asat_Cp mayaiḥ_maya_PIM  / udgāraiḥ_udgāra_PIM iva_iva_ bhūkākaḥ_bhūkāka_SNM na_na_ vaivaśyam_vaivaśya_SANe"
+  },
+  {
+    "index": 25911,
+    "sanskrit": "keśapakṣa parāmarśe draupadyāḥ dyūta kārite krodhāt yat abruvam ca aham tat ca me hṛdi vartate",
+    "english": "When after the match at dice the tresses of Draupadi were seized, I uttered certain words in rage.",
+    "morphology": "keśapakṣa_keśapakṣa_MCp parāmarśe_parāmarśa_SLM draupadyāḥ_draupadī_SGF dyūta_dyūta_NeCp kārite_kāray_SLPaPsM krodhāt_krodha_SBM yat_yad_SANe abruvam_brū_SPs1In ca_ca_U aham_mad_SN tat_tad_SNNe ca_ca_U"
+  }
+]

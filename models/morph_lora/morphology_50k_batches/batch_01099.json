@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8784,
+    "sanskrit": "ātmavyatiriktakriyākāri pramāṇaṃ kārakatvād vāsyādivad iti /",
+    "english": "“The Means of Cognition must be one that brings about an effect different from itself, because it is an active agent, like the Hatchet, etc.” (1353)",
+    "morphology": "ātma_ātman_Cp vyatirikta_vyatiric_PaCp kriyā_kriyā_Cp kāri_kārin_SNNe pramāṇam_pramāṇa_SNNe kāraka_kāraka_Cp tvāt_tva_SBNe iti_iti_"
+  },
+  {
+    "index": 8785,
+    "sanskrit": "ārujya ārujya tau vṛkṣān anyonyam abhijaghnatuḥ jīmūtau iva gharma ante vinadantau mahā balau babhañjatuḥ mahā vṛkṣān ūrubhiḥ balinām varau",
+    "english": "And repeatedly uprooting trees, those two of mighty strength struck each other, shouting and roaring like two masses of clouds.",
+    "morphology": "ārujya_āruj_Co ārujya_āruj_Co tau_tad_DuNM vṛkṣān_vṛkṣa_PAM anyonyam_anyonya_SAM abhijaghnatuḥ_abhihan_DuPs3In jīmūtau_jīmūta_DuNM iva_iva_U gharma_gharma_MCp ante_anta_SLM vinadantau_vinad_DuNPaPrM mahā_mahat_Cp balau_bala_DuNM babhañ"
+  },
+  {
+    "index": 8786,
+    "sanskrit": "sā jagāmātmasadanaṃ so'tiṣṭhatsvātmanā saha / avahatkramaśaḥ kāla ṛtusaṃvatsarāṅkitaḥ //",
+    "english": "The lotus-eyed dame then retired from him, and went to her abode; and the hermit passed his months, seasons and years in his holy meditation.",
+    "morphology": "sā_tad_SNF jagāma_gam_SPs3In ātma_ātman_Cp sadanam_sadana_SANe saḥ_tad_SNM atiṣṭhat_sthā_S3ImIn sva_sva_Cp ātmanā_ātman_SIM saha_saha_  / avahat_vah_S3ImIn kramaśas_kramaśas_ kālaḥ_kāla_SNM ṛtu_ṛtu_Cp saṃvatsara_saṃvatsara_Cp a"
+  },
+  {
+    "index": 8787,
+    "sanskrit": "viśākhā kṛttikā caiva uttare dve punarvasuḥ / pūrvabhādrapadā caiva ṣaḍete tu tripuṣkarāḥ //",
+    "english": "The asterisms Viśākhā, Kṛttikā, the two Uttarās, Punarvasu and the Pūrvabhādrapada, these six are known to be tripuṣkara.",
+    "morphology": "viśākhā_viśākhā_SNF kṛttikā_kṛttikā_SNF ca_ca_ eva_eva_ uttare_uttara_DuNF dve_dvi_DuNF punarvasuḥ_punarvasu_SNM  / pūrvabhādrapadā_pūrvabhādrapadā_SNF ca_ca_ eva_eva_ ṣaṭ_ṣaṣ_PNM ete_etad_PNM tu_tu_ tri_tri_Cp puṣkarāḥ_pu"
+  },
+  {
+    "index": 8788,
+    "sanskrit": "niṣpetuḥ vimalāḥ śaktyaḥ taila dhautāḥ su tejanāḥ ambudebhyaḥ yathā rājan bhrājamānāḥ śatahradāḥ",
+    "english": "And polished darts of impetuous force, washed with oil, O king, shone like the effulgent flashes of lightning from the clouds.",
+    "morphology": "niṣpetuḥ_niṣpat_PPs3In vimalāḥ_vimala_PNF śaktyaḥ_śakti_PNF taila_taila_NeCp dhautāḥ_dhāv_PNPaPsF su_su_U tejanāḥ_tejana_PNF ambudebhyaḥ_ambuda_PBM yathā_yathā_U rājan_rājan_SVM bhrājamānāḥ_bhrāj_PNPaPrF śatahradāḥ_śata"
+  },
+  {
+    "index": 8789,
+    "sanskrit": "nanu nāsya ślokasyāyam artha pratīyate /",
+    "english": "The meaning assigned to the verse does not appear to be its right meaning at all.",
+    "morphology": "nanu_nanu_ na_na_ asya_idam_SGM ślokasya_śloka_SGM ayam_idam_SNM "
+  },
+  {
+    "index": 8790,
+    "sanskrit": "yadi kāṅkṣanti te rājyam pitṛpaitāmaham punar yathāpratijñam kālam tam carantu vanam āśritāḥ",
+    "english": "If they wish to get back their ancestral throne, they should pass the specified period of time in the forest as had been stipulated.",
+    "morphology": "yadi_yadi_U kāṅkṣanti_kāṅkṣ_PPr3In te_tad_PNM rājyam_rājya_SANe pitṛpaitāmaham_pitṛpaitāmaha_SANe punar_punar_U yathāpratijñam_yathāpratijñam_U kālam_kāla_SAM tam_tad_SAM carantu_car_PPr3Im vanam_vana_SANe āśritāḥ_āśri_PNPaPs"
+  },
+  {
+    "index": 8791,
+    "sanskrit": "māso'yaṃ mādhavonāma vyādha puṇyavivarddhanaḥ | tasminmahyaṃ tvayā datte pāduke tāpanāśane || 36 ||",
+    "english": "O hunter, this month named Mādhava (Vaiśākha) is conducive to the increase of merit. In ṃis month these sandals that destroy the distress resulting from heat (of the sun) have been given to me by you.",
+    "morphology": "māsaḥ_māsa_SNM ayam_idam_SNM mādhavaḥ_mādhava_SNM nāma_nāma_ vyādha_vyādha_SVM puṇya_puṇya_Cp vivarddhanaḥ_vivardhana_SNM  / tasmin_tad_SLM mahyam_mad_SD tvayā_tvad_SI datte_dā_DuNPaF pāduke_pādukā_DuNF tāpa_tāpa_Cp nāśane_nāśa"
+  }
+]

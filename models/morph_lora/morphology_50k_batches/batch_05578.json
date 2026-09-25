@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44616,
+    "sanskrit": "uṣitaṃ girimālāsu bhrāntaṃ sāgarakukṣiṣu / viśrāntaṃ dvīpalekhāsu nilīnaṃ ghanamāliṣu //",
+    "english": "They all remembered their journeys over hills and mountains, as well as their voyages by water and air; they knew how they floated on the seas, and rested on clouds.",
+    "morphology": "uṣitam_vas_SAPaM giri_giri_Cp mālāsu_mālā_PLF bhrāntam_bhram_SAPaM sāgara_sāgara_Cp kukṣiṣu_kukṣi_PLM  / viśrāntam_viśram_SAPaM dvīpa_dvīpa_Cp lekhāsu_lekhā_PLF nilīnam_nilī_SAPaM ghana_ghana_Cp māliṣu_mālin_PLM  /"
+  },
+  {
+    "index": 44617,
+    "sanskrit": "dharme tiṣṭhanti bhūtāni dharmaḥ rājani tiṣṭhati",
+    "english": "All creatures rest upon righteousness. Righteousness, in its turn, rests upon the king.",
+    "morphology": "dharme_dharma_SLM tiṣṭhanti_sthā_PPr3In bhūtāni_bhūta_PNNe dharmaḥ_dharma_SNM rājani_rājan_SLM"
+  },
+  {
+    "index": 44618,
+    "sanskrit": "yuktvāya manasā devānt suvar yato dhiyā divam | bṛhaj jyotiḥ kariṣyataḥ savitā pra suvati tān |",
+    "english": "Yoking with mind the gods, Going to the heaven, the sky, with thought, Those that are to make great light, Savitr instigates.",
+    "morphology": "yuktvāya_yuj_Co manasā_manas_SINe devān_deva_PAM suvar_svar_SANe yataḥ_i_PAPaPrM dhiyā_dhī_SIF divam_div_SAM  / bṛhat_bṛhat_SANe jyotiḥ_jyotis_SANe kariṣyataḥ_kṛ_PAPaFuM savitā_savitṛ_SNM pra_pra_ suvati_sū_SPr3In tān_tad_PAM "
+  },
+  {
+    "index": 44619,
+    "sanskrit": "sadyadviditavedyasya tadajñasyāsadakṣayam / asadyatsaṃprabuddhasya tatsadajñasya susphuṭam //",
+    "english": "That undecaying One which is known as true reality, to the knower of the knowable (i.e. to him who knows the truth), and what is understood as unreal by the enlightened sage, is believed to be true by the ignorant.",
+    "morphology": "sat_as_SNPaPrNe yat_yad_SNNe vidita_vid_PaCp vedyasya_vid_SGMGd tat_tad_SNNe ajñasya_ajña_SGM asat_asat_SNNe akṣayam_akṣaya_SNNe  / asat_asat_SNNe yat_yad_SNNe saṃprabuddhasya_samprabudh_SGPaM tat_tad_SNNe sat_as_SNPaPrNe ajñasya_ajña_SGM su_su_ "
+  },
+  {
+    "index": 44620,
+    "sanskrit": "yathā śabarāṇāṃ kirātānām anyeṣāṃ vāntyānām /",
+    "english": "To this class belong the languages of such lowborn tribes as the Śabara, the Kirāta, and so forth.",
+    "morphology": "yathā_yathā_ śabarāṇām_śabara_PGM kirātānām_kirāta_PGM anyeṣām_anya_PGM vā_vā_ antyānām_antya_PGM  /"
+  },
+  {
+    "index": 44621,
+    "sanskrit": "novedastvāmīśa sākṣāddhivedano vā viṣṇurnovidhātā'khilasya | no yogīṃdrāneṃdramukhyāśca devā bhakto veda tvāmatastvāṃ prapadye || 31 ||",
+    "english": "131. The Vedas do not comprehend you directly, O īśa; nor Viṣṇu, nor the Creator of all, nor the leading Yogins, nor Devas, the chief of whom is Indra; but a devotee comprehends. Hence I resort to you.",
+    "morphology": "na_na_ u_u_ vedaḥ_vid_SPs2InTh tvām_tvad_SA īśa_īśa_SVM sākṣāt_sākṣāt_ hi_hi_ vedanaḥ_vedana_SNM vā_vā_ viṣṇuḥ_viṣṇu_SNM naḥ_mad_PG vidhātā_vidhātṛ_SNM akhilasya_akhila_SGNe  / naḥ_mad_PG yogi_yogin_Cp iṃdra_indra_Cp"
+  },
+  {
+    "index": 44622,
+    "sanskrit": "śrī nārada uvāca iti śrutvākrūra mukhāt śrī kṛṣṇo bhagavān hariḥ ardham rājyam pāṇòavebhyaḥ kauravāṇām balād dadau",
+    "english": "Śrī Nārada said: After hearing this from Akrūra's mouth, Lord Kṛṣṇa, the Supreme Personality of Godhead, forced the Kauravas to give half their kingdom to the Pāṇòavas.",
+    "morphology": "śrī_śrī_FCp nāradaḥ_nārada_SNM uvāca_vac_SPs3In iti_iti_U śrutvā_śru_Co akrūra_akrūra_Cp mukhāt_mukha_SBNe śrī_śrī_FCp kṛṣṇaḥ_kṛṣṇa_SNM bhagavān_bhagavant_SNM hariḥ_hari_SNM ardham_ardha_SANe rājyam_rājya_SANe pāṇò"
+  },
+  {
+    "index": 44623,
+    "sanskrit": "natvā stutvā karau baddhvā mahābhaktisamanvitau | avocetāṃ samabhyarcya śaṃkaraṃ lokaśaṃkaram ||",
+    "english": "53. Bowing to and eulogising Śiva, the benefactor of the worlds, the couple endowed with great devotion spoke to him after worshipping him.",
+    "morphology": "natvā_nam_Co stutvā_stu_Co karau_kara_DuAM baddhvā_bandh_Co mahā_mahat_Cp bhakti_bhakti_Cp samanvitau_samanvita_DuNM  / avocetām_vac_DuPs3InTh samabhyarcya_samabhyarcay_Co śaṃkaram_śaṃkara_SAM loka_loka_Cp śaṃkaram_śaṃkara_SAM  /"
+  }
+]

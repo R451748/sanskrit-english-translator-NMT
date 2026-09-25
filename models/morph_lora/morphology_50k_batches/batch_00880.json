@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7032,
+    "sanskrit": "mohayām āsa tad kālam aśvasenaḥ tu amucyata",
+    "english": "During those few moments, Aswasena succeeded in effecting his escape.",
+    "morphology": "mohayām_mṛ_SPs3In"
+  },
+  {
+    "index": 7033,
+    "sanskrit": "tatheti kāmaṃ pratiśuśruvānraghoryathāgataṃ mātalisārathiryayau / nṛpasya nātipramanāḥ sadogṛhaṃ sudakṣiṇāsūnurapi nyavartata // Ragh(K)_3.67 // tamabhyanandatprathamaprabodhitaḥ prajeśvaraḥ śāsanahāriṇā hareḥ /",
+    "english": "Having promised to grant the wish of Raghu, with the words 'so it shall be', Indra (lit. the god having Màtali for his charioteer) went his way; and the son of Sudakshina too, not much pleased at heart, returned to the council-hall of the king. The lord of men, already informed by the messenger of Indra, warmly received him touching his body marked with the wound of the thunderbolt, with a hand benumbed with joy.",
+    "morphology": "tathā_tathā_ iti_iti_ kāmam_kāma_SAM pratiśuśruvāḥ_pratiśru_SNPaPsM raghoḥ_raghu_SGM yathāgatam_yathāgata_SAM mātali_mātali_Cp sārathiḥ_sārathi_SNM yayau_yā_SPs3In  / nṛpasya_nṛpa_SGM na_na_ ati_ati_ pramanāḥ_pramanas_SNM sadog"
+  },
+  {
+    "index": 7034,
+    "sanskrit": "catuṣpādaṃ dhanurvedaṃ sāṃgopāṃgamadhītavān | pitā tenātibalinā durādharṣaḥ parairabhūt || 37 ||",
+    "english": "37. He learned the science of archery consisting of four divisions along with their ancillary subjects and subsidiary activities. Thanks to that powerful son, the father became extremely invincible to enemies.",
+    "morphology": "catuṣpādam_catuṣpāda_SAM dhanurvedam_dhanurveda_SAM sa_sa_ aṃga_aṅga_Cp upāṃgam_upāṅga_SAM adhītavān_adhī_SNPaM  / pitā_pitṛ_SNM tena_tad_SIM ati_ati_ balinā_balin_SIM durādharṣaḥ_durādharṣa_SNM"
+  },
+  {
+    "index": 7035,
+    "sanskrit": "apibat pāṇim indrasya sa ca api ahnā abhyavardhata",
+    "english": "The boy continued to suck the hand of Indra and by that means to grow.",
+    "morphology": "apibaḥ_pā_SPs3In_SPs3In"
+  },
+  {
+    "index": 7036,
+    "sanskrit": "vimuñcan viśikhān tīkṣṇān ācāryam chādayan bhṛśam mahā meghaḥ yathā varṣam vimuñcan gandhamādane",
+    "english": "Shooting many keen shafts, he greatly afflicted the preceptor, like a mighty mass of clouds pouring torrents of rain on the mountain of Gandhamadana.",
+    "morphology": "vimuñcan_vimuc_SNPaPrM viśikhān_viśikha_PAM tīkṣṇān_tīkṣṇa_PAM ācāryam_ācārya_SAM chādayan_chāday_SNPaPrM bhṛśam_bhṛśam_U mahā_mahat_Cp meghaḥ_megha_SNM yathā_yathā_U varṣam_varṣa_SAM"
+  },
+  {
+    "index": 7037,
+    "sanskrit": "sātyakeḥ tu dhanuḥ chittvā dhvajam ca puruṣa ṛṣabhaḥ atha enam navabhiḥ bāṇaiḥ ājaghāna stanāntare",
+    "english": "Cutting off the bow of Satyaki, as also his standard, O bull of Bharata's race, Karna pierced Satyaki himself with nine shafts in the centre of the chest.",
+    "morphology": "sātyakeḥ_sātyaki_SGM tu_tu_U dhanuḥ_dhanus_SANe chittvā_chid_Co dhvajam_dhvaja_SAM ca_ca_U puruṣa_puruṣa_MCp ṛṣabhaḥ_ṛṣabha_SNM atha_atha_U enam_enad_SAM navabhiḥ_navan_PIM bāṇaiḥ_bāṇa_PIM ājaghāna_āhan_SPs3In stanāntare_"
+  },
+  {
+    "index": 7038,
+    "sanskrit": "ghṛṣṭeṣu danta mūleṣu saṃrambhaḥ jāyate mahān",
+    "english": "Upakusha:— The disease in which the gums become marked by a burning sensation and suppuration and the teeth become loose and shaky (in their gums) in consequence and bleed at the least shaking, is called Upakusha.",
+    "morphology": "ghṛṣṭeṣu_ghṛṣ_PLPaPsNe"
+  },
+  {
+    "index": 7039,
+    "sanskrit": "tadvyatiriktāstu dravyaguṇaśabdāḥ vijñāyadvitīyādhyāyasya prathamaḥ pāda /",
+    "english": "serves as the means of the cognition of the Apurva and then all relationship is preceded by a certain want on the part of the members related this want is found to emanate from words signifying Bhāva action, and from those signifying Substance or Property and for this reason the Bhavana of the Apurva is recognised from the verbal conjugational affixes and in this that which is signified by the verbal root is cognised, through proximity, to be the Instrument in the fulfilment of the main Result.",
+    "morphology": "tad_tad_Cp vyatiriktāḥ_vyatiric_PNPaM tu_tu_ dravya_dravya_Cp guṇa_guṇa_Cp śabdāḥ_śabda_PNM  /"
+  }
+]

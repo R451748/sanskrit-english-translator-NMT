@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40752,
+    "sanskrit": "asti karma ktam upacitaṃ ca,",
+    "english": "this is the deed that is accumulated when done,",
+    "morphology": "asti_as_SPr3In karma_karman_SNNe kﾱḥ_kṛ_SNPaNe upacitaḥ_upaci_SNPaNe ca_ca_"
+  },
+  {
+    "index": 40753,
+    "sanskrit": "anyasyāmabhiśaṅkī syāt bhūyastāṃ bahu manyate | evaṃ bhāvaśivatvo'mūṃ prasiddhiṃ manyate dhruvam | |",
+    "english": "Wherever there is the scope for intervention of anyone else, the follower takes it for granted. On account of the probability of attaining Siva-hood through it, the individual takes it for granted.",
+    "morphology": "anyasyām_anya_SLF abhiśaṅkī_abhiśaṅkin_SNM syāt_as_SPr3O bhūyas_bhūyas_ tām_tad_SAF bahu_bahu_SANe manyate_man_SPr3In  / evam_evam_ bhāva_bhāva_Cp śiva_śiva_Cp tvaḥ_tva_SNM amūm_adas_SAF prasiddhim_prasiddhi_SAF manyate_man_SPr3In dhruva"
+  },
+  {
+    "index": 40754,
+    "sanskrit": "yājñavalkya uvāca | tathāpi deva me śuddhirhṛdayasya na jāyate | tasmādvada suraśreṣṭha prāyaścittaṃ viśuddhaye || 3 ||",
+    "english": "Yājñavalkya said: 3. Still, O Lord, my heart does not feel pacified. Hence, O most excellent one among Suras, prescribe the requisite expiatory rite.",
+    "morphology": "yājñavalkyaḥ_yājñavalkya_SNM uvāca_vac_SPs3In  / tathā_tathā_ api_api_ deva_deva_SVM me_mad_SG śuddhiḥ_śuddhi_SNF hṛdayasya_hṛdaya_SGNe na_na_ jāyate_jan_SPr3In  / tasmāt_tasmāt_ vada_vad_SPr2Im suraśreṣṭha_suraśreṣṭha_SVM pr"
+  },
+  {
+    "index": 40755,
+    "sanskrit": "bhū bhāram āhartum alam yadoḥ kule jātau yuvām pūrṇatamau pareśvaraunamo yuvābhyām mama dīna dīnaṃ gṛham gatābhyām jagad īśvarau parau",
+    "english": "You are both the perfect Supreme Personality of Godhead, who have taken birth in King Yadu's dynasty to remove the earth's burden. I offer my respectful obeisances to You, the two controllers of all the worlds, who have now come to my very poor home.",
+    "morphology": "bhū_bhū_FCp bhāram_bhāra_SAM āhartum_āhṛ_In alam_alam_U yadoḥ_yadu_SGM kule_kula_SLNe jātau_jan_DuNPaPsM yuvām_tvad_DuN pūrṇatamau_pūrṇatama_DuNM para_para_Cp īśvarau_īśvara_DuNM namaḥ_namas_SNNe yuvābhyām_tvad_DuI mama_mad_SG dī"
+  },
+  {
+    "index": 40756,
+    "sanskrit": "saṃvāde paruṣāṇi āhuḥ yudhiṣṭhira nara adhamāḥ",
+    "english": "O Yudhishthira, it is only the worst of men that utter harsh words in quarrelling;",
+    "morphology": "saṃvāde_saṃvāda_SLM paruṣāṇi_paruṣa_PANe āhuḥ_ah_PPs3In yudhiṣṭhira_yudhiṣṭhira_MCp nara_nara_MCp adhamāḥ_adhama_PNM"
+  },
+  {
+    "index": 40757,
+    "sanskrit": "yat-tad-āryā ācakṣate:",
+    "english": "about which the Noble Ones declare:",
+    "morphology": "yat_yad_SANe tat_tad_SANe āryāḥ_ārya_PNM ācakṣate_ācakṣ_PPr3In"
+  },
+  {
+    "index": 40758,
+    "sanskrit": "pāṇḍu āmaya śvāsa śiraḥ vikārān hṛd roga hikkā viṣamajvarān ca",
+    "english": "It conquers cases of phthisis, Grahani edema, dulness of appetite, hoarseness of voice, cough, Pandu, asthma, head-ache (Shiroroga), Hrid-roga (diseases of the heart), hiccough and Vishama Jvara.",
+    "morphology": "pāṇḍu_pāṇḍu_Cp āmaya_āmaya_MCp śvāsa_śvāsa_MCp śiraḥ_śiras_NeCp vikārān_vikāra_PAM hṛd_hṛd_NeCp roga_roga_MCp hikkā_hikkā_FCp viṣamajvarān_viṣamajvara_PAM ca_ca_U"
+  },
+  {
+    "index": 40759,
+    "sanskrit": "tasya kāmavacaratvam /",
+    "english": "‘This mind is of the sphere of Kāmadhātu because a craving of the order of Kāmadhātu is produced with regard to it in a person who intends to speak of this mind as belonging to another, or who remembers having possessed it previously, or who sees magic creations.",
+    "morphology": "tasya_tad_SGM kāma_kāma_Cp avacara_avacara_Cp tvam_tva_SNNe"
+  }
+]

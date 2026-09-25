@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42872,
+    "sanskrit": "iha ced labhyate lakṣyam kṛtsnān jeṣyāmahe parān",
+    "english": "If this object of our aim can be struck down, we can then vanquish all our foes.",
+    "morphology": "iha_"
+  },
+  {
+    "index": 42873,
+    "sanskrit": "jitam tvām manyate sādho tena asi hariṇaḥ kṛśaḥ",
+    "english": "It is for this that thou art pale and lean.",
+    "morphology": "jitam_ji_SAPaPsM tvām_tvad_SA manyate_man_SPr3In sādho_sādhu_SVM"
+  },
+  {
+    "index": 42874,
+    "sanskrit": "tvam naḥ gatiḥ mahā rājan iti vajrī avadat muhur tam sāntvena nṛpam sākṣāt tapasaḥ saṃnyavartayat",
+    "english": "The celestials, becoming objects of his sight, by soft speeches succeeded in winning him away from his ascetic austerities.' \"The gods said, 'O lord of the earth, thou shouldst take care so that virtue may not sustain a diminution on earth! Protected by thee, virtue itself will in return protect the universe.' And Indra said, 'O king, protect virtue on earth attentively and rigidly.",
+    "morphology": "tvam_tvad_SN naḥ_mad_PG gatiḥ_gati_SNF mahā_mahat_Cp rājan_rājan_SVM iti_iti_U vajrī_vajrin_SNM avadat_vad_SPs3In muhur_muhur_U tam_tad_SAM sāntvena_sāntva_SINe nṛpam_nṛpa_SAM sākṣāt_sākṣāt_U"
+  },
+  {
+    "index": 42875,
+    "sanskrit": "bhūri dāḥ hi asi śrutaḥ puru trā śūra vr̥tra han ā naḥ bhajasva rādhasi",
+    "english": "O Vr̥itra-slayer, thou art famed in many a place as bountiful Hero, thy bounty let us share.",
+    "morphology": "bhūri_bhūri_Cp dāḥ_dā_SNM hi_hi_U asi_as_SPr2In śrutaḥ_śru_SNPaPsM puru_puru_Cp trā_trā_U śūra_śūra_SVM vrā_vrā_SIF"
+  },
+  {
+    "index": 42876,
+    "sanskrit": "prajāpatis tvā sādayatu pṛthivyāḥ pṛṣṭhe vyacasvatīm prathasvatīm pratho 'si pṛthivy asi bhūr asi bhūmir asy aditir asi viśvadhāyā viśvasya bhuvanasya dhartrī pṛthivīṃ yacha pṛthivīṃ dṛṃha pṛthivīm mā hiṃsīr viśvasmai prāṇāya vyānāyodānāya pratiṣṭhāyai |",
+    "english": "May Prajapati seat thee on the back of earth, capacious, extending; thou art extent, thou art earth, thou art the world, thou art the earth, thou art Aditi all-sustaining, sustainer of all the world; sustain the earth, make firm the earth, harm not the earth, for all expiration, cross-breathing, up-breathing, for support [1], for motion;",
+    "morphology": "prajāpatiḥ_prajāpati_SNM tvā_tvad_SA sādayatu_sāday_SPr3Im pṛthivyāḥ_pṛthivī_SGF pṛṣṭhe_pṛṣṭha_SLNe vyacasvatīm_vyacasvat_SAF prathasvatīm_prathasvat_SAF prathaḥ_prathas_SNNe asi_as_SPr2In pṛthivī_pṛthivī_SNF asi_as_SPr"
+  },
+  {
+    "index": 42877,
+    "sanskrit": "saṃyuktā dharmacaritaiḥ sā jñeyā daśabhiḥ punaḥ //",
+    "english": "\"And it is to be known as connected with ten acts of Dharma.\"b.",
+    "morphology": "saṃyuktā_saṃyuj_SNPaF dharma_dharma_Cp caritaiḥ_carita_PINe sā_tad_SNF jñeyā_jñā_SNFGd daśabhiḥ_daśan_PIF punar_punar_"
+  },
+  {
+    "index": 42878,
+    "sanskrit": "nanu darśapūrṇamāsayoreva prakaraṇamiti mahāprakaragāgrastatvānnaivāvāntara prakaraṇānyāvirbhavanti naitadevam",
+    "english": "Reply It is not so, because in all cases, there are as many processes as there are verbs and there is no obstacle in the way of the Process, put by the Primo Context,etc. and as a matter of fact, neither the contin gency of another Context, nor the Preparatory Rite, can ever set aside the Process. the same manner, the subsidiary Bhavanas, though complete within them selves, become connected with the final Bhavana of the DurçaPurna māsa and they do not, by this subservience to it, lose their own peculiar characteristics.",
+    "morphology": "nanu_nanu_ darśa_darśa_Cp pūrṇamāsayoḥ_pūrṇamāsa_DuGM eva_eva_ prakaraṇam_prakaraṇa_SNNe iti_iti_ mahā_mahat_Cp prakaragā_prakaragā_Cp grasta_gras_PaCp tvāt_tva_SBNe na_na_ eva_eva_ avāntara_avāntara_Cp prakaraṇāni_prakaraṇa_PNNe"
+  },
+  {
+    "index": 42879,
+    "sanskrit": "ākṛṣṇena imaṃ devā agnirmūrdhā divaḥ kakut / udbuddhyasveti ca ṛco yathāsaṅkhyaṃ prakīrtitāḥ //",
+    "english": "Caru should be offered to each god along with the sacred syllables as follows ā kṛṣṇena imaṃ devā, agnirmūrddhā divaḥ kakut and udbudhyasva are said to be the syllables in order.",
+    "morphology": "ākṛṣṇena_ākṛṣṇa_SIM imam_idam_SAM devāḥ_deva_PNM agniḥ_agni_SNM mūrdhā_mūrdhan_SNM divaḥ_div_SGM kakud_kakud_SNF  / udbuddhyasva_udbudh_SPr2ImPv iti_iti_ ca_ca_ ṛcaḥ_ṛc_PNF "
+  }
+]

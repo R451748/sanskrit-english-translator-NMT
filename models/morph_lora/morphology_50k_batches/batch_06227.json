@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49808,
+    "sanskrit": "na ime bāṇāḥ tariṣyanti mām alarka katham cana",
+    "english": "'These arrows will not, O Alarka, cross through me at all.",
+    "morphology": "na_na_U ime_idam_PNM bāṇāḥ_bāṇa_PNM tariṣyanti_tṛ_PFu3In"
+  },
+  {
+    "index": 49809,
+    "sanskrit": "daśavarṣasahasrāṇi daśavarṣaśatāni ca / bhasmasārabharāpūrṇāṃ saṃsmarāmi dharāmadhaḥ //",
+    "english": "I remember also the earth under me, to have been full of ashes for a period of myriads and centuries of years.",
+    "morphology": "daśa_daśan_Cp varṣa_varṣa_Cp sahasrāṇi_sahasra_PANe daśa_daśan_Cp varṣa_varṣa_Cp śatāni_śata_PANe ca_ca_  / bhasma_bhasman_Cp sāra_sāra_Cp bhara_bhara_Cp āpūrṇām_āp￞_SAPaF saṃsmarāmi_saṃsmṛ_SPr1In dharām_dharā_SAF adhas"
+  },
+  {
+    "index": 49810,
+    "sanskrit": "prakaraṇena dvitīyādhyāyasya dvitīya pāda /",
+    "english": "C What concerns us now is the meeting of the objection with reference to the Soma as it is with reference to this alone that the objection has been levelled against us.",
+    "morphology": "prakaraṇena_prakaraṇa_SINe dvitīya_dvitīya_Cp adhyāyasya_adhyāya_SGM dvitīya_dvitīya_Cp pāda_pāda_SVM "
+  },
+  {
+    "index": 49811,
+    "sanskrit": "yo revān yo amīvahā vasuvit puṣṭivardhanaḥ / sa naḥ siṣaktu yas turaḥ //",
+    "english": "The rich, the healer of disease, who findeth wealth, increaseth store, The prompt,—may he be with us still. 30",
+    "morphology": "yaḥ_yad_SNM revān_revat_SNM yaḥ_yad_SNM amīva_amīva_Cp hā_han_SNM vasu_vasu_Cp vid_vid_SNM puṣṭi_puṣṭi_Cp vardhanaḥ_vardhana_SNM  / sa_tad_SNM naḥ_mad_PA siṣaktu_sac_SPr3Im yaḥ_yad_SNM turaḥ_tura_SNM  /"
+  },
+  {
+    "index": 49812,
+    "sanskrit": "pra su stomam bharata vāja yantaḥ indrāya satyam yadi satyam asti na indraḥ asti iti nemaḥ oṁ iti tvaḥ āha kaḥ īm dadarśa kam abhi stavāma",
+    "english": "Striving for strength bring forth a laud to Indra, a truthful hymn if he in truth existeth.",
+    "morphology": "pra_pra_U su_su_U stomam_stoma_SAM bharata_bhṛ_PPr2Im vāja_vāja_MCp yantaḥ_i_PNPaPrM indrāya_indra_SDM satyam_satya_SAM yadi_yadi_U satyam_satya_SNNe asti_as_SPr3In na_na_U indraḥ_indra_SNM asti_as_SPr3In iti_iti_U nemaḥ_nema_SNM oṁ_oṃ_U iti"
+  },
+  {
+    "index": 49813,
+    "sanskrit": "aśvam na gūl̥ham aśvinā duḥ evaiḥ r̥ṣim narā vr̥ṣaṇā rebham ap su sam tam riṇīthaḥ vi prutam daṁsaḥ bhiḥ na vām jūryanti pūrvyā kr̥tāni",
+    "english": "Rebha the sage, ye mighty Heroes, Aṣvins! whom, like a horse, vile men had sunk in water,– Him, wounded, with your wondrous power ye rescued: your exploits of old time endure for ever.",
+    "morphology": "aśvam_aśva_SAM na_na_U gūl̥ham_gūl̥ha_SAM aśvinā_aśvin_DuVM duḥ_dā_PPs3 evaiḥ_eva_PIM r̥ṣim_rṣi_SAM narā_nṛ_DuVM vr̥ṣaṇā_vr̥ṣan_DuVM rebham_rebha_SAM ap_ap_SANe su_su_U sam_sam_U tam_tad_SAM riṇīthaḥ_ri_DuPr2In vi_vi_U p"
+  },
+  {
+    "index": 49814,
+    "sanskrit": "evam eva hate karṇe sa anubandhe durātmani vardhayiṣyāmi bhūyas tvām vijita arim hata dviṣam",
+    "english": "Thus shall I applaud thee again after Karna of wicked soul has been slain along with his followers.",
+    "morphology": "evam_evam_U eva_eva_U hate_han_SLPaPsM karṇe_karṇa_SLM sa_sa_U anubandhe_anubandha_SLM durātmani_durātman_SLM vardhayiṣyāmi_vardhay_SFu1In bhūyas_bhūyas_U tvām_tvad_SA vijita_viji_PaPsCp arim_ari_SAM hata_han_PaPrCp dviṣam_dviṣ_SAM"
+  },
+  {
+    "index": 49815,
+    "sanskrit": "vapanti marutaḥ miham pra vepayanti parvatān yat yāmam yānti vāyu bhiḥ",
+    "english": "The Maruts scatter mist abroad, They make the mountain ridges quake, When with the winds they go their way.",
+    "morphology": "vapanti_vap_PPr3In marutaḥ_marut_PNM miham_mih_SAF pra_pra_U vepayanti_vepay_PPr3In parvatān_parvata_PAM yat_yat_U yāmam_yāma_SAM yānti_yā_PPr3In vāyu_vāyu_PIM"
+  }
+]

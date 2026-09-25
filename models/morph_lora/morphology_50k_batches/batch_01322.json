@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10568,
+    "sanskrit": "prādurbhūtaḥ saṃjaya tat na sādhu",
+    "english": "This is not right, O Sanjaya.",
+    "morphology": "prādurbhūtaḥ_prādurbhū_SNPaPsM"
+  },
+  {
+    "index": 10569,
+    "sanskrit": "marīceḥ kaśyapaḥ putraḥ kaśyapasya sura asurāḥ",
+    "english": "\"And the son of Marichi is Kasyapa. And Kasyapa's offspring are the gods and the Asuras.",
+    "morphology": "marīceḥ_marīci_SBM kaśyapaḥ_kaśyapa_SNM putraḥ_putra_SNM kaśyapasya_kaśyapa_SGM sura_sura_MCp asurāḥ_asura_PNM"
+  },
+  {
+    "index": 10570,
+    "sanskrit": "iti / evaṃ sati maunādīnāṃ vāgādidamanahetutvādyathā daṇḍatvaṃ tathaivājñāna tatkāryadamanahetorjñānasya daṇḍatvam /",
+    "english": "Therefore, as observance of silence etc. are called the staff because of their being the cause of control of speech etc., so the knowledge — which is the cause of controlling ignorance and its effects is considered a staff.",
+    "morphology": "iti_iti_  / evam_evam_ sati_as_SLPaPrNe mauna_mauna_Cp ādīnām_ādi_PGM vāc_vāc_Cp ādi_ādi_Cp damana_damana_Cp hetu_hetu_Cp tvāt_tva_SBNe yathā_yathā_ daṇḍa_daṇḍa_Cp tvam_tva_SNNe tathā_tathā_ eva_eva_ ajñāna_ajñāna_SVM tad_tad_Cp k"
+  },
+  {
+    "index": 10571,
+    "sanskrit": "abhyāsa ghātī saṃdṛśyaḥ durjayaḥ sarva rājabhiḥ bhīma arjunābhyām yodhābhyām āsthitaḥ kṛṣṇasārathiḥ",
+    "english": "And that best of cars, incapable of being vanquished by any king, ridden in by those warriors Bhima and Arjuna, and driven by Krishna, looked exceedingly handsome.",
+    "morphology": "abhyāsa_abhyāsa_MCp ghātī_ghātin_SNM saṃdṛśyaḥ_saṃdṛś_SNMGd durjayaḥ_durjaya_SNM sarva_sarva_Cp rājabhiḥ_rājan_PIM bhīma_bhīma_Cp arjunābhyām_arjuna_DuIM yodhābhyām_yodha_DuIM āsthitaḥ_āsthā_SNPaPsM kṛṣṇasārathiḥ_"
+  },
+  {
+    "index": 10572,
+    "sanskrit": "camatkārapure vipraḥ purāsītsaṃśitavrataḥ | caṃḍaśarmeti vikhyāto rūpaudāryaguṇānvitaḥ || 2 ||",
+    "english": "Formerly there was a Brāhmaṇa of esteemed religious rites in Camatkārapura city. He was well-known as Caṇḍaśarman. He was blessed with handsome features and good qualities like liberal-mindedness.",
+    "morphology": "camatkāra_camatkāra_Cp pure_pura_SLNe vipraḥ_vipra_SNM purā_purā_ āsīt_as_S3ImIn saṃśita_saṃśita_Cp vrataḥ_vrata_SNM  / caṃḍaśarmā_caṇḍaśarman_SNM iti_iti_ vikhyātaḥ_vikhyā_SNPaM rūpa_rūpa_Cp audārya_audārya_Cp guṇa_gu"
+  },
+  {
+    "index": 10573,
+    "sanskrit": "adyaitānvivaśānhatvā saha devaiḥ savāsavaiḥ | bhārgavaṃ mocayiṣyāmi jīvaṃ yogīva karmataḥ || 51 ||",
+    "english": "51. Today I shall kill these helpless ones along with the Devas including Indra and release Bhārgava like a Yogin who releases the individual soul from the bondage of karmas.",
+    "morphology": "adya_adya_ etān_etad_PAM vivaśān_vivaśa_PAM hatvā_han_Co saha_saha_ devaiḥ_deva_PIM sa_sa_ vāsavaiḥ_vāsava_PIM  / bhārgavam_bhārgava_SAM mocayiṣyāmi_mocay_SFu1In jīvam_jīva_SAM yogī_yogin_SNM iva_iva_ karmataḥ_karman_SBNe  /"
+  },
+  {
+    "index": 10574,
+    "sanskrit": "nāvaḥ sahasraśas tatra ratna pūrṇāḥ samantataḥ",
+    "english": "And there (were seen) all around barks by thousands filled with gems.",
+    "morphology": "nāvaḥ_nau_PNF sahasraśas_sahasraśas_ tatra_tatra_ ratna_ratna_NeCp pūrṇāḥ_pṛ_PNPaPsF"
+  },
+  {
+    "index": 10575,
+    "sanskrit": "daduḥ vāsāṃsi me anyāni tat ca duḥkhataram mama",
+    "english": "That also is my great sorrow.",
+    "morphology": "daduḥ_dā_PPs3In vāsāṃsi_vāsas_PANe me_mad_SD anyāni_anya_PANe tat_tad_SNNe ca_ca_U duḥhataram_duḥhatara_SNNe mama_mad_SG"
+  }
+]

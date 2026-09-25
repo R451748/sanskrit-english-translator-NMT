@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9472,
+    "sanskrit": "kāmadhātāvakuśalāḥ / tatrāpi trayo dvidhā",
+    "english": "In Kāmadhātu, they are of two types; the others are bad;",
+    "morphology": "kāmadhātau_kāmadhātu_SLM akuśalāḥ_akuśala_PNM  / tatra_tatra_ api_api_ trayaḥ_tri_PNM dvidhā_dvidhā_"
+  },
+  {
+    "index": 9473,
+    "sanskrit": "vṛndāvanam ca pulinaṃ vanāny upavanāni capaśyan gopī gaṇaiḥ sārdhaṃ girim govardhanam yayau",
+    "english": "Gazing at Vṛndāvana forest, the Yamunā's shore, and many forests and gardens as They went, Śrī Kṛṣṇa and the gopīs came to Govardhana Hill.",
+    "morphology": "vṛndāvanam_vṛndāvana_SANe ca_ca_ pulinam_pulina_SANe vanāni_vana_PANe upavanāni_upavana_PANe ca_ca_ paśyan_paś_SNPaPrM gopī_gopin_SNM gaṇaiḥ_gaṇa_PIM sārdham_sārdham_ girim_giri_SAM govardhanam_govardhana_SAM yayau_yā_SPs3In"
+  },
+  {
+    "index": 9474,
+    "sanskrit": "trivedyapi ca no mānyaḥ sarvabhuksarvavikrayī | savitā devatā yasyā mukhamagnistripācca yā || 31 ||",
+    "english": "131a. A Brāhmaṇa who has mastery over the three Vedas is not to be honoured, if he eats everything (i.e., is indiscriminate in eating) and sells everything (including the Veda).",
+    "morphology": "tri_tri_Cp vedī_vedin_SNM api_api_ ca_ca_ naḥ_mad_PG mānyaḥ_man_SNMGd sarva_sarva_Cp bhuj_bhuj_SNM sarva_sarva_Cp vikrayī_vikrayin_SNM  / savitā_savitṛ_SNM devatā_devatā_SNF yasyāḥ_yad_SGF mukham_mukha_SNNe agniḥ_agni_SNM tripād_tripād_S"
+  },
+  {
+    "index": 9475,
+    "sanskrit": "kriyate gaganoḍḍīnaiścāmaraiścārughargharaiḥ / vātāvadhūtasaṃrodhataraṅganikaradyutiḥ //",
+    "english": "These waving flappers flying in the air with a hoarse gurgling (gharghara), seem as the waves of the sea lifted in the air, and undulating with a babbling noise in the ocean of the sky.",
+    "morphology": "kriyate_kṛ_SPr3InPv gagana_gagana_Cp uḍḍīnaiḥ_uḍḍīna_PINe cāmaraiḥ_cāmara_PINe cāru_cāru_Cp ghargharaiḥ_gharghara_PINe  / vāta_vāta_Cp avadhūta_avadhū_PaCp saṃrodha_saṃrodha_Cp taraṅga_taraṃga_Cp nikara_nikara_Cp dyutiḥ_"
+  },
+  {
+    "index": 9476,
+    "sanskrit": "pitari jīvati yaḥ śrāddhaṃ kuryāt, sa yeṣāṃ pitā kuryāt teṣāṃ kuryāt //",
+    "english": "He who makes a Srâddha-offering while his father is alive, must offer it to those persons to whom his father offers (his Srâddhas).",
+    "morphology": "pitari_pitṛ_SLM jīvati_jīv_SLPaPrM yaḥ_yad_SNM śrāddham_śrāddha_SANe kuryāt_kṛ_SPr3O sa_tad_SNM yeṣām_yad_PGM pitā_pitṛ_SNM kuryāt_kṛ_SPr3O teṣām_tad_PGM kuryāt_kṛ_SPr3O  /"
+  },
+  {
+    "index": 9477,
+    "sanskrit": "prabhāvaḥ alaukikī śaktiḥ, aṇimādiguṇayogaḥ, abhiśāpḥ, varadānam /",
+    "english": "\"Power\" ie the superphysio faculties, consisting in being equipped with aṇimā the faculty of becoming as small as one likes and such other faculties\" , or in the form of ability to pronounce effective curses, as? bestowing effective boons.",
+    "morphology": "prabhāvaḥ_prabhāva_SNM alaukikī_alaukika_SNF śaktiḥ_śakti_SNF aṇima_aṇiman_Cp ādi_ādi_Cp guṇa_guṇa_Cp yogaḥ_yoga_SNM abhiśāpaḥ_abhiśāpa_SNM vara_vara_Cp dānam_dāna_SNNe  /"
+  },
+  {
+    "index": 9478,
+    "sanskrit": "atha ha vācaṃ cakṣuḥ śrotraṃ mana ityādi /",
+    "english": "All the rest of it is as in the preceding textThey meditated upon ‘Speech, the Eye, the Ear, the Mind’",
+    "morphology": "atha_atha_ ha_ha_ vācam_vāc_SAF cakṣuḥ_cakṣus_SANe śrotram_śrotra_SANe manaḥ_manas_SANe ityādi_ityādi_SANe  /"
+  },
+  {
+    "index": 9479,
+    "sanskrit": "* abhūta parikalpaḥ paratantrasvabhāva iti /",
+    "english": "The Constructive Ideation is the Causally dependent Aspect.",
+    "morphology": "parikalpaḥ_parikalpa_SNM paratantra_paratantra_Cp svabhāvaḥ_svabhāva_SNM iti_iti_  /"
+  }
+]

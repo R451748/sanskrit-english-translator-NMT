@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29472,
+    "sanskrit": "tatas ca bāhudām gacchet brahmacārī samāhitaḥ",
+    "english": "Then should one wend to Vahuda, with subdued soul and observing the Brahmacharya vow.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 29473,
+    "sanskrit": "prakṛtim yānti bhūtāni nigrahaḥ kim kariṣyati",
+    "english": "All living beings follow (their own) nature.",
+    "morphology": "prakṛtim_prakṛti_SAF"
+  },
+  {
+    "index": 29474,
+    "sanskrit": "tasmin deśe ca rāja indra yatra tat dravyam uttamam",
+    "english": "Arrived at that region where that wealth was buried, O king, the royal Yudhishthira fixed his camp with all his brothers and troops.",
+    "morphology": "tasmin_tad_SLM deśe_deśa_SLM ca_ca_U"
+  },
+  {
+    "index": 29475,
+    "sanskrit": "catvāro'pyatra pāpena mucyaṃte darśanāddhruvam | amāsomau yadā yuktau somavatyāṃ tadā mune || 60 || snānaṃ dānaṃ ca yo dhīmāñjapaṃ homaṃ samācaret | akṣayaṃ tasya tatsarvaṃ yāvaccaṃdradivākarau || 61 ||",
+    "english": "O sage, when Monday coincides with new-moon day, a wise person should take his holy bath in Somavatī and perform the rites of Dāna, Japa and Homa. He will have everlasting benefit thereby as long as the moon and the sun exist.",
+    "morphology": "catvāraḥ_catur_PNM api_api_ atra_atra_ pāpena_pāpa_SINe mucyaṃte_muc_PPr3InPv darśanāt_darśana_SBNe dhruvam_dhruvam_  / amāsomau_amāsoma_DuNM yadā_yadā_ yuktau_yuj_DuNPaM somavatyām_somavatī_SLF tadā_tadā_ mune_muni_SVM  / snānam_snāna_"
+  },
+  {
+    "index": 29476,
+    "sanskrit": "bhrātarau devasaṃkāśāv ubhau puruṣasattamau //",
+    "english": "Those two brothers were beautiful like gods.",
+    "morphology": "bhrātarau_bhrātṛ_DuNM deva_deva_Cp saṃkāśau_saṃkāśa_DuNM ubhau_ubh_DuNM puruṣa_puruṣa_Cp sattamau_sattama_DuNM  /"
+  },
+  {
+    "index": 29477,
+    "sanskrit": "pramāṇa rāga saṃpannān vaṅkṣu tīra samudbhavān",
+    "english": "And they were all bred on the coast of Vankhu.",
+    "morphology": "pramāṇa_pramāṇa_FCp rāga_rāga_MCp saṃpaḥ_sampad_PAF"
+  },
+  {
+    "index": 29478,
+    "sanskrit": "evaṃ kurmo 'tra ko doṣa ity ukte ca mayena saḥ / dūtair nimantrayām āsa prahlādo 'trāsurādhipān //",
+    "english": "what harm is there in this?” And then Prahlāda invited, by means of messengers, the chiefs of the Asuras, and they came there in order from all the underworlds.",
+    "morphology": "evam_evam_ kurmaḥ_kṛ_PPr1In atra_atra_ kaḥ_ka_SNM doṣaḥ_doṣa_SNM iti_iti_ ukte_vac_SLPaNe ca_ca_ mayena_maya_SIM saḥ_tad_SNM  / dūtaiḥ_dūta_PIM nimantrayām_nimantray_SPs3InPe"
+  },
+  {
+    "index": 29479,
+    "sanskrit": "tadā dundubhayo nedurvāditrāṇi bahūni ca | indrādayaḥ surāḥ sarve puṣpavarṣaṃ vavarṣire || 58 ||",
+    "english": "58. At that time Dundubhi-drums were sounded and many musical instruments were played. All the Suras beginning with Indra threw showers of flowers.",
+    "morphology": "tadā_tadā_ dundubhayaḥ_dundubhi_PNM neduḥ_nad_PPs3In vāditrāṇi_vāditra_PNNe bahūni_bahu_PNNe ca_ca_  / indra_indra_Cp ādayaḥ_ādi_PNM surāḥ_sura_PNM sarve_sarva_PNM puṣpa_puṣpa_Cp varṣaḥ_varṣa_SNM ā_ā_ āsan_ās_SNPaM"
+  }
+]

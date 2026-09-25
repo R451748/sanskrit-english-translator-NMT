@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7720,
+    "sanskrit": "17cd /. naiṣṭhiko brahmacārī vā dehāntaṃ nivasedgurau //",
+    "english": "But the naiṣṭika brahmacārī one who has taken a vow of lifelong abstinence should remain with the preceptor till his own death.",
+    "morphology": "naiṣṭhikaḥ_naiṣṭhika_SNM brahmacārī_brahmacārin_SNM vā_vā_ dehāntam_dehānta_SAM nivaset_nivas_SPr3O gurau_guru_SLM  /"
+  },
+  {
+    "index": 7721,
+    "sanskrit": "taṃ ca nirodhaṃ sūtrayati 'vyutthānanirodhasaṃskārayorabhibhavaprādurbhāvau nirodhakṣaṇacittānvayo nirodhapariṇāmaḥ' yosū iti /",
+    "english": "This nirodha — stoppage, is described in the sūtra thus : ‘By the suppression of disturbed impressions of the mind, and by the rise of the impressions of control, the mind, which persists in that moment of control, is said to attain the controlling modification' .",
+    "morphology": "tam_tad_SAM ca_ca_ nirodham_nirodha_SAM sūtrayati_sūtray_SPr3In iti_iti_  /"
+  },
+  {
+    "index": 7722,
+    "sanskrit": "kallolākulakacchāsu lasadgucchalatāsu ca / velāvanaguhāsvabdheściraṃ kūrmatayā sthitam //",
+    "english": "And I remember also to have lived long as a tortoise on the borders of a river, and to have been carried away by the waves, sometimes under an arbour of creepers, over-hung with clusters of beautiful flowers; and at others to some wild cave washed by the waves.",
+    "morphology": "kallola_kallola_Cp ākula_ākula_Cp kacchāsu_kaccha_PLF lasat_las_PaPrCp guccha_guccha_Cp latāsu_latā_PLF ca_ca_  / velā_velā_Cp vana_vana_Cp guhāsu_guhā_PLF abdheḥ_abdhi_SGM ciram_ciram_ kūrma_kūrma_Cp tayā_tā_SIF sthitam_sthā_SNPaNe  /"
+  },
+  {
+    "index": 7723,
+    "sanskrit": "prajñā mūlaḥ hi indriyāṇām prasādaḥ muhyanti śocanti yadā indriyāṇi",
+    "english": "It is the senses that yield to error and grief.",
+    "morphology": "prajñā_prajñā_FCp mūlaḥ_mūla_SNM hi_hi_U indriyāṇām_indriya_PGNe prasādaḥ_prasāda_SNM muhyanti_muh_PPr3In śocanti_śuc_PPr3In yadā_yadā_U indriyāṇi_indriya_PNNe"
+  },
+  {
+    "index": 7724,
+    "sanskrit": "ud dhanti yad evāsyā amedhyaṃ tad apa hanti | apo 'vokṣati śāntyai sikatā ni vapati |",
+    "english": "He throws up (the earth); verily he smites away any impurity in it; he sprinkles water on, for atonement. He puts down sand;",
+    "morphology": "ud_ud_ hanti_han_SPr3In yat_yad_SNNe eva_eva_ asyāḥ_idam_SGF amedhyam_amedhya_SNNe tat_tad_SANe apa_apa_ hanti_han_SPr3In  / apaḥ_ap_PAF avokṣati_avokṣ_SPr3In śāntyai_śānti_SDF sikatāḥ_sikatā_PAF ni_ni_ vapati_vap_SPr3In"
+  },
+  {
+    "index": 7725,
+    "sanskrit": "tataścaivātha vīkṣadhvaṃ putrapautrasamudbhavam | saukhyaṃ cāpi kumārīṇāṃ bāṃdhavānāṃ viśeṣataḥ || 20 ||",
+    "english": "As for you, do accept the gift of the plots of land from the king as well as all desired means of sustenance. Then look after your sons and grandsons and their welfare. See to the happiness of your daughters and kinsmen in particular.",
+    "morphology": "tatas_tatas_ ca_ca_ eva_eva_ atha_atha_ vīkṣadhvam_vīkṣ_PPr2Im putra_putra_Cp pautra_pautra_Cp samudbhavam_samudbhava_SANe  / saukhyam_saukhya_SANe ca_ca_ api_api_ kumārīṇām_kumārī_PGF bāṃdhavānām_bāndhava_PGM viśeṣataḥ_viśeṣata"
+  },
+  {
+    "index": 7726,
+    "sanskrit": "āpo vāvānnādbhūyasyo 'nnakāraṇatvāt /",
+    "english": "Water indeed is greater than Food",
+    "morphology": "āpaḥ_ap_PNF vāva_vāva_ annāt_anna_SBNe bhūyasyaḥ_bhūyas_PNF anna_anna_Cp kāraṇa_kāraṇa_Cp tvāt_tva_SBNe "
+  },
+  {
+    "index": 7727,
+    "sanskrit": "yudhiṣṭhiraḥ tu dharma ātmā tat brahma manasā yataḥ dhārayām āsa medhāvī kāle kāle samabhyasan",
+    "english": "The virtuous and intelligent Yudhishthira, however, having obtained that knowledge carefully retained it in his mind and always recited it on proper occasions.",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM tu_tu_U dharma_dharma_MCp ātmā_ātman_SNM tat_tad_SANe brahma_brahman_SANe manasā_manas_SINe yataḥ_yatas_U dhārayām_dhāray_SPs3In āsa_as_SPs3In medhāvī_medhāvin_SNM kāle_kāla_SLM kāle_kāla_SLM samabhya"
+  }
+]

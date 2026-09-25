@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42520,
+    "sanskrit": "teṣām daśa sahasrāṇi babhūvuḥ dṛḍha dhanvinām",
+    "english": "Firm bowmen, all they numbered ten thousand.",
+    "morphology": "teṣām_tad_PGM daśa_daśan_SNNe sahasrāṇi_sahasra_PNNe babhūvuḥ_bhū_PPs3In dṛḍha_dṛḍha_Cp dhanvinām_dhanvin_PGM"
+  },
+  {
+    "index": 42521,
+    "sanskrit": "rohitāśva uvāca | bhagavannatra ye martyāḥ sarve vighnasamanvitāḥ | śubhakṛtyeṣu sarveṣu jāyaṃte śucayo'pi ca || 15 ||",
+    "english": "Rohitāśva said: 15. O holy Sir, all the men here (in this world) are entangled in obstacles in the course of all their auspicious activities, although they themselves are very pure.",
+    "morphology": "rohitāśvaḥ_rohitāśva_SNM uvāca_vac_SPs3In  / bhagavan_bhagavat_SVM atra_atra_ ye_yad_PNM martyāḥ_martya_PNM sarve_sarva_PNM vighna_vighna_Cp samanvitāḥ_samanvita_PNM  / śubha_śubha_Cp kṛtyeṣu_kṛtya_PLNe sarveṣu_sarva_PLNe jāyaṃte_"
+  },
+  {
+    "index": 42522,
+    "sanskrit": "sarvānugrahakarttā ca sarvakāmaphalapradaḥ | purā yatrātapaddevi tapo ghoraṃ suduṣkaram | gururnāmā ṛṣivaro devadānavaduḥsaham || 6 ||",
+    "english": "It was at this holy spot that the excellent sage named Guru performed a very severe and difficult penance unbearable even to Devas and Dānavas.",
+    "morphology": "sarva_sarva_Cp anugraha_anugraha_Cp karttā_kartṛ_SNM ca_ca_ sarva_sarva_Cp kāma_kāma_Cp phala_phala_Cp pradaḥ_prada_SNM  / purā_purā_ yatra_yatra_ atapat_tap_S3ImIn devi_devī_SVF tapaḥ_tapas_SNNe ghoram_ghora_SNNe su_su_ duṣkaram_duṣkara_SN"
+  },
+  {
+    "index": 42523,
+    "sanskrit": "tasmāt sarvaprakāram avācakā varṇāḥ /",
+    "english": "Hence, sphoţa denotes a meaning.",
+    "morphology": "tasmāt_tasmāt_ sarva_sarva_Cp prakāram_prakāra_SANe a_a_ vācakāḥ_vācaka_PNM varṇāḥ_varṇa_PNM  /"
+  },
+  {
+    "index": 42524,
+    "sanskrit": "niveśyam tu bhavet tena sadā tārayitā pitṝn",
+    "english": "The younger brother, however, should wed again for rescuing his deceased ancestors.",
+    "morphology": "niveśyam_niveśay_SNNeGd"
+  },
+  {
+    "index": 42525,
+    "sanskrit": "dyaur eva sā / ādityo 'maḥ / tat sāma //",
+    "english": "The Heaven is Sā, the Sun is āma,and that makes up Sāma",
+    "morphology": "dyauḥ_div_SNF eva_eva_ sā_tad_SNF  / ādityaḥ_āditya_SNM amaḥ_ama_SNM  / tat_tad_SNNe sāma_sāman_SNNe  /"
+  },
+  {
+    "index": 42526,
+    "sanskrit": "grīvā vai yajñasyopasadaḥ śiraḥ pravargyaḥ /",
+    "english": "Verily the Upasads (homages or sieges) are the neck of the sacrifice, and the Pravargya is its head.",
+    "morphology": "grīvā_grīvā_SNF vai_vai_ yajñasya_yajña_SGM upasadaḥ_upasad_PNF śiraḥ_śiras_SNNe pravargyaḥ_pravargya_SNM  /"
+  },
+  {
+    "index": 42527,
+    "sanskrit": "yena sahasram vahasi yena agne sarvavedasam / tena imam yajñam naḥ vaha svar deveṣu gantave /",
+    "english": "Convey our sacrifice to heaven, that it may reach the Gods, with that Whereby thou, Agni, bearest wealth in thousands, and all pre- cious things.",
+    "morphology": "yena_yad_SIM sahasram_sahasra_SANe vahasi_vah_SPr2In yena_yad_SIM agne_agni_SVM sarvavedasam_sarvavedasa_SANe  / tena_tad_SIM imam_idam_SAM yajñam_yajña_SAM naḥ_mad_PG vaha_vah_SPr2Im svar_svar_SANe deveṣu_deva_PLM gantave_gam_In  /"
+  }
+]

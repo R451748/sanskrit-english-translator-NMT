@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29848,
+    "sanskrit": "tasmādidaṃ tvahamapibravīmi surasattamāḥ | nāsti dānasamaṃ kiṃcitsatyaṃ sārasvato jagau || 96 ||",
+    "english": "96. Hence I too say this, O excellent Suras. There is nothing equal to Dāna. What Sārasvata said was true.",
+    "morphology": "tasmāt_tasmāt_ idam_idam_SANe tu_tu_ aham_mad_SN api_api_ bravīmi_brū_SPr1In sura_sura_Cp sattamāḥ_sattama_PVM  / na_na_ asti_as_SPr3In dāna_dāna_Cp samam_sama_SNNe kiṃcid_kaścit_SNNe satyam_satya_SANe sārasvataḥ_sārasvata_SNM"
+  },
+  {
+    "index": 29849,
+    "sanskrit": "śuddhāmalāḥ nirmalāstu te vimokṣamukhatrayam / śūnyatāśunyatādyākhyāstrayo 'parasamādhayaḥ //",
+    "english": "Pure or immaculate (amala). Immaculate, they are the three gates to deliverance (vimokṣamukha). There are also three other absorptions (samādhi) called “emptiness of emptiness”, etc.",
+    "morphology": "śuddha_śudh_PaCp amalāḥ_amala_PNM nirmalāḥ_nirmala_PNM tu_tu_ te_tad_PNM vimokṣa_vimokṣa_Cp mukha_mukha_Cp trayam_traya_SNNe  / śūnyatā_śūnyatā_Cp a_a_ śunyatā_śunyatā_Cp ādi_ādi_Cp ākhyāḥ_ākhyā_PNM trayaḥ_tri_PNM "
+  },
+  {
+    "index": 29850,
+    "sanskrit": "ānartaviṣayaścāsīt purī cāsīt kuśasthalī /",
+    "english": "Sukanya and Ānarta were the sons of Śaryāti.",
+    "morphology": "ānarta_ānarta_Cp viṣayaḥ_viṣaya_SNM ca_ca_ āsīt_as_S3ImIn purī_purī_SNF"
+  },
+  {
+    "index": 29851,
+    "sanskrit": "kaṅkato neti sūktena viṣān sarvān vyapohati //",
+    "english": "One is able to destroy all poisons by the repetition of the hymn kaṅkato na.",
+    "morphology": "kaṅkataḥ_kaṅkata_SNM na_na_ iti_iti_ sūktena_sūkta_SINe viṣān_viṣa_PAM"
+  },
+  {
+    "index": 29852,
+    "sanskrit": "bhāvāta na vā dṛṣṭārthataivāsya prayogasyopapadyate / nahi dṛṣṭanirākāṅkṣādadṛṣṭamapi gamyate na cedaṃ niyamāpūrvamāśritaṃ kveti gamyate / śabdārtha śroṭata huddhivakkuccāraṇagocare",
+    "english": "And then, too, when as a matter of fact, we have never come across any authoritative list enumerating all the correct words, how is it possible for us to have any idea of the Vedic texts authorising the use of each of these words? And as for the incorrect forms of words, their number is even greater than that of the correct ones and as such it is absolutely impossible for the use of each of these to be prohibited singly, like the prohibition of the eating of kalanja the flesh of an animal killed by a poisoned arrow. In the case of such objects as the Vrihi and the Kalanja, we have distinct notions of the extent of the denotations of these words, as restricted within certain welldefined limits of Class or Property, &c.",
+    "morphology": "bhāvāta_bhāva_SBM na_na_ vā_vā_ dṛṣṭārtha_dṛṣṭārtha_Cp tā_tā_SNF eva_eva_ asya_idam_SGM prayogasya_prayoga_SGM upapadyate_upapad_SPr3In  / nahi_nahi_ dṛṣṭa_dṛś_PaCp nirākāṅkṣāt_nirākāṅkṣa_SBM adṛṣṭam_adṛ"
+  },
+  {
+    "index": 29853,
+    "sanskrit": "tena pakvena ca annena yat karma kurute śubham",
+    "english": "Home is called the circumference, because, as the circumference limits the wheel, even so home (wife and children) limits the affections and acts of life.",
+    "morphology": "tena_tad_SINe pakvena_pakva_SINe ca_ca_U annena_anna_SINe"
+  },
+  {
+    "index": 29854,
+    "sanskrit": "āhiṇḍikaḥ niṣādena vaidehyām saṃprajāyate",
+    "english": "From the union of the Nishada with a woman of the Vaidehi caste springs one who is called by the name of Ahindaka.",
+    "morphology": "āhiṇḍikaḥ_āhiṇḍika_SNM"
+  },
+  {
+    "index": 29855,
+    "sanskrit": "suratha uvāca | śatrubhirme hṛtaṃ rājyaṃ tvatprasādātsureśvara | tanme bhavatu bhūyo'pi śatrubhiḥ parivarjjitam || 58 ||",
+    "english": "58. My kingdom has been captured by enemies. May it be mine again, thanks to your grace. It should be free from enemies.",
+    "morphology": "surathaḥ_suratha_SNM uvāca_vac_SPs3In  / śatrubhiḥ_śatru_PIM me_mad_SG hṛtam_hṛ_SNPaNe rājyam_rājya_SNNe tvad_tvad_Cp prasādāt_prasāda_SBM sureśvara_sureśvara_SVM  / tat_tad_SNNe mama_mad_SG bhavatu_bhū_SPr3Im bhūyas_bhūyas_ api_api_ "
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26128,
+    "sanskrit": "mārkaṇḍeśvaratīrthāni daśa teṣu munīśvarāḥ | daśādityabhavānyatra navaiva kapileśvarāḥ || 11 || somasaṃsthāpitānyaṣṭau tāvanto narmadeśvarāḥ | koṭitīrthānyathāṣṭau ca sapta siddheśvarāstathā || 12 ||",
+    "english": "O leading sages, among them there are ten Mārkaṇḍeśvara Tīrthas, ten originating from Āditya (i.e. Āditya Kṣetras), nine Kapileśvaras, eight installed by Soma, an equal number of Narmadeśvaras, eight Koṭitīrthas, and seven Siddheśvaras.",
+    "morphology": "mārkaṇḍeśvaratīrthāni_mārkaṇḍeśvaratīrtha_PNNe daśa_daśan_SNNe teṣu_tad_PLNe muni_muni_Cp īśvarāḥ_īśvara_PVM  / daśa_daśan_Cp āditya_āditya_Cp bhavāni_bhava_PNNe atra_atra_ nava_navan_SNNe eva_eva_ kapila_kapila_Cp īśvarā"
+  },
+  {
+    "index": 26129,
+    "sanskrit": "tena mātulādiṣu nāyaṃ vidhir iti /",
+    "english": "Hence, what is here prescribed does not apply to the maternal uncle and such other persons.",
+    "morphology": "tena_tena_ mātula_mātula_Cp ādiṣu_ādi_PLM na_na_ ayam_idam_SNM vidhiḥ_vidhi_SNM iti_"
+  },
+  {
+    "index": 26130,
+    "sanskrit": "saḥ it dāsam tuvi ravam patiḥ dan ṣaṭ akṣam tri śīrṣāṇam damanyat asya tritaḥ nu ojasā vr̥dhānaḥ vipā varāham ayaḥ agrayā hannitihan",
+    "english": "Lord of the dwelling, he subdued the demon who roared aloud, six-eyed and triple-headed. Trita, made stronger by the might he lent him, struck down the boar with shaft whose point was iron.",
+    "morphology": "saḥ_tad_SNM id_id_U dāsam_dāsa_SAM tuvi_tuvi_Cp ravam_rava_SAM patiḥ_pati_SNM dan_dan_SNM ṣaṣ_ṣaṣ_Cp akṣam_akṣa_SAM tri_tri_Cp śīrṣāṇam_śīrṣan_SAM damanyat_damany_SPr3 asya_idam_SGM tritaḥ_trita_SNM nu_nu_U ojasā_ojas_SINe v"
+  },
+  {
+    "index": 26131,
+    "sanskrit": "vāgbhavati śabdaviṣayā śeṣānyapi pañcaviṣayāṇi //",
+    "english": "Speech has sound alone for its object. The rest, on the other hand, have five objects.",
+    "morphology": "vāc_vāc_SNF bhavati_bhū_SPr3In śabda_śabda_Cp viṣayā_viṣaya_SNF śeṣāṇi_śeṣa_PNNe"
+  },
+  {
+    "index": 26132,
+    "sanskrit": "dāmādayastu racitā ye mayā māyayā'surāḥ / maurkhyātairbhāvitā yuddhe mithyaiva durahaṃkṛtiḥ //",
+    "english": "\"He said, \"\"the demons Dama and others, that I produced by my black-art of exorcism, are all overthrown in battle, by their foolishness and vanity of pride and egotism. \"",
+    "morphology": "dāma_dāman_Cp ādayaḥ_ādi_PNM tu_tu_ racitāḥ_racay_PNPaM ye_yad_PNM mayā_mad_SI māyayā_māyā_SIF asurāḥ_asura_PNM  / mā_mā_ ā_ā_ aṇḍa_ā_ ā_ā_ aṇḍa_ā_ ā_ā_ aṇḍa_ā_ ā_ā_ aṇḍa_ā_ ā_ā_ aṇḍa_ā_ ā_ā_ aṇḍa"
+  },
+  {
+    "index": 26133,
+    "sanskrit": "puṇyam pavitram atha pāpa haram śivam ca",
+    "english": "Gita, Paritranaya sadhunam etc.",
+    "morphology": "puṇya_puṇya_SNNe"
+  },
+  {
+    "index": 26134,
+    "sanskrit": "vigṛhya manasā sarvāṇīṃdriyāṇi sahāśu sā | samupasthānike tatra cakāra paramaṃ tapaḥ ||",
+    "english": "39. Suppressing her sense-organs with her mind, she started the great penance in a place within the proximity.",
+    "morphology": "vigṛhya_vigrah_Co manasā_manas_SINe sarvāṇi_sarva_PANe iṃdriyāṇi_indriya_PANe saha_saha_ āśu_āśu_ sā_tad_SNF  / samupasthānike_samupasthānika_SLM ḥ_ḥ_"
+  },
+  {
+    "index": 26135,
+    "sanskrit": "māṃ pātu devo'khiladevatātmā saṃsārakūpe patitaṃ gabhīre | tannāma divyaṃ varamaṃtramūlaṃ dhunotu me sarvamaghaṃ hṛdistham || 5 ||",
+    "english": "5. “May the Lord, the soul of all deities, protect me fallen into the deep well of worldly existence. Let his divine name, the Mula Mantra (original mantra) of great excellence, shake off all my sins accumulated in the heart.",
+    "morphology": "mām_mad_SA pātu_pā_SPr3Im devaḥ_deva_SNM akhila_akhila_Cp devatā_devatā_Cp ātmā_ātman_SNM saṃsāra_saṃsāra_Cp kūpe_kūpa_SLM patitam_pat_SAPaM gabhīre_gabhīra_SLM  / tad_tad_Cp nāma_nāman_SNNe divyam_divya_SNNe vara_vara_Cp mantra_mantr"
+  }
+]

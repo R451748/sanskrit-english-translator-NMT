@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15952,
+    "sanskrit": "munau vinirgate tasmin makhādanyeṣu duṣṭadhīḥ | śivadrohī munīn dakṣaḥ prahasannidamabravīt ||",
+    "english": "50. When the sage Dadhīci and others staged a walkout, the evil-minded Dakṣa, inimical to Śiva, said mocking at them.",
+    "morphology": "munau_muni_SLM vinirgate_vinirgam_SLPaM tasmin_tad_SLM makhāt_makha_SBM anyeṣu_anya_PLM duṣṭa_duṣ_PaCp dhīḥ_dhī_SNM  / śiva_śiva_Cp drohī_drohin_SNM munīn_muni_PAM dakṣaḥ_dakṣa_SNM prahasan_prahas_SNPaPrM idam_idam_SANe abravīt_brū"
+  },
+  {
+    "index": 15953,
+    "sanskrit": "nacānyasya tadutpattirahitasyāvyabhicāritāstyatiprasaṅgāt / tasmān na vācye 'rthe śabdasya prāmāṇyam //",
+    "english": "From all this we conclude that the Word cannot serve as a valid means of cognition of the thing spoken of by it. From all verbal statements there follows inference of the ‘desire to speak’ (i.e. intention, on the part of the speaker);",
+    "morphology": "na_na_ ca_ca_ anyasya_anya_SGM tad_tad_Cp utpatti_utpatti_Cp rahitasya_rahita_SGM avyabhicāri_avyabhicārin_Cp tā_tā_SNF asti_as_SPr3In atiprasaṅgāt_atiprasaṅga_SBM  / tasmāt_tasmāt_ na_na_ vācye_vac_SLMGd arthe_artha_SLM śabdasya_śabda_SGM pr"
+  },
+  {
+    "index": 15954,
+    "sanskrit": "sarvatyāgaḥ parānando duḥkhamanyatsudāruṇam / ityomityurarīkṛtya yadicchasi tadācara //",
+    "english": "Sarvatyaga or abandonment of all, is fraught with perfect delight; as its contrary is attended with extreme misery. This is a certain truth, and knowing as such, choose what you think best for you.",
+    "morphology": "sarva_sarva_Cp tyāgaḥ_tyāga_SNM para_para_Cp ānandaḥ_ānanda_SNM duḥkham_duḥkha_SNNe anyat_anya_SNNe su_su_ dāruṇam_dāruṇa_SNNe  / iti_iti_ om_oṃ_ iti_iti_ urarīkṛtya_urarīkṛ_Co yat_yad_SANe icchasi_iṣ_SPr2In tat_tad_SANe ācara_"
+  },
+  {
+    "index": 15955,
+    "sanskrit": "ahaṃkāreṣu bhūteṣu caturtham viddhi vaikṛtam vāyuḥ jyotiḥ atha ākāśam āpaḥ atha pṛthivī tathā śabdaḥ sparśaḥ ca rūpam ca rasaḥ gandhaḥ tathā eva ca",
+    "english": "This fourth creation comprises Wind and Light and Space and Water and Earth, with their properties of sound, touch, form, taste and scent.",
+    "morphology": "ahaṃkāreṣu_ahaṃkāra_PLM bhūteṣu_bhūta_PLNe caturtham_caturtha_SAM viddhi_vid_SPr2Im vaikṛtam_vaikṛta_SAM vāyuḥ_vāyu_SNM jyotiḥ_jyotis_SNNe atha_atha_U ākāśam_ākāśa_SNNe āpaḥ_ap_PNF atha_atha_U pṛthivī_pṛthivī_SNF tathā"
+  },
+  {
+    "index": 15956,
+    "sanskrit": "akhilaḥ kṛtsnaḥ /",
+    "english": "\"Entire,\" whole.",
+    "morphology": "akhilaḥ_akhila_SNM"
+  },
+  {
+    "index": 15957,
+    "sanskrit": "dviguṇaṃ rasaādīnāṃ mānamūlyam //",
+    "english": "The price of similar liquidmeasures is double the above panas is the a set of counterweights",
+    "morphology": "dviguṇam_dviguṇa_SNNe rasa_rasa_Cp ādīnām_ādi_PGM māna_māna_Cp mūlyam_mūlya_SNNe  /"
+  },
+  {
+    "index": 15958,
+    "sanskrit": "āhāra kāle matimān parivrāj janamejaya upātiṣṭhata dharma jñaḥ bhaikṣa kāle sa devalam",
+    "english": "At the hour, however, of dinner, O Janamejaya, the intelligent and righteous ascetic, leading a life of mendicancy, approached Devala for soliciting alms.",
+    "morphology": "āhāra_āhāra_MCp kāle_kāla_SLM matimān_matimat_SNM parivrāj_parivrāj_SNM janamejaya_janamejaya_SNM upātiṣṭhata_upasthā_SPs3In dharma_dharma_MCp jñaḥ_jña_SNM bhaikṣa_bhaikṣa_NeCp kāle_kāla_SLM sa_tad_SNM"
+  },
+  {
+    "index": 15959,
+    "sanskrit": "dviyojanantu pūrvaṃ syād yojanārdhaṃ tadanyathā /",
+    "english": "It extends to two yojanas in the east and half a yojana in the opposite direction.",
+    "morphology": "dvi_dvi_Cp yojanam_yojana_SNNe tu_tu_ pūrvam_pūrva_SNNe syāt_as_SPr3O yojana_yojana_Cp ardham_ardha_SNNe tat_tad_SNNe anyathā_anyathā_"
+  }
+]

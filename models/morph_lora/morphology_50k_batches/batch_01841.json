@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14720,
+    "sanskrit": "janma vṛtta samam loke su śliṣṭam na virajyate",
+    "english": "Amongst creatures thus employed, there is nothing that is so good or precious as pure birth and righteous conduct.",
+    "morphology": "janma_janman_NeCp"
+  },
+  {
+    "index": 14721,
+    "sanskrit": "jihvāgre vartate yasya kāśītyakṣarayugmakam | na tasya garbhavāsaḥ syātkvacideva sumedhasaḥ || 61 ||",
+    "english": "61. If the two syllables “Kā-śī” find a place at the tip of the tongue of anyone, he is of highly gifted intellect. He will never be conceived in a womb.",
+    "morphology": "jihvā_jihvā_Cp agre_agra_SLNe vartate_vṛt_SPr3In yasya_yad_SGM kā_ka_SNF aśīti_aśīti_Cp akṣara_akṣara_Cp yugmakam_yugmaka_SNNe  / na_na_ tasya_tad_SGM garbha_garbha_Cp vāsaḥ_vāsa_SNM syāt_as_SPr3O kvacid_kvacid_ eva_eva_ sumedhasaḥ_sume"
+  },
+  {
+    "index": 14722,
+    "sanskrit": "yasyāpi nirākārajñānaṃ tasyāpi na śabdagrahaṇamantareṇa tadgrāhakasya grahaṇaṃ yuktam nahi daṇḍagrahaṇam antareṇa tadgrāhakasya daṇḍino grahaṇaṃ nyāyyam iti rūpagrāhiṇi cakṣurjñāne śabdasyāpi pratibhāsaḥ syāt /",
+    "english": "e.g. unless there is apprehension of the stick, there can be no apprehension of the Holder of the Stick. Thus Sound also would figure in the Visual Cognition of Colour.",
+    "morphology": "yasya_yad_SGM api_api_ nirākāra_nirākāra_Cp jñānam_jñāna_SNNe tasya_tad_SGM api_api_ na_na_ śabda_śabda_Cp grahaṇam_grahaṇa_SANe antareṇa_antareṇa_ tad_tad_Cp grāhakasya_grāhaka_SGM grahaṇam_grahaṇa_SNNe yuktam_yuj_SNPaNe nahi_nahi_"
+  },
+  {
+    "index": 14723,
+    "sanskrit": "sa bhīmasena abhihataḥ sūtaputraḥ kuru udvaha niṣasāda rathopasthe visaṃjñaḥ pṛtanāpatiḥ",
+    "english": "Struck by Bhimasena, O perpetuator of Kuru's race, the Suta's son, that commander (of thy forces), sat down senseless on the terrace of his car.",
+    "morphology": "sa_tad_SNM bhīmasena_bhīmasena_MCp abhihataḥ_abhihan_SNPaPsM sūtaputraḥ_sūtaputra_SNM kuru_kuru_MCp udvaha_udvaha_SVM niṣahā_niṣad_SNPaPsM"
+  },
+  {
+    "index": 14724,
+    "sanskrit": "tamahaṃ paramānaṃdaṃ rāmanāthaṃ maheśvaram | ātmarūpatayā nityamupāse sarvasākṣiṇam || 35 ||",
+    "english": "35. I perpetually worship that supreme bliss Rāmanātha, the great lord in the form of Ātman. He is the witness unto all.",
+    "morphology": "tam_tad_SAM aham_mad_SN parama_parama_Cp ānandam_ānanda_SAM rāmanātham_rāmanātha_SAM maheśvaram_maheśvara_SAM  / ātma_ātman_Cp rūpa_rūpa_Cp tayā_tā_SIF nityam_nityam_ upāse_upās_SPr1In sarva_sarva_Cp sākṣiṇam_sākṣin_SAM"
+  },
+  {
+    "index": 14725,
+    "sanskrit": "yaiva vipakṣād vyāvṛttiḥ sa eva sādhyenānugama iti vaktavyam tannīteḥ prāg eva pratikṣepāt / pratyuktaṃ hi vistarataḥ kṣaṇabhaṅgasādhanam iti //",
+    "english": "This objection has been met since it has been elaborately stated before that the essence of chaste and unchaste words is directly cognised or inferred. On the basis of this essential property, regulative injunctions may be easily framed.",
+    "morphology": "yā_yad_SNF eva_eva_ vipakṣāt_vipakṣa_SBM vyāvṛttiḥ_vyāvṛtti_SNF saḥ_tad_SNM eva_eva_ sādhyena_sādhya_SINe anugamaḥ_anugama_SNM iti_iti_ vaktavyam_vac_SNNeGd tad_tad_Cp nīteḥ_nīti_SGF prāk_prāk_ eva_eva_ pratikṣepāt_pratikṣepa"
+  },
+  {
+    "index": 14726,
+    "sanskrit": "kas tarhy asyārthaḥ /",
+    "english": "What then is the meaning?",
+    "morphology": "kaḥ_ka_SNM"
+  },
+  {
+    "index": 14727,
+    "sanskrit": "śrotum icchāmi tat sarvam saṃvādam tava tasya ca yudhiṣṭhiraḥ uvāca viṣāt agneḥ ca boddhavyam iti mām viduraḥ abravīt",
+    "english": "for us to know them I should then like to hear everything that had passed between him and thee.' \"Yudhishthira replied, 'The virtuous Vidura said unto me that we should know that the mansion (for our accommodation at Varanavata) hath been built of inflammable materials.",
+    "morphology": "śrotum_śru_In icchāmi_iṣ_SPr1In tat_tad_SANe sarvam_sarva_SANe saṃvādam_saṃvāda_SAM tava_tvad_SG tasya_tad_SGM ca_ca_U yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In viṣāt_viṣa_SBNe agneḥ_agni_SBM ca_ca_U boddhavyam_budh_SNNeGd"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36944,
+    "sanskrit": "āśramaṃ munimukhyasya dadhīcerloka viśrutam | sarvarttukusumopetaṃ pādapairupaśobhitam | ketakīkuṭajodbhūta bakulāmodamoditam || 8 ||",
+    "english": "It was the hermitage of the eminent sage Dadhīci. It was well-known all over the world. It had flowers blossoming throughout the whole year. It shone with various kinds of trees. The fragrance from Ketakī, Kuṭaja and Bakula rendered it very pleasant.",
+    "morphology": "āśramam_āśrama_SAM muni_muni_Cp mukhyasya_mukhya_SGM dadhīceḥ_dadhīci_SGM loka_loka_SVM viśrutam_viśru_SAPaM  / sarva_sarva_Cp ṛtu_ṛtu_Cp kusuma_kusuma_Cp upetam_upe_SAPaM pādapaiḥ_pādapa_PIM upaśobhitam_upaśobhay_SAPaM  / ketakī_ketak"
+  },
+  {
+    "index": 36945,
+    "sanskrit": "na ca aphalam sat puruṣeṇa saṃgatam",
+    "english": "And intercourse with the virtuous can never be fruitless.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 36946,
+    "sanskrit": "brūhīty uktaś ca na brūyād uktaṃ ca na vibhāvayet / na ca pūrvāparaṃ vidyāt tasmād arthāt sa hīyate //",
+    "english": "He who, on being ordered to speak, does not speak; or who does not prove what he has asserted;or who does not grasp the previous and subsequent statements;such a person fails in that suit0.",
+    "morphology": "brūhi_brū_SPr2Im iti_iti_ uktaḥ_vac_SNPaM ca_ca_ na_na_ brūyāt_brū_SPr3O uktam_vac_SAPaNe ca_ca_ na_na_ vibhāvayet_vibhāvay_SPr3O  / na_na_ ca_ca_ pūrva_pūrva_Cp aparam_apara_SANe vidyāt_vid_SPr3O tasmāt_tad_SBM arthāt_artha_SBM sa_tad_SNM h"
+  },
+  {
+    "index": 36947,
+    "sanskrit": "kathaṃ, vāk tāvaduvāca yadahaṃ vasiṣṭho 'smi / yaditi kriyāviśeṣaṇaṃ yadvasiṣṭhatvaguṇāsmītyarthaḥ /",
+    "english": "What did they say?Speech said‘As am the richest,‘as’ is an adverb, the meaning being that the quality of richness by which am the richest,by that same quality of richness you are the richest;",
+    "morphology": "katham_katham_ vāc_vāc_SNF tāvat_tāvat_ uvāca_vac_SPs3In yat_yat_ aham_mad_SN vasiṣṭhaḥ_vasiṣṭha_SNM asmi_as_SPr1In  / yat_yat_ iti_iti_ kriyāviśeṣaṇam_kriyāviśeṣaṇa_SNNe yat_yat_ vasiṣṭha_vasiṣṭha_Cp tva_tva_Cp guṇā_g"
+  },
+  {
+    "index": 36948,
+    "sanskrit": "(28) ūrdhvāgra-pradakṣiṇāvarta-romatā,",
+    "english": "(28) his body-hairs bristle and turn to the right,",
+    "morphology": "ūrdhva_ūrdhva_Cp agra_agra_Cp pradakṣiṇa_pradakṣiṇa_Cp āvarta_āvarta_Cp roma_roman_Cp"
+  },
+  {
+    "index": 36949,
+    "sanskrit": "lokānuvṛttyeti cet na /",
+    "english": "Perhaps the Buddha, in this teaching, is conforming to the views of the world. This hypothesis is inadmissible.",
+    "morphology": "loka_loka_Cp anuvṛttyā_anuvṛtti_SIF iti_iti_ ced_ced_"
+  },
+  {
+    "index": 36950,
+    "sanskrit": "abhimanyuḥ iva prītāḥ dvāravatyām ratāḥ bhṛśam",
+    "english": "Like Abhimanyu they are all staying at Dwaravati, delighted with the place.",
+    "morphology": "abhimanyuḥ_abhimanyu_SNM iva_iva_U prītāḥ_prī_PNPaPsM dvāravatyām_dvāravatī_SLF ratāḥ_ram_PNPaPsM"
+  },
+  {
+    "index": 36951,
+    "sanskrit": "ya ānantaryaniyamaḥ saivāpekṣābhidhīyate /",
+    "english": "It is the necessary condition of ‘immediate sequence’ that is called ‘need’;",
+    "morphology": "yaḥ_yad_SNM ānantarya_ānantarya_Cp niyamaḥ_niyama_SNM sā_tad_SNF eva_eva_ apekṣā_apekṣā_SNF abhidhīyate_abhidhā_SPr3InPv  /"
+  }
+]

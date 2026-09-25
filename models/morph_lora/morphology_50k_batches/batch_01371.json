@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10960,
+    "sanskrit": "mūlañca vauṣaḍantena kumbhamudrāṃ pradarśayet //",
+    "english": "The votary should show the kumbhamudrā posture of the fingers representing a pitcher.",
+    "morphology": "mūlam_mūla_SANe "
+  },
+  {
+    "index": 10961,
+    "sanskrit": "etad uktaṃ bhavati /",
+    "english": "Enough of this discussion! (2843-2846)",
+    "morphology": "etat_etad_SNNe "
+  },
+  {
+    "index": 10962,
+    "sanskrit": "mūlam ikṣudrākṣādi /",
+    "english": "\"Roots, etc,\" eg, sugarcane, grapes and so forth.",
+    "morphology": "__mūla_U"
+  },
+  {
+    "index": 10963,
+    "sanskrit": "te te 'dhipatayas tebhyo namas te no mṛḍayantu te yaṃ dviṣmo yaś ca no dveṣṭi taṃ vo jambhe dadhāmi sahasrasya pramā asi sahasrasya pratimā asi sahasrasya vimā asi sahasrasyonmā asi sāhasro 'si sahasrāya tvā |",
+    "english": "These are thine overlords, to them honour, be they gracious to us, him whom we hate and who hateth us I place in your jaws. Thou art the measure of a thousand, thou art the image of a thousand, thou art the size of a thousand, thou art the replica of a thousand, thou art of a thousand, for a thousand thee!",
+    "morphology": "te_tad_PNM te_tvad_SG adhipatayaḥ_adhipati_PNM tebhyaḥ_tad_PDM namaḥ_namas_SNNe te_tad_PNM naḥ_mad_PA mṛḍayantu_mṛḍay_PPr3Im te_tad_PNM yam_yad_SAM dviṣmaḥ_dviṣ_PPr1In yaḥ_yad_SNM ca_ca_ naḥ_mad_PA dveṣṭi_dviṣ_SPr3In tam_tad"
+  },
+  {
+    "index": 10964,
+    "sanskrit": "utpatya utpatya ca prāhuḥ muhūrtam iti ca iti ca",
+    "english": "And they began to soar and alight repeatedly, here and there.",
+    "morphology": "utpatya_utpat_Co"
+  },
+  {
+    "index": 10965,
+    "sanskrit": "parityajya tāvapyuraṇakau gandarvāḥsuralokamupagatāḥ //",
+    "english": "The Gandharvas, abandoning the rams, departed to the region of the gods.",
+    "morphology": "parityajya_parityaj_Co tau_tad_DuAM api_api_ uraṇakau_uraṇaka_DuAM gandarvāḥ_gandarva_PNM"
+  },
+  {
+    "index": 10966,
+    "sanskrit": "sa tvām dantān vidaśan abhyadhāvat jighāṃsayā śūlam udyamya ghoram",
+    "english": "And when grinding his teeth he pursued thee with his terrible and uplifted pike with the object of killing thee.",
+    "morphology": "sa_tad_SNM tvām_tvad_SA dantān_danta_PAM vidaśan_vidaṃś_SNPaPrM abhyadhāvat_abhidhāv_SPs3In jighāṃsayā_jighāṃsā_SIF"
+  },
+  {
+    "index": 10967,
+    "sanskrit": "nahi paramārthena na kiñcit kasyacid viśeṣaṇaṃ yuktam, anupakārakasya viśeṣaṇatvāyogāt, upakārakatve cāṅgīkriyamāṇe kāryakāle kāraṇasyānavasthānādayugapatkālabhāvinor na viśeṣaṇaviśeṣyabhāvo yuktaḥ yugapatkālabhāvitvetu",
+    "english": "In reality, nothing can be qualified by anything; because what does not accord any help cannot be a qualification; if the according of help be admitted, then, in cases where the Cause may not exist at the time of the coming about of the effect, there could be no relation of qualification and qualified between the two things not existing at the same time; while in the case of both existing at the same time, as the things would be already there in their accomplished forms, there would be no mutual help;",
+    "morphology": "nahi_nahi_ paramārthena_paramārtha_SIM na_na_ kiñcid_kaścit_SNNe kasyacid_kaścit_SGM viśeṣaṇam_viśeṣaṇa_SNNe yuktam_yuj_SNPaNe anupakārakasya_anupakāraka_SGM viśeṣaṇa_viśeṣaṇa_Cp tva_tva_Cp ayogāt_ayoga_SBM upakāraka_upakāraka"
+  }
+]

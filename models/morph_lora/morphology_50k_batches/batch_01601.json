@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12800,
+    "sanskrit": "pūrvoktā dik samanantaraślokoktā /",
+    "english": "[verses 2308-2309]: ‘In the manner shown above’, in the preceding text.",
+    "morphology": "__pūrva_U __vac_PaU"
+  },
+  {
+    "index": 12801,
+    "sanskrit": "dāmavyālakaṭākāraiścetaḥ pariṇataṃ yathā / bhīmabhāsadṛḍhanyāyo rāghavāstvacalastava //",
+    "english": "The demons Dama, Vyala and Kata, were destroyed by reliance on their minds (i.e. by thinking their bodies as their souls); but Bhima, Bhasa and Dridha were saved by their belief in the Supreme soul, as pervading all things. Therefore, O Rama! reject the examples of the former, imitate that of the latter.",
+    "morphology": "dāma_dāman_Cp vyāla_vyāla_Cp kaṭa_kaṭa_Cp ākāraiḥ_ākāra_PIM cetaḥ_cetas_SNNe pariṇatam_pariṇam_SNPaNe yathā_yathā_  / bhīma_bhīma_Cp bhāsa_bhāsa_Cp dṛḍha_dṛḍha_Cp nyāyaḥ_nyāya_SNM ḥḥ_ḥḥ_"
+  },
+  {
+    "index": 12802,
+    "sanskrit": "yasmātsarvāḥ prasūyante sargapralayavikriyāḥ / yasmiṃścaiva pralīyante yanmayāstaccidambaram //",
+    "english": "It is the intellectual vacuum which produces everything, and at last reduces all to itself; and the changes of creation and dissolution, are all the working of this vacuity. (But how can the vacuous nothing produce any thing from itself or reduce any into it.",
+    "morphology": "yasmāt_yad_SBM sarvāḥ_sarva_PNF prasūyante_prasū_PPr3InPv sarga_sarga_Cp pralaya_pralaya_Cp vikriyāḥ_vikriyā_PNF  / yasmin_yad_SLM ca_ca_ eva_eva_ pralīyante_pralī_PPr3In yad_yad_Cp mayāḥ_maya_PNM tat_tad_SNNe cit_cit_Cp ambaram_ambara_SNNe"
+  },
+  {
+    "index": 12803,
+    "sanskrit": "śrīkaṇṭhaḥ śatarudrāḥ śatamityaṣṭādaśābhyadhikam||",
+    "english": "\"Vīreśa, Śrīkaṇṭha, and the hundred Rudras,—these together are the hundred and eighteen.\"",
+    "morphology": "__śrīkaṇṭha_U __śata_U __rudra_U"
+  },
+  {
+    "index": 12804,
+    "sanskrit": "yāvajjīvādipadaiś ca nityatāyā avagamitatvād viśvajinnyāyo 'pi nāsti /",
+    "english": "And since the Veda has declared them to be compulsory by means of such phrases \"throughout one\" s life\" and the like, there can be no justification for applying the principleof the sacrifice and assume the reward to consist in the attaining of heaven.",
+    "morphology": "yāvat_yāvat_ ā_ā_ iti_iti_ ā_ā_"
+  },
+  {
+    "index": 12805,
+    "sanskrit": "vacasām pratibandhaḥ vā kaḥ bāhyeṣu api vastuṣu | pratipādayatām tāni yena eṣām syāt pramāṇa tā || bhinna akṣa grahaṇa ādibhyaḥ na aikātmyam na tad udbhavaḥ | vyabhicārāt na ca anyasya yujyate avyabhicāri tā ||",
+    "english": "What is the connection between words and external objects, by expressing which latter the words would be ‘true’ (valid)?—The connection between them cannot be of the nature of being the same in essence,—because they are apprehended by different sense-organs, and for other reasons. nor can the connection between them be that of one being produced from the other; because this is not true. Nor is there any other connection possible which could be true",
+    "morphology": "vacasām_vacas_PGNe pratibandhaḥ_pratibandha_SNM vā_vā_U kaḥ_ka_SNM bāhyeṣu_bāhya_PLNe api_api_U vastuṣu_vastu_PLNe  / pratipādayatām_pratipāday_PGPaPrM tāni_tad_PANe yena_yad_SINe eṣām_idam_PGM syāt_as_SPr3O pramāṇa_pramāṇa_NeCp "
+  },
+  {
+    "index": 12806,
+    "sanskrit": "dharmasya tannimittatvātmasādhanaphalātmanaḥ tantravārtike /",
+    "english": "To all this we make the following reply That signification of the word which is based upon the scriptures is decidedly the more authoritative because the knowledge of Dharma, which consists of certain means and con sequences, is gained by means of the scriptures alone.",
+    "morphology": "__dharma_U __tad_U __nimitta_U __tva_U __ātman_U __sādhana_U __phala_U __ātman_U"
+  },
+  {
+    "index": 12807,
+    "sanskrit": "tat ekasmin adhiṣṭhāne saṃvādaḥ śrūyatām ayam",
+    "english": "Listen to that conversation as it happened between the monarch and Sulabha.",
+    "morphology": "tat_tad_SNNe ekasmin_eka_SLNe adhiṣṭhāne_adhiṣṭhāna_SLNe"
+  }
+]

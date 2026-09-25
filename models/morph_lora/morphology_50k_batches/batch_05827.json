@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46608,
+    "sanskrit": "devebhyaḥ karma kṛtvāstam preta sudānavaḥ |",
+    "english": "Having done the deed to the gods go ye To your home, ye bounteous ones.",
+    "morphology": "devebhyaḥ_deva_PDM karma_karman_SANe kṛtvā_kṛ_Co astam_asta_SANe preta_pre_PPr2Im sudānavaḥ_sudānu_PVM"
+  },
+  {
+    "index": 46609,
+    "sanskrit": "saḥ evam uktvā śacī samīpam agamat uvāca ca enām",
+    "english": "Only, his spouse Sachi is not by. Having said this, Nahusha proceeded to where Sachi was and, addressing her, said,--O blessed lady, I have become the lord of the deities.",
+    "morphology": "saḥ_tad_SNM evam_evam_U uktvā_vac_Co śacī_śacī_FCp samīpam_samīpa_SANe agamat_gam_SPs3In uvāca_vac_SPs3In ca_ca_U enām_enad_SAF"
+  },
+  {
+    "index": 46610,
+    "sanskrit": "viṣuve haimamatsyena dhenvā kṣaumayugānvitam | yo dadyātpṛthivī tena dattā bhavati cākhilā || 71 ||",
+    "english": "71. If anyone makes the gift (of this Purāṇa) covered with a silk cloth on the day of equinox along with a gold replica of a fish and a cow, it is as though the entire earth has been gifted by him.",
+    "morphology": "viṣuve_viṣuva_SLNe haima_haima_Cp matsyena_matsya_SINe dhenvā_dhenu_SIF kṣauma_kṣauma_Cp yuga_yuga_Cp anvitam_anvita_SANe  / yaḥ_yad_SNM dadyāt_dā_SPr3O pṛthivī_pṛthivī_SNF tena_tad_SIM dattā_dā_SNPaF bhavati_bhū_SPr3In ca_ca_ akhilā"
+  },
+  {
+    "index": 46611,
+    "sanskrit": "paśyeccarācaraṃ viśvaṃ jñānādaśa sunirmale | sthito hastatale nityaṃ nirmalastasya darpaṇaḥ || 13 ||",
+    "english": "13. Let him see the universe consisting of the mobile and immobile beings in the mirror of knowledge. Hence there is a clean mirror always in his hand which is free from impurities.",
+    "morphology": "paśyet_paś_SPr3O carācaram_carācara_SANe viśvam_viśva_SANe jñānāt_jñāna_SBNe aśa_aśan_SANe su_su_ nirmale_nirmala_SLM  / sthitaḥ_sthā_SNPaM hasta_hasta_Cp tale_tala_SLM nityam_nityam_ nirmalaḥ_nirmala_SNM tasya_tad_SGM darpaṇaḥ_darpa"
+  },
+  {
+    "index": 46612,
+    "sanskrit": "pārāśarya sagotrasya vṛddhasya su mahātmanaḥ bhikṣoḥ pañcaśikhasya aham śiṣyaḥ parama saṃmataḥ",
+    "english": "Hear me also I tell thee who that person is from whom in days of old I acquired this distinguishing knowledge.[1680] I am the beloved disciple of the high-souled and venerable Panchasikha, belonging to the mendicant order, of Parasara's race.",
+    "morphology": "pārāśarya_pārāśarya_MCp sagotrasya_sagotra_SGM vṛddhasya_vṛddha_SGM su_su_U mahātmanaḥ_mahātman_SGM bhikṣoḥ_bhikṣu_SGM pañcaśikhasya_pañcaśikha_SGM aham_mad_SN śiṣyaḥ_śiṣya_SNM parama_parama_Cp saṃmataḥ_samman_SNPaPsM"
+  },
+  {
+    "index": 46613,
+    "sanskrit": "virāṭa nagare channaḥ cariṣyāmi mahīpate",
+    "english": "Thus disguised, O king, I shall spend my days delightfully in the city of Virata.",
+    "morphology": "virāṭa_virāṭa_MCp nagare_nagara_SLNe channaḥ_chad_SNPaPsM"
+  },
+  {
+    "index": 46614,
+    "sanskrit": "brahmāditṛṇaparyaṃtaṃ tenedaṃ tarpitaṃ jagat | paṃcāmṛtena talliṃgaṃ snāpayedyaśca buddhimān || 30 ||",
+    "english": "If a person faithfully bathes the Liṅga with pure water, the entire universe beginning with Brahmā and ending with a blade of grass is propitiated.",
+    "morphology": "brahma_brahman_Cp ādi_ādi_Cp tṛṇa_tṛṇa_Cp paryantam_paryanta_SNNe tena_tad_SIM idam_idam_SNNe tarpitam_tarpay_SNPaNe jagat_jagant_SNNe  / pañcāmṛtena_pañcāmṛta_SINe tad_tad_Cp liṃgam_liṅga_SANe snāpayet_snāpay_SPr3O yaḥ_yad_SNM ca"
+  },
+  {
+    "index": 46615,
+    "sanskrit": "pṛthivyām yāni tīrthāni antarikṣa carāṇi ca nadyaḥ nadāḥ taḍāgāḥ ca sarva prasravaṇāni ca",
+    "english": "Whatever tirthas exist on earth or in the firmament, all the rivers, lakes, smaller lakes, springs, tanks, large and small, and spots sacred to particular gods, without doubt, all come, O tiger among men, month after month, and mingle with Sannihati, O king of men! And it is because that all other tirthas are united together here, that this tirtha is so called.",
+    "morphology": "pṛthivyām_pṛthivī_SLF yāni_yad_PNNe tīrthāni_tīrtha_PNNe antarikṣa_antarikṣa_NeCp carāṇi_cara_PNNe ca_ca_U nadyaḥ_nadī_PNF nadāḥ_nada_PNM taḍāgāḥ_taḍāga_PNM ca_ca_U sarva_sarva_Cp prasravaṇāni_prasravaṇa_PNNe ca_ca_U"
+  }
+]

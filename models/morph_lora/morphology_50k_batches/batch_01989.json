@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15904,
+    "sanskrit": "tāṃś ca dṣṭvā, cittam prasāditam |",
+    "english": "After seeing them, he had a faithful thought.",
+    "morphology": "tān_tad_PAM"
+  },
+  {
+    "index": 15905,
+    "sanskrit": "vyadṛśyata tathā yuktaḥ yathā syāt pañcaviṃśakaḥ",
+    "english": "And he looked like one only twenty-five years old.",
+    "morphology": "vyadṛśyata_vidṛś_SPs3InPv tathā_tathā_U yuktaḥ_yuj_SNPaPsM"
+  },
+  {
+    "index": 15906,
+    "sanskrit": "jaya artham eva yoddhavyam na krudhyet a jighāṃsataḥ",
+    "english": "One should fight righteously, without yielding to wrath or desiring to slay.",
+    "morphology": "jaya_jaya_MCp ṛṣṭaḥ_ṛṣṭaḥ_SNM"
+  },
+  {
+    "index": 15907,
+    "sanskrit": "tathā hi nihitaṃ dravyamahāryamanugāmi ca //",
+    "english": "Goods deposited in this manner are imperishable and follow us after death.",
+    "morphology": "tathā_tathā_ ḥ_aḥ_ ḥ_ḥ_ ḥ_ḥ_ ḥ_ḥ_"
+  },
+  {
+    "index": 15908,
+    "sanskrit": "atha svāmipuṣkariṇī snānāttāmisrādinarakanistāraḥ | ṛṣaya ūcuḥ | sūta sarvārthatattvajña vedavedāṃgapāraga | śrīsvāmipuṣkariṇyāśca vaibhavaṃ vada naḥ prabho || 1 || yasyāḥ smaraṇamātreṇa muktaḥ syānmānavo bhuvi || 2 ||",
+    "english": "1-2. O Sūta conversant with the essence of all things, O master of Vedas and Vedāṅgas, O holy lord, describe to us the greatness of Śrī Svāmipuṣkariṇī, merely by remembering which a man on the earth shall become liberated.",
+    "morphology": "atha_atha_ svāmipuṣkariṇī_svāmipuṣkariṇī_Cp snānāt_snāna_SBNe tāmisra_tāmisra_Cp ādi_ādi_Cp naraka_naraka_Cp nistāraḥ_nistāra_SNM  / ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / sūta_sūta_SVM sarva_sarva_Cp artha_artha_Cp tattva_"
+  },
+  {
+    "index": 15909,
+    "sanskrit": "tad etat badhirasya rāmāyaṇaṃ varṇitam asmābhiḥ yū evam api śrutvā vedārthaparigamābhiupāyaṃ mṛgayate /",
+    "english": "Now we under- stand that all our previous discussions about the Vedas are like the recital of the Rāmāyaṇa before a deaf person. These critics have heard everything with regard to the ways and means of finding out the meaning of the Vedas.",
+    "morphology": "tat_tad_SNNe etat_etad_SNNe badhirasya_badhira_SGM rāmāyaṇam_rāmāyaṇa_SNNe varṇitam_varṇay_SNPaNe asmābhiḥ_mad_PI evam_evam_ api_api_ śrutvā_śru_Co veda_veda_Cp artha_artha_Cp parigama_parigama_Cp abhi_abhi_ upāyam_upāya_SAM"
+  },
+  {
+    "index": 15910,
+    "sanskrit": "kundadanta uvāca / jaranmunirapītyuktvā dhyānamīlitalocanaḥ / āsīdaspanditaprāṇamanāścitra ivārpitaḥ //",
+    "english": "Kundadanta rejoined:—The old sage having said so far, closed his eyes in meditation; and he became as motionless as a statue or picture, without any action of his breath and mind.",
+    "morphology": "kunda_kunda_Cp dantaḥ_danta_SNM uvāca_vac_SPs3In  / jaran_jṛ_PaPrCp muniḥ_muni_SNM api_api_ iti_iti_ uktvā_vac_Co dhyāna_dhyāna_Cp mīlita_mīlay_PaCp locanaḥ_locana_SNM  / āsīt_as_S3ImIn a_a_ spandita_spand_PaCp prāṇa_prāṇa_Cp manāḥ"
+  },
+  {
+    "index": 15911,
+    "sanskrit": "'dṛśyate tvagyrayā buddhyā' kaṭhopa iti mavagamyate/ sati ca tattvajñāne, mithyābhūte jagati naraviṣāṇādāviva dhīvṛttyanudayādātmanaśca dṛṣṭatvena punarvṛttyanupayogānnirindhanāgnivanmano naśyati/",
+    "english": "When the Supreme Reality becomes known, the world becomes unreal and no mental modification about this unreal world takes place just as a transformation in the shape of the 'horns of a man' never takes place ; further mental transformation is unnecessary since the Atman is already seen, so the mind dissolves, even as a fire is extinguished in the absence of fuel.",
+    "morphology": "a_a_ dṛśyate_dṛś_SPr3InPv tvagyrayā_tvagyra_SIF buddhyā_buddhi_SIF kaṭhopaḥ_kaṭhopa_SNM iti_iti_ m_m_SNNe avagamyate_avagam_SPr3InPv sati_as_SLPaPrNe ca_ca_ tattva_tattva_Cp jñāne_jñāna_SLNe mithyābhūte_mithyābhūta_SLNe jagati_jagant_"
+  }
+]

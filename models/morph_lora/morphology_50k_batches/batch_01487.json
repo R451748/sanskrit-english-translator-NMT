@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11888,
+    "sanskrit": "pañcāhāni tathaivāsminvāraṇe patitasthite / duḥkhitaḥ sa nirāhāro rājā cāpy evam abravīt // bho lokapālā vrūtāsminnupāyaṃ saṃkaṭe mama / anyathopahariṣyāmi chittvāhaṃ svaśiro 'dya vaḥ //",
+    "english": "For five days the elephant remained in the same place where it had fallen, and the king was grieved and took no food, and prayed as follows: “O guardians of the world, teach me some remedy in this difficulty;",
+    "morphology": "pañca_pañcan_PANe ahāni_ahar_PANe tathā_tathā_ eva_eva_ asmin_idam_SLM vāraṇe_vāraṇa_SLM patita_pat_PaCp sthite_sthā_SLPaM  / duḥkhitaḥ_duḥkhita_SNM sa_tad_SNM nirāhāraḥ_nirāhāra_SNM rājā_rājan_SNM ca_ca_ api_api_ evam_evam_ abra"
+  },
+  {
+    "index": 11889,
+    "sanskrit": "apānāya vyānāya prāṇāya bhūri dhāyase / sarasvatyāḥ uru vyace vidhema haviṣā vayam /",
+    "english": "For expiration, vital air, and breath that amply nourishes, Let us with sacrifice adore Sarasvatī whose reach is wide.",
+    "morphology": "apānāya_apāna_SDM vyānāya_vyāna_SDM prāṇāya_prāṇa_SDM bhūri_bhūri_Cp dhāyase_dhāyas_SDM  / sarasvatyāḥ_sarasvatī_SGF uru_uru_SANe vyace_vyac_SDM vidhema_vidh_PPr1O"
+  },
+  {
+    "index": 11890,
+    "sanskrit": "kalpāṃtamiva saṃjātaṃ tadā tasmiṃśca kīlite | pārvatyā sahasā tasya kṛta kīlanakaṃ tadā || 4 ||",
+    "english": "4. At that time, when he was pinned down, it became as if it was the end of the Kalpa. It was all of a sudden that the transfixation was done by Pārvatī.",
+    "morphology": "kalpa_kalpa_Cp antam_anta_SNNe iva_iva_ saṃjātam_saṃjan_SNPaNe tadā_tadā_ tasmin_tad_SLM ca_ca_ kīlite_kīlay_SLPaM  / pārvatyā_pārvatī_SIF sahasā_sahasā_ tasya_tad_SGM kṛta_kṛ_SNPaNe kīlanakam_kīlanaka_SNNe"
+  },
+  {
+    "index": 11891,
+    "sanskrit": "kanyāyāḥ pūrveṇaiva doṣābhāva ukte vriyamāṇasya doṣārtham idam /",
+    "english": "That the girl incurs no sin having been already mentioned in the foregoing verse, the present verse is added for the purpose of declaring that there is none on the part of the bridegroom either.",
+    "morphology": "kanyāyāḥ_kanyā_SGF pūrveṇa_pūrva_SIM eva_eva_ doṣa_doṣa_Cp abhāvaḥ_abhāva_SNM ukte_vac_SLPaNe vriyamāṇasya_vṛ_SGPaPrMPv"
+  },
+  {
+    "index": 11892,
+    "sanskrit": "ākāśānantyāyatanam-upasaṃpadya",
+    "english": "abides in the sphere of endless space.",
+    "morphology": "ākāśānantya_ākāśānantya_Cp āyatanam_āyatana_SANe"
+  },
+  {
+    "index": 11893,
+    "sanskrit": "uktamidamanuśayā evāsravaughayogopādānasaṃśabditāḥ sūtreṣviti /",
+    "english": "In another Sutra, he says that chandarāga is a clinging.",
+    "morphology": "uktam_vac_SNPaNe idam_idam_SNNe anuśayāḥ_anuśaya_PNM eva_eva_ āsrava_āsrava_Cp ogha_ogha_Cp yoga_yoga_Cp upādāna_upādāna_Cp saṃśabditāḥ_saṃśabday_PNPaM"
+  },
+  {
+    "index": 11894,
+    "sanskrit": "prabuddhānāṃ mano rāma brahmaiveha hi netarat / jalasāmānyabuddhīnāmabdhernānyastaraṅgakaḥ //",
+    "english": "The minds of the enlightened are not different from the Divine Mind;as those that have the knowledge of the community of waters, do not regard the waves to differ from the waters of the sea.",
+    "morphology": "prabuddhānām_prabudh_PGPaM manaḥ_manas_SNNe rāma_rāma_SVM brahma_brahman_SNNe eva_eva_ iha_iha_ hi_hi_ na_na_ itarat_itara_SNNe  / jala_jala_Cp sāmānya_sāmānya_Cp buddhīnām_buddhi_PGF aḥ_aḥ_SNM "
+  },
+  {
+    "index": 11895,
+    "sanskrit": "sadā sauhṛdanirmuktāḥ pitaro'pi sutaiḥ saha | bhaviṣyaṃti pure hyasminkiṃ punarbāṃdhavādayaḥ || 16 ||",
+    "english": "16. In this city all fathers will be devoid of friendliness or affection for sons, still more so in the case of other kinsmen?",
+    "morphology": "sadā_sadā_ sauhṛda_sauhṛda_Cp nirmuktāḥ_nirmuc_PNPaM pitaraḥ_pitṛ_PNM api_api_ sutaiḥ_suta_PIM saha_saha_  / bhaviṣyanti_bhū_PFu3In pure_pura_SLNe hi_hi_ asmin_idam_SLNe kim_ka_SANe punar_punar_ bāndhava_bāndhava_Cp ādayaḥ_ādi_PNM"
+  }
+]

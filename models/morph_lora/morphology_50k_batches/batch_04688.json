@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37496,
+    "sanskrit": "pāke laghu uṣṇa vīryam ca kaṣāyam kapha nāśanam",
+    "english": "It is appetising, anuretic, and subdues the action of the deranged Kapha.",
+    "morphology": "pāke_pāka_SLM"
+  },
+  {
+    "index": 37497,
+    "sanskrit": "kṛtakṛtyāḥ bhaviṣyanti gandharvāḥ te na saṃśayaḥ",
+    "english": "Without doubt, the Gandharvas also will be highly obliged at this.",
+    "morphology": "kṛtakṛtyāḥ_kṛtakṛtya_PNM bhaviṣyanti_bhū_PFu3In gandharvāḥ_gandharva_PNM te_tvad_SG"
+  },
+  {
+    "index": 37498,
+    "sanskrit": "yam r̥tvijaḥ bahudhā kalpayantaḥ sa cetasaḥ yajñam imam vahanti yaḥ anūcānaḥ brāhmaṇaḥ yuktaḥ āsīt kā svit tatra yajamānasya sam vit",
+    "english": "HE whom the priests in sundry ways arranging the sacrifice, of one accord, bring hither, Who was appointed as a learned Brahman, -what is the sacrificer's knowledge of him?",
+    "morphology": "yam_yad_SAM r̥tvijaḥ_r̥tvij_PNM bahudhā_bahudhā_U kalpayantaḥ_kalpay_PNPaPrM sa_sa_U cetasaḥ_cetas_PNM yajñam_yajña_SAM imam_idam_SAM vahanti_vah_PPr3In yaḥ_yad_SNM anūcānaḥ_anuvac_SNPaPsM brāhmaṇaḥ_brāhmaṇa_SNM yuktaḥ_yuj_SNPaP"
+  },
+  {
+    "index": 37499,
+    "sanskrit": "prati spaśaḥ vi sr̥ja tūrṇi tamaḥ bhava pāyuḥ viśaḥ asyāḥ adabdhaḥ yaḥ naḥ dūre agha śaṁsaḥ yaḥ anti agne mākiḥ te vyathiḥ ā dadharṣīt",
+    "english": "Send thy spies forward, flectest in thy motion; be, ne'er deceived, the guardian of this people From him who, near or far, is bent on evil, and let no trouble sent from thee o'ercome us.",
+    "morphology": "prati_prati_U spaśaḥ_spaś_PAM vi_vi_U sr̥ja_srj_SPr2Im tūrṇi_tūrṇi_U tamaḥ_tamas_SANe bhava_bhū_SPr2Im pāyuḥ_pāyu_SNM viśaḥ_viś_SGF asyāḥ_idam_SGF adabdhaḥ_adabdha_SNM yaḥ_yad_SNM naḥ_mad_PA dūre_dūra_SLNe agha_agha_Cp śa"
+  },
+  {
+    "index": 37500,
+    "sanskrit": "imām ced pūrvam kitavaḥ aglahīṣyat",
+    "english": "If Yudhishthira had staked her before he was himself won, he would certainly have been regarded as her master.",
+    "morphology": "imā_idam_SAF"
+  },
+  {
+    "index": 37501,
+    "sanskrit": "yattarhi laguḍaśikhīyakānparivrājakānadhikṛṭyoktaṃ bhagavatā “yatkarmābhyatītaṃ kṣīṇaṃ niruddhaṃ vigataṃ vipariṇataṃ tadastī“ti /",
+    "english": "We see that the Blessed One, addressing the Lāguḍaśikhīyaka ascetics, expressed himself in this way, “Past action, which has been destroyed, which has perished, and which has ceased, does exist.” According to the proposed explanation, the sense would be, “This action was.”",
+    "morphology": "yat_yad_SNNe tarhi_tarhi_ laguḍa_laguḍa_Cp śikhīyakān_śikhīyaka_PAM parivrājakān_parivrājaka_PAM adhikṛṭya_adhikṛṣ_Co uktam_vac_SNPaNe bhagavatā_bhagavant_SIM  /"
+  },
+  {
+    "index": 37502,
+    "sanskrit": "tenātipatatā tatra kṣobhitaḥsa mahāhradaḥ / atyarthaṃ dūrajātāṃstu samasiṃcanmahīruhān // te hi duṣṭaviṣajvālātaptāṃbupavanokṣitāḥ / jajvaluḥ pādāpāḥsadyo jvālāvyāptadigantarāḥ //",
+    "english": "The waters, agitated by his plunge amidst them, were scattered to a considerable distance from the bank, and the spray falling upon the trees, they were immediately set on fire by the heat of the poisonous vapour combined with the water and the whole horizon was in a blaze.",
+    "morphology": "tena_tad_SIM atipatatā_atipat_SIPaPrM tatra_tatra_ kṣobhitaḥ_kṣobhay_SNPaM sa_tad_SNM mahā_mahat_Cp hradaḥ_hrada_SNM  / atyartham_atyartham_ dūra_dūra_Cp jātān_jan_PAPaM tu_tu_ samasiṃcat_saṃsic_S3ImIn mahīruhān_mahīruha_PAM  / te_tad_"
+  },
+  {
+    "index": 37503,
+    "sanskrit": "vyutkrāntakasamāpattāro hi tṛtīyāt pareṇa laṅghayituṃ notsahante /",
+    "english": "In fact, by reason of its too great distance, the ascetic is not capable of jumping over two spheres.",
+    "morphology": "vyutkrāntaka_vyutkrāntaka_Cp samāpattāraḥ_samāpattṛ_PNM hi_hi_ tṛtīyāt_tṛtīya_SBM pareṇa_pareṇa_"
+  }
+]

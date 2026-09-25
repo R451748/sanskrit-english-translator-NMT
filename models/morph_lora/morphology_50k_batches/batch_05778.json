@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46216,
+    "sanskrit": "niṣkṛtir iti /",
+    "english": "\"Killed\" murdered.",
+    "morphology": "niṣkṛtiḥ_niṣkṛti_SNF iti_"
+  },
+  {
+    "index": 46217,
+    "sanskrit": "yadabhāvanamāsthāya yadabhāvasya bhāvanam / yadyathāvastudarśitvaṃ tadacittatvamucyate //",
+    "english": "It is called unmindedness also, when the mind is practised to its Yoga, or thoughtlessness of all external objects, and remains transfixed in its vision of the sole essence of God.",
+    "morphology": "yat_yad_SNNe abhāvanam_abhāvana_SANe āsthāya_āsthā_Co yat_yad_SNNe abhāvasya_abhāva_SGM bhāvanam_bhāvana_SNNe  / yat_yad_SNNe yathā_yathā_ vastu_vastu_Cp darśi_darśin_Cp tvam_tva_SNNe tat_tad_SNNe acitta_acitta_Cp tvam_tva_SNNe ucyate_vac_SPr"
+  },
+  {
+    "index": 46218,
+    "sanskrit": "panasam sa kaṣāyam tu snigdham svādu rasam guru |",
+    "english": "The Panasam is sweet and astringent in taste, demulcent and heavy of digestion.",
+    "morphology": "panasam_panasa_SNNe sa_sa_U kaṣāyam_kaṣāya_SNNe tu_tu_U snigdham_snigdha_SNNe svādu_svādu_Cp rasam_rasa_SNNe guru_guru_SNNe  /"
+  },
+  {
+    "index": 46219,
+    "sanskrit": "sādhanaṃ śūnyatāprabhedapradarśane yuktiḥ //",
+    "english": "The logical proof [conveys] the reason for showing the different [aspects] of the Non-Substantiality.",
+    "morphology": "__sādhana_U __śūnyatā_U __prabheda_U __pradarśana_U __yukti_U  /"
+  },
+  {
+    "index": 46220,
+    "sanskrit": "acchedyastvamabhedyastvamaprameyomahā yaśāḥ | aśocyastvamadāhyo'si viduḥ paurāṇikā janāḥ || 67 ||",
+    "english": "67. People conversant with the Purāṇas know you. You cannot be cut off. You cannot be pierced through. You cannot be comprehended. You have great fame. You need not be grieved over. You are incapable of being burnt.",
+    "morphology": "acchedyaḥ_acchedya_SNM tvam_tvad_SN abhedyaḥ_abhedya_SNM tvam_tvad_SN aprameyaḥ_aprameya_SNM mahā_mahat_SNM yaśāḥ_yaśas_SNM  / aśocyaḥ_aśocya_SNM tvam_tvad_SN adāhyaḥ_adāhya_SNM asi_as_SPr2In viduḥ_vid_PPs3In paurāṇikāḥ_paurā"
+  },
+  {
+    "index": 46221,
+    "sanskrit": "tatas pareṇa yatnena taptvā bahuvidham tapaḥ tejasā bhāskara ākāraḥ gādhijaḥ samapadyata",
+    "english": "Then, having practised diverse kinds of austerities with great devotion, the son of Gadhi became like the Sun himself in effulgence.",
+    "morphology": "tatas_tatas_U pareṇa_para_SIM yatnena_yatna_SIM taptvā_tap_Co bahuvidham_bahuvidha_SANe tapaḥ_tapas_SANe tejasā_tejas_SINe bhāskara_bhāskara_MCp ākāraḥ_ākāra_SNM gādhijaḥ_gādhija_SNM samapadyata_sampad_SPs3In"
+  },
+  {
+    "index": 46222,
+    "sanskrit": "vetālo 'py avadaddeva nāsti śaktirmamedṛśī / śaktayo niyatā vāri vaidyutāgniṃ nu hanti kim //",
+    "english": "restore him to his former condition.” But the Vetāla said: “King, I have not the power to do this. Powers are strictly limited.",
+    "morphology": "vetālaḥ_vetāla_SNM api_api_ avadat_vad_S3ImIn deva_deva_SVM na_na_ asti_as_SPr3In śaktiḥ_śakti_SNF mama_mad_SG īdṛśī_īdṛśa_SNF  / śaktayaḥ_śakti_PNF niyatāḥ_niyam_PNPaF vāri_vāri_SNNe vaidyuta_vaidyuta_Cp agnim_agni_SAM nu_nu_ han"
+  },
+  {
+    "index": 46223,
+    "sanskrit": "yenābhyupeto 'si manorathena tameṣa te brāhmaṇa pūrayāmi /",
+    "english": "Brāhman, will fulfil thy wish, which has prompted thee to come here.",
+    "morphology": "yena_yad_SIM abhyupetaḥ_abhyupe_SNPaM asi_as_SPr2In manorathena_manoratha_SIM tam_tad_SAM eṣa_etad_SNM te_tvad_SG brāhmaṇa_brāhmaṇa_SVM pūrayāmi_pūray_SPr1In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1032,
+    "sanskrit": "asvedinau rāja putrasya hastau",
+    "english": "The two arms of this prince are never covered with sweat.",
+    "morphology": "asvedinau_asvedin_DuNM"
+  },
+  {
+    "index": 1033,
+    "sanskrit": "gorocanamayaṃ śeṣo nāma paśupatiḥ smṛtam | vāsukirviṣaliṃgaṃ ca nāma vai śaṃkareti ca || 191 ||",
+    "english": "191. Śeṣa worships a Liṅga made of Gorocana (i.e. a yellow pigment made of cow’s bile and urine). The name is remembered as Paśupati (‘the Lord of paśus’). Vāsuki worships Viṣaliṅga (‘poison-Liṅga’) and the name is Śaṅkara (‘Happiness-giver’).",
+    "morphology": "gorocana_gorocana_Cp mayam_maya_SNNe śeṣaḥ_śeṣa_SNM nāma_nāma_ paśupatiḥ_paśupati_SNM smṛtam_smṛ_SNPaNe  / vāsukiḥ_vāsuki_SNM viṣa_viṣa_Cp liṃgam_liṅga_SNNe ca_ca_ nāma_nāman_SNNe vai_vai_ śaṃkara_śaṃkara_Cp iti_iti_ c"
+  },
+  {
+    "index": 1034,
+    "sanskrit": "prathamam saṃsthitā bhāryā patim pretya pratīkṣate",
+    "english": "A wife going before waits for the husband.",
+    "morphology": "prathamam_prathamam_U saṃsthitā_saṃsthā_SNPaPsF bhāryā_bhāryā_SNF patim_pati_SAM pretya_pre_Co"
+  },
+  {
+    "index": 1035,
+    "sanskrit": "ekādaśyāṃ dhanaṃ dhānyaṃ śrāddhakartā labhennaraḥ | tathā bhūpaprasādaṃ ca yaccānyanmanasi sthitam || 12 ||",
+    "english": "12. A man who performs Śrāddha on the Ekādaśī (eleventh) day gets wealth, food-grain, favour of the king and whatever else he may have desired in his mind.",
+    "morphology": "ekādaśyām_ekādaśī_SLF dhanam_dhana_SANe dhānyam_dhānya_SANe śrāddha_śrāddha_Cp kartā_kartṛ_SNM labhet_labh_SPr3O naraḥ_nara_SNM  / tathā_tathā_ bhūpa_bhūpa_Cp prasādam_prasāda_SAM ca_ca_ yat_yad_SNNe ca_ca_ anyat_anya_SNNe manasi_man"
+  },
+  {
+    "index": 1036,
+    "sanskrit": "sūta uvāca | sūryavaṃśasamudbhūto bṛhadaśvasuto balī | khyātaḥ kuvalayāśveti dhaṃdhumārastathaiva saḥ || 6 ||",
+    "english": "Sūta said: 6. A powerful son of Bṛhadaśva was born in the race of the Sun-god. He is well known as Kuvalayāśva as well as Dhundhumāra.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / sūrya_sūrya_Cp vaṃśa_vaṃśa_Cp samudbhūtaḥ_samudbhū_SNPaM bṛhadaśva_bṛhadaśva_Cp sutaḥ_suta_SNM balī_balin_SNM  / khyātaḥ_khyā_SNPaM kuvalayāśva_kuvalayāśva_Cp iti_iti_ dhaṃdhumāraḥ_d"
+  },
+  {
+    "index": 1037,
+    "sanskrit": "na caeṣāṃ kiṃcid avarugṇaṃ bhavati //",
+    "english": "but no other kind of injury is done to them",
+    "morphology": "na_na_ ca_ca_ eṣām_idam_PGM kiṃcid_kaścit_SNNe avarugṇam_avaruj_SNPaNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 1038,
+    "sanskrit": "dīpanīyam laghutaram sa kaṣāyam ruci pradam",
+    "english": "It is appetising and is comparatively lighter, a little astringent in taste, and imparts a relish to food.",
+    "morphology": "dīpanīyam_dīpanīya_SNNe laghutaram_laghutara_SNNe sa_sa_U kaṣāyam_kaṣāya_SNNe ruci_ruci_FCp"
+  },
+  {
+    "index": 1039,
+    "sanskrit": "dvātriṃśatsthānake vārddhaṣoḍaśasthānakepi ca | aṣṭasthāne tathā caiva paṃcasthānepi nānyaset ||",
+    "english": "97. These lines are to be made either in thirty-two places, or half of that—in sixteen places, or in eight places or in five places.",
+    "morphology": "dvātriṃśat_dvātriṃśat_Cp sthānake_sthānaka_SLNe vā_vā_ arddha_ardha_Cp ṣoḍaśa_ṣoḍaśan_Cp sthānake_sthānaka_SLNe api_api_ ca_ca_  / aṣṭa_aṣṭan_Cp sthāne_sthāna_SLNe tathā_tathā_ ca_ca_ eva_eva_ pañca_pañcan_Cp sthāne_s"
+  }
+]

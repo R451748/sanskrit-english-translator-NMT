@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34936,
+    "sanskrit": "asyām diśi variṣṭhāyām uttarāyām dvijarṣabha na asaumyaḥ na avidheya ātmā na adharmyaḥ vasate janaḥ",
+    "english": "And, O bull among the twice-born, in this region that is superior to all, none can live that is unamiable, or of unbridled passions, or unrighteous.",
+    "morphology": "asyām_idam_SLF diśi_diś_SLF variṣṭhāyām_variṣṭha_SLF uttarāyām_uttara_SLF dvijarṣabha_dvijarṣabha_SVM na_na_U asaumyaḥ_asaumya_SNM na_na_U avidheya_avidheya_Cp ātmā_ātman_SNM na_na_U adharmyaḥ_adharmya_SNM vasāte_vas_SPr3In"
+  },
+  {
+    "index": 34937,
+    "sanskrit": "yad api bauddhāgame jātivādanirākaraṇaṃ tad api sarvānugrahapravaṇakaruṇātiśayapraśaṃsāparaṃ na ca yathāśrutam avagantavyam / tathā ca tatraitatpaṭhyate na jātikāryaduṣṭān pravrājayet iti /",
+    "english": "The refutation of caste-system purports to convey the good qualities of the heart of the Buddhists. The abolition of caste- system should not be literally taken. There is a rule in the Buddhist scriptures that a sick man or a man of very low birth should not be admitted to mendicant orders.",
+    "morphology": "yat_yad_SNNe api_api_ bauddha_bauddha_Cp āgame_āgama_SLM jāti_jāti_Cp vāda_vāda_Cp nirākaraṇam_nirākaraṇa_SNNe tat_tad_SNNe api_api_ sarva_sarva_Cp anugraha_anugraha_Cp pravaṇa_pravaṇa_Cp karuṇā_karuṇā_Cp atiśaya_atiśaya_Cp praśa"
+  },
+  {
+    "index": 34938,
+    "sanskrit": "yaḥ yathāprakṛtiḥ jantuḥ svām svām prakṛtim aśnute",
+    "english": "All creatures follow the principles of conduct which are innate in their nature.",
+    "morphology": "yaḥ_yad_SNM yathāprakṛtiḥ_yathāprakṛtiḥ_U jantuḥ_jantu_SNM svāhā_sva_SIF svāhā_sva_SIF prakṛtim_prakṛti_SAF"
+  },
+  {
+    "index": 34939,
+    "sanskrit": "dahyamānāḥ manaḥ duḥkhaiḥ vyādhibhiḥ ca āturāḥ narāḥ hlādante sveṣu dāreṣu gharma ārtāḥ salileṣu iva",
+    "english": "Men scorched by mental grief, or suffering under bodily pain, feel as much refreshed in the companionship of their wives as a perspiring person in a cool bath.",
+    "morphology": "dahyamānāḥ_dah_PNPaPrMPv manaḥ_manas_NeCp duḥkhaiḥ_duḥkha_PINe vyādhibhiḥ_vyādhi_PIM ca_ca_U āturāḥ_ātura_PNM narāḥ_nara_PNM hlādante_hlād_PPr3In sveṣu_sva_PLM dāreṣu_dāra_PLM gharma_gharma_MCp ārtāḥ_ārta_PNM salileṣu"
+  },
+  {
+    "index": 34940,
+    "sanskrit": "tathā ca tam parākrāntam ālokya madhusūdanaḥ uvāca devakīputraḥ prīyamāṇaḥ dhanaṃjayam eṣa śāṃtanavaḥ bhīṣmaḥ senayoḥ antare sthitaḥ",
+    "english": "Beholding him thus put forth his prowess, the slayer of Madhu, viz., the son of Devaki, cheerfully addressing Dhananjaya, said, 'There, Bhishma, the son of Santanu, stayeth between the two armies.",
+    "morphology": "tathā_tathā_U ca_ca_U tam_tad_SAM parākrāntam_parākram_SAPaPsM ālokya_ālokay_Co madhusūdanaḥ_madhusūdana_SNM uvāca_vac_SPs3In devakīputraḥ_devakīputra_SNM prīyamāṇaḥ_prī_SNPaPrMPv dhanaṃjayam_dhanaṃjaya_SAM eṣa_etad_SNM śāṃ"
+  },
+  {
+    "index": 34941,
+    "sanskrit": "tam vāsukiḥ pratyagṛhṇāt udyamya bhaginīm tadā",
+    "english": "Thereupon Vasuki rose and offered his sister for the Rishi's acceptance.",
+    "morphology": "tam_tad_SAM"
+  },
+  {
+    "index": 34942,
+    "sanskrit": "pūjayitvā yathānyāyam abravīt tam śakuntalā śakuntalā abhivādaya rājānam pitaram te dṛḍha vratam",
+    "english": "And Sakuntala having worshipped the king according to proper form, told him, 'This is thy son, O king! Let him be installed as thy heir-apparent.",
+    "morphology": "pūjayitvā_pūjay_Co yathānyāyam_yathānyāyam_U abravīt_brū_SPs3In tam_tad_SAM śakuntalā_śakuntalā_SNF śakuntalā_śakuntalā_SNF abhivādaya_abhivāday_SPr2Im rājānam_rājan_SAM pitaram_pitṛ_SAM te_tvad_SG dṛḍha_dṛḍha_Cp vratā_vrat"
+  },
+  {
+    "index": 34943,
+    "sanskrit": "nārī parama dharma jña sarvā putra vinākṛtā",
+    "english": "'O virtuous one', she said, 'Women serve no purpose when their husbands are dead.",
+    "morphology": "nārī_nārī_SNF parama_parama_Cp dharma_dharma_MCp jña_jña_SVM sarvā_sarva_SNF putra_putra_MCp vinākṛtā_vinākṛta_SNF"
+  }
+]

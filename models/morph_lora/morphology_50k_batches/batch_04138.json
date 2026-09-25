@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33096,
+    "sanskrit": "kāntiḥ prabhā kīrtir atho vibhūtiḥ sarasvatī vāg atha pāvanī ca //",
+    "english": "thou art the power of expression;",
+    "morphology": "kāntiḥ_kānti_SNF"
+  },
+  {
+    "index": 33097,
+    "sanskrit": "jalaṃdharāya vīrāya sāgaraprabhavāya ca | dadau brahmavidhānena svasutāṃ prāṇavallabhām ||",
+    "english": "35. He gave his beloved daughter to Jalandhara, the brave son of the ocean, in marriage performing the nuptial rites according to the Brāhma style.[3]",
+    "morphology": "jalaṃdharāya_jalaṃdhara_SDM vīrāya_vīra_SDM sāgaraprabhavāya_sāgaraprabhava_SDM ca_ca_  / dadau_dā_SPs3In brahma_brahman_Cp vidhānena_vidhāna_SINe sva_sva_Cp sutām_sutā_SAF prāṇa_prāṇa_Cp vallabhā_vallabha_SNF"
+  },
+  {
+    "index": 33098,
+    "sanskrit": "viśvajitā ca iṣṭvā vanam praviveśa",
+    "english": "And then he entered into the woods.",
+    "morphology": "viḥ_viḥ_U"
+  },
+  {
+    "index": 33099,
+    "sanskrit": "|devyuvāca | bhagavanprāṇinaḥ sarve sarvopadravasaṃkulāḥ | alpāyuṣaḥ sadā baddhā vyāmohairmaṃdirodbhavaiḥ || 101 ||",
+    "english": "The Devī said: 101. O holy Lord, all the living beings are overwhelmed by all sorts of harassments and tortures. Their span of life is short and they are fettered down. They are faced with delusions regarding holy shrines.",
+    "morphology": "__bhagavant_U __prāṇin_U __sarva_U __sarva_U __upadrava_U __saṃkula_U  / __alpa_U __āyus_U sadā_sadā_U __bandh_PaU __vyāmoha_U __mandira_U __udbhava_U"
+  },
+  {
+    "index": 33100,
+    "sanskrit": "gaṃgā'pi devadevasya caraṇāṃguṣṭhavāhinī | pāpaghnī sā sadā proktā cāturmāsye viśeṣataḥ || 24 ||",
+    "english": "24. Gaṅgā flows from the toe of the Lord of Devas. It is said to be the destroyer of sins always, especially during the four months.",
+    "morphology": "gaṃgā_gaṅgā_SNF api_api_ devadevasya_devadeva_SGM caraṇa_caraṇa_Cp aṃguṣṭha_aṅguṣṭha_Cp vāhinī_vāhin_SNF  / pāpa_pāpa_Cp ghnī_ghna_SNF sā_tad_SNF sadā_sadā_ proktā_pravac_SNPaF __cāturmāsya_U __viśeṣataḥ_"
+  },
+  {
+    "index": 33101,
+    "sanskrit": "na ca kācana niṣphalā kriyā / yad api na kurvīta vṛthā ceṣṭām iti, bhasmani hutam, viṣayāntare deśarājavārtādyanveṣaṇam, tatrāpi kriyāphalaṃ vidyate / kiṃ tu pradhānaphalaṃ svargagrāmādi puruṣasya yad dṛṣṭādṛṣṭayor upayujyate tadabhāvād vṛthā ceṣṭety ucyate /",
+    "english": "As for the assertion contained in that \"one should not act aimlessly\" pouring libations on extinguished fire, or seeking for information regarding what is happening to kings and places of other countries, in reality, in these cases also there is some result following from the act; and all that is meant by calling them \"aimless\" is that they do not bring about any important results, in the shape of attainment of Heaven, acquisition of villageproperty and so forth, which are useful to men in the invisible and visible spheres.",
+    "morphology": "na_na_ ca_ca_ kācana_kaścana_SNF niṣphalā_niṣphala_SNF kriyā_kriyā_SNF  / yat_yad_SANe api_api_ na_na_ kurvīta_kṛ_SPr3O vṛthak_vṛthak_ ceṣṭām_ceṣṭā_SAF iti_iti_ bhasmani_bhasman_SLNe hutam_hu_SNPaNe viṣaya_viṣaya_Cp antare_ant"
+  },
+  {
+    "index": 33102,
+    "sanskrit": "rathāḥ ca bahavaḥ bhagnāḥ hayāḥ ca śataśas hatāḥ gajāḥ ca sa gaja ārohāḥ petuḥ urvyām mahā mṛdhe",
+    "english": "Innumerable cars were broken, and steeds by hundreds were slain, and many elephants, along with their riders, were laid low on the field in that dreadful battle.",
+    "morphology": "rathāḥ_ratha_PNM ca_ca_U bahavaḥ_bahu_PNM bhagnāḥ_bhañj_PNPaPsM hayāḥ_haya_PNM ca_ca_U śataśas_śataśas_U hatāḥ_han_PNPaPsM gajāḥ_gaja_PNM ca_ca_U sa_sa_U gaja_gaja_MCp ārohāḥ_āroha_PNM"
+  },
+  {
+    "index": 33103,
+    "sanskrit": "vaiśaṃpāyana uvāca evam uktā niruddhena uṣā viśrambham āgatā / nṛśaṃsaṃ cāpi pitaraṃ śocate sā sumadhyamā /",
+    "english": "Vaishampāyana said:—While the heroic Aniruddha was imprisoned in the city of Shonita along with Ushā by Bali's son king Vāna, he, seeking refuge with goddess Koumāri for his own safety, sang a hymn in her praise.",
+    "morphology": "vaiśaṃpāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In evam_evam_ uktā_vac_SNPaF niruddhena_niruddha_SIM uṣāḥ_uṣas_SNF viśrambham_viśrambha_SAM āgatā_āgam_SNPaF  / nṛśaṃsaḥ_nṛśaṃsa_SNM"
+  }
+]

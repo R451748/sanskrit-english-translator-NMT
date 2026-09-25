@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7272,
+    "sanskrit": "sambhārāpariniṣpattau sarvajñatā karatalagatavad bhaviṣyati /",
+    "english": "When sambhāras are completed, sarvajñata will be in hand.",
+    "morphology": "sambhāra_sambhāra_Cp a_a_ pariniṣpattau_pariniṣpatti_SLF sarvajña_sarvajña_Cp tā_tā_SNF"
+  },
+  {
+    "index": 7273,
+    "sanskrit": "buddhaṃ sadapavargaṃ tatsasargamapi satsamam / abuddhaṃ sargarūpātma visargamapi tatsadā //",
+    "english": "This knowledge of God is bliss itself, and his creation is identic with himself. Ignorance of God leads to the knowledge of the objective world, and its extinction is the way to know the eternity of His existence.",
+    "morphology": "buddham_budh_SNPaNe sat_as_PaPrCp apavargam_apavarga_SNNe tat_tad_SNNe sa_sa_ sargam_sarga_SNNe api_api_ sat_as_PaPrCp samam_sama_SNNe  / abuddham_abuddha_SNNe sarga_sarga_Cp rūpa_rūpa_Cp ātma_ātman_SNNe visargam_visarga_SNNe api_api_ tat_tad_SNNe sad"
+  },
+  {
+    "index": 7274,
+    "sanskrit": "himavantam atikramya uttaram pārśvam āgamat",
+    "english": "and then having crossed the Himavat mountains, she came to its northern side.",
+    "morphology": "himavantam_himavant_SAM"
+  },
+  {
+    "index": 7275,
+    "sanskrit": "dravyaikatve karmabhedātpratikarma kriyeran tantravārtika / idānoṃ sarasu śeṣakāryeṣu tahiśeṣāścintyante /",
+    "english": "mani. . Sūtra The material being one, and the Actions “diverse, the actions in question should be per “formed with each action.” It having been established that there are certain Offerings of Rem nants to be performed, we now proceed to consider the case of particular Offerings of Remnants.",
+    "morphology": "dravya_dravya_Cp eka_eka_Cp tve_tva_SLNe karma_karman_Cp bhedāt_bheda_SBM pratikarma_pratikarman_SANe kriyeran_kṛ_PPr3OPv tantra_tantra_Cp vārttika_vārttika_SVM  / idānīm_idānīm_ sarasu_saras_PLNe śeṣa_śeṣa_Cp kāryeṣu_kārya_PLNe  /"
+  },
+  {
+    "index": 7276,
+    "sanskrit": "turagāvacaraṃ sa bodhayitvā javinaṃ chaṃdakamitthamityuvāca | hayamānaya kaṃthakaṃ tvarāvān amṛtaṃ prāptumito 'dya me yiyāsā ||",
+    "english": "Having awakened his horse’s attendant, the swift Chaṃdaka, he thus addressed him: ‘Bring me quickly my horse Kaṃthaka, I wish to-day to go hence to attain immortality.",
+    "morphology": "turaga_turaga_Cp avacaram_avacara_SAM sa_tad_SNM bodhayitvā_bodhay_Co javinam_javin_SAM chaṃdakam_chandaka_SAM ittham_ittham_ iti_iti_ uvāca_vac_SPs3In  / hayam_haya_SAM ānaya_ānī_SPr2Im kaṃthakam_kanthaka_SAM tvarāvān_tvarāvat_SNM amṛtam_am"
+  },
+  {
+    "index": 7277,
+    "sanskrit": "āpo varuṇasya patnaya āsan tā agnir abhy adhyāyat tāḥ sam abhavat tasya retaḥ parāpatat tad iyam abhavad yad dvitīyam parāpatat tad asāv abhavad iyaṃ vai virāḍ asau {svarāḍ < svarāj} yad virājāv upadadhātīme evopa dhatte yad vā asau retaḥ siñcati tad asyām prati tiṣṭhati tat pra jāyate tā oṣadhayaḥ |",
+    "english": "what second fell away became yonder (sky); this is the Viraj, yonder the Svaraj; in that he puts down two Viraj (bricks) he puts down these two (worlds). Now the seed which yonder (sky) impregnates, finds support in this (earth), it is propagated, it becomes plants [1] and shoots; them the fire eats.",
+    "morphology": "āpaḥ_ap_PNF varuṇasya_varuṇa_SGM patnayaḥ_patnī_PNF āsan_as_P3ImIn tāḥ_tad_PAF agniḥ_agni_SNM abhi_abhi_ adhyāyat_dhī_S3ImIn tāḥ_tad_PAF sam_sam_ abhavat_bhū_S3ImIn tasya_tad_SGM retaḥ_retas_SNNe parāpatat_parāpat_S3ImIn tat_tad_S"
+  },
+  {
+    "index": 7278,
+    "sanskrit": "mūlam kṛṣṇaḥ brahma ca brāhmaṇāḥ ca",
+    "english": "and its roots are Krishna, Brahma, and the Brahmanas.",
+    "morphology": "mūlam_mūla_SNNe kṛṣṇaḥ_kṛṣṇa_SNM"
+  },
+  {
+    "index": 7279,
+    "sanskrit": "tatpraviṣṭā vayaṃ kīrṇaśirāntra bhīmapakkaṇam / mṛtabhūtaṃ jagatkalpe kṛtāntānucarā iva //",
+    "english": "We then entered the house scattered with disgusting entrails and intestines about, and I thought myself as the ghost of a dead man standing beside the regent of death.",
+    "morphology": "tad_tad_Cp praviṣṭāḥ_praviś_PNPaM vayam_mad_PN bhīma_bhīma_Cp pakkaṇam_pakkaṇa_SANe  / mṛta_mṛ_PaCp bhūtam_bhū_SAPaNe"
+  }
+]

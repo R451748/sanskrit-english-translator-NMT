@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2016,
+    "sanskrit": "anyonyam abhidhāvantau goṣṭheṣu iva mahā ṛṣabhau",
+    "english": "And they rushed against each other like two mighty bulls in a cow-pen.",
+    "morphology": "anyonyam_anyonya_SAM abhidhāvantau_abhidhāv_DuNPaPrM goṣṭheṣu_goṣṭha_PLM iva_iva_U mahā_mahat_Cp ṛṣabhau_ṛṣabha_DuNM"
+  },
+  {
+    "index": 2017,
+    "sanskrit": "daśa nāma sahasrāṇi yāni āha prapitāmahaḥ",
+    "english": "These names that I shall recite are extracted from the ten thousand names that the great Grandsire had uttered in days of yore, as ghee is extracted from curds.",
+    "morphology": "daśa_daśan_SANe nāma_nāman_NeCp sahasrāṇi_sahasra_PANe"
+  },
+  {
+    "index": 2018,
+    "sanskrit": "sapta ṛṣīn vai idam brūmaḥ apaḥ devīḥ prajāpatim / pitṝn yama śreṣṭhān brūmaḥ te naḥ muñcantu aṃhasaḥ /",
+    "english": "Or the Seven Rishis we address, Waters divine, Prajāpati, Fathers with Yama at their head: may they deliver us from woe.",
+    "morphology": "sapta_saptan_Cp ṛṣīn_ṛṣi_PAM vai_vai_U idam_idam_SANe brūmaḥ_brū_PPr1In apaḥ_ap_PAF devīḥ_devī_PAF prajāpatim_prajāpati_SAM  / pitṝn_pitṛ_PAM yama_yama_MCp śreṣṭhān_śreṣṭha_PAM brūmaḥ_brū_PPr1In te_tad_PNM naḥ_mad_"
+  },
+  {
+    "index": 2019,
+    "sanskrit": "athavā śivanāmāni saṃkīrtya varagītibhiḥ | śivanṛtyaṃ ca racayanbhaktaiḥ sārddhaṃ parikramet || 41 ||",
+    "english": "41. Or the devotee should circumambulate along with other devotees chanting the names of Śiva, singing excellent songs and dancing like Śiva.",
+    "morphology": "athavā_athavā_ śiva_śiva_Cp nāmāni_nāman_PANe saṃkīrtya_saṃkīrtay_Co vara_vara_Cp gītibhiḥ_gīti_PIF  / śiva_śiva_Cp nṛtyam_nṛtya_SANe ca_ca_ racayan_racay_SNPaPrM bhaktaiḥ_bhakta_PIM sārddham_sārdham_ parikramet_parikram_SPr3O"
+  },
+  {
+    "index": 2020,
+    "sanskrit": "ityuktvā bhagavānviṣṇurmūrtimadhye viveśa ha | vilokya māno nimiṣaṃ mātrā caiva sutena ca || 238 ||",
+    "english": "238. After saying thus, Lord Viṣṇu entered the idol (while) being watched winklessly by the mother and the son:",
+    "morphology": "iti_iti_ uktvā_vac_Co bhagavān_bhagavant_SNM viṣṇuḥ_viṣṇu_SNM mūrti_mūrti_Cp madhye_madhya_SLNe viveśa_viś_SPs3In ha_ha_  / vilokya_vilokay_Co mānaḥ_māna_SNM nimiṣam_nimiṣa_SAM mātrā_mātṛ_SIF ca_ca_ eva_eva_ sutena_suta_SIM ca_"
+  },
+  {
+    "index": 2021,
+    "sanskrit": "pāṇibhyām ca eva jagrāha tāni aśrūṇi janeśvaraḥ",
+    "english": "Without allowing her tears, however, to fall down, she held them, O king, in her joined palms.",
+    "morphology": "pāṇibhyām_pāṇi_DuIM ca_ca_U eva_eva_U jagrāha_grah_SPs3In tāni_tad_PANe aśrūṇi_aśru_PANe janeśvaraḥ_janeśvara_SNM"
+  },
+  {
+    "index": 2022,
+    "sanskrit": "vyabhicāryādisāmānyāt śṛṅgāra iti gīyate // tadbhedāḥ kāmamitare hāsyādyā apyanekaśaḥ /",
+    "english": "Pleasure proceeds from conceit and this attains gratification on account of contact with the transitory feelings etc. in general and is declared as the sentiment of love.",
+    "morphology": "vyabhicāri_vyabhicārin_Cp ādi_ādi_Cp sāmānyāt_sāmānya_SBNe śṛṅgāraḥ_śṛṅgāra_SNM iti_iti_ gīyate_gā_SPr3InPv  // tad_tad_Cp bhedāḥ_bheda_PNM kāmam_kāmam_ itare_itara_PNM hāsya_hāsya_Cp ādyāḥ_ādya_PNM api_api_ anekaśas_a"
+  },
+  {
+    "index": 2023,
+    "sanskrit": "kṛtvā māsopavāsāni skhalaṃti brahmacaryataḥ | sakṛdeva dvikṛtvo vā triḥkṛtvo daivayogataḥ || 15 ||",
+    "english": "15-16. (Some women[1] in the world) observe the monthly fasts but violate the vow of celibacy once, twice or thrice as",
+    "morphology": "kṛtvā_kṛ_Co māsa_māsa_Cp upavāsāni_upavāsa_PANe skhalanti_skhal_PPr3In brahmacaryataḥ_brahmacarya_SBNe  / sakṛt_sakṛt_ eva_eva_ dvi_dvi_Cp kṛtvas_kṛtvas_ vā_vā_ tris_tris_ kṛtvas_kṛtvas_ daivayogataḥ_daivayoga_SBM  /"
+  }
+]

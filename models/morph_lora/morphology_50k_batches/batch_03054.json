@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24424,
+    "sanskrit": "yatheha mucyate jaṃturgirije madanugrahāt | avimukte mahākṣetre na tathānyatra kutracit || 21 ||",
+    "english": "121. O Girijā, nowhere else is a creature liberated in the manner as it is liberated in the great holy spot Avimukta with my favour.",
+    "morphology": "yathā_yathā_ iha_iha_ mucyate_muc_SPr3InPv jaṃtuḥ_jantu_SNM girije_girijā_SVF mad_mad_Cp anugrahāt_anugraha_SBM  / avimukte_avimukta_SLNe mahā_mahat_Cp kṣetre_kṣetra_SLNe na_na_ tathā_tathā_ anyatra_anyatra_ kutracid_kutracid_  /"
+  },
+  {
+    "index": 24425,
+    "sanskrit": "parama ṛṣiḥ mahā yogī araṇīgarbha saṃbhavaḥ",
+    "english": "Indeed, it was thus that great ascetic that foremost of Rishis and highest of Yogins, took birth from the two sticks (his father had for making fire).",
+    "morphology": "parama_parama_Cp ṛṣiḥ_ṛṣi_SNM mahā_mahat_Cp yogī_yogin_SNM araṇīgarbha_araṇīgarbha_MCp saṃbhavaḥ_sambhava_SNM"
+  },
+  {
+    "index": 24426,
+    "sanskrit": "tvaṃ devi cāvatāreṣu viṣṇoḥ sāhāyyakāriṇī | viṣṇunābhyarthyase tasmāttrāhi mātarnamo'stu te || 58 ||",
+    "english": "58. O goddess, you render help to Viṣṇu in all his incarnations. You are being requested by Viṣṇu for the same. Hence, O mother, protect (me). Obeisance to you!",
+    "morphology": "tvam_tvad_SN devi_devī_SVF ca_ca_ avatāreṣu_avatāra_PLM viṣṇoḥ_viṣṇu_SGM sāhāyya_sāhāyya_Cp kāriṇī_kārin_SNF  / viṣṇunā_viṣṇu_SIM abhyarthyase_abhyarthay_SPr2InPv tasmāt_tasmāt_ trāhi_trā_SPr2Im mātar_mātṛ_SVF nama"
+  },
+  {
+    "index": 24427,
+    "sanskrit": "na dhārayedanyabhuktaṃ vāsaśco pānahāvapi | na bhinna bhājaneśnīyānnāsītāgnyādi dūṣite || 61 ||",
+    "english": "61. One should not wear the cloth worn by others or their shoes; one should not sit in a place destroyed by fire.",
+    "morphology": "na_na_ dhārayet_dhāray_SPr3O anya_anya_Cp bhuktam_bhuj_SAPaNe vāsaḥ_vāsas_SANe ca_ca_ upānahau_upānah_DuAF api_api_  / na_na_ bhinna_bhid_PaCp bhājana_bhājana_PANe aśnīyāt_aś_SPr3O na_na_ āsīta_ās_SPr3O agni_agni_Cp ādi_ādi_SANe dūṣit"
+  },
+  {
+    "index": 24428,
+    "sanskrit": "taddhi phalamiva phalam,avidyāpanayanamātreṇāvirbhāvāt |",
+    "english": "That, verily, is fruit, as it were, because it is manifested even with the bare removal of Nescience.",
+    "morphology": "tat_tad_SNNe hi_hi_ phalam_phala_SNNe iva_iva_ phalam_phala_SNNe avidyā_avidyā_Cp apanayana_apanayana_Cp mātreṇa_mātra_SINe āvirbhāvāt_āvirbhāva_SBM"
+  },
+  {
+    "index": 24429,
+    "sanskrit": "manvādivacanasyāpi tat kṛtaiva hi satyatā //",
+    "english": "As regards the words of manu and others, their reliability rests upon the veda itself.",
+    "morphology": "manu_manu_Cp ādi_ādi_Cp vacanasya_vacana_SGNe api_api_ tat_tad_SNNe kṛtā_kṛ_SNPaF ā_ā_ "
+  },
+  {
+    "index": 24430,
+    "sanskrit": "nahi vaḥ caramam cana vasiṣṭhaḥ pari maṁsate asmākam adya marutaḥ sute sacā viśve pibata kāminaḥ",
+    "english": "This Vasishtha will not despise even the last among you, O Maruts; drink 1 all of you, to-day, at my libation here, full of desire.",
+    "morphology": "nahi_nahi_U vaḥ_tvad_PG caramam_carama_SAM cana_cana_U vasiṣṭhaḥ_vasiṣṭha_SNM pari_pari_U maṁsate_man_SPs3Su asmākam_mad_PG adya_adya_U marutaḥ_marut_PVM sute_suta_SLM sacā_sacā_U viśve_viśva_PNM pibata_pā_PPr2Im kāminaḥ_kāmin_PNM"
+  },
+  {
+    "index": 24431,
+    "sanskrit": "atha sā tadgṛhe tasthau bhartrā tena samaṃ sukham / kulakṣaṇety ahaṃ rajñā tyaktety āttavimānanā //",
+    "english": "And she lived happily with her husband in his house, but she thought that she had been dishonoured by the king’s abandoning her on account of her supposed inauspicious marks.",
+    "morphology": "atha_atha_ sā_tad_SNF tad_tad_Cp gṛhe_gṛha_SLNe tasthau_sthā_SPs3In bhartrā_bhartṛ_SIM tena_tad_SIM samam_samam_ sukham_sukham_  / ku_ku_ lakṣaṇā_lakṣaṇa_SNF iti_iti_ aham_mad_SN tyaktā_tyaj_SNPaF iti_iti_ ātta_ādā_PaCp vimānanā_vim"
+  }
+]

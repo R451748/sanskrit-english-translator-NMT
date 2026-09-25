@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29800,
+    "sanskrit": "te me vācam vijānantu sūtaputrāḥ nayanti mām",
+    "english": "The Sutas are taking me away.",
+    "morphology": "te_tad_PNM me_mad_SG vācam_vāc_SAF vijānantu_vijñā_PPr3Im sūtaputrāḥ_sūtaputra_PNM"
+  },
+  {
+    "index": 29801,
+    "sanskrit": "agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam / asya yajñasya sukratum //",
+    "english": "Agni we choose as envoy, skilled performer of this holy rite,",
+    "morphology": "agnim_agni_SAM dūtam_dūta_SAM vṛṇīmahe_vṛ_PPr1In hotāram_hotṛ_SAM viśva_viśva_Cp vedasam_vedas_SAM  / asya_idam_SGM yajñasya_yajña_SGM sukratum_sukratu_SAM  /"
+  },
+  {
+    "index": 29802,
+    "sanskrit": "na asti ceṣṭā vinā hiṃsām kim vā tvam manyase dvija",
+    "english": "Really, thou art engaged in slaughter.",
+    "morphology": "na_na_U asti_as_SPr3In ceṣṭā_ceṣṭā_SNF vinā_vinā_U hiṃsām_hiṃsā_SAF kim_ka_SANe vā_vā_U tvam_tvad_SN manyase_man_SPr2In"
+  },
+  {
+    "index": 29803,
+    "sanskrit": "tataścāsiddho dṛṣṭānta ity āha buddhistho 'pītyādi /",
+    "english": "hence the Instance cited is madmissible”. The Answer to this is as follows: [see verse 1577 above]",
+    "morphology": "tatas_tatas_ ca_ca_ asiddhaḥ_asiddha_SNM dṛṣṭāntaḥ_dṛṣṭānta_SNM iti_iti_ āha_ah_SPs3In buddhi_buddhi_Cp sthaḥ_stha_SNM api_api_ ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 29804,
+    "sanskrit": "***** **** para rāṣṭrāṇi mṛdnataḥ",
+    "english": "Morality is very subtle.",
+    "morphology": "para_para_Cp rāṣṭrāṇi_rāṣṭra_PANe mṛdnataḥ_mṛd_SGPaPrM"
+  },
+  {
+    "index": 29805,
+    "sanskrit": "kurvatāṃ yāti yaḥ kālo mātāpitrorapūjanam / tatkhaṇḍamāyuṣo vyarthamasādhūnāṃ hi jāyate //",
+    "english": "He whose time passes not in respect to his father and mother, is a vile being, who descends in vain from virtuous parents.",
+    "morphology": "kurvatām_kṛ_PGPaPrM yāti_yā_SPr3In yaḥ_yad_SNM kālaḥ_kāla_SNM mātā_mātā_Cp pitroḥ_pitṛ_DuGM apūjanam_apūjana_SNNe  / tat_tad_SNNe khaṇḍam_khaṇḍa_SNNe āyuṣaḥ_āyus_SGNe vyartham_vyartha_SNNe asādhūnām_asādhu_PGM hi_hi_ "
+  },
+  {
+    "index": 29806,
+    "sanskrit": "aparājitaḥ paṇḍitakaḥ viśāla akṣaḥ durādharaḥ dṛḍhahastaḥ suhastaḥ ca vātavega suvarcasau",
+    "english": "Aprajita, Panditaka, Visalaksha, Duradhara, Dridhahasta, and Suhasta, Vatavega, and Suvarchasa;",
+    "morphology": "aparājitaḥ_aparājita_SNM paṇḍitakaḥ_paṇḍitaka_SNM viśāla_viśāla_Cp akṣaḥ_akṣa_SNM durādharaḥ_durādhara_SNM dṛḍhahastaḥ_dṛḍhahasta_SNM suhastaḥ_suhasta_SNM ca_ca_U vātavega_vātavega_MCp suvarcasau_suvarcas_DuNM"
+  },
+  {
+    "index": 29807,
+    "sanskrit": "uta tvām adite mahi aham devi upa bruve su mr̥l̥īkām abhiṣṭaye",
+    "english": "And thee too, O Great Aditi, thee also, Goddess, I address, Thee very gracious to assist.",
+    "morphology": "uta_uta_U tvām_tvad_SA adite_aditi_SVF mahi_mah_SVF aham_mad_SN devi_devī_SVF upa_upa_U bruve_brū_SPr1In su_su_U mr̥l̥īkām_mr̥l̥īka_SAF"
+  }
+]

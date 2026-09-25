@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9504,
+    "sanskrit": "pro 'narthakaḥ, yāvad vartate tāvat pravartata iti / vartanaṃ ca sthitisaṃpattiḥ /",
+    "english": "\"pravartate\" standing for \"vartate\" Any three occupations of those mentioned are meant here, with the exception of Agriculture and Trade.",
+    "morphology": "praḥ_pra_SNM anarthakaḥ_anarthaka_SNM yāvat_yāvat_ vartate_vṛt_SPr3In tāvat_tāvat_ pravartate_pravṛt_SPr3In iti_iti_  / vartanam_vartana_SNNe"
+  },
+  {
+    "index": 9505,
+    "sanskrit": "na āsīt cakra pathaḥ ca eva pāṇḍavasya mahātmanaḥ nighnataḥ śātravān bhallaiḥ hasti aśvam ca amitam mahat ā tumbāt avasīdanti ratha cakrāṇi māriṣa",
+    "english": "There was no path on the field for the wheels of the illustrious Pandava's car, engaged as he was in continually slaying his foes and striking down elephants and steeds with his broad-headed shafts.",
+    "morphology": "na_na_U āsīt_as_SPs3In cakra_cakra_NeCp pathaḥ_pathin_SGM ca_ca_U eva_eva_U pāṇḍavasya_pāṇḍava_SGM mahātmanaḥ_mahātman_SGM nighnataḥ_nihan_SGPaPrM śātravān_śātrava_PAM bhallaiḥ_bhalla_PIM hasti_hastin_MCp aśvam_aśva_SNNe ca_ca_"
+  },
+  {
+    "index": 9506,
+    "sanskrit": "yasya adhara oṣṭhaḥ patitaḥ kṣiptaḥ ca ūrdhvam tathā uttaraḥ ubhau vā jāmbava ābhāsau durlabham tasya jīvitam ||",
+    "english": "Little chance there is of the life of a patient whose lower lip hangs down while the upper one is drawn or turned up, and both of them have assumed a black colour like that of a jamboline fruit.",
+    "morphology": "yasya_yad_SGM adhara_adhara_Cp oṣṭhaḥ_oṣṭha_SNM patitaḥ_pat_SNPaPsM kṣiptaḥ_kṣip_SNPaPsM ca_ca_U ūrdhvam_ūrdhvam_U tathā_tathā_U uttaraḥ_uttara_SNM ubhau_ubh_DuNM vā_vā_U jāmbava_jāmbava_MCp ābhāsau_ābhāsa_DuNM"
+  },
+  {
+    "index": 9507,
+    "sanskrit": "tān hatvā bhuṅkṣva dharmeṇa yudhiṣṭhira mahīm imām",
+    "english": "Having slain them, O Yudhishthira, righteously govern this earth.",
+    "morphology": "tān_tad_PAM"
+  },
+  {
+    "index": 9508,
+    "sanskrit": "vitastāyāstaṭe ramye brāhmaṇo nivasanpurā | babhūva pāṃḍavonāma daridreṇātipīḍitaḥ || 2 || jñātibhiśca parityakto duṣṭayā bhāryayā tathā | kaṃthāpyekā sthitā yasya sarvasvapremadhāriṇī || 3 || tenāhaṃ sutakāmena toṣito girigahvare | mayāpyuktaṃ viśālākṣi putrastava bhaviṣyati || 4 ||",
+    "english": "Long ago on the beautiful banks of Vitastā, a Brāhmaṇa was living. His name was Pāṇḍava. He was excessively afflicted by poverty. He was forsaken by his kinsmen and also by his wicked wife. He had only a patched garment as his exclusive favourite. He was desirous of a son and I was propitiated by him in a cave of a mountain. O lady of wide eyes, I readily said, “You will nave a son.”",
+    "morphology": "vitastāyāḥ_vitastā_SGF taṭe_taṭa_SLNe ramye_ramya_SLNe brāhmaṇaḥ_brāhmaṇa_SNM nivasan_nivas_SNPaPrM purā_purā_  / babhūva_bhū_SPs3In pāṇḍavaḥ_pāṇḍava_SNM nāma_nāma_ daridreṇa_daridra_SIM atipīḍitaḥ_atipīḍay_SNPa"
+  },
+  {
+    "index": 9509,
+    "sanskrit": "etatsarvamahaṃ dhyānājjānāmi hi mṛgādhipa | ityukto dhyānakāṣṭhena tyaktvā siṃhatvamāśu saḥ || 36 ||",
+    "english": "36-37. O lord of beasts, I know all this through the power of meditation.”",
+    "morphology": "etat_etad_SANe sarvam_sarva_SANe aham_mad_SN dhyānāt_dhyāna_SBNe jānāmi_jñā_SPr1In hi_hi_ mṛgādhipa_mṛgādhipa_SVM  / iti_iti_ uktaḥ_vac_SNPaM dhyāna_dhyāna_Cp kāṣṭhena_kāṣṭha_SINe tyaktvā_tyaj_Co siṃha_siṃha_Cp tvam_tva_SANe"
+  },
+  {
+    "index": 9510,
+    "sanskrit": "vinā snānena bhakṣācca daivāddvijavarottamāḥ | tataḥ kāle vyatikrāṃte kiyanmātre svakarmataḥ | ubhau paṃcatvamāpannau pṛthaktvenāyuṣaḥ kṣaye || 17 ||",
+    "english": "After a lapse a some time, as a result of their respective Karma, when the life period came to a close, both of them died separately.",
+    "morphology": "vinā_vinā_ snānena_snāna_SINe bhakṣāt_bhakṣa_SBM ca_ca_ daivāt_daiva_SBNe dvijavara_dvijavara_Cp uttamāḥ_uttama_PVM  / tatas_tatas_ kāle_kāla_SLM vyatikrāṃte_vyatikram_SLPaM kiyat_kiyat_Cp mātre_mātra_SLNe sva_sva_Cp karmataḥ_karman_S"
+  },
+  {
+    "index": 9511,
+    "sanskrit": "prayata tvāt dvijātīnām damena asi samanvitaḥ pituḥ pitāmahāḥ ye ca tathā eva prapitāmahāḥ prītāḥ te satatam putra damena āvām ca pūjayā",
+    "english": "By constantly subduing thyself, thou hast become endowed with the self-restraining power of Brahmanas and all thy grandsires and ancestors are constantly pleased with thee for thy self-restraining virtues and for thy piety towards us.",
+    "morphology": "prayata_prayam_PaPsCp tvāt_tva_SBNe dvijātīnām_dvijāti_PGM damena_dama_SIM asi_as_SPr2In samanvitaḥ_samanvita_SNM pituḥ_pitṛ_SGM pitāmahāḥ_pitāmaha_PNM ye_yad_PNM ca_ca_U tathā_tathā_U eva_eva_U prapitāmahāḥ_prapitāmaha_PNM prītā"
+  }
+]

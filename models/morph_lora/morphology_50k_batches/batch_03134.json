@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25064,
+    "sanskrit": "tasmin tadā saṃprahāre dāruṇe saṃkule bhṛśam ubhau api pariśrāntau yudhyamānau ariṃdamau",
+    "english": "During the progress of that dreadful and fierce battle at close quarters, both those chastisers of foes, while battling, became fatigued.",
+    "morphology": "tasmin_tad_SLM tadā_tadā_U saṃprahāre_samprahāra_SLM dāruṇe_dāruṇa_SLM saṃkule_saṃkula_SLM bhṛśam_bhṛśam_U ubhau_ubh_DuNM api_api_U pariśrāntau_pariśram_DuNPaPsM"
+  },
+  {
+    "index": 25065,
+    "sanskrit": "merorupari madhye hi śātakauṃbhaṃ vidheḥ puram | caturddaśasahasrāṇi yojanāni ca saṃkhyayā ||",
+    "english": "27. Śātakaumbha, the golden city of Brahmā, is on the top of Meru and in the middle. It extends to fourteen thousand Yojanas.",
+    "morphology": "meroḥ_meru_SGM upari_upari_ madhye_madhya_SLNe hi_hi_ śātakauṃbham_śātakaumbha_SNNe vidheḥ_vidhi_SGM puram_pura_SNNe  /"
+  },
+  {
+    "index": 25066,
+    "sanskrit": "lavaṃgavallīsurabhigaṃdhenodvāsya mārutam | mohayāmāsa cetāṃsi bhṛśaṃ kāmijane purā ||",
+    "english": "35. Rendering the breeze fragrant with its smell the clove creeper fascinated the minds of passionate people with its sweetness.",
+    "morphology": "lavaṃga_lavaṃga_Cp vallī_vallī_Cp surabhi_surabhi_Cp gaṃdhena_gandha_SIM udvāsya_udvāsay_Co mārutam_māruta_SAM  /"
+  },
+  {
+    "index": 25067,
+    "sanskrit": "sarvābhyopi nadībhyaśca śreṣṭhāḥ sarvāḥ samudragāḥ | tatopi hi mahāśreṣṭhāḥ saritsu sariduttamāḥ || 4 || gaṃgā ca yamunācātha narmadā ca sarasvatī | catuṣṭayamidaṃ puṇyaṃ dhunīṣu munipuṃgavāḥ || 5 ||",
+    "english": "4-5. Of all the rivers, those that fall into the seas are the most excellent. Of all those rivers Gaṅgā, Yamunā, Narmadā and Sarasvatī are the most excellent rivers. Among the rivers, O eminent sages, these four are highly meritorious.",
+    "morphology": "sarvābhyaḥ_sarva_PBF api_api_ nadībhyaḥ_nadī_PBF ca_ca_ śreṣṭhāḥ_śreṣṭha_PNF sarvāḥ_sarva_PNF samudragāḥ_samudragā_PNF  / tatas_tatas_ api_api_ hi_hi_ mahā_mahat_Cp śreṣṭhāḥ_śreṣṭha_PNF saritsu_sarit_PLF sarit_sarit"
+  },
+  {
+    "index": 25068,
+    "sanskrit": "yastaṃ pūjayate bhaktyā gaṃṣapuṣpādibhiḥ kramāt | yātrā kṛtā bhavettena pauṣkarī nātra saṃśayaḥ || 4 ||",
+    "english": "If anyone devoutly worships him with sweet scents, flowers etc, it is as good as a pilgrimage to Puṣkara performed by him. There is no doubt about it.[Sanskrit text for this chapter is available]",
+    "morphology": "yaḥ_yad_SNM tam_tad_SAM pūjayate_pūjay_SPr3In bhaktyā_bhakti_SIF gaṃṣa_gaṃṣa_Cp puṣpa_puṣpa_Cp ādibhiḥ_ādi_PINe kramāt_kramāt_  / yātrā_yātrā_SNF kṛtā_kṛ_SNPaF bhavet_bhū_SPr3O tena_tad_SIM pauṣkarī_pauṣkarī_SNF"
+  },
+  {
+    "index": 25069,
+    "sanskrit": "jīvitasya yathā bālyaṃ dṛṣṭaṃ prāthamakalpikam / nirvāṇasya tathā bhogasaṃtyāgo rāgaśāntidaḥ //",
+    "english": "As boyhood is the first stage of the life of a man, and introduces the other ages for perfection of human nature; so the first step to one's self-extinction, is the renunciation of his carnal enjoyments, conducing to the subjection of passions.",
+    "morphology": "jīvitasya_jīvita_SGNe yathā_yathā_ bālyam_bālya_SNNe dṛṣṭam_dṛś_SNPaNe prāthamakalpikam_prāthamakalpika_SNNe  / nirvāṇasya_nirvāṇa_SGNe tathā_tathā_ bhoga_bhoga_Cp saṃtyāgaḥ_saṃtyāga_SNM rāga_rāga_Cp śānti_śānti_Cp da"
+  },
+  {
+    "index": 25070,
+    "sanskrit": "nanu dhūmād anya eva dahanaḥ ihāpi gṛhābhāvañivanābhyām anya eva bahirbhāvaḥ //",
+    "english": "Smoke is different from fire. In this case, too, the absence of a living person from his house is distinct from his presence outside his house.",
+    "morphology": "nanu_nanu_ dhūmāt_dhūma_SBM anyaḥ_anya_SNM eva_eva_ dahanaḥ_dahana_SNM iha_iha_ api_api_ anyaḥ_anya_SNM "
+  },
+  {
+    "index": 25071,
+    "sanskrit": "aṣṭamaṃ varṣametac ca tapasyantyorna nau haraḥ / prasīdati na tāto 'yaṃ mucyate 'dyāpi bandhanāt //",
+    "english": "It is now the eighth year that we have been engaged in austerities, and yet Śiva is not pleased with us, and our father has not, as yet, been released from his imprisonment.",
+    "morphology": "aṣṭamam_aṣṭama_SANe varṣam_varṣa_SANe etat_etad_SANe ca_ca_ tapasyantyoḥ_tapasy_DuGPaPrF na_na_ nau_mad_DuG haraḥ_hara_SNM  / prasīdati_prasad_SPr3In na_na_ tātaḥ_tāta_SNM ayam_idam_SNM ḥ_ḥ_"
+  }
+]

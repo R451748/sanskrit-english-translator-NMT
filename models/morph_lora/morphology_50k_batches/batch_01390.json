@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11112,
+    "sanskrit": "vyāpādādivipakṣataḥ /",
+    "english": "Because they oppose ill-will, etc. ,",
+    "morphology": "__vyāpāda_U __ādi_U __vipakṣa_U"
+  },
+  {
+    "index": 11113,
+    "sanskrit": "skaṃdomāsahitaṃ śaṃbhuṃ saṃpūjya vidhinā saha | yatphalaṃ labhate bhaktyā tadvadāmi yathāśrutam ||",
+    "english": "84. I shall now tell you, as I have heard, the benefit accruing from the due worship of Śiva in the company of Skanda and Umā.",
+    "morphology": "skaṃda_skanda_Cp umā_umā_Cp sahitam_sahita_SAM śaṃbhum_śambhu_SAM saṃpūjya_sampūjay_Co vidhinā_vidhi_SIM saha_saha_  / yat_yad_SANe phalam_phala_SANe labhate_labh_SPr3In bhaktyā_bhakti_SIF tat_tad_SANe vadāmi_vad_SPr1In yathāśrutam_yathā"
+  },
+  {
+    "index": 11114,
+    "sanskrit": "anātmakṣaṇikatvādi yadyevaṃ sarvadarśinaḥ /",
+    "english": "“There is no soul; things are momentary and so forth.” If that is so, these teachers are omniscient;",
+    "morphology": "anātma_anātman_Cp kṣaṇika_kṣaṇika_Cp tva_tva_Cp ādi_ādi_SANe yadi_yadi_ evam_evam_ sarva_sarva_Cp darśinaḥ_darśin_PNM  /"
+  },
+  {
+    "index": 11115,
+    "sanskrit": "gaṅgāyāṃ gho ṣo vasati aupacārikamīdṛśaṃ /",
+    "english": "A fifth variety is known as aupacārika metaphorical such as the existence of a hamlet on the river Ganges.",
+    "morphology": "gaṅgāyām_gaṅgā_SLF gha_gha_ ṣaḥ_ṣa_SNM vasati_vas_SPr3In aupacārikam_aupacārika_SNNe īdṛśaḥ_īdṛśa_SNNe  /"
+  },
+  {
+    "index": 11116,
+    "sanskrit": "tatas deva ṛṣi gandharvāḥ vismayam paramam gatāḥ kautūhala parāḥ sarve pitāmaham atha abruvan kaḥ nu ayam yaḥ bhagavatā praṇamya vinayāt vibho",
+    "english": "Then the gods, Rishis, and Gandharvas, filled with great wonder and curiosity all asked the Grandsire, saying,--'Who is that one, O Lord, that was worshipped by thy illustrious self with such humility and praised in such high words? We desire to hear,--Thus addressed, the illustrious Grandsire replied unto all the Gods, the regenerate Rishis, and the Gandharvas, in sweet words saying,--He who is called TAT, He who is Supreme, He who is existent at present and who will be for all time, He who is the highest Self, He who is the Soul of beings, and who is the great Lord, I was talking even with His ever-cheerful self, ye bulls among gods.",
+    "morphology": "tatas_tatas_U deva_deva_MCp ṛṣi_ṛṣi_MCp gandharvāḥ_gandharva_PNM vismayam_vismaya_SAM paramam_parama_SAM gatāḥ_gam_PNPaPsM kautūhala_kautūhala_NeCp parāḥ_para_PNM sarve_sarva_PNM pitāmaham_pitāmaha_SAM atha_atha_U abruvan_brū_PPs3In k"
+  },
+  {
+    "index": 11117,
+    "sanskrit": "tadārabhya surāḥ sarve madhyāhnohnopāsanaṃ sadā | prakurvaṃti ca tatraiva yatra tīrthe hariḥ param || 22 ||",
+    "english": "Ever since then all the Suras perform the midday Upāsanā of Hari at the Tīrtha where he killed the enemy.",
+    "morphology": "tat_tad_SANe ārabhya_ārabh_Co surāḥ_sura_PNM sarve_sarva_PNM madhyāhna_madhyāhna_Cp ūhna_ūhna_Cp upāsanam_upāsana_SANe sadā_sadā_  / prakurvaṃti_prakṛ_PPr3In ca_ca_ tatra_tatra_ eva_eva_ yatra_yatra_ tīrthe_tīrtha_SLNe hariḥ_hari_SNM p"
+  },
+  {
+    "index": 11118,
+    "sanskrit": "ayam vām kr̥ṣṇaḥ aśvinā havate vājinīvasūitivājinī vasū madhvaḥ somasya pītaye",
+    "english": "Here Kr̥ishṇa is invoking you, O Aṣvins, Lords of ample wealth. To drink the savoury Soma juice.",
+    "morphology": "ayam_idam_SNM vām_tvad_DuA kr̥ṣṇaḥ_krīṣṇa_SNM aśvinā_aśvin_DuVM havate_hvā_SPr3In vājinīvasūitivājinī_vājinīvasu_DuVM vasū_vasu_DuVM madhvaḥ_madhu_SGM"
+  },
+  {
+    "index": 11119,
+    "sanskrit": "teṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma |",
+    "english": "May we be in the favour of those ones worthy of sacrifice, May we have their kindly good will.",
+    "morphology": "teṣām_tad_PGM vayam_mad_PN sumatau_sumati_SLF yajñiyānām_yajñiya_PGM api_api_ bhadre_bhadra_SLNe saumanase_saumanasa_SLNe syāma_as_PPr1O"
+  }
+]

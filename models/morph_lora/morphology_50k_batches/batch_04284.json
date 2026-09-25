@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34264,
+    "sanskrit": "ke punas te praśastadhanopāyāḥ /",
+    "english": "Now, the question arisesWhat are the fair sources of acquiring wealth?",
+    "morphology": "ke_ka_PNM"
+  },
+  {
+    "index": 34265,
+    "sanskrit": "tatas tyajanti tat sthānam prātilomyāt acetasaḥ",
+    "english": "In consequence of this disposition of theirs to resist our currents, they are obliged to leave the place of their growth.",
+    "morphology": "tatas_tatas_U tyajanti_tyaj_PPr3In tat_tad_SANe sthānam_sthāna_SANe prātilomyāt_prātilomya_SBNe acetasaḥ_acetas_PNM"
+  },
+  {
+    "index": 34266,
+    "sanskrit": "amṛtyuḥ sarva dṛś siṃhaḥ saṃdhātā saṃdhimān sthiraḥ",
+    "english": "He that is the accomplisher of all functions in the universe;",
+    "morphology": "amṛtyuḥ_amṛtyu_SNM sarva_sarva_Cp dṛś_dṛś_SNM siṃhaḥ_siṃha_SNM saṃdhātā_saṃdhātṛ_SNM saṃdhimān_saṃdhimat_SNM"
+  },
+  {
+    "index": 34267,
+    "sanskrit": "marīcimatryaṅgirasaṃ pulastyaṃ pulahaṃ kratum / vasiṣṭhaṃ mānasāḥ sapta brahmāṇa iti niścitāḥ //",
+    "english": "He then created the sages Marīci, Atri, Aṅgirasa, Pulastya, Pulaha, Kratu, Vasiṣṭha, who are regarded as theseven mindborn sons of Brahmā.",
+    "morphology": "marīcim_marīci_SAM atri_atri_Cp aṅgirasam_aṅgiras_SAM pulastyam_pulastya_SAM pulaham_pulaha_SAM kratum_kratu_SAM  / vasiṣṭham_vasiṣṭha_SAM mānasāḥ_mānasa_PNM sapta_saptan_PNM brahmāṇaḥ_brahman_PNM iti_iti_ niścitāḥ_niści_PNPaM "
+  },
+  {
+    "index": 34268,
+    "sanskrit": "evam satyarathaḥ ca uktvā satyadharmā ca bhārata satyavarmā ca satyeṣuḥ satyakarmā tathā eva ca sahitāḥ bhrātaraḥ pañca rathānām ayutena ca",
+    "english": "This our vow will never be false.' And Satyaratha and Satyavarman, O Bharata, and Satyavrata and Satyeshu, and Satyakarman also, having spoken similarly, those five brothers together, with ten thousand cars, came, O king, (before Duryodhana), having taken that oath on the field of battle.",
+    "morphology": "evam_evam_U satyarathaḥ_satyaratha_SNM ca_ca_U uktvā_vac_Co satyadharmā_satyadharman_SNM ca_ca_U bhārata_bhārata_SVM satyavarmā_satyavarman_SNM ca_ca_U satyeṣuḥ_satyeṣu_SNM satyakarmā_satyakarman_SNM tathā_tathā_U eva_eva_U ca_ca_U sahitā"
+  },
+  {
+    "index": 34269,
+    "sanskrit": "kiṅgotro 'haṃ kimasya mama gotraṃ so 'haṃ nvahamasmīti //",
+    "english": "to which family do belongwhat is the name of the Ṛṣi to whose race belong?’",
+    "morphology": "kiṅgotraḥ_kiṃgotra_SNM aham_mad_SN kim_ka_SNNe asya_idam_SGM mama_mad_SG gotram_gotra_SNNe saḥ_tad_SNM aham_mad_SN nu_nu_ aham_mad_SN asmi_as_SPr1In iti_iti_  /"
+  },
+  {
+    "index": 34270,
+    "sanskrit": "tatratatra dvijaiḥ sarvai rniṃdito'sau mahātmabhiḥ | vyāsaṃ śaraṇamāpede prāyaścittacikīrṣayā || 96 ||",
+    "english": "96. Everywhere he was censured by all the Brāhmaṇas of noble souls. With a desire to perform expiatory rites he sought refuge in Vyāsa.",
+    "morphology": "tatra_tatra_ tatra_tatra_ dvijaiḥ_dvija_PIM sarvaiḥ_sarva_PIM niṃditaḥ_nind_SNPaM asau_adas_SNM mahātmabhiḥ_mahātman_PIM  / vyāsam_vyāsa_SAM śaraṇam_śaraṇa_SANe āpede_āpad_SPs3In prāyaścitta_prāyaścitta_Cp cikīrṣayā_cikīrṣ"
+  },
+  {
+    "index": 34271,
+    "sanskrit": "etāścānyāstathā bahvayo deśakālakriyātmikāḥ / nānākāravikārotthāstrikālodarasaṃsthitāḥ //",
+    "english": "Thus are many other beings suited to their respective climes and seasons, and are habituated to the very many modes of life and varieties of habits; to which they have been accustomed in the past and present times.",
+    "morphology": "etāḥ_etad_PNF ca_ca_ anyāḥ_anya_PNF tathā_tathā_ deśa_deśa_Cp kāla_kāla_Cp kriyā_kriyā_Cp ātmikāḥ_ātmaka_PNF  / nānā_nānā_ ākāra_ākāra_Cp vikāra_vikāra_Cp utthāḥ_uttha_PNF trikāla_trikāla_Cp udara_udara_Cp saṃsthitāḥ_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23776,
+    "sanskrit": "kūpe ca vasatā tena somaḥ pītaḥ mahātmanā",
+    "english": "While in a hole, that high-souled one had drunk the Soma juice.",
+    "morphology": "kūpe_kūpa_SLM"
+  },
+  {
+    "index": 23777,
+    "sanskrit": "yadā aśrauṣam karṇa ghaṭotkacābhyām yuddhe muktām sūtaputreṇa śaktim yayā vadhyaḥ samare savyasācī",
+    "english": "When I heard that in the encounter between Karna and Ghatotkacha, that Sakti was hurled against Ghatotkacha by Karna, the same which was certainly to have slain Arjuna in battle, then, O Sanjaya.",
+    "morphology": "yadā_yadā_U aśrauṣam_śru_SPs1In karṇa_karṇa_MCp ghaṭotkacābhyām_ghaṭotkaca_DuIM yuddhe_yuddha_SLNe muktām_muc_SAPaPsF sūtaputreṇa_sūtaputra_SIM śaktim_śakti_SAF"
+  },
+  {
+    "index": 23778,
+    "sanskrit": "dhṛtvaivaṃ jaṭilaṃ rūpaṃ jagāma girijāvanam | atiprītiyutaḥ śambhuśśaṅkaro bhaktavatsalaḥ || tatrāpaśyastthitāndevīṃ sakhībhiḥ parivāritām | vedikopari śuddhāntāṃ śivāmiva vidhoḥ kalām ||",
+    "english": "10. Assuming this form of a Jaṭila (one with matted hair), the delighted Śiva, favourably disposed to his devotees went to the penance-grove of Pārvatī. 11. There he saw the goddess Pārvatī, seated on the dais surrounded by her friends. She appeared like the pure digit of the moon.",
+    "morphology": "dhṛtvā_dhṛ_Co evam_evam_ jaṭilam_jaṭila_SANe rūpam_rūpa_SANe jagāma_gam_SPs3In girijā_girijā_Cp vanam_vana_SANe  / ati_ati_ prīti_prīti_Cp yutaḥ_yuta_SNM śambhuḥ_śambhu_SNM śaṅkaraḥ_śaṃkara_SNM bhakta_bhakta_Cp vatsalaḥ_vats"
+  },
+  {
+    "index": 23779,
+    "sanskrit": "tatas dūrāt prakāśantam pāṇḍuram meru saṃnibham dadṛśuḥ te nara śreṣṭhāḥ vikīrṇam sarvatodiśam",
+    "english": "And it came to pass that those best of men beheld at a distance some white object of vast proportions, even like Meru and stretching on all sides.",
+    "morphology": "tatas_tatas_U dūrāt_dūrāt_U prakāśantam_prakāś_SAPaPrM pāṇḍuram_pāṇḍura_SAM meru_meru_MCp saṃnibham_saṃnibha_SAM dadṛśuḥ_dṛś_PPs3In te_tad_PNM nara_nara_MCp śreṣṭhāḥ_śreṣṭha_PNM vikīrṇam_vikṛ_SAPaPsM"
+  },
+  {
+    "index": 23780,
+    "sanskrit": "vrīḍamānā srajam kuntī rājñaḥ skandhe samāsṛjat",
+    "english": "And advancing with modesty, all the while quivering with emotion, she placed the nuptial garland about Pandu's neck.",
+    "morphology": "vrīḍamānā_vrīḍ_SNPaPrF"
+  },
+  {
+    "index": 23781,
+    "sanskrit": "teṣāṃ ca saṃkhyā śrutita evāvagantavyā /",
+    "english": "\"He shall select officiating priests\" The exact number of these should be ascertained from Vedic texts.",
+    "morphology": "teṣām_tad_PGM ca_ca_ saṃkhyā_saṃkhyā_SNF śrutitaḥ_śruti_SBF "
+  },
+  {
+    "index": 23782,
+    "sanskrit": "na cājihvatvaṣaṇḍakatvādyabhyāsenaiva tadrakṣā siddheti vācyam, , naṣṭe manasyajihvatvādīnāmarthasiddhatvenābhyāsaprayāsābhāvāt /",
+    "english": "Objection : The maintenance of the effacement of the desires is done by the practice of tonguelessness, and the others. Reply : This cannot be said so; the mind having been dissolved tonguelessness etc. follow automatically, hence efforts in their practice is not required.",
+    "morphology": "na_na_ ca_ca_ ajihva_ajihva_Cp tva_tva_Cp ṣaṇḍaka_ṣaṇḍaka_Cp tva_tva_Cp ādi_ādi_Cp abhyāsena_abhyāsa_SIM eva_eva_ tad_tad_Cp rakṣā_rakṣā_SNF siddhā_sidh_SNPaF iti_iti_ vācyam_vac_SNNeGd naṣṭe_naś_SLPaNe manasi_manas_SLNe ajihva"
+  },
+  {
+    "index": 23783,
+    "sanskrit": "na pāpam abhijānāsi sādhu sādhvī vrate sthitā",
+    "english": "Chaste as thou art, and always engaged in observing virtuous vows, thou knowest not what is sin.",
+    "morphology": "na_"
+  }
+]

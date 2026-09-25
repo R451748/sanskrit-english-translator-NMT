@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5216,
+    "sanskrit": "kasmāttvamāgatā bhadre kathayasva yathātathā | kiṃ kāryaṃ kasya hetuśca satyamākhyātumarhasi || 13 ||",
+    "english": "Why have you come, O fair lady? Tell me truly. What is to be done by you? What is the reason thereof? It behoves you to tell (me) the truth.",
+    "morphology": "kasmāt_kasmāt_ tvam_tvad_SN āgatā_āgam_SNPaF bhadre_bhadra_SVF kathayasva_kathay_SPr2Im yathā_yathā_ tathā_tathā_  / kim_ka_SNNe kāryam_kārya_SNNe kasya_ka_SGNe hetuḥ_hetu_SNM ca_ca_ satyam_satya_SANe ākhyātum_ākhyā_In arhasi_arh_SPr2In  /"
+  },
+  {
+    "index": 5217,
+    "sanskrit": "iyaṃ cāviheṭhanakarmikā /",
+    "english": "The effect of no-harm is non-harm.",
+    "morphology": "iyam_idam_SNF "
+  },
+  {
+    "index": 5218,
+    "sanskrit": "aham chetsyāmi te pāśam yadi mām tvam na hiṃsasi",
+    "english": "I, however, shall cut the net for serving thee, if thou abstain from killing me.",
+    "morphology": "aham_mad_SN chetsyāmi_chid_SFu1In te_tvad_SG pāśam_pāśa_SAM yadi_yadi_U mām_mad_SA tvam_tvad_SN na_na_U"
+  },
+  {
+    "index": 5219,
+    "sanskrit": "tvayaite guravaḥ śailāstvayaite dyucarā dhṛtāḥ / tvayaiveyaṃ dharā dhīrā tvayaivāmbaramambaram //",
+    "english": "Thou hast made these bulky rocks, and upheld the heavenly bodies;thou hast supported the stable earth, and lifted the spacious firmament.",
+    "morphology": "tvayā_tvad_SI ete_etad_PNM guravaḥ_guru_PNM śailāḥ_śaila_PNM tvayā_tvad_SI ete_etad_PNM dyucarāḥ_dyucara_PNM dhṛtāḥ_dhṛ_PNPaM  / tvayā_tvad_SI eva_eva_ iyam_idam_SNF dharā_dharā_SNF dhīrā_dhīra_SNF tvayā_tvad_SI eva_eva_ ambaram_a"
+  },
+  {
+    "index": 5220,
+    "sanskrit": "ahaṃ hi rājaputrāṇāṃ rāmādīnāṃ manastamaḥ / jñānenāpanayāmyāśu dīpeneva niśātamaḥ //",
+    "english": "I will destroy the mental darkness of the princes Rama and others by the light of knowledge, as we dispel the gloom of night by the light of a lamp.",
+    "morphology": "aham_mad_SN hi_hi_ rāja_rājan_Cp putrāṇām_putra_PGM rāma_rāma_Cp ādīnām_ādi_PGM manaḥ_manas_Cp tamaḥ_tamas_SANe  / jñānena_jñāna_SINe apanayāmi_apanī_SPr1In āśu_āśu_SANe dīpena_dīpa_SIM iva_iva_ niśā_niśā_Cp tamaḥ_tamas_SA"
+  },
+  {
+    "index": 5221,
+    "sanskrit": "mitte bhajetha kallāṇe śuddhājīvī atandrito |",
+    "english": "One should resort to spiritual friends, ones of pure life, ones who are diligent,",
+    "morphology": "mitte_mitta_SLNe"
+  },
+  {
+    "index": 5222,
+    "sanskrit": "trīṇi te kuṣṭha nāmāni nadyamāraḥ nadyāḥ ariṣaḥ / nadyāḥ ayam puruṣaḥ riṣat / yasmai paribravīmi tvā sāyaṃprātar atho divā /",
+    "english": "Kushtha, three several names hast thou, Naghamāra, Naghārisha: let not mishap befall this man, For whom I make a charm of thee at eve, at morning, and by day.",
+    "morphology": "trīṇi_tri_PNNe te_tvad_SG kuṣṭha_kuṣṭha_SVM nāmāni_nāman_PNNe nadyamāraḥ_nadyamāra_SNM nadyāḥ_nadī_SBF ariṣaḥ_ariṣa_SNM  / nadyāḥ_nadī_SBF ayam_idam_SNM puruṣaḥ_puruṣa_SNM riṣat_riṣ_SPs3  / yasmai_yad_SDM paribrav"
+  },
+  {
+    "index": 5223,
+    "sanskrit": "yat kiṃcit pitari prete dhanaṃ jyeṣṭho 'dhigacchati / bhāgo yavīyasāṃ tatra yadi vidyānupālinaḥ //",
+    "english": "Whatever property the eldest brother acquires after the death of the father, a share of that shall belong to the younger brothers, if they are devoted to learning0.",
+    "morphology": "yat_yad_SANe kiṃcid_kaścit_SANe pitari_pitṛ_SLM prete_pre_SLPaM dhanam_dhana_SANe jyeṣṭhaḥ_jyeṣṭha_SNM adhigacchati_adhigam_SPr3In  / bhāgaḥ_bhāga_SNM yavīyasām_yavīyas_PGM tatra_tatra_ yadi_yadi_ vidyā_vidyā_Cp anupālinaḥ_anupā"
+  }
+]

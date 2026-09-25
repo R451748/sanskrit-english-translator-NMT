@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42320,
+    "sanskrit": "tatratatra ratiṃ kuryānnāṃdhakāre kadācana | tasmāddīpaḥ sthāpanīyaḥ kārtike māsi vai sadā || 120 ||",
+    "english": "Wherever the Ocean-born Goddess (Lakṣmī) sees the lamps, she is exceedingly delighted with iī, but never so in darkness. Hence, lights must always be fixed (prominently) in the month of Kārttika.",
+    "morphology": "tatra_tatra_ tatra_tatra_ ratim_rati_SAF kuryāt_kṛ_SPr3O na_na_ andhakāre_andhakāra_SLM kadācana_kadācana_  / tasmāt_tasmāt_ dīpaḥ_dīpa_SNM sthāpanīyaḥ_sthāpay_SNMGd kārtike_kārttika_SLM māsi_mās_SLM vai_vai_ sadā_sadā_  /"
+  },
+  {
+    "index": 42321,
+    "sanskrit": "etat akṣaram iti uktam kṣarati idam yathā jagat",
+    "english": "\"This then is the Indestructible.",
+    "morphology": "etat_etad_SNNe akṣaram_akṣara_SNNe iti_iti_U uktam_vac_SNPaPsNe kṣarati_kṣar_SPr3In idam_idam_SNNe yathā_yathā_U"
+  },
+  {
+    "index": 42322,
+    "sanskrit": "daśottara śatam nityaṃ tri māsāvadhi bhaktitaḥ yaḥ paṭhet prayato bhūtvā tasya kim kim na jāyate",
+    "english": "What is not attained by a person who within three months chants this kavaca 110 times with devotion?",
+    "morphology": "daśottara_daśottara_Cp śatam_śata_SANe nityam_nityam_U tri_tri_Cp māsa_māsa_Cp avadhi_avadhi_U bhaktitaḥ_bhakti_SBF yaḥ_yad_SNM paṭhet_paṭh_SPr3O prayataḥ_prayam_SNPaPsM bhūtvā_bhū_Co tasya_tad_SGM kim_ka_SNNe kim_ka_SNNe na_na_U jāyate"
+  },
+  {
+    "index": 42323,
+    "sanskrit": "pūrvameva balāttasmādākramyendriyapañcakam / abhyasansarvayatnena cittaṃ kuru vicāravat //",
+    "english": "Exert therefore your manliness at first, to keep the quintuple organs of sense under proper control;and habituate yourself with all diligence to cultivate your understanding, and the power of reasoning.",
+    "morphology": "pūrvam_pūrvam_ eva_eva_ balāt_bala_SBNe tasmāt_tad_SBNe ākramya_ākram_Co indriya_indriya_Cp pañcakam_pañcaka_SANe  / abhyasan_abhyas_SNPaPrM sarva_sarva_Cp yatnena_yatna_SIM cittam_citta_SANe kuru_kṛ_SPr2Im vicāra_vicāra_Cp vat_vat_  /"
+  },
+  {
+    "index": 42324,
+    "sanskrit": "brahmā uvāca tam deśam bhagavan brūhi tatra yāsyāmahe vayam",
+    "english": "Thither shall we repair.' Brahma said 'Go ye.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In tam_tad_SAM deśam_deśa_SAM bhagavan_bhagavat_SVM brūhi_brū_SPr2Im tatra_tatra_U yāsyāmahe_yā_PFu1In vayam_mad_PN"
+  },
+  {
+    "index": 42325,
+    "sanskrit": "darbheṇa deva jātena divi ṣṭambhena śaśvat id / tena aham śaśvataḥ janām asanam sanavāni ca /",
+    "english": "With Darbha that hath sprung from Gods, stationed in heaven, full many a time. With this have I won many men, have won and may I win them still.",
+    "morphology": "darbheṇa_darbha_SIM deva_deva_MCp jātena_jan_SIPaPsM divi_div_SLM ṣṭambhena_stambha_SIM śaśvat_śaśvat_U id_id_U  / tena_tad_SIM aham_mad_SN śaśvataḥ_śaśvat_PAM janām_jan_SPr1Su asanam_san_SPs1In sanavāni_san_SPs1Su ca_ca_U  /"
+  },
+  {
+    "index": 42326,
+    "sanskrit": "yayā kathaṃ ciddīrghamomaśabde 'vakalpyamāne na yuktaḥ prakaraṇabādhaḥ",
+    "english": "So long as we could interpret the word Dirghasoma in keeping with the indications of the Context, it is not proper to entirely reject this Context.",
+    "morphology": "yayā_yad_SIF katham_katham_ cit_cit_ dīrgham_dīrgha_SANe oma_oman_Cp śabde_śabda_SLM avakalpyamāne_avakalpay_SLPaPrMPv na_na_ yuktaḥ_yuj_SNPaM prakaraṇa_prakaraṇa_Cp bādhaḥ_bādha_SNM"
+  },
+  {
+    "index": 42327,
+    "sanskrit": "maṅgalyam maṅgalam viṣṇum vareṇyam anagham śucim",
+    "english": "who is Vishnu, beneficent and the beneficence itself, worthy of all preference, pure and immaculate;",
+    "morphology": "maṅgalyam_maṅgalya_SAM maṅgalam_maṅgala_SAM viṣṇum_viṣṇu_SAM vareṇyam_vareṇya_SAM anagham_anagha_SAM śuciḥ_śuci_SAM"
+  }
+]

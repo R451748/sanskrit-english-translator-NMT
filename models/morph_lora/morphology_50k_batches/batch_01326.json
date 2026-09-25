@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10600,
+    "sanskrit": "tasya eva avarajaḥ bhrātā mahāsattvaḥ mahā balaḥ sa pāṇḍuḥ iti vikhyātaḥ satya dharma rataḥ śuciḥ",
+    "english": "His younger brother who was possessed of great strength and was really a great being known as Pandu, devoted to truth and virtue, was Purity's self.",
+    "morphology": "tasya_tad_SGM eva_eva_U avarajaḥ_avaraja_SNM bhrātā_bhrātṛ_SNM mahāsattvaḥ_mahāsattva_SNM mahā_mahat_Cp balaḥ_bala_SNM sa_tad_SNM pāṇḍuḥ_pāṇḍu_SNM iti_iti_U vikhyātaḥ_vikhyā_SNPaPsM satya_satya_NeCp dharma_dharma_MCp rataḥ_r"
+  },
+  {
+    "index": 10601,
+    "sanskrit": "śrīrāma uvāca / kathamekasamādhānaṃ kīdṛśaṃ vā munīśvara / vātāhatamayūrāṅgaruhalolaṃ mano bhavet //",
+    "english": "Rama said:—Tell me O chief of sages, what is this uniform insouciance, and set my mind at rest, which is now fluttering like the plumes of a peacock discomposed by the winds.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / katham_katham_ eka_eka_Cp samādhānam_samādhāna_SNNe kīdṛśam_kīdṛśa_SNNe vā_vā_ muni_muni_Cp īśvara_īśvara_SVM  / vāta_vāta_Cp āhata_āhan_PaCp mayūra_mayūra_Cp aṅgaruha_aṅgar"
+  },
+  {
+    "index": 10602,
+    "sanskrit": "tasmāt viśuddha dehasya sneha vastiḥ vidhīyate",
+    "english": "A Sneha-vasti should, therefore, be applied to a person previously purged of all Doshas by the application of a Niruha-vasti.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 10603,
+    "sanskrit": "karma bījaṃ manaḥspandaḥ kathyate'thānubhūyate / kriyāstu vividhāstasya śākhāścitraphalāstaroḥ //",
+    "english": "It is the movement of the mind, which is said and perceived by us to be the source of our actions; and the actions of the mind are as various as the branches, leaves and fruits of trees.",
+    "morphology": "karma_karman_SNNe bījam_bīja_SNNe manaḥ_manas_Cp spandaḥ_spanda_SNM kathyate_kathay_SPr3InPv atha_atha_ anubhūyate_anubhū_SPr3InPv  / kriyāḥ_kriyā_PNF tu_tu_ vividhāḥ_vividha_PNF tasya_tad_SGM śākhāḥ_śākhā_PNF citra_citra_Cp phalā"
+  },
+  {
+    "index": 10604,
+    "sanskrit": "ityanugrahakṛtaṃ trilocanaṃ bhaktibhāji nirahaṃkriye harau | bhītimānavanataḥ svayaṃ vidhiḥ stotumārabhata klṛptavaṃdanaḥ || 17 ||",
+    "english": "17. When the Three-eyed Lord granted his blessings to Hari who was devoid of pride and equipped with devotion, Brahmā became frightened. After making due obeisance and bowing down he began to eulogize. FOOTNOTES AND REFERENCES:",
+    "morphology": "iti_iti_ anugraha_anugraha_Cp kṛtam_kṛ_SAPaM trilocanam_trilocana_SAM bhakti_bhakti_Cp bhāji_bhāj_SLM nirahaṃkriye_nirahaṃkriya_SLM harau_hari_SLM  / bhītimān_bhītimat_SNM avanataḥ_avanam_SNPaM svayam_svayam_ vidhiḥ_vidhi_SNM stotum_stu_In"
+  },
+  {
+    "index": 10605,
+    "sanskrit": "yat enam āha vrātya tarpayantu iti prāṇam eva tena varṣīyāṃsam kurute //",
+    "english": "When he says to him, Let them refresh thee, he thereby wins vital breath to exceeding old age.",
+    "morphology": "yat_yat_U enam_enad_SAM āha_ah_SPs3In vrātya_vrātya_SVM tarpayantu_tarpay_PPr3Im iti_iti_U prāṇam_prāṇa_SAM eva_eva_U tena_tena_U varṣīyāṇā_varṣīyas_SAM kurute_kṛ_SPr3In  /"
+  },
+  {
+    "index": 10606,
+    "sanskrit": "tasthau kāṣṭha vat avyagraḥ na cacāla ca karhi cit",
+    "english": "Unmoved at heart, he stood there, without once stirring an inch.",
+    "morphology": "tasthau_sthā_SPs3In kāṣṭha_kāṣṭha_NeCp vat_vat_U avyagraḥ_avyagra_SNM na_na_U cahhā_cahhā_U"
+  },
+  {
+    "index": 10607,
+    "sanskrit": "vikrāntavapuṣo dīptās te 'mṛtaprāśanopamāḥ / amarapratimā yuddhe putrā vai kālaneminaḥ //",
+    "english": "These immortal-like Saragarbhas, the sons of Kālanemi, were powerful like the celestials, were of effulgent persons and experts in battle.",
+    "morphology": "vikrānta_vikram_PaCp vapuṣaḥ_vapus_PNM dīptāḥ_dīp_PNPaM te_tad_PNM amṛta_amṛta_Cp prāśana_prāśana_Cp upamāḥ_upama_PNM  / amara_amara_Cp pratimāḥ_pratimā_PNM yuddhe_yuddha_SLNe putrāḥ_putra_PNM vai_vai_ kālaneminaḥ_kālanemi_S"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41056,
+    "sanskrit": "aho tīvrādayas tīvre prāpāte patitā amī /",
+    "english": "The property of being loud or low has been carried away by the terrible storm.",
+    "morphology": "aho_aho_ ḥ_ḥ_"
+  },
+  {
+    "index": 41057,
+    "sanskrit": "tasmāt dhīraḥ na eva hṛṣyet na śocet",
+    "english": "Therefore, he that is self-controlled should neither exult in joy nor repine in sorrow.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 41058,
+    "sanskrit": "tatra anurūpam bhīṣmeṇa mama api atra giram śṛṇu",
+    "english": "Listen also to what I would say on this subject.",
+    "morphology": "tatra_tatra_U anurūpam_anurūpa_SANe bhīṣmeṇa_bhīṣma_SIM mama_mad_SG api_api_U"
+  },
+  {
+    "index": 41059,
+    "sanskrit": "pakṣi pakṣi mahāpakṣi mahāpakṣi vidhi svāhā / pakṣi pakṣi mahāpakṣi mahāpakṣi kṣi kṣi svāhā //",
+    "english": "“Oh! Bird! Bird! Great bird! Great bird! Vi! Vi! Oblations! Oh! Bird! Bird! Great bird! Great bird! Kṣi! Kṣi! Oblations!” These two mantras of the king of birds are capable of destroying poison by chanting.",
+    "morphology": "pakṣi_pakṣin_SVM pakṣi_pakṣin_SVM mahā_mahat_Cp pakṣi_pakṣin_SVM mahā_mahat_Cp pakṣi_pakṣin_SVM vidhi_vidhi_SVM svāhā_svāhā_  / pakṣi_pakṣin_SVM pakṣi_pakṣin_SVM mahā_mahat_Cp pakṣi_pakṣin_SVM mahā_mahat_Cp pakṣi_pak"
+  },
+  {
+    "index": 41060,
+    "sanskrit": "ṛṣaya ūcuḥ | bhagavañchrotumicchāmo vrataṃ pāśupataṃ param | brahmādayo 'pi yatkṛtvā sarve pāśupatāḥ smṛtāḥ ||",
+    "english": "[Sanskrit text for this chapter is available] 1. O holy lord, we wish to hear of the great Pāśupatavrata on performing which Brahmā and others have become Pāśupatas.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / bhagavan_bhagavat_SVM śrotum_śru_In icchāmaḥ_iṣ_PPr1In vratam_vrata_SANe pāśupatam_pāśupata_SANe param_para_SANe  / brahma_brahman_Cp ādayaḥ_ādi_PNM api_api_ yat_yad_SANe kṛtvā_kṛ_Co sarve_"
+  },
+  {
+    "index": 41061,
+    "sanskrit": "nahyupādānopādeyabhūtāyā vijñānādisantateranyaḥ paraloko 'trāsti, yasyābhyupagamaḥ syāt /",
+    "english": "In fact, there is nothing apart from the Chain of Causes and Effects, in the shape of Cognition and the rest, which could be accepted.",
+    "morphology": "nahi_nahi_ upādāna_upādāna_Cp upādeya_upādā_GdCp bhūtāyāḥ_bhū_SBPaF vijñāna_vijñāna_Cp ādi_ādi_Cp santateḥ_saṃtati_SBF anyaḥ_anya_SNM para_para_Cp lokaḥ_loka_SNM atra_atra_ asti_as_SPr3In yaḥ_yad_SNM abhyupagamaḥ_abhyupagama_"
+  },
+  {
+    "index": 41062,
+    "sanskrit": "tatra netrāṇi suvarṇa rajata tāmra ayaḥ rīti danta śṛṅga maṇi taru sāra mayāni ślakṣṇāni dṛḍhāni gopuccha ākṛtīni ṛjūni guṭikā mukhāni ca",
+    "english": "The pipe should be made either of gold, silver, copper, iron, brass, ivory, horn, gems or wood.",
+    "morphology": "tatra_tatra_U netrāṇi_netra_PNNe suvarṇa_suvarṇa_NeCp rajata_rajata_NeCp tāmra_tāmra_NeCp ayaḥ_ayas_NeCp rīti_rīti_FCp danta_danta_MCp śṛṅga_śṛṅga_NeCp maṇi_maṇi_MCp taru_taru_MCp sāra_sāra_MCp mayāni_maya_PNNe ślakṣṇāni"
+  },
+  {
+    "index": 41063,
+    "sanskrit": "prayāṇam ghuṣyatām ca eva śvobhūte iti mā ciram",
+    "english": "Let it be proclaimed that we march out tomorrow.",
+    "morphology": "prayāṇam_prayāṇa_SNNe ghuṣyatām_ghuṣ_SPr3ImPv"
+  }
+]

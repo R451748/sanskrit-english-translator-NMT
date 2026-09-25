@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16320,
+    "sanskrit": "na saṃkhyām na parīmāṇam na tejaḥ na parākramam na balam yoga yogī īśa jānīmaḥ te na saṃbhavam",
+    "english": "O Lord of Yoga and Yogins, we do not know thy extent, thy measure, thy energy, thy prowess, thy might, thy origin.",
+    "morphology": "na_na_U saṃkhyām_saṃkhyā_SAF na_na_U parīmāṇam_parīmāṇa_SANe na_na_U tejaḥ_tejas_SANe na_na_U parākramam_parākrama_SAM na_na_U balam_bala_SANe yoga_yoga_MCp yogī_yogin_SNM īśa_īśa_SVM jānīmaḥ_jñā_PPr1In te_tvad_SG"
+  },
+  {
+    "index": 16321,
+    "sanskrit": "maheśituḥ prasādena mama kiṃcinna durlbham | ihāmutra ca kalyāṇi sarvakalyāṇakāriṇaḥ || 71 ||",
+    "english": "71. O auspicious lady, with the favour of Lord Śiva, there is nothing that I cannot get here or hereafter, since I work for the welfare of all.",
+    "morphology": "maheśituḥ_maheśitṛ_SGM prasādena_prasāda_SIM mama_mad_SG kiṃcid_kaścit_SNNe na_na_ durlbham_durlbha_SNNe  / iha_iha_ amutra_amutra_ ca_ca_ kalyāṇi_kalyāṇa_SVF sarva_sarva_Cp kalyāṇa_kalyāṇa_Cp kāriṇaḥ_kārin_SGM"
+  },
+  {
+    "index": 16322,
+    "sanskrit": "naśyanti satvaraṃ rājaṃstūlarāśirivānale | dhanaputrakalatrāṇāṃ pūrayedvatsaratrayāt || 41 ||",
+    "english": "Prasupta (latent leprosy), patches, herpes, white leprosy and scabs perish immediately, O king, like a heap of cotton in blazing fire. Within three years, his house will be filled with wife, sons and wealth.",
+    "morphology": "naśyanti_naś_PPr3In satvaram_satvara_SANe rājan_rājan_SVM tūla_tūla_Cp rāśiḥ_rāśi_SNM iva_iva_ anale_anala_SLM  / dhana_dhana_Cp putra_putra_Cp kalatrāṇām_kalatra_PGNe pūrayet_pūray_SPr3O"
+  },
+  {
+    "index": 16323,
+    "sanskrit": "kena ropaṇātka kasya cetyāha saṃskārairvijñānakarmavāsanā yā \" iti /",
+    "english": "As regards the agent, place or object of this \"establishing\" he says: The \"formative forces\" [establish] the Karmavāsanās, the \"impregnations of the acts\" in the (store-) consciousness.",
+    "morphology": "kena_ka_SIM ropaṇāt_ropaṇa_SBNe ka_ka_SNM kasya_ka_SGM ca_ca_ iti_iti_ āha_ah_SPs3In saṃskāraiḥ_saṃskāra_PIM vijñāna_vijñāna_Cp karma_karman_Cp vāsanāḥ_vāsanā_PNF yā_yad_SNF"
+  },
+  {
+    "index": 16324,
+    "sanskrit": "phala mūla aśanaḥ rājā vane saṃnyavasat ciram",
+    "english": "And the king eating fruits and roots lived for some time in the forest.",
+    "morphology": "phala_phala_NeCp mūla_mūla_NeCp aśanaḥ_aśana_SNM rājā_rājan_SNM"
+  },
+  {
+    "index": 16325,
+    "sanskrit": "kṣatriyāṇām abhīrūṇām viśuddham khyāpyate yaśaḥ",
+    "english": "The great achievements of brave Kshatriyas have been described here.",
+    "morphology": "kṣatriyāṇām_kṣatriya_PGM"
+  },
+  {
+    "index": 16326,
+    "sanskrit": "mahodbhaṭair vīra janaiḥ sa kañcukair dhanur dharaiś carma kṛpāṇa pāṇibhiḥ ratha dvipāśva dhvajinī balādibhiḥ su rakṣitaṃ maṇòala maṇòalībhiḥ",
+    "english": "and which was well protected by great heroic soldiers wearing armor, carrying bows, holding swords and shields in their hands, and by the great power of an army riding on chariots, elephants, and horses.",
+    "morphology": "mahā_mahat_Cp udbhaṭaiḥ_udbhaṭa_PIM vīra_vīra_MCp janaiḥ_jana_PIM sa_sa_U kañcukaiḥ_kañcuka_PIM dhanuḥ_dhanus_NeCp dharaiḥ_dhara_PIM carma_carman_NeCp kṛpāṇa_kṛpāṇa_MCp pāṇibhiḥ_pāṇi_PIM ratha_ratha_MCp dvipa_dvipa_Cp a"
+  },
+  {
+    "index": 16327,
+    "sanskrit": "ratham vām anu gāyasam ya iṣā vartate saha na cakram abhi bādhate",
+    "english": "The whcel delayeth not that car of yours accompanied by song, That cometh with a store of food.",
+    "morphology": "ratham_ratha_SAM vām_tvad_DuG anu_anu_U gāyasam_gāyas_SAM yaḥ_yad_SNM iṣā_iṣ_SIF vartate_vṛt_SPr3In saha_saha_U na_na_U cakram_cakra_SANe"
+  }
+]

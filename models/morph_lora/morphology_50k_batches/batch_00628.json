@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5016,
+    "sanskrit": "gaccha vīra na te buddhiḥ anyā kāryā katham cana",
+    "english": "Go thou, O hero, and let not thy mind be directed to any other course of action.",
+    "morphology": "gaccha_gam_SPr2Im"
+  },
+  {
+    "index": 5017,
+    "sanskrit": "mañce tau balinau vegān mardayantau parasparamśaila śṛìge yathā siṃhau suśubhāte yathā tatham",
+    "english": "In the box again, the two strong opponents hit each other very hard. They were like two splendid lions fighting on a mountaintop.",
+    "morphology": "mañce_mañca_SLM tau_tad_DuNM balinau_balin_DuNM vegān_vega_PAM mardayantau_marday_DuNPaPrM parasparam_paraspara_SAM"
+  },
+  {
+    "index": 5018,
+    "sanskrit": "tatra pracchite tanu vasti paṭala avanaddhena śrṅgeṇa śoṇitam avasecayet ācūṣaṇāt sa antardīpayā alābvā ||",
+    "english": "The part from which the blood is to be sucked should be first scarified or slightly cut in two or three places, and then the mouth or the open end, of the horn, covered with a thin piece of muslin tied round its edges should be placed over it and sucked with the mouth through the aperture at its tip or top-end, or with a gourd appliance equipped with a lighted lamp placed in its inside.",
+    "morphology": "tatra_tatra_U pracchite_pracchā_SLPaPsM tanu_tanu_Cp vasti_vasti_MCp paṭala_paṭala_NeCp avanaddhena_avanah_SIPaPsNe śrṅgeṇa_śrṅga_SINe śoṇitam_śoṇita_SANe avasecayet_avasecay_SPr3O ācūṣaṇāt_ācūṣaṇa_SBNe sa_sa_U antardīpayā"
+  },
+  {
+    "index": 5019,
+    "sanskrit": "tenāstaṅgata evaiṣa vyavahāro vikalpajaḥ | tasmātspandāntaraṃ yāvannodiyāttāvadekakam |",
+    "english": "Thus, on admittance of the theory of momentariness the entire practicability of behaviour collapses. There is no possibility of arousal of another throb until the earlier one gives way to it by disappearing itself.",
+    "morphology": "tena_tena_ astaṅgāt_astaṅga_SBM eva_eva_ eṣa_etad_SNM vyavahāraḥ_vyavahāra_SNM vikalpa_vikalpa_Cp jaḥ_ja_SNM  / tasmāt_tasmāt_"
+  },
+  {
+    "index": 5020,
+    "sanskrit": "yataḥ sā kalpnā prameyadvārikā 'nyathā 'nupapadyata ity arthaḥ /",
+    "english": "It cannot be proved that a living per- son is staying outside if he is not absent from his house.",
+    "morphology": "yatas_yatas_ sā_tad_SNF prameya_pramā_GdCp dvārikā_dvārikā_SNF anyathā_anyathā_"
+  },
+  {
+    "index": 5021,
+    "sanskrit": "pṛthivyannayostu bhojyatvenā'bhyāṃ sambandhaḥ //",
+    "english": "that is why there is absolute identity between these two as asserted in the Text’ As for Earth and Food, these are related to the Fire as objects of enjoyment",
+    "morphology": "pṛthivī_pṛthivī_Cp annayoḥ_anna_DuGNe tu_tu_ bhojya_bhuj_GdCp tvena_tva_SINe ā_ā_ ibhyām_idam_DuINe sambandhaḥ_sambandha_SNM  /"
+  },
+  {
+    "index": 5022,
+    "sanskrit": "kaphena kaṇḍūḥ pracitena karṇayoḥ bhṛśam bhavet srotasi karṇa saṃjñite",
+    "english": "The excessive itching sensation in the ear due to the aggravation of the local Kapha is called Karna-kandu.",
+    "morphology": "kaphena_kapha_SIM kaṇḍūḥ_kaṇḍū_SNF pracitena_praci_SIPaPsM karṇayoḥā_kāṇā_SIFā_SIF"
+  },
+  {
+    "index": 5023,
+    "sanskrit": "yadyevamīdṛśaiśvaryaṃ tattu svātantryalakṣaṇam | svabhāvasiddhaṃ caitasya mūrtimattāspadaṃ bhavet || na mūrtiśca svataṃtrasya ghaṭate mūlahetunā | mūrterapi ca kāryatvāttatsiddhiḥ syādahaitukī ||",
+    "english": "5. If his lordship is like this, characterised by freedom, it can be either innate or subject to his embodied state. 6. But a physical form docs not fit in with a free being for this basic reason. But the form is an effect of some cause. Lordship has no cause for its being.",
+    "morphology": "yadi_yadi_ evam_evam_ īdṛśa_īdṛśa_Cp aiśvaryam_aiśvarya_SNNe tat_tad_SNNe tu_tu_ svātantrya_svātantrya_Cp lakṣaṇam_lakṣaṇa_SNNe  / svabhāva_svabhāva_Cp siddham_sidh_SNPaNe ca_ca_ etasya_etad_SGM mūrtimat_mūrtimat_Cp tā_tā_Cp āspa"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14384,
+    "sanskrit": "hate hiraṇyakaśipau nṛsiṃhe naiva viṣṇunā | jagatsvāsthyantadā lebhe na vai devāviśeṣataḥ ||",
+    "english": "23. When Hiraṇyakaśipu was killed by the man-lion Viṣṇu, the whole universe attained normalcy and peace. But the gods did not derive any special comfort.",
+    "morphology": "hate_han_SLPaM hiraṇyakaśipau_hiraṇyakaśipu_SLM nṛsiṃhe_nṛsiṃha_SLM na_na_ eva_eva_ viṣṇunā_viṣṇu_SIM  / __jagant_U __svāsthya_U __tadā_U __"
+  },
+  {
+    "index": 14385,
+    "sanskrit": "vr̥ṣo iti agniḥ sam idhyate aśvaḥ na deva vāhanaḥ tam haviṣmantaḥ īl̥ate",
+    "english": "Agni is kindled as a bull, like a horsebearer of the Gods: Men with oblations worship him.",
+    "morphology": "vrīṣo_vrīṣu_SVM iti_iti_U agniḥ_agni_SNM sam_sam_U idhyate_indh_SPr3InPv aśvaḥ_aśva_SNM na_na_U deva_deva_MCp vāhanaḥ_vāhana_SNM tam_tad_SAM"
+  },
+  {
+    "index": 14386,
+    "sanskrit": "tatopi paṅktiṃ sammṛjya tadvat ṣoḍaśabhadrakaṃ / likhitvā paritaḥ paṅktiṃ vimṛjyātha prakalpayet //",
+    "english": "Then having sprinkled the rows of compartments and writing sixteen bhadrakas the rows all around are sprinkled. and allotment is made.",
+    "morphology": "tatas_tatas_ api_api_ paṅktim_paṅkti_SAF sammṛjya_sammṛj_Co tadvat_tadvat_ ṣoḍaśa_ṣoḍaśan_Cp bhadrakam_bhadraka_SANe  / likhitvā_likh_Co paritas_paritas_ paṅktim_paṅkti_SAF vimṛjya_vimṛj_Co atha_atha_ prakalpayet_prakalpay_SPr3O "
+  },
+  {
+    "index": 14387,
+    "sanskrit": "vedāḥ dharmāḥ ca na utsādam gaccheyuḥ sura sattamāḥ vihitam pūrvam eva atra mayā vai vyetu vaḥ jvaraḥ",
+    "english": "The Vedas and the eternal duties shall not be exterminated, ye foremost of celestials! I have ordained what is proper in this matter.",
+    "morphology": "vedāḥ_veda_PNM dharmāḥ_dharma_PNM ca_ca_U na_na_U utsādam_utsāda_SAM gaccheyuḥ_gam_PPr3O sura_sura_MCp sattamāḥ_sattama_PVM vihitam_vidhā_SNPaPsNe pūrvam_pūrvam_U evā_eva_U atra_atra_U mayā_mad_SI"
+  },
+  {
+    "index": 14388,
+    "sanskrit": "surūpāpy arpitātmāpi parastrīyaṃ kim etayā / iti dhairyasya mārgo 'yaṃ na tāruṇyasya saṅginaḥ //",
+    "english": "what have I to do with her?” But this is the course of calm self-restraint, not of ardent youth.",
+    "morphology": "surūpā_surūpa_SNF api_api_ arpita_arpay_PaCp ātmā_ātman_SNF api_api_ para_para_Cp strī_strī_SNF iyam_idam_SNF kim_ka_SNNe etayā_etad_SIF  / iti_iti_ dhairyasya_dhairya_SGNe mārgaḥ_mārga_SNM ayam_idam_SNM na_na_ tāruṇyasya_tāruṇya_SGNe sa"
+  },
+  {
+    "index": 14389,
+    "sanskrit": "prātaḥsnātvā caturthyāṃ ca saṃpūjyācāryamādṛtaḥ | vastrairābharaṇairmālyairdakṣiṇābhirmudānvitau || 14 || sopaskarāṃ ca tāṃ mṛrtimācāryāya nivedayet | samuccarannimaṃ maṃtraṃ vratakṛnmithunaṃ mudā || 15 ||",
+    "english": "In the morning of the Caturthī day, the joyous couple should honour the preceptor with clothes, ornaments, garlands and monetary gifts. The idol with all the requisite appurtenances should be given to the Ācārya. The couple observing the Vrata should repeat this Mantra.",
+    "morphology": "prātar_prātar_ snātvā_snā_Co caturthyām_caturthī_SLF ca_ca_ saṃpūjya_sampūjay_Co ācāryam_ācārya_SAM ādṛtaḥ_ādṛ_SNPaM  / vastraiḥ_vastra_PINe ābharaṇaiḥ_ābharaṇa_PINe mālyaiḥ_mālya_PINe dakṣiṇābhiḥ_dakṣiṇā_PI"
+  },
+  {
+    "index": 14390,
+    "sanskrit": "anyonyam ca mahā rāja pīḍayām cakratuḥ bhṛśam",
+    "english": "And they afflicted each other very much.",
+    "morphology": "anyonyam_anyonya_SAM"
+  },
+  {
+    "index": 14391,
+    "sanskrit": "na hema tāpaśuddhāṅgaṃ svabhāvamalamāgatam / kardame magnamapi satsamādatte malaṃ punaḥ //",
+    "english": "Gold though purified by fire, does not retain its purity for ever;for it becomes dirty by being thrown into the mud and mire.",
+    "morphology": "na_na_ hema_heman_SNNe tāpa_tāpa_Cp śuddha_śudh_PaCp aṅgam_aṅga_SNNe svabhāva_svabhāva_Cp malam_mala_SAM āgatam_āgam_SNPaNe  / kardame_kardama_SLM magnam_majj_SNPaNe api_api_ sā_as_SNPaPrNe ā_ā_ āsā_ās_SIPaPrNe ā_ā_ āsā_ās_SIPaPrNe "
+  }
+]

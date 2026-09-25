@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44336,
+    "sanskrit": "tatra gatvā sa jagrāha gadām śaṅkham ca bhārata tasmāt gireḥ upādāya śilāḥ su rucirāḥ śubhāḥ sphāṭikam ca sabhā dravyam yat āsīt vṛṣaparvaṇaḥ",
+    "english": "Going thither, O Bharata, Maya brought back the club and the conch-shell and the various crystalline articles that had belonged to king Vrishaparva.",
+    "morphology": "tatra_tatra_U gatvā_gam_Co sa_tad_SNM jagrāha_grah_SPs3In gadām_gadā_SAF śaṅkham_śaṅkha_SAM ca_ca_U bhārata_bhārata_SVM tasmāt_tad_SBM gireḥ_giri_SBM upādāya_upādā_Co śilāḥ_śilā_PAF su_su_U rucirāḥ_rucira_PAF śubhāḥ_śubha_P"
+  },
+  {
+    "index": 44337,
+    "sanskrit": "prākṛtāḥ kathyante brahmaṇaścatvāraḥ putrāḥ sanakasanandanasanātanasanatkumārā babhūvuḥ /",
+    "english": "The natural ones are describedSanaka, Sanandana, Sanātana and Sanatkumāra were the four sons of Brahman.",
+    "morphology": "prākṛtāḥ_prākṛta_PNM kathyante_kathay_PPr3InPv brahmaṇaḥ_brahman_SGM catvāraḥ_catur_PNM putrāḥ_putra_PNM sanaka_sanaka_Cp sanandana_sanandana_Cp sanātana_sanātana_Cp sanatkumārāḥ_sanatkumāra_PNM babhūvuḥ_bhū_PPs3In  /"
+  },
+  {
+    "index": 44338,
+    "sanskrit": "tadadbhutaṃ mahaddṛṣṭvā jagarjurdaityasattamāḥ | naitānharṣamadoddhūtānidaṃ sehe jagattadā || 87 ||",
+    "english": "87. On seeing that great wonderful feat, the excellent Daityas roared. This universe did not brook them as they were swayed with delight and pride.",
+    "morphology": "tat_tad_SANe adbhutam_adbhuta_SANe mahat_mahat_SANe dṛṣṭvā_dṛś_Co jagarjuḥ_garj_PPs3In daitya_daitya_Cp sattamāḥ_sattama_PNM  / na_na_ etān_etad_PAM harṣa_harṣa_Cp mada_mada_Cp uddhūtān_uddhū_PAPaM idam_idam_SNNe saḥ_tad_SNM"
+  },
+  {
+    "index": 44339,
+    "sanskrit": "unmatta raṅga pratimam śabdena āpūrayat jagat",
+    "english": "Like the mad and roaring current of the Ganga it seemed to fill the whole universe with its uproar.",
+    "morphology": "unmatta_unmad_PaPsCp"
+  },
+  {
+    "index": 44340,
+    "sanskrit": "anyathā tulyadoṣaḥ syāt //",
+    "english": "otherwise both of them shall be equally guilty with the sufferer",
+    "morphology": "anyathā_anyathā_ tulya_tulya_Cp doṣaḥ_doṣa_SNM syāt_as_SPr3O  /"
+  },
+  {
+    "index": 44341,
+    "sanskrit": "mama hi arthāḥ su bahavaḥ naṣṭāḥ svapne iva āgatāḥ",
+    "english": "All that, however, vanishes like a dream.",
+    "morphology": "mama_mad_SG hi_hi_U arthāḥ_artha_PNM su_su_U bahavaḥ_bahu_PNM naḥ_naś_PNPaPsM"
+  },
+  {
+    "index": 44342,
+    "sanskrit": "śeṣāḥ sumeruparicāyāvasthitāḥ /",
+    "english": "concentrically, the other seven are arranged around Meru;",
+    "morphology": "śeṣāḥ_śeṣa_PNM"
+  },
+  {
+    "index": 44343,
+    "sanskrit": "śarīravāhinī ādhimokṣikī manojavā ca tatra gatiḥ / śāsturmanojavā",
+    "english": "Displacement is of three types: transport displacement, displacement through adhimokṣa, and rapid displacement like the mind.",
+    "morphology": "śarīra_śarīra_Cp vāhinī_vāhin_SNF ādhimokṣikī_ādhimokṣika_SNF manaḥ_manas_Cp javā_java_SNF ca_ca_ tatra_tatra_ gatiḥ_gati_SNF  / śāstuḥ_śāstṛ_SGM manaḥ_manas_Cp"
+  }
+]

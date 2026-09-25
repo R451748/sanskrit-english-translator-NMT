@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42792,
+    "sanskrit": "anūpa adhipatiḥ śūraḥ bhīmasya dayitaḥ sakhā nīlaḥ nīla ambuda prakhyaḥ saṃkruddhaḥ drauṇim abhyayāt",
+    "english": "The heroic ruler of the low country, the dear friend of Bhima, viz., Nila, looking like a mass of blue clouds, rushed at Drona's son, filled with wrath.",
+    "morphology": "anūpa_anūpa_MCp adhipatiḥ_adhipati_SNM śūraḥ_śūra_SNM bhīmasya_bhīma_SGM dayitaḥ_dayita_SNM sakhā_sakhi_SNM nīlaḥ_nīla_SNM nīla_nīla_Cp ambuda_ambuda_MCp prakhyaḥ_prakhyā_SNM saṃkruddhaḥ_saṃkrudh_SNPaPsM drauṇim_drauṇi_SAM"
+  },
+  {
+    "index": 42793,
+    "sanskrit": "jāter ajātitaḥ /",
+    "english": "as one genus cannot have another genus.",
+    "morphology": "jāteḥ_jāti_SBF a_a_ jātiḥ_jāti_SBF"
+  },
+  {
+    "index": 42794,
+    "sanskrit": "ahaṃ brahma paraṃ jyotiḥ sabhājñānavivarjitaṃ // ahaṃ brahma paraṃ jyotiradhyāhṛtavivarjitaṃ /",
+    "english": "am Brahman, the Supreme Lustre devoid of knowledge relating to an assembly. am Brahman, the Supreme Lustre bereft of inference.",
+    "morphology": "aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe sabhā_sabhā_Cp jñāna_jñāna_Cp vivarjitam_vivarjay_SNPaNe  // aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe adhyāhṛta_adhyāhṛta_Cp vivarjitam_vivarjay_SN"
+  },
+  {
+    "index": 42795,
+    "sanskrit": "saureṇa tejasā deha eva niruddhāḥ santo mūrdhanyayā nāḍyā notkramanta evetyarthaḥ /",
+    "english": "that these latter are held back in the body by the light of the Sun, and hence do not pass through the Artery in the Head",
+    "morphology": "saureṇa_saura_SINe tejasā_tejas_SINe dehe_deha_SLM eva_eva_ niruddhāḥ_nirudh_PNPaM santaḥ_as_PNPaPrM mūrdhanyayā_mūrdhanya_SIF nāḍyā_nāḍī_SIF na_na_ utkramante_utkram_PPr3In eva_eva_ iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 42796,
+    "sanskrit": "svadharmeṇa kriyā loke kurvāṇaḥ satya saṃgaraḥ",
+    "english": "Well-versed in the scriptures, he should practise those duties that have been laid down for him, and do all acts in this world guided by the quality of goodness.",
+    "morphology": "svadharmeṇa_svadharma_SIM kriyā_kriyā_FCp loke_loka_SLM kurvāṇaḥ_kṛ_SNPaPrM satya_satya_NeCp saṃgaraḥ_saṃgara_SNM"
+  },
+  {
+    "index": 42797,
+    "sanskrit": "tadrūpālokasaṃbhāvyaviplavāḥ kulayoṣitaḥ / apasārayituṃ dattaṃ tadā codghoṣaḍiṇḍimam //",
+    "english": "And then a warning drum was beaten, to give notice to all matrons to retire, as it was apprehended that the sight of his beauty might prove their ruin.",
+    "morphology": "tad_tad_Cp rūpa_rūpa_Cp āloka_āloka_Cp saṃbhāvya_sambhāvay_GdCp viplavāḥ_viplava_PAF kula_kula_Cp yoṣitaḥ_yoṣit_PAF  / apasārayitum_apasāray_In dattam_dā_SNPaNe tadā_tadā_ ca_ca_ udghoṣa_udghoṣa_Cp ḍiṇḍimam_ḍiṇḍima_SNN"
+  },
+  {
+    "index": 42798,
+    "sanskrit": "nāsti virodhaḥ /",
+    "english": "Hence the anuśaya is not kāmarāga.",
+    "morphology": "na_na_U asti_as_SPr3In virodhaḥ_virodha_SNM"
+  },
+  {
+    "index": 42799,
+    "sanskrit": "etat te vistareṇa uktam yat mām tvam paripṛcchasi",
+    "english": "I have now answered in detail all that thou hast asked me.",
+    "morphology": "etat_etad_SNNe te_tvad_SD vistareṇa_vistara_SIM uktam_vac_SNPaPsNe yat_yad_SANe mām_mad_SA tvam_tvad_SN paripṛcchasi_paripracch_SPr2In"
+  }
+]

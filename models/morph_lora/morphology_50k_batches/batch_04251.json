@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34000,
+    "sanskrit": "yam pāṇḍavāḥ parirakṣanti sarve prāṇaiḥ garīyāṃsam anuvratam vai saḥ eṣa vīraḥ nakulaḥ patiḥ me",
+    "english": "And that other youth, versed in every question of morality and profit, who ever dispelleth the fears of the affrighted, who is endued with high wisdom, who is considered as the handsomest person in the whole world and who is protected by all the sons of Pandu, being regarded by them as dearer to them than their own lives for his unflinching devotion to them, is my husband Nakula possessed of great prowess.",
+    "morphology": "yam_yad_SAM pāṇḍavāḥ_pāṇḍava_PNM parirakṣanti_parirakṣ_PPr3In sarve_sarva_PNM prāṇaiḥ_prāṇa_PIM garīyāṃsam_garīyas_SAM anuvratam_anuvrata_SAM vai_vai_U saḥ_tad_SNM eṣa_etad_SNM vīraḥ_vīra_SNM nakulaḥ_nakula_SNM pati"
+  },
+  {
+    "index": 34001,
+    "sanskrit": "haṃsenduśuklavarṇānāṃ hayānāmayutaṃ dadau | tuṃgānāṃ nityamattānāṃ gajānāmadhikaṃ śatāt || 34 || aṃtaḥpuracarā nārīrnṛttagītaviśāradāḥ | dadau catuḥsahasrāṇi śrīnivāsāya viṣṇave | dattvā caitāni sarvāṇi tasthau devapuro vibhuḥ || 35 ||",
+    "english": "He gave ten thousand horses white in colour like swans and the moon. There were more than a hundred elephants perpetually in their rut. He gave Viṣṇu, Śrīnivāsa, four thousand women experts in dance and music to serve in the inner apartment. After making all these gifts the king stood in front of the Lord (awaiting further instruction).",
+    "morphology": "haṃsa_haṃsa_Cp indu_indu_Cp śukla_śukla_Cp varṇānām_varṇa_PGM hayānām_haya_PGM ayutam_ayuta_SANe dadau_dā_SPs3In  / tuṅgānām_tuṅga_PGM nitya_nitya_Cp mattānām_mad_PGPaM gajānām_gaja_PGM adhikam_adhika_SANe śatāt_śata_SBNe  / ant"
+  },
+  {
+    "index": 34002,
+    "sanskrit": "saṃdhirapyavilopaḥ syādetayoreva tadvapuḥ / bhāvābhāvairyathaikāsthāniṣṭhāvetau tathaiva hi //",
+    "english": "That point is no nullity nor an empty vacuity (because it is neither the one or the other). Nor it is a positive entity and the real pivot and connecting link of both sides. It never changes its central place between both extremes of this and that, or the two states of being and not being.",
+    "morphology": "saṃdhiḥ_saṃdhi_SNM api_api_ avilopaḥ_avilopa_SNM syāt_as_SPr3O etayoḥ_etad_DuGM eva_eva_ tat_tad_SNNe vapuḥ_vapus_SNNe  / bhāva_bhāva_Cp abhāvaiḥ_abhāva_PIM yathā_yathā_ eka_eka_Cp āsthā_āsthā_Cp niṣṭhau_niṣṭhā_SNM etau_et"
+  },
+  {
+    "index": 34003,
+    "sanskrit": "sātyakiḥ śakunim ca api bhīmasenaḥ ca kauravān",
+    "english": "Satyaki proceeded against Shakuni, and the sons of Draupadi against the other Kauravas.",
+    "morphology": "sātyakiḥ_sātyaki_SNM"
+  },
+  {
+    "index": 34004,
+    "sanskrit": "tasmācca sākṣātkārādaśeṣaguṇatrayavyavahāre yadvaitṛṣṇyaṃ tatparaṃ vairāgyam / tasya tāratamyena samādheḥ śīghratvatāratamyaṃ sūtrayati — 'tīvrasaṃvegānāmāsannaḥ' yogasūtreṣu samādhilābhaḥ iti /",
+    "english": "and from that realization arises the desirelessness to all manifestations of the three modes, which is called extreme non-attachment. Patañjali describes the varying degrees of rapidity in the attainment of concentration according to the varying degrees of non-attachment in the aphorism thus : ‘Success is speedy for the extremely energetic' .",
+    "morphology": "tasmāt_tad_SBM ca_ca_ sākṣātkārāt_sākṣātkāra_SBM aśeṣa_aśeṣa_Cp guṇatraya_guṇatraya_Cp vyavahāre_vyavahāra_SLM yat_yad_SNNe vaitṛṣṇyam_vaitṛṣṇya_SNNe tat_tad_SNNe param_para_SNNe vairāgyam_vairāgya_SNNe  / tasya_tad_SG"
+  },
+  {
+    "index": 34005,
+    "sanskrit": "ūrum rājñaḥ samāsādya kapotaḥ śyena jāt bhayāt",
+    "english": "And Indra assuming the shape of a hawk, and Agni that of a pigeon, came up to that king.",
+    "morphology": "ūrum_ūru_SAM"
+  },
+  {
+    "index": 34006,
+    "sanskrit": "varāhasya ca vārāhaṃ purāṇaṃ dvādaśaṃ mune | yatra skandaḥ svayaṃ śrotā vaktā sākṣānmaheśvaraḥ || tattu skāndaṃ samākhyātaṃ vāmanasya tu vāmanam | kaurmaṃ kūrmasya caritaṃ mātsyaṃ matsyena kīrtitam || garuḍastu svayaṃ vaktā yattadgāruḍasaṃjñakam | brahmāṇḍacaritoktatvādbrahmāṇḍaṃ parikīrtitam ||",
+    "english": "133-135. O sage, the twelfth Purāṇa Varāha is so called because it contains the story of Varāha, the great Boar. In the Skanda Purāṇa the speaker is lord Śiva himself and the listener is Skanda. In the Vāmana Puraṇa the story of Vāmana (the Dwarf-god) is mentioned. The Kūrma Purāṇa contains the story of Kūrma (the tortoise-god). The Matsya Purāṇa is so called because it is expounded by Matsya. The Garuḍa Purāṇa is so called because the speaker is Garuḍa himself. Since the story of the entire cosmic egg is mentioned, the last Purāṇa is called Brahmāṇḍa Purāṇa.",
+    "morphology": "varāhasya_varāha_SGM ca_ca_ vārāham_vārāha_SNNe purāṇam_purāṇa_SNNe dvādaśam_dvādaśa_SNNe mune_muni_SVM  / yatra_yatra_ skandaḥ_skanda_SNM svayam_svayam_ śrotā_śrotṛ_SNM vaktā_vaktṛ_SNM sākṣāt_sākṣāt_ maheśvaraḥ_maheśv"
+  },
+  {
+    "index": 34007,
+    "sanskrit": "akāryatvācca nāstyetatsarga itthaṃ na vidyate / yadā na kasyacitkāryaṃ kāraṇasya jagattadā //",
+    "english": "The uncaused world is the product of nothing, and therefore nothing in itself; for if it be the production of nobody, it is a nullity like its cause also.",
+    "morphology": "akārya_akārya_Cp tvāt_tva_SBNe ca_ca_ na_na_ asti_as_SPr3In etat_etad_SNNe sargaḥ_sarga_SNM ittham_ittham_ na_na_ vidyate_vid_SPr3InPv  / yadā_yadā_ na_na_ kasyacid_kaścit_SGM kāryam_kārya_SNNe kāraṇasya_kāraṇa_SGNe jagat_jagant_SNNe tadā_"
+  }
+]

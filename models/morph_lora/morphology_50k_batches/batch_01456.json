@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11640,
+    "sanskrit": "vaiśampāyanaḥ uvāca",
+    "english": "Use all the strength of thy arms.",
+    "morphology": "vaiśampāyanaḥ_SNM"
+  },
+  {
+    "index": 11641,
+    "sanskrit": "alajī vidārikā vidradhikā ca iti",
+    "english": "They are named as Sharavika, Sarshapika, Kaccapika, Jalini, Vinata, Putrini, Masurika, Alaji, Vidarika and Vidradhika.",
+    "morphology": "alajī_alajī_SNF"
+  },
+  {
+    "index": 11642,
+    "sanskrit": "tena jagat dhāryate",
+    "english": "The universe is upheld by that power and, therefore, is upheld by Agni and Shoma united together.",
+    "morphology": "tena_tad_SIM"
+  },
+  {
+    "index": 11643,
+    "sanskrit": "tatra saptarṣibhiḥ sārdham āruhethāḥ mahā mune bījāni ca eva sarvāṇi yathā uktāni mayā purā tasyām ārohayeḥ nāvi su saṃguptāni bhāgaśas",
+    "english": "On that must thou ascend, O great Muni, with the seven Rishis and take with thee all the different seeds which were enumerated by regenerate Brahmanas in days of yore, and separately and carefully must thou preserve them therein.",
+    "morphology": "tatra_tatra_U saptarṣibhiḥ_saptarṣi_PIM sārdham_sārdham_U āruhethāḥ_āruh_SPr2O mahā_mahat_Cp mune_muni_SVM bījāni_bīja_PANe ca_ca_U eva_eva_U sarvāṇi_sarva_PANe yathā_yathā_U uktāni_vac_PAPaPsNe mayā_mad_SI purā_purā_U tasyām_tad"
+  },
+  {
+    "index": 11644,
+    "sanskrit": "kāraṇa antara sāpekṣam tat hi śabda ādi vedanam | bhāve api anyasya tad hetoḥ abhāvāt aṅkura ādi vat ||",
+    "english": "What was asserted on the previous occasion was only the fact of the apprehension of sound being dependent on other causes,—on the ground that even when its cause was there, it did not come about, because something else was absent;—as in the case of the sprout and such things",
+    "morphology": "kāraṇa_kāraṇa_NeCp antara_antara_NeCp sāpekṣam_sāpekṣa_SNNe tat_tad_SNNe hi_hi_U śabda_śabda_MCp ādi_ādi_SNNe vedanam_vedana_SNNe  / bhāve_bhāva_SLM api_api_U anyasya_anya_SGM tad_tad_Cp hetoḥ_hetu_SGM abhāvāt_abhāva_SBM aṅkura_a"
+  },
+  {
+    "index": 11645,
+    "sanskrit": "na ca tvam asmān pṛcchasi ye vayam smaḥ tat tvām pṛcchāmaḥ spṛhaṇīya rūpam",
+    "english": "If thou hast first asked us who we were, we would never have been guilty of the incivility of asking thee first.",
+    "morphology": "na_na_U ca_ca_U tvam_tvad_SN asmān_mad_PA pṛcchasi_pracch_SPr2In ye_yad_PNM vayam_mad_PN smaḥ_as_PPr1In tat_tad_SANe tvām_tvad_SA pṛcchāmaḥ_pracch_PPr1In"
+  },
+  {
+    "index": 11646,
+    "sanskrit": "prācetase catvāro vedavidaḥ dharmaśāstravid iti pañcāvarā pariṣat ity uktam //",
+    "english": "Välmiki holds that the said council is constituted by the four Vedic scholars and a scholar of Dharma Sastra.",
+    "morphology": "prācetase_prācetasa_SLM catvāraḥ_catur_PNM veda_veda_Cp vidaḥ_vid_PNM dharma_dharma_Cp śāstra_śāstra_Cp vid_vid_SNM iti_iti_ pañca_pañcan_Cp avarā_avara_SNF pariṣad_pariṣad_SNF iti_iti_ uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 11647,
+    "sanskrit": "upamitopamānatvānna hīnopamā / tasyaivaṅguṇaviśiṣṭasya gauṇamidaṃ nāmoditi /",
+    "english": "Inasmuch as the Simile is an indirect one,the lotus being likened to the monkey’s seat, and the eyes being likened to the lotus,it cannot be regarded as incompatible with the dignity of the subject",
+    "morphology": "upamita_upamā_PaCp upamāna_upamāna_Cp tvāt_tva_SBNe na_na_ hīna_hā_PaCp upamā_upamā_SNF  / tasya_tad_SGM evaṅguṇa_evaṅguṇa_Cp viśiṣṭasya_viśiṣ_SGPaM gauṇa_gauṇa_SNNe idam_idam_SNNe nāma_nāman_SNNe __ud_U iti_iti_U  /"
+  }
+]

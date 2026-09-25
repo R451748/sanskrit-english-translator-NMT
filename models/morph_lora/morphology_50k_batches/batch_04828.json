@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38616,
+    "sanskrit": "tān samabhyayuḥ avyagrāḥ tat adbhutam iva abhavat",
+    "english": "All this seemed exceedingly wonderful.",
+    "morphology": "tān_tad_PAM samabhyayuḥ_samabhiyā_PPs3In avyagrāḥ_avyagra_PNM tat_tad_SNNe adbhutam_adbhuta_SNNe iva_iva_U abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 38617,
+    "sanskrit": "tān pratyavidhyat rādheyaḥ pañcabhiḥ pañcabhiḥ śaraiḥ",
+    "english": "The son of Radha pierced each of them in return with five arrows.",
+    "morphology": "tān_tad_PAM pratyavidhyat_prativyadh_SPs3In rādheyaḥ_rādheya_SNM pañcabhiḥ_pañcan_PIM pañcabhiḥ_pañcan_PIM śaraiḥ_śara_PIM"
+  },
+  {
+    "index": 38618,
+    "sanskrit": "tatra hemalatā rājñī sa ca rūpadharo nṛpaḥ / dṛṣṭvānurūpaṃ duhiturbhartāraṃ taṃ nanandatuḥ //",
+    "english": "Then the Queen Hemalatā and the King Rūpadhara, seeing that he was a suitable husband for their daughter, rejoiced.",
+    "morphology": "tatra_tatra_ hemalatā_hemalatā_SNF rājñī_rājñī_SNF sa_tad_SNM ca_ca_ rūpa_rūpa_Cp dharaḥ_dhara_SNM nṛpaḥ_nṛpa_SNM  / dṛṣṭvā_dṛś_Co anurūpam_anurūpa_SAM duhituḥ_duhitṛ_SGF bhartāram_bhartṛ_SAM tam_tad_SAM nanandatuḥ_na"
+  },
+  {
+    "index": 38619,
+    "sanskrit": "parituṣṭo'smi te caṃdra varaṃ varaya suvrata | kiṃ te kāmaṃ karomyadya brūhi yatsyātsudurllabham || 30 ||",
+    "english": "30. “O Candra of good holy rites, I am pleased with you. Do choose your boon. Do tell me what wish of yours shall I fulfill even if it be very difficult to acquire.”",
+    "morphology": "parituṣṭaḥ_parituṣ_SNPaM asmi_as_SPr1In te_tvad_SG candra_candra_SVM varam_vara_SAM varaya_varay_SPr2Im suvrata_suvrata_SVM  / kim_ka_SANe te_tvad_SG kāmam_kāma_SAM karomi_kṛ_SPr1In adya_adya_ brūhi_brū_SPr2Im yat_yad_SNNe syāt_as_SPr3O su_s"
+  },
+  {
+    "index": 38620,
+    "sanskrit": "kasyānyasya kṛte devaḥ svasyaivājñākaraṃ yamam | kruddho niyaṃtrayāmāsa caraṇāṃguṣṭhapīḍitam || 3 ||",
+    "english": "3. On behalf of which other persons did the Lord become angry and control Yama who executes his orders by afflicting Yama with the big toe of his foot.",
+    "morphology": "kasya_ka_SGM anyasya_anya_SGM kṛte_kṛte_ devaḥ_deva_SNM svasya_sva_SGM eva_eva_ ājñākaram_ājñākara_SAM yamam_yama_SAM  / kruddhaḥ_krudh_SNPaM niyaṃtrayāmāsa_niyantray_SPs3InPe caraṇa_caraṇa_Cp aṅguṣṭha_aṅguṣṭha_Cp pīḍit"
+  },
+  {
+    "index": 38621,
+    "sanskrit": "devā ūcuḥ | yasmāccitrāṇi pīṭhāni tvayānītāni tatra hi | tasmāccitreśvaraṃ nāma pīṭhamekaṃ bhaviṣyati || 55 ||",
+    "english": "The Devas said:",
+    "morphology": "devāḥ_deva_PNM ūcuḥ_vac_PPs3In  / yasmāt_yasmāt_ citrāṇi_citra_PNNe pīṭhāni_pīṭha_PNNe tvayā_tvad_SI ānītāni_ānī_PNPaNe tatra_tatra_ hi_hi_  / tasmāt_tasmāt_ citreśvaram_citreśvara_SNNe nāma_nāma_ pīṭham_pīṭha_SNNe ekam_"
+  },
+  {
+    "index": 38622,
+    "sanskrit": "lokottaragrahaṇaṃ laukikavyavacchedārtham /",
+    "english": "The path is called transcendent to distinguish it from the worldly;",
+    "morphology": "lokottara_lokottara_Cp grahaṇam_grahaṇa_SNNe laukika_laukika_Cp vyavaccheda_vyavaccheda_Cp artham_artha_SAM  /"
+  },
+  {
+    "index": 38623,
+    "sanskrit": "nārada uvāca | adbhuto'yaṃ tvayā prokto mahimā kārtikasya tu | svasya kartumasāmarthyaṃ kathametatkṛtaṃ bhavet || 1 ||",
+    "english": "Nārada said: 1. Wonderful indeed is the efficacy of the Kārttika Vrata described by you. If one has no capacity to perform it, what shall one do about it?",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / adbhutaḥ_adbhuta_SNM ayam_idam_SNM tvayā_tvad_SI proktaḥ_pravac_SNPaM mahimā_mahiman_SNM kārtikasya_kārttika_SGM tu_tu_  / svasya_sva_SGM kartum_kṛ_In asāmarthyam_asāmarthya_SNNe katham_katham_ etat_e"
+  }
+]

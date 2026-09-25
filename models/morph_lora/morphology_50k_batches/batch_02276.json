@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18200,
+    "sanskrit": "dravyatastu caturvidhaḥ /",
+    "english": "In substance however, the Pṛātimokṣa is of four types.",
+    "morphology": "__dravya_U"
+  },
+  {
+    "index": 18201,
+    "sanskrit": "abhinanditavākyaś ca tābhyāṃ hṛṣṭas tadaiva saḥ / upagamya tam evārthaṃ svapitṛbhyāṃ nyavedayat // tayor īpsitasaṃpattituṣṭayoḥ satvaraṃ ca saḥ / yuvarājo vivāhāya saṃbhāram akarot svasuḥ //",
+    "english": "And when they received his proposal gladly, he was pleased, and went and told that same matter to his own parents. And they were delighted at the accomplishment of their desire, and so the prince quickly prepared for the marriage of his sister.",
+    "morphology": "abhinandita_abhinand_PaCp vākyaḥ_vākya_SNM ca_ca_ tābhyām_tad_DuIM hṛṣṭaḥ_hṛṣ_SNPaM tadā_tadā_ eva_eva_ saḥ_tad_SNM  / upagamya_upagam_Co tam_tad_SAM eva_eva_ artham_artha_SAM sva_sva_Cp pitṛbhyām_pitṛ_DuDM nyavedayat_niveday_S3I"
+  },
+  {
+    "index": 18202,
+    "sanskrit": "vedavidbhir dvijair etat kathyate vaiṣṇavaṃ yaśaḥ //",
+    "english": "The Brāhmanas, well-read in the Vedas, describe it as the glorious conduct of Vishnu.",
+    "morphology": "veda_veda_Cp vidbhiḥ_vid_PIM dvijaiḥ_dvija_PIM etat_etad_SNNe kathyate_kathay_SPr3InPv vaiṣṇavam_vaiṣṇava_SNNe yaśaḥ_yaśas_SNNe  /"
+  },
+  {
+    "index": 18203,
+    "sanskrit": "vāhanāni aprahṛṣṭāni rudanti iva viśām pate",
+    "english": "Our animals are all cheerless and seem, O king, to be crying.",
+    "morphology": "vāhanāni_vāhana_PNNe"
+  },
+  {
+    "index": 18204,
+    "sanskrit": "pāda prakṣālanam kuryāt kumāryāḥ saṃnidhau mama viduraḥ uvāca tasmāt rāja indra bhūmi arthe na anṛtam vaktum arhasi",
+    "english": "He shall, however, have to wash my feet in the presence of the maiden Kesini.' \"Vidura continued, 'For these reasons, O king of kings, it behoveth thee not to say an untruth for the sake of land.",
+    "morphology": "pāda_pāda_MCp prakṣālanam_prakṣālana_SANe kuryāt_kṛ_SPr3O kumāryāḥ_kumārī_SGF saṃnidhau_saṃnidhi_SLM mama_mad_SG viduraḥ_vidura_SNM uvāca_vac_SPs3In tasmāt_tasmāt_U rāja_rājan_MCp indra_indra_SVM bhūmi_bhūmi_FCp arthe_artha_SL"
+  },
+  {
+    "index": 18205,
+    "sanskrit": "devadvijātibhaktiśca namaskāreṇa siddhyati | śūdro'pi prātarutthāya kṛtvā pādābhivaṃdanam || 29 || viṣṇubhaktimayāñślokānpaṭhanviṣṇutvamāpnuyāt | vārṣikavratakṛnnityaṃ tithivārādhidaivataḥ || 30 || annadaḥ sarvajīvānāṃ gṛhasthaḥ śūdra īritaḥ | amaṃtrāṇyapi karmāṇi kurvanneva hi mucyate || 31 ||",
+    "english": "Even a Śūdra should get up early in the morning and pay respects to the feet (of elders). Reciting verses full of devotion to Viṣṇu, he shall attain the status of Viṣṇu. It has been mentioned that a Śūdra householder also regularly performs the annual Vratas on the proper lunar days, days of the week and (with the proper) presiding deities. He should offer cooked food to all living beings. Such a Śūdra, performing the holy rites without the utterance of the Mantras, becomes liberated.",
+    "morphology": "deva_deva_Cp dvijāti_dvijāti_Cp bhaktiḥ_bhakti_SNF ca_ca_ namaskāreṇa_namaskāra_SIM siddhi_siddhi_Cp ati_ati_  / śūdraḥ_śūdra_SNM api_api_ prātar_prātar_ utthāya_utthā_Co kṛtvā_kṛ_Co pādābhivandanam_pādābhivandana_SANe  / viṣ"
+  },
+  {
+    "index": 18206,
+    "sanskrit": "tat sarvam ātma prabhavam vicintya",
+    "english": "His inmost soul afflicted with sorrow and trembling all over with sighs, he quieted himself with a great effort, remembering that everything had arisen from his own fault.",
+    "morphology": "taḥ_tad_SANe"
+  },
+  {
+    "index": 18207,
+    "sanskrit": "syād etan na pūrvābhyāsādiha janmanyādyarāgādayaḥ / kiṃ tarhianyeṣāṃ maithunādisamācāradarśanāt paropadeśādvetyāha anyavṛttyupalambhenetyādi /",
+    "english": "The appearance of the feelings cannot be due either to the perception of the doings of others, or to hearing of things from other persons; because such is not found to be the case always. The following might be urged: “The feelings of Love, etc. that appear during the present life cannot be the effect of repeated experience in the past;",
+    "morphology": "syāt_as_SPr3O etat_etad_SNNe na_na_ pūrva_pūrva_Cp abhyāsāt_abhyāsa_SBM iha_iha_ janmani_janman_SLNe ādya_ādya_Cp rāga_rāga_Cp ādayaḥ_ādi_PNM  / kim_ka_SNNe tarhi_tarhi_ anyeṣām_anya_PGM maithuna_maithuna_Cp ādi_ādi_Cp samācāra_samāc"
+  }
+]

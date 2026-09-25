@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28920,
+    "sanskrit": "tatra dvitīyaḥ kriyā kālaḥ ||",
+    "english": "Any of these symptoms should be regarded as the second occasion which calls for medical aid.",
+    "morphology": "tat_tad_SNM"
+  },
+  {
+    "index": 28921,
+    "sanskrit": "kṣurapreṇa su tīkṣṇena anuvinda śiraḥ aharat tat śiraḥ nyapatat bhūmau kuṇḍala utpīḍitam mahat śambarasya śiraḥ yadvat nihatasya mahā raṇe",
+    "english": "Decked with earrings, that large head, O king, fell like the head of Samvara slain in the great battle (of old).",
+    "morphology": "kṣurapreṇa_kṣurapra_SIM su_su_U tīkṣṇena_tīkṣṇa_SIM anuvinda_anuvinda_MCp śiraḥ_śiras_SANe aharat_hṛ_SPs3In tat_tad_SNNe śiraḥ_śiras_SNNe nyapatat_nipat_SPs3In bhūmau_bhūmi_SLF kuṇḍala_kuṇḍala_NeCp utpīḍitam_utpīḍa"
+  },
+  {
+    "index": 28922,
+    "sanskrit": "tadvisṛṣṭaṃ jaghānāśu pārśva skaṃdasya dakṣiṇam | bibheda ca kuruśreṣṭha tadā tasya mahātmanaḥ || 169 || vajraprahārātskaṃdasya saṃjātaḥ puruṣo'paraḥ | yuvā kāṃcanasannāhaḥ śaktidhṛgdivya kuṃḍalaḥ || 170 || śākha ityabhivikhyātaḥ sopi vyanadadadbhutam | tataśceṃdraḥ punaḥ kruddho hṛdi skaṃdaṃ vyadārayat || 171 ||",
+    "english": "169-173. (The thunderbolt) discharged by him, O excellent one among the descendants of Kuru, hit the right side of Skanda. On account of the blow from the thunderbolt the right side of the noble-souled Skanda split and another person was born. He was youthful. He had golden armour and other equipments. He held a Śakti. He had divine ear-rings. He became well-known as Śakha. He too roared in a mysteriously wonderful manner. Then once again the infuriated Indra pierced (i.e. wounded) the chest of Skanda. There also a person like him was born. He became well-known as Naigameya. The four persons beginning with Skanda roared and rushed at him. Thereupon Indra abandoned the thunderbolt. With palms joined in reverence, he sought refuge in him. Skanda, the most excellent one, granted freedom from fear to him as well as to his army.",
+    "morphology": "tat_tad_SNNe visṛṣṭam_visṛj_SNPaNe jaghāna_han_SPs3In āśu_āśu_ skaṃdasya_skanda_SGM dakṣiṇam_dakṣiṇa_SAM  / bibheda_bhid_SPs3In ca_ca_ kuru_kuru_Cp śreṣṭha_śreṣṭha_SVM tadā_tadā_ tasya_tad_SGM mahātmanaḥ_mahātman_SGM "
+  },
+  {
+    "index": 28923,
+    "sanskrit": "caturvidhāḥ prajāḥ rāmaḥ svargam nītvā divam gataḥ ātmānam saṃpratiṣṭhāpya rāja vaṃśam iha aṣṭadhā",
+    "english": "Taking at last his four kinds of subjects[98] with him Rama went to heaven, having established his own line consisting of eight Chapter XVIII houses on the earth.",
+    "morphology": "caturvidhāḥ_caturvidha_PAF prajāḥ_prajā_PAF rāmaḥ_rāma_SNM svargam_svarga_SAM nītvā_nī_Co divam_div_SAM gataḥ_gam_SNPaPsM ātmānam_ātman_SAM saṃpratiṣṭhāpya_saṃpratiṣṭhāpay_Co rāja_rājan_MCp vaṃśaḥ_vaṃśa_SNM iha_ih"
+  },
+  {
+    "index": 28924,
+    "sanskrit": "tadviṣṇoḥ paramam padaṃ sadā paśyanti sūrayaḥ divīva cakṣurātatamiti vajraṃ vā eṣa prāhārṣīdyo yūpamudaśiśriyattā viṣṇorvijitim paśyatetyevaitadāha yadāha tadviṣṇoḥ paramam padaṃ sadā paśyanti sūrayaḥ divīva cakṣurātatamiti //",
+    "english": "He then looks up at the top-ring with , 'The wise ever behold that highest step of Vishnu, fixed like an eye in the heaven.' For he who has set up the sacrificial stake has hurled the thunderbolt: 'See ye that conquest of Vishnu!' he means to say when he says, 'The wise ever behold that highest step of Vishnu, fixed like an eye in the heaven.'",
+    "morphology": "tat_tad_SANe viṣṇoḥ_viṣṇu_SGM paramam_parama_SANe padam_pada_SANe sadā_sadā_ paśyanti_paś_PPr3In sūrayaḥ_sūri_PNM divi_div_SLM iva_iva_ cakṣuḥ_cakṣus_SNNe ātatam_ātan_SNPaNe iti_iti_ vajram_vajra_SAM vai_vai_ eṣa_etad_SNM prāh"
+  },
+  {
+    "index": 28925,
+    "sanskrit": "yat puruṣaṃ vy adadhuḥ katidhā vy akalpayan / mukhaṃ kim asya kau bāhū kā ūrū pādā ucyete //",
+    "english": "When they divided Purusha how many portions did they make?What was his mouth? what were his arms? what are the names of thighs and feet? 11",
+    "morphology": "yat_yat_ puruṣam_puruṣa_SAM vi_vi_ adadhuḥ_dhā_P3ImIn katidhā_katidhā_ vi_vi_ akalpayan_kalpay_P3ImIn  / mukham_mukha_SNNe kim_ka_SNNe asya_idam_SGM kau_ka_DuNM bāhū_bāhu_DuNM kaḥ_ka_SNM ūrū_ūru_DuNM pādaḥ_pāda_SNM"
+  },
+  {
+    "index": 28926,
+    "sanskrit": "jagaccidikṣumādhuryaṃ citkṣīrasnigdhatā jagat / jagacciddhimaśītatvaṃ cijjvālājvalanaṃ jagat //",
+    "english": "The sweetness of the world, is derived from the sugar of the intellect, and its juiciness from the milk in the divine mind; its coldness is from the ice, and its heat from the fire contained in the same. (i. e. The divine Intellect is the material cause.",
+    "morphology": "jagat_jagant_SNNe cit_cit_Cp ikṣu_ikṣu_Cp mādhuryam_mādhurya_SNNe cit_cit_Cp kṣīra_kṣīra_Cp snigdha_snigdha_Cp tā_tā_SNF jagat_jagant_SNNe  / jagat_jagant_SNNe cit_cit_Cp hima_hima_Cp śīta_śīta_Cp tvam_tva_SNNe"
+  },
+  {
+    "index": 28927,
+    "sanskrit": "śrāntaṃ bubhukṣitaṃ vipraṃ yo vighnayati durmatiḥ | kṛmibhirbhakṣyate tatra yāvatkalpaśatatrayam || 67 ||",
+    "english": "67-80. An evil-minded one who puts in obstacles in the case of a Brāhmaṇa tired and hungry, is eaten by worms for a period of three hundred Kalpas.",
+    "morphology": "śrāntam_śram_SAPaM bubhukṣitam_bubhukṣ_SAPaM vipram_vipra_SAM yaḥ_yad_SNM vighnayati_vighnay_SPr3In durmatiḥ_durmati_SNM  / kṛmibhiḥ_kṛmi_PIM bhakṣyate_bhakṣay_SPr3InPv tatra_tatra_ yāvat_yāvat_ kalpa_kalpa_Cp śata_śata_Cp trayam_t"
+  }
+]

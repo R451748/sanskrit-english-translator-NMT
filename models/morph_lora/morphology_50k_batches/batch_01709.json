@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13664,
+    "sanskrit": "vṛddhiś cānekarūpā / kārṣāpaṇeṣu prayukteṣu kārṣāpaṇa eva vardhate /",
+    "english": "\"Interest\" is paid in several forms when coins are advanced, interest is paid in coins;",
+    "morphology": "vṛddhiḥ_vṛddhi_SNF ca_ca_ aneka_aneka_Cp rūpā_rūpa_SNF  / kārṣāpaṇeṣu_kārṣāpaṇa_PLNe prayukteṣu_prayuj_PLPaNe kārṣāpaṇaḥ_kārṣāpaṇa_SNM eva_eva_ vardhate_vṛdh_SPr3In  /"
+  },
+  {
+    "index": 13665,
+    "sanskrit": "kathaṃ saiva dyauḥ tad evāntarikṣaṃ bhavitum arhati //",
+    "english": "How can Aditi who is the sky be the mid-region? There are some mantras the meaning of which is not at all intelligible.",
+    "morphology": "katham_katham_ sā_tad_SNF eva_eva_ dyauḥ_div_SNF tat_tad_SNNe eva_eva_ antarikṣam_antarikṣa_SNNe bhavitum_bhū_In arhati_arh_SPr3In  /"
+  },
+  {
+    "index": 13666,
+    "sanskrit": "kārttike māsyamāvāsyāṃ yastu dīpapradīpanam | śālāyāṃ brahmaṇaḥ kuryātsa gacchetparamaṃ padam || 69 ||",
+    "english": "69. He who lights lamps in the sacred chamber of Brahmā on the New-Moon day in the month of Kārttika, shall go to the highest region.",
+    "morphology": "kārttike_kārttika_SLM māsi_mās_SLM amāvāsyām_amāvāsī_SLF yaḥ_yad_SNM tu_tu_ dīpa_dīpa_Cp pradīpanam_pradīpana_SANe  / śālāyām_śālā_SLF brahmaṇaḥ_brahman_SGM kuryāt_kṛ_SPr3O sa_tad_SNM gacchet_gam_SPr3O paramam_parama_SANe pada"
+  },
+  {
+    "index": 13667,
+    "sanskrit": "sahitaśabdalopād viśeṣaṇasamāso vā //",
+    "english": "or as a Karmadhāraya, involving the deletion of the term ‘sahita’ (the meaning being ‘Recognition along with Inference’).",
+    "morphology": "sahita_sahita_Cp śabda_śabda_Cp lopāt_lopa_SBM viśeṣaṇa_viśeṣaṇa_Cp samāsaḥ_samāsa_SNM vā_vā_  /"
+  },
+  {
+    "index": 13668,
+    "sanskrit": "viṣṇoḥ saṃtoṣaṇārthāya yo mayā niyamaḥ kṛtaḥ | adyāhaṃ bhojayiṣyāmi tvatprasādāddvijottamam || 33 ||",
+    "english": "I shall break my fast; O Garuḍa-emblemed Lord, be pleased. In order to propitiate Viṣṇu, I have resorted to restraints and observances. With your favour I shall feed an excellent Brāhmaṇa today.”",
+    "morphology": "viṣṇoḥ_viṣṇu_SGM saṃtoṣaṇa_saṃtoṣaṇa_Cp arthāya_artha_SDM yaḥ_yad_SNM mayā_mad_SI niyamaḥ_niyama_SNM kṛtaḥ_kṛ_SNPaM  / adya_adya_ aham_mad_SN bhojayiṣyāmi_bhojay_SFu1In tvad_tvad_Cp prasādāt_prasāda_SBM dvijottamam_d"
+  },
+  {
+    "index": 13669,
+    "sanskrit": "viṣayāsaktacitto'pi tyaktadharmaratirnaraḥ | iha kṣetre mṛtaḥ sopi saṃsārī na punarbhavet || 95 ||",
+    "english": "95. Even a person whose mind is attracted towards sensual objects, even a man who has forgotten everything about piety and holiness, does not resume worldly existence after dying in this holy spot.",
+    "morphology": "viṣaya_viṣaya_Cp āsakta_āsañj_PaCp cittaḥ_citta_SNM api_api_ tyakta_tyaj_PaCp dharma_dharma_Cp ratiḥ_rati_SNM naraḥ_nara_SNM  / iha_iha_ kṣetre_kṣetra_SLNe mṛtaḥ_mṛ_SNPaM saḥ_tad_SNM api_api_ saṃsārī_saṃsārin_SNM na_na_ puna"
+  },
+  {
+    "index": 13670,
+    "sanskrit": "śakuntiś ca dṛḍharathāt śakunteś ca karambhakaḥ //",
+    "english": "Dṛḍharatha was born then. Śakunti was born from Dṛḍharatha. Karambhaka was from Śakunti.",
+    "morphology": "śakuntiḥ_śakunti_SNM ca_ca_ dṛḍharathāt_dṛḍharatha_SBM śakunteḥ_śakunti_SBM ca_ca_ karambhakaḥ_karambhaka_SNM  /"
+  },
+  {
+    "index": 13671,
+    "sanskrit": "satkriyo hyaśucirnityaṃ sa pumān yaḥ striyā jitaḥ | nindanti pitaro devā māna vāssakalāśca tam ||",
+    "english": "21. Even if he performs holy rites, a person succumbing to the viles of women is always impure. The manes, the gods and all men despise him.",
+    "morphology": "satkriyaḥ_satkriyā_SNM hi_hi_ aśuciḥ_aśuci_SNM nityam_nityam_ sa_tad_SNM pumān_puṃs_SNM yaḥ_yad_SNM striyā_strī_SIF jitaḥ_ji_SNPaM  / nindanti_nind_PPr3In pitaraḥ_pitṛ_PNM devāḥ_deva_PNM tam_tad_SAM "
+  }
+]

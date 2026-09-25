@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2736,
+    "sanskrit": "[prapāte mām pā]tayāgnau vā praveśayeti.”",
+    "english": "[Throw me down a precipice,] or, make me enter a fire.”",
+    "morphology": "__prapāta_U"
+  },
+  {
+    "index": 2737,
+    "sanskrit": "bhadraṃbhadraṃ na ā bhareṣamūrjaṃ śatakrato / yadindra mṛḍayāsi naḥ //",
+    "english": "Bring to us all things excellent, O Satakratu, food and strength,",
+    "morphology": "bhadram_bhadra_SANe bhadram_bhadra_SANe naḥ_mad_PD ā_ā_ bhara_bhṛ_SPr2Im iṣam_iṣ_SAF ūrjam_ūrj_SAF śatakrato_śatakratu_SVM  / yat_yat_"
+  },
+  {
+    "index": 2738,
+    "sanskrit": "kaḥ anyaḥ kartā vidyate mānuṣeṣu diṣṭyā tasmāt pāvakāt saṃpramuktā yūyam sarve pāṇḍavāḥ śatru sāhāḥ",
+    "english": "Who else among men than the Pandavas could exhibit such might? Ye resisters of all foes, ye sons of Pandu, by sheer good fortune have ye escaped from that fierce fire.",
+    "morphology": "kaḥ_ka_SNM anyaḥ_anya_SNM kartā_kartṛ_SNM vidyate_vid_SPr3InPv mānuṣeṣu_mānuṣa_PLM diṣṭyā_diṣṭi_SIF tasmāt_tad_SBM pāvakāt_pāvaka_SBM saṃpramuktā_saṃpramuc_SNPaPsF yūyam_tvad_PN sarve_sarva_PNM pāṇḍavāḥ_pāṇḍav"
+  },
+  {
+    "index": 2739,
+    "sanskrit": "| yathā ca sarvataḥ svacche sphaṭike sarvato bhavet | pratibimbaṃ tathā bodhe sarvataḥ svacchatājuṣi |",
+    "english": "- As reflection appears all-round clean on such a piece of crystal, even so should appear the world in such an awareness.",
+    "morphology": "yathā_yathā_ ca_ca_ sarvatas_sarvatas_ svacche_svaccha_SLNe sphaṭike_sphaṭika_SLNe sarvatas_sarvatas_ bhavet_bhū_SPr3O  / pratibimbam_pratibimba_SNNe tathā_tathā_ bodhe_bodha_SLM sarvatas_sarvatas_ svaccha_svaccha_Cp tā_tā_Cp juṣi_juṣ_SLM"
+  },
+  {
+    "index": 2740,
+    "sanskrit": "etad uktaṃ pūrvair vyākhyātam ity anugatam /",
+    "english": "What we have said above, is in accordance with the explanation provided by older writers.",
+    "morphology": "etat_etad_SNNe uktam_vac_SNPaNe pūrvaiḥ_pūrva_PIM vyākhyātam_vyākhyā_SNPaNe iti_iti_"
+  },
+  {
+    "index": 2741,
+    "sanskrit": "pareṇoktās tu nocyante vailakṣaṇyāt svarādibhiḥ /",
+    "english": "It has been argued by the Mīmāṃsaka, under Text 2291, that “The idea in the mind of every speaker is that ‘I am uttering words that have been used by other persons’;",
+    "morphology": "pareṇa_para_SIM uktāḥ_vac_PNPaM tu_tu_ na_na_ ucyante_vac_PPr3InPv vailakṣaṇyāt_vailakṣaṇya_SBNe svara_svara_Cp ādibhiḥ_ādi_PIM "
+  },
+  {
+    "index": 2742,
+    "sanskrit": "āvāṃ devakumārau dvau bhadrākhyo 'yamahaṃ śubhaḥ / tau bhramantāvapaśyāva kaṇvaṃ dhyānasthitaṃ munim //",
+    "english": "“We two, King, are two sons of gods[8]; this one’s name is Bhadra, and I am Śubha. As we were roaming about we observed the hermit Kaṇva engaged in meditation.",
+    "morphology": "āvām_mad_DuN deva_deva_Cp kumārau_kumāra_DuNM dvau_dvi_DuNM bhadra_bhadra_Cp ākhyaḥ_ākhyā_SNM ayam_idam_SNM aham_mad_SN śubhaḥ_śubha_SNM  / tau_tad_DuNM bhramantau_bhram_DuNPaPrM apaśyāva_paś_Du1ImIn kaṇvam_kaṇva_SAM dhyāna_dhyāna_Cp "
+  },
+  {
+    "index": 2743,
+    "sanskrit": "yasya tu punarbhavato nityaikajñānasvabhāva ātmeti pakṣas tasya katham ekajñānātmake puṃsi bandhamokṣau bhavataḥ / tathā hi yadi viparyastasvabhāvam ekaṃ jñānaṃ sadā tadāparasyāvasthāntarasyābhāvān na mokṣavyavasthā syāt /",
+    "english": "For you, on the other hand, the ‘Soul’ is of the nature of one Eternal Cognition; how then can there be any ‘Bondage’ and ‘Liberation’ for such a Soul? Because if the one Cognition is eternally wrong, then, as there could be no other state for it, there could be no possibility of ‘Liberation’;",
+    "morphology": "yasya_yad_SGM tu_tu_ punar_punar_ bhavataḥ_bhū_SGPaPrM nitya_nitya_Cp eka_eka_Cp jñāna_jñāna_Cp svabhāvaḥ_svabhāva_SNM ātmā_ātman_SNM iti_iti_ pakṣaḥ_pakṣa_SNM tasya_tad_SGM katham_katham_ eka_eka_Cp jñāna_jñāna_Cp ātmake_ātmaka_S"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26368,
+    "sanskrit": "vacaḥ ced etat na kariṣyase me",
+    "english": "Do thou, O lion among kings, listen to the words which the high-souled lord of all the worlds meant for thee,--That one of incomprehensible achievements (Indra) only said this much, 'Do thou accept Vrihaspati as thy officiating priest for the sacrifice, or if thou do not comply with my request, I shall strike thee with my terrific thunderbolt.'\" Marutta said, \"Thou, O Purandara, the Viswadevas, the Vasus and the Aswins ye all know, that in this world there is no escape from the consequences of playing false to a friend;",
+    "morphology": "vacaḥ_vacas_SANe ced_ced_U"
+  },
+  {
+    "index": 26369,
+    "sanskrit": "bahubhyaśca śrutaṃ pūrvaṃ na tṛpto'smi jagatprabho | atastvāṃ śaraṇaṃ prāptaḥ kṛpāṃ kuru mamopari ||",
+    "english": "34. O lord of universe, this I have heard from many, before, but I am not satisfied. Hence I have sought refuge in you. Please have mercy on me.",
+    "morphology": "bahubhyaḥ_bahu_PBM ca_ca_ śrutam_śru_SNPaNe pūrvam_pūrvam_ na_na_ tṛptaḥ_tṛp_SNPaM asmi_as_SPr1In jagatprabho_jagatprabhu_SVM  / atas_atas_ tvām_tvad_SA śaraṇam_śaraṇa_SANe prāptaḥ_prāp_SNPaM kṛpām_kṛpā_SAF kuru_kṛ_SPr2Im mam"
+  },
+  {
+    "index": 26370,
+    "sanskrit": "tataḥ kālena bahunā so'ndhakūpātsamutthitaḥ / punaḥ prahāraiḥ praharanvidravatyātmanātmanaḥ //",
+    "english": "After the lapse of a long time, he scrambled out of the pit with difficulty; and again continued to run away, and strike himself with his own hands as before.",
+    "morphology": "tatas_tatas_ kālena_kāla_SIM bahunā_bahu_SIM saḥ_tad_SNM andhakūpāt_andhakūpa_SBM samutthitaḥ_samutthā_SNPaM  / punar_punar_ prahāraiḥ_prahāra_PIM praharan_prahṛ_SNPaPrM vidravati_vidru_SPr3In ātmanā_ātman_SIM ātmanaḥ_ātman_SGM  /"
+  },
+  {
+    "index": 26371,
+    "sanskrit": "sarvatas ca praśāntāḥ ye sarva bhūta hite ratāḥ",
+    "english": "They are tranquil in respect of all their desires, and are engaged in the good of all creatures.",
+    "morphology": "sarvatas_sarvatas_U ca_ca_U praśāntāḥ_praśam_PNPaPsM ye_yad_PNM sarva_sarva_Cp bhūta_bhūta_MCp hite_hita_SLNe ratāḥ_ram_PNPaPsM"
+  },
+  {
+    "index": 26372,
+    "sanskrit": "vaivaśyāccayavatī mauḍhyānna vindatyātmasaṃvidam / ghanajāḍyaparābhūtaḥ svāṅgāvadalanaṃ yathā //",
+    "english": "The sentient soul passes under many transmigrations in its insensibility, and in utter want of its self consciousness; like one subdued to dull obtuseness by some morphia drug, which makes him insensible of the pain inflicted upon his own person,",
+    "morphology": "vaivaśyāt_vaivaśya_SBNe cayavatī_cayavat_SNF mauḍhyāt_mauḍhya_SBNe na_na_ vindati_vid_SPr3In ātma_ātman_Cp saṃvidam_saṃvid_SAF  / ghana_ghana_Cp jāḍya_jāḍya_Cp parābhūtaḥ_parābhū_SNPaM sva_sva_Cp aṅga_aṅga_Cp avadalanam_avada"
+  },
+  {
+    "index": 26373,
+    "sanskrit": "bādhakapratyayena tatra rajatābhāvasya khyāpanāt /",
+    "english": "The implication of the contradictory judgment is that there is no silver.",
+    "morphology": "bādhaka_bādhaka_Cp pratyayena_pratyaya_SIM tatra_tatra_ rajata_rajata_Cp abhāvasya_abhāva_SGM khyāpanāt_khyāpana_SBNe  /"
+  },
+  {
+    "index": 26374,
+    "sanskrit": "mārgaśīrṣaśuklaikādaśyām upoṣito dvādaśyāṃ bhagavantaṃ śrīvāsudevam arcayet //",
+    "english": "After having fasted during the eleventh day of the bright half of the month Mârgasîrsha, let aman worship, on the twelfth day, the venerable Vâsudeva (Vishnu).",
+    "morphology": "mārgaśīrṣa_mārgaśīrṣa_Cp śukla_śukla_Cp ekādaśyām_ekādaśī_SLF upoṣitaḥ_upavas_SNPaM dvādaśyām_dvādaśī_SLF bhagavantam_bhagavant_SAM śrī_śrī_Cp vāsudevam_vāsudeva_SAM arcayet_arcay_SPr3O  /"
+  },
+  {
+    "index": 26375,
+    "sanskrit": "darśanaṃ narmadāyāstu gaṃgāsnānaṃ tathaiva ca | tulasīvanasaṃsargaḥ samameva trayaṃ smṛtam || 11 ||",
+    "english": "11. These three are said to be equal (in efficacy): seeing Narmada, taking a holy bath in Gaṅgā and association with the grove of Tulasī plants.",
+    "morphology": "darśanam_darśana_SNNe narmadāyāḥ_narmadā_SGF tu_tu_ gaṃgā_gaṅgā_Cp snānam_snāna_SNNe tathā_tathā_ eva_eva_ ca_ca_  / tulasī_tulasī_Cp vana_vana_Cp saṃsargaḥ_saṃsarga_SNM samam_sama_SNNe eva_eva_ trayam_traya_SNNe smṛtam_smṛ_SNP"
+  }
+]

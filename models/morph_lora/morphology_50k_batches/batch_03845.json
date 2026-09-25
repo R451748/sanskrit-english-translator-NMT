@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30752,
+    "sanskrit": "pṛṣṭa āditya iti hovāca /",
+    "english": "Being questioned, he saidThe Sun;",
+    "morphology": "pṛṣṭaḥ_SNPaM"
+  },
+  {
+    "index": 30753,
+    "sanskrit": "skhalitaṃ tasya vīryaṃ kau yatra yatra harasya hi / tatra tatrābhavat kṣetraṃ liṅgānāṃ kanakasya ca //",
+    "english": "He too followed her. Wherever the seminal fluid of Hara dropped, there came into being sacred places of liṅgas and gold.",
+    "morphology": "skhalitam_skhal_SNPaNe tasya_tad_SGM vīryam_vīrya_SNNe kau_ku_SLM yatra_yatra_ yatra_yatra_ harasya_hara_SGM hi_hi_  / tatra_tatra_ tatra_tatra_ abhavat_bhū_S3ImIn kṣetram_kṣetra_SNNe liṅgānām_liṅga_PGNe kanakasya_kanaka_SGNe ca_ca_  /"
+  },
+  {
+    "index": 30754,
+    "sanskrit": "atra vinayāvadānaṃ vaktavyam |",
+    "english": "Here the tradition in the discipline should (also) be spoken.",
+    "morphology": "atra_"
+  },
+  {
+    "index": 30755,
+    "sanskrit": "dhaumyadvaipāyana mukhaiḥ ṛtvigbhiḥ puruṣa ṛṣabhaḥ bhīma arjuna yamaiḥ ca api sahitaḥ kṛṣṇam abravīt tvad kṛte pṛthivī sarvā mad vaśe kṛṣṇa vartate",
+    "english": "And after Krishna had been seated at ease, that bull among men, the son of Pandu, with Dhaumya and Dwaipayana and the other sacrificial priests and with Bhima and Arjuna and the twins, addressed Krishna thus,-'O Krishna it is for thee that the whole earth is under my sway.",
+    "morphology": "dhaumyadvaipāyana_dhaumyadvaipāyana_MCp mukhaiḥ_mukha_PIM ṛtvigbhiḥ_ṛtvij_PIM puruṣa_puruṣa_MCp ṛṣabhaḥ_ṛṣabha_SNM bhīma_bhīma_MCp arjuna_arjuna_MCp yamaiḥ_yama_PIM ca_ca_U api_api_U sahitaḥ_sahita_SNM kṛṣṇam_kṛṣṇa"
+  },
+  {
+    "index": 30756,
+    "sanskrit": "tasminsaṃgamasalile naraḥ snātvā samāhitaḥ | saṃtarpya pitṛdevāṃśca dattvā dānaṃ svaśaktitaḥ || 81 || hutvā vaiṣṇavamaṃtreṇa śuciryatphalamāpnuyāt | tadihaikamanā vipra śṛṇu yatkathayāmi te || 82 ||",
+    "english": "81-85. O Brāhmaṇa, listen with single-minded attention. I shall tell you the benefit that one attains by taking the holy bath with mental purity in the waters of that confluence, by offering libations to Piṭrs and Devas, by making charitable gifts in accordance with one’s capacity and by performing Homas with the Vaiṣṇava Mantras.",
+    "morphology": "tasmin_tad_SLNe saṃgama_saṃgama_Cp salile_salila_SLNe naraḥ_nara_SNM snātvā_snā_Co samāhitaḥ_samāhita_SNM  / saṃtarpya_saṃtarpay_Co pitṛ_pitṛ_Cp devān_deva_PAM ca_ca_ dattvā_dā_Co dānam_dāna_SANe sva_sva_Cp śaktitaḥ_śakti_SBF "
+  },
+  {
+    "index": 30757,
+    "sanskrit": "manuṣvat tvā ni dhīmahi manuṣvat sam idhīmahi agne manuṣvat aṅgi raḥ devān deva yate yaja",
+    "english": "WE stablish thee as Manus used, as Manus used we kindle thee. Like Manus, for the pious man , Angiras, Agni, worship Gods.",
+    "morphology": "manuṣvat_manuṣvat_U tvā_tvad_SA ni_ni_U dhīmahi_dhā_PPs1 manuṣvat_manuṣvat_U sam_sam_U idhīmahi_indh_PPr1O agne_agni_SVM manuṣvat_manuṣvat_U aṅgi_aṅgiras_SVM devān_deva_PAM"
+  },
+  {
+    "index": 30758,
+    "sanskrit": "yoniśo manasikurvato evaṃ triparivartaṃ dvādaśākāraṃ,",
+    "english": "reflected upon wisely and turned like this, in three ways, twelvefold,",
+    "morphology": "yoniśas_yoniśas_ manasikurvataḥ_manas_SGNe evam_evam_"
+  },
+  {
+    "index": 30759,
+    "sanskrit": "śrama abhibhūtāḥ saṃrabdhāḥ śrānta vāhāḥ pipāsitāḥ vikṣatāḥ ca śitaiḥ śastraiḥ abhyavartanta tāvakāḥ",
+    "english": "At that time, thy soldiers, overcome with toil, spent with rage, their animals fatigued, themselves parched with thirst mangled with keen weapons, began to turn away from the battle.",
+    "morphology": "śrama_śrama_MCp abhibhūtāḥ_abhibhū_PNPaPsM saṃrabdhāḥ_saṃrabh_PNPaPsM śrānta_śram_PaPsCp vāhāḥ_vāha_PNM pipāsitāḥ_pipāsita_PNM vikṣatāḥ_vikṣan_PNPaPsM ca_ca_U śitaiḥ_śā_PIPaPsNe śastraiḥ_śastra_PINe abhāhāḥ_ab"
+  }
+]

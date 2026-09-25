@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25208,
+    "sanskrit": "sarve tasya ādṛtāḥ dharmāḥ yasya ete trayaḥ ādṛtāḥ",
+    "english": "Virtue is honoured by him who honours these three.",
+    "morphology": "sarve_sarva_PNM tasya_tad_SGM ādṛtāḥ_ādṛ_PNPaPsM"
+  },
+  {
+    "index": 25209,
+    "sanskrit": "urasā dhārayat niṣkam agni mālām yathā acalaḥ",
+    "english": "He wore a cuirass on his breast like a circle of fire on the breast of a mountain.",
+    "morphology": "urasā_uras_SINe"
+  },
+  {
+    "index": 25210,
+    "sanskrit": "ādityaḥ iva tam deśam kṛtsnam sa vyavabhāsayat",
+    "english": "He seemed to have illuminated the whole region like the Sun himself.",
+    "morphology": "ādityaḥ_āditya_SNM"
+  },
+  {
+    "index": 25211,
+    "sanskrit": "ṛṇāpanuttaye mātuḥ kārito na jalāśayaḥ | nātithistoṣitaḥ kvāpi svargamārgapradarśakaḥ || 17 ||",
+    "english": "17. No pond, well or lake has been dug in order to wipe off the indebtedness to our mother. No guest, who could have shown the pathway to heaven, has been pleased (by me).",
+    "morphology": "ṛṇa_ṛṇa_Cp apanuttaye_apanutti_SDF mātuḥ_mātṛ_SGF kāritaḥ_kāray_SNPaM na_na_ jalāśayaḥ_jalāśaya_SNM  / na_na_ atithiḥ_atithi_SNM toṣitaḥ_toṣay_SNPaM kvāpi_kvāpi_ svarga_svarga_Cp mārga_mārga_Cp pradarśakaḥ_pradarśaka"
+  },
+  {
+    "index": 25212,
+    "sanskrit": "dattātreyasya tatrāsti tīrthaṃ trailokyapāvanam | yogasiddhiṃ labhe tatra snānamātreṇa bhāvataḥ || 18 ||",
+    "english": "18. The Tīrtha of Dattātreya, the most sacred one in all the three worlds, is also there. By devoutly taking the holy bath therein, one shall attain perfection in Yoga (Yogasiddhi).",
+    "morphology": "dattātreyasya_dattātreya_SGM tatra_tatra_ asti_as_SPr3In tīrtham_tīrtha_SNNe trailokya_trailokya_Cp pāvanam_pāvana_SNNe  / yoga_yoga_Cp siddhim_siddhi_SAF labhe_labh_SPr1In tatra_tatra_ snāna_snāna_Cp mātreṇa_mātra_SINe bhāvatas_bhāvatas_"
+  },
+  {
+    "index": 25213,
+    "sanskrit": "sāṃkhya nyāyena saṃyuktam yat etat kīrtitam mayā yoga kṛtyam tu te kṛtsnam vartayiṣyāmi tat śṛṇu",
+    "english": "Listen now to me as I expound to thee all that should be done (for the same end) according to the Yoga doctrine.",
+    "morphology": "sāṃkhya_sāṃkhya_NeCp nyāyena_nyāya_SIM saṃyuktam_saṃyuj_SNPaPsNe yat_yad_SNNe etat_etad_SNNe kīrtitam_kīrtay_SNPaPsNe mayā_mad_SI yoga_yoga_MCp kṛtyam_kṛtya_SNNe tu_tu_U te_tvad_SG kṛtsnam_kṛtsna_SNNe vartayiṣyāmi_vartay_SFu1In"
+  },
+  {
+    "index": 25214,
+    "sanskrit": "sā lokān brahmalokādīn gatvā vainyabhayāt tadā / pradadarśāgrato vainyaṃ pragṛhītaśarāsanam //",
+    "english": "Traversing the region of Brahmā and all other regions in fear of Vena's son she saw him everywhere before her with the bow in his hand.",
+    "morphology": "sā_tad_SNF lokān_loka_PAM brahma_brahman_Cp loka_loka_Cp ādīn_ādi_PAM gatvā_gam_Co vainya_vainya_Cp bhayāt_bhaya_SBNe tadā_tadā_  / pradadarśa_pradṛś_SPs3In agratas_agratas_ vainyam_vainya_SAM pragṛhīta_pragrah_PaCp śarāsanam_śarāsana_S"
+  },
+  {
+    "index": 25215,
+    "sanskrit": "tatra yuṣmadripos tasya kālajihvasya daivataḥ / vidyujjihva iti jyeṣṭho bhrātā yakṣaḥ priyāsakhaḥ // krīḍaṃś cakrāhvarūpeṇa pakṣavikṣepaghaṭṭanāt / kuberasya karāgrasthamarghyapātramapātayat //",
+    "english": "And it happened that the elder brother of your enemy Kālajihva, a Yakṣa named Vidyujjihva, was playing with his beloved in the form of a Brahmany drake, and while flapping his wings, he struck and upset the argha vessel[5] held in the extremity of Kuvera’s hand.",
+    "morphology": "tatra_tatra_ yuṣmad_tvad_Cp ripoḥ_ripu_SGM tasya_tad_SGM kālajihvasya_kālajihva_SGM daivataḥ_daivata_SNM  / vidyujjihvaḥ_vidyujjihva_SNM iti_iti_ jyeṣṭhaḥ_jyeṣṭha_SNM bhrātā_bhrātṛ_SNM yakṣaḥ_yakṣa_SNM priyā_priyā_Cp sakha"
+  }
+]

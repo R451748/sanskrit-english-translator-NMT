@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25360,
+    "sanskrit": "atha enam āgate kāle bhindyāt ghaṭam iva aśmani",
+    "english": "When however, the opportunity has come, one should break him into fragments like an earthen jar on a stone.",
+    "morphology": "atha_atha_U enam_enad_SAM āgate_āgam_SLPaPsM kāle_kāla_SLM bhindyāt_bhid_SPr3O"
+  },
+  {
+    "index": 25361,
+    "sanskrit": "catuḥṣkoṭi dvilakṣaṃ ca sahasraṃ śatameva ca | dhenavastena dattāḥ syurmāhātmyaṃ śṛṇu yāttu yaḥ || 79 ||",
+    "english": "He who listens to this greatness (of this) gets the merit of gifts of forty million two hundred and one thousand and a hundred cows.[Sanskrit text for this chapter is available]",
+    "morphology": "catuḥṣkoṭi_catuḥṣkoṭī_SVF dvi_dvi_Cp lakṣam_lakṣa_SNNe ca_ca_ sahasram_sahasra_SNNe śatam_śata_SNNe eva_eva_ ca_ca_  / dhenavaḥ_dhenu_PNF tena_tad_SIM dattāḥ_dā_PNPaF syuḥ_as_PPr3O māhātmyam_māhātmya_SANe śṛṇu_śru_SPr2I"
+  },
+  {
+    "index": 25362,
+    "sanskrit": "evaṃ deśakālāv api /",
+    "english": "Similarly he acts according to the exigencies of time and place.",
+    "morphology": "evam_evam_ deśa_deśa_Cp kālau_kāla_DuAM api_api_"
+  },
+  {
+    "index": 25363,
+    "sanskrit": "apṛcchaṃ tam ahaṃ tāta tatrāntarhitam eva ca / gataṃ sukṛtināṃ lokaṃ jātakautūhalas tadā //",
+    "english": "Filled with curiosity asked my father who had repaired to the region of the performers of good deeds and who then disappeared from that place.",
+    "morphology": "apṛccham_pracch_S1ImIn tam_tad_SAM aham_mad_SN tāta_tāta_SVM tatra_tatra_ antarhitam_antardhā_SAPaM eva_eva_ ca_ca_  / gatam_gam_SAPaM su_su_ kṛtinām_kṛtin_PGM lokam_loka_SAM jāta_jan_PaCp kautūhalaḥ_kautūhala_SNM tadā_tadā_  /"
+  },
+  {
+    "index": 25364,
+    "sanskrit": "cinmātre prasṛte kāle vyomni nāvi jale sthale / nidrāyāṃ jāgrati svapne bhavejjagadivoditam //",
+    "english": "It is the action of the intellect, that makes the world to appear to us at all times and places; whether in the sky, water or land, as also when we wake, sleep or dream.",
+    "morphology": "cit_cit_Cp mātre_mātra_SLM prasṛte_prasṛ_SLPaM kāle_kāla_SLM vyomni_vyoman_SLM nāvi_nau_SLF jale_jala_SLNe sthale_sthala_SLNe  / nidrāyām_nidrā_SLF jāgrati_jāgṛ_SLPaPrM svapne_svapna_SLM bhavet_bhū_SPr3O jagat_jagant_SNNe iva_iva_ uditam_v"
+  },
+  {
+    "index": 25365,
+    "sanskrit": "etat eva hi tat jñānam yat viśuddha ātma darśanam | aśuddhe tad nimitte ca yat tat ajñānam ucyate ||",
+    "english": "His knowledge consists only in the direct perception of his pure self; when the source of that knowledge is not pure, the knowledge itself is called ‘ignorance’.”",
+    "morphology": "etat_etad_SNNe eva_eva_U hi_hi_U tat_tad_SNNe jñānam_jñāna_SNNe yat_yad_SNNe viśuddha_viśudh_PaPsCp ātma_ātman_MCp darśanam_darśana_SNNe  / aśuddhe_aśuddha_SLNe tad_tad_Cp nimitte_nimitta_SLNe ca_ca_U yat_yad_SNNe tat_tad_SNNe ajñānam_ajñān"
+  },
+  {
+    "index": 25366,
+    "sanskrit": "dūre 'pi anuvātaṃ śabdasya śravaṇaṃ yaddṛṣṭaṃ prativātaṃ ca nikaṭe 'pi yad aśravaṇaṃ tas asmin pakṣe viparītaṃ syāt //",
+    "english": "It is also a truism that a near sound is not heard if the wind does notOn the Nature of Letters 447 blow favourably. But if we subscribe to the hypothesis of the 'Samkhyists then the near one will be heard but the distant -one will not be heard under the above circumstances.",
+    "morphology": "dūre_dūra_SLNe api_api_ anuvātam_anuvāta_SNNe śabdasya_śabda_SGM śravaṇam_śravaṇa_SNNe yat_yad_SNNe dṛṣṭam_dṛś_SNPaNe prativātam_prativāta_SNNe ca_ca_ nikaṭe_nikaṭa_SLNe api_api_ yat_yad_SNNe a_a_ śravaṇam_śravaṇa_SNNe asmi"
+  },
+  {
+    "index": 25367,
+    "sanskrit": "pūjitastena sa muniḥ sadrūpaśca kṛpānidhiḥ | upādideśa taddharmānrājyayogānprajāpate ||",
+    "english": "42. O patriarch, being duly worshipped by him, that sage, of good form, the store-house of mercy instructed him in virtues in connection with the administration of his kingdom.",
+    "morphology": "pūjitaḥ_pūjay_SNPaM tena_tad_SIM sa_tad_SNM muniḥ_muni_SNM sat_sat_Cp rūpaḥ_rūpa_SNM ca_ca_ kṛpā_kṛpā_Cp nidhiḥ_nidhi_SNM  / upādideśa_upādiś_SPs3In tad_tad_Cp dharmān_dharma_PAM rājya_rājya_Cp yogān_yoga_PAM prajāpate_prajāpati"
+  }
+]

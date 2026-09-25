@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11512,
+    "sanskrit": "akāle dattam,",
+    "english": "paid untimely;",
+    "morphology": "akāle_akāla_SLM"
+  },
+  {
+    "index": 11513,
+    "sanskrit": "viśvāmitraḥ tadā uvāca kṣatriyaḥ aham purā bhavam",
+    "english": "Then Viswamitra said,--I was formerly a Kshatriya.",
+    "morphology": "viśvāmitraḥ_viśvāmitra_SNM tadā_tadā_U uvāca_vac_SPs3In kṣatriyaḥ_kṣatriya_SNM aham_mad_SN purā_purā_U bhavā_bhū_SPs1In"
+  },
+  {
+    "index": 11514,
+    "sanskrit": "akāraṇe parityaktā mātāpitror guros tathā / brāhmair yaunaiś ca saṃbandhaiḥ saṃyogaṃ patitair gataḥ //",
+    "english": "The forsaker, without cause, of his mother, father and superior; and he who has formed a connection, through the relationship of either Veda or marriage, with outcasts.",
+    "morphology": "akāraṇe_akāraṇa_SLNe parityaktā_parityaktṛ_SNM mātā_mātā_Cp pitroḥ_pitṛ_DuGM guroḥ_guru_SGM tathā_tathā_  / brāhmaiḥ_brāhma_PIM yaunaiḥ_yauna_PIM ca_ca_ saṃbandhaiḥ_sambandha_PIM saṃyogam_saṃyoga_SAM patitaiḥ_pat_PIPaM "
+  },
+  {
+    "index": 11515,
+    "sanskrit": "yāvadgṛhāśrame tiṣṭhettāvadākārapūjanam | kuryācchreṣṭhasya saprītyā sureṣu khalu paṃcasu ||",
+    "english": "82. As long as he continues the life of a householder he shall perform the worship of the idols of the most excellent of the five deities with pleasure.",
+    "morphology": "yāvat_yāvat_ gṛha_gṛha_Cp āśrame_āśrama_SLM tiṣṭhet_sthā_SPr3O tāvat_tāvat_ ākāra_ākāra_Cp pūjanam_pūjana_SANe  / kuryāt_kṛ_SPr3O śreṣṭhasya_śreṣṭha_SGM sa_sa_ prītyā_prīti_SIF sureṣu_sura_PLM khalu_khalu_ paṃcasu"
+  },
+  {
+    "index": 11516,
+    "sanskrit": "kaṭakatvasya bhinnasya viśvasya ca tathā pare / dvitvaikyāsaṃbhave cātra kāryakāraṇatā kutaḥ //",
+    "english": "As the different forms of jewels, are related to the substance of gold (out of which they are made), so doth the world bear its relation to Brahma; whose unity admits of duality, nor the attribute of cause and effect.",
+    "morphology": "kaṭaka_kaṭaka_Cp tvasya_tva_SGNe bhinnasya_bhid_SGPaNe viśvasya_viśva_SGNe ca_ca_ tathā_tathā_ pare_para_PNM  / dvi_dvi_Cp tva_tva_Cp aikya_aikya_Cp asaṃbhave_asaṃbhava_SLM ca_ca_ atra_atra_ kārya_kārya_Cp kāraṇatā_kāraṇatā_SNF kutas_"
+  },
+  {
+    "index": 11517,
+    "sanskrit": "na tathā candramaṇḍalādavarurukṣatāṃ vṛkṣāgrādiva patatāṃ sacetanatvam /",
+    "english": "There would be no such consciousness in the case of the entity descending from the Lunar Region; just as there is no consciousness in the man falling down from the tree",
+    "morphology": "na_na_ tathā_tathā_ candra_candra_Cp maṇḍalāt_maṇḍala_SBNe avarurukṣatām_avarurukṣ_PGPaPsM vṛkṣa_vṛkṣa_Cp agrāt_agra_SBNe iva_iva_ patatām_pat_PGPaPrM sa_sa_ cetana_cetana_Cp tvam_tva_SANe  /"
+  },
+  {
+    "index": 11518,
+    "sanskrit": "sa tasmai sarvam ācakhyau ānupūrvyeṇa pāṇḍavaḥ",
+    "english": "The son of Pandu told the monarch every particular in detail of their escape from the burning palace of lac.",
+    "morphology": "sa_tad_SNM tasmai_tad_SDM sarvam_sarva_SANe ācakhyau_ākhyā_SPs3In ānupūrvyeṇa_ānupūrvya_SINe"
+  },
+  {
+    "index": 11519,
+    "sanskrit": "alakṣmīḥ kālakarṇī ca tadgehe na viśetkvacit | gajāśvapaśuśāṃtyarthametatstotraṃ sadā japet || 2 ||",
+    "english": "102. May not Alakṣmī (ill-luck, misfortune) or Kālakarṇī the Ogress, enter their house. For the purpose of quelling (the distresses) of cows, horses and other animals, one should always repeat this prayer.",
+    "morphology": "alakṣmīḥ_alakṣmī_SNF kālakarṇī_kālakarṇī_SNF ca_ca_ tad_tad_Cp gehe_geha_SLNe na_na_ viśet_viś_SPr3O kvacid_kvacid_  / gaja_gaja_Cp aśva_aśva_Cp paśu_paśu_Cp śāṃti_śānti_Cp artham_artha_SAM etat_etad_SANe stotram_stotra_SANe sad"
+  }
+]

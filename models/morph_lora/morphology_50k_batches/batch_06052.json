@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48408,
+    "sanskrit": "brahma ādi stamba paryantam bhūta ādi sat asat ca yat",
+    "english": "Thou art the universe beginning with Brahman and ending with the lowest forms of vegetation.",
+    "morphology": "brahma_brahman_MCp ādi_ādi_MCp stamba_stamba_MCp paryantam_paryanta_SNNe bhūta_bhūta_NeCp ādi_ādi_SNNe sat_as_SNPaPrNe asat_asat_SNNe"
+  },
+  {
+    "index": 48409,
+    "sanskrit": "sa gāḍha viddhaḥ balavān hārdikyasya śara uttamaiḥ cacāla ratha madhya sthaḥ kṣiti kampe yathā acalaḥ",
+    "english": "Then mighty Bhima, deeply pierced with those excellent shafts of Hridika's son, trembled on his car like a mountain during an earthquake.",
+    "morphology": "sa_tad_SNM gāḍha_gāḍha_Cp viddhaḥ_vyadh_SNPaPsM balavān_balavat_SNM hārdikyasya_hārdikya_SGM śara_śara_MCp uttamaiḥ_uttama_PIM cacāla_cal_SPs3In ratha_ratha_MCp madhya_madhya_NeCp sthaḥ_stha_SNM kṣiti_kṣiti_FCp kampe_kampa_SLM yathā_"
+  },
+  {
+    "index": 48410,
+    "sanskrit": "adhīlodhakarṇās trayo viṣṇava urukramāya lapsudinas trayo viṣṇava urugāyāya pañcāvīs tisra ādityānām |",
+    "english": "three with red-tipped ears are (to be offered) to Visnu, the wide strider; three with dewlaps are (to be offered) to Visnu, the wide goer; three of two and a half years old are for the Adityas;",
+    "morphology": "adhī_adhi_ lodha_lodha_Cp karṇāḥ_karṇa_PNM trayaḥ_tri_PNM viṣṇavaḥ_viṣṇu_PNM urukramāya_urukrama_SDM lapsudinaḥ_lapsudin_PNM trayaḥ_tri_PNM viṣṇavaḥ_viṣṇu_PNM urugāyāya_urugāya_SDM pañcāvīḥ_pañcāvī_PNF tisraḥ"
+  },
+  {
+    "index": 48411,
+    "sanskrit": "teṣāṃ tadvacanaṃ śrutvā bṛhaspatirabhāṣata || 289 ||",
+    "english": "289. On hearing their words Bṛhaspati said:",
+    "morphology": "teṣām_tad_PGM tat_tad_SANe vacanam_vacana_SANe śrutvā_śru_Co bṛhaspatiḥ_bṛhaspati_SNM abhāṣata_bhāṣ_S3ImIn "
+  },
+  {
+    "index": 48412,
+    "sanskrit": "gurubhiḥ samanujñātaḥ kāśyapena ca dhīmatā",
+    "english": "Angiras himself had obtained it from Kasyapa of great intelligence.",
+    "morphology": "gurubhiḥ_guru_PIM samanujñātaḥ_samanujñā_SNPaM kāśyapena_kāśyapa_SIM ca_ca_ dhīmatā_dhīmat_SIM"
+  },
+  {
+    "index": 48413,
+    "sanskrit": "jaiminiruvāca | ataḥ paraṃ pravakṣyāmi dakṣiṇāmūrtidarśanam | padepadeśvamedhasya phalaṃ yatropalabhyate || 1 ||",
+    "english": "1. Henceforth I shall describe (the procedure) of visiting the deities facing South.[1] In this the benefit of a horse-sacrifice is obtained at every step.",
+    "morphology": "jaiminiḥ_jaimini_SNM uvāca_vac_SPs3In  / atas_atas_ param_param_ pravakṣyāmi_pravac_SFu1In dakṣiṇāmūrti_dakṣiṇāmūrti_Cp darśanam_darśana_SANe  / pade_pada_SLNe pada_pada_Cp aśvamedhasya_aśvamedha_SGM phalam_phala_SNNe yatra_yatra_ upa"
+  },
+  {
+    "index": 48414,
+    "sanskrit": "hrasvadīrghaplutādyantu vacastatpuruṣottamaḥ //",
+    "english": "That Supreme Being is referred to as speech consisting of the sounds short, long and protracted etc.",
+    "morphology": "hrasva_hrasva_Cp dīrgha_dīrgha_Cp pluta_pluta_Cp ādi_ādi_SNNe antu_antu_ vacaḥ_vacas_SNNe tatpuruṣa_tatpuruṣa_Cp uttamaḥ_uttama_SNM  /"
+  },
+  {
+    "index": 48415,
+    "sanskrit": "duryodhanam drauṇi mukhān ca sarvān aham raṇe vṛṣasenam tam ugram saṃpaśyataḥ karṇa tava adya saṃkhye",
+    "english": "With eyes red in wrath, that hero capable of slaying Yama himself if the latter fought with him, then laughed terribly and said unto Karna and all the other Kaurava heroes headed by Duryodhana and Drona's son, these words, \"Today, O Karna, in thy very sight in this battle, I will despatch the fierce Vrishasena unto Yama's abode with my keen arrows! People say that all of you, united together, slew my son, endued with great activity, in my absence, and while he was alone and unsupported on his car.",
+    "morphology": "duryodhanam_duryodhana_SAM drauṇi_drauṇi_MCp mukhān_mukha_PAM ca_ca_U sarvān_sarva_PAM aham_mad_SN raṇe_raṇa_SLM vṛṣasenam_vṛṣasena_SAM tam_tad_SAM ugram_ugra_SAM saṃpaśyataḥ_saṃpaś_SGPaPrM karṇa_karṇa_SVM tava_tvad_SG adya_ad"
+  }
+]

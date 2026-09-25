@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40656,
+    "sanskrit": "bhūtaṃ bhaviṣyaṃ deveśa vartamānaṃ janārdana | jñānaṃ prasādādrudrasya sadā traikālikaṃ mama ||",
+    "english": "6. O lord of Devas, O Viṣṇu, thanks to the grace of Śiva, the past, future and present, everything in the three periods of time is known to me.",
+    "morphology": "bhūta_bhūta_SNNe bhaviṣyam_bhaviṣya_SNNe deveśa_deveśa_SVM vartamānam_vartamāna_SNNe janārdana_janārdana_SVM  / jñāna_jñāna_SNNe prasādāt_prasāda_SBM rudrasya_rudra_SGM sadā_sadā_ traikālika_traikālika_SNNe mama_mad_SG  /"
+  },
+  {
+    "index": 40657,
+    "sanskrit": "brāhmaṇānām sitaḥ varṇaḥ kṣatriyāṇām tu lohitaḥ",
+    "english": "The complexion the Brahmanas obtained was white; that which the Kshatriyas obtained was red;",
+    "morphology": "brāhmaṇānām_brāhmaṇa_PGM"
+  },
+  {
+    "index": 40658,
+    "sanskrit": "yadā tu vākya śeṣopanautayāgaśeṣadravyapratipattiniyamabhreṣopajanitaṃ phalalābhāyogyatvamato na pratisamādhīyate iti kalpyate tadā yajamānaphalotpatteratyantāhaṣṭatvāttadāśaṅkati tenaiva pratisamādhāneṣṭiḥ karttavyetyasaṃdigdham /",
+    "english": "fice of attaining the final result, caused by a discrepancy in the correct. observance of the Disposal of the remnant of the sacrificial substance, the necessity of such Disposal being indicated by the subsequent words of the texts relating to the Principal Sacrifice,then, in that case, inas much as it would be the Result aceruing to the Yajamāna in the shape of the Apuroa that would be absolutely imperceptible, and as such, capable of being interfered with in its proper fruition by the vomiting, it would become all the more certain that the Remedial Ishti would be performed by the Yajamana himself. As for the Result that accrues to the Priests, in the shape of the sacrificial gifts,they are found to obtain it, in any case, whether there be a vomiting or not and as such there being no fear of this Result being interfered with by any vomiting, it would not stand in need of the Remedial Ishti, and as such could not bring about its per formance.",
+    "morphology": "yadā_yadā_ tu_tu_ phala_phala_Cp lābha_lābha_Cp ayogya_ayogya_Cp tvam_tva_SNNe atas_atas_ na_na_ pratisamādhīyate_pratisamādhā_SPr3InPv iti_iti_ kalpyate_kalpay_SPr3InPv tadā_tadā_ yajamāna_yaj_PaPrCp phala_phala_Cp utpatteḥ_utpatti_SGF atyant"
+  },
+  {
+    "index": 40659,
+    "sanskrit": "sa rākṣaso nipatyaiva muktaghoraravas tadā / tāṃ mṛgāṅkavatīṃ vaktre nikṣipyaiva nigīrṇavān //",
+    "english": "That Rākṣasa uttered an appalling roar, and swooping down on Mṛgāṅkavatī, put her in his mouth and swallowed her.",
+    "morphology": "sa_tad_SNM rākṣasaḥ_rākṣasa_SNM nipatya_nipat_Co eva_eva_ mukta_muc_PaCp ghora_ghora_Cp ravaḥ_rava_SNM tadā_tadā_  / tām_tad_SAF mṛgāṅkavatīm_mṛgāṅkavat_SAF"
+  },
+  {
+    "index": 40660,
+    "sanskrit": "pitta jvara uktam śamanam virekaḥ anyat hitam ca yat",
+    "english": "Purgative and pacifying (soothing) medicines described in connection with the Pittaja fever are likewise beneficial in the present case.",
+    "morphology": "pitta_pitta_NeCp jvara_jvara_MCp uktaā_vac_SNPaPsNe śamanamā_śamana_SNNe virekaḥ_vireka_SNM"
+  },
+  {
+    "index": 40661,
+    "sanskrit": "rājā ayam vṛddha tām prāptaḥ pramāṇe parame sthitaḥ",
+    "english": "This king has reached old age. He is now PART I in the last stage of life.",
+    "morphology": "rājā_rājan_SNM ayam_idam_SNM vṛddha_vṛddha_Cp tām_tā_SAF prāhāḥ_prāh_SNPaPsM"
+  },
+  {
+    "index": 40662,
+    "sanskrit": "nihaṃti duṣṭasaṃghātānmahābalaparākramā | vāyuskaṃdhāni saptāpiśrṛṇuyadvatsthitānyapi || 52 ||",
+    "english": "(Now) Listen to the seven Skandhas[10] (Layers) of the winds and how they are stationed:",
+    "morphology": "nihanti_nihan_SPr3In duṣṭa_duṣ_PaCp saṃghātān_saṃghāta_PAM mahā_mahat_Cp bala_bala_Cp parākramā_parākrama_SNF  / vāyu_vāyu_Cp skandhāni_skandha_PANe sapta_saptan_SANe api_api_ śrṛṇu_śru_SPr2Im yadvat_yadvat_ sthitāni_sthā_PAPaNe"
+  },
+  {
+    "index": 40663,
+    "sanskrit": "yathā rasanendriyasambandhād anyeṣāṃ madyādisaṃvittau duḥkhādyanubhavas tathā manasāpi saṃvedayataḥ prāpnotīti /",
+    "english": "because His perception of these is purely mental. The following might be urged “When other people suffer from tasting wine through its contact with the Gestatory Organ, so would He suffer from experiencing it through the Mind”.",
+    "morphology": "yathā_yathā_ rasanā_rasanā_Cp indriya_indriya_Cp sambandhāt_sambandha_SBM anyeṣām_anya_PGM madya_madya_Cp ādi_ādi_Cp saṃvittau_saṃvitti_SLF duḥkha_duḥkha_Cp ādi_ādi_Cp anubhavaḥ_anubhava_SNM tathā_tathā_ manasā_manas_SINe api_api_ "
+  }
+]

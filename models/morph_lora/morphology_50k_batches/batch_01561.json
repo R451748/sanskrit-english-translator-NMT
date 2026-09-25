@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12480,
+    "sanskrit": "caṇḍālīkumbhītumbakaṭukasāraoghaḥ sanārībhagoasi svāhā //",
+    "english": "O, Chandáli Kumbhi, Tumba Katuka, and Sárigha, thou art possessed of the bhaga of a woman, oblation to thee",
+    "morphology": "caṇḍālī_caṇḍālī_Cp kumbhī_kumbhī_Cp tumba_tumba_Cp kaṭuka_kaṭuka_Cp sāra_sāra_Cp oghaḥ_ogha_SNM sa_sa_ nārī_nārī_Cp bhaga_bhaga_SNM asi_as_SPr2In svāhā_svāhā_  /"
+  },
+  {
+    "index": 12481,
+    "sanskrit": "jānunābhimadhyagataṃ śvetaṃ vai padmalāñchitaṃ /",
+    "english": "Salutations.",
+    "morphology": "jānu_jānu_Cp nābhi_nābhi_Cp madhya_madhya_Cp gata_gam_SAPaNe śveta_śveta_SANe vai_vai_ padma_padma_Cp lāñchita_lāñchita_SANe"
+  },
+  {
+    "index": 12482,
+    "sanskrit": "tāśca tairbalibhiḥ kṛtvā saṃgrāmaṃ nissahatvataḥ | durgāṃ prapedire devīṃ śaraṇaṃ siṃhavāhanām || 51 ||",
+    "english": "51. Those (Mothers) fought with those powerful Asuras. But unable to bear it they sought refuge in Goddess Durgā with the lion as her vehicle.",
+    "morphology": "tāḥ_tad_PNF ca_ca_ taiḥ_tad_PIM balibhiḥ_balin_PIM kṛtvā_kṛ_Co saṃgrāmam_saṃgrāma_SAM nissaha_nissaha_Cp tvataḥ_tva_SBNe  / durgām_durgā_SAF prapedire_prapad_PPs3In devīm_devī_SAF śaraṇam_śaraṇa_SANe siṃhavāhanām_siṃhav"
+  },
+  {
+    "index": 12483,
+    "sanskrit": "āsīd rājā suṣeṇākhyaś citrakūṭācale yuvā / kāmo 'nya iva yo dhātrā nirmitas tryambakerṣyayā //",
+    "english": "There was a young king named Suṣeṇa on the mountain of Citrakūṭa, who was created like another God of Love by the Creator to spite Śiva.",
+    "morphology": "āsīt_as_S3ImIn rājā_rājan_SNM suṣeṇa_suṣeṇa_Cp ākhyaḥ_ākhyā_SNM citrakūṭa_citrakūṭa_Cp acale_acala_SLM yuvā_yuvan_SNM  / kāmaḥ_kāma_SNM anyaḥ_anya_SNM iva_iva_ yaḥ_yad_SNM dhātrā_dhātṛ_SIM nirmitaḥ_nirmā_SNPaM tryam"
+  },
+  {
+    "index": 12484,
+    "sanskrit": "kṛtam hi tat kṛtena eva kartā tasya api ca aparaḥ",
+    "english": "Know, however, that the person who is so regarded has (as already said) a creator.",
+    "morphology": "kṛtam_kṛ_SNPaPsNe hi_hi_U tat_tad_SNNe kṛtena_kṛ_SIPaPsNe eva_eva_U kartā_kartṛ_SNM tasya_tad_SGNe api_api_U ca_ca_U aparā_apara_SNM"
+  },
+  {
+    "index": 12485,
+    "sanskrit": "brāhmaṇaṃ dharmarājaṃ ca dhenuṃ vaitaraṇīṃ śivām | sarvaṃ pradakṣiṇīkṛtya brāhmaṇāya nivedayet || 83 ||",
+    "english": "This is the Dāna Mantra. The devotee circumambulates the Brāhmaṇa, (the image of) Dharmarāja, the cow, the auspicious Vaitaraṇī and then makes over the gift of these to Brāhmaṇas.",
+    "morphology": "brāhmaṇam_brāhmaṇa_SAM dharmarājam_dharmarāja_SAM ca_ca_ dhenum_dhenu_SAF vaitaraṇīm_vaitaraṇī_SAF śivām_śiva_SAF  / sarva_sarva_SANe pradakṣiṇīkṛtya_pradakṣiṇīkṛ_Co brāhmaṇāya_brāhmaṇa_SDM nivedayet_niveday_SPr3O "
+  },
+  {
+    "index": 12486,
+    "sanskrit": "virāṭaparve deyāni vāsāṃsi vividhāni ca",
+    "english": "I would remark in passing that many of the most poetic and striking adjectives in both the Raghu and the Kumarasambhava of Kalidasa are borrowed unblushingly from the Ramayana and the Mahabharata.",
+    "morphology": "virāṭaparve_virāṭaparvan_SLNe deyāni_dā_PNNeGd"
+  },
+  {
+    "index": 12487,
+    "sanskrit": "kiṃ vastusvarūpabhedavādinaṃ prati imāni dūṣaṇāni uddhuṣya nte, kiṃ vā dharmabhedavādinaṃ prati ? prathame corāparādhānmāṇḍavyanigraha- nyāyāpātaḥ|",
+    "english": "To this let the reply be as follows:—Are these objections proclaimed against one who maintains a difference identical with the things themselves, or against one who maintains a difference between things as the subjects of attributes? In the former case, you will be, as the saying runs, punishing a respectable Brāhman for the offence of a thief, the objections you adduce being irrelevant.",
+    "morphology": "kim_kim_ vastu_vastu_Cp svarūpa_svarūpa_Cp bheda_bheda_Cp vādinam_vādin_SAM prati_prati_ imāni_idam_PNNe dūṣaṇāni_dūṣaṇa_PNNe uddhuṣya_uddhuṣ_Co nte_nte_PPr3InPv kim_kim_ vā_vā_ dharma_dharma_Cp bheda_bheda_Cp vādinam_vādin_SAM prat"
+  }
+]

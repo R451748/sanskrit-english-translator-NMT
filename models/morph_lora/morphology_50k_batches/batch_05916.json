@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47320,
+    "sanskrit": "karmāṇi kurvīyety atha kurute /",
+    "english": "when he is minded to perform actions, he performs them;",
+    "morphology": "karmāṇi_karman_PANe kurvīya_kṛ_SPr1O iti_iti_"
+  },
+  {
+    "index": 47321,
+    "sanskrit": "asti vārinidher madhye dvīpam utsthalasaṃjñakam / tatra satyavratākhyo 'sti niṣādādhipatir dhanī //",
+    "english": "there is in the midst of the ocean an island named Utsthala, and in it there is a rich king of the Niṣādas[3] named Satyavrata.",
+    "morphology": "asti_as_SPr3In vārinidheḥ_vārinidhi_SGM madhye_madhya_SLNe dvīpam_dvīpa_SNNe utsthala_utsthala_Cp saṃjñakam_saṃjñaka_SNNe  / tatra_tatra_ satyavrata_satyavrata_Cp ākhyaḥ_ākhyā_SNM asti_as_SPr3In niṣāda_niṣāda_Cp adhipatiḥ_adhipati_"
+  },
+  {
+    "index": 47322,
+    "sanskrit": "nibandhanena bhāvyam, anyathā vastusaṅkaryaṃ syāt /",
+    "english": "Question “Why should there be contradiction between Identity and Difference (Affirmation and Denial)?”",
+    "morphology": "nibandhanena_nibandhana_SINe bhāvyam_bhū_SNNeGd anyathā_anyathā_ vastu_vastu_Cp saṅkaryam_saṃkarya_SNNe syāt_as_SPr3O  /"
+  },
+  {
+    "index": 47323,
+    "sanskrit": "duryodhane atha vimukhe rāja putra śate hate saubhadre pratipattim kām pratyapadyanta māmakāḥ",
+    "english": "After Duryodhana was beaten back and a hundred princes slain, what course was pursued by the warriors of my army against the son of Subhadra?' \"Sanjaya said, 'Their mouths became dry, and eyes restless.",
+    "morphology": "duryodhane_duryodhana_SLM atha_atha_U vimukhe_vimukha_SLM rāja_rājan_MCp putra_putra_MCp śate_śata_SLNe hate_han_SLPaPsM saubhadre_saubhadra_SLM pratipattim_pratipatti_SAF kām_ka_SAF"
+  },
+  {
+    "index": 47324,
+    "sanskrit": "indrāviṣṇūiti madapatī itimada patī madānām ā somam yātam draviṇo iti dadhānā sam vām añjantu aktu bhiḥ matīnām sam stomāsaḥ śasyamānāsaḥ ukthaiḥ",
+    "english": "Lords of joy-giving draughts, Indra and Vishṇu, come, giving gifts of treasure, to the Soma. With brilliant rays of hymns let chanted praises, repeated with the lauds, adorn and deck you.",
+    "morphology": "indrāviṣṇūiti_indrāviṣṇu_DuVM iti_iti_U madapatī_madapati_DuVM itimada_itimada_Cp patī_pati_DuVM madānām_mada_PGM ā_ā_U somam_soma_SAM yātam_yā_DuPr2Im draviṇaḥ_draviṇas_SVNe iti_iti_U dadhānā_dhā_DuNPaPrM sam_sam_U vām_tvad_Du"
+  },
+  {
+    "index": 47325,
+    "sanskrit": "kim idānīm anye varṇāḥ kariṣyanti / ekadeśavyaktis tu niravayavasya varṇasyeva na saṃbhavati /",
+    "english": "What part will the subsequent letter play? A letter being partless, the partial manifestation of a letter is not possible.",
+    "morphology": "kim_ka_SANe idānīm_idānīm_ anye_anya_PNM varṇāḥ_varṇa_PNM kariṣyanti_kṛ_PFu3In  / eka_eka_Cp deśa_deśa_Cp vyaktiḥ_vyakti_SNF tu_tu_ niravayavasya_niravayava_SGM varṇasya_varṇa_SGM iva_iva_ na_na_ saṃbhavati_sambhū_SPr3In  /"
+  },
+  {
+    "index": 47326,
+    "sanskrit": "gavā sadṛśarūpo 'yaṃ paśurityetad īdṛśam / akṣavyāpārasadbhāve jāteḥ pratyakṣamiṣyate //",
+    "english": "the cognition that follows is in the more determinate form “the shape of this animal is similar to the cow’s”; and this also comes about only when the operation of the senses is there;",
+    "morphology": "gavā_go_SIM sadṛśa_sadṛśa_Cp rūpaḥ_rūpa_SNM ayam_idam_SNM paśuḥ_paśu_SNM iti_iti_ etat_etad_SNNe īdṛśam_īdṛśa_SNNe  / akṣa_akṣa_Cp vyāpāra_vyāpāra_Cp sadbhāve_sadbhāva_SLM jāteḥ_jāti_SGF pratyakṣam_pratyakṣa_SNNe i"
+  },
+  {
+    "index": 47327,
+    "sanskrit": "yadi śāstram pramāṇam te mā abhakṣye mānasam kṛthāḥ viśvāmitraḥ uvāca agastyena asuraḥ jagdhaḥ vātāpiḥ kṣudhitena vai",
+    "english": "Do not set thy heart upon what is unclean (for thee).' \"Viswamitra said, 'The great Rishi Agastya, while hungry, ate up the Asura named Vatapi.",
+    "morphology": "yadi_yadi_U śāstram_śāstra_SNNe pramāṇam_pramāṇa_SNNe te_tvad_SG mā_mā_U abhakṣye_abhakṣya_SLNe mānasam_mānasa_SANe kṛthāḥ_kṛ_SPs2 viśvāmitraḥ_viśvāmitra_SNM uvāca_vac_SPs3In agastyena_agastya_SIM asuraḥ_asura_SNM jagdha"
+  }
+]

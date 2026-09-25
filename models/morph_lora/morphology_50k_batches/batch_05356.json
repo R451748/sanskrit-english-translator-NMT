@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42840,
+    "sanskrit": "ajātaśatroḥ śvas vākyam sabhā madhye sa vakṣyati",
+    "english": "Tomorrow he will deliver, in the midst of the court, Ajatasatru's message.",
+    "morphology": "ajātaśatroḥ_ajātaśatru_SGM śvas_śvas_U vākyam_vākya_SANe sabhā_sabhā_FCp madhye_madhya_SLNe sa_tad_SNM"
+  },
+  {
+    "index": 42841,
+    "sanskrit": "vyavasāyam tayoḥ tatra viditvā tridaśeśvaraḥ saha devaiḥ upayayau lokapālaiḥ tathā eva ca",
+    "english": "Let us then become equal in respect of our rewards (in next life), and let us go to receive that end which is ours.' Knowing the resolve to which they came there, the chief of the gods came to that spot, accompanied by the deities and the Regents of the world.",
+    "morphology": "vyavasāyam_vyavasāya_SAM tayoḥ_tad_DuGM tatra_tatra_U viditvā_vid_Co tridaśeśvaraḥ_tridaśeśvara_SNM saha_saha_U devaiḥ_deva_PIM upayayau_upayā_SPs3In lokapālaiḥ_lokapāla_PIM tathā_tathā_U eva_eva_U ca_ca_U"
+  },
+  {
+    "index": 42842,
+    "sanskrit": "dṛśyasvarūpaśca hutāśanastvaṃ sparśasvarūpaṃ bhavataḥ samīre | śabdādikaṃ te nabhasi svarūpaṃ mantavyarūpo manasi prabho tvam || 23 ||",
+    "english": "You are of the form of touch in the wind. Sound etc. of thine is the form in the firmament. O Lord, in mind you are of the form of thought.",
+    "morphology": "dṛśya_dṛś_GdCp sva_sva_Cp rūpaḥ_rūpa_SNM ca_ca_ hutāśanaḥ_hutāśana_SNM tvam_tvad_SN sparśa_sparśa_Cp sva_sva_Cp rūpam_rūpa_SNNe bhavataḥ_bhavat_SGM samīre_samīra_SLM  / śabda_śabda_Cp ādikam_ādika_SNNe te_tvad_SG nabhasi_nabhas_"
+  },
+  {
+    "index": 42843,
+    "sanskrit": "mṛgīkuṃḍaṃ ca tatraiva kālameghastathaiva ca | kṣetrapālasvarūpeṇa mahodadhi svayaṃ sthitaḥ | dāmodaraśca tatraiva bhavo brahmāḍanāyakaḥ || 10 ||",
+    "english": "10. Mṛgīkuṇḍa is just there; so also Kālamegha. The great ocean remains there in the form of the guardian of the holy place. Dāmodara is just there; so also Bhava, the Lord of the universe.",
+    "morphology": "mṛgīkuṇḍam_mṛgīkuṇḍa_SNNe ca_ca_ tatra_tatra_ eva_eva_ kālameghaḥ_kālamegha_SNM tathā_tathā_ eva_eva_ ca_ca_  / kṣetrapāla_kṣetrapāla_Cp sva_sva_Cp rūpeṇa_rūpa_SINe mahodadhi_mahodadhi_SNNe svayam_svayam_ sthitaḥ_sthā_SNPaM"
+  },
+  {
+    "index": 42844,
+    "sanskrit": "yathāha",
+    "english": "For, if the meanings of words were to be accepted according to the Arthavada the sacrificer is stone for instance, there would be a direct contradiction of the Injunction as whenever an action will be enjoined as to be performed by the Sacrificer, we would represent the action as done by a piece of stone.",
+    "morphology": "yathā_"
+  },
+  {
+    "index": 42845,
+    "sanskrit": "etāvati dharaṇitale subhagāste sādhucetanāḥ puruṣāḥ / puruṣakalāsu ca gaṇyā na jitā ye cetasā svena //",
+    "english": "Those men are reckoned the most prosperous, and best disposed in their minds in this earth; who have the manliness to govern their minds, instead of being governed by them.",
+    "morphology": "etāvati_etāvat_SLNe dharaṇi_dharaṇī_Cp tale_tala_SLNe subhagāḥ_subhaga_PNM te_tad_PNM sādhu_sādhu_Cp cetanāḥ_cetanā_PNM puruṣāḥ_puruṣa_PNM  / puruṣa_puruṣa_Cp kalāsu_kalā_PLF ca_ca_ gaṇyāḥ_gaṇya_PNM na_na_ jitāḥ_ji_PN"
+  },
+  {
+    "index": 42846,
+    "sanskrit": "sam indra ṇo manasā neṣi gobhiḥ sam̐ sūribhir maghavant sam̐ svastyā / saṃ brahmaṇā devakṛtaṃ yad asti saṃ devānām̐ sumatau yajñiyānām̐ svāhā //",
+    "english": "Lead us with thought to wealth in kine, O Indra, to princes, Lord of Bounty! and to welfare. Lead thou us on to God-inspired devotion, to favour of the Gods who merit worship. All-hail! 16",
+    "morphology": "sam_sam_ indra_indra_SVM naḥ_mad_PA manasā_manas_SINe neṣi_nī_SPr2In gobhiḥ_go_PIM sam_sam_ sūribhiḥ_sūri_PIM maghavan_maghavan_SVM sam_sam_ svastyā_svasti_SIF  / sam_sam_ brahmaṇā_brahman_SINe deva_deva_Cp kṛtam_kṛ_SNPaNe yat_yad_SNNe "
+  },
+  {
+    "index": 42847,
+    "sanskrit": "veda ācāra vidhāna uktaiḥ yajñaiḥ dhāryanti devatāḥ",
+    "english": "The gods are maintained by the (celebration of) sacrifices prescribed by the Vedas and the religious ordinances;",
+    "morphology": "veda_veda_MCp ācāra_ācāra_MCp vidhāna_vidhāna_NeCp uktaiḥ_vac_PIPaPsM yajñaiḥ_yajña_PIM"
+  }
+]

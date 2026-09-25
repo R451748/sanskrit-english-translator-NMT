@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3432,
+    "sanskrit": "padmapatreṣu vai dugdhā gaṃdharvāpsarasāṃ gaṇaiḥ | vatsaṃ caitrarathaṃ kṛtvā śucigandhānmahī tadā || 164 ||",
+    "english": "164. Making Caitraratha the calf, the groups of Gandharvas and celestial damsels milked her in a pot of lotus-leaves, the milk being pure sweet fragrance.",
+    "morphology": "padma_padma_Cp patreṣu_pattra_PLNe vai_vai_ dugdhā_duh_SNPaF gaṃdharva_gandharva_Cp apsarasām_apsaras_PGF gaṇaiḥ_gaṇa_PIM  / vatsam_vatsa_SAM caitraratham_caitraratha_SAM kṛtvā_kṛ_Co śuci_śuci_Cp gandhāt_gandha_SBM mahī_mahī_SNF"
+  },
+  {
+    "index": 3433,
+    "sanskrit": "nārada uvāca | devadeva prajānātha brahman sṛṣṭikara prabho | tataḥ kimabhavattatra tadvadā'dya kṛpāṃ kuru ||",
+    "english": "[Sanskrit text for this chapter is available] 1. O lord of subjects, O Brahmin, O creator, what happened thereafter? Please tell me the same.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / devadeva_devadeva_SVM prajānātha_prajānātha_SVM brahman_brahman_SVM sṛṣṭi_sṛṣṭi_Cp kara_kara_SVM prabho_prabhu_SVM  / tatas_tatas_ kim_ka_SNNe abhavat_bhū_S3ImIn tatra_tatra_ tat_tad_SANe vada_va"
+  },
+  {
+    "index": 3434,
+    "sanskrit": "tam uvāca tatas mātā api atra bhavitā śubhaḥ",
+    "english": "And as he came out, he was met by his mother who asked him about the would-be-child.",
+    "morphology": "tam_tad_SAM"
+  },
+  {
+    "index": 3435,
+    "sanskrit": "abhyaṣiñcadameyātmā daityarājye mahāsuram / marudgaṇaiḥ stūyamānaṃ pūrvaṃ svarge hariṃ yathā //",
+    "english": "Then Hari the immeasurable Spirit, anointed the great Asura in the kingdom of the Daityas; and the Maruta winds lauded his praise, as they do the hymns of Hari in heaven.",
+    "morphology": "abhyaṣiñcat_abhiṣic_S3ImIn ameya_ameya_Cp ātmā_ātman_SNM daitya_daitya_Cp rājye_rājya_SLNe mahā_mahat_Cp asuram_asura_SAM  / marut_marut_Cp gaṇaiḥ_gaṇa_PIM stūyamānaḥ_stu_SNPaPrMPv"
+  },
+  {
+    "index": 3436,
+    "sanskrit": "bhavanti ca loke pramāṇāntarasiddhānām arthānām upadeṣṭāraḥ na tvayājīrṇe bhoktavyam, ajīrṇaprabhavā hi rogāḥ / na caitad vaktavyam ye nyāyato vedasya dharmamūlatvaṃ na śaknuvanti pratipattum, te vacanād api na pratyeṣyanti / yato dṛśyate, ya āptatvena prasiddhās tadīyaṃ vacanam avicāryaiva kecana pramāṇayanti /",
+    "english": "\"you should not eat before the food already taken has been digested, for indigestion is the source of disease\" It cannot be rightly urged that those who are unable to comprehend, by reasoning, the fact of Veda being the source of Dharma, can not comprehend it through teaching either; for as a matter of fact we find that when certain persons are known to be \"trustworthy,\" people accept their word as true, without any further consideration.",
+    "morphology": "bhavanti_bhū_PPr3In ca_ca_ loke_loka_SLM pramāṇa_pramāṇa_Cp antara_antara_Cp siddhānām_sidh_PGPaM arthānām_artha_PGM upadeṣṭāraḥ_upadeṣṭṛ_PNM na_na_ tvayā_tvad_SI ajīrṇe_ajīrṇa_SLNe bhoktavyam_bhuj_SNNeGd ajīrṇa_ajīrṇa_"
+  },
+  {
+    "index": 3437,
+    "sanskrit": "hayān ca asya tatas jaghne sārathim ca nyapātayat",
+    "english": "Arjuna then slew Dussasana's steeds and then felled his charioteer.",
+    "morphology": "hayān_haya_PAM ca_ca_U asya_idam_SGM tatas_tatas_U jaghne_han_SPs3In"
+  },
+  {
+    "index": 3438,
+    "sanskrit": "yathāpūrvaṃ sthale loke bhayaṃ cāsīnnirantaram | tathā bhayaṃ jale teṣāmāsīnnityaṃ munīśvarāḥ ||",
+    "english": "36. O great sages, the people had the terror in the waters now incessantly in the manner they had fear on land before.",
+    "morphology": "yathāpūrvam_yathāpūrvam_ sthale_sthala_SLNe loke_loka_SLM bhayam_bhaya_SNNe ca_ca_ āsīt_as_S3ImIn nirantaram_nirantaram_"
+  },
+  {
+    "index": 3439,
+    "sanskrit": "catvāri te tāta gṛhe vasantu śriyā abhijuṣṭasya gṛhastha dharme vṛddhaḥ jñātiḥ avasannaḥ kulīnaḥ",
+    "english": "O sire, crowned with prosperity and leading the life of a householder, let these four dwell with thee, viz., old consanguineous, relatives, high-born persons fallen into adversity, poor friends, and issueless sisters.",
+    "morphology": "catvāri_catur_PNNe te_tvad_SG tāta_tāta_SVM gṛhe_gṛha_SLNe vasantu_vas_PPr3Im śriyā_śrī_SIF abhijuṣṭasya_abhijuṣ_SGPaPsM gṛhastha_gṛhastha_MCp dharme_dharma_SLM"
+  }
+]

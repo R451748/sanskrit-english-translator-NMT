@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45784,
+    "sanskrit": "samāhartṛpraṇidhau janapadarakṣaṇam uktam //",
+    "english": "[Thus ends Chapter , Remedies against national Calamities in Book , The Removal of Thorns, of the Arthasástra of Kautilya",
+    "morphology": "samāhartṛ_samāhartṛ_Cp praṇidhau_praṇidhi_SLM janapada_janapada_Cp rakṣaṇam_rakṣaṇa_SNNe"
+  },
+  {
+    "index": 45785,
+    "sanskrit": "prayogataḥ paracittajñānam / na hi tena caittā na jñāyate /",
+    "english": "By reason of their preparatory exercises, there is the knowledge of the mind of another.",
+    "morphology": "prayogataḥ_prayoga_SBM para_para_Cp citta_citta_Cp jñānam_jñāna_SNNe  / na_na_"
+  },
+  {
+    "index": 45786,
+    "sanskrit": "keśādijñāne 'pi hyanadhyavasitālokādiprāpteḥ //",
+    "english": "as in the case of the cognition of the Hair-tuft also, what is actually got at is only the light (whose reflections create the impression of the Hair-tuft).",
+    "morphology": "keśa_keśa_Cp ādi_ādi_Cp jñāne_jñāna_SLNe api_api_ hi_hi_ anadhyavasita_anadhyavasita_Cp āloka_āloka_Cp ādi_ādi_Cp prāpteḥ_prāpti_SBF "
+  },
+  {
+    "index": 45787,
+    "sanskrit": "nāpi nityamanaḥkāladigīśātmādibhiḥ kṛtam /",
+    "english": "(2) Nor could it be brought about by such eternal causes as mind, time, space, god, soul and so forth;",
+    "morphology": "na_na_ api_api_"
+  },
+  {
+    "index": 45788,
+    "sanskrit": "avadhyāḥ tu striyaḥ sṛṣṭāḥ manyante dharma cintakāḥ",
+    "english": "The virtuous, however, have said that women should never be slain.",
+    "morphology": "avadhyāḥ_avadhya_PAF"
+  },
+  {
+    "index": 45789,
+    "sanskrit": "tathāpi tāvat kasmiṃś cid ājñāṃ me dātum arhatha / viniyogaprasādā hi kiṅkarāḥ prabhaviṣṇuṣu //",
+    "english": "Still be pleased to give me a command in some matter to do something for you for, in respect of their masters servants consider an order as a favour",
+    "morphology": "tathā_tathā_ api_api_ tāvat_tāvat_ kasmin_ka_SLM cit_cit_SNF ājñām_ājñā_SAF me_mad_SD dātum_dā_In arhatha_arh_PPr2In  / viniyoga_viniyoga_Cp prasādāḥ_prasāda_PNM hi_hi_ kiṅkarāḥ_kiṃkara_PNM prabhaviṣṇuṣu_prabhaviṣṇu_PLM  /"
+  },
+  {
+    "index": 45790,
+    "sanskrit": "tathā matsyaiḥ parivṛtam cyavanam bhṛgu nandanam ākarṣanta mahā rāja jālena atha yadṛcchayā",
+    "english": "And as they dragged their net, O king, they easily dragged up Chyavana the son of Bhrigu along with a large number of fish.",
+    "morphology": "tathā_tathā_U matsyaiḥ_matsya_PIM parivṛtam_parivṛ_SAPaPsM cyavanam_cyavana_SAM bhṛgu_bhṛgu_MCp nandanam_nandana_SANe ākarṣanta_ākṛṣ_PPs3In ṛṣṭaḥ_ṛṣṭa_PNM ṛṣṭaḥ_ṛṣṭa_PNM ṛṣṭaḥ_ṛṣṭa_PNM ṛṣṭ"
+  },
+  {
+    "index": 45791,
+    "sanskrit": "yad apasyā upadadhāty asyā anatidāhāya uvāca heyam adad it sa brahmaṇānnaṃ yasyaitā upadhīyāntai ya u cainā evaṃ vedad iti prāṇabhṛta upa dadhāti retasy eva prāṇān dadhāti tasmād vadan prāṇan paśyañ chṛṇvan paśur jāyate |",
+    "english": "She said, 'He shall eat food with holy power, for whom these shall be put down, and he who shall know them thus.' He puts down the breath-supporting (bricks); verily he places the breaths in the seed; therefore an animal is born with speech, breath, sight, and bearing.",
+    "morphology": "yat_yat_ apasyāḥ_apasyā_PAF upadadhāti_upadhā_SPr3In asyāḥ_idam_SGF an_an_ atidāhāya_atidāha_SDM uvāca_vac_SPs3In ha_ha_ iyam_idam_SNF adat_ad_SPr3Su id_id_ sa_tad_SNM brahmaṇā_brahman_SINe annam_anna_SANe yasya_yad_SGM etāḥ_etad_PNF upa"
+  }
+]

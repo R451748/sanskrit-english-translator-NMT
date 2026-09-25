@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31336,
+    "sanskrit": "nipātitam ca āhava śauṇḍam āhave",
+    "english": "I see that this universe is transient, since that foremost of heroes hath been slain in battle.",
+    "morphology": "nipātitam_nipātay_SAPaPsM"
+  },
+  {
+    "index": 31337,
+    "sanskrit": "ā caturviṃśater viśaḥ / prāpto 'py atra pūraṇapratyayo vṛttānurodhān na kṛtaḥ, pratīyate tu tadarthaḥ /",
+    "english": "\"For the Vaiśya till the twentyfourth year\" Here also though the presence of the \"ḍaṭ\" affix implying completion was necessary, yet it has not been used in view of metrical contingencies; but the sense is there all the same.",
+    "morphology": "ā_ā_ caturviṃśateḥ_caturviṃśati_SBF viśaḥ_viś_SBF  / prāptaḥ_prāp_SNPaM api_api_ atra_atra_ pūraṇa_pūraṇa_Cp pratyayaḥ_pratyaya_SNM vṛtta_vṛtta_Cp anurodhāt_anurodha_SBM na_na_ kṛtaḥ_kṛ_SNPaM pratīyate_pratī_SPr3InPv "
+  },
+  {
+    "index": 31338,
+    "sanskrit": "asmin śāstre pañca mahābhūta śarīri samavāyaḥ puruṣaḥ iti ucyate |",
+    "english": "In the present science (ayurveda), the Purusha (self-conscious organic individual) is described as the resultant of the combination of the soul and the five primary material principles.",
+    "morphology": "asmin_idam_SLNe śāstre_śāstra_SLNe pañca_pañcan_Cp mahābhūta_mahābhūta_NeCp śarīri_śarīrin_Cp samavāyaḥ_samavāya_SNM puruṣaḥ_puruṣa_SNM iti_iti_U"
+  },
+  {
+    "index": 31339,
+    "sanskrit": "ākarṇya vimalaścetthamālāpaṃ raśmimālinaḥ | praṇato daṃḍavadbhūmau saṃprahaṣṭatanūruhaḥ || 91 || śanairvijñāpayāṃcakra ekacakrarathaṃ ravim | jagaccakṣurameyātmanmahādhvāṃtavidhūnana || 92 || yadi prasanno bhagavanyadi deyo varo mama | tadā tvadbhaktiniṣṭhā ye kuṣṭhaṃ māstu tadanvaye || 93 ||",
+    "english": "91-94. On hearing these words of the Sun-god, Vimala bowed down in prostration on the ground, with hairs standing on end due to exhilaration. He submitted to the Sun-god having monowheeled chariot: “O eye of the universe, O incomprehensible soul, O dispeller of great darkness, if the holy Lord is pleased, if a boon may be granted to me, then let there be no leprosy in the whole family of those who are steadfast in devotion unto you. O Thousand-rayed One, let there not be other ailments too; let there be no poverty and let there be no distress unto your devotees.”",
+    "morphology": "ākarṇya_ākarṇay_Co vimalaḥ_vimala_SNM ca_ca_ ittham_ittham_ ālāpam_ālāpa_SAM raśmimālinaḥ_raśmimālin_SGM  / praṇataḥ_praṇam_SNPaM daṃḍa_daṃḍa_Cp vat_vat_ bhūmau_bhūmi_SLF saṃprahaṣṭa_saṃprahas_PaCp tanūruhaḥ_tan"
+  },
+  {
+    "index": 31340,
+    "sanskrit": "sarveṣām dhārtarāṣṭrāṇām aham mṛtyuḥ suyodhana sarveṣām rāja putrāṇām abhimanyuḥ asaṃśayam karmaṇā toṣayiṣyāmi bhūyas ca eva vacaḥ śṛṇu",
+    "english": "Without doubt, O Suyodhana, I am the destroyer of all the sons of Dhritarashtra, as Abhimanyu is of all the (younger) princes! I shall by my deeds, gratify you all! Hearken once more to me.",
+    "morphology": "sarveṣām_sarva_PGM dhārtarāṣṭrāṇām_dhārtarāṣṭra_PGM aham_mad_SN mṛtyuḥ_mṛtyu_SNM suyodhana_suyodhana_SVM sarveṣām_sarva_PGM rāja_rājan_MCp putrāṇām_putra_PGM abhimanyuḥ_abhimanyu_SNM asaṃśayam_asaṃśayam_U karmaṇ"
+  },
+  {
+    "index": 31341,
+    "sanskrit": "iti /",
+    "english": "We sayno.",
+    "morphology": "iti_"
+  },
+  {
+    "index": 31342,
+    "sanskrit": "ekadā revatam bhaktaṃ premānanda samākulamprekṣya svam darśanam dattvā harir aśru mukho 'bhavat",
+    "english": "One day Lord Kṛṣṇa appeared before King Revata. Seeing that His devotee Revata was filled with the bliss of spiritual love, Lord Kṛṣṇa shed tears that glided down His face.",
+    "morphology": "ekadā_ekadā_"
+  },
+  {
+    "index": 31343,
+    "sanskrit": "iyaṃ svacchandamṛtyurme nīrogā'stu tanuściram / gāruḍena ca vegena saṃyutā vyomagāminī //",
+    "english": "Strengthen and immortalize this body of mine, and make it mount upon the regions of sky, with the velocity of the bird of heaven.",
+    "morphology": "iyam_idam_SNF svacchanda_svacchanda_Cp mṛtyuḥ_mṛtyu_SNM me_mad_SG nīrogā_nīroga_SNF astu_as_SPr3Im tanuḥ_tanu_SNF ciram_ciram_  / gāruḍena_gāruḍa_SIM ca_ca_ vegena_vega_SIM saṃyutā_saṃyuta_SNF vyoma_vyoman_Cp gāminī_gāmin_SNF  /"
+  }
+]

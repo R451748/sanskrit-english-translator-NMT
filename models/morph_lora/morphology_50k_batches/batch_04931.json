@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39440,
+    "sanskrit": "tapaḥ ratāḥ ca munayaḥ yeṣām lokāḥ sanātanāḥ",
+    "english": "Many sages are seen by devotion to penances to have acquired eternal regions of bliss.",
+    "morphology": "tapaḥ_tapas_SINe ratāḥ_ram_PNPaPsM ca_ca_U munayaḥ_muni_PNM yeṣām_yad_PGM lokāḥ_loka_PNM"
+  },
+  {
+    "index": 39441,
+    "sanskrit": "cekitānaḥ tatas khaḍgam kośāt uddhṛtya bhārata lāghavam param āsthāya gautamam samupādravat",
+    "english": "Then Chekitana, O Bharata, drawing his sabre from the sheath, rushed with great speed towards Gautama.",
+    "morphology": "cekitānaḥ_cekitāna_SNM tatas_tatas_U khaḍgam_khaḍga_SAM kośāt_kośa_SBM uddhṛtya_uddhṛ_Co bhārata_bhārata_SVM lāghavam_lāghava_SANe param_para_SANe āsthāya_āsthā_Co gautamam_gautama_SAM samupādravat_samupadru_SPs3In"
+  },
+  {
+    "index": 39442,
+    "sanskrit": "brahmaiva satya śubhamaṃgala lokanātha vyomāṃgaṇeśa munisaṃstuta viśvamūrte | ārtasya śokahara kiṃkarapālakaśca tvaṃ me prasīda bhagavañcharaṇāgatasya || 84 ||",
+    "english": "84. You are Brahman itself, the reality, the auspicious splendour, the Lord of the worlds, the Lord of the courtyard of the firmament, eulogized by the sages, the omniformed one (or whose body is the universe). You are the destroyer of the sorrow of the distressed, the protector of the servants. O Lord, be pleased with me. I have sought refuge in you.",
+    "morphology": "brahmā_brahman_SNM eva_eva_ satya_satya_SVM śubha_śubha_Cp maṃgala_maṅgala_SVM lokanātha_lokanātha_SVM vyoma_vyoman_Cp aṃgaṇa_aṅgaṇa_Cp īśa_īśa_SVM muni_muni_Cp saṃstuta_saṃstu_SVPaM viśvamūrte_viśvamūrti_SVM  / ārtasya_ārta_"
+  },
+  {
+    "index": 39443,
+    "sanskrit": "uktametannatūktaṃ dravyāntaramiti /",
+    "english": "By expressing itself in this way, the Sūtra does not teach the existence of a thing in and of itself called ṣabhágatā.",
+    "morphology": "uktam_vac_SNPaNe etat_etad_SNNe na_na_ tu_tu_ uktam_vac_SNPaNe dravya_dravya_Cp antaram_antara_SNNe iti_iti_"
+  },
+  {
+    "index": 39444,
+    "sanskrit": "tasyābhāve sa cetkiṃ hi mater asyā nibandhanam / na viśeṣamatir dṛṣṭā nimittāntaravarjitā // ihabuddhyaviśeṣāc ca yogavan na vibhidyate /",
+    "english": "“If there were no such thing (as inherence), what would be the basis of the said notion? no particular notion is found to appear without a particular cause. inasmuch as the same notion of ‘subsisting herein’ is equally present in all cases, inherence does not vary, like conjunction.",
+    "morphology": "tasya_tad_SGM abhāve_abhāva_SLM sa_tad_SNM ced_ced_ kim_ka_SNNe hi_hi_ mateḥ_mati_SGF asyāḥ_idam_SGF nibandhanam_nibandhana_SNNe  / na_na_ viśeṣa_viśeṣa_Cp matiḥ_mati_SNF dṛṣṭā_dṛś_SNPaF nimitta_nimitta_Cp antara_antara_Cp varjitā"
+  },
+  {
+    "index": 39445,
+    "sanskrit": "etacchrutvā śubhaṃ vākyaṃ devānāṃ parameśvaraḥ | kāmayāna umāṃ devīṃ sasmāra manasā smaram || 7 ||",
+    "english": "7-15. On hearing these splendid words of the Devas, Parameśvara who was enamoured of Goddess Umā mentally recollected Smara (god of Love).",
+    "morphology": "etat_etad_SANe śrutvā_śru_Co śubham_śubha_SANe vākyam_vākya_SANe devānām_deva_PGM parameśvaraḥ_parameśvara_SNM  / kāmayānaḥ_kāmay_SNPaPrM umām_umā_SAF devīm_devī_SAF sasmāra_smṛ_SPs3In manasā_manas_SINe smaram_smara_SAM"
+  },
+  {
+    "index": 39446,
+    "sanskrit": "a śocan a prahṛṣyan ca nityam vigata matsaraḥ",
+    "english": "Such a man never grieves, never rejoices, and is free from envy (at seeing another possessing a larger share of earthly objects).",
+    "morphology": "a_a_U śocan_śuc_SNPaPrM a_a_U prahṛṣyan_prahṛṣ_SNPaPrM ca_ca_U nityam_nityam_U"
+  },
+  {
+    "index": 39447,
+    "sanskrit": "nārāyaṇaḥ naraḥ ca eva sattvam ekam dvidhā kṛtam",
+    "english": "Indeed, they are one Soul born in twain.",
+    "morphology": "nārāyaṇaḥ_nārāyaṇa_SNM naraḥ_nara_SNM ca_ca_U eva_eva_U"
+  }
+]

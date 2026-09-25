@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8856,
+    "sanskrit": "carasi jñātiṣu sadā biḍālaḥ mūṣikeṣu iva",
+    "english": "Thou behavest towards thy kinsmen after the manner of the cat (in the story) towards the mice.",
+    "morphology": "carasi_car_SPr2In jñātiṣu_jñāti_PLM sadā_sadā_U biḍālaḥ_biḍāla_SNM mūṣikeṣu_mūṣika_PLM iva_iva_U"
+  },
+  {
+    "index": 8857,
+    "sanskrit": "deśasthatarāṇi buddhānāṃ lakṣaṇāni / uttaptatarāṇi saṃpūrṇatarāṇi cetyeṣa teṣāṃ viśeṣaḥ /",
+    "english": "But the marks of the Buddha outweigh those of the Kings in that they are better placed, more brilliant, and complete.",
+    "morphology": "deśasthatarāṇi_deśasthatara_PNNe buddhānām_buddha_PGM lakṣaṇāni_lakṣaṇa_PNNe  / uttaptatarāṇi_uttaptatara_PNNe saṃpūrṇatarāṇi_saṃpūrṇatara_PNNe ca_ca_ iti_iti_ eṣa_etad_SNM teṣām_tad_PGNe viśeṣaḥ_viśeṣa_SNM  /"
+  },
+  {
+    "index": 8858,
+    "sanskrit": "pañcāyatamadhye tu vāsudevaṃ niveśayet //",
+    "english": "Image of Vāsudeva should be placed at the middle of the five divine edifices.",
+    "morphology": "pañcāyata_pañcāyata_Cp madhye_madhye_ tu_tu_ vāsudevam_vāsudeva_SAM niveśayet_niveśay_SPr3O  /"
+  },
+  {
+    "index": 8859,
+    "sanskrit": "adahat bhīmasenaḥ tu helayā bāṇa vahninā parivavruḥ raṇe bhīmam kirantaḥ viśikhān śitān",
+    "english": "Upon the fall of that (Kuru) hero, his followers encompassed Bhima in that battle, shooting showers of whetted arrows at him.",
+    "morphology": "adahat_dah_SPs3In bhīmasenaḥ_bhīmasena_SNM tu_tu_U helayā_helā_SIF bāṇa_bāṇa_MCp vahninā_vahni_SIM parivavruḥ_parivṛ_PPs3In raṇe_raṇa_SLM bhīmam_bhīma_SAM kirantaḥ_kṛ_PNPaPrM viśikhān_viśikha_PAM śitān_śā_PAPaPsM"
+  },
+  {
+    "index": 8860,
+    "sanskrit": "tatra manuṣyamāraṇadaṇḍaḥ sa vijñeyaḥ /",
+    "english": "In that case the penalty shall be the same as that for \"manslaughter\".",
+    "morphology": "tatra_tatra_ manuṣya_manuṣya_Cp māraṇa_māraṇa_Cp daṇḍaḥ_daṇḍa_SNM sa_tad_SNM vijñeyaḥ_vijñā_SNMGd  /"
+  },
+  {
+    "index": 8861,
+    "sanskrit": "vicārayetsadyaḥ eva kālo 'nyatrecchayā smṛtaḥ /",
+    "english": "It has been said that in other cases, they may be put off to a different time optionally.",
+    "morphology": "vicārayet_vicāray_SPr3O sadyas_sadyas_ eva_eva_ kālaḥ_kāla_SNM anyatra_ icchayā_icchā_SIF smṛtaḥ_SNPaM  /"
+  },
+  {
+    "index": 8862,
+    "sanskrit": "*ṣaṣṭhe 'ṣṭame vā māsi sīmantonnayanam [paṣṭhe] //",
+    "english": "The Sîmantonnayana (ceremony of parting the hair) should take place in the sixth or eighth month (of pregnancy).",
+    "morphology": "ṣaṣṭhe_ṣaṣṭha_SLM aṣṭame_aṣṭama_SLM vā_vā_ māsi_mās_SLM sīmantonnayanam_sīmantonnayana_SNNe paṣṭhe_paṣṭha_SLM  /"
+  },
+  {
+    "index": 8863,
+    "sanskrit": "prāṇabandhanaṃ hi somya mana iti //",
+    "english": "because, my boy, the Mind is fastened to the Lifebreath’",
+    "morphology": "prāṇa_prāṇa_Cp bandhanam_bandhana_SNNe hi_hi_ somya_somya_SVM manaḥ_manas_SNNe iti_iti_  /"
+  }
+]

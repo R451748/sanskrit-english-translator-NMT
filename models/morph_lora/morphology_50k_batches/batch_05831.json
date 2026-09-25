@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46640,
+    "sanskrit": "vittaṃ ca kriyā mānuṣe /",
+    "english": "And it is only in regard to \"Human exertion\" that \"action is possible\".",
+    "morphology": "vittam_vitta_SNNe ca_ca_ kriyā_kriyā_SNF mānuṣe_mānuṣa_SLM"
+  },
+  {
+    "index": 46641,
+    "sanskrit": "saṃstūya pṛthivīm devīm vāsudevaḥ pratāpavān papraccha bharata śreṣṭha yat etat pṛcchase adya mām vāsudevaḥ uvāca",
+    "english": "O excellent prince of Bharata's race, after hymning the praises of the goddess Earth, questioned her about this very topic that thou hast enquired about.' \"Vasudeva said, 'Having adopted the state of a householder, what acts should I, or one like me, perform and how are such acts to fructify in good?'\" \"The goddess Earth said, 'O Madhava, the Rishis, the deities, the Pitris, and men should be worshipped, and sacrifices should be performed, by a householder.",
+    "morphology": "saṃstūya_saṃstu_Co pṛthivīm_pṛthivī_SAF devīm_devī_SAF vāsudevaḥ_vāsudeva_SNM pratāpavān_pratāpavat_SNM papraccha_pracch_SPs3In bharata_bharata_MCp śreṣṭha_śreṣṭha_SVM yat_yad_SANe etat_etad_SANe pṛcchase_pracch_SPr2In adya_"
+  },
+  {
+    "index": 46642,
+    "sanskrit": "rudrāḥ ca viśve marutām gaṇāḥ ca sṛṣṭāḥ purā ādidevena devā kṣātre dharme vartayante ca siddhāḥ",
+    "english": "Those kings, mindful of the declarations of the scriptures enforced by examples, waited in days of old upon Narayana, after having weighed each of their acts against the duties of each of the modes of life.[201] Those deities, viz., the Sadhyas, the Vasus, the Aswins, the Rudras, the Viswas, the Maruts, and the Siddhas, created in days of old by the first of gods, are all observant of Kshatriya duties.",
+    "morphology": "rudrāḥ_rudra_PNM ca_ca_U viśve_viśva_PNM marutām_marut_PGM gaṇāḥ_gaṇa_PNM ca_ca_U sṛṣṭāḥ_sṛj_PNPaPsM purā_purā_U ādidevena_ādideva_SIM devā_deva_PVM kṣātre_kṣātra_SLM dharme_dharma_SLM vartayante_vartay_PPr3In ca_ca_U sid"
+  },
+  {
+    "index": 46643,
+    "sanskrit": "śiśum jajñānam harim mr̥janti pavitre somam devebhyaḥ indum",
+    "english": "They deck the Gold-hued Infant, newlyborn, even Soma, Indu, in the sieve for Gods.",
+    "morphology": "śiśum_śiśu_SAM jajñānam_jan_SAPaPsM harim_hari_SAM mr̥janti_mr̥j_PPr3In pavitre_pavitra_SLNe somam_soma_SAM devebhyaḥ_deva_PDM indum_indu_SAM"
+  },
+  {
+    "index": 46644,
+    "sanskrit": "graharogādimāyārtiśamanī sarvasiddhikṛt // rudrākṣakaṭakaṃ dhāryaṃ viṣamaṃ susamaṃ dṛḍam /",
+    "english": "It would remedy all afflictions due to planets, diseases and incantations and accomplish all things. One should wear a garland of rosary beads even or uneven in number and firm.",
+    "morphology": "__graha_U __roga_U __ādi_U __māyā_U __ārti_U __śamana_U __sarva_U __siddhi_U __kṛt_U  // __rudrākṣa_U __kaṭaka_U __dhāray_GdU __viṣama_U __su_U __sama_U __dṛḍha_U  /"
+  },
+  {
+    "index": 46645,
+    "sanskrit": "sapakṣaparvatākāradānavādrigamāgamaiḥ / vahacchavaśavāśabdabhūribhāṅkārabhīṣaṇam //",
+    "english": "The demons flew in the air like winged mountains, moving around the sky; and making a whizzing rustle that was dreadful to hear.",
+    "morphology": "sa_sa_ pakṣa_pakṣa_Cp parvata_parvata_Cp ākāra_ākāra_Cp dānava_dānava_Cp adri_adri_Cp gama_gama_Cp āgamaiḥ_āgama_PIM  / vahat_vah_PaPrCp śava_śava_Cp śava_śava_Cp āśabda_āśabda_Cp bhūri_bhūri_Cp bhāṅkāra_bhāṅkāra_Cp bhīṣa"
+  },
+  {
+    "index": 46646,
+    "sanskrit": "suptam mamarda sahasā ceṣṭamānam mahī tale",
+    "english": "And the elephants all of a sudden, began to crush the men lying insensible on the ground.",
+    "morphology": "suptam_svap_SAPaPsM mamarda_mṛd_SPs3In sahasā_sahasā_U ceṣṭamānā_cār_SNPaPrM"
+  },
+  {
+    "index": 46647,
+    "sanskrit": "vyasanānāṃ tantradaurbalyāt iti // guṇataḥ śabdaniṣpattir nirvacanam //",
+    "english": "Hence, among evil propensities, gambling is the worst evil, since it renders the king powerless for activity Stating the derivative sense of a word, is derivation;",
+    "morphology": "vyasanānām_vyasana_PGNe tantra_tantra_Cp daurbalyāt_daurbalya_SBNe iti_iti_  // guṇataḥ_guṇa_SBM śabda_śabda_Cp niṣpattiḥ_niṣpatti_SNF nirvacanam_nirvacana_SNNe  /"
+  }
+]

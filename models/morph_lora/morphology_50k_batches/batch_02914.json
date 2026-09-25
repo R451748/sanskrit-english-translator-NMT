@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23304,
+    "sanskrit": "vaktāraḥ kartṛbhiḥ tulyāḥ tad apekṣā ca māna tā | vedānām tad kṛta ākhyānāt artha pratyaya janmataḥ ||",
+    "english": "The expounders stand on the same footing as the composers; and dependent upon them is the reliability of the Vedas; because the knowledge of the meaning of the Vedas is derived from the explanations provided by the said expounders",
+    "morphology": "vaktāraḥ_vaktṛ_PNM kartṛbhiḥ_kartṛ_PIM tulyāḥ_tulya_PNM tad_tad_Cp apekṣā_apekṣā_SNF ca_ca_U māna_māna_MCp tā_tā_SNF  / vedānām_veda_PGM tad_tad_Cp kṛta_kṛ_PaPsCp ākhyānāt_ākhyāna_SBNe artha_artha_MCp pratyaya_pratyaya_MC"
+  },
+  {
+    "index": 23305,
+    "sanskrit": "āditya patha gaḥ ketuḥ tasya adbhuta manoramaḥ",
+    "english": "And Dhananjaya's standard, created at Indra's command by the celestial artificer, while moving through the skies, seemed wonderfully beautiful.",
+    "morphology": "āditya_āditya_MCp patha_patha_MCp gaḥ_ga_SNM ketuḥ"
+  },
+  {
+    "index": 23306,
+    "sanskrit": "evaṃ bruvaṃścalankrodhādādiśya daṇḍavāsinam | kāryākāryaṃ na vijñāya śūlamāropayaddvijam || 22 ||",
+    "english": "Saying thus in anger he commanded the police officer and went away. Without taking into consideration what should be done and what should not be done, he got the Brāhmaṇa impaled on the stake.",
+    "morphology": "evam_evam_ bruvan_brū_SNPaPrM calan_cal_SNPaPrM krodhāt_krodha_SBM ādiśya_ādiś_Co daṇḍavāsinam_daṇḍavāsin_SAM  / kārya_kārya_Cp akāryam_akārya_SANe na_na_ vijñāya_vijñā_Co śūlam_śūla_SANe āropayat_āropay_S3ImIn"
+  },
+  {
+    "index": 23307,
+    "sanskrit": "saṃbhavantyapyasaṃskārā bhārate'nyatra cāpi hi | dṛḍhaprāktanasaṃskārādīśecchātaḥ śubhāśubham |",
+    "english": "Absence of formation of samskāras irrespective of auspicious or inauspicious is a possibility in Bhārata as well as elsewhere owing to strong prior samskāras as also as per the wish of the Lord.",
+    "morphology": "saṃbhavanti_sambhū_PPr3In api_api_ a_a_ saṃskārāḥ_saṃskāra_PNM bhārate_bhārata_SLNe anyatra_anyatra_ ca_ca_ api_api_ hi_hi_  / dṛḍha_dṛḍha_Cp prāktana_prāktana_Cp saṃskārāt_saṃskāra_SBM īśa_īśa_Cp icchātaḥ_icchā_SBF "
+  },
+  {
+    "index": 23308,
+    "sanskrit": "tatas abhyanujñām prāpya eva stutaḥ matimatām varaḥ śivam ebhiḥ stuvan devam nāmabhiḥ puṣṭi vardhanaiḥ nitya yuktaḥ śuciḥ bhūtvā prāpnoti ātmānam ātmanā",
+    "english": "By praising with these names that enhance one's auspiciousness of the PART I great lord of blessedness, a worshipper of devoted soul and pure heart succeeds in attaining to his own self.",
+    "morphology": "tatas_tatas_U abhyanujñām_abhyanujñā_SAF prāpya_prāp_Co eva_eva_U stutaḥ_stu_SNPaPsM matimatām_matimat_PGM varaḥ_vara_SNM śivam_śiva_SAM ebhiḥ_idam_PINe stuvan_stu_SNPaPrM devam_deva_SAM nāmabhiḥ_nāman_PINe puṣṭi_puṣṭi_FCp vardha"
+  },
+  {
+    "index": 23309,
+    "sanskrit": "(pārṣṇigrāhcintā)",
+    "english": "CONSIDERATIONS ABOUT AN ENEMY IN THE REAR",
+    "morphology": ""
+  },
+  {
+    "index": 23310,
+    "sanskrit": "saḥ ūrdhvam āgamya punar samutkṣipati pāvakam",
+    "english": "Coming back to its seat in the head, it once more sends down the heat it bears.",
+    "morphology": "saḥ_tad_SNM ūrdhvam_ūrdhvam_U āgamya_āgam_Co"
+  },
+  {
+    "index": 23311,
+    "sanskrit": "sarve hi abhimukhāḥ śūrāḥ vigatāḥ raṇa śobhinaḥ",
+    "english": "All of them were heroes and ornaments of battle. They were vanquished while rushing with faces towards their foes.",
+    "morphology": "sarve_sarva_PNM hi_hi_U abhimukhāḥ_abhimukha_PNM śūrāḥ_śūra_PNM"
+  }
+]

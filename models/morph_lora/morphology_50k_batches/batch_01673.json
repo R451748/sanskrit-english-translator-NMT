@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13376,
+    "sanskrit": "sarpa kañcukavad deho 'patat karma vipākataḥ sadyas tac caraṇopante patitvā prāha daitya rāṭ",
+    "english": "From this deed his body at once fell away as a snake's old skin also falls away. The king of demons then fell at the brāhmaṇa's feet and spoke.",
+    "morphology": "sarpa_sarpa_SVM kañcuka_kañcuka_Cp vat_vat_ dehaḥ_deha_SNM apatat_pat_S3ImIn karma_karman_SNNe vipākataḥ_vipāka_SBM sadyas_sadyas_ tat_tad_SANe patitvā_pat_Co prāha_prāh_SPs3In daitya_daitya_SVM"
+  },
+  {
+    "index": 13377,
+    "sanskrit": "atra satyam ca dharmaḥ ca tvayā samyak prakīrtitaḥ",
+    "english": "Thou hast said that thither both truth and virtue reside.",
+    "morphology": "atra_atra_U satyam_satya_SNNe ca_ca_U dharmaḥ_dharma_SNM ca_ca_U tvayā_tvad_SI"
+  },
+  {
+    "index": 13378,
+    "sanskrit": "aṣṭamūrtyaṣṭakaṃ dikṣu somanāthaṃ saśaktikam | umayā sahitaṃ tatra śvetapuṣpaiśca pūjayet || 17 ||",
+    "english": "17. There Lord Somanātha along with his Śakti and accompanied by Umā is worshipped with white flowers. In the (eight) quarters the Aṣṭamūrtis are also worshipped.",
+    "morphology": "aṣṭamūrti_aṣṭamūrti_Cp aṣṭakam_aṣṭaka_SAM dikṣu_diś_PLF somanātham_somanātha_SAM sa_sa_ śaktikam_śaktika_SAM  / umayā_umā_SIF sahitam_sahita_SAM tatra_tatra_ śveta_śveta_Cp puṣpaiḥ_puṣpa_PINe ca_ca_ pūjayet_pūjay_SPr3O "
+  },
+  {
+    "index": 13379,
+    "sanskrit": "smṛtvā svakarma manasākārṣīcchokaṃ suvistaram | pratyāgacchadudāsīnā vivarṇā śivasannidhau ||",
+    "english": "41. Remembering her own action she was much distressed. She returned to Śiva, pale in face and gloomy in spirit.",
+    "morphology": "smṛtvā_smṛ_Co sva_sva_Cp karma_karman_SANe manasā_manas_SINe akārṣīt_kṛ_SPs3InFs śokam_śoka_SAM su_su_ vistaram_vistara_SAM  / pratyāgacchat_pratyāgam_S3ImIn udāsīnā_udāsīna_SNF vivarṇā_vivarṇa_SNF śiva_śiva_Cp sannidhau_saṃni"
+  },
+  {
+    "index": 13380,
+    "sanskrit": "| sūta uvāca | yadanyattatra sañjātamāścaryaṃ dvijasattamāḥ | tadahaṃ kīrtayiṣyāmi rahasyaṃ hṛdi saṃsthitam || 1 ||",
+    "english": "Sūta said: 1-7. O excellent Brāhmaṇas, I shall describe to you what another miracle happened there, which abides in my heart as a secret.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / yat_yad_SNNe anyat_anya_SNNe tatra_tatra_ sañjātam_saṃjan_SNPaNe āścaryam_āścarya_SNNe dvijasattamāḥ_dvijasattama_PVM  / tat_tad_SANe aham_mad_SN kīrtayiṣyāmi_kīrtay_SFu1In rahasyam_rahasya_SANe hṛd"
+  },
+  {
+    "index": 13381,
+    "sanskrit": "kim etad iti saṃbhrānte jane tatrotsavojjhite / tam upāgād drutaṃ buddhvā sa prajñāsāgaraḥ pitā //",
+    "english": "The people who were there ceased from their rejoicing, and in their bewilderment asked what it meant, and his father, Prajñāsāgara, hearing of it, came to him in haste.",
+    "morphology": "kim_ka_SNNe etat_etad_SNNe iti_iti_ saṃbhrānte_sambhram_SLPaM jane_jana_SLM tatra_tatra_ utsava_utsava_Cp ujjhite_ujjhita_SLM  / tam_tad_SAM upāgāt_upagā_SPs3In drutam_dru_SAPaM buddhvā_budh_Co sa_tad_SNM prajñā_prajñā_Cp sāgaraḥ_sāgara_SNM "
+  },
+  {
+    "index": 13382,
+    "sanskrit": "mune tathaiva tiṣṭhāmi kṛpaṇaḥ kiṃ karomyaham //'",
+    "english": "I, being completely powerless, have to comply' .",
+    "morphology": "mune_muni_SVM tathā_tathā_ eva_eva_ tiṣṭhāmi_sthā_SPr1In kṛpaṇaḥ_kṛpaṇa_SNM kim_ka_SANe karomi_kṛ_SPr1In aham_mad_SN  /"
+  },
+  {
+    "index": 13383,
+    "sanskrit": "jalaukasaḥ pitta kṛte hitāḥ tu kṣīra udakābhyām paribecanam ca||",
+    "english": "In a case of the Pittaja type of the disease, leeches should be applied to the affected part, which should be further affused with milk and water.",
+    "morphology": "jalaukasaḥ_jalaukas_PNM pitta_pitta_NeCp kṛte_kṛ_SLPaPsNe hitāḥ_hita_PNM tu_tu_U kṣīra_kṣīra_NeCp udakābhyām_udaka_DuINe paribecanam_paribecana_SNNe ca_ca_U"
+  }
+]

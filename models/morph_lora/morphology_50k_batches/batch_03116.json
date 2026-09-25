@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24920,
+    "sanskrit": "iyam eva hy eṣām iyatkālasya prāpakam /",
+    "english": "This present text itself serves to indicate the time mentioned as applying to those castes.",
+    "morphology": "iyam_idam_SNF eva_eva_ hi_hi_ eṣām_idam_PGM"
+  },
+  {
+    "index": 24921,
+    "sanskrit": "iti suśrutasaṃhitāyām sūtrasthāne rasaviśeṣavijñānīyaḥ nāma dvācatravāriṃśattamaḥ adhyāyaḥ || tricatvāriṃśattamaḥ adhyāyaḥ |",
+    "english": "Thus ends the forty-second Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the specific properties of flavours.",
+    "morphology": "iti_iti_U suśrutasaṃhitāyām_suśrutasaṃhitā_SLF sūtrasthāne_sūtrasthāna_SLNe rasaviśeṣavijñānīyaḥ_rasaviśeṣavijñānīya_SNM nāma_nāma_U dvācatravāriṃśattamaḥ_dvācatravāriṃśattama_SNM adhyāyaḥ_adhyāya_SNM  / tricatv"
+  },
+  {
+    "index": 24922,
+    "sanskrit": "nirgamya candra udayane vigāḍhe rajanīmukhe",
+    "english": "And when the twilight had deepened and the moon was up, that Apsara of high hips sent out for the mansions of Arjuna.",
+    "morphology": "nirgamya_nirgam_Co candraḥ_candra_SNM udayane_udayana_SLNe vigāḍhe_vigāh_SLPaNe rajanī_rajanī_Cp mukhe_mukha_SLNe"
+  },
+  {
+    "index": 24923,
+    "sanskrit": "sugatatvasya /",
+    "english": "‘Tasya’ of Buddha-hood.",
+    "morphology": "__U"
+  },
+  {
+    "index": 24924,
+    "sanskrit": "anāhatāḥ dundubhayaḥ ca nedire tathā prasannāḥ ca diśaḥ cakāśire",
+    "english": "The celestial kettle-drums, though struck by none, began to beat, and all the points of the horizon, becoming clear, seemed ablaze with splendour.",
+    "morphology": "anāhatāḥ_anāhata_PNF"
+  },
+  {
+    "index": 24925,
+    "sanskrit": "ahaṃ brahma paraṃ jyotirjihvāghrāṇavivarjitaṃ / ahaṃ brahma paraṃ jyotiḥ sparśaśabdavivarjitaṃ //",
+    "english": "am Brahman, the Supreme Light without tongue and nose. am Brahman, the Supreme Effulgence bereft of touch and sound.",
+    "morphology": "aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe jihvā_jihvā_Cp ghrāṇa_ghrāṇa_Cp vivarjitam_vivarjay_SNPaNe  / aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe  /"
+  },
+  {
+    "index": 24926,
+    "sanskrit": "śatruṃ vā mitrabhūmilipsāyāṃ pratipannaṃ daṇḍenaanugṛhṇīyāt //",
+    "english": "When the enemy is desirous of taking possession of the territory of the conquerors friend, then the conqueror may, under the pretence of compliance, supply the enemy with army",
+    "morphology": "śatrum_śatru_SAM vā_vā_ mitra_mitra_Cp bhūmi_bhūmi_Cp lipsāyām_lipsā_SLF pratipannam_pratipad_SAPaM daṇḍena_daṇḍa_SIM anugṛhṇīyāt_anugrah_SPr3O"
+  },
+  {
+    "index": 24927,
+    "sanskrit": "ayaṃ vai loko gārhapatyaḥ pratiṣṭhā vai gārhapatya iyamu vai pratiṣṭhāthaitadapathamivaiti yadetāṃ diśameti tadyadupatiṣṭhata imāmevaitatpratiṣṭhāmabhipratyaityasyāmevaitatpratiṣṭhāyām pratitiṣṭhati //",
+    "english": "The Gârhapatya (hearth) is this (terrestrial) world; for the Gârhapatya is a foundation, and the foundation doubtless is this (earth). Now when he goes into that direction, he goes where there is no path; and when he stands by (the fire), he thereby returns to this (earth), the foundation, and establishes himself upon this foundation.",
+    "morphology": "ayam_idam_SNM vai_vai_ lokaḥ_loka_SNM gārhapatyaḥ_gārhapatya_SNM pratiṣṭhā_pratiṣṭhā_SNF vai_vai_ gārhapatyaḥ_gārhapatya_SNM iyam_idam_SNF u_u_ vai_vai_ pratiṣṭhā_pratiṣṭhā_SNF atha_atha_ etat_etad_SANe apatham_apatha_SANe iva"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29048,
+    "sanskrit": "abravīt sarva bhūta īśaḥ tat tathā na tat anyathā",
+    "english": "What that adorable Lord of all creatures hath said must become true.",
+    "morphology": "abravīt_brū_SPs3In sarva_sarva_Cp bhūta_bhūta_NeCp īśaḥ_īśa_SNM tat_tad_SNNe tathā_tathā_U"
+  },
+  {
+    "index": 29049,
+    "sanskrit": "tat hi vayam vr̥ṇīmahe varuṇa mitra aryaman yena niḥ aṁhasaḥ yūyam pātha netha ca martyam ati dviṣaḥ",
+    "english": "This very thing do we desire, Varuṇa, Mitra, Aryaman, Whereby ye guhrd the mortal man from sore distress, and lead him safe beyond his foes.",
+    "morphology": "tat_tad_SANe hi_hi_U vayam_mad_PN vr̥ṇīmahe_vṛ_PPr1In varuṇa_varuṇa_SVM mitra_mitra_SVM aryaman_aryaman_SVM yena_yad_SINe niḥ_niḥ_U aṃhasaḥ_aṃhas_PNF yūyam_tvad_PN pātha_pā_PPr2In netha_nī_PPr2In ca_ca_U martyam_martya_SAM ati_ati_U"
+  },
+  {
+    "index": 29050,
+    "sanskrit": "tasmāt śrāddheṣu idam vipraḥ bhuñjataḥ śrāvayet dvijān",
+    "english": "Hence, on occasions of Sraddhas, the man of learning should recite these verses on the subject of the merits that attach to gifts of earth, in the presence and hearing of the invited Brahmanas when engaged in eating.",
+    "morphology": "tasmāt_tasmāt_U śrāddheṣu_śrāddha_PLNe idam_idam_SANe vipraḥ_vipra_SNM bhuñjataḥ_bhuj_PAPaPrM"
+  },
+  {
+    "index": 29051,
+    "sanskrit": "viśvaksenasya cakrasya kṣetrapālasya darśayet /",
+    "english": "Then the three mudrās of the Viṣvaksena Viṣṇu, the disc and the Kṣetrapāla should be shown.",
+    "morphology": "viśvaksenasya_viśvaksena_SGM cakrasya_cakra_SGNe kṣetrapālasya_kṣetrapāla_SGM darśayet_darśay_SPr3O"
+  },
+  {
+    "index": 29052,
+    "sanskrit": "tat ca sarvam yathāvṛttam anusasmāra pāṇḍavaḥ",
+    "english": "And thereupon the son of Pandu recollected all those circumstances exactly as they happened.",
+    "morphology": "tat_tad_SANe ca_ca_U sarvam_sarva_SANe yathāvṛttam_yathāvṛttam_SANe ḥ_ḥ_PAF"
+  },
+  {
+    "index": 29053,
+    "sanskrit": "viprasthāne pradīpte vā praviṣṭe nirjaneapi vā / vastraābharaṇamālyānāṃ phelābhiḥ śayanaāsanaiḥ //",
+    "english": "Or in an assembly of Bráhmans, or whenever he may go in person to see the outbreak of fire, or when, he is in a lonely place, or when he is putting on dress or ornaments, or garlands of flower, or when he is lying in his bed or sitting on a seat;",
+    "morphology": "vipra_vipra_Cp sthāne_sthāna_SLNe pradīpte_pradīp_SLPaNe vā_vā_ praviṣṭe_praviś_SLPaNe nirjane_nirjana_SLNe api_api_ vā_vā_  / vastra_vastra_Cp ābharaṇa_ābharaṇa_Cp mālyānām_mālya_PGNe phelābhiḥ_phelā_PIF śayana_śayana_Cp āsan"
+  },
+  {
+    "index": 29054,
+    "sanskrit": "bāhubhiḥ samasajjetām āyasaiḥ parighaiḥ iva",
+    "english": "And they began to fight with their bare arms in this way, which were like spiked maces of iron.",
+    "morphology": "bāhubhiḥ_bāhu_PIM samasajjetām_saṃsañj_DuPs3In"
+  },
+  {
+    "index": 29055,
+    "sanskrit": "pathyām sitām āmalakāni lājām sa māgadhīm ca api vicūrṇya śuṇṭhīm sarpiḥ madhubhyām vilihīta kāsī sa saindhavām vā uṣṇa jalena kṛṣṇām",
+    "english": "A patient afflicted with cough should use a lambative composed of Pathya, sugar, Amalaka, fried paddy, Magadhi, and Shunthi pounded together and mixed with honey and clarified butter, or take Krishna and Saindhava salt with warm water.",
+    "morphology": "pathyām_pathyā_SAF sitām_sitā_SAF āmalakāni_āmalaka_PANe lājām_lāja_SAF sa_sa_U māgadhīm_māgadhī_SAF ca_ca_U api_api_U vicūrṇya_vicūrṇay_Co śuṇṭhīm_śuṇṭhī_SAF sarpiḥ_sarpis_NeCp madhubhyām_madhu_DuINe vilihīta_vilih_SPr3"
+  }
+]

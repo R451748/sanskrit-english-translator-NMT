@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5840,
+    "sanskrit": "brahmacārī purā bhūtvā na sma dārān sa vindati //",
+    "english": "He always observed the vow of celibacy; and although he had a wife he did not know her.",
+    "morphology": "brahmacārī_brahmacārin_SNM purā_purā_U bhūtvā_bhū_Co na_na_U sma_sma_U dārān_dāra_PAM sa_tad_SNM vindati_vid_SPr3In  /"
+  },
+  {
+    "index": 5841,
+    "sanskrit": "tāmbūlaṃ taijasampātraṃ retassekaṃ sitāṃbaram | divāsvāpo hi naktānnaṃ yatīnāṃ ṣaḍvivarjitāḥ ||",
+    "english": "34. Six things are forbidden to the ascetics: chewing the betel, using the metallic vessel, emission of semen, white cloth, sleeping during the day and taking meal at night.",
+    "morphology": "tāmbūlam_tāmbūla_SANe taijasam_taijasa_SANe pātram_pātra_SANe retaḥ_retas_Cp sekam_seka_SAM sita_sita_Cp aṃbaram_ambara_SANe  / divāsvāpaḥ_divāsvāpa_SNM hi_hi_ nakta_nakta_Cp annam_anna_SNNe yatīnām_yati_PGM ṣaṣ_ṣaṣ_Cp vivarjitā"
+  },
+  {
+    "index": 5842,
+    "sanskrit": "asti natu prātimokṣasaṃvaraḥ / kiṃ kāraṇam /",
+    "english": "They can possess a morality, but they cannot possess the Prātimokṣa discipline. In fact, the morality that they undertake (\"I shall abstain from killing,\" etc. ), tests on an idea of existence;",
+    "morphology": "asti_as_SPr3In na_na_ tu_tu_ prātimokṣa_prātimokṣa_Cp saṃvaraḥ_saṃvara_SNM  / kim_ka_SNNe kāraṇam_kāraṇa_SNNe  /"
+  },
+  {
+    "index": 5843,
+    "sanskrit": "samyak svinne kṛmigranthau bhinne syāt pratisāraṇam triphalā tuttha kāsīsa saindhavaiḥ ca rasakriyā",
+    "english": "In a case of Krimi-granthi, the affected part should be duly fomented after it has been incised and it should then be treated with the Rasa-kriya solution prepared with (the decoction of) Triphala (with the addition of) Tuttha[2], Kasisa and Saindhava.",
+    "morphology": "samyak_samyak_U svinne_svid_SLPaPsM kṛmigranthau_kṛmigranthi_SLM bhinne_bhid_SLPaPsM syāt_as_SPr3O pratisāraṇam_pratisāraṇa_SNNe triphalā_triphalā_FCp tuttha_tuttha_MCp kāsīsa_kāsīsa_NeCp saindhavaiḥ_saindhava_PINe ca_ca_U rasakriyā_ras"
+  },
+  {
+    "index": 5844,
+    "sanskrit": "putrārthī labhate putrāndhanārthī dhanamāpnuyāt | rogārto mucyate rogādbaddho mucyeta bandhanāt || 81 ||",
+    "english": "81. One who seeks sons will get sons; one who seeks wealth will get wealth; one who is distressed due to sickness will be rid of it; and one who is in bondage will be liberated therefrom.",
+    "morphology": "putra_putra_Cp arthī_arthin_SNM labhate_labh_SPr3In putrān_putra_PAM dhana_dhana_Cp arthī_arthin_SNM dhanam_dhana_SANe āpnuyāt_āp_SPr3O  / roga_roga_Cp ārtaḥ_ārta_SNM mucyate_muc_SPr3InPv rogāt_roga_SBM baddhaḥ_bandh_SNPaM mucyeta_muc_SPr3O ba"
+  },
+  {
+    "index": 5845,
+    "sanskrit": "yajasva vividhaiḥ yajñaiḥ juhvan agnīn prayaccha ca",
+    "english": "Adore the gods in diverse sacrifices.",
+    "morphology": "yajasva_yaj_SPr2Im vividhaiḥ_vividha_PIM yajñaiḥ_yajña_PIM juhvan_hu_SNPaPrM agnīn_agni_PAM prayaccha_prayam_SPr2Im"
+  },
+  {
+    "index": 5846,
+    "sanskrit": "tādṛśena śamam kṛṣṇa manye parama duṣkaram",
+    "english": "Peace with such a one, O Krishna, is, I suppose, most difficult.",
+    "morphology": "tādṛśena_tādṛśa_SIM śamam_śama_SAM kṛṣṇa_kṛṣṇa_SVM manye_man_SPr1In parama_parama_Cp duṣkaram_duṣkara_SAM"
+  },
+  {
+    "index": 5847,
+    "sanskrit": "tasya anubandhaḥ prāptaḥ tvām putrāṇām rājya kāmukam",
+    "english": "Thou wast indifferent to those speeches then, O thou that wieldest sovereignty, unto thy sons.",
+    "morphology": "tasya_tad_SGM anubandhaḥ_anubandha_SNM prāptaḥ_prāp_SNPaPsM tvām_tvad_SA"
+  }
+]

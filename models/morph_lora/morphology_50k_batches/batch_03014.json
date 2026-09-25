@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24104,
+    "sanskrit": "na ca pākayajñe 'py abhāryasyādhikāraḥ /",
+    "english": "Nor, again, is it possible that such a fire set up for a temporary purpose should not be abandoned.",
+    "morphology": "na_na_ ca_ca_ pākayajñe_pākayajña_SLM api_api_ a_a_ bhāryasya_bhāryā_SGM"
+  },
+  {
+    "index": 24105,
+    "sanskrit": "aśaṅkitopayātena duḥkhena ca sukhena ca / tṛpyatyapagatāsaṅgo jīvena maraṇena ca //",
+    "english": "He is unapprehensive of adversity or calamity, and unaffected by feelings of pleasure and pain; he has full satiety in his privation of everything, and is unconcerned about his life and death, by remaining himself as the living dead.",
+    "morphology": "a_a_ śaṅkita_śaṅk_PaCp upayātena_upayā_SIPaNe duḥkhena_duḥkha_SINe ca_ca_ sukhena_sukha_SINe ca_ca_  / tṛpyati_tṛp_SPr3In apagata_apagam_PaCp āsaṅgaḥ_āsaṅga_SNM"
+  },
+  {
+    "index": 24106,
+    "sanskrit": "śakuniḥ tantu baddhaḥ vā niyataḥ ayam anīśvaraḥ",
+    "english": "Like a bird tied with a string, every creature is dependent on God.",
+    "morphology": "śakuniḥ_śakuni_SNM tantu_tantu_MCp baddhaḥ_bandh_SNPaPsM"
+  },
+  {
+    "index": 24107,
+    "sanskrit": "vimocayan me cittaṃ praśvasāmīti yathā-bhūtaṃ prajānāti |",
+    "english": "he knows as it really is: I am breathing out (thinking), my mind is free.",
+    "morphology": "vimocayan_vimocay_SNPaPrM me_mad_SG cittam_citta_SANe praśvasāmi_praśvas_SPr1In iti_iti_"
+  },
+  {
+    "index": 24108,
+    "sanskrit": "taraṇiritsiṣāsati vājaṃ purandhyā yujā / ā va indraṃ puruhūtaṃ name girā nemiṃ taṣṭeva sudruvam // pibā sutasya rasino matsvā na indra gomataḥ / āpirno bodhi sadhamādye vṛdhe 'smāṃ avantu te dhiyaḥ // tvaṃ hyehi cerave vidā bhagaṃ vasuttaye / udvāvṛṣasva maghavangaviṣṭaya udindrāśvamiṣṭaye //",
+    "english": "With Plenty for his true ally the active man will gain the spoil Drink, Indra, of the savoury juice, and cheer thee with our milky draught! For thoucome to the worshipper!wilt find great wealth to make us rich",
+    "morphology": "taraṇiḥ_taraṇi_SNM id_id_ siṣāsati_siṣās_SPr3In vājam_vāja_SAM purandhyā_puraṃdhi_SIF yujā_yuj_SIM  / ā_ā_ vaḥ_tvad_PD indram_indra_SAM puru_puru_Cp hūtam_hvā_SAPaM name_nam_SPr1In girā_gir_SIF nemim_nemi_SAM taṣṭā_taṣṭṛ"
+  },
+  {
+    "index": 24109,
+    "sanskrit": "ghrāṇam adhyātmam iti āhuḥ yathāśruti nidarśanam",
+    "english": "The sense of scent is Adhyatma;",
+    "morphology": "ghrāṇam_ghrāṇa_SNNe adhyātmam_adhyātma_SNNe iti_iti_U"
+  },
+  {
+    "index": 24110,
+    "sanskrit": "tau paraspara vegāt ca gadābhyām ca bhṛśa āhatau yugapad petatuḥ vīrau kṣitau indra dhvajau iva",
+    "english": "And each of those heroes, in consequence of the other's impetuosity and violence being struck with each other's mace, fell down at the same instant of time like a couple of Indra's poles.",
+    "morphology": "tau_tad_DuNM paraspara_paraspara_MCp vegāt_vega_SBM ca_ca_U gadābhyām_gadā_DuIF ca_ca_U bhṛśa_bhṛśa_Cp āhatau_āhan_DuNPaPsM yugapad_yugapad_U petatuḥ_pat_DuPs3In"
+  },
+  {
+    "index": 24111,
+    "sanskrit": "kākatālīyavaccetovāsanāvaśataḥ svataḥ / saṃvadanti mahārambhā vyavahārāḥ parasparam //",
+    "english": "It is by mere accident, that men come in possession of the objects of their desire; and it is custom that determines the mode of mutual dealings.",
+    "morphology": "kākatālīya_kākatālīya_Cp vat_vat_ cetaḥ_cetas_Cp vāsanā_vāsanā_Cp vaśataḥ_vaśa_SBM svatas_svatas_  / saṃvadanti_saṃvad_PPr3In"
+  }
+]

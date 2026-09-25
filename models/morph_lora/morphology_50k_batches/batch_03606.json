@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28840,
+    "sanskrit": "heturiṣyata iti prakṛtena sambandhaḥ /",
+    "english": "The phrase ‘held to be the Cause’ (of Text 525) is to be construed here also.",
+    "morphology": "hetuḥ_hetu_SNM iṣyate_iṣ_SPr3InPv iti_iti_"
+  },
+  {
+    "index": 28841,
+    "sanskrit": "sa hema paṭṭāḥ parighāḥ paraśvadhāḥ kaḍaṅgara ayaḥ musalāni paṭṭiśāḥ petuḥ ca khaḍgāḥ vimalāḥ vikośā",
+    "english": "Spiked maces with golden bells, battle-axes, sharp lances, heavy clubs, mallets, bright unsheathed swords, and maces covered with cloth of gold, have fallen on the field.",
+    "morphology": "sa_sa_U hema_heman_NeCp paṭṭāḥ_paṭṭa_PNM parighāḥ_parigha_PNM paraśvadhāḥ_paraśvadha_PNM kaḍaṅgara_kaḍaṅgara_MCp ayaḥ_ayas_NeCp musalāni_musala_PNNe paṭṭiśāḥ_paṭṭiśa_PNM petuḥ_pat_PPs3In ca_ca_U khaḍgāḥ_kha"
+  },
+  {
+    "index": 28842,
+    "sanskrit": "strībhir naraiś ca sānandaṃ lotanair abhivīkṣitau / jagmaturlīlayā vīrau mattau bālagajāviva //",
+    "english": "Regarded with pleasure by men and women, they went along sportively, looking like two young elephants.",
+    "morphology": "strībhiḥ_strī_PIF naraiḥ_nara_PIM ca_ca_ sa_sa_ ānandam_ānanda_SANe lotanaiḥ_lotana_PINe abhivīkṣitau_abhivīkṣ_DuNPaM  / jagmatuḥ_gam_DuPs3In līlayā_līlā_SIF vīrau_vīra_DuNM mattau_mad_DuNPaM bāla_bāla_Cp gajau_gaja_DuNM iva_iva_ "
+  },
+  {
+    "index": 28843,
+    "sanskrit": "vanaukasām gṛhapatinām anuttamam",
+    "english": "Superior to that of householders, that is the life of forest recluses,--of those, that is, who waste their bodies (by diverse kinds of austerities) into skeletons overlaid with dried skins.",
+    "morphology": "vanaukasām_vanaukas_PGM"
+  },
+  {
+    "index": 28844,
+    "sanskrit": "idaṃ tu kaṣṭaṃ yaj jantuḥ kartāham iti manyate /",
+    "english": "But pity it is that they think am the doer.",
+    "morphology": "idam_idam_SNNe tu_tu_ kaṣṭam_kaṣṭa_SNNe yat_yad_SANe jantuḥ_jantu_SNM kartāham_kṛ_SFu1InPe iti_iti_ manyate_man_SPr3In  /"
+  },
+  {
+    "index": 28845,
+    "sanskrit": "tato mayā praṇamyoccairvijñaptaḥ prapitāmahaḥ | prāṇipatya muniśreṣṭha lajjāṃ tyaktvā sudūrataḥ || 64 ||",
+    "english": "64. I gave up the feeling of shame, O excellent sage. After bowing down repeatedly, I said aloud to Prapitāmaha:",
+    "morphology": "tatas_tatas_ mayā_mad_SI praṇamya_praṇam_Co uccais_uccais_ vijñaptaḥ_vijñapay_SNPaM prapitāmahaḥ_prapitāmaha_SNM  / prāṇipatya_prāṇipat_Co muni_muni_Cp śreṣṭha_śreṣṭha_SVM lajjām_lajjā_SAF tyaktvā_tyaj_Co su_su_ dūratas_dū"
+  },
+  {
+    "index": 28846,
+    "sanskrit": "yad ekādaśakapālo bhavaty ekādaśākṣarā tṛṣṭup traiṣṭubham mādhyaṃdinaṃ savanam mādhyaṃdinam eva savanaṃ tenāpnoti |",
+    "english": "in that (the offering) is on eleven potsherds, and the Tristubh has eleven syllables, and the midday pressing is connected with the Tristubh, he obtains thereby the midday pressing.",
+    "morphology": "yat_yat_ ekādaśa_ekādaśan_Cp kapālaḥ_kapāla_SNM bhavati_bhū_SPr3In ekādaśa_ekādaśan_Cp akṣarā_akṣara_SNF tṛṣṭubh_tṛṣṭubh_SNF traiṣṭubham_traiṣṭubha_SNNe mādhyaṃdinam_mādhyaṃdina_SNNe savanam_savana_SNNe mādhya"
+  },
+  {
+    "index": 28847,
+    "sanskrit": "rātriśeṣamanudrutya vane caṃdrasamaprabham | valmīkaṃ praviśantaṃ ca dadarśa sa niṣādapaḥ || 11 ||",
+    "english": "11. During the whole of the remaining part of the night the leader of the foresters pursued the boar of lunar lustre. (Ultimately) he saw it entering an anthill.",
+    "morphology": "rātri_rātri_Cp śeṣam_śeṣa_SAM anudrutya_anudru_Co vane_vana_SLNe candra_candra_Cp sama_sama_Cp prabham_prabhā_SAM  / valmīkam_valmīka_SAM praviśantam_praviś_SAPaPrM ca_ca_ dadarśa_dṛś_SPs3In sa_tad_SNM niṣāda_niṣāda_Cp paḥ_pa_SNM"
+  }
+]

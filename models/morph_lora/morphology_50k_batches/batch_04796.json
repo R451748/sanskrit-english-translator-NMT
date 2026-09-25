@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38360,
+    "sanskrit": "tasmin hi dharmaḥ su mahān niviṣṭaḥ brahmaṇya tā ca atra tathā priya tvam",
+    "english": "In Him is righteousness in its perfection and full measure, devotion to the Brahmanas, and the quality of agreeableness.",
+    "morphology": "tasmin_tad_SLM hi_hi_U dharmaḥ_dharma_SNM su_su_U mahān_mahat_SNM niviṣṭaḥ_niviś_SNPaPsM brahmaṇya_brahmaṇya_Cp tā_tā_SNF ca_ca_U atra_atra_U"
+  },
+  {
+    "index": 38361,
+    "sanskrit": "loka dviṣṭam bahu māyam nṛśaṃsam a deśa kāla jñam aniṣṭa veṣam etān gṛhe na prativāsayīta",
+    "english": "One should not give shelter to these in his house, viz., one that always acteth improperly, one that eateth too much, one that is hated by all, one that is exceedingly deceitful, one that is cruel, one that is ignorant of the proprieties of time and place, and one that dresseth indecently.",
+    "morphology": "loka_loka_MCp dviṣṭam_dviṣ_SAPaPsM bahu_bahu_Cp māyam_māyā_SAM nṛśaṃsam_nṛśaṃsa_SAM a_a_U deśa_deśa_MCp kāla_kāla_MCp jñam_jña_SAM aniṣṭa_aniṣṭa_Cp veṣam_veṣa_SAM ṇā_ṇā_SIM"
+  },
+  {
+    "index": 38362,
+    "sanskrit": "aṇvaśmavṛkṣā hrasvalaṅghanīyaśvabhrā mandadaraṇadoṣā caaśvabhūmiḥ // sthūlasthāṇv aśmavṛkṣavratatīvalmīkagulmā padātibhūmiḥ // gamyaśailanimnaviṣamā mardanīyavṛkṣā chedanīyavratatī paṅkabhaṅgurā daraṇahīnā ca hastibhūmiḥ //",
+    "english": "That which contains small stones, trees and pits that can be jumped over and which is almost free from thorns is the ground for horses That which contains big stones, dry or green trees, and anthills is the ground for the infantry That which is uneven with assailable hills and valleys, which has trees that can be pulled down and plants that can be torn, and which is full of muddy soil free from thorns is the ground for elephants",
+    "morphology": "aṇu_aṇu_Cp aśmavṛkṣā_aśmavṛkṣa_SNF hrasva_hrasva_Cp laṅghanīya_laṅgh_GdCp śvabhrā_śvabhra_SNF manda_manda_Cp daraṇa_daraṇa_Cp doṣā_doṣa_SNF ca_ca_ aśva_aśva_Cp bhūmiḥ_bhūmi_SNF  // sthūla_sthūla_Cp sthāṇu_sthāṇ"
+  },
+  {
+    "index": 38363,
+    "sanskrit": "madhye vyūhasya sākṣāt tu pāṇḍavaḥ kṛṣṇasārathiḥ",
+    "english": "In the middle of the array were the king and Dhananjaya the son of Pandu.",
+    "morphology": "madhye_madhya_SLNe vyūhasya_vyūha_SGM sākṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣṭṛṣ"
+  },
+  {
+    "index": 38364,
+    "sanskrit": "nityam ugra tapāḥ tvam hi tatas pṛcchāmi te punar",
+    "english": "Thou art always observant of the austerest penances.",
+    "morphology": "nityam_nityam_U ugra_ugra_SVM tapāḥ_tapas_SNM"
+  },
+  {
+    "index": 38365,
+    "sanskrit": "tasya sthānāni dṛṣṭāni trividhāni iha śāstrataḥ",
+    "english": "It is seen that Jiva has three regions assigned to him eternally.",
+    "morphology": "tasya_tad_SGM sthānāni_sthāna_PNNe dṛṣṭāni_dṛś_PNPaPsNe"
+  },
+  {
+    "index": 38366,
+    "sanskrit": "apāṃ pṛṣṭham asi yonir agneḥ samudram abhitaḥ pinvamānam / vardhamāno mahām̐ ā ca puṣkare divo mātrayā varimṇā prathasva //",
+    "english": "Thou art the waters’ back, the womb of Agni, around the ocean as it swells and surges. Waxing to greatness, resting on the lotus, spread forth in amplitude with heaven's own measure. 3",
+    "morphology": "apām_ap_PGF pṛṣṭham_pṛṣṭha_SNNe asi_as_SPr2In yoniḥ_yoni_SNF agneḥ_agni_SGM samudram_samudra_SAM abhitas_abhitas_ pinvamānam_pinv_SAPaPrM  / vardhamānaḥ_vṛdh_SNPaPrM mahān_mahat_SNM ā_ā_ ca_ca_ puṣkare_puṣkara_SLNe divaḥ_div"
+  },
+  {
+    "index": 38367,
+    "sanskrit": "na samudāye pratyekaṃ vākyaparisamāptiḥ samudāye vā, arthāntare tu sthātuṃ labhyante /",
+    "english": "Thus then, the sentence cannot be taken either as referring to each of the animals severally, or as referring to all of them together; nor is there any third way possible.",
+    "morphology": "na_na_ samudāye_samudāya_SLM pratyekam_pratyekam_ vākya_vākya_Cp parisamāptiḥ_parisamāpti_SNF samudāye_samudāya_SLM vā_vā_ artha_artha_Cp antare_antara_SLM"
+  }
+]

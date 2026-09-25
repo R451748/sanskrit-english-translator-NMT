@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32392,
+    "sanskrit": "na hi tantubhir iva paṭaḥ vīraṇair iva kaṭaḥ varṇaiḥ padam ārabhyate //",
+    "english": "We do never grasp it as a whole at a time. 807 Now, the Naiyãyikas refute the thesis of the Sphota-vädins.",
+    "morphology": "na_na_U hi_hi_U tantubhiḥ_tantu_PIM iva_iva_U paṭaḥ_paṭa_SNM vīraṇaiḥ_vīraṇa_PINe iva_iva_U kaṭaḥ_kaṭa_SNM varṇaiḥ_varṇa_PIM padam_pada_SNNe ārabhyate_ārabh_SPr3InPv  /"
+  },
+  {
+    "index": 32393,
+    "sanskrit": "tathāpi vaktur ayam abhimāno vartate yamevāham arthaṃ pratipādye tamevāyaṃ pratipadyata iti /",
+    "english": "and yet the idea in the mind of the Speaker is that ‘the thing that I cognise is also cognised by this man’;",
+    "morphology": "tathā_tathā_ api_api_ vaktuḥ_vaktṛ_SGM ayam_idam_SNM abhimānaḥ_abhimāna_SNM vartate_vṛt_SPr3In yam_yad_SAM eva_eva_ aham_mad_SN artham_artha_SAM pratipādye_pratipāday_SPr1InPv tam_tad_SAM eva_eva_ ayam_idam_SNM pratipadyate_pratipad_SPr3In it"
+  },
+  {
+    "index": 32394,
+    "sanskrit": "ato na rājā saṃprāpa jarāṃ mṛtyuṃ ca sā sutā | sa yuvaivāgatastatra saṃmaṃtrya tanayāvaram ||",
+    "english": "43. Therefore the king did not attain old age or death, nor his daughter. After consulting Brahmā about the bridegroom he returned still a young man.",
+    "morphology": "atas_atas_ na_na_ rājā_rājan_SNM saṃprāpa_samprāp_SPs3In jarām_jarā_SAF mṛtyum_mṛtyu_SAM ca_ca_ sā_tad_SNF sutā_sutā_SNF  / sa_tad_SNM yuvā_yuvan_SNM eva_eva_ āgataḥ_āgam_SNPaM tatra_tatra_ saṃmaṃtrya_sammantray_Co tanayāvaram_tan"
+  },
+  {
+    "index": 32395,
+    "sanskrit": "īrṣyā śoka klama apetāḥ moha mātsarya varjitāḥ sukham svarga jitaḥ tatra vartayanti mahā mune",
+    "english": "And, O mighty sage, devoid of envy and grief and fatigue and ignorance and malice, men who have attained heaven, dwell in those regions happily.",
+    "morphology": "īrṣyā_īrṣyā_FCp śoka_śoka_MCp klama_klama_MCp apetāḥ_ape_PNPaPsM moha_moha_MCp mātsarya_mātsarya_NeCp varjitāḥ_varjay_PNPaPsM sukham_sukha_SANe svarga_svarga_MCp jitaḥ_jit_PNM tatra_tatra_U vartayanti_vartay_PPr3In mahā_mahat_Cp mune_m"
+  },
+  {
+    "index": 32396,
+    "sanskrit": "vibhīṣaṇa uvāca | evaṃ vibho kariṣyāmi tavādeśamasaṃśayam | paraṃ tvayā parityakte martye me jīvitaṃ vrajet || 24 ||",
+    "english": "Vibhīṣaṇa said: 24. Undoubtedly, I shall carry out your directions, O Lord. But when the mortal world is abandoned by you my very life may depart.",
+    "morphology": "vibhīṣaṇaḥ_vibhīṣaṇa_SNM uvāca_vac_SPs3In  / evam_evam_ vibho_vibhu_SVM kariṣyāmi_kṛ_SFu1In tava_tvad_SG ādeśam_ādeśa_SAM asaṃśayam_asaṃśayam_  / param_param_ tvayā_tvad_SI parityakte_parityaj_SLPaM martye_martya_SLM me_mad_SG "
+  },
+  {
+    "index": 32397,
+    "sanskrit": "manasā uddiśya vipulam tatas vākyam atha ūcatuḥ",
+    "english": "Indeed, each of them suddenly named Vipula in what they uttered.",
+    "morphology": "manasā_manas_SINe uddiśya_uddiś_Co"
+  },
+  {
+    "index": 32398,
+    "sanskrit": "tām āpatantīm sahasā yugānta agni sama prabhām dvābhyām śarābhyām hārdikyaḥ nicakarta dvidhā tadā",
+    "english": "Beholding that dart endued with the splendour of the Yuga-fire coursing towards him, the son of Hridika cut it in twain with two shafts.",
+    "morphology": "tām_tad_SAF āpatantīm_āpat_SAPaPrF sahasā_sahas_SINe yugānta_yugānta_MCp agni_agni_MCp sama_sama_Cp prabhām_prabhā_SAF dvābhyām_dvi_DuIM śarābhyām_śara_DuIM hārdikyaḥ_hārdikya_SNM nicakarta_nikṛt_SPs3In dvidhā_dvidhā_U tadā_tadā_U"
+  },
+  {
+    "index": 32399,
+    "sanskrit": "kaccit na raibhyam putraḥ me gatavān alpa cetanaḥ",
+    "english": "Is it all well with my hermitage? I hope that my son of little sense had not gone to the sage Raivya.",
+    "morphology": "kaccit_kaccit_U na_na_U raibhyam_raibhya_SAM putraḥ_putra_SNM me_mad_SG gatavān_gam_SNPaPsM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46784,
+    "sanskrit": "rākām ahaṃ suhavāṃ suṣṭutī huve śṛṇotu naḥ subhagā bodhatu tmanā |",
+    "english": "Raka, easy to invoke, I invoke with fair praise; May the fortunate one hear us and be aware of us With needle that breaks not may she sew her task;",
+    "morphology": "rākām_rākā_SAF aham_mad_SN su_su_ havām_hava_SAF suṣṭutī_suṣṭuti_SIF huve_hvā_SPr1In śṛṇotu_śru_SPr3Im naḥ_mad_PA subhagā_subhaga_SNF bodhatu_budh_SPr3Im tmanā_tman_SIM  /"
+  },
+  {
+    "index": 46785,
+    "sanskrit": "parasparānusāreṇa tathārūpeṇa saṃvidaḥ / kacitāstāḥ prajāpālaprajāvāstavyamantriṇaḥ //",
+    "english": "The association of thoughts, follows one another in a long and perpetual train; and caused the succession of the sights of the ministers, citizens and subjects of the king, in Lila's vision one after the other.",
+    "morphology": "paraspara_paraspara_Cp anusāreṇa_anusāra_SIM tathārūpeṇa_tathārūpa_SIM saṃvidaḥ_saṃvid_PNF  / kacitāḥ_kacit_PNF tāḥ_tad_PNF prajāpāla_prajāpāla_Cp prajā_prajā_Cp vāstavya_vāstavya_Cp mantriṇaḥ_mantrin_PNM  /"
+  },
+  {
+    "index": 46786,
+    "sanskrit": "pārthaḥ hi ekaḥ aharat bhadrām ekaḥ ca agnim atarpayat",
+    "english": "Single-handed, Partha ravished Bhadra, and single-handed, he gratified Agni.",
+    "morphology": "pārthaḥ_pārtha_SNM hi_hi_U ekaḥ_eka_SNM aharat_hṛ_SPs3In bhadrām_bhadrā_SAF ekaḥ_eka_SNM ca_ca_U agnim_agni_SAM atarpayat_tarpay_SPs3In"
+  },
+  {
+    "index": 46787,
+    "sanskrit": "anyathāviplutabrahmacaryād api vanavāso vidyata ity etad api vakṣyate /",
+    "english": "There is however the other view that from the life of the purely celebate student also one can proceed at once to the forestlife; as is going to be described later on.",
+    "morphology": "anyathā_anyathā_ a_a_ vipluta_viplu_PaCp brahmacaryāt_brahmacarya_SBNe api_api_ vana_vana_Cp vāsaḥ_vāsa_SNM vidyate_vid_SPr3InPv iti_iti_ etat_etad_SNNe api_api_ vakṣyate_vac_SFu3In  /"
+  },
+  {
+    "index": 46788,
+    "sanskrit": "sūtake mṛtakaṃ cetsyān mṛtake tvatha sūtakaṃ / tatrādhikṛtya mṛtakaṃ śaucaṃ kuryānna sūtakaṃ //",
+    "english": "If a pollution due to death occurs while there is pollution due to birth and viceversa, the pollution is based on that of death only and not on that of birth.",
+    "morphology": "sūtake_sūtaka_SLNe mṛtakam_mṛtaka_SNNe ced_ced_ syāt_as_SPr3O mṛtake_mṛtaka_SLNe tu_tu_ atha_atha_ sūtakam_sūtaka_SNNe  / tatra_tatra_ adhikṛtya_adhikṛ_Co mṛtakam_mṛtaka_SANe śaucam_śauca_SANe kuryāt_kṛ_SPr3O na_na_ sūtakam_sūta"
+  },
+  {
+    "index": 46789,
+    "sanskrit": "mayābhibhūtaḥ samare muhūrṣuḥ kālacoditaḥ //",
+    "english": "Mādhava, you have been urged on by Death.",
+    "morphology": "mayā_mad_SI abhibhūtaḥ_abhibhū_SNPaM samare_samara_SLNe muhūrṣuḥ_muhūrṣu_SNM kāla_kāla_Cp coditaḥ_coday_SNPaM  /"
+  },
+  {
+    "index": 46790,
+    "sanskrit": "gataṃ svamatyajadrūpaṃ taraṅgatvaṃ yathā payaḥ / mūlaśākhāgraparyantā sattā viṭapino yathā //",
+    "english": "One who is unified with the universal soul, resembles a wave that mixes altogether with the main water; because the Divine soul sends its essence to all, as a tree supplies its marrow to all parts of it from top to foot.",
+    "morphology": "gatam_gam_SAPaNe svam_sva_SANe atyajat_tyaj_S3ImIn rūpam_rūpa_SANe taraṅga_taraṃga_Cp tvam_tva_SANe yathā_yathā_ payaḥ_payas_SNNe  / mūla_mūla_Cp śākhā_śākhā_Cp agra_agra_Cp paryantā_paryanta_SNF sattā_sattā_SNF viṭapinaḥ_viṭapin"
+  },
+  {
+    "index": 46791,
+    "sanskrit": "yamasya lokādityetat duḥsvapnaśamanamparaṃ //",
+    "english": "The hymn yamasya lokāt is excellent for removing the effects of bad dreams.",
+    "morphology": "yamasya_yama_SGM lokāt_loka_SBM iti_iti_ etat_etad_SNNe duḥsvapna_duḥsvapna_Cp śamanam_śamana_SNNe param_para_SNNe  /"
+  }
+]

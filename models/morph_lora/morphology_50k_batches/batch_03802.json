@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30408,
+    "sanskrit": "daśaavaraṃ ca yūthaṃ vidyāt //",
+    "english": "A herd of cattle shall be considered to consist of not more than ten heads",
+    "morphology": "daśa_daśan_Cp avaram_avara_SANe ca_ca_ yūthaḥ_yūtha_SNM vidyāt_vid_SPr3O"
+  },
+  {
+    "index": 30409,
+    "sanskrit": "kārṣṇāyasam alaṃkāram parigṛhya ca nityaśas",
+    "english": "The ornaments they wear are made of iron.",
+    "morphology": "kārṣṇāyasam_kārṣṇāyasa_SAM alaṃkāram_alaṃkāra_SAM parigṛhya_parigrṛhya_PPr2Im"
+  },
+  {
+    "index": 30410,
+    "sanskrit": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani / yaḥ paśyati tathātmānamakartāraṃ sa paśyati //",
+    "english": "He who sees the soul (as inherent) in all substances, and every substance (to be contained) in the soul; and views both as the component of one another, sees the uncreating God as the reflector and reflection of Himself.",
+    "morphology": "sarva_sarva_Cp bhūta_bhūta_Cp stham_stha_SAM ātmānam_ātman_SAM sarva_sarva_Cp bhūtāni_bhūta_PANe ca_ca_ ātmani_ātman_SLM  / yaḥ_yad_SNM paśyati_dṛś_SPr3In tathā_tathā_ ātmānam_ātman_SAM akartāram_akartṛ_SAM sa_tad_SNM paśyati_dṛ"
+  },
+  {
+    "index": 30411,
+    "sanskrit": "hiraṇyam kupya bhūyiṣṭham mitram kṣīṇam a kośavat",
+    "english": "(When obliged to give wealth), he should give gold containing much base metal.",
+    "morphology": "hiraṇya_hiraṇya_SNNe kupya_kupya_SNNe bhūyiṣṭhaḥ_ṛṇa_SNNe"
+  },
+  {
+    "index": 30412,
+    "sanskrit": "karṇaḥ prasādayan ca enam idam iti abravīt vacaḥ abuddhi pūrvam bhagavan dhenuḥ eṣā hatā tava mayā tatra prasādam me kuruṣva iti punar punar",
+    "english": "Indeed Karna, for the object of gratifying the owner, repeatedly said, 'O holy one, I have killed this thy cow without wilting it.",
+    "morphology": "karṇaḥ_karṇa_SNM prasādayan_prasāday_SNPaPrM ca_ca_U enam_enad_SAM idam_idam_SANe iti_iti_U abravīt_brū_SPs3In vacaḥ_vacas_SANe abuddhi_abuddhi_FCp pūrvam_pūrva_SANe bhagavan_bhagavat_SVM dhenuḥ_dhenu_SNF eṣā_etad_SNF hatā_han_SNPaPsF t"
+  },
+  {
+    "index": 30413,
+    "sanskrit": "brahmaṇo dviparārddhānte tadbhogaiśvaryasaṃpadaḥ | naśyanti kālaśaktyaiva lokāsteṣāṃ ca nārada || 22 ||",
+    "english": "22. At the end of two Parārdhas (i.e. one hundred) years of God Brahmā, their worlds as well as their prosperity, pleasures and lordliness, perish with the speed of Time, O Nārada.",
+    "morphology": "brahmaṇaḥ_brahman_SGM dvi_dvi_Cp parārddha_parārdha_Cp ante_anta_SLM tad_tad_Cp bhoga_bhoga_Cp aiśvarya_aiśvarya_Cp saṃpadaḥ_sampad_PNF  / __naś_PPr2Im __yad_PNM"
+  },
+  {
+    "index": 30414,
+    "sanskrit": "yathānyāyam mahā tejāḥ mānī dharma bhṛtām varaḥ utsmayan praṇataḥ prāha kuntīm vaikartanaḥ vṛṣaḥ karṇaḥ uvāca",
+    "english": "And saluting him in proper form and with joined palms that foremost of virtuous persons, endued with great energy and pride, viz., Vrisha, the son of Vikartana, bowed to her and said (the following words).\"' SECTION CXLV \"Karna said, 'I am Karna, son of Radha and Adhiratha.",
+    "morphology": "yathānyāyam_yathānyāyam_U mahā_mahat_Cp tejāḥ_tejas_SNM mānī_mānin_SNM dharma_dharma_MCp bhṛtām_bhṛt_PGM varaḥ_vara_SNM utsmayan_utsmi_SNPaPrM praṇataḥ_praṇam_SNPaPsM prāha_prāh_SPs3In kuntīm_kuntī_SAF vaikartanaḥ_vaikartana_S"
+  },
+  {
+    "index": 30415,
+    "sanskrit": "śāstraparimeyatvaṃ tāvatparimāṇaśabdavācyaṃ dharmādharmmayoravasthitaṃ parimitāni ca śāstrāṇi vedopavedādīni na ca teṣāṃ madhye sadācāraśāstraṃ kiṃ cidasti / na ca sadācāraḥ svayameva śāstraṃ nāpi taddarśanamanuṣṭhānaṃ vātyantaparāyattatvātprameyatvācca /",
+    "english": "The reality, or the authority, of the denotations of words do not depend upon either the greater or lesser number of persons using them in different senses as in the case of such words which are held to have many meanings even by the same people as aksha pala and the like though only very few people use the word Aksha in the sense of the terminalia belerica, yet this meaning of it is admitted as freely as that of the axle of the cart. Similarly, too, it has been declared that the root çava is used in the sense of moving among the Kambojas while the Aryas use it to signify modification or putrefaction, as when they speak of the dead body as açava and there are many verbs and nouns that are found to be used in different senses in different countries.",
+    "morphology": "śāstra_śāstra_Cp parimeya_parimā_GdCp tvam_tva_SNNe tāvat_tāvat_ parimāṇa_parimāṇa_Cp śabda_śabda_Cp vācyam_vac_SNNeGd dharma_dharma_Cp adharmayoḥ_adharma_DuGM avasthitam_avasthā_SNPaNe parimitāni_parimā_PNPaNe ca_ca_ śāstrāṇi_ś"
+  }
+]

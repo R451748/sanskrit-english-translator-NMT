@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44816,
+    "sanskrit": "tapasaḥ ante mahā rāja gāvaḥ loka parāyaṇāḥ",
+    "english": "At the conclusion of their penances O monarch, kine became the refuge of the world.",
+    "morphology": "tapasaḥ_tapas_SGNe ante_anta_SLM mahā_mahat_Cp rāja_rāja_SVM gāvaḥ_go_PNF ḥ_ḥ_PNF"
+  },
+  {
+    "index": 44817,
+    "sanskrit": "tri sāhasra paraḥ dāyaḥ striyaḥ deyaḥ dhanasya vai",
+    "english": "A Brahmana should never acquire wealth for nothing.[295] The highest sum that the husband should give unto the wife is three thousand coins (of the prevailing currency).",
+    "morphology": "tri_tri_Cp sāhasra_sāhasra_NeCp paraḥ_para_SNM dāyaḥ_dāya_SNM striyāḥ_strī_SGF deyaḥ_dā_SNMGd dhanasya_dhana_SGNe vai_vai_U"
+  },
+  {
+    "index": 44818,
+    "sanskrit": "tasmādgaṇebhyo doṣāṇāmabhāvastadabhāvataḥ| apramāṇyadvayāsattvaṃ tenotsargoṃ'napoditaḥ||",
+    "english": "\"Therefore we reasonably conclude from the presence of guṇas the absence of 'defects,'[52] from their absence the non-existence of the two kinds of non-authoritativeness,[53] and from this the general conclusion.\"[54]",
+    "morphology": "tasmāt_tasmāt_ gaṇebhyaḥ_gaṇa_PBM doṣāṇām_doṣa_PGM abhāvaḥ_abhāva_SNM tad_tad_Cp abhāvataḥ_abhāva_SBM apramāṇya_apramāṇya_Cp dvaya_dvaya_Cp asattvam_asattva_SNNe tena_tena_ utsargaḥ_utsarga_SNM anapoditaḥ_anapodita_SNM"
+  },
+  {
+    "index": 44819,
+    "sanskrit": "kaṇḍūḥ pāmātha dadrūṇi maṃḍalāni vicarcikā | darśanāttasya naśyanti jantūnāṃ bhāvitātmanām || 3 ||",
+    "english": "3. Itching sensation, scab, herpes and cutaneous eruptions, leprosy with round spots-all these are cured in the case of creatures of purified souls.",
+    "morphology": "kaṇḍūḥ_kaṇḍū_SNF pāmā_pāman_SNM atha_atha_ dadrūṇi_dadru_PNNe maṃḍalāni_maṇḍala_PNNe vicarcikā_vicarcikā_SNF  / darśanāt_darśana_SBNe tasya_tad_SGM naśyanti_naś_PPr3In jantūnām_jantu_PGM bhāvitātmanām_bhāvitātman_PG"
+  },
+  {
+    "index": 44820,
+    "sanskrit": "tato bhūyaḥ samāyāto yāvatpaśyāmi bhūtalam | tāvadvilomatāṃ prāptaṃ sarvaṃ no vedmi kiñcana || 54 ||",
+    "english": "54. Then immediately, I returned to the earth. What do I see? Everything has changed the wrong way. I do not know anything.",
+    "morphology": "tatas_tatas_ bhūyas_bhūyas_ samāyātaḥ_samāyā_SNPaM yāvat_yāvat_ paśyāmi_dṛś_SPr1In bhū_bhū_Cp talam_tala_SAM  / tāvat_tāvat_ viloma_viloma_Cp tām_tā_SAF prāptam_prāp_SAPaNe sarvam_sarva_SANe naḥ_mad_PG vedmi_vid_SPr1In kiñcana_ka"
+  },
+  {
+    "index": 44821,
+    "sanskrit": "atrāpi suvarṇaśatatulyānīty apekṣyam / anyathottamatvam āpekṣikam iti daṇḍo na vyavatiṣṭheta / vadham arhati /",
+    "english": "Here also it is to be understood that the articles stolen should he equivalent in value to \"a hundred of gold\"; otherwise, since the qualification \"precious\" is a relative term, there would be no definiteness in the rule prescribing the punishment.",
+    "morphology": "atra_atra_ api_api_ suvarṇa_suvarṇa_Cp śata_śata_Cp tulyāni_tulya_PNNe iti_iti_ apekṣyam_apekṣ_SNNeGd  / anyathā_anyathā_ uttama_uttama_Cp tvam_tva_SNNe āpekṣikam_āpekṣika_SNNe iti_iti_ daṇḍaḥ_daṇḍa_SNM na_na_ vyavatiṣṭheta"
+  },
+  {
+    "index": 44822,
+    "sanskrit": "andhakārañca mahatīṃ pīḍāṃ vindati mānavaḥ //",
+    "english": "A person finds a great darkness and experiences suffering.",
+    "morphology": "andhakāram_andhakāra_SAM ca_ca_ mahatīm_mahat_SAF pīḍām_pīḍā_SAF vindati_vid_SPr3In mānavaḥ_mānava_SNM  /"
+  },
+  {
+    "index": 44823,
+    "sanskrit": "sṛja prajāḥ tvam vividhāḥ brahman sa jaḍa paṇḍitāḥ",
+    "english": "Endued with puissance in respect of creation, do thou set thyself to create diverse kinds of creatures, rational and irrational.",
+    "morphology": "sṛja_sṛj_SPr2Im prajāḥ_prajā_PAF tvam_tvad_SN vividhāḥ_vividha_PAF brahman_brahman_SVM sa_sa_U jaḍa_jaḍa_Cp paṇḍitāḥ_paṇḍita_PAF"
+  }
+]

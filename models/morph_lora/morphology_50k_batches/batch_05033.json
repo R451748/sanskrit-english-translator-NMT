@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40256,
+    "sanskrit": "devatā śatabhiṣaṅ nakṣatram indro devatā proṣṭhapadā nakṣatram aja ekapād devatā proṣṭhapadā nakṣatram ahir budhniyo devatā revatī nakṣatram pūṣā devatāśvayujau nakṣatram aśvinau devatāpabharaṇīr nakṣatraṃ yamo devatā pūrṇā paścād yat te devā adadhuḥ |",
+    "english": "Prosthapadas the Naksatra, the goat of one foot the deity; the Prosthapadas the Naksatra, the serpent of the deep the deity; Revati the Naksatra, Pusan the deity; the two Açvayujs the Naksatra, the Açvins the deity; the Apabharanis the Naksatra, Yama the deity.",
+    "morphology": "devatā_devatā_SNF śatabhiṣaj_śatabhiṣaj_SNM nakṣatram_nakṣatra_SNNe indraḥ_indra_SNM devatā_devatā_SNF proṣṭhapadāḥ_proṣṭhapada_PNF nakṣatram_nakṣatra_SNNe ajaḥ_aja_SNM ekapād_ekapād_SNM devatā_devatā_SNF proṣṭhapad"
+  },
+  {
+    "index": 40257,
+    "sanskrit": "eka eva jagannāthastridhā tatra sthito dvijāḥ | ekaikasyāpi snapanadarśanaṃ bhuktimuktidam || 87 ||",
+    "english": "87. The only Lord of the universe is stationed there in three forms, O Brāhmaṇas. The witnessing of the ablution of each of these yields worldly pleasures and salvation.",
+    "morphology": "ekaḥ_eka_SNM eva_eva_ jagannāthaḥ_jagannātha_SNM tridhā_tridhā_ tatra_tatra_ sthitaḥ_sthā_SNPaM dvijāḥ_dvija_PVM  / ekaikasya_ekaika_SGM api_api_ snapana_snapana_Cp darśanam_darśana_SNNe bhukti_bhukti_Cp mukti_mukti_Cp dam_da_SNNe"
+  },
+  {
+    "index": 40258,
+    "sanskrit": "kāritrāvyatirekād vā dharmaḥ kāritravad bhavet / pūrvāparavyavacchinnamadhyamātrakasarvavān //",
+    "english": "Or (conversely),, because it would be non-different from the activity the entity, like the activity, would be devoid of the ‘previous’ and ‘later’ conditions, and would have its sole existence in the middle (present).",
+    "morphology": "kāritra_kāritra_Cp avyatirekāt_avyatireka_SBM vā_vā_ dharmaḥ_dharma_SNM kāritra_kāritra_Cp vat_vat_ bhavet_bhū_SPr3O  / pūrva_pūrva_Cp apara_apara_Cp vyavacchinna_vyavacchid_PaCp madhya_madhya_Cp mātraka_mātraka_Cp sarvavān_sarvavat_SNM  /"
+  },
+  {
+    "index": 40259,
+    "sanskrit": "anyatra dṛḍha āsīna upaviṣṭo rathapṛṣṭhe bhūmau vā /",
+    "english": "\"He who is seated\" unconcerned, elsewhere; or on his chariot, or on the ground.",
+    "morphology": "anyatra_anyatra_ dṛḍhaḥ_dṛḍha_SNM āsīnaḥ_ās_SNPaM upaviṣṭaḥ_upaviś_SNPaM ratha_ratha_Cp pṛṣṭhe_pṛṣṭha_SLNe bhūmau_bhūmi_SLF"
+  },
+  {
+    "index": 40260,
+    "sanskrit": "duryodhana mukhānām ca pāṇḍūnām ṛṣabhasya ca",
+    "english": "Then those mighty car-warriors headed by Duryodhana (on one side) and that bull amongst the Pandavas on the other, uttered loud roars and began the encounter.",
+    "morphology": "duryodhana_duryodhana_MCp mukhānām_mukha_PGM ca_ca_U pāṇḍūnām_pāṇḍu_PGM"
+  },
+  {
+    "index": 40261,
+    "sanskrit": "nityanaimittakayoḥ snānayor ayam vidhiḥ /",
+    "english": "This rule applies to all kinds of bathingthe daily obligatory one as well as the occasional one.",
+    "morphology": "nitya_nitya_Cp naimittakayoḥ_naimittaka_DuGNe"
+  },
+  {
+    "index": 40262,
+    "sanskrit": "gaccha śīghraṃ mahādeva pārvatīmātmajanmane | tacchrutvā vacanaṃ teṣāṃ prahasyedamuvāca ha || 25 ||",
+    "english": "25. Go quickly, O great Lord, to Pārvatī for the sake of a son. On hearing their words, he laughed and said:",
+    "morphology": "gaccha_gam_SPr2Im śīghram_śīghram_ mahādeva_mahādeva_SVM pārvatīm_pārvatī_SAF ātmajanmane_ātmajanman_SDM  / tat_tad_SANe śrutvā_śru_Co vacanam_vacana_SANe teṣām_tad_PGM prahasya_prahas_Co idam_idam_SANe uvāca_vac_SPs3In ha_ha_"
+  },
+  {
+    "index": 40263,
+    "sanskrit": "agner ātithyam asi viṣṇave tvety āha gāyatriyā evaitena karoti somasyātithyam asi viṣṇave tvety āha triṣṭubha evaitena karoti |",
+    "english": "'Thou art the hospitality of Agni. For Visnu thee!' he says; thus he offers (hospitality) to the Gayatri. 'Thou art the hospitality of Soma. 'For Visnu thee!' he says;",
+    "morphology": "agneḥ_agni_SGM ātithyam_ātithya_SNNe asi_as_SPr2In viṣṇave_viṣṇu_SDM tvā_tvad_SA iti_iti_ āha_ah_SPs3In gāyatriyai_gāyatrī_SDF eva_eva_ etena_etad_SINe karoti_kṛ_SPr3In somasya_soma_SGM ātithyam_ātithya_SNNe asi_as_SPr2In viṣṇave_v"
+  }
+]

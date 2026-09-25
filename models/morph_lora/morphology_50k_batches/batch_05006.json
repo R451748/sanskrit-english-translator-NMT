@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40040,
+    "sanskrit": "abhi viprāḥ anūṣata mūrdhan yajñasya kāravaḥ dadhānāḥ cakṣati priyam",
+    "english": "To him, the head of sacnfice, singers and bards have sung their songs, Offering what he loves to see.",
+    "morphology": "abhi_abhi_U viprāḥ_vipra_PNM anūṣata_nū_PPs3In mūrdhan_mūrdhan_SLM yajñasya_yajña_SGM kāravaḥ_kāru_PNM dadhānāḥ_dhā_PNPaPrM"
+  },
+  {
+    "index": 40041,
+    "sanskrit": "eteṣām api dīyantām rathāḥ dhvaja patākinaḥ kavacāni vicitrāṇi dṛḍhāni ca mṛdūni ca",
+    "english": "Give thou unto them cars furnished with banners and let them case their persons in beautiful coats of mail that should be both invulnerable and easy to wear.",
+    "morphology": "eteṣām_etad_PGM api_api_U dīyantām_dā_PPr3ImPv rathāḥ_ratha_PNM dhvaja_dhvaja_MCp patākinaḥ_patākin_PNM kavacāni_kavaca_PNNe vicitrāṇi_vicitra_PNNe dṛḍhāni_dṛḍha_PNNe ca_ca_U mṛdūni_mṛdu_PNNe ca_ca_U"
+  },
+  {
+    "index": 40042,
+    "sanskrit": "svapnasaṃkalpasaṃśāntau svapnasaṃkalpapattanam / yadā sā sukuṭī naṣṭā matsaṃkalpopaśāntitaḥ //",
+    "english": "Thus that lonely cell was lost to me, together with the loss of my fond desire for it, just as a visionary and imaginary city vanishes with the dream and desire, which presented it to our view.",
+    "morphology": "svapna_svapna_Cp saṃkalpa_saṃkalpa_Cp saṃśāntau_saṃśānti_SLF svapna_svapna_Cp saṃkalpa_saṃkalpa_Cp pattanam_pattana_SNNe  / yadā_yadā_ sā_tad_SNF sukuṭī_sukuṭī_SNF naṣṭā_naś_SNPaF mad_mad_Cp saṃkalpa_saṃkalpa_Cp upaśānt"
+  },
+  {
+    "index": 40043,
+    "sanskrit": "manyante sarvam api etat avyakta prabhava avyayam",
+    "english": "They think that all this is produced from and absorbed into the unmanifest.",
+    "morphology": "manāḥ_man_PPr3In saā_sarva_SANe api_api_U ḥā_ḥḥ_SNF"
+  },
+  {
+    "index": 40044,
+    "sanskrit": "daśākṣarā {virāḍ < virāj} virājam āpnoti dvādaśa rātrīr dīkṣitaḥ syāt |",
+    "english": "the Viraj is the year, he obtains the Viraj. For ten nights should he be consecrated; the Viraj has ten syllables;",
+    "morphology": "daśa_daśan_Cp akṣarā_akṣara_SNF virāj_virāj_SNF virājam_virāj_SAF āpnoti_āp_SPr3In dvādaśa_dvādaśan_SANe rātrīḥ_rātri_PAF"
+  },
+  {
+    "index": 40045,
+    "sanskrit": "anena vivādasya niścayaviruddhabhrāntikāryasyopalambhān niścayābhāvasiddhim ādarśayann anumānaviruddhatvaṃ svataḥprāmāṇyapratijñāyā darśayati. aparam api niścayaviruddhakāryopalambhamādarśayati svata ityādi.",
+    "english": "What is meant by this is that Dispute is always the effect of Misconception, which is always contrary to firm Conviction, so that when there is Dispute, on any point, it follows that there is no firm Conviction; consequently, the Proposition that “the validity of Cognitions is self-sufficient” is contrary to Inference.",
+    "morphology": "anena_idam_SIM vivādasya_vivāda_SGM niścaya_niścaya_Cp viruddha_virudh_PaCp bhrānti_bhrānti_Cp kāryasya_kārya_SGNe upalambhāt_upalambha_SBM niścaya_niścaya_Cp abhāva_abhāva_Cp siddhim_siddhi_SAF ādarśayan_ādarśay_SNPaPrM anumāna_anumāna_"
+  },
+  {
+    "index": 40046,
+    "sanskrit": "kena karma vipākena bhavanti iha vadasva me",
+    "english": "Through the consequences of what acts do men become possessed of These different natures?' \"Maheswara said, 'Through the Vedas, the limits have been assigned of all the acts of human beings.",
+    "morphology": "kena_ka_SIM"
+  },
+  {
+    "index": 40047,
+    "sanskrit": "tiṣṭhatiṣṭheti tenoktā tataḥ sā niścalābhavat | nijamaṃtraiśca sā tena staṃbhitātharvaṇodbhavaiḥ || 47 ||",
+    "english": "47. She was addressed, “Stop! Stop!” by him (Vasiṣṭha). Suddenly she stood motionless. By means of his own Mantras taken from the Atharva Veda, she was rendered immobile and paralysed.",
+    "morphology": "tiṣṭha_sthā_SPr2Im tiṣṭha_sthā_SPr2Im iti_iti_ tena_tad_SIM uktā_vac_SNPaF tatas_tatas_ sā_tad_SNF niścalā_niścala_SNF abhavat_bhū_S3ImIn  / nija_nija_Cp maṃtraiḥ_mantra_PIM ca_ca_ sā_tad_SNF tena_tad_SIM staṃbhita_stambhay_PaCp āth"
+  }
+]

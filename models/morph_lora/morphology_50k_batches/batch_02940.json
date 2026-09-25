@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23512,
+    "sanskrit": "śiraḥ nāgaiḥ mahā bhogaiḥ parikīrṇam mahātmanaḥ bhaviṣyati mahā bāhoḥ sarva loka īśvarasya hi",
+    "english": "The head of that mighty-armed hero, that Lord of all the worlds, will be shaded by many high-souled snakes of vast bodies.",
+    "morphology": "śiraḥ_śiras_SNNe nāgaiḥ_nāga_PIM mahā_mahat_Cp bhogaiḥ_bhoga_PIM parikīrṇam_parikṛ_SNPaPsNe mahātmanaḥ_mahātman_SGM bhaviṣyati_bhū_SFu3In mahā_mahat_Cp bāhoḥ_bāhu_SGM sarva_sarva_Cp loka_loka_MCp īśvarasya_īśvara_SGM hi_hi_U"
+  },
+  {
+    "index": 23513,
+    "sanskrit": "evam apyanaikāntikatā hetor vipakṣe bādhakapramāṇābhāvāt /",
+    "english": "as there is nothing to invalidate a contrary conclusion.",
+    "morphology": "evam_evam_ api_api_ anaikāntika_anaikāntika_Cp tā_tā_SNF hetoḥ_hetu_SGM vipakṣe_vipakṣa_SLM bādhaka_bādhaka_Cp pramāṇa_pramāṇa_Cp abhāvāt_abhāva_SBM  /"
+  },
+  {
+    "index": 23514,
+    "sanskrit": "bhikṣuvarggaḥ",
+    "english": "The Chapter about Monastics",
+    "morphology": "__bhikṣu_U"
+  },
+  {
+    "index": 23515,
+    "sanskrit": "ṣaṭtvacam //",
+    "english": "It is covered with six skins.",
+    "morphology": "ṣaṣ_ṣaṣ_Cp tvacam_tvac_SAF  /"
+  },
+  {
+    "index": 23516,
+    "sanskrit": "tadapyudāhṛtam ityasyāścaryajāleṣu nābhyudeti kutūhalam //",
+    "english": "This has also been quoted before thus :'चिदात्मन इमा इत्थं प्रस्फुरन्तीह शक्तयः । ““All these manifestations in this manner are but the essence of the Self which is pure intelligence\", understanding thus curiosity does not arise in him for this wonderful creation' .",
+    "morphology": "tat_tad_SNNe api_api_ udāhṛtam_udāhṛ_SNPaNe iti_iti_ asya_idam_SGM āścarya_āścarya_Cp jāleṣu_jāla_PLNe na_na_ abhyudeti_abhyudi_SPr3In kutūhalam_kutūhala_SNNe  /"
+  },
+  {
+    "index": 23517,
+    "sanskrit": "krūra koṣṭhasya ati prabhūta dopasya mṛdu auṣadham avacāritam samutkliśya doṣān na niḥśeṣān apaharati | tatas te doṣāḥ parisrāvam āpādayanti |",
+    "english": "The Doshas and the morbid matter accumulated in the system of a man of extremely constipated bowels and almost saturated with a plethora of Doshas (morbific diathesis) are stirred up but are not fully emitted under the action of a mild (emetic or purgative) medicine.",
+    "morphology": "krūra_krūra_Cp koṣṭhasya_koṣṭha_SGM ati_ati_U prabhūta_prabhūta_Cp dopasya_dopa_SGM mṛdu_mṛdu_Cp auṣadham_auṣadha_SNNe avacāritam_avacāray_SNPaPsNe samutkliśya_samutkliś_Co doṣān_doṣa_PAM na_na_U niḥśeṣān_niḥśeṣa_PAM"
+  },
+  {
+    "index": 23518,
+    "sanskrit": "na ca te kālaniyamena samyaktve niyatā yathā saptakṛtvaḥ paramādayaḥ /",
+    "english": "\" or rather because, if he is in fact predestined for Nirvāṇa, the moment of his arrival at Nirvāṇa is not fixed, as is the case for the Āryans beginning with \"he who, at a maximum, will be reborn seven times\".",
+    "morphology": "na_na_ ca_ca_ te_tad_PNM kāla_kāla_Cp niyamena_niyama_SIM samyaktve_samyaktva_SLNe niyatāḥ_niyam_PNPaM yathā_yathā_ sapta_saptan_Cp kṛtvas_kṛtvas_ parama_parama_Cp ādayaḥ_ādi_PNM  /"
+  },
+  {
+    "index": 23519,
+    "sanskrit": "r̥bhuḥ na rathyam navam dadhāta ketam ādiśe śukrāḥ pavadhvam arṇasā",
+    "english": "Bring us our wish with this design, as a wright brings his new-wrought wheel: Flow pure and shining with the stream.",
+    "morphology": "r̥bhuḥ_r̥bhu_SNM na_na_U rathyam_rathya_SAM navam_nava_SAM dadhāta_dhā_PPs2Im ketam_keta_SAM ādiśe_ādiś_SDF śukrāḥ_śukra_PNM"
+  }
+]

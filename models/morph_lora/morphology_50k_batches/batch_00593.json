@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4736,
+    "sanskrit": "tato liṅgaṃ ca saṃsthāpya pūjayet sthiṇḍile tathā //",
+    "english": "After having established the liṅga, it should be worshipped on the ground then.",
+    "morphology": "tatas_tatas_ liṅga_liṅga_SANe ca_ca_ saṃsthāpya_saṃsthāpay_Co pūjayet_pūjay_SPr3O sthiṇḍile_sthiṇḍila_SLNe tathā_tathā_  /"
+  },
+  {
+    "index": 4737,
+    "sanskrit": "brāhmaṇeṣu sadā vṛttim kurvīthāḥ ca apramādataḥ bandhūnām suhṛdām ca eva bhavethāḥ tvam gatiḥ sadā",
+    "english": "Always shouldst thou bestow pensions on Brahmanas, without idleness, and be thou ever the refuge of thy friends and relatives.",
+    "morphology": "brāhmaṇeṣu_brāhmaṇa_PLM sadā_sadā_U vṛttim_vṛtti_SAF kurvīthāḥ_kṛ_SPr2O ca_ca_U apramādataḥ_apramāda_SBM bandhūnām_bandhu_PGM suhṛdām_suhṛd_PGM ca_ca_U eva_eva_U bhavethāḥ_bhū_SPr2O tvam_tvad_SN gatiḥ_gati_SNF sadā_sad"
+  },
+  {
+    "index": 4738,
+    "sanskrit": "udgātāraṃ ca sadasi vacanaṃ vyājahāra sā | yathāyathā pravartaṃte śaṃkavaḥ sāmasūcitāḥ || 9 || dakṣiṇāgnau drutaṃ gatvā kuru homaṃ yathoditam | yena tvaṃ mucyase pāpānna cedvyartho bhaviṣyati || 10 ||",
+    "english": "9-10. She spoke these words to the Udgātṛ in the assembly itself: “As the Śaṅku begins to move according to the indication of the Sāman songs, perform the Homa in the manner mentioned in the fire called Dakṣiṇa. Thereby alone you will be rid of sins. If not, the Yajña becomes futile.”",
+    "morphology": "udgātāram_udgātṛ_SAM ca_ca_ sadasi_sadas_SLNe vacanam_vacana_SANe vyājahāra_vyāhṛ_SPs3In sā_tad_SNF  / yathā_yathā_ yathā_yathā_ pravartaṃte_pravṛt_PPr3In śaṃkavaḥ_śaṃku_PNM sāma_sāman_Cp sūcitāḥ_sūcay_PNPaM  / dakṣiṇ"
+  },
+  {
+    "index": 4739,
+    "sanskrit": "aṣṭānāṃ pūrvavījānāṃ kramaśastvavadhārayet /",
+    "english": "The first eight basic syllables are repeated in order.",
+    "morphology": "aṣṭānām_aṣṭan_PGNe pūrva_pūrva_Cp vījānām_vīja_PGNe kramaśas_kramaśas_ tu_tu_ avadhārayet_avadhāray_SPr3O"
+  },
+  {
+    "index": 4740,
+    "sanskrit": "tat śrutvā antarhitam bhūtam antarikṣa stham abravīt aśvasya iva asya yat sthāma nadataḥ pradiśaḥ gatam",
+    "english": "Hearing that cry, an invisible being in the skies said, 'The voice of this child hath, like the neighing of a horse, been audible all around.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co antarhitam_antardhā_SAPaPsNe bhūtam_bhūta_SANe antarikṣa_antarikṣa_NeCp stham_stha_SANe abravīt_brū_SPs3In aśvasya_aśva_SGM iva_iva_U asya_idam_SGM yat_yad_SNNe sthāma_sthāman_SNNe nadī_nadī_SIF"
+  },
+  {
+    "index": 4741,
+    "sanskrit": "vīkṣate yāvad anyasyām utpannaḥ svātmanā puri / putro viprasya kasyāpi buddhiṃ sa śanakair gataḥ //",
+    "english": "And he imagined himself to be born in his own person in another town, as the son of a certain Brāhman, and he slowly grew up.",
+    "morphology": "vīkṣate_vīkṣ_SPr3In yāvat_yāvat_ anyasyām_anya_SLF utpannaḥ_utpad_SNPaM sva_sva_Cp ātmanā_ātman_SIM puri_pur_SLF  / putraḥ_putra_SNM viprasya_vipra_SGM kasya_ka_SGM api_api_ buddhim_buddhi_SAF sa_tad_SNM śanakais_śanakais_ gataḥ_gam_SNP"
+  },
+  {
+    "index": 4742,
+    "sanskrit": "nisargabhinnāspadamekasaṃstham asmindvayaṃ śrīśca sarasvatī ca /",
+    "english": "His fame has gone up to the mountains, descended to the seas, entered the nether world, the dwelling-place of the serpents, and has found its way to heaven; thus spreading without cessation it is quite incapable of being exactly gauged.",
+    "morphology": "nisarga_nisarga_Cp bhinna_bhid_PaCp āspadam_āspada_SNNe eka_eka_Cp saṃstham_saṃstha_SNNe asmin_idam_SLM dvayam_dvaya_SNNe śrīḥ_śrī_SNF ca_ca_ sarasvatī_sarasvatī_SNF ca_ca_  /"
+  },
+  {
+    "index": 4743,
+    "sanskrit": "iti yad etad ācāryadiṅnāgapādair uktaṃ tatra kumārilenoktam",
+    "english": "hence we find (in the assertion concerned) conditions contrary to the more extensive character.",
+    "morphology": "iti_iti_ yat_yad_SNNe etat_etad_SNNe ācārya_ācārya_Cp diṅnāga_diṅnāga_Cp pādaiḥ_pāda_PIM uktam_vac_SNPaNe tatra_tatra_"
+  }
+]

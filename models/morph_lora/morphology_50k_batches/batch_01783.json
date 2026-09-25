@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14256,
+    "sanskrit": "abhūt dhanam me vipulam mahat vai",
+    "english": "I myself had great religious merit, but all that, however, is gone.",
+    "morphology": "abhūt_bhū_SPs3In"
+  },
+  {
+    "index": 14257,
+    "sanskrit": "bhavanti nirviṣāḥ sarpāḥ yathā tārkṣyasya darśanāt gaṅgāyāḥ darśanāt tadvat sarva pāpaiḥ pramucyate",
+    "english": "As snakes become deprived of their poison at the very sight of Garuda, even so one becomes cleansed of all one's sins at the very sight of the sacred stream of Ganga.",
+    "morphology": "bhavanti_bhū_PPr3In nirviṣāḥ_nirviṣa_PNM sarpāḥ_sarpa_PNM yathā_yathā_U tārkṣyasya_tārkṣya_SGM darśanāt_darśana_SBNe gaṅgāyāḥ_gaṅgā_SGF darśanāt_darśana_SBNe tadvat_tadvat_U sarva_sarva_Cp pāpaiḥ_pāpa_PINe pramucyate_p"
+  },
+  {
+    "index": 14258,
+    "sanskrit": "na ayam bhūtvā bhavitā vā na bhūyas",
+    "english": "nor, having existed, will it exist no more.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 14259,
+    "sanskrit": "etāvad vai puruṣe vīryam | vīryasammitas |",
+    "english": "so much is the strength in man [1], he is commensurate in strength.",
+    "morphology": "etāvat_etāvat_SNNe vai_vai_ puruṣe_puruṣa_SLM vīryam_vīrya_SNNe  /"
+  },
+  {
+    "index": 14260,
+    "sanskrit": "virāṭa drupadau ca eva kṛta vairau mayā saha tau ca senā praṇetārau vāsudeva vaśānugau",
+    "english": "Virata and Drupada whom I had waged hostilities with, obedient to Vasudeva, both of them have become the leaders of Yudhishthira's host.",
+    "morphology": "virāṭa_virāṭa_MCp drupadau_drupada_DuNM ca_ca_U eva_eva_U kṛta_kṛ_PaPsCp vairau_vaira_DuNM mayā_mad_SI saha_saha_U tau_tad_DuNM ca_ca_U senā_senā_FCp praṇetārau_praṇetṛ_DuNM vāsudeva_vāsudeva_MCp vaśānugau_vaśānuga_DuNM"
+  },
+  {
+    "index": 14261,
+    "sanskrit": "evaṃ te kathitaṃ devi tīrthaguhyaṃ mahodayam | na kathyaṃ duṣṭabuddhīnāṃ pāpināṃ krūracetasām || 266 ||",
+    "english": "266. In this way, O goddess, the secret of the Tīrtha leading to prosperity has been narrated to you. It should not be told to wicked-minded sinners of cruel hearts.",
+    "morphology": "evam_evam_ te_tvad_SG kathitam_kathay_SNPaNe devi_devī_SVF tīrtha_tīrtha_Cp guhyam_guhya_SNNe mahā_mahat_Cp udayam_udaya_SNNe  / na_na_ kathyam_kathay_SNNeGd duṣṭa_duṣ_PaCp buddhīnām_buddhi_PGM pāpinām_pāpin_PGM krūra_krūra_Cp cetasām_cet"
+  },
+  {
+    "index": 14262,
+    "sanskrit": "punar ehi vṛṣākape suvitā kalpayāvahai / yaḥ eṣa svapna naṃśanaḥ astam eṣi pathā punar viśvasmāt indraḥ uttaraḥ /",
+    "english": "Turn thee again Vrishākapi; we twain will bring thee happiness. Thou goest homeward on thy way along this path which leads to sleep. Supreme is Indra over all.",
+    "morphology": "punar_punar_U ehi_e_SPr2Im vṛṣākape_vṛṣākapi_SVM suvitā_suvita_DuNM kalpayāvahai_kalpay_DuPr1Su  / yaḥ_yad_SNM eṣa_etad_SNM svapna_svapna_MCp naṃśanaḥ_naṃśana_SNM astam_asta_SANe eṣi_i_SPr2In pathā_pathin_SIM punar_punar_U viśva"
+  },
+  {
+    "index": 14263,
+    "sanskrit": "adhyāyānām śatam proktam adhyāyāḥ saptatiḥ tathā",
+    "english": "The number of sections in this is one hundred and seventy.",
+    "morphology": "adhyāyānām_adhyāya_PGM śatam_śata_SNNe proktam_pravac_SNPaPsNe adhyāyāḥ_adhyāya_PNM saptatiḥ_saptati_SNF tathā_tathā_"
+  }
+]

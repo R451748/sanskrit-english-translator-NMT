@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26760,
+    "sanskrit": "yasyām diśi pravṛddhāḥ ca kaśyapasya ātma saṃbhavāḥ",
+    "english": "There the sons of Kasyapa first multiplied.",
+    "morphology": "yasyām_yad_SLF diśi_diś_SLF pravṛddhāḥ"
+  },
+  {
+    "index": 26761,
+    "sanskrit": "ā yasmin tve iti su apāke yajatra yakṣat rājan sarvatātāiva nu dyauḥ tri sadhasthaḥ tataruṣaḥ na jaṁhaḥ havyā maghāni mānuṣā yajadhyai",
+    "english": "In thee, most wise, shall Dyaus, for full perfection, King! Holy One! pronounce the call to worship. Found in three places, like the Speeder's footstep, come to present men's riches as oblations!",
+    "morphology": "ā_ā_U yasmin_yad_SLM tve_tvad_SL iti_iti_U su_su_U apāke_apāka_SLM yajatra_yajatra_SVM yakṣat_yaj_SPs3Su rājan_rājan_SVM sarvatātāiva_sarvatātāiva_SVM nu_nu_U dyauḥ_div_SNM tri_tri_Cp sadhasthaḥ_sadhastha_SNM tataruṣaḥ_tṛ_SGPaPsM na_n"
+  },
+  {
+    "index": 26762,
+    "sanskrit": "yadi hi pramāṇena sarvajño nirastaḥ syāt tadānyathānupapattyā gauṇārthatvam asya niyataṃ syāt nānyathā mukhyārthatvasyāpi sambhāvyamānatvāt /",
+    "english": "If the existence of the Omniscient Person had been rejected by proofs, then no other explanation being possible, the assertions in question might be taken in their figurative sense; not otherwise, if the primary meaning were in any way possible.",
+    "morphology": "yadi_yadi_ hi_hi_ pramāṇena_pramāṇa_SINe sarvajñaḥ_sarvajña_SNM nirastaḥ_niras_SNPaM syāt_as_SPr3O tadā_tadā_ anyathā_anyathā_ anupapattyā_anupapatti_SIF gauṇa_gauṇa_Cp artha_artha_Cp tvam_tva_SNNe asya_idam_SGM niyatam_niyam_SNPaNe s"
+  },
+  {
+    "index": 26763,
+    "sanskrit": "varaṃ vṛṇai mahyaṃ ca | evaiṣa mitrāya ca saha gṛhyātā iti tasmān maitrāvaruṇaḥ saha gṛhyate tasmād rājñā rājānam aṃśabhuvā ghnanti vaiśyena vaiśyaṃ śūdreṇa sūdram |",
+    "english": "he replied, 'Let me choose a boon, for me [2] and Mitra together let this (cup) be drawn.' Therefore it is drawn for Mitra and Varuna together; therefore with a king as helper they slay a king, with a Vaiçya a Vaiçya, with a Çudra a Çudra.",
+    "morphology": "varam_vara_SAM vṛṇai_vṛ_SPr1Su mahyam_mad_SD ca_ca_  / eva_eva_ eṣa_etad_SNM mitrāya_mitra_SDM ca_ca_ saha_saha_ gṛhyātai_grah_SPr3InPv iti_iti_ tasmāt_tasmāt_ maitrāvaruṇaḥ_maitrāvaruṇa_SNM saha_saha_ gṛhyate_grah_SPr3InPv tasmāt_"
+  },
+  {
+    "index": 26764,
+    "sanskrit": "tava prasava nirvṛtyāḥ mama lokāḥ kila akṣayāḥ",
+    "english": "Through thy grace, numerous regions of beatitude will be mine for eternity.",
+    "morphology": "tavā_tvad_SG prasava_prasava_SVM"
+  },
+  {
+    "index": 26765,
+    "sanskrit": "tadā ca brāhmaṇāḥ satyā vijñeyāḥ / taiḥ saha svadharmaṃ nyāyyam arthaṃ bodhayet /",
+    "english": "It is only in the latter that the true character of the Brāhmaṇa becomes revealed. With the assistance of these Brāhmaṇas, he shall explain to them their duty.",
+    "morphology": "tadā_tadā_ ca_ca_ brāhmaṇāḥ_brāhmaṇa_PNM satyāḥ_satya_PNM vijñeyāḥ_vijñā_PNMGd  / taiḥ_tad_PIM saha_saha_ svadharmam_svadharma_SAM nyāyyam_nyāyya_SAM artham_artha_SAM bodhayet_bodhay_SPr3O"
+  },
+  {
+    "index": 26766,
+    "sanskrit": "nakulam ca yudhām śreṣṭham sarva yuddha viśāradam śakuniḥ saubalaḥ rājan vārayām āsa sa tvaraḥ",
+    "english": "Sakuni, the son of Suvala, O king, proceeding quickly, resisted that foremost of warriors, viz., Nakula, who was conversant with every kind of battle.",
+    "morphology": "nakulam_nakula_SAM ca_ca_U yudhām_yudh_PGM śreṣṭham_śreṣṭha_SAM sarva_sarva_Cp yuddha_yuddha_NeCp viśāradam_viśārada_SAM śakuniḥ_śakuni_SNM saubalaḥ_saubala_SNM rājan_rājan_SVM"
+  },
+  {
+    "index": 26767,
+    "sanskrit": "eṣa cetsūtrārtho 'bhaviṣyadasmin satīdaṃ na bhavatītyevācakṣata /",
+    "english": "But, ia order to express this sense, the Blessed One shouldhave said, \"If that exists, then this does not exist;",
+    "morphology": "eṣa_etad_SNM ced_ced_ sūtra_sūtra_Cp arthaḥ_artha_SNM abhaviṣyat_bhū_SFu3 asmin_idam_SLNe sati_as_SLPaPrNe idam_idam_SNNe na_na_ bhavati_bhū_SPr3In iti_iti_ eva_eva_ ācakṣata_ācakṣ_P3ImIn  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5416,
+    "sanskrit": "bhujaṅgannāmamṛnmūrtisaṃsthaṃ vidyādarintataḥ //3//",
+    "english": "Obeisance to the god of manifold forms. Paralyse.",
+    "morphology": "__bhujaṃga_U __nāman_U __mṛd_U __mūrti_U __saṃstha_U __vid_SPr3O __ari_U __tatas_U  /"
+  },
+  {
+    "index": 5417,
+    "sanskrit": "na kāryatattvaṃ sahasaiva lakṣyate vimarśamaprāpya viśeṣahetubhiḥ //",
+    "english": "The truth about anything to be done cannot be discerned at once before inquiring by reasoning into the differences in the several modes of action.",
+    "morphology": "na_na_ kārya_kārya_Cp tattvam_tattva_SNNe sahasā_sahasā_ eva_eva_ lakṣyate_lakṣay_SPr3InPv vimarśam_vimarśa_SAM a_a_ prāpya_prāp_Co"
+  },
+  {
+    "index": 5418,
+    "sanskrit": "atha dṛṣṭvā svasainyaṃ tatpalāyanaparāyaṇam | cukrodhāti mahāvīrassiṃdhuputro jalaṃdharaḥ ||",
+    "english": "23. On seeing his army on the rout, the heroic son of the ocean Jalandhara became very furious.",
+    "morphology": "atha_atha_ dṛṣṭvā_dṛś_Co sva_sva_Cp sainyam_sainya_SANe tat_tad_SANe palāyana_palāyana_Cp parāyaṇam_parāyaṇa_SANe  / cukrodha_krudh_SPs3In ati_ati_ mahā_mahat_Cp vīraḥ_vīra_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 5419,
+    "sanskrit": "sarve gaṇāśca sahasā madanena vimohitāḥ | bhṛṃgiṇā ca tadā raṃbhā caṇḍena saha corvaśī || 51 || menakā vīrabhadreṇa caṇḍena puṃjikasthalī | tilottamādayastatra saṃvṛtāśca gaṇaistadā || 52 ||",
+    "english": "51-53. All the Gaṇas were suddenly enchanted by Madana. Raṃbhā (was approached) by Bhṛṅgi, Urvaśī by Caṇḍa, Menakā by Vīrabhadra and Puñjikasthalī by Caṇḍa(?). Tilottamā and others were surrounded by the Gaṇas then, who had become mad and abandoned all shame although they were high-minded and learned.",
+    "morphology": "sarve_sarva_PNM gaṇāḥ_gaṇa_PNM ca_ca_ sahasā_sahasā_ madanena_madana_SIM vimohitāḥ_vimohay_PNPaM  / bhṛṃgiṇā_bhṛṅgin_SIM ca_ca_ tadā_tadā_ raṃbhā_rambhā_SNF caṇḍena_caṇḍa_SIM saha_saha_ ca_ca_ urvaśī_urvaśī_SNF  / m"
+  },
+  {
+    "index": 5420,
+    "sanskrit": "mahotsavo mahānāsītsarvatra pramudāvahaḥ | babhūva jayasaṃrāvo divi bhūmyantarikṣake ||",
+    "english": "43. There was a great jubilation everywhere that gladdened everyone. Cries of “Victory” rose up in the heaven, the earth and the sky.",
+    "morphology": "mahā_mahat_Cp utsavaḥ_utsava_SNM mahān_mahat_SNM āsīt_as_S3ImIn sarvatra_sarvatra_ pramudā_pramudā_Cp āvahaḥ_āvaha_SNM  /"
+  },
+  {
+    "index": 5421,
+    "sanskrit": "uṣṇanarakāḥ aṣṭau |",
+    "english": "There are eight hot hells.",
+    "morphology": "__U"
+  },
+  {
+    "index": 5422,
+    "sanskrit": "uṣaḥ yasmāt duṣvapnyāt abhaiṣma apa tat ucchatu //",
+    "english": "Let Morning with her light dispel that evil dream that frightened us.",
+    "morphology": "uṣaḥ_uṣas_SVF yasmā_yad_SBNe duṣvapnyāt_duḥḥḥ_SNF"
+  },
+  {
+    "index": 5423,
+    "sanskrit": "sa tena karmaṇā, paścime janmani vīta-rāgopi bhūtvā,",
+    "english": "Through this deed, having become free from lust in a later life,",
+    "morphology": "sa_tad_SNM tena_tad_SINe karmaṇā_karman_SINe paścime_paścima_SLNe janmani_janman_SLNe vīta_vī_PaCp rāgaḥ_rāga_SNM upi_upi_ bhūtvā_bhū_Co"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4680,
+    "sanskrit": "yad ādityasya rohitaṃ rūpaṃ tejasas tad rūpam / yac chuklaṃ tad apām /",
+    "english": "In the Sun, the red colour is the colour of Fire,the white is that of Water,and the black is that of Food Earth;",
+    "morphology": "yat_yad_SNNe ādityasya_āditya_SGM rohitam_rohita_SNNe rūpam_rūpa_SNNe tejasaḥ_tejas_SGNe tat_tad_SNNe rūpam_rūpa_SNNe  / yat_yad_SNNe śuklam_śukla_SNNe tat_tad_SNNe apām_ap_PGF  /"
+  },
+  {
+    "index": 4681,
+    "sanskrit": "bhavantu hasti aśva ratheṣu yattāḥ",
+    "english": "the very fire exhibiteth diverse kinds of terrible hues! This would never have been the case but for the fact of the world-destroying Havoc's self coming into our midst! Making ready their weapons, machines, coats of mail, and cars, elephants, and steeds, let all thy warriors be prepared for battle, and let them take care of their elephants and horses and cars.",
+    "morphology": "bhavantu_bhū_PPr3Im"
+  },
+  {
+    "index": 4682,
+    "sanskrit": "sthitālpatārāṃ karuṇendumaṇḍalāṃ vibhātakalpāṃ rajanīṃ vyaḍambayat // Ragh(K)_3.2 //",
+    "english": "Not wearing all her ornaments on account of the attenuation of her body and with her face pale like the lodhra flower, she looked like the night bordering on dawn, with but a few'stars dis- played (therein) and marked by the moon shining dimly.",
+    "morphology": "sthita_sthā_PaCp alpa_alpa_Cp tārām_tārā_SAF karuṇa_karuṇa_Cp indu_indu_Cp maṇḍalām_maṇḍala_SAF vibhāta_vibhāta_Cp kalpām_kalpa_SAF rajanīm_rajanī_SAF vyaḍambayat_viḍambay_S3ImIn  // Raghu_Cp 3.2  /"
+  },
+  {
+    "index": 4683,
+    "sanskrit": "saṃśayena yatas vṛtteḥ tad prāmāṇya viniścaye | niścita upāya tā tena mānam sā ca sati api saṃśaye ||",
+    "english": "It is because of the man having acted on the basis of a doubt, in regard to the ascertainment of validity,—that its being the proper means can be ascertained; so that there is this even when there is doubt",
+    "morphology": "saṃśayena_saṃśaya_SIM yatas_yatas_U vṛtteḥ_vṛtti_SGF tad_tad_Cp prāmāṇya_prāmāṇya_NeCp viniścaye_viniścaya_SLM  / niścita_niści_PaPsCp upāya_upāya_MCp tā_tā_SNF tena_tad_SIM mānam_māna_SNNe sā_tad_SNF ca_ca_U sati_as_SLPaPrM "
+  },
+  {
+    "index": 4684,
+    "sanskrit": "vedanā utpadyati pi nirudhyati pi,",
+    "english": "feeling arises and ceases,",
+    "morphology": "vedanā_vedanā_SNF"
+  },
+  {
+    "index": 4685,
+    "sanskrit": "vadanti madhurāḥ vācaḥ sarva bhūta manonugāḥ bhṛṅgarāja upacakrāḥ ca loha pṛṣṭhāḥ ca patriṇaḥ",
+    "english": "And those birds, bhringarajas, and upachakras, and herons are pouring forth their notes charming to all creatures.",
+    "morphology": "vadanti_vad_PPr3In madhurāḥ_madhura_PAF vācaḥ_vāc_PAF sarva_sarva_Cp bhūta_bhūta_MCp manonugāḥ_manonuga_PAF bhṛṅgarāja_bhṛṅgarāja_MCp upacakrāḥ_upacakra_PNM ca_ca_U loha_loha_NeCp pṛṣṭhāḥ_pṛṣṭha_PNM ca_ca_U patriṇa"
+  },
+  {
+    "index": 4686,
+    "sanskrit": "triṣu sphuliṅgo 'gnikaṇo dharmarājaḥ paretarāṭ //",
+    "english": "Sphuliṅga and Agnikaṇa denote a spark of fire. These words are used in all the three genders.",
+    "morphology": "triṣu_tri_PLM sphuliṅgaḥ_sphuliṅga_SNM agnikaṇaḥ_agnikaṇa_SNM dharmarājaḥ_dharmarāja_SNM paretarāj_paretarāj_SNM  /"
+  },
+  {
+    "index": 4687,
+    "sanskrit": "tam īmahe puru stutam yahvam pratnābhiḥ ūti bhiḥ ni barhiṣi priye sadat adha dvitā",
+    "english": "With ancient offerings we implore the Young and Strong whom many praise. He from of old hath sat upon dear sacred grass.",
+    "morphology": "tam_tad_SAM īmahe_ī_PPr1In puru_puru_Cp stutam_stu_SAPaPsM yahvam_yahva_SAM pratnābhiḥ_pratna_PIF ūti_ūti_FCp bhiḥ_bhiḥ_PIF ni_ni_U barhiṣi_barhis_SLNe priye_priya_SLNe sadat_sad_SPs3 adha_adha_U dvitā_dvitā_U"
+  }
+]

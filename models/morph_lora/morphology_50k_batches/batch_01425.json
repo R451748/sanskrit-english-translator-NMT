@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11392,
+    "sanskrit": "tato nandī //",
+    "english": "Four Kaṇwas.",
+    "morphology": "tatas_ "
+  },
+  {
+    "index": 11393,
+    "sanskrit": "ko 'syārthaḥ /",
+    "english": "What is the meaning of this expression?",
+    "morphology": "kaḥ_ka_SNM"
+  },
+  {
+    "index": 11394,
+    "sanskrit": "pāṇau bhikṣāṃ gṛhītvātha pratyakṣaṃ tena cāgninā | bhikṣitā kupitā taṃ vai śaśāpa girijā tataḥ || 41 ||",
+    "english": "41. After taking the alms (the semen of Śiva) in the (palms of his) hand, it was eaten up[8] by Agni in her very presence. Girijā became furious and cursed him.",
+    "morphology": "pāṇau_pāṇi_SLM bhikṣām_bhikṣā_SAF gṛhītvā_grah_Co atha_atha_ pratyakṣam_pratyakṣa_SANe tena_tad_SIM ca_ca_ agninā_agni_SIM  / bhikṣitā_bhikṣ_SNPaF kupitā_kup_SNPaF tam_tad_SAM vai_vai_ śaśāpa_śap_SPs3In girijā_girijā_SNF ta"
+  },
+  {
+    "index": 11395,
+    "sanskrit": "tvam ca śūraḥ sadā amarṣī śastra nityaḥ ca bhārata",
+    "english": "O thou of Bharata's race, thou art a hero of excitable temper, who is always engaged in the exercise of arms.",
+    "morphology": "tvam_tvad_SN ca_ca_U śūraḥ_śūra_SNM sadā_sadā_U amarṣī_amarṣin_SNM śastra_śastra_NeCp nityaḥ_nitya_SNM ca_ca_U"
+  },
+  {
+    "index": 11396,
+    "sanskrit": "anyathā kramarūpatvaṃ nityatvād vyāptitaś ca na / nābhivyaktikramaścāsti nityatve vyakyayogataḥ //",
+    "english": "Otherwise [if the Veda were not the work of a person], as the Veda would be eternal and all-pervading, there could be no sequential order in it. as a matter of fact, there can be no sequence in what is eternal; as there can be no ‘manifestation’ of it.",
+    "morphology": "anyathā_anyathā_ krama_krama_Cp rūpa_rūpa_Cp tvam_tva_SNNe nitya_nitya_Cp tvāt_tva_SBNe vyāptitaḥ_vyāpti_SBF ca_ca_ na_na_  / na_na_ abhivyakti_abhivyakti_Cp kramaḥ_krama_SNM ca_ca_ asti_as_SPr3In nitya_nitya_Cp tve_tva_SLNe vyakya_vyakya_Cp yog"
+  },
+  {
+    "index": 11397,
+    "sanskrit": "kauraveṣu ca yāteṣu tadā rājan dinakṣaye jayam sumanasaḥ prāpya pārthāḥ sva śibiram yayuḥ vāditra śabdaiḥ vividhaiḥ siṃhanādaiḥ ca nartitaiḥ",
+    "english": "Upon the retirement of the Kauravas, O king, at the close of the day, the Parthas, cheerful at having obtained the victory, also retired to their own encampment, jeering at their enemies by producing diverse kinds of sounds with their musical instruments, and applauding Acyuta and Arjuna.",
+    "morphology": "kauraveṣu_kaurava_PLM ca_ca_U yāteṣu_yā_PLPaPsM tadā_tadā_U rājan_rājan_SVM dinakṣaye_dinakṣaya_SLM jayam_jaya_SAM sumanasaḥ_sumanas_PNM prāpya_prāp_Co pārthāḥ_pārtha_PNM sva_sva_Cp śibiram_śibira_SANe yayuḥ_yā_PPs3In vāditra_v"
+  },
+  {
+    "index": 11398,
+    "sanskrit": "prayatnena adhigantavyam dhāryam ca prayata ātmanā",
+    "english": "It should be comprehended with attention by spiritual aspirants and engraved on the memory.",
+    "morphology": "prayatnena_prayatna_SIM adhigantavyam_adhigam_SNNeGd"
+  },
+  {
+    "index": 11399,
+    "sanskrit": "yadanyatra phalaṃ liṃge koṭipuṣpa pradānataḥ | tadekenaiva puṣpeṇa vīreśe nātra saṃśayaḥ || 17 ||",
+    "english": "117. There is no doubt in this that with a single flower offered to Vīreśa one will get the benefit of offering a crore of flowers elsewhere.",
+    "morphology": "yat_yad_SNNe anyatra_anyatra_ phalam_phala_SNNe liṃge_liṅga_SLNe koṭi_koṭi_Cp puṣpa_puṣpa_SVM pradānataḥ_pradāna_SBNe  / tat_tad_SNNe ekena_eka_SINe eva_eva_ puṣpeṇa_puṣpa_SINe vīreśe_vīreśa_SLM na_na_ atra_atra_ saṃśayaḥ_sa"
+  }
+]

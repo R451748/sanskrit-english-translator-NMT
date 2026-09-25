@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1704,
+    "sanskrit": "paśya me sūta vikrāntam indrasya iva mahā mṛdhe tūṇī carma asimat ghoram gaja aśva ratha saṃkulam",
+    "english": "Behold, O charioteer, my prowess which is equal to that of Indra himself in great battle.",
+    "morphology": "paśya_paś_SPr2Im me_mad_SG sūta_sūta_SVM vikrāntam_vikrānta_SANe indrasya_indra_SGM iva_iva_U mahā_mahat_Cp mṛdhe_mṛdha_SLM tūṇī_tūṇī_FCp carma_carman_NeCp asimat_asimat_SANe ghoram_ghora_SANe gaja_gaja_MCp aśva_aśva_MCp ratha_ratha_MC"
+  },
+  {
+    "index": 1705,
+    "sanskrit": "gandhapuṣpodakair yuktamarghyamarghyapate śubhaṃ /",
+    "english": "O Lord of libation! Here is the auspicious libation mixed with fragrance, flower and water.",
+    "morphology": "gandha_gandha_Cp puṣpa_puṣpa_Cp udakaiḥ_udaka_PINe yuktam_yuj_SAPaNe arghya_arghya_SANe arghya_arghya_Cp pate_pati_SVM śubha_śubha_SANe"
+  },
+  {
+    "index": 1706,
+    "sanskrit": "bahvīḥ tu saṃsaran yonīḥ jāyamānaḥ punar punar paryāye tāta kasmin cit brāhmaṇaḥ nāma jāyate",
+    "english": "Travelling through innumerable orders of existence, by undergoing repeated births, one at last, in some birth, becomes born as a Brahmana.",
+    "morphology": "bahvīḥ_bahu_PAF tu_tu_U saṃsaran_saṃsṛ_SNPaPrM yonīḥ_yoni_PAF jāyamānaḥ_jan_SNPaPrM punar_punar_U punar_punar_U paryāye_paryāya_SLM tāta_tāta_SVM kasmin_ka_SLM cit_cit_U brāhmaṇaḥ_brāhmaṇa_SNM nāma_nāma_U jāyate_jan_SPr3In"
+  },
+  {
+    "index": 1707,
+    "sanskrit": "bṛhatkrakacaniṣpeṣaṃ narakānubhavabhramam / tālītamālahiṃtālamālāvalanamambare //",
+    "english": "It sees rows of palms and other trees ranged in the sky, and sees the false sights of hell punishments, as the sawing and crushing of sinful bodies.",
+    "morphology": "bṛhat_bṛhat_Cp krakaca_krakaca_Cp niṣpeṣam_niṣpeṣa_SAM naraka_naraka_Cp anubhava_anubhava_Cp bhramam_bhrama_SAM  / tālī_tālī_Cp tamāla_tamāla_Cp hiṃtāla_hiṃtāla_Cp mālā_mālā_Cp valanam_valana_SAM ambare_ambara_SLNe  /"
+  },
+  {
+    "index": 1708,
+    "sanskrit": "arthāśca sapta / te'smiñchāstre vyākhyāyante //",
+    "english": "The subjects are seven in number which are explained in this treatise.",
+    "morphology": "arthāḥ_artha_PNM ca_ca_ sapta_saptan_PNM  / te_tad_PNM asmin_idam_SLNe śāstre_śāstra_SLNe vyākhyāyante_vyākhyā_PPr3InPv  /"
+  },
+  {
+    "index": 1709,
+    "sanskrit": "bhaktyā ca śraddhayā yukta etadājñāṃ pravarttaya | pratimāvyavahāreṇa nainaṃ jānīhi bhūmipa || 9 ||",
+    "english": "9. Carry out his behest with devotion and faith. O king, do not think that he is a mere idol.",
+    "morphology": "bhaktyā_bhakti_SIF ca_ca_ śraddhayā_śraddhā_SIF yuktaḥ_yuj_SNPaM etad_etad_Cp ājñām_ājñā_SAF pravarttaya_pravartay_SPr2Im  / pratimā_pratimā_Cp vyavahāreṇa_vyavahāra_SIM na_na_ enam_enad_SAM jānīhi_jñā_SPr2Im bhūmipa_bhūmipa_SVM  /"
+  },
+  {
+    "index": 1710,
+    "sanskrit": "vyāvṛttadehaḥ sa girī ramya evopalakṣyate // abhivṛṣṭasya tair meghais tasya rūpaṃ babhūva ha /",
+    "english": "Having its form metamorphosed that mountain, consisting of even, uneven and impassable places, appeared like another mountain.",
+    "morphology": "vyāvṛtta_vyāvṛt_PaCp dehaḥ_deha_SNM sa_tad_SNM giriḥ_giri_SNM ramyaḥ_ramya_SNM eva_eva_ upalakṣyate_upalakṣay_SPr3InPv  // abhivṛṣṭasya_abhivṛṣ_SGPaM taiḥ_tad_PIM meghaiḥ_megha_PIM tasya_tad_SGM rūpam_rūpa_SNNe babhūva_bhū"
+  },
+  {
+    "index": 1711,
+    "sanskrit": "dve śate dhanuṣāṃ gatvā rājā tiṣṭhet pratigrahaḥ / bhinnasaṃghātanārthaṃ tu na yudhyetāpratigrahaḥ // //",
+    "english": "Says a work on the subject \"The king shall go back to a distance of 00 bows 00 feet and stay there as the he engage in battle rear guard, for the purpose of rallying the men that may be routed; and in no case shall he be without such a rearguard\".",
+    "morphology": "dve_dvi_DuANe śate_śata_DuANe dhanuṣām_dhanus_PGNe gatvā_gam_Co rājā_rājan_SNM tiṣṭhet_sthā_SPr3O pratigrahaḥ_pratigraha_SNM  / bhinna_bhid_PaCp saṃghātana_saṃghātana_Cp artham_artha_SAM tu_tu_ na_na_ yudhyeta_yudh_SPr3O a_a_ pratigra"
+  }
+]

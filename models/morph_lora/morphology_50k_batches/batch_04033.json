@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32256,
+    "sanskrit": "citā vedanavettāraṃ sthāvaraṃ kriyate vapuḥ / citā vedanavettāraṃ jaṅgamaṃ kriyate vapuḥ //",
+    "english": "The intellect moulds the form of one, who is conversant with material and insensible things, into a motionless and torpid body; and it is the same intellect, which shapes the forms of others, that are conscious of their intellectual natures, into the bodies of rational and moving being.",
+    "morphology": "citā_cit_SIF vedana_vedana_Cp vettāram_vettṛ_SNNe sthāvaram_sthāvara_SNNe kriyate_kṛ_SPr3InPv vapuḥ_vapus_SNNe  / citā_cit_SIF vedana_vedana_Cp vettāram_vettṛ_SNNe jaṅgamam_jaṅgama_SNNe kriyate_kṛ_SPr3InPv vapuḥ_vapus_SNNe  /"
+  },
+  {
+    "index": 32257,
+    "sanskrit": "iti devāḥ vyavasitāḥ veda vādāḥ ca śāśvatāḥ",
+    "english": "The eternal precepts of the Vedas also sanction it.",
+    "morphology": "iti_iti_U devāḥ_deva_PNM vyavasitāḥ_vyavasā_PNPaPsM veda_veda_MCp vādāḥ_vāda_PNM ca_ca_U śāśvatāḥ_śāśvata_PNM"
+  },
+  {
+    "index": 32258,
+    "sanskrit": "janmadeśa eva cyavante ca sarve bhāvā vivakṣitā iti vyāpakaviruddhopalabdhiḥ //",
+    "english": "all the things in question do cease at the very spot where they come into existence; hence there is an apprehension which is contrary to a character wider than the one desired to be proved (by the opposite party).",
+    "morphology": "janma_janman_Cp deśe_deśa_SLM eva_eva_ cyavante_cyu_PPr3In ca_ca_ sarve_sarva_PNM bhāvāḥ_bhāva_PNM vivakṣitāḥ_vivakṣita_PNM iti_iti_ vyāpaka_vyāpaka_Cp viruddha_virudh_PaCp upalabdhiḥ_upalabdhi_SNF  /"
+  },
+  {
+    "index": 32259,
+    "sanskrit": "syātprabandhe cirātīte nikaṭāgāmike purā /",
+    "english": "Purā would be used to indicate continuity, long past, nearness and the future.",
+    "morphology": "syāt_as_SPr3O prabandhe_prabandha_SLM cira_cira_Cp atīte_atī_SLPaM nikaṭa_nikaṭa_Cp āgāmike_āgāmika_SLM purā_purā_"
+  },
+  {
+    "index": 32260,
+    "sanskrit": "tvam hi viśvataḥ mukha viśvataḥ pari bhūḥ asi apa naḥ śośucat agham",
+    "english": "To every side thy face is turned, thou art triumphant everywhere. May his light chase our sin away.",
+    "morphology": "tvam_tvad_SN hi_hi_U viśvataḥ_viśvatas_U mukha_mukha_SVM viśvataḥ_viśvatas_U pari_pari_U bhūḥ_bhū_SNF asi_as_SPr2In apa_apa_U naḥ_mad_PG śośucat_śośuc_SNPaPrM agham_agha_SANe"
+  },
+  {
+    "index": 32261,
+    "sanskrit": "yat te soma divi jyotir yat pṛthivyāṃ yad urāv antarikṣe / tenāsmai yajamānāyoru rāye kṛdhy adhi dātre vocaḥ //",
+    "english": "Soma, what light there is of thine in heaven, what on the earth, what in mid-air's wide region, Therewith give broad space to the Sacrificer for his enrichment: Comfort thou the giver. 34",
+    "morphology": "yat_yad_SNNe te_tvad_SG soma_soma_SVM divi_div_SLM jyotiḥ_jyotis_SNNe yat_yad_SNNe pṛthivyām_pṛthivī_SLF yat_yad_SNNe urau_uru_SLNe antarikṣe_antarikṣa_SLNe  / tena_tad_SINe asmai_idam_SDM yajamānāya_yaj_SDPaPrM uru_uru_SANe rāye_rai_SDM k"
+  },
+  {
+    "index": 32262,
+    "sanskrit": "teṣu nedur madhukarā nadantaś citra pakṣiṇaḥ śītalā manda yānāś ca gandhāktā vayavo vavuḥ",
+    "english": "Bees hummed, colorful birds sang, and fragrant cooling breezes gently blew.",
+    "morphology": "teṣu_tad_PLM neduḥ_nad_PPs3In madhukarāḥ_madhukara_PNM nadantaḥ_nad_PNPaPrM citra_citra_SVM pakṣiṇaḥ_pakṣin_PNM śītalāḥ_śītala_PNM manda_manda_SVM yānāḥ_yāna_PNM ca_ca_ gandha_gandha_Cp aktāḥ_añj_PNPaM vayavaḥ_vayu_PNM va"
+  },
+  {
+    "index": 32263,
+    "sanskrit": "anādimati nīrūpe sarvage vitatātmani / āropayetkaḥ kalanāmṛgvedaṃ vyomni ko likhet //",
+    "english": "\"Why then entertain the suppositions of \"\"this is I and that is another,\"\" in this unsuppositious existence? There can be no distinction whatever of this or that in one unlimited, all extending and undefinable expanse of the soul; and the ascription of any attribute to it, is as the supposition of water in the mirage, or of a writing in the Sky. \"",
+    "morphology": "anādimati_anādimat_SLM nīrūpe_nīrūpa_SLM sarvage_sarvaga_SLM vitata_vitan_PaCp ātmani_ātman_SLM  / āropayet_āropay_SPr3O kaḥ_ka_SNM kalanā_kalanā_Cp mṛgvedam_mṛgveda_SAM vyomni_vyoman_SLM kaḥ_ka_SNM likhet_likh_SPr3O  /"
+  }
+]

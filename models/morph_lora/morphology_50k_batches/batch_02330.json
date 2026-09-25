@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18632,
+    "sanskrit": "pituḥ parivāpād yānam ābharaṇaṃ ca jyeṣṭhaaṃśaḥ,",
+    "english": "The father being dead, his carriage and jewellery shall be the special share to the eldest;",
+    "morphology": "pituḥ_pitṛ_SGM parivāpāt_parivāpa_SBM yānam_yāna_SNNe ābharaṇam_ābharaṇa_SNNe"
+  },
+  {
+    "index": 18633,
+    "sanskrit": "śūdraś ca dvijāśauce snānam ācaret //",
+    "english": "A Sûdra (who has eaten the food) of an impure man of a twice-born caste must bathe (in a river).",
+    "morphology": "śūdraḥ_śūdra_SNM ca_ca_ dvija_dvija_Cp āśauce_āśauca_SLNe snānam_snāna_SANe ācaret_ācar_SPr3O"
+  },
+  {
+    "index": 18634,
+    "sanskrit": "gāvaḥ bhagaḥ gāvaḥ indraḥ me acchān gāvaḥ somasya prathamasya bhakṣaḥ imāḥ yāḥ gāvaḥ saḥ janāsaḥ indraḥ icchāmi it hr̥dā manasā cit indram",
+    "english": "To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first-poured Soma. These present Cows, they, O ye Indra. I long for Indra with my heart and spirit.",
+    "morphology": "gāvaḥ_go_PNM bhagaḥ_bhaga_SNM gāvaḥ_go_PNM indraḥ_indra_SNM me_mad_SD acchān_chand_SPs3In gāvaḥ_go_PNM somasya_soma_SGM prathamasya_prathama_SGM bhakṣaḥ_bhakṣa_SNM imāḥ_idam_PNF yāḥ_yad_PNF gāvaḥ_go_PNF saḥ_tad_SNM janāsaḥ"
+  },
+  {
+    "index": 18635,
+    "sanskrit": "viśvāmitro yamadagnirbharadvājo 'tha gotamaḥ / ṛṣiratrirvaśiṣṭhaś ca kāśyapaś ca yathākramaṃ //",
+    "english": "The sages of the vyāhṛtis are Viśvāmitra, Jamadagni, Bharadvāja, Gautama, Atri, Vasiṣṭha and Kaśyapa in order.",
+    "morphology": "viśvāmitraḥ_viśvāmitra_SNM yamadagniḥ_yamadagni_SNM bharadvājaḥ_bharadvāja_SNM atha_atha_ gotamaḥ_gotama_SNM  / ṛṣiḥ_ṛṣi_SNM atriḥ_atri_SNM vasiṣṭhaḥ_vasiṣṭha_SNM ca_ca_ kāśyapaḥ_kāśyapa_SNM ca_ca_ yathākramam_yat"
+  },
+  {
+    "index": 18636,
+    "sanskrit": "sūta uvāca | sa kṛtvā svāśramaṃ tatra vasiṣṭho bhagavānmuniḥ | tatra śaṃbhornivāsāya tapastepe sudāruṇam || 1 ||",
+    "english": "Sūta said: 1. Sage Vasiṣṭha made his own hermitage on that Arbuda mountain and began the pursuit of intense religious austerities for making the dwelling of God Saṃkara [Śaṃkara?] on it.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / sa_tad_SNM kṛtvā_kṛ_Co sva_sva_Cp āśramam_āśrama_SAM tatra_tatra_ vasiṣṭhaḥ_vasiṣṭha_SNM bhagavān_bhagavat_SNM muniḥ_muni_SNM  / tatra_tatra_ śaṃbhoḥ_śambhu_SGM nivāsāya_nivāsa_SDM tapa"
+  },
+  {
+    "index": 18637,
+    "sanskrit": "chapter 84,",
+    "english": "Though they did not fight with us, with cars, elephants, horses and infantry, still, as the Kshatriyas should do, we laid seige to the hill and set fire to it.",
+    "morphology": "chapter_"
+  },
+  {
+    "index": 18638,
+    "sanskrit": "pratibhagamavyaktāḥ prajāstadāsyāḥ prajāyante | teṣāmatisūkṣmāṇāmetāvattvaṃ na varṇyate vidhiṣu |",
+    "english": "b-a Since these matters are extremely subtle, they are not recounted in all their details in the Sāstra concerned.",
+    "morphology": "pratibhagam_pratibhaga_SAM avyaktāḥ_avyakta_PNF prajāḥ_prajā_PNF tadā_tadā_ asyāḥ_idam_SGF prajāyante_prajan_PPr3In  / teṣām_tad_PGM ati_ati_ sūkṣmāṇām_sūkṣma_PGM etāvat_etāvat_Cp tvam_tva_SNNe na_na_ varṇyate_varṇay_SPr3InP"
+  },
+  {
+    "index": 18639,
+    "sanskrit": "pṛṣṭhatonuyayau yāṃtaṃ varadaṃ vṛṣabhadhvajam | tasya dakṣiṇato devā marutaścitrayodhinaḥ || 17 ||",
+    "english": "Riding on Airāvaṇa Śakra along with the suras closely followed the Bull-emblemed Lord, the bestower of boons.",
+    "morphology": "pṛṣṭhatas_pṛṣṭhatas_ nuyayau_anuyā_SPs3In yāntam_yā_SAPaPrM vara_vara_Cp dam_da_SAM vṛṣabhadhvajam_vṛṣabhadhvaja_SAM  / tasya_tad_SGM dakṣiṇatas_dakṣiṇatas_ devāḥ_deva_PNM marutaḥ_marut_PNM citra_citra_Cp yodhinaḥ_yodh"
+  }
+]

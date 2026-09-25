@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13888,
+    "sanskrit": "pratijñāṃ śṛṇutaṃ tātau yadi vāṃ tanayo hyaham | kariṣyehaṃ tathā tena vidyunmattastrasiṣyati || 98 ||",
+    "english": "98. Listen to my vow, dear parents. If I am your son, I shall do such a thing as would make the lightning afraid of me.",
+    "morphology": "pratijñām_pratijñā_SAF śṛṇutam_śru_DuPr2Im tātau_tāta_DuVM yadi_yadi_ vām_tvad_DuG tanayaḥ_tanaya_SNM hi_hi_ aham_mad_SN  / kariṣye_kṛ_SFu1In iham_idam_SN tathā_tathā_ tena_tena_ vidyut_vidyut_Cp mattaḥ_mad_SNPaM trasiṣyati_tras_SF"
+  },
+  {
+    "index": 13889,
+    "sanskrit": "na hyāṅga purā ca na jajñe vīratarastvat / na kī rāyā naivathā na bhandanā //",
+    "english": "Never was any hero born before thee mightier than thou",
+    "morphology": "na_na_ hi_hi_ āṅga_āṅga_ purā_purā_ ca_ca_ na_na_ jajñe_jan_SPs3In vīrataraḥ_vīratara_SNM tvat_tvad_SB  / na_na_ rāyā_rai_SIM na_na_ evathā_evathā_ na_na_  /"
+  },
+  {
+    "index": 13890,
+    "sanskrit": "suśītalo bhavatyevam prāpya śītābhighāraṇaṃ //",
+    "english": "Thus it would become cool after having received a cool plastering.",
+    "morphology": "su_su_ śītalaḥ_śītala_SNM bhavati_bhū_SPr3In evam_evam_ prāpya_prāp_Co śīta_śīta_Cp abhighāraṇam_abhighāraṇa_SNNe  /"
+  },
+  {
+    "index": 13891,
+    "sanskrit": "saṃsam id yuvase vṛṣan agne viśvāni aryaḥ ā / iḍaḥ pade sam idhyase sa naḥ vasūni ā bhara /",
+    "english": "Thou, mighty Agni, good and true, gatherest up all precious things. Bring us all treasures as thou art enkindled at libation's place.",
+    "morphology": "saṃsam_saṃsam_U id_id_U yuvase_yu_SPr2In vṛṣan_vṛṣan_SVM agne_agni_SVM viśvāni_viśva_PANe aryaḥ_ari_SGM ā_ā_U  / iḍaḥ_iḍ_SGF pade_pada_SLNe sam_sam_U idhyase_indh_SPr2InPv sa_tad_SNM naḥ_mad_PD vasūni_vasu_PANe ā_ā_U bhara_bh"
+  },
+  {
+    "index": 13892,
+    "sanskrit": "yathā viśuddhiḥ siddhiśca bhaktyā paramayā tava | tathā na syānnṛṇāmanyaiḥ sādhanaistapa ādibhiḥ || 30 ||",
+    "english": "30. The extreme purity and supernatural power as is obtained by highest devotion to you, is not achieved by men with other means including penance.",
+    "morphology": "yathā_yathā_ viśuddhiḥ_viśuddhi_SNF siddhiḥ_siddhi_SNF ca_ca_ bhaktyā_bhakti_SIF paramayā_parama_SIF tava_tvad_SG  / tathā_tathā_ na_na_ syāt_as_SPr3O nṛṇām_nṛ_PGM anyaiḥ_anya_PINe sādhanaiḥ_sādhana_PINe tapaḥ_tapas_SNNe ādibhi"
+  },
+  {
+    "index": 13893,
+    "sanskrit": "tatas tam api kaunteyaḥ samareṣu aparājitaḥ jigāya samare vīraḥ yajña vighna artham udyatam sa tam jitvā mahā rāja naiṣādim pākaśāsaniḥ",
+    "english": "Unvanquished in battle, the valiant son of Kunti defeated the Nishada king who proved an obstacle to the sacrifice.",
+    "morphology": "tatas_tatas_U tam_tad_SAM api_api_U kaunteyaḥ_kaunteya_SNM samareṣu_samara_PLM aparājitaḥ_aparājita_SNM jigāya_ji_SPs3In samare_samara_SLNe vīraḥ_vīra_SNM yajña_yajña_MCp vighna_vighna_MCp artham_artha_SAM udyatam_udyam_SAPaPsM sa_tad_SNM ta"
+  },
+  {
+    "index": 13894,
+    "sanskrit": "tatas devaiḥ mahādevaḥ tadā paśupatiḥ kṛtaḥ",
+    "english": "It was on that occasion also that the celestials, uniting together, made Mahadeva the lord of animals.",
+    "morphology": "tatas_tatas_U devaiḥ_deva_PIM mahādevaḥ_mahādeva_SNM tadā_tadā_U paśupatiḥ_paśupati_SNM kṛtaḥ_kṛ_SNPaPsM"
+  },
+  {
+    "index": 13895,
+    "sanskrit": "tadevaṃ rūpasyāpi cakṣurmanaskārālokeṣu satsūpalambhāt tānupādāya prajñaptirbaktavyā /",
+    "english": "But color is perceived when diverse causes are present, the eye, light, etc. ;",
+    "morphology": "tat_tad_SNNe evam_evam_ rūpasya_rūpa_SGNe api_api_ cakṣuḥ_cakṣus_Cp manaskāra_manaskāra_Cp ālokeṣu_āloka_PLM satsu_as_PLPaPrM upalambhāt_upalambha_SBM tān_tad_PAM upādāya_upādā_Co prajñaptiḥ_prajñapti_SNF baktavyā_vac_SNFGd  /"
+  }
+]

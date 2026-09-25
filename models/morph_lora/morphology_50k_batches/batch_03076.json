@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24600,
+    "sanskrit": "tataḥ plakṣanagādhastātparṇānyāstīrya bhūtale | sāyaṃtanaṃ vidhiṃ kṛtvā suṣvāpa raghunandanaḥ || 4 ||",
+    "english": "After completing the religious rites of the evening, he spread leaves on the ground beneath a Plakṣa tree. There (on them) the scion of the Raghu family had his sleep.",
+    "morphology": "tatas_tatas_ plakṣa_plakṣa_Cp nagāt_naga_SBM adhastāt_adhastāt_ parṇāni_parṇa_PANe āstīrya_āstṛ_Co bhū_bhū_Cp tale_tala_SLM  / sāyaṃtanam_sāyaṃtana_SAM vidhim_vidhi_SAM kṛtvā_kṛ_Co suṣvāpa_svap_SPs3In raghunandanaḥ_raghun"
+  },
+  {
+    "index": 24601,
+    "sanskrit": "asi hi vīra senyaḥ asi bhūri parādadiḥ / asi dabhrasya cit vṛdhaḥ yajamānāya śikṣasi sunvate bhūri te vasu //",
+    "english": "For, Hero, thou art like a host, art giver of abundant prey. Strengthening even the feeble, thou aidest the sacrificer, thou givest the worshipper ample wealth.",
+    "morphology": "asi_as_SPr2In hi_hi_U vīra_vīra_MCp senyaḥ_senya_SNM asi_as_SPr2In bhūri_bhūri_SANe parādadiḥ_parādadi_SNM  / asi_as_SPr2In dabhrasya_dabhra_SGM cit_cit_U vṛdhaḥ_vṛdha_SNM yajamānāya_yaj_SDPaPrM śikṣasi_śikṣ_SPr2In sunvate_su_SDPaPr"
+  },
+  {
+    "index": 24602,
+    "sanskrit": "astam eti mahā bāho tvaramāṇaḥ divākaraḥ",
+    "english": "O sinless one, the sun is quickly proceeding towards the Asta hills.",
+    "morphology": "astam_asta_SAM eti_i_SPr3In mahā_mahat_Cp bāho_bāhu_SVM"
+  },
+  {
+    "index": 24603,
+    "sanskrit": "tau vā ṛtunetyupariṣṭāddviścarataḥ / taddevāḥ purastādaharadadustasmādidamadyāharatha rātriratha śvo 'harbhavitā //",
+    "english": "Over and above they perform twice with the formula 'With the season;' thereby the gods subsequently gave the day (again), whence it is now day there, then it will be night, and to-morrow day.",
+    "morphology": "tau_tad_DuNM vai_vai_ ṛtunā_ṛtu_SIM iti_iti_ upariṣṭāt_upariṣṭāt_ dvis_dvis_ carataḥ_car_DuPr3In  / tat_tad_SANe devāḥ_deva_PNM purastāt_purastāt_ ahar_ahar_SANe adaduḥ_dā_P3ImIn tasmāt_tasmāt_ idam_idam_SNNe adya_adya_ ahar_ahar"
+  },
+  {
+    "index": 24604,
+    "sanskrit": "jāto 'pi dāsyāṃ śūdrasya kāmato 'ṃśaharo bhavet // mṛte pitari kuryustaṃ bhrātarastvardhabhāgikaṃ /",
+    "english": "A son got by a śūdra out of lust through a slave girl would be entitled to have a share in the property of his deceased father. On the decease of his father, his brothers should give him half a share.",
+    "morphology": "jātaḥ_jan_SNPaM api_api_ dāsyām_dāsī_SLF śūdrasya_śūdra_SGM kāmataḥ_kāma_SBM aṃśa_aṃśa_Cp haraḥ_hara_SNM bhavet_bhū_SPr3O  // mṛte_mṛ_SLPaM pitari_pitṛ_SLM kuryuḥ_kṛ_PPr3O tam_tad_SAM bhrātaraḥ_bhrātṛ_PNM tu_tu_ ardh"
+  },
+  {
+    "index": 24605,
+    "sanskrit": "kalpa ante ca eva sarveṣām smṛtim ākṣipya tiṣṭhati",
+    "english": "Thou art he, who, at the end of the Kalpa, stands, withdrawing all things into thyself.",
+    "morphology": "kalpa_kalpa_MCp ante_anta_SLM ca_ca_U eva_eva_U sarveṣām_sarva_PGM smṛtim_smṛti_SAF ākṣipya_ākṣip_Co"
+  },
+  {
+    "index": 24606,
+    "sanskrit": "kadācitsa dvijaśreṣṭhastvaharvyāpāraniṣṭhayā / suṣvāpāntarvyavahṛtirbījatāyāmiva drumaḥ //",
+    "english": "The good Brahman who was observant of his daily ritual, fell asleep one day into a deep trance, and dreamt himself doing the duties of the day, as the seed hid in shell, performs inwardly its act of vegetation.",
+    "morphology": "kadācid_kadācid_ sa_tad_SNM dvijaśreṣṭhaḥ_dvijaśreṣṭha_SNM tu_tu_ ahar_ahar_Cp vyāpāra_vyāpāra_Cp niṣṭhayā_niṣṭhā_SIF  / suṣvāpa_svap_SPs3In antar_antar_ vyavahṛtiḥ_vyavahṛti_SNF bīja_bīja_Cp tāyām_tā_SLF iva_iva_ "
+  },
+  {
+    "index": 24607,
+    "sanskrit": "cāritraṃ duṣyate tāta na ca sadbhiḥ praśasyate //",
+    "english": "But Sire, if a person's character is lost he becomes an object of censure unto the pious.",
+    "morphology": "cāritram_cāritra_SNNe duṣyate_duṣ_SPr3In tāta_tāta_SVM na_na_ ca_ca_ sadbhiḥ_sat_PIM praśasyate_praśaṃs_SPr3InPv  /"
+  }
+]

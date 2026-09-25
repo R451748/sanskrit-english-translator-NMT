@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31248,
+    "sanskrit": "bhūmi pradānam ca karoti vipre dadāti dānam vidhinā ca yaḥ ca sa lokam āpnoti puraṃdarasya",
+    "english": "He who giveth his daughter in marriage, in the Brahma form, who bestoweth gifts of land on Brahmanas and who duly maketh other presents, attaineth to the regions of Purandara.",
+    "morphology": "bhūmi_bhūmi_FCp pradānam_pradāna_SANe ca_ca_U karoti_kṛ_SPr3In vipre_vipra_SLM dadāti_dā_SPr3In dānam_dāna_SANe vidhinā_vidhi_SIM ca_ca_U yaḥ_yad_SNM ca_ca_U sa_tad_SNM lokam_loka_SAM"
+  },
+  {
+    "index": 31249,
+    "sanskrit": "deśaḥ ayam kaḥ ca devānām etat icchāmi veditum sa saṃnivavṛte śrutvā dharmarājasya bhāṣitam deva dūtaḥ abravīt ca enam etāvat gamanam tava",
+    "english": "I desire also to know what region is this of the gods? \"Hearing these words of king Yudhishthira the just, the celestial messenger stopped in his course and replied, saying, Thus far is your way.",
+    "morphology": "deśaḥ_deśa_SNM ayam_idam_SNM kaḥ_ka_SNM ca_ca_U devānām_deva_PGM etat_etad_SANe icchāmi_iṣ_SPr1In veditum_vid_In sa_tad_SNM saṃnivavṛte_saṃnivṛt_SPs3In śrutvā_śru_Co dharmarājasya_dharmarāja_SGM bhāṣitam_bhāṣita_SANe deva_deva"
+  },
+  {
+    "index": 31250,
+    "sanskrit": "sa ca eva vyāhṛte loke manuṣyāṇām śubha aśubhe",
+    "english": "He is ever engaged in the good and evil of men in this world.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 31251,
+    "sanskrit": "tāḥ eva oṣadhayaḥ nidāghe niḥsārāḥ rūkṣāḥ atimātram laghvyaḥ bhavanti apaḥ ca tāḥ upayujyamānāḥ sūrya pratāpa upaśoṣita dehānām dehinām raukṣyāt laghu tvāt vaiśadyāt ca vāyoḥ saṃcayam āpādyanti sa saṃcayaḥ prāvṛṣi ca atyartham jala upaklinnāyām bhūmau klinna dehānām prāṇinām śīta vāta varṣa īritaḥ vātikān vyādhīn janayati | evam eṣa doṣāṇām saṃcaya prakopa hetuḥ uktaḥ",
+    "english": "In the same manner water becomes drought-making [produces a state of parchedness in the organism—Ruksha] in its virtue, and considerably loses its natural coolness and nutritive properties. The sun’s rays dry up the natural moisture of the human system, and accordingly water and vegetables largely partaken of in summer, give rise to an accumulation of wind in the system owing to their lightness, dryness, or expansive and drought-making properties. Subsequently wind thus accumulated in the summer, is agitated by the rains and cold winds in the forepart of the rainy season (Pravrit) when the ground is flooded with water and thus gives rise to diseases which are incidental to a deranged state of the bodily wind.[3]",
+    "morphology": "tāḥ_tad_PNF eva_eva_U oṣadhayaḥ_oṣadhi_PNF nidāghe_nidāgha_SLM niḥsārāḥ_niḥsāra_PNF rūkṣāḥ_rūkṣa_PNF atimātram_atimātram_U laghvyaḥ_laghu_PNF bhavanti_bhū_PPr3In apaḥ_ap_PNF ca_ca_U tāḥ_tad_PNF upayujyamānāḥ_upayu"
+  },
+  {
+    "index": 31252,
+    "sanskrit": "utthānam tu manuṣyāṇām dakṣāṇām daiva varjitam aphalam dṛśyate loke samyak api upapāditam",
+    "english": "The exertion, however, of even a competent man, even when well directed, is without the concurrence of destiny, seen in the world to be unproductive of fruit.",
+    "morphology": "utthānam_utthāna_SNNe tu_tu_U manuṣyāṇām_manuṣya_PGM dakṣāṇām_dakṣa_PGM daiva_daiva_NeCp varjitam_varjay_SNPaPsNe aphalam_aphala_SNNe dṛśyate_dṛś_SPr3InPv loke_loka_SLM samyak_samyak_U api_api_U upapāditam_upapāday_SNPaPsNe"
+  },
+  {
+    "index": 31253,
+    "sanskrit": "śāśvato loko",
+    "english": "The world is eternal,",
+    "morphology": ""
+  },
+  {
+    "index": 31254,
+    "sanskrit": "taṃ nemim ṛbhavo yathā namasva sahūtibhiḥ | nedīyo yajñam | aṅgiraḥ |",
+    "english": "Bring him hither with common call Lower to our sacrifice, O Angiras.",
+    "morphology": "tam_tad_SAM nemim_nemi_SAM ṛbhavaḥ_ṛbhu_PNM yathā_yathā_ namasva_nam_SPr2Im sa_sa_ hūtibhiḥ_hūti_PIF  / nedīyaḥ_nedīyas_SANe saḥ_tvad_SN ā_ā_ are_are_ starī_starī_SNF starī_starī_SNF starī_starī_SNF starī_starī_SNF starī_starī"
+  },
+  {
+    "index": 31255,
+    "sanskrit": "nindā praśaṃse hi tathā yunakti",
+    "english": "His praise and blame are applied accordingly.",
+    "morphology": "nindā_nindā_FCp"
+  }
+]

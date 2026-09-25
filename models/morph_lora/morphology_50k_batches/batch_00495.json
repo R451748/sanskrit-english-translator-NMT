@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3952,
+    "sanskrit": "na yam ripavaḥ na riṣaṇyavaḥ garbhe santam reṣaṇāḥ reṣayanti andhāḥ apaśyāḥ na dabhan abhi khyā nityāsaḥ īm pretāraḥ arakṣan",
+    "english": "Him, whom while yet in embryo the hostile, both skilled and fain to harm, may never injure, Men blind and sightless through his splendour hurt not: his never-failing lovers have preserved him.",
+    "morphology": "na_na_U yam_yad_SAM ripavaḥ_ripu_PNM na_na_U riṣaṇyavaḥ_riṣaṇyu_PNM garbhe_garbha_SLM santam_as_SAPaPrM reṣaṇāḥ_reṣaṇa_PNM reṣayanti_reṣay_PPr3In andhāḥ_andha_PNM apaśyāḥ_apaśya_PNM na_na_U dabhan_dabh_PPr3 abhi_abhi_U kh"
+  },
+  {
+    "index": 3953,
+    "sanskrit": "alarkaḥ uvāca spṛṣṭvā tvac vividhān sparśān tān eva pratigṛdhyati",
+    "english": "\"Alarka said, 'The skin, touching diverse objects of touch, hankers after them only.",
+    "morphology": "alarkaḥ_alarka_SNM uvāca_vac_SPs3In spṛṣṭvā_spṛś_Co tvac_tvac_SNF vividhān_vividha_PAM sparśān_sparśa_PAM tān_tad_PAM eva_eva_U pratigṛdhyati_pratigṛdh_SPr3In"
+  },
+  {
+    "index": 3954,
+    "sanskrit": "tasmin jitāḥ pravrajitāḥ ca sarve",
+    "english": "We were vanquished and have been exiled.",
+    "morphology": "tasmin_tad_SLM"
+  },
+  {
+    "index": 3955,
+    "sanskrit": "ahorātrābhyām evainam pavayati tribhiḥ pavayati traya ime lokās |",
+    "english": "He purifies (him) with three (stalks); three are these worlds;",
+    "morphology": "ahar_ahar_Cp rātrābhyām_rātra_DuIM eva_eva_ enam_enad_SAM pavayati_pavay_SPr3In tribhiḥ_tri_PIM pavayati_pavay_SPr3In trayaḥ_tri_PNM ime_idam_PNM lokāḥ_loka_PNM"
+  },
+  {
+    "index": 3956,
+    "sanskrit": "anasā parivahanti mahayantyevainametattasmācīrṣṇā vījaṃ harantyanasodāvahanti // atha yadapāmante krīṇāti /",
+    "english": "They carry him thus , and (afterwards) drive him about on the cart; whereby they exalt him: for this reason they carry the seed on their head (to the field), and bring in (the corn) on the cart.",
+    "morphology": "anasā_anas_SINe parivahanti_parivah_PPr3In mahayanti_mahay_PPr3In eva_eva_ enam_enad_SAM etat_etad_SANe tasmāt_tasmāt_ cīrṣṇā_cīrṣan_SINe vījam_vīja_SANe haranti_hṛ_PPr3In anasā_anas_SINe udāvahanti_udāvah_PPr3In  // atha_atha_ yat_yat_ "
+  },
+  {
+    "index": 3957,
+    "sanskrit": "yadi rāma jagaddṛśyamasti tatpratibimbati / paramāṇūdare'pyasmiṃścidādarśe tathaiva hi //",
+    "english": "Although this visible world is apparent to sight, yet O Rama! it is but a shadow of that Being, who resides alike in the smallest atom as in the mirror of the mind, that receives the image of the largest as well as minutest things.",
+    "morphology": "yadi_yadi_ rāma_rāma_SVM jagat_jagant_SNNe dṛśyam_dṛś_SNNeGd asti_as_SPr3In tat_tad_SNNe pratibimbati_pratibimb_SPr3In  / paramāṇu_paramāṇu_Cp udare_udara_SLNe api_api_ asmin_idam_SLM cit_cit_Cp ādarśe_ādarśa_SLM tathā_tathā_ eva_eva_ h"
+  },
+  {
+    "index": 3958,
+    "sanskrit": "manuṣyakanyakābhāvam āśrityāśvāsakāraṇam / sāsyāḥ kaliṅgasenāyāḥ śanair upasasarpa ca //",
+    "english": "and she assumed the appearance of a mortal maiden to inspire confidence, and slowly approached that Kaliṅgasenā.",
+    "morphology": "manuṣya_manuṣya_Cp kanyakā_kanyakā_Cp bhāvam_bhāva_SAM āśritya_āśri_Co āśvāsa_āśvāsa_Cp kāraṇam_kāraṇa_SANe  / sā_tad_SNF asyāḥ_idam_SGF kaliṅgasenāyāḥ_kaliṅgasenā_SGF śanais_śanais_ upasasarpa_upasṛp_SPs3In ca_ca_ "
+  },
+  {
+    "index": 3959,
+    "sanskrit": "mumūrṣoryāvanna vāṅmanasi sampadyate manaḥ prāṇe prāṇastejasi tejaḥ parasyāṃ devatāyāmityetaduktartham //",
+    "english": "of the dying man,so long as speech has not become merged in mind, the mind in lifebreath, and lifebreath in fire, etc, etc, all which has been already explained",
+    "morphology": "mumūrṣoḥ_mumūrṣu_SGM yāvat_yāvat_ na_na_ vāc_vāc_SNF manasi_manas_SLNe sampadyate_sampad_SPr3In manaḥ_manas_SNNe prāṇe_prāṇa_SLM prāṇaḥ_prāṇa_SNM tejasi_tejas_SLNe tejaḥ_tejas_SNNe parasyām_para_SLF devatāyām_devatā_SLF it"
+  }
+]

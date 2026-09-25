@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16408,
+    "sanskrit": "yat karma sāṃcetanikam |",
+    "english": "Whatever (good) deed that is intentional.",
+    "morphology": "yat_yad_SNNe karma_karman_SNNe sāṃcetanikam_sāṃcetanika_SNNe"
+  },
+  {
+    "index": 16409,
+    "sanskrit": "evaṃ daśabhiḥ kāraṇaiścittānuparivarttina ucyante /",
+    "english": "There are then ten reasons why the companions are termed companions.",
+    "morphology": "evam_evam_ daśabhiḥ_daśan_PINe kāraṇaiḥ_kāraṇa_PINe citta_citta_Cp anuparivartinaḥ_anuparivartin_PNM ucyante_vac_PPr3InPv  /"
+  },
+  {
+    "index": 16410,
+    "sanskrit": "tam prekṣya bāṇa abhihatam patantam rathāt sutam sūtajaḥ kṣiprakārī ratham rathena āśu jagāma vegāt",
+    "english": "Beholding his son, thus struck with arrows, fall down from his vehicle, the Suta's son Karna, endued with great activity and scorched with grief on account of the death of his son, quickly proceeded on his car, inspired with wrath, against the car of the diadem-decked Partha.",
+    "morphology": "tam_tad_SAM prekṣya_prekṣ_Co bāṇa_bāṇa_MCp abhihatam_abhihan_SAPaPsM patantam_pat_SAPaPrM rathāt_ratha_SBM sutam_suta_SAM sūtajaḥ_sūtaja_SNM kṣiprakārī_kṣiprakārin_SNM ratham_ratha_SAM rathena_ratha_SIM āśu_āśu_U jagāma_gam_SPs3I"
+  },
+  {
+    "index": 16411,
+    "sanskrit": "[p.695]",
+    "english": "[verses 2578-2582]:",
+    "morphology": ""
+  },
+  {
+    "index": 16412,
+    "sanskrit": "buddhimaṃtopi vibudhā vipratīkartumudyatāḥ | manāgapi na saṃśekurapakartuṃ tadīśituḥ || 43 ||",
+    "english": "45. Although they were intelligent and they endeavoured to harm him, the Devas did not succeed in doing the least harm to that king.",
+    "morphology": "buddhimaṃtaḥ_buddhimat_PNM api_api_ vibudhāḥ_vibudha_PNM vipratīkartum_vipratīkṛ_In udyatāḥ_udyam_PNPaM  / manāk_manāk_ api_api_ na_na_ saṃśekuḥ_saṃśak_PPs3In apakartum_apakṛ_In tad_tad_Cp īśituḥ_īśitṛ_SGM  /"
+  },
+  {
+    "index": 16413,
+    "sanskrit": "pauṣkare brahma sadane satyam mām ṛṣayaḥ viduḥ",
+    "english": "The Rishis dwelling in Pushkara, which is regarded as the abode of Brahman, called me by the name of Truth.",
+    "morphology": "pauṣkare_pauṣkara_SLNe brahma_brahman_NeCp sadane_sadana_SLNe satyam_satya_SAM mām_mad_SA ṛṣayaḥ_ṛṣi_PNM viduḥ_vid_PPs3In"
+  },
+  {
+    "index": 16414,
+    "sanskrit": "ye dvijāḥ parigṛhṇaṃti nṛpasyānyāyavartinaḥ | te prayāṃti tu ghoreṣu narakeṣu na saṃśayaḥ ||",
+    "english": "42. There is no doubt that the brahmins who take monetary gifts from an unjust king fall into terrible hells.",
+    "morphology": "ye_yad_PNM dvijāḥ_dvija_PNM parigṛhṇaṃti_parigrah_PPr3In nṛpasya_nṛpa_SGM anyāya_anyāya_Cp vartinaḥ_vartin_PNM  / te_tad_PNM prayāṃti_prayā_PPr3In tu_tu_ ghoreṣu_ghora_PLM narakeṣu_naraka_PLM na_na_ saṃśayaḥ_saṃśaya_SNM  /"
+  },
+  {
+    "index": 16415,
+    "sanskrit": "te mahā astrāṇi divyāni tatra vīrāḥ adarśayan vārayantaḥ śaraiḥ bhīmam meghāḥ sūryam iva uditam",
+    "english": "Those heroes, displaying celestial and mighty weapons, covered Bhima with shafts, like clouds shrouding the risen sun.",
+    "morphology": "te_tad_PNM mahā_mahat_Cp astrāṇi_astra_PANe divyāni_divya_PANe tatra_tatra_U vīrāḥ_vīra_PNM adarśayan_darśay_PPs3In vārayantaḥ_vāray_PNPaPrM śaraiḥ_śara_PIM bhīmam_bhīma_SAM meghāḥ_megha_PNM sūryam_sūrya_SAM iva_iva_U uditam_udi_"
+  }
+]

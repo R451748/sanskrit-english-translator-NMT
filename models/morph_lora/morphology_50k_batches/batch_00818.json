@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6536,
+    "sanskrit": "ekam sāṃkhyam ca yogam ca yaḥ paśyati sa paśyati saṃnyāsaḥ tu mahā bāho duḥkham āptum ayogataḥ",
+    "english": "He seeth truly who seeth Sankhya and Yoga as one.[182] But renunciation, O mighty-armed one, without devotion (to action), is difficult to attain.",
+    "morphology": "ekam_eka_SANe sāṃkhyam_sāṃkhya_SANe ca_ca_U yogam_yoga_SAM ca_ca_U yaḥ_yad_SNM paśyati_paś_SPr3In sa_tad_SNM paśyati_paś_SPr3In saṃnyāsaḥ_saṃnyāsa_SNM tu_tu_U mahā_mahat_Cp bāho_bāhu_SVM"
+  },
+  {
+    "index": 6537,
+    "sanskrit": "sarvavedarahasyaiśca nāmabhiśca śatāṣṭabhiḥ | saptasaptiraciṃtyātmā mahākāruṇikottamaḥ || 18 ||",
+    "english": "(1) Saptasapti (Having seven horses), (2) Acintyātma (One whose soul cannot be comprehended properly), (3) Mahākāruṇikottama (Most excellent among the excessively merciful ones),",
+    "morphology": "sarva_sarva_Cp veda_veda_Cp rahasyaiḥ_rahasya_PINe ca_ca_ nāmabhiḥ_nāman_PINe ca_ca_ śata_śata_Cp aṣṭabhiḥ_aṣṭan_PINe  / saptasaptiḥ_saptasapti_SNM aciṇḍa_aciṇḍa_Cp ātmā_ātman_SNM"
+  },
+  {
+    "index": 6538,
+    "sanskrit": "dhṛto vinipātito daṇḍo yeṣāṃ rājabhis te kṛtvā pāpāni kṛtapāpā rājanigraheṇa nirmalā nirastapāpā bhavanti /",
+    "english": "Those on whom punishments have been inflicted by the King, such men \"having committed crimes, become freed from guilt,\" by the punishment meted out by the King; ie, their sin becomes set aside.",
+    "morphology": "dhṛtaḥ_dhṛ_SNPaM vinipātitaḥ_vinipātay_SNPaM daṇḍaḥ_daṇḍa_SNM yeṣām_yad_PGM rājabhiḥ_rājan_PIM te_tad_PNM kṛtvā_kṛ_Co pāpāni_pāpa_PANe kṛta_kṛ_PaCp pāpāḥ_pāpa_PNM rāja_rājan_Cp nigraheṇa_nigraha_SIM nirmalā"
+  },
+  {
+    "index": 6539,
+    "sanskrit": "śaknoti jīvitum dakṣaḥ na alasaḥ sukham edhate",
+    "english": "One who is busy in action is capable of supporting life. He, on the other hand, that is idle, never obtains happiness.",
+    "morphology": "śaknoti_śak_SPr3In"
+  },
+  {
+    "index": 6540,
+    "sanskrit": "traipuram sa vaśe kṛtvā rājānam amita ojasam nijagrāha mahā bāhuḥ tarasā potana īśvaram",
+    "english": "The long-armed hero then brought the king of Tripura of immeasurable energy under his sway.",
+    "morphology": "traipuram_traipura_SAM sa_tad_SNM vaśe_vaśa_SLM kṛtvā_kṛ_Co rājānam_rājan_SAM amita_amita_Cp ojasam_ojas_SAM nijagrāha_nigrah_SPs3In mahā_mahat_Cp bāhuḥ_bāhu_SNM"
+  },
+  {
+    "index": 6541,
+    "sanskrit": "brahmovāca | jagaddhitāya janitā mayā tvaṃ parameśvari | svargānmartyaṃ tato yāhi lokānāṃ hitakāmyayā || 17 || sarvadevamayī tvaṃ tu sarvalokamayī tathā | vidhinā ye pradāsyanti teṣāṃ vāsastriviṣṭape || 18 ||",
+    "english": "O Parameśvarī, you have been created by me for the sake of the welfare of the world. Hence, go to the mortal world from heaven with a desire for the welfare of all the worlds. You contain within you all the Devas. You are identical with all the worlds. If people offer (you) in accordance with the injunctions, they will have their residence in heaven.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / jagat_jagant_Cp hitāya_hita_SDNe janitā_janay_SNPaF mayā_mad_SI tvam_tvad_SN parameśvari_parameśvarī_SVF  / svargāt_svarga_SBM martyam_martya_SAM tatas_tatas_ yāhi_yā_SPr2Im lokānām_loka_PGM hita_hita_Cp "
+  },
+  {
+    "index": 6542,
+    "sanskrit": "patnyuvāca | abhukte tvayi no bhuktaṃ kadācitkāṃta vai mayā | ekāṃte'pi mahābhāga na suptaṃ jāgrati tvayi || 50 ||",
+    "english": "The wife said: 50. O my Lord and beloved one, O highly esteemed one, I have never taken food when you were hungry nor have I gone to sleep while you were awake.",
+    "morphology": "patnī_patnī_SNF uvāca_vac_SPs3In  / abhukte_abhukta_SLM tvayi_tvad_SL no_no_ bhuktam_bhuj_SNPaNe kadācid_kadācid_ kānta_kānta_SVM vai_vai_ mayā_mad_SI  / ekānte_ekānta_SLM api_api_ mahābhāga_mahābhāga_SVM na_na_ suptam_svap_SNPaNe"
+  },
+  {
+    "index": 6543,
+    "sanskrit": "yathā svapne jagaddraṣṭuḥ śāntaṃ śāmyatyaśeṣataḥ / tadvadasmajjagadidaṃ śāntaṃ śāmyatyaśeṣataḥ //",
+    "english": "As the ideal world appears to be calm and quiet, both in the dream of the dreamer, as well as in the sound sleep of the sleeper; so this visible world of ours is ever viewed in its calmness, in the tranquil spirit of the Lord and of the contemplative saint.",
+    "morphology": "yathā_yathā_ svapne_svapna_SLM jagat_jagant_SNNe draṣṭuḥ_draṣṭṛ_SGM śāntam_śam_SNPaNe śāmyati_śam_SPr3In aśeṣatas_aśeṣatas_  / tadvat_tadvat_ asmat_mad_PB jagant_jagant_SNNe idam_idam_SNNe śāntam_śam_SNPaNe śāmyati_śam_SPr3I"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17272,
+    "sanskrit": "maṃdo dvādaśamātrastu mātrā laghvakṣarā matā | madhyamo dviguṇaḥ pūrvāduttamastriguṇastataḥ || 76 ||",
+    "english": "76. What is called Mātrā is the time for a Laghu Akṣara (such a, i, u). The Manda (type of Prāṇāyāma) has twelve Mātrās. Madhyama one is twice the previous one and Uttama is twice that.",
+    "morphology": "mandaḥ_manda_SNM dvādaśa_dvādaśan_Cp mātraḥ_mātra_SNM tu_tu_ mātrā_mātrā_SNF laghu_laghu_Cp akṣarā_akṣara_SNF matā_man_SNPaF  / madhyamaḥ_madhyama_SNM dviguṇaḥ_dviguṇa_SNM pūrvāt_pūrva_SBM uttamaḥ_uttama_SNM triguṇaḥ_tr"
+  },
+  {
+    "index": 17273,
+    "sanskrit": "mayi dākṣiṇyamevāsya manye manasi cedrahaḥ | janaḥ saubhāgyavānyasmādbhavati snehabhājanam || 5 ||",
+    "english": "5. I think there he entertains only an insincere courtesy for me in his mind. But when alone, it is the fortunate one who becomes an object of love.",
+    "morphology": "mayi_mad_SL dākṣiṇyam_dākṣiṇya_SANe eva_eva_ asya_idam_SGM manye_man_SPr1In manasi_manas_SLNe ced_ced_ rahaḥ_rahas_SNNe  / janaḥ_jana_SNM saubhāgyavān_saubhāgyavat_SNM yasmāt_yad_SBM bhavati_bhū_SPr3In sneha_sneha_Cp bhājanam_bhājana_S"
+  },
+  {
+    "index": 17274,
+    "sanskrit": "an āptaḥ san āptatamasya vācam suyodhanaḥ vidurasya avamanya",
+    "english": "Duryodhana disregarded the words of Vidura, the best of his well-wishers, as if the latter were hostile to him.",
+    "morphology": "an_an_U āptaḥ_āp_SNPaPsM san_as_SNPaPrM āptatamasya_āptatama_SGM vācam_vāc_SAF suyodhanaḥ_suyodhana_SNM vidurasya_vidura_SGM avamanya_avaman_Co"
+  },
+  {
+    "index": 17275,
+    "sanskrit": "tṛtīyam ca asya saṃbhūtam netram āditya saṃnibham",
+    "english": "A third eye, resembling another sun, appeared (on it).",
+    "morphology": "tṛtīyam_tṛtīya_SNNe ca_ca_U asya_idam_SGM saṃbhūtam_sambhū_SNPaPsNe netram_netra_SNNe āditya_āditya_MCp saṃnibham_saṃnibha_SNNe"
+  },
+  {
+    "index": 17276,
+    "sanskrit": "svaiḥ eva yajñaiḥ tuṣṭāḥ smaḥ nyāyena icchāmahe vayam",
+    "english": "Those sacrifices are approved by us which are performed by lawful means.",
+    "morphology": "svaiḥ_sva_PIM eva_eva_U yajñaiḥ_yajña_PIM tuṣṭāḥ_tuṣ_PNPaPsM smaḥ_as_PPr1In nyāyena_nyāya_SIM icchāmahe_iṣ_PPr1In vayam_mad_PN"
+  },
+  {
+    "index": 17277,
+    "sanskrit": "modiṣye bahulāḥ śaśvat samāḥ śakrasya saṃsadi",
+    "english": "if he performeth that sacrifice, I may, like Harischandra, soon attain to the region of Indra, and there in his Sabha pass countless years in continuous joy.",
+    "morphology": "modiṣye_mud_SFu1In bahulāḥ_bahula_PAF śaśvat_śaśvat_ samāḥ_samā_PAF śakrasya_śakra_SGM saṃsadi_saṃsad_SLF"
+  },
+  {
+    "index": 17278,
+    "sanskrit": "uttolitākṣimālābhiḥ prajābhirvīkṣitaḥ puraḥ | tataḥ kramātsa dadṛśe vimānāgryaṃ prajāpateḥ || 47 ||",
+    "english": "It was seen in front by the subjects with rows of eyes lifted up. Then gradually the excellent aerial chariot of Brahmā came into view.",
+    "morphology": "uttolita_uttolay_PaCp akṣi_akṣi_Cp mālābhiḥ_mālā_PIF prajābhiḥ_prajā_PIF vīkṣitaḥ_vīkṣ_SNPaM puras_puras_  / tatas_tatas_ kramāt_kramāt_ sa_tad_SNM dadṛśe_dṛś_SPs3In vimāna_vimāna_Cp agryam_agrya_SANe prajāpateḥ_prajāpat"
+  },
+  {
+    "index": 17279,
+    "sanskrit": "surā maireya miśreṇa bhakṣya bhojyena ca eva ha",
+    "english": "Food mixed with wines of diverse kinds was stored here and there.",
+    "morphology": "surā_surā_FCp maireya_maireya_MCp miśreṇā_miśra_SINe bhakṣya_bhakṣya_NeCp bhojyena_bhojya_SINe ca_ca_U eva_eva_U ha_ha_U"
+  }
+]

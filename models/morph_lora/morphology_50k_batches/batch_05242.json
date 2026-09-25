@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41928,
+    "sanskrit": "prayāgapātādraṇamadhyapātādbhṛgośca pātānmaraṇācca kāśyām | na tāṃ gatiṃ yāṃti janāśca sarve vaiśākhaniṣṭhena ca yā prapadyate || 23 ||",
+    "english": "23. By dying in Prayāga, or in the middle of fighting in a battlefield or by falling off the precipice (Bhṛgupatana) or at Kāśī, people do not attain that goal which is attained by one strictly adhering to the holy rites of Vaiśākha.",
+    "morphology": "prayāga_prayāga_Cp pātāt_pāta_SBM raṇa_raṇa_Cp madhya_madhya_Cp pātāt_pāta_SBM bhṛgoḥ_bhṛgu_SGM ca_ca_ pātāt_pāta_SBM maraṇāt_maraṇa_SBNe ca_ca_ kāśyām_kāśi_SLF  / na_na_ tām_tad_SAF gatim_gati_SAF yānti_yā_PPr3In janāḥ"
+  },
+  {
+    "index": 41929,
+    "sanskrit": "vavuḥ ca śiśirāḥ vātāḥ sūryaḥ na eva tatāpa ca",
+    "english": "Inauspicious winds began to blow. The sun himself no longer gave any heat.",
+    "morphology": "vavuḥ_vā_PPs3In ca_ca_U śiśirāḥ_śiśira_PNM vātāḥ_vāta_PNM sūryaḥ_sūrya_SNM na_na_U eva_eva_U tatāpa_tap_SPs3In"
+  },
+  {
+    "index": 41930,
+    "sanskrit": "ity uktavān katham api priyayānumatas tayā / rājñaḥ samīpaṃ kaṭakaṃ śūraseno jagāma saḥ //",
+    "english": "and so Śūrasena went to attend on the king in his camp.",
+    "morphology": "iti_iti_ uktavān_vac_SNPaM katham_katham_ api_api_ priyayā_priya_SIF anumataḥ_anuman_SNPaM tayā_tad_SIF  / rājñaḥ_rājan_SGM samīpam_samīpa_SANe kaṭakam_kaṭaka_SANe śūrasenaḥ_śūrasena_SNM jagāma_gam_SPs3In saḥ_tad_SNM  /"
+  },
+  {
+    "index": 41931,
+    "sanskrit": "yāḥ senā abhītvarīr āvyādhinīr ugaṇā uta | ye stenā ye ca taskarās tāṃs te agne 'pi dadhāmy āsye |",
+    "english": "The hosts that attack, That pierce, the trooping, The thieves and the robbers, Them, O Agni, do I place in thy mouth.",
+    "morphology": "yāḥ_yad_PNF senāḥ_senā_PNF abhītvarīḥ_abhītvan_PNF āvyādhinīḥ_āvyādhin_PNF ugaṇāḥ_ugaṇa_PNF uta_uta_  / ye_yad_PNM stenāḥ_stena_PNM ye_yad_PNM ca_ca_ taskarāḥ_taskara_PNM tān_tad_PAM te_tvad_SG agne_agni_SVM api_api_ dadhā"
+  },
+  {
+    "index": 41932,
+    "sanskrit": "śayyā āsanāni uttama saṃskṛtāni tathā eva ca āsan vividhāni tatra",
+    "english": "And there were in that collection beds and carpets and various fine things, and cloths of various sorts.",
+    "morphology": "śayyā_śayyā_FCp āsanāni_āsana_PNNe uttama_uttama_Cp saṃskṛtāni_saṃskṛ_PNPaPsNe tathā_tathā_U eva_eva_U ca_ca_U āsan_as_PPs3In vividhāni_vividha_PNNe"
+  },
+  {
+    "index": 41933,
+    "sanskrit": "manasā vacasā caiva karmaṇā yadupārjitam | tatsarvaṃ naśyate pāpaṃ gomatīnīrasaṃgamāt || 57 ||",
+    "english": "57. All sins made either in mind or through words and deeds go away by coming in contact with the water of Gomatī in its place of confluence with the sea.",
+    "morphology": "manasā_manas_SINe vacasā_vacas_SINe ca_ca_ eva_eva_ karmaṇā_karman_SINe yat_yad_SNNe upārjitam_upārjay_SNPaNe  / tat_tad_SNNe sarvam_sarva_SNNe naśyate_naś_SPr3InPv pāpam_pāpa_SNNe gomatī_gomatī_Cp nīra_nīra_Cp saṃgamāt_saṃgama_SBM"
+  },
+  {
+    "index": 41934,
+    "sanskrit": "bhājanantilasampūrṇaṃ madhunā pūrṇameva ca // dadyāt kṛṣṇatilānāñca prasthamekañca māgadhaṃ /",
+    "english": "One may give vessels filled with sesamum, honey and black sesamum as well as a prastha a particular measure of long pepper.",
+    "morphology": "bhājanam_bhājana_SANe tila_tila_Cp sampūrṇam_sampṛ_SAPaNe madhunā_madhu_SINe pūrṇam_pṛ_SAPaNe eva_eva_ ca_ca_  // dadyāt_dā_SPr3O kṛṣṇa_kṛṣṇa_Cp tilānām_tila_PGM ca_ca_ prastham_prastha_SANe ā_ā_ āgadham_āgadha_SANe  /"
+  },
+  {
+    "index": 41935,
+    "sanskrit": "tathā stūpa-caitya-vihārāṇāṃ śīrṇānām pratisaṃskaraṇam |",
+    "english": "Restoring broken monasteries, temples, and stūpas.",
+    "morphology": "tathā_tathā_ stūpa_stūpa_Cp caitya_caitya_Cp vihārāṇām_vihāra_PGM śīrṇānām_śṛ_PGPaM pratisaṃskaraṇam_pratisaṃskaraṇa_SNNe"
+  }
+]

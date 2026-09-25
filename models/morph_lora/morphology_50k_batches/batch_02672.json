@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21368,
+    "sanskrit": "alam ardham pṛthivyāḥ te saha amātyasya jīvitum",
+    "english": "Half the earth is quite enough for the maintenance of thyself and all thy followers.",
+    "morphology": "alam_alam_U ardham_ardha_SNNe pṛthivyāḥ_pṛthivī_SGF te_tvad_SG"
+  },
+  {
+    "index": 21369,
+    "sanskrit": "na tv ayam arthaḥ uddhāraṃ jyāyase datvā sarve 'savarṇājātāḥ samaṃ savarṇāputrair bhajeran, prāguktaikāṃśāpacayavirodhāt /",
+    "english": "The text cannot mean that \"after the preferential share has been given to the eldest brother, all the sons born of wives of different castes shall divide equally, with those born of the wives of the same caste\" As this would he contrary to what has been said before in regarding each son of the lower caste receiving one share less than that of the higher caste.",
+    "morphology": "na_na_ tu_tu_ ayam_idam_SNM arthaḥ_artha_SNM uddhāram_uddhāra_SAM jyāyase_jyāyas_SDM da_da_Cp tvā_tvad_SA sarve_sarva_PNM asavarṇā_asavarṇā_Cp jātāḥ_jan_PNPaM samam_sama_SANe savarṇā_savarṇā_Cp putraiḥ_putra_PIM bhajeran_bhaj_PPr3O"
+  },
+  {
+    "index": 21370,
+    "sanskrit": "kiṃkarāḥ bhrātaraḥ sarve mitrāḥ saṃbandhinaḥ tathā",
+    "english": "All thy brothers are ever obedient to thee, as also all thy friends and relatives.",
+    "morphology": "kiṃkarāḥ_kiṃkara_PNM bhrātaraḥ_bhrātṛ_PNM sarve_sarva_PNM mitrāḥ_mitra_PNM saṃbandhinaḥ_sambandhin_PNM tathā_tathā_U"
+  },
+  {
+    "index": 21371,
+    "sanskrit": "eteṣāṃ madhyato yastaṃ mahāyoginamīśvaram | caramaṃ devamīkṣeta bhaviṣyati sa pāpakṛt || 17 ||",
+    "english": "17. “The last person among these who visits the great Yogin Īśvara will become a sinner.”",
+    "morphology": "eteṣām_etad_PGM madhyatas_madhyatas_ yaḥ_yad_SNM tam_tad_SAM mahā_mahat_Cp yoginam_yogin_SAM īśvaram_īśvara_SAM  / caramam_carama_SAM devam_deva_SAM īkṣeta_īkṣ_SPr3O bhaviṣyati_bhū_SFu3In sa_tad_SNM pāpa_pāpa_Cp kṛt_kṛt_SNM  /"
+  },
+  {
+    "index": 21372,
+    "sanskrit": "etatsāmānyādāditye 'pyoṅkaraṇamanujñāmātraṃ draṣṭavyam //",
+    "english": "On this analogy, in the case of the Sun also, the pronouncing of ‘Om’ should be regarded merely as according permission",
+    "morphology": "etad_etad_Cp sāmānyāt_sāmānya_SBNe āditye_āditya_SLM api_api_ oṅkaraṇam_oṅkaraṇa_SNNe anujñā_anujñā_Cp mātram_mātra_SNNe draṣṭavyam_dṛś_SNNeGd  /"
+  },
+  {
+    "index": 21373,
+    "sanskrit": "atho tanūpānīr evaitā yajamānasya yaṃ dviṣyāt tam upadadhad dhyāyet |",
+    "english": "verily also they are the bodyguards of the sacrificer. He should think of whomever he hates as he puts (them) down;",
+    "morphology": "atha_atha_ u_u_ tanūpānīḥ_tanūpāna_PNF eva_eva_ etāḥ_etad_PNF yajamānasya_yaj_SGPaPrM yam_yad_SAM dviṣyāt_dviṣ_SPr3O tam_tad_SAM upadadhat_upadhā_SNPaPrM dhyāyet_dhyā_SPr3O"
+  },
+  {
+    "index": 21374,
+    "sanskrit": "na devī na asurī ca eva na yakṣī na ca rākṣasī na apsarāḥ na ca gandharvī tathārūpeṇa kā cana",
+    "english": "There was no woman amongst the celestials, the Asuras, the Yakshas, the Rakshasas, the Apsaras, and the Gandharvas, who was equal to her in beauty.",
+    "morphology": "na_na_U devī_devī_SNF na_na_U asurī_asurī_SNF ca_ca_U eva_eva_U na_na_U yakṣī_yakṣī_SNF na_na_U ca_ca_U rākṣasī_rākṣasī_SNF na_na_U apsarāḥ_apsaras_SNF na_na_U ca_ca_U gandharvī_gandharvī_SNF"
+  },
+  {
+    "index": 21375,
+    "sanskrit": "ṛṣaya ūcuḥ | hastvaśvarathadānānāṃ śaktirasti tavādbhutā | kasmātsaktūnpramuktvā tvaṃ nānyaddātumihecchasi || 61 ||",
+    "english": "61. The sages asked, “You have got amazing power to make gifts of elephants, horses and chariots. Thus O king! why are you not willing to make offering of anything other than barley?” Pulastya said: 62. After their (i.e., the Sages’) asking like this, the king then narrated the details of his previous life and impressed upon them the value of offering of barley in his context.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / hastu_hastu_Cp aśva_aśva_Cp ratha_ratha_Cp dānānām_dāna_PGNe śaktiḥ_śakti_SNF asti_as_SPr3In tava_tvad_SG adbhutā_adbhuta_SNF  / kasmāt_kasmāt_ saktūn_saktu_PAM pramuktvā_pramuc_Co tvam_tvad_SN "
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 256,
+    "sanskrit": "atas teṣu jātisvabhāvā dharmā nityatvādayaḥ pratiniyataśabdābhivyaktihetavo nirūpyante /",
+    "english": "consequently the properties of the Universal such as eternality and the rest become recognised definitely known as the causes of the manifestation of the Word-Sound.",
+    "morphology": "atas_atas_ teṣu_tad_PLM jāti_jāti_Cp svabhāvāḥ_svabhāva_PNM dharmāḥ_dharma_PNM nitya_nitya_Cp tva_tva_Cp ādayaḥ_ādi_PNM pratiniyata_pratiniyam_PaCp śabda_śabda_Cp abhivyakti_abhivyakti_Cp hetavaḥ_hetu_PNM nirūpyante_nirūpay_PPr3InPv  "
+  },
+  {
+    "index": 257,
+    "sanskrit": "araṇya gocaraḥ nityam na grāmam praviśet punar",
+    "english": "Always living within the forest, he should never return to an inhabited place.",
+    "morphology": "araṇya_araṇya_NeCp gocaraḥ_gocara_SNM nityam_nityam_U"
+  },
+  {
+    "index": 258,
+    "sanskrit": "sameti ca yat uktam te samāḥ lokāḥ tava asya ca",
+    "english": "Let there be equality between thee and this regenerate person in respect of regions--of felicity in the next world.",
+    "morphology": "samā_sama_SNF iti_iti_U"
+  },
+  {
+    "index": 259,
+    "sanskrit": "na tṛṇasalilaṃ naiva grāmo na nāma ca pattanaṃ na ca dalabharasnigdhacchāyastarurna ca satprapā / tadapi gaganādhvānaṃ sūryaḥ prayāti dine dine viṣamamapi yatprārabdhaṃ tattyajanti na sāttvikāḥ //",
+    "english": "The sun that persists in his wonted course, rises to the vertical point in time; but the unmoving straws and trees, and the dormant hills and places, and stagnant pools and ponds, are ever lying low on the ground.",
+    "morphology": "na_na_ tṛṇa_tṛṇa_Cp salilam_salila_SNNe nā_na_ eva_eva_ grāmaḥ_grāma_SNM na_na_ nāma_nāman_SNNe ca_ca_ pattanam_pattana_SNNe na_na_ ca_ca_ dala_dala_Cp bhara_bhara_Cp snigdha_snigdha_Cp chāyaḥ_chāyā_SNM taruḥ_taru_SNM na_na_ ca_ca_ sa"
+  },
+  {
+    "index": 260,
+    "sanskrit": "na ca yathā bhrāntajñānapratibhāsī pītādis tathā śaṅkhādirartho 'vasthita iti sphuṭataramevāviṣayatvam asya /",
+    "english": "This is what is shown by the words ‘Under the view, etc., etc.’ For those who regard the Cognitions as formless, what is perceived is the Blue form as subsisting in the Object. The Conch-shell does not really exist in the yellow form in which it figures in the wrong Cognition;",
+    "morphology": "na_na_ ca_ca_ yathā_yathā_ bhrānta_bhram_PaCp jñāna_jñāna_Cp pratibhāsī_pratibhāsin_SNM pīta_pīta_Cp ādiḥ_ādi_SNM tathā_tathā_ śaṅkha_śaṅkha_Cp ādiḥ_ādi_SNM arthaḥ_artha_SNM avasthitaḥ_avasthā_SNPaM iti_iti_ sphuṭataram_s"
+  },
+  {
+    "index": 261,
+    "sanskrit": "na cānāsrave kiñcidaṅgaṃ sāsravaṃ kicidanāsravaṃ syāditi cet /",
+    "english": "Do you admit that certain parts of undefiled ḍhyāna are undefiled, and that certain parts are not? The undefiled part is not simultaneous to the non-undefiled part; we know indeed that happiness does not exist at the same time as joy.",
+    "morphology": "na_na_ ca_ca_ anāsrave_anāsrava_SLM kiñcid_kaścit_SNNe aṅgam_aṅga_SNNe sa_sa_ āsravam_āsrava_SNNe kicid_kaścit_SNNe anāsravam_anāsrava_SNNe syāt_as_SPr3O iti_iti_ ced_ced_"
+  },
+  {
+    "index": 262,
+    "sanskrit": "saṃjaya evaṃgate prāṇān tyaktum icchāmi māciram",
+    "english": "\"After what hath come to pass, O Sanjaya, I wish to put an end to my life without delay;",
+    "morphology": "saḥ_tad_SNM"
+  },
+  {
+    "index": 263,
+    "sanskrit": "anyatheti yadyavedatvamasya na jñāpyate tadā yattvayā śrutau vede anuktatvaṃ tasya sarvajñasyoktaṃ tat sandigdhāsiddhaṃ bhavet //",
+    "english": "‘Otherwise’ i.e. if you do not establish the fact that it is not Veda; in that case, what you have asserted regarding the Omniscient Person being not mentioned in the ‘Veda’, becomes open to doubt and hence ‘Inadmissible’ (as Reason).",
+    "morphology": "anyathā_anyathā_ iti_iti_ yadi_yadi_ aveda_aveda_Cp tvam_tva_SNNe asya_idam_SGM na_na_ jñāpyate_jñāpay_SPr3InPv tadā_tadā_ yat_yad_SNNe tvayā_tvad_SI śrutau_śruti_SLF vede_veda_SLM anukta_anukta_Cp tvam_tva_SNNe tasya_tad_SGM sarvajñasya_sarvaj"
+  }
+]

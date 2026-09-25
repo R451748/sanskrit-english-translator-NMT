@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10208,
+    "sanskrit": "tatrocyate / yajñe yajñāṅgaprakāśanameva prayojana miti /",
+    "english": "To this, we make the following reply In the performance of sacrifices, the only useful purpose that the mantra can serve lies in the indicating of some thing auxiliary to the sacrifice.",
+    "morphology": "tatra_tatra_ ucyate_vac_SPr3InPv  / yajñe_yajña_SLM yajña_yajña_Cp aṅga_aṅga_Cp prakāśanam_prakāśana_SNNe eva_eva_ prayojanam_prayojana_SNNe iti_iti_"
+  },
+  {
+    "index": 10209,
+    "sanskrit": "vikalpinyavikalpe ca dvividhe vākpathe sthitam / tile tailamivāṅgeṣu sarveṣvevāntaraṃ sthitam //",
+    "english": "He resides both in equivocal and alterative words, and is situated in all things as the oil in sesame seeds.",
+    "morphology": "vikalpini_vikalpin_SLM avikalpe_avikalpa_SLM ca_ca_ dvividhe_dvividha_SLM vākpathe_vākpatha_SLM sthitam_sthā_SNPaNe  / tile_tila_SLM tailam_taila_SNNe iva_iva_ aṅgeṣu_aṅga_PLNe sarveṣu_sarva_PLNe eva_eva_ antaram_antara_SNNe sthitam_sthā_SNPaNe"
+  },
+  {
+    "index": 10210,
+    "sanskrit": "deva pradyumna kāmānāṃ pūraka kāmarūpadhṛk | kāmāśca saphalāḥ saṃtu kāmapāla namo'stu te || 51 ||",
+    "english": "“O Lord Pradyumna, assuming the form of Kāma, O fulfiller of all desires, let our desires be fruitful, obeisance to you, O protector of desires”.",
+    "morphology": "deva_deva_SVM pradyumna_pradyumna_SVM kāmānām_kāma_PGM pūraka_pūraka_SVM kāma_kāma_Cp rūpa_rūpa_Cp dhṛk_dhṛk_SVM  / kāmāḥ_kāma_PNM ca_ca_ sa_sa_ phalāḥ_phala_PNM saṃtu_as_PPr3Im kāmapāla_kāmapāla_SVM namaḥ_namas_SNNe astu_as_S"
+  },
+  {
+    "index": 10211,
+    "sanskrit": "moho vismṛtya saṃsāraṃ na bhūyaḥ parirohati / cittaṃ vismṛtya saṃsāro na bhūyaḥ parirohati //",
+    "english": "Your utter oblivion of the world, will prevent the revival of your mind; and stop the reappearance of ignorance which is concomitant with the mind.",
+    "morphology": "mohaḥ_moha_SNM vismṛtya_vismṛ_Co saṃsāram_saṃsāra_SAM na_na_ bhūyas_bhūyas_ parirohati_pariruh_SPr3In  / cittam_citta_SANe vismṛtya_vismṛ_Co saṃsāraḥ_saṃsāra_SNM na_na_ bhūyas_bhūyas_ parirohati_pariruh_SPr3In  /"
+  },
+  {
+    "index": 10212,
+    "sanskrit": "ārya vṛttavatīm saṃkhye sutarām bhīru dustarām",
+    "english": "Those endued with noble qualities could cross it with ease, while those that were timid and affrighted found it exceedingly difficult to cross.",
+    "morphology": "ārya_ārya_SVM vṛttavatīm_vṛttavat_SAF saṃkhye_saṃkhya_SLNe sutarām_sutarām_U bhīru_bhīru_SVM"
+  },
+  {
+    "index": 10213,
+    "sanskrit": "tac cāpāsyāt //",
+    "english": "And he must remove the filth.",
+    "morphology": "tat_tad_SANe ca_ca_ apāsyāt_apās_SPr3O"
+  },
+  {
+    "index": 10214,
+    "sanskrit": "rājā kṛśam bṛṃhayate manuṣyam",
+    "english": "The king makes men humble.",
+    "morphology": "rājā_rājan_SNM kṛśam_kṛśa_SAM bṛṃhayate_bṛṃhay_SPr3In manuṣyam_manuṣya_SAM"
+  },
+  {
+    "index": 10215,
+    "sanskrit": "tatra mūlatattve'nyatattvāntarbhāvasandarśanārthaṃ mūlatattvavacanaṃ /",
+    "english": "The statement about the basic reality is for the sake of showing that the other realities are included there within the basic reality.",
+    "morphology": "tatra_tatra_ mūlatattve_mūlatattva_SLNe anya_anya_Cp tattva_tattva_Cp antarbhāva_antarbhāva_Cp sandarśana_saṃdarśana_Cp artham_artha_SAM mūlatattva_mūlatattva_Cp vacanam_vacana_SNNe  /"
+  }
+]

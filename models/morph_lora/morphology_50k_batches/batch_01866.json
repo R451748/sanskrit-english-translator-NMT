@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14920,
+    "sanskrit": "putradārahastyaśvādisaṃpat parigrahaḥ /",
+    "english": "\"Belongings\" stand for the son, wife, elephants, horses and so forth.",
+    "morphology": "__putra_U"
+  },
+  {
+    "index": 14921,
+    "sanskrit": "anna hiāmuṣmikaphalopabhogayogyaḥ adhikārī pratīyate |tathā ca pāramarṣa sūtram - 'śāstraphalaṃ prayoktaritallakṣaṇatvāttasmātsvayaṃ prayoge syāt ' iti | naca dehādi bhasmībhūtaṃ pāralaukikāya phalāya kalpataiti dehāyatiriktaṃ kaṃcidātmānamadhikāriṇamākṣipatiśāstram;",
+    "english": "Here, verily, the eligible person is known to be one who is fit to enjoy fruit in another world. Hence the aphorism of the great sage The fruit of what is enjoined in the sacred teaching is for the person directed, since it is of that nature i.e., since it is an injunction understood through verbal testimony, in the form He who desires Heaven is to sacrifice with the jyotistoma hence, one should one self engage in the act enjoined. Bodies etc..",
+    "morphology": "adhikārī_adhikārin_SNM pratīyate_pratī_SPr3InPv  /tathā_tathā_ ca_ca_ pāramarṣa_pāramarṣa_Cp sūtram_sūtra_SNNe - śāstra_śāstra_Cp phalam_phala_SNNe prayoktri_prayoktṛ_SLM itara_itara_Cp lakṣaṇa_lakṣaṇa_Cp tvāt_tva_SBNe tasmāt"
+  },
+  {
+    "index": 14922,
+    "sanskrit": "śastra vikrayakāḥ ca eva kartāraḥ ca yudhiṣṭhira śalyānām dhanuṣām ca eva te vai niraya gāminaḥ",
+    "english": "They who sell weapons, they who forge weapons, they who make shafts, and they who make bows, have to sink in hell.",
+    "morphology": "śastra_śastra_NeCp vikrayakāḥ_vikrayaka_PNM ca_ca_U eva_eva_U kartāraḥ_kartṛ_PNM ca_ca_U yudhiṣṭhira_yudhiṣṭhira_MCp śalyānām_śalya_PGM dhanuṣām_dhanus_PGNe ca_ca_U eva_eva_U te_tad_PNM vai_vai_U niraya_niraya_MCp gāminaḥ_gāmin"
+  },
+  {
+    "index": 14923,
+    "sanskrit": "tatas yayau mahābhāgā gaṅgām merum ca kevalam",
+    "english": "After this, O monarch, the blessed maiden proceeded to the Ganges and thence to the mountains of Meru.",
+    "morphology": "tatas_tatas_U yayau_yā_SPs3In mahābhāgā_mahābhāga_SNF"
+  },
+  {
+    "index": 14924,
+    "sanskrit": "bala adhikāre nikṣipya saṃhatya ānakadundubhim",
+    "english": "Khandava, himself surrounded by a mighty host and filling the atmosphere with the rattle of his chariot-wheels.",
+    "morphology": "bala_bala_NeCp"
+  },
+  {
+    "index": 14925,
+    "sanskrit": "jihvā śrāntā bhavannāmni manaḥ śrāntaṃ bhavatsmṛtau | arūpasya kuto dhyānaṃ nirguṇasya ca nāma kim | |",
+    "english": "My tongue has become tired in pronouncing your name and my mind has become tired in your remembrance.",
+    "morphology": "jihvā_jihvā_SNF śrāntā_śram_SNPaF bhavat_bhavat_Cp nāmni_nāman_SLNe manaḥ_manas_SNNe śrāntam_śram_SNPaNe bhavat_bhavat_Cp smṛtau_smṛti_SLF  / arūpasya_arūpa_SGM kutas_kutas_ dhyānam_dhyāna_SNNe nirguṇasya_nirguṇa_SGM ca_ca_ nāma_n"
+  },
+  {
+    "index": 14926,
+    "sanskrit": "apo yūṣeṇa ghṛtaṃ rasen śyāṃ vasayā dūṣīkābhir hrādunim aśrubhiḥ pṛṣvām |",
+    "english": "the waters with the juice; ghee with the sap; ice with the fat (vása); hail with the rheum of the eyes; with tears hoar-frost;",
+    "morphology": "apaḥ_ap_PAF yūṣeṇa_yūṣa_SINe ghṛtam_ghṛta_SANe raset_ras_SPr3O śyām_śyā_SAF vasayā_vasā_SIF dūṣīkābhiḥ_dūṣīkā_PIF hrāduniḥ_hrāduni_SNF"
+  },
+  {
+    "index": 14927,
+    "sanskrit": "so 'pi tasya bhuje bhūyaḥ sūryāyutasamaprabham | visasarja śaraṃ vegādvīrabhadro mahābalaḥ ||",
+    "english": "22. The powerful Vīrabhadra too, with a great velocity discharged an arrow brilliant like ten thousand suns again at his arm.",
+    "morphology": "saḥ_tad_SNM api_api_ tasya_tad_SGM bhuje_bhuja_SLM bhūyas_bhūyas_ sūrya_sūrya_Cp ayuta_ayuta_Cp sama_sama_Cp prabham_prabhā_SAM  / visasarja_visṛj_SPs3In śaram_śara_SAM vegāt_vega_SBM vīrabhadraḥ_vīrabhadra_SNM mahā_mahat_Cp balaḥ_bala_S"
+  }
+]

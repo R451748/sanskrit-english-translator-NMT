@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44736,
+    "sanskrit": "prāmāṇikasya tajjñasya vaktuḥ pṛṣṭasya yatnataḥ / nānutiṣṭhati yo vākya nānyastasmānnarādhamaḥ //",
+    "english": "Whoever does not carefully attend to the words of the truth-telling preceptor who is asked about anything, is the basest of men.",
+    "morphology": "prāmāṇikasya_prāmāṇika_SGM tad_tad_Cp jñasya_jña_SGM vaktuḥ_vaktṛ_SGM pṛṣṭasya_pracch_SGPaM yatnataḥ_yatna_SBM  / na_na_ anutiṣṭhati_anuṣṭhā_SPr3In yaḥ_yad_SNM vākya_vākya_SVM na_na_ anyaḥ_anya_SNM tasmāt_tad_SBM nara_"
+  },
+  {
+    "index": 44737,
+    "sanskrit": "bhāve ca yogyatāyogī śabdo jāto 'paro bhavet //",
+    "english": "[see verses 2495-2499 above] It may be that the Auditory Organ is embellished;",
+    "morphology": "bhāve_bhāva_SLM ca_ca_ yogyatā_yogyatā_Cp yogī_yogin_SNM śabdaḥ_śabda_SNM jātaḥ_jan_SNPaM aparaḥ_apara_SNM bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 44738,
+    "sanskrit": "sarvasya jagataḥ pālau gopālau tau babhūvatuḥ /",
+    "english": "They two, the protectors of the entire world became the protectors of cows.",
+    "morphology": "sarvasya_sarva_SGNe jagataḥ_jagant_SGNe pālau_pāla_DuNM gopālau_gopāla_DuNM tau_tad_DuNM babhūvatuḥ_bhū_DuPs3In  /"
+  },
+  {
+    "index": 44739,
+    "sanskrit": "tāṃ dṛṣṭvā manujāḥ sarve vasiṣṭhena samanvitām | namaścakrurmahābhāgāṃ gacchato paścimārṇavam || 26 ||",
+    "english": "26. Seeing her, the fortunate one along with Vasiṣṭha, moving on the western side of the sea, all humans bowed down and paid their homage to her.",
+    "morphology": "tām_tad_SAF dṛṣṭvā_dṛś_Co manujāḥ_manuja_PNM sarve_sarva_PNM vasiṣṭhena_vasiṣṭha_SIM samanvitām_samanvita_SAF  / namaścakruḥ_namaskṛ_PPs3In mahābhāgām_mahābhāga_SAF gacchataḥ_gam_PPr2Im paścima_paścima_Cp arṇavam_ar"
+  },
+  {
+    "index": 44740,
+    "sanskrit": "bodhādekaṃ jagadbhāvairjāḍyānnātmatvamāgatam / mitho bodhāddvivadati maitrīṃ bhajati bodhataḥ //",
+    "english": "To the right understanding the whole world with all its living beings, appears as one with one's self; but men of dull understandings, bear no mutual sympathy to one another. The knowledge of twain, tends to difference and disunion betwixt man and man; but that of oneness unity leads men to fellow-feeling and union.",
+    "morphology": "bodhāt_bodha_SBM ekam_eka_SNNe jagat_jagant_Cp bhāvaiḥ_bhāva_PIM jāḍyāt_jāḍya_SBNe na_na_ ātma_ātman_Cp tvam_tva_SNNe āgatam_āgam_SNPaNe  / mithas_mithas_ bodhāt_bodha_SBM dvi_dvi_Cp vadati_vad_SPr3In maitrīm_maitrī_SAF bhajati_bhaj_SPr3"
+  },
+  {
+    "index": 44741,
+    "sanskrit": "svapakṣasya sausthityaṃ darśayannāha satva iti /",
+    "english": "hence they do not fall within range of the Major term [i.e. they cannot have their Potencies restricted]’, With a view to show the soundness of his own view, the Sāṃkhya adds On the view of their being existent, etc.",
+    "morphology": "sva_sva_Cp pakṣasya_pakṣa_SGM sausthityam_sausthitya_SANe darśayan_darśay_SNPaPrM āha_ah_SPs3In satvaḥ_sattva_SNM iti_iti_"
+  },
+  {
+    "index": 44742,
+    "sanskrit": "sahasra saṃkhyān samitān sutān dakṣasya nāradaḥ mokṣam adhyāpayām āsa sāṃkhya jñānam anuttamam",
+    "english": "And Narada taught these thousand sons of Daksha the excellent philosophy of Sankhya as a means of salvation.",
+    "morphology": "sahasra_sahasra_NeCp saṃkhyān_saṃkhyā_PAM samitān_sami_PAPaPsM sutān_suta_PAM dakṣasya_dakṣa_SGM nāradaḥ_nārada_SNM mokṣam_mokṣa_SAM adhyāpayām_adhyāpay_SPs3In āsa_as_SPs3In sāṃkhya_sāṃkhya_NeCp jñānam_jñāna_SANe anuttamam"
+  },
+  {
+    "index": 44743,
+    "sanskrit": "tvayā vinā'haṃ na kvāsmi na tvaṃ devi mayā vinā | caṃdracaṃdrikayoryadvadagneruṣṇatvameva hi || 106 ||",
+    "english": "106. I am nowhere without you, O goddess and you without me. Our relation is like that of the Moon and moonlight or of fire and warmth.",
+    "morphology": "tvayā_tvad_SI vinā_vinā_ aham_mad_SN na_na_ kva_kva_ asmi_as_SPr1In na_na_ tvam_tvad_SN devi_devī_SVF mayā_mad_SI vinā_vinā_  / caṃdra_candra_Cp caṃdrikayoḥ_caṃdrikā_DuGF yadvat_yadvat_ agneḥ_agni_SGM uṣṇa_uṣṇa_Cp tvam_tva_SNNe ev"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43536,
+    "sanskrit": "carma atha adatta gāṅgeyaḥ jātarūpa pariṣkṛtam khaḍgam ca anyataram prepsuḥ mṛtyoḥ agre jayāya vā",
+    "english": "Desirous of obtaining either death or victory, the son of Ganga then took up a sword and a shield decked with gold.",
+    "morphology": "carma_carman_SANe atha_atha_U adatta_dā_SPs3In gāṅgeyaḥ_gāṅgeya_SNM jātarūpa_jātarūpa_NeCp pariṣkṛtam_pariṣkṛ_SAPaPsNe khaḍgam_khaḍga_SAM ca_ca_U anyataram_anyatara_SAM prepsuḥ_prepsu_SNM mṛtyoḥ_mṛtyu_SGM agre_agra_SLNe jay"
+  },
+  {
+    "index": 43537,
+    "sanskrit": "praṣṭuṃ jagāma kailāsaṃ girijāvallabhaṃ bhavam | tatra dṛṣṭvā mahārudraṃ provāca haripādajā || 55 ||",
+    "english": "With this thought worrying her, she went to Kailāsa in order to ask Bhava (Śiva), the lover of the Daughter of the Mountain. After meeting Mahārudra there the (river) born of the feet of Hari submitted: Gaṅgā said:",
+    "morphology": "praṣṭum_pracch_In jagāma_gam_SPs3In kailāsam_kailāsa_SAM girijā_girijā_Cp vallabham_vallabha_SAM bhavam_bhava_SAM  / tatra_tatra_ dṛṣṭvā_dṛś_Co mahārudram_mahārudra_SAM provāca_pravac_SPs3In hari_hari_Cp pāda_pāda_Cp jā_ja_SNF  /"
+  },
+  {
+    "index": 43538,
+    "sanskrit": "bhittvā dehān tathā teṣām śarāḥ jagmuḥ mahī talam",
+    "english": "Many of those arrows, again, piercing through their coats of mail, made of iron and brass, entered the earth.",
+    "morphology": "bhittvā_bhid_Co dehān_deha_PAM tathā_tathā_U teṣām_tad_PGM śarāḥ_śara_PNM jagmuḥ_gam_PPs3In mahī_mahī_FCp talam_tala_SAM"
+  },
+  {
+    "index": 43539,
+    "sanskrit": "mahābodhaturuṃ natvā dharmavān svargalokabhāk //",
+    "english": "The righteous person who salutes the Mahābodhi tree gets the region of heaven.",
+    "morphology": "mahā_mahat_Cp bodha_bodha_Cp turum_turu_SAM natvā_nam_Co dharmavān_dharmavat_SNM svarga_svarga_Cp loka_loka_Cp bhāj_bhāj_SNM  /"
+  },
+  {
+    "index": 43540,
+    "sanskrit": "saṃpaṭhañjananīsūktaṃ śrīsūktamatha vā paṭhan | devīsūktamatho vāpi mūkamantramathāpi vā ||",
+    "english": "47. Jananīsūkta, Śrīsūkta or Devīsūkta shall be recited or Mūlamantra shall be chanted.",
+    "morphology": "saṃpaṭhan_saṃpaṭh_SNPaPrM jananī_jananī_Cp sūktam_sūkta_SANe śrī_śrī_Cp sūktam_sūkta_SANe atha_atha_ vā_vā_ paṭhan_paṭh_SNPaPrM  / devī_devī_Cp sūktam_sūkta_SANe atho_atho_ vā_vā_ api_api_ mūkamantram_mūkamantra_SAM atha_ath"
+  },
+  {
+    "index": 43541,
+    "sanskrit": "aviveki vyaktamavyaktaṃ ca vivekī puruṣaḥ / tathā viṣayo vyaktamavyaktaṃ cāviṣayaḥ puruṣaḥ /",
+    "english": "The Manifest and the Unmanifest are nondiscriminated the Spirit is discriminating. The Manifest and the Unmanifest are objective the Spirit is nonobjective.",
+    "morphology": "aviveki_avivekin_SNNe vyaktam_vyakta_SNNe avyaktam_avyakta_SNNe ca_ca_ vivekī_vivekin_SNM puruṣaḥ_puruṣa_SNM  / tathā_tathā_ viṣayaḥ_viṣaya_SNM vyaktam_vyakta_SNNe avyaktam_avyakta_SNNe ca_ca_ aviṣayaḥ_aviṣaya_SNM puruṣaḥ_puruṣa_"
+  },
+  {
+    "index": 43542,
+    "sanskrit": "vaiṇavīm dhārayet yaṣṭim sa udakam ca kamaṇḍalum",
+    "english": "One should bear a bamboo-stick, and a water-pot filled with water.",
+    "morphology": "vaiṇavīm_vaiṇava_SAF dhārayet_dhāray_SPr3O yaṣṭim_yaṣṭi_SAF sa_sa_U udakam_udaka_SAM ca_ca_U kamaṇḍalum_kamaṇḍalu_SAM"
+  },
+  {
+    "index": 43543,
+    "sanskrit": "ājñā sadā apratihatā jaya śabdaḥ bhavati atha",
+    "english": "Possessed of all kinds of wealth the commands of such a king can never be disobeyed anywhere, and cries of victory hail him wheresoever he may approach.",
+    "morphology": "ājñā_ājñā_SNF sadā_sadā_U apratihatā_apratihata_SNF jaya_jaya_MCp śabdaḥ_śabda_SNM bhavati_bhū_SPr3In atha_atha_U"
+  }
+]

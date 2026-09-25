@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6056,
+    "sanskrit": "ekabhūmyāśritatvena tulyadeśatvakalpane /",
+    "english": "Though the earth is one and the same yet the earthen objects are not one.",
+    "morphology": "eka_eka_Cp bhūmi_bhūmi_Cp āśrita_āśri_PaCp tvena_tva_SINe tulya_tulya_Cp deśa_deśa_Cp tva_tva_Cp kalpane_kalpana_SLNe"
+  },
+  {
+    "index": 6057,
+    "sanskrit": "hanyatāṃ danyatāmeṣa chidyatāṃ chidyatāmayam / bhakṣyatāṃ bhakṣyatāṃ cāya mityucuste niśācarāḥ // tato nānāvidhānnādān siṃhoṣṭramakarānanāḥ / trāsāya rājaputrasya neduste rajanīcarāḥ //",
+    "english": "The goblins called out, “Kill him, kill him cut him to pieces eat him, eat him ” and monsters, with the faces of lions and camels and crocodiles, roared and yelled with horrible cries, to terrify the prince.",
+    "morphology": "hanyatām_han_SPr3ImPv danyatām_dan_SPr3ImPv eṣa_etad_SNM chidyatām_chid_SPr3ImPv chidyatām_chid_SPr3ImPv ayam_idam_SNM  / bhakṣyatām_bhakṣ_SPr3ImPv bhakṣyatām_bhakṣ_SPr3ImPv ca_ca_ ayam_idam_SNM m_m_SNM iti_iti_ ucuḥ_vac_PPs3In te_tad_PNM"
+  },
+  {
+    "index": 6058,
+    "sanskrit": "varaṃ hariṃ guṇākāraṃ su mukti daṃ parāt paramrameśvaraṃ guṇeśvaraṃ vrajeśvaraṃ namāmy aham",
+    "english": "I offer my respectful obeisances to Lord Hari, greater than the greatest, a jewel mine of transcendental virtues, the giver of liberation, the master of the goddess of fortune, the master of transcendental virtues, and the master of Vraja.",
+    "morphology": "vara_vara_SAM harim_hari_SAM guṇa_guṇa_Cp ākāra_ākāra_SAM parāt_para_SBNe"
+  },
+  {
+    "index": 6059,
+    "sanskrit": "tatkṛtānugrahāpekṣī taṃ muhur dūtahāritaiḥ / anukūlayatīndro 'pi kalpadrumavibhūṣaṇaiḥ //",
+    "english": "Even Indra, desirous of securing favour done by him, tries again and again to win him over with the precious flowers of the desiregranting trees Kalpadrumas sent by massengers",
+    "morphology": "tad_tad_Cp kṛta_kṛ_PaCp anugraha_anugraha_Cp apekṣī_apekṣin_SNM tam_tad_SAM muhur_muhur_ dūta_dūta_Cp hāritaiḥ_hāray_PIPaNe  / anukūlayati_anukūlay_SPr3In indraḥ_indra_SNM api_api_ kalpadruma_kalpadruma_Cp vibhūṣaṇaiḥ_vibhūṣa"
+  },
+  {
+    "index": 6060,
+    "sanskrit": "nanu satyekarūpatve dharmabhedo na siddhyati /",
+    "english": "In fact, if the thing has only one form, it cannot have diverse properties;",
+    "morphology": "nanu_nanu_ sati_as_SLPaPrNe eka_eka_Cp rūpa_rūpa_Cp tve_tva_SLNe "
+  },
+  {
+    "index": 6061,
+    "sanskrit": "vyāsa uvāca | na bhaviṣyati te māyā vaiṣṇavī sā kathaṃcana | sughorānnarakādasmānniṣkramasva vigarhitāt || 28 ||",
+    "english": "Vyāsa said: 28-29. The Vaiṣṇavī Māyā will not affect you at all. Come out of this extremely terrible and despicable Naraka in the form of the stay in the womb.",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / na_na_ bhaviṣyati_bhū_SFu3In te_tvad_SG māyā_māyā_SNF vaiṣṇavī_vaiṣṇava_SNF sā_tad_SNF kathaṃcana_kathaṃcana_  / su_su_ ghorāt_ghora_SBNe narakāt_naraka_SBNe asmāt_idam_SBNe niṣkramasva_ni"
+  },
+  {
+    "index": 6062,
+    "sanskrit": "evaṃ ca sati yaḥ pūrvaṃ śaktivādo 'tra varṇitaḥ /",
+    "english": "In this connection, it should be noted that a positive real fails to do what another such real does.",
+    "morphology": "evam_evam_ ca_ca_ sati_as_SLPaPrNe yaḥ_yad_SNM pūrvam_pūrvam_"
+  },
+  {
+    "index": 6063,
+    "sanskrit": "tasya cā'yuḥkṣaye tāta śeṣamākhurhariṣyati | paścātkūpe patiṣyāmo duruttāreṃ'dhatāmase || 69 ||",
+    "english": "69. At the end of his life, O dear one, the mouse will take away the rest of the grass too. Thereafter we should fall into the blinding darkness of the well that cannot be surmounted.",
+    "morphology": "tasya_tad_SGM ca_ca_ āyuḥ_āyus_Cp kṣaye_kṣaya_SLM tāta_tāta_SVM śeṣam_śeṣa_SAM ākhuḥ_ākhu_SNM hariṣyati_hṛ_SFu3In  / paścāt_paścāt_ kūpe_kūpa_SLM patiṣyāmaḥ_pat_PFu1In __duruttāra_U __iṃdhan_U __tāmasa_U"
+  }
+]

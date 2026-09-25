@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37000,
+    "sanskrit": "raṇe karma mahat kartā tatra me na asti saṃśayaḥ",
+    "english": "He will achieve great feats in battle. I have no doubt of this.",
+    "morphology": "raṇe_raṇa_SLM karma_karman_SANe mahat_mahat_SANe kartā_kṛ_SFu3In tatrā_tatra_U"
+  },
+  {
+    "index": 37001,
+    "sanskrit": "svādānād varṇasaṃsargāt tv abalānāṃ ca rakṣaṇāt / balaṃ saṃjāyate rājñaḥ sa pretyeha ca vardhate //",
+    "english": "By taking what is his due, by the proper adjustment of castes, and by protecting the weak, the power of the king grows, and he prospers here as also after death.",
+    "morphology": "sva_sva_Cp ādānāt_ādāna_SBNe varṇa_varṇa_Cp saṃsargāt_saṃsarga_SBM tu_tu_ abalānām_abala_PGM ca_ca_ rakṣaṇāt_rakṣaṇa_SBNe  / balam_bala_SNNe saṃjāyate_saṃjan_SPr3In rājñaḥ_rājan_SGM sa_tad_SNM pretya_pre_Co iha_iha_ ca_ca"
+  },
+  {
+    "index": 37002,
+    "sanskrit": "tadaiva gopī gaṇa gopa mukhyāḥ sampūjya kṛṣṇaṃ nṛpa nanda sūnumgandhākṣatādyair dadhi dugdha bhogair jñātvā paraṃ nemur atīva sarve",
+    "english": "O king, the gopas and gopīs, now understanding that Nanda's son Kṛṣṇa is the Supreme Personality of Godhead, worshiped Him, showered Him with unbroken grains of rice, offered Him many foods made with milk and yogurt, and humbly bowed down before Him.",
+    "morphology": "tadā_tadā_ eva_eva_ gopī_gopī_FCp gaṇa_gaṇa_MCp gopa_gopa_MCp mukhyāḥ_mukhya_PNM sampūjya_sampūjay_Co kṛṣṇam_kṛṣṇa_SAM nṛpa_nṛpa_SVM nanda_nanda_MCp sūnum_sūnu_SAM gandha_gandha_Cp akṣata_akṣata_Cp ādyaiḥ_ādya_PIM dad"
+  },
+  {
+    "index": 37003,
+    "sanskrit": "asuraḥ ca mahā iṣvāsaḥ jambhaḥ iti abhiviśrutaḥ yajña kṣobha karaḥ krūraḥ tvayā eva vinipātitaḥ",
+    "english": "O lord, it was by thee that that wicked Asura, Jambha by name, who was a mighty bowman and who always obstructed sacrifices, was slain.",
+    "morphology": "asuraḥ_asura_SNM ca_ca_U mahā_mahat_Cp iṣvāsaḥ_iṣvāsa_SNM jambhaḥ_jambha_SNM iti_iti_U abhiviśrutaḥ_abhiviśru_SNPaPsM yajña_yajña_MCp kṣobha_kṣobha_MCp karaḥ_kara_SNM krūraḥ_krūra_SNM tvayā_tvad_SI eva_eva_U vinipātitaḥ_vin"
+  },
+  {
+    "index": 37004,
+    "sanskrit": "yaḥ kr̥ntat it vi yonyam tri śokāya girim pr̥thum go bhyaḥ gātum niḥ etave",
+    "english": "Who for Triṣoka clave the hill that formed a wide receptacle, So that the cows might issue forth.",
+    "morphology": "yaḥ_yad_SNM kr̥ntat_krand_SPr3Su id_id_U vi_vi_U yonyam_yonya_SAM tri_tri_Cp śokāya_śoka_SDM girim_giri_SAM pr̥thum_prāthu_SAM go_go_PDM gātum_gātu_SAM niḥ_niḥ_U"
+  },
+  {
+    "index": 37005,
+    "sanskrit": "idam ca eva asamam yuddham īdṛśam prakṛtam paraiḥ",
+    "english": "This battle, however, that the enemy fought with Abhimanyu, was an extremely unequal one.",
+    "morphology": "idam_idam_SNNe ca_ca_U eva_eva_U asamam_asama_SNNe yuddham_yuddha_SNNe īdṛśam_īdṛśa_SNNe prakṛtam_prakṛ_SNPaPsNe paraiḥ_para_SVM"
+  },
+  {
+    "index": 37006,
+    "sanskrit": "vayam hi deva gandharva manuṣya uraga rākṣasān dṛṣṭavantaḥ na ca asmābhiḥ dṛṣṭa pūrvaḥ tathāvidhaḥ",
+    "english": "We have, indeed, beheld celestials and Gandharvas, and Nagas, and Rakshasas, and men, but never saw we before any one like Nala.",
+    "morphology": "vayam_mad_PN hi_hi_U deva_deva_MCp gandharva_gandharva_MCp manuṣya_manuṣya_MCp uraga_uraga_MCp rākṣasān_rākṣasa_PAM dṛṣṭavantaḥ_dṛś_PNPaPsM na_na_U ca_ca_U asmābhiḥ_mad_PI dṛṣṭa_dṛś_PaPsCp pūrvaḥ_pūrva_SNM tathāvidha"
+  },
+  {
+    "index": 37007,
+    "sanskrit": "tattvamadya dinaṃ dehi tebhyaḥ kamalasambhava | tena tṛptiṃ gatāḥ sarve sthāsyaṃtyabdaṃ pitāmaha || 12 ||",
+    "english": "12. Hence, O Lotus-born One, give one day unto them whereby, O Pitāmaha, they will stay satisfied for a year. Śrī Brahmā said:",
+    "morphology": "tat_tad_SANe tvam_tvad_SN adya_adya_ dinam_dina_SANe dehi_dā_SPr2Im tebhyaḥ_tad_PDM kamalasambhava_kamalasambhava_SVM  / tena_tad_SINe tṛptim_tṛpti_SAF gatāḥ_gam_PNPaM sarve_sarva_PNM sthāsyanti_sthā_PFu3In abdam_abda_SAM pitāmaha_pitāmaha_SV"
+  }
+]

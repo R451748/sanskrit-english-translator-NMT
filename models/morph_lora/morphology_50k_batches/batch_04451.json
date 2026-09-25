@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35600,
+    "sanskrit": "vaiśvānaraḥ pratna thā nākam ā aruhat divaḥ pr̥ṣṭham bhandamānaḥ sumanma bhiḥ saḥ pūrva vat janayan jantave dhanam samānam ajmam pari eti jāgr̥viḥ",
+    "english": "Vaiṣvânara, as of old, mounted the cope of heaven, heaven's ridge, well greeted, by those skilled in noble songs. He, as of old, producing riches for the folk, still watchful, traversesthe common way again.",
+    "morphology": "vaiśvānaraḥ_vaiśvānara_SNM pratna_pratna_Cp thā_thā_U nākam_nāka_SAM ā_ā_U aruhat_ruh_SPs3In divaḥ_div_SGM pr̥ṣṭham_prāṣṭha_SAM bhandamānaḥ_bhand_SNPaPrM sumanma_sumanman_PIM bhiḥ_bhiḥ_U saḥ_tad_SNM pūrva_pūrva_Cp vat_vat"
+  },
+  {
+    "index": 35601,
+    "sanskrit": "kalpakoṭiśataṃ sāgraṃ pitṝṇāṃ tṛptimāvahet | durvāseśvaranāmānaṃ tatra pūjya vidhānataḥ || 3 ||",
+    "english": "He who, after taking bath on a New-Moon day, offers rice-balls (to Pitṛs), will convey satisfaction to the Pitṛs during more than one hundred crore Kalpas.",
+    "morphology": "kalpa_kalpa_Cp koṭi_koṭi_Cp śatam_śata_SANe sāgram_sāgra_SANe pitṝṇām_pitṛ_PGM tṛptim_tṛpti_SAF āvahet_āvah_SPr3O  / durvāsa_durvāsa_Cp īśvara_īśvara_Cp nāmānam_nāman_SAM tatra_tatra_ pūjya_pūjay_Co vidhānatas_vidhānatas_"
+  },
+  {
+    "index": 35602,
+    "sanskrit": "cakratīrthe tīrthavare viśeṣāddvijasattamāḥ | ratnadānaṃ prakurvīta prīṇanārthaṃ jagatpateḥ || 18 ||",
+    "english": "18. ö virtuous Brāhmaṇas! in Cakratīrtha—the leading centre of pilgrimage, the Lord of the world can be gratified by donations of weaved material studded with gems.",
+    "morphology": "cakratīrthe_cakratīrtha_SLNe tīrtha_tīrtha_Cp vare_vara_SLNe viśeṣāt_viśeṣāt_ dvijasattamāḥ_dvijasattama_PVM  / ratna_ratna_Cp dānam_dāna_SANe prakurvīta_prakṛ_SPr3O prīṇana_prīṇana_Cp artham_artha_SAM jagatpateḥ_jagatpati_SGM "
+  },
+  {
+    "index": 35603,
+    "sanskrit": "upāyaś ca prathamastāvat vṛddhavyavahāra eva tulyatvāl lokavedaśabdārthānām /",
+    "english": "The first and foremost method is the usage of the experienced persons since the same words are used in Vedic and classical languages and they convey the same sense.",
+    "morphology": "upāyaḥ_upāya_SNM ca_ca_ prathamaḥ_prathama_SNM tāvat_tāvat_ vṛddha_vṛddha_Cp vyavahāraḥ_vyavahāra_SNM eva_eva_ tulya_tulya_Cp tvāt_tva_SBNe loka_loka_Cp veda_veda_Cp śabda_śabda_Cp arthānām_artha_PGM  /"
+  },
+  {
+    "index": 35604,
+    "sanskrit": "iti uktavatyām gāndhāryām kuntī vrata kṛśa ānanā pracchanna jātam putram tam sasmāra āditya saṃbhavam",
+    "english": "After Gandhari had said so, Kunti, whose face had become wasted through observance of many hard vows, began to think of her secret-born son endued with solar effulgence.",
+    "morphology": "iti_iti_U uktavatyām_vac_SLPaPsF gāndhāryām_gāndhārī_SLF kuntī_kuntī_SNF vrata_vrata_NeCp kṛśa_kṛśa_Cp ānanā_ānana_SNF pracchanna_pracchad_PaPsCp jātam_jan_SAPaPsM putram_putra_SAM tam_tad_SAM sasmāra_smṛ_SPs3In āditya_āditya_MCp sa"
+  },
+  {
+    "index": 35605,
+    "sanskrit": "nakṣatrair yaś ca jīvati / nakṣatraśabdena jyotiḥśāstraṃ lakṣyate, tena jīvati jyotiṣikaḥ /",
+    "english": "\"One who subsists on stars,\" the term \"stars\" stands for the science of Astrology; and he who lives by that is the astrologer.",
+    "morphology": "nakṣatraiḥ_nakṣatra_PINe yaḥ_yad_SNM ca_ca_ jīvati_jīv_SPr3In  / nakṣatra_nakṣatra_Cp śabdena_śabda_SIM jyotiḥśāstram_jyotiḥśāstra_SNNe lakṣyate_lakṣay_SPr3InPv tena_tena_ jīvati_jīv_SPr3In jyotiṣikaḥ_jyotiṣika_SNM  /"
+  },
+  {
+    "index": 35606,
+    "sanskrit": "saḥ asmattaḥ cirajātataraḥ",
+    "english": "He is older than we.",
+    "morphology": "saḥ_tad_SNM asmattaḥ_mad_PBM cirajātataraḥ_cirajātatara_SNM"
+  },
+  {
+    "index": 35607,
+    "sanskrit": "tato nirarthakaivāsya vyañjakasyāpi kalpanā //",
+    "english": "Hence it follows that the assumption of the ‘manifester’ of the sphoṭa is also futile.",
+    "morphology": "tatas_tatas_ nirarthakā_nirarthaka_SNF eva_eva_ asya_idam_SGM vyañjakasya_vyañjaka_SGM api_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27144,
+    "sanskrit": "tad ayuktam / na niṣkrayavisargābhyām iti tasya ślokasyārthavattvaṃ darśayiṣyāmaḥ /",
+    "english": "This however is not right; since \"neither by sale nor by repudiation is the wife released from her husband\" Manu; and the uses of this text we shall explain later on.",
+    "morphology": "tat_tad_SNNe ayuktam_ayukta_SNNe  / na_na_ niṣkraya_niṣkraya_Cp visargābhyām_visarga_DuIM iti_iti_ tasya_tad_SGM ślokasya_śloka_SGM arthavat_arthavat_Cp tvam_tva_SANe"
+  },
+  {
+    "index": 27145,
+    "sanskrit": "utthāya sarvam svayam eva kuryāḥ",
+    "english": "And even when he commands a maidservant to do anything, get thou up and do it thyself.",
+    "morphology": "u_uḥ_U"
+  },
+  {
+    "index": 27146,
+    "sanskrit": "pra vedhase kavaye vedyāya giram bhare yaśase pūrvyāya ghr̥ta prasattaḥ asuraḥ su śevaḥ rāyaḥ dhartā dharuṇaḥ vasvaḥ agniḥ",
+    "english": "I bring a prayer to the worshipper, the renowned sage, the glorious, ancient one. Agni is the highly gracious Asura, taking his seat in ghrita, the holder of wealth, supporting goods.",
+    "morphology": "pra_pra_U vedhase_vedhas_SDM kavaye_kavi_SDM vedyāya_vid_SDMGd giram_gir_SAF bhare_bhara_SLM yaśase_yaśas_SDNe pūrvyāya_pūrvya_SDNe ghrāta_ghrā_PaPsCp prasattaḥ_prasad_SNPaPsM asuraḥ_asura_SNM su_su_U śevaḥ_śeva_SNM rāyaḥ_rai_SGM dhartā"
+  },
+  {
+    "index": 27147,
+    "sanskrit": "manasā niścayam kṛtvā tatas vācā abhidhīyate",
+    "english": "Having first settled a thing mentally, it is expressed in words, and then it is carried out into practice.",
+    "morphology": "manasā_manas_SINe"
+  },
+  {
+    "index": 27148,
+    "sanskrit": "kadācidupalabdhe 'rthe sandeho nanu yujyate /",
+    "english": "“In the case of a thing that has been apprehended at some time or the other, it is possible that there may be doubt;",
+    "morphology": "kadācid_kadācid_ upalabdhe_upalabh_SLPaM arthe_artha_SLM sandehaḥ_SNM nanu_"
+  },
+  {
+    "index": 27149,
+    "sanskrit": "sādṛśya hetum anvicchan pṛthāyāḥ tava ca eva ha",
+    "english": "Desirous of finding out the reason of that resemblance between him and our mother, I reflected for a long time.",
+    "morphology": "sādṛśya_sādṛśya_NeCp"
+  },
+  {
+    "index": 27150,
+    "sanskrit": "tam saṃkalpam viditvā asya jñātvā putrān ca bālakān",
+    "english": "Then the Brahmana Mandapala, knowing the intention of Agni and remembering also that his children were all young moved by fear, gratified the god, of the burning element, that regent of the universe, endued with great energy.",
+    "morphology": "tam_tad_SAM saṃkalpam_saṃkalpa_SAM viditvā_vid_Co"
+  },
+  {
+    "index": 27151,
+    "sanskrit": "bhajatāṃ sarvabhāvena duḥkhaṃ svapne'pi no bhavet | yadā kadācijjāyeta tadā karmasamudbhavam || tadetadbahvapi jñeyaṃ nūnamalpaṃ na saṃśayaḥ | prārabdhasyātha vā doṣo nūnaṃ jñeyo viśeṣataḥ ||",
+    "english": "34. Even in dreams, misery does not befall those who worship him with devotion. If it happens at all, it is due to their previous activities. 35. That must happen whether big or small. The fault is particularly that of the action that has begun to fructify.",
+    "morphology": "bhajatām_bhaj_PGPaPrM sarva_sarva_Cp bhāvena_bhāva_SIM duḥkham_duḥkha_SNNe svapne_svapna_SLM api_api_ naḥ_mad_PG bhavet_bhū_SPr3O  / yadā_yadā_ kadācid_kadācid_ jāyeta_jan_SPr3O tadā_tadā_ karma_karman_Cp samudbhavam_samudbhava_SNNe  / tat"
+  }
+]

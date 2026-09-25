@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43008,
+    "sanskrit": "labhyate nārthasaṃvādas tasmād iha narādiṣu //",
+    "english": "hence the cognition derived from the Veda is not found to be the same in all men.",
+    "morphology": "labhyate_labh_SPr3InPv na_na_ artha_artha_Cp saṃvādaḥ_saṃvāda_SNM tasmāt_tasmāt_"
+  },
+  {
+    "index": 43009,
+    "sanskrit": "yaiḥ iyam pṛthivī sarvā ghātitā kula pāṃsanaiḥ",
+    "english": "Alas, it was those wretches of their race that caused the whole Earth to be exterminated.",
+    "morphology": "yaiḥ_yad_PIM"
+  },
+  {
+    "index": 43010,
+    "sanskrit": "etasminnaṃtare devāḥ saṃprahṛṣṭatanūruhāḥ | sūtraṃ vinihataṃ dṛṣṭvā tuṣṭuvustridaśādhipam || 94 ||",
+    "english": "94-97. In the meantime the Devas saw that Vṛtra had been slain. They experienced horripilation due to joy and eulogized Indra.",
+    "morphology": "etasmin_etad_SLNe antare_antara_SLNe devāḥ_deva_PNM saṃprahṛṣṭa_saṃprahṛṣ_PaCp tanūruhāḥ_tanūruha_PNM  / sūtram_sūtra_SANe vinihatam_vinihan_SAPaNe dṛṣṭvā_dṛś_Co tuṣṭuvuḥ_stu_PPs3In tridaśādhipam_tridaśādhipa_SAM"
+  },
+  {
+    "index": 43011,
+    "sanskrit": "gurorālokamātreṇa sparśātsaṃbhāṣaṇādapi | sadyassaṃjñā bhavejjaṃtoḥ pāśopakṣayakāriṇī || sā dīkṣā śāṃbhavī proktā sā punarbhidyate dvidhā | tīvrā tīvratarā ceti pāśo pakṣayabhedataḥ ||",
+    "english": "7-8. The initiation of Śiva is that whereby at the mere sight, touch and talk of the preceptor (guru) the individual soul gains immediately the consciousness quelling the bondage. It is twofold in view of the difference in the destruction of bondage, viz. acute and more acute.",
+    "morphology": "guroḥ_guru_SGM āloka_āloka_Cp mātreṇa_mātra_SINe sparśāt_sparśa_SBM saṃbhāṣaṇāt_sambhāṣaṇa_SBNe api_api_  / sadyas_sadyas_ saṃjñā_saṃjñā_SNF bhavet_bhū_SPr3O jantoḥ_jantu_SGM pāśa_pāśa_Cp upakṣaya_upakṣaya_Cp kār"
+  },
+  {
+    "index": 43012,
+    "sanskrit": "tasmādvyāsa sadā śrāvyaṃ śiṣyebhyaḥ sarvadarśanaṃ / śukādyair munibhiḥ sardhaṃ śrotukāmaiḥ purāṇakaṃ //",
+    "english": "Hence, O Vyāsa! This Purāṇa making everything explicit should always be read to the disciples in the company of the sages such as Śuka and others who are desirous of hearing.",
+    "morphology": "tasmāt_tasmāt_ vyāsa_vyāsa_SVM sadā_sadā_ śrāvyam_śrāvay_SNNeGd śiṣyebhyaḥ_śiṣya_PDM sarva_sarva_Cp darśanam_darśana_SNNe  / śuka_śuka_Cp ādyaiḥ_ādya_PIM munibhiḥ_muni_PIM sardham_sardham_ śrotu_śrotu_Cp kāmaiḥ_kāma_PIM pu"
+  },
+  {
+    "index": 43013,
+    "sanskrit": "yathāgnihotrādividhijanitāgnihotrādikartavyatābuddhīnāmatathārthatvamanutpannatvaṃ vā na śakyate vaktuṃ tadvat /",
+    "english": "in the case of this injunction, it cannot be denied that it lays down the performance of the Agnihotra and other rites, nor can it be denied that this notion is not brought about by that injunction",
+    "morphology": "yathā_yathā_ agnihotra_agnihotra_Cp ādi_ādi_Cp vidhi_vidhi_Cp janita_janay_PaCp agnihotra_agnihotra_Cp ādi_ādi_Cp kartavyatā_kartavyatā_Cp buddhīnām_buddhi_PGF atathārtha_atathārtha_Cp tvam_tva_SNNe anutpanna_anutpanna_Cp tvam_tva_SNNe vā_vā_"
+  },
+  {
+    "index": 43014,
+    "sanskrit": "ucchrāyāḥ vinipāta antāḥ bhāvaḥ abhāva sthaḥ eva ca",
+    "english": "That which is existent is only another form of the non-existent. Everything is transitory and unstable.",
+    "morphology": "ucchrāyāḥ_ucchrāya_PNM vinipāta_vinipāta_MCp antāḥ_anta_PNM bhāḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ"
+  },
+  {
+    "index": 43015,
+    "sanskrit": "śaktidevo 'pi saṃprāpa vismṛtādhvaklamo mudam / videśe bandhulābho hi marāv amṛtanirjharaḥ //",
+    "english": "And Śaktideva, forgetting the toil of the journey, obtained delight, for the meeting of a relation in a foreign land is like a fountain of nectar in the desert.",
+    "morphology": "śaktidevaḥ_śaktideva_SNM api_api_ saṃprāpa_samprāp_SPs3In vismṛta_vismṛ_PaCp adhva_adhvan_Cp klamaḥ_klama_SNM mudam_mud_SAF  / videśe_videśa_SLM bandhu_bandhu_Cp lābhaḥ_lābha_SNM hi_hi_ marau_maru_SLM amṛta_amṛta_Cp nirjharaḥ_nirj"
+  }
+]

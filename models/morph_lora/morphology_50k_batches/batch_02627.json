@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21008,
+    "sanskrit": "na vaiśya karma tvayi vidyate samam",
+    "english": "The office of a Vaisya is not fit for thee.",
+    "morphology": "na_na_U vaiśya_vaiśya_SVM karma_karman_SNNe tvayi_tvad_SL vidyate_vid_SPr3InPv"
+  },
+  {
+    "index": 21009,
+    "sanskrit": "barhiṇo mayūrāḥ //",
+    "english": "\"Varhiṇaḥ\" peacock.",
+    "morphology": "barhiṇaḥ_barhin_PNM "
+  },
+  {
+    "index": 21010,
+    "sanskrit": "subandhuḥ kasyacitkaḥ syādiha no kaścidapyariḥ / sadā sarve ca sarvasya sarvaṃ sarveśvarecchayā //",
+    "english": "Whom do you call your good friend, and whom do you say your great enemy? They all belong to the Sole One, and proceed alike from the Divine will.",
+    "morphology": "su_su_ bandhuḥ_bandhu_SNM kasyacid_kaścit_SGM kaḥ_ka_SNM syāt_as_SPr3O iha_iha_ no_no_ kaścid_kaścit_SNM api_api_ ariḥ_ari_SNM  / sadā_sadā_ sarve_sarva_PNM ca_ca_ sarvasya_sarva_SGM sarvam_sarva_SNNe sarva_sarva_Cp īśvara_īśvara_Cp icchay"
+  },
+  {
+    "index": 21011,
+    "sanskrit": "pañca nikṣepaṇāni bhavanti | tat yathā phalakam tryaṣṭakam muñja valayaḥ udaka mañcikā śikyam ca iti ||",
+    "english": "The bottoms of a water pitcher are made of five different shapes such as, the Phalaka (rectangular wooden stool), the Tryashtaka (octagonal wooden tripod), the Manju Valayam (ring made of the blades of Manju grass), the Udaka-Manchika (wooden scaffold for a pitcher) and the Shiky (pendent bracket).",
+    "morphology": "pañca_pañcan_PNNe nikṣepaṇāni_nikṣepaṇa_PNNe bhavanti_bhū_PPr3In  / tat_tad_SNNe yathā_yathā_U phalakam_phalaka_SNNe tryaṣṭakam_tryaṣṭaka_SNNe muñja_muñja_MCp valayaḥ_vali_PNF udaka_udaka_NeCp mañcikā_mañcikā_SNF śikyam_śiky"
+  },
+  {
+    "index": 21012,
+    "sanskrit": "na dveṣṭi no kāmayate na viruddho'nurudhyate | samāśmakāṃcano dhīrastulyaniṃdātmasaṃstutiḥ || 22 ||",
+    "english": "22. He neither hates nor loves (anyone). He is not antagonistic (to anyone) nor does he follow and obey (anyone). He is self-possessed. He considers a piece of stone and a lump of gold alike. If anyone censures him or praises him, he views it in the same (indifferent) manner.",
+    "morphology": "na_na_ dveṣṭi_dviṣ_SPr3In no_no_ kāmayate_kāmay_SPr3In na_na_ viruddhaḥ_virudh_SNPaM anurudhyate_anurudh_SPr3InPv  / sama_sama_Cp aśma_aśman_Cp kāñcanaḥ_kāñcana_SNM dhīraḥ_dhīra_SNM tulya_tulya_Cp niṃdā_nindā_Cp ātma_ātman_Cp sa"
+  },
+  {
+    "index": 21013,
+    "sanskrit": "eka prahāra abhihatān bhīmasenena kuñjarān apaśyāma raṇe tasmin girīn vajra hatān iva",
+    "english": "And we beheld elephants slain in that battle by Bhimasena, each with only one stroke (of his mace), like hills riven by thunder.",
+    "morphology": "eka_eka_Cp prahāra_prahāra_MCp abhihatān_abhihan_PAPaPsM bhīmasenena_bhīmasena_SIM kuñjarān_kuñjara_PAM apaśyāma_paś_PPs1In raṇe_raṇa_SLM tasmin_tad_SLM girīn_giri_PAM vajra_vajra_MCp hatān_han_PAPaPsM iva_iva_U"
+  },
+  {
+    "index": 21014,
+    "sanskrit": "tadādiśatu māṃ loko yatkṛtyaṃ prakaromi vaḥ | adeyamapi yacchāmi gṛhāyātasya sāṃpratam || 90 ||",
+    "english": "Hence, surely command me, ye all. What task shall I carry out? To one who has arrived at my abode now, I will give even that which cannot be (ordinarily) given. I will approach even him who should not be approached. I will do even that which cannot be done.”",
+    "morphology": "tat_tad_SANe ādiśatu_ādiś_SPr3Im mām_mad_SA lokaḥ_loka_SNM yat_yad_SANe kṛtyam_kṛtya_SANe prakaromi_prakṛ_SPr1In vaḥ_tvad_PG  / adeyam_adeya_SANe api_api_ yacchāmi_yam_SPr1In gṛha_gṛha_Cp āyātasya_āyā_SGPaM sāṃpratam_sāṃpratam"
+  },
+  {
+    "index": 21015,
+    "sanskrit": "buddhiḥ jñāna gatā nityam rasaḥ tu apsu pravartate bhravoḥ anantarāḥ tasya grahāḥ dānava sattama",
+    "english": "His understanding dwells always in Knowledge, and His tongue is in Water.[1360] O best of Danavas, the Planets are in the midst of His brows.",
+    "morphology": "buddhiḥ_buddhi_SNF jñāna_jñāna_NeCp gatā_gam_SNPaPsF nityam_nityam_U rasaḥ_rasa_SNM tu_tu_U apsu_ap_PLF pravartate_pravṛt_SPr3In bhravoḥ_bhrū_DuGF anantarāḥ_anantara_PNM tasya_tad_SGM grahāḥ_graha_PNM dānava_dānava_MCp sattama_sattama"
+  }
+]

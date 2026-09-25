@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6928,
+    "sanskrit": "(32) nyagrodha-parimaṇḍalatā:",
+    "english": "(32) His (body) is well-proportioned like a banyan tree:",
+    "morphology": "u_u_U"
+  },
+  {
+    "index": 6929,
+    "sanskrit": "vaiśvadevā vai sajātās |",
+    "english": "his relatives are connected with the All-gods;",
+    "morphology": "vaiśvadevāḥ_"
+  },
+  {
+    "index": 6930,
+    "sanskrit": "etad evānyārthetyādinā spaṣṭīkurute /",
+    "english": "This same idea is made clear in the sentence ‘Even when the man, etc, etc.’.",
+    "morphology": "__etad_U __etad_U __"
+  },
+  {
+    "index": 6931,
+    "sanskrit": "saha dattā asmi kāvyena devayānyā mahā ṛṣiṇā",
+    "english": "I am, indeed, the slave of Devayani.",
+    "morphology": "sa_saha_U"
+  },
+  {
+    "index": 6932,
+    "sanskrit": "viduḥ te viśvā bhuvanāni tasya tā pra bravīṣi varuṇāya vedhaḥ tvam vr̥trāṇi śr̥ṇviṣe jaghanvān tvam vr̥tām ariṇāḥ indra sindhūn",
+    "english": "All beings know these deeds of thine thou tellest this unto Varuṇa, thou great Disposer! Thou art renowned as having slain the Vr̥itras. Thou madest flow the floods that were obstructed.",
+    "morphology": "viduḥ_vid_PPs3In te_tvad_SG viśvā_viśva_PNNe bhuvanāni_bhuvana_PNNe tasya_tad_SGM tā_tad_PANe pra_pra_U bravīṣi_brū_SPr2In varuṇāya_varuṇa_SDM vedhaḥ_vedhas_SVM tvam_tvad_SN vr̥trāṇi_vrātra_PANe śr̥ṇviṣe_śru_SPr2In jaghanvān_"
+  },
+  {
+    "index": 6933,
+    "sanskrit": "cirakṣiprādibhedena rogaśāntyupalambhataḥ //",
+    "english": "because the cure op the diseases is found to be quick and delayed.",
+    "morphology": "cira_cira_Cp kṣipra_kṣipra_Cp ādi_ādi_Cp bhedena_bheda_SIM roga_roga_Cp śānti_śānti_Cp upalambhataḥ_upalambha_SBM "
+  },
+  {
+    "index": 6934,
+    "sanskrit": "[asya gaur iti nāma devadattenopadiṣṭam āsīt] ity evam anusmṛtya gośabdavācyatayaivaṃ vyavaharatīti vākyasmaraṇajam evedaṃ jñānam tasmād asyāpi tad vākyaṃ saṃjñākarmopadeśakam / hetutām upayātīti śābdam etad apīpyatām //",
+    "english": "We remember that we have correctly learnt that this word signifies the object in question since we have been taught by Devadatta, a reliable person, and so on. Now, the question is. \"Why do not you exclude such a judgment from the field of perception by the term in question?\" Now, they may contend that words do not directly condition the above judgment but their memory.",
+    "morphology": "asya_idam_SGM gauḥ_go_SNF iti_iti_ nāma_nāman_SNNe devadattena_devadatta_SIM upadiṣṭam_upadiś_SNPaNe āsīt_as_S3ImIn iti_iti_ evam_evam_ anusmṛtya_anusmṛ_Co go_go_Cp śabda_śabda_Cp vācya_vac_GdCp tayā_tā_SIF evam_evam_ vyavaharati_vyavah"
+  },
+  {
+    "index": 6935,
+    "sanskrit": "mahadāścaryamevaitattava cetasi varttate | ādiṣṭā tu mayā bālā sarvaṃ te kathayiṣyati || 60 ||",
+    "english": "60. It is a great wonder that is in your mind. The young damsel commanded by me will tell you everything.",
+    "morphology": "mahat_mahat_SNNe āścaryam_āścarya_SNNe eva_eva_ etat_etad_SNNe tava_tvad_SG cetasi_cetas_SLNe varttate_vṛt_SPr3In  / ādiṣṭā_ādiś_SNPaF tu_tu_ mayā_mad_SI bālā_bāla_SNF sarvaḥ_sarva_SNM te_tvad_SG kathayiṣyati_kathay_SFu3In "
+  }
+]

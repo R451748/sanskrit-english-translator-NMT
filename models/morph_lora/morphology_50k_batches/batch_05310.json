@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42472,
+    "sanskrit": "naravāhanadattasya bhāryeyaṃ bhāvinīti vāk / tadāśrāvi harādeśavacaḥsaṃvādinī divaḥ //",
+    "english": "And this voice was then heard from heaven: “She shall be the wife of Naravāhanadatta,” which agreed with the words of Śiva’s revelation.",
+    "morphology": "naravāhanadattasya_naravāhanadatta_SGM bhāryā_bhāryā_SNF iyam_idam_SNF bhāvinī_bhāvin_SNF iti_iti_ vāc_vāc_SNF  / tadā_tadā_ aśrāvi_śru_SPs3InPv hara_hara_Cp ādeśa_ādeśa_Cp vacaḥ_vacas_Cp saṃvādinī_saṃvādin_SNF divaḥ_div_SGM "
+  },
+  {
+    "index": 42473,
+    "sanskrit": "asme iti vasūni dhāraya soma divyāni pārthivā indo iti viśvāni vāryā",
+    "english": "Soma, do thou secure for us the treasures of the earih and heaven, Indu, all boons to be desired.",
+    "morphology": "asme_mad_PL iti_iti_U vasūni_vasu_PANe dhāraya_dhāray_SPr2Im soma_soma_SVM divyāni_divya_PANe pārthivā_pārthiva_PANe indo_indu_SVM iti_iti_U viśvāni_viśva_PANe vāryā_vārya_PANe"
+  },
+  {
+    "index": 42474,
+    "sanskrit": "tulya tā karṇa bhīṣmābhyām ātmanaḥ yena dṛśyate",
+    "english": "He never admitted his equality with Karna and Bhishma.",
+    "morphology": "tulya_tulya_Cp tā_tā_SNF karṇa_karṇa_MCp bhīṣmābhyām_bhīṣma_DuIM ātmanaḥ_ātman_SGM yena_yad_SIM"
+  },
+  {
+    "index": 42475,
+    "sanskrit": "taiḥ ayuddham sādhu manye kuravaḥ tat nibodhata",
+    "english": "I, therefore, think that it is not proper to fight with them.",
+    "morphology": "taiḥ_tad_PIM ayuddham_ayuddha_SANe sādhu_sādhu_SANe manye_man_SPr1In kuravaḥ_kuru_PVM tat_tad_SANe nibodhata_nibudh_PPr2Im"
+  },
+  {
+    "index": 42476,
+    "sanskrit": "śītā śāṭī iti ghoṭamukhaḥ, hastī pratyaukṣīt iti kiñjalkaḥ,",
+    "english": "Ghotamukha says that he is like a wet cloth Kinjalka says that he is like an elephant pouring over water",
+    "morphology": "śītā_śīta_SNF śāṭī_śāṭī_SNF iti_iti_ ghoṭamukhaḥ_ghoṭamukha_SNM hastī_hastin_SNM pratyaukṣīt_pratyukṣ_SPs3InFis iti_iti_ kiñjalkaḥ_kiñjalka_SNM"
+  },
+  {
+    "index": 42477,
+    "sanskrit": "yām gatim prāpnuvanti iha jñāna nirmala buddhayaḥ",
+    "english": "I have been rewarded with that end which is solicited by persons whose understandings have been cleansed by Knowledge.",
+    "morphology": "yām_yad_SAF gatim_gati_SAF prāpnuvanti_prāp_PPr3In iha_iha_U jñāna_jñāna_NeCp nirmala_nirmala_Cp buddhayaḥ_buddhi_PNM"
+  },
+  {
+    "index": 42478,
+    "sanskrit": "atha pratipakṣacittam eva kleśabījānuṣaktam iṣyate /",
+    "english": "Woods translates pervaded by subconscious impressions. So to read for samskāro!",
+    "morphology": "atha_atha_ pratipakṣa_pratipakṣa_Cp cittam_citta_SNNe eva_eva_ kleśa_kleśa_Cp bīja_bīja_Cp anuṣaktam_anuṣañj_SNPaNe iṣyate_iṣ_SPr3InPv  /"
+  },
+  {
+    "index": 42479,
+    "sanskrit": "teṣāmuddharaṇārthāya viśvāsāya durātmanām | yātrā nānāvidhā viprā varṣe varṣe pravartayet || 13 ||",
+    "english": "13. In order to uplift them, for the purpose of convincing the vicious ones, O Brāhmaṇas, one should celebrate different kinds of Yātrās (festivals, processions etc.) every year.",
+    "morphology": "teṣām_tad_PGM uddharaṇa_uddharaṇa_Cp arthāya_artha_SDM viśvāsāya_viśvāsa_SDM durātmanām_durātman_PGM  / yātrā_yātrā_SNF nānāvidhā_nānāvidha_SNF viprāḥ_vipra_PVM varṣe_varṣa_SLM varṣe_varṣa_SLM pravartayet_pravartay_SPr3O"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7376,
+    "sanskrit": "atreḥ tu su mahābhāgam putram putravatām varam viduram viddhi loke asmin jātam buddhimatām varam",
+    "english": "And, O king, thou shouldst know that he who was known on earth as Vidura, who was the first of all virtuous men, who was the god of Justice himself, was the excellent and greatly fortunate son of the Rishi Atri.",
+    "morphology": "atreḥ_atri_SGM tu_tu_U su_su_U mahābhāgam_mahābhāga_SAM putram_putra_SAM putravatām_putravat_PGM varam_vara_SAM viduram_vidura_SAM viddhi_vid_SPr2Im loke_loka_SLM asmin_idam_SLM jātam_jan_SAPaPsM"
+  },
+  {
+    "index": 7377,
+    "sanskrit": "sa visṛṣṭaḥ balavatā śaraḥ ghoraḥ mahā mṛdhe bhāsayām āsa tat sainyam divākaraḥ iva uditaḥ",
+    "english": "That shaft, thus sped by the mighty prince in that fierce and dreadful battle, illumined the whole army like the risen sun.",
+    "morphology": "sa_tad_SNM visṛṣṭaḥ_visṛj_SNPaPsM balavatā_balavat_SIM śaraḥ_śara_SNM ghoraḥ_ghora_SNM mahā_mahat_Cp mṛdhe_mṛdha_SLM bhāsayām_bhāsay_SPs3In āsa_as_SPs3In tat_tad_SANe sainyam_sainya_SANe divākarā_divākara_SNF"
+  },
+  {
+    "index": 7378,
+    "sanskrit": "sūryaprabhasamaś cāyaṃ prabhāsaḥ sainyanāyakaḥ / sumerutanayaś caiṣa śrīkuñjarakumārakaḥ // dvau mahārathayūthādhipatiyūthādhipāv imau / ity ete 'smadbale 'nye ca śūrāḥ svaiḥ svair balair vṛtāḥ //",
+    "english": "And this Prabhāsa, the general of the army, who is equal to Sūryaprabha, and this son of Sumeru, Kuñjarakumāra—these two are leaders of hosts of chiefs of hosts of great warriors. Such heroes are there in our army, and others besides, girt with their followers.",
+    "morphology": "sūrya_sūrya_Cp prabha_prabha_Cp samaḥ_sama_SNM ca_ca_ ayam_idam_SNM prabhāsaḥ_prabhāsa_SNM sainya_sainya_Cp nāyakaḥ_nāyaka_SNM  / sumeru_sumeru_Cp tanayaḥ_tanaya_SNM ca_ca_ eṣa_etad_SNM śrīkuñjara_śrīkuñjara_Cp kumārakaḥ_kumāraka_"
+  },
+  {
+    "index": 7379,
+    "sanskrit": "niḥśreyasaśabdena na punaḥ puruṣārthasiddhir ucyate, api tu niścitasukhaduḥkhānubandhaḥ prītiviśeṣo 'pi /",
+    "english": "The term \"highest good\" stands, not for the accomplishment of one\" s personal ends, but for the sure continuity of happiness.",
+    "morphology": "niḥśreyasa_niḥśreyasa_Cp śabdena_śabda_SIM na_na_ punar_punar_ puruṣa_puruṣa_Cp artha_artha_Cp siddhiḥ_siddhi_SNF ucyate_vac_SPr3InPv api_api_ tu_tu_ niścita_niści_PaCp sukha_sukha_Cp duḥkha_duḥkha_Cp anubandhaḥ_anubandha_SNM prīti_p"
+  },
+  {
+    "index": 7380,
+    "sanskrit": "prātar āyāsye iti uktvā kadā cit dvijasattamaḥ tatas āyāti rāja indra sāye rātrau atho punar",
+    "english": "And, O foremost of kings, saying, 'I will come back in the morning,' that best of Brahmanas sometimes came in the evening or in night.",
+    "morphology": "prātar_prātar_U āyāsye_āyā_SFu1In iti_iti_U uktvā_vac_Co kadā_kadā_U cit_cit_U dvijasattamaḥ_dvijasattama_SNM tatas_tatas_U āyāti_āyā_SPr3In rāja_rājan_MCp indra_indra_SVM sāye_sāya_SLNe rātrau_rātri_SLF"
+  },
+  {
+    "index": 7381,
+    "sanskrit": "māyā līlā lālī yāmā yājñe jñeyā nausā māyā /",
+    "english": "māyā līlā lālī yāmā yājñe jñeyā nausā māyā",
+    "morphology": "māyā_māyā_SNF"
+  },
+  {
+    "index": 7382,
+    "sanskrit": "karmaṇi tu dvayam api nāsti nābhinne bhedakalpanā na ca bhinne 'py abhedakalpanā //",
+    "english": "The act of imagination does not discharge the two-fold function viz. (i) it does neither ascribe identity to two different objects nor (ii) it does create imaginary diffe- rence in a single unit.",
+    "morphology": "karmaṇi_karman_SLNe tu_tu_ dvayam_dvaya_SNNe api_api_ na_na_ asti_as_SPr3In na_na_ abhinne_abhinna_SLM bheda_bheda_Cp kalpanā_kalpanā_SNF na_na_ ca_ca_ bhinne_bhid_SLPaM api_api_ abheda_abheda_Cp kalpanā_kalpanā_SNF  /"
+  },
+  {
+    "index": 7383,
+    "sanskrit": "nivedya mānasam ca api tūṣṇīm āsan avāṅmukhāḥ",
+    "english": "Informing Him of what was in their minds, they stood silent in his presence, with downcast eyes.",
+    "morphology": "nivedya_niveday_Co mānasam_mānasa_SANe ca_ca_U api_api_U tūṣṇīm_tūṣṇīm_"
+  }
+]

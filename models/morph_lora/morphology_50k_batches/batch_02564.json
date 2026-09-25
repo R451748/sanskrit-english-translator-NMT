@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20504,
+    "sanskrit": "prasaṃkhyāya ca saukṣmyeṇa guṇa doṣān vicakṣaṇaḥ yathāvat mati tattvena jaya kāmaḥ sutān prati balābale viniścitya yāthātathyena buddhimān",
+    "english": "And having counted in detail the merits and demerits as far as he could, and having exactly ascertained the strength and weakness of both parties, the learned and intelligent king, ever desirous of victory to his sons, then began to compare the powers of both sides.",
+    "morphology": "prasaṃkhyāya_prasaṃkhyā_Co ca_ca_U saukṣmyeṇa_saukṣmya_SINe guṇa_guṇa_MCp doṣān_doṣa_PAM vicakṣaṇaḥ_vicakṣaṇa_SNM yathāvat_yathāvat_U mati_mati_FCp tattvena_tattva_SINe jaya_jaya_MCp kāmaḥ_kāma_SNM sutān_suta_PAM prati"
+  },
+  {
+    "index": 20505,
+    "sanskrit": "gaṇāvūcatuḥ | auttānapādirnirgatya tataḥ kānanato dvija | ramyaṃ madhuvanaṃ prāpa yamunāyāstaṭe mahata || 1 || ādyaṃ bhagavataḥ sthānaṃ tatpuṇyaṃ harimedhasaḥ | pāpopi jaṃtustatprāpya niṣpāpo jāyate dhruvam || 2 ||",
+    "english": "1-2. Coming out of that forest, O Brāhmaṇa, the son of Uttānapāda reached the beautiful forest Madhuvana on the banks of Yamunā. It is the first great holy spot of Lord Harimeḍhas. Even a sinful creature shall certainly become sinless after reaching that spot.",
+    "morphology": "gaṇau_gaṇa_DuNM ūcatuḥ_vac_DuPs3In  / auttānapādiḥ_auttānapādi_SNM nirgatya_nirgam_Co tatas_tatas_ kānanataḥ_kānana_SBNe dvija_dvija_SVM  / ramyam_ramya_SANe madhuvanam_madhuvana_SANe prāpa_prāp_SPs3In yamunāyāḥ_yamunā_SGF taṭe_ta"
+  },
+  {
+    "index": 20506,
+    "sanskrit": "vidyayā adhyāpanādinā śilpakauśalena vā, tathā mitrāt, arjitam / audvāhikaṃ sāntānikatayā labdhaṃ caiva /",
+    "english": "\"Learning\" teaching, etc, as also proficiency in an art. \"Friendly presents\" Presents received from friends. \"Marriagepresents\" in the shape of dowry and the like.",
+    "morphology": "vidyayā_vidyā_SIF adhyāpana_adhyāpana_Cp ādinā_ādi_SINe śilpa_śilpa_Cp kauśalena_kauśala_SINe vā_vā_ tathā_tathā_ mitrāt_mitra_SBM arjitam_arjay_SNPaNe  / audvāhikam_audvāhika_SNNe sāntānika_sāṃtānika_Cp tayā_tā_SIF"
+  },
+  {
+    "index": 20507,
+    "sanskrit": "na mātrām anurudhyante na dharma chalam antatas",
+    "english": "They never followed their own understandings in the matter of earning merit but followed the dictates of the scriptures alone for that end.",
+    "morphology": "na_U"
+  },
+  {
+    "index": 20508,
+    "sanskrit": "ādīṃ ke citpaśyamānāsa āpyaṃ vasuruco divyā abhyanūṣata / divo na vāraṃ savitā vyūrṇute //",
+    "english": "Then, beautifully radiant, certain heavenly ones proclaimed their kinship with him as they looked thereon",
+    "morphology": "ādīm_ādī_SAF ke_ka_PNM cit_cit_ paśyamānāsaḥ_paś_PNPaPrMPv āpyam_āpya_SANe vasu_vasu_Cp rucaḥ_ruc_PNF divyāḥ_divya_PNF abhyanūṣata_abhinū_PPs3InFs  / divaḥ_div_SGM"
+  },
+  {
+    "index": 20509,
+    "sanskrit": "nanu śrīmataṅgādau kalāyāḥ kartṛtoditā | tasyāṃ satyāṃ hi vidyāyāḥ karaṇatvārhatājuṣaḥ |",
+    "english": "Now, in texts like Matanga Sāstra, kalā has been said to be the doer. In view of this state of things in regard to kalā, it is but justified to accept the instrumentality of vidyā, wisdom.",
+    "morphology": "nanu_nanu_ śrī_śrī_Cp mataṅga_mataṃga_Cp ādau_ādi_SLM kalāyāḥ_kalā_SGF kartṛ_kartṛ_Cp tā_tā_SNF uditā_vad_SNPaF  /"
+  },
+  {
+    "index": 20510,
+    "sanskrit": "anyathāpi vijātīyārthagrahaṇadvāreṇa pravṛtteḥ sambhāvyamānatvād anaikāntikatā hetoḥ //",
+    "english": "hence it might be possible that, through some cause, the Means of Cognition apprehends a different kind of things. Hence the Reason adduced would be ‘Inconclusive’.",
+    "morphology": "anyathā_anyathā_ api_api_ vijātīya_vijātīya_Cp artha_artha_Cp grahaṇa_grahaṇa_Cp dvāreṇa_dvāra_SINe pravṛtteḥ_pravṛtti_SGF sambhāvyamāna_sambhāvay_PaPrPvCp tvāt_tva_SBNe anaikāntika_anaikāntika_Cp tā_tā_SNF __pravṛtti_SNF  /"
+  },
+  {
+    "index": 20511,
+    "sanskrit": "matsyānām viprakārān te bahūn asmān akīrtayan",
+    "english": "and as numerous were the acts represented unto us of the oppressions committed by the Matsyas.",
+    "morphology": "matsyānām_matsya_PGM"
+  }
+]

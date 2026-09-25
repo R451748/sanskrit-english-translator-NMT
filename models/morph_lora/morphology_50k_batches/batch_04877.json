@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39008,
+    "sanskrit": "mudgarādayo ghaṭābhāvasya hetavo na bhavitum arhanti bhāvasya svata eva bhaṅguratvena vināśahetvanapekṣatvāt //",
+    "english": "The so-called sources of the des- truction of a jar do not bring about its destruction since a posi- tive object, being destructible by its own nature, does not require a destroyer for its destruction.",
+    "morphology": "mudgara_mudgara_Cp ādayaḥ_ādi_PNM ghaṭa_ghaṭa_Cp abhāvasya_abhāva_SGM hetavaḥ_hetu_PNM na_na_ bhavitum_bhū_In arhanti_arh_PPr3In bhāvasya_bhāva_SGM svatas_svatas_ eva_eva_ bhaṅgura_bhaṅgura_Cp tvena_tva_SINe vināśa_vināśa_Cp hetu_het"
+  },
+  {
+    "index": 39009,
+    "sanskrit": "anabhiṣyandi yaccānnaṃ lodhravalkalasaṃyutam / mārutaṃ varjayed yatnaḥ kāryo gulmeṣu sarvathā //",
+    "english": "The food that does not cause excessive motion, and that mixed with the barks of lodhra a kind of tree are commended. One should avoid taking food that causes excess of wind.",
+    "morphology": "anabhiṣyandi_anabhiṣyandin_SNNe yat_yad_SNNe ca_ca_ annam_anna_SNNe lodhra_lodhra_Cp valkala_valkala_Cp saṃyutam_saṃyuta_SNNe  / mārutam_māruta_SAM varjayet_varjay_SPr3O yatnaḥ_yatna_SNM kāryaḥ_kṛ_SNMGd gulmeṣu_gulma_PLM sarvathā_sarvat"
+  },
+  {
+    "index": 39010,
+    "sanskrit": "utsāditaḥ kaṣāyeṇa balavadbhiḥ su śikṣitaiḥ",
+    "english": "His body was rubbed by strong and well-trained servants with water in which diverse kinds of medicinal herbs had been soaked.",
+    "morphology": "utsāditaḥ_utsāday_SNPaPsM kaṣāyeṇa_kaṣāya_SIM balavadbhiḥ_balavat_PIM su_su_U śikṣitaiḥ_śikṣay_PIPaPsM"
+  },
+  {
+    "index": 39011,
+    "sanskrit": "patti saṃghān raṇe dṛṣṭvā dhāvamānān ca sarvaśas nirāśāḥ vijaye sarve manye śocanti putrakāḥ",
+    "english": "I think, seeing large bodies of foot-soldiers flying away in all directions, my sons, despairing of success, are filled with grief.",
+    "morphology": "patti_patti_MCp saṃghān_saṃgha_PAM raṇe_raṇa_SLM dṛṣṭvā_dṛś_Co dhāvamānān_dhāv_PAPaPrM ca_ca_U sarvaśas_sarvaśas_U nirāśāḥ_nirāśa_PNM vijaye_vijaya_SLM sarve_sarva_PNM manye_man_SPr1In śocanti_śuc_PPr3In putrakāḥ_putrak"
+  },
+  {
+    "index": 39012,
+    "sanskrit": "yadi te 'tyantanirbandhas tat kariṣye vacas tava / pratibhedabhayād devi sahasā tu na yujyate //",
+    "english": "but it will not be advisable to do so immediately, for fear it should get abroad;",
+    "morphology": "yadi_yadi_ te_tvad_SG atyanta_atyanta_Cp nirbandhaḥ_nirbandha_SNM tat_tad_SANe kariṣye_kṛ_SFu1In vacaḥ_vacas_SANe tava_tvad_SG  / pratibheda_pratibheda_Cp bhayāt_bhaya_SBNe devi_devī_SVF sahasā_sahasā_ tu_tu_ na_na_ yujyate_yuj_SPr3InPv  /"
+  },
+  {
+    "index": 39013,
+    "sanskrit": "vyāsasya dhyāyatastasya nivṛttipathavṛddhaye | tadāpyahaṃ bhaviṣyāmi ṛṣabho nāmataḥ smṛtaḥ ||",
+    "english": "35. As Vyāsa sits in meditation for the flourish of the path of renunciation, I will be born as Ṛṣabha.",
+    "morphology": "vyāsasya_vyāsa_SGM dhyāyataḥ_dhyā_SGPaPrM tasya_tad_SGM nivṛtti_nivṛtti_Cp patha_patha_Cp vṛddhaye_vṛddhi_SDF  / tadā_tadā_ api_api_ aham_mad_SN bhaviṣyāmi_bhū_SFu1In ṛṣabhaḥ_ṛṣabha_SNM nāmataḥ_nāman_SBNe smṛtaḥ_smṛ_"
+  },
+  {
+    "index": 39014,
+    "sanskrit": "śrīvasiṣṭha uvāca / mametyuktavato maṅkirvinipatya sa pādayoḥ / uvācānandapūrṇākṣamidaṃ mārge vahanvacaḥ //",
+    "english": "Vasishtha said:—Being thus accosted by me, Manki fell at my feet (in salutation); and then shedding the tears of joy from both his eyes, spoke to me on our way, with due respect.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / mama_mad_SG iti_iti_ uktavataḥ_vac_SGPaM maṅkiḥ_maṅki_SNM vinipatya_vinipat_Co sa_tad_SNM pādayoḥ_pāda_DuLM  / uvāca_vac_SPs3In ānanda_ānanda_Cp pūrṇa_pṛ_PaCp akṣam_"
+  },
+  {
+    "index": 39015,
+    "sanskrit": "na vai hrasvaḥ na ati dīrghaḥ manasvī",
+    "english": "And he was neither short nor tall.",
+    "morphology": "na_na_U vai_vai_U hrasvaḥ_hrasva_SNM na_na_U ati_ati_U dīrghaḥ_dīrgha_SNM"
+  }
+]

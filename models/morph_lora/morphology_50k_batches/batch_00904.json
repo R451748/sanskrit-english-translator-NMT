@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7224,
+    "sanskrit": "ye te sarasvaḥ ūrmayaḥ madhu mantaḥ ghr̥ta ścutaḥ tebhiḥ naḥ avitā bhava",
+    "english": "Be thou our kind protector, O Sarasvan, with those waves of thine Laden with sweets and dropping oil.",
+    "morphology": "ye_yad_PNM te_tvad_SG sarasvaḥ_sarasvat_SVF ūrmayaḥ_ūrmi_PNM madhu_madhu_NeCp mantaḥ_mat_PNM ghrāta_ghrāta_NeCp ścutaḥ_ścut_PNM tebhiḥ_tad_PIM naḥ_mad_PA avitā_av_SFu3In bhava_bhū_SPr2Im"
+  },
+  {
+    "index": 7225,
+    "sanskrit": "abruvan kasya cit nindām ātma pūjām avarṇayan vipaścit guṇa saṃpannaḥ prāpnoti eva mahat yaśaḥ",
+    "english": "One possessed of real wisdom and endued with real merits, acquires great fame by abstaining from speaking ill of others and from indulging in self-praise.",
+    "morphology": "abruvan_abruvat_SNM kasya_ka_SGM cit_cit_U nindām_nindā_SAF ātma_ātman_MCp pūjām_pūjā_SAF avarṇayan_avarṇayat_SNM vipaścit_vipaścit_SNM guṇa_guṇa_MCp saṃpannaḥ_sampad_SNPaPsM prāpnoti_prāp_SPr3In eva_eva_U mahat_mahat_SANe yaśaḥ_"
+  },
+  {
+    "index": 7226,
+    "sanskrit": "tābhī ratnāsane datte tatrovāsa śivo mudā | tamūcuḥ kramato devyassuhāsa madhuraṃ vacaḥ ||",
+    "english": "25. A gemset throne was offered to Śiva who sat on it joyously. The celestial ladies made these sweet witty remarks to Him one by one.",
+    "morphology": "tābhiḥ_tad_PIF ratna_ratna_Cp āsane_āsana_SLNe datte_dā_SLPaNe tatra_tatra_ uvāsa_vas_SPs3In śivaḥ_śiva_SNM mudā_mud_SIF  / tam_tad_SAM ūcuḥ_vac_PPs3In kramatas_kramatas_ devyaḥ_devī_PNF su_su_ hāsa_hāsa_SVM madhuram_madhura_SANe vaca"
+  },
+  {
+    "index": 7227,
+    "sanskrit": "tvam śraddhābhiḥ mandasānaḥ somaiḥ dabhītaye cumurim indra sisvap tvam rajim pithīnase daśasyan ṣaṣṭim sahasrā śacyā sacā ahan",
+    "english": "Made glad with Soma-draughts and faith, thou sentest Chumuri to his sleep, to please Dabhîti. Thou, kindly giving Raji to Piṭhînas, slewest with might, at once, the sixty thousand.",
+    "morphology": "tvam_tvad_SN śraddhābhiḥ_śraddhā_PIF mandasānaḥ_mand_SNPaPrM somaiḥ_soma_PIM dabhītaye_dabhīti_SDM cumurim_cumuri_SAM indra_indra_SVM sisvap_svap_SPs2Im tvam_tvad_SN rajim_raji_SAM pithīnase_pithīnas_SDM daśasyan_daśasy_SNPaPrM ṣaṣṭi"
+  },
+  {
+    "index": 7228,
+    "sanskrit": "ityevantu vicāraṃ sa karoti yāvadeva hi | tāvacca sūkaraḥ prāpto bāṇasaṃmocanāvadhiḥ ||",
+    "english": "43. While he was musing thus, the boar came within the range of his arrow-discharge.",
+    "morphology": "iti_iti_ evam_evam_ tu_tu_ vicāram_vicāra_SAM sa_tad_SNM karoti_kṛ_SPr3In yāvat_yāvat_ eva_eva_ hi_hi_  / tāvat_tāvat_ ca_ca_ sūkaraḥ_sūkara_SNM prāptaḥ_prāp_SNPaM bāṇa_bāṇa_Cp saṃmocana_sammocana_Cp avadhiḥ_avadhi_SNM "
+  },
+  {
+    "index": 7229,
+    "sanskrit": "nānāvidhāni anīkāni putrāṇām tava bhārata arjunaḥ vyadhamat kāle divi iva abhrāṇi mārutaḥ",
+    "english": "The diverse divisions of thy son, O Bharata, Arjuna smote, even as the wind in the summer season destroys masses of clouds in the welkin.",
+    "morphology": "nānāvidhāni_nānāvidha_PANe anīkāni_anīka_PANe putrāṇām_putra_PGM tava_tvad_SG bhārata_bhārata_SVM arjunaḥ_arjuna_SNM vyadhamat_vidham_SPs3In kāle_kāla_SLM divi_div_SLM iva_iva_U abhrāṇi_abhra_PANe mārutaḥ_māruta_SNM"
+  },
+  {
+    "index": 7230,
+    "sanskrit": "ṣaḍime hetavaḥ /",
+    "english": "such are the six types of causes that the Ābhidhārmikas recognize.",
+    "morphology": "ṣaṭ_ṣaṣ_PNM "
+  },
+  {
+    "index": 7231,
+    "sanskrit": "brahma rājanyamiti ca karmārambhe tu siddhikṛt /",
+    "english": "The hymn brahma rājanyaṃ accomplishes the task when repeated at its commencement.",
+    "morphology": "brahma_brahman_SNNe rājanyam_rājanya_SNNe iti_iti_ ca_ca_ karma_karman_Cp ārambhe_ārambha_SLM tu_tu_ siddhi_siddhi_Cp kṛt_kṛt_SNM"
+  }
+]

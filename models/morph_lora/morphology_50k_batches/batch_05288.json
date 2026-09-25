@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42296,
+    "sanskrit": "ahaṃ tapaścarāmyatra gaṃgāvataraṇe sthale | āśritastava suprīto girirāja yatātmavān ||",
+    "english": "29. O king of mountains, delighted in resorting to you and controlling my senses and mind I am going to perform penance here at Gaṅgāvataraṇa.[3]",
+    "morphology": "aham_mad_SN tapaḥ_tapas_SANe carāmi_car_SPr1In atra_atra_ gaṃgā_gaṅgā_Cp avataraṇe_avataraṇa_SLNe sthale_sthala_SLNe  / āśritaḥ_āśri_SNPaM tava_tvad_SG su_su_ prītaḥ_prī_SNPaM giri_giri_Cp rāja_rāja_SVM yata_yam_PaCp ātmavān_ātm"
+  },
+  {
+    "index": 42297,
+    "sanskrit": "kṛta abhisamayāḥ sarve suvarṇa vikṛta dhvajāḥ",
+    "english": "All of them had standards decked with gold.",
+    "morphology": "kṛta_kṛ_PaPsCp abhisamayāḥ_abhisamaya_PNM sarve_sarva_PNM suvarṇa_suvarṇa_NeCp vikṛta_vikṛ_PaPsCp dhvajāḥ_dhvaja_PNM"
+  },
+  {
+    "index": 42298,
+    "sanskrit": "ityuktaḥ sa suraiḥ śakro vaikuṇṭhādyaiḥ samaṃtataḥ | taireva sahito devo jagāmātha triviṣṭapam || 38 ||",
+    "english": "On being told thus by the Suras including Vaikuṇṭha, Śakra, the Lord, went back to Svarga accompanied by them all.",
+    "morphology": "iti_iti_ uktaḥ_vac_SNPaM sa_tad_SNM suraiḥ_sura_PIM śakraḥ_śakra_SNM vaikuṇṭha_vaikuṇṭha_Cp ādyaiḥ_ādya_PIM samaṃtataḥ_samaṃtataḥ_  / taiḥ_tad_PIM eva_eva_ sahitaḥ_sahita_SNM devaḥ_deva_SNM jagāma_gam_SPs3In atha_atha_ tr"
+  },
+  {
+    "index": 42299,
+    "sanskrit": "ata ubhayamārgaparibhraṣṭā hyasakṛjjāyante mriyante cetyarthaḥ /",
+    "english": "that is, having fallen from both Paths, they die and are born again and again",
+    "morphology": "atas_atas_ ubhaya_ubhaya_Cp mārga_mārga_Cp paribhraṣṭāḥ_paribhraṃś_PNPaM hi_hi_ asakṛt_asakṛt_ jāyante_jan_PPr3In mriyante_mṛ_PPr3InPv ca_ca_ iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 42300,
+    "sanskrit": "śrīḥ dhruvā ca api dakṣeṣu dhruvaḥ nārāyaṇe jayaḥ",
+    "english": "verily, in sacrifice is prosperity;",
+    "morphology": "śrīḥ_śrī_SNF dhruvā_dhruva_SNF ca_ca_U api_api_U dakṣeṣu_dakṣa_PLM dhruvaḥ_dhruva_SNM nārāyaṇe_nārāyaṇa_SLM jayaḥ_jaya_SNM"
+  },
+  {
+    "index": 42301,
+    "sanskrit": "a kāṣṭhā nistṛṇā bhūmiḥ dṛśyate kūrma pṛṣṭha vat",
+    "english": "After all mobile and immobile objects have thus disappeared, the earth, shorn of trees and herbs, looks naked like a tortoise shell.",
+    "morphology": "a_a_U kāṣṭhā_kāṣṭhā_FCp nistṛṇā_nistṛṇa_SNF bhūmiḥ_bhūmi_SNF dṛśyate_dṛś_SPr3InPv kūrma_kūrma_MCp pṛṣṭha_pṛṣṭha_SNNe vat_vat_U"
+  },
+  {
+    "index": 42302,
+    "sanskrit": "patadbhiḥ ca mahā rāja śirobhiḥ dharaṇī tale babhūva tumulaḥ śabdaḥ patatām aśmanām iva",
+    "english": "And the heads of warriors, O king, falling upon the surface of the earth produced a loud noise resembling that of a stony shower.",
+    "morphology": "patadbhiḥ_pat_PIPaPrNe ca_ca_U mahā_mahat_Cp rāja_rāja_MCp śirobhiḥ_śiras_PINe dharaṇī_dharaṇī_FCp tale_tala_SLM babhūva_bhū_SPs3In tumulaḥ_tumula_SNM śabdaḥ_śabda_SNM patatām_pat_PGPaPrM aśmanām_aśman_PGM iva_iva_U"
+  },
+  {
+    "index": 42303,
+    "sanskrit": "aho bata duranteyamabhyāsasudṛḍhīkṛtā / avidyā vidyamānaiva yā śāntaiva na śāmyati //",
+    "english": "Ah! that though I fix my faith on the doctrine you have preached, yet I cannot rest secure in it, so long as my ignorance reigns supreme in me.",
+    "morphology": "aho_aho_ bata_bata_ durantā_duranta_SNF iyam_idam_SNF abhyāsa_abhyāsa_Cp su_su_ dṛḍhīkṛtā_dṛḍhīkṛ_SNPaF  / avidyā_avidyā_SNF vidyamānā_vid_SNPaPrFPv eva_eva_ yā_yad_SNF śāntā_śam_SNPaF eva_eva_ na_na_ śāmyati_śam_SPr3In  /"
+  }
+]

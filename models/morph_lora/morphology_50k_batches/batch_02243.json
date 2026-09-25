@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17936,
+    "sanskrit": "ime te brahmaṇā sārdhaṃ devā darśanakāṅkṣiṇaḥ //",
+    "english": "All the gods, along with Brahmā, are waiting to see thee.",
+    "morphology": "ime_idam_PNM te_tvad_SG brahmaṇā_brahman_SIM sārdham_sārdham_ devāḥ_deva_PNM "
+  },
+  {
+    "index": 17937,
+    "sanskrit": "eka eva babhūvāsau janamadhyagato'pi san / arthādiguṇanirmuktaḥ paradeśa ivādhvagaḥ //",
+    "english": "Thus was he shunned by all, and left lonesome amidst the populous city; and became as an unbefriended traveller passing through a foreign country, without money or skill to support him.",
+    "morphology": "ekaḥ_eka_SNM eva_eva_ babhūva_bhū_SPs3In asau_adas_SNM jana_jana_Cp madhya_madhya_Cp gataḥ_gam_SNPaM api_api_ san_as_SNPaPrM  / artha_artha_Cp ādi_ādi_Cp guṇa_guṇa_Cp nirmuktaḥ_nirmuc_SNPaM paraḥ_para_SNM ḥ_pa_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM "
+  },
+  {
+    "index": 17938,
+    "sanskrit": "atrāpy ekāham eva //",
+    "english": "Here also what is mentioned should be eaten for one day only.",
+    "morphology": "atra_atra_ api_api_ 5_5_"
+  },
+  {
+    "index": 17939,
+    "sanskrit": "bhāvābhāvasahasreṣu daśāsu vividhāsu ca / svapauruṣavaśādeva nivṛttā bhūtajātayaḥ //",
+    "english": "In this manner have all beings evaded the effects of their various states of want and opulence by means of their own exertions.",
+    "morphology": "bhāva_bhāva_Cp abhāva_abhāva_Cp sahasreṣu_sahasra_PLNe daśāsu_daśā_PLF vividhāsu_vividha_PLF ca_ca_  / sva_sva_Cp pauruṣa_pauruṣa_Cp vaśāt_vaśa_SBM eva_eva_ nivṛttāḥ_nivṛt_PNPaF bhāḥ_bhāḥ_PNF ṛṇaḥ_ṛṇa_SNM ḥ"
+  },
+  {
+    "index": 17940,
+    "sanskrit": "āsīt tu me bhogapate saṃśayaḥ puṇya saṃcaye",
+    "english": "Doubt penetrated my mind, O chief of Nagas, in the matter of the best means for winning righteousness or merit.",
+    "morphology": "āsīḥ_as_SPs3In"
+  },
+  {
+    "index": 17941,
+    "sanskrit": "saṃghabhṛtāḥ sambhūyasamutthātāro vā yathāsambhāṣitaṃ vetanaṃ samaṃ vā vibhajeran // karṣaṇavaidehakā vā sasyapaṇyaārambhaparyavasānaantare sannasya yathākṛtasya karmaṇaḥ pratyaṃśaṃ dadyuḥ //",
+    "english": "Guilds of workmen sanghabhritáh, workmen employed by Companies as well as those who carry on any cooperative work Kautilyas Arthashastra sambhúya samutthátarah shall divide their earnings vetanam wages either equally or as agreed upon among themselves Cultivators or merchants shall, either at the end or in the middle of their cultivation or manufacture, pay to their labourers as much of the latters share as is proportional to the work done",
+    "morphology": "saṃgha_saṃgha_Cp bhṛtāḥ_bhṛ_PNPaM sambhūyasamutthātāraḥ_sambhūyasamutthātṛ_PNM vā_vā_ yathā_yathā_ sambhāṣitam_sambhāṣ_SAPaNe vetanam_vetana_SANe samam_sama_SANe vā_vā_ vibhajeran_vibhaj_PPr3O  / karṣaṇa_karṣaṇa_Cp v"
+  },
+  {
+    "index": 17942,
+    "sanskrit": "dṛśyaṃ vinaśyatyakhilaṃ vinaṣṭaṃ jāyate punaḥ / yanna naṣṭaṃ na cotpannaṃ tatsadbhavati tadbhavān //",
+    "english": "All visibles are destructible, and those that are destroyed come to be renewed to life; but that which is neither destroyed nor resuscitated, is thyself—thy very soul.",
+    "morphology": "dṛśyam_dṛś_SNNeGd vinaśyati_vinaś_SPr3In akhilam_akhila_SNNe vinaṣṭam_vinaś_SNPaNe jāyate_jan_SPr3In punar_punar_  / yat_yad_SNNe na_na_ naṣṭam_naś_SNPaNe na_na_ ca_ca_ utpannam_utpad_SNPaNe tat_tad_SNNe sat_as_SNPaPrNe bhavati_bhū_SPr3"
+  },
+  {
+    "index": 17943,
+    "sanskrit": "iti teṣāṃ cidicchā sā saṃpannā sakalaṃ jagat / atyantasvaccharūpaiva sthitā cākāravarjitā //",
+    "english": "Thus it was by the will of their intellects, that each of them became a whole world in himself;and remained so in a clear or abstract view of it, without being accompanied by its grosser part.",
+    "morphology": "iti_iti_ teṣām_tad_PGM cit_cit_Cp icchā_icchā_SNF sā_tad_SNF saṃpannā_sampad_SNPaF sakalam_sakala_SNNe jagat_jagant_SNNe  / atyanta_atyanta_Cp svaccha_svaccha_Cp rūpā_rūpa_SNF eva_eva_ sthitā_sthā_SNPaF ca_ca_ ākāra_ākāra_Cp varjitā_varj"
+  }
+]

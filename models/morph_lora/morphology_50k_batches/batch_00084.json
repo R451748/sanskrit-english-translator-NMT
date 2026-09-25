@@ -1,0 +1,50 @@
+[
+  {
+    "index": 664,
+    "sanskrit": "na tarhi paramāṇūnāṃ niravayavatvāt saṃyogo na sidhyatīti vaktavyaṃ /",
+    "english": "For there is no conjunction of atoms, because of their state of having no parts. That is to say, such a thing can't be demonstrated.",
+    "morphology": "na_na_ tarhi_tarhi_ paramāṇūnām_paramāṇu_PGM niravayava_niravayava_Cp tvāt_tva_SBNe saṃyogaḥ_saṃyoga_SNM na_na_ sidhyati_sidh_SPr3In iti_iti_"
+  },
+  {
+    "index": 665,
+    "sanskrit": "striyā sārdham ahaṃ yuddhaṃ na karomi kadācanabakāsuraḥ syān me bhrātā tvaṃ ca me bhaginī bhava",
+    "english": "I will never fight with a woman. Bakāsura has become my brother, so you should be my sister.",
+    "morphology": "striyā_strī_SIF sārdham_sārdham_ aham_mad_SN yuddham_yuddha_SANe na_na_ karomi_kṛ_SPr1In kadācana_kadācana_ baka_baka_Cp asuraḥ_asura_SNM syāt_as_SPr3O me_mad_SG bhrātā_bhrātṛ_SNM tvam_tvad_SN ca_ca_ me_mad_SG bhaginī_bhaginī_SNF bhava_bh"
+  },
+  {
+    "index": 666,
+    "sanskrit": "tathāhi [so 'rodīt yad arodīt tad rudrasya rudratvam ] [prajāpatir ātmano vapām udakkhidat tām agnau prāgṛhṇāt /",
+    "english": "He wept. As he wept so he acquired the epithet 'Rudra'. The lord of all beings heated his own fat. Then he poured libation of the same into fire.",
+    "morphology": "tathā_tathā_ hi_hi_ saḥ_tad_SNM arodīt_rud_S3ImIn yat_yat_ arodīt_rud_S3ImIn tat_tad_SNNe rudrasya_rudra_SGM rudra_rudra_Cp tvam_tva_SNNe  / prajāpatiḥ_prajāpati_SNM ātmanaḥ_ātman_SGM vapām_vapā_SAF udakkhidat_utkhid_S3ImIn tām_tad_SAF agn"
+  },
+  {
+    "index": 667,
+    "sanskrit": "himavān vā mahā śailaḥ samudraḥ vā mahā udadhiḥ mahat tvāt na anvapadyetām rodasyoḥ antaram yathā",
+    "english": "The prince of mountains, viz., Himavat, and that vast receptacle of waters, viz., the ocean, cannot, for its vastness, measure the extent of the firmament.",
+    "morphology": "himavān_himavant_SNM vā_vā_U mahā_mahat_Cp śailaḥ_śaila_SNM samudraḥ_samudra_SNM vā_vā_U mahā_mahat_Cp udadhiḥ_udadhi_SNM mahat_mahat_Cp tvāt_tva_SBNe na_na_U anvapadyetām_anupad_DuPs3In rodasyoḥ_rodasī_DuGF antaram_antara_SANe yathā_y"
+  },
+  {
+    "index": 668,
+    "sanskrit": "na duṣkareṇāpi hi karmaṇaiva śuddhena siddhiḥ puruṣasya labhyā / yāvan na niṣkramya vikalpaśuddhaṃ dhīraṃ mano nirmalasattvavṛtti //",
+    "english": "A man cannot obtain success, even by performing correctly a difficult ceremony, unless his mind is firm, and abides in spotless courage, unhesitating and pure from wavering.",
+    "morphology": "na_na_ duṣkareṇa_duṣkara_SINe api_api_ hi_hi_ karmaṇā_karman_SINe eva_eva_ śuddhena_śudh_SIPaNe siddhiḥ_siddhi_SNF puruṣasya_puruṣa_SGM labhyā_labh_SNFGd  / yāvat_yāvat_ na_na_ niṣkramya_niṣkram_Co vikalpa_vikalpa_Cp śuddham_śudh_"
+  },
+  {
+    "index": 669,
+    "sanskrit": "saukṣmyāt avyakta bhāvāt ca na sa kva cana sajjate",
+    "english": "In consequence of his subtlety and the condition of being unmanifest, Jiva does not become attached to anything even after attaining to a body.",
+    "morphology": "saukṣmyāt_saukṣmya_SBNe avyakta_avyakta_Cp bhāvāt_bhāva_SBM ca_ca_U"
+  },
+  {
+    "index": 670,
+    "sanskrit": "ānartaviṣaye yasya purī nāma kuśasthalī | mahādivyā saptapurīmadhye yā saptamī matā ||",
+    "english": "25. In the territory[4] of Ānarta he got the city Kuśasthalī which was extremely brilliant and was the seventh among seven cities.",
+    "morphology": "ānarta_ānarta_Cp viṣaye_viṣaya_SLM yasya_yad_SGM purī_purī_SNF nāma_nāma_ kuśasthalī_kuśasthalī_SNF  / mahā_mahat_Cp divyā_divya_SNF sapta_saptan_Cp purī_purī_Cp madhye_madhya_SLNe yā_yad_SNF saptamī_saptama_SNF matā_man_SNPaF"
+  },
+  {
+    "index": 671,
+    "sanskrit": "sakāraṇeyamutpattiḥ kathitāścaryyakāriṇī | mahatāṃ carite caiva guṇā grāhyā vicakṣaṇaiḥ ||",
+    "english": "139. This wondrous birth has sufficient reasons behind it. In the story of great men the good qualities shall be grasped by the intelligent people.",
+    "morphology": "sa_sa_ kāraṇā_kāraṇa_SNF iyam_idam_SNF utpattiḥ_utpatti_SNF kathitā_kathay_SNPaF āścaryya_āścarya_Cp kāriṇī_kārin_SNF  / mahatām_mahat_PGM carite_carita_SLNe ca_ca_ eva_eva_ guṇāḥ_guṇa_PNM grāhyāḥ_grah_PNMGd vicakṣaṇaiḥ"
+  }
+]

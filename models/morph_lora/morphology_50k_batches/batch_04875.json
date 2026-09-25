@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38992,
+    "sanskrit": "kramaḥ punaḥ /",
+    "english": "We should now explain the order in which the rkandhas are enumerated.",
+    "morphology": "kramaḥ_"
+  },
+  {
+    "index": 38993,
+    "sanskrit": "bahu prasādaḥ svapanaḥ darpaṇaḥ atha tu amitra jit",
+    "english": "Thou art he that has good dreams.",
+    "morphology": "bahu_bahu_Cp prasādaḥ_prasāda_SNM"
+  },
+  {
+    "index": 38994,
+    "sanskrit": "paṃcākṣarī yasya mukhe sthitā sadā cetonivṛttiḥ śivaciṃtane ca | bhūteṣuḥ sāmyaṃ parivādamūkatā ṣaṃḍhatvameva parayoṣitāsu || 106 ||",
+    "english": "The five-lettered Mantra should always be in the mouth (of the worshipper); the mind should be directed towards the contemplation on Śiva; he must have impartiality towards all living beings. He should be dumb in giving expression to slander. He should be an impotent fellow in regard to other men’s wives. FOOTNOTES AND REFERENCES: The Māyāvāda of Śaṅkara seems to be well-established at the time of this Purāṇa showing the latter’s post-Śaṅkara date. The philosophical exposition in vv 46-63 and later in vv 68-77 contains an exposition of Śaṅkara’s Advaita doctrine.",
+    "morphology": "pañcākṣarī_pañcākṣarī_SNF yasya_yad_SGM mukhe_mukha_SLNe sthitā_sthā_SNPaF sadā_sadā_ cetaḥ_cetas_Cp nivṛttiḥ_nivṛtti_SNF śiva_śiva_Cp ciṃtane_cintana_SLNe ca_ca_  / bhūta_bhūta_Cp iṣuḥ_iṣu_SNM sāmyam_sāmya_SNNe parivād"
+  },
+  {
+    "index": 38995,
+    "sanskrit": "yad uktaṃ tvagbhedakaḥ iti tasya viśeṣo 'yam / asati manuṣyagrahaṇe prāṇimātrahiṃsāviṣayatve 'sya ślokasya mahāpaśūnāṃ kṣudrāṇāṃ ca paśupakṣimṛgāṇāṃ tulyadaṇḍatā mā bhūd iti tadartham idam /",
+    "english": "This verse supplies deails details? in connection with what has been said before regarding \"the breaker of skin, etc\" in. If the term \"men\" did not occur, and the verse were taken as referring to any and every living creature, it would give the idea that the same punishment is to be inflicted in the case of the larger as well as the smaller beasts, birds and deer; and it is for the purpose of precluding this idea that the term \"men\" has been added.",
+    "morphology": "yat_yad_SNNe uktam_vac_SNPaNe tvac_tvac_Cp bhedakaḥ_bhedaka_SNM iti_iti_ tasya_tad_SGM viśeṣaḥ_viśeṣa_SNM ayam_idam_SNM  / asati_asat_SLNe manuṣya_manuṣya_Cp grahaṇe_grahaṇa_SLNe prāṇi_prāṇin_Cp mātra_mātra_Cp hiṃsā_hiṃsā_Cp"
+  },
+  {
+    "index": 38996,
+    "sanskrit": "haihayānām kule jātaḥ sumitraḥ mitra nandanaḥ",
+    "english": "By name I am Sumitra, and I am the son of Mitra.",
+    "morphology": "haihayānām_haihaya_PGM"
+  },
+  {
+    "index": 38997,
+    "sanskrit": "prabhuḥ prathama kalpasya yaḥ anukalpena vartate na sāṃparāyikam tasya durmateḥ vidyate phalam",
+    "english": "That man, however, who while able to live according to the primary provision, betakes himself to the alternative, comes to be regarded as a wicked person and never succeeds in winning any felicity in heaven.",
+    "morphology": "prabhuḥ_prabhu_SNM prathama_prathama_Cp kalpasya_kalpa_SGM yaḥ_yad_SNM anukalpena_anukalpa_SIM vartate_vṛt_SPr3In na_na_U sāṃparāyikam_sāmparāyika_SNNe tasya_tad_SGM durmateḥ_durmati_SGM"
+  },
+  {
+    "index": 38998,
+    "sanskrit": "athānyataraḥ sattva ābhāsvarebhyaścyutvā śūnye brāhme vimāna utpadyate /",
+    "english": "Then a being, dying in Ābhāsvara, is born in the mansion of Brahmā which is empty;",
+    "morphology": "atha_atha_ anyataraḥ_anyatara_SNM sattvaḥ_sattva_SNM ābhāsvarebhyaḥ_ābhāsvara_PBM cyutvā_cyu_Co śūnye_śūnya_SLNe brāhme_brāhma_SLNe vimāne_vimāna_SLNe utpadyate_utpad_SPr3In  /"
+  },
+  {
+    "index": 38999,
+    "sanskrit": "(4) utpannānāṃ ca kuśalānāṃ dharmāṇāṃ",
+    "english": "(4) Regarding wholesome thoughts that have arisen",
+    "morphology": "utpannāḥ_utpad_PNPaM"
+  }
+]

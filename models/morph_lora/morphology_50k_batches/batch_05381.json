@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43040,
+    "sanskrit": "arjunena pratijñāte pāñcajanyam janārdanaḥ",
+    "english": "After Arjuna had taken that oath, Janarddana, filled with wrath, blew his conch, Panchajanya.",
+    "morphology": "arjunena_ḥ_"
+  },
+  {
+    "index": 43041,
+    "sanskrit": "tasmai vrātyāya āsandīm sam abharan //",
+    "english": "They brought the couch for that Vrātya.",
+    "morphology": "tasmai_tad_SDM"
+  },
+  {
+    "index": 43042,
+    "sanskrit": "yadi ca nisargavikrayau na staḥ, kīdṛśam asya svāmyam ucyate / tasmāt pratiṣedhasāmarthyena praṇāśavacanaṃ pratiṣiddhabhogasya bhogānujñānārthaṃ vyākhyāyate /",
+    "english": "For when there can be no \"transference or sale,\" what sort of \"ownership\" would the man acquire? Hence, by virtue of the said prohibition of \"transference or sale,\" the \"loss\" or \"forfeiture\" must he taken to mean that the creditor who may have ceased to use it becomes entitled to use it again.",
+    "morphology": "yadi_yadi_ ca_ca_ nisarga_nisarga_Cp vikrayau_vikraya_DuNM na_na_ staḥ_as_DuPr3In kīdṛśam_kīdṛśa_SNNe asya_idam_SGM svāmyam_svāmya_SNNe ucyate_vac_SPr3InPv  / tasmāt_tasmāt_ pratiṣedha_pratiṣedha_Cp sāmarthyena_sāmarthya_SINe praṇāś"
+  },
+  {
+    "index": 43043,
+    "sanskrit": "mocikaiveti kathitaṃ yuktyā cāgamataḥ purā | yastu dīkṣākṛtāmevāpekṣya yojanikāṃ śiśuḥ |",
+    "english": "b- a It has been stated in this text already that initiation in itself is sufficient to liberate the candidate and has been supported by the statement of the āgama śāstra.",
+    "morphology": "mocikā_mocikā_SNF evā_eva_ iti_iti_ kathitam_kathay_SNPaNe yuktyā_yukti_SIF ca_ca_ āgamataḥ_āgama_SBM purā_purā_  / yaḥ_yad_SNM tu_tu_ dīkṣā_dīkṣā_Cp kṛtām_kṛ_SAPaF evā_eva_ apekṣya_apekṣ_Co yojanikām_yojanikā_SAF"
+  },
+  {
+    "index": 43044,
+    "sanskrit": "praṇavaṃ pūrvamuccāryya namaḥ paścādudāharet | śivāyeti tataḥ paścācchubhadvayamataḥ param || kurudvayaṃ tataḥ proktaṃ śivāya ca tataḥ punaḥ | namaśca praṇavaścaiva maṃtramevaṃ sadā budhāḥ ||",
+    "english": "25-26. O scholars, the following mantra shall be repeated—Utter the syllable Oṃkāra first, then repeat the word Namaḥ (obeisance). Then say Śivāya (to Śiva). Then repeat “Śubham” twice and “Kuru” twice. Afterwards say “Śivāya Namaḥ Om.”[3]",
+    "morphology": "praṇavam_praṇava_SAM pūrvam_pūrvam_ uccāryya_uccāray_Co namaḥ_namas_SNNe paścāt_paścāt_ udāharet_udāhṛ_SPr3O  / śivāya_śiva_SDM iti_iti_ tatas_tatas_ paścāt_paścāt_ śubha_śubha_Cp dvayam_dvaya_SNNe atas_atas_ param_param_  / kuru"
+  },
+  {
+    "index": 43045,
+    "sanskrit": "aprayatnenāsya vedakartṛtve śrutiruktā'asya mahato bhūtasya' iti |",
+    "english": "For His creation of the Vedas without effort there is cited Scripture",
+    "morphology": "aprayatnena_aprayatna_SIM asya_idam_SGM veda_veda_Cp kartṛ_kartṛ_Cp tve_tva_SLNe śrutiḥ_śruti_SNF uktā_vac_SNPaF"
+  },
+  {
+    "index": 43046,
+    "sanskrit": "śrīdevyuvāca / akṛtrimatvaṃ sargasya kīdṛśaṃ vada sundari / kīdṛśaṃ kṛtrimatvaṃ syādyathāvatkathayeti me //",
+    "english": "\"The goddess asked said:—\"\"Tell me fair lady, what is the nature of the real world, and what you mean, by its unreality.\"\" \"",
+    "morphology": "śrī_śrī_Cp devī_devī_SNF uvāca_vac_SPs3In  / akṛtrima_akṛtrima_Cp tvam_tva_SNNe sargasya_sarga_SGM kīdṛśam_kīdṛśa_SNNe vada_vad_SPr2Im sundari_sundarī_SVF  / kīdṛśam_kīdṛśa_SNNe kṛtrima_kṛtrima_Cp tvam_tva_SNNe syāt_as_SPr3"
+  },
+  {
+    "index": 43047,
+    "sanskrit": "tigmam āyudhaṃ vīḍitaṃ sāhasvad divyaṃ śardhaḥ | pṛtanāsu jiṣṇu | staumi devān maruto nāthito johavīmi te no muñcantv enasaḥ |",
+    "english": "The sharp weapon, strong and mighty, The divine host [4] keen in the battles, praise the gods, the Maruts; I invoke seeking aid, May they relieve us from evil.",
+    "morphology": "tigmam_tigma_SNNe āyudham_āyudha_SNNe vīḍitam_vīḍay_SNPaNe sāhasvat_sāhasvat_SNNe divyam_divya_SNNe śardhaḥ_śardhas_SNNe  / pṛtanāsu_pṛtanā_PLF jiṣṇu_jiṣṇu_SNNe  / staumi_stu_SPr1In devān_deva_PAM marutaḥ_marut_PAM nāthita"
+  }
+]

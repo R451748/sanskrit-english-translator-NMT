@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3224,
+    "sanskrit": "suptam ca enam yamaḥ sākṣāt upāgacchat sa kiṃkaraḥ saḥ enam anayat baddhvā diśam pitṛ niṣevitām",
+    "english": "And after he had fallen asleep, Yama, accompanied by his messengers, presented himself before him, and tying him, began to take him away towards the region inhabited by the Pitris.",
+    "morphology": "suptam_svap_SAPaPsM ca_ca_U enam_enad_SAM yamaḥ_yama_SNM sākṣāt_sākṣāt_U upāgacchat_upagam_SPs3In sa_tad_SNM kiṃkaraḥ_kiṃkara_SNM saḥ_tad_SNM enam_enad_SAM anayat_nī_SPs3In baddhvā_bandh_Co diśam_diś_SAF pitṛ_pitṛ_MCp niṣevitā"
+  },
+  {
+    "index": 3225,
+    "sanskrit": "pitaḥ soḍhuṃ na śaknomi tejastejonidheraham | tīvraṃ tasyāryaputrasya kāśyapasya mahātmanaḥ || 83 ||",
+    "english": "83. “O father, I am unable to endure the refulgence of the storehouse of refulgence, the bright splendour of the son of the noble-souled Kaśyapa, O noble Sir.”",
+    "morphology": "pitar_pitṛ_SVM soḍhum_sah_In na_na_ śaknomi_śak_SPr1In tejaḥ_tejas_SANe tejonidheḥ_tejonidhi_SGM aham_mad_SN  / tīvram_tīvra_SANe tasya_tad_SGM ārya_ārya_Cp putrasya_putra_SGM kāśyapasya_kāśyapa_SGM mahātmanaḥ_mahātman_SGM  /"
+  },
+  {
+    "index": 3226,
+    "sanskrit": "(69) sama-karṇāś-ca,",
+    "english": "(69) even ears,",
+    "morphology": "sama_sama_Cp karṇāḥ_karṇa_PNM"
+  },
+  {
+    "index": 3227,
+    "sanskrit": "nanu sarvasyācārasyāvedavitsaṃbandhinaḥ prāmāṇyaṃ ghaṭate / anuktam etat / na hi svalpo 'py ācāra avedavidāṃ pramāṇībhavati /",
+    "english": "In this way then, the practice of all persons ignorant of the Veda becomes authoritative; and this is not right; because as a matter of fact, not even the slightest practice of persons ignorant of the Veda should be authoritative.",
+    "morphology": "nanu_nanu_ sarvasya_sarva_SGM ācārasya_ācāra_SGM a_a_ veda_veda_Cp vid_vid_Cp saṃbandhinaḥ_sambandhin_SGM prāmāṇyam_prāmāṇya_SNNe ghaṭate_ghaṭ_SPr3In  / anuktam_anukta_SNNe etat_etad_SNNe  / na_na_ hi_hi_ su_su_ alpaḥ_alpa_SNM api_api"
+  },
+  {
+    "index": 3228,
+    "sanskrit": "girim kolāhalam tam tu padā vasuḥ atāḍayat",
+    "english": "And Vasu, beholding the foul attempt, struck the mountain with his foot.",
+    "morphology": "girim_giri_SAM kolāhalam_kolāhala_SAM"
+  },
+  {
+    "index": 3229,
+    "sanskrit": "diṣṭyā ca vaḥ aham paśyāmi muktān asmāt jana kṣayāt",
+    "english": "By good luck, I behold you escaped with life from this great slaughter, and safe and sound.",
+    "morphology": "diṣṭyā_diṣṭi_SIF ca_ca_U vaḥ_tvad_PA aham_mad_SN paśyāmi_paś_SPr1In muktān_muc_PAPaPsM"
+  },
+  {
+    "index": 3230,
+    "sanskrit": "kāliyasya gṛhasyāpi samayo 'bhūd yadā nṛpatadā tārkṣyaṃ baliṃ sarvaṃ bubhuje kāliyo balāt",
+    "english": "When the time came for an offering from Kāliya's house, Kāliya himself forcibly ate the offering intended for Garuòa.",
+    "morphology": "kāliyasya_kāliya_SGM gṛhasya_gṛha_SGNe api_api_ samayaḥ_samaya_SNM abhūt_bhū_SPs3In yadā_yadā_ tārkṣyam_tārkṣya_SAM balim_bali_SAM sarvam_sarva_SAM bubhuje_bhuj_SPs3In kāliyaḥ_kāliya_SNM balāt_bala_SBNe"
+  },
+  {
+    "index": 3231,
+    "sanskrit": "tena sarvāḥ prakṛtayo virajyanti /",
+    "english": "This displeases all men.",
+    "morphology": "tena_tad_SINe sarvāḥ_sarva_PNF prakṛtayaḥ_prakṛti_PNF virajyanti_virañj_PPr3In  /"
+  }
+]

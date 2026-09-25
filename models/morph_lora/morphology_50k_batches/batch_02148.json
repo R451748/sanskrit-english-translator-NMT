@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17176,
+    "sanskrit": "yasmāt sarvam prabhavati jagat sthāvara jaṅgamam",
+    "english": "From this last, everything, viz., the mobile and immobile universe, takes its rise.",
+    "morphology": "yasmāt_yad_SBM sarvam"
+  },
+  {
+    "index": 17177,
+    "sanskrit": "kurvanti atithi pūjā artham yajña tantra artha siddhaye",
+    "english": "Forest recluses may act in these ways for worshipping guests and performing sacrifices.",
+    "morphology": "kuṇḍḥ_kṛ_PPr3In"
+  },
+  {
+    "index": 17178,
+    "sanskrit": "tava api vaktrāṇi samṛddha vegāḥ lelihyase grasamānaḥ samantāt lokān samagrān vadanaiḥ jvaladbhiḥ",
+    "english": "Swallowing all these men from every side, thou lickest them with thy flaming mouths.",
+    "morphology": "tava_tvad_SG api_api_U vaktrāṇi_vaktra_PNNe samṛddha_samṛdh_PaPsCp vegāḥ_vega_PNF lelihyase_lelih_SPr2InPv grasamānaḥ_gras_SNPaPrM samantāt_samantāt_U lokān_loka_PAM samagrān_samagra_PAM vadanaiḥ_vadana_PINe"
+  },
+  {
+    "index": 17179,
+    "sanskrit": "uktātmasiddhivṛttāntastena te prabhuṇā tataḥ / caṇḍasiṃhādayaḥ sarve pramodaṃ sutarāṃ dadhuḥ //",
+    "english": "And when he told the story of his obtaining magic powers, Caṇḍasiṃha and the others were exceedingly gratified at their emperor’s success.",
+    "morphology": "ukta_vac_PaCp ātma_ātman_Cp siddhi_siddhi_Cp vṛttāntaḥ_vṛttānta_SNM tena_tad_SIM te_tad_PNM prabhuṇā_prabhu_SIM tatas_tatas_  / caṇḍasiṃha_caṇḍasiṃha_Cp ādayaḥ_ādi_PNM sarve_sarva_PNM pramodam_pramoda_SAM sutarām_sutarām_  /"
+  },
+  {
+    "index": 17180,
+    "sanskrit": "na vāsanā na racanā nehānīhe na rañjanā / na sattā nāpi vā'sattā naca sādhyaṃ hi tatpadam //",
+    "english": "Its desires and efforts are lost with its essence, and there remains no trace of its entity or nullity whatever.",
+    "morphology": "na_na_ vāsanā_vāsanā_SNF na_na_ racanā_racanā_SNF na_na_ iha_iha_ anīhe_anīhā_DuNF na_na_ rañjanā_rañjanā_SNF  / na_na_ sattā_sattā_SNF na_na_ api_api_ vā_vā_ a_a_ gā_gā_SNF __na_"
+  },
+  {
+    "index": 17181,
+    "sanskrit": "trayodaśī paṃcadaśī kṛteyaṃ rāhuṇā punaḥ | tadā ca bhārate yuddhe prāptā cādya kṣayāya naḥ || 42 || dhigdhigityevakālaṃ taṃ pariciṃtya janārdanaḥ | mene prāptaṃ sa ṣaṭtriṃśaṃ varṣaṃ keśiniṣūdanaḥ | putraśokābhisaṃtaptā gāṃdhārī yaduvāca ha || 43 ||",
+    "english": "42-4S. “This thirteenth lunar day as the fifteenth lunar day has been brought about by Rāhu once again, it first occurred at the time of the Mahābhārata battle, and now it has occurred again for the purpose of our destruction. Fie upon that (bad) time!” After reflecting on it, Janārdana, the slayer of Keśin, become sure that the thirty-sixth year (the year to which Gāndhārī who was grieving over her sons, had referred to) had come.",
+    "morphology": "trayodaśī_trayodaśī_SNF paṃcadaśī_pañcadaśī_SNF kṛtā_kṛ_SNPaF iyam_idam_SNF rāhuṇā_rāhu_SIM punar_punar_  / tadā_tadā_ ca_ca_ bhārate_bhārata_SLNe yuddhe_yuddha_SLNe prāptā_prāp_SNPaF ca_ca_ adya_adya_ kṣayāya_kṣaya_SDM na"
+  },
+  {
+    "index": 17182,
+    "sanskrit": "yat abhivadati dīkṣām upaiti yat udakam yācati apaḥ pra nayati //",
+    "english": "When he salutes them reverently he undergoes preparation for a religious ceremony: when he calls for water, he solemnly brings sacrificial water.",
+    "morphology": "yat_yat_U abhivadati_abhivad_SPr3In dīkṣām_dīkṣā_SAF upaiti_upe_SPr3In yat_yat_U udakam_udaka_SANe yācati_yāc_SPr3In apaḥ_ap_PAF"
+  },
+  {
+    "index": 17183,
+    "sanskrit": "kṣatriyaḥ kṣatriyam jitvā raṇe raṇa kṛtām varaḥ yaḥ muñcati vaśe kṛtvā guruḥ bhavati tasya saḥ",
+    "english": "The chief of warriors of the Kshatriya rare who having overcome a Kshatriya in battle and brought him under his power, setteth him free, becometh the guru (preceptor or master) of the vanquished one.",
+    "morphology": "kṣatriyaḥ_kṣatriya_SNM kṣatriyam_kṣatriya_SAM jitvā_ji_Co raṇe_raṇa_SLM raṇa_raṇa_MCp kṛtām_kṛt_PGM varaḥ_vara_SNM yaḥ_yad_SNM muñcati_muc_SPr3In vaśe_vaśa_SLM kṛtvā_kṛ_Co"
+  }
+]

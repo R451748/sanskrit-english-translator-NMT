@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20728,
+    "sanskrit": "talliṅgamūrdhni sras tasya tasyābjasya prabhāvataḥ / sa puṣkarākṣa haṃsastvaṃ jāto rājanvaye 'dhunā //",
+    "english": "and by the virtue of that lotus, which fell on the top of the liṅga, you have been now born in a royal family.",
+    "morphology": "tad_tad_Cp liṅga_liṅga_Cp mūrdhni_mūrdhan_SLM tasya_tad_SGNe tasya_tad_SGNe abjasya_abja_SGNe prabhāvataḥ_prabhāva_SBM  / sa_tad_SNM puṣkarākṣa_puṣkarākṣa_SVM haṃsaḥ_haṃsa_SNM tvam_tvad_SN jātaḥ_jan_SNPaM rājan_rājan_SVM vaye"
+  },
+  {
+    "index": 20729,
+    "sanskrit": "cidvyomaiva paraṃ sargaparyāyaṃ svātmani sthitam / cidvyomaivetthamābhātaṃ na cyutaṃ satsvarūpataḥ //",
+    "english": "It is the vacuous Intellect, which contains the creation in it; and shows its representation in ourselves; thus the world appears in the void of the Intellect only, and not any thing as fallen or detached from it.",
+    "morphology": "cit_cit_Cp vyoma_vyoman_SNNe eva_eva_ param_para_SAM sarga_sarga_Cp paryāyam_paryāya_SAM sva_sva_Cp ātmani_ātman_SLM sthitam_sthā_SNPaNe  / cit_cit_Cp vyom_vyoman_SNNe eva_eva_ ittham_ittham_ ābhātam_ābhā_SNPaNe na_na_ cyutam_cyu_SNPaNe sat_sat_Cp"
+  },
+  {
+    "index": 20730,
+    "sanskrit": "su dṛḍhāni surūpāṇi su grahāṇi ca kārayet ||",
+    "english": "They should be made with a special eye as to strength and steadiness, and they should be provided with convenient handles.",
+    "morphology": "su_su_U dṛḍhāni_dṛḍha_PANe surūpāṇi_surūpa_PANe su_su_U grahāṇi_graha_PANe"
+  },
+  {
+    "index": 20731,
+    "sanskrit": "kaunteya pratijānīhi na me bhaktaḥ praṇaśyati",
+    "english": "Know, O son of Kunti, that none devoted to me is ever lost.",
+    "morphology": "kaunteya_kaunteya_SVM pratijānīhi_pratijñā_SPr2Im na_na_"
+  },
+  {
+    "index": 20732,
+    "sanskrit": "upo iti harīṇām patim dakṣam pr̥ñcantam abravam nūnam śrudhi stuvataḥ aśvyasya",
+    "english": "I spake to the Bay Coursers' Lord, to him who gives ability: Now hear the son of Aṣva as he praises thee.",
+    "morphology": "upa_upa_U u_u_U iti_iti_U harīṇām_hari_PGM patim_pati_SAM dakṣam_dakṣa_SAM pr̥ñcantam_prāñc_SAPaPrM abravam_brū_SPs1In nūnam_nūnam_U śruṇīḥ_śru_SPs2Im"
+  },
+  {
+    "index": 20733,
+    "sanskrit": "vārṣṇeya bhuja vegena praṇunnā sā mahā āhave abhidudrāva vegena kālarātriḥ yathā naram",
+    "english": "That dart, hurled in that dreadful battle with the strength of Satyaki's arms, coursed impetuously like the fatal night, coursing speedily towards a (doomed) man.",
+    "morphology": "vārṣṇeya_vārṣṇeya_MCp bhuja_bhuja_MCp vegena_vega_SIM praṇunnā_praṇud_SNPaPsF sā_tad_SNF mahā_mahat_Cp āhave_āhava_SLM abhidudrāva_abhidru_SPs3In vegena_vega_SIM kālarātriḥ_kālarātri_SNF"
+  },
+  {
+    "index": 20734,
+    "sanskrit": "latāpratānodgrathitaiḥ sa keśairadhijyadhanvā vicacāra dāvam / rakṣāpadeśādguruhomadhenorvanyānvineṣyanniva duṣṭasattvān // Ragh(K)_2.8 //",
+    "english": "Marked with hair tied up with the tendrils of creepers, he, with his bow strung, wandered in the wood, as if wishing to discipline the ferocious beasts of the forest, under the pretext of guarding the sacrificial cow of the sage.",
+    "morphology": "latā_latā_Cp pratāna_pratāna_Cp udgrathitaiḥ_udgranth_PIPaM sa_tad_SNM keśaiḥ_keśa_PIM adhijya_adhijya_Cp dhanvā_dhanvan_SNM vicacāra_vicar_SPs3In dāvam_dāva_SAM  / rakṣā_rakṣā_Cp apadeśāt_apadeśa_SBM guru_guru_Cp homadhenvaḥ_homad"
+  },
+  {
+    "index": 20735,
+    "sanskrit": "anyonyāmatasiṃhebhanakuloragakelikām / paśya munyāśramaśreṇiṃ sarvartukusumadrumām //",
+    "english": "See there the line of hermitages of the ancient sages; where the envious animals forget their mutual animosities, and [live] together in perfect concord and amity.",
+    "morphology": "anyonya_anyonya_Cp a_a_ mata_man_PaCp siṃha_siṃha_Cp ibha_ibha_Cp nakula_nakula_Cp uraga_uraga_Cp kelikām_kelika_SAF  / paśya_paś_SPr2Im muni_muni_Cp āśrama_āśrama_Cp śreṇim_śreṇi_SAF sarva_sarva_Cp ṛtu_ṛtu_Cp kusuma_kusuma_Cp drumām_"
+  }
+]

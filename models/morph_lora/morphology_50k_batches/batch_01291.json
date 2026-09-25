@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10320,
+    "sanskrit": "nanu cāpohavādipakṣādasya ko viśeṣaḥ---/ tathā hi apohavādināpi buddhyākāro bāhyarūpatayā gṛhītaḥ śabdārtha iti bhāṣyata eva /",
+    "english": "Question: “What is the difference between this theory and the theory of ‘Apoha’? The upholder of ‘Apoha’ also asserts that what is denoted by the word is the form of the Idea apprehended as something external: as has been declared in the following passage: ‘There is nothing incongruous in the statement that that object forms the Import of words which follows from the impinging of the form of the Idea and the cognisance of the exclusion of other things’.”",
+    "morphology": "nanu_nanu_ ca_ca_ apoha_apoha_Cp vādi_vādin_Cp pakṣāt_pakṣa_SBM asya_idam_SGM kaḥ_ka_SNM viśeṣaḥ_viśeṣa_SNM  / tathā_tathā_ hi_hi_ apoha_apoha_Cp vādinā_vādin_SIM api_api_ buddhi_buddhi_Cp ākāraḥ_ākāra_SNM bāhya_bāhya_Cp rūpa"
+  },
+  {
+    "index": 10321,
+    "sanskrit": "yat tāvaduktaṃ “trividharūpokteri” ti /",
+    "english": "The Sūtra teaches that rāpa is of three types.",
+    "morphology": "yat_yad_SNNe tāvat_tāvat_ uktam_vac_SNPaNe __trividha_U __rūpa_U __ukti_U __iti_U  /"
+  },
+  {
+    "index": 10322,
+    "sanskrit": "paripūriṇaḥ //",
+    "english": "At least to consider the series that has all of its parts.",
+    "morphology": "paripūriṇaḥ_paripūrin_PNM "
+  },
+  {
+    "index": 10323,
+    "sanskrit": "etacchrutvā vacastasya vaṇikputrasya bhārata | asaṃkṣayaṃ dhanaṃ dattvā sthitastatra maheśvaraḥ || 13 ||",
+    "english": "On hearing these words of the son of a Vaṇīk [Vaṇik?], O descendant of Bharata, Maheśvara gave him inexhaustible wealth and stationed himself there.",
+    "morphology": "etat_etad_SANe śrutvā_śru_Co vacaḥ_vacas_SANe tasya_tad_SGM vaṇij_vaṇij_Cp putrasya_putra_SGM bhārata_bhārata_SVM  / asaṃkṣayam_asaṃkṣaya_SANe dhanam_dhana_SANe dattvā_dā_Co sthitaḥ_sthā_SNPaM tatra_tatra_ maheśvaraḥ_maheśvara_S"
+  },
+  {
+    "index": 10324,
+    "sanskrit": "revatī cāśvinī citrā hastā svātī punarvasuḥ // anurādhā mṛgo jyeṣṭhā nava vai pārśvatomukhāḥ /",
+    "english": "The nine asterisms Revatī, Aśvinī, Citrā, Hasta, Svātī, Punarvasu, Anurādhā, Mṛga Mṛgaśīrṣa, Jyeṣṭhā are known as having their faces lateral.",
+    "morphology": "revatī_revatī_SNF ca_ca_ aśvinī_aśvinī_SNF citrā_citrā_SNF hastā_hastā_SNF svātī_svāti_SNF punarvasuḥ_punarvasu_SNM  // anurādhā_anurādhā_SNF mṛgaḥ_mṛga_SNM jyeṣṭhā_jyeṣṭhā_SNF nava_navan_SNNe vai_vai_ pārśvatomukhāḥ"
+  },
+  {
+    "index": 10325,
+    "sanskrit": "patim vinā mṛtam śreyaḥ nāryāḥ kṣatriya puṃgava",
+    "english": "O bull of the Kshatriya order, death is a blessing to women without husbands.",
+    "morphology": "patim_pati_SAM vinā_vinā_U mṛtam_mṛta_SNNe śreyaḥ_śreyas_SNNe nāryāḥ_nārī_SGF"
+  },
+  {
+    "index": 10326,
+    "sanskrit": "dvijarājaḥ sa garviṣṭho rohiṇīpremanirbharaḥ | kṛttikādiṣu cāsnehī mayā śaptaḥ kṣayīkṛtaḥ || 44 ||",
+    "english": "44. The Moon too, much in love with Rohiṇī became arrogant. Not affectionate towards Kṛttikā and other stars he was cursed to become a victim of pulmonary consumption.",
+    "morphology": "dvijarājaḥ_dvijarāja_SNM sa_tad_SNM garviṣṭhaḥ_garviṣṭha_SNM rohiṇī_rohiṇī_Cp prema_preman_Cp nirbharaḥ_nirbhara_SNM  / kṛttikā_kṛttikā_Cp ādiṣu_ādi_PLM ca_ca_ asnehī_asnehin_SNM mayā_mad_SI śaptaḥ_śap_SNPaM kṣayīk"
+  },
+  {
+    "index": 10327,
+    "sanskrit": "il̥ām agne puru daṁsam sanim goḥ śaśvat tamam havamānāya sādha syāt naḥ sūnuḥ tanayaḥ vijāvā agne sā te su matiḥ bhūtu asme iti",
+    "english": "5 = III, 1, 23",
+    "morphology": "il̥ām_il̥ā_SAF agne_agni_SVM puru_puru_Cp daṁsam_daṃs_SAF sanim_sani_SAF goḥ_go_SGM śaśvat_śaśvat_Cp tamam_tama_SAM havamānāya_hvā_SDPaPrM sādha_sādh_SPr2Im syāt_as_SPr3O naḥ_mad_PG sūnuḥ_sūnu_SNM tanayaḥ_tanaya_SNM vijāvā_vij"
+  }
+]

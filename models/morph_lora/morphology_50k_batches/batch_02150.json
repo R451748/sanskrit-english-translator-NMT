@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17192,
+    "sanskrit": "kecitpunaricchanti /",
+    "english": "Other masters say that the Anagamya samantaka is also associated with enjoyment. Does dhyanaantara, the intermediate dhyana, differ or not from samantaka? It differs from it.",
+    "morphology": "kecid_kaścit_PNM"
+  },
+  {
+    "index": 17193,
+    "sanskrit": "yadi hi syāt sa kavacaḥ tathā eva ca sa kuṇḍalaḥ sa amarān api lokān trīn ekaḥ karṇaḥ jayet balī",
+    "english": "Clad in (natural) coat of mail and decked with his (natural) ear-rings, Karna, who had his senses under control, could singly vanquish the three worlds with the very gods.",
+    "morphology": "yadi_yadi_U hi_hi_U syāt_as_SPr3O sa_sa_U kavacaḥ_kavaca_SNM tathā_tathā_U eva_eva_U ca_ca_U sa_sa_U kuṇḍalaḥ_kuṇḍala_SNM sa_sa_U amarān_amara_PAM api_api_U lokān_loka_PAM trīn_tri_PAM"
+  },
+  {
+    "index": 17194,
+    "sanskrit": "ayaṃ dakṣiṇā viśvakarmā tasya rathasvanaś ca rathecitraś ca senānīgrāmaṇyā // menakā ca sahajanyā cāpsarasau yātudhānā hetī rakṣām̐si prahetis tebhyo namo astu te no 'vantu te no mṛḍayantu te yaṃ dviṣmo yaś ca no dveṣṭi tam eṣāṃ jambhe dadhmaḥ //",
+    "english": "This one on the right, the Omnific; the leader of his host and his chieftain are Rathasvana and Rathechitra, and Menakâ and Sahajanyâ his Apsarases. Yâtudhânas are his weapon, Râkshasas his missile weapon; to them be homage, etc. (as in 15). 17",
+    "morphology": "ayam_idam_SNM dakṣiṇā_dakṣiṇā_ viśvakarmā_viśvakarman_SNM tasya_tad_SGM rathasvanaḥ_rathasvana_SNM ca_ca_ rathecitraḥ_rathecitra_SNM ca_ca_ senānī_senānī_Cp grāmaṇyā_grāmaṇī_DuNM  // menakā_menakā_SNF ca_ca_ sahajanyā_sahaja"
+  },
+  {
+    "index": 17195,
+    "sanskrit": "iti //",
+    "english": "if this view be held, then that again is exactly our opinion.",
+    "morphology": "iti_"
+  },
+  {
+    "index": 17196,
+    "sanskrit": "tathā satyadhṛtiḥ tāta kṛtvā kadanam āhave pāṇḍava arthe parākrāntaḥ gamitaḥ yama sādanam",
+    "english": "Similarly, the heroic Satyadhriti, endued with great prowess, having made a great slaughter in battle for the sake of the Pandavas, has been despatched to Yama's abode.",
+    "morphology": "tathā_tathā_U satyadhṛtiḥ_satyadhṛti_SNM tāta_tāta_SVM kṛtvā_kṛ_Co kadanam_kadana_SANe āhave_āhava_SLM pāṇḍava_pāṇḍava_MCp arthe_artha_SLM parākrāntaḥ_parākram_SNPaPsM gamīḥ_gamay_SNPaPsM"
+  },
+  {
+    "index": 17197,
+    "sanskrit": "mātur hi sāpiṇḍyaṃ strīṇāṃ smṛtyantare tṛtīyapuruṣāvadhi /",
+    "english": "According to another Smṛti, women are called the mother\" s sapiṇḍa only up to three steps of relationship.",
+    "morphology": "mātuḥ_mātṛ_SGF hi_hi_ sāpiṇḍyam_sāpiṇḍya_SNNe strīṇām_strī_PGF ḥ_ḥ_SNM __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF __pā_PNF "
+  },
+  {
+    "index": 17198,
+    "sanskrit": "tataḥ sa vismayāviṣṭasteṣāmeva pṛthakpṛthak | śrāddhaṃ cakre ca bhūtānāṃ nityameva samāhitaḥ || 56 ||",
+    "english": "56. He was surprised. With great concentration and mental purity, he performed the Śrāddha unto all the ghosts severally.",
+    "morphology": "tatas_tatas_ sa_tad_SNM vismaya_vismaya_Cp āviṣṭaḥ_āviś_SNPaM teṣām_tad_PGM eva_eva_ pṛthak_pṛthak_ pṛthak_pṛthak_  / śrāddham_śrāddha_SANe cakre_kṛ_SPs3In ca_ca_ bhūtānām_bhūta_PGM nityam_nityam_ eva_eva_ samāhitaḥ_samāhi"
+  },
+  {
+    "index": 17199,
+    "sanskrit": "asmin araṇye nṛpate māndhātuḥ api ca ātmajaḥ purukutsaḥ nṛpaḥ siddhim mahatīm samavāptavān",
+    "english": "In this very forest, O king, that lord of Earth, Purukutsa, the soil of Mandhatri, attained to high success.",
+    "morphology": "asmin_idam_SLNe araṇye_araṇya_SLNe nṛpate_nṛpati_SVM māndhātuḥ_māndhātṛ_SGM api_api_U ca_ca_U ātmajaḥ_ātmaja_SNM purukutsaḥ_purukutsa_SNM nṛpaḥ_nṛpa_SNM"
+  }
+]

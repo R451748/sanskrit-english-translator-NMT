@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18576,
+    "sanskrit": "neha kāryaṃ na vā'kāryamasti kiṃcinna kutracit / sarvaṃ śivamajaṃ śāntamanantaṃ prāgvadāsyatām //",
+    "english": "There is no business whatever for us in this world, that must be done or abandoned by us at any time or place; every thing is good that comes from the good God, therefore sit you quiet with your cold indifference as before the occurrence of any event.",
+    "morphology": "na_na_ iha_iha_ kāryam_kārya_SNNe na_na_ vā_vā_ akāryam_akārya_SNNe asti_as_SPr3In kiṃcid_kaścit_SNNe na_na_ kutracid_kutracid_  / sarvam_sarva_SNNe śivam_śiva_SNNe ajam_aja_SNNe śāntam_śam_SNPaNe anantam_ananta_SNNe prāgvat_prāgvat_ āsyat"
+  },
+  {
+    "index": 18577,
+    "sanskrit": "ityetatparamaṃ guhyaṃ kalikalmaṣanāśanam / yaḥ śṛṇoti naro bhaktyā sarvapāpaiḥ pramucyate //",
+    "english": "Whoever hears this great mystery, which removes the contamination of the Kali, shall be freed from all his sins.",
+    "morphology": "iti_iti_ etat_etad_SNNe paramam_parama_SNNe guhyam_guhya_SNNe kali_kali_Cp kalmaṣa_kalmaṣa_Cp nāśanam_nāśana_SNNe  / yaḥ_yad_SNM śṛṇoti_śru_SPr3In naraḥ_nara_SNM bhaktyā_bhakti_SIF sarva_sarva_Cp pāpaiḥ_pāpa_PINe pramucyate_pramuc_SP"
+  },
+  {
+    "index": 18578,
+    "sanskrit": "yāvantaḥ sāgara dvīpās tathā varṣāṇi parvatāḥ / vanāni satitaḥ puryo devādīnāṃ tathā mune //",
+    "english": "Groves, lakes, and branches of Meru. Cities of the gods. Rivers. The forms of Viṣṇu worshipped in different Varṣas.",
+    "morphology": "yāvantaḥ_yāvat_PNM sāgara_sāgara_SVM dvīpāḥ_dvīpa_PNM tathā_tathā_ varṣāṇi_varṣa_PNNe parvatāḥ_parvata_PNM  / vanāni_vana_PNNe satitas_satitas_ puryaḥ_purī_PNF deva_deva_Cp ādīnām_ādi_PGM tathā_tathā_ mune_muni_SVM  /"
+  },
+  {
+    "index": 18579,
+    "sanskrit": "mahāpātakināṃ spṛṣṭaṃ yacca spṛṣṭamudakyayā //",
+    "english": "One should not eat food touched by great sinners and that touched by a woman in her courses.",
+    "morphology": "mahāpātakinām_mahāpātakin_PGM spṛṣṭam_spṛś_SNPaNe yat_yad_SNNe ca_ca_ spṛṣṭam_spṛś_SNPaNe udakyayā_udakyā_SIF  /"
+  },
+  {
+    "index": 18580,
+    "sanskrit": "nārasiṃhavapuḥ kṛtvā taṃ jaghāna suraiḥ saha //",
+    "english": "Viṣṇu assumed the form of Narasiṃha human body with lion’s face and killed him along with the other demons.",
+    "morphology": "nārasiṃha_nārasiṃha_Cp vapuḥ_vapus_SANe kṛtvā_kṛ_Co tam_tad_SAM jaghāna_han_SPs3In suraiḥ_sura_PIM saha_saha_  /"
+  },
+  {
+    "index": 18581,
+    "sanskrit": "ūrdhvabāhurviraumyeṣa na ca kaścicchṛṇoti me / asaṃkalpaḥ paraṃ śreyaḥ sa kimantarna bhāvyate //",
+    "english": "I am proclaiming it with a loud voice and lifted arms, and yet no body will hearken unto me when I say that, want of desire is our supreme bliss and summum bonum, and yet why is it that none would perceive it as such?",
+    "morphology": "ūrdhvabāhuḥ_ūrdhvabāhu_SNM viraumi_viru_SPr1In eṣa_etad_SNM na_na_ ca_ca_ kaścid_kaścit_SNM śṛṇoti_śru_SPr3In me_mad_SG  / asaṃkalpaḥ_asaṃkalpa_SNM param_para_SNNe śreyaḥ_śreyas_SNNe sa_tad_SNM kim_ka_SNNe antar_antar_ na_na_ bhā"
+  },
+  {
+    "index": 18582,
+    "sanskrit": "gavaaśvakharauṣṭrāṇāṃ ca vrajaḥ //",
+    "english": "Pasturelands are the source of cows, horses, and camels to draw chariots",
+    "morphology": "gava_go_Cp aśva_aśva_Cp khara_khara_Cp oṣṭrāṇām_oṣṭra_PGM ca_ca_"
+  },
+  {
+    "index": 18583,
+    "sanskrit": "bhraṣṭa śrīḥ vibhava bhraṣṭaḥ yat na śocasi duṣkaram",
+    "english": "Divested of prosperity and fallen away from affluence, thou indulgest not in grief.",
+    "morphology": "bhraṣṭa_bhraṃś_PaPsCp śrīḥ_śrī_SNM vibhava_vibhava_MCp bhraṣṭaḥ_bhraṃś_SNPaPsM yat_yat_U na_na_U śocasi_śuc_SPr2In duṣkaram_duṣkara_SANe"
+  }
+]

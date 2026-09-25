@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17208,
+    "sanskrit": "ā viśva devam sat patim su uktaiḥ adya vr̥ṇīmahe satya savam savitāram",
+    "english": "We with our hymns this day elect the general God, Lord of the good, Savitar whose decrees are true.",
+    "morphology": "ā_ā_U viśva_viśva_Cp devam_deva_SAM sat_sat_Cp patim_pati_SAM su_su_U uktaiḥ_vac_PIPaPsM adya_adya_U vr̥ṇīmahe_vṛ_PPr1In satya_satya_NeCp savam_sava_SAM savitāram_savitṛ_SAM"
+  },
+  {
+    "index": 17209,
+    "sanskrit": "devasya saviturbhargo vareṇyaṃ hi turīyakaṃ // dehādijāgradābrahma ahaṃ brahmeti dhīmahi /",
+    "english": "am Bharga, the most exalted fourth place of lord Sun. am the body and the like, the state of waking and that upto that brahman. deem myself as the brahman.",
+    "morphology": "devasya_deva_SGM savituḥ_savitṛ_SGM bhargaḥ_bhargas_SNNe vareṇyam_vareṇya_SNNe hi_hi_ turīyakam_turīyaka_SNNe  // deha_deha_Cp ādi_ādi_Cp jāgrat_jāgrant_Cp ābrahma_ābrahma_SNNe aham_mad_SN brahma_brahman_SNNe iti_iti_ dhīmahi_dhā_PPs1In"
+  },
+  {
+    "index": 17210,
+    "sanskrit": "gṛhasthānām ca yat bhojyam yat ca api vana vāsinām",
+    "english": "Indeed, the food that was offered contained such things as are taken by persons leading a domestic mode of life as also such things as are taken by denizens of the wilderness.",
+    "morphology": "gṛhasthānām_gṛhastha_PGM ca_ca_U yat_yad_SNNe bhojyam_bhuj_SNNeGd yat_yad_SNNe ca_ca_U api_api_U vana_vana_NeCp vāsinām_vāsin_PGM"
+  },
+  {
+    "index": 17211,
+    "sanskrit": "utpattimātraṃ tu nimittakāraṇa-sādhāraṇamiti nopādānatvaṃ sūcayet;",
+    "english": "its material causality bare origination, being common to the efficient cause well, cannot indicate material causality.",
+    "morphology": "__utpatti_U __mātra_U tu_tu_U __nimitta_U __kāraṇa_U __sādhāraṇa_U iti_iti_U na_na_U __upādāna_U __tva_U sūcayet_sūcay_SPr3O"
+  },
+  {
+    "index": 17212,
+    "sanskrit": "yavānnaṃ pakṣāntayor vā sakṛd aśnīyāt //",
+    "english": "Or he may eat boiled barley once at the close of a half-month.",
+    "morphology": "yava_yava_Cp annam_anna_SANe pakṣa_pakṣa_Cp antayoḥ_anta_DuLM vā_vā_ sakṛt_sakṛt_ aśnīyāt_aś_SPr3O  /"
+  },
+  {
+    "index": 17213,
+    "sanskrit": "prapakṣam sa samāsādya pārthaḥ kāmboja rakṣitam pramamātha balāt bāṇaiḥ dānavān iva vāsavaḥ",
+    "english": "Repairing to that further wing which was protected by the Kambojas, Partha began to grind it forcibly with his arrows like Vasava grinding the Danavas.",
+    "morphology": "prapakṣam_prapakṣa_SAM sa_tad_SNM samāsādya_samāsāday_Co pārthaḥ_pārtha_SNM kāmboja_kāmboja_MCp rakṣitam_rakṣ_SAPaPsM pramamātha_pramath_SPs3In balāt_bala_SBNe bāṇaiḥ_bāṇa_PIM dānavān_dānava_PAM iva_iva_U vāsavaḥ_vāsava_S"
+  },
+  {
+    "index": 17214,
+    "sanskrit": "adūra eva tiṣṭhadbhirjīvanmuktasya dṛkpathe / mokṣopāsakabodhāya śāstrārtharacanāya ca //",
+    "english": "There are others who are situated in the sight of, and not far from the path of living liberation, who are employed in leading others to salvation, and in the exposition of the sastras in their works.",
+    "morphology": "adūre_adūra_SLNe eva_eva_ tiṣṭhadbhiḥ_sthā_PIPaPrM jīvanmuktasya_jīvanmukta_SGM dṛkpathe_dṛkpatha_SLM  / mokṣa_mokṣa_Cp upāsaka_upāsaka_Cp bodhāya_bodha_SDM śāstra_śāstra_Cp artha_artha_Cp racanāya_racana_SDNe ca_ca_  /"
+  },
+  {
+    "index": 17215,
+    "sanskrit": "yathā tu bhagnāḥ droṇena vātena iva mahā drumāḥ",
+    "english": "They have been broken by Drona like mighty trees by the tempest.",
+    "morphology": "yathā_yathā_U tu_tu_U bhagnāḥ_bhañj_PNPaPsM droṇena_droṇa_SIM vātena_vāta_SIM iva_iva_U mahā_mahat_Cp drumāḥ_druma_PNM"
+  }
+]

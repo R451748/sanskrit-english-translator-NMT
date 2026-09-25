@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39592,
+    "sanskrit": "bhūtāni sthāvarajaṅgamāni /",
+    "english": "\"Living beings\" moveable as well as immoveable.",
+    "morphology": "bhūtāni_bhūta_PNNe"
+  },
+  {
+    "index": 39593,
+    "sanskrit": "prāṇāyāmaḥ hi sa guṇaḥ nirguṇam dhāraṇam manaḥ",
+    "english": "In Yoga without attributes, the mind, freed from its functions, should be fixed.",
+    "morphology": "prāṇāyāmaḥ_prāṇāyāma_SNM hi_hi_U sa_sa_U guṇaḥ_guṇa_SNM"
+  },
+  {
+    "index": 39594,
+    "sanskrit": "ṣoḍhā samāsaṃ vakṣyāmi aṣṭāviṃśatidhā punaḥ /",
+    "english": ". . . shall describe the six kinds of compounds. They are again divided into twentyeight kinds.",
+    "morphology": "ṣoḍhā_ṣoḍhā_"
+  },
+  {
+    "index": 39595,
+    "sanskrit": "sa prathamam prayājamanumantrayeta tviṣimānbhūyāsamityapacitimānbhūyāsamiti dvitīyaṃ yaśasvī bhūyāsamiti tṛtīyam brahmavarcasī bhūyāsamiti caturthamannādo bhūyāsamiti pañcamaṃ tviṣimānha vā apacitimānyaśasvī brahmavarcasyannādo bhavati ya evametadveda //",
+    "english": "After the first fore-offering let him utter (the anumantrana ), 'May I become brilliant;' after the second, 'May I become honoured; after the third, 'May I become glorious;' after the fourth, 'May I become endowed with holy lustre;' after the fifth, 'May I become prosperous;'--and, verily, whosoever knows this becomes brilliant, and honoured, and glorious, and endowed with holy lustre, and prosperous.",
+    "morphology": "sa_tad_SNM prathamam_prathama_SAM prayājam_prayāja_SAM anumantrayeta_anumantray_SPr3O tviṣimān_tviṣimat_SNM bhūyāsam_bhū_SPs1 iti_iti_ apacitimān_apacitimat_SNM bhūyāsam_bhū_SPs1 iti_iti_ dvitīyam_dvitīya_SAM yaśasvī_yaśasvin_SNM bhūyā"
+  },
+  {
+    "index": 39596,
+    "sanskrit": "gavām śakṛt kvātha vipakvam uttamam hitam tu tailam timireṣu nāvanam||",
+    "english": "The use as a Navana (errhine) of a medicated oil cooked and prepared with the decoction of cow-dung would be attended with beneficial results in all types of Timira.",
+    "morphology": "gavām_go_PGM śakṛt_śakṛt_SNNe kvātha_kvātha_MCp vipakvam_vipakva_SNNe uttamam_uttama_SNNe hitam_hita_SNNe"
+  },
+  {
+    "index": 39597,
+    "sanskrit": "tena pramāṇatāyāṃ vedasvādhyāyaśabdavācyatve puruṣārthasādhanavidhāv api catvāraḥ samā vedaḥ //",
+    "english": "The knowledge of the Vedas and the art of performing sacri- fices are handed down through the traditional chain. The same law applies to all the four Vedas.",
+    "morphology": "tena_tena_ pramāṇa_pramāṇa_Cp tāyām_tā_SLF veda_veda_Cp svādhyāya_svādhyāya_Cp śabda_śabda_Cp vācya_vac_GdCp tve_tva_SLNe puruṣa_puruṣa_Cp artha_artha_Cp sādhana_sādhana_Cp vidhau_vidhi_SLM api_api_ catvāraḥ_catur_PNM samāḥ_sam"
+  },
+  {
+    "index": 39598,
+    "sanskrit": "garīyān brāhmaṇa vadhaḥ sarva bhūta vadhāt yatas",
+    "english": "Hath not that one sin been conquered by this my asceticism? And because the killing of a Brahmana is more heinous than that of any other living thing, therefore, hast thou, O Dharma, been sinful.",
+    "morphology": "gaḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ"
+  },
+  {
+    "index": 39599,
+    "sanskrit": "ātivāhikasaṃvitteste'vyomni vyomatātmakāḥ / ādhibhautikadehatvabhāvāndadṛśuragrataḥ //",
+    "english": "Being possest of their consciousness in their spiritual forms, they descended to observe the manners of elemental bodies that were exposed before them.",
+    "morphology": "ātivāhika_ātivāhika_Cp saṃvitteḥ_saṃvitti_SBF te_tad_PNM avyomni_avyoman_SLNe vyoma_vyoman_Cp tā_tā_Cp ātmakāḥ_ātmaka_PNM  / ādhibhautika_ādhibhautika_Cp deha_deha_Cp tva_tva_Cp bhāvān_bhāva_PAM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31480,
+    "sanskrit": "tadetatpūjanaṃ śreyastasmātsarvamavāpyate / tadeva sargabhūḥ sarvamidaṃ tasminvyavasthitam //",
+    "english": "Therefore its worship is of the greatest good, and confers all blessings to men; it is source of creation, and all this world is situated on it.",
+    "morphology": "tat_tad_SNNe etat_etad_SNNe pūjanam_pūjana_SNNe śreyaḥ_śreyas_SNNe tasmāt_tad_SBNe sarvam_sarva_SNNe avāpyate_avāp_SPr3InPv  / tat_tad_SNNe eva_eva_ sarga_sarga_Cp bhūḥ_bhū_SNF sarvam_sarva_SNNe idam_idam_SNNe tasmin_tad_SLM vyavasthitam_vyava"
+  },
+  {
+    "index": 31481,
+    "sanskrit": "nimba chadam madhuka dārvi sa tāmra lodhram icchanti ca atra bhiṣajaḥ añjanam aṃśa tulyam",
+    "english": "The Anjana made of Nimbaleaves, Yashti-madhu, Darvi,[2] {GL_NOTE::}copper (powdered) and Lodhra taken in equal parts a nd pounded together, is also efficatious.",
+    "morphology": "nimba_nimba_MCp chadam_chada_SAM madhuka_madhuka_NeCp dārvi_dārvī_NeCp sa_sa_U tāmra_tāmra_NeCp lodhram_lodhra_SAM icchanti_iṣ_PPr3In ca_ca_U atra_atra_U bhiṣajaḥ_bhiṣaj_PNM añjanam_añjana_SANe"
+  },
+  {
+    "index": 31482,
+    "sanskrit": "rāmaḥ yathā śastra vid astra vid ca",
+    "english": "Like Rama (the son of Jamadagni) thou art conversant with the scriptures and arms.",
+    "morphology": "rāmaḥ_rāma_SNM yathā_yathā_U"
+  },
+  {
+    "index": 31483,
+    "sanskrit": "vyūḍha uraskam kamala nayanam tapta hema avabhāsam karṇam dṛṣṭvā bhuvi nipatitam pārtha bāṇa abhitaptam",
+    "english": "The beautiful head, graced with a face that resembled a lotus of a 1,000 petals, of Karna whose feats were like those of the thousand-eyed Indra, fell down on the earth like the thousand-rayed sun as he looks at the close of day.'\" \"Sanjaya said, 'Beholding the troops crushed with arrows in that encounter between Karna and Arjuna, Shalya proceeded, filled with wrath, on that car divested of equipment.",
+    "morphology": "vyūḍha_vyūh_PaPsCp uraskam_uraska_SAM kamala_kamala_MCp nayanam_nayana_SAM tapta_tap_PaPsCp hema_heman_NeCp avabhāsam_avabhāsa_SAM karṇam_karṇa_SAM dṛṣṭvā_dṛś_Co bhuvi_bhū_SLF nipatitam_nipat_SAPaPsM pārtha_pārtha_MCp bāṇa_bāṇa"
+  },
+  {
+    "index": 31484,
+    "sanskrit": "tathā hi yad yatra kvacit pravṛttaṃ ta{tta}tpratibhāsitvāt tat paricchinatti, tadanyasya tatrānupalambhāt tatas tad vyavacchinatti.",
+    "english": "For instance, whenever a cognition appears in regard to anything, it envisages it because it bears its semblance; and as anything other than that thing is not perceived, it distinguishes the former thi ng from all else;",
+    "morphology": "tathā_tathā_ hi_hi_ yat_yad_SNNe yatra_yatra_ kvacid_kvacid_ pravṛttam_pravṛt_SNPaNe tad_tad_Cp tad_tad_Cp pratibhāsi_pratibhāsin_Cp tvāt_tva_SBNe tat_tad_SANe paricchinatti_paricchid_SPr3In tad_tad_Cp anyasya_anya_SGM tatra_tatra_ anupalambhāt_a"
+  },
+  {
+    "index": 31485,
+    "sanskrit": "śraddadhānaḥ tatas loke dadyāt ca eva yajeta ca",
+    "english": "One should perform sacrifices with it and give it away with a trustful heart.",
+    "morphology": "śraddadhānaḥ_śraddhā_SNPaPrM tatas_tatas_U loke_loka_SLM dadyāt_dā_SPr3O"
+  },
+  {
+    "index": 31486,
+    "sanskrit": "tatraikam ityālayavijñānaṃ śeṣāṇāṃ saptānāṃ vijñānānāṃ hetupratyayabhāvena hetur iti pratyayavijñānaṃ / dvitīyam aupabhogikaṃ /",
+    "english": "Since it is the cause, the basic causal condition of the remaining seven consciousnesses, it is consciousness as causal condition.The second pertains to sense experience.",
+    "morphology": "tatra_tatra_ ekam_eka_SNNe iti_iti_ ālayavijñānam_ālayavijñāna_SNNe śeṣāṇām_śeṣa_PGNe saptānām_saptan_PGNe vijñānānām_vijñāna_PGNe hetu_hetu_Cp pratyaya_pratyaya_Cp bhāvena_bhāva_SIM hetuḥ_hetu_SNM iti_iti_ pratyaya_pratyaya_Cp "
+  },
+  {
+    "index": 31487,
+    "sanskrit": "māna hā bhava śatrūṇām mitrāṇām nandi vardhanaḥ",
+    "english": "Be thou the humiliator of thy foes, and the enhancer of the joys of thy friends.",
+    "morphology": "māna_māna_MCp hā_han_SNM bhava_bhū_SPr2Im śatrūṇām_śatru_PGM mitrāṇām_mitra_PGM nandi_nandi_FCp"
+  }
+]

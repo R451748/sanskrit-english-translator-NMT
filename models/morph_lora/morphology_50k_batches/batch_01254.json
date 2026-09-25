@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10024,
+    "sanskrit": "namaḥ savitre sūryāya bhāskarāya vivasvate / ādityāyādibhūtāya devādīnāṃ namo namaḥ //",
+    "english": "Glory to Savitrī, to Sūrya, to Bhāskara, to Vivaswat, to Āditya, to the firstborn of gods or demons.",
+    "morphology": "namaḥ_namas_SNNe savitre_savitṛ_SDM sūryāya_sūrya_SDM bhāskarāya_bhāskara_SDM vivasvate_vivasvant_SDM  / ādityāya_āditya_SDM ādi_ādi_Cp bhūtāya_bhū_SDPaM deva_deva_Cp ādīnām_ādi_PGM namaḥ_namas_SNNe namaḥ_namas_SNNe  /"
+  },
+  {
+    "index": 10025,
+    "sanskrit": "teṣāṃ madhye saptamo'sau pratyūṣa iti viśrutaḥ | sa putrakāmo deveśi prabhāsaṃ kṣetramāgataḥ || 8 || sa jñātvā kāmikaṃ kṣetraṃ pratiṣṭhāpya maheśvaram | tapaścacāra vipulaṃ divyaṃ varṣaśataṃ priye | dhyāyandevaṃ mahādevaṃ śāntastadgatamānasaḥ || 9 ||",
+    "english": "8. The seventh among them (the Vasus) is well-known as Pratyūṣa. O goddess of Devas, desirous of begetting a son, he came to the holy spot of Prabhāsa. 9. He came to know that the holy spot is Kāmika (wish-yielding) and installed Maheśvara. O my beloved, he performed an elaborate penance for a hundred years according to divine reckoning. Tranquil and concentrating his mind within himself, he meditated on Mahādeva.",
+    "morphology": "teṣām_tad_PGM madhye_madhya_SLNe saptamaḥ_saptama_SNM asau_adas_SNM pratyūṣaḥ_pratyūṣa_SNM iti_iti_ viśrutaḥ_viśru_SNPaM  / sa_tad_SNM putra_putra_Cp kāmaḥ_kāma_SNM deveśi_deveśī_SVF prabhāsam_prabhāsa_SANe kṣetram_kṣetra_SANe"
+  },
+  {
+    "index": 10026,
+    "sanskrit": "amaraḥ asmi iti yat buddhim etām āsthāya vartase",
+    "english": "Thou thinkest that thou art an immortal and that, therefore, art at liberty to proceed in this way.",
+    "morphology": "amaraḥ_amara_SNM asmi_as_SPr1In iti_iti_U yat_yat_U"
+  },
+  {
+    "index": 10027,
+    "sanskrit": "tatas śatruṃjayam hatvā pārthaḥ ṣaḍbhiḥ ajihmagaiḥ jahāra sadyas bhallena vipāṭasya śiraḥ rathāt",
+    "english": "Slaying Satrunjaya thus with six arrows, Partha, with a broad-headed shaft, struck off Vipatha's head as the latter stood on his car.",
+    "morphology": "tatas_tatas_U śatruṃjayam_śatruṃjaya_SAM hatvā_han_Co pārthaḥ_pārtha_SNM ṣaḍbhiḥ_ṣaṣ_PIM ajihmagaiḥ_ajihmaga_PIM jahāra_hṛ_SPs3In sadyas_sadyas_U bhallena_bhalla_SIM vipāṭasya_vipāṭa_SGM śiraḥ_śiras_SANe rathāt_ratha_SB"
+  },
+  {
+    "index": 10028,
+    "sanskrit": "ityarthavādā vidhinaikyabhāvāt tadvatpramāṇatvam amī bhajante / asti pratītyanvayita hi teṣāṃ kvacic ca kāryānvayitā tu dṛṣṭā //",
+    "english": "Thus they (artha-vadas) not only help the better understanding of injunctions but also supplement the obser- vance of Vedic rites. Let us give an illustration.",
+    "morphology": "iti_iti_ arthavādāḥ_arthavāda_PNM vidhinā_vidhi_SIM aikya_aikya_Cp bhāvāt_bhāva_SBM tadvat_tadvat_ pramāṇa_pramāṇa_Cp tvam_tva_SANe amī_adas_PNM bhajante_bhaj_PPr3In  / asti_as_SPr3In hi_hi_ teṣām_tad_PGM kvacid_kvacid_"
+  },
+  {
+    "index": 10029,
+    "sanskrit": "viṃśatyādibhyaḥ iti pakṣe tamaṭ / pañcaśadbhāga iti pāṭhe dvibhāgādivat saṃkhyāntaram //",
+    "english": "If the reading be \"pañcāthadbhāgah,\" it would be similar to such expressions as \"dvibhāga\" \"two parts\" and the like; and in that case it would stand for a totally different number meaning \"fifty parts\" 0.",
+    "morphology": "viṃśati_viṃśati_Cp ādibhyaḥ_ādi_PBM iti_iti_ pakṣe_pakṣa_SLM tamaṭ_tamaṭ_SNM  / pañcaśat_pañcaśat_Cp bhāgaḥ_bhāga_SNM iti_iti_ pāṭhe_pāṭha_SLM"
+  },
+  {
+    "index": 10030,
+    "sanskrit": "gatvetyanulomaṃ samāpadya /",
+    "english": "\"To go\" is to take up the absorptions in ascending order;",
+    "morphology": "gatvā_gam_Co"
+  },
+  {
+    "index": 10031,
+    "sanskrit": "tataśca deśikastasya darbhairācchādya mastake | maṇḍalastheśadigbhāge caturasraṃ prakalpayet ||",
+    "english": "34. The preceptor shall then cover the vessel on the top with the Darbha grass. He shall then make a square to the northeast of the Maṇḍala.",
+    "morphology": "tatas_tatas_ ca_ca_ deśikaḥ_deśika_SNM tasya_tad_SGM darbhaiḥ_darbha_PIM ācchādya_ācchāday_Co mastake_mastaka_SLM  / maṇḍala_maṇḍala_Cp stha_stha_Cp īśa_īśa_Cp digbhāge_digbhāga_SLM catur_catur_Cp asraṃ_asra_SANe prakalpayet_praka"
+  }
+]

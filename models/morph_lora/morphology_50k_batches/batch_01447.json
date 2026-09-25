@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11568,
+    "sanskrit": "devyuvāca | bhagavanvistarādbrūhi dāmodaramahodayam | kṣetragarbhasya māhātmyaṃ karṇikārūpasaṃsthitam || 5 ||",
+    "english": "The Goddess said: 5. O Lord, tell me in detail the great prosperity of Dāmodara (and) the greatness in the holy place remaining in the form of Karṇikā.",
+    "morphology": "devī_devī_SNF uvāca_vac_SPs3In  / bhagavan_bhagavat_SVM vistarāt_vistara_SBM brūhi_brū_SPr2Im dāmodara_dāmodara_Cp mahā_mahat_Cp udayam_udaya_SAM  / kṣetra_kṣetra_Cp garbhasya_garbha_SGM māhātmyam_māhātmya_SANe karṇikā_karṇikā_Cp rū"
+  },
+  {
+    "index": 11569,
+    "sanskrit": "sañjīvo,",
+    "english": "the reviving (hell),",
+    "morphology": "si_"
+  },
+  {
+    "index": 11570,
+    "sanskrit": "nijaghne samare kruddhaḥ hasti aśvam amitam bahu",
+    "english": "Excited with wrath, he slaughtered in that battle countless elephants and steeds.",
+    "morphology": "nijaghne_nihan_SPs3In"
+  },
+  {
+    "index": 11571,
+    "sanskrit": "na tam viduḥ veda vidaḥ na vedāḥ",
+    "english": "Amongst those faculties which lead to perception of the body as the acting agent, there is none by which true knowledge may be acquired.",
+    "morphology": "na_na_U tam_tad_SAM viduḥ_vid_PPs3In_U"
+  },
+  {
+    "index": 11572,
+    "sanskrit": "ādarśanagarākāre mṛgatṛṣṇāmbubhāsvare / dvicandravibhramābhāse sarge'sminkaiva satyatā //",
+    "english": "After all, it can have no real entity, being like the picture of a city and not as the city itself. It is as false as the appearance of limpid water in the desert mirage, and that of the double moon in the sky.",
+    "morphology": "ādarśa_ādarśa_Cp nagara_nagara_Cp ākāre_ākāra_SLM mṛgatṛṣṇā_mṛgatṛṣṇā_SNF ambu_ambu_Cp bhāsvare_bhāsvara_SLM  / dvi_dvi_Cp candra_candra_Cp vibhrama_vibhrama_Cp ābhāse_ābhāsa_SLM sarge_sarga_SLM asmin_idam_SLM kā_ka_SNF ā_"
+  },
+  {
+    "index": 11573,
+    "sanskrit": "tāro vrateśvarāyeti namaścetyenamarcayet | śrāvayecca tvayā nāsya kāryaṃ kiṃcicchivājñayā |",
+    "english": "You are the witness to this performance and to see that there does not arise any obstruction in his path.” - This is to be followed by satiation of the deity of the rite ending with the word svāhā and excuse.",
+    "morphology": "tāraḥ_tāra_SNM vrata_vrata_Cp īśvarāya_īśvara_SDM iti_iti_ namaḥ_namas_SNNe ca_ca_ iti_iti_ enam_enad_SAM arcayet_arcay_SPr3O  / śrāvayet_śrāvay_SPr3O ca_ca_ tvayā_tvad_SI na_na_ asya_idam_SGM"
+  },
+  {
+    "index": 11574,
+    "sanskrit": "etad akṣaram ity oṃkārasya pratinirdeśaḥ /",
+    "english": "\"This syllable\" refers to the syllable \"oṃ\".",
+    "morphology": "etat_etad_SNNe akṣaram_akṣara_SNNe iti_iti_"
+  },
+  {
+    "index": 11575,
+    "sanskrit": "rasabhedī kṛtaghnaśca svāmidhruṅmitravañcakaḥ | goghnaśca garadaścaiva kanyāvikrayakārakaḥ || 34 || brahmaghnaśca surāpī ca steyī ca gurutalpagaḥ | narmadācaritaṃ śṛṇvaṃstāmabdaṃ yo'bhiṣevate || 35 ||",
+    "english": "The following sinners are liberated from sins: a person who discriminates in seating people in rows at the time of meals, the ungrateful, one disloyal to one’s master, one who deceives friends, a slayer of cows, an administerer of poison, one who sells one’s daughters, a Brāhmaṇa-slayer, an imbiber of liquor, a thief, one who lies on the bed of the preceptor. These and other sinners listening to the story of Narmadā and resorting to the river for a year, shall undoubtedly be liberated from all sins.",
+    "morphology": "rasabhedī_rasabhedin_SNM kṛtaghnaḥ_kṛtaghna_SNM ca_ca_  / go_go_Cp ghnaḥ_ghna_SNM ca_ca_ garadaḥ_garada_SNM ca_ca_ eva_eva_ kanyā_kanyā_Cp vikraya_vikraya_Cp kārakaḥ_kāraka_SNM  / brahma_brahman_Cp ghnaḥ_ghna_SNM ca_ca_ surāpī_surāpin"
+  }
+]

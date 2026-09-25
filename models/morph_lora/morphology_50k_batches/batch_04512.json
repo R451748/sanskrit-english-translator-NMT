@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36088,
+    "sanskrit": "tatas śata sahasrāṇi dvipa indrān hema bhūṣaṇān",
+    "english": "And Rama also gave him many thousand prodigious elephants, all adorned with gold.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 36089,
+    "sanskrit": "rāmāyaṇam upākhyānam atra eva bahu vistaram yatra rāmeṇa vikramya nihataḥ rāvaṇaḥ yudhi",
+    "english": "Here is the long history of Rama in which is shown how Rama by his prowess slew Ravana in battle.",
+    "morphology": "rāmāyaṇam_rāmāyaṇa_SNNe upākhyānam_upākhyāna_SNNe atra_atra_U eva_eva_U bahu_bahu_Cp vistaram_vistara_SAM yatra_yatra_U rāmeṇa_rāma_SIM vikramya_vikram_Co nihataḥ_nihan_SNPaPsM rāvaṇaḥ_rāvaṇa_SNM yudhi_yudh_SLF"
+  },
+  {
+    "index": 36090,
+    "sanskrit": "śāradvataḥ gautamaḥ ca api rājan mahā balaḥ bahu citra astra yodhī",
+    "english": "Sharadvata's son called Gautama, O king, endued with mighty arms and capable of fighting with diverse weapons in diverse beautiful ways, taking up a beautiful and large bow capable of bearing great strain, stayeth on the field, desirous of battle.",
+    "morphology": "śāradvataḥ_śāradvata_SNM gautamaḥ_gautama_SNM ca_ca_U api_api_U rājan_rājan_SVM mahā_mahat_Cp balaḥ_bala_SNM"
+  },
+  {
+    "index": 36091,
+    "sanskrit": "sarva doṣa samutthe tu saṃsṛṣṭān avacārayet yathādoṣa ucchrayam ca api jvarān sarvān upācaret",
+    "english": "Drugs and therapeutic agents remedial to each of the specific deranged Doshas involved in a case of the Tri-doshaja type should be employed in combination for cure according to the predominance of each Dosha.",
+    "morphology": "sarva_sarva_Cp doṣa_doṣa_MCp samutthe_samuttha_SLM tu_tu_U saṃsṛṣṭān_saṃsṛj_PAPaPsM avacārayet_avacāray_SPr3O yathādoṣa_yathādoṣa_U ucchrayam_ucchraya_SAM ca_ca_U api_api_U jvarān_jvara_PAM sarvān_sarva_PAM upācaret_upācar_SPr3"
+  },
+  {
+    "index": 36092,
+    "sanskrit": "kuru striyaḥ ca tāḥ sarvāḥ kuntī kṛṣṇā ca draupadī yānaiḥ uccāvacaiḥ jagmuḥ vidureṇa puraskṛtāḥ",
+    "english": "The other ladies of the Kuru household, as also Kunti and Krishna, all proceeded on excellent vehicles, headed by Vidura.",
+    "morphology": "kuru_kuru_MCp striyaḥ_strī_PNF ca_ca_U tāḥ_tad_PNF sarvāḥ_sarva_PNF kuntī_kuntī_SNF kṛṣṇā_kṛṣṇā_SNF ca_ca_U draupadī_draupadī_SNF yānaiḥ_yāna_PINe uccāvacaiḥ_uccāvaca_PINe jagmuḥ_gam_PPs3In vidureṇa_vidura_SIM purask"
+  },
+  {
+    "index": 36093,
+    "sanskrit": "mano vai savitā prāṇā dhiyo 'gnerjyotirnicāyyetyagnerjyotirdṛṣṭvetyetatpṛthivyā adhyābharaditi pṛthivyai hyenadadhyābharati // yuktena manasā vayamiti /",
+    "english": "'Savitri, stretching out the thoughts,'--for Savitri is the mind, and the thoughts are the vital airs;--'gazing reverently at Agni's light,'--that is, having seen Agni's light;--'bore up from the earth;' for upwards from the earth he indeed bears this (offering).",
+    "morphology": "manaḥ_manas_SNNe vai_vai_ savitā_savitṛ_SNM prāṇāḥ_prāṇa_PNM dhiyaḥ_dhī_PNF agneḥ_agni_SGM jyotiḥ_jyotis_SANe nicāyya_nicāy_Co iti_iti_ agneḥ_agni_SGM jyotiḥ_jyotis_SANe dṛṣṭvā_dṛś_Co iti_iti_ etat_etad_SANe pṛthivyā"
+  },
+  {
+    "index": 36094,
+    "sanskrit": "tvayā api satatam rājan abhyarcyaḥ puruṣottamaḥ",
+    "english": "Thou also, O monarch, shouldst always adore and worship that foremost of all Beings.",
+    "morphology": "tvayā_tvad_SI"
+  },
+  {
+    "index": 36095,
+    "sanskrit": "śubhaṃ śreṣṭhaṃ vrīhyādikaṃ lāṅgalādinopyate /",
+    "english": "\"Healthy\";cornseeds of good variety are sown with the help of the plough, etc.",
+    "morphology": "śubham_śubha_SNNe śreṣṭham_śreṣṭha_SNNe vrīhi_vrīhi_Cp ādikam_ādika_SNNe lāṅgala_lāṅgala_Cp ādinā_ādi_SIM upyate_vap_SPr3InPv  /"
+  }
+]

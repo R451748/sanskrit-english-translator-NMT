@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4984,
+    "sanskrit": "ā gantā mā riṣaṇyata pra sthāvānaḥ mā apa sthāta sa manyavaḥ sthi rā cit namayiṣṇavaḥ",
+    "english": "LET none, Swift Travellers! check you: come hither, like-spirited, stay not far away, Ye benders even of what is firm.",
+    "morphology": "ā_ā_U gantā_gam_PPs2Im mā_mā_U riṣaṇyata_riṣaṇy_PPr2Im pra_pra_U sthāvānaḥ_sthāvan_PVM mā_mā_U apa_apa_U sthāta_sthā_PPs2Im sa_sa_U manyavaḥ_manyu_PNM sthi_as_PPr2In rā_rā_SNF cit_cit_U namayiṣṇavaḥ_namayiṣṇu_PNM"
+  },
+  {
+    "index": 4985,
+    "sanskrit": "mucukundaḥ tatas rājā saḥ anvaśāsat vasuṃdharām bāhu vīrya arjitām samyak kṣatra dharmam anuvrataḥ",
+    "english": "King Muchukunda then, fully observing the duties of the Kshatriya order ruled this earth, having conquered it by the prowess of his arms.",
+    "morphology": "mucukundaḥ_mucukunda_SNM tatas_tatas_U rājā_rājan_SNM saḥ_tad_SNM anvaśāsat_anuśās_SPs3In vasuṃdharām_vasuṃdharā_SAF bāhu_bāhu_MCp vīrya_vīrya_NeCp arjitām_arjay_SAPaPsF samyak_samyak_U kṣatra_kṣatra_NeCp dharmam_dharma_SAM anuvra"
+  },
+  {
+    "index": 4986,
+    "sanskrit": "mañjarīvedikāyāñca vidyādikacatuṣṭayaṃ //",
+    "english": "The four principles of learning etc. should be considered as located in the cornice of the temple.",
+    "morphology": "mañjarī_mañjarī_Cp vedikāyāḥ_vedikā_SBF ca_ca_ vidyā_vidyā_Cp ādika_ādika_Cp catuṣṭayam_catuṣṭaya_SNNe  /"
+  },
+  {
+    "index": 4987,
+    "sanskrit": "vasu pradāya ca tatas pradakṣiṇam avartata",
+    "english": "And making unto them presents also of wealth, he went round them.",
+    "morphology": "vasu_vasu_SANe pradāya_pradā_Co"
+  },
+  {
+    "index": 4988,
+    "sanskrit": "śailendravedarandhraiś ca aṅgalepājjale vaset //",
+    "english": "One can remain in waters by besmearing limbs with the herbs denoted by Saila Indra , veda and randhra .",
+    "morphology": "śailendra_śailendra_Cp veda_veda_Cp randhraiḥ_randhra_PINe ca_ca_ aṅga_aṅga_Cp lepāt_lepa_SBM jale_jala_SLNe vaset_vas_SPr3O  /"
+  },
+  {
+    "index": 4989,
+    "sanskrit": "namaḥ kṛṣṇāya śarvāya tripurāṃtaka hāriṇe | aghorāya namaste'stu namaste puruṣāya te || 77 ||",
+    "english": "77. Obeisance to Kṛṣṇa, to Śarva, to the destroyer of Tripuras. Obeisance to Aghora; obeisance to you, the Puruṣa.",
+    "morphology": "namaḥ_namas_SNNe kṛṣṇāya_kṛṣṇa_SDM śarvāya_śarva_SDM tripurāṃtaka_tripurāṃtaka_SVM hāriṇe_hārin_SDM  / aghorāya_aghora_SDM namaḥ_namas_SNNe te_tvad_SD astu_as_SPr3Im namaḥ_namas_SNNe te_tvad_SD puruṣāya_puruṣa_SDM te_t"
+  },
+  {
+    "index": 4990,
+    "sanskrit": "divaḥ pīyūṣam pūrvyam yat ukthyam mahaḥ gāhāt divaḥ ā niḥ adhukṣata indram abhi jāyamānam sam asvaran",
+    "english": "They have drained forth from out the great depth of the sky the old primeval milk of heaven that claims the laud: They lifted up their voice to Indra athis birth.",
+    "morphology": "divaḥ_div_SGM pīyūṣam_pīyūṣa_SNNe pūrvyam_pūrvya_SNNe yat_yat_U ukthyam_ukthya_SAM mahaḥ_mah_SGM gāhāt_gāh_SPr3Su divaḥ_div_SBM ā_ā_U niḥ_niḥ_U adhukṣata_duh_PPs3In indram_indra_SAM abhi_abhi_U jāyamānam_jan_SAPaPrM sam_sam_U a"
+  },
+  {
+    "index": 4991,
+    "sanskrit": "manasi naṣṭe sati saṃskārodbodhakasya bāhyanimittasyāpratītau vāsanā kṣīyate, kṣīṇāyāṃ ca vāsanāyāṃ hetvabhāvena krodhādivṛtyanudayānmano naśyati /",
+    "english": "The mind having been dissolved the external causeswhich arouse the impressions — are not perceived hence vāsanās are wiped out. And when the vāsanās —the latent impressions—are destroyed, mental transformations such as anger etc. do not occur due to the absence of their cause, hence the dissolution of the mind.",
+    "morphology": "manasi_manas_SLNe naṣṭe_naś_SLPaNe sati_as_SLPaPrNe saṃskāra_saṃskāra_Cp udbodhakasya_udbodhaka_SGNe bāhya_bāhya_Cp nimittasya_nimitta_SGNe apratītau_apratīti_SLF vāsanā_vāsanā_SNF kṣīyate_kṣi_SPr3InPv kṣīṇāyām_kṣi_SLPaF ca"
+  }
+]

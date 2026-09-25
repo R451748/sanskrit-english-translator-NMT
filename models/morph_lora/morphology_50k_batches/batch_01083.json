@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8656,
+    "sanskrit": "tat śiraḥ nyapatat bhūmau su mahat citravarmaṇaḥ yadṛcchayā yathā candraḥ cyutaḥ svargāt mahī tale",
+    "english": "That blazing head of Citrasena fell down on the ground, like the moon loosened from the firmament upon the Earth at will.",
+    "morphology": "tat_tad_SNNe śiraḥ_śiras_SNNe nyapatat_nipat_SPs3In bhūmau_bhūmi_SLF su_su_U mahat_mahat_SNNe citravarmaṇaḥ_citravarman_SGM yadṛcchayā_yadṛcchā_SIF yathā_yathā_U candraḥ_candra_SNM cyutaḥ_cyu_SNPaPsM svargāt_svarga_SBM mahī_mahī_FC"
+  },
+  {
+    "index": 8657,
+    "sanskrit": "harī iti nu asya yā vane vide vasu indraḥ maghaiḥ magha vā vr̥tra hā bhuvat r̥bhuḥ vājaḥ r̥bhukṣāḥ patyate śavaḥ ava kṣṇaumi dāsasya nāma c it",
+    "english": "The treasure which his Bay Steeds found at sacrifice,– this wealth made opulent Indra slayer of the foe. R̥ibhu, R̥ibhukshan, Vâja-he is Lord of Might. The Dâsa's very name I utterly destroy.",
+    "morphology": "harī_hari_DuNM iti_iti_U nu_nu_U asya_idam_SGM yā_yad_PNNe vane_vana_SLNe vide_vid_SPr3In vasu_vasu_SNNe indraḥ_indra_SNM maghaiḥ_magha_PIM magha_magha_MCp vā_vā_SNM vr̥tra_vratra_NeCp hā_han_SNM bhuvat_bhū_SPs3 r̥bhuḥ_r̥bhu_SNM vājaḥ_vā"
+  },
+  {
+    "index": 8658,
+    "sanskrit": "mamāpi yena tripuraṃ samare jayakāṃkṣiṇaḥ | jayāśā pūritā stutyā bahumodakadānataḥ || 10 ||",
+    "english": "10. When I was desirous of victory in the battle with Tripuras, my hope thereof was fulfilled by the offer of eulogy and many gifts of Modakas (sweetmeats) here.",
+    "morphology": "mama_mad_SG api_api_ yena_yad_SIM tripuram_tripura_SNNe samare_samara_SLNe jaya_jaya_Cp kāṃkṣiṇaḥ_kāṅkṣin_SGM  / jaya_jaya_Cp āśā_āśā_SNF pūritā_pūray_SNPaF stutyā_stu_SNFGd bahu_bahu_Cp modaka_modaka_Cp dānataḥ_dāna_SBNe"
+  },
+  {
+    "index": 8659,
+    "sanskrit": "sāṃkhya prasādaḥ durvāsāḥ sarva sādhu niṣevitaḥ",
+    "english": "Thou art Durvasas.",
+    "morphology": "sāṃkhya_sāṃkhya_NeCp prasādaḥ_prasāda_SNM durvāsāḥ_durvāsas_SNM sarva_sarva_Cp sādhu_sādhu_Cp niṣevitaḥ_niṣev_SNPaPsM"
+  },
+  {
+    "index": 8660,
+    "sanskrit": "anubhayapakṣe vastutvahāniprasaṅgaḥ /",
+    "english": "If the thing be held to be neither the one nor the other, then it ceases to be an entity.",
+    "morphology": "__anubhaya_U __pakṣa_U __vastu_U __tva_U __hāni_U __prasaṅga_U"
+  },
+  {
+    "index": 8661,
+    "sanskrit": "tathāhi bahavaḥ svapnamekaṃ paśyanti mānavāḥ / svāpabhramadamaireyamadamantharacittavat //",
+    "english": "In this manner many men see at once the same dream, as the giddy heads of drunken men, fall equally into the same kind of dizziness at the same time, of seeing the earth and skies turning and rolling round them.",
+    "morphology": "tathā_tathā_ hi_hi_ bahavaḥ_bahu_PNM svapnam_svapna_SAM ekam_eka_SAM paśyanti_paś_PPr3In mānavāḥ_mānava_PNM  / svāpa_svāpa_Cp bhrama_bhrama_Cp da_da_Cp maireya_maireya_Cp mada_mada_Cp manthara_manthara_Cp citta_citta_Cp vat_vat_"
+  },
+  {
+    "index": 8662,
+    "sanskrit": "teṣāṃ ca rājye 'stu śamo yathāvatprāpto vanaṃ nāhamaniścayena | chittvā hi pāśaṃ gṛhabaṃdhusaṃjñaṃ muktaḥ punarna pravivikṣurasmi ||",
+    "english": "Or let it be conceded they duly attained quietude while holding kingship, still I have not gone to the forest with an undecided mind; for having cut through the net known as home and kindred I am freed and have no intention of re-entering the net.”",
+    "morphology": "teṣām_tad_PGM ca_ca_ rājye_rājya_SLNe astu_as_SPr3Im śamaḥ_śama_SNM yathāvat_yathāvat_ prāptaḥ_prāp_SNPaM vanam_vana_SANe na_na_ aham_mad_SN aniścayena_aniścaya_SIM  / chittvā_chid_Co hi_hi_ pāśam_pāśa_SAM gṛha_gṛha_Cp bandhu_band"
+  },
+  {
+    "index": 8663,
+    "sanskrit": "prāc mukhaḥ saha gāndhāryā kuntyā ca upāviśat tadā",
+    "english": "Facing the east, he sat down, with Gandhari and Kunti.",
+    "morphology": "prāc_prāñc_Cp mukhaḥ_mukha_SNM saha_saha_U gāndhāryā_gāndhārī_SIF kuntyā_kuntī_SIF ca_ca_U upāviśat_upaviś_SPs3In"
+  }
+]

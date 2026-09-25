@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10432,
+    "sanskrit": "atha atas pramehanidānam vyākhyāsyāmaḥ",
+    "english": "Now we shall discourse on the Nidana of Prameha (diseases of the urinary tracts), 1.",
+    "morphology": "atha_atha_U"
+  },
+  {
+    "index": 10433,
+    "sanskrit": "medasaḥ sneham ādāya sirā snāyu tvam āpnuyāt",
+    "english": "The Vayu, combined with heat (Pitta) in adequate proportion, rends through the internal channels into the flesh and transforms them into muscles (Peshi).",
+    "morphology": "medasaḥ_medas_SGNe"
+  },
+  {
+    "index": 10434,
+    "sanskrit": "tannimittaṃ samutpanno vivādaścāvayor dvayoḥ / ahaṃ javādhikāṃ vacmi hastinīṃ turagāvayam //",
+    "english": "and a dispute has arisen between us about them. I say that the elephant is the fleetest, he maintains that his horses are both fleeter.",
+    "morphology": "tad_tad_Cp nimittam_nimitta_SANe samutpannaḥ_samutpad_SNPaM vivādaḥ_vivāda_SNM ca_ca_ āvayoḥ_mad_DuG dvayoḥ_dvi_DuGM  / aham_mad_SN java_java_Cp adhikām_adhika_SAF vacmi_vac_SPr1In hastinīm_hastinī_SAF turaga_turaga_Cp avayam_avayam_SNNe  /"
+  },
+  {
+    "index": 10435,
+    "sanskrit": "daśamīdivase tasya rātrau ca gajapṛṣṭhigaḥ | dundubhistāḍyamānastu babhrāma sakalaṃ puram || 25 || pratyūṣe vaiṣṇavaṃ bhāvi pāpahāri ca vāsaram | upavāsaḥ prakarttavyo muktvā vṛddhaṃ ca bālakam | anyathā nigrahiṣyāmi bhojanaṃ yaḥ kariṣyati || 26 ||",
+    "english": "25-26. On the Daśamī day (the tenth lunar day) at night would be beaten his big wardrum installed on the back of an elephant and taken around the entire city, which proclaimed: “At daybreak it shall be the sin-destroying day of Viṣṇu. All, excepting the aged and children, should observe fast. If anyone takes food I will punish him.”",
+    "morphology": "daśamī_daśamī_Cp divase_divasa_SLM tasya_tad_SGM rātrau_rātri_SLF ca_ca_ gajapṛṣṭhi_gajapṛṣṭhin_Cp gaḥ_ga_SNM  / dundubhiḥ_dundu_PIM tāḍyamānaḥ_tāḍay_SNPaPrMPv tu_tu_ babhrāma_bhram_SPs3In sakalam_sakala_SANe puram_pura_SANe"
+  },
+  {
+    "index": 10436,
+    "sanskrit": "āpo devīr bṛhatīr viśvaśambhuvo dyāvāpṛthivī urv antarikṣam bṛhaspatir no haviṣā vṛdhātu svāhā viśve devasya netur marto vṛṇīta sakhyaṃ |",
+    "english": "O ye divine, vast, all-sootbing waters! Heaven and earth, wide atmosphere! May Brhaspati rejoice in our oblation, hail! Let every man choose the companionship Of the god who leadeth.",
+    "morphology": "āpaḥ_ap_PVF devīḥ_devī_PVF bṛhatīḥ_bṛhat_PVF viśva_viśva_Cp śambhuvaḥ_śambhū_PVF dyāvāpṛthivī_dyāvāpṛthivī_DuVF uru_uru_SNNe antarikṣam_antarikṣa_SNNe bṛhaspatiḥ_bṛhaspati_SNM naḥ_mad_PA haviṣā_havis_SINe vṛd"
+  },
+  {
+    "index": 10437,
+    "sanskrit": "darbhāgrabhinnacaraṇāstāpakhinnāṅgasaṃdhayaḥ / ullaṅghya dūramadhvānaṃ dhūlidhūsaramūrtayaḥ //",
+    "english": "The soles of their feet were bruised by the blades of grass, and the joints of their bodies, were weakened by the heat of the sun; while their fair forms were covered with dust flying from the ground on their lonesome journey.",
+    "morphology": "darbha_darbha_Cp agra_agra_Cp bhinna_bhid_PaCp caraṇāḥ_caraṇa_PNM tāpa_tāpa_Cp khinna_khid_PaCp aṅga_aṅga_Cp saṃdhayaḥ_saṃdhi_PNM  / ullaṅghya_ullaṅghay_Co dūram_dūra_SAM adhvānam_adhvan_SAM dhūli_dhūli_SIM dhūsara_dhūsara_Cp "
+  },
+  {
+    "index": 10438,
+    "sanskrit": "sva karma nirataḥ siddhim yathā vindati tat śṛṇu",
+    "english": "Hear now how one obtains perfection by application to his duties.",
+    "morphology": "sva_sva_Cp karma_karman_NeCpU"
+  },
+  {
+    "index": 10439,
+    "sanskrit": "atra mandara kuñjeṣu vipra ṛṣi sadaneṣu ca gandharvāḥ gānti gāthāḥ vai citta buddhi harāḥ dvija",
+    "english": "Here, O Brahmana, in the bowers on the breast of Mandara and in the abodes of regenerate Rishis, the Gandharvas chant psalms, stealing away both the heart and the intellect.",
+    "morphology": "atra_atra_U mandara_mandara_MCp kuñjeṣu_kuñja_PLM vipra_vipra_MCp ṛṣi_ṛṣi_MCp sadaneṣu_sadana_PLNe ca_ca_U gandharvāḥ_gandharva_PNM"
+  }
+]

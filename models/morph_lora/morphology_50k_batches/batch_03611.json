@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28880,
+    "sanskrit": "purā tuṣa agnau iva hūyate haviḥ",
+    "english": "O, see that the clarified butter is not poured into an unigniting fire of paddy chaff;",
+    "morphology": "purā_purā_U"
+  },
+  {
+    "index": 28881,
+    "sanskrit": "avaghoṣaṇeti pratijñā /",
+    "english": "‘Proclamation’ Proposition, Conclusion.",
+    "morphology": "avaghoṣaṇā_avaghoṣaṇā_SNF iti_iti_"
+  },
+  {
+    "index": 28882,
+    "sanskrit": "āvayostvaṃ mahābhāge khyātiṃ caiva gamiṣyasi | manorvaśakaraḥ putrastvameva ca bhaviṣyasi ||",
+    "english": "12. O blessed lady, you will attain our fame. You alone will become the son establishing the family of Manu.",
+    "morphology": "āvayoḥ_mad_DuG tvam_tvad_SN mahābhāge_mahābhāga_SVF khyātim_khyāti_SAF ca_ca_ eva_eva_ gamiṣyasi_gam_SFu2In  / manoḥ_manu_SGM vaśa_vaśa_Cp karaḥ_kara_SNM putraḥ_putra_SNM tvam_tvad_SN eva_eva_ ca_ca_ bhaviṣyasi_bhū_SFu2In  /"
+  },
+  {
+    "index": 28883,
+    "sanskrit": "tatra śaile bṛhatkānte sthūlaḥ pārśveṣu cābhitaḥ / gambhīrakukṣiḥ sudṛḍhaścopalāhananakṣamaḥ //",
+    "english": "There was on one side of the mount of Meru, a projected rock with a deep cavern in it; the passage of which was not obstructed by the heaps of stones which lay before it.",
+    "morphology": "tatra_tatra_ śaile_śaila_SLM bṛhat_bṛhat_Cp kānte_kānta_SLM sthūlaḥ_sthūla_SNM pārśveṣu_pārśva_PLNe ca_ca_ abhitas_abhitas_  / gambhīra_gambhīra_Cp kukṣiḥ_kukṣi_SNM su_su_ dṛḍhaḥ_dṛḍha_SNM ca_ca_ upala_upala_Cp āhanana_"
+  },
+  {
+    "index": 28884,
+    "sanskrit": "svarbhānostu prabhā kanyā śarmiṣṭhā vārṣaparvaṇī / upadānī hayaśiraḥ prakhyātā varakanyakāḥ //",
+    "english": "Swarbhānu had a daughter named Prabhā and Śarmiṣṭhā was the daughter of Vṛṣaparvan, as were Upadānavī and Hayaśirā.",
+    "morphology": "svarbhānoḥ_svarbhānu_SGM tu_tu_ prabhā_prabhā_SNF kanyā_kanyā_SNF śarmiṣṭhā_śarmiṣṭhā_SNF vārṣaparvaṇī_vārṣaparvaṇī_SNF  / upadānī_upadānī_SNF hayaśiraḥ_hayaśiras_SNNe prakhyātāḥ_prakhyā_PNPaF vara_vara_Cp kanya"
+  },
+  {
+    "index": 28885,
+    "sanskrit": "dharmamūrtidharāsteṣāṃ tapo ye paramaṃ gatāḥ | teṣāṃ nāmāni lokāṃśca kīrtayiṣyāmi tacchṛṇu || 15 ||",
+    "english": "Those among them who assume Dharmamūrtis have attained the great penance. I shall announce their names and worlds. Listen to it.",
+    "morphology": "dharma_dharma_Cp mūrti_mūrti_Cp dharāḥ_dhara_PNM teṣām_tad_PGM tapaḥ_tapas_SANe ye_yad_PNM paramam_parama_SANe gatāḥ_gam_PNPaM  / teṣām_tad_PGM nāmāni_nāman_PANe lokān_loka_PAM ca_ca_ kīrtayiṣyāmi_kīrtay_SFu1In tat_tad_SANe śṛ"
+  },
+  {
+    "index": 28886,
+    "sanskrit": "tisrastu saṃgatāstatra srotasvinyo ghaṭodbhava | tisraḥ kalmaṣahāriṇyo dakṣiṇe hi trilocanāt || 5 ||",
+    "english": "5. O Pot-born One, three streams have their confluence there. All the three dispel sins. (They flow) to the south of Trilocana.",
+    "morphology": "tisraḥ_tri_PNF tu_tu_ saṃgatāḥ_saṃgam_PNPaF tatra_tatra_ srotasvinyaḥ_srotasvinī_PNF ghaṭodbhava_ghaṭodbhava_SVM  / tisraḥ_tri_PNF kalmaṣa_kalmaṣa_Cp hāriṇyaḥ_hārin_PNF dakṣiṇe_dakṣiṇa_SLM hi_hi_ trilocanāt_trilocana_SB"
+  },
+  {
+    "index": 28887,
+    "sanskrit": "sahasrā te śatā vayam gavām ā cyāvayāmasi asma trā rādhaḥ etu te",
+    "english": "We make a hundred of thy kine, yea, and a thousand, hasten nigh: So let thy bounty come to us.",
+    "morphology": "sahasrā_sahasra_PANe te_tvad_SG śatā_śata_PANe vayam_mad_PN gavām_go_PGM ā_ā_U cyāvayāmasi_cyāvay_PPr1In asma_mad_PA trā_trā_U rādhaḥ_rādhas_SNNe etu_i_SPr3Im te_tvad_SG"
+  }
+]

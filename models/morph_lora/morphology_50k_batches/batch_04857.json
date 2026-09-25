@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38848,
+    "sanskrit": "svāduḥ te astu saṃsude madhumān tanve tava / somaḥ śam astu te hṛde /",
+    "english": "Sweet to thy body let it be, delicious be the savoury juice. Sweet be the Soma to thy heart.",
+    "morphology": "svāduḥ_svādu_SNM te_tvad_SD astu_as_SPr3Im saṃsude_saṃsud_In madhumān_madhumat_SNM tanve_tanū_SDF tava_tvad_SG  / somaḥ_soma_SNM śam_śam_SNNe astu_as_SPr3Im te_tvad_SG hṛde_hṛd_SDNe"
+  },
+  {
+    "index": 38849,
+    "sanskrit": "pūjitaḥ ca pratiyayau nivartya tanayām kila",
+    "english": "And worshipped by Drupada (as long as he stayed), the Dasarnaka king then departed, having rebuked his daughter.",
+    "morphology": "pūjitaḥ_pūjay_SNPaPsM ca_ca_U pratiyayau_pratiyā_SPs3In nivartya_nivartay_Co"
+  },
+  {
+    "index": 38850,
+    "sanskrit": "devatā atithi pūjāsu guru śuśrūṣaṇe ratā",
+    "english": "who is devoted to the worship of the gods and guests;",
+    "morphology": "devatā_devatā_SNF atithi_atithi_MCp pūjāsu_pūjā_PLF guru_guru_MCp śuśrūṣaṇe_śuśrūṣaṇa_SLNe ratā_ram_SNPaPsF"
+  },
+  {
+    "index": 38851,
+    "sanskrit": "bāṇa uvāca pramāthagaṇavaṃśasya prathamaḥ syām ahaṃ vibho / mahākāla iti khyātaḥ khyātiṃ gaccheyam īśvara //",
+    "english": "If you wish you may pray for the fourth boon. Vāna said:— lord, may be the first of the families of Pramathas and be renowned forever under the name of Mahākāla –.",
+    "morphology": "bāṇaḥ_bāṇa_SNM uvāca_vac_SPs3In pramātha_pramātha_Cp gaṇa_gaṇa_Cp vaṃśasya_vaṃśa_SGM prathamaḥ_prathama_SNM syām_as_SPr1O aham_mad_SN vibho_vibhu_SVM  / mahākālaḥ_mahākāla_SNM iti_iti_ khyātaḥ_khyā_SNPaM khyātim_khyāti_S"
+  },
+  {
+    "index": 38852,
+    "sanskrit": "citrāṅgadam kauravāṇām aham rājye abhyaṣecayam vicitravīryam ca śiśum yauvarājye abhyaṣecayam",
+    "english": "I then installed Chitrangada in the sovereignty of the Kauravas, making at the same time the child Vichitravirya the Yuvaraja.",
+    "morphology": "citrāṅgadam_citrāṅgada_SAM kauravāṇām_kaurava_PGM aham_mad_SN rājye_rājya_SLNe abhyaṣecayam_abhiṣecay_SPs1In vicitravīryam_vicitravīrya_SAM ca_ca_U śiśum_śiśu_SAM yauvarājye_yauvarājya_SLNe abhyaṣecayam_abhiṣecay_SPs1In"
+  },
+  {
+    "index": 38853,
+    "sanskrit": "naimiṣāraṇyatopīha sarvasminkṣitimaṃḍale | sarvebhyopi hi tīrthebhyastīrtharājo viśiṣyate || 58 ||",
+    "english": "58. On the entire earth Tīrtharāja Prāyāga is the most excellent one among all the holy places, even greater than Naimiṣāraṇya.",
+    "morphology": "naimiṣa_naimiṣa_Cp araṇyataḥ_araṇya_SBNe api_api_ iha_iha_ sarvasmin_sarva_SLM kṣiti_kṣiti_Cp maṇḍale_maṇḍala_SLM  / sarvebhyaḥ_sarva_PBNe api_api_ hi_hi_ tīrthebhyaḥ_tīrtha_PBNe tīrtharājaḥ_tīrtharāja_SNM viśiṣyate_vi"
+  },
+  {
+    "index": 38854,
+    "sanskrit": "vyākhyātam pūrva kalpena maśaka udumbaram yathā",
+    "english": "It has been explained, by what has been said in a previous portion of the discourse where it has been pointed out, that they exist after the manner of the Gnat and the Udumbara.",
+    "morphology": "vyākhyātam_vyākhyā_SNPaPsNe pūrva_pūrva_Cp kalpena_kalpa_SIM maśaka_maśaka_MCp udumbaram_udumbara_SNNe yathā_yathā_"
+  },
+  {
+    "index": 38855,
+    "sanskrit": "duḥkhena mṛtyumāpannastasminneva jalāśaye | atha sā bhartṛśokācca maraṇe kṛtaniścayā || 13 ||",
+    "english": "13. With sorrow, he embraced death in that condition in the pond. On her part, overwhelmed with grief for the husband’s death, she decided to die.",
+    "morphology": "duḥkhena_duḥkha_SINe mṛtyum_mṛtyu_SAM āpannaḥ_āpad_SNPaM tasmin_tad_SLM eva_eva_ jalāśaye_jalāśaya_SLM  / atha_atha_ sā_tad_SNF bhartṛ_bhartṛ_Cp śokāt_śoka_SBM ca_ca_ maraṇe_maraṇa_SLNe kṛta_kṛ_PaCp niścayā_niścaya_SNF"
+  }
+]

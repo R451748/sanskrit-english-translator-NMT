@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5264,
+    "sanskrit": "droṇam drauṇim ca karṇam ca vivyādha tava ca ātmajam",
+    "english": "Indeed, O king, Dhrishtadyumna, in that dreadful battle, quickly pierced Drona himself, and Karna, and Drona's son, and thy son.",
+    "morphology": "droṇam_droṇa_SAM drauṇim_drauṇi_SAM ca_ca_U karṇam_karṇa_SAM ca_ca_U"
+  },
+  {
+    "index": 5265,
+    "sanskrit": "ut īraya pitarā jāraḥ ā bhagam iyakṣati haryataḥ hr̥ttaḥ iṣyati v ivakti vahniḥ su apasyate makhaḥ taviṣyate asuraḥ vepate matī",
+    "english": "Urge thou thy Parents, as a lover ' to delight: the Lovely One desires and craves it from his heart. The priest calls out, the sacrificer shows his skill, the Asura tries his strength, and with the hymn is stirred.",
+    "morphology": "ud_ud_U īraya_īray_SPr2Im pitarā_pitṛ_DuAM jāraḥ_jāra_SNM ā_ā_U bhagam_bhaga_SAM iyakṣati_iyakṣ_SPr3In haryataḥ_haryata_SNM hr̥ttaḥ_hrītta_SNM iṣyati_iṣ_SPr3In u_u_U ivakti_vac_SPr3In vahniḥ_vahni_SNM su_su_U apasyate_apasy_SPr3I"
+  },
+  {
+    "index": 5266,
+    "sanskrit": "prāṇapīḍanaprakāro vakṣyate/",
+    "english": "The way of repressing the prāņa will be dealt with.",
+    "morphology": "__prāṇa_U __pīḍana_U __prakāra_U"
+  },
+  {
+    "index": 5267,
+    "sanskrit": "katham manyeta vijayam tatas jitataraḥ paraiḥ",
+    "english": "How, then, can I regard it as a victory? In reality, I have been doubly defeated by the foe.",
+    "morphology": "katham_katham_U manyeta_man_SPr3O vijayam_vijaya_SAM tatas_tatas_U jitataraḥ_jitatara_SNM paraḥ_para_SNM"
+  },
+  {
+    "index": 5268,
+    "sanskrit": "viśrāmamaṇḍapaṃ yastu kṛtvā dadyāddvijanmane | tasya puṇyaphalaṃ vaktuṃ nāhaṃ śaknomi bhūpate || 31 ||",
+    "english": "31. O king, I am unable to recount the fruit enjoyed by that person who erects a pavilion for rest and recreation and gives it to a Brāhmaṇa.",
+    "morphology": "viśrāma_viśrāma_Cp maṇḍapam_maṇḍapa_SANe yaḥ_yad_SNM tu_tu_ kṛtvā_kṛ_Co dadyāt_dā_SPr3O dvijanmane_dvijanman_SDM  / tasya_tad_SGM puṇya_puṇya_Cp phalam_phala_SANe vaktum_vac_In na_na_ aham_mad_SN śaknomi_śak_SPr1In bhūpate_bhūp"
+  },
+  {
+    "index": 5269,
+    "sanskrit": "udgāṭacamasamekaḥ śrutisaṃyogāt",
+    "english": "Sutra I Only one should eat out of the Udgatri camasa the Cup held by the Udgātri Priest because only one such being directly mentioned.",
+    "morphology": "udgāṭa_udgāṭa_Cp camasam_camasa_SAM ekaḥ_eka_SNM"
+  },
+  {
+    "index": 5270,
+    "sanskrit": "pādapīṭhe kṛteśānāḥ śārṅgikrīḍanakandukāḥ / kālakāpālikāgrastāḥ kimāsthe mayi valgasi //",
+    "english": "I see the juggler of time seizing on Brahmas, Vishnus and Rudras, and making playthings of them on his play ground of the world, and flinging them as balls all about.",
+    "morphology": "pāda_pāda_Cp pīṭhe_pīṭha_SLNe kṛta_kṛ_PaCp īśānāḥ_īśāna_PNM śārṅgi_śārṅgin_Cp krīḍana_krīḍana_Cp kandukāḥ_kanduka_PNM  / kāla_kāla_Cp kāpālikā_kāpālikā_Cp grastāḥ_gras_PNPaM kim_ka_SANe āsthe_āsthā_SLM ma"
+  },
+  {
+    "index": 5271,
+    "sanskrit": "bhūsvarṇavastragonnādi gurave brahmaṇerpayet /",
+    "english": "The priest and the brahmins should be presented with land, gold, clothes, cow and food.",
+    "morphology": "bhū_bhū_Cp svarṇa_svarṇa_Cp vastra_vastra_Cp ga_ga_Cp unnādi_unnādin_SANe gurave_guru_SDM brahmaṇā_brahman_SIM"
+  }
+]

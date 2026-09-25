@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25432,
+    "sanskrit": "tasmāt na vardhayet anyam na ca ātmānam vihiṃsayet",
+    "english": "He should not extol others (being extolled by them) and should never injure themselves.",
+    "morphology": "tasmāt_tasmāt_U"
+  },
+  {
+    "index": 25433,
+    "sanskrit": "brahma loka jitaḥ sarve tapasā brahma vādinaḥ",
+    "english": "Utterers of Brahma, they had by their penances, acquired the privilege of attaining to the regions of Brahman (after death).",
+    "morphology": "brahma_brahman_NeCp loka_loka_MCp jitaḥ_jit_PNM sarve_sarva_PNM tapasā_tapas_SINe brahma_brahman_SANe vādinaḥ_vādin_PNM"
+  },
+  {
+    "index": 25434,
+    "sanskrit": "candra uvāca | ahaṃ śaptastu dakṣeṇa kasmiṃścitkāraṇāṃtare | yakṣmaṇā ca kṣayaṃ nītastasmāttvaṃ trātumarhasi || 61 ||",
+    "english": "Candra said: 61. I have been cursed by Dakṣa for some reason. I have been reduced in size through Phthysis. It behoves you to save me therefrom.",
+    "morphology": "candraḥ_candra_SNM uvāca_vac_SPs3In  / aham_mad_SN śaptaḥ_śap_SNPaM tu_tu_ dakṣeṇa_dakṣa_SIM kasmiṃścid_kaścit_SLNe kāraṇa_kāraṇa_Cp antare_antara_SLNe  / yakṣmaṇā_yakṣman_SIM ca_ca_ kṣayam_kṣaya_SAM nītaḥ_nī_SNPaM tas"
+  },
+  {
+    "index": 25435,
+    "sanskrit": "aputrā jananī te adya kausalyā ca apatiḥ tvayā",
+    "english": "Thy mother hath today been made sonless by thee, and thy spouse, the princess of Kosala, a widow.",
+    "morphology": "aputrā_aputra_SNF jananī_jananī_SNF te_tvad_SG adya_adya_U"
+  },
+  {
+    "index": 25436,
+    "sanskrit": "tau gajau iva ca āsādya viṣāṇa agraiḥ parasparam śaraiḥ pūrṇa āyata utsṛṣṭaiḥ anyonyam abhijaghnatuḥ",
+    "english": "And discharging arrows at each other from bows drawn at their fullest stretch, they resembled two elephants assailing each other with their tusks.",
+    "morphology": "tau_tad_DuNM gajau_gaja_DuNM iva_iva_U ca_ca_U āsādya_āsāday_Co viṣāṇa_viṣāṇa_NeCp agraiḥ_agra_PIM parasparam_paraspara_SAM śaraiḥ_śara_PIM pūrṇa_pṛ_PaPsCp āyata_āyam_PaPsCp utsṛṣṭaiḥ_utsṛj_PIPaPsM anyonyam_anyonya_SAM "
+  },
+  {
+    "index": 25437,
+    "sanskrit": "tadasiddhau na tasmāt kāryotpattiratiśayād eva kāryotpatteḥ //",
+    "english": "and when this cannot be established, then the effect would be produced not from the Permanent Thing, but from the Condition itself.",
+    "morphology": "tad_tad_Cp asiddhau_asiddhi_SLF na_na_ tasmāt_tad_SBM kārya_kārya_Cp utpattiḥ_utpatti_SNF atiśayāt_atiśaya_SBM eva_eva_ kārya_kārya_Cp utpatteḥ_utpatti_SBF  /"
+  },
+  {
+    "index": 25438,
+    "sanskrit": "tadākṛṣṭirvidhātavyā pāṇibhyāmiha balgayā //",
+    "english": "Then it should be drawn forward with the hands by means of the bridle.",
+    "morphology": "tad_tad_Cp ākṛṣṭiḥ_ākṛṣṭi_SNF vidhātavyā_vidhā_SNFGd pāṇibhyām_pāṇi_DuIM iha_iha_ balgayā_balgā_SIF  /"
+  },
+  {
+    "index": 25439,
+    "sanskrit": "mahattvameṣāṃ sarvānyarūpāśrayatvenaudārikatvāt /",
+    "english": "They are called “great” because they aṟe the point of support for allderived matter.",
+    "morphology": "mahā_mahat_Cp tvam_tva_SNNe eṣām_idam_PGM sarva_sarva_Cp anya_anya_Cp rūpa_rūpa_Cp āśraya_āśraya_Cp tvena_tva_SINe audārika_audārika_Cp tvāt_tva_SBNe  /"
+  }
+]

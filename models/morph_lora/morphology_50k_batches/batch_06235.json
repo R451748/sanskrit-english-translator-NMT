@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49872,
+    "sanskrit": "surāsuramanuṣyeṣu nāsin na bhavitā kvacit / ya imām āvaset kaścid anyatra madhusūdanāt //",
+    "english": "There is none amongst the gods, Asuras, and men and none will be, except the slayer of Madhu, who will be able to live here –.",
+    "morphology": "sura_sura_Cp asura_asura_Cp manuṣyeṣu_manuṣya_PLM na_na_ āsit_as_SPs3In na_na_ bhavitā_bhū_SFu3InPe kvacid_kvacid_  / yaḥ_yad_SNM imām_idam_SAF āvaset_āvas_SPr3O kaścid_kaścit_SNM anyatra_anyatra_ madhusūdanāt_madhusūdana_SBM  /"
+  },
+  {
+    "index": 49873,
+    "sanskrit": "vihagāśvāsatattvajñaḥ śālmalidvīpaśālmalau / paścimaḥ pakṣiṇīnīḍe krīḍayā nyavasatsamāḥ //",
+    "english": "Going afterwards to the Salmali-dwipa in the west, which abounds in trees of the same name, he dwelt in the society of birds for many years, having been previously instructed in their language, when he had been carried away by Garuda.",
+    "morphology": "vihaga_vihaga_Cp āśvāsa_āśvāsa_Cp tattva_tattva_Cp jñaḥ_jña_SNM śālmali_śālmali_Cp dvīpa_dvīpa_Cp śālmalau_śālmali_SLM  / paścimaḥ_paścima_SNM pakṣiṇī_pakṣiṇī_Cp nīḍe_nīḍa_SLM krīḍayā_krīḍā_SIF nyavasat_nivas"
+  },
+  {
+    "index": 49874,
+    "sanskrit": "dhṛtarāṣṭraḥ uvāca tasmin astre pratihate droṇe ca upadhinā hate tathā duryodhanena uktaḥ drauṇiḥ kim akarot punar",
+    "english": "If thou wishest it not, even Purandara in rage cannot escape thee.' \"Dhritarashtra said, 'After Drona had been slain with the aid of fraud, and the Narayana weapon baffled, what, indeed, did Drona's son, thus urged by Duryodhana then, do, beholding the Parthas once more arrived for battle freed from the Narayana weapon, and careering at the head of their divisions?' \"Sanjaya said, 'Remembering the slaughter of his sire, Drona's son, owning the device of the lion's tail on his banner, filled with rage and casting of all fears, rushed against the son of Prishata.",
+    "morphology": "dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM uvāca_vac_SPs3In tasmin_tad_SLNe astre_astra_SLNe pratihate_pratihan_SLPaPsNe droṇe_droṇa_SLM ca_ca_U upadhinā_upadhi_SIM hate_han_SLPaPsM tathā_tathā_U duryodhanena_duryodhana_SIM uktaḥ_vac_SNPaPsM dr"
+  },
+  {
+    "index": 49875,
+    "sanskrit": "tatas snātaḥ śuciḥ bhūtvā kṛta kautuka maṅgalaḥ snātakānām sahasrasya svarṇa niṣkān adāpayat āśīrvādaiḥ pariṣvaktaḥ sātyakiḥ śrīmatām varaḥ",
+    "english": "Satyaki then, having taken a bath and purified himself and undergone every auspicious ceremony, gave nishkas of gold unto a thousand Snataka Brahmanas who uttered benedictions upon him.",
+    "morphology": "tatas_tatas_U snātaḥ_snā_SNPaPsM śuciḥ_śuci_SNM bhūtvā_bhū_Co kṛta_kṛ_PaPsCp kautuka_kautuka_NeCp maṅgalaḥ_maṅgala_SNM snātakānām_snātaka_PGM sahasrasya_sahasra_SGNe svarṇa_svarṇa_NeCp niṣkān_niṣka_PAM adāpayat_dāpay_SPs"
+  },
+  {
+    "index": 49876,
+    "sanskrit": "uparyuparyantarataḥ kadalīdalapīṭhavat / śliṣṭāśliṣṭasvarūpāḥ khe mithaḥ saṃsṛtayaḥ sthitāḥ //",
+    "english": "These creations are placed over and above and below and under one another, like the coatings of a plantain tree; and they are either in contact with or detached from one another like clouds in the sky.",
+    "morphology": "upari_upari_ upari_upari_ antarataḥ_antarataḥ_ kadala_kadala_Cp dala_dala_Cp pīṭha_pīṭha_Cp vat_vat_  / śliṣṭa_śliṣ_PaCp aśliṣṭa_aśliṣṭa_Cp svarūpāḥ_svarūpa_PNF khe_kha_SLNe mithas_mithas_ saṃsṛtayaḥ_saṃsṛti_PNF s"
+  },
+  {
+    "index": 49877,
+    "sanskrit": "sarvamanyadvijānānaḥ puruṣaḥ kena vāryate //",
+    "english": "What is independent of everything else can never fail to be productive of its effect;",
+    "morphology": "sarvam_sarva_SANe anyat_anya_SANe vijānānaḥ_vijñā_SNPaPrM puruṣaḥ_puruṣa_SNM"
+  },
+  {
+    "index": 49878,
+    "sanskrit": "kurūn ca vipra mukhyān ca bhojayitvā sahasraśas ratna oghān dvijamukhyebhyaḥ dattvā grāma varān api",
+    "english": "And they feasted the Kauravas and thousands of Brahmanas unto whom they also gave gems and lands.",
+    "morphology": "kurūn_kuru_PAM ca_ca_U vipra_vipra_MCp mukhyān_mukhya_PAM ca_ca_U bhojayitvā_bhojay_Co sahasraśas_sahasraśas_U ratna_ratna_NeCp oghān_ogha_PAM dvijamukhyebhyaḥ_dvijamukhya_PDM dattvā_dā_Co grāma_grāma_MCp varān_vara_PAM"
+  },
+  {
+    "index": 49879,
+    "sanskrit": "na hi somaśarmaṇiprakṛte tadguṇābhidhānaṃ parisaṃcaṣṭe viṣṇuśarmaṇo guṇa-vattām |",
+    "english": "Indeed, when Soma Sarman constitutes the topic, the expression of his good qualities does not exclude Vişnu Sarmans possession of good qualities.",
+    "morphology": "na_na_ hi_hi_ somaśarmaṇi_somaśarman_SLM prakṛte_prakṛ_SLPaM tad_tad_Cp guṇa_guṇa_Cp abhidhānam_abhidhāna_SNNe parisaṃcaṣṭe_parisaṃcakṣ_SPr3In viṣṇuśarmaṇaḥ_viṣṇuśarman_SGNe guṇa_guṇa_Cp vat_vat_ tām_tā_SAF"
+  }
+]

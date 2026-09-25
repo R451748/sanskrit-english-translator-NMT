@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7368,
+    "sanskrit": "tasmāt avaplutya rathāt sasarja duḥśāsanaḥ tomaram ugra vegam",
+    "english": "With that weapon, Bhimasena forcibly threw Duhshasana down from his car at a distance measured by the length of ten bows.",
+    "morphology": "tasmāt_tad_SBM avaplutya_avaplu_Co rathāt_ratha_SBM sasarja_sṛj_SPs3In duḥśāsanaḥ_duḥśāsana_SNM tomaram_tomara_SAM ugra_ugra_Cp vegam_vega_SAM"
+  },
+  {
+    "index": 7369,
+    "sanskrit": "muhūrtam śara varṣam tat pratigṛhya pinākadhṛk akṣatena śarīreṇa tasthau giriḥ iva acalaḥ",
+    "english": "But the wielder of the Pinaka, having borne that shower of arrows for a moment, stood unwounded, immovable like a hill.",
+    "morphology": "muhūrtam_muhūrta_SANe śara_śara_MCp varṣam_varṣa_SANe tat_tad_SANe pratigṛhya_pratigrah_Co pinākadhṛk_pinākadhṛk_SNM akṣatena_akṣata_SINe śarīreṇa_śarīra_SINe tasthau_sthā_SPs3In giriḥ_giri_SNM iva_iva_U acalaḥ_acala_SNM"
+  },
+  {
+    "index": 7370,
+    "sanskrit": "aham api atra muhyāmi mama api eṣa manorathaḥ",
+    "english": "The same thought occupies my mind.",
+    "morphology": "aham_mad_SN api_api_U atra_atra_U muhyāmi_muh_SPr1In mama_mad_SG api_api_U eṣa_etad_SNM manorathaḥ_manoratha_SNM"
+  },
+  {
+    "index": 7371,
+    "sanskrit": "nirviṣṭāṃstānniśamyātha samudrāṃte sa yogavit | jagāmāmaṃtrya tānvīrānuddhavorthaviśāradaḥ || 60 ||",
+    "english": "60. Having heard that they had properly settled down on the seashore, Uddhava, well-conversant with the practice of Yoga and proficient in all subjects, took leave of all those heroes.",
+    "morphology": "nirviṣṭān_nirviś_PAPaM tān_tad_PAM niśamya_niśāmay_Co atha_atha_ samudra_samudra_Cp ante_anta_SLM sa_tad_SNM yoga_yoga_Cp vid_vid_SNM  / jagāma_gam_SPs3In āmaṃtrya_āmantray_Co tān_tad_PAM vīrān_vīra_PAM uddhava_uddhava_Cp ūrtha_ūrtha_C"
+  },
+  {
+    "index": 7372,
+    "sanskrit": "manye bhavati me bhartā śuṣkavṛkṣasamasthitiḥ / tathāpi citta kotkaṇṭhā bhavatotkaṇṭhayānvitam //",
+    "english": "I think my husband, who was as fond of me as to form one soul with myself; has become as callous to soft passions, as a dried and withered tree.",
+    "morphology": "manye_man_SPr1In bhavati_bhū_SPr3In me_mad_SG bhartā_bhartṛ_SNM śuṣka_śuṣka_Cp vṛkṣa_vṛkṣa_Cp sama_sama_Cp sthitiḥ_sthiti_SNM  / tathā_tathā_ api_api_ citta_citta_SVM kā_ka_SNF utkaṇṭhā_utkaṇṭhā_SNF bhavatā_bhavat_SIM utka"
+  },
+  {
+    "index": 7373,
+    "sanskrit": "snātvā dattvā yathānyāyaṃ tatrāpi sukṛtī bhavet | tatra devagaṇāḥ sarve sakinnaramahoragāḥ || 65 ||",
+    "english": "64b-65a. There itself is a great river named Viśalyā. By taking holy bath and offering Dāna duly there also, one will become meritorious.",
+    "morphology": "snātvā_snā_Co dattvā_dā_Co yathānyāyam_yathānyāyam_ tatra_tatra_ api_api_ sukṛtī_sukṛtin_SNM bhavet_bhū_SPr3O  / tatra_tatra_ deva_deva_Cp gaṇāḥ_gaṇa_PNM sarve_sarva_PNM sa_sa_ kinnara_kiṃnara_Cp mahā_mahat_Cp uragāḥ_uraga_PNM  "
+  },
+  {
+    "index": 7374,
+    "sanskrit": "yathā tām buddhim āsthāya gatim agryām gamiṣyasi śṛṇu dharma bhṛtām śreṣṭha gadataḥ sarvam eva me",
+    "english": "O foremost of all persons, observant of duty, listen to everything I now say, so that, with an understanding adapted to my teaching, thou mayst succeed in attaining to the highest end.",
+    "morphology": "yathā_yathā_U tām_tad_SAF buddhim_buddhi_SAF āsthāya_āsthā_Co gatim_gati_SAF agryām_agrya_SAF gamiṣyasi_gam_SFu2In śṛṇu_śru_SPr2Im dharma_dharma_MCp bhṛtām_bhṛt_PGM śreṣṭha_śreṣṭha_SVM gadataḥ_gad_SGPaPrM sarvam_sarva_SANe "
+  },
+  {
+    "index": 7375,
+    "sanskrit": "śatasahasrād ūrdhvaṃ rājagāmī nidhiḥ //",
+    "english": "Treasure troves valued beyond 00,000 shall wholly be taken by the king",
+    "morphology": "śata_śata_Cp sahasrāt_sahasra_SBNe ūrdhvam_ūrdhvam_ rāja_rājan_Cp gāmī_gāmin_SNM nidhiḥ_nidhi_SNM  /"
+  }
+]

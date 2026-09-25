@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6232,
+    "sanskrit": "na ca paramātmanā kaścit saṃbandho 'pi /",
+    "english": "In fact, there can be no sort of connection with the Supreme Self.",
+    "morphology": "na_na_ ca_ca_ paramātmanā_paramātman_SIM kaścid_kaścit_SNM "
+  },
+  {
+    "index": 6233,
+    "sanskrit": "tīkṣṇa aṅkuśa śataghnībhiḥ yantra jālaiḥ ca śobhitam",
+    "english": "and the walls were lined with numerous warriors along their whole length.",
+    "morphology": "tīkṣṇa_tīkṣṇa_Cp aṅkuśa_aṅkuśa_MCp śataghnībhiḥ_śataghnī_PIF yantra_yantra_NeCp jālaiḥ_jāla_PINe"
+  },
+  {
+    "index": 6234,
+    "sanskrit": "hetusamutthānaṃ pravartakamākṣepakatvāt /",
+    "english": "The hetusamutthāna projects, that is to say, produces.",
+    "morphology": "hetu_hetu_Cp samutthānam_samutthāna_SNNe pravartakam_pravartaka_SNNe ākṣepaka_ākṣepaka_Cp tvāt_tva_SBNe "
+  },
+  {
+    "index": 6235,
+    "sanskrit": "tad ucyate gakārādivarṇāvagame saty arthapratīter abhāvāt tadabhāve cābhāvāt teṣām evārthapratyāyanasāmarthyam /",
+    "english": "But if they are not presented to our consciousness, we have no knowledge of its meaning. Hence the letters 'g' etc. are competent to communicate a meaning.",
+    "morphology": "tat_tad_SNNe ucyate_vac_SPr3InPv gakāra_gakāra_Cp ādi_ādi_Cp varṇa_varṇa_Cp avagame_avagama_SLM sati_as_SLPaPrM artha_artha_Cp pratīteḥ_pratīti_SGF abhāvāt_abhāva_SBM tad_tad_Cp abhāve_abhāva_SLM ca_ca_ abhāvāt_abhāva_SBM teṣām_tad_P"
+  },
+  {
+    "index": 6236,
+    "sanskrit": "yeṣām saṃkhyā vidhim ca eva pradiśāmi śṛṇomi ca",
+    "english": "It was I however, O lady, who regulated their number and framed the rules to be observed in respect of them;",
+    "morphology": "yeṣām_yad_PGM"
+  },
+  {
+    "index": 6237,
+    "sanskrit": "samutkṛttasarvatvaco vedanārtā vimāṃsīkṛtāḥ kecidapyasthiśeṣāḥ / na cāyānti nāśaṃ dhṛtā duṣkṛtaiḥ svaistathā cāpare khaṇḍaśaśchidyamānāḥ //",
+    "english": "Others again are entirely stripped off their skin, groaning with pain, or are even bereaved of their flesh, living skeletons, but they cannot die, kept alive by their own evil actions. Likewise others who are cut to pieces.",
+    "morphology": "samutkṛtta_samutkṛt_PaCp sarva_sarva_Cp tvacaḥ_tvac_PNM vedanā_vedanā_Cp ārtāḥ_ārta_PNM vimāṃsīkṛtāḥ_vimāṃsīkṛ_PNPaM kecid_kaścit_PNM api_api_ asthi_asthi_Cp śeṣāḥ_śeṣa_PNM  / na_na_ ca_ca_ āyānti_āyā_PPr3In nāśa"
+  },
+  {
+    "index": 6238,
+    "sanskrit": "atha vā cittacaittebhyo'nyatra rūpādayo dravyatvena santīti yad darśanaṃ tat pratiṣedhārtham āha abhūtaparikalpo'sti dravyataḥ /",
+    "english": "Alternatively, in order to refute that false view of those who believe that mind, the mental concomitants and also form exist substantially, he says there is the imagination of what is unreal.",
+    "morphology": "atha_atha_ vā_vā_ citta_citta_Cp caittebhyaḥ_caitta_PBNe anyatra_anyatra_ rūpa_rūpa_Cp ādayaḥ_ādi_PNM dravya_dravya_Cp tvena_tva_SINe santi_as_PPr3In iti_iti_ yat_yad_SNNe darśanam_darśana_SNNe tat_tad_SANe pratiṣedha_pratiṣedha_Cp artham_a"
+  },
+  {
+    "index": 6239,
+    "sanskrit": "ūrg vā udumbara ūrk paśava ūrjaivāsmā ūrjam paśūn ava runddhe |",
+    "english": "the Udumbara is strength, cattle are strength; verily by strength he wins for him strength and cattle.",
+    "morphology": "ūrj_ūrj_SNF vai_vai_ udumbaraḥ_udumbara_SNM ūrj_ūrj_SNF paśavaḥ_paśu_PNM ūrjā_ūrj_SIF eva_eva_ asmai_idam_SDM ūrjam_ūrj_SAF paśūn_paśu_PAM ava_ava_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35352,
+    "sanskrit": "devatā atithi pūrvam ca sadā bhuñjīta vāgyataḥ",
+    "english": "Restraining speech the while, he should eat after gratifying deities and guests.",
+    "morphology": "devatā_devatā_FCp"
+  },
+  {
+    "index": 35353,
+    "sanskrit": "vṛddhaḥ rājā dhṛtarāṣṭraḥ svadharmam na anupaśyati",
+    "english": "The covetous king Dhritarashtra, is now unwilling to observe Kshatriya virtues.",
+    "morphology": "vṛddhaḥ_vṛddha_SNM rājā_rājan_SNM dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM"
+  },
+  {
+    "index": 35354,
+    "sanskrit": "saptame mārutaskaṃdhe va sa nityaṃ priyātmaja | kāryeṣvahaṃ tvayā putra saṃpraṣṭavyaḥ sadaiva hi || 52 || darśanānmama bhaktyā ca śreyaḥ paramavāpsyasi | staṃbhatīrthe ca vatsye'haṃ na vimokṣyāmi karhicit || 53 ||",
+    "english": "53-54. “Dear Son, they stay permanently in the seventh layer of winds.[5] Whenever there is anything to be done, O Son, I should be always consulted. By visiting me and through devotion unto me, you will attain the greatest welfare. I shall stay in Starabhatīrtha. I will never forsake it.”",
+    "morphology": "saptame_saptama_SLM māruta_māruta_Cp skaṃdhe_skandha_SLM sa_tad_SNM nityam_nityam_ priya_priya_Cp ātmaja_ātmaja_SVM  / kāryeṣu_kārya_PLNe aham_mad_SN tvayā_tvad_SI putra_putra_SVM saṃpraṣṭavyaḥ_sampracch_SNMGd sadā_sadā_ eva_eva_ hi_hi"
+  },
+  {
+    "index": 35355,
+    "sanskrit": "yatra bhūmibhāgādau vipratipattir dvābhyāṃ ca bhogasādhanaṃ sākṣiṇo nirdiṣṭāḥ / te a kecid arthino bhogam āhur apare pratyarthinaḥ /",
+    "english": "In a dispute over the possession of land, eg, when several witnesses have been cited in proof of possession, if some depose to possession by the plaintiff, while others to that of the defendant, then the king shall accept the statement of the majority.",
+    "morphology": "yatra_yatra_ bhūmi_bhūmi_Cp bhāga_bhāga_Cp ādau_ādi_SLM vipratipattiḥ_vipratipatti_SNF dvābhyām_dvi_DuIM ca_ca_ bhoga_bhoga_Cp sādhanam_sādhana_SNNe sākṣiṇaḥ_sākṣin_PNM nirdiṣṭāḥ_nirdiś_PNPaM  / te_tad_PNM a_a_ kecid_kaścit_P"
+  },
+  {
+    "index": 35356,
+    "sanskrit": "imaṃ vivāhaṃ girirājaputryāḥ śrṛṇoti cādhyeti ca yo naraḥ śuciḥ | viśeṣataścāpi vivāhamaṃgale sa maṃgalaṃ vṛddhimavāpnute ciram || 96 ||",
+    "english": "The man who listens to, and studies this (description of the) marriage of the daughter of the King of Mountains with great purity, especially in the course of a marriage festival, attains auspiciousness and perpetual prosperity. FOOTNOTES AND REFERENCES: The author has a vague idea about Mt. Gandhamādana. It seems, he believes it to bo a portable mountain for Śiva’s convenience.",
+    "morphology": "imam_idam_SAM vivāham_vivāha_SAM girirājaputryāḥ_girirājaputrī_SGF śrṛṇoti_śru_SPr3In ca_ca_ adhyeti_adhī_SPr3In ca_ca_ yaḥ_yad_SNM naraḥ_nara_SNM śuciḥ_śuci_SNM  / viśeṣataḥ_viśeṣataḥ_ ca_ca_ api_api_ vivāha_vivāha_Cp ma"
+  },
+  {
+    "index": 35357,
+    "sanskrit": "sukhāyāṃ hi vedanāyāṃ rāgo 'nuśete ālambanasaṃprayogābhyām /",
+    "english": "Lust creates aṉuśayana, that is, “becomes lodged in and grows” in agreeable sensation, both by taking it as its object and by associatioṇ;",
+    "morphology": "sukhāyām_sukha_SLF hi_hi_ vedanāyām_vedanā_SLF rāgaḥ_rāga_SNM anuśete_anuśī_SPr3In ālambana_ālambana_Cp saṃprayogābhyām_saṃprayoga_DuIM "
+  },
+  {
+    "index": 35358,
+    "sanskrit": "tad u ha jānaśrutiḥ pautrāyaṇa upaśuśrāva /",
+    "english": "Janaśruti’s greatgrandson overheard this;",
+    "morphology": "taḥ_tad_SNM u_u_ ha_ha_ jānaśrutiḥ_jānaśruti_SNM pautrāyaṇaḥ_pautrāyaṇa_SNM upaśuṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇṇ"
+  },
+  {
+    "index": 35359,
+    "sanskrit": "na hi vidhirbhāvanāmutsṛjya dhātvarthe nipatati, na ca bhāvanāṃ mukkā 'nyatra puruṣaḥ pravarttate /",
+    "english": "It may be argued thatno Injunction could ever give up the Bhāvanā and the Rootmeaning, and betake itself to the Dadhi as held by you. This is quite true but we do not dissociate the Injunction. from the Bhāvanā altogether what we mean is that the accessorydadhi is touched by the Injunction as pertaining to the Bhāvanā specially as the caseending indadhna serves to throw that accessory into the Bhāvanā.",
+    "morphology": "na_na_ hi_hi_ vidhiḥ_vidhi_SNM bhāvanām_bhāvanā_SAF utsṛjya_utsṛj_Co dhātvarthe_dhātvartha_SLM nipatati_nipat_SPr3In na_na_ ca_ca_ bhāvanām_bhāvanā_SAF mukkā_muc_Co"
+  }
+]

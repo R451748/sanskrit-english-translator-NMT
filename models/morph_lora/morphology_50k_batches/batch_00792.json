@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6328,
+    "sanskrit": "śakyaḥ vihantum naradeva śokaḥ",
+    "english": "For, O king, if we dwell in this region like unto heaven itself, we shall forget our sorrows.",
+    "morphology": "śakyaḥ_śakya_SNM"
+  },
+  {
+    "index": 6329,
+    "sanskrit": "kṛṣṇasya rādhikāyāśca priyaṃ tatkrīḍanasthalam | kalpadrumālibhī ramyaṃ sarobhiśca sapaṅkajaiḥ || 32 ||",
+    "english": "32. It was the playground favourite with Kṛṣṇa and Rādhā. It was beautiful on account of the rows of wish-yielding trees and lakes with blooming lotuses.",
+    "morphology": "kṛṣṇasya_kṛṣṇa_SGM rādhikāyāḥ_rādhikā_SGF ca_ca_ priyam_priya_SANe tad_tad_Cp krīḍana_krīḍana_Cp sthalam_sthala_SANe  / kalpadruma_kalpadruma_Cp ālibhiḥ_āli_PINe ramyam_ramya_SANe sarobhiḥ_saras_PINe ca_ca_ sa_sa_ paṅkajai"
+  },
+  {
+    "index": 6330,
+    "sanskrit": "suvarṇavarṇaḥ hemāṅgaḥ varāṅgaḥ candanāṅgadī",
+    "english": "He whose limbs are like gold (in hue); He that is possessed of beautiful limbs; He whose person is decked with Angadas made with sandal-paste;",
+    "morphology": "__suvarṇavarṇa_U __hemāṅga_U __varāṅga_U __candanāṅgadin_U"
+  },
+  {
+    "index": 6331,
+    "sanskrit": "na cātrāhampratyaye nityatvādipratibhāso lakṣyate /",
+    "english": "not the slightest manifestation of these characters is perceived in ‘I-consciousness’;",
+    "morphology": "na_na_ ca_ca_ atra_atra_ ahampratyaye_ahampratyaya_SLM nitya_nitya_Cp tva_tva_Cp ādi_ādi_Cp pratibhāsaḥ_pratibhāsa_SNM lakṣyate_lakṣay_SPr3InPv  /"
+  },
+  {
+    "index": 6332,
+    "sanskrit": "nāmadheyāni ratnānām purastāt na śrutāni me yāni dṛṣṭāni me tasyām manaḥ tapati tat ca me",
+    "english": "And, O king I had not even heard of the names of those gems that I saw in that mansion.",
+    "morphology": "nāmadheyāni_nāmadheya_PNNe ratnānām_ratna_PGNe purastāt_purastāt_U na_na_U śrutāni_śru_PNPaPsNe me_mad_SG yāni_yad_PNNe dṛṣṭāni_dṛś_PNPaPsNe me_mad_SG tasyām_tad_SLF manaḥ_manas_SNNe tapati_tap_SPr3In tat_tad_SNNe ca_ca_U"
+  },
+  {
+    "index": 6333,
+    "sanskrit": "bhinddhi darbha sapatnānām hṛdayam dviṣatām maṇe / udyan tvacam iva bhūmyāḥ śiraḥ eṣām vi pātaya //",
+    "english": "Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou and batter down their heads like growth that coverethl the earth.",
+    "morphology": "bhinddhi_bhid_SPr2Im darbha_darbha_SVM sapatnānām_sapatna_PGM hṛdayam_hṛdaya_SANe dviṣatām_dviṣ_PGPaPrM maṇe_maṇi_SVM  / udyan_udi_SNPaPrM tvacam_tvac_SAF iva_iva_U bhūmyāḥ_bhūmi_SGF śiraḥ_śiras_SANe eṣām_idam_PGM vi_vi_U pātaya"
+  },
+  {
+    "index": 6334,
+    "sanskrit": "vaidharmyeṇa śrotrādi /",
+    "english": "the Ear, etc. being the Corroborative Instance per dissimilarity.",
+    "morphology": "vaidharmyeṇa_vaidharmya_SINe śrotra_śrotra_Cp ādi_ādi_SNNe "
+  },
+  {
+    "index": 6335,
+    "sanskrit": "ete gaṇādhipāścānye mahānmāno'malaprabhāḥ | jagmustatra mahāprītyā śivadarśanalālasāḥ ||",
+    "english": "29. The Gaṇa chiefs[3] and other noble souls of spotless splendour eagerly reached there desirous of seeing Śiva.",
+    "morphology": "ete_etad_PNM gaṇa_gaṇa_Cp adhipāḥ_adhipa_PNM ca_ca_ anye_anya_PNM mahān_mahat_SNM mānaḥ_māna_SNM amala_amala_Cp prabhāḥ_prabhā_PNM  / jagmuḥ_gam_PPs3In tatra_tatra_ mahā_mahat_Cp prītyā_prīti_SIF śiva_śiva_Cp darśana_darśana_Cp l"
+  }
+]

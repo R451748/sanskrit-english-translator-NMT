@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22088,
+    "sanskrit": "tau anyonyam śaraiḥ kṛttau vyarājetām nara ṛṣabhau su puṣpau puṣpa samaye puṣpitau iva kiṃśukau",
+    "english": "Mangled by each other with each-other's shafts, those two warriors looked resplendent like a couple of flowering Kinsukas in the season of spring.",
+    "morphology": "tau_tad_DuNM anyonyam_anyonya_SAM śaraiḥ_śara_PIM kṛttau_kṛt_DuNPaPsM vyarājetām_virāj_DuPs3In nara_nara_MCp ṛṣabhau_ṛṣabha_DuNM su_su_U puṣpau_puṣpa_DuNM puṣpa_puṣpa_NeCp samaye_samaya_SLM puṣpitau_puṣpita_DuNM ṇām_ṇām"
+  },
+  {
+    "index": 22089,
+    "sanskrit": "karadaṇḍaśulkādi śāstravihitaṃ varjayitvānyat pauradhanam anādeyaṃ rājñaḥ kṣīṇakośasyāpi /",
+    "english": "Excepting his legal dues, in the shape of taxes, tines and duties, all that belongs to the citizens is \"what ought not to be taken\" by the king, even though his treasury may have become depleted.",
+    "morphology": "kara_kara_Cp daṇḍa_daṇḍa_Cp śulka_śulka_Cp ādi_ādi_SANe śāstra_śāstra_Cp vihitam_vidhā_SAPaNe varjayitvā_varjay_Co anyat_anya_SANe paura_paura_Cp dhanam_dhana_SANe anādeyam_anādeya_SANe"
+  },
+  {
+    "index": 22090,
+    "sanskrit": "arāyān brūmaḥ rakṣāṃsi sarpān puṇyajanān pitṝn / mṛtyūn eka śatam brūmaḥ te naḥ muñcantu aṃhasaḥ / ṛtūn brūmaḥ ṛtupatīn ārtavān uta hāyanān / samāḥ saṃvatsarān māsān te naḥ muñcantu aṃhasaḥ /",
+    "english": "To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to the hundred deaths and one: may these deliver us from woe. We speak to Seasons, Season-Lords, to years and sections of the year, To Months, half-months, and years complete: may they deliver us from woe.",
+    "morphology": "arāyān_arāya_PAM brūmaḥ_brū_PPr1In rakṣāṃsi_rakṣas_PANe sarpān_sarpa_PAM puṇyajanān_puṇyajana_PAM pitṝn_pitṛ_PAM  / mṛtyūn_mṛtyu_PAM eka_eka_Cp śatam_śata_SANe brūmaḥ_brū_PPr1In te_tad_PNM naḥ_mad_PA muñcantu_muc_PPr3I"
+  },
+  {
+    "index": 22091,
+    "sanskrit": "citralekhāsamāyukto yā priyā tasya nityaśaḥ /",
+    "english": "And with bashfulness she also bowed unto the holder of the flowery bow -.",
+    "morphology": "citralekhā_citralekhā_Cp samāyuktaḥ_samāyuj_SNPaM yā_yad_SNF priyā_priya_SNF"
+  },
+  {
+    "index": 22092,
+    "sanskrit": "prāgāsannupivat sattvāḥ prathamakalpikā manuṣyā rūpāvacarā ivāsan /",
+    "english": "Humans at the beginning of the cosmic age were similar to the beings of Rūpadhātu.",
+    "morphology": "prāk_prāk_ āsan_as_P3ImIn upi_upin_Cp vat_vat_ sattvāḥ_sattva_PNM prathama_prathama_Cp kalpikāḥ_kalpika_PNM manuṣyāḥ_manuṣya_PNM rūpāvacarāḥ_rūpāvacara_PNM"
+  },
+  {
+    "index": 22093,
+    "sanskrit": "goṣṭhībhojanaṃ vā saṃbhojanam iṣyate /",
+    "english": "Or, the word \"sambhojamī\" may be taken as standing for a social dinner of several people.",
+    "morphology": "goṣṭhī_goṣṭhī_Cp bhojanam_bhojana_SNNe vā_vā_ saḥ_tad_SNM"
+  },
+  {
+    "index": 22094,
+    "sanskrit": "tīrthayātrāpadeśena yuktyāpṛcchya mahīpatim / kaṃcit kālaṃ videśaṃ te gantuṃ yuktaṃ mahāmate //",
+    "english": "it is expedient, great-minded sir, that you should go to a foreign land for a certain time.",
+    "morphology": "tīrtha_tīrtha_Cp yātrā_yātrā_Cp apadeśena_apadeśa_SIM yuktyā_yukti_SIF āpṛcchya_āpracch_Co mahīpatim_mahīpati_SAM  / kaṃcid_kaścit_SAM kālaḥ_kāla_SNM videśaḥ_videśa_SNM te_tvad_SG gantum_gam_In yuktaḥ_yuj_SNPaM mahāmate_mahāma"
+  },
+  {
+    "index": 22095,
+    "sanskrit": "apahantā ha vai bhayasya tamaso bhavati ya evaṃ veda //",
+    "english": "He who knows this becomes the dispeller of danger and darkness",
+    "morphology": "apahantā_apahantṛ_SNM ha_ha_ vai_vai_ bhayasya_bhaya_SGNe tamasaḥ_tamas_SGNe bhavati_bhū_SPr3In yaḥ_yad_SNM evam_evam_"
+  }
+]

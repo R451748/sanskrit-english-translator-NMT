@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1864,
+    "sanskrit": "sa satya saṃgaraḥ bhūtvā pāṇḍava arthe parākramī yudhyasva adya raṇe yattaḥ paśyāmaḥ puruṣaḥ bhava yaḥ tu śatrum abhijñāya śuddham pauruṣam āsthitaḥ",
+    "english": "Thou hadst also said, 'Know, ye Kauravas that it is with Arjuna, having me for his second, ye have provoked hostilities!' Truthfully adhering to that pledge, put forth thy energy for the Pandavas and fight now in battle to the best of thy power! Show us that thou canst be a man! He is said to be truly alive, who, having ascertained (the wight of his) foes inspireth grief in them by resorting to true manliness! Without any reason, O Krishna, great hath been thy fame spread in the world! It will, however, presently be known that there are many persons, in the world that are really eunuchs though possessed of the signs of manhood.",
+    "morphology": "sa_tad_SNM satya_satya_NeCp saṃgaraḥ_saṃgara_SNM bhūtvā_bhū_Co pāṇḍava_pāṇḍava_MCp arthe_artha_SLM parākramī_parākramin_SNM yudhyasva_yudh_SPr2Im adya_adya_U raṇe_raṇa_SLM yattaḥ_yat_SNPaPsM paśyāmaḥ_dṛś_PPr1In puruṣa"
+  },
+  {
+    "index": 1865,
+    "sanskrit": "tvam atra yuktaḥ pracarasva rājan yudhiṣṭhiraḥ uvāca rājā rājyam anuprāpya durbalaḥ bharata ṛṣabha",
+    "english": "Exercising thy intelligence, do thou act in this world, O king!'\" SECTION CXIII \"Yudhishthira said, 'Tell me O bull of Bharata's race, how a king, without the usual aids, having obtained a kingdom that is so precious a possession, behave himself towards a powerful foe.' \"Bhishma said, In this connection is cited the old story of the discourse between the Ocean and the Rivers.",
+    "morphology": "tvam_tvad_SN atra_atra_U yuktaḥ_yuj_SNPaPsM pracarasva_pracar_SPr2Im rājan_rājan_SVM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In rājā_rājan_SNM rājyam_rājya_SANe anuprāpya_anuprāp_Co durbalaḥ_durbala_SNM bharata_bharata_MCp ṛṣ"
+  },
+  {
+    "index": 1866,
+    "sanskrit": "asim prāsṛjat āvidhya tvaran karṇa ratham prati",
+    "english": "Quickly, then, he hurled his formidable sword at Karna's car.",
+    "morphology": "asim_asi_SAM prāsṛjat_prasṛj_SPs3In āvidhya_āvyadh_Co"
+  },
+  {
+    "index": 1867,
+    "sanskrit": "apare mālinītīre pare gaṃdhavatītaṭe | katicinmānasopāṃte kecidacchodarodhasi || 16 ||",
+    "english": "16. Others are on the banks of Mālinī;[16] still others on the banks of Gandhavatī.[17] A few are in the neighbourhood of Mānasa. Some are on the banks of Acchoda.[18]",
+    "morphology": "apare_apara_SLNe mālinī_mālinī_Cp tīre_tīra_SLNe pare_para_SLNe gaṃdhavatī_gandhavatī_Cp taṭe_taṭa_SLNe  / katicid_katicid_ mānasa_mānasa_Cp upānte_upānta_SLNe kecid_kaścit_PNM"
+  },
+  {
+    "index": 1868,
+    "sanskrit": "narakeṣu kīṭapataṅgādiyoniṣu cānupapatteḥ / idam eva vijānatām / kathaṃ punar viduṣāṃ śaraṇam ata āha /",
+    "english": "For these people the Veda is the \"refuge\"; as by reciting it, acting in accordance with it and acquiring some knowledge of it, they are saved from falling into the life of worms and insects, or into hell.",
+    "morphology": "narakeṣu_naraka_PLM kīṭa_kīṭa_Cp pataṅga_pataṃga_Cp ādi_ādi_Cp yoniṣu_yoni_PLF ca_ca_ anupapatteḥ_anupapatti_SBF  / idam_idam_SNNe eva_eva_ vijānatām_vijñā_PGPaPrM  / katham_katham_ punar_punar_ viduṣām_vidvas_PGM śaraṇam_śara"
+  },
+  {
+    "index": 1869,
+    "sanskrit": "saty api svādhyāyavidhiprakaraṇa ekavākyāt saṃdhyājapavidhir ayam / tatra gāyatryā anuvādaḥ, praṇavavyāhṛtīnām aprāptavidhiḥ /",
+    "english": "Though this verse is syntactically connected with the section dealing with the Injunction of Vedic study, yet it is to be taken as embodying the injunction of recitation during the TwilightPrayers; and as regards the \"Gāyatrī\" verse itself, the mention of it in the present verse is merely for the purposes of reference the injunction of its recitation having already gone before, while that of the Praṇava and the Vyāhṛtis forms the direct injunction of the recitation of these, which has not been enjoined anywhere else.",
+    "morphology": "sati_as_SLPaPrNe api_api_ svādhyāya_svādhyāya_Cp vidhi_vidhi_Cp prakaraṇe_prakaraṇa_SLNe eka_eka_Cp vākyāt_vākya_SBNe saṃdhyā_saṃdhyā_Cp japa_japa_Cp vidhiḥ_vidhi_SNM ayam_idam_SNM  / tatra_tatra_ gāyatryāḥ_gāyatrī_SGF anuvādaḥ_"
+  },
+  {
+    "index": 1870,
+    "sanskrit": "striyo 'py evam eva / sarvagrahaṇaṃ gurupatnīnāṃ saṃskṛtaprayogajñānām api /",
+    "english": "\"Similarly to all women\"; the term \"all\" implies that the same applies even to the wives of teachers, even though they be capable of understanding Sanskrit words.",
+    "morphology": "striyaḥ_strī_PNF api_api_ evam_evam_ eva_eva_  / sarva_sarva_Cp grahaṇam_grahaṇa_SNNe guru_guru_Cp patnīnām_patnī_PGF saṃskṛta_saṃskṛ_PaCp prayoga_prayoga_Cp jñānām_jña_PGM"
+  },
+  {
+    "index": 1871,
+    "sanskrit": "śrīnārada uvāca | dhanyo'si kṛtakṛtyo'si mānyo'pyasi divaukasām | sarvabhūteṣu goviṃdaṃ paripaśyanviśāṃpate || 35 ||",
+    "english": "Śrī Nārada said: O king, you see Govinda in all living beings. Hence you are blessed and contented. You are worthy of being respected even by Heaven-dwellers.",
+    "morphology": "śrī_śrī_Cp nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / dhanyaḥ_dhanya_SNM asi_as_SPr2In kṛtakṛtyaḥ_kṛtakṛtya_SNM asi_as_SPr2In mānyaḥ_man_SNMGd api_api_ asi_as_SPr2In divaukasām_divaukas_PGM  / sarva_sarva_Cp bhūteṣu_bhūta_PLNe govi"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42704,
+    "sanskrit": "karma doṣaḥ ca vai vidvan ātma jāti kṛtena vai",
+    "english": "And, O learned man, these being the duties of thy profession, the stain of evil karma will not attach to thee.",
+    "morphology": "karma_karman_NeCp doṣaḥ_doṣa_SNM ca_ca_U vai_vai_U vidvan_vidvas_SVM ātma_ātman_MCp jāti_jāti_FCp kṛtena_kṛ_SIPaPsNe"
+  },
+  {
+    "index": 42705,
+    "sanskrit": "saṃrakṣyamāṇaḥ droṇena manyate vīryam ātmanaḥ",
+    "english": "Protected by Drona, the youthful son of Arjuna regardeth himself valourous.",
+    "morphology": "saṃrakṣyamāṇaḥ_saṃrakṣ_SNPaPrMPv droṇena_droṇa_SIM manyate_man_SPr3In"
+  },
+  {
+    "index": 42706,
+    "sanskrit": "lepagandhāpamārjanam /",
+    "english": "The removing of stains and smells.",
+    "morphology": "__lepa_U"
+  },
+  {
+    "index": 42707,
+    "sanskrit": "sa bhāryaḥ tat ca sasmāra maheśvara vacaḥ tadā",
+    "english": "And along with his wife the king recollected the words of Maheswara.",
+    "morphology": "sa_sa_U bhāryaḥ_bhāryā_SNM tat_tad_SANe ca_ca_U sasmāra_smṛ_SPs3In maheśvara_maheśvara_MCp vacaḥ_vacas_SANe tadā_tadā_U"
+  },
+  {
+    "index": 42708,
+    "sanskrit": "arhatvaṃ nāma tatkiṃcidvidyādhara na vidyate / akāraṇamavastutvācchaśaśṛṅgamivoditam //",
+    "english": "Know Vidyadhara, there is no such thing as is implied by ego; it is a causeless nothing as the horn of a hare.",
+    "morphology": "arha_arha_Cp tvam_tva_SNNe nāma_nāma_ tat_tad_SNNe kiṃcid_kaścit_SNNe vidyādhara_vidyādhara_SVM na_na_ vidyate_vid_SPr3InPv  / akāraṇam_akāraṇa_SNNe avastu_avastu_Cp tvāt_tva_SBNe śaśa_śaśa_Cp śṛṅgam_śṛṅga_SNNe iva_iva_ uditam_v"
+  },
+  {
+    "index": 42709,
+    "sanskrit": "prācīnāvītaṃ svaśabdenaiva pitrye karmaṇi vihitam, tatrārthavattāyām upayātāyāṃ nākṛtārthenopavītena vikalpitum arhati /",
+    "english": "Our answer is as followsAs for the \"Prāchīnāvīta\" method, this has been directly prescribed, in so many words, as pertaining to acts of offering to the Pitṛs; so that when its use has been found in connection with these, it could not be taken as an alternative to the \"Upavīta\" method, whose use has not yet been found.",
+    "morphology": "prācīnāvītam_prācīnāvīta_SNNe sva_sva_Cp śabdena_śabda_SIM eva_eva_ pitrye_pitrya_SLNe karmaṇi_karman_SLNe vihitam_vidhā_SNPaNe tatra_tatra_ arthavat_arthavat_Cp tāyām_tā_SLF upayātāyām_upayā_SLPaF na_na_ a_a_ kṛtārthena_kṛtārtha_"
+  },
+  {
+    "index": 42710,
+    "sanskrit": "nābhimeḍhrāntarantālaṃ dvitālāvūrukau tathā /",
+    "english": "The length of the thighs should be two tālas. The length of the part from the ankle to the knee should be two tālas.",
+    "morphology": "nābhi_nābhi_Cp meḍhra_meḍhra_Cp antar_antar_ antālam_antāla_SNNe dvi_dvi_Cp tālau_tāla_DuNM ūrukau_ūruka_DuNM tathā_tathā_"
+  },
+  {
+    "index": 42711,
+    "sanskrit": "devam devam vaḥ avase indram indram gr̥ṇīṣaṇi adha yajñāya turvaṇe vi ānaśuḥ",
+    "english": "To magnify the God, the God, Indra, yea, Indra for your help, And promptly end the sacrifice-this have they gained.",
+    "morphology": "devam_deva_SAM devam_deva_SAM vaḥ_tvad_PG avase_av_In indram_indra_SAM indram_indra_SAM grīṇīṣaṇi_grīṣan_SLNe adha_adha_U yajñāya_yajña_SDM turvaṇe_tur_In vi_vi_U ānaśuḥ_aś_PPs3In"
+  }
+]

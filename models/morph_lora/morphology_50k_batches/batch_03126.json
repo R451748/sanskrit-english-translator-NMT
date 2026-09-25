@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25000,
+    "sanskrit": "iṣṭam bhavati rādheya tat idam samupasthitam",
+    "english": "The occasion that hath come is even such.",
+    "morphology": "iṣṭaḥ_iṣ_SNPaPsM bhavati_bhū_SPr3In ā_ā_ agāḥ_agā_SNPaPsF"
+  },
+  {
+    "index": 25001,
+    "sanskrit": "eṣaḥ kṣeti ratha vītiḥ magha vā go matīḥ anu parvateṣu apa śritaḥ",
+    "english": "This wealthy Rathavîti dwells among the people rich in kine, Among the mountains, far withdrawn.",
+    "morphology": "eṣaḥ_etad_SNM kṣeti_kṣi_SPr3In ratha_ratha_MCp vītiḥ_vīti_SNM magha_magha_SVM vā_vā_SNM go_go_MCp matīḥ_mati_PAF"
+  },
+  {
+    "index": 25002,
+    "sanskrit": "yo hi tasyāṃ yathā sambaddhuṃ yogyaḥ tamasau tathā pratyeṣyati nānyatheti karaṇākāṅkṣāparipūraṇena sambandhayogyo yajir iti tathaivaiṣa bhāvanayā 'bhisambadhyate //",
+    "english": "If its requirements were not fulfilled then it would not have referred to a yaga. If the root 'yaj' fulfills the requirement of an instrument then it becomes capable of being related to a bhāvană. In this manner the root ‘yaj' is related to a bhāvanā.",
+    "morphology": "yaḥ_yad_SNM hi_hi_ tasyām_tad_SLF yathā_yathā_ sambaddhum_sambandh_In yogyaḥ_yogya_SNM tam_tad_SAM asau_adas_SNM tathā_tathā_ pratyeṣyati_pratī_SFu3In na_na_ anyathā_anyathā_ iti_iti_ karaṇa_karaṇa_Cp ākāṅkṣā_ākāṅkṣā_Cp pari"
+  },
+  {
+    "index": 25003,
+    "sanskrit": "nāsti paralokaḥ, kutaḥ śubhāśubhānāṃ karmaṇāṃ vipāka ityevaṃ sa niścayamupetya praśāntadharmakriyautsukyaḥ pradānaśīlādisukṛtapratipattivimukhaḥ saṃrūḍhaparibhavabuddhirdhārmikeṣvaśraddhārūkṣamatirdharmaśāstreṣu parihāsacittaḥ paralokakathāsu śithilavinayopacāragauravabahumānaḥ śramaṇabrāhmaṇeṣu kāmasukhaparāyaṇo babhūva /",
+    "english": "That king had got this persuasion: there is no other world after this; how could there be anything like result ripening out of good or evil actions? and in conformity with this belief his longing for religious practices was extinguished, he was averse to performing the pious works of charity, good conduct (śīla), and so on, felt a deep-rooted contempt for such as led a religious life, and owing to his want of faith, bore ill-will to the religious law-books.",
+    "morphology": "na_na_ asti_as_SPr3In para_para_Cp lokaḥ_loka_SNM kutas_kutas_ śubha_śubha_Cp aśubhānām_aśubha_PGNe karmaṇām_karman_PGNe vipākaḥ_vipāka_SNM iti_iti_ evam_evam_ sa_tad_SNM niścayam_niścaya_SAM upetya_upe_Co praśānta_praśam_PaCp dharma_dh"
+  },
+  {
+    "index": 25004,
+    "sanskrit": "mṛtyoḥ iva svasāram hi dīptām ketu śikhām iva sīmantam iva kurvantīm nabhasaḥ agni sama prabhām",
+    "english": "That Chapter XVIII dart blazing as a flame of fire, resembled the sister of Death.",
+    "morphology": "mṛtyoḥ_mṛtyu_SGM iva_iva_U svasāram_svasṛ_SAF hi_hi_U dīptām_dīp_SAPaPsF ketu_ketu_MCp śikhām_śikhā_SAF iva_iva_U sīmantam_sīmanta_SAM iva_iva_U kurvantīm_kṛ_SAPaPrF"
+  },
+  {
+    "index": 25005,
+    "sanskrit": "pāñcajanyam ca balavat dadhmau tāreṇa keśavaḥ rajasā dhvasta pakṣma antaḥ prasvinna vadanaḥ bhṛśam tena acyuta uṣṭha yuga pūrita mārutena",
+    "english": "Kesava meanwhile forcibly and very loudly blew his conch Panchajanya, his face covered with dust.",
+    "morphology": "pāñcajanyam_pāñcajanya_SAM ca_ca_U balavat_balavat_SANe dadhmau_dham_SPs3In tāreṇa_tāra_SIM keśavaḥ_keśava_SNM rajasā_rajas_SINe dhvasta_dhvaṃs_PaPsCp pakṣma_pakṣman_NeCp antaḥ_anta_SNM prasvinna_prasvid_PaPsCp vadanaḥ_vadana_SNM bh"
+  },
+  {
+    "index": 25006,
+    "sanskrit": "tṛtīyam puruṣam prāpya brāhmaṇa tvam gamiṣyati",
+    "english": "The person that will be the third PART I in descent from thee shall attain to the status of a Brahmana.",
+    "morphology": "tṛtīyam_tṛtīya_SAM puruṣam_puruṣa_SAM"
+  },
+  {
+    "index": 25007,
+    "sanskrit": "rudhireṇa avasikta aṅgāḥ gairika prasravāḥ iva yathā bhrājanti syandantaḥ parvatāḥ dhātu maṇḍitāḥ",
+    "english": "Bathed in blood, those huge creatures looked resplendent like moving hills decked with metals, down whose breasts ran streams of liquid chalk.",
+    "morphology": "rudhireṇa_rudhira_SINe avasikta_avasic_PaPsCp aṅgāḥ_aṅga_PNM gairika_gairika_NeCp prasravāḥ_prasrava_PNM iva_iva_U yathā_yathā_U bhrājanti_bhrāj_PPr3In syandantaḥ_syand_PNPaPrM parvatāḥ_parvata_PNM dhātu_dhātu_SINe maṇḍitāḥ_ma"
+  }
+]

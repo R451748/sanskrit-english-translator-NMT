@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4080,
+    "sanskrit": "agne naya su pathā rāye asmān viśvāni deva vayunāni vidvān yuyodhi asmat juhurāṇam enaḥ bhūyiṣṭhām te namaḥ uktim vidhema",
+    "english": "BY goodly paths lead us to riches, Agni, God who knowest every sacred duty. Remove the sin that makes us stray and wander. most ample adoration will we bring thee.",
+    "morphology": "agne_agni_SVM naya_nī_SPr2Im su_su_U pathā_pathin_SIM rāye_rai_SDM asmān_mad_PA viśvāni_viśva_PANe deva_deva_SVM vayunāni_vayuna_PANe vidvān_vid_SNPaPsM yuyodhi_yu_SPr2Im asmat_mad_PB juhurāṇam_hvṛ_SAPaPrNe enaḥ_enas_SANe bhūyiṣṭhām_b"
+  },
+  {
+    "index": 4081,
+    "sanskrit": "ajīvaka āryaśāriputraṃ pratyāha",
+    "english": "Śāriputra said to an Ājīvika, \"The fine things of this woṟld are not.",
+    "morphology": "ajīvakaḥ_ajīvaka_SNM"
+  },
+  {
+    "index": 4082,
+    "sanskrit": "varuṇo dhanadaścaiva dharmarājo'tha pāvakaḥ | ādityairvasubhiścaiva lokapālaiḥ samaṃtataḥ || 3 ||",
+    "english": "So also did Varuṇa, Dhanada (Kubera), Dharmarāja and Pāvaka (Fire-god).",
+    "morphology": "varuṇaḥ_varuṇa_SNM dhanadaḥ_dhanada_SNM ca_ca_ eva_eva_ dharmarājaḥ_dharmarāja_SNM atha_atha_ pāvakaḥ_pāvaka_SNM  / ādityaiḥ_āditya_PIM vasubhiḥ_vasu_PIM ca_ca_ eva_eva_ lokapālaiḥ_lokapāla_PIM samaṃtataḥ_samaṃtataḥ_"
+  },
+  {
+    "index": 4083,
+    "sanskrit": "tāneva bhūmipālāṃśca tāṃstāneva ca paṇḍitān / tāneva narmasacivānbhṛtyāṃstāneva tādṛśān //",
+    "english": "She saw the same rulers of earth, and the very same Pandits as before; the identic courtiers and the self-same servants as ever.",
+    "morphology": "tān_tad_PAM eva_eva_ bhūmipālān_bhūmipāla_PAM ca_ca_ tān_tad_PAM tān_tad_PAM eva_eva_ ca_ca_ paṇḍitān_paṇḍita_PAM  / tān_tad_PAM eva_eva_ narmasacivān_narmasaciva_PAM bhṛtyān_bhṛtya_PAM tān_tad_PAM eva_eva_ tādṛśān_tādṛśa_"
+  },
+  {
+    "index": 4084,
+    "sanskrit": "jahāra atha tatas jiṣṇuḥ kirātam urasā balī pāṇḍavam ca viceṣṭantam kirātaḥ api ahanat balāt",
+    "english": "The mighty Jishnu clasping the Kirata began to press him with his breast, but the Kirata, possessed of great strength pressed the insensible son of Pandu with force.",
+    "morphology": "jahāra_hṛ_SPs3In atha_atha_U tatas_tatas_U jiṣṇuḥ_jiṣṇu_SNM kirātam_kirāta_SAM urasā_uras_SINe balī_balin_SNM pāṇḍavam_pāṇḍava_SAM ca_ca_U viceṣṭantam_viceṣṭ_SAPaPrM kirātaḥ_kirāta_SNM api_api_U ahanat_han_SPs3In bal"
+  },
+  {
+    "index": 4085,
+    "sanskrit": "dānavā darpapūrṇās tu svārtham evānugamya ha /",
+    "english": "Thinking it conducive to their own interest the haughty Dānavas, with great indignation, replied to that king.",
+    "morphology": "dānavāḥ_dānava_PNM darpa_darpa_Cp pūrṇāḥ_pṛ_PNPaM tu_tu_ sva_sva_Cp artham_artha_SAM eva_eva_ anugamya_anugam_Co"
+  },
+  {
+    "index": 4086,
+    "sanskrit": "daśānuśaṃsās tathāgata-caityāñjali-karmaṇaḥ,",
+    "english": "the ten advantages of reverential salutation at the stūpas of the Realised One,",
+    "morphology": "daḥ_daḥ_PNM"
+  },
+  {
+    "index": 4087,
+    "sanskrit": "prākāśyamamalālokamālokastena vardhate / manastāvadguṇagataṃ rasatanmātravedanam //",
+    "english": "The condensation of the elements of air and wind together, produced the idea of light which is the cause of sight, and which has the colours and figures for its objects; and thus the mind being actuated by its triple thoughts of air, wind and light, produced the property of fire.",
+    "morphology": "prākāśyam_prākāśya_SANe amala_amala_Cp ālokam_āloka_SAM ālokaḥ_āloka_SNM tena_tena_ vardhate_vṛdh_SPr3In  / manaḥ_manas_SNNe tāvat_tāvat_ guṇa_guṇa_Cp gatam_gam_SNPaNe rasa_rasa_Cp tanmātra_tanmātra_Cp vedanam_vedana_SNNe  /"
+  }
+]

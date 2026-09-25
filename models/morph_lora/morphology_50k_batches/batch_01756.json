@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14040,
+    "sanskrit": "neti brūmaḥ /",
+    "english": "It is not so, we reply.",
+    "morphology": "na_na_ iti_iti_"
+  },
+  {
+    "index": 14041,
+    "sanskrit": "tatas harṣaḥ samabhavat kauravāṇām viśām pate tān dṛṣṭvā puruṣa vyāghrān pāṇḍavān priya darśanān",
+    "english": "And, O king, beholding--the handsome Pandava those tigers among men, all the Kurus became exceedingly glad.",
+    "morphology": "tatas_tatas_U harṣaḥ_harṣa_SNM samabhavat_sambhū_SPs3In kauravāṇām_kaurava_PGM viśām_viś_PGF pate_pati_SVM tān_tad_PAM dṛṣṭvā_dṛś_Co puruṣa_puruṣa_MCp vyāghrān_vyāghra_PAM pāṇḍavān_pāṇḍava_PAM priya_priya_Cp darś"
+  },
+  {
+    "index": 14042,
+    "sanskrit": "tatra sītā hṛtā viprā rāvaṇenorumāyinā | prāpitā svagṛhaṃ sā hi laṃkāyāṃ janakātmajā ||",
+    "english": "3. O brahmins, Rāma’s wife Sītā, the daughter of Janaka, was kidnapped by Rāvaṇa the wielder of great Māyā and taken to his abode in Laṅkā.",
+    "morphology": "tatra_tatra_ sītā_sītā_SNF hṛtā_hṛ_SNPaF viprāḥ_vipra_PVM rāvaṇena_rāvaṇa_SIM ūru_ūru_Cp māyinā_māyin_SIM  / prāpitā_prāpay_SNPaF sva_sva_Cp gṛham_gṛha_SANe sā_tad_SNF hi_hi_ laṃkāyām_laṅkā_SLF janakātmajā_janakātma"
+  },
+  {
+    "index": 14043,
+    "sanskrit": "viśveśvari tvamasi viśvajanasya kartrī tvaṃ pālayitryasi tathā pralayepihaṃtrī | tvannāmakīrtanasamullasadacchapuṇyā srotasvinī harati pātakakūlavṛkṣān || 57 ||",
+    "english": "57. O Viśveśvarī (goddess of the universe), you are the creator of the people of all the worlds; you are the protectress and the destroyer at the time of the ultimate annihilation. The river of great pure merit arising out of the repetition of thy names dispels all the sins as though they were the trees on its banks.",
+    "morphology": "viśveśvari_viśveśvarī_SVF tvam_tvad_SN asi_as_SPr2In viśva_viśva_Cp janasya_jana_SGM kartrī_kartṛ_SNF tvam_tvad_SN pālayitrī_pālayitṛ_SNF asi_as_SPr2In tathā_tathā_ pralaye_pralaya_SLM pihaṃtrī_pihaṃtṛ_SNF  / tvad_tvad_Cp nāma_nām"
+  },
+  {
+    "index": 14044,
+    "sanskrit": "vamanto rudhiraṃ vīrā mūrchitā nidhanaṃ gatāhsabhā maṇòapam āraktaṃ dṛśyate kṣataja sravāt",
+    "english": "Many soldiers vomited blood, fell unconscious, and died. The assembly hall was seen to be red with streams of blood from their wounds.",
+    "morphology": "vamantaḥ_vam_PNPaPrM rudhiram_rudhira_SANe vīrāḥ_vīra_PNM mūrchitāḥ_mūrchay_PNPaM nidhanam_nidhana_SANe maṇòapam_maṇòapa_SNNe āraktam_ārakta_SNNe"
+  },
+  {
+    "index": 14045,
+    "sanskrit": "tathā pṛṣadhraḥ nāma āsīt rājā vajradhara upamaḥ",
+    "english": "There was another king, O monarch, of the name of Prishadhra who resembled the wielder of the thunder-bolt himself.",
+    "morphology": "tathā_tathā_U pṛṣadhraḥ"
+  },
+  {
+    "index": 14046,
+    "sanskrit": "eṣā tattva caturviṃśā sarva ākṛtiṣu vartate",
+    "english": "These constitute the four and twenty topics that exist in the forms of all living creatures.",
+    "morphology": "eṣā_etad_SNF tattva_tattva_NeCp caturviṃśā_caturviṃśa_SNF"
+  },
+  {
+    "index": 14047,
+    "sanskrit": "ratnāvalīmanovṛttiṃ vijñāyātha mukheṃgitaiḥ || śaśilekhā samācaṣṭa spaṣṭavarṇaiḥ savistaram || 91 ||",
+    "english": "191. Understanding perfectly what Ratnāvalī was thinking in her mind through her facial gestures, Śaśilekhā narrated in clear terms everything in detail.",
+    "morphology": "ratnāvalī_ratnāvalī_Cp manaḥ_manas_Cp vṛttim_vṛtti_SAF vijñāya_vijñā_Co atha_atha_ mukha_mukha_Cp iṃgitaiḥ_iṅgita_PINe  / śaśilekhā_śaśilekhā_SNF samācaṣṭa_samācakṣ_S3ImIn spaṣṭa_spaṣṭa_Cp varṇaiḥ_varṇa_PINe "
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12792,
+    "sanskrit": "vyabhicārāś ca saudhāder bahubhiḥ karaṇekṣaṇāt //",
+    "english": "and it is ‘inconclusive’ also, since such things as the house and the like are found to be made by several makers.",
+    "morphology": "vyabhicārāḥ_vyabhicāra_PNM ca_ca_ saudha_saudha_Cp ādeḥ_ādi_SGM bahubhiḥ_bahu_PIM karaṇa_karaṇa_Cp īkṣaṇāt_īkṣaṇa_SBNe  /"
+  },
+  {
+    "index": 12793,
+    "sanskrit": "camasaiḥ pītavantaste somaṃ devā maharṣayaḥ | camasodbhedanāmeti tena khyātaṃ dharātale || 2 ||",
+    "english": "The Devas and the great sages drank Soma juice by means of Camasas (ladles). Therefore, it become well-known as Camasodbheda in the world.",
+    "morphology": "camasaiḥ_camasa_PIM pītavantaḥ_pā_PNPaM te_tad_PNM somam_soma_SAM devāḥ_deva_PNM mahā_mahat_Cp ṛṣayaḥ_ṛṣi_PNM  / camasodbheda_camasodbheda_Cp nāmā_nāman_SNM iti_iti_ tena_tad_SIM khyātam_khyā_SNPaNe dharā_dharā_Cp tale_tala_SLM  "
+  },
+  {
+    "index": 12794,
+    "sanskrit": "etena na iṣṭavān kaḥ cit ṛte viṣṇum purātanam",
+    "english": "No person save the ancient Vishnu hath performed it before.",
+    "morphology": "etena_etad_SIM na_na_U iṣṭavān_yaj_SNPaPsM kaḥ_ka_SNM cit_cit_U ṛte_ṛte_U viṣṇum_viṣṇu_SAM purātanam_purātana_SAM"
+  },
+  {
+    "index": 12795,
+    "sanskrit": "dhārayitvā dhanuḥ divyam divyāni astrāṇi ca āhave",
+    "english": "I hold an excellent bow and excellent weapons in battle.",
+    "morphology": "dhārayitvā_dhāray_Co dhanuḥ_dhanus_SANe divyam_divya_SANe divyāni_divya_PANe astrāṇi_astra_PANe ca_ca_U āhave_āhava_SLM"
+  },
+  {
+    "index": 12796,
+    "sanskrit": "ā tvā śukrāḥ acucyavuḥ sutāsaḥ indra girvaṇaḥ piba tu asya andhasaḥ indra viśvāsu te hitam",
+    "english": "Bright juices hitherward have sped thee, Indra, Lover of the Song. Drink, Indra, of this flowing sap: in every house 'tis set for thee.",
+    "morphology": "ā_ā_U tvā_tvad_SA śukrāḥ_śukra_PNM acucyavuḥ_cyu_PPs3In sutāsaḥ_suta_PNM indra_indra_SVM girvaṇaḥ_girvaṇas_SVM piba_pā_SPr2Im tu_tu_U asya_idam_SGNe andhasaḥ_andhas_SGNe indra_indra_SVM viśvāsu_viśva_PLF te_tvad_SD hitam_dhā_SNPaP"
+  },
+  {
+    "index": 12797,
+    "sanskrit": "huve vāta svanam kavim parjanya krandyam sahaḥ agnim samudra vāsasam",
+    "english": "I call the Sage who sounds like wind, the Might that like Parjanya roars, Agni who clothes him with the sea.",
+    "morphology": "huve_hvā_SPr3In vāta_vāta_MCp svanam_svana_SAM kavim_kavi_SAM parjanya_parjanya_MCp krandyam_krand_SAMGd sahaḥ_sahas_NeCp agnim_agni_SAM"
+  },
+  {
+    "index": 12798,
+    "sanskrit": "tato gatvā ca sā proktā puruṣairnṛpasaṃbhavaiḥ | āgaccha kāṃtaṃ jānīhi tvaṃ pramāṇaṃ bhaviṣyasi || 48 ||",
+    "english": "48. The officers of the king went and told her, “Come on please. Find out your husband. You alone shall be the deciding authority.”",
+    "morphology": "tatas_tatas_ gatvā_gam_Co ca_ca_ sā_tad_SNF proktā_pravac_SNPaF puruṣaiḥ_puruṣa_PIM nṛpa_nṛpa_Cp saṃbhavaiḥ_sambhava_PIM  / āgaccha_āgam_SPr2Im kāntam_kānta_SAM jānīhi_jñā_SPr2Im tvam_tvad_SN pramāṇam_pramāṇa_SNNe bhaviṣyas"
+  },
+  {
+    "index": 12799,
+    "sanskrit": "jātiṃ smṛtvā pūrvikāṃ tu jñātvā dīpadaśāphalam | śivarātre prabhāvaṃ tu prabhāsaṃ punarāgataḥ || 4 ||",
+    "english": "4-7. He remembered his previous birth and knowing the merit of supplying a wick for lamp and the power of Śivarātri, came to Prabhāsa.",
+    "morphology": "jātim_jāti_SAF smṛtvā_smṛ_Co pūrvakām_pūrvaka_SAF tu_tu_ jñātvā_jñā_Co dīpa_dīpa_Cp daśā_daśā_Cp phalam_phala_SANe  / śivarātre_śivarātra_SLM prabhāvam_prabhāva_SAM tu_tu_ prabhāsam_prabhāsa_SAM punar_punar_ āgataḥ_āgam_SNP"
+  }
+]

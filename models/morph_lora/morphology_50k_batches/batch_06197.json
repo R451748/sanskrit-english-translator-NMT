@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49568,
+    "sanskrit": "pālīvate tu pūrvavat",
+    "english": "Sūtra In the Pätnivata, it would be as before.",
+    "morphology": "__pālīvata_U"
+  },
+  {
+    "index": 49569,
+    "sanskrit": "vikṛtau cāpare kāle apsu māyā ca nairṛte /",
+    "english": "To the lord of goblins, to the lord of beings, to the lord of Umā and to the lord of time.",
+    "morphology": "vikṛtau_vikṛti_SLF"
+  },
+  {
+    "index": 49570,
+    "sanskrit": "sarvathā 'rthapratītilakṣaṇakāryavaśāt kalpyamānaṃ tat karaṇaṃ sphoṭa ity ucyate /",
+    "english": "In other words, 'sabda' is the basic stem. It stands for sphoţa.",
+    "morphology": "sarvathā_sarvathā_ artha_artha_Cp pratīti_pratīti_Cp lakṣaṇa_lakṣaṇa_Cp kārya_kārya_Cp vaśāt_vaśa_SBM kalpyamānam_kalpay_SNPaPrNePv tat_tad_SNNe karaṇam_karaṇa_SNNe sphoṭaḥ_sphoṭa_SNM iti_iti_ ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 49571,
+    "sanskrit": "mahadādi viśeṣāṃtaṃ bhūtajālaṃ yadīritam | paṃcaviṃśati saṃkhyākaṃ teṣāmīśo yataḥ smṛtaḥ || 22 || tena bhūteśvaretyuktaṃ nāma tasya purā kila | paṃcaviṃśatitattvāni jñātvā muktimavāpnuyāt || 23 ||",
+    "english": "22-23. The twenty-five Principles beginning with Mahat and ending with Viśeṣa are called Bhūtas. Since the Lord is remembered as their Lord, he was called Bhūteśvara formerly. After knowing the twenty-five Tattvas one shall attain salvation.",
+    "morphology": "mahat_mahant_Cp ādi_ādi_SNNe viśeṣa_viśeṣa_Cp aṃtam_anta_SNNe bhūta_bhūta_Cp jālam_jāla_SNNe yat_yad_SNNe īritam_īray_SNPaNe  / paṃcaviṃśati_pañcaviṃśati_SNNe saṃkhyākam_saṃkhyāka_SNNe teṣām_tad_PGNe īśaḥ_īśa_SNM yat"
+  },
+  {
+    "index": 49572,
+    "sanskrit": "sa ca nirūpite sthāpite vāntare 'nuśayo daśāhapratīkṣaṇam /",
+    "english": "When a compact has been entered into verbally, the parties should therefore wait for ten days, to see if there is repentance on either side.",
+    "morphology": "sa_tad_SNM ca_ca_ nirūpite_nirūpay_SLPaM sthāpite_sthāpay_SLPaM vā_vā_ antare_antara_SLM anuśayaḥ_anuśaya_SNM"
+  },
+  {
+    "index": 49573,
+    "sanskrit": "atha sambhṛtasambhāra ssambhāṣāṃ kartumīśvaram | śailānprasthāpayāmāsa brāhmaṇānapi sarvaśaḥ ||",
+    "english": "2. Then, gathering all the requisite things he sent mountains and the brahmins to welcome Siva.",
+    "morphology": "atha_atha_ sambhṛta_sambhṛta_Cp sambhāraḥ_sambhāra_SNM sambhāṣām_sambhāṣā_SAF kartum_kṛ_In īśvaram_īśvara_SAM  / śailān_śaila_PAM prasthāpayāmāsa_prasthāpay_SPs3InPe ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛ"
+  },
+  {
+    "index": 49574,
+    "sanskrit": "etayā upamayā dhīraḥ saṃnameta balīyase",
+    "english": "Guided by these instances, O hero, men should bend before those that are powerful.",
+    "morphology": "etayā_etad_SIF"
+  },
+  {
+    "index": 49575,
+    "sanskrit": "varṇaśabdaś ca tisṛṣu brāhmaṇādijātiṣu vartate / sarvagrahaṇaṃ śūdrāvarodhārtham / itarathā maharṣīṇāṃ praṣṭṛtvāt traivarṇikaviṣaye ca praśnaḥ kṛtaḥ syāt /",
+    "english": "The term \"caste\" is applied to the three castes,\"Brāhmaṇa,\" \"Kṣatriya,\" and \"Vaiśya\" the term \"all\" has been added for the purpose of including the \"Śūdra\"; if this was not done, then, the question, emanating from the Great Sages who represent only the three higher castes, would be restricted to the three castes only.",
+    "morphology": "varṇa_varṇa_Cp śabdaḥ_śabda_SNM ca_ca_ tisṛṣu_tri_PLF brāhmaṇa_brāhmaṇa_Cp ādi_ādi_Cp jātiṣu_jāti_PLF vartate_vṛt_SPr3In  / sarva_sarva_Cp grahaṇam_grahaṇa_SNNe śūdra_śūdra_Cp avarodha_avarodha_Cp artham_artha_SAM  / itara"
+  }
+]

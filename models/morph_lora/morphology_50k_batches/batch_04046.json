@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32360,
+    "sanskrit": "sārāyaṇīyāṃ kathāṃ vyatisārayitvā, ekānte sthād-ekāntas-thitaḥ",
+    "english": "and courteous greetings, he stood at one side, and while stood on one side",
+    "morphology": "sārāyaṇīyām_sārāyaṇīya_SAF kathām_kathā_SAF vyatisārayitvā_vyatisāray_Co ekānte_ekānta_SLM sthāt_sthā_SPs3 ekāntaḥ_ekānta_SNM thitaḥ_sthā_SNPaM"
+  },
+  {
+    "index": 32361,
+    "sanskrit": "rājovāca | kena karmavipākena pretatvaṃ jāyate nṛṇām | etanme sarvamācakṣva māṃsāda mama pṛcchataḥ || 29 ||",
+    "english": "The king said: 29. O Māṃsāda, even as I ask, do tell me everything in detail. What are those activities that result in ghost-hood in the case of men.",
+    "morphology": "rājā_rājan_SNM uvāca_vac_SPs3In  / kena_ka_SIM karma_karman_Cp vipākena_vipāka_SIM preta_preta_Cp tvam_tva_SNNe jāyate_jan_SPr3In nṛṇām_nṛ_PGM  / etat_etad_SANe me_mad_SD sarvam_sarva_SANe ācakṣva_ācakṣ_S2ImIn māṃsa_māṃsa_Cp āda_"
+  },
+  {
+    "index": 32362,
+    "sanskrit": "ugrā ghorā tanūḥ yā asya saḥ agniḥ vidyut sa bhāskaraḥ",
+    "english": "That form which is fierce and terrible is regarded as identical with Agni and Lightning and Surya.",
+    "morphology": "ugrā_ugra_SNF ghorā_ghora_SNF tanūḥ_tanū_SNF yā_yad_SNF asya_idam_SGM saḥ_tad_SNM agniḥ_agni_SNM vidyut_vidyut_SNF sa_sa_U bhāskaraḥ_bhāskara_SNM"
+  },
+  {
+    "index": 32363,
+    "sanskrit": "yeṣām śāstra anugā buddhiḥ na te muhyanti bhārata",
+    "english": "they never sink under misfortunes whose understandings are guided by the Sastras.",
+    "morphology": "yeṣām_yad_PGM śāstra_śāstra_NeCp anugā_anuga_SNF buddhiḥ_buddhi_SNF na_na_U te_tad_PNM muhyanti_muh_PPr3In bhārata_bhārata_SVM"
+  },
+  {
+    "index": 32364,
+    "sanskrit": "sapatākadhvajodagraṃ sādityam iva mandaram // gajendrāmbhodavapuṣaṃ kvacit kesaravarcasam /",
+    "english": "It looked like the mount Mandāra when the sun rises over it, like the prince of elephants and the ocean.",
+    "morphology": "sa_sa_ patāka_patāka_Cp dhvaja_dhvaja_Cp udagram_udagra_SAM sa_sa_ ādityam_āditya_SAM iva_iva_ mandaram_mandara_SAM  // gaja_gaja_Cp indra_indra_Cp ambhoda_ambhoda_Cp vapuṣam_vapuṣa_SAM kvacid_kvacid_ kesara_kesara_Cp varcasam_varcas_SAM  /"
+  },
+  {
+    "index": 32365,
+    "sanskrit": "adyā api ca enam paśyāmi yuvām paśyan sanātanau",
+    "english": "Even now I behold that immutable Being, in beholding you two.",
+    "morphology": "adyā_adya_U api_api_U ca_ca_U enam_enad_SAM paśyāmi_paś_SPr1In yuvām_tvad_DuAM"
+  },
+  {
+    "index": 32366,
+    "sanskrit": "saḥ devaḥ kavinā iṣitaḥ abhi droṇāni dhāvati induḥ indrāya maṁhanā",
+    "english": "Urged onward by the sage, the God speeds forward to the casks of wood, Indu to Indra willingly.",
+    "morphology": "saḥ_tad_SNM devaḥ_deva_SNM kavinā_kavi_SIM iṣitaḥ_iṣay_SNPaPsM abhi_abhi_U droṇāni_droṇa_PANe dhāvati_dhāv_SPr3In induḥ_indu_SNM indrāya_indra_SDM maṃhanā_maṃhanā_SIF"
+  },
+  {
+    "index": 32367,
+    "sanskrit": "mā dyūtam iti abhāṣanta śamaḥ astu iti ca sarvaśas",
+    "english": "Let there be peace.",
+    "morphology": "mā_mā_U dyūtam_dyūta_SNNe iti_iti_U abhāṣanta_bhāṣ_PPs3In śamaḥ_śama_SNM astu_as_SPr3Im iti_iti_U ca_ca_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16160,
+    "sanskrit": "tam punar sādhu sādhayet",
+    "english": "A Sneha should, therefore, be properly cooked.",
+    "morphology": "tam_tad_SAM"
+  },
+  {
+    "index": 16161,
+    "sanskrit": "vārāṇasyāṃ mahādevo yaḥ purāṇeṣu paṭhyate | kṣetrābhimānī bhagavāṃstatprāsādoyamadbhutaḥ || 24 ||",
+    "english": "124. This is that wonderful mansion of the Lord who takes pride in his holy spot and who is cited as Mahādeva in Vārāṇasī In the Purāṇas.",
+    "morphology": "vārāṇasyām_vārāṇasī_SLF mahādevaḥ_mahādeva_SNM yaḥ_yad_SNM purāṇeṣu_purāṇa_PLNe paṭhyate_paṭh_SPr3InPv  / kṣetra_kṣetra_Cp abhimānī_abhimānin_SNM bhagavān_bhagavat_SNM tad_tad_Cp prāsādaḥ_prāsāda_SNM yam_yad_SNM ad"
+  },
+  {
+    "index": 16162,
+    "sanskrit": "śaśvat purā uṣāḥ vi uvāsa devī atho iti adya idam vi āvaḥ maghonī atho iti vi ucchāt ut tarān anu dyūn ajarā amr̥tā carati svadhābhiḥ",
+    "english": "The goddess Dawn has flushed in former ages, And here to-day the bounteous maiden flushes: So also may she flush in days hereafter. With powers her own she fares, immortal, ageless.",
+    "morphology": "śaśvat_śaśvat_U purā_purā_U uṣāḥ_uṣas_SNF vi_vi_U uvāsa_vas_SPs3In devī_devī_SNF atho_atho_U iti_iti_U adya_adya_U idam_idam_SANe vi_vi_U āvaḥ_vṛ_SPs3In maghonī_maghavan_SNF atho_atho_U iti_iti_U vi_vi_U ucchāt_vas_SPr3Su ud_ud_U tar"
+  },
+  {
+    "index": 16163,
+    "sanskrit": "tatra pārtha tapaścakre nirāhārā jitavratā | kṛcchrātikṛcchrapārākamahāsāṃtapanādibhiḥ || 8 ||",
+    "english": "O son of Kuntī, she performed penance there and observed expiatory fasts such as Kṛcchra, Atikṛcchra, Pārāka, Mahāsāntapana etc.",
+    "morphology": "tatra_tatra_ pārtha_pārtha_SVM tapaḥ_tapas_SANe cakre_kṛ_SPs3In nirāhārā_nirāhāra_SNF jita_ji_PaCp vratā_vrata_SNF  / kṛcchrātikṛcchra_kṛcchrātikṛcchra_Cp pārāka_pārāka_Cp mahāsāṃtapana_mahāsāṃtapana_Cp ādibhiḥ_ādi_PIM"
+  },
+  {
+    "index": 16164,
+    "sanskrit": "voḍur eva svarganarakādilakṣaṇau guṇadoṣau, tatprayojanam arthāt svargādikam /",
+    "english": "In reality, the \"good and bad effects,\" in the form of Heaven and Hell, pertain to the bridegroom; but here they stand for that which brings about these effects.",
+    "morphology": "eva_eva_ svarga_svarga_Cp naraka_naraka_Cp ādi_ādi_Cp lakṣaṇau_lakṣaṇa_DuNM guṇa_guṇa_Cp doṣau_doṣa_DuNM tad_tad_Cp prayojanam_prayojana_SNNe arthāt_artha_SBM svarga_svarga_Cp ādikam_ādika_SNNe  /"
+  },
+  {
+    "index": 16165,
+    "sanskrit": "guhyaḥ hi ayam sarva lokasya dharmaḥ",
+    "english": "Verily, this religion is a mystery, unknown to most people.",
+    "morphology": "guhyaḥ_guhya_SNM"
+  },
+  {
+    "index": 16166,
+    "sanskrit": "bhṛgavaḥ tu daduḥ ke cit teṣām vittam yathā īpsitam kṣatriyāṇām tadā tāta kāraṇa antara darśanāt",
+    "english": "while some amongst them duly gave unto the Kshatriyas whatever they wanted.",
+    "morphology": "bhṛgavaḥ_bhṛgu_PNM tu_tu_U daduḥ_dā_PPs3In ke_ka_PNM cit_cit_U teṣām_tad_PGM vittam_vitta_SANe yathā_yathā_U īpsitam_īpsay_SNPaPsNe kṣatriyāṇām_kṣatriya_PGM tadā_tadā_U tāta_tāta_SVM kāraṇa_kāraṇa_NeCp antara_antara_NeCp d"
+  },
+  {
+    "index": 16167,
+    "sanskrit": "na tu evam vartamānānām āvṛttiḥ vidyate punar",
+    "english": "They that succeed in attaining to that state have never to come back to this world after the dissolution of their bodies;",
+    "morphology": "na_na_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32208,
+    "sanskrit": "kim aparaṃ āyatanaṃ /",
+    "english": "III.a \"Yet others\" are the sense-fields.",
+    "morphology": "kim_ka_SNNe aparaḥ_apara_SNM āyatanaḥ_āyatana_SNM  /"
+  },
+  {
+    "index": 32209,
+    "sanskrit": "lagna garbhā vimucyeta garbhiṇī janayet sutam",
+    "english": "A woman that has conceived brings forth a son.",
+    "morphology": "lagna_lag_PaPsCp garbhā_garbha_SNF vimucyeta_vimuc_SPr3OPv garbhiṇī_garbhiṇī_SNF janayet_janay_SPr3O sutam_suta_SAM"
+  },
+  {
+    "index": 32210,
+    "sanskrit": "niryantraṇam idam sarvam viṣa ghnam tu virecanam |",
+    "english": "It does not entail any strict regimen of conduct like other purgatives and acts as a good eliminator of poison.",
+    "morphology": "niryantraṇam_niryantraṇa_SNNe idam_idam_SNNe sarvam_sarva_SNNe viṣa_viṣa_NeCp ghnam_ghna_SNNe tu_tu_U virecanam_virecana_SNNe"
+  },
+  {
+    "index": 32211,
+    "sanskrit": "tacca bhūmau nipatitaṃ tato bhūbhisuto'bhavat | sa prabhāsaṃ tato gatvā bālyātprabhṛti śaṃkaram || 3 ||",
+    "english": "He went to Prabhāsa and ever since his childhood, he propitiated Śaṅkara for many years, by means of his penance.",
+    "morphology": "tat_tad_SNNe ca_ca_ bhūmau_bhūmi_SLF nipatitam_nipat_SNPaNe tatas_tatas_ bhūbhisutaḥ_bhūbhisuta_SNM abhavat_bhū_S3ImIn  / sa_tad_SNM prabhāsam_prabhāsa_SAM tatas_tatas_ gatvā_gam_Co bālyāt_bālya_SBNe prabhṛti_prabhṛti_ śaṃkaram_śaṃka"
+  },
+  {
+    "index": 32212,
+    "sanskrit": "na hyakāraṇamadhiṣṭhātā yukto 'tiprasaṅgāt /",
+    "english": "as what is not a Cause cannot be a controller; as otherwise there would be an absurdity.",
+    "morphology": "na_na_ hi_hi_ akāraṇam_akāraṇa_SNNe adhiṣṭhātā_adhiṣṭhātṛ_SNM yuktaḥ_yuj_SNPaM atiprasaṅgāt_atiprasaṅga_SBM  /"
+  },
+  {
+    "index": 32213,
+    "sanskrit": "bahu mānāt priya tvāt ca tau enam vaktum arhataḥ",
+    "english": "And because they were highly reverenced and dearly loved, therefore, could they alone address him at such times.",
+    "morphology": "bahu_bahu_Cp mānāt_māna_SBM priya_priya_Cp tvāt_tva_SBNe ca_ca_U tau_tad_DuNM enam_enad_SAM vaktum_vac_In"
+  },
+  {
+    "index": 32214,
+    "sanskrit": "tam āgatam idam vākyam abravīt jambukaḥ tadā",
+    "english": "And seeing the wolf come, the jackal said unto him, 'The king of the beasts hath been angry with thee.",
+    "morphology": "tam_tad_SAM āgatam_āgam_SAPaPsM idam_idam_SANe vākyam_vākya_SANe abravīt_brū_SPs3In jambukaḥ_jambuka_SNM tadā_tadā_"
+  },
+  {
+    "index": 32215,
+    "sanskrit": "dharma ātmā ca mahātmā ca prajāpālaḥ pitā tava",
+    "english": "Thy father was virtuous and high-souled, and always protected his people.",
+    "morphology": "dharma_dharma_MCp ātmā_ātman_SNM ca_ca_U mahātmā_mahātman_SNM ca_ca_U prajāpālaḥ_prajāpāla_SNM pitā_pitṛ_SNM tava_tvad_SG"
+  }
+]

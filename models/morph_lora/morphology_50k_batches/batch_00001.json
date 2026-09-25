@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "sanskrit": "mānasam vṛddha sevābhiḥ sadā pārtha apakarṣasi kaccit vaidyāḥ cikitsāyām aṣṭāṅgāyām viśāradāḥ suhṛdaḥ ca anuraktāḥ ca śarīre te hitāḥ sadā",
+    "english": "O son of Pandu, rising from bed at the proper time and dressing thyself well, showest thou thyself to thy people, accompanied by ministers conversant with the auspiciousness or otherwise of moments? O represser of all foes, do men dressed in red and armed with swords and adorned with ornaments stand by thy side to protect thy person? O monarch! behavest thou like the god of justice himself unto those that deserve punishment and those that deserve worship, unto those that are dear to thee and those that thou likest not? O son of Pritha, seekest thou to cure bodily diseases by medicines and fasts, and mental illness with the advice of the aged? I hope that the physicians engaged in looking after thy health are well conversant with the eight kinds of treatment and are all attached and devoted to thee.",
+    "morphology": "mānasam_mānasa_SANe vṛddha_vṛddha_Cp sevābhiḥ_sevā_PIF sadā_sadā_U pārtha_pārtha_SVM apakarṣasi_apakṛṣ_SPr2In kaccit_kaścit_SANe vaidyāḥ_vaidya_PNM cikitsāyām_cikitsā_SLF aṣṭāṅgāyām_aṣṭāṅga_SLF viśāradāḥ_viś"
+  },
+  {
+    "index": 1,
+    "sanskrit": "dviṣat madhyam avaskandya rādheyaḥ dhanuḥ uttamam vidhunvānaḥ śitaiḥ bāṇaiḥ śirāṃsi unmathya pātayat",
+    "english": "Penetrating into the midst of his foes, the son of Radha, shaking his best of bows, began to strike off and fell their heads with his sharp shafts.",
+    "morphology": "dviṣat_dviṣ_PaPrCp madhyam_madhya_SANe avaskandya_avaskand_Co rādheyaḥ_rādheya_SNM dhanuḥ_dhanus_SANe uttamam_uttama_SANe vidhunvānaḥ_vidhū_SNPaPrM śitaiḥ_śā_PIPaPsM bāṇaiḥ_bāṇa_PIM śirāṇā_śiras_SINe unmathya_unmath_Co"
+  },
+  {
+    "index": 2,
+    "sanskrit": "prakaraṇāc ca vivāhapratiṣedhaśeṣo 'yaṃ na pṛthagvākyam /",
+    "english": "From the context it is clear that this verse is supplementary to the foregoing prohibition, and it is not an independent assertion.",
+    "morphology": "prakaraṇāt_prakaraṇa_SBNe ca_ca_ vivāha_vivāha_Cp pratiṣedha_pratiṣedha_Cp śeṣaḥ_śeṣa_SNM ayam_idam_SNM na_na_ pṛthak_pṛthak_"
+  },
+  {
+    "index": 3,
+    "sanskrit": "daśabhir varṣair janmano 'dhikair api paurāṇāṃ sakhyam ākhyāyate / tena daśavarṣādhiko jyeṣṭho bhavati, api tu mitravad vyavahartavyaḥ / yathoktaṃ bho bhavann iti vayasyeti / daśabhyo varṣebhya ūrdhvaṃ jyeṣṭhaḥ / ākhyānam ākhyā /",
+    "english": "Among citizens, equality and friendship are regarded as subsisting among people who differ in their age by ten years, so that among these, one conies to be regarded as \"elder\" when he happens to be more than ten years older; and those less than that should be treated as \"friends and equals\"; and hence accosted as \"Oh, Sir,\" as declared by Gautama Equals in age should be accosted as \"Oh, Sir\"; when the difference in age is more than ten years, the person should be regarded as \"elder\".",
+    "morphology": "daśabhiḥ_daśan_PIM varṣaiḥ_varṣa_PIM janmanaḥ_janman_SGNe adhikaiḥ_adhika_PIM api_api_ paurāṇām_paura_PGM sakhyam_sakhya_SNNe ākhyāyate_ākhyā_SPr3InPv  / tena_tena_ daśa_daśan_Cp varṣa_varṣa_Cp adhikaḥ_adhika_SNM jyeṣṭha"
+  },
+  {
+    "index": 4,
+    "sanskrit": "namo nārāyaṇāyeti mantraḥ sarvārthasādhakaḥ / nāpaiti mama hṛtkośādākāśādiva mārutaḥ //",
+    "english": "Obeisance to Narayana forms my faith and profession, for my success in all undertakings; and may this faith of mine ever abide in my heart, as the wind has its place in the midst of empty air.",
+    "morphology": "namaḥ_namas_SNNe nārāyaṇāya_nārāyaṇa_SDM iti_iti_ mantraḥ_mantra_SNM sarva_sarva_Cp artha_artha_Cp sādhakaḥ_sādhaka_SNM  / na_na_ apaiti_ape_SPr3In mama_mad_SG hṛd_hṛd_Cp kośāt_kośa_SBM ākāśāt_ākāśa_SBNe iva_iva_ mārutaḥ_m"
+  },
+  {
+    "index": 5,
+    "sanskrit": "dharmaśabdo na yāgādivacana eva, kiṃ tarhi, padārthaguṇamātre vartate /",
+    "english": "The word \"Dharma\" here is not restricted to the sense of sacrifice and such other acts prescribed by the Veda; it stands for the characteristic of things in general.",
+    "morphology": "dharma_dharma_Cp śabdaḥ_śabda_SNM na_na_ yāga_yāga_Cp ādi_ādi_Cp vacanaḥ_vacana_SNM eva_eva_ kim_ka_SNNe tarhi_tarhi_ padārtha_padārtha_Cp guṇa_guṇa_Cp mātre_mātra_SLNe"
+  },
+  {
+    "index": 6,
+    "sanskrit": "anujñātān tān viditvā sa ratna dhana saṃcayān pāṇḍavān dhārtarāṣṭrāṇām katham āsīt manaḥ tadā vaiśampāyanaḥ uvāca",
+    "english": "And accompanied by Draupadi and ascending their cars which were all of the hue of the clouds, with cheerful hearts they all set out for that best of cities called Indraprastha.\" SECTION LXXIII Janamejaya said,--\"How did the sons of Dhritarashtra feel, when they came to know that the Pandavas had, with Dhritarashtra's leave, left Hastinapore with all their wealth and jewels?\" Vaisampayana said,--\"O king, learning that the Pandavas had been commanded by the wise Dhritarashtra to return to their capital, Dussasana went without loss of time unto his brother.",
+    "morphology": "anujñātān_anujñā_PAPaPsM tān_tad_PAM viditvā_vid_Co sa_sa_U ratna_ratna_NeCp dhana_dhana_NeCp saṃcayān_saṃcaya_PAM pāṇḍavān_pāṇḍava_PAM dhārtarāṣṭrāṇām_dhārtarāṣṭra_PGM katham_katham_U āsīt_as_SPs3In manaḥ_manas_S"
+  },
+  {
+    "index": 7,
+    "sanskrit": "raktamāṃsamadālipte viṇmūtradravyabhājane | keśaromatṛṇacchanne suvarṇatvaksudhūtake || 48 || vadanaikamahādvāre ṣaḍgavākṣavitabhūṣite | oṣṭhadvayakāṭe ca tathā daṃtārgalānvite || 49 || nāḍīsvedapravāhe ca kālavaktrānalasthite | evaṃvidhe gṛhe gehī jīvo nāmāsti śobhane || 50 ||",
+    "english": "47-50. Human birth is of such a nature that it gives pain ever since conception, O splendid lady. The householder named Jīva (Individual Soul) lives in a house, the skeletal framework of which constitutes its supporting beam. It is fastened and fitted with the sinews. It is smeared and plastered with blood, flesh and fat. It is a receptacle for faeces and urine. It is covered with hair as though with grass. It is spread over by a skin of good colour. The mouth is its only big entrance. It is embellished with six windows. The two lips are the panels of the doors. The teeth do the work of bolts. Perspiration flows out through the vessels of the body. It is stationed in the fire of the jaws of Death.",
+    "morphology": "rakta_rakta_Cp māṃsa_māṃsa_Cp mada_mada_Cp ālipte_ālip_SLPaNe viṣ_viṣ_Cp mūtra_mūtra_Cp dravya_dravya_Cp bhājane_bhājana_SLNe  / keśa_keśa_Cp roma_roman_Cp tṛṇa_tṛṇa_Cp channe_chad_SLPaNe suvarṇa_suvarṇa_Cp tvac_tvac_Cp sudhū"
+  }
+]

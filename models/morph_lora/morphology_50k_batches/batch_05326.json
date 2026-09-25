@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42600,
+    "sanskrit": "viyojyākṛṣya sampūjya pūrvavad dvādaśāntataḥ / ātmīyahṛdayāmbhojakarṇikāyāṃ niveśayet //",
+    "english": "It should be disjoined, drawn and worshipped as before to the end of twelve kinds of worship and placed in the petals of the lotus of his own heart.",
+    "morphology": "viyojya_viyojay_Co ākṛṣya_ākṛṣ_Co sampūjya_sampūjay_Co pūrvavat_pūrvavat_ dvādaśāntataḥ_dvādaśānta_SBNe  / ātmīya_ātmīya_Cp hṛdaya_hṛdaya_Cp ambhoja_ambhoja_Cp karṇikāyām_karṇikā_SLF ā_ā_"
+  },
+  {
+    "index": 42601,
+    "sanskrit": "śāśvata doṣaprasaṅgaḥ / idaṃ tarhi kasmādvacyākaroti “bhaviṣyasi tvaṃ maitreyānāgate 'dhvani tathāgato 'rhan saṃyaksaṃbuddha” iti / kasmācca śrāvakamabhyatītaṃ kālagatamupapattau vyākarotyamuko 'mutropapanna iti /",
+    "english": "If the Buddha kept silent on this point because he feared that the disciple, by admitting the survival of a pudgala named Tathāgata, would fall into the view of eternity, we would then ask why the Blessed One predicted to Maitreya, In the ages to come, you will be a Tathāgata, an Arhat, a Samyaksambuddha; and speaking of one of his deceased disciples, he said, He is at present reborn in such a place.",
+    "morphology": "śāśvata_śāśvata_SVM doṣa_doṣa_Cp prasaṅgaḥ_prasaṅga_SNM  / idam_idam_SANe tarhi_tarhi_ kasmāt_ka_SBNe vacyā_vac_SNFGd ākaroti_ākṛ_SPr3In  / bhaviṣyasi_bhū_SFu2In tvam_tvad_SN maitreya_maitreya_SVM anāgate_anāgata_SLM adhvani_adhv"
+  },
+  {
+    "index": 42602,
+    "sanskrit": "trikṛṣṇalone rajatakaram //",
+    "english": "If it amounts to less than three Krishnala, by a blade of silver;",
+    "morphology": "tri_tri_Cp kṛṣṇala_kṛṣṇala_Cp ūne_ūna_SLNe "
+  },
+  {
+    "index": 42603,
+    "sanskrit": "paurogavastadadhyakṣaḥ sūpakārāstu vallavāḥ / ārālikā āndhasikāḥ sūdā audanikā guṇāḥ //",
+    "english": "The kitchen superintendent is called paurogava. Cooks are denoted by the words sūpakāra, vallava, ārālika, āndhasika, sūda, audanika and guṇa.",
+    "morphology": "paurogavaḥ_paurogava_SNM tad_tad_Cp adhyakṣaḥ_adhyakṣa_SNM sūpa_sūpa_Cp kārāḥ_kāra_PNM tu_tu_ vallavāḥ_vallava_PNM  / ārālikāḥ_ārālika_PNM āndhasikāḥ_āndhasika_PNM sūdāḥ_sūda_PNM audanikāḥ_audanika_PNM guṇāḥ_guṇ"
+  },
+  {
+    "index": 42604,
+    "sanskrit": "upekṣā na atra kartavyā śata śākhaḥ pravardhate",
+    "english": "One should not be indifferent to this, for indifference may subject us to it repeatedly.",
+    "morphology": "upekṣā_upekṣā_SNF"
+  },
+  {
+    "index": 42605,
+    "sanskrit": "ūpārohaprayogaṃ vā sarvathā gururācaret |",
+    "english": "As such, it is unnecessary to think of it otherwise.",
+    "morphology": "__ḥ_U"
+  },
+  {
+    "index": 42606,
+    "sanskrit": "tatas kruddhaḥ raṇe bhīmaḥ jaitram bhūri balam ravim trīn etān tribhiḥ ānarchat viṣa agni pratimaiḥ śaraiḥ",
+    "english": "Then Bhima, inflamed with rage, pierced Jaitra and Ravi and Bhurivala, those three, with three shafts resembling poison or fire.",
+    "morphology": "tatas_tatas_U kruddhaḥ_krudh_SNPaPsM raṇe_raṇa_SLM bhīmaḥ_bhīma_SNM jaitram_jaitra_SAM bhūri_bhūri_Cp balam_bala_SAM ravim_ravi_SAM trīn_tri_PAM etān_etad_PAM tribhiḥ_tri_PIM"
+  },
+  {
+    "index": 42607,
+    "sanskrit": "prahlāda uvāca | so'bhyetya bhaktinamro'tha durvāsā munisattamaḥ | vicārya manasā sarvaṃ paścāttāpānupāśrayat || 69 ||",
+    "english": "Prahlāda said: 69. Sobered down with devotion and accompanied with due deliberation, the virtuous sage Durvāsā then began to repent.",
+    "morphology": "prahlādaḥ_prahlāda_SNM uvāca_vac_SPs3In  / saḥ_tad_SNM abhyetya_abhye_Co bhakti_bhakti_Cp namraḥ_namra_SNM atha_atha_ durvāsāḥ_durvāsas_SNM muni_muni_Cp sattamaḥ_sattama_SNM  / vicārya_vicāray_Co manasā_manas_SINe sarvam_sarva_SANe paśc"
+  }
+]

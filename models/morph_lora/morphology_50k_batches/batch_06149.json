@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49184,
+    "sanskrit": "pracchannaṃ vā prakāśaṃ vā tan niṣeveta yo naraḥ / tasya daṇḍavikalpaḥ syād yatheṣṭaṃ nṛpates tathā //",
+    "english": "On every man who addicts himself to that (vice) either secretly or openly, the king may inflict punishment according to his discretion.",
+    "morphology": "pracchannam_pracchad_SAPaNe vā_vā_ prakāśam_prakāśa_SANe vā_vā_ tat_tad_SANe niṣeveta_niṣev_SPr3O yaḥ_yad_SNM naraḥ_nara_SNM  / tasya_tad_SGM daṇḍa_daṇḍa_Cp vikalpaḥ_vikalpa_SNM syāt_as_SPr3O yathā_yathā_ iṣṭam_iṣ_SAPaNe "
+  },
+  {
+    "index": 49185,
+    "sanskrit": "hastena ca sapādena ityādivacanāt, sarvāṅgasparśanaṃ pratīyate, tac ca snānam eva //",
+    "english": "From what has been said elsewhere regarding \"touching water with the hands and feet &c\" , it is clear that the whole body is to touch water and this is what constitutes \"bathing\".",
+    "morphology": "hastena_hasta_SIM ca_ca_ sa_sa_ pādena_pāda_SIM ityādi_ityādi_Cp vacanāt_vacana_SBNe sarva_sarva_Cp aṅga_aṅga_Cp sparśanam_sparśana_SNNe pratīyate_pratī_SPr3InPv tat_tad_SNNe ca_ca_ snānam_snāna_SNNe eva_eva_  /"
+  },
+  {
+    "index": 49186,
+    "sanskrit": "dhyānāntare 'vitarkā vicāramātrāḥ /",
+    "english": "In the intermediary dhyāna, these same are free from viarka, but associated with vicāra.",
+    "morphology": "__dhyāna_U __antara_U __"
+  },
+  {
+    "index": 49187,
+    "sanskrit": "vāsudevaṃ svamātmānam aśvamedhair athāyajat /",
+    "english": "He worshipped Vāsudeva Viṣṇu, his own self, with the Aśvamedha sacrifice.",
+    "morphology": "vāsudevam_vāsudeva_SAM svam_sva_SAM ātmānam_ātman_SAM aśvamedhaiḥ_aśvamedha_PIM atha_atha_ ayajat_yaj_S3ImIn"
+  },
+  {
+    "index": 49188,
+    "sanskrit": "maṃdehadehanāśārthamudayāstamaye raviḥ | samīhate dvijotsṛṣṭaṃ maṃtratoyāṃjalitrayam || 45 ||",
+    "english": "45. At the time of his rise and setting, the Sun wishes for three handfuls of water inspired by the Mantra and offered by the Brāhmaṇas, for the purpose of the destruction of the demons named Mandehas.",
+    "morphology": "maṃdeha_maṃdeha_Cp deha_deha_Cp nāśa_nāśa_Cp artham_artha_SAM udaya_udaya_Cp astamaye_astamaya_SLM raviḥ_ravi_SNM  / samīhate_samīh_SPr3In dvija_dvija_Cp utsṛṣṭam_utsṛj_SAPaNe maṃtra_mantra_Cp toya_toya_Cp añjali_añjali_Cp traya_tra"
+  },
+  {
+    "index": 49189,
+    "sanskrit": "sthityāvaraṇaṃ bodhau tasyā akopyatvād dhṛtyāvaraṇaṃ samādāne bodhicittasyādhārabhūtatvād abhivyaktyāvaraṇaṃ dhīmatve tasya prakāśanīyatvāt /",
+    "english": "An obstruction to its maintenance is an obstruction to enlightenment , because of its resulting in an absence of anger and frustration. An obstruction to sustaining it is an obstruction to the full taking up of Samsāra, because this becomes the support for the enlightenment-citta.",
+    "morphology": "sthiti_sthiti_Cp āvaraṇam_āvaraṇa_SNNe bodhau_bodhi_SLF tasyāḥ_tad_SGF akopya_akopya_Cp tvāt_tva_SBNe dhṛti_dhṛti_Cp āvaraṇam_āvaraṇa_SNNe samādāne_samādāna_SLNe bodhi_bodhi_Cp cittasya_citta_SGNe ādhāra_ādhāra_Cp bhūta_bhū_Pa"
+  },
+  {
+    "index": 49190,
+    "sanskrit": "tatra sarvatra śvāsapraśvāsadvayagativicchedo'styeveti nāsti śaṅkāvakāśaḥ|",
+    "english": "Thus the \"cutting short of the motion of inspiration and expiration\" applies to all, and consequently the objector's doubt is needless.",
+    "morphology": "tatra_tatra_ sarvatra_sarvatra_"
+  },
+  {
+    "index": 49191,
+    "sanskrit": "atha anyat dhanuḥ ādāya suṣeṇaḥ krodha mūrchitaḥ avidhyat nakulam ṣaṣṭyā sahadevam ca saptabhiḥ",
+    "english": "Sushena also, deprived of his senses in rage, took up another bow and pierced Nakula with sixty arrows and Sahadeva with seven.",
+    "morphology": "atha_atha_U anyat_anya_SANe dhanuḥ_dhanus_SANe ādāya_ādā_Co suṣeṇaḥ_suṣeṇa_SNM krodha_krodha_MCp mūrchitaḥ_mūrchay_SNPaPsM avidhyat_vyadh_SPs3In nakulam_nakula_SAM ṣaṣṭyā_ṣaṣṭi_SIF sahadevam_sahadeva_SAM ca_ca_U saptabhiḥ"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36736,
+    "sanskrit": "“na kadācid eṣa ānanda rūpa-rasa-gandha-sparśādīnāṃ tpta-pūrvo ’bhavat,",
+    "english": "“Never before, Ānanda, has he been satiated with forms, tastes, smells, touches and so on,",
+    "morphology": "na_na_ kadācid_kadācid_ eṣaḥ_etad_SNM ānanda_ānanda_SVM rūpa_rūpa_Cp rasa_rasa_Cp gandha_gandha_Cp sparśa_sparśa_Cp"
+  },
+  {
+    "index": 36737,
+    "sanskrit": "alpakasyāpyapānamaniyamādviṣavat /",
+    "english": "This is because strong liquor makes mindfulness fail, even if they do not drink a drop, this is because the inebriating quantity is not determined, as for poison.",
+    "morphology": "alpakasya_alpaka_SGM api_api_ apānam_apāna_SNNe aniyamaḥ_SNM"
+  },
+  {
+    "index": 36738,
+    "sanskrit": "māsamātreṇa yakṣāste śubhadattaṃ tam abhyadhuḥ / tuṣṭāḥ smas te 'nayā bhaktyā brūhi kiṃciddadāma te //",
+    "english": "At the termination of one month the Yakṣas said to him: “We are pleased with this devotion of yours, we will grant you a boon;",
+    "morphology": "māsa_māsa_Cp mātreṇa_mātra_SINe yakṣāḥ_yakṣa_PNM te_tad_PNM śubhadattam_śubhadatta_SAM tam_tad_SAM abhyadhuḥ_abhidhā_PPs3In  / tuṣṭāḥ_tuṣ_PNPaM smaḥ_as_PPr1In te_tad_PNM anayā_idam_SIF bhaktyā_bhakti_SIF brūhi_brū_SPr2Im ki"
+  },
+  {
+    "index": 36739,
+    "sanskrit": "saṃghāś caapy evam ekarājād etebhyoatisaṃghān ebhyo rakṣayeyuḥ //",
+    "english": "the corporations also, under the protection of such a single monarch, should guard themselves against all kinds of treachery",
+    "morphology": "saṃghāḥ_saṃgha_PNM ca_ca_ api_api_ evam_evam_ eka_eka_Cp rājāt_rāja_SBM etebhyaḥ_etad_PBM ati_ati_ saṃghān_saṃgha_PAM ebhyaḥ_idam_PBM rakṣayeyuḥ_rakṣay_PPr3O"
+  },
+  {
+    "index": 36740,
+    "sanskrit": "tadeta yāvad gacchāmo dvitīyaṃ kaṃcid āśramam / iti saṃmantrayāmāsustatrānye munayastadā //",
+    "english": "so come, let us go to some other hermitage.” When Vālmīki perceived that, he said: “Brāhmans, you need not have any misgivings about the matter;",
+    "morphology": "tat_tad_SANe eta_e_PPr2Im yāvat_yāvat_ gacchāmaḥ_gam_PPr1In dvitīyam_dvitīya_SAM kaṃcid_kaścit_SAM āśramam_āśrama_SAM  / iti_iti_ saṃmantrayāmāsuḥ_sammantray_PPs3InPe"
+  },
+  {
+    "index": 36741,
+    "sanskrit": "supte gṛhapatau tasmin svairam utthāya śaṅkitaḥ / sa priyājīvitārthī tāṃ pustikāṃ tāpaso 'grahīt // gṛhītvaiva ca nirgatya tato rātridinaṃ vrajan / kramāc chmaśānaṃ tat prāpa yatra dagdhāsya sā priyā //",
+    "english": "But when the master of the house was asleep, the ascetic got up timidly and took the book, with the desire of restoring his beloved to life. And he left the house with the book, and travelling day and night at last reached the cemetery where that beloved had been burnt.",
+    "morphology": "supte_svap_SLPaM gṛhapatau_gṛhapati_SLM tasmin_tad_SLM svairam_svaira_SANe utthāya_utthā_Co śaṅkitaḥ_śaṅk_SNPaM  / sa_tad_SNM priyā_priyā_Cp jīvita_jīvita_Cp arthī_arthin_SNM tām_tad_SAF pustikām_pustikā_SAF tāpasaḥ_tāpasa_SNM agr"
+  },
+  {
+    "index": 36742,
+    "sanskrit": "adbhyo jātāny abjāni /",
+    "english": "\"Waterborn\" produced in water.",
+    "morphology": "adbhyaḥ_ap_PBF 5_PNF "
+  },
+  {
+    "index": 36743,
+    "sanskrit": "ā stutāsaḥ marutaḥ viśve ūtī accha sūrīn sarva tātā jigāta ye naḥ tmanā śatinaḥ vardhayanti yūyam pāta svasti bhiḥ sadā naḥ",
+    "english": "Hither, ye Maruts, praised, with all your succours, with all felicity come to our princes, Who, of themselves, a hundredfold increase us. Preserve us evermore, ye Gods, with blessings.",
+    "morphology": "ā_ā_U stutāsaḥ_stu_PNPaPsM marutaḥ_marut_PVM viśve_viśva_PVM ūtī_ūti_SIF accha_acchā_U sūrīn_sūri_PAM sarva_sarva_Cp tātā_tāta_DuVM jigāta_gā_PPr2Im ye_yad_PNM naḥ_mad_PA tmanā_tman_SIM śatinaḥ_śatin_PNM vardhayanti_vardhay_PPr3"
+  }
+]

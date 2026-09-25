@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11576,
+    "sanskrit": "gaṃgā sarasvatī caiva gomatī narmadā nadī | svarṇarekhājale sarvāstathā brahmā savāsavaḥ || 2 ||",
+    "english": "2. The (rivers) Gaṅgā, Sarasvatī, so also Gomatī, and the river Narmadā—all exist in the water of Svarṇarekhā; so also Brahmā with Indra (resides there).",
+    "morphology": "gaṃgā_gaṅgā_SNF sarasvatī_sarasvatī_SNF ca_ca_ eva_eva_ gomatī_gomatī_SNF narmadā_narmadā_SNF nadī_nadī_SNF  / svarṇarekhā_svarṇarekhā_Cp jale_jala_SLNe sarvāḥ_sarva_PNF __pa_U __agra_U __agra_U __agra_U __agra_U __"
+  },
+  {
+    "index": 11577,
+    "sanskrit": "“varṣākāreṇa brāhmaṇena krodha-jātena vāg-duścaritaṃ ktam.”",
+    "english": "“The brahmin Varṣākāra, having become angry, made this wrong doing by way of speech.”",
+    "morphology": "varṣa_varṣa_Cp ākāreṇa_ākāra_SIM brāhmaṇena_brāhmaṇa_SIM krodha_krodha_Cp jātena_jan_SIPaM vāc_vāc_Cp duścaritam_duścarita_SNNe"
+  },
+  {
+    "index": 11578,
+    "sanskrit": "utsanna kṛṣi gorakṣyā nivṛtta vipaṇa āpaṇā",
+    "english": "Markets and shops were abandoned.",
+    "morphology": "uṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇīṣṇ"
+  },
+  {
+    "index": 11579,
+    "sanskrit": "etasminnaṃtare tatra rāghavaśśaivasattamaḥ | uvāca bhrātaraṃ prītyā jalārthī lakṣmaṇābhidham || rāma uvāca | bhrātarlakṣmaṇa vīreśāhaṃ jalārthī pipāsitaḥ | tadānaya drutaṃ pātho vānaraiḥ kaiścideva hi ||",
+    "english": "14. Then Rāma the excellent devotee of Śiva, desirous of water, lovingly spoke to his brother Lakṣmaṇa. 15. O brother Lakṣmaṇa, lord of heroes, I am thirsty. I desire water. You get some water quickly through some monkey.",
+    "morphology": "etasmin_etad_SLNe antare_antara_SLNe tatra_tatra_ rāghavaḥ_rāghava_SNM śaiva_śaiva_Cp sattamaḥ_sattama_SNM  / uvāca_vac_SPs3In bhrātaram_bhrātṛ_SAM prītyā_prīti_SIF jala_jala_Cp arthī_arthin_SNM lakṣmaṇa_lakṣmaṇa_Cp abhidham_abhidh"
+  },
+  {
+    "index": 11580,
+    "sanskrit": "pūjayethāḥ yāyajūkān tava api aṃśaḥ bhavet yathā",
+    "english": "Thou shouldst with gifts adore those Brahmanas who perform sacrifices.",
+    "morphology": "pūjayethāḥ_pūjay_SPr2O"
+  },
+  {
+    "index": 11581,
+    "sanskrit": "athainadvimuñcati kṛtvā tatkarma yasmai karmaṇa enadyuṅkte vimucyantāmusriyā ityetasmā u hi karmaṇa usriyā yujyante taddakṣiṇodasyatyudagitaraddaivaṃ caiva tatpitryam ca vyākaroti //",
+    "english": "Having performed the work for which he has put the team to that (plough), he now unfastens it: 'Let the oxen be unyoked!' he says, for it is for that work that the oxen were yoked.",
+    "morphology": "atha_atha_ enat_enad_SANe vimuñcati_vimuc_SPr3In kṛtvā_kṛ_Co tat_tad_SANe karma_karman_SANe yasmai_yad_SDNe karmaṇe_karman_SDNe enat_enad_SANe yuṅkte_yuj_SPr3In vimucyantām_vimuc_PPr3ImPv usriyāḥ_usriyā_PNF iti_iti_ etasmai_etad_SDNe u_u_ hi"
+  },
+  {
+    "index": 11582,
+    "sanskrit": "lokaprasiddham ekasmāt",
+    "english": "Among these two, \"That which is accepted by the world at large is due to the one\" III.",
+    "morphology": "__loka_U"
+  },
+  {
+    "index": 11583,
+    "sanskrit": "yasmāttasya ha vai prakṛtasyaivaitasyā'tmano vaiśvānarasya mūrdhaiva sutejāścakṣurviśvarūpaḥ prāṇaḥ pṛthagvartmā'tmā sandeho bahulo bastireva",
+    "english": "Because of this same VaiśvānaraSelf, which is the subjectmatter of the section,the Head itself is the ‘Highly Brilliant’, the Eye is the Multiform,the Lifebreath is the Diversecoursed Soul,the Trunk is the Extensive,‘the Bladder is Wealth and the Earth is the Feet",
+    "morphology": "yasmāt_yasmāt_ tasya_tad_SGM ha_ha_ vai_vai_ prakṛtasya_prakṛ_SGPaM eva_eva_ etasya_etad_SGM ātmanaḥ_ātman_SGM vaiśvānarasya_vaiśvānara_SGM mūrdhā_mūrdhan_SNM eva_eva_ su_su_ tejāḥ_tejas_SNM cakṣuḥ_cakṣus_SNNe viśva_viśva_Cp rū"
+  }
+]

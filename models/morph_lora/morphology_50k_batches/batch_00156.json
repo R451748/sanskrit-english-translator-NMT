@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1240,
+    "sanskrit": "grāmyam vārāha māṃsam ca yat ca eva a prokṣitam bhavet",
+    "english": "The other articles that should not be offered at Sraddhas are the flesh of the domesticated hog, the meat of all animals not slaughtered at sacrifices, Nigella sativa, salt of the variety called Vid, the potherb that is called Sitapaki, all sprouts (like those of the bamboo), and also the Trapa bispinosa.",
+    "morphology": "grāmyam_grāmya_SNNe vārāha_vārāha_Cp māṃsam_māṃsa_SNNe ca_ca_U yat_yad_SNNe ca_ca_U eva_eva_U ṛṣṇā_ṛṣṇā_ṛṣṇā_SNF"
+  },
+  {
+    "index": 1241,
+    "sanskrit": "yaḥ prayacchati viprāya bhūmim ramyām sa dakṣiṇām",
+    "english": "The Brahmana is the real speaker.",
+    "morphology": "yaḥ_yad_SNM"
+  },
+  {
+    "index": 1242,
+    "sanskrit": "adhaḥ śirobhidṛśyante nārakair divi devatāḥ / devāścādhomukhānsarvānadhaḥ paśyanti nārakān //",
+    "english": "The gods in heaven are beheld by the inhabitants of hell, as they move with their heads inverted whilst the god, as they cast their eyes downwards, behold the sufferings of those in hell.",
+    "morphology": "adhas_adhas_ śirobhiḥ_śiras_PINe dṛśyante_dṛś_PPr3InPv nārakaiḥ_nāraka_PIM divi_div_SLM devatāḥ_devatā_PNF  / devāḥ_deva_PNM ca_ca_ adhomukhān_adhomukha_PAM sarvān_sarva_PAM adhas_adhas_ paśyanti_paś_PPr3In"
+  },
+  {
+    "index": 1243,
+    "sanskrit": "tatra tīrthe naro yastu snātvā niyatamānasaḥ | saṃtarpya pitṛdevāṃśca piṇḍena salilena ca || 4 || mūlasthānaṃ tataḥ paśyetsa gacchetparamāṃ gatim | guhyādguhyatarastatra viśeṣastu śruto mayā || 5 ||",
+    "english": "A man who controls his mind, takes his holy bath there in the Tīrtha, offers libations of water and rice-balls to Pitṛs and deities and thereafter visits Mūlasthāna attains the greatest goal. A special feature there has been heard by me.",
+    "morphology": "tatra_tatra_ tīrthe_tīrtha_SLNe naraḥ_nara_SNM yaḥ_yad_SNM tu_tu_ snātvā_snā_Co niyata_niyam_PaCp mānasaḥ_mānasa_SNM  / saṃtarpya_saṃtarpay_Co pitṛ_pitṛ_Cp devān_deva_PAM ca_ca_ piṇḍena_piṇḍa_SIM salilena_salila_SINe ca_ca_  /"
+  },
+  {
+    "index": 1244,
+    "sanskrit": "rudra pātu palaśasya samidbhiḥ kanakaṃ labhet //",
+    "english": "One would get gold by oblations with the twigs of palāśa with the hymn rudra pātu Rudra protect.",
+    "morphology": "rudra_rudra_SVM pātu_pā_SPr3Im palaśasya_palaśa_SGM"
+  },
+  {
+    "index": 1245,
+    "sanskrit": "tataḥ sa māṃ punaḥ prāha bhayena mahatāvṛtaḥ | śṛṇu tāvadvaco'smākaṃ tataḥ kuru yathocitam || 129 ||",
+    "english": "129-130. Frightened very much the snake said to me further: ‘Listen to my words and then do whatever you consider befitting, O Brāhmaṇa.",
+    "morphology": "tatas_tatas_ sa_tad_SNM mām_mad_SA punar_punar_ prāha_prāh_SPs3In bhayena_bhaya_SINe mahatā_mahat_SINe āvṛtaḥ_āvṛ_SNPaM  / śṛṇu_śru_SPr2Im tāvat_tāvat_ vacaḥ_vacas_SANe asmākam_mad_PG tatas_tatas_ kuru_kṛ_SPr2Im yathocitam_yathocit"
+  },
+  {
+    "index": 1246,
+    "sanskrit": "ahaṃ ca tejasā yuktastatprabhāveṇa saṃsthitaḥ || 70 ||",
+    "english": "70. By its power, I am equipped with refulgence.",
+    "morphology": "aham_mad_SN ca_ca_ tejasā_tejas_SINe yuktaḥ_yuj_SNPaM tad_tad_Cp prabhāvena_prabhāva_SIM saḥ_tad_SNM"
+  },
+  {
+    "index": 1247,
+    "sanskrit": "yayā radhram pārayatha ati aṁhaḥ yayā nidaḥ muñcatha vanditāram arvācī sā marutaḥ yā vaḥ ūtiḥ o iti su vāśrāiva su matiḥ jigātu",
+    "english": "May that grace of yours by which you help the wretched 1 across all anguish, and by which you deliver the worshipper from the reviler, come hither, O Maruts; may your favour approach us like a cow (going to her calf)!",
+    "morphology": "yayā_yad_SIF radhram_radhra_SAM pārayatha_pāray_PPr2In ati_ati_U aṁhaḥ_ah_PAF yayā_yad_SIF nidaḥ_nid_SBF muñcatha_muc_PPr2In vanditāram_vanditṛ_SAM arvācī_arvāñc_SNF sā_tad_SNF marutaḥ_marut_PVM yā_yad_SNF vaḥ_tvad_PG ūtiḥ_ūti_S"
+  }
+]

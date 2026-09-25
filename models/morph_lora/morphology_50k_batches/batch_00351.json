@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2800,
+    "sanskrit": "ratha naubhiḥ nara vyāghrāḥ prateruḥ sainya sāgaram",
+    "english": "And cars constituted the boats by which brave men crossed it.",
+    "morphology": "ratha_ratha_MCp naubhiḥ_nau_PIF nara_nara_MCp vyāghrāḥ_vyāghra_PNM prateruḥ_pratṛ_PPs3In"
+  },
+  {
+    "index": 2801,
+    "sanskrit": "hrīṃ kārī khecarī caṇḍā chedanī kṣobhaṇī kriyā / kṣemakārī ca hrīṃ kārī phaṭkārī navaśaktayaḥ //",
+    "english": "The names of the nine goddesses of energy are Hrīṃkārī, Khecarī, Caṇḍā, Chedanī, Kṣobhaṇī, Kriyā, Kṣemakārī, Hrīṃkārī and Phaṭkārī.",
+    "morphology": "__hrīṃ_U __kārī_U __khecarī_U __caṇḍā_U __chedanī_U __kṣobhaṇī_U __kriyā_U  / __kṣemakārī_U ca_ca_U __hrīṃ_U __kārī_U __phaṭkārī_U __navan_U __śakti_U  /"
+  },
+  {
+    "index": 2802,
+    "sanskrit": "evaṃ sarvān imān rājā vyavahārān samāpayan / vyapohya kilbiṣaṃ sarvaṃ prāpnoti paramāṃ gatim //",
+    "english": "A king who thus brings to a conclusion. all the legal business enumerated above, and removes all sin, reaches the highest state (of bliss).",
+    "morphology": "evam_evam_ sarvān_sarva_PAM imān_idam_PAM rājā_rājan_SNM vyavahārān_vyavahāra_PAM samāpayan_samāpay_SNPaPrM  / vyapohya_vyapoh_Co kilbiṣam_kilbiṣa_SANe sarvam_sarva_SANe prāpnoti_prāp_SPr3In paramām_parama_SAF gatim_gati_SAF  /"
+  },
+  {
+    "index": 2803,
+    "sanskrit": "yamāśritya mahāvīraṃ kauravāssuma hābalāḥ | bhīṣmādayo babhūvuste'jeyā api divaukasām ||",
+    "english": "16. By resorting to that powerful hero, Bhīsma and other Kauravas became invincible even to the gods.",
+    "morphology": "yam_yad_SAM āśritya_āśri_Co mahā_mahat_Cp vīram_vīra_SAM kauravāḥ_kaurava_PNM su_su_ mahā_mahat_Cp balāḥ_bala_PNM  / bhīṣma_bhīṣma_Cp ādayaḥ_ādi_PNM babhūvuḥ_bhū_PPs3In te_tad_PNM ajeyāḥ_ajeya_PNM api_api_ divaukasām_divauka"
+  },
+  {
+    "index": 2804,
+    "sanskrit": "sato vidyamānasya dharmaḥ saddharmo 'stitvaṃ tenopagataṃ prāptam astītyarthaḥ /",
+    "english": "The ‘property of existence’ means the property that should he present in the existing thing;",
+    "morphology": "sataḥ_as_SGPaPrM vidyamānasya_vid_SGPaPrMPv dharmaḥ_dharma_SNM sat_sat_Cp dharmaḥ_dharma_SNM astitvam_astitva_SNNe tena_tad_SIM upagatam_upagam_SNPaNe prāptam_prāp_SNPaNe asti_as_SPr3In iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 2805,
+    "sanskrit": "svasty astu devebhya iti stuvaṃs tatrāṅgirābravīt / svasty astv iti stuvaṃs tatra devān āṅgiraso 'bravīt /",
+    "english": "Angiras prayed for the well-being of the gods and Sukra, the preceptor of the Daityas, prayed for their well-being –.",
+    "morphology": "svasti_svasti_SNNe astu_as_SPr3Im devebhyaḥ_deva_PDM iti_iti_ stuvan_stu_SNPaPrM tatra_tatra_ aṅgirāḥ_aṅgiras_SNM abravīt_brū_S3ImIn  / svasti_svasti_SNNe astu_as_SPr3Im iti_iti_ stuvan_stu_SNPaPrM tatra_tatra_ devān_deva_PAM āṅgirasaḥ_ā"
+  },
+  {
+    "index": 2806,
+    "sanskrit": "viśvasaṃrakṣaṇe saktā rakṣitā kanakena yā | ā brahmastambajananī pātu māṃ kanakeśvarī || 29 ||",
+    "english": "May Kanakeśvarī protect me! She is interested in the protection of the universe. She is guarded by Kanaka (God). She is the mother of everything from Brahmā to a blade of grass.",
+    "morphology": "viśva_viśva_Cp saṃrakṣaṇe_saṃrakṣaṇa_SLNe saktā_sañj_SNPaF rakṣitā_rakṣ_SNPaF kanakena_kanaka_SINe yā_yad_SNF  / ā_ā_ brahmastamba_brahmastamba_Cp jananī_jananī_SNF pātu_pā_SPr3Im mām_mad_SA kanakeśvarī_kanakeśvarī_SNF  /"
+  },
+  {
+    "index": 2807,
+    "sanskrit": "śaraṇa āgateṣu ca evam tvam kuru sarvam yudhiṣṭhira",
+    "english": "Do thou also, O Yudhishthira, act in the same way towards those that seek thy protection.",
+    "morphology": "śaraṇa_śaraṇa_NeCp āgateṣu_āgam_PLPaPsM ca_ca_U evam_evam_U"
+  }
+]

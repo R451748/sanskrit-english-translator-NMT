@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37424,
+    "sanskrit": "yaḥ devaḥ deva tamaḥ jāyamānaḥ mahaḥ vājebhiḥ mahat bhiḥ ca śuṣmaiḥ dadhānaḥ vajram bāhvoḥ uśantam dyām amena rejayat pra bhūma",
+    "english": "God who of all the Gods was born divinest, endowed with ample strength and mighty powers, And bearing in his arrns the yearning thunder, with violent rush caused heaven and earth to tremble.",
+    "morphology": "yaḥ_yad_SNM devaḥ_deva_SNM deva_deva_MCp tamaḥ_tamas_SANe jāyamānaḥ_jan_SNPaPrM mahaḥ_mahas_SANe vājebhiḥ_vāja_PIM mahat_mahat_Cp bhiḥ_bhi_PIM ca_ca_U śuṣmaiḥ_śuṣma_PIM dadhānaḥ_dhā_SNPaPrM vajram_vajra_SAM bāhvoḥ_bāhu_DuL"
+  },
+  {
+    "index": 37425,
+    "sanskrit": "evaṃ phālguna teṣāṃ tu vacaḥ śrutvā mahātmanām | atīva saṃprahṛṣṭo'haṃ tānvisṛjyetyaciṃtayam || 26 ||",
+    "english": "26. O Phālguna, on hearing these words of those noble souls, I was much delighted. After bidding them adieu I thought thus.",
+    "morphology": "evam_evam_ phālguna_phālguna_SVM teṣām_tad_PGM tu_tu_ vacaḥ_vacas_SANe śrutvā_śru_Co mahātmanām_mahātman_PGM  / atīva_atīva_ saṃprahṛṣṭaḥ_saṃprahṛṣ_SNPaM aham_mad_SN tān_tad_PAM visṛjya_visṛj_Co iti_iti_ aciṃtayam_cint"
+  },
+  {
+    "index": 37426,
+    "sanskrit": "asya vijñānasya /",
+    "english": "‘asya’ i.e. of the Cognition.",
+    "morphology": "asya_idam_SGNe"
+  },
+  {
+    "index": 37427,
+    "sanskrit": "va īśaḥ che manonmānī makṣe tārkṣo hrīṃ ca mādhavaḥ // kṣeṃ brahmā huṃ tathādityo dāruṇaṃ phaṭ smṛtāḥ sadā //9//",
+    "english": "Va for Īśaḥ, che for Manonmanī, ma and kṣe for the Garuḍa, hrauṃ for Mādhava, kṣeṃ for Brahmā, huṃ for Āditya. The mantra phaṭ hrauṃ is always remembered as cruel. Oṃ ḍe kha khyāṃ.",
+    "morphology": "īśaḥ_īśa_SNM che_che_ manonmānī_manonmānin_SNM makṣe_makṣe_ tārkṣaḥ_tārkṣa_SNM hrīṃ_hrīṃ_ ca_ca_ mādhavaḥ_mādhava_SNM  // kṣeṃ_kṣeṃ_ brahmā_brahman_SNM hum_hum_ tathā_tathā_ ādityaḥ_āditya_SNM dāruṇam_dāru"
+  },
+  {
+    "index": 37428,
+    "sanskrit": "deśaḥ pṛthivī //",
+    "english": "Country space means the earth;",
+    "morphology": "deśaḥ_deśa_SNM"
+  },
+  {
+    "index": 37429,
+    "sanskrit": "nāsya pādau prakṣālayet //",
+    "english": "But he must not wash his feet,",
+    "morphology": "na_na_ asya_idam_SGM pādau_pāda_DuAM "
+  },
+  {
+    "index": 37430,
+    "sanskrit": "pramardayan gajān sarvān naḍvalāni iva kuñjaraḥ",
+    "english": "And he began to grind thy troops with the greatest ease like an elephant crushing a forest of reeds.",
+    "morphology": "pramardayan_pramarday_SNPaPrM gajān_gaja_PAM sarvān_sarva_PAM naḍvalāni_naḍvala_PANe"
+  },
+  {
+    "index": 37431,
+    "sanskrit": "tasmātkurvaṃtu me sarve prasādaṃ munisattamāḥ | upadeśapradānena yena pāpaṃ kṣapāmyaham || 57 ||",
+    "english": "57. Hence, O excellent sages, be pleased ye all to impart some sound instruction to me so that I can eradicate my sins.",
+    "morphology": "tasmāt_tasmāt_ kurvantu_kṛ_PPr3Im me_mad_SG sarve_sarva_PNM prasādam_prasāda_SAM muni_muni_Cp sattamāḥ_sattama_PNM  / upadeśa_upadeśa_Cp pradānena_pradāna_SINe yena_yad_SINe pāpam_pāpa_SANe kṣapāmi_kṣap_SPr1In aham_mad_SN  /"
+  }
+]

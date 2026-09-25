@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39128,
+    "sanskrit": "śabda upalambha velāyām karṇa paryanta vartinaḥ | na vāyavaḥ avagamyante śrotra saṃskāra kāriṇaḥ || nādena saṃskṛtāt śrotrāt yadā śabdaḥ pratīyate | tad upaśleṣataḥ tasya bodhaḥ adhyakṣeṇa bādhyate ||",
+    "english": "At the time that the word-sound is heard, there is no perception of the air-currents reaching the ear and embellishing the auditory organ. when the sound is cognised through the ear as embellished by the pitch,—there is idea of the pitch as related to that sound; and this idea is clearly annulled by direct perception",
+    "morphology": "śabda_śabda_MCp upalambha_upalambha_MCp velāyām_velā_SLF karṇa_karṇa_MCp paryanta_paryanta_MCp vartinaḥ_vartin_PNM  / na_na_U vāyavaḥ_vāyu_PNM avagamyante_avagam_PPr3InPv śrotra_śrotra_NeCp saṃskāra_saṃskāra_MCp kāriṇaḥ_kārin_P"
+  },
+  {
+    "index": 39129,
+    "sanskrit": "vaiśvānaro vyāttam |",
+    "english": "its speech is speech.",
+    "morphology": "vaiśvānaraḥ_vaiśvānara_SNM"
+  },
+  {
+    "index": 39130,
+    "sanskrit": "tasya dve nāmanī loke dakṣaḥ kaḥ iti ca ucyate",
+    "english": "This last has two names in the world, viz., Daksha and Kasyapa.",
+    "morphology": "tasya_tad_SGM dve_dvi_DuNNe nāmanī_nāman_DuNNe loke_loka_SLM"
+  },
+  {
+    "index": 39131,
+    "sanskrit": "veṇuvīṇāmṛdaṅgaiś ca paṇavaiś ca sahasraśaḥ / vādyamānaiḥ sa śuśrāva gītam apsarasāṃ tadā //",
+    "english": "Shankara heard the Apsaras sing in accompaniment with the music of flute, Vinā, Mridanga and Panava.",
+    "morphology": "veṇu_veṇu_Cp vīṇā_vīṇā_Cp mṛdaṅgaiḥ_mṛdaṅga_PIM ca_ca_ paṇavaiḥ_paṇava_PIM ca_ca_ sahasraśas_sahasraśas_  / vādyamānaiḥ_vāday_PIPaPrMPv sa_tad_SNM śuśrāva_śru_SPs3In gītam_gīta_SANe apsarasām_apsaras_PGF tadā_tad"
+  },
+  {
+    "index": 39132,
+    "sanskrit": "tasyāśchandomātrāyāḥ sarvabhūtatvamanupapannamiti gāyatrīkāraṇaṃ vācaṃ śabdayatyasau gaurasāvaśva iti ca trāyate ca rakṣatyamuṣmānmā bhaiṣīḥ kiṃ te bhayamutthitamityādinā sarvato bhayānnivartyamāno vācā trātaḥ syāt /",
+    "english": "Feeling that Gāyatrī being a mere metrical concatenation of syllables, it is not possible for it to be everything, the Text proceeds to represent the Gāyatrī as Speech itself, which is the origin of the Gāyatrī;Speech indeed is Gāyatrī; and Speech is everything; because Speech, in the form of word, sings out all that exists;ie, represents everything in words, as ‘that is the cow’, ‘this is the horse,and also protects all that exists;everyone is protected from all dangers by means of such words as‘Do not fear;",
+    "morphology": "tasyāḥ_tad_SGF chandomātrāyāḥ_chandomātrā_SGF sarva_sarva_Cp bhūta_bhūta_Cp tvam_tva_SNNe anupapannam_anupapanna_SNNe iti_iti_ gāyatrī_gāyatrī_Cp kāraṇam_kāraṇa_SANe vācam_vāc_SAF śabdayati_śabday_SPr3In asau_adas_SNM gauḥ_go_SN"
+  },
+  {
+    "index": 39133,
+    "sanskrit": "sāyakān ca eva vividhān aśvatthāmni mumoca ha",
+    "english": "In return, he sped many arrows at Aswatthaman.",
+    "morphology": "sāyakān_sāyaka_PAM"
+  },
+  {
+    "index": 39134,
+    "sanskrit": "vajraṃ marakataṃ ratnaṃ padmarāgañca mauktikaṃ // indranīlaṃ mahānīlaṃ vaidūryaṃ gandhaśasyakaṃ / candrakāntaṃ sūryakāntaṃ sphaṭikaṃ pulakaṃ tathā //",
+    "english": "The gems that are to be worn by the kings are diamond, emerald, ruby, pearl, sapphire, mahānīla a kind of sapphire, lapis lazuli, gandhaśasyaka ?, moonstone, sunstone, crystal, pulaka, karketana, topaz and the jyotirasa.",
+    "morphology": "vajram_vajra_SNNe marakatam_marakata_SNNe ratnam_ratna_SNNe padmarāgam_padmarāga_SNNe ca_ca_ mauktikam_mauktika_SNNe  // indranīlam_indranīla_SNNe mahānīlam_mahānīla_SNNe vaiḍūryam_vaiḍūrya_SNNe gandhaśasyakam_gandhaśasyaka_SNNe  / candrak"
+  },
+  {
+    "index": 39135,
+    "sanskrit": "tripakṣād ūrdhvam anabhisāraṃ rājā haret,",
+    "english": "If no claimant is forthcoming within three fortnights, such articles shall be taken by the king",
+    "morphology": "tri_tri_Cp pakṣāt_pakṣa_SBM ūrdhvam_ūrdhvam_"
+  }
+]

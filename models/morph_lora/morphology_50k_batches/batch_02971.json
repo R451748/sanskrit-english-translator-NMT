@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23760,
+    "sanskrit": "etena niyamena āsīt varṣāṇi aṣṭādaśa eva tu",
+    "english": "And he passed eighteen years, practising such vows.",
+    "morphology": "etena_etad_SIM niyamena_niyama_SIM āsīt_as_SPs3In varṣāṇi_varṣa_PANe aṣṭādaśa_aṣṭādaśan_SANe eva_eva_U tu_tu_U"
+  },
+  {
+    "index": 23761,
+    "sanskrit": "ṛddhimantaḥ mahātmānaḥ śastra pūtāḥ divam gatāḥ",
+    "english": "Sanctified by death caused by weapons, those high-souled beings of prosperity all succeeded in attaining to Heaven.",
+    "morphology": "ṛddhimantaḥ_ṛddhimat_PNM mahātmānaḥ_mahātman_PNM śastra_śastra_NeCp pūtāḥ_pū_PNPaPsM"
+  },
+  {
+    "index": 23762,
+    "sanskrit": "prajñā nāśaḥ ca balavān kṣaṇena samapadyata",
+    "english": "In a trice, their powers of illusion also disappeared.",
+    "morphology": "prajñā_prajñā_FCp nāśaḥ_nāśa_SNM ca_ca_U balavān_balavat_SNM kṣaṇena_kṣaṇa_SIM"
+  },
+  {
+    "index": 23763,
+    "sanskrit": "yat asya manyuḥ adhvanīt vi vr̥tram parva śaḥ rujan apaḥ samudram airayat",
+    "english": "When his wrath thundered, when he rent Vr̥itra to pieces, limb by limb, He sent the waters to the sea.",
+    "morphology": "yat_yat_U asya_idam_SGM manyuḥ_manyu_SNM adhvanīt_dhvan_SPs3In vi_vi_U vr̥tram_vrātra_SANe parva_parvan_SANe śaḥ_śas_U rujan_ruj_SNPaPrM apaḥ_ap_PAF samudram_samudra_SAM airayat_īray_SPs3In"
+  },
+  {
+    "index": 23764,
+    "sanskrit": "yātrāvetanaṃ rājanaubhiḥ sampatantaḥ //",
+    "english": "Passengers arriving on board the kings ship shall pay the requisite amount of sailing fees yátrávetanam",
+    "morphology": "yātrā_yātrā_Cp vetanam_vetana_SANe rāja_rājan_Cp naubhiḥ_nau_PIF sampatantaḥ_sampat_PNPaPrM  /"
+  },
+  {
+    "index": 23765,
+    "sanskrit": "dhyāneṣu ca kathaṃ na vyavasthitaḥ sukhahetuḥ /",
+    "english": "Furthermore, how can one dispute that, in the Dhyānas, the causes of pleasure are always causes of pleasure?",
+    "morphology": "dhyāneṣu_dhyāna_PLNe ca_ca_ katham_katham_ na_na_ vyavasthitaḥ_vyavasthā_SNPaM sukha_sukha_Cp hetuḥ_hetu_SNM  /"
+  },
+  {
+    "index": 23766,
+    "sanskrit": "vaiśeṣikaiḥ ca mastiṣkya śiraḥ vasti nasya dhūma upanāha sneha nāḍī sveda ādibhiḥ",
+    "english": "Errhines, MastikyaSiro-vasti, inhalation of the smoke (Dhuma-pana) from medicated drugs, poulticing (Upanaha), unguents and Nadi-sveda, etc., are the special features of the medical treatment of this disease.",
+    "morphology": "vaiśeṣikaiḥ_vaiśeṣika_PIM ca_ca_U mastiṣkya_mastiṣkya_NeCp śiraḥ_śiras_NeCp vasti_vasti_MCp nasya_nasya_NeCp dhūma_dhūma_MCp upanāha_upanāha_MCp sneha_sneha_MCp nāḍī_nāḍī_FCp sveda_sveda_MCp ādibhiḥ_ādi_PIM"
+  },
+  {
+    "index": 23767,
+    "sanskrit": "īśvara uvāca | śṛṇu saptatikaṃ devaṃ durddhareśvaramīśvaram | yasya darśanato devi naraḥ pāpaiḥ pramucyate || 1 ||",
+    "english": "Īśvara said: 1. Listen to (the greatness of) the Durddharṣeśvara Liṅga, the seventieth deity. Merely by seeing it, O goddess, a man is rid of sins.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / śṛṇu_śru_SPr2Im saptatikam_saptatika_SAM devam_deva_SAM durddhareśvaram_durddhareśvara_SAM īśvaram_īśvara_SAM  / yasya_yad_SGM darśanataḥ_darśana_SBNe devi_devī_SVF naraḥ_nara_SNM pāpaiḥ_p"
+  }
+]

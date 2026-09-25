@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49080,
+    "sanskrit": "prāgbhūtaṃ bhūtanirbhāsaṃ jñānaṃ tu janayet param // tadanyasyeti /",
+    "english": "it is only a previous cognition envisaging the substances that could produce another such cognition.",
+    "morphology": "prāc_prāñc_Cp bhūtam_bhū_SAPaNe bhūta_bhūta_Cp nirbhāsam_nirbhāsa_SANe jñānam_jñāna_SANe tu_tu_ janayet_janay_SPr3O param_para_SANe  // tad_tad_Cp anyasya_anya_SGM iti_iti_  /"
+  },
+  {
+    "index": 49081,
+    "sanskrit": "bhūtānyamūni kālo'yamātmanopyahameva hi | mayā virahitaṃ ki vā triṣu lokeṣu vidyate || 19 ||",
+    "english": "19. All these elements, this Kāla, everything belongs to me, the Ātman. Is there anything in the three worlds bereft of me?",
+    "morphology": "bhūtāni_bhūta_PNNe amūni_adas_PNNe kālaḥ_kāla_SNM ayam_idam_SNM ātmanā_ātman_SIM api_api_ aham_mad_SN eva_eva_ hi_hi_  / mayā_mad_SI virahitam_virahita_SNNe ki_ka_SNNe vā_vā_ triṣu_tri_PLM lokeṣu_loka_PLM vidyate_vid_SPr3InPv  /"
+  },
+  {
+    "index": 49082,
+    "sanskrit": "teṣāṃ kilāsthinicayaiḥ sthalarūpaṃ babhūva tat | bhasmapuṃjanibhākāraṃ tenābhūdyādava sthalam || 96 ||",
+    "english": "96. The mass of their bones assumed the form of a mound. Therefore, it became the Yādavasthala, a heap of ashes.",
+    "morphology": "teṣām_tad_PGM kila_kila_ asthi_asthi_Cp nicayaiḥ_nicaya_PIM sthala_sthala_Cp rūpam_rūpa_SNNe babhūva_bhū_SPs3In tat_tad_SNNe  / bhasma_bhasman_Cp puñja_puñja_Cp nibha_nibha_Cp ākāram_ākāra_SNNe tena_tena_ abhūt_bhū_SPs3In yādavaiḥ_yāda"
+  },
+  {
+    "index": 49083,
+    "sanskrit": "tābhyāṃ tulyaṃ vartata iti hetuvittivat / prayogaḥ yat sarvākāreṇa san na tat kenacij janyaṃ yathā prakṛtiś caitanyaṃ vā /",
+    "english": "and what is like these two is ‘like the Cause and the Spirit The argument may be thus formulated That which is existent in its entirety cannot be produced by anything, as, for instance, Primordial Matter and Spirit.;",
+    "morphology": "tābhyām_tad_DuINe tulyam_tulya_SNNe vartate_vṛt_SPr3In iti_iti_ hetu_hetu_Cp vitti_vitti_Cp vat_vat_  / prayogaḥ_prayoga_SNM yat_yad_SNNe sarva_sarva_Cp ākāreṇa_ākāra_SIM sat_as_SNPaPrNe na_na_ tat_tad_SNNe kenacid_kaścit_SIM janyam_jan_SNNeGd"
+  },
+  {
+    "index": 49084,
+    "sanskrit": "vipra tyāga samādhi sthaḥ saṃyata ātmā dṛḍha vrataḥ",
+    "english": "Let a man concentrating his mind, recite this hymn.",
+    "morphology": "vipra_vipra_SVM tyāga_tyāga_MCp samādhi_samādhi_MCp sthaḥ_stha_SNM sā_sā_SNF ā_ā_U ātmā_ātman_SNM"
+  },
+  {
+    "index": 49085,
+    "sanskrit": "tadā yuddham dhārtarāṣṭraḥ anvatapsyat vṛddhau virāṭa drupadau mahā rathau pṛthak camūbhyām abhivartamānau",
+    "english": "When those veteran car-warriors Virata and Drupada will assail, at the head of their respective divisions, the sons of Dhritarashtra and their ranks, then will Duryodhana repent for this war.",
+    "morphology": "tadā_tadā_U yuddham_yuddha_SANe dhārtarāṣṭraḥ_dhārtarāṣṭra_SNM anvatapsyat_anutap_SFu3 vṛddhau_vṛddha_DuAM virāṭa_virāṭa_MCp drupadau_drupada_DuAM mahā_mahat_Cp rathau_ratha_DuAM pṛthak_pṛthak_U camūbhyām_camū_DuIF abhivar"
+  },
+  {
+    "index": 49086,
+    "sanskrit": "kalyāṇa rūpā sairandhrī ballavaḥ ca ati sundaraḥ",
+    "english": "Sairindhri is possessed of great beauty and Vallava also is eminently handsome.",
+    "morphology": "kalyāṇa_kalyāṇa_Cp rūpā_rūpa_SNF sairandhrī_sairandhrī_SNF ballavaḥ_ballava_SNM ca_ca_U ati_ati_U sundaraḥ_sundara_SNM"
+  },
+  {
+    "index": 49087,
+    "sanskrit": "pibā somamindra mandatu tvā yaṃ te suṣāva haryaśvādriḥ / soturbāhubhyāṃ suyato nārvā //",
+    "english": "Drive Soma, Indra, Lord of bays! and let it cheer thee the stone, like a wellguided courser,",
+    "morphology": "piba_pā_SPr2Im somam_soma_SAM indra_indra_SVM mandatu_mad_SPr3Im tvā_tvad_SA yam_yad_SAM te_tvad_SD suṣāva_su_SPs3In haryaśva_haryaśva_SVM adriḥ_adri_SNM  / sotuḥ_sotṛ_SGM bāhubhyām_bāhu_DuIM su_su_ yataḥ_yam_SNPaM na_na_ arvā_arvan_SNM "
+  }
+]

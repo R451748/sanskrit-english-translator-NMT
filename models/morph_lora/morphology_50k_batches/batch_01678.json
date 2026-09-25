@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13416,
+    "sanskrit": "atuṣṭiḥ paritāpaḥ ca śokaḥ lobhaḥ tathā akṣamā",
+    "english": "Discontent, heart-burning, grief, cupidity, vindictiveness are all indications of the state of Passion.",
+    "morphology": "atuṣṭiḥ_atuṣṭi_SNF paritāpaḥ_paritāpa_SNM ca_ca_U śokaḥ_śoka_SNM lobhaḥ_lobha_SNM tathā_tathā_U akṣamā_akṣamā_SNF"
+  },
+  {
+    "index": 13417,
+    "sanskrit": "tatsamutthāpitaṃ ca rūpaṃ darśanaprahātavyaṃ syāt / kiṃ syāt /",
+    "english": ") because, to suppose that it is a second mover, it would then follow that the rūpa created by it would also be abandoned by this Seeing; in the same way that the vrñaptṅ ctreated by a thought abandoned through Meditation is itself to be abandoṅed through Meditation.",
+    "morphology": "tad_tad_Cp samutthāpitam_samutthāpay_SNPaNe ca_ca_ rūpam_rūpa_SNNe darśana_darśana_Cp prahātavyam_prahā_SNNeGd syāt_as_SPr3O  / kim_ka_SNNe syāt_as_SPr3O"
+  },
+  {
+    "index": 13418,
+    "sanskrit": "praviśya ca puram tūrṇam bhujau ucchritya duḥkhitaḥ vepamānaḥ tatas rājñaḥ praviveśa niveśanam",
+    "english": "Having entered the city, the Suta Sanjaya, raising his arms in grief, and with limbs trembling, entered the palace of the king.",
+    "morphology": "praviśya_praviś_Co ca_ca_U puram_pura_SANe tūrṇam_tūrṇam_U bhujau_bhuja_DuAM ucchritya_ucchri_Co duḥkhitaḥ_duḥkhita_SNM vepamānaḥ_vip_SNPaPrM tatas_tatas_U rājñaḥ_rājan_SGM praviveśa_praviś_SPs3In niveśanam_niveśana_SANe"
+  },
+  {
+    "index": 13419,
+    "sanskrit": "apsarasa ūcuḥ | yogyaṃ pṛcchasi kaunteya punaḥ paśyottarāṃ diśam || 84 ||",
+    "english": "84-85. You have put a relevant question, O son of Kuntī. Now look in the direction of the North. Here comes the praiseworthy sage Nārada surrounded by his Brāhmaṇa (followers). He will answer every questions you have put.[9]",
+    "morphology": "apsarasaḥ_apsaras_PNF ūcuḥ_vac_PPs3In  / yogyam_yogya_SANe pṛcchasi_pracch_SPr2In kaunteya_kaunteya_SVM punar_punar_ paśya_paś_SPr2Im uttarām_uttara_SAF diśam_diś_SAF "
+  },
+  {
+    "index": 13420,
+    "sanskrit": "tatkuṭumbaṃ ca duḥkhārtaṃ svapnādeśena guhyakaiḥ / āśvāsitaṃ tatprasādād ramate sma tataś ca saḥ //",
+    "english": "Hut his sorrowing family was comforted by them in a dream, and this kindness on their part made him happy.",
+    "morphology": "tad_tad_Cp kuṭumbam_kuṭumba_SNNe ca_ca_ duḥkha_duḥkha_Cp ārtam_ārta_SNNe svapna_svapna_Cp ādeśena_ādeśa_SIM guhyakaiḥ_guhyaka_PIM  / āśvāsitam_āśvāsay_SNPaNe tad_tad_Cp prasādāt_prasāda_SBM ramate_ram_SPr3In sma_sma_ tatas_tatas_ c"
+  },
+  {
+    "index": 13421,
+    "sanskrit": "śrotriyo vedapāṭhakaḥ / yas tv adhyayanatatparaḥ sa iha gṛhyate /",
+    "english": "\"Vedic scholar\" one who studies the Veda; the person meant here is one who is always engaged in Vedic study.",
+    "morphology": "śrotriyaḥ_śrotriya_SNM veda_veda_Cp pāṭhakaḥ_pāṭhaka_SNM  / yaḥ_yad_SNM tu_tu_ adhyayana_adhyayana_Cp tatparaḥ_tatpara_SNM saḥ_tad_SNM iha_iha_ gṛhyate_grah_SPr3InPv  /"
+  },
+  {
+    "index": 13422,
+    "sanskrit": "agninā proktamāgneyaṃ purāṇaṃ vedasammitaṃ //",
+    "english": "The Agnipurāṇa is spoken by Agni and conforms to the Vedas.",
+    "morphology": "agninā_agni_SIM proktam_pravac_SNPaNe āgneyam_āgneya_SNNe purāṇam_purāṇa_SNNe veda_veda_Cp sammitaḥ_sammita_SNNe  /"
+  },
+  {
+    "index": 13423,
+    "sanskrit": "tri śṛìga śikhare śete vyomo nāmāsuro balīkaṃsa pāda prabuddho 'bhūt krodha samrakta locanaḥ",
+    "english": "A very strong demon named Vyoma slept on the summit of Mount Trikūṭa. When Kaṃsa awakened him with a kick, his eyes became red with rage.",
+    "morphology": "tri_tri_Cp śṛñga_śṛñga_MCp śikhare_śikhara_SLNe śete_śī_SPr3In vyomaḥ_vyoma_SNM nāma_nāma_ asuraḥ_asura_SNM balīkaṃsa_balīkaṃsa_MCp pāda_pāda_MCp prabuddhaḥ_prabudh_SNPaPsM abhūt_bhū_SPs3In krodha_krodha_MCp samrakta_samrañj"
+  }
+]

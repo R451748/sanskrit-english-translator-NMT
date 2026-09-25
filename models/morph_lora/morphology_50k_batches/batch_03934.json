@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31464,
+    "sanskrit": "jāta mātreṇa vīreṇa yena uccaiḥśravasā iva heṣatā kampitā bhūmiḥ lokāḥ ca sakalāḥ trayaḥ",
+    "english": "As soon as he was born, that hero neighed like Indra's steed and caused the three worlds to tremble at that sound.",
+    "morphology": "jāta_jan_PaPsCp mātreṇa_mātra_SIM vīreṇa_vīra_SIM yena_yad_SIM uccaiḥśravasā_uccaiḥśravas_SIM iva_iva_U heṣatā_heṣ_SIPaPrM kampitā_kamp_SNPaPsF bhūmiḥ_bhūmi_SNF"
+  },
+  {
+    "index": 31465,
+    "sanskrit": "ghṛtadhenuṃ ca kārtikyāṃ māghyāṃ tilamayīṃ tathā | jaladhenuṃ tu vaiśākhyāṃ dattvā mucyeta pātakaiḥ || 66 ||",
+    "english": "66. In the month of Kārttika, Ghṛta Dhenu (cow made of ghee) should be gifted; in the month of Māgha that of gingelly seeds, of Jaladhenu in Vaiśākha (or the articles referred to are gifted along with a cow). Thereby the devotee shall be rid of sins.",
+    "morphology": "ghṛtadhenum_ghṛtadhenu_SAF ca_ca_ kārtikyām_kārttikī_SLF māghyām_māghī_SLF tila_tila_Cp mayīm_maya_SAF tathā_tathā_  / jaladhenum_jaladhenu_SAF tu_tu_ vaiśākhyām_vaiśākhī_SLF dattvā_dā_Co mucyeta_muc_SPr3O pātakaiḥ_pātaka_PINe "
+  },
+  {
+    "index": 31466,
+    "sanskrit": "atha devagaṇāḥ sarve bhayasaṃtrastamānasāḥ | cakrurmaṃtraṃ tadarthaṃ hi tārakeṇa prapīḍitāḥ || 43 ||",
+    "english": "43. Here, all the groups of Devas, harassed by Tāraka and hence utterly terrified in their minds met together and had consultations with one another:",
+    "morphology": "atha_atha_ deva_deva_Cp gaṇāḥ_gaṇa_PNM sarve_sarva_PNM bhaya_bhaya_Cp saṃtrasta_saṃtras_PaCp mānasāḥ_mānasa_PNM  / cakruḥ_kṛ_PPs3In mantram_mantra_SAM tad_tad_Cp artham_artha_SAM hi_hi_ tārakeṇa_tāraka_SIM prapīḍitāḥ_prapīḍ"
+  },
+  {
+    "index": 31467,
+    "sanskrit": "śiṣya vat tvām tu pṛcchāmi upapannaḥ asmi te anagha hanūmān uvāca yat te mama parijñāne kautūhalam ariṃdama",
+    "english": "I ask thee as a disciple, and I, O sinless one, seek thy refuge.' Thereupon Hanuman said, 'O represser of foes, even to the extent of thy curiosity to know me, shall I relate all at length.",
+    "morphology": "śiṣya_śiṣya_MCp vat_vat_U tvām_tvad_SA tu_tu_U pṛcchāmi_pracch_SPr1In upapannaḥ_upapad_SNPaPsM asmi_as_SPr1In te_tvad_SG anagha_anagha_SVM hanūmān_hanumant_SNM uvāca_vac_SPs3In yat_yad_SNNe te_tvad_SG mama_mad_SG parijñāne_parijñāna_SLNe"
+  },
+  {
+    "index": 31468,
+    "sanskrit": "kim nu śakyam mayā kartum yat kālaḥ duratikramaḥ",
+    "english": "What, however, can I do now? Time is incapable of being resisted.",
+    "morphology": "kim_ka_SNNe nu_nu_U śakyam_śakya_SNNe"
+  },
+  {
+    "index": 31469,
+    "sanskrit": "cintyamānam hi na vyeti bhūyas ca api pravardhate",
+    "english": "By thinking of it, one can never dispel it;",
+    "morphology": "cintyamānam_cintay_SNPaPrNePv"
+  },
+  {
+    "index": 31470,
+    "sanskrit": "idantāvadrūpaṃ tava bhagavata śaktisarasaṃ kramābhāvādeva prasabhavigalankālakalanam | manaśaktyā vācāpyatha karaṇacakrairbahistho ghaṭādyaistadrūpaṃ yugapadadhitiṣṭheyamaniśam |",
+    "english": "Krama Stotra Your manifestation in the form of the objective world, O Lord, is replete with joy. There is nothing like seriality in you. As such, there is no place for the sense of time in you. You lie beyond the reach of the power of mind and speech and thus beyond the reach of organs of sense. Therefore, your form as jars, etc.",
+    "morphology": "idam_idam_SNNe tāvat_tāvat_ rūpam_rūpa_SNNe tava_tvad_SG bhagavata_bhagavant_SVM śakti_śakti_Cp sarasam_sarasa_SNNe krama_krama_Cp abhāvāt_abhāva_SBM eva_eva_ prasabha_prasabha_Cp vigalan_vigal_SNPaPrM kāla_kāla_Cp kalanam_kalana_SNNe  / mana_ma"
+  },
+  {
+    "index": 31471,
+    "sanskrit": "aprakīrṇa indriyam prājñam atyanta anugatam śucim śaktam ca eva anuraktam ca yuñjyāt mahati karmaṇi",
+    "english": "He should appoint in all great affairs persons that have subjugated their senses, that are devotedly loyal and of pure behaviour, and that are possessed of ability.",
+    "morphology": "aprakīrṇa_aprakīrṇa_Cp indriyam_indriya_SAM prājñam_prājña_SAM atyanta_atyanta_Cp anugatam_anugam_SAPaPsM śucim_śuci_SAM śaktam_śak_SAPaPsM ca_ca_U eva_eva_U anuraktam_anurañj_SAPaPsM ca_ca_U"
+  }
+]

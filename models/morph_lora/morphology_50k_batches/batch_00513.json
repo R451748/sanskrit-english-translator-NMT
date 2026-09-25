@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4096,
+    "sanskrit": "nirāmayāḥ su dharmiṣṭhāḥ prajāḥ dharma parāyaṇāḥ //7 //",
+    "english": "And the dwellers of the world had abundance of harvests, and were excellent in disposition.",
+    "morphology": "nirāmayāḥ_nirāmaya_PNF su_su_U dharmiṣṭhāḥ_dharmiṣṭha_PNF prajāḥ_prajā_PNF dharma_dharma_MCp parāyaṇāḥ_parāyaṇa_PNF  /"
+  },
+  {
+    "index": 4097,
+    "sanskrit": "śūrasenāḥ bhadrakārāḥ bodhāḥ śālvāḥ paṭaccarāḥ sustharāḥ ca sukuṭṭāḥ ca kuṇindāḥ kuntibhiḥ saha",
+    "english": "so also have the Surasenas, the Bhadrakas, the Vodhas, the Salwas, the Patachchavas, the Susthalas, the Mukuttas, and the Kulindas, along with the Kuntis.",
+    "morphology": "śūrasenāḥ_śūrasena_PNM bhadrakārāḥ_bhadrakāra_PNM bodhāḥ_bodha_PNM śālvāḥ_śālva_PNM paṭaccarāḥ_paṭaccara_PNM sustharāḥ_susthara_PNM ca_ca_U sukuṭṭāḥ_sukuṭṭa_PNM ca_ca_U kuṇindāḥ_kuṇinda_PNM kuntibhiḥ_kunt"
+  },
+  {
+    "index": 4098,
+    "sanskrit": "evamapi hi śāśvatatvaprasaṅgaḥ /",
+    "english": "Are not these discourses defiled by the opinion of permanence? If we answer that the Blessed One does not say anything concerning the deceased Tathāgata because, seeing at first the pudgala, he now no longer sees the pudgala once it has attained Nirvana; it is then through ignorance that the Tathāgata does not make any declaration concerning the deceased Tathāgata, and to speak thus is to deny the omniscience of the Master. Rather one should believe that if the Blessed One abstains from all declarations, it is because the soul that the questioner alluded to in speaking of the Tathāgata does not absolutely exist.",
+    "morphology": "evam_evam_ api_api_ hi_hi_ śāśvata_śāśvata_Cp tva_tva_Cp prasaṅgaḥ_prasaṅga_SNM"
+  },
+  {
+    "index": 4099,
+    "sanskrit": "vyapaiti tasmān nivartate /",
+    "english": "\"Ceases\" drops away from him.",
+    "morphology": "vyapaiti_vyape_SPr3In tasmāt_tad_SBM nivartate_nivṛt_SPr3In"
+  },
+  {
+    "index": 4100,
+    "sanskrit": "jātyaṃtarasahasreṣu yatpāpaṃ pūrvasaṃcitam | tatkathaṃ kṣayamāpnoti tanmamācakṣva śaṃkara || 4 ||",
+    "english": "4. O Śaṅkara, do tell me how the sin accumulated earlier in the course of thousands of births gets dissolved.",
+    "morphology": "jāti_jāti_Cp antara_antara_Cp sahasreṣu_sahasra_PLNe yat_yad_SNNe pāpam_pāpa_SNNe pūrva_pūrva_Cp saṃcitam_saṃci_SNPaNe  / tat_tad_SNNe katham_katham_ kṣayam_kṣaya_SAM āpnoti_āp_SPr3In tat_tad_SANe mama_mad_SG ācakṣva_ācakṣ_S2ImIn ś"
+  },
+  {
+    "index": 4101,
+    "sanskrit": "vyāyāma bhāra adhva parikṣatena vega avarodha abhihatena ca api ati amla bhakṣya avatata udareṇa sa ajīrṇa bhuktena tathā abalena",
+    "english": "The use of wine is prohibited immediately after a fatiguing journey, physical exercise or an act of load-carrying, or after the repressing of any physical urging, or after the use of excessively acid food, (D.",
+    "morphology": "vyāyāma_vyāyāma_MCp bhāra_bhāra_MCp adhva_adhvan_MCp parikṣatena_parikṣan_SIPaPsM vega_vega_MCp avarodha_avarodha_MCp abhihatena_abhihan_SIPaPsM ca_ca_U api_api_U ati_ati_U amla_amla_Cp bhakṣya_bhakṣya_NeCp avatata_avatan_PaPsCp udareṇa_uda"
+  },
+  {
+    "index": 4102,
+    "sanskrit": "tatyajuśśiva retastadgarbharūpaṃ munistriyaḥ | tā himācalapṛṣṭhe'thābhavan dāhavivarjitāḥ ||",
+    "english": "64. The wives of the sages cast off their semen in the form of a foetus at the top of Himavat. They felt then relieved of their burning sensation.",
+    "morphology": "tatyajuḥ_tyaj_PPs3In śiva_śiva_SVM retaḥ_retas_SANe tad_tad_Cp garbha_garbha_Cp rūpam_rūpa_SANe muni_muni_Cp striyaḥ_strī_PNF  / tāḥ_tad_PNF himācala_himācala_Cp pṛṣṭhe_pṛṣṭha_SLNe atha_atha_ abhavan_bhū_P3ImIn dāha_dāha_Cp v"
+  },
+  {
+    "index": 4103,
+    "sanskrit": "pārtham ca niśitaiḥ bāṇaiḥ avidhyat tanayaḥ tava",
+    "english": "Then thy son pierced Partha with many shafts of great sharpness.",
+    "morphology": "pārtham_pārtha_SAM ca_ca_U niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM avidhyat_vyadh_SPs3In tanayaḥ_tanaya_SNM"
+  }
+]

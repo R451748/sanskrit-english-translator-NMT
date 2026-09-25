@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35760,
+    "sanskrit": "mathurām hi gamiṣyāmi hariṣyāmi bhuvo bharamśīghram atrāgamiṣyāmi kariṣyāmi śubham tava",
+    "english": "I will go to Mathura' and remove the earth's burden. Then I will quickly return here and make You happy.",
+    "morphology": "mathurām_mathurā_SAF hi_hi_U gamiṣyāmi_gam_SFu1In hariṣyāmi_hṛ_SFu1In bhuvaḥ_bhū_SGF bharam_bhara_SAM śīghram_śīghram_U atra_atra_U āgamiṣyāmi_āgam_SFu1In kariṣyāmi_kṛ_SFu1In śubham_śubha_SANe tava_tvad_SG"
+  },
+  {
+    "index": 35761,
+    "sanskrit": "nārīṇām cira vāsaḥ hi bāndhaveṣu na rocate",
+    "english": "Women should not live long in the houses of their paternal or maternal relations.",
+    "morphology": "nārīṇām_nārī_PGF cira_cira_Cp vāsaḥ_vāsa_SNM hi_hi_U bāndhaveṣu_bāndhava_PLM na_na_U rocate_ruc_SPr3In"
+  },
+  {
+    "index": 35762,
+    "sanskrit": "rājābhiṣekayogyāni dravyāṇi sakalauṣadhaiḥ | pratyakṣatīrthapāthobhiḥ paṃcakubhāṃśca pūritān ||",
+    "english": "8. Articles necessary for a coronation including herbs were brought. Five pots were filled with the sacred waters from all flowing holy rivers.",
+    "morphology": "rāja_rājan_Cp abhiṣeka_abhiṣeka_Cp yogyāni_yogya_PANe dravyāṇi_dravya_PANe sakala_sakala_Cp auṣadhaiḥ_auṣadha_PINe  / pratyakṣa_pratyakṣa_Cp tīrtha_tīrtha_Cp pāthobhiḥ_pāthas_PINe pūritān_pūray_PAPaM  /"
+  },
+  {
+    "index": 35763,
+    "sanskrit": "tyakta kāma sukhe hi āvām tapsyāvaḥ vipulam tapaḥ",
+    "english": "We also, in the company of our lord, and for his benefit, controlling our passions and bidding adieu to all luxuries, shall subject ourselves to the severest austerities.",
+    "morphology": "tyakta_tyaj_PaPsCp kāma_kāma_MCp sukhe_sukha_DuNF hi_hi_U āvām_mad_DuNF tapsyāvaḥ_tap_DuFu1In"
+  },
+  {
+    "index": 35764,
+    "sanskrit": "nārada uvāca | dhanyosi kṛtakṛtyosi mānyopyasi divaukasām | sarvabhūteṣu goviṃdaṃ paripaśyanviśāṃpate || 37 ||",
+    "english": "Nārada said: 37. Seeing only Govinda in all living beings, O king, you are blessed; you have fulfilled your task; you are worthy of being honoured by the heaven-dwellers.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / dhanyaḥ_dhanya_SNM asi_as_SPr2In kṛtakṛtyaḥ_kṛtakṛtya_SNM asi_as_SPr2In mānyaḥ_man_SNMGd api_api_ asi_as_SPr2In divaukasām_divaukas_PGM  / sarva_sarva_Cp bhūteṣu_bhūta_PLNe goviṃdam_govinda_"
+  },
+  {
+    "index": 35765,
+    "sanskrit": "mahāraktābjasaṃkāśaṃ caraṇaṃ coktamaprabham | divyalakṣaṇasaṃyuktaṃ mano'bhīṣṭārthadāyakam ||",
+    "english": "55. Her feet were of excellent lustre. They shone like the great red lotus. They had all the divine characteristics bestowing every desired object.",
+    "morphology": "mahā_mahat_Cp rakta_rakta_Cp abja_abja_Cp saṃkāśam_saṃkāśa_SNNe caraṇam_caraṇa_SNNe ca_ca_ uktam_vac_SNPaNe aprabham_aprabha_SNNe  / divya_divya_Cp lakṣaṇa_lakṣaṇa_Cp saṃyuktam_saṃyuj_SNPaNe manaḥ_manas_Cp abhīṣṭa_abhīṣ_P"
+  },
+  {
+    "index": 35766,
+    "sanskrit": "ekāmapyāhutiṃ prājño dattvopamaṇikarṇikam | yāvajjīvāgnihotrasya labhedavikalaṃ phalam || 70 ||",
+    "english": "70. Offering a single Āhuti (oblation into sacrificial fire) near Maṇikarṇikā a sensible man derives undiminished benefit of the performance of Agnihotra throughout the life.",
+    "morphology": "ekām_eka_SAF api_api_ āhutim_āhuti_SAF prājñaḥ_prājña_SNM dattvā_dā_Co upamaṇi_upamaṇi_Cp karṇikam_karṇikā_SANe  / yāvat_yāvat_ jīva_jīva_Cp agnihotrasya_agnihotra_SGNe labhet_labh_SPr3O avikalam_avikala_SANe phalam_phala_SANe "
+  },
+  {
+    "index": 35767,
+    "sanskrit": "divasaanuvṛtto nityaḥ //",
+    "english": "What is continued every day is daily",
+    "morphology": "divasa_divasa_Cp anuvṛttaḥ_anuvṛt_SNPaM nityaḥ_nitya_SNM  /"
+  }
+]

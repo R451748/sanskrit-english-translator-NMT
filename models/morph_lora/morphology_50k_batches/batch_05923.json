@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47376,
+    "sanskrit": "viveṣṭamānam mahyām ca su bhṛśam gāḍha vedanam",
+    "english": "He was writhing on the earth in great agony.",
+    "morphology": "viveṣṭamānam_viveṣṭ_SAPaPrM māhāṇā_māhāṇā_SNF"
+  },
+  {
+    "index": 47377,
+    "sanskrit": "na hyete bhavanto brāhmaṇā mamāyamartho gṛhyatāmityāhūya pravṛddhatarakāruṇyaḥ puraṇyaikapravaṇacetāḥ parahitanirataḥ sanvadānya iva brāhmaṇebhyaḥ svayaṃ svamarthaparpayati vedapuruṣaḥ /",
+    "english": "It is not that the Veda-Personality, over-flowing with sympathy, his mind bent upon piety, devoted to doing good to others, and charitably disposed, invites the Brāhmaṇas and offers to them the meaning of the Veda, saying to them ‘O Brāhmaṇas, such and such is my meaning, please accept this’. Question: “In that case, the Brahmaṇas would themselves imagine the meaning”.",
+    "morphology": "na_na_ hi_hi_ ete_etad_PNM bhavantaḥ_bhavat_PNM brāhmaṇāḥ_brāhmaṇa_PNM mama_mad_SG ayam_idam_SNM arthaḥ_artha_SNM gṛhyatām_grah_SPr3ImPv iti_iti_ āhūya_āhvā_Co pravṛddhatara_pravṛddhatara_Cp kāruṇyaḥ_kāruṇya_SNM puraṇya_pu"
+  },
+  {
+    "index": 47378,
+    "sanskrit": "paścāttāpam idam prāptam na tvam śocitum arhasi",
+    "english": "It behoveth thee, however not to give way to grief.",
+    "morphology": "paścāttāpam_paścāttāpa_SAM"
+  },
+  {
+    "index": 47379,
+    "sanskrit": "na yat paro nāntara ādadharṣad vṛṣaṇvasū / duḥśam̐so martyo ripuḥ //",
+    "english": "Such, wealthy Gods! as none afar or standing near to us may harm, yea, no malicious mortal foe. 83",
+    "morphology": "na_na_ yat_yad_SANe paras_paras_ na_na_ antare_antare_ ādadharṣat_ādhṛṣ_SPs3Su vṛṣaṇvasū_vṛṣaṇvasu_DuVM  / duḥśam_duḥśam_SNM"
+  },
+  {
+    "index": 47380,
+    "sanskrit": "tatra tatra ca śāstre'sya svarūpaṃ stutavān vibhuḥ| śrīvīrāvalihārdeśakhamatārṇavavartiṣu |",
+    "english": "Lord Siva Himself has praised it at several places in the śāstras such as Virāvali, Hrdayabhattāraka, Khecari-matārnava, Siddhā-tantra, Utfullakamata and Nirmaryāda, Caryākula, etc.",
+    "morphology": "tatra_tatra_ tatra_tatra_ ca_ca_ śāstre_śāstra_SLNe asya_idam_SGM svarūpam_svarūpa_SANe stutavān_stu_SNPaM vibhuḥ_vibhu_SNM"
+  },
+  {
+    "index": 47381,
+    "sanskrit": "ayam ekaḥ itthā puru uru caṣṭe vi viśpatiḥ tasya vratāni anu vaḥ carāmasi",
+    "english": "Here this one God, the Lord of men, looks forth exceeding far and wide: And we, for your advantage, keep his holy laws.",
+    "morphology": "ayam_idam_SNM ekaḥ_eka_SNM itthā_itthā_U puru_puru_SANe uru_uru_SANe caṣṭe_cakṣ_SPr3In vi_vi_U viśpatiḥ_viśpati_SNM tasya_tad_SGM vratāni_vrata_PANe anu_anu_U vaḥ_tvad_PG"
+  },
+  {
+    "index": 47382,
+    "sanskrit": "mayā evam kṛta rakṣaḥ tvam dīrgham āyuḥ avāpnuhi ||",
+    "english": "May thou acquire a long life through the protective energy of the prophylactic prayer (lit:—incantation now read by me.",
+    "morphology": "mayā_mad_SI evam_evam_U kṛta_kṛ_PaPsCp rakṣaḥ_rakṣas_SVM"
+  },
+  {
+    "index": 47383,
+    "sanskrit": "skaṃda uvāca | ataḥ paraṃ śṛṇu mune vimalādityamuttamam | harikeśavane ramye vārāṇasyāṃ vyavasthitam || 83 ||",
+    "english": "Skanda said: 83. Henceforth, listen O sage, to the excellent Vimalāditya stationed in the beautiful forest of Harikeśavana in Vārāṇasī.",
+    "morphology": "skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / atas_atas_ param_param_ śṛṇu_śru_SPr2Im mune_muni_SVM vimala_vimala_Cp ādityam_āditya_SAM uttamam_uttama_SAM  / harikeśa_harikeśa_Cp vane_vana_SLNe ramye_ramya_SLNe vārāṇasyām_vārāṇasī_SLF vya"
+  }
+]

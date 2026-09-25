@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48568,
+    "sanskrit": "āgneyanavake madhye madhupūrṇaṃ ghaṭaṃ nyaset //",
+    "english": "The central pitcher in the nine pitchers in the southeast should be filled with honey.",
+    "morphology": "āgneya_āgneya_Cp navake_navaka_SLNe madhye_madhya_SLNe madhu_madhu_Cp pūrṇam_pṛ_SAPaM ghaṭam_ghaṭa_SAM nyaset_nyas_SPr3O  /"
+  },
+  {
+    "index": 48569,
+    "sanskrit": "dakṣiṇena bhiṣaj savyam vidhyet savyena ca itarat",
+    "english": "The left eye should be pierced with the right hand, and the right with the left.",
+    "morphology": "dakṣiṇena_dakṣiṇa_SIM bhiṣaj_bhiṣaj_SNM savyam_savya_SAM vidhyet_vyadh_SPr3O"
+  },
+  {
+    "index": 48570,
+    "sanskrit": "draupadī ca subhadrā ca yāḥ ca api anyāḥ daduḥ striyaḥ",
+    "english": "Draupadi and Subhadra and the other ladies of Kuru's race all made presents to them.",
+    "morphology": "draupadī_draupadī_SNF ca_ca_U subhadrā_subhadrā_SNF ca_ca_U yāḥ_yad_PNF"
+  },
+  {
+    "index": 48571,
+    "sanskrit": "tasya avanata dehasya pādayoḥ nipatiṣyataḥ yudhiṣṭhirasya nṛpateḥ dharma jñā dharma darśinī aṅguli agrāṇi dadṛśe devī paṭṭa antareṇa sā",
+    "english": "Conversant with the rules of righteousness, the Kuru queen, possessed of great foresight, directed her eyes, from within the folds of the cloth that covered them, to the tip of Yudhishthiras toe, as the prince, with body bent forwards, was about to fall down at her feet.",
+    "morphology": "tasya_tad_SGM avanata_avanam_PaPsCp dehasya_deha_SGM pādayoḥ_pāda_DuLM nipatiṣyataḥ_nipat_SGPaFuM yudhiṣṭhirasya_yudhiṣṭhira_SGM nṛpateḥ_nṛpati_SGM dharma_dharma_MCp jñā_jña_SNF dharma_dharma_MCp darśinī_darśin_SNF aṅguli_aṅ"
+  },
+  {
+    "index": 48572,
+    "sanskrit": "tatphalaṃ cākṣayaṃ syāddhi sveṣṭādapyadhikaṃ nṛṇām | bhaktāste bhagavaddhāma yāntyaṣṭāvṛttitaḥ param || 24 ||",
+    "english": "24. Its fruit is imperishable. It is much more than what is desired by men. Those devotees go to the supreme abode of the Lord from eight (various) modes of life.",
+    "morphology": "tad_tad_Cp phalam_phala_SNNe ca_ca_ akṣayam_akṣaya_SNNe syāt_as_SPr3O hi_hi_ sva_sva_Cp iṣṭāt_yaj_SBPaNe api_api_ adhikam_adhika_SNNe nṛṇām_nṛ_PGM  / bhaktāḥ_bhakta_PNM te_tad_PNM bhagavat_bhagavant_Cp dhāma_dhāman_SANe yānti_yā_PPr"
+  },
+  {
+    "index": 48573,
+    "sanskrit": "dharmastvaṃ tvatprapannasya yā gatiḥ sāstu me dhruvā //",
+    "english": "You are the virtue. That fate which befalls one who resorts to you, let it be firm in me.”",
+    "morphology": "dharmaḥ_dharma_SNM tvam_tvad_SN tvad_tvad_Cp prapannasya_prapad_SGPaM yā_yad_SNF gatiḥ_gati_SNF sā_tad_SNF astu_as_SPr3Im me_mad_SG dhruvā_dhruva_SNF  /"
+  },
+  {
+    "index": 48574,
+    "sanskrit": "śāmannaṃ dupparāmāṭṭhaṃ nirayāya upakaṭṭati ||",
+    "english": "so does the ascetic life, wrongly grasped, drag one down to the underworld.",
+    "morphology": "śāmanna_śāmanna_SANe"
+  },
+  {
+    "index": 48575,
+    "sanskrit": "kathaṃcana āpady apīty arthaḥ / prāṇānām eva cātyaye ity āpadi vidhānāt, asati doṣe na tanirghātārtham etat prāyaścittam / kiṃ tarhi, nimittamātraparyavasāyi vacanāt kriyate /",
+    "english": "\"In any way\" ie, even in normal times; in abnormal times, when life is in danger, the eating of the two things has been permitted; so that there being nothing wrong in such eating, the present verse cannot he taken as laying down as an expiation for the same, thereby contradicting what has gone before. Hence what the meaning is that the expiation is necessary only under certain conditions, not always.",
+    "morphology": "kathaṃcana_kathaṃcana_ āpadi_āpad_SLF api_api_ iti_iti_ arthaḥ_artha_SNM  / prāṇānām_prāṇa_PGM eva_eva_ ca_ca_ atyaye_atyaya_SLM iti_iti_ āpadi_āpad_SLF vidhānāt_vidhāna_SBNe asati_asat_SLM doṣe_doṣa_SLM na_na_ tad_tad_Cp nirghāta"
+  }
+]

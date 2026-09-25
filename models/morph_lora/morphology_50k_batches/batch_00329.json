@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2624,
+    "sanskrit": "atho caturviṃśatyakṣarā gāyatrī gāyatrī brahmavarcasam |",
+    "english": "Now the Gayatri is of twenty-four syllables;",
+    "morphology": "atha_atha_ u_u_ caturviṃśati_caturviṃśati_Cp akṣarā_akṣara_SNF gāyatrī_gāyatrī_SNF gāyatrī_gāyatrī_SNF brahmavarcasam_brahmavarcasa_SNNe "
+  },
+  {
+    "index": 2625,
+    "sanskrit": "gamyamānādhikāratvāc ca svatantra evāyaṃ vidhiḥ svātmānam anuṣṭhāpayati, yady api nityakāmaśrutiṣv arthāvabodha upayujyate /",
+    "english": "And since its connection with a result is clearly implied, the Injunction in question gets itself carried out independently by itself, even though the comprehension of meaning is of use in connection with the injunctions of compulsory and voluntary acts.",
+    "morphology": "gamyamāna_gam_PaPrPvCp adhikāra_adhikāra_Cp tvāt_tva_SBNe ca_ca_ svatantraḥ_svatantra_SNM eva_eva_ ayam_idam_SNM vidhiḥ_vidhi_SNM sva_sva_Cp ātmānam_ātman_SAM anuṣṭhāpayati_anuṣṭhāpay_SPr3In yadi_yadi_ api_api_ nitya_nitya_Cp kāma_kā"
+  },
+  {
+    "index": 2626,
+    "sanskrit": "vidhivākyāntare gacchannaṅgabhāvamathāpi vā| na nirarthaka evāyaṃ saṃnidhergajaḍādivat |",
+    "english": "Any statement of condemnation or praise if subsidiary to the recommendatory, no matter being a part of the latter or falling in the midst of it, need not be taken as useless.",
+    "morphology": "vidhi_vidhi_Cp vākya_vākya_Cp antare_antara_SLNe gacchan_gam_SNPaPrM aṅga_aṅga_Cp bhāvam_bhāva_SAM atha_atha_ api_api_ vā_vā_"
+  },
+  {
+    "index": 2627,
+    "sanskrit": "śivabhimānitopāyo bāhyo heturna mokṣadaḥ | śivo'yaṃ śiva evāsmītyevamācāryaśiṣyayoḥ |",
+    "english": "Indeed, ‘the teacher is Śiva and I, too, am the same', this kind of sense awakened in the teacher and the taught in all its firmness is the real liberator of the individual.",
+    "morphology": "śiva_śiva_Cp abhimānita_abhimānay_PaCp upāyaḥ_upāya_SNM bāhyaḥ_bāhya_SNM hetuḥ_hetu_SNM na_na_ mokṣa_mokṣa_Cp daḥ_da_SNM  / śivaḥ_śiva_SNM ayam_idam_SNM śivaḥ_śiva_SNM eva_eva_ asmi_as_SPr1In iti_iti_ evam_evam_ ācārya_ācāry"
+  },
+  {
+    "index": 2628,
+    "sanskrit": "caturthe ca dinekāryas tathāsthnāṃ caiva sañcayaḥ //",
+    "english": "The gathering of the bones of the cremated should be done on the fourth day.",
+    "morphology": "caturthe_caturtha_SLNe ca_ca_ dinekāryaḥ_dinekārya_SNM tathā_tathā_ asthnām_asthi_PGNe ca_ca_ eva_eva_ sañcayaḥ_saṃcaya_SNM  /"
+  },
+  {
+    "index": 2629,
+    "sanskrit": "dattvā akrūrāya su tanum tām āhuka sutām tadā saṃkarṣaṇa dvitīyena jñāti kāryam mayā kṛtam hatau kaṃsa sunāmānau mayā rāmeṇa ca api uta",
+    "english": "Having bestowed upon Akrura the handsome daughter of Ahuka, with Sankarshana as my second I did a service to my relatives, for both Kansa and Sunaman were slain by me assisted by Rama.",
+    "morphology": "dattvā_dā_Co akrūrāya_akrūra_SDM su_su_U tanum_tanu_SAF tām_tad_SAF āhuka_āhuka_MCp sutām_sutā_SAF tadā_tadā_U saṃkarṣaṇa_saṃkarṣaṇa_MCp dvitīyena_dvitīya_SIM jñāti_jñāti_MCp kāryam_kārya_SNNe mayā_mad_SI kṛtam_kṛ_SNPaP"
+  },
+  {
+    "index": 2630,
+    "sanskrit": "atha indrasya bhaviṣya tvāt ahaṃkāraḥ tam āviśat",
+    "english": "Some time after, Nahusha realised his position as the chief of all the deities.",
+    "morphology": "atha_atha_U indrasya_indra_SGM bhaviṣya_bhaviṣya_Cp tvāt_tva_SBNe ahaṃkāraḥ_ahaṃkāra_SNM tam_tad_SAM"
+  },
+  {
+    "index": 2631,
+    "sanskrit": "nānāvarṇapatākāśca yatra kalpamahīruhaḥ | analpāḥ kalpayaṃtyeva nityabhaktisamanvitāḥ || 93 ||",
+    "english": "93. The wish-yielding celestial trees yielded many banners of different colours with great devotion everyday there.",
+    "morphology": "nānā_nānā_ varṇa_varṇa_Cp patākāḥ_patākā_PNF ca_ca_ yatra_yatra_ kalpa_kalpa_Cp mahīruhaḥ_mahīruha_SNM  / analpāḥ_analpa_PNF kalpayanti_kalpay_PPr3In eva_eva_ nitya_nitya_Cp bhakti_bhakti_Cp samanvitāḥ_samanvita_PNF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30304,
+    "sanskrit": "na ttvetadaktam /",
+    "english": "And from all this we conclude that the names cannot serve the purpose of pointing out which actions are to be performed by which Priests.",
+    "morphology": "na_"
+  },
+  {
+    "index": 30305,
+    "sanskrit": "sa cet spṛṣṭo bhavati, tadā anidhāyaiva tad dravyam anapanīya, hastagṛhītadravya evācāmet /",
+    "english": "If such a person happens to be touched, then \"without laying down\" without setting aside \"that substance\" he should wash.",
+    "morphology": "sa_tad_SNM ced_ced_ spṛṣṭaḥ_spṛś_SNPaM bhavati_bhū_SPr3In tadā_tadā_ a_a_ nidhāya_nidhā_Co eva_eva_ tat_tad_SANe dravyam_dravya_SANe an_an_ apanīya_apanī_Co hasta_hasta_Cp ḥḥ_ḥḥ_"
+  },
+  {
+    "index": 30306,
+    "sanskrit": "parān avākirat pārthaḥ parvatān iva nīradaḥ te ca api rathinaḥ sarve tvaritāḥ kṛtahasta vat avākiran bāṇa jālaiḥ tatas kṛṣṇa dhanaṃjayau",
+    "english": "Then Partha, resembling a pouring cloud, covered his foes with showers of shafts, like a mass of clouds pouring rain on the mountain breast.[135] The hostile of car-warriors also, displaying great lightness of hand, quickly covered both Krishna and Dhananjaya with clouds of arrows.",
+    "morphology": "parān_para_PAM avākirat_avakṛ_SPs3In pārthaḥ_pārtha_SNM parvatān_parvata_PAM iva_iva_U nīradaḥ_nīrada_SNM te_tad_PNM ca_ca_U api_api_U rathinaḥ_rathin_PNM sarve_sarva_PNM tvaritāḥ_tvar_PNPaPsM kṛtahasta_kṛtahasta_MCp vat_vat_U avākir"
+  },
+  {
+    "index": 30307,
+    "sanskrit": "droṇaḥ uvāca iti uktvā vara daḥ prādāt varma tat mantram eva ca",
+    "english": "And, O chief of the celestials, put it on, mentally uttering these mantras.' \"Drona continued, 'Having said these words, the boon-giving (Siva) gave that armour with the mantras (to be uttered by the wearer).",
+    "morphology": "droṇaḥ_droṇa_SNM uvāca_vac_SPs3In iti_iti_U uktvā_vac_Co vaḥ_vaḥ_U daḥ_daḥ_SNM"
+  },
+  {
+    "index": 30308,
+    "sanskrit": "bhīmaḥ su ghoraḥ ca tathā nīla megha sama prabhaḥ",
+    "english": "Terrible and awful, its aspect is like that of a mass of blue clouds.",
+    "morphology": "bhīmaḥ_bhīma_SNM"
+  },
+  {
+    "index": 30309,
+    "sanskrit": "cūḍālovāca / evameva prabho viddhi cūḍālāsmi na saṃśayaḥ / akṛtrimeṇa dehena labdho'syadya mayā svayam //",
+    "english": "Chudala replied:—So it is my lord, as thou thinkest me to be thy lawful consort; I am no doubt thy princess Chudala, who has met thee today in her natural and undisguised form, as thou also hast found her as the same.",
+    "morphology": "cūḍālā_cūḍālā_SNF uvāca_vac_SPs3In  / evam_evam_ eva_eva_ prabho_prabhu_SVM viddhi_vid_SPr2Im cūḍāla_cūḍāla_SVM asmi_as_SPr1In na_na_ saṃśayaḥ_saṃśaya_SNM  / akṛtrimeṇa_akṛtrima_SIM"
+  },
+  {
+    "index": 30310,
+    "sanskrit": "tataḥ sa bhikṣu rūpeṇa bahvoṣadhiparigrahaḥ | gṛhītvā duṃdubhiṃ skaṃdhe vacanaṃ cedamabravīt || 11 || kaśca bhūtaviṣagrasto nānādoṣaiḥ samāśritaḥ | kasya ko vyādhiratyugro yamahaṃ praśamaṃ naye || 12 ||",
+    "english": "He (Gaṇeśa) assumed the guise of a mendicant holding many medicinal herbs. Keeping a drum suspended from his shoulder, he proclaimed: “Who is possessed by spirits? Who has been administered poison? Who is afflicted by blemishes and failures? Who has an acute chronic ailment? I shall cure",
+    "morphology": "tatas_tatas_ sa_tad_SNM bhikṣu_bhikṣu_SNNe rūpeṇa_rūpa_SINe bahu_bahu_Cp oṣadhi_oṣadhi_Cp parigrahaḥ_parigraha_SNM  / gṛhītvā_grah_Co duṃdubhim_dundubhi_SAM skaṃdhe_skandha_SLM vacanam_vacana_SANe ca_ca_ idam_idam_SANe abravīt_brū_S"
+  },
+  {
+    "index": 30311,
+    "sanskrit": "jaghāna pṛṣṭham pāṇibhyām ubhābhyām pṛṣṭhatas sthitaḥ tathā balavatā bhīmaḥ pāṇibhyām bhṛśam āhataḥ na eva avalokayām āsa rākṣasam bhuṅkte eva saḥ",
+    "english": "But Bhima, though struck heavily by the mighty Rakshasa, with both his hands, did not even look up at the Rakshasa but continued to eat as before.",
+    "morphology": "jaghāna_han_SPs3In pṛṣṭham_pṛṣṭha_SANe pāṇibhyām_pāṇi_DuIM ubhābhyām_ubh_DuIM pṛṣṭhatas_pṛṣṭhatas_U sthitaḥ_sthā_SNPaPsM tathā_tathā_U balavatā_balavat_SIM bhīmaḥ_bhīma_SNM pāṇibhyām_pāṇi_DuIM bhṛśam_bh"
+  }
+]

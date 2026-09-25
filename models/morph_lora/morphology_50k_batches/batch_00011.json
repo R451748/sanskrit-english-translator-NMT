@@ -1,0 +1,50 @@
+[
+  {
+    "index": 80,
+    "sanskrit": "bhuṅkte catasro nāḍyastu rāhupṛṣṭe jayo raṇe // agrato mṛtyumāpnoti tithirāhuṃ vadāmi te /",
+    "english": "An expedition commenced at the back of Rāhu brings success in battle, while that undertaken at its front brings death.",
+    "morphology": "bhuṅkte_bhuj_SPr3In catasraḥ_catur_PAF nāḍyaḥ_nāḍī_PAF tu_tu_ rāhu_rāhu_Cp pṛṣṭe_pracch_SLPaM jayaḥ_jaya_SNM raṇe_raṇa_SLM  /"
+  },
+  {
+    "index": 81,
+    "sanskrit": "tatas sa rākṣasaḥ kruddhaḥ pāṇḍavena balāt dhṛtaḥ bhīmasenam samāliṅgya vyanadat bhairavam ravam",
+    "english": "Then the Rakshasa, thus made to feel the weight of Bhima's strength, became very angry and clasping the Pandava, sent forth a terrible yell.",
+    "morphology": "tatas_tatas_U sa_tad_SNM rākṣasaḥ_rākṣasa_SNM kruddhaḥ_krudh_SNPaPsM pāṇḍavena_pāṇḍava_SIM balāt_bala_SBNe dhṛtaḥ_dhṛ_SNPaPsM bhīmasenam_bhīmasena_SAM samāliṅgya_samāliṅgay_Co vyanadat_vinad_SPs3In bhairavam_bhairava_SAM "
+  },
+  {
+    "index": 82,
+    "sanskrit": "tau ratha sthau nara vyāghrau bhīṣmaḥ śāṃtanavaḥ punar vavarṣa śara varṣeṇa meghaḥ vṛṣṭyā yathā acalau",
+    "english": "And then upon those two tigers among men, when stationed on their car, Bhishma the son of Santanu, once more poured his arrowy showers like the Chapter XVIII clouds pouring rain upon the mountain-breast.",
+    "morphology": "tau_tad_DuAM ratha_ratha_MCp sthau_stha_DuAM nara_nara_MCp vyāghrau_vyāghra_DuAM bhīṣmaḥ_bhīṣma_SNM śāṃtanavaḥ_śāṃtanava_SNM punar_punar_U vavarṣa_vṛṣ_SPs3In śara_śara_MCp varṣeṇa_varṣa_SIM meghaḥ_megha_SNM vṛṣṭyā"
+  },
+  {
+    "index": 83,
+    "sanskrit": "tathā eva pāṇḍavaḥ rājan bhīṣmam na akampayat yudhi",
+    "english": "And so, O king, the son of Pandu also could not make Bhishma waver in battle.",
+    "morphology": "tathā_tathā_U eva_eva_U pāṇḍavaḥ_pāṇḍava_SNM rājan_rājan_SVM bhīṣmaḥ_bhīṣma_SNM na_na_U ṛṣṭaḥ_ṛṣṭa_PNM"
+  },
+  {
+    "index": 84,
+    "sanskrit": "pūrvaśloke kecid anyathā saptasaṃkhyā parikalpayanti / pañcendriyāṇi cakṣurādīni vargīkṛtāny ekībhavanti / bodhahetutayaikena dharmeṇa yogād ekatvena nirdiśyante / evaṃ karmendriyāṇi / tau ca vargadvitvād dvau puruṣau bhavataḥ /",
+    "english": "In the preceding verse some people offer a different explanation of the number \"seven\" The five organs of sensation, the Eye and the rest, taken together from a single group; they are regarded as \"one\" on account of their possessing the common character of being the instruments of perception; similarly the five organs of action; these two, forming two groups, are \"two principles\"; the five elemental substances, being treated individually, by reason of their functions being distinct from one another, are the \"seven principles\"; and the five Rudimentary Substances and the principle of Egoism are the \"subtile constituents\" that go to make up the \"bodies\" of the said seven;ie, these seven are the products of evolution from the said sixThe rest of the verse is explained in the same manner as set forth above.",
+    "morphology": "pūrva_pūrva_Cp śloke_śloka_SLM kecid_kaścit_PNM anyathā_anyathā_ sapta_saptan_Cp saṃkhyā_saṃkhyā_SNF parikalpayanti_parikalpay_PPr3In  / pañca_pañcan_PNNe indriyāṇi_indriya_PNNe cakṣuḥ_cakṣus_Cp ādīni_ādi_PNNe vargīkṛtāni_var"
+  },
+  {
+    "index": 85,
+    "sanskrit": "ūrjā mitro varuṇaḥ pinvateḍāḥ pīvarīmiṣaṃ kṛṇuhī na indra //",
+    "english": "With strength let Mitra, Varuna swell oblations; do thou prepare for us rich food, O Indra!",
+    "morphology": "ūrjā_ūrj_SIF mitraḥ_mitra_SNM varuṇaḥ_varuṇa_SNM pinvata_pinv_SPr3In iḍāḥ_iḍā_PAF pīvarī_pīvara_SNF imiḥ_iḍā_PAF kṛṇuhi_kṛ_SPr2Im naḥ_mad_PD indra_indra_SVM  /"
+  },
+  {
+    "index": 86,
+    "sanskrit": "sa mainākaḥ samudrāṃtaḥ praviṣṭaḥ śakra te bhayāt | pakṣābhyāṃ sahito'dyāpi sa tatraiva vyavasthitaḥ || 11 ||",
+    "english": "O Śakra, afraid of you, Maināka has sunk into the ocean where he continues to be safe with his pair of wings intact.",
+    "morphology": "sa_tad_SNM mainākaḥ_maināka_SNM samudra_samudra_Cp antar_antar_ praviṣṭaḥ_praviś_SNPaM śakra_śakra_SVM te_tvad_SG bhayāt_bhaya_SBNe  / pakṣābhyām_pakṣa_DuIM sahitaḥ_sahita_SNM adya_adya_ api_api_ saḥ_tad_SNM tatra_tatra_ eva_eva_ vy"
+  },
+  {
+    "index": 87,
+    "sanskrit": "asme iti pra yandhi magha van r̥jīṣin indra rāyaḥ viśva vārasya bhūreḥ asme iti śatam śaradaḥ jīvase dhāḥ asme iti vīrān śaśvataḥ indra śiprin",
+    "english": "O Indra, Maghavan, impetuous mover, grant us abundant wealth that brings all blessings. Give us a hundred autumns for our lifetime: give us, O fair-checked Indra, store of heroes.",
+    "morphology": "asme_mad_PD iti_iti_U pra_pra_U yandhi_yam_SPs2Im magha_magha_SVM van_vat_SVM r̥jīṣin_r̥jīṣin_SVM indra_indra_SVM rāyaḥ_rai_SGM viśva_viśva_Cp vārasya_vāra_SGM bhūreḥ_bhūri_SGM asme_mad_PD iti_iti_U śatam_śata_SANe śaradaḥ_śarad_PA"
+  }
+]

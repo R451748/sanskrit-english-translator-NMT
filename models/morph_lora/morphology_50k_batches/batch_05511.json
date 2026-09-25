@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44080,
+    "sanskrit": "iti cchāndogyopaniṣadi saptamādhyāyasya daśamaḥ khaṇḍaḥ",
+    "english": "End of Section 0 of Discourse",
+    "morphology": "iti_iti_ chāndogya_chāndogya_Cp upaniṣadi_upaniṣad_SLF"
+  },
+  {
+    "index": 44081,
+    "sanskrit": "sītā nāma nadī rājan plavaḥ yasyām nimajjati",
+    "english": "There is a river, O king, of the name of Sita. Boats sink in it.",
+    "morphology": "sītā_sītā_SNF nāma_nāma_U nadī_nadī_SNF rājan_rājan_SVM"
+  },
+  {
+    "index": 44082,
+    "sanskrit": "sarveṣāmapi tīrthānāṃ gaṃgāsnānaṃ viśiṣyate | devakhāte ca tattulyaṃ praśastaṃ snānamācaret || 69 ||",
+    "english": "69. The holy dip in Gaṅgā is superior to that in all the other holy spots and waters. If the holy dip is performed in a Devakhāta (natural pond or reservoir) it is equal in efficacy to a dip in Gaṅgā. The devotee should perform the rite of holy ablution in a praiseworthy manner.",
+    "morphology": "sarveṣām_sarva_PGNe api_api_ tīrthānām_tīrtha_PGNe gaṃgā_gaṅgā_Cp snānam_snāna_SNNe viśiṣyate_viśiṣ_SPr3InPv  / devakhāte_devakhāta_SLNe ca_ca_ tad_tad_Cp tulyam_tulya_SANe praśastam_praśaṃs_SAPaNe snānam_snāna_SANe ācaret_āc"
+  },
+  {
+    "index": 44083,
+    "sanskrit": "yad api vikalpānāṃ śabdānāṃ cānyāpohaviṣayatvasiddhaye pralapitam [ekasyārthasvabhāvasya] ity ādi tad api yat kiñcid etat sarvātmanā hi dṛṣṭo 'rthaḥ punar na hi na dṛśyate pradarśitaṃ hi prāmāṇyaṃ gṛhītagrāhiṇām api //",
+    "english": "The Refutations of the Hypothesis That a Concept Points to the Exclusion of its other The Buddhists have an incoherent statement to establish the hypothesis that concepts point to and words denote the ex- clusion of their other. They hold that proofs other than percep- tion are not so powerful that they will discover properties of an object, non-sensed by perception.",
+    "morphology": "yat_yad_SNNe api_api_ vikalpānām_vikalpa_PGM śabdānām_śabda_PGM ca_ca_ anya_anya_Cp apoha_apoha_Cp viṣaya_viṣaya_Cp tva_tva_Cp siddhaye_siddhi_SDF pralapitam_pralap_SNPaNe ekasya_eka_SGM artha_artha_Cp svabhāvasya_svabhāva_SGM iti_iti_ ādi_ād"
+  },
+  {
+    "index": 44084,
+    "sanskrit": "tava bhramāsaḥ āśu yā patanti anu spr̥śa dhr̥ṣatā śośucānaḥ tapāūṁṣi agne juhvā pataṅgān asam ditaḥ vi sr̥ja viṣvak ulkāḥ",
+    "english": "Thy whirls fly quickly. Fiercely flaming touch (them). O Agni, (send forth) with the ladle 1 thy heat, thy winged (flames); send forth unfettered thy firebrands all around.",
+    "morphology": "tava_tvad_SG bhramāsaḥ_bhrama_PNM āśu_āśu_SANe yā_yad_PNNe patanti_pat_PPr3In anu_anu_U spr̥śa_spṛś_SPr2Im dhr̥ṣatā_dhrīṣat_SIM śośucānaḥ_śośuc_SNPaPrM tapāūṣi_tapāūṃṣi_SANe agne_agni_SVM juhvā_juhū_SIF pataṅgān_pa"
+  },
+  {
+    "index": 44085,
+    "sanskrit": "śabdeneti śeṣaḥ /",
+    "english": "‘Apoha is denoted’ by the Word.",
+    "morphology": "__śabda_U"
+  },
+  {
+    "index": 44086,
+    "sanskrit": "na dṛṣṭamevaṃ ca yataḥ sukhāsukhaṃ",
+    "english": "But, in fact, this rule as to the appearance of happiness and sufferings is nowhere seen.",
+    "morphology": "na_na_ dṛṣṭa_dṛś_SNPaNe evam_evam_ ca_ca_ yatas_yatas_"
+  },
+  {
+    "index": 44087,
+    "sanskrit": "purā mahāsuro jāto hiraṇyākṣo mahābalaḥ || 4 || sa cemāṃ sakalāṃ pṛthvīṃ vaśīkṛtvā cakāra ha | rājyaṃ ca sārvabhaumānāṃ dānavaiśca durātmabhiḥ || 5 ||",
+    "english": "4-8. Formerly there was a great Asura, the highly powerful Hiraṇyākṣa. He brought under his control the entire earth with the help of the wicked-souled Dānavas and established an imperial kingdom.",
+    "morphology": "purā_purā_ mahā_mahat_Cp asuraḥ_asura_SNM jātaḥ_jan_SNPaM hiraṇyākṣaḥ_hiraṇyākṣa_SNM mahā_mahat_Cp balaḥ_bala_SNM  / sa_tad_SNM ca_ca_ imām_idam_SAF sakalām_sakala_SAF pṛthvīm_pṛthvī_SAF vaśīkṛtvā_vaśīkṛ_Co cakāra_k"
+  }
+]

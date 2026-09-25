@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1912,
+    "sanskrit": "rājā tu mām prāhiṇot tvad sakāśam",
+    "english": "The king, however, hath sent me to thee.",
+    "morphology": "rājā_rājan_SNM"
+  },
+  {
+    "index": 1913,
+    "sanskrit": "sarvaiḥ guṇaiḥ hi saṃpannām anukūlām priyaṃvadām yadṛśīm dharma kāma artha siddhim icchet naraḥ striyam",
+    "english": "Possessed of every accomplishment and compassionate and sweet-speeched, she is such a woman as a man may desire for wife in respect of her fitness for the acquisition of virtue and pleasure and wealth.",
+    "morphology": "sarvaiḥ_sarva_PIM guṇaiḥ_guṇa_PIM hi_hi_U saṃpannām_sampad_SAPaPsF anukūlām_anukūla_SAF priyaṃvadām_priyaṃvada_SAF yadṛśīm_yadṛśa_SAF dharma_dharma_MCp kāma_kāma_MCp artha_artha_MCp siddhimā_siddhi_SIF"
+  },
+  {
+    "index": 1914,
+    "sanskrit": "yanna kiṃcitprabodho'sti nāprabodho'sti tatkvacit / yastūpalambhastatkāle pūrvāvasthaiva sā tathā //",
+    "english": "What is known in the waking state, could not be otherwise in that of sleep; whatever is known in the later hour of coming to its knowledge, the same must have been its previous state also.",
+    "morphology": "yat_yad_SNNe na_na_ kiṃcid_kaścit_SNNe prabodhaḥ_prabodha_SNM asti_as_SPr3In na_na_ aprabodhaḥ_aprabodha_SNM asti_as_SPr3In tat_tad_SNNe kvacid_kvacid_  / yaḥ_yad_SNM tu_tu_ upalambhaḥ_upalambha_SNM tad_tad_Cp kāle_kāla_SLM pṛṣṭha_pṛ"
+  },
+  {
+    "index": 1915,
+    "sanskrit": "asty avayavavacanaḥ / vastrānto vasanānta ity ubhayatrāpi vartamānaḥ saṃbandhyantaram apekṣyate, kasya samīpaṃ kasya vāvayava iti / tatreha yena sthānena varṇāntarāṇām ācamanaṃ vihitam, tīrthair jihvoṣṭhena ca tadanteneti pratīyate /",
+    "english": "It also means a part; eg, in such expressions as \"vastrānta,\" \"vasanānta\" and the like. With both these significations the term \"end\" being a relative term stands in need of a correlative; whenever it is used, one always wants to know \"near what \" or \"part of what\" Now in the present case, the watersipping has been laid down for the other castes as to he done with certain parts of the hand and the lips and the tongue; and it is the \"end\" of these that is meant.",
+    "morphology": "asti_as_SPr3In avayava_avayava_Cp vacanaḥ_vacana_SNM  / vastra_vastra_Cp antaḥ_anta_SNM vasana_vasana_Cp antaḥ_anta_SNM iti_iti_ ubhayatra_ubhayatra_ api_api_ vartamānaḥ_vṛt_SNPaPrM saṃbandhi_sambandhin_Cp antaram_antara_SAM apekṣyate_apek"
+  },
+  {
+    "index": 1916,
+    "sanskrit": "anityatvapratipādanāyāha kramasaṅgatamūrtaya iti /",
+    "english": "In order to prove their non-eternality, it is added Having their forms, etc. etc.;",
+    "morphology": "a_a_ __"
+  },
+  {
+    "index": 1917,
+    "sanskrit": "vimśatidhā",
+    "english": "Or twentyfold.",
+    "morphology": "__"
+  },
+  {
+    "index": 1918,
+    "sanskrit": "nāneva sargo nānāyaṃ jñasyaikātmaśivātmakaḥ / puṃstvakarmakriyā senā mṛnmayī śilpināṃ yathā //",
+    "english": "These different created things appear in a different light to the sapient, who views them all in the unity of God, as the toy puppets of a militia, are well known to the intelligent to be made and composed of mud and clay.",
+    "morphology": "nānā_nānā_ iva_iva_ sargaḥ_sarga_SNM nānā_nānā_ ayam_idam_SNM jñasya_jña_SGM eka_eka_Cp ātma_ātman_Cp śiva_śiva_Cp ātmakaḥ_ātmaka_SNM  / puṃstva_puṃstva_Cp karma_karman_Cp kriyā_kriyā_SNF senā_senā_SNF mṛd_mṛd_Cp mayā_maya_"
+  },
+  {
+    "index": 1919,
+    "sanskrit": "kaṃ ca tu khaṃ na vijānāmīti /",
+    "english": "do not, however, understand ‘Ka and Kha’",
+    "morphology": "kam_ka_SANe ca_ca_ tu_tu_ kham_kha_SANe na_na_ vijānāmi_vijñā_SPr1In iti_"
+  }
+]

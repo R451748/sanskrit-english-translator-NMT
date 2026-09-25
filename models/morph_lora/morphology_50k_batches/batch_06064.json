@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48504,
+    "sanskrit": "brāhmaṇān vācayitvā ca hutvā ca eva hutāśanam āyuṣyam pāṇḍu putrāṇām āśāste sa nara adhipaḥ",
+    "english": "Making the usual gifts unto the Brahmanas and causing them to utter benedictions, and Pouring libations on the sacred fire, the old king prayed for long life to the Pandavas.",
+    "morphology": "brāhmaṇān_brāhmaṇa_PAM vācayitvā_vācay_Co ca_ca_U hutvā_hu_Co ca_ca_U eva_eva_U hutāśanam_hutāśana_SAM āyuṣyam_āyuṣya_SANe pāṇḍu_pāṇḍu_MCp putrāṇām_putra_PGM āśāste_āśās_SPr3In"
+  },
+  {
+    "index": 48505,
+    "sanskrit": "sa hi vidhir ucyate yaḥ puruṣasya dṛṣṭena prayojanena pravṛttāv asatyāṃ pravṛttyavabodhakaḥ yāvijjīvam agnihotraṃ juhuyāt iti / śāstram evātra pramāṇam /",
+    "english": "That is called an \"Injunction\" which points to such activity of the agent as would not be possible under the influence of any ordinary visible motive; such injunctions, for instance, as \"one shall perform the Agnihotra through out his life;\" and on such a matter, the scripture is the sole source of knowledge and authority available.",
+    "morphology": "sa_tad_SNM hi_hi_ vidhiḥ_vidhi_SNM ucyate_vac_SPr3InPv yaḥ_yad_SNM puruṣasya_puruṣa_SGM dṛṣṭena_dṛś_SIPaNe prayojanena_prayojana_SINe pravṛttau_pravṛtti_SLF asatyām_asat_SLF pravṛtti_pravṛtti_Cp avabodhakaḥ_avabodhaka_SNM yāvij"
+  },
+  {
+    "index": 48506,
+    "sanskrit": "bhūtam etat param loke brāhmaṇāḥ nāma bhārata",
+    "english": "O foremost of liberal men, the Brahmanas should never be punished by thee, for the Brahmana, O son of Pandu, is the foremost of beings on the Earth.",
+    "morphology": "bhūtam_bhūta_SNNe etat_etad_SNNe paraḥ_para_SNNe loke_loka_SLM"
+  },
+  {
+    "index": 48507,
+    "sanskrit": "pāñcajanyam hṛṣīkeśaḥ devadattam dhanaṃjayaḥ",
+    "english": "And Hrishikesha blew (the conch called) Panchajanya and Dhananjaya (that called) Devadatta;",
+    "morphology": "pāñcajanya_pāñcajanya_SAM hṛṣīkeśaḥ_hṛṣīkeśa_SNM devadatta_devadatta_SAM dhanaṃjayaḥ_dhanaṃjaya_SNM"
+  },
+  {
+    "index": 48508,
+    "sanskrit": "droṇena drupadam saṃkhye paśya mādhava pātitam mahā dvipam iva araṇye siṃhena mahatā hatam",
+    "english": "Behold, O Madhava, king Drupada overthrown in battle by Drona, like a mighty elephant in the forest slain by a huge lion.",
+    "morphology": "droṇena_droṇa_SIM drupadam_drupada_SAM saṃkhye_saṃkhya_SLNe paśya_paś_SPr2Im mādhava_mādhava_SVM pātitam_pātay_SAPaPsM mahā_mahat_Cp dvipam_dvipa_SAM iva_iva_U araṇye_araṇya_SLNe siṃhena_siṃha_SIM mahatā_mahat_SIM hatam_han_SAPaPsM"
+  },
+  {
+    "index": 48509,
+    "sanskrit": "samānam artham pari yanti devāḥ saṃvatsaram vai etat ṛtavaḥ anupariyanti vrātyam ca //",
+    "english": "With one and the same object the Gods go round the Year and the Seasons follow round the Vrātya.",
+    "morphology": "samānam_samāna_SAM artham_artha_SAM pari_pari_U yanti_i_PPr3In devāḥ_deva_PNM saṃvatsaram_saṃvatsara_SAM vai_vai_U etat_etad_SANe ṛtavaḥ_ṛtu_PNM anupariyanti_anuparī_PPr3In vrātyam_vrātya_SAM ca_ca_U"
+  },
+  {
+    "index": 48510,
+    "sanskrit": "sāmantāś cen mṛṣā brūyuḥ setau vivadatāṃ nṛṇām / sarve pṛthak pṛthak daṇḍyā rājñā madhyamasāhasam //",
+    "english": "In the case of men disputing about boundarymarks, if the neighbours depose falsely, all of them should be severally punished by the king with the \"middle amercement\".",
+    "morphology": "sāmantāḥ_sāmanta_PNM ced_ced_ mṛṣā_mṛṣā_ brūyuḥ_brū_PPr3O setau_setu_SLM vivadatām_vivad_PGPaPrM nṛṇām_nṛ_PGM  / sarve_sarva_PNM pṛthak_pṛthak_ pṛthak_pṛthak_ daṇḍyāḥ_daṇḍay_PNMGd rājñā_rājan_SIM madhyamas"
+  },
+  {
+    "index": 48511,
+    "sanskrit": "tacchrutvā'kāśavacanaṃ tuṣṭuvuste sudarśanam || 1 ||",
+    "english": "17. In the mean time a voice from above declared that Sudarśana (an epithet of Viṣṇu) appeared to be pleased with them.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co ā_ā_ ākāśa_ākāśa_Cp vacanam_vacana_SANe tuṣṭuvuḥ_stu_PPs3In te_tad_PNM sudarśanam_sudarśana_SAM"
+  }
+]

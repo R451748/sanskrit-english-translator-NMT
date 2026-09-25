@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29000,
+    "sanskrit": "apasṛtaatikṣiptayor apasṛtam ekarājyaatikrāntaṃ mantravyāyāmābhyāṃ sattramitraapāśrayaṃ yudhyeta, naatikṣiptam anekarājyaatikrāntaṃ bahvābādhatvāt //",
+    "english": "Kautilyas Arthashastra Of armies which have left service either in one state or in many states, that whose resignation of service in a foreign state is not due to instigation or conspiracy may be taken to fight under the leadership of spies and friends, but not the army which has resigned its service in many states and is, therefore, dangerous",
+    "morphology": "apasṛta_apasṛ_PaCp atikṣiptayoḥ_atikṣip_DuGPaM apasṛtam_apasṛ_SAPaM eka_eka_Cp rājya_rājya_Cp atikrāntam_atikram_SAPaM mantra_mantra_Cp vyāyāmābhyām_vyāyāma_DuIM sattra_sattra_Cp mitra_mitra_Cp apāśrayam_apāśraya_SAM yudhyeta_yud"
+  },
+  {
+    "index": 29001,
+    "sanskrit": "caṇḍālakūpabhāṇḍeṣu pītvā śāntapanaṃ caret //",
+    "english": "One should practise sāntapana for having drunk water from the well or vessel belonging to a cāṇḍāla.",
+    "morphology": "caṇḍāla_caṇḍāla_Cp kūpa_kūpa_Cp bhāṇḍeṣu_bhāṇḍa_PLNe pītvā_pā_Co śāntapanam_śāntapana_SANe caret_car_SPr3O  /"
+  },
+  {
+    "index": 29002,
+    "sanskrit": "nauyānayugmahastyaśvadāntoṣṭrādigamāgamaiḥ / jalakelivilāsena parasparasamukṣaṇaiḥ //",
+    "english": "They made their trips in pleasure-boats, and on yokes of elephants and tame camels; and sported in their pleasure-ponds by pattering water upon one another.",
+    "morphology": "nau_nau_Cp yāna_yāna_Cp yugma_yugma_Cp hasti_hastin_Cp aśva_aśva_Cp dānta_dānta_Cp uṣṭra_uṣṭra_Cp ādi_ādi_Cp gama_gama_Cp āgamaiḥ_āgama_PIM  / jala_jala_Cp keli_keli_Cp vilāsena_vilāsa_SIM paraspara_paraspara_Cp samukṣaṇaiḥ_samu"
+  },
+  {
+    "index": 29003,
+    "sanskrit": "gandhamādanaśailendranāmni kācitkila sthalī / vidyate kīrṇakusumā drumakarpūrakesarā //",
+    "english": "Among these stood the high hill of Gandhamadana with a table land on it, which was full of camphor arbours, that shed the odours of their flowers and pistils continually on the ground.",
+    "morphology": "gandhamādana_gandhamādana_Cp śaila_śaila_Cp indra_indra_Cp nāmni_nāman_SLNe kācid_kaścit_SNF kila_kila_ sthalī_sthalī_SNF  / vidyate_vid_SPr3InPv kīrṇa_kṛ_PaCp kusumā_kusuma_SNF druma_druma_Cp karpūra_karpūra_Cp kesarā_kesara_SNF  /"
+  },
+  {
+    "index": 29004,
+    "sanskrit": "pādāvevāsyaitāveṣa vai tāyamāno yāvāneva puruṣastāvānvidhīyate tasmātpuruṣo yajñaḥ //",
+    "english": "In being spread it is made just as large as a man: this is why the sacrifice is a man.",
+    "morphology": "pādau_pāda_DuNM eva_eva_ asya_idam_SGM etau_etad_DuNM eṣa_etad_SNM vai_vai_ tāyamānaḥ_tan_SNPaPrMPv yāvān_yāvat_SNM eva_eva_ puruṣaḥ_puruṣa_SNM tāvān_tāvat_SNM vidhīyate_vidhā_SPr3InPv tasmāt_tasmāt_ puruṣaḥ_puruṣa_SNM yajña"
+  },
+  {
+    "index": 29005,
+    "sanskrit": "saṃvāhanam māṃsa rakta tvac prasāda karam sukham",
+    "english": "It destroys the bodily Vayu and Kapha, removes the sense of fatigue and is soothing to the blood, skin and the muscles.",
+    "morphology": "saṃvāhanam_saṃvāhana_SNNe māṃsa_māṃsa_NeCp rakta_rakta_NeCp tvac_tvac_SNF"
+  },
+  {
+    "index": 29006,
+    "sanskrit": "bhagavato buddhasya /",
+    "english": "‘Tāyin’ is the Blessed Lord Buddha.",
+    "morphology": "bhagavataḥ_SGM buddhasya_buddha_SGM  /"
+  },
+  {
+    "index": 29007,
+    "sanskrit": "nāpi varṇādhāramānapūrvam eva kevalaṃ vācakam iṣṭam, katham ity āha dharmamātram idam iti /",
+    "english": "Further, it is not only the order subsisting in the Letters that is held to be expressive. Why? The reason is explained in the following: [see verse 2285 next] “As a matter of fact, the order or arrangement is only a property of the letters;",
+    "morphology": "na_na_ api_api_ varṇa_varṇa_Cp ādhāra_ādhāra_Cp māna_māna_Cp pūrvam_pūrva_SNNe eva_eva_ kevalam_kevala_SNNe vācakam_vācaka_SNNe iṣṭam_iṣ_SNPaNe katham_katham_ iti_iti_ āha_ah_SPs3In dharma_dharma_Cp mātram_mātra_SNNe"
+  }
+]

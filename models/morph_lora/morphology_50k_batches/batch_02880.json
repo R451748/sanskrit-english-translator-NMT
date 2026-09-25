@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23032,
+    "sanskrit": "gītibhirgaganābhogaiste jīvanti mṛtāḥ pare / paramaṃ pauruṣaṃ yatnamāsthāyādāya sūdyamam //",
+    "english": "They that aspire to their utmost perfection by their unfailing exertions, and act according to the precepts of the sastras, are surely successful in their attempt.",
+    "morphology": "gītibhiḥ_gīti_PIF gagana_gagana_Cp ābhogaiḥ_ābhoga_PIM te_tad_PNM jīvanti_jīv_PPr3In mṛtāḥ_mṛ_PNPaM pare_para_PNM  / paraḥ_para_SNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_PNM ḥ_ḥ_P"
+  },
+  {
+    "index": 23033,
+    "sanskrit": "patan sa dadṛśe ca api kharvitam ca divākaram",
+    "english": "While falling he had marked that the Sun was then in the southern solstice.",
+    "morphology": "patan_pat_SNPaPrM"
+  },
+  {
+    "index": 23034,
+    "sanskrit": "tānsaṃtarpya tataḥ sṛṣṭiṃ kurute padmasaṃbhavaḥ || 13 ||",
+    "english": "13. The Lotus-born Lord begins (work of) creation after propitiating them.",
+    "morphology": "tān_tad_PAM saṃtarpya_saṃtarpay_Co tatas_tatas_ sṛṣṭim_sṛṣṭi_SAF kurute_kṛ_SPr3In padmasaṃbhavaḥ_padmasaṃbhava_SNM"
+  },
+  {
+    "index": 23035,
+    "sanskrit": "śilailā nata sindhūtthaiḥ sa kṣaudraiḥ pratisārayet",
+    "english": "In a case of Anjana, the affected part should be duly fomented and if it spontaneously bursts open, it should be well pressed and rubbed (Pratisarana) with a plaster-compound of Manah-shila, Ela, Tagara-paduka and Saindhava, pasted together with honey.",
+    "morphology": "__śilā_U __elā_U __fl_U"
+  },
+  {
+    "index": 23036,
+    "sanskrit": "mahāpātakajānghorānnarakānprāpya garhitān // karmakṣayātprajāyante mahāpātakinastviha /",
+    "english": "After having reached dreadful hells as a result of censurable great sins, the great sinners are reborn here when the fruits of the past deeds are exhausted.",
+    "morphology": "mahāpātaka_mahāpātaka_Cp jān_ja_PAM ghorān_ghora_PAM narakān_naraka_PAM prāpya_prāp_Co garhitān_garh_PAPaM  /"
+  },
+  {
+    "index": 23037,
+    "sanskrit": "tadā tasya atha bhaṣataḥ śunaḥ sapta śarān mukhe lāghavam darśayan astre mumoca yugapad yathā",
+    "english": "\"Thereupon the Nishada prince, desirous of exhibiting his lightness of hand, sent seven arrows into its mouth (before it could shut it).",
+    "morphology": "tadā_tadā_U tasya_tad_SGM atha_atha_U bhaṣataḥ_bhaṣ_SGPaPrM śunaḥ_śvan_SGM sapta_saptan_PAM śarān_śara_PAM mukhe_mukha_SLNe lāghavam_lāghava_SANe darśayan_darśay_SNPaPrM astre_astra_SLNe mā_mā_U"
+  },
+  {
+    "index": 23038,
+    "sanskrit": "āyuḥ paraṃ manuṣyāṇāṃ śatasaṃkhyaṃ sureśvara | nāgānāṃ ca tarūṇāṃ ca varṣāṇāṃ yatra nādhikam || 69 || dvātriṃśaddhayamukhyānāṃ caturviṃśatiḥ kharoṣṭrayoḥ | ajānāṃ ṣoḍaśa proktaṃ śunāṃ dvādaśasaṃkhyayā || 70 ||",
+    "english": "69-72. O Lord of Suras, the maximum life expectancy of men is a hundred years. In the case of elephants and trees it is not more than that. Excellent horses live upto thirty-two years; ass and camel upto twenty-four. It is sixteen in the case of goats and twelve in that of dogs. Other quadrupeds live upto twenty-five years. Crows, vultures and owls live for a very long time. So also is the case of sinful persons and those in wretched conditions more particularly.",
+    "morphology": "āyuḥ_āyus_SNNe param_para_SNNe manuṣyāṇām_manuṣya_PGM śata_śata_Cp saṃkhyam_saṃkhyā_SNNe sureśvara_sureśvara_SVM  / nāgānām_nāga_PGM ca_ca_ tarūṇām_taru_PGM ca_ca_ varṣāṇām_varṣa_PGM yatra_yatra_ na_na_ adhikam_adhika_S"
+  },
+  {
+    "index": 23039,
+    "sanskrit": "viśvāni deva savitar duritāni parā suva / yad bhadraṃ tan na ā suva //",
+    "english": "Savitar, God, send far away all troubles and calamities, And send us only what is good. 4",
+    "morphology": "viśvāni_viśva_PANe deva_deva_SVM savitar_savitṛ_SVM duritāni_durita_PANe parā_parā_ suva_sū_SPr2Im  / yat_yad_SNNe bhadram_bhadra_SNNe tat_tad_SANe naḥ_mad_PD ā_ā_"
+  }
+]

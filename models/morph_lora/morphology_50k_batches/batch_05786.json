@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46280,
+    "sanskrit": "vijñaptaḥ paśupālena govindo brāhmaṇottamaḥ | yāvadbhokṣyāmyahaṃ svāminmahiṣīstvaṃ ca rakṣase || 150 ||",
+    "english": "Govinda, the excellent Brāhmaṇa, was informed by the cowherd, “O master, even as I take food, kindly look after the buffaloes.”",
+    "morphology": "vijñaptaḥ_vijñapay_SNPaM paśupālena_paśupāla_SIM govindaḥ_govinda_SNM brāhmaṇa_brāhmaṇa_Cp uttamaḥ_uttama_SNM  / yāvat_yāvat_ bhokṣyāmi_bhuj_SFu1In aham_mad_SN svāmin_svāmin_SVM mahiṣīḥ_mahiṣī_PAF tvam_tvad_SN ca_ca_ rakṣ"
+  },
+  {
+    "index": 46281,
+    "sanskrit": "nirnimittaḥ pūrva pūrvo na prāpnoti /",
+    "english": ".",
+    "morphology": "nirnimittaḥ_nirnimitta_SNM"
+  },
+  {
+    "index": 46282,
+    "sanskrit": "sulakṣaṇe prasannosmi varaṃ varaya suvrate | ciraṃ khinnāsi tapasā kaste'stīha manorathaḥ || 32 ||",
+    "english": "32. “O Sulakṣaṇā! I am pleased. O girl of excellent vows, choose your boon. You are fatigued due to the penance of long duration. What is your desire?”",
+    "morphology": "sulakṣaṇe_sulakṣaṇa_SVF prasannā_prasad_SNPaF asmi_as_SPr1In varam_vara_SAM varaya_varay_SPr2Im suvrate_suvrata_SVF  / ciram_ciram_ khinnā_khid_SNPaF asi_as_SPr2In tapasā_tapas_SINe kaḥ_ka_SNM te_tvad_SG asti_as_SPr3In iha_iha_ manorathaḥ_ma"
+  },
+  {
+    "index": 46283,
+    "sanskrit": "anugrahāya lokānāmasmākaṃ priyakāmyayā | sthātavyaṃ śaṃkareṇāpi tvayā caiva saridvare ||",
+    "english": "46. To bless the worlds, to do what is pleasing to us Śiva shall stay here and you too, O leading river.",
+    "morphology": "anugrahāya_anugraha_SDM lokānām_loka_PGM asmākam_mad_PG priya_priya_Cp kāmyayā_kāmyā_SIF  / sthātavyam_sthā_SNNeGd śaṃkareṇa_śaṃkara_SIM api_api_ tvayā_tvad_SI ca_ca_ eva_eva_ saridvare_saridvarā_SVF  /"
+  },
+  {
+    "index": 46284,
+    "sanskrit": "asminsaṃsārasaṃrambhe jātānāṃ dehadhāriṇām / apavargakṣamau rāma dvāvimāvuttamau kramau //",
+    "english": "Now Rama! we have two ways which are best calculated for the salvation of souls, born in human bodies on earth: the one is by their attainment of heavenly bliss, and the other by that of their final beatitude.",
+    "morphology": "asmin_idam_SLM saṃsāra_saṃsāra_Cp saṃrambhe_saṃrambha_SLM jātānām_jan_PGPaM dehadhāriṇām_dehadhārin_PGM  / apavarga_apavarga_Cp kṣamau_kṣama_DuNM rāma_rāma_SVM dvau_dvi_DuNM imau_idam_DuNM uttamau_uttama_DuNM kramau_krama_DuNM  /"
+  },
+  {
+    "index": 46285,
+    "sanskrit": "madhyetaremare varṇānevaṃ cakradvayaṃ likhet //",
+    "english": "The interspace should bear the colour of silver.",
+    "morphology": "varṇān_varṇa_PAM evam_evam_ cakra_cakra_Cp dvayam_dvaya_SANe likhet_likh_SPr3O  /"
+  },
+  {
+    "index": 46286,
+    "sanskrit": "samāhriyamāṇāś ca ṛgvedādayaḥ trayaḥ hautrādiparatvena caritārthāḥ na punas tatra bhedam arhanti /",
+    "english": "There is no such distinct book as goes by the name \"trayî\" (triplet). Though the collection of the Rg Veda, the Yajur Veda and the Sama Veda is loosely called trayi Collection yet it has space enough to include other mantras.",
+    "morphology": "samāhriyamāṇāḥ_samāhṛ_PNPaPrMPv ca_ca_ ṛgveda_ṛgveda_Cp ādayaḥ_ādi_PNM trayaḥ_tri_PNM hautra_hautra_Cp ādi_ādi_Cp para_para_Cp tvena_tva_SINe caritārthāḥ_caritārtha_PNM na_na_ punar_punar_ tatra_tatra_ bhedam_bheda_SAM arhanti_ar"
+  },
+  {
+    "index": 46287,
+    "sanskrit": "yatra dharmam samāśritya viduraḥ sugatim gataḥ",
+    "english": "In this Parva, Vidura after having leaned on virtue all his life attaineth to the most meritorious state.",
+    "morphology": "yatra_yatra_U dharmam_dharma_SAM samāśritya_samāśri_Co"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25832,
+    "sanskrit": "nipuṇataś caitan nirṇītam asmābhiḥ smṛtiviveke",
+    "english": "We have discussed this matter fully in the as follows.",
+    "morphology": "nipuṇatas_nipuṇatas_ ca_ca_ etat_etad_SNNe nirṇītam_nirṇī_SNPaNe asmābhiḥ_mad_PI smṛti_smṛti_Cp viveke_viveka_SLM"
+  },
+  {
+    "index": 25833,
+    "sanskrit": "agastyāśramametaddhi agastipriyamuttamam | nyaṃkumatyāstaṭe ramye sarvapātakanāśane || 5 ||",
+    "english": "5. Know that this excellent Agastyāśrama is a favourite of Agasti. It is situated on the charming banks of Nyaṅkumatī destructive of all sins.",
+    "morphology": "agastya_agastya_Cp āśramam_āśrama_SNNe etat_etad_SNNe hi_hi_ agastipriyam_agastipriya_SNNe uttamam_uttama_SNNe  / nyaṃkumatyāḥ_nyaṅkumatī_SGF taṭe_taṭa_SLNe ramye_ramya_SLNe sarva_sarva_Cp pātaka_pātaka_Cp nāśane_nāśana_SLNe  /"
+  },
+  {
+    "index": 25834,
+    "sanskrit": "sarveṣu eteṣu vihitam vidhānam sneha pūrvakam",
+    "english": "In all the remedies to be adopted in the treatment of these (incisable eye) diseases, the application of a Sneha should be first adopted.",
+    "morphology": "sarveṣu_sarva_PLM eteṣu_etad_PLM vihitam_vidhā_SNPaPsNe"
+  },
+  {
+    "index": 25835,
+    "sanskrit": "gaṅgādvāre kuśāvarte bilvake nemi parvate tathā kanakhale snātvā dhūta pāpmā divam vrajet",
+    "english": "Bathing in Gangadwara and Kusavarta and Vilwaka in the Nita mountains, as also in Kankhala, one is sure to become cleansed of all one's sins and then ascend to heaven.",
+    "morphology": "gaṅgādvāre_gaṅgādvāra_SLNe kuśāvarte_kuśāvarta_SLM bilvake_bilvaka_SLM nemi_nemi_MCp parvate_parvata_SLM tathā_tathā_U kanakhale_kanakhala_SLNe snātvā_snā_Co dhūta_dhū_PaPsCp pāpmā_pāpman_SNM divam_div_SAM vrajet_vraj_SPr3O"
+  },
+  {
+    "index": 25836,
+    "sanskrit": "kāyikā kāyakarmaṇā saṃśodhyā /",
+    "english": "\"Corporeal\" payable by bodily labour.",
+    "morphology": "__kāyikā_U __kāya_U __karman_U __saṃśodhay_GdU"
+  },
+  {
+    "index": 25837,
+    "sanskrit": "ratnaiḥ ca bahubhiḥ tatra dharmarājam avardhayan",
+    "english": "Everyone honoured the king Yudhishthira the just with large presents of jewels.",
+    "morphology": "ratnaiḥ_ratna_PINe ca_ca_U bahubhiḥ_bahu_PINe tatra_tatra_U dharmarājam_dharmarāja_SAM avardhayan_vardhay_PPs3In"
+  },
+  {
+    "index": 25838,
+    "sanskrit": "etatsmṛtisaṃkṛtānāṃ vāvagatābhijanajātīyānāṃ pratyakṣam apy upapadyata iti keṣāṃcid darśanam /",
+    "english": "It is the theory of some people that men who are steeped in the study of the Smṛti and belong to certain selected noble families may be able to have a direct intuitive knowledge of things.",
+    "morphology": "etad_etad_Cp smṛti_smṛti_Cp saṃkṛtānām_saṃkṛ_PGPaM vā_vā_ avagata_avagam_PaCp abhijana_abhijana_Cp jātīyānām_jātīya_PGM pratyakṣam_pratyakṣa_SNNe api_api_ upapadyate_upapad_SPr3In iti_iti_ keṣāṃcid_kaścit_PGM darśanam_darś"
+  },
+  {
+    "index": 25839,
+    "sanskrit": "vāgrūpatā tattvam sarvatra pratyaye tadanapāyāt / yathoktam [vāgrūpatā ced utkrāmed avabodhasya śāśvatī /",
+    "english": "Everybody takes shelter in Nescience as a real means to true knowledge. The real essence of everything in this universe is śabda since every form of consciousness is interpenetrated by.",
+    "morphology": "vāc_vāc_Cp rūpa_rūpa_Cp tā_tā_SNF tattvam_tattva_SNNe sarvatra_sarvatra_ pratyaye_pratyaya_SLM tad_tad_Cp anapāyāt_anapāya_SBM  / yathā_yathā_ uktam_vac_SNPaNe vāc_vāc_Cp rūpa_rūpa_Cp tā_tā_SNF ced_ced_ utkrāmet_utkram_SPr3O avabodhasya_a"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40784,
+    "sanskrit": "sanatkumāra uvāca | bhārāvatāraṇārthāya devau rāmajanārdanau | avatīrṇau yadorvaṃśe divyarūpau mahādyutau || 3 ||",
+    "english": "Sanatkumāra said: 3. In order to lighten the burden (on the earth) Lord Rāma and Janārdana incarnated in the family of Yadu. They were endowed with great lustre and divine forms.",
+    "morphology": "sanatkumāraḥ_sanatkumāra_SNM uvāca_vac_SPs3In  / bhāra_bhāra_Cp avatāraṇa_avatāraṇa_Cp arthāya_artha_SDM devau_deva_DuNM rāma_rāma_Cp janārdanau_janārdana_DuNM  / avatīrṇau_avatṛ_DuNPaM yadoḥ_yadu_SGM vaṃśe_vaṃśa_SLM divya_di"
+  },
+  {
+    "index": 40785,
+    "sanskrit": "kaḥ punaḥ karmaṇāṃ phalavibhāgaḥ / ata uktam dvandvair ayojayat sukhaduḥkhādibhiḥ / dharmasya phalaṃ sukham adharmasya duḥkham / ata ubhayakāriṇo dvandvair yojyante, dharmakāritvāt sukhena, adharmakāritvād duḥkhena /",
+    "english": "In view of the question as to what is the \"discrimination of the effects of actions,\" it is added \"he connected them with pairs of opposites, in the shape of PlensurePain and the like\"; \"Pleasure\" being the effect of \"Virtue\" and \"Pain\" of \"Vice\" It is thus that people performing both kind of actions become associated with these pairs of opposites; by performing virtuous acts they become associated with pleasure, and by performing vicious acts they become connected with pain.",
+    "morphology": "kaḥ_ka_SNM punar_punar_ karmaṇām_karman_PGNe phala_phala_Cp vibhāgaḥ_vibhāga_SNM  / atas_atas_ uktam_vac_SNPaNe dvandvaiḥ_dvaṃdva_PINe ayojayat_yojay_S3ImIn sukha_sukha_Cp duḥkha_duḥkha_Cp ādibhiḥ_ādi_PINe  / dharmasya_dharma_SGM phala"
+  },
+  {
+    "index": 40786,
+    "sanskrit": "mohanam stambhanam śaśvad vaśī kāraṇam evā cauccāṭanam ghātanam ca śoṣaṇam dīpanam tathā",
+    "english": "and becomes free from bewilderment, paralysis, being under others' control, forced exile, being attacked by others, withering away, panic,",
+    "morphology": "mohana_mohana_SNNe stambhana_stambhana_SNNe śaśvad_śaśvat_U vaśī_vaśin_SNM kāraṇam_kāraṇa_SNNe evā_eva_U"
+  },
+  {
+    "index": 40787,
+    "sanskrit": "sarvasattāgaṇaṃ caitatkroḍīkṛtya svarūpavat / sphuratyāśritya patrādi bījaṃ bījāditāṃ gatam //",
+    "english": "The spiritual body contains all these essences in itself as its component parts, as the seed of a fruit contains the leaves and germ of the future tree in its cell.",
+    "morphology": "sarva_sarva_Cp sattā_sattā_Cp gaṇam_gaṇa_SAM ca_ca_ etat_etad_SANe kroḍīkṛtya_kroḍīkṛ_Co sva_sva_Cp rūpa_rūpa_Cp vat_vat_  / sphurati_sphur_SPr3In āśritya_āśri_Co pattra_pattra_Cp ādi_ādi_SANe bījam_bīja_SNNe bīja_bīja_Cp ādi_"
+  },
+  {
+    "index": 40788,
+    "sanskrit": "te pañcakā bhadravargīyās-tathāgatam-etad-avocan:",
+    "english": "the auspicious group-of-five said this to the Realised One:",
+    "morphology": "te_tad_PNM"
+  },
+  {
+    "index": 40789,
+    "sanskrit": "sarvabhāvāntarasthāya cetyamuktacidātmane / pratyakcetanarūpāya mahyameva namo namaḥ //",
+    "english": "I bow down to the Ego, which is situated in all beings; which is the intelligent and intellectual soul, and quite apart from whatever is the object of intellection or thought.",
+    "morphology": "sarva_sarva_Cp bhāva_bhāva_Cp antara_antara_Cp sthāya_stha_SDM cetya_cetay_GdCp mukta_muc_PaCp cit_cit_Cp ātmane_ātman_SDM  / pratyak_pratyañc_SNNe"
+  },
+  {
+    "index": 40790,
+    "sanskrit": "tām kīcakaḥ pradhāvantīm keśa pakṣe parāmṛśat atha enām paśyataḥ rājñaḥ pātayitvā padā avadhīt",
+    "english": "And while she was running with all her speed, Kichaka (who followed her), seizing her by the hair, and bringing her down on the ground, kicked her in the very presence of the king.",
+    "morphology": "tām_tad_SAF kīcakaḥ_kīcaka_SNM pradhāvantīm_pradhāv_SAPaPrF keśa_keśa_MCp pakṣe_pakṣa_SLM parāmṛśat_parāmṛś_SPs3In atha_atha_U enām_enad_SAF paśyataḥ_paś_SGPaPrM rājñaḥ_rājan_SGM pātayitvā_pātay_Co"
+  },
+  {
+    "index": 40791,
+    "sanskrit": "sthānam virajasam ramyam yatra agniḥ nityam idhyate",
+    "english": "This spot is pure and holy. Here Agni blazeth forth without intermission.",
+    "morphology": "sthānam_sthāna_SNNe virajasam_virajas_SAM"
+  }
+]

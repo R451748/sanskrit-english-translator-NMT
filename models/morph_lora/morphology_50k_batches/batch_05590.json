@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44712,
+    "sanskrit": "vibhīḥ tasthau mahā rāja vyavasthāpya ca vāhinīm siṃha nādam bhṛśam kṛtvā dhanuḥ śabdam ca dāruṇam",
+    "english": "Rallying his host, O king, Shalya stood fearlessly in battle, uttering loud leonine roars and causing his bow to twang fiercely.",
+    "morphology": "vibhīḥ_vibhī_SNM tasthau_sthā_SPs3In mahā_mahat_Cp rāja_rāja_SVM vyavasthāpya_vyavasthāpay_Co ca_ca_U vāhinīm_vāhinī_SAF siṃha_siṃha_MCp nādam_nāda_SAM bhṛśam_bhṛśam_U kṛtvā_kṛ_Co dhanuḥ_dhanus_NeCp śabdam_śabda_SAM ca_ca"
+  },
+  {
+    "index": 44713,
+    "sanskrit": "bāhulyamiti vaktavye liṅgavyatyayaśchāndasaḥ /",
+    "english": "The use of the word bāhulyah in the masculine is archaic.",
+    "morphology": "bāhulyam_bāhulya_SNNe iti_iti_ vaktavye_vac_SLNeGd liṅga_liṅga_Cp vyatyayaḥ_vyatyaya_SNM chāndasaḥ_chāndasa_SNM  /"
+  },
+  {
+    "index": 44714,
+    "sanskrit": "tannāśe vaṇijas tac ca tāvac ca daṇḍaṃ dadyuḥ //",
+    "english": "When customers under intoxication lose any of their things, the merchants of the shop shall not only make good the loss, but also pay an equivalent fine",
+    "morphology": "tad_tad_Cp nāśe_nāśa_SLM vaṇijaḥ_vaṇij_PNM tat_tad_SANe ca_ca_ tāvat_tāvat_SANe ca_ca_ daṇḍam_daṇḍa_SAM dadyuḥ_dā_PPr3O  /"
+  },
+  {
+    "index": 44715,
+    "sanskrit": "jāmi atītape dhanuḥ vayaḥ dhāḥ aruhat vanam dr̥ṣadam jihvayā ā avadhīt",
+    "english": "He hath inflamed the twofold plain: lifegiving, he hath climbed the wood, And with his tongue hath struck the rock.",
+    "morphology": "jāmi_jāmi_SVF atītape_tap_SPs3In dhanuḥ_dhanus_SANe vayaḥ_vayas_NeCp dhāḥ_dhā_SNM aruhat_ruh_SPs3In vanam_vana_SANe dr̥ṣadam_drāṣad_SAF jihvayā_jihvā_SIF ā_ā_U avadhīt_vadh_SPs3In"
+  },
+  {
+    "index": 44716,
+    "sanskrit": "sarpa vṛścika kūṣmāṇḍa vikṛta ākṛtayaḥ ca ye garbhāḥ tu ete striyāḥ ca eva jñeyāḥ pāpa kṛtāḥ bhṛśam",
+    "english": "Such monstrosities as serpents, scorpions, or gourd shaped fetus delivered from the womb of a woman should be ascribed as the effects of deadly sins.",
+    "morphology": "sarpa_sarpa_MCp vṛścika_vṛścika_MCp kūṣmāṇḍa_kūṣmāṇḍa_MCp vikṛta_vikṛ_PaPsCp ākṛtayaḥ_ākṛti_PNM ca_ca_U ye_yad_PNM garbhāḥ_garbha_PNM tu_tu_U ete_etad_PNM striyāḥ_strī_SGF ca_ca_U eva_eva_U jñeyāḥ_jñā_PNMGd p"
+  },
+  {
+    "index": 44717,
+    "sanskrit": "pūrvātrayandhaniṣṭhārdrā vahniḥ saumyaviśākhayoḥ / aśleṣā cāśvinī caiva yātrāsiddhistu sampadā //",
+    "english": "Pilgrimage undertaken in the asterisms of the three uttara uttarāṣāḍha, uttaraphālgunī, and uttarabhādrapada, dhaniṣṭhā, ārdrā, kṛttikā, saumya mṛgaśīrṣa, viśākhā, āśleṣā and aśvinī accomplishes prosperity.",
+    "morphology": "vahniḥ_vahni_SNM saumya_saumya_Cp viśākhayoḥ_viśākhā_DuLF  / aśleṣā_aśleṣā_SNF ca_ca_ aśvinī_aśvinī_SNF ca_ca_ eva_eva_ yātrā_yātrā_Cp siddhiḥ_siddhi_SNF tu_tu_ sampadā_sampad_SIF  /"
+  },
+  {
+    "index": 44718,
+    "sanskrit": "tasmin vinihate vīre sarveṣām duḥkham āviśat",
+    "english": "Upon the slaughter of that hero, grief entered the heart of everyone.",
+    "morphology": "tasmin_tad_SLM vinihate_vinihan_SLPaPsM vīre_vīra_SLM sarveṣām_sarva_PGM duḥḥ_duḥḥ_SNNe"
+  },
+  {
+    "index": 44719,
+    "sanskrit": "na ca trailokyāntargatasakalagopiṇḍagatasanniveśavacanatvam avagantuṃ śakyam ānantyāt /",
+    "english": "We cannot find out a single common form which belongs to all individual cows scattered over the three worlds and relate it with a word since the individual forms are infi- nite in number.",
+    "morphology": "na_na_ ca_ca_ trailokya_trailokya_Cp antargata_antargam_PaCp sakala_sakala_Cp go_go_Cp piṇḍa_piṇḍa_Cp gata_gam_PaCp sanniveśa_saṃniveśa_Cp vacanatvam_vacanatva_SNNe avagantum_avagam_In śakyam_śakya_SNNe ānantyāt_ānantya_SBNe  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5512,
+    "sanskrit": "ūrjasvinyaḥ ūrjamedhāḥ ca yajñaḥ garbhaḥ amṛtasya jagataḥ ca pratiṣṭhā",
+    "english": "They are the source of that immortality which sacrifice achieves.",
+    "morphology": "ūrjasvinyaḥ_ūrjasvin_PNF ūrjamedhāḥ_ūrjamedha_PNF ca_ca_U yajñaḥ_yajña_SNM garbhaḥ_garbha_SNM amṛtasya_amṛta_SGNe jagataḥ_jagant_SGNe ca_ca_U pratiṣṭhā_pratiṣṭhā_SNF"
+  },
+  {
+    "index": 5513,
+    "sanskrit": "tathā kadāhameṣyāmi mamāpīti manaḥ sthitam / ime mandāśca maruta ete ca śaśinaḥ karāḥ //",
+    "english": "How then and when, shall I like them come to meet the man that is situated in my heart.",
+    "morphology": "tathā_tathā_ kadā_kadā_ aham_mad_SN eṣyāmi_i_SFu1In mama_mad_SG api_api_ iti_iti_ manaḥ_manas_SNNe sthitam_sthā_SNPaNe  / ime_idam_PNM mandāḥ_manda_PNM ca_ca_ marutaḥ_marut_PNM ete_etad_PNM ca_ca_ śaśinaḥ_śaśin_SGM karāḥ_kara_PNM  /"
+  },
+  {
+    "index": 5514,
+    "sanskrit": "kṣayitvātsarvabhāvānāṃ svargamānuṣyayordvayoḥ / sukhaṃ nāstyeva salilaṃ mṛgatṛṣṇāsvivaitayoḥ //",
+    "english": "They have given up all thoughts both of humanity and heaven (i. e. of both worlds), which are devoid of true felicity as the mirage is void of water.",
+    "morphology": "kṣayi_kṣayin_Cp tvāt_tva_SBNe sarva_sarva_Cp bhāvānām_bhāva_PGM svarga_svarga_Cp mānuṣyayoḥ_mānuṣya_DuGNe dvayoḥ_dvi_DuGNe  / sukham_sukha_SNNe na_na_ asti_as_SPr3In eva_eva_ salilam_salila_SNNe mṛgatṛṣṇāsu_mṛgatṛṣṇā_PL"
+  },
+  {
+    "index": 5515,
+    "sanskrit": "itihāsa purāṇam ca kārtsnyena viditam tava",
+    "english": "The subjects of histories and the Puranas are all known to thee.",
+    "morphology": "itihāsa_itihāsa_MCp purāṇam_purāṇa_SNNe ca_ca_U"
+  },
+  {
+    "index": 5516,
+    "sanskrit": "tatas tvadīyāḥ ca pare ca sāyakaiḥ kṛte andhakāre vividuḥ na kim cana",
+    "english": "A darkness having been caused there with the arrows shot on that occasion, neither thy warriors nor the enemy could any longer see anything.",
+    "morphology": "tatas_tatas_U tvadīyāḥ_tvadīya_PNM ca_ca_U pare_para_PNM ca_ca_U sāyakaiḥ_sāyaka_PIM kṛte_kṛ_SLPaPsM andhakāre_andhakāra_SLM vividuḥ_vid_PPs3In na_na_U kim_ka_SANe cana_cana_U"
+  },
+  {
+    "index": 5517,
+    "sanskrit": "vyavahārārthamutpannā vyatiriktā ca nātmanaḥ / anena vyavahāreṇa vinaitāḥ śāstradṛṣṭayaḥ //",
+    "english": "It is usage that establishes the meanings of words, which continue to be inseparably joined with them; and it is usage that determines their use in the sastras.",
+    "morphology": "vyavahāra_vyavahāra_Cp artham_artha_SAM utpannā_utpad_SNPaF vyatiriktā_vyatiric_SNPaF ca_ca_ na_na_ ātmanaḥ_ātman_SBM  / anena_idam_SIM vyavahāreṇa_vyavahāra_SIM vinā_vinā_ etāḥ_etad_PNF śāstra_śāstra_Cp dṛṣṭayaḥ_dṛṣṭi_PN"
+  },
+  {
+    "index": 5518,
+    "sanskrit": "avocaśca vacastāṃ tvaṃ śraddhāmutpādayanmune | prabhāvaṃ mantrarājasya tasya sarvādhikaṃ mune ||",
+    "english": "34. O sage, generating her faith you told her the supreme efficacy of the great formula thus.",
+    "morphology": "avocaḥ_vac_SPs2InTh ca_ca_ vacaḥ_vacas_SANe tām_tad_SAF tvam_tvad_SN śraddhām_śraddhā_SAF utpādayan_utpāday_SNPaPrM mune_muni_SVM  / prabhāvam_prabhāva_SAM mantrarājasya_mantrarāja_SGM tasya_tad_SGM sarva_sarva_Cp adhikam_adhika_SAM mune_mun"
+  },
+  {
+    "index": 5519,
+    "sanskrit": "tam āpatantam saṃprekṣya kruddhaḥ rājan dhanaṃjayaḥ bhūmiṣṭhaḥ vāraṇa gatam yodhayām āsa bhārata",
+    "english": "Beholding it advance towards him, O king, Dhananjaya, filled with rage and standing on the earth, O Bharata, encountered the prince on its back.",
+    "morphology": "tam_tad_SAM āpatantam_āpat_SAPaPrM saṃprekṣya_saṃprekṣ_Co kruddhaḥ_krudh_SNPaPsM rājan_rājan_SVM dhanaṃjayaḥ_dhanaṃjaya_SNM bhūmiṣṭhaḥ_bhūmiṣṭha_SNM vāraṇa_vāraṇa_MCp gatam_gam_SAPaPsM yodhayām_yodhay_SPs3In āsa_as_S"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47000,
+    "sanskrit": "anena cābhyāmebhiś ca asmai cebhyaḥ svamasya ca //",
+    "english": "Keṣu among whom, Ayaṃ this, Ime dual, Imān accusative plural, Anena by this, Ābhyāṃ instrumental, dual, Ebhiḥ instrumental, plural, Asmai dative, singular, Ebhyaḥ dative plural, Svaṃ one’s own, Asya genitive, Anayoḥ genitive, dual, Eṣāṃ genitive, plural and Eṣu locative, plural would be formed.",
+    "morphology": "anena_idam_SIM ca_ca_ abhyām_abhyām_ ebhiḥ_idam_PIM ca_ca_ asmai_idam_SDM ḥ_ḥ_SNM"
+  },
+  {
+    "index": 47001,
+    "sanskrit": "daivaṃ puruṣakāraś ca dvayaṃ puṃsaḥ phalāvahaṃ //",
+    "english": "The providence and effort are the two that yield fruit for a man.",
+    "morphology": "daivam_daiva_SNNe puruṣakāraḥ_puruṣakāra_SNM ca_ca_ dvayam_dvaya_SNNe puṃsaḥ_puṃs_SGM phala_phala_Cp āvaham_āvaha_SNNe  /"
+  },
+  {
+    "index": 47002,
+    "sanskrit": "dvi pakṣa garuḍa prakhyaiḥ dvāraiḥ ghora pradarśanaiḥ",
+    "english": "And it stood adorned with palatial mansions and numerous gates, each furnished with a couple of panels resembling the out-stretched wings of Garuda.",
+    "morphology": "dvāra_dvāra_PINe ghora_ghora_Cp pradā_pradātṛ_SNM"
+  },
+  {
+    "index": 47003,
+    "sanskrit": "kiṃ tasya vittanicayair mūḍhasya parirakṣitaḥ //",
+    "english": "What is the use of the hoarded riches for an ignorant person?",
+    "morphology": "kim_ka_SNNe tasya_tad_SGM vitta_vitta_Cp nicayaiḥ_nicaya_PIM mūḍhasya_muh_SGPaM parirakṣitaḥ_parirakṣ_SNPaM "
+  },
+  {
+    "index": 47004,
+    "sanskrit": "paiṇḍrakoktaṃ tvayā yattudūtavaktreṇa māṃ prati / samutsṛjeti cihnāni tatte saṃpādayāmyaham // cakrametatsamutsṛṣṭaṃ gadeyaṃ te visarjitā / garutmāneṣa cotsṛṣṭaḥsamārohatu te dhvajam //",
+    "english": "Here is my discus here I give up my mace and here is Garuḍa, let him mount upon thy standard.” Thus speaking, he let fly the discus and the mace, by which Pauṇḍraka was cut to pieces, and cast on the ground whilst the Garuḍa on his banner was demolished by the Garuḍa of Viṣṇu.",
+    "morphology": "paiṇḍraka_paiṇḍraka_SVM uktam_vac_SNPaNe tvayā_tvad_SI yattu_yattu_Cp dūta_dūta_Cp vaktreṇa_vaktra_SINe mām_mad_SA prati_prati_  / samutsṛja_samutsṛj_SPr2Im iti_iti_ cihnāni_cihna_PANe tat_tad_SANe te_tvad_SD saṃpādayāmi_sampāday_SP"
+  },
+  {
+    "index": 47005,
+    "sanskrit": "divase pañcarātre vā bandhanasthān viśodhayet / karmaṇā kāyadaṇḍena hiraṇyaanugraheṇa vā //",
+    "english": "Once in a day or once in five nights, jails may be emptied of prisoners in consideration of the work they have done, or of whipping inflicted upon them, or of an adequate ransom paid by Kautilyas Arthashastra them in gold",
+    "morphology": "divase_divasa_SLM pañca_pañcan_Cp rātre_rātra_SLM vā_vā_ bandhana_bandhana_Cp sthān_stha_PAM viśodhayet_viśodhay_SPr3O  / karmaṇā_karman_SINe kāya_kāya_Cp daṇḍena_daṇḍa_SIM hiraṇya_hiraṇya_Cp anugraheṇa_anugraha_SIM vā_vā_"
+  },
+  {
+    "index": 47006,
+    "sanskrit": "śrīvasiṣṭha uvāca / asvabhāvasvabhāvo'yaṃ sarvo'haṃtādivedanaḥ / svabhāvaikasvabhāvena nirvāṇīkriyatāṃ svayam //",
+    "english": "Vasishtha continued:—It is absurd to find the sense of egoism or self personality, so deeply rooted in human nature (when the real ego of the divine soul, is known to pervade all over the universe). It is therefore right that you should extinguish this unnatural egoism of yours by correcting your own nature.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / asvabhāva_asvabhāva_Cp svabhāvaḥ_svabhāva_SNM ayam_idam_SNM sarvaḥ_sarva_SNM ahaṃtā_ahaṃtā_Cp ādi_ādi_Cp vedanaḥ_vedanā_SNM  / svabhāva_svabhāva_Cp eka_eka_Cp svabhā"
+  },
+  {
+    "index": 47007,
+    "sanskrit": "tasyaitasya purastātkāmapro lokaḥ amṛtaṃ vai kāmapramamṛtamevāsya tatparastāttadyattadamṛtametattadyadetadarcirdīpyate //",
+    "english": "Beyond this (year) lies the wish-granting world; but the wish-granting one is the immortal (element): it is thus the immortal that lies beyond this (year, temporal existence); and that same immortal (element) is that very light which shines yonder.",
+    "morphology": "tasya_tad_SGM etasya_etad_SGM purastāt_purastāt_ kāmapraḥ_kāmapra_SNM lokaḥ_loka_SNM amṛtam_amṛta_SNNe vai_vai_ kāmapram_kāmapra_SNNe amṛtam_amṛta_SNNe eva_eva_ asya_idam_SGM tat_tad_SNNe parastāt_parastāt_ tat_tad_SNNe yat_yad_SNNe tat"
+  }
+]

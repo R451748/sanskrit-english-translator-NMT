@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7512,
+    "sanskrit": "viśvastaṃ mā vadhīḥ kaṃcidapi coraṃ mahāmate | apāpeṣu na śaṃkethāḥ satyānna calito bhava || 35 ||",
+    "english": "35. O highly intelligent one, do not kill one who has trusted you, even if he happens to be a thief; do not be suspicious of sinless ones; do not swerve from the path of truth.",
+    "morphology": "viśvastam_viśvas_SAPaM mā_mā_ vadhīḥ_vadh_SPs2 kaṃcid_kaścit_SAM api_api_ coram_cora_SAM mahāmate_mahāmati_SVM  / apāpeṣu_apāpa_PLM na_na_ śaṃkethāḥ_śaṅk_SPr2O satyāt_satya_SBNe na_na_ calitaḥ_cal_SNPaM bhava_bhū_SPr2Im  /"
+  },
+  {
+    "index": 7513,
+    "sanskrit": "kim āharāmi guru artham bravītu bhagavān iti",
+    "english": "What, therefore, shall I procure for my preceptor? Oh, let that be said.",
+    "morphology": "kim_ka_SANe āharāmi_āhṛ_SPr1In guru_guru_MCp artham_artha_SAM bravītu_brū_SPr3Im bhagavān_bhagavat_SNM"
+  },
+  {
+    "index": 7514,
+    "sanskrit": "vakṣyāmi tu yathā amātyān yādṛśān ca kariṣyasi",
+    "english": "I shall, however, tell thee what kinds of ministers should be appointed by thee.",
+    "morphology": "vakṣyāmi_vac_SFu1In tu_tu_U yathā_yathā_U amātyān_amātya_PAM yādṛśān_yādṛśa_PAM ca_ca_U kariṣyasi_kṛ_SFu2In"
+  },
+  {
+    "index": 7515,
+    "sanskrit": "asti kaścidupāyo'tra daivo vā mānuṣo'pi vā | yena teṣāṃ bhavetpuṇyaṃ sarveṣāmeva helayā || 37 ||",
+    "english": "57. Is there any remedy in this respect. Human or divine, whereby merit can be acquired by all easily.",
+    "morphology": "asti_as_SPr3In kaścid_kaścit_SNM upāyaḥ_upāya_SNM atra_atra_ daivaḥ_daiva_SNM vā_vā_ mānuṣaḥ_mānuṣa_SNM api_api_ vā_vā_  / yena_yad_SIM teṣām_tad_PGM bhavet_bhū_SPr3O puṇyam_puṇya_SNNe sarveṣām_sarva_PGM eva_eva_ helayā_hel"
+  },
+  {
+    "index": 7516,
+    "sanskrit": "agnau yajamānena prāstā kṣiptā āhutir hūyamānaṃ carupuroḍāśādy ucyate /",
+    "english": "\"Into the fire being thrown\" by the sacrificer. \"Oblation\" cooked rice, cakes and such other things, when thrown into the fire, are called \"oblation\".",
+    "morphology": "agnau_agni_SLM yajamānena_yaj_SIPaPrM prāstā_prās_SNPaF kṣiptā_kṣip_SNPaF āhutiḥ_āhuti_SNF hūyamānam_hu_SNPaPrNePv caru_caru_Cp puroḍāśa_puroḍāśa_Cp ādi_ādi_SNNe ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 7517,
+    "sanskrit": "mūrdhā te vyapatiṣyadandho 'bhaviṣyadityādiliṅgāt //",
+    "english": "That this is so that what is the object of meditation is the AllSelf is also indicated by those texts where it has been declared that, If you were to meditate upon the limited Self, not upon the AllSelf, then your head would fall,‘you would become blind’ and so forth",
+    "morphology": "mūrdhā_mūrdhan_SNM te_tvad_SG vyapatiṣyat_vipat_SFu3 andhaḥ_andha_SNM abhaviṣyat_bhū_SFu3 ityādi_ityādi_Cp liṅgāt_liṅga_SBNe  /"
+  },
+  {
+    "index": 7518,
+    "sanskrit": "pratihāra iti caturakṣaram / tata ihaikamakṣaramavacchidyā'dyakṣarayoḥ prakṣipyate / tena tatsamameva bhavati //",
+    "english": "The name ‘Pratihāra’ consists of four letters,Taking one letter from there to here,ie taking away one letter from the name ‘Pratihāra’ and adding it to the two letters of the name ‘Ādi’,it thereby becomes equal",
+    "morphology": "pratihāraḥ_pratihāra_SNM iti_iti_ catur_catur_Cp akṣaram_akṣara_SNNe  / tatas_tatas_ iha_iha_ ekam_eka_SANe akṣaram_akṣara_SANe avacchidya_avacchid_Co adi_adi_Cp akṣarayoḥ_akṣara_DuLNe prakṣipyate_prakṣip_SPr3InPv  / tena_tena_ tat_ta"
+  },
+  {
+    "index": 7519,
+    "sanskrit": "atha ced tam nihatya ājau śeṣeṇa abhisamāgatāḥ",
+    "english": "But I see his destruction before me.",
+    "morphology": "atha_atha_U ced_ced_U tam_tad_SAM nihatya_nihan_Co ājau_āji_SLM śeṣeṇa_śeṣa_SIM"
+  }
+]

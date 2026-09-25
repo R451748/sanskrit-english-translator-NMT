@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23120,
+    "sanskrit": "mano manye manaḥ karma taccharīreṣu kāraṇam / jāyate mriyate taddhi nātmanīdṛgvidhā guṇāḥ //",
+    "english": "The Mind is known as the cause of the body, which is work of the mind; it is born and becomes extinct with the body, which the soul does not, nor has it any such quality which belongs to the mind.",
+    "morphology": "manaḥ_manas_SANe manye_man_SPr1In manaḥ_manas_SNNe karma_karman_SNNe tat_tad_SNNe śarīreṣu_śarīra_PLNe kāraṇam_kāraṇa_SNNe  / jāyate_jan_SPr3In mriyate_mṛ_SPr3InPv tat_tad_SNNe hi_hi_ na_na_ ātmani_ātman_SLM īdṛgvidhāḥ_īdṛgvid"
+  },
+  {
+    "index": 23121,
+    "sanskrit": "ānṛśaṃsyāt aham kim cit kartā anugraham adya te",
+    "english": "But from kindness towards thee, I shall do thee a favour.",
+    "morphology": "ānṛśaṃsyāt_ānṛśaṃsya_SBNe aham_mad_SN kim_ka_SANe cit_cit_U kartā_kṛ_SFu3In anugraham_anugraha_SAM"
+  },
+  {
+    "index": 23122,
+    "sanskrit": "suṣeṇam satyasenam ca tribhiḥ tribhiḥ atāḍayat śalyam navatyā vivyādha trisaptatyā ca sūtajam",
+    "english": "And he struck Sushena and Satyasena, each with three arrows.",
+    "morphology": "suṣeṇam_suṣeṇa_SAM satyasenam_satyasena_SAM ca_ca_U tribhiḥ_tri_PIM tribhiḥ_tri_PIM atāḍayat_tāḍay_SPs3In śalyam_śalya_SAM navatyā_navati_SIF vivyādha_vyadh_SPs3In trisaptatyā_trisaptati_SIF ca_ca_U sūtajam_sūtaja_SAM"
+  },
+  {
+    "index": 23123,
+    "sanskrit": "cidvyomadarpaṇasyāsya paramāṇvākṛterapi / antasthasyaiva vā yatra tatredaṃ pratibimbati //",
+    "english": "The mirror of the vacuous mind, though as minute as an atom, represents yet the reflection of this vast universe in some part or other within it.",
+    "morphology": "cit_cit_Cp vyoma_vyoman_Cp darpaṇasya_darpaṇa_SGM asya_idam_SGM paramāṇu_paramāṇu_Cp ākṛteḥ_ākṛti_SGM api_api_  / antasthasya_antastha_SGM eva_eva_ vā_vā_ yatra_yatra_ tatra_tatra_ idam_idam_SNNe pratibimbati_pratibimb_SPr3In  /"
+  },
+  {
+    "index": 23124,
+    "sanskrit": "svarṇamalpaṃ ca yo dadyādbrāhmaṇe vedapārage | śubhāṃ gatimavāpnoti hyagnivaccaiva dīpyate || 194 ||",
+    "english": "194. One who gives a small bit of gold to a Brāhmaṇa well-versed in the Vedas attains the auspicious goal. He blazes brilliantly like fire.",
+    "morphology": "svarṇam_svarṇa_SANe alpam_alpa_SANe ca_ca_ yaḥ_yad_SNM dadyāt_dā_SPr3O brāhmaṇe_brāhmaṇa_SLM vedapārage_vedapāraga_SLM  / śubhām_śubha_SAF gatim_gati_SAF avāpnoti_avāp_SPr3In hi_hi_ agni_agni_Cp vat_vat_ ca_ca_ eva_eva_ dīpyate_dīp_S"
+  },
+  {
+    "index": 23125,
+    "sanskrit": "cittatyāgaṃ viduḥ sarvatyāgaṃ tyāgavidāṃ vara / tasminsiddhe mahābāho satyaṃ kiṃ nānubhūyate //",
+    "english": "O ye, that want to know what resignation is, must know that it is the resignation of the mind, which makes your renunciation of all things. If you succeed in the abnegation of your mind, you come to know the truth, and feel the true felicity of your soul.",
+    "morphology": "citta_citta_Cp tyāgam_tyāga_SAM viduḥ_vid_PPs3In sarva_sarva_Cp tyāgam_tyāga_SAM tyāga_tyāga_Cp vidām_vid_PGM vara_vara_SVM  / tasmin_tad_SLM siddhe_sidh_SLPaM mahā_mahat_Cp bāho_bāhu_SVM satyam_satya_SNNe kim_ka_SNNe nā_na_ anubhūyate_anubh"
+  },
+  {
+    "index": 23126,
+    "sanskrit": "mahā ṛṣīṇām bhṛguḥ aham girām asmi ekam akṣaram",
+    "english": "I am Bhrigu among the great Rishis, I am the One, undestructible (syllable Om) among words.",
+    "morphology": "mahā_mahat_Cp ṛṣīṇām_ṛṣi_PGM bhṛguḥ_bhṛgu_SNM aham_mad_SN girām_gir_PGF asmi_as_SPr1In ekam_eka_SNNe akṣaram_akṣara_SNNe"
+  },
+  {
+    "index": 23127,
+    "sanskrit": "atha yadāsya vāṅ manasi saṃpadyate manaḥ prāṇe prāṇas tejasi tejaḥ parasyāṃ devatāyām atha na jānāti //",
+    "english": "‘Now, when his Speech becomes merged into mind, the Mind in Life breath, the Lifebreath in Fire and Fire in the Supreme Deity,then he does not know them’",
+    "morphology": "atha_atha_ yadā_yadā_ asya_idam_SGM vāc_vāc_SNF manasi_manas_SLNe saṃpadyate_sampad_SPr3InPv manaḥ_manas_SNNe prāṇe_prāṇa_SLM prāṇaḥ_prāṇa_SNM tejasi_tejas_SLNe tejaḥ_tejas_SNNe parasyām_para_SLF devatāyām_devatā_SLF atha_atha_ "
+  }
+]

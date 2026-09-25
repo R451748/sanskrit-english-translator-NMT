@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10216,
+    "sanskrit": "etat eka śatam rājan kanyā ca ekā prakīrtitā",
+    "english": "Thus, O king, have I recited the names of the hundred sons and also that of the daughter (of Dhritarashtra).",
+    "morphology": "etat_etad_SNNe eka_eka_Cp śatam_śata_SNNe rājan_rājan_SVM kanyā_kanyā_SNF"
+  },
+  {
+    "index": 10217,
+    "sanskrit": "dharasya putro draviṇo hutahavyavahas tathā / manoharāyāḥ śiśiraḥ prāṇotha ramaṇas tathā //",
+    "english": "Dhara had the sons Draviṇa, Hutahavyavāha, Śiśira, Prāṇa and Ramaṇa through Manoharā.",
+    "morphology": "dharasya_dhara_SGM putraḥ_putra_SNM draviṇaḥ_draviṇa_SNM hutahavyavahaḥ_hutahavyavaha_SNM tathā_tathā_  / manoharāyāḥ_manoharā_SGF śiśiraḥ_śiśira_SNM prāṇāḥ_prāṇa_PNM atha_atha_ ramaṇaḥ_ramaṇa_SNM tathā_tathā_  /"
+  },
+  {
+    "index": 10218,
+    "sanskrit": "viṣṇuruvāca | tvaṃ śaṃbho kaharīśāśca rajassattvatamoguṇaiḥ | kartā pātā tathā hartā janānugrahakāṃkṣayā ||",
+    "english": "27. O Śiva you are Brahma, Viṣṇu and Śiva by means of the Guṇas Rajas, Sattva and Tamas. With the desire to bless the people you became the creator, sustainer and the annihilator.",
+    "morphology": "viṣṇuḥ_viṣṇu_SNM uvāca_vac_SPs3In  / tvam_tvad_SN śaṃbho_śambhu_SVM kahari_kahari_Cp īśāḥ_īśa_PNM ca_ca_ rajaḥ_rajas_Cp sattva_sattva_Cp tamaḥ_tamas_Cp guṇaiḥ_guṇa_PIM  / kartā_kartṛ_SNM pātā_pātṛ_SNM tathā_tathā_ "
+  },
+  {
+    "index": 10219,
+    "sanskrit": "valmīkān nirgato droṇo dhārayā bharyayā sahanatvā vidhiṃ ca sampūjya harṣitaḥ „ prāha taṃ prabhum",
+    "english": "Emerging from an anthill with his wife, Dharā, jubilant Droṇa, bowing down and worshiping him, spoke to Lord Brahmā.",
+    "morphology": "valmīkāt_valmīka_SBM nirgataḥ_nirgam_SNPaM droṇaḥ_droṇa_SNM dhārayā_dhārā_SIF bharyayā_bharyā_SIF vidhim_vidhi_SAM ca_ca_ sampūjya_sampūjay_Co harṣitaḥ_harṣay_SNPaM"
+  },
+  {
+    "index": 10220,
+    "sanskrit": "sāraṅgaḥ iva gharma ārtaḥ kāmam vilapa śuṣya ca",
+    "english": "Like a deer, covered with sweat, thou art at liberty to weep or thirst.",
+    "morphology": "sāraṅgaḥ_sāraṅga_SNM iva_iva_U gharma_gharma_MCp ārtaḥ_ārta_SNM kāmam_kāma_SAM vilapa_vilap_SPr2Im"
+  },
+  {
+    "index": 10221,
+    "sanskrit": "akālavidyutstanite varṣartau pāṃsuvarṣaṇe | mahāvātadhvanau rātrāvanadhyāyāḥ prakīrtitāḥ || 75 ||",
+    "english": "75. Anadhyāya (prohibition of Vedic study) has been proclaimed when there is untimely thunder, when there is a dust storm, during rainy season, when there is a loud report of violent gust of wind, and during nights.",
+    "morphology": "akāla_akāla_Cp vidyut_vidyut_Cp stanite_stanita_SLNe varṣa_varṣa_Cp ṛtau_ṛtu_SLM pāṃsu_pāṃsu_Cp varṣaṇe_varṣaṇa_SLNe  / mahā_mahat_Cp vāta_vāta_Cp dhvanau_dhvani_SLM rātrau_rātri_SLF anadhyāyāḥ_anadhyāya_PNM prakīrtitā"
+  },
+  {
+    "index": 10222,
+    "sanskrit": "yathā chāyā ātapau nityam su saṃbaddhau nirantaram tathā karma ca kartā ca saṃbaddhau ātma karmabhiḥ",
+    "english": "As light and shadow are related to each other, so are men related to Karma through their own actions.",
+    "morphology": "yathā_yathā_U chāyā_chāyā_FCp ātapau_ātapa_DuNM nityam_nityam_U su_su_U saṃbaddhau_sambandh_DuNPaPsM nirantaram_nirantaram_U tathā_tathā_U karma_karman_SNNe ca_ca_U kartā_kartṛ_SNM ca_ca_U saṃbaddhau_sambandh_DuNPaPsM ātma_ātman_MCp karm"
+  },
+  {
+    "index": 10223,
+    "sanskrit": "ṛṣayaśca narā nāgā nāryaścāpi vidhānataḥ | liṃgapratiṣṭhā kurvaṃti liṃge taṃ pūjayaṃti ca ||",
+    "english": "85. Ever since that Indra and other gods, Asuras, sages, men, serpents as well as women install Liṅgas in accordance with the injunctions and worship him in the Liṅga.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ca_ca_ narāḥ_nara_PNM nāgāḥ_nāga_PNM nāryaḥ_nārī_PNF ca_ca_ api_api_ vidhānataḥ_vidhāna_SBNe  / liṃga_liṅga_Cp pratiṣṭhā_pratiṣṭhā_SNF kurvaṃti_kṛ_PPr3In liṃge_liṅga_SLNe tam_tad_SAM pūjaya"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38400,
+    "sanskrit": "yadā vai śraddadhāty atha manute /",
+    "english": "‘When one has Faith, then he reflects;",
+    "morphology": "yadā_yadā_ vai_vai_ śraddadhāti_śraddhā_SPr3In atha_atha_ "
+  },
+  {
+    "index": 38401,
+    "sanskrit": "te ca pratyakṣata eva siddhā iti parasya bhāvaḥ //",
+    "english": "and all these are distinctly perceived”. Such is the view of the other party (the Digambara Jainas).",
+    "morphology": "te_tad_PNM ca_ca_ pratyakṣatas_pratyakṣatas_ eva_eva_ siddhāḥ_sidh_PNPaM iti_iti_ parasya_para_SGM bhāvaḥ_bhāva_SNM  /"
+  },
+  {
+    "index": 38402,
+    "sanskrit": "yatrayatra sa gaccheta vainyo venena saṃyutaḥ | tatra tatraiva tīrthānāmākraṃdaḥ śrūyate mahān || 197 ||",
+    "english": "197. Wherever Vainya (Pṛthu) accompanied with Vena went, there loud wailing of the Tīrthas was heard.",
+    "morphology": "yatra_yatra_ yatra_yatra_ sa_tad_SNM gaccheta_gam_SPr3O vainyaḥ_vainya_SNM venena_vena_SIM saṃyutaḥ_saṃyuta_SNM  / tatra_tatra_ tatra_tatra_ eva_eva_ tīrthānām_tīrtha_PGNe ākrandaḥ_ākranda_SNM śrūyate_śru_SPr3InPv mahān_mahat_SNM"
+  },
+  {
+    "index": 38403,
+    "sanskrit": "bhavān eva tadā siddhaḥ sarvarthajño 'prayatnataḥ / tataś ca svātmani dveṣaḥ kaste sarvavidi svataḥ //",
+    "english": "If it is insisted upon by the other party that one’s own Apprehension is the Cause and Pervader of all things then his Proposition involves self-contradiction.",
+    "morphology": "bhavān_bhavat_SNM eva_eva_ tadā_tadā_ siddhaḥ_sidh_SNPaM sarva_sarva_Cp artha_artha_Cp jñaḥ_jña_SNM aprayatnataḥ_aprayatna_SBM  / tatas_tatas_ ca_ca_ sva_sva_Cp ātmani_ātman_SLM dveṣaḥ_dveṣa_SNM kaḥ_ka_SNM te_tvad_SG sarva_sarva_Cp vid"
+  },
+  {
+    "index": 38404,
+    "sanskrit": "adhyāyānām śate viṃśe yat uktam asakṛt mayā vakṣyāmi bahudhā samyak uttare arthān imān iti idānīm tat pravakṣyāmi tantram uttaram uttamam",
+    "english": "Here commences that portion of the Sushruta Samhita which is known as the Uttara Tantra (the supplementary part) to which references have been often made in the preceding one hundred and twenty chapters, as the fit place wherein to revert in detail to the topics cursorily mentioned therein.",
+    "morphology": "adhyāyānām_adhyāya_PGM śate_śata_SLNe viṃśe_viṃśa_SLNe yat_yad_SNNe uktam_vac_SNPaPsNe asakṛt_asakṛt_U mayā_mad_SI vakṣyāmi_vac_SFu1In bahudhā_bahudhā_U samyak_samyak_U uttare_uttara_SLNe arthān_artha_PAM imān_idam_PAM iti_iti_U id"
+  },
+  {
+    "index": 38405,
+    "sanskrit": "bhedenāpici prayujyamānānāmananyadeśagamanamātreṇa deśatantratvasiddhiḥ /",
+    "english": "Because in a way the whole of this fortnight would be the time for the performance of the Primary because all that can be meant by the Injunction that the Subsidiaries should be performed at the same time as the Primary is that they should not overstep the timelimit of the Primary, and not that they should be performed close upon it because this latter would not be possible.",
+    "morphology": "bhedena_bheda_SIM apici_apic_SLM prayujyamānānām_prayuj_PGPaPrMPv ananya_ananya_Cp deśa_deśa_Cp gamana_gamana_Cp mātreṇa_mātra_SINe deśa_deśa_Cp tantra_tantra_Cp tva_tva_Cp siddhiḥ_siddhi_SNF  /"
+  },
+  {
+    "index": 38406,
+    "sanskrit": "ādāya tad ebhyaḥ prāyachat tad anu chandāṃsy apākrāmañ chandāṃsi yajñas tato devā abhavan parāsurās |",
+    "english": "Then the metres ran away, and the sacrifice followed the metres. Then the gods prospered, the Asuras were defeated.",
+    "morphology": "ādāya_ādā_Co tat_tad_SANe ebhyaḥ_idam_PDM prāyacchat_prayam_S3ImIn tat_tad_SANe anu_anu_ chandāṃsi_chandas_PNNe apākrāman_apakram_P3ImIn chandāṃsi_chandas_PNNe yajñaḥ_yajña_SNM tatas_tatas_ devāḥ_deva_PNM abhavan_bhū_P3ImIn parā_par"
+  },
+  {
+    "index": 38407,
+    "sanskrit": "yaccedam uktaṃ kuṭyādiniḥsṛtānām ityādi /",
+    "english": "It has been argued, under Text 3244, that “Teachings issuing from walls could not be accepted as taught by a Reliable Person”.",
+    "morphology": "yat_yad_SNNe ca_ca_ idam_idam_SNNe uktam_vac_SNPaNe kuṭi_kuṭi_Cp ādi_ādi_Cp niḥsṛtānām_niḥsṛ_PGPaM ityādi_ityādi_SNNe  /"
+  }
+]

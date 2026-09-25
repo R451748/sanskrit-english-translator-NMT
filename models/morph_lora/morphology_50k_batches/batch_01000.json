@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7992,
+    "sanskrit": "agā gāṃ gāṅgakākākagāhakāghaka kā kahā|",
+    "english": "[for,] can anything be full possession of treasure <buds> and power-to-punish <styles>?” 361 7 [Kavyadaria, Trans.]ii.",
+    "morphology": "agāḥ_agā_SNM"
+  },
+  {
+    "index": 7993,
+    "sanskrit": "nyāyena uttara kālam ca gṛhebhyaḥ niḥsṛtāḥ vayam dharma dṛṣṭaiḥ vidhi dvāraiḥ tapaḥ tapsyāmahe vayam",
+    "english": "Completing the period of Brahmacharyya we have come out of our abode, observing lawful methods.",
+    "morphology": "nyāyena_nyāya_SIM uttara_uttara_Cp kālam_kāla_SAM ca_ca_U gṛhebhyaḥ_gṛha_PBNe niḥsṛtāḥ_niḥsṛ_PNPaPsM vayam_mad_PN dharma_dharma_MCp dṛṣṭaiḥ_dṛś_PIPaPsNe vidhi_vidhi_MCp dvāraiḥ_dvāra_PINe tapaḥ_tapas_SANe tapsyāmahe_t"
+  },
+  {
+    "index": 7994,
+    "sanskrit": "apatyam ca etat āryasya yaḥ yuṣmākam samaḥ guṇaiḥ yasya śukrāt satyavatī prādurbhūtā yaśasvinī",
+    "english": "The great man of whose seed this celebrated maiden named Satyavati was born, is, indeed, equal to you in virtue.",
+    "morphology": "apatyam_apatya_SNNe ca_ca_U etat_etad_SNNe āryasya_ārya_SGM yaḥ_yad_SNM yuṣmākam_tvad_PG samaḥ_sama_SNM guṇaiḥ_guṇa_PIM yasya_yad_SGM śukrāt_śukra_SBNe satyavatī_satyavatī_SNF prādurbhūtā_prādurbhū_SNPaPsF yaśasvinī_yaśasvin_SNF"
+  },
+  {
+    "index": 7995,
+    "sanskrit": "pāṇigrahaṇa mantrāṇām niṣṭhā syāt saptame pade",
+    "english": "The Mantras in respect of marriage accomplish their object of bringing about the indissoluble union of marriage at the seventh step.",
+    "morphology": "pāṇigrahaṇa_pāṇigrahaṇa_NeCp mantrāṇām_mantra_PGM niṣṭhā_niṣṭhā_SNF"
+  },
+  {
+    "index": 7996,
+    "sanskrit": "yaiva saṃjāyate saṃvidantaḥ sevānubhūyate / ayaṃ so'hamidaṃ tanma ityantaḥ saṃvidaṃ tyaja //",
+    "english": "Whatever is known in our consciousness, the same is felt within us;shun therefore your inward consciousness of egoism and meity, as this is I and these are mine, and these are others and theirs.",
+    "morphology": "yā_yad_SNF eva_eva_ saṃjāyate_saṃjan_SPr3In saṃvid_saṃvid_Cp antar_antar_ sevā_sevā_SNF anubhūyate_anubhū_SPr3InPv  / ayam_idam_SNM saḥ_tad_SNM aham_mad_SN idam_idam_SNNe tat_tad_SNNe mama_mad_SG iti_iti_ antar_antar_ saṃvidam_saṃvid_SA"
+  },
+  {
+    "index": 7997,
+    "sanskrit": "tasyāpi medhātithiḥ // yataḥ kaṇvāyanā dvijā babhūvuḥ //",
+    "english": "The son of the second of these was Kaṇwa, and his son was Medhātithi, from whom the Kāṇvāyāna Brahmanas descended.",
+    "morphology": "tasya_tad_SGM api_api_ medhātithiḥ_medhātithi_SNM  // yatas_yatas_ kaṇvāyanāḥ_kaṇvāyana_PNM dvijāḥ_dvija_PNM babhūvuḥ_bhū_PPs3In  /"
+  },
+  {
+    "index": 7998,
+    "sanskrit": "tvām agne su ādhyaḥ martāsaḥ deva vītaye yajñeṣu devam īl̥ate",
+    "english": "Mortals with pious thought implore thee, Agni, God, at holy rites, To come unto the feast of Gods.",
+    "morphology": "tvām_tvad_SA agne_agni_SVM su_su_U ādhyaḥ_ādhī_PNM martāsaḥ_marta_PNM deva_deva_MCp vītaye_vīti_SDF yajñeṣu_yajña_PLM devam_deva_SAM"
+  },
+  {
+    "index": 7999,
+    "sanskrit": "yad aśnīyād rudro 'sya paśūn abhi manyeta |",
+    "english": "if he were to eat, Rudra would plan evil against his cattle;",
+    "morphology": "yat_yat_ aśnīyāt_aś_SPr3O rudraḥ_rudra_SNM asya_idam_SGM paśūn_paśu_PAM abhi_abhi_ manyeta_man_SPr3O"
+  }
+]

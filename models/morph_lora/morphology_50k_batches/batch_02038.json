@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16296,
+    "sanskrit": "jau gau siṃhonnatā sā syānmuneruddharṣaṇī ca sā //",
+    "english": "It is Siṃhonnatā according to the sage Kaśyapa. It is Uddharṣiṇī according to Saitava.",
+    "morphology": "__jau_U __go_U __siṃhonnatā_U __tad_U syāt_as_SPr3O __muni_U __uddharṣaṇī_U ca_ca_U __tad_U  /"
+  },
+  {
+    "index": 16297,
+    "sanskrit": "arjuna uvāca | ahalyayā kadā brahmankhānitaṃ vai mahatsaraḥ | tanmama brūhi sakalamahalyāsaraḥkāraṇam || 26 ||",
+    "english": "Arjuna said: 26. O Brāhmaṇa, when was this great lake dug by Ahalyā? Tell me the cause of this Ahalyāsaras in its entirety.",
+    "morphology": "arjunaḥ_arjuna_SNM uvāca_vac_SPs3In  / ahalyayā_ahalyā_SIF kadā_kadā_ brahman_brahman_SVM khānitam_khānay_SNPaNe vai_vai_ mahat_mahat_SNNe saraḥ_saras_SNNe  / tat_tad_SANe mama_mad_SG brūhi_brū_SPr2Im sakalam_sakala_SANe ahalyā_ahalyā_Cp sar"
+  },
+  {
+    "index": 16298,
+    "sanskrit": "atha vā api anayā gurvyā hema vigrahayā raṇe kāla vat vicariṣyāmi drauṇeḥ astram viśātayan",
+    "english": "With this heavy mace of mine, that is decked with gold, I shall career in this battle like the Destroyer himself, quelling this weapon of Drona's son.",
+    "morphology": "atha_atha_U vā_vā_U api_api_U anayā_idam_SIF gurvyā_guru_SIF hema_heman_NeCp vigrahayā_vigraha_SIF raṇe_raṇa_SLM kāla_kāla_MCp vat_vat_U vicariṣyāmi_vicar_SFu1In drauṇeḥ_drauṇi_SGM astram_astra_SANe viśātayan_viśātay_SNPaPrM"
+  },
+  {
+    "index": 16299,
+    "sanskrit": "bhavān uśanasā tulyaḥ hita eṣī ca sadā mama",
+    "english": "As regards thee, thou art equal to Usanas himself, and always seekest my good.",
+    "morphology": "bhavān_bhavat_SNM uśanasā_uśanas_SIM tulyaḥ_tulya_SNM hita_hita_NeCp eṣī_eṣin_SNM ca_ca_U"
+  },
+  {
+    "index": 16300,
+    "sanskrit": "yatkiṃcitstrīsvarūpaṃ ca samastaṃ bhuvanatraye | tatsarvaṃ tvatsvarūpaṃ syāditi śāstreṣu niścayaḥ || 63 ||",
+    "english": "63. This is the conclusion of all the scriptures that all those things in all the three worlds which are in female form are your forms.",
+    "morphology": "yat_yad_SNNe kiṃcid_kaścit_SNNe strī_strī_Cp svarūpam_svarūpa_SNNe ca_ca_ samastam_samasta_SNNe bhuvanatraye_bhuvanatraya_SLNe  / tat_tad_SNNe sarvam_sarva_SNNe tvad_tvad_Cp svarūpam_svarūpa_SNNe syāt_as_SPr3O iti_iti_ śāstreṣu_śāstra_PLNe "
+  },
+  {
+    "index": 16301,
+    "sanskrit": "vāsantaśāradair medhyair munyannair svayam āhṛtaiḥ / puroḍāśāṃś carūṃś caiva vidhivan nirvapet pṛthak //",
+    "english": "With the pure grains fit for hermits, which grow in spring and in autumn, and which he has himself gathered, he shall severally prepare cakes and boiled messes, according to law.",
+    "morphology": "vāsanta_vāsanta_Cp śāradaiḥ_śārada_PINe medhyaiḥ_medhya_PINe muni_muni_Cp annaiḥ_anna_PINe svayam_svayam_ āhṛtaiḥ_āhṛ_PIPaNe  / puroḍāśān_puroḍāśa_PAM carūn_caru_PAM ca_ca_ eva_eva_ vidhivat_vidhivat_ nirvapet_nirvap_SPr3O p"
+  },
+  {
+    "index": 16302,
+    "sanskrit": "abhavat śūlinaḥ abhyāśe dīpta vahni śikhā upamaḥ",
+    "english": "Indeed, it shone on Mahadeva's person like the flame of a blazing fire.",
+    "morphology": "abhavat_bhū_SPs3In śūlinaḥ_śūlin_SGM abhyāśe_abhyāśa_SLM dīpta_dīp_PaPsCp vahni_vahni_MCp śikhā_śikhā_FCp"
+  },
+  {
+    "index": 16303,
+    "sanskrit": "rakṣapāla sahaibhistvaṃ rājānamanukūlaya | kālanemirupādāya markānyāto nṛpaṃ tataḥ || 244 ||",
+    "english": "Thereupon, Kālanemi took them to the king.",
+    "morphology": "rakṣa_rakṣa_Cp pāla_pāla_SVM saha_saha_ ebhiḥ_idam_PIM tvam_tvad_SN rājānam_rājan_SAM anukūlaya_anukūlay_SPr2Im  / kālanemiḥ_kālanemi_SNM upādāya_upādā_Co markān_marka_PAM yātaḥ_yā_SNPaM nṛpam_nṛpa_SAM tatas_tatas_  /"
+  }
+]

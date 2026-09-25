@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43616,
+    "sanskrit": "chāndasaḥ śabdasaṃskāraḥ /",
+    "english": "The forms of the words are Vedic.",
+    "morphology": "__U"
+  },
+  {
+    "index": 43617,
+    "sanskrit": "rājyaṃ niṣkaṇṭakaṃ prāptaṃ samṛddhaṃ varavarṇini | etatprabhāsamāhātmyaṃ śivarātrerupoṣaṇāt | etatphalaṃ mayā labdhaṃ gatvā tasmādupoṣaye || 39 ||",
+    "english": "39. O lady of excellent complexion, this flourishing kingdom free from thorns (i.e. enemies and traitors) has been acquired by me. This is the efficacy of Prabhāsa due to the fasting on Śivarātri day. This is the benefit that has been received by me. Hence I shall once again go there and observe fast.",
+    "morphology": "rājyam_rājya_SNNe niṣkaṇṭakam_niṣkaṇṭaka_SNNe prāptam_prāp_SNPaNe samṛddham_samṛdh_SNPaNe varavarṇini_varavarṇinī_SVF  / etat_etad_SNNe prabhāsa_prabhāsa_Cp māhātmyam_māhātmya_SNNe śivarātreḥ_śivarātri_SGF upoṣaṇāt"
+  },
+  {
+    "index": 43618,
+    "sanskrit": "yudhiṣṭhiraḥ uvāca vistareṇa artha saṃbandham śrotum icchāmi pārthiva",
+    "english": "This, indeed, is a settled conclusion.' \"Yudhishthira said, 'I desire to hear in detail this description.",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 43619,
+    "sanskrit": "brāhmaṇī ṛṣikā nāmnā kasyacicca dvijanmanaḥ | sutā vivāhitā kasmaiciddvijāya vidhānataḥ || pūrvakarmaprabhāvena patnī sā hi dvijanmanaḥ | suvratāpi ca viprendrā bālavaidhavyamāgatā || atha sā dvijapatnī hi brahmacaryyavratānvitā | pārthivārcanapūrvaṃ hi tapastepe sudāruṇam ||",
+    "english": "4. A brahmin lady Ṛṣīkā, the daughter of a certain brahmin, was duly married to a certain brahmin youth. 5. O leading brahmins, although she observed holy rites, the brahmin lady became a widow at an early age as a result of previous actions. 6. Then the brahmin widow, observing the rite of celibacy performed a severe penance by worshipping Śiva’s earthen phallic image.",
+    "morphology": "brāhmaṇī_brāhmaṇī_SNF ṛṣikā_ṛṣikā_SNF nāmnā_nāman_SINe kasyacid_kaścit_SGM ca_ca_ dvijanmanaḥ_dvijanman_SGM  / sutā_sutā_SNF vivāhitā_vivāhay_SNPaF kasmaicid_kaścit_SDM dvijāya_dvija_SDM vidhānataḥ_vidhāna_SBNe  /"
+  },
+  {
+    "index": 43620,
+    "sanskrit": "nagno muṇḍaḥ kapālī ca bhikṣārthī kṣutpipāsitaḥ / andhaḥ śatrukulaṃ gacched yaḥ sākṣyam anṛtaṃ vadet //",
+    "english": "\"He who gives false evidence shall go for alms, with a potsherd, to the house of his enemy, naked and shorn, tormented with hunger and thirst, and blind\".",
+    "morphology": "nagnaḥ_nagna_SNM muṇḍaḥ_muṇḍa_SNM kapālī_kapālin_SNM ca_ca_ bhikṣā_bhikṣā_Cp arthī_arthin_SNM kṣudh_kṣudh_Cp pipāsitaḥ_pipāsita_SNM  / andhaḥ_andha_SNM śatru_śatru_Cp kulam_kula_SANe gacchet_gam_SPr3O yaḥ_yad_SNM sākṣ"
+  },
+  {
+    "index": 43621,
+    "sanskrit": "yatva tvabhidheyatvaṃ nāsti tatra viśeṣaṇasaṃbandhī 'pi na dṛṣṭo yathā śobhanamāsyataiti /",
+    "english": "On the other hand, where there is denotation of these, there we do not find them to cobhana be connected with any qualifications,e.g.",
+    "morphology": "tu_tu_ abhidheya_abhidhā_GdCp tvam_tva_SNNe na_na_ asti_as_SPr3In tatra_tatra_ viśeṣaṇa_viśeṣaṇa_Cp saṃbandhī_sambandhin_SNM api_api_ na_na_ dṛṣṭaḥ_dṛś_SNPaM yathā_yathā_"
+  },
+  {
+    "index": 43622,
+    "sanskrit": "sarva ratna mayaiḥ bhānti śṛṅgaiḥ cārubhiḥ ucchritaiḥ",
+    "english": "These shine in beauty in consequence of their tall summits which are composed of all kinds of gems.",
+    "morphology": "sarva_sarva_Cp ratna_ratna_MCp mayaiḥ_maya_PINe bhānti_bhā_PPr3In śṛṅgaiḥ_śṛṅga_PINe cārubhiḥ_cāru_PINe ucchriāḥ_ucchri_PIPaPsNe"
+  },
+  {
+    "index": 43623,
+    "sanskrit": "nitya pramudita upetaḥ svādu bhakṣaḥ śubha anvitaḥ",
+    "english": "There were rejoicings everywhere upon it, and savoury viands were procurable everywhere.",
+    "morphology": "nitya_nitya_Cp pramudita_pramud_PaPsCp upāṇā_upāṇā_SNF"
+  }
+]

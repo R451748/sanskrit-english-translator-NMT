@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16968,
+    "sanskrit": "imām tu na abhijānāmi amāvāsyām trayodaśīm",
+    "english": "This, however, I never knew that the day of new-moon would be on the thirteenth day from the first lunation, or the day of full-moon on the thirteenth day from the same.",
+    "morphology": "imā_idam_SAF"
+  },
+  {
+    "index": 16969,
+    "sanskrit": "sattvānāṃ sākṛśyaṃ nikāyasa bhāga ityasyāḥ śāstre saṃjñā /",
+    "english": "The Śāstra designates this entity by the name of nōkāyasabhāga: the author uses the term sabhāgatā for metric reasons.",
+    "morphology": "sattvānām_sattva_PGM sākṛśyam_sākṛśya_SNNe bhāgaḥ_bhāga_SNM iti_"
+  },
+  {
+    "index": 16970,
+    "sanskrit": "bhaktiyuktastato brūyānnamaskṛtvā punaḥpunaḥ | mayā samarpitā yātrā tvatprasādānmaheśvara || 29 || saṃsārasāgarāddhorānmāmuddhara jagatpate | anena vidhinā yastu mahākālaṃ pradakṣayet || 30 || pradakṣiṇīkṛtā tena saptadvīpā vasuṃdharā | golakṣaṃ dvijalakṣāya dattvā yallabhate phalam || 31 ||",
+    "english": "He shall proclaim his name, place of nativity and Gotra. If the name is not proclaimed that pilgrimage shall become futile. Thereafter, O Vyāsa, he should sit in front of the Lord with concentration and mental purity. He should bow down frequently with devotion and speak this: “O Maheśvara, due to your favour, my pilgrimage has been (concluded and) dedicated to you. O Lord of the universe, redeem me from the terrible ocean of worldly existence.” If the devotee circumambulates Mahākāla by this procedure; it is as beneficial as though the earth consisting of the seven continents has been circumambulated.",
+    "morphology": "bhakti_bhakti_Cp yuktaḥ_yuj_SNPaM tatas_tatas_ brūyāt_brū_SPr3O namaskṛtvā_namaskṛ_Co punar_punar_ punar_punar_  / mayā_mad_SI samarpitā_samarpay_SNPaF yātrā_yātrā_SNF tvad_tvad_Cp prasādāt_prasāda_SBM maheśvara_maheśvara_SVM  / saṃs"
+  },
+  {
+    "index": 16971,
+    "sanskrit": "tattvam jñātvā niścayam brahma sṛṣṭam",
+    "english": "Knowing this death to be ordained by the Supreme God, cast off, without delay;",
+    "morphology": "tattvam_tattva_SANe jñātvā_jñā_Co_U"
+  },
+  {
+    "index": 16972,
+    "sanskrit": "pañcabhiḥ bhrātṛbhiḥ pārthaiḥ droṇaḥ parivṛtaḥ babhau pañca tāreṇa saṃyuktaḥ sāvitreṇa iva candramāḥ",
+    "english": "And Drona stood, surrounded by the five brothers, the sons of Pritha, and looked like the moon in conjunction with the five-starred constellation Hasta.",
+    "morphology": "pañcabhiḥ_pañcan_PIM bhrātṛbhiḥ_bhrātṛ_PIM pārthaiḥ_pārtha_SVM droṇaḥ_droṇa_SNM parivṛtaḥ_parivṛ_SNPaPsM babhau_bhā_SPs3In pañca_pañcan_Cp tāreṇa_tārā_SIM saṃyuktaḥ_saṃyuj_SNPaPsM sāvitreṇa_sāvitra_SIM"
+  },
+  {
+    "index": 16973,
+    "sanskrit": "atha śarīram /",
+    "english": "Would you say that it is the body?",
+    "morphology": "atha_atha_ "
+  },
+  {
+    "index": 16974,
+    "sanskrit": "tam dṛṣṭvā patitam bhūmau candra arka sadṛśa dyutim tāvakānām parā prītiḥ pāṇḍūnām ca abhavat vyathā",
+    "english": "\"Beholding Abhimanyu, resplendent as the sun or the moon, lying on the ground, thy troops were in transport of joy, while Pandavas were filled with grief.",
+    "morphology": "tam_tad_SAM dṛṣṭvā_dṛś_Co patitam_pat_SAPaPsM bhūmau_bhūmi_SLF candra_candra_MCp arka_arka_MCp sadṛśa_sadṛśa_Cp dyutim_dyuti_SAM tāvakānām_tāvaka_PGM parā_para_SNF prītiḥ_prīti_SNF pāṇḍūnām_pāṇḍu_PGM ca_ca_U abhavat_b"
+  },
+  {
+    "index": 16975,
+    "sanskrit": "tatas sapta rathān vīraḥ syālānām tava bhārata nihatya bhīmaḥ nārācaiḥ śata candram apothayat amarṣayantaḥ nihatam śata candram mahā ratham",
+    "english": "Slaying next, O Bharata, seven car-warriors among thy brother-in-law, with his shafts, the heroic Bhima pressed Satachandra down into the earth.",
+    "morphology": "tatas_tatas_U sapta_saptan_PAM rathān_ratha_PAM vīraḥ_vīra_SNM syālānām_syāla_PGM tava_tvad_SG bhārata_bhārata_SVM nihatya_nihan_Co bhīmaḥ_bhīma_SNM nārācaiḥ_nārāca_PIM śata_śata_NeCp candram_candra_SAM apothayat_pothay_SPs3In amar"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19712,
+    "sanskrit": "viśvedevā ūcuḥ | asmābhī rahitaṃ śrāddhaṃ kiñcitsaṃjāyate kṣitau | śraddhayā parayā yacca yuṣmākaṃ bhāvi bhojanam || 79 ||",
+    "english": "Viśvedevas said: 79. Can there be any Śrāddha without us on the earth which can provide food unto you with great faith?",
+    "morphology": "viśvedevāḥ_viśvedeva_PNM ūcuḥ_vac_PPs3In  / asmābhiḥ_mad_PI rahitam_rahita_SNNe śrāddham_śrāddha_SNNe kiñcid_kaścit_SNNe saṃjāyate_saṃjan_SPr3In kṣitau_kṣiti_SLF  / śraddhayā_śraddhā_SIF parayā_para_SIF yat_yad_SNNe ca_ca_ yu"
+  },
+  {
+    "index": 19713,
+    "sanskrit": "dīpadānāt paraṃ nāsti na bhūtaṃ na bhaviṣyati //",
+    "english": "There is nothing greater than the gift of a lamp , neither there was, nor there would be.",
+    "morphology": "dīpa_dīpa_Cp dānāt_dāna_SBNe param_para_SNNe na_na_ asti_as_SPr3In na_na_ bhūtam_bhū_SNPaNe na_na_ bhaviṣyati_bhū_SFu3In  /"
+  },
+  {
+    "index": 19714,
+    "sanskrit": "vāc sāyakāḥ vadanāt niṣpatanti",
+    "english": "Wordy shafts fall from the lips.",
+    "morphology": "vāc_vāc_FCp sāyakāḥ_sāyaka_PNM"
+  },
+  {
+    "index": 19715,
+    "sanskrit": "madaṃgasaṃbhavaṃ divyaṃ saurabhaṃ viśvamohanam | dhāryatāṃ deva deveśa sadā sādaracetasā || 17 ||",
+    "english": "17. “This scent originating from my limb is divine and fascinating to the universe. O Lord of the Chief of Devas, let this be taken up by you with eagerness in your mind.",
+    "morphology": "mad_mad_Cp aṃga_aṅga_Cp saṃbhavam_sambhava_SNNe divyam_divya_SNNe saurabham_saurabha_SNNe viśva_viśva_Cp mohanam_mohana_SNNe  / dhāryatām_dhāray_SPr3ImPv deva_deva_SVM deveśa_deveśa_SVM sadā_sadā_ sādara_sādara_Cp cetasā_cetas_SINe"
+  },
+  {
+    "index": 19716,
+    "sanskrit": "katham ity āha ya ityādi /",
+    "english": "The following Text explains how the doctrine is open to this criticism: [see verse 477 next]",
+    "morphology": "katham_katham_ iti_iti_ āha_ah_SPs3In __yad_PNM"
+  },
+  {
+    "index": 19717,
+    "sanskrit": "tadūrdhvantu bhavedvedī sakaṇṭā manasārakaṃ //",
+    "english": "There should be a small platform above that.",
+    "morphology": "tad_tad_Cp ūrdhvam_ūrdhvam_ tu_tu_ bhavet_bhū_SPr3O vedī_vedi_SNF sa_sa_ kaṇṭā_kaṇṭa_SNF  /"
+  },
+  {
+    "index": 19718,
+    "sanskrit": "prārthanāmaṃtra | svayaṃbhuve namastubhyaṃ brahmaṇe'mitatejase | namostu te śriyānaṃda brahmānaṃda kṛpākara || 45 ||",
+    "english": "The Mantra for Prayer (Prārthanā) 45. “O self-born Brahmā, obeisance to you of unmeasured splendour. Obeisance to you, the delighter of Śrī, the Bliss of Brahman, the cause of compassion.”",
+    "morphology": "prārthanā_prārthanā_Cp maṃtra_maṃtra_SVM  / svayaṃbhuve_svayambhu_SDM namaḥ_namas_SNNe tubhyam_tvad_SD brahmaṇe_brahman_SDM amita_amita_Cp tejase_tejas_SDM  / namaḥ_namas_SNNe astu_as_SPr3Im te_tvad_SD śriyā_śrī_SIF ānanda_ānanda_SVM "
+  },
+  {
+    "index": 19719,
+    "sanskrit": "nirvaped yajeteti na kevale dhātvarthaviṣayatve 'vagate paripūrṇā kartavyatā bhavati / yāvad aṃśāntarāṇy adhikāretikartavyatāprayogarūpāṇi nāvagatāni /",
+    "english": "As a matter of fact, in the case of the injunctive words \"nirvapet,\" \"should offer,\" \"yajeta,\" \"should sacrifice\" and the like, even though what is expressed by the verbal root itself may be comprehended, the full conception of what is to he done is not obtained until we have comprehended the other factors, such as the character of the person fit for the performance, the procedure to be adopted, and the actual details of the act to be performed; it is only as equipped with all these factors that the Injunction becomes comprehended in its complete form.",
+    "morphology": "nirvapet_nirvap_SPr3O yajeta_yaj_SPr3O iti_iti_ na_na_ kevale_kevala_SLNe dhātvartha_dhātvartha_Cp viṣaya_viṣaya_Cp tve_tva_SLNe avagate_avagam_SLPaNe paripūrṇā_paripṛ_SNPaF kartavyatā_kartavyatā_SNF bhavati_bhū_SPr3In  / yāvat_yāvat_ aṃ"
+  }
+]

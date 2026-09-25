@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39448,
+    "sanskrit": "sa vicarmā mahā rāja virathaḥ krodha mūrchitaḥ",
+    "english": "Then, car-less, Bhima, O king, deprived of his shield, became mad with rage.",
+    "morphology": "sa_tad_SNM vicarmā_vicarman_SNM mahā_mahat_Cp rāja_rājan_SVM virathaḥ_viratha_SNM"
+  },
+  {
+    "index": 39449,
+    "sanskrit": "tādṛkpratyavamarśaś ca yatra naivāsti vastuni / agośabdābhidheyatvaṃ vispaṣṭaṃ tatra gamyate //",
+    "english": "When, in regard to anything, there is no such determinate judgment, the fact of its being denoted by the word ‘non-cow’ becomes clearly perceived.",
+    "morphology": "tādṛś_tādṛś_Cp pratyavamarśaḥ_pratyavamarśa_SNM ca_ca_ yatra_yatra_ na_na_ eva_eva_ asti_as_SPr3In vastuni_vastu_SLNe  / a_a_ go_go_Cp śabda_śabda_Cp abhidheya_abhidhā_GdCp tvam_tva_SNNe vispaṣṭam_vispaṣṭa_SNNe tatra_tatra_ gamyate_g"
+  },
+  {
+    "index": 39450,
+    "sanskrit": "śrīkhaṇḍena sugandhena guṇṭhayecca maheśvaram | tataḥ sugandhapuṣpaiśca bilvapatraiśca pūjayet || 93 ||",
+    "english": "The devotee should smear Maheśvara with sandal-paste and sweet scents, Then he should adore with sweet-smelling flowers and Bilva leaves.",
+    "morphology": "śrīkhaṇḍena_śrīkhaṇḍa_SIM sugandhena_sugandha_SIM guṇṭhayet_guṇṭhay_SPr3O ca_ca_ maheśvaram_maheśvara_SAM  / tatas_tatas_ sugandha_sugandha_Cp puṣpaiḥ_puṣpa_PINe ca_ca_ bilva_bilva_Cp pattraiḥ_pattra_PINe ca_ca_ pūjayet_pūja"
+  },
+  {
+    "index": 39451,
+    "sanskrit": "tasmād ete dhvanayo 'tīndriyayā śaktyā śrotrendriyasya śaktimatīndriyāmutpādayantaḥ sphuranti vyaktihetavaḥ / śabdānām ityapekṣaṇīyam //",
+    "english": "From all this it follows that these articulations, by means of their imperceptible Capacity, produce, in the Auditory Organ, an imperceptible Capacity, and appear as the causes of manifestation i.e. ‘of Words and Sounds’, which has to be added.",
+    "morphology": "tasmāt_tasmāt_ ete_etad_PNM dhvanayaḥ_dhvani_PNM atīndriyayā_atīndriya_SIF śaktyā_śakti_SIF śrotra_śrotra_Cp indriyasya_indriya_SGNe śaktim_śakti_SAF atīndriyām_atīndriya_SAF utpādayantaḥ_utpāday_PNPaPrM sphuranti_sphur_PPr3In vyakti_v"
+  },
+  {
+    "index": 39452,
+    "sanskrit": "majjaty avagāhate, tat prāpnotīti yāvat //",
+    "english": "\"Will sink\" will fall into, ie, will reach.",
+    "morphology": "majjati_majj_SPr3In avagāhate_avagāh_SPr3In tat_tad_SANe prāpnoti_prāp_SPr3In iti_iti_ yāvat_yāvat_"
+  },
+  {
+    "index": 39453,
+    "sanskrit": "atītaṃ tu yad bhūtapūrvam /",
+    "english": "Past is that which was existent.",
+    "morphology": "atītam_atī_SNPaNe tu_tu_ yat_yad_SNNe bhūta_bhū_PaCp pūrvam_pūrva_SNNe  /"
+  },
+  {
+    "index": 39454,
+    "sanskrit": "nirddhāritasvarūpāṇāṃ dravyādīnāṃ tu yogataḥ / sambandho yac ca sāmānyaṃ satyaṃ tadvāritaṃ purā //",
+    "english": "Any sort of relation among substance and the rest, whose nature has been duly ascertained, as also any real ‘universal’, has been already discarded.",
+    "morphology": "nirddhārita_nirddhāray_PaCp svarūpāṇām_svarūpa_PGNe dravya_dravya_Cp ādīnām_ādi_PGNe tu_tu_ yogataḥ_yoga_SBM  / sambandhaḥ_sambandha_SNM yat_yad_SNNe ca_ca_ sāmānyam_sāmānya_SNNe satyam_satya_SNNe tat_tad_SNNe vāritam_vāray_SNPaNe pur"
+  },
+  {
+    "index": 39455,
+    "sanskrit": "sarvāṃgasundaraḥ śrīmānpuruṣaḥ kṛṣṇadarśanaḥ | bhāvaṃ samīkṣituṃ bhāgaṃ dātuṃ jñānaṃ paraṃ ca tat ||",
+    "english": "25. He was beautiful in every limb, a glorious Puruṣa Kṛṣṇadarśana. It was to survey his emotional reaction and to bestow on him the perfect knowledge as his share that the lord manifested himself.",
+    "morphology": "sarva_sarva_Cp aṃga_aṅga_Cp sundaraḥ_sundara_SNM śrīmān_śrīmat_SNM puruṣaḥ_puruṣa_SNM kṛṣṇa_kṛṣṇa_Cp darśanaḥ_darśana_SNM  / bhāvam_bhāva_SAM samīkṣitum_samīkṣ_In bhāgam_bhāga_SAM dātum_dā_In jñānam_jñāna_SA"
+  }
+]

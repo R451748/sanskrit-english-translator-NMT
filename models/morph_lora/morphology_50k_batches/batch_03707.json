@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29648,
+    "sanskrit": "darśanaprātibhāvye tu vidhiḥ syāt pūrvacoditaḥ / dānapratibhuvi prete dāyādān api dāpayet //",
+    "english": "This just mentioned rule shall apply to the case of a surety for appearance (only); if a surety for payment should die, the (judge) may compel even his heirs to discharge the debt.",
+    "morphology": "darśana_darśana_Cp prātibhāvye_prātibhāvya_SLNe tu_tu_ vidhiḥ_vidhi_SNM syāt_as_SPr3O pūrva_pūrva_Cp coditaḥ_coday_SNPaM  / dāna_dāna_Cp pratibhuvi_pratibhū_SLF prete_pre_SLPaM dāyādān_dāyāda_PAM api_api_ dāpayet_dāpay_SPr3O  /"
+  },
+  {
+    "index": 29649,
+    "sanskrit": "punar pravartatām dyūtam iti me niścitā matiḥ",
+    "english": "Let the play begin again. This is my certain determination.",
+    "morphology": "punar_punar_U pravartatām_pravṛt_SPr3Im dyūtam_dyūta_SNNe iti_iti_U"
+  },
+  {
+    "index": 29650,
+    "sanskrit": "|| brahmovāca | ityuktvā tvaṃ punastāta kautukī brahmavinmune | śailarājamavoco hi harṣayanvacanaiśśubhaiḥ ||",
+    "english": "24. O dear sage, after saying this you continued. You delighted him with auspicious words. You spoke to the king of the mountains.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ uktvā_vac_Co tvam_tvad_SN punar_punar_ tāta_tāta_SVM kautukī_kautukin_SNM brahma_brahman_Cp vid_vid_SNM mune_muni_SVM  / śailarājam_śailarāja_SAM avocaḥ_vac_SPs2InTh hi_hi_ harṣayan_harṣay_SNP"
+  },
+  {
+    "index": 29651,
+    "sanskrit": "etat kṛtyatamam rājan asmākam bharata ṛṣabha",
+    "english": "O bull of the Bharata race, O king, even this is our highest duty.",
+    "morphology": "etat_etad_SNNe kṛtyatamam_kṛtyatama_SNNe rājan_rājan_SVM asmākam_mad_PG"
+  },
+  {
+    "index": 29652,
+    "sanskrit": "durvirecyāḥ hi madhumehinaḥ bhavanti medaḥ abhivyāpta śarīra tvāt |",
+    "english": "Ordinary purgatives fail to produce any satisfactory effect in cases of Madhu-Meha owing to the excessive accumulation and pervasion of Medas (fat) in the organism of the patient.",
+    "morphology": "durvirecyāḥ_durvirecya_PNM hi_hi_U madhumehinaḥ_madhumehin_PNM bhavanti_bhū_PPr3In medaḥ_medas_NeCp abhivyāpta_abhivyāp_PaPsCp śarīra_śarīra_NeCp tvāt_tva_SBNe"
+  },
+  {
+    "index": 29653,
+    "sanskrit": "pra soma madhumat tamaḥ rāye arṣa pavitre ā madaḥ yaḥ deva vītamaḥ",
+    "english": "Soma, do thou most rich in sweets, a gladdening drink most dear to Gods, Flow to the sieve to bring us wealth.",
+    "morphology": "pra_pra_U soma_soma_SVM madhumat_madhumat_SANe tamaḥ_tamas_SANe rāye_rai_SDM arṣa_ṛṣ_SPr2Im pavitre_pavitra_SLNe ā_ā_U madaḥ_mada_SNM yaḥ_yad_SNM deva_deva_MCp vītamaḥ_vītama_SNM"
+  },
+  {
+    "index": 29654,
+    "sanskrit": "parvatāḥ ca daduḥ mārgam dhvaja bhaṅgaḥ ca nā bhavat",
+    "english": "The mountains gave him way, and his standard was never obstructed anywhere.",
+    "morphology": "parvatāḥ_parvata_PNM ca_ca_U daduḥ_dā_PPs3In mārgam_mārga_SAM dhvaja_dhvaja_MCp bhaṅgaḥ_bhaṅga_SNM ca_ca_U nā_nṛ_SNM bhavat_bhū_SPs3In"
+  },
+  {
+    "index": 29655,
+    "sanskrit": "koṭiḥ punaratra vṛddhiḥ prakāro vā / catuṣkoṭikavat /",
+    "english": "Koṭi signifies both “type” and “summit, apex,” as one says: cāéukoṭika prasna, that is, a fourfold question; or as one says: bhātakoṭi, “the limit of existence.”",
+    "morphology": "koṭiḥ_koṭi_SNF punar_punar_ atra_atra_ vṛddhiḥ_vṛddhi_SNF prakāraḥ_prakāra_SNM vā_vā_  / catuṣkoṭika_catuṣkoṭika_Cp vat_vat_"
+  }
+]

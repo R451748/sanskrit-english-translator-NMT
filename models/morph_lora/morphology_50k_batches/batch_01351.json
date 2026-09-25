@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10800,
+    "sanskrit": "trisaptaikādaśe lābho vedāṣṭadvādaśe ripuḥ /",
+    "english": "The third, seventh and eleventh cause acquisition fourth, eighth and twelfth cause enmity.",
+    "morphology": "__tri_U __saptan_U __ekādaśa_U __U __U __U __U __U __U __U __U"
+  },
+  {
+    "index": 10801,
+    "sanskrit": "saindhavāḥ mumucuḥ tūrṇam gata sattve mahā rathe",
+    "english": "When Dhananjaya became stupefied, the Saindhava warriors once more shot at that senseless warrior, without loss of time, innumerable other shafts.",
+    "morphology": "saindhavāḥ_saindhava_PNM"
+  },
+  {
+    "index": 10802,
+    "sanskrit": "tatas sa rājā nahuṣaḥ vismitaḥ prekṣya dhīvarān ārohamāṇān tridivam matsyān ca bharata ṛṣabha ārohaṇam niṣādānām matsyānām ca eva bhārata",
+    "english": "King Nahusha, beholding the fishermen ascending to heaven with those fishes in their company, became filled with wonder, O chief of Bharata's race.",
+    "morphology": "tatas_tatas_U sa_tad_SNM rājā_rājan_SNM nahuṣaḥ_nahuṣa_SNM vismitaḥ_vismi_SNPaPsM prekṣya_prekṣ_Co dhīvarān_dhīvara_PAM ārohamāṇān_āruh_PAPaPrM tridivam_tridiva_SANe matsyān_matsya_PAM ca_ca_U bharata_bharata_MCp ṛṣabha_ṛṣa"
+  },
+  {
+    "index": 10803,
+    "sanskrit": "striyaḥ satīḥ tān oṁ iti me puṁsaḥ āāhuḥ paśyat akṣaṇ vān na vi cetat andhaḥ kaviḥ yaḥ putraḥ saḥ īm ā ciketa yaḥ tā vi jānāt saḥ pituḥ pitā asat",
+    "english": "They told me these were males, though truly females: he who hath eyes sees this, the blind discerns not. The son who is a sage hath comprehended: who knows this rightly is his father's father.",
+    "morphology": "striyaḥ_strī_PNF satīḥ_as_PNPaPrF tān_tad_PAM oṁ_oṃ_U iti_iti_U me_mad_SD puṃsaḥ_puṃs_PAM āāhuḥ_āh_PPs3In paśyat_paś_SPr3 akṣaṇ_akṣaṇ_NeCp vān_vat_U na_na_U vi_vi_U cetat_cit_SPr3 andhaḥ_andha_SNM kaviḥ_kavi_SNM yaḥ_y"
+  },
+  {
+    "index": 10804,
+    "sanskrit": "kathaṃ punar amedhyavyāptir avaseyā gandhavarṇarasānvitāḥ / amedhyeneti tṛtīyāntaṃ ṣaṣṭhyā vipariṇamyate / amedhyasaṃbandhibhir gandhādibhir yady anvitāḥ saṃyuktā bhavanti, tato vyāptā ucyante / evaṃ ca kṛtvā pānīyaṃ taḍāgādiṣu yady ekasmin pradeśe 'medhyaṃ dṛśyate pradeśāntare gandhādiśūnyaṃ śuddhyed eva //",
+    "english": "How is it to be known that water has been \"contaminated by an unclean thing\" ? In answer to this we have the phrase \"becoming affected by its smell, colour and taste,\" The Instrumental ending in \"amedhyena\" ,\"by an unclean thing\" , has to be changed here into the genitive; the meaning being \"when the water imbibes the smell, colour and taste of the unclean thing, then it is to be regarded as contaminated by it\" According to this construction, if in a tank, an unclean thing be found in one part, while in another part the water be found to be free from its smell &c, then this latter is to be regarded as pure.",
+    "morphology": "katham_katham_ punar_punar_ amedhya_amedhya_Cp vyāptiḥ_vyāpti_SNF avaseyā_avasā_SNFGd gandha_gandha_Cp varṇa_varṇa_Cp rasa_rasa_Cp anvitāḥ_anvita_PNM  / amedhyena_amedhya_SINe iti_iti_ tṛtīyā_tṛtīyā_Cp antam_anta_SNNe ṣaṣṭhyā_"
+  },
+  {
+    "index": 10805,
+    "sanskrit": "bhītaḥ anṛtāt ca śāpāt ca bhṛgoḥ iti abravīt śanais",
+    "english": "Therefore answer thou truly.'\" \"Sauti continued, 'The Seven flamed god having heard these words of the Rakshasa became exceedingly distressed, being afraid of telling a falsehood and equally afraid of Bhrigu's curse. And the god at length made answer in words that came out slowly.",
+    "morphology": "bhītaḥ_bhī_SNPaPsM anṛtāt_anṛta_SBNe ca_ca_U śāpāt_śāpa_SBM ca_ca_U bhṛgoḥ_bhṛgu_SGM iti_iti_U"
+  },
+  {
+    "index": 10806,
+    "sanskrit": "vyavāhāropavṛttāś ca cyutā dharmāc ca śāśvatāt // hartāraḥ pararatnānāṃ paradārapradharṣakāḥ / kāmātmāno durātmānaḥ sopadhāḥ priyasāhasāḥ // teṣu prabhavamāneṣu tulyaśīleṣu sarvataḥ / abhāvino bhaviṣyanti munayo bahurūpiṇaḥ //",
+    "english": "When men, divorced from the study of the Vedas, celebration of sacrifices and morals, proud, avaricious, eating all, performing useless rites, stupid, selfish, covetous, putting on worthless dresses, mean, deviating from the eternal religion, the stealers of other's riches, the ravishers of others wives, lustful, wicked, deceiptful and brave, will be born with equal character the various ascetics will hide themselves –.",
+    "morphology": "vyavāhāra_vyavāhāra_Cp upavṛttāḥ_upavṛt_PNPaM ca_ca_ cyutāḥ_cyu_PNPaM dharmāt_dharma_SBM ca_ca_ śāśvatāt_śāśvata_SBM  // hartāraḥ_hartṛ_PNM para_para_Cp ratnānām_ratna_PGNe para_para_Cp dāra_dāra_Cp pradharṣakāḥ_pradhar"
+  },
+  {
+    "index": 10807,
+    "sanskrit": "bṛhaspatiminduṃ ca tasya kumārasyāticārutayā sābhalāṣau dṛṣṭvā deviḥsamutpannasaṃdehāstārāṃ papracchuḥ // satyaṃ kathayāsmākamiti subhage somasyātha vā bṛhaspaterayaṃ putra iti //",
+    "english": "The child, from the moment of its birth, was endued with a splendour that dimmed the radiance of every other divinity, and both Vrihaspati and Soma, fascinated by his beauty, claimed him as their child.",
+    "morphology": "bṛhaspatim_bṛhaspati_SAM indum_indu_SAM ca_ca_ tasya_tad_SGM kumārasya_kumāra_SGM ati_ati_ cāru_cāru_Cp tayā_tā_SIF sa_sa_ ābhalāṣau_ābhalāṣa_DuAM dṛṣṭvā_dṛś_Co deviḥ_devī_SNF samutpanna_samutpad_PaCp saṃdehāḥ_saṃdeha_"
+  }
+]

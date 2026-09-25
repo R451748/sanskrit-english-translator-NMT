@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1960,
+    "sanskrit": "snāpayitvā mahādevaṃ sarvapātakanāśanam | jagāma prabhayā pūrṇaḥ sa ca lokamanuttamam || 14 ||",
+    "english": "After bathing Mahādeva, the destroyer of all sins, he regained his full refulgence and went back to the excellent world.",
+    "morphology": "snāpayitvā_snāpay_Co mahādevam_mahādeva_SAM sarva_sarva_Cp pātaka_pātaka_Cp nāśanam_nāśana_SAM  / jagāma_gam_SPs3In prabhayā_prabhā_SIF pūrṇaḥ_pṛ_SNPaM sa_tad_SNM ca_ca_ lokam_loka_SAM anuttamam_anuttama_SAM  /"
+  },
+  {
+    "index": 1961,
+    "sanskrit": "lambate tasya śākhāyāṃ puruṣaḥ pāvanākṛtiḥ / bhānurbhānāviva raśmigṛhīto grathitākṛtiḥ //",
+    "english": "There hung suspended under one of its boughs, a man of a holy mien; who blazed as the resplendent sun pendent in the open air, by the cords of his wide extending beams and radiating rays.",
+    "morphology": "lambate_lamb_SPr3In tasya_tad_SGM śākhāyām_śākhā_SLF puruṣaḥ_puruṣa_SNM pāvana_pāvana_Cp ākṛtiḥ_ākṛti_SNM  / bhānuḥ_bhānu_SNM bhānau_bhānu_SLM iva_iva_ raśmi_raśmi_Cp gṛhītaḥ_grah_SNPaM grathita_granth_PaCp ākṛtiḥ_"
+  },
+  {
+    "index": 1962,
+    "sanskrit": "bhṛtyāḥ paribhavantīha nṛpaṃ harṣaṇasatkathaṃ //",
+    "english": "The servants soon get an upper hand of the king whom they can persuade to laugh.",
+    "morphology": "bhṛtyāḥ_bhṛtya_PNM paribhavanti_paribhū_PPr3In iha_iha_ nṛpam_nṛpa_SAM  /"
+  },
+  {
+    "index": 1963,
+    "sanskrit": "atraitacchabdena prakṛtāhorātrādiparivatsarāntaṃ sarvakālasamaṣṭyupalakṣitaṃ yogina āyurvivakṣyate /",
+    "english": "The word 'this' etad-in 'this sacrifice' in the text indicates the sum total of the time comprising from day and night to year which means the life-time of the yogi.",
+    "morphology": "atra_atra_ etad_etad_Cp śabdena_śabda_SIM prakṛta_prakṛ_PaCp ahorātra_ahorātra_Cp ādi_ādi_Cp parivatsara_parivatsara_Cp antam_anta_SNNe sarva_sarva_Cp kāla_kāla_Cp samaṣṭi_samaṣṭi_Cp upalakṣitam_upalakṣay_SNPaNe yoginaḥ_yogin_SGM "
+  },
+  {
+    "index": 1964,
+    "sanskrit": "hasti aṅgāni tathā aśvān ca mṛtān ca puruṣān bahūn",
+    "english": "When that wheel had been cut off, Sahadeva, O sire, aiming at Karna, hurled at him the shafts of his car, the traces of his steeds, the yokes of his cars, the limbs of elephants and steeds and dead human bodies.",
+    "morphology": "hasti_hastin_MCp aṅgāni_aṅga_PANe tathā_tathā_U aśvān_aśva_PAM ca_ca_U mṛtān_mṛ_PAPaPsM ca_ca_U puruṣān_puruṣa_PAM"
+  },
+  {
+    "index": 1965,
+    "sanskrit": "sāpy upaparīkṣya eva vastuni pravicayo yogāyogavihito 'nyathā veti /",
+    "english": "It, too, is directed towards a thing to be examined the examination carried out according to the right or wrong method or which came about in some other way.",
+    "morphology": "sā_tad_SNF api_api_ upaparīkṣyaḥ_upaparīkṣ_SNMGd eva_eva_ vastuni_vastu_SLNe pravicayaḥ_pravicaya_SNM yoga_yoga_Cp ayoga_ayoga_Cp vihitaḥ_vidhā_SNPaM anyathā_anyathā_ vā_vā_ iti_iti_  /"
+  },
+  {
+    "index": 1966,
+    "sanskrit": "naṣṭauṣadhirase loke yuktametaddhi sāṃpratam | yādṛgāptaṃ havistādṛgagnibhakṣo viśiṣyate || 10 ||",
+    "english": "10. With the vanishing away of medicine and water from the world, it appeared that whatever was available as per time could be deemed as appropriate food for fire.",
+    "morphology": "naṣṭa_naś_PaCp oṣadhi_oṣadhi_Cp rase_rasa_SLM loke_loka_SLM yuktam_yuj_SNPaNe etat_etad_SNNe hi_hi_ sāṃpratam_sāṃpratam_  / yādṛś_yādṛś_SNNe āptam_āp_SNPaNe haviḥ_havis_SNNe tādṛś_tādṛś_SNM agni_agni_Cp bhakṣaḥ_bhak"
+  },
+  {
+    "index": 1967,
+    "sanskrit": "tasmātsarvaprayatnena tulasyāḥ komalairdalaiḥ | pūjanīyo mahābhaktyā sarvakleśavināśanaḥ || 9 ||",
+    "english": "9. Hence, by all means, the Lord who destroys all pains and distresses should be worshipped with great devotion, with the tender leaves of Tulasī.",
+    "morphology": "tasmāt_tasmāt_ sarva_sarva_Cp prayatnena_prayatna_SIM tulasyāḥ_tulasī_SGF komalaiḥ_komala_PINe dalaiḥ_dala_PINe  / pūjanīyaḥ_pūjay_SNMGd mahā_mahat_Cp bhaktyā_bhakti_SIF sarva_sarva_Cp kleśa_kleśa_Cp vināśanaḥ_vināśana_SNM  /"
+  }
+]

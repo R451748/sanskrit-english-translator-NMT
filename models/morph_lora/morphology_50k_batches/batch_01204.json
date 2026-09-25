@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9624,
+    "sanskrit": "vanopavanavinyāsahārakeyūrabhūṣitāḥ / purāṇavedavacanāḥ kriyāphalavinodanāḥ //",
+    "english": "The flowers, groves and forests form the wreathed decorations on their persons; the sayings of the sastras—vedas and puranas, are their recitations, the ceremonial acts are their action, and the results of their actions (viz. happiness and misery), are the parts that all have to play.",
+    "morphology": "vana_vana_Cp upavana_upavana_Cp vinyāsa_vinyāsa_Cp hāra_hāra_Cp keyūra_keyūra_Cp bhūṣitāḥ_bhūṣay_PNPaF  / purāṇa_purāṇa_Cp veda_veda_Cp vacanāḥ_vacana_PNF kriyā_kriyā_Cp phala_phala_Cp vinodanāḥ_vinodana_PNF  /"
+  },
+  {
+    "index": 9625,
+    "sanskrit": "sa ratha stambhitaḥ tasthau krośa mātram samantataḥ",
+    "english": "Indeed, the car on which Arjuna rode, stood motionless full two miles from the besieging force on every side.",
+    "morphology": "sa_tad_SNM ratha_ratha_MCp stambhitaḥ_stambhay_SNPaPsM tasthau_sthā_SPs3In krośa_krośa_MCp mātramā_mātra_SANe"
+  },
+  {
+    "index": 9626,
+    "sanskrit": "bhāsanādbhāsitaṃ proktaṃ bhasma kalmaṣabhakṣaṇāt | bhūtibhūtikarī caiva rakṣā rakṣākarī param ||",
+    "english": "95 It is called Bhasita because it shines; Bhasma because it devours sins; Bhūti because it causes prosperity and Rakṣā because it protects.",
+    "morphology": "__bhāsana_U __bhās_PaU __pravac_PaU __bhasman_U __kalmaṣa_U __bhakṣaṇa_U  / __bhūti_U __bhūti_U __kara_U ca_ca_U eva_eva_U __rakṣā_U __rakṣā_U __kara_U __para_U __U"
+  },
+  {
+    "index": 9627,
+    "sanskrit": "rājānaṃ śreṇiyaṃ bimbisāram-etad-avocat:",
+    "english": "said this to King Śreṇiya Bimbisāra:",
+    "morphology": "rājānam_rājan_SAM"
+  },
+  {
+    "index": 9628,
+    "sanskrit": "prāptāyāṃ ca caturdaśyāṃ tāḥ pāparipunāmani / tīrthe sarvāścitāś cakrurarcitvā hāṭakeśvaram //",
+    "english": "And when the fourteenth day arrived, they all worshipped Hāṭakeśvara, and made pyres in a holy bathing-place called Pāparipu.",
+    "morphology": "prāptāyām_prāp_SLPaF ca_ca_ caturdaśyām_caturdaśī_SLF tāḥ_tad_PNF pāpa_pāpa_Cp ripu_ripu_Cp nāmani_nāman_SLNe  / tīrthe_tīrtha_SLNe sarvāḥ_sarva_PNF citāḥ_ci_PNPaF cakruḥ_kṛ_PPs3In arcitvā_arc_Co hāṭakeśvaram_hāṭakeśvara"
+  },
+  {
+    "index": 9629,
+    "sanskrit": "te kṛtāḥ vimukhāḥ sarve mad prayuktaiḥ śilā śitaiḥ",
+    "english": "And they were driven back by those stone-whetted shafts of mine.",
+    "morphology": "te_tad_PNM kṛtāḥ_kṛ_PNPaPsM vimukhāḥ_vimukha_PNM sarve_sarva_PNM mad_mad_Cp prayuktaiḥ_prayuj_PIPaPsM"
+  },
+  {
+    "index": 9630,
+    "sanskrit": "kalividrāvitasyaiko yo dharmasya samāśrayaḥ / janmakṣetraṃ ca satyasya gṛhaṃ kṛtayugasya ca //",
+    "english": "“‘There is in the bosom of the Himālayas a country named Niṣadha, which is the only refuge of virtue, banished from the earth by Kali, and the native land of truth, and the home of the Kṛta age.",
+    "morphology": "kali_kali_Cp vidrāvitasya_vidrāvay_SGPaM ekaḥ_eka_SNM yaḥ_yad_SNM dharmasya_dharma_SGM samāśrayaḥ_samāśraya_SNM  / janma_janman_Cp kṣetram_kṣetra_SNNe ca_ca_ satyasya_satya_SGNe gṛham_gṛha_SNNe kṛta_kṛta_Cp yugasya_yuga_SGNe ca_ca_ "
+  },
+  {
+    "index": 9631,
+    "sanskrit": "asāvi somaḥ aruṣaḥ vr̥ṣā hariḥ rājā iva dasmaḥ abhi gāḥ acikradat punānaḥ vāram pari eti avyayam śyenaḥ na yonim ghr̥ta vantam āsadam",
+    "english": "EVEN as a King hath Soma, red and tawny Bull, been pressed: the Wondrous One hath bellowed to the kine. While purified he passes through the filtering fleece to seat him hawk-like on the place that drops with oil.",
+    "morphology": "asāvi_su_SPs3InPv somaḥ_soma_SNM aruṣaḥ_aruṣa_SNM vr̥ṣā_vr̥ṣan_SNM hariḥ_hari_SNM rājā_rājan_SNM iva_iva_U dasmaḥ_dasma_SNM abhi_abhi_U gāḥ_go_PAM acikradat_krand_SPs3In punānaḥ_pū_SNPaPrM vāram_vāra_SAM pari_pari_U eti_i_SP"
+  }
+]

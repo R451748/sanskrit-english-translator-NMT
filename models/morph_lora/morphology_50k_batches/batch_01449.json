@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11584,
+    "sanskrit": "bhikṣopabhogī vara nānukaṃpyaḥ kṛtī jarāmṛtyubhayaṃ titīrṣuḥ | ihottamaṃ śāṃtisukhaṃ ca yasya paratra duḥkhāni ca saṃvṛtāni ||",
+    "english": "‘He who lives on alms, my good friend, is not to be pitied, having gained his end and being set on escaping the fear of old age and death; he has here the best happiness, perfect calm, and hereafter all pains are for him abolished.",
+    "morphology": "bhikṣā_bhikṣā_Cp upabhogī_upabhogin_SNM vara_vara_SVM na_na_ anukaṃpyaḥ_anukamp_SNMGd kṛtī_kṛtin_SNM jarā_jarā_Cp mṛtyu_mṛtyu_Cp bhayam_bhaya_SANe titīrṣuḥ_titīrṣu_SNM  / iha_iha_ uttamam_uttama_SNNe śāṃti_śānti_Cp sukha"
+  },
+  {
+    "index": 11585,
+    "sanskrit": "dvau karam na prayacchetām kuntī putrāya bhārata vaivāhikena pāñcālāḥ sakhyena andhaka vṛṣṇayaḥ",
+    "english": "And, O Bharata, only two do not pay tribute unto the son of Kunti, viz., the Panchalas in consequence of their relationship by marriage, and the Andhakas and Vrishnis in consequence of their friendship.",
+    "morphology": "dvau_dvi_DuNM karam_kara_SAM na_na_U prayacchetām_prayam_DuPr3O kuntī_kuntī_FCp putrāya_putra_SDM bhārata_bhārata_SVM vaivāhikena_vaivāhika_SINe pāñcālāḥ_pāñcāla_PNM sakhyena_sakhya_SINe andhaka_andhaka_MCp vṛṣṇayaḥ_vṛṣṇi_PNM"
+  },
+  {
+    "index": 11586,
+    "sanskrit": "gām ca rorūyatīm dṛṣṭvā kopaḥ rāmam samāviśat",
+    "english": "Then when Rama saw how the cow was lowing for its calf, resentment arose in his heart.",
+    "morphology": "gām_go_SAF ca_ca_U rorūyatīm_rorūy_SAPaPrF"
+  },
+  {
+    "index": 11587,
+    "sanskrit": "anyaḥ sarvo 'rthavādaḥ /",
+    "english": "Apart from this all else is purely commendatory.",
+    "morphology": "anyaḥ_anya_SNM sarvaḥ_sarva_SNM arthavādaḥ_arthavāda_SNM  /"
+  },
+  {
+    "index": 11588,
+    "sanskrit": "anāhataṃ śabdagataṃ śabdādigaṇasaṃbhavam | evaṃ someśvaraṃ viddhi prabhāse liṃgarūpiṇam || 20 ||",
+    "english": "20. It is present in the Śabda in the mystic (Yogic) Cakra named Anāhata. It originates from the groups of Śabda (sound) etc(?). Know Someśvara to be thus. It is in the form of a Liṅga in Prabhāsa.",
+    "morphology": "anāhatam_anāhata_SAM śabda_śabda_Cp gatam_gam_SAPaM śabda_śabda_Cp ādi_ādi_Cp gaṇa_gaṇa_Cp saṃbhavam_sambhava_SAM  / evam_evam_ someśvaram_someśvara_SAM viddhi_vid_SPr2Im prabhāse_prabhāsa_SLM liṃga_liṅga_Cp rūpiṇam_rūpin_SAM "
+  },
+  {
+    "index": 11589,
+    "sanskrit": "na hi me śudhyate bhāvaḥ kadā cit vinaśet iti",
+    "english": "My mind misgiveth me.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 11590,
+    "sanskrit": "rādhā śrīr virajā bhūś ca tisro patnyo 'bhavan hareḥ tāsāṃ rādhā priyātīva śrī kṛṣṇasya mahātmanaḥ",
+    "english": "Rādhā, Śrī, Virajā, and Bhū were the four wives of Lord Kṛṣṇa. Of them Rādhā was most dear to Śrī Kṛṣṇa, the Supreme Personality of Godhead.",
+    "morphology": "rādhā_rādhā_SNF śrīḥ_śrī_SNF virajāḥ_virajas_SNF bhūḥ_bhū_SNF ca_ca_ tisraḥ_tri_PNF patnyaḥ_patnī_PNF abhavan_bhū_P3ImIn hareḥ_hari_SGM tāsām_tad_PGF rādhā_rādhā_SNF priyā_priya_SNF atīva_atīva_ śrīḥ_śrī_SNF"
+  },
+  {
+    "index": 11591,
+    "sanskrit": "śrī śatacandrānanovāca brahmadeva luṭhantīha koṭiśo hy aṇòa rāśayaḥ teṣāṃ yūyam yathā devās tathāṇòe 'ṇòe pṛthak pṛthak",
+    "english": "Śrī Śatacandrānanā said: O demigod Brahmā, millions of universes bob up and down (in the Kāraṇa ocean). As you are demigods in one universe, so in each each universe there are many demigods.",
+    "morphology": "śrī_śrī_SNF śatacandra_śatacandra_Cp ānanā_ānana_SNF uvāca_vac_SPs3In brahmadeva_brahmadeva_SVM luṭhanti_luṭh_PPr3In iha_iha_ koṭiśas_koṭiśas_ hi_hi_ rāśayaḥ_rāśi_PNM teṣām_tad_PGM yūyam_tvad_PN yathā_yathā_ devāḥ_deva_PN"
+  }
+]

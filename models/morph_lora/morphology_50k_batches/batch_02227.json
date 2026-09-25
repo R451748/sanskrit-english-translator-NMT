@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17808,
+    "sanskrit": "dvīpāṃtarādāgataiśca karpūrāgurucaṃdanaiḥ | anyaiśca vividhairdravyaiḥ saṃpūrṇā bhavatāṃ gṛhāḥ || 73 ||",
+    "english": "73. Your abodes are filled with camphor, agallocham, sandal and various other kinds of articles coming from other continents.",
+    "morphology": "dvīpa_dvīpa_Cp antarāt_antara_SBNe āgataiḥ_āgam_PIPaNe ca_ca_ karpūra_karpūra_Cp aguru_aguru_Cp caṃdanaiḥ_candana_PINe  / anyaiḥ_anya_PINe ca_ca_ vividhaiḥ_vividha_PINe dravyaiḥ_dravya_PINe saṃpūrṇāḥ_sampṛ_PNPaM bhavatām_bhava"
+  },
+  {
+    "index": 17809,
+    "sanskrit": "āyatanavyavasthāyāṃ daśāyatanāni / cakṣurāyatanaṃ rūpāyatanaṃ yāvat kāyāyatanaṃ spraṣṭavyāyatanamiti /",
+    "english": "Considered as āyatana, origin of the mind and of the mental states, they are ten āyatanas: cakṣurāyatana, rāpāyatana, ēāyāyatana, spraṣṭavyāyatana.",
+    "morphology": "āyatana_āyatana_Cp vyavasthāyām_vyavasthā_SLF daśa_daśan_Cp āyatanāni_āyatana_PNNe  / cakṣuḥ_cakṣus_Cp āyatanam_āyatana_SNNe rūpa_rūpa_Cp āyatanam_āyatana_SNNe yāvat_yāvat_ kāya_kāya_Cp āyatanam_āyatana_SNNe spraṣṭavya_spṛ"
+  },
+  {
+    "index": 17810,
+    "sanskrit": "anyo hi pravartanāvagamaḥ anyaś ca bāhyo vyāpāraḥ //",
+    "english": "The awareness of inspiration is onething and the volitional reaction in the external world is another thing.",
+    "morphology": "anyaḥ_anya_SNM hi_hi_ pravartana_pravartana_Cp avagamaḥ_avagama_SNM anyaḥ_anya_SNM ca_ca_ bāhyaḥ_bāhya_SNM vyāpāraḥ_vyāpāra_SNM  /"
+  },
+  {
+    "index": 17811,
+    "sanskrit": "atra daivakāraṇā āhuḥ / daivam evātra kāraṇam /",
+    "english": "Those who hold that Destiny is the sole cause of things argue as followsDestiny is the only cause.",
+    "morphology": "atra_atra_ daiva_daiva_Cp kāraṇāḥ_kāraṇa_PNM āhuḥ_ah_PPs3In  / daivam_daiva_SNNe eva_eva_ atra_atra_ kāraṇam_kāraṇa_SNNe  /"
+  },
+  {
+    "index": 17812,
+    "sanskrit": "putrān bhrātṝn nigṛhṇantaḥ vinaye ca sadā ratāḥ",
+    "english": "By restraining their sons and brothers and teaching them their duties, and by behaving kindly towards all persons whose pride has been quelled by knowledge,[329] the aristocracy advance in prosperity.",
+    "morphology": "putrān_putra_PAM bhrātṝn_bhrātṛ_PAM nigṛhṇantaḥ_nigrah_PNPaPrM vinaye_vinaya_SLM ca_ca_U sadā_sadā_U ratāḥ_ram_PNPaPsM"
+  },
+  {
+    "index": 17813,
+    "sanskrit": "bhagavañchrotumicchāmi pramāṇaṃ yugasaṃbhavam | māhātmyaṃ ca svarūpaṃ ca yathāvadvaktumarhasi || 8 ||",
+    "english": "8. “O holy Sir, I wish to hear the extent of the Yugas, their greatness and special characteristics. It behoves you to recount duly.”",
+    "morphology": "bhagavan_bhagavat_SVM śrotum_śru_In icchāmi_iṣ_SPr1In pramāṇam_pramāṇa_SANe yuga_yuga_Cp saṃbhavam_sambhava_SANe  / māhātmyam_māhātmya_SANe ca_ca_ svarūpam_svarūpa_SANe ca_ca_ yathāvat_yathāvat_ vaktum_vac_In arhasi_arh_SPr2In  /"
+  },
+  {
+    "index": 17814,
+    "sanskrit": "mahāmātrāḥ mahāmātraiḥ tāḍitāḥ śara tomaraiḥ gajebhyaḥ pṛthivīm jagmuḥ mukta praharaṇa aṅkuśāḥ",
+    "english": "And elephant-drivers, attacked by elephant-drivers with arrows and lances, fell down from the backs of their beasts, their weapons and hooks being loosened from their hands.",
+    "morphology": "mahāmātrāḥ_mahāmātra_PNM mahāmātraiḥ_mahāmātra_SVM tāḍitāḥ_tāḍay_PNPaPsM śara_śara_MCp tomaraiḥ_tomara_PIM gajebhyaḥ_gaja_PBM pṛthivīm_pṛthivī_SAF jagmuḥ_gam_PPs3In mukta_muc_PaPsCp praharaṇa_praharaṇa_NeCp aṅkuś"
+  },
+  {
+    "index": 17815,
+    "sanskrit": "brahmaṇā pūrva sṛṣṭam hi karmabhiḥ varṇa tām gatam",
+    "english": "Created (equal) by Brahman, men have, in consequence of their acts, become distributed into different orders.",
+    "morphology": "brahmaṇā_brahman_SIM pūrva_pūrva_Cp sṛṣṭam_sṛj_SNPaPsNe hi_hi_U karmabhiḥ_karman_PINe varṇa_varṇa_MCp tām_tā_SAF gatam_gam_SNPaPsNe"
+  }
+]

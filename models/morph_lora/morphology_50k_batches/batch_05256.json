@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42040,
+    "sanskrit": "carame prapañcasatyatvāpātaḥ|",
+    "english": "If the statement is untrue, it follows that the world is true.",
+    "morphology": "__carama_U"
+  },
+  {
+    "index": 42041,
+    "sanskrit": "nr̥ cakṣasam tvā vayam indra pītam svaḥ vidam bhakṣīmahi pra jām iṣam",
+    "english": "May we obtain thee, Indra's drink, who viewest men and findest light, Gain thee, and progeny and food.",
+    "morphology": "nrā_nṛ_SVM cakṣasam_cakṣas_SAF tvā_tvad_SA vayam_mad_PN indra_indra_SVM pītam_pā_SAPaPsM svar_svar_SANe vidaḥ_vid_SAF"
+  },
+  {
+    "index": 42042,
+    "sanskrit": "sūta uvāca | evaṃ śrutvā svaputrasya vacanaṃ jñānagarbhitam | putraśokānvitā dīnā sā ca gaurabravīdidam ||",
+    "english": "17. On hearing these words of her calf full of wisdom, the distressed cow sorrowing for her calf, said thus.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / evam_evam_ śrutvā_śru_Co sva_sva_Cp putrasya_putra_SGM vacanam_vacana_SANe jñāna_jñāna_Cp garbhitam_garbhita_SANe  / putra_putra_Cp śoka_śoka_Cp anvitā_anvita_SNF ḥ_ḥ_"
+  },
+  {
+    "index": 42043,
+    "sanskrit": "trayoviṃśatitattvebhyaḥ prakṛtirhi parā matā | prakṛtestu paraṃ prāhuḥ puruṣaṃ pañcaviṃśakam || yaṃ vedādau svaraṃ prāhurvācyavācakabhāvataḥ | vedaikavedyayāthātmyādvedānte ca pratiṣṭhitaḥ || tasya prakṛtilīnasya yaḥ parassa maheśvaraḥ | tadadhīnapravṛttitvātprakṛteḥ puruṣasya ca || athavā triguṇaṃ tattvamupeyamidamavyayam | māyāntu prakṛtiṃ vidyānmāyinaṃ tu maheśvaram || māyāvikṣobhako 'naṃto maheśvarasamanvayāt | kālātmā paramātmādiḥ sthūlaḥ sūkṣmaḥ prakīrtitaḥ ||",
+    "english": "31-35. The name Maheśvara is explained thus: Prakṛti is greater than the twenty-three principles. Puruṣa the twenty fifth principle is greater than Prakṛti.[2] Puruṣa is Praṇava the first Svara in the Vedas. Since his real nature is comprehensible only through the Vedas he is established in the Vedānta. He who is beyond this Puruṣa, who is associated with Prakṛti is Maheśvara because both the Prakṛti and Puruṣa function in subservience to him. Or, Maheśvara is the wielder of Māyā. Māyā is Prakṛti the principle with the three Guṇas. It is unchanging. He who makes this Māyā energetic is Maheśvara. He is glorified as Kālātman, Paramātman, the primordial, the gross and the subtle.",
+    "morphology": "trayoviṃśati_trayoviṃśati_Cp tattvebhyaḥ_tattva_PBNe prakṛtiḥ_prakṛti_SNF hi_hi_ parā_para_SNF matā_man_SNPaF  / prakṛteḥ_prakṛti_SBF tu_tu_ param_para_SAM prāhuḥ_prāh_PPs3In puruṣam_puruṣa_SAM pañcaviṃśakam_pañcaviṃśa"
+  },
+  {
+    "index": 42044,
+    "sanskrit": "kāṣṭhikebhyastato 'ṅgārāndṛṣṭvāpi krīṇato janān / sa kālāguru dagdhvā tadaṅgārānakarojjaḍaḥ //",
+    "english": "Then, seeing people buying charcoal from the woodman, the fool burnt his stock of aloes-wood and reduced it to charcoal.",
+    "morphology": "kāṣṭhikebhyaḥ_kāṣṭhika_PBM tatas_tatas_ aṅgārān_aṅgāra_PAM dṛṣṭvā_dṛś_Co api_api_ krīṇataḥ_krī_PAPaPrM janān_jana_PAM  / sa_tad_SNM kālāguru_kālāguru_SANe dagdhvā_dah_Co tatas_tatas_ ḥ_ḥ_"
+  },
+  {
+    "index": 42045,
+    "sanskrit": "na cāpi pṛthag iti vikalpapratyayavaśāt tasya siddhiḥ / ta eva hi rūpādayo bhāvāḥ svasvabhāvasthiteḥ sarvabhāvānāṃ sajātīyavijātīyavyāvṛttātmatayāpekṣyamāṇāḥ pṛthag iti vyavahāranibandhanaṃ bhaviṣyantīti nāto vastvantarasiddhiḥ /",
+    "english": "Nor can it be regarded as proved by the definite cognition ‘this is separate’, Because those same things, Colour and the rest, existing in their own character when conceived of in relation to other things, from which they are found to be differentiated, become the basis of the notion of the things being ‘separate’; and hence the said notion cannot prove the existence of any other thing (apart from those things themselves).",
+    "morphology": "na_na_ ca_ca_ api_api_ pṛthak_pṛthak_ iti_iti_ vikalpa_vikalpa_Cp pratyaya_pratyaya_Cp vaśāt_vaśa_SBM tasya_tad_SGM siddhiḥ_siddhi_SNF  / te_tad_PNM eva_eva_ hi_hi_ rūpa_rūpa_Cp ādayaḥ_ādi_PNM bhāvāḥ_bhāva_PNM sva_sva_Cp svabhāva_svabh"
+  },
+  {
+    "index": 42046,
+    "sanskrit": "aśvamedha sahasreṇa yaḥ yajet pṛthivīpatiḥ pālayet vā api dharmeṇa prajāḥ tulyam phalam labhet yudhiṣṭhiraḥ uvāca",
+    "english": "That king who adores the deities in a hundred horse-sacrifices, and he who rules his subjects righteously, acquire merit that is equal.'\" SECTION VIII \"Yudhishthira said, 'O lord of Earth, I shall do as thou biddest me.",
+    "morphology": "aśvamedha_aśvamedha_MCp sahasreṇa_sahasra_SINe yaḥ_yad_SNM yajet_yaj_SPr3O pṛthivīpatiḥ_pṛthivīpati_SNM pālayet_pālay_SPr3O vā_vā_U api_api_U dharmeṇa_dharma_SIM prajāḥ_prajā_PAF tulyam_tulya_SANe phalam_phala_SANe labhet_labh_SPr3O"
+  },
+  {
+    "index": 42047,
+    "sanskrit": "gururātmavatāṃ śāstā rājā śāstā durātmanām | iha pracchannapāpānāṃ śāstā vaivasvato yamaḥ || 8 ||",
+    "english": "Preceptor is the chastiser of self-controlled ones; king is the chastiser of the wicked ones. The chastiser of those with sins concealed here (in the world) is Yama, the son of Vivasvān.",
+    "morphology": "guruḥ_guru_SNM ātmavatām_ātmavat_PGM śāstā_śāstṛ_SNM rājā_rājan_SNM śāstā_śāstṛ_SNM durātmanām_durātman_PGM  / iha_iha_ pracchanna_pracchad_PaCp pāpānām_pāpa_PGM"
+  }
+]

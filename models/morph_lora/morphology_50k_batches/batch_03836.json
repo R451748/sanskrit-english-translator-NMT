@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30680,
+    "sanskrit": "sva varṇam anya varṇam vā sva śīlam śāsti niścaye",
+    "english": "His own disposition, however, in the matter of those acts that he does, always proclaims whether he belongs to a good order or to a different one.",
+    "morphology": "sva_sva_Cp varṇam_varṇa_SAM anya_anya_Cp varṇam_varṇa_SAM vā_vā_U sva_sva_Cp śīlam_śīla_SAM"
+  },
+  {
+    "index": 30681,
+    "sanskrit": "tānīdānīṃ pūrveṇa pratijñātān niyamān āha /",
+    "english": "The Author proceeds to describe the rules spoken of in the preceding verse.",
+    "morphology": "tāni_tad_PANe idānīm_idānīm_ pūrveṇa_pūrva_SIM pratijñātān_pratijñā_PAPaM niyamān_niyama_PAM āha_ah_SPs3In  /"
+  },
+  {
+    "index": 30682,
+    "sanskrit": "pātrāṇi vakṣyati /",
+    "english": "\"Vessels\" to be described later on.",
+    "morphology": "pātrāṇi_pātra_PANe"
+  },
+  {
+    "index": 30683,
+    "sanskrit": "ye ca anye api kule santi puruṣāḥ naḥ varānane sarve te vai gatim yāntu abhimanyoḥ yaśasvinaḥ",
+    "english": "O thou of beautiful face, let all the other men yet alive in our race obtain that goal which Abhimanyu of great fame hath obtained.",
+    "morphology": "ye_yad_PNM ca_ca_U anye_anya_PNM api_api_U kule_kula_SLNe santi_as_PPr3In puruṣāḥ_puruṣa_PNM naḥ_mad_PG varānane_varānanā_SVF sarve_sarva_PNM te_tad_PNM vai_vai_U gatim_gati_SAF yāntu_yā_PPr3Im abhimanyoḥ_abhimanyu_SGM yaśasvinaḥ_yaśasv"
+  },
+  {
+    "index": 30684,
+    "sanskrit": "na hi devatā niyoktuṃ śakyate, devatātvahāniprasaṅgāt /",
+    "english": "Gods cannot be directed to do an act; for, if they were, this would deprive them of their godlike character.",
+    "morphology": "na_na_ hi_hi_ devatā_devatā_SNF niyoktum_niyuj_In śakyate_śak_SPr3InPv devatā_devatā_Cp tva_tva_Cp hāni_hāni_Cp prasaṅgāt_prasaṅga_SBM  /"
+  },
+  {
+    "index": 30685,
+    "sanskrit": "prātaḥsnānaṃ tataḥ sandhyāṃ kuryāddevarṣitarpaṇam | devānāmarcanaṃ kṛtvā homaṃ kuryādyathāvidhi || 39 ||",
+    "english": "She took the holy bath in the morning; then performed the Sandhyā prayers; then she offered libations to Devas and Sages. After performing the adoration of Devas, she performed Homa in accordance with the injunctions. She worshipped the Vaiṣṇava worlds by means of Snāna (holy bath), Japa and Homa.",
+    "morphology": "prātaḥsnānam_prātaḥsnāna_SANe tatas_tatas_ sandhyām_saṃdhyā_SAF kuryāt_kṛ_SPr3O deva_deva_Cp ṛṣi_ṛṣi_Cp tarpaṇam_tarpaṇa_SANe  / devānām_deva_PGM arcanam_arcana_SANe kṛtvā_kṛ_Co homam_homa_SAM kuryāt_kṛ_SPr3O yathāvidh"
+  },
+  {
+    "index": 30686,
+    "sanskrit": "tataḥ sā lajjayā'viṣṭā praṇipatya ca gautamam | smaramāṇā'tmanaḥ kṛtyaṃ yacchakreṇa samanvitam || 28 ||",
+    "english": "28. Recollecting her affair with Śakra, she became ashamed. She then bowed down to Gautama (and said):",
+    "morphology": "tatas_tatas_ sā_tad_SNF lajjayā_lajjā_SIF āviṣṭā_āviś_SNPaF praṇipatya_praṇipat_Co ca_ca_ gautamam_gautama_SAM  / smaramāṇā_smṛ_SNPaPrF ātmanaḥ_ātman_SGM kṛtyam_kṛtya_SANe yat_yad_SNNe śakreṇa_śakra_SIM samanvitam_samanvita"
+  },
+  {
+    "index": 30687,
+    "sanskrit": "itaraścā'hayo nu kathaṃ tvayocyate sayugvā raikva ityuktavantaṃ bhallākṣa āha śṛṇu yathā sa raikvaḥ //",
+    "english": "The other flamingo then asked‘Of what sort is this Raikva with the Cart?’When he was asked thus, Bhallākṣa said‘Listen, of what sort is Raikva with the Cart?’",
+    "morphology": "itaraḥ_itara_SNM ca_ca_ ahayaḥ_ahaya_SNM nu_nu_ katham_katham_ tvayā_tvad_SI ucyate_vac_SPr3InPv sayugvā_sayugvan_SNM raikvaḥ_raikva_SNM iti_iti_ uktavantam_vac_SAPaM bhallākṣaḥ_bhallākṣa_SNM āha_ah_SPs3In śṛṇu_śru_SPr2Im yathā_yath"
+  }
+]

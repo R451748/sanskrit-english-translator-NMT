@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8880,
+    "sanskrit": "sarva kāmaiḥ ca saṃpūrṇam dattvā veśma hiraṇmayam mudgalāya gataḥ svargam śatadyumnaḥ mahīpatiḥ",
+    "english": "King Satadyumna, having given to Mudgala a mansion made of gold and full of every object of comfort and use, ascended to heaven.",
+    "morphology": "sarva_sarva_Cp kāmaiḥ_kāma_PIM ca_ca_U saṃpūrṇam_sampṛ_SAPaPsNe dattvā_dā_Co veśma_veśman_SANe hiraṇmayam_hiraṇmaya_SANe mudgalāya_mudgala_SDM gataḥ_gam_SNPaPsM svargam_svarga_SAM śatadyumnaḥ_śatadyumna_SNM mahīpatiḥ_mahīpati_"
+  },
+  {
+    "index": 8881,
+    "sanskrit": "dūrasthānām anarthināṃ ca saṃvādābhāvāt /",
+    "english": "Because there can be no comprehension of what is far off and what is known to people having no connection with him.",
+    "morphology": "dūra_dūra_Cp sthānām_stha_PGM anarthinām_anarthin_PGM ca_ca_ saṃvāda_saṃvāda_Cp abhāvāt_abhāva_SBM"
+  },
+  {
+    "index": 8882,
+    "sanskrit": "uṣo ṣu jātamapturaṃ gobhirbhaṅgaṃ pariṣkṛtam / induṃ devā ayāsiṣuḥ // tamidvardhantu no giro vatsaṃ saṃśiśvarīriva / ya indrasya hṛdaṃsaniḥ //",
+    "english": "The Gods have come to Indu welldescended, beautified with milk, Even as mother cows their calf, so let our praisesongs strengthen him,",
+    "morphology": "uṣaḥ_uṣas_SVF u_u_ su_su_ jāta_jan_PaCp mapturam_maptur_SAM gobhiḥ_go_PIM bhaṅgam_bhaṅga_SAM pariṣkṛtam_pariṣkṛ_SAPaM  / indum_indu_SAM devāḥ_deva_PNM ayāsiṣuḥ_yā_PPs3InFs  / tam_tad_SAM id_id_ vardhantu_vṛdh_PPr3Im naḥ_ma"
+  },
+  {
+    "index": 8883,
+    "sanskrit": "purā yat ucyase prājñaiḥ suhṛdbhiḥ vidura ādibhiḥ mā ahārṣīḥ pāṇḍavān rājan iti tat na tvayā śrutam",
+    "english": "Formerly, many of thy wise well-wishers, numbering Vidura amongst them, had told thee, 'Do not, O king, abandon the sons of Pandu.' Thou didst not then heed those words.",
+    "morphology": "purā_purā_U yat_yat_U ucyase_vac_SPr2InPv prājñaiḥ_prājña_PIM suhṛdbhiḥ_suhṛd_PIM vidura_vidura_MCp ādibhiḥ_ādi_PIM mā_mā_U ahārṣīḥ_hṛ_SPs2In pāṇḍavān_pāṇḍava_PAM rājan_rājan_SVM iti_iti_U tat_tad_SNNe na_na_U tvay"
+  },
+  {
+    "index": 8884,
+    "sanskrit": "ya ekeṣu nipātotthajvalanaistripurampurā | trailokyaiśvaryasammūḍhaṃ śoṣayāmāsa bhānunā ||",
+    "english": "18. He burnt the Tripuras, who were haughty and deluded by their lordship of the three worlds, by means of the blazing fires emanating from the fall of a single arrow.",
+    "morphology": "yaḥ_yad_SNM ekaiḥ_eka_PIM nipāta_nipāta_Cp uttha_uttha_Cp jvalanaiḥ_jvalana_PIM tripurampurā_tripurampurā_SNF  / trailokya_trailokya_Cp aiśvarya_aiśvarya_Cp sammūḍham_sammuh_SAPaM śoṣayāmāsa_śoṣay_SPs3InPe"
+  },
+  {
+    "index": 8885,
+    "sanskrit": "na /",
+    "english": "That cannot be right;",
+    "morphology": "na_"
+  },
+  {
+    "index": 8886,
+    "sanskrit": "sattvamasattvaṃ dvitvamekatvamanekatvamādyatvamantatvamiti //",
+    "english": "In him resides entity and non-entity, in him there is unity, duality and plurality, and the beginning and end of all things.",
+    "morphology": "sattvam_sattva_SNNe asattvam_asattva_SNNe dvi_dvi_Cp tvam_tva_SNNe eka_eka_Cp tvam_tva_SNNe aneka_aneka_Cp tvam_tva_SNNe ādya_ādya_Cp tvam_tva_SNNe anta_anta_Cp tvam_tva_SNNe"
+  },
+  {
+    "index": 8887,
+    "sanskrit": "dhakṣyāmi tvām ca vipram ca yena dattaḥ varaḥ tava tam aham rakṣatī vipram śāpāt anaparādhinam",
+    "english": "I shall consume thee as also that Brahmana who gave thee the Mantra as a boon.' The Brahmana who had done no evil--I wished to protect from Surya's curse.",
+    "morphology": "dhakṣyāmi_dah_SFu1In tvām_tvad_SA ca_ca_U vipram_vipra_SAM ca_ca_U yena_yad_SIM dattaḥ_dā_SNPaPsM varaḥ_vara_SNM tava_tvad_SG tam_tad_SAM aham_mad_SN rakṣatī_rakṣ_SNPaPrF vipram_vipra_SAM śāpāt_śāpa_SBM"
+  }
+]

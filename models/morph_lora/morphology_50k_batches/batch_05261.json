@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42080,
+    "sanskrit": "brāhmaṇāḥ mānavāḥ teṣām sāṅgam vedam adīdharan",
+    "english": "And those sons of Manu that were Brahmanas devoted themselves to the study of the Vedas.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM mānavāḥ_mānava_PNM"
+  },
+  {
+    "index": 42081,
+    "sanskrit": "lohita akṣam mahā bāhum matta mātaṅga gāminam",
+    "english": "And his steps were like those of a wild elephant.",
+    "morphology": "lohita_lohita_Cp akṣam_akṣa_SAM mahā_mahat_Cp bāhum_bāhu_SAM matta_mahat_SNM"
+  },
+  {
+    "index": 42082,
+    "sanskrit": "tataśca bhagavānviṣṇurjñātvā tāṃ bhaginīṃ tathā | mātaraṃ pitaraṃ caiva tathā duḥkhasamanvitau || 10 || tāmādāya gatastūrṇaṃ baladevasamanvitaḥ | hāṭakeśvaraje kṣetre tapastaptuṃ tataḥ param || 11 ||",
+    "english": "10-11. Lord Viṣṇu, on coming to know that his sister was like that and the parents were highly distressed, took her with him. Accompanied by Baladeva he quickly went to the holy spot of Hāṭakeśvara for performing a great penance.",
+    "morphology": "tatas_tatas_ ca_ca_ bhagavant_bhagavant_SNM viṣṇuḥ_viṣṇu_SNM jñātvā_jñā_Co tām_tad_SAF bhaginīm_bhaginī_SAF tathā_tathā_  / mātaram_mātṛ_SAF pitaram_pitṛ_SAM ca_ca_ eva_eva_ tathā_tathā_ duḥkha_duḥkha_Cp samanvitau_samanvita"
+  },
+  {
+    "index": 42083,
+    "sanskrit": "kiṃ kṛtaṃ śaṃbhunā tāta varaṃ dātuṃsamāgataḥ | kiyatkālena ca kathaṃ tadvada prītimāvahan ||",
+    "english": "2. O dear one, what did Śiva do? Within what time did He go to grant the boon? How? Please tell me for my pleasure.",
+    "morphology": "kim_ka_SNNe kṛtam_kṛ_SNPaNe śaṃbhunā_śambhu_SIM tāta_tāta_SVM varam_vara_SAM dātum_dā_In samāgataḥ_samāgam_SNPaM  / kiyat_kiyat_Cp kālena_kāla_SIM ca_ca_ katham_katham_ tat_tad_SANe vada_vad_SPr2Im prītim_prīti_SAF"
+  },
+  {
+    "index": 42084,
+    "sanskrit": "dṛṣṭvā ca śiṣṭamatha 3 mahāvratadharo naraḥ | na spṛśedaṃgamaṃgena spṛṣṭvā snāyāttu cāṃbubhiḥ || 11 ||",
+    "english": "111. On seeing even a well-behaved gentleman a man practising this Mahāvrata should not have physical contact with his body. If he touches him, he should take bath in water.",
+    "morphology": "dṛṣṭvā_dṛś_Co ca_ca_ śiṣṭam_śās_SAPaM atha_atha_ mahā_mahat_Cp vrata_vrata_Cp dharaḥ_dhara_SNM naraḥ_nara_SNM  / na_na_ spṛśet_spṛś_SPr3O aṃgam_aṅga_SANe aṃgena_aṅga_SINe spṛṣṭvā_spṛś_Co snāyāt_snā_SPr3O tu_"
+  },
+  {
+    "index": 42085,
+    "sanskrit": "prāduścakre mahā māyām ghora rūpām su dāruṇām",
+    "english": "He then exhibited a fierce and awful illusion.",
+    "morphology": "prāduścakre_prāduṣkṛ_SPs3In"
+  },
+  {
+    "index": 42086,
+    "sanskrit": "tasyaikadeśe vitate ratnasānau manorame / munibhiḥ snānapānārthaṃ vyomagaṅgāvatāritā //",
+    "english": "There on tableland upon the craggy top of the mountain, flowed the sacred stream of the heavenly Ganges, for the ablution and beverage of the hermits.",
+    "morphology": "tasya_tad_SGM eka_eka_Cp deśe_deśa_SLM vitate_vitan_SLPaM ratna_ratna_Cp sānau_sānu_SLM manorame_manorama_SLM  / munibhiḥ_muni_PIM snāna_snāna_Cp pāna_pāna_Cp artham_artha_SAM vyomagaṅgā_vyomagaṅgā_SNF"
+  },
+  {
+    "index": 42087,
+    "sanskrit": "viṃśakaḥ ca eṣa saṃghātaḥ mahābhūtāni pañca ca",
+    "english": "These twenty exist together.",
+    "morphology": "viṃśakaḥ_viṃśaka_SNM ca_ca_U eṣa_etad_SNM saḥ_saḥ_SNM"
+  }
+]

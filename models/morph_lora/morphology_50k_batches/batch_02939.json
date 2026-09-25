@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23504,
+    "sanskrit": "vānaprasthasya triguṇaṃ yatīnāṃ ca caturguṇam | etacchaucaṃ divā proktaṃ rātrāvarddhaṃ samācaret || 9 ||",
+    "english": "This rule is applicable for the day time. During the nights half the number should be followed. In the case of a wayfarer it may be halved. In the case of women and Śūdras it should be further halved.",
+    "morphology": "vānaprasthasya_vānaprastha_SGM triguṇam_triguṇa_SNNe yatīnām_yati_PGM ca_ca_ caturguṇam_caturguṇa_SNNe  / etat_etad_SNNe śaucam_śauca_SNNe divā_divā_ proktam_pravac_SNPaNe rātrau_rātri_SLF ardham_ardha_SANe samācaret_samācar_SPr3O"
+  },
+  {
+    "index": 23505,
+    "sanskrit": "rājanya mahābhāgyam idānīm śuśrūṣām āha iti // 37 // tān uvāca mārkaṇḍeyaḥ mahā ṛṣiḥ / śrūyatām idānīm rājanyānām mahābhāgyam iti // 38 //",
+    "english": "We desire now to hear of the greatness of the royal Kshatriyas!\" Thus addressed by them, the great Rishi Markandeya spoke, 'Listen now to the greatness of the royal Kshatriyas.",
+    "morphology": "rājanya_rājanya_MCp mahābhāgyam_mahābhāgya_SNNe idānīm_idānīm_U śuśrūṣām_śuśrūṣā_SAF āha_ah_SPs3In iti_iti_U  // 37  // tān_tad_PAM uvāca_vac_SPs3In mārkaṇḍeyaḥ_mārkaṇḍeya_SNM mahā_mahat_Cp ṛṣiḥ_ṛṣi_SNM  / ś"
+  },
+  {
+    "index": 23506,
+    "sanskrit": "naiti kauṭilyaḥ // durbalam abhijātaṃ prakṛtayaḥ svayam upanamanti,",
+    "english": "No, says Kautilya, a people will naturally obey a highborn king though he is weak, for the tendency of a prosperous people is to follow a highborn king",
+    "morphology": "na_na_ eti_i_SPr3In kauṭilyaḥ_kauṭilya_SNM  // durbalam_durbala_SAM abhijātam_abhijan_SAPaM"
+  },
+  {
+    "index": 23507,
+    "sanskrit": "sūtrārthastvanyathā dṛśyate /",
+    "english": "but we understand the Sūtra in a different way.",
+    "morphology": "sūtra_sūtra_Cp arthaḥ_artha_SNM "
+  },
+  {
+    "index": 23508,
+    "sanskrit": "yat te gātrād agninā pacyamānād abhi śūlaṃ nihatasyāvadhāvati / mā tad bhūmyām ā śriṣan mā tṛṇeṣu devebhyas tad uśadbhyo rātam astu // ye vājinaṃ paripaśyanti pakvaṃ ya īm āhuḥ surabhir nir hareti / ye cārvato mām̐sabhikṣām upāsata uto teṣām abhigūrtir na invatu //",
+    "english": "What from thy body which with fire is roasted, when thou art set upon the spit, distilleth,— Let not that lie on earth or grass neglected, but to the longing Gods let all be offered. 35 They who, observing that the Horse is ready, call out and say, The smell is good; remove it; And, craving meat, await the distribution,—may their approving help promote our labour. 36",
+    "morphology": "yat_yad_SNNe te_tvad_SG gātrāt_gātra_SBNe agninā_agni_SIM pacyamānāt_pac_SBPaPrNePv abhi_abhi_ śūlam_śūla_SANe nihatasya_nihan_SGPaM avadhāvati_avadhāv_SPr3In  / mā_mā_ tat_tad_SNNe bhūmyām_bhūmi_SLF ā_ā_ śriṣat_śriṣ_SPs3 mā_mā_ "
+  },
+  {
+    "index": 23509,
+    "sanskrit": "karmāṇi codayanti iha yathā anyonyam tathā vayam",
+    "english": "We urge one another even as acts urge one another.",
+    "morphology": "karmāṇi_karman_PANe"
+  },
+  {
+    "index": 23510,
+    "sanskrit": "ayam vām gharmaḥ aśvinā stomena pari sicyate ayam somaḥ madhu mān vājinīvasūitivājinī vasū yena vr̥tram ciketathaḥ",
+    "english": "Aṣvins, for you with song of praise this hot oblation is effused, This your sweet Soma juice, ye Lords of ample wealth, through which ye think upon the foe.",
+    "morphology": "ayam_idam_SNM vām_tvad_DuD gharmaḥ_gharma_SNM aśvinā_aśvin_DuVM stomena_stoma_SIM pari_pari_U sicyate_sic_SPr3InPv ayam_idam_SNM somaḥ_soma_SNM madhu_madhu_NeCp mān_madhu_SNM vājinīvasūitivājinī_vājinīvasu_DuVM vasū_vasu_DuVM yaḥ_yad_SNM"
+  },
+  {
+    "index": 23511,
+    "sanskrit": "pūjāṃ śivasya vahneś ca guruḥ kuryāttadocitāṃ / praṇatiñcātmane śiṣyaṃ samayān śrāvayettathā //",
+    "english": "The preceptor should duly propitiate Lord Śiva and the firegod. The disciple should be made to bow down to the self preceptor. He should then make the disciple hear conventions.",
+    "morphology": "pūjām_pūjā_SAF śivasya_śiva_SGM vahneḥ_vahni_SGM ca_ca_ guruḥ_guru_SNM kuryāt_kṛ_SPr3O tadā_tadā_ ucitām_ucita_SAF  / praṇatiḥ_praṇati_SNF ca_ca_ ātmane_ātman_SDM śiṣyam_śiṣya_SAM samayān_samaya_PAM śrāvayet_śrāvay_SPr3O "
+  }
+]

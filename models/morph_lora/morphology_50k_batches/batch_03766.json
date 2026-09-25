@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30120,
+    "sanskrit": "mahatā devena pareṇa brahmaṇā sāmyamuktaṃ syāt|",
+    "english": "Thus is declared the likeness [of speech][16] to the supreme Brahman.",
+    "morphology": "mahatā_mahat_SIM devena_deva_SIM pareṇa_para_SIM brahmaṇā_brahman_SIM sāmyam_sāmya_SNNe uktaḥ_vac_SNPaNe"
+  },
+  {
+    "index": 30121,
+    "sanskrit": "nanu cābhidharme daśa kleśamahābhūmikāḥ paṭhyante /",
+    "english": "But the Mūla Abhidharma says, on the one hand that there are ten klefamaḥābhūmikas, but on the other hand, it omits torpor from its enumeration. What are these ten?",
+    "morphology": "nanu_nanu_ ca_ca_ abhidharme_abhidharma_SLM daśa_daśan_SNNe kleśa_kleśa_Cp mahā_mahat_Cp bhūmikāḥ_bhūmikā_PNF paṭhyante_paṭh_PPr3InPv  /"
+  },
+  {
+    "index": 30122,
+    "sanskrit": "patanti tu śarīraṃ tadātivāhikamucyate / ādhibhautikadhīrbhāti vismṛtyātraiva kālataḥ //",
+    "english": "It is the spiritual or intellectual body (or the mind), which is subject to these fallacies (and not the corporeal body); but the human mind, forgets in course of time, its spiritual nature; and thinks on its materiality.",
+    "morphology": "patanti_pat_PPr3In tu_tu_ śarīram_śarīra_SANe tat_tad_SNNe ātivāhikam_ātivāhika_SNNe ucyate_vac_SPr3InPv  / ādhibhautika_ādhibhautika_Cp dhīḥ_dhī_SNF bhāti_bhā_SPr3In vismṛtya_vismṛ_Co atra_atra_ eva_eva_ kālataḥ_kāla_SBM  /"
+  },
+  {
+    "index": 30123,
+    "sanskrit": "sarvatra sthitayā svaccharūpayā nirvikārayā / samayā sūkṣmayā nityaṃ cicchaktyā sākṣibhūtayā //",
+    "english": "The mind that preserves its clear sightedness, and its equanimity and unalterableness in all places, and under all conditions; retains its even temper and nice discernment at all times, under the testimony of its consciousness, and approbation of its good conscience.",
+    "morphology": "sarvatra_sarvatra_ sthitayā_sthā_SIPaF svaccha_svaccha_Cp rūpayā_rūpa_SIF nirvikārayā_nirvikāra_SIF  / samayā_sama_SIF sūkṣmayā_sūkṣma_SIF nityam_nityam_ cicchaktyā_cicchakti_SIF sākṣi_sākṣin_Cp bhūtayā_bhū_SIPaF  /"
+  },
+  {
+    "index": 30124,
+    "sanskrit": "bhava mitraḥ na śevyaḥ ghr̥ta āsutiḥ vibhūta dyumnaḥ eva yāḥ ūām iti sa prathāḥ adha te viṣṇo iti viduṣā cit ardhyaḥ stomaḥ yajñaḥ ca rādhyaḥ haviṣmatā",
+    "english": "FAR-SHINING, widely famed, going thy wonted way, fed with the oil, be helpful. Mitra-like, to us. So, Vishṇu, e'en the wise must swell thy song of praise, and he who hath oblations pay thee solemn rites.",
+    "morphology": "bhava_bhū_SPr2Im mitraḥ_mitra_SNM na_na_U śevyaḥ_śevya_SNM ghrāta_ghrāta_NeCp āsutiḥ_āsuti_SNM vibhūta_vibhū_PaPsCp dyumnaḥ_dyumna_SNM eva_eva_Cp yāḥ_yā_SNM ūām_ūṃ_U iti_iti_U sa_sa_U prathāḥ_prathas_SNM adha_adha_U te_tvad_SD "
+  },
+  {
+    "index": 30125,
+    "sanskrit": "vasu prakhyaḥ narapatiḥ sa babhūva vasu pradaḥ",
+    "english": "Richer than all the wealthy kings of the earth, and resembling one of the Vasus themselves he became a king and giver of great wealth.",
+    "morphology": "va_vasu_PNNe"
+  },
+  {
+    "index": 30126,
+    "sanskrit": "surakṣitāḥ prajā yasya svargastasya gṛhopamaḥ //",
+    "english": "One whose subjects have been well protected, his house would be equal to heaven.",
+    "morphology": "su_su_ rakṣitāḥ_rakṣ_PNPaF prajāḥ_prajā_PNF yasya_yad_SGM svargaḥ_svarga_SNM tasya_tad_SGM gṛha_gṛha_Cp upamaḥ_upama_SNM  /"
+  },
+  {
+    "index": 30127,
+    "sanskrit": "adyaiva kiṃ na gaccheyaṃ kāśīṃ brahmansvamāyayā | divodāsaṃ svadharmasthaṃ na tūllaṃghitumutsahe || 14 ||",
+    "english": "14. O Brahmā, why don't I go myself to Kāśī along with my Māyā (Pārvatī—the Śakti) today itself? But I am not eager to assail Divodāsa who abides by his Dharma.",
+    "morphology": "adya_adya_ eva_eva_ kim_kim_ na_na_ gaccheyam_gam_SPr1O kāśīm_kāśī_SAF brahman_brahman_SVM sva_sva_Cp māyayā_māyā_SIF  / divodāsam_divodāsa_SAM svadharma_svadharma_Cp stham_stha_SAM na_na_ tu_tu_ ullaṃghitum_ullaṅgh_In utsahe_utsah_SPr1In"
+  }
+]

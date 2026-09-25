@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32576,
+    "sanskrit": "bhojanam corayitvā tu makṣikā jāyate naraḥ",
+    "english": "A person that steals curds has to take birth as a crane.",
+    "morphology": "bhojanam_bhojana_SANe corayitvā_coray_Co"
+  },
+  {
+    "index": 32577,
+    "sanskrit": "yābhiḥ paṭharvā jaṭharasya majmanā agniḥ na adīdet citaḥ iddhaḥ ajman ā yābhiḥ śaryātam avathaḥ mahādhane tābhiḥ oṁ iti su ūti bhiḥ aśvinā ā gatam",
+    "english": "Wherewith Paṭharvâ, in his majesty of form, shone in his course like to a gathered kindled fire; Wherewith ye helped Ṣaryâta in the mighty fray,– Come hither unto us, O Aṣvins, with those aids.",
+    "morphology": "yābhiḥ_yad_PIF paṭharvā_paṭharvan_SNM jaṭharasya_jaṭhara_SGNe majmanā_majman_SIM agniḥ_agni_SNM na_na_U adīdet_dīdī_SPs3In citaḥ_cit_SGM iddhaḥ_indh_SNPaPsM ajman_ajman_SLNe ā_ā_U yābhiḥ_yad_PIF śaryātam_śaryāta_SAM avathaḥ"
+  },
+  {
+    "index": 32578,
+    "sanskrit": "agastya uvāca | tasmāccaṃdraharisthānādāgneyyāṃ diśi saṃsthitaḥ | devo dharmaharirnnāma kalikalmaṣanāśakaḥ || 1 ||",
+    "english": "1. From the holy spot of Candrahari in the south-eastern direction, there is the deity by name Dharmahari who is the destroyer of the sins of Kali Age.",
+    "morphology": "agastyaḥ_agastya_SNM uvāca_vac_SPs3In  / tasmāt_tad_SBNe caṃdrahari_candrahari_Cp sthānāt_sthāna_SBNe āgneyyām_āgneyī_SLF diśi_diś_SLF saṃsthitaḥ_saṃsthā_SNPaM  / devaḥ_deva_SNM dharmahariḥ_dharmahari_SNM nāma_nāma_ kali_kali_Cp"
+  },
+  {
+    "index": 32579,
+    "sanskrit": "sarvān lokān prapaśyāmi tapasā satya vikrama",
+    "english": "And he addressed the following words to Lomasa, 'O thou whose strength lieth in truthfulness! By virtue of this pious act, I behold all the worlds.",
+    "morphology": "sa_sarva_PAM"
+  },
+  {
+    "index": 32580,
+    "sanskrit": "viṣṇum krānte bale śakram koṣṭhe saktam tathā analam",
+    "english": "Vishnu is attached to (the organs of) motion. Sakra is attached to (the organs of) strength.",
+    "morphology": "viṣṇum_viṣṇu_SAM krānte_krānta_SLNe bale_bala_SLNe śakram_śakra_SAM koṣṭhe_koṣṭha_SLM"
+  },
+  {
+    "index": 32581,
+    "sanskrit": "śaktibhirmūrtibhiścāṃgairgrahairdevaiśca saṃvṛtam | aṣṭabāhuṃ caturvaktramardhanārīkamadbhutam ||",
+    "english": "28. It was equipped with the attributes of lordship. It comprised all splendours. It was surrounded by the Śaktis, images, planets and the gods.",
+    "morphology": "śaktibhiḥ_śakti_PIF mūrtibhiḥ_mūrti_PIF ca_ca_ aṃgaiḥ_aṅga_PINe grahaiḥ_graha_PIM devaiḥ_deva_PIM ca_ca_ saṃvṛtam_saṃvṛ_SAPaM  / aṣṭa_aṣṭan_Cp bāhum_bāhu_SAM catur_catur_Cp vaktram_vaktra_SAM ardhanārīkam_ardhanārīka"
+  },
+  {
+    "index": 32582,
+    "sanskrit": "ādityāsaḥ aditiḥ mādayantām mitraḥ aryamā varuṇaḥ rajiṣṭhāḥ asmākam santu bhuvanasya gopāḥ pibantu somam avase naḥ adya",
+    "english": "Let Aditi rejoice and the Âdityas, Varuṇa, Mitra, Aryaman, most righteous. May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.",
+    "morphology": "ādityāsaḥ_āditya_PNM aditiḥ_aditi_SNF mādayantām_māday_PPr3Im mitraḥ_mitra_SNM aryamā_aryaman_SNM varuṇaḥ_varuṇa_SNM rajiṣṭhāḥ_rajiṣṭha_PNM asmākam_mad_PG santu_as_PPr3Im bhuvanasya_bhuvana_SGNe gopāḥ_gopā_PNM pibantu_pā"
+  },
+  {
+    "index": 32583,
+    "sanskrit": "tasmād eva yad īṣyeta vyaktam anyonyasaṃśrayam // anumānāntarādhīnā sambandhigrahapūrvikā /",
+    "english": "In that case a vicious regressus ad infi- nitum is inevitable since the fresh inference requires another inference to reveal it and so on.",
+    "morphology": "tasmāt_tasmāt_ eva_eva_ yat_yad_SNNe vyaktam_vyakta_SNNe anyonya_anyonya_Cp saṃśrayam_saṃśraya_SNNe  // anumāna_anumāna_Cp antara_antara_Cp adhīnā_adhīna_SNF sambandhi_sambandhin_Cp graha_graha_Cp pūrvikā_pūrvaka_SNF"
+  }
+]

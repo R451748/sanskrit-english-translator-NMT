@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20008,
+    "sanskrit": "krudhyantam a pratikrudhyan dvayoḥ eṣa cikitsakaḥ",
+    "english": "In fact, he may be regarded to be the physician of the two (viz., himself and angry man).",
+    "morphology": "krudhyantam_krudh_SAPaPrM a_a_U"
+  },
+  {
+    "index": 20009,
+    "sanskrit": "tvaṃ bhuṃkṣva bhūtalaṃ kṛtsnaṃ śakraścāpi triviṣṭapam | vyavasthayā'nayā nityaṃ vartitavyaṃ parasparam || 62 ||",
+    "english": "62. You rule the entire earth. Let Śakra rule heaven. You should abide by this agreement always.",
+    "morphology": "tvam_tvad_SN bhuṃkṣva_bhuj_SPr2Im bhū_bhū_Cp talam_tala_SANe kṛtsnam_kṛtsna_SANe śakraḥ_śakra_SNM ca_ca_ api_api_ triviṣṭapam_triviṣṭapa_SANe  / vyavasthayā_vyavasthā_SIF anayā_idam_SIF nityam_nityam_ vartitavyam_vṛt_SNNeGd paras"
+  },
+  {
+    "index": 20010,
+    "sanskrit": "cidātmā nirmalo nityaḥ svāvabhāso nirāmayaḥ / dehastvanityo malavāṃstena saṃbadhyate katham //",
+    "english": "The intellectual soul is immortal and undecaying, and perfectly pure and shining by itself; while the body is perishable and impure, and cannot therefore be related with the spirit.",
+    "morphology": "cit_cit_Cp ātmā_ātman_SNM nirmalaḥ_nirmala_SNM nityaḥ_nitya_SNM sva_sva_Cp avabhāsaḥ_avabhāsa_SNM nirāmayaḥ_nirāmaya_SNM  / dehaḥ_deha_SNM tu_tu_ anityaḥ_anitya_SNM malavān_malavat_SNM tena_tad_SIM saṃbadhyate_sambandh_SPr3InPv katham"
+  },
+  {
+    "index": 20011,
+    "sanskrit": "tat kṣīram sthāpayām āsa nave bhāṇḍe dṛḍhe śucau",
+    "english": "He then placed the milk in a vessel that was new, durable and pure.",
+    "morphology": "tat_tad_SANe kṣīram_kṣīra_SANe sthāpayām_sthāpay_SPs3In āsa_ās_SPs3In"
+  },
+  {
+    "index": 20012,
+    "sanskrit": "pṛthaktvam ubhayātmatvaṃ vāstu śaktes tathāpi tat /",
+    "english": "‘Pṛthaktvam’ i.e. the view that the Capacity is different, from the Cognition. ‘Ubhayātmakam’, ‘Both’;",
+    "morphology": "pṛthaktvam_pṛthaktva_SNNe ubhaya_ubhaya_Cp ātma_ātman_Cp tvam_tva_SNNe vāstu_vāstu_SNNe śakteḥ_śakti_SGF tathā_tathā_ api_api_"
+  },
+  {
+    "index": 20013,
+    "sanskrit": "vipulasya gurau vṛttim bhaktim ātmani ca prabhuḥ dharme ca sthira tām dṛṣṭvā sādhu sādhu iti uvāca ha pratinandya ca dharma ātmā śiṣyam dharma parāyaṇam",
+    "english": "Observing Vipula's conduct towards himself--his preceptor--and his devotion also, and noting his steadiness in virtue, the puissant Devasarman exclaimed, \"Excellent, excellent!' The righteous-souled Devasarman, receiving his virtuous disciple with a sincere welcome, honoured him with a boon.",
+    "morphology": "vipulasya_vipula_SGM gurau_guru_SLM vṛttim_vṛtti_SAF bhaktim_bhakti_SAF ātmani_ātman_SLM ca_ca_U prabhuḥ_prabhu_SNM dharme_dharma_SLM ca_ca_U sthira_sthira_Cp tām_tā_SAF dṛṣṭvā_dṛś_Co sādhu_sādhu_SNNe sādhu_sādhu_SNNe iti_iti_U uvā"
+  },
+  {
+    "index": 20014,
+    "sanskrit": "karmoparamapakṣe tu punaḥ sṛṣṭirna yajyate / na karmanirapekṣo hi sargavaicitryasaṃbhavaḥ //151//",
+    "english": "If God preserves the acts of all creatures of the three divisions of the universe then the possibility of the fruition of all acts at a time will be ruled out.",
+    "morphology": "karma_karman_Cp uparama_uparama_Cp pakṣe_pakṣa_SLM tu_tu_ punar_punar_ sṛṣṭiḥ_sṛṣṭi_SNF na_na_ yajyate_yaj_SPr3InPv  / na_na_ karma_karman_Cp nirapekṣaḥ_nirapekṣa_SNM hi_hi_ sarga_sarga_Cp vaicitrya_vaicitrya_Cp saṃbhavaḥ_sambha"
+  },
+  {
+    "index": 20015,
+    "sanskrit": "(1) cakṣur-dhātuḥ,",
+    "english": "(1) The eye element,",
+    "morphology": "ca_ca_U"
+  }
+]

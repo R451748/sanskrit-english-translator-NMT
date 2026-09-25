@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14000,
+    "sanskrit": "rāgādīnāṃ gaṇo yasmātsamudeti nṛṇāṃ hṛdi|",
+    "english": "\"This should be the complement of desire and so forth, when it arises in the heart of man.",
+    "morphology": "rāga_rāga_Cp ādīnām_ādi_PGM gaṇaḥ_gaṇa_SNM yasmāt_yasmāt_"
+  },
+  {
+    "index": 14001,
+    "sanskrit": "ime daśa guṇā mukta-puṣpa-pradānasya |",
+    "english": "These are the ten virtues of giving loose flowers.",
+    "morphology": "ime_idam_PNM daśa_daśan_SNNe guṇāḥ_guṇa_PNM"
+  },
+  {
+    "index": 14002,
+    "sanskrit": "manomaṇḍūkike vyarthamiyantaṃ kālamandhayā / bhramantyā bhuvanaṃ kṣipraṃ kiṃ samāsāditaṃ tvayā //",
+    "english": "Thou hast been roving all this time with thy froggish heart, in the blind pursuit after thy profit and pleasure; but tell me what great boon has booted thee;in all thy ramblings about the earth.",
+    "morphology": "manomaṇḍūkike_manomaṇḍūkikā_SVF vyartham_vyartha_SAM iyantam_iyat_SAM kālam_kāla_SAM andhayā_andha_SIF  / bhramantyā_bhram_SIPaPrF bhuvanam_bhuvana_SANe kṣipram_kṣipram_ kim_ka_SNNe samāsāditam_samāsāday_SNPaNe tvayā_tvad_SI  /"
+  },
+  {
+    "index": 14003,
+    "sanskrit": "nārāyaṇādayo devā api sarvāvabodhinaḥ / tenākramya yathākāmamavaṭeṣu niveśitāḥ //",
+    "english": "The gods Narayana and others (who had been the instructors of men), were all foiled by him and confined in their cells of the wombs of their mothers.",
+    "morphology": "nārāyaṇa_nārāyaṇa_Cp ādayaḥ_ādi_PNM devāḥ_deva_PNM api_api_ sarva_sarva_Cp avabodhinaḥ_avabodhin_PNM  / tena_tad_SIM ākramya_ākram_Co yathākāmam_yathākāma_SANe avaṭeṣu_avaṭa_PLM niveśitāḥ_niveśay_PNPaM  /"
+  },
+  {
+    "index": 14004,
+    "sanskrit": "kṛtavarma ādibhiḥ śūraiḥ yattaiḥ bahubhiḥ āhave yuyudhānaḥ na śakitaḥ hantum yaḥ puruṣa ṛṣabhaḥ",
+    "english": "Numerous heroes, of whom Kritavarman is the first, contending vigorously in battle, could not slay Yuyudhana.",
+    "morphology": "kṛtavarma_kṛtavarman_MCp ādibhiḥ_ādi_PIM śūraiḥ_śūra_PIM yattaiḥ_yat_PIPaPsM bahubhiḥ_bahu_PIM āhave_āhava_SLM yuyudhānaḥ_yuyudhāna_SNM na_na_U śakitaḥ_śak_SNPaPsM hantum_han_In yaḥ_yad_SNM puruṣa_puruṣa_MCp ṛṣabhaḥ_"
+  },
+  {
+    "index": 14005,
+    "sanskrit": "ananyayā ca bhaktyā vai yuktaḥ śambhuṃ bhajetpunaḥ | ante ca muktimāyāti nātra kāryā vicāraṇā ||",
+    "english": "36. He shall worship Śiva with unflinching and exclusive devotion. Salvation is the result. There is nothing to be doubtful about this.",
+    "morphology": "ananyayā_ananya_SIF ca_ca_ bhaktyā_bhakti_SIF vai_vai_ yuktaḥ_yuj_SNPaM śambhum_śambhu_SAM bhajet_bhaj_SPr3O punar_punar_  / ante_anta_SLM ca_ca_ muktim_mukti_SAF āyāti_āyā_SPr3In na_na_ atra_atra_ kāryā_kṛ_SNFGd vicāraṇā_vicāraṇā_SNF"
+  },
+  {
+    "index": 14006,
+    "sanskrit": "tvameva dharmādhikṛtau samasta śarīriṇāṃ sthāvarajaṃgamānām | mayā niyuktodya dinādikṛtyaḥ praśādhi sarvānmama śāsanena || 44 ||",
+    "english": "44. You alone have been employed by me in the administration of Dharma unto all embodied beings, mobile as well as immobile. At my behest rule over all. Your duty commences today.",
+    "morphology": "tvam_tvad_SN eva_eva_ dharma_dharma_Cp adhikṛtau_adhikṛti_SLF samasta_samasta_SVM śarīriṇām_śarīrin_PGM sthāvara_sthāvara_Cp jaṃgamānām_jaṅgama_PGM  / mayā_mad_SI niyuktā_niyuj_SNPaF udya_udya_SVM dina_dina_Cp ādi_ādi_Cp kṛtyaḥ_k"
+  },
+  {
+    "index": 14007,
+    "sanskrit": "bāḍhamityeva saṃprokto lakṣmaṇaḥ śubhalakṣaṇaḥ | cakre sarvaṃ tathā karma yathā nārī vicakṣaṇā || 23 ||",
+    "english": "Saying “Yes”, Lakṣmaṇa of auspicious characteristics did everything like an efficient woman.",
+    "morphology": "bāḍham_bāḍham_ iti_iti_ eva_eva_ saṃproktaḥ_saṃpravac_SNPaM lakṣmaṇaḥ_lakṣmaṇa_SNM śubha_śubha_Cp lakṣaṇaḥ_lakṣaṇa_SNM  / cakre_kṛ_SPs3In sarvam_sarva_SANe tathā_tathā_ karma_karman_SANe yathā_yathā_ nārī_nārī_SN"
+  }
+]

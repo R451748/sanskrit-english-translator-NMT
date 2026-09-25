@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36008,
+    "sanskrit": "akulīnāḥ tathā ca anye kulīnāḥ ca tathā apare",
+    "english": "Some are of noble birth while others of ignoble birth.",
+    "morphology": "akulīnāḥ_akulīna_PNM"
+  },
+  {
+    "index": 36009,
+    "sanskrit": "kṛtāḥ pradakṣiṇā yena ekaviṃśati bhaktitaḥ | bhrūṇahatyādipāpāni nāśamāyāṃti tatkṣaṇāt || 15 ||",
+    "english": "15. If twenty-one circumambulations are completed with devotion, sins of killing a foetus in the womb and similar sins are destroyed instantaneously.",
+    "morphology": "kṛtāḥ_kṛ_PNPaF pradakṣiṇāḥ_pradakṣiṇa_PNF yena_yad_SIM ekaviṃśati_ekaviṃśati_SNNe bhaktitaḥ_bhakti_SBF  / bhrūṇahatyā_bhrūṇahatyā_Cp ādi_ādi_Cp pāpāni_pāpa_PNNe nāśam_nāśa_SAM āyānti_āyā_PPr3In tad_tad_Cp kṣ"
+  },
+  {
+    "index": 36010,
+    "sanskrit": "sabhāḥ prapāḥ ca vividhāḥ taḍāgāni ca pāṇḍavaḥ suhṛdām kārayām āsa sarveṣām aurdhvadaihikam",
+    "english": "And the king also, for the good of the souls of all his friends, caused houses to be founded for the distribution of food, and places for the distribution of water, and tanks to be excavated in their names.",
+    "morphology": "sabhāḥ_sabhā_PAF prapāḥ_prapā_PAF ca_ca_U vividhāḥ_vividha_PAF taḍāgāni_taḍāga_PANe ca_ca_U pāṇḍavaḥ_pāṇḍava_SNM suhṛdām_suhṛd_PGM kārayām_kāray_SPs3In āsa_as_SPs3In sarveṣām_sarva_PANe"
+  },
+  {
+    "index": 36011,
+    "sanskrit": "sarvam bāṇaiḥ chādayānaḥ antarikṣam",
+    "english": "The entire welkin seemed to be shrouded with his arrows.",
+    "morphology": "sarvā_sarva_SNF"
+  },
+  {
+    "index": 36012,
+    "sanskrit": "alabdhaṃ caiva lipseta labdhaṃ rakṣet prayatnataḥ / rakṣitaṃ vardhayec caiva vṛddhaṃ pātreṣu nikṣipet //",
+    "english": "He shall strive to obtain what has not been obtained; what he has gained he shall preserve with care; he shall augment what has been preserved and what has been augmented he shall bestow upon suitable recipients.",
+    "morphology": "alabdham_alabdha_SANe ca_ca_ eva_eva_ lipseta_lips_SPr3O labdham_labh_SAPaNe rakṣet_rakṣ_SPr3O prayatnataḥ_prayatna_SBM  / rakṣitam_rakṣ_SAPaNe vardhayet_vardhay_SPr3O ca_ca_ eva_eva_ vṛddham_vṛdh_SAPaNe pātreṣu_pātra_PLNe nikṣipet_nik"
+  },
+  {
+    "index": 36013,
+    "sanskrit": "vārttāmātreṇa tadyāvattāvannaiva grahīṣyate /",
+    "english": "so, in the same manner, when we find a course of action, laid down in another branch of the Veda opposed to that laid down in our own Veda, the former would be capable of rejection in favour of the latter, which is more trustworthy for us.",
+    "morphology": "vārttā_vārttā_Cp mātreṇa_mātra_SINe tat_tad_SNNe yāvat_yāvat_ tāvat_tāvat_"
+  },
+  {
+    "index": 36014,
+    "sanskrit": "abhivādāt paraṃ vipro jyāyāṃsam abhivādayan / asau nāmāham asmīti svaṃ nāma parikīrtayet //",
+    "english": "The Brāhmaṇa, when greeting an elder, should, after the accosting, pronounce his name, saying this here, am named so and so, .",
+    "morphology": "abhivādāt_abhivāda_SBM param_param_ vipraḥ_vipra_SNM jyāyāṃsam_jyāyas_SAM abhivādayan_abhivāday_SNPaPrM  / asau_adas_SNM nāma_nāma_ aham_mad_SN asmi_as_SPr1In iti_iti_ svaḥ_sva_SNM nāma_nāman_SANe parikīrtayet_parikīrtay_SPr3O  /"
+  },
+  {
+    "index": 36015,
+    "sanskrit": "tadā himādriṇā prokto viśvanātho varapradaḥ | brahmaṇā saha saṃgatya viṣṇunā ca tathaiva ca || 67 || sārddhaṃ purodhasā caiva gargeṇa sumahātmanā | kanyādānaṃ karomyadya devadevasya śūlinaḥ || 68 ||",
+    "english": "67-69. Then Viśvanātha, the bestower of boons, was told by Himādri: “After due consultation with Brahmā, Viṣṇu and the noble-souled preceptor Garga, I am today performing the rite of offering the virgin to the Trident-bearing Lord of Devas, O Brāhmaṇas. May the procedural Mantras suitable for this occasion be recited.”",
+    "morphology": "tadā_tadā_ himādriṇā_himādri_SIM proktaḥ_pravac_SNPaM viśvanāthaḥ_viśvanātha_SNM vara_vara_Cp pradaḥ_prada_SNM  / brahmaṇā_brahman_SIM saha_saha_ saṃgatya_saṃgam_Co viṣṇunā_viṣṇu_SIM ca_ca_ tathā_tathā_ eva_eva_ ca_ca_  /"
+  }
+]

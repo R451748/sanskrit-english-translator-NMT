@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28280,
+    "sanskrit": "sīmā maryādā grāmādīnām /",
+    "english": "\"Boundary\" the boundaryline between villages, etc.",
+    "morphology": "sīmā_sīmā_SNF maryādā_maryādā_SNF grāma_grāma_Cp ādīnām_ādi_PGM  /"
+  },
+  {
+    "index": 28281,
+    "sanskrit": "yato nāgasvarūpeṇa sthāne'smiṃśca samāviśat | tatprabhṛtyeva deveśi nāgasthānamiti śrutam || 7 ||",
+    "english": "7. Since he entered this place in the form of a serpent, O goddess of Devas, this spot became famous as Nāgasthāna from that time onwards.",
+    "morphology": "yatas_yatas_ nāga_nāga_Cp sva_sva_Cp rūpeṇa_rūpa_SINe sthāne_sthāna_SLNe asmin_idam_SLNe ca_ca_ samāviśat_samāviś_S3ImIn  / tad_tad_Cp prabhṛti_prabhṛti_ eva_eva_ deveśi_deveśī_SVF nāgasthānam_nāgasthāna_SNNe iti_iti_ śrutam_śru_SN"
+  },
+  {
+    "index": 28282,
+    "sanskrit": "yāvaddvādaśavarṣāṇi na jalaṃ tridaśādhipaḥ | mumoca dharaṇīpṛṣṭhe sarve lokāḥ kṣudhārditāḥ || 42 ||",
+    "english": "42. The Lord of Devas did not let down showers of water on the earth for twelve years. All the people were distressed due to hunger.",
+    "morphology": "yāvat_yāvat_ dvādaśa_dvādaśan_Cp varṣāṇi_varṣa_PNNe na_na_ jalam_jala_SANe tridaśādhipaḥ_tridaśādhipa_SNM  / mumoca_muc_SPs3In dharaṇī_dharaṇī_Cp pṛṣṭhe_pṛṣṭha_SLNe sarve_sarva_PNM lokāḥ_loka_PNM kṣudhā_kṣudhā_"
+  },
+  {
+    "index": 28283,
+    "sanskrit": "sametam pārthivam kṣatram suyodhana vaśa anugam",
+    "english": "All the Kshatriyas of the world, obedient to Duryodhana's command, are assembled there.",
+    "morphology": "sametam_same_SNPaPsNe pārthivam_pārthiva_SNNe kṣatram_kṣatra_SNNe suyodhana_suyodhana_SVM vaśa_vaśa_MCp anugaḥ_anuga_SNNe"
+  },
+  {
+    "index": 28284,
+    "sanskrit": "śleṣyantāṃ kaṃkaṭā deheṣvāgacchantu padātayaḥ / gaṇyantāmāśu sainyāni kriyantāṃ varakalpanāḥ //",
+    "english": "Put on your bodies your armours of mail, and set the infantry on foot; number the regiments, and select the best warriors.",
+    "morphology": "śleṣyantām_śliṣ_PPr3ImPv kaṃkaṭāḥ_kaṅkaṭa_PNM deheṣu_deha_PLM āgacchantu_āgam_PPr3Im padātayaḥ_padāti_PNM  / gaṇyantām_gaṇay_PPr3ImPv āśu_āśu_ sainyāni_sainya_PNNe kriyantām_kṛ_PPr3ImPv vara_vara_Cp kalpanāḥ_kalpan"
+  },
+  {
+    "index": 28285,
+    "sanskrit": "prayojanoddeśena hi vṛddhā vākyāni prayuñjate / na ca siddhārthābhinirvartata iti tasya na prayogayogyatvam /",
+    "english": "The statements about existing objects do neither persuade nor dissuade persons. Therefore, these senten- ces serve no purpose. Hence, these sentences are not worthy of being used.",
+    "morphology": "prayojana_prayojana_Cp uddeśena_uddeśa_SIM hi_hi_ vṛddhāḥ_vṛddha_PNM vākyāni_vākya_PANe prayuñjate_prayuj_PPr3In  / na_na_ ca_ca_ siddhārthā_siddhārtha_SNF abhinirvartate_abhinirvṛt_SPr3In iti_iti_ tasya_tad_SGM na_na_ prayoga_prayoga_Cp "
+  },
+  {
+    "index": 28286,
+    "sanskrit": "taṃ dṛṣṭvā paramaprītāḥ prajāḥ prāhur maharṣayaḥ /",
+    "english": "Thereat delighted the great Rishis and the subjects said The king will forsooth grant us maintenances in abundance .",
+    "morphology": "tam_tad_SAM dṛṣṭvā_dṛś_Co parama_parama_Cp prītāḥ_prī_PNPaF prajāḥ_prajā_PNF prāhuḥ_prāh_PPs3In mahā_mahat_Cp ṛṣayaḥ_ṛṣi_PNM  /"
+  },
+  {
+    "index": 28287,
+    "sanskrit": "arvācīnaḥ vaso iti bhava asme iti su matsva andhasaḥ somānām indra soma pāḥ",
+    "english": "Excellent Indra, turn to us: glad thee among us with the juice Of Somas, Soma-drinker thou.",
+    "morphology": "arvācīnaḥ_arvācīna_SNM vaso_vasu_SVM iti_iti_U bhava_bhū_SPr2Im asme_mad_PL iti_iti_U su_su_U matsva_mad_SPs2Im andhasaḥ_andhas_SGNe somānām_soma_PGM indra_indra_SVM soma_soma_MCp pāḥ_pā_SNM"
+  }
+]

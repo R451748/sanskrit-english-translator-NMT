@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2240,
+    "sanskrit": "madhūcchiṣṭam iva viśadam avilepi yatra bheṣajam sa madhyamaḥ |",
+    "english": "A cooking is said to be mild (Mridu-Paka) when the oil is found to drop off entirely from its drug-paste (Kalka) leaving it dry and sapless; whereas in an act of middle-cooking (MadhyamaPaka) the paste would be found to have become pellucid and non-sticky like wax; a cooking done until the paste (in the Sneha) assumes a little clear, glossy, frothless, black colour is termed strong (KharaPaka).",
+    "morphology": "madhūcchiṣṭam_madhūcchiṣṭa_SNNe iva_iva_U viśadam_viśada_SNNe avilepi_avilepin_SNNe yatra_yatra_U bheṣajam_bheṣaja_SNNe"
+  },
+  {
+    "index": 2241,
+    "sanskrit": "tatra eṣām dhātūnām anna pāna rasaḥ prīṇayitā ||",
+    "english": "The Rasa which is originated from the digested or assimilated food and drink pre-eminently strengthens all the fundamental principles of the body.",
+    "morphology": "tatra_tatra_U eṣām_idam_PGM dhātūnām_dhātu_PGM"
+  },
+  {
+    "index": 2242,
+    "sanskrit": "sūryaḥ cakṣuḥ asuḥ vāyuḥ adbhyaḥ tu khalu śoṇitam",
+    "english": "his eye hath light for its cause; his life (motion) is of wind, and his blood is of water, without doubt.",
+    "morphology": "sūryaḥ_sūrya_SNM cakṣuḥ_cakṣus_SNNe asuḥ_asu_SNM vāyuḥ_vāyu_SNM adbhyaḥ_ap_PBF tu_tu_U khalu_khalu_U śoṇitam_śoṇita_SNNe"
+  },
+  {
+    "index": 2243,
+    "sanskrit": "āgatam vīkṣya tam nāgaṃ mattam kolena noditamtatāòa musalenāsau vajreṇendro yathā girim",
+    "english": "Seeing the maddened elephant, pressed on by Kola, charging Him, Lord Balarāma struck it with His club as Indra strikes a mountain with his thunderbolt.",
+    "morphology": "āgatam_āgam_SAPaM vīkṣya_vīkṣ_Co tam_tad_SAM nāgam_nāga_SAM mattam_mad_SAPaM"
+  },
+  {
+    "index": 2244,
+    "sanskrit": "keśiny asūta sagarād asamañjasamātmajam /",
+    "english": "Sagara begat on Keshini a son named Asmanjā.",
+    "morphology": "keśinī_keśinī_SNF asūta_sū_S3ImIn sagarāt_sagaṇḥ_SNF 55ḥ_55ḥ_SNF 55ḥ_55ḥ_SNF "
+  },
+  {
+    "index": 2245,
+    "sanskrit": "vairāgyātprakṛtilayaḥ saṃsāro bhavati rājasādrāgāt / aiśvaryādavighāto viparyayāttadviparyāsaḥ //",
+    "english": "Through nonattachment comes about the absorption into nature through passionate attachment, migration through power, unimpediment and through the reverse, its contrary.",
+    "morphology": "vairāgyāt_vairāgya_SBM prakṛti_prakṛti_Cp layaḥ_laya_SNM saṃsāraḥ_saṃsāra_SNM bhavati_bhū_SPr3In rājasāt_rājasa_SBM rāgāt_rāga_SBM  / aiśvaryāt_aiśvarya_SBNe avighātaḥ_avighāta_SNM viparyayāt_viparyaya_SBM tad_tad_Cp vipary"
+  },
+  {
+    "index": 2246,
+    "sanskrit": "utedānīṃ bhagavantaḥ syāmota prapitva uta madhye ahnām / utoditā maghavan sūryasya vayaṃ devānām̐ sumatau syāma //",
+    "english": "So may felicity be ours at present, and when the day approaches, and at noontide; And may we still, O Bounteous One, at sunset be happy in the Deities’ loving-kindness. 38",
+    "morphology": "uta_uta_ idānīm_idānīm_ bhagavantaḥ_bhagavat_PNM syāma_as_PPr1O uta_uta_ prapitve_prapitva_SLNe uta_uta_ madhye_madhya_SLNe ahnām_ahar_PGNe  / uta_uta_ uditā_uditi_SLF maghavan_maghavan_SVM sūryasya_sūrya_SGM vayam_mad_PN devānām_deva_PGM suma"
+  },
+  {
+    "index": 2247,
+    "sanskrit": "yady eṣāṃ ṣaṭ dāyādāḥ ṣaḍadāyādāḥ iti, vargadvayapratibhāgena dāyādādāyādayor anayo rikthavacanam anupapannam, saty aurase 'dāyādā iti / ādyāḥ ṣaṇ mahopakārā itare ṣaṭ nyūnā iti /",
+    "english": "If only six of the sons are \"heirs,\" and the other six are not heirs, according to the distinction into \"heirs\" and \"nonheirs\" made in , it cannot be right to declare all these to be inheritors of property. As a matter of fact, those that have been described as \"nonheirs\" are so only in the presence of the \"bodyborn\" son; all that is meant by the distinction is that the first six are larger beneficiaries than the second six.",
+    "morphology": "yadi_yadi_ eṣām_idam_PGM ṣaṭ_ṣaṣ_PNM dāyādāḥ_dāyāda_PNM ṣaṭ_ṣaṣ_PNM a_a_ dāyādāḥ_dāyāda_PNM iti_iti_ varga_varga_Cp dvaya_dvaya_Cp pratibhāgena_pratibhāga_SIM dāyāda_dāyāda_Cp a_a_ dāyādayoḥ_dāyāda_DuGM anayoḥ"
+  }
+]

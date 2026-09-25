@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46440,
+    "sanskrit": "atha hiraṇyamādāya śālāmabhyaiti /",
+    "english": "Thereupon, taking some gold, (the sacrificer)goes to the hall.",
+    "morphology": "atha_atha_ ḥ_ḥ_SNM ḥ_ḥ_SNM"
+  },
+  {
+    "index": 46441,
+    "sanskrit": "ityuktaṃ /",
+    "english": "Thus, this is V.",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 46442,
+    "sanskrit": "api ca bahirbhāvasya gṛhābhāvaṃ vinā 'nupapattir ity ukte tasmin sati tasyopapattir vaktavyā / sā ca kā kim utpattiḥ jñaptir vā yadi jñaptih sā cānumāne 'pi / gamyaṃ gamakaṃ vinā nāsti tasmin saty astīti samānaḥ panthāḥ /",
+    "english": "Does not this statement amount to this that the knowledge of invariable concomitance precedes presumption? If they say that the presence of a living person outside is impossible without his absence from house then they should also admit that if he is absent from his house then he is surely present outside his house. What is the nature of this impossibility? If it is logical impossibility then the so-called presumption is no better than inference since the latter thought- process moves in a similar manner.",
+    "morphology": "api_api_ ca_ca_ bahirbhāvasya_bahirbhāva_SGM gṛha_gṛha_Cp abhāvam_abhāva_SAM vinā_vinā_ anupapattiḥ_anupapatti_SNF iti_iti_ ukte_vac_SLPaNe tasmin_tad_SLNe sati_as_SLPaPrNe tasya_tad_SGNe upapattiḥ_upapatti_SNF vaktavyā_vac_SNFGd  / sā_tad_"
+  },
+  {
+    "index": 46443,
+    "sanskrit": "merurāste kathamaṇau kutaḥ kiṃcidanākṛtau / tadatadrūpayoraikyaṃ kva cchāyātapayoriva //",
+    "english": "How can an atom contain a hill, or anything subsist in nothing? The union of a similar with its dissimilar, is as impossible as that of shadow with the light of the sun.",
+    "morphology": "meruḥ_meru_SNM āste_ās_SPr3In katham_katham_ aṇau_aṇu_SLM kutas_kutas_ kiṃcid_kaścit_SNNe anākṛtau_anākṛti_SLF  / tad_tad_Cp aḥ_aḥ_SNM ā_ā_ āḥ_aḥ_SNM ā_ā_"
+  },
+  {
+    "index": 46444,
+    "sanskrit": "tejasā vapuṣā ca eva gāvaḥ vahni samāḥ bhuvi",
+    "english": "On earth, kine resemble fire in energy and form.",
+    "morphology": "tejasā_tejas_SINe vapuṣā_vapus_SINe ca_ca_U"
+  },
+  {
+    "index": 46445,
+    "sanskrit": "sakr̥t ha dyauḥ ajāyata sakr̥t bhūmiḥ ajāyata pr̥śnyāḥ dugdham sakr̥t payaḥ tat anyaḥ na anu jāyate",
+    "english": "Once, only once, the heaven was made, once only once, the earth was formed- Once, only Pr̥iṣni's milk was shed: no second, after this, is born.",
+    "morphology": "sakrāt_sakrāt_U ha_ha_U dyauḥ_div_SNM ajāyata_jan_SPs3In sakrāt_sakrāt_U bhūmiḥ_bhūmi_SNF ajāyata_jan_SPs3In prīśnyāḥ_prīṇī_SGF dugdham_duh_SNPaPsNe sakrāt_sakrāt_U payaḥ_payas_SNNe tatī_tad_SIF āhā_āhā_SPs3In āhāā_āhā_S"
+  },
+  {
+    "index": 46446,
+    "sanskrit": "tava janmavratādasmādviṣṇusaṃtuṣṭikārakāt | na yajñā na ca dānāni na tīrthānyadhikāni vai || 26 ||",
+    "english": "26. Neither Yajñas nor charitable gifts, nor Tīrthas are superior to the Vratas performed by you ever since your birth, as the Vratas give satisfaction to Viṣṇu.",
+    "morphology": "tava_tvad_SG janma_janman_Cp vratāt_vrata_SBNe asmāt_idam_SBNe viṣṇu_viṣṇu_Cp saṃtuṣṭi_saṃtuṣṭi_Cp kārakāt_kāraka_SBNe  / na_na_ yajñāḥ_yajña_PNM na_na_ ca_ca_ dānāni_dāna_PNNe na_na_ tīrthāni_tīrtha_PNNe adhikāni_adhik"
+  },
+  {
+    "index": 46447,
+    "sanskrit": "kamaṃḍalūdakaiḥ siktvā muninā'śvāsitā tadā | svabhartṛbhāle sā bhālaṃ kṛtvā dīnā ruroda ha || 18 ||",
+    "english": "18. After sprinkling her with the waters from his water pot the sage consoled her. Placing her forehead upon the forehead of her husband, she cried piteously.",
+    "morphology": "kamaṃḍalu_kamaṇḍalu_Cp udakaiḥ_udaka_PINe siktvā_sic_Co muninā_muni_SIM aśvāsitā_aśvāsita_SNF tadā_tadā_  / sva_sva_Cp bhartṛ_bhartṛ_Cp bhāle_bhāla_SLM sā_tad_SNF bhālam_bhāla_SAM kṛtvā_kṛ_Co dīnā_dīna_SNF"
+  }
+]

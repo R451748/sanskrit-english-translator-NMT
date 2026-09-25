@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45000,
+    "sanskrit": "utprekṣate hi yaḥ mohāt ajātam api bādhakam | sa sarva vyavahāreṣu saṃśaya ātmā kṣayam vrajet ||",
+    "english": "If the man, through stupidity, should imagine the existence of the sublating cognition, even when none has come about,—he would be beset with doubts in all his dealings and would be landed in utter ruin.”",
+    "morphology": "utprekṣate_utprekṣ_SPr3In hi_hi_U yaḥ_yad_SNM mohāt_moha_SBM ajātam_ajāta_SAM api_api_U bādhakam_bādhaka_SAM  / sa_tad_SNM sarva_sarva_Cp vyavahāreṣu_vyavahāra_PLM saṃśaya_saṃśaya_MCp ātmā_ātman_SNM kṣayaḥ_kṣaya_SNM vrajet_vra"
+  },
+  {
+    "index": 45001,
+    "sanskrit": "paidvasya manmahe vayam sthirasya sthira dhāmnaḥ / ime paścā pṛdākavaḥ pradīdhyataḥ āsate /",
+    "english": "We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behind our backs the vipers here crouch down and lie in wait for us.",
+    "morphology": "paidvasya_paidva_SGM manmahe_man_PPr1In vayam_mad_PN sthirasya_sthira_SGM sthira_sthira_Cp dhāmnaḥ_dhāman_SGM  / ime_idam_PNM paścā_paścā_U pṛdākavaḥ_pṛdāku_PNM pradīdhyataḥ_pradhī_PNPaPrM"
+  },
+  {
+    "index": 45002,
+    "sanskrit": "so 'rcito vidhivad rājñā prahṛṣṭenedam abravīt / manmukhenedam ādiṣṭaṃ svayaṃ devena śaṃbhunā // api śakraśatān mābhūd bhayaṃ vo matprasādataḥ / sūryaprabhaś cakravartī bhavitaiva dyucāriṇām //",
+    "english": "He was honoured duly by the delighted king, and said: “The god Śiva himself sends this command by me: ‘Through my favour thou needst not fear even a hundred Indras; Sūryaprabha shall become emperor of the sky-goers.’” After he had delivered this message, Nandin received a portion of the offering and disappeared with the hosts of Bhūtas.",
+    "morphology": "saḥ_tad_SNM arcitaḥ_arcay_SNPaM vidhivat_vidhivat_ rājñā_rājan_SIM prahṛṣṭena_prahṛṣ_SIPaM idam_idam_SANe abravīt_brū_S3ImIn  / mad_mad_Cp mukhena_mukha_SINe idam_idam_SNNe ādiṣṭam_ādiś_SNPaNe svayam_svayam_ devena_deva_SIM śa"
+  },
+  {
+    "index": 45003,
+    "sanskrit": "aśvamedhasahasrāṇāṃ phalaṃ hyavikalaṃ labhet | bhajeccenniyamastho hi bhaktimāndṛḍhamānasaḥ || 16 ||",
+    "english": "Even if a man is no devotee but views him as a blind follower, he shall obtain full merit of thousands of horse-sacrifices.",
+    "morphology": "aśvamedha_aśvamedha_Cp sahasrāṇām_sahasra_PGNe phalam_phala_SANe hi_hi_ avikalam_avikala_SANe labhet_labh_SPr3O  / bhajet_bhaj_SPr3O ced_ced_ niyama_niyama_Cp sthaḥ_stha_SNM hi_hi_ bhaktimān_bhaktimat_SNM dṛḍha_dṛḍha_Cp mānasaḥ_mānasa_"
+  },
+  {
+    "index": 45004,
+    "sanskrit": "abhisampratyayena yuktinidhyānajena niścayeneti yāvat / pramāṇasiddhaevārthe 'bhisampratyayasya yujyamānatvāt /",
+    "english": "The confidence born of well-ascertained notions obtained by means of the due pondering over reasons; as it is in things thus ascertained through proofs that people have confidence, not in anything else;",
+    "morphology": "abhisampratyayena_abhisampratyaya_SIM yukti_yukti_Cp nidhyāna_nidhyāna_Cp jena_ja_SIM niścayena_niścaya_SIM iti_iti_ yāvat_yāvat_  / pramāṇa_pramāṇa_Cp siddha_sidh_PaCp eva_eva_ arthe_artha_SLM abhisampratyayaḥ_abhisampratyaya_SNM"
+  },
+  {
+    "index": 45005,
+    "sanskrit": "hiraṇyeṣṭakā upadadhātīmān evaitābhir lokāñ jyotiṣmataḥ kurute 'tho etābhir evāsmā ime lokāḥ pra bhānti yās te agne sūrye ruca udyato divam ātanvanti raśmibhiḥ |",
+    "english": "verily he makes these worlds full of light by means of them; verily also by them these worlds shine forth for him. Those flames of thine, O Agni, which rising in the sun, With rays envelop the sky, With all of them bring us to brilliance, to man.",
+    "morphology": "hiraṇyeṣṭakāḥ_hiraṇyeṣṭakā_PAF upadadhāti_upadhā_SPr3In imān_idam_PAM eva_eva_ etābhiḥ_etad_PIF lokān_loka_PAM jyotiṣmataḥ_jyotiṣmat_PAM kurute_kṛ_SPr3In atha_atha_ u_u_ etābhiḥ_etad_PIF eva_eva_ asmai_idam_SDM ime_idam_PN"
+  },
+  {
+    "index": 45006,
+    "sanskrit": "parihāṇistridhā jñeyā prāptāprāptopabhogataḥ /",
+    "english": "There are three types of falling away: from that which is acquired, from that which has not yet been acquired, and from fruition.",
+    "morphology": "parihāṇiḥ_parihāṇi_SNF tridhā_tridhā_ jñeyā_jñā_SNFGd prāpta_prāp_PaCp a_a_ prāpta_prāp_PaCp upabhogataḥ_upabhoga_SBM"
+  },
+  {
+    "index": 45007,
+    "sanskrit": "bharatena nataścāgād ayodhyāntatra saṃsthitaḥ //",
+    "english": "Being revered by Bharata there, he reached Ayodhyā and settled there.",
+    "morphology": "bharatena_bharata_SIM nataḥ_nam_SNPaM ca_ca_ agāt_gā_SPs3In ayodhyān_ayodhyā_PAF"
+  }
+]

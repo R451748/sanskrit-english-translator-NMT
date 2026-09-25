@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40880,
+    "sanskrit": "savarṇāsu tu jātānām samān bhāgān prakalpayet",
+    "english": "All the sons that are born of the same mother or of mothers of the same order, shall share equally the portion that is theirs.",
+    "morphology": "savarṇāsu_savarṇa_PLF tu_tu_U jātānām_jan_PGPaPsF"
+  },
+  {
+    "index": 40881,
+    "sanskrit": "a hatvā sindhurājam hi dhūmaketum pravekṣyati",
+    "english": "If he fails to slay the ruler of the Sindhus tomorrow, he will certainly enter into blazing fire.",
+    "morphology": "a_a_U"
+  },
+  {
+    "index": 40882,
+    "sanskrit": "atas na veda vākyānām pāratantryāt pramāṇa tā | apaśyatām svayam dharmam vaktṝṇām api nā eva sā || tat īdṛśām pravaktṝṇām kalpyamānā api anādi tā | aprāmāṇya pada stha tvāt nāstika ādeḥ na bhidyate || tad ajñāta tad ajñāna viśeṣa tvāt sarvam yāti atra tulya tām | na māna tva apramāṇa tve syātām evam anādinī ||",
+    "english": "In this way, the Vedic sentences, being dependent upon other things, cannot be reliable.—As regards the expounders, as they do not themselves perceive dharma, these also can never be reliable. Of such expounders, even though beginninglessness may be postulated, it would be in a position that is not reliable; and hence it would not be different in character from the beginninglessness of the unbelievers and others. Thus there being no difference discernible, all this comes to be on the same footing; so that neither reliability nor unreliability would be beginningless",
+    "morphology": "atas_atas_U na_na_U veda_veda_MCp vākyānām_vākya_PGNe pāratantryāt_pāratantrya_SBNe pramāṇa_pramāṇa_NeCp tā_tā_SNF  / apaśyatām_apaśyat_PGM svayam_svayam_U dharmam_dharma_SAM vaktṝṇām_vaktṛ_PGM api_api_U nā_nṛ_SNM eva_eva_U sā_"
+  },
+  {
+    "index": 40883,
+    "sanskrit": "raktāṃ gāṃ ca tato dadyādraktenānaḍuhā saha | prīyatāṃ bhūmijo devaḥ sarvadaivatapūjitaḥ || 20 ||",
+    "english": "20-26. A red cow along with a red bull should be gifted to him while uttering the Mantra, “May the deity, the son of Earth, who is venerated by all Devas, be pleased.”",
+    "morphology": "raktām_rakta_SAF gām_go_SAF ca_ca_ tatas_tatas_ dadyāt_dā_SPr3O raktena_rakta_SIM anaḍuhā_anaḍuh_SIM saha_saha_  / prīyatām_prī_SPr3ImPv bhūmijaḥ_bhūmija_SNM devaḥ_deva_SNM sarva_sarva_Cp daivata_daivata_Cp pūjitaḥ_pūjay_SNPaM"
+  },
+  {
+    "index": 40884,
+    "sanskrit": "gṛhī vadānyaḥ anapaviddha vākyaḥ",
+    "english": "He that accepts the teaching of the wise;",
+    "morphology": "gṛhī_gṛhin_SNM"
+  },
+  {
+    "index": 40885,
+    "sanskrit": "paropajāpāt svacchidrarakṣaṇaṃ mahāprayojanam ity etad anenāha //",
+    "english": "The guarding of one\" s own weak points against the enemy\" s approaches is highly important;this is what is meant by the present verse0.",
+    "morphology": "para_para_Cp upajāpāt_upajāpa_SBM sva_sva_Cp chidra_chidra_Cp rakṣaṇam_rakṣaṇa_SNNe mahā_mahat_Cp prayojanam_prayojana_SNNe iti_iti_"
+  },
+  {
+    "index": 40886,
+    "sanskrit": "caturasyaṃ brāhmaṇasya vṛttaṃ rājñaś ca śuklakaṃ //",
+    "english": "An umbrella of a brahmin should be of square shape and that of a king should be circular and white.",
+    "morphology": "caturasyaḥ_caturasya_SNM brāhmaṇasya_brāhmaṇa_SGM vṛttaḥ_vṛtta_SNM rājñaḥ_rājan_SGM ca_ca_ śuklakaḥ_śuklaka_SNM  /"
+  },
+  {
+    "index": 40887,
+    "sanskrit": "evam ca mām upasthāya kasmāt ca vidhinā arhaṇām praṇītām naḥ na gṛhṇīta kāryam kim ca asmad āgame evam uktaḥ tatas kṛṣṇaḥ pratyuvāca mahāmanāḥ",
+    "english": "Arrived here by such an improper way, why accept ye not the worship I offer? What is your motive for coming to me? Thus addressed by the king, the high-souled Krishna, well-skilled in speech, thus replied unto the monarch in a calm and grave voice.",
+    "morphology": "evam_evam_U ca_ca_U mām_mad_SA upasthāya_upasthā_Co kasmāt_kasmāt_U ca_ca_U vidhinā_vidhi_SIM arhaṇām_arhaṇā_SAF praṇītām_praṇī_SAPaPsF naḥ_mad_PG na_na_U gṛhṇīta_grah_SPr3O kāryam_kārya_SANe kim_ka_SNNe ca_ca_U asmad_mad_Cp āg"
+  }
+]

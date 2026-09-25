@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38752,
+    "sanskrit": "daityānām ādipuruṣaḥ surāriḥ diti nandanaḥ dṛṣṭvā ca apūrva vapuṣam krodhāt saṃrakta locanaḥ",
+    "english": "That progenitor of the Daityas, the son of Diti, who was the enemy of the (gods), beholding the Lord's peculiar form, burst out into passion and his eyes became inflamed with rage.",
+    "morphology": "daityānām_daitya_PGM ādipuruṣaḥ_ādipuruṣa_SNM surāriḥ_surāri_SNM diti_diti_FCp nandanaḥ_nandana_SNM dṛṣṭvā_dṛś_Co ca_ca_U apūrva_apūrva_Cp vapuṣam_vapuṣa_SAM krodhāt_krodha_SBM saṃrakta_saṃrañj_PaPsCp locanaḥ_locana_"
+  },
+  {
+    "index": 38753,
+    "sanskrit": "kati indriyāṇi vipra ṛṣe kati prakṛtayaḥ smṛtāḥ kim avyaktam param brahma tasmāt ca paratas tu kim prabhavam ca apyayam ca eva kāla saṃkhyām tathā eva ca",
+    "english": "\"'Janaka said, 'O regenerate Rishi, how many kinds of senses are there? How many kinds also are there of Prakriti? What is the Unmanifest and highest Brahma? What is higher than Brahma? What is birth and what is death? What are the limits of Age? It behoveth thee, O foremost of Brahmanas, to discourse on all these topics unto me that am solicitous of obtaining thy grace;",
+    "morphology": "kati_kati_U indriyāṇi_indriya_PNNe vipra_vipra_MCp ṛṣe_ṛṣi_SVM kati_kati_U prakṛtayaḥ_prakṛti_PNF smṛtāḥ_smṛ_PNPaPsF kim_ka_SNNe avyaktam_avyakta_SNNe param_para_SNNe brahma_brahman_SNNe tasmāt_tad_SBNe ca_ca_U paratas_paratas_U tu"
+  },
+  {
+    "index": 38754,
+    "sanskrit": "adya kaccidaduḥkhastvaṃ kaccidviśrāntavānasi / parame kāraṇe merāviva bhūmaṇḍalādhipaḥ //",
+    "english": "But let me ask, are you not placed beyond the reach of sorrow, and set in your rest and tranquillity; and are you situated in the supreme cause of all, and as firmly as if you were seated upon the unshaken rock of Meru?",
+    "morphology": "adya_adya_ kaccit_kaccit_ aduḥkhaḥ_aduḥkha_SNM tvam_tvad_SN kaccit_kaccit_ viśrāntavān_viśram_SNPaM asi_as_SPr2In  / parame_parama_SLNe kāraṇe_kāraṇa_SLNe merau_meru_SLM iva_iva_ bhū_bhū_Cp maṇḍala_maṇḍala_Cp adhipaḥ_adhipa_SNM "
+  },
+  {
+    "index": 38755,
+    "sanskrit": "apāgne 'gnim āmādaṃ jahi niṣ kravyādaṃ sedhā devayajaṃ vaha nirdagdhaṃ rakṣo nirdagdhā arātayas |",
+    "english": "O Agni, drive off the fire that eats raw flesh, send away the corpse-eating one, bring hither the fire that sacrifices to the gods. The Raksas is burnt, the evil spirits are burnt.",
+    "morphology": "apa_apa_ agne_agni_SVM agnim_agni_SAM āma_āma_Cp adam_ad_SAM jahi_han_SPr2Im niḥ_niḥ_ kravya_kravya_Cp adam_ad_SAM sedha_sidh_SPr2Im deva_deva_Cp yajam_yaj_SAM vaha_vah_SPr2Im nirdagdham_nirdah_SNPaNe rakṣaḥ_rakṣas_SNNe nirdagdhāḥ_nirdah_PNP"
+  },
+  {
+    "index": 38756,
+    "sanskrit": "kiṃ punar aghreyam / na hi bhakṣaṇapratiṣedhavat ghrāṇapratiṣedhaḥ kvacid asti /",
+    "english": "What is it that should not be smelt? There is no prohibition of the smelling of anything, as there is of eating.",
+    "morphology": "kim_ka_SNNe punar_punar_ aghreyam_aghreya_SNNe  / na_na_ hi_hi_ bhakṣaṇa_bhakṣaṇa_Cp pratiṣedha_pratiṣedha_Cp vat_vat_ ghrāṇa_ghrāṇa_Cp pratiṣedhaḥ_pratiṣedha_SNM kvacid_kvacid_ asti_as_SPr3In  /"
+  },
+  {
+    "index": 38757,
+    "sanskrit": "mahat bhayam ca bhūtānām sarveṣām samajāyata",
+    "english": "and all living creatures became inspired with great dread.",
+    "morphology": "mahat_mahat_SNNe bhayam_bhaya_SNNe ca_ca_U bhūtānām_bhūta_PGNe sarveṣām_sarva_PGNe samajāyata_saṃjan_SPs3In"
+  },
+  {
+    "index": 38758,
+    "sanskrit": "naiṣṭhikānnāśanādbhūyo nivṛtto rogavānsadā | patnībahutve tvekasyāṃ retomokṣaḥ kṣayī bhavet || 14 ||",
+    "english": "14. A person who takes a life-long vow of not taking rice etc. and retracts the same, shall always be a chronic patient. A person who, in spite of having (married) many wives (neglects them) and emits semen only in (i.e. enjoys) one wife shall become a consumptive patient.",
+    "morphology": "naiṣṭhika_naiṣṭhika_Cp anna_anna_Cp aśanāt_aśana_SBNe bhūyas_bhūyas_ nivṛttaḥ_nivṛt_SNPaM rogavān_rogavat_SNM sadā_sadā_  / patnī_patnī_Cp bahutve_bahutva_SLNe tu_tu_ ekasyām_eka_SLF retaḥ_retas_Cp mokṣaḥ_mokṣa_SNM kṣayī"
+  },
+  {
+    "index": 38759,
+    "sanskrit": "dṛṣṭāni dharmasthānāni viśrāmyāmyadhunā sakhi / ityakṣamālāṃ jvalane cikṣepoktvā śikhidhvajaḥ //",
+    "english": "And though I have travelled with you, Oh my reliquary! and seen many holy places in thy company; but as you proved of no good to me, I now resign you to the flames.",
+    "morphology": "dṛṣṭāni_dṛś_PAPaNe dharma_dharma_Cp sthānāni_sthāna_PANe viśrāmyāmi_viśram_SPr1In adhunā_adhunā_ sakhi_sakhī_SVF  / iti_iti_ akṣamālām_akṣamālā_SAF jvalane_jvalana_SLM cikṣepa_kṣip_SPs3In uktvā_vac_Co śikhidhvajaḥ_śikhi"
+  }
+]

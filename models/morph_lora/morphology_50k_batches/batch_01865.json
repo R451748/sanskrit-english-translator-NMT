@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14912,
+    "sanskrit": "sa pañcalavaṇaḥ kṣāraḥ sa kṣaudraḥ pratisāraṇam",
+    "english": "In an acute case of Danta-Pupputaka, the gums should be first bled and then rubbed (Prati-sarana) with the five officinal kinds of salt and Yava-Kshara mixed with honey.",
+    "morphology": "sa_tad_SNM pañcalavaṇaḥ_pañcalavaṇa_SNM kṣāraḥ_kṣāra_SNM sa_tad_SNM kṣaudraḥ_kṣaudra_SNM pratisāraṇam_pratisāraṇa_SNNe"
+  },
+  {
+    "index": 14913,
+    "sanskrit": "aho dhṛtiraho sattvamaho sattvahitaiṣitā / pratyakṣamapi karmedaṃ karotīva vicāraṇām //",
+    "english": "What a constancy! What a goodness and a longing for the good of the creatures! Though witnessed the fact, can scarcely believe it.",
+    "morphology": "aho_aho_ dhṛtiḥ_dhṛti_SNF aho_aho_ sattvam_sattva_SNNe aho_aho_ sattva_sattva_Cp hita_hita_Cp eṣitā_eṣay_SNPaF  / pratyakṣam_pratyakṣa_SNNe api_api_ karma_karman_SNNe idam_idam_SNNe karoti_kṛ_SPr3In iva_iva_ vicāraṇām_vicāraṇā_SAF "
+  },
+  {
+    "index": 14914,
+    "sanskrit": "aṣṭa aṅgula āyatā madhye sūtreṇa pariveṣṭitā aṅguṣṭha parva samitā vaktrayoḥ mukula ākṛtiḥ",
+    "english": "The Shalaka (rod) should be made to measure eight fingers in length, its middle part being covered with strings of thread and resembling the upper section of the thumb in circumference and its ends terminating in the form of a bud.",
+    "morphology": "aṣṭa_aṣṭan_Cp aṅgula_aṅgula_MCp āyatā_āyam_SNPaPsF madhye_madhya_SLNe sūtreṇa_sūtra_SINe pariveṣṭitā_pariveṣṭay_SNPaPsF aṅguṣṭha_aṅguṣṭha_MCp parva_parvan_NeCp samitā_sami_SNPaPsF vaktrayoḥ_vaktra_DuLNe mukula_muk"
+  },
+  {
+    "index": 14915,
+    "sanskrit": "tataḥ paramato jñānajanmaśaktiparikṣayāt /",
+    "english": "After that the Veda’s capacity to bring about cognitions would cease;",
+    "morphology": "tatas_tatas_ param_param_ atas_atas_ jñāna_jñāna_Cp janma_janman_Cp śakti_śakti_Cp parikṣayāt_parikṣaya_SBM  /"
+  },
+  {
+    "index": 14916,
+    "sanskrit": "kapha pitta vasā majja medobhiḥ anvitaḥ vāyuḥ vāta pramehān",
+    "english": "The deranged Pitta, in conjunction with the deranged Vayu, blood, fat and Kapha, produces the Pittaja ones; while the deranged Vayu, in unison with the deranged Kapha, Pitta, fat, marrow and Vasa (myosin), engenders the types of Vataja Prameha.",
+    "morphology": "kapha_kapha_MCp pitta_pitta_NeCp vasā_vasā_FCp majja_majjan_MCp medobhiḥ_medas_PINe anvitaḥ_anvita_SNM vāyuḥ_vāyu_SNM vāta_vāta_MCp pramehān_prameha_PAM"
+  },
+  {
+    "index": 14917,
+    "sanskrit": "tam apaśyāma saṃnaddham megham vidyut prabham yathā",
+    "english": "Accoutred in mail, he looked like a mass of clouds charged with lightning.",
+    "morphology": "tam_tad_SAM apaśyāma_paś_PPs1In saṃnaddham_saṃnah_SAPaPsM megham_megha_SAM vidyut_vidyut_FCp prabham_prabhā_SAM yathā_yathā_U"
+  },
+  {
+    "index": 14918,
+    "sanskrit": "yāvān aṃśa ūḍhayoḥ iti cet, tatrāpi noḍhāgrahaṇaṃ na liṅgaṃ vacanaṃ nāsti /",
+    "english": "It might be asserted thatTheir share shall be the same as that of the sons of married wives; since there is no word, either directly or indirectly indicative of the fact that the mothers shall be married wives.",
+    "morphology": "yāvān_yāvat_SNM aṃśaḥ_aṃśa_SNM ūḍhayoḥ_vah_DuGPaF iti_iti_ ced_ced_ tatra_tatra_ api_api_ na_na_ ūḍhā_ūḍhā_Cp grahaṇam_grahaṇa_SNNe na_na_ liṅgam_liṅga_SNNe vacanam_vacana_SNNe na_na_ asti_as_SPr3In  /"
+  },
+  {
+    "index": 14919,
+    "sanskrit": "tatra snātvā mahādevi vidhidṛṣṭena karmaṇā | prāpnuyādaśvamedhasya phalaṃ śataguṇottaram || 4 ||",
+    "english": "4. By taking bath therein, O great goddess, and by performing rites laid down by injunctions, one will acquire the benefit of a horse-sacrifice more than a hundred times thereof.",
+    "morphology": "tatra_tatra_ snātvā_snā_Co mahādevi_mahādevī_SVF vidhi_vidhi_Cp dṛṣṭena_dṛś_SIPaNe karmaṇā_karman_SINe  / prāpnuyāt_prāp_SPr3O aśvamedhasya_aśvamedha_SGM phalam_phala_SANe śataguṇa_śataguṇa_Cp uttaram_uttara_SANe  /"
+  }
+]

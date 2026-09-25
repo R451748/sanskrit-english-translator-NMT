@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11704,
+    "sanskrit": "tadetanna varṇayanti /",
+    "english": "The Vaibhāṣikas do not accept this opinion, because it is illogical.",
+    "morphology": "tat_tad_SANe etat_etad_SANe na_na_"
+  },
+  {
+    "index": 11705,
+    "sanskrit": "gṛhītvā kīcakam bhīmaḥ virurāva mahā balaḥ śārdūlaḥ piśita ākāṅkṣī gṛhītvā iva mahā mṛgam",
+    "english": "And having seized Kichaka, the mighty 'Bhima began to roar like a hungry tiger that hath killed a large animal.",
+    "morphology": "gṛhītvā_grah_Co kīcakam_kīcaka_SAM bhīmaḥ_bhīma_SNM virurāva_viru_SPs3In mahā_mahat_Cp balaḥ_bala_SNM śārdūlaḥ_śārdūla_SNM piśita_piśita_NeCp ākāṅkṣī_ākāṅkṣin_SNM gṛhītvā_grah_Co iva_iva_U mahā_mahat_Cp mṛgam_m"
+  },
+  {
+    "index": 11706,
+    "sanskrit": "atha lopaṃ samāpannaḥ prāsādaḥ śāṃkaraḥ sthitaḥ | kālena mahatā devi pāṃsubhirmārutodbhavaiḥ || 6 ||",
+    "english": "6. Then the palatial temple of Śiva began to get buried, O goddess, in the course of a long time under dust particles raised by the wind.",
+    "morphology": "atha_atha_ lopam_lopa_SAM samāpannaḥ_samāpad_SNPaM prāsādaḥ_prāsāda_SNM śāṃkaraḥ_śāṃkara_SNM sthitaḥ_sthā_SNPaM  / kālena_kāla_SIM mahatā_mahat_SIM devi_devī_SVF pāṃsubhiḥ_pāṃsu_PIM māruta_māruta_Cp udbhavaiḥ_udbhava_"
+  },
+  {
+    "index": 11707,
+    "sanskrit": "pariśrāntaḥ yadā āsīt sa dadat dānāni anekaśas",
+    "english": "At last when he became tired with the task of making gifts in such profusion, that great Gift-sacrifice carne to an end.",
+    "morphology": "pariśrāntaḥ_pariśram_SNPaPsM yadā_yadā_U āsīt_as_SPs3In"
+  },
+  {
+    "index": 11708,
+    "sanskrit": "nānā varṇa vicitrābhiḥ patākābhiḥ alaṃkṛtaiḥ vara cāpa dharāḥ vīrāḥ vicitra kavaca dhvajāḥ viviśuḥ te param sainyam siṃhāḥ iva vanāt vanam",
+    "english": "On their cars that resembled (fortified) towns, unto which were yoked steeds decked with ornaments, and which were graced with beautiful standards of variegated hue, those heroes wielding excellent bows and cased in beautiful coats of mail and owning excellent standards, entered the hostile army like lions entering one forest from another.",
+    "morphology": "nānā_nānā_U varṇa_varṇa_MCp vicitrābhiḥ_vicitra_PIF patākābhiḥ_patākā_PIF alaṃkṛtaiḥ_alaṃkṛ_PIPaPsM vara_vara_Cp cāpa_cāpa_MCp dharāḥ_dhara_PNM vīrāḥ_vīra_PNM vicitra_vicitra_Cp kavaca_kavaca_MCp dhvajāḥ_dhvaja_PNM v"
+  },
+  {
+    "index": 11709,
+    "sanskrit": "asau bhimaḥ mahā bāhuḥ saṃnivṛttaḥ camū mukhe vṛtaḥ sṛñjaya sainyena sātyakena ca bhārata",
+    "english": "There, the mighty-armed Bhima, having returned, is stationed at the head of the army, supported by the Srinjayas and by Satyaki, O Bharata.",
+    "morphology": "asau_adas_SNM bhimaḥ_bhima_SNM mahā_mahat_Cp bāhuḥ_bāhu_SNM saṃnivṛttaḥ_saṃnivṛt_SNPaPsM camū_camū_FCp mukhe_mukha_SLNe vṛtaḥ_vṛ_SNPaPsM sṛñjaya_sṛñjaya_MCp sainyena_sainya_SINe sātyakena_sātyaka_SIM ca_ca_U bhārata_bhāra"
+  },
+  {
+    "index": 11710,
+    "sanskrit": "tasmin samutthite śabde tumule loma harṣaṇe bhīmasenaḥ mahā bāhuḥ prāṇadat go vṛṣaḥ yathā",
+    "english": "And when that din, loud and causing the hair to stand on end, arose, the mighty-armed Bhimasena began to roar like a bull.",
+    "morphology": "tasmin_tad_SLM samutthite_samutthā_SLPaPsM śabde_śabda_SLM tumule_tumula_SLM loma_loman_NeCp harṣaṇe_harṣaṇa_SLM bhīmasenaḥ_bhīmasena_SNM mahā_mahat_Cp bāhuḥ_bāhu_SNM prāṇadat_praṇad_SPs3In go_go_MCp vṛṣaḥ_vṛṣa_SNM yathā"
+  },
+  {
+    "index": 11711,
+    "sanskrit": "śikyacchedākṣabhaṅgeṣu bhūyas tv āropayen naram /",
+    "english": "In case of the strings bursting, or of the splitting of the transverse beam, the man should be placed in the scale once more. Thus the facts will be ascertained positively, and a just sentence be the result.",
+    "morphology": "śikya_śikya_Cp cheda_cheda_Cp akṣa_akṣa_Cp bhaṅgeṣu_bhaṅga_PLM bhūyas_bhūyas_ tu_tu_ āropayet_āropay_SPr3O"
+  }
+]

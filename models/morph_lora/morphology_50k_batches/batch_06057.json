@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48448,
+    "sanskrit": "tava rājan ripu bale kāla vat pracariṣyati",
+    "english": "He, O monarch, will roam amid thy enemy's troops like Death himself.",
+    "morphology": "tava_tvad_SG rājan_rājan_SVM"
+  },
+  {
+    "index": 48449,
+    "sanskrit": "arthasya dūṣaṇaṃ krodhāt pāruṣyaṃ vākyadaṇḍayoḥ / kāmajaṃ mṛgayā dyūtaṃ vyasanaṃ pānakaṃ striyaḥ //",
+    "english": "Lavish spending of money, inflicting harsh words and punishment on account of anger, due to lust, hunting, gambling, drinking and women are the vices of a king.",
+    "morphology": "arthasya_artha_SGM dūṣaṇam_dūṣaṇa_SNNe krodhāt_krodha_SBM pāruṣyam_pāruṣya_SNNe vākya_vākya_Cp daṇḍayoḥ_daṇḍa_DuGM  / kāma_kāma_Cp jam_ja_SNNe mṛgayā_mṛgayā_SNF dyūtam_dyūta_SNNe vyasanam_vyasana_SNNe pānakam_pānaka"
+  },
+  {
+    "index": 48450,
+    "sanskrit": "kāmaṃ sarvopyalaṃkāro rasamartha niṣiñcati | tathāpyagrāmyataivainaṃ bhāraṃ vahati bhūyasā ||",
+    "english": "62 ] The Kävyādarśa of Dandin Granted that each and every figure imbues the sense with Sentiment;",
+    "morphology": "kāmam_kāmam_ sarvaḥ_sarva_SNM api_api_ alaṃkāraḥ_alaṃkāra_SNM rasam_rasa_SAM artha_artha_SVM niṣiñcati_niṣic_SPr3In  / tathā_tathā_ api_api_ agrāmyatā_agrāmyatā_SNF eva_eva_ enam_enad_SAM bhāram_bhāra_SAM vahati_vah_SPr3In bhūyas"
+  },
+  {
+    "index": 48451,
+    "sanskrit": "jyeṣṭhastu sāyako jñeyo bhaveddvādaśamuṣṭayaḥ / ekādaśa tathā kanīyāndaśamuṣṭayaḥ //",
+    "english": "The superior kind of arrow is known to be twelve muṣṭis, the mediocre of eleven muṣṭis and the inferior one of ten muṣṭis.",
+    "morphology": "jyeṣṭhaḥ_jyeṣṭha_SNM tu_tu_ sāyakaḥ_sāyaka_SNM jñeyaḥ_jñā_SNMGd bhavet_bhū_SPr3O dvādaśa_dvādaśan_Cp muṣṭayaḥ_muṣṭi_PNM  / ekādaśa_ekādaśan_SNNe tathā_tathā_ kanīyāḥ_kanīyas_SNM daśa_daśan_Cp muṣṭayaḥ_mu"
+  },
+  {
+    "index": 48452,
+    "sanskrit": "vīryeṇa apratimaḥ loke vṛttena ca balena ca",
+    "english": "Matchless among men in might, prowess and character;",
+    "morphology": "vīryeṇa_vīrya_SINe apratimaḥ_apratima_SNM loke_loka_SLM"
+  },
+  {
+    "index": 48453,
+    "sanskrit": "yad anyām āhutim purastāj juhuyāt |",
+    "english": "Then returning he offers the Upasad libation;",
+    "morphology": "yat_yat_ anyām_anya_SAF āhutim_āhuti_SAF purastāt_purastāt_"
+  },
+  {
+    "index": 48454,
+    "sanskrit": "kāla kṛtāḥ pravāta nivāta ātapa chāyā jyotsnā tamaḥ śīta uṣṇa varṣa ahorātra pakṣa māsa ṛtu ayana ādayaḥ saṃvatsara viśeṣāḥ ||",
+    "english": "Gale, windfall, sunshine, shade, moonshine, darkness, heat, cold, rain, day, night, fortnight, month, seasons, and solstices, etc.",
+    "morphology": "kāla_kāla_MCp kṛtāḥ_kṛ_PNPaPsM pravāta_pravā_PaPsCp nivāta_nivāta_Cp ātapa_ātapa_MCp chāyā_chāyā_FCp jyotsnā_jyotsnā_FCp tamaḥ_tamas_NeCp śīta_śīta_Cp uṣṇa_uṣṇa_Cp varṣa_varṣa_MCp ahorātra_ahorātra_MCp pakṣa_pak"
+  },
+  {
+    "index": 48455,
+    "sanskrit": "babhau chatreṇa mahatā dhriyamāṇo hi mūrddhani | cāmarairvījyamāno'sau savitā no maheśvaraḥ ||",
+    "english": "31. The great royal umbrella was held aloft over the great lord. He was fanned by chowries and a canopy was spread over Him.",
+    "morphology": "babhau_bhā_SPs3In chatreṇa_chattra_SINe mahatā_mahat_SINe dhriyamāṇaḥ_dhṛ_SNPaPrMPv hi_hi_ mūrddhani_mūrdhan_SLM  / cāmaraiḥ_cāmara_PINe vījyamānaḥ_vījay_SNPaPrMPv asau_adas_SNM savitā_savitṛ_SNM naḥ_mad_PG mahā_mahat_Cp īśvar"
+  }
+]

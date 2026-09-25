@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41888,
+    "sanskrit": "sadā upabhojyān lobha andhaḥ hiraṇya arthe paraṃtapa āyatim ca tadātvam ca ubhe sadyas vyanāśayat",
+    "english": "O slayer of foes, blinded by temptation and the desire of enjoyment, for the sake of gold, the king destroyed at the same time both his present and future gains.",
+    "morphology": "sadā_sadā_U upabhojyān_upabhuj_PAMGd lobha_lobha_MCp andhaḥ_andhas_SNNe hiraṇya_hiraṇya_NeCp arthe_artha_SLM paraṃtapa_paraṃtapa_MCp āyatim_āyati_SAF ca_ca_U tadātvam_tadātva_SANe ca_ca_U ubhe_ubh_DuANe sadyas_sadyas_U vyanāśayat_vināś"
+  },
+  {
+    "index": 41889,
+    "sanskrit": "sa pallavaiḥ vaṭa ādīnam sa sarpiḥ sādhitam payaḥ",
+    "english": "Draughts of milk duly boiled and cooked with the leaves of Vata, etc.",
+    "morphology": "sa_sa_U pallavaiḥ_pallava_PIM vaṭa_vaṭa_MCp ādīnam_ādīna_SNNe sā_sā_SNF ā_ā_U sā_ā_U ādīnā_ādīna_SNF"
+  },
+  {
+    "index": 41890,
+    "sanskrit": "saprabhaḥ coditaḥ sūryaḥ niṣprabhaḥ samapadyata",
+    "english": "The Sun, radiant as he was when he had risen, became dimmed.",
+    "morphology": "saprabhaḥ_saprabha_SNM coditaḥ_coday_SNPaPsM sūryaḥ_sūrya_SNM niṣprabhaḥ_niṣprabha_SNM samapadyata_sampad_SPs3In"
+  },
+  {
+    "index": 41891,
+    "sanskrit": "malam pṛthivyāḥ vāhīkāḥ strīṇām kautūhalam malam",
+    "english": "The Valhika race is the stain of the Earth. Curiosity is the stain of women.",
+    "morphology": "malam_mala_SNNe pṛthivyāḥ_pṛthivī_SGF vāhīkāḥ_vāhīkā_PNF strīṇām_strī_PGF"
+  },
+  {
+    "index": 41892,
+    "sanskrit": "viṣṇustvaṃ jagatāṃ vyāpī nānyo jātosi śāṃbhava | yathā na keṣāṃ vyāpyaṃ ca tatsarvaṃ vyāpakaṃ nabhaḥ ||",
+    "english": "57. In the matter of omnipresence in the universe you alone are Viṣṇu, O Śiva’s son. The all-pervading sky is not pervaded by anything else.",
+    "morphology": "viṣṇuḥ_viṣṇu_SNM tvam_tvad_SN jagatām_jagant_PGNe vyāpī_vyāpin_SNM na_na_ anyaḥ_anya_SNM jātaḥ_jan_SNPaM asi_as_SPr2In śāṃbhava_śāmbhava_SVM  / yathā_yathā_ na_na_ keṣām_ka_PGM vyāpyam_vyāp_SNNeGd ca_ca_ tat_tad_SNNe sarvam_"
+  },
+  {
+    "index": 41893,
+    "sanskrit": "tvayyeva hi dayā samyagdhairyaṃ tvayyeva cottamam | tvayi saṃbhāvanāstyeva kāmakrodhavinigrahe || 83 ||",
+    "english": "183. Compassion is perfect in you alone. Fortitude is excellent in you. There is the possibility of curbing lust and wrath in you.",
+    "morphology": "tvayi_tvad_SL eva_eva_ hi_hi_ dayā_dayā_SNF samyak_samyak_ dhairyam_dhairya_SNNe tvayi_tvad_SL eva_eva_ ca_ca_ uttamam_uttama_SNNe  / tvayi_tvad_SL saṃbhāvanā_sambhāvanā_SNF asti_as_SPr3In eva_eva_ kāma_kāma_Cp krodha_krodha_Cp vinigrahe_vinigrah"
+  },
+  {
+    "index": 41894,
+    "sanskrit": "na ādadānam saṃdadhānam vikarṣantam dhanuḥ na ca",
+    "english": "When thou takest thy shafts, when aimest them, and when drawest the bow (for letting them off), no one is able to mark.",
+    "morphology": "na_na_U ādadānam_ādā_SAPaPrM saṃdadhānam_saṃdhā_SAPaPrM vikarṣantam_vikṛṣ_SAPaPrM"
+  },
+  {
+    "index": 41895,
+    "sanskrit": "{ayam-ucyate prāṇātipātaḥ.}",
+    "english": "{This is said to be killing a living creature.}",
+    "morphology": "__idam_U"
+  }
+]

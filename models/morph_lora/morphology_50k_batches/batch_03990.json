@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31912,
+    "sanskrit": "śrīvasiṣṭha uvāca / etāvantamabuddhastvamabhūḥ kālaṃ raghūdvaha / kalpitābhiḥ kilaitābhirbodhitosi svayuktibhiḥ //",
+    "english": "Vasishtha answered said:—Rama! you had been all this time immerged in your ignorance, and have at last come to your right understanding by your own reasoning.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / etāvantam_etāvat_SAM abuddhaḥ_abuddha_SNM tvam_tvad_SN abhūḥ_bhū_SPs2In kālam_kāla_SAM raghūdvaha_raghūdvaha_SVM  / kalpitābhiḥ_kalpay_PIPaF kila_kila_ etābhiḥ_etad_PIF "
+  },
+  {
+    "index": 31913,
+    "sanskrit": "citta-prasādanād dhetoḥ, satvā gacchanti sad-gatim.”",
+    "english": "because of having a faithful mind, people go to a good destination.”",
+    "morphology": "citta_citta_NeCp prasādanāt_prasādana_SBNe hetoḥ_hetu_SBM satvāḥ_sattva_PNM"
+  },
+  {
+    "index": 31914,
+    "sanskrit": "ṛte devamanuṣyebhyo nānyas tvāṃ visahiṣyati //",
+    "english": "Only gods and men will be able to withstand you -.",
+    "morphology": "ṛte_ṛte_ deva_deva_Cp manuṣyebhyaḥ_manuṣya_PBM na_na_ anyaḥ_anya_SNM tvām_tvad_SA visahiṣyati_visah_SFu3In  /"
+  },
+  {
+    "index": 31915,
+    "sanskrit": "parasparam avidyām vai tat nibodha anupūrvaśas yathā uktam ṛṣibhiḥ tāta sāṃkhyasya asya nidarśanam",
+    "english": "Listen to me first as I tell thee what is Vidya among successive sets of other things, as expounded in the Sankhya philosophy.",
+    "morphology": "parasparam_paraspara_SAM avidyām_avidyā_SAF vai_vai_U tat_tad_SANe nibodha_nibudh_SPr2Im anupūrvaśas_anupūrvaśas_U yathā_yathā_U uktam_vac_SNPaPsNe ṛṣibhiḥ_ṛṣi_PIM tāta_tāta_SVM sāṃkhyasya_sāṃkhya_SGNe asya_idam_SGNe nidarśanam_n"
+  },
+  {
+    "index": 31916,
+    "sanskrit": "taddhaitajjanako vaidehaḥ yājñavalkyam papraca vetthāgnihotraṃ yājñavalkyā3 iti veda samrāḍiti kimiti paya eveti //",
+    "english": "Now, as to this Ganaka of Videha once asked Yâgñavalkya, 'Knowest thou the Agnihotra, Yâgñavalkya?'--'I know it, O king,' he said.--'What is it?'--'Milk, indeed.'",
+    "morphology": "tat_tad_SANe ha_ha_ etat_etad_SANe janakaḥ_janaka_SNM vaidehaḥ_vaideha_SNM yājñavalkyam_yājñavalkya_SAM papraca_pracch_SPs3In vettha_vid_SPs2In agnihotram_agnihotra_SANe yājñavalkya_yājñavalkya_SVM iti_iti_ veda_vid_SPs1In samrāj_samrāj_SVM i"
+  },
+  {
+    "index": 31917,
+    "sanskrit": "cakradevo dantavaktraṃ bibhedorasi karṇinā / paṭuśaṃ pañcaviṃśatyā vivyādha yudhi mārgaṇaiḥ //",
+    "english": "Having pierced the breast of Dantavakra with arrows in the battle-field Chakradeva as sailed Praghasa with five arrows.",
+    "morphology": "cakradevaḥ_cakradeva_SNM danta_danta_Cp vaktram_vaktra_SANe bibheda_bhid_SPs3In urasi_uras_SLNe karṇinā_karṇin_SIM  / paṭuśam_paṭuśa_SAM pañcaviṃśatyā_pañcaviṃśati_SIF vivyādha_vyadh_SPs3In yudhi_yudh_SLF mārgaṇaiḥ_mārgaṇa_PI"
+  },
+  {
+    "index": 31918,
+    "sanskrit": "ava sma yasya veṣaṇe svedam pathiṣu juhvati abhi īm aha sva jenyam bhūma pr̥ṣṭāiva ruruhuḥ",
+    "english": "He in whose service on the ways they offer up their drops of sweat, On him is their high kin have they mounted, as ridges on the earth.",
+    "morphology": "ava_ava_U sma_sma_U yasya_yad_SGM veṣaṇe_veṣaṇa_SLNe svedam_sveda_SAM pathiṣu_pathin_PLM juhvati_hu_PPr3In abhi_abhi_U īm_īṃ_U aha_aha_U sva_sva_Cp jenyam_jenya_SNNe bhūma_bhūman_SNNe"
+  },
+  {
+    "index": 31919,
+    "sanskrit": "tad uktam [analārthyanalaṃ paśyann api na tiṣṭhen na pratiṣṭheta] iti //",
+    "english": "It has been stated that a person who seeks fire does neither sit idle nor leaves the place when he beholds fire.",
+    "morphology": "tat_tad_SNNe uktam_vac_SNPaNe anala_anala_Cp arthī_arthin_SNM analam_anala_SAM paśyan_dṛś_SNPaPrM api_api_ na_na_ tiṣṭhet_sthā_SPr3O na_na_ pratiṣṭheta_prasthā_SPr3O iti_iti_  /"
+  }
+]

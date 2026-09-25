@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26504,
+    "sanskrit": "sākṣāttāvana saptadabhāratnitvaṃ yujyataityuktam / saṃbandhimātramapyanirdiṣṭaṃ vājapeyasyetyetāvanmātreṇa na jñāyeta yūpaśabdārthastvatatsaṃbandhitvāt dūrabhraṣṭaḥ / tasmādyathokta mevāsya viśeṣaṇatvam adhikāraprakaraṇaprāpta manuvadiṣyati /",
+    "english": "As for the various characteristics or qualifications of a thing, inas much as the only purpose that they serve is the bringing about of an idea of the thing, they cannot be taken as integral parts of the perform ance of the action in question. For instance, in the case of the sentence Bring in the man who is with the white dress, the cloth &c., do not form integral parts of the Bringing because that alone can be taken as the predicated, without which the performance of the action would be impossible and hence in the case in question, it is the Vessel alone that can be accepted as the predicated. Therefore the singular Accusative Affix in ‘graham must be taken as merely helping to make the use of the basic noun graha possible for denoting the particular object as the basic noun could not be used without a certain affix or it may be taken as actually expressing only the particular agency.",
+    "morphology": "sākṣāt_sākṣāt_ saptadabha_saptadabha_Cp aratni_aratni_Cp tvam_tva_SNNe yujyate_yuj_SPr3InPv eti_iti_ uktam_vac_SNPaNe  / saṃbandhi_sambandhin_Cp mātram_mātra_SNNe api_api_ anirdiṣṭam_anirdiṣṭa_SNNe vājapeyasya_vājapeya_SGM iti_iti_ et"
+  },
+  {
+    "index": 26505,
+    "sanskrit": "tam udyatam rathena ekam āśukāriṇam āhave anekam iva saṃtrāsāt menire pāṇḍu sṛñjayāḥ",
+    "english": "And the Pandavas, and the Srinjayas, through fear, regarded that single warrior of great activity upon his quickly-moving car as if multiplied into many.",
+    "morphology": "tam_tad_SAM udyatam_udyam_SAPaPsM rathena_ratha_SIM ekam_eka_SAM āśukāriṇam_āśukārin_SAM āhave_āhava_SLM anekam_aneka_SAM iva_iva_U saṃtrāsāt_saṃtrāsa_SBM"
+  },
+  {
+    "index": 26506,
+    "sanskrit": "sacetano hyavayavī cetatyavayavānyathā / svāntareva tataṃ jīvastrijagadbudhyate tathā //",
+    "english": "As the intelligent and embodied soul, is conscious of every part of the body in which it is confined; so the enlightened living soul—jiva, beholds all the three worlds displayed within itself.",
+    "morphology": "sa_sa_ cetanaḥ_cetanā_SNM hi_hi_ avayavī_avayavin_SNM cetati_cit_SPr3In avayavān_avayava_PAM yathā_yathā_  / sva_sva_Cp antar_antar_ eva_eva_ tataḥ_tan_SNPaNe jīvaḥ_jīva_SNM tri_tri_Cp jagant_jagant_SNNe budhyate_budh_SPr3InPv tathā_tathā_"
+  },
+  {
+    "index": 26507,
+    "sanskrit": "agne svāhā kṛṇuhi jātavedo indrāya havyam / viśve devā havir idaṃ juṣantām //",
+    "english": "Pay sacrifice to Indra, Jâtavedas Agni! with Hail! All Gods accept the gift we offer! 23",
+    "morphology": "agne_agni_SVM svāhā_svāhā_ kṛṇuhi_kṛ_SPr2Im jātavedaḥ_jātavedas_SVM indrāya_indra_SDM havyam_havya_SANe  / viśve_viśva_PNM devāḥ_deva_PNM haviḥ_havis_SANe idam_idam_SANe juṣantām_juṣ_PPr3Im  /"
+  },
+  {
+    "index": 26508,
+    "sanskrit": "taiḥ tāta balibhiḥ guptāḥ yātudhānaiḥ ca rakṣitāḥ",
+    "english": "Protected by them, and also watched over by the Rakshasas, these mountains have been rendered inaccessible.",
+    "morphology": "taiḥ_tad_PIM tāta_tāta_SVM balibhiḥ_balin_PIM"
+  },
+  {
+    "index": 26509,
+    "sanskrit": "śrīrāma uvāca / ūrmikāsaṃvidudayaḥ kathaṃ hemno yathā mune / ahaṃtā cātmana iti yathāvadbrūhi me prabho //",
+    "english": "Rama said:—Please tell me sir, how the gold can have its consciousness of its form of the ring, as the soul is conscious of its transformation to egoism.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / ūrmikā_ūrmikā_Cp saṃvid_saṃvid_Cp udayaḥ_udaya_SNM katham_katham_ hemnaḥ_heman_SGNe yathā_yathā_ mune_muni_SVM  / ahaṃtā_ahaṃtā_SNF ca_ca_ ātmanaḥ_ātman_SGM iti_iti_ yathāvat_y"
+  },
+  {
+    "index": 26510,
+    "sanskrit": "kiṃ vā durjanavākyena dūṣito doṣavarjitaḥ | daṃḍyate mama rājye ca kenacittridaśeśvara || 26 ||",
+    "english": "26. Or, O Lord of Devas, is any innocent person abused at the instance of wicked persons? Is he punished by anyone in my kingdom?",
+    "morphology": "kim_kim_ vā_vā_ durjana_durjana_Cp vākyena_vākya_SINe dūṣitaḥ_dūṣay_SNPaM doṣa_doṣa_Cp varjitaḥ_varjay_SNPaM  / daṃḍyate_daṇḍay_SPr3InPv mama_mad_SG rājye_rājya_SLNe ca_ca_ kānām_ka_PNM āḥ_as_SNPaPrM āḥ_as_SNPaPrM"
+  },
+  {
+    "index": 26511,
+    "sanskrit": "vakṣye sūryapratiṣṭhāñca pūrvavanmaṇḍapādikaṃ /",
+    "english": "shall describe the mode of installation of the sungod. The sacrificial shed and other things should be made ready as before.",
+    "morphology": "vakṣye_vac_SFu1In sūrya_sūrya_Cp pratiṣṭhāḥ_pratiṣṭhā_PAF "
+  }
+]

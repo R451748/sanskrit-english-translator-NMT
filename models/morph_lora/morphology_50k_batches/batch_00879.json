@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7024,
+    "sanskrit": "antaka pratimaḥ krodhe siṃha saṃhananaḥ balī",
+    "english": "In wrath, he resembles the Destroyer himself. Endued with might, he resembles a lion in the formation of his body.",
+    "morphology": "anfefuoffuufufuoffu"
+  },
+  {
+    "index": 7025,
+    "sanskrit": "karadebhyaḥ kṛtakṣetrāṇy aikapuruṣikāṇi prayacchet //",
+    "english": "Lands prepared for cultivation shall be given to taxpayers karada only for life ekapurushikáni",
+    "morphology": "kara_kara_Cp debhyaḥ_da_PDM kṛta_kṛ_PaCp kṣetrāṇi_kṣetra_PANe"
+  },
+  {
+    "index": 7026,
+    "sanskrit": "aśvatthāmā tathā aṣṭau ca parīpsan pitaram raṇe",
+    "english": "And Aswatthaman pierced him with sixty arrows, desirous of rescuing his father.",
+    "morphology": "aśvatthāmā_aśvatthāman_SNM"
+  },
+  {
+    "index": 7027,
+    "sanskrit": "devyuvāca | śvetaketostu yaddeva liṃgaṃ proktaṃ tvayā mama | tasya jātaṃ kathaṃ deva nāma bhīmeśvareti ca || 3 ||",
+    "english": "The Devī said: 3. O Lord, you have mentioned about the Liṅga of Śvetaketu. How did it come to be named Bhīmeśvara also?",
+    "morphology": "devī_devī_SNF uvāca_vac_SPs3In  / śvetaketoḥ_śvetaketu_SGM tu_tu_ yat_yad_SNNe deva_deva_SVM liṃgam_liṅga_SNNe proktam_pravac_SNPaNe tvayā_tvad_SI mama_mad_SG  / tasya_tad_SGM jātam_jan_SNPaNe katham_katham_ deva_deva_SVM nāma_nāman_SNNe bh"
+  },
+  {
+    "index": 7028,
+    "sanskrit": "śuśrūṣām kartum icchāmi prapannāya prasīda me",
+    "english": "I desire to wait upon and serve you here.",
+    "morphology": "śuśrūṣām_śuśrūṣā_SAF"
+  },
+  {
+    "index": 7029,
+    "sanskrit": "na hi bhāvanāvācinīṃ kāṃcid vibhaktiṃ smarati pāṇiniḥ liṅādim iva vidhyādau /",
+    "english": "Pāṇini recognises no such in- flection like the suffix indicative of the subjunctive mood as points to the activity of an agent.",
+    "morphology": "na_na_ hi_hi_ bhāvanā_bhāvanā_Cp vācinīm_vācin_SAF kāṃcid_kaścit_SAF vibhaktim_vibhakti_SAF smarati_smṛ_SPr3In pāṇiniḥ_pāṇini_SNM liṅ_liṅ_Cp ādim_ādi_SAM iva_iva_ vidhi_vidhi_Cp ādau_ādi_SLM  /"
+  },
+  {
+    "index": 7030,
+    "sanskrit": "tasmādbhavatu me bharttā kaścidrūpotkaṭaḥ smṛtaḥ | sarveṣāṃ devamartyānāṃ tvatprasādātsureśvari || 6 ||",
+    "english": "6. Hence, O goddess of Suras, with your favour, let someone be my husbanḍ—someone who is most handsome among all the Devas and human beings.",
+    "morphology": "tasmāt_tasmāt_ bhavatu_bhū_SPr3Im me_mad_SG bharttā_bhartṛ_SNM kaścid_kaścit_SNM rūpa_rūpa_Cp utkaṭaḥ_utkaṭa_SNM smṛtaḥ_smṛ_SNPaM  / sarveṣām_sarva_PGM deva_deva_Cp martyānām_martya_PGM tvad_tvad_Cp prasādāt_prasāda_SBM sureś"
+  },
+  {
+    "index": 7031,
+    "sanskrit": "tulāsaṃsthe sahasrāṃśau pradoṣe bhūtadarśayoḥ | ulkāhastā narāḥ kuryuḥ pitṝṇāṃ mārgadarśanam || 65 || narakasthāstu ye pretāste mārgaṃ tu vratātsadā | paśyaṃtyeva na saṃdehaḥ kāryo'tra munipuṃgavaiḥ || 66 ||",
+    "english": "65-68. When the sun is in Libra, on the nights of Caturdaśī and new-moon day, men should celebrate the festival of “showing the path unto the Pitṛs” with firebrands in their hands. The dead men and ghosts who are in hell see the path, due to this Vrata always. No doubt need be entertained in this respect by leading sages.",
+    "morphology": "tulā_tulā_Cp saṃsthe_saṃstha_SLM sahasrāṃśau_sahasrāṃśu_SLM pradoṣe_pradoṣa_SLM bhūta_bhūta_Cp darśayoḥ_darśa_DuGM  / ulkā_ulkā_Cp hastāḥ_hasta_PNM narāḥ_nara_PNM kuryuḥ_kṛ_PPr3O pitṝṇām_pitṛ_PGM mārga_mārga_Cp "
+  }
+]

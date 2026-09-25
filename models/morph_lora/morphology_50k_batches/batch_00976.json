@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7800,
+    "sanskrit": "sa eveti arthakriyākṣamaḥ /",
+    "english": "‘That alone’ which is capable of action.",
+    "morphology": "__tad_U"
+  },
+  {
+    "index": 7801,
+    "sanskrit": "dhiṣva vajram gabhastyoḥ rakṣaḥ hatyāya vajri vaḥ sasahīṣṭhāḥ abhi spr̥dhaḥ",
+    "english": "Grasp in thine arms the thunderbolt, O Thunder-armed, to slay the fiends: Mayst thou subdue the foemen's host.",
+    "morphology": "dhiṣva_dhā_SPs2Im vajram_vajra_SAM gabhastyoḥ_gabhasti_DuLM rakṣaḥ_rakṣas_NeCp hatyāya_hatya_SDNe vajri_vajri_SVF vaḥ_tvad_PA sasahīṣṭhāḥ_sah_SPs2O"
+  },
+  {
+    "index": 7802,
+    "sanskrit": "prakārastveṣa nātroktaḥ śaktipātabalādgataḥ | asaṃbhāvyatayā cātra dṛḍhakopaprasādavat | | ityeṣa yo guroḥ prokto vidhistaṃ pālayedguruḥ | anyathā na śivaḥ yāyācchrīmatsāre ca varṇitam |",
+    "english": "All this deliberation on this point is not meant to suggest the irrelevance of the teacher in the attainment of liberation but to emphasise the point of importance of descent of the grace lacking in which it is rather impossible to attain that state like the safety of the person who has become the target of his master's anger without anyone powerful enough to intervene between the two.",
+    "morphology": "prakāraḥ_prakāra_SNM tu_tu_ eṣa_etad_SNM na_na_ atra_atra_ uktaḥ_vac_SNPaM śaktipāta_śaktipāta_Cp balāt_bala_SBNe gataḥ_gam_SNPaM  / asaṃbhāvya_asaṃbhāvya_Cp tayā_tā_SIF ca_ca_ atra_atra_ dṛḍha_dṛḍha_Cp kopa_kopa_Cp prasāda_"
+  },
+  {
+    "index": 7803,
+    "sanskrit": "dinātyaye 'pi na yadā sa tasyāḥ patirāyayau / tadā sā niśi nair āśyavidhurā samacintayat // mṛtyoḥ kālo 'yam āyāto na tvāyātaḥ patiḥ sa me / parasevaikasaktānāṃ ko hi sneho nije jane //",
+    "english": "But the day came to an end and her husband did not return, and during the course of that night she was grievously afflicted by despondency, and said to herself: “The hour of my death has come, but my husband has not returned;",
+    "morphology": "dina_dina_Cp atyaye_atyaya_SLM api_api_ na_na_ yadā_yadā_ sa_tad_SNM tasyāḥ_tad_SGF patiḥ_pati_SNM āyayau_āyā_SPs3In  / tadā_tadā_ sā_tad_SNF niśi_niś_SLF naiḥ_naiḥ_ āśya_āśay_GdCp vidhurā_vidhura_SNF samacintayat_saṃcintay_S3ImIn"
+  },
+  {
+    "index": 7804,
+    "sanskrit": "surāpo brāhmaṇa eva mahāpātakī / taskaro brāhmaṇasuvarṇāpahārī /",
+    "english": "\"Drinker of wine\" is a \"heinous criminal\" only when he is a Brāhmaṇa. \"Thief\" ie, one who has stolen gold from a Brāhmaṇa.",
+    "morphology": "surā_surā_Cp paḥ_pa_SNM brāhmaṇaḥ_brāhmaṇa_SNM eva_eva_ mahāpātakī_mahāpātakin_SNM  / taskaraḥ_taskara_SNM"
+  },
+  {
+    "index": 7805,
+    "sanskrit": "bhāvataḥ kṣaṇikatvāt tu tāvat kālam api sthiraḥ /",
+    "english": "In reality, the thing is momentary; hence even for that time it cannot remain stationary;",
+    "morphology": "bhāvataḥ_bhāva_SBM kṣaṇika_kṣaṇika_Cp tvāt_tva_SBNe tu_tu_ tāvat_tāvat_SNM kālam_kāla_SAM"
+  },
+  {
+    "index": 7806,
+    "sanskrit": "udyataḥ saṃkulaḥ śabdaḥ śrūyate sma viyatpathe | kramādyāhi prayāhīti sa tu varṇamayaḥ svanaḥ || 3 ||",
+    "english": "3. A confused noise rose up and was heard from the sky. Gradually it turned out to be a meaningful sound in the form of letters such as “Go, proceed ahead”.",
+    "morphology": "udyataḥ_udyam_SNPaM saṃkulaḥ_saṃkula_SNM śabdaḥ_śabda_SNM śrūyate_śru_SPr3InPv sma_sma_ viyat_viyant_Cp pathe_patha_SLM  / kramāt_kramāt_ yāhi_yā_SPr2Im prayāhi_prayā_SPr2Im iti_iti_ sa_tad_SNM tu_tu_ varṇa_varṇa_Cp mayaḥ_maya_SN"
+  },
+  {
+    "index": 7807,
+    "sanskrit": "sarvāṇi sainyāni tatas prahṛṣṭaḥ nirgacchata iti āha nṛpān ca sarvān tad ājñayā tāni viniryayuḥ drutam",
+    "english": "And cheerfully he ordered all the troops, and all the kings, (in his army) saying, Advance.",
+    "morphology": "sarvāṇi_sarva_PANe sainyāni_sainya_PANe tatas_tatas_U prahṛṣṭaḥ_prahṛṣ_SNPaPsM nirgacchata_nirgam_PPr2Im iti_iti_U āha_ah_SPs3In nṛpān_nṛpa_PAM ca_ca_U sarvān_sarva_PAM tad_tad_Cp ājñayā_ājñā_SIF tāni_tad_PNNe viniryayuḥ_vin"
+  }
+]

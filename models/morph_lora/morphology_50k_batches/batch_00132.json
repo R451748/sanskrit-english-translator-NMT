@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1048,
+    "sanskrit": "vyṛddhena vā eṣa paśunā yajate yasyaitāni na kriyanta eṣa ha tvai samṛddhena yajate yasyaitāni kriyante |",
+    "english": "Unsuccessful is his animal offering for whom these (rites) are not performed; successful is the offering of him for whom they are performed.",
+    "morphology": "vyṛddhena_vyṛdh_SIPaM vai_vai_ eṣa_etad_SNM paśunā_paśu_SIM yajate_yaj_SPr3In yasya_yad_SGM etāni_etad_PNNe na_na_ kriyante_kṛ_PPr3InPv eṣa_etad_SNM ha_ha_ tvai_tvai_ samṛddhena_samṛdh_SIPaM yajate_yaj_SPr3In yasya_yad_SGM etāni_etad_PNN"
+  },
+  {
+    "index": 1049,
+    "sanskrit": "tac ca teṣāṃ dadyāt //",
+    "english": "And he shall restore it to them.",
+    "morphology": "tat_tad_SANe ca_ca_ teṣām_tad_PGM dadyāt_dā_SPr3O  /"
+  },
+  {
+    "index": 1050,
+    "sanskrit": "kaniṣṭhā jyeṣṭhayā vaddhā tiśro 'nyāḥ prasṛterjavāḥ /",
+    "english": "The little finger should be held by the thumb. The other three are stretched out quickly.",
+    "morphology": "kaniṣṭhā_kaniṣṭha_SNF jyeṣṭhayā_jyeṣṭha_SIF vaddhā_vadh_SNPaF anyāḥ_anya_PNF prasṛteḥ_prasṛti_SGF javāḥ_java_PNF  /"
+  },
+  {
+    "index": 1051,
+    "sanskrit": "sthitaṃ bodhamanādyantaṃ svabhāvaṃ sargagaṃ viduḥ / manaḥ śabdārtharahitaṃ vibhāgāntavivarjitam //",
+    "english": "The understanding is ever existent, and without having its beginning and end; and nature is known to exist ever since creation has began. The word mind is meaningless and is undivided and unbounded in its nature.",
+    "morphology": "sthitam_sthā_SAPaM bodham_bodha_SAM anādi_anādi_Cp antam_anta_SAM svabhāvam_svabhāva_SAM sarga_sarga_Cp gam_ga_SAM viduḥ_vid_PPs3In  / manaḥ_manas_SANe śabda_śabda_Cp artha_artha_Cp rahitam_rahita_SANe vibhāga_vibhāga_Cp anta_anta_Cp vivarjita"
+  },
+  {
+    "index": 1052,
+    "sanskrit": "karṇa arjuna vināśena mā naśyatu akhilam jagat",
+    "english": "Let not the vast universe be destroyed in consequence of this encounter between Karna and Arjuna.",
+    "morphology": "karṇa_karṇa_MCp arjuna_arjuna_MCp vināśena_vināśa_SIM"
+  },
+  {
+    "index": 1053,
+    "sanskrit": "vaktā\" cāsyācāryā saṅgaḥ\" /",
+    "english": "Now the expounder thereof is Ācārya Asanga.",
+    "morphology": "vaktā_vac_SFu3InPe ca_ca_ asya_idam_SGM ācāryā_ācārya_SNF saṅgaḥ_saṅga_SNM "
+  },
+  {
+    "index": 1054,
+    "sanskrit": "sabhājyamānaḥ śuśubhe mahā indraḥ daivataiḥ iva pāṇḍavāḥ ca mahīpālaiḥ sametaiḥ saṃvṛtāḥ tadā aśobhanta mahā rāja grahāḥ tārā gaṇaiḥ iva",
+    "english": "The sons of Pandu, surrounded by the assembled kings, looked as beautiful, O king, as the planets in the midst of the stars.",
+    "morphology": "sabhājyamānaḥ_sabhājay_SNPaPrMPv śuśubhe_śubh_SPs3In mahā_mahat_Cp indraḥ_indra_SNM daivataiḥ_daivata_PINe iva_iva_U pāṇḍavāḥ_pāṇḍava_PNM ca_ca_U mahīpālaiḥ_mahīpāla_PIM sametaiḥ_same_PIPaPsM saṃvṛtāḥ_saṃvṛ_PNPa"
+  },
+  {
+    "index": 1055,
+    "sanskrit": "kathaṃ punar atra dvitīyā /",
+    "english": "Why have we the Accusative ending here?",
+    "morphology": "katham_katham_ punar_punar_ atra_atra_ dvitīyā_dvitīya_SNF  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15824,
+    "sanskrit": "brahmacaryam carati eṣa śivā yā asya tanuḥ tathā",
+    "english": "That form of his which is mild and auspicious is said to be engaged in the practice of the Brahmacharya vow.",
+    "morphology": "brahmacaryam_brahmacarya_SANe"
+  },
+  {
+    "index": 15825,
+    "sanskrit": "jitvā para svam āhṛtya rājyam vā yadi vā vasu pratipāṇaḥ pradātavyaḥ param hi dhanam ucyate",
+    "english": "Having won over and acquired another's wealth or kingdom, it is a high duty, says the ordinance, to stake it when the owner demands.",
+    "morphology": "jitvā_ji_Co para_para_Cp svam_sva_SANe āhṛtya_āhṛ_Co rājyam_rājya_SANe vā_vā_U yadi_yadi_U vā_vā_U vasu_vasu_NeCp pratipāṇaḥ_pratipāṇa_SNM pradātavyā_pradā_SNMGd"
+  },
+  {
+    "index": 15826,
+    "sanskrit": "bhītām āśvāsaya ca mām nṛpate dharma vatsala",
+    "english": "O king, I am frightened.",
+    "morphology": "bhītām_bhī_SAPaPsF"
+  },
+  {
+    "index": 15827,
+    "sanskrit": "śrīkṛṣṇāsaktabhaktānāṃ tanmādhuryyaprakāśakam | samujjṛmbhati yadvākyaṃ viddhi bhāgavataṃ hi tat || 4 ||",
+    "english": "4. Know that Bhāgavata is that statement which spreads out and expands, manifesting to the devotees of Śrīkṛṣṇa the sweetness of (the devotion to or the life of) Śrīkṛṣṇa.",
+    "morphology": "śrī_śrī_Cp kṛṣṇa_kṛṣṇa_Cp āsakta_āsañj_PaCp bhaktānām_bhakta_PGM tad_tad_Cp mādhurya_mādhurya_Cp prakāśakam_prakāśaka_SNNe  / samujjṛmbhati_samujjṛmbh_SPr3In yat_yad_SNNe yat_yad_SNNe yat_yad_SNNe yat_yad_SNNe yat_yad_SNNe ya"
+  },
+  {
+    "index": 15828,
+    "sanskrit": "śikhābaddhasikhānastrasaptamāṇavakānvitān / vijñāya snāpayecchiṣyāṃstato yāyāt punarvahiḥ //",
+    "english": "Then the preceptor should bathe the disciples who had tiedup their tufts into knots along with the mantras of the weapon and sapta māṇavaka and walk out of the place again.",
+    "morphology": "śikhā_śikhā_Cp baddha_bandh_PaCp sikhānastra_sikhānastra_Cp sapta_saptan_Cp māṇavaka_māṇavaka_Cp anvitān_anvita_PAM  / vijñāya_vijñā_Co snāpayet_snāpay_SPr3O śiṣyān_śiṣya_PAM tatas_tatas_ yāḥ_yā_PAPaPrNe ḥ_ḥ_PAPaPrNe ḥ_"
+  },
+  {
+    "index": 15829,
+    "sanskrit": "sarvamaṃgalasiddhiste bhaviṣyati na saṃśayaḥ | udaṃkenaivamukto'tha kakṣīvāndvijapuṃgavaḥ || 43 ||",
+    "english": "There is no doubt about it.",
+    "morphology": "sarva_sarva_Cp maṃgala_maṅgala_Cp siddhiḥ_siddhi_SNF te_tvad_SG bhaviṣyati_bhū_SFu3In na_na_ saṃśayaḥ_saṃśaya_SNM  / udaṃkena_udaṅka_SIM evam_evam_ uktaḥ_vac_SNPaM atha_atha_ kakṣīvant_kakṣīvant_SNM saḥ_tad_SNM asi_as_SPr2Im "
+  },
+  {
+    "index": 15830,
+    "sanskrit": "bhikṣuruvāca | bhadre keyaṃ tava matirviparītapralāpinī | avijñāto narapatergṛhamehīti bhāṣase | avijñātaḥ pure dṛṣṭaḥ sāhasī puruṣo bhavet || 25 || evaṃ matvā vraja kṣipraṃ svamevāṃtaḥpuraṃ śubhe | nāhaṃ tatrāgamiṣyāmi yāvanna nṛpatervacaḥ || 26 ||",
+    "english": "25-32. O fair lady, how dare you speak this improper thing like, “Come to the palace unknown to others.” Only a very rash and venturesome person can be seen moving about anonymously in the city. Realize this, O fair lady, and hasten to the Antaḥpura. I will not come there without the king’s express order.",
+    "morphology": "bhikṣuḥ_bhikṣu_SNM uvāca_vac_SPs3In  / bhadre_bhadra_SVF kā_ka_SNF iyam_idam_SNF tava_tvad_SG matiḥ_mati_SNF viparīta_viparīta_Cp pralāpinī_pralāpin_SNF  / avijñātaḥ_avijñāta_SNM narapateḥ_narapati_SGM gṛham_gṛha_SANe ehi_e_SPr2I"
+  },
+  {
+    "index": 15831,
+    "sanskrit": "tasmāt raktasya gandhena mūrcchanti bhuvi mānavāḥ",
+    "english": "It is therefore that persons generally lose their consciousness at the smell of blood.",
+    "morphology": "tasmāt_tasmāt_U"
+  }
+]

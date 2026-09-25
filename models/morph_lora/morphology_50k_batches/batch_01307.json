@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10448,
+    "sanskrit": "sīmante janmato nāmakaraṇāya ca homayet /",
+    "english": "and for the rites of garbhādhāna, sīmanta, and nāmakaraṇa.",
+    "morphology": "sīmante_sīmanta_SLM janmataḥ_janman_SBNe nāmakaraṇāya_nāmakaraṇa_SDNe ca_ca_ homayet_homay_SPr3O"
+  },
+  {
+    "index": 10449,
+    "sanskrit": "tataḥ sātiśayaṃ prāptuṃ muktāsāraṃ sa matkṛte / dhanurdvitīyaḥ prayayau gajān hantuṃ himācalam //",
+    "english": "Thereupon he took his bow and went off to the Himālaya to shoot elephants, in order to obtain a surpassingly splendid necklace[14] for me.",
+    "morphology": "tatas_tatas_ sa_sa_ atiśayam_atiśaya_SAM prāptum_prāp_In muktā_muktā_Cp sāram_sāra_SAM sa_tad_SNM mad_mad_Cp kṛte_kṛte_  / dhanuḥ_dhanus_Cp dvitīyaḥ_dvitīya_SNM prayayau_prayā_SPs3In gajān_gaja_PAM hantum_han_In himācalam_himācala_SAM"
+  },
+  {
+    "index": 10450,
+    "sanskrit": "rudrasya hetiḥ pari vo vṛṇaktu dhruvā asmin gopatau syāta bahvīs |",
+    "english": "Let Rudra's dart avoid you. Abide ye, numerous, with this lord of cattle.",
+    "morphology": "rudrasya_rudra_SGM hetiḥ_heti_SNF pari_pari_ vaḥ_tvad_PA vṛṇaktu_vṛj_SPr3Im dhruvāḥ_dhruva_PNF asmin_idam_SLM go_go_Cp patau_pati_SLM syāta_as_PPr2O bahvīḥ_bahu_PNF "
+  },
+  {
+    "index": 10451,
+    "sanskrit": "dadarśa jambukam ca eva cintā ākulita mānasam",
+    "english": "And he saw the jackal there plunged in meditation.",
+    "morphology": "dadarśa_dṛś_SPs3In jambukam_jambuka_SAM ca_ca_U eva_eva_U cintā_cintā_FCp ākulita_ākulita_Cp mānasam_mānasa_SAM"
+  },
+  {
+    "index": 10452,
+    "sanskrit": "punaścaiva śivenāsmai suprasannena cetasā | sarvadā sukhadā loke varā dattā hyanekaśaḥ ||",
+    "english": "28. Again, with a joyful mind, several boons were granted by Pārvatī to him, always favourable to all in the world.",
+    "morphology": "punar_punar_ ca_ca_ eva_eva_ śivena_śiva_SINe asmai_idam_SDM su_su_ prasannena_prasad_SIPaNe cetasā_cetas_SINe  / sarvadā_sarvadā_ sukha_sukha_Cp dāḥ_da_PNM loke_loka_SLM varāḥ_vara_PNM dattāḥ_dā_PNPaM hi_hi_ anekaśas_anekaśas_"
+  },
+  {
+    "index": 10453,
+    "sanskrit": "bahu tvāt nāmadheyānām itare na prakīrtitāḥ",
+    "english": "From fear of being tedious I do not give names of the rest.",
+    "morphology": "bahu_bahu_Cp tvāt_tva_SBNe nāmadheyānām_nāmadheya_PGNe itare_itara_PNM na_na_U prakīrtitāḥ_prakīrtay_PNPaPsM"
+  },
+  {
+    "index": 10454,
+    "sanskrit": "yasyaite traya ādṛtāḥ śuśrūṣayā parituṣṭāḥ /",
+    "english": "\"By him who has honoured these three\" who has satisfied them by his service.",
+    "morphology": "yasya_yad_SGM ete_etad_PNM trayaḥ_tri_PNM ādṛtāḥ_ādṛ_PNPaM śuśrūṣayā_śuśrūṣā_SIF parituṣṭāḥ_parituṣ_PNPaM  /"
+  },
+  {
+    "index": 10455,
+    "sanskrit": "ete asr̥gram āśavaḥ ati hvarāṁsi babhravaḥ somāḥ r̥tasya dhārayā",
+    "english": "These Somas swift and brown of hue, in stream of solemn sacrifice Have flowed through twisted obstacles,",
+    "morphology": "ete_etad_PNM asr̥gram_sṛj_PPs3In āśavaḥ_āśu_PNM ati_ati_U hvarāṁsi_hvṛ_SPr2Su babhravaḥ_babhru_PNM somāḥ_soma_PNM r̥tasya_rāta_SGNe dhārayā_dhārā_SIF"
+  }
+]

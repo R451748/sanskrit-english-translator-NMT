@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34056,
+    "sanskrit": "mārute vedhasi vradhne puṃsi kaḥ kaṃ śiro 'mbunoḥ //",
+    "english": "The letter ka in the masculine is used to denote wind, Brahmā and the Sun and kaṃ in the neuter is used to denote head and water.",
+    "morphology": "mārute_māruta_SLM vedhasi_vedhas_SLM vradhne_vradhna_SLM puṃsi_puṃs_SLM kaḥ_ka_SNM kam_kaṃ_ śiraḥ_śiras_SNNe ambunoḥ_ambu_DuLNe  /"
+  },
+  {
+    "index": 34057,
+    "sanskrit": "maitrākṣijyotika iti śabdāntaraṃ piśācavacanaṃ pūrvavat /",
+    "english": "\"Maitrākṣajyotika,\" like the foregoing terms, is another name for a Piśāca.",
+    "morphology": "maitrākṣijyotikaḥ_maitrākṣijyotika_SNM iti_iti_ śabda_śabda_Cp antaram_antara_SNNe piśāca_piśāca_Cp vacanam_vacana_SNNe pūrvavat_pūrvavat_"
+  },
+  {
+    "index": 34058,
+    "sanskrit": "sukhagrahaṇavijñeyaṃ tattvaarthapadaniścitam / kauṭilyena kṛtaṃ śāstraṃ vimuktagranthavistaram //",
+    "english": "This Sástra, bereft of undue enlargement and easy to grasp and understand, has been composed by Kautilya in words the meaning of which has been definitely settled CHAPTER THE END OF SCIENCES",
+    "morphology": "sukha_sukha_Cp grahaṇa_grahaṇa_Cp vijñeyam_vijñā_SNNeGd tattva_tattva_Cp artha_artha_Cp pada_pada_Cp niścitam_niści_SNPaNe  / kauṭilyena_kauṭilya_SIM kṛtam_kṛ_SNPaNe śāstram_śāstra_SNNe vimukta_vimuc_PaCp grantha_grantha_Cp vistaram_vi"
+  },
+  {
+    "index": 34059,
+    "sanskrit": "tatas sakhāyam gāndhāre mānayan pākaśāsanam akarot saṃvidam tena pāṇḍavena mahātmanā",
+    "english": "Then Bhagadatta, O son of Gandhari, who regarded Indra as his friend, made friendship with (Indra's son) the high-souled Pandava.",
+    "morphology": "tatas_tatas_U sakhāyam_sakhi_SAM gāndhāre_gāndhāri_SVM mānayan_mānay_SNPaPrM pākaśāsanam_pākaśāsana_SAM akarot_kṛ_SPs3In saṃvidam_saṃvid_SAF tena_tad_SIM pāṇḍavena_pāṇḍava_SIM mahātmanā_mahātman_SIM"
+  },
+  {
+    "index": 34060,
+    "sanskrit": "maṇḍalam tu samālokya vyūham parama dāruṇam svayam yudhiṣṭhiraḥ rājā vyūham vajram atha akarot",
+    "english": "Beholding then the array called Mandala that was exceedingly fierce, king Yudhishthira himself disposed his troops in the array called Vajra.",
+    "morphology": "maṇḍalam_maṇḍala_SANe tu_tu_U samālokya_samālokay_Co vyūham_vyūha_SAM parama_parama_Cp dāruṇam_dāruṇa_SAM svayam_svayam_U yudhiṣṭhiraḥ_yudhiṣṭhira_SNM rājā_rājan_SNM vyūham_vyūha_SAM vajram_vajra_SAM atha_atha_U akarot_kṛ"
+  },
+  {
+    "index": 34061,
+    "sanskrit": "tenādhītaṃ śrutaṃ tena tena sarvamanuṣṭhitam | yenauṃ namaḥ śivāyeti mantrābhyāsaḥ sthirīkṛtaḥ || 13 ||",
+    "english": "If the practice of reciting the Mantra “oṃ namaḥ śivāya” is stabilised by the devotee, it is as good as everything is studied and heard and performed by him.",
+    "morphology": "tena_tad_SIM adhītam_adhī_SNPaNe śrutam_śru_SNPaNe tena_tad_SIM tena_tad_SIM sarvam_sarva_SNNe anuṣṭhitam_anuṣṭhā_SNPaNe  / yena_yad_SIM om_oṃ_ namaḥ_namas_SNNe śivāya_śiva_SDM iti_iti_ mantra_mantra_Cp abhyāsaḥ_abhyāsa_SNM sthirīk"
+  },
+  {
+    "index": 34062,
+    "sanskrit": "hataḥ vaikartanaḥ śete pādapaḥ aṅkuravān iva",
+    "english": "Adorned with diverse ornaments and decked with Angadas made of bright gold, Vaikartana, though slain, lay stretched like a gigantic tree adorned with branches and twigs.",
+    "morphology": "hataḥ_han_SNPaPsM vaikartanaḥ_vaikartana_SNM śete_śī_SPr3In pādapaḥ_pādapa_SNM"
+  },
+  {
+    "index": 34063,
+    "sanskrit": "atha kāle vyatikrānte kasmin cit kuru nandana rucyā bhaginyāḥ dānam vai babhūva dhana dhānyavat",
+    "english": "After some time had passed away, O delighter of the Kurus, the occasion came for a ceremony of gifts to take place with respect to the sister of Ruchi.",
+    "morphology": "atha_atha_U kāle_kāla_SLM vyatikrānte_vyatikram_SLPaPsM kasmin_ka_SLM cit_cit_U kuru_kuru_MCp nandana_nandana_MCp rucyā_ruci_SIF bhaginyāḥ_bhaginī_SGF dānam_dāna_SNNe vai_vai_U babhūva_bhū_SPs3In dhana_dhana_NeCp dhānyavat_dhānyavat_SNNe"
+  }
+]

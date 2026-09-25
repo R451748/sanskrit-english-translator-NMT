@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2288,
+    "sanskrit": "agram agre pratijñāya svasya apatyasya vai tadā",
+    "english": "And Sura, having promised in the presence of fire that he would give his firstborn child to Kuntibhoja, the son of his paternal aunt, who was without offspring, gave his daughter unto the monarch in expectation of his favours.",
+    "morphology": "agram_agra_SANe agre_agra_SLNe pratijñāya_pratijñā_Co svasya_sva_SGNe apatyasya_apatya_SGNe vai_vai_U tadā_tadā_U"
+  },
+  {
+    "index": 2289,
+    "sanskrit": "pareṣām tava sainye ca na āsīt kaḥ cit parāṅmukhaḥ",
+    "english": "Neither amongst the enemies nor amongst thine was there a single combatant that turned away from that battle.",
+    "morphology": "pareṣām_para_PGM tava_tvad_SG sainye_sainya_SLNe ca_ca_U na_na_U āsīt_as_SPs3In kaḥ_ka_SNM cit_cit_U parāṅmukhaḥ_parāṅmukha_SNM"
+  },
+  {
+    "index": 2290,
+    "sanskrit": "vāyunā gītāḥ paṭhitā vāyuproktāḥ /",
+    "english": "\"Sung by Vāyu\" recited, declared by him.",
+    "morphology": "vāyunā_vāyu_SIM gītāḥ_gā_PNPaF paṭhitāḥ_paṭh_PNPaF vāyu_vāyu_Cp proktāḥ_pravac_PNPaF  /"
+  },
+  {
+    "index": 2291,
+    "sanskrit": "satyam rūpam śrutam vidyā kaulyam śīlam balam dhanam śauryam ca citra bhāṣyam ca daśa saṃsarga yonayaḥ",
+    "english": "Truth, beauty, acquaintance with the scriptures, knowledge, high birth, good behaviour, strength, wealth, bravery, and capacity for varied talk,--these ten are of heavenly origin.",
+    "morphology": "satyam_satya_SNNe rūpam_rūpa_SNNe śrutam_śruta_SNNe vidyā_vidyā_SNF kaulyam_kaulya_SNNe śīlam_śīla_SNNe balam_bala_SNNe dhanam_dhana_SNNe śauryam_śaurya_SNNe ca_ca_U citra_citra_Cp bhāṣyam_bhāṣya_SNNe ca_ca_U daśa_daśan_SNNe saṃsarga_"
+  },
+  {
+    "index": 2292,
+    "sanskrit": "tayorbhavati vijñānaṃ nityaṃ vai rūpabhedataḥ //",
+    "english": "We know about them from the change in their characteristics.",
+    "morphology": "tayoḥ_tad_DuGM bhavati_bhū_SPr3In vijñānam_vijñāna_SNNe nityam_nitya_SNNe vai_vai_ rūpa_rūpa_Cp bhedataḥ_bheda_SBM  /"
+  },
+  {
+    "index": 2293,
+    "sanskrit": "nirvṛtim labhase kasmāt akasmāt mṛtyu nāśitaḥ",
+    "english": "Whence art thou to obtain thy rescue! Like the she-wolf snatching away a lamb.",
+    "morphology": "nirvṛtim_nirvṛti_SAF labhase_labh_SPr2In kasmāt_kasmāt_U akasmāt_akasmāt_U mṛtyu_mṛtyu_MCp nāśitaḥ_nāśay_SNPaPsM"
+  },
+  {
+    "index": 2294,
+    "sanskrit": "dvitīyācca tṛtīyācca caturthānmucyate rujaḥ //",
+    "english": "One gets free from aches by the use of second, third and fourth herbs.",
+    "morphology": "dvitīyāt_dvitīya_SBM ca_ca_ tṛtīyāt_tṛtīya_SBM ca_ca_ caturthāt_caturtha_SBM mucyate_muc_SPr3InPv rujaḥ_ruj_SBM  /"
+  },
+  {
+    "index": 2295,
+    "sanskrit": "tasmāttādṛgātmaprati-pattividhiparebhyo vedāntebhyaḥ tādṛgātmaviniścayaḥ |tadetatsarvamāha—yadyapi iti |",
+    "english": "Hence, through the Vedantas which have for purport the injunction of the contemplation of that kind of self, there is the ascertainment of that kind of self.",
+    "morphology": "tasmāt_tasmāt_ tādṛś_tādṛś_Cp ātma_ātman_Cp pratipatti_pratipatti_Cp vidhi_vidhi_Cp parebhyaḥ_para_PBM vedāntebhyaḥ_vedānta_PBM tādṛś_tādṛś_Cp ātma_ātman_Cp viniścayaḥ_viniścaya_SNM  /tat_tad_SANe etat_etad_SANe sarvam_sarva"
+  }
+]

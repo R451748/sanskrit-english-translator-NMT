@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20112,
+    "sanskrit": "mṛtānāṃ pretakāryāṇi na tvanyadvidyate kvacit||",
+    "english": "All these ceremonies for the dead,—there is no other fruit anywhere.",
+    "morphology": "mṛtānām_mṛ_PGPaM pretakāryāṇi_pretakārya_PNNe na_na_ tu_tu_ anyat_anya_SNNe vidyate_vid_SPr3InPv kvacid_kvacid_"
+  },
+  {
+    "index": 20113,
+    "sanskrit": "siṃhanādaiś ca daityānāṃ bāṇaḥ kṛṣṇam abhidravat //",
+    "english": "Beholding that burning Sakti the gods and their king were greatly depressed and said—Perhaps Krishna will be consumed.",
+    "morphology": "siṃhanādaiḥ_siṃhanāda_PIM ca_ca_ daityānām_daitya_PGM bāṇaḥ_bāṇa_SNM kṛṣṇam_kṛṣṇa_SAM abhidravat_abhidru_S3ImIn  /"
+  },
+  {
+    "index": 20114,
+    "sanskrit": "aṣṭādaśānāṃ cdātūnāṃ ṣaṇṇāṃ ca vijñānānāṃ kaḥ kena vijñeyaḥ / āha /",
+    "english": "There are eighteen dhāus and six consciousness. Which dhātu is discerned by which consciousness?",
+    "morphology": "aṣṭādaśānām_aṣṭādaśa_PGM cdātūnām_cdātu_PGM ṣaṇṇām_ṣaṣ_PGNe ca_ca_ vijñānānām_vijñāna_PGNe kaḥ_ka_SNM kena_ka_SIM vijñeyaḥ_vijñā_SNMGd  / āha_ah_SPs3In  /"
+  },
+  {
+    "index": 20115,
+    "sanskrit": "caturthe vepate mūḍhaḥ khādan dantān jahāti asūn",
+    "english": "In the fourth stage, it shivers, gnashas its teeth, drops down unconscious and expires.",
+    "morphology": "caturthe_caturtha_SLM vepate_vip_SPr3In mūḍhaḥ_muh_SNPaPsM khādan_khād_SNPaPrM dantān_danta_PAM jahāti_hā_SPr3In asūn_asu_PAM"
+  },
+  {
+    "index": 20116,
+    "sanskrit": "rudrasya nairṛte bhāge liṃgaṃ tatra mahālayam | tadagre pitṛkūposti pitṝṇāmālayaḥ paraḥ || 92 ||",
+    "english": "92. In the south-western direction of Rudra is the Mahālaya Liṅga. In front of it is the Pitṛkūpa, the greatest abode of the pitṛs.",
+    "morphology": "rudrasya_rudra_SGM nairṛte_nairṛta_SLM bhāge_bhāga_SLM liṃgam_liṅga_SNNe tatra_tatra_ mahālayam_mahālaya_SNNe  / tad_tad_Cp agre_agra_SLNe pitṛ_pitṛ_Cp kūpaḥ_kūpa_SNM asti_as_SPr3In pitṝṇām_pitṛ_PGM ālayaḥ_ālaya_SNM paraḥ_p"
+  },
+  {
+    "index": 20117,
+    "sanskrit": "nābhyām abhūt nara śreṣṭhaḥ śvetāśvaḥ vānaradhvajaḥ madhye yudhiṣṭhiraḥ rājā mādrī putrau ca pāṇḍavau",
+    "english": "Next to them was that foremost of men, (viz., Arjuna) of white steeds and having Krishna for his charioteer.[427] In the centre were king Yudhishthira and the twin sons of Pandu by Madri.",
+    "morphology": "nābhyām_nābhi_SLF abhūt_bhū_SPs3In nara_nara_MCp śreṣṭhaḥ_śreṣṭha_SNM śvetāśvaḥ_śvetāśva_SNM vānaradhvajaḥ_vānaradhvaja_SNM madhye_madhya_SLNe yudhiṣṭhiraḥ_yudhiṣṭhira_SNM rājā_rājan_SNM mādrī_mādrī_FCp putrau_"
+  },
+  {
+    "index": 20118,
+    "sanskrit": "śabdānusmṛtijatve 'pi na śābdaṃ jñānam īdṛśam / śabdasmṛtiḥ sahāya syāt indriyasya pradīpavat //",
+    "english": "This piece of knowledge is sense-perception since it is vivid, that it is not word-interpenetrated at the time of its appearance, is causally connected with the sense-organ and gets the sanction of the popular view.",
+    "morphology": "śabda_śabda_Cp anusmṛti_anusmṛti_Cp ja_ja_Cp tve_tva_SLNe api_api_ na_na_ śābdam_śābda_SNNe jñānam_jñāna_SNNe īdṛśam_īdṛśa_SNNe  / śabda_śabda_Cp smṛtiḥ_smṛti_SNF syāt_as_SPr3O indriyasya_indriya_SGNe pradīpa_pradīpa_Cp vat"
+  },
+  {
+    "index": 20119,
+    "sanskrit": "tatrāpi śaktitraya kalpanā / vyaktyaṃśe coktadoṣaprasaṅgaḥ /",
+    "english": "related and mixed and thus these theories would necessitate the assump tion of a triple potency in the word but even in this the assumption of any expressive potency with regard to the Indi vidual would be open to all the objections urged above against the Indivi dualtheory.",
+    "morphology": "tatra_tatra_ api_api_ śakti_śakti_Cp traya_traya_Cp kalpanā_kalpanā_SNF  / vyakti_vyakti_Cp aṃśe_aṃśa_SLM ca_ca_ ukta_vac_PaCp doṣa_doṣa_Cp prasaṅgaḥ_prasaṅga_SNM  /"
+  }
+]

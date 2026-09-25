@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39744,
+    "sanskrit": "| sūta uvāca | tataḥ praṇamya bhūyaḥ sa vasiṣṭhaṃ munipuṃgavam | yayau tatra sutāstasya yatra te śatasaṃkhyakāḥ || 1 ||",
+    "english": "Sūta said: 1. Thereafter, he bowed down to the eminent sage Vasiṣṭha once again and went to the place where his (Vasiṣṭha’s) sons numbering a hundred were present.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / tatas_tatas_ praṇamya_praṇam_Co bhūyas_bhūyas_ sa_tad_SNM vasiṣṭham_vasiṣṭha_SAM muni_muni_Cp puṃgavam_puṃgava_SAM  / yayau_yā_SPs3In tatra_tatra_ sutāḥ_suta_PNM tasya_tad_SGM yatra_yatra_ te_ta"
+  },
+  {
+    "index": 39745,
+    "sanskrit": "kramākramavirodhena nityā no kāryakāriṇaḥ /",
+    "english": "For us, eternal things cannot produce any effects, because ‘consecutive’ and ‘concurrent’ action are mutually contradictory;",
+    "morphology": "kramākrama_kramākrama_Cp virodhena_virodha_SIM nityāḥ_nitya_PNM no_no_ kārya_kārya_Cp kāriṇaḥ_kārin_PNM  /"
+  },
+  {
+    "index": 39746,
+    "sanskrit": "pāyānniśādau śaśiśekharo māṃ gaṃgādharo rakṣatu māṃ niśīthe | gaurīpatiḥ pātu niśāvasāne mṛtyuṃjayo rakṣatu sarvakālam || 20 ||",
+    "english": "20. Let the Moon-crested Lord protect me in the beginning of the night; let Gaṅgādhara protect me at mid-night; may the Lord of Gaurī protect me at the close of the night; may Mṛtyuñjaya protect me on all occasions.",
+    "morphology": "pāyāt_pā_SPr3O niśā_niśā_Cp ādau_ādi_SLM śaśiśekharaḥ_śaśiśekhara_SNM mām_mad_SA gaṃgādharaḥ_gaṅgādhara_SNM rakṣatu_rakṣ_SPr3Im mām_mad_SA niśīthe_niśītha_SLM  / gaurīpatiḥ_gaurīpati_SNM pātu_pā_SPr3Im niśā_niśā"
+  },
+  {
+    "index": 39747,
+    "sanskrit": "na vā uv etan mriyase na riṣyasi devāṃ id eṣi pathibhiḥ sugebhiḥ |",
+    "english": "Thou dost not die, indeed, thou art not injured, On easy paths thou goest to the gods;",
+    "morphology": "na_na_ vai_vai_ u_u_ etat_etad_SANe mriyase_mṛ_SPr2InPv na_na_ riṣyasi_riṣ_SPr2In devān_deva_PAM id_id_ eṣi_i_SPr2In pathibhiḥ_pathin_PIM"
+  },
+  {
+    "index": 39748,
+    "sanskrit": "nāpi janakasyālambanatvamyaccakṣurādāvapi prasajyeta /",
+    "english": "If an ālambana is defined as an object which produces an awareness then the sense-organ such as the eyes should also be called an ālambana.",
+    "morphology": "na_na_ api_api_ janakasya_janaka_SGNe ālambana_ālambana_Cp tvam_tva_SNNe yat_yad_SNNe cakṣuḥ_cakṣus_Cp ādau_ādi_SLM api_api_ prasajyeta_prasañj_SPr3OPv"
+  },
+  {
+    "index": 39749,
+    "sanskrit": "sarvaṃ saṃvinmayaṃ śāntaṃ satsvapna iva jāgrati / sthitamapratighākāraṃ kvāsau sapratighā sthitiḥ //",
+    "english": "All this is but the quiescent consciousness, and as a dream that we are conscious of in our waking state; it is a pure spiritual extension, though appearing as a consolidated expanse of substantial forms.",
+    "morphology": "sarvam_sarva_SNNe saṃvid_saṃvid_Cp mayam_maya_SNNe śāntam_śam_SNPaNe sat_as_PaPrCp svapnaḥ_svapna_SNM iva_iva_ jāgrati_jāgṛ_PPr3In  / sthitam_sthā_SNPaNe apratigha_apratigha_Cp ākāram_ākāra_SNNe kva_kva_ asau_adas_SNF sa_sa_ pratighā_pra"
+  },
+  {
+    "index": 39750,
+    "sanskrit": "surāṣṭrasya tathā rājñaḥ karaṃ spṛṣṭvā mṛgāṃganā | tatkṣaṇādgarbhiṇī bhūtvā muniṃ prāsūta tāpasam || 66 ||",
+    "english": "66. A female deer touched the hand of the king of Surāṣṭra, became pregnant instantly and gave birth to an ascetic.",
+    "morphology": "surāṣṭrasya_surāṣṭra_SGM tathā_tathā_ rājñaḥ_rājan_SGM karam_kara_SAM spṛṣṭvā_spṛś_Co mṛga_mṛga_Cp aṃganā_aṅganā_SNF  / tad_tad_Cp kṣaṇāt_kṣaṇa_SBM garbhiṇī_garbhiṇī_SNF bhūtvā_bhū_Co munim_muni_SAM pr"
+  },
+  {
+    "index": 39751,
+    "sanskrit": "etat vijñāna sāmarthyam na bālaiḥ sama tām iyāt",
+    "english": "This is the power of knowledge. One should not, in such matters, behave like men of little understandings.",
+    "morphology": "etat_etad_SNNe vijñāna_vijñāna_NeCp sāmarthyam_sāmarthya_SNNe na_na_U"
+  }
+]

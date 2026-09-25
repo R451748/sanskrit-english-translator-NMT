@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32320,
+    "sanskrit": "gandhaḥ rasaḥ ca rūpam ca śabdaḥ sparśaḥ ca pañcamaḥ mantavyam atha boddhavyam sapta ete karma hetavaḥ",
+    "english": "Smell, taste, colour, sound, touch, numbering the fifth, the objects of the mind, and the objects of the understanding, these seven are caused by action.",
+    "morphology": "gandhaḥ_gandha_SNM rasaḥ_rasa_SNM ca_ca_U rūpam_rūpa_SNNe ca_ca_U śabdaḥ_śabda_SNM sparśaḥ_sparśa_SNM ca_ca_U pañcamaḥ_pañcama_SNM mantavyam_man_SNNeGd atha_atha_U boddhavyam_budh_SNNeGd"
+  },
+  {
+    "index": 32321,
+    "sanskrit": "dīrghāyurbhava tairuktaḥ sa bālastuṣṭitatparaiḥ | āsthitāśca yathābhīṣṭaṃ deśaṃ bālaṃ visarjya tam || 17 ||",
+    "english": "17. Seeing the zeal on the part of the boy (to pay reverence) they (i.e., the sages) became pleased. And then blessing him saying ‘let you have long life’ they all moved ahead on their way to the region as already planned in their minds.",
+    "morphology": "dīrgha_dīrgha_Cp āyūḥ_āyus_SNM bhava_bhū_SPr2Im taiḥ_tad_PIM uktaḥ_vac_SNPaM sa_tad_SNM bālaḥ_bāla_SNM tuṣṭi_tuṣṭi_Cp tatparaiḥ_tatpara_PIM  / āsthitāḥ_āsthā_PNPaM"
+  },
+  {
+    "index": 32322,
+    "sanskrit": "atha punaḥ prasalavi triḥ pariyanti /",
+    "english": "Then they (the Sacrificer and priests) again walk round thrice sunwise, beating their right thighs, with the same text.",
+    "morphology": "atha_atha_ punar_punar_ prasalavi_prasalavi_ tris_tris_"
+  },
+  {
+    "index": 32323,
+    "sanskrit": "kiṃ kāraṇam /",
+    "english": "Why?",
+    "morphology": "kim_ka_SNNe"
+  },
+  {
+    "index": 32324,
+    "sanskrit": "eṣa saṃkṣepataḥ dharmaḥ kāmāt anyaḥ pravartate",
+    "english": "One by acting in a different way by yielding to desire, becomes guilty of unrighteousness.",
+    "morphology": "eṣa_etad_SNM"
+  },
+  {
+    "index": 32325,
+    "sanskrit": "teṣāṃ madhye mahātejāścaṃdramāstattvasaṃbhava | so'yaṃ mayā dhṛto devi adyāpi śirasi priye || 15 ||",
+    "english": "15. Among them the highly refulgent Candra is one born of the Tattva (eternal entities, principles). O goddess, O my beloved, he was held and kept on the head by me where he still continues to be.",
+    "morphology": "teṣām_tad_PGM madhye_madhya_SLNe mahā_mahat_Cp tejāḥ_tejas_SNM candramāḥ_candramas_SNM tattva_tattva_Cp saṃbhava_sambhava_SVM  / saḥ_tad_SNM ayam_idam_SNM mayā_mad_SI dhṛtaḥ_dhṛ_SNPaM devi_devī_SVF adya_adya_ api_api_ śirasi_śiras_S"
+  },
+  {
+    "index": 32326,
+    "sanskrit": "arbudo,",
+    "english": "The tumourous (hell),",
+    "morphology": "arbudaḥ_"
+  },
+  {
+    "index": 32327,
+    "sanskrit": "etadrūpāṃ pumānyo'tra pūjayiṣyati bhaktitaḥ | etāṃ viṣṇo tvayā sārdhaṃ tathānena ca sīriṇā || 16 || dvādaśyāṃ māghamāsasya gaṃdhapuṣpānulepanaiḥ | so'pyavāpsyati yaccitte vartate nātra saṃśayaḥ || 17 ||",
+    "english": "16-17. A man who devoutly worships her in this form here, O Viṣṇu, along with you and also this Sīrin (Balabhadra) on the twelfth lunar day in the month of Māgha with sweet scents, flowers and unguents shall attain undoubtedly what is cherished in his mind.",
+    "morphology": "etad_etad_Cp rūpām_rūpa_SAF pumān_puṃs_SNM yaḥ_yad_SNM atra_atra_ pūjayiṣyati_pūjay_SFu3In bhaktitaḥ_bhakti_SBF  / etām_etad_SAF viṣṇo_viṣṇu_SVM tvayā_tvad_SI sārdham_sārdham_ tathā_tathā_ anena_idam_SIM ca_ca_ sīriṇā_sīrin"
+  }
+]

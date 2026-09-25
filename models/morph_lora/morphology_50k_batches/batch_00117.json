@@ -1,0 +1,50 @@
+[
+  {
+    "index": 928,
+    "sanskrit": "hīnapraṇītebhyo 'nye madhyā iti siddhaṃ bhavati /",
+    "english": "The dharmas which are neither ignoble nor excellent are thus median.",
+    "morphology": "hīna_hā_PaCp praṇītebhyaḥ_praṇī_PBPaM anye_anya_PNM madhyāḥ_madhya_PNM iti_iti_ siddham_sidh_SNPaNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 929,
+    "sanskrit": "adṛṣṭa pūrvam paśyantyaḥ duḥkha ārtāḥ bharata striyaḥ śarīreṣu askhalan anyāḥ nyapatan ca aparāḥ bhuvi",
+    "english": "Witnessing sights the like of which they had never before witnessed, the Bharata ladies felt their limbs to be deprived of strength and fell down on the ground.",
+    "morphology": "adṛṣṭa_adṛṣṭa_Cp pūrvam_pūrvam_U paśyantyaḥ_paś_PNPaPrF duḥkha_duḥkha_NeCp ārtāḥ_ārta_PNF bharata_bharata_MCp striyaḥ_strī_PNF śarīreṣu_śarīra_PLNe askhalan_skhal_PPs3In anyāḥ_anya_PNF nyapatan_nipat_PPs3In ca_ca_U ap"
+  },
+  {
+    "index": 930,
+    "sanskrit": "śrī nārada uvāca atha sakhyau vyalikhatāṃ citraṃ nanda śiśoḥ śubhamnava yauvana mādhuryaṃ rādhāyai dadatus tvaram",
+    "english": "The two friends drew a picture, handsome and filled with the sweetness of new youth, of Nanda's son, Kṛṣṇa, and gave it to Rādhā.",
+    "morphology": "śrī_śrī_SNF nāradaḥ_nārada_SNM uvāca_vac_SPs3In atha_atha_ sakhyau_sakhī_DuNF vyalikhatām_vilikh_Du3ImIn citram_citra_SANe nanda_nanda_SVM śiśoḥ_śiśu_SGM śubham_śubha_SANe nava_nava_SVM yauvana_yauvana_SVM mādhuryam_mādhurya_SANe rādh"
+  },
+  {
+    "index": 931,
+    "sanskrit": "alinīlālakalataṃ kaṃ na hanti ghanastani | ānanaṃ nalinacchāyanayanaṃ śaśikānti te ||",
+    "english": "hard to achieve for those that are in a [For example-] \"The lotuses, O heedless [girl], are traducing the beauty of thy face;",
+    "morphology": "ali_ali_Cp nīla_nīla_Cp alaka_alaka_Cp latam_latā_SNNe kam_ka_SAM na_na_ hanti_han_SPr3In ghana_ghana_Cp stani_stana_SVF  / ānanam_ānana_SNNe nalina_nalina_Cp chāya_chāya_Cp nayanam_nayana_SNNe śaśi_śaśin_Cp kānti_kānti_SNNe"
+  },
+  {
+    "index": 932,
+    "sanskrit": "sa tatra gataḥ atha paśyati puruṣasyāsidharaṃ cakraṃ śiraś chinatti |",
+    "english": "He went there and he saw a man with a wheel having swords that was cutting through his head.",
+    "morphology": "sa_tad_SNM tatra_tatra_ gataḥ_gam_SNPaM atha_atha_ paśyati_paś_SPr3In puruṣasya_puruṣa_SGM asi_asi_Cp dharam_dhara_SNNe cakram_cakra_SNNe śiraḥ_śiras_SANe chinatti_chid_SPr3In "
+  },
+  {
+    "index": 933,
+    "sanskrit": "nimba āragvadhayoḥ kalkaḥ hitaḥ utsādane bhavet",
+    "english": "A decoction[11] of Nimba and Aragvadha should be used for chafing (Utsadana) the diseased locality.",
+    "morphology": "nimba_nimba_MCp āragvadhayoḥ_āragvadha_DuGM kalkaḥ_kalka_SNM hitaḥ_hita_SNM utsādane_utsādana_SLNe"
+  },
+  {
+    "index": 934,
+    "sanskrit": "ṛṣaya ūcuḥ | agastyasyāśramaṃ prāpya kasmāddevo divākaraḥ | pradakṣiṇāṃ prakurute vadaitanme suvistaram || 5 ||",
+    "english": "The sages said: 5. Why does Sun-god come to the hermitage of Agastya and perform the rite of circumambulation? Narrate this in detail to us.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / agastyasya_agastya_SGM āśramam_āśrama_SAM prāpya_prāp_Co kasmāt_kasmāt_ devaḥ_deva_SNM divākaraḥ_divākara_SNM  / pradakṣiṇām_pradakṣiṇa_SAF prakurute_prakṛ_SPr3In vada_vad_SPr2Im etat_"
+  },
+  {
+    "index": 935,
+    "sanskrit": "gaṇayantyāḥ ca sāvitryāḥ divase divase gate tat vākyam nāradena uktam vartate hṛdi nityaśas",
+    "english": "And as the words that had been spoken by Narada were ever present in the mind of Savitri, she had counted the days as they passed.",
+    "morphology": "gaṇayantyāḥ_gaṇay_SGPaPrF ca_ca_U sāvitryāḥ_sāvitrī_SGF divase_divasa_SLM divase_divasa_SLM gate_gam_SLPaPsM tat_tad_SNNe vākyam_vākya_SNNe nāradena_nārada_SIM uktam_vac_SNPaPsNe vartate_vṛt_SPr3In hṛdi_hṛd_SLNe"
+  }
+]

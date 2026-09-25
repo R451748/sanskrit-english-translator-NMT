@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34960,
+    "sanskrit": "kūjanti haṃsā sarasi iva mattāḥ",
+    "english": "And when he walked, his ornaments uttered a jingling sound like those uttered by delighted ganders upon a sheet of water.",
+    "morphology": "kūjanti_kūj_PPr3In"
+  },
+  {
+    "index": 34961,
+    "sanskrit": "āndhrāḥ śakāḥ pulindāḥ ca yavanāḥ ca narādhipāḥ",
+    "english": "The Andhhas, the Sakas, the Pulindas, the Yavanas, the Kamvojas, the Valhikas and the Abhiras, then become, O best of men, possessed of bravery and the sovereignty of the earth.",
+    "morphology": "āndhrāḥ_āndhra_PNM"
+  },
+  {
+    "index": 34962,
+    "sanskrit": "ṛṣaya ūcuḥ | raktaśṛṃgaḥ kathaṃ tena niścalo'pi dṛḍhīkṛtaḥ | kasya vākyena no brūhi vistareṇa mahāmate || 22 ||",
+    "english": "The sages said: 22. That Raktaśṛṅga which was already motionless was rendered firm by him? At whose instance? O highly intelligent one, tell us in detail. Sūta said:",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / raktaśṛṃgaḥ_raktaśṛṅga_SNM katham_katham_ tena_tad_SIM niścalaḥ_niścala_SNM api_api_ dṛḍhīkṛtaḥ_dṛḍhīkṛ_SNPaM  / kasya_ka_SGM vākyena_vākya_SINe naḥ_mad_PA brūhi_brū_SPr2I"
+  },
+  {
+    "index": 34963,
+    "sanskrit": "kampayantau bhuvaṃ vīrau tāv udyatamahāgadau / dadṛśāte mahātmānau girī saśikharāv ubhau //",
+    "english": "Taking up their clubs in anger those two highly powerful heroes, expert in fighting with clubs and having arms as huge as mountain summits, ran towards each other.",
+    "morphology": "kampayantau_kampay_DuNPaPrM bhuvam_bhū_SAF vīrau_vīra_DuNM tau_tad_DuNM udyata_udyam_PaCp mahā_mahat_Cp gadau_gadā_DuNM  / dadṛśāte_dṛś_DuPs3In mahātmānau_mahātman_DuNM girī_giri_DuNM sa_sa_ śikharau_śikhara_DuNM ubhau_ubh_DuNM  /"
+  },
+  {
+    "index": 34964,
+    "sanskrit": "evam uktvā tu vārṣṇeyam pṛthā pṛthula locanā ucchritya bāhū duḥkha ārtā tāḥ ca anyāḥ prāpatan bhuvi",
+    "english": "Having said these words unto that hero of the Vrishni's race, Pritha of large eyes, raised her arms upwards and with the other ladies in her company, fell down on the Earth.",
+    "morphology": "evam_evam_U uktvā_vac_Co tu_tu_U vārṣṇeyam_vārṣṇeya_SAM pṛthā_pṛthā_SNF pṛthula_pṛthula_Cp locanā_locana_SNF ucchritya_ucchri_Co bāhū_bāhu_DuAM duḥkha_duḥkha_NeCp ārtā_ārta_SNF tāḥ_tad_PNF ca_ca_U anyāḥ_anya_PNF prāpa"
+  },
+  {
+    "index": 34965,
+    "sanskrit": "indriyāṇi tu yāni āhuḥ kāni tāni yata vrata",
+    "english": "what are they;",
+    "morphology": "indriyāṇi_indriya_PANe tu_tu_U yāni_yad_PANe āhuḥ_ah_PPs3In"
+  },
+  {
+    "index": 34966,
+    "sanskrit": "devasvaharaṇaścaiva brahmasvaharaṇastathā | svarṇasteya iti tvete lobhasya tanayāḥ smṛtāḥ || 30 ||",
+    "english": "30. Devasvaharaṇa (Misappropriation of temple property), Brahmasvaharaṇa (Misappropriation of the assets of Brāhmaṇas) and Svarṇasteya (Stealing of gold)—these are known as the sons of Lobha (Covetousness).",
+    "morphology": "deva_deva_Cp sva_sva_Cp haraṇaḥ_haraṇa_SNM ca_ca_ eva_eva_ brahma_brahman_Cp sva_sva_Cp haraṇaḥ_haraṇa_SNM tathā_tathā_  / svarṇa_svarṇa_Cp steyaḥ_steya_SNM iti_iti_ tu_tu_ ete_etad_PNM lobhasya_lobha_SGM tanayāḥ_tanaya_PNM smṛtā"
+  },
+  {
+    "index": 34967,
+    "sanskrit": "athāto gṛhṇātyeva / āpataye tvā paripataye gṛhṇāmīti yo vā ayam pavata eṣa ā ca patati pari ca patatyetasmā u hi gṛhṇāti tasmādāhāpataye tvā paripataye gṛhṇāmīti //",
+    "english": "In the first place he takes (butter) therefrom , with the text , 'For him that rushes onward, for him that rushes about, I take thee.' He that blows yonder (the wind) does indeed rush onward and rush about; and it is for him that he takes (the butter): therefore he says, 'for him that rushes onward, for him that rushes about, I take thee.'",
+    "morphology": "atha_atha_ atas_atas_ gṛhṇāti_grah_SPr3In eva_eva_  / āpataye_āpati_SDM tvā_tvad_SA paripataye_paripati_SDM gṛhṇāmi_grah_SPr1In iti_iti_ yaḥ_yad_SNM vai_vai_ ayam_idam_SNM pavate_pū_SPr3In eṣaḥ_etad_SNM ā_ā_ ca_ca_ patati_pat_SPr3In p"
+  }
+]

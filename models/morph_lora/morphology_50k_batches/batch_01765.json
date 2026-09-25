@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14112,
+    "sanskrit": "pūjāyāṃ prīyate rudro japahomairdivākaraḥ | śaṅkhacakragadāpāṇiḥ praṇipātena tuṣyati || 13 ||",
+    "english": "There is no doubt about it. Rudra is pleased by adoration; Divākara (Sun) by means of Japa and Homa. The Lord with the conch, discus and club in his hands, becomes pleased with prostration.",
+    "morphology": "pūjāyām_pūjā_SLF prīyate_prī_SPr3InPv rudraḥ_rudra_SNM japa_japa_Cp homaiḥ_homa_PIM divākaraḥ_divākara_SNM  / śaṅkha_śaṅkha_Cp cakra_cakra_Cp gadā_gadā_Cp pāṇiḥ_pāṇi_SNM praṇipātena_praṇipāta_SIM tuṣyati_tuṣ_SPr3In "
+  },
+  {
+    "index": 14113,
+    "sanskrit": "pāṇḍu putraḥ bala ślāghī mādhavena ca rakṣitaḥ",
+    "english": "Delighted in battle, that son of Pandu is protected by Madhava.",
+    "morphology": "pāṇḍu_pāṇḍu_MCp putraḥ_putra_SNM bala_bala_NeCp ślāghī_ślāghin_SNM mādhavena_mādhava_SIM ca_ca_U rakṣitaḥ_rakṣ_SNPaPsM"
+  },
+  {
+    "index": 14114,
+    "sanskrit": "tat kālaṃ tena mārgeṇa kāmacārī vihāyasā / āgān madanavegākhyo vidyādharakumārakaḥ //",
+    "english": "At that very moment a Vidyādhara prince, by name Madanavega, roaming about at will, came that way through the air.",
+    "morphology": "tat_tad_SANe kālam_kāla_SAM tena_tad_SIM mārgeṇa_mārga_SIM kāma_kāma_Cp cārī_cārin_SNM vihāyasā_vihāyas_SINe  / āgāt_āgā_SPs3In madanavega_madanavega_Cp ākhyaḥ_ākhyā_SNM vidyādhara_vidyādhara_Cp kumārakaḥ_kumāraka_SNM  /"
+  },
+  {
+    "index": 14115,
+    "sanskrit": "ajaḥ mahārhaḥ svābhāvyaḥ jita amitraḥ pramodanaḥ",
+    "english": "He that is exceedingly adorable; He that appears in His own nature; He that has conquered all foes (in the form of wrath and other evil passions);",
+    "morphology": "ajaḥ_aja_SNM mahārhaḥ_mahārha_SNM svābhāvyaḥ_svābhāvya_SNM jita_ji_PaPsCp amitraḥ_amitra_SNM pramodanaḥ_pramodana_SNM"
+  },
+  {
+    "index": 14116,
+    "sanskrit": "idaṃ yaśasyam, dharmajñaḥ saṃśayānaiḥ pṛcchyamānaḥ khyātiṃ labhate /",
+    "english": "\"it brings fame,\" when a man knows Dharma his opinion is sought for by enquirers, and thus he acquires fame.",
+    "morphology": "idam_idam_SNNe yaśasyam_yaśasya_SNNe dharma_dharma_Cp jñaḥ_jña_SNM saṃśayānaiḥ_saṃśī_PIPaPrM pṛcchyamānaḥ_pracch_SNPaPrMPv khyātim_khyāti_SAF labhate_labh_SPr3In  /"
+  },
+  {
+    "index": 14117,
+    "sanskrit": "tanmahābhāga mā gāstvaṃ dehi me jīvitaṃ punaḥ / pratipannārthanirvāhaḥ sahajaṃ hi satāṃ vratam //",
+    "english": "Therefore do not depart, great-souled hero; once more save my life;",
+    "morphology": "tat_tad_SANe mahābhāga_mahābhāga_SVM mā_mā_ gāḥ_gā_SPs2 tvam_tvad_SN dehi_dā_SPr2Im me_mad_SG jīvitam_jīvita_SANe punar_punar_  / pratipanna_pratipad_PaCp artha_artha_Cp nirvāhaḥ_nirvāha_SNM sahajam_sahaja_SNNe hi_hi_ satām_sat_PGM vratam"
+  },
+  {
+    "index": 14118,
+    "sanskrit": "abhrāntiniṣyandānāyā bhrānter abhrāntiphalatvāt / abhrāntiphalaṃ vyavadānaṃ sasamprayogam iti vākyaśeṣaḥ /",
+    "english": "Since the absence of error consists in the natural outcome of the absence of error, the result of the absence of error is purification because it is the result of the absence of error the ellipsis is together with its associates.",
+    "morphology": "a_a_ bhrānti_bhrānti_Cp nisyandānāyāḥ_nisyandāna_SGF bhrānteḥ_bhrānti_SGF a_a_ bhrānti_bhrānti_Cp phala_phala_Cp tvāt_tva_SBNe  / a_a_ bhrānti_bhrānti_Cp phalam_phala_SNNe vyavadānam_vyavadāna_SNNe sa_sa_ samprayogam_samprayoga_SNNe iti_"
+  },
+  {
+    "index": 14119,
+    "sanskrit": "etat hi paramam brahma svayam gītam svayaṃbhuvā",
+    "english": "These names constitute a hymn that furnishes the best means of attaining to Brahman.",
+    "morphology": "etat_etad_SNNe hi_hi_U paramam_parama_SNNe brahma_brahman_SNNe svayam_svayam_U gītam_gā_SNPaPsNe svayaṃbhunā_svayambhu_SIM"
+  }
+]

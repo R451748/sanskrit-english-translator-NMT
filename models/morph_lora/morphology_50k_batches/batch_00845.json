@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6752,
+    "sanskrit": "gandharva jānām aśvānām aham puruṣa sattama bhrātṛbhyaḥ tava pañcabhyaḥ pṛthak dātā śatam śatam",
+    "english": "O best of men, I intend to give thee and each of thy brothers a hundred steeds born in the country of the Gandharvas.",
+    "morphology": "gandharva_gandharva_MCp jānām_ja_PGM aśvānām_aśva_PGM aham_mad_SN puruṣa_puruṣa_MCp sattama_sattama_SVM bhrātṛbhyaḥ_bhrātṛ_PDM tava_tvad_SG pañcabhyaḥ_pañcan_PDM pṛthak_pṛthak_U dātā_dā_SFu3In śatamāhā_śata_SNM"
+  },
+  {
+    "index": 6753,
+    "sanskrit": "tena tubheda eva kuṇḍalādeḥ |yadi hāṭakādabhinnaḥ kaṭakaḥ kathamayaṃ kuṇḍa-lādiṣu nānuvartate ? nānuvartate cet kathaṃ hāṭakāda-bhinnaḥ kaṭakaḥ ? ye hi yasminnanuvartamāne vyāvartantete tato bhinnā eva, yathā sūtrātkusumabhedāḥ |nānuvartante cānuvartamāne'pi hāṭakatve kuṇḍalādayaḥ;tasmātte'pi hāṭakādbhinnā eveti |",
+    "english": "Now, it may be said only as gold is there non difference, not as bracelet as that bracelet, however, there is but difference from earring etc. We ask in reply if the bracelet is nondifferent from gold, how is it that this former does not recur in earring etc.? And if it does not recur, how is the bracelet non different from gold? For, those, which are variable when something is recurrent, are certainly different from that, as the different flowers from the string. And though goldness is recurrent, earring etc. are not recurrent hence, they too are certainly different from gold.",
+    "morphology": "tena_tena_ tu_tu_ bhedaḥ_bheda_SNM eva_eva_ kuṇḍala_kuṇḍala_Cp ādeḥ_ādi_SGM  / yadi_yadi_ hāṭakāt_hāṭaka_SBNe abhinnaḥ_abhinna_SNM kaṭakaḥ_kaṭaka_SNM katham_katham_ ayam_idam_SNM kuṇḍala_kuṇḍala_Cp la_la_Cp ādiṣu_ād"
+  },
+  {
+    "index": 6754,
+    "sanskrit": "jagatonte tato'jasraṃ tato vardhiṣyate vapuḥ / kalpāntamattārṇavavanniṣpārāmbarapūraṇam //",
+    "english": "Having gone beyond the limit of the world, thy body will increase in its bulk and extent; and become as swollen as the diluvian ocean, that covered the face of the whole universe.",
+    "morphology": "__jagant_U __anta_U __tatas_U __ajasram_U __tatas_U vardhiṣyate_vṛdh_SFu3In __vapus_U  / __kalpa_U __anā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā_U __ā"
+  },
+  {
+    "index": 6755,
+    "sanskrit": "anumānena yudhyante saṃjñābhiḥ ca parasparam",
+    "english": "The warriors fought, aided by guess and by the names they uttered.",
+    "morphology": "anumānena_anumāna_SINe"
+  },
+  {
+    "index": 6756,
+    "sanskrit": "tasmād atīndriyāyāḥ śakter abhāvāt nirviṣayā yathodāhṛtāḥ tā arthāpattayo bhavanti //",
+    "english": "Let us now pay our heed to the point at issue, Herice, the above illustrations of presumption which are put forward to establish the existence of transcendental power are really pointless.",
+    "morphology": "tasmāt_tasmāt_ atīndriyāyāḥ_atīndriya_SGF śakteḥ_śakti_SGF abhāvāt_abhāva_SBM nirviṣayāḥ_nirviṣaya_PNF yathā_yathā_ udāhṛtāḥ_udāhṛ_PNPaF tāḥ_tad_PNF arthāpattayaḥ_arthāpatti_PNF bhavanti_bhū_PPr3In  /"
+  },
+  {
+    "index": 6757,
+    "sanskrit": "kathaṃ cendhanamupādāyāgniḥ prajñapyate /",
+    "english": "they believe that fire is not identical with fuel nor different from fuel.",
+    "morphology": "katham_katham_"
+  },
+  {
+    "index": 6758,
+    "sanskrit": "tam samudram atikramya kadrūḥ vinatayā saha",
+    "english": "SECTION XXIII (Astika Parva continued) \"Sauti said, 'Having crossed the Ocean, Kadru of swift speed, accompanied by Vinata, soon alighted near the horse.",
+    "morphology": "tam"
+  },
+  {
+    "index": 6759,
+    "sanskrit": "svamukhyadharmavṛtyorapyadroho manasāpi yaḥ | sati gatyantare prāṇimātrasyāpīti sā matā || 13 ||",
+    "english": "13. (Obscure) Among one’s main moral inclinations what is called absence of ill will even of the mental type, in a provocative situation, towards any living being, is known as Ahiṃsā or non-injury.",
+    "morphology": "sva_sva_Cp mukhya_mukhya_Cp dharma_dharma_Cp vṛtyoḥ_vṛti_DuGF api_api_ adrohaḥ_adroha_SNM manasā_manas_SINe api_api_ yaḥ_yad_SNM  / sati_as_SLPaPrNe gati_gati_Cp antare_antara_SLNe prāṇi_prāṇin_Cp mātrasya_mātra_SGNe api_api_ iti_iti_ s"
+  }
+]

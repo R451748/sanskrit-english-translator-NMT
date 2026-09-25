@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18768,
+    "sanskrit": "yam devāsaḥ triḥ ahan āyajante dive dive varuṇaḥ mitraḥ agniḥ saḥ imam yajñam madhu mantam kr̥dhi naḥ tanū napāt ghr̥ta yonim vidhantam",
+    "english": "Agni whom daily Varuṇa and Mitra the Gods bring thrice a day to this our worship, Tanûnapât, enrich with meath our service that dwells with holy oil, that offers honour.",
+    "morphology": "yam_yad_SAM devāsaḥ_deva_PNM tris_tris_U ahan_ahar_SLNe āyajante_āyaj_PPr3In dive_diva_SLNe dive_diva_SLNe varuṇaḥ_varuṇa_SNM mitraḥ_mitra_SNM agniḥ_agni_SNM saḥ_tad_SNM imam_idam_SAM yajñam_yajña_SAM madhu_madhu_Cp mantam_mat_SAM kr̥dh"
+  },
+  {
+    "index": 18769,
+    "sanskrit": "pālitakam kālikam ca mahāmāyāvinau ubhau pūṣā ca pārṣadau prādāt kārttikeyāya bhārata",
+    "english": "Pushan gave him, O Bharata, two companions, Panitraka and Kalika, both endued with great powers of illusion.",
+    "morphology": "pālitakam_pālitaka_SAM kālikam_kālika_SAM ca_ca_U mahāmāyāvinau_mahāmāyāvin_DuAM ubhau_ubh_DuAM pūṣā_pūṣan_SNM ca_ca_U pārṣadau_pārṣada_DuAM prādāt_pradā_SPs3In kārttikeyāya_kārttikeya_SDM bhārata_bhārata_SVM"
+  },
+  {
+    "index": 18770,
+    "sanskrit": "tatparivarjanārthaṃ madhyamā pratipad yatra na cittaṃ na cetanā na mano na vijñānaṃ /",
+    "english": "In order to avoid these extremes, there is the middle path, where there is neither \"citta\" nor “volition\" nor \"manas\" nor \"consciousness\".",
+    "morphology": "tad_tad_Cp parivarjana_parivarjana_Cp artham_artha_SAM madhyamā_madhyama_SNF pratipad_pratipad_SNF yatra_yatra_ na_na_ cittam_citta_SNNe na_na_ cetanā_cetanā_SNF na_na_ manaḥ_manas_SNNe na_na_ vijñānam_vijñāna_SNNe  /"
+  },
+  {
+    "index": 18771,
+    "sanskrit": "tato vinihate daitye grasane balanāyake | nirmaryādamayudhyaṃta hariṇā saha dānavāḥ || 42 ||",
+    "english": "42. Thereupon, when Grasana, the Daitya-Chief of the army, was killed the (other) Dānavas fought with Hari without any check or restraint.",
+    "morphology": "tatas_tatas_ vinihate_vinihan_SLPaM daitye_daitya_SLM grasane_grasana_SLM bala_bala_Cp nāyake_nāyaka_SLM  / nirmaryādam_nirmaryāda_SANe ayudhyanta_yudh_P3ImIn hariṇā_hari_SIM saha_saha_ dānavāḥ_dānava_PNM"
+  },
+  {
+    "index": 18772,
+    "sanskrit": "kāraṇaṃ sahabhūścaiva sabhāgaḥ saṃprayuktakaḥ /",
+    "english": "Kāraṇabetu is reason for existence; sahabhūhetu is coexistent cause; sabhāgahetu is parallel cause; sarprayuktakahetu is associated cause;",
+    "morphology": "kāraṇam_kāraṇa_SNNe sahabhūḥ_sahabhū_SNF ca_ca_ eva_eva_ sa_sa_ bhāgaḥ_bhāga_SNM saṃprayuktakaḥ_saṃprayuktaka_SNM  /"
+  },
+  {
+    "index": 18773,
+    "sanskrit": "atha enam abruvan devāḥ bhūmiṣṭhān asurān jahi",
+    "english": "Encouraged by what he accomplished for them, they then solicited the Rishi to destroy those Asuras who had taken refuge within the bowels of the earth or in the nether regions.",
+    "morphology": "atha_atha_U enam_enad_SAM abruvan_brū_PPs3In devāḥ_deva_PNM bhūmiṣṭhān_bhūmiṣṭha_PAM asurān_asura_PAM jahi_han_SPr2Im"
+  },
+  {
+    "index": 18774,
+    "sanskrit": "yathā kumāryā eva bhavti, adya me bhrātā āgamiṣyatīti /",
+    "english": "e.g. when the virgin has the notion ‘my brother will come to-day’; and this does come about;",
+    "morphology": "yathā_yathā_ kumāryāḥ_kumārī_SGF eva_eva_ bhavati_bhū_SPr3In adya_adya_ me_mad_SG bhrātā_bhrātṛ_SNM āgamiṣyati_āgam_SFu3In iti_iti_"
+  },
+  {
+    "index": 18775,
+    "sanskrit": "dṛśyante kecidanyonyaṃ sādharmyādvāsanāgateḥ / mithaḥ kecinna dṛśyante dṛṣṭenātha sadātmanā //",
+    "english": "Many things are seen to occur one after another, in conformity with the course of our desires; but we never find any thing to take place, in concurrence with our sight of the holy spirit.",
+    "morphology": "dṛśyante_dṛś_PPr3InPv kecid_kaścit_PNM anyonyam_anyonya_SAM sādharmyāt_sādharmya_SBNe vāsanā_vāsanā_Cp gateḥ_gati_SGF  / mithas_mithas_ kecid_kaścit_PNM na_na_ dṛśyante_dṛś_PPr3InPv dṛṣṭena_dṛś_SIPaM atha_atha_ sat_as_PaPrCp"
+  }
+]

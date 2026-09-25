@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43288,
+    "sanskrit": "marma sirā dhamanī srotasām anyatra pravibhāgaḥ",
+    "english": "The positions and classifications of the veins, channels, Marmas and arteries will be dealt with in a separate chapter.",
+    "morphology": "marma_marman_NeCp sirā_sirā_FCp dhamanī_dhamani_FCp srotasām_srotas_PGNe"
+  },
+  {
+    "index": 43289,
+    "sanskrit": "nānā varṇa virāgābhiḥ vibabhuḥ sarvatas vṛtāḥ",
+    "english": "Indeed, having banners of diverse hues attached to them all around, those standards looked exceedingly beautiful.",
+    "morphology": "nānā_nānā_U varṇa_varṇa_MCp virāgābhiḥ_virāga_PIF vibabhuḥ_vibhā_PPs3In sarvatas_sarvatas_U vṛtāḥ_vṛ_PNPaPsF"
+  },
+  {
+    "index": 43290,
+    "sanskrit": "kevalapratiṣedhenāpradhānaḥ kadācit saṃsṛṣṭapratiṣedhaḥ śakyate vaktum /",
+    "english": "If the thing by itself were prohibited, then it might have been argued that the prohibition of the mixed thing is secondary.",
+    "morphology": "kevala_kevala_Cp pratiṣedhena_pratiṣedha_SIM apradhānaḥ_apradhāna_SNM kadācid_kadācid_ saṃsṛṣṭa_saṃsṛj_PaCp pratiṣedhaḥ_pratiṣedha_SNM śakyate_śak_SPr3InPv vaktum_vac_In  /"
+  },
+  {
+    "index": 43291,
+    "sanskrit": "sa nāhuṣaḥ prekṣamāṇaḥ udapānam gata udakam",
+    "english": "And the son of Nahusha saw a well that was by. And he saw that it was dry.",
+    "morphology": "sa_tad_SNM nāhuṣaḥ_nāhuṣa_SNM prekṣamāṇaḥ_prekṣ_SNPaPrM udapānam_udapāna_SAM gata_gam_PaPsCp udakaḥ_udaka_SNM"
+  },
+  {
+    "index": 43292,
+    "sanskrit": "upākaraṇaṃ tu nakṣatrāśrayam eva, na paurṇamāsyāśrayam //",
+    "english": "As for the Upākarma, its performance depends upon the lunar asterism and it need not be done on the fullmoonday.",
+    "morphology": "upākaraṇam_upākaraṇa_SNNe tu_tu_ nakṣatra_nakṣatra_Cp āśrayam_āśraya_SNNe eva_eva_ na_na_ paurṇamāsī_paurṇamāsī_Cp āśrayam_āśraya_SNNe  /"
+  },
+  {
+    "index": 43293,
+    "sanskrit": "bhavān ca punar āhūtaḥ dyūtena eva apaneṣyati",
+    "english": "Summoned once more, thou wilt again efface thyself at dice.",
+    "morphology": "bhavān_bhavat_SNM ca_ca_U punar_punar_U āhūtaḥ_āhvā_SNPaPsM dyūtena_dyūta_SINe eva_eva_U"
+  },
+  {
+    "index": 43294,
+    "sanskrit": "viprabhaktyā ca dānena viṣṇudhyānena siddhyati | tāsāṃ mantro rāmanāma dhyeyaḥ koṭyadhiko bhavet || 39 ||",
+    "english": "59. Purity (Viśuddhi) is achieved through devotion to Brāhmaṇas, making gifts and meditation on Viṣṇu. To them the requisite Mantra is the name Rāma. If Rāmanāma is meditated upon, it yields crores and more times benefit.",
+    "morphology": "vipra_vipra_Cp bhaktyā_bhakti_SIF ca_ca_ dānena_dāna_SINe viṣṇu_viṣṇu_Cp dhyānena_dhyāna_SINe siddhi_siddhi_Cp ati_ati_  / tāsām_tad_PGF mantraḥ_mantra_SNM rāma_rāma_Cp nāma_nāman_SNNe dhyeyaḥ_dhyā_SNMGd koṭi_koṭi_Cp adhikaḥ_a"
+  },
+  {
+    "index": 43295,
+    "sanskrit": "asaṃkalpena naṣṭānāṃ kaḥ prasaṅgo'tra vardhate / brahmaṇyeva hi sarvasmiṃścaraṇaspandanādikam //",
+    "english": "How very delighted are they that are dead to their desires, to reflect on this truth, that they are continually living and moving in the all pervading Brahma.",
+    "morphology": "asaṃkalpena_asaṃkalpa_SIM naṣṭānām_naś_PGPaM kaḥ_ka_SNM prasaṅgaḥ_prasaṅga_SNM atra_atra_ vardhate_vṛdh_SPr3In  / brahmaṇi_brahman_SLNe eva_eva_ hi_hi_ sarvasmin_sarva_SLNe caraṇa_caraṇa_Cp spandana_spandana_Cp ādikam_ādika_SNN"
+  }
+]

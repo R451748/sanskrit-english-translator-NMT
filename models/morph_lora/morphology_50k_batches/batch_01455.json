@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11632,
+    "sanskrit": "bhakta upari hitam sarpiḥ vasti karma ca pūjitam",
+    "english": "Draughts of clarified butter as well as the application of Shiro-vasti after meal are also found beneficial.",
+    "morphology": "bhakta_bhakta_SINe"
+  },
+  {
+    "index": 11633,
+    "sanskrit": "tvaṃ me sākṣī bhavādyeha anṛṇo 'hamṛṇatrayāt /",
+    "english": "You be the witness for me here today. Let me be free from three kinds of debts.",
+    "morphology": "tvam_tvad_SN ṛṣṭa_ṛṣṭa_SVM ḥ_ḥ_"
+  },
+  {
+    "index": 11634,
+    "sanskrit": "ata eva hi cottamabhidharme “anāsravairdharmaḥ kaḥ samanvāgataḥ / āha /",
+    "english": "The Abhidharma expresses itself in this way: “Who possesses pure dharmas?",
+    "morphology": "atas_atas_ eva_eva_ hi_hi_ ca_ca_ uttama_uttama_Cp abhidharme_abhidharma_SLM __anāsrava_U __dharma_U __ka_U __samanvāgam_PaU  / __ah_PPs2In  /"
+  },
+  {
+    "index": 11635,
+    "sanskrit": "tadā gṛhītaḥ kauravya niśceṣṭaḥ samapadyata",
+    "english": "Indeed, O son of Kuru, seized by her, Indra became deprived of all his energies.",
+    "morphology": "tadā_tadā_ gṛhītaḥ_grah_SNPaM kauravya_kauravya_SVM niśceṣṭaḥ_niṣṭhā_SNPaM"
+  },
+  {
+    "index": 11636,
+    "sanskrit": "ṛtasya tvā jyotiṣe prajāpatir virājam apaśyat tayā bhūtaṃ ca bhavyaṃ cāsṛjata tām ṛṣibhyas tiro 'dadhāt tāṃ jamadagnis tapasāpaśyat tayā vai sa pṛśnīn kāmān asṛjata tat pṛśnīnām pṛśnitvam |",
+    "english": "Prajapati saw the Viraj; by it he created the past and the future; he concealed it from the Rsis; by penance Jamadagni beheld it, and by it he created various delights; that is why the various (cups) have their name.",
+    "morphology": "ṛtasya_ṛta_SGNe tvā_tvad_SA jyotiṣe_jyotis_SDNe prajāpatiḥ_prajāpati_SNM virājam_virāj_SAF apaśyat_paś_S3ImIn tayā_tad_SIF bhūtam_bhū_SAPaNe ca_ca_ bhavyam_bhū_SANeGd ca_ca_ asṛjata_sṛj_S3ImIn tām_tad_SAF ṛṣibhyaḥ_ṛṣi_PBM "
+  },
+  {
+    "index": 11637,
+    "sanskrit": "na ca tattadupādhiviraho'pitato'tiricyate |",
+    "english": "freedom from the respective adjuncts something other than that.",
+    "morphology": "na_na_"
+  },
+  {
+    "index": 11638,
+    "sanskrit": "ciramantarmahādeva dṛṣṭo'syamalayā dhiyā / punarbahirayaṃ dṛṣṭyā diṣṭyā deva pradṛśyase //",
+    "english": "I always see thee seated in my heart, with the clear sightedness of my mind; and it is by my good luck, that I have thee now in my presence and outside of it.",
+    "morphology": "ciram_ciram_ antar_antar_ mahādeva_mahādeva_SVM dṛṣṭaḥ_dṛś_SNPaM asi_as_SPr2In amalayā_amala_SIF dhiyā_dhī_SIF  / punar_punar_ bahis_bahis_ ayam_idam_SNM dṛṣṭyā_dṛṣṭi_SIF diṣṭyā_diṣṭi_SIF deva_deva_SVM pradṛṣṭā_"
+  },
+  {
+    "index": 11639,
+    "sanskrit": "bhīmavegaḥ bhīmabalaḥ balākī balavardhanaḥ ugra āyudhaḥ bhīma śaraḥ kanaka āyuḥ dṛḍha āyudhaḥ dṛḍhavarmā dṛḍhakṣatraḥ soma kīrtiḥ anūdaraḥ",
+    "english": "Ayovahu, Mahavahu, Chitrachapa and Sukundala, Bhimavega, Bhimavala, Valaki, Bhimavikrama, Ugrayudha, Bhimaeara, Kanakayu, Dridhayudha, Dridhavarman, Dridhakshatra Somakirti, Anadara;",
+    "morphology": "bhīmavegaḥ_bhīmavega_SNM bhīmabalaḥ_bhīmabala_SNM balākī_balākin_SNM balavardhanaḥ_balavardhana_SNM ugra_ugra_Cp āyudhaḥ_āyudha_SNM bhīma_bhīma_Cp śaraḥ_śara_SNM kanaka_kanaka_NeCp āyuḥ_āyus_SNM dṛḍha_dṛḍha_Cp āyudhaḥ_"
+  }
+]

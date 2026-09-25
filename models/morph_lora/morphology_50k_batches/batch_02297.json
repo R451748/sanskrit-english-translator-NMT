@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18368,
+    "sanskrit": "vihāra artham ca gatayoḥ kṛṣṇayoḥ yamunām anu",
+    "english": "then follows the pleasure-trip of Krishna and Arjuna to the banks of the Jamuna and the acquisition by them of the discus and the celebrated bow Gandiva;",
+    "morphology": "vihāra_vihāra_MCp artham_artha_SAM ca_ca_U gatayoḥ_gam_DuGPaPsF kṛṣṇayoḥ_kṛṣṇa_DuGF"
+  },
+  {
+    "index": 18369,
+    "sanskrit": "tatosmadanurodhena tvāmāhvayadayaṃ nṛpaḥ | itīrayitvā pitaraṃ kakṣīvānvirarāma saḥ || 5 ||",
+    "english": "After saying this to his father Kakṣīvān stopped speaking.",
+    "morphology": "tatas_tatas_ mad_mad_Cp anurodhena_anurodha_SIM tvām_tvad_SA āhvayat_āhvā_S3ImIn ayam_idam_SNM nṛpaḥ_nṛpa_SNM  / iti_iti_ īrayitvā_īray_Co pitaram_pitṛ_SAM kakṣīvān_kakṣīvant_SNM virarāma_viram_SPs3In saḥ_tad_SNM  /"
+  },
+  {
+    "index": 18370,
+    "sanskrit": "dehaṃ gehaṃ punātyeva dhūpastvagurusaṃbhavaḥ | nāśayedyakṣarakṣāṃsi dhūpaḥ sarjarasodbhavaḥ || 26 ||",
+    "english": "26. The incense of black agallochum sanctifies the body and the abode. The incense from the resinous exudation of a Sāla tree (Vatica robusta) destroys Yakṣas and Rākṣasas.",
+    "morphology": "deham_deha_SAM geham_geha_SANe punāti_pū_SPr3In eva_eva_ dhūpaḥ_dhūpa_SNM tu_tu_ aguru_aguru_Cp saṃbhavaḥ_sambhava_SNM  / nāśayet_nāśay_SPr3O yakṣa_yakṣa_Cp rakṣāṃsi_rakṣas_PANe dhūpaḥ_dhūpa_SNM sarjarasa_sarjarasa_Cp udbhava"
+  },
+  {
+    "index": 18371,
+    "sanskrit": "punastāneva tānevamanyānapi yuge yuge / vedādivitpraracitānitihāsānsmarāmyaham //",
+    "english": "Bhusunda continued:—Moreover I will tell you sir, many other things that I remember to have occurred in the course of the world, and under the flight of by gone times. I remember the births of the seers Bharadwaja, Pulasta, Atri, Narada, Indra, the Marichis and yourselves also.",
+    "morphology": "punar_punar_ tān_tad_PAM eva_eva_ tān_tad_PAM evam_evam_ anyān_anya_PAM api_api_ yuge_yuga_SLNe yuge_yuga_SLNe  / veda_veda_Cp ādi_ādi_Cp vid_vid_SNM praracitān_praracay_PAPaM itihāsān_itihāsa_PAM smarāmi_smṛ_SPr1In aham_mad_SN  /"
+  },
+  {
+    "index": 18372,
+    "sanskrit": "evaṃ vaḥ kathitaṃ viprā māhātmyaṃ paramaṃ mayā | mahābalābhidhānasya śivaliṃgavarasya hi ||",
+    "english": "38. O brahmins thus the greatness of the excellent Śiva image Mahābala has been mentioned to you by me.",
+    "morphology": "evam_evam_ vaḥ_tvad_PA kathitam_kathay_SNPaNe viprāḥ_vipra_PVM māhātmyam_māhātmya_SNNe paramam_parama_SNNe mayā_mad_SI  / mahābala_mahābala_Cp abhidhānasya_abhidhāna_SGNe śiva_śiva_Cp liṃga_liṅga_Cp varasya_vara_SGNe hi_hi_  /"
+  },
+  {
+    "index": 18373,
+    "sanskrit": "kartumecchadvarācāraṃ mahotsavapurassaram | mahāharṣayutassarvabandhuyugghimaśailarāṭ ||",
+    "english": "24. The extremely delighted lord of mountains in the company of his kinsmen desired to perform the reception to the bridegroom with great pomp and ceremony.",
+    "morphology": "kartum_kṛ_In ecchat_iṣ_PaPrCp vara_vara_Cp ācāram_ācāra_SAM mahā_mahat_Cp utsava_utsava_Cp purassaram_puraḥsara_SAM  / mahā_mahat_Cp harṣa_harṣa_Cp yutaḥ_yuta_SNM sarva_sarva_Cp bandhu_bandhu_Cp yuj_yuj_SNM hima_hima_Cp śaila_śaila_Cp r"
+  },
+  {
+    "index": 18374,
+    "sanskrit": "ayam tu sadṛśaḥ vīraḥ śalyaḥ samiti śobhanaḥ",
+    "english": "This Shalya, however, the ornament of assemblies, is equal to Saurin.",
+    "morphology": "ayam_idam_SNM tu_tu_U sadṛśaḥ_sadṛśa_SNM vīraḥ_vīra_SNM śalyaḥ_śalya_SNM samiti_samiti_FCp śobhanaḥ_śobhana_SNM"
+  },
+  {
+    "index": 18375,
+    "sanskrit": "kātakaṃ phalamāsādya yathā vāri prasīdati / tathā vijñānavaśataḥ svabhāvaḥ saṃprasīdati //",
+    "english": "As the seeds of kata fruits, serve to purify the foul water;so doth philosophy tend to expurgate human nature, from all its errors.",
+    "morphology": "kātakam_kātaka_SNNe phalam_phala_SANe āsādya_āsāday_Co yathā_yathā_ vāri_vāri_SNNe prasīdati_prasad_SPr3In  / tathā_tathā_ vijñāna_vijñāna_Cp vaśataḥ_vaśa_SBM svabhāvaḥ_svabhāva_SNM saṃprasīdati_saṃprasad_SPr3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35320,
+    "sanskrit": "trikālaṃ japtvā māsotthaṃ śivāgre ca trimāsikam | māsaṃ japtvātha varṣotthaṃ varṣaṃ japtvā śatābdikam || 110 ||",
+    "english": "By repeating this three times, the sin arising in the course of a month is destroyed. By repeating it before Śiva, sin committed in the course of three months is destroyed. By repeating it for a month, sin of a year is destroyed and by repeating it for a year, sin of a hundred years is destroyed.",
+    "morphology": "tri_tri_Cp kālam_kāla_SAM japtvā_jap_Co māsa_māsa_Cp uttham_uttha_SAM śiva_śiva_Cp agre_agra_SLNe ca_ca_ tri_tri_Cp māsikam_māsika_SAM  / māsam_māsa_SAM japtvā_jap_Co atha_atha_ varṣa_varṣa_Cp uttham_uttha_SAM varṣam_varṣa_SAM japtvā_j"
+  },
+  {
+    "index": 35321,
+    "sanskrit": "nīrājanauparuddhaṃ vāhayataś cikitsakauparuddhaṃ vā dvādaśapaṇo daṇḍaḥ // kriyābhaiṣajyasaṅgena vyādhivṛddhau pratīkāradviguṇo daṇḍaḥ //",
+    "english": "Those who take out for the purpose of riding such horses as are kept inside the stables either for the purpose of waving lights nirájana or for medical treatment shall be fined panas When, owing to defects in medicine or carelessness in the treatment, the disease from which a horse is suffering becomes intense, a fine of twice the cost of the treatment shall be imposed;",
+    "morphology": "nīrājana_nīrājana_Cp auparuddham_auparuddha_SAM vāhayataḥ_vāhay_SGPaPrM cikitsaka_cikitsaka_Cp auparuddham_auparuddha_SAM vā_vā_ dvādaśa_dvādaśan_Cp paṇaḥ_paṇa_SNM daṇḍaḥ_daṇḍa_SNM  // kriyā_kriyā_Cp bhaiṣajya_bhaiṣajya_"
+  },
+  {
+    "index": 35322,
+    "sanskrit": "candra sūrya prabhā ālokam graha nakṣatra maṇḍitam",
+    "english": "It includes mobile and immobile entities, and receives light from the radiance of the sun and the moon, and is adorned with planets and constellations.",
+    "morphology": "candra_candra_MCp sūrya_sūrya_MCp prabhā_prabhā_FCp ālokam_āloka_SNNe graha_graha_MCp nakṣatra_nakṣatra_NeCp"
+  },
+  {
+    "index": 35323,
+    "sanskrit": "munibhiḥ brāhmaṇaiḥ ca eva sevitam sarvadā vibho",
+    "english": "It is always, O lord, the abode of Munis and Brahmanas.",
+    "morphology": "munibhiḥ_muni_PIM brāhmaṇaiḥ_brāhmaṇa_PIM ca_ca_U eva_eva_U sevitam_sev_SNPaPsNe sarvadā_sarvadā_U vibho_vibhu_SVM"
+  },
+  {
+    "index": 35324,
+    "sanskrit": "ayaṃ mama dahatyaṅgamambhojadalasaṃstaraḥ | hutāśanapratinidhihātmā nanu yujyate ||",
+    "english": "176 \"This bed of lotus-leaves here is burning my body; verily it is in the fitness of things that one that [in yellow and reddish colour] resembles fire should have the nature of burning\".",
+    "morphology": "ayam_idam_SNM mama_mad_SG dahati_dah_SPr3In aṅgam_aṅga_SANe ambhoja_ambhoja_Cp dala_dala_Cp saṃstaraḥ_saṃstara_SNM  / hutāśana_hutāśana_Cp pratinidhi_pratinidhi_Cp hā_han_SNM ātmā_ātman_SNM"
+  },
+  {
+    "index": 35325,
+    "sanskrit": "na bhavatsadṛśo rājā bhuvi bhūto bhaviṣyati | rājyaṃ bhoktuṃ tvayājñāyi yuktaṃ yattu mumukṣasi || 75 ||",
+    "english": "175. A king like you has never been before nor will there ever be. You knew well how to enjoy the kingdom. It is but proper that you wish to abandon it now.",
+    "morphology": "na_na_ bhavat_bhavat_Cp sadṛśaḥ_sadṛśa_SNM rājā_rājan_SNM bhuvi_bhū_SLF bhūtaḥ_bhū_SNPaM bhaviṣyati_bhū_SFu3In  / rājyam_rājya_SNNe bhoktum_bhuj_In tvayā_tvad_SI ajñāyi_jñā_SPs3InPv yuktam_yukta_SNNe yat_yad_SANe tu_tu_ mumukṣas"
+  },
+  {
+    "index": 35326,
+    "sanskrit": "śaṅkamānaḥ sa tat mithyā vīrya jñaḥ sva sutasya vai",
+    "english": "Recollecting however, the prowess of his son, he soon came to regard that intelligence as false.",
+    "morphology": "śaṅkamānaḥ_śaṅk_SNPaPrM"
+  },
+  {
+    "index": 35327,
+    "sanskrit": "marutām ca gaṇāḥ tatra deva yānaiḥ upāgaman mahendra anucarāḥ ye ca deva sadma nivāsinaḥ",
+    "english": "And ascending celestial cars, there approached the Marutas and the followers of Mahendra and the dwellers of heaven.",
+    "morphology": "marutām_marut_PGM ca_ca_U gaṇāḥ_gaṇa_PNM tatra_tatra_U deva_deva_MCp yānaiḥ_yāna_PINe upāgaman_upagam_PPs3In mahendra_mahendra_MCp anucarāḥ_anucara_PNM ye_yad_PNM ca_ca_U deva_deva_MCp sadma_sadman_NeCp nivāsinaḥ_nivāsin_PNM"
+  }
+]

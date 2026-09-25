@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10176,
+    "sanskrit": "parśukāsu atha bhagnāsu ghṛta abhyaktasya tiṣṭhataḥ",
+    "english": "In the case of a fracture of one of the rib-bones (Parshaka), the patient should be lubricated with clarified butter.",
+    "morphology": "parśukāsu_parśukā_PLF atha_atha_U bhagnāsu_bhañj_PLPaPsF ghṛta_ghṛta_NeCp abhyaktasya_abhyañj_SGPaPsM"
+  },
+  {
+    "index": 10177,
+    "sanskrit": "iha sarvasukhaṃ bhuktvā putrapautrādisaṃyutaḥ | labhetparatra sanmokṣaṃ śivasyātipriyo bhavet ||",
+    "english": "94. He will enjoy all happiness here. He will be blessed with sons and grandsons. In the next world he will attain salvation. He will be a great favourite of Śiva.",
+    "morphology": "iha_iha_ sarva_sarva_Cp sukham_sukha_SANe bhuktvā_bhuj_Co putra_putra_Cp pautra_pautra_Cp ādi_ādi_Cp saṃyutaḥ_saṃyuta_SNM  / labhet_labh_SPr3O paratra_paratra_ sat_sat_Cp mokṣam_mokṣa_SAM śivasya_śiva_SGM ati_ati_ priyaḥ_priya_SNM"
+  },
+  {
+    "index": 10178,
+    "sanskrit": "tadyathā hyuktamāyuṣmatā aniruddhena “tasya kāye kāyānupaśiyano viharataḥ kāyālalmbanānusmṛtistiṣṭhati saṃtiṣṭhata” iti vistaraḥ /",
+    "english": "in fact, as the object is seen by the prujñā, so too it is expressed, that is to say, grasped by the attention. Therefore the Blessed One said, “He dwells having an exact notion of the body with respect to the body: his attention is set and fixed having the body for its object”.",
+    "morphology": "tat_tad_SNNe yathā_yathā_ hi_hi_ uktam_vac_SNPaNe āyuṣmatā_āyuṣmat_SIM aniruddhena_aniruddha_SIM “tasya_tad_SGM kāye_kāya_SLM viharataḥ_vihṛ_SGPaPrM kāya_kāya_Cp ālalmbana_ālalmbana_Cp anusmṛtiḥ_anusmṛti_SNF tiṣṭhati_sthā_SP"
+  },
+  {
+    "index": 10179,
+    "sanskrit": "viṃśatibhāgo jyeṣṭhasya mithunam ubhayatodadyukto rathogovṛṣaḥ /",
+    "english": "The additional share of the eldest son consists of Dharmasutras one-twentieth of the estate, a pair of livestock, a carriage yoked to animals with teeth in both jaws (G .",
+    "morphology": "viṃśati_viṃśati_Cp bhāgaḥ_bhāga_SNM jyeṣṭhasya_jyeṣṭha_SGM mithunam_mithuna_SNNe rathaḥ_ratha_SNM gaḥ_ga_SNM vṛṣaḥ_vṛṣa_SNM  /"
+  },
+  {
+    "index": 10180,
+    "sanskrit": "samatāsundaraṃ vakraṃ puruṣasyāvalokayan / toṣameti yathā loko na tathā dhanasaṃcayaiḥ //",
+    "english": "No one receives so much delight from his accumulation of wealth, as he derives from the sight of the beautiful placid countenance.",
+    "morphology": "sama_sama_Cp tā_tā_Cp sundaram_sundara_SANe vakram_vakra_SANe puruṣasya_puruṣa_SGM avalokayan_avalokay_SNPaPrM  / toṣam_toṣa_SAM eti_i_SPr3In yathā_yathā_ lokaḥ_loka_SNM na_na_ tathā_tathā_ dhana_dhana_Cp saṃcayaiḥ_saṃcaya_PIM  /"
+  },
+  {
+    "index": 10181,
+    "sanskrit": "paṇḍita-janābhigamyo bhavati |",
+    "english": "One is visited by wise people.",
+    "morphology": "paṇḍita_paṇḍita_Cp jana_jana_Cp abhigamyaḥ_abhigam_SNMGd"
+  },
+  {
+    "index": 10182,
+    "sanskrit": "krodhajasyāpi ca daṇḍapātadoṣānubandhaḥ arthaghneṣv evānṛtādiṣu saṅgaḥ /",
+    "english": "In the set born of anger also, assaulting is beset with evils, and is followed by addiction to lying and other evil habits.",
+    "morphology": "krodha_krodha_Cp jasya_ja_SGM api_api_ ca_ca_ daṇḍa_daṇḍa_Cp pāta_pāta_Cp doṣa_doṣa_Cp anubandhaḥ_anubandha_SNM artha_artha_Cp ghneṣu_ghna_PLM eva_eva_ anṛta_anṛta_Cp ādiṣu_ādi_PLM saṅgaḥ_saṅga_SNM  /"
+  },
+  {
+    "index": 10183,
+    "sanskrit": "iti cchāndogyopaniṣadi aṣṭamādhyāyasya prathamaḥ khaṇḍaḥ",
+    "english": "End of Section of Discourse",
+    "morphology": "iti_iti_ chāndogya_chāndogya_Cp upaniṣadi_upaniṣad_SLF aṣṭama_aṣṭama_Cp adhyāyasya_adhyāya_SGM prathamaḥ_prathama_SNM khaḥ_khaḥ_SNM"
+  }
+]

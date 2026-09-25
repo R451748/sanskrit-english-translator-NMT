@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18088,
+    "sanskrit": "sattvam sukhe sañjayati rajaḥ karmaṇi bhārata",
+    "english": "Goodness uniteth (the soul) with pleasure; Passion, O Bharata, uniteth with work;",
+    "morphology": "sattvam_sattva_SANe"
+  },
+  {
+    "index": 18089,
+    "sanskrit": "upanīya sarvaṃ pariveṣayet iti vakṣyati / ataḥ pariveṣaṇārthaṃ pradeśāntarād ānīya tasyopanikṣepo 'yam // ubhayor hastayor muktaṃ yad annam upanīyate /",
+    "english": "Later on , our author is going to declare that \"having brought up the food, he should serve it all;\" hence the \"placing\" mentioned in the present verse must simply mean the bringing of the food from another place and depositing it near the Brāhmaṇas.",
+    "morphology": "upanīya_upanī_Co sarvam_sarva_SANe pariveṣayet_pariveṣay_SPr3O iti_iti_ vakṣyati_vac_SFu3In  / atas_atas_ pariveṣaṇa_pariveṣaṇa_Cp artham_artha_SAM pradeśa_pradeśa_Cp antarāt_antara_SBNe ānīya_ānī_Co tasya_tad_SGM upanikṣepaḥ_upa"
+  },
+  {
+    "index": 18090,
+    "sanskrit": "srucāvatī iti dharma ātmā tadā ṛṣi gaṇa saṃsadi",
+    "english": "The name the righteous-souled Rishi gave her in the presence of the gods and Rishis was Sruvavati.",
+    "morphology": "srucāvatī_srucāvat_SNF"
+  },
+  {
+    "index": 18091,
+    "sanskrit": "divā vicaranti kāryārthaṃ krayavikrayasvakāryasiddhyartham / rājakāryāya vā careyur nagarotsavaprekṣādinimittam /",
+    "english": "\"During the day\" they \"go about on business,\" \"ie, for the purpose of effecting purchases and sales; or on the King\" s business, for looking after rejoicings in the city and such other purposes.",
+    "morphology": "divā_divā_ vicaranti_vicar_PPr3In kārya_kārya_Cp artham_artha_SAM kraya_kraya_Cp vikraya_vikraya_Cp sva_sva_Cp kārya_kārya_Cp siddhi_siddhi_Cp artham_artha_SAM  / rāja_rājan_Cp kāryāya_kārya_SDNe vā_vā_ careyuḥ_car_PPr3O nagara_nagara_Cp uts"
+  },
+  {
+    "index": 18092,
+    "sanskrit": "sarvaśabdaviveko 'pi śrotrajñānasya kāryasyānupalabdhyā gamyata /",
+    "english": "As regards the absence of all sounds also, it is cognised through the non-apprehension of its effect in the shape of Auditory Cognition;",
+    "morphology": "sarva_sarva_Cp śabda_śabda_Cp vivekaḥ_viveka_SNM api_api_ śrotra_śrotra_Cp jñānasya_jñāna_SGNe kāryasya_kārya_SGNe anupalabdhyā_anupalabdhi_SIF "
+  },
+  {
+    "index": 18093,
+    "sanskrit": "(1) asti bhikṣavo duḥkhā pratipad dhandhābhijñā,",
+    "english": "(1) There is, monastics, practice which is painful and slow in knowledge,",
+    "morphology": "asti_as_SPr3In bhikṣavaḥ_bhikṣu_PVM duḥkhā_duḥkha_SNF"
+  },
+  {
+    "index": 18094,
+    "sanskrit": "svarūpādyāḥ suragaṇāḥ śikhirindraḥ sureśvaraḥ /",
+    "english": "Svarūpa and others were the celestials.",
+    "morphology": "sva_sva_Cp rūpa_rūpa_Cp ādyāḥ_ādya_PNM sura_sura_Cp gaṇāḥ_gaṇa_PNM śikhiḥ_śikhi_SNM indraḥ_indra_SNM sureśvaraḥ_sureśvara_SNM  /"
+  },
+  {
+    "index": 18095,
+    "sanskrit": "api ca etās tisras tu bhāryārthe nopayaccheta iti prāyaścittaṃ śrutam api, bhrāntihetuḥ ābhyas tisṛbhyo 'nyā na pratiṣiddhā iti /",
+    "english": "Then again, even though the text prescribes an expiatory rite in connection with the taking as wife of the three classes of girls the daughter of the Father\" s sister, the daughter of the Mother\" s sister and the daughter of the Mother\" s brother, yet people are liable to fall into the mistake that marriage with relatives other than the three specified here is not interdicted.",
+    "morphology": "api_api_ ca_ca_ etāḥ_etad_PAF tisraḥ_tri_PAF tu_tu_ bhāryā_bhāryā_Cp arthe_artha_SLM na_na_ upayaccheta_upayam_SPr3O iti_iti_ prāyaścittam_prāyaścitta_SNNe śrutam_śru_SNPaNe api_api_ bhrānti_bhrānti_Cp hetuḥ_hetu_SNM ābhyaḥ_idam_PBF t"
+  }
+]

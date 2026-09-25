@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27984,
+    "sanskrit": "āśramāṇāṃ mahārhāṇāṃ vanagrāmanivāsinām | prāṃgaṇādīni ramyāṇi hyudyānāni sthalāni ca || 29 ||",
+    "english": "He saw the beautiful courtyards of the rich hermitages of the residents of forests and villages. He saw gardens and vast lands.",
+    "morphology": "āśramāṇām_āśrama_PGM mahārhāṇām_mahārha_PGM vana_vana_Cp grāma_grāma_Cp nivāsinām_nivāsin_PGM  / prāṅgaṇa_prāṅgaṇa_Cp ādīni_ādi_PANe ramyāṇi_ramya_PANe hi_hi_ udyānāni_udyāna_PANe sthalāni_sthala_PANe"
+  },
+  {
+    "index": 27985,
+    "sanskrit": "vede pi bādhakam mānam uktam eva anumā ātmakam | tad ukta ātma ādi apohena tasmāt mānam na yujyate || pauruṣeya tva siddheḥ ca śaṅkyā duṣṭa nimitta tā | vahneḥ iva svatas śaktiḥ mithyā jñāneṣu vā bhavet || codanā prabhavam jñānam atas duṣṭa nimittakam | śaṅkyate dṛṣṭa doṣāt ca śaṅkya doṣam na bhidyate ||",
+    "english": "In connection with the Veda, it has been already pointed out that there is a sublating cognition in the form of inference; hence by the rejection of the ‘soul’ and other things mentioned in the Veda, it becomes established that the cognition derived from the veda cannot be valid.—As it has been proved that the Veda is the work of a personal author, the fact of its having a defective source is always open to suspicion.—If the capacity in question (i.e. validity) were inherent in cognitions, just as the capacity to burn is inherent in fire,—then such validity should belong to wrong cognitions also.—Thus it is open to suspicion that the cognition provided by the Veda proceeds from a defective source, and what is suspected to be defective does not differ from what is actually perceived to be defective",
+    "morphology": "vede_veda_SLM pi_pi_U bādhakam_bādhaka_SNNe mānam_māna_SNNe uktam_vac_SNPaPsNe eva_eva_U anumā_anumā_FCp ātmakam_ātmaka_SNNe  / tad_tad_Cp ukta_vac_PaPsCp ātma_ātman_MCp ādi_ādi_MCp apohena_apoha_SIM tasmāt_tasmāt_U mānam_māna_SNNe na_na_U "
+  },
+  {
+    "index": 27986,
+    "sanskrit": "bhūmim ete daduḥ sarve ye bhūmim bhuñjate janāḥ",
+    "english": "All men have made gifts of earth, hence all men enjoy a little of earth.",
+    "morphology": "bhūmim_bhūmi_SAF"
+  },
+  {
+    "index": 27987,
+    "sanskrit": "na hi mantrāprakāśitaṃ karma kiñcidbrāhmaṇa utpannaṃ dṛśyate /",
+    "english": "there is not a single act found in the Brāhmaṇatexts which has not been indicated by Mantras;",
+    "morphology": "na_na_ hi_hi_ mantra_mantra_Cp a_a_ prakāśita_prakāś_SNPaNe karma_karman_SNNe kiṃcid_kaścit_SNNe brāhmaṇe_brāhmaṇa_SLM utpanna_utpad_SNPaNe"
+  },
+  {
+    "index": 27988,
+    "sanskrit": "iti vyākulite loke surāsuranarorage | āḥkimetadakāṃḍebhūdrurudurdudruvuḥ prajāḥ || 28 ||",
+    "english": "28. Thus, the entire world consisting of human beings, serpents, Suras and Asuras became agitated. “Alas! What has happened unaccountably and at a wrong time.” All the subjects shouted thus and fled here and there.",
+    "morphology": "iti_iti_ vyākulite_vyākulita_SLM loke_loka_SLM sura_sura_Cp asura_asura_Cp nara_nara_Cp urage_uraga_SLM  / āḥ_āḥ_ __ka_SNNe __etad_SNF"
+  },
+  {
+    "index": 27989,
+    "sanskrit": "sarvauṣadhīnāmaśanaṃ pradhānaṃ sarveṣu peyeṣu jalaṃ pradhānam | nidrā sukhānāṃ pramadā ratīnāṃ sarveṣu gātreṣu śiraḥ pradhānam || 12 ||",
+    "english": "Intake of food is the most important of all medicines; of all beverages, water is the most important. Sleep is the most important of all happy and pleasing things, a young woman among the yielders of pleasures, and head is the most important of all the limbs.",
+    "morphology": "sarva_sarva_Cp oṣadhīnām_oṣadhi_PGF aśanam_aśana_SNNe pradhānam_pradhāna_SNNe sarveṣu_sarva_PLNe peyeṣu_peya_PLNe jalam_jala_SNNe pradhānam_pradhāna_SNNe  / nidrā_nidrā_SNF sukhānām_sukha_PGNe pramadā_pramadā_SNF ratīnām_rati_PGF sa"
+  },
+  {
+    "index": 27990,
+    "sanskrit": "ajñānād yathā buddhasya gocaraḥ //",
+    "english": "Reply : Because of non-knowledge, as in the case of the scope of Buddhas.",
+    "morphology": "ajñānāt_ajñāna_SBNe yathā_yathā_ buddhasya_buddha_SGM gocaraḥ_gocara_SNM  /"
+  },
+  {
+    "index": 27991,
+    "sanskrit": "vāstudevāḥ pañcaviṃśattattvāni vijayāya te /",
+    "english": "May the presiding deities of the grounds and the twentyfive principles confer victory on you.",
+    "morphology": "vāstu_vāstu_Cp devāḥ_deva_PNM pañcaviṃśat_pañcaviṃśat_SNF tattvāni_tattva_PNNe "
+  }
+]

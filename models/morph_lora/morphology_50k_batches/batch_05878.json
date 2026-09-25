@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47016,
+    "sanskrit": "ājñātāvīndriyam iti ājñātāvīndriyam ucyate /",
+    "english": "Since it is the faculty pertinent to one who possesses perfect knowledge it is described as the faculty of the possession of perfect knowledge.",
+    "morphology": "ājñātāvi_ājñātṛ_SNNe indriyam_indriya_SNNe iti_iti_ ājñātāvi_ājñātṛ_SNNe indriyam_indriya_SNNe ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 47017,
+    "sanskrit": "na tasmin sādhitenārthaḥ kṣaṇikatvena kaścana / tatra paryanuyogaś ca kriyamāṇo 'pi niṣphalaḥ //",
+    "english": "as any such attempt would be absolutely baseless. there can be no useful purpose served by proving the momentariness of such a thing. so that any objection taken to this is also absolutely futile.",
+    "morphology": "na_na_ tasmin_tad_SLM sādhitena_sādhay_SIPaM arthaḥ_artha_SNM kṣaṇika_kṣaṇika_Cp tvena_tva_SINe kaścana_kaścana_SNM  / tatra_tatra_ paryanuyogaḥ_paryanuyoga_SNM ca_ca_ kriyamāṇaḥ_kṛ_SNPaPrMPv api_api_ niṣphalaḥ_niṣphala_SNM  /"
+  },
+  {
+    "index": 47018,
+    "sanskrit": "mokṣa dharmaḥ ca vispaṣṭaḥ sakalaḥ atra samāhitaḥ",
+    "english": "It is also clear that the practices that lead to emancipation are equally dependent on them.",
+    "morphology": "mokṣa_mokṣa_MCp dharmaḥ_dharma_SNM ca_ca_U vispaṣṭaḥ_vispaṣṭa_SNM sakalaḥ_sakala_SNM atra_atra_U samāhitaḥ_samādhā_SNPaPsM"
+  },
+  {
+    "index": 47019,
+    "sanskrit": "prāyaścittānām atulyarūpatayā sahopadeśas tatra prāyaścittanimittatvād asyārthasya prathamam abhidhānam /",
+    "english": "The several Expiatory Bites are of unequal nature, and hence these are mentioned along with those. And what is stated in the opening verse has been mentioned first, because it also indicates certain occasions for the performance of expiatory rites.",
+    "morphology": "prāyaścittānām_prāyaścitta_PGNe atulya_atulya_Cp rūpa_rūpa_Cp tayā_tā_SIF saha_saha_ upadeśaḥ_upadeśa_SNM tatra_tatra_ prāyaścitta_prāyaścitta_Cp nimitta_nimitta_Cp tvāt_tva_SBNe asya_idam_SGM arthasya_artha_SGM prathamam_prathama_SNNe a"
+  },
+  {
+    "index": 47020,
+    "sanskrit": "gakāro hemaraktābho bharadvājasamanvitaḥ | vāyubījo viniryogaṃ kurvatāmādibhogadaḥ || 9 ||",
+    "english": "9. The syllable GA has red colour and the lustre of gold. It is accompanied by Bharadvāja (as sage). Vāyu is the Bīja. It gives Ādibhoga (the primordial pleasure) to those who duly practise it.",
+    "morphology": "gakāraḥ_gakāra_SNM hema_heman_Cp rakta_rakta_Cp ābhaḥ_ābha_SNM bharadvāja_bharadvāja_Cp samanvitaḥ_samanvita_SNM  / vāyubījaḥ_vāyubīja_SNM viniryogam_viniryoga_SAM kurvatām_kṛ_PGPaPrM ādi_ādi_Cp bhoga_bhoga_Cp daḥ_da_SNM  /"
+  },
+  {
+    "index": 47021,
+    "sanskrit": "ye māmatra bhajiṣyaṃti mānavāḥ śraddhayānvitāḥ | tvadvarodyatapāṇiṃ ca teṣāṃ dāsyāmi ciṃtitam || 19 ||",
+    "english": "19. To these people endowed with faith, who worship me with hands raised aloft to grant boon unto you, I will grant whatever they wish.",
+    "morphology": "ye_yad_PNM mām_mad_SA atra_atra_ bhajiṣyanti_bhaj_PFu3In mānavāḥ_mānava_PNM śraddhayā_śraddhā_SIF anvitāḥ_anvita_PNM  / tvad_tvad_Cp vara_vara_Cp udyata_udyam_PaCp pāṇim_pāṇi_SAM ca_ca_ teṣām_tad_PGM dāsyāmi_dā_SFu1In ciṃtitam_"
+  },
+  {
+    "index": 47022,
+    "sanskrit": "mūlakartanena sarveṇa sarvavināśa upalakṣyate /",
+    "english": "The cutting off of the root indicates total annihilation.",
+    "morphology": "mūla_mūla_Cp kartanena_kartana_SINe sarveṇa_sarva_SINe sarva_sarva_Cp vināśaḥ_vināśa_SNM upalakṣyate_upalakṣay_SPr3InPv  /"
+  },
+  {
+    "index": 47023,
+    "sanskrit": "gaṇakā nātra vidyaṃte ciṃtāvidyāviśāradāḥ | yataściketi sarveṣāṃ ciṃtā ciṃtāmaṇirdrutam || 9 ||",
+    "english": "9. Astrologers clever in the art of calculation are not present here, because the fabulous philosopher’s stone (Cintāmaṇi) calculates and understands quickly the innermost thoughts and desires of everyone.",
+    "morphology": "gaṇakāḥ_gaṇaka_PNM na_na_ atra_atra_ vidyaṃte_vid_PPr3InPv ciṃtā_cintā_Cp vidyā_vidyā_Cp viśāradāḥ_viśārada_PNM  / yatas_yatas_ ciketi_cit_SPs3In sarveṣām_sarva_PGM ciṃtā_ciṃtā_SNF ciṃtāmaṇiḥ_ciṃtāmaṇi_SNM drutam_"
+  }
+]

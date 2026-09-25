@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39104,
+    "sanskrit": "ṛgindraśobhanaṃ prāsyāṃ yujuryamasubhadrakam /",
+    "english": "The Ṛg veda is the ornament of Indra on the west. The Yajur veda is auspicious for Yama.",
+    "morphology": "ṛc_ṛc_Cp indra_indra_Cp śobhanaḥ_śobhana_SNM pra_pra_ asyām_idam_SLF yujuḥ_yuju_SNM yama_yama_Cp subhadrakaḥ_subhadraka_SNM  /"
+  },
+  {
+    "index": 39105,
+    "sanskrit": "vimṛśita kārya karaḥ adhikam jayati",
+    "english": "He that acteth with judgment obtaineth whatever he seeketh.",
+    "morphology": "vimṛśita_PaPsCp"
+  },
+  {
+    "index": 39106,
+    "sanskrit": "suptātha suciraṃ vāte dhinno garbho mayā tava | kṛtā ekonapaṃcāśadbhāgā vajreṇa te sutāḥ || 43 ||",
+    "english": "“You slept during the day, Mother, with your feet trampling on your tresses. In the open air, you slept for a long time. Your foetus was cut by me. Forty-nine pieces have been made of your (foetus) by means of my Vajra; they are (your) sons.",
+    "morphology": "suptā_svap_SNPaF atha_atha_ su_su_ ciram_ciram_ vāte_vāta_SLM dhinnaḥ_dhid_SNPaM garbhaḥ_garbha_SNM mayā_mad_SI tava_tvad_SG  / kṛtāḥ_kṛ_PNPaM ekonapaṃcāśat_ekonapaṃcāśat_Cp bhāgāḥ_bhāga_PNM vajreṇa_vajra_SIM te_tvad_SG sutā"
+  },
+  {
+    "index": 39107,
+    "sanskrit": "saḥ eva pūjyaḥ bhavati dvijānām yayātiḥ uvāca pratikūlam karmaṇām pāpam āhuḥ",
+    "english": "But it is said that he is truly worthy of worship who is superior in learning and ascetic merit.' \"Yayati replied to this, 'It is said that sin destroyeth the merits of four virtuous acts.",
+    "morphology": "saḥ_tad_SNM eva_eva_U pūjyaḥ_pūjay_SNMGd bhavati_bhū_SPr3In dvijānām_dvija_PGM yayātiḥ_yayāti_SNM uvāca_vac_SPs3In pratikūlam_pratikūla_SANe karmaṇām_karman_PGNe pāpam_pāpa_SANe āhuḥ_ah_PPs3In"
+  },
+  {
+    "index": 39108,
+    "sanskrit": "svaṃ dhanuḥ śaṅkiteneva saṃjahre śatamanyunā // Ragh(K)_4.16 //",
+    "english": "Now as he was at ease ( happy) by the pacificatition of (establishment of order and peace in ) his kingdom, there came to him, like a second goddess of wealth, autumn, marked by lotuses.",
+    "morphology": "svam_sva_SANe dhanuḥ_SANe śaṅkitena_śaṅk_SIPaM iva_iva_ saṃjahre_saṃhṛ_SPs3In śatamanyunā_śatamanyu_SIM  /"
+  },
+  {
+    "index": 39109,
+    "sanskrit": "sakkacca naṃ namasseyā aggihotraṃ va brāhmaṇo ||",
+    "english": "with respect bow down to him, like a brahmin bows at fire-sacrifice.",
+    "morphology": "sakkat_sakkat_ ca_ca_ naḥ_mad_PA namasseyāḥ_namass_SPr2O"
+  },
+  {
+    "index": 39110,
+    "sanskrit": "śūraiḥ śikṣā bala upetaiḥ taruṇaiḥ ati amarṣaṇaiḥ dṛṣṭvā ekam samare śūram saubhadram aparājitam chādyamānam śara vrātaiḥ hṛṣṭaḥ duryodhanaḥ abhavat",
+    "english": "Beholding the brave and invincible son of Subhadra singly encountered by all those wrathful princes endued with heroism and skill Chapter XVIII acquired by practice and strength and youth, and seeing him covered with showers of arrows, Duryodhana rejoiced greatly, and regarded Abhimanyu as one already made a guest of Yama's abode.",
+    "morphology": "śūraiḥ_śūra_PIM śikṣā_śikṣā_FCp bala_bala_NeCp upetaiḥ_upe_PIPaPsM taruṇaiḥ_taruṇa_PIM ati_ati_U amarṣaṇaiḥ_amarṣaṇa_PIM dṛṣṭvā_dṛś_Co ekam_eka_SAM samare_samara_SLNe śūram_śūra_SAM saubhadram_saubhadra_SAM apa"
+  },
+  {
+    "index": 39111,
+    "sanskrit": "āśrameṣu gatā bālā rātrau cintāparā sthitā | bandhuvargasya kathitaṃ samastaṃ tadviceṣṭitam || 20 ||",
+    "english": "The young lady in the hermitage was worried throughout the night. All her activities were reported to the kinsmen. She spoke to her sons, O son of Kuntī, “I have made a bet.”",
+    "morphology": "āśrameṣu_āśrama_PLM gatā_gam_SNPaF bālā_bāla_SNF rātrau_rātri_SLF cintā_cintā_Cp parā_para_SNF sthitā_sthā_SNPaF  / bandhu_bandhu_Cp vargasya_varga_SGM kathitam_kathay_SNPaNe samastam_samasta_SNNe tat_tad_SNNe viceṣṭitam_viceṣṭita_"
+  }
+]

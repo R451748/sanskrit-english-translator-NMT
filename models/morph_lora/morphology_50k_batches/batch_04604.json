@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36824,
+    "sanskrit": "śakrair grahai rasaivāpi hastair daṇḍastu sambhitaḥ //",
+    "english": "The rod measuring fourteen, nine or six cubits in length should be known as the excellent etc.",
+    "morphology": "śakraiḥ_śakra_PIM grahaiḥ_graha_PIM hastāḥ_hasta_PNM  /"
+  },
+  {
+    "index": 36825,
+    "sanskrit": "tacchabdabhagnadhyānena tatrasthena kṛpālunā / kenāpi bhālato muktā tato jvālā tapasvinā // tayā nirdagdhapāśāste daṇḍaṃ suṣiravaidrumam / praviśyaiva tadūrdhvasthe līnā jyotiṣi bhāsvare //",
+    "english": "But the noise interrupted the meditation of a certain merciful ascetic who was there, who discharged fire at the webs.[14] Then the webs, in which the spiders were entangled, were burnt up, and the spiders entered a hollow coral rod, and disappeared in a gleaming light at the top of it.",
+    "morphology": "tad_tad_Cp śabda_śabda_Cp bhagna_bhañj_PaCp dhyānena_dhyāna_SIM tatrasthena_tatrastha_SIM kṛpālunā_kṛpālu_SIM  / kena_ka_SIM api_api_ bhālataḥ_bhāla_SBM muktā_muc_SNPaF tatas_tatas_ jvālā_jvālā_SNF tapasvinā_tapasvin_SIM  / tayā_tad_"
+  },
+  {
+    "index": 36826,
+    "sanskrit": "sa hi praśyati smarati anusandhatte vicārayati icchati dveṣṭi yatate gṛhṇāti jahāti sukham anubhavatīti vakṣyāmaḥ /",
+    "english": "We shall bring home the point that it is the subject who sees, remembers, recognizes, judges, longs for an object, hates it, strives for it, catches hold of it, gives it up and enjoys pleasure derived from it.",
+    "morphology": "sa_tad_SNM hi_hi_U praśyati_praś_SPr3In smarati_smṛ_SPr3In anusandhatte_anusaṃdhā_SPr3In vicārayati_vicāray_SPr3In icchati_iṣ_SPr3In dveṣṭi_dviṣ_SPr3In yatate_yat_SPr3In gṛhṇāti_grah_SPr3In jahāti_hā_SPr3In sukham_sukha_SANe anubhav"
+  },
+  {
+    "index": 36827,
+    "sanskrit": "adharma bhaya saṃvignaḥ śarmiṣṭhām upajagmivān śukraḥ uvāca",
+    "english": "He who, solicited in secret by a woman full of desire and in season, goeth not in unto her, loseth virtue and is called by the learned a killer of the embryo, O son of Bhrigu, for these reasons, and anxious to avoid sin, I went into Sarmishtha.' Sukra then replied, 'Thou art dependent on me.",
+    "morphology": "adharma_adharma_MCp bhaya_bhaya_NeCp saṃvignaḥ_saṃvij_SNPaPsM"
+  },
+  {
+    "index": 36828,
+    "sanskrit": "senā mukhe prayuddhānām bhīmasenaḥ bhaviṣyati tam sarve saṃśrayiṣyanti prākāram akutobhayam",
+    "english": "And Bhimasena will take up his position in the very van of the combatants, and all his soldiers will fearlessly stand in his rear, as behind a rampart.",
+    "morphology": "senā_senā_FCp mukhe_mukha_SLNe prayuddhānām_prayudh_PGPaPsM bhīmasenaḥ_bhīmasena_SNM bhaviṣyati_bhū_SFu3In tam_tad_SAM sarve_sarva_PNM saṃśrayiṣyanti_saṃśri_PFu3In"
+  },
+  {
+    "index": 36829,
+    "sanskrit": "gava ādibhyaḥ tathā aśvebhyaḥ deva tvam api dṛśyate saḥ ayam etāḥ gatīḥ sarvāḥ jantuḥ carati kāryavān",
+    "english": "and the cow, the horse and other animals are observed to attain to even the divine state.'[43] O my son, the sentient being, reaping the fruits of his actions, thus transmigrates through these conditions;",
+    "morphology": "gava_go_MCp ādibhyaḥ_ādi_PBM tathā_tathā_U aśvebhyaḥ_aśva_PBM deva_deva_MCp tvam_tva_SNNe api_api_U dṛśyate_dṛś_SPr3InPv saḥ_tad_SNM ayam_idam_SNM etāḥ_etad_PAF gatīḥ_gati_PAF sarvāḥ_sarva_PAF jantuḥ_jantu_SNM carati_car_SPr3In"
+  },
+  {
+    "index": 36830,
+    "sanskrit": "abhigamane 'pi samāgamo 'stīti yatkiṃcid etat //",
+    "english": "But, as a matter of fact, there is \"meeting\" in \"approaching\" also; so there is no force in the said explanation.",
+    "morphology": "abhigamane_abhigamana_SLNe api_api_ samāgamaḥ_samāgama_SNM asti_as_SPr3In iti_iti_ yat_yad_SNNe kiṃcid_kaścit_SNNe etat_etad_SNNe  /"
+  },
+  {
+    "index": 36831,
+    "sanskrit": "astyabdhibhyāmubhayato vyāptaṃ khyātaṃ jagattraye / kuśadvīpamiti dvīpaṃ bhūmau valayavatsthitam //",
+    "english": "There is the great island of Kushadwipa, surrounded by the seas on all sides; like a watery belt about it, and this land is renowned (for its beauty), all over the three regions of the world.",
+    "morphology": "asti_as_SPr3In abdhibhyām_abdhi_DuIM ubhayatas_ubhayatas_ vyāptam_vyāp_SNPaNe khyātam_khyā_SNPaNe jagattraye_jagattraya_SLNe  / kuśadvīpam_kuśadvīpa_SAM iti_iti_ dvīpam_dvīpa_SAM bhūmau_bhūmi_SLF valaya_valaya_Cp vat_vat_ sthitam_sthā_SAPaM  "
+  }
+]

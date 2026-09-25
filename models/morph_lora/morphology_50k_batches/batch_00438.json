@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3496,
+    "sanskrit": "tat vṛkṣa yuddham abhavat mahīruha vināśanam",
+    "english": "Then, O king, the combat with trees between that human being and the Rakshasa, became so terrible that the region around soon became destitute of trees.",
+    "morphology": "tat_tad_SNNe vṛkṣa_vṛkṣa_MCp yuddham_yuddha_SNNe abhavat_bhū_SPs3In mahīruha_mahīruha_MCp vināśanam_vināśana_SNNe"
+  },
+  {
+    "index": 3497,
+    "sanskrit": "sūta uvāca | evaṃ te munayo yāvacchāpaṃ tasya mahīpateḥ | prayacchaṃti ca tāstāvadūcurbhāryā ruṣānvitāḥ || 11 ||",
+    "english": "Sūta said: 11. While those sages were about to curse the king, the wives spoke to them angrily:",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / evam_evam_ te_tad_PNM munayaḥ_muni_PNM yāvat_yāvat_ śāpam_śāpa_SAM tasya_tad_SGM mahīpateḥ_mahīpati_SGM  / prayacchanti_prayam_PPr3In ca_ca_ tāḥ_tad_PNF tāvat_tāvat_ ūcuḥ_vac_PPs3In bhāryāḥ_bh"
+  },
+  {
+    "index": 3498,
+    "sanskrit": "ojaḥ soma ātmakam snigdham śuklam śītam sthiram saram |",
+    "english": "Ojas (albumen) being of a white colour belongs to the class of Somatmaka (cooling) substances.",
+    "morphology": "ojaḥ_ojas_SNNe soma_soma_MCp ātmakam_ātmaka_SNNe snigdham_snigdha_SNNe śuklam_śukla_SNNe śītam_śīta_SNNe sthiram_sthira_SNNe saram_sara_SNNe"
+  },
+  {
+    "index": 3499,
+    "sanskrit": "saṃprīti bhojyāni annāni āpad bhojyāni vā punar",
+    "english": "One taketh another's food when one is in distress.",
+    "morphology": "saṃprīti_samprīti_FCp bhojyāni_bhuj_PNNeGd annāni_anna_PNNe āpad_āpad_FCp bhojyāni_bhuj_PNNeGd vā_vā_U"
+  },
+  {
+    "index": 3500,
+    "sanskrit": "bakva saḥ hṛta sāra tvāt viṣṭambhī vāta kopanaḥ ||",
+    "english": "It is a good appetiser and tends to enrage the deranged Vayu, and acts as a purgative and diuretic (tonic.—A.T.) It is heavy and slightly intoxicating.",
+    "morphology": "bakva_bakva_SNM saḥ_tad_SNM hṛta_hṛ_PaPsCp sāra_sāra_MCp tvāt_tva_SBNe viṣṭambhī_viṣṭambhin_SNM vāta_vāta_MCp kopanaḥ_kopana_SNM"
+  },
+  {
+    "index": 3501,
+    "sanskrit": "agnijalapraveśādayaśca na hetuḥ svargasya tāṃśca hetuṃ paśyati /",
+    "english": "to consider the rituals of suicide, entering into fire or drowning as a cause of a heavenly rebirth when they do not in fact procure heaven;",
+    "morphology": "agni_agni_Cp jala_jala_Cp praveśa_praveśa_Cp ādayaḥ_ādi_PNM ca_ca_ na_na_ hetuḥ_hetu_SNM svargasya_svarga_SGM tān_tad_PAM ca_ca_ hetum_hetu_SAM paśyati_paś_SPr3In  /"
+  },
+  {
+    "index": 3502,
+    "sanskrit": "matvā tamātmajaṃ brahmā sāmānyasurasaṃnibham | icchatyayaṃ mohayitumato'jñānavimohitaḥ ||",
+    "english": "39. This Brahmā considers Him his son and on a par with ordinary devas. Hence, deluded by ignorance, he desires to delude Him.",
+    "morphology": "matvā_man_Co tam_tad_SAM ātmajam_ātmaja_SAM brahmā_brahman_SNM sāmānya_sāmānya_Cp sura_sura_Cp saṃnibham_saṃnibha_SAM  / icchati_iṣ_SPr3In ayam_idam_SNM mohayitum_mohay_In atas_atas_ ajñāna_ajñāna_Cp vimohitaḥ_vimohay_SNPaM "
+  },
+  {
+    "index": 3503,
+    "sanskrit": "evaṃ jātir api vyaktivartmanā tannirvartayantī sādhanatāṃ lapsyate //",
+    "english": "Similarly, a universal performs an action through the help of an indi- vidual and becomes instrumental to an action.",
+    "morphology": "evam_evam_ jātiḥ_jāti_SNF api_api_ vyakti_vyakti_Cp vartmanā_vartman_SINe tat_tad_SANe nirvartayantī_nirvartay_SNPaPrF sādhanatām_sādhanatā_SAF lapsyate_labh_SFu3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3120,
+    "sanskrit": "yācitaḥ yaḥ purā asmābhiḥ paśya kālasya paryayam",
+    "english": "Behold the reverse brought about by Time.",
+    "morphology": "yācitaḥ_yāc_SNPaPsM yaḥ_yad_SNM purā_purā_U asmābhiḥ_mad_PI paśya_paś_SPr2Im kālasya_kāla_SGM paryayam_paryaya_SAM"
+  },
+  {
+    "index": 3121,
+    "sanskrit": "tatas halahalā śabdaḥ tatra āsīt ghora nisvanaḥ",
+    "english": "And there arose then a deep uproar of many many voices.",
+    "morphology": "tatas_tatas_U halahalā_halahalā_U śabdaḥ_śabda_SNM tatra_tatra_U āsīt_as_SPs3In ghora_ghora_Cp nisvanaḥ_nisvana_SNM"
+  },
+  {
+    "index": 3122,
+    "sanskrit": "darśanādeva rājendra kṛṣṇatīrthasya mānavaḥ | mucyate sarvapāpebhyo nātra kāryā vicāraṇā || 57 ||",
+    "english": "57. O King of kings! taking a look of the worshipable Liṅga here at the Kṛṣṇa Tīrtha absolves a man of all sins and there is no need for thinking about any other action in this regard.[Sanskrit text for this chapter is available]",
+    "morphology": "darśanāt_darśana_SBNe eva_eva_ rāja_rājan_Cp indra_indra_SVM kṛṣṇatīrthasya_kṛṣṇatīrtha_SGNe mānavaḥ_mānava_SNM  / mucyate_muc_SPr3InPv sarva_sarva_Cp pāpebhyaḥ_pāpa_PBNe na_na_ atra_atra_ kāryā_kṛ_SNFGd vicāraṇā_vicāra"
+  },
+  {
+    "index": 3123,
+    "sanskrit": "sa bhinna hṛdayaḥ vīraḥ vaktrāt śoṇitam udvaman papāta abhimukhaḥ pārtham chinna mūlaḥ iva drumaḥ",
+    "english": "And that hero, thus wounded in the breast began to vomit blood, and fell down upon the ground besides Pritha's son, like an uprooted tree.",
+    "morphology": "sa_tad_SNM bhinna_bhid_PaPsCp hṛdayaḥ_hṛdaya_SNM vīraḥ_vīra_SNM vaktrāt_vaktra_SBNe śoṇitam_śoṇita_SANe udvaman_udvam_SNPaPrM papāta_pat_SPs3In abhimukhaḥ_abhimukha_SNM pārtham_pārtha_SAM chinna_chid_PaPsCp mūlaḥ_mūla_SNM iva_iva_"
+  },
+  {
+    "index": 3124,
+    "sanskrit": "na tvaṃ devo 'suro martyo na tiryaṅ na dvijaḥ prabho | na strī na ṣaṃḍho na pumānsadasanna ca kiṃcana ||",
+    "english": "61. Thou art neither a deva nor an Asura, nor a man nor a brute, nor a brahmin, O lord. Thou art neither a woman nor a man, nor a eunuch. Thou makest nothing either the existent or the non-existent.",
+    "morphology": "na_na_ tvam_tvad_SN devaḥ_deva_SNM asuraḥ_asura_SNM martyaḥ_martya_SNM na_na_ tiryaṅ_tiryañc_SNM na_na_ dvijaḥ_dvija_SNM prabho_prabhu_SVM  / na_na_ strī_strī_SNF na_na_ ṣaṃḍhaḥ_ṣaṇḍha_SNM na_na_ pumān_puṃs_SNM sat_as_PaPrCp a"
+  },
+  {
+    "index": 3125,
+    "sanskrit": "kim cit eva nimittam ca bhavati atra kṣaya āvaham",
+    "english": "A slight obstacle may involve the whole Earth in ruin.",
+    "morphology": "kim_ka_SNNe cit_cit_U eva_eva_U nimittam_nimitta_SNNe ca_ca_U"
+  },
+  {
+    "index": 3126,
+    "sanskrit": "ihaikatyena narakīyaṃ",
+    "english": "That deed that is done here and is accumulated and through which one goes to hell.",
+    "morphology": "iha_iha_ ekatyena_ekatya_SIM"
+  },
+  {
+    "index": 3127,
+    "sanskrit": "yāḥ śilāvalayastatra puṣṭāstā vibudhādayaḥ / yāstu varṇojjvalā etāḥ svāsthitā buddhabuddhayaḥ //",
+    "english": "Now among the scattered seeds of souls, there were some that grew mature, and put forth in the forms of gods; and those that were of a bright appearance, became as intelligences and saints.",
+    "morphology": "yāḥ_yad_PNF śilā_śilā_Cp valayaḥ_vali_PNF tatra_tatra_ puṣṭāḥ_puṣ_PNPaF tāḥ_tad_PNF vibudha_vibudha_Cp ādayaḥ_ādi_PNM  / yāḥ_yad_PNF tu_tu_ varṇa_varṇa_Cp ujjvalāḥ_ujjvala_PNF etāḥ_etad_PNF su_su_ āsthitāḥ_āsthā_"
+  }
+]

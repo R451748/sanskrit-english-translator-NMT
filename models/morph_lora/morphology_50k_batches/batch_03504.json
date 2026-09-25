@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28024,
+    "sanskrit": "yadeva hīdaṃ sahotpannayorjanyajanakabhāvo nāstīti tadevedaṃ jāte dharme dharmasya nāstīti /",
+    "english": "This argument only repeats the thesis that two things arisen together cannot be \"that which produces\" and \"that which is produced.",
+    "morphology": "yat_yad_SNNe eva_eva_ hi_hi_ idam_idam_SNNe saha_saha_ utpannayoḥ_utpad_DuGPaM janya_janya_Cp janaka_janaka_Cp bhāvaḥ_bhāva_SNM na_na_ asti_as_SPr3In iti_iti_ tat_tad_SNNe eva_eva_ idam_idam_SNNe jāte_jan_SLPaM dharme_dharma_SLM dharmasya_dharma_SGM"
+  },
+  {
+    "index": 28025,
+    "sanskrit": "dharmāṇām ātmanaś ca vijñānapariṇāmād bahir abhāvāt /",
+    "english": "Because elements of existence and souls outside of the modification of consciousness do not last.",
+    "morphology": "dharmāṇām_dharma_PGM ātmanaḥ_ātman_SGM ca_ca_ vijñāna_vijñāna_Cp pariṇāmāt_pariṇāma_SBM bahis_bahis_ abhāvāt_abhāva_SBM  /"
+  },
+  {
+    "index": 28026,
+    "sanskrit": "yudhiṣṭhiraḥ uvāca uktam vai go pradānam te nāciketam ṛṣim prati māhātmyam api ca eva uktam uddeśena gavām prabho",
+    "english": "Obtaining his permission I left his dominions and have now come to the sole of thy feet.'\" SECTION LXXII \"Yudhishthira said, 'Thou hast, O grandsire, discoursed to me the topic of gifts of kine in speaking of the Rishi Nachiketa Thou hast also impliedly discoursed, O puissant one, on the efficacy and pre-eminence of that act.",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In uktam_vac_SNPaPsNe vai_vai_U go_go_MCp pradānam_pradāna_SNNe te_tvad_SD nāciketam_nāciketa_SAM ṛṣim_ṛṣi_SAM prati_prati_U māhātmyam_māhātmya_SNNe api_api_U ca_ca_U eva_eva_U uktam_vac"
+  },
+  {
+    "index": 28027,
+    "sanskrit": "na so divā ca rātto ca samādhim adhigacchati ||",
+    "english": "does not, either by day or night, attain to good concentration.",
+    "morphology": "na_na_ saḥ_tad_SNM divā_divā_ ca_ca_ ca_ca_ samādhim_samādhi_SAM adhigacchati_adhigam_SPr3In"
+  },
+  {
+    "index": 28028,
+    "sanskrit": "vartamānasya me dharme sve manyum mā kṛthāḥ dvija",
+    "english": "O regenerate one, grieve not for me owing to my adhering to the duties that belong to me by birth.",
+    "morphology": "vartamānasya_vṛt_SGPaPrM me_mad_SG dharme_dharma_SLM sve_sva_SLM manyum_manyu_SAM"
+  },
+  {
+    "index": 28029,
+    "sanskrit": "tasmai kṣattā yathāvṛttam ācacakṣe sutam prati",
+    "english": "And the royal usher explained to him precisely what the matter was with reference to his son.",
+    "morphology": "tasmai_tad_SDM kṣattā_kṣattṛ_SNM yathāvṛttam_yathāvṛtta_SANe ācakṣe_ācakṣ_SPs3In sutam_suta_SAM"
+  },
+  {
+    "index": 28030,
+    "sanskrit": "yau āsādya raṇe mūḍhāḥ dhārtarāṣṭrāḥ kṣayam gatāḥ",
+    "english": "Coming within their clasp, the foolish sons of Dhritarashtra have all met with destruction.",
+    "morphology": "yau_yad_DuAM āsādya_āsāday_Co raṇe_raṇa_SLM mūḍhāḥ_muh_PNPaPsM dhārtarāṣṭrāḥ_dhārtarāṣṭra_PNM kṣayam_kṣaya_SAM gatāḥ_gam_PNPaPsM"
+  },
+  {
+    "index": 28031,
+    "sanskrit": "goghnaḥ pitṛghno mātṛghno brahmahā gurutalpagaḥ / brahmaghnaḥ svarṇahārī ca surāpo lakṣajapyataḥ //",
+    "english": "The killer of a cow, the patricide, the matricide, the killer of a brahmin, the defiler of the bed of preceptor, the person who has stolen gold and the drunkard get purified after repetition of the mantra a lakh number of times.",
+    "morphology": "go_go_Cp ghnaḥ_ghna_SNM pitṛ_pitṛ_Cp ghnaḥ_ghna_SNM mātṛ_mātṛ_Cp ghnaḥ_ghna_SNM brahma_brahman_Cp hā_han_SNM gurutalpa_gurutalpa_Cp gaḥ_ga_SNM  / brahma_brahman_Cp ghnaḥ_ghna_SNM svarṇa_svarṇa_Cp hārī_hārin_SNM ca_ca_ surā_sur"
+  }
+]

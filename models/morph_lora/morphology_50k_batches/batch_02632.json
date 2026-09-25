@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21048,
+    "sanskrit": "ataś ca yo brahmacarya eva kathaṃcit paripakvakaṣāyaḥ sa na vivakṣate / tataḥ sa dvitīyatvābhāvān nādhikariṣyate / ataś ca śrauteṣv anadhikārāt tādṛśasyāśramāntaratāpatsyeta /",
+    "english": "Thus it is that the man who has all his passions deadened during the period of Studentship itself, does not wish to marry at all; and such a person, on account of having no companion wife, would not be entitled to the second order. Thus not being entitled to the rites prescribed in the Vedic texts, he would naturally take to the next the third order having skipped over Householdership.",
+    "morphology": "atas_atas_ ca_ca_ yaḥ_yad_SNM brahmacarye_brahmacarya_SLNe eva_eva_ kathaṃcid_kathaṃcid_ paripakva_paripakva_Cp kaṣāyaḥ_kaṣāya_SNM sa_tad_SNM na_na_ vivakṣate_vivakṣ_SPr3In  / tatas_tatas_ sa_tad_SNM dvitīya_dvitīya_Cp tva_tva_Cp abhāv"
+  },
+  {
+    "index": 21049,
+    "sanskrit": "akathiteṣu svalpeṣv api doṣeṣu kṛtavaraṇāpi tyājyaiva // yas tu doṣavatīṃ kanyām anākhyāyopapādayet / tasya tad vitathaṃ kuryāt kanyādātur durātmanaḥ //",
+    "english": "Since the text mentions the presence of defects as the ground for repudiation, it follows that even in the presence of such minor defects as are not mentioned here, one may abandon the girl, even after betrothal. If a man gives away a defective maiden, without declaring the defects, one may annul that act of the wicked girlbetrother.",
+    "morphology": "a_a_ kathiteṣu_kathay_PLPaM su_su_ alpeṣu_alpa_PLM api_api_ doṣeṣu_doṣa_PLM kṛta_kṛ_PaCp varaṇā_varaṇa_SNF api_api_ tyājyā_tyaj_SNFGd eva_eva_  // yaḥ_yad_SNM tu_tu_ doṣavatīm_doṣavat_SAF kanyām_kanyā_SAF an_an_ ākhyāya_ākh"
+  },
+  {
+    "index": 21050,
+    "sanskrit": "ataḥ pratiṣedhavākye dvitīyāśrutir avivakṣāyām atantram /",
+    "english": "So that in a prohibitive sentence, no significance need attach to the use of the Accusative ending, which therefore may be ignored.",
+    "morphology": "atas_atas_ pratiṣedha_pratiṣedha_Cp vākye_vākya_SLNe dvitīyā_dvitīyā_Cp śrutiḥ_śruti_SNF avivakṣāyām_avivakṣā_SLF atantram_atantra_SNNe  /"
+  },
+  {
+    "index": 21051,
+    "sanskrit": "dināni pañca tat yuddham abhūt parama dāruṇam",
+    "english": "That furious battle lasted for five days.",
+    "morphology": "dināni_dina_PANe pañca_pañcan_PANe tat_tad_SNNe yuddham_yuddha_SNNe"
+  },
+  {
+    "index": 21052,
+    "sanskrit": "tvad artham hi mahā bāho raudra rūpam bibharti ca",
+    "english": "He keepeth that dart by him, and hath now assumed a terrible form.",
+    "morphology": "tvad_tvad_Cp artham_artha_SAM hi_hi_U mahā_mahat_Cp bāho_bāhu_SVM"
+  },
+  {
+    "index": 21053,
+    "sanskrit": "śikhaṇḍinam ca bhīṣmāya pramukhe samakalpayat",
+    "english": "And he placed Sikhandin in the van, pitting him against Bhishma.",
+    "morphology": "śikhaṇḍinaḥ_śikhaṇḍin_SAM ca_ca_U bhīṣmāya_bhīṣma_SDM"
+  },
+  {
+    "index": 21054,
+    "sanskrit": "gakāro bahavo dṛṣṭāḥ iti vyavaharanti hi /",
+    "english": "The readers also say to this effect that there are many ga's.",
+    "morphology": "gakāraḥ_gakāra_SNM bahavaḥ_bahu_PNM dṛṣṭāḥ_dṛś_PNPaM iti_iti_"
+  },
+  {
+    "index": 21055,
+    "sanskrit": "evaṃ [na svabhāvasiddhatvena atropadeśavaiphalyāt] [dharmo na kāryaḥ] [tadupadeśeṣu na pratyetavyam] ity evaṃ vā yad upadiśyate tat prativihitam eva pūrvapakṣavacanamūlatvāt lokāyatadarśanasya /",
+    "english": "An advice in this matter is useless. One should not follow the round of duties prescribed by the Vedas. One should not place his confidence in the teachings of the Vedas. What has been taught by the materialists has been refuted. The materialistic philosophy is based upon the prima facie view stated in the Vedas but not upon the conclusive views of the Vedas.",
+    "morphology": "evam_evam_ na_na_ svabhāva_svabhāva_Cp siddha_sidh_PaCp tvena_tva_SINe atra_atra_ upadeśa_upadeśa_Cp vaiphalyāt_vaiphalya_SBNe  / dharmaḥ_dharma_SNM na_na_ kāryaḥ_kṛ_SNMGd tad_tad_Cp upadeśeṣu_upadeśa_PLM na_na_ pratyetavyam_pratī_SNNeGd i"
+  }
+]

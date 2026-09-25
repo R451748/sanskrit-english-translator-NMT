@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41312,
+    "sanskrit": "dharmasya brāhmaṇāḥ yoniḥ tasmāt tān pūjayet sadā",
+    "english": "Dharma, again, has sprung from the Brahmana. For this reason, the Brahmana should always be worshipped.",
+    "morphology": "dharmasya_dharma_SGM brāhmaṇāḥ_brāhmaṇa_PNM yoniḥ_yoni_SNF tasmāt_tasmāt_U tān_tad_PAM pūjayet_pūjay_SPr3O"
+  },
+  {
+    "index": 41313,
+    "sanskrit": "na hi mahāsatvānām arthakāmaviṣaye sahitatvaṃ paribhāṣituṃ yuktam, gamyate tu smṛtyantarebhyaḥ /",
+    "english": "Further, in the case of very powerful men, it would not be right to make it a condition that the wife shall partake of all their properties and pleasures; and yet that these also are meant we learn from other lawbooks.",
+    "morphology": "na_na_ hi_hi_ mahāsatvānām_mahāsattva_PGM artha_artha_Cp kāma_kāma_Cp viṣaye_viṣaya_SLM sahita_sahita_Cp tvam_tva_SNNe paribhāṣitum_paribhāṣ_In yuktam_yuj_SNPaNe gamyate_gam_SPr3InPv tu_tu_ smṛti_smṛti_Cp antarebhyaḥ_antara_PBNe  /"
+  },
+  {
+    "index": 41314,
+    "sanskrit": "mudga āmalaka yūṣaḥ vā sa sarpiṣkaḥ sa saindhavaḥ yavāgūm madhu miśrām vā pañcamūlī kṛtām pibet",
+    "english": "Draught of clarified butter churned from milk,[2] or the soup of Mudga and A malaka taken with clarified butter and Saindhavasalt, or gruels (Yavagu) prepared with the drugs of Panca-mula and taken with honey, would prove curative in the Vataja type of vomiting.",
+    "morphology": "mudga_mudga_MCp āmalaka_āmalaka_MCp yūṣaḥ_yūṣa_SNM vā_vā_U sa_sa_U sarpiṣkaḥ_sarpiṣka_SNM sa_sa_U saindhavaḥ_saindhava_SNM yavāgūm_yavāgū_SAF madhu_madhu_NeCp miśrām_miśra_SAF vā_vā_U pañcamūlī_pañcamūla_FCp kṛtām_kṛ_"
+  },
+  {
+    "index": 41315,
+    "sanskrit": "na marma gām jātu vaktāsi rūkṣām na upastutim kaṭukām na uta śuktām",
+    "english": "O Suta, thou never utterest harsh and cutting words, or those that are false or bitter.",
+    "morphology": "na_na_U marma_marman_NeCp gām_go_SAF jātu_jātu_U vaktāsi_vac_SFu2In rūkṣām_rūkṣa_SAF na_na_U upastutim_upastuti_SAF kaṭukām_kaṭuka_SAF na_na_U uta_uta_U śuktām_śukta_SAF"
+  },
+  {
+    "index": 41316,
+    "sanskrit": "teṣām parama hṛṣṭānām jayam ātmani paśyatām saṃrabdhānām mahā vegaḥ prādurāsīt raṇa ajire",
+    "english": "Great was the violence of that collision, on the field of battle, between those warriors, all of whom were cheerful and filled with rage and inspired with certain hopes of victory.",
+    "morphology": "teṣām_tad_PGM parama_parama_Cp hṛṣṭānām_hṛṣ_PGPaPsM jayam_jaya_SAM ātmani_ātman_SLM paśyatām_paś_PGPaPrM saṃrabdhānām_saṃrabh_PGPaPsM mahā_mahat_Cp vegaḥ_vega_SNM prādurāsīt_prāduras_SPs3In raṇa_raṇa_MCp ajire_ajira_SLN"
+  },
+  {
+    "index": 41317,
+    "sanskrit": "utpataṃti mahākāyā nipataṃti yadṛcchayā | merumaṃdarakailāsā vacasā saṃsthitāḥ sthirāḥ || 100 ||",
+    "english": "100. (The mountains) Meru, Mandāra, Kailāśa, that used to fly and fall accidentally, were (made) steady by (just) a command.",
+    "morphology": "utpatanti_utpat_PPr3In mahā_mahat_Cp kāyāḥ_kāya_PNM nipatanti_nipat_PPr3In yadṛcchayā_yadṛcchā_SIF  / meru_meru_Cp maṃdara_mandara_Cp kailāsāḥ_kailāsa_PNM vacasā_vacas_SINe saṃsthitāḥ_saṃsthā_PNPaM sthirāḥ_sthira_PNM  /"
+  },
+  {
+    "index": 41318,
+    "sanskrit": "duḥ-śīla-sattva-paripācanatāyai saṃvartate,",
+    "english": "and to the maturing of beings with poor virtue,",
+    "morphology": "duḥ_duḥ_U śīla_śīla_Cp sattva_sattva_Cp paripācana_paripācana_Cp tāyai_tā_SDF"
+  },
+  {
+    "index": 41319,
+    "sanskrit": "tadasmākaṃ vibhāgaṃ cedyūyaṃ yacchata sattamāḥ | sarve kavyasya dattasya tatkurmo vai hitaṃ śubham || 44 ||",
+    "english": "44. Therefore, O excellent ones, if all of you (agree to) offer share in the Kavya offered (to you) we shall render auspicious benefit unto you.",
+    "morphology": "tat_tad_SANe asmākam_mad_PG vibhāgam_vibhāga_SAM ced_ced_ yūyam_tvad_PN yacchata_yam_PPr2Im sattamāḥ_sattama_PVM  / sarve_sarva_PNM kavyasya_kavya_SGNe dattasya_dā_SGPaNe tat_tad_SANe kurmaḥ_kṛ_PPr1In vai_vai_ hitam_hita_SANe śubham_śubha_SAN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26552,
+    "sanskrit": "uttaraḥ mārutaḥ snigdhaḥ mṛduḥ madhuraḥ eva ca |",
+    "english": "The North wind is cold, crisp, mild, of a sweet taste terminating in an astringent one.",
+    "morphology": "uttaraḥ_uttara_SNM mārutaḥ_māruta_SNM snigdhaḥ_snigdha_SNM mṛduḥ_mṛdu_SNM madhuraḥ_madhura_SNM evā_eva_U ca_ca_U  /"
+  },
+  {
+    "index": 26553,
+    "sanskrit": "'tadevārthamātranirbhāsaṃ svarūpaśūnyamiva samādhi : ' iti /",
+    "english": "‘When that, giving up all forms, reflects only the meaning, it is concentration — samādhi' .",
+    "morphology": "__tad_U eva_eva_U __artha_U __mātra_U __nirbhāsa_U __svarūpa_U __śūnya_U iva_iva_U __samādhi_U __iti_U  /"
+  },
+  {
+    "index": 26554,
+    "sanskrit": "tam anyena nikṣpitam anyasyaarpayato hīyeta //",
+    "english": "A man handing over a sealed deposit to other than the real depositor shall be punished",
+    "morphology": "tam_tad_SAM anyena_anya_SIM nikṣpitam_nikṣp_SAPaM anyasya_anya_SGM arpayataḥ_arpay_SGPaPrM hīyeta_hā_SPr3OPv  /"
+  },
+  {
+    "index": 26555,
+    "sanskrit": "akṣasūtradharaḥ śānta ādimadhyāṃtavarjitaḥ | padmāsanastho varado himakundendusannibhaḥ || 10 ||",
+    "english": "10. I am quiescent without beginning, middle and end. I hold a rosary. I am seated in the lotus-posture. I am the bestower of boons. I resemble (in complexion) snow, a jasmine flower and the moon.",
+    "morphology": "__akṣasūtra_U __dhara_U __śam_PaU __ādi_U __madhya_U __anta_U __varjay_PaU  / __padmāsana_U __stha_U __vara_U __da_U __hima_U __kunda_U __indu_U __saṃnibha_U  /"
+  },
+  {
+    "index": 26556,
+    "sanskrit": "tadidaṃ catuṣkoṭikaṃ bhavati /",
+    "english": "'There are thus four cases: ī.",
+    "morphology": "tat_tad_SNNe idam_idam_SNNe catuṣkoṭikam_catuṣkoṭika_SNNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 26557,
+    "sanskrit": "sā sattā sa ca sambandho nityau kāryamatheha kiṃ //",
+    "english": "the Being and the Contact both being constant, what is there that could be produced?’",
+    "morphology": "sā_tad_SNF sattā_sattā_SNF sa_tad_SNM ca_ca_ sambandhaḥ_sambandha_SNM nityau_nitya_DuNM kāryam_kārya_SNNe atha_atha_ iha_iha_ kim_ka_SNNe  /"
+  },
+  {
+    "index": 26558,
+    "sanskrit": "na aniṣṭāya pradātavyā kanyā iti ṛṣi coditam",
+    "english": "The Rishis have laid the command upon all men that maidens should never be bestowed upon persons unless the latter happen to be most fit or eligible.",
+    "morphology": "na_na_U aniṣṭāya_aniṣṭa_SDM pradātavyā_pradā_SNFGd kanyā_kanyā_SNF iti_iti_U ṛṣi_ṛṣi_MCp coditam_coday_SNPaPsNe"
+  },
+  {
+    "index": 26559,
+    "sanskrit": "mahīm gatāḥ pārtha bala abhibhūtā vicitra rūpāḥ yugapad vineśuḥ",
+    "english": "And afflicted by the arrows of Partha, many of them, falling down on the earth, perished together.",
+    "morphology": "mahīm_mahī_SAF gatāḥ_gam_PNPaPsM pārtha_pārtha_SVM bala_bala_NeCp abhibhūtāḥ_abhibhū_PNPaPsM vicitra_vicitra_Cp rūpāḥ_rūpa_PNM yugapad_yugapad_U vineśuḥ_vinaś_PPs3In"
+  }
+]

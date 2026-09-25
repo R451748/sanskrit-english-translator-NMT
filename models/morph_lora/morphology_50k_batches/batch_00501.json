@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4000,
+    "sanskrit": "aṇvyaḥ sūkṣmā mātrā avayavā yasya so 'ṇumātrikaḥ /",
+    "english": "\"Invested with minute particles\" that which is constituted by minute, subtile, particles, parts.",
+    "morphology": "aṇvyaḥ_aṇu_PNF sūkṣmāḥ_sūkṣma_PNF mātrāḥ_mātrā_PNF avayavāḥ_avayava_PNM yasya_yad_SGM saḥ_tad_SNM aṇumātrikaḥ_aṇumātrika_SNM  /"
+  },
+  {
+    "index": 4001,
+    "sanskrit": "anyo 'pi yastādṛktapobalo nirvahetsa kuryyādeva/",
+    "english": "If there be another person with an equal degree of Brahmic glory, he might do such deeds with impunity.",
+    "morphology": "anyaḥ_anya_SNM api_api_ yaḥ_yad_SNM tādṛś_tādṛś_Cp tapaḥ_tapas_Cp balaḥ_bala_SNM nirvahet_nirvah_SPr3O"
+  },
+  {
+    "index": 4002,
+    "sanskrit": "śikhidhvajastu tatsarvaṃ bhāṇḍopaskaramāśramāt / ekatraivānayāmāsa bhuvo vāryabdhibhūriva //",
+    "english": "Sikhidvaja then brought out all his sacred vessels and seats from his grotto, and collected them all in one spot; as the great ocean yielded up all her submerged treasures, after the diluvian flood was over.",
+    "morphology": "śikhidhvajaḥ_śikhidhvaja_SNM tu_tu_ tat_tad_SANe sarvam_sarva_SANe bhāṇḍa_bhāṇḍa_Cp upaskaram_upaskara_SANe āśramāt_āśrama_SBM  / ekatra_ekatra_ eva_eva_ ānayāmāsa_ānī_SPs3InPe bhuvaḥ_bhū_SGF vāri_vāri_SANe abdhi_abdhi_Cp bhū"
+  },
+  {
+    "index": 4003,
+    "sanskrit": "{1} cakṣur-vijñānaṃ,",
+    "english": "{1} Eye-consciousness,",
+    "morphology": "ḥ"
+  },
+  {
+    "index": 4004,
+    "sanskrit": "vimukhīkṛtya karṇam tu saubhadraḥ kaṅka patribhiḥ anyān api mahā iṣvāsān tūrṇam eva abhidudruve",
+    "english": "Meanwhile, the son of Subhadra, causing Karna by means of his arrows to turn away from the field, quickly rushed against the other great bowmen.",
+    "morphology": "vimukhīkṛtya_vimukhīkṛ_Co karṇam_karṇa_SAM tu_tu_U saubhadraḥ_saubhadra_SNM kaṅka_kaṅka_MCp patribhiḥ_pattrin_PIM anyān_anya_PAM api_api_U mahā_mahat_Cp iṣvāsān_iṣvāsa_PAM tūrṇam_tūrṇam_U eva_eva_U abhidudruve_abhidru_SPs3I"
+  },
+  {
+    "index": 4005,
+    "sanskrit": "duḥṣantaṃ pauravaṃ cāpi lebhe putram akalmaṣam //",
+    "english": "Afterwards he obtained the sinless Puru king Dushmanta as his son -.",
+    "morphology": "duḥṣantam_duḥṣanta_SAM pauravam_paurava_SAM ca_ca_ api_api_ lebhe_labh_SPs3In putram_putra_SAM akalmaṣaḥ_akalmaṣa_SNM  /"
+  },
+  {
+    "index": 4006,
+    "sanskrit": "antarmukhatvāttanmokṣasaṃjñāvyāvṛttaye kṛtaḥ //",
+    "english": "It is so called because it is turned within, and in order to avoid the idea that these two Dhātus are deliverance.",
+    "morphology": "antar_antar_ mukha_mukha_Cp tvāt_tva_SBNe tad_tad_Cp mokṣa_mokṣa_Cp saṃjñā_saṃjñā_Cp vyāvṛttaye_vyāvṛtti_SDF kṛtaḥ_kṛ_SNPaM  /"
+  },
+  {
+    "index": 4007,
+    "sanskrit": "atra kadācicchabdapariṇāmarūpatvād vā jagataḥ śabdamayatvaṃ sādhyatveneṣṭam kadācicchabdādutpatter vā / yathānnamayāḥ prāṇā iti hetau mayaḍvidhānāt /",
+    "english": "Is the World regarded as ‘of the Essence of Sound’, ‘Śabdamaya’ in the sense that sometimes it takes the form of the modification of Sound? Or in the sense that sometimes it is produced from Sound, as in the case of the expression ‘annamayāḥ prāṇāḥ’ (‘Life is of the essence of food’), the affix ‘mayaṭ’ denotes cause (the meaning being that Food is the cause of Life)?",
+    "morphology": "atra_atra_ kadācid_kadācid_ śabda_śabda_Cp pariṇāma_pariṇāma_Cp rūpa_rūpa_Cp tvāt_tva_SBNe vā_vā_ jagataḥ_jagant_SGNe śabda_śabda_Cp maya_maya_Cp tvam_tva_SNNe sādhya_sādhay_GdCp tvena_tva_SINe iṣṭam_iṣ_SNPaNe kadācid_kadācid_ "
+  }
+]

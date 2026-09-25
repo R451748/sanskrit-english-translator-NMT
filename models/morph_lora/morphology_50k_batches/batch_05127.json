@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41008,
+    "sanskrit": "nṛtyamānam iva ūrmībhiḥ garjamānam iva ambhasā",
+    "english": "And it conveyed them in that vessel on the roaring and billow beaten sea.",
+    "morphology": "nṛtyamānam_nṛt_SAPaPrM iva_iva_U ūrmībhiḥ_ūrmi_PIF"
+  },
+  {
+    "index": 41009,
+    "sanskrit": "tasmādubhayakṣaye sati maraṇamāyuḥkṣayādityuktam /",
+    "english": "and vice versa. Consequently the third alternative should be understood as “death because the two types of actions are exhausted.”",
+    "morphology": "tasmāt_tasmāt_ ubhaya_ubhaya_Cp kṣaye_kṣaya_SLM sati_as_SLPaPrM maraṇam_maraṇa_SNNe āyuḥ_āyus_Cp kṣayāt_kṣaya_SBM iti_iti_ uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 41010,
+    "sanskrit": "karmabījakalātyāge tvetasmāditarātmani / avidyamāne jīvasya tajjñairviditavastubhiḥ //",
+    "english": "After the germinating seed of action is removed from the mind, the wise man loses the sight of all temporal objects, in his full view of the holy light of God.",
+    "morphology": "karma_karman_Cp bīja_bīja_Cp kalā_kalā_Cp tyāge_tyāga_SLM tu_tu_ etasmāt_etad_SBM itarātmani_itarātman_SLM  / a_a_ vidyamāne_vid_SLPaPrMPv jīvasya_jīva_SGM tad_tad_Cp jñaiḥ_jña_PIM vidita_vid_PaCp vastubhiḥ_vastu_PIM  /"
+  },
+  {
+    "index": 41011,
+    "sanskrit": "svitpraśne ca vitarke ca tu syādbhede 'vadhāraṇe // sakṛtsahaikavāre syādārāddūrasamīpayoḥ /",
+    "english": "Svit is used in the sense of interrogation and doubt. Tu is used to denote division and limitation. Sakṛt is used in the sense of together with and once.",
+    "morphology": "svid_svid_ praśne_praśna_SLM ca_ca_ vitarke_vitarka_SLM ca_ca_ tu_tu_ syāt_as_SPr3O bhede_bheda_SLM avadhāraṇe_avadhāraṇa_SLNe  // sakṛt_sakṛt_ saha_saha_ eka_eka_Cp vāre_vāra_SLM syāt_as_SPr3O ārāt_ārāt_ dūra_dūra_Cp samīpayoḥ_sam"
+  },
+  {
+    "index": 41012,
+    "sanskrit": "eva indrāgni bhyām pitr̥ vat navīyaḥ mandhātr̥ vat aṅgirasvat avāci tri dhātunā śarmaṇā pātam asmān vayam syāma patayaḥ rayīṇām",
+    "english": "Thus have we sung anew to Indra-Agni, as sang our sires, Angirases, and Mandhâtar. Guard us with triple shelter and preserve us: may we be masters of a store of riches.",
+    "morphology": "eva_eva_U indrāgni_indrāgni_DuDM bhyām_bhya_SDM pitr̥_pitṛ_SNNe vat_vat_U navīyaḥ_navīyas_SNNe mandhātr̥_mandhātṛ_SNM vat_vat_U aṅgirasvat_aṅgirasvat_U avāci_vac_SPs3InPv tri_tri_Cp dhātunā_dhātu_SINe śarmaṇā_śarman_SINe pātam_"
+  },
+  {
+    "index": 41013,
+    "sanskrit": "na aham tātaḥ tava pituḥ tātaḥ asmi tava bhārata",
+    "english": "While a child, climbing on the lap of this high-souled one I once called him father, I am not thy father but thy father's father, O Bharata!--even this is what he said to me (in reply) in my childhood.",
+    "morphology": "na_na_U aham_mad_SN tātaḥ_tāta_SNM tava_tvad_SG pituḥ_pitṛ_SGM tātaḥ_tāta_SNM asmi_as_SPr1In tava_tvad_SG bhārata_bhārata_SVM"
+  },
+  {
+    "index": 41014,
+    "sanskrit": "yathā senā na bhajyeta tathā nītiḥ vidhīyatām",
+    "english": "Make ye such arrangements that our troops may not break.",
+    "morphology": "yathā_yathā_U"
+  },
+  {
+    "index": 41015,
+    "sanskrit": "tasyaiva brahmākhyasya dharmiṇo 'siddheḥ /",
+    "english": "because the Thing itself, in the form of Brahman, is still not established;",
+    "morphology": "tasya_tad_SGM eva_eva_ brahma_brahman_Cp ākhyasya_ākhyā_SGM dharmiṇaḥ_dharmin_SGM asiddheḥ_asiddhi_SBF  /"
+  }
+]

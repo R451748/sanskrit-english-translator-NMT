@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1408,
+    "sanskrit": "yatra karmaṇi kriyamāṇe kiṃkathikā na bhavati, tat kartayam / yatra tu hṛdayaṃ na tuṣyati, tad varjanīyam //",
+    "english": "While an act is being performed, if there arises in the mind no sort of doubt or hesitation, then that act should he proceeded with. But, if the mind is not satisfied in regard to an action, that action should be avoided.",
+    "morphology": "yatra_yatra_ karmaṇi_karman_SLNe kriyamāṇe_kṛ_SLPaPrNePv kiṃkathikā_kiṃkathikā_SNF na_na_ bhavati_bhū_SPr3In tat_tad_SNNe  / yatra_yatra_ tu_tu_ hṛdayam_hṛdaya_SNNe na_na_ tuṣyati_tuṣ_SPr3In tat_tad_SNNe varjanīyam_varjay_SNNeGd  /"
+  },
+  {
+    "index": 1409,
+    "sanskrit": "duḥkhaśokamahāṣṭhīlaḥ kaṣṭakaṇṭakasaṃkaṭaḥ / sahasraśākhatāṃ yāti dāridryadṛḍhaśālmaliḥ //",
+    "english": "Poverty branches out like the thorny Salmali tree, in a thousand branches of misery, distress, sorrow, sickness, and all kinds of woe to human beings.",
+    "morphology": "duḥkha_duḥkha_Cp śoka_śoka_Cp mahā_mahat_Cp aṣṭhīlaḥ_aṣṭhīlā_SNM kaṣṭa_kaṣṭa_Cp kaṇṭaka_kaṇṭaka_Cp saṃkaṭaḥ_saṃkaṭa_SNM  / sahasra_sahasra_Cp śākhā_śākhā_Cp tā_tā_SNF yāti_yā_SPr3In dāridrya_dāridry"
+  },
+  {
+    "index": 1410,
+    "sanskrit": "bhuktvā yoniśatānyuccairduḥkhādduḥkhāntaraṃ gataḥ / kadācicchamamāyāti saṃsārasvapnasaṃbhrame //",
+    "english": "They then pass into hundreds of births, leading from misery to misery, or have a moment's respite; from the pains in their short lived prosperity, amidst their dreaming journey through life.",
+    "morphology": "bhuktvā_bhuj_Co yoni_yoni_Cp śatāni_śata_PANe uccais_uccais_ duḥkhāt_duḥkha_SBNe duḥkha_duḥkha_Cp antaram_antara_SANe gataḥ_gam_SNPaM  / kadācid_kadācid_ śamam_śama_SAM āyāti_āyā_SPr3In saṃsāra_saṃsāra_Cp svapna_svapna_Cp saṃ"
+  },
+  {
+    "index": 1411,
+    "sanskrit": "ataścāvi niyuktatvādiṣe tvādivadapi nādhyāhāreṇa nirākāṅkṣīkṛtya pra yogaḥ /",
+    "english": "Nor again is the word itself capable of being employed as a Mantra so that we cannot even assume any Injunctions of its employment, as we do in the case of the Mantra Ishe tva and the rest.",
+    "morphology": "atas_atas_ ca_ca_ avi_avi_SNNe niyukta_niyuj_PaCp tvāt_tva_SBNe iṣe_iṣ_SDF tu_tu_ ādi_ādi_Cp vat_vat_ api_api_ na_na_ adhyāhāreṇa_adhyāhāra_SIM"
+  },
+  {
+    "index": 1412,
+    "sanskrit": "jitvā saṃpūjayed devān brāhmaṇāṃś caiva dhārmikān / pradadyāt parihārāṃś ca khyāpayed abhayāni ca //",
+    "english": "Having gained victory, he shall worship the gods and the righteous Brāhmaṇas, grant remissions and proclaim amnesties0.",
+    "morphology": "jitvā_ji_Co saṃpūjayet_sampūjay_SPr3O devān_deva_PAM brāhmaṇān_brāhmaṇa_PAM ca_ca_ eva_eva_ dhārmikān_dhārmika_PAM  / pradadyāt_pradā_SPr3O parihārān_parihāra_PAM ca_ca_ khyāpayān_khyāpay_SPr3O abhayāni_abhaya_PANe"
+  },
+  {
+    "index": 1413,
+    "sanskrit": "yathābandhu yathābhṛtyaṃ yathehāstamayodayam / ajāta eva jāto'hamiti cetati cidvapuḥ //",
+    "english": "It thinks of its friends and servants, and of the success and failure of its attempts. And thus the increate and incorporeal soul, ruminates on the events of its created and corporeal state in its intellectual form.",
+    "morphology": "yathābandhu_yathābandhu_ yathā_yathā_ bhṛtyam_bhṛtya_SAM yathā_yathā_ iha_iha_ astamaya_astamaya_Cp udayam_udaya_SAM  / a_a_ jātaḥ_jan_SNPaM"
+  },
+  {
+    "index": 1414,
+    "sanskrit": "mokṣatīrthaṃ hi satprāhuḥ purāṇapuruṣāśritam | bhṛgoḥ kṣetre ca tīrthānāṃ koṭirekā samāśritā || 51 || sādhikānāmṛṣiśreṣṭhā vaktuṃ śakto hi ko bhavet | sarvāmarāśrayaṃ proktaṃ sarvatīrthāśrayaṃ tathā || 52 || triṣu lokeṣu vikhyātaṃ pūjitaṃ siddhisādhanam | bhārabhūtyāṃ ca tīrthānāṃ sthitamaṣṭottaraṃ śatam || 53 ||",
+    "english": "They say that Mokṣatīrtha is excellent and supported by the Purāṇapuruṣa (Ancient Being). One crore Tīrthas are present in the holy spot of Bhṛgu. O excellent sages, who is competent to speak more about the Tīrthas? It is mentioned as the resort of all immortal ones and all Tīrthas. It is well-known in all the three worlds and is honoured. It is the means of achievement of miraculous powers. In Bhārabhūti one hundred eight Tīrthas are present.",
+    "morphology": "mokṣatīrtham_mokṣatīrtha_SANe hi_hi_ sat_sat_SANe prāhuḥ_prāh_PPs3In purāṇapuruṣa_purāṇapuruṣa_Cp āśritam_āśri_SAPaNe  / bhṛgoḥ_bhṛgu_SGM kṣetre_kṣetra_SLNe ca_ca_ tīrthānām_tīrtha_PGNe koṭiḥ_koṭi_SNF ekā_eka_SN"
+  },
+  {
+    "index": 1415,
+    "sanskrit": "adbhir eva dvijāgryāṇāṃ kanyādānaṃ viśiṣyate / itareṣāṃ tu varṇānām itaretarakāmyayā //",
+    "english": "\"For the chief of twiceborn men the giving away of one\" s daughter with water alone is commended; but for the other castes it is with mutual desire\".",
+    "morphology": "adbhiḥ_ap_PIF eva_eva_ dvijāgryāṇām_dvijāgrya_PGM kanyā_kanyā_Cp dānam_dāna_SNNe viśiṣyate_viśiṣ_SPr3InPv  / itareṣām_itara_PGM tu_tu_ varṇānām_varṇa_PGM itaretara_itaretara_Cp kāmyayā_kāmyā_SIF  /"
+  }
+]

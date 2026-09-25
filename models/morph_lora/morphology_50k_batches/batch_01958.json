@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15656,
+    "sanskrit": "hate yudhiṣṭhire pārthaḥ hanyāt sarvān hi naḥ dhruvam",
+    "english": "If Yudhishthira were slain, Partha then, without doubt, would slay all of us.",
+    "morphology": "hate_han_SLPaPsM yudhiṣṭhire_yudhiṣṭhira_SLM pārthaḥ_pārtha_SNM hanyāt_han_SPr3O sarvān_sarva_PAM hi_hi_U naḥ_mad_PA dhruvam_dhruvam_U"
+  },
+  {
+    "index": 15657,
+    "sanskrit": "prāptam deva ratham svargāt na iṣṭavān yatra dharmarāj",
+    "english": "Then seeing the celestial car come to take him, Yudhishthira moved by kindness towards the dog that accompanied him, refused to ascend it without his companion.",
+    "morphology": "prāptam_prāp_SAPaPsM deva_deva_MCp ratham_ratha_SAM svargāt_svarga_SBM na_na_U iṣṭavān_yaj_SNPaPsM yatra_yatra_U"
+  },
+  {
+    "index": 15658,
+    "sanskrit": "pratiṣeddhā hi pāpasya yadā lokeṣu vidyate tadā sarveṣu lokeṣu pāpa kṛt na upapadyate yadā tu pratiṣeddhāram pāpaḥ na labhate kva cit",
+    "english": "If there be a punisher of crimes in the worlds no one in all the worlds would dare commit a crime;",
+    "morphology": "pratiṣeddhā_pratiṣeddhṛ_SNM hi_hi_U pāpasya_pāpa_SGM yadā_yadā_U lokeṣu_loka_PLM vidyate_vid_SPr3InPv tadā_tadā_U sarveṣu_sarva_PLM lokeṣu_loka_PLM pāpa_pāpa_NeCp kṛt_kṛt_SNM na_na_U upapadyate_upapad_SPr3In yadā_yadā_U tu_tu_U p"
+  },
+  {
+    "index": 15659,
+    "sanskrit": "pūrvapūrvasmin guṇajñāne /",
+    "english": "‘One after the other’ in each preceding cognition of perfections.",
+    "morphology": "pūrva_pūrva_Cp pūrvasmin_pūrva_SLNe"
+  },
+  {
+    "index": 15660,
+    "sanskrit": "vi su mr̥dhaḥ januṣā dānam invan ahan gavā magha van sam cakānaḥ atra dāsasya namuceḥ śiraḥ yat avartayaḥ manave gātum icchan",
+    "english": "Thou, Maghavan, from the first didst scatter foemen, speeding, while joying in the milk, the Giver. There, seeking man's prosperity, thou torest away the head of Namuci the Dâsa.",
+    "morphology": "vi_vi_U su_su_U mr̥dhaḥ_mr̥dh_PAF januṣā_janus_SIM dānam_dāna_SANe invan_inv_SNPaPrM ahan_han_SPs2In gavā_go_SIM magha_magha_Cp van_vat_SVM sam_sam_U cakānaḥ_kan_SNPaPsM atra_atra_U dāsasya_dāsa_SGM namuceḥ_namuci_SGM śiraḥ_śiras_SANe "
+  },
+  {
+    "index": 15661,
+    "sanskrit": "’numodanā-",
+    "english": "rejoicing,",
+    "morphology": "__U"
+  },
+  {
+    "index": 15662,
+    "sanskrit": "yo 'nu bandha iti yaḥ pravāhaḥ /",
+    "english": "“A serial continuity” is a flux.",
+    "morphology": "yaḥ_yad_SNM anu_anu_ bandhaḥ_bandhu_SNM iti_iti_ yaḥ_yad_SNM pravāhaḥ_pravāha_SNM  /"
+  },
+  {
+    "index": 15663,
+    "sanskrit": "atha parato buddhisaṃsiddhau kaḥ pradveṣa ity āha buddher ityādi /",
+    "english": "Question: “Why should there be this hostility towards the apprehension of Cognition through something else?” Answer: [see verses 1684-1686 next]",
+    "morphology": "atha_atha_ paratas_paratas_ buddhi_buddhi_Cp saṃsiddhau_saṃsiddhi_SLF kaḥ_ka_SNM pradveṣaḥ_pradveṣa_SNM iti_iti_ āha_ah_SPs3In buddheḥ_buddhi_SGF ityādi_ityādi_SNNe"
+  }
+]

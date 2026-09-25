@@ -1,0 +1,50 @@
+[
+  {
+    "index": 88,
+    "sanskrit": "ā ita dhiyam kr̥ṇavāma sakhāyaḥ apa yā mātā r̥ṇuta vrajam goḥ yayā manuḥ viśi śipram jigāya yayā vaṇik vaṅkuḥ āpa purīṣam",
+    "english": "Come, let us carry out, O friends, the purpose wherewith the Mother threw the Cow's stall open, That wherewith Manu conquered Viṣiṣipra, wherewith the wandering merchant gained heaven's water.",
+    "morphology": "ā_ā_U ita_i_PPr2Im dhiyam_dhī_SAF kr̥ṇavāma_kṛ_PPr1Su sakhāyaḥ_sakhi_PVM apa_apa_U yā_yad_SNF mātā_mātṛ_SNF r̥ṇuta_rā_PPr2Im vrajam_vraja_SAM goḥ_go_SGM yayā_yad_SIF manuḥ_manu_SNM viśi_viś_SLF śipram_śiprā_SAF jigāya_ji_SP"
+  },
+  {
+    "index": 89,
+    "sanskrit": "vihvalaḥ prāpatat bhūmau hiraṇyakaśipoḥ sutaḥ",
+    "english": "Indeed, the son of Hiranya-kasipu fell down on the Earth.",
+    "morphology": "vihvalaḥ_vihvala_SNM"
+  },
+  {
+    "index": 90,
+    "sanskrit": "tatra adbhutam apaśyāma bhīmasenasya vikramam saṃvārya ādhirathim bāṇaiḥ yat jaghāna tava ātmajān",
+    "english": "The prowess that we then beheld of Bhimasena was exceedingly wonderful, inasmuch as, resisting Adhiratha's son the while, he slew those sons of thine.",
+    "morphology": "tatra_tatra_U adbhutam_adbhuta_SAM apaśyāma_paś_PPs1In bhīmasenasya_bhīmasena_SGM vikramam_vikrama_SAM saṃvārya_saṃvāray_Co ādhirathim_ādhirathi_SAM bāṇaiḥ_bāṇa_PIM yat_yat_U jaghāna_han_SPs3In tava_tvad_SG ātmajān_ātmaja_PAM"
+  },
+  {
+    "index": 91,
+    "sanskrit": "na spṛśantīti kāśmīrakāḥ / kiṃ kāraṇam / yadi tāvat sarvānmanā spṛśeyurmiśrībhaveyurdravyāṇi /",
+    "english": "The Vaibhāṣikas of Kaśmīr say that atoms do not touch one another;",
+    "morphology": "na_na_ spṛśanti_spṛś_PPr3In iti_iti_ kāśmīrakāḥ_kāśmīraka_PNM  / kim_ka_SNNe kāraṇam_kāraṇa_SNNe  / yadi_yadi_ tāvat_tāvat_ sarvān_sarva_PAM manāḥ_manas_SNF"
+  },
+  {
+    "index": 92,
+    "sanskrit": "anyā jagurdhvanacchailagrahamāpānatoṣitāḥ / vārīva ravavadrañjajjaganmaṇḍalakoṭare //",
+    "english": "Others sang as loud as it rang through the mountain caves, and ran to the depth of the ocean; which rebillowed with its surges as at the time of the full-moon tide.",
+    "morphology": "anyāḥ_anya_PNF jaguḥ_gā_PPs3In dhvanat_dhvan_PaPrCp śaila_śaila_Cp graham_graha_SAM āpāna_āpāna_Cp toṣitāḥ_toṣay_PNPaF  / vāri_vāri_SNNe iva_iva_ rava_rava_Cp vat_vat_ rañjat_rañj_PaPrCp jagat_jagant_Cp maṇḍala_maṇḍala_Cp"
+  },
+  {
+    "index": 93,
+    "sanskrit": "kṛtaṃ taccetasā tena tvāmajīrṇaṃ pravekṣyati | śvetaketormahāyajñe ghṛtadhārābhitarpitam || 112 || śokaṃ ca tyaja naitāstāḥ svāhai veyaṃ tava priyā | śvetaparvatakuṃḍasthaṃ putraṃ tvaṃ draṣṭumarhasi | tato vahnistatra gatvā dadṛśe tanayaṃ prabhum || 113 ||",
+    "english": "110-113. ‘Alas, sin has been committed by me.’ Thinking thus, he resolved to cast off his physical body. Thereupon an ethereal voice said, “Do not die. This is the inevitable future. O Fire-god, who is free from (the shackles of) future destiny. It was due to the inevitability of the future events that other men’s wives were resorted to by you, though mentally. In the great sacrifice of Śvetaketu you will suffer from indigestion brought about by continuous (pouring in of) offerings of ghee. But give up your sorrow. These were not they (i.e. the wives of the Seven Sages). It was your owṇ wife Svāhā. It behoves you to see your son in the pitcher on the Śvetaparvata.” Thereupon, Fire-god went there and saw his son, the Holy Lord.",
+    "morphology": "kṛtam_kṛ_SNPaNe tat_tad_SNNe cetasā_cetas_SINe tena_tad_SIM tvām_tvad_SA ajīrṇam_ajīrṇa_SAM pravekṣyati_praviś_SFu3In  / śvetaketoḥ_śvetaketu_SGM mahā_mahat_Cp yajñe_yajña_SLM ghṛta_ghṛta_Cp dhārā_dhārā_Cp abhitarpitam_abhitar"
+  },
+  {
+    "index": 94,
+    "sanskrit": "jātau sarvātmanā siddhair ajātāvastvabhāvataḥ /",
+    "english": "because if they have come into existence, they must be there already in their complete form;",
+    "morphology": "jātau_jāti_SLF sarva_sarva_Cp ātmanā_ātman_SIM ḥ_ḥ_SNM __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __ḥ_PNF __"
+  },
+  {
+    "index": 95,
+    "sanskrit": "apadena jāṅgala rasaḥ tata hā madhu ghṛtam samam śatāhvā phalinī yaṣṭī vatsakaiḥ sa rasāñjanaiḥ kārṣikaiḥ saindhava unmiśraiḥ kalkaiḥ vastiḥ prayojitaḥ",
+    "english": "This (cooked) milk should be mixed with honey, clarified butter,[21] and the extract of meat of any Jangala animal, each measuring a quarter of the (above-prepared milk) and a Karsha measure each of the following drugs, viz., powdered Shatahva, Phalini (Priyangu), Yashti-madhu, Vatsaka, Rasanjana and Saindhava.",
+    "morphology": "apadena_apada_SIM jāṅgala_jāṅgala_Cp rasaḥ_rasa_SNM tata_tata_Cp hā_han_SNM madhu_madhu_NeCp ghṛtam_ghṛta_SNNe samam_sama_SNNe śatāhvā_śatāhvā_FCp phalinī_phalinī_FCp yaṣṭī_yaṣṭī_FCp vatsakaiḥ_vatsaka_PIM sa_sa_U rasāñjan"
+  }
+]

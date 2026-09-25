@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26112,
+    "sanskrit": "śūdra yonau atas dharma mānuṣaḥ saṃbhaviṣyasi",
+    "english": "Thou shall, therefore, O god of justice, have to be born among men even in the Sudra order.",
+    "morphology": "śūdra_śūdra_MCp yonau_yoni_SLF ataḥ_atas_U dharma_dharma_MCp mānuṣaḥ_mānuṣa_SNM saṃbhaviṣyasi_sambhū_SFu2In"
+  },
+  {
+    "index": 26113,
+    "sanskrit": "ṛṣeranujñayā rāmastāḍakāṃ samaghātayat | prādiśacca dhanurvedavidyāṃ rāmāya gādhijaḥ || 5 ||",
+    "english": "At the behest of the sage, Rāma killed Tāḍakā. Gādhija (Viśvāmitra) imparted the science of archery to Rāma.",
+    "morphology": "ṛṣeḥ_ṛṣi_SGM anujñayā_anujñā_SIF rāmaḥ_rāma_SNM tāḍakām_tāḍakā_SAF samaghātayat_saṃghātay_S3ImIn  / prādiśat_pradiś_S3ImIn ca_ca_ dhanurveda_dhanurveda_Cp vidyām_vidyā_SAF rāmāya_rāma_SDM gādhijaḥ_gādhija_SNM  /"
+  },
+  {
+    "index": 26114,
+    "sanskrit": "kecittasya rathaṃ jaghnuḥ kecittaddhanurācchinam | sūtaṃ tasya jaghānaikastvaparaḥ khaḍgamācchinat || 11 ||",
+    "english": "11. Some broke his chariot. Some cut down his bow. One killed his charioteer and another cut down his sword.",
+    "morphology": "kecid_kaścit_PNM tasya_tad_SGM ratham_ratha_SAM jaghnuḥ_han_PPs3In kecid_kaścit_PNM tat_tad_SANe dhanuḥ_dhanus_SANe ācchinam_ācchid_S1ImIn  / sūtam_sūta_SAM tasya_tad_SGM jaghāna_han_SPs3In ekaḥ_eka_SNM tu_tu_ aparaḥ_apara_SNM khaḍgam_kha"
+  },
+  {
+    "index": 26115,
+    "sanskrit": "keṣucinna nibadhnāti rūkṣeṣu madhureṣu ca / raṇiteṣu ratiṃ rāma padmeṣviva niśākaraḥ //",
+    "english": "He turns his mind to nothing that is sweet or bitter to taste, but delights in his own thoughts; as the moon sheds her light upon the spreading lotus-bud in the lake.",
+    "morphology": "keṣucid_kaścit_PLM na_na_ nibadhnāti_nibandh_SPr3In rūkṣeṣu_rūkṣa_PLM madhureṣu_madhura_PLM ca_ca_  / raṇiteṣu_raṇita_PLNe ratim_rati_SAF rāma_rāma_SVM padmeṣu_padma_PLM iva_iva_ niśākaraḥ_niśākara_SNM  /"
+  },
+  {
+    "index": 26116,
+    "sanskrit": "bhīṣmaḥ uvāca tatas citām baka pateḥ kārayām āsa rākṣasaḥ ratnaiḥ gandhaiḥ ca bahubhiḥ vastraiḥ ca samalaṃkṛtām",
+    "english": "That cruel and vile man who injures a friend and becomes ungrateful, is not eaten by the very cannibals nor by the worms that feed on carrion.' SECTION CLXXIII \"Bhishma said, 'The Rakshasa king then caused a funeral pyre to be made for that prince of cranes and adorned it with jewels and gems, and perfumes, and costly robes.",
+    "morphology": "bhīṣmaḥ_bhīṣma_SNM uvāca_vac_SPs3In tatas_tatas_U citām_citā_SAF baka_baka_MCp pateḥ_pati_SGM kārayām_kāray_SPs3In āsa_as_SPs3In rākṣasaḥ_rākṣasa_SNM ratnaiḥ_ratna_PINe gandhaiḥ_gandha_PIM ca_ca_U bahubhiḥ_bahu_PIM vastraiḥ"
+  },
+  {
+    "index": 26117,
+    "sanskrit": "yathāyamanusaṃdhatte svabhāvaṃ saṃvidavyayā / taṃ tathaivānubhavati bhavecceddṛḍhaniścayaḥ //",
+    "english": "Whatever one seeks and searches after, the same becomes con-natural with his consciousness; and in the case of his firm belief in the same state, he thinks and feels himself to be the very same.",
+    "morphology": "yathā_yathā_ ayam_idam_SNM anusaṃdhatte_anusaṃdhā_SPr3In svabhāvam_svabhāva_SAM saṃvid_saṃvid_SNF avyayā_avyaya_SNF  / tam_tad_SAM tathā_tathā_ eva_eva_ anubhavati_anubhū_SPr3In bhavet_bhū_SPr3O ced_ced_ dṛḍha_dṛḍha_Cp niścayaḥ"
+  },
+  {
+    "index": 26118,
+    "sanskrit": "dvitvaikatvamatī tyaktvā śeṣasthaḥ sukhito bhava / mā duḥkhito bhava vyarthaṃ tvaṃ mithyāpuruṣo yathā //",
+    "english": "Avoid your dubiety of the unity and duality (i.e. of the singleness of the prime cause, and variety of its products); but remain firm in your belief of that state, which lasts after the loss of both (i.e. the one and all the same). Be happy with this belief, and never trouble yourself with thinking any thing otherwise like the false man in the tale.",
+    "morphology": "dvitva_dvitva_Cp ekatva_ekatva_Cp matī_mati_DuAF tyaktvā_tyaj_Co śeṣa_śeṣa_Cp sthaḥ_stha_SNM sukhitaḥ_sukhita_SNM bhava_bhū_SPr2Im  / mā_mā_ duḥkhitaḥ_duḥkhita_SNM bhava_bhū_SPr2Im vyartham_vyartha_SANe tvam_tvad_SN mithyā_mithyā_ p"
+  },
+  {
+    "index": 26119,
+    "sanskrit": "koṣṭakāni caturbhistair madhye bhadraṃ samālikhet /",
+    "english": "The word Bhadra welfare is written in four compartments in the middle.",
+    "morphology": "koṣṭakāni_koṣṭaka_PANe caturbhiḥ_catur_PINe taiḥ_tad_PINe madhye_madhya_SLNe bhadram_bhadra_SANe samālikhet_samālikh_SPr3O"
+  }
+]

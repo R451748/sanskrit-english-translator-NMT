@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24400,
+    "sanskrit": "asmān vettha parān vettha vettha artham vettha bhāṣitam",
+    "english": "Thou knowest us, thou knowest our antagonists, thou knowest what our purposes are, and thou knowest also what to say.",
+    "morphology": "asmān_mad_PAM vettha_vid_SPs2In parān_para_PAM vettha_vid_SPs2In vettha_vid_SPs2In artham_artha_SAM"
+  },
+  {
+    "index": 24401,
+    "sanskrit": "tair aṣṭabhistu bālāgraṃ likhyā tair aṣṭabhirmatā /",
+    "english": "Eight times that makes one bālāgra and eight times that is known as likhyā.",
+    "morphology": "taiḥ_tad_PIM aṣṭabhiḥ_aṣṭan_PIM tu_tu_ bālāgram_bālāgra_SNNe likhyā_likh_SNFGd taiḥ_tad_PIM aṣṭabhiḥ_aṣṭan_PIM matā_man_SNPaF  /"
+  },
+  {
+    "index": 24402,
+    "sanskrit": "yāvat sāntareṇa vyantareṇa cāsmimānena samudācarati na tāvat satkāyadṛṣṭEḥ prahāṇam asti / satkāyadṛṣṭibalenaivāsmimānapravṛttitaḥ /",
+    "english": "For as long as intermittent and continuous selfconceit manifests, there is no relinquishment of the false view of individuality since the arising of selfconceit is only on account of the false view of individuality.",
+    "morphology": "yāvat_yāvat_ sāntareṇa_sāntara_SINe vyantareṇa_vyantara_SINe ca_ca_ asmimānena_asmimāna_SIM samudācarati_samudācar_SPr3In na_na_ tāvat_tāvat_ satkāyadṛṣṭeḥ_satkāyadṛṣṭi_SGF prahāṇam_prahāṇa_SNNe asti_as_SPr3In  / satkāy"
+  },
+  {
+    "index": 24403,
+    "sanskrit": "etenaitaddarśayati yadyarthāntaranimittatvamātramiha sādhayitum iṣṭaṃ tadāanaikāntikatā hetoḥ sādhyaviparyaye 'pi tasya vṛtteḥ /",
+    "english": "What is meant by this is as follows: If what is meant by the Opponent is to prove the mere fact of being dependent on something else, then the Reason adduced is ‘Inconclusive’, as it is present in the contrary of the Probandum also.",
+    "morphology": "etena_etad_SINe etat_etad_SANe darśayati_darśay_SPr3In yadi_yadi_ artha_artha_Cp antara_antara_Cp nimitta_nimitta_Cp tva_tva_Cp mātram_mātra_SANe iha_iha_ sādhayitum_sādhay_In iṣṭam_iṣ_SNPaNe tadā_tadā_ anaikāntika_anaikāntika_Cp tā_tā_SN"
+  },
+  {
+    "index": 24404,
+    "sanskrit": "pauṣaśuklatrayodaśyāṃ labdhaṃ śāsanakaṃ dvijaiḥ | balipradānaṃ tu kṛtamuddiśya kuladevatām || 84 ||",
+    "english": "84. It was on the thirteenth day in the bright half of Pauṣa (Dec.-Jan.) that the Brāhmaṇas received the letter of authority. They performed the offerings of oblations with the family deity in view.",
+    "morphology": "pauṣa_pauṣa_Cp śukla_śukla_Cp trayodaśyām_trayodaśī_SLF labdham_labh_SNPaNe śāsanakam_śāsanaka_SNNe dvijaiḥ_dvija_PIM  / bali_bali_Cp pradānam_pradāna_SNNe tu_tu_ kṛtam_kṛ_SNPaNe uddiśya_uddiś_Co kuladevatām_kuladevatā_SAF  /"
+  },
+  {
+    "index": 24405,
+    "sanskrit": "dvipān hayān rathān ca eva sa ārohān arjunaḥ raṇe śaraiḥ aneka sāhasraiḥ rājan ninye yama kṣayam",
+    "english": "And Arjuna in that battle, O king, with many thousands of arrows, despatched to Yama's abode, car-warriors and elephants and horses and horsemen.",
+    "morphology": "dvipān_dvipa_PAM hayān_haya_PAM rathān_ratha_PAM ca_ca_U eva_eva_U sa_sa_U ārohān_āroha_PAM arjunaḥ_arjuna_SNM raṇe_raṇa_SLM śaraiḥ_śara_PIM aneka_aneka_Cp sāhasraiḥ_sāhasra_PIM rājan_rājan_SVM ninye_nī_SPs3In yama_yama_MCp kṣayam_"
+  },
+  {
+    "index": 24406,
+    "sanskrit": "kiṃnaraiḥ deva gandharvaiḥ yakṣa bhūta gaṇaiḥ tathā",
+    "english": "The great god was also surrounded by Kinnaras and Yakshas and Gandharvas and Rakshasas and diverse other created beings.",
+    "morphology": "kiṃnaraiḥ_kiṃnara_PIM deva_deva_MCp gandharvaiḥ_gandharva_PIM yakṣa_yakṣa_MCp bhūta_bhūta_MCp gaṇaiḥ_gaṇa_PIM"
+  },
+  {
+    "index": 24407,
+    "sanskrit": "tvam soma vipaḥ citam punānaḥ vācam iṣyasi indo iti sahasra bharṇasam",
+    "english": "O Soma, Indu, thou while thou art purified urgest onward speech. Thousandfold, with the lore of hymns.",
+    "morphology": "tvam_tvad_SN soma_soma_SVM vipaḥ_vip_SGF citam_cit_SAF punānaḥ_pū_SNPaPrM vācam_vāc_SAF iṣyasi_iṣ_SPr2In indo_indu_SVM iti_iti_U"
+  }
+]

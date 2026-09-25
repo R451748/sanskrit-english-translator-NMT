@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23632,
+    "sanskrit": "ahaṃ bhartrā viyuktā ca putrahīnā suduḥkhitā | atha sā nirgatā tasmātsalilānnṛpasattama || 14 ||",
+    "english": "14. I, a widow, am very sad without a child.” O king! she then came out of the reservoir.",
+    "morphology": "aham_mad_SN bhartrā_bhartṛ_SIM viyuktā_viyuj_SNPaF ca_ca_ putra_putra_Cp hīnā_hā_SNPaF su_su_ duḥkhitā_duḥkhita_SNF  / atha_atha_ sā_tad_SNF nirgatā_nirgam_SNPaF tasmāt_tad_SBNe salilāt_salila_SBNe nṛpa_nṛpa_Cp sattama_sattama_SVM  /"
+  },
+  {
+    "index": 23633,
+    "sanskrit": "rūpī rūpāṇī paśyati śūnyaṃ,",
+    "english": "One having form perceives forms as empty,",
+    "morphology": "rūpī_rūpin_SNM rūpāṇī_rūpāṇi_PANe"
+  },
+  {
+    "index": 23634,
+    "sanskrit": "māmeva ciṃtayennityaṃ paramātmānamātmani | viśuddhe nirvikāre vai brahmasākṣiṇamavyayam ||",
+    "english": "65. He shall ponder and meditate in the pure Ātman without aberrations, upon me the great Ātman, the Sākṣin of Brahman, the unchanging.",
+    "morphology": "mām_mad_SA eva_eva_ ciṃtayet_ciṃtay_SPr3O nityam_nityam_ paramātmānam_paramātman_SAM ātmani_ātman_SLM  / viśuddhe_viśudh_SLPaM nirvikāre_nirvikāra_SLM vai_vai_ brahma_brahman_Cp sākṣiṇam_sākṣin_SAM avyayam_avyaya_SAM"
+  },
+  {
+    "index": 23635,
+    "sanskrit": "api ca etat striyaḥ bālāḥ svādhyāyam iva kurvate",
+    "english": "Even women and children are repeating this, as if it were a lesson they seek to commit to memory.",
+    "morphology": "api_api_U ca_ca_U etat_etad_SANe striyaḥ_strī_PNF bālāḥ_bāla_PNM svādhyāyam_svādhyāya_SAM iva_iva_U kurvate_kṛ_PPr3In"
+  },
+  {
+    "index": 23636,
+    "sanskrit": "hataiḥ manuṣyaiḥ turagaiḥ ca sarvatas śara abhivṛṣṭaiḥ dviradaiḥ ca pātitaiḥ tadā śva gomāyu vaḍa abhināditam",
+    "english": "With slain men and elephant and shaft-struck steeds lying all about, and echoing with yells of dogs and jackals, the field of battle presented a variegated and awful sight.",
+    "morphology": "hataiḥ_han_PIPaPsM manuṣyaiḥ_manuṣya_PIM turagaiḥ_turaga_PIM ca_ca_U sarvatas_sarvatas_U śara_śara_MCp abhivṛṣṭaiḥ_abhivṛṣ_PIPaPsM dviradaiḥ_dvirada_PIM ca_ca_U pātitaiḥ_pātay_PIPaPsM tadā_tadā_U śva_śvan_MCp gomāyu_gomā"
+  },
+  {
+    "index": 23637,
+    "sanskrit": "prāptum tasmāt ayam yatnaḥ paramaḥ me samāsthitaḥ indraḥ uvāca amārgaḥ eṣa vipra ṛṣe yena tvam yātum icchasi",
+    "english": "Therefore, (with the view of attaining in short time a proficiency in the Vedas), I have put forth these high endeavours.' Indra said, 'O Brahmana sage, the way that thou hast adopted is not the proper way.",
+    "morphology": "prāptum_prāp_In tasmāt_tasmāt_U ayam_idam_SNM yatnaḥ_yatna_SNM paramaḥ_parama_SNM me_mad_SG samāsthitaḥ_samāsthā_SNPaPsM indraḥ_indra_SNM uvāca_vac_SPs3In amārgaḥ_amārga_SNM eṣa_etad_SNM vipra_vipra_MCp ṛṣe_ṛṣi_SVM yena_yad_SI"
+  },
+  {
+    "index": 23638,
+    "sanskrit": "pādāv avasicyete yenodakādinā tat pādāvasecanam /",
+    "english": "The water with which the feet are washed is called \"feetwashing;\" this he shall throw far away.",
+    "morphology": "pādau_pāda_DuNM avasicyete_avasic_DuPr3InPv yena_yad_SINe udaka_udaka_Cp ādinā_ādi_SINe tat_tad_SNNe pāda_pāda_Cp avasecanam_avasecana_SNNe  /"
+  },
+  {
+    "index": 23639,
+    "sanskrit": "vastuni jñāyate kiṃ citkaiścidrūpaṃ kadācana|",
+    "english": "\"Thing is recognised something by some at certain times.",
+    "morphology": "vastuni_vastu_SLNe jñāyate_jñā_SPr3InPv kim_ka_SNNe cit_cit_SNF kaiḥ_ka_PIM cit_cit_SNF rūpam_rūpa_SNNe kadācana_kadācana_"
+  }
+]

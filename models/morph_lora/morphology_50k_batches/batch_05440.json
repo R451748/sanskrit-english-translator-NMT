@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43512,
+    "sanskrit": "dvikṛṣṇalone tilakaram //",
+    "english": "If it amounts to less than two Krishnala, by a blade of Tila;",
+    "morphology": "dvi_dvi_Cp kṛṣṇala_kṛṣṇala_Cp ūne_ūna_SLNe tila_tila_Cp karam_kara_SAM  /"
+  },
+  {
+    "index": 43513,
+    "sanskrit": "na ca śakyaḥ raṇe sarvaiḥ nihantum amaraiḥ api",
+    "english": "All of them, again, cannot be slain by the very gods.",
+    "morphology": "na_na_U ca_ca_U śakyaḥ_śakya_SNM raṇe_raṇa_SLM sarvaiḥ_sarva_PIM nihantum_nihan_In amaraiḥ_amara_PIM api_api_U"
+  },
+  {
+    "index": 43514,
+    "sanskrit": "nāhamasmi na cānyo'sti sarvaṃ nāstīti niścaye / prakṛtavyavahārastvaṃ śilāmaunamayo bhava //",
+    "english": "Being certain of the unreality of yourself and of others, and of the nihility of everything beside; conduct yourself in all your dealings with indifference, and remain as mute as a stone.",
+    "morphology": "na_na_ aham_mad_SN asmi_as_SPr1In na_na_ ca_ca_ anyaḥ_anya_SNM asti_as_SPr3In sarvam_sarva_SNNe na_na_ asti_as_SPr3In iti_iti_ niścaye_niścaya_SLM  / prakṛta_prakṛ_PaCp vyavahāraḥ_vyavahāra_SNM tvam_tvad_SN śilā_śilā_Cp mauna_mauna_Cp maya"
+  },
+  {
+    "index": 43515,
+    "sanskrit": "ekādhikārasaṃbandhatve triṣu caturṣu vā kṛteṣu na kiṃcit kṛtaṃ syād yāvat kṛtaṃ ca na krtaṃ /",
+    "english": "If the occasion for all were one and the same, then, even when three or four of them would be done, it would be as good as not done, till all the five were done.",
+    "morphology": "eka_eka_Cp adhikāra_adhikāra_Cp saṃbandha_sambandha_Cp tve_tva_SLNe triṣu_tri_PLNe caturṣu_catur_PLNe vā_vā_ kṛteṣu_kṛ_PLPaNe na_na_ kiṃcid_kaścit_SNNe kṛtam_kṛ_SNPaNe syāt_as_SPr3O yāvat_yāvat_ kṛtam_kṛ_SNPaNe ca_ca_ na_na_  "
+  },
+  {
+    "index": 43516,
+    "sanskrit": "tatsvabhāvo na cātmeṣṭo nāyaṃ tadviṣayastataḥ //",
+    "english": "and the ‘soul’ is not held to be of the nature of these latter; hence the ‘soul’ cannot be an object of ‘I-consciousness’.",
+    "morphology": "tad_tad_Cp svabhāvaḥ_svabhāva_SNM na_na_ ca_ca_ ātma_ātman_Cp iṣṭaḥ_iṣ_SNPaM na_na_ ayam_idam_SNM tad_tad_Cp viṣayaḥ_viṣaya_SNM tatas_tatas_  /"
+  },
+  {
+    "index": 43517,
+    "sanskrit": "harītakīmarīcīnāṃ vastrakṣīrādidānataḥ | brahmapratiṣṭhayā caiva kṣayarogakṣayo bhavet ||",
+    "english": "50. By making gifts of Harītakī (one of the myrobalans), chillies, cloth, milk etc. and by installing Brahman, the alleviation of consumption is brought about.",
+    "morphology": "harītakī_harītakī_Cp marīcīnām_marīci_PGM vastra_vastra_Cp kṣīra_kṣīra_Cp ādi_ādi_Cp dānataḥ_dāna_SBNe  / brahma_brahman_Cp pratiṣṭhayā_pratiṣṭhā_SIF ca_ca_ eva_eva_ kṣaya_kṣaya_Cp roga_roga_Cp kṣayaḥ_kṣaya_SNM bhave"
+  },
+  {
+    "index": 43518,
+    "sanskrit": "tadetadvyatiriktaṃ hi na karma kvāpi dṛśyate | tatkasyārthe prakalpyeyamindriyāṇāmaniṣṭhitiḥ |",
+    "english": "Any feature of action other than these has nowhere else been observed. For what purpose which organ is meant, this is the determinant in this regard.",
+    "morphology": "tat_tad_SNNe etad_etad_Cp vyatiriktam_vyatiric_SNPaNe hi_hi_ na_na_ karma_karman_SNNe kvāpi_kvāpi_ dṛśyate_dṛś_SPr3InPv  / tat_tad_SNNe kasya_ka_SGM arthe_artha_SLM prakalpyā_prakalpay_SNFGd iyam_idam_SNF indriyāṇām_indriya_PGNe aniṣṭhiti"
+  },
+  {
+    "index": 43519,
+    "sanskrit": "patitaḥ śocyate rājan nirdhanaḥ ca api śocyate",
+    "english": "The man that is fallen, O king, grieveth, as also he that is poor.",
+    "morphology": "patitaḥ_pat_SNPaPsM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45888,
+    "sanskrit": "śyāmaṃ doṅgakam //",
+    "english": "Dongaka is black;",
+    "morphology": "śyāmam_śyāma_SNNe"
+  },
+  {
+    "index": 45889,
+    "sanskrit": "sthāpanaṃ saptame bhāge pratimāsu sukhāvahaṃ //",
+    "english": "This fixing in the case of images brings forth happiness.",
+    "morphology": "sthāpanam_sthāpana_SNNe saptame_saptama_SLM bhāge_bhāga_SLM pratimāsu_pratimā_PLF sukha_sukha_Cp āvaham_āvaha_SNNe  /"
+  },
+  {
+    "index": 45890,
+    "sanskrit": "somavāravratenaiva someśārādhanaṃ prati | tataḥ kṣetraṃ samāgatya tapaḥ kṛtvā suduścaram || 4 || liṃgaṃ pratiṣṭhayāmāsa tatra gaṃdharvarāṭ svayam | tathaiva putryā tasyaiva tatra liṃgaṃ pratiṣṭhitam || 5 ||",
+    "english": "4-5. He directed her to propitiate Someśa by means of the Somavāra Vrata. Thereafter, the king of Gandharvas himself came to the holy spot and performed very difficult penance and installed a Liṅga. Another Liṅga was installed by his own daughter.",
+    "morphology": "somavāra_somavāra_Cp vratena_vrata_SINe eva_eva_ someśa_someśa_Cp ārādhanam_ārādhana_SANe prati_prati_  / tatas_tatas_ kṣetram_kṣetra_SANe samāgatya_samāgam_Co tapaḥ_tapas_SANe kṛtvā_kṛ_Co su_su_ duścaram_duścara_SANe  / liṃgam_li"
+  },
+  {
+    "index": 45891,
+    "sanskrit": "sūtaputra iti mā śabdaḥ pārthaḥ tvam asi vīryavān vaiśampāyanaḥ uvāca tatas sūryāt niścaritām karṇaḥ śuśrāva bhāratīm",
+    "english": "Thou art a Partha, endued with great energy.'\" SECTION CXLVI \"Vaisampayana said (After Kunti had said this), Karna heard an affectionate voice issued out of the solar circle.",
+    "morphology": "sūtaputra_sūtaputra_SVM iti_iti_U mā_mā_U śabdaḥ_śabda_SNM pārthaḥ_pārtha_SNM tvam_tvad_SN asi_as_SPr2In vīryavān_vīryavat_SNM vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In tatas_tatas_U sūryāt_sūrya_SBM niścaritām_niścar_SAPa"
+  },
+  {
+    "index": 45892,
+    "sanskrit": "āśu vṛttyā sakṛdbhrāntir api yā sāpāstaiva pūrvam /",
+    "english": "As regards the explanation that “there is only an illusion of simultaneity, due to the quickness of the succession”, this has been already refuted.",
+    "morphology": "āśu_āśu_SANe vṛttyā_vṛtti_SIF sakṛt_sakṛt_ bhrāntiḥ_bhrānti_SNF api_api_ yā_yad_SNF"
+  },
+  {
+    "index": 45893,
+    "sanskrit": "sa sarvāṃś ca lokān āpnoti sarvāṃś ca kāmān yas tam ātmānam anuvidya vijānāti / iti ha prajāpatir uvāca prajāpatir uvāca //",
+    "english": "One who having sought after this Self, understands It, obtains all Regions and all Desires’;thus said ‘Prajāpati;yea, Prajāpati said this",
+    "morphology": "sa_tad_SNM sarvān_sarva_PAM ca_ca_ lokān_loka_PAM āpnoti_āp_SPr3In sarvān_sarva_PAM ca_ca_ kāmān_kāma_PAM yaḥ_yad_SNM tam_tad_SAM ātmānam_ātman_SAM anuvidya_anuvid_Co vijānāti_vijñā_SPr3In  / iti_iti_ ha_ha_ prajāpatiḥ_prajāpati_SNM uv"
+  },
+  {
+    "index": 45894,
+    "sanskrit": "nānyad anyena saṃsṛṣṭa- rūpaṃ vikrayam arhati / na cāsāraṃ na ca nyūnaṃ na dūreṇa tirohitam //",
+    "english": "One commodity mixed with another must not be sold (as pure), nor a bad one (as good), nor less (than the proper quantity or weight), nor anything that is not at hand or that is concealed.",
+    "morphology": "na_na_ anyat_anya_SANe anyena_anya_SIM saṃsṛṣṭa_saṃsṛj_PaCp rūpam_rūpa_SANe vikrayam_vikraya_SAM arhati_arh_SPr3In  / na_na_ ca_ca_ āsāram_āsāra_SAM na_na_ ca_ca_ nyūna_nyūna_SANe na_na_ dūreṇa_dūra_SINe"
+  },
+  {
+    "index": 45895,
+    "sanskrit": "dvau māsau tu bhavet tṛptiḥ matsyaiḥ pitṛ gaṇasya ha",
+    "english": "With fishes offered at Sraddhas, the Pitris remain gratified for a period of two months.",
+    "morphology": "dvau_dvi_DuAM māsau_māsa_DuAM tu_tu_U"
+  }
+]

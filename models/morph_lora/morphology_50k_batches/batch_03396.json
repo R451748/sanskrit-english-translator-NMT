@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27160,
+    "sanskrit": "tvam ekasya vr̥tra han avitā dvayoḥ asi uta īdr̥śe yathā vayam",
+    "english": "Thou, Slaughterer of Vr̥itra, art Guardian and Friend of one and two, Yea, of a man like one of us.",
+    "morphology": "tvam_tvad_SN ekasya_eka_SGM vrĥ"
+  },
+  {
+    "index": 27161,
+    "sanskrit": "aṣṭāṃgo vā ṣaḍaṃgo vā sarvayogaḥ samāsataḥ | yamaśca niyamaścaiva svastikādyaṃ tathāsanam || prāṇāyāmaḥ pratyāhāro dhāraṇā dhyānameva ca | samādhiriti yogāṃgānyaṣṭāvuktāni sūribhiḥ ||",
+    "english": "14-15. In brief the Yoga is of eight or six ancillaries. The eight ancillaries are Yama, Niyama, Āsana Prāṇāyāma, Pratyāhārā, Dhāraṇa, Dhyānā and Samādhi as mentioned by the wise.",
+    "morphology": "aṣṭa_aṣṭan_Cp aṃgaḥ_aṅga_SNM vā_vā_ ṣaṣ_ṣaṣ_Cp aṃgaḥ_aṅga_SNM vā_vā_ sarva_sarva_Cp yogaḥ_yoga_SNM samāsatas_samāsatas_  / yamaḥ_yama_SNM ca_ca_ niyamaḥ_niyama_SNM ca_ca_ eva_eva_ svastika_svastika_Cp ādyam_ādya_SN"
+  },
+  {
+    "index": 27162,
+    "sanskrit": "saḥ eva nirayaḥ tasya na asau tasmāt pramucyate rāgeṇa jāpakaḥ japyam kurute tatra mohitaḥ",
+    "english": "That man who betakes himself to silent recitation under the influence of stupefaction and from desire of fruit, obtains all those things upon which his heart becomes set.[629] That Reciter whose heart becomes set upon the attributes that go by the name of divinity, has to incur hell and never becomes freed from it.[630] That Reciter who betakes himself to recitation under the influence of attachments (to earthly objects such as wealth, wives etc.) obtain those objects upon which their hearts are set.",
+    "morphology": "saḥ_tad_SNM eva_eva_U nirayaḥ_niraya_SNM tasya_tad_SGM na_na_U asau_adas_SNM tasmāt_tad_SBM pramucyate_pramuc_SPr3InPv rāgeṇa_rāga_SIM jāpakaḥ_jāpaka_SNM japyam_japya_SANe kurute_kṛ_SPr3In"
+  },
+  {
+    "index": 27163,
+    "sanskrit": "kadambavanavistāralīlāvalitajaṅgalaḥ / vicitravihagavyūhasarvāścaryamanoharaḥ //",
+    "english": "There is a forest of wide extending kadamba groves, which was the pleasant resort of charming birds of various sorts and hues.",
+    "morphology": "__kadamba_U __vana_U __vistāra_U __līlā_U __āval_PaU __jaṅgala_U  / __vicitra_U __vihaga_U __vyūha_U __sarva_U __āścarya_U __manohara_U  /"
+  },
+  {
+    "index": 27164,
+    "sanskrit": "evaṃvidhānpiśācāṃstu dṛṣṭvā dīnānukampayā | tebhyo'hamavadaṃ kiñcitkāruṇyādalpacetasām || 110 ||",
+    "english": "110. Out of pity for these petty-minded ones, I looked at these Piśācas with compassion and said thus:",
+    "morphology": "evaṃvidhān_evaṃvidha_PAM piśācān_piśāca_PAM tu_tu_ dṛṣṭvā_dṛś_Co dīna_dīna_Cp anukampayā_anukampā_SIF  / tebhyaḥ_tad_PDM aham_mad_SN avadam_vad_S1ImIn kiṃcid_kaścit_SANe kāruṇyāt_kāruṇya_SBNe alpa_alpa_Cp cetasām_cetas_"
+  },
+  {
+    "index": 27165,
+    "sanskrit": "javaṃ jaṅghābhis |",
+    "english": "speed with the legs;",
+    "morphology": "javaḥ_java_SNM"
+  },
+  {
+    "index": 27166,
+    "sanskrit": "yasya prasādaṃ kurvāte sa vai tau draṣṭumarhati | śakyate nānyathā draṣṭumapi taddhāmavāsibhiḥ || 27 ||",
+    "english": "27. He, on whom they confer their blessing, deserves (i.e. is capable) to see them. Otherwise, it is not possible to see them, even for residents of their place.",
+    "morphology": "yasya_yad_SGM prasādam_prasāda_SAM kurvāte_kṛ_DuPr3In sa_tad_SNM vai_vai_ tau_tad_DuAM draṣṭum_dṛś_In arhati_arh_SPr3In  / śakyate_śak_SPr3InPv na_na_ anyathā_anyathā_ draṣṭum_dṛś_In api_api_ tad_tad_Cp dhāma_dhāman_Cp vāsibhiḥ_"
+  },
+  {
+    "index": 27167,
+    "sanskrit": "siṃharāśiṃ gate jīve yatsyādgodāvarīphalam | taddvādaśaguṇaṃ skanda kumbheśvarasamīpataḥ || 35 ||",
+    "english": "O Skanda, in the vicinity of Kuṃbheśvara the benefit obtained is twelve times that of the bath taken in Godāvarī when Jupiter is in Siṃha (Leo) Zodiac.",
+    "morphology": "siṃha_siṃha_Cp rāśim_rāśi_SAM gate_gam_SLPaM jīve_jīva_SLM yat_yad_SNNe syāt_as_SPr3O godāvarī_godāvarī_Cp phalam_phala_SNNe  / tad_tad_Cp dvādaśaguṇam_dvādaśaguṇa_SNNe skanda_skanda_SVM kumbheśvara_kumbheśvara_Cp samīpatas_samīp"
+  }
+]

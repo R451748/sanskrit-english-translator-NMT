@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6112,
+    "sanskrit": "caturvidhamidaṃ vādyaṃ vāditrātodyanāmakaṃ /",
+    "english": "Thus there are four kinds of musical instruments having the appellation vāditram and ātodyam .",
+    "morphology": "caturvidham_caturvidha_SNNe idaḥ_idam_SNNe vādyam_vādya_SNNe vāditra_vāditra_Cp ātodya_ātodya_Cp nāmakaḥ_nāmaka_SNNe  /"
+  },
+  {
+    "index": 6113,
+    "sanskrit": "ācāryāḥ mokṣa śāstre ca mokṣa dharma pravartakāḥ",
+    "english": "They are preceptors of the scriptures on duty and it is they that introduce the duties of the religion of Nivritti and cause them to flow in the worlds.",
+    "morphology": "ācāryāḥ_ācārya_PNM mokṣa_mokṣa_MCp śāstre_śāstra_SLNe ca_ca_U mokṣa_mokṣa_MCp dharma_dharma_MCp pravartakāḥ_pravartaka_PNM"
+  },
+  {
+    "index": 6114,
+    "sanskrit": "śoṇitaiḥ sicyamānāni vastrāṇi kavacāni ca chatrāṇi ca patākāḥ ca sarvam raktam adṛśyata",
+    "english": "And robes and coats of mail and umbrellas and standards having been dyed with blood, everything seemed to be bloody on the field.",
+    "morphology": "śoṇitaiḥ_śoṇita_PINe sicyamānāni_sic_PNPaPrNePv vastrāṇi_vastra_PNNe kavacāni_kavaca_PNNe ca_ca_U chatrāṇi_chattra_PNNe ca_ca_U patākāḥ_patākā_PNF ca_ca_U sarvam_sarva_SNNe raktam_rakta_SNNe adṛśyata_dṛś_SPs3In"
+  },
+  {
+    "index": 6115,
+    "sanskrit": "vahann iti kecid aśvaviśeṣaṇaṃ manyante / vṛṣasya nāyaṃ vidhiḥ /",
+    "english": "\"Vahan,\" \"ox\" has been taken by some as a participial adjective meaning \"riding\" qualifying the word \"horse,\"; they hold that what is here laid down does not apply to the ox.",
+    "morphology": "vahan_vah_SNPaPrM iti_iti_ kecid_kaścit_PNM aśva_aśva_Cp viśeṣaṇam_viśeṣaṇa_SANe manyante_man_PPr3In  / vṛṣasya_vṛṣa_SGM na_na_ ayam_idam_SNM vidhiḥ_vidhi_SNM  /"
+  },
+  {
+    "index": 6116,
+    "sanskrit": "kṛṣṇasya purataḥ sthitvā mārkaṇḍeśasya vā punaḥ | ṛgyajuḥsāmamantrāṃśca japedatra prayatnataḥ || 24 ||",
+    "english": "Staying in front of Kṛṣṇa or of Mārkaṇḍeśvara, he should assiduously recite the Mantras of Ṛk, Yajus and Sāman.",
+    "morphology": "kṛṣṇasya_kṛṣṇa_SGM puratas_puratas_ sthitvā_sthā_Co mārkaṇḍeśasya_mārkaṇḍeśa_SGNe vā_vā_ punar_punar_  / ṛk_ṛc_Cp yajuḥ_yajus_Cp sāma_sāman_Cp mantrān_mantra_PAM ca_ca_ japet_jap_SPr3O atra_atra_ prayatnataḥ_prayatna_"
+  },
+  {
+    "index": 6117,
+    "sanskrit": "saṃvidhānam ca vihitam rathāḥ ca kila sajjitāḥ",
+    "english": "Cars and steeds have been arranged.",
+    "morphology": "saṃvidhānam_saṃvidhāna_SNNe ca_ca_U vihitam_vidhā_SNPaPsNe rathāḥ_ratha_PNM"
+  },
+  {
+    "index": 6118,
+    "sanskrit": "uttamāṅga upala talām nistriṃśa jhaṣa sevitām",
+    "english": "And heads constituted the stones scattered on its banks and bed, and scimitars, its fish in profusion.",
+    "morphology": "uttamāṅga_uttamāṅga_NeCp upala_upala_MCp talām_tala_SAF nistriṃśa_nistriṃśa_MCp jhaṣa_jhaṣa_MCp sevitām_sev_SAPaPsF"
+  },
+  {
+    "index": 6119,
+    "sanskrit": "śṛṇu yat tava mokṣāya bhāṣyamāṇam bhaviṣyati",
+    "english": "I shall discourse to thee upon it. Listen to it for the sake of thy Emancipation.",
+    "morphology": "śṛṇu_śru_SPr2Im yat_yad_SNNe tava_tvad_SG mokṣāya_mokṣa_SDM bhāṣyamāṇam_bhāṣ_SNPaPrNePv"
+  }
+]

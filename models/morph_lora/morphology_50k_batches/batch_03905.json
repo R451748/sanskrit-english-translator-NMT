@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31232,
+    "sanskrit": "daivaḥ vistaraśaḥ proktaḥ āsuram pārtha me śṛṇu",
+    "english": "The god-like have been described at length. Hear now, from me, O son of Pritha, about the demoniac.",
+    "morphology": "daivaḥ_daiva_SNM vistaraśaḥ_vistaraśaḥ_U proktaḥ_pravac_SNPaPsM āsuram_āsura_SAM pārtha_pārtha_SVM me_mad_SG śṛṇu_śru_SPr2Im"
+  },
+  {
+    "index": 31233,
+    "sanskrit": "apare dhana dhānyāni bhogān ca pitṛ saṃcitān vipulān abhijāyante labdhāḥ taiḥ eva maṅgalaiḥ",
+    "english": "Others, who have been obtained through virtue of such blessed rites and observances, at once obtain wealth and grain and diverse other sources of enjoyment earned and stored by their sires.",
+    "morphology": "apare_apara_PNM dhana_dhana_NeCp dhānyāni_dhānya_PANe bhogān_bhoga_PAM ca_ca_U pitṛ_pitṛ_MCp saṃcitān_saṃci_PAPaPsM vipulān_vipula_PAM abhijāyante_abhijan_PPr3In labdhāḥ_labh_PNPaPsM taiḥ_tad_PINe eva_eva_U maṅgalaiḥ_maṅgala_PINe"
+  },
+  {
+    "index": 31234,
+    "sanskrit": "eṣā vā annasya yoniḥ sayony evānnam ava runddhe |",
+    "english": "this is the birthplace of food; verily he wins food with its birthplace.",
+    "morphology": "eṣā_etad_SNF vai_vai_ annasya_anna_SGNe yoniḥ_yoni_SNF sayoni_sayoni_SANe eva_eva_ annam_anna_SANe ava_ava_ runddhe_rudh_SPr3In"
+  },
+  {
+    "index": 31235,
+    "sanskrit": "vidvān evam gacchati brahma śukram",
+    "english": "He that knows thee as the Universal Seed, attaineth to Brahma.",
+    "morphology": "vidvān_vid_SNPaPsM"
+  },
+  {
+    "index": 31236,
+    "sanskrit": "tadahaṃ svāṃśca pṛcchāmi kena kālena haṃti kaḥ | etacchrutvā vaco rājñaḥ phālguno vākyamabravīt || 7 ||",
+    "english": "7. Therefore, I too ask you, my own people, ‘Who, within what time limit can kill (the enemies)?’” On hearing these words of the king, Phālguna spoke these words:",
+    "morphology": "tat_tad_SANe aham_mad_SN svān_sva_PAM ca_ca_ pṛcchāmi_pracch_SPr1In kena_ka_SIM kālena_kāla_SIM hanti_han_SPr3In kaḥ_ka_SNM  / etat_etad_SANe śrutvā_śru_Co vacaḥ_vacas_SANe rājñaḥ_rājan_SGM phālgunaḥ_phālguna_SNM vākyam_vākya_SANe a"
+  },
+  {
+    "index": 31237,
+    "sanskrit": "kvacid bādhakayogaś cet astu tasyāpramāṇatā /",
+    "english": "If it is negated sometimes by its true contradictory judgment, it will turn out to be a false one.",
+    "morphology": "kvacid_kvacid_ bādhaka_bādhaka_Cp yogaḥ_yoga_SNM ced_ced_ astu_as_SPr3Im tasya_tad_SGM apramāṇa_apramāṇa_Cp tā_tā_SNF  /"
+  },
+  {
+    "index": 31238,
+    "sanskrit": "citralekhovāca | vyasanaṃ te'pakarṣāmi trilokyāṃ yadi bhāṣyate | samāneṣye naraṃ yaste manohartā tamādiśa ||",
+    "english": "39. I can dispel your grief if such a man could be anywhere in the three worlds. I shall bring him who has captivated your mind. Please mention the details of his features.",
+    "morphology": "citralekhā_citralekhā_SNF uvāca_vac_SPs3In  / vyasanam_vyasana_SANe te_tvad_SG apakarṣāmi_apakṛṣ_SPr1In trilokyām_trilokī_SLF yadi_yadi_ bhāṣyate_bhāṣ_SPr3InPv  / samāneṣye_samānī_SFu1In naram_nara_SAM yaḥ_yad_SNM te_tvad_SG manoha"
+  },
+  {
+    "index": 31239,
+    "sanskrit": "mātuḥ ca parama iṣvāsaḥ tau ca nāma asya cakratuḥ",
+    "english": "His parents then bestowed upon him a name.",
+    "morphology": "mātuḥ_mātṛ_SGF ca_ca_U parama_parama_Cp iṣvāsaḥ_iṣvāsa_SNM tau_tad_DuNM ca_ca_U nāma_nāman_SANe asya_idam_SGM cakratuḥ_kṛ_DuPs3In"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41904,
+    "sanskrit": "kāmyaka āgamanam ca eva punar teṣām mahātmanām",
+    "english": "the return of the Pandavas to the Kamyaka woods.",
+    "morphology": "kāmyaka_kāmyaka_MCp āgamanam_āgamana_SNNe ca_ca_U eva_eva_U punar_punar_U"
+  },
+  {
+    "index": 41905,
+    "sanskrit": "uditaḥ ca eva savitā aruṇena tadā āvṛtaḥ",
+    "english": "And Surya rose veiled by Aruna's person.",
+    "morphology": "uditaḥ_udi_SNPaPsM"
+  },
+  {
+    "index": 41906,
+    "sanskrit": "kevalaṃ yadi kalpyeta tat siddhir naiva sambhavet //",
+    "english": "if this negation is meant to be absolute; then it can never be proved.",
+    "morphology": "kevalam_kevala_SNNe yadi_yadi_ kalpyeta_kalpay_SPr3OPv tat_tad_SNNe siddhiḥ_siddhi_SNF na_na_ eva_eva_ sambhavet_sambhū_SPr3O  /"
+  },
+  {
+    "index": 41907,
+    "sanskrit": "yasya ayam agamat kālaḥ cintayānasya me vibho katham śakyaḥ mayā karṇaḥ yuddhe kṣapayitum bhavet jāgrat svapan ca kaunteya karṇam eva sadā hi aham",
+    "english": "The whole of my time had passed in the thought as to how I would accomplish the destruction of Karna in battle! Awake or asleep, O son of Kunti, I always beheld Karna (with my mind's eye).",
+    "morphology": "yasya_yad_SGM ayam_idam_SNM agamat_gam_SPs3In kālaḥ_kāla_SNM cintayānasya_cintay_SGPaPrM me_mad_SG vibho_vibhu_SVM katham_katham_U śakyaḥ_śakya_SNM mayā_mad_SI karṇaḥ_karṇa_SNM yuddhe_yuddha_SLNe kṣapayitum_kṣapay_In bhavet_bhū_SPr3O j"
+  },
+  {
+    "index": 41908,
+    "sanskrit": "na ca tapyati dānta ātmā dṛṣṭvā para gatām śriyam",
+    "english": "nor is a person of subdued senses affected by sorrow at the height of other's prosperity.",
+    "morphology": "na_na_U ca_ca_U tapyati_tap_SPr3In dānta_dam_PaPsCp ātmā_ātman_SNM"
+  },
+  {
+    "index": 41909,
+    "sanskrit": "ratnanāḍītrayañcaiva sthūlaḥ sūkṣmaḥ paro 'paraḥ / cintayecchvetavarṇantaṃ muñcamānaṃ parāmṛtaṃ // plavyamānaṃ yathātmānaṃ cintayettaṃ divāniśaṃ /",
+    "english": "Three nāḍīs tubular vessels in the body which are gemlike are also present. The praṇava is moreover gross and subtle which are respectively highest and lowest. One should contemplate on that praṇava day and night as whitecoloured, as showering the excellent ambrosia and flooding the soul.",
+    "morphology": "ratna_ratna_Cp nāḍī_nāḍī_Cp trayam_traya_SNNe ca_ca_ eva_eva_ sthūlaḥ_sthūla_SNM sūkṣmaḥ_sūkṣma_SNM paraḥ_para_SNM aparaḥ_apara_SNM  / cintayet_cintay_SPr3O śveta_śveta_Cp varṇantam_varṇat_SAM muñcamānam_muc_SAPaPrM para_par"
+  },
+  {
+    "index": 41910,
+    "sanskrit": "atha apareṇa bāṇena jvalitena mahā bhujaḥ vivyādha karṇam kaunteyaḥ tīkṣṇena urasi vīryavān",
+    "english": "And taking another sharp and blazing arrow endued with great energy, the mighty son of Kunti pierced the breast of Kama.",
+    "morphology": "atha_atha_U apareṇa_apara_SIM bāṇena_bāṇa_SIM jvalitena_jval_SIPaPsM mahā_mahat_Cp bhujaḥ_bhuja_SNM vivyādha_vyadh_SPs3In karṇam_karṇa_SAM kaunteyaḥ_kaunteya_SNM tīkṣṇena_tīkṣṇa_SIM urasi_uras_SLNe vīryavān_vīryavat_SNM"
+  },
+  {
+    "index": 41911,
+    "sanskrit": "ṣaḍ ime nahuṣasyāsann indrayāṇīva dehinaḥ /",
+    "english": "This foremost of the rulers of Kashi will enjoy youth and beauty for sixty thousand and sixty hundred years .",
+    "morphology": "ṣaṭ_ṣaṣ_PNM ime_idam_PNM nahuṣasya_nahuṣa_SGM āsan_as_P3ImIn indra_indra_SVM yāṇī_yāṇī_SNF iva_iva_ dehinaḥ_dehin_PNM "
+  }
+]

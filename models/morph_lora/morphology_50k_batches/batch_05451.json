@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43600,
+    "sanskrit": "prathamaḥ paricchedaḥ | iti",
+    "english": "87 [In these two examples] the matter is quite within the limits of possibility and is embellished by being expressed in a telling fashion.",
+    "morphology": "__prathama_U"
+  },
+  {
+    "index": 43601,
+    "sanskrit": "jaṭā maṇḍala saṃvītaḥ svarṇa cīrī mahā tapāḥ hema daṇḍa dharaḥ rājan kamaṇḍalu dharaḥ tathā",
+    "english": "Covered with matted locks and attired in golden rays, he bore in his hands, O king, a staff made of gold and a waterpot made of the same precious metal.",
+    "morphology": "jaṭā_jaṭā_FCp maṇḍala_maṇḍala_NeCp saṃvītaḥ_saṃvye_SNPaPsM svarṇa_svarṇa_NeCp cīrī_cīrin_SNM mahā_mahat_Cp tapāḥ_tapas_SNM hema_heman_NeCp daṇḍa_daṇḍa_MCp dharaḥ_dhara_SNM"
+  },
+  {
+    "index": 43602,
+    "sanskrit": "tvamapyetacchinīkāya kalerante vadiṣyasi //",
+    "english": "You will teach it, at the end of the Kali age, to Śamīka.",
+    "morphology": "tvam_tvad_SN_SN api_api_ etat_etad_SANe śinīkāya_śinīka_SDM kaleḥ_kali_SGM ante_anta_SLM"
+  },
+  {
+    "index": 43603,
+    "sanskrit": "bhikṣurdu kvacarito vṛttī bhinatti /",
+    "english": "A Bhikṣu who is an intellectual, who is virtuous, divides.",
+    "morphology": "bhikṣuḥ_bhikṣu_SNM du_du_ kva_kva_ caritaḥ_car_SNPaM"
+  },
+  {
+    "index": 43604,
+    "sanskrit": "ādravantam abhiprekṣya rākṣasam yuddha durmadam irāvān krodha saṃrabdhaḥ pratyadhāvat mahā balaḥ samabhyāśa gatasya ājau tasya khaḍgena durmateḥ",
+    "english": "Beholding the Rakshasa, who was difficult of being vanquished in battle, advancing towards him, the mighty Iravat, excited with rage, began to check his onset.",
+    "morphology": "ādravantam_ādru_SAPaPrM abhiprekṣya_abhiprekṣ_Co rākṣasam_rākṣasa_SAM yuddha_yuddha_NeCp durmadam_durmada_SAM irāvān_irāvant_SNM krodha_krodha_MCp saṃrabdhaḥ_saṃrabh_SNPaPsM pratyadhāvat_pratidhāv_SPs3In mahā_mahat_Cp balaḥ_bala_S"
+  },
+  {
+    "index": 43605,
+    "sanskrit": "āha ca anyad evendriyagrāhyam anyaḥ śabdasya gocaraḥ /",
+    "english": "61 They also hold that what is sensed is absolutely different from the object of verbal knowledge.",
+    "morphology": "āha_ah_SPs3In ca_ca_ anyat_anya_SNNe eva_eva_ indriya_indriya_Cp grāhyam_grah_SNNeGd"
+  },
+  {
+    "index": 43606,
+    "sanskrit": "sītārūpābhavallakṣmīrjanakasya mahītalāt | gate mayi tu mārīcaṃ hantuṃ pañcavaṭīvane || 19 || mamānujo'pi māmeva sītayā coditonvayāt | tadantare rākṣasendro hartuṃ sītāmupāyayau || 20 ||",
+    "english": "19-20. Lakṣmī appeared from the land of Janaka in the form of Sītā. In the Pañcavaṭī forest, when I went away to kill Mārīca, my younger brother too followed me on being urged by Sītā. In the meantime the king of Rākṣasas came there to abduct Sītā.",
+    "morphology": "sītā_sītā_Cp rūpā_rūpa_SNF abhavat_bhū_S3ImIn lakṣmīḥ_lakṣmī_SNF janakasya_janaka_SGM mahī_mahī_Cp talāt_tala_SBM  / gate_gam_SLPaM mayi_mad_SL tu_tu_ mārīcam_mārīca_SAM hantum_han_In pañcavaṭī_pañcavaṭī_Cp vane_vana_SLNe  / "
+  },
+  {
+    "index": 43607,
+    "sanskrit": "sṛjaṃtaḥ pādapāstatra vyāpya tiṣṭhanti tadvanam || 157 || sapta striyastatra vasaṃti satyastvavāṅmukhyo bhānumato bhavaṃti | ūrdhvaṃ rasānādadate prajābhyaḥ sarvāśca tāstattvataḥ kopi vade || 158 ||",
+    "english": "The trees putting forth these flowers pervade that forest. Seven chaste ladies stay there above the sun with their faces turned below. They take up the juices from the subjects above. Some may know all of them really.",
+    "morphology": "sṛjantaḥ_sṛj_PNPaPrM pādapāḥ_pādapa_PNM tatra_tatra_ vyāpya_vyāp_Co tiṣṭhanti_sthā_PPr3In tat_tad_SANe vanam_vana_SANe  / sapta_saptan_SNNe striyaḥ_strī_PNF tatra_tatra_ vasaṃti_vas_PPr3In satyaḥ_satī_PNF tu_tu_ avāṅmukhyaḥ_a"
+  }
+]

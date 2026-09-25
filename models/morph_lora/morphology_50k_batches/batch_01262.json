@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10088,
+    "sanskrit": "aṃgiraso bārhaspatyo bhāradvājastu sainyasaḥ | gārgyaścai veti vijñeyāḥ pravarāḥ paṃca eva ca || 71 ||",
+    "english": "Those who are of the Bhāradvāja Gotra have five Pravaras. 71. Those five Pravaras are: (1) Āṅgirasa, (2) Bārhaspatya, (3) Bhāradvāja, (4) Sainyasa, and (5) Gārgya. These should be known as their five Pravaras.",
+    "morphology": "aṃgirasaḥ_aṅgiras_SGM bārhaspatyaḥ_bārhaspatya_SNM bhāradvājaḥ_bhāradvāja_SNM tu_tu_ sainyasaḥ_sainyasa_SNM  / vijñeyāḥ_vijñā_PNMGd pravarāḥ_pravara_PNM paṃca_pañcan_PNM eva_eva_ ca_ca_  /"
+  },
+  {
+    "index": 10089,
+    "sanskrit": "atha devānsamālokya maṇḍalastho maheśvaraḥ | sarvāgamottaraṃ dattvā śāstramaṃtaradhāddharaḥ ||",
+    "english": "38. Then the lord stationed in the disc glanced at the gods, revealed the sacred scripture, the sequel to all the Āgamas and vanished.",
+    "morphology": "atha_atha_ devān_deva_PAM samālokya_samālokay_Co maṇḍala_maṇḍala_Cp sthaḥ_stha_SNM maheśvaraḥ_maheśvara_SNM  / sarva_sarva_Cp āgama_āgama_Cp uttaram_uttara_SANe dattvā_dā_Co śāstram_śāstra_SANe aṃtaradhāt_antardhā_SPs3In hara"
+  },
+  {
+    "index": 10090,
+    "sanskrit": "atha me vijñāsyasīti //",
+    "english": "then thou wilt know’",
+    "morphology": "atha_atha_ me_mad_SG vijñāsyasi_vijñā_SFu2In iti_iti_"
+  },
+  {
+    "index": 10091,
+    "sanskrit": "ahamekaḥ paraṃ brahma ityātmāntaḥ prakāśate / śrīvālmīkiruvāca / sakhe saṃnyasya karmāṇi brahmaṇaḥ praṇayī bhava //",
+    "english": "Valmiki said:—Friend, give up your observance of religious acts;and be devoted yourself to the meditation of Brahma, if you want to stop the revolution of the wheel of this world upon you.",
+    "morphology": "aham_mad_SN ekaḥ_eka_SNM param_para_SNNe brahma_brahman_SNNe iti_iti_ ātmāntaḥ_ātmānta_SNM prakāśate_prakāś_SPr3In  / śrī_śrī_Cp vālmīkiḥ_vālmīki_SNM uvāca_vac_SPs3In  / sakhe_sakhi_SVM saṃnyasya_saṃnyas_Co karmāṇi_karman_PANe"
+  },
+  {
+    "index": 10092,
+    "sanskrit": "durbalaśca pratiṣedhaḥ /",
+    "english": "And then, this Prohibition, too, would be extremely weak .",
+    "morphology": "durbalaḥ_durbala_SNM"
+  },
+  {
+    "index": 10093,
+    "sanskrit": "nārāyaṇa uvāca | svāgataṃ mādhave kāme bhavatvapsarasāmapi | yatkāryamāgatānāṃ ca ihāsmābhistaducyatām || 60 ||",
+    "english": "Welcome unto Mādhava, Kāma and the celestial damsels. May this be said as to what is to be done by us unto you who have come here.",
+    "morphology": "nārāyaṇaḥ_nārāyaṇa_SNM uvāca_vac_SPs3In  / svāgatam_svāgata_SNNe mādhave_mādhava_SLM kāme_kāma_SLM bhavatu_bhū_SPr3Im apsarasām_apsaras_PGF api_api_  / yat_yad_SNNe kāryam_kṛ_SNNeGd āgatānām_āgam_PGPaM ca_ca_ iha_iha_ asmābhiḥ_"
+  },
+  {
+    "index": 10094,
+    "sanskrit": "manthānaṃ mandaraṃ kṛtvā netraṃ kṛtvā ca vāsukim / tato mathitumārabdhā maitreya tarasāmṛtam //",
+    "english": "They then took the mountain Mandara for the staff the serpent Vāsuki for the cord and commenced to churn the ocean for the Amrita.",
+    "morphology": "manthānam_manthāna_SAM mandaram_mandara_SAM kṛtvā_kṛ_Co netram_netra_SANe kṛtvā_kṛ_Co ca_ca_ vāsukim_vāsuki_SAM  / tatas_tatas_ mathitum_math_In ārabdhāḥ_ārabh_PNPaM maitreya_maitreya_SVM tarasā_taras_SINe amṛtam_amṛta_SANe  /"
+  },
+  {
+    "index": 10095,
+    "sanskrit": "kin tu putrajanmaśravaṇata evāsau sukhībhavati //",
+    "english": "A person feels happy as soon as he hears that a son has been born to him.",
+    "morphology": "kim_kim_ tu_tu_ putra_putra_Cp janma_janman_Cp śravaṇataḥ_śravaṇa_SBNe eva_eva_ asau_adas_SNM sukhībhavati_sukhībhū_SPr3In  /"
+  }
+]

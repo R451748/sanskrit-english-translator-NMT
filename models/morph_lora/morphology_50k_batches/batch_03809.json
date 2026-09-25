@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30464,
+    "sanskrit": "śrutyanugamācca |",
+    "english": "And it is so, also because of conformity with Scripture.",
+    "morphology": "śruti_śruti_Cp anugamāt_anugama_SBM"
+  },
+  {
+    "index": 30465,
+    "sanskrit": "yathāaparādhaṃ vā // dharmasthaḥ pradeṣṭā vā hairaṇyadaṇḍam adaṇḍye kṣipati kṣepadviguṇam asmai daṇḍaṃ kuryāt, hīnaatiriktaaṣṭaguṇaṃ vā //",
+    "english": "When a clerk does not take down what has been deposed by parties, but enters what has not been deposed, evades what has been badly said duruktam, or renders either diverse or ambiguous in meaning such depositions as are satisfactorily given out, he shall be punished either with the first amercement or in proportion to his guilt When a judge or commissioner imposes an unjust fine in gold, he shall be fined either double the amount of the fine, or eight times that amount of imposition which is either more or less than the prescribed limit",
+    "morphology": "yathāaparādham_yathāaparādham_ vā_vā_  // dharmasthaḥ_dharmastha_SNM pradeṣṭā_pradeṣṭṛ_SNM vā_vā_ hairaṇya_hairaṇya_Cp daṇḍam_daṇḍa_SAM a_a_ daṇḍye_daṇḍay_SLMGd kṣipati_kṣip_SPr3In kṣepa_kṣepa_Cp dviguṇam_"
+  },
+  {
+    "index": 30466,
+    "sanskrit": "nirbabhau niḥśeṣeṇa bhātaḥ, prakāśatāṃ gata iti yāvat //",
+    "english": "\"Shone forth\" Shone fully; ie, became manifested.",
+    "morphology": "nirbabhau_nirbhā_SPs3In niḥśeṣeṇa_niḥśeṣa_SIM bhātaḥ_bhā_SNPaM prakāśa_prakāśa_Cp tām_tā_SAF gataḥ_gam_SNPaM iti_iti_ yāvat_yāvat_"
+  },
+  {
+    "index": 30467,
+    "sanskrit": "ekātmajā baṃdhuhīnā yāñcāmārgavaśaṃgatā | umānāma dvijasatīdadarśa nṛpanaṃdanam || 34 ||",
+    "english": "34. That Brāhmaṇa lady, Umā by name, having no kinsmen except her only son, having recourse to the path of beggary, saw the prince.",
+    "morphology": "eka_eka_Cp ātmajā_ātmajā_SNF baṃdhu_bandhu_Cp hīnā_hā_SNPaF  / umā_umā_Cp nāma_nāma_ dvijasatī_dvijasatī_SNF dadarśa_dṛś_SPs3In nṛpa_nṛpa_Cp nandanam_nandana_SAM"
+  },
+  {
+    "index": 30468,
+    "sanskrit": "paratastasya kūṣmāṃḍamunestatrāśramaṃ mahat | kūṣmāṃḍeśvarasaṃjñaṃ tu tīrthaṃ trailokyaviśrutam || 86 ||",
+    "english": "86. Beyond it is the great hermitage of Sage Kūṣmāṇḍa. The Tīrtha called Kūṣmāṇḍeśvara is famous all over the three worlds.",
+    "morphology": "paratas_paratas_ tasya_tad_SGM kūṣmāṃḍa_kūṣmāṇḍa_Cp muneḥ_muni_SGM tatra_tatra_ āśramam_āśrama_SNNe mahat_mahat_SNNe  / kūṣmāṃḍeśvara_kūṣmāṇḍeśvara_Cp saṃjñam_saṃjñā_SNNe tu_tu_ tīrtham_tīrtha_SNNe trailokya"
+  },
+  {
+    "index": 30469,
+    "sanskrit": "anenātmana upadeśasyāmṛṣātvaṃ vyajyate /",
+    "english": "Hereby it is shown that we ourselves have been instructed in a reliable manner.",
+    "morphology": "anena_idam_SINe ḥ_ḥ_"
+  },
+  {
+    "index": 30470,
+    "sanskrit": "tadabhiprāyā eva vyavahārāḥ / eka eva suhṛd dharmo nidhane 'py anuyāti yaḥ /",
+    "english": "The use of the word \"Dharma\" in this sense is common; eg, in the verse \"Dharma is the only friend that accompanies one even on death\" Manu, .",
+    "morphology": "tad_tad_Cp abhiprāyāḥ_abhiprāya_PNM eva_eva_ vyavahārāḥ_vyavahāra_PNM  / ekaḥ_eka_SNM eva_eva_ suhṛd_suhṛd_SNM dharmaḥ_dharma_SNM nidhane_nidhana_SLNe api_api_ aḥ_aḥ_"
+  },
+  {
+    "index": 30471,
+    "sanskrit": "anye tv āhuḥ / prārthyamānasyānabhyupagama evātikramaḥ / tathā ca srāddhakalpe uktam aninditenāmantrito nātikrāmet iti /",
+    "english": "Others have held that the \"neglect\" here stands for nonacceptance of the invitation; according to what has been said in the Śrāddhakalpa \"one should not fail to accept the invitation of a man free from all blame\".",
+    "morphology": "anye_anya_PNM tu_tu_ āhuḥ_ah_PPs3In  / prārthyamānasya_prārthay_SGPaPrMPv anabhyupagamaḥ_anabhyupagama_SNM eva_eva_ atikramaḥ_atikrama_SNM  / tathā_tathā_ ca_ca_ srāddha_srāddha_Cp kalpe_kalpa_SLM uktam_vac_SNPaNe aninditena_anindita_SIM āma"
+  }
+]

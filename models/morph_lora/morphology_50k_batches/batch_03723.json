@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29776,
+    "sanskrit": "guhāyām nihitam brahma durvijñeyam suraiḥ api",
+    "english": "Brahman is PART I concealed in the cave of the heart.",
+    "morphology": "guhāyām_guhā_SLF nihitam_nidhā_SNPaPsNe brahma_brahman_SNNe durvijñeyam_durvijñeya_SNNe"
+  },
+  {
+    "index": 29777,
+    "sanskrit": "agnirnaṣṭatayā śaityādasāveva prayāti yat / vināśapariṇāmena tadagniḥ somakāraṇam //",
+    "english": "Again the fire being extinguished by cold, sends its watery particles upwards, and this moisture produces the moon, as the absent or remote cause of the same.",
+    "morphology": "agniḥ_agni_SNM naṣṭa_naś_PaCp tayā_tā_SIF śaityāt_śaitya_SBNe asau_adas_SNM eva_eva_ prayāti_prayā_SPr3In yat_yat_  / vināśa_vināśa_Cp pariṇāmena_pariṇāma_SIM tat_tad_SANe agniḥ_agni_SNM soma_soma_Cp kāraṇam_kāraṇa_SNNe  /"
+  },
+  {
+    "index": 29778,
+    "sanskrit": "pūrvasya vidher arthavādaḥ /",
+    "english": "This is a commendatory supplement to the foregoing injunction.",
+    "morphology": "pūrvasya_pūrva_SGM vidheḥ_vidhi_SGM artha_artha_Cp vādaḥ_vāda_SNM"
+  },
+  {
+    "index": 29779,
+    "sanskrit": "tatra vikramatuṅgākhyo rājābhūt sattvavān purā / yo 'bhūt parāṅmukho dāne nārthināṃ na yudhi dviṣām //",
+    "english": "In that city there dwelt long ago a brave king named Vikramatuṅga, who in giving[6] never turned his back on a suppliant, nor in fighting on an enemy.",
+    "morphology": "tatra_tatra_ vikramatuṅga_vikramatuṅga_Cp ākhyaḥ_ākhyā_SNM rājā_rājan_SNM abhūt_bhū_SPs3In sattvavān_sattvavat_SNM purā_purā_  / yaḥ_yad_SNM abhūt_bhū_SPs3In parāṅmukhaḥ_parāṅmukha_SNM dāne_dāna_SLNe na_na_ arthinām_arthin_P"
+  },
+  {
+    "index": 29780,
+    "sanskrit": "sa tvam naḥ indra vājobhiḥ daśasyā ca gātuyā ca / achā ca naḥ sumnam neṣi //",
+    "english": "As such, O Indra, honour us with wealth and treasure: further us, And lead us to felicity.",
+    "morphology": "sa_tad_SNM tvam_tvad_SN naḥ_mad_PA indra_indra_SVM vājobhiḥ_vājas_PINe daśasyā_daśasy_SPr2Im ca_ca_U gātuyā_gātuy_SPr2Im ca_ca_U  / achā_acchā_U ca_ca_U naḥ_mad_PA sumnam_sumna_SANe neṣi_nī_SPr2In  /"
+  },
+  {
+    "index": 29781,
+    "sanskrit": "dadrughnaḥ syādeḍagajo varṣābhūḥ śīthahāniṇī //",
+    "english": "Probably varṣābhū and sobahāriṇī are also synonyms ?.",
+    "morphology": "__dadrughna_U syāt_as_SPr3O __eḍagaja_U __varṣābhū_U __śīthahāniṇī_U  /"
+  },
+  {
+    "index": 29782,
+    "sanskrit": "śrīmārkaṇḍeya uvāca | tato gacchenmahīpāla cāhalyeśvaramuttamam | yatra siddhā mahābhāgā tvahalyā tāpasī purā || 1 ||",
+    "english": "1-7. Thereafter, O king, one should go to the excellent Ahalyeśvara Tīrtha where the blessed ascetic lady Ahalyā received redemption and fulfilment formerly.",
+    "morphology": "śrī_śrī_Cp mārkaṇḍeyaḥ_mārkaṇḍeya_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O mahīpāla_mahīpāla_SVM ca_ca_ ahalyeśvaram_ahalyeśvara_SANe uttamam_uttama_SANe  / yatra_yatra_ siddhā_sidh_SNPaF mahābhāgā_mahābhāga_SNF t"
+  },
+  {
+    "index": 29783,
+    "sanskrit": "tathā eva kuntī gāndhāryām guru vṛttim avartata",
+    "english": "Similarly Kunti behaved towards Gandhari as towards a senior.",
+    "morphology": "tathā_tathā_U eva_eva_U kuntī_kuntī_SNF gāndhāryām_gāndhārī_SLF guru_guru_Cp vṛttim_vṛtti_SAF"
+  }
+]

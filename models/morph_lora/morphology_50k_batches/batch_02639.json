@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21104,
+    "sanskrit": "yān-yasya dravyāṇi tāni mama syur-iti |",
+    "english": "(thinking:) may whatever property there is be mine.",
+    "morphology": "yān_yad_PAM yasya_yad_SGM dravyāṇi_dravya_PNNe tāni_tad_PNNe mama_mad_SG syuḥ_as_PPr3O"
+  },
+  {
+    "index": 21105,
+    "sanskrit": "sa caran vividhān mārgān maṇḍalāni ca bhāgaśas samaśobhata tejasvī bhūyas bhīmāt suyodhanaḥ",
+    "english": "Coursing in diverse kinds of circles, adopting each motion at the proper time, Suyodhana, possessed of great energy, once more seemed to prevail over Bhima.",
+    "morphology": "sa_tad_SNM caran_car_SNPaPrM vividhān_vividha_PAM mārgān_mārga_PAM maṇḍalāni_maṇḍala_PANe ca_ca_U bhāgaśas_bhāgaśas_U samaśobhata_saṃśubh_SPs3In tejasvī_tejasvin_SNM bhūyas_bhūyas_U bhīmāt_bhīma_SBM suyodhanaḥ_suyodhana_SNM"
+  },
+  {
+    "index": 21106,
+    "sanskrit": "amātyā ūcuḥ | ko jānāti surāndīnāndaityānāmiti no matiḥ || 5 ||",
+    "english": "The Ministers replied: 5. Who cares to know (more) about the miserable Devas? We the Daityas need not know. This was our opinion.",
+    "morphology": "amātyāḥ_amātya_PNM ūcuḥ_vac_PPs3In "
+  },
+  {
+    "index": 21107,
+    "sanskrit": "tatrā ratham upa śagmaṃ sadema viśvāhā vayaṃ sumanasyamānāḥ |",
+    "english": "Then may we sit on the strong car, All the days, with friendly hearts.",
+    "morphology": "tatra_tatra_ ratham_ratha_SAM upa_upa_ śagmam_śagma_SAM sadema_sad_PPs1O viśvāhā_viśvāhā_ vayam_mad_PN sumanasyamānāḥ_sumanasyamāna_PNM"
+  },
+  {
+    "index": 21108,
+    "sanskrit": "atha padmāvatyāḥ śukadattaśrīnivāsamālādhāraṇam | śrībhagavānuvāca | kartuṃ kalyāṇamudvāhamāgamiṣyāmi cā'maraiḥ | śuka gaccha vadaivaṃ tāmitthaṃ devo'bravīditi || 65 ||",
+    "english": "Śrī Bhagavān said: I shall come there along with Devas in order to celebrate the marriage. O Śuka, go and tell her that the Lord has said thus.",
+    "morphology": "atha_atha_ padmāvatyāḥ_padmāvatī_SGF śukadatta_śukadatta_Cp śrīnivāsa_śrīnivāsa_Cp mālā_mālā_Cp dhāraṇam_dhāraṇa_SNNe  / śrī_śrī_Cp bhagavān_bhagavant_SNM uvāca_vac_SPs3In  / kartum_kṛ_In kalyāṇam_kalyāṇa_SAM udvāham_"
+  },
+  {
+    "index": 21109,
+    "sanskrit": "lokayātrā na ca eva syāt atha ced vettha śaṃsa naḥ",
+    "english": "(If the wicked be not punished) the affairs of the world will come to a deadlock.",
+    "morphology": "lokayātrā_lokayātrā_SNF na_na_U"
+  },
+  {
+    "index": 21110,
+    "sanskrit": "ṭīkoliyā paraṃ sthānaṃ kuśagotraṃ tathaiva ca | viśvāmitro devarātastṛtīyaudalameva ca || 2 || cacāī cātra vai devī gotradevī prakīrtitā | asmingotre bhavā viprāḥ śrutismṛtiparāyaṇāḥ || 3 || rogiṇo lobhino duṣṭā yajane yājane ratāḥ | brahmakriyāparāḥ sarve moḍhāḥ proktā mayātra vai || 4 ||",
+    "english": "202-204. Ṭīkoliyā is a great Sthāna with Kuśa as the Gotra (of the Brāhmaṇas thereof). Viśvāmitra, Devarāta and the third Audala (are the Sages). Goddess Cacāī is glorified as the Gotra-deity. The Brāhmaṇas born in this family are devoted to Śruti and Smṛti. Sickly, greedy and wicked, they are engaged in performing Yajña for themselves as well as on behalf of others. All the Moḍhas (Brāhmaṇas of Moḍha Community) have been mentioned by me as devoted to the rituals of Brāhmaṇas.",
+    "morphology": "param_para_SNNe sthānam_sthāna_SNNe kuśa_kuśa_Cp gotram_gotra_SNNe tathā_tathā_ eva_eva_ ca_ca_  / viśvāmitraḥ_viśvāmitra_SNM devarātaḥ_devarāta_SNM tṛtīyaudalam_tṛtīyaudala_SNNe eva_eva_ ca_ca_  / ca_ca_ atra_atra_ vai_vai_ devī_dev"
+  },
+  {
+    "index": 21111,
+    "sanskrit": "yadyasmādebhirmantrairacchādayaṃstattasmācchandasāṃ mantrāṇāṃ chādanācchandastvaṃ prasiddhameva //",
+    "english": "because,asthey covered themselves with these Mantras, therefore it is well known that Mantras have the character of being ‘Chandas’ metricalprotective covers",
+    "morphology": "yat_yat_ yat_yat_ ebhiḥ_idam_PIM mantraiḥ_mantra_PIM acchādayan_chāday_P3ImIn tat_tad_SNNe tasmāt_tad_SBNe chandasām_chandas_PGM mantrāṇām_mantra_PGM chādanāt_chādana_SBNe chandaḥ_chandas_Cp tvam_tva_SNNe prasiddham_prasidh_SNPaNe eva_eva_"
+  }
+]

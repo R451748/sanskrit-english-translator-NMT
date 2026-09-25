@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42824,
+    "sanskrit": "madhuś ca mādhavaś ca śukraś ca śuciś ca nabhaś ca nabhasyaś ceṣaś corjaś ca sahaś ca sahasyaś ca tapaś ca tapasyaś ca |",
+    "english": "Thou art Madhu and Madhava; thou art Çukra and Çuci; thou art Nabha and Nabbasya; thou art Isa and Urja; thou art Saha and Sahasya;",
+    "morphology": "madhuḥ_madhu_SNM ca_ca_ mādhavaḥ_mādhava_SNM ca_ca_ śukraḥ_śukra_SNM ca_ca_ śuciḥ_śuci_SNM ca_ca_ nabhaḥ_nabha_SNM ca_ca_ nabhasyaḥ_nabhasya_SNM ca_ca_ iṣaḥ_iṣa_SNM ca_ca_ ūrjaḥ_ūrja_SNM ca_ca_ sahaḥ_saha_SNM ca_ca_ sahasyaḥ"
+  },
+  {
+    "index": 42825,
+    "sanskrit": "kāmyata iti kāmyam /",
+    "english": "What is \"Kāmya\" lit.",
+    "morphology": "kāmyate_kāmay_SPr3InPv"
+  },
+  {
+    "index": 42826,
+    "sanskrit": "durlabhaṃ śāṃbhavaṃ matvā maṃtramūlaṃ manīṣiṇaḥ | śāktaṃ śaṃsīta saṃskāraṃ śivaśāstrārthapāragāḥ ||",
+    "english": "29. Intelligent persons who have mastered Śaivite Scriptures laud the consecration through Śakti after considering that the consecration through Śiva is very difficult of access.",
+    "morphology": "durlabham_durlabha_SANe śāṃbhavam_śāmbhava_SANe matvā_man_Co maṃtra_mantra_Cp mūlam_mūla_SANe manīṣiṇaḥ_manīṣin_PNM  / śāktam_śākta_SAM śaṃsīta_śaṃs_SPr3O saṃskāram_saṃskāra_SAM śiva_śiva_Cp śāstra_śāstra_Cp arth"
+  },
+  {
+    "index": 42827,
+    "sanskrit": "sarve ca devāḥ munayaḥ ca lokāḥ satyena pūjyāḥ iti me manogatam",
+    "english": "I know it for certain that the gods and the Rishis and all the mansions of the blessed are adorable only because of Truth that characteriseth them all.",
+    "morphology": "sarve_sarva_PNM"
+  },
+  {
+    "index": 42828,
+    "sanskrit": "kṛtvā'tithyaṃ samāsīno nāradaḥ prāha sattamaḥ | meghagaṃbhīrayā vācā baliṃ prāharṣisa ttamaḥ || 34 ||",
+    "english": "After the elementary rites of hospitality were over, the excellent Nārada sat and spoke. The excellent sage said to Bali in a voice as majestic as the (rumbling of) cloud: Nārada said:",
+    "morphology": "kṛtvā_kṛ_Co ātithyam_ātithya_SANe samāsīnaḥ_samās_SNPaM nāradaḥ_nārada_SNM prāha_prāh_SPs3In sattamaḥ_sattama_SNM  / megha_megha_Cp gaṃbhīrayā_gambhīra_SIF vācā_vāc_SIF balim_bali_SAM prāha_prāh_SPs3In ṛṣi_ṛṣi_Cp satta"
+  },
+  {
+    "index": 42829,
+    "sanskrit": "paramāṇau paramāṇau jagatkoṭiśatānyapi / aṇau sthūle dadhaddehe hā śete sukhamātmavān //",
+    "english": "The spiritualist sleeps happily in the universal soul, with its body resting in its vast vacuity; which contains an infinity of worlds in every atom of it.",
+    "morphology": "paramāṇau_paramāṇu_SLM paramāṇau_paramāṇu_SLM jagat_jagant_Cp koṭi_koṭi_Cp śatāni_śata_PANe api_api_  / aṇau_aṇu_SLM sthūle_sthūla_SLM dadhat_dhā_SNPaPrM dehe_deha_SLM hā_hā_"
+  },
+  {
+    "index": 42830,
+    "sanskrit": "sūryaprabhaś ca saṃprāpya yuyudhe tena saṃmukham / khaḍgacarmadhareṇaiva saha dāmodareṇa saḥ // yudhyamānaś ca karaṇaprayogeṇa praviśya tam / khaḍgakhaṇḍitacarmāṇaṃ ripuṃ bhūmāvapātayat //",
+    "english": "And Sūryaprabha at last reached, and fought face to face with, Dāmodara, who was armed with a sword and a shield. And as he fought he broke through his enemy’s guard by a skilful management of his weapons, and laid him on the earth, having cleft his shield with his sword.",
+    "morphology": "sūryaprabhaḥ_sūryaprabha_SNM ca_ca_ saṃprāpya_samprāp_Co yuyudhe_yudh_SPs3In tena_tad_SIM saṃmukham_sammukha_SANe  / khaḍga_khaḍga_Cp carma_carman_Cp dhareṇa_dhara_SIM eva_eva_ saha_saha_ dāmodareṇa_dāmodara_SIM saḥ_tad_SNM  // yudhya"
+  },
+  {
+    "index": 42831,
+    "sanskrit": "athainamasyāṃ khanati / etadvai devā abibhayuryadvai na imamiha rakṣāṃsi nāṣṭrā na hanyuriti tasmā imāmevātmānamakurvanguptyā ātmātmānaṃ gopsyatīti //",
+    "english": "He now digs that (hole) in the earth; for the gods now were afraid, thinking, 'We hope the Rakshas, the fiends, will not smite here this (Agni) ofours!' They made this (earth) to be his self (body), for protection, thinking, 'The self will protect itself.'",
+    "morphology": "atha_atha_ enam_enad_SAM asyām_idam_SLF khanati_khan_SPr3In  / etat_etad_SANe vai_vai_ devāḥ_deva_PNM abibhayuḥ_bhī_PPs3In yat_yat_ vai_vai_ naḥ_mad_PG imam_idam_SAM iha_iha_ rakṣāṃsi_rakṣas_PNNe nāṣṭrāḥ_nāṣṭrā_PNF na_na_ hany"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42664,
+    "sanskrit": "daśāhādīnāṃ kalpānāṃ paripūrṇa āśaucakāla idam aparaṃ kartavyam /",
+    "english": "After the completion of the prescribed period of impurityof ten days, &cthere is something more that has got to be done.",
+    "morphology": "daśa_daśan_Cp aha_aha_Cp ādīnām_ādi_PGM kalpānām_kalpa_PGM paripūrṇaḥ_paripṛ_SNPaM āśauca_āśauca_Cp kālaḥ_kāla_SNM idam_idam_SNNe aparam_apara_SNNe kartavyam_kṛ_SNNeGd  /"
+  },
+  {
+    "index": 42665,
+    "sanskrit": "vījo buddhirahaṅkāro manaḥ śabdo guṇonilaḥ // rūpaṃ raso navātmāyaṃ jīva aṅguṣṭhakadvaye /",
+    "english": "The life which consists of nine partslife, intellect, ego, mind, sound, quality, wind, colour, and taste, is assigned to two thumbs.",
+    "morphology": "vījaḥ_vīja_SNM buddhiḥ_buddhi_SNF ahaṅkāraḥ_ahaṃkāra_SNM manaḥ_manas_SNNe śabdaḥ_śabda_SNM guṇaḥ_guṇa_SNM anilaḥ_anila_SNM  // rūpam_rūpa_SNNe rasaḥ_rasa_SNM nava_navan_Cp ātmā_ātman_SNM ayam_idam_SNM jīva_jīv_SPr2Im a"
+  },
+  {
+    "index": 42666,
+    "sanskrit": "avijñeya [151] brahma agrya prajā sarga kara [154] prajā nidhana kara",
+    "english": "Thou art the Creator of all creatures and thou art their destroyer.",
+    "morphology": "avijñeya_avijñeya_SVM brahma_brahman_SVM agrya_agrya_SVM prajā_prajā_FCp sarga_sarga_MCp kara_kṛ_SPr2Im prajā_prajā_FCp nidhana_nidhana_SNNe"
+  },
+  {
+    "index": 42667,
+    "sanskrit": "tasmāt mā tvam sarit śreṣṭhe śocasva kuru nandanam",
+    "english": "Do not, therefore, O goddess Ganga, grieve for that son of Kuru's race.",
+    "morphology": "tasmāt_tasmāt_U mā_mā_U tvam_tvad_SN sarit_sarit_FCp śreṣṭhe_śreṣṭha_SVF"
+  },
+  {
+    "index": 42668,
+    "sanskrit": "pāvakena adhiśayatā saṃtaptāḥ tasya tejasā",
+    "english": "In consequence, indeed, of Agni having resided in them for some time, they became hot through his energy.",
+    "morphology": "pāvakena_pāvaka_SIM adhiśayatā_adhiśī_SIPaPrM saṃtaptāḥ_saṃtap_PNPaPsM"
+  },
+  {
+    "index": 42669,
+    "sanskrit": "kṛte ca tasmin bhavitā tava api su mahān guṇaḥ agniḥ uvāca",
+    "english": "When accomplished, it will redound greatly to thy credit.' \"Agni said, 'Tell me what your business is.",
+    "morphology": "kṛte_kṛ_SLPaPsNe ca_ca_U tasmin_tad_SLNe bhavitā_bhū_SFu3In tava_tvad_SG api_api_U su_su_U mahān_mahat_SNM guṇaḥ_guṇa_SNM agniḥ_agni_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 42670,
+    "sanskrit": "dvādaśāyatanāni,",
+    "english": "There are twelve sense spheres,",
+    "morphology": "dvādaśa_SNNe"
+  },
+  {
+    "index": 42671,
+    "sanskrit": "tad atra pramāṇatāyāṃ sāmagryāḥ tajjñānaṃ phalam iṣyate / tasya pramāṇabhāve tu phalaṃ hānādibuddhayaḥ //",
+    "english": "An instrument plays the part of the means of know- 138139 The view of Acarya Uddyotkara ledge and consciousness resulting from the operation of that instrument is the result and that the instrument and its result are neither identical (i.c.",
+    "morphology": "tat_tad_SNNe atra_atra_ pramāṇa_pramāṇa_Cp tāyām_tā_SLF sāmagryāḥ_sāmagrī_SGF tat_tad_SNNe jñānam_jñāna_SNNe phalam_phala_SNNe iṣyate_iṣ_SPr3InPv  / tasya_tad_SGM pramāṇa_pramāṇa_Cp bhāve_bhāva_SLM tu_tu_ phalam_phala_SNNe h"
+  }
+]

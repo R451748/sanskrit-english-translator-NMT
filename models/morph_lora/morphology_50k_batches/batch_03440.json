@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27512,
+    "sanskrit": "iyameva hi śūnyatā yā grāhyagrāhakarahitatā'bhūtaparikalpa iti /",
+    "english": "For the Non-Substantiality here means the being free from [the real existence of] subject and object and that is the Constructive Ideation.",
+    "morphology": "iyam_idam_SNF eva_eva_ hi_hi_ śūnyatā_śūnyatā_SNF yā_yad_SNF grāhya_grāhya_Cp grāhaka_grāhaka_Cp rahita_rahita_Cp tā_tā_SNF abhūta_abhūta_Cp parikalpaḥ_parikalpa_SNM"
+  },
+  {
+    "index": 27513,
+    "sanskrit": "iti prakośann adaṇḍyaḥ //",
+    "english": "The charioteer who cries out to a passerby „get out‟ shall not be punished for collision samghattane",
+    "morphology": "iti_iti_ prakośan_prakuś_SNPaPrM a_a_ daṇḍyaḥ_"
+  },
+  {
+    "index": 27514,
+    "sanskrit": "hrīmantaḥ nītimantaḥ ca sarve yuddha viśāradāḥ",
+    "english": "Possessed of modesty, all of them are conversant with policy, and accomplished in war.",
+    "morphology": "hrīmantaḥ_hrīmat_PNM nītimantaḥ_nītimat_PNM ca_ca_U sarve_sarva_PNM"
+  },
+  {
+    "index": 27515,
+    "sanskrit": "padāttu viśeṣaṇāvagatipūrvikā viśeṣyāvagatiriti viṣayabhedaḥ //",
+    "english": "Some logicians hold that the place which contains fire is the consequence. Some other logicians hold that smoke is the consquence.",
+    "morphology": "padāt_pada_SBNe tu_tu_ viśeṣaṇa_viśeṣaṇa_Cp avagati_avagati_Cp pūrvikā_pūrvaka_SNF viśeṣya_viśeṣya_Cp avagatiḥ_avagati_SNF iti_iti_ viṣaya_viṣaya_Cp bhedaḥ_bheda_SNM  /"
+  },
+  {
+    "index": 27516,
+    "sanskrit": "nanu kiṃ vaditi pṛṣṭe dṛṣṭāntaḥ kathanīya iti cet- maivam| svalakṣaṇānāṃ kṣaṇānāṃ kṣaṇikatayā sālakṣaṇyābhāvādetena sadṛśamaparamiti vaktu maśakyatvāt|",
+    "english": "If you object: When it is asked, like what? you must quote an instance,—we reply: Not so, for momentary objects self-characterised being momentary, have no common characters, and therefore it is impossible to say that this is like that.",
+    "morphology": "nanu_nanu_ kim_ka_SNNe vat_vat_ iti_iti_ pṛṣṭe_pracch_SLPaNe dṛṣṭāntaḥ_dṛṣṭānta_SNM kathanīyaḥ_kath_SNMGd iti_iti_ ced_ced_ mā_mā_ evam_evam_ sva_sva_Cp lakṣaṇānām_lakṣaṇa_PGM kṣaṇānām_kṣaṇa_PGM kṣaṇikatay"
+  },
+  {
+    "index": 27517,
+    "sanskrit": "tadaniścayād iti /",
+    "english": "‘Tadaniścayāt’ Because they could not be sure of people being Brāhmaṇas.",
+    "morphology": "__tad_U __U"
+  },
+  {
+    "index": 27518,
+    "sanskrit": "yadi te aham anugrāhyaḥ bhrātṛbhiḥ sahitaḥ anagha vaktum arhasi naḥ praśnam yat tvām pṛcchāmi pārthiva",
+    "english": "If, O sinless one, I with my brothers deserve the favour, it behoveth thee to answer the question I desire to ask thee.",
+    "morphology": "yadi_yadi_U te_tvad_SD aham_mad_SN anugrāhyaḥ_anugrah_SNMGd bhrātṛbhiḥ_bhrātṛ_PIM sahitaḥ_sahita_SNM anagha_anagha_SVM vaktum_vac_In arhasi_arh_SPr2In naḥ_mad_PA praśnam_praśna_SAM yat_yad_SANe tvām_tvad_SA pṛcchāmi_pracch_SPr1In pārt"
+  },
+  {
+    "index": 27519,
+    "sanskrit": "vyasṛjat sāyakān ca eva svarṇa puṅkhān śilā śitān chādayām āsuḥ atha te tava syālasya tam ratham",
+    "english": "And he shot a large number of arrows equipped with golden wings and whetted on stone, and shrouded therewith the car of thy brother-in law in that battle.",
+    "morphology": "vyasṛjat_visṛj_SPs3In sāyakān_sāyaka_PAM ca_ca_U eva_eva_U svarṇa_svarṇa_NeCp puṅkhān_puṅkha_PAM śilā_śilā_FCp śitān_śā_PAPaPsM chādayām_chāday_PPs3In āsuḥ_as_PPs3In atha_atha_U te_tad_PNM tava_tvad_SG syālasya_syāla_SGM tam"
+  }
+]

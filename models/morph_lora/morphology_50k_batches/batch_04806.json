@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38440,
+    "sanskrit": "somapratiṣedhānuvādaśca liṅgamiti vyākhyātam /",
+    "english": "Sūtra Also because of the indicative force of words.",
+    "morphology": "soma_soma_Cp pratiṣedha_pratiṣedha_Cp anuvādaḥ_anuvāda_SNM"
+  },
+  {
+    "index": 38441,
+    "sanskrit": "yasya śravaṇamātreṇa mucyate sarvakilbiṣaiḥ | sarvadharmānparityajya vartate viṣayātmakaḥ || 37 || vaiśākhasnānanirataḥ sa priyo madhuvidviṣaḥ | sāṃgāndharmānanuṣṭhāya vaiśākho yena nādṛtaḥ || 38 || snānadānārcanaiḥ puṇyaistasya dūrataro hariḥ | asnāpya cā'pyadattvā ca vaiśākho yena nīyate || 39 ||",
+    "english": "36b-41a. “Listen, O king, I shall speak what I have been asked by you now. By listening to that, one is liberated from all sins. Granting that a person abandons all (other) holy rites and is completely engrossed in sensual pleasures, if he is engaged in the holy bath during the month of Vaiśākha, he becomes a favourite of Viṣṇu. Even if a person performs all other holy rites along with their ancillaries but Vaiśākha is not duly honoured by means of holy bath, charitable gifts, worships and other meritorious deeds, Hari is far way from him.",
+    "morphology": "yasya_yad_SGNe śravaṇa_śravaṇa_Cp mātreṇa_mātra_SINe mucyate_muc_SPr3InPv sarva_sarva_Cp kilbiṣaiḥ_kilbiṣa_PINe  / sarva_sarva_Cp dharmān_dharma_PAM parityajya_parityaj_Co vartate_vṛt_SPr3In viṣaya_viṣaya_Cp ātmakaḥ_ātmaka_SNM  /"
+  },
+  {
+    "index": 38442,
+    "sanskrit": "viśedanena mantreṇa yāgasthānañca bhūṣayet /",
+    "english": "The assignment of fingers on the different parts of the body by touching them.",
+    "morphology": "viśet_viś_SPr3O"
+  },
+  {
+    "index": 38443,
+    "sanskrit": "avakara ity eke /",
+    "english": "According to some, it is equal to a student's breaking the vow of chastity.",
+    "morphology": "avakaraḥ_"
+  },
+  {
+    "index": 38444,
+    "sanskrit": "sahasotthāya tām natvā parikramya natānanaḥ tad rūpa guṇa mādhurya stutim cakre munīśvaraḥ",
+    "english": "At once standing up, bowing down, and circumambulating Her with bowed head, Nārada, the king of sages, spoke many prayers gloirifying her beauty, virtues, and sweetness.",
+    "morphology": "sahasā_sahas_SINe utthāya_utthā_Co tām_tad_SAF natvā_nam_Co parikramya_parikram_Co natānanaḥ_natānana_SNM"
+  },
+  {
+    "index": 38445,
+    "sanskrit": "śuklatīrthaṃ mahātīrthaṃ narmadāyāṃ vyavasthitam | prāgudakpravaṇe deśe munisaṅghaniṣevitam || 2 ||",
+    "english": "The great Śuklatīrtha is stationed on Narmadā in the northeastern region. It is resorted to by groups of sages.",
+    "morphology": "śuklatīrtham_śuklatīrtha_SNNe mahā_mahat_Cp tīrtham_tīrtha_SNNe narmadāyām_narmadā_SLF vyavasthitam_vyavasthā_SNPaNe  / prāñc_prāñc_Cp udañc_udañc_Cp pravaṇe_pravaṇa_SLM deśe_deśa_SLM muni_muni_Cp saṅgha_saṃgha_Cp niṣev_SNPaNe"
+  },
+  {
+    "index": 38446,
+    "sanskrit": "gāndhāra rājaḥ śakuniḥ nikṛtyā yat abravīt dyūta kāle sa pārthān parājitaḥ nakulaḥ kim tava asti",
+    "english": "When the sons of Pandu were about to adopt the garments made of the skins of black deer, Dussasana spoke the following pungent words, 'These all are mean eunuchs, ruined, and damned for a lengthened time.' And Sakuni, the king of the Gandhara land, spoke to Yudhishthira at the time of the game of dice the following words by way of a wily trick, 'Nakula hath been won by me from you, what else have you got? Now you should better stake your wife Draupadi'.",
+    "morphology": "gāndhāra_gāndhāra_MCp rājaḥ_rāja_SNM śakuniḥ_śakuni_SNM nikṛtyā_nikṛti_SIF yat_yat_U abravīt_brū_SPs3In dyūta_dyūta_NeCp kāle_kāla_SLM sa_tad_SNM pārthān_pārtha_PAM parājitaḥ_parāji_SNPaPsM nakulaḥ_nakula_SNM kāṇḍīḥ_"
+  },
+  {
+    "index": 38447,
+    "sanskrit": "śrīvasiṣṭha uvāca / na ca prabhūtabhogeṣu na puṃstve na ca jīvite / na cendriyajayonmuktau dīpastanudṛśo yathā //",
+    "english": "Vasishtha replied:—Addictedness to enjoyments and display of manhood, and devotedness to the acquisition of the means of life or wealth; are preventives of self-controul and liberation of one's self, as blindness is an obstruction to one's sight of a light.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / na_na_ ca_ca_ prabhūta_prabhūta_Cp bhogeṣu_bhoga_PLM na_na_ puṃstve_puṃstva_SLNe na_na_ ca_ca_ jīvite_jīvita_SLNe  / na_na_ ca_ca_ indriya_indriya_Cp jaya_jaya_Cp unmuktau_unmuk"
+  }
+]

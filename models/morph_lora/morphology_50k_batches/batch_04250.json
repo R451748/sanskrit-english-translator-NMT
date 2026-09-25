@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33992,
+    "sanskrit": "anādyantatvāt kālasya //",
+    "english": "For Kâla (time) is without either beginning or end.",
+    "morphology": "a_a_ "
+  },
+  {
+    "index": 33993,
+    "sanskrit": "śūdrā punarbhūḥ bhāryā me satyam etat bravīmi te",
+    "english": "I have married a Sudra spouse who had been a widow.",
+    "morphology": "śūdrā_śūdrā_SNF"
+  },
+  {
+    "index": 33994,
+    "sanskrit": "mahaḥ naḥ agne suvitasya vidvān rayim sūri bhyaḥ ā vaha br̥hantam yena vayam sahasāvan madema avi kṣitāsaḥ āyuṣā su vīrāḥ",
+    "english": "Knowing our chief felicity, O Agni, bring hither ample riches to our nobles, Wherewith we may enjoy ourselves, O Victor, with undiminished life and hero children.",
+    "morphology": "mahaḥ_mah_SGNe naḥ_mad_PG agne_agni_SVM suvitasya_suvita_SGNe vidvān_vid_SNPaPsM rayim_rayi_SAM sūri_sūri_MCp bhyaḥ_bhī_PDM ā_ā_U vaha_vah_SPr2Im br̥hantam_brāhat_SAM yena_yad_SIM vayam_mad_PN sahasāvan_sahasāvat_SVM madema_mad_PPr1O avi_av"
+  },
+  {
+    "index": 33995,
+    "sanskrit": "enaṃ sam bharati vi vā etasya yajñaś chidyate yo 'gnim udvāsayate bṛhaspativatyarcopa tiṣṭhate brahma vai devānām bṛhaspatir brahmaṇaiva yajñaṃ saṃ dadhāti vi chinnaṃ yajñaṃ sam imaṃ dadhātv ity āha saṃtatyai viśve devā iha mādayantām ity āha saṃtatyaiva yajñaṃ devebhyo 'nu diśati sapta te agne samidhaḥ sapta jihvāḥ |",
+    "english": "he pays reverence with a verse containing the word Brhaspati; Brhaspati is the holy power (Brahman) of the gods; verily by holy power (Brahman) he unites the sacrifice. 'May he unite this scattered sacrifice', he says, for continuity, 'May the All-gods rejoice herein', he says; verily continuing the sacrifice he points it out to the gods.",
+    "morphology": "enam_enad_SAM sam_sam_ bharati_bhṛ_SPr3In vi_vi_ vai_vai_ etasya_etad_SGM yajñaḥ_yajña_SNM chidyate_chid_SPr3InPv yaḥ_yad_SNM agnim_agni_SAM udvāsayate_udvāsay_SPr3In bṛhaspativatyā_bṛhaspativat_SIF ṛcā_ṛc_SIF upa_upa_ tiṣṭhate_sth"
+  },
+  {
+    "index": 33996,
+    "sanskrit": "tato haristāmanusaṃsmaranmuhurvṛṃdānvitobhasmarajovaguṃṭhitaḥ | tatraiva tasthau surasiddhasaṃghaiḥ prabodhyamāno'pi yayau na śāṃtim || 31 ||",
+    "english": "31. Hari frequently remembered her. He was covered with the ashes to which Vṛndā was reduced. He stood there itself. Though he was pacified and advised by the groups of Suras and Siddhas, he did not get peace of mind. FOOTNOTES AND REFERENCES: VV 2-6 describe ill-omens indicating Jalandhara’s death.",
+    "morphology": "tatas_tatas_ hariḥ_hari_SNM tām_tad_SAF anusaṃsmaran_anusaṃsmṛ_SNPaPrM muhur_muhur_ vṛnda_vṛnda_Cp anvitaḥ_anvita_SNM bhasma_bhasman_Cp rajaḥ_rajas_Cp vaguṃṭhitaḥ_vaguṇṭhay_SNPaM  / tatra_tatra_ eva_eva_ tasthau_sthā_SPs3In sura"
+  },
+  {
+    "index": 33997,
+    "sanskrit": "sukha tyāge tapaḥ yogaḥ sarva tyāge samāpanā",
+    "english": "For renunciation of pleasure and happiness, exist penances and yoga. Renunciation, however, of everything, is the highest kind of renunciation.",
+    "morphology": "sukha_sukha_NeCp"
+  },
+  {
+    "index": 33998,
+    "sanskrit": "gokarṇe śivaliṃgaṃ tu mokṣadvāra udāhṛtaḥ | mahābalābhidhāno'sau pūjitaḥ saṃstuto dvijāḥ ||",
+    "english": "24. O brahmins, the Mahābala image of Śiva at Gokarṇa worshipped and eulogised is the doorway to salvation.",
+    "morphology": "gokarṇe_gokarṇa_SLM śiva_śiva_Cp liṃgam_liṅga_SNNe tu_tu_ mokṣadvāre_mokṣadvāra_SLNe udāhṛtaḥ_udāhṛ_SNPaM  / mahābala_mahābala_Cp abhidhānaḥ_abhidhāna_SNM asau_adas_SNM pūjitaḥ_pūjay_SNPaM saḥ_tad_SNM saḥ_tad_SNM __pā"
+  },
+  {
+    "index": 33999,
+    "sanskrit": "vibhavaḥ ca asti me vipra vāsava avarajaḥ dvija",
+    "english": "The prosperity that I have, O Brahmana, is constituted by Vasava's younger brother Vishnu.",
+    "morphology": "vibhavaḥ_vibhava_SNM"
+  }
+]

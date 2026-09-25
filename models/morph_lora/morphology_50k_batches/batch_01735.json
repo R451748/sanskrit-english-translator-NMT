@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13872,
+    "sanskrit": "syau śrīpuṭho vasuvedā jalogatijalau jamau //",
+    "english": "Jaloddhatagati consists of ja, sa, ja and sa.",
+    "morphology": "__s_U __U"
+  },
+  {
+    "index": 13873,
+    "sanskrit": "bhāryāyai pradadau pūrvaṃ brāhmyaṃ ca carumutta mam | abravītprāśayitvainamaśvatthāliṃganaṃ kuru || 15 || tataḥ prāpsyasi satputraṃ brāhmyatejaḥsamanvitam | dvitīyaścaruko yaśca taṃ tvaṃ mātre nive daya || 16 ||",
+    "english": "15-16. He gave the former, the excellent Brāhmaṇical Caru, to his wife and told her, “Take this in and embrace an Aśvattha tree. Thereby you will get an excellent son endowed with Brāhmaṇical radiance. Give unto your mother this second Caru.”",
+    "morphology": "bhāryāyai_bhāryā_SDF pradadau_pradā_SPs3In pūrvam_pūrvam_ brāhmyam_brāhmya_SAM ca_ca_ carum_caru_SAM uttamam_uttama_SAM  / abravīt_brū_S3ImIn prāśayitvā_prāśay_Co enam_enad_SAM aśvattha_aśvattha_SVM āliṃganam_āliṅgana_SANe kuru_kṛ"
+  },
+  {
+    "index": 13874,
+    "sanskrit": "te vayam vīra śayanam prāpsyāmaḥ yadi saṃyuge a praṇamya eva śatrūṇām na naḥ tapsyati mādhava",
+    "english": "If, without bowing to our enemies, ours be the bed of arrows in battle, that, O Madhava, will never grieve us.",
+    "morphology": "te_tad_PNM vayam_mad_PN vīra_vīra_MCp śayanam_śayana_SANe prāpsyāmaḥ_prāp_PFu1In yadi_yadi_U saṃyuge_saṃyuga_SLNe a_a_U praṇamya_praṇam_Co eva_eva_U śatrūṇām_śatru_PGM na_na_U naḥ_mad_PA tapsyati_tap_SFu3In"
+  },
+  {
+    "index": 13875,
+    "sanskrit": "ko hi nāma niṣphalam arthaṃ prekṣāvān anutiṣṭet / nanu phale 'pi darśite kecit tatra pravartanta eva / kiṃ cātaḥ /",
+    "english": "762 Does any intelligent man set to a fruitless work? Now, the Mimāṁsakas contend that there are some persons who do not undertake an act even though they are informed of its result.",
+    "morphology": "kaḥ_ka_SNM hi_hi_ nāma_nāma_ niṣphalam_niṣphala_SAM artham_artha_SAM prekṣāvān_prekṣāvat_SNM anutiṣṭet_anuṣṭhā_SPr3O  / nanu_nanu_ phale_phala_SLNe api_api_ darśite_darśay_SLPaNe kecid_kaścit_PNM tatra_tatra_ pravartante_pravṛt"
+  },
+  {
+    "index": 13876,
+    "sanskrit": "tasya vistīryate rāṣṭram jyotsnā grahapateḥ iva",
+    "english": "Indeed, the dominions of that king spread on every direction, like the light of the lord of the stars, who makes alliances of friendship with such superior men.",
+    "morphology": "tasya_tad_SGM vistīrṇā_vistṛ_SPr3InPv"
+  },
+  {
+    "index": 13877,
+    "sanskrit": "ātmaivedaṃ jagatsarvaṃ kaḥ kiṃ bhāvayatu kva vā / bhāvanā nāma nāstveva tadetatsamyagīkṣaṇam //",
+    "english": "The whole world is full with the spirit of God, whatever otherwise one may think of it at any time; there can be no other thought of it except that it is a nihility, and this forms our perfect knowledge of it.",
+    "morphology": "ātmā_ātman_SNM eva_eva_ idam_idam_SNNe jagat_jagant_SNNe sarvam_sarva_SNNe kaḥ_ka_SNM kim_ka_SANe bhāvayatu_bhāvay_SPr3Im kva_kva_ vā_vā_  / bhāvanā_bhāvanā_SNF nāma_nāma_ na_na_ astu_as_SPr3Im eva_eva_ tat_tad_SNNe etat_etad_SNNe samyak_sam"
+  },
+  {
+    "index": 13878,
+    "sanskrit": "atha śaktyupakāriṇyāḥ śakter avyatireko 'bhyupagamyate, kva idānīm ādyāyāṃśaktāvavyatireke pradveṣaḥ /",
+    "english": "If (in order to escape from the Infinite Regress) it be held that the Potency that helps the Potency is not anything different (from the Auditory Organ), then why should there be any hostility against the first Potency itself?",
+    "morphology": "atha_atha_ śakti_śakti_Cp upakāriṇyāḥ_upakārin_SGF śakteḥ_śakti_SGF avyatirekaḥ_avyatireka_SNM abhyupagamyate_abhyupagam_SPr3InPv kva_kva_ idānīm_idānīm_ ādyāyām_ādya_SLF śaktau_śakti_SLF avyatireke_avyatireka_SLM pradveṣaḥ_pra"
+  },
+  {
+    "index": 13879,
+    "sanskrit": "puṣpa-hetoḥ patnī-vacanenāśoka-vkṣam ārūḍhaḥ |",
+    "english": "and climbed an Aśoka tree at the request of his wife to pick flowers.",
+    "morphology": "puṣpa_puṣpa_Cp hetoḥ_hetu_SBM"
+  }
+]

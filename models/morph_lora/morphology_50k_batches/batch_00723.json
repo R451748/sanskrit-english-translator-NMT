@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5776,
+    "sanskrit": "vilavaṇam uttamaṃ daṇḍaṃ dadyād,",
+    "english": "Adulteration of salt shall be punished with the highest amercement;",
+    "morphology": "vilavaṇaḥ_vilavaṇa_SNM"
+  },
+  {
+    "index": 5777,
+    "sanskrit": "gurubhaktaḥ sadākṣiṇyo brahmaṇyo dharmatatparaḥ | dayāvānsarvabhūteṣu devabhakto jitendriyaḥ || 12 || na bhrātā me na putro me na ca me suhṛdo hitāḥ | dayāpauruṣavikhyātāḥ kulīnasyā'pi me kutaḥ || 13 || kena vā karmaṇā cāptaṃ dāridryaṃ bhūriduḥkhadam | kena vā'pajayo me'dya kena vā vanavāsitā || 14 ||",
+    "english": "‘I am pure by birth and activity. I am engaged in the welfare of my parents. I am a sincere devotee of my preceptors. I am endowed with chivalry and courtesy. I am a benefactor of Brāhmaṇas. I am interested in Dharma. I am kind and considerate towards all living beings. I am a devotee of Devas and have conquered the sense-organs. Neither my brother nor my son nor my friends are my well-wishers now, although I am of noble birth and they are famous for their kindness and manliness. Why? For what Karma has poverty overtaken me? It gives me much misery. Why have I suffered defeat? What is the reason for my stay in the forest?’",
+    "morphology": "guru_guru_Cp bhaktaḥ_bhakta_SNM sa_sa_ dākṣiṇyaḥ_dākṣiṇya_SNM brahmaṇyaḥ_brahmaṇya_SNM dharma_dharma_Cp tatparaḥ_tatpara_SNM  / dayāvān_dayāvat_SNM sarva_sarva_Cp bhūteṣu_bhūta_PLNe deva_deva_Cp bhaktaḥ_bhakta_SNM jita_ji_PaC"
+  },
+  {
+    "index": 5778,
+    "sanskrit": "nityam āpta praṇītam vā vākyam yat ca avadhāryate | śrotruccārayitṛbhyām tat na manāk api dūṣyate || ye vidyā guravaḥ tatra sahādhyāyinaḥ eva ca | vināśam vārayantaḥ te tādṛśām pālana kṣamāḥ || atas guṇa niṣiddhaiḥ vā doṣaiḥ vākyam na dūṣyate | yat vā kartuḥ abhāve te na syuḥ doṣāḥ nirāśrayāḥ ||",
+    "english": "That word which is definitely known to be eternal, or uttered by a trustworthy person, is never vitiated by the hearer or the speaker;—because teachers and fellow-students help to prevent mutilations thereof and are fully competent to preserve such assertions.—Consequently, the assertion does not become vitiated by the defects which are warded off by the excellences (of the teacher, etc.).—Or, when there is no pronouncer or ‘maker’ of the word or assertion, there can be no defects, as there would be no substratum for these.”",
+    "morphology": "nityam_nitya_SNNe āpta_āpta_MCp praṇītam_praṇī_SNPaPsNe vā_vā_U vākyam_vākya_SNNe yat_yad_SNNe ca_ca_U avadhāryate_avadhāray_SPr3InPv  / śrotruccārayitṛbhyām_śrotruccārayitṛ_DuIM tat_tad_SNNe na_na_U manāk_manāk_U api_api_U dūṣy"
+  },
+  {
+    "index": 5779,
+    "sanskrit": "tasminvinaṣṭe tasyātra kṛtasāhāyakānsa tān / nāgo mṛgāṅkadattādīnaśapacchāntavaikṛtaḥ // yuṣmābhir etat saṃghātāt kṛtaṃ niṣkāraṇaṃ yataḥ / viprayuktāstato 'nyonyaṃ kaṃcitkālaṃ bhaviṣyatha // ity uktvāntarhite nāge sarve te tatra tatkṣaṇam / dhvāntaruddhadṛśo dhvastaśabdaśravaṇaśaktayaḥ //",
+    "english": "When he was destroyed, the snake laid aside the awful form, and cursed Mṛgāṅkadatta and his followers, for helping the ascetic, in the following words: “Since you did what was quite unnecessary after all coming here with this man, you shall be for a certain time separated from one another.” Then the snake disappeared, and all of them at the same time had their eyes dimmed with darkness, and were deprived of the power of hearing sounds.",
+    "morphology": "tasmin_tad_SLM vinaṣṭe_vinaś_SLPaM tasya_tad_SGM atra_atra_ kṛta_kṛ_PaCp sāhāyakān_sāhāyaka_PAM sa_tad_SNM tān_tad_PAM  / nāgaḥ_nāga_SNM mṛgāṅkadatta_mṛgāṅkadatta_Cp ādīn_ādi_PAM aśapat_śap_S3ImIn śānta_śam_PaCp vaikṛ"
+  },
+  {
+    "index": 5780,
+    "sanskrit": "pratisarā,",
+    "english": "Assailer,",
+    "morphology": "pratiṣṭhā_"
+  },
+  {
+    "index": 5781,
+    "sanskrit": "etadindrasya svapadacyavanādārohaṇaṃ śrutvā puruṣaḥ svapadabhraṃśaṃ daurātmayaṃ ca nāpnoti //",
+    "english": "Whoever hears this story shall retain for ever his proper place, and shall never be guilty of wicked acts.",
+    "morphology": "etat_etad_SANe indrasya_indra_SGM sva_sva_Cp pada_pada_Cp cyavanāt_cyavana_SBNe ārohaṇam_ārohaṇa_SANe śrutvā_śru_Co puruṣaḥ_puruṣa_SNM sva_sva_Cp pada_pada_Cp bhraṃśam_bhraṃśa_SAM daurātmayam_daurātmaya_SANe ca_ca_ na_na_ āpnoti_ā"
+  },
+  {
+    "index": 5782,
+    "sanskrit": "sa pradeśas tu bhagavan viditas tava suvrata //",
+    "english": "Tell me if you know the place.",
+    "morphology": "sa_tad_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 5783,
+    "sanskrit": "puṇya aha vācane nityam dharma kāryeṣu ca asakṛt utsmayan prāhasat ca api dṛṣṭvā rājā purohitam",
+    "english": "Everyday, however, the king on the occasion of receiving benedictions from his priest as also of the performance of religious and other sacred rites, smiled or laughed at him loudly.",
+    "morphology": "puṇya_puṇya_Cp aha_aha_NeCp vācane_vācana_SLNe nityam_nityam_U dharma_dharma_MCp kāryeṣu_kārya_PLNe ca_ca_U asakṛt_asakṛt_U utsmayan_utsmi_SNPaPrM prāhasat_prahas_SPs3In ca_ca_U api_api_U dṛṣṭvā_dṛṣṭvā_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6480,
+    "sanskrit": "tān hovāca / ete vai khalu yūyaṃ pṛthag ivemam ātmānaṃ vaiśvānaraṃ vidvāṃso 'nnam attha /",
+    "english": "He said to them‘All of you, knowing the VaiśvānaraSelf differently as it were, eat food",
+    "morphology": "tān_tad_PAM ha_ha_ uvāca_vac_SPs3In  / ete_etad_PNM vai_vai_ khalu_khalu_ yūyam_tvad_PN pṛthak_pṛthak_ iva_iva_ imam_idam_SAM ātmānam_ātman_SAM vaiśvānaram_vaiśvānara_SAM vidvāṃsaḥ_vid_PNPaPsM annam_anna_SANe attha_ad_PPr2In  /"
+  },
+  {
+    "index": 6481,
+    "sanskrit": "iti /",
+    "english": "Its V.",
+    "morphology": "iti_"
+  },
+  {
+    "index": 6482,
+    "sanskrit": "sāpatnyaṃ vāstujaṃ strījaṃ vāgjātamaparādhajaṃ / vairaṃ pañcavidhaṃ proktaṃ sādhanaiḥ praśamannayet //",
+    "english": "Enmity is said to be of five kindsthrough the cowife, on account of one’s abode, on account of wife, that arising from one’s expression and that due to an offence.",
+    "morphology": "sāpatnyam_sāpatnya_SNNe vāstu_vāstu_Cp jam_ja_SNNe strī_strī_Cp jam_ja_SNNe vāc_vāc_Cp jātam_jan_SNPaNe aparādha_aparādha_Cp jam_ja_SNNe  / vairam_vaira_SNNe pañcavidham_pañcavidha_SNNe proktam_pravac_SNPaNe sādhanaiḥ_sādhana_PINe  /"
+  },
+  {
+    "index": 6483,
+    "sanskrit": "yat aṅga dāśuṣe tvam agne bhadram kariṣyasi tava it tat satyam aṅgiraḥ",
+    "english": "Whatever good thou wilt do to thy worshipper, O Agni, that (work) verily is thine, O Angiras.",
+    "morphology": "yat_yat_U aṅga_aṅga_U dāśuṣe_dāś_SDPaPsM tvam_tvad_SN agne_agni_SVM bhadram_bhadra_SANe kariṣyasi_kṛ_SFu2In tava_tvad_SG id_id_U tat_tad_SNNe satyam_satya_SNNe aṅgiraḥ_aṅgiras_SVM"
+  },
+  {
+    "index": 6484,
+    "sanskrit": "ājaghāna hayān asya śaraiḥ saṃnata parvabhiḥ",
+    "english": "He then, with some straight and fierce shafts, struck the steeds of Ghatotkacha.",
+    "morphology": "ājaghāna_āhan_SPs3In hayān_haya_PAM asya_idam_SGM śaraiḥ_śara_PIM saṃnata_saṃnam_PaPsCp parvabhiḥ_parvan_PIM"
+  },
+  {
+    "index": 6485,
+    "sanskrit": "suprasthānāḥ kṣatra dharma aviśiṣṭāḥ",
+    "english": "Kingly duties, however, are distinguished above them.",
+    "morphology": "suprasthānāḥ_suprasthāna_PNM"
+  },
+  {
+    "index": 6486,
+    "sanskrit": "haṃsaḥ paramahaṃsaś ca yo yaḥ paścāt sa uttamaḥ //",
+    "english": "Each succeeding one is superior.",
+    "morphology": "haṃsaḥ_haṃsa_SNM paramahaṃsaḥ_paramahaṃsa_SNM ca_ca_ yaḥ_yad_SNM yaḥ_yad_SNM paścāt_paścāt_ saḥ_tad_SNM uttamaḥ_uttama_SNM  /"
+  },
+  {
+    "index": 6487,
+    "sanskrit": "jajvāla kupitaḥ kveti kalpāntāgniriva jvalan / śambaraḥ śamitānīko dāmavyālakaṭānprati //",
+    "english": "Upon this Sambara was full of wrath, and his anger was kindled like the all destroying fire against his generals, whom he called aloud by their names and said, where are they?",
+    "morphology": "jajvāla_jval_SPs3In kupitaḥ_kup_SNPaM kva_kva_ iti_iti_ kalpa_kalpa_Cp anta_anta_Cp agniḥ_agni_SNM iva_iva_ jvalan_jval_SNPaPrM  / śambaraḥ_śambara_SNM śamita_śamay_PaCp anīkaḥ_anīka_SNM dāma_dāman_Cp vyāla_vyāla_Cp kaṭān_kaṭa_PAM p"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27040,
+    "sanskrit": "iti śrīviṣṇupurāṇe prathameṃśa ekādaśo 'dhyāyaḥ",
+    "english": "Dhruva praises Viṣṇu, and is raised to the skies as the polestar.",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 27041,
+    "sanskrit": "apehi manasas pate apa kāma paras cara / paras nirṛtyāḥ ā cakṣva bahudhā jīvataḥ manaḥ /",
+    "english": "Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destruction far from us. The live man's mind is manifold.",
+    "morphology": "apehi_ape_SPr2Im manasas_manas_SGNe pate_pati_SVM apa_apa_U kāma_kāma_SVM paras_paras_U cara_car_SPr2Im  / paras_paras_U nirṛtyāḥ"
+  },
+  {
+    "index": 27042,
+    "sanskrit": "yaṃ vai tam prāṇā ṛṣayo 'gre 'gniṃ samaskurvantsa eṣa tamevaitatpunaścinoti tadyaccitaṃ santam punaścinoti tasmādveva punaścitiḥ //",
+    "english": "This (altar), doubtless, is that same Agni whom in the beginning the vital airs, the Rishis, made up . He now builds him up again; and inasmuch as he again (punas) builds up (ki) that (Agni) already built, therefore also it is (called) Punaskiti.",
+    "morphology": "yam_yad_SAM vai_vai_ tam_tad_SAM prāṇāḥ_prāṇa_PNM ṛṣayaḥ_ṛṣi_PNM agre_agra_SLNe agnim_agni_SAM samaskurvan_saṃskṛ_P3ImIn saḥ_tad_SNM eṣa_etad_SNM tam_tad_SAM eva_eva_ etat_etad_SANe punar_punar_ cinoti_ci_SPr3In tat_tad_SANe yat_"
+  },
+  {
+    "index": 27043,
+    "sanskrit": "ānuṣūko bhavaty eṣā hy etasya devatā ya ānujāvaraḥ samṛddhyai yo brāhmaṇa ānujāvaraḥ syāt tasmā etam bārhaspatyam ānuṣūkaṃ caruṃ nir vapet |",
+    "english": "For the Brahman who is low in rank he should offer to Brhaspati this oblation of the after-shoots of rice;",
+    "morphology": "ānuṣūkaḥ_ānuṣūka_SNM bhavati_bhū_SPr3In eṣā_etad_SNF hi_hi_ etasya_etad_SGM devatā_devatā_SNF yaḥ_yad_SNM ānujāvaraḥ_ānujāvara_SNM samṛddhyai_samṛddhi_SDF yaḥ_yad_SNM brāhmaṇaḥ_brāhmaṇa_SNM ānujāvaraḥ_ānujāvara_S"
+  },
+  {
+    "index": 27044,
+    "sanskrit": "abhyārohati śarīraṃ vā etad yajamānaḥ saṃs kurute yad agniṃ cinute yac cite vaiśvānaraṃ juhoti śasīram eva saṃskṛtyātmanābhyārohati tasmāt tasya nāva dyanti jīvann eva devān apy eti vaiśvānaryarcā purīṣam upa dadhāti |",
+    "english": "the sacrificer thus prepares his body, in that he piles the fire; in that he offers to Vaiçvanara after the piling, verily having pre pared his body he mounts it with the self; therefore they do not cut off from it; verily living he goes to the gods. He puts on dust with a verse addressed to Vaiçvanara;",
+    "morphology": "abhyārohati_abhyāruh_SPr3In śarīram_śarīra_SANe vai_vai_ etat_etad_SANe yajamānaḥ_yaj_SNPaPrM saṃs_saṃs_ kurute_kṛ_SPr3In yat_yat_ agnim_agni_SAM cinute_ci_SPr3In yat_yat_ cite_ci_SLPaM vaiśvānaram_vaiśvānara_SAM juhoti_hu_SPr3In śasīr"
+  },
+  {
+    "index": 27045,
+    "sanskrit": "jāgarikām anuyuttānāṃ ahorāttānuśikkhiṇāṃ |",
+    "english": "For those devoted to being alert, who train both by day and by night,",
+    "morphology": "jāgarikāḥ_jāgṛ_PNM"
+  },
+  {
+    "index": 27046,
+    "sanskrit": "na caatraanyoagnir jvalati,",
+    "english": "nor can there be kindled any other fire",
+    "morphology": "na_"
+  },
+  {
+    "index": 27047,
+    "sanskrit": "utphullakiṃśukavanairuḍḍīnairiva vā''vṛtam / aurveṇa cāvṛtā āsanphullāśokavanā iva //",
+    "english": "Overspread with the flaming fires, the sky appeared as an overhanging garden of blooming Asoka flowers, or as a bed of the red kinsuka blossoms hanging aloft in the sky.",
+    "morphology": "utphulla_utphulla_Cp kiṃśuka_kiṃśuka_Cp vanaiḥ_vana_PINe uḍḍīnaiḥ_uḍḍī_PIPaNe iva_iva_ vā_vā_ āvṛtam_āvṛ_SNPaNe  / aurveṇa_aurva_SIM ca_ca_ āvṛtāḥ_āvṛ_PNPaF"
+  }
+]

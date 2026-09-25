@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10472,
+    "sanskrit": "bhagadattena samare kālyamāneṣu pāṇḍuṣu prāgjyotiṣam abhikruddhaḥ punar bhīmaḥ samabhyayāt",
+    "english": "And while the Pandava troops were thus destroyed by Bhagadatta, Bhima, excited with rage, once more rushed against the ruler of the Pragjyotisha.",
+    "morphology": "bhagadattena_bhagadatta_SIM samare_samara_SLNe kālyamāneṣu_kālay_PLPaPrMPv pāṇḍuṣu_pāṇḍu_PLM prāgjyotiṣaḥ_prāgjyotiṣa_SNM abhikruddhaḥ_abhikrudh_SNPaM"
+  },
+  {
+    "index": 10473,
+    "sanskrit": "atha dvāronmukhaiḥ sarvair vīkṣyamāṇā sakautukam / pratīhārājñayā yoṣid bhartṛyuktā viveśa sā //",
+    "english": "Then that woman entered by the command of the warder, accompanied by her husband, looked at with curiosity by all, who had their faces turned towards the door.",
+    "morphology": "atha_atha_ dvāra_dvāra_Cp unmukhaiḥ_unmukha_PIM sarvaiḥ_sarva_PIM vīkṣyamāṇā_vīkṣ_SNPaPrFPv sa_sa_ kautukam_kautuka_SANe  / pratīhāra_pratīhāra_Cp ājñayā_ājñā_SIF yoṣit_yoṣit_SNF ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛ"
+  },
+  {
+    "index": 10474,
+    "sanskrit": "maghonaḥ sma vṛtrahatyeṣu codaya ye dadati priyā vasu / tava praṇītī haryaśva sūribhirviśvā tarema duritā // edu madhormadintaraṃ siñcādhvaryo andhasaḥ / evā hi vīra stavate sadāvṛdhaḥ //",
+    "english": "In battles with the foe urge on our mighty ones who give the treasures dear to thee Come, priest, and of the savoury juice pour forth a yet more gladdening draught!",
+    "morphology": "maghonaḥ_maghavan_PAM sma_sma_ vṛtra_vṛtra_Cp hatyeṣu_hatya_PLNe codaya_coday_SPr2Im ye_yad_PNM dadati_dā_PPr3In priyā_priya_PANe vasu_vasu_PANe  / tava_tvad_SG praṇītī_praṇīti_SIF haryaśva_haryaśva_SVM sūribhiḥ_sūri_PIM viśvā_viś"
+  },
+  {
+    "index": 10475,
+    "sanskrit": "gaganāt puṣpa varṣam ca paśyasva patitam bhuvi",
+    "english": "Behold, flowers have been rained down from the firmament on the Earth.",
+    "morphology": "gaganāt_gagana_SBNe"
+  },
+  {
+    "index": 10476,
+    "sanskrit": "vīrya unnaddhāḥ bala udagrāḥ rājñā samabhipūjitāḥ",
+    "english": "And elated with their prowess and proud of their strength, they were highly honoured by the king.",
+    "morphology": "vīrya_vīrya_NeCp unnaddhāḥ_unnah_PNPaPsM bala_bala_NeCp udagrāḥ_udagra_PNM"
+  },
+  {
+    "index": 10477,
+    "sanskrit": "arjunopi tadānvīkṣya rāmakṛṣṇakalevare / saṃskāraṃ laṃbhayāmāsa tathānyeṣāmanukramāt //",
+    "english": "ARJUNA having found the bodies of Kṛṣṇa and of Rāma, performed for them, and the rest of the slain, the obsequial rites.",
+    "morphology": "arjunaḥ_arjuna_SNM upi_api_ tadā_tadā_ anvīkṣya_anvīkṣ_Co rāma_rāma_Cp kṛṣṇa_kṛṣṇa_Cp kalevare_kalevara_DuANe  / saṃskāram_saṃskāra_SAM laṃbhayāmāsa_labh_SPs3InPe tathā_tathā_ anyeṣām_anya_PGM anukramāt_anukrama_SBM "
+  },
+  {
+    "index": 10478,
+    "sanskrit": "bhūmau nipatya rājeṃdro namonama iti sthitaḥ | bhīmopi mātaraṃ dṛṣṭvā yathā bālo'bhidhāvati || 74 ||",
+    "english": "On seeing the mother in the sky in such a manner like Gaṅgā flowing through the firmament that prominent king fell on the ground uttering “Obeisance! Obeisance!”.",
+    "morphology": "bhūmau_bhūmi_SLF nipatya_nipat_Co rāja_rājan_Cp iṃdraḥ_indra_SNM namaḥ_namas_SNNe namaḥ_namas_SNNe iti_iti_ sthitaḥ_sthā_SNPaM  / bhīmaḥ_bhīma_SNM api_api_ mātaram_mātṛ_SAF dṛṣṭvā_dṛś_Co yathā_yathā_ ḥ_ḥ_"
+  },
+  {
+    "index": 10479,
+    "sanskrit": "vivakṣāyāṃ ca pratipādyāyāṃ śruteḥ śabdād bahirarthe pravṛttir na prāpnoti /",
+    "english": "If the ‘desire to speak’, is what is expressed by the Word, then the Word cannot be applied to any external object;",
+    "morphology": "vivakṣāyām_vivakṣā_SLF ca_ca_ pratipādyāyām_pratipāday_SLFGd śruteḥ_śruti_SGF śabdāt_śabda_SBM bahis_bahis_ arthe_artha_SLM pravṛttiḥ_pravṛtti_SNF"
+  }
+]

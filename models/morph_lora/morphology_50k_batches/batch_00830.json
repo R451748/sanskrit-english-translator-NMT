@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6632,
+    "sanskrit": "śuciḥ apaḥ su yavasāḥ adabdhaḥ upa kṣeti vr̥ddha vayāḥ su vīraḥ nakiḥ tam ghnanti antitaḥ na dūrāt yaḥ ādityānām bhavati pra nītau",
+    "english": "Pure, faithful, very strong, with heroes round him, he dwells beside the waters rich with pasture. None slays, from near at hand or from a distance, him who is under the Âdityas' guidance.",
+    "morphology": "śuciḥ_śuci_SNM apaḥ_ap_PAF su_su_U yavasāḥ_yavasa_PAF adabdhaḥ_adabdha_SNM upa_upa_U kṣeti_kṣi_SPr3In vr̥ddha_vraśc_PaPsCp vayāḥ_vayas_SNM su_su_U vīraḥ_vīra_SNM nakir_nakir_U tam_tad_SAM ghnanti_han_PPr3In antitaḥ_antitas_U na_na"
+  },
+  {
+    "index": 6633,
+    "sanskrit": "yatnataḥ anveṣamāṇāḥ tu na eva apaśyan janādhipam",
+    "english": "Though, however, they looked very carefully for him, they failed to discover the (Kuru) king.",
+    "morphology": "yatnataḥ_yatna_SBM anveṣamāṇāḥ_anviṣ_PNPaPrM tu_tu_U na_na_U eva_eva_U apaśyan_paś_PPs3In janādhipam_janādhipa_SAM"
+  },
+  {
+    "index": 6634,
+    "sanskrit": "jānatā yatkṛtaṃ pāpaṃ taccaivākṣayatāṃ vrajet | na karoti mahīpālo yadi tasya vinigraham || 64 ||",
+    "english": "64. Only that sin which has been committed knowingly will have everlasting effect, if the king does not restrain him or punish him.",
+    "morphology": "jānatā_jñā_SIPaPrM yat_yad_SNNe kṛtam_kṛ_SNPaNe pāpam_pāpa_SNNe tat_tad_SNNe ca_ca_ eva_eva_ akṣaya_akṣaya_Cp tām_tā_SAF vrajet_vraj_SPr3O  / na_na_ karoti_kṛ_SPr3In mahīpālaḥ_mahīpāla_SNM yadi_yadi_ tasya_tad_SGM vinigraham_vinigra"
+  },
+  {
+    "index": 6635,
+    "sanskrit": "tat kṣaṇād dur nimittāni vāmāìga sphuraṇāni caprapaśyann aìga bhaìgāni na nidrām prāpa daitya rāṭ",
+    "english": "From that moment Kaṃsa saw many evil omens. The left side of his body trembled. In dreams he saw his limbs broken. Then he could not sleep.",
+    "morphology": "tad_tad_Cp kṣaṇāt_kṣaṇa_SBM dur_dur_Cp nimittāni_nimitta_PANe vāmāñga_vāmāñga_SVM sphuraṇāni_sphuraṇa_PANe caprapaśyan_caprapaś_SNPaPrM aìga_añga_SVM bhaìgāni_bhañga_PANe na_na_U nidrām_nidrā_SAF prāpa_prāp_SPs3In daitya_dai"
+  },
+  {
+    "index": 6636,
+    "sanskrit": "avedasya pramāṇatvaṃ brāhmaṇasyāpi neṣyate",
+    "english": "For when it has been already ascertained that Dharma is that which has the Veda for its sole authority, anything that is not Veda, even if it be a Brahmana, cannot be accepted as having any authority regarding Dharma.",
+    "morphology": "__a_U __veda_U __pramāṇa_U __tva_U"
+  },
+  {
+    "index": 6637,
+    "sanskrit": "astrāṇi samavāptāni tvayā daśa ca pañca ca pañcabhiḥ vidhibhiḥ pārtha na tvayā vidyate samaḥ",
+    "english": "And, O Partha, together with (a knowledge of) the five modes, using (them), thou hast obtained five and ten weapons and, therefore, there existeth none, who is thy peer.",
+    "morphology": "astrāṇi_astra_PNNe samavāptāni_samavāp_PNPaPsNe tvayā_tvad_SI daśa_daśan_SNNe ca_ca_U pañca_pañcan_SNNe ca_ca_U pañcabhiḥ_pañcan_PIM vidhibhiḥ_vidhi_PIM pārtha_pārtha_SVM na_na_U tvayā_tvad_SI vidyate_vid_SPr3InPv samaḥ_sama_SNM"
+  },
+  {
+    "index": 6638,
+    "sanskrit": "etaṃ te deva savitar yajñaṃ prāhur bṛhaspataye brahmaṇe // tena yajñam ava tena yajñapatiṃ tena mām ava //",
+    "english": "God Savitar, this sacrifice of thine have they proclaimed unto Brihaspati the Brahman Priest. Therefore protect the sacrifice, protect the sacrifice's lord, protect thou me. 13",
+    "morphology": "etam_etad_SAM te_tvad_SG deva_deva_SVM savitar_savitṛ_SVM yajñam_yajña_SAM prāhuḥ_prāh_PPs3In bṛhaspataye_bṛhaspati_SDM brahmaṇe_brahman_SDM  // tena_tad_SIM yajñam_yajña_SAM ava_av_SPr2Im tena_tad_SIM yajñapatim_yajñapati_SAM tena_tad_SI"
+  },
+  {
+    "index": 6639,
+    "sanskrit": "upasthito mamāpi karma-vipāka.’ iti",
+    "english": "and now the result of my deed is near to hand.’",
+    "morphology": "upasthitaḥ_upasthā_SNPaM"
+  }
+]

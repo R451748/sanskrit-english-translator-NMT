@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14872,
+    "sanskrit": "evam buddhvā naraḥ sarvām bhūtānām āgatim gatim samavekṣya śanais samyak labhate śamam uttamam",
+    "english": "Indeed, a person, by thus comprehending the origin and end of all creatures, and by thus apprehending their inequalities or distinctions, succeeds in attaining to high felicity.",
+    "morphology": "evam_evam_U buddhvā_budh_Co naraḥ_nara_SNM sarvām_sarva_SAF bhūtānām_bhūta_PGNe āgatim_āgati_SAF gatim_gati_SAF samavekṣya_samavekṣ_Co śanais_śanais_U samyak_samyak_U labhate_labh_SPr3In śamam_śama_SAM uttamam_uttama_SAM"
+  },
+  {
+    "index": 14873,
+    "sanskrit": "siṃhatuḍādudagbhāge kalipriya vināyakaḥ | kalahaṃ kārayennityamanyonyaṃ tairthikadruhām || 99 ||",
+    "english": "99. The Vināyaka (named) Kalipriya is stationed to the north of Siṃhatuṇḍa. Among those who harass the devotees flocking to the Tīrtha, he creates natural quarrel always.",
+    "morphology": "siṃhatuḍāt_siṃhatuḍa_SBNe udak_udañc_Cp bhāge_bhāga_SLM kalipriya_kalipriya_SVM vināyakaḥ_vināyaka_SNM  / kalaham_kalaha_SAM kārayet_kāray_SPr3O nityam_nityam_ anyonyam_anyonya_SAM tairthika_tairthika_Cp druhām_druh_PGM"
+  },
+  {
+    "index": 14874,
+    "sanskrit": "ato 'vaśyam ācāryavidhiprayuktatā eṣitavyā /",
+    "english": "From all this it follows that the act of \"learning the Veda\" should be regarded as prompted by the injunction addressed to the Teacher.",
+    "morphology": "a_a_"
+  },
+  {
+    "index": 14875,
+    "sanskrit": "sa bhavān īdṛśam mitram manyate ca yathā bhavān",
+    "english": "Thou art even such a friend to this prince; and he also is a similar friend to thee.",
+    "morphology": "sa_tad_SNM bhavān_bhavat_SNM īdṛśam_īdṛśa_SANe mitram_mitra_SANe manyate_man_SPr3In"
+  },
+  {
+    "index": 14876,
+    "sanskrit": "āptvā taṃ kāmaṃ yasmai kāmāyainaṃ yuṅkte yajñāyajñiyaṃ stotramupākariṣyantsvargo vai loko yajñāyajñiyametasya vai gatyā enaṃ yuṅkte tadāptvā taṃ kāmaṃ yasmai kāmāyainaṃ yuṅkte //",
+    "english": "Having now obtained the wish for (the accomplishment of) which he yokes it (the altar), he unyokes it when about to bespeak the Yagñâyagñiya stotra ,--for the Yagñâyagñiya is the heavenly world, and it is for the attainment of that (world) that he yokes it: thus (he unyokes it) after obtaining the wish for which he yoked it.",
+    "morphology": "āptvā_āp_Co tam_tad_SAM kāmam_kāma_SAM yasmai_yad_SDM kāmāya_kāma_SDM enam_enad_SAM yuṅkte_yuj_SPr3In yajñāyajñiyam_yajñāyajñiya_SANe stotram_stotra_SANe upākariṣyan_upākṛ_SNPaFuM svargaḥ_svarga_SNM vai_vai_ lokaḥ_loka_SNM yajñā"
+  },
+  {
+    "index": 14877,
+    "sanskrit": "anyatra dattvā sarvasvaṃ sukṛtaṃ yatsamīritam | sahasrabhojanātkāśyāṃ tadbhūyādayutādhikam || 89 ||",
+    "english": "89. By feeding a thousand persons at Kāśī, let one get more than ten thousand times that merit which is spoken as obtained by making a gift of all that one possesses elsewhere.",
+    "morphology": "anyatra_anyatra_ dattvā_dā_Co sarva_sarva_Cp svam_sva_SANe su_su_ kṛtam_kṛ_SNPaNe yat_yad_SNNe samīritam_samīray_SNPaNe  / sahasra_sahasra_Cp bhojanāt_bhojana_SBNe kāśyām_kāśi_SLF tat_tad_SNNe bhūyāt_bhū_SPs3 ayuta_ayuta_Cp adhikam_adhika_"
+  },
+  {
+    "index": 14878,
+    "sanskrit": "sa tathā abhihataḥ rājā na acalat girirāj iva",
+    "english": "But struck thus, O king, he moved not, like a prince of mountains.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 14879,
+    "sanskrit": "iyamasmīti kalanādasadapyanyatāmalam / bhedādyasaṃbhavadidaṃ svayamutpādya bhāvitam //",
+    "english": "The thought that 'I am this', clothes the unreality with a gross form (as the thought of a devil gives the unreal phantom a foul figure);and though it is absurd to attribute differences to nullities, yet the mind makes them of itself and then believes its fictitious creatures as real ones.",
+    "morphology": "iyam_idam_SNF asmi_as_SPr1In iti_iti_ kalanāt_kalana_SBNe asat_asat_SNNe api_api_ anya_anya_Cp tā_tā_Cp malam_mala_SNNe  / bheda_bheda_Cp ādi_ādi_SNNe a_a_ __a_"
+  }
+]

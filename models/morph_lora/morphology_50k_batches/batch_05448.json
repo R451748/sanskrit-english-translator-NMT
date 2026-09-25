@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43576,
+    "sanskrit": "priya abhāvāt ca puruṣaḥ na eva prāpnoti śobhanam",
+    "english": "The man that hath not what is desirable soon becometh wretched.",
+    "morphology": "priya_priya_Cp abhāvāt_abhāva_SBM ca_ca_U"
+  },
+  {
+    "index": 43577,
+    "sanskrit": "jajñānaḥ somam sahase papātha pra te mātā mahimānam uvāca ā indra paprātha uru antarikṣam yudhā devebhyaḥ varivaḥ cakartha",
+    "english": "Thou, newly-born, for strength didst drink the Soma; the Mother told thee of thy future greatness. O Indra, thou hast filled mid-air's wide region, and given the Gods by battle room and freedom.",
+    "morphology": "jajñānaḥ_jan_SNPaPsM somam_soma_SAM sahase_sahas_SDNe papātha_pā_SPs2In pra_pra_U te_tvad_SG mātā_mātṛ_SNF mahimānam_mahiman_SAM uvāca_vac_SPs3In ā_ā_U indra_indra_SVM paprātha_prā_SPs2In uru_uru_SANe antarikṣam_antarikṣa_SANe yudhā_y"
+  },
+  {
+    "index": 43578,
+    "sanskrit": "pratiṣedhā hy ātmatuṣṭivyatirekeṇānyatra viṣaye vyavasthāpyante /",
+    "english": "What happens in this case is that the Prohibitions take effect in regard to all cases except the one that falls within tho purview of the said \"selfsatisfaction\".",
+    "morphology": "pratiṣedhāḥ_pratiṣedha_PNM hi_hi_ ātma_ātman_Cp tuṣṭi_tuṣṭi_Cp vyatirekeṇa_vyatireka_SIM anyatra_anyatra_"
+  },
+  {
+    "index": 43579,
+    "sanskrit": "atrāgatya prapaśyaṃti ye prayāgeśvaraṃ tataḥ | te kṛtārthā bhaviṣyaṃti sarvapātakavarjitāḥ || 74 || kulaṃ ca tāritaṃ teṣāṃ paitṛkaṃ mātṛkaṃ tathā | gaṃgāyāstriyugaṃ puṇyaṃ caturvargaphalapradam | jāyate nātra saṃdehaḥ prayāgeśvaradarśanāt || 75 ||",
+    "english": "Those who come here and see Prayāgeśvara will become contented and blessed, devoid of all sins. The family of their mothers and fathers will become redeemed by them. By visiting Prayāgeśvara, the benefit of the four aims of life will be acquired through the merit that is three times more than that of Gaṅgā.",
+    "morphology": "atra_atra_ āgatya_āgam_Co prapaśyaṃti_prapaś_PPr3In ye_yad_PNM prayāgeśvaram_prayāgeśvara_SANe tatas_tatas_  / te_tad_PNM kṛtārthāḥ_kṛtārtha_PNM bhaviṣyanti_bhū_PFu3In sarva_sarva_Cp pātaka_pātaka_Cp varjitāḥ_varjay_PNPaM  / kula"
+  },
+  {
+    "index": 43580,
+    "sanskrit": "na aham bhīṣayitum śakyaḥ vāc mātreṇa tu kevalam",
+    "english": "Thou shalt not succeed in terrifying me with thy words only.",
+    "morphology": "na_"
+  },
+  {
+    "index": 43581,
+    "sanskrit": "dhyānāntare vitarkaśca nāsti / śeṣaṃ tathaiva /",
+    "english": "Furthermore, vifarka is absent from the intermediate dhyāna.",
+    "morphology": "dhyāna_dhyāna_Cp antare_antara_SLNe vitarkaḥ_vitarka_SNM ca_ca_ na_na_ asti_as_SPr3In  / śeṣam_śeṣa_SNNe"
+  },
+  {
+    "index": 43582,
+    "sanskrit": "kathaṃ na sidhyati / yasmāt /",
+    "english": "How is it that it can't be demonstrated ?",
+    "morphology": "katham_katham_"
+  },
+  {
+    "index": 43583,
+    "sanskrit": "tasminneva girigrāme tasminnevālayāmbare / brāhmaṇaḥ sa vasiṣṭhākhya āsvādayati rājatām //",
+    "english": "They saw in it the hilly tract, where the Brahmana Vasishtha had his abode and his desire of royalty,",
+    "morphology": "tasmin_tad_SLM eva_eva_ giri_giri_Cp grāme_grāma_SLM tasmin_tad_SLNe eva_eva_ ālaya_ālaya_Cp ambare_ambara_SLNe  / brāhmaṇaḥ_brāhmaṇa_SNM sa_tad_SNM vasiṣṭha_vasiṣṭha_Cp ākhyaḥ_ākhyā_SNM āsvādayati_āsvāday_SPr3In rāja_rājan_C"
+  }
+]

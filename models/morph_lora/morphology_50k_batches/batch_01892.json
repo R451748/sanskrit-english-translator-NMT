@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15128,
+    "sanskrit": "indraḥ te soma sutasya peyāḥ kratve dakṣāya viśve ca devāḥ",
+    "english": "Let Indra drink, O Soma, of thy juice for wisdom, and all Deities for strength.",
+    "morphology": "indraḥ_indra_SNM te_tvad_SG soma_soma_SVM sutasya_su_SGPaPsM peyāḥ_pā_SPs3O kratve_kratu_SDM dakṣāya_dakṣa_SDM viśve_viśva_PNM ca_ca_U devāḥ_deva_PNM"
+  },
+  {
+    "index": 15129,
+    "sanskrit": "tasya ācāryasya putre patnyāṃ ca saṃsthitāyām ahorātram //",
+    "english": "On the death of the Teacher\" s son or wife, it lasts for one day and night.",
+    "morphology": "tasya_tad_SGM ācāryasya_ācārya_SGM putre_putra_SLM patnyām_patnī_SLF ca_ca_ saṃsthitāyām_saṃsthā_SLPaF ahar_ahar_Cp rātram_rātra_SAM  /"
+  },
+  {
+    "index": 15130,
+    "sanskrit": "parivittiḥ parivettā yayā ca parividyate | sarve te narakaṃ yāṃti dātṛyājakapaṃcamāḥ || 4 ||",
+    "english": "104. In such a case all the five, namely Parivitti, Parivettṛ, the bride acting as instrumental (in this sinful act), the person who gave her in marriage and the priest who presided over the rite shall go to hell.",
+    "morphology": "parivittiḥ_parivitti_SNM parivettā_parivettṛ_SNM yayā_yad_SIF ca_ca_ parividyate_parivid_SPr3InPv  / sarve_sarva_PNM te_tad_PNM narakam_naraka_SANe yāṃti_yā_PPr3In dātṛ_dātṛ_Cp yājaka_yājaka_Cp pañcamāḥ_pañcama_PNM  /"
+  },
+  {
+    "index": 15131,
+    "sanskrit": "tadaṃ satyaṃ na śabdasya bhedorthaguṇakāritaḥ / tena svarādibhedana vaktavyā bhinnarūpatā",
+    "english": "In connection with the abovementioned passage Agnirvrttrāṇi janghanat the Bhashya has said that this points to another form of the word Agni but this is scarcely correct as a difference in the property or action of the object denoted does not make any difference in the form of the word itself. Therefore the difference between the forms of Vedic and ordinary words must be held to be based upon the differences of accentuation, &c., as explained above, and not upon any differences in their significations.",
+    "morphology": "satyam_satya_SNNe na_na_ śabdasya_śabda_SGM  / tena_tad_SIM vaktavyā_vac_SNFGd bhinna_bhid_PaCp rūpa_rūpa_Cp tā_tā_SNF"
+  },
+  {
+    "index": 15132,
+    "sanskrit": "brahman abhyarcanīyaḥ asi śvetā gauḥ pīvarīkṛtā",
+    "english": "Thou deservest our worship, O Brahmana.",
+    "morphology": "brahman_brahman_SVM abhyarcanīyaḥ_abhyarc_SNMGd asi_as_SPr2In śvetā_śveta_SNF gauḥ_go_SNF"
+  },
+  {
+    "index": 15133,
+    "sanskrit": "tvam hi yajñaḥ akṣaraḥ sarvaḥ tvam dharmaḥ tvam prajāpatiḥ",
+    "english": "Thou art Righteousness. Thou art Prajapati. Thou art the goal of all creatures.",
+    "morphology": "tvam_tvad_SN hi_hi_U yajñaḥ_yajña_SNM akṣaraḥ_akṣara_SNM sarvaḥ_sarva_SNM tvam_tvad_SN dharmaḥ_dharma_SNM tvam_tvad_SN prajāpatiḥ_prajāpati_SNM"
+  },
+  {
+    "index": 15134,
+    "sanskrit": "tataś ca tadbhāvinī śabdārthapratipattiḥ sarvadā bhavet /",
+    "english": "Under the circumstances, the comprehension of the meaning of the -word should be there at all times.",
+    "morphology": "tatas_tatas_ ca_ca_ tad_tad_Cp bhāvinī_bhāvin_SNF śabda_śabda_Cp artha_artha_Cp pratipattiḥ_pratipatti_SNF sarvadā_sarvadā_ bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 15135,
+    "sanskrit": "etad eva jñānaṃ hītyādinā darśayati // syād etat bhāsamāno na lakṣyata ityetad asiddham /",
+    "english": "This same idea is further reiterated by the words ‘there is no cognition of it, etc. etc.’, (2707-2710)",
+    "morphology": "etat_etad_SNNe eva_eva_ jñānam_jñāna_SNNe hi_hi_ ityādinā_ityādi_SINe darśayati_darśay_SPr3In  // syāt_as_SPr3O etat_etad_SNNe bhāsamānaḥ_bhās_SNPaPrM na_na_ lakṣyate_lakṣay_SPr3InPv iti_iti_ etat_etad_SNNe asiddham_asiddha_SNNe  /"
+  }
+]

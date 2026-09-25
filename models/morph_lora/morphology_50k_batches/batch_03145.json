@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25152,
+    "sanskrit": "satyapūtaḥ //",
+    "english": "One purified by veracity;",
+    "morphology": "satya_satya_Cp pūtaḥ_SNPaM"
+  },
+  {
+    "index": 25153,
+    "sanskrit": "satyārthopāya-parokṣaṃ ceti |",
+    "english": "and a secret means to truth and welfare.",
+    "morphology": "satya_satya_Cp artha_artha_Cp upāya_upāya_Cp parokṣam_parokṣa_SNNe"
+  },
+  {
+    "index": 25154,
+    "sanskrit": "śīta uṣṇa toya āsava madya yūṣa phala amla dhānyāmla payaḥ rasāṇām |",
+    "english": "Cold water and warm water, Asava (wine), Madya (spirits), the soup of Mudga pulse etc., the juice of acid fruits, sour paddy gruel, milk and essence of meat are generally used as drinks after a full meal.",
+    "morphology": "śīta_śīta_Cp uṣṇa_uṣṇa_Cp toya_toya_NeCp āsava_āsava_MCp madya_madya_NeCp yūṣa_yūṣa_MCp phala_phala_NeCp amla_amla_NeCp dhānyāmla_dhānyāmla_NeCp payaḥ_payas_NeCp rasāṇām_rasa_PGM"
+  },
+  {
+    "index": 25155,
+    "sanskrit": "sakhāyañca sakhāyau ca sakhīn sakhyā gato dada /",
+    "english": "Sakhyā gataḥ gone with the friend. Dada sakhye give to the friend.",
+    "morphology": "sakhāyañca_sakhi_SAM ca_ca_ sakhāyau_sakhi_DuAM ca_ca_ sakhīn_sakhi_PAM sakhyāḥ_sakhi_PAM gataḥ_gam_SNPaM"
+  },
+  {
+    "index": 25156,
+    "sanskrit": "kiṃcāpatyotpattividheḥ kṛtavivāhasyānuṣṭeyatvād ṛtau ca tatsaṃbhavāt prāptam eva gamanam /",
+    "english": "Farther, the obeying of the injunction of begetting children is possible only for one who has married; and this begetting is possible only by approaching one\" s wife daring \"season;\" so that the act of approaching daring \"Beason\" is already rendered possible by all this.",
+    "morphology": "kiṃca_kiṃca_ apatya_apatya_Cp utpatti_utpatti_Cp vidheḥ_vidhi_SGM kṛta_kṛ_PaCp vivāhasya_vivāha_SGM anuṣṭeya_anuṣṭī_GdCp tvāt_tva_SBNe ṛtau_ṛtu_SLM ca_ca_ tad_tad_Cp saṃbhavāt_sambhava_SBM prāptam_prāp_SNPaNe eva_eva_ gamanam"
+  },
+  {
+    "index": 25157,
+    "sanskrit": "apare tu saṃskāravidhitvād anadhikāratām eva jyāyasīṃ manyante /",
+    "english": "Others, again, argue that since it is an Injunction of sanctification, it is better to take it as not related to any result at all.",
+    "morphology": "apare_apara_PNM tu_tu_ saṃskāra_saṃskāra_Cp vidhi_vidhi_Cp tvāt_tva_SBNe anadhikāra_anadhikāra_Cp tām_tā_SAF eva_eva_ jyāyasīm_jyāyas_SAF manyante_man_PPr3In  /"
+  },
+  {
+    "index": 25158,
+    "sanskrit": "evaṃ kṛte tatastasya yatpuṇyaṃ samudāhṛtam | tatte sarvaṃ pravakṣyāmi yathā devena bhāṣitam || 7 ||",
+    "english": "If this is done, the merit that is said to accrue to him I shall recount entirely to you, as has been stated by the Lord.",
+    "morphology": "evam_evam_ kṛte_kṛ_SLPaNe tatas_tatas_ tasya_tad_SGM yat_yad_SNNe puṇyam_puṇya_SNNe samudāhṛtam_samudāhṛ_SNPaNe  / tat_tad_SANe te_tvad_SD sarvam_sarva_SANe pravakṣyāmi_pravac_SFu1In yathā_yathā_ devena_deva_SIM bhāṣitam_bhāṣ_SNPaN"
+  },
+  {
+    "index": 25159,
+    "sanskrit": "athevaṃvādinastasya vākyamākṣiptavānaham / pṛṣṭavānvyādhagurutā kāsau me kathyatāmiti //",
+    "english": "As the sage was arguing in this manner, I interrupted him by another question; and asked him to tell me, how he came to be the preceptor of the huntsman.",
+    "morphology": "atha_atha_ ivaṃvādinaḥ_ivaṃvādin_SGM tasya_tad_SGM vākyam_vākya_SANe ākṣiptavān_ākṣip_SNPaM aham_mad_SN  / pṛṣṭavān_pracch_SNPaM vyādha_vyādha_Cp guru_guru_Cp tā_tā_SNF kā_ka_SNF asau_adas_SNF me_mad_SG kathyatām_kathay_SPr3Im"
+  }
+]

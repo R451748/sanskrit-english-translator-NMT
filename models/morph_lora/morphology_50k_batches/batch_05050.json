@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40392,
+    "sanskrit": "āyudha kṣayam āsādya praśāntim paramām gataḥ",
+    "english": "Vardhakshemi, O monarch, who was like the ocean at full tide, having had his weapons exhausted in battle, hath at last obtained undisturbed peace.",
+    "morphology": "āyudha_āyudha_NeCp kṣayam_kṣaya_SAM āsādya_āsāday_Co"
+  },
+  {
+    "index": 40393,
+    "sanskrit": "jṛmbhā aṅga udveṣṭana śvāsāḥ jñeyāḥ pattra viṣeṇa tu||",
+    "english": "A leaf-poison or poisonous leaf gives rise to yawning, difficult breathing and a twisting pain in the limbs.",
+    "morphology": "jṛmbhā_jṛmbhā_FCp aṅga_aṅga_NeCp udveṣṭana_udveṣṭana_NeCp śvāsāḥ_śvāsa_PNM jñeyāḥ_jñā_PNMGd pattra_pattra_MCp viṣā_viṣa_SINe"
+  },
+  {
+    "index": 40394,
+    "sanskrit": "tataḥ param anantyaṃ phalaṃ svargyaśabdaṃ śrūyate //",
+    "english": "Thereafter, the Vedas declare, they obtain an eternal reward designated by the term heaven.",
+    "morphology": "tatas_tatas_ param_param_ anantyam_anantya_SNNe phalam_phala_SNNe svargya_svargya_Cp śabdam_śabda_SNNe śrūyate_śru_SPr3InPv  /"
+  },
+  {
+    "index": 40395,
+    "sanskrit": "ekāṃśam-uttarāsaṃgaṃ kṛtvā, dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya,",
+    "english": "arranging his robe over one shoulder, placing his right kneecap on the ground,",
+    "morphology": "eka_eka_Cp aṃśam_aṃśa_SAM uttarāsaṃgam_uttarāsaṅga_SAM kṛtvā_kṛ_Co dakṣiṇam_dakṣiṇa_SANe jānu_jānu_Cp maṇḍalam_maṇḍala_SANe pṛthivyām_pṛthivī_SLF pratiṣṭhāpya_pratiṣṭhāpay_Co"
+  },
+  {
+    "index": 40396,
+    "sanskrit": "śaṃkha uvāca | yadyevaṃ cauryadoṣo'sti mama tāta mahattaraḥ | nigrahaṃ kuru me śīghraṃ yena na syāttapaḥkṣayaḥ || 64 ||",
+    "english": "Śaṅkha said: 64. If it is so, O dear one, I have incurred greater sin. Chastise me quickly, lest there should be loss of penance.",
+    "morphology": "śaṃkhaḥ_śaṃkha_SNM uvāca_vac_SPs3In  / yadi_yadi_ evam_evam_ caurya_caurya_Cp doṣaḥ_doṣa_SNM asti_as_SPr3In mama_mad_SG tāta_tāta_SVM mahattaraḥ_mahattara_SNM  / nigraham_nigraha_SAM kuru_kṛ_SPr2Im me_mad_SG śīghram_śīghram_ yena_y"
+  },
+  {
+    "index": 40397,
+    "sanskrit": "yena saṃjāyate putro dānavāṃtakaraḥ paraḥ | senānāthaśca yuṣmākaṃ durddharaḥ samare paraiḥ || 59 ||",
+    "english": "59. It is from that, that a great son who will destroy the Dānavas is to be born. He shall be the leader of your army. He will be irresistible in the battle by his enemies.",
+    "morphology": "yena_yad_SIM saṃjāyate_saṃjan_SPr3In putraḥ_putra_SNM dānava_dānava_Cp anta_anta_Cp karaḥ_kara_SNM paraḥ_para_SNM  / senā_senā_Cp nāthaḥ_nātha_SNM ca_ca_ yuṣmākam_tvad_PG durddharaḥ_durdhara_SNM samare_samara_SLNe paraiḥ_para_PIM "
+  },
+  {
+    "index": 40398,
+    "sanskrit": "purāṇajñasya yacchaṃti ye sūtravasanaṃ navam | bhogino jñānasaṃpannāste bhavaṃti bhavebhave || 47 ||",
+    "english": "47. Those who give to a man conversant with the Purāṇas new cotton clothes, become endowed with knowledge after enjoying all pleasures.",
+    "morphology": "purāṇa_purāṇa_Cp jñasya_jña_SGM yacchanti_yam_PPr3In ye_yad_PNM sūtra_sūtra_Cp vasanam_vasana_SANe navam_nava_SANe  / bhoginaḥ_bhogin_PNM jñāna_jñāna_Cp saṃpannāḥ_sampad_PNPaM te_tad_PNM bhavanti_bhū_PPr3In bhavebhave_bhavebhava_SLM "
+  },
+  {
+    "index": 40399,
+    "sanskrit": "|| nandīśvara uvāca | atheśvaraḥ padmayoneḥ śrutvā garvavatīṃ giram | cukopātīva ca tadā kurvanniva layammune ||",
+    "english": "44. O sage, on hearing the haughty words of the lotus-born Brahmā, Śiva became angry as if out for destruction.",
+    "morphology": "nandīśvaraḥ_nandīśvara_SNM uvāca_vac_SPs3In  / atha_atha_ īśvaraḥ_īśvara_SNM padmayoneḥ_padmayoni_SGM śrutvā_śru_Co garvavatīm_garvavat_SAF giram_gir_SAF  / cukopa_kup_SPs3In atīva_atīva_ ca_ca_ tadā_tadā_ kurvan_kṛ_SNPaPrM iva_iva"
+  }
+]

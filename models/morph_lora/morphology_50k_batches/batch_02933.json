@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23456,
+    "sanskrit": "rāgavān prakṛtim hi eti viraktaḥ jñānavān bhavet",
+    "english": "He who is unemancipated from attachments, encounters rebirth;",
+    "morphology": "rāgavān_rāgavat_SNM prakṛtim_prakṛti_SAF hi_hi_U eti_i_SPr3In viraktaḥ_virañj_SNPaPsM jñānavān_jñānavat_SNM bhavat_bhū_SPr3O"
+  },
+  {
+    "index": 23457,
+    "sanskrit": "kalpāntasthāyinī śuddhā dṛṣṭalokaparāvarā / iyaṃ tava tanurjātā jīvanmuktavilāsinī //",
+    "english": "Your body which is liberated in its life time, is to endure in its purity to the end of the kalpa, and will witness generations passing before it without any diminution of itself.",
+    "morphology": "kalpānta_kalpānta_Cp sthāyinī_sthāyin_SNF śuddhā_śudh_SNPaF dṛṣṭa_dṛś_PaCp loka_loka_Cp parāvarā_parāvara_SNF  / iyam_idam_SNF tava_tvad_SG tanuḥ_tanu_SNF jātā_jan_SNPaF jīvanmukta_jīvanmukta_Cp vilāsinī_vilāsin_SNF  /"
+  },
+  {
+    "index": 23458,
+    "sanskrit": "sattve 'pi vā nirīhatvāt sarvabhāvānāṃ naiva vyāpāraḥ siddhyet /",
+    "english": "Even if it existed, as all entities are without desire and effort, they could not have any activity.",
+    "morphology": "sattve_sattva_SLNe api_api_ vā_vā_ nirīha_nirīha_Cp tvāt_tva_SBNe sarva_sarva_Cp bhāvānām_bhāva_PGM na_na_ eva_eva_ vyāpāraḥ_vyāpāra_SNM siddhyet_sidh_SPr3O  /"
+  },
+  {
+    "index": 23459,
+    "sanskrit": "śākhinaḥ bahavaḥ ca api śākhayā abhihatāḥ tayā kāñcanaiḥ kusumaiḥ bhānti vidyutvantaḥ iva ambudāḥ",
+    "english": "And the falling bough struck down numerous trees which, with golden flowers amid dark foliage, shone there like clouds charged with lightning.",
+    "morphology": "śākhinaḥ_śākhin_PNM bahavaḥ_bahu_PNM ca_ca_U api_api_U śākhayā_śākhā_SIF abhihatāḥ_abhihan_PNPaPsM tayā_tad_SIF kāñcanaiḥ_kāñcana_PINe kusumaiḥ_kusuma_PINe bhānti_bhā_PPr3In vidyutvantaḥ_vidyutvat_PNM iva_iva_U ambudāḥ_ambu"
+  },
+  {
+    "index": 23460,
+    "sanskrit": "saupakāraṃ vyavahitaṃ guptam āyuḥkṣayād iti / vāsayed aripakṣīyam avaśīrṇakriyāvidhau //",
+    "english": "In restoring broken peace, a renegade or a person inclined towards the enemy should be kept at such a distance that till the Kautilyas Arthashastra close of his life, he may be useful to the State",
+    "morphology": "saupakāram_saupakāra_SANe vyavahitam_vyavadhā_SAPaNe guptam_gup_SAPaNe āyuḥ_āyus_Cp kṣayāt_kṣaya_SBM iti_iti_  / vāsayet_vāsay_SPr3O aripakṣīyam_aripakṣīya_SANe avaśīrṇa_avaśṛ_PaCp kriyā_kriyā_Cp vidhau_vidhi_SLM  /"
+  },
+  {
+    "index": 23461,
+    "sanskrit": "skanda uvāca | jyeṣṭheśvarasya parito liṃgānyanyāni yāni tu | tāni te kathayiṣyāmi śṛṇu vātāpitāpana || 1 ||",
+    "english": "Skanda said: 1. I shall narrate to you the details of the other Liṅgas around Jyeṣṭheśvara. Listen, O scorcher of Vātāpi.",
+    "morphology": "skandaḥ_skanda_SNM uvāca_vac_SPs3In  / jyeṣṭheśvarasya_jyeṣṭheśvara_SGM paritas_paritas_ liṃgāni_liṅga_PNNe anyāni_anya_PNNe yāni_yad_PNNe tu_tu_  / tāni_tad_PANe te_tvad_SD kathayiṣyāmi_kathay_SFu1In śṛṇu_śru_SPr2Im vātāpi_"
+  },
+  {
+    "index": 23462,
+    "sanskrit": "tila dānena vai tasmāt pitṛ pakṣaḥ pramodate",
+    "english": "Hence, gifts of sesame seeds always gladden the Pitris greatly.",
+    "morphology": "tila_tila_MCp dānena_dāna_SINe vai_vai_U tasmāt_tasmāt_U pitṛ_pitṛ_MCp pakṣaḥ_pakṣa_SNM"
+  },
+  {
+    "index": 23463,
+    "sanskrit": "śruteścaśrāmyatyeva vākśrāmyati cakṣur ityevamādi /",
+    "english": "this is what has been thus declared in Vedic texts ‘Speech is tired, Eye is tired’ etc, etc, Bṛhadā",
+    "morphology": "śruteḥ_śruti_SBF ca_ca_ śrāmyati_śram_SPr3In eva_eva_ vāc_vāc_SNF śrāmyati_śram_SPr3In cakṣuḥ_cakṣus_SNNe iti_iti_ evamādi_evamādi_SNNe  /"
+  }
+]

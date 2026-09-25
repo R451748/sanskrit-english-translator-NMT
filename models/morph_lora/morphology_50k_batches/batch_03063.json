@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24496,
+    "sanskrit": "prajā vivardhate rājan anantām ca aśnute śriyam",
+    "english": "One that bathes in Matri tirtha hath a large progeny and obtaineth, O king, great prosperity.",
+    "morphology": "prajā_prajā_SNF"
+  },
+  {
+    "index": 24497,
+    "sanskrit": "śrī śayyopakārikā ūcuḥ vyadho 'pi hatvā hi mṛgān smarati tvaram āturaḥ kaṭākṣaiḥ sva priyān hatvā nirmohī na smared aho",
+    "english": "The gopī couch decorators said: Killing a deer, a hunter is excited and remembers his prey. Kṛṣṇa is different. He killed us with sidelong glances, but now He is peaceful and does not remember us at all.",
+    "morphology": "śrī_śrī_FCp śayyopakārikā_śayyopakārikā_SNF ūcuḥ_vac_PPs3In vyadhaḥ_vyadha_SNM api_api_U hatvā_han_Co hi_hi_U mṛgān_mṛga_PAM smarati_smṛ_SPr3In tvaram_tvara_SAM āturaḥ_ātura_SNM kaṭākṣaiḥ_kaṭākṣa_PIM sva_sva_Cp priyā"
+  },
+  {
+    "index": 24498,
+    "sanskrit": "tāṃ jñātvā tapasā śuddhāṃ karmabhāvaiḥ parīkṣitaiḥ | tato divyavapurbhūtvā kare jagrāha pārvatīm || 14 ||",
+    "english": "14. Through the activities and mental feelings well-tested, he knew that she had been purified by means of austerities. He assumed the divine form and held Pārvatī by her hand.",
+    "morphology": "tām_tad_SAF jñātvā_jñā_Co tapasā_tapas_SINe śuddhām_śudh_SAPaF karma_karman_Cp bhāvaiḥ_bhāva_PIM parīkṣitaiḥ_parīkṣ_PIPaM  / tatas_tatas_ divya_divya_Cp vapūḥ_vapus_SNM bhūtvā_bhū_Co kare_kara_SLM jagrāha_grah_SPs3In pārvatīm"
+  },
+  {
+    "index": 24499,
+    "sanskrit": "pratisāraṇa gaṇḍūṣau dhūmaḥ saṃśodhanāni ca kapha ātmake sarvasare vidhim kuryāt kapha apaham pibet ativiṣām pāṭhām mustam ca suradāru ca",
+    "english": "Medicated gurgles (Gandusha), fumigation (Dhuma), Pratisarana (rubbings) and purifying (Shodhana) measures as well as the Kapha-subduing remedies should be employed in the Kaphaja type of the Sarva-sara-Mukha-roga, and the patient should be made to take one Dharana measure (Twenty-four Ratis) of powdered Ati-visha, Patha, Musta, Deva daru, Katuka and Kutaja seeds, with an adequate quantity of cow’s urine.",
+    "morphology": "pratisāraṇa_pratisāraṇa_NeCp gaṇḍūṣau_gaṇḍūṣa_DuNM dhūmaḥ_dhūma_SNM saṃśodhanāni_saṃśodhana_PNNe ca_ca_U kapha_kapha_MCp ātmake_ātmaka_SLM sarvasare_sarvasara_SLM vidhim_vidhi_SAM kuryāt_kṛ_SPr3O kapha_kapha_MCp apaham_a"
+  },
+  {
+    "index": 24500,
+    "sanskrit": "na asti satyāt paraḥ dharmaḥ na asti mātṛ samaḥ guruḥ",
+    "english": "There is no superior more worthy of reverence than the mother.",
+    "morphology": "na_na_U asti_as_SPr3In satyāt_satya_SBNe paraḥ_para_SNM dharmaḥ_dharma_SNM"
+  },
+  {
+    "index": 24501,
+    "sanskrit": "svāhā svadhā śacī ca eva svasti kurvantu te sadā",
+    "english": "Let Swaha, and Swadha, and Sachi, also, all do what is beneficial to thee.",
+    "morphology": "svāhā_svāhā_U"
+  },
+  {
+    "index": 24502,
+    "sanskrit": "anv asṛjyata vairājaṃ sāma śūdro manuṣyāṇām aśvaḥ paśūnām |",
+    "english": "After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Çudra, of cattle the horse.",
+    "morphology": "anu_anu_ asṛjyata_sṛj_S3ImInPv vairājam_vairāja_SANe sāma_sāman_SANe śūdraḥ_śūdra_SNM manuṣyāṇām_manuṣya_PGM aśvaḥ_aśva_SNM paśūnām_paśu_PGM "
+  },
+  {
+    "index": 24503,
+    "sanskrit": "sa bhogān vividhān bhuñjan ratnāni vividhāni ca kathitaḥ dhṛtarāṣṭrasya vivarṇaḥ hariṇaḥ kṛśaḥ",
+    "english": "And it was represented to Dhritarashtra that his son, while partaking of various objects of enjoyment and diverse precious things, was becoming meagre, wan, and pale.",
+    "morphology": "sa_tad_SNM bhogān_bhoga_PAM vividhān_vividha_PAM bhuñjan_bhuj_SNPaPrM ratnāni_ratna_PANe vividhāni_vividha_PANe ca_ca_U kathitaḥ_kathay_SNPaPsM dhṛtarāṣṭrasya_dhṛtarāṣṭra_SGM vivarṇaḥ_vivarṇa_SNM hariṇaḥ_hariṇa_SNM kṛśa"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2312,
+    "sanskrit": "siṃha lāṅgūlam ākāśe jvalantam iva parvatam",
+    "english": "And the standard that we behold, O king, of the wielder of Gandiva bore the device of lion's tail and looked like a blazing mountain in the welkin.",
+    "morphology": "siṃha_siṃha_SVM lāṅgūlam_lāṅgūla_SANe ākāśe_ākāśa_SLNe jvalantam_jval_SAPaPrM iva_iva_U parvatam_parvata_SAM"
+  },
+  {
+    "index": 2313,
+    "sanskrit": "tadanyottheti /",
+    "english": "The Author answers this argument in the following [see verse 645 next]",
+    "morphology": "__tad_U"
+  },
+  {
+    "index": 2314,
+    "sanskrit": "ye jātā nārcayaṃtyaddhā viṣṇuṃ nārāyaṇaṃ kule | nā'putrasya hi loko'sti sarvametajjanā viduḥ || 82 ||",
+    "english": "All people know that a man devoid of a son does not attain good world. There too, that progeny which is endowed with mercifulness is very rare.”",
+    "morphology": "ye_yad_PNM jātāḥ_jan_PNPaM na_na_ arcayanti_arcay_PPr3In addhā_addhā_ viṣṇum_viṣṇu_SAM nārāyaṇam_nārāyaṇa_SAM kule_kula_SLNe  / na_na_ a_a_ putrasya_putra_SGM hi_hi_ lokaḥ_loka_SNM asti_as_SPr3In sarvam_sarva_SANe etat_etad_SANe jan"
+  },
+  {
+    "index": 2315,
+    "sanskrit": "nikuñje koṭiśo gāvas tāsāṃ pālana tat parāḥ vaṃśī māyūra pakṣāòhyā upanandāś ca te smṛtāḥ",
+    "english": "Smṛti śāstra explains that the nine Nandas, wealthy in flutes and peacock feathers, are devoted to protecting the millions of cows in their forest grove.",
+    "morphology": "nikuñje_nikuñja_SLM koṭiśas_koṭiśas_ gāvaḥ_go_PNF tāsām_tad_PGF tad_tad_Cp parāḥ_para_PNM vaṃśī_vaṃśin_SNM"
+  },
+  {
+    "index": 2316,
+    "sanskrit": "tvaṃ ca soma no vaśo jīvātuṃ na marāmahe | priyastotro vanaspatiḥ |",
+    "english": "O do thou, O Soma, will life for us, That we may not die, Thou that lovest praise, lord of the forest.",
+    "morphology": "tvam_tvad_SN ca_ca_ soma_soma_SVM naḥ_mad_PA vaśaḥ_vaś_SPr2 jīvātum_jīvātu_SAF na_na_ marāmahe_mṛ_PPr1In  / priya_priya_Cp stotraḥ_stotra_SNM"
+  },
+  {
+    "index": 2317,
+    "sanskrit": "kas tal laṅghayituṃ śakto velām iva mahodadheḥ // sthitaḥ śakramahas tāta śrīmān girimahas tv ayam / tvatpraṇīto 'dya gopānāṃ gavāṃ hetoḥ pravartatām //",
+    "english": "As the great ocean cannot overleap its bank so who can disregard your proposal regarding the performance of a yajna in honor of the mountain ? Let now for the well-being of the kine and milkmen the Giri-yajana, instituted by thee, be undertaken by us in the place of the Indra-yajna.",
+    "morphology": "kaḥ_ka_SNM tat_tad_SANe laṅghayitum_laṅghay_In śaktaḥ_śak_SNPaM velām_velā_SAF iva_iva_ mahā_mahat_Cp udadheḥ_udadhi_SGM  // sthitaḥ_sthā_SNPaM śakra_śakra_Cp mahaḥ_maha_SNM tāta_tāta_SVM śrīmān_śrīmat_SNM giri_giri_Cp mahaḥ_"
+  },
+  {
+    "index": 2318,
+    "sanskrit": "tataḥ samabhavadyuddhaṃ devānāṃ dānavaiḥ saha | merupṛṣṭhe suvistīrṇe nityameva divāniśam || 51 ||",
+    "english": "51. Thereupon, there was a fight between Devas and Dānavas on the extensive highlands of Meru day and night.",
+    "morphology": "tatas_tatas_ samabhavat_sambhū_S3ImIn yuddham_yuddha_SNNe devānām_deva_PGM dānavaiḥ_dānava_PIM saha_saha_  / meru_meru_Cp pṛṣṭhe_pṛṣṭha_SLNe su_su_ vistīrṇe_vistṛ_SLPaNe nityam_nityam_ eva_eva_ divāniśam_divāniśam_"
+  },
+  {
+    "index": 2319,
+    "sanskrit": "kanakasyandasaṃdohasundarairaṅgapañjaraiḥ / svarge'psarombujinyāśu toṣitāḥ suraṣaṭpadāḥ //",
+    "english": "I had next been a fairy Apsara, with a form as bright as melted gold, and features as beautiful as those of the lotus and lily, in which the celestials like bees and butterflies, used to take delight.",
+    "morphology": "kanaka_kanaka_Cp syanda_syanda_Cp saṃdoha_saṃdoha_Cp sundaraiḥ_sundara_PINe aṅga_aṅga_Cp pañjaraiḥ_pañjara_PINe  / svarge_svarga_SLM apsaraḥ_apsaras_Cp aṅga_aṅga_Cp saṃdhyā_saṃdhyā_SNF saḥ_tad_SNM ḥ_tad_SNM ḥ_ḥ_SNM ḥ_ḥ"
+  }
+]

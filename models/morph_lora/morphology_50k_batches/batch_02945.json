@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23552,
+    "sanskrit": "yadi etat na rahasyam te vaktum arhasi ariṃdama",
+    "english": "Indeed, if it be not a secret, it behoveth thee, O chastiser of foes, to say it unto me.",
+    "morphology": "yadā_yadā_"
+  },
+  {
+    "index": 23553,
+    "sanskrit": "tṛṣitena kadā cit sa bhikṣitaś citrabhānunā /",
+    "english": "Once on a time Chitrabhānu, stricken with thirst, begged of him something.",
+    "morphology": "tṛṣitena_tṛṣita_SIM kadā_kadā_ cit_cit_ sa_tad_SNM bhikṣitaḥ_bhikṣ_SNPaM"
+  },
+  {
+    "index": 23554,
+    "sanskrit": "tataśca citrākāro'sau tāvānkaścit prasajyate | astu cet na jaḍe'nyonyaviruddhākārasaṃbhavaḥ|",
+    "english": "That possible agent must be an artist, without the involvement of whom, there is no possibility of the inanimate taking by itself shapes quite different from its original one.",
+    "morphology": "tatas_tatas_ ca_ca_ citra_citra_Cp ākāraḥ_ākāra_SNM asau_adas_SNM tāvān_tāvat_SNM kaścid_kaścit_SNM prasajyate_prasañj_SPr3InPv  / astu_as_SPr3Im ced_ced_ na_na_ jaḍe_jaḍa_SLNe"
+  },
+  {
+    "index": 23555,
+    "sanskrit": "sa tu krodha samāviṣṭaḥ bhīmasenaḥ mahā balaḥ madra īśvaram tribhiḥ bāṇaiḥ bhṛśam viddhvā mahā yaśāḥ",
+    "english": "Then that mighty car-warrior of the Pandavas, filled with wrath, that celebrated hero, deeply, pierced the ruler of the Madras with three arrows.",
+    "morphology": "sa_tad_SNM tu_tu_U krodha_krodha_MCp samāviṣṭaḥ_samāviś_SNPaPsM bhīmasenaḥ_bhīmasena_SNM mahā_mahat_Cp balaḥ_bala_SNM madra_madra_MCp īśvaram_īśvara_SAM tribhiḥ_tri_PIM bāṇaiḥ_bāṇa_PIM bhṛśam_bhṛśam_U viddhvā_vyadh_Co m"
+  },
+  {
+    "index": 23556,
+    "sanskrit": "dvayor api parasparasvabhāvavivekena pravibhaktatvāt /",
+    "english": "as both these having distinct characters are clearly distinguished from one another.",
+    "morphology": "dvayoḥ_DuGM api_api_ paraspara_paraspara_Cp svabhāva_svabhāva_Cp vivekena_viveka_SIM pravibhakta_PaCp tvāt_tva_SBNe "
+  },
+  {
+    "index": 23557,
+    "sanskrit": "dantināṃ daśalakṣāṇi rathānāṃ ca caturdaśa / triṃśallakṣāṇi cāśvānāṃ pattīnāṃ daśakoṭayaḥ // yāme yāme 'bhir akṣanti puraṃ vārakramādidam / sa ca praharavāro 'bdaisteṣāmāyāti saptabhiḥ // tac chrutvā so 'bravīdvidyuddhvajo dhigrājyamīdṛśam / rakṣyate yatkilānyeṣāṃ bāhubhir na svabāhunā // tatkṛtvāhaṃ tapastīvraṃ kariṣyāmi tathā yathā / bhujanirjitaśatrorme na syādeṣā viḍambanā // ity uktvaiva vayasyaṃ taṃ vārayantaṃ niṣidhya saḥ / vidyuddhvajo yayau pitroranuktvā tapase vanam //",
+    "english": "Ten hundred thousand elephants, and fourteen hundred thousand chariots, and thirty thousand horsemen, and a hundred millions of footmen guard the city in turn for one watch of the night, and the turn of guarding comes round for every division in seven years.” When Vidyuddhvaja heard this, he said: “Out on such a throne, that is guarded by the arms of others, and not by its own might! However, I will perform such severe asceticism as will enable me to conquer my enemy with my own arm, and put an end to all this insolence of his.” When Vidyuddhvaja had said this, he put aside that companion of his, who tried to prevent him, and without telling his parents went to the forest to perform penance.",
+    "morphology": "dantinām_dantin_PGM daśa_daśan_Cp lakṣāṇi_lakṣa_PNNe rathānām_ratha_PGM ca_ca_ caturdaśa_caturdaśan_SNNe  / triṃśat_triṃśat_Cp lakṣāṇi_lakṣa_PNNe ca_ca_ aśvānām_aśva_PGM pattīnām_patti_PGM daśa_daśan_Cp koṭayaḥ_koṭi"
+  },
+  {
+    "index": 23558,
+    "sanskrit": "tasya mātāha: “aparimāṇam putra dravyaṃ ghe |",
+    "english": "His mother said: “Son, there are immeasurable riches in the house.",
+    "morphology": "tasya_tad_SGM mātā_mātṛ_SNF āha_ah_SPs3In "
+  },
+  {
+    "index": 23559,
+    "sanskrit": "auduṃbareṇa daṃḍena saṃvṛto mṛgacarmaṇā | atīva tejasā yuktaḥ śuśubhe sadasi sthitaḥ || 91 ||",
+    "english": "91. He was clad in deerskin and he held an Uduṃbara, staff. In the middle of the Assembly he shone with excessive refulgence.",
+    "morphology": "auduṃbareṇa_audumbara_SIM daṃḍena_daṇḍa_SIM saṃvṛtaḥ_saṃvṛ_SNPaM mṛga_mṛga_Cp carmaṇā_carman_SINe  / atīva_atīva_ ā_ā_ aṇḍa_aṇḍa_SNF"
+  }
+]

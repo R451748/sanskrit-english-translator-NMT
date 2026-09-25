@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29456,
+    "sanskrit": "sarvānarthāśrayatvā'vabodho lābhasatkāraparijñānaṃ /",
+    "english": "Clear comprehension in regard to gain and honour is equivalent to the awareness that these are the basis of all misfortune.",
+    "morphology": "sarva_sarva_Cp anartha_anartha_Cp āśraya_āśraya_Cp tva_tva_Cp avabodhaḥ_avabodha_SNM lābha_lābha_Cp satkāra_satkāra_Cp parijñānam_parijñāna_SNNe  /"
+  },
+  {
+    "index": 29457,
+    "sanskrit": "madhyajyotissvarūpaṃ ca śivarūpaṃ tadadbhutam | parivārasamāyuktaṃ dṛṣṭvā cāpūjayatsa vai ||",
+    "english": "11. Seeing in its midst the wonderfully brilliant form of Śiva along with his attendants he worshipped him.",
+    "morphology": "madhyajyotiḥ_madhyajyotis_Cp svarūpam_svarūpa_SANe ca_ca_ śiva_śiva_Cp rūpam_rūpa_SANe tat_tad_SANe adbhutam_adbhuta_SANe  / parivāra_parivāra_Cp samāyuktam_samāyuj_SAPaNe dṛṣṭvā_dṛś_Co ca_ca_ apūjayat_pūjay_S3ImIn sa_tad_SNM vai_va"
+  },
+  {
+    "index": 29458,
+    "sanskrit": "sūta uvāca | jajñe dākṣāyaṇī brahmanvidagdhāvayavā yadā | vinā śaktyā maheśo'pi tatāpa paramaṃ tapaḥ || 19 ||",
+    "english": "19-21. O Brāhmaṇas, when Dākṣāyaṇī got her limbs (i.e. body) burnt in (the fire of) the Yajña, Maheśa was left without Śakti.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / jajñe_jan_SPs3In dākṣāyaṇī_dākṣāyaṇī_SNF brahman_brahman_SVM vidagdha_vidah_PaCp avayavā_avayava_SNF yadā_yadā_  / vinā_vinā_ śaktyā_śakti_SIF maheśaḥ_maheśa_SNM api_api_ tatāpa_tap_SPs3In"
+  },
+  {
+    "index": 29459,
+    "sanskrit": "grāhaḥ jagrāha balavān jaṅghānte kāla coditaḥ",
+    "english": "And when Drona had plunged into the stream, a strong alligator, sent as it were, by Death himself seized him by the thigh.",
+    "morphology": "grāhaḥ_grāha_SNM jagrāha_grah_SPs3In balavān_balavat_SNM jaṅghā_jaṅghā_Cp ante_anta_SLM kāla_kāla_MCp coditaḥ_coday_SNPaPsM"
+  },
+  {
+    "index": 29460,
+    "sanskrit": "sadyaśchinnaṃ mahāmeroḥ pakṣadvayamiva sphurat / kṣubdhamārutanirdhūtamiva kajjalaparvatam //",
+    "english": "Big elephants were falling in the field like coal-black rocks, hurled down by gusts of wind.",
+    "morphology": "sadyas_sadyas_ chinnam_chid_SNPaNe mahā_mahat_Cp meroḥ_meru_SGM pakṣa_pakṣa_Cp dvayam_dvaya_SNNe iva_iva_ sphurat_sphur_SNPaPrNe  / kṣubdha_kṣubh_PaCp māruta_māruta_Cp nirdhūtam_nirdhū_SNPaNe iva_iva_ kajjala_kajjala_Cp parvatam_parvata_SNNe"
+  },
+  {
+    "index": 29461,
+    "sanskrit": "sā mūlaprakṛtirmāyā triguṇā ca tridhā smṛtā | śivayā ca viparyastaṃ yayā tatamidaṃ jagat ||",
+    "english": "16. It is also called Mūlaprakṛti, Māyā and Triguṇā. It is threefold. The universe is hurled back by her and pervaded.",
+    "morphology": "sā_tad_SNF mūlaprakṛtiḥ_mūlaprakṛti_SNF māyā_māyā_SNF triguṇā_triguṇa_SNF ca_ca_ tridhā_tridhā_ smṛtā_smṛ_SNPaF  / śivayā_śiva_SIF ca_ca_ viparyastam_viparyasta_SNNe yayā_yad_SIF tatam_tan_SNPaNe idam_idam_SNNe jagat_jagant_SNN"
+  },
+  {
+    "index": 29462,
+    "sanskrit": "tasyaaraṇyam ācchādanaṃ vihitam /",
+    "english": "Clothes made of materials from the wild are prescribed for him.",
+    "morphology": "tasya_tad_SGM araṇyam_araṇya_SNNe ācchādanam_ācchādana_SNNe vihitam_vidhā_SNPaNe  /"
+  },
+  {
+    "index": 29463,
+    "sanskrit": "sūta uvāca | kā śaktirmama vaktavye jñāne martyasamudbhave | svayameva na yo vetti sa parasya vadetkatham || 49 ||",
+    "english": "Sūta said: 49. What power do I have in the matter of expounding human realizations! How can one who does not know himself explain it to others?",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / kā_ka_SNF śaktiḥ_śakti_SNF mama_mad_SG vaktavye_vac_SLNeGd jñāne_jñāna_SLNe martya_martya_Cp samudbhave_samudbhava_SLNe  / svayam_svayam_ eva_eva_ na_na_ yaḥ_yad_SNM vetti_vid_SPr3In sa_tad_SNM parasya_par"
+  }
+]

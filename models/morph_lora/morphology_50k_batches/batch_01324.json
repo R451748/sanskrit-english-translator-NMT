@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10584,
+    "sanskrit": "mā vade paruṣaṃ kaṃci vuttā paṭivadeyu taṃ |",
+    "english": "Do not speak anything harsh, spoken to they might answer back to you,",
+    "morphology": "mā_mā_ vade_vad_SPr1In paruṣa_paruṣa_SANe kaṃci_kaścit_SANe vuttā_vutta_SNF"
+  },
+  {
+    "index": 10585,
+    "sanskrit": "atikalyaśabdaś cāharmukhe vartate /",
+    "english": "The term \"atikalya\" denotes daybreak.",
+    "morphology": "ati_ati_ kalya_kalya_Cp śabdaḥ_śabda_SNM "
+  },
+  {
+    "index": 10586,
+    "sanskrit": "suvāsinīḥ kumārīś ca rogiṇo garbhiṇīḥ striyaḥ / atithibhyo 'nvag evaitān bhojayed avicarayan //",
+    "english": "Newly married girls, maidens, sick persons and pregnant women, these he should, without hesitation, feed immediately after the guests.",
+    "morphology": "suvāsinīḥ_suvāsinī_PAF kumārīḥ_kumārī_PAF ca_ca_ rogiṇaḥ_rogin_PAF garbhiṇīḥ_garbhiṇī_PAF striyaḥ_strī_PAF  / atithibhyaḥ_atithi_PDM anvak_anvañc_SANe ṛtvāḥ_ṛtvāḥ_PAF"
+  },
+  {
+    "index": 10587,
+    "sanskrit": "paramārthāmbudhau sphāre rāma sargataraṅgakāḥ / bhūyobhūyo'nuvartante ta evānye ca bhūriśaḥ //",
+    "english": "The Divinity like a sea shoots forth in the various waves of creation, which rise incessantly and plentifully one after the other.",
+    "morphology": "parama_parama_Cp artha_artha_Cp ambudhau_ambudhi_SLM sphāre_sphāra_SLM rāma_rāma_SVM sarga_sarga_Cp taraṅgakāḥ_taraṃgaka_PNM  / bhūyas_bhūyas_ bhūyas_bhūyas_ anuvartante_anuvṛt_PPr3In te_tad_PNM"
+  },
+  {
+    "index": 10588,
+    "sanskrit": "aindram asi |",
+    "english": "May they be dear delights.",
+    "morphology": "aindram_aindra_SNNe"
+  },
+  {
+    "index": 10589,
+    "sanskrit": "vedoktaṃ kārayetkarma pūrteṣṭaṃ vedatatparaḥ | paṃcāyatanapūjā ca satyavādo hyalolatā || 5 || vivekādiguṇairyuktaḥ sa śūdro yāti sadgatim | brahmacaryaṃ tapo nānyaddvādaśākṣaraciṃtanāt 1 || 6 ||",
+    "english": "5-6. A Śūdra interested in the Vedas should get the Pūrta and Iṣṭa rites performed (through others). That Śūdra should get the Pañcāyatana adoration also performed. He should be truthful in speech and he should not be greedy. He should be endowed with qualities of discrimination etc. He attains good goal. He need not have celibacy and austerity apart from meditation on the twelve-syllabled Mantra.",
+    "morphology": "veda_veda_Cp uktam_vac_SAPaNe kārayet_kāray_SPr3O karma_karman_SANe pūrteṣṭam_pūrteṣṭa_SANe veda_veda_Cp tatparaḥ_tatpara_SNM  / pañcāyatana_pañcāyatana_Cp pūjā_pūjā_SNF ca_ca_ satya_satya_Cp vādaḥ_vāda_SNM hi_hi_ a_a_ lola_lola_C"
+  },
+  {
+    "index": 10590,
+    "sanskrit": "tato dvāraapohamantreṇa dvārāṇy apohya praviśyatām iti brūyuḥ // antardhānamantreṇa jāgratām ārakṣiṇāṃ madhyena māṇavān atikrāmayeyuḥ // prasvāpanamantreṇa prasvāpayitvā rakṣiṇaḥ śayābhir māṇavaiḥ saṃcārayeyuḥ //",
+    "english": "Having opened the doors seemingly with the power of incantation, the youths may be asked to get in Having, in the midst of wakeful watchmen under concert, rendered the youths invisible with incantation, they may be asked to go into the interior Having caused the watchmen seemingly sleepy, the youths may, as ordered, move the beds of the watchmen with no hesitation",
+    "morphology": "tatas_tatas_ dvāra_dvāra_Cp apoha_apoha_Cp mantreṇa_mantra_SIM dvārāṇi_dvāra_PANe apohya_apoh_Co praviśyatām_praviś_SPr3ImPv iti_iti_ brūyuḥ_brū_PPr3O  // antardhāna_antardhāna_Cp mantreṇa_mantra_SIM jāgratām_jāgṛ_PGPaPrM ārakṣi"
+  },
+  {
+    "index": 10591,
+    "sanskrit": "sūta uvāca | ārsotpūrvaṃ munirnāmnā jābāliriti viśrutaḥ | kaumārabrahmacaryeṇa yena cīrṇaṃ tapaḥ sadā || 9 ||",
+    "english": "Sūta said: 9. Formerly there was a well-known sage named Jābāli. He performed penances always with celibacy, ever since his child-hood.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / ārsaḥ_ārsa_SNM pūrvam_pūrvam_ muniḥ_muni_SNM nāmnā_nāman_SINe jābāliḥ_jābāli_SNM iti_iti_ viśrutaḥ_viśru_SNPaM  / kaumāra_kaumāra_Cp brahmacaryeṇa_brahmacarya_SINe yaḥ_yad_SNM"
+  }
+]

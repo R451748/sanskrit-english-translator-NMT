@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23464,
+    "sanskrit": "yuvā nṛpasutaḥ so'yaṃ kadācinmṛgayāparaḥ | apaśyadekaṃ bhujagaṃ vyādhena dṛḍhasaṃyatam || 126 ||",
+    "english": "126. The youthful prince once went for hunting. He saw a certain serpent tightly bound by a hunter.",
+    "morphology": "yuvā_yuvan_SNM nṛpa_nṛpa_Cp sutaḥ_suta_SNM saḥ_tad_SNM ayam_idam_SNM kadācid_kadācid_ mṛgayā_mṛgayā_Cp paraḥ_para_SNM  / apaśyat_paś_S3ImIn ekam_eka_SAM bhujagam_bhujaga_SAM vyādhena_vyādha_SIM dṛḍha_dṛḍha_Cp saṃyatam_saṃ"
+  },
+  {
+    "index": 23465,
+    "sanskrit": "vidyā tasmin na vaptavyā śubham bījam iva ūṣare",
+    "english": "i.e., one should not care for the external.",
+    "morphology": "vidyā_vidyā_SNF tasmin_tad_SLM na_na_U vaptavyā_vap_SNFGd śubham_śubha_SNNe bījam_bīja_SNNe iva_iva_U"
+  },
+  {
+    "index": 23466,
+    "sanskrit": "ayaṃ so'hamidaṃ tanma iti majjati nātmavān / ayaṃ so'hamidaṃ tanma iti majjatyanātmavān //",
+    "english": "That this is I, and these things and those friends are mine; is the mistake of those that are devoid of their self-knowledge;",
+    "morphology": "ayam_idam_SNM saḥ_tad_SNM aham_mad_SN idam_idam_SNNe tat_tad_SNNe me_mad_SG iti_iti_ majjati_majj_SPr3In na_na_ ātmavān_ātmavat_SNM  / ayam_idam_SNM saḥ_tad_SNM aham_mad_SN idam_idam_SNNe tat_tad_SNNe me_mad_SG iti_iti_ majjati_majj_SPr3In anātmav"
+  },
+  {
+    "index": 23467,
+    "sanskrit": "tava ca eva hitam rājan pāṇḍavānām atho hitam",
+    "english": "If thou strivest for peace by restraining thy sons, it will be to thy profit, O king, as also to the benefit of the Pandavas.",
+    "morphology": "tava_tvad_SG ca_ca_U eva_eva_U hitam_hita_SNNe rājan_rājan_SVM pāṇḍavānām_pāṇḍava_PGM atho_atho_U hitam_hita_SNNe"
+  },
+  {
+    "index": 23468,
+    "sanskrit": "kumāro mātaraṃ prāha kupito 'līkalajjayā /",
+    "english": "Thereupon her son, the slayer of robbers, was about to imprecate a curse on her.",
+    "morphology": "kumāraḥ_kumāra_SNM mātaram_mātṛ_SAF prāha_prāh_SPs3In kupitaḥ_kup_SNPaM alīka_alīka_Cp lajjayā_lajjā_SIF "
+  },
+  {
+    "index": 23469,
+    "sanskrit": "yuvaṃ sindhūṃr abhiśaster avadyād agnī ṣomāv amuñcataṃ gṛbhītān |",
+    "english": "Ye freed the streams from the dread imprecation When they were held fast.",
+    "morphology": "yuvam_tvad_DuN sindhūṃr_sindhu_PAM abhiśasteḥ_abhiśasti_SBF avadyāt_avadya_SBNe agnī_agni_DuVM somau_soma_DuVM amuñcatam_muc_Du2ImIn gṛbhītān_grah_PAPaM"
+  },
+  {
+    "index": 23470,
+    "sanskrit": "svaṃ prāṇamanasī sāmyātkurvatī karma tiṣṭhataḥ / vaiṣamyādviṣamaṃ caikaṃ śānte śāntā suṣuptatā //",
+    "english": "The co-equal course of both, serves to the regular conduct of the functions of life (as in the waking state); but their unequal course, produces dissimilar effects (as that of dreaming when the mind alone is active; and the inactivity of both causes the inertness of the body and soul.",
+    "morphology": "svam_sva_SANe prāṇa_prāṇa_Cp manasī_manas_DuNNe sāmyāt_sāmya_SBNe kurvatī_kṛ_DuNPaPrNe karma_karman_SANe tiṣṭhataḥ_sthā_DuPr3In  / vaiṣamyāt_vaiṣamya_SBNe viṣamam_viṣama_SNNe ca_ca_ ekam_eka_SNNe śānte_śam_SLPaM śāntā_śa"
+  },
+  {
+    "index": 23471,
+    "sanskrit": "saḥ abhivādya gurūn sarvān taiḥ ca api pratinanditaḥ dharmarājam uvāca idam vratam ādiśyatām mama",
+    "english": "Bowing unto all the elders, and congratulated by everybody, Partha at last approached Yudhishthira, and addressing him, said, 'Give me leave, O lord, to observe the vow I took.",
+    "morphology": "saḥ_tad_SNM abhivādya_abhivāday_Co gurūn_guru_PAM sarvān_sarva_PAM taiḥ_tad_PIM ca_ca_U api_api_U pratinanditaḥ_pratinand_SNPaPsM dharmarājam_dharmarāja_SAM uvāca_vac_SPs3In idam_idam_SNNe vratam_vrata_SNNe ādiśyatām_ādiś_SPr3ImPv mama_ma"
+  }
+]

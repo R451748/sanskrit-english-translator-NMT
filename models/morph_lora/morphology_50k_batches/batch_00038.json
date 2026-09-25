@@ -1,0 +1,50 @@
+[
+  {
+    "index": 296,
+    "sanskrit": "svo 'ṣṭālambanam sa eva rūpadhātusteṣaṃ svaḥ /",
+    "english": "Eight have their own Dhātu for their object.",
+    "morphology": "svaḥ_sva_SNM aṣṭa_aṣṭan_Cp ālambanam_ālambana_SNNe saḥ_tad_SNM eva_eva_ rūpadhātuḥ_rūpadhātu_SNM teṣaḥ_tad_PGM svaḥ_sva_SNM  /"
+  },
+  {
+    "index": 297,
+    "sanskrit": "aṣṭaaṅgulāyāṃ trayo daśabhāgāḥ,",
+    "english": "when it is angulas, /0th part trayodasabhágah; when angulas, /th part;",
+    "morphology": "aṣṭa_aṣṭan_Cp aṅgulāyām_aṅgula_SLF"
+  },
+  {
+    "index": 298,
+    "sanskrit": "māse māse kuśāggreṇa bālo bhuñjeya bhojanaṃ |",
+    "english": "From month to month the fool may eat food with the tip of kusa grass,",
+    "morphology": "māse_māsa_SLM māse_māsa_SLM kuśa_kuśa_Cp aggreṇa_aggra_SINe bālaḥ_bāla_SNM"
+  },
+  {
+    "index": 299,
+    "sanskrit": "tameva vīṇayā gāyañchvetamuktamapaśyata | prāgvatsvāgre calantaṃ tamanvagacchad dvijarṣabha || 69 ||",
+    "english": "69. While singing with the lute, he saw the Śveta-Mukta (the liberated soul from Śveta-Dvīpa, his guide) going in front of him as before, and he (Nārada) followed him, O eminent Brāhmaṇa.",
+    "morphology": "tam_tad_SAM eva_eva_ vīṇayā_vīṇā_SIF gāyan_gā_SNPaPrM śvetam_śveta_SAM uktam_vac_SAPaM apaśyata_paś_S3ImIn  / prāgvat_prāgvat_ sva_sva_Cp agre_agra_SLNe calantam_cal_SAPaPrM tam_tad_SAM anvagacchat_anugam_S3ImIn dvijarṣabhaiḥ_dvijarṣa"
+  },
+  {
+    "index": 300,
+    "sanskrit": "athābravīttato brahmā agniṃ taṃ tu yugakṣaye | spṛśandakṣiṇavāmābhyāṃ sāṃtvayanniva taṃ girā || 92 ||",
+    "english": "92. Thereafter at the end of the Yuga, Brahmā said to that Agni touching him with both the right and left (hands) as though consoling him:",
+    "morphology": "atha_atha_ abravīt_brū_S3ImIn tatas_tatas_ brahmā_brahman_SNM agnim_agni_SAM tam_tad_SAM tu_tu_ yuga_yuga_Cp kṣaye_kṣaya_SLM  / spṛśan_spṛś_SNPaPrM dakṣiṇa_dakṣiṇa_Cp vāmābhyām_vāma_DuIM sāṃtvayan_sāṃtvay_SNPaPrM iva_iva_ tam"
+  },
+  {
+    "index": 301,
+    "sanskrit": "api ca apihitaḥ śvabhre kṛta vidyaḥ prakāśate",
+    "english": "The man, however, of real merit and learning obtains celebrity even if he be concealed in a pit.",
+    "morphology": "api_api_U ca_ca_U apihitaḥ_apidhā_SNPaPsM"
+  },
+  {
+    "index": 302,
+    "sanskrit": "pāṇḍavāḥ ca api govindam puraskṛtya hata dviṣaḥ kṛṣṇadvaipāyanam ca eva nāradam ca mahā munim droṇaputrasya sahajam maṇim ādāya sa tvarāḥ",
+    "english": "The Pandavas who had killed and chastised all their foes, placed Govinda and the island-born Krishna and the great ascetic Narada at their head, and taking the gem that was born with Ashvatthama, quickly came back to the intelligent Draupadi who was sitting in observance of the praya vow.",
+    "morphology": "pāṇḍavāḥ_pāṇḍava_PNM ca_ca_U api_api_U govindam_govinda_SAM puraskṛtya_puraskṛ_Co hata_han_PaPsCp dviṣaḥ_dviṣ_PNM kṛṣṇadvaipāyanam_kṛṣṇadvaipāyana_SAM ca_ca_U eva_eva_U nāradam_nārada_SAM ca_ca_U mahā_mahat_Cp munim_"
+  },
+  {
+    "index": 303,
+    "sanskrit": "kāyaḥ sugandhatoyādyairyatnenāpi susaṃskṛtaḥ | na jahāti svakaṃ bhāvaṃ śvapucchamiva nāmitam || 56 ||",
+    "english": "56. Even after it is scrupulously and with great effort purified with scented water and other things the physical body does not cast off its intrinsic (odorous) nature like the tail of a dog (which does not become straight even if it) is twisted and turned.",
+    "morphology": "kāyaḥ_kāya_SNM su_su_ gandha_gandha_Cp toya_toya_Cp ādyaiḥ_ādya_PINe yatnena_yatna_SIM api_api_ su_su_ saṃskṛtaḥ_saṃskṛ_SNPaM  / na_na_ jahāti_hā_SPr3In svakam_svaka_SAM bhāvam_bhāva_SAM śva_śvan_Cp puccham_puccha_SNNe iva_iva_ nām"
+  }
+]

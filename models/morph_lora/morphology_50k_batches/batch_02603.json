@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20816,
+    "sanskrit": "sarito nadyaḥ /",
+    "english": "\"Rivers\" streams.",
+    "morphology": "saritaḥ_sarit_PNF nadyaḥ_nadī_PNF "
+  },
+  {
+    "index": 20817,
+    "sanskrit": "bhartavyā eva yasmācca tasmādbhāryeti sā smṛtā | sā eva gṛhamuktaṃ ca gṛhīṇī sā tataḥ smṛtā || 8 ||",
+    "english": "The wife is called Jāyā because the self is reborn in her.[2] 8. She is remembered as Bhāryā because she has to be sustained and nourished. She herself only is said to be Gṛha (‘House’); she alone is, therefore, remembered as Gṛhiṇī.",
+    "morphology": "bhartavyā_bhṛ_SNFGd eva_eva_ yasmāt_yasmāt_ ca_ca_ tasmāt_tasmāt_ bhāryā_bhāryā_SNF iti_iti_ sā_tad_SNF smṛtā_smṛ_SNPaF  / sā_tad_SNF eva_eva_ gṛham_gṛha_SNNe uktam_vac_SNPaNe ca_ca_ gṛhīṇī_gṛhīṇī_SNF sā_tad_SNF tatas_tat"
+  },
+  {
+    "index": 20818,
+    "sanskrit": "prajāpatirvā devānāṃ kutsasya tisṛṇām punaḥ //",
+    "english": "For the three hymns commencing with ‘devānāṃ kutsasya”, Prajāpati is the sage.",
+    "morphology": "prajāpatiḥ_prajāpati_SNM vā_vā_ devānām_deva_PGM kutsasya_kutsa_SGM tisṛṇām_tri_PGF punar_punar_  /"
+  },
+  {
+    "index": 20819,
+    "sanskrit": "svalakṣaṇasvabhāvā svālakṣaṇyā /",
+    "english": "The specific nature of each, means ‘of the nature of its own characteristics’.",
+    "morphology": "sva_sva_Cp lakṣaṇa_lakṣaṇa_Cp svabhāvā_svabhāva_SNF svālakṣaṇyā_svālakṣaṇya_SNF  /"
+  },
+  {
+    "index": 20820,
+    "sanskrit": "tatsasktā tena saṃmantrya bhartus tasya vadhaiṣiṇī / yuktyā cakāra sānyedyurmāndyaṃ duścāriṇī mṛṣā //",
+    "english": "And determining to kill her husband, the wicked woman devised a plot for doing so in concert with that mutilated man, and she pretended to be ill.",
+    "morphology": "tat_tad_SANe sasktā_saṃskṛ_SNPaF tena_tad_SIM saṃmantrya_sammantray_Co bhartuḥ_bhartṛ_SGM tasya_tad_SGM vadha_vadha_Cp eṣiṇī_eṣin_SNF  / yuktyā_yukti_SIF cakāra_kṛ_SPs3In sā_tad_SNF anyedyus_anyedyus_ māndyam_māndya_SANe duścāri"
+  },
+  {
+    "index": 20821,
+    "sanskrit": "yadeva taccidākāśaṃ tadeva mananaṃ smṛtam / yadeva ca cidākāśaṃ tadeva paramaṃ padam //",
+    "english": "The mind is the vacuous sphere of the intellect, and the infinite sphere of the intellect, is the seat of the Supreme.",
+    "morphology": "yat_yad_SNNe eva_eva_ tat_tad_SNNe cit_cit_Cp ākāśam_ākāśa_SNNe tat_tad_SNNe eva_eva_ mananam_manana_SNNe smṛtam_smṛ_SNPaNe  / yat_yad_SNNe eva_eva_ ca_ca_ cit_cit_Cp ākāśam_ākāśa_SNNe tat_tad_SNNe eva_eva_ paramam_parama_SNNe padam_pada_SN"
+  },
+  {
+    "index": 20822,
+    "sanskrit": "evaṃ saṃciṃtya manasā tāvubhau pratyabhāṣata | gamyatāṃ svagṛhaṃ kṛtvā tapasaḥ saṃnivartanam || 58 ||",
+    "english": "58. After thinking thus in his mind he spoke to them both: “Desist from the performance of the penance and come home.”",
+    "morphology": "evam_evam_ saṃciṃtya_saṃcintay_Co manasā_manas_SINe tau_tad_DuAM ubhau_ubh_DuAM pratyabhāṣata_pratibhāṣ_S3ImIn  / gamyatām_gam_SPr3ImPv sva_sva_Cp gṛham_gṛha_SANe kṛtvā_kṛ_Co tapasaḥ_tapas_SGNe saṃnivartanam_saṃnivartana_SANe  "
+  },
+  {
+    "index": 20823,
+    "sanskrit": "catasraḥ pratipadaḥ / asti pratipadduḥkhā dhandhābhijñā /",
+    "english": "There are four routes: routes difficult for slow and quick intelligences, and routes easy for slow and quick intelligences.",
+    "morphology": "catasraḥ_catur_PNF pratipadaḥ_pratipad_PNF  / asti_as_SPr3In pratipad_pratipad_Cp duḥkhā_duḥkha_SNF dhandha_dhandha_Cp abhijñā_abhijñā_SNF  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39696,
+    "sanskrit": "pravṛttasya hi dharmasya buddhyā yaḥ smarate gatim",
+    "english": "I respect and worship that person who, aided by his understanding, watches the course of the duties performed by men.",
+    "morphology": "pravṛttasya_pravṛt_SGPaM hi_hi_ dharmasya_dharma_SGM buddhyā_buddhi_SIF yaḥ_yad_SNM smarate_smṛ_SPr3In gatim_gati_SAF"
+  },
+  {
+    "index": 39697,
+    "sanskrit": "sarvasvaṃ dvijamukhyebhyo dattvā dhyātvā sadāśivam | tamagniṃ triḥ parikramya praveśābhimukhī hyabhūt ||",
+    "english": "50. She gifted away her property to leading brahmins. She meditated on Sadāśiva. She circumambulated the fire thrice and stood ready to enter it.",
+    "morphology": "sarva_sarva_Cp svam_sva_SANe dvijamukhyebhyaḥ_dvijamukhya_PDM dattvā_dā_Co dhyātvā_dhyā_Co sadāśivam_sadāśiva_SAM  / tam_tad_SAM agnim_agni_SAM tris_tris_ parikramya_parikram_Co praveśa_praveśa_Cp abhimukhī_abhimukha_SNF"
+  },
+  {
+    "index": 39698,
+    "sanskrit": "vaikartanam yodhayitum vṛṇomi",
+    "english": "Strive thou well, for I would approach this crowd of Kuru lions.",
+    "morphology": "vai_vai_U"
+  },
+  {
+    "index": 39699,
+    "sanskrit": "sainyāni aghaṭayat yāni droṇaḥ tu rathinām varaḥ",
+    "english": "Drona, that foremost of car-warriors, repeatedly united his troops.",
+    "morphology": "sainyāni_sainya_PANe aghaṭayat_ghaṭay_SPs3In yāni_yad_PANe"
+  },
+  {
+    "index": 39700,
+    "sanskrit": "anyatra nirodhajñānāt /",
+    "english": "If one understands “the Path with its result,” this power then includes the knowledge of extinction; but if one understands “the Path without its result,” then this power is made up of nine knowledges.",
+    "morphology": "anyatra_"
+  },
+  {
+    "index": 39701,
+    "sanskrit": "padepade yajñaphalamiti me śaṃkaro'bravīt | ṣaṣṭikoṭi sahasrāṇi ṣaṣṭikoṭiśatāni ca || 33 || pūjitāni bhavaṃtyatra yātreśvarasamarcanāt | ya evaṃ kurute yātrāṃ śivadhyānaparāyaṇaḥ || 34 ||",
+    "english": "33-35. Śaṅkara has told me that at every step (in the Yātrā) he gets the benefit of a Yajña. By the worship of Yātreśvara here, it is as though sixty thousand crores and sixty hundred crores of deities have been worshipped.",
+    "morphology": "pade_pada_SLNe pade_pada_SLNe yajña_yajña_Cp phalam_phala_SNNe iti_iti_ me_mad_SG śaṃkaraḥ_śaṃkara_SNM abravīt_brū_S3ImIn  / sahasrāṇi_sahasra_PNNe ṣaṣṭi_ṣaṣṭi_Cp koṭi_koṭi_Cp śatāni_śata_PNNe ca_ca_  / pūjitāni_pūjay_P"
+  },
+  {
+    "index": 39702,
+    "sanskrit": "tato jagrāha vidhivat tasyā jīmūtavāhanaḥ / pāṇiṃ malayavatyāḥ sa siddharājapuraskṛtaḥ //",
+    "english": "Then Jīmūtavāhana, honoured by the King of the Siddhas, received according to usage the hand of Malayavatī.",
+    "morphology": "tatas_tatas_ jagrāha_grah_SPs3In vidhivat_vidhivat_ tasyāḥ_tad_SGF jīmūtavāhanaḥ_jīmūtavāhana_SNM  / pāṇim_pāṇi_SAM malayavatyāḥ_malayavatī_SGF saḥ_tad_SNM siddha_siddha_Cp rāja_rājan_Cp puraskṛtaḥ_puraskṛ_SNPaM  /"
+  },
+  {
+    "index": 39703,
+    "sanskrit": "dīpaṃ hi paramaṃ śaṃbho ghṛtaprajvalitaṃ mayā | dattaṃ gṛhāṇa deveśa mama jñānaprado bhava || 130 ||",
+    "english": "(Mantra while offering a lamp:) 130. “O Śaṃbhu, an excellent lamp[7] kindled with ghee has. been offered by me. Accept it, O Lord of Devas. Be the bestower of knowledge on me.” (Mantra while offering incense:)",
+    "morphology": "dīpam_dīpa_SAM hi_hi_ paramam_parama_SAM śaṃbho_śambhu_SVM ghṛta_ghṛta_Cp prajvalitam_prajval_SAPaM mayā_mad_SI  / dattam_dā_SAPaM gṛhāṇa_grah_SPr2Im deveśa_deveśa_SVM mama_mad_SG jñāna_jñāna_Cp pradaḥ_prada_SNM bhava_bhū_SPr2Im"
+  }
+]

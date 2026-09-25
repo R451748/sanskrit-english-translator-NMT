@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10008,
+    "sanskrit": "{1} cakṣur-āyatanaṃ,",
+    "english": "{1} The eye sense-sphere,",
+    "morphology": "ḥ"
+  },
+  {
+    "index": 10009,
+    "sanskrit": "uttaram nihatam dṛṣṭvā vairāṭiḥ bhrātaram śubham kṛtavarmaṇā ca sahitam dṛṣṭvā śalyam avasthitam śvetaḥ krodhāt prajajvāla haviṣā havyavāṭ iva",
+    "english": "And beholding his brother Uttara slain and seeing Salya staying with Kritavarman, Virata's son Sweta blazed up in wrath, like fire (blazing up) with clarified butter.",
+    "morphology": "uttaram_uttara_SAM nihatam_nihan_SAPaPsM dṛṣṭvā_dṛś_Co vairāṭiḥ_vairāṭi_SNM bhrātaram_bhrātṛ_SAM śubham_śubha_SAM kṛtavarmaṇā_kṛtavarman_SIM ca_ca_U sahitam_sahita_SAM dṛṣṭvā_dṛś_Co śalyam_śalya_SAM avasthitam_ava"
+  },
+  {
+    "index": 10010,
+    "sanskrit": "makhāya tveti eṣa vai makho ya eṣa tapatyeṣa u pravargyastadetamevaitatprīṇāti tasmādāha makhāya tveti //",
+    "english": "'For Makha thee!'--Makha, doubtless, is he who shines yonder, and the Pravargya also is that one: it is him he thus gratifies, and therefore he says, 'For Makha thee.'",
+    "morphology": "makhāya_makha_SDM tvā_tvad_SA iti_iti_ eṣa_etad_SNM vai_vai_ makhaḥ_makha_SNM yaḥ_yad_SNM eṣa_etad_SNM tapati_tap_SPr3In eṣaḥ_etad_SNM u_u_ pravargyaḥ_pravargya_SNM tat_tad_SANe etam_etad_SAM eva_eva_ etat_etad_SANe prīṇāti_prī_SPr3In "
+  },
+  {
+    "index": 10011,
+    "sanskrit": "devayānyāḥ bhujiṣyā asmi vaśyā ca tava bhārgavī",
+    "english": "Thou art Devayani's master and lord.",
+    "morphology": "devayānyāḥ_devayānī_SGF bhujiṣyā_bhujiṣyā_SNF asmi_as_SPr1In vaśyā_vaśya_SNF ca_ca_U"
+  },
+  {
+    "index": 10012,
+    "sanskrit": "saṃprāpa tac ca sauvarṇaprāṃśuprākārasundaram / sumerum iva kailāsaṃ sabhājayitumāgatam // viveśa cātigambhīramacyutaśrīvirājitam / anantaratnanilayaṃ nistoyam iva sāgaram //",
+    "english": "And he reached that city, which was adorned with lofty ramparts of gold, and looked like Mount Sumeru come to adore Kailāsa, and, entering it, found that it resembled the sea in all but the presence of water, being very deep, characterised by unfailing prosperity,[1] and an inexhaustible mine of jewels.",
+    "morphology": "saṃprāpa_samprāp_SPs3In tat_tad_SANe ca_ca_ sauvarṇa_sauvarṇa_Cp prāṃśu_prāṃśu_Cp prākāra_prākāra_Cp sundaram_sundara_SANe  / sumerum_sumeru_SAM iva_iva_ kailāsam_kailāsa_SAM sabhājayitum_sabhājay_In āgatam_āgam_SAPaM  / viveśa_v"
+  },
+  {
+    "index": 10013,
+    "sanskrit": "eṣo ha devaḥ pradiśonu sarvāḥ pūrvo ha jātaḥ sa u garbhe aṃtaḥ | sa eva jātaḥ sa janiṣyamāṇaḥ pratyaṅjānāstiṣṭhati sarvatomukhaḥ || 61 ||",
+    "english": "61. This refulgent one penetrates all quarters and interior of quarters (sideways, above and below). He is without beginning or end. He is within the womb of the mother. He is the born. He will be the born. O people, he stands pervading every object with faces everywhere (like the Puruṣa of the Puruṣa Sūkta—Com.)",
+    "morphology": "eṣaḥ_etad_SNM ha_ha_ devaḥ_deva_SNM pradiśaḥ_pradiś_PAF nu_nu_ sarvāḥ_sarva_PAF pūrvaḥ_pūrva_SNM ha_ha_ jātaḥ_jan_SNPaM saḥ_tad_SNM u_u_ garbhe_garbha_SLM antar_antar_  / saḥ_tad_SNM eva_eva_ jātaḥ_jan_SNPaM sa_tad_SNM janiṣyam"
+  },
+  {
+    "index": 10014,
+    "sanskrit": "dantaśliṣṭeṣu dantavad anyatra jihvābhimarśanāt /",
+    "english": "Bits of food sticking between the teeth are like the teeth themselves, unless they are touched with the tongue or, according to some, until they get detached.",
+    "morphology": "danta_danta_Cp śliṣṭeṣu_śliṣ_PLPaNe danta_danta_Cp vat_vat_ anyatra_anyatra_"
+  },
+  {
+    "index": 10015,
+    "sanskrit": "tadalaṃ cintayā nidrāṃ bhajasva nacireṇa hi / rājaputrīmavāptāsi tvaṃ tāṃ karpūrikāṃ prabho // iti rājyadharāc chrutvā rātrau tatrārthavadvacaḥ / naravāhanadattaḥ sa bheje nidrāṃ sagomukhaḥ //",
+    "english": "So dismiss anxiety. Go to sleep. In a short time, my lord, you will obtain that Princess Karpūrikā.” When Naravāhanadatta heard that sound advice of Rājyadhara’s he and Gomukha went off to sleep.",
+    "morphology": "tat_tad_SNNe alam_alam_ cintayā_cintā_SIF nidrām_nidrā_SAF bhajasva_bhaj_SPr2Im nacireṇa_nacireṇa_ hi_hi_  / rāja_rājan_Cp putrīm_putrī_SAF avāptā_avāp_SNPaF asi_as_SPr2In tvam_tvad_SN tām_tad_SAF karpūrikām_karpūrikā_SAF prabho_prabhu_"
+  }
+]

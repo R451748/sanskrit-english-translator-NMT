@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6144,
+    "sanskrit": "ābaddhāni snehapāśairmṛtyuḥ sarvāṇi kṛṃtati | kiṃ na paśyasi mātastvaṃ sahasrasyāpi madhyataḥ || 108 || janāḥ śatāyuṣaḥ paṃcabhavaṃti na bhavanti vā | aśītikā vipadyante kecitsaptatikā narāḥ || 109 ||",
+    "english": "Don’t you see, mother, that among a thousand persons there may or may not be five centenarians?",
+    "morphology": "ābaddhāni_ābandh_PAPaNe sneha_sneha_Cp pāśaiḥ_pāśa_PIM mṛtyuḥ_mṛtyu_SNM sarvāṇi_sarva_PANe kṛṃtati_kṛt_SPr3In  / kim_kim_ na_na_ paśyasi_dṛś_SPr2In mātar_mātṛ_SVF tvam_tvad_SN sahasrasya_sahasra_SGNe api_api_ madhyatas_madhy"
+  },
+  {
+    "index": 6145,
+    "sanskrit": "indriya arthān an ādṛtya muktaḥ carasi sākṣi vat",
+    "english": "Disregarding all objects of the senses, thou movest like an emancipated self, only witnessing everything (but never taking part in anything).",
+    "morphology": "indriya_indriya_NeCp"
+  },
+  {
+    "index": 6146,
+    "sanskrit": "iti satyam bravīmi eṣa duryodhana na saṃśayaḥ",
+    "english": "I say this to thee, O Duryodhana.",
+    "morphology": "iti_iti_U"
+  },
+  {
+    "index": 6147,
+    "sanskrit": "vasavaḥ tvā dakṣiṇatas uttarāt marutaḥ tvā / ādityāḥ paścāt gopsyanti sā agniṣṭomam ati drava /",
+    "english": "The Vasus from the South will be thy guards, the Maruts from the North, Ādityas from the West; o'ertake and pass the Agnishtoma, thou!",
+    "morphology": "vasavaḥ_vasu_PNM tvā_tvad_SA dakṣiṇatas_dakṣiṇatas_U uttarāt_uttarāt_U marutaḥ_marut_PNM tvā_tvad_SA  / ādityāḥ_āditya_PNM paścāt_paścāt_U gopsyanti_gup_PFu3In sā_tad_SNF agniṣṭomam_agniṣṭoma_SAM ati_ati_U drava_dru_SPr2Im"
+  },
+  {
+    "index": 6148,
+    "sanskrit": "brahmaṇā saṃparityaktaḥ mṛtaḥ iti ucyate naraḥ",
+    "english": "Deserted by Brahman (for Jiva is Brahman), the person is said to be dead.",
+    "morphology": "brahmaṇā_brahman_SINe"
+  },
+  {
+    "index": 6149,
+    "sanskrit": "sa paśyati mahādevam devīm ca vara dām śubhām nāradam ca mahātmānam dṛṣṭvā devyāḥ samīpatas",
+    "english": "He beheld Mahadeva, and his divine spouse, viz., that giver of excellent boons (seated on the summit of Kailasa) with the highsouled Narada sitting beside the goddess.",
+    "morphology": "sa_tad_SNM paśyati_paś_SPr3In mahādevam_mahādeva_SAM devīm_devī_SAF ca_ca_U vara_vara_Cp dām_da_SAF śubhām_śubha_SAF nāradam_nārada_SAM ca_ca_U mahātmānam_mahātman_SAM dṛṣṭvā_dṛś_Co"
+  },
+  {
+    "index": 6150,
+    "sanskrit": "te tvā rakṣantu te tvā gopāyantu tebhyaḥ namaḥ tebhyaḥ svāhā //",
+    "english": "Let these be thy preservers, these thy keepers. All hail to these, to these be lowly worship!",
+    "morphology": "te_tad_PNM tvā_tvad_SA rakṣantu_rakṣ_PPr3Im te_tad_PNM tvā_tvad_SA gopāyantu_gopāy_PPr3Im tebhyaḥ_tad_PDM namaḥ_namas_SNNe tebhyaḥ_tad_PDM svāhā_svāhā_U  /"
+  },
+  {
+    "index": 6151,
+    "sanskrit": "tatas kṣaṇena tat bhīmaḥ nyahanat bharata ṛṣabha teṣu tu utsādyamāneṣu senā adhyakṣāḥ mahā balāḥ bhīmasenam samāsādya tatas ayudhyanta bhārata",
+    "english": "Within a very short time, Bhima slew them all, O bull of Bharata's race! Whilst they were being thus exterminated, many Kaurava leaders of great might, O Bharata, approached Bhima and began to fight with him.",
+    "morphology": "tatas_tatas_U kṣaṇena_kṣaṇa_SIM tat_tad_SANe bhīmaḥ_bhīma_SNM nyahanat_nihan_SPs3In bharata_bharata_MCp ṛṣabha_ṛṣabha_SVM teṣu_tad_PLM tu_tu_U utsādyamāneṣu_utsāday_PLPaPrMPv senā_senā_FCp adhyakṣāḥ_adhyakṣa_PNM mahā_ma"
+  }
+]

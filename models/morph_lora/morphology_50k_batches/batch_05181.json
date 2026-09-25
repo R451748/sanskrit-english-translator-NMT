@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41440,
+    "sanskrit": "sumukheśaṃ mahāliṃgaṃ sumukhākhyagaṇārcitam | paścimābhimukhaṃ liṃgaṃ dṛṣṭvā pāpaiḥ pramucyate || 25 ||",
+    "english": "25. By visiting Sumukheśa, a great Liṅga, that faces west and that was adored by the Gaṇa named Sumukha, one is rid of all sins.",
+    "morphology": "sumukheśam_sumukheśa_SANe mahā_mahat_Cp liṃgam_liṅga_SANe sumukha_sumukha_Cp ākhya_ākhya_Cp gaṇa_gaṇa_Cp arcitam_arcay_SAPaNe  / paścima_paścima_Cp abhimukham_abhimukha_SANe liṃgam_liṅga_SANe dṛṣṭvā_dṛś_Co pāpaiḥ_pāpa_PINe "
+  },
+  {
+    "index": 41441,
+    "sanskrit": "[śṛṇota grāvāṇaḥ ] iti prātaranuvākastutiḥ /",
+    "english": "The sentence 'Sṛṇota grāvāṇaḥ', is an eulogy of pratar anuvāka.",
+    "morphology": "__śru_PPr2Im __grāvan_PVM __iti_U __prātaranuvāka_U __stuti_U"
+  },
+  {
+    "index": 41442,
+    "sanskrit": "padbhyām utkramamāṇasya vaiṣṇavam sthānam ucyate",
+    "english": "If the Jiva-soul escapes through the feet, it is said that the man goes to the region of the Vishnu.",
+    "morphology": "padbhyām_pad_DuIM"
+  },
+  {
+    "index": 41443,
+    "sanskrit": "cetaḥparyayatāsthiteḥ / ātmetyetasya cittaparyāyatvavyavasthānāt / yathoktam; cittamevāhaṅkārasaṃśrayatvād ātmetyupacaryate; iti /",
+    "english": "The answer to this is as follows: This qualification of the Reason is one that is ‘not admitted “How?” Because the fact remains that the ‘Soul’ is the synonym of ‘Consciousness’, As it has been declared (by the other party) that “It is Consciousness itself which, as the substratum of I-consciousness, is spoken of as ‘Soul’”;",
+    "morphology": "cetaḥ_cetas_Cp paryaya_paryaya_Cp tā_tā_Cp sthiteḥ_sthiti_SBF  / ātmā_ātman_SNM iti_iti_ etasya_etad_SGM citta_citta_Cp paryāya_paryāya_Cp tva_tva_Cp vyavasthānāt_vyavasthāna_SBNe  / yathā_yathā_ uktam_vac_SNPaNe cittam_citta_SNNe eva_eva_ "
+  },
+  {
+    "index": 41444,
+    "sanskrit": "kārayet karaṇa prāptam karmāram karma kovidam || prayoga jñasya vaidyasya siddhiḥ bhavati nityaśas |",
+    "english": "A physician, skilled in the art of using surgical instruments, is always successful in his professional practice, and hence the practice of surgery should be commenced at the very outset of medical studies.",
+    "morphology": "kārayet_kāray_SPr3O karaṇa_karaṇa_NeCp prāptam_prāp_SAPaPsM karmāram_karmāra_SAM karma_karman_NeCp kovidam_kovida_SAM  /"
+  },
+  {
+    "index": 41445,
+    "sanskrit": "jñātvā māṃ dāsamavyagramājñāndehi maheśvara | tvatsevāṃ ca mahāprītyā kuryāmahamananyadhīḥ ||",
+    "english": "23. Knowing me to be your slave of great composure, O great lord, you can freely command me. With my mind not fascinated by other things I shall serve you with great pleasure.",
+    "morphology": "jñātvā_jñā_Co mām_mad_SA dāsam_dāsa_SAM avyagram_avyagra_SAM ājñān_ājñā_PAM dehi_dā_SPr2Im maheśvara_maheśvara_SVM  / tvad_tvad_Cp sevām_sevā_SAF ca_ca_ mahā_mahat_Cp prītyā_prīti_SIF kuryām_kṛ_SPr1O aham_mad_SN an_an_ anya_anya_C"
+  },
+  {
+    "index": 41446,
+    "sanskrit": "kathaṃ paryāyārtho vijñeyaḥ / ananyathāviparyāsatannirodhāryagocaraiḥ / hetutvāc cāryadharmāṇāṃ paryāyārtho yathākramaṃ //",
+    "english": "How are the meanings of these synonyms to be known ? \"From being non-otherness, non-reversal, cessation the scope of the exalted, and the cause of exalted events, the meanings of the synonyms are understood in order.\" I.",
+    "morphology": "katham_katham_ paryāya_paryāya_Cp arthaḥ_artha_SNM vijñeyaḥ_vijñā_SNMGd  / ananyathā_ananyathā_ viparyāsa_viparyāsa_Cp tad_tad_Cp nirodha_nirodha_Cp ārya_ārya_Cp gocaraiḥ_gocara_PIM  / hetu_hetu_Cp tvāt_tva_SBNe ca_ca_ ārya_ārya_Cp dhar"
+  },
+  {
+    "index": 41447,
+    "sanskrit": "ekānekāvabhāsena samastena tadātmanā / ātmanyevāntarātmāntaḥ kriyate kiṃ kimiṣyate //",
+    "english": "The one God that manifests himself as many, and that is all by himself, and that comprises the whole within himself, has nothing to want or seek, beside and apart from himself.",
+    "morphology": "eka_eka_Cp aneka_aneka_Cp avabhāsena_avabhāsa_SIM samastena_samasta_SIM tad_tad_Cp ātmanā_ātman_SIM  / ātmani_ātman_SLM eva_eva_ antarā_antarā_ ātma_ātman_Cp antar_antar_ kriyate_kṛ_SPr3InPv kim_ka_SNNe kim_ka_SNNe iṣyate_iṣ_SPr3InPv  /"
+  }
+]

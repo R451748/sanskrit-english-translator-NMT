@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12128,
+    "sanskrit": "kṛṣṇena satyabhāmāyai kārtikasya ca vaibhavaḥ | kathitastena saṃtuṣṭā satyā vratamathā'karot || 53 ||",
+    "english": "53. The greatness of Kārttika was recounted to Satyabhāmā by Kṛṣṇa. Delighted thereby, Satyā performed the Vrata.",
+    "morphology": "kṛṣṇena_kṛṣṇa_SIM satyabhāmāyai_satyabhāmā_SDF kārtikasya_kārttika_SGM ca_ca_ vaibhavaḥ_vaibhava_SNM  / kathitaḥ_kathay_SNPaM tena_tad_SIM saṃtuṣṭā_saṃtuṣ_SNPaF satyā_satyā_SNF vratam_vrata_SANe atha_atha_ akarot_kṛ_S3I"
+  },
+  {
+    "index": 12129,
+    "sanskrit": "etāsām vīrya saṃpannam putra pautram anantakam",
+    "english": "The sons and grandsons of these, gifted with great energy, are countless.",
+    "morphology": "etāsām_etad_PGF vīrya_vīrya_NeCp saṃpannam_sampad_SNPaPsNe"
+  },
+  {
+    "index": 12130,
+    "sanskrit": "patinā sāniruddhena mumude tu varāṅganā / kāntena saha saṃyuktā divyasraganulepanā /",
+    "english": "United with her husband, Aniruddha, the beautiful Ushā, adorned with celestial garlands and unguents, attained to an excess of joy –.",
+    "morphology": "patinā_pati_SIM sā_tad_SNF aniruddhena_aniruddha_SIM mumude_mud_SPs3In tu_tu_ vara_vara_Cp aṅganā_aṅganā_SNF  / kāntena_kānta_SIM saha_saha_ saṃyuktā_saṃyuj_SNPaF ā_ā_ "
+  },
+  {
+    "index": 12131,
+    "sanskrit": "tasya cakṣussamutthena vahninā pratibudhyataḥ | dagdhāḥ ṣaṣṭisahasrāṇi catvārastvavaśeṣitāḥ ||",
+    "english": "53. As he woke up from trance all but four of the sixty thousand sons were burnt by the fire from his eyes.",
+    "morphology": "tasya_tad_SGM cakṣuḥ_cakṣus_Cp samutthena_samuttha_SIM vahninā_vahni_SIM pratibudhyataḥ_pratibudh_SGPaPrM  / dagdhāḥ_dah_PNPaM ṣaṣṭi_ṣaṣṭi_Cp sahasrāṇi_sahasra_PNNe catvāraḥ_catur_PNM tu_tu_ avaśeṣitāḥ_avaśeṣay_PNPaM"
+  },
+  {
+    "index": 12132,
+    "sanskrit": "raudrāḥ hastavatā muktāḥ pramathnanti sma sāyakāḥ nānadyamānaḥ parjanyaḥ sa anilaḥ śuci saṃkṣaye aśma varṣam iva avarṣat pareṣām āvahat bhayam",
+    "english": "Showering his arrows as the roaring clouds at the close of summer, assisted by the wind, pour hail-stones, he inspired fear in the hearts of the foe.",
+    "morphology": "raudrāḥ_raudra_PNM hastavatā_hastavat_SIM muktāḥ_muc_PNPaPsM pramathnanti_pramath_PPr3In sma_sma_U sāyakāḥ_sāyaka_PNM nānadyamānaḥ_nānad_SNPaPrM parjanyaḥ_parjanya_SNM sa_sa_U anilaḥ_anila_SNM śuci_śuci_Cp saṃkṣaye_saṃkṣaya_S"
+  },
+  {
+    "index": 12133,
+    "sanskrit": "tatas samudraḥ svām velām atikrāmati bhārata parvatāḥ ca viśīryante mahī ca api viśīryate",
+    "english": "And then, O Bharata, the Ocean oversteps his continents, the mountains sunder in fragments, and the Earth sinks under the increasing flood.",
+    "morphology": "tatas_tatas_U samudraḥ_samudra_SNM svām_sva_SAF velām_velā_SAF atikrāmati_atikram_SPr3In bhārata_bhārata_SVM parvatāḥ_parvata_PNM ca_ca_U viśīryante_viśṛ_PPr3InPv mahī_mahī_SNF ca_ca_U api_api_U viśīryate_viśṛ_SPr3InPv"
+  },
+  {
+    "index": 12134,
+    "sanskrit": "saṃbodhitāḥ deva gaṇāḥ ca rājan gandharva yakṣa asura siddha saṃghāḥ samāgaman apsarasaḥ ca sarvāḥ",
+    "english": "Awakened by that light which reached the skies, the gods, the Gandharvas, the Yakshas, the Rishis and other crowned with (ascetic) success, and the Apsaras, all came there.",
+    "morphology": "saṃbodhitāḥ_sambodhay_PNPaPsM deva_deva_MCp gaṇāḥ_gaṇa_PNM ca_ca_U rājan_rājan_SVM gandharva_gandharva_MCp yakṣa_yakṣa_MCp asura_asura_MCp siddha_siddha_MCp saṃghāḥ_saṃgha_PNM samāgaman_samāgam_PPs3In apsarasaḥ_apsaras_PNF"
+  },
+  {
+    "index": 12135,
+    "sanskrit": "anāgastvam tathā bhrātuḥ pituḥ ca asmaraṇam vadhe",
+    "english": "He further prayed that his brother might be absolved from his sin; that his father might have no recollection of his having been slain;",
+    "morphology": "anāgastvam_anāgastva_SNNe"
+  }
+]

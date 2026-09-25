@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43232,
+    "sanskrit": "dattātmā tu svayaṃ datto garbhe vittaḥ sahoḍhajaḥ //",
+    "english": "A son offering himself as a sonto another is known as dattātman one that offers himself.",
+    "morphology": "datta_dā_PaCp ātmā_ātman_SNM tu_tu_ svayam_svayam_ dattaḥ_dā_SNPaM garbhe_garbha_SLM vittaḥ_vid_SNPaM sahoḍha_sahoḍha_Cp jaḥ_ja_SNM  /"
+  },
+  {
+    "index": 43233,
+    "sanskrit": "sa mardamānaḥ sva balam vāyuḥ vṛkṣān iva ojasā",
+    "english": "And it fled away with great swiftness, uttering frightful shrieks, and crushing the Pandava ranks like the tempest crushing trees with its violence.",
+    "morphology": "sa_tad_SNM mardamānaḥ_mṛd_SNPaPrM sva_sva_Cp balam_bala_SANe vāyuḥ_vāyu_SNM vṛkṣān_vṛkṣa_PAM iva_iva_U ojasā_ojas_SINe"
+  },
+  {
+    "index": 43234,
+    "sanskrit": "etac chaucaṃ gṛhasthānāṃ dviguṇaṃ brahmacāriṇām /",
+    "english": "Such is the purification for householders; double of this for students, treble for hermits, and quadruple for renunciates.",
+    "morphology": "etat_etad_SNNe śaucam_śauca_SNNe gṛhasthānām_gṛhastha_PGM dviguṇam_dviguṇa_SNNe brahmacāriṇām_brahmacārin_PGM  /"
+  },
+  {
+    "index": 43235,
+    "sanskrit": "traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā / svadhātukā tadāptānāṃ anāptānāṃ caturvidhā //",
+    "english": "There is threefold prāpti of the dharmas of the three periods. There is good prāpti, etc., of good dharmas, etc. The prāptis of the dharmas belonging to the spheres of existence are of their spheres. There is fourfold prāpti of the dharmas that do not belong to the spheres of existence.",
+    "morphology": "traiyadhvikānām_traiyadhvika_PGM trividhā_trividha_SNF śubha_śubha_Cp ādīnām_ādi_PGM śubha_śubha_Cp ādikā_ādika_SNF  / sva_sva_Cp dhātukā_dhātuka_SNF tad_tad_Cp āptānām_āpta_PGM anāptānām_anāpta_PGM caturvidhā_caturvidha_SNF  /"
+  },
+  {
+    "index": 43236,
+    "sanskrit": "graha nakṣatra somānām sūrya agnyoḥ ca sama tviṣam apaśyata tadā pārthaḥ jvalantam iva parvatam",
+    "english": "And soon Partha beheld a blazing mountain whose splendour equalled that of the planets, the constellations, or fire.",
+    "morphology": "graha_graha_MCp nakṣatra_nakṣatra_NeCp somānām_soma_PGM sūrya_sūrya_MCp agnyoḥ_agni_DuGM ca_ca_U sama_sama_Cp tviṣam_tviṣ_SAM apaśyata_paś_SPs3In tadā_tadā_U pārthaḥ_pārtha_SNM jvalantam_jval_SAPaPrM iva_iva_U parvatam_parvata_SAM"
+  },
+  {
+    "index": 43237,
+    "sanskrit": "mama abhiparituṣṭasya na asti loke su durlabham",
+    "english": "There is nothing in the three worlds that is superior to him.",
+    "morphology": "mama_mad_SG abhiparituṣṭasya_abhiparituṣ_SGPaPsM na_na_U asti_as_SPr3In loke_loka_SLM"
+  },
+  {
+    "index": 43238,
+    "sanskrit": "bhramatā khalu deveśi sacaṃdragrahatārakam | adhogati mahābhāge babhūvākṣiptamākulam || 144 ||",
+    "english": "144. O highly esteemed goddess of Devas, everything including Moon, the planets and the stars was pulled (by Sun) who was whirling. They began to fall down and become upset.",
+    "morphology": "bhramatā_bhram_SIPaPrM khalu_khalu_ deveśi_deveśī_SVF sa_sa_ candra_candra_Cp graha_graha_Cp tārakam_tārakā_SNNe  / adhogati_adhogati_SNNe mahābhāge_mahābhāga_SVF babhūva_bhū_SPs3In ākṣiptam_ākṣip_SNPaNe ākulam_ākula_SNNe  /"
+  },
+  {
+    "index": 43239,
+    "sanskrit": "eṣa hi saṃskṛtasya svabhāvo yadavaśyaṃ prabandhasyānyathātvaṃ bhavati /",
+    "english": "this is the nature of conditioned things: in the series which they form, the latter should differ from the former.",
+    "morphology": "eṣa_etad_SNM hi_hi_ saṃskṛtasya_saṃskṛta_SGNe svabhāvaḥ_svabhāva_SNM yat_yat_ avaśyam_avaśyam_ prabandhasya_prabandha_SGM anyathātvam_anyathātva_SNNe bhavati_bhū_SPr3In  /"
+  }
+]

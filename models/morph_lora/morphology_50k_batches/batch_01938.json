@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15496,
+    "sanskrit": "yo 'pi parair iṣṭāṃśa{sso '}pyatīndriyaḥ //",
+    "english": "The Time that is accepted by the other party is also something beyond the senses (1687)",
+    "morphology": "yaḥ_yad_SNM api_api_ paraiḥ_para_PIM iṣṭa_iṣ_PaCp aṃśaḥ_aṃśa_SNM saḥ_tad_SNM a_a_ api_api_ atīndriyaḥ_atīndriya_SNM  /"
+  },
+  {
+    "index": 15497,
+    "sanskrit": "praviśya antardadhe rājan sāgaram kunadī yathā",
+    "english": "And when absorbed in the troops of Yudhishthira it entirely disappeared, as doth a small river when it enters the sea.",
+    "morphology": "praviśya_praviś_Co antardadhe_antardhā_SPs3In ḥ"
+  },
+  {
+    "index": 15498,
+    "sanskrit": "caturasraṃ tripatrābjaṃ madhyakoṣṭhacatuṣṭaye // tryaśrordhe cārdhacandrastu dvipadaṃ dviguṇaṃ kramāt /",
+    "english": "A lotus having three petals occupying the central four chambers should be made within that square. A triangle in two squares in the middle and a half crescent in double that space should be made in order.",
+    "morphology": "catur_catur_Cp asram_asra_SNNe tri_tri_Cp pattra_pattra_Cp abjam_abja_SNNe madhya_madhya_Cp koṣṭha_koṣṭha_Cp catuṣṭaye_catuṣṭaya_SLNe  // tri_tri_Cp asra_asra_Cp ūrdhe_ūrdha_SLNe ca_ca_ ardhacandraḥ_ardhacandra_SNM tu_tu_ dvipadam_dvipa"
+  },
+  {
+    "index": 15499,
+    "sanskrit": "indrāgnī vai devānām ojobhṛtau |",
+    "english": "Indra and Agni are the supporters of force among the gods;",
+    "morphology": "indra_indra_Cp agnī_agni_DuNM "
+  },
+  {
+    "index": 15500,
+    "sanskrit": "śaka mayam dhūmam ārāt apaśyam viṣu vatā paraḥ enā avareṇa ukṣāṇam pr̥śnim apacanta vīrāḥ tāni dharmāṇi prathamāni āsan",
+    "english": "I saw from far away the smoke of fuel with spires that rose on high o'er that beneath it. The Mighty Men have dressed the spotted bullock. These were the customs in the days aforetime,",
+    "morphology": "śaka_śaka_MCp mayam_maya_SAM dhūmam_dhūma_SAM ārāt_ārāt_U apaśyam_paś_SPs1In viṣu_viṣu_Cp vatā_vat_SIM paraḥ_paras_U enā_idam_SIM avareṇa_avara_SIM ukṣāṇam_ukṣan_SAM pr̥śnim_prāśni_SAM apacanta_pac_PPs3In vīrāḥ_vīra_PNM "
+  },
+  {
+    "index": 15501,
+    "sanskrit": "tataḥ smṛtisamānārthā naṣṭā mūlaṃ kathaṃ śrutiḥ",
+    "english": "When, however, the indications of the Context are set aside, and the sentence under consideration is taken as pertaining to Man, then, inasmuch as this also would come to pertain to the time of the Upanayana and thus being exactly similar in charac ter to the Smrti rule, wherefore should not the Purvapakshi have admitted the fact of the Smrti being based upon the sentence in ques tion? Why too would it be necessary for the Smrti rule to have mentioned the DurçaPūrṇamāsa when both the Smrti and its corrobo rative Crutitext in the shape of the one under consideration would come to pertain to Man? For these reasons, we conclude that the denial in the Bhishya passage under consideration of the fact of the sentence in question being the basis of the Smrti rule was illadvised.",
+    "morphology": "tatas_tatas_ smṛti_smṛti_Cp samāna_samāna_Cp arthā_artha_SNF naṣṭā_naś_SNPaF mūlam_mūla_SNNe katham_katham_"
+  },
+  {
+    "index": 15502,
+    "sanskrit": "iti suśrutasaṃhitāyām uttaratantra antargate śālākyatantre pakṣmagatarogapratiṣedhaḥ nāma ṣoḍaśaḥ adhyāyaḥ||16||",
+    "english": "Thus ends the sixteenth chapter of the Uttara-Tantra in the Shushruta Samhita which treats of the remedies of Pakshma-kopa.",
+    "morphology": "iti_iti_U suśrutasaṃhitāyām_suśrutasaṃhitā_SLF uttaratantra_uttaratantra_NeCp antargate_antargam_SLPaPsNe śālākyatantre_śālākyatantra_SLNe pakṣmagatarogapratiṣedhaḥ_pakṣmagatarogapratiṣedha_SNM nāma_nāma_U ṣoḍaśaḥ_ṣoḍa"
+  },
+  {
+    "index": 15503,
+    "sanskrit": "tathā hi vyaktimātraṃ vā śabdārtha iṣyate viśiṣṭā vā vyaktiḥ na tāvat vyaktimātram na hi yasyāṃ kasyāṃcid vyaktau gośabdaṃ vaktāraḥ prayuṃjate /",
+    "english": "Now, the upholder of the above hypothesis may argue that the word ('a cow') is employed to convey only that meaning which it has been found to be employed to denote. In other words, nobody employs the word 'a cow' to convey a white horse. Hence it does not denote a white horse.",
+    "morphology": "tathā_tathā_ hi_hi_ vyakti_vyakti_Cp mātram_mātra_SNNe vā_vā_ śabda_śabda_Cp arthaḥ_artha_SNM iṣyate_iṣ_SPr3InPv viśiṣṭā_viśiṣ_SNPaF vā_vā_ vyaktiḥ_vyakti_SNF na_na_ tāvat_tāvat_ vyakti_vyakti_Cp mātram_mātra_SNNe na_na_ hi_h"
+  }
+]

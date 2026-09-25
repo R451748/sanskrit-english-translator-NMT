@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33456,
+    "sanskrit": "trāyate dānam api ekam pātra bhūte kṛtam dvije",
+    "english": "The first half of the second line of 8 is read differently in the Bengal texts.",
+    "morphology": "trāyate_trā_SPr3In dānam_dāna_SNNe api_api_U ekam_eka_SNNe pātra_pātra_Nā_SNM"
+  },
+  {
+    "index": 33457,
+    "sanskrit": "apratiṣiddhamadyānāṃ tu niyamenotsavasamāgatānām ādaravatī pravṛttir dṛśyate / yāṃ samyaṅ niṣedhaty abhyudayeṣv apīti /",
+    "english": "It is only the former class of women for whom winedrinking is not entirely prohibited, who are found to give themselves to much drinking, when they come together on festive occasions; and it is in view of this that they are forbidden.",
+    "morphology": "a_a_ pratiṣiddha_pratiṣidh_PaCp madyānām_madya_PGM tu_tu_ niyamena_niyama_SIM utsava_utsava_Cp samāgatānām_samāgam_PGPaM ādaravatī_ādaravat_SNF pravṛttiḥ_pravṛtti_SNF dṛśyate_dṛś_SPr3InPv  / yām_yad_SAF samyak_samyak_ niṣedhati_"
+  },
+  {
+    "index": 33458,
+    "sanskrit": "caitrakuṇḍalayor eva saṃyoga iva jāyate //",
+    "english": "and it only appears as if the cognition were of ‘conjunction’ (between the two).",
+    "morphology": "caitra_caitra_Cp kuṇḍalayoḥ_kuṇḍala_DuGNe eva_eva_ saṃyogaḥ_saṃyoga_SNM iva_iva_ jāyate_jan_SPr3In  /"
+  },
+  {
+    "index": 33459,
+    "sanskrit": "iha jātā vivṛddhā asmi pitā ca iha mama iti ca uktavatī asi durmedhe yācyamānā mayā asakṛt",
+    "english": "Though frequently solicited by me, thou, O simple woman, said to me, 'I have been born here, and here have I grown old;",
+    "morphology": "iha_iha_U jātā_jan_SNPaPsF vivṛddhā_vivṛdh_SNPaPsF asmi_as_SPr1In pitā_pitṛ_SNM ca_ca_U iha_iha_U mama_mad_SG iti_iti_U ca_ca_U uktavatī_vac_SNPaPsF asi_as_SPr2In durmedhe_durmedha_SVF"
+  },
+  {
+    "index": 33460,
+    "sanskrit": "yena mārgeṇa tā gāvo nīyante taskarairbalāt | tiraskṛtya dvijānsarvāñchitaśastradharairdvijāḥ || 25 ||",
+    "english": "25. O Brāhmaṇas, he went on that path on which the cows were being taken forcibly by the thieves holding sharp weapons, after warding off all the Brāhmaṇas.",
+    "morphology": "yena_yad_SIM mārgeṇa_mārga_SIM tāḥ_tad_PNF gāvaḥ_go_PNF nīyante_nī_PPr3InPv taskaraiḥ_taskara_PIM balāt_bala_SBNe  / tiraskṛtya_tiraskṛ_Co dvijān_dvija_PAM sarvān_sarva_PAM śita_śā_PaCp śastra_śastra_Cp dharaiḥ_dhara_PIM dvijā"
+  },
+  {
+    "index": 33461,
+    "sanskrit": "pravāhapatitaṃ karma svameva kriyate tu yat / jīvanmuktasvabhāvo'yaṃ sā jīvanmuktatā tathā //",
+    "english": "Whoso does any work that comes to him of itself in the course of his life, that man is called to be liberated in his life time; and the discharge of such deeds, belongs to the condition of living liberation.",
+    "morphology": "pravāha_pravāha_Cp patitam_pat_SNPaNe karma_karman_SNNe svam_sva_SNNe eva_eva_ kriyate_kṛ_SPr3InPv tu_tu_ yat_yad_SNNe  / jīvanmukta_jīvanmukta_Cp svabhāvaḥ_svabhāva_SNM ayam_idam_SNM sā_tad_SNF jīvanmukta_jīvanmukta_Cp tā_tā_SNF tathā_tath"
+  },
+  {
+    "index": 33462,
+    "sanskrit": "taddhaitacāṇḍilyaḥ / kaṅkatīyebhyo 'harahaḥkarma pradiśya pravavrājāharahareva vo yunajānaharaharvimuñcāniti tasmādaharahareva yuñjyādaharaharvimuñcet //",
+    "english": "And on this point, Sândilya, indeed, having enjoined on the Kaṅkatîyas the day-by-day performance,went on his way, saying, 'Day by day they shall yoke for you, and day by day they shall unyoke!' Let him therefore yoke day by day, and unyoke day by day.",
+    "morphology": "tat_tad_SANe ha_ha_ aitacāṇḍilyaḥ_aitacāṇḍilya_SNM  / kaṅkatīyebhyaḥ_kaṅkatīya_PDM ahar_ahar_Cp ahar_ahar_Cp karma_karman_SANe pradiśya_pradiś_Co pravavrāja_pravraj_SPs3In ahar_ahar_SANe ahar_ahar_SANe eva_eva_ vaḥ_tvad_PA yunajān"
+  },
+  {
+    "index": 33463,
+    "sanskrit": "madāt iva prasuptānām vikṣipta ābharaṇa srajām saṃjayaḥ uvāca hastibhiḥ tu mahāmātrāḥ tava putreṇa coditāḥ",
+    "english": "The beautiful forms of elephants and steeds and human beings, O king, then resembled cloths foul with dirt, and became exceedingly repulsive to look at.'\" \"Sanjaya said, 'Many elephant-warriors riding on their beasts, urged by thy son, proceeded against Dhrishtadyumna, filled with rage and desirous of compassing his destruction.",
+    "morphology": "madāt_mada_SBM iva_iva_U prasuptānām_prasvap_PGPaPsF vikṣipta_vikṣip_PaPsCp ābharaṇa_ābharaṇa_NeCp srajām_sraj_PGF saṃjayaḥ_saṃjaya_SNM uvāca_vac_SPs3In hastibhiḥ_hastin_PIM tu_tu_U mahāmātrāḥ_mahāmātra_PNM tava_tvad_SG putre"
+  }
+]

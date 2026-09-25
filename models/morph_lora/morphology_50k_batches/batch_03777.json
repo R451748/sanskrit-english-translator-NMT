@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30208,
+    "sanskrit": "ahaṃ na kārayiṣyāmi vivāham anayor nṛpatayor vivāho bhavitā bhāṇòīre yamunā taṭe",
+    "english": "I will not arrange the marriage of Rādhā and Kṛṣṇa. They will be married in Bhāṇòīravan forest by the Yamunā's shore.",
+    "morphology": "aham_mad_SN na_na_ kārayiṣyāmi_kāray_SFu1In vivāham_vivāha_SAM anayoḥ_idam_DuGM nṛpatayoḥ_nṛpata_DuGM vivāhaḥ_vivāha_SNM bhavitā_bhū_SFu3InPe bhāṇòīre_bhāṇḍīra_SLNe"
+  },
+  {
+    "index": 30209,
+    "sanskrit": "tato guptaṃ samāgamya viṣṇurvyāsamabhāṣata | aparāddhaṃ mahaccātra bhavatā vyāsa niścitam || 48 ||",
+    "english": "48. Thereupon Viṣṇu came there secretly and spoke to Vyāsa: “O Vyāsa, a great offence has certainly been committed by you.",
+    "morphology": "tatas_tatas_ guptam_gupta_SAM samāgamya_samāgam_Co viṣṇuḥ_viṣṇu_SNM vyāsam_vyāsa_SAM abhāṣata_bhāṣ_S3ImIn  / aparāddham_aparādh_SNPaNe mahat_mahat_SNNe ca_ca_ atra_atra_ bhavatā_bhavat_SIM vyāsa_vyāsa_SVM niścitam_niści_SNPaNe"
+  },
+  {
+    "index": 30210,
+    "sanskrit": "mad vākya sama kālam te moktavyaḥ atra bhavet śaraḥ",
+    "english": "Thou must let fly the arrow as soon as I give the order.",
+    "morphology": "mad_mad_Cp vākya_vākya_NeCp sama_sama_Cp kālam_kāla_SAM te_tvad_SG moktavyaḥ_muc_SNMGd"
+  },
+  {
+    "index": 30211,
+    "sanskrit": "ā pyāyasva saṃ te |",
+    "english": "Together thee.",
+    "morphology": "ā_ā_U"
+  },
+  {
+    "index": 30212,
+    "sanskrit": "atha karma kṛtam pāpam na ced kartāram ṛcchati kāraṇam balam eva iha janān śocāmi durbalān yudhiṣṭhiraḥ uvāca",
+    "english": "If however, the sin of an act done doth not attach to the doer, then (individual) might (and not God) is the true cause of acts, and I grieve for those that have no might!'\" SECTION XXXI \"Yudhishthira said, 'Thy speech, O Yajnaseni, is delightful, smooth and full of excellent phrases.",
+    "morphology": "atha_atha_U karma_karman_NeCp kṛtam_kṛ_SNPaPsNe pāpam_pāpa_SNNe na_na_U ced_ced_U kartāram_kartṛ_SAM ṛcchati_ṛch_SPr3In kāraṇam_kāraṇa_SANe balam_bala_SNNe eva_eva_U iha_iha_U janān_jana_PAM śocāmi_śuc_SPr1In durbalān_durbala_PAM yu"
+  },
+  {
+    "index": 30213,
+    "sanskrit": "hasta āvāpena gacchanti nāstikāḥ kim atas param priya deva atitheyāḥ ca vadānyāḥ priya sādhavaḥ kṣemyam ātmavatām mārgam āsthitāḥ hasta dakṣiṇam",
+    "english": "What more need be said of them? They, on the other hand, who have reverence for gods and guests, who are liberal, who are fond of good and honest men, go, in consequence of their acts of charity, along that happy way which belongs to persons of cleansed souls.",
+    "morphology": "hasta_hasta_MCp āvāpena_āvāpa_SIM gacchanti_gam_PPr3In nāstikāḥ_nāstika_PNM kim_ka_SNNe atas_atas_U param_para_SNNe priya_priya_Cp deva_deva_MCp atitheyāḥ_atitheya_PNM ca_ca_U vadānyāḥ_vadānya_PNM priya_priya_Cp sādhavaḥ_sādhu_PNM kṣ"
+  },
+  {
+    "index": 30214,
+    "sanskrit": "kṛṣṇajvarabhujaprāṇair yuddham āsīt sudāruṇam /",
+    "english": "The sound of the stricking of arms caused by Krishna and Jvara in that highly dreadful battle was like that of a thunder striking a mountain summit.",
+    "morphology": "kṛṣṇa_kṛṣṇa_Cp jvara_jvara_Cp bhuja_bhuja_Cp prāṇaiḥ_prāṇa_PIM yuddha_yuddha_SNNe āsīt_as_S3ImIn su_su_ dāruṇaḥ_dāruṇa_SNNe"
+  },
+  {
+    "index": 30215,
+    "sanskrit": "saṃskṛtā cāsaṃskṛtā ca / tatra /",
+    "english": "It is conditioned and unconditioned.",
+    "morphology": "saṃskṛtā_saṃskṛ_SNPaF ca_ca_ a_a_ saṃskṛtā_saṃskṛ_SNPaF ca_ca_  / tatra_"
+  }
+]

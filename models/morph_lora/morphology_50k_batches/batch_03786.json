@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30280,
+    "sanskrit": "apāt hotrāt uta potrāt amatta uta neṣṭrāt ajuṣata prayaḥ hitam turīyam pātram amr̥ktam amartyam draviṇaḥ dāḥ pibatu drāviṇodasaḥ",
+    "english": "From Hotar's cup and Potar's he hath drunk and joyed: the proffered food hath pleased him from the Neshṭar's bowl. The fourth cup undisturbed, immortal, let him drink who giveth wealth, the cup of the wealth-giving God.",
+    "morphology": "apāt_pā_SPs3In hotrāt_hotra_SBNe uta_uta_U potrāt_potra_SBNe amatta_mad_SPs3In uta_uta_U neṣṭrāt_neṣṭra_SBNe ajuṣata_juṣ_SPs3In prayaḥ_prayas_NeCp hitam_dhā_SAPaPsNe turīyam_turīya_SANe pātram_pātra_SANe amr̥ktam_amr̥kta_SANe amar"
+  },
+  {
+    "index": 30281,
+    "sanskrit": "tato bahutithe kāle keśavena purā smṛtaḥ | sraṣṭukāmena vividhāḥ prajā manasi rājasīḥ || 3 ||",
+    "english": "3. After a lapse of a great deal of time formerly, I was remembered by Keśava who desired mentally to create various types of Rājasic progeny.",
+    "morphology": "tatas_tatas_ bahutithe_bahutitha_SLM kāle_kāla_SLM keśavena_keśava_SIM purā_purā_ smṛtaḥ_smṛ_SNPaM  / sraṣṭu_sraṣṭu_Cp kāmena_kāma_SIM vividhāḥ_vividha_PAF prajāḥ_prajā_PAF manasi_manas_SLNe rājasīḥ_rājasa_PAF"
+  },
+  {
+    "index": 30282,
+    "sanskrit": "jātiḥ /",
+    "english": "It is arising.",
+    "morphology": "__U"
+  },
+  {
+    "index": 30283,
+    "sanskrit": "atha vā pañca ṣaṭ sapta vijayanti anivartinaḥ",
+    "english": "Even five, six, seven men, who are unretreating, win victory.",
+    "morphology": "atha_atha_U vā_vā_U pañca_pañcan_PAM ṣaṭ_ṣaṣ_PAM sapta_saptan_PAM vijayanti_viji_PPr3In anivartinaḥ_anivartin_PNM"
+  },
+  {
+    "index": 30284,
+    "sanskrit": "brāhmaṇa uvāca | mayāpi rājato labdhā mameyaṃ gaurna saṃśayaḥ | kathaṃ nayasi vipra tvaṃ mayi jīvati mandiram || 27 ||",
+    "english": "27-28a. The Brāhmaṇa (i.e. Somaśarmā [Somaśarman]) retorted, “As a gift of the king, this cow is mine beyond doubt. So how could you—the Brāhmaṇa take it away till I remain alive? I have got it today as a gift only.”",
+    "morphology": "brāhmaṇaḥ_brāhmaṇa_SNM uvāca_vac_SPs3In  / mayā_mad_SI api_api_ rājataḥ_rājan_SBM labdhā_labh_SNPaF mama_mad_SG iyam_idam_SNF gauḥ_go_SNF na_na_ saṃśayaḥ_saṃśaya_SNM  / katham_katham_ nayasi_nī_SPr2In vipra_vipra_SVM tvam_tvad_SN "
+  },
+  {
+    "index": 30285,
+    "sanskrit": "śastau kapolau vāmākṣyāḥ pīnau vṛttau samunnatau | romaśau paruṣau nimnau nirmāṃsau parivarjayet || 93 ||",
+    "english": "One should avoid hairy, rough, depressed, fleshless cheeks. A woman with such cheeks is not fit for marriage.",
+    "morphology": "śastau_śaṃs_DuNPaM kapolau_kapola_DuNM vāma_vāma_Cp akṣyāḥ_akṣi_SGF pīnau_pīna_DuNM vṛttau_vṛtta_DuNM samunnatau_samunnam_DuNPaM  / romaśau_romaśa_DuAM paruṣau_paruṣa_DuAM nimnau_nimna_DuAM nirmāṃsau_nirmāṃsa_DuAM parivarjaye"
+  },
+  {
+    "index": 30286,
+    "sanskrit": "kṣurikotpāṭitārdrāntramṛtarājagṛhāṅganam / rājāntaḥpuraviśrāntacaṇḍālaśvapacotkaram //",
+    "english": "Bandits ripped off the bellies of the royal dames in the palace, and the chandala free-booters hunted about the royal apartments.",
+    "morphology": "kṣurikā_kṣurikā_Cp utpāṭita_utpāṭay_PaCp ārdra_ārdra_Cp antra_antra_Cp mṛta_mṛ_PaCp rāja_rājan_Cp gṛha_gṛha_Cp aṅganam_aṅgana_SAM  / rāja_rājan_Cp antaḥpura_antaḥpura_Cp viśrānta_viśram_PaCp caṇḍāla_caṇḍāla_Cp"
+  },
+  {
+    "index": 30287,
+    "sanskrit": "tad idaṃ prastutaṃ raṅge yuddhaṃ kṛṣṇāndhramallayoḥ /",
+    "english": "Now Krishna and the wrestler Andhra will fight with each other in the arena.",
+    "morphology": "tat_tad_SNNe idam_idam_SNNe prastutam_prastu_SNPaNe raṅge_raṅga_SLM yuddham_yuddha_SNNe kṛṣṇa_kṛṣṇa_Cp andhra_andhra_Cp mallayoḥ_malla_DuGM  /"
+  }
+]

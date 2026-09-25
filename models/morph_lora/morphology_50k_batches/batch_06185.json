@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49472,
+    "sanskrit": "parityajya bhavet tyāgī na yaḥ hitvā pratiṣṭhate etasmin vartamānasya vidhau vipra niṣevite brāhmaṇasya mahā rāja na ucchittiḥ vidyate kva cit",
+    "english": "A Brahmana that lives in the observance of these ordinances in which there are no impediments, does not fall off from this or the other world.",
+    "morphology": "parityajya_parityaj_Co bhavet_bhū_SPr3O tyāgī_tyāgin_SNM na_na_U yaḥ_yad_SNM hitvā_hā_Co pratiṣṭhate_prasthā_SPr3In etasmin_etad_SLM vartamānasya_vṛt_SGPaPrM vidhau_vidhi_SLM vipra_vipra_MCp niṣevite_niṣev_SLPaPsM brāhmaṇasya_brāhma"
+  },
+  {
+    "index": 49473,
+    "sanskrit": "snehaḥ hitaḥ durbala hni deha sandhukṣaṇe vyādhi nipīḍitasya bala anvitau bhojana doṣa jātaiḥ pramarditum tau sahasā na sādhyau",
+    "english": "The application of a Sneha is potent enough to increase the strength and the digestive capacity of a weak person suffering from impaired digestion, and a person having his health and digestive capacity recouped (by the use of a Sneha) does not yield to the evil effects of errors of diet.",
+    "morphology": "snehaḥ_sneha_SNM hitaḥ_hita_SNM durbala_durbala_Cp hni_han_SLM deha_deha_MCp sandhukṣaṇe_saṃdhukṣaṇa_SLNe vyādhi_vyādhi_MCp nipīḍitasya_nipīḍay_SGPaPsM bala_bala_NeCp anvitau_anvita_DuNM bhojana_bhojana_NeCp doṣa_doṣa_MCp jātai"
+  },
+  {
+    "index": 49474,
+    "sanskrit": "nāradena tapastaptvā kṛtā śālā dvijanmanām | siddhikṣetraṃ bhṛgukṣetraṃ jñātvā revātaṭe svayam || 3 ||",
+    "english": "On coming to know that Bhṛgukṣetra is the holy spot of spiritual perfection, penance was performed by Nārada himself on the banks of Revā and a Śālā (large assembly-hall) was made for Brāhmaṇas.",
+    "morphology": "nāradena_nārada_SIM tapaḥ_tapas_SANe taptvā_tap_Co kṛtā_kṛ_SNPaF śālā_śālā_SNF dvijanmanām_dvijanman_PGM  / siddhikṣetram_siddhikṣetra_SANe bhṛgukṣetram_bhṛgukṣetra_SANe jñātvā_jñā_Co revā_revā_Cp taṭe_taṭa_SLNe svay"
+  },
+  {
+    "index": 49475,
+    "sanskrit": "muktānāṃ cāśrayo viṣṇuradhiko'dhipatistathā|",
+    "english": "\"Viṣṇu is the refuge of liberated souls, and their supreme ruler.",
+    "morphology": "muktānām_muc_PGPaM"
+  },
+  {
+    "index": 49476,
+    "sanskrit": "kanyovāca | iccheyaṃ yatra kāle hi tatra deyā tvayā pituḥ | putrīvākyādasau rājā vismito vākyamabravīt || 52 ||",
+    "english": "The Virgin said: 52-61. Dear father, I must be given in marriage at the time when I wish for it. The king was surprised at the statement of his daughter. Śikhaṇḍin said:",
+    "morphology": "kanyā_kanyā_SNF uvāca_vac_SPs3In  / iccheyam_iṣ_SPr1O yatra_yatra_ kāle_kāla_SLM hi_hi_ tatra_tatra_ deyā_dā_SNFGd tvayā_tvad_SI pituḥ_pitṛ_SGM  / putrī_putrī_Cp vākyāt_vākya_SBNe asau_adas_SNM rājā_rājan_SNM vismitaḥ_vismi_SNPaM v"
+  },
+  {
+    "index": 49477,
+    "sanskrit": "tān tu pratyavadhīt sarvān daśabhiḥ daśabhiḥ śaraiḥ",
+    "english": "Abhimanyu, however, pierced each of these in return with ten shafts.",
+    "morphology": "tān_tad_PAM tu_tu_U pratyavadhīt_prativadh_SPs3In sarvān_sarva_PAM daśabhiḥ_daśan_PIM daśabhiḥ_daśan_PIM śaraiḥ_śara_PIM"
+  },
+  {
+    "index": 49478,
+    "sanskrit": "śraddhābitiyaṃ puruṣaṃ carantaṃ na naṃ labheyā aśraddho va cāro |",
+    "english": "Faith is a person’s travelling companion, he would not accept travelling without faith,",
+    "morphology": "puruṣam_puruṣa_SAM carantam_car_SAPaPrM na_na_ naḥ_mad_SA labheyāḥ_labh_SPr2O aśraddhaḥ_aśraddha_SNM vā_vā_ cāraḥ_cāra_SNM "
+  },
+  {
+    "index": 49479,
+    "sanskrit": "śrutinodanād ity anuvādas tanmūlatayaiva prāmāṇyasyoktatvāt /",
+    "english": "\"In view of the injunctions of the Veda\" this is merely explanatory the fact of the entire contents of the work being based upon the Veda having been already stated before.",
+    "morphology": "śruti_śruti_Cp nodanāt_nodana_SBNe iti_iti_ anuvādaḥ_anuvāda_SNM tad_tad_Cp mūla_mūla_Cp tayā_tā_SIF eva_eva_ prāmāṇyasya_prāmāṇya_SGNe ukta_vac_PaCp tvāt_tva_SBNe  /"
+  }
+]

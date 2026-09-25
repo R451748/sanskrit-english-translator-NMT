@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37136,
+    "sanskrit": "sa muhūrtam iva dhyātvā viniḥśvasya muhur muhur",
+    "english": "And having reflected for only a short space of time, he began to sigh repeatedly.",
+    "morphology": "sa_tad_SNM muhūrtam_muhūrta_SANe iva_iva_ dhyātvā_dhyā_Co"
+  },
+  {
+    "index": 37137,
+    "sanskrit": "taṃ prāpya tuṣṭahṛdayaḥ samāgamya gṛhaṃ sukham / prāptākhilajagadbhūtiḥ śāntasarvatayā sthitaḥ //",
+    "english": "He returned gladly with his great gain to his homely dwelling, and was highly delighted with the thought of keeping off poverty for ever from his door.",
+    "morphology": "tam_tad_SAM prāpya_prāp_Co tuṣṭa_tuṣ_PaCp hṛdayaḥ_hṛdaya_SNM samāgamya_samāgam_Co gṛham_gṛha_SANe sukham_sukha_SANe  / prāpta_prāp_PaCp akhila_akhila_Cp jagat_jagant_Cp bhūtiḥ_bhūti_SNM śānta_śam_PaCp sarva_sarva_Cp tayā_tā_S"
+  },
+  {
+    "index": 37138,
+    "sanskrit": "striyo 'py etena kalpena hṛtvā doṣam avāpnuyuḥ / eteṣām eva jantūnāṃ bhāryātvam upayānti tāḥ //",
+    "english": "Women, who have committed similar thefts, receive the same ignominious punishment: they become females to those male animals.",
+    "morphology": "striyaḥ_strī_PNF api_api_ etena_etad_SIM kalpena_kalpa_SIM hṛtvā_hṛ_Co doṣam_doṣa_SAM avāpnuyuḥ_avāp_PPr3O  / eteṣām_etad_PGM eva_eva_ jantūnām_jantu_PGM bhāryā_bhāryā_Cp tvam_tva_SANe upa_upa_ "
+  },
+  {
+    "index": 37139,
+    "sanskrit": "brāhmaṇāḥ ṛṣayaḥ ca api na āsan tatra avipaścitaḥ",
+    "english": "Amongst those present there, none was illiterate.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM ṛṣayaḥ_ṛṣi_PNM ca_ca_U api_api_U na_na_U āsan_as_PPs3In tatra_tatra_U"
+  },
+  {
+    "index": 37140,
+    "sanskrit": "bhīmam ekena vivyādha rākṣasam navabhiḥ śaraiḥ",
+    "english": "And he pierced Bhima with one arrow, and the Rakshasa with nine.",
+    "morphology": "bhīmam_bhīma_SAM ekena_eka_SIM vivyādha_vyadh_SPs3In"
+  },
+  {
+    "index": 37141,
+    "sanskrit": "naravāhanadatto vaḥ siddhakāryaḥ sameṣyati / na tasyāniṣṭamastīti dhanavatyābhyudīrite //",
+    "english": "But Dhanavatī said: “Naravāhanadatta will return to you after he has attained his object;",
+    "morphology": "naravāhanadattaḥ_naravāhanadatta_SNM vaḥ_tvad_PA siddha_sidh_PaCp kāryaḥ_kārya_SNM sameṣyati_sami_SFu3In  / na_na_ tasya_tad_SGM aniṣṭa_aniṣṭa_SNNe asti_as_SPr3In iti_iti_ dhanavatyā_dhanavat_SIF"
+  },
+  {
+    "index": 37142,
+    "sanskrit": "iti śrutvā munivaro muniśreṣṭhamupetya tam | praṇamya śirasā bhūmau papracchedaṃ hṛdi sthitam || 33 ||",
+    "english": "33. On hearing this, the excellent sage approached that renowned leading sage, bent down his head touching the ground and asked him what he had in his mind:",
+    "morphology": "iti_iti_ śrutvā_śru_Co muni_muni_Cp varaḥ_vara_SNM muni_muni_Cp śreṣṭham_śreṣṭha_SAM upetya_upe_Co tam_tad_SAM  / praṇamya_praṇam_Co śirasā_śiras_SINe bhūmau_bhūmi_SLF papraccha_pracch_SPs3In idam_idam_SANe hṛdi_hṛd_SLNe sthita"
+  },
+  {
+    "index": 37143,
+    "sanskrit": "yastu devyālayaṃ kuryātpāṣāṇandāravantathā | mṛnmayaṃ vātha kāleya tasya puṇyaphalaṃ śṛṇu | ahanyahaniyogena jayato yanmahāphalam || prāpnoti tatphalandevyā yaḥ kārayati mandiram | sahasrakulamāgāmi vyatītaṃ ca sahasrakam | tārayati dharmātmā śrīmāturdhāma kārayan ||",
+    "english": "13-14. O Vyāsa, listen to the merit of the person who builds a temple to the goddess either of stone or of wood or of mud. He who builds a temple to the goddess attains the benefit which a person who worships every day through Yoga attains in plenty. That virtuous soul who builds the temple for the glorious mother enables a thousand past and a thousand future members of his family to attain liberation.",
+    "morphology": "yaḥ_yad_SNM tu_tu_ devī_devī_Cp ālayam_ālaya_SAM kuryāt_kṛ_SPr3O pāṣāṇan_pāṣāṇa_SAM dāravan_dāravat_SANe tathā_tathā_  / mṛd_mṛd_Cp mayam_maya_SANe vā_vā_ atha_atha_ kāleya_kāleya_SVM tasya_tad_SGM puṇya_puṇya_Cp phalam"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4248,
+    "sanskrit": "aikṣavyau vidhṛtī /",
+    "english": "There are two vidhritis of sugar-cane, lestthe barhis and the prastara should become mixed up together.",
+    "morphology": "aikṣavyau_aikṣavya_DuNF"
+  },
+  {
+    "index": 4249,
+    "sanskrit": "iti cintāparavaśo vana uddālako dvijaḥ / punaḥ punastūpaviśandhyānābhyāsaṃ cakāra ha //",
+    "english": "Immerged in these and the like reflections, the twice-born Uddalaka sat in his meditation amidst the forest.",
+    "morphology": "iti_iti_ cintā_cintā_Cp paravaśaḥ_paravaśa_SNM vane_vana_SLNe uddālakaḥ_uddālaka_SNM dvijaḥ_dvija_SNM  / punar_punar_ punar_punar_ tu_tu_ upaviśan_upaviś_SNPaPrM dhyāna_dhyāna_Cp abhyāsam_abhyāsa_SAM cakāra_kṛ_SPs3In ha_ha_  /"
+  },
+  {
+    "index": 4250,
+    "sanskrit": "ṛṣaya ūcuḥ | sarveṣāmeva devānāṃ dṛśyaṃte'tra samāśrayāḥ | atra caṃdrasya caivaikaḥ kathaṃ jātaḥ samāśrayaḥ || 3 ||",
+    "english": "The sages said: 3. In a holy place only the resorts of all the Devas are usually seen. How did it happen that a resort of Candra too has been created here?",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / sarveṣām_sarva_PGM eva_eva_ devānām_deva_PGM dṛśyaṃte_dṛś_PPr3InPv atra_atra_ samāśrayāḥ_samāśraya_PNM  / atra_atra_ caṃdrasya_candra_SGM ca_ca_ eva_eva_ ekaḥ_eka_SNM katham_katham_ jā"
+  },
+  {
+    "index": 4251,
+    "sanskrit": "teṣu teṣu pradātavyāḥ rasāḥ te te vijānatā",
+    "english": "A wise man should take food of such tastes (Rasa) in any particular season of the year as is antidotal to the bodily Dosha which is naturally aggravated in that season.",
+    "morphology": "teṣu_tad_PLM teṣu_tad_PLM pradātavyāḥ_pradā_PNMGd rasāḥ_rasa_PNM te_tad_PNM te_tad_PNM vijānatā_vijñā_SIPaPrM"
+  },
+  {
+    "index": 4252,
+    "sanskrit": "uta sakhā asi aśvinoḥ uta mātā gavām asi uta uṣaḥ vasvaḥ īśiṣe",
+    "english": "Yea, and thou art the Aṣvins' Friend, the Mother of the Kine art thou: O Dawn thou rulest over wealth.",
+    "morphology": "uta_uta_U sakhā_sakhi_SNM asi_as_SPr2In aśvinoḥ_aśvin_DuGM uta_uta_U mātā_mātṛ_SNF gavām_go_PGM asi_as_SPr2In uta_uta_U uṣaḥ_uṣas_SVF vasvaḥ_vasu_SGNe"
+  },
+  {
+    "index": 4253,
+    "sanskrit": "ādityā vasavo rudrā aśvinau ca mahābalau / sabalāḥ sānugāś caiva saṃnahyanta yathākramam //",
+    "english": "The Adityas, the Vasus, the Rudras and the two highly powerful Aswinis took charge of their respective soldiers and attendants.",
+    "morphology": "ādityāḥ_āditya_PNM vasavaḥ_vasu_PNM rudrāḥ_rudra_PNM aśvinau_aśvin_DuNM ca_ca_ mahā_mahat_Cp balau_bala_DuNM  / sa_sa_ balāḥ_bala_PNM sa_sa_ anugāḥ_anuga_PNM ca_ca_ eva_eva_ saṃnahyanta_saṃnah_P3ImIn yathākramam_yathākramam_  /"
+  },
+  {
+    "index": 4254,
+    "sanskrit": "vayam pratinadantaḥ ca tadā āsīt tumulam mahat",
+    "english": "And the warriors of the foe rushed against us, and we also (rushed) against them with loud shouts.",
+    "morphology": "vayam_mad_PN pratinadantaḥ_pratinad_PNPaPrM ca_ca_U tadā_tadā_U"
+  },
+  {
+    "index": 4255,
+    "sanskrit": "ajātaśatro bhadram te khāṇḍavaprastham āviśa",
+    "english": "Blest be thou, O Ajatasatru. Return to Khandavaprastha, and let there be brotherly love between thee and thy cousins.",
+    "morphology": "ajātaśatro_ajātaśatru_SVM bhadram_bhadra_SNNe te_tvad_SG"
+  }
+]

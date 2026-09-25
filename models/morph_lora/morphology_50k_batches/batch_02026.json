@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16200,
+    "sanskrit": "asaṃvibhāgam alasam duḥkha śīlam asūyakam lolupam ca api a dātāram preta sattvam viduḥ naram",
+    "english": "Those of Preta-Sattva man are utter want of knowledge as regards duty, laziness, miserableness, envy, covetousness, niggardliness.",
+    "morphology": "asaṃvibhāgam_asaṃvibhāga_SAM alasam_alasa_SAM duḥkha_duḥkha_NeCp śīlam_śīla_SAM asūyakam_asūyaka_SAM lolupam_lolupa_SAM ca_ca_U api_api_U"
+  },
+  {
+    "index": 16201,
+    "sanskrit": "|| śrīgaṇeśāya namaḥ | || śrīgaurīśaṃkarābhyāṃ namaḥ | || nārada uvāca | śrutamasmābhirānaṃdapradaṃ caritamuttamam | gṛhasthasyaiva śaṃbhośca gaṇaskaṃdādisatkatham ||",
+    "english": "1. The excellent story of the householder Śiva, including that of Gaṇeśa, Skanda and others which confers bliss has been heard by us. 2. Now please narrate lovingly the story of how Śiva killed wicked persons playfully.",
+    "morphology": "__śrī_U __gaṇeśa_U __namas_U  / __śrī_U __gaurī_U __śaṃkara_U __namas_U  / __nārada_U uvāca_vac_SPs3In  / __śru_PaU __mad_U __mad_U __ānanda_U __prada_U __carita_U __uttama_U  / __gṛhastha_U eva_eva_U __śambhu_U ca_ca_U __gaṇa_U __skand"
+  },
+  {
+    "index": 16202,
+    "sanskrit": "mārgasatyasyānāsravaiva / seyaṃ samasya caturvidhā bhavati /",
+    "english": "The prāpti of the Path is Śaikṣa;",
+    "morphology": "mārga_mārga_Cp satyasya_satya_SGNe anāsravā_anāsrava_SNF eva_eva_  / ḥ_ḥ_"
+  },
+  {
+    "index": 16203,
+    "sanskrit": "atha sajyaṃ dhanuḥ kṛtvā śarvassaṃdhāya taṃ śaram | pūjya pāśupatāstraṃ sa tripuraṃ samaciṃtayat ||",
+    "english": "20. Then stringing the bow tight and fixing the arrow Pāśupata worthy of worship, he thought of the Tripuras.",
+    "morphology": "atha_atha_ sajyam_sajya_SANe dhanuḥ_dhanus_SANe kṛtvā_kṛ_Co śarvaḥ_śarva_SNM saṃdhāya_saṃdhā_Co tam_tad_SAM śaram_śara_SAM  / pūjya_pūjay_Co pāśupata_pāśupata_Cp astram_astra_SANe sa_tad_SNM tripuram_tripura_SANe samaciṃtayat_sa"
+  },
+  {
+    "index": 16204,
+    "sanskrit": "namaḥ kṛṣṇa namo viṣṇo namo jiṣṇo namonamaḥ | namo vāmana goviṃda namo'naṃta namo'cyuta || 40 || jayasva goviṃda mahānubhāva jayasva viśṇo jaya padmanābha | jayasva sarvādya gadādhareśa jayasva viśveśvara viśvamūrtte || 41 ||",
+    "english": "40-44. “Obeisance, O Kṛṣṇa; obeisance, O Viṣṇu; obeisance, O Jiṣṇu; obeisance; obeisance. Obeisance, O Vāmana, O Govinda, obeisance, O Ananta (Infinite one); obeisance, O Acyuta. Be victorious, O Govinda; of magnanimous virtues. Be victorious, O Viṣṇu. Be victorious, O Padmanābha. Be victorious, O Sarvādya (one who is primordial), O Lord wielding the mace. Be victorious, O Lord of the universe, O Viśvamūrti (the omniformed one).”",
+    "morphology": "namaḥ_namas_SNNe kṛṣṇa_kṛṣṇa_SVM namaḥ_namas_SNNe viṣṇo_viṣṇu_SVM namaḥ_namas_SNNe jiṣṇo_jiṣṇu_SVM namaḥ_namas_SNNe namaḥ_namas_SNNe  / namaḥ_namas_SNNe vāmana_vāmana_SVM govinda_govinda_SVM namaḥ_namas_SNNe anan"
+  },
+  {
+    "index": 16205,
+    "sanskrit": "vastavyaṃ satataṃ kāśyāṃ yaṣṭavyohaṃ prayatnataḥ | jetavyau kalikālau ca raṃtavyā muktiraṃganā || 53 ||",
+    "english": "53. One should always stay in Kāśī. I should be adored assiduously. Kali and Kāla should be overcome. The lady Mukti (Salvation) should be enjoyed.",
+    "morphology": "vastavyam_vas_SNNeGd satatam_satatam_ kāśyām_kāśi_SLF yaṣṭavyā_yaj_SNFGd ūham_mad_SN prayatnataḥ_prayatna_SBM  / jetavyau_ji_DuNMGd kali_kali_Cp kālau_kāla_DuNM ca_ca_ raṃtavyā_ram_SNFGd muktiḥ_mukti_SNF aṅganā_aṅganā_SNF"
+  },
+  {
+    "index": 16206,
+    "sanskrit": "kiṃ grāhyaṃ kiṃ ca moktavyaṃ kiṃ deyaṃ kiṃ na dīyate | tīrthopavāsaḥ snānaṃ ca saṃdhyāsnānavidhikramaḥ | pūjā nidrā japo rātrau sarvaṃ saṃkṣepato vada || 3 ||",
+    "english": "3. Tell me in brief: What should be taken; what should be left; what should be given; what is not given. (So also tell me about) the fast at the holy place; bath; the order of the rites like Sandhyā (the morning, noon, evening prayers); the worship; sleep; the muttering of prayers at night.",
+    "morphology": "kim_ka_SNNe grāhyam_grah_SNNeGd kim_ka_SNNe ca_ca_ moktavyam_muc_SNNeGd kim_ka_SNNe deyam_dā_SNNeGd kim_ka_SNNe na_na_ dīyate_dā_SPr3InPv  / tīrtha_tīrtha_Cp upavāsaḥ_upavāsa_SNM snānam_snāna_SNNe ca_ca_ saṃdhyā_saṃdhyā_Cp snāna_snāna_C"
+  },
+  {
+    "index": 16207,
+    "sanskrit": "(1) rūpopādānaskandhaḥ,",
+    "english": "(1) The bodily-form component that provides fuel for attachment,",
+    "morphology": "__U"
+  }
+]

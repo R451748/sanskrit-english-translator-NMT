@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10192,
+    "sanskrit": "īśvara uvāca | yadā dvāravatīṃ prāpto nārado munipuṃgavaḥ | sarve dṛṣṭāstadā tena viṣṇoḥ putrā mahābalāḥ || 4 || tadrājakulamadhye tu krīḍamānā parasparam || āyāṃtaṃ nāradaṃ dṛṣṭvā sarve vinayasaṃyutāḥ || 5 || namaścakruryathānyāyaṃ vinā sāṃbaṃ tvarānvitāḥ | avinītaṃ tu taṃ dṛṣṭvā kathayāmāsa nāradaḥ || 6 ||",
+    "english": "4-6. When Nārada, the leading sage, reached Dvārāvatī all the mighty sons of Viṣṇu (i.e. Kṛṣṇa) became delighted. They were playing about in the royal palace all together. When they saw Nārada, all of them except Sāṃba paid due obeisance hurriedly. On seeing him rude and impolite, Nārada said:",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / yadā_yadā_ dvāravatīm_dvāravatī_SAF prāptaḥ_prāp_SNPaM nāradaḥ_nārada_SNM muni_muni_Cp puṃgavaḥ_puṃgava_SNM  / sarve_sarva_PNM dṛṣṭāḥ_dṛś_PNPaM tadā_tadā_ tena_tad_SIM viṣṇ"
+  },
+  {
+    "index": 10193,
+    "sanskrit": "śaivāgamo hi dvividhaḥ śrauto 'śrautaśca saṃskṛtaḥ | śrutisāramayaḥ śrautassvataṃtra itaro mataḥ ||",
+    "english": "11. The Śaiva Āgama is of two varieties: Śrauta and Aśrauta. The Śrauta consists of condensed Vedic texts; the other one consists of independent texts but well consecrated.",
+    "morphology": "śaiva_śaiva_Cp āgamaḥ_āgama_SNM hi_hi_ dvividhaḥ_dvividha_SNM śrautaḥ_śrauta_SNM aśrautaḥ_aśrauta_SNM ca_ca_ saṃskṛtaḥ_saṃskṛ_SNPaM  / śruti_śruti_Cp sāra_sāra_Cp mayaḥ_maya_SNM"
+  },
+  {
+    "index": 10194,
+    "sanskrit": "dāna kṛdbhiḥ kṛtaḥ panthāḥ yena yānti manīṣiṇaḥ",
+    "english": "The track that has been made by those men who make gifts is the track that is trodden by the wise.",
+    "morphology": "dāna_dāna_NeCp kṛdbhiḥ_kṛt_PIM kṛtaḥ_kṛ_SNPaPsM panthāḥ_pathin_SNM"
+  },
+  {
+    "index": 10195,
+    "sanskrit": "tāyina iti /",
+    "english": "The answer to this is as follows: [see verses 3501-3502 above]",
+    "morphology": "tāyinaḥ_SGM"
+  },
+  {
+    "index": 10196,
+    "sanskrit": "neti pūrvapakṣapratikṣepaḥ /",
+    "english": "‘It is not so’ denies the Opponent’s assertion.",
+    "morphology": "na_"
+  },
+  {
+    "index": 10197,
+    "sanskrit": "'candanāraṇyamādhūya spṛṣṭvā malayanirjharān |kāvyādarśamūlam | pathikānāmabhābāya pavanoyamupasthitaḥ ||",
+    "english": "After causing the sandal-forest to shake, and having touched the Malaya-rillets, this wind has set in with a view to annihilate the travellers\".",
+    "morphology": "__acandana_U __araṇya_U __ādhū_CoU __spṛś_CoU __malaya_U __nirjhara_U __nirjhara_U __paU __kāvya_U __ādarśa_U __mūla_U  /"
+  },
+  {
+    "index": 10198,
+    "sanskrit": "śrīvasiṣṭha uvāca / kākatālīyavadbrahma yadbhātīvātmanātmani / sa tenaivātmanātmaiva jagadityavabudhyate //",
+    "english": "Vasishtha replied:—The fortuitous appearance in which Brahma, manifests himself of his own accord; is known to him as the world and subsisting in himself.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / kākatālīya_kākatālīya_Cp vat_vat_ brahma_brahman_SNNe yat_yad_SNNe bhāti_bhā_SPr3In iva_iva_ ātmanā_ātman_SIM ātmani_ātman_SLM  / sa_tad_SNM tena_tad_SIM eva_eva_ ātmanā_ā"
+  },
+  {
+    "index": 10199,
+    "sanskrit": "na caivātyaśanam atimātram aśanaṃ kuryāt /",
+    "english": "\"Be should not do overeating\";one should not eat too much.",
+    "morphology": "na_na_ ca_ca_ eva_eva_ atyaśanam_atyaśana_SANe a_a_ vā_vā_ a_a_ vā_"
+  }
+]

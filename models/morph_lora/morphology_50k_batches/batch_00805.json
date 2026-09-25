@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6432,
+    "sanskrit": "pratisaṃkhyānirodho yo visaṃyogaḥ",
+    "english": "Pratisaṁkhyānirodha is disjunction.",
+    "morphology": "__pratisaṃkhyā_U __nirodha_U"
+  },
+  {
+    "index": 6433,
+    "sanskrit": "jīvitam saṃtyajanti eke dhana lobha parāḥ narāḥ",
+    "english": "Some persons lay down life itself, moved by the desire of acquiring wealth.",
+    "morphology": "jīvitam_jīvita_SANe saṃtyajanti_saṃtyaj_PPr3In eke_eka_PNM"
+  },
+  {
+    "index": 6434,
+    "sanskrit": "sati bīje pravartante kāryakāraṇadṛṣṭayaḥ / nirākārasya kiṃ bījaṃ kva janyajanakakramaḥ //",
+    "english": "Had there been a real seed from eternity, it is possible for the world to be produced from it, by causes inherent in the same;but how could a real and formal seed, be contained in the formless spirit of God; and by what process could the material proceed from the immaterial?",
+    "morphology": "sati_as_SLPaPrNe bīje_bīja_SLNe pravartante_pravṛt_PPr3In kārya_kārya_Cp kāraṇa_kāraṇa_Cp dṛṣṭayaḥ_dṛṣṭi_PNF  / nirākārasya_nirākāra_SGM kim_ka_SNNe bījam_bīja_SNNe kva_kva_ janya_jan_GdCp janaka_janaka_Cp kramaḥ_krama_SNM"
+  },
+  {
+    "index": 6435,
+    "sanskrit": "śrī nārada uvāca atha deva gaṇaiḥ sārdhaṃ śakras tatra samāgataḥ gatamāno girau kṛṣṇaṃ rahasi praṇanāma ha",
+    "english": "Śrī Nārada said: Then, accompanied by the demigods, Indra went to a secluded place on Govardhana Hill and bowed down before Lord Kṛṣṇa.",
+    "morphology": "śrī_śrī_FCp nāradaḥ_nārada_SNM uvāca_vac_SPs3In atha_atha_ deva_deva_MCp gaṇaiḥ_gaṇa_PIM sārdham_sārdham_ śakraḥ_śakra_SNM tatra_tatra_ samāgataḥ_samāgam_SNPaM gata_gam_PaCp mānaḥ_māna_SNM girau_giri_SLM kṛṣṇam_kṛṣṇ"
+  },
+  {
+    "index": 6436,
+    "sanskrit": "yathā śuddhaḥ prāṇamarutparaprāṇādivedanāt / vetti vedyaṃ manorājyaṃ tathā sargāntarāśrayam //",
+    "english": "The ubiquity of the intellect, makes it pass into the mind in its next birth; and exhibit itself in different forms in all its succeeding and subordinate regenerations.",
+    "morphology": "yathā_yathā_ śuddhaḥ_śudh_SNPaM prāṇa_prāṇa_Cp marut_marut_SNM para_para_Cp prāṇa_prāṇa_Cp ādi_ādi_Cp vedanāt_vedana_SBNe  / vetti_vid_SPr3In vedyam_vid_SANeGd manaḥ_manas_Cp rājyam_rājya_SANe tathā_tathā_ sarga_sarga_Cp antara_a"
+  },
+  {
+    "index": 6437,
+    "sanskrit": "duḥsvapnādimahānarthasūcakeṣu bhayeṣu ca | yadi saṃkīrtayedetanna tato nārthabhāgbhavet ||",
+    "english": "185. When bad dreams and evil portents occur indicating terror and danger this hymn shall be repeated. Then those dangers do not befall.",
+    "morphology": "duḥsvapna_duḥsvapna_Cp ādi_ādi_Cp mahā_mahat_Cp anartha_anartha_Cp sūcakeṣu_sūcaka_PLNe bhayeṣu_bhaya_PLNe ca_ca_  / yadi_yadi_ saṃkīrtayet_saṃkīrtay_SPr3O etat_etad_SANe na_na_ tatas_tatas_ na_na_ artha_artha_Cp bhāj_bhāj_SNM bhavet_b"
+  },
+  {
+    "index": 6438,
+    "sanskrit": "upasthitaṃ gṛhe vidyād bhāryā yatrāgnayo 'pi vā //",
+    "english": "He should regard him as such when he arrives at his house, or where the wife and the fires are at the time0.",
+    "morphology": "upasthitam_upasthā_SAPaM gṛhe_gṛha_SLM vidyāt_vid_SPr3O bhāryā_bhāryā_SNF yatra_yatra_ agnayaḥ_agni_PNM api_api_ vā_vā_  /"
+  },
+  {
+    "index": 6439,
+    "sanskrit": "akṣudrāḥ satyavantaś ca nityaṃ bhaktānuyāyinaḥ /",
+    "english": "They are truthful and compassionate unto their votaries.",
+    "morphology": "akṣudrāḥ_akṣudra_PNM satyavantaḥ_satyavat_PNM ca_ca_ nityam_nityam_ bhakta_bhakta_Cp anuyāyinaḥ_anuyāyin_PNM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10064,
+    "sanskrit": "ataevāhi pāṃḍityamādriṃyate vicakṣaṇāḥ | ahaḥkṣepaṃ na kṣipaṃti kṣaṇamekaṃ hi te budhāḥ || 42 ||",
+    "english": "42. It is for this reason that learned people honour and respect learning combined with a sense of discrimination between good and evil. Those scholars do not waste even a single moment of the day.",
+    "morphology": "atas_atas_ eva_eva_ ahi_ahi_SNNe pāṃḍityam_pāṃḍitya_SNNe ādriṃyate_ādri_SPr3In vicakṣaṇāḥ_vicakṣaṇa_PVM  / ahar_ahar_Cp kṣepam_kṣepa_SAM na_na_ kṣipaṃti_kṣip_PPr3In kṣaṇam_kṣaṇa_SAM ekam_eka_SAM hi_hi_ te_tad_PNM "
+  },
+  {
+    "index": 10065,
+    "sanskrit": "anantaḥ ca saḥ eva uktaḥ bhagavān hariḥ avyayaḥ",
+    "english": "He is called Ananta (Infinite) Verily, that illustrious one is identical with the immutable Hari.",
+    "morphology": "anantaḥ_ananta_SNM ca_ca_U saḥ_tad_SNM eva_eva_U uktaḥ_vac_SNPaPsM bhagavān_bhagavant_SNM"
+  },
+  {
+    "index": 10066,
+    "sanskrit": "samācārān nirṇayaḥ /",
+    "english": "The real decision however depends entirely upon usage.",
+    "morphology": "__samācāra_U"
+  },
+  {
+    "index": 10067,
+    "sanskrit": "chinnaiḥ ca sakthi bhuja pāda karaiḥ - aśeṣaiḥ yeṣām na marma patitā iti pā na vividhāḥ prahārāḥ",
+    "english": "Recovery is common in cases of cuts (pierce) in the Sakthi, Bhuja, Pada and Kara or in any other part of the body and even where a whole leg or hand is found to be severed and carried away if the Marmas are not in any way hurt or affected.",
+    "morphology": "chinnaiḥ_chid_PIPaPsM ca_ca_U sakthi_sakthi_NeCp bhuja_bhuja_MCp pāda_pāda_MCp karaiḥ_kara_PIM -_aśeṣa_PIM yeṣām_yad_PGM na_na_U marma_marman_SNNe patitā_pat_SNPaPsF iti_iti_U pā_pā_SIM na_na_U vividhāḥ_vividha_PNM prahārāḥ_prahāra_P"
+  },
+  {
+    "index": 10068,
+    "sanskrit": "yadi ramyatanussa syāttadā deyā mayā sutā | nānyathā koṭiśo yatnairvacmi satyandṛḍhaṃ vacaḥ ||",
+    "english": "101. If He assumes a lovely form and body my daughter may be given to Him and not otherwise even if you attempt it a thousand times. This is my firm decision.",
+    "morphology": "yadi_yadi_ ramya_ramya_Cp tanuḥ_tanu_SNM sa_tad_SNM syāt_as_SPr3O tadā_tadā_ deyā_dā_SNFGd mayā_mad_SI sutā_sutā_SNF  / na_na_ anyathā_anyathā_ koṭiśas_koṭiśas_ yatnaiḥ_yatna_PIM vacmi_vac_SPr1In satyam_satya_SANe"
+  },
+  {
+    "index": 10069,
+    "sanskrit": "saṃtānaka vanaiḥ phullaiḥ karavīra vanaiḥ api pārijāta vanaiḥ ca eva japā aśoka vanaiḥ tathā kadamba taru ṣaṇḍaiḥ ca divyaiḥ mṛga gaṇaiḥ api",
+    "english": "The White Mountain was adorned with whole tracts of wood-land covered with blossoming Santanaka flowers and with forests of Karavira, Parijata, Jana and Asoke trees,--as also with wild tracts overgrown with Kadamva trees;",
+    "morphology": "saṃtānaka_saṃtānaka_MCp vanaiḥ_vana_PINe phullaiḥ_phulla_PINe karavīra_karavīra_MCp vanaiḥ_vana_PINe api_api_U pārijāta_pārijāta_MCp vanaiḥ_vana_PINe ca_ca_U eva_eva_U japā_japā_FCp aśoka_aśoka_MCp vanaiḥ_vana_PINe tathā_tathā_U"
+  },
+  {
+    "index": 10070,
+    "sanskrit": "bhagna sandhi vimokṣeṣu vidhim enam samācaret",
+    "english": "The same sort of bed and fastenings should be used in cases of fractures and dislocations of the pelvic-joint, the spinal column, the chest and the shoulders[10].",
+    "morphology": "bhagna_bhañj_PaPsCp"
+  },
+  {
+    "index": 10071,
+    "sanskrit": "hayāstasya tathā proktāścatvāro nigamā mune | jyotīṃṣi bhūṣaṇaṃ teṣāmavaśiṣṭānyataḥ param ||",
+    "english": "27. O sage, the four Vedas are said to be his horses. The remaining planets became their embellishments.",
+    "morphology": "hayāḥ_haya_PNM tasya_tad_SGM tathā_tathā_ proktāḥ_pravac_PNPaM catvāraḥ_catur_PNM nigamāḥ_nigama_PNM mune_muni_SVM  / jyotīṃṣi_jyotis_PNNe bhūṣaṇam_bhūṣaṇa_SNNe teṣām_tad_PGM avaśiṣṭāni_avaśiṣ_PNPaNe atas_atas_ para"
+  }
+]

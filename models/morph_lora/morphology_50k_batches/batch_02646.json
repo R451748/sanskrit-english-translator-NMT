@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21160,
+    "sanskrit": "purūravasam ailam tvam buddhyā jayasi pāṇḍava",
+    "english": "O son of Pandu. thou surpassest in intelligence even Pururavas, the son of Ila;",
+    "morphology": "purūravasam_purūravas_SAM ailam_aila_SAM tvam_tvad_SN"
+  },
+  {
+    "index": 21161,
+    "sanskrit": "sa viṣṇuḥ paramaṃ brahma yato nāvartate punaḥ /",
+    "english": "A person who has attained lord Viṣṇu, the Supreme Brahman, never returns to worldly existence.",
+    "morphology": "sa_tad_SNM viṣṇuḥ_viṣṇu_SNM paramam_parama_SNNe brahma_brahman_SNNe yatas_yatas_ na_na_ āvartate_āvṛt_SPr3In punar_punar_  /"
+  },
+  {
+    "index": 21162,
+    "sanskrit": "vayaṃ devasya dhīmahi sumatiṃ satyarādhasaḥ |",
+    "english": "May we obtain the favour Of the god whose gifts are true.",
+    "morphology": "vayam_mad_PN devasya_deva_SGM dhīmahi_dhā_PPs1 sumatim_sumati_SAF satya_satya_Cp rādhasaḥ_rādhas_SGM"
+  },
+  {
+    "index": 21163,
+    "sanskrit": "tatra adbhutam apaśyāma bībhatsoḥ hasta lāghavam",
+    "english": "And the lightness of hand that we then beheld of Vibhatsu was exceedingly wonderful.",
+    "morphology": "tatra_tatra_U adbhutam_adbhuta_SANe apaśyāma_paś_PPs1In bībhatsoḥ_bībhatsu_SGM hasta_hasta_MCp lāghavam_lāghava_SANe"
+  },
+  {
+    "index": 21164,
+    "sanskrit": "viṣṇuruvāca | śṛṇudhvaṃ bhoḥ surāḥ sarve yuṣmākaṃ siddhikāraṇam | guhyādguhyataraṃ puṇyaṃ mahākālavanaṃ śubham || 65 ||",
+    "english": "Viṣṇu said: 65. O Suras, listen ye all to the means of your fulfilment. The splendid Mahākālavana is holy, meritorious and the greatest secret of all secrets.",
+    "morphology": "viṣṇuḥ_viṣṇu_SNM uvāca_vac_SPs3In  / śṛṇudhvam_śru_PPr2Im bhoḥ_bhoḥ_ surāḥ_sura_PVM sarve_sarva_PVM yuṣmākam_tvad_PG siddhi_siddhi_Cp kāraṇam_kāraṇa_SANe  / guhyāt_guhya_SBNe guhyataram_guhyatara_SANe puṇyam_puṇya_SANe"
+  },
+  {
+    "index": 21165,
+    "sanskrit": "evamādyā guṇā yasya varasya varaceṣṭitam | tasmai prayaccha māṃ tāta mama tepīhaśarmaṇe || 54 ||",
+    "english": "54. For your welfare as well as that of mine, dear father, give me unto that Vara (excellent one, bridegroom) who possesses these and other good qualities and whose activities are excellent.",
+    "morphology": "evamādyāḥ_evamādya_PNM guṇāḥ_guṇa_PNM yasya_yad_SGM varasya_vara_SGM vara_vara_Cp ceṣṭitam_ceṣṭita_SNNe  / tasmai_tad_SDM prayaccha_prayam_SPr2Im mām_mad_SA tāta_tāta_SVM mama_mad_SG  /"
+  },
+  {
+    "index": 21166,
+    "sanskrit": "dhanurvede gururvipraḥ prokto varṇadvayasya ca //",
+    "english": "A brahmin is said to be the preceptor in archery for two castes.",
+    "morphology": "dhanurvede_dhanurveda_SLM guruḥ_guru_SNM vipraḥ_vipra_SNM proktaḥ_pravac_SNPaM varṇa_varṇa_Cp dvayasya_dvaya_SGNe ca_ca_  /"
+  },
+  {
+    "index": 21167,
+    "sanskrit": "kathaṃ caitac chakyate veditum /",
+    "english": "How is all this to be ascertained?",
+    "morphology": "katham_katham_ ca_ca_ etat_etad_SNNe śakyate_śak_SPr3InPv veditum_vid_In  /"
+  }
+]

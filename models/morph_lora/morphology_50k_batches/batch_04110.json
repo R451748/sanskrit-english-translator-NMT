@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32872,
+    "sanskrit": "tasmin āvasathe dhāryam sa bāhya ābhyantaram manaḥ pracintya āvasatham kṛtsnam yasmin kāye avatiṣṭhate",
+    "english": "Residing within that mansion, the mind should then, with all its outward and inward (operations), behold in that particular room in which one may stay.",
+    "morphology": "tasmin_tad_SLM āvasathe_āvasatha_SLM dhāryam_dhṛ_SNNeGd sa_sa_U bāhya_bāhya_Cp ābhyantaram_ābhyantara_SNNe manaḥ_manas_SNNe pracintya_pracintay_Co āvasatham_āvasatha_SAM kṛtsnam_kṛtsna_SAM yasmin_yad_SLM kāye_kāya_SLM avatiṣṭhate_ava"
+  },
+  {
+    "index": 32873,
+    "sanskrit": "tena vidyādharāṃs tāṃs tān varān uddiśato bahūn / pitur vidhāraṇaṃ kṛtvā kanyaivādyāpy ahaṃ sthitā //",
+    "english": "For this reason, though my father has recommended to me many Vidyādhara suitors, I have rejected them all and remained unmarried to this day.",
+    "morphology": "tena_tena_ vidyādharān_vidyādhara_PAM tān_tad_PAM tān_tad_PAM varān_vara_PAM uddiśataḥ_uddiś_PAPaPrM bahūn_bahu_PAM  / pituḥ_pitṛ_SGM vidhāraṇam_vidhāraṇa_SANe kṛtvā_kṛ_Co kanyā_kanyā_SNF eva_eva_ adya_adya_ api_api_ aham_mad_SN"
+  },
+  {
+    "index": 32874,
+    "sanskrit": "yogaḥ ca agryaḥ pālane mānavānām",
+    "english": "Having achieved all that should be done for keeping foes under check and adopted all those foremost of means by which men may be protected.",
+    "morphology": "yogaḥ_yoga_SNM ca_ca_U"
+  },
+  {
+    "index": 32875,
+    "sanskrit": "rathaiḥ pavanasaṃpātair gajaiś ca jaladopamaiḥ / turagaiś ca javopetaiḥ pattibhiḥ khagamair iva //",
+    "english": "That army, consisting of cars and infuriated elephants, quick-coursing horses, and infantry resembling the sky-rangers, appeared like a collection of clouds descending on the ocean in the rains -.",
+    "morphology": "rathaiḥ_ratha_PIM pavana_pavana_Cp saṃpātaiḥ_sampāta_PIM gajaiḥ_gaja_PIM ca_ca_ jalada_jalada_Cp upamaiḥ_upama_PIM  / turagaiḥ_turaga_PIM ca_ca_ java_java_Cp upetaiḥ_upe_PIPaM pattibhiḥ_patti_PIM khagamaiḥ_khagama_PIM iva_iva_  /"
+  },
+  {
+    "index": 32876,
+    "sanskrit": "strīṇāṃ tu bhartṛśuśrūṣā dharmo nānyassanātanaḥ | mamārcanaṃ ca kalyāṇi niyogo bharturasti cet ||",
+    "english": "19. The duty prescribed for women is service to their own husbands. Nothing else is an eternal Dharma for them. O good woman, if the husband directs her she can worship me.",
+    "morphology": "strīṇām_strī_PGF tu_tu_ bhartṛ_bhartṛ_Cp śuśrūṣā_śuśrūṣā_SNF dharmaḥ_dharma_SNM na_na_ anyaḥ_anya_SNM sanātanaḥ_sanātana_SNM  / mama_mad_SG arcanam_arcana_SNNe ca_ca_ kalyāṇi_kalyāṇa_SVF niyogaḥ_niyoga_SNM bhartuḥ_bha"
+  },
+  {
+    "index": 32877,
+    "sanskrit": "na vai oṁ iti te tanvā tanvam sam papr̥cyām pāpam āhuḥ yaḥ svasāram ni gacchāt anyena mat pra mudaḥ kalpayasva na te bhrātā su bhage vaṣṭi etat",
+    "english": "I will not fold mine arms about thy body: they call it sin when one comes near his sister. Not me,– prepare thy pleasures with another: thy brother seeks not this from thee, O fair one.",
+    "morphology": "na_na_U vai_vai_U oṁ_oṃ_U iti_iti_U te_tvad_SG tanvā_tanū_SIF tanvam_tanū_SAF sam_sam_U papr̥cyām_pracch_SAFGd pāpam_pāpa_SAM āhuḥ_ah_PPs3In yaḥ_yad_SNM svasāram_svasṛ_SAF ni_ni_U gacchāt_gam_SPr3Su anyena_anya_SIM mat_mad_SB pra_pra_U "
+  },
+  {
+    "index": 32878,
+    "sanskrit": "piṃḍātadhūpadānena sadā tuṣyati bhānumān | ārogyaṃ ca svayaṃ dadyātsaukhyaṃ ca paramaṃ bhavet || 173 ||",
+    "english": "173. Bhānumān is always pleased with the offering of Piṇḍāta incense. He himself grants freedom from ailments. Thus there will be greatest happiness.",
+    "morphology": "piṃḍāta_piṇḍāta_Cp dhūpa_dhūpa_Cp dānena_dāna_SINe sadā_sadā_ tuṣyati_tuṣ_SPr3In bhānumān_bhānumant_SNM  / ārogyam_ārogya_SANe ca_ca_ svayam_svayam_ dadyāt_dā_SPr3O saukhyam_saukhya_SNNe ca_ca_ paramam_parama_SNNe bhavet_bhū_SPr"
+  },
+  {
+    "index": 32879,
+    "sanskrit": "pitta abhibhūte snehe tu mukhasya kaṭu tā bhavet",
+    "english": "Fever, a burning ; sensation (of the body), thirst, perspiration, a pungent taste in the mouth and yellowness of the complexion, urine and the eyes are the features which are due to the retention of the injected Sneha in the bowels overwhelmed by the action of the deranged Pitta.",
+    "morphology": "pitta_pitta_NeCp abhibhūte_abhibhū_SLPaPsM snehe_sneha_SLM tu_tu_U"
+  }
+]

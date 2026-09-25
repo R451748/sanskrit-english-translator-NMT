@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9544,
+    "sanskrit": "jātirūpalakṣaṇapramāṇaāgamamūlyanikṣepaiś caupalabheta //",
+    "english": "They shall also be examined now and then with reference to the class to which they belong, their forms, their characteristics, their size, their source, their value, and their total quantity",
+    "morphology": "jāti_jāti_Cp rūpa_rūpa_Cp lakṣaṇa_lakṣaṇa_Cp pramāṇa_pramāṇa_Cp āgama_āgama_Cp mūlya_mūlya_Cp nikṣepaiḥ_nikṣepa_PIM "
+  },
+  {
+    "index": 9545,
+    "sanskrit": "tathā itarān mahā iṣvāsān tribhiḥ tribhiḥ ajihmagaiḥ tāḍayām āsa samare siṃha vat ca nanāda ca",
+    "english": "And as regards the other great bowmen, he pierced each of them in that battle With three straight arrows, and then uttered a loud roar like that of a lion.",
+    "morphology": "tathā_tathā_U itarān_itara_PAM mahā_mahat_Cp iṣvāsān_iṣvāsa_PAM tribhiḥ_tri_PIM tribhiḥ_tri_PIM ajihmagaiḥ_ajihmaga_PIM tāḍayām_tāḍay_SPs3In āsa_as_SPs3In samare_samara_SLNe siṃha_siṃha_MCp vat_vat_U ca_ca_U nanāda_nad_SPs3In "
+  },
+  {
+    "index": 9546,
+    "sanskrit": "tatas tu nāgarāḥ sarve musalaiḥ yaṣṭi pāṇayaḥ abhyavarṣanta kauravyān varṣamāṇāḥ ghanāḥ iva",
+    "english": "Then all the citizens showered upon the Kurus various missiles like clouds showering rain-drops upon the earth.",
+    "morphology": "tatas_tatas_U tu_tu_U nāgarāḥ_nāgara_PNM sarve_sarva_PNM musalaiḥ_musala_PIM yaṣṭi_yaṣṭi_FCp pāṇayaḥ_pāṇi_PNM abhyavarṣanta_abhivṛṣ_PPs3In kauravyān_kauravya_PAM varṣamāṇāḥ_vṛṣ_PNPaPrM ghanāḥ_ghana_PNM iva_iva_U"
+  },
+  {
+    "index": 9547,
+    "sanskrit": "śrīvasiṣṭha uvāca / pūrvameva mayā proktaṃ rāma kiṃ nāvabudhyase / pūvāparavicārārhā śemuṣī kva gatā tava //",
+    "english": "Vasishtha replied:—Why don't you know it Rama, when I have explained it to you before? Where have you lost your deductive reasoning of arriving to the conclusion from those premises.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / pūrvam_pūrvam_ eva_eva_ mayā_mad_SI proktam_pravac_SNPaNe rāma_rāma_SVM kim_ka_SANe na_na_ avabudhyase_avabudh_SPr2In  / pūva_pūva_Cp apara_apara_Cp vicāra_vicāra_Cp arhā_arha_S"
+  },
+  {
+    "index": 9548,
+    "sanskrit": "yam tu imam dharmam iti āhuḥ dhanāt eṣa pravartate",
+    "english": "That, however, which has been called the religion of royalty depends entirely on wealth.",
+    "morphology": "yam_yad_SAM tu_tu_U imam_idam_SAM dharmam_dharma_SAM iti_iti_U āhuḥ_ah_PPs3In dhanāt_dhana_SBNe eṣa_etad_SNM"
+  },
+  {
+    "index": 9549,
+    "sanskrit": "kasyacittvatha kālasya tena vittamupārjitam | dūrātkṛcchreṇa ca stokaṃ jagṛhe goyugaṃ tataḥ || 4 ||",
+    "english": "4. In course of time, he earned some money through that. Then once, he was carrying a pair of cows back home with great difficulty and with the little money that he made for that day.",
+    "morphology": "kasyacid_kaścit_SGM tu_tu_ atha_atha_ kālasya_kāla_SGM tena_tad_SIM vittam_vitta_SNNe upārjitam_upārjay_SNPaNe  / dūrāt_dūrāt_ kṛcchreṇa_kṛcchra_SINe ca_ca_ stokam_stoka_SAM jagṛhe_grah_SPs3In go_go_Cp yugam_yuga_SANe tatas_tatas_"
+  },
+  {
+    "index": 9550,
+    "sanskrit": "kapaṭe vijayam śakyam anyathā jetum akṣamaḥ",
+    "english": "I am skillful at dice.",
+    "morphology": "kapaṭe_kapaṭa_SLM"
+  },
+  {
+    "index": 9551,
+    "sanskrit": "kathaṃ punar idaṃ pratyetavyam anenābhiprāyeṇa bhagavatā rūpādyāyatanāstitvam uktaṃ na punaḥ santy eva tāni yāni rūpādivijñaptīnāṃ pratyekaṃ viṣayībhavanti iti / yasmāt /",
+    "english": "But how is it to be understood that the existence of the sensefields of visibles, etc. was spoken of by the Exalted One not because those things which singly become sense-objects of the perceptions of visibles, etc. really exist, but rather with a hidden intention?",
+    "morphology": "katham_katham_ punar_punar_ idam_idam_SNNe pratyetavyam_pratī_SNNeGd anena_idam_SIM abhiprāyeṇa_abhiprāya_SIM bhagavatā_bhagavant_SIM rūpa_rūpa_Cp ādi_ādi_Cp āyatana_āyatana_Cp astitvam_astitva_SNNe uktam_vac_SNPaNe na_na_ punar_punar_ santi_as"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20328,
+    "sanskrit": "sukham vātam praseveta grīṣme śaradi mānavaḥ",
+    "english": "The gentle breeze of summer and of autumn should be breathed (as it is attended with beneficial results to the health).",
+    "morphology": "sukham_sukha_SAM"
+  },
+  {
+    "index": 20329,
+    "sanskrit": "iti vijñāya deveśa na bhayaṃ kartumarhasi | śaṃkara śaraṇaṃ yāvassa sadyaśśaṃvidhāsyati ||",
+    "english": "57. O lord of gods, knowing this you need not have any fear. Let us seek refuge in Śiva. He will do everything conducive to our good.",
+    "morphology": "iti_iti_ vijñāya_vijñā_Co deveśa_deveśa_SVM na_na_ bhayam_bhaya_SANe kartum_kṛ_In arhasi_arh_SPr2In  / śaṃkara_śaṃkara_SVM śaraṇam_śaraṇa_SANe yāvaḥ_yā_DuPr1In sa_tad_SNM sadyas_sadyas_ śam_śam_SANe vidhāsyati_vidhā_SFu3In"
+  },
+  {
+    "index": 20330,
+    "sanskrit": "sneham auṣadha sāram ca paṭṭaḥ patra antarīkṛtaḥ",
+    "english": "Only those leaves which are not rough, nor putrid, nor old and decomposed, nor worm-eaten and which are soft and tender should, be used for purposes of Patradana.[16] The rationale of such a procedure (Patra-vandha) is that the leaves tied by an intelligent physician in the manner above indicated serve to generate heat or cold and retain the liniment or medicated oil in their seat of application.",
+    "morphology": "snehaḥ_sneha_SNM auṣadha_auṣadha_NeCp sāram_sāra_SNNe"
+  },
+  {
+    "index": 20331,
+    "sanskrit": "āpadyapi hi ghorāyāṃ kāśī tyājyā na kutracit | yataḥ sarvāpadāṃhartā trātā viśvapatiḥ prabhuḥ || 47 ||",
+    "english": "47. Even at the time of terrible disaster Kāśī should never be abandoned, because Lord Viśvapati is the protector (of devotees) and the remover of their adversities.",
+    "morphology": "āpadi_āpad_SLF api_api_ hi_hi_ ghorāyām_ghora_SLF kāśī_kāśin_SNM tyājyāḥ_tyaj_PNMGd na_na_ kutracid_kutracid_  / yatas_yatas_ sarva_sarva_Cp āpadām_āpad_PGF hartā_hartṛ_SNM trātā_trātṛ_SNM viśvapatiḥ_viśvapati_SNM prabhuḥ_prab"
+  },
+  {
+    "index": 20332,
+    "sanskrit": "tāḍayet ca sirāḥ kṣipram tasya śākhā lalāṭa jāḥ",
+    "english": "The veins of his forehead and of the extremities should be instantly opened.",
+    "morphology": "tāḥ_tāḥ_PAF ha_ha_U __kṣipram_U __tad_PANe"
+  },
+  {
+    "index": 20333,
+    "sanskrit": "kṛtodvāho gṛhītvā ca vyājahaṃsāvalīṃ drutam / māyākanakamañjaryāśokakaryā yutāṃ satām // adyaiva śubhanakṣatravaśātsvakaṭakaṃ prati / tena pratyakpurīdvāramārgeṇa prayayau tataḥ //",
+    "english": "And the moment the marriage was over, the prince set out for his own camp at full speed by that same western gate of the city, in order to gain the benefit of propitious constellations, and he took with him the supposed Haṃsavalī, together with Aśokakarī, who was personating Kanakamañjarī.",
+    "morphology": "kṛta_kṛ_PaCp udvāhaḥ_udvāha_SNM gṛhītvā_grah_Co ca_ca_ vyājahaṃsa_vyājahaṃsa_Cp āvalīm_āvali_SAF drutam_dru_SAPaNe  / māyā_māyā_Cp kanaka_kanaka_Cp mañjaryā_mañjarī_SIF aśoka_aśoka_Cp karyā_kara_SIF yutām_yuta_SAF satām_sa"
+  },
+  {
+    "index": 20334,
+    "sanskrit": "rudrāya ghṛtasiddhānnaṃ vāyukoṇādhare pade // tadadho rudradāsāya māsaṃ mārgamathottare /",
+    "english": "Rice cooked with ghee should be offered to lord Rudra at the square below the angular point in the northwest. Meat should be offered to the servant of Rudra below that.",
+    "morphology": "rudrāya_rudra_SDM ghṛta_ghṛta_Cp siddha_sidh_PaCp annam_anna_SANe vāyu_vāyu_Cp koṇa_koṇa_Cp adhare_adhara_SLM pade_pada_SLM  // tad_tad_Cp adhas_adhas_ rudra_rudra_Cp dāsāya_dāsa_SDM māsam_māsa_SAM mārgam_mārga_SAM atha_atha_ uttare_uttar"
+  },
+  {
+    "index": 20335,
+    "sanskrit": "kalādhara uvāca | kāṃbojeṣu hayo bhūtvā kāṃtiśālī suhṛnmama | ayāsīdaupavāhyatvaṃ bhavato rājapuṃgava || 1 ||",
+    "english": "Kalādhara narrated: 1. Kāntiśālī, my friend, was born as a horse in Kāṃboja. O great King; he attained the state of being your vehicle.",
+    "morphology": "kalādharaḥ_kalādhara_SNM uvāca_vac_SPs3In  / kāṃbojeṣu_kāmboja_PLM hayaḥ_haya_SNM bhūtvā_bhū_Co kāṃti_kānti_Cp śālī_śālin_SNM suhṛd_suhṛd_SNM mama_mad_SG  / ayāsīt_yā_SPs3InFs"
+  }
+]

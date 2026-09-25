@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47600,
+    "sanskrit": "viprebhyaḥ kṛpaṇebhyaś ca dadau dānaṃ śatadvayam / evaṃ vibheje pañcāpi tāni nityaṃ śatāny asau //",
+    "english": "This was the distribution which he made of the five hundred every day.",
+    "morphology": "viprebhyaḥ_vipra_PDM kṛpaṇebhyaḥ_kṛpaṇa_PDM ca_ca_ dadau_dā_SPs3In dānam_dāna_SANe śata_śata_Cp dvayam_dvaya_SANe  / evam_evam_ vibheje_vibhaj_SPs3In pañca_pañcan_PANe api_api_ tāni_tad_PANe nityam_nityam_ śatāni_śata_PANe asau_adas_"
+  },
+  {
+    "index": 47601,
+    "sanskrit": "puṇḍarīkeṇa sadṛśam hṛdayam syāt adhomukham jāgrataḥ tat hi kasati svapataḥ ca nimīlati",
+    "english": "The heart which is of the shape of a lotus bud hangs with its apex downward, folding itself up during sleep and expanding with the return of wakening or consciousness.",
+    "morphology": "puṇḍarīkeṇa_puṇḍarīka_SINe sadṛśam_sadṛśa_SNNe hṛdayam_hṛdaya_SNNe syāt_as_SPr3O adhomukham_adhomukha_SNNe jāgrataḥ_jāgṛ_SGPaPrM tat_tad_SNNe hi_hi_U"
+  },
+  {
+    "index": 47602,
+    "sanskrit": "teṣām anugraheṇa adya rājan prakṣālaya ātmanaḥ",
+    "english": "Wash thyself of it now, by a kindly behaviour towards the Pandavas.",
+    "morphology": "teṣām_tad_PGM anugraheṇa_anugraha_SIM"
+  },
+  {
+    "index": 47603,
+    "sanskrit": "tasmād yāvantaḥ svargotpattihetavaḥ tair arjitena dhanena yāgādayaḥ kartavyāḥ /",
+    "english": "Hence it follows that, even with the help of such wealth, sacrifices, etc, shall be performed till Heaven has been attained.",
+    "morphology": "tasmāt_tasmāt_ yāvantaḥ_yāvat_PNM svarga_svarga_Cp utpatti_utpatti_Cp hetavaḥ_hetu_PNM taiḥ_tad_PIM arjitena_arjay_SIPaNe dhanena_dhana_SINe yāga_yāga_Cp ādayaḥ_ādi_PNM kartavyāḥ_kṛ_PNMGd"
+  },
+  {
+    "index": 47604,
+    "sanskrit": "tatas cira gatān bhrātṝn atha jñātum yudhiṣṭhiraḥ",
+    "english": "Then thinking that his brothers had left him long since, Yudhishthira waited for some time.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 47605,
+    "sanskrit": "varṣāt trayodaśāt ūrdhvam raṇa satre narādhipaḥ yadā krodha haviḥ moktā dhārtarāṣṭreṣu pāṇḍavaḥ āgantāraḥ tadā sma iti vācyaḥ te sa suyodhanaḥ",
+    "english": "'When after the expiration of the thirteenth year, that lord of men, the Pandava, will, in the sacrifice of battle, pour upon the Dhritarashtras, the clarified butter of his ire, then will I come!' But the other Pandavas, O king, did not say anything unpleasant.",
+    "morphology": "varṣāt_varṣa_SBM trayodaśāt_trayodaśa_SBM ūrdhvam_ūrdhvam_U raṇa_raṇa_MCp satre_sattra_SLNe narādhipaḥ_narādhipa_SNM yadā_yadā_U krodha_krodha_MCp haviḥ_havis_SANe moktā_muc_SFu3In dhārtarāṣṭreṣu_dhārtarāṣṭra_PLM pāṇ"
+  },
+  {
+    "index": 47606,
+    "sanskrit": "apaśyat saumya bhāvam ca sūryasya pratidarśanam",
+    "english": "Indeed, in consequence of his agreeable disposition, he began to look as handsome and delightful as Soma himself.",
+    "morphology": "apaśyat_paś_SPs3In"
+  },
+  {
+    "index": 47607,
+    "sanskrit": "putrastu pitaraṃ dveṣṭi pitā putraṃ tathaiva ca | haṃti bhāryā svabhartāraṃ bhartā ca svāṃ priyāṃ tathā || 13 || mātaraṃ svasuto haṃti mātā putraṃ hinasti ca | tato vairavinirbaṃdhaḥ saṃjātaḥ svarṇakāraṇāt || 14 ||",
+    "english": "Son became inimical to father and a vice versa. Wife struck down husband and husband his own beloved. Son hit mother and mother injured son. On account of the gold there arose the persistence of enmity.",
+    "morphology": "putraḥ_putra_SNM tu_tu_ pitaram_pitṛ_SAM dveṣṭi_dviṣ_SPr3In pitā_pitṛ_SNM putram_putra_SAM tathā_tathā_ eva_eva_ ca_ca_  / hanti_han_SPr3In bhāryā_bhāryā_SNF sva_sva_Cp bhartāram_bhartṛ_SAM bhartā_bhartṛ_SNM ca_ca_ svām_sva_SAF pr"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6184,
+    "sanskrit": "nemim namanti cakṣasā meṣam viprāḥ abhi svarā su dītayaḥ vaḥ adruhaḥ api karṇe tarasvinaḥ sam r̥kva bhiḥ",
+    "english": "The holy sages form a ring, looking and singing to the Ram. Inciters, full of vigour, not to be deceived, are with the chanters, nigh to hear.",
+    "morphology": "nemim_nemi_SAM namanti_nam_PPr3In cakṣasā_cakṣas_SINe meṣam_meṣa_SAM viprāḥ_vipra_PNM abhi_abhi_U svarā_svar_SPr2Im su_su_U dītayaḥ_dīti_PVM vaḥ_tvad_PG adruhaḥ_adruh_PVM api_api_U karṇe_karṇa_SLM tarasvinaḥ_tarasvin_PVM sam_sam_"
+  },
+  {
+    "index": 6185,
+    "sanskrit": "eṣāanulomā,",
+    "english": "This is following the order of the means",
+    "morphology": "__etad_U"
+  },
+  {
+    "index": 6186,
+    "sanskrit": "indradyumna uvāca | aṃtaryāminhi bhagavaṃstvadajñātaṃ kuto bhavet | tathāpi praśno yo nātha mayyanukrośa eva saḥ || 22 ||",
+    "english": "Indradyumna replied: 22-29. You are the Immanent Soul, O Lord. How can there be anything not known to you? Still the question put by you, O Lord, indicates your compassion for me.",
+    "morphology": "indradyumnaḥ_indradyumna_SNM uvāca_vac_SPs3In  / antaryāmin_antaryāmin_SVM hi_hi_ bhagavan_bhagavat_SVM tvad_tvad_Cp ajñātam_ajñāta_SNNe kutas_kutas_ bhavet_bhū_SPr3O  / tathā_tathā_ api_api_ praśnaḥ_praśna_SNM yaḥ_yad_SNM nātha_nātha_S"
+  },
+  {
+    "index": 6187,
+    "sanskrit": "pārthāḥ droṇam vadhiṣyanti dhṛṣṭadyumna purogamāḥ keśavasya vacaḥ śrutvā bībhatsuḥ api rākṣasam abhyabhāṣata kauravya ghaṭotkacam ariṃdamam",
+    "english": "The Parthas, with Dhrishtadyumna, will dispose of Drona.' \"Sanjaya continued, 'Hearing those words of Kesava, Vibhatsu also, O Kauravya, said these words unto that chastiser of foes, viz., the Rakshasa Ghatotkacha, 'O Ghatotkacha, thyself, the long-armed Satyaki, and Bhimasena, the son of Pandu, these three, in my judgment, are the foremost ones among all our warriors.",
+    "morphology": "pārthāḥ_pārtha_PNM droṇam_droṇa_SAM vadhiṣyanti_vadh_PFu3In dhṛṣṭadyumna_dhṛṣṭadyumna_MCp purogamāḥ_purogama_PNM keśavasya_keśava_SGM vacaḥ_vacas_SANe śrutvā_śru_Co bībhatsuḥ_bībhatsu_SNM api_api_U rākṣasam_rākṣas"
+  },
+  {
+    "index": 6188,
+    "sanskrit": "piśita īpsuḥ kṣudhā ārtaḥ tān apaśyata yadṛcchayā",
+    "english": "He was then hungry and longing for human flesh.",
+    "morphology": "piśita_piśita_NeCp īpsuḥ_īpsu_SNM kṣudhā_kṣudh_SIF ārtaḥ_ārta_SNM tān_tad_PAM apaśyata_paś_SPs3In"
+  },
+  {
+    "index": 6189,
+    "sanskrit": "kasmād ity āha prāgbhūta ityādi /",
+    "english": "“How so?” If the said thing, etc.;",
+    "morphology": "kasmāt_kasmāt_"
+  },
+  {
+    "index": 6190,
+    "sanskrit": "sāgamena tu bhogena bhuktaṃ samyag yadā tu yat /",
+    "english": "What has been possessed in order and with a legitimate title (such as purchase, donation, and the like), the possessor may keep;",
+    "morphology": "sa_sa_ āgamena_āgama_SIM tu_tu_ bhogena_bhoga_SIM bhuktam_bhuj_SNPaNe samyak_samyak_ yadā_yadā_ tu_tu_ yat_yad_SNNe  /"
+  },
+  {
+    "index": 6191,
+    "sanskrit": "upāsmai gāyatā naraḥ pavamānāyendave / abhi devāṃ iyakṣate //",
+    "english": "Sing ye your songs to him, O men!",
+    "morphology": "upa_upa_ asmai_idam_SDM gāyata_gā_PPr2Im naraḥ_nṛ_PVM pavamānāya_pū_SDPaPrM indave_indu_SDM  / abhi_abhi_ devāḥ_deva_PAF"
+  }
+]

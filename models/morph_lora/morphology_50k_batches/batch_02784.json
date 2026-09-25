@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22264,
+    "sanskrit": "tasya śākho viśākhaś ca naigameṣaś ca pṛṣṭhajaḥ /",
+    "english": "His names are Shakha, Vishakha, Naigameya and Prishthaja.",
+    "morphology": "tasya_tad_SGM śākhaḥ_śākha_SNM viśākhaḥ_viśākha_SNM ca_ca_ naigameṣaḥ_naigameṣa_SNM ca_ca_ pṛḥ_pṛḥ_SNM"
+  },
+  {
+    "index": 22265,
+    "sanskrit": "devyuvāca | kathaṃ viṣṭaṃbhitastena bhagavānpākaśāsanaḥ | kimarthaṃ bhārgavaścāpi kopaṃ cakre mahātapāḥ || 6 ||",
+    "english": "The Devī said: 6. How was Lord Pākaśāsana (Indra) paralysed and rendered motionless by him. Wherefore did Bhārgava of great austerities become angry?",
+    "morphology": "devī_devī_SNF uvāca_vac_SPs3In  / katham_katham_ viṣṭaṃbhitaḥ_viṣṭambhay_SNPaM tena_tad_SIM bhagavān_bhagavat_SNM pākaśāsanaḥ_pākaśāsana_SNM  / kimartham_kimartham_ bhārgavaḥ_bhārgava_SNM ca_ca_ api_api_ kopam_kopa_SAM cakre_k"
+  },
+  {
+    "index": 22266,
+    "sanskrit": "varmabhiḥ vinikṛttaiḥ ca prāsaiḥ chinnaiḥ ca māriṣa ṛṣṭibhiḥ śaktibhiḥ ca eva tomaraiḥ ca paraṃtapa saṃchannā pṛthivī jajñe kusumaiḥ śabalā iva",
+    "english": "Covered with steeds slain with their riders, with broken shields and lances, O monarch, and with swords and darts and spears all around, the Earth looked variegated as if strewn with flowers.",
+    "morphology": "varmabhiḥ_varman_PINe vinikṛttaiḥ_vinikṛt_PIPaPsNe ca_ca_U prāsaiḥ_prāsa_PIM chinnaiḥ_chid_PIPaPsM ca_ca_U māriṣa_māriṣa_MCp ṛṣṭibhiḥ_ṛṣṭi_PIF śaktibhiḥ_śakti_PIF ca_ca_U eva_eva_U tomaraiḥ_tomara_PIM ca_ca_U paraṃ"
+  },
+  {
+    "index": 22267,
+    "sanskrit": "tatas pāñcāla rājaḥ tu tathā satyajitā saha",
+    "english": "Then the king of the Panchalas, accompanied by (the generalissimo of his forces) Satyajit, rushed with speed at Arjuna like the Asura Samvara rushing at the chief of the celestials (in days of yore).",
+    "morphology": "tataḥ_ṛṣṭaḥ_ṛṣṭa_SNM"
+  },
+  {
+    "index": 22268,
+    "sanskrit": "mātrābhirbhedayitvā tu dīrghāṇyaṅgāni bhedayet /",
+    "english": "It should be split into syllables. The longer vowels should be split.",
+    "morphology": "mātrābhiḥ_mātrā_PIF bhedayitvā_bheday_Co tu_tu_ dīrghāḥ_dīrgha_PANe"
+  },
+  {
+    "index": 22269,
+    "sanskrit": "tad dhi indriyārthasannikarṣeṇa liṅgabhūtena janyate deśāntaraprāpty eva tapanagamanānumānam iti katham anena padenānumānam apākriyate naitad evam indriyeṇa svaviṣayasannikṛṣṭena satā tatraiva yad vijñānam utpadyate tat indriyārthasannikarṣotpannam iha brūmahe /",
+    "english": "An invariable mark which determines inference is, in this case, the sense-object- contact. Likewise we infer the motion of the sun by means of sun's contract with the different parts of the horizon. How does the adjective-clause 'arising from the sense-object-contact distinguish perception from inference?\" We solve this problem thus. The above-mentioned clause suggests that the sense-organ coming in contact with the object produces perceptual know- ledge.",
+    "morphology": "tat_tad_SNNe hi_hi_ indriya_indriya_Cp artha_artha_Cp sannikarṣeṇa_saṃnikarṣa_SIM liṅga_liṅga_Cp bhūtena_bhū_SIPaM janyate_jan_SPr3InPv deśa_deśa_Cp antara_antara_Cp prāptī_prāpti_SIF eva_eva_ tapana_tapana_Cp gamana_gamana_Cp anumānam_"
+  },
+  {
+    "index": 22270,
+    "sanskrit": "malayagaṃdhinyuvāca | atyudāramate vīra nijaprāṇaiḥ paṇīkṛtām | kiṃ māṃ pṛcchasi yuvatīṃ kulakanyāmadūṣitām || 13 ||",
+    "english": "What is it that you ask me, a youthful virgin for whom you staked your life? I belong to a noble family and I have not been defiled.",
+    "morphology": "malayagaṃdhinī_malayagaṃdhinī_SNF uvāca_vac_SPs3In  / ati_ati_ udāra_udāra_Cp mate_mati_SVM vīra_vīra_SVM nija_nija_Cp prāṇaiḥ_prāṇa_PIM paṇīkṛtām_paṇīkṛ_SAPaF  / kim_ka_SANe mām_mad_SA pṛcchasi_pracch_SPr2In yuvatīm_yuvat"
+  },
+  {
+    "index": 22271,
+    "sanskrit": "asura pakṣaḥ vardhate vayam kṣīyāmaḥ",
+    "english": "The Asuras are being aggrandised, while we are being weakened.",
+    "morphology": "asura_asura_MCp"
+  }
+]

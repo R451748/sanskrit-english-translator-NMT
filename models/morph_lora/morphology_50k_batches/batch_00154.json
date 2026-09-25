@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1224,
+    "sanskrit": "athainamataḥ pariṣiścati /",
+    "english": "He then sprinkles him (Agni-Rudra, the fire-altar).",
+    "morphology": "atha_atha_ enam_enad_SAM atas_atas_"
+  },
+  {
+    "index": 1225,
+    "sanskrit": "antarevākhilaṃ kaścitpaśyatyavimalaṃ jagat / tatrātikālakalanādunmajjati nimajjati //",
+    "english": "Some men view the whole gross world within the body, instead of the all pervading intellect of Brahma; as Viswarupa, and these being hardened by long habit of thinking so, are plunged in the gulph of error.",
+    "morphology": "antar_antar_ eva_eva_ akhilam_akhila_SANe kaścid_kaścit_SNM paśyati_paś_SPr3In avimalam_avimala_SANe jagat_jagant_SANe  / tatra_tatra_ ati_ati_ kāla_kāla_Cp kalanāt_kalana_SBNe unmajjati_unmajj_SPr3In nimajjati_nimajj_SPr3In  /"
+  },
+  {
+    "index": 1226,
+    "sanskrit": "priyāyās tatra śṛìgāraṃ cakāra kuśaleśvaraḥ patrāvalī yāvakāgraiḥ puṣpaiḥ kajjala kuìkumaiḥ",
+    "english": "There Lord Kṛṣṇa, the master of all skillful artists, decorated His beloved with many pictures and designs drawn with colors made from flowers, yāvaka, kajjala, and kuìkuma.",
+    "morphology": "priyāyāḥ_priyā_SGF tatra_tatra_ śṛìgāram_śṛñgāra_SAM cakāra_kṛ_SPs3In kuśala_kuśala_Cp īśvaraḥ_īśvara_SNM patra_pattra_Cp āvalī_āvali_SNF yāvaka_yāvaka_Cp agraiḥ_agra_PINe puṣpaiḥ_puṣpa_PINe kuñkumaiḥ_kuñkuma_PINe"
+  },
+  {
+    "index": 1227,
+    "sanskrit": "ekatri pañcaṣaṭtriṃśatbhedāttāttvaścaturvidhaḥ | pañcaikabhedāccādhvānastathaivāṇḍacatuṣṭayam |",
+    "english": "b Initiation in essence is of four kinds numbering one, three, five and thirty- six while the paths adhvan are six and so is the group of four circles anda.",
+    "morphology": "eka_eka_Cp tri_tri_Cp pañca_pañcan_Cp ṣaṭtriṃśat_ṣaṭtriṃśat_Cp bhedāt_bheda_SBM tāttvaḥ_tāttva_SNM caturvidhaḥ_caturvidha_SNM  / pañca_pañcan_Cp eka_eka_Cp bhedāt_bheda_SBM ca_ca_ adhvānaḥ_adhvan_PNM tathā_tathā_ eva_eva_ a"
+  },
+  {
+    "index": 1228,
+    "sanskrit": "suvarṇa mālinaḥ yūpāḥ cityāḥ ca api ati bhāsvarāḥ dadau yatra sahasrāṇi prayutāni ca keśavaḥ",
+    "english": "There were placed by Keshava thousands and tens of thousands of sacrificial stakes adorned with golden garlands and altars of great splendour.",
+    "morphology": "suvarṇa_suvarṇa_NeCp mālinaḥ_mālin_PNM yūpāḥ_yūpa_PNM cityāḥ_cityā_PNF ca_ca_U api_api_U ati_ati_U bhāsvarāḥ_bhāsvara_PNF dadau_dā_SPs3In yatra_yatra_U sahasrāṇi_sahasra_PANe prayutāni_prayuta_PANe ca_ca_U keśavaḥ_keśava_SNM"
+  },
+  {
+    "index": 1229,
+    "sanskrit": "aśubhaḥ sūryakumbhaḥ syācchubhaḥ pūrvādisaṃsthitaḥ /",
+    "english": "The pitcher of the Sun exerts malignant influence and the pitchers in the east and other directions benevolent influence.",
+    "morphology": "aśubhaḥ_aśubha_SNM sūrya_sūrya_Cp kumbhaḥ_kumbha_SNM syāt_as_SPr3O śubhaḥ_śubha_SNM pūrva_pūrva_Cp ādi_ādi_Cp saṃsthitaḥ_saṃsthā_SNPaM  /"
+  },
+  {
+    "index": 1230,
+    "sanskrit": "tatas tu śilpinaḥ sarve amātya pravarāḥ ca ha viduraḥ ca mahā prājñaḥ dhārtarāṣṭre nyavedayat",
+    "english": "And, O best of kings, all that had been commanded to be done, was gradually executed.\" SECTION CCLIV Vaisampayana continued, \"Then all the artisans, the principal counsellors, and the highly wise Vidura said unto Dhritarashtra's son, \"All the preparations for the excellent sacrifice have been made, O king;",
+    "morphology": "tatas_tatas_U tu_tu_U śilpinaḥ_śilpin_PNM sarve_sarva_PNM amātya_amātya_MCp pravarāḥ_pravara_PNM ca_ca_U ha_ha_U viduraḥ_vidura_SNM ca_ca_U mahā_mahat_Cp prājñaḥ_prājña_SNM dhārtarāṣṭre_dhārtarāṣṭra_SLM nyavedayat_niveday_SPs3"
+  },
+  {
+    "index": 1231,
+    "sanskrit": "kṣīṇasaptāṣṭadoṣāṃśa ekajanmaikavīcikaḥ /",
+    "english": "This abider in the state of Sakr̥dāgāmin, having destroyed seven or eight categories, and destined for one rebirth, is an Ekavīcika;",
+    "morphology": "kṣīṇa_kṣi_PaCp sapta_saptan_Cp aṣṭa_aṣṭan_Cp doṣa_doṣa_Cp aṃśaḥ_aṃśa_SNM eka_eka_Cp janma_janman_Cp ekavīcikaḥ_ekavīcika_SNM  /"
+  }
+]

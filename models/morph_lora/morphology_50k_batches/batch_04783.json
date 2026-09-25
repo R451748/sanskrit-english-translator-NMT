@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38256,
+    "sanskrit": "etatte sarvamākhyātaṃ yanmāṃ tvaṃ paripṛcchasi | māhātmyaṃ ca sarasvatyā bhūyaḥ kiṃ śrotumicchasi || 46 ||",
+    "english": "46. Thus everything has been spoken to you, whatever you asked me. What more do you wish to hear regarding the greatness of Sarasvatī?[Sanskrit text for this chapter is available]",
+    "morphology": "etat_etad_SNNe te_tvad_SD sarvam_sarva_SNNe ākhyātam_ākhyā_SNPaNe yat_yad_SANe mām_mad_SA tvam_tvad_SN paripṛcchasi_paripracch_SPr2In  / māhātmyam_māhātmya_SANe ca_ca_ sarasvatyāḥ_sarasvatī_SGF bhūyas_bhūyas_ kim_ka_SANe śrotum_śru_In ic"
+  },
+  {
+    "index": 38257,
+    "sanskrit": "sākāramanyathāvṛttaṃ manye sūtram idaṃ kṛtam //",
+    "english": "for the latter purpose an additional ‘a’ (‘not’) being read (before ‘liṅgam’, ‘indicative Such is the sense of the Text as a whole.",
+    "morphology": "sa_sa_ ākāram_ākāra_SANe anyathā_anyathā_ vṛttam_vṛt_SAPaNe manye_man_SPr1In sūtram_sūtra_SANe idam_idam_SANe kṛtam_kṛ_SAPaNe  /"
+  },
+  {
+    "index": 38258,
+    "sanskrit": "yadi jāteḥ paripraśnaḥ syātkatamā katamargityādāvupasaṃkhyānaṃ kartavyaṃ syādvimṛṣṭaṃ bhavati vimarśaḥ kṛto bhavati //",
+    "english": "so that the objection has no force If the question raised were one of the genus, then, in that case, it would be necessary to find out some other rule justifying the term in the present text, which, being Vedic, cannot be rejected as wrong",
+    "morphology": "yadi_yadi_ jāteḥ_jāti_SGF paripraśnaḥ_paripraśna_SNM syāt_as_SPr3O katamā_katama_SNF katamark_katamark_ ityādau_ityādi_SLM upasaṃkhyānam_upasaṃkhyāna_SNNe kartavyam_kṛ_SNNeGd syāt_as_SPr3O vimṛṣṭam_vimṛś_SNPaNe bhavati_bhū_SP"
+  },
+  {
+    "index": 38259,
+    "sanskrit": "kāmīva dayitā yena sakṛdbhāvas tayor bhavet //",
+    "english": "The answer to this is provided in the following [see verses 516-517 above]",
+    "morphology": "kāmī_kāmin_SNM iva_iva_ dayitā_dayitā_SNF yena_yad_SIM sakṛdbhāvaḥ_sakṛdbhāva_SNM"
+  },
+  {
+    "index": 38260,
+    "sanskrit": "asāvi soma indra te śaviṣṭha dhṛṣṇav ā gahi |",
+    "english": "to Indra of the Sodaçin thee! The Soma hath been pressed for thee O Indra;",
+    "morphology": "asāvi_su_SPs3InPv somaḥ_soma_SNM indra_indra_SVM te_tvad_SG śaviṣṭha_śaviṣṭha_SVM dhṛṣṇo_dhṛṣṇu_SVM ā_ā_ gaṇaḥ_gaṇa_SNM"
+  },
+  {
+    "index": 38261,
+    "sanskrit": "saṃsārānucitamananukūlaṃ jñānaṃ yeṣāṃ te tathoktāḥ // kāḥ punas tāstadādhipatyabhāvinyo deśanāḥ śūyanta ity āha prakṛtyā bhāsvara ityādi /",
+    "english": "‘Saṃsāra, etc.’ i.e. whose knowledge is not conducive to Births and Rebirths. Question: “What are those Teachings that were promulgated under Their guidance?”",
+    "morphology": "saṃsāra_saṃsāra_Cp anucitam_anucita_SNNe ananukūlam_ananukūla_SNNe jñānam_jñāna_SNNe yeṣām_yad_PGM te_tad_PNM tathā_tathā_ uktāḥ_vac_PNPaM  / kāḥ_ka_PNF punar_punar_ tāḥ_tad_PNF tad_tad_Cp ādhipatya_ādhipatya_Cp bhāvinyaḥ_bh"
+  },
+  {
+    "index": 38262,
+    "sanskrit": "tāḥ deva sainyāni adahan veṣṭamānāni bhū tale",
+    "english": "And these flames destroyed the celestial forces struggling on the ground.",
+    "morphology": "tāḥ_tad_PNF deva_deva_MCp sainyāni_sainya_PANe adahan_dah_PPs3In veṣṭānā_veṣṭ_PNPaPrNe"
+  },
+  {
+    "index": 38263,
+    "sanskrit": "liṅgamiti vyañjanasyākhyā yena strīpuruṣau liṅgyete / liṅgato hi bhikṣubhikṣuṇyādīnāṃ nāmasaṃcāro bhavati / kathaṃ kṛtvā /",
+    "english": "Liṅga is yyañjana, that which distinguishes men and women.",
+    "morphology": "liṅgam_liṅga_SNNe iti_iti_ vyañjanasya_vyañjana_SGNe ākhyā_ākhyā_SNF yena_yad_SINe strī_strī_Cp puruṣau_puruṣa_DuNM liṅgyete_liṅgay_DuPr3InPv  / liṅgataḥ_liṅga_SBNe hi_hi_ bhikṣu_bhikṣu_Cp bhikṣuṇī_bhikṣuṇī_Cp ādīn"
+  }
+]

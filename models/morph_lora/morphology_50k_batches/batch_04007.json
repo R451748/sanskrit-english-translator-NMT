@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32048,
+    "sanskrit": "paccabhiḥ pañcabhiḥ saha vicāre karttavye yadekekena saha kriyate tahādhitabādhyasya bādhakabādhakena bādhasya sujñānatvādyāni hi śrutibādhyainiṅgādibhirvādhyante tāni śrutvā bādhyantetarā miti na tathā saha saṃpradhārayiṣyante /",
+    "english": "Then again, though as in due form it should have been necessary to compare one out of these six with the other five, yet we compare each of them with one only out of the rest, because that which is suppressed by one thing is naturally taken as suppressed by that which suppresses this latter thing, its suppressor. For instance, thoseContext,etc. that are suppressed by Indicative Power, are certainly suppressed by Direct Assertion, which suppresses the said Indicative Power and as such those former are not brought into direct comparison with Direct Assertion.",
+    "morphology": "paccabhiḥ_paccan_PIM pañcabhiḥ_pañcan_PIM saha_saha_ vicāre_vicāra_SLM karttavye_kṛ_SLMGd yat_yat_ ekekena_ekeka_SIM saha_saha_ kriyate_kṛ_SPr3InPv su_su_ jñāna_jñāna_Cp tvāt_tva_SBNe yāni_yad_PNNe hi_hi_ śruti_śruti_Cp bādhyaiḥ_bād"
+  },
+  {
+    "index": 32049,
+    "sanskrit": "tau vai vaṣaṭkṛtau santau mantreṇa hūyate /",
+    "english": "Being consecrated by Vashat, these two (libations) are offered with a prayer.",
+    "morphology": "tau_tad_DuNM"
+  },
+  {
+    "index": 32050,
+    "sanskrit": "buddher bhedavyavasthānaṃ prati kāraṇam ity arthaḥ /",
+    "english": "‘Basis’, i.e. the cause of the notion of diversity among Cognitions.",
+    "morphology": "__buddhi_U __bheda_U __vyavasthāna_U prati_U __U __U __U __U"
+  },
+  {
+    "index": 32051,
+    "sanskrit": "bhāṣyakāreṇa tu vyatirekābhyupagamenāśrayamācagatiruktā, viśeṣarūpā na kadā cid vyaktiḥ pratīyate /",
+    "english": "Whil The Bhashya, however, in the passageit is a selfperceptible fact that when a word is uttered, an Individual is cognised has admitted a difference between the Individual and the Class, and has then spoken of the cognition of the Individual, only as the substratum of the Class denoted S by the word because a particular Individual by itself is never cognised by means of a word. And even the relation of the container and the contained that is hinted at in the Bhashya as subsisting between the Class and the Individual is only an indirect or assumed one.",
+    "morphology": "bhāṣyakāreṇa_bhāṣyakāra_SIM tu_tu_ vyatireka_vyatireka_Cp abhyupagamena_abhyupagama_SIM āśraya_āśraya_Cp māca_māca_Cp gatiḥ_gati_SNF uktā_vac_SNPaF viśeṣa_viśeṣa_Cp rūpā_rūpa_SNF"
+  },
+  {
+    "index": 32052,
+    "sanskrit": "sa eva dhanyo dhanināṃ dhanyakṛd dhanyabhāvanaḥ /",
+    "english": "Vishnu is the foremost of the blessed—the origin and bestower of good fortune.",
+    "morphology": "saḥ_tad_SNM eva_eva_ dhanyaḥ_dhanya_SNM dhaninām_dhanin_PGM dhanya_dhanya_Cp kṛt_kṛt_SNM dhanya_dhanya_Cp"
+  },
+  {
+    "index": 32053,
+    "sanskrit": "manvādicodanānyāyaḥ sa yady api na vidyate / śaivāgame tathā 'py asya na na yuktā 'pramāṇatā //",
+    "english": "Reasons which have been advanced in support of the authenticity of the works of Manu and such other persons are not applicable to vindicate the truth of the Agamas of the Saiva school.",
+    "morphology": "manu_manu_Cp ādi_ādi_Cp codanā_codana_Cp nyāyaḥ_nyāya_SNM sa_tad_SNM yadi_yadi_ api_api_ na_na_ vidyate_vid_SPr3InPv  / śaiva_śaiva_Cp āgame_āgama_SLM tathā_tathā_ api_api_ asya_idam_SGM na_na_ na_na_ yuktā_yuj_SNPaF a_a_ pramāṇa_pramāṇ"
+  },
+  {
+    "index": 32054,
+    "sanskrit": "kāśyāṃ vyāseśvaraṃ liṃgaṃ pūjayitvā narottamaḥ | na jñānādbhraśyate kvāpi pātakairnābhibhūyate || 72 ||",
+    "english": "72. After adoring Vyāseśvara Liṅga in Kāśī an excellent man does not suffer from loss of knowledge at any time. He is never assailed (affected) by sins.",
+    "morphology": "kāśyām_kāśi_SLF vyāseśvaram_vyāseśvara_SANe liṃgam_liṅga_SANe pūjayitvā_pūjay_Co nara_nara_Cp uttamaḥ_uttama_SNM  / na_na_ jñānāt_jñāna_SBNe bhraśyate_bhraṃś_SPr3InPv kvāpi_kvāpi_ pātakaiḥ_pātaka_PINe na_na_ abhibhūyate_ab"
+  },
+  {
+    "index": 32055,
+    "sanskrit": "buddhiḥ dīptā balavantam hinasti",
+    "english": "Blazing intelligence weakens even a mighty person;",
+    "morphology": "buddhiḥ_SNF"
+  }
+]

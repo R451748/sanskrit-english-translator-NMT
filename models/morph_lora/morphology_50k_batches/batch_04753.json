@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38016,
+    "sanskrit": "yānena mahatā pārthaḥ bahis niṣkrāmayat tadā",
+    "english": "Then Partha caused the body of his uncle to be carried out on a costly vehicle borne on the shoulders of men.",
+    "morphology": "yānena_yāna_SINe mahatā_mahat_SINe pārthaḥ_pārtha_SNM bahis_bahis_U"
+  },
+  {
+    "index": 38017,
+    "sanskrit": "anirāvaraṇajñapteryataḥ śāntā na bhedadhīḥ / tataḥ saṃkalpanādvaitādvarādyasya na siddhyati //",
+    "english": "The unenlightened understanding, being never freed from its knowledge of particulars and their mutual differences: It is impossible for it to generalize good and evil, under the head of universal good.",
+    "morphology": "a_a_ nirāvaraṇa_nirāvaraṇa_Cp jñapteḥ_jñapti_SBF yatas_yatas_ śāntā_śam_SNPaF na_na_ bheda_bheda_Cp dhī_dhī_SNF  / tatas_tatas_ saṃkalpanā_saṃkalpanā_Cp advaitāt_advaita_SBNe varāt_vara_SBNe yasya_yad_SGM na_na_ siddhi_siddhi_SLF at"
+  },
+  {
+    "index": 38018,
+    "sanskrit": "nāriṃ na mitraṃ yaṃ vidyāt / yatra na rāgo na dveṣo na cānyaḥ kaścit saṃbandho yatra prītinimittā kāryārthatā śaṅkyate, arimitrayoḥ pradarśanārthatvāt /",
+    "english": "\"Him whom he regards neither as friend nor as foe,\" towards whom one eutertains feelings of neither affection, nor aversion in regard to whom there could be no suspicion of any relationship due to affection or any other motive; the mention of the \"friend or foe\" being only illustrative.",
+    "morphology": "na_na_ arim_ari_SAM na_na_ mitram_mitra_SAM yam_yad_SAM vidyāt_vid_SPr3O  / yatra_yatra_ na_na_ rāgaḥ_rāga_SNM na_na_ dveṣaḥ_dveṣa_SNM na_na_ ca_ca_ anyaḥ_anya_SNM kaścid_kaścit_SNM saṃbandhaḥ_sambandha_SNM yatra_yatra_ prīti_prīti_Cp "
+  },
+  {
+    "index": 38019,
+    "sanskrit": "tathā ca darśayati na datvā kasyacit kanyāṃ punar anyasya dīyate iti / nāsau devarāya dīyata ity arthaḥ / adattā cāsvabhūtā katham iva bhāryā bhavet śuklavastrām /",
+    "english": "That this is so is shown in the next verse \"Having given away his daughter to one man, one shall not give her to another,\" which means, that she should not be given to her younger brotherinlaw either; and when she is not given awayand as such does not become the property of the manhow could she he his \"wife\" ?",
+    "morphology": "tathā_tathā_ ca_ca_ darśayati_darśay_SPr3In na_na_ da_da_Cp tvā_tvad_SA kasyacid_kaścit_SGM kanyām_kanyā_SAF punar_punar_ anyasya_anya_SGM dīyate_dā_SPr3InPv iti_iti_  / na_na_ asau_adas_SNF devarāya_devara_SDM dīyate_dā_SPr3InPv iti_iti_ arth"
+  },
+  {
+    "index": 38020,
+    "sanskrit": "abhimanyuḥ tu saṃkruddhaḥ bhrātaram bharata ṛṣabha śaraiḥ pañcāśatā rājan kṣipra hastaḥ abhyavidhyata",
+    "english": "The light-handed Abhimanyu then, O bull of Bharata's race, excited with rage, quickly pierced his cousin with five hundred arrows.",
+    "morphology": "abhimanyuḥ_abhimanyu_SNM tu_tu_U saṃkruddhaḥ_saṃkrudh_SNPaPsM bhrātaram_bhrātṛ_SAM bharata_bharata_MCp ṛṣabha_ṛṣabha_MCp śaraiḥ_śara_PIM pañcāśatā_pañcāśat_SIF rājan_rājan_SVM kṣipra_kṣipra_Cp hastaḥ_hasta_SNM abhyavi"
+  },
+  {
+    "index": 38021,
+    "sanskrit": "sunda upasundau ūcatuḥ triṣu lokeṣu yat bhūtam kim cit sthāvara jaṅgamam sarvasmāt nau bhayam na syāt ṛte anyonyam pitāmaha",
+    "english": "It is for this, O mighty Daityas, that I cannot grant you what you desire.' \"Narada continued, 'Hearing these words of Brahman, Sunda and Upasunda said, 'O Grandsire, let us have no fear then from any created thing, mobile or immobile, in the three worlds, except only from each other!' The Grandsire then said, 'I grant you what you have asked for, even this your desire'.",
+    "morphology": "sunda_sunda_MCp upasundau_upasunda_DuNM ūcatuḥ_vac_DuPs3In triṣu_tri_PLM lokeṣu_loka_PLM yat_yad_SNNe bhūtam_bhū_SNPaPsNe kim_ka_SNNe cit_cit_U sthāvara_sthāvara_Cp jaṅgamam_jaṅgama_SNNe sarvasmāt_sarva_SBNe nau_mad_DuG bhayam_bhaya_SNNe na"
+  },
+  {
+    "index": 38022,
+    "sanskrit": "tathā hi bhedābhyupagamān na tādātmyalakṣaṇaḥ sambandhaḥ nāpi tadutpattilakṣaṇaḥ vināśahetor eva tadutpatteḥ nacānyo vāstavaḥ sambandho 'sti /",
+    "english": "For instance, inasmuch as the two are, ex hypothesi, different, the relation between the two cannot be one of ‘identity’; nor can the relation be that of ‘being produced from it’, as the destruction is produced only from the ‘Cause of destruction’; and there can be no other real relation between the two.",
+    "morphology": "tathā_tathā_ hi_hi_ bheda_bheda_Cp abhyupagamāt_abhyupagama_SBM na_na_ tādātmya_tādātmya_Cp lakṣaṇaḥ_lakṣaṇa_SNM sambandhaḥ_sambandha_SNM na_na_ api_api_ tad_tad_Cp utpatti_utpatti_Cp lakṣaṇaḥ_lakṣaṇa_SNM vināśa_vināśa_Cp h"
+  },
+  {
+    "index": 38023,
+    "sanskrit": "r̥tam cikitvaḥ r̥tam it cikiddhi r̥tasya dhārāḥ anu tr̥ndhi pūrvīḥ na aham yātum sahasā na dvayena r̥tam sapāmi aruṣasya vr̥ṣṇaḥ",
+    "english": "O knower of Rita, know the Rita! Bore for many streams of Rita. I (do) not (serve) a Yâtu 1 by violence nor by falsehood; I serve the Rita of the red bull 2.",
+    "morphology": "r̥tam_r̥ta_SANe cikitvaḥ_cit_SVPaPsM r̥tam_r̥ta_SANe id_id_U cikiddhi_cit_SPs2Im r̥tasya_r̥ta_SGNe dhārāḥ_dhārā_PAF anu_anu_U tr̥ndhi_tras_SPr2Im pūrvīḥ_puru_PAF na_na_U aham_mad_SN yātum_yātu_SAM sahasā_sahas_SINe na_na_U dvayena_dva"
+  }
+]

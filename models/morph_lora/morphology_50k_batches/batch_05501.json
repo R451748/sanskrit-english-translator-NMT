@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44000,
+    "sanskrit": "teṣu tad kalka saṃliptau pāyayeta śiśum stanau",
+    "english": "In the case of any disease of a child nursed at the breast, the breasts of the nurse should be plastered with the pastes of drugs recommended by physicians for the particular malady (instead of giving the drugs to the child), and the child made to suck the same.",
+    "morphology": "teṣu_tad_PLM tad_tad_Cp kalka_kalka_MCp saṇā_saṇā_SIF"
+  },
+  {
+    "index": 44001,
+    "sanskrit": "śikṣāpadānāṃ vijñapuruṣasyāntike pratyākhyānadāśayataḥ nikāyasabhāgatyāgāt yugapadu bhayavyañjanaprādurbhāvāt kuśalamūlasamucchedācca /",
+    "english": "through abjuration, intentionally renouncing the rule in the presence of a person capable of understanding it; through the death.",
+    "morphology": "śikṣā_śikṣā_Cp padānām_pada_PGNe vijña_vijña_Cp puruṣasya_puruṣa_SGM antike_antika_SLNe pratyākhyāna_pratyākhyāna_Cp dāśayataḥ_dāśaya_SGM nikāya_nikāya_Cp sabhāga_sabhāga_Cp tyāgāt_tyāga_SBM yugapad_yugapad_ u_u_ bhaya_bhay"
+  },
+  {
+    "index": 44002,
+    "sanskrit": "dvādaśavārṣikasyāyaṃ viśeṣaḥ kaścid vaikalpikadharma upadiśyate /",
+    "english": "This verse sets forth certain optional details regarding the \"Twelveyear Penance,\" the \"shaving\" being the only additional factor laid down.",
+    "morphology": "dvādaśa_dvādaśan_Cp vārṣikasya_vārṣika_SGM ayam_idam_SNM viśeṣaḥ_viśeṣa_SNM kaścid_kaścit_SNM vaikalpika_vaikalpika_Cp dharmaḥ_dharma_SNM upadiśyate_upadiś_SPr3InPv  /"
+  },
+  {
+    "index": 44003,
+    "sanskrit": "aśvān anye gajān anye rathān anye mahā rathāḥ āruhya java saṃpannāḥ pādātāḥ prādravan bhayāt",
+    "english": "Some on horse-back, some on elephants, some on cars, great car-warriors with great speed, and foot-soldiers also fled away in fear.",
+    "morphology": "aśvān_aśva_PAM anye_anya_PNM gajān_gaja_PAM anye_anya_PNM rathān_ratha_PAM anye_anya_PNM mahā_mahat_Cp rathāḥ_ratha_PNM āruhya_āruh_Co java_java_MCp saṃpannāḥ_sampad_PNPaPsM pādātāḥ_pādāta_PNM prādravan_pradru_PPs3In bhayāt_bhaya_S"
+  },
+  {
+    "index": 44004,
+    "sanskrit": "sa khalu trīṇi trīṇi kalā sahasrāṇi pañcadaśa ca kalāḥ ekaikasmin dhātau avatiṣṭhate evam māsena rasaḥ śukrībhavati strīṇām ca ārtavam ||",
+    "english": "The Rasa is successively transformed into each of the six remaining fundamental principles of the body, and continues in the shape of each for the period of three thousand and fifteen kalas (five days according to our modern computation). Thus the Rasa is converted into semen, or into the menstrual blood (ovum) in women, in the course of a month.[2]",
+    "morphology": "sa_tad_SNM khalu_khalu_U trīṇi_tri_PANe trīṇi_tri_PANe kalā_kalā_FCp sahasrāṇi_sahasra_PANe pañcadaśa_pañcadaśan_SANe ca_ca_U kalāḥ_kalā_PAF ekaikasmin_ekaika_SLM dhātau_dhātu_SLM avatiṣṭhate_avasthā_SPr3In evam_evam_U māsena_mā"
+  },
+  {
+    "index": 44005,
+    "sanskrit": "ity āpadaḥ tāsāṃ siddhiḥ //",
+    "english": "Thus ends the discourse on danger",
+    "morphology": "iti_iti_ āpadaḥ_āpad_PNF tāsām_tad_PGF siddhiḥ_siddhi_SNF  /"
+  },
+  {
+    "index": 44006,
+    "sanskrit": "vidvān grahadoṣajñaḥ /",
+    "english": "\"Wise\" ie, knowing the impropriety of accepting the gift.",
+    "morphology": "vidvān_vid_SNPaPsM graha_graha_Cp doṣa_doṣa_Cp jñaḥ_jña_SNM"
+  },
+  {
+    "index": 44007,
+    "sanskrit": "nṛṇāṃ śatāni bhaktānāṃ mānuṣyaṃ yāti tannataiḥ / ekaḥ sahasraṃ bhavati tathā caiṣa janārdanaḥ //",
+    "english": "So did one Krishna become a hundred, to receive the obeisance of his reverential princes; and he appears as a thousand in the company of many thousand monarchs in the Kuru assembly.",
+    "morphology": "nṛṇām_nṛ_PGM śatāni_śata_PANe bhaktānām_bhakta_PGM mānuṣyam_mānuṣya_SANe yāti_yā_SPr3In tad_tad_Cp nataiḥ_nam_PIPaM  / ekaḥ_eka_SNM sahasram_sahasra_SNNe bhavati_bhū_SPr3In tathā_tathā_ ca_ca_ eṣa_etad_SNM janārdanaḥ_janārd"
+  }
+]

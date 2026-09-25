@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40760,
+    "sanskrit": "yathā vaitaraṇīm ugrām dustarām akṛtātmabhiḥ tathā dustaraṇīm ghorām bhīrūṇām bhaya vardhanīm",
+    "english": "Even as the terrible Vaitarani is difficult of being crossed by persons of unrefined souls, that bloody river, terrible and enhancing the fears of the timid, was difficult to cross.",
+    "morphology": "yathā_yathā_U vaitaraṇīm_vaitaraṇī_SAF ugrām_ugra_SAF dustarām_dustara_SAF akṛtātmabhiḥ_akṛtātman_PIM tathā_tathā_U dustaraṇīm_dustaraṇī_SAF ghorām_ghora_SAF bhīrūṇām_bhīru_PGM bhaya_bhaya_NeCp vardhanīm_vardhana_SAF"
+  },
+  {
+    "index": 40761,
+    "sanskrit": "tam sotāraḥ dhana spr̥tam āśum vājāya yātave harim hinota vājinam",
+    "english": "Drive ye that Tawny Courser, O ye pressers, on his way to war, Swift Steed who carries off the spoil.",
+    "morphology": "tam_tad_SAM sotāraḥ_sotṛ_PVM dhana_dhana_NeCp spr̥tam_spr̥t_SAM āśum_āśu_SAM vājāya_vāja_SDM yātave_yā_In harim_hari_SAM"
+  },
+  {
+    "index": 40762,
+    "sanskrit": "te nivṛttāḥ ca bhagnāḥ ca dṛṣṭvā tat lāghavam mama",
+    "english": "Beholding that lightness (of hand) of mine, they desisted (from the fight) and broke.",
+    "morphology": "te_tad_PNM nivṛttāḥ_nivṛt_PNPaPsM ca_ca_U bhagnāḥ_bhañj_PNPaPsM ca_ca_U dṛṣṭvā_dṛś_Co tat_tad_SANe lāghavam_lāghava_SANe mama_mad_SG"
+  },
+  {
+    "index": 40763,
+    "sanskrit": "kāca arma kothān paṭalān ca ghorān puṣpam ca hanti añjana nasya yogaiḥ",
+    "english": "Used as a snuff or a collyrium, its curative potency is manifest even in such dangerous eye-diseases as Kacha, Arman, Kotha, Patala and Pushpa.",
+    "morphology": "kāca_kāca_MCp arma_arman_MCp kothān_kotha_PAM paṭalān_paṭala_PAM ca_ca_U ghorān_ghora_PAM puṣpam_puṣpa_SANe"
+  },
+  {
+    "index": 40764,
+    "sanskrit": "na tatra kaḥ cit vaktum hi vācam prākrāmat agratas vaiśampāyanaḥ uvāca tasmin abhihite vākye keśavena mahātmanā",
+    "english": "That which, O chastiser of foes, seems to thee to be for thy good, do thou adopt!' \"Vaisampayana continued, 'All the rulers of earth there present highly applauded these words of Kesava within their hearts, but none of them ventured to say anything in the presence of Duryodhana.' SECTION XCVI \"Vaisampayana said, 'Hearing these words uttered by the high-souled Kesava, all the persons who sat in that assembly remained silent, their hair standing on their ends.",
+    "morphology": "na_na_U tatra_tatra_U kaḥ_ka_SNM cit_cit_U vaktum_vac_In hi_hi_U vācam_vāc_SAF prākrāmat_prakram_SPs3In agratas_agratas_U vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In tasmin_tad_SLNe abhihite_abhidhā_SLPaPsNe vākye_vākya_SLNe keśavena_k"
+  },
+  {
+    "index": 40765,
+    "sanskrit": "pṛthagjano 'pi śaikṣaḥ prāpnoti / na /",
+    "english": "But, according to this definition, can a Pṛthagjana be a Śaikṣa?",
+    "morphology": "pṛthagjanaḥ_pṛthagjana_SNM api_api_ śaikṣaḥ_śaikṣa_SNM prāpnoti_prāp_SPr3In  / na_"
+  },
+  {
+    "index": 40766,
+    "sanskrit": "avasthām tādṛśīm prāpya hate droṇe drutam balam evam etat drutam bhagnam droṇe yudhi nipātite avasthānam avindan vai vikṣatam śara pīḍitam",
+    "english": "After the slaughter of Drona, (the Kuru) army, fallen into such a plight, fled away precipitously.",
+    "morphology": "avasthām_avasthā_SAF tādṛśīm_tādṛśa_SAF prāpya_prāp_Co hate_han_SLPaPsM droṇe_droṇa_SLM drutam_dru_SNPaPsNe balam_bala_SNNe evam_evam_U etat_etad_SNNe drutam_drutam_U bhagnam_bhañj_SNPaPsNe droṇe_droṇa_SLM yudhi_yudh_SLF nipātite_nip"
+  },
+  {
+    "index": 40767,
+    "sanskrit": "māhātmyam śauryam ājñā ca satatam śāstra buddhi tā",
+    "english": "Those of a Mahendra-kaya person are valour, command, constant discussion of the Shastras, maintenance of servants and dependents and magnanimity.",
+    "morphology": "māhātmyam_māhātmya_SNNe śauryam_śaurya_SNNe ājñā_ājñā_SNF ca_ca_U satatam_satatam_U śāstra_śāstra_NeCp buddhi_buddhi_FCp tā_tā_SNF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1024,
+    "sanskrit": "na saṃśayaḥ kaḥ cana vidyate atra",
+    "english": "There seems to be no doubt in this.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 1025,
+    "sanskrit": "ghore pāśupate cāsminnastre ca viphalīkṛte | vārāṇasyāṃ ca dagdhāyāṃ bhayatrasto vṛṣadhvajaḥ || 56 ||",
+    "english": "When this Pāśupata missile which was (usually) terrible, became futile and when Vārāṇasī was burned, the Bull-bannered Lord became afraid.",
+    "morphology": "ghore_ghora_SLNe pāśupate_pāśupata_SLNe ca_ca_ asmin_idam_SLNe astre_astra_SLNe ca_ca_ viphalīkṛte_viphalīkṛ_SLPaNe  / vārāṇasyām_vārāṇasī_SLF ca_ca_ dagdhāyām_dah_SLPaF bhaya_bhaya_Cp trastaḥ_tras_SNPaM vṛṣadhvajaḥ_vṛṣadh"
+  },
+  {
+    "index": 1026,
+    "sanskrit": "utpattyavastham evedaṃ pramāṇam iti mīyate /",
+    "english": "It cannot be recognised that it is valid at the time that it appears;",
+    "morphology": "utpatti_utpatti_Cp avastham_avasthā_SNNe eva_eva_ idam_idam_SNNe pramāṇam_pramāṇa_SNNe iti_"
+  },
+  {
+    "index": 1027,
+    "sanskrit": "sa sadā rātriśaucārthaṃ kapālaṃ jalapūritam | madīyaṃ śayane cakre tatra kṛtvā nijāṃ kriyām || 41 || tatprabhāvānmameyaṃ hi vibhūtirjāyate niśi | divā rikte kṛte yāti bhūya eva mahāmate || 42 ||",
+    "english": "41-42. At night he keeps my skull filled with water intended for toilet purposes and kept near his bed. By its power at night, I get all these riches. During the day time the skull is kept dry and empty after the toilet is over at night. O highly intelligent one, all my riches vanish then.",
+    "morphology": "sa_tad_SNM sadā_sadā_ rātri_rātri_Cp śauca_śauca_Cp artham_artha_SAM kapālam_kapāla_SANe jala_jala_Cp pūritam_pūray_SAPaNe  / madīyam_madīya_SANe śayane_śayana_SLNe cakre_kṛ_SPs3In tatra_tatra_ kṛtvā_kṛ_Co nijām_nija_SAF kriyām_kriy"
+  },
+  {
+    "index": 1028,
+    "sanskrit": "kedāreśvarasāṃnidhye nātidūre vyavasthitam | pūjayate ttadvidhānena kṣīrasnānādibhiḥ kramāt | yātrāphalamabhiprepsuḥ pretya svargaphalāya vai || 2 ||",
+    "english": "It is in the vicinity of Kedāreśvara and is installed not very far therefrom. One should worship it in accordance with the injunctions in due order, by means of bathing with milk etc. The pilgrim desirous of getting the benefit of the pilgrimage (here) and the benefit of heavenly pleasures after death, should do so.",
+    "morphology": "kedāra_kedāra_Cp īśvara_īśvara_Cp sāṃnidhye_sāṃnidhya_SLNe na_na_ ati_ati_ dūre_dūra_SLNe vyavasthitam_vyavasthā_SAPaM  / pūjayate_pūjay_SPr3In t_t_SANe tad_tad_Cp vidhānena_vidhāna_SINe kṣīra_kṣīra_Cp snāna_snāna_Cp ādibhiḥ_"
+  },
+  {
+    "index": 1029,
+    "sanskrit": "tathā sati hi /",
+    "english": "Nor can it be urged that the same would be the case, even if the denotation consisted in the potency.",
+    "morphology": "tathā_tathā_ "
+  },
+  {
+    "index": 1030,
+    "sanskrit": "jāyante ca mriyante ca nipatantyutpatanti ca / bhūtāni yadanantāni taraṅgiṇi taraṅgavat //",
+    "english": "Here are seen numberless orders of beings; to be born and rise and fall and die away; like the ceaseless waves of the sea; rising for falling.",
+    "morphology": "jāyante_jan_PPr3In ca_ca_ mriyante_mṛ_PPr3InPv ca_ca_ nipatanti_nipat_PPr3In utpatanti_utpat_PPr3In ca_ca_  / bhūtāni_bhūta_PNNe"
+  },
+  {
+    "index": 1031,
+    "sanskrit": "tad api na /",
+    "english": "But this explanation cannot be accepted.",
+    "morphology": "tat_tad_SNNe "
+  }
+]

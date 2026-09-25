@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31576,
+    "sanskrit": "gṛhastha eva yajate gṛhasthas tapyate tapaḥ /",
+    "english": "The householder offers sacrifices, the householder practises austerities, the householder distributes gifts;",
+    "morphology": "gṛhasthaḥ_gṛhastha_SNM eva_eva_ yajate_yaj_SPr3In gṛhasthaḥ_gṛhastha_SNM"
+  },
+  {
+    "index": 31577,
+    "sanskrit": "ojasy eva | vīrye prati tiṣṭhanti ṣaṭtriṃśadrātro bhavati ṣaṭtriṃśadakṣarā bṛhatī bārhatāḥ paśavas |",
+    "english": "verily in force [2] and strength they find support. (The rite has) thirty-six nights; the Brhati has thirty-six syllables, cattle are connected with the Brhati;",
+    "morphology": "ojasi_ojas_SLNe eva_eva_  / vīrye_vīrya_SLNe prati_prati_ tiṣṭhanti_sthā_PPr3In ṣaṭtriṃśat_ṣaṭtriṃśat_Cp rātraḥ_rātra_SNM bhavati_bhū_SPr3In ṣaṭtriṃśat_ṣaṭtriṃśat_Cp akṣarā_akṣara_SNF bṛhatī_bṛhatī_SNF bā"
+  },
+  {
+    "index": 31578,
+    "sanskrit": "ity āha pitṛdevatyaitena viśve rāya iṣudhyasīty āha vaiśvadevy etena dyumnaṃ vṛṇīta puṣyasa ity āha pauṣṇy etena sā vā eṣark sarvadevatyā yad etayarcā dīkṣayati sarvābhir evainaṃ devatābhir dīkṣayati saptākṣaram prathamam padam aṣṭākṣarāṇi trīṇi yāni trīṇi tāny aṣṭāv upa yanti yāni catvāri tāny aṣṭau yad aṣṭākṣarā tena |",
+    "english": "By that (the Rc) is connected with Pusan. This Rc indeed is connected with all the gods. In that he consecrates with this Rc, he consecrates him with all the gods. The first quarterverse is of seven syllables; the other three are of eight syllables.",
+    "morphology": "iti_iti_ āha_ah_SPs3In pitṛ_pitṛ_Cp devatyā_devatya_SNF etena_etad_SINe viśve_viśva_PNM rāyaḥ_rai_PNM iṣudhyasi_iṣudhy_SPr2In iti_iti_ āha_ah_SPs3In vaiśvadevī_vaiśvadeva_SNF etena_etad_SINe dyumnam_dyumna_SANe vṛṇīta_vṛ_SPr3O pu"
+  },
+  {
+    "index": 31579,
+    "sanskrit": "na ca sarvāsu avasthāsu smṛtiḥ me vipraṇaśyati",
+    "english": "The mantra, however, which the Rishi gave has dwelt in my memory at all times.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 31580,
+    "sanskrit": "tathā bāhyārthasadbhāve prayogaḥ- ye yasminsatyapi kādācitkāste sarve tadatiriktasāpekṣāḥ| yathā-avivakṣati ajigamiṣati mayi vacanagamanapratibhāsā vivakṣu- jigamiṣupuruṣāntarasaṃtānasāpekṣāḥ| tathā ca vivādādhyāsitā pravṛttipratyayāḥ satyapyālayavijñāne kadācideva nīlādyullekhina iti tathālayavijñānaṃ nāmāhamāspadaṃ vijñānam|",
+    "english": "Accordingly the formal argument for the existence of external things: Those things which while a thing exists appear only at times, all depend upon something else than that thing; as, for instance, if I do not wish to speak or to walk, presentments of speaking or walking must suppose others desirous of speaking or walking; and in like manner the presentments of activity under discussion, while there exists the recognition of a subject of them, are only at times manifested as blue and so forth.",
+    "morphology": "tathā_tathā_ bāhya_bāhya_Cp artha_artha_Cp sadbhāve_sadbhāva_SLM prayogaḥ_prayoga_SNM ye_yad_PNM yasmin_yad_SLM sati_as_SLPaPrM api_api_ kādācitkāḥ_kādācitka_PNM te_tad_PNM sarve_sarva_PNM tad_tad_Cp atirikta_atiric_PaCp sāpekṣāḥ_sāpe"
+  },
+  {
+    "index": 31581,
+    "sanskrit": "tatra mokṣyanti bhujagāḥ ye bhaviṣyanti dhārmikāḥ",
+    "english": "And those snakes who shall be virtuous shall escape therefrom.",
+    "morphology": "tatra_tatra_U"
+  },
+  {
+    "index": 31582,
+    "sanskrit": "prasīda praṇatānasmānsaumyadṛṣṭyā vilokaya || 62 ||",
+    "english": "62. Be pleased with us. We have bowed down. Look at us with gracious eyes.",
+    "morphology": "prasīda_prasad_SPr2Im praṇatān_praṇam_PAPaM asmān_mad_PAM saumya_saumya_Cp dṛṣṭyā_dṛṣṭi_SIF"
+  },
+  {
+    "index": 31583,
+    "sanskrit": "atha mārgaśire māse daśamyāṃ niyatātmavān | kṛtvā devārcanaṃ dhīmānagnikāryaṃ yathāvidhi || 2 ||",
+    "english": "2-7. On the tenth day in the month of Mārgaśīrṣa, with due self-control, the devotee should perform worship of the Lord. The, intelligent devotee then should perform the sacred rites in the holy fire in accordance with the injunctions.",
+    "morphology": "atha_atha_ mārgaśire_mārgaśira_SLM māse_māsa_SLM daśamyām_daśamī_SLF niyata_niyam_PaCp ātmavān_ātmavat_SNM  / kṛtvā_kṛ_Co deva_deva_Cp arcanam_arcana_SANe dhīmān_dhīmat_SNM agni_agni_Cp kāryam_kārya_SANe"
+  }
+]

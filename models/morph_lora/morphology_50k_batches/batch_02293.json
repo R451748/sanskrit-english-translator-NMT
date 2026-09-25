@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18336,
+    "sanskrit": "yathā pāṇḍuḥ mahā bāhuḥ dhanurdhara varaḥ bhuvi babhūva mṛgayā śīlaḥ purā asya prapitāmahaḥ",
+    "english": "And, like his great-grandfather Pandu of old, he was of mighty arms, the first of all bearers of bows in battle, and fond of hunting.",
+    "morphology": "yathā_yathā_U pāṇḍuḥ_pāṇḍu_SNM mahā_mahat_Cp bāhuḥ_bāhu_SNM dhanurdhara_dhanurdhara_MCp varaḥ_vara_SNM bhuvi_bhū_SLF babhūva_bhū_SPs3In mṛgayā_mṛgayā_FCp śīlaḥ_śīla_SNM purā_purā_U asya_idam_SGM prapitāmahaḥ_prapit"
+  },
+  {
+    "index": 18337,
+    "sanskrit": "śrī bahulāśva uvāca rādhā kṛṣṇasya caritaṃ śṛṇvanto me mano munena tṛptiṃ yāti śaradaḥ paìkaje bhramaro yathā",
+    "english": "O sage, as a bee never tires of autumn lotus flowers, so my mind does not tire as I hear the pastimes of Rādhā and Kṛṣṇa.",
+    "morphology": "śrī_śrī_SNF bahulāśvaḥ_bahulāśva_SNM uvāca_vac_SPs3In rādhā_rādhā_SNF kṛṣṇasya_kṛṣṇa_SGM caritam_carita_SANe śṛṇvantaḥ_śru_PNPaPrM me_mad_SG manaḥ_manas_SNNe munena_muna_SIM tṛptim_tṛpti_SAF yāti_yā_SPr3In śarada"
+  },
+  {
+    "index": 18338,
+    "sanskrit": "tathānādheyaviśeṣasya prāgakartuḥ parāpekṣayā janakatvaṃ, tathā niṣpannasya parāśrayeṇa sthitikāryasyāpyupadiṣṭā /",
+    "english": "Similarly, it has been taught that the Agent in whom no fresh attributes can be added, and who had not produced a single thing before, becomes the producer of something else; and. similarly it has been taught that an established entity, though not produced as an effect, continues to exist, on the strength of something else;",
+    "morphology": "tathā_tathā_ anādheya_anādheya_Cp viśeṣasya_viśeṣa_SGM prāk_prāk_ akartuḥ_akartṛ_SGM para_para_Cp apekṣayā_apekṣā_SIF janaka_janaka_Cp tvam_tva_SNNe tathā_tathā_ niṣpannasya_niṣpad_SGPaNe para_para_Cp āśrayeṇa_āśraya_SIM s"
+  },
+  {
+    "index": 18339,
+    "sanskrit": "kauśīdyādhikamatra cittaṃ līnamityuktam /",
+    "english": "The mind in which indolence dominates and in which frivolity is reduced is called \"sunken down\".",
+    "morphology": "kauśīdya_kauśīdya_Cp adhikam_adhika_SNNe atra_atra_ cittam_citta_SNNe līnam_lī_SNPaNe iti_iti_ uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 18340,
+    "sanskrit": "avāptaarthaḥ kālaṃ naatikrāmayet //",
+    "english": "He shall lose no time when the opportunity waited for arrives;",
+    "morphology": "avāpta_avāp_PaCp arthaḥ_artha_SNM"
+  },
+  {
+    "index": 18341,
+    "sanskrit": "sāmānyasiddhau tu vyaktyantarānusandhānam akāraṇam iti prāg eva nirṇītam /",
+    "english": "Jayanta has also conclusively proved the hollowness of the thesis that when a particular of a class is grasped by one another particular of the same class is necessarily remembered.",
+    "morphology": "__sāmānya_U __siddhi_U tu_tu_U __vyakti_U __antara_U __anusaṃdhāna_U __akāraṇa_U iti_iti_U __prāk_U eva_eva_U __nirṇī_PaU  /"
+  },
+  {
+    "index": 18342,
+    "sanskrit": "tatsamānādhikaraṇaṃ tvaṃpadaṃ cācidviśiṣṭajīvaśarīrakaṃ brahmācaṣṭe| prakāradvayaviśiṣṭaikavastuparatvātsāmānādhikaraṇyasya|",
+    "english": "Perhaps the word Thou, referring to the same object (as the word That), denotes the Supreme Spirit characterised by consciousness, having all individual spirits as his body; for a \"reference to the same object\" designates one thing determined by two modes.",
+    "morphology": "tad_tad_Cp samāna_samāna_Cp adhikaraṇam_adhikaraṇa_SANe tvaṃ_tvad_SN padam_pada_SANe ca_ca_ acit_acit_Cp viśiṣṭa_viśiṣ_PaCp jīva_jīva_Cp śarīrakam_śarīraka_SANe brahma_brahman_SANe ācaṣṭe_ācakṣ_SPr3In prakāra_prakāra_Cp dvay"
+  },
+  {
+    "index": 18343,
+    "sanskrit": "kim ityata āha viśiṣṭā cāviśiṣtā ca iti /",
+    "english": "Which kind of spiritual practice is highest and in which way is that practice performed?",
+    "morphology": "kim_ka_SNNe iti_iti_ atas_atas_ āha_ah_SPs3In viśiṣṭā_viśiṣ_SNPaF ca_ca_ aviśiṣtā_aviśiṣta_SNF ca_ca_ iti_iti_"
+  }
+]

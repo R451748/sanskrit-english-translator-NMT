@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11256,
+    "sanskrit": "tasmān na dravyam //",
+    "english": "Hence, it is not a substance.",
+    "morphology": "tasmāt_tasmāt_ na_na_ dravyam_dravya_SNNe"
+  },
+  {
+    "index": 11257,
+    "sanskrit": "dhīro dvijo 'sya bhāryāsti rambhā putrastu kaiśikaḥ /",
+    "english": "There was a brahmin by name Dhīra. His wife was Rambhā, son Kauśika and daughter Vijayā.",
+    "morphology": "dhīraḥ_dhīra_SNM dvijaḥ_dvija_SNM asya_idam_SGM bhāryā_bhāryā_SNF asti_as_SPr3In rambhā_rambhā_SNF putraḥ_putra_SNM tu_tu_ kaiśikaḥ_kaiśika_SNM"
+  },
+  {
+    "index": 11258,
+    "sanskrit": "indram mitram varuṇam agnim ūtaye mārutam śardhaḥ aditim havāmahe ratham na duḥ gāt vasavaḥ su dānavaḥ viśvasmāt naḥ aṁhasaḥ niḥ pipartana",
+    "english": "CALL we for aid on Indra, Mitra, Varuṇa and Agni and the Marut host and Aditi. Even as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.",
+    "morphology": "indram_indra_SAM mitram_mitra_SAM varuṇam_varuṇa_SAM agnim_agni_SAM ūtaye_ūti_SDF mārutam_māruta_SANe śardhaḥ_śardhas_SANe aditim_aditi_SAF havāmahe_hvā_PPr1In ratham_ratha_SAM na_na_U duḥ_du_PPs3 gāt_gā_SPs3 vasavaḥ_vasu_PVM su_su_U d"
+  },
+  {
+    "index": 11259,
+    "sanskrit": "vairāgyaprayogāptaṃ tu śeṣitam /",
+    "english": "The others are obtained either through detachment or through cultivation.",
+    "morphology": "vairāgya_vairāgya_Cp prayoga_prayoga_Cp āptam_āp_SNPaNe"
+  },
+  {
+    "index": 11260,
+    "sanskrit": "na pārthān pratibādhante na jāne tatra kāraṇam",
+    "english": "I do not know what the cause is of such conduct (of theirs).",
+    "morphology": "na_na_ pārthān_pārtha_PAM pratibādhante_pratibādh_PPr3In na_na_ jāne_jñā_SPr1In tatra_tatra_"
+  },
+  {
+    "index": 11261,
+    "sanskrit": "sarvadā sarvakāleṣu gayāśrāddhaṃ vidhīyate || 15 ||",
+    "english": "15. Gayāśrāddha is performed always and at any time.",
+    "morphology": "sarvadā_sarvadā_ sarva_sarva_Cp kāleṣu_kāla_PLM gayā_gayā_Cp śrāddham_śrāddha_SNNe vidhīyate_vidhā_SPr3InPv"
+  },
+  {
+    "index": 11262,
+    "sanskrit": "nacaikasthūlaviṣayaṃ sthaulyaikatvavirodhataḥ //",
+    "english": "and yet it cannot have for its object a single gross object, as there is incompatibility between grossness and one-ness.",
+    "morphology": "na_na_ ca_ca_ eka_eka_Cp sthūla_sthūla_Cp viṣayam_viṣaya_SNNe sthaulya_sthaulya_Cp eka_eka_Cp tva_tva_Cp virodhataḥ_virodha_SBM  /"
+  },
+  {
+    "index": 11263,
+    "sanskrit": "tatra punaḥ nṛṇāṃ trayaḥ //",
+    "english": "The three disciplines exist among humans.",
+    "morphology": "tatra_tatra_ punar_punar_ nṛṇām_nṛ_PGM trayaḥ_tri_PNM  /"
+  }
+]

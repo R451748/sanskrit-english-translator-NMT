@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45304,
+    "sanskrit": "viśeṣam aparam ca asyāḥ śṛṇu rakta vibhedanam",
+    "english": "Now hear me describe the recipes of the medicines which would particularly lead to the disintegration of the blood (in cases of Raktaja Gulma).",
+    "morphology": "viḥ_viśeṣa_SAM aparam_apara_SAM ca_ca_U asyāḥ_idam_SGF śṛṇu_śru_SPr2Im"
+  },
+  {
+    "index": 45305,
+    "sanskrit": "udbhidāni palāla ikṣu karīṣa veṇu kṣiti jāni |",
+    "english": "Mushrooms are generally found to grow on stacks of straw (Palala), or are seen vegetating on the stems of bamboo (Venu) or sugar-cane (Ikshu), or as sprouting up from beneath the surface of the ground (Udbhida), or growing on a heap of decomposed cow-dung (Karisha.) Of these, those which grow on stacks of (decomposed) straw (Palala) are sweet in taste and digestion and tend to produce a state of dryness in the organism.",
+    "morphology": "udbhidā_udbhida_SNF"
+  },
+  {
+    "index": 45306,
+    "sanskrit": "yastasyāḥ pratigṛhṇāti pāṇiṃ pārthivasattama | ṣaṇmāsābhyaṃtare mṛtyuṃ sa prāpnoti naro dhruvam || 7 ||",
+    "english": "7. A man who grasps her hand in marriage, O excellent king, will certainly meet with his death within six months.",
+    "morphology": "yaḥ_yad_SNM tasyāḥ_tad_SGF pratigṛhṇāti_pratigrah_SPr3In pāṇim_pāṇi_SAM pārthiva_pārthiva_Cp sattama_sattama_SVM  / ṣaṣ_ṣaṣ_Cp māsa_māsa_Cp abhyantare_abhyantara_SLNe mṛtyum_mṛtyu_SAM saḥ_tad_SNM prāpnoti_prāp_SPr3In nar"
+  },
+  {
+    "index": 45307,
+    "sanskrit": "sarāṃsi saritaḥ ca eva ramaṇīyān ca parvatān",
+    "english": "Do thou tell us of some asylums open to the regenerate ones, and lakes and streams and beautiful mountains.",
+    "morphology": "sarāṃsi_saras_PANe"
+  },
+  {
+    "index": 45308,
+    "sanskrit": "vāditrāṇi yathārhāṇi prānte ca gacchate śivam | devālayaṃ tu yaḥ kuryādvaiṣṇavaṃ māṇḍaveśvaram || 45 || svarge vasati dharmātmā yāvadābhūtasamplavam | māṇḍavyanārāyaṇākhye viprān bhojayate'grataḥ || 46 ||",
+    "english": "He who builds, makes a temple of Viṣṇu, Māṇḍavyeśvara, is a pious-souled devotee and he lives in Svarga until all living beings are annihilated.",
+    "morphology": "vāditrāṇi_vāditra_PANe yathārhāṇi_yathārha_PANe prānte_prānta_SLM ca_ca_ gacchate_gam_SPr3In śivam_śiva_SAM  / devālayam_devālaya_SAM tu_tu_ yaḥ_yad_SNM kuryāt_kṛ_SPr3O vaiṣṇavam_vaiṣṇava_SAM māṇḍavyeśvaram_māṇḍavye"
+  },
+  {
+    "index": 45309,
+    "sanskrit": "sātyakiḥ prekṣya samare madra rājam vyavasthitam vivyādha daśabhiḥ bāṇaiḥ tiṣṭha tiṣṭha iti ca abravīt madra rājaḥ tu su bhṛśam viddhaḥ tena mahātmanā",
+    "english": "Beholding the ruler of the Madras staying before him in that battle, Satyaki pierced him with ten arrows and said, \"Wait, Wait!\" Deeply pierced by that high-souled warrior, the ruler of the Madras pierced Satyaki in return with sharp shafts equipped with beautiful feathers.",
+    "morphology": "sātyakiḥ_sātyaki_SNM prekṣya_prekṣ_Co samare_samara_SLNe madra_madra_MCp rājam_rāja_SAM vyavasthitam_vyavasthā_SAPaPsM vivyādha_vyadh_SPs3In daśabhiḥ_daśan_PIM bāṇaiḥ_bāṇa_PIM tiṣṭha_sthā_SPr2Im tiṣṭha_sthā_SPr2Im iti_iti_"
+  },
+  {
+    "index": 45310,
+    "sanskrit": "(nyā0 ku 0 3/5) iti| na ca viśeṣavirodhaḥ śakyaśaṅkaḥ| jñātatvājñātatvavikalpaparāhatatvāt|",
+    "english": "Nor need we fear the possibility of any other contradiction to our argument, since it would be overthrown by either alternative of God's being known or unknown.[38]",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 45311,
+    "sanskrit": "dīyate yena daddānaṃ bhavati sma / rāgādibhirapi dīyate / na cātra tadiṣṭam / ato viśeṣaṇārthamāha",
+    "english": "Consequently, in order to specify, the author says, “Giving is what gives.",
+    "morphology": "dīyate_dā_SPr3InPv yena_yad_SIM daddānam_daddāna_SNNe bhavati_bhū_SPr3In sma_sma_  / rāga_rāga_Cp ādibhiḥ_ādi_PIM api_api_ dīyate_dā_SPr3InPv  / na_na_ ca_ca_ atra_atra_ tat_tad_SNNe iṣṭa_iṣ_SNPaNe  / atas_atas_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43632,
+    "sanskrit": "dattvā praveśam prāptāḥ te yudhiṣṭhira niveśane",
+    "english": "And having given much tribute they obtained admission into the palace of Yudhishthira.",
+    "morphology": "dattvā_dā_Co praveśam_praveśa_SAM prāptāḥ_prāp_PNPaPsM te_tad_PNM yudhiṣṭhira_yudhiṣṭhira_MCp niveśane_niveśana_SLNe"
+  },
+  {
+    "index": 43633,
+    "sanskrit": "mahāyānaniryāṇadrśyatattvaṃ sūkṣmaudārikatattvaṃ /",
+    "english": "The visible reality of going forth by means of the universal vehicle i. e. the reality of the gross and the subtle.",
+    "morphology": "mahāyāna_mahāyāna_Cp niryāṇa_niryāṇa_Cp drśya_dṛś_GdCp tattvam_tattva_SNNe sūkṣma_sūkṣma_Cp audārika_audārika_Cp tattvam_tattva_SNNe  /"
+  },
+  {
+    "index": 43634,
+    "sanskrit": "pātālam iva gambhīram suhṛd ānanda vardhanam",
+    "english": "In gravity he was unfathomable as the Nether world.",
+    "morphology": "pātālam_pātāla_SNNe iva_iva_U gambhīram_gambhīra_SNNe suhṛd_suhṛd_MCp"
+  },
+  {
+    "index": 43635,
+    "sanskrit": "pulastyena samānīto bharate vraja maṇòalevaideha tasyāgamanaṃ mayā tubhyaṃ puroditam",
+    "english": "Pulastya Muni brought Govardhana to Bhārata varṣa. O king of Videha, I have already described this to you.",
+    "morphology": "pulastyena_pulastya_SIM samānītaḥ_samānī_SNPaM bharate_bharata_SLM vraja_vraj_SPr2Im maṇòale_maṇòale_Cp vaideha_vaideha_SVM tasya_tad_SGM āgamanam_āgamana_SNNe mayā_mad_SI tubhyam_tvad_SD purā_purā_ uditam_vad_SNPaNe"
+  },
+  {
+    "index": 43636,
+    "sanskrit": "tatas supārśvam abhitas tathā rāja patim kratham yudhyamānam balāt saṃkhye vijigye pāṇḍava ṛṣabhaḥ",
+    "english": "Then that bull among the sons of Pandu overcame in battle, by sheer force, the great king Kratha reigning in the region lying about Suparsa.",
+    "morphology": "tatas_tatas_U supārśvam_supārśva_SAM abhitas_abhitas_U tathā_tathā_U rāja_rājan_MCp patim_pati_SAM kratham_kratha_SAM yudhyamānam_yudh_SAPaPrM balāt_bala_SBNe saṃkhye_saṃkhya_SLNe vijigye_viji_SPs3In pāṇḍava_pāṇḍava_MCp ṛṣabha"
+  },
+  {
+    "index": 43637,
+    "sanskrit": "yasmātsaṃvidameva syātsvānyādikalanā kutaḥ / anantameva sauṣuptaṃ sarvaṃ maunamatastatam //",
+    "english": "Now as it is the consciousness which constitutes all and everything, how can you conceive your distinction from others, who are actuated by the same power, dwelling alike in all? It is this knowledge which is called the ever lasting sleep, and forms the ground work of every kind of silence.",
+    "morphology": "yasmāt_yasmāt_ saṃvidam_saṃvid_SAF eva_eva_ syāt_as_SPr3O sva_sva_Cp anya_anya_Cp ādi_ādi_Cp kalanā_kalanā_SNF kutas_kutas_  / anantam_ananta_SNNe eva_eva_ sauṣuptam_sauṣupta_SNNe sarvam_sarva_SNNe maunam_mauna_SNNe atas_atas_ tatam_tan_SNPa"
+  },
+  {
+    "index": 43638,
+    "sanskrit": "vivartate'rthabhāvena prakriyā jagato yataḥ|| (vākyapa0 1/1) iti|",
+    "english": "\"Which is developed in the form of things, and whence springs the creation of the world.\"",
+    "morphology": "vivartate_vivṛt_SPr3In artha_artha_Cp bhāvena_bhāva_SIM prakriyā_prakriyā_SNF jagataḥ_jagant_SGNe yatas_yatas_"
+  },
+  {
+    "index": 43639,
+    "sanskrit": "ahaṃ brahma jyotirātmā vāudevo bimukta oṃ //",
+    "english": "One should also repeat the formula “ am Brahman, light, soul, Vāsudeva name of Viṣṇu, as manifested in the form of Kṛṣṇa, the liberated, Oṃ”.",
+    "morphology": "aham_mad_SN brahma_brahman_SNNe jyotiḥ_jyotis_Cp ātmā_ātman_SNM vāudevaḥ_vāudeva_SNM bimuktaḥ_bimuc_SNPaM om_oṃ_  /"
+  }
+]

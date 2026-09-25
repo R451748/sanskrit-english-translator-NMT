@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35584,
+    "sanskrit": "yastamarcayate bhaktyā samyakpūjāvidhānataḥ | sa yogasiddhimāpnoti modate divi devavat || 6 ||",
+    "english": "6. He who devoutly worships it in accordance with the injunctions of a perfect adoration, attains Yogic Siddhi and rejoices in heaven like Devas.",
+    "morphology": "yaḥ_yad_SNM tam_tad_SAM arcayate_arcay_SPr3In bhaktyā_bhakti_SIF samyak_samyak_ pūjā_pūjā_Cp vidhānataḥ_vidhāna_SBNe  / sa_tad_SNM yoga_yoga_Cp siddhim_siddhi_SAF āpnoti_āp_SPr3In modate_mud_SPr3In divi_div_SLM deva_deva_Cp vat_vat_"
+  },
+  {
+    "index": 35585,
+    "sanskrit": "tasyāṃ yaḥ pūjayettatra taṃ devaṃ jalaśāyinam | śāstroktena vidhānena sa gacchati hareḥ padam || 4 ||",
+    "english": "On that day, if a devotee worships Lord Jalaśāyin in accordance with the injunctions laid down in the scriptural texts, he goes to Hari’s place.",
+    "morphology": "tasyām_tad_SLF yaḥ_yad_SNM pūjayet_pūjay_SPr3O tatra_tatra_ tam_tad_SAM devam_deva_SAM jalaśāyinam_jalaśāyin_SAM  / śāstra_śāstra_Cp uktena_vac_SIPaNe vidhānena_vidhāna_SINe sa_tad_SNM gacchati_gam_SPr3In hareḥ_hari_SGM padam_pada_SANe "
+  },
+  {
+    "index": 35586,
+    "sanskrit": "atas aham api vakṣyāmi hetu mātram nibodhata",
+    "english": "I shall, therefore speak to you something.",
+    "morphology": "atas_atas_U"
+  },
+  {
+    "index": 35587,
+    "sanskrit": "tenāyam atra vākyārthaḥ / pratilomebhyaḥ samānajātīyāsūtkṛṣṭajātīyāsu ca pratilomā eva bhavanti //",
+    "english": "Thus the meaning of the sentence comes to be that \"From persons born in the inverse order are born persons of the same order, on women belonging to the same or to higher castes\".",
+    "morphology": "tena_tena_ ayam_idam_SNM atra_atra_ vākya_vākya_Cp arthaḥ_artha_SNM  / pratilomebhyaḥ_pratiloma_PBM samāna_samāna_Cp jātīyāsu_jātīya_PLF utkṛṣṭa_utkṛṣṭa_Cp jātīyāsu_jātīya_PLF ca_ca_ pratilomāḥ_pratiloma_PNF eva_eva_ bhavan"
+  },
+  {
+    "index": 35588,
+    "sanskrit": "tvam naḥ agne sanaye dhanānām yaśasam kārum kr̥ṇuhi stavānaḥ r̥dhyāma karma apasā navena devaiḥ dyāvāpr̥thivī iti pra avatam naḥ",
+    "english": "Thou, O Agni, praised by us, help the glorious singer to gain prizes. May we accomplish our work with the help of the young active (Agni). O Heaven and Earth! Bless us together with the gods.",
+    "morphology": "tvam_tvad_SN naḥ_mad_PD agne_agni_SVM sanaye_sani_SDF dhanānām_dhana_PGNe yaśasam_yaśas_SAM kārum_kāru_SAM kr̥ṇuhi_kṛ_SPr2Im stavānaḥ_stu_SNPaPrM r̥dhyāma_r̥dh_PPr1O karma_karman_SANe apasā_apas_SINe navena_nava_SINe devaiḥ_deva_PIM d"
+  },
+  {
+    "index": 35589,
+    "sanskrit": "syād etat ya eva hi cakṣuṣo viṣayībhavatyarthaḥ sa upalabhyate yaśca na bhavati nāsāvupalabhyata iti / tacca naivam /",
+    "english": "It might be argued that ‘That object alone is seen which comes within range of the Eye, and what does not do so is not seen But that is not so; without some sort of connection, there can be no coming within range.",
+    "morphology": "syāt_as_SPr3O etat_etad_SNNe yaḥ_yad_SNM eva_eva_ hi_hi_ cakṣuṣaḥ_cakṣus_SGNe viṣayībhavati_viṣayībhū_SPr3In arthaḥ_artha_SNM saḥ_tad_SNM upalabhyate_upalabh_SPr3InPv yaḥ_yad_SNM ca_ca_ na_na_ bhavati_bhū_SPr3In na_na_ asau_adas_SN"
+  },
+  {
+    "index": 35590,
+    "sanskrit": "steyam kurvan tu guru artham āpatsu na nibadhyate",
+    "english": "A person by committing theft for the sake of his preceptor in a season of distress is not stained with sin.",
+    "morphology": "steyam_steya_SANe kurvan_kṛ_SNPaPrM tu_tu_U guru_guru_MCp artham_artha_SAM āpatsu_āpad_PLF"
+  },
+  {
+    "index": 35591,
+    "sanskrit": "saṅgamo'ṅgāragartāyā aṅgāreśvaramuttamam | tathā meghavanaṃ tīrthaṃ devyā nāmānukīrtanam || 35 ||",
+    "english": "The confluence of Aṅgāragartā; the excellent Aṅgāreśvara; Meghavana Tīrtha; the enumeration of the names of the goddess;",
+    "morphology": "saṅgamaḥ_saṃgama_SNM aṅgāragartāyāḥ_aṅgāragartā_SBF aṅgāreśvaram_aṅgāreśvara_SNNe uttamam_uttama_SNNe  / tathā_tathā_ meghavanam_meghavana_SNNe tīrtham_tīrtha_SNNe devyāḥ_devī_SGF nāma_nāman_Cp anukīrtanam_anukīrtana_SN"
+  }
+]

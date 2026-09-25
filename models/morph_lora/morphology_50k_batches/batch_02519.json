@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20144,
+    "sanskrit": "pra śardhāya mārutāya sva bhānavaḥ imām vācam anaja parvata cyute gharma stubhe divaḥ ā pr̥ṣṭha yajvane dyumna śravase mahi nr̥mṇam arcata",
+    "english": "THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down. Sing the great strength of those illustrious in renown, who stay the heat, who sacrifice on heights of heaven.",
+    "morphology": "pra_pra_U śardhāya_śardha_SDM mārutāya_māruta_SDM sva_sva_Cp bhānavaḥ_bhānu_PVM imām_idam_SAF vācam_vāc_SAF anaja_añj_PPs2In parvata_parvata_MCp cyute_cyut_SDM gharma_gharma_MCp stubhe_stubh_SDM divaḥ_div_SGM ā_ā_U pr̥ṣṭha_prṣṭha"
+  },
+  {
+    "index": 20145,
+    "sanskrit": "brāhmaṇena tapaḥ kāryam dānam adhyayanam tathā",
+    "english": "The duties of a Brahmana are asceticism and gift and study.",
+    "morphology": "brāhmaṇena_brāhmaṇa_SIM tapaḥ_tapas_SNNe kāryam_kṛ_SNNeGd"
+  },
+  {
+    "index": 20146,
+    "sanskrit": "so 'yam ity abhisaṃbandhe hi puṃyogād ākhyāyām iti tathā bhavitavyam /",
+    "english": "But in the case cited the difficulty would be due to the case coming under Pāṇini\" s Sūtra by which the feminine form would be \"vrātyī\".",
+    "morphology": "saḥ_tad_SNM ayam_idam_SNM iti_iti_ abhisaṃbandhe_abhisambandha_SLM hi_hi_ puṃs_puṃs_ yogāt_yoga_SBM ākhyāyām_ākhyā_SLF iti_iti_ tathā_tathā_"
+  },
+  {
+    "index": 20147,
+    "sanskrit": "bhītānām abhayam dattvā saṃgrāme jīvita arthinām vṛddhān bālān dvijātīn ca mokṣayitvā mahā bhayāt prāpsyāmi paramam loke yaśaḥ svarbhānusūdana",
+    "english": "And by dispelling on the field of battle the fears of the affrighted that may beg for their lives, and relieving old men and boys and Brahmanas from terror and anxiety, I will win excellent fame and the highest heaven.",
+    "morphology": "bhītānām_bhī_PGPaPsM abhayam_abhaya_SANe dattvā_dā_Co saṃgrāme_saṃgrāma_SLM jīvita_jīvita_NeCp arthinām_arthin_PGM vṛddhān_vṛddha_PAM bālān_bāla_PAM dvijātīn_dvijāti_PAM ca_ca_U mokṣayitvā_mokṣay_Co mahā_mahat_Cp bhayāt_bha"
+  },
+  {
+    "index": 20148,
+    "sanskrit": "rūpe me saṃśayaḥ tu ekaḥ svayam icchāmi veditum",
+    "english": "My doubt now only relates to his appearance. I intend to examine him myself.",
+    "morphology": "rūpe_rūpa_SLNe"
+  },
+  {
+    "index": 20149,
+    "sanskrit": "krakacena tu chidyante ya ime dvijasattama | abhakṣyaniratā hyete svadharmasya vidūṣakāḥ || 31 ||",
+    "english": "31. O excellent Brāhmaṇa, these people who are being cut with Krakacas (saws) were eager to eat prohibited food, thereby defiling their own religion and righteousness.",
+    "morphology": "krakacena_krakaca_SIM tu_tu_ chidyante_chid_PPr3InPv ye_yad_PNM ime_idam_PNM dvijasattama_dvijasattama_SVM  / abhakṣya_abhakṣya_Cp niratāḥ_niram_PNPaM hi_hi_ ete_etad_PNM svadharmasya_svadharma_SGM vidūṣakāḥ_vidūṣaka_PNM"
+  },
+  {
+    "index": 20150,
+    "sanskrit": "tatrāpi pañcamo varṇo dvādaśasvarabhūṣitaḥ | tāsmādanena maṃtreṇa manovākkāyabhedataḥ ||",
+    "english": "54. There too, the same is the Mūlamantra with a slight difference. The fifth Varṇa is bedecked by the twelfth vowel (‘ḥ’).",
+    "morphology": "tatra_tatra_ api_api_ pañcamaḥ_pañcama_SNM varṇaḥ_varṇa_SNM dvādaśa_dvādaśan_Cp svara_svara_Cp bhūṣitaḥ_bhūṣay_SNPaM  / manaḥ_manas_Cp vāc_vāc_Cp kāya_kāya_Cp bhedataḥ_bheda_SBM "
+  },
+  {
+    "index": 20151,
+    "sanskrit": "gomatīsnānajātpuṇyādvāsudevasamāgamāt | manorathaphalaprāptirjāyate nā'tra saṃśayaḥ || 35 ||",
+    "english": "There is no doubt in this that they will achieve their desires due to the merit arising from the holy ablution in Gomatī and the contact with Vāsudeva.",
+    "morphology": "gomatī_gomatī_Cp snāna_snāna_Cp jāt_ja_SBM puṇyāt_puṇya_SBM vāsudeva_vāsudeva_Cp samāgamāt_samāgama_SBM  / manoratha_manoratha_Cp phala_phala_Cp prāptiḥ_prāpti_SNF jāyate_jan_SPr3In na_na_ a_a_ atra_atra_ saṃśayaḥ_saṃśaya_SNM"
+  }
+]

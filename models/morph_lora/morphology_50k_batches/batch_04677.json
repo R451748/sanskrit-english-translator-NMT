@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37408,
+    "sanskrit": "ayam asyārthaḥ /",
+    "english": "The meaning of this is as follows.",
+    "morphology": "ayam_idam_SNM"
+  },
+  {
+    "index": 37409,
+    "sanskrit": "saptānāṃ varṇānāṃ:",
+    "english": "(made of) seven forms: of gold, silver, pearl,",
+    "morphology": "saptānām_saptan_PGM"
+  },
+  {
+    "index": 37410,
+    "sanskrit": "ityetatkathitaṃ sarvaṃ kimanyatparipṛcchasi || 100 ||",
+    "english": "100. Thus I have told you everything. What else do you ask?",
+    "morphology": "iti_iti_ etat_etad_SNNe kathitam_kathay_SNPaNe sarvam_sarva_SNNe kim_ka_SANe anyat_anya_SANe paripṛcchasi_paripracch_SPr2In"
+  },
+  {
+    "index": 37411,
+    "sanskrit": "yat ahnā kurute pāpam a rakṣan bhayataḥ prajāḥ rājā varṣa sahasreṇa tasya antam adhigacchati",
+    "english": "The sin a king incurs by neglecting for a single day to protect his subjects from fear is such that he does not attain to end of his sufferings (for it) in hell till after a thousand years.",
+    "morphology": "yat_yad_SANe ahnā_ahar_SINe kurute_kṛ_SPr3In pāpam_pāpa_SANe a_a_U rakṣan_rakṣ_SNPaPrM bhayataḥ_bhaya_SBNe prajāḥ_prajā_PAF rājā_rājan_SNM varṣa_varṣa_MCp sahasreṇa_sahasra_SINe tasya_tad_SGNe antam_anta_SAM"
+  },
+  {
+    "index": 37412,
+    "sanskrit": "tathā hi mātṛrūpastho mantrādhveti nirūpitaḥ | tathā hi cidvimarśena grastā vācyadaśā yadā | śivajñānakriyāyattamananatrāṇatatparā | aśeṣaśaktipaṭalīlīlālāmpaṭyapāṭavāt |",
+    "english": "- The path of mantra is embedded in the knower. This has been elucidated as such. For example, when the object of speech becomes engrossed by contemplation on consciousness, and thus becomes engaged in deliberating on the knowledge and protective action of Śiva, due to the play of the Sakti, the Force in its entirety, getting rid of its form of the standard of knowledge, consciousness assumes the role of the path of Mantra.",
+    "morphology": "tathā_tathā_ hi_hi_ mātṛ_mātṛ_Cp rūpa_rūpa_Cp sthaḥ_stha_SNM mantrādhvā_mantrādhvan_SNM iti_iti_ nirūpitaḥ_nirūpay_SNPaM  / tathā_tathā_ hi_hi_ cit_cit_Cp vimarśena_vimarśa_SIM grastā_gras_SNPaF vācya_vac_GdCp daśā_daśā_SNF yad"
+  },
+  {
+    "index": 37413,
+    "sanskrit": "vācyamarthārthyamānatvāttaddvidhā padavākyayoḥ /",
+    "english": "Of the word and the sentence, the meaning is what is expressed, because it is intended to be conveyed.",
+    "morphology": "vācyam_vac_SNNeGd artha_artha_Cp arthyamāna_arthay_PaPrCp tvāt_tva_SBNe tat_tad_SNNe dvidhā_dvidhā_"
+  },
+  {
+    "index": 37414,
+    "sanskrit": "iti / atrocyate asatyapītyādi /",
+    "english": "In this connection we have the following Text: [see verse 923 above]",
+    "morphology": "iti_iti_  /"
+  },
+  {
+    "index": 37415,
+    "sanskrit": "tamomityeva saṃprocya lakṣmaṇaḥ śubhalakṣaṇaḥ | rājadvāraṃ samāsādya cakāra vijanaṃ tataḥ || 24 ||",
+    "english": "24. Lakṣmaṇa said “om” (Yes) by way of assent. Marked with all excellent features, Lakṣmaṇa came to the royal entrance and turned away all the people therefrom.",
+    "morphology": "tam_tad_SAM om_oṃ_ iti_iti_ eva_eva_ saṃprocya_saṃpravac_Co lakṣmaṇaḥ_lakṣmaṇa_SNM śubha_śubha_Cp lakṣaṇaḥ_lakṣaṇa_SNM  / rājadvāram_rājadvāra_SANe samāsādya_samāsāday_Co cakāra_kṛ_SPs3In vijanam_vijana_SANe tatas_tat"
+  }
+]

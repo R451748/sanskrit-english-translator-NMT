@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13752,
+    "sanskrit": "suśilpe itisu śilpe br̥hatī iti mahī iti pavamānaḥ vr̥ṣaṇyati naktoṣasā na darśate iti",
+    "english": "With passion Pavamâna longs for the great lofty pair, well-formed Like beauteous maidens, Night and Dawn",
+    "morphology": "suśilpe_suśilpa_DuNF iti_iti_U su_su_U śilpe_śilpa_DuNF br̥hatī_brāhat_DuNF iti_iti_U mahī_mah_DuNF iti_iti_U pavamānaḥ_pū_SNPaPrM vrāṣaṇyati_vrāṣaṇy_SPr3In naktoṣasā_naktoṣasā_DuNF"
+  },
+  {
+    "index": 13753,
+    "sanskrit": "ta eva viśvabhoktāro viśvamānyāsta eva hi | ye tvāṃ viśvabhujāmatra pūjayiṣyaṃti mānavāḥ || 6 ||",
+    "english": "6. Only they are the enjoyers of all, only they are worthy of being honoured by all, who adore you, O Viśvabhuje, here.",
+    "morphology": "te_tad_PNM eva_eva_ viśva_viśva_Cp bhoktāraḥ_bhoktṛ_PNM viśva_viśva_Cp mānyāḥ_man_PNMGd te_tad_PNM eva_eva_ hi_hi_  / ye_yad_PNM tvām_tvad_SA viśva_viśva_Cp bhujām_bhuj_PGM atra_atra_ pūjayiṣyanti_pūjay_PFu3In mānavāḥ_mānava_PNM "
+  },
+  {
+    "index": 13754,
+    "sanskrit": "hyastanajñātṛvat teṣāṃ pratyayānāṃ ca sādhyatā //",
+    "english": "and all these fulfill the conditions of the probandum.” (238-239)",
+    "morphology": "hyastana_hyastana_Cp jñātṛ_jñātṛ_Cp vat_vat_ teṣām_tad_PGM pratyayānām_pratyaya_PGM ca_ca_ sādhya_sādhay_GdCp tā_tā_SNF  /"
+  },
+  {
+    "index": 13755,
+    "sanskrit": "te jānamānāḥ daurbalyam bhīmasenam ṛte mahat asmān balavataḥ jñātvā naśiṣyanti abalīyasaḥ",
+    "english": "Indeed, O king, the Pandavas conscious of their own feebleness without Bhima and of our strength would not really strive to recover the kingdom.",
+    "morphology": "te_tad_PNM jānamānāḥ_jñā_PNPaPrM daurbalyam_daurbalya_SANe bhīmasenam_bhīmasena_SAM ṛte_ṛte_U mahat_mahat_SANe asmān_mad_PA balavataḥ_balavat_PAM jñātvā_jñā_Co naśiṣyanti_naś_PFu3In abalīyasaḥ_abalīyas_PNM"
+  },
+  {
+    "index": 13756,
+    "sanskrit": "jīvam paśyāmi vṛkṣāṇām acaitanyam na vidyate",
+    "english": "From these circumstances I see that trees have life. They are not inanimate.",
+    "morphology": "jīvam_jīva_SAM paśyāmi_paś_SPr1In vṛkṣāṇām_vṛkṣa_PGM"
+  },
+  {
+    "index": 13757,
+    "sanskrit": "api ca upadeśanirapekṣam api cakṣuḥ kṣatriyādivilakṣaṇāṃ saumyākṛtiṃ brāhmaṇajātim avagacchati ity eke /",
+    "english": "Some other thinkers hold that when we see with our eyes, unaided by instructions, a person having an amiable appearance we are able to distinguish him from a Kşatriya and recognize him as a Brāhmaṇa, therefore we require no further discussion about these side issues.",
+    "morphology": "api_api_ ca_ca_ upadeśa_upadeśa_Cp nirapekṣam_nirapekṣa_SNNe api_api_ cakṣuḥ_cakṣus_SNNe kṣatriya_kṣatriya_Cp ādi_ādi_Cp vilakṣaṇām_vilakṣaṇa_SAF saumya_saumya_Cp ākṛtim_ākṛti_SAF brāhmaṇa_brāhmaṇa_Cp jātim_jāti_SAF"
+  },
+  {
+    "index": 13758,
+    "sanskrit": "vayam parama saṃhṛṣṭāḥ pāṇḍavāḥ śoka karśitāḥ",
+    "english": "At this we were filled with great joy and the Pandavas with great grief.",
+    "morphology": "vayam_mad_PN parama_parama_Cp saṃhṛṣṭāḥ_saṃhṛṣ_PNPaPsM pāṇḍavāḥ_pāṇḍava_PNM śoka_śoka_MCp karśitāḥ_karśay_PNPaPsM"
+  },
+  {
+    "index": 13759,
+    "sanskrit": "| ṛṣaya ūcuḥ | yadetadbhavatā proktaṃ tīrthe śakrasamudravam | svāmidrohakṛtātpāpānnirmukto yatra lakṣmaṇaḥ || 1 ||",
+    "english": "The sages said: 1-3. You just now said something regarding the Tīrtha pertaining to Śakra and that in the Tīrtha thereof Lakṣmaṇa was rid of the sin arising from treachery to his master.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / yat_yad_SNNe etat_etad_SNNe bhavatā_bhavat_SIM proktam_pravac_SNPaNe tīrthe_tīrtha_SLNe śakrasamudravam_śakrasamudrava_SAM  / svāmi_svāmin_Cp droha_droha_Cp kṛtāt_kṛ_SBPaNe pāpāt_pāpa_SBNe nirmu"
+  }
+]

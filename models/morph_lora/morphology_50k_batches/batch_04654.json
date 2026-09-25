@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37224,
+    "sanskrit": "uddharet dīnam ātmānam samarthaḥ dharmam ācaret",
+    "english": "and after thou hast thus raised thyself thou shouldst practise virtue.",
+    "morphology": "uddharet_uddhṛ_SPr3O"
+  },
+  {
+    "index": 37225,
+    "sanskrit": "tataścāsphoṭayāmāsa bhūmau kopasamanvitaḥ | cakre cāmiṣakhaṇḍaṃ sa piṣṭvāpiṣṭvā muhurmuhuḥ || 63 ||",
+    "english": "63. Then with increased rage, he thrashed and dashed him on the ground. By pounding him repeatedly he turned him into a lump of flesh.",
+    "morphology": "tatas_tatas_ ca_ca_ āsphoṭayāmāsa_āsphoṭay_SPs3InPe bhūmau_bhūmi_SLF kopa_kopa_Cp samanvitaḥ_samanvita_SNM  / cakre_kṛ_SPs3In ca_ca_ āmiṣa_āmiṣa_Cp khaṇḍam_khaṇḍa_SAM sa_tad_SNM piṣṭvā_piṣ_Co a_a_ piṣṭvā_piṣ_Co muh"
+  },
+  {
+    "index": 37226,
+    "sanskrit": "varuṇasya ātmajaḥ vīraḥ sa tu rājā śrutāyudhaḥ parṇa āśā jananī yasya śīta toyā mahā nadī tasya mātā abravīt vākyam varuṇam putra kāraṇāt",
+    "english": "The heroic king Srutayudha was the son of Varuna, having for his mother that mighty river of cool water called Parnasa.",
+    "morphology": "varuṇasya_varuṇa_SGM ātmajaḥ_ātmaja_SNM vīraḥ_vīra_SNM sa_tad_SNM tu_tu_U rājā_rājan_SNM śrutāyudhaḥ_śrutāyudha_SNM parṇa_parṇa_MCp āśā_āśā_SNF jananī_jananī_SNF yasya_yad_SGM śīta_śīta_Cp toyā_toya_SNF mahā_mahat_Cp "
+  },
+  {
+    "index": 37227,
+    "sanskrit": "juhvānaḥ agnim yathākālam ubhau kālau upaspṛśan kṛśaḥ parimita āhāraḥ carma cīra jaṭā dharaḥ",
+    "english": "Pouring libations on the: fire at due hours, and performing ablutions at morn and eve, I shall thin myself by reduced diet, and covering myself with skins, bear matted locks on my head.",
+    "morphology": "juhvānaḥ_hu_SNPaPrM agnim_agni_SAM yathākālam_yathākālam_U ubhau_ubh_DuAM kālau_kāla_DuAM upaspṛśan_upaspṛś_SNPaPrM kṛśaḥ_kṛśa_SNM parimita_parimā_PaPsCp āhāraḥ_āhāra_SNM carma_carman_NeCp cīra_cīra_NeCp jaṭā_jaṭā_FCp "
+  },
+  {
+    "index": 37228,
+    "sanskrit": "irā vṛkṣalatāvallīs tṛṇajātīś ca sarvaśaḥ / khasā tu yakṣaraksāṃsi munir apsarasas tathā //",
+    "english": "Ira produced trees, creepers, groves and all kinds of grasses and Khasa gave birth to Yakshas, Rakshas, Munis and Apsarās.",
+    "morphology": "irā_irā_SNF vṛkṣa_vṛkṣa_Cp latā_latā_Cp vallīḥ_vallī_PAF tṛṇa_tṛṇa_Cp jātīḥ_jāti_PAF ca_ca_ sarvaśas_sarvaśas_  / khasā_khasā_SNF tu_tu_ yakṣa_yakṣa_Cp raksāṃsi_raksas_PANe muniḥ_muni_SNF apsarasaḥ_apsaras_PAF ta"
+  },
+  {
+    "index": 37229,
+    "sanskrit": "antarikṣaṃ vai svayamātṛṇṇā |",
+    "english": "the naturally perforated (brick) is the atmosphere;",
+    "morphology": "antarikṣam_antarikṣa_SNNe vai_vai_ svayamātṛṇṇā_svayamātṛṇṇā_SNF"
+  },
+  {
+    "index": 37230,
+    "sanskrit": "tathā hi na tadanumānamaliṅgajatvāt / pramāṇaṃ cāvisaṃvāditvāt /",
+    "english": "Because it cannot be Inference, as it is not brought about by an Inferential Indicative, And that it is valid is clear from the fact that it is not incongruent with reality.",
+    "morphology": "tathā_tathā_ hi_hi_ na_na_ tat_tad_SNNe anumānam_anumāna_SNNe aliṅga_aliṅga_Cp ja_ja_Cp tvāt_tva_SBNe  / pramāṇam_pramāṇa_SNNe ca_ca_ avisaṃvādi_avisaṃvādin_Cp tvāt_tva_SBNe  /"
+  },
+  {
+    "index": 37231,
+    "sanskrit": "anye 'pi saugatodgītapratibandhadvayojjhitāḥ //178// kiyanto bata gaṇyante hetavaḥ sādhyabodhakāḥ /",
+    "english": "Thus we see that there are various reasons which constitute the sound basis for inference but invariable concomitance is not based upon the laws of identity and causality.",
+    "morphology": "anye_anya_PNM api_api_ saugata_saugata_Cp udgīta_udgā_PaCp pratibandha_pratibandha_Cp dvaya_dvaya_Cp ujjhitāḥ_ujjhita_PNM  //178// kiyantaḥ_kiyat_PNM bata_bata_ gaṇyante_gaṇay_PPr3InPv hetavaḥ_hetu_PNM sādhya_sādhya_Cp bodhakāḥ_bodhaka_PN"
+  }
+]

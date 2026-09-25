@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37888,
+    "sanskrit": "duḥśāsanaḥ ca nihataḥ pāṇḍavena yaśasvinā pītam ca rudhiram kopāt bhīmasenena saṃyuge etat śrutvā mahā rāja dhṛtarāṣṭraḥ ambikāsutaḥ",
+    "english": "Indeed, his blood also hath been, from wrath, drunk by Bhimasena in battle!'\" Vaishampayana said, \"Hearing these words, O monarch, Ambika's son Dhritarashtra, with heart agitated by grief, addressed his driver Sanjaya, saying, 'Though the evil policy, O sire, of my son of little foresight, Vikartana's son hath been slain! This intelligence is cutting the very core of my heart! I am desirous of crossing this sea of grief! Remove my doubts, therefore, by telling me who are still alive and who are dead amongst the Kurus and the Pandavas!' \"Sanjaya said, 'Endued with great prowess and invincible in battle, Bhishma the son of Shantanu, O king, having slain large numbers of Srinjayas and Pancalas, hath been slain after ten days.",
+    "morphology": "duḥśāsanaḥ_duḥśāsana_SNM ca_ca_U nihataḥ_nihan_SNPaPsM pāṇḍavena_pāṇḍava_SIM yaśasvinā_yaśasvin_SIM pītam_pā_SNPaPsNe ca_ca_U rudhiram_rudhira_SNNe kopāt_kopa_SBM bhīmasenena_bhīmasena_SIM saṃyuge_saṃyuga_SLNe etat_etad_SA"
+  },
+  {
+    "index": 37889,
+    "sanskrit": "tathā hi tathā samanvāhāre tatra varṇo 'pi nīlādiḥ pratibhāsate /",
+    "english": "It is for this reason that in this joint notion, the Colour Blue, also presents itself;",
+    "morphology": "tathā_tathā_ hi_hi_ tathā_tathā_ samanvāhāre_samanvāhāra_SLM tatra_tatra_"
+  },
+  {
+    "index": 37890,
+    "sanskrit": "sā viśvakarmaṇaḥ patnī prāhlādī procyate budhaiḥ || 71 ||",
+    "english": "71. That daughter of Prahlāda is mentioned as the wife of Viśvakarman by learned ones.",
+    "morphology": "sā_tad_SNF viśvakarmaṇaḥ_viśvakarman_SGM patnī_patnī_SNF prāhlādī_prāhlādī_SNF procyate_pravac_SPr3InPv budhaiḥ_budha_PIM"
+  },
+  {
+    "index": 37891,
+    "sanskrit": "tam dṛṣṭvā nihatam śūram bhrātaraḥ sarvatas prabho abhyadravanta samare bhīmam bhīma parākramam",
+    "english": "Beholding that heroic brother of theirs slain, the (other) brothers there, O lord, rushed in that battle, from every side, upon Bhima of terrible prowess.",
+    "morphology": "tam_tad_SAM dṛṣṭvā_dṛś_Co nihatam_nihan_SAPaPsM śūram_śūra_SAM bhrātaraḥ_bhrātṛ_PNM sarvatas_sarvatas_U prabho_prabhu_SVM abhyadravanta_abhidru_PPs3In samare_samara_SLNe bhīmam_bhīma_SAM bhīma_bhīma_Cp parākramāḥ_parākrama_SNM"
+  },
+  {
+    "index": 37892,
+    "sanskrit": "yam na atitapasā kaḥ cit na veda adhyayanena ca na vrataiḥ na upavāsaiḥ ca na prasūtyā na manyunā",
+    "english": "And he readily obtained that which no one could obtain by asceticism, by the study of the Vedas, by vows, by fasts, by progeny, and by sacrifice.",
+    "morphology": "yam_yad_SAM na_na_U atitapasā_atitapas_SINe kaḥ_ka_SNM cit_cit_SNM na_na_U veda_veda_MCp adhyayanena_adhyayana_SINe ca_ca_U na_na_U vrataiḥ_vrata_PINe na_na_U upavāsaiḥ_upavāsa_PIM ca_ca_U na_na_U prasūtyā_prasūti_SIF"
+  },
+  {
+    "index": 37893,
+    "sanskrit": "ajñānājjñānato vāpi yatkiṃcidduṣkṛtaṃ bhavet | prāyaścittaṃ vidhātavyaṃ tannāśāya prayatnataḥ || 24 ||",
+    "english": "24. In case any evil has been committed knowingly or unknowingly, expiatory rites should be performed scrupulously for dispelling it.",
+    "morphology": "ajñānāt_ajñāna_SBNe jñānataḥ_jñāna_SBNe vā_vā_ api_api_ yat_yad_SNNe kiṃcid_kaścit_SNNe duṣkṛtam_duṣkṛta_SNNe bhavet_bhū_SPr3O  / prāyaścittam_prāyaścitta_SNNe vidhātavyam_vidhā_SNNeGd tad_tad_Cp nāśāya_nāśa_SDM prayatna"
+  },
+  {
+    "index": 37894,
+    "sanskrit": "khāḍikya uvāca kathyatāṃ me mahābhāgā cetaso yaḥ śubhāśrayaḥ / yadādhāramaśeṣaṃ taddhanti doṣamalodbhavam // keśidhvāja uvāca āśrayaścetaso brahma dvidhā taccasvabhāvataḥ / bhūpa mūrtamamūrtaṃ ca paraṃ cāparameva ca //",
+    "english": "Khāṇḍikya then said to Keśidhwaja, “Illustrious sage, inform me what is that perfect asylum of the mind, resting on which it destroys all the products of human infirmity.” To this, Keśidhwaja replied, “The asylum of mind is spirit Brahma, which of its own nature is twofold, as being with or without form and each of these is supreme and secondary.",
+    "morphology": "khāḍikyaḥ_khāḍikya_SNM uvāca_vac_SPs3In kathyatām_kathay_SPr3ImPv me_mad_SG mahābhāgā_mahābhāga_SNF cetasaḥ_cetas_SGNe yaḥ_yad_SNM śubha_śubha_Cp āśrayaḥ_āśraya_SNM  / yad_yad_Cp ādhāram_ādhāra_SNNe aśeṣam_aśeṣa_SNNe ta"
+  },
+  {
+    "index": 37895,
+    "sanskrit": "brahmāvyaktaṃ sadāgre 'bhūt na khaṃ rātridinādikaṃ /",
+    "english": "Brahmā, the unmanifest, was the existent being. There was no sky, neither the day nor the night etc.",
+    "morphology": "brahma_brahman_SNNe avyaktam_avyakta_SNNe"
+  }
+]

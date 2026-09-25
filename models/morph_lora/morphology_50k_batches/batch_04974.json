@@ -1,0 +1,50 @@
+[
+  {
+    "index": 39784,
+    "sanskrit": "yudhiṣṭhira uvāca | tīrthasyāsya kathaṃ jāto mahimedṛṅmunīśvara | rūpasaubhāgyadaṃ yena tīrthametadbravīhi me || 4 ||",
+    "english": "Yudhiṣṭhira said: O great sage, how did this Tīrtha come to possess such a great efficacy? Kindly tell me how this Tīrtha became capable of according beauty and good fortune.",
+    "morphology": "yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In  / tīrthasya_tīrtha_SGM asya_idam_SGM katham_katham_ jātaḥ_jan_SNPaM mahimā_mahiman_SNM īdṛś_īdṛś_SNM muni_muni_Cp īśvara_īśvara_SVM  / rūpa_rūpa_Cp saubhāgya_saubhāgya_Cp dam_d"
+  },
+  {
+    "index": 39785,
+    "sanskrit": "na ca nityaparokā kriyā 'numātum api śakyā kāryasya kāraṇapūrvakatvena bhavanmate sambandhagrahaṇānupapatteḥ /",
+    "english": "Again, if an action is absolutely transcendental, it cannot be inferred. You may hold that it may be indirectly inferred. Every effect has a cause. Conjunction and disconjunction are effects.",
+    "morphology": "na_na_ ca_ca_ nitya_nitya_Cp parokā_paroka_SNF kriyā_kriyā_SNF anumātum_anumā_In api_api_ śakyā_śakya_SNF kāryasya_kārya_SGNe kāraṇa_kāraṇa_Cp pūrvaka_pūrvaka_Cp tvena_tva_SINe bhavat_bhavat_Cp mate_mata_SLNe sambandha_sambandha_Cp graha"
+  },
+  {
+    "index": 39786,
+    "sanskrit": "aham ekaḥ avaśiṣṭaḥ tu tasmāt sainyāt mahīpate",
+    "english": "I am the sole survivor, O monarch, of that vast force.",
+    "morphology": "aham_mad_SN ekaḥ_eka_SNM avaśiṣṭaḥ_avaśiṣ_SNPaPsM tu_tu_U tasmāt_tad_SBNe sainyāt_sainya_SBNe mahīpate_mahīpati_SVM"
+  },
+  {
+    "index": 39787,
+    "sanskrit": "trīṇi api etāni jānīyāt ślīpadāni kapha ucchrayāt guru tvam ca mahat tvam ca yasmāt na asti vinā kaphāt",
+    "english": "A preponderance of the deranged Kapha marks the three types of the disease, in as much as, the heaviness and largeness (of the swelling) can not be brought about by any other factor than Kapha.",
+    "morphology": "trīṇi_tri_PANe api_api_U etāni_etad_PANe jānīyāt_jñā_SPr3O ślīpadāni_ślīpada_PANe kapha_kapha_MCp ucchrayāt_ucchraya_SBM guru_guru_Cp tvam_tva_SNNe ca_ca_U mahat_mahat_Cp tvam_tva_SNNe ca_ca_U yasmāt_yad_SBNe na_na_U asti_as_SPr3In vinā_vi"
+  },
+  {
+    "index": 39788,
+    "sanskrit": "tatrasthaś ca svasvagrāmādhipān kuryāt //",
+    "english": "(While he resides) there, let him appoint chiefs (or governors) in every village;",
+    "morphology": "tatrasthaḥ_tatrastha_SNM ca_ca_ sva_sva_Cp sva_sva_Cp grāma_grāma_Cp adhipān_adhipa_PAM kuryāt_kṛ_SPr3O  /"
+  },
+  {
+    "index": 39789,
+    "sanskrit": "pippalī saindhavam tailam nepālī ca īkṣaṇa añjanam",
+    "english": "Pippali, Saindhava and Naipali (Manah-shila) should be pasted together and mixed with oil and be applied along the eye-lids as an Anjana.",
+    "morphology": "__pippalī_U"
+  },
+  {
+    "index": 39790,
+    "sanskrit": "smṛtiḥ katamā saṃstute vastunyasaṃpramoṣaḥ",
+    "english": "What is memory? It is the non-forgetting of a range of events towards which there is acquaintance, and is a certain kind of discourse of citta.",
+    "morphology": "smṛtiḥ_smṛti_SNF katamā_katama_SNF saṃstute_saṃstu_SLPaNe vastuni_vastu_SLNe asaṃpramoṣaḥ_asaṃpramoṣa_SNM"
+  },
+  {
+    "index": 39791,
+    "sanskrit": "kṛṣṇena muninā vipra niyatam satya vādinā",
+    "english": "It has been composed by the ascetic Krishna, O Brahmana, of truthful speech.",
+    "morphology": "kṛṣṇena_kṛṣṇa_SIM muninā_muni_SIM vipra_vipra_SVM"
+  }
+]

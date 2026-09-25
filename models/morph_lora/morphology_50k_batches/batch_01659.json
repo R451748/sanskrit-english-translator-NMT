@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13264,
+    "sanskrit": "samyak karmāntaḥ katamaḥ?",
+    "english": "Herein, monastics, right action is what?",
+    "morphology": "samyak_samyak_"
+  },
+  {
+    "index": 13265,
+    "sanskrit": "pāṇḍūnām māmakaiḥ sārdham aśrauṣam tava jalpataḥ na ca eva māmakam kam cit dhṛṣṭam śaṃsasi saṃjaya",
+    "english": "Thou speakest not, however, O Sanjaya, of any one of my side having been cheerful (on such occasions).",
+    "morphology": "pāṇḍūnām_pāṇḍu_PGM māmakaiḥ_māmaka_PIM sārdham_sārdham_U aśrauṣam_śru_SPs1In tava_tvad_SG jalpataḥ_jalp_SGPaPrM na_na_U ca_ca_U eva_eva_U māmakam_māmaka_SAM kam_ka_SAM cit_cit_U dhṛṣṭam_dhṛṣṭa_SAM śaṇāḥ_śaṇḍ"
+  },
+  {
+    "index": 13266,
+    "sanskrit": "saptamī cākṣaśauṇḍo 'yamahito nañsamāsakaḥ //",
+    "english": "The seventh case is used in the following This one is Akṣaśauṇḍa Akṣeṣu śauṇḍaḥ skilled in dice.",
+    "morphology": "saptamī_saptamī_SNF ca_ca_ akṣa_akṣa_Cp śauṇḍaḥ_śauṇḍa_SNM ayam_idam_SNM ahitaḥ_ahita_SNM "
+  },
+  {
+    "index": 13267,
+    "sanskrit": "prasthāpya puṣkaram rājā vittavantam anāmayam praviveśa puram śrīmān atyartham upaśobhitam",
+    "english": "And the blessed ruler of the Nishadhas, having established Pushkara and made him wealthy and freed him from troubles, entered his richly decorated palace.",
+    "morphology": "prasthāpya_prasthāpay_Co puṣkaram_puṣkara_SAM rājā_rājan_SNM vittavantam_vittavat_SAM anāmayam_anāmaya_SAM praviveśa_praviś_SPs3In puram_pura_SANe śrīmān_śrīmat_SNM atyartham_atyartham_U upaśobhitam_upaśobhay_SAPaPsNe"
+  },
+  {
+    "index": 13268,
+    "sanskrit": "anuśāsanaṃ pratihāryamagcya m /",
+    "english": "Among the three methods of conversion, conversion through the Teaching is the best.",
+    "morphology": "anuśāsanam_anuśāsana_SNNe"
+  },
+  {
+    "index": 13269,
+    "sanskrit": "tatra pratibhūpakṣa idam ucyate /",
+    "english": "The present verse deals with the case where the security is in the form of a surety.",
+    "morphology": "tatra_tatra_"
+  },
+  {
+    "index": 13270,
+    "sanskrit": "yuṣmāsu dṛśyate vṛddhiḥ satyam etat bravīmi vaḥ",
+    "english": "Truly do I say this unto thee.",
+    "morphology": "yuḥ_tvad_PL"
+  },
+  {
+    "index": 13271,
+    "sanskrit": "tasya devādhidevasya mūrttissākṣātsadāśivaḥ | pañcamaṃtratanurdevaḥ kalāpañcakavigrahaḥ || śuddhasphaṭikasaṃkāśaḥ prasannaḥ śītaladyutiḥ | paṃcavaktro daśabhujastripaṃcanayanaḥ prabhuḥ ||",
+    "english": "15-16. The image of the lord of the gods is Sadāśiva himself, the lord with five mantras for his body and the five digits for his physical form. The lord is as bright as crystal, has cool lustre and is delightful. He has five faces, ten arms and fifteen eyes.",
+    "morphology": "tasya_tad_SGM deva_deva_Cp adhidevasya_adhideva_SGM mūrttiḥ_mūrti_SNF sākṣāt_sākṣāt_ sadāśivaḥ_sadāśiva_SNM  / pañca_pañcan_Cp maṃtra_mantra_Cp tanuḥ_tanu_SNM devaḥ_deva_SNM kalā_kalā_Cp pañcaka_pañcaka_Cp vigrahaḥ_vigraha_S"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14200,
+    "sanskrit": "naityakaṃ dharmakāryam sāyaṃ tv annasya ityādi agniśaraṇopalepanācamanodakatarpaṇadānādi /",
+    "english": "There is no such restriction however regarding such service as shampooing the back and the feet, washing of the feet and so forth.",
+    "morphology": "naityakam_naityaka_SNNe dharma_dharma_Cp kāryam_kārya_SNNe sāyam_sāyam_ tu_tu_ annasya_anna_SGNe ityādi_ityādi_SNNe agni_agni_Cp śaraṇa_śaraṇa_Cp upalepana_upalepana_Cp ācamana_ācamana_Cp udaka_udaka_Cp tarpaṇa_tarpaṇa_Cp dāna_dāna_Cp "
+  },
+  {
+    "index": 14201,
+    "sanskrit": "pāpena karmaṇā devi baddhaḥ hiṃsā ratiḥ naraḥ",
+    "english": "That man who is addicted to slaughter and injury, O goddess, becomes, through his sinful deeds, liable to destruction.",
+    "morphology": "pāpena_pāpa_SINe karmaṇā_karman_SINe devi_devī_SVF baddhaḥ_bandh_SNPaPsM hiṃsā_hiṃsā_FCp ratiḥ_rati_SNM naraḥ_nara_SNM"
+  },
+  {
+    "index": 14202,
+    "sanskrit": "sa tu tatpadamāpnoti yasmādbhūyo na jāyate //'",
+    "english": "‘But he who has understanding, who has control over his mind and is ever pure, attains that goal from which he is not born again' .",
+    "morphology": "sa_tad_SNM tu_tu_ tat_tad_SANe padam_pada_SANe āpnoti_āp_SPr3In yasmāt_yad_SBNe bhūyas_bhūyas_ na_na_ jāyate_jan_SPr3In  /"
+  },
+  {
+    "index": 14203,
+    "sanskrit": "evaṃ kṛṣṇo bhadravanaṃ khadirāṇāṃ vanaṃ mahatbilvānāṃ ca vanaṃ paśyan kokilākhyaṃ vanaṃ gataḥ",
+    "english": "Then, gazing at the great forests Bhadravana, Khadiravana, and Bilvavana as He went, Kṛṣṇa entered the forest named Kokilavana.",
+    "morphology": "evam_evam_ kṛṣṇaḥ_kṛṣṇa_SNM bhadra_bhadra_Cp vanam_vana_SANe khadirāṇām_khadira_PGM vanam_vana_SANe mahat_mahat_Cp bilvānām_bilva_PGM ca_ca_ vanam_vana_SANe paśyan_paś_SNPaPrM kokila_kokila_Cp ākhyam_ākhyā_SANe vanam_vana_SANe gata"
+  },
+  {
+    "index": 14204,
+    "sanskrit": "pūrṇaśca payasā kasminneṣāmasucitā kutaḥ || 59 ||",
+    "english": "59. It is filled with water. In which of these is there impurity? Why?",
+    "morphology": "pūrṇaḥ_pṛ_SNPaM ca_ca_ payasā_payas_SINe kasmin_ka_SLM eṣām_idam_PGM a_a_ su_su_ citā_cit_SIF kutas_kutas_"
+  },
+  {
+    "index": 14205,
+    "sanskrit": "yadi copadiśedvipraḥ śūdraṃ caitāni karhicit | tyajeyurbrāhmaṇā vipraṃ taṃ grāmādbrahmasaṃkulāt || 42 ||",
+    "english": "42. If a Brāhmaṇa were to teach a Śūdra these subjects, the other Brāhmaṇas shall banish him from the village, from Brāhmaṇa community.",
+    "morphology": "yadi_yadi_ ca_ca_ upadiśet_upadiś_SPr3O vipraḥ_vipra_SNM śūdram_śūdra_SAM ca_ca_ etāni_etad_PANe karhicit_karhicit_  / tyajeyuḥ_tyaj_PPr3O brāhmaṇāḥ_brāhmaṇa_PNM vipram_vipra_SAM tam_tad_SAM grāmāt_grāma_SBM brahma_brahman_Cp saṃku"
+  },
+  {
+    "index": 14206,
+    "sanskrit": "dvitiyasya vikhāditakavikṣiptālambanāṃ tṛtīyasya vipaṭumnā pūyanibaddhāsthyālambanāṃ caturthasya niśceṣṭamṛtkāyālambanām / abhadena tu śasyate",
+    "english": "The loathsome visualization that has a cadaver eaten by worms and a skeleton held together by its tendons for its object is opposed to the third craving. And the loathsome visualization that has an immobile cadaver for its object is opposed to the fourth craving.",
+    "morphology": "dvitiyasya_dvitiya_SGM vikhāditaka_vikhāditaka_Cp vikṣipta_vikṣip_PaCp ālambanām_ālambana_SAF tṛtīyasya_tṛtīya_SGM pūya_pūya_Cp nibaddha_nibandh_PaCp asthi_asthi_Cp ālambanām_ālambana_SAF caturthasya_caturtha_SGM niśceṣṭa_niśceṣ"
+  },
+  {
+    "index": 14207,
+    "sanskrit": "ghaṭotkacam rākṣasa indram baka bhrātaram eva ca alambuṣam ca rājānam jalasaṃdham ca pārthivam",
+    "english": "of Ghatotkaca the prince of rakshasas, and the brother of Vaka, of Alambusha, the foremost of rakshasas, and king Jalasandha;",
+    "morphology": "ghaṭotkacam_ghaṭotkaca_SAM rākṣasa_rākṣasa_MCp indram_indra_SAM baka_baka_MCp bhrātaram_bhrātṛ_SAM eva_eva_U ca_ca_U alambuṣam_alambuṣa_SAM ca_ca_U rājānam_rājan_SAM jalasaṃdham_jalasaṃdha_SAM ca_ca_U pārthivaḥ_pārthiva_SNM"
+  }
+]

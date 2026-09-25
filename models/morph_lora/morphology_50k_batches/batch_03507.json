@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28048,
+    "sanskrit": "vidhūya tam bāṇa gaṇam śaraiḥ kanaka bhūṣaṇaiḥ vyarocata raṇe rājan dhṛṣṭadyumnaḥ kṛtavraṇaḥ",
+    "english": "Baffling all those shafts decked with gold, Dhrishtadyumna, O king, looked resplendent in that battle in his wounds.",
+    "morphology": "vidhūya_vidhū_Co tam_tad_SAM bāṇa_bāṇa_MCp gaṇam_gaṇa_SAM śaraiḥ_śara_PIM kanaka_kanaka_NeCp bhūṣaṇaiḥ_bhūṣaṇa_PIM vyarocata_viruc_SPs3In raṇe_raṇa_SLM rājan_rājan_SVM dhṛṣṭadyumnaḥ_dhṛṣṭadyumna_SNM kṛtavra"
+  },
+  {
+    "index": 28049,
+    "sanskrit": "kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt //",
+    "english": "Even seeded into a bad field, the gift bears agreeable results, for there is never opposition between the result and the seed.",
+    "morphology": "ku_ku_ kṣetre_kṣetra_SLNe api_api_ iṣṭa_iṣ_PaCp phala_phala_Cp tā_tā_SNF phala_phala_Cp bīja_bīja_Cp aviparyayāt_aviparyaya_SBM  /"
+  },
+  {
+    "index": 28050,
+    "sanskrit": "śrī rajo vṛttaya ūcuḥ rukmāìgada hariścandrām barīṣāṇām satām hariḥ satyam parīkṣan pradadau punar bhāgavatīm śriyam",
+    "english": "The rajo vṛtti gopīs said: When He saw that they were His sincere devotees, Lord Kṛṣṇa gave His own transcendental opulences to Rukmāìgada, Hariścandra, and Ambarīṣa.",
+    "morphology": "śrī_śrī_FCp rajaḥ_rajas_NeCp vṛttayaḥ_vṛtti_PNF ūcuḥ_vac_PPs3In rukmāìgada_rukmāñgada_MCp hariścandrām_hariścandrā_SAF barīṣāṇām_barīṣa_PGM satām_sat_PGM hariḥ_hari_SNM satyam_satya_SANe parīkṣan_parīkṣ_SNPaPrM pra"
+  },
+  {
+    "index": 28051,
+    "sanskrit": "tad atra tāvad asaṃvādāt aprāmāṇyam //",
+    "english": "They are not held to be true because there is no agreement between a promise and its fulfilment.",
+    "morphology": "tat_tad_SNNe atra_atra_ tāvat_tāvat_ asaṃvādāt_asaṃvāda_SBM a_a_ prāmāṇyam_prāmāṇya_SNNe  /"
+  },
+  {
+    "index": 28052,
+    "sanskrit": "artha dyotana hetoḥ ca saṅketasya nara āśrayāt | śaktau itara janyāyām api mithyā tva sambhavaḥ ||",
+    "english": "Inasmuch as the convention that serves to indicate the meaning is dependent upon man,—there would be possibility of ‘falsity’ (mistake) in the potency, even though born otherwise",
+    "morphology": "artha_artha_MCp dyotana_dyotana_NeCp hetoḥ_hetu_SBM ca_ca_U saṅketasya_saṃketa_SGM nara_nara_MCp āśrayāt_āśraya_SBM  / śaktau_śakti_SLF itara_itara_Cp janyāyām_jan_SLFGd api_api_U mithyā_mithyā_U tva_tva_NeCp sambhavaḥ_sambhava_SNM  /"
+  },
+  {
+    "index": 28053,
+    "sanskrit": "na teṣāṃ preṣaṇaṃ nityaṃ teṣāṃ matamanusmaran | yaśobhāgī svadharmasthaḥ svargabhāgī sa jāyate || 20 ||",
+    "english": "Their missions and errands (should not be ignored by him). Remembering and following their opinions and views, he becomes well-reputed, one abiding by his specific duty, and one deserving Svarga.",
+    "morphology": "na_na_ teṣām_tad_PGM preṣaṇam_preṣaṇa_SANe nityam_nityam_ teṣām_tad_PGM matam_mata_SANe anusmaran_anusmṛ_SNPaPrM  / yaśaḥ_yaśas_Cp bhāgī_bhāgin_SNM svadharma_svadharma_Cp sthaḥ_stha_SNM svarga_svarga_Cp bhāgī_bhāgin_SNM sa_tad_S"
+  },
+  {
+    "index": 28054,
+    "sanskrit": "tatra dharmam pravakṣyāmi yena durgāṇi saṃtaret",
+    "english": "I shall now tell you of those duties by performing which one may succeed in crossing such calamity.",
+    "morphology": "tatra_tatra_U dharmam_dharma_SAM pravakṣyāmi_pravac_SFu1In"
+  },
+  {
+    "index": 28055,
+    "sanskrit": "dvau putrau vinatāyāḥ tu vikhyātau garuḍa aruṇau",
+    "english": "And Vinata had two sons Garuda and Aruna, known far and wide.",
+    "morphology": "dvau_dvi_DuNM"
+  }
+]

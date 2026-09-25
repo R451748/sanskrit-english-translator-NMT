@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10000,
+    "sanskrit": "tataḥ sa manasi dhyātvā kuṣṭhavyādhiparikṣayam | snānaṃ cakre yathānyāyaṃ śraddhayā parayā yutaḥ || 51 ||",
+    "english": "Then he deeply meditated on the utter eradication of the foul disease of leprosy and duly took his holy bath with great faith.",
+    "morphology": "tatas_tatas_ sa_tad_SNM manasi_manas_SLNe dhyātvā_dhyā_Co kuṣṭha_kuṣṭha_Cp vyādhi_vyādhi_Cp parikṣayam_parikṣaya_SAM  / snānam_snāna_SANe cakre_kṛ_SPs3In yathānyāyam_yathānyāyam_ śraddhayā_śraddhā_SIF parayā_para_SIF yutaḥ_y"
+  },
+  {
+    "index": 10001,
+    "sanskrit": "jagadvirājoḥ sattaikā pavanaspandayoriva / jagadyatsa virāḍeva yo virāṭ tajjagatsmṛtam //",
+    "english": "The world and Virat are both of the same essence, as that of air and its motion in the wind; that which is the world, the same is Virat;and what Virat is, the very same is the world also.",
+    "morphology": "jagat_jagant_Cp virājoḥ_virāj_DuGM sattā_sattā_SNF ekā_eka_SNF pavana_pavana_Cp spandayoḥ_spanda_DuGM iva_iva_  / jagat_jagant_SNNe yat_yad_SNNe sa_tad_SNM virāj_virāj_SNM eva_eva_ yaḥ_yad_SNM virāj_virāj_SNM tat_tad_SNNe jagant_jagant_SNNe "
+  },
+  {
+    "index": 10002,
+    "sanskrit": "tasmin vimarde yodhānāṃ saṃkhyāvyaktir na vidyate //",
+    "english": "In that encounter of both the contending armies an endless number of headless figures arose from all sides.",
+    "morphology": "tasmin_tad_SLM vimarde_vimarda_SLM yodhānām_yodha_PGM saṃkhyā_saṃkhyā_Cp vyaktiḥ_vyakti_SNF na_na_ vidyate_vid_SPr3InPv  /"
+  },
+  {
+    "index": 10003,
+    "sanskrit": "paśyāmi lokān amalān śucīn brāhmaṇa yāyinaḥ",
+    "english": "I behold many regions of beautitude waiting for me that have reverentially walked behind the Brahmanas.",
+    "morphology": "paśyāmi_paś_SPr1In lokān_loka_PAM amalān_amala_PAM śucīn_śuci_PAM brāhmaṇa_brāhmaṇa_MCp yāyinaḥ_yāyin_PAM"
+  },
+  {
+    "index": 10004,
+    "sanskrit": "na ca tṛṣṇā bhayāt atra pāyayeta śiśum stanau",
+    "english": "In case of fever a child should be given no suck at all, lest the symptoms of thirst might develop.",
+    "morphology": "na_na_U ca_ca_U tṛṣṇā_tṛṣṇā_FCp bhayāt_bhaya_SBNe"
+  },
+  {
+    "index": 10005,
+    "sanskrit": "sa guruvat parisevitavyo mānam ujjhitvā / naivaṃ mantavyam mahārāja eṣo 'pi samatvena vārttāvahe iti / prabhuvad asau sevitavyaḥ /",
+    "english": "And such a king shall he served like a preceptor; and in so doing the king shall not consider his dignity at all; he should have no such notion as \"he also is a great king, so shall treat him as my equal\"; in fact he shall be attended upon, like a master.",
+    "morphology": "sa_tad_SNM guru_guru_Cp vat_vat_ parisevitavyaḥ_pariṣev_SNMGd mānam_māna_SAM ujjhitvā_ujh_Co  / na_na_ evam_evam_ mantavyam_man_SNNeGd mahā_mahat_Cp rāja_rāja_SVM eṣaḥ_etad_SNM api_api_ sama_sama_Cp tvena_tva_SINe vārttāvahe_vārttāvaha_SL"
+  },
+  {
+    "index": 10006,
+    "sanskrit": "snigdhasvinnayavantoyaṃ pradātavyaṃ virecanam //",
+    "english": "Glossy and greasy barley water should be given as a purgative.",
+    "morphology": "snigdha_snih_PaCp svinna_svid_PaCp yavantoyam_yavantoya_SNNe pradātavyam_pradā_SNNeGd"
+  },
+  {
+    "index": 10007,
+    "sanskrit": "ā sam yatam indra ṇaḥ svastim śatru tūryāya br̥hatīm amr̥dhrām yayā dāsāni āryāṇi vr̥trā karaḥ vajrin su tukā nāhuṣāṇi",
+    "english": "Give us confirmed prosperity, O Indra, vast and exhaustless for the foe's subduing. Strengthen therewith the Arya's hate and Dâsa's, and let the arms of Nahushas be mighty.",
+    "morphology": "ā_ā_U sam_sam_U yatam_yam_SAPaPsM indra_indra_SVM naḥ_mad_PD svastim_svasti_SAF śatru_śatru_MCp tūryāya_tūrya_SDNe br̥hatīm_brahmat_SAF amr̥dhrām_amr̥dhra_SAF yayā_yad_SIF dāsāni_dāsa_PANe āryāṇi_ārya_PANe vr̥trā_vrātra_PANe kara"
+  }
+]

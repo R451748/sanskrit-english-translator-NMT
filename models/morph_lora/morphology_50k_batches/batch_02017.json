@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16128,
+    "sanskrit": "svata iti /",
+    "english": "In answer to this, the.",
+    "morphology": "svatas_"
+  },
+  {
+    "index": 16129,
+    "sanskrit": "bodhisattvabhūtaḥ kilāyaṃ bhagavāṃllokahitārthaḥ saṃsārādhvani vartamānaścāritraguṇaviśuddhyabhilakṣitaṃ kṣititalatilakabhūtamanyatamaṃ mahadbrāhmaṇakulaṃ gaganatalamiva śaradamalaparipūrṇamaṇḍalaścandramāḥ samutpatannevābhyalaṃcakāra /",
+    "english": "In the time, when our Lord, still being a Bodhisattva, was moving on his road through Samsāra for the good of the world, he was born of an illustrious family of Brāhmans, which being distinguished by great purity of conduct might pass for an ornament of the earth. His birth enhanced the lustre of this family in the same way as the moon rising in autumn with full and spotless orb, beautifies the firmament.",
+    "morphology": "bodhisattva_bodhisattva_Cp bhūtaḥ_bhū_SNPaM kila_kila_ ayam_idam_SNM bhagavān_bhagavant_SNM loka_loka_Cp hita_hita_Cp arthaḥ_artha_SNM saṃsāra_saṃsāra_Cp adhvani_adhvan_SLM vartamānaḥ_vṛt_SNPaPrM cāritra_cāritra_Cp guṇa_guṇa_Cp viś"
+  },
+  {
+    "index": 16130,
+    "sanskrit": "svadharmam anuvṛttasya cāniyamo 'vidhitvāt /",
+    "english": "Hence there would be no restriction.",
+    "morphology": "svadharmam_svadharma_SAM anuvṛttasya_anuvṛt_SGPaM ca_ca_ aniyamaḥ_SNM"
+  },
+  {
+    "index": 16131,
+    "sanskrit": "tasya vārimayaṃ vegamāpīya sa narādhipaḥ | vahnibāṇena vahniṃ tu śamayāmāsa vāriṇā ||",
+    "english": "35. The king quaffed off the gushing water through fiery arrows and quelled the fire through water.",
+    "morphology": "tasya_tad_SGM vāri_vāri_Cp mayam_maya_SAM vegam_vega_SAM āpīya_āpā_Co sa_tad_SNM narādhipaḥ_narādhipa_SNM  / vahni_vahni_Cp bāṇena_bāṇa_SIM"
+  },
+  {
+    "index": 16132,
+    "sanskrit": "so 'py anyavaddūtamukhenārthayām āsa pārthivaḥ / hṛtakanyastayā sākaṃ teṣāmāgamanaṃ gṛhe //",
+    "english": "That king, like the others, requested, by the mouth of the ambassador, that, as his daughter had been carried off, they would come with her to his palace.",
+    "morphology": "saḥ_tad_SNM api_api_ anya_anya_Cp vat_vat_ dūta_dūta_Cp mukhena_mukha_SINe arthayām_arthay_SPs3InPe āsa_arthay_SPs3InPe pārthivaḥ_pārthiva_SNM  / hṛta_hṛ_PaCp kanyastayā_kanyasta_SIF ha_ha_ ḥ_ha_ ḥ_ḥ_"
+  },
+  {
+    "index": 16133,
+    "sanskrit": "atra nānāvidha ākārāḥ timayaḥ na eka rūpiṇaḥ apsu soma prabhām pītvā vasanti jala cāriṇaḥ atra sūrya aṃśubhiḥ bhinnāḥ pātāla talam āśritāḥ",
+    "english": "Here dwell diverse kinds of aquatic animals, of various shapes such as the Timi and others, which subsist on the rays of the moon.",
+    "morphology": "atra_atra_U nānāvidha_nānāvidha_Cp ākārāḥ_ākāra_PNM timayaḥ_timi_PNM na_na_U eka_eka_Cp rūpiṇaḥ_rūpin_PNM apsu_ap_PLF soma_soma_MCp prabhām_prabhā_SAF pītvā_pā_Co vasanti_vas_PPr3In jala_jala_NeCp cāriṇaḥ_cārin_PNM atra_atra_U"
+  },
+  {
+    "index": 16134,
+    "sanskrit": "asādhāraṇam evedaṃ svarūpaṃ cittacaittayoḥ /",
+    "english": "As a matter of fact, the form of the mind and mental effects is not-common (specific);",
+    "morphology": "__asādhāraṇa_U"
+  },
+  {
+    "index": 16135,
+    "sanskrit": "agnibiṃdoḥ stutiṃ yotra mādhavāgre paṭhiṣyati | samṛddhasarvakāmaḥ sa mokṣalakṣmīpatirbhavet || 47 ||",
+    "english": "247. He who reads Agnibindu’s prayer here in front of Mādhava shall have his desires richly fulfilled. He will become master of the glory of salvation.",
+    "morphology": "agnibiṃdoḥ_agnibindu_SGM stutim_stuti_SAF yaḥ_yad_SNM atra_atra_ mādhava_mādhava_Cp agre_agra_SLNe paṭhiṣyati_paṭh_SFu3In  / samṛddha_samṛdh_PaCp sarva_sarva_Cp kāmaḥ_kāma_SNM sa_tad_SNM mokṣa_mokṣa_Cp lakṣmī_lakṣmī_Cp pati"
+  }
+]

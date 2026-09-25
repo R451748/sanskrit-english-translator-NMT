@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10336,
+    "sanskrit": "annāde bhrūṇahā mārṣṭi patyau bhāryāpacāriṇī / gurau śiṣyaś ca yājyaś ca steno rājani kilbiṣam //",
+    "english": "The Embryokiller expurgates his guilt on him who eats his food, the misbehaving wife on her husband, the disciple and the sacrificer on the preceptor, and the thief on the king.",
+    "morphology": "anna_anna_Cp āde_āda_SLM bhrūṇa_bhrūṇa_Cp hā_han_SNM mārṣṭi_mṛj_SPr3In patyau_pati_SLM bhāryā_bhāryā_SNF apacāriṇī_apacārin_SNF  / gurau_guru_SLM śiṣyaḥ_śiṣya_SNM ca_ca_ yājyaḥ_yājya_SNM ca_ca_ stenaḥ_stena_SNM rājan"
+  },
+  {
+    "index": 10337,
+    "sanskrit": "dāsyāmi te tadā astrāṇi yadā pūtaḥ bhaviṣyasi",
+    "english": "I will give thee all weapons when thou wilt become pure.",
+    "morphology": "dāsyāmi_dā_SFu1In_SFu1In"
+  },
+  {
+    "index": 10338,
+    "sanskrit": "su saṃvītaḥ raṇe tābhiḥ yotsye aham kuru nandana evam bruvāṇaḥ gāndhāre rāmaḥ mām satya vikramaḥ",
+    "english": "Well-covered by these in battle, O son of Kuru's race, I will fight!' Having said this, O Gandhari's son.",
+    "morphology": "su_su_U saṃvītaḥ_saṃvye_SNPaPsM raṇe_raṇa_SLM tābhiḥ_tad_PIF yotsye_yudh_SFu1In aham_mad_SN kuru_kuru_MCp nandana_nandana_SVM evam_evam_U bruvāṇaḥ_brū_SNPaPrM gāndhāre_gāndhāri_SVM rāmaḥ_rāma_SNM"
+  },
+  {
+    "index": 10339,
+    "sanskrit": "prakṛtam prakaraṇam /",
+    "english": "‘Prakṛta’ stands for the Context in which the words are used.",
+    "morphology": "prakṛtam_prakṛ_SNPaPsNe"
+  },
+  {
+    "index": 10340,
+    "sanskrit": "api ca navatvasaptatvādinirdhāraṇasya phalasya tannirdhārayituḥ pramātuśca tatkaraṇasya pramāṇasya prameyasya ca navatvāderaniyame sādhu samarthitamātmanastīrthakaratvaṃ devānāṃpriyeṇārhatamatapravartake na|",
+    "english": "An admirable author of institutes has the founder of the Ārhata system, dear to the gods (uninquiring pietist), proved himself to be, when he has not ascertained whether his result is the settling of nine or of seven principles, nor the investigator who settles them, nor his organon, the modes of evidence, nor the matter to be evidenced, whether it be ninefold or not!",
+    "morphology": "api_api_ ca_ca_ navatva_navatva_Cp saptatva_saptatva_Cp ādi_ādi_Cp nirdhāraṇasya_nirdhāraṇa_SGNe phalasya_phala_SGNe tad_tad_Cp nirdhārayituḥ_nirdhārayitṛ_SGM pramātuḥ_pramātṛ_SGM ca_ca_ tad_tad_Cp karaṇasya_karaṇa_SGNe pramāṇasy"
+  },
+  {
+    "index": 10341,
+    "sanskrit": "madhunā kālaśākena khaḍgamāṃsena kevalam | sa hi śrāddhaṃ trayodaśyāṃ kuru te pāyasena ca || 8 ||",
+    "english": "8. He used to perform Śrāddha on the Tryodaśī day with honey, Kālaśāka (kind of greens), the meat of a Khaḍga (rhino) and milk pudding.",
+    "morphology": "madhunā_madhu_SINe kālaśākena_kālaśāka_SINe khaḍga_khaḍga_Cp māṃsena_māṃsa_SINe kevalam_kevalam_  / sa_tad_SNM hi_hi_ śrāddham_śrāddha_SANe trayodaśyām_trayodaśī_SLF kuru_kṛ_SPr2Im te_tvad_SG pāyasena_pāyasa_SINe"
+  },
+  {
+    "index": 10342,
+    "sanskrit": "tasmāt diśaḥ saritaḥ ca sravanti tasmāt samudrāḥ vihitāḥ mahāntaḥ",
+    "english": "It is from that Seed that directions (points of the compass) and rivers spring, and the vast seas also have derived their origin.",
+    "morphology": "tasmāt_tad_SBM diśaḥ_diś_PNF saritaḥ_sarit_PNF ca_ca_U sravanti_sru_PPr3In"
+  },
+  {
+    "index": 10343,
+    "sanskrit": "śrīrāma uvāca / bṛhaspaterbhagavataḥ putro'sau bhagavānkacaḥ / yathā prabuddho bhagavansamāsena tathā vada //",
+    "english": "Rama said, please to tell me sir, in short, how this Kacha the saintly son of the sage Brihaspati, came to his reason and right understanding, after he was deluded before by error as Sikhidvaja.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / bṛhaspateḥ_bṛhaspati_SGM bhagavataḥ_bhagavat_SGM putraḥ_putra_SNM asau_adas_SNM bhagavān_bhagavat_SNM kacaḥ_kaca_SNM  / yathā_yathā_ prabuddhaḥ_prabudh_SNPaM bhagavan_bhagavat_SVM sam"
+  }
+]

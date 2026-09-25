@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1448,
+    "sanskrit": "ayaṃ cirasthasaṃkalpaḥ sargapralayavibhramaḥ / jñānaṃ svabhāvakacanamajñānaṃ bhrāntijṛmbhaṇam //",
+    "english": "It is the longstanding and deep rooted prejudice, that produces the erroneous conceptions of the creation and destruction of the world; it is wisdom to know it in its true light, and foolishness to take the wrong view of it.",
+    "morphology": "ayam_idam_SNM cira_cira_Cp stha_stha_Cp saṃkalpaḥ_saṃkalpa_SNM sarga_sarga_Cp pralaya_pralaya_Cp vibhramaḥ_vibhrama_SNM  / jñānam_jñāna_SNNe svabhāva_svabhāva_Cp kacanam_kacana_SNNe ajñānam_ajñāna_SNNe bhrānti_bhrānti_Cp jṛmbhaṇam_j"
+  },
+  {
+    "index": 1449,
+    "sanskrit": "sanmātramantarahitākhilahastajātaṃ paryantahīnagaṇanāṅgamamuktarūpam / ātmāmbarātmakamahaṃ tvidameva sarvaṃ sustambharūpamajamaunamalaṃ vikalpaiḥ //",
+    "english": "There is but one endless being, stretching his innumerable arms to the infinity of space; I am that vacuous soul embracing every thing ad infinitum, and I find myself as that stupendous pillar, in my uncreated and all comprehensive soul, which is ever as quiescent and transparent and without any change in itself.",
+    "morphology": "sat_sat_Cp mātram_mātra_SNNe anta_anta_Cp rahita_rahita_Cp akhila_akhila_Cp hasta_hasta_Cp jātam_jan_SNPaNe paryanta_paryanta_Cp hīna_hā_PaCp gaṇanā_gaṇanā_Cp aṅgam_aṅga_SNNe amukta_amukta_Cp rūpam_rūpa_SNNe  / ātma_ātman_Cp ambara_ambar"
+  },
+  {
+    "index": 1450,
+    "sanskrit": "prabhuḥ hi annam adan vidvān punar janayati īśvaraḥ",
+    "english": "Having eaten it, he begets other food.",
+    "morphology": "prabhuḥ_prabhu_SNM hi_hi_U annam_anna_SANe adan_ad_SNPaPrM vidvān_vid_SNPaPsM"
+  },
+  {
+    "index": 1451,
+    "sanskrit": "atha sā taṃ kare kṛtvā tasyā hāraṃ prayacchati | tāvadanyā prajagrāha hāraṃ śṛṃgāralālasā || 50 ||",
+    "english": "50. The queen took the necklace in the hand and gave it to her. By that time, another lady eagerly longing for elegant embellishments caught hold of the necklace.",
+    "morphology": "atha_atha_ sā_tad_SNF tam_tad_SAM kare_kara_SLM kṛtvā_kṛ_Co tasyāḥ_tad_SGF hāram_hāra_SAM prayacchati_prayam_SPr3In  / tāvat_tāvat_ anyā_anya_SNF prajagrāha_pragrah_SPs3In hāram_hāra_SAM śṛṃgāra_śṛṃgāra_Cp lālasā_lālasa_SNF"
+  },
+  {
+    "index": 1452,
+    "sanskrit": "salabdhatejā bhagavānbrahmaṇā vardhitaḥ svayam | tapastepe mahābhāga padmānāṃ daśatīrdaśa || 24 ||",
+    "english": "24. O blessed one, that venerably glorious (Moon) caused to flourish by Brahmā himself, obtained brilliance and performed penance for a hundred Padma years (Padma is one thousand billion).",
+    "morphology": "sa_sa_ labdha_labh_PaCp tejāḥ_tejas_SNM bhagavān_bhagavant_SNM brahmaṇā_brahman_SIM vardhitaḥ_vardhay_SNPaM svayam_svayam_  / tapaḥ_tapas_SANe tepe_tap_SPs3In mahābhāga_mahābhāga_SVM padmānām_padmā_PGF daśatīḥ_daśat_PAF daśa_daśan_"
+  },
+  {
+    "index": 1453,
+    "sanskrit": "tava jyotīṃṣy arcayaḥ |",
+    "english": "Thou art the stone which maketh the sacrifice for the gods;",
+    "morphology": "tava_tvad_SG"
+  },
+  {
+    "index": 1454,
+    "sanskrit": "tasyām asya jajñe hastī yaḥ idam hāstinapuram māpayām āsa etat asya hāstinapura tvam",
+    "english": "To her was born a son named Hasti who founded this city, which has, therefore, been called Hastinapura.",
+    "morphology": "tasyām_tad_SLF asya_idam_SGM jajñe_jan_SPs3In hastī_hastin_SNM yaḥ_yad_SNM idam_idam_SANe hāstinapuram_hāstinapura_SANe māpayām_māpay_SPs3In āsa_as_SPs3In etat_etad_SNNe asya_idam_SGM hāstinapura_hāstinapura_NeCp tvam_tva_SNNe"
+  },
+  {
+    "index": 1455,
+    "sanskrit": "nanu vāyvantarikṣe tvatrivṛtkṛte tejaḥ prabhṛtiṣvanantarbhūtatvādavaśiṣyete /",
+    "english": "ObjectionIn the above account Air and AntarikṣaSkyremain untriplicated, as they are not included among Fire and the rest which have been mentioned;",
+    "morphology": "nanu_nanu_ vāyu_vāyu_Cp antarikṣe_antarikṣa_DuNNe tu_tu_ a_a_ trivṛt_trivṛt_Cp kṛte_kṛ_DuNPaNe tejaḥ_tejas_SNNe prabhṛtiṣu_prabhṛti_PLF an_an_ antarbhūta_antarbhū_PaCp tvāt_tva_SBNe avaśiṣyete_avaśiṣ_DuPr3InPv  /"
+  }
+]

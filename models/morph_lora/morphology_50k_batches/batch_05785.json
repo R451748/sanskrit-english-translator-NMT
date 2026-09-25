@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46272,
+    "sanskrit": "putrāṇām janma vṛddhim ca vaidika adhyayanāni ca",
+    "english": "The birth, growth, and Vedic studies of these children of Pandu, will, no doubt, give you great pleasure.",
+    "morphology": "putrāṇām_putra_PGM janma_janman_NeCp vṛddhim_vṛddhi_SAF ca_ca_U vaidika_vaidika_Cp adhyayanāni_adhyayana_PANe ca_ca_U"
+  },
+  {
+    "index": 46273,
+    "sanskrit": "sarvāḥ ratha gatāḥ kanyāḥ rathāḥ sarve catur yujaḥ",
+    "english": "Each of those maidens sat upon a car and unto each car were attached four steeds.",
+    "morphology": "sarvāḥ_sarva_PNF ratha_ratha_MCp gatāḥ_gam_PNPaPsF kanyāḥ_kanyā_PNF rathāḥ_ratha_PNM sarve_sarva_PNM catur_catur_Cp yujaḥ_yuj_PNM"
+  },
+  {
+    "index": 46274,
+    "sanskrit": "snānakāmasya saptāhampūrvamutsādanaṃ smṛtaṃ //",
+    "english": "Sam. ..0. Consisting of curd, clarified butter, water, honey and candied sugar. Cf.",
+    "morphology": "snāna_snāna_Cp kāmasya_kāma_SGM sapta_saptan_Cp aham_aha_SAM pūrvam_pūrva_SNNe utsādanam_utsādana_SNNe smṛtam_smṛ_SNPaNe  /"
+  },
+  {
+    "index": 46275,
+    "sanskrit": "tatrāvatīrya nabhaso vismayālokito janaiḥ / rājaveśma pituḥ pārśvaṃ viveśa saparicchadaḥ //",
+    "english": "There he alighted from the air, beheld with wonder by the subjects, and entered the palace, and went with his attendants into the presence of the king.",
+    "morphology": "tatra_tatra_ avatīrya_avatṛ_Co nabhasaḥ_nabhas_SBNe vismaya_vismaya_Cp ālokitaḥ_ālokay_SNPaM janaiḥ_jana_PIM  / rāja_rājan_Cp veśma_veśman_SANe pituḥ_pitṛ_SGM pārśvam_pārśva_SANe viveśa_viś_SPs3In sa_sa_ paricchadaḥ_paricchada_SN"
+  },
+  {
+    "index": 46276,
+    "sanskrit": "asmād eva pratiṣedhād gurāv etad anuktam api kartavyatayā pratīyate /",
+    "english": "It is from this prohibition that it follows that, even though not directly enjoined, these acts should be done for the teacher.",
+    "morphology": "asmāt_idam_SBM eva_eva_ pratiṣedhāt_pratiṣedha_SBM gurau_guru_SLM etat_etad_SNNe anuktam_anukta_SNNe api_api_ kartavya_kṛ_GdCp tayā_tā_SIF pratīyate_pratī_SPr3InPv  /"
+  },
+  {
+    "index": 46277,
+    "sanskrit": "tataś ca saṃskārakramatīvramandatānimittatā yujyata iti sambandhaḥ /",
+    "english": "The construction is that ‘On these grounds the varying grades of intensity become quite explicable’.",
+    "morphology": "tatas_tatas_ ca_ca_ saṃskāra_saṃskāra_Cp krama_krama_Cp tīvra_tīvra_Cp manda_manda_Cp tā_tā_Cp nimitta_nimitta_Cp tā_tā_SNF yujyate_yuj_SPr3InPv iti_iti_ sambandhaḥ_sambandha_SNM  /"
+  },
+  {
+    "index": 46278,
+    "sanskrit": "māṃsāda māṃseṣu ghṛtam ca siddham śosa apaham kṣaudra kaṇā sametam",
+    "english": "The use of a medicated clarified butter duly cooked with the essence of the flesh of any carnivorous animal and mixed with Pippali and honey as an after-throw proves remedial in a case of Phthisis.",
+    "morphology": "māṃsāda_māṃsāda_MCp māṃseṣu_māṃsa_PLNe ghṛtam_ghṛta_SNNe ca_ca_U siddham_sidh_SNPaPsNe śosa_śosa_MCp apaham_apaha_SNNe kṣaudra_kṣaudra_NeCp kaṇā_kaṇā_FCp"
+  },
+  {
+    "index": 46279,
+    "sanskrit": "asṛk majjā ca yat ca anyat snigdham vidyāt tad ātmakam",
+    "english": "Blood, marrow, and all else (in the body) that is cool, should be known to have water for their essence.",
+    "morphology": "asṛk_asṛj_SNNe majjā_majjan_SNM ca_ca_U yat_yad_SNNe ca_ca_U anyat_anya_SNNe snigdham_snigdha_SNNe vidyāt_vid_SPr3O tad_tad_Cp ātmakam_ātmaka_SANe"
+  }
+]

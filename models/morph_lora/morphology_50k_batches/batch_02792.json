@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22328,
+    "sanskrit": "sāpi dṛṣṭvā tamabhyetya pāpā bhītā tadābravīt / na me doṣo 'hamānītā bhilleneha balāditi //",
+    "english": "When the wicked woman saw him, she approached him in fear, and said: “It is not my fault;",
+    "morphology": "sā_tad_SNF api_api_ dṛṣṭvā_dṛś_Co tam_tad_SAM abhyetya_abhye_Co pāpā_pāpa_SNF bhītā_bhī_SNPaF tadā_tadā_ bravīt_brū_S3ImIn  / na_na_ me_mad_SG doṣaḥ_doṣa_SNM aham_mad_SN ānītā_ānī_SNPaF bhillena_bhilla_SIM iha_iha_ balāt_ba"
+  },
+  {
+    "index": 22329,
+    "sanskrit": "tvāūtaḥ vājī ahrayaḥ abhi pūrvasmāt aparaḥ pra dāśvān agne asthāt",
+    "english": "When guarded by thee the racer becomes fearless; the worshipper, O Agni, who is behind, gains the advantage 1 over him who is ahead.",
+    "morphology": "tvāūtaḥ_tvāūta_SNM vājī_vājin_SNM ahrayaḥ_ahraya_SNM abhi_abhi_U pūrvaḥ"
+  },
+  {
+    "index": 22330,
+    "sanskrit": "yam vayam mṛgayāmahe tam vadhaiḥ stṛṇavāmahai / vyātte parameṣṭhinaḥ brahmaṇā apīpadāma tam /",
+    "english": "We hunt that man, we beat him down and slay him with our murderous blows. We with the spell have hurried him to Parameshthin's opened jaws.",
+    "morphology": "yam_yad_SAM vayam_mad_PN mṛgayāmahe_mṛgay_PPr1In tam_tad_SAM vadhaiḥ_vadha_PIM stṛṇavāmahai_stṛ_PPr1Su  / vyātte_vyādā_SLPaPsNe parameṣṭhinaḥ_parameṣṭhin_SGM brahmaṇā_brahman_SINe apāḥ_pad_SPs2In"
+  },
+  {
+    "index": 22331,
+    "sanskrit": "tvaṃ ca putrakṛte tāta santoṣaṃ paramaṃ gataḥ | tasmātputreṇa saṃyukto yathāyaṃ syāttathā kuru || 46 ||",
+    "english": "46. O father, you have become extremely glad on account of your son. Hence see that he also has a son.",
+    "morphology": "tvam_tvad_SN ca_ca_ putra_putra_Cp kṛte_kṛte_ tāta_tāta_SVM santoṣam_saṃtoṣa_SAM paramam_parama_SAM gataḥ_gam_SNPaM  / tasmāt_tasmāt_ putreṇa_putra_SIM saṃyuktaḥ_saṃyuj_SNPaM yathā_yathā_ ayam_idam_SNM syāt_as_SPr3O tathā_tathā"
+  },
+  {
+    "index": 22332,
+    "sanskrit": "viśūddhau pāratantryam iti vistaraḥ /",
+    "english": "There is dependence upon something other in relation to purity.",
+    "morphology": "viśūddhau_viśūddhi_SLF"
+  },
+  {
+    "index": 22333,
+    "sanskrit": "atrerbhāryyā cānasūyā trīṇi varṣaśatāni ca | muśaleṣu nirāhārā suptvā śarvāttatassutān || dattātreyaṃ muniṃ lebhe candraṃ durvāsasaṃ tathā | gaṃgāṃ pravartayāmāsa citrakūṭe pativratā ||",
+    "english": "18-19. Anasūyā, the chaste wife of Atri observed fast for three hundred years sleeping only on the threshing rod. She secured the three sons—the sage Dattātreya, Durvāsas and the moon, thanks to Śiva’s favour. She made Gaṅgā flow in Citrakūṭa.[2]",
+    "morphology": "atreḥ_atri_SGM bhāryā_bhāryā_SNF ca_ca_ anasūyā_anasūyā_SNF trīṇi_tri_PANe varṣa_varṣa_Cp śatāni_śata_PANe ca_ca_  / muśaleṣu_muśala_PLM nirāhārā_nirāhāra_SNF suptvā_svap_Co śarvāt_śarva_SBM tatas_tatas_ sutān_suta_PAM  / "
+  },
+  {
+    "index": 22334,
+    "sanskrit": "etat vai śrotum icchāmi tat bhavān prabravītu me",
+    "english": "Do tell me this.",
+    "morphology": "etat_etad_SANe vai_vai_U"
+  },
+  {
+    "index": 22335,
+    "sanskrit": "ātmavatsarvabhūtāni ye paśyanti narottamāḥ | tulyāḥ śatruṣu mitreṣu te vai bhāgavatāḥ smṛtāḥ || 46 ||",
+    "english": "46. Those excellent men who see all living beings as their own selves, those who behave equally towards enemies and friends are indeed remembered as (i.e. said to be) Bhāgavatas.",
+    "morphology": "ātma_ātman_Cp vat_vat_ sarva_sarva_Cp bhūtāni_bhūta_PANe ye_yad_PNM paśyanti_dṛś_PPr3In nara_nara_Cp uttamāḥ_uttama_PNM  / tulyāḥ_tulya_PNM śatruṣu_śatru_PLM mitreṣu_mitra_PLM te_tad_PNM vai_vai_ bhāgavatāḥ_bhāgavata_PNM smṛtā"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25440,
+    "sanskrit": "tadeva nirmalaṃ ceto yathāsyāttanmune śṛṇu | viśveśaścetprasannaḥ syāttadā syānnānyathā kvacit || 43 ||",
+    "english": "143. O sage, listen, how that mind can be free from impurities. If Viśveśa (Lord Śiva) is pleased, only then can it be so, and not otherwise anywhere.",
+    "morphology": "tat_tad_SNNe eva_eva_ nirmalam_nirmala_SNNe cetaḥ_cetas_SNNe yathā_yathā_ asyāt_as_SPr3O tat_tad_SANe mune_muni_SVM śṛṇu_śru_SPr2Im  / viśveśaḥ_viśveśa_SNM ced_ced_ prasannaḥ_prasad_SNPaM syāt_as_SPr3O tadā_tadā_ syāt_as_SPr3O na_na_"
+  },
+  {
+    "index": 25441,
+    "sanskrit": "tathā hi dvividho 'pohaḥ paryudāsaniṣedhataḥ /",
+    "english": "As a matter of fact, Apoha is of two kinds due to difference between (1) Paryudāsa (relative negation, contradistinction, exclusion) and (2) niṣedha (absolute negation, denial, prohibition).",
+    "morphology": "tathā_tathā_ hi_hi_ dvividhaḥ_dvividha_SNM __ap_U __"
+  },
+  {
+    "index": 25442,
+    "sanskrit": "tat paraṃ prāgataḥ sakṣad golokaṃ prāviśan muniḥ vṛndāvanaṃ govardhanaṃ yamunā pulinaṃ śubhamdṛṣṭvā prasannaḥ sa munir nikuñjaṃ prāviśat tadāgopa gopī gaṇa vṛtaṃ gavāṃ koṭibhir anvitam",
+    "english": "Crossing it, the sage entered the realm of Goloka. Gazing at Vṛndāvana forest, Govardhana Hill, and the Yamunā's shore, the sage became happy. Then he entered a forest grove that was filled with gopas, gopīs, and millions of surabhi cows.",
+    "morphology": "tat_tad_SANe param_para_SANe prāgataḥ_prāgam_SNPaM sakṣat_sah_SPs3Su golokam_goloka_SAM prāviśat_praviś_S3ImIn muniḥ_muni_SNM vṛndāvanam_vṛndāvana_SANe govardhanam_govardhana_SANe yamunā_yamunā_SNF pulinam_pulina_SANe śubham_śubha_SANe"
+  },
+  {
+    "index": 25443,
+    "sanskrit": "ity upaniṣatpratiṣedhaḥ //",
+    "english": "Such are the secret measures to get rid of seditious persons",
+    "morphology": "iti_"
+  },
+  {
+    "index": 25444,
+    "sanskrit": "adhigatārthādhigantṛtvād iti cet /",
+    "english": "It might be argued that “It has not been so regarded as it apprehends what has been already apprehended”.",
+    "morphology": "adhigata_adhigam_PaCp artha_artha_Cp adhigantṛ_adhigantṛ_Cp tvāt_tva_SBNe"
+  },
+  {
+    "index": 25445,
+    "sanskrit": "apare manyante satyaṃ mukhyam upagamanam amukhyatve tu gamanapratiṣedhānupapattiḥ iti /",
+    "english": "Others, again, have held the view thatin reality, the intercourse itself is the principal factor; for, if it were not so, there would be no point in the prohibiting of intercourse with maidens.",
+    "morphology": "apare_apara_PNM manyante_man_PPr3In satyam_satya_SNNe mukhyam_mukhya_SNNe upagamanam_upagamana_SNNe a_a_ mukhya_mukhya_Cp tve_tva_SLNe tu_tu_ gamana_gamana_Cp pratiṣedha_pratiṣedha_Cp anupapattiḥ_anupapatti_SNF"
+  },
+  {
+    "index": 25446,
+    "sanskrit": "janānurāgaprabhavā rājño rājyamahīśriyaḥ //34//",
+    "english": "The kingdom and the wealth of the earth of a king belong to him by the goodwill of the people.",
+    "morphology": "jana_jana_Cp anurāga_anurāga_Cp prabhavāḥ_prabhava_PNF rājñaḥ_rājan_SGM rājya_rājya_Cp mahī_mahī_Cp śriyaḥ_"
+  },
+  {
+    "index": 25447,
+    "sanskrit": "prahasyovāca sā caṃḍī bhūtānāṃ tatra śrṛṇvatām | śaṃbhorudvahanārthāya pretārūḍhā vrajāmyaham || 74 || haimaṃ kalaśamādāya śirasā bibhratī svayam | karavālīsvarūpeṇa caṃḍī jātā tataḥ svayam || 75 ||",
+    "english": "74-76. That Caṇḍī laughed and said to the Bhūtas who were listening: “Mounted on a ghost, I am going (to attend) the marriage ceremony of Śaṃbhu. I am holding this golden pot on my head (for the same purpose).” Then Caṇḍī changed herself into the form of Śīva’s nearest female relative.",
+    "morphology": "prahasya_prahas_Co uvāca_vac_SPs3In sā_tad_SNF caṃḍī_caṇḍī_SNF bhūtānām_bhūta_PGNe tatra_tatra_ śrṛṇvatām_śru_PGPaPrNe  / śaṃbhoḥ_śambhu_SGM udvahana_udvahana_Cp arthāya_artha_SDM preta_preta_Cp ārūḍhā_āruh_SNPaF vrajām"
+  }
+]

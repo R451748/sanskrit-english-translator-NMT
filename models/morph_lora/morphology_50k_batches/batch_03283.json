@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26256,
+    "sanskrit": "hatvā garvasamārūḍho bhīṣmadromajayadrathān / karṇādīṃś ca na jānāti balaṃ grāmanivāsinām //",
+    "english": "His pride is raised by the death of Bhīṣma, Droṇa, Jayadratha, Karṇa, and others, whom he has slain he does not know the prowess of simple villagers.",
+    "morphology": "hatvā_han_Co garva_garva_Cp samārūḍhaḥ_samāruh_SNPaM bhīṣma_bhīṣma_Cp droma_droman_Cp jayadrathān_jayadratha_PAM  / karṇa_karṇa_Cp ādīn_ādi_PAM"
+  },
+  {
+    "index": 26257,
+    "sanskrit": "vāsudevaḥ tu rādheyam āhave abhijagāma vai",
+    "english": "Vasudeva then went to Radha's son on the field of battle.",
+    "morphology": "vāsudevaḥ_ṛṣṇi_SVM"
+  },
+  {
+    "index": 26258,
+    "sanskrit": "asmin naṣṭe pitāsyaiṣo mama mantrī vinaṅkṣyati / etannāśe rājyanāśas tad iha brūta kā gatiḥ // ity uktās tena rājñā tāḥ sarvāḥ prakṛtayo 'bruvan / rājño dharmaṃ nijaṃ prāhuḥ prajānāṃ dharmarakṣaṇam //",
+    "english": "If he dies, his father, who is my minister, will perish; and if he perishes, my kingdom is ruined, so tell me what I am to do in this matter.” When the king said this, all those ministers said: “They say that the special virtue of a king is the protection of the virtue of his subjects.",
+    "morphology": "asmin_idam_SLM naṣṭe_naś_SLPaM pitā_pitṛ_SNM asya_idam_SGM eṣaḥ_etad_SNM mama_mad_SG mantrī_mantrin_SNM vinaṅkṣyati_vinaś_SFu3In  / etad_etad_Cp nāśe_nāśa_SLM rājya_rājya_Cp nāśaḥ_nāśa_SNM tat_tad_SANe iha_iha_ brūta_brū_PPr"
+  },
+  {
+    "index": 26259,
+    "sanskrit": "īśvara uvāca | prakṛtiśca tato buddhirahaṃkārastato'bhavat | tanmātrapaṃcakaṃ tasmādeṣā prakṛtiraṣṭadhā || 13 ||",
+    "english": "The Lord said: 13. Prakṛti (the original source of the material world), then Buddhi (intellect), then Ahaṃkāra (ego sense) that originated from it, the five Tanmātras (i.e. the group of the five subtle and primary elements—this is the eightfold Prakṛti.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / prakṛtiḥ_prakṛti_SNF ca_ca_ tatas_tatas_ buddhiḥ_buddhi_SNF ahaṃkāraḥ_ahaṃkāra_SNM tatas_tatas_ abhavat_bhū_S3ImIn  / tanmātra_tanmātra_Cp paṃcakam_pañcaka_SNNe tasmāt_tad_SBNe eṣā_eta"
+  },
+  {
+    "index": 26260,
+    "sanskrit": "bhṛgukacchasya cotpattiḥ kathitā tava pāṇḍava | saṃkṣepeṇa mahārāja sarvapāmapraṇāśanī || 60 ||",
+    "english": "O great king, O son of Pāṇḍu, the story of (he origin of Bhṛgukaccha, the destroyer of all sins, has been succinctly recounted to you.",
+    "morphology": "bhṛgukacchasya_bhṛgukaccha_SGM ca_ca_ utpattiḥ_utpatti_SNF kathitā_kathay_SNPaF tava_tvad_SG pāṇḍava_pāṇḍava_SVM  / saṃkṣepeṇa_saṃkṣepa_SIM mahā_mahat_Cp rāja_rāja_SVM sarva_sarva_Cp pāma_pāman_Cp praṇāśanī_praṇāśan"
+  },
+  {
+    "index": 26261,
+    "sanskrit": "śrī hema śibire ramye patākā dhvaja maṇòitecandra maṇòala śobhāòhye vitāna tanite śubhe",
+    "english": "Śrī Rādhā's beautiful golden palanquin was decorated with flags, ornaments, a graceful awning glorious like the moon,",
+    "morphology": "śrī_śrī_FCp hema_heman_NeCp śibire_śibira_SLNe ramye_ramya_SLNe"
+  },
+  {
+    "index": 26262,
+    "sanskrit": "na bhakṣayanti atas māṃsam tapaḥ yuktāḥ manīṣiṇaḥ",
+    "english": "It is for this reason that men of wisdom who are endued with penances refrain from eating meat.",
+    "morphology": "na_na_U bhakṣayanti_bhakṣay_PPr3In atahā_atahā_U māṃsahā_māṃsa_SANe tapahā_tapahā_U"
+  },
+  {
+    "index": 26263,
+    "sanskrit": "āpsyaṃti dhanyāḥ khalu te manuṣyāḥ sukhairyutāḥ karmaṇi sanniviṣṭāḥ | janurhi yeṣāṃ khalu bhārate'sti te svargamokṣobhayalābhavantaḥ ||",
+    "english": "21. Only blessed human beings derive this pleasure. They are happy and their minds are interested in sacred rites. Those who take birth in Bhārata have the two gains of attaining heaven and salvation.",
+    "morphology": "āpsyanti_āp_PFu3In dhanyāḥ_dhanya_PNM khalu_khalu_ te_tad_PNM manuṣyāḥ_manuṣya_PNM sukhaiḥ_sukha_PINe yutāḥ_yuta_PNM karmaṇi_karman_SLNe sanniviṣṭāḥ_saṃniviś_PNPaM  / januḥ_janus_SNNe hi_hi_ yeṣām_yad_PGM khalu_khalu_ bhā"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1280,
+    "sanskrit": "iyam gaṅgā iti niyatam pratiṣṭhā",
+    "english": "Ganga held Guha, the generalissimo of the celestial forces, in her womb.",
+    "morphology": "iyam_idam_SNF"
+  },
+  {
+    "index": 1281,
+    "sanskrit": "dāridryam iti yat proktam paryāya maraṇam hi tat",
+    "english": "That which hath been called poverty is only a form of death.",
+    "morphology": "dāridryam_dāridrya_SNNe iti_iti_U yat_yad_SNNe proktam_pravac_SNPaPsNe"
+  },
+  {
+    "index": 1282,
+    "sanskrit": "tena naḥ vājinīvasūitivājinī vasū paśve tokāya śam gave vahatam pīvarīḥ iṣaḥ",
+    "english": "For this, ye Lords of ample wealth, bring blessing for our herd, our kine, Our progeny, and plenteous food.",
+    "morphology": "tena_tad_SIM naḥ_mad_PD vājinīvasūitivājinī_vājinīvasu_DuVM vasū_vasu_DuVM paśve_paśu_SDM tokāya_toka_SDNe śam_śam_SANe gave_go_SDM vahatam_vah_DuPr2Im"
+  },
+  {
+    "index": 1283,
+    "sanskrit": "tathāpi śrūyatāṃ nātha svaduḥkhaṃ brūmahe vayam | tvadājñayā mahādeva kṛpādṛṣṭyā vilokaya ||",
+    "english": "59. Still at your behest, O lord, we shall mention our grief. Be pleased to hear. O lord, look at us with your merciful eye.",
+    "morphology": "tathā_tathā_ api_api_ śrūyatām_śru_SPr3ImPv nātha_nātha_SVM sva_sva_Cp duḥkham_duḥkha_SANe brūmahe_brū_PPr1In vayam_mad_PN  / tvad_tvad_Cp ājñayā_ājñā_SIF mahādeva_mahādeva_SVM kṛpā_kṛpā_Cp dṛṣṭyā_dṛṣṭi_SIF vilokaya"
+  },
+  {
+    "index": 1284,
+    "sanskrit": "ṛṣaya ūcuḥ | sūtasūta mahābhāga vyāsaśiṣya namostu te | śrāvitādyādbhutā śaivakathā paramapāvanī ||",
+    "english": "1. O Sūta the fortunate, O Sūta the disciple of Vyāsa, obeisance be to you. This wonderfully sanctifying story of Śiva has been narrated to-day.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / sūta_sūta_Cp sūta_sūta_SVM mahābhāga_mahābhāga_SVM vyāsa_vyāsa_Cp śiṣya_śiṣya_SVM namaḥ_namas_SNNe astu_as_SPr3Im te_tvad_SD  / śrāvitā_śrāvay_SNPaF adya_adya_ adbhutā_adbhuta_SNF śaiv"
+  },
+  {
+    "index": 1285,
+    "sanskrit": "balidehe'dhikāndṛṣṭvā daityebhyo viniveditāḥ | balirguṇādhiko daityāḥ kathaṃ kāryaṃ bhavenmayā || 162 ||",
+    "english": "162. Seeing more merits in Bali’s person, he reported them to the demons. O demons, Bali is superior in qualities; how would the task be done by me?",
+    "morphology": "bali_bali_Cp dehe_deha_SLM adhikān_adhika_PAM dṛṣṭvā_dṛś_Co daityebhyaḥ_daitya_PDM viniveditāḥ_viniveday_PNPaM  / baliḥ_bali_SNM guṇa_guṇa_Cp adhikaḥ_adhika_SNM daityāḥ_daitya_PVM katham_katham_ kāryam_kṛ_SNNeGd bhavet_bhū_SP"
+  },
+  {
+    "index": 1286,
+    "sanskrit": "etāṃ dṛṣṭimavaṣṭabhya svaprāṇābhyāsapūrvikām / bhuśuṇḍavanmahābāho bhava tīrṇamahārṇavaḥ //",
+    "english": "Keeping this instance in view, and following his practice of pranayama or regulation of breath; you will also, O mighty armed Rama! pass over the wide ocean of this hazardous ocean.",
+    "morphology": "etām_etad_SAF dṛṣṭim_dṛṣṭi_SAF avaṣṭabhya_avaṣṭambh_Co sva_sva_Cp prāṇa_prāṇa_Cp abhyāsa_abhyāsa_Cp pūrvikām_pūrvaka_SAF  / bhuśuṇḍa_bhuśuṇḍa_Cp vat_vat_ mahā_mahat_Cp bāho_bāhu_SVM bhava_bhū_SPr2Im tīrṇa_t"
+  },
+  {
+    "index": 1287,
+    "sanskrit": "tatas devaḥ mahādevaḥ śūlapāṇiḥ bhaga akṣi hā saṃpragṛhya tu nistriṃśam kāla arka anala saṃnibham trikūṭam carma ca udyamya sa vidyutam iva ambudam",
+    "english": "The divine Mahadeva, the bearer of the Sula, the tearer of Bhaga's eyes, taking up the sword whose splendour resembled that of the all-destructive Yuga fire, and wielding a large shield with three high bosses which looked like a mass of dark clouds adorned with flashes of lightning, began to perform diverse kinds of evolutions.",
+    "morphology": "tatas_tatas_U devaḥ_deva_SNM mahādevaḥ_mahādeva_SNM śūlapāṇiḥ_śūlapāṇi_SNM bhaga_bhaga_MCp akṣi_akṣi_NeCp hā_han_SNM saṃpragṛhya_saṃpragrah_Co tu_tu_U nistriṃśam_nistriṃśa_SAM kāla_kāla_MCp arka_arka_MCp anala_anala_MCp"
+  }
+]

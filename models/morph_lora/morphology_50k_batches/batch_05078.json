@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40616,
+    "sanskrit": "tena bhāṣita gīta ādi viśeṣaḥ abhipravartate",
+    "english": "It produces speech, song, etc.",
+    "morphology": "tena_tena_U"
+  },
+  {
+    "index": 40617,
+    "sanskrit": "mahāsaṃśayamāpannau prakṛtiḥ puruṣaśca tau | tadā vāṇī samutpannā nirguṇātparamātmanaḥ | tapaścaiva prakartavyaṃ tatassṛṣṭiranuttamā ||",
+    "english": "7. Then a voice arose from the great attributeless Ātman—“Penance shall be pursued by you for the generation of excellent creation.”",
+    "morphology": "mahā_mahat_Cp saṃśayam_saṃśaya_SAM āpannau_āpad_DuNPaM prakṛtiḥ_prakṛti_SNF puruṣaḥ_puruṣa_SNM ca_ca_ tau_tad_DuNM  / tadā_tadā_ vāṇī_vāṇī_SNF samutpannā_samutpad_SNPaF nirguṇāt_nirguṇa_SBM paramātmanaḥ_paramātman_S"
+  },
+  {
+    "index": 40618,
+    "sanskrit": "mahā balaḥ mahā utsāhaḥ sa hema kavacaḥ nṛpaḥ",
+    "english": "That king eased in golden mail is endued with great might and great courage.",
+    "morphology": "mahā_mahat_Cp balaḥ_bala_SNM mahā_mahat_Cp utsāhaḥ_utsāha_SNM sa_sa_U hema_heman_NeCp kavacaḥ_kavaca_SNM"
+  },
+  {
+    "index": 40619,
+    "sanskrit": "tatra tatra ca siddhārthaḥ deva kanyābhiḥ uhyate",
+    "english": "Crowned with the fruition of every desire as it springs up in the mind, he is waited upon and adored by celestial damsels.",
+    "morphology": "tatra_tatra_U tatra_tatra_U ca_ca_U"
+  },
+  {
+    "index": 40620,
+    "sanskrit": "pro ṣv asmai puroratham indrāya śūṣam arcata |",
+    "english": "To Indra, here sing strength To place his chariot in the front;",
+    "morphology": "pra_pra_ u_u_ su_su_ asmai_idam_SDM purorathaḥ_puroratha_SNM indrāya_indra_SDM śūṣam_śūṣa_SAM"
+  },
+  {
+    "index": 40621,
+    "sanskrit": "ata eva svagrahaṇasāpekṣaḥ tadanumāne 'sau vyāpriyate na rūpādipramitāv iva tannirapekṣa iti //",
+    "english": "Therefore, the knowledge of the sense-object-contact is essential in case of an inference but, on the other hand, in case of perceptual knowledge, e. g., the direct awareness of colour154 the very presence of sense-object-contact is required.",
+    "morphology": "atas_atas_ eva_eva_ sva_sva_Cp grahaṇa_grahaṇa_Cp sāpekṣaḥ_sāpekṣa_SNM tad_tad_Cp anumāne_anumāna_SLNe asau_adas_SNM vyāpriyate_vyāprī_SPr3InPv na_na_ rūpa_rūpa_Cp ādi_ādi_Cp pramitau_pramiti_SLF iva_iva_ tad_tad_Cp nirapekṣaḥ_nira"
+  },
+  {
+    "index": 40622,
+    "sanskrit": "paramārthatas tu padasphoṭo vākyāvayavabhūto nāsty eva /",
+    "english": "But really speaking, a pada-sphota does not constitute the part of a sentence.",
+    "morphology": "paramārthataḥ_paramārtha_SBM tu_tu_ pada_pada_Cp sphoṭaḥ_sphoṭa_SNM vākya_vākya_Cp avayava_avayava_Cp bhūtaḥ_bhū_SNPaM"
+  },
+  {
+    "index": 40623,
+    "sanskrit": "yaḥ snāyūḥ pravijānāti bāhyāḥ ca ābhyantarāḥ tathā",
+    "english": "Only the physician, who is acquainted with the internal and external ligaments (Snayus) of the body, is qualified to extract a hidden and imbedded Shalya (extraneous matter etc.) from any part of the body.",
+    "morphology": "yaḥ_yad_SNM snāyūḥ_snāyu_PAF pravijānāti_pravijñā_SPr3In bāhyāḥ_bāhya_PAF"
+  }
+]

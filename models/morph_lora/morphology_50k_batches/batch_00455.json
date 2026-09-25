@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3632,
+    "sanskrit": "vikṣaradbhiḥ nadadbhiḥ ca nipatadbhiḥ ca vāraṇaiḥ saṃbabhūva mahī kīrṇā meghaiḥ dyauḥ iva śāradī",
+    "english": "And the earth, strewn with elephants dragging (hostile compeers) and roaring and falling down, looked beautiful like the autumnal sky overspread with clouds.",
+    "morphology": "vikṣaradbhiḥ_vikṣar_PIPaPrM nadadbhiḥ_nad_PIPaPrM ca_ca_U nipatadbhiḥ_nipat_PIPaPrM ca_ca_U vāraṇaiḥ_vāraṇa_PIM saṃbabhūva_sambhū_SPs3In mahī_mahī_SNF kīrṇā_kṛ_SNPaPsF meghaiḥ_megha_PIM dyauḥ_div_SNF iva_iva_U śāradī_ś"
+  },
+  {
+    "index": 3633,
+    "sanskrit": "ekaikaśas samastān vā na adhyaśnīyāt rasān sadā |",
+    "english": "Articles of one taste should not be eaten in large quantities at a time, nor articles of various tastes should be constantly indulged in.",
+    "morphology": "ekaikaśas_ekaikaśas_U"
+  },
+  {
+    "index": 3634,
+    "sanskrit": "vyādhāṃś chākunikān gopān kaivartān mūlakhānakān /",
+    "english": "Hunters, Fowlers, Cowherds, Fishermen, Rootdiggers, Snakecatchers, Gleaners and other Foresters0.",
+    "morphology": "vyādhān_vyādha_PAM śākunikān_śākunika_PAM gopān_gopa_PAM kaivartān_kaivarta_PAM"
+  },
+  {
+    "index": 3635,
+    "sanskrit": "atandritaḥ varṣati bhūri tejāḥ saṃnādayan antarikṣam divam ca",
+    "english": "The sleepless Indra, possessed of a mighty force, pours down rain, resounding the heaven and the cardinal points.",
+    "morphology": "atandritaḥ_atandrita_SNM varṣati_vṛṣ_SPr3In bhūri_bhūri_Cp tejāḥ_tejas_SNM saṃnādayan_saṃnāday_SNPaPrM antarikṣam_antarikṣa_SANe"
+  },
+  {
+    "index": 3636,
+    "sanskrit": "pāṇḍavāḥ api dīnāḥ te duḥkha śoka parāyaṇāḥ yānaiḥ strī sahitāḥ sarve puram praviviśuḥ tadā",
+    "english": "The Pandavas, exceedingly cheerless and afflicted with grief and sorrow accompanied by their wives, returned to the city, on their cars.",
+    "morphology": "pāṇḍavāḥ_pāṇḍava_PNM api_api_U dīnāḥ_dīna_PNM te_tad_PNM duḥkha_duḥkha_NeCp śoka_śoka_MCp parāyaṇāḥ_parāyaṇa_PNM yānaiḥ_yāna_PINe strī_strī_FCp sahitāḥ_sahita_PNM sarve_sarva_PNM puram_pura_SANe praviviśuḥ_pravi"
+  },
+  {
+    "index": 3637,
+    "sanskrit": "nānābharaṇabhūṣāḍhyā nānāratnopaśobhitāḥ | nānāvasanasaṃvītā nānāyuvasamanvitāḥ || 3 || nānāvāhanasaṃyuktā nānāsvaraninādinīḥ | bhayanāśāya viprāṇāṃ kājeśena vinirmitāḥ || 4 ||",
+    "english": "3-4. (These deities) richly beautified with different kinds of ornaments, resplendent with different kinds of gems, wearing different kinds of garments, equipped with different kinds of weapons, riding different kinds of vehicles and producing different kinds of notes, have been created by Brahmā, Viṣṇu and Īśa for the removal of the fear of Brāhmaṇas.",
+    "morphology": "nānā_nānā_ ābharaṇa_ābharaṇa_Cp bhūṣā_bhūṣā_Cp āḍhyāḥ_āḍhya_PNF nānā_nānā_ ratna_ratna_Cp upaśobhitāḥ_upaśobhay_PNPaF  / nānā_nānā_ vasana_vasana_Cp saṃvītāḥ_saṃvye_PNPaF nānā_nānā_ yuva_yuvan_Cp samanvit"
+  },
+  {
+    "index": 3638,
+    "sanskrit": "viśoṣī tatra bhūyiṣṭham varukaḥ sa mukundakaḥ ||",
+    "english": "The species Varuka and Mukundaka are largely possessed of absorbing virtues.",
+    "morphology": "viśoṣī_viśoṣin_SNM"
+  },
+  {
+    "index": 3639,
+    "sanskrit": "tasmānna tebhyastahita iti devatātvābhāva iti yathā paścāttanaḥ pātā pūrvapātrupalakṣaṇam /",
+    "english": "Thus then, the meaning of the Mantra would come to be this You, and Patnivan, who are associated with Tvashtr, drink the soma! On the other hand, how could the mention of Tvashtr being the drinker of soma even if the Mantra could be made to give this meaning make Him the Deity of that offering? Because the sole function of the Deity of a sacrifice lies in his serving as the agent with reference to whom the offerings are made and not in his actually eating or drinking the materials offered.",
+    "morphology": "tasmāt_tasmāt_ na_na_ tebhyaḥ_tad_PDM tahitaḥ_tahita_SNM iti_iti_ devatā_devatā_Cp tva_tva_Cp abhāvaḥ_abhāva_SNM iti_iti_ yathā_yathā_ paścāttanaḥ_paścāttana_SNM"
+  }
+]

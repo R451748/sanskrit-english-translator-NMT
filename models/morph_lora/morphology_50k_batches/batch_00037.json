@@ -1,0 +1,50 @@
+[
+  {
+    "index": 288,
+    "sanskrit": "viśeṣaṇaiḥ viśeṣaṇaviśiṣṭārthagrahaṇaṃ darśayati /",
+    "english": "‘By the class-character, etc.’ This indicates the apprehension of the Thing as qualified by qualifications.",
+    "morphology": "viśeṣaṇaiḥ_viśeṣaṇa_PNNe viśeṣaṇa_viśeṣaṇa_Cp viśiṣṭa_viśiṣ_PaCp artha_artha_Cp grahaṇa_saṃ_"
+  },
+  {
+    "index": 289,
+    "sanskrit": "tataścāṅgāni vinyasya sarvajñānītyanukramāt | kalpayedupacārāṃśca ṣoḍaśāsanapūrvakān ||",
+    "english": "40. He shall then perform the Nyāsa of the limbs. The sixteen forms[1] of ancillary services beginning with the offering of the seat shall also be performed.",
+    "morphology": "tatas_tatas_ ca_ca_ aṅgāni_aṅga_PANe vinyasya_vinyas_Co sarva_sarva_Cp jñāni_jña_PNNe iti_iti_ anukramāt_anukrama_SBM  / __kalpay_PPr2Im __upacāra_U __tatra_U __tatra_U __tatra_U __U __U __U"
+  },
+  {
+    "index": 290,
+    "sanskrit": "yāḥ phalāvalayo yena saṃprāptāḥ siddhināmikāḥ / tāstenādhigatā rāma nijātprayatanadrumāt //",
+    "english": "The success which attends on any body in the consummation of his object, is entirely owing to his personal exertion, and may be called the fruit of the tree of his own labour.",
+    "morphology": "yāḥ_yad_PNF phala_phala_Cp āvalayaḥ_āvali_PNF yena_yad_SIM saṃprāptāḥ_samprāp_PNPaF siddhi_siddhi_Cp nāmikāḥ_nāmaka_PNF  / tāḥ_tad_PNF tena_tad_SIM adhigatāḥ_adhigam_PNPaF ḥ_ḥ_SNF āḥ_adh_SNF āḥ_adh_SNF āḥ_adh_SNF āḥ"
+  },
+  {
+    "index": 291,
+    "sanskrit": "nirhastāḥ santu śatravaḥ aṅga eṣām mlāpayāmasi / atha eṣām indra vedāṃsi śataśas vi bhajāmahai /",
+    "english": "Handless be these our enemies! We enervate their languid limbs. So let us part among ourselves, in hundreds, Indra! all their wealth.",
+    "morphology": "nirhastāḥ_nirhasta_PNM santu_as_PPr3Im śatravaḥ_śatru_PNM aṅga_aṅga_U eṣām_idam_PGM mlāpayāmasi_mlāpay_PPr1In  / atha_atha_U eṣām_idam_PGM indra_indra_SVM vedāṇā_vedas_PANe"
+  },
+  {
+    "index": 292,
+    "sanskrit": "yāvanti romāṇi bhavanti tasyā",
+    "english": "As regards Passion, it dwells in such properties of theirs as pungency, sourness, sweetness, etc, which change with time or in consequence of cooking or through admixture.",
+    "morphology": "yāvanti_yāvat_PNNe romāṇi_roman_PNNe"
+  },
+  {
+    "index": 293,
+    "sanskrit": "tiryagjaṃturavaṃ śrutvā brāhmaṇo vismito'vadat | kutaḥ krośasi godhe tvaṃ daśeyaṃ kena karmaṇā || 19 || tvaṃ devaḥ puruṣaḥ kaścinnṛpo vā'tha dvijo'tha vā | kastvaṃ brūhi mahābhāga tvāmadyāhaṃ samuddhare || 20 ||",
+    "english": "19-20. The Brāhmaṇa was surprised on hearing the sound of a being of lower stratum. He asked: “O lizard, where are you crying from? What Karma has brought you to this condition? Are you a Deva, an ordinary man, a king or a Brāhmaṇa? Tell me who you are, O highly blessed one. To-day I shall redeem you.”",
+    "morphology": "tiryak_tiryañc_Cp jaṃtu_jaṅgu_Cp ravam_rava_SAM śrutvā_śru_Co brāhmaṇaḥ_brāhmaṇa_SNM vismitaḥ_vismi_SNPaM avadat_vad_S3ImIn  / kutas_kutas_ krośasi_kruś_SPr2In godhe_godhā_SVF tvam_tvad_SN daśeyam_daṃś_SPr1O kena_ka_SINe karmaṇā"
+  },
+  {
+    "index": 294,
+    "sanskrit": "kuśikaḥ nāma dharma jñaḥ tasya putraḥ mahīpatiḥ",
+    "english": "King Valakaswa had a son named Kusika of righteous behaviour.",
+    "morphology": "kuśikaḥ_kuśika_SNM nāma_nāma_U dharma_dharma_MCp jñaḥ_jña_SNM"
+  },
+  {
+    "index": 295,
+    "sanskrit": "tatastau sūryasaṃkāśau yuyudhāte parasparam | nānāśastraistathāstraiśca ciraṃ vīravarottamau ||",
+    "english": "46. Then both of them, the most excellent of heroes refulgent like the sun, fought each other with different kinds of weapons and missiles.",
+    "morphology": "tatas_tatas_ tau_tad_DuNM sūrya_sūrya_Cp saṃkāśau_saṃkāśa_DuNM yuyudhāte_yudh_DuPs3In parasparam_paraspara_SAM  / nānā_nānā_ śastraiḥ_śastra_PINe tathā_tathā_ astraiḥ_astra_PINe ca_ca_ cirāt_cirāt_ "
+  }
+]

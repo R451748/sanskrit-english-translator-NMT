@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34600,
+    "sanskrit": "indreṇa niṣadham prāpya giriprastha āśrame tadā",
+    "english": "According to the Hindus, the sun rises from and sets behind two hills respectively.",
+    "morphology": "indreṇa_indra_SIM"
+  },
+  {
+    "index": 34601,
+    "sanskrit": "gaja vāji manuṣyāṇām śarīrāṇi śitaiḥ śaraiḥ bhittvā praharatām śreṣṭhaḥ videha asūn cakāra saḥ",
+    "english": "Piercing the bodies of the elephants and steeds and men with sharp shafts, that foremost of smiters overthrew and deprived them of life.",
+    "morphology": "gaja_gaja_MCp vāji_vājin_Cp manuṣyāṇām_manuṣya_PGM śarīrāṇi_śarīra_PANe śitaiḥ_śā_PIPaPsM śaraiḥ_śara_PIM bhittvā_bhid_Co praharatām_prahṛ_PGPaPrM śreṣṭhaḥ_śreṣṭha_SNM videha_videha_MCp asūn_asu_PAM cakāra_kṛ_S"
+  },
+  {
+    "index": 34602,
+    "sanskrit": "yasya trī pūrṇā madhunā padāni akṣīyamāṇā svadhayā madanti yaḥ oṁ iti tri dhātu pr̥thivīm uta dyām ekaḥ dādhāra bhuvanāni viśvā",
+    "english": "Him whose three footsteps filled with mead, un-failing. Revel in blissful joy; who has supported Alone the universe in three divisions: The earth and sky and all created beings.",
+    "morphology": "yasya_yad_SGM trī_tri_PNNe pūrṇā_pṛ_PNPaPsNe madhunā_madhu_SINe padāni_pada_PNNe akṣīyamāṇā_akṣīyamāṇa_PNNe svadhayā_svadhā_SIF madanti_mad_PPr3In yaḥ_yad_SNM oṁ_oṃ_U iti_iti_U tri_tri_Cp dhātu_dhātu_SANe pr̥thivīm_prthiv"
+  },
+  {
+    "index": 34603,
+    "sanskrit": "āgamiṣyāmyahaṃ kāle svaśiṣyeṇa samanvitaḥ | kariṣyāmi paraṃ śreyastava vatsa na saṃśayaḥ || 47 ||",
+    "english": "47. “I shall come at the proper time accompanied by my pupil. I shall do something very beneficial to you, O dear one, there is no doubt about it.”",
+    "morphology": "āgamiṣyāmi_āgam_SFu1In aham_mad_SN kāle_kāla_SLM sva_sva_Cp śiṣyeṇa_śiṣya_SIM samanvitaḥ_samanvita_SNM  / kariṣyāmi_kṛ_SFu1In param_para_SANe śreyaḥ_śreyas_SANe tava_tvad_SG vatsa_vatsa_SVM na_na_ saṃśayaḥ_saṃśaya_SNM"
+  },
+  {
+    "index": 34604,
+    "sanskrit": "tat eṣaḥ ṛṣabhaḥ nāma parvataḥ sāgara urasi",
+    "english": "Here is this mountain called Rishabha on the seaside.",
+    "morphology": "tat_tad_SANe eṣaḥ_etad_SNM ṛṣabhaḥ_ṛṣabha_SNM nāma_nāma_U parvataḥ_parvata_SNM sāgara_sāgara_MCp urasi_uras_SLNe"
+  },
+  {
+    "index": 34605,
+    "sanskrit": "divase saptadaśame yaḥ prāpte prāśate haviḥ sadā dvādaśa māsān vai juhvānaḥ jātavedasam sthānam vāruṇam aindram ca raudram ca eva adhigacchati",
+    "english": "The period for which he enjoys such happiness consists of countless years.[498] That man who having fasted for sixteen days eats a little ghee on the seventeenth day and bears himself in this way for a whole year, pouring libations every day on his sacred fire, proceeds to the regions of Varuna and Indra, and Rudra and the Maruts and Usanas and Brahman himself.",
+    "morphology": "divase_divasa_SLM saptadaśame_saptadaśama_SLM yaḥ_yad_SNM prāpte_prāp_SLPaPsM prāśate_prāś_SPr3In haviḥ_havis_SANe sadā_sadā_U dvādaśa_dvādaśan_SANe māsān_māsa_PAM vai_vai_U juhvānaḥ_hu_SNPaPrM jātavedasam_jātavedas_SAM sthānam_s"
+  },
+  {
+    "index": 34606,
+    "sanskrit": "munayo dakṣaṇe pārśve yugādyāścottarāḥ smṛtāḥ / bhujagāḥ pādasaṃsthāś ca īśvarā mūrdhni saṃsthitāḥ //",
+    "english": "The herbs represented symbolically by muni in the list should be used in unguent for the right side, by yuga for the left side, by bhujaga for the foot and īśvara for the head.",
+    "morphology": "munayaḥ_muni_PNM dakṣaṇe_dakṣaṇa_SLM pārśve_pārśva_SLM yuga_yuga_Cp ādyāḥ_ādya_PNM ca_ca_ uttarāḥ_uttara_PNM smṛtāḥ_smṛ_PNPaM  / bhujagāḥ_bhujaga_PNM pāda_pāda_Cp saṃsthāḥ_saṃstha_PNM ca_ca_ īśvarāḥ_īśvara_PN"
+  },
+  {
+    "index": 34607,
+    "sanskrit": "śūraḥ prājñaḥ bahūnām hi bhavati ekaḥ na saṃśayaḥ stambamitraḥ uvāca",
+    "english": "Without doubt, one only amongst many becometh wise and brave.' \"The third brother, Stamvamitra, said, 'The eldest brother is called the protector.",
+    "morphology": "śūraḥ_śūra_SNM prājñaḥ_prājña_SNM bahūnām_bahu_PGM hi_hi_U bhavati_bhū_SPr3In ekaḥ_eka_SNM na_na_U saṃśayaḥ_saṃśaya_SNM stambamitraḥ_stambamitra_SNM uvāca_vac_SPs3In"
+  }
+]

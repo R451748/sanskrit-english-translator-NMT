@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28552,
+    "sanskrit": "pañcavargaḥ kāpaṭikodāsthitagṛhapativaidehikatāpasavyañjanāḥ /",
+    "english": "\"Fivefold group\" This stands for the five kinds of spies, disguised as.",
+    "morphology": "pañca_pañcan_Cp vargaḥ_varga_SNM kāpaṭika_kāpaṭika_Cp udāsthita_udāsthita_Cp gṛhapati_gṛhapati_Cp vaidehika_vaidehika_Cp tāpasa_tāpasa_Cp vyañjanāḥ_vyañjana_PNM  /"
+  },
+  {
+    "index": 28553,
+    "sanskrit": "rathāt an avarūḍhasya tat adbhutam iva abhavat",
+    "english": "All this seemed exceedingly wonderful.",
+    "morphology": "rathāt_ratha_SBM an_an_U avarūḍhasya_avaruh_SGPaPsM tat_tad_SNNe adbhutam_adbhuta_SNNe iva_iva_U abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 28554,
+    "sanskrit": "yat vaḥ abravīt vākyam adīna sattvaḥ madhye kurūṇām harṣayan satya saṃdhaḥ aham hantā pāṇḍavānām anīkam",
+    "english": "Indeed, Bhishma of unfailing might and firmly adhering to truth, hath told thee in the midst of the Kurus these words, viz.,--I will slay the army of the Srinjayas and the Salweyas.",
+    "morphology": "yat_yad_SANe vaḥ_tvad_PA abravīt_brū_SPs3In vākyam_vākya_SANe adīna_adīna_Cp sattvaḥ_sattva_SNM madhye_madhya_SLNe kurūṇām_kuru_PGM harṣayan_harṣay_SNPaPrM satya_satya_Cp saṃdhaḥ_saṃdhā_SNM aham_mad_SN hantā_han_SFu3In pāṇḍav"
+  },
+  {
+    "index": 28555,
+    "sanskrit": "upākarma tataḥ kṛtvā vedānadhyāpayatsudhīḥ | tryabdaṃ vedānsavidhinā'dhyaiṣṭa sāṃgapadakramān || 42 ||",
+    "english": "42. The intelligent Brāhmaṇa then performed the ceremony of Upākarma and taught him the Vedas. He (the son) duly learned the Vedas with Padapāṭha and Kramapāṭha along with the Aṅgas (ancillaries) for three years.",
+    "morphology": "upākarma_upākarman_SANe tatas_tatas_ kṛtvā_kṛ_Co vedān_veda_PAM adhyāpayat_adhyāpay_S3ImIn sudhīḥ_sudhī_SNM  / tri_tri_Cp abdam_abda_SAM vedān_veda_PAM sa_sa_ vidhinā_vidhi_SIM adhyaiṣṭa_adhī_SPs3InFs sa_sa_ aṅga_aṅga_Cp padakramā"
+  },
+  {
+    "index": 28556,
+    "sanskrit": "bhīmasena na paryāptaḥ mama asau rākṣasa adhamaḥ",
+    "english": "O Bhimasena, that worst of Rakshasas was no match for me.",
+    "morphology": "bhīmasena_bhīmasena_SVM na_na_U paryāptaḥ_paryāp_SNPaPsM mama_mad_SG asau_adas_SNM rākṣasa_rākṣasa_MCp adhamaḥ_adhama_SNM"
+  },
+  {
+    "index": 28557,
+    "sanskrit": "kavivatsyānmunīnāñca nadī nadyau nadīṃ nadīḥ //",
+    "english": "The word Muni will have the forms like that of Kavi poet Munīnāṃ genitive of the sages.",
+    "morphology": "kavi_kavi_Cp vat_vat_ syāt_as_SPr3O munīnām_muni_PGM ca_ca_ nadī_nadī_SNF nadyau_nadī_DuAF nadīm_nadī_SAF  /"
+  },
+  {
+    "index": 28558,
+    "sanskrit": "satyena pūyate sākṣī dharmaḥ satyena vardhate / tasmāt satyaṃ hi vaktavyaṃ sarvavarṇeṣu sākṣibhiḥ //",
+    "english": "\"By truth is the witness purified, by truth does merit grow hence the truth should be spoken by witnesses of all castes\".",
+    "morphology": "satyena_satya_SINe pūyate_pū_SPr3InPv sākṣī_sākṣin_SNM dharmaḥ_dharma_SNM satyena_satya_SINe vardhate_vṛdh_SPr3In  / tasmāt_tasmāt_ satyam_satya_SNNe hi_hi_ vaktavyam_vac_SNNeGd sarva_sarva_Cp varṇeṣu_varṇa_PLM sākṣibhiḥ_sākṣin"
+  },
+  {
+    "index": 28559,
+    "sanskrit": "bhānuruvāca / tenaitadvacmi bhavaganyathākālaṃ mano mune / anigrāhyamabhedyaṃ ca śāpairapi durāsadaiḥ //",
+    "english": "The sol continued:—Therefore I say, my lord! that the mind like time, is indestructible of its nature, and the inavertible imprecation of the sage, could not alter its tenor.",
+    "morphology": "bhānuḥ_bhānu_SNM uvāca_vac_SPs3In  / tena_tena_ etat_etad_SANe vacmi_vac_SPr1In bhavaga_bhavaga_SVM yathākālam_yathākālam_ manaḥ_manas_SANe mune_muni_SVM  / a_a_ nigrāhyam_nigrah_SANeGd abhedyam_abhedya_SANe ca_ca_ śāpaiḥ_śāpa_PIM api_api"
+  }
+]

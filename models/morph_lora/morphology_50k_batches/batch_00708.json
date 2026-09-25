@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5656,
+    "sanskrit": "tam indram vājayāmasi mahe vr̥trāya hantave saḥ vr̥ṣā vr̥ṣabhaḥ bhuvat",
+    "english": "We make this Indra very strong to strike the mighty Vr̥itra dead: A vigorous Hero shall he be.",
+    "morphology": "tam_tad_SAM indram_indra_SAM vājayāmasi_vājay_PPr1In mahe_mah_SDNe vr̥trāya_vr̥tra_SDNe hantave_han_In saḥ_tad_SNM vrāṣā_vrāṣan_SNM vrāṣabhaḥ_vrāṣabha_SNM bhuvat_bhū_SPs3Su"
+  },
+  {
+    "index": 5657,
+    "sanskrit": "triguṇā paridhiścāsya jaṅghāgraṃ pañcavistarāt //",
+    "english": "The girth of it should be three times that. The top of the leg should be five aṅgulas broad.",
+    "morphology": "triguṇā_triguṇa_SNF paridhiḥ_paridhi_SNM ca_ca_ asya_idam_SGM jaṅghā_jaṅghā_Cp agram_agra_SNNe pañca_pañcan_Cp vistarāt_vistara_SBM  /"
+  },
+  {
+    "index": 5658,
+    "sanskrit": "ālocane śaktirantaryojane manasaḥ punaḥ | uktaṃ ca gurūṇā kuryānmano'nuvyavasāyi sat |",
+    "english": "b-a It has been stated by my teacher that action is a result of the efforts put in by the senses and the inner being of the subject in coordination with each other.",
+    "morphology": "ālocane_ālocana_SLNe śaktiḥ_śakti_SNF antar_antar_ yojane_yojana_SLNe manasaḥ_manas_SGNe punar_punar_  / uktam_vac_SNPaNe ca_ca_ gurūṇā_guru_SIM kuryāt_kṛ_SPr3O manaḥ_manas_Cp anuvyavasāyi_anuvyavasāyin_SANe sat_as_SAPaPrNe"
+  },
+  {
+    "index": 5659,
+    "sanskrit": "āha dṛṣṭasiddhaye hy adṛṣṭaṃ kalpyate na tu dṛṣṭavighātāya /",
+    "english": "If a visible object is otherwise explained then there is no necessity of assuming an invisible object.",
+    "morphology": "āha_ah_SPs3In dṛṣṭa_dṛṣṭa_Cp siddhaye_siddhi_SDF hi_hi_ adṛṣṭam_adṛṣṭa_SNNe kalpyate_kalpay_SPr3InPv na_na_ tu_tu_ dṛṣṭa_dṛṣṭa_Cp vighātāya_vighāta_SDM  /"
+  },
+  {
+    "index": 5660,
+    "sanskrit": "duryodhanaḥ hi rāja indra mudā paramayā yutaḥ vādayām āsa saṃhṛṣṭaḥ nānā vādyāni sarvaśas",
+    "english": "Then Duryodhana, O monarch, filled with great delight, caused diverse musical instruments to be beaten and blown in all parts of the army.",
+    "morphology": "duryodhanaḥ_duryodhana_SNM hi_hi_U rāja_rājan_MCp indra_indra_SVM mudā_mud_SIF paramayā_parama_SIF yutaḥ_yuta_SNM vādayām_vāday_SPs3In āsa_as_SPs3In saṃhṛṣṭaḥ_saṃhṛṣ_SNPaPsM nānā_nānā_U vādyāni_vādya_PANe sarvaśas_sarva"
+  },
+  {
+    "index": 5661,
+    "sanskrit": "ye tvayā bala darpābhyām āviṣṭena vanecarāḥ ṛṣayaḥ hiṃsitāḥ pūrvam devāḥ ca api avamānitāḥ",
+    "english": "Possessed of power and filled with pride, thou hast, before this, slain many Rishis living in the woods, and insulted the very gods.",
+    "morphology": "ye_yad_PNM tvayā_tvad_SI bala_bala_NeCp darpābhyām_darpa_DuIM āviṣṭena_āviś_SIPaPsM vanecarāḥ_vanecara_PNM ṛṣayaḥ_ṛṣi_PNM hiṃsitāḥ_hiṃs_PNPaPsM pūrvam_pūrvam_U devāḥ_deva_PNM ca_ca_U api_api_U avamānitāḥ_avamānay_PNP"
+  },
+  {
+    "index": 5662,
+    "sanskrit": "tilāḥ ca saṃpradātavyāḥ yathāśakti dvijarṣabha",
+    "english": "O foremost of regenerate ones, one should make gifts of as much sesame as one can.",
+    "morphology": "tilāḥ_tila_PNM ca_ca_U saṃpradātavyāḥ_sampradā_PNMGd"
+  },
+  {
+    "index": 5663,
+    "sanskrit": "ato yāgāntaratvami'ti prāpte 'bhidhīyate devatā tāvat dūrabhraṣṭaiva yadi gṛhyamāṇaṃ dravyaṃ tadapi na kena cidupāttam /",
+    "english": "To the above we make the following reply In the case of sentences where we have only the Name and the holding mentioned as in the case in question, the chances of the mention of a sacrifice are very much less than in the case of the sentence vatsama labheta because the former is devoid even of the mention of a Material. That is to say, we find that, in the sentences in question, the mention of the Deity is a long way off and even the object that would form the objective of the mentioned holding is not mentioned.",
+    "morphology": "atas_atas_ yāga_yāga_Cp antara_antara_Cp tvam_tva_SNNe iti_iti_ prāpte_prāp_SLPaNe abhidhīyate_abhidhā_SPr3InPv devatā_devatā_SNF tāvat_tāvat_ dūra_dūra_Cp bhraṣṭā_bhraṃś_SNPaF eva_eva_ yadi_yadi_ gṛhyamāṇam_grah_SNPaPrNePv dravyam"
+  }
+]

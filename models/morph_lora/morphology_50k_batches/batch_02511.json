@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20080,
+    "sanskrit": "dattvā ekaikaḥ daśa śatān kuñjarān kavaca āvṛtān",
+    "english": "And having made these presents, those kings were permitted to enter.",
+    "morphology": "dattvā_dā_Co ekaikaḥ_ekaika_SNM daśa_daśan_Cp śatān_śata_PAM kuñjarān_kuñjara_PAM"
+  },
+  {
+    "index": 20081,
+    "sanskrit": "yena buddhaṃ tu tasyaitadākāśādapa śūnyakam / na buddhaṃ yena tasyaitadvajrasārācalopamam //",
+    "english": "He who understands rightly, views the world to be as unsubstantial as air; but whoso is misled by his wrong judgement takes it to be as a solid mountain.",
+    "morphology": "yena_yad_SIM buddham_budh_SNPaNe tu_tu_ tasya_tad_SGM etat_etad_SNNe ākāśāt_ākāśa_SBNe apa_apa_ śūnyakam_śūnyaka_SNNe  / na_na_ buddham_budh_SNPaNe yena_yad_SIM tasya_tad_SGM etat_etad_SNNe vajra_vajra_Cp sāra_sāra_Cp acala_acala_Cp upamam_upa"
+  },
+  {
+    "index": 20082,
+    "sanskrit": "ayaṃ ca mayāśramapade mahān vānaro dṛṣṭaḥ /",
+    "english": "The monarch went to meet him, and showed him every honour and respect due to a guest.",
+    "morphology": "ayam_idam_SNM ca_ca_ mayā_mad_SI āśrama_āśrama_Cp pade_pada_SLNe mahān_mahat_SNM vānaraḥ_vānara_SNM dṛṣṭaḥ_dṛś_SNPaM  /"
+  },
+  {
+    "index": 20083,
+    "sanskrit": "yatā tṛṇaṃ paśūnāṃ ca narāṇāmannamucyate | evaṃ daivatayonīnāmannasārasya bhojanam || 148 ||",
+    "english": "148-149. Just as grass unto animals and food-grains unto human beings, so also the subtle essence of foodstuff forms the diet of the species of deities.",
+    "morphology": "yatā_yam_SNPaF tṛṇam_tṛṇa_SANe paśūnām_paśu_PGM ca_ca_ narāṇām_nara_PGM annam_anna_SNNe ucyate_vac_SPr3InPv  / evam_evam_ daivata_daivata_Cp yonīnām_yoni_PGF anna_anna_Cp sārasya_sāra_SGM bhojanam_bhojana_SNNe"
+  },
+  {
+    "index": 20084,
+    "sanskrit": "indro marudbhir ṛtudhā kṛṇotv ādityair no varuṇaḥ saṃ śiśātu |",
+    "english": "They wearing daggers, impetuous, fearless, Here found the dear home of the Maruts.",
+    "morphology": "indraḥ_indra_SNM marudbhiḥ_marut_PIM ṛtudhā_ṛtudhā_ kṛṇotu_kṛ_SPr3Im ādityaiḥ_āditya_PIM naḥ_mad_PA varuṇaḥ_varuṇa_SNM sam_sam_ śiśātu_śā_SPr3Im"
+  },
+  {
+    "index": 20085,
+    "sanskrit": "tyaktvā tam vai katham adya apayātaḥ karṇāt bhītaḥ bhīmasenam vihāya imām ca vasatim prāptaḥ bhayāt karṇena bādhitaḥ",
+    "english": "Why, then, through fear of Karna hast come hither, avoiding Karna and deserting Bhima? If in the Dwaita woods thou hadst said unto me, 'O king, I shall not be able to fight with Karna,' we would then, O Partha, have made other arrangements suitable to the circumstances.",
+    "morphology": "tyaktvā_tyaj_Co tam_tad_SAM vai_vai_U katham_katham_U adya_adya_U apayātaḥ_apayā_SNPaPsM karṇāt_karṇa_SBM bhītaḥ_bhī_SNPaPsM bhīmasenam_bhīmasena_SAM vihāya_vihā_Co imām_idam_SAF ca_ca_U vasatim_vasati_SAF prāptaḥ_prāp_SNPaPsM bhayā"
+  },
+  {
+    "index": 20086,
+    "sanskrit": "yaḥ tu śuddhaḥ svadharmeṇa jñāna vijñānavān śuciḥ dharma jñaḥ dharma nirataḥ sa dharma phalam aśnute",
+    "english": "That man who has attained to clearness of vision through practice of the duties of his own order, who is endued with knowledge and science, who is pure (in body and mind), who is conversant with every duty and devoted to the practice of all his duties, is sure to enjoy the rewards of righteousness.",
+    "morphology": "yaḥ_yad_SNM tu_tu_U śuddhaḥ_śudh_SNPaPsM svadharmeṇa_svadharma_SIM jñāna_jñāna_NeCp vijñānavān_vijñānavat_SNM śuciḥ_śuci_SNM dharma_dharma_MCp jñaḥ_jña_SNM dharma_dharma_MCp nirataḥ_niram_SNPaPsM sa_tad_SNM dharma_dharma_MCp phal"
+  },
+  {
+    "index": 20087,
+    "sanskrit": "kam cit kālam tu tam vahnim saḥ eva śamayiṣyati samudre vaḍavā vaktre prakṣipya muni sattamaḥ",
+    "english": "For a little while he will quell the flames of that fiery rage, throwing it into the Mare's mouth that wanders through the ocean.",
+    "morphology": "kam_ka_SAM cit_cit_U kālam_kāla_SAM tu_tu_U tam_tad_SAM vahnim_vahni_SAM saḥ_tad_SNM eva_eva_U śamayiṣyati_śamay_SFu3In samudre_samudra_SLM vaḍavā_vaḍabā_FCp vaktre_vaktra_SLNe prakṣipya_prakṣip_Co muni_muni_MCp sattamaḥ_sattama_SNM"
+  }
+]

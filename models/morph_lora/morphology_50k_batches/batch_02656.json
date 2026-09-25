@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21240,
+    "sanskrit": "yathā satkathayā nityaṃ saṃyāti paramāṃ gatim | tathānyaiḥ sadvratairjaṃtornabhavenmatiruttamā || 88 ||",
+    "english": "88. One attains the greatest goal through good holy stories daily heard, but a creature does not attain excellent mind and feelings through good holy vows and observances alone.",
+    "morphology": "yathā_yathā_ sat_sat_Cp kathayā_kathā_SIF nityam_nityam_ saṃyāti_saṃyā_SPr3In paramām_parama_SAF gatim_gati_SAF  / tathā_tathā_ anyaiḥ_anya_PINe sat_sat_Cp vrataiḥ_vrata_PINe jantoḥ_jantu_SGM na_na_ bhavet_bhū_SPr3O matiḥ_mati_SNF utt"
+  },
+  {
+    "index": 21241,
+    "sanskrit": "uktam uddiṣṭaṃ gurvarthaṃ kuryāt tatra na sarvaṃ kartavyam ity evamartho 'yaṃ ślokaḥ / yadi gurur viruddham ādiśet, amuṣyastriyam āhara iti, sarvasvaṃ vā dehi iti, tan na kartavam /",
+    "english": "It has been said that he should present something to the Teacher; and the present verse shows that any and everything should not be presented; the sense being that if the Teacher orders \"bring me the wife of such and such a person,\" or \"let me have all that you possess,\" then the pupil shall not do what he says; what he should givo are as fellows,\"Field\" agricultural land; \"Gold\".",
+    "morphology": "uktam_vac_SAPaNe uddiṣṭam_uddiś_SAPaNe guru_guru_Cp artham_artha_SAM kuryāt_kṛ_SPr3O tatra_tatra_ na_na_ sarvam_sarva_SNNe kartavyam_kṛ_SNNeGd iti_iti_ evamarthaḥ_evamartha_SNM ayam_idam_SNM ślokaḥ_śloka_SNM  / yadi_yadi_ guruḥ_guru_SNM v"
+  },
+  {
+    "index": 21242,
+    "sanskrit": "pramāyāṃ khalu phale svatantraḥ pramātābhavati |",
+    "english": "And without knowership, there can be no activity of the means of valid knowledge. He, verily, becomes a knower, who is independent in respect of the fruit, valid knowledge.",
+    "morphology": "pramāyām_pramā_SLF khalu_khalu_ phale_phala_SLNe"
+  },
+  {
+    "index": 21243,
+    "sanskrit": "śabdānityatvapakṣo 'taḥ sarvair ebhir virudhyate /",
+    "english": "Thus the idea of word-sound being non-eternal is annulled by all these inferences which must be admitted to be perfectly sound.",
+    "morphology": "śabda_śabda_Cp anitya_anitya_Cp tva_tva_Cp pakṣaḥ_pakṣa_SNM atas_atas_ sarvaiḥ_sarva_PIM ebhiḥ_idam_PIM virudhyate_virudh_SPr3InPv  /"
+  },
+  {
+    "index": 21244,
+    "sanskrit": "prayacchate yaḥ kapilām sa cailām kāṃsya upadohām kanaka agra śṛṅgīm taiḥ taiḥ guṇaiḥ kāmadughā asya bhūtvā",
+    "english": "One who gives away a Kapila cow with her calf, with a brazen pot of milking with horns adorned with gold, and possessed of diverse other accomplishments, obtains the fruition of all his wishes from that cow.",
+    "morphology": "prayacchate_prayam_SPr3In yaḥ_yad_SNM kapilām_kapilā_SAF sa_sa_U cailām_caila_SAF kāṃsya_kāṃsya_NeCp upadohām_upadoha_SAF kanaka_kanaka_NeCp agra_agra_NeCp śṛṅgīm_śṛṅga_SAF taiḥ_tad_PIM taiḥ_tad_PIM guṇaiḥ_guṇa_PIM kāmadug"
+  },
+  {
+    "index": 21245,
+    "sanskrit": "guhā kandara saṃlīnaiḥ siṃha vyāghraiḥ niṣevitam",
+    "english": "attended upon by lions and tigers that had concealed themselves in its caves and pits;",
+    "morphology": "guhā_guhā_FCp kandara_kandara_SVF saṃ_sam_SNPaPsF"
+  },
+  {
+    "index": 21246,
+    "sanskrit": "virāṭaḥ ca mahā rāja saindhavam vāhinī mukhe triṃśatā niśitaiḥ bāṇaiḥ ājaghāna stanāntare",
+    "english": "Virata, however, O king, that commander of a large division, struck Jayadratha in the centre of his chest with thirty shafts of keen points.",
+    "morphology": "virāṭaḥ_virāṭa_SNM ca_ca_U mahā_mahat_Cp rāja_rāja_MCp saindhavam_saindhava_SAM vāhinī_vāhinī_FCp mukhe_mukha_SLNe triṃśatā_triṃśat_SIF niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM ājaghāna_āhan_SPs3In stanāntare_stanāntara"
+  },
+  {
+    "index": 21247,
+    "sanskrit": "idamastvathavā māstu cetitaṃ duḥkhavṛddhaye / acetitaṃ sukhāyāntaracetanamacetanāt //",
+    "english": "Whether there be or not be all these visibles, they tend alike to our misery; it is our thoughtlessness of them alone that conduces to our happiness, wherefore it is better to remain insensible of them, by shutting our senses against them.",
+    "morphology": "idam_idam_SNNe astu_as_SPr3Im athavā_athavā_ mā_mā_ astu_as_SPr3Im cetitam_cetay_SNPaNe duḥkha_duḥkha_Cp vṛddhaye_vṛddhi_SDF  / acetitam_acetita_SNNe sukhāya_sukha_SDNe antar_antar_ acetanam_acetana_SNNe acetanāt_acetana_SBNe  /"
+  }
+]

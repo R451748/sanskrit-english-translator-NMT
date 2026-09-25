@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37384,
+    "sanskrit": "aurva uvāca",
+    "english": "Obsequial ceremonies.",
+    "morphology": "__"
+  },
+  {
+    "index": 37385,
+    "sanskrit": "nākṣepike samāpattī acitte prāptayo na ca // avipākābhyāmapyacittasamāpattibhyāṃ nikāyasabhāgo nākṣipyate /",
+    "english": "However, neither the two absorptions of unconsciousness nor the prāptis project.",
+    "morphology": "na_na_ ākṣepike_ākṣepika_DuNF samāpattī_samāpatti_DuNF acitte_acitta_DuNF prāptayaḥ_prāpti_PNF na_na_ ca_ca_  // a_a_ vipākābhyām_vipāka_DuIF api_api_ acitta_acitta_Cp samāpattibhyām_samāpatti_DuIF"
+  },
+  {
+    "index": 37386,
+    "sanskrit": "tadyuktametadetasminnāsti nāpavadāmahe / mūḍhaiḥ prakalpitaṃ daivaṃ manyante ye kṣayaṃ gatāḥ //",
+    "english": "We blame the fate which is a creation of the fancy of the ignorant, who by their adoration of the same come to meet their destruction.",
+    "morphology": "tat_tad_SNNe yuktam_yuj_SNPaNe etat_etad_SNNe etasmin_etad_SLM na_na_ asti_as_SPr3In na_na_ apavadāmahe_apavad_PPr1In  / mūḍhaiḥ_muh_PIPaM prakalpitam_prakalpay_SAPaNe agre_agra_SLNe agre_agra_SLNe agre_agra_SLNe agre_agra_SLNe agre_agra_SLNe agre_ag"
+  },
+  {
+    "index": 37387,
+    "sanskrit": "tat etat sarvam ācakṣva na hi tṛpyāmi kathyatām bhīṣmaḥ uvāca",
+    "english": "I am never satiated with listening to thee!' 'Bhishma said, 'The gift of the dower does not cause the status of wife to attach to the girl.",
+    "morphology": "tat_tad_SANe etat_etad_SANe sarvam_sarva_SANe ācakṣva_ācakṣ_SPs2In na_na_U hi_hi_U tṛpyāmi_tṛp_SPr1In kathā_kath_SPr2Im"
+  },
+  {
+    "index": 37388,
+    "sanskrit": "harṣāmarṣabhayānmuktaḥ sa jīvanmukta ucyate //'",
+    "english": "he is free from joy, anger and fear as well' .",
+    "morphology": "harṣa_harṣa_Cp amarṣa_amarṣa_Cp bhayāt_bhaya_SBNe muktaḥ_muc_SNPaM sa_tad_SNM jīvanmuktaḥ_jīvanmukta_SNM ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 37389,
+    "sanskrit": "ṛtava ete yadṛtavye ṛtūnevaitadupadadhāti madhuśca mādhavaśca vāsantikāvṛtū iti nāmanī enayorete nāmabhyāmevaine etadupadadhāti dve iṣṭake bhavato dvau hi māsāvṛtuḥ sakṛtsādayatyekaṃ tadṛtuṃ karoti //",
+    "english": "He then lays down two Ritavya (seasonal bricks);--the two seasonal (bricks) being the same as the seasons, it is the seasons he thus lays down. 'Madhu and Mâdhava, the two spring seasons,'--these are the names of those two: it is thus by their names that he lays them down. There are two (such) bricks, for two months are a season.",
+    "morphology": "ṛtavaḥ_ṛtu_PNM ete_etad_DuNNe yat_yad_SNNe ṛtavye_ṛtavyā_DuNF ṛtūn_ṛtu_PAM eva_eva_ etat_etad_SANe upadadhāti_upadhā_SPr3In madhuḥ_madhu_SNM ca_ca_ mādhavaḥ_mādhava_SNM ca_ca_ vāsantikau_vāsantika_DuNM ṛtū_ṛtu_DuNM iti_iti_ n"
+  },
+  {
+    "index": 37390,
+    "sanskrit": "gāvaḥ ca sahitāḥ sarvāḥ vṛkṣa chāyām upāśritāḥ",
+    "english": "The kine also, having been brought together, were staying under the shade of that same banian tree.",
+    "morphology": "gāvaḥ_go_PNF ca_ca_U sahitāḥ_sahita_PNF sarvāḥ_sarva_PNF"
+  },
+  {
+    "index": 37391,
+    "sanskrit": "asau yaḥ panthāḥ ādityaḥ divi pra vācyam kr̥taḥ na saḥ devāḥ ati krame tam martāsaḥ na paśyatha vittam me asya rodasī iti",
+    "english": "That pathway of the Sun in heaven, made to be highly glorified, Is not to be transgressed, O Gods. O mortals, ye behold it not. Mark this my woe, ye Earth and Heaven.",
+    "morphology": "asau_adas_SNM yaḥ_yad_SNM panthāḥ_pathin_SNM ādityaḥ_āditya_SNM divi_div_SLM pra_pra_U vācyam_vac_SNNeGd kr̥taḥ_kṛ_SNPaPsM na_na_U saḥ_tad_SNM devāḥ_deva_PVM ati_ati_U krame_krama_SLM tam_tad_SAM martāsaḥ_marta_PVM na_na_U paśyatha_"
+  }
+]

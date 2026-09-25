@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2000,
+    "sanskrit": "mayasya mokṣaḥ jvalanāt bhujaṃgasya ca mokṣaṇam",
+    "english": "the burning of the forest of Khandava;",
+    "morphology": "mayasya_maya_SGM mokṣaḥ_mokṣa_SNM jvalanāt_jvalana_SBM bhujaṃgasya_bhujaṃga_SGM ca_ca_U mokṣaṇam_mokṣaṇa_SNNe"
+  },
+  {
+    "index": 2001,
+    "sanskrit": "sarveṣāmavibhinno'sau trailokyodaravartinām / brahmādīnāṃ tṛṇāntānāṃ cidātmā saṃprakāśakaḥ //",
+    "english": "It is not apart from anything, existing in the womb of this triple world; but is residing alike in the highest gods, as in the lowest grass below; and manifests them all full to our view.",
+    "morphology": "sarveṣām_sarva_PGM avibhinnaḥ_avibhinna_SNM asau_adas_SNM trailokya_trailokya_Cp udara_udara_Cp vartinām_vartin_PGM  / brahma_brahman_Cp ādīnām_ādi_PGM tṛṇa_tṛṇa_Cp antānām_anta_PGM cit_cit_Cp ātmā_ātman_SNM saṃprakāśakaḥ_saṃ"
+  },
+  {
+    "index": 2002,
+    "sanskrit": "mūrdhnā vacāṃsyahamamūni tavārcayāmi /",
+    "english": "honour your words, accepting them with (bowed) head.",
+    "morphology": "mūrdhnā_mūrdhan_SIM vacāṃsi_vacas_PANe aham_mad_SN amūni_adas_PANe tava_tvad_SG arcayāmi_arcay_SPr1In  /"
+  },
+  {
+    "index": 2003,
+    "sanskrit": "yatas ca bhūtāni mahānti pañca yatas ca lokāḥ vihitāḥ vidhātrā yatas pumāṃsaḥ pramadāḥ ca nirmitāḥ",
+    "english": "That eternal Brahman whence the five great elements have sprung into existence, whence the Creator Brahma hath ordained the universe, and whence, indeed, men have sprung, verily from the same eternal source have women sprung into existence.",
+    "morphology": "yatas_yatas_U ca_ca_U bhūtāni_bhūta_PNNe mahānti_mahat_PNNe pañca_pañcan_PNNe yatas_yatas_U ca_ca_U lokāḥ_loka_PNM vihitāḥ_vidhā_PNPaPsM vidhātrā_vidhātṛ_SIM yatas_yatas_U pumāṃsaḥ_puṃs_PNM pramadāḥ_pramadā_PNF ca_ca_U nirmitā"
+  },
+  {
+    "index": 2004,
+    "sanskrit": "surāmāṃsopaharaiś ca bhakṣyabhojyaiś ca pūjitā / nṝṇāmaśeṣasāmāṃstvaṃ prasannā saṃpradāsyasi //",
+    "english": "Propitiated with offerings of wine and flesh and various viands, thou shalt bestow upon mankind all their prayers.",
+    "morphology": "surā_surā_Cp māṃsa_māṃsa_Cp upaharaiḥ_upahara_PINe ca_ca_ bhakṣya_bhakṣya_Cp bhojyaiḥ_bhojya_PINe ca_ca_ pūjitā_pūjay_SNPaF  / nṝṇām_nṛ_PGM aśeṣa_aśeṣa_Cp sāmān_sāma_PAM tvam_tvad_SN prasannā_prasad_SNPaF saṃpradāsyas"
+  },
+  {
+    "index": 2005,
+    "sanskrit": "yathāpṛṣṭaṃ mune proktaṃ tvayi kalyāṇamastu te / diśaṃ prayāmo'bhimatāmāgacchottiṣṭha pārvati //",
+    "english": "Now, I have related to you all what you asked me about, and will now proceed to my desired place. Be you happy, O sage, and go your way; and rise, O Parvati and let us take our way.",
+    "morphology": "yathā_yathā_ pṛṣṭam_pracch_SNPaNe mune_muni_SVM proktam_pravac_SNPaNe tvayi_tvad_SL kalyāṇam_kalyāṇa_SNNe astu_as_SPr3Im te_tvad_SD  / diśam_diś_SAF prayāmaḥ_prayā_PPr1In abhimatām_abhiman_SAPaF āgaccha_āgam_SPr2Im uttiṣṭha_utth"
+  },
+  {
+    "index": 2006,
+    "sanskrit": "yaḥ teṣām erakām kaḥ cit jagrāha ruṣitaḥ nṛpa",
+    "english": "Indeed, O king, whoever amongst them took up in wrath a few blades of the Eraka grass, these, in his hands, became soon converted into a thunderbolt, O puissant one.",
+    "morphology": "yaḥ_yad_SNM teṣām_tad_PGM erakām_erakā_SAF kaḥ_ka_SNM cit_cit_U jagrāha_grah_SPs3In ruṣitaḥ_ruṣ_SNPaPsM nṛpa_nṛpa_SVM"
+  },
+  {
+    "index": 2007,
+    "sanskrit": "sarve saṃbhrānta manasaḥ śara cāpa dharāḥ sthitāḥ tathā śūla asi paraśu gadā musala pāṇayaḥ",
+    "english": "And thereupon they all, frightened at heart, stood holding in their hands bows and arrows and swords and javelins and axes and maces and clubs.",
+    "morphology": "sarve_sarva_PNM saṃbhrānta_sambhram_PaPsCp manasaḥ_manas_PNM śara_śara_MCp cāpa_cāpa_MCp dharāḥ_dhara_PNM sthitāḥ_sthā_PNPaPsM tathā_tathā_U śūla_śūla_NeCp asi_asi_MCp paraśu_paraśu_MCp gadā_gadā_FCp musala_musala_MCp pāṇayaḥ"
+  }
+]

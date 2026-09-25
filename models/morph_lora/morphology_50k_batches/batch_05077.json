@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40608,
+    "sanskrit": "pūrvam paśyet ṛtu snātā yādṛśam naram aṅganā",
+    "english": "A child conceived after the period resembles the man whom she first sees after ablution on the fourth day of her menses; hence she should see none but her husband[3] at that time (so that the child may resemble his father).",
+    "morphology": "pū"
+  },
+  {
+    "index": 40609,
+    "sanskrit": "tisraḥ dyāvaḥ ni hitāḥ antaḥ asmin tisraḥ bhūmiḥ uparāḥ ṣaṭ vidhānāḥ gr̥tsaḥ rājā varuṇaḥ cakre etam divi pra īṅkham hiraṇyayam śubhe kam",
+    "english": "On him three heavens rest and are supported, and the three earths are there in sixfold order. The wise King Varuṇa hath made in heaven that Golden Swing to cover it with glory.",
+    "morphology": "tisraḥ_tri_PNF dyāvaḥ_div_PNF ni_ni_U hitāḥ_dhā_PNPaPsF antaḥ_antar_U asmin_idam_SLM tisraḥ_tri_PNF bhūmiḥ_bhūmi_SNF uparāḥ_upara_PNF ṣaṭ_ṣaṣ_PNF vidhānāḥ_vidhāna_PNF gr̥tsaḥ_grātsa_SNM rājā_rājan_SNM varuṇaḥ_var"
+  },
+  {
+    "index": 40610,
+    "sanskrit": "vyākhyātaś cāsau //",
+    "english": "It has been already explained.",
+    "morphology": "vyākhyātaḥ_vyākhyā_SNPaM"
+  },
+  {
+    "index": 40611,
+    "sanskrit": "sa tasyāḥ tanu madhyāyāḥ samīpe rajanīcaraḥ dadṛśe rohiṇīm etya śanaiścaraḥ iva grahaḥ",
+    "english": "And that night wanderer, having approached the presence of that slender-waisted lady, looked like the planet Saturn in the presence of Rohini.",
+    "morphology": "sa_tad_SNM tasyāḥ_tad_SGF tanu_tanu_NeCp madhyāyāḥ_madhya_SGF samīpe_samīpa_SLNe rajanīcaraḥ_rajanīcara_SNM dadṛśe_dṛś_SPs3In rohiṇīm_rohiṇī_SAF"
+  },
+  {
+    "index": 40612,
+    "sanskrit": "dānaṃ ca vividhaṃ kāryaṃ mama tuṣṭikaraṃ param | godānaṃ bhūmidānaṃ ca svarṇadānaṃ viśeṣataḥ || 5 || vastradānaṃ tathā śayyā tathā'laṃkaraṇāni ca | sadmadānaṃ prakartavyaṃ mama santoṣakārakam || 6 || sarveṣāmeva dānānāṃ viśeṣaṃ ca trikaṃ smṛtam | vasundharā tathā dhenurvidyādānaṃ tathaiva ca || 7 ||",
+    "english": "5-7. Different kinds of charitable gifts must be made, which will gratify me. They are: the gifts of cows, lands and especially gold, clothes, bed, ornaments, and houses. These should be given. They cause satisfaction to me. Out of all (kinds of) gifts three are proclaimed to be most excellent, viz. land, cow and learning.",
+    "morphology": "dānam_dāna_SNNe ca_ca_ vividham_vividha_SNNe kāryam_kṛ_SNNeGd mama_mad_SG tuṣṭi_tuṣṭi_Cp karam_kara_SNNe param_para_SNNe  / go_go_Cp dānam_dāna_SNNe bhūmi_bhūmi_Cp dānam_dāna_SNNe ca_ca_ svarṇa_svarṇa_Cp dānam_dāna_SNNe viśeṣata"
+  },
+  {
+    "index": 40613,
+    "sanskrit": "eṣa ha yangacchaṃścalannidaṃ sarvaṃ jagatpunāti pāvayati śodhayati /",
+    "english": "It is hethe Airwhich moving along,blowingpurifiesrenders clean,all this,the entire universe",
+    "morphology": "eṣa_etad_SNM ha_ha_ yan_yad_SNM gacchan_gam_SNPaPrM calan_cal_SNPaPrM idam_idam_SANe sarvaḥ_sarva_SNM jagat_jagant_SANe punāti_pū_SPr3In"
+  },
+  {
+    "index": 40614,
+    "sanskrit": "bhuktvā tṛptau ubhau bhūmau suptau tau anna mohitau",
+    "english": "And having taken that food, they laid themselves down on the ground and fell into a profound sleep.",
+    "morphology": "bhuktvā_bhuj_Co"
+  },
+  {
+    "index": 40615,
+    "sanskrit": "āsāṃ madhyānnijeṣṭāyāḥ prayacchaitāmiti bruvan / vanamālāṃ dadau śṛṅgabhujāyāgniśikho 'tha saḥ // so 'py ādāyaiva tāṃ rūpaśikhāyāḥ kṣiptavān gale / prāṅmūrdhanyastasaṃketahārayaṣṭer nṛpātmajaḥ //",
+    "english": "Then Agniśikha gave a garland of forest flowers to Śṛṅgabhuja, saying: “Give this to that one of these ladies who is your own love.” He took the garland and threw it round the neck of Rūpaśikhā,[6] who had previously placed the necklace on her head by way of token.",
+    "morphology": "āsām_idam_PGF madhyāt_madhya_SBNe nija_nija_Cp iṣṭāyāḥ_iṣ_SGPaF prayaccha_prayam_SPr2Im etām_etad_SAF iti_iti_ bruvan_brū_SNPaPrM  / vanamālām_vanamālā_SAF dadau_dā_SPs3In śṛṅgabhujāya_śṛṅgabhuja_SDM agniśikhaḥ_agniśikha_"
+  }
+]

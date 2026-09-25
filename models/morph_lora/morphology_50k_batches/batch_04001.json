@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32000,
+    "sanskrit": "prajānām pataye ca eva pṛthak ghomaḥ vidhīyate",
+    "english": "He should offer separate and distinct oblations unto Prajapati.",
+    "morphology": "prajānām_prajā_PGF"
+  },
+  {
+    "index": 32001,
+    "sanskrit": "nityayuddhaśrāntabale bahulayuddhapratividdhapretapuruṣe jāgaraṇaklāntasuptajane",
+    "english": "or when the enemys army is too much tired by daily engagements in battles and is reduced in strength in consequence of the slaughter of a number of its men in a number of battles; when the enemys people wearied from sleeplessness have fallen asleep;",
+    "morphology": "nitya_nitya_Cp yuddha_yuddha_Cp śrānta_śram_PaCp bale_bala_SLM bahula_bahula_Cp yuddha_yuddha_Cp pratividdha_prativyadh_PaCp preta_preta_Cp"
+  },
+  {
+    "index": 32002,
+    "sanskrit": "arthapratyāyanaṃ yadvat pāṇikampādikāraṇam //",
+    "english": "where an example has been cited of a Presumption based upon another Presumption.",
+    "morphology": "artha_artha_Cp pratyāyanam_pratyāyana_SNNe yadvat_yadvat_"
+  },
+  {
+    "index": 32003,
+    "sanskrit": "hanta mohaṃ vihāyaitaṃ svaṃ prabhuṃ śaraṇaṃ śraye / ityālocya dvijaḥ sūryaṃ sa stotum upacakrame // tubhyaṃ paraparākāśaśāyine jyotiṣe vibho / ābhyantaraṃ ca bāhyaṃ ca tamaḥ praṇudate namaḥ //",
+    "english": "And exclaiming, “Ah! I will fling aside bewilderment and fly for refuge to my own lord,” the Brāhman began to praise the sun in the following verses: “Hail to thee, O Lord! the brightness residing in the near and in the remote ether, that dispersest the internal and external darkness.",
+    "morphology": "hanta_hanta_ moham_moha_SAM vihāya_vihā_Co etam_etad_SAM svam_sva_SAM prabhum_prabhu_SAM śaraṇam_śaraṇa_SANe śraye_śri_SPr1In  / iti_iti_ ālocya_ālocay_Co dvijaḥ_dvija_SNM sūryam_sūrya_SAM sa_tad_SNM stotum_stu_In upacakrame_upakram_SPs3In "
+  },
+  {
+    "index": 32004,
+    "sanskrit": "nārada uvāca | tvaṣṭrā kṛtantadvikṛtaṃ vicitraṃ vimohanaṃ sarvadivaukasāṃ hi | yenaiva sarvānsa vimohituṃ surānsamicchati premata eva yuktyā ||",
+    "english": "25. The distorted portayal of heaven-dwellers is something enchanting. He desires to delude the gods in a loving but cunning manner.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / tvaṣṭrā_tvaṣṭṛ_SIM kṛtam_kṛ_SNPaNe tat_tad_SNNe vikṛtam_vikṛ_SNPaNe vicitram_vicitra_SNNe vimohanam_vimohana_SNNe sarva_sarva_Cp divaukasām_divaukas_PGM hi_hi_  / yena_yad_SINe eva_eva_ sarvā"
+  },
+  {
+    "index": 32005,
+    "sanskrit": "śītāṃśujalanirdagdhāḥ pāśaiś ca prasitā mṛdhe / na śekuś calituṃ daityā viśiraskā ivādrayaḥ // śītāṃśunihatās te tu petur daityā himārditāḥ /",
+    "english": "Being exhausted with cold water and fettered by the noose the Daityas, like mountains bereft of their peaks, became extremely inactive. Being slain by the moon, crushed down by cold and having their bodies covered with dews those Daityas began to fall down like extinguished fire.",
+    "morphology": "śītāṃśu_śītāṃśu_Cp jala_jala_Cp nirdagdhāḥ_nirdah_PNPaM pāśaiḥ_pāśa_PIM ca_ca_ prasitāḥ_prasā_PNPaM mṛdhe_mṛdha_SLM  / na_na_ śekuḥ_śak_PPs3In calitum_cal_In daityāḥ_daitya_PNM viśiraskāḥ_viśiraska_PNM iva_iva_ adra"
+  },
+  {
+    "index": 32006,
+    "sanskrit": "vidhavāḥ ca bhavanti atra nṛśaṃsā jāyate prajā",
+    "english": "Wives become widows, and many cruel men are seen.",
+    "morphology": "vidhavāḥ_vidhavā_PNF ca_ca_U bhavanti_bhū_PPr3In ahahaha_ahaha_PNNe"
+  },
+  {
+    "index": 32007,
+    "sanskrit": "kṣetraṃ parigṛhyautthānābhāvāt phalābhāve yaḥ samṛddhaḥ sa bhāvi tad apahāryaḥ / avaśinaḥ kīnāśasya karmanyāse daṇḍatāḍanam /",
+    "english": "If someone takes a piece of land on lease and it produces no harvest because he puts no effort into it, then, if he has the means, he should be made to pay the landowner what would have been his due. An indentured farmhand who quits working should be flogged so also a herdsman, and his flock should be impounded.",
+    "morphology": "kṣetram_kṣetra_SANe parigṛhya_parigrah_Co ā_ā_ utthāna_utthāna_Cp abhāvāt_abhāva_SBM phala_phala_Cp abhāve_abhāva_SLM yaḥ_yad_SNM samṛddhaḥ_samṛdh_SNPaM sa_tad_SNM bhāvi_bhāvin_SANe tat_tad_SANe apahāryaḥ_apahṛ_SNMGd  / a_a_ v"
+  }
+]

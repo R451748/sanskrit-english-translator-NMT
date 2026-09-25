@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1208,
+    "sanskrit": "yaścandanaiḥ sāgarugandhamālyai rabhyarcayecchailamayīṃ mamārcām | asau na māmarcayatercayanvai viprārcanādarcita eva cāham || 12 ||",
+    "english": "12. If anyone worships my replica in the form of a stone icon with sandal-paste along with a agallochum, sweet scents and garlands he does not (really) worship me. If one venerates Brāhmaṇas and adores them, I am really worshipped.",
+    "morphology": "yaḥ_yad_SNM candanaiḥ_candana_PIM sa_sa_ agaru_agaru_Cp gandha_gandha_Cp mālyaiḥ_mālya_PINe rabhyarcayet_rabhyarcay_SPr3O śaila_śaila_Cp mayīm_maya_SAF mama_mad_SG arcām_arcā_SAF  / asau_adas_SNM na_na_ mām_mad_SA arcayata_arcay_SPr3In īrcay"
+  },
+  {
+    "index": 1209,
+    "sanskrit": "pañccabhyo varjanīyebhyo dharmebhyo viratisamādānādupāsakasaṃvarastho bhavati /",
+    "english": "By undertaking the renouncing of five items: murder, stealing, illicit sexuality, yng,and intoxicating liquors,one places himself in the discipline of an Upāsaka.",
+    "morphology": "pañcabhyaḥ_pañcan_PBM varjanīyebhyaḥ_varjay_PBMGd dharmebhyaḥ_dharma_PBM virati_virati_Cp samādānāt_samādāna_SBNe upāsaka_upāsaka_Cp saṃvara_saṃvara_Cp sthaḥ_stha_SNM bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 1210,
+    "sanskrit": "taddarśanaparikṣīṇapāpasaṃghāḥ kramādbhuvi | bhavanti nirmalātmānaḥ puruṣā muktibhājanam || 68 ||",
+    "english": "Persons who have destroyed the masses of their sins gradually by visiting him on the earth, become purified souls and they deserve salvation.”",
+    "morphology": "tad_tad_Cp darśana_darśana_Cp parikṣīṇa_parikṣi_PaCp pāpa_pāpa_Cp saṃghāḥ_saṃgha_PNM kramāt_kramāt_ bhuvi_bhū_SLF  / bhavanti_bhū_PPr3In nirmala_nirmala_Cp ātmānaḥ_ātman_PNM puruṣāḥ_puruṣa_PNM mukti_mukti_Cp bhājanam_bhā"
+  },
+  {
+    "index": 1211,
+    "sanskrit": "ayātayāmatvāya{FN corrected in IS Ed: ayātayāmatvāya} dvādaśakapālaḥ puroḍāśaḥ |",
+    "english": "the cake is on twelve potsherds [3], to secure the All-gods.",
+    "morphology": "ayātayāma_ayātayāma_Cp tvāya_tva_SDNe corrected_correct_SNPaM in In ayātayāma_ayātayāma_Cp tvāya_tva_SDNe dvādaśa_dvādaśan_Cp kapālaḥ_kapāla_SNM puroḍāśaḥ_puroḍāśa_SNM"
+  },
+  {
+    "index": 1212,
+    "sanskrit": "na śaśāka tatas gantum balavān api saṃyuge",
+    "english": "And although possessed of great might in battle, he was unable to proceed further.",
+    "morphology": "na_na_U śaśāka_śak_SPs3In tatas_tatas_U gantum_gam_In"
+  },
+  {
+    "index": 1213,
+    "sanskrit": "ādidevaḥ mahādevaḥ deveśaḥ devabhṛt guruḥ",
+    "english": "He that is the oldest of the deities (existing as He does from the beginning);",
+    "morphology": "__ādideva_U __mahādeva_U __deveśa_U __devabhṛt_U __guru_U"
+  },
+  {
+    "index": 1214,
+    "sanskrit": "āruhya taṃ caturdaṃtaṃ rajatācalasaṃnibham | svanayasya purīmeva kakṣīvāngaṃtumaicchata || 59 ||",
+    "english": "59. After mounting the elephant with four tusks, that resembled a silver mountain, Kakṣīvān desired to go to the city of Svanaya.",
+    "morphology": "āruhya_āruh_Co tam_tad_SAM caturdantam_caturdanta_SAM rajata_rajata_Cp acala_acala_Cp saṃnibham_saṃnibha_SAM  / sva_sva_Cp nayasya_naya_SGM purīm_purī_SAF eva_eva_ kakṣīvant_kakṣīvant_SNM gaṃtum_gam_In aicchata_iṣ_S3ImIn  /"
+  },
+  {
+    "index": 1215,
+    "sanskrit": "sadā hi prārthayām āsa satyabhāmām aninditām / akrūro 'ntaram anvicchan maṇiṃ caiva syamantakam //",
+    "english": "Akrura always wished to have the beautiful Satyabhāmā. As soon as he got an opportunity he desired to possess that valuable jewel.",
+    "morphology": "sadā_sadā_ hi_hi_ prārthayām_prārthay_SPs3InPe āsa_as_SPs3In satyabhāmām_satyabhāmā_SAF aninditām_anindita_SAF  / akrūraḥ_akrūra_SNM antaram_antara_SANe anvicchan_anviṣ_SNPaPrM maṇim_maṇi_SAM ca_ca_ eva_eva_ syamantakam_syamantaka_SAM "
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43920,
+    "sanskrit": "vigarhituṃ nārhasi devi kaṃthakaṃ na cāpi roṣaṃ mayi kartumarhasi | anāgasau svaḥ samavehi sarvaśo gato nṛdevaḥ sa hi devi devavat ||",
+    "english": "‘Surely, O queen, thou wilt not blame Kaṃthaka nor wilt thou show thy anger against me, know that we two are entirely guiltless, — that god amongst men, O queen, is gone away like a god.",
+    "morphology": "vigarhitum_vigarh_In nā_na_ arhasi_arh_SPr2In devi_devī_SVF kaṃthakam_kanthaka_SAM na_na_ ca_ca_ api_api_ roṣam_roṣa_SAM mayi_mad_SL kartum_kṛ_In arhasi_arh_SPr2In  / anāgasau_anāgas_DuNM svaḥ_as_DuPr1In samavehi_samave_SPr2Im sarvaśas_sarva"
+  },
+  {
+    "index": 43921,
+    "sanskrit": "indrāsomā vartayatam divaḥ pari agni taptebhiḥ yuvam aśmahanma bhiḥ tapuḥ vadhebhiḥ ajarebhiḥ atriṇaḥ ni parśāne vidhyatam yantu ni svaram",
+    "english": "Indra and Soma, cast ye downward out of heaven your deadly darts of stone burning with fiery flame, Eternal, scorching darts; plunge the voracious ones within the depth, and let them sink without a sound.",
+    "morphology": "indrāsomā_indrāsoma_DuVM vartayatam_vartay_DuPr2Im divaḥ_div_SBM pari_pari_U agni_agni_MCp taptebhiḥ_tap_PIPaPsNe yuvam_tvad_DuNM aśmahanma_aśmahanman_PINe tapuḥ_tapus_NeCp vadhebhiḥ_vadha_PIM ajarebhiḥ_ajara_PIM atriṇaḥ_atrin_PAM ni_ni_"
+  },
+  {
+    "index": 43922,
+    "sanskrit": "rūpasyeti / na /",
+    "english": "AnswerThere is no force in this",
+    "morphology": "rūpasya_rūpa_SGNe iti_"
+  },
+  {
+    "index": 43923,
+    "sanskrit": "paricaryāsu dakṣāṇām pradadau puṣkarekṣaṇaḥ pṛṣṭhyānām api ca aśvānām bāhlijānām janārdanaḥ dadau śata sahasra ākhyam kanyā dhanam anuttamam",
+    "english": "Janardana also gave unto them hundreds of thousands of draft horses from the country of the Valhikas as Subhadra's excellent dower.",
+    "morphology": "paricaryāsu_paricaryā_PLF dakṣāṇām_dakṣa_PGF pradadau_pradā_SPs3In puṣkarekṣaṇaḥ_puṣkarekṣaṇa_SNM pṛṣṭhyānām_pṛṣṭhya_PGM api_api_U ca_ca_U aśvānām_aśva_PGM bāhlijānām_bāhlija_PGM janārdanaḥ_janārdana_SNM d"
+  },
+  {
+    "index": 43924,
+    "sanskrit": "mukham̐ sad asya śira it satena jihvā pavitram aśvināsant sarasvatī / capyaṃ na pāyur bhiṣag asya vālo vastir na śepo harasā tarasvī //",
+    "english": "the strainer his tongue, his mouth Sarasvatî and Asvins. The Chapya was his rump, his leech the filter, the bladder was his penis keen with ardour. 89",
+    "morphology": "mukham_mukha_SNNe sat_as_SPr3Su asya_idam_SGM śiraḥ_śiras_SNNe id_id_ satena_sata_SIM jihvā_jihvā_SNF pavitram_pavitra_SNNe aśvinā_aśvin_DuNM āsan_as_P3ImIn sarasvatī_sarasvatī_SNF  / capyam_capya_SNNe na_na_ pāyuḥ_pāyu_SNM bhiṣaj_bhiṣa"
+  },
+  {
+    "index": 43925,
+    "sanskrit": "svalpāmapi mahīṃ dattvā śrotriyāyāhitāgnaye | brahmalokamavāpnoti punarāvṛttivarjitam || 39 ||",
+    "english": "39. By giving as a gift even a smallest piece of land to a person well-versed in the Vedas, who maintains the sacred fire, one attains the world of Brahmā, from which there is no return to this world.",
+    "morphology": "su_su_ alpām_alpa_SAF api_api_ mahīm_mahī_SAF dattvā_dā_Co śrotriyāya_śrotriya_SDM āhitāgnaye_āhitāgni_SDM  / brahma_brahman_Cp lokam_loka_SAM avāpnoti_avāp_SPr3In punarāvṛtti_punarāvṛtti_Cp varjitam_varjay_SAPaM"
+  },
+  {
+    "index": 43926,
+    "sanskrit": "rajasvalā ca yā nārī vyaṅgitā karṇayoḥ ca yā",
+    "english": "A woman that has become impure in consequence of the advent of her season, or one whose ears have been cut off, should not be allowed to remain where a Sraddha is being performed.",
+    "morphology": "rajasvalā_rajasvalā_SNF ca_ca_U yā_yad_SNF nārī_nārī_SNF vyaṅgitā_vyaṅgita_SNF"
+  },
+  {
+    "index": 43927,
+    "sanskrit": "hṛṣṭaḥ saha bhrātṛbhiḥ arjunasya saṃkīrtayām āsa gavām pradānam tatas tu kāverim ananta toyām",
+    "english": "and with his brothers narrated well pleased how Arjuna had made a gift of kine.",
+    "morphology": "hṛṣṭaḥ_hṛṣ_SNPaPsM saha_saha_U bhrātṛbhiḥ_bhrātṛ_PIM arjunasya_arjuna_SGM saṃkīrtayām_saṃkīrtay_SPs3In āsa_as_SPs3In gavām_go_PGM pradānam_pradāna_SANe tatas_tatas_U tu_tu_U kāverim_kāverī_SAF"
+  }
+]

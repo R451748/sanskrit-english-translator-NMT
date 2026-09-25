@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28032,
+    "sanskrit": "strī kṣutkṣutaṃ kṣayaṃ puṃsi kāsastu kṣavathuḥ pumān /",
+    "english": "Kṣut, kṣutam and kṣava sneezing are synonyms. The word kṣut is feminine. The words kāsa and kṣavathu meaning cough are both masculine.",
+    "morphology": "strī_strī_SNF kṣudh_kṣudh_SNF kṣutam_kṣuta_SNNe kṣayam_kṣaya_SAM puṃsi_puṃs_SLM kāsaḥ_kāsa_SNM"
+  },
+  {
+    "index": 28033,
+    "sanskrit": "kimetannīyate citraṃ haṃsābhyāmiti tair janaiḥ / kriyamāṇaṃ kalakalaṃ sa kūrmaścapalo 'śṛṇot //",
+    "english": "and the thoughtless tortoise heard them making a chattering, while they were discussing with one another what the strange thing could be that the swans were carrying.",
+    "morphology": "kim_ka_SNNe etat_etad_SNNe nīyate_nī_SPr3InPv citram_citra_SNNe haṃsābhyām_haṃsa_DuIM iti_iti_ taiḥ_tad_PIM janaiḥ_jana_PIM  / kriyamāṇam_kṛ_SAPaPrNePv kalakalam_kalakala_SANe sa_tad_SNM kūrmaḥ_kūrma_SNM capalaḥ_capala_SNM aśṛṇo"
+  },
+  {
+    "index": 28034,
+    "sanskrit": "unnidrakokanadasadmasadāsthitīte unnidrakokanadamadhyasamānavarṇe //",
+    "english": "'O charming lady! Thy hands are as beautiful as the expanded red lotus. Thou art holding the feet of him whose navel resembles the expanded red lotus. Thou art constantly residing in an abode resembling the expanded red lotus. Thy waist has the colour of the expanded red lotus.",
+    "morphology": "unnidra_unnidra_Cp kokanada_kokanada_Cp sadma_sadman_Cp sadā_sadā_ sthiti_sthiti_Cp ita_i_SVPaF unnidra_unnidra_Cp kokanada_kokanada_Cp madhya_madhya_Cp samāna_samāna_Cp varṇe_varṇa_SVF  /"
+  },
+  {
+    "index": 28035,
+    "sanskrit": "aniruddha iti khyātaṃ tanmūrtīnāṃ catuṣṭayam | kīrtitaḥ praṇavaḥ paścāddhṛdayaṃ tasya bhāsvaram || 44 || bhagavānvāsudevaśca mantro'yaṃ tatprakāśakaḥ || 45 || mantrarājamimaṃ nityaṃ prajapedyaḥ samāhitaḥ | sa viṣṇoḥ karuṇāyogātsiddhīnāṃ bhājanaṃ bhavet || 46 ||",
+    "english": "43-46. Sages with great concentration and mental purity seek his form. Four of his Mūrtis (forms) are famous,[2] viz. Saṅkarṣaṇa, Vāsudeva, Pradyumna and Aniruddha. Praṇava is proclaimed thereafter. His heart is refulgent. Vāsudeva is the Lord and this Mantra reveals him. He who repeats this Mantrarāja regularly, shall be the recipient of Siddhis due to the mercifulness of Viṣṇu.",
+    "morphology": "aniruddhaḥ_aniruddha_SNM iti_iti_ khyātam_khyā_SNPaNe tat_tad_SNNe mūrtīnām_mūrti_PGF catuṣṭayam_catuṣṭaya_SNNe  / kīrtitaḥ_kīrtay_SNPaM praṇavaḥ_praṇava_SNM paścāt_paścāt_ hṛdayam_hṛdaya_SNNe tasya_tad_SGM bhāsvaram_bhā"
+  },
+  {
+    "index": 28036,
+    "sanskrit": "tanmṛtyosrāṇaṃ manyamānāḥ /",
+    "english": "regarding it as a protection against Death",
+    "morphology": "tat_tad_SANe ṛte_ṛte_ "
+  },
+  {
+    "index": 28037,
+    "sanskrit": "na tat kena cit anyena gata pūrvam dvijarṣabha ṛte nārāyaṇam devam naram vā jiṣṇum avyayam",
+    "english": "None else, O bull among Brahmanas, save the divine Narayana, and the eternal Nara called also Jishnu, succeeded in passing beyond the point so guarded.",
+    "morphology": "na_na_U tat_tad_SNNe kena_ka_SIM cit_cit_U anyena_anya_SIM gata_gam_PaPsCp pūrvam_pūrva_SNNe dvijarṣabha_dvijarṣabha_SVM ṛte_ṛte_U nārāyaṇam_nārāyaṇa_SAM devam_deva_SAM naram_nara_SAM vā_vā_U"
+  },
+  {
+    "index": 28038,
+    "sanskrit": "“amukasya gha-pater ghe prathamam bhaikṣyaṃ grahītavyam” iti |",
+    "english": "“You should receive the alms food first at the home of this householder.”",
+    "morphology": "__amuka_U __gﾱ_U __pati_U __gﾱ_U __prathama_U"
+  },
+  {
+    "index": 28039,
+    "sanskrit": "tvac māṃsam rudhiram medaḥ pittam majjā asthi snāyu ca aṣṭau tāni atha śukreṇa jānīhi prākṛtāni vai",
+    "english": "Skin, flesh, blood, fat, bile, marrow, bones, and sinews,--these eight that are made of Prakriti, know, O king, may sometimes be produced by the vital seed alone (of the male).",
+    "morphology": "tvac_tvac_SNF māṃsam_māṃsa_SNNe rudhiram_rudhira_SNNe medaḥ_medas_SNNe pittam_pitta_SNNe majjā_majjan_SNM asthi_asthi_SNNe snāyu_snāyu_SNNe ca_ca_U aṣā_aṣṭan_PNNe tānā_tad_PNNe atha_atha_U śukreṇa_śukra_SINe"
+  }
+]

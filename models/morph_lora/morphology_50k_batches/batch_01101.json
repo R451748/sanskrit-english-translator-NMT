@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8800,
+    "sanskrit": "na apaḥ praveṣṭum śakṣyāmi kṣayaḥ me atra bhaviṣyati",
+    "english": "Therein it is extinction that awaits me.",
+    "morphology": "na_na_U apaḥ_ap_PAF praveṣṭum_praviś_In śakṣyāmi_śak_SFu1In"
+  },
+  {
+    "index": 8801,
+    "sanskrit": "bībhatsoḥ kopa dīptasya dagdhāḥ kṛpaṇa cakṣuṣā",
+    "english": "Alas, we also shall today lay ourselves down on the bare earth, blasted by the glances of grief, cast by Arjuna filled with wrath.",
+    "morphology": "bībhatsoḥ_bībhatsu_SGM kopa_kopa_MCp dīptasya_dīp_SGPaPsM dagdhāḥ_dah_PNPaPsF"
+  },
+  {
+    "index": 8802,
+    "sanskrit": "pratyavaroheyur ud vā mādyeyur yajamānāḥ pra vā mīyeran yat pratīcīnāni pṛṣṭhāni bhavanti |",
+    "english": "If they were not to descend to this world [3], the sacrificers would either go mad or perish.",
+    "morphology": "pratyavaroheyuḥ_pratyavaruh_PPr3O ud_ud_ vā_vā_ mādyeyuḥ_mad_PPr3O yajamānāḥ_yaj_PNPaPrM pra_pra_ vā_vā_ mīyeran_mā_PPr3OPv yat_yat_ pratīcīnāni_pratīcīna_PNNe"
+  },
+  {
+    "index": 8803,
+    "sanskrit": "samudāyāvayavabhedāc cādhārādheyabhāvaḥ / teṣu nigameṣu śrutaya ekadeśabhūtā vākyāni nigītā adhītāḥ saṃśabditāḥ paṭhyanta iti yāvat /",
+    "english": "The texts are spoken of as \"in the Veda\" , which presupposes the relation of constainer and contained, on the understanding that there is some sort of difference between the whole and its parts. In the Nigama, Veda, there are \"texts\" , sentences, forming part of it, which are \"sung\" recited, repeated, read there.",
+    "morphology": "samudāya_samudāya_Cp avayava_avayava_Cp bhedāt_bheda_SBM ca_ca_ ādhāra_ādhāra_Cp ādheya_ādheya_Cp bhāvaḥ_bhāva_SNM  / teṣu_tad_PLM nigameṣu_nigama_PLM śrutayaḥ_śruti_PNF eka_eka_Cp deśa_deśa_Cp bhūtāḥ_bhū_PNPaF vākyāni_vākya_"
+  },
+  {
+    "index": 8804,
+    "sanskrit": "caṃdra uvāca | yadi prasanno deveśa varārho yadi vā'pyaham | somanātheti taṃ nāma bhūyādbrahmāvadhi prabho || 51 ||",
+    "english": "Candra said: 51. O Lord of the Devas, if you are pleased, if I am eligible for a boon, O Lord, let your name be Somanātha throughout the life-span of Brahmā.",
+    "morphology": "candraḥ_candra_SNM uvāca_vac_SPs3In  / yadi_yadi_ prasannaḥ_prasad_SNPaM deveśa_deveśa_SVM vara_vara_Cp arhaḥ_arha_SNM yadi_yadi_ vā_vā_ api_api_ aham_mad_SN  / somanātha_somanātha_SVM iti_iti_ tam_tad_SAM nāma_nāma_ bhūyāt_bhū_SPs3 brahm"
+  },
+  {
+    "index": 8805,
+    "sanskrit": "karṇa śalya jhaṣa āvartam kāmboja vaḍavā mukham",
+    "english": "Karna and Salya, its fishes and whirlpools;",
+    "morphology": "karṇa_karṇa_MCp"
+  },
+  {
+    "index": 8806,
+    "sanskrit": "tadāgataṃ mahādaityaṃ samīpe bhayavihvalam | vilokya kṛpayāviṣṭo gate saṃgrāmamūrdhani || 24 || chittvā bāhusahasraṃ vai daityarājasya cāhave | kruddhaḥ kṛṣṇo mahābāhuḥ parasenāṃtako varaḥ || 25 || sthito yatrācalo vyāsa tatrāgato maheśvaraḥ | vārayāmāsa kṛṣṇaṃ vai śaroghaiśca samākiran || 26 ||",
+    "english": "24-29. On seeing the frightened Mahā Daitya approaching him, O Vyāsa, Maheśvara became overwhelmed with compassion. He came to the place where the angry Kṛṣṇa of mighty arms was standing unmoved after cutting off the thousand arms of the king of Daityas in the course of the battle. The excellent Kṛṣṇa, the destroyer of enemy’s army, stood there like a mountain. Maheśvara came there. He tried to restrain Kṛṣṇa by showering him with volleys of arrows.",
+    "morphology": "tad_tad_Cp āgatam_āgam_SAPaM mahā_mahat_Cp daityam_daitya_SAM samīpe_samīpa_SLNe bhaya_bhaya_Cp vihvalam_vihvala_SAM  / vilokya_vilokay_Co kṛpayā_kṛpā_SIF āviṣṭaḥ_āviś_SNPaM gate_gam_SLPaM saṃgrāma_saṃgrāma_Cp mūrdhani_mūrdhan_S"
+  },
+  {
+    "index": 8807,
+    "sanskrit": "etaduktaṃ bhavati / ye saptadaśavarṇādibhedabhinnāḥ paśavasteṣāṃ kaścitprājāpatyaḥ karttavya iti tatrāha /",
+    "english": "This has been brought in as a solvent for the sentence that lays down the whole animal as the offering and the sense of the sentence is that from among various animals that may have either seventeen horns, or seventeen colours, or seventeen shapes, one is to be made the Prajapatya. In reply to this it is said in the Bhashya But the animals are subse quently laid down clearly as black, horniess, and hence the seventeen coloured or the seventeenhorned ones could not be meant. And hence we conclude that there are seventeen sacrifices.",
+    "morphology": "etat_etad_SNNe uktam_vac_SNPaNe bhavati_bhū_SPr3In  / ye_yad_PNM saptadaśa_saptadaśan_Cp varṇa_varṇa_Cp ādi_ādi_Cp bheda_bheda_Cp bhinnāḥ_bhid_PNPaM paśavaḥ_paśu_PNM teṣām_tad_PGM kaścid_kaścit_SNM prājāpatyaḥ_prājāpatya_SNM kart"
+  }
+]

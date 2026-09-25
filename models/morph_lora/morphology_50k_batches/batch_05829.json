@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46624,
+    "sanskrit": "rasasya kuḍavam tasya pibet mūtra rujā apaham",
+    "english": "The dung of an ass or of a horse should he squeezed through a piece of linen and a Kudava measure of this expressed liquid should be taken for the cure of an attack of painful urination.",
+    "morphology": "rasasya_rasa_SGM kuḍavam_kuḍava_SANe"
+  },
+  {
+    "index": 46625,
+    "sanskrit": "ekaḥ eva uttama balaḥ kṣudh pipāsā samanvitaḥ sa vanasya antam āsādya mahat īriṇam āsadat",
+    "english": "And attended by a single follower and fatigued with hunger and thirst, he came upon a large desert on the frontiers of the forest.",
+    "morphology": "ekaḥ_eka_SNM eva_eva_U uttama_uttama_Cp balaḥ_bala_SNM kṣudh_kṣudh_FCp pipāsā_pipāsā_FCp samanvitaḥ_samanvita_SNM sa_tad_SNM vanasya_vana_SGNe antam_anta_SAM āsādya_āsāday_Co mahat_mahat_SANe īriṇam_īriṇa_SANe"
+  },
+  {
+    "index": 46626,
+    "sanskrit": "praviśya kautukāttasyāṃ dṛṣṭvāntarmaṇimandiram / pravṛttavānahaṃ jālagavākṣais tatra vīkṣitum //",
+    "english": "I entered it out of curiosity, and I saw inside it a palace made of jewels, and I began to look into the palace through the lattice-windows.",
+    "morphology": "praviśya_praviś_Co kautukāt_kautuka_SBNe tasyām_tad_SLF dṛṣṭvā_dṛś_Co antar_antar_ maṇi_maṇi_Cp mandiram_mandira_SANe  / pravṛttavān_pravṛt_SNPaM aham_mad_SN jāla_jāla_Cp gavākṣaiḥ_gavākṣa_PIM tatra_tatra_ vīkṣitum_vīk"
+  },
+  {
+    "index": 46627,
+    "sanskrit": "sahasram hi dvijātīnām uvāha śibikām mama",
+    "english": "And thousands of Brahmanas were engaged in carrying my chair.",
+    "morphology": "sahasram_sahasra_SNNe hi_hi_U"
+  },
+  {
+    "index": 46628,
+    "sanskrit": "nimayet pakvam āmena bhojana arthāya bhārata vayam siddham a śiṣyāmaḥ bhavān sādhayatām idam",
+    "english": "Uncooked food, however, may be given for procuring cooked food, O Bharata![234] 'We will eat this cooked food of thine.",
+    "morphology": "pakvam_pakva_SANe āmena_āma_SINe bhojana_bhojana_NeCp arthāya_artha_SDM bhārata_bhārata_SVM vayam_mad_PN siddham_sidh_SAPaPsNe a_a_U śiṣyāmaḥ_śās_PPr1In bhavān_bhavat_SNM sādhayatām_sādhay_SPr3Im"
+  },
+  {
+    "index": 46629,
+    "sanskrit": "parigrahaḥ kṛto'smābhiḥ kevalaṃ pṛthivīpate | na ca kiṃcitphalaṃ jātaṃ vṛttijaṃ naḥ purodbhavam || 91 ||",
+    "english": "91-93. “O Lord of the earth, only we have formally accepted the gifts. But nothing has been done in regard to the city and our means of sustenance.",
+    "morphology": "parigrahaḥ_parigraha_SNM kṛtaḥ_kṛ_SNPaM asmābhiḥ_mad_PI kevalam_kevalam_ pṛthivīpate_pṛthivīpati_SVM  / na_na_ ca_ca_ kiṃcid_kaścit_SNNe phalam_phala_SNNe jātam_jan_SNPaNe vṛtti_vṛtti_Cp jam_ja_SNNe naḥ_mad_PG purā_purā_ udbhav"
+  },
+  {
+    "index": 46630,
+    "sanskrit": "śaṅkaraṃ sthāpayāmāsa surāsuranamaskṛtam | acchedyamapratarkyaṃ ca devānāṃ tu durāsadam || 9 || parāśaro mahātmā vai kṛtārtho hyabhavannṛpa || 10 ||",
+    "english": "She vanished there itself. The noble-souled Parāśara installed Pārvatī. He established Śaṅkara, bowed down to by Suras and Asuras, the Lord who cannot be comprehended in an adequate manner, who cannot be divided and approached even by Devas. O king, Parāśara, the noble-souled one, became contented.",
+    "morphology": "śaṅkaram_śaṃkara_SAM sthāpayāmāsa_sthāpay_SPs3InPe sura_sura_Cp asura_asura_Cp namaskṛtam_namaskṛ_SAPaM  / acchedyam_acchedya_SAM apratarkyam_apratarkya_SAM ca_ca_ devānām_deva_PGM tu_tu_ durāsadam_durāsada_SAM  / parāśaraḥ_parāśara"
+  },
+  {
+    "index": 46631,
+    "sanskrit": "viśrāṇitamahādānāsta eva narapuṃgavāḥ | carame vayasi prāptā yaireṣā maṇikarṇikā || 62 ||",
+    "english": "62. Those excellent men who successfully reached Maṇikarṇikā in their last years are definitely those by whom great gifts have been donated.",
+    "morphology": "viśrāṇita_viśrāṇita_Cp mahā_mahat_Cp dānāḥ_dāna_PNM te_tad_PNM eva_eva_ nara_nara_Cp puṃgavāḥ_puṃgava_PNM  / carame_carama_SLNe vayasi_vayas_SLNe prāptā_prāp_SNPaF yaiḥ_yad_PIM eṣā_etad_SNF maṇi_maṇi_Cp karṇikā_karṇik"
+  }
+]

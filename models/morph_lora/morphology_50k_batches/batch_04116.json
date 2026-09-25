@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32920,
+    "sanskrit": "uttama āpad gataḥ sarvaḥ pituḥ smarati śāsanam",
+    "english": "Indeed, when overtaken by calamity, every one recollects the injunctions of his father.",
+    "morphology": "uttamā_uttama_SNF āpaḥ_āpad_SNF"
+  },
+  {
+    "index": 32921,
+    "sanskrit": "jāti janma jarā duḥkhe nityam saṃsāra sāgare",
+    "english": "Enduring birth in the uterus, decrepitude and afflictions of diverse kinds, in this ocean of the world, living creatures may be seen to be continually going forward and coming back.",
+    "morphology": "__jāti_U"
+  },
+  {
+    "index": 32922,
+    "sanskrit": "sarvāṇi yeṣām gāṅgeyaiḥ toyaiḥ kṛtyāni dehinām ye vā yathāvidhi snātāḥ gaṅgāyām sa aghamarṣaṇāḥ gām tyaktvā mānavāḥ vipra divi tiṣṭhanti te acalāḥ",
+    "english": "Those creatures whose bodies have been sprinkled with the sacred waters of Bhagirathi or whose bones have been laid in the channel of that sacred stream, have not to fall away--from heaven at any time.[237] Those men, O learned Brahmana, who use the waters of Bhagirathi in all their acts, surely ascend to heaven after departing from this world.",
+    "morphology": "sarvāṇi_sarva_PNNe yeṣām_yad_PGM gāṅgeyaiḥ_gāṅgeya_PINe toyaiḥ_toya_PINe kṛtyāni_kṛtya_PNNe dehinām_dehin_PGM ye_yad_PNM vā_vā_U yathāvidhi_yathāvidhi_U snātāḥ_snā_PNPaPsM gaṅgāyām_gaṅgā_SLF sa_sa_U aghamarṣaṇāḥ"
+  },
+  {
+    "index": 32923,
+    "sanskrit": "capalasya paśorbandhasthāne praveśanāya dvāvupāyau bhavataḥ /",
+    "english": "Vasistha : The mind, which is like a child, should be trained to tranquillity by persuation and consolation and caressing ;",
+    "morphology": "capalasya_capala_SGM paśoḥ_paśu_SGM bandhasthāne_bandhasthāna_SLNe praveśanāya_praveśana_SDNe dvau_dvi_DuNM upāyau_upāya_DuNM"
+  },
+  {
+    "index": 32924,
+    "sanskrit": "etat smṛtiviveke prapañcitam /",
+    "english": "This we have dealt with in detail in the Smṛtiviteka.",
+    "morphology": "__U"
+  },
+  {
+    "index": 32925,
+    "sanskrit": "brāhmaṇā ūcuḥ | duryodhana mahārāja śrūyatāṃ mahadadbhutam | na śrutaṃ na ca dṛṣṭaṃ vā kautukaṃ nṛpapuṃgava || 20 || agnikāryapravṛttānāṃ sarveṣāṃ vidhivannṛpa | kenāpi hetunā vahnirdṛśyate na jvalatyuta || 21 ||",
+    "english": "O great king Duryodhana, may this mysterious event be heard. This miraculous thing has not been heard or seen before, O excellent king. O king, all of us began duly our sacrificial rites in the fire. For some reason the fire is neither seen nor does it burn.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM ūcuḥ_vac_PPs3In  / duryodhana_duryodhana_SVM mahā_mahat_Cp rāja_rāja_SVM śrūyatām_śru_SPr3ImPv mahat_mahat_SNNe adbhutam_adbhuta_SNNe  / na_na_ śrutam_śru_SNPaNe na_na_ ca_ca_ dṛṣṭam_dṛś_SNPaNe vā_vā_ "
+  },
+  {
+    "index": 32926,
+    "sanskrit": "'na saṃbhāṣetstriyaṃ kāñcitpūrvadṛṣṭāṃ na ca smaret / kathāṃ ca varjayet tasyā na paśyellikhitāmapi //'",
+    "english": "'He should neither converse with women, nor should remember one earlier seen, should avoid talks regarding women and should not see even a picture of a woman' .",
+    "morphology": "na_na_ saṃbhāṣet_sambhāṣ_SPr3O striyam_strī_SAF kāñcid_kaścit_SAF pūrva_pūrva_Cp dṛṣṭām_dṛś_SAPaF na_na_ ca_ca_ smaret_smṛ_SPr3O  / kathām_kathā_SAF kṛtā_kṛt_SPr2Im kṛtā_kṛt_SPr2Im kṛtā_kṛt_SPr2Im kṛtā_kṛt_SP"
+  },
+  {
+    "index": 32927,
+    "sanskrit": "cetana acetana ādyeṣu śakra viddhi maheśvarāt bhuvā ādyeṣu mahānteṣu lokāloka antareṣu ca dvīpa sthāneṣu meroḥ ca vibhaveṣu antareṣu ca",
+    "english": "Know, O Kesava, that this all, consisting of animate and inanimate existences with heaven and other unseen entities, which occur in this world, and which has the all-pervading Lord for their soul, has flowed from Maheswara and has been created (by him) for enjoyment by Jiva.[55] In the worlds that are known by the names of Bhu, Bhuva, Swah, and Maha, in the midst of the mountains of Lokaloka, in the islands, in the mountains of Meru, in all things that yield happiness, and in the hearts of all creatures, O illustrious Maghavat, resides Mahadeva, as persons conversant with all the topics of enquiry say.",
+    "morphology": "cetana_cetana_Cp acetana_acetana_Cp ādyeṣu_ādya_PLNe śakra_śakra_SVM viddhi_vid_SPr2Im maheśvarāt_maheśvara_SBM bhuvā_bhū_SIF ādyeṣu_ādya_PLNe mahānteṣu_mahānta_PLM lokāloka_lokāloka_MCp antareṣu_antara_PLNe ca_ca_U dvīpa_dvīpa_MCp"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14360,
+    "sanskrit": "evam anyonyam āyastāḥ yodhāḥ jaghnuḥ mahā mṛdhe pitṝn bhrātṝn vayasyān ca putrān api tathā apare",
+    "english": "Thus the combatants, engaged with one another in that great battle, slew sires and friends and sons.",
+    "morphology": "evam_evam_U anyonyam_anyonya_SAM āyastāḥ_āyas_PNPaPsM yodhāḥ_yodha_PNM jaghnuḥ_han_PPs3In mahā_mahat_Cp mṛdhe_mṛdha_SLM pitṝn_pitṛ_PAM bhrātṝn_bhrātṛ_PAM vayasyān_vayasya_PAM ca_ca_U putrān_putra_PAM api_api_U tathā_tathā_U apa"
+  },
+  {
+    "index": 14361,
+    "sanskrit": "avajñānam ahaṃkāraḥ dambhaḥ ca eva vigarhitaḥ",
+    "english": "Insult, arrogance, and deceit, also should be avoided.",
+    "morphology": "avajñānam_avajñāna_SNNe ahaṃkāraḥ_ahaṃkāra_SNM dambhaḥ_dambha_SNM ca_ca_U eva_eva_U vigarhitaḥ_vigarh_SNPaPsM"
+  },
+  {
+    "index": 14362,
+    "sanskrit": "naivedyaṃ tatra dadyādvai madhurairvividhairapi | athavā caiva māṣānnaistoṣayecca sadāśivam ||",
+    "english": "71. The Naivedya shall be offered with different sweets or cooked black gram and rice in order to propitiate Sadā-Śiva.",
+    "morphology": "naivedyam_naivedya_SANe tatra_tatra_ dadyāt_dā_SPr3O vai_vai_ madhuraiḥ_madhura_PINe vividhaiḥ_vividha_PINe api_api_  / athavā_athavā_ ca_ca_ eva_eva_ māṣa_māṣa_Cp annaiḥ_anna_PINe toṣayet_toṣay_SPr3O ca_ca_ sadāśivam_sadāśiva_SAM  "
+  },
+  {
+    "index": 14363,
+    "sanskrit": "avaśiṣṭaṃ spaṣṭam //",
+    "english": "The rest is quite clear.",
+    "morphology": "avaśiṣṭam_avaśiṣ_SNPaNe spaṣṭam_spaṣṭa_SNNe  /"
+  },
+  {
+    "index": 14364,
+    "sanskrit": "ekaś cāsākṣī //",
+    "english": "Nor can one man alone be made a witness.",
+    "morphology": "ekaḥ_eka_SNM ca_ca_ a_a_ sākṣī_sākṣin_SNM  /"
+  },
+  {
+    "index": 14365,
+    "sanskrit": "athotsaṃge ca taṃ kṛtvā nakhaistadudarandrutam | vidārya mārayāmāsa paśyatāṃ tridivaukasām ||",
+    "english": "22. While the gods were watching he placed the daitya on his lap and immediately tore open his stomach with his claws and killed him.",
+    "morphology": "atha_atha_ utsaṃge_utsaṅga_SLM ca_ca_ tam_tad_SAM kṛtvā_kṛ_Co nakhaiḥ_nakha_PIM tat_tad_SANe udarandrutam_udarandru_SAPaNe  / vidārya_vidāray_Co mārayāmāsa_māray_SPs3InPe paśyatām_dṛś_PGPaPrM tridivaukasām_tridivaukas_PGM  /"
+  },
+  {
+    "index": 14366,
+    "sanskrit": "saṃrabdhaḥ mām abravīt tīkṣṇa roṣaḥ saṃvartaḥ vākyam carita brahmacaryaḥ",
+    "english": "Know, O Sakra, that highly incensed Samvarta, used to ascetic practices, told me these words in a rage.",
+    "morphology": "saṃrabdhaḥ_saṃrabh_SNPaPsM mām_mad_SA abravīt_brū_SPs3In tīkṣṇa_tīkṣṇa_Cp roṣaḥ_roṣa_SNM saṃvartaḥ_saṃvarta_SNM vākyam_vākya_SANe carita_car_PaPsCp brahmacaryaḥ_brahmacarya_SNM"
+  },
+  {
+    "index": 14367,
+    "sanskrit": "kṛcchrām āpadam āpannān priyam kim karavāṇi vaḥ",
+    "english": "What good can I do to you.",
+    "morphology": "kṛcchrām_kṛcchra_SAF āpadam_āpad_SAF āpannān_āpad_PAPaPsM priyam_priya_SANe kim_ka_SANe karavāṇi_kṛ_SPr1Im vaḥ_tvad_PD"
+  }
+]

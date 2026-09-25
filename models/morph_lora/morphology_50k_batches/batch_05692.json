@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45528,
+    "sanskrit": "kālaṃ mahāntam avasat kṛcchram ānakaduṃdubhiḥ //",
+    "english": "Fettered like a felon along with Ugrasena Anakadundubhi began to spend his days in great misery.",
+    "morphology": "kālam_kāla_SAM mahāntam_mahat_SAM avasat_vas_S3ImIn kṛcchram_kṛcchra_SANe ānakadundubhiḥ_ānakadundubhi_SNM  /"
+  },
+  {
+    "index": 45529,
+    "sanskrit": "iti proktam kuruśreṣṭha tila dānam anuttamam",
+    "english": "I have thus said unto thee, O chief of the Kurus, what the regulations are respecting the excellent gift of sesame seeds.",
+    "morphology": "iti_iti_U proktam_pravac_SNPaPsNe kuruśreṣṭha_kuruśreṣṭha_SVM"
+  },
+  {
+    "index": 45530,
+    "sanskrit": "ato 'sya vinā 'pīndriyeṇa yuktaḥ saṃbhavaḥ / niḥprayojanā 'pīndriyābhinirvṛttirbhavati / yathā garbhe niyatamṛtyūnām /",
+    "english": "Thus the nose and tongue exist in Rūpadhātu, although the organs which correspoad to them are lacking. Thus there are only twelve dhātus in Rūpadhātu. Agreed!",
+    "morphology": "atas_atas_ asya_idam_SGM vinā_vinā_ api_api_ indriyeṇa_indriya_SINe yuktaḥ_yuj_SNPaM saṃbhavaḥ_sambhava_SNM  / niḥprayojanā_niḥprayojana_SNF api_api_ indriya_indriya_Cp abhinirvṛttiḥ_abhinirvṛtti_SNF bhavati_bhū_SPr3In  / yathā_yath"
+  },
+  {
+    "index": 45531,
+    "sanskrit": "tadyathāpi nāma kulaputra, nāsti tat trisāhasramahāsāhasre lokadhātau yat sattvānām upabhogāya na syāt /",
+    "english": "Even then, O Kulaputra! there is nothing in the three thousand or many thousands of lokadhatus wordly components which is not meant for the sattvas enjoyment.",
+    "morphology": "tat_tad_SNNe yathā_yathā_ api_api_ nāma_nāma_ kula_kula_Cp putra_putra_SVM na_na_ asti_as_SPr3In tat_tad_SNNe tri_tri_Cp sāhasra_sāhasra_Cp mahā_mahat_Cp sāhasre_sāhasra_SLM lokadhātau_lokadhātu_SLM yat_yad_SNNe sattvānām_sattva_PGM upabhogāy"
+  },
+  {
+    "index": 45532,
+    "sanskrit": "kuṭādibhedavat tac ca pradhānam iti kāpilāḥ //",
+    "english": "and this something is primordial matter”, so say the followers of Kapila.",
+    "morphology": "kuṭa_kuṭa_Cp ādi_ādi_Cp bheda_bheda_Cp vat_vat_ tat_tad_SNNe ca_ca_ pradhānam_pradhāna_SNNe iti_iti_ kāpilāḥ_kāpila_PNM  /"
+  },
+  {
+    "index": 45533,
+    "sanskrit": "sattvākhyau",
+    "english": "It belongs to living beings.",
+    "morphology": "sattva_sattva_Cp ākhyau_ākhyā_DuNM"
+  },
+  {
+    "index": 45534,
+    "sanskrit": "dadhīca uvāca | kimebhiramarairanyaiḥ pūjitairadhvare phalam | rājā cedadhvarasyāsya na rudraḥ pūjyate tvayā ||",
+    "english": "14. What avails worshipping the gods in the sacrifice if the king of sacrifice, Rudra, is not worshipped by you?",
+    "morphology": "dadhīcaḥ_dadhīca_SNM uvāca_vac_SPs3In  / kim_ka_SNNe ebhiḥ_idam_PIM amaraiḥ_amara_PIM anyaiḥ_anya_PIM pūjitaiḥ_pūjay_PIPaM adhvare_adhvara_SLM phalam_phala_SNNe  / rājā_rājan_SNM ced_ced_ adhvarasya_adhvara_SGM asya_idam_SGM na_na_ rudra"
+  },
+  {
+    "index": 45535,
+    "sanskrit": "ye vaiṣṇavā'vaiṣṇavāśca balirājyotsavaṃ narāḥ | na kurvaṃti vṛthā teṣāṃ dharmāḥ syurnātra saṃśayaḥ || 102 ||",
+    "english": "If Vaiṣṇavas or non-Vaiṣṇavas do not celebrate this festival of the kingdom of Bali, their pious and holy rites shall be futile undoubtedly.",
+    "morphology": "ye_yad_PNM vaiṣṇava_vaiṣṇava_Cp a_a_ vaiṣṇavāḥ_vaiṣṇava_PNM ca_ca_ bali_bali_Cp rājya_rājya_Cp utsavam_utsava_SAM narāḥ_nara_PNM  / na_na_ kurvanti_kṛ_PPr3In vṛthak_vṛthak_ teṣām_tad_PGM dharmāḥ_dharma_PNM syuḥ_as_PPr3"
+  }
+]

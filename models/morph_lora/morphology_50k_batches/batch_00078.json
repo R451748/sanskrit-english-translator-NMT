@@ -1,0 +1,50 @@
+[
+  {
+    "index": 616,
+    "sanskrit": "ahorātrayor dvitīyas | ardhamāsānāṃ tṛtīyas |",
+    "english": "for day and night the second (part); for the half-months the third;",
+    "morphology": "aṇḍṇḍṇḍṇḍṇḍṇḍṇḍṇḍṇḍṇḍṇ"
+  },
+  {
+    "index": 617,
+    "sanskrit": "anirdeśyena rūpeṇa dvitīyaḥ iva bhāskaraḥ",
+    "english": "His form seemed to be indescribable. Indeed, he appeared to us to be like a second Surya.",
+    "morphology": "anirdeśyena_anirdeśya_SINe"
+  },
+  {
+    "index": 618,
+    "sanskrit": "pādau tasya gṛhītvā ca tasthau mukharako rudan / padmiṣṭhā ca yayau tasya pārśvaṃ caurapaterdrutam // abravīc ca taḍāgānte mandaḥ ko 'pyāgataḥ sthitaḥ / pānthas tasya dvitīyaś ca tatrāste paricārakaḥ // tac chrutvaiva sa cauro 'tra bhṛtyāṃścaurānvisṛṣṭavān / te gatvā tau tathārūpau dṛṣṭvā mukharakaṃ tayoḥ //",
+    "english": "And Mukharaka remained holding his feet and weeping: but Padmiṣṭhā immediately repaired to that bandit chief, and said: “A traveller has arrived, and is lying ill on the border of the tank, and there is another there who is his servant.” When the bandit chief heard that, he sent some of his followers there. They went, and, seeing the two men as had been described, asked Mukharaka why he wept so much for his companion.",
+    "morphology": "pādau_pāda_DuAM tasya_tad_SGM gṛhītvā_grah_Co ca_ca_ tasthau_sthā_SPs3In mukharakaḥ_mukharaka_SNM rudan_rud_SNPaPrM  / padmiṣṭhā_padmiṣṭhā_SNF ca_ca_ yayau_yā_SPs3In tasya_tad_SGM pārśvam_pārśva_SANe caura_caura_Cp pateḥ_pati_SGM "
+  },
+  {
+    "index": 619,
+    "sanskrit": "kākatālīyavadrūḍhāṃ kriyāṃ kurvanti te sadā / na kurvantyapi vai kiṃcinnaiṣāṃ kvacidapi grahaḥ //",
+    "english": "Wise men discharge their business as they occur to them at times, and never undertake to do any thing of their own accord, and are therefore exposed to no danger.",
+    "morphology": "kākatālīya_kākatālīya_Cp vat_vat_ rūḍhām_ruh_SAPaF kriyām_kriyā_SAF kurvanti_kṛ_PPr3In te_tad_PNM sadā_sadā_  / na_na_ kurvanti_kṛ_PPr3In api_api_ vai_vai_ kiṃcid_kaścit_SANe na_na_ eṣām_idam_PGM kva_kva_ agra_agra_SINe agra_agra_SI"
+  },
+  {
+    "index": 620,
+    "sanskrit": "bhikṣito brāhmaṇeneha dadyādannaṃ ca yaḥ pumān | sa yāti paramaṃ svargaṃ yāvadābhūtasaṃplavam ||",
+    "english": "39. He who gives food when begged by a brahmin, goes to the highest heaven and remains there till the final dissolution when all living beings are destroyed.",
+    "morphology": "bhikṣitaḥ_bhikṣ_SNPaM brāhmaṇena_brāhmaṇa_SIM iha_iha_ dadyāt_dā_SPr3O annam_anna_SANe ca_ca_ yaḥ_yad_SNM pumān_puṃs_SNM  / sa_tad_SNM yāti_yā_SPr3In paramam_parama_SAM svargam_svarga_SAM yāvat_yāvat_ ābhūtasaṃplavam_ābhūtasa"
+  },
+  {
+    "index": 621,
+    "sanskrit": "maṇi pravekān su manoharān ca yathā bhaveyuḥ dhanadasya rājñaḥ aneka varṇaiḥ ca sugandhibhiḥ ca",
+    "english": "And the flourishing sporting-regions, graceful on account of the various flowers, and abounding in gems, was capable of captivating that king, the dispenser of wealth (Kuvera).",
+    "morphology": "maṇi_maṇi_MCp pravekān_praveka_PAM su_su_U manoharān_manohara_PAM ca_ca_U yathā_yathā_U bhavārājāḥ_bhū_PPr3O dhanadasya_dhanada_SGM rājñaḥ_rājan_SGM aneka_aneka_Cp varṇaiḥ_varṇa_PIM ca_ca_U sugandhibhiḥ_sugandhi_PIM ca_ca_U"
+  },
+  {
+    "index": 622,
+    "sanskrit": "tatas kṛṣṇaḥ mahā bāhuḥ sva tejaḥ bhāsvaram mahat",
+    "english": "Kesava of dark hue and mighty arms, in order to compass their destruction, hurled at them his large and fierce discus resplendent with its own energy.",
+    "morphology": "tatas_tatas_U kṛṣṇaḥ_kṛṣṇa_SNM mahā_mahat_Cp bāhuḥ_bāhu_SNM sva_sva_Cp tejaḥā_tejas_SNM"
+  },
+  {
+    "index": 623,
+    "sanskrit": "yathā saṃkalpanirmāṇe jīvanaṃ maraṇaṃ punaḥ / yathā gandharvanagare kuḍyamaṇḍanavedanam //",
+    "english": "Our lives and deaths are mere phantoms of imagination, as we imagine houses and towers in aerial castles and icebergs.",
+    "morphology": "yathā_yathā_ saṃkalpa_saṃkalpa_Cp nirmāṇe_nirmāṇa_SLNe jīvanam_jīvana_SNNe maraṇam_maraṇa_SNNe punar_punar_  / yathā_yathā_ gandharvanagare_gandharvanagara_SLNe kuḍya_kuḍya_Cp maṇḍana_maṇḍana_Cp vedanam_vedana_SNNe  /"
+  }
+]

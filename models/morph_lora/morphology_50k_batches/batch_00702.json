@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5608,
+    "sanskrit": "tvām ca api adya vadhiṣyāmi sa putra paśu bāndhavam",
+    "english": "Thee also today I shall slay, with thy soils and kinsmen.",
+    "morphology": "tvām_tvad_SA"
+  },
+  {
+    "index": 5609,
+    "sanskrit": "akṛtādi tato buddhau yogāṣṭakamudāhṛtam| svacchandaśāsane tattu mūle śrīpūrvaśāsane | |",
+    "english": "They lie in the intellect. This is recounted in the Svacchanda Tantra which is the primeval one. Yogāstakas are Akrta, Krta, Raibhava, Brahmā, Vaisnava, Kaumāra, Oma and Sri Tantrāloka Srikantha.",
+    "morphology": "akṛta_akṛta_Cp ādi_ādi_SNNe tatas_tatas_ buddhau_buddhi_SLF yoga_yoga_Cp aṣṭakam_aṣṭaka_SNNe udāhṛtam_udāhṛ_SNPaNe svacchandaśāsane_svacchandaśāsana_SLNe tat_tad_SNNe tu_tu_ mūle_mūla_SLNe"
+  },
+  {
+    "index": 5610,
+    "sanskrit": "dharmavaitaṃsikāḥ kṣudrāḥ muṣṇanti dhvajinaḥ jagat",
+    "english": "They attire themselves in the hypocritical cloak of religion. Of low minds, they rob the world, setting up (if need be) the standard of religion and virtue.",
+    "morphology": "dharmavaitaṃsikāḥ_dharmavaitaṃsika_PNM kṣudrāḥ_kṣudra_PNM muṣṇanti_muṣ_PPr3In"
+  },
+  {
+    "index": 5611,
+    "sanskrit": "dadau varaṃ tatastuṣṭo reṇukāyāśca jīvitam | evaṃ yadyapi sā tatra jīvitā varavarṇinī || 5 || tathāpi saghṛṇo devi jāmadagnyo mahāprabhaḥ | prabhāsaṃ kṣetramāsādya tapaścakre tato'dbhutam || 6 ||",
+    "english": "5-6. Then the delighted sage granted him the boon of the resuscitation of Reṇukā. In this manner, although the lady of excellent complexion was brought back to life, O goddess, the highly lustrous son of Jamadagni got disgusted with aversion. He came to Prabhāsa Kṣetra and performed a wonderful penance.",
+    "morphology": "dadau_dā_SPs3In varam_vara_SAM tatas_tatas_ tuṣṭaḥ_tuṣ_SNPaM reṇukāyāḥ_reṇukā_SGF ca_ca_ jīvitam_jīvita_SANe  / evam_evam_ yadi_yadi_ api_api_ sā_tad_SNF tatra_tatra_ jīvitā_jīv_SNPaF varavarṇinī_varavarṇinī_SNF  / tathā_tath"
+  },
+  {
+    "index": 5612,
+    "sanskrit": "etasminneva kāle tu devyā darśanalālasaḥ | jagāmāṃtaḥpuraṃ rājā priyāṃ dīnāṃ dadarśa ha | tāmapṛcchattato rājā snehārdrīkṛtamānasaḥ || 31 ||",
+    "english": "At this time the king entered the Antaḥpura desirous of seeing the queen. He saw the queen, his beloved, distressed. With his mind melting with love, the king asked her: The King said:",
+    "morphology": "etasmin_etad_SLM eva_eva_ kāle_kāla_SLM tu_tu_ devyāḥ_devī_SGF darśana_darśana_Cp lālasaḥ_lālasa_SNM  / jagāma_gam_SPs3In antaḥpuram_antaḥpura_SANe rājā_rājan_SNM priyām_priya_SAF dīnām_dīna_SAF dadarśa_dṛś_SPs3In ha_ha_  / tām"
+  },
+  {
+    "index": 5613,
+    "sanskrit": "atrobhayapakṣaprasiddhodāharaṇopadarśanenānaikāntikatām eva sphuṭayann āha prakṛtīśādijanyatvam ityādi /",
+    "english": "The author is going to cite an example which is accepted by both parties, and through that, is going to make it clear how the Reason of the Opponent is ‘Inconclusive’: [see verse 1083 above]",
+    "morphology": "__atra_U __ubhaya_U __pakṣa_U __prasidh_PaU __udāharaṇa_U __upadarśana_U __anaikāntika_U __tā_U eva_eva_U __sphuṭay_PaPrU āha_ah_SPs3In __prakṛti_U __īśa_U __ādi_U __jan_GdU __tva_U __ityādi_U  /"
+  },
+  {
+    "index": 5614,
+    "sanskrit": "dhanyāste tanayā ye syuḥ savarlokābhisaṃmatāḥ | paropakāriṇaḥ śāṃtāḥ sādhukarmaṇyanuvratāḥ || 124 ||",
+    "english": "124. Blessed are those sons who would be liked by all people. They oblige others, are calm and engaged in good deeds.",
+    "morphology": "dhanyāḥ_dhanya_PNM te_tad_PNM tanayāḥ_tanaya_PNM ye_yad_PNM syuḥ_as_PPr3O savar_savar_ loka_loka_Cp abhisaṃmatāḥ_abhisamman_PNPaM  / para_para_Cp upakāriṇaḥ_upakārin_PNM śāntāḥ_śam_PNPaM"
+  },
+  {
+    "index": 5615,
+    "sanskrit": "vidhavāḥ na bhavanti atra nṛśaṃsaḥ na abhijāyate",
+    "english": "Wives do not become widows, and no person becomes a miser.",
+    "morphology": "vidhavāḥ_vidhavā_PNF na_na_U bhavanti_bhū_PPr3In atra_atra_U nṛśaṃsaḥ_nṛśaṃsa_SNM na_na_U abhijāyate_abhijan_SPr3In"
+  }
+]

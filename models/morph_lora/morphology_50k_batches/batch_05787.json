@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46288,
+    "sanskrit": "tatas te bāṣpam utsṛjya gāndhārī sahitam nṛpam upatasthuḥ mahātmānaḥ mātaram ca yathāvidhi",
+    "english": "Shedding tears, those high-souled princes, with due formalities, approached the old king and Gandhari, as also their own mother.",
+    "morphology": "tatas_tatas_U te_tad_PNM bāṣpam_bāṣpa_SAM utsṛjya_utsṛj_Co gāndhārī_gāndhārī_FCp sahitam_sahita_SAM nṛpam_nṛpa_SAM upatasthuḥ_upasthā_PPs3In mahātmānaḥ_mahātman_PNM mātaram_mātṛ_SAF ca_ca_U yathāvidhi_yathāvidhi_U"
+  },
+  {
+    "index": 46289,
+    "sanskrit": "vināyakopasargāśca daśa doṣāstathā pare | evaṃ kṣetraṃ tu rakṣaṃti pāpināṃ duṣṭacetasām || 41 ||",
+    "english": "41. There are then the Vināyakas, Upasargas (troubles) and ten other defects. They guard the Kṣetra from evil-minded sinners.",
+    "morphology": "vināyaka_vināyaka_Cp upasargāḥ_upasarga_PNM ca_ca_ daśa_daśan_SNNe doṣāḥ_doṣa_PNM tathā_tathā_ pare_para_PNM  / evam_evam_ kṣetram_kṣetra_SANe tu_tu_ rakṣanti_rakṣ_PPr3In pāpinām_pāpin_PGM duṣṭa_duṣ_PaCp cetasām_cetas_PGM "
+  },
+  {
+    "index": 46290,
+    "sanskrit": "rekhā dvādaśa coddhṛtya ṣaṭ ca yāsyāstathottarāḥ /",
+    "english": "Twelve lines are drawn, six on the right and six on the left.",
+    "morphology": "rekhāḥ_rekhā_PAF dvādaśa_dvādaśan_SANe ca_ca_ uddhṛtya_uddhṛ_Co ṣaṣ_ṣaṣ_SNF ca_ca_ yā_yad_SNF asyāḥ_idam_SGF tathā_tathā_ uttarāḥ_uttara_PNF  /"
+  },
+  {
+    "index": 46291,
+    "sanskrit": "nopanayet //",
+    "english": "And he must not initiate such a one.",
+    "morphology": "na_na_ upanayet_upanī_SPr3O"
+  },
+  {
+    "index": 46292,
+    "sanskrit": "bījodarasthāṅkuravaddravyapiṇḍodarāṇuvat / aśrāntastambakośasthadāruputrakadehavat //",
+    "english": "Like boiled rice and solidified liquid in the bowel, and the sapling within the wall of a pillar.",
+    "morphology": "bīja_bīja_Cp udara_udara_Cp stha_stha_Cp aṅkura_aṅkura_Cp vat_vat_ dravya_dravya_Cp piṇḍa_piṇḍa_Cp udara_udara_Cp aṇu_aṇu_Cp vat_vat_  / a_a_ śrānta_śram_PaCp stamba_stamba_Cp kośa_kośa_Cp stha_stha_Cp dāru_dāru_Cp putraka_putraka_"
+  },
+  {
+    "index": 46293,
+    "sanskrit": "prīyāmahe bhavataḥ saṃgamena samāgatāḥ kuravaḥ ca eva sarve",
+    "english": "We shall be glad if thou goest, as the Kurus have already arrived there.",
+    "morphology": "prīyāmahe_prī_PPr1InPv bhavataḥ_bhavat_SGM saṃgamena_saṃgama_SIM samāgatāḥ_samāgam_PNPaPsM kuravaḥ_kuru_PNM ca_ca_U eva_eva_U sarve_sarva_PNM"
+  },
+  {
+    "index": 46294,
+    "sanskrit": "apriye tu samutpanne vyathām jātu na ca arcchati",
+    "english": "Or, when anything disagreeable happens, one feeleth no pain.",
+    "morphology": "apriye_apriya_SLNe tu_tu_U samutpanne_samutpad_SLPaPsNe vyathām_vyathā_SAF"
+  },
+  {
+    "index": 46295,
+    "sanskrit": "jānāsi tvam kleśam asmāsu vṛttam tvām pūjayan saṃjaya aham kṣameyam",
+    "english": "Thou knowest, O Sanjaya, what misery we have suffered! For my respect to thee, I would forgive them all.",
+    "morphology": "jānāsi_jñā_SPr2In tvam_tvad_SN kleśam_kleśa_SAM asmāsu_mad_PL vṛttam_vṛt_SAPaPsM tvām_tvad_SA pūjayan_pūjay_SNPaPrM saṃjaya_saṃjaya_SVM aham_mad_SN kṣamā_kṣam_SPr1O"
+  }
+]

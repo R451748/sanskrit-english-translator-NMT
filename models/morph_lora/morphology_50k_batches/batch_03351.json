@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26800,
+    "sanskrit": "saṃjñā rājñī prabhā tisro rājñī raivataputrikā //",
+    "english": "He Sun had three wivesSaṃjñā, Rājñī and Prabhā. Rājñī was the daughter of Raivata.",
+    "morphology": "saṃjñā_saṃjñā_SNF rājñī_rājñī_SNF prabhā_prabhā_SNF tisraḥ_tri_PNF rājñī_rājñī_SNF raivataputrikā_raivataputrikā_SNF  /"
+  },
+  {
+    "index": 26801,
+    "sanskrit": "āyuryāti nirāyāsapadaprāptivivarjitaiḥ / udarkabhaṅgurākāraiḥ karālaiḥ kaṣṭaceṣṭitaiḥ //",
+    "english": "The life is spent without any attempt, to attain that perfect state, which is obtained without any pain or toil; while it is employed every day in hardships of acquiring the perishable trifling [pleasures].",
+    "morphology": "āyuḥ_āyus_SANe yāti_yā_SPr3In nirāyāsa_nirāyāsa_Cp pada_pada_Cp prāpti_prāpti_Cp vivarjitaiḥ_vivarjay_PIPaM  / udarka_udarka_Cp bhaṅgura_bhaṅgura_Cp ākāraiḥ_ākāra_PIM karālaiḥ_karāla_PIM kaṣṭa_kaṣṭa_Cp ceṣṭitaiḥ_ce"
+  },
+  {
+    "index": 26802,
+    "sanskrit": "kṛtakāryaṃ vīrabhadraṃ dṛṣṭvā saṃtuṣṭamā nasaḥ | śaṃbhurvīragaṇādhyakṣaṃ cakāra parameśvaraḥ ||",
+    "english": "68 On seeing Vīrabhadra who had fulfilled his task, lord Śiva was pleased and he made him the presiding officer of his Gaṇas. [Sanskrit text for this chapter is available]",
+    "morphology": "kṛta_kṛ_PaCp kāryam_kārya_SAM vīrabhadram_vīrabhadra_SAM dṛṣṭvā_dṛś_Co saṃtuṣṭa_saṃtuṣ_PaCp mā_mā_ nasaḥ_nas_PNM  / śaṃbhuḥ_śambhu_SNM vīra_vīra_Cp gaṇa_gaṇa_Cp adhyakṣaḥ_adhyakṣa_SNM"
+  },
+  {
+    "index": 26803,
+    "sanskrit": "manasastu parā buddhirbuddherātmā mahānparaḥ //",
+    "english": "beyond the mind, the intellect; beyond the intellect, the Great atman;",
+    "morphology": "manasaḥ_manas_SBNe tu_tu_ parā_para_SNF buddhiḥ_buddhi_SNF buddheḥ_buddhi_SBF ātmā_ātman_SNM mahān_mahant_SNM paraḥ_para_SNM  /"
+  },
+  {
+    "index": 26804,
+    "sanskrit": "gayasya yajñe ke tu adya prāṇinaḥ bhoktum īpsavaḥ yatra bhojana śiṣṭasya parvatāḥ pañcaviṃśatiḥ na sma pūrve janāḥ cakruḥ na kariṣyanti ca apare",
+    "english": "In Gaya's great sacrifice, who is there today, amongst creatures, that still desireth to eat? There are yet twenty-five mountains of food there after all have been fed! What the royal sage Gaya of immense splendour hath achieved in his sacrifice was never achieved by men before, nor will be by any in future.",
+    "morphology": "gayasya_gaya_SGM yajñe_yajña_SLM ke_ka_PNM tu_tu_U adya_adya_U prāṇinaḥ_prāṇin_PNM bhoktum_bhuj_In īpsavaḥ_īpsu_PNM yatra_yatra_U bhojana_bhojana_NeCp śiṣṭasya_śiṣ_SGPaPsM parvatāḥ_parvata_PNM pañcaviṃśatiḥ_pañcaviṃśati_S"
+  },
+  {
+    "index": 26805,
+    "sanskrit": "siṃhaḥ ati bala saṃyuktaḥ bhūyas śarabha tām gataḥ",
+    "english": "From a mighty lion thou wert then transformed into a Sarabha.",
+    "morphology": "siṃhaḥ_siṃha_SNM"
+  },
+  {
+    "index": 26806,
+    "sanskrit": "deśa jāti kulānām ca jānīṣe dharma lakṣaṇam veda uktaḥ yaḥ ca śiṣṭa uktaḥ sa ca eva viditaḥ tava pravṛttaḥ ca nivṛttaḥ ca sa ca api viditaḥ tava",
+    "english": "The duties that have been laid down for those sprang from an intermixture of the four orders and those laid down for particular countries and tribes and families, and those declared by the Vedas and by men of wisdom, are all well known to thee.",
+    "morphology": "deśa_deśa_MCp jāti_jāti_FCp kulānām_kula_PGNe ca_ca_U jānīṣe_jñā_SPr2In dharma_dharma_MCp lakṣaṇam_lakṣaṇa_SANe veda_veda_MCp uktaḥ_vac_SNPaPsM yaḥ_yad_SNM ca_ca_U śiṣṭa_śās_PaPsCp uktaḥ_vac_SNPaPsM sa_tad_SNM ca_ca_U eva_e"
+  },
+  {
+    "index": 26807,
+    "sanskrit": "kamburuvāca | yadi prasanno deveśa yadi deyo varo mama | akṣayyaścāvyayaścaiva svecchayā vicarāmyaham || 12 || daityadānavasaṅghānāṃ saṃyugeṣvapalāyitā | bhayaṃ cānyanna vidyeta muktvā devaṃ gadādharam || 13 ||",
+    "english": "If you are pleased, O Lord of Devas, if a boon has to be granted to me, let me be indestructible and everlasting. May I be free to move about as I please. I shall never have to flee from battles of Dānavas and Devas. There shall be no other source of fear than Lord Gadādhara.",
+    "morphology": "kambuḥ_kambu_SNM uvāca_vac_SPs3In  / yadi_yadi_ prasannaḥ_prasad_SNPaM deveśa_deveśa_SVM yadi_yadi_ deyaḥ_dā_SNMGd varaḥ_vara_SNM mama_mad_SG  / akṣayyaḥ_akṣayya_SNM ca_ca_ avyayaḥ_avyaya_SNM ca_ca_ eva_eva_ sva_sva_Cp icchayā_icchā_S"
+  }
+]

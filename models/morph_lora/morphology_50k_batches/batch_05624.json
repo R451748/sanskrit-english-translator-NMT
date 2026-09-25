@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44984,
+    "sanskrit": "gamana indriyam tathā pādau karmaṇaḥ karaṇe karau",
+    "english": "The feet are organs of locomotion and the hands for doing various kinds of work.",
+    "morphology": "gamana_gamana_NeCp"
+  },
+  {
+    "index": 44985,
+    "sanskrit": "parasyālābhenātuṣtiḥ |",
+    "english": "Being dissatisfied with the losses of others.",
+    "morphology": "parasya_para_SGM"
+  },
+  {
+    "index": 44986,
+    "sanskrit": "iṅgudī tāpasatarurmocā śālmalireva ca //",
+    "english": "Iṅgudī is also known as tāpasataru. Śālmali is also known as mocā.",
+    "morphology": "iṅgudā_iṅguda_SNF"
+  },
+  {
+    "index": 44987,
+    "sanskrit": "yena āva turvaśam yena kaṇvam dhana spr̥tam rāye su tasya dhīmahi",
+    "english": "For riches, let us surely win Your help that aided Turvaśa, Yadu, Kaṇva, who gained great wealth.",
+    "morphology": "yena_yad_SIM āva_av_SPs3In turvaśam_turvaśa_SAM yena_yad_SIM kaṇvam_kaṇva_SAM dhana_dhana_NeCp sprĥtam_spṛ_SAPaPsM rāye_rai_SDM"
+  },
+  {
+    "index": 44988,
+    "sanskrit": "brahmovāca | iti viṣṇorvacaśśrutvā kiṃciducchavasitānanaḥ | avoca vacanaṃ viṣṇuṃ praṇamya sukṛtāṃjaliḥ ||",
+    "english": "14. On hearing the words of Viṣṇu I heaved a sigh of relief and raised my face. I spoke to Viṣṇu with due salutations and palms joined in reverence.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ viṣṇoḥ_viṣṇu_SGM vacaḥ_vacas_SANe śrutvā_śru_Co kiṃcid_kaścit_SANe ucchavasita_ucchavas_PaCp ānanaḥ_ānana_SNM  / avoca_vac_SPs3InTh vacanam_vacana_SANe viṣṇum_viṣṇu_SAM praṇa"
+  },
+  {
+    "index": 44989,
+    "sanskrit": "tadyathā khalavilāntargataṃ bījam ankureṇeti /",
+    "english": "For example, a seed that has slipped into a crack in the floor of a granary manifests through its sprout.",
+    "morphology": "tat_tad_SNNe yathā_yathā_ khalavila_khalavila_Cp antargatam_antargam_SNPaNe bījam_bīja_SNNe ankureṇa_ankura_SIM"
+  },
+  {
+    "index": 44990,
+    "sanskrit": "nāḍyaikayā mṛkaṇḍastu dhyānayogādvarānane | tatraiva sthāpitaṃ liṃgaṃ mārkaṃḍeśvaranāmataḥ | sarvapāpopaśamanaṃ darśanātpūjanādapi || 2 ||",
+    "english": "He installed the Liṅga. It is Mārkaṇḍeśvara by name. By viewing and worshipping it quells all sins.[Sanskrit text for this chapter is available]",
+    "morphology": "nāḍyā_nāḍī_SIF ekayā_eka_SIF mṛkaṇḍaḥ_mṛkaṇḍa_SNM tu_tu_ dhyāna_dhyāna_Cp yogāt_yoga_SBM varānane_varānanā_SVF  / tatra_tatra_ eva_eva_ sthāpitam_sthāpay_SNPaNe liṃgam_liṅga_SNNe mārkaṃḍeśvara_mārkaṃḍeśvara_Cp"
+  },
+  {
+    "index": 44991,
+    "sanskrit": "yad āgneyo bhavaty agnir vai yajñamukhaṃ yajñamukham evarddhim purastād dhatte yad vaiṣṇavo bhavati yajño vai viṣṇur yajñam evārabhya pra tanute sarasvatyai carur bhavati sarasvate dvādaśakapālo 'māvāsyā vai sarasvatī pūrṇamāsaḥ sarasvān tāv eva sākṣād ā rabhata ṛdhnoty ābhyām |",
+    "english": "In that it is (offered) to Agni, and the mouth of the sacrifice is Agni, verily he places in front prosperity and the mouth of the sacrifice; in that it is (offered) to Visnu, and Visnu is the sacrifice, verily commencing the sacrifice he continues it. There is an oblation for Sarasvati, and (an offering) on twelve potsherds for Sarasvant; Sarasvati is the new moon, Sarasvant is the full moon;",
+    "morphology": "yat_yat_ āgneyaḥ_āgneya_SNM bhavati_bhū_SPr3In agniḥ_agni_SNM vai_vai_ yajña_yajña_Cp mukham_mukha_SNNe yajña_yajña_Cp mukham_mukha_SANe eva_eva_ ṛddhim_ṛddhi_SAF purastāt_purastāt_ dhatte_dhā_SPr3In yat_yat_ vaiṣṇavaḥ_vaiṣṇava_"
+  }
+]

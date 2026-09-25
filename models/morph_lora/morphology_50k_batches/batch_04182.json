@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33448,
+    "sanskrit": "yāvat tava sanāmā vai pauravo janamejaya //",
+    "english": "That car was in the possession of the Pauravas till Sunāmā was born, Janamejaya.",
+    "morphology": "yāvat_yāvat_ tava_tvad_SG sanāmā_sanāman_SNM vai_vai_ pauravaḥ_paurava_SNM janamejaya_janamejaya_SVM  /"
+  },
+  {
+    "index": 33449,
+    "sanskrit": "kṛṣṇām sarve rakṣata mā pramādam",
+    "english": "Therefore, protect ye Krishna, and be not careless.",
+    "morphology": "kṛṣṇām_kṛṣṇa_SAF"
+  },
+  {
+    "index": 33450,
+    "sanskrit": "sūta uvāca | tathānyo'pi ca tatrāsti devaḥ putraprado nṛṇām | vaṭikeśvara nāmā ca sarvapāpaharo haraḥ || 1 ||",
+    "english": "Sūta said: 1. Further there is another deity there who is the bestower of sons on men. It is Śiva named Vaṭikeśvara and he dispels all sins.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / tathā_tathā_ anyaḥ_anya_SNM api_api_ ca_ca_ tatra_tatra_ asti_as_SPr3In devaḥ_deva_SNM putra_putra_Cp pradaḥ_prada_SNM nṛṇām_nṛ_PGM  / ca_ca_ sarva_sarva_Cp pāpa_pāpa_Cp haraḥ_hara_SNM haraḥ_hara"
+  },
+  {
+    "index": 33451,
+    "sanskrit": "praviśyāgnau mṛtānāṃ ca yatphalaṃ samudāhṛtam | tacchṛṇuṣva nṛpaśreṣṭha procyamānamaśeṣataḥ || 85 ||",
+    "english": "O excellent king, listen to the merit cited as accruing to those who die there entering fire. It shall be recounted completely.",
+    "morphology": "praviśya_praviś_Co agnau_agni_SLM mṛtānām_mṛ_PGPaM ca_ca_ yat_yad_SNNe phalam_phala_SNNe samudāhṛtam_samudāhṛ_SNPaNe  / tat_tad_SANe śṛṇuṣva_śru_SPr2Im nṛpa_nṛpa_Cp śreṣṭha_śreṣṭha_SVM procyamānam_pravac_SAPaPrNePv aśe"
+  },
+  {
+    "index": 33452,
+    "sanskrit": "umāmaheśvarasaṃvādaṃ nāradasya ca dhīmataḥ | nāradena purā pṛṣṭaṃ praśnametaddvijottama || 4 ||",
+    "english": "3-4. O excellent Brāhmaṇa, may the great story that dispels sins be heard. During a dialogue between Umā and Maheśvara in the presence of Nārada, the intelligent one, this question was put by Nārada.",
+    "morphology": "umā_umā_Cp maheśvara_maheśvara_Cp saṃvādam_saṃvāda_SAM nāradasya_nārada_SGM ca_ca_ dhīmataḥ_dhīmat_SGM  / nāradena_nārada_SIM purā_purā_ pṛṣṭam_pracch_SAPaM praśnam_praśna_SAM etat_etad_SANe dvijottama_dvijottama_SVM  /"
+  },
+  {
+    "index": 33453,
+    "sanskrit": "yaś ca hiṃsāratir hiṃsāyām abhirato vairānubandhād arthahetor vā parān hinasti /",
+    "english": "\"He who is addicted to injuring,\" he who always seeks to injure others, either through enmity, or for fulfilling some other purpose.",
+    "morphology": "yaḥ_yad_SNM ca_ca_ hiṃsā_hiṃsā_Cp ratiḥ_rati_SNM hiṃsāyām_hiṃsā_SLF abhirataḥ_abhiram_SNPaM vaira_vaira_Cp anubandhāt_anubandha_SBM artha_artha_Cp hetoḥ_hetu_SBM vā_vā_ parān_para_PAM hinasti_hiṃs_SPr3In  /"
+  },
+  {
+    "index": 33454,
+    "sanskrit": "jagāma sa vanam rājā dahyamānaḥ divāniśam",
+    "english": "Burning day and night with regret, the king retired into the woods.",
+    "morphology": "jagāma_gam_SPs3In sa_tad_SNM vanam_vana_SANe rājā_rājan_SNM dahyamānaḥ_dah_SNPaPrMPv"
+  },
+  {
+    "index": 33455,
+    "sanskrit": "keyaṃ strī dṛśyate'tyarthaṃ gītanṛtyotsave ratā | so'bravīcchivadharmoktā śivarātriḥ sudharmadā || 38 ||",
+    "english": "38b-42. He replied: “This is the ritual of Śivarātri mentioned in the scripture as Sivadharma. It yields great merit.",
+    "morphology": "kā_ka_SNF iyam_idam_SNF strī_strī_SNF dṛśyate_dṛś_SPr3InPv atyartham_atyartham_ gīta_gīta_Cp nṛtya_nṛtya_Cp utsave_utsava_SLM ratā_ram_SNPaF  / saḥ_tad_SNM abravīt_brū_S3ImIn śiva_śiva_Cp dharma_dharma_Cp uktā_vac_SNPaF śivarātri"
+  }
+]

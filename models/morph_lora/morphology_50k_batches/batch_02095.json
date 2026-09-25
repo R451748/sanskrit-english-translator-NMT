@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16752,
+    "sanskrit": "sa ce va dhaṃmaṃ carati prāg eva itarā prajā ||",
+    "english": "if he lives righteously, so will other people.",
+    "morphology": "sa_tad_SNM ced_ced_ dhaṃmam_dhamma_SAM carati_car_SPr3In prāk_prāk_"
+  },
+  {
+    "index": 16753,
+    "sanskrit": "udayaṃ tapati ādicco ratrim ābhāti candramā ||",
+    "english": "The sun is radiant when it rises, the moon shines by night,",
+    "morphology": "udayam_udaya_SAM tapati_tap_SPr3In ādiccaḥ_ādiṣṭa_SNM ratrim_ratri_SAM ābhāti_ābhā_SPr3In candramāḥ_candramas_SNM"
+  },
+  {
+    "index": 16754,
+    "sanskrit": "kiṃ tānyapi trividhāni tathaiva ca teṣu vedanā / netyucyate /",
+    "english": "Do they possess the same sensations as they do?",
+    "morphology": "kim_kim_ tāni_tad_PNNe api_api_ trividhāni_trividha_PNNe tathā_tathā_ eva_eva_ ca_ca_ teṣu_tad_PLNe vedanā_vedanā_SNF  / na_na_ iti_iti_ ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 16755,
+    "sanskrit": "tat śrutvā ca abruvan devāḥ sahasrākṣam idam vacaḥ vareṇa chandyatām śakra rājarṣiḥ yadi śakyate yadi hi atra pramītāḥ vai svargam gacchanti mānavāḥ",
+    "english": "Hearing Indra's words, the celestials said unto their chief of a 1,000 eyes, \"Stop the royal sage, O Shakra by granting him a boon, if thou canst! If men, by only dying there were to come to heaven, without having performed sacrifices to us, our very existence will be endangered!\" Thus exhorted, Shakra then came back to that royal sage and said, \"Do not toil any more! Act according to my words! Those men that will die here, having abstained from food with all their senses awake, and those that will perish here in battle, shall, O king, come to heaven! They, O thou of great soul, shall enjoy the blessings of heaven, O monarch!\" Thus addressed, king Kuru answered Shakra, saying, \"So be it!\" Taking Kuru's leave, the slayer of Vala, Shakra, then, with a joyful heart, quickly went back to heaven.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co ca_ca_U abruvan_brū_PPs3In devāḥ_deva_PNM sahasrākṣam_sahasrākṣa_SAM idam_idam_SANe vacaḥ_vacas_SANe vareṇa_vara_SIM chandyatām_chanday_SPr3ImPv śakra_śakra_MCp rājarṣiḥ_rājarṣi_SNM yadi_yadi_U śakyat"
+  },
+  {
+    "index": 16756,
+    "sanskrit": "tasya ādityaḥ bhām upayujya bhāti",
+    "english": "Taking a portion of His rays the sun shines in the firmament.",
+    "morphology": "tasya_tad_SGM"
+  },
+  {
+    "index": 16757,
+    "sanskrit": "nirviśeṣādviśeṣasya bhāve kāryaṃ na kiṃ bhavet // nacānyato viśiṣṭās te tulyaparyanuyogataḥ /",
+    "english": "if they have not come into existence, as the entities would not be there, as this absence would be without differentiation, wherefore could not the effect itself be produced therefrom (for the bringing about of which the auxiliaries are posited)? Specially as they could not be differentiated from anything else, being equally open to question.",
+    "morphology": "nirviśeṣāt_nirviśeṣa_SBNe viśeṣasya_viśeṣa_SGM bhāve_bhāva_SLM kāryam_kārya_SNNe na_na_ kim_ka_SNNe bhavet_bhū_SPr3O  // na_na_ ca_ca_ anyatas_anyatas_ viśiṣṭāḥ_viśiṣ_PNPaM te_tad_PNM tulya_tulya_Cp paryanuyogataḥ_paryanuyoga"
+  },
+  {
+    "index": 16758,
+    "sanskrit": "agniḥ jyotiḥ ahar śuklaḥ ṣaṣ māsāḥ uttarāyaṇam tatra prayātāḥ gacchanti brahma brahma vidaḥ janāḥ dhūmaḥ rātriḥ tathā kṛṣṇaḥ ṣaṣ māsāḥ dakṣiṇāyanam",
+    "english": "The fire, the Light, the day, the lighted fortnight, the six months of the northern solstice, departing from here, the persons knowing Brahma go through this path to Brahma.[218] Smoke, night, also the dark-fortnight (and) the six months of the southern solstice, (departing) through this path, devotee, attaining to the lunar light, returneth.",
+    "morphology": "agniḥ_agni_SNM jyotiḥ_jyotis_SNNe ahar_ahar_SNNe śuklaḥ_śukla_SNM ṣaṣ_ṣaṣ_Cp māsāḥ_māsa_PNM uttarāyaṇam_uttarāyaṇa_SNNe tatra_tatra_U prayātāḥ_prayā_PNPaPsM gacchanti_gam_PPr3In brahma_brahman_SANe brahma_brahman_NeCp vida"
+  },
+  {
+    "index": 16759,
+    "sanskrit": "eka haṃse naraḥ snātvā go sahasra phalam labhet",
+    "english": "By bathing in Ekahansa, a man obtaineth the merit of giving away a thousand kine.",
+    "morphology": "__eka_U"
+  }
+]

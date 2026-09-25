@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47432,
+    "sanskrit": "divyāni rājan nihitāni ca eva droṇena vīra dvijasattamena mahā rathaḥ kṛtimān kṣipra hastaḥ",
+    "english": "It seems, however, to me that those who are still alive are almost all dead!' \"Sanjaya said, 'That hero O king, to whom Drona, that foremost of brahmanas, imparted many blazing, celestial, and mighty weapons of the four kinds, that mighty car-warrior, possessed of skill and lightness of hands, that hero of firm grasp, strong weapons, and powerful shafts, that high-souled son of Drona, capable of shooting to a great distance, is still on the field, desirous of battling for thy sake.",
+    "morphology": "divyāni_divya_PNNe rājan_rājan_SVM nihitāni_nidhā_PNPaPsNe ca_ca_U eva_eva_U droṇena_droṇa_SIM vīra_vīra_SVM dvijasattamena_dvijasattama_SIM mahā_mahat_Cp rathaḥ_ratha_SNM"
+  },
+  {
+    "index": 47433,
+    "sanskrit": "vaiśyānāṃ dhānyadhanataḥ śūdrāṇām eva janmataḥ //",
+    "english": "of Vaisyas, upon grain and (other) wealth; of Sûdras, upon (priority of) birth.",
+    "morphology": "vaiśyānām_vaiśya_PGM dhānya_dhānya_Cp dhanataḥ_dhana_SBNe śūdrāṇām_śūdra_PGM eva_eva_ janmataḥ_janman_SBNe  /"
+  },
+  {
+    "index": 47434,
+    "sanskrit": "sūrya uvāca | mā brahmansāhasaṃ kārṣīrvaraṃ varaya suvrata | aprāpyamapi dāsyāmi yatte manasi vartate || 3 ||",
+    "english": "Sūrya said: O Brāhmaṇa, do not be rash. O sage of excellent holy rites, choose your boon. I shall grant you whatever has been cherished in your mind even if it be inaccessible and rare.",
+    "morphology": "sūryaḥ_sūrya_SNM uvāca_vac_SPs3In  / mā_mā_ brahman_brahman_SVM sāhasam_sāhasa_SANe kārṣīḥ_kṛ_SPs2 varam_vara_SAM varaya_varay_SPr2Im suvrata_suvrata_SVM  / a_a_ prāpyam_prāp_SANeGd api_api_ dāsyāmi_dā_SFu1In yat_yad_SNNe te_tvad_SG m"
+  },
+  {
+    "index": 47435,
+    "sanskrit": "na siddhaṃ tena naivāyaṃ pūrvajñānamapohate //",
+    "english": "and this conviction, being self-sufficient, sets aside the preceding Cognition”.",
+    "morphology": "na_na_ siddham_sidh_SNPaNe tena_tena_ na_na_ eva_eva_ ayam_idam_SNM pūrva_pūrva_Cp jñānam_jñāna_SANe apohate_apoh_SPr3In"
+  },
+  {
+    "index": 47436,
+    "sanskrit": "tataś cākṛṣyamāneva dhairyapāśena tena sā / nṛpeṇa mānuṣāyogye 'py ātithye niḥspṛhātmanā // patyarthaṃ pārvatīsevāparipākasamarpitam / matvā tat svayam udyānaṃ viveśāsuraputrikā //",
+    "english": "And then the Asura maiden (being, as it were, drawn towards himself with the cord of his self-command by the king, who showed a lofty indifference for hospitality far above mortal desert) went in person to the garden, thinking that he had been sent her by way of a husband, as a fruit of her adoration of Durgā.",
+    "morphology": "tatas_tatas_ ca_ca_ ākṛṣyamānā_ākṛṣ_SNPaPrFPv iva_iva_ dhairya_dhairya_Cp pāśena_pāśa_SIM tena_tad_SIM sā_tad_SNF  / nṛpeṇa_nṛpa_SIM mānuṣa_mānuṣa_Cp ayogye_ayogya_SLNe api_api_ ātithye_ātithya_SLNe niḥspṛha_niḥspṛha_"
+  },
+  {
+    "index": 47437,
+    "sanskrit": "pra vaḥ mahe mahi vr̥dhe bharadhvam pra cetase pra su matim kr̥ṇudhvam viśaḥ pūrvīḥ pra cara carṣaṇi prāḥ",
+    "english": "Bring to the Wise, the Great, who waxeth mighty, your offerings, and make ready your devotion; To many clans he goeth, man's controller.",
+    "morphology": "pra_pra_U vaḥ_tvad_PG mahe_mah_SDNe mahi_mahi_SANe vr̥dhe_vr̥dh_SDNe bharadhvam_bhṛ_PPr2Im pra_pra_U cetase_cetas_SDNe pra_pra_U su_su_U matim_mati_SAF kr̥ṇudhvam_kṛ_PPr2Im viśaḥ_viś_PVF pūrvīḥ_puru_PVF pra_pra_U cara_car_SPr2Im carṣa"
+  },
+  {
+    "index": 47438,
+    "sanskrit": "arthāntaraśantipuṣṭyabhicārādivedāntareṣv api na na dṛśyate / śyano hi sāmaveda utpannaḥ adbhutaśāntyādayaś ca yajurveda iti tad api samānam //",
+    "english": "It is not a fact that strange Vedic rites for averting evils, augmenting prosperity and killing enemies are not found in the other Vedas because a Śyena sacrifice (as a hawk preys upon other birds etc.) results in killing the enemies of the performer of the sacrifice) but strange Vedic rites have also been prescribed by the Yajur Veda.",
+    "morphology": "artha_artha_Cp antara_antara_Cp śanti_śanti_Cp puṣṭi_puṣṭi_Cp abhicāra_abhicāra_Cp ādi_ādi_Cp veda_veda_Cp antareṣu_antara_PLM api_api_ na_na_ na_na_ dṛśyate_dṛś_SPr3InPv  / śyanaḥ_śyana_SNM hi_hi_ sāmavede_sāmaveda_SLM utpanna"
+  },
+  {
+    "index": 47439,
+    "sanskrit": "viṃśatir māṇavakaḥ //",
+    "english": "Twenty strings make up Mánavaka",
+    "morphology": "viṃśatiḥ_viṃśati_SNF "
+  }
+]

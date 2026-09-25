@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2344,
+    "sanskrit": "brahmovāca || sādhu pṛṣṭaṃ muniśreṣṭha bhavatā karuṇātmanā | śrūyatāṃ dattakarṇaṃ hi vakṣye'haṃ ṛṣisattama ||",
+    "english": "3. O excellent sage, you have asked well with a sympathetic mind. Listen attentively, O excellent sage, I shall narrate.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  /"
+  },
+  {
+    "index": 2345,
+    "sanskrit": "vicitrateva bhāṇḍānāṃ nanu hematayā yathā / sā tathodeti tadrūpamātmānaṃ cetati svayam //",
+    "english": "As it is the gold which represents the various forms of jewels, so the intellect represents everything in the world as it sees in itself.",
+    "morphology": "vicitra_vicitra_Cp tā_tā_SNF iva_iva_ bhāṇḍānām_bhāṇḍa_PGNe nanu_nanu_ hema_heman_Cp tayā_tā_SIF yathā_yathā_  / sā_tad_SNF tathā_tathā_ udeti_udi_SPr3In tad_tad_Cp rūpam_rūpa_SANe ātmānam_ātman_SAM cetati_cit_SPr3In svayam_svayam"
+  },
+  {
+    "index": 2346,
+    "sanskrit": "jātamātraṃ sutaṃ tasyā hṛtvaivātra svamāyayā / ratiṃ tāṃ kanyakāṃ kṛtvā nyadhādvidhiralakṣitam //",
+    "english": "The Creator abstracted, by his divine power of illusion, her son, the moment he was born, and substituted Rati, whom he had turned into a girl, in his place, without the change being detected.",
+    "morphology": "jāta_jan_PaCp mātram_mātra_SAM sutam_suta_SAM tasyāḥ_tad_SGF hṛtvā_hṛ_Co eva_eva_ atra_atra_ sva_sva_Cp māyayā_māyā_SIF  / ratim_rati_SAF tām_tad_SAF kanyakām_kanyakā_SAF kṛtvā_kṛ_Co nyadhāt_nidhā_SPs3In vidhiḥ_vidhi_SNM alakṣi"
+  },
+  {
+    "index": 2347,
+    "sanskrit": "prākāśyam sattvam āditye saṃtāpaḥ rājasaḥ guṇaḥ",
+    "english": "The sun representing light is Goodness;",
+    "morphology": "prākāśyam_prākāśya_SNNe"
+  },
+  {
+    "index": 2348,
+    "sanskrit": "ahiṃsā sarva bhūteṣu dharmam jyāyastaram viduḥ",
+    "english": "Abstention from injury to all creatures hath been said to be the highest of all virtues.",
+    "morphology": "ahiṃsā_ahiṃsā_SNF"
+  },
+  {
+    "index": 2349,
+    "sanskrit": "tvam asya pūjyaḥ ca guruḥ garīyān",
+    "english": "Thou art the great master deserving of worship.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 2350,
+    "sanskrit": "athavā pustakaṃ tādṛgrahaḥ śāstrakramombhitam | suśuddhaṃ dīkṣitakṛtaṃ tatrāpyeṣa vidhiḥ smṛtaḥ | itthaṃ svayaṃpratiṣṭheṣu yāvadyāvatsthitirbhavet | vibhavaistarpaṇaṃ śuddhistāvadvicchedavarjanam |",
+    "english": "should be utilised avoiding reversal in these articles. Those who have become rid of all desires, get the rest of the fetters shattered and filled them up with purified forms of the reality while sacred texts they have read and contemplated on as made available to them make them still more purified. Herein lies the relevance of these observations concerning the carefulness of performers of the ceremonies concerned.",
+    "morphology": "athavā_athavā_ pustakam_pustaka_SNNe tādṛś_tādṛś_Cp rahaḥ_rahas_SNNe  / su_su_ śuddham_śudh_SNPaNe dīkṣita_dīkṣ_PaCp kṛtam_kṛ_SNPaNe tatra_tatra_ api_api_ eṣa_etad_SNM vidhiḥ_vidhi_SNM smṛtaḥ_smṛ_SNPaM  / ittham_ittham_ sv"
+  },
+  {
+    "index": 2351,
+    "sanskrit": "yat aśvasya kraviṣaḥ makṣikā āśa yat vā svarau sva dhitau riptam asti yat hastayoḥ śamituḥ yat nakheṣu sarvā tā te api deveṣu astu",
+    "english": "What part of the Steed's flesh the fly hath eaten, or is left sticking to the post or hatchet, Or to the slayer's hands and nails adhereth,– among the Gods, too, may all this be with thee.",
+    "morphology": "yat_yad_SANe aśvasya_aśva_SGM kraviṣaḥ_kravis_SBNe makṣikā_makṣikā_SNF āśa_aś_SPs3In yat_yad_SNNe vā_vā_U svarau_svaru_SLM sva_sva_Cp dhitau_dhiti_SLM riptam_rip_SNPaPsNe asti_as_SPr3In yat_yad_SNNe hastayoḥ_hasta_DuLM śamituḥ_śamit"
+  }
+]

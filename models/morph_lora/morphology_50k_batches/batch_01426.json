@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11400,
+    "sanskrit": "tatrādyadṛṣṭipañcakapratiṣedhāya taddṛṣṭikān prativiśeṣarūpeṇa pratiṣedhaḥ śobhate /",
+    "english": "It is as against the first five of these views that the denial has its use as against persons who hold those views.",
+    "morphology": "tatra_tatra_ ādya_ādya_Cp dṛṣṭi_dṛṣṭi_Cp pañcaka_pañcaka_Cp pratiṣedhāya_pratiṣedha_SDM tad_tad_Cp dṛṣṭikān_dṛṣṭika_PAM prativiśeṣa_prativiśeṣa_Cp rūpeṇa_rūpa_SINe pratiṣedhaḥ_pratiṣedha_SNM śobhate_śubh_"
+  },
+  {
+    "index": 11401,
+    "sanskrit": "cakraṃ sudarśanaṃ prāptaṃ viṣṇuneti śrutaṃ purā | tadārādhanatastāta tatkathā ca viśeṣataḥ || sūta uvāca | śrūyatāṃ ca ṛṣiśreṣṭhā harīśvarakathā śubhā | yatassudarśanaṃ labdhaṃ viṣṇunā śaṃkarātpurā ||",
+    "english": "3. O dear, this was heard by us formerly that by propitiating Harīśvara, Viṣṇu acquired his discus Sudarśana. Please narrate that story particularly. 4. O great sages, may the auspicious story of Harīśvara be heard, how Sudarśana was acquired by Viṣṇu formerly from Śiva.",
+    "morphology": "cakram_cakra_SNNe sudarśanam_sudarśana_SNNe prāptam_prāp_SNPaNe viṣṇunā_viṣṇu_SIM iti_iti_ śrutam_śru_SNPaNe purā_purā_  / tad_tad_Cp ārādhanataḥ_ārādhana_SBNe tāta_tāta_SVM tad_tad_Cp kathā_kathā_SNF ca_ca_ viśeṣataḥ_viśe"
+  },
+  {
+    "index": 11402,
+    "sanskrit": "uktāḥ saha cittena caittāḥ prakāraśa steṣāṃ punarimāḥ saṃjñāḥ paribhāṣyante / pravacana etābhiḥ sadvyavahārāt /",
+    "english": "We have seen in what categories the mental states are placed, in what numbers they are generated together, and what their different characteristics are. The mind and its mental states receive, in the Scriptures, different names.",
+    "morphology": "uktāḥ_vac_PNPaM saha_saha_ cittena_citta_SINe caittāḥ_caitta_PNM prakāraśaḥ_prakāraśaḥ_ steṣām_tad_PGM punar_punar_ imāḥ_idam_PNF saṃjñāḥ_saṃjñā_PNF paribhāṣyante_paribhāṣ_PPr3InPv  / pravacanaḥ_pravacana_SNM etābhi"
+  },
+  {
+    "index": 11403,
+    "sanskrit": "na ahīyata tadā prāṇaḥ prāṇinām na tat anyathā",
+    "english": "The lives of living creatures were never otherwise.",
+    "morphology": "na_na_U ahīyata_hā_SPs3InPv tadā_tadā_U"
+  },
+  {
+    "index": 11404,
+    "sanskrit": "duryodhanaḥ tu saṃprekṣya karṇam ārtim parām gatam alāyudham rākṣasa indram āhūya idam atha abravīt eṣa vaikartanaḥ karṇaḥ haiḍimbena samāgataḥ",
+    "english": "Then Duryodhana, beholding Karna fallen into great distress, summoned Alayudha and said unto him, 'Yonder Vikartana's son, Karna, is engaged with the son of Hidimva, and is accomplishing such feats in battle as are worthy of his might and prowess.",
+    "morphology": "duryodhanaḥ_duryodhana_SNM tu_tu_U saṃprekṣya_saṃprekṣ_Co karṇam_karṇa_SAM ārtim_ārti_SAF parām_para_SAF gatam_gam_SAPaPsM alāyudham_alāyudha_SAM rākṣasa_rākṣasa_MCp indram_indra_SAM āhūya_āhvā_Co idam_idam_SANe atha_atha_U abr"
+  },
+  {
+    "index": 11405,
+    "sanskrit": "'gṛhītasya tu daṇḍāderdvitīyasya parigrahaḥ / kālāntaropabhogārthaṃ saṃcaya: parikīrtitaḥ //",
+    "english": "'Acceptance of a second staff and the like other than those that are already in possession for the purpose of using them in the future is described as saving for future use .",
+    "morphology": "__agṛhīta_U tu_tu_U __daṇḍa_U __ādi_U __dvitīya_U __parigraha_U  / __kāla_U __antara_U __upabhoga_U __artha_U __saṃcaya_U __parikīrtay_PaU  /"
+  },
+  {
+    "index": 11406,
+    "sanskrit": "abhisaṃdhāya tu phalam dambha artham api ca eva yat ijyate bharata śreṣṭha tam yajñam viddhi rājasam",
+    "english": "But that which is performed in expectation of fruit and even for the sake of ostentation, know that sacrifice, O chief of the sons of Bharata, to be of the quality of passion.",
+    "morphology": "abhisaṃdhāya_abhisaṃdhā_Co tu_tu_U phalam_phala_SANe dambha_dambha_MCp artham_artha_SAM api_api_U ca_ca_U eva_eva_U yat_yad_SNNe ijyate_yaj_SPr3InPv bharata_bharata_MCp śreṣṭha_śreṣṭha_SVM"
+  },
+  {
+    "index": 11407,
+    "sanskrit": "vyaktīnām evāpohasya pratipāditatvāt /",
+    "english": "because it has been shown that there can be exclusion of Individuals only.",
+    "morphology": "vyaktīnām_vyakti_PGF "
+  }
+]

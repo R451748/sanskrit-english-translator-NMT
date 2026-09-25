@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30640,
+    "sanskrit": "yā dhyāne dhyātṛlakṣāṇāṃ sādhvī bhāryātvamāgatā / tatkalpanānubhavanaṃ teṣāṃ sattvātmani sthitam //",
+    "english": "The one pure maiden that is thought of being taken to wife, by many men in their minds; is never defiled by any one of them in her character, by their simple enjoyment of her ideal only.",
+    "morphology": "yā_yad_SNF dhyāne_dhyāna_SLNe dhyātṛ_dhyātṛ_Cp lakṣāṇām_lakṣa_PGM sādhvī_sādhu_SNF bhāryā_bhāryā_Cp tvam_tva_SANe āgatā_āgam_SNPaF  / tad_tad_Cp kalpanā_kalpanā_Cp anubhavanam_anubhavana_SNNe teṣām_tad_PGM sattva_sattva_Cp "
+  },
+  {
+    "index": 30641,
+    "sanskrit": "gopratārābhidhaṃ tīrthamaparaṃ vartate'nagha | sannidhau saṃgamasyaiva mahāpātakanāśanam || 112 ||",
+    "english": "112. O sinless one, there is another Tīrtha named Gopratāra near the confluence itself. It is destructive of great sins.",
+    "morphology": "gopratāra_gopratāra_Cp abhidham_abhidhā_SNNe tīrtham_tīrtha_SNNe aparam_apara_SNNe vartate_vṛt_SPr3In anagha_anagha_SVM  / sannidhau_saṃnidhi_SLM saṃgamasya_saṃgama_SGM eva_eva_ mahāpātaka_mahāpātaka_Cp nāśanam_nāśana_SNNe  /"
+  },
+  {
+    "index": 30642,
+    "sanskrit": "kuśalādiparipraśnaṃ samprayacchati cāsanaṃ /",
+    "english": "The duty of the servant is to enquire about the health of the king and to make the seat ready for him.",
+    "morphology": "kuśala_kuśala_Cp ādi_ādi_Cp paripraśnam_paripraśna_SAM samprayacchati_samprayam_SPr3In ca_ca_ āsanam_āsana_SANe  /"
+  },
+  {
+    "index": 30643,
+    "sanskrit": "sūta uvāca | vidarbhaviṣaye pūrvamāsīdeko dvijottamaḥ | vedamitra iti khyāto veda śāstrārthavitsudhīḥ || 2 ||",
+    "english": "Sūta said: 2. In the land of Vidarbha, formerly, there was an excellent Brāhmaṇa well-known as Vedamitra. He was intelligent and a knower of the meanings of Vedic and scriptural texts.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / vidarbha_vidarbha_Cp viṣaye_viṣaya_SLM pūrvam_pūrvam_ āsīt_as_S3ImIn ekaḥ_eka_SNM dvijottamaḥ_dvijottama_SNM  / vedamitraḥ_vedamitra_SNM iti_iti_ khyātaḥ_khyā_SNPaM veda_vid_SPs3In śāstra_śāstra"
+  },
+  {
+    "index": 30644,
+    "sanskrit": "bharaṇyāṃ prāṇahāniḥ syād gāyatrīhomataḥ śubhaṃ /",
+    "english": "Its transit in the asterism bharaṇī causes danger to life and it becomes auspicious by doing oblations with the gāyatrī mantra.",
+    "morphology": "bharaṇyām_bharaṇī_SLF prāṇa_prāṇa_Cp hāniḥ_hāni_SNF syāt_as_SPr3O gāyatrī_gāyatrī_Cp homataḥ_homa_SBM śubham_śubha_SNNe  /"
+  },
+  {
+    "index": 30645,
+    "sanskrit": "sa ha tathā cakāra /",
+    "english": "He did so",
+    "morphology": "sa_tad_SNM ha_ha_ tathā_tathā_ cakāra_kṛ_SPs3In "
+  },
+  {
+    "index": 30646,
+    "sanskrit": "yuvarājaḥ astu te rājā kuntī putraḥ yudhiṣṭhiraḥ gṛhītvā vyajanam śvetam dharma ātmā saṃśita vrataḥ",
+    "english": "Let Dharma's son Yudhishthira, of righteous soul and rigid vows, be thy heir presumptive, ruling the kingdom under thee.",
+    "morphology": "yuvarājaḥ_yuvarāja_SNM astu_as_SPr3Im te_tvad_SG rājā_rājan_SNM kuntī_kuntī_FCp putraḥ_putra_SNM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM gṛhītvā_grah_Co vyajanam_vyajana_SANe śvetam_śveta_SANe dharma_dharma_MCp ātmā_ātman_SNM saṃśita_"
+  },
+  {
+    "index": 30647,
+    "sanskrit": "anye tu vikalpayitum api na yuktāḥ /",
+    "english": "They only constitute its specific attributes but none else.",
+    "morphology": "anye_anya_PNM tu_tu_ vikalpayitum_vikalpay_In api_api_ na_na_ yuktāḥ_yuj_PNPaM"
+  }
+]

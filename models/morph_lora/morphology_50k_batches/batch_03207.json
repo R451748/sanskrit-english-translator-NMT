@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25648,
+    "sanskrit": "kṣipto 'pi na mṛto hyeṣa vegavatyāgniparvate / tvaṃ cādṛśyā prabhāvatyā vihito 'tra svamāyayā //",
+    "english": "For though Vegavatī flung him down on Agniparvata, he did not die of the fall. And you have now been made invisible here by Prabhāvatī by means of her magic power;",
+    "morphology": "kṣiptaḥ_kṣip_SNPaM api_api_ na_na_ mṛtaḥ_mṛ_SNPaM hi_hi_ eṣa_etad_SNM vegavatyā_vegavatī_SIF agni_agni_Cp parvate_parvata_SLM  / tvam_tvad_SN ca_ca_ adṛśyā_adṛśya_SNF"
+  },
+  {
+    "index": 25649,
+    "sanskrit": "nirupamā,",
+    "english": "the incomparable,",
+    "morphology": "__"
+  },
+  {
+    "index": 25650,
+    "sanskrit": "apuṇya puṇya uparame yam punarbhava nirbhayāḥ śāntāḥ saṃnyāsinaḥ yānti tasmai mokṣa ātmane namaḥ",
+    "english": "Salutations to thee in thy Yoga form! Peaceful Sannyasins, freed from fear of rebirth in consequence of the destruction of all their sins and merits, obtain thee.",
+    "morphology": "apuṇya_apuṇya_Cp puṇya_puṇya_Cp uparame_uparama_SLM yam_yad_SAM punarbhava_punarbhava_MCp nirbhayāḥ_nirbhaya_PNM śāntāḥ_śam_PNPaPsM saṃnyāsinaḥ_saṃnyāsin_PNM yānti_yā_PPr3In tasmai_tad_SDM"
+  },
+  {
+    "index": 25651,
+    "sanskrit": "amo 'nunāsikānakrau nādimau hasaṣaḥ smṛtāḥ /",
+    "english": "The letters aṃ and aḥ are nasals.",
+    "morphology": "__am_U"
+  },
+  {
+    "index": 25652,
+    "sanskrit": "ṛṣaya ūcuḥ | sūta sūta mahābhāga vyāsaśiṣya namostu te | samyaguktaṃ tvayā tāta pārthivārcāvidhānakam || kāmanābhedamāśritya saṃkhyāṃ brūhi vidhānataḥ | śivapārthivaliṃgānāṃ kṛpayā dīnavatsala || sūta uvāca | śṛṇudhvamṛṣayaḥ sarve pārthivārcāvidhānakam | yasyānuṣṭhānamātreṇa kṛtakṛtyo bhavennaraḥ ||",
+    "english": "1-2. O Sūta, O Sūta the fortunate, disciple of Vyāsa, obeisance be to Thee. Thou hast clearly explained the procedure of the worship of the earthen phallic images. Now kindly explain the number of phallic images as based on the wishes one may have. Thou art favourably disposed to the distressed and the miserable. 3. O sages, you listen to the rules of procedure in the worship of earthen phallic image, by following which a man reaps full satisfaction.",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / sūta_sūta_SVM sūta_sūta_SVM mahābhāga_mahābhāga_SVM vyāsa_vyāsa_Cp śiṣya_śiṣya_SVM namaḥ_namas_SNNe astu_as_SPr3Im te_tvad_SD  / samyak_samyak_ uktam_vac_SNPaNe tvayā_tvad_SI tāta_tāta_SVM"
+  },
+  {
+    "index": 25653,
+    "sanskrit": "buddhīndriyāṇi pañca āhuḥ pañca karmendriyāṇi ca",
+    "english": "Five amongst these are called organs of knowledge, and five, organs of action.",
+    "morphology": "buddhīndriyāḥ_buddhīndriya_PANe"
+  },
+  {
+    "index": 25654,
+    "sanskrit": "śaṃbhorliṃgaṃ samabhyarcya puruṣārthacatuṣṭayam | prāpnotyatra pumānsadyo nātra kāryā vicāraṇā || 61 ||",
+    "english": "61. By worshipping the Liṅga of Śaṃbhu here, a man attains all the four aims of life immediately. No hesitation need be entertained in this respect.",
+    "morphology": "śaṃbhoḥ_śambhu_SGM liṃgam_liṅga_SANe samabhyarcya_samabhyarcay_Co puruṣa_puruṣa_Cp artha_artha_Cp catuṣṭayam_catuṣṭaya_SANe  / prāpnoti_prāp_SPr3In atra_atra_ pumān_puṃs_SNM sadyas_sadyas_ na_na_ atra_ kāryā_kṛ_SNFGd"
+  },
+  {
+    "index": 25655,
+    "sanskrit": "devāsurāḥ saṃyattā āsan te na vy ajayanta sa etā indras tanūr apaśyat tā upādhatta tābhir vai sa tanuvam indriyaṃ vīryam ātmann adhatta tato devā abhavan parāsurās |",
+    "english": "The Piling of the Fire Altar (continued) The gods and the Asuras were in conflict, they could not decide the issue; Indra saw these bodies, he put them down; with them he conferred upon himself power, strength, and body; then the gods prospered, the Asuras were defeated.",
+    "morphology": "deva_deva_Cp asurāḥ_asura_PNM saṃyattāḥ_saṃyat_PNPaM āsan_as_P3ImIn te_tad_PNM na_na_ vi_vi_ ajayanta_ji_P3ImIn saḥ_tad_SNM etāḥ_etad_PAF indraḥ_indra_SNM tanūḥ_tanū_PAF apaśyat_paś_S3ImIn tāḥ_tad_PAF upādhatta_upadhā_S3ImIn t"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25536,
+    "sanskrit": "tad yad astu na vaktavyam asmābhir iha kiṃcana / śreyān hi mānino mṛtyur nedṛgātmaprakāśanam // iti mantrayate yāvat sakhibhiḥ sa nṛpātmajaḥ / tāvat sa vindhyaketuḥ svānrājā bhṛtyānabhāṣata // are pradarśayata taṃ pravīraṃ me mahāpaśum / hatāḥ subahavo yodhā gṛhyamāṇena yena me // tac chrutvaiva sa śuṣkāsṛgdigdho vraṇitadhūsaraḥ / tasya sundaraseno 'gre tadbhṛtyaiḥ prāpito 'bhavat //",
+    "english": "Whatever may happen, we must not say anything here, for it is better for a man of honour to die than to make known who he is under such circumstances.” While the prince was saying this to his ministers, King Vindhyaketu said to his servants: “Come now, show me this heroic human victim who killed so many of my warriors when he was being captured.” As soon as his servants heard this, they brought Sundarasena, smeared with clotted blood and defiled with wounds, into the presence of that king.",
+    "morphology": "tat_tad_SNNe yat_yad_SNNe astu_as_SPr3Im na_na_ vaktavyam_vac_SNNeGd asmābhiḥ_mad_PI iha_iha_ kiṃcana_kaścana_SNNe  / śreyān_śreyas_SNM hi_hi_ māninaḥ_mānin_SBM mṛtyuḥ_mṛtyu_SNM na_na_ īdṛś_īdṛś_Cp ātma_ātman_Cp prakāśanam_pr"
+  },
+  {
+    "index": 25537,
+    "sanskrit": "na hyetad dravyasaṃbandhaṃ kathaṃ ciḍhapi bravīti /",
+    "english": "Sutra Inasmuch as it is in need of another relative, it must be taken along with the next word specially as the con nection of the word is not completed by what precedes it. other verb. Because it does not, in any way, express the relationship of a substance.",
+    "morphology": "na_na_ hi_hi_ etat_etad_SNNe dravya_dravya_Cp saṃbandham_sambandha_SNNe katham_katham_ cit_cit_ ḥ_ḥ_"
+  },
+  {
+    "index": 25538,
+    "sanskrit": "pravṛtta raktāni ca raktapitta vidhānena |",
+    "english": "Measures laid down under the head of Rakta-pitta should be resorted to in cases of hemorrhage (from the seat of affection).",
+    "morphology": "pravṛtta_pravṛt_PaPsCp"
+  },
+  {
+    "index": 25539,
+    "sanskrit": "gṛhṇāti tāḥ śvo bhūte yajate vratena vai medhyo 'gnir vratapatis |",
+    "english": "verily he appropriates [1] the gods in their own abode; to them he sacrifices when the next day comes.",
+    "morphology": "gṛhṇāti_grah_SPr3In tāḥ_tad_PAF śvas_śvas_ bhūte_bhū_SLPaNe yajate_yaj_SPr3In vratena_vrata_SINe ha_ha_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ ā_ā_ "
+  },
+  {
+    "index": 25540,
+    "sanskrit": "rājantam adhvarāṇām gopām r̥tasya dīdivim vardhamānam sve dame",
+    "english": "Who art the king of all worship, the guardian of Rita, the shining one, increasing in thy own house.",
+    "morphology": "rājantam_rāj_SAPaPrM adhvarāṇām_adhvara_PGM gopām_gopā_SAM rā_rā_SIF ā_ā_U ā_ā_U"
+  },
+  {
+    "index": 25541,
+    "sanskrit": "līlovāca / evametajjaganmātarmayā smṛtamihādhunā / mamedaṃ rājasaṃ janma na tamo na ca sāttvikam //",
+    "english": "Lila said:—So it is, O mother of mankind! and so I come to remember now, that my present birth (state) is of a royal (rajasika) kind, and neither of too pure nor gross a nature.",
+    "morphology": "līlā_līlā_SNF uvāca_vac_SPs3In  / evam_evam_ etat_etad_SNNe jaganmātar_jaganmātṛ_SVF mayā_mad_SI smṛtam_smṛ_SNPaNe iha_iha_ adhunā_adhunā_  / mama_mad_SG idam_idam_SNNe ḥ_idam_SNNe ḥ_ḥ_"
+  },
+  {
+    "index": 25542,
+    "sanskrit": "anviṣyamāṇam tat api daivam eva avatiṣṭhate",
+    "english": "Exertion is futile in what is due to Chance.",
+    "morphology": "anviṣyamāṇam_anviṣ_SNPaPrNePv tat_tad_SNNe api_api_U hantarhiṣṭhātāḥ_han_PNPaPrM"
+  },
+  {
+    "index": 25543,
+    "sanskrit": "kṣīriṇī vāpi citrā gaustatkṣīrāyadghṛtaṃ bhavet | taddauhitramiti proktaṃ daive pitrye ca karmaṇi || 15 ||",
+    "english": "15. Another meaning of Dauhitra is the ghee taken out of a milch cow of variegated colour. It is called Dauhitra in regard to the rites pertaining to gods and Pitṛs.",
+    "morphology": "kṣīriṇī_kṣīriṇī_SNF vā_vā_ api_api_ citrā_citra_SNF gauḥ_go_SNF tad_tad_Cp kṣīrāyat_kṣīra_SNNe ghṛtam_ghṛta_SNNe bhavet_bhū_SPr3O  / tat_tad_SNNe dauhitram_dauhitra_SNNe iti_iti_ proktam_pravac_SNPaNe daive_daiva_SLNe pitrye_pi"
+  }
+]

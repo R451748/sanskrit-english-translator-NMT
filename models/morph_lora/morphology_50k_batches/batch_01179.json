@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9424,
+    "sanskrit": "dūṣyaṃmahāmātraṃ vā sattriprotsāhito bhrātā dāyaṃ yāceta //",
+    "english": "Or instigated by a spy, the brother of a seditious minister may put forward his claim for inheritance",
+    "morphology": "dūṣyam_dūṣya_SAM mahāmātram_mahāmātra_SAM vā_vā_ sattri_sattrin_Cp protsāhitaḥ_protsāhay_SNPaM bhrātā_bhrātṛ_SNM dāyaḥ_dāya_SNM yāceta_yāc_SPr3O"
+  },
+  {
+    "index": 9425,
+    "sanskrit": "candrasūryoparāge vā godānaṃ nṛpasattama | yaḥ karoti narastatra sa kulānsapta tārayet || 35 ||",
+    "english": "35. O virtuous king! the man who makes a present of cows here either on the Solar or the Lunar eclipse, ensures liberation for seven generations in the family.[Sanskrit text for this chapter is available]",
+    "morphology": "candra_candra_Cp sūrya_sūrya_Cp uparāge_uparāga_SLM vā_vā_ go_go_ dānam_dāna_SANe nṛpa_nṛpa_Cp sattama_sattama_SVM  / yaḥ_yad_SNM karoti_kṛ_SPr3In naraḥ_nara_SNM tatra_tatra_ sa_tad_SNM kulān_kula_PAM sapta_saptan_PAM tārayet_tāray_SPr"
+  },
+  {
+    "index": 9426,
+    "sanskrit": "tatra tīrthe tu yo rājanbhaktyā snātvārcayecchivam | gandhamālyābhiṣekaiśca yājñikaṃ sa labhetphalam || 37 ||",
+    "english": "O king, one who devoutly takes his holy bath in the Tīrtha there and adores Śiva with sweet-smelling garlands and Abhiṣeka (ritualistic bathing) shall obtain the benefit of a Yajña.",
+    "morphology": "tatra_tatra_ tīrthe_tīrtha_SLNe tu_tu_ yaḥ_yad_SNM rājan_rājan_SVM bhaktyā_bhakti_SIF snātvā_snā_Co arcayet_arcay_SPr3O śivam_śiva_SAM  / gandha_gandha_Cp mālya_mālya_Cp abhiṣekaiḥ_abhiṣeka_PIM ca_ca_ yājñikam_yājñika_SANe sa_tad_SN"
+  },
+  {
+    "index": 9427,
+    "sanskrit": "garuḍasya ca saṃgrāme mayūrasya ca yudhyataḥ //",
+    "english": "When Garuda and the peacock fought they struck each other with wings, beaks and talons.",
+    "morphology": "garuḍasya_garuḍa_SGM ca_ca_ saṃgrāme_saṃgrāma_SLM mayūrasya_mayūra_SGM ca_ca_ yudhyataḥ_yudh_SGPaPrM  /"
+  },
+  {
+    "index": 9428,
+    "sanskrit": "viṣṇuś ca vaikuṇṭha nivāsa kṛc ca kṣīroda vāsī harir eva sākṣātnārāyaṇo dharma sutas tathāpi goloka nāthaṃ bhajate bhavantam",
+    "english": "Lord Viṣṇu who stays in Vaikuṇṭha, Lord Hari who stays on the milk ocean, and Nārāyaṇa Ṛṣi, the son of Dharma, all worship You, the master of Goloka.",
+    "morphology": "viṣṇuḥ_viṣṇu_SNM ca_ca_ vaikuṇṭha_vaikuṇṭha_MCp nivāsa_nivāsa_MCp kṛt_kṛt_SNM ca_ca_ kṣīroda_kṣīroda_MCp vāsī_vāsin_SNM hariḥ_hari_SNM eva_eva_ sākṣāt_sākṣāt_ nārāyaṇaḥ_nārāyaṇa_SNM dharma_dharma_MCp sut"
+  },
+  {
+    "index": 9429,
+    "sanskrit": "agnihotraṃ juhoti yad eva kiṃ ca yajamānasya svaṃ tasyaiva tat |",
+    "english": "He offers the Agnihotra; whatever there is. of the Sacrificer's own, that is (still) his.",
+    "morphology": "agnihotram_agnihotra_SANe juhoti_hu_SPr3In yat_yad_SNNe eva_eva_ kim_ka_SNNe ca_ca_ yajamānasya_yaj_SGPaPrM svam_sva_SNNe tasya_tad_SGM eva_eva_ tat_tad_SNNe"
+  },
+  {
+    "index": 9430,
+    "sanskrit": "niścitā iyam mama matiḥ yā vai tām me nibodhata",
+    "english": "Know ye now what my fixed resolve is.",
+    "morphology": "niścitā_niści_SNPaPsF iyam_idam_SNF mama_mad_SG matiḥ_mati_SNF yā_yad_SNF vai_vai_U"
+  },
+  {
+    "index": 9431,
+    "sanskrit": "vyāntarikṣamatiranmade somasya rocanā / indro yadabhinadvalam //",
+    "english": "In Somas ecstasy Indra spread the firmament and realms of light,",
+    "morphology": "vyā_vi_ antarikṣam_antarikṣa_SANe atirat_tṛ_S3ImIn made_mada_SLM somasya_soma_SGM rocanā_rocana_PANe  / indraḥ_indra_SNM yat_yat_ abhinat_bhid_S3ImIn valam_vala_SAM  /"
+  }
+]

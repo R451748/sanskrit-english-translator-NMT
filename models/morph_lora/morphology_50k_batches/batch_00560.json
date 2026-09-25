@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4472,
+    "sanskrit": "yaḥ radhrasya coditā yaḥ kr̥śasya yaḥ brahmaṇaḥ nādhamānasya kīreḥ yukta grāvṇaḥ yaḥ avitā su śipraḥ suta somasya saḥ janāsaḥ indraḥ",
+    "english": "He furthers worshippers, both rich and needy, And priests that supplicate his aid and praise him. Who, fair-lipped, helps the man that presses Soma, That sets the stones at work: he, men, is Indra.",
+    "morphology": "yaḥ_yad_SNM radhrasya_radhra_SGM coditā_coditṛ_SNM yaḥ_yad_SNM kr̥śasya_krīśa_SGM yaḥ_yad_SNM brahmaṇaḥ_brahman_SGNe nādhamānasya_nādh_SGPaPrM kīreḥ_kīri_SGM yukta_yuj_PaPsCp grāvṇaḥ_grāvan_SGM yaḥ_yad_SNM avitā_avitṛ_SNM"
+  },
+  {
+    "index": 4473,
+    "sanskrit": "yeṣu ahaḥsu tava brahman salila icchā bhaviṣyati tadā marau bhaviṣyanti jala pūrṇāḥ payodharāḥ",
+    "english": "On those days, O regenerate one, in which thou wilt feel a desire for water, clouds well-charged with water will rise over this desert.",
+    "morphology": "yeṣu_yad_PLNe ahaḥsu_ahar_PLNe tava_tvad_SG brahman_brahman_SVM salila_salila_NeCp icchā_icchā_SNF bhaviṣyati_bhū_SFu3In tadā_tadā_U marau_maru_SLM bhaviṣyanti_bhū_PFu3In"
+  },
+  {
+    "index": 4474,
+    "sanskrit": "vṛkṣaiḥ āvṛta kāyāya senānye madhyamāya ca",
+    "english": "him that has his body shrouded with trees;",
+    "morphology": "vṛkṣaiḥ_vṛkṣa_PIM"
+  },
+  {
+    "index": 4475,
+    "sanskrit": "etasmin eva ca arthā iyam indra gītā yudhiṣṭhira",
+    "english": "It is for this reason, O Yudhishthira, that Indra sang the praises of Sahadeva in verse.",
+    "morphology": "etasmin_etad_SLNe"
+  },
+  {
+    "index": 4476,
+    "sanskrit": "na ca yadvivacyate ta cchabdenā bhidhātavyamityasti pramāṇaṃ, vivakṣāsaṃpattyarthaṃ tu lakṣaṇādyupāyāntarāśrayaṇaṃ na svārthatyāgaḥ / tasmātprādhānyameva dvitīyārthaḥ /",
+    "english": "That is to say, if the usage were always of one uniform kind, then there would be no necessity of collecting and preserving the Smrti Rules. As it is, however, usage is so confused that it can hardly be found in a definite form and hence it is that right usage is preserved by means of Smrti Rules. And these Rules distinctly lay down that the Accusa tive ending denotes predominance Vide Pāṇinis Sutras IIiii and Iiv and it is in accordance with these rules that we have such sentences as ghatam karoti in ordinary parlance and Vrihinavahanti in the Veda.",
+    "morphology": "na_na_ ca_ca_ yat_yad_SNNe vivacyate_vivac_SPr3InPv tat_tad_SNNe śabdena_śabda_SIM abhidhātavyam_abhidhā_SNNeGd iti_iti_ asti_as_SPr3In pramāṇam_pramāṇa_SNNe vivakṣā_vivakṣā_Cp saṃpatti_sampatti_Cp artham_artha_SAM tu_tu_ lakṣaṇa_lak"
+  },
+  {
+    "index": 4477,
+    "sanskrit": "na ca karmavidhipravṛttinimitte bhedapratyaye bādhite 'gnihotrādau pravartakaṃ nimittamasti, parivrājakasyeva bhikṣācaraṇādau bubhukṣādi pravartakam /",
+    "english": "In fact, when the notion of diversity which is the very basis of the injunction of actions, has been set aside for the wise man, there is nothing to urge the man to the performance of the Agnihotra and such acts;in the case of the Renunciate begging for food, the necessary urge comes from hunger and such other bodily needs",
+    "morphology": "na_na_ ca_ca_ karma_karman_Cp vidhi_vidhi_Cp pravṛtti_pravṛtti_Cp nimitte_nimitta_SLNe bheda_bheda_Cp pratyaye_pratyaya_SLM bādhite_bādh_SLPaM agnihotra_agnihotra_Cp ādau_ādi_SLM pravartakam_pravartaka_SNNe nimittam_nimitta_SNNe asti_as_SPr3In pari"
+  },
+  {
+    "index": 4478,
+    "sanskrit": "[tad-yathā:]",
+    "english": "[It is as follows:]",
+    "morphology": "R"
+  },
+  {
+    "index": 4479,
+    "sanskrit": "asmai kṣatrāṇi dhārayantam agne yunajmi tvā brahmaṇā daivyena / dīdihi asmabhyam draviṇā iha bhadram pra imam vocaḥ haviḥ dām devatāsu // yat te devāḥ akṛṇvan bhāgadheyam amāvāsye saṃvasantaḥ mahitvā / tena naḥ yajñam pipṛhi viśva vāre rayim naḥ dhehi subhage su vīram /",
+    "english": "I with celestial prayer appoint thee, Agni, maintainer of this man in princely powers. Here brightly shine for us with wealth: declare thou to Gods this favoured giver of oblations. Night of the New-born Moon, whatever fortune the Gods who dwell with greatness have assigned thee, Therewith fulfil our sacrifice, all-baunteous! Blessed One, grant us wealth with manly offspring.",
+    "morphology": "asmai_idam_SDM kṣatrāṇi_kṣatra_PANe dhārayantam_dhāray_SAPaPrM agne_agni_SVM yunajmi_yuj_SPr1In tvā_tvad_SA brahmaṇā_brahman_SINe daivyena_daivya_SINe  / dīdihi_dīdī_SPr2Im asmabhyam_mad_PD draviṇā_draviṇa_PANe iha_iha_U bhadram_bhadra"
+  }
+]

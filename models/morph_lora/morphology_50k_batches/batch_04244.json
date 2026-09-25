@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33944,
+    "sanskrit": "hṛtadvārakapāṭāsu daityāntaḥpurabhittiṣu / prabhā marakatasyeva jātā navayavāṅkurāḥ //",
+    "english": "The inner apartments are laid open without their doors and enclosures, and are overgrown with the sprouts of barley, shooting out as blades of sapphires from underneath the ground.",
+    "morphology": "hṛta_hṛ_PaCp dvāra_dvāra_Cp kapāṭāsu_kapāṭa_PLF daitya_daitya_Cp antaḥpura_antaḥpura_Cp bhittiṣu_bhitti_PLF  / prabhā_prabhā_SNF marakatasya_marakata_SGNe iva_iva_ jātāḥ_jan_PNPaF nava_nava_Cp yava_yava_Cp aṅkurāḥ_aṅkura_PNF"
+  },
+  {
+    "index": 33945,
+    "sanskrit": "tatra vyavahārārthaṃ cchandata upacārāḥ kriyante /",
+    "english": "this is only a play of cause and.",
+    "morphology": "tatra_tatra_ vyavahāra_vyavahāra_Cp artham_artha_SAM chandataḥ_chanda_SBM "
+  },
+  {
+    "index": 33946,
+    "sanskrit": "uktāḥ saṃcarā etā aindrāgnāḥ prāśṛṅgā māhendrā bahurūpā vaiśvakarmaṇāḥ //",
+    "english": "Called contemporaneous, the dappled belonging to Indra-Agni; those with projecting horns to Mahendra; the many-coloured to Visvakarman. 18",
+    "morphology": "uktāḥ_vac_PNPaM saṃcarāḥ_saṃcara_PNM etāḥ_eta_PNM aindrāgnāḥ_aindrāgna_PNM prāśṛṅgāḥ_prāśṛṅga_PNM māhendrāḥ_māhendra_PNM bahu_bahu_Cp rūpāḥ_rūpa_PNM vaiśvakarmaṇāḥ_vaiśvakarmaṇa_PNM  /"
+  },
+  {
+    "index": 33947,
+    "sanskrit": "mūlaṃ japtvārghyapātrāmbu datvā sūryāya saṃstutiḥ / natvā parāṅmukhañcārkaṃ kṣamasveti tato vadet // śarāṇunā phaḍantena samāhatyāṇusaṃhṛtiṃ /",
+    "english": "Having recited the principal mantra, water of oblation from the watervessel should be offered to the sungod. Then the worshipper should sing the glory of the lord, pay obeisance to him with his face turned away and say “Pardon me, taking leave of thee”.",
+    "morphology": "mūlam_mūla_SANe japtvā_jap_Co arghya_arghya_Cp pātra_pātra_Cp ambu_ambu_SANe da_da_Cp tvā_tvad_SA sūryāya_sūrya_SDM saṃstutiḥ_saṃstuti_SNF  / natvā_nam_Co parāṅmukham_parāṅmukha_SAM ca_ca_ arkam_arka_SAM kṣamasva_kṣam_SPr2Im iti_i"
+  },
+  {
+    "index": 33948,
+    "sanskrit": "ativiprakṛṣṭatvānna caturthī samāpadyate /",
+    "english": "It is impossible to skip over two spheres and enter into a fourth, because a fourth sphere is too distant.",
+    "morphology": "ati_ati_ viprakṛṣṭa_viprakṛṣṭa_Cp tvāt_tva_SBNe na_na_ caturthī_caturthī_SNF samāpadyate_samāpad_SPr3In"
+  },
+  {
+    "index": 33949,
+    "sanskrit": "bodhisattvaḥ kilānyatamamasminnaraṇyāyatane vartakāpotako bhavati sma /",
+    "english": "Once the Bodhisattva, it is said, lived in some part of the forest as a young quail.",
+    "morphology": "bodhisattvaḥ_bodhisattva_SNM kila_kila_ anyatamam_anyatama_SAM asmin_idam_SLNe araṇya_araṇya_Cp āyatane_āyatana_SLNe vartaka_vartaka_Cp āpotakaḥ_āpotaka_SNM"
+  },
+  {
+    "index": 33950,
+    "sanskrit": "kathamālakṣyate svapna iti praṣṭuḥ prakathyate / yathaivaṃ paśyasītyeva heturatrāsti netaraḥ //",
+    "english": "In answer to the question, why and how does a dream appear to us it may only be said that, there is no other cause of its appearance to you, than that of the appearance of this world unto you.",
+    "morphology": "katham_katham_ ālakṣyate_ālakṣay_SPr3InPv svapnaḥ_svapna_SNM iti_iti_ praṣṭuḥ_praṣṭṛ_SGM prakathyate_prakathay_SPr3InPv  / yathā_yathā_ evam_evam_ paśyasi_paś_SPr2In iti_iti_ eva_eva_ hetuḥ_hetu_SNM atra_atra_ asti_as_SPr3In na_na"
+  },
+  {
+    "index": 33951,
+    "sanskrit": "na mokṣo nabhasaḥ pṛṣṭhe na pātāle na bhūtale / mokṣo hi ceto vimalaṃ samyagjñānavibodhitam //",
+    "english": "Liberation is a thing neither confined in this earth or in heaven above or patala below; but resides in the hearts of the wise, in their pure souls and enlightened understandings.",
+    "morphology": "na_na_ mokṣaḥ_mokṣa_SNM nabhasaḥ_nabhas_SGNe pṛṣṭhe_pṛṣṭha_SLNe na_na_ pātāle_pātāla_SLM na_na_ bhū_bhū_Cp tale_tala_SLM  / mokṣaḥ_mokṣa_SNM hi_hi_ cetaḥ_cetas_SNNe vimalam_vimala_SNNe samyak_samyak_ jñāna_jñāna_Cp vib"
+  }
+]

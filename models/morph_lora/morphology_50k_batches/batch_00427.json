@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3408,
+    "sanskrit": "matim kurudhvam sahitāḥ pṛthak ca",
+    "english": "I beseech you all to consult together and also think separately.",
+    "morphology": "matim_mati_SAF"
+  },
+  {
+    "index": 3409,
+    "sanskrit": "saṃśāntaduḥkhamajaḍātmakameva suptamānandamantharamapetarajastamo yat / ākāśakośatanavo'tanavā mahāntastasminpade galitacittalavā vasanti //",
+    "english": "The intelligent souls that are numb and sleepy, and are set in perfect bliss beyond the trouble of rajas and tamas; and which have assumed the forms of vacuous bodies, find their rest in the supreme felicity, in which they are dissolved in the unity of the Deity.",
+    "morphology": "saṃśānta_saṃśam_PaCp duḥkham_duḥkha_SNNe ajaḍa_ajaḍa_Cp ātmakam_ātmaka_SNNe eva_eva_ suptam_svap_SNPaNe ānanda_ānanda_Cp mantharam_manthara_SNNe apeta_ape_PaCp rajaḥ_rajas_SNNe tamaḥ_tamas_SNNe yat_yad_SNNe  / ākāśa_ākāśa_Cp ko"
+  },
+  {
+    "index": 3410,
+    "sanskrit": "bhūtaś ca svabhāvo viṣayasya kṣaṇikānātmādirūpa iti pratipāditam etat /",
+    "english": "and it has been explained that the well -known form of things consists in being momentary, soul-less and so forth.",
+    "morphology": "bhūtaḥ_bhū_SNPaM ca_ca_ svabhāvaḥ_svabhāva_SNM viṣayasya_viṣaya_SGM kṣaṇika_kṣaṇika_Cp anātma_anātman_Cp ādi_ādi_Cp rūpaḥ_rūpa_SNM iti_iti_ pratipāditaḥ_pratipāday_SNPaNe etat_etad_SNNe  /"
+  },
+  {
+    "index": 3411,
+    "sanskrit": "nahi sarvā bhrāntayaḥ sādharmyadarśanād eva bhavanti /",
+    "english": "all illusions do not really proceed from the perception of similarity;",
+    "morphology": "nahi_nahi_ sarvāḥ_sarva_PNF bhrāntayaḥ_bhrānti_PNF sādharmya_sādharmya_Cp darśanāt_darśana_SBNe eva_eva_ bhavanti_bhū_PPr3In  /"
+  },
+  {
+    "index": 3412,
+    "sanskrit": "paribhoktā yo gurum upajīvati kusṛtyānuvartate / matsarī gurusamṛddhim abhyuccayaṃ na sahate 'ntar dahyate /",
+    "english": "\"One who lives upon\";he who supports himself on what he receives from his Teacher; or one who behaves illmannerly towards him. \"One who is jealous\";who does not brook the rise and advancement of his Teacher and burns within at its sight.",
+    "morphology": "paribhoktā_paribhoktṛ_SNM yaḥ_yad_SNM gurum_guru_SAM upajīvati_upajīv_SPr3In kusṛtyā_kusṛti_SIF anuvartate_anuvṛt_SPr3In  / matsarī_matsarin_SNM guru_guru_Cp samṛddhim_samṛddhi_SAF abhyuccayam_abhyuccaya_SAM na_na_ sahate_sah_SPr3In anta"
+  },
+  {
+    "index": 3413,
+    "sanskrit": "yadapi ca kṛte rājñaḥ karmasaṃbandhe rājyaśabdaḥ pravarttataiti /",
+    "english": "It has been argued above that the word Rajya is used only when the King Rājā has become connected with certain definite duties.",
+    "morphology": "yat_yat_ api_api_ ca_ca_ kṛte_kṛ_SLPaM rājñaḥ_rājan_SGM karma_karman_Cp saṃbandhe_sambandha_SLM rājya_rājya_Cp śabdaḥ_śabda_SNM pravarttate_pravṛt_SPr3In  /"
+  },
+  {
+    "index": 3414,
+    "sanskrit": "ṣaḍpaṃcāśatpramāṇena kalpā mama ca saṃsthitāḥ | caturbhiraparairmokṣaḥ kūrmatvātsaṃbhaviṣyati || 304 ||",
+    "english": "304. Already fifty-six Kalpas have gone before me. With another four more I will get relieved from this tortoise-hood.",
+    "morphology": "ṣaḍpaṃcāśat_ṣaḍpaṃcāśat_Cp pramāṇena_pramāṇa_SINe kalpāḥ_kalpa_PNM mama_mad_SG ca_ca_ saṃsthitāḥ_saṃsthā_PNPaM  / caturbhiḥ_catur_PIM aparaiḥ_apara_PIM mokṣaḥ_mokṣa_SNM kūrma_kūrma_Cp tvāt_tva_SBNe saṃbhavi"
+  },
+  {
+    "index": 3415,
+    "sanskrit": "śrīvasiṣṭha uvāca / iti prokte sarasvatyā girā madhuravarṇayā / uvāca vacanaṃ dhīmānbhūmipālo vidūrathaḥ //",
+    "english": "Vasishtha said:—The intelligent prince, being thus gently addressed by the goddess of wisdom, besought her in a submissive tone.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / iti_iti_ prokte_pravac_SLPaNe sarasvatyāḥ_sarasvatī_SGF girā_gir_SIF madhura_madhura_Cp varṇayā_varṇa_SIF  / uvāca_vac_SPs3In vacanam_vacana_SANe dhīmān_dhīmat_SNM bhūmipā"
+  }
+]

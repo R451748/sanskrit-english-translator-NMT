@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9256,
+    "sanskrit": "taraḥ tālī karaḥ tālī ūrdhva saṃhananaḥ vahaḥ",
+    "english": "Thou art the sound that arises from slapping one palm against another.",
+    "morphology": "taraḥ_tara_SNM"
+  },
+  {
+    "index": 9257,
+    "sanskrit": "saḥ eti savitā svar divaḥ pṛṣṭhe avacākaśat // raśmibhiḥ nabhaḥ ābhṛtam mahendraḥ eti āvṛtaḥ // sa dhātā sa vidhartā sa vāyuḥ nabhaḥ ucchritam //",
+    "english": "Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, This God, etc.",
+    "morphology": "saḥ_tad_SNM eti_i_SPr3In savitā_savitṛ_SNM svar_svar_SANe divaḥ_div_SGM pṛṣṭhe_pṛṣṭha_SLNe avacākaśat_avacākaś_SNPaPrM  // raśmibhiḥ_raśmi_PIM nabhaḥ_nabhas_SANe ābhṛtam_ābhṛ_SAPaPsNe mahendraḥ_mahendra_SNM eti_i_SPr3In"
+  },
+  {
+    "index": 9258,
+    "sanskrit": "syād etat tatrāpi sattādisadupalambhakapramāṇaviṣayatvaṃ dharmo 'sti tenānyanimitto 'yamatrāpi vyapadeśa ityavyabhicāra evetyāha anyadharmetyādi /",
+    "english": "because (according to the Vaiśeṣika) ‘Being’ subsists only in the three Categories of ‘Substance’, ‘Quality’ and ‘Action As regards the three Categories of Substance and the rest, the Opponents hold the name to be based upon the presence of the ‘Universal’;",
+    "morphology": "syāt_as_SPr3O etat_etad_SNNe tatra_tatra_ api_api_ sattā_sattā_Cp ādi_ādi_Cp sat_as_PaPrCp upalambhaka_upalambhaka_Cp pramāṇa_pramāṇa_Cp viṣayatvam_viṣayatva_SNNe dharmaḥ_dharma_SNM asti_as_SPr3In tena_tad_SIM anya_anya_Cp nimittaḥ_nimit"
+  },
+  {
+    "index": 9259,
+    "sanskrit": "labdhaṃ yairnarmadātoyaṃ ye ca kuryuḥ pradakṣiṇam | ye pibanti jalaṃ tatra te puṇyā nātra saṃśayaḥ || 37 ||",
+    "english": "There is no doubt about this that those who have reached Narmadā, those who circumambulate her, and those who drink her water are meritorious.",
+    "morphology": "labdham_labh_SNPaNe yaiḥ_yad_PIM narmadā_narmadā_Cp toyam_toya_SNNe ye_yad_PNM ca_ca_ kuryuḥ_kṛ_PPr3O pradakṣiṇam_pradakṣiṇa_SAM  / ye_yad_PNM pibanti_pā_PPr3In jalam_jala_SANe tatra_tatra_ te_tad_PNM puṇyāḥ_puṇya_PNM na_na_ atra_at"
+  },
+  {
+    "index": 9260,
+    "sanskrit": "yathoktam svarūpasya svato gatiḥ prāmāṇyaṃ vyavahāreṇeti /",
+    "english": "This is what has been thus declared ‘The Cognition itself is cognised by itself, but its validity is ascertained by usage’.",
+    "morphology": "yathā_yathā_ uktam_vac_SNPaNe svarūpasya_svarūpa_SGNe svatas_svatas_ gatiḥ_gati_SNF prāmāṇyam_prāmāṇya_SNNe vyavahāreṇa_vyavahāra_SIM iti_iti_"
+  },
+  {
+    "index": 9261,
+    "sanskrit": "yasmin prakupite deve vinaśyatyakhilaṃ jagat | salokapālayajñasya śāsanājjīvitaṃ drutam ||",
+    "english": "15. At the bidding of the protector of the world whose fury annihilates everything, the resuscitation is certain and immediate.",
+    "morphology": "yasmin_yad_SLM prakupite_prakup_SLPaM deve_deva_SLM vinaśyati_vinaś_SPr3In akhilam_akhila_SNNe jagat_jagant_SNNe  / sa_sa_ lokapāla_lokapāla_Cp yajñasya_yajña_SGM śāsanāt_śāsana_SBNe jīvitam_jīvita_SNNe drutam_dru_SNPaNe"
+  },
+  {
+    "index": 9262,
+    "sanskrit": "makṣu kanāyāḥ sakhyam nava gvāḥ r̥tam vadantaḥ r̥ta yuktim agman dvi barhasaḥ ye upa gopam ā aguḥ adakṣiṇāsaḥ acyutā dudukṣan",
+    "english": "Uttering praise to suit the rite Navagvas came speedily to win the damsel's friendship. They who approached the twice-strong stable's keeper, meedless would milk the rocks that naught had shaken.",
+    "morphology": "makṣu_makṣu_Cp kanāyāḥ_kanā_SGF sakhyam_sakhya_SANe nava_nava_Cp gvāḥ_gvā_SGF r̥tam_r̥ta_SANe vadantaḥ_vad_PNPaPrM r̥ta_r̥ta_NeCp yuktim_yukti_SAF agman_gam_PPs3In dvi_dvi_Cp barhasaḥ_barhas_PNM ye_yad_PNM upa_upa_U gopam_gopa_SAM ā_"
+  },
+  {
+    "index": 9263,
+    "sanskrit": "su upaskaram svadhiṣṭhānam vaiyāghra parivāraṇam",
+    "english": "And every part of that car was well-built, and it was exceedingly commodious and covered on all sides with tiger-skin.",
+    "morphology": "su_su_U upaskaram_upaskara_SNNe svadhiṣṇṇa_svadhiṣṇṇa_SNNe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24344,
+    "sanskrit": "magnasūryasya nabhaso nābhibhānti diśo daśa // cetanaṃ puṣkaraṃ kośaiḥ kṣudhādhmātaiḥ samantataḥ /",
+    "english": "The moon disappearing from view in night after the sun-set, and the clouds continually discharging showers, no quarter of the sky, appears beautiful.",
+    "morphology": "magna_majj_PaCp sūryasya_sūrya_SGNe nabhasaḥ_nabhas_SGNe na_na_ abhibhānti_abhibhā_PPr3In diśaḥ_diś_PNF daśa_daśan_PNF  // cetanam_cetana_SNNe puṣkaram_puṣkara_SNNe kośaiḥ_kośa_PIM kṣudhā_kṣudhā_Cp ādhmātaiḥ_ādham_PIPaM saman"
+  },
+  {
+    "index": 24345,
+    "sanskrit": "sakalo niṣkalo jñeyaḥ sarvajñaḥ paramo hariḥ /",
+    "english": "Lord Hari, the omniscient and supreme should be known as endowed with parts and without parts.",
+    "morphology": "sakalaḥ_sakala_SNM niṣkalaḥ_niṣkala_SNM jñeyaḥ_jñā_SNMGd sarvajñaḥ_sarvajña_SNM paramaḥ_parama_SNM hariḥ_hari_SNM  /"
+  },
+  {
+    "index": 24346,
+    "sanskrit": "yady apy aniṣṭasūcakam api lakṣaṇaṃ bhavati, kiṃ tu sūcakair eva śāstrais tādṛśīṃ vivāhayet, ataḥ praśastalakṣaṇā lakṣaṇavatī draṣṭavyā /",
+    "english": "Even though indicators of evil are also called \"signs,\" yet since what is mentioned here is, that one should marry a girl with these signs, it follows that what is meant is the girl with good, auspicious, signs.",
+    "morphology": "yadi_yadi_ api_api_ aniṣṭa_aniṣṭa_Cp sūcakam_sūcaka_SNNe api_api_ lakṣaṇam_lakṣaṇa_SNNe bhavati_bhū_SPr3In kim_kim_ tu_tu_ sūcakaiḥ_sūcaka_PINe eva_eva_ śāstraiḥ_śāstra_PINe tādṛśīm_tādṛśa_SAF vivāhayet_vivāhay_SPr3O"
+  },
+  {
+    "index": 24347,
+    "sanskrit": "eṣa sūryaḥ iva ambhodaiḥ channaḥ pārthaḥ na dṛśyate",
+    "english": "Like the Sun shrouded by the clouds, Partha is no longer visible.",
+    "morphology": "eṣa_etad_SNM sūryaḥ_sūrya_SNM iva_iva_U ambhodaiḥ_ambhoda_PIM channaḥ_chad_SNPaPsM"
+  },
+  {
+    "index": 24348,
+    "sanskrit": "tam ca api pitta kṣata ja prakopāt vidyāt sa todam pavana asra jam tu||",
+    "english": "A piercing pain in the swelling points to its Vataja origin.",
+    "morphology": "tam_tad_SAM ca_ca_U api_api_U pitta_pitta_NeCp kṣata_kṣata_NeCp ja_ja_Cp prakopāt_prakopa_SBM vidyāt_vid_SPr3O sa_sa_U todam_toda_SAM pavana_pavana_MCp asra_asra_NeCp jam_ja_SAM tu_tu_U"
+  },
+  {
+    "index": 24349,
+    "sanskrit": "paraṃ liṃgārcanasthānamavimukteśvareśvaram | tatra pūjāṃ sakṛtkṛtvā kṛtakṛtyo naro bhavet || 92 ||",
+    "english": "92. Avimukteśvareśvara is the greatest spot of adoration of the Liṅga. By worshipping it there even once, a man will have the satisfaction of having done his duty.",
+    "morphology": "param_para_SANe liṃga_liṅga_Cp arcana_arcana_Cp sthānam_sthāna_SANe avimukteśvara_avimukteśvara_Cp īśvaram_īśvara_SAM  / tatra_tatra_ pūjām_pūjā_SAF sakṛt_sakṛt_ kṛtvā_kṛ_Co kṛtakṛtyaḥ_kṛtakṛtya_SNM naraḥ_nara_SNM bhave"
+  },
+  {
+    "index": 24350,
+    "sanskrit": "tatrāptokter dvayaṃ dṛṣṭaṃ doṣābhāvaguṇātmakam /",
+    "english": "“In the case of the words of the trustworthy person, two facts have been perceived: (1) that there are no defects, and (2) that there are excellences;",
+    "morphology": "tatra_tatra_ āpta_āpta_Cp ukteḥ_ukti_SGF dvayam_dvaya_SNNe dṛṣṭaḥ_dṛś_SNPaM doṣa_doṣa_Cp abhāva_abhāva_Cp guṇa_guṇa_Cp ātmakam_ātmaka_SNNe"
+  },
+  {
+    "index": 24351,
+    "sanskrit": "mṛga ṛṣabham yathā dṛptam gandhinī vana nirjhare",
+    "english": "And Krishna of sweet smiles, finding Bhimasena in the cooking apartments, approached him with the eagerness of a three-year old cow brought up in the woods, approaching a powerful bull, in her first season, or of a she-crane living by the water-side approaching her mate in the pairing season.",
+    "morphology": "mṛga_mṛga_MCp ṛṣabham_ṛṣabha_SNNe"
+  }
+]

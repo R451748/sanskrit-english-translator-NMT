@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40488,
+    "sanskrit": "karmabhūmiriyaṃ svargamapavargaṃ ca gacchatāṃ /",
+    "english": "This is a land of religious rites. It gives accomplishment of action in getting redemption.",
+    "morphology": "karma_karman_Cp bhūmiḥ_bhūmi_SNF iyam_idam_SNF svargam_svarga_SAM apavargam_apavarga_SAM ca_ca_ gacchatām_gam_SPr3Im  /"
+  },
+  {
+    "index": 40489,
+    "sanskrit": "mantrāś ca etam evārtham abhivadanti ye samānā () ityādayaḥ /",
+    "english": "In fact, the mantras that are recited at the rite also express the same idea \"ye samānāḥ, &c\".",
+    "morphology": "mantrāḥ_mantra_PNM ca_ca_ etam_etad_SAM eva_eva_ artham_artha_SAM abhivadanti_abhivad_PPr3In ye_yad_PNM samānāḥ_samāna_PNM ityādayaḥ_ityādi_PNM  /"
+  },
+  {
+    "index": 40490,
+    "sanskrit": "śaunaka uvāca | deveṃdro hi mahābhāga na dadāti kadācana | kathaṃ balirasau dātā kathayasva yathātatham || 45 ||",
+    "english": "Śaunaka said: 45. O excessively fortunate one, Devendra never gave anything to anyone. How is this that Bali became a donor? Describe it truthfully.",
+    "morphology": "śaunakaḥ_śaunaka_SNM uvāca_vac_SPs3In  / deva_deva_Cp indraḥ_indra_SNM hi_hi_ mahābhāga_mahābhāga_SVM na_na_ dadāti_dā_SPr3In kadācana_kadācana_  / katham_katham_ baliḥ_bali_SNM asau_adas_SNM dātā_dātṛ_SNM kathayasva_kathay_SPr2Im yat"
+  },
+  {
+    "index": 40491,
+    "sanskrit": "tadāhuḥ /",
+    "english": "Now, then, as to the vows (rites of abstinence).",
+    "morphology": "tat_SANe āhuḥ_a_"
+  },
+  {
+    "index": 40492,
+    "sanskrit": "dantān tālu ca jihvām ca galam grīvām tathā eva ca",
+    "english": "One should meditate on the teeth, the palate, the tongue, the throat, the neck likewise;",
+    "morphology": "dantān_danta_PAM"
+  },
+  {
+    "index": 40493,
+    "sanskrit": "evaṃ nāmādayo 'pi prasūte tau cātmīyasneham so 'pi dveṣādikam ityanvayavyatirekābhyām ātmagrahād ātmātmīyagrahamūlatvam eṣāṃ sphuṭataramāgopālāṅganamavasitam eva /",
+    "english": "Similarly with regard to Name, etc. also. From all this it is clear that the notion of ‘Soul’, which has persisted from time without beginning, having been brought about, the repeated notion of similar ‘Souls’ is what produces the notion of ‘one’s own’; these two produce Love for ‘one’s own’; this produces Hatred and the rest;",
+    "morphology": "evam_evam_ nāma_nāman_Cp ādayaḥ_ādi_PNM api_api_ prasūte_prasū_SPr3In tau_tad_DuNM ca_ca_ ātmīya_ātmīya_Cp sneham_sneha_SAM saḥ_tad_SNM api_api_ dveṣa_dveṣa_Cp ādikam_ādika_SAM iti_iti_ anvaya_anvaya_Cp vyatirekābhyām_vyatireka_DuIM "
+  },
+  {
+    "index": 40494,
+    "sanskrit": "dṛṣṭvā kṛśam vivarṇam ca rājānam a tathocitam upavāsa pariśrāntam tvac asthi parivāritam dharmaputraḥ sa pitaram pariṣvajya mahā bhujaḥ",
+    "english": "Beholding his royal father of great splendour, emaciated and pale, reduced to a state unbecoming of him, worn out with fasts, and looking like a skeleton covered with skin, Dharma's son Yudhishthira shed tears of grief and once more said these words.",
+    "morphology": "dṛṣṭvā_dṛś_Co kṛśam_kṛśa_SAM vivarṇam_vivarṇa_SAM ca_ca_U rājānam_rājan_SAM a_a_U tathocitam_tathocita_SAM upavāsa_upavāsa_MCp pariśrāntam_pariśram_SAPaPsM tvac_tvac_FCp asthi_asthi_NeCp parivāritam_parivāray_SAPaPsM dharmaput"
+  },
+  {
+    "index": 40495,
+    "sanskrit": "maurkhyādāgāmina kālaṃ vartamānakriyākramaiḥ / aśodhayannaro duḥkhaṃ yāti vindhyagajo yathā //",
+    "english": "Hence all foolish people that had not foresight to prevent their future mishaps, and provide against their coming mischances by their precautions at present, are surely to be exposed like the calamity as the vindhyan elephant.",
+    "morphology": "maurkhyāt_maurkhya_SBNe āgāminaḥ_āgāmin_SVM kālam_kāla_SAM vartamāna_vartamāna_Cp kriyā_kriyā_Cp kramaiḥ_krama_PIM  / aśodhayān_aśodhayat_SNM naraḥ_nara_SNM duḥkham_duḥkham_ yāti_yā_SPr3In vindhya_vindhya_Cp gajaḥ_gaja_SNM yath"
+  }
+]

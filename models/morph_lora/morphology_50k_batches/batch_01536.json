@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12280,
+    "sanskrit": "anenānyāyapraśne doṣadarśanena praṣṭur nyāyyaḥ praśnavidhiḥ /",
+    "english": "This indication of the evil effects proceeding from improper questioning clearly implies that for the questioner also there is a proper manner of putting questions.",
+    "morphology": "anena_idam_SIM anyāya_anyāya_Cp praśne_praśna_SLM doṣa_doṣa_Cp darśanena_darśana_SINe praṣṭuḥ_praṣṭṛ_SGM nyāyyaḥ_nyāyya_SNM praśna_praśna_Cp vidhiḥ_vidhi_SNM  /"
+  },
+  {
+    "index": 12281,
+    "sanskrit": "tām evam uktvā rājarṣiḥ duḥṣantaḥ mahiṣīm priyām",
+    "english": "Thou art my dearest!' And the royal sage Dushmanta, having spoken thus unto his dear wife, O Bharata, received her with offerings of perfume, food, and drink.",
+    "morphology": "tām_tad_SAF evam_evam_U uktvā_vac_Co rājarṣiḥ_rājarṣi_SNM duḥṣantaḥ_duḥṣanta_SNM mahiṣīm_mahiṣī_SAF priyām_priya_SAF"
+  },
+  {
+    "index": 12282,
+    "sanskrit": "tathāpi sarvasāmānyarūpeṇānyā 'vagamyate",
+    "english": "Similarly too, with the denotation of the verbal Root.",
+    "morphology": "tathā_tathā_ api_api_ sarva_sarva_Cp sāmānya_sāmānya_Cp rūpeṇa_rūpa_SINe anyā_anya_SNF avagamyate_avagam_SPr3InPv"
+  },
+  {
+    "index": 12283,
+    "sanskrit": "nāciketāya bhagavān āha vaivasvataḥ yamaḥ",
+    "english": "Vaivaswat Yama communicated it to Nachiketa.",
+    "morphology": "nāciketāya_nāciketa_SDM bhagavān_bhagavat_SNM āha_ah_SPs3In vaivasvataḥ_vaivasvata_SNM yamaḥ_yama_SNM"
+  },
+  {
+    "index": 12284,
+    "sanskrit": "tena tasthau sa kauravya loka vīrasya darśane",
+    "english": "It was for this that, having struck the son of Pandu, he succeeded in remaining before that foremost of heroes.",
+    "morphology": "tena_tena_U"
+  },
+  {
+    "index": 12285,
+    "sanskrit": "vaneṣu //",
+    "english": "And in woods;",
+    "morphology": "vaneṣu_vana_PLNe  /"
+  },
+  {
+    "index": 12286,
+    "sanskrit": "kośadravyāṇāṃ vṛddhiprayogāḥ prayogaḥ // paṇyavyavahāro vyavahāraḥ //",
+    "english": "Lending the money of the treasury on periodical interest is a loan Carrying on trade by making use of government money is trading",
+    "morphology": "kośa_kośa_Cp dravyāṇām_dravya_PGNe vṛddhi_vṛddhi_Cp prayogāḥ_prayoga_PNM prayogaḥ_prayoga_SNM  // paṇya_paṇya_Cp vyavahāraḥ_vyavahāra_SNM vyavahāraḥ_vyavahāra_SNM  /"
+  },
+  {
+    "index": 12287,
+    "sanskrit": "taporthaṃ tāpasācāre cirāya racitasthitiḥ / siddhasaṃghātavalitaḥ kṛtaśāstrārthasaṃgrahaḥ //",
+    "english": "I remained there in the practice of ascetic austereties, for the performance of my holy devotion; and was beset by bodies of adepts, dis-coursing on subjects of the sacred sastras.",
+    "morphology": "tapaḥ_tapas_Cp rtham_rtha_SAM tāpasa_tāpasa_Cp ācāre_ācāra_SLM cirāya_cirāya_ racita_racay_PaCp sthitiḥ_sthiti_SNM  / siddha_siddha_Cp saṃghāta_saṃghāta_Cp valitaḥ_valay_SNPaM kṛta_kṛ_PaCp śāstra_śāstra_Cp artha_artha_Cp saṃgr"
+  }
+]

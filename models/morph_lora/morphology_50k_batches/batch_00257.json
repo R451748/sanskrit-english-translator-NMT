@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2048,
+    "sanskrit": "anyāni yāni tīrthāni kāle tāni phalanti vai | prabhāseśastu rājendra sadyaḥ kāmaphalapradaḥ || 17 ||",
+    "english": "All the other Tīrthas yield benefit in due course, but, O great king, Prabhāseśa bestows the desired benefit immediately.",
+    "morphology": "anyāni_anya_PNNe yāni_yad_PNNe tīrthāni_tīrtha_PNNe kāle_kāla_SLM tāni_tad_PNNe phalanti_phal_PPr3In vai_vai_  / prabhāsa_prabhāsa_Cp īśaḥ_īśa_SNM tu_tu_ rāja_rājan_Cp indra_indra_SVM sadyas_sadyas_ kāma_kāma_Cp phala_phala_Cp pradaḥ_"
+  },
+  {
+    "index": 2049,
+    "sanskrit": "dhātā dadhātu naḥ rayim īśānaḥ jagataḥ patiḥ / sa naḥ pūrṇena yacchatu //",
+    "english": "May the Ordainer give us wealth, Lord, ruler of the world of life: with full hand may he give to us.",
+    "morphology": "dhātā_dhātṛ_SNM dadhātu_dhā_SPr3Im naḥ_mad_PD rayim_rayi_SAM īśānaḥ_īś_SNPaPrM jagataḥ_jagant_SGNe patiḥ_pati_SNM  / sa_tad_SNM naḥ_mad_PD pūrṇena_pṛ_SIPaPsNe yacchatu_yam_SPr3Im  /"
+  },
+  {
+    "index": 2050,
+    "sanskrit": "hiṃsra ahiṃsre mṛdu krūre dharma adharme ṛta anṛte",
+    "english": "Determined in respect of character by either injuriousness or peacefulness, mildness or fierceness, righteousness or unrighteousness, truthfulness or untruthfulness, each creature, at every new creation, obtains that particular attribute which it had cherished before.",
+    "morphology": "hiṃsra_hiṃsra_Cp ahiṃsre_ahiṃsra_DuNNe mṛdu_mṛdu_Cp krūre_krūra_DuNNe dharma_dharma_MCp adharme_adharma_DuNNe"
+  },
+  {
+    "index": 2051,
+    "sanskrit": "kālaḥ lohita rakta akṣaḥ kṛṣṇaḥ daṇḍī sanātanaḥ",
+    "english": "Know that Krishna Himself, otherwise called Hari, is that Time with blood-red eyes and with club in hand.",
+    "morphology": "kālaḥ_kāla_SNM lohita_lohita_Cp rakta_rakta_Cp akṣaḥ_akṣa_SNM kṛṣṇaḥ_kṛṣṇa_SNM daṇḍī_daṇḍin_SNM sanātanaḥ_sanātana_SNM"
+  },
+  {
+    "index": 2052,
+    "sanskrit": "tasmād īśvarapraṇītatvād va sarvāgamanāṃ prāmāṇyam //",
+    "english": "Therefore, all the Agamas are true since they have been composed by God.",
+    "morphology": "tasmāt_tasmāt_ īśvara_īśvara_Cp praṇīta_praṇī_PaCp tvāt_tva_SBNe sarva_sarva_Cp āgamanām_āgaman_PGNe prāmāṇyam_prāmāṇya_SNNe  /"
+  },
+  {
+    "index": 2053,
+    "sanskrit": "vaidya āsana avasādaḥ vā rogī vā syāt adhomukhaḥ",
+    "english": "Pots or utensils placed in pendent brackets, and found to be spontaneously moving about without any definite cause, as well as any other fallen articles digged in, smashed in or thrown out of the sick-room; a physician sitting dejected and gathered up in his seat, and the patient sitting with a downcast face, or pricking his body or at the bed clothes while talking with the physician, or shaking his hands, back or head, or taking hold of or placing the hands of the physician in his own, or on his breast, or interrogating the physician with an up-turned face, or pressing his own limbs, when he is interrogated by the physician in return, should be considered as unfavourable signs.",
+    "morphology": "vaidya_vaidya_MCp āsana_āsana_NeCp avasādaḥ_avasāda_SNM vā_vā_U rogī_rogin_SNM vā_vā_U syāt_as_SPr3O adhomukhaḥ_adhomukha_SNM"
+  },
+  {
+    "index": 2054,
+    "sanskrit": "balavanta iti / sthirodāraphalatvāt //",
+    "english": "‘Powerful’ as leading to lasting and excellent results.",
+    "morphology": "balavantaḥ_balavat_PNM iti_iti_  / sthira_sthira_Cp udāra_udāra_Cp phala_phala_Cp tvāt_tva_SBNe  /"
+  },
+  {
+    "index": 2055,
+    "sanskrit": "kāraṇe samudetīdaṃ taistadā sahakāribhiḥ / sahakārikāraṇānāmabhāve vāsanā kutaḥ //",
+    "english": "You say that there are accessory causes, which give rise to the desires, but how could the will rise at first without any accessory cause whatever?",
+    "morphology": "kāraṇe_kāraṇa_SLNe samudeti_samudi_SPr3In idam_idam_SNNe taiḥ_tad_PIM tadā_tadā_ sahakāribhiḥ_sahakārin_PIM  / sahakāri_sahakārin_Cp kāraṇānām_kāraṇa_PGNe abhāve_abhāva_SLM vāsanā_vāsanā_SNF kutas_kutas_  /"
+  }
+]

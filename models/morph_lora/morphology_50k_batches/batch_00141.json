@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1120,
+    "sanskrit": "itthaṃ śivāśivakathāṃ vadanti munayo mune | kila kecidavidvāṃso viyogaśca kathaṃ tayoḥ || śivāśivacaritraṃ ko jānāti paramārthataḥ | svecchayā krīḍatasto hi caritaṃ kurutassadā ||",
+    "english": "67. But O sage, some ignorant Pandits thus narrate the story of Śivā and Śiva and their separation. But how can there be a real separation between the two? 68. Who knows the true life and conduct of Śivā and Śiva. They sport about of their own accord and make their own lives for ever.",
+    "morphology": "ittham_ittham_ śiva_śiva_Cp aśiva_aśiva_Cp kathām_kathā_SAF vadanti_vad_PPr3In munayaḥ_muni_PNM mune_muni_SVM  / kila_kila_ kecid_kaścit_PNM avidvāṃsaḥ_avidvas_PNM viyogaḥ_viyoga_SNM ca_ca_ katham_katham_ tayoḥ_tad_DuGM  / śiva_śiva_Cp "
+  },
+  {
+    "index": 1121,
+    "sanskrit": "ādeśo dīyatāmasya duḥkhaṃ kartuṃ ca nārhasi | avaśyaṃ yadi bhakto'si tatra preṣaya satvaram || 7 ||",
+    "english": "7. You give him orders and do not get worried. If you are a devotee of mine, send him fast there, of course.",
+    "morphology": "ādeśaḥ_ādeśa_SNM dīyatām_dā_SPr3ImPv asya_idam_SGM duḥkham_duḥkha_SANe kartum_kṛ_In ca_ca_ na_na_ arhasi_arh_SPr2In  / avaśyam_avaśyam_ yadi_yadi_ bhaktaḥ_bhakta_SNM asi_as_SPr2In tatra_tatra_ preṣaya_preṣay_SPr2Im satvaram_satvara_S"
+  },
+  {
+    "index": 1122,
+    "sanskrit": "ṛṣīṇām ca nadīnām ca kulānām ca mahātmanām prabhavaḥ na adhigantavyaḥ strīṇām duścaritasya ca",
+    "english": "The greatness of Rishis, of rivers, of river-banks, of high-souled men, and the cause of woman's wickedness, cannot be ascertained.",
+    "morphology": "ṛṣīṇām_ṛṣi_PGM ca_ca_U nadīnām_nadī_PGF ca_ca_U kulānām_kula_PGNe ca_ca_U mahātmanām_mahātman_PGM prabhavaḥ_prabhava_SNM na_na_U adhigantavyaḥ_adhigam_SNMGd strīṇām_strī_PGF duścaritasya_duścarita_SGNe ca_ca_U"
+  },
+  {
+    "index": 1123,
+    "sanskrit": "badanti dharmametāni codanāṃ gamayanti ca /",
+    "english": "It cannot be rightly held that they point out the Dharma, and yet have to point to Vedic texts for their authority.",
+    "morphology": "badanti_bhāṣ_PPr3In dharmam_dharma_SAM etāni_etad_PNNe"
+  },
+  {
+    "index": 1124,
+    "sanskrit": "asato 'pyavastutvād eva na kiñcitkriyate ityubhayathāpyakiñcitkaro virodhī /",
+    "english": "As regards the non-entity, nothing can be done to it, simply because it is non-existent. So that in both ways, the ‘antagonist’ can do nothing.",
+    "morphology": "asataḥ_asat_SGNe api_api_ avastu_avastu_Cp tvāt_tva_SBNe eva_eva_ na_na_ kiñcid_kaścit_SNNe kriyate_kṛ_SPr3InPv iti_iti_ ubhayathā_ubhayathā_ api_api_ akiñcitkaraḥ_akiñcitkara_SNM virodhī_virodhin_SNM  /"
+  },
+  {
+    "index": 1125,
+    "sanskrit": "etat candramasaḥ tīrtham ṛṣayaḥ paryupāsate",
+    "english": "O Yudhishthira! this is the bathing spot belonging to the Moon.",
+    "morphology": "etat_etad_SANe candramasaḥ_candramas_SGM tīrtham_tīrtha_SANe"
+  },
+  {
+    "index": 1126,
+    "sanskrit": "nāsya chidraṃ paro vidyād vidyāc chidraṃ parasya ca / gūhet kūrma ivāṅgāni rakṣed vivaram ātmanaḥ //",
+    "english": "His enemy should hot know his weak points, but he must know the weak points of the enemy; he should hide the departments of government as the tortoise does its limbs; and he should guard his own weak points0.",
+    "morphology": "na_na_ asya_idam_SGM chidram_chidra_SANe paraḥ_para_SNM vidyāt_vid_SPr3O vidyāt_vid_SPr3O chidram_chidra_SANe parasya_para_SGM ca_ca_  / gūhet_guh_SPr3O kūrmaḥ_kūrma_SNM iva_iva_ aṅgāni_aṅga_PANe rakṣet_rakṣ_SPr3O vivaram_vivara_SANe ātm"
+  },
+  {
+    "index": 1127,
+    "sanskrit": "piṣṭaiḥ taila ghṛtam pakvam kṣīreṇa aṣṭaguṇena tu",
+    "english": "This oil should be employed in the manner of an Anuvasana-vasti in cases of Gulma and retentions of stool and urine with a distension of the abdomen.",
+    "morphology": "piṣṭaiḥ_piṣ_PIPaPsNe taila_taila_NeCp ghṛtam_ghṛta_SNNe pakvam_pakva_SNNe"
+  }
+]

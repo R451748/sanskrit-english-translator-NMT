@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28432,
+    "sanskrit": "nāhantvaṃ labhyate sādho buddhyāloke nirīkṣitam / asadeva kuto'pyetadbālayakṣa ivoditam //",
+    "english": "He is neither I nor thou (the subjective or the objective); who is unknowable to the understanding, and invisible to the people in all the worlds; and yet He is represented as such and such, as false phantoms of the brain which presents themselves as ghosts to boys.",
+    "morphology": "na_na_ ahaṃtvam_ahaṃtva_SNNe labhyate_labh_SPr3InPv sādho_sādhu_SVM buddhi_buddhi_Cp āloke_āloka_SLM nirīkṣitam_nirīkṣ_SNPaNe  / asat_asat_SNNe eva_eva_ kutas_kutas_ api_api_ etat_etad_SNNe bāla_bāla_Cp yakṣaḥ_yakṣa_SNM iva_iva_ udita"
+  },
+  {
+    "index": 28433,
+    "sanskrit": "samyagjñātaṃ yāvadidaṃ jagadbrahmaiva kevalam / ajñātātmābhavadbrahma jñātātmanyadhunā sthitam //",
+    "english": "Perfect knowledge tells us, all these worlds to be but Brahma himself; but want of this knowledge says, I was no Brahma before, but now becomes so by my knowledge.",
+    "morphology": "samyak_samyak_ jñātam_jñā_SNPaNe yāvat_yāvat_ idam_idam_SNNe jagat_jagant_SNNe brahmā_brahman_SNM eva_eva_ kevalam_kevala_SNNe  / ajñāta_ajñāta_Cp ātmā_ātman_SNM abhavat_bhū_S3ImIn brahma_brahman_SNNe jñāta_jñā_PaCp ātmani_ātman_SLM ad"
+  },
+  {
+    "index": 28434,
+    "sanskrit": "dvitve ca pākajotpattau vibhāge ca vibhāgaje| yasya na skhalitā buddhistaṃ vai vaiśeṣikaṃ viduḥ ||",
+    "english": "\"Duality, change produced by baking, and disjunction produced by disjunction,—he whose mind vacillates not in these three is the true Vaiśeṣika;\" and therefore we will now show the manner of the production of duality, &c.",
+    "morphology": "dvi_dvi_Cp tve_tva_SLNe ca_ca_ pāka_pāka_Cp ja_ja_Cp utpattau_utpatti_SLF vibhāge_vibhāga_SLM ca_ca_ vibhāga_vibhāga_Cp je_ja_SLM yasya_yad_SGM na_na_ skhalitā_skhal_SNPaF buddhiḥ_buddhi_SNF tam_tad_SAM vai_vai_ vaiśeṣikam_vaiśeṣika_SAM vidu"
+  },
+  {
+    "index": 28435,
+    "sanskrit": "taṃ hovāca yatrāre brāhmaṇasyānveṣaṇā tad enam arccheti //",
+    "english": "Then the king said‘Oh, that place where search is made for the Brāhmaṇa there search him’",
+    "morphology": "tam_tad_SAM ha_ha_ uvāca_vac_SPs3In yatra_yatra_ are_are_ brāhmaṇasya_brāhmaṇa_SGNe anveṣaṇā_anveṣaṇa_SNF tat_tad_SANe enam_enad_SAM  /"
+  },
+  {
+    "index": 28436,
+    "sanskrit": "upāsate mahā rāja samastāḥ puruṣān iha",
+    "english": "These, O Monarch, approach and tempt men from every side.",
+    "morphology": "upāsate_upās_PPr3In mahā_mahat_Cp rāja_rāja_SVM samastāḥ_samasta_PNM"
+  },
+  {
+    "index": 28437,
+    "sanskrit": "anyathā hi ucitāḥ pūrvam para dravya apahāriṇaḥ",
+    "english": "Despoilers of other people's property, they had long lived in the enjoyment of their perquisites.",
+    "morphology": "anyathā_anyathā_U hi_hi_U ucitāḥ_ucita_PNM"
+  },
+  {
+    "index": 28438,
+    "sanskrit": "māyayāgniṃ samutthāpya dagdhavānnāṭyamaṃḍapam | dagdhaṃ kṛtvā ratnaliṃgaṃ pravṛṣṭosmi hutāśanam || 78 ||",
+    "english": "78. I created fire through my Māyā and burnt down the dance-pavilion. After making the gemset Liṅga burnt down, I entered the fire myself.",
+    "morphology": "māyayā_māyā_SIF agnim_agni_SAM samutthāpya_samutthāpay_Co dagdhavān_dah_SNPaM nāṭya_nāṭya_Cp maṇḍapam_maṇḍapa_SAM  / dagdham_dah_SAPaNe kṛtvā_kṛ_Co ratna_ratna_Cp liṃgam_liṅga_SANe pravṛṣṭaḥ_pravṛṣ_SNPaM asmi_as_SP"
+  },
+  {
+    "index": 28439,
+    "sanskrit": "aham tu tat vijānāmi vijetum yena śakyate yudhiṣṭhiram svayam rājan tat nibodha juṣasva ca",
+    "english": "But, O king, I know the means by which Yudhishthira himself may be vanquished.",
+    "morphology": "aham_mad_SN tu_tu_U tat_tad_SANe vijānāmi_vijñā_SPr1In vijetum_viji_In yena_yad_SINe śakyate_śak_SPr3InPv yudhiṣṭhiram_yudhiṣṭhira_SAM svayam_svayam_U rājan_rājan_SVM tat_tad_SANe nibodha_nibudh_SPr2Im juṣasva_juṣ_SPr2Im ca_ca_U"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46128,
+    "sanskrit": "tatas pratyāharat karma madam ca vyabhajat muniḥ",
+    "english": "Calling back Mada, the Rishi then assigned him the acts he was to do.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 46129,
+    "sanskrit": "na tvetadastyato nāsataḥ sadutpattiḥ /",
+    "english": "But neither of these two contingencies happens",
+    "morphology": "na_na_ tu_tu_ etat_etad_SNNe asti_as_SPr3In atas_atas_ na_na_ asataḥ_asat_SBNe sat_as_PaPrCp utpattiḥ_utpatti_SNF  /"
+  },
+  {
+    "index": 46130,
+    "sanskrit": "spardhate sarva devaiḥ yaḥ kāla upahata cetanaḥ",
+    "english": "And deprived of his senses by Fate, he challengeth the very gods.",
+    "morphology": "spardhate_spṛdh_SPr3In sarva_sarva_Cp devaiḥ_deva_PIM yā_yad_SNF"
+  },
+  {
+    "index": 46131,
+    "sanskrit": "vr̥ṣṭim divaḥ śata dhāraḥ pavasva sahasra sāḥ vāja yuḥ deva vītau sam sindhu bhiḥ kalaśe vāvaśānaḥ sam usriyābhiḥ pra tiran naḥ āyuḥ",
+    "english": "Pour, hundred-streamed, winner of thousands, mighty at the Gods' banquet, Pour the rain of heaven, While thou with rivers roarest in the beaker, and blent with milk prolongest our existence.",
+    "morphology": "vr̥ṣṭim_vrīṣṭi_SAF divaḥ_div_SGM śata_śata_NeCp dhāraḥ_dhārā_SVM pavasva_pū_SPr2Im sahasra_sahasra_NeCp sāḥ_sā_SNM vāja_vāja_MCp yuḥ_yu_SNM deva_deva_MCp vītau_vīti_SLF sam_sam_U sindhu_sindhu_MCp bhiḥ_bhis_U kalaśe_kalaśa"
+  },
+  {
+    "index": 46132,
+    "sanskrit": "strīmālābhogasnānecchūratikāmagrahī naraḥ //",
+    "english": "A man possessed by a planet having excessive desire would desire for women, garlands, enjoyment and bath.",
+    "morphology": "__strī_U __mālā_U __bhoga_U __snāna_U __icchu_U __rati_U __kāma_U __grahin_U __"
+  },
+  {
+    "index": 46133,
+    "sanskrit": "icche prasādāt tava satya saṃdha prāptum jayam pāṇḍaveyān ca hantum tena evam uktaḥ prahasat mahātmā",
+    "english": "Through thy grace, O thou that art firm in truth, I desire to obtain victory and slay the sons of Pandu.' Thus addressed by him, the high-souled son of Ganga, that foremost of all wielders of weapons, endued with great mental energy, understanding that Duryodhana was possessed by grief replied unto him, laughing the while though cheerless, saying,[408] 'Penetrating into (their) army with the utmost exertions and with my whole soul, O prince, I wish to give thee victory and joy.",
+    "morphology": "icche_iṣ_SPr1In prasādāt_prasāda_SBM tava_tvad_SG satya_satya_Cp saṃdha_saṃdhā_SVM prāptum_prāp_In jayam_jaya_SAM pāṇḍaveyān_pāṇḍaveya_PAM ca_ca_U hantum_han_In tena_tad_SIM evam_evam_U uktaḥ_vac_SNPaPsM prahasat_prahas_PaPrCp mah"
+  },
+  {
+    "index": 46134,
+    "sanskrit": "yad dhiraṇyaśalkaiḥ prokṣati yajñasya niṣkṛtyai |",
+    "english": "in that he anoints with fragments of gold, (it is) for the completion of the sacrifice;",
+    "morphology": "yat_yat_ hiraṇya_hiraṇya_Cp śalkaiḥ_śalka_PIM prokṣati_prokṣ_SPr3In yajñasya_yajña_SGM niṣkṛtyai_niṣkṛti_SDF"
+  },
+  {
+    "index": 46135,
+    "sanskrit": "dakṣaḥ pitā me mātā ca vīriṇī nau kutassatī | āhvānaṃ na karoti sma vismṛtā māṃ priyāṃ sutām ||",
+    "english": "10. “Dakṣa is my father. Vīriṇī is my mother. I am their beloved daughter Satī. Why did they not invite me? Have they forgotten their own beloved daughter?",
+    "morphology": "dakṣaḥ_dakṣa_SNM pitā_pitṛ_SNM me_mad_SG mātā_mātṛ_SNF ca_ca_ vīriṇī_vīriṇī_SNF nau_mad_DuG kutassatī_kutassat_SNF  / āhvānam_āhvāna_SANe na_na_ karoti_kṛ_SPr3In sma_sma_ vismṛtā_vismṛ_SNPaF mām_mad_SA priyām_priya_SAF s"
+  }
+]

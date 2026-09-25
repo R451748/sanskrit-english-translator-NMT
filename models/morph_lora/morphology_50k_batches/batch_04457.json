@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35648,
+    "sanskrit": "tataś ceyaṃ vyākhyā /",
+    "english": "But such superfluity can be, and has been, explained.",
+    "morphology": "tatas_tatas_ ca_ca_ iyam_idam_SNF vyākhyā_vyākhyā_SNF  /"
+  },
+  {
+    "index": 35649,
+    "sanskrit": "mucyet tathā āturaḥ rogāt duḥkhāt mucyeta duḥkhitaḥ",
+    "english": "When ill with disease, he becomes cured speedily, and afflicted with sorrow he becomes liberated from it with greatest ease.",
+    "morphology": "mucyet_muc_SPr3O tathā_tathā_U āturaḥ_ātura_SNM rogāt_roga_SBM duḥkhāt_duḥkha_SBNe mucyeta_muc_SPr3O duḥkhitaḥ_duḥkhita_SNM"
+  },
+  {
+    "index": 35650,
+    "sanskrit": "śastraiḥ ca bahubhiḥ rājan jaghnatuḥ tāvakān raṇe",
+    "english": "And with innumerable shafts, O king, these two began to smite down thy warriors in that battle.",
+    "morphology": "śastraiḥ_śastra_PINe ca_ca_U bahubhiḥ_bahu_PINe rājan_rājan_SVM jaghnatuḥ_han_DuPs3In tāvakān_tāvaka_PAM raṇe_raṇa_SLM"
+  },
+  {
+    "index": 35651,
+    "sanskrit": "tam utpatantam śayanāt aśvatthāmā mahā balaḥ keśeṣu ālambya pāṇibhyām niṣpipeṣa mahī tale",
+    "english": "As he was rising from his bed, the mighty Ashvatthama seized him by the hair of his head and began to press him down on the earth with his hands.",
+    "morphology": "tam_tad_SAM utpatantam_utpat_SAPaPrM śayanāt_śayana_SBNe aśvatthāmā_aśvatthāman_SNM mahā_mahat_Cp balaḥ_bala_SNM keśeṣu_keśa_PLM ālambya_ālamb_Co pāṇibhyām_pāṇi_DuIM niṣpipeṣa_niṣpiṣ_SPs3In mahī_mahī_FCp tale_tala_SLM"
+  },
+  {
+    "index": 35652,
+    "sanskrit": "asat vā hasitam kim cit ahitam vā api karmaṇā",
+    "english": "I never did any evil act;",
+    "morphology": "asat_asat_SNNe vā_vā_U hasitam_hasita_SNNe kim_ka_SNNe cit_cit_U ahitam_ahita_SNNe vā_vā_U api_api_U karmaḥ_karman_SINe"
+  },
+  {
+    "index": 35653,
+    "sanskrit": "pāpam prajñām nāśayati kriyamāṇam punar punar",
+    "english": "Sin, repeatedly perpetrated, destroyeth intelligence;",
+    "morphology": "pāpam_pāpa_SNNe prajñām_prajñā_SAF nāśayati_nāśay_SPr3In kriyamāṇam_kṛ_SNPaPrNePv"
+  },
+  {
+    "index": 35654,
+    "sanskrit": "teṣām prakopāt koṣṭha toda saṃcaraṇa amlikā pipāsā paridāha anna dveṣa hṛdaya utkledāḥ ca jāyante |",
+    "english": "The aggravated condition of the humours gives rise to pain and moves the wind Vayu) in the bowels; it further occasions acid eructations, thirst, burning sensations, aversion to food, vomiting and nausea.",
+    "morphology": "teṣām_tad_PGM prakopāt_prakopa_SBM koṣṭha_koṣṭha_MCp toda_toda_MCp saṃcaraṇa_saṃcaraṇa_NeCp amlikā_amlikā_FCp pipāsā_pipāsā_FCp paridāha_paridāha_MCp anna_anna_NeCp dveṣa_dveṣa_MCp hṛdaya_hṛdaya_NeCp utkledāḥ_utkleda_"
+  },
+  {
+    "index": 35655,
+    "sanskrit": "iti evam uktvā vacanam devadevaḥ vṛṣākapiḥ",
+    "english": "I am the one cause (of all the universe).--Having said these words, that God of gods, Vrishakapi by name, offered those Pindas, O learned Brahmana, on the breast of the Varaha mountains, with elaborate rites.",
+    "morphology": "iti_iti_U evam_evam_U uktvā_vac_Co vacanam_vacana_SANe devadevaḥ_devadeva_SNM vṛṣākapiḥ_vṛṣākapi_SNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7784,
+    "sanskrit": "ātmanā eva ātmanaḥ tena sṛṣṭaḥ mṛtyuḥ tadā bhavat",
+    "english": "he himself provided for his own death.",
+    "morphology": "ātmanā_ātman_SIM eva_eva_U ātmanaḥ_ātman_SGM teṣāṇīḥ_tad_SNM"
+  },
+  {
+    "index": 7785,
+    "sanskrit": "tasya nityam tathā āṣāḍhyām māghyām ca bahavaḥ dvijāḥ īpsitam bhojana varam labhante satkṛtam sadā",
+    "english": "Every year (on the days of full moon) of the months of Ashadha and Magha, a large number of Brahmanas used to receive from the Rakshasa chief, after proper honours, the best kinds of food that they desired.",
+    "morphology": "tasya_tad_SGM nityam_nityam_U tathā_tathā_U āṣāḍhyām_āṣāḍhī_SLF māghyām_māghī_SLF ca_ca_U bahavaḥ_bahu_PNM dvijāḥ_dvija_PNM īpsitam_īps_SAPaPsM bhojana_bhojana_NeCp varam_vara_SAM labhante_labh_PPr3In"
+  },
+  {
+    "index": 7786,
+    "sanskrit": "kim nu yuddhāt param lābham kṣatriyaḥ bahu manyate kim ca tvam kṣatriya kule jātaḥ saṃprathitaḥ bhuvi",
+    "english": "What doth a Kshatriya regard as a more estimable accession (of good fortune) than battle? Born thou hast beer in the Kshatriya order.",
+    "morphology": "kim_kim_U nu_nu_U yuddhāt_yuddha_SBNe param_para_SAM lābham_lābha_SAM kṣatriyaḥ_kṣatriya_SNM bahu_bahu_SANe manyate_man_SPr3In kim_kim_U ca_ca_U tvam_tvad_SN kṣatriya_kṣatriya_MCp kule_kula_SLNe jātaḥ_jan_SNPaPsM"
+  },
+  {
+    "index": 7787,
+    "sanskrit": "abhivādya mahā ṛṣīn sā pariṣvajya ca pāṇḍavān",
+    "english": "I have no other direction to give!' \"Vaisampayana continued, 'Having said this, the daughter of the king of Madras, the wedded wife of Pandu, ascended the funeral pyre of her lord, that bull among men.'\" SECTION CXXVI (Sambhava Parva continued) \"Vaisampayana said, 'The godlike Rishis, wise in counsels, beholding the death of Pandu, consulted with one another, and said, 'The virtuous and renowned king Pandu, abandoning both sovereignty, and kingdom came hither for practising ascetic austerities and resigned himself to the ascetics dwelling on this mountain.",
+    "morphology": "abhivādya_abhivāday_Co mahā_mahat_Cp ṛṣīn_ṛṣi_PAM sā_tad_SNF"
+  },
+  {
+    "index": 7788,
+    "sanskrit": "tatra yadi styānamiddhābhibhavād cittaṃ līnaṃ vā layābhiśaṅkā darśane tatkāle pramodya vastuni buddhapratimādau vā alokasaṃjñāmanasikaraḥ kartavyaḥ",
+    "english": "If overcome by indolence styāna and cowardice middha, the mind becomes absorbed or shows signs of getting absorbed, he should at once conceptualise mentally the supremely joyous things like the image of lord Buddha or an awareness of light ‘alökasamjñā.",
+    "morphology": "tatra_tatra_ yadi_yadi_ styānam_styai_SNPaNe iddha_iddha_Cp abhibhavāt_abhibhava_SBM cittam_citta_SNNe līnam_lī_SNPaNe vā_vā_ laya_laya_Cp abhiśaṅkā_abhiśaṅkā_SNF darśane_darśana_SLNe tad_tad_Cp kāle_kāla_SLM pramodya_pramoday_Co vastuni_"
+  },
+  {
+    "index": 7789,
+    "sanskrit": "bhāsmī bhūte ca yavane paripūrṇatamaḥ svayamsvarūpam darśayām āsa mucukundāya dhīmate",
+    "english": "When Kālayavana was thus burned to ashes, the original Supreme Personality of Godhead, Lord Kṛṣṇa, showed His own form to wise Mucukunda, a form that",
+    "morphology": "bhāsmī_bhāsmin_SNM bhūte_bhūta_SLM ca_ca_U yavane_yavana_SLM paripūrṇatamaḥ_paripūrṇatama_SNM"
+  },
+  {
+    "index": 7790,
+    "sanskrit": "lokata iti cet, laukikī tarhi pravṛttiḥ /",
+    "english": "It may be held that this would he learnt from worldly experience.",
+    "morphology": "lokataḥ_loka_SBM iti_iti_ ced_ced_"
+  },
+  {
+    "index": 7791,
+    "sanskrit": "evaṃ ca sūtravirodhaḥ / “ihāryaśravakasya duḥkhaṃ vā duḥkhato manasi kūrvataḥ samudayaṃ vā samudayato yāvat mārga vā mārgato manasi kurvato 'nāsraveṇa manasikāreṇa saṃprayukto yo dharmāṇo pravicaya” iti /",
+    "english": "and this hypothesis contradicts the Sūtra which says, '“The Śrāvaka, when he judges suffering as suffering, or origin as origin, or extinction as extinction, or path as path, there is then for him discernment of the dharmas associated with these pure judgments.",
+    "morphology": "evam_evam_ ca_ca_ sūtra_sūtra_Cp virodhaḥ_virodha_SNM  / iha_iha_ ārya_ārya_Cp śravakasya_śravaka_SGM duḥkham_duḥkha_SANe vā_vā_ duḥkhataḥ_duḥkha_SBNe manasi_manas_SLNe kūrvataḥ_kṛ_SGPaPrM samudayam_samudaya_SAM vā_vā_ samudayata"
+  }
+]

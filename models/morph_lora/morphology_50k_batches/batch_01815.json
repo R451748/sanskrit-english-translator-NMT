@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14512,
+    "sanskrit": "ādau hūṃkārasaṃyuktā khecache padabhūṣitā / vargātītavisargeṇa hrīṃ hūṃkṣepaphaḍantakā //",
+    "english": "The syllable hūṃ is at the beginning. Then the letters khe, ca, che, and the visarga that is outside the group of consonants are added. It ends with strīṃ, hūṃ, kṣepa and phaṭ.",
+    "morphology": "ādau_ādi_SLM hūṃkāra_hūṃkāra_Cp saṃyuktā_saṃyuj_SNPaF pada_pada_Cp bhūṣitā_bhūṣay_SNPaF  / varga_varga_Cp atīta_atī_PaCp visargeṇa_visarga_SIM __hrīṃ_"
+  },
+  {
+    "index": 14513,
+    "sanskrit": "vāyordhvajaṃ kuberasya gadāṃ gurvīṃ ca nirmame | viśvakarmā tathā śūlamīśānasya ca nirmame || 60 ||",
+    "english": "60. Viśvakarman made the Dhvaja (flagstaff) for Vayu, the Gadā (mace) for Kubera and the Śūla (trident) for Īśāna (Śiva).",
+    "morphology": "vāyoḥ_vāyu_SGM dhvajam_dhvaja_SAM kuberasya_kubera_SGM gadām_gadā_SAF gurvīm_guru_SAF ca_ca_ nirmame_nirmā_SPs3In  / viśvakarmā_viśvakarman_SNM tathā_tathā_ śūlam_śūla_SANe īśānasya_īśāna_SGM ca_ca_ nirmame_nirmā_SPs3In"
+  },
+  {
+    "index": 14514,
+    "sanskrit": "śākadvīpaṃ dviguṇato jaṃbūdvīpāttataḥ param | tāvatā kṣīratoyena samudreṇa parīvṛtam || 17 ||",
+    "english": "17. The Śāka Dvīpa is twice as much as Jaṃbū Dvīpa (in extent). It is surrounded by the Milky Ocean extending as much (as the dimension of Śāka Dvīpa).",
+    "morphology": "śākadvīpam_śākadvīpa_SNNe dviguṇatas_dviguṇatas_ jaṃbūdvīpāt_jambūdvīpa_SBM tatas_tatas_ param_para_SNNe  / tāvatā_tāvat_SIM kṣīra_kṣīra_Cp toyena_toya_SIM samudreṇa_samudra_SIM parīvṛtam_parīvṛ_SNPaNe"
+  },
+  {
+    "index": 14515,
+    "sanskrit": "citāṃ kāraya me bhadre svabhṛtyaistvaṃ varairlaghu | śive manassamāveśya pravekṣyāmi hutāśanam ||",
+    "english": "39. O gentle lady, prepare a pyre for me immediately through your servants. With my mind fixed in Śiva, I shall enter the fire.",
+    "morphology": "citām_citā_SAF kāraya_kāray_SPr2Im mama_mad_SG bhadre_bhadra_SVF sva_sva_Cp bhṛtyaiḥ_bhṛtya_PIM tvam_tvad_SN varaiḥ_vara_PIM laghu_laghu_SANe  / śive_śivā_SVF"
+  },
+  {
+    "index": 14516,
+    "sanskrit": "yakṣiṇī kācidānīya rudaṃtaṃ kasyacicchiśum | apibadrudhiraṃ koṣṭhāccakhādāsthi mṛṇālavat || 49 ||",
+    "english": "49. A female ogress brought someone’s crying child and drank the blood from its bowels and chewed the bone, as though it was a lotus stalk.",
+    "morphology": "yakṣiṇī_yakṣiṇī_SNF kācid_kaścit_SNF ānīya_ānī_Co rudantam_rud_SAPaPrM kasyacid_kaścit_SGM śiśum_śiśu_SAM  / apibat_pā_S3ImIn rudhiram_rudhira_SANe koṣṭhāt_koṣṭha_SBM cakhāda_khād_SPs3In asthi_asthi_SANe mṛṇāla_mṛṇ"
+  },
+  {
+    "index": 14517,
+    "sanskrit": "vaiśākhe māsi saṃprāpte yo vāpīṣvavagāhanam | prātaḥ kuryānmahārāja mahāpātakanāśanam || 17 ||",
+    "english": "17. He who, at the advent of the month of Vaiśākha, takes his bath in wells (outside the house) in the morning, gets (his) great sins destroyed.",
+    "morphology": "vaiśākhe_vaiśākha_SLM māsi_mās_SLM saṃprāpte_samprāp_SLPaM yaḥ_yad_SNM vāpīṣu_vāpī_PLF avagāhanam_avagāhana_SANe  / prātar_prātar_"
+  },
+  {
+    "index": 14518,
+    "sanskrit": "kṣudrajantulakṣaṇā ca kaṣṭā saṃsāragatiruktā /",
+    "english": "it has also been described that there is also a very troublesome course of births and rebirths whereby they become small animals",
+    "morphology": "kṣudra_kṣudra_Cp jantu_jantu_Cp lakṣaṇā_lakṣaṇa_SNF ca_ca_ kaṣṭā_kaṣṭa_SNF saṃsāra_saṃsāra_Cp gatiḥ_gati_SNF uktā_vac_SNPaF  /"
+  },
+  {
+    "index": 14519,
+    "sanskrit": "apsu vai varuṇaḥ sākṣād eva varuṇam ava yajate vartmanā vā anvitya yajñaṃ rakṣāṃsi jighāṃsanti sāmnā prastotānvavaiti sāma vai rakṣohā rakṣasām apahatyai trir nidhanam upaiti traya ime lokās |",
+    "english": "verily straightway he propitiates Varuna. The Raksases, following along by the path, seek to injure the sacrifice; the Prastotr follows along with the Saman, the slayer of Raksases, is the Saman; (verily it serves) for the smiting away of the Raksases. Thrice he performs the finale;",
+    "morphology": "apsu_ap_PLF vai_vai_ varuṇaḥ_varuṇa_SNM sākṣāt_sākṣāt_ eva_eva_ varuṇam_varuṇa_SAM ava_ava_ yajate_yaj_SPr3In vartmanā_vartman_SINe vai_vai_ anvitya_anvi_Co yajñam_yajña_SAM rakṣāṃsi_rakṣas_PNNe jighāṃsanti_jighāṃs_PPr3In "
+  }
+]

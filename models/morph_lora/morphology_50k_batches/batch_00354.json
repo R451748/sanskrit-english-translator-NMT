@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2824,
+    "sanskrit": "tat bhīma vegam rudhira ogha vāhi",
+    "english": "Marked by impetuous onsets blood flowed in streams in that encounter.",
+    "morphology": "tat_tad_SNNe"
+  },
+  {
+    "index": 2825,
+    "sanskrit": "yathā yavānāṃ sarvaṃ caitannabame vistareṇa vacyāmaḥ",
+    "english": "Inasmuch as there is no connection with distinct Apūrvas, and as in all cases equally there are perceptible effects produced, we must employ the Implements in accordance with their capabilities.",
+    "morphology": "yathā_yathā_ yavānām_yava_PGM sarva_sarva_SANe"
+  },
+  {
+    "index": 2826,
+    "sanskrit": "dvi āsyāt catur akṣāt pañca padāt anaṅgureḥ / vṛntāt abhi prasarpataḥ pari pāhi varīvṛtāt /",
+    "english": "From the five-footed, fingerless, from the four-eyed, the double- faced, From the Close-creeper, from the Worm, from the Quick-roller guard her well.",
+    "morphology": "dvi_dvi_Cp āsyāt_āsya_SBM catur_catur_Cp akṣāt_akṣa_SBM pañca_pañcan_Cp padāt_pada_SBM anaṅgureḥ_anaṅguri_SBM  / vṛntāt_vṛnta_SBM"
+  },
+  {
+    "index": 2827,
+    "sanskrit": "paradurgam avaskandya skandhaāvāraṃ vā patitaparānmukhaabhipannam uktakeśaśastrabhayavirūpebhyaś caabhayam ayudhyamānebhyaś ca dadyuḥ // paradurgam avāpya viśuddhaśatrupakṣaṃ kṛtaupāṃśudaṇḍapratīkāram antarbahiś ca praviśet //",
+    "english": "Having captured the fort or having returned to the camp after its capture, he should give quarter to those of the enemys army who, whether as lying prostrate in the field, or as standing with their back turned to the conqueror, or with their hair dishevelled, with their weapons thrown down or with their body disfigured and shivering under fear, surrender themselves After the captured fort is cleared of the enemys partisans and is well guarded by the conquerors men both within and without, he should make his victorious entry into it",
+    "morphology": "para_para_Cp durgam_durga_SANe avaskandya_avaskand_Co skandha_skandha_Cp āvāram_āvāra_SAM vā_vā_ patita_pat_PaCp parānmukha_parānmukha_Cp abhipannam_abhipad_SAPaNe ukta_vac_PaCp keśa_keśa_Cp śastra_śastra_Cp bhaya_bhaya_Cp virūpebhyaḥ_virūp"
+  },
+  {
+    "index": 2828,
+    "sanskrit": "brāhmaṇaiḥ ca tapaḥ siddhaiḥ tāpasaiḥ śramaṇaiḥ api triviṣṭapa samam manye tava āyatanam eva ha bandhu tvāt atha vā sakhyāt śalmale na atra saṃśayaḥ",
+    "english": "Resorted to also by Brahmanas crowned with ascetic success, by others engaged in penances, and by Yatis devoted to contemplation,[454] this thy region, I think, resembles heaven itself.'\" SECTION CLV \"Narada said, 'Without doubt, O Salmali, the terrible and irresistible god of the wind always protects thee from friendliness or amity.",
+    "morphology": "brāhmaṇaiḥ_brāhmaṇa_PIM ca_ca_U tapaḥ_tapas_NeCp siddhaiḥ_sidh_PIPaPsM tāpasaiḥ_tāpasa_PIM śramaṇaiḥ_śramaṇa_PIM api_api_U triviṣṭapa_triviṣṭapa_SVM samam_sama_SANe manye_man_SPr1In tava_tvad_SG āyatanam_āyatana_SANe eva_e"
+  },
+  {
+    "index": 2829,
+    "sanskrit": "gāṇḍīvam pāvakāt lebhe khāṇḍave pākaśāsaniḥ drumāt rukmī mahā tejāḥ vijayam pratyapadyata",
+    "english": "The bow called Gandiva was obtained by Indra's son (Arjuna) from Agni on the occasion of the burning of Khandava, while the bow called Vijaya was obtained from Drona by Rukmi of great energy.",
+    "morphology": "gāṇḍīvam_gāṇḍīva_SANe pāvakāt_pāvaka_SBM lebhe_labh_SPs3In khāṇḍave_khāṇḍava_SLM pākaśāsaniḥ_pākaśāsani_SNM drumāt_druma_SBM rukmī_rukmin_SNM mahā_mahat_Cp tejāḥ"
+  },
+  {
+    "index": 2830,
+    "sanskrit": "śivamiṣṭvā japecchaktimaṣṭamyādicaturdaśīṃ /",
+    "english": "After having propitiated Lord Śiva, one should repeat the mantra of the female energy on the eighth and fourteenth lunar days.",
+    "morphology": "śivam_śiva_SAM iṣṭvā_yaj_Co japet_jap_SPr3O śaktim_śakti_SAF aṣṭamī_aṣṭamī_Cp ādi_ādi_Cp caturdaśīm_caturdaśī_SAF "
+  },
+  {
+    "index": 2831,
+    "sanskrit": "na ca tad eva tasyā hetur iti //",
+    "english": "Therefore such a prohibition is absolutely unnecessary.",
+    "morphology": "na_na_ ca_ca_ tat_tad_SNNe eva_eva_ tasyāḥ_tad_SGF "
+  }
+]

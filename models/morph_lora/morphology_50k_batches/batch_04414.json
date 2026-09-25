@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35304,
+    "sanskrit": "lāghava artham dharaṇyāḥ tu tatas saṃhāraḥ iṣyate",
+    "english": "It is only for lightening the burthen of the earth that destruction is desirable.",
+    "morphology": "lāghava_lāghava_NeCp"
+  },
+  {
+    "index": 35305,
+    "sanskrit": "prayataḥ snāpaya sutaṃ tīrthe pāpavināśane | snānena tridinaṃ tatra brahmarakṣo vinaśyati || 86 ||",
+    "english": "86. Be self-restrained and make your son bathe in the Tīrtha named Pāpavināśana. By taking holy bath for three days there the Brahmarākṣasa perishes.",
+    "morphology": "prayataḥ_prayam_SNPaM snāpaya_snāpay_SPr2Im sutam_suta_SAM tīrthe_tīrtha_SLNe pāpa_pāpa_Cp vināśane_vināśana_SLNe  / snānena_snāna_SINe tri_tri_Cp dinam_dina_SANe tatra_tatra_ brahmarakṣaḥ_brahmarakṣaḥ_SNNe vinaśyati_vinaś_SPr3In"
+  },
+  {
+    "index": 35306,
+    "sanskrit": "sudarśanasukarṇākhyau vidyādharapateḥ sutau | muniśāpena duḥkhārtau ciṃtayāmāsaturbhṛśam || 46 || kartavyaṃ tau viniścitya sudarśanasukarṇakau | goviṃdasvāmināmānaṃ yamunātaṭavāsinam || 47 || brāhmaṇaṃ śīlasaṃpannaṃ pitṛtve parikalpya tau | parityajya svakaṃ rūpamajāyetāṃ tadā tmajau || 48 ||",
+    "english": "45b-50. When that great sage, the illustrious one, had gone, the Vidyādhara princes named Sudarśana and Sukarṇa became extremely worried on account of the sage’s curse. They began to ponder over this very much. Sudarśana and Sukarṇa came to a decision as to what they should do. They selected a Brāhmaṇa named Govindasvāmin, resident of a place on the banks of Yamunā, to be their father. Then they abandoned their real form and were born as his sons named Vijayadatta and Aśokadatta. The elder one named Sudarśana was born as the son named Vijayadatta. Sukarṇa, the younger one, became the son named Aśokadatta. Vijaya and Aśoka gradually attained the age of youth.",
+    "morphology": "sudarśana_sudarśana_Cp sukarṇa_sukarṇa_Cp ākhyau_ākhyā_DuNM vidyādhara_vidyādhara_Cp pateḥ_pati_SGM sutau_suta_DuNM  / muni_muni_Cp śāpena_śāpa_SIM duḥkha_duḥkha_Cp ārtau_ārta_DuNM ciṃtayāmāsatuḥ_cit_DuPs3InPe bhṛśam_bhṛś"
+  },
+  {
+    "index": 35307,
+    "sanskrit": "nārāyaṇa uvāca | mayi prasannau yadi vāṃ dīyatāmeṣa me varaḥ | mama vadhyāvubhau nānyaṃ yuvābhyāṃ prārthaye varam ||",
+    "english": "73. If you are pleased with me grant me this boon that I may kill you. I do not request for any other boon.",
+    "morphology": "nārāyaṇaḥ_nārāyaṇa_SNM uvāca_vac_SPs3In  / mayi_mad_SL prasannau_prasad_DuNPaM yadi_yadi_ vām_tvad_DuD dīyatām_dā_SPr3ImPv eṣa_etad_SNM me_mad_SG varaḥ_vara_SNM  / mama_mad_SG vadhyau_vadh_DuNMGd ubhau_ubh_DuNM na_na_ anyam_anya_SAM yuv"
+  },
+  {
+    "index": 35308,
+    "sanskrit": "tasmāt saṃdūṣite vahnau grahaṇī saṃpraduṣyati",
+    "english": "Hence anything that impairs the digestive fire (Agni) necessarily affects the Grahani.",
+    "morphology": "tasmāt_tasmāt_"
+  },
+  {
+    "index": 35309,
+    "sanskrit": "bhavati sarvamevaṃvidyannaṃ bhavatītyarthaḥ /",
+    "english": "that is, all edibles become food for him;",
+    "morphology": "bhavati_bhū_SPr3In sarva_sarva_Cp evaṃvidi_evaṃvid_SLM annam_anna_SNNe bhavati_bhū_SPr3In iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 35310,
+    "sanskrit": "pūrveṇa paścimasyaanupapattir vyāghātaḥ //",
+    "english": "Subsequent portion disagreeing with previous portion of a letter, causes contradiction vyágháta",
+    "morphology": "__pūrva_U __pa_U __"
+  },
+  {
+    "index": 35311,
+    "sanskrit": "saṃcayam ca prakopam ca prasaram sthāna saṃśrayam | vyaktim bhedam ca yaḥ vetti doṣāṇām sa bhavet bhiṣaj ||",
+    "english": "The physician, who fully knows about the accumulation (Sancaya), disturbance or aggravation (Prakopa), expansion (Prasara), and differentiating traits of the deranged humours (Bheda), and is well conversant with the specific localities in which they are respectively confined in the course of their expansion (Sthana-samshrayam), and with the symptoms which they respectively exhibit in connection with the incidental disease (Vyakti), is alone worthy of that epithet.",
+    "morphology": "saṃcayam_saṃcaya_SAM ca_ca_U prakopam_prakopa_SAM ca_ca_U prasaram_prasara_SAM sthāna_sthāna_NeCp saṃśrayam_saṃśraya_SAM  / vyaktim_vyakti_SAF bhedam_bheda_SAM ca_ca_U yaḥ_yad_SNM vetti_vid_SPr3In doṣāṇām_doṣa_PGM sa_tad_SNM bhavā_bh"
+  }
+]

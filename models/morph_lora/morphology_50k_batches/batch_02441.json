@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19520,
+    "sanskrit": "tenāvayavabandhena bahiḥ svairavihāriṇī / līlā'vilulitākārā yadā ramyeti bhāvataḥ //",
+    "english": "The same mendicant sat in his devotion, by controlling the actions of the members of his body, and began to reflect on outward objects, with great pleasure in his mind.",
+    "morphology": "tena_tad_SIM avayava_avayava_Cp bandhena_bandha_SIM bahis_bahis_ svaira_svaira_Cp vihāriṇī_vihārin_SNF  / līlā_līlā_Cp a_a_ vilulita_vilul_PaCp ākārā_ākāra_SNF yadā_yadā_ ramyā_ramya_SNF iti_iti_ bhāvataḥ_bhāva_SBM  /"
+  },
+  {
+    "index": 19521,
+    "sanskrit": "mahāpuruṣa //",
+    "english": "Thou art the great (unbounded) Purusha.",
+    "morphology": "__mahāpuruṣa_U"
+  },
+  {
+    "index": 19522,
+    "sanskrit": "iti gomaṇḍalaṃ vyākhyātam //",
+    "english": "Kautilyas Arthashastra Thus the manner of rearing herds of cattle has been dealt with",
+    "morphology": "iti_iti_ go_go_Cp maṇḍalam_maṇḍala_SNNe vyākhyātam_vyākhyā_SNPaNe  /"
+  },
+  {
+    "index": 19523,
+    "sanskrit": "madirāśvaḥ iti khyātaḥ pṛthivyām pṛthivīpatiḥ",
+    "english": "He was known by the name of Madiraswa and ruled over the Earth as her lord.",
+    "morphology": "madirāśvaḥ_madirāśva_SNM iti_iti_U khyā_khyā_SNPaPsM"
+  },
+  {
+    "index": 19524,
+    "sanskrit": "surāpānasamaṃ jñeyaṃ jīvanāyaiva vā paṭhet | agnihotraparityāgaḥ paṃcayajñopakarmaṇām || 38 || mātṛpitṛparityāgaḥ kūṭasākṣī suhṛdvadhaḥ | abhakṣyabhakṣaṇaṃ vanyajaṃtūnāṃ kāmyayā vadhaḥ || 39 || grāmaṃ vanaṃ gavāvāsaṃ yaśca krodhena dīpayet | iti ghorāṇi pāpāni surāpānasamāni ca || 40 ||",
+    "english": "A foolish-minded person who after learning scriptures abandons them, or he who learns scriptures for the sake of selfsustenance, incurs a sin that is equal to that of drinking liquor—it should be known. The following are terrible sins similar to drinking of liquor: Discontinuing Agnihotra, subsidiary holy rites of the five Yajñas, forsaking parents, perjury, slaying friends, eating prohibited foods, killing wild animals for pleasure, setting fire to villages, forests and cow-pens out of anger.",
+    "morphology": "surā_surā_Cp pāna_pāna_Cp samam_sama_SNNe jñeyam_jñā_SNNeGd jīvanāya_jīvana_SDNe eva_eva_ vā_vā_ paṭhet_paṭh_SPr3O  / agnihotra_agnihotra_Cp parityāgaḥ_parityāga_SNM paṃcayajña_pañcayajña_Cp upakarmaṇām_upakarman_PGNe  / mātṛ"
+  },
+  {
+    "index": 19525,
+    "sanskrit": "sāmantakānāṃ balavāhanīyatvādadharabhūmisāśaṅkatvācca /",
+    "english": "Because the thresholds of absorption are realized only through force, and again, because they include the fear of falling into a lower sphere.",
+    "morphology": "sāmantakānām_sāmantaka_PGM bala_bala_Cp vāhanīya_vah_GdCp tvāt_tva_SBNe adhara_adhara_Cp bhūmi_bhūmi_Cp sāśaṅka_sāśaṅka_Cp tvāt_tva_SBNe"
+  },
+  {
+    "index": 19526,
+    "sanskrit": "ya eṣa oṣadhiprasthe vivāhaḥ prāgabhū ttayoḥ | umātrinetrayo ramyaḥ sarvadevapramodakṛt || 6 || vaivasvate'ntare pūrvaṃ saṃjāto dvijasattamāḥ | saptamasya tu vikhyāto yuṣmākaṃ vidito'tra yaḥ || 7 ||",
+    "english": "6-7. Formerly it was in the Vaivasvata Manvantara[1] that the fascinating marriage of Umā and Trinetra (Śiva) took place in Oṣadhīprastha delighting all the Devas. O excellent Brāhmaṇas, this seventh Manu is well known and you all know the same.",
+    "morphology": "yaḥ_yad_SNM eṣaḥ_etad_SNM oṣadhiprasthe_oṣadhiprastha_SLNe vivāhaḥ_vivāha_SNM prāk_prāk_ abhūt_bhū_SPs3In tayoḥ_tad_DuGM  / umā_umā_Cp trinetrayoḥ_trinetra_DuGM ramyaḥ_ramya_SNM sarva_sarva_Cp deva_deva_Cp pramoda_pramoda_Cp kṛt"
+  },
+  {
+    "index": 19527,
+    "sanskrit": "saṃnyāsa kṛt śamaḥ śāntaḥ niṣṭhā śāntiḥ parāyaṇam",
+    "english": "He that is contented (in consequence of His utter dissociation with all worldly objects); He that is the Refuge of devotion and tranquillity of Soul (DLXXVII--DLXXXV);",
+    "morphology": "saṃnyāsa_saṃnyāsa_MCp kṛt_kṛt_SNM"
+  }
+]

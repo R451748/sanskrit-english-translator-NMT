@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22072,
+    "sanskrit": "sama āśramam samācāram sama jñānam atībalam",
+    "english": "And then Brahma was the sole refuge, and their manners and customs were naturally adapted to the attainment of Brahma and the objects of their knowledge was the sole Brahma, and all their acts also had reference to Brahma.",
+    "morphology": "saṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭāṣṭ"
+  },
+  {
+    "index": 22073,
+    "sanskrit": "sātyakim yadi hanyāmaḥ dhṛṣṭadyumnam ca pārṣatam asaṃśayam mahā rāja dhruvaḥ naḥ vijayaḥ bhavet",
+    "english": "If we can slay Satyaki and Dhrishtadyumna, the son of Prishata without doubt, O king, victory will be ours.",
+    "morphology": "sātyakim_sātyaki_SAM yadi_yadi_U hanyāmaḥ_han_PPr1In dhṛṣṭadyumnam_dhṛṣṭadyumna_SAM ca_ca_U pārṣatam_pārṣata_SAM asaṃśayam_asaṃśayam_U mahā_mahat_Cp rāja_rāja_SVM dhruvaḥ_dhruva_SNM naḥ_mad_PG vijayaḥ_vijaya_SNM bhavā"
+  },
+  {
+    "index": 22074,
+    "sanskrit": "kām buddhim samanudhyāya śāntaḥ carasi nirvṛtaḥ bodhyaḥ uvāca upadeśena vartāmi na anuśāsmi iha kam cana",
+    "english": "What is that under standing relying upon which thou succeedest in wandering over the world in tranquillity of soul and disengaged from all acts?' \"Vodhya said, 'I conduct myself according to the instructions of others but never instruct others myself.",
+    "morphology": "kām_ka_SAF buddhim_buddhi_SAF samanudhyāya_samanudhyā_Co śāntaḥ_śam_SNPaPsM carasi_car_SPr2In nirvṛtaḥ_nirvṛta_SNM bodhyaḥ_bodhay_SNMGd uvāca_vac_SPs3In upadeśena_upadeśa_SIM vartāmi_vṛt_SPr1In"
+  },
+  {
+    "index": 22075,
+    "sanskrit": "tasya nārāyaṇaḥ tuṣṭaḥ tena alaulyena karmaṇā",
+    "english": "And Narayana was gratified at that act of self-denial on the part of Garuda.",
+    "morphology": "tasya_tad_SGM nārāyaṇaḥ_nārāyaṇa_SNM tuṣṭaḥ_tuṣ_SNPaPsM"
+  },
+  {
+    "index": 22076,
+    "sanskrit": "atha kārakanirvartyā kriyā sā 'pīdānīṃ kāryatvāt savyāpārakārakakāryā bhaved ity anavasthā / niṣkriyakārakakāryatve tu kriyām iva phalam api niṣkriyāṇy eva kārakāṇi kuryur iti kiṃ kriyayā nanu karotīti kārakam /",
+    "english": "Now it is contended that the word 'bâraka' directly points to an act and that a substance does not acquire causal efficiency if an act does not inhere in it. It is true that etymological meaning of the word 'hāraka' is that what does something. But it may be argued that it does not bring about an act but only a result.",
+    "morphology": "atha_atha_ kāraka_kāraka_Cp nirvartyā_nirvṛt_SNFGd kriyā_kriyā_SNF sā_tad_SNF api_api_ idānīm_idānīm_ kārya_kṛ_GdCp tvāt_tva_SBNe sa_sa_ vyāpāra_vyāpāra_Cp kāraka_kāraka_Cp kāryā_kārya_SNF bhavet_bhū_SPr3O iti_iti_ anavasthā_anav"
+  },
+  {
+    "index": 22077,
+    "sanskrit": "aṣṭau prakṛtayaḥ proktāḥ vikārāḥ ca api ṣoḍaśa",
+    "english": "Eight principles have been called by the name of Prakriti, while sixteen have been called modifications.",
+    "morphology": "aṣṭau_aṣṭan_PNF prakṛtayaḥ_prakṛti_PNF"
+  },
+  {
+    "index": 22078,
+    "sanskrit": "tathā iti uktvā abruvan sarve yathā naḥ vadase anagha",
+    "english": "And let safety be always yours.' Vaisampayana continued,--'The Pandavas thereupon said,--O sinless one, let it be as thou sayest.",
+    "morphology": "tathā_tathā_U iti_iti_U uktvā_vac_Co"
+  },
+  {
+    "index": 22079,
+    "sanskrit": "caritam tasya śūrasya tat me sarvam prakīrtaya vaiśampāyanaḥ uvāca kathayiṣyāmi te tāta kathām etām mahātmanaḥ",
+    "english": "Therefore, recite to me in full the history of that hero.\" Vaisampayana said, \"O tiger among Kurus, I shall recite to thee that narration, excellent and extensive and unrivalled, in connection with the illustrious hero.",
+    "morphology": "caritam_carita_SANe tasya_tad_SGM śūrasya_śūra_SGM tat_tad_SANe me_mad_SD sarvam_sarva_SANe prakīrtaya_prakīrtay_SPr2Im vaiśampāyanaḥ_vaiśampāyana_SNM uvāca_vac_SPs3In kathayiṣyāmi_kathay_SFu1In te_tvad_SD tāta_tāta_SVM kathām_kathā_SNF"
+  }
+]

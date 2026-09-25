@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37992,
+    "sanskrit": "jātu saṃdhyānusaṃdhānamukulīkṛtalocanam | baddhāṃjalipuṭaṃ devamadrākṣīdadrinaṃdinī || 2 ||",
+    "english": "2. Once the daughter of the Mountain saw the Lord engaged in performing Sandhyā-rote when his eyes were closed and the palms were joined in reverence.",
+    "morphology": "jātu_jātu_ saṃdhyā_saṃdhyā_Cp anusaṃdhāna_anusaṃdhāna_Cp mukulīkṛta_mukulīkṛta_Cp locanam_locana_SAM  / baddha_bandh_PaCp añjali_añjali_Cp puṭam_puṭa_SAM devam_deva_SAM adrākṣīt_dṛś_SPs3InFs adrinaṃdinī_adrinandinī_SNF "
+  },
+  {
+    "index": 37993,
+    "sanskrit": "uṣṇīṣālaṃkāramaṇikanakarajatavastrāsanayānāmiṣāṃś ca //",
+    "english": "Or a turban, or ornaments, or jewels, or gold, or silver, or clothes, or a seat, or a vehicle, or (raw) meat;",
+    "morphology": "uṣṇīṣa_uṣṇīṣa_Cp alaṃkāra_alaṃkāra_Cp maṇi_maṇi_Cp kanaka_kanaka_Cp rajata_rajata_Cp vastra_vastra_Cp āsana_āsana_Cp yāna_yāna_Cp āmiṣān_āmiṣa_PAM ca_ca_  /"
+  },
+  {
+    "index": 37994,
+    "sanskrit": "ādiśabdena jñānābhidhānaparigrahaḥ /",
+    "english": "‘Ādi’ stands for being cognised, being spoken of and so forth.",
+    "morphology": "ādi_ādi_Cp śabdena_śabda_SIM jñāna_jñāna_Cp abhidhāna_abhidhāna_Cp parigrahaḥ_parigraha_SNM  /"
+  },
+  {
+    "index": 37995,
+    "sanskrit": "yady enaṃ me viśālākṣi bhartāram amaropamam /",
+    "english": "Do find out some refuge for me who am helpless.",
+    "morphology": "yadi_yadi_ enam_enad_SAM me_mad_SG viśāla_viśāla_Cp akṣe_akṣa_SVF bhartāram_bhartṛ_SAM amara_amara_Cp upamam_upama_SAM  /"
+  },
+  {
+    "index": 37996,
+    "sanskrit": "bhūrir-udapādityekaṃ parivartakam |",
+    "english": "wisdom arose, this is the first turning.",
+    "morphology": "bhūriḥ_bhūri_SNM udapāt_utpad_SPs3In iti_iti_ ekam_eka_SNNe parivartakam_parivartaka_SNNe"
+  },
+  {
+    "index": 37997,
+    "sanskrit": "raviruvāca | aṃtarātmāsi jagatāṃ viśvaṃbhara jagatpate | tavāpi pūjyaḥ kopyasti jagatpūjyātra mādhava || 50 ||",
+    "english": "Ravi said: 50. O Viśvaṃbhara, O Lord of the universe, you are the immanent soul of all the worlds. O Mādhava, worthy of being adored by the universe, is there anyone worthy of being adored here, even by you?",
+    "morphology": "raviḥ_ravi_SNM uvāca_vac_SPs3In  / antarātmā_antarātman_SNM asi_as_SPr2In jagatām_jagant_PGNe viśvaṃbhara_viśvambhara_SVM jagatpate_jagatpati_SVM  / tava_tvad_SG api_api_ pūjyaḥ_pūjay_SNMGd kaḥ_ka_SNM api_api_ asti_as_SPr3In jagat_jagant_S"
+  },
+  {
+    "index": 37998,
+    "sanskrit": "evaṃ tāvad ekatvaṃ paramāṇūnām asiddham /",
+    "english": "Thus it is established that Atoms cannot be one;",
+    "morphology": "evam_evam_ tāvat_tāvat_ eka_eka_Cp tvam_tva_SNNe paramāṇūnām_paramāṇu_PGM asiddham_asiddha_SNNe  /"
+  },
+  {
+    "index": 37999,
+    "sanskrit": "tatra tīrthe tu yaḥ snātvā vīkṣetkalakaleśvaram | vājapeyātparaṃ puṇyaṃ sa labhenmānavo bhuvi || 6 ||",
+    "english": "A man who takes his holy bath there in that Tīrtha and visits the deity, Kalakaleśvara, obtains a greater merit than that of Vājapeya here on the earth itself.",
+    "morphology": "tatra_tatra_ tīrthe_tīrtha_SLNe tu_tu_ yaḥ_yad_SNM snātvā_snā_Co vīkṣet_vīkṣ_SPr3O kalakaleśvaram_kalakaleśvara_SANe  / vājapeyāt_vājapeya_SBM param_para_SANe puṇyam_puṇya_SANe sa_tad_SNM labhet_labh_SPr3O mānavaḥ_mānava_SNM bhuvi"
+  }
+]

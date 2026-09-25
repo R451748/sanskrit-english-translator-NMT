@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21464,
+    "sanskrit": "dṛṣṭvā karma śāśvatam ca antavat ca",
+    "english": "Outward acts produce fruits that are transitory as also eternal.",
+    "morphology": "dṛṣṭvā_dṛś_Co karma_karman_SANe śāśvatam_śāśvata_SANe ca_ca_U antavat_antavat_SANe ca_ca_U"
+  },
+  {
+    "index": 21465,
+    "sanskrit": "paṃcāgnisādhikā devī grīṣma jāpyaparāyaṇā | varṣāsvākāśaśayanā hemaṃte salilāśayā || 10 ||",
+    "english": "10. Engaging herself in Japa, the goddess practised penance in the midst of five fires in summer. During rainy season, she remained lying down under the open sky. During Hemanta (early winter) she stood under water.",
+    "morphology": "pañcāgni_pañcāgni_Cp sādhakā_sādhaka_SNF devī_devī_SNF grīṣma_grīṣma_SVM jāpya_jāpya_Cp parāyaṇā_parāyaṇa_SNF  / varṣāsu_varṣā_PLF ākāśa_ākāśa_Cp śayanā_śayana_SNF hemaṃte_hemanta_SLM salila_salila_Cp āśayā_āśa"
+  },
+  {
+    "index": 21466,
+    "sanskrit": "viddhaḥ dharmaḥ hi adharmeṇa sabhām yatra prapadyate na ca asya śalyam kṛntanti viddhāḥ tatra sabhāsadaḥ",
+    "english": "When righteousness, pierced by unrighteousness, seeketh the protection of an assembly, if the arrow is not extracted, it is the members themselves that are pierced by that arrow.",
+    "morphology": "viddhaḥ_vyadh_SNPaPsM dharmaḥ_dharma_SNM hi_hi_U adharmeṇa_adharma_SIM sabhām_sabhā_SAF yatra_yatra_U prapadyate_prapad_SPr3In na_na_U ca_ca_U asya_idam_SGM śalyam_śalya_SANe kṛntanti_kṛt_PPr3In viddhāḥ_vyadh_PNPaPsM tatra_tatra_U sabhāsa"
+  },
+  {
+    "index": 21467,
+    "sanskrit": "netarau / tasmādavikalpakā ityucyante / yathā ekapādako 'śvo 'pādaka iti /",
+    "english": "This is why one says that they are free from vikalpa, in the same way that when a horse has only one foot, one says that it does not have any feet.",
+    "morphology": "na_na_ itarau_itara_DuNM  / tasmāt_tasmāt_ avikalpakāḥ_avikalpaka_PNM iti_iti_ ucyante_vac_PPr3InPv  / yathā_yathā_ eka_eka_Cp pādakaḥ_pādaka_SNM aśvaḥ_aśva_SNM a_a_ pādakaḥ_pādaka_SNM iti_iti_  /"
+  },
+  {
+    "index": 21468,
+    "sanskrit": "sā tu buddhiḥ kṛtā api evam pāṇḍavān prati me sadā duryodhanam samāsādya punar viparivartate",
+    "english": "Although, however, I incline in my mind towards the Pandavas even as thou teachest me to do, yet as soon as I come in contact with Duryodhana it turneth off in a different way.",
+    "morphology": "sā_tad_SNF tu_tu_U buddhiḥ_buddhi_SNF kṛtā_kṛ_SNPaPsF api_api_U evam_evam_U pāṇḍavān_pāṇḍava_PAM prati_prati_U me_mad_SG sadā_sadā_U duryodhanam_duryodhana_SAM samāsādya_samāsāday_Co punar_punar_U viparivartate_viparivṛt_SPr3In"
+  },
+  {
+    "index": 21469,
+    "sanskrit": "kasmādavinipātakadharmā bhavati /",
+    "english": "Why is the Srotaāpanna declared to be an avinipātadharman, “one incapable of falling into a painful realm of rebirth” ? Because he does not accumulate actions which cause him to fall into it;",
+    "morphology": "kasmāt_kasmāt_"
+  },
+  {
+    "index": 21470,
+    "sanskrit": "indraṃ viśvā avīvṛdhantsamudravyacasaṃ giraḥ / rathītamaṃ rathīnāṃ vājānāṃ satpatiṃ patim //",
+    "english": "All sacred songs have magnified Indra expansive as the sea",
+    "morphology": "indram_indra_SAM viśvāḥ_viśva_PNF avīvṛdhan_vṛdh_PPs3In samudra_samudra_Cp vyacasam_vyacas_SAM giraḥ_gir_PNF  / rathītamam_rathītama_SAM rathīnām_rathī_PGM vājānām_vāja_PGM satpatim_satpati_SAM patim_pati_SAM  /"
+  },
+  {
+    "index": 21471,
+    "sanskrit": "jñānājñānakṛtaṃ nityamaparādhasahasrakam | kṣamyatāṃ tava bhaktānāmananyaśaraṇekṣaṇāt || 10 ||",
+    "english": "10. O Lord who are the sole refuge of all, let thousands of offences committed everyday knowingly or unknowingly by your devotees be excused by you by glancing at them (kindly).”",
+    "morphology": "jñāna_jñāna_Cp ajñāna_ajñāna_Cp kṛtam_kṛ_SNPaNe nityam_nityam_ aparādha_aparādha_Cp sahasrakam_sahasraka_SNNe  / kṣamyatām_kṣam_SPr3ImPv tava_tvad_SG bhaktānām_bhakta_PGM ananya_ananya_Cp śaraṇa_śaraṇa_Cp īkṣaṇāt_īkṣaṇ"
+  }
+]

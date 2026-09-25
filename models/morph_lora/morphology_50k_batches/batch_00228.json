@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1816,
+    "sanskrit": "kathā prātyekaṃ dharmaskandha iti /",
+    "english": ", praṇidhiūñāna, o araṇā, etc. , are each one of them separately so many dharmaskandhas.",
+    "morphology": "kathā_kathā_SNF"
+  },
+  {
+    "index": 1817,
+    "sanskrit": "akāmātpātakaṃ śuṣkaṃ kāmādārdramudāhṛtam | ārdraśuṣkādibhiḥ pāpairdviprakārānavasthitān || 22 ||",
+    "english": "22. A sin that is committed without any intention is called Śuṣka (dry) and what which is committed with intention is known as Ārdra (wet). On the basis of Ārdra and Śuṣka sins, the hells are divided into two groups.",
+    "morphology": "akāmāt_akāma_SBM pātakam_pātaka_SNNe śuṣkam_śuṣka_SNNe kāmāt_kāma_SBM ārdram_ārdra_SNNe udāhṛtam_udāhṛ_SNPaNe  / ārdra_ārdra_Cp śuṣka_śuṣka_Cp ādibhiḥ_ādi_PINe pāpaiḥ_pāpa_PINe dvi_dvi_Cp prakārān_prakāra_PAM avasth"
+  },
+  {
+    "index": 1818,
+    "sanskrit": "madhye yadetadarthasya pratibhānaṃ prathāṃ gatam / sato vāpyasato vāpi tanmano viddhi netarat //",
+    "english": "The thinking principle is generally believed as something intermediate between the positive and negative, or real and unreal, you must know it as such and no other.",
+    "morphology": "madhye_madhya_SLNe yat_yad_SNNe etat_etad_SNNe arthasya_artha_SGM pratibhānam_pratibhāna_SNNe prathām_prathā_SAF gatam_gam_SNPaNe  / sataḥ_as_SGPaPrNe vā_vā_ api_api_ asataḥ_asat_SGNe vā_vā_ api_api_ tat_tad_SANe manaḥ_manas_SANe"
+  },
+  {
+    "index": 1819,
+    "sanskrit": "śrī nārada uvāca ity uktvā sauhṛdaṃ hṛdyaṃ sadyo vai kaṃsa bāṇayoḥ cakāra parayā śāntyā śivaḥ sākṣān maheśvaraḥ",
+    "english": "Śrī Nārada said: By speaking these words Lord Śiva, who is the Supreme Lord Himself, brought peace between Kaṃsa and Bāṇāsura and made them great friends.",
+    "morphology": "śrī_śrī_FCp nāradaḥ_nārada_SNM uvāca_vac_SPs3In iti_iti_ uktvā_vac_Co sauhṛdam_sauhṛda_SANe hṛdyam_hṛdya_SANe sadyas_sadyas_ vai_vai_ kaṃsa_kaṃsa_SVM bāṇayoḥ_bāṇa_DuGM cakāra_kṛ_SPs3In parayā_para_SIF śāntyā_śānti_SIF"
+  },
+  {
+    "index": 1820,
+    "sanskrit": "yajñahano vai devā yajñamuṣaḥ |",
+    "english": "The gods are destroyers of the sacrifice, stealers of the sacrifice [2];",
+    "morphology": "yajña_yajña_Cp hanaḥ_han_PNF"
+  },
+  {
+    "index": 1821,
+    "sanskrit": "pramādabhayāt karmasu ñjirdiṣṭānām, maryādaatikramabhayād āryāṇām, utsāhabhayāc ca tīṣkṇānām // lakṣitam alpaṃ vā caturbhāgam ardhakuḍubaṃ kuḍubam ardhaprasthaṃ prasthaṃ vāiti jñātaśaucā nirhareyuḥ //",
+    "english": "Lest workmen spoil the work in hand, and Aryas violate their decency and virtuous character, and lest firebrands commit indiscreet acts, liquor shall be sold to persons of well known character in such small quantities as onefourth or halfakudumba, one kudumba, halfaprastha, or one prastha Those who are well known and of pure character may take liquor out of shop",
+    "morphology": "pramāda_pramāda_Cp bhayāt_bhaya_SBNe karmasu_karman_PLNe ñjirdiṣṭānām_ñjirdiś_PGPaM maryāda_maryāda_Cp atikrama_atikrama_Cp bhayāt_bhaya_SBNe āryāṇām_ārya_PGM utsāha_utsāha_Cp bhayāt_bhaya_SBNe ca_ca_ tīṣkṇānām_tīṣkṇa_PG"
+  },
+  {
+    "index": 1822,
+    "sanskrit": "evaṃ pitrādīnām api vyākhyeyam /",
+    "english": "The same explanation applies to the case of the father and the rest also.",
+    "morphology": "evam_evam_ pitṛ_pitṛ_Cp ādīnām_ādi_PGM"
+  },
+  {
+    "index": 1823,
+    "sanskrit": "śrīvasiṣṭha uvāca / saumyāmbutve taraṅgatve salilasyāmbutā yathā / samaivābdhau tathā'dehasadehamunimuktatā //",
+    "english": "Vasishtha said:—I know gentle Rama that, liberation of the soul, whether in its embodied or disembodied state is both alike, as the sea-water and its waves are the same liquid substance.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / saumya_saumya_Cp ambu_ambu_Cp tve_tva_SLNe taraṅga_taraṃga_Cp tve_tva_SLNe salilasya_salila_SGNe ambu_ambu_Cp tā_tā_SNF yathā_yathā_  / samā_sama_SNF eva_eva_ abdhau_abdhi_SLM ta"
+  }
+]

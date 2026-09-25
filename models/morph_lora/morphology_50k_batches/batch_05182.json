@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41448,
+    "sanskrit": "laghunidhipatividyādhipaśambhūrdhvāntaṃ savīrabhadrapati | ekādaśabhirbāhye brahmāṇḍa pañcabhistathāntarikaiḥ |",
+    "english": "Inside the circle lie Ananta, Kapālīśa, Agni, Yama, Nirrti, Bala, Laghu, Nidiśvara, Vidyeśvara and Sambhu, these are the ten grades of creation. Along with them, there is the world of Virabhadrapati as the eleventh.",
+    "morphology": "laghu_laghu_Cp nidhi_nidhi_Cp pati_pati_Cp vidyādhipa_vidyādhipa_Cp śambhu_śambhu_Cp ūrdhva_ūrdhva_Cp antam_anta_SNNe sa_sa_ vīrabhadra_vīrabhadra_Cp pati_pati_SNNe  /"
+  },
+  {
+    "index": 41449,
+    "sanskrit": "śaṅkha dundubhi nirghoṣam vāraṇānām ca bṛṃhitam siṃhanādam ca sainyānām bhīmasena ravaḥ abhyabhūt",
+    "english": "And those roars of Bhimasena rose above the clamour of conches and drums, the grunts of elephants, and the leonine shouts of the combatants.",
+    "morphology": "śaṅkha_śaṅkha_MCp dundubhi_dundubhi_MCp nirghoṣam_nirghoṣa_SAM vāraṇānām_vāraṇa_PGM ca_ca_U bṛṃhitam_bṛṃhita_SANe siṃhanādam_siṃhanāda_SAM ca_ca_U sainyānām_sainya_PGM bhīmasena_bhīmasena_MCp ravaḥ_rava_SNM abhīṣā"
+  },
+  {
+    "index": 41450,
+    "sanskrit": "pakṣiṇaḥ ca mahā ghoram vyāharantaḥ vibabhramuḥ",
+    "english": "And birds, uttering fierce cries, hovered in the air.",
+    "morphology": "pakṣiṇaḥ_pakṣin_PNM"
+  },
+  {
+    "index": 41451,
+    "sanskrit": "sa nakṣatrapathaṃ gatvā divyaṃ svarbhānudarśitam / jahāra lakṣmīṃ somasya taṃ cāsya viṣayaṃ mahat //",
+    "english": "Thereupon repairing to the celestial road of stars pointed out by Sharbhānu that demon took, by force, the grace of the moon and his great object.",
+    "morphology": "sa_tad_SNM nakṣatra_nakṣatra_Cp patham_patha_SAM gatvā_gam_Co divyam_divya_SAM svarbhānu_svarbhānu_Cp darśitam_darśay_SAPaM  / jahāra_hṛ_SPs3In lakṣmīm_lakṣmī_SAF somasya_soma_SGM tam_tad_SAM ca_ca_ asya_idam_SGM viṣayaḥ_viṣaya_SNM "
+  },
+  {
+    "index": 41452,
+    "sanskrit": "cāturvedyam cāturhotram cāturāśramyam eva ca cāturvarṇyasya dharmam ca pṛccha enam pṛthivīpate",
+    "english": "O lord of the earth, enquire of him about the four branches of knowledge (in respect of morality, profit., pleasure and salvation), about the sacrifices and the rites laid down for the four orders, about the four modes of life, and about the kingly duties in full.",
+    "morphology": "cāturvedyam_cāturvedya_SANe cāturhotram_cāturhotra_SANe cāturāśramyam_cāturāśramya_SANe eva_eva_U ca_ca_U cāturvarṇyasya_cāturvarṇya_SGNe dharmam_dharma_SAM ca_ca_U pṛccha_pracch_SPr2Im enam_enad_SAM pṛthivīpate_pṛthivīpati_SVM"
+  },
+  {
+    "index": 41453,
+    "sanskrit": "samyak āsevyamānasya tulyam jātu na vidyate bhīṣmaḥ uvāca iti uktaḥ kṛtavān sarvam tathā śakraḥ purodhasā",
+    "english": "A person of good acts and good, agreeable, and sweet speeches, has no equal.' \"Bhishma continued, 'Thus addressed by his priest, Sakra began to act according to those instructions.",
+    "morphology": "samyak_samyak_U āsevyamānasya_āsev_SGPaPrMPv tulyam_tulya_SNNe jātu_jātu_U na_na_U vidyate_vid_SPr3InPv bhīṣmaḥ_bhīṣma_SNM uvāca_vac_SPs3In iti_iti_U uktaḥ_vac_SNPaPsM kṛtavān_kṛ_SNPaPsM sarvam_sarva_SANe tathā_tathā_U śakraḥ_śak"
+  },
+  {
+    "index": 41454,
+    "sanskrit": "anyadapyupapattyāptaṃ",
+    "english": "The others are also innate.",
+    "morphology": "__anya_U"
+  },
+  {
+    "index": 41455,
+    "sanskrit": "agramiva vai devānām madhyamiva manuṣyāṇām mūlamiva pitṝṇāṃ tasmādupamūlaṃ dināni bhavanti sakṛdācinnāni bhavanti sakṛdu hyevaparāñcaḥ pitarastasmātsakṛdācinnāni bhavanti //",
+    "english": "Now those (stalks of sacrificial grass) are severed with one stroke, and cut off near the root;--the top belongs to the gods, the middle part to men, and the root-part to the fathers: therefore they are cut off near the root. And with one stroke they are severed, because the fathers have passed away once for all.",
+    "morphology": "agram_agra_SNNe iva_iva_ vai_vai_ devānām_deva_PGM madhyam_madhya_SNNe iva_iva_ manuṣyāṇām_manuṣya_PGM mūlam_mūla_SNNe iva_iva_ pitṝṇām_pitṛ_PGM tasmāt_tasmāt_ upamūlam_upamūlam_ dināni_dina_PNNe bhavanti_bhū_PPr3In sakṛdācinnā"
+  }
+]

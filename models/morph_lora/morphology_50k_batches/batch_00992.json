@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7928,
+    "sanskrit": "antagrāhadṛṣṭeḥ śāśvatadṛṣṭirnityaviparyāsaḥ /",
+    "english": "That part of the belief in extremes which is a view of permanence constitutes one error;",
+    "morphology": "anta_anta_Cp grāha_grāha_Cp dṛṣṭeḥ_dṛṣṭi_SGM śāśvata_śāśvata_Cp dṛṣṭiḥ_dṛṣṭi_SNF nitya_nitya_Cp viparyāsaḥ_viparyāsa_SNM  /"
+  },
+  {
+    "index": 7929,
+    "sanskrit": "aprabuddhaṃ mano yāvattāvadeva bhramaṃ vinā / na prabodhamupāyāti tadākrośaśatairapi //",
+    "english": "So long as the mind is not awakened to the knowledge of truth, it remains in the darkness of error for ever; and is not to its right understanding; even by its traversing a hundred miles.",
+    "morphology": "aprabuddham_aprabuddha_SNNe manaḥ_manas_SNNe yāvat_yāvat_ tāvat_tāvat_ eva_eva_ bhramam_bhrama_SAM vinā_vinā_  / na_na_ prabodham_prabodha_SAM upāyāti_upāyā_SPr3In tadā_tadā_ ākrośa_ākrośa_Cp śataiḥ_śata_PINe api_api_  /"
+  },
+  {
+    "index": 7930,
+    "sanskrit": "na spṛśec caiva śiraḥ / hastenātmano 'nyena vāvayaveneti kecit /",
+    "english": "\"He shall not touch it\" his own head, with his own hand, or with any other part of the body, as some people have explained.",
+    "morphology": "na_na_ spṛśet_spṛś_SPr3O ca_ca_ eva_eva_ śiraḥ_śiras_SANe  / hastena_hasta_SIM ātmanaḥ_ātman_SGM anyena_anya_SIM vā_vā_ avayavena_avayava_SIM iti_iti_ kecid_kaścit_PNM  /"
+  },
+  {
+    "index": 7931,
+    "sanskrit": "garbhādhāny api doṣasaṃkrāntyā duṣṭaiva /",
+    "english": "Similarly the womb, is impure by contamination.",
+    "morphology": "garbhādhānī_garbhādhānī_SNF api_api_ doṣa_doṣa_Cp saṃkrāntyā_saṃkrānti_SIF duṣṭā_duṣ_SNPaF eva_eva_  /"
+  },
+  {
+    "index": 7932,
+    "sanskrit": "mattaḥ smṛtiḥ jñānam apohanam ca",
+    "english": "From Me are memory and knowledge and the loss of both.",
+    "morphology": "mattaḥ_mad_SNPaPsM"
+  },
+  {
+    "index": 7933,
+    "sanskrit": "tiṣṭhate yasya dehe tu ahorātraṃ dine dine | śaṃkhacakragadāpadmalikhitaṃ sa madātmakaḥ || 37 ||",
+    "english": "37. If the imprints of the conch, discus, iron-club and lotus are present on anyone’s body every day and night, he is identical with me.",
+    "morphology": "tiṣṭhate_sthā_SPr3In yasya_yad_SGM dehe_deha_SLM tu_tu_ ahorātram_ahorātra_SAM dine_dina_SLNe dine_dina_SLNe  / śaṃkha_śaṅkha_Cp cakra_cakra_Cp gadā_gadā_Cp padma_padma_Cp likhitam_likh_SNPaNe sa_tad_SNM mad_mad_Cp ātmakaḥ_ātmaka_SNM"
+  },
+  {
+    "index": 7934,
+    "sanskrit": "svāhā śirasyatha vaṣaṭśikhāyāṃ kavace c hūṃ /",
+    "english": "‘Obeisance would be for the heart, svāhā oblation for the head, vaṣaṭ for the tuft, huṃ for the armour, vauṣaṭ for the eye and phaṭ for the weapon.",
+    "morphology": "svāhā_svāhā_SNF śirasi_śiras_SLNe atha_atha_ vaṣaṭ_vaṣaṭ_ śikhāyām_śikhā_SLF kavace_kavaca_SLNe"
+  },
+  {
+    "index": 7935,
+    "sanskrit": "kṛṣṇavrīhi śālāmukha jatumukha nandīmukha lāvākṣaka tvaritaka kukkuṭa aṇḍaka pārāvata kapāṭaka prabhṛtayaḥ vrīhayaḥ ||",
+    "english": "The several species of Vrihis are known as the Krishna-Vrihi, Shalamukha, Jatumukha, Nandimukha, Lavakshaka, Taritaka, Kukkutandaka, Paravataka, and the Patala, etc.",
+    "morphology": "kṛṣṇavrīhi_kṛṣṇavrīhi_MCp śālāmukha_śālāmukha_MCp jatumukha_jatumukha_MCp nandīmukha_nandīmukha_MCp lāvākṣaka_lāvākṣaka_MCp tvaritaka_tvaritaka_MCp kukkuṭa_kukkuṭa_MCp aṇḍaka_aṇḍaka_MCp pārāvata_pārāvata_MCp ka"
+  }
+]

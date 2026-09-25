@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42640,
+    "sanskrit": "teṣāṃ dvayamādyavimokṣavat /",
+    "english": "These exist in the final sphere of the two Dhātus.",
+    "morphology": "teṣām_tad_PGM dvayam_dvaya_SNNe ādya_ādya_Cp vimokṣa_vimokṣa_Cp vat_vat_"
+  },
+  {
+    "index": 42641,
+    "sanskrit": "suhṛdbhiḥ an abhikhyātaiḥ tena rājā na riṣyate apakṛtya balasthasya dūra sthaḥ asmi iti na āśvaset",
+    "english": "Having injured a powerful king, one should not comfort himself with the thought that he (the injurer) lives at a great distance from the injured.",
+    "morphology": "suhṛdbhiḥ_suhṛd_PIM an_an_U abhikhyātaiḥ_abhikhyā_PIPaPsM tena_tena_U rājā_rājan_SNM na_na_U riṣyate_riṣ_SPr3InPv apakṛtya_apakṛt_Co balasthasya_balastha_SGM dūra_dūra_Cp sthaḥ_stha_SNM asmi_as_SPr1In iti_iti_U na_na_U āśvaset_ā"
+  },
+  {
+    "index": 42642,
+    "sanskrit": "sthitānātmānamāstīrya bhūmau vyādhyāturāniva / śvasanārtāṃścaladdehānvivartormimahābhujān //",
+    "english": "They having fallen down from high heaven, and stretching wide their huge bodies on the earth below; seem to be rolling grievously on the ground, with their deep groanings and breathings, and raising up their billowy arms, in order to lift themselves on high.",
+    "morphology": "sthitān_sthā_PAPaM ātmānam_ātman_SAM āstīrya_āstṛ_Co bhūmau_bhūmi_SLF vyādhi_vyādhi_Cp āturān_ātura_PAM iva_iva_  / śvasana_śvasana_Cp ārtān_ārta_PAM calat_cal_PaPrCp dehān_deha_PAM vivarta_vivarta_Cp ūrmi_ūrmi_Cp mahā_mahat_Cp bh"
+  },
+  {
+    "index": 42643,
+    "sanskrit": "asevanaṃ dharmasya śiṣṭākaraṇam /",
+    "english": "\"Not attending to duties\" not doing what has been enjoined.",
+    "morphology": "asevanam_asevana_SNNe dharmasya_dharma_SGM śiṣṭa_śās_PaCp akaraṇam_akaraṇa_SNNe  /"
+  },
+  {
+    "index": 42644,
+    "sanskrit": "śuśruve vaiṣṇavān dharmān sukhāsīnā dharā tadā //",
+    "english": "'Seated at ease, listen to me proclaiming the sacred laws.' The goddess of the earth, thereupon, seated at case, listened to the sacred precepts as, they came from the mouth of Vishnu.",
+    "morphology": "śuśruve_śru_SPs3In vaiṣṇavān_vaiṣṇava_PAM dharmān_dharma_PAM sukha_sukha_Cp āsīnā_ās_SNPaF dharā_dharā_SNF tadā_tadā_  /"
+  },
+  {
+    "index": 42645,
+    "sanskrit": "tāsāṃ bāṣpābhipūrṇāni nayanāni cakāśire / salilenāplutānīva paṅkajāni jalāgame //",
+    "english": "Their eyes, full of tears, imitated the beauty of lotuses immersed in water in the rainy season –. Their eyes appeared to have been bathed in blood.",
+    "morphology": "tāsām_tad_PGF bāṣpa_bāṣpa_Cp abhipūrṇāni_abhipṛ_PNPaNe nayanāni_nayana_PNNe cakāśire_kāś_PPs3In  / salilena_salila_SINe āplutāni_āplu_PNPaNe iva_iva_ paṅkajāni_paṅkaja_PNNe jalāgame_jalāgama_SLM  /"
+  },
+  {
+    "index": 42646,
+    "sanskrit": "sagaṇāḥ pratipūjyaṃtāṃ sarvasthāneṣu sarvadā | ayaṃ ca nihato daityastvatpādakṛtalāṃchanaḥ || 42 ||",
+    "english": "Mothers[3] have been created by you and they bestow all desired benefits. Let them be worshipped always along with the Gaṇas, in all places and regions.",
+    "morphology": "sa_sa_ gaṇāḥ_gaṇa_PNM pratipūjyaṃtām_pratipūjay_PPr3ImPv sarva_sarva_Cp sthāneṣu_sthāna_PLNe sarvadā_sarvadā_  / ayam_idam_SNM ca_ca_ nihataḥ_nihan_SNPaM daityaḥ_daitya_SNM tvad_tvad_Cp pāda_pāda_Cp kṛta_kṛ_PaCp lāṃchanaḥ_l"
+  },
+  {
+    "index": 42647,
+    "sanskrit": "punarāpūrayannāśāṃ punarapyāharandhanam / punarāvarjayankātāṃ khinno'smi vibhavasthitau //",
+    "english": "I am tired of all my possessions, and am weary of my continued accumulation of wealth, for the satisfaction of my endless desires. The live-long care of the family also has grown tiresome to me.",
+    "morphology": "punar_punar_ āpūrayan_āpūray_SNPaPrM āśām_āśā_SAF punar_punar_ api_api_ āharan_āhṛ_SNPaPrM dhanam_dhana_SANe  / punar_punar_ āvarjayan_āvarjay_SNPaPrM khinnaḥ_khid_SNPaM asmi_as_SPr1In vibhava_vibhava_Cp sthitau_sthiti_SLF  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30240,
+    "sanskrit": "anyathā vibhinnayogakṣematvād bheda eva bhavet /",
+    "english": "If this were not so, then as the fate befalling them would be different, the two would have to be regarded as different.",
+    "morphology": "__anyathā_U __vibhid_PaU __yogakṣema_U __tva_U __bheda_U"
+  },
+  {
+    "index": 30241,
+    "sanskrit": "dhvajam ādhiratheḥ chittvā sūtam abhyahanat tadā",
+    "english": "And then he slew, with a number of shafts his enemy's charioteer.",
+    "morphology": "dhvajam_dhvaja_SAM ādhiratheḥ_ādhirathi_SGM"
+  },
+  {
+    "index": 30242,
+    "sanskrit": "kariṇaḥ kariṇībhiśca modamānāḥ suvarcasaḥ | siṃhāstathā garjamānāḥ śārdūlaiḥ saha saṃgatāḥ || 15 ||",
+    "english": "15. Elephants of bright lustre rejoiced in the company of she-elephants. Similarly lions roared in the company of tigers.",
+    "morphology": "kariṇaḥ_karin_PNM kariṇībhiḥ_kariṇī_PIF ca_ca_ modamānāḥ_mud_PNPaPrM su_su_ varcasaḥ_varcas_PNM  / siṃhāḥ_siṃha_PNM tathā_tathā_ garjamānāḥ_garj_PNPaPrM śārdūlaiḥ_śārdūla_PIM saha_saha_ saṃgatāḥ_saṃgam_PNPaM"
+  },
+  {
+    "index": 30243,
+    "sanskrit": "sukumārau ca tau vidvān karābhyām muni sattamaḥ pasparśa amṛta kalpābhyām snehāt bharata sattama",
+    "english": "That best of ascetics, moved by affection, softly touched them with his hands whose healing virtues resembled those of nectar itself, O chief of the Bharatas.",
+    "morphology": "sukumārau_sukumāra_DuAM ca_ca_U tau_tad_DuAM vidvān_vid_SNPaPsM karābhyām_kara_DuIM muni_muni_MCp sattamaḥ_sattama_SNM pasparśa_spṛś_SPs3In amṛta_amṛta_Cp kalpābhyām_kalpa_DuIM"
+  },
+  {
+    "index": 30244,
+    "sanskrit": "praṇamya nāradaṃ rājā vacanaṃ cedamabravīt | kanyeyaṃ mama devarṣe pratijñāmakarotpurā || 34 ||",
+    "english": "34. After bowing down to Nārada, the king spoke these words: ‘This daughter of mine, O celestial sage, has taken this vow previously:",
+    "morphology": "praṇamya_praṇam_Co nāradam_nārada_SAM rājā_rājan_SNM vacanam_vacana_SANe ca_ca_ idam_idam_SANe abravīt_brū_S3ImIn  / kanyā_kanyā_SNF iyam_idam_SNF mama_mad_SG deva_deva_Cp ṛṣe_ṛṣi_SVM pratijñām_pratijñā_SAF akarot_kṛ_S3ImIn purā"
+  },
+  {
+    "index": 30245,
+    "sanskrit": "sa ya eṣa bahusāraḥ sa hāpaśavyastasmāttādṛśam paśukāmo yūpaṃ na kurvītātha ya eṣa phalguprāsahaḥ sa ha paśavyastasmāttādṛśam paśukāmo yūpaṃ kurvīta //",
+    "english": "Such a (sacrificial stake) as has much substance is not auspicious to cattle, whence he who desires to have cattle should not make such a one his sacrificial stake: but such a one as is of little hardness is auspicious to cattle, whence he who desires to have cattle should make such a one his sacrificial stake.",
+    "morphology": "sa_tad_SNM yaḥ_yad_SNM eṣa_etad_SNM bahu_bahu_Cp sāraḥ_sāra_SNM sa_tad_SNM ha_ha_ a_a_ paśavyaḥ_paśavya_SNM tasmāt_tasmāt_ tādṛśam_tādṛśa_SAM paśu_paśu_Cp kāmaḥ_kāma_SNM yūpam_yūpa_SAM na_na_ kurvīta_kṛ_SPr3O atha_atha_ ya"
+  },
+  {
+    "index": 30246,
+    "sanskrit": "tac chrutvā sa nṛpo vīraḥ sāvahelam uvāca tām / eṣaivātithyam asmākam anyat kim upayujyate // etac chrutvā tayā gatvā sakhyā sā śrāvitā tadā / mene mānyam udāraṃ taṃ sarvathā daityakanyakā //",
+    "english": "Then the heroic king answered in a carelessly negligent tone: “This garden is sufficient entertainment for me: what other entertainment do I require?” When that attendant came and reported this answer to the Daitya maiden, she considered that the king was a man of a noble spirit and deserving of the highest regard.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co sa_tad_SNM nṛpaḥ_nṛpa_SNM vīraḥ_vīra_SNM sa_sa_ avahelam_avahela_SANe uvāca_vac_SPs3In tām_tad_SAF  / eṣā_etad_SNF eva_eva_ ātithyam_ātithya_SNNe asmākam_mad_PG anyat_anya_SNNe kim_ka_SNNe upayujyate_upayuj_S"
+  },
+  {
+    "index": 30247,
+    "sanskrit": "ayam api upeyasāmānyanirdeśam āha /",
+    "english": "\"The end to be attained\" this also refers to all kinds of business in general.",
+    "morphology": "__idam_U"
+  }
+]

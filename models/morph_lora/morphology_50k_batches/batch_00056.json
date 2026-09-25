@@ -1,0 +1,50 @@
+[
+  {
+    "index": 440,
+    "sanskrit": "sa saṃgrahaṇaṃ prāpnuyāt / parastrīkāmatvaṃ saṃgrahaṇam /",
+    "english": "\"He incurs the guilt of adultery\"; \"adultery\" consists in making love to other people\" s wives.",
+    "morphology": "sa_tad_SNM saṃgrahaṇam_saṃgrahaṇa_SANe prāpnuyāt_prāp_SPr3O  / paraḥ_paraḥ_SNM"
+  },
+  {
+    "index": 441,
+    "sanskrit": "pṛthivyāṃ yaduvaṃśo 'yaṃ nindanīyo mahīkṣitām / bālaḥ kulāntakṛn mūḍho yeṣāṃ tvam anuśāsitā //",
+    "english": "stupid boy, the destroyer of his race like you, becoming our king the family of Yadus has become degraded among the royal families of the world.",
+    "morphology": "pṛthivyām_pṛthivī_SLF yadu_yadu_Cp vaṃśaḥ_vaṃśa_SNM ayam_idam_SNM nindanīyaḥ_nind_SNMGd mahīkṣitām_mahīkṣit_PGM  / bālaḥ_bāla_SNM kula_kula_Cp anta_anta_Cp kṛt_kṛt_SNM mūḍhaḥ_muh_SNPaM yeṣām_yad_PGM tvam_tvad_SN anu"
+  },
+  {
+    "index": 442,
+    "sanskrit": "tad asya garbhā anvāyattāḥ /",
+    "english": "on this the Embryos are dependent;",
+    "morphology": "tat_SANe ṛcā_ṛc_SIF "
+  },
+  {
+    "index": 443,
+    "sanskrit": "tapasvī yajña kṛt ca asi na tu te vidyate prajā",
+    "english": "Thou art an ascetic and hast also performed sacrifices; but thou hast no offspring.",
+    "morphology": "tapasvī_tapasvin_SNM"
+  },
+  {
+    "index": 444,
+    "sanskrit": "devebhya iti tena śabdenoddiśya śucau deśe māṃsasya prakṣepaḥ / yadi vā agnaye vāyave sūryāya jātavedasa iti devārcanaṃ kartavyam / agnau evaṃrūpā āhutayaḥ kṛtā agnimato 'nyatra na bhavanti / na cāgau homena vinā baliharaṇaṃ kartavyam, karmāntarasya prayogāntarasya ca pratipāditatvāt /",
+    "english": "What is meant by the \"worshipping of the Gods\" here is the offering of the meat on a clean spot with the words \"this is for the Gods\"; or that \"the worship of the Gods\" should be done in such terms as \"this to Agni, to Vāyu, to Surya, to Jātavedas\" That this must be the meaning of the \"worship\" is proved by the fact that \"offering of oblations into the fire\" which could he the other meaning \"worshipping the Gods\" is not possible for persons other than Agnihotrins; nor can there be any offering made to the Gods without oblations having been poured into the fire; specially as it has been already shown that the two are distinct actions and involve distinct methods of procedure.",
+    "morphology": "devebhyaḥ_deva_PDM iti_iti_ tena_tad_SIM śabdena_śabda_SIM uddiśya_uddiś_Co śucau_śuci_SLM deśe_deśa_SLM māṃsasya_māṃsa_SGNe prakṣepaḥ_prakṣepa_SNM  / yadi_yadi_ vai_vai_ agnaye_agni_SDM vāyave_vāyu_SDM sūryāya_sūrya_SDM jātaved"
+  },
+  {
+    "index": 445,
+    "sanskrit": "tanniścitasvarūpatvam āpannāḥ, ataḥ pratiṣidhyante /",
+    "english": "That is why this liability has got to be denied.",
+    "morphology": "tad_tad_Cp niścita_niści_PaCp sva_sva_Cp rūpa_rūpa_Cp tvam_tva_SANe āpannāḥ_āpad_PNPaM"
+  },
+  {
+    "index": 446,
+    "sanskrit": "yājakaiḥ śukla vāsobhiḥ hūyamānāḥ hutāśanāḥ agacchan agratas tasya dīpyamānāḥ su alaṃkṛtāḥ",
+    "english": "The priests clad in white walked in the van of the procession pouring libations of clarified butter on the sacred fire blazing in an ornamental vessel.",
+    "morphology": "yājakaiḥ_yājaka_PIM śukla_śukla_Cp vāsobhiḥ_vāsas_PIM hūyamānāḥ_hu_PNPaPrMPv hutāśanāḥ_hutāśana_PNM agacchan_gam_PPs3In agrataḥ_agra_SBNe tasya_tad_SGM dīpyamānāḥ_dīp_PNPaPrM su_su_U alaṃkṛtāḥ_alaṃkṛ_PNPaPsM"
+  },
+  {
+    "index": 447,
+    "sanskrit": "chandomayo jñānamayo'mṛtādhvā dharmātmako dharmasargābhipoṣṭā | unmūlitādharmasargo mahātmā tvamavyayaścākṣayo'vyaktabandhuḥ || 16 ||",
+    "english": "16. You are constituted of the Vedas, of knowledge; you are the path of immortality; you consist of Dharma; you are the support of the creation of Dharma; you have uprooted the source (or creation) of Adharma (sinfulness); you are immutable, imperishable, invisible kinsman.",
+    "morphology": "chandaḥ_chandas_Cp mayaḥ_maya_SNM jñāna_jñāna_Cp mayaḥ_maya_SNM amṛta_amṛta_Cp adhvā_adhvan_SNM dharma_dharma_Cp ātmakaḥ_ātmaka_SNM dharma_dharma_Cp sarga_sarga_Cp abhipoṣṭā_abhipoṣṭṛ_SNM  / unmūlita_unmūlay_PaCp adharma_adh"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28768,
+    "sanskrit": "tam prayāntam para anīkam sarva sainyena bhāratam saṃyattāḥ samare sarve pālayadhvam pitāmaham bāḍham iti evam uktvā tu tāni anīkāni sarvaśas",
+    "english": "Exerting your best, ye all, united together, and accompanied by your troops, protect in battle the grandsire, of Bharata's race, who is proceeding against the hostile army.' Saying, 'Yes,' all those divisions, belonging to those kings, O monarch, proceeded, following the grandsire.",
+    "morphology": "tam_tad_SAM prayāntam_prayā_SAPaPrM para_para_Cp anīkam_anīka_SAM sarva_sarva_Cp sainyena_sainya_SINe bhāratam_bhārata_SAM saṃyattāḥ_saṃyat_PNPaPsM samare_samara_SLNe sarve_sarva_PNM pālayadhvam_pālay_PPr2Im pitāmaham_pitāmaha_SAM bāḍha"
+  },
+  {
+    "index": 28769,
+    "sanskrit": "manuṣyāṇām akṣamātram,",
+    "english": "The proportion of a dose is as much as an aksha ? to men;",
+    "morphology": "manuṣyāṇām_manuṣya_PGM akṣa_akṣa_Cp mātram_mātra_SNNe"
+  },
+  {
+    "index": 28770,
+    "sanskrit": "patatāṃ bhuktimuktyādiprada eko harirdhruvaṃ /",
+    "english": "It is certain that Lord Hari Viṣṇu is the only god who confers enjoyment, emancipation etc.",
+    "morphology": "patatām_pat_PGPaPrM bhukti_bhukti_Cp mukti_mukti_Cp ādi_ādi_Cp pradaḥ_prada_SNM ekaḥ_eka_SNM hariḥ_hari_SNM dhruvam_dhruvam_  /"
+  },
+  {
+    "index": 28771,
+    "sanskrit": "prasīda deveśa jagannivāsa",
+    "english": "Be gracious, O God of gods, O thou that art the refuge of the Universe.",
+    "morphology": "prasīda_prasad_SPr2Im"
+  },
+  {
+    "index": 28772,
+    "sanskrit": "nāhaṃ saukhyena tāṃ gaṃgāṃ dhārayāmi sureśvari || 50 ||",
+    "english": "50. O goddess of Suras, it is not for my pleasure that I hold Gaṅgā.",
+    "morphology": "na_na_ aham_mad_SN saukhyena_saukhya_SINe tām_tad_SAF gaṃgām_gaṅgā_SAF dhārayāmi_dhāray_SPr1In sureśvari_sureśvarī_SVF"
+  },
+  {
+    "index": 28773,
+    "sanskrit": "barhiṣadaḥ pitara ūty arvāg imā vo havyā cakṛmā juṣadhvam / ta ā gatāvasā śaṃtamenāthā naḥ śaṃ yor arapo dadhāta //",
+    "english": "Fathers who sit on sacred grass, come help us: these offerings we have made for you; accept them. So come to us with most auspicious favour, and give us health and strength without a trouble. 56",
+    "morphology": "barhiṣadaḥ_barhiṣad_PVM pitaraḥ_pitṛ_PVM ūtī_ūti_SIF arvāk_arvāk_ imā_idam_PANe vaḥ_tvad_PD havyā_havya_PANe cakṛma_kṛ_PPs1In juṣadhvam_juṣ_PPr2Im  / te_tad_PNM ā_ā_ gata_gam_PPs2Im avasā_avas_SINe śaṃtamena_śaṃtama_SINe"
+  },
+  {
+    "index": 28774,
+    "sanskrit": "api naḥ tat bhavet bhūyaḥ yat vayam brāhmaṇaiḥ saha",
+    "english": "Vedamayi nou.",
+    "morphology": "api_api_U naḥ_mad_PG tat_tad_SNNe bhavet_bhū_SPr3O bhūyaḥ_bhūyas_SNNe yat_yat_U vayam_mad_PN brāhmaṇaiḥ_brāhmaṇa_PIM saha_saha_U"
+  },
+  {
+    "index": 28775,
+    "sanskrit": "yena labdhā purī kāśī trailokyoddharaṇakṣamā | trailokyaiśvaryaduṣprāpaṃ tena labdhaṃ mahāsukham || 41 ||",
+    "english": "41. A great happiness that is very difficult to achieve even with the riches of all the three worlds has been acquired by that man by whom the city of Kāśī capable of redeeming the three worlds, has been attained.",
+    "morphology": "yena_yad_SIM labdhā_labh_SNPaF purī_purī_SNF kāśī_kāśi_SNF trailokya_trailokya_Cp uddharaṇa_uddharaṇa_Cp kṣamā_kṣama_SNF  / trailokya_trailokya_Cp aiśvarya_aiśvarya_Cp duṣprāpam_duṣprāpa_SNNe tena_tad_SIM labdham_labh_SNPaNe mahā_"
+  }
+]

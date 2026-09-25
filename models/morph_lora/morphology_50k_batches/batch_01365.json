@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10912,
+    "sanskrit": "te tu tam vai samāsādya parivavruḥ samantataḥ",
+    "english": "Approaching him, those warriors encompassed that hero on all sides.",
+    "morphology": "te_tad_PNM"
+  },
+  {
+    "index": 10913,
+    "sanskrit": "vāruṇaṃ carum |",
+    "english": "to Varuna an oblation;",
+    "morphology": "vāruṇaḥ_vāruṇa_SNM"
+  },
+  {
+    "index": 10914,
+    "sanskrit": "tathāhyarthābhivyaktir eva jñānam ucyate nānyat, tasyāścābhivyakteḥ parokṣatve 'rthasyāpi parokṣatvaprasaṅgaḥ /",
+    "english": "Because what is spoken of as ‘Cognition’ of a thing is only its manifestation nothing else; if this manifestation then were imperceptible, the thing itself would be imperceptible;",
+    "morphology": "tathā_tathā_ hi_hi_ artha_artha_Cp abhivyaktiḥ_abhivyakti_SNF eva_eva_ jñānam_jñāna_SNNe ucyate_vac_SPr3InPv na_na_ anyat_anya_SNNe tasyāḥ_tad_SGF ca_ca_ abhivyakteḥ_abhivyakti_SGF parokṣa_parokṣa_Cp tve_tva_SLNe arthasya_artha_SGM api_api"
+  },
+  {
+    "index": 10915,
+    "sanskrit": "indra gomann ihā yāhi pibā somam̐ śatakrato / vidyadbhir grāvabhiḥ sutam // upayāmagṛhīto 'sīndrāya tvā gomate / eṣa te yonir indrāya tvā gomate // indrā yāhi vṛtrahan pibā somam̐ śatakrato / gomadbhir grāvabhiḥ sutam // upayāmagṛhīto 'sīndrāya tvā gomate / eṣa te yonir indrāya tvā gomate //",
+    "english": "Come hither, Indra, rich in kine! Drink Soma, Lord of Hundred Powers, Effused by braying pressing-stones. Taken upon a base art thou. Thee for Indra, rich in kine. This is thy home. Thee for Indra, rich in kine.5 O Indra, Vritra-slayer, come. Drink Soma, Lord of Hundred Powers, Expressed with stones whose wealth is kine. Taken upon a base art thou, etc., as in verse 4",
+    "morphology": "indra_indra_SVM goman_gomat_SVM iha_iha_ ā_ā_ yāhi_yā_SPr2Im piba_pā_SPr2Im somam_soma_SAM śatakrato_śatakratu_SVM  / vidyadbhiḥ_vid_PIPaPrM grāvabhiḥ_grāvan_PIM sutam_su_SAPaM  / upayāma_upayāma_Cp gṛhītaḥ_grah_SNPaM asi_as_SPr2In indr"
+  },
+  {
+    "index": 10916,
+    "sanskrit": "vṛkodaram bhṛśam abhipūjayan ca te yathā andhake pratinihate haram surāḥ",
+    "english": "And all of them paid their adorations unto Vrikodara even as the celestials did unto Mahadeva after Andhaka had been slain.",
+    "morphology": "vṛkodaram_vṛkodara_SAM bhṛśam_bhṛśam_U abhipūjayan_abhipūjay_PPs3In"
+  },
+  {
+    "index": 10917,
+    "sanskrit": "kiṃ cedamapi teṣāṃ sūtraṃ nāsti “sarvadharmā anātāna” iti / syāt matam /",
+    "english": "The position of the Vātsīputrīyas is moreover more inadmissable since their sect reads a Sūtra which says, “The dharmas are notWithout doubt we read this Sūtra.",
+    "morphology": "kim_ka_SNNe ca_ca_ idam_idam_SNNe api_api_ teṣām_tad_PGM sūtram_sūtra_SNNe na_na_ asti_as_SPr3In  / syāt_as_SPr3O"
+  },
+  {
+    "index": 10918,
+    "sanskrit": "sudhanvā ca samāgacchat prāhlādim keśinīm tathā",
+    "english": "And Sudhanwan saw there both Prahlada's son and Kesini.",
+    "morphology": "sudhanvā_sudhanvan_SNM"
+  },
+  {
+    "index": 10919,
+    "sanskrit": "ata ūrdhvam aśuśrūṣāyāṃ dvādaśapaṇaḥ striyā daṇḍaḥ, puṃso dviguṇaḥ //",
+    "english": "If after attaining their majority, they prove disobedient to lawful authority asusrúsháyám, women shall be fined panas and men, twice the amount",
+    "morphology": "atas_atas_ ūrdhvam_ūrdhvam_ a_a_ śuśrūṣāyām_śuśrūṣā_SLF dvādaśa_dvādaśan_Cp paṇaḥ_paṇa_SNM striyāḥ_strī_SGF daṇḍaḥ_daṇḍa_SNM puṃsaḥ_puṃs_SGM dviguṇaḥ_dviguṇa_SNM  /"
+  }
+]

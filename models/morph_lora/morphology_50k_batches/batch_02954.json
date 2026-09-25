@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23624,
+    "sanskrit": "eṣā dhīśaktiḥ| kriyāśaktirekāpi trividhopacaryatemanojavitvaṃ kāmarūpitvaṃ vikaraṇa dharmitvaṃ ceti|",
+    "english": "Śiva is the chief deity of the system, and the relation between the three is quaintly expressed by the allegory of a beast, its fetters, and its owner.",
+    "morphology": "eṣā_etad_SNF dhīśaktiḥ_dhīśakti_SNF"
+  },
+  {
+    "index": 23625,
+    "sanskrit": "pradyumnaputro 'pahṛtaḥ puṃścalyā tu hṛtaḥ striyā // māyāvidagdhāḥ puṃścalyo daityadānavayoṣitaḥ /",
+    "english": "That highly illustrious hero must have been tempted away by some courtezan. The women of the Daityas and Dānavas are by nature loose and tempting. Forsooth Pradyumna must have been taken away by them.",
+    "morphology": "pradyumna_pradyumna_Cp putraḥ_putra_SNM apahṛtaḥ_apahṛ_SNPaM puṃścalyā_puṃścalī_SIF tu_tu_ hṛtaḥ_hṛ_SNPaM striyā_strī_SIF  // māyā_māyā_Cp vidagdhāḥ_vidah_PNPaF puṃścalyaḥ_puṃścalī_PNF tāḥ_tā_PNF ḥ_tā_PNF tā"
+  },
+  {
+    "index": 23626,
+    "sanskrit": "vārāṇasī ca kāliṅgaṃ kulatā lāhulā tathā | upakṣetrāṣṭakaṃ prāhurhṛtpadmagradalāṣṭakam |",
+    "english": "These are Prayāga, Varaṇā, Aṭṭahāsa, Jayantikā, Vārāṇasi, Kalinga, Kulūta, and Lāhulā. They are considered to be representatives of the sub-areas being sub-petals.",
+    "morphology": "vārāṇasī_vārāṇasī_SNF ca_ca_ kāliṅgam_kāliṅga_SNNe kulatā_kulatā_SNF lāhulā_lāhulā_SNF tathā_tathā_  /"
+  },
+  {
+    "index": 23627,
+    "sanskrit": "rucir vṛddhir viśuddhiś ca phalam etad yathākramaṃ / bhājanatvaṃ yaḥ kuśalānukūlo vipākaḥ / balaṃ yā bhājanatvādhipatyāt kuśalasyādhimātratā /",
+    "english": "growing; becoming completely cleared: these, in order, are fruitions.\" IV. Becoming a receptacle is that maturation which is favorable to the beneficial. Power is where the beneficial becomes inten- sely great, due to the capacity coming from becoming a receptacle.",
+    "morphology": "ruciḥ_ruci_SNF vṛddhiḥ_vṛddhi_SNF viśuddhiḥ_viśuddhi_SNF ca_ca_ phalam_phala_SNNe etat_etad_SNNe yathākramam_yathākramam_  / bhājana_bhājana_Cp tvam_tva_SNNe yaḥ_yad_SNM kuśala_kuśala_Cp anukūlaḥ_anukūla_SNM vipākaḥ_vipāka_SNM  "
+  },
+  {
+    "index": 23628,
+    "sanskrit": "anasūyovāca | yadi tvaṃ suprasannā me vartase ca kṛpāmayi | sthātavyaṃ ca tvayā tāvanmatsvāmī yāvadā vrajet ||",
+    "english": "15. If you are delighted, if you have sympathy for me you will please stay here till my husband comes.",
+    "morphology": "anasūyā_anasūyā_SNF uvāca_vac_SPs3In  / yadi_yadi_ tvam_tvad_SN su_su_ prasannā_prasad_SNPaF me_mad_SG vartase_vṛt_SPr2In ca_ca_ kṛpā_kṛpā_Cp mayi_maya_SVF  / sthātavyam_sthā_SNNeGd ca_ca_ tvayā_tvad_SI tāvat_tāvat_ mad_mad_Cp svāmī_sv"
+  },
+  {
+    "index": 23629,
+    "sanskrit": "yadahaṃ yacca bhūtādi kālatritayabhāvi yat / dṛśyadarśanasaṃbandhavistāraistadvijṛmbhate //",
+    "english": "The knowledge of one's self and of other things, belonging to the past, present and future times; and the relation of the visibles with the sense of vision, are all the workings of the mind.",
+    "morphology": "yat_yad_SNNe aham_mad_SN yat_yad_SNNe ca_ca_ bhūta_bhūta_Cp ādi_ādi_SNNe kāla_kāla_Cp tritaya_tritaya_Cp bhāvi_bhāvin_SNNe yat_yad_SNNe  / dṛśya_dṛś_GdCp darśana_darśana_Cp saṇḍā_saṇḍā_SNF "
+  },
+  {
+    "index": 23630,
+    "sanskrit": "tato devāḥ śivaṃ natvā prārthayāmāsurīśvari | kalatrasaṃgrahaṃ deva kuru kāryārthasaṃgrahe || 23 || eṣa kāmastvayā dagdhaḥ krodhena mahatā svayam | vinā tena vibho naṣṭā sṛṣṭirvai dharaṇītale || 24 ||",
+    "english": "23-24. Thereafter, Devas bowed down to Śiva, O goddess of Suras, and prayed to him: “O Lord, in our interest do take up a wife unto you. In your limitless fury, this Kāma has been burnt down by you. O Lord, bereft of him the entire created beings of the surface of the world are no better than dead.”",
+    "morphology": "tatas_tatas_ devāḥ_deva_PNM śivam_śiva_SAM natvā_nam_Co prārthayāmāsuḥ_prārthay_PPs3InPe īśvari_īśvarā_SVF  / kalatra_kalatra_Cp saṃgraham_saṃgraha_SAM deva_deva_SVM kuru_kṛ_SPr2Im kārya_kārya_Cp artha_artha_Cp saṃgrahe_saṃgrah"
+  },
+  {
+    "index": 23631,
+    "sanskrit": "anyathā kathaṃ tadviṣayaṃ syād yadyanyākārapravṛttaṃ bhavet, nahyanyākārapravṛttaṃ tadviṣayaṃ yuktam atiprasaṅgād ityāśaṅkyāha bhinnam ityapi tadityādi //",
+    "english": "because it appears in the Verbal form ‘This is different Otherwise how could it apprehend the ‘difference’, if it appeared in any other form? When a certain apprehension appears in one form, it cannot be said to apprehend another; if it did so, it would lead to an absurdity.” The answer to this is ‘But the idea also, etc. etc.’ (1272)",
+    "morphology": "anyathā_anyathā_ katham_katham_ tad_tad_Cp viṣayam_viṣaya_SNNe syāt_as_SPr3O yadi_yadi_ anya_anya_Cp ākāra_ākāra_Cp pravṛttam_pravṛt_SNPaNe bhavet_bhū_SPr3O nahi_nahi_ anya_anya_Cp ākāra_ākāra_Cp pravṛttam_pravṛt_SNPaNe tad_tad_Cp v"
+  }
+]

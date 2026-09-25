@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20744,
+    "sanskrit": "samantataḥ sirāḥ daṃśāt vidhyet tu kuśalaḥ bhiṣaj",
+    "english": "A skillful physician should open the veins round the seat of the bite and bleed the affected part.",
+    "morphology": "samantataḥ_samantataḥ_U"
+  },
+  {
+    "index": 20745,
+    "sanskrit": "evam uktaḥ samāśvastaḥ sindhurājaḥ jayadrathaḥ",
+    "english": "Thus addressed (by Drona), Jayadratha, the ruler of the Sindhus, became comforted.",
+    "morphology": "evam_evam_U uktaḥ_vac_SNPaPsM samāśvastaḥ_samāśvas_SNPaPsM sindhurājaḥ_sindhurāja_SNM jayadrathaḥ_jayadratha_SNM"
+  },
+  {
+    "index": 20746,
+    "sanskrit": "mahi dyāvāpr̥thivī iti bhūtam urvī iti nārī iti yahvī iti na rodasī iti sadam naḥ tebhiḥ naḥ pātam sahyasaḥ ebhiḥ naḥ pātam śūṣaṇi",
+    "english": "MIGHTY are ye, and far-extended, Heaven and Earth: both Worlds are evermore to us like two young Dames. Guard us thereby from stronger foe; guard us hereby to give us strength.",
+    "morphology": "mahi_mahi_SANe dyāvāpr̥thivī_dyāvāprthivī_DuVF iti_iti_U bhūtam_bhū_DuPs2Im urvī_uru_DuNF iti_iti_U nārī_nārī_DuNF iti_iti_U yahvī_yahva_DuNF iti_iti_U na_na_U rodasī_rodas_DuNNe iti_iti_U sadam_sadam_U naḥ_mad_PA tebhiḥ_tad_PIM naḥ_m"
+  },
+  {
+    "index": 20747,
+    "sanskrit": "aḍhaukayac ca nāsāyāṃ mahīpālasya tasya tat / nīlotpalaṃ tadaivābhūttadgandhena sa nirviṣaḥ //",
+    "english": "And he put that lotus to the nose of that Mahīpāla, and the moment he smelt it he was free from the effects of poison.",
+    "morphology": "aḍhaukayat_ḍhaukay_S3ImIn ca_ca_ nāsāyām_nāsā_SLF mahīpālasya_mahīpāla_SGM tasya_tad_SGM tat_tad_SANe  / nīlotpalam_nīlotpala_SNNe tadā_tadā_ eva_eva_ abhūt_bhū_SPs3In tad_tad_Cp gandhena_gandha_SIM sa_tad_SNM nirviṣaḥ_nirviṣa_SNM "
+  },
+  {
+    "index": 20748,
+    "sanskrit": "abhyavarṣata parjanyaḥ prākampata ca medinī",
+    "english": "The clouds poured a (cool) shower (over him) and the Earth trembled.",
+    "morphology": "abhyavarṣata_abhivṛṣ_S3ImIn parjanyaḥ_parjanya_SNM prākampata_prakamp_S3ImIn"
+  },
+  {
+    "index": 20749,
+    "sanskrit": "na tatra dhṛtarāṣṭraḥ te śakyaḥ draṣṭum mahā mune gautamaḥ uvāca rathantaram yatra bṛhat ca gīyate",
+    "english": "O great ascetic, thou shalt not be able to discover Dhritarashtra there!' \"Gautama said, 'There where the foremost of Rathantaras is sung, where altars are strewn with the sacred Kusa blades, for the performance of Pundarika sacrifices, there where Soma-drinking Brahmanas go on vehicles drawn by excellent steeds,[453] proceeding even thither I shall force thee to yield up this elephant.",
+    "morphology": "na_na_U tatra_tatra_U dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM te_tvad_SG śakyaḥ_śakya_SNM draṣṭum_dṛś_In mahā_mahat_Cp mune_muni_SVM gautamaḥ_gautama_SNM uvāca_vac_SPs3In rathantaram_rathaṃtara_SNNe yatra_yatra_U bṛhat_bṛhant_SNNe"
+  },
+  {
+    "index": 20750,
+    "sanskrit": "saṃsāribhiḥ pṛthagjanair anucitamanabhyastam ity arthaḥ /",
+    "english": "The following Texts point out that the True Doctrine has never been known before by people at the stage of the common man: [see verses 3323-3324 above] ‘Not known to’ not practised by ‘worldly man’ common people.",
+    "morphology": "saṃsāribhiḥ_saṃsārin_PIM pṛthagjanaiḥ_pṛthagjana_PIM anucitam_anucita_SNNe anabhyastam_anabhyasta_SNNe iti_iti_ arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 20751,
+    "sanskrit": "nāpyarthāpattirasarvajñaṃ sādhayati /",
+    "english": "Nor again is Presumption able to prove the non-existence of the Omniscient Person.",
+    "morphology": "na_na_ api_api_ arthāpattiḥ_arthāpatti_SNF asarvajñam_asarvajña_SANe sādhayati_sādhay_SPr3In  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11424,
+    "sanskrit": "udite abhyutthitaḥ sūrye kauravyasya niveśanāt ājagāma arjunaḥ dhīmān gaṅgādvāra āśramam prati",
+    "english": "Accompanied by Ulupi he came back from the palace of Kauravya to the region where the Ganges entereth the plains.",
+    "morphology": "udite_udi_SLPaPsM abhyutthitaḥ_abhyutthā_SNPaPsM sūrye_sūrya_SLM kauravyasya_kauravya_SGM niveśanāt_niveśana_SBNe ājagāma_āgam_SPs3In arjunaḥ_arjuna_SNM dhīmān_dhīmat_SNM gaṅgādvāra_gaṅgādvāra_NeCp āśramaḥ_āśrama_SNM"
+  },
+  {
+    "index": 11425,
+    "sanskrit": "namo rohitāya sthapataye vṛkṣāṇāṃ pataye namo namo bhuvantaye vārivaskṛtāyauṣadhīnāṃ pataye namo namo mantriṇe vāṇijāya kakṣāṇāṃ pataye namo nama uccairghoṣāyākrandayate pattīnāṃ pataye namaḥ // namaḥ kṛtsnāyatayā dhāvate satvanāṃ pataye namo namaḥ sahamānāya nivyādhina āvyādhinīnāṃ pataye namo namo niṣaṅgiṇe kakubhāya stenānāṃ pataye namo nam nicerave paricarāyāraṇyānāṃ pataye namaḥ //",
+    "english": "Homage to the red architect, to the Lord of trees homage! Homage to him who stretched out the earth, to him who gives relief be homage. Homage to the Lord of Plants, homage to the prudent merchant! Homage to the Lord of bushes, to the shouting Lord of foot-soldiers who makes foes weep be homage. 20 Homage to the runner at full stretch, to the Lord of ministering spirits, homage! Homage to the conquering, piercing Lord of assailing bands, homage to the towering sword-bearer, to the Lord of thieves homage! Homage to the gliding robber, to the roamer, to the Lord of forests homage! 21",
+    "morphology": "namaḥ_namas_SNNe rohitāya_rohita_SDM sthapataye_sthapati_SDM vṛkṣāṇām_vṛkṣa_PGM pataye_pati_SDM namaḥ_namas_SNNe namaḥ_namas_SNNe bhuvantaye_bhuvanti_SDM vārivaskṛtāya_vārivaskṛta_SDM oṣadhīnām_oṣadhi_PGF pataye_pati_SDM nam"
+  },
+  {
+    "index": 11426,
+    "sanskrit": "vicārakāntamatayo nānekeṣu punaḥpunaḥ / luṭhanti duḥkhaśvabhreṣu jñātādhvagatayo narāḥ //",
+    "english": "Men with their minds illumed by the light of reason, are like travellers acquainted with their way, and are not liable to pit falls of incessant danger and misery.",
+    "morphology": "vicāra_vicāra_Cp kānta_kānta_Cp matayaḥ_mati_PNM na_na_ anekeṣu_aneka_PLM punar_punar_ punar_punar_  / luṭhanti_luṭh_PPr3In duḥkha_duḥkha_Cp śvabhreṣu_śvabhra_PLM jñāta_jñā_PaCp adhva_adhvan_Cp gatayaḥ_gati_PNM narāḥ_nara_PNM  "
+  },
+  {
+    "index": 11427,
+    "sanskrit": "eṣā devanadī puṇyā kauśikī bharata ṛṣabha viśvāmitra āśramaḥ ramyaḥ eṣa ca atra prakāśate",
+    "english": "O chief of Bharata's race! and this is the delightful hermitage of Viswamitra, conspicuous here.",
+    "morphology": "eṣā_etad_SNF devanadī_devanadī_SNF puṇyā_puṇya_SNF kauśikī_kauśikī_SNF bharata_bharata_MCp ṛṣabha_ṛṣabha_MCp viśvāmitra_viśvāmitra_MCp āśramaḥ_āśrama_SNM ramyaḥ_ramya_SNM eṣa_etad_SNM ca_ca_U atra_atra_U"
+  },
+  {
+    "index": 11428,
+    "sanskrit": "sa ca mauna vrata upetaḥ na eva tam pratyabhāṣata",
+    "english": "The sage, being under the vow of silence, returned no reply.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 11429,
+    "sanskrit": "saṃśita ātmā jita krodhaḥ tarpayan pitṛ devatāḥ",
+    "english": "Having his mind and passions under complete control, the king gratified by sacrifices the Pitris and the gods.",
+    "morphology": "saṃśita_saṃśita_Cp ātmā_ātman_SNM"
+  },
+  {
+    "index": 11430,
+    "sanskrit": "śrīvasiṣṭha uvāca / tato muhūrtena haro gaurīkamalinīsaraḥ / madvikāsonmukhaḥ svairaṃ vikāsaṃ bahirādade //",
+    "english": "Vasishtha said:—Then Hara, who is the lake of the lotus of Gauri (i.e. her husband), being desirous of my enlightenment, glanced on me for a minute, and gave utterance to his lecture.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / tatas_tatas_ muhūrtena_muhūrta_SIM haraḥ_hara_SNM gaurī_gaurī_Cp kamalinī_kamalinī_Cp saraḥ_saras_SANe  / mad_mad_Cp vikāsa_vikāsa_Cp unmukhaḥ_unmukha_SNM svairam_svaira_SAM"
+  },
+  {
+    "index": 11431,
+    "sanskrit": "paribhavaupaghātakutsaativādāṃś caeṣu na prayuñjīta //",
+    "english": "should avoid using contemptuous, threatening, defamatory, or harsh words towards them;",
+    "morphology": "paribhava_paribhava_Cp"
+  }
+]

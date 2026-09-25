@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12672,
+    "sanskrit": "yadi te tu na tiṣṭheyur upāyaiḥ prathamais tribhiḥ / daṇḍenaiva prasahyaitāñ śanakair vaśam ānayet //",
+    "english": "If they cannot be stopped by the three first expedients, then let him, overcoming them by force alone, gradually bring them to subjection.",
+    "morphology": "yadi_yadi_ te_tad_PNM tu_tu_ na_na_ tiṣṭheyuḥ_sthā_PPr3O upāyaiḥ_upāya_PIM prathamaiḥ_prathama_PIM tribhiḥ_tri_PIM  / daṇḍena_daṇḍa_SIM eva_eva_ prasahya_prasah_Co etān_etad_PAM śanakais_śanakais_ vaśam_vaśa_SAM ānayet_ānī_SP"
+  },
+  {
+    "index": 12673,
+    "sanskrit": "yasya yadapekṣitaṃ taṃ taṃ prati tadabhivṛddhiprārthanamāśīḥ /",
+    "english": "Wishing success in achieving one's desires is called blessing.",
+    "morphology": "yasya_yad_SGM yat_yad_SNNe apekṣitam_apekṣ_SNPaNe tam_tad_SAM tam_tad_SAM prati_prati_ tad_tad_Cp abhivṛddhi_abhivṛddhi_Cp prārthanam_prārthana_SNNe"
+  },
+  {
+    "index": 12674,
+    "sanskrit": "sarvārtham annaṃ vaiśvadevaśabdenocyate / tasmin nirvṛtte niṣpanne, bhuktavatsu sarveṣu, niḥśeṣite 'nne, yady anyo 'tithir āgacchet tasmai dadyāt punaḥ pakvānnam / na tu tasmāt pākabaliṃ haret /",
+    "english": "Food cooked for all is referred to here by the term \"Vaiśvadeva;\" on this being \"finished\" ie, all persons having eaten, and the food having been exhausted, if another guest should arrive, then for him also he shall provide cooked food; but out of this latter food, he shall not make the offering that is made out of food that is cooked in the household.",
+    "morphology": "sarva_sarva_Cp artham_artha_SAM annam_anna_SNNe vaiśvadeva_vaiśvadeva_Cp śabdena_śabda_SIM ucyate_vac_SPr3InPv  / tasmin_tad_SLNe nirvṛtte_nirvṛt_SLPaNe niṣpanne_niṣpad_SLPaNe bhuktavatsu_bhuj_PLPaM sarveṣu_sarva_PLM niḥśeṣite_niḥśe"
+  },
+  {
+    "index": 12675,
+    "sanskrit": "yena śāmyati taccettvaṃ kuruṣe tacchivaṃ bhavet / evam uktavatīmāsrtāṃ vayasyā tām abhāṣata // kuryāṃ kiṃ yanna nāmāhaṃ tavārthe brūhi tatsakhi / tac chrutvā sā hriyā kiṃcid iva rājasutābravīt //",
+    "english": "It would be a happy thing if you would take the only step likely to alleviate it.” When she said this in her pain, her friend answered her: “What would not I do for your sake? Tell me, my friend, what that step is.” When the princess heard this, she said with difficulty, as if ashamed: “Go, my dear friend, and bring my beloved here quickly;",
+    "morphology": "yena_yad_SINe śāmyati_śam_SPr3In tat_tad_SANe ced_ced_ tvam_tvad_SN kuruṣe_kṛ_SPr2In tat_tad_SNNe śivam_śiva_SNNe bhavet_bhū_SPr3O  / evam_evam_ vatīm_vac_SAPaF āsrtām_āsṛ_SAPaF vayasyā_vayasyā_SNF tām_tad_SAF abhāṣata_bhāṣ_S3ImIn "
+  },
+  {
+    "index": 12676,
+    "sanskrit": "te ca bhojanasajjāṃ tāṃ vediṃ kṛtvā yathākramam / tān upāveśayan devadyucarāsuramānuṣān //",
+    "english": "They prepared a place fit for dining, and caused the guests to sit down in order, gods, Vidyādharas and men.",
+    "morphology": "te_tad_PNM ca_ca_ bhojana_bhojana_Cp sajjām_sajjā_SAF tām_tad_SAF vedim_vedi_SAF kṛtvā_kṛ_Co yathākramam_yathākramam_  / tān_tad_PAM upāveśayan_upaveśay_P3ImIn"
+  },
+  {
+    "index": 12677,
+    "sanskrit": "naṃdinyuvāca | āgatāhaṃ mahāvyāghra satye ca śapathe sthitā | kuru tṛptiṃ yathākāmaṃ mama māṃsena sāṃpratam || 56 ||",
+    "english": "Nandinī said: 56. O great tiger, here I am. Abiding by my true and solemn oath I have came back. Now you can gratify yourself with my flesh.",
+    "morphology": "naṃdinī_nandinī_SNF uvāca_vac_SPs3In  / āgatā_āgam_SNPaF aham_mad_SN mahā_mahat_Cp vyāghra_vyāghra_SVM satye_satya_SLNe ca_ca_ śapathe_śapatha_SLM sthitā_sthā_SNPaF  / kuru_kṛ_SPr2Im tṛptim_tṛpti_SAF yathākāmam_yathākāma_SANe mama_"
+  },
+  {
+    "index": 12678,
+    "sanskrit": "karmaṇaḥ vivaram kurvan na lokān āpnuyāt śubhān loha yuktam yathā hem vipakvam na virājate tathā apakva kaṣāya ākhyam vijñānam na prakāśate",
+    "english": "On the other hand, one should create by one's acts a path for attaining to emancipation, without wishing for regions of felicity (in the next world).[728] As gold, when united with iron, loses its purity and fails to shine, even so Knowledge, when existing with attachment to earthly objects and such other faults, fails to put forth its splendour.[729] He who, influenced by cupidity and following the dictates of desire and wrath, practises unrighteousness, transgressing the path of righteousness, meets with complete destruction.[730] One who is desirous of benefiting oneself should never follow, with excess of attachments, earthly possessions represented by the objects of the senses.",
+    "morphology": "karmaṇaḥ_karman_SGNe vivaram_vivara_SANe kurvan_kṛ_SNPaPrM na_na_U lokān_loka_PAM āpnuyāt_āp_SPr3O śubhān_śubha_PAM loha_loha_NeCp yuktam_yuj_SNPaPsNe yathā_yathā_U hem_heman_SNNe vipakvam_vipakva_SNNe na_na_U virājate_virāj_SPr3In tathā_"
+  },
+  {
+    "index": 12679,
+    "sanskrit": "kasyāpi satkulasya bhraṣṭaśīlāyāṃ bhāryāyāṃ doṣaḥ sarvaṃ kulam upatiṣṭhatīti, na sādhvyaḥ striya eteṣām iti / atha vā pitṛpitāmahādīnāṃ saṃtatiśuddhyabhāvād aurdhvadaihikasyānivṛtte rakṣā syāt /",
+    "english": "If a single woman of a family loses her chastity, the illfame attaches to the whole family, the idea among the people being that \"the women of such and such a family are not chaste\". Or, the meaning may be that the said guarding is necessary in view of the fact that, if the purity of the progeny were not secured, there would be no proper fulfilment of the afterdeath rites performed in honour of one\" s ancestors.",
+    "morphology": "kasya_ka_SGNe api_api_ sat_sat_Cp kulasya_kula_SGNe bhraṣṭa_bhraṃś_PaCp śīlāyām_śīla_SLF bhāryāyām_bhāryā_SLF doṣaḥ_doṣa_SNM sarvam_sarva_SANe kulam_kula_SANe upatiṣṭhati_upasthā_SPr3In iti_iti_ na_na_ sādhvyaḥ_sādhu_PNF st"
+  }
+]

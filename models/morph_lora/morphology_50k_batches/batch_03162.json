@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25288,
+    "sanskrit": "uttaraḥ",
+    "english": "Meanwhile;",
+    "morphology": "uttarā_uttara_SNM"
+  },
+  {
+    "index": 25289,
+    "sanskrit": "bhagīrathasuto rājā śrutasenaḥ iti śrutaḥ | nābhāgastu sutastasya putraḥ paramadhārmikaḥ ||",
+    "english": "9. Bhagīratha’s son was Śrutasena. His son was the virtuous king Nābhāga.",
+    "morphology": "bhagīratha_bhagīratha_Cp sutaḥ_suta_SNM rājā_rājan_SNM śrutasenaḥ_śrutasena_SNM iti_iti_ śrutaḥ_śru_SNPaM  / nābhāgaḥ_nābhāga_SNM tu_tu_ sutaḥ_suta_SNM tasya_tad_SGM putraḥ_putra_SNM"
+  },
+  {
+    "index": 25290,
+    "sanskrit": "\" nedaṃ rajatam 'bādhakasya idaṃtāmātra bādhenāpyupapattau na rajatago-caratocitā | rajatasya dharmiṇo bāghe hi rajataṃca tasya dharma idaṃtā ca bādhite bhavetām ;taharamidaṃtaivāsya dharmo bādhyatām, na punā rajatamapidharmi;",
+    "english": "When the sublating cognition this is not silver is intelligible even as sublating the thiselement alone, it is not meet to take it to extend to the silverelement. For, if the substrate silver were sublated, then, both the silver and its attribute of thisness would be sublated it would be better to take it that the attribute thisness alone is sublated, not the substrate silver as well.",
+    "morphology": "na_na_ idam_idam_SNNe rajatam_rajata_SNNe a_a_ bādhakasya_bādhaka_SGNe idaṃtā_idaṃtā_Cp mātra_mātra_SNNe bādhena_bādha_SIM api_api_ upapattau_upapatti_SLF na_na_ rajata_rajata_Cp go_go_Cp cara_cara_Cp tā_tā_Cp ucitā_ucita_SNF  / rajatasya_ra"
+  },
+  {
+    "index": 25291,
+    "sanskrit": "madhuparko vyākhyātaḥ /",
+    "english": "\"Madhuparka\" has been already described.",
+    "morphology": "__madhu_U"
+  },
+  {
+    "index": 25292,
+    "sanskrit": "eṣa śeṣaḥ sthitaḥ nāgaḥ yena iyam dhāryate sadā tapasā loka mukhyena prabhāva mahatā mahī",
+    "english": "That Shesha dwelleth here, who, in consequence of his ascetic austerities of the foremost order, is able to support this earth with all her vastness.",
+    "morphology": "eṣa_etad_SNM śeṣaḥ_śeṣa_SNM sthitaḥ_sthā_SNPaPsM nāgaḥ_nāga_SNM yena_yad_SIM iyamāḥ_idam_PNF āhārīḥ_āhṛ_SNPaPsM"
+  },
+  {
+    "index": 25293,
+    "sanskrit": "antaḥsthaṃ kaṇṭhyoṣṭhyaṃ candrādvyāptistathonmanānteyam | evaṃ karmaṇi karmaṇi yatra kvāpi smaran vyāptim | | satatamalepo jīvanmukta parabhairavībhavati|",
+    "english": "b-a The child born of such a kind of mating irrespective of cherishing the memory of his actions in his different lives becomes redeemed therein, remains disentangled in those actions, becomes redeemed even while alive and gets transformed into Bhairava of the higher order.",
+    "morphology": "antaḥstham_antaḥstha_SNNe kaṇṭhya_kaṇṭhya_Cp uṣṭhyam_uṣṭhya_SNNe candrāt_candra_SBM vyāptiḥ_vyāpti_SNF tathā_tathā_ unmanā_unmanā_Cp antā_anta_SNF iyam_idam_SNF  / evam_evam_ karmaṇi_karman_SLNe karmaṇi_karman_SLNe yatra_y"
+  },
+  {
+    "index": 25294,
+    "sanskrit": "atha manyethāḥ atīta evārthoṃ jñānagrāhyastajjanakatvāditi tadapi bālabhāṣitam| vartamānatāvabhāsavirodhāt| indriyāderapi jñānajanakatvena grāhyatvaprasaṅgācca|",
+    "english": "Or (we may proceed) do you hold that a past object is cognitively apprehensible, as begetting cognition? If so, this is childish nonsense, because it conflicts with the apparent presentness of the object, and because on such a supposition the sense organs (and other imperceptible things) might be apprehended.",
+    "morphology": "atha_atha_ manyethāḥ_man_SPr2O atītaḥ_atī_SNPaM eva_eva_ arthaḥ_artha_SNM om_oṃ_ jñāna_jñāna_Cp grāhyaḥ_grah_SNMGd tad_tad_Cp janaka_janaka_Cp tvāt_tva_SBNe iti_iti_ tat_tad_SNNe api_api_ bāla_bāla_Cp bhāṣitam_bhāṣ_SNPaNe"
+  },
+  {
+    "index": 25295,
+    "sanskrit": "vipravāse guror ācāryakulāya / tair vipravāse 'anyebhyo 'api śrotriyebhyaḥ /",
+    "english": "If the teacher is not at home, he should announce it to a member of the teachers family, and, if they also are not at home, to some other vedic scholar.",
+    "morphology": "vipravāse_vipravāsa_SLM guroḥ_guru_SGM ācārya_ācārya_Cp kulāya_kula_SDNe  / taiḥ_tad_PIM vipravāse_vipravāsa_SLM ṛṇaḥ_ṛṇa_SNM  /"
+  }
+]

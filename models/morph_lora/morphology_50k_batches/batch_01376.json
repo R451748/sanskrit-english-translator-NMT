@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11000,
+    "sanskrit": "iṃdradyumna uvāca | devadeva jagannātha praṇatārtivināśana | trāhi māṃ puṃḍarīkākṣa patitaṃ bhavasāgare || 37 ||",
+    "english": "Indradyumna prayed: 37. O Lord of Devas, O Lord of the worlds, O destroyer of the agony of those who bow down (to you), save me, O lotus-eyed Lord. I have fallen into the ocean of worldly existence.",
+    "morphology": "iṃdradyumnaḥ_indradyumna_SNM uvāca_vac_SPs3In  / devadeva_devadeva_SVM jagannātha_jagannātha_SVM praṇata_praṇam_PaCp ārti_ārti_Cp vināśana_vināśana_SVM  / trāhi_trā_SPr2Im mām_mad_SA puṃḍarīkākṣa_puṃḍarīkākṣa_SVM patitam"
+  },
+  {
+    "index": 11001,
+    "sanskrit": "vilvāgnimanthaśyonākakāśmaryaḥ pārlā sthirā // trikaṇṭakaṃ pṛśnaparṇī vṛhatī kaṇṭakārikāḥ /",
+    "english": "Bilva, agnimantha, śyonāka, Kāśmarī, pāṭalā, sthirā, trikaṇṭaka, pṛśniparṇī, bṛhatī and kaṇṭakārikā are remedies for fever, indigestion, pain on the sides of the body and cough.",
+    "morphology": "vilva_vilva_Cp agnimantha_agnimantha_Cp śyonāka_śyonāka_Cp kāśmaryaḥ_kāśmarī_PNF pārlā_pārlā_SNF sthirā_sthirā_SNF  // trikaṇṭakam_trikaṇṭaka_SNNe pṛśnaparṇī_pṛśnaparṇī_SNF vṛhatī_vṛhatī_SNF kaṇṭakārikāḥ_k"
+  },
+  {
+    "index": 11002,
+    "sanskrit": "iti śrīviṣṇumahāhurāṇe dvitīraye 'ṃśe pañcamo 'dhyāya parāśara uvāca tataś ca narakā vipra bhuvodhaḥ salilasya ca / pāpino yeṣu pātyante tāñchṛṇuṣvamahāmune //",
+    "english": "Of the different hells or divisions of Naraka, below Pātāla the crimes punished in them respectively efficacy of expiation meditation on Viṣṇu the most effective expiation. I will now, great Muni, give you an account of the hells which are situated beneath the earth and beneath the waters, and into which sinners are finally sent.",
+    "morphology": "iti_iti_ śrī_śrī_Cp viṣṇu_viṣṇu_Cp mahāhurāṇe_mahāhurāṇa_SLNe dvitīraye_dvitīraya_SLM aṃśe_aṃśa_SLM pañcamaḥ_pañcama_SNM adhyāya_adhyāya_SNM parāśaraḥ_parāśara_SNM uvāca_vac_SPs3In tatas_tatas_ ca_ca_ narakāḥ_nar"
+  },
+  {
+    "index": 11003,
+    "sanskrit": "taponiṣṭhā jñānaniṣṭhāḥ śrutiśāstraviśāradāḥ | viṣṇurūpāḥ sadā pūjyā netare tu kadācana || 35 ||",
+    "english": "35. Those who strictly adhere to penance, those who possess perfect knowledge, those who are experts in the Vedas and scriptures are like Viṣṇu incarnate. They should be worshipped always and never the others.",
+    "morphology": "tapaḥ_tapas_Cp niṣṭhāḥ_niṣṭhā_PNM jñāna_jñāna_Cp niṣṭhāḥ_niṣṭhā_PNM śruti_śruti_Cp śāstra_śāstra_Cp viśāradāḥ_viśārada_PNM  / viṣṇu_viṣṇu_Cp rūpāḥ_rūpa_PNM sadā_sadā_ pūjyāḥ_pūjay_PNMGd na_na_ "
+  },
+  {
+    "index": 11004,
+    "sanskrit": "yāḥ phalinīḥ yāḥ aphalāḥ apuṣpāḥ yāḥ ca puṣpiṇīḥ br̥haspati prasūtāḥ tāḥ naḥ muñcantu aṁhasaḥ",
+    "english": "Let fruitful Plants, and fruitless, those that blossom, and the blossomless, Urged onward by Br̥ihaspati, release us from our pain and grief;",
+    "morphology": "yāḥ_yad_PNF phalinīḥ_phalin_PNF yāḥ_yad_PNF aphalāḥ_aphala_PNF apuṣpāḥ_apuṣpa_PNF yāḥ_yad_PNF ca_ca_U puṣpiṇīḥ_puṣpin_PNF br̥haspati_brahaspati_MCp prasūtāḥ_prasū_PNPaPsF tāḥ_tad_PNF naḥ_mad_PA muñcantu_muc_PPr3Im"
+  },
+  {
+    "index": 11005,
+    "sanskrit": "tad-yathāpi nāma bhikṣavaḥ,",
+    "english": "Just as though, monastics,",
+    "morphology": "tat_tad_SNNe yathā_yathā_ api_api_ nāma_nāma_"
+  },
+  {
+    "index": 11006,
+    "sanskrit": "parāvaraviśeṣajñā yāṃ yānti samadarśinaḥ /",
+    "english": "This is known to persons who impartially look into the essence of things.",
+    "morphology": "parāvara_parāvara_Cp viśeṣa_viśeṣa_Cp jñāḥ_jña_PNM yām_yad_SAF yānti_yā_PPr3In sama_sama_Cp darśiṇaḥ_darśin_PNM "
+  },
+  {
+    "index": 11007,
+    "sanskrit": "etāḥ śmaśānajā raudrā ambāṣṭakamidaṃ smṛtaṃ //",
+    "english": "These are all spoken as fierce forms arising from the cremation ground. The above are remembered as the eight forms of the goddess.",
+    "morphology": "etāḥ_etad_PNF śmaśāna_śmaśāna_Cp jāḥ_ja_PNF raudrāḥ_raudra_PNF ambā_ambā_Cp aṣṭakam_aṣṭaka_SNNe idam_idam_SNNe smṛtam_smṛ_SNPaNe  /"
+  }
+]

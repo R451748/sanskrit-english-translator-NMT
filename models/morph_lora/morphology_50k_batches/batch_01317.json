@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10528,
+    "sanskrit": "aṭavīṣu aparaḥ kāryaḥ sāmanta nagareṣu ca",
+    "english": "He should select a third from among those residing in the forests, and a fourth from among those dwelling in the kingdoms paying tribute to him.",
+    "morphology": "aṭavīṣu_aṭavī_PLF apahā_apahā_SNF"
+  },
+  {
+    "index": 10529,
+    "sanskrit": "kairātikā kumārikā sakā khanati bheṣajam / hiraṇyayībhiḥ abhribhiḥ girīnām upa sānuṣu /",
+    "english": "The young maid of Kirāta race, a little damsel, digs the drug, Digs it with shovels wrought of gold on the high ridges of the hills.",
+    "morphology": "kairātikā_kairātikā_SNF kumārikā_kumārikā_SNF sakā_saka_SNF khanati_khan_SPr3In bheṣajam_bheṣaja_SANe  / hiraṇyayībhiḥ_hiraṇyaya_PIF abhribhiḥ_abhri_PIF girīnām_giri_PGM upa_upa_U sānuṣu_sānu_PLM  /"
+  },
+  {
+    "index": 10530,
+    "sanskrit": "atropaśailavanavīthiṣu puṣpaśayyā vidyādharīviracitāḥ parivarṇayanti / pārśvadvayasthaparivṛttapadātsamudrādvyāvṛttamugdhavanitāpuruṣāyitāni //",
+    "english": "Here they also describe the flowery beds, of the Vidyadhari wood nymphs; and their sports.",
+    "morphology": "atra_atra_ upaśaila_upaśaila_Cp vana_vana_Cp vīthiṣu_vīthi_PLF puṣpa_puṣpa_Cp śayyāḥ_śayyā_PAF vidyādharī_vidyādharī_Cp viracitāḥ_viracay_PAPaF parivarṇayanti_parivarṇay_PPr3In  / pārśva_pārśva_Cp dvaya_dvaya_Cp stha_stha_Cp "
+  },
+  {
+    "index": 10531,
+    "sanskrit": "tatsabhāgaṃ cakṣuḥ kāśmīrāṇāṃ caturvidham / yad dṛṣṭvā rūpāṇi niaruddhaṃ nirudhyate nirotsyate vā yaccānutpattidharmi / pāścāttyānāṃ punaḥ pañcavidham /",
+    "english": "According to the Vaibhāṣikas of Kaśmiīr, the organ of sight is sabhāga in four cases: the organ of sight which has perished, which is now perishing, which will perish without having seen, and the organ of sight destined to arise.",
+    "morphology": "tat_tad_SNNe sa_sa_ bhāgam_bhāga_SNNe cakṣuḥ_cakṣus_SNNe kāśmīrāṇām_kāśmīra_PGM caturvidham_caturvidha_SNNe  / yat_yad_SNNe dṛṣṭvā_dṛś_Co rūpāṇi_rūpa_PANe nirudhyate_nirudh_SPr3InPv nirotsyate_nirudh_SFu3In vā_vā_ yat_yad"
+  },
+  {
+    "index": 10532,
+    "sanskrit": "savalayamiva puṣpamālayā pravitatayānilakampalīlayā /",
+    "english": "have here a jar adorned with this bracelet-like wide wreath of flowers, fluttering in the wind.",
+    "morphology": "sa_sa_ valayam_valaya_SANe ā_ā_ "
+  },
+  {
+    "index": 10533,
+    "sanskrit": "nanu ca dṛśyata eva santamasādipradeśe prathamajñānagṛhītasyāpyarthasyottarottarataḥ pramāṇāt paricchedaḥ spaṣṭālokavasthāyām ityāśaṅkyāha yatrāpītyādi / yatrāpi syāt paricchedaḥ pramāṇair uttaraiḥ punaḥ /",
+    "english": "“Even in a case where the thing is definitely apprehended by the later cognitions, the thing has not been clearly and definitely apprehended by the first cognition.” (2899) Says the Opponent In places where there is dense darkness, it is actually seen that a thing that has been apprehended (vaguely) by the first cognition is again apprehended (and defined) by later cognitions appearing after the appearance of light.",
+    "morphology": "nanu_nanu_ ca_ca_ dṛśyate_dṛś_SPr3InPv eva_eva_ santamasā_santamasā_Cp ādi_ādi_Cp pradeśe_pradeśa_SLM prathama_prathama_Cp jñāna_jñāna_Cp gṛhītasya_grah_SGPaM api_api_ arthasya_artha_SGM uttarottarataḥ_uttarottara_SBNe pramāṇāt_pra"
+  },
+  {
+    "index": 10534,
+    "sanskrit": "bhogadehāvubhau proktāvaśubhaśubhasaṃjñitau //",
+    "english": "Both the bodies are said to be sensuous and designated as inauspicious and auspicious.",
+    "morphology": "bhoga_bhoga_Cp dehau_deha_DuNM ubhau_ubh_DuNM proktau_pravac_DuNPaM aśubha_aśubha_Cp śubha_śubha_Cp saṃjñitau_saṃjñita_DuNM "
+  },
+  {
+    "index": 10535,
+    "sanskrit": "āntaratve tu na tayā vikalpoparāgaḥ kartuṃ śakyaḥ /",
+    "english": "If concepts are internal phe- nomena then they cannot characterize consciousness.",
+    "morphology": "āntara_āntara_Cp tve_tva_SLNe tu_tu_ na_na_ tayā_tad_SIF vikalpa_vikalpa_Cp uparāgaḥ_uparāga_SNM kartum_kṛ_In śakyaḥ_śakya_SNM  /"
+  }
+]

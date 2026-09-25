@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26104,
+    "sanskrit": "etat te kathitam tāta yat mām tvam paripṛcchasi pāpam dharmam tathā mokṣam nirvedam ca eva bhārata tasmāt dharme pravartethāḥ sarva avastham yudhiṣṭhira",
+    "english": "I have now told thee, O son, of that about which thou hadst asked me, viz., the topics of Sin, Righteousness, Renunciation, and Emancipation, O Bharata! Thou shouldst, therefore, O Yudhishthira, adhere to virtue in all situations.",
+    "morphology": "etat_etad_SNNe te_tvad_SD kathitam_kathay_SNPaPsNe tāta_tāta_SVM yat_yad_SANe mām_mad_SA tvam_tvad_SN paripṛcchasi_paripracch_SPr2In pāpam_pāpa_SAM dharmam_dharma_SAM tathā_tathā_U mokṣam_mokṣa_SAM nirvedam_nirveda_SAM ca_ca_U eva_eva_U bhāra"
+  },
+  {
+    "index": 26105,
+    "sanskrit": "varṣāṛtusamāyoge sarvā nadyo rajasvalāḥ | muktvā sarasvatīṃ gaṅgāṃ narmadāṃ yamunānadīm || 18 ||",
+    "english": "At the advent of rainy season, all the rivers are Rajasvalās (like women in their monthly courses) excepting Gaṅgā, Yamunā, Sarasvatī and Narmadā.[Sanskrit text for this chapter is available]",
+    "morphology": "varṣā_varṣā_Cp ṛtu_ṛtu_Cp samāyoge_samāyoga_SLM sarvāḥ_sarva_PNF nadyaḥ_nadī_PNF rajasvalāḥ_rajasvalā_PNF  / muktvā_muc_Co sarasvatīm_sarasvatī_SAF gaṅgām_gaṅgā_SAF narmadām_narmadā_SAF yamunā_yamunā_Cp nadīm_nadī_SAF  "
+  },
+  {
+    "index": 26106,
+    "sanskrit": "bherī śaṅkha mṛdaṅgān te jharjhara ānaka gomukhān avādayan pāriṣadāḥ prahṛṣṭāḥ kanaka prabhāḥ",
+    "english": "Those beings, called companions, possessed of golden complexions, and filled with joy, played upon drums and horns and cymbals and jharjharas and anakas and gomukhas.",
+    "morphology": "bherī_bherī_FCp śaṅkha_śaṅkha_MCp mṛdaṅgān_mṛdaṅga_PAM te_tad_PNM jharjhara_jharjhara_MCp ānaka_ānaka_MCp gomukhān_gomukha_PAM avādayan_vāday_PPs3In pāriṣadāḥ_pāriṣada_PNM prahṛṣṭāḥ_prahṛṣ_PNPaPsM kanaka_kanaka_N"
+  },
+  {
+    "index": 26107,
+    "sanskrit": "ārcīka parvataḥ ca eva nivāsaḥ vai manīṣiṇām",
+    "english": "Yonder is the Archika hill, a dwelling place for men of cultured minds.",
+    "morphology": "ārcīka_ārcīka_MCp parvataḥ_parvata_SNM ca_ca_U eva_eva_U nivāsaḥ_nivāsa_SNM vai_vai_U"
+  },
+  {
+    "index": 26108,
+    "sanskrit": "kṛtyam hi yaḥ abhijānāti sahasre na asti saḥ asti vā",
+    "english": "There may or may not be even one in a thousand who truly knoweth the utility of acts or work.",
+    "morphology": "kṛtyam_kṛtya_SANe hi_hi_U"
+  },
+  {
+    "index": 26109,
+    "sanskrit": "sa ratham prāpya tam bhrātuḥ duryodhana hayān śaraiḥ",
+    "english": "Ascending on the car of his brother, he struck Duryodhana's steeds with many shafts.",
+    "morphology": "sa_sa_U ratham_ratha_SAM prāpya_prāp_Co tam_tad_SAM bhrātuḥ_bhrātṛ_SGM duryodhana_duryodhana_SVM hayān_haya_PAM"
+  },
+  {
+    "index": 26110,
+    "sanskrit": "evaṃ saṃspṛśya hastena nijenāṃgāni tasya sā | samāliṃgya samāghrāya mūrdhadeśe muhurmuhuḥ || 92 ||",
+    "english": "92. Thus (as per Nyāsa procedure) she touched the different limbs with her own hand, embraced him and repeatedly sniffed at his head.",
+    "morphology": "evam_evam_ saṃspṛśya_saṃspṛś_Co hastena_hasta_SIM nijena_nija_SIM aṃgāni_aṅga_PANe tasya_tad_SGM sā_tad_SNF  / samāliṃgya_samāliṅgay_Co samāghrāya_samāghrā_Co mūrdha_mūrdhan_Cp deśe_deśa_SLM muhur_muhur_ muhur_muhur_ "
+  },
+  {
+    "index": 26111,
+    "sanskrit": "agnāv agnir dhanvantarir viśve devāḥ prajāpatiḥsviṣṭakṛd iti homaḥ /",
+    "english": "Fire oblations are offered to Fire, Dhanvantari, All-Gods, Prajāpati, and Fire who makes the offering flawless.",
+    "morphology": "agnau_agni_SLM agniḥ_agni_SNM dhanvantariḥ_dhanvantari_SNM viśve_viśva_PNM devāḥ_deva_PNM prajāpatiḥ_prajāpati_SNM sviṣṭakṛt_sviṣṭakṛt_SNM iti_iti_ homaḥ_homa_SNM  /"
+  }
+]

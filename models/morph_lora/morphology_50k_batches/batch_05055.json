@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40432,
+    "sanskrit": "grāmān ca ghoṣān ca sutam ca dṛṣṭvā śāntām ca śāntaḥ asya paraḥ sa kopaḥ",
+    "english": "And having seen the hamlets and the cowpens provided for his son and having also beheld Santa, his great resentment was appeased.",
+    "morphology": "grāmān_grāma_PAM ca_ca_U ghoṣān_ghoṣa_PAM ca_ca_U sutam_suta_SAM ca_ca_U dṛṣṭvā_dṛś_Co śāntām_śāntā_SAF ca_ca_U śāntaḥ_śam_SNPaPsM"
+  },
+  {
+    "index": 40433,
+    "sanskrit": "śrameṇa tvaṃ samāyukto śvāsocchvāsaparāyaṇaḥ | japannapi mahābhaktyā dṛśyase tvaṃ mayā sadā || 17 ||",
+    "english": "17. Though performing Japa with great devotion, it appears to me that while you are engaged in inhaling and exhaling, you do it under some strain.",
+    "morphology": "śrameṇa_śrama_SIM tvam_tvad_SN śvāsa_śvāsa_Cp ucchvāsa_ucchvāsa_Cp parāyaṇaḥ_parāyaṇa_SNM  / japan_jap_SNPaPrM api_api_ mahā_mahat_Cp bhaktyā_bhakti_SIF dṛśyase_dṛś_SPr2InPv tvam_tvad_SN"
+  },
+  {
+    "index": 40434,
+    "sanskrit": "stīrṇāḥ asya sam hataḥ viśva rūpā ghr̥tasya yonau sravathe madhūnām asthuḥ atra dhenavaḥ pinvamānāḥ mahī iti dasmasya mātarā samīcī itisam īcī",
+    "english": "His piles, assuming every form, are scattered where flow sweet waters, at the spring of fatness; There stood the milch-kine with full-laden udders, and both paired Mighty Mothers of the Wondrous.",
+    "morphology": "stīrṇāḥ_stṛ_PNPaPsM asya_idam_SGM sam_sam_U hataḥ_han_PNPaPsM viśva_viśva_Cp rūpā_rūpa_PNM ghrātasya_ghrāta_SGNe yonau_yoni_SLF sravathe_sravatha_SLM madhūnām_madhu_PGNe asthuḥ_sthā_PPs3In atra_atra_U dhenavaḥ_dhenu_PNF pinvamānā"
+  },
+  {
+    "index": 40435,
+    "sanskrit": "samāruhya mahokṣāṇaṃ bhūtavṛṃdaniṣevitaḥ | girijārdha vapuḥ śūlī sūryakoṭisamaprabhaḥ || 18 ||",
+    "english": "18. The Lord was riding on his great Bull. He was attended upon by multitudes of Bhūtas (goblins and spirits). Half of his body was that of the Daughter of the Mountain. The Trident-bearing Lord had the lustre of a crore of Suns.",
+    "morphology": "samāruhya_samāruh_Co mahā_mahat_Cp ukṣāṇam_ukṣan_SAM bhūta_bhūta_Cp vṛnda_vṛnda_Cp niṣevitaḥ_niṣev_SNPaM  / śūlin_śūlin_SNM sūrya_sūrya_Cp koṭi_koṭi_Cp sama_sama_Cp prabhā_prabhā_SNM"
+  },
+  {
+    "index": 40436,
+    "sanskrit": "kṛcchra prāptam ratha cakre nimagne",
+    "english": "When his car-wheels will sink in the earth, availing thyself of that opportunity, thou shouldst slay him in that distressful situation.",
+    "morphology": "kṛcchra_kṛcchra_NeCp"
+  },
+  {
+    "index": 40437,
+    "sanskrit": "ṣaḍ-āyatanaṃ katamat?",
+    "english": "What are the six sense-spheres?",
+    "morphology": "ḥ_ḥ_U"
+  },
+  {
+    "index": 40438,
+    "sanskrit": "yadaiva vīkṣase prācīdiśi prāpsyasi māṃ tadā | suraiḥ parivṛtā sarvaistatrāhaṃ tava suvṛte || 37 || darśanaṃ saṃpradāsyāmi tyaja śokaṃ śucismite | tāmāpṛcchya tato gaṃgāṃ punardarśanamastu te || 38 ||",
+    "english": "37-43. “As soon as you come to the east and espy me, O lady of excellent holy rites, I shall appear before you surrounded by all the Suras there. O lady of splendid smiles, cast off your grief.” She then took leave of Gaṅgā saying, “May there be a meeting later on, O fair lady, go to your abode. O sinless one, I should be remembered by you.”",
+    "morphology": "yadā_yadā_ eva_eva_ vīkṣase_vīkṣ_SPr2In prācī_prācī_Cp diśi_diś_SLF prāpsyasi_prāp_SFu2In mām_mad_SA tadā_tadā_  / suraiḥ_sura_PIM parivṛtā_parivṛ_SNPaF sarvaiḥ_sarva_PIM tatra_tatra_ aham_mad_SN tava_tvad_SG suvṛte_suvṛt_SD"
+  },
+  {
+    "index": 40439,
+    "sanskrit": "etatstotravaraṃ ramyaṃ purā proktaṃ pinākinā | viṣṇave nijabhaktāya muktibījākṣarāspadam || 9 ||",
+    "english": "209. This excellent and exquisite hymn was formerly proclaimed by the Pināka-wielding Lord to Viṣṇu, his devotee. It is a hymn with the syllables—‘seeds’ of salvation.",
+    "morphology": "__etad_U __stotra_U __vara_U __ramya_U __purā_U __pravac_PaU __pinākin_U __U __U __U __U __U __U __U __U __U"
+  }
+]

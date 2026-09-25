@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40888,
+    "sanskrit": "pāṃcālyapi ca tatpatnī pativyasanatāpitā | dharmajñā prāpya tanvaṃgī bradhnamārādhayadbhṛśam || 9 ||",
+    "english": "9. Pāñcālī, their wife, was distressed on account of the misery of her husbands. The lady of tender limbs, given to virtuous conduct, went to Kāśī to the Sun-god and assiduously propitiated him.",
+    "morphology": "pāṃcālī_pāñcālī_SNF api_api_ ca_ca_ tad_tad_Cp patnī_patnī_SNF pati_pati_Cp vyasana_vyasana_Cp tāpitā_tāpay_SNPaF  / dharma_dharma_Cp jñā_jña_SNF prāpya_prāp_Co tanvaṃgī_tanvaṅgī_SNF"
+  },
+  {
+    "index": 40889,
+    "sanskrit": "tamaḥ eva tu paśyāmi śarīram te na lakṣaye",
+    "english": "I see only a thick gloom around me. The body is no longer visible to me.",
+    "morphology": "tamaḥ_tamas_SANe"
+  },
+  {
+    "index": 40890,
+    "sanskrit": "vedamārgaṃ puraskṛtya brāhmaṇāśśūdrayājinaḥ | daridrā vai bhaviṣyaṃti pratigraharatā ssadā ||",
+    "english": "35. These brahmins will be officiating in the sacrifices of Śūdras, following the Vedic path. They will be perpetually poor and eager to receive monetary gifts.",
+    "morphology": "veda_veda_Cp mārgam_mārga_SAM puraskṛtya_puraskṛ_Co brāhmaṇāḥ_brāhmaṇa_PNM śūdra_śūdra_Cp yājinaḥ_yājin_PNM  / daridrāḥ_daridra_PNM vai_vai_ bhaviṣyanti_bhū_PFu3In pratigraha_pratigraha_Cp ratāḥ_ram_PNPaM"
+  },
+  {
+    "index": 40891,
+    "sanskrit": "yena imā viśvā cyavanā kṛtāni yaḥ dāsam varṇam adharam guhākaḥ / śvaghnī iva yaḥ jigīvām lakṣam ādat aryaḥ puṣṭāni sa janāsaḥ indraḥ /",
+    "english": "By whom this universe was made to tremble, who chased away the humbled brood of demon, Who, like a gambler gathering his winnings, seized the foe's riches, He, O men, is Indra.",
+    "morphology": "yena_yad_SIM imā_idam_PNNe viśvā_viśva_PNNe cyavanā_cyavana_PNNe kṛtāni_kṛ_PNPaPsNe yaḥ_yad_SNM dāsam_dāsa_SAM varṇam_varṇa_SAM adharam_adhara_SAM guhākaḥ_guhākṛ_SPs3In  / śvaghnī_śvaghnin_SNM iva_iva_U yaḥ_yad_SNM jigīvām_ji"
+  },
+  {
+    "index": 40892,
+    "sanskrit": "satatam sma anvatapyanta tam eva bharata ṛṣabham",
+    "english": "All then fell to weeping for the departed king.",
+    "morphology": "sa_sataḥ_SNM"
+  },
+  {
+    "index": 40893,
+    "sanskrit": "etat rājyam na anyat asti iti vidyāt",
+    "english": "This is (true) sovereignty. There is no other sovereignty here.",
+    "morphology": "etat_etad_SNNe"
+  },
+  {
+    "index": 40894,
+    "sanskrit": "athāgastyādikṛtaśrīveṃkaṭācalastharamyavastudarśanam | bharadvāja uvāca | gīṣpatipramukhairitthamādiṣṭaḥ kumbhasaṃbhavaḥ | śokajālaṃ parityajya yayau taiḥ sahito drutam || 50 ||",
+    "english": "Bharadvāja said: 50. On being requested thus by Gīṣpati (Jupiter) and other important persons the Pot-born Sage (Agastya) cast off his mass of grief and quickly went along with them.",
+    "morphology": "atha_atha_ agastya_agastya_Cp ādi_ādi_Cp kṛta_kṛ_PaCp śrī_śrī_Cp veṃkaṭācala_veṃkaṭācala_Cp stha_stha_Cp ramya_ramya_Cp vastu_vastu_Cp darśanam_darśana_SNNe  / bharadvājaḥ_bharadvāja_SNM uvāca_vac_SPs3In  / gīṣpati_gīṣpati_"
+  },
+  {
+    "index": 40895,
+    "sanskrit": "tatra yaḥ yathākālam upayuktam annam samyak pacati sa samaḥ samaiḥ doṣaiḥ yaḥ kadācid samyak pacati kāḍcid ādhmāna śūla udāvarta atisāra jaṭhara gaurava antra kūjana pravāhaṇāni kṛtvā sa viṣamaḥ yaḥ prabhūtam api upayuktam annam āśu pacati sa tīkṣṇaḥ saḥ eva abhivardhamānaḥ ati agniḥ iti abhāṣyate sa muhur muhur prabhūtam api upayuktam annam āśutaram pacati pāka ante ca gala tālu oṣṭha śoṣa dāha santāpān janayati yaḥ tu alpam api",
+    "english": "The digestive heat, which fully digests the ingested food at the proper time without the least irregularity, thus reflecting the continuance of the bodily humours in their normal state, is called Samagni. The digestive heat which is irregular in its action, and which sometimes helps the process of complete digestion, and produces distension of the abdomen, colic pain, constipation of the bowels, dysentery, ascites, heaviness of the limbs, trumbling in the intestines, and loose motions (diarrhea) at other times, is called Vishamagni. The digestive heat, which helps the digestion of even a heavy meal within an incredibly short space of time, is called “Keen” (Tikshnagni) and which becoming abnormally augmented begets an excessive or voracious appetite (Atyagni), helps a glutton to digest his frequent meals, and produces a parched throat, palate and lips, heat and other discomforts.",
+    "morphology": "tatra_tatra_U yaḥ_yad_SNM yathākālam_yathākālam_U upayuktam_upayuj_SAPaPsNe annam_anna_SANe samyak_samyak_U pacati_pac_SPr3In sa_tad_SNM samaḥ_sama_SNM samaiḥ_sama_PIM doṣaiḥ_doṣa_PIM yaḥ_yad_SNM kadācid_kadācid_U samyak_samyak_U pacati"
+  }
+]

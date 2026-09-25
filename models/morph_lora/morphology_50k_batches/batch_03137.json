@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25088,
+    "sanskrit": "bhadraḥ asmi nṛtte kuśalaḥ asmi gīte",
+    "english": "I am proficient in dance and skilled in song.",
+    "morphology": "bhadraḥ_bhadra_SNM asmi_as_SPr1In nṛtte_nṛtta_SLNe kuśalaḥ_kuśala_SNM asmi_as_SPr1In gīte_gīta_SLNe"
+  },
+  {
+    "index": 25089,
+    "sanskrit": "yathā ca bhagavān, pañcabhir bhikṣu-śataiḥ sārdhaṃ, vihāyasā tatra gato jana-kāyaś cābhiprasāditaḥ |",
+    "english": "Just as the Fortunate One, together with five hundred monastics, having gone through the air converted the people.",
+    "morphology": "yathā_yathā_ ca_ca_ bhagavān_bhagavant_SNM pañcabhiḥ_pañcan_PINe bhikṣu_bhikṣu_Cp śataiḥ_śata_PINe sārdham_sārdham_ vihāyasā_vihāyas_SINe tatra_tatra_ gataḥ_gam_SNPaM jana_jana_Cp kāyaḥ_kāya_SNM ca_ca_ abhiprasāditaḥ_abhiprasā"
+  },
+  {
+    "index": 25090,
+    "sanskrit": "na manyate tām nikṛtim mahātmā",
+    "english": "The illustrious Yudhishthira doth not himself regard that Sakuni hath played with him deceitfully.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 25091,
+    "sanskrit": "kalkaḥ saṃrohaṇaḥ kāryaḥ tila jaḥ madhu sṃyutaḥ ||",
+    "english": "A Kalka or a levigated paste of sesamum and honey (mentioned in the Mishraka Chapter) should be applied for the purpose of healing up an ulcer situated in a muscular part from which all putrid flesh has been removed or sloughed off and which exhibited a clear cavity.",
+    "morphology": "kalkaḥ_kalka_SNM saṃrohaṇaḥ_saṃrohaṇa_SNM kāryaḥ_kṛ_SNMGd tila_tila_MCp jaḥ_ja_SNM madhu_madhu_NeCp sṃyutaḥ_sṃyuta_SNM  /"
+  },
+  {
+    "index": 25092,
+    "sanskrit": "ghoraghoratarā dṛṣṭāḥ kliśyante yatra mānavāḥ | vācikairmānasaiḥ pāpaiḥ karmajaiśca pṛthagvidhaiḥ || 76 ||",
+    "english": "All types of acutely horrible hells were seen where men suffered much. They had committed sins verbally, mentally and physically.",
+    "morphology": "ghora_ghora_Cp ghoratarāḥ_ghoratara_PNM dṛṣṭāḥ_dṛś_PNPaM kliśyante_kliś_PPr3In yatra_yatra_ mānavāḥ_mānava_PNM  / vācikaiḥ_vācika_PINe mānasaiḥ_mānasa_PINe pāpaiḥ_pāpa_PINe karma_karman_Cp jaiḥ_ja_PINe ca_ca_ pṛthagvid"
+  },
+  {
+    "index": 25093,
+    "sanskrit": "sā marujāṅgalānūpabhedā draṣṭavyā /",
+    "english": "It should he regarded as being copper or silver.",
+    "morphology": "sā_tad_SNF marujāṅgala_marujāṅgala_Cp anūpa_anūpa_Cp bhedā_bheda_SNF "
+  },
+  {
+    "index": 25094,
+    "sanskrit": "na ca tatraārāmā vihāraarthā vā śālāḥ syuḥ //",
+    "english": "Nor shall there be in villages buildings sáláh intended for sports and plays",
+    "morphology": "na_na_ ca_ca_ tatra_tatra_ ārāmāḥ_ārāma_PNM vihāra_vihāra_Cp arthāḥ_artha_PNF vā_vā_ śālāḥ_śālā_PNF syuḥ_as_PPr3O"
+  },
+  {
+    "index": 25095,
+    "sanskrit": "tatra mantram pravakṣyāmi yena idam abhimantryate",
+    "english": "He should be made to recite, at the time of his taking the fourth dose, a Mantra which runs as follows:—",
+    "morphology": "tatra_tatra_U"
+  }
+]

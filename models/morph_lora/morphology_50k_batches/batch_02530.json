@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20232,
+    "sanskrit": "āmra jambu udbhavam puṣpam tad raseṇa hareṇukām|| piṣṭvā kṣaudra ājya saṃyuktam prayojyam athavā añjanam",
+    "english": "As an alternative, Renuka pasted with the expressed juice of the flowers of Amra (mangoe) and Jambu (black-berry) and mixed with honey and clarified butter, should be used in both the above cases as an Anjana.",
+    "morphology": "āmra_āmra_MCp jambu_jambu_NeCp udbhavam_udbhava_SANe puṣpam_puṣpa_SANe tad_tad_Cp raseṇa_rasa_SIM hareṇukām_hareṇuka_SAF"
+  },
+  {
+    "index": 20233,
+    "sanskrit": "vṛṣṇīnām ca eva durdharṣāḥ kumārāḥ deva rūpiṇaḥ āhukaḥ vipṛthuḥ ca eva gadaḥ sāraṇaḥ eva ca akrūraḥ kṛtavarmā ca sātyakiḥ ca śineḥ sutaḥ",
+    "english": "and the invincible youths of the Vrishni race, all equal in beauty unto the celestials, viz., Ahuka, Viprithu, Sada, Sarana, Akrura, Kritavarman, and Satyaka, the son of Sini;",
+    "morphology": "vṛṣṇīnām_vṛṣṇi_PGM ca_ca_U eva_eva_U durdharṣāḥ_durdharṣa_PNM kumārāḥ_kumāra_PNM deva_deva_MCp rūpiṇaḥ_rūpin_PNM āhukaḥ_āhuka_SNM vipṛthuḥ_vipṛthu_SNM ca_ca_U eva_eva_U gadaḥ_gada_SNM sāraṇaḥ_sāraṇa_SNM e"
+  },
+  {
+    "index": 20234,
+    "sanskrit": "vigāhya tat para anīkam gaja vāji ratha ākulam śastra pratāpa nirvīryān kurūn jitvā ānaye paśūn",
+    "english": "Penetrating into the midst of the hostile army abounding with elephants and horses and chariots, I will bring back the kine, having vanquished the Kurus who are feeble in strength and weak in weapons.",
+    "morphology": "vigāhya_vigāh_Co tat_tad_SANe para_para_Cp anīkam_anīka_SANe gaja_gaja_MCp vāji_vājin_MCp ratha_ratha_MCp ākulam_ākula_SANe śastra_śastra_NeCp pratāpa_pratāpa_MCp nirvīryān_nirvīrya_PAM"
+  },
+  {
+    "index": 20235,
+    "sanskrit": "śrīdevyuvāca / saṃkalpavyomavṛkṣaste yathā sannapi khātmakaḥ / na kuḍyātmā na kuḍyena rodhyate nāpi kuḍyahā //",
+    "english": "The goddess replied:—I tell thee lady, that the divine will is an aerial tree, and its fruits are as unsubstantial as air, having no figure nor form nor substance in them.",
+    "morphology": "śrī_śrī_Cp devī_devī_SNF uvāca_vac_SPs3In  / saṃkalpa_saṃkalpa_Cp vyoma_vyoman_Cp vṛkṣaḥ_vṛkṣa_SNM te_tvad_SG yathā_yathā_ san_as_SNPaPrM api_api_ kha_kha_Cp ātmakaḥ_ātmaka_SNM  / na_na_ kuḍya_kuḍya_Cp ātmā_ātman_SNM na_na"
+  },
+  {
+    "index": 20236,
+    "sanskrit": "mūṣako 'pi tato 'nnārthī sa tatra nibhṛtāgataḥ / baddhaṃ taṃ vīkṣya mārjāraṃ jaharṣa ca nanarta ca // yāvadviśati tatkṣetraṃ dūrādekena vartmanā / tatra tau tāvadāyātābulūkanakulāvapi //",
+    "english": "The mouse, for his part, came there secretly in search of food, and seeing the cat caught in the noose, danced for joy. While it was entering the field the owl and ichneumon came from afar by the same path, and seeing the cat fast in the noose, desired to capture the mouse.",
+    "morphology": "mūṣakaḥ_mūṣaka_SNM api_api_ tatas_tatas_ anna_anna_Cp arthī_arthin_SNM sa_tad_SNM tatra_tatra_ nibhṛta_nibhṛta_Cp āgataḥ_āgam_SNPaM  / baddham_bandh_SAPaM tam_tad_SAM vīkṣya_vīkṣ_Co mārjāram_mārjāra_SAM jaharṣa_hṛṣ_SPs3In c"
+  },
+  {
+    "index": 20237,
+    "sanskrit": "mahān mahī astabhāyad vi jāto dyāṃ sadma pārthivaṃ ca rajaḥ |",
+    "english": "Born in greatness, he established apart the great ones, The sky as a seat and the atmosphere of earth;",
+    "morphology": "mahān_mahat_SNM mahī_mahi_PAF astabhāyat_stabhāy_S3ImIn vi_vi_ jātaḥ_jan_SNPaM dyām_div_SAM sadma_sadman_SANe pārthivaḥ"
+  },
+  {
+    "index": 20238,
+    "sanskrit": "tasya mādrī sutaḥ ketum sa śaram ca śarāsanam ciccheda niśitaiḥ bāṇaiḥ prahasan iva bhārata atha enam pañcaviṃśatyā kṣudrakāṇām samārdayat",
+    "english": "The son of Madri, then, laughing the while, cut off, with sharp arrows (of his), adversary's standard and bow, and then he struck him with five and twenty small-headed arrows.",
+    "morphology": "tasya_tad_SGM mādrī_mādrī_FCp sutaḥ_suta_SNM ketum_ketu_SAM sa_sa_U śaram_śara_SAM ca_ca_U śarāsanam_śarāsana_SAM ciccheda_chid_SPs3In niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM prahasan_prahas_SNPaPrM iva_iva_U bhārata_bhārata_SVM at"
+  },
+  {
+    "index": 20239,
+    "sanskrit": "vana caryā ca niḥsaṅgā nirbhayā niravagrahā",
+    "english": "Those, however, that reside in the woods pass their days, fearlessly and without anxiety, in the observance of vows.",
+    "morphology": "vana_vana_NeCp caryā_caryā_SNF ca_ca_U niḥsaṅgā_niḥsaṅga_SNF nirbhayā_nirbhaya_SNF"
+  }
+]

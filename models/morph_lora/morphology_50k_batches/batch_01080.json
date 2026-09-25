@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8632,
+    "sanskrit": "mā paścād-vipratisāriṇo bhaviṣyatha.”",
+    "english": "do not regret it later.”",
+    "morphology": "mā_mā_ paścāt_paścāt_ vipratisāriṇaḥ_vipratisārin_PNM bhaviṣyatha_bhū_PFu2In"
+  },
+  {
+    "index": 8633,
+    "sanskrit": "vairāje sāmni stobhadarśanāt //",
+    "english": "and this is ‘Vāk’, because this Stobha ‘Vāk’ is found in the VairājaSāma",
+    "morphology": "vairāje_vairāja_SLNe sāmni_sāman_SLNe stobha_stobha_Cp darśanāt_darśana_SBNe  /"
+  },
+  {
+    "index": 8634,
+    "sanskrit": "daṇḍabhayād ākrośabhayād anarthabhayād vā bhayadānaṃ pratigṛhṇataḥ steyadaṇḍaḥ,",
+    "english": "Those who receive any kind of aid from timid persons, threatening them with legal punishment, defamation, or loss of money, shall be liable to the punishment for theft;",
+    "morphology": "daṇḍa_daṇḍa_Cp bhayāt_bhaya_SBNe ākrośa_ākrośa_Cp bhayāt_bhaya_SBNe anartha_anartha_Cp bhayāt_bhaya_SBNe vā_vā_ bhaya_bhaya_Cp dānam_dāna_SANe pratigṛhṇataḥ_pratigrah_SGPaPrM steya_steya_Cp daṇḍaḥ_daṇḍa_SNM"
+  },
+  {
+    "index": 8635,
+    "sanskrit": "tat etat bhasmasāt bhūtam sarvam jagat anāvilam",
+    "english": "The mobile and the immobile universe is being reduced to ashes.",
+    "morphology": "tat_tad_SNNe etat_etad_SNNe bhasmasāt_bhasmasāt_U bhūtam_bhū_SNPaPsNe sarvam_sarva_SNNe jagā_jagant_SNNe"
+  },
+  {
+    "index": 8636,
+    "sanskrit": "tathatā / tathā hi pṛthagjanaśaikṣāśaikṣāvasthāsu sarvakālaṃ tathaiva bhavati /",
+    "english": "Tathata. For in the states of the common man, the disciple, and the beginner, he is always the same, not different;",
+    "morphology": "tathatā_tathatā_SNF  / tathā_tathā_ hi_hi_ pṛthagjana_pṛthagjana_Cp śaikṣa_śaikṣa_Cp aśaikṣa_aśaikṣa_Cp avasthāsu_avasthā_PLF sarvakālam_sarvakālam_ tathā_tathā_ eva_eva_ bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 8637,
+    "sanskrit": "prayatnena tvayā śambho kāryaṃ vākyaṃ mama prabho | yācasva māṃ himagiressaubhāgyaṃ dehi śaṅkara ||",
+    "english": "31. O lord Śiva, with effort, you will please do according to my request. O Śiva, beg of Himavat for me, You will bestow a fortune on him.",
+    "morphology": "prayatnena_prayatna_SIM tvayā_tvad_SI śambho_śambhu_SVM kāryam_kṛ_SNNeGd vākyam_vākya_SNNe mama_mad_SG prabho_prabhu_SVM  / yācasva_yāc_SPr2Im mām_mad_SA himagireḥ_himagiri_SGM saubhāgyam_saubhāgya_SANe dehi_dā_SPr2Im śaṅkara_śaṃkara_"
+  },
+  {
+    "index": 8638,
+    "sanskrit": "'yo varṇāśramanirmuktamavasthātrayasākṣiṇam // mahādevaṃ vijānāti so'tivarṇāśramī bhavet //",
+    "english": "‘He, who knows the great Lord who is free from the caste and stages of life and is the witness of the three states, becomes the ativarnāśramin .",
+    "morphology": "__ayas_U __varṇa_U __āśrama_U __nirmuc_PaU __avasthā_U __traya_U __sākṣin_U  // __mahādeva_U vijānāti_vijñā_SPr3In __tad_U __ativarṇa_U __āśramin_U bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 8639,
+    "sanskrit": "yathā parṇe puṣkarasya iva siktam jalam na tiṣṭhet pathyam uktam tathā asmin tatas kruddhaḥ dhṛtarāṣṭraḥ abravīt mām",
+    "english": "For, as water dropped on a lotus-leaf doth not remain there, my counsels will fail to produce any effect to Dhritarashtra.",
+    "morphology": "yathā_yathā_U parṇe_parṇa_SLNe puṣkarasya_puṣkara_SGNe iva_iva_U siktam_sic_SNPaPsNe jalam_jala_SNNe na_na_U tiṣṭhet_sthā_SPr3O pathyam_pathya_SNNe uktam_vac_SNPaPsNe tathā_tathā_U asmin_idam_SLM tatas_tatas_U kruddhaḥ_krudh_SNPaPsM dh"
+  }
+]

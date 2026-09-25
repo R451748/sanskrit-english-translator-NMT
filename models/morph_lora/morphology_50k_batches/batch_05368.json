@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42936,
+    "sanskrit": "keśareṣu balaṃ nāgaṃ bhuvañcaica sarasvatīṃ //",
+    "english": "Bala deva, Nāga, the earth and goddess Sarasvatī should be worshipped in the filaments.",
+    "morphology": "keśareṣu_kesara_PLM balam_bala_SAM nāgam_nāga_SAM sarasvatīm_sarasvatī_SAF  /"
+  },
+  {
+    "index": 42937,
+    "sanskrit": "samudrasenaḥ rājā ca saha putreṇa vīryavān",
+    "english": "and the warlike king Samudrasena with his son;",
+    "morphology": "samudrasenaḥ_samudrasena_SNM"
+  },
+  {
+    "index": 42938,
+    "sanskrit": "vyāpako hi svabhāvo nivartamānaḥ svaṃ vyāpyaṃ nivartayati kāraṇaṃ vā karyam / tatra tādātmyatadutpattibhyāṃ vyāpyakāryayoḥ pratibaddhatvāt /",
+    "english": "similarly the absence of the Cause implies the absence of the effect; and the reason for this lies in the fact that the less extensive is invariably concomitant with the more extensive one, because of the two being of the same essence, and the effect is invariably concomitant with the Cause, being produced by this latter.",
+    "morphology": "vyāpakaḥ_vyāpaka_SNM hi_hi_ svabhāvaḥ_svabhāva_SNM nivartamānaḥ_nivṛt_SNPaPrM svam_sva_SANe vyāpyam_vyāp_SANeGd nivartayati_nivartay_SPr3In kāraṇam_kāraṇa_SANe vā_vā_  / tatra_tatra_ tādātmya_tādātmya_Cp tad_tad_Cp utpattibhyām_"
+  },
+  {
+    "index": 42939,
+    "sanskrit": "tatrāpy uttamādhamamadhyamānām anekavidho daṇḍaḥ / tatra ko 'sāv iha /",
+    "english": "In the case of the intercourse in question, there are hound to be various grades of punishment, in the shape of the \"lowest,\" the \"middle\" and the \"highest\" amercement.",
+    "morphology": "tatra_tatra_ api_api_ uttama_uttama_Cp adhama_adhama_Cp madhyamānām_madhyama_PGM anekavidhaḥ_anekavidha_SNM daṇḍaḥ_daṇḍa_SNM  / tatra_tatra_ kaḥ_ka_SNM asau_adas_SNM iha_iha_  /"
+  },
+  {
+    "index": 42940,
+    "sanskrit": "sa taṃ dṛṣṭvā mahātmānamaghoraṃ ghoravikramam | vavande devadeveśamadbhutaṃ kṛṣṇapiṃgalam ||",
+    "english": "26. On seeing that noble soul of terrible exploits, (named) Aghora (non-terrible), he worshipped him—the lord of god, of wonderful black and tawny colour.",
+    "morphology": "sa_tad_SNM tam_tad_SAM dṛṣṭvā_dṛś_Co mahātmānam_mahātman_SAM aghoram_aghora_SAM ghora_ghora_Cp vikramam_vikrama_SAM  / vavande_vand_SPs3In devadeveśam_devadeveśa_SAM adbhutam_adbhuta_SAM kṛṣṇa_kṛṣṇa_Cp piṃgalaḥ_piṅgala_SNM"
+  },
+  {
+    "index": 42941,
+    "sanskrit": "tathā hi prathamaṃ saṃmugdharūpeṇālocanājñānenādhigataṃ, nahi niścitarūpeṇa, uttarottaras tu niścayaḥ pramāṇaṃ, samāropavyavacchedaviṣayatvād anumānavat /",
+    "english": "This is the argument that is set forth in the following [see verses 1299-1300 above] “At the first stage, the Thing is apprehended by Pre-cognition only in a vague, not in the well-defined form;",
+    "morphology": "tathā_tathā_ hi_hi_ prathamam_prathamam_ saṃmugdha_sammuh_PaCp rūpeṇa_rūpa_SINe ālocanā_ālocanā_Cp jñānena_jñāna_SINe adhigatam_adhigam_SNPaNe nahi_nahi_ niścita_niści_PaCp rūpeṇa_rūpa_SINe uttarottaraḥ_uttarottara_SNM tu_tu_ niśca"
+  },
+  {
+    "index": 42942,
+    "sanskrit": "na ca enam vikriyām netum aśakat mudgalam kṣudhā",
+    "english": "Hunger could not disturb his equanimity.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 42943,
+    "sanskrit": "vāsudevam atha āmantrya vāgmī vacanam abravīt devakī suprajā devī tvayā puruṣa sattama yat brūyām tvām mahā bāho tat kṛthāḥ tvam iha acyuta",
+    "english": "Having represented all this unto the Island-born Krishna, the king endued with great eloquence approached Vasudeva and said,--'O foremost of all beings, the goddess Devaki has, through thee, come to be regarded as the most fortunate of mothers! O thou of unfading glory, do thou accomplish that which I shall now tell thee, O mighty-armed one.",
+    "morphology": "vāsudevam_vāsudeva_SAM atha_atha_U āmantrya_āmantray_Co vāgmī_vāgmin_SNM vacanam_vacana_SANe abravīt_brū_SPs3In devakī_devakī_SNF suprajā_suprajas_SNF devī_devī_SNF tvayā_tvad_SI puruṣa_puruṣa_MCp sattama_sattama_SVM yat_yad_SANe brūyā"
+  }
+]

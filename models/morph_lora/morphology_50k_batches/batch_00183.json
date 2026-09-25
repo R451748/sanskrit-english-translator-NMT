@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1456,
+    "sanskrit": "kaṣāya kalka sarpīṃṣi tailam cūrṇam rasakriyām śodhanam ropaṇam ca eva vīkṣya vīkṣya avacārayet",
+    "english": "Remedies such as medicinal decoctions, pastes (Kalka), medicated clarified butter, powders, Rasa-Kriya, etc., and the measures for purifying and healing (incidental sores or ulcers\\ should be employed with due consideration to the nature and intensity of the aggravated Doshas involved in the case.",
+    "morphology": "kaṣāya_kaṣāya_MCp kalka_kalka_MCp sarpīṃṣi_sarpis_PANe tailam_taila_SANe cūrṇam_cūrṇa_SANe rasakriyām_rasakriyā_SAF śodhanam_śodhana_SANe ropaṇam_ropaṇa_SANe ca_ca_U eva_eva_U vīkṣya_vīkṣ_Co vīkṣya_vīkṣ_Co avacārayet_a"
+  },
+  {
+    "index": 1457,
+    "sanskrit": "pārvatyuvāca | yaduktaṃ parayā vācā vacananaṃ śaṃkara tvayā | sā kiṃ prakṛti rnaiva syādatītastāṃ bhavānkatham || 20 ||",
+    "english": "Pārvatī said: 20. What has been said by you, O Śaṅkara, by means of ‘Parā’ speech, is it not Prakṛti? In that case how are you beyond it?",
+    "morphology": "pārvatī_pārvatī_SNF uvāca_vac_SPs3In  / yat_yad_SNNe uktam_vac_SNPaNe parayā_para_SIF vācā_vāc_SIF vacananam_vacanana_SNNe śaṃkara_śaṃkara_SVM tvayā_tvad_SI  / sā_tad_SNF kim_ka_SNNe prakṛtiḥ_prakṛti_SNF rna_na_ eva_eva_ syāt_as_SPr"
+  },
+  {
+    "index": 1458,
+    "sanskrit": "vāruṇāni ca bhūtāni vividhāni mahīdharaḥ",
+    "english": "And many denizens of the lower regions and the world of Varuna were killed.",
+    "morphology": "vāruṇāni_vāruṇa_PANe ca_ca_ bhūtāni_bhūta_PANe vividhāni_vividha_PANe"
+  },
+  {
+    "index": 1459,
+    "sanskrit": "śrī nārada uvāca puraivaitāny upāìgāni cākrādīni videha rāṭtrailokya nāthasya harer babhūvus tejasā hṛtāḥ",
+    "english": "Śrī Nārada said: O king of Videha, Lord Kṛṣṇa, the master of the three worlds, obtained His conch and other paraphernalia long ago by His own prowess.",
+    "morphology": "śrī_śrī_SNF nāradaḥ_nārada_SNM uvāca_vac_SPs3In purā_purā_ eva_eva_ etāni_etad_PNNe upāñgāni_upāṅga_PNNe cākra_cākra_Cp ādīni_ādi_PNNe videha_videha_SVM rāj_rāj_SVM trailokya_trailokya_SVM nāthasya_nātha_SGM hareḥ_hari_SGM babh"
+  },
+  {
+    "index": 1460,
+    "sanskrit": "teṣām ābharaṇāni āśu tvaritānām vimuñcatām",
+    "english": "And loud was the din produced, as, in a great hurry, they began to cast off their ornaments and put on their armour.",
+    "morphology": "teṣām_tad_PGM ābharaṇāni_ābharaṇa_PANe āśu_āśu_U tvaritānām_tvar_PGPaPsM"
+  },
+  {
+    "index": 1461,
+    "sanskrit": "saṃdadhīta na cānāryānvigṛhṇīyānna baṃdhubhiḥ | nānāptaiścārayeccārānkuryātkāryamapīḍayan || 87 ||",
+    "english": "87. He should not join the vulgar; he should not fight with his kinsmen. He should not employ spies against the faithful; he should do acts without harassment.",
+    "morphology": "saṃdadhīta_saṃdhā_SPr3O na_na_ ca_ca_ anāryān_anārya_PAM vigṛhṇīyāt_vigrah_SPr3O na_na_ baṃdhubhiḥ_bandhu_PIM  / na_na_ anāptaiḥ_anāpta_PIM cārayet_cāray_SPr3O cārān_cāra_PAM kuryāt_kṛ_SPr3O kāryam_kārya_SANe apīḍayān_a"
+  },
+  {
+    "index": 1462,
+    "sanskrit": "pratimāmālikhet pūrvaṃ padyādṛkṣāṇi vinyaset //",
+    "english": "A human figure is drawn first and the asterisms are arranged in order.",
+    "morphology": "pratimām_pratimā_SAF ālikhet_ālikh_SPr3O pūrvam_pūrvam_ padyāt_padya_SBNe ḥ_ḥ_"
+  },
+  {
+    "index": 1463,
+    "sanskrit": "kopayanti anilam jantoḥ phaṇinaḥ sarve eva tu pittam maṇḍalinaḥ ca api kapham ca aneka rājayaḥ",
+    "english": "The poison of all hooded snakes (Phani) deranges and aggravates the bodily Vayu, that of the Mandali (circular spotted) species aggravates the Pitta, while that of the Rajiman (striped) class aggravates the bodily Kapha.",
+    "morphology": "kopayanti_kopay_PPr3In anilam_anila_SAM jantoḥ_jantu_SGM phaṇinaḥ_phaṇin_PNM sarve_sarva_PNM eva_eva_U tu_tu_U pittam_pitta_SANe maṇḍalinaḥ_maṇḍalin_PNM ca_ca_U api_api_U kapham_kapha_SAM ca_ca_U aneka_aneka_Cp rājayaḥ_rāji_PNM"
+  }
+]

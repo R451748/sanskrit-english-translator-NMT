@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11744,
+    "sanskrit": "ye bhūtānām adhipatayo viśikhāsaḥ kapardinaḥ / teṣām̐ sahasrayojane 'va dhanvāni tanmasi //",
+    "english": "Those, ministering spirits’ lords, with no hair-tufts, with braided locks, Of these, etc. 60",
+    "morphology": "ye_yad_PNM bhūtānām_bhūta_PGNe adhipatayaḥ_adhipati_PNM viśikhāsaḥ_viśikha_PNM kapardinaḥ_kapardin_PNM  / teṣām_tad_PGM sahasra_sahasra_Cp yojane_yojana_SLNe ava_ava_ dhanvāni_dhanvan_PANe tanmasi_tan_PPr1In  /"
+  },
+  {
+    "index": 11745,
+    "sanskrit": "uktaṃ hi tadabhūtaparikalpāśca cittacaittāstridhātukā \"\" iti /",
+    "english": "For it has been said: The Constructive Ideation however, this is the Mind and the Mental Phenomena which belong to the three spheres of existence.",
+    "morphology": "uktam_vac_SNPaNe hi_hi_ tad_tad_Cp abhūta_abhūta_Cp parikalpāḥ_parikalpa_PNM ca_ca_ citta_citta_Cp caittāḥ_caitta_PNM tri_tri_Cp dhātukāḥ_dhātuka_PNM iti_iti_"
+  },
+  {
+    "index": 11746,
+    "sanskrit": "tatas gacchet kuru śreṣṭha śṛṅgavera puram mahat yatra tīrṇaḥ mahā rāja rāmaḥ dāśarathiḥ purā",
+    "english": "Then, O mighty king, should one proceed to the great Sringaverapura, where, O foremost of kings, formerly Rama, Dasharatha's son, had crossed (the Ganga).",
+    "morphology": "tatas_tatas_U gacchet_gam_SPr3O kuru_kuru_MCp śreṣṭha_śreṣṭha_SVM śṛṅgavera_śṛṅgavera_MCp puram_pura_SANe mahat_mahat_SANe yatra_yatra_U tīrṇaḥ_tṛ_SNPaPsM mahā_mahat_Cp rāja_rājan_MCp rāmaḥ_rāma_SNM dāśarathiḥ_dāśara"
+  },
+  {
+    "index": 11747,
+    "sanskrit": "tato 'gnidattaḥ sāścaryo guṇaśarmāṇam abhyadhāt / sarvajñas tvam imau tv asyās tilakau nāśubhapradau //",
+    "english": "Then Agnidatta said in astonishment to Guṇaśarman: “You are all-knowing, but these moles of hers portend good fortune to us.",
+    "morphology": "tatas_tatas_ agnidattaḥ_agnidatta_SNM sa_sa_ āścaryaḥ_āścarya_SNM guṇaśarmāṇam_guṇaśarman_SAM abhyadhāt_abhidhā_SPs3In  / sarva_sarva_Cp jñaḥ_jña_SNM tvam_tvad_SN imau_idam_DuNM tu_tu_ asyāḥ_idam_SGF tilakau_tilaka_DuNM na_na_ aś"
+  },
+  {
+    "index": 11748,
+    "sanskrit": "kathaṃ tarhyā'tmaivādhastāt' 'sa ātme'tyādiśabdā ātmānaṃ pratyāyayanti /",
+    "english": "How then do such words as ‘the Self below’, ‘that is Self’ and the like convey the idea of the Self?",
+    "morphology": "katham_katham_ tarhi_tarhi_ ā_ā_ ātmā_ātman_SNM eva_eva_ adhastāt_adhastāt_ āsaḥ_as_SPr2In ātmā_ātman_SNM ityādi_ityādi_Cp śabdāḥ_śabda_PNM ātmānam_ātman_SAM pratyāyayanti_pratyāyay_PPr3In  /"
+  },
+  {
+    "index": 11749,
+    "sanskrit": "sarve ca asvastha manasaḥ babhūvuḥ te mahā rathāḥ",
+    "english": "Indeed, all those mighty heroes lost their peace of mind.",
+    "morphology": "sarve_sarva_PNM ca_ca_U asvastha_asvastha_Cp manasaḥ_manas_PNM babhūvuḥ_bhū_PPs3In te_tad_PNM mahā_mahat_Cp rathāḥ_ratha_PNM"
+  },
+  {
+    "index": 11750,
+    "sanskrit": "gṛhādanirgato jīvaḥ saptadvīpaparaḥ sthitaḥ / tasyāpi tatkālpanikaṃ rājyaṃ vyomni svamandire //",
+    "english": "As the sovereign ruler of the seven continents, holds his sway over them, without ever going out of his city; so the soul passes to them all, by remaining in the precincts of its body: and so does every man see his imaginary castle, in the sphere of his own house.",
+    "morphology": "gṛhāt_gṛha_SBNe anirgataḥ_anirgata_SNM jīvaḥ_jīva_SNM sapta_saptan_Cp dvīpa_dvīpa_Cp paraḥ_para_SNM sthitaḥ_sthā_SNPaM  / tasya_tad_SGM api_api_ tat_tad_SNNe kālpanikam_kālpanika_SNNe rājyam_rājya_SNNe vyomni_vyoman_SLNe sva_sva_Cp ma"
+  },
+  {
+    "index": 11751,
+    "sanskrit": "aśva stanam ṛṣīṇām hi vidyate veda tat bhavān",
+    "english": "Thou knowest this well.",
+    "morphology": "aśva_aśva_MCp stanam_stana_SNNe ṛṣīṇām_ṛṣi_PGM hi_hi_U vidyate_vid_SPr3InPv veda_vid_SPs3In tat_tad_SANe bhavān_bhavat_SNM"
+  }
+]

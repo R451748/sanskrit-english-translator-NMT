@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19880,
+    "sanskrit": "tasmādyatiriktasaṃyoge satyasti prakaraṇavirodhastatra ca śruterbalīyastvam",
+    "english": "For these reasons, it must be admitted that the Pratipats in question are to be taken apart from the Context.",
+    "morphology": "__tasmāt___U __a_U __as_PaPrU __as_PaPrU"
+  },
+  {
+    "index": 19881,
+    "sanskrit": "sa gāyatriyā triṣṭubhā jagatyā devebhyo havyaṃ vahatu prajānann iti chandobhir evainaṃ svād yoneḥ pra janayaty eṣa vāva so 'gnir ity āhur jyotis tvā asya parāpatitam iti yad agnaye jyotiṣmate nirvapati yad evāsya jyotiḥ parāpatitaṃ tad evāva runddhe |",
+    "english": "he with Gayatri, Tristubh, Jagati shall bear the oblation to the gods, the wise ones'; with the metres he begets him from his own womb; 'this is the fire', they say, I what falls from it is light'; in that he offers to Agni with light, he wins the light which has fallen from it.",
+    "morphology": "sa_tad_SNM gāyatriyā_gāyatrī_SIF triṣṭubhā_triṣṭubh_SIF jagatyā_jagatī_SIF devebhyaḥ_deva_PDM havyam_havya_SANe vahatu_vah_SPr3Im prajānan_prajñā_SNPaPrM iti_iti_ chandobhiḥ_chandas_PINe eva_eva_ enam_enad_SAM svāt_sva_SBM yoneḥ_yo"
+  },
+  {
+    "index": 19882,
+    "sanskrit": "svameva svāgataṃ kṛtvā tena sārdhaṃ bhagīrathaḥ / kaṃcitkālamuvāsādrau vane grāme pure jane //",
+    "english": "They welcomed one another, and then joining together, they both began to wander about the localities of men, and to pass over hills and deserts in their holy peregrinations.",
+    "morphology": "svam_sva_SANe eva_eva_ svāgatam_svāgata_SANe kṛtvā_kṛ_Co tena_tad_SIM sārdham_sārdham_ bhagīrathaḥ_bhagīratha_SNM  / kaṃcid_kaścit_SAM kālam_kāla_SAM uvāsa_vas_SPs3In adrau_adri_SLM vane_vana_SLNe grāme_grāma_SLM pure_pura_SLNe jane_ja"
+  },
+  {
+    "index": 19883,
+    "sanskrit": "yadi evam vakṣyase bhūyas mām apriyam iha dvija",
+    "english": "It is for this thou insultest me thus.",
+    "morphology": "yadi_yadi_U"
+  },
+  {
+    "index": 19884,
+    "sanskrit": "īkṣaṇaśravaṇe vyākhyāte /",
+    "english": "\"Seeing\" and \"hearing\" have been already explained.",
+    "morphology": "īkṣaṇa_īkṣaṇa_Cp śravaṇe_śravaṇa_DuNNe"
+  },
+  {
+    "index": 19885,
+    "sanskrit": "mārjakarakṣakadharakamāyakamāpakadāyakadāpakaśalākaapratigrāhakadāsakarmakaravargaś ca viṣṭiḥ //",
+    "english": "those who weigh things dharaka; those who measure grains, etc; those who supervise the work of measuring grains mápaka; those who supervise the supply of Kautilyas Arthashastra commodities to the storehouse dápaka;",
+    "morphology": "mārjaka_mārjaka_Cp rakṣaka_rakṣaka_Cp dharaka_dharaka_Cp māyaka_māyaka_Cp māpaka_māpaka_Cp dāyaka_dāyaka_Cp dāpaka_dāpaka_Cp śalāka_śalāka_Cp a_a_ pratigrāhaka_pratigrāhaka_Cp dāsa_dāsa_Cp karmakara_karmakara_Cp vargaḥ_varga_SNM ca_"
+  },
+  {
+    "index": 19886,
+    "sanskrit": "saṃtāna prakṣayāt brahman adhas gacchāma medinīm",
+    "english": "We are sinking low into the earth for want of offspring.",
+    "morphology": "saṃtāna_saṃtāna_MCp"
+  },
+  {
+    "index": 19887,
+    "sanskrit": "tvayi nādyāvalokyante deva vyomnīva parvatāḥ / kiṃ tvamadyāṅga saṃpannaḥ kiṃniṣṭho'si kimīhase //",
+    "english": "Don't you yet perceive that these false creations of your imagination, are as unreal as the situation or appearance of mountains in the empty air?",
+    "morphology": "tvayi_tvad_SL na_na_ adya_adya_ avalokyante_avalokay_PPr3InPv deva_deva_SVM vyomni_vyoman_SLM iva_iva_ parvatāḥ_parvata_PNM  / kim_ka_SANe tvam_tvad_SN adya_adya_ aṅga_aṅga_"
+  }
+]

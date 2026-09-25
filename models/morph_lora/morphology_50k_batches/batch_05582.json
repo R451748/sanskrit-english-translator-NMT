@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44648,
+    "sanskrit": "uccheda niṣṭhā na iha asti bhāva niṣṭhā na vidyate",
+    "english": "Nor is that consummation any kind of Existence (that one can readily conceive).",
+    "morphology": "uccheda_uccheda_MCp niṣṭhā_niṣṭhā_SNF na_na_U iha_iha_U asti_as_SPr3In"
+  },
+  {
+    "index": 44649,
+    "sanskrit": "māṃsa uda kumbha ātapatra vipravāraṇa go vṛṣāḥ śukla varṇāḥ ca pūjyante prasthāne darśanam gatāḥ ||",
+    "english": "Raw meat, a pitcher full of water, an umbrella, a Bramhana, an elephant, a cow, an ox and an article of a white colour, should be deemed auspicious sights by a physician on his way to the house of a patient.",
+    "morphology": "māṃsa_māṃsa_NeCp uda_uda_NeCp kumbha_kumbha_MCp ātapatra_ātapatra_NeCp vipravāraṇa_vipravāraṇa_MCp go_go_MCp vṛṣāḥ_vṛṣa_PNM śukla_śukla_Cp varṇāḥ_varṇa_PNM ca_ca_U pūjyante_pūjay_PPr3InPv prasthāne_prasthāna_SLNe darś"
+  },
+  {
+    "index": 44650,
+    "sanskrit": "upanyāso vicāryavastuprakṣepaḥ, vicāro vā / taṃ nibodhata / putraṃ prati putram adhikṛtya uditam uktaṃ sadbhir vidvadbhir maharṣibhiś ca /",
+    "english": "\"Disquisitions\" the setting forth of a matter for investigation; or a dissertation \"Listen\" to that,\"set forth\" put forward \"regarding the son\" with reference to the son,\"by the wise patriarchs and the great sages\".",
+    "morphology": "upanyāsaḥ_upanyāsa_SNM vicārya_vicāray_GdCp vastu_vastu_Cp prakṣepaḥ_prakṣepa_SNM vicāraḥ_vicāra_SNM vā_vā_  / tam_tad_SAM nibodhata_nibudh_PPr2Im  / putram_putra_SAM prati_prati_ putram_putra_SAM adhikṛtya_adhikṛ_Co uditam_vad_SNPaNe"
+  },
+  {
+    "index": 44651,
+    "sanskrit": "prāṇāyāmaḥ tu sa guṇaḥ nirguṇaḥ manasaḥ tathā",
+    "english": "Pranayama is said to be endued with substance;",
+    "morphology": "prāṇāyāmaḥ_prāṇāyāma_SNM tu_tu_U sa_sa_U guṇaḥ_guṇa_SNM nirguṇaḥ_nirguṇa_SNM manasaḥ_manas_SGNe tathā_tathā_U"
+  },
+  {
+    "index": 44652,
+    "sanskrit": "draupadyāḥ tanayānām ca saṃbhavaḥ atra eva kīrtitaḥ",
+    "english": "Yajnaseni's giving birth to children;",
+    "morphology": "draupadyāḥ_draupadī_SGF tanayānām_tanaya_PGM ca_ca_U saṃbhavaḥ_sambhava_SNM"
+  },
+  {
+    "index": 44653,
+    "sanskrit": "dharma guhyāni yuṣmākam śrotum icchāmi tattvataḥ",
+    "english": "I desire to PART I bear you discourse on that subject in detail.",
+    "morphology": "dharma_dharma_MCp guhyāni_guhya_PANe yuṣmākam_tvad_PG śrotum_śru_In icchāmi_iṣ_SPr1In tattvataḥ_tattva_SBNe"
+  },
+  {
+    "index": 44654,
+    "sanskrit": "artha siddheḥ param dharmam manyate yaḥ mahīpatiḥ ṛtām ca kurute buddhim sa dharmeṇa virocate",
+    "english": "That king who regards righteousness to be the most efficacious means for accomplishing his objects, and who acts according to the counsels of those that are righteous, blazes forth with righteousness.",
+    "morphology": "artha_artha_MCp siddheḥ_siddhi_SBF param_para_SAM dharmam_dharma_SAM manyate_man_SPr3In yaḥ_yad_SNM mahīpatiḥ_mahīpati_SNM ṛtām_ṛta_SAF ca_ca_U kurute_kṛ_SPr3In buddhim_buddhi_SAF sa_tad_SNM dharmeṇa_dharma_SIM virocate_viruc_SPr3In"
+  },
+  {
+    "index": 44655,
+    "sanskrit": "samudāyapratiṣṭhāñca vakṣye sā vāsudevavat /",
+    "english": "One of the formulae for ascertaining the right proportion of measurement.",
+    "morphology": "samudāya_samudāya_Cp pratiṣṭhām_pratiṣṭhā_SAF ca_ca_ vakṣye_vac_SFu1In sā_tad_SNF vāsudeva_vāsudeva_Cp vat_vat_"
+  }
+]

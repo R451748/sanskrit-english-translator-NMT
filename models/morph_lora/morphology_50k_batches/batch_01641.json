@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13120,
+    "sanskrit": "dānāni dadyādicchāto dvijebhyaḥ kṣatriyopi vā / yajecca vividhair yajñair adhīyīta ca pārthivaḥ //",
+    "english": "”The man of the warrior tribe should cheerfully give presents to Brahmans, perform various sacrifices, and study the scriptures.",
+    "morphology": "dānāni_dāna_PANe dadyāt_dā_SPr3O icchātaḥ_icchā_SBF dvijebhyaḥ_dvija_PDM kṣatriyaḥ_kṣatriya_SNM api_api_ vā_vā_  / yajet_yaj_SPr3O ca_ca_ vividhaiḥ_vividha_PIM yajñaiḥ_yajña_PIM adhīyīta_adhī_SPr3O ca_ca_ pārthivaḥ_pārthiva_"
+  },
+  {
+    "index": 13121,
+    "sanskrit": "bhārate parvasamāptau vastragandhasragādibhiḥ // vācakaṃ pūjayedādau bhojayet pāyasair dvijān /",
+    "english": "The reciter of the Mahā bharata should be honoured with clothes, perfumes, garlands and other things after the completion of each parvan each one of the eighteen divisions and brahmins should be fed with sweet gruel.",
+    "morphology": "bhārate_bhārata_SLNe parva_parvan_Cp samāptau_samāpti_SLF vastra_vastra_Cp gandha_gandha_Cp sraj_sraj_Cp ādibhiḥ_ādi_PIM  // vācakam_vācaka_SAM pūjayet_pūjay_SPr3O ādau_ādau_ bhojayet_bhojay_SPr3O pāyasaiḥ_pāyasa_PINe dvijān_dvija_PAM  /"
+  },
+  {
+    "index": 13122,
+    "sanskrit": "ap su agne sadhiḥ tava saḥ oṣadhīḥ anu rudhyase garbhe san jāyase punariti",
+    "english": "Agni, thine home is in the floods: into the plants thou forcest way, And as their Child art born anew.",
+    "morphology": "ap_ap_SNF su_su_U agne_agni_SVM sadhiḥ_sadhis_SNNe tava_tvad_SG saḥ_tad_SNM oṣadhīḥ_oṣadhi_PAF anu_anu_U rudhyase_rudh_SPr2InPv garbhe_garbha_SLM san_as_SNPaPrM jāyase_jan_SPr2In punar_punar_U"
+  },
+  {
+    "index": 13123,
+    "sanskrit": "tathā ca brāhmaṇenāpi mayā śaivo guruḥ kṛtaḥ | vaṃcitaśca tathānekaiścāṭubhirvihṛtaṃ dhanam || 75 ||",
+    "english": "75. Though I am a Brāhmaṇa, I made a devotee of Śiva my preceptor. With many flattering remarks, he was deceived by me and his hoarded cash was looted.",
+    "morphology": "tathā_tathā_ ca_ca_ brāhmaṇena_brāhmaṇa_SIM api_api_ mayā_mad_SI śaivaḥ_śaiva_SNM guruḥ_guru_SNM kṛtaḥ_kṛ_SNPaM  / vaṃcitaḥ_vañcay_SNPaM ca_ca_ tathā_tathā_ anekaiḥ_aneka_PIM cāṭubhiḥ_cāṭu_PIM vihṛtam_vihṛ_SNPaNe d"
+  },
+  {
+    "index": 13124,
+    "sanskrit": "droṇaśūrpāḍhakadayo mānaviśeṣāḥ, teṣāṃ yogā ye hastena mīyante //",
+    "english": "He shall know all such weights as the \"droṇa,\" the \"śūrpa\" the \"āḍhaka\" and so forth, as also the measures0.",
+    "morphology": "droṇa_droṇa_Cp śūrpa_śūrpa_Cp āḍhaka_āḍhaka_Cp dayaḥ_daya_SNM māna_māna_Cp viśeṣāḥ_viśeṣa_PNM teṣām_tad_PGM yogāḥ_yoga_PNM ye_yad_PNM hasta_hasta_SIM mīyante_mā_PPr3InPv  /"
+  },
+  {
+    "index": 13125,
+    "sanskrit": "anyatra māt-pit-bhrāt-svajana-mitra-dravyasya,",
+    "english": "* Except it is not taking what has not been given when one procures a small amount,",
+    "morphology": "anyatra_anyatra_ mātṛ_mātṛ_Cp pitṛ_pitṛ_Cp bhrātṛ_bhrātṛ_Cp sva_sva_Cp jana_jana_Cp mitra_mitra_Cp dravyasya_dravya_SGNe"
+  },
+  {
+    "index": 13126,
+    "sanskrit": "yat yat ca na abhijānāti yat bhojyam na abhinandati",
+    "english": "I never ate food of any kind which was unknown to my husband and at which my husband was not pleased.",
+    "morphology": "yat_yad_SANe yat_yad_SANe ca_ca_U na_na_U abhijānāti_abhijñā_SPr3In"
+  },
+  {
+    "index": 13127,
+    "sanskrit": "ucchedaṃ saṃprayātāni tīrthānyāyatanāni ca | yānyahaṃ veda kārtsnyena prabhāvasahitāni ca | tāni vaḥ kīrtayiṣyāmi śṛṇudhvaṃ susamāhitāḥ || 25 ||",
+    "english": "But what I know I shall entirely (along with their efficacy) narrate to you. Listen with attention.",
+    "morphology": "ucchedam_uccheda_SAM saṃprayātāni_saṃprayā_PNPaNe tīrthāni_tīrtha_PNNe āyatanāni_āyatana_PNNe ca_ca_  / yāni_yad_PANe aham_mad_SN veda_vid_SPs1In kārtsnyena_kārtsnya_SINe prabhāva_prabhāva_Cp sahitāni_sahita_PANe ca_ca_  / tāni_tad_PANe"
+  }
+]

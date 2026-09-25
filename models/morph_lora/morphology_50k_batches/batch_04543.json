@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36336,
+    "sanskrit": "prakṣālanena laghunī vāsasī bhavataḥ / ato laghutvena vāsasaḥ śuddhir lakṣyate /",
+    "english": "\"Wears light clothing\";ie, with clothes thoroughly washed; a thorough washing always makes the cloth \"light\"; hence \"lightness\" indicates cleanliness.",
+    "morphology": "prakṣālanena_prakṣālana_SINe laghunī_laghu_DuNNe vāsasī_vāsas_DuNNe bhavataḥ_bhū_DuPr3In  / atas_atas_ laghu_laghu_Cp tvena_tva_SINe vāsasaḥ_vāsas_SGNe śuddhiḥ_śuddhi_SNF lakṣyate_lakṣay_SPr3InPv  /"
+  },
+  {
+    "index": 36337,
+    "sanskrit": "iha bhikṣavaḥ upasaṃkrānteṣu śīlavatsu",
+    "english": "Here, monastics, when the virtuous have approached",
+    "morphology": "iha_iha_"
+  },
+  {
+    "index": 36338,
+    "sanskrit": "tatas te prāviśan pārthāḥ hata tviṭkam hata īśvaram duryodhanasya śibiram raṅga vat visṛte jane",
+    "english": "The Parthas then entered the tent of Duryodhana, shorn of its splendours and reft of its lord and looking like an arena of amusement after it has been deserted by spectators.",
+    "morphology": "tatas_tatas_U te_tad_PNM prāviśan_praviś_PPs3In pārthāḥ_pārtha_PNM hata_han_PaPsCp tviṭkam_tviṭka_SANe hata_han_PaPsCp īśvaram_īśvara_SANe duryodhanasya_duryodhana_SGM śibiram_śibira_SANe rāṇā_rāṇā_SNF"
+  },
+  {
+    "index": 36339,
+    "sanskrit": "rakṣyāṇi etāni devānām gūḍha māyāḥ hi devatāḥ",
+    "english": "The gods keep up the mystery, for the illusion covering the conduct of the gods is unintelligible.",
+    "morphology": "rakṣyāṇi_rakṣ_PNNeGd"
+  },
+  {
+    "index": 36340,
+    "sanskrit": "atrā'nimittatvaṃ nimittanirodha ucyate /",
+    "english": "Signlessness, in this context, is described as the cessation of signs.",
+    "morphology": "__atra_U __U __U"
+  },
+  {
+    "index": 36341,
+    "sanskrit": "tasya ca phalaṃ parārthaniṣpattireva /",
+    "english": "It has a great task to acco- mplish, viz., the creation of the universe.",
+    "morphology": "tasya_tad_SGM ca_ca_ phalam_phala_SNNe parārtha_parārtha_Cp niṣpattiḥ_niṣpatti_SNF eva_"
+  },
+  {
+    "index": 36342,
+    "sanskrit": "varṣā vigame ca uddhṛtya upasaṃskṛta śarīraḥ sahasra saṃpāta abhihutam kṛtvā prātaḥprātar yathābalam upayuñjīta |",
+    "english": "Its contents should then be consecrated with (appropriate) Mantras by uttering them a thousand times and should be taken every morning in suitable quantities after the system has been thoroughly cleansed (by appropriate emetics and purgatives, etc.).",
+    "morphology": "varṣā_varṣā_FCp vigame_vigama_SLM ca_ca_U uddhṛtya_uddhṛ_Co upasaṃskṛta_upasaṃskṛ_PaPsCp śarīraḥ_śarīra_SNM sahasra_sahasra_NeCp saṃpāta_sampāta_MCp abhihutam_abhihu_SAPaPsNe kṛtvā_kṛ_Co prātaḥprātar_prātaḥprātar_U "
+  },
+  {
+    "index": 36343,
+    "sanskrit": "śuklāyāntu tṛtīyāyāmevaṃ śrāvaṇabhādrayoḥ | yo vrataṃ kurute'mbāyāḥ pūjanaṃ ca yathāvidhi || modate putrapautrādyairdhanādyairiha santatam | so'nte gacchedumālokaṃ sarvalokopari sthitam ||",
+    "english": "70-72. The intelligent man who performs the worship, holy rites, the festival of the chariot, the worship of the Mother, on the third day of the bright half of the Śrāvana and Bhādrapada, rejoices with his family. In the end he goes to the region of Umā at the highest upper worlds.",
+    "morphology": "śuklāyāntu_śuklāyā_PPr3Im tu_tu_ tṛtīyāyām_tṛtīyā_SLF evam_evam_ śrāvaṇa_śrāvaṇa_Cp bhādrayoḥ_bhādra_DuLM  / yaḥ_yad_SNM vratam_vrata_SANe kurute_kṛ_SPr3In ambāyāḥ_ambā_SGF pūjanam_pūjana_SANe ca_ca_ yathāvidhi_yathā"
+  }
+]

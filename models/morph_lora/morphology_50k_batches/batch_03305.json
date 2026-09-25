@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26432,
+    "sanskrit": "tasyāsīt svagṛhodyāne kalpavṛkṣo 'nvayāgataḥ / yathārthanāmā prathito yo manorathadāyakaḥ //",
+    "english": "In his palace garden there was a wishing-tree, which was an heirloom in his family, which was well known as the Granter of Desires, and not named so without reason.",
+    "morphology": "tasya_tad_SGM āsīt_as_S3ImIn sva_sva_Cp gṛha_gṛha_Cp udyāne_udyāna_SLNe kalpavṛkṣaḥ_kalpavṛkṣa_SNM anvaya_anvaya_Cp āgataḥ_āgam_SNPaM  / yathārtha_yathārtha_Cp nāmā_nāman_SNM prathitaḥ_prath_SNPaM yaḥ_yad_SNM ḥ_ḥ_SNM ḥ_"
+  },
+  {
+    "index": 26433,
+    "sanskrit": "ye yadākārānusyūtās te tan mayā yathā ghaṭaśarāvodañcanādayo mṛdvikārāḥ mṛdākārānugatāḥ padārthā mṛṇamayatvena prasiddhāḥ /",
+    "english": "‘in the form of the Letter-Sounds’; as it is the Letters ‘a’ and the rest which are the means (of the expressing of Word-Sound); this indicates the evolution in the form of the ‘word’, the ‘name’; the evolution in the form of the ‘thing denoted’ is indicated by the phrase ‘in the form of things’;",
+    "morphology": "ye_yad_PNM yad_yad_Cp ākāra_ākāra_Cp anusyūtāḥ_anusīv_PNPaM te_tad_PNM tat_tad_SNNe mayā_mad_SI yathā_yathā_ ghaṭa_ghaṭa_Cp śarāva_śarāva_Cp udañcana_udañcana_Cp ādayaḥ_ādi_PNM mṛd_mṛd_Cp vikārāḥ_vikāra_PNM mṛd_mṛd_Cp"
+  },
+  {
+    "index": 26434,
+    "sanskrit": "brahma bhūtaḥ caran loke brahmacārī bhavati ayam",
+    "english": "By moving in the world, identifying himself the while with Brahman, he becomes a Brahmacharin.",
+    "morphology": "brahma_brahman_SNNe bhūtaḥ_bhū_SNPaPsM"
+  },
+  {
+    "index": 26435,
+    "sanskrit": "vijānanneva satyaṃ vadati /",
+    "english": "and it is only when one understands the True that he declares the True;",
+    "morphology": "vijānan_vijñā_SNPaPrM eva_eva_ satyam_satya_SANe vadati_vad_SPr3In  /"
+  },
+  {
+    "index": 26436,
+    "sanskrit": "ca sati / naiṣa doṣaḥ /",
+    "english": "AnswerThis does not vitiate our position",
+    "morphology": "ca_ca_ sati_as_SLPaPrNe  /"
+  },
+  {
+    "index": 26437,
+    "sanskrit": "kiran iṣu gaṇān tikṣṇān sva raśmīn iva bhāskaraḥ tāpayām āsa tat sainyam deham vyādhi gaṇaḥ yathā",
+    "english": "The son of Pandu, however, like diseases scorching the body, blasted that army, scattering his sharp shafts and resembling on that account the sun himself scattering his countless rays of light.",
+    "morphology": "kiran_kṛ_SNPaPrM iṣu_iṣu_MCp gaṇān_gaṇa_PAM tikṣṇān_tikṣṇa_PAM sva_sva_Cp raśmīn_raśmi_PAM iva_iva_U bhāskaraḥ_bhāskara_SNM tāpayām_tāpay_SPs3In āsa_as_SPs3In tat_tad_SANe sainyam_sainya_SANe deham_deha_SANe"
+  },
+  {
+    "index": 26438,
+    "sanskrit": "tad api tatra pratīyata eva / itthaṃ nāma paśuyāgaḥ kartavyo yad asatsu paśuṣu gatyantrābhāvāt prajāpatinātmaiva puśutvena kalpito vapā cotkhinnā / yatas tatsahitāny eva vidhāyakāni yatrārthavādāḥ santi /",
+    "english": "This praise of the enjoined thing is also expressed by the Arthavāda; for instance, the sense of the passage in question is this \"it is so necessary to perform animalsacrifices that, at a time when no animals were available, and there was no other remedy, Prajāpati constituted himself into the animal and cut out his own fat\" That such is the construction to be put upon the Arthavāda is shown by the fact that whenever we have Arthavādas, they always accompany injunctive passages.",
+    "morphology": "tat_tad_SNNe api_api_ tatra_tatra_ pratīyate_pratī_SPr3InPv eva_eva_  / ittham_ittham_ nāma_nāma_ paśu_paśu_Cp yāgaḥ_yāga_SNM kartavyaḥ_kṛ_SNMGd yat_yat_ asatsu_asat_PLM paśuṣu_paśu_PLM gati_gati_Cp antra_antra_Cp abhāvāt_abhāva_SBM pr"
+  },
+  {
+    "index": 26439,
+    "sanskrit": "saptāṅgasya tu rājyasya vighnakartṝn vināśayet / maṇḍaleṣu ca sarveṣu vṛddhiḥ kāryā mahīkṣitā //",
+    "english": "One should destroy all those who obstruct the normal course of the seven constituents of a kingdom. Efforts should be made by the king to make all these circles develop.",
+    "morphology": "sapta_saptan_Cp aṅgasya_aṅga_SGNe tu_tu_ rājyasya_rājya_SGNe vighna_vighna_Cp kartṝn_kartṛ_PAM vināśayet_vināśay_SPr3O  / maṇḍaleṣu_maṇḍala_PLM ca_ca_ sarveṣu_sarva_PLM vṛddhiḥ_vṛddhi_SNF kāryā_kṛ_SNFGd mahīkṣitā_mah"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25016,
+    "sanskrit": "ūrdhvam dṛṣṭiḥ bāhavaḥ ca ekāgram ca manaḥ abhavat eka pāda sthitāḥ samyak kāṣṭha bhūtāḥ samāhitāḥ",
+    "english": "They stood there with mind fixed, immovable as posts of wood, and with eyes upturned and arms raised upwards.",
+    "morphology": "ūrdhvam_ūrdhvam_U dṛṣṭiḥ_dṛṣṭi_SNF bāhavaḥ_bāhu_PNM ca_ca_U ekāgram_ekāgra_SNNe ca_ca_U manaḥ_manas_SNNe abhavat_bhū_SPs3In eka_eka_Cp pāda_pāda_MCp sthitāḥ_sthā_PNPaPsM samyak_samyak_U kāṣṭha_kāṣṭha_NeCp bhūtāḥ"
+  },
+  {
+    "index": 25017,
+    "sanskrit": "apare mānavāḥ devi pradāna kṛpaṇāḥ dvijaiḥ",
+    "english": "There are others, O goddess, that are incapable of making gifts.",
+    "morphology": "apare_apara_PNM"
+  },
+  {
+    "index": 25018,
+    "sanskrit": "svatantraḥ kṣārapratiṣedho hi dvandve sati syāt / tatra vacanapravṛttiḥ padadvayasya ca lakṣaṇārthā / yugapadadhikaraṇatāyāṃ dvandvaḥ / sthite viśeṣaṇasamāse viśiṣṭasvyārthasya nānujñāsaṃbandhaḥ /",
+    "english": "If the two terms were independent, the compound would be a copulative one, and this would mean the prohibition of \"pungent substances\" also; and in that case it would be necessary to take the singular number as indirectly indicating the dual; as we have the copulative compound only, both the components are equally important at one and the same time. When however, the compound is taken as a \"qualitative\" one \"pungent\" being a qualification of the \"salt\" , we obtain a qualified denotation.",
+    "morphology": "svatantraḥ_svatantra_SNM kṣāra_kṣāra_Cp pratiṣedhaḥ_pratiṣedha_SNM hi_hi_ dvandve_dvaṃdva_SLNe sati_as_SLPaPrNe syāt_as_SPr3O  / tatra_tatra_ vacana_vacana_Cp pravṛttiḥ_pravṛtti_SNF pada_pada_Cp dvayasya_dvaya_SGNe ca_ca_ lakṣaṇa"
+  },
+  {
+    "index": 25019,
+    "sanskrit": "svasti daḥ svasti kṛt svasti svasti bhuj svasti dakṣiṇaḥ",
+    "english": "He that is the giver of all blessings; He that creates blessings;",
+    "morphology": "svasti_svasti_NeCp_U daḥ_da_SNM svasti_svasti_NeCp kṛt_kṛt_SNM svasti_svasti_NeCp_SNM svasti_svasti_NeCp bhuj_bhuj_SNM"
+  },
+  {
+    "index": 25020,
+    "sanskrit": "parṣadaś{ar}ādya-bhayaṃ",
+    "english": "and fear through timidity.",
+    "morphology": ""
+  },
+  {
+    "index": 25021,
+    "sanskrit": "anantāpāraparyantavapurātmavidāṃvara / dharādharaśirodhīro vijvaro bhava rāghava //",
+    "english": "With your spiritual body reaching beyond the unbounded space, and rising above the height of the highest mountain, be freed from the feverish and petty cares of life.",
+    "morphology": "ananta_ananta_Cp a_a_ pāra_pāra_Cp paryanta_paryanta_Cp vapuḥ_vapus_SNM ātma_ātman_Cp vidām_vid_PGM vara_vara_SVM  / dharādhara_dharādhara_Cp śiraḥ_śiras_Cp dhīraḥ_dhīra_SNM vijvaraḥ_vijvara_SNM bhava_bhū_SPr2Im "
+  },
+  {
+    "index": 25022,
+    "sanskrit": "tasminnavasare cāhaṃ śivamāyāvimohitaḥ | apaśyañcaraṇe devyā nakhenduñca manoharam ||",
+    "english": "5. On that occasion, deluded by Śiva’s power of illusion I stared at the feet of the goddess as well as the crescentshaped nails.",
+    "morphology": "tasmin_tad_SLM avasare_avasara_SLM ca_ca_ aham_mad_SN śiva_śiva_Cp māyā_māyā_Cp vimohitaḥ_vimohay_SNPaM  / a_a_ paśyan_paś_SNPaPrM caraṇe_caraṇa_SLM devyāḥ_devī_SGF nakha_nakha_Cp induḥ_indu_SNM ca_ca_ manoharam_manohara_SAM"
+  },
+  {
+    "index": 25023,
+    "sanskrit": "r̥tasya hi śuru dhaḥ santi pūrvīḥ r̥tasya dhītiḥ vr̥jināni hanti r̥tasya ślokaḥ badhirā tatarda karṇā budhānaḥ śucamānaḥ āyoḥ",
+    "english": "Eternal Law hath varied food that strengthens; thought of eternal Law, removes transgressions. The praise-hymn of eternal Law, arousing, glowing, hath oped the deaf ears of the living.",
+    "morphology": "r̥tasya_r̥ta_SGNe hi_hi_U śuru_śuru_Cp dhaḥ_dhā_PNF santi_as_PPr3In pūrvīḥ_puru_PNF r̥tasya_r̥ta_SGNe dhītiḥ_dhīti_SNF vr̥jināni_vrījina_PANe hanti_han_SPr3In r̥tasya_r̥ta_SGNe ślokaḥ_śloka_SNM badhirā_badhira_DuAM tatarda_tṛd_"
+  }
+]

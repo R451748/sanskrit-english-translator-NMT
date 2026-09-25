@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18896,
+    "sanskrit": "yaḥ payomedurairmeghairlasitaiḥ śrṛṅgakoṭiṣu / latākusumasaṃprotaiḥ kuntalairiva rājate //",
+    "english": "The fleecy clouds which incessantly drizzled with rain water from its thousand peaks; and washed the plants and flowers below, appeared as tufts of hair hanging down from heaven to earth.",
+    "morphology": "yaḥ_yad_SNM payaḥ_payas_Cp meduraiḥ_medura_PIM meghaiḥ_megha_PIM lasitaiḥ_las_PIPaM śrṛṅga_śrṛṅga_Cp koṭiṣu_koṭi_PLF  / latā_latā_Cp kusuma_kusuma_Cp saṃprotaiḥ_saṃprota_PIM kuntalaiḥ_kuntala_PIM iva_iva_ rājate_rāj_SP"
+  },
+  {
+    "index": 18897,
+    "sanskrit": "yāvatkālakriyādeśāstvamahaṃsainikā iva / brahmaṇīva parispandā nātra staḥ sadasadbhramau //",
+    "english": "As long as we are in action under the command of our general, we act our parts like soldiers in the field; we all live and move in Brahma alone, and there is no mistake of right or wrong in this.",
+    "morphology": "yāvat_yāvat_ kālakriyā_kālakriyā_Cp deśāḥ_deśa_PNM tvam_tvad_SN aham_mad_SN sainikāḥ_sainika_PNM iva_iva_  / brahmaṇi_brahman_SLNe iva_iva_ parispandāḥ_parispanda_PNM na_na_ atra_atra_ staḥ_as_DuPr3In sat_as_PaPrCp asat_asat_Cp bhramau"
+  },
+  {
+    "index": 18898,
+    "sanskrit": "tejaḥ laukyam sa saṃgṛhya tasmin deśe samāviśat",
+    "english": "Indeed, collecting all the energy that occurs in the object of the universe, Bharadwaja put them together in the body of prince Pratarddana.",
+    "morphology": "tejaḥ_tejas_SANe laukyam_laukya_SANe sa_tad_SNM saṃgṛhya_saṃgrah_Co"
+  },
+  {
+    "index": 18899,
+    "sanskrit": "muñjas tṛṇajātis tadvikāro mauñjī / sā brāhmaṇasya mekhalā raśanā kartavyā madhyabandhanī /",
+    "english": "The muñja is a particular kind of grass; the cord made of that grass is called \"Mauñjī\" This cord should form the \"girdle,\" hraid, waistband.",
+    "morphology": "muñjaḥ_muñja_SNM tṛṇa_tṛṇa_Cp jātiḥ_jāti_SNF tad_tad_Cp vikāraḥ_vikāra_SNM mauñjī_mauñjī_SNF  / sā_tad_SNF brāhmaṇasya_brāhmaṇa_SGM mekhalā_mekhalā_SNF raśanā_raśanā_SNF kartavyā_kṛ_SNFGd madhya_madhya_Cp bandhanī_b"
+  },
+  {
+    "index": 18900,
+    "sanskrit": "tasyaatikrame pūrvaḥ sāhasadaṇḍaḥ,",
+    "english": "Violation of this rule shall be punished with the first amercement",
+    "morphology": "tasya_tad_SGM atikrame_atikrama_SLM"
+  },
+  {
+    "index": 18901,
+    "sanskrit": "kimato 'pyasti parihāṇiḥ / astītyāha /",
+    "english": "But the question is raised whether one can fall from the absorption.",
+    "morphology": "kim_ka_SNNe atas_atas_ api_api_ asti_as_SPr3In parihāṇiḥ_parihāṇi_SNF  / asti_as_SPr3In iti_iti_"
+  },
+  {
+    "index": 18902,
+    "sanskrit": "gṛham gate nanda vare haris taṃ papraccha sarvam kuśalam sva pitroḥ tathā yadūnām kila bāndhavānāṃ kaṃsasya sarvam viparīta buddhim",
+    "english": "When Nanda had gone, Kṛṣṇa asked about the welfare of His father and His kinsmen, the Yādavas, and about the wicked deeds of Kaṃsa.",
+    "morphology": "gṛham_gṛha_SANe gate_gam_SLPaPsM nanda_nanda_MCp vare_vara_SLM hariḥ_hari_SNM tam_tad_SAM papraccha_pracch_SPs3In sarvam_sarva_SANe kuśalam_kuśala_SANe sva_sva_Cp pitroḥ_pitṛ_DuGM tathā_tathā_U yadūnām_yadu_PGM kila_kila_U bāndhavānām_b"
+  },
+  {
+    "index": 18903,
+    "sanskrit": "tasmādeṣa mamādeśādārādha yatu śaṃkaram | pakṣalābhāya nānyasya śaktirdātuṃ vyavasthitā || 11 ||",
+    "english": "11. Hence at my behest, let him propitiate Śaṅkara for the restoration of the wings. No one else has enough competence vested in him to grant him (the wings).",
+    "morphology": "tasmāt_tasmāt_ eṣa_etad_SNM mama_mad_SG ādeśāt_ādeśa_SBM ārādha_ārādh_SPs3In yatu_i_SPr3Im śaṃkaram_śaṃkara_SAM  / pakṣa_pakṣa_Cp lābhāya_lābha_SDM na_na_ anyasya_anya_SGM śaktiḥ_śakti_SNF dātum_dā_In vyavasthitā_vyavasthā"
+  }
+]

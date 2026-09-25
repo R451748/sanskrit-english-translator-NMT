@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26168,
+    "sanskrit": "snātvā prāduścakāra agnim hutvā ca eva vidhānataḥ rudrāṇī kūpam āsādya hrade tatra samāśvasat",
+    "english": "He once more performed his ablutions in the sacred waters of the Vahuda and then ignited his homa fire and worshipped it with the aid of many foremost of Vedic mantras.[193] He then worshipped with due rites both Rudra and his spouse Uma, and rested for some more time by the side of that lake in the course of the Vahuda whose shores he had reached.",
+    "morphology": "snātvā_snā_Co prāduścakāra_prāduṣkṛ_SPs3In agnim_agni_SAM hutvā_hu_Co ca_ca_U eva_eva_U vidhānataḥ_vidhāna_SBNe rudrāṇī_rudrāṇī_FCp kūpam_kūpa_SAM āsādya_āsāday_Co hrade_hrada_SLNe tatra_tatra_U samāśvasat_samāśvas_SPs3In"
+  },
+  {
+    "index": 26169,
+    "sanskrit": "dṛṣṭvā ca kurusauvīra saindhavānām bala kṣayam sa varma dhvaja śastraiḥ ca patitaiḥ saṃvṛtām mahīm rathaiḥ vimathitaiḥ bhagnaiḥ aśvaiḥ ca anyaiḥ pravegitaiḥ",
+    "english": "Beholding that slaughter of the Kuru, the Sauvira, and the Sindhu heroes, and marking that the earth was covered with coats of mail and standards and weapons lying about, and also seeing the lifeless forms of elephants, foot-soldiers and horsemen and car-warriors on all sides, the body of the Suta's son, from wrath, blazed up with effulgence.",
+    "morphology": "dṛṣṭvā_dṛś_Co ca_ca_U kurusauvīra_kurusauvīra_MCp saindhavānām_saindhava_PGM bala_bala_NeCp kṣayam_kṣaya_SAM sa_sa_U varma_varman_NeCp dhvaja_dhvaja_MCp śastraiḥ_śastra_PINe ca_ca_U patitaiḥ_pat_PIPaPsNe saṃvṛtām_saṃvṛ_SAPa"
+  },
+  {
+    "index": 26170,
+    "sanskrit": "prātaḥkālavidhau hi yadṛcchayā bhojanaṃ prāptaṃ vartate /",
+    "english": "This rule regarding eating in the morning precludes eating at random.",
+    "morphology": "prātaḥkāla_prātaḥkāla_Cp vidhau_vidhi_SLM hi_hi_ yadṛcchayā_yadṛcchā_SIF"
+  },
+  {
+    "index": 26171,
+    "sanskrit": "vikāsī vikasan evam dhātubandhān vimokṣayet |",
+    "english": "Narcotism changes the condition of vitality.",
+    "morphology": "vikāsī_vikāsin_SNM vikasan_vikas_SNPaPrM eva_"
+  },
+  {
+    "index": 26172,
+    "sanskrit": "śabdādbhaṅgaṃ pravakṣyāmi dūraṃ mantreṇa bodhayet /",
+    "english": "shall describe the invocation with the sacred syllable which would rout the enemy force from a distance by its sound.",
+    "morphology": "śabdāt_śabda_SBM bhaṅgam_bhaṅga_SAM pravakṣyāmi_pravac_SFu1In dūram_dūram_"
+  },
+  {
+    "index": 26173,
+    "sanskrit": "śrī nārada uvāca śrutvā brahmā deva gaṇair natvā kṛṣṇaṃ parāt parambhūmim āśvāsya vāṇībhiḥ sva dhāma nijam āyayau",
+    "english": "Śrī Nārada said: Hearing this, Brahmā and the demigods bowed down before Lord Kṛṣṇa, who is greater than the greatest, and, comforted the earth goddess, and each went to his own abode.",
+    "morphology": "śrī_śrī_FCp nārada_nārada_SNM uvāca_vac_SPs3In śrutvā_śru_Co brahmā_brahman_SNM deva_deva_MCp gaṇaiḥ_gaṇa_PIM natvā_nam_Co kṛṣṇam_kṛṣṇa_SAM parāt_para_SBNe parambhūmim_parambhūmi_SAF āśvāsya_āśvāsay_Co vāṇī_vāṇ"
+  },
+  {
+    "index": 26174,
+    "sanskrit": "rudropendramahendrādyā śailasāgarasaṃkulā / pātālarododiksvargamārgasaṃkaṭakoṭarā //",
+    "english": "It made the gods Indra, Upendra and Mahendra and others, and also the hills and seas in all the worlds above and below us, and in the ten sides of the heaven above:—",
+    "morphology": "rudra_rudra_Cp upendra_upendra_Cp mahendra_mahendra_Cp ādyā_ādya_SNF śaila_śaila_Cp sāgara_sāgara_Cp saṃkulā_saṃkula_SNF  / pātāla_pātāla_Cp roda_roda_Cp ā_ā_ idā_idā_SNF sā_tad_SNF ā_ā_ idā_idā_SNF "
+  },
+  {
+    "index": 26175,
+    "sanskrit": "tvam eva ca madākhyātaguṇo baddhānurāgayā / tayā bhartā vṛtastac ca tavāhaṃ vaktumāgataḥ //",
+    "english": "And she has chosen you as her future husband, having fallen in love with you on account of my description of your virtues;",
+    "morphology": "tvam_tvad_SN eva_eva_ ca_ca_ mad_mad_Cp ākhyāta_ākhyā_PaCp guṇaḥ_guṇa_SNM baddha_bandh_PaCp anurāgayā_anurāga_SIF  / tayā_tad_SIF bhartā_bhartṛ_SNM vṛtaḥ_vṛ_SNPaM tat_tad_SANe ca_ca_ tava_tvad_SG aham_mad_SN vaktum_vac_In āgataḥ_"
+  }
+]

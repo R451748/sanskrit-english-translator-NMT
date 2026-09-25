@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29384,
+    "sanskrit": "devā vai purā rakṣobhyaḥ | iti svāhākāreṇa prayājeṣu yajñaṃ saṃsthāpyam apaśyan taṃ svāhākāreṇa prayājeṣu sam asthāpayan vi vā etad yajñaṃ chindanti yat svāhākāreṇa prayājeṣu saṃsthāpayanti prayājān iṣṭvā havīṃṣy abhi ghārayati yajñasya saṃtatyai |",
+    "english": "The gods thought that the sacrifice must be completed (in the fore-sacrifice) before the Raksases [5] with the cry of 'Hail!' They completed it with the cry of 'Hail!' in the fore-sacrifices. They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sacrifices. Having offered the fore sacrifices he sprinkles the oblations, for the continuity of the sacrifice;",
+    "morphology": "devāḥ_deva_PNM vai_vai_ purā_purā_ rakṣobhyaḥ_rakṣas_PBNe  / iti_iti_ svāhākāreṇa_svāhākāra_SIM prayājeṣu_prayāja_PLM yajñam_yajña_SAM saṃsthāpyam_saṃsthāpay_SAMGd apaśyan_paś_P3ImIn tam_tad_SAM svāhākāreṇa_svāhākār"
+  },
+  {
+    "index": 29385,
+    "sanskrit": "me nikuñja nivāsinyo bhaviṣyanti vraje mamaevaṃ ca yamunā yūtho jāhnavī yūtha eva ca",
+    "english": "Some will reside in the forests of My Vraja. Some will reside by the Yamunā and some by the Ganges.",
+    "morphology": "me_mad_SG nikuñja_nikuñja_SVM nivāsinyaḥ_nivāsin_PNF bhaviṣyanti_bhū_PFu3In vraje_vraja_SLM mama_mad_SG evam_evam_"
+  },
+  {
+    "index": 29386,
+    "sanskrit": "majjato'pi bahujñasya rāma karmendriyabhramaiḥ / asaktamanaso nityaṃ na kiṃcidapi majjati //",
+    "english": "The wise may fail in the action of their bodily organs, and falter in their speech also; but their strong and unconcerned minds never fail in their operations, nor despond under the pressure of outward circumstances.",
+    "morphology": "majjataḥ_majj_SGPaPrM api_api_ bahu_bahu_Cp jñasya_jña_SGM rāma_rāma_SVM karmendriya_karmendriya_Cp bhramaiḥ_bhrama_PIM  / asakta_asakta_SVM manasaḥ_manas_SGM ḥ_ḥ_"
+  },
+  {
+    "index": 29387,
+    "sanskrit": "bhavadbhiḥ upalabdhāni kathitāni ca saṃsadi",
+    "english": "O grandsire, were noticed by thee and declared in the assembly.",
+    "morphology": "bhavadbhiḥ_bhavat_PIM"
+  },
+  {
+    "index": 29388,
+    "sanskrit": "ati naḥ viṣpitā puru naubhiḥ apaḥ na parṣatha yūyam r̥tasya rathyśaḥ",
+    "english": "Ye furtherers of holy Law, transport us safe o'er many woes, As over water-floods in ships.",
+    "morphology": "ati_ati_U naḥ_mad_PA viṣpitā_viṣpita_PANe puru_puru_Cp naubhiḥ_nau_PIF apaḥ_ap_PAF"
+  },
+  {
+    "index": 29389,
+    "sanskrit": "| ṛṣaya ūcuḥ | māhittheyaṃ tvayākhyātā yā purā sūtanandana | kena saṃsthāpitā tatra vada sarvamaśeṣataḥ || 1 ||",
+    "english": "The sages said: 1. O Sūta-nandana, earlier you had mentioned the deity Māhitthā. By whom was the deity installed? Do describe every thing without leaving anything. Sūta said:",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / māhitthā_māhitthā_SNF iyam_idam_SNF tvayā_tvad_SI ākhyātā_ākhyā_SNPaF yā_yad_SNF purā_purā_ sūta_sūta_Cp nandana_nandana_SVM  / kena_ka_SIM saṃsthāpitā_saṃsthāpay_SNPaF tatra_tatra_ vada_"
+  },
+  {
+    "index": 29390,
+    "sanskrit": "na pūrvakāt / yasya yat prathamagotraṃ sa tasmānna parihīyate / śaikṣāśaikṣamārgābhyāṃ dṛḍhīkutatvāt /",
+    "english": "The Arhat does not fall away from his first family, from the family which he obtained before he became an Arhat, for this family has been made firm by the Path of the Śaikṣa and the Aśaikṣa.",
+    "morphology": "na_na_ pūrvakāt_pūrvaka_SBM  / yasya_yad_SGM yat_yad_SNNe prathama_prathama_Cp gotram_gotra_SNNe sa_tad_SNM tasmāt_tad_SBNe na_na_ parihīyate_parihā_SPr3InPv  / śaikṣa_śaikṣa_Cp aśaikṣa_aśaikṣa_Cp mārgābhyām_mārga_DuBM  /"
+  },
+  {
+    "index": 29391,
+    "sanskrit": "bhaviṣyasi muniśreṣṭha yogācāryaḥ suviśrutaḥ || 22 ||",
+    "english": "22. O most excellent sage, you will become a well-known Yogācārya (Master of Yoga).",
+    "morphology": "bhaviṣyasi_bhū_SFu2In muni_muni_Cp śreṣṭha_śreṣṭha_SVM yoga_yoga_Cp ācāryaḥ_ācārya_SNM su_su_ viśrutaḥ_viśru_SNPaM"
+  }
+]

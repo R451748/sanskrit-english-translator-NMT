@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27488,
+    "sanskrit": "mithunaprabhavāmeva kṛtvā sṛṣṭimataḥ param | saṃvardhayitumicchāmi sarvā eva mama prajāḥ ||",
+    "english": "17. Hereafter I wish to increase the number through copulation.",
+    "morphology": "mithuna_mithuna_Cp prabhavām_prabhava_SAF eva_eva_ kṛtvā_kṛ_Co sṛṣṭim_sṛṣṭi_SAF atas_atas_ param_param_  / saṃvardhayitum_saṃvardhay_In icchāmi_iṣ_SPr1In sarvāḥ_sarva_PAF"
+  },
+  {
+    "index": 27489,
+    "sanskrit": "skaṃda uvāca | śṛṇu vātāpi saṃhartaḥ kāśyāṃ pātakataṃkinī | padmakalpe tu yā vṛttā damanasya dvijanmanaḥ || 1 ||",
+    "english": "Skanda said: 1. Listen, O destroyer of Vātāpi, to the story of Damana, a Brāhmaṇa. The story is capable of dispelling sins. It took place in Kāśī in the Padmakalpa.",
+    "morphology": "skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / śṛṇu_śru_SPr2Im vātāpi_vātāpi_SVF saṃhartar_saṃhartṛ_SVM kāśyām_kāśi_SLF pātaka_pātaka_Cp taṃkinī_taṅkin_SNF  / padma_padma_Cp kalpe_kalpa_SLM tu_tu_ yā_yad_SNF vṛttā_vṛt_SNPaF d"
+  },
+  {
+    "index": 27490,
+    "sanskrit": "vasante arkaḥ iva śrīmān na śītaḥ na ca gharma daḥ",
+    "english": "He should be like the vernal Sun, neither cold nor so hot as to produce perspiration.",
+    "morphology": "vasante_vasanta_SLM"
+  },
+  {
+    "index": 27491,
+    "sanskrit": "abhyarcya vividhaiḥ ratnaiḥ prīti yuktau mudā yutau samādhāya itikartavyam duḥkhena visasarja ha",
+    "english": "And having worshipped them with various articles of enjoyment, and done everything that was suitable to the occasion, Rama dismissed those friends of his with a sorrowful heart.",
+    "morphology": "abhyarcya_abhyarc_Co vividhaiḥ_vividha_PINe ratnaiḥ_ratna_PINe prīti_prīti_FCp yuktau_yuj_DuNPaPsM mudā_mud_SIF yutau_yuta_DuNM samādhāya_samādhā_Co"
+  },
+  {
+    "index": 27492,
+    "sanskrit": "navāvaśyakakarmāṇi kāryāṇi prativāsaram | snānaṃ saṃdhyā japo homaḥ svādhyāyo devatārcanam || 77 || veśvadevaṃ tathātithyaṃ navamaṃ pitṛtarpaṇam | nava gopyāni yānyatra mune tāni niśāmaya || 78 ||",
+    "english": "77-79. There are nine essential daily duties to be performed. They are: bath, Sandhyā prayers, Japa, Homa, study of the Vedas, worship of deities, Vaiśvadeva (oblation into fire before meal), receiving guests and the ninth one, libations to the Pitṛs.",
+    "morphology": "nava_navan_SNNe āvaśyaka_āvaśyaka_Cp karmāṇi_karman_PNNe kāryāṇi_kṛ_PNNeGd prativāsaram_prativāsaram_  / snānam_snāna_SNNe saṃdhyā_saṃdhyā_SNF japaḥ_japa_SNM homaḥ_homa_SNM svādhyāyaḥ_svādhyāya_SNM devatā_devatā_Cp arcana"
+  },
+  {
+    "index": 27493,
+    "sanskrit": "vā ityāgamaṃ smārayati kileti ca,",
+    "english": "The particle ‘vā’, as also the particle ‘ca’ indicates the scripture bearing upon the point",
+    "morphology": "vā_vā_"
+  },
+  {
+    "index": 27494,
+    "sanskrit": "tasyai vā etasyai vasordhārāyai / dyaurevātmābhramūdho vidyutstano dhāraiva dhārā divo 'dhi gāmāgacati //",
+    "english": "Now as to this same shower of wealth, the body (from which it flows) is the sky, the udder the cloud, the teat the lightning, and the shower (of ghee) is the (rain-) shower: from the sky it comes to the cow.",
+    "morphology": "tasyai_tad_SDF vai_vai_ etasyai_etad_SDF vasordhārāyai_vasordhārā_SDF  / dyauḥ_div_SNM eva_eva_ ātmā_ātman_SNM abhram_abhra_SNNe ūdhar_ūdhas_SNNe vidyut_vidyut_SNF stanaḥ_stana_SNM dhārā_dhārā_SNF eva_eva_ dhārā_dhārā_SNF divā_div_SIM"
+  },
+  {
+    "index": 27495,
+    "sanskrit": "tvaṃ gacchātha pituḥ sthānaṃ yāsyāmy aham api svakam / etat tadvacanaṃ mugdhā tathety aṅgīcakāra sā //",
+    "english": "After that you shall go to your father’s abode, and I will return to mine.” When he made this proposal, the fair one agreed to it.",
+    "morphology": "tvam_tvad_SN gaccha_gam_SPr2Im atha_atha_ pituḥ_pitṛ_SGM sthānam_sthāna_SANe yāsyāmi_yā_SFu1In aham_mad_SN api_api_ svakam_svaka_SANe  / etat_etad_SANe tad_tad_Cp vacanam_vacana_SANe mugdhā_muh_SNPaF tathā_tathā_ iti_iti_ aṅgīcakāra_aṅgī"
+  }
+]

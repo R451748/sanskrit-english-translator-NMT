@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9072,
+    "sanskrit": "śākhā agre vā lalāṭe vā vyadhyāstāḥ viṛte viṣe",
+    "english": "The veins of the fore-head and the extremities should be opened in the case where the poison would be found to have spread through the whole organism.",
+    "morphology": "śākhāḥ_śākhā_PNF agre_agra_SLNe vā_vā_U lalāṭe_lalāṭa_SLNe vā_vā_U vyadhyāḥ_vyadh_PNFGd tāḥ_tad_PNF"
+  },
+  {
+    "index": 9073,
+    "sanskrit": "tataśca sā satī devī himālayasutā 'bhavat | tasyāśca pārvatīnāma prasiddhamabhavattadā ||",
+    "english": "44. The Goddess Satī became the daughter of Himālaya. As such she became famous as Pārvatī.",
+    "morphology": "tatas_tatas_ ca_ca_ sā_tad_SNF satī_satī_SNF devī_devī_SNF himālaya_himālaya_Cp sutā_sutā_SNF abhavat_bhū_S3ImIn  / tasyāḥ_tad_SGF ca_ca_ pārvatī_pārvatī_Cp nāma_nāman_SNNe prasiddham_prasidh_SNPaNe abhavat_bhū_S3ImIn tadā_tadā_  /"
+  },
+  {
+    "index": 9074,
+    "sanskrit": "aṣṭādaśa sahasrāṇi vrātānām santi naḥ kule",
+    "english": "In our race, O king, there are full eighteen thousand brothers and cousins.",
+    "morphology": "aṣṭādaśa_aṣṭādaśan_SNNe sahasrāṇi_sahasra_PNNe vrātānām_vrāta_PGM santi_as_PPr3In naḥ_mad_PG kule_kula_SLNe"
+  },
+  {
+    "index": 9075,
+    "sanskrit": "ucchritān āśrayet sphītān narendrān acala upamān śrayet chāyām a vijñātām guptam śaraṇam āśrayet",
+    "english": "He should destroy those foremost of monarchs that swell with might and stand with uplifted heads like mountains, by seeking the shelter of unknown shades[357] and by ambuscades and sudden attacks.",
+    "morphology": "ucchritān_ucchri_PAPaPsM āśrayet_āśri_SPr3O sphītān_sphīta_PAM narendrān_narendra_PAM acala_acala_MCp upamān_upama_PAM śrayet_śri_SPr3O chāyām_chāyā_SAF a_a_U vijñātām_vijñā_SAPaPsF guptam_gup_SAPaPsNe śaraṇam_śaraṇa_SANe āśray"
+  },
+  {
+    "index": 9076,
+    "sanskrit": "kṛta āhāram kṛta āhārāḥ sarve te vidura ādayaḥ pāṇḍavāḥ ca kuru śreṣṭham upātiṣṭhanta tam nṛpam",
+    "english": "After Dhritarashtra had eaten, and Vidura also and others had done the same, the Pandavas, having finished their meals, approached and sat around the old king.",
+    "morphology": "kṛta_kṛ_PaPsCp āhāram_āhāra_SAM kṛta_kṛ_PaPsCp āhārāḥ_āhāra_PNM sarve_sarva_PNM te_tad_PNM vidura_vidura_MCp ādayaḥ_ādi_PNM pāṇḍavāḥ_pāṇḍava_PNM ca_ca_U kuru_kuru_MCp śreṣṭham_śreṣṭha_SAM upātiṣṭhanta_upas"
+  },
+  {
+    "index": 9077,
+    "sanskrit": "evaṃ sūtragrahaṇena sūtramayaṃ vāso 'pi gṛhyate /",
+    "english": "Similarly \"yarn\" includes also cloth made from yarns.",
+    "morphology": "evam_evam_ sūtra_sūtra_Cp grahaṇena_grahaṇa_SINe sūtra_sūtra_Cp mayam_maya_SNNe vāsaḥ_vāsas_SNNe api_api_ gṛhyate_grah_SPr3InPv  /"
+  },
+  {
+    "index": 9078,
+    "sanskrit": "nocchindyād ātmano mūlaṃ pareṣāṃ cātitṛṣṇayā / ucchindan hy ātmano mūlam āṭmānaṃ tāṃś ca pīdayet //",
+    "english": "Let him not cut up his own root (by levying no taxes), nor the root of other (men) by excessive greed; for by cutting up his own root (or theirs), he makes himself or them wretched.",
+    "morphology": "na_na_ ucchindyāt_ucchid_SPr3O ātmanaḥ_ātman_SGM mūlam_mūla_SANe pareṣām_para_PGM ca_ca_ ati_ati_ tṛṣṇayā_tṛṣṇā_SIF  / ucchindan_ucchid_SNPaPrM hi_hi_ ātmanaḥ_ātman_SGM mūlam_mūla_SANe āṭmānam_āṭman_SAM tān_tad_PAM ca_"
+  },
+  {
+    "index": 9079,
+    "sanskrit": "na apaśyata tatas asya aṅgam yat na syāt varma rakṣitam",
+    "english": "Casting his eyes on his enemy's body, he saw not any part that was not well-covered with that impenetrable armour.",
+    "morphology": "na_na_U apaśyata_paś_SPs3In tatas_tatas_U asya_idam_SGM aṅgam_aṅga_SANe yat_yad_SNNe na_na_U syāt_as_SPr3O"
+  }
+]

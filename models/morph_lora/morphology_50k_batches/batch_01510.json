@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12072,
+    "sanskrit": "aghamarṣaṇādis tu mantro neha pavitraśabdenocyate, brahmacāriṇas tadānīm anadhītatvāt teṣām /",
+    "english": "The term \"pavitra\" cannot stand for the Aghamarṣaṇa and other mantras; for the simple reason that at the time that the text is being dealt with, the student has not read those mantras.",
+    "morphology": "aghamarṣaṇa_aghamarṣaṇa_Cp ādiḥ_ādi_SNM tu_tu_ mantraḥ_mantra_SNM na_na_ iha_iha_ pavitra_pavitra_Cp śabdena_śabda_SIM ucyate_vac_SPr3InPv brahmacāriṇaḥ_brahmacārin_PNM tadānīm_tadānīm_ an_an_ aḥ_aḥ_SNM"
+  },
+  {
+    "index": 12073,
+    "sanskrit": "kiṃ khalu yathā pravartakaṃ tathaivānuvartakaṃ bhavati /",
+    "english": "Is the “mover” of the same as the agent?",
+    "morphology": "kim_ka_SNNe khalu_khalu_ yathā_yathā_ pravartakam_pravartaka_SNNe tathā_tathā_ eva_eva_ anuvartakam_anuvartaka_SNNe bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 12074,
+    "sanskrit": "na dūrastha ityuktyā na māyātītaḥ /",
+    "english": "Na dūrasthahmeans he is not beyond māyā.",
+    "morphology": "na_na_ dūra_dūra_Cp sthaḥ_stha_SNM iti_iti_ uktyā_ukti_SIF na_na_ māyā_māyā_Cp atītaḥ_atī_SNPaM"
+  },
+  {
+    "index": 12075,
+    "sanskrit": "tvaṃ hi satyo adbhuto dātā vājasya gomataḥ |",
+    "english": "For thou art true, wondrous, The giver of booty of kine.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 12076,
+    "sanskrit": "tatra yadi sthūlatvād iti pāramārthikaṃ sthūlatvaṃ ca vastudharmamāśrityocyate hetus tadā sādhyadharmiṇi dṛṣṭāntadharmiṇi ca dharmidvaye 'pi prativādino na siddhaṃ sthūlatvam iti tadā hetur asiddho dṛṣṭāntaś ca sādhanavikalaḥ /",
+    "english": "The answer to this is as follows: In the premiss ‘because it is gross’, if it is real ‘grossness’, as a property of the thing, that is put forward as the Probans (Reason), then such ‘grossness’ is not admitted by your disputant (the Buddhist) either in the Probandum or in the Corroborative Instance; and in that case the Probans is ‘inadmissible’ and the Corroborative Instance is ‘devoid of the Probandum’.",
+    "morphology": "tatra_tatra_ yadi_yadi_ sthūla_sthūla_Cp tvāt_tva_SBNe iti_iti_ pāramārthikam_pāramārthika_SAM sthūla_sthūla_Cp tvam_tva_SNNe ca_ca_ vastu_vastu_Cp dharmam_dharma_SAM āśritya_āśri_Co ucyate_vac_SPr3InPv hetuḥ_hetu_SNM tadā_tadā_ sādhya_s"
+  },
+  {
+    "index": 12077,
+    "sanskrit": "āraṇeyaḥ tu śuddha ātmā tri saṃdehaḥ tri karma kṛt vaśya indriyaḥ jita krodhaḥ na hṛṣyati na kupyati",
+    "english": "The pure-souled ascetic born in the fire-sticks, observant without scruples of any kind of his duties, having all his senses under complete control, and a thorough master of his wrath, was neither pleased nor angered at all this.",
+    "morphology": "āraṇeyaḥ_āraṇeya_SNM tu_tu_U śuddha_śudh_PaPsCp ātmā_ātman_SNM tri_tri_Cp saṃdehaḥ_saṃdeha_SNM tri_tri_Cp karma_karman_NeCp kṛt_kṛt_SNM vaśya_vaśya_Cp indriyaḥ_indriya_SNM jita_ji_PaPsCp krodhaḥ_krodha_SNM na_na_U hṛṣyati_h"
+  },
+  {
+    "index": 12078,
+    "sanskrit": "guptaṃ yad brahmaṇo jāto brahmaguptas tad ucyate / ata evaitad etasya svajanmasadṛśaṃ vacaḥ //",
+    "english": "from this connection he sprang. Since he sprang from Brahmā in a secret way, he is called Brahmagupta.",
+    "morphology": "guptam_gup_SNPaNe yat_yad_SNNe brahmaṇaḥ_brahman_SBM jātaḥ_jan_SNPaM brahmaguptaḥ_brahmagupta_SNM tat_tad_SNNe ucyate_vac_SPr3InPv  / atas_atas_ eva_eva_ ḥḍa_ḥ_ ḥḍa_ḥ_ ḥ"
+  },
+  {
+    "index": 12079,
+    "sanskrit": "tathāgatayos trisāhasramahāsāhasro lokadhātur abhipretaḥ / cakravartinos tu cātur dvīpaka iti kecit /",
+    "english": "Some schools believe that with regard to the two tathāgatas, the worldsphere of ,000 million worlds is meant however, the worldsphere that consists in the four continents is meant in regard to the two cakravartins.",
+    "morphology": "tathāgatayoḥ_tathāgata_DuGM tri_tri_Cp sāhasra_sāhasra_Cp mahā_mahat_Cp sāhasraḥ_sāhasra_SNM lokadhātuḥ_lokadhātu_SNM abhipretaḥ_abhipre_SNPaM  / cakravartinoḥ_cakravartin_DuGM tu_tu_ dvīpakaḥ_dvīpaka_SNM iti_iti_ kaścit_kaścit_PNM"
+  }
+]

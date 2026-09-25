@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8808,
+    "sanskrit": "rathāḥ ca mukhyāḥ rāja indra yuktāḥ vājibhiḥ uttamaiḥ āyāntu paścāt satatam mām eva bharata ṛṣabha",
+    "english": "Let a number of foremost cars, O monarch, with excellent steeds yoked unto them, always follow me, O bull of Bharata's race.",
+    "morphology": "rathāḥ_ratha_PNM ca_ca_U mukhyāḥ_mukhya_PNM rāja_rājan_MCp indra_indra_MCp yuktāḥ_yuj_PNPaPsM vājibhiḥ_vājin_PIM uttamaiḥ_uttama_PIM āyāntu_āyā_PPr3Im paścāt_paścāt_U satatam_satatam_U mām_mad_SA eva_eva_U bharata_bharata_MCp ṛ"
+  },
+  {
+    "index": 8809,
+    "sanskrit": "tatas praśānta doṣeṣu puṭapāka kṣameṣu ca puṭapākaḥ prayoktavyaḥ netreṣu bhiṣajā bhavet",
+    "english": "After a complete subsidence of the Dosha, the Puta-paka should be applied to the (affected) eye in cases where the patient would be found capable of being treated with it.",
+    "morphology": "tatas_tatas_U praśānta_praśam_PaPsCp doṣeṣu_doṣa_PLM puṭapāka_puṭapāka_MCp kṣameṣu_kṣama_PLM ca_ca_U puṭapākaḥ_puṭapāka_SNM prayoktavyaḥ_prayuj_SNMGd netreṣu_netra_PLM bhiṣajā_bhiṣaj_SIM bhavān_bhū_SPr3O"
+  },
+  {
+    "index": 8810,
+    "sanskrit": "juhoti catasro vai diśaś catasro 'vāntaradiśās |",
+    "english": "the quarters are four, the intermediate quarters are four;",
+    "morphology": "juhoti_hu_SPr3In catasraḥ_catur_PNF"
+  },
+  {
+    "index": 8811,
+    "sanskrit": "tataśca śarīrādanyaḥ senāsaṃpṛktaścāspatvācca anākṛṣyamāṇaḥ śarīraṃ gacchati tadgatākāśapradeśavadātmā paścānniḥsṛtastatraiva tiṣṭe,nna hi tasya vāyanā pṛthivyādibhirbī preraṇaṃ yena svatantraparaprerito vā gacchen/",
+    "english": "Thus then, the Soul being something different from the Body, and not in material contact with it,it cannot, on account of this absence of contact, be carried along with it and hence when the Body would be moving from one place to another, the Soul if an entity limited in space would be left behind, exactly like the portion of space vacated by the moving Body specially as the Soul cannot be wafted along either by Air or by Earth, &c., and as such it is absolutely incapable of being carried about, either by itself or by anything else.",
+    "morphology": "tatas_tatas_ ca_ca_ śarīrāt_śarīra_SBNe anyaḥ_anya_SNM senā_senā_Cp saṃpṛktaḥ_sampṛc_SNPaM ca_ca_ āspatvāt_āspatva_SBNe ca_ca_ an_an_ ākṛṣyamāṇaḥ_ākṛṣ_SNPaPrMPv śarīram_śarīra_SANe gacchati_gam_SPr3In tad_tad_Cp gata_"
+  },
+  {
+    "index": 8812,
+    "sanskrit": "kathaṃ punaḥ snānasya śaucārthatā pratīyate /",
+    "english": "How is it known that the bathing here laid down is for the purposes of cleanliness?",
+    "morphology": "katham_katham_ punar_punar_ snānasya_snāna_SGNe śauca_śauca_Cp artha_artha_Cp tā_tā_SNF"
+  },
+  {
+    "index": 8813,
+    "sanskrit": "tac chrutvā so 'bravīn mantrī deva kiṃ tena bhikṣuṇā / tvatsevā sā kṛtetyeṣa tadvṛttāntas tvayocyatām // ity ukto mantriṇā tena rājā buddhivareṇa saḥ / jagāda śṛṇu tatraitāṃ tatkathāṃ varṇayāmi te //",
+    "english": "but I can free myself from obligation in another way, which is connected also with the story of that mendicant.” When the minister heard this, he said: “King, why did that mendicant court you? Tell me his story.” When his minister Buddhivara preferred this request, the king said: “Listen; I will tell you his story.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co saḥ_tad_SNM abravīt_brū_S3ImIn mantrī_mantrin_SNM deva_deva_SVM kim_ka_SNNe tena_tad_SIM bhikṣuṇā_bhikṣu_SIM  / tvad_tvad_Cp sevā_sevā_SNF sā_tad_SNF kṛtā_kṛ_SNPaF iti_iti_ eṣa_etad_SNM tad_tad_Cp vṛtt"
+  },
+  {
+    "index": 8814,
+    "sanskrit": "abhisaṃskāraḥ praśāntau",
+    "english": "Motivating factors are a flaw when they have been put to rest.",
+    "morphology": "abhisaṃskāraḥ_abhisaṃskāra_SNM"
+  },
+  {
+    "index": 8815,
+    "sanskrit": "tathā śvo me brāhmaṇā bhoktāra iti dadhyarthinaḥ kṣīramupādadate na salilaṃ /",
+    "english": "when a man, thinking of feeding Brāhmaṇas the next day, wishes to have curds ready for the purpose, he secures a supply of milk, not water.",
+    "morphology": "tathā_tathā_ śvas_śvas_ me_mad_SG brāhmaṇāḥ_brāhmaṇa_PNM bhoktāraḥ_bhuj_PFu3InPe iti_iti_ dadhi_dadhi_Cp arthinaḥ_arthin_PNM kṣīram_kṣīra_SANe upādadate_upādā_PPr3In na_na_ salilam_salila_SANe  /"
+  }
+]

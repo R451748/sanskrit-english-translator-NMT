@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24008,
+    "sanskrit": "na caiṣa grahanakṣatraparispandasvabhāvakaḥ / kālaḥ kalpayituṃ yuktaḥ kriyāto nāparo hy asau //262//",
+    "english": "The subsequent contact is not per- ceived when it comes into being since the perception of an object is causally determined by its object.",
+    "morphology": "na_na_ ca_ca_ eṣa_etad_SNM graha_graha_Cp nakṣatra_nakṣatra_Cp parispanda_parispanda_Cp svabhāvakaḥ_svabhāvaka_SNM  / kālaḥ_kāla_SNM kalpayitum_kalpay_In yuktaḥ_yuj_SNPaM kriyātaḥ_kriyā_SBF na_na_ aparaḥ_apara_SNM hi_hi_ asau_adas_SNM"
+  },
+  {
+    "index": 24009,
+    "sanskrit": "tasya kṛdantasya tṛtīyāntasya yāgeneti yo 'rthaḥ sa katham ekākinā tena pratyāyyeta ucyate bhāvanā cet pratyarārtha iti soḍhamāyuṣmatā yāgenety abhisambandhaḥ soḍhavya eva /",
+    "english": "Now if a kṛt-suffix is attached to this root then the word 'yaga' is framed. If the third-case-ending is joined to this word then we get the word 'yagena'. Now, the question is \"How can the bare root 'yaj' convey the sense of inflexional word 'yàgena' ?\" The problem is solved thus:- Oh longlived one: You do not take an exception to the hypothesis that a bhavana is denoted by a suffix or an inflexion.",
+    "morphology": "tasya_tad_SGM kṛt_kṛt_Cp antasya_anta_SGM tṛtīyā_tṛtīyā_Cp antasya_anta_SGM yāgena_yāga_SIM iti_iti_ yaḥ_yad_SNM arthaḥ_artha_SNM sa_tad_SNM katham_katham_ ekākinā_ekākin_SIM tena_tad_SIM ucyate_vac_SPr3InPv bhāvanā_bhāvanā_SNF ced"
+  },
+  {
+    "index": 24010,
+    "sanskrit": "adharma jñasya vilayam prajāḥ gacchanti anigrahāt",
+    "english": "If the king happens to be sinful, his subjects, inconsequence of his oppressions, meet with destruction.",
+    "morphology": "adharma_adharma_MCp jñasya_jña_SGM"
+  },
+  {
+    "index": 24011,
+    "sanskrit": "pūrṇatvaṃ tatra candrasya sā tithi kulapūrṇimā |",
+    "english": "Since that is also the full-moon day, that date is known as Kula-purnimā.",
+    "morphology": "pūrṇa_pṛ_PaCp tvam_tva_SNNe tatra_tatra_ candrasya_candra_SGM sā_tad_SNF kula_kula_Cp pūrṇimā_pūrṇimā_SNF"
+  },
+  {
+    "index": 24012,
+    "sanskrit": "damena sadṛśam dharmam na anyam lokeṣu śuśruma",
+    "english": "We have not heard that there is any other duty in all the worlds that can equal self-restraint.",
+    "morphology": "damena_dama_SIM"
+  },
+  {
+    "index": 24013,
+    "sanskrit": "saṃmānanamavāpyāsmānmuneḥ pāṇḍavamadhyamaḥ | priyairvākyairmunipaterakaronmanaso mudam || 47 ||",
+    "english": "47. After getting due honour and hospitality from the sage, the middle one among the Pāṇḍava brothers entertained the eminent sage through pleasing words.",
+    "morphology": "saṃmānanam_saṃmānana_SANe avāpya_avāp_Co asmāt_idam_SBM muneḥ_muni_SGM pāṇḍava_pāṇḍava_Cp madhyamaḥ_madhyama_SNM  / priyaiḥ_priya_PINe vākyaiḥ_vākya_PINe muni_muni_Cp pateḥ_pati_SGM akarot_kṛ_S3ImIn manasaḥ_manas_SGNe mud"
+  },
+  {
+    "index": 24014,
+    "sanskrit": "yan na minuyāt svarubhiḥ paśūn vy ardhayet |",
+    "english": "if he were not to set it up, he would sever the animals from the chips;",
+    "morphology": "yat_yat_ na_na_ minuyāt_mi_SPr3O svarubhiḥ_svaru_PIM paśūn_paśu_PAM vi_vi_"
+  },
+  {
+    "index": 24015,
+    "sanskrit": "kṛtayugād anyeṣu yugeṣv āgamad vedākhyād dharmaḥ pādaśaḥ yuge yuge pādenāvaropito vyapanītaḥ / antarhitā vedaśākhāḥ, puruṣāṇāṃ grahaṇāvadhāraṇaśaktivaikalyāt /",
+    "english": "In the Cycles other than the Kṛta; \"from the scriptures,\" called \"Veda\"; \"virtue\" \"foot by foot\" by one foot in each succeeding Cycle,\"fell off,\" was carried away;the Vedic Texts disappeared, by reason of the deterioration in the powers of learning and assimilating of men le arning the texts.",
+    "morphology": "kṛta_kṛta_Cp yugāt_yuga_SBNe anyeṣu_anya_PLNe yugeṣu_yuga_PLNe āgamat_āgam_SPs3InTh veda_veda_Cp ākhyāt_ākhyā_SBM dharmaḥ_dharma_SNM pādaśas_pādaśas_ yuge_yuga_SLNe yuge_yuga_SLNe pādena_pāda_SIM avaropitaḥ_avaropay_SNPaM vyapanīt"
+  }
+]

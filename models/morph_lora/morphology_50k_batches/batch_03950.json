@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31592,
+    "sanskrit": "varṣam asya gireḥ madhye rāmeṇa śrīmatā kṛtam",
+    "english": "In the midst of this mountain, a gap hath been opened by Rama.",
+    "morphology": "varṣam_varṣa_SNNe asya_idam_SGM gireḥ_giri_SGM madhye_madhya_SLNe rāmeṇa_rāma_SIM śrīmatā_śrīmat_SIM"
+  },
+  {
+    "index": 31593,
+    "sanskrit": "iha karmopabhogāya taiś ca sañcarate hi saḥ //",
+    "english": "He moves around here by means of them for enjoying the fruits of his past deeds.",
+    "morphology": "iha_iha_ karma_karman_Cp upabhogāya_upabhoga_SDM taiḥ_tad_PIM ca_ca_ sañcarate_saṃcar_SPr3In hi_hi_ saḥ_tad_SNM  /"
+  },
+  {
+    "index": 31594,
+    "sanskrit": "praviśya ca praṇamyeśaṃ tato garbhagṛhaṃ viśet | pāṇī prakṣālya taccitto nirmālyamavaropayet || 86 ||",
+    "english": "86. After entering, he should bow down to the Lord. Then he must enter the sanctum sanctorum. After washing the hands, he must concentrate his attention on Śiva and take away the remnants of the previous day’s worship.",
+    "morphology": "praviśya_praviś_Co ca_ca_ praṇamya_praṇam_Co īśam_īśa_SAM tatas_tatas_ garbhagṛham_garbhagṛha_SANe viśet_viś_SPr3O  / pāṇī_pāṇi_DuAM prakṣālya_prakṣālay_Co tad_tad_Cp cittaḥ_citta_SNM nirmālyam_nirmālya_SANe avaropayet_avar"
+  },
+  {
+    "index": 31595,
+    "sanskrit": "īśvara uvāca | taṃ tatheti pratijñāya gatastatra dvijottamaḥ | yathā vedoktamārgeṃṇa sarvaṃ kṛtyaṃ cakāra saḥ || 86 ||",
+    "english": "Īśvara said: 86. “Let it be so” said the excellent Brāhmaṇa and performed all rites in accordance with what has been mentioned in the Vedas.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / tam_tad_SAM tathā_tathā_ iti_iti_ pratijñāya_pratijñā_Co gataḥ_gam_SNPaM tatra_tatra_ dvijottamaḥ_dvijottama_SNM  / yathā_yathā_ veda_veda_Cp ukta_vac_PaCp mārgeṇa_mārga_SIM sarvam_sarva_SANe k"
+  },
+  {
+    "index": 31596,
+    "sanskrit": "hita priyaṃvadaiḥ kāle bahubhiḥ puṇya gandhibhiḥ",
+    "english": "Fragrant with many perfumes, while life was in them, they could speak words both agreeable and beneficial.",
+    "morphology": "hita_hita_Cp priyaṃvadaiḥ_priyaṃvada_PIM kāle_kāla_SLM bahubhiḥ_bahu_PIM puṇya_puṇya_Cp gandhibāḥ_gandhin_PIM"
+  },
+  {
+    "index": 31597,
+    "sanskrit": "sarvabhāvānavacchinnaṃ yatra brahmaiva vidyate / śāntaṃ samasamābhāsaṃ tatrānyatvaṃ kathaṃ bhavet //",
+    "english": "Brahma abides in all infinity and eternity, and is not limited in any thing; He is tranquil and shines with equal effulgence on all bodies; He cannot be any particular thing, beside his nature of universality.",
+    "morphology": "sarva_sarva_Cp bhāva_bhāva_Cp anavacchinnam_anavacchinna_SNNe yatra_yatra_ brahma_brahman_SNNe eva_eva_ vidyate_vid_SPr3InPv  / śāntam_śam_SNPaNe sama_sama_Cp sama_sama_Cp ābhāsam_ābhāsa_SNNe tatra_tatra_ anya_anya_Cp tvam_tva_SNNe katham_katham_ "
+  },
+  {
+    "index": 31598,
+    "sanskrit": "āsīccitrarathonāma pūrvaṃ pārthivasattamaḥ | daśārṇādhipatiḥ khyātaḥ sarvaśatrunibarhaṇaḥ || 12 ||",
+    "english": "12. Formerly there was an excellent king named Citraratha. was well-known as, the overlord of the Dasārṇa country and as the slayer of all enemies.",
+    "morphology": "āsīt_as_S3ImIn citrarathaḥ_citraratha_SNM nāma_nāma_ pūrvam_pūrvam_ pārthiva_pārthiva_Cp sattamaḥ_sattama_SNM  / daśārṇa_daśārṇa_Cp adhipatiḥ_adhipati_SNM khyātaḥ_khyā_SNPaM sarva_sarva_Cp śatru_śatru_Cp nibarhaṇaḥ_nibarha"
+  },
+  {
+    "index": 31599,
+    "sanskrit": "bahir antaś ca karmaantā vibhaktāḥ sārvabhāṇḍikāḥ / ājīvapurarakṣāarthāḥ kāryāḥ kupyaupajīvinā //",
+    "english": "The superintendent of forest produce shall carry on either inside or outside the capital city the manufacture of all kinds of articles which are Kautilyas Arthashastra necessary for life or for the defence of forts",
+    "morphology": "bahis_bahis_ antar_antar_ ca_ca_ karma_karman_Cp antāḥ_anta_PNM vibhaktāḥ_vibhaj_PNPaM sārvabhāṇḍikāḥ_sārvabhāṇḍika_PNM  / ājīva_ājīva_Cp pura_pura_Cp rakṣā_rakṣā_Cp arthāḥ_artha_PNM kāryāḥ_kṛ_PNMGd kupya_kupya_Cp au"
+  }
+]

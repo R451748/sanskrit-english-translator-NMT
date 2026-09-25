@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47120,
+    "sanskrit": "asādhvyaḥ tu samutpannā kṛtyā sargāt prajāpateḥ",
+    "english": "Those, however, that sprang from this creation by Brahman with the aid of an illusion became sinful.",
+    "morphology": "asādhvyaḥ_asādhvī_SNF tu_tu_U samutpannā_samutpad_SNPaPsF"
+  },
+  {
+    "index": 47121,
+    "sanskrit": "śīlavratopādānaṃ ṣaḍdravyāṇi karmadṛṣṭibhyo niṣkṛṣṭam /",
+    "english": "Clinging to morality and ascetic practices is made up of the six remaining things. Why distinguish \"the presumption of morality and of ascetic practices\" from the other views and make it a separate clinging?",
+    "morphology": "śīla_śīla_Cp vrata_vrata_Cp upādānam_upādāna_SNNe ṣaṣ_ṣaṣ_SNNe dravyāṇi_dravya_PNNe karma_karman_Cp dṛṣṭibhyaḥ_dṛṣṭi_PBF niṣkṛṣṭam_niṣkṛṣṭa_SNNe  /"
+  },
+  {
+    "index": 47122,
+    "sanskrit": "evaṃ siddhis trividhāeva mantraśaktisādhyā mantrasiddhiḥ,",
+    "english": "The end is also of three kinds that which is attainable by deliberation is the end of deliberation;",
+    "morphology": "__evam_U ____U ____U"
+  },
+  {
+    "index": 47123,
+    "sanskrit": "ihāpi tāvatpuruṣasya tiṣṭhataḥ pravartate yatparahiṃsayā sukham | tadapyaniṣṭaṃ saghṛṇasya dhīmato bhavāṃtare kiṃ vata yanna dṛśyate ||",
+    "english": "‘Even that happiness which comes to a man, while he stays in this world, through the injury of another, is hateful to the wise compassionate heart; how much more if it be something beyond our sight in another life?",
+    "morphology": "iha_iha_ api_api_ tāvat_tāvat_ puruṣasya_puruṣa_SGM tiṣṭhataḥ_sthā_SGPaPrM pravartate_pravṛt_SPr3In yat_yad_SNNe para_para_Cp hiṃsayā_hiṃsā_SIF sukham_sukha_SNNe  / tat_tad_SNNe api_api_ aniṣṭam_aniṣṭa_SNNe sa_sa_ ghṛṇasya_"
+  },
+  {
+    "index": 47124,
+    "sanskrit": "syurvadānyasthūlalakṣadānaśauṇḍā bahuprade //",
+    "english": "A very liberal person is denoted by the words vadānya, sthūlalakṣya, dānaśauṇḍa and bahuprada.",
+    "morphology": "syuḥ_as_PPr3O vadānya_vadānya_Cp sthūlalakṣa_sthūlalakṣa_Cp dāna_dāna_Cp śauṇḍāḥ_śauṇḍa_PNM bahu_bahu_Cp prade_prada_SLM  /"
+  },
+  {
+    "index": 47125,
+    "sanskrit": "tatas yudhiṣṭhiraḥ rājā dharmaputraḥ mahāmanāḥ saṃnivartya anujān sarvān iti ha uvāca bhārata dvādaśa imāni varṣāṇi rāṣṭrāt viproṣitāḥ vayam",
+    "english": "And, O Bharata, the son of the god of Justice, the royal Yudhishthira of high soul then called together all his younger brothers and addressed them, saying, 'Exiled from our kingdom, we have passed twelve years.",
+    "morphology": "tatas_tatas_U yudhiṣṭhiraḥ_yudhiṣṭhira_SNM rājā_rājan_SNM dharmaputraḥ_dharmaputra_SNM mahāmanāḥ_mahāmanas_SNM saṃnivartya_saṃnivartay_Co anujān_anuja_PAM sarvān_sarva_PAM iti_iti_U ha_ha_U uvāca_vac_SPs3In bhārata_bhārata_SVM "
+  },
+  {
+    "index": 47126,
+    "sanskrit": "bhīmasena prabhāvāt tu yat jīvāmi dhanaṃjaya",
+    "english": "That I am still alive, O Dhananjaya, is due to the prowess of Bhimasena.",
+    "morphology": "bhīmasena_bhīmasena_MCp prabhāvāt_prabhāva_SBM tu_tu_U yat_yat_U"
+  },
+  {
+    "index": 47127,
+    "sanskrit": "ato mayā bahutithaṃ nātra stheyaṃ kathaṃcana | tameva lokaṃ kṛpayā māṃ prāpayitumarhasi || 5 ||",
+    "english": "105. Hence, I must not prolong my stay here. Kindly take me back to that world.”",
+    "morphology": "atas_atas_ mayā_mad_SI bahutitham_bahutitha_SNNe na_na_ atra_atra_ stheyam_sthā_SNNeGd kathaṃcana_kathaṃcana_  / tam_tad_SAM eva_eva_ lokam_loka_SAM kṛpayā_kṛpā_SIF mām_mad_SA prāpayitum_prāpay_In arhasi_arh_SPr2In"
+  }
+]

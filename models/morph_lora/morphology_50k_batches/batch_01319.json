@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10544,
+    "sanskrit": "praluṭhatsvapi śaileṣu kalpāgniṣu dahatsvapi / vahatsūtpātavāteṣu svātmanyeva hi tiṣṭhati //",
+    "english": "Whether the hills fall headlong to the ground, or the flames of destruction devour all things; or the rapid gales rend the skies, it is no matter to the soul which rests secure in itself.",
+    "morphology": "praluṭhatsu_praluṭh_PLPaPrM api_api_ śaileṣu_śaila_PLM kalpa_kalpa_Cp agniṣu_agni_PLM dahatsu_dah_PLPaPrM api_api_  / vahatsu_vah_PLPaPrM utpāta_utpāta_Cp vāteṣu_vāta_PLM sva_sva_Cp ātmani_ātman_SLM eva_eva_ hi_hi_ tiṣṭhati_sthā_SPr3"
+  },
+  {
+    "index": 10545,
+    "sanskrit": "tānrudrādvimukhānnūnaṃ kariṣyāmi suyatnataḥ | svabhaktirahitāñjñātvā tānkariṣyati bhasmasāt ||",
+    "english": "52. Strenuously I shall make them averse to Śiva. Coming to know that they are devoid of devotion to him he will reduce them to ashes.",
+    "morphology": "tān_tad_PAM rudrāt_rudra_SBM vimukhān_vimukha_PAM nūnam_nūnam_ kariṣyāmi_kṛ_SFu1In su_su_ yatnataḥ_yatna_SBM  / sva_sva_Cp bhakti_bhakti_Cp rahitān_rahita_PAM jñātvā_jñā_Co tān_tad_PAM kariṣyati_kṛ_SFu3In bhasmasāt_bhasmasāt_"
+  },
+  {
+    "index": 10546,
+    "sanskrit": "duḥkhā-",
+    "english": "unpleasant,",
+    "morphology": "__U"
+  },
+  {
+    "index": 10547,
+    "sanskrit": "akṣāntir apakārāmarṣaṇaṃ pratyapakāracikīrṣā ca / ayam api krodhavat pradveṣāvasthāviśeṣe prajñapyate /",
+    "english": "This consists in not tolerating an insult and in the desire for retribution.Bearing grudges, like anger, is a term for a special state of hatred.",
+    "morphology": "akṣāntiḥ_akṣānti_SNF apakāra_apakāra_Cp amarṣaṇam_amarṣaṇa_SNNe pratyapakāra_pratyapakāra_Cp cikīrṣā_cikīrṣā_SNF ca_ca_  / ayam_idam_SNM api_api_ krodha_krodha_Cp vat_vat_ pradveṣa_pradveṣa_Cp avasthā_avasthā_Cp viśeṣe_"
+  },
+  {
+    "index": 10548,
+    "sanskrit": "ye paṭhaṃti ca śṛṇvaṃti śrāvayaṃti ca mānavāḥ | madarcanaphalaṃ teṣāṃ bhaviṣyati na saṃśayaḥ || 96 ||",
+    "english": "The man who listens to or reads or imparts to others this meritorious Stotrādhyāya (‘Chapter on Prayers’) composed by you, with great reverence, shall have the merit of worshipping me. There is no doubt about it.",
+    "morphology": "ye_yad_PNM paṭhaṃti_paṭh_PPr3In ca_ca_ śṛṇvaṃti_śru_PPr3In śrāvayaṃti_śrāvay_PPr3In ca_ca_ mānavāḥ_mānava_PNM  / mad_mad_Cp arcana_arcana_Cp phalam_phala_SNNe teṣām_tad_PGM bhaviṣyati_bhū_SFu3In na_na_ saṃśayaḥ_saṃśay"
+  },
+  {
+    "index": 10549,
+    "sanskrit": "saṃhṛtya sarvataścittaṃ stimitenāntarātmanā / svabhāvāpatitaṃ kurvanniricchaṃ tiṣṭha śāntadhīḥ //",
+    "english": "Curb and contract thy thought and heart from every thing, and enclose thy inward soul in itself; do what thou hast to do at any time, without desiring or attempting any thing of thy own will, and thus have the peace of thy mind.",
+    "morphology": "saṃhṛtya_saṃhṛ_Co sarvatas_sarvatas_ cittam_citta_SANe stimitena_stimita_SIM antarātmanā_antarātman_SIM  / svabhāva_svabhāva_Cp āpatitam_āpat_SAPaNe kurvan_kṛ_SNPaPrM niriccham_niricchā_SANe tiṣṭha_sthā_SPr2Im śānta_śam_PaCp dhī"
+  },
+  {
+    "index": 10550,
+    "sanskrit": "aviśvāsaḥ ca sarvatra mṛtyunā na viśiṣyate",
+    "english": "A want of trust again in respect of all is worse than death.",
+    "morphology": "aviśvāsaḥ_aviśvāsa_SNM ca_ca_U sarvatra_sarvatra_U mṛtyunā_mṛtyu_SIM na_na_U viśiṣyate_viśiṣ_SPr3InPv"
+  },
+  {
+    "index": 10551,
+    "sanskrit": "tvam hi su pratūḥ asi tvam naḥ go matīḥ iṣaḥ mahaḥ rāyaḥ sāt im agne apa vr̥dhi",
+    "english": "A mighty Conqueror art thou, O Agni, so disclose to us Food in our herds of kine and gain of ample wealth.",
+    "morphology": "tvam_tvad_SN hi_hi_U su_su_U pratūḥ_pratur_SNM asi_as_SPr2In tvam_tvad_SN naḥ_mad_PD go_go_MCp matīḥ_mati_PAF iṣaḥ_iṣ_PAF mahaḥ_mah_SGM rāyaḥ_rai_SGM sāt_sāt_U im_idam_SANe agne_agni_SVM apa_apa_U vrīḥ_vṛ_SPs2Im"
+  }
+]

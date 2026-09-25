@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1040,
+    "sanskrit": "mama vai pitaram prītaḥ parameṣṭhī api ajījanat",
+    "english": "That Brahma, otherwise called Prameshthi, filled with cheerfulness, caused my sire (Daksha) to start into being.",
+    "morphology": "maḥ_mad_SG"
+  },
+  {
+    "index": 1041,
+    "sanskrit": "tripurañjaghnuṣaḥ pūrvaṃ brahmaṇā viṣṇupañjaraṃ / śaṅkarasya dvijaśreṣtha rakṣaṇāya nirūpitaṃ //",
+    "english": "A demon killed by Viṣṇu. O Foremost among brahmins! This hymn Viṣṇupañjara was prescribed by Brahmā for the protection of Śiva, who was desirous of destroying Tripura in olden days.",
+    "morphology": "tripuraṃ_tripura_SANe jaghnuṣaḥ_han_SGPaPsM pūrvam_pūrvam_ brahmaṇā_brahman_SIM viṣṇu_viṣṇu_Cp pañjaram_pañjara_SANe  / śaṅkarasya_śaṃkara_SGM dvijaśreṣtha_dvijaśreṣtha_SVM rakṣaṇāya_rakṣaṇa_SDNe nirūpitaḥ_nirū"
+  },
+  {
+    "index": 1042,
+    "sanskrit": "tasmindevālaye prāptaṃ tailaṃ dravyādikaṃ tathā | apahṛtya ca tenaiva kuṭuṃbaṃ poṣayatyasau || 74 ||",
+    "english": "He used to steal the oil, money and materials that came to the temple and used to maintain his family thereby.",
+    "morphology": "tasmin_tad_SLM devālaye_devālaya_SLM prāptam_prāp_SAPaNe tailam_taila_SANe dravya_dravya_Cp ādikam_ādika_SANe tathā_tathā_  / apahṛtya_apahṛ_Co ca_ca_ tena_tad_SINe eva_eva_ kuṭumbam_kuṭumba_SANe poṣayati_poṣay_SPr3In asau_adas_SNM"
+  },
+  {
+    "index": 1043,
+    "sanskrit": "sā vrīheḥ aṣṭādaśa bhāga pramāṇā | siddhma padma kaṇṭaka adhiṣṭhānā",
+    "english": "The thickness of this fold measures eighteen-twentieth of a Vrihi[1] (rice grain) and it is the seat of skin diseases, such as Sidhma, Padma-kantaka etc.",
+    "morphology": "sā_tad_SNF vrīheḥ_vrīhi_SGM aṣṭādaśa_aṣṭādaśan_Cp bhāga_bhāga_MCp pramāṇā_pramāṇa_SNF  /"
+  },
+  {
+    "index": 1044,
+    "sanskrit": "stenādīnāṃ strīsaṃgrahaśeṣo 'yam arthavādaḥ //",
+    "english": "This verse constitutes a hortatory supplement to the injunctions regarding the punishing of thieves and others.",
+    "morphology": "stena_stena_Cp ādīnām_ādi_PGM strī_strī_Cp saṃgraha_saṃgraha_Cp śeṣaḥ_śeṣa_SNM ayam_idam_SNM artha_artha_Cp vādaḥ_vāda_SNM  /"
+  },
+  {
+    "index": 1045,
+    "sanskrit": "kāmas tu vātsyāyanapraṇītakāmaśāstraprayojanatām upagataḥ na vyākaraṇasādhyatāṃ spṛśati //",
+    "english": "Fulfilment of desire is the object of the Sexual science, composed by Vätsyāyana. Grammar has got the least connec- tion with this science. Such pleasure is beyond its reach.",
+    "morphology": "kāmaḥ_kāma_SNM tu_tu_ vātsyāyana_vātsyāyana_Cp praṇīta_praṇī_PaCp kāmaśāstra_kāmaśāstra_Cp prayojana_prayojana_Cp tām_tā_SAF upagataḥ_upagam_SNPaM na_na_ vyākaraṇa_vyākaraṇa_Cp sādhya_sādhay_GdCp tām_tā_SAF"
+  },
+  {
+    "index": 1046,
+    "sanskrit": "ato 'nye manuṣyebhya iti ha pratijajñe pratijñātavān /",
+    "english": "Hence he answered that ‘People other than human beings have taught me’",
+    "morphology": "atas_atas_ anye_anya_PNM manuṣyebhyaḥ_manuṣya_PBM iti_iti_"
+  },
+  {
+    "index": 1047,
+    "sanskrit": "muniruvāca | eṣā tu śāradā nāma kanyā tu gatabhatṛkā | mayā pratiśrutaṃ cāsyai tuṣṭena gatacakṣuṣā || 13 || saha bhartrā ciraṃ kālaṃ vihṛtya sutamuttamam | labhasveti mayā proktaṃ satyaṃ kuru namo'stu te || 14 ||",
+    "english": "13-14. This girl named Śāradā is a widow; while blind, I was propitiated (by her) and hence I had promised her thus: “You will be sporting about for a long time along with your husband. Attain an excellent son.” Kindly make true what has been said by me. Obeisance to you.",
+    "morphology": "muniḥ_muni_SNM uvāca_vac_SPs3In  / eṣā_etad_SNF tu_tu_ śāradā_śāradā_SNF nāma_nāma_ kanyā_kanyā_SNF tu_tu_ gata_gam_PaCp bhatṛkā_bhatṛka_SNF  / mayā_mad_SI pratiśrutam_pratiśru_SNPaNe ca_ca_ asyai_idam_SDF tuṣṭena_tuṣ_SIPaM ga"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8400,
+    "sanskrit": "pra budhnyā vaḥ īrate mahāṁsi pra nāmāni pra yajyavaḥ tiradhvam sahasriyam damyam bhāgam etam gr̥ha medhīyam marutaḥ juṣadhvam",
+    "english": "Your hidden 1 splendours come forth; spread out your powers (names), O racers! Accept, O Maruts, this thousandfold, domestic share, as an offering for the house-gods 2.",
+    "morphology": "pra_pra_U budhnyā_budhnya_PNNe vaḥ_tvad_PG īrate_īr_PPr3In mahāṁsi_mahat_SNM pra_pra_U nāmāni_nāman_PANe pra_pra_U yajyavaḥ_yajyu_PVM tiradhvam_tṛ_PPr2Im sahasriyam_sahasriya_SAM damyam_damya_SAM bhāgam_bhāga_SAM etam_etad_SAM gr̥ha_graha"
+  },
+  {
+    "index": 8401,
+    "sanskrit": "varjayitvā kurukṣetraṃ viśālāṃ virajāṃ gayām | snānaṃ surārcanaṃ caiva śrāddhe vai piṇḍapātanam || 32 ||",
+    "english": "Except in the case of Kurukṣetra, Viśālā, Virajā and Gayā, tonsuring of the head and observance of fast is universally applicable in all the Tīrthas.",
+    "morphology": "varjayitvā_varjay_Co kurukṣetram_kurukṣetra_SANe viśālām_viśālā_SAF virajām_virajā_SAF gayām_gayā_SAF  / snānam_snāna_SNNe sura_sura_Cp arcanam_arcana_SNNe ca_ca_ eva_eva_ śrāddhe_śrāddha_SLNe vai_vai_ piṇḍapātanam_piṇḍapātan"
+  },
+  {
+    "index": 8402,
+    "sanskrit": "saṃvatsareṇa patati patitena sahācaran //",
+    "english": "A man having associated with a degraded person for a year would himself be degraded.",
+    "morphology": "saṃvatsareṇa_saṃvatsara_SIM patati_pat_SPr3In patitena_pat_SIPaM saha_saha_ ācaran_ācar_SNPaPrM  /"
+  },
+  {
+    "index": 8403,
+    "sanskrit": "ekadā nityatṛptāyā niricchāyā api svayam / cūḍālāyā babhūvecchā līlayā khagamāgame //",
+    "english": "It came to pass one day, that the self-satisfied princess pondered in her mind, upon the method of flying in the air;and though she was void of every desire in her heart, wished to soar into the sky on an aerial journey.",
+    "morphology": "ekadā_ekadā_ nitya_nitya_Cp tṛptāyāḥ_tṛp_SGPaF niricchāyāḥ_niriccha_SGF api_api_ svayam_svayam_  / cūḍālāyāḥ_cūḍāla_SGF babhūva_bhū_SPs3In icchā_icchā_SNF līlayā_līlā_SIF khagama_khagama_Cp āgame_āgama_SLM  /"
+  },
+  {
+    "index": 8404,
+    "sanskrit": "kārye vā kāraṇadharmopacārāt taddarśayati aśliṣṭavastudvārā gater apīti /",
+    "english": "(3) it is applied through imposing the character of the Cause upon the Effect; as when the name is applied ‘aśliṣṭavastu-dvārā’;",
+    "morphology": "kārye_kārya_SLNe vā_vā_ kāraṇa_kāraṇa_Cp dharma_dharma_Cp upacārāt_upacāra_SBM tat_tad_SANe darśayati_darśay_SPr3In aśliṣṭa_aśliṣṭa_Cp vastu_vastu_Cp dvārā_dvār_SIF gateḥ_gati_SGF api_api_ iti_iti_"
+  },
+  {
+    "index": 8405,
+    "sanskrit": "katamā sā devateti //",
+    "english": "now, what is that Deity?",
+    "morphology": "katamā_katama_SNF sā_tad_SNF devatā_devatā_SNF iti_iti_  /"
+  },
+  {
+    "index": 8406,
+    "sanskrit": "tena jñātvā dinaṃ yogī prāṇāyāmaparaḥ sthitaḥ | sa jayatyāgataṃ kālaṃ māsārddhenaiva suṃdari ||",
+    "english": "3. Knowing the day through that, the Yogin stays engaged in Prāṇāyāma. O pretty woman, within half a month he conquers the Kāla that has already come upon him.",
+    "morphology": "tena_tena_ jñātvā_jñā_Co dinam_dina_SANe yogī_yogin_SNM prāṇāyāma_prāṇāyāma_Cp paraḥ_para_SNM sthitaḥ_sthā_SNPaM  / sa_tad_SNM jayati_ji_SPr3In āgatam_āgam_SAPaM kālam_kāla_SAM māsa_māsa_Cp arddhena_ardha_SINe eva_eva_ suṃdari_"
+  },
+  {
+    "index": 8407,
+    "sanskrit": "aham kartā ca kāryam ca kāraṇam ca api nārada",
+    "english": "I am, O Narada, the Doer, I am Cause, and I am Effect.",
+    "morphology": "aham_mad_SN kartā_kartṛ_SNM ca_ca_U kāryam_kārya_SNNe ca_ca_U kāraṇam_kāraṇa_SNNe ca_ca_U api_api_U nārada_nārada_SVM"
+  }
+]

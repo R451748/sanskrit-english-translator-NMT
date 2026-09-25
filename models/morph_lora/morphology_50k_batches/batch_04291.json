@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34320,
+    "sanskrit": "brāhmaṇair anujñātaḥ kuryād iti saṃbandhaḥ /",
+    "english": "The construction is \"brāhmaṇaiḥ anujñātaḥ kuryāt\".",
+    "morphology": "brāhmaṇaiḥ_brāhmaṇa_PIM anujñātaḥ_anujñā_SNPaM kuryāt_kṛ_SPr3O"
+  },
+  {
+    "index": 34321,
+    "sanskrit": "ratha nāga aśva kalilaḥ padāti ūrmi samākulaḥ śaineya velām āsādya sthitaḥ sainya mahā arṇavaḥ",
+    "english": "That sea of troops, abounding in cars and elephants and steeds, and full of waves constituted by foot-soldiers, stood still as soon as it came in contact with the Satyaki continent.",
+    "morphology": "ratha_ratha_MCp nāga_nāga_MCp aśva_aśva_MCp kalilaḥ_kalila_SNM padāti_padāti_MCp ūrmi_ūrmi_MCp samākulaḥ_samākula_SNM śaineya_śaineya_MCp velām_velā_SAF āsādya_āsāday_Co sthā_sthā_SNPaPrM hā_hā_SNM hā_hā_SNM hā_hā_SNM hā_hā_"
+  },
+  {
+    "index": 34322,
+    "sanskrit": "balinau dvāvapi prītyā yuyudhāte parasparam | nānāghātāṃśca kurvaṃtau nandiśakrau jigīṣayā ||",
+    "english": "10. Nandin and Indra both equally powerful fought with each other gleefully, and hit each other in diverse ways with a desire to overpower each other.",
+    "morphology": "balinaḥ_balin_DuNM dvau_dvi_DuNM api_api_ prītyā_prīti_SIF yuyudhāte_yudh_DuPs3In parasparam_paraspara_SAM  / nānā_nānā_ ghātān_ghāta_PAM ca_ca_ kurvantau_kṛ_DuNPaPrM nandi_nandin_Cp śakrau_śakra_DuNM"
+  },
+  {
+    "index": 34323,
+    "sanskrit": "yathā na pūryate yajñastathedānīṃ vidhīyatām || 34 ||",
+    "english": "34. Act now in such a way that the sacrifice will not be completed.",
+    "morphology": "yathā_yathā_ na_na_ pūryate_pṛ_SPr3InPv yajñaḥ_yajña_SNM tathā_tathā_ idānīm_idānīm_"
+  },
+  {
+    "index": 34324,
+    "sanskrit": "prayogābhiprāyaś ca karotiśabdavyapadeśo 'sya bhaviṣyatigomayāni kurukāṣṭhāni kurvitivat /",
+    "english": "A sound is experienced only when some effort precedes it.",
+    "morphology": "prayoga_prayoga_Cp abhiprāyaḥ_abhiprāya_SNM ca_ca_ karoti_kṛ_SPr3In śabda_śabda_Cp vyapadeśaḥ_vyapadeśa_SNM asya_idam_SGM bhaviṣyati_bhū_SFu3In gomayāni_gomaya_PANe"
+  },
+  {
+    "index": 34325,
+    "sanskrit": "trāsano bhañjanaścaiva hyāgnyeyyāṃ diśi saṃsthitāḥ | diśaṃ rakṣaṃti saṃnaddhā dakṣiṇāṃ śṛṇutātha me || 16 || daṇḍapāṇirmahānādaḥ pāśahastaḥ sulocanaḥ | anivartyakramaścaiva tathā duṃdubhinisvanaḥ || 17 ||",
+    "english": "16. Excessively fearsome tormentors are placed in the Āgneya (i.e. South-east) direction. Now listen about them bearing arms in hands and defending the Southern direction.",
+    "morphology": "trāsanaḥ_trāsana_SNM bhañjanaḥ_bhañjana_SNM ca_ca_ eva_eva_ hi_hi_ āgnyeyyām_āgnyeya_SLF diśi_diś_SLF saṃsthitāḥ_saṃsthā_PNPaM  / diśam_diś_SAF rakṣaṃti_rakṣ_PPr3In saṃnaddhāḥ_saṃnah_PNPaM dakṣiṇām_dakṣiṇa_SAF "
+  },
+  {
+    "index": 34326,
+    "sanskrit": "eṣa duryodhanam putram tava rājan mahān ṛṣiḥ",
+    "english": "That mighty Rishi, O king, will admonish thy son for the welfare of this race.",
+    "morphology": "eṣa_etad_SNM"
+  },
+  {
+    "index": 34327,
+    "sanskrit": "purā damanakaṃ daityaṃ samudrodakacāriṇam | bādhitāraṃ janānāṃ vai māyābalaparākramam || 13 ||",
+    "english": "113. Formerly there was a Daitya named Damanaka.[4] He had become very powerful due to Māyā. He harassed people. He could move through the waters of ocean.",
+    "morphology": "purā_purā_ damanakam_damanaka_SAM daityam_daitya_SAM samudra_samudra_Cp udaka_udaka_Cp cāriṇam_cārin_SAM  / bādhitāram_bādhitṛ_SAM janānām_jana_PGM vai_vai_ māyā_māyā_Cp bala_bala_Cp parākramaḥ_parākrama_SNM"
+  }
+]

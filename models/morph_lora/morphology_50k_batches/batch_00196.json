@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1560,
+    "sanskrit": "sarvān vadeḥ saṃjaya svastimantaḥ",
+    "english": "And to all of them thou must say, O Sanjaya, these words.",
+    "morphology": "sarvān_PAM"
+  },
+  {
+    "index": 1561,
+    "sanskrit": "sa ca pratītibhedaparyālocanayā caturavastha ucyate/",
+    "english": "Of these four kinds let us cite example of the originative injunction.",
+    "morphology": "sa_tad_SNM ca_ca_ pratīti_pratīti_Cp bheda_bheda_Cp paryālocanayā_paryālocanā_SIF"
+  },
+  {
+    "index": 1562,
+    "sanskrit": "evaṃ punaḥ pratilomaṃ nirjitya anāsravā apyekalaṅghitā anulomapratilomaṃ ca samāpadyate / ayaṃ prayogo vyutkrāntakasamāpatteḥ / yadā tu prathamātsāsravāt tṛtīyamanāsravaṃ dhyānaṃ samāpadyate tasmātsāsravamākāśānantyāyatanaṃ tasmādanāsravamākiñcanyāyatanam /",
+    "english": "When the ascetic is capable of passing from the first defiled dhyāna into the third undefiled Zhyáānṉa, from this into defiled Ākāśānantyāyatana, from this into undefiled Ākiṁcanyāyatana, and to return in the same way, then he has realized the entry into the third absorption of a different quality and has returned from.",
+    "morphology": "evam_evam_ punar_punar_ pratilomam_pratiloma_SANe nirjitya_nirji_Co anāsravā_anāsrava_SNF api_api_ eka_eka_Cp laṅghitā_laṅghay_SNPaF anulomapratilomam_anulomapratiloma_SANe ca_ca_ samāpadyate_samāpad_SPr3In  / ayam_idam_SNM prayogaḥ_prayoga_SNM"
+  },
+  {
+    "index": 1563,
+    "sanskrit": "bhadre kāśyapadāyāde kuru bhadrāṃ matiṃ mama /",
+    "english": "O Auspicious one! related to sage Kāśyapa! Make my intellect good.",
+    "morphology": "bhadre_bhadra_SVF"
+  },
+  {
+    "index": 1564,
+    "sanskrit": "yatkāmās te juhumas tan no astu vayaṃ syāma patayo rayīṇām |",
+    "english": "Be that ours for which we sacrifice to thee May we be lords of wealth.",
+    "morphology": "yad_yad_Cp kāmāḥ_kāma_PNM te_tvad_SD juhumaḥ_hu_PPr1In tat_tad_SNNe naḥ_mad_PG astu_as_SPr3Im vayam_mad_PN syāma_as_PPr1O"
+  },
+  {
+    "index": 1565,
+    "sanskrit": "etad gayāśiraḥ proktaṃ phalgutīrthaṃ taducyate /",
+    "english": "This is spoken as the Gayāśira. It is also called Phalgutīrtha.",
+    "morphology": "etat_etad_SNNe gayāśiraḥ_gayāśiras_SNNe proktam_pravac_SNPaNe phalgutīrtham_phalgutīrtha_SNNe tat_tad_SNNe ucyate_vac_SPr3InPv  /"
+  },
+  {
+    "index": 1566,
+    "sanskrit": "stutiṃ ca vividhāṃ kṛtvā praṇipatya śivaṃ mudā | jayaṃ ca prārthayāmāsa rāvaṇājau tadātmanaḥ ||",
+    "english": "36. Eulogising in diverse ways and bowing to Śiva joyously he requested for his victory in the imminent fight with Rāvaṇa.",
+    "morphology": "stutim_stuti_SAF ca_ca_ vividhām_vividha_SAF kṛtvā_kṛ_Co praṇipatya_praṇipat_Co śivam_śiva_SAM mudā_mud_SIF  / jayam_jaya_SAM ca_ca_ prārthayāmāsa_prārthay_SPs3InPe rāvaṇa_rāvaṇa_Cp ājau_āji_SLM tadā_tadā_ ātmanaḥ_ātman_SGM"
+  },
+  {
+    "index": 1567,
+    "sanskrit": "śrīdevyuvāca | yadidaṃ bhavato vākyaṃ na samyagiti me matiḥ | kevalaṃ na hi daivena prāptumartho hi śakyate || 18 ||",
+    "english": "Śrīdevī replied. 18. My opinion is that this statement of yours is not correct. It is not through destiny alone that objects, are achieved.",
+    "morphology": "śrī_śrī_Cp devī_devī_SNF uvāca_vac_SPs3In  / yat_yad_SNNe idam_idam_SNNe bhavataḥ_bhavat_SGM vākyam_vākya_SNNe na_na_ samyak_samyak_ iti_iti_ mama_mad_SG matiḥ_mati_SNF  / kevalam_kevalam_ na_na_ hi_hi_ daivena_daiva_SINe prāptum_prāp_In art"
+  }
+]

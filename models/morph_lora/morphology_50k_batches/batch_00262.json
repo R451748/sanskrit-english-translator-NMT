@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2088,
+    "sanskrit": "ramaṇīyeṣu puṇyeṣu sahitasya tvayā anagha kālaḥ mahān tu atītaḥ me śūra putram a paśyataḥ baladevam ca kauravya tathā anyān vṛṣṇi puṃgavān",
+    "english": "O descendant of Kuru, in these delightful and sacred and heaven-like halls of assembly a long time hath fleeted away in thy company without my seeing Vasudeva, Valadeva and other leaders of the Vrishni race.",
+    "morphology": "ramaṇīyeṣu_ramaṇīya_PLNe puṇyeṣu_puṇya_PLNe sahitasya_sahita_SGM tvayā_tvad_SI anagha_anagha_SVM kālaḥ_kāla_SNM mahān_mahat_SNM tu_tu_U atītaḥ_atī_SNPaPsM me_mad_SG śūra_śūra_MCp putram_putra_SAM a_a_U paśyataḥ_paś_SGPaPrM b"
+  },
+  {
+    "index": 2089,
+    "sanskrit": "karmyabhiprāyataḥ sarvaṃ taditi vyācacakṣire | ato deśakulācāradehalakṣaṇakalpanām |",
+    "english": "All such restriction are made on the ground of performance this is how the restrictions have been explained.",
+    "morphology": "karmi_karmin_Cp abhiprāyataḥ_abhiprāya_SBM sarvam_sarva_SNNe tat_tad_SNNe iti_iti_ vyācacakṣire_vyācakṣ_PPs3In  / atas_atas_ deśa_deśa_Cp kula_kula_Cp ācāra_ācāra_Cp deha_deha_Cp lakṣaṇa_lakṣaṇa_Cp kalpanām_kalpanā_SAF"
+  },
+  {
+    "index": 2090,
+    "sanskrit": "samantatastu paritaḥ sarvato viśvagityapi //",
+    "english": "The words samantataḥ, paritaḥ, sarvataḥ and viśvak convey all around.",
+    "morphology": "samantataḥ_samantataḥ_ tu_tu_ paritas_paritas_ sarvatas_sarvatas_  /"
+  },
+  {
+    "index": 2091,
+    "sanskrit": "uddāmavāraṇārāvai raṇalampaṭaharṣadam / bhuśuṇḍīmaṇḍalaprāsaśūlatomaravarṣadam //",
+    "english": "The Thundering peals of fierce elephants, excited the bravery of bravados: and missile weapons of various kinds, were flung about in showers.",
+    "morphology": "uddāma_uddāma_Cp vāraṇa_vāraṇa_Cp ārāvaiḥ_ārāva_PIM raṇa_raṇa_Cp lampaṭa_lampaṭa_Cp harṣa_harṣa_Cp dam_da_SAM  / bhuśuṇḍī_bhuśuṇḍi_Cp maṇḍala_maṇḍala_Cp prāsa_prāsa_Cp śūla_śūla_Cp tomara_tomara_Cp varṣa"
+  },
+  {
+    "index": 2092,
+    "sanskrit": "nityam rakṣita mantraḥ syāt yathā mūkaḥ śaracchikhī",
+    "english": "Dumb like the peacock in autumn, he should conceal his counsel.",
+    "morphology": "nityam_nityam_U"
+  },
+  {
+    "index": 2093,
+    "sanskrit": "athāsatyapi sāhacaryaniyame saṃsthānasmaraṇaṃ niyamena syāt / varṇe 'pi syāt varṇavaddhā saṃsthāne 'pyaniyamena syāt /",
+    "english": "If a similar remembrance is produced without there having been an invariable association between a tangible and its shape, one would in this same manner remember color after. Having touched something.",
+    "morphology": "atha_atha_ asati_asat_SLM api_api_ sāhacarya_sāhacarya_Cp niyame_niyama_SLM saṃsthāna_saṃsthāna_Cp smaraṇam_smaraṇa_SNNe niyamena_niyama_SIM syāt_as_SPr3O  / varṇe_varṇa_SLM api_api_ syāt_as_SPr3O varṇavaddhā_varṇavaddhā_ saṃsthā"
+  },
+  {
+    "index": 2094,
+    "sanskrit": "ekaviṃśaṃ stotram bhavati pratiṣṭhityai harivac chasyate |",
+    "english": "the twenty-onefold is the Stotra used, for support; what is recited has the word 'bay' in it;",
+    "morphology": "ekaviṃśam_ekaviṃśa_SNNe stotram_stotra_SNNe bhavati_bhū_SPr3In pratiṣṭhityai_pratiṣṭhiti_SDF harivat_harivat_SNNe śasyate_śaṃs_SPr3InPv"
+  },
+  {
+    "index": 2095,
+    "sanskrit": "api ghora aparādhasya dharmam āśritya tiṣṭhataḥ sa hi pracchādyate doṣaḥ śailaḥ meghaiḥ iva asitaiḥ",
+    "english": "Thou shouldst equally smile the heinous offender who liveth by the practice of virtue, for the garb of virtue simply covereth his offences like black clouds covering the mountains.",
+    "morphology": "api_api_U ghora_ghora_Cp aparādhasya_aparādha_SGM dharmam_dharma_SAM āśritya_āśri_Co tiṣṭhataḥ_sthā_SGPaPrM sa_tad_SNM hi_hi_U pracchādyate_pracchāday_SPr3InPv doṣaḥ_doṣa_SNM śailaḥ_śaila_SNM meghaiḥ_megha_PIM iva_iva_U asitaiḥ"
+  }
+]

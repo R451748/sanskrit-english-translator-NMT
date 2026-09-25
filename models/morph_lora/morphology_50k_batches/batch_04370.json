@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34952,
+    "sanskrit": "avaśyam janayati eva sarva karmasu saṃśayān",
+    "english": "Such a man, if employed, fails in almost every business.",
+    "morphology": "avaśyam_avaśyam_U"
+  },
+  {
+    "index": 34953,
+    "sanskrit": "na ati śītala vīrya tvāt vāta sādhāraṇaḥ mataḥ ||",
+    "english": "It reduces the Pitta and Kapha and neither produces nor subdues the Vayu owing to its moderately cooling potency.",
+    "morphology": "na_U ati_ati_U śītala_śītala_Cp vīrya_vīrya_NeCp tvāt_tva_SBNe vāta_vāta_MCp sādhāraṇaḥ_sādhāraṇa_SNM man_SNPaPsM"
+  },
+  {
+    "index": 34954,
+    "sanskrit": "atiyogyānimāndharmānvaiśākhoktāṃścakāra ha | vanyaiḥ kapitthapanasairjaṃbūcūtādibhiḥ phalaiḥ || 60 ||",
+    "english": "He planted some trees and made a park on the way. A free-water booth was constructed free from all impurities. Then he performed all those very excellent holy rites laid down for the month of Vaiśākha.",
+    "morphology": "atiyogyān_atiyogya_PAM imān_idam_PAM dharmān_dharma_PAM vaiśākha_vaiśākha_Cp uktān_vac_PAPaM cakāra_kṛ_SPs3In ha_ha_  / vanyaiḥ_vanya_PIM kapittha_kapittha_Cp panasaiḥ_panasa_PIM jaṃbu_jambu_Cp cūta_cūta_Cp ādibhiḥ_ādi_PINe phalaiḥ"
+  },
+  {
+    "index": 34955,
+    "sanskrit": "na hi te te asādhāraṇadharmā anubhūya---mānā api śakyā vaktum |",
+    "english": "The distinctive attributes of various things cannot, indeed, be declared, though experienced.",
+    "morphology": "na_na_ hi_hi_ te_tad_PNM te_tad_PNM asādhāraṇa_asādhāraṇa_Cp dharmāḥ_dharma_PNM"
+  },
+  {
+    "index": 34956,
+    "sanskrit": "tataś ca vidhir evāyaṃ nāvidhiḥ /",
+    "english": "Danger to life has already been sanctioned as one of the occasions on which meat may be eaten; so that such eating would be quite lawful, not unlawful.",
+    "morphology": "tatas_tatas_ ca_ca_ vidhiḥ_vidhi_SNM eva_eva_ ayam_idam_SNM na_na_ a_a_ vidhiḥ_vidhi_SNM  /"
+  },
+  {
+    "index": 34957,
+    "sanskrit": "ciccheda su mahat śūlam tena bāṇena vegavat",
+    "english": "Possessed of great energy he cut off that dart with that arrow of his.",
+    "morphology": "cicheda_chid_SPs3In su_su_U mahat_mahat_SANe śūlam_śūla_SANe tena_tad_SIM"
+  },
+  {
+    "index": 34958,
+    "sanskrit": "kimajñatvājjagajjātaṃ jagato'tha kimajñatā / vicāryāpīti no vidma ekatvādalametayoḥ //",
+    "english": "Whether this world is a creation of our ignorance, or whether it is ignorance itself, is what we cannot ascertain by our reasoning; because there being but one simple entity alone, there is no possibility of the co-existence of the duality.",
+    "morphology": "kim_ka_SNNe ajña_ajña_Cp tvāt_tva_SBNe jagat_jagant_SNNe jātam_jan_SNPaNe jagataḥ_jagant_SBNe atha_atha_ kim_ka_SNNe ajña_ajña_Cp tā_tā_SNF  / vicārya_vicāray_Co api_api_ iti_iti_ no_no_ vidmaḥ_vid_PPr1In eka_eka_Cp tvāt_tva_SBNe alam_alam_ "
+  },
+  {
+    "index": 34959,
+    "sanskrit": "sapiṇde brāhmaṇe varṇāḥ sarva evāviśeṣataḥ // daśarātreṇa śuddhyanti dvādaśāhena bhūmipaḥ / vaiśyāḥ pañcadaśāhena śūdrā māsena bhārgava //",
+    "english": "O Bhargava son of Bhṛgu whoever of a sapiṇḍa of a brahmin caste may die the pollution ends after ten days for all without any distinction. So also for a warrior class it would end after twelve days, the tradesmen after fifteen days and the śūdras after a month.",
+    "morphology": "sapiṇde_sapiṇda_SLM brāhmaṇe_brāhmaṇa_SLM varṇāḥ_varṇa_PNM sarve_sarva_PNM eva_eva_ aviśeṣatas_aviśeṣatas_  / daśa_daśan_Cp rātreṇa_rātra_SIM śuddhi_śuddhi_Cp anti_anti_SANe dvādaśa_dvādaśan_Cp ahena_aha_SIM bhūmipaḥ_b"
+  }
+]

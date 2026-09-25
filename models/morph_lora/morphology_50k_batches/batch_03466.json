@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27720,
+    "sanskrit": "tasmāttena mahārāja rāmeśvaraprapūjakaḥ | manuṣyaḥ preṣito dūto yastaṃ paśya mahīpate || 100 ||",
+    "english": "100. For that purpose, O great king, a human being, a worshipper of the deity Rāmeśvara, has been sent as his messenger. Do meet him.”",
+    "morphology": "tasmāt_tasmāt_ tena_tad_SIM mahā_mahat_Cp rāja_rāja_SVM rāmeśvara_rāmeśvara_Cp prapūjakaḥ_prapūjaka_SNM  / manuṣyaḥ_manuṣya_SNM preṣitaḥ_preṣay_SNPaM dūtaḥ_dūta_SNM yaḥ_yad_SNM tam_tad_SAM paśya_paś_SPr2Im mahīpate_mahīpa"
+  },
+  {
+    "index": 27721,
+    "sanskrit": "ato'vaśyaṃ rāmasetau māghamāse dvijottamāḥ | snānaṃ samācaredvidvānkiṃcidabhyudite ravau || 26 ||",
+    "english": "26. Therefore, O excellent Brāhmaṇas, the learned man should take the holy bath certainly in Rāmasetu in the month of Māgha when the Sun has risen a little.",
+    "morphology": "atas_atas_ avaśyam_avaśyam_ rāmasetau_rāmasetu_SLM māgha_māgha_Cp māse_māsa_SLM dvijottamāḥ_dvijottama_PVM  / snānam_snāna_SANe samācaret_samācar_SPr3O vidvān_vidvas_SNM kiṃcid_kaścit_SANe abhyudite_abhyudi_SLPaM ravau_ravi_SLM  /"
+  },
+  {
+    "index": 27722,
+    "sanskrit": "sannāṃ coddharet //",
+    "english": "And let him give assistance to a cow that has met with an accident (such as getting into a slough, or falling into a pit).",
+    "morphology": "sannām_sad_SAPaF ca_ca_ uddharet_uddhṛ_SPr3O  /"
+  },
+  {
+    "index": 27723,
+    "sanskrit": "ciram saṃcintayan arthān ciram jāgrat ciram svapan cirakārya abhisaṃpatteḥ cirakārī tathā ucyate",
+    "english": "He came to be called by the name of Chirakarin because he used to reflect long upon all matters, to remain awake for a long time, to sleep for a long time, and to take a long time in setting himself to the accomplishment of such acts as he accomplished.",
+    "morphology": "ciram_ciram_U saṃcintayan_saṃcintay_SNPaPrM arthān_artha_PAM ciram_ciram_U jāgrat_jāgṛ_SNPaPrM ciram_ciram_U svapan_svap_SNPaPrM cirakārya_cirakārya_Cp abhisaṃpatteḥ_abhisampatti_SBF cirakārī_cirakārin_SNM tathā_tathā_U ucyate_vac_SPr3I"
+  },
+  {
+    "index": 27724,
+    "sanskrit": "sarvatra sarvadā santi susūkṣmāṇyeva khādapi / kalpanāmātrasāratvānna cohyante manāgapi //",
+    "english": "There are many other things, more subtile than the visible atmosphere, and which owing to their existence in our desire or fancy only, are not borne upon the wings of the winds as the former ones.",
+    "morphology": "sarvatra_sarvatra_ sarvadā_sarvadā_ santi_as_PPr3In su_su_ sūkṣmāṇi_sūkṣma_PNNe eva_eva_ khāt_kha_SBNe api_api_  / kalpanā_kalpanā_Cp mātra_mātra_Cp sāra_sāra_Cp tvāt_tva_SBNe na_na_ ca_ca_ uhyante_vah_PPr3InPv manāk_manāk_ api_api_  /"
+  },
+  {
+    "index": 27725,
+    "sanskrit": "satyam /",
+    "english": "True.",
+    "morphology": "satyam_satya_SNNe"
+  },
+  {
+    "index": 27726,
+    "sanskrit": "parasparam udīkṣante bahavaḥ jīva jīvakāḥ harita aruṇa varṇānām śādvalānām samantataḥ",
+    "english": "And sitting on the twigs, myriads of jivajivakas of scarlet, yellow and red hues, are looking at one another.",
+    "morphology": "parasparam_paraspara_SAM udīkṣante_udīkṣ_PPr3In bahavaḥ_bahu_PNM jīva_jīva_MCp jīvakāḥ_jīvaka_PNM harita_harita_Cp aruṇa_aruṇa_Cp varṇānām_varṇa_PGM śādvalānām_śādvala_PGM samantataḥ_samantataḥ_U"
+  },
+  {
+    "index": 27727,
+    "sanskrit": "na abhītaḥ puruṣaḥ kaḥ cit samaye sthātum icchati",
+    "english": "The man that is without any fear never desires to adhere to any engagement or compact.",
+    "morphology": "na_na_U abhītaḥ_abhīta_SNM puruṣaḥ_puruṣa_SNM kaḥ_ka_SNM cit_cit_U samaye_samaya_SLM sthātum_sthā_In icchati_iṣ_SPr3In"
+  }
+]

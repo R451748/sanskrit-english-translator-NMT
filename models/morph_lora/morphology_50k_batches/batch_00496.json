@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3960,
+    "sanskrit": "sa āśīviṣa ghaṭa āyodhāḥ sa sarjarasa pāṃsavaḥ",
+    "english": "And the warriors (who guarded the walls) were armed with earthen pots filled with venomous snakes, and with resinous powders of many kinds.",
+    "morphology": "sa_sa_U āśīviṣa_āśīviṣa_MCp ghaṭa_ghaṭa_MCp āyodhāḥ_āyodha_PNM"
+  },
+  {
+    "index": 3961,
+    "sanskrit": "su nāsikena kāyena bhūtvā candraprabhaḥ tadā",
+    "english": "His body, equipt with an excellent nose, became as bright as the Moon.",
+    "morphology": "su_su_U"
+  },
+  {
+    "index": 3962,
+    "sanskrit": "adhiṣṭhātāram attāram paśūnām puruṣam viduḥ",
+    "english": "The learned know that man has dominion over all the lower animals.",
+    "morphology": "adhiṣṭhātāram_adhiṣṭhātṛ_SAM"
+  },
+  {
+    "index": 3963,
+    "sanskrit": "tu īśānte ca pibanyādi sakalānte'ṅgapañcakam | ityevaṃvidhimālocya karma kuryādgurūttamaḥ |",
+    "english": "Up to the end of the Isa, piba, etc. should be used and up to sakala all the five kinds. Keeping this rule in mind the teacher should conduct the entire affair of the rite.",
+    "morphology": "tu_tu_ īśa_īśa_Cp ante_anta_SLM ca_ca_ pibanī_pibanī_Cp ādi_ādi_SANe sakala_sakala_Cp ante_anta_SLM aṅga_aṅga_Cp pañcakam_pañcaka_SANe  /"
+  },
+  {
+    "index": 3964,
+    "sanskrit": "tasmātpakṣatraye'pi kleśādi- nidānatvamavidyāyāḥ prasiddhaṃ hīyeteti cet - tadapi na śobhanaṃ vibhāti, paryudāsaśaktimāśrityāvidyāśabdena vidyāviruddhasya viparyayajñānasyābhi- bhidhānamiti vṛddhairaṅgīkārāt|",
+    "english": "Therefore under any one of these three admissible alternatives[48] the common notion of ignorance as being the cause of the 'afflictions' would be overthrown.\" [We do not, however, concede this objector's view], because we may have recourse to the other kind of negation called paryudāsa [where the affirmative part is emphatic], and maintain that avidyā means a contradictory [or wrong] kind of knowledge, the reverse of vidyā; and so it has been accepted by ancient writers.",
+    "morphology": "tasmāt_tasmāt_ pakṣa_pakṣa_Cp traye_traya_SLNe api_api_ kleśa_kleśa_Cp ādi_ādi_Cp nidāna_nidāna_Cp tvam_tva_SNNe avidyāyāḥ_avidyā_SGF prasiddham_prasidh_SNPaNe hīyeta_hā_SPr3OPv iti_iti_ ced_ced_ - tat_tad_SNNe api_api_ na_na_ śobhanam_"
+  },
+  {
+    "index": 3965,
+    "sanskrit": "nirdoṣakartṛkatvādāvityādiśabdena vyākhyātṛtvaṃ gṛhyate // atha nirdoṣaiḥ kṛtavyākhyātasyāpi kathaṃ prāmāṇyaṃ siddhyatītyāha prajṭākṛpādiyuktānām ityādi /",
+    "english": "The following text proceeds to urge that the reason for the validity and reliability of the Veda may be held to lie in the fact of its being the work of a reliable person; why rely upon its not being the work of anyone, which only shows your stupidity? [see verses 2400-2401 above] ‘And so forth’ is meant to include the faultless expounders (2400-2401)",
+    "morphology": "nirdoṣa_nirdoṣa_Cp kartṛka_kartṛka_Cp tva_tva_Cp ādau_ādi_SLM iti_iti_ ādi_ādi_Cp śabdena_śabda_SIM vyākhyātṛ_vyākhyātṛ_Cp tvam_tva_SNNe gṛhyate_grah_SPr3InPv  // atha_atha_ nirdoṣaiḥ_nirdoṣa_PIM kṛta_kṛ_PaCp vyākhyātasy"
+  },
+  {
+    "index": 3966,
+    "sanskrit": "ahiṃsā paramam satyam tatas dharmaḥ pravartate",
+    "english": "It is also the highest truths from which all duty proceeds.",
+    "morphology": "ahiṃsā_ahiṃsā_SNF"
+  },
+  {
+    "index": 3967,
+    "sanskrit": "itīti vācaḥ pravadaṃti vāḍavāḥ śṛṇvaṃti daityāḥ kimidaṃ vadaṃti | baleḥ puraḥsthāḥ kathayaṃti saṃgatā baliḥ prahṛṣṭaḥ pradadāti yācitam || 262 ||",
+    "english": "262. The submarine fires uttered such words, the demons heard them, and said: “What is this?” Together they, getting in front of Bali, tell it (to him). Bali, being pleased, gave them what they asked for.[Sanskrit text for this chapter is available]",
+    "morphology": "iti_iti_ iti_iti_ vācaḥ_vāc_PAF pravadaṃti_pravad_PPr3In vāḍabāḥ_vāḍaba_PNM śṛṇvaṃti_śru_PPr3In daityāḥ_daitya_PNM kim_ka_SANe idam_idam_SANe vadaṃti_vad_PPr3In  / baleḥ_bali_SGM puraḥsthāḥ_puraḥstha_PNM kathayaṃti_ka"
+  }
+]

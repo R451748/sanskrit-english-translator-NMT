@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33320,
+    "sanskrit": "yāvanti hi saṃyogadravyāṇi tāvanti visaṃyogadravyāṇi /",
+    "english": "The objects of “disjunction” are as numerous as the objects of “junction”.",
+    "morphology": "yāvanti_yāvat_PNNe hi_hi_ saṃyoga_saṃyoga_Cp dravyāṇi_dravya_PNNe tāvanti_tāvat_PNNe visaṃyoga_visaṃyoga_Cp dravyāṇi_dravya_PNNe  /"
+  },
+  {
+    "index": 33321,
+    "sanskrit": "madāgamanahetuṃ vai śṛṇu daityendrasattama | yadarthamiha cāyātastvahaṃ vakṣyekhilaṃ hi tat ||",
+    "english": "25. O excellent king of Daityas, listen to the purpose for which I have come here. I shall explain it to you.",
+    "morphology": "mad_mad_Cp āgamana_āgamana_Cp hetum_hetu_SAM vai_vai_ śṛṇu_śru_SPr2Im daitya_daitya_Cp indra_indra_Cp sattama_sattama_SVM  / yad_yad_Cp artham_artha_SAM iha_iha_ ca_ca_ āyātaḥ_āyā_SNPaM tu_tu_ aham_mad_SN vakṣyāmi_vac_SFu1In ikhilam_ikhila"
+  },
+  {
+    "index": 33322,
+    "sanskrit": "tathā hi utpādyakatva{lpa---}viṣayasamudbhūtavasvākārasamāropeṇa pravartataeva cetaḥ /",
+    "english": "Because, the Mind (Cognition) does operate through the imposing of the form of things created by mere imagination;",
+    "morphology": "tathā_tathā_ hi_hi_ utpādyaka_utpādyaka_Cp tva_tva_Cp alpa_alpa_Cp viṣaya_viṣaya_Cp samudbhūta_samudbhū_PaCp vasu_vasu_Cp ākāra_ākāra_Cp samāropeṇa_samāropa_SIM"
+  },
+  {
+    "index": 33323,
+    "sanskrit": "stambhaśṛṅkhalapāśair vā mṛte pādonamācaret /",
+    "english": "In the event of the death of a cow while being subdued or chained or yoked to a cart etc.",
+    "morphology": "stambha_stambha_Cp śṛṅkhala_śṛṅkhala_Cp pāśaiḥ_pāśa_PIM"
+  },
+  {
+    "index": 33324,
+    "sanskrit": "tvam api evam mahā bāho mātaram pitaram kulam kathayasva narendrāṇām yeṣām tvam kula vardhanaḥ",
+    "english": "But, O mighty-armed one, thou too must tell us thy lineage and the names of thy father and mother and the royal line of which thou art the ornament.",
+    "morphology": "tvam_tvad_SN api_api_U evam_evam_U mahā_mahat_Cp bāho_bāhu_SVM mātaram_mātṛ_SAF pitaram_pitṛ_SAM kulam_kula_SANe kathayasva_kathay_SPr2Im narendrāṇām_narendra_PGM yeṣām_yad_PGM tvam_tvad_SN"
+  },
+  {
+    "index": 33325,
+    "sanskrit": "yaś cārthapratītihetuḥ sphoṭātmā śabdaḥ tasya nānityatvam, na cāptapraṇītatvam iti asthāne naiyāyikāḥ kliṣṭā bhaveyuḥ / tasmād anityānāṃ varṇānām eva vācakatvaṃ pratiṣṭhāpanīyam /",
+    "english": "For this very reason the Naiyāyikas have got to prove by all means that non-eternal letters convey a meaning and that hypothesis of a sphota is to be refuted. Now, the argument of the Naiyāyikas is as follows: Let us take an example viz. the word 'gauḥ'. When the letters 'g' etc.",
+    "morphology": "yaḥ_yad_SNM ca_ca_ artha_artha_Cp pratīti_pratīti_Cp hetuḥ_hetu_SNM sphoṭa_sphoṭa_Cp ātmā_ātman_SNM śabdaḥ_śabda_SNM tasya_tad_SGM na_na_ anitya_anitya_Cp tvam_tva_SNNe na_na_ ca_ca_ āpta_āpta_Cp praṇīta_praṇī_PaCp tvam_tva_SNNe it"
+  },
+  {
+    "index": 33326,
+    "sanskrit": "makṣu deva vataḥ rathaḥ śūraḥ vā pr̥t su kāsu cit devānām yaḥ it manaḥ yajamānaḥ iyakṣati abhi it ayajvanaḥ bhuvat",
+    "english": "As in all frays the hero, so swift moves his car whom Gods attend. The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.",
+    "morphology": "makṣu_makṣu_U deva_deva_MCp vataḥ_vat_SGM rathaḥ_ratha_SNM śūraḥ_śūra_SNM vā_vā_U prāt_prāt_U su_su_U kāsu_ka_PLF cit_cit_U devānām_deva_PGM yaḥ_yad_SNM id_id_U manaḥ_manas_SANe yajamānaḥ_yaj_SNPaPrM iyakṣati_iyakṣ_SPr3In ab"
+  },
+  {
+    "index": 33327,
+    "sanskrit": "samānā [p.497] paravastuna iti / samānaṃ ca tadaparaṃ ceti samānāparavastu /",
+    "english": "The compounds ‘Samānāparavastu’ stands for the ‘Samāna’, the Homogeneous, and the ‘apara’, Contrary, i.e. the Heterogeneous.",
+    "morphology": "samānā_samāna_SNF para_para_Cp vastunaḥ_vastu_SGNe iti_iti_  / samāna_samāna_SNNe ca_ca_ tad_tad_Cp aparaḥ_apara_SNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41912,
+    "sanskrit": "yad-uktaṃ bhagavatā:",
+    "english": "This was said by the Fortunate One:",
+    "morphology": "yat_yad_SNNe aḥ_it_SNM"
+  },
+  {
+    "index": 41913,
+    "sanskrit": "auraso dharmapatnījastatsamaḥ putrikāsutaḥ /",
+    "english": "A son born to one through his lawful wife is called aurasa legitimate.",
+    "morphology": "__aurasa_U"
+  },
+  {
+    "index": 41914,
+    "sanskrit": "itthaṃ gateṣu varṣeṣu daśasv atra kilaikadā / dattvā rājñe phalaṃ tasmai bhikṣāv āsthānato gate // sa rājā tat phalaṃ prādāt praviṣṭāyātra daivataḥ / krīḍāmarkaṭapotāya hastabhraṣṭāya rakṣiṇām //",
+    "english": "In this way ten years passed. But one day, when the mendicant had left the hall of audience, after giving the fruit to the king, the king gave it to a young pet monkey, that had escaped from the hands of its keepers, and happened to enter there.",
+    "morphology": "ittham_ittham_ gateṣu_gam_PLPaM varṣeṣu_varṣa_PLM daśasu_daśan_PLM atra_atra_ kila_kila_ ekadā_ekadā_  / dattvā_dā_Co rājñe_rājan_SDM phalam_phala_SANe tasmai_tad_SDM bhikṣau_bhikṣu_SLM āsthānataḥ_āsthāna_SBNe gate_gam_SLPaM  / s"
+  },
+  {
+    "index": 41915,
+    "sanskrit": "upadeśyopadeśārthaṃ saṃdehāvasare'lpadhīḥ / yāvanna buddhastāvattvaṃ bhedamabhyupagacchasi //",
+    "english": "Precepts to men of little intelligence and doubtful minds, fail to persuade them to the knowledge of truth; and so long as they can not comprehend the unity, they are ever apt to believe in the multiplicity of objects.",
+    "morphology": "upadeśya_upadiś_GdCp upadeśa_upadeśa_Cp artham_artha_SAM saṃdeha_saṃdeha_Cp avasare_avasara_SLM alpa_alpa_Cp dhīḥ_dhī_SNM  / yāvat_yāvat_ na_na_ buddhaḥ_budh_SNPaM tāvat_tāvat_ ḥḥ_ḥḥ_"
+  },
+  {
+    "index": 41916,
+    "sanskrit": "adhodṛṣṭir naikṛtikaḥ svārthasādhanatatparaḥ / śaṭho mithyāvinītaś ca bakavrataparo dvijaḥ //",
+    "english": "One who hangs his head, who is bent upon, injuring others and upon his own gain, artful, and falsely demure, such a man is said to act like, a crane.",
+    "morphology": "adhas_adhas_ dṛṣṭiḥ_dṛṣṭi_SNM naikṛtikaḥ_naikṛtika_SNM sva_sva_Cp artha_artha_Cp sādhana_sādhana_Cp tatparaḥ_tatpara_SNM  / śaṭhaḥ_śaṭha_SNM mithyā_mithyā_ vinītaḥ_vinī_SNPaM ca_ca_ bakavrata_bakavrata_Cp paḥ_paḥ_S"
+  },
+  {
+    "index": 41917,
+    "sanskrit": "etadāgūrya sakalaṃ nāmajātyādivarṇanam /",
+    "english": "It was in view of all this that the assertion of ‘name, universal and the rest’ was made;",
+    "morphology": "etat_etad_SNNe"
+  },
+  {
+    "index": 41918,
+    "sanskrit": "pāramitāniṣpādakatve bodhisattvapratipattir ānuttaryam ucyate / ālambanasya punaḥ pāramitādayo dharmā dharmadhātuś ca /",
+    "english": "the spiritual practice of the bodhisattva is described as supreme in regard to the accomplishment of the perfections.Moreover, the objective support refers to the dharmas of the perfections etc. and to the dharmadhâtu.",
+    "morphology": "__pāramitā_U __niṣpādaka_U __tva_U __bodhisattva_U __pratipatti_U __ānuttarya_U ucyate_vac_SPr3InPv  / __ālambana_U __punar_U __pāramitā_U __ādi_U __dharma_U __dharmadhātu_U __pāramitā_U __pāramitā_U __pāramitā_U __pāramitā_U __pāramit"
+  },
+  {
+    "index": 41919,
+    "sanskrit": "ānanaiḥ vikṛtaiḥ pādaiḥ pārtha veṣaiḥ ca vaikṛtaiḥ",
+    "english": "All of them, O Partha, have deformed faces and mouths and legs and strange attires.",
+    "morphology": "ānanaiḥ_ānana_PINe vikṛtaiḥ_vikṛ_PIPaPsNe pādaiḥ_pāda_PIM pārtha_pārtha_SVM veṣaiḥ_veṣa_PIM"
+  }
+]

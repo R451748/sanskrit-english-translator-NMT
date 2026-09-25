@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42096,
+    "sanskrit": "ye hi dharmaṃ na manyaṃte tathā ye vyasanairjitāḥ | anumānena boddhavyaṃ yadete śeṣapāpinaḥ || 35 ||",
+    "english": "35. Those who disregard Dharma as well as those who are overpowered by vices or calamities should inferentially be known as persons whose sins have not been exhausted.",
+    "morphology": "ye_yad_PNM hi_hi_ dharmam_dharma_SAM na_na_ manyaṃte_man_PPr3In tathā_tathā_ ye_yad_PNM vyasanaiḥ_vyasana_PINe jitāḥ_ji_PNPaM  / anumānena_anumāna_SINe boddhavyam_budh_SNNeGd yat_yat_ ete_etad_PNM śeṣa_śeṣa_Cp pāpinaḥ_pāpin_PNM "
+  },
+  {
+    "index": 42097,
+    "sanskrit": "ā naḥ devaḥ savitā trāyamāṇaḥ hiraṇya pāṇiḥ yajataḥ jagamyāt yaḥ datra vān uṣasaḥ na pratīkam vi ūrṇute dāśuṣe vāryāṇi",
+    "english": "May Savitar come hither and approach us, the God who rescues, Holy, goldenhanded, The God who, bounteous as the face of Morning, discloses precious gifts for him who worships.",
+    "morphology": "ā_ā_U naḥ_mad_PA devaḥ_deva_SNM savitā_savitṛ_SNM trāyamāṇaḥ_trā_SNPaPrM hiraṇya_hiraṇya_Cp pāṇiḥ_pāṇi_SNM yajataḥ_yajata_SNM jagamyāt_gam_SPs3O yaḥ_yad_SNM datra_dattra_NeCp vān_vat_SNM uṣasaḥ_uṣas_SGF na_na_U prat"
+  },
+  {
+    "index": 42098,
+    "sanskrit": "yathā ''āha nityaṃ na bhavanaṃ yasya yasya vā nityam abhūtatā /",
+    "english": "Whatever is either eternal or unreal does not come into being.",
+    "morphology": "yathā_yathā_ āha_ah_SPs3In nityam_nitya_SNNe na_na_ bhavanam_bhavana_SNNe yasya_yad_SGM yasya_yad_SGM vā_vā_ nityam_nitya_SNNe a_a_ bhūta_bhū_PaCp tā_tā_SNF  /"
+  },
+  {
+    "index": 42099,
+    "sanskrit": "madhu paśyati saṃmohāt prapātam na anupaśyati",
+    "english": "He beholdeth the honey, but seeth not, from folly, the terrible fall.",
+    "morphology": "madhu_madhu_SANe paśyati_paś_SPr3In saṃmohāt_sammoha_SBM prapātam_prapāta_SAM"
+  },
+  {
+    "index": 42100,
+    "sanskrit": "yajñenaiva yajñaṃ saṃ sṛjati rudrāḥ sambhṛtya pṛthivīm ity āha |",
+    "english": "'The Rudras, having gathered together the earth', he says; these deities first gathered him together;",
+    "morphology": "yajñena_yajña_SIM eva_eva_ yajñam_yajña_SAM sam_sam_ sṛjati_sṛj_SPr3In rudrāḥ_rudra_PVM sambhṛtya_sambhṛ_Co pṛthivīm_pṛthivī_SAF iti_iti_ āha_ah_SPs3In "
+  },
+  {
+    "index": 42101,
+    "sanskrit": "mūkaś caiva tuhuṇḍaś ca hradaputrau babhūvatuḥ /",
+    "english": "Hrāda had two sons, Suka and Tuhunda.",
+    "morphology": "mūkaḥ_mūka_SNM ca_ca_ eva_eva_ tuhuṇḍaḥ_tuhuṇḍa_SNM ca_ca_ hrada_hrada_Cp putrau_putra_DuNM babhūvatuḥ_bhū_DuPs3In  /"
+  },
+  {
+    "index": 42102,
+    "sanskrit": "vitarkayan na asya labhāmi saṃpadam tathā asya cittam hi api saṃvitarkayan nara ṛṣabhasya adya na yāmi tattvataḥ",
+    "english": "Revolving the matter in my mind, I cannot ascertain who he is, nor can I with even serious thoughts guess the intention of that bull among men (in coming here).",
+    "morphology": "vitarkayan_vitarkay_SNPaPrM na_na_U asya_idam_SGM labhāmi_labh_SPr1In saṃpadam_sampad_SAF tathā_tathā_U asya_idam_SGM cittam_citta_SANe hi_hi_U api_api_U saṃvitarkayan_saṃvitarkay_SNPaPrM nara_nara_MCp ṛṣabhasya_ṛṣabha_SGM adya_adya_U na_n"
+  },
+  {
+    "index": 42103,
+    "sanskrit": "yudhyamānaḥ mahā iṣvāsaḥ hataḥ saḥ abhimukhaḥ raṇe asinā gadayā śaktyā dhanuṣā ca mahā rathaḥ",
+    "english": "The great bowman, that mighty car-warrior, struggling on the field, hath fallen in the battle struck with sword and mace and dart, and bow.",
+    "morphology": "yudhyamānaḥ_yudh_SNPaPrM mahā_mahat_Cp iṣvāsaḥ_iṣvāsa_SNM hataḥ_han_SNPaPsM saḥ_tad_SNM abhimukhaḥ_abhimukha_SNM raṇe_raṇa_SLM asinā_asi_SIM gadayā_gadā_SIF śaktyā_śakti_SIF dhanuṣā_dhanus_SINe ca_ca_U mahā_mahat_Cp rathaḥ"
+  }
+]

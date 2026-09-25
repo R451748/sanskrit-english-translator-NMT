@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25280,
+    "sanskrit": "tvaṃ svāhā tvaṃ svadhā vidyā svadhā tvaṃ jyotiraṃbare / tvaṃ sarvalokarakṣārthamavatīrṇā mahītale //",
+    "english": "Thou art Svāhā thou art Swadhā thou art wisdom, ambrosia, light, and heaven. Thou hast descended upon earth for the preservation of the world.",
+    "morphology": "tvam_tvad_SN svāhā_svāhā_SNF tvam_tvad_SN svadhā_svadhā_SNF vidyā_vidyā_SNF svadhā_svadhā_SNF tvam_tvad_SN jyotiḥ_jyotis_SNNe aṃbare_ambara_SLNe  / tvam_tvad_SN sarva_sarva_Cp loka_loka_Cp rakṣā_rakṣā_Cp artham_artha_SAM avatīrṇā_av"
+  },
+  {
+    "index": 25281,
+    "sanskrit": "yugasya ādau nimittam tat mahat divyam pracakṣate yasmin tat śrūyate satyam jyotiḥ brahma sanātanam adbhutam ca api acintyam ca sarvatra sama tām gatam",
+    "english": "It is called Mahadivya, and was formed at the beginning of the Yuga, in which we are told, was the true light Brahma, the eternal one, the wonderful and inconceivable being present alike in all places;",
+    "morphology": "yugasya_yuga_SGNe ādau_ādi_SLM nimittam_nimitta_SANe tat_tad_SANe mahat_mahat_SANe divyam_divya_SANe pracakṣate_pracakṣ_PPr3In yasmin_yad_SLNe tat_tad_SNNe śrūyate_śru_SPr3InPv satyam_satya_SNNe jyotiḥ_jyotis_SNNe brahma_brahman_SNNe sanātanam_"
+  },
+  {
+    "index": 25282,
+    "sanskrit": "tatra pravāhamadhye tu patitā tamahā nadī | tatra tatsaṅgamaṃ tīrthaṃ sarvapāpakṣayaṃkaram || 5 ||",
+    "english": "River Tamahā flows into the stream of that Tīrtha. The confluence there is a Tīrtha that quells all sins.",
+    "morphology": "tatra_tatra_ pravāha_pravāha_Cp madhye_madhya_SLNe tu_tu_ patitā_pat_SNPaF nadī_nadī_SNF  / tatra_tatra_ tat_tad_SNNe saṅgamam_saṃgama_SNNe tīrtham_tīrtha_SNNe sarva_sarva_Cp pāpa_pāpa_Cp kṣayaṃkaram_kṣayaṃkara_SNNe "
+  },
+  {
+    "index": 25283,
+    "sanskrit": "sura asura guro deva viṣṇo tvam vaktum arhasi",
+    "english": "Thou art Vishnu in consequence of thy pervading the whole universe.",
+    "morphology": "sura_sura_MCp"
+  },
+  {
+    "index": 25284,
+    "sanskrit": "susamiddhāya śociṣe ghṛtaṃ tīvraṃ juhotana / agnaye jātavedase //",
+    "english": "To Agni Jâtavedas, to the flame, the well-enkindled God, Offer thick sacrificial oil. 3",
+    "morphology": "su_su_ samiddhāya_samindh_SDPaNe śociṣe_śocis_SDNe ghṛtam_ghṛta_SANe tīvram_tīvra_SANe juhotana_hu_PPr2Im  / agnaye_agni_SDM jātavedase_jātavedas_SDM  /"
+  },
+  {
+    "index": 25285,
+    "sanskrit": "na yajñam avṛto gacchet /",
+    "english": "Let him not carry tales from one family to another.* He should not go to a sacrifice unless he has been chosen to officiate, but he may go there freely to witness it.",
+    "morphology": "na_na_ yajñam_yajña_SAM a_a_ vṛtaḥ_vṛ_SNPaM"
+  },
+  {
+    "index": 25286,
+    "sanskrit": "sṛṣṭiṃ vinirmame cemāṃ yayā bhaktyā pitāmahaḥ | saṃharatyakhilaṃ rudro lakṣmīścaiśvaryadāyinī || 45 ||",
+    "english": "45. It is due to that devotion that Brahmā accomplished the creation of the universe, that Rudra annihilates everything and that Lakṣmī bestows prosperity.",
+    "morphology": "sṛṣṭim_sṛṣṭi_SAF vinirmame_vinirmā_SPs3In ca_ca_ imām_idam_SAF yayā_yad_SIF bhaktyā_bhakti_SIF pitāmahaḥ_pitāmaha_SNM  / saṃharati_saṃhṛ_SPr3In akhilam_akhila_SANe rudraḥ_rudra_SNM lakṣmīḥ_lakṣmī_SNF ca_ca_ aiśvarya_ai"
+  },
+  {
+    "index": 25287,
+    "sanskrit": "karṇam vivyādha saptatyā śaraiḥ saṃnata parvabhiḥ",
+    "english": "With those straight shafts numbering seventy, he pierced Karna.",
+    "morphology": "karṇam_karṇa_SAM vivyādha_vyadh_SPs3In saptatyā_saptati_SIF śaraiḥ_śara_PIM saṃnata_saṃnam_PaPsCp parvabhiḥ_parvan_PIM"
+  }
+]

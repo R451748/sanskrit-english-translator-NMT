@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23832,
+    "sanskrit": "sthānaprāptivihīnā hi gītivat kulakanyakā / udvejinī parasyāpi śrūyamāṇaiva karṇayoḥ //",
+    "english": "For a maiden of good family who does not obtain a proper position is like a song out of tune; when heard of by the ears even of one unconnected with her she causes distress.",
+    "morphology": "sthāna_sthāna_Cp prāpti_prāpti_Cp vihīnā_vihā_SNPaF hi_hi_ gīti_gīti_Cp vat_vat_ kula_kula_Cp kanyakā_kanyakā_SNF  / udvejinī_udvejin_SNF parasya_para_SGM api_api_ śrūyamāṇā_śru_SNPaPrFPv"
+  },
+  {
+    "index": 23833,
+    "sanskrit": "yadi nirdhāraṇe ṣaṣṭhī / kathaṃ na na nirdhāraṇe iti samāsābhāvaḥ /",
+    "english": "Question\" If what is meant is the selection of the \"goldsmith from among the \"thorns\" , then why should not the compounding in \"Sarvakaṇṭakapāpiṣṭham\" be avoided ?",
+    "morphology": "yadi_yadi_ nirdhāraṇe_nirdhāraṇa_SLNe ṣaṣṭhī_ṣaṣṭhī_SNF  / katham_katham_ na_na_ na_na_ nirdhāraṇe_nirdhāraṇa_SLNe iti_iti_"
+  },
+  {
+    "index": 23834,
+    "sanskrit": "astrāṇi śikṣayām āsa na abudhyanta ca tam janāḥ",
+    "english": "But as yet none knew of Aswatthaman's prowess.",
+    "morphology": "astrāṇi_astra_PANe śikṣayām_śikṣay_SPs3In"
+  },
+  {
+    "index": 23835,
+    "sanskrit": "dīpte roge paittikam saṃvidhānam kuryāt sarvam svādu yat śītalam ca||",
+    "english": "All the Pitta-subduing measures should be employed in a case of Dipta, and all cooling remedies and the drugs of sweet taste should also be prescribed.",
+    "morphology": "dīpte_dīp_SLPaPsM roge_roga_SLM paittikam_paittika_SANe saṃvidhānam_saṃvidhāna_SANe kuryāt_kṛ_SPr3O sarvam_sarva_SNNe svādu_svādu_SNNe yat_yad_SNNe śītalam_śītala_SNNe ca_ca_U"
+  },
+  {
+    "index": 23836,
+    "sanskrit": "eṣa niyamo na syād iti yāvat /",
+    "english": "i.e. there would be no certainty on the point.",
+    "morphology": "eṣa_etad_SNM niyamaḥ_niyama_SNM na_na_ syāt_as_SPr3O iti_"
+  },
+  {
+    "index": 23837,
+    "sanskrit": "babhūva nirmalaṃ vyoma śaradā dhvastatoyadam / yogāgnidagdhakleśaughaṃ yogināmiva mānasam // sūryāṃśujanitaṃ tāpaṃ nitye tārāpatiḥ śamam / ahaṃmānodbhavaṃ duḥkhaṃ vivekaḥ sumahāniva //",
+    "english": "The autumnal sky was wholly free from clouds, like the heart of the ascetic, whose cares have been consumed by the fire of devotion. The moon allayed the fervours of the sun, as discrimination alleviates the pain to which egotism gives birth.",
+    "morphology": "babhūva_bhū_SPs3In nirmalam_nirmala_SNNe vyoma_vyoman_SNNe śaradā_śarad_SIF dhvasta_dhvaṃs_PaCp toyadam_toyada_SNNe  / yoga_yoga_Cp agni_agni_Cp dagdha_dah_PaCp kleśa_kleśa_Cp ogham_ogha_SNNe yoginām_yogin_PGM iva_iva_ mānasam_mānasa_SNNe  / s"
+  },
+  {
+    "index": 23838,
+    "sanskrit": "nārada uvāca | brahmanvidhe mahāprājña vada me vadatāṃ vara | menakāyāssamutpatiṃ vivāhaṃ caritaṃ tathā ||",
+    "english": "11. O Brahmā, of great intellect and foremost of eloquent gods, please tell me the origin and details of the marriage of Menā.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / brahman_brahman_SVM vidhe_vidhi_SVM mahā_mahat_Cp prājña_prājña_SVM vada_vad_SPr2Im mama_mad_SG vadatām_vad_PGPaPrM vara_vara_SVM  / menakāyāḥ_menakā_SGF samutpatim_samutpati_SAM vivāham_vivāha_SAM c"
+  },
+  {
+    "index": 23839,
+    "sanskrit": "taiḥ ca api viddhaḥ śuśubhe rudhireṇa samukṣitaḥ giri prasravaṇaiḥ yadvat giriḥ dhātu vimiśritaiḥ",
+    "english": "And pierced by them (in return) and bathed in blood, he shone like a hill with rillets of water mixed with red-chalk (gliding down its breast).",
+    "morphology": "taiḥ_tad_PIM ca_ca_U api_api_U viddhaḥ_vyadh_SNPaPsM śuśubhe_śubh_SPs3In rudhireṇa_rudhira_SINe samukṣitaḥ_samukṣ_SNPaPsM giri_giri_MCp prasravaṇaiḥ_prasravaṇa_PINe yadvat_yadvat_U giriḥ_giri_SNM dhātu_dhātu_MCp vimiśritaiḥ_vimi"
+  }
+]

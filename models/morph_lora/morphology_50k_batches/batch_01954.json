@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15624,
+    "sanskrit": "mārdvīkam avidāhi tvāt madhura anvayataḥ tathā",
+    "english": "The wine know ?????? Madvirka and prepared ??? the ???? fruits as grapes and raisins, does not ????? to any sort of reactionary acidity after its use, and accordingly is not forbidden by learned physicians even in cases of hemoptysis.",
+    "morphology": "mārdvīkam_mārdvīka_SNNe avidāhi_avidāhin_Cp tvāt_tva_SBNe madhura_madhura_Cp anvayataḥ_anvaya_SBM"
+  },
+  {
+    "index": 15625,
+    "sanskrit": "te anyonyam samare yodhāḥ preṣayanta yama kṣayam",
+    "english": "Other warriors (that were yet awake) in that battle, despatched these to Yama's abode.",
+    "morphology": "te_tad_PNM anyonyam_anyonya_SAM samare_samara_SLNe"
+  },
+  {
+    "index": 15626,
+    "sanskrit": "sāmvartakaṃ nāma gaṇaṃ pralaye mukta bandhanamindro vraja vināśāya preṣayām āsa sa tvaram",
+    "english": "Unleashing the sāmvartaka clouds used at the time of cosmic destruction, Indra sent them to destroy Vraja.",
+    "morphology": "sāmvartakam_sāmvartaka_SAM nāma_nāma_ gaṇam_gaṇa_SAM pralaye_pralaya_SLM mukta_muc_PaCp bandhanam_bandhana_SAM indraḥ_indra_SNM vraja_vraj_SPr2Im vināśāya_vināśa_SDM preṣayām_preṣay_SPs3InPe āsa_as_SPs3In sa_tad_SNM tvaram_tvarā_"
+  },
+  {
+    "index": 15627,
+    "sanskrit": "varjyam sa lavaṇam kṣīram tat ca vigrathitam bhavet ||",
+    "english": "There are three kinds of curd such as, the sweet, the acid, and the extremely acid curd.",
+    "morphology": "varjyam_varjay_SNNeGd sa_sa_U lavaṇam_lavaṇa_SNNe kṣīram_kṣīra_SNNe tat_tad_SNNe ca_ca_U vigrathitam_vigranth_SNPaPsNe bhavet_bhū_SPr3O"
+  },
+  {
+    "index": 15628,
+    "sanskrit": "tasmād abhinnatāyāṃ ca grāhye 'pi smaraṇaṃ bhavet / grāhakasmṛtisadbhāve tatra tvevaiṣa gṛhyate //",
+    "english": "Thus the difference between the two becomes proved by positive and negative concomitance. thus all these reasons become established as residing in the minor term.” [Ślokavārtika-śūnyavāda, 83-85].",
+    "morphology": "tasmāt_tasmāt_ abhinna_abhinna_Cp tāyām_tā_SLF ca_ca_ grāhye_grah_SLNeGd api_api_ smaraṇam_smaraṇa_SNNe bhavet_bhū_SPr3O  / grāhaka_grāhaka_Cp smṛti_smṛti_Cp sadbhāve_sadbhāva_SLM tatra_tatra_ tu_tu_ eva_eva_ eṣa_etad_SNM gṛhyate_gra"
+  },
+  {
+    "index": 15629,
+    "sanskrit": "pra vaḥ devāya agnaye barhiṣṭham arca asmai gamat devebhiḥ ā saḥ naḥ yajiṣṭhaḥ barhiḥ ā sadat",
+    "english": "To this god Agni I sing 1 for you most powerfully. May he come to us with the gods; may he, the best sacrificer, sit down on the sacrificial grass.",
+    "morphology": "pra_pra_U vaḥ_tvad_PG devāya_deva_SDM agnaye_agni_SDM barhiṣṭham_barhiṣṭha_SAM arca_arc_SPr2Im asmai_idam_SDM gamat_gam_SPs3Su devebhiḥ_deva_PIM ā_ā_U saḥ_tad_SNM naḥ_mad_PG yajiṣṭhaḥ_yajiṣṭha_SNM barhiḥ_barhis_SANe ā_ā_U s"
+  },
+  {
+    "index": 15630,
+    "sanskrit": "kiṃcānyat sakriyaṃ saṃsārakāle saṃsarati trayodaśavidhena karaṇena saṃyuktaṃ sūkṣmaṃ śarīramāśritya saṃsarati tasmāt sakriyam /",
+    "english": "Again, it is active it migrates at the time of creation. Because, it migrates along with the subtle body endowed with thirteen instruments, it is active.",
+    "morphology": "kiṃca_kiṃca_ anyat_anya_SNNe sa_sa_ kriyam_kriyā_SNNe saṃsāra_saṃsāra_Cp kāle_kāla_SLM saṃsarati_saṃsṛ_SPr3In trayodaśavidhena_trayodaśavidha_SINe karaṇena_karaṇa_SINe saṃyuktam_saṃyuj_SNPaNe sūkṣmam_sūkṣma_SANe śarīram"
+  },
+  {
+    "index": 15631,
+    "sanskrit": "yāvaducchvasitaṃ vaktre sadāśivasamudbhavam | paścācchaktiṃ samabhyeti yāvanniśvasitaṃ bhavet ||",
+    "english": "20. He stays like that as long as the breath is retained by Sadāśiva. When He exhales he merges into Śakti.",
+    "morphology": "yāvat_yāvat_ ucchvasitam_ucchvasita_SNNe vaktre_vaktra_SLNe sadāśiva_sadāśiva_Cp samudbhavam_samudbhava_SNNe  / paścāt_paścāt_ śaktim_śakti_SAF samabhyeti_samabhī_SPr3In yāvat_yāvat_ niśvasitam_niśvasita_SNNe bhavet_bhū_SPr3O"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13400,
+    "sanskrit": "sthito bhaktinato viṣṇoḥ kṛtāṃjalipuṭo mudā | chandomaya jagaddhāmanyānarūpa trivṛdvapuḥ || 30 ||",
+    "english": "“O Lord in the form of the vehicle, O embodiment of the Vedas, O abode of the universe, O Lord with a body consisting of three parts, O Lord in the form of Yajña, the pervader of the universe, obeisance to you who are to be pleased.”",
+    "morphology": "sthitaḥ_sthā_SNPaM bhakti_bhakti_Cp nataḥ_nam_SNPaM viṣṇoḥ_viṣṇu_SGM kṛta_kṛ_PaCp añjali_añjali_Cp puṭaḥ_puṭa_SNM mudā_mud_SIF  / chandas_chandas_Cp maya_maya_SVM"
+  },
+  {
+    "index": 13401,
+    "sanskrit": "etat te su kṛtam karma na atra kim cit na yujyate",
+    "english": "This is thy noblest duty. There is nothing in it that would be improper.",
+    "morphology": "etat_etad_SNNe te_tvad_SG su_su_U kṛtam_kṛ_SNPaPsNe karma_karman_SNNe na_na_U"
+  },
+  {
+    "index": 13402,
+    "sanskrit": "ayamatra samudāyārthaḥ naiva kevalaśabdaśravaṇād arthapratipattir asti, kiṃtu vākyeṣūpalabdhasyārthavataḥ śabdasya sādṛśyenāpahṛtabuddheḥ kevalaśabdaśravaṇād arthapratipattyabhimānaḥ / tathā hi yeṣveva vākyeṣu prameyaśabdamupalabdhavān śrotā tadartheṣveva sā buddhir apratiṣṭitārthā plavamānarūpā samupajāyate /",
+    "english": "As a matter of fact, there is no Cognition following from the hearing of the word (‘cognisable’) by itself; what happens in such cases is that the man has previously heard the word used in a sentence as conveying a definite meaning, so that when he subsequently hears it pronounced alone by itself, he has his mind influenced by the similarity of the word in the two cases, and he comes to presume that he has understood its meaning. That this is so is shown by the fact that under this latter presumption, the nebulous and wavering idea that the listener has is of those same things which he cognised on previous occasions, when the word was used in sentences.",
+    "morphology": "ayam_idam_SNM atra_atra_ samudāya_samudāya_Cp arthaḥ_artha_SNM na_na_ eva_eva_ kevala_kevala_Cp śabda_śabda_Cp śravaṇāt_śravaṇa_SBNe artha_artha_Cp pratipattiḥ_pratipatti_SNF asti_as_SPr3In kiṃtu_kiṃtu_ vākyeṣu_vākya_PLNe upalabdhasy"
+  },
+  {
+    "index": 13403,
+    "sanskrit": "yudhyamānam raṇe karṇam kuru vīraḥ abhyapālayat karṇaḥ api niśitaiḥ bāṇaiḥ vinihatya mahā camūm pramṛdya ca ratha śreṣṭhān yudhiṣṭhiram apīḍayat",
+    "english": "Destroying that vast division with his sharp arrows, and crushing many foremost of car-warriors Karna succeeded in afflicting Yudhishthira.",
+    "morphology": "yudhyamānam_yudh_SAPaPrM raṇe_raṇa_SLM karṇam_karṇa_SAM kuru_kuru_MCp vīraḥ_vīra_SNM abhyapālayat_abhipālay_SPs3In karṇaḥ_karṇa_SNM api_api_U niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM vinihatya_vinihan_Co mahā_mahat_Cp camūm"
+  },
+  {
+    "index": 13404,
+    "sanskrit": "yo vaḥ śivatamo rasas tasya bhājayateha naḥ / uśatīr iva mātaraḥ //",
+    "english": "Pleasant be thou to us, O Earth, etc., as in XXXV. 21 Ye, Waters, are, etc., as in XL 50",
+    "morphology": "yaḥ_yad_SNM vaḥ_tvad_PG śivatamaḥ_śivatama_SNM rasaḥ_rasa_SNM tasya_tad_SGM bhājayata_bhājay_PPr2Im iha_iha_ naḥ_mad_PA  / uśatīḥ_vaś_PNPaPrF"
+  },
+  {
+    "index": 13405,
+    "sanskrit": "ūcur māṃ sāntvayuktāni vacāṃsi vanaśobhitāḥ //",
+    "english": "The immobile mountains, adorned with forests, replied to my question in consoling accents.",
+    "morphology": "ūcuḥ_vac_PPs3In mām_mad_SA sāntva_sāntva_Cp yuktāni_yuj_PAPaNe vacāḥ_vacas_PANe vana_vana_Cp śobhitāḥ_śobhay_PNPaF"
+  },
+  {
+    "index": 13406,
+    "sanskrit": "yudhyamānam vimarde asmin kurvāṇam bhairavam mahat",
+    "english": "Accomplishing great and terrible feats in the melee, I will fight with thy foes.",
+    "morphology": "yudhyamānaḥ_yudh_SNPaPrM"
+  },
+  {
+    "index": 13407,
+    "sanskrit": "nivṛtti lakṣaṇaḥ tu anyaḥ dharmaḥ mokṣaḥ iti smṛtaḥ",
+    "english": "The Religion of Nivritti is different. It exists for emancipation (from re-birth by absorption into Brahman).",
+    "morphology": "nivṛtti_nivṛtti_FCp lakṣaṇaḥ_lakṣaṇa_SNM tu_tu_U anyaḥ_anya_SNM dharmaḥ_dharma_SNM mokṣaḥ_mokṣa_SNM iti_iti_U smṛtaḥ_smṛ_SNPaPsM"
+  }
+]

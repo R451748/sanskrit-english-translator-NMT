@@ -1,0 +1,50 @@
+[
+  {
+    "index": 9368,
+    "sanskrit": "sukho buddhāna uppādo sukhā dhammassa deśanā |",
+    "english": "The arising of the Buddhas is good, the teaching of the Dhamma is good,",
+    "morphology": "sukhaḥ_sukha_SNM buddhāna_buddha_PGM uppādaḥ_uppāda_SNM sukhā_sukha_SNF dhammassa_dhamma_SGM deśanā_deśanā_SNF"
+  },
+  {
+    "index": 9369,
+    "sanskrit": "vaiśākhoktā ime dharmāḥ svalpā'yāsakṛtā api | bahuvyayavināśāśca viṣṇoḥ prītikarā śubhāḥ || 46 ||",
+    "english": "46. These holy rites prescribed for the month of Vaiśākha can be performed with very little effort. They are auspicious and pleasing to Viṣṇu. They prevent increase in expenses.",
+    "morphology": "vaiśākha_vaiśākha_Cp uktāḥ_vac_PNPaM ime_idam_PNM dharmāḥ_dharma_PNM su_su_ alpa_alpa_Cp āyāsa_āyāsa_Cp kṛtāḥ_kṛ_PNPaM api_api_  / bahu_bahu_Cp vyaya_vyaya_Cp vināśāḥ_vināśa_PNM ca_ca_ viṣṇoḥ_viṣṇu_SGM prīti_prīti_Cp"
+  },
+  {
+    "index": 9370,
+    "sanskrit": "yaḥ vidyayā hanti yaśaḥ pareṣām",
+    "english": "That man who having acquired knowledge regardeth himself as learned, and with his learning destroyed the reputation of others, never attaineth to regions of indestructible felicity.",
+    "morphology": "yaḥ_yad_SNM vidyayā_vidyā_SIF hanti_han_SPr3In yaśaḥ_yaśas_SANe"
+  },
+  {
+    "index": 9371,
+    "sanskrit": "śaṃkara uvāca | śrṛṇuṣvāvahito bhūtvā paramārdhayutaṃ vacaḥ | yasya śravaṇamātreṇa jñātavyaṃ nāvaśiṣyate || 67 ||",
+    "english": "Śaṅkara explained: 67. Listen attentively to these truthful words (of great meaning). By hearing this nothing that should be known remains (unknown).",
+    "morphology": "śaṃkaraḥ_śaṃkara_SNM uvāca_vac_SPs3In  / śrṛṇuṣva_śru_SPr2Im avahitaḥ_avahita_SNM bhūtvā_bhū_Co parama_parama_Cp ardha_ardha_Cp yutam_yuta_SANe vacaḥ_vacas_SANe  / yasya_yad_SGNe śravaṇa_śravaṇa_Cp mātreṇa_mātra_SINe jñā"
+  },
+  {
+    "index": 9372,
+    "sanskrit": "apratītānyaśabdānāṃ tat kāle 'sāvanarthakaḥ /",
+    "english": "“For persons who have not heard other words (like it), the word, at the time, must be meaningless (inexpressive);",
+    "morphology": "apratīta_apratīta_Cp anya_anya_Cp śabdānām_śabda_PGM tat_tad_SNNe kāle_kāla_SLM asau_adas_SNM anarthakaḥ_anarthaka_SNM  /"
+  },
+  {
+    "index": 9373,
+    "sanskrit": "citta-viśuddhyai saṃvartate,",
+    "english": "opens the way to purification of mind,",
+    "morphology": "citta_citta_NeCp viśuddhyai_viśuddhi_SDF"
+  },
+  {
+    "index": 9374,
+    "sanskrit": "tasyāpi hṛdayājjātā nadī hyeṣā sanātanī | ānaṃdajalasaṃpūrṇā sarvānaṃdavarapradā || 53 ||",
+    "english": "53. This eternal river flowed out of his heart filled with the waters of bliss (and became) the bestower of all bliss as boons.",
+    "morphology": "tasya_tad_SGM api_api_ hṛdayāt_hṛdaya_SBNe jātā_jan_SNPaF nadī_nadī_SNF hi_hi_ eṣā_etad_SNF sanātanī_sanātana_SNF  / ānanda_ānanda_Cp jala_jala_Cp saṃpūrṇā_sampṛ_SNPaF sarva_sarva_Cp ānanda_ānanda_Cp vara_vara_Cp pradā_prada_SNF"
+  },
+  {
+    "index": 9375,
+    "sanskrit": "adya rādhā sutasya aham saṃgrāme madhusūdana śiraḥ chetsyāmi karṇasya miṣatām sarva dhanvinām",
+    "english": "Today, O slayer of Madhu, I will cut off in battle the head of Radha's son Karna, in the very sight of all the bowmen.",
+    "morphology": "adya_adya_U rādhā_rādhā_FCp sutasya_suta_SGM aham_mad_SN saṃgrāme_saṃgrāma_SLM madhusūdana_madhusūdana_MCp śiraḥ_śiras_SANe chetsyāmi_chid_SFu1In karṇasya_karṇa_SGM miṣatām_miṣ_PGPaPrM sarva_sarva_Cp dhanvinām_dhanvin_PGM"
+  }
+]

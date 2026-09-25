@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42888,
+    "sanskrit": "marudbhir abhibhūyanto mārutā iva durbalāḥ / tejobhir iva dīptāṃśoḥ divā dīpaprabhādayaḥ //",
+    "english": "A letter always remains to be the same.) As the dim light of a lamp is thrown into shade by the brilliant ray of the sun so the weak current of air is surpassed by the strong current of air.",
+    "morphology": "marudbhiḥ_marut_PIM abhibhūyantaḥ_abhibhū_PNPaPrM mārutāḥ_māruta_PNM iva_iva_ durbalāḥ_durbala_PNM  / tejobhiḥ_tejas_PINe iva_iva_ dīpta_dīp_PaCp aṃśoḥ_aṃśu_SGM divā_divā_ dīpa_dīpa_Cp prabhā_prabhā_Cp ādayaḥ_ādi_PNM  /"
+  },
+  {
+    "index": 42889,
+    "sanskrit": "pārṣatam tu raṇe rājan na haniṣye katham cana",
+    "english": "I will not, however, O king, be able to slay the son of Prishata.",
+    "morphology": "pārṣatam_pārṣata_SAM tu_tu_U raṇe_raṇa_SLM rājan_rājan_SVM na_na_U haniṣye_han_SFu1In katham_katham_U"
+  },
+  {
+    "index": 42890,
+    "sanskrit": "āsayantyāsravantyete haranti śleṣayantyatha /",
+    "english": "They fix and they flow, they carry away, they attach, they seize: such is the etymology of the words āsravas, etc. The anuśayas fix, “seat” beings in transmigration.",
+    "morphology": "āsayanti_āsay_PPr3In āsravanti_āsru_PPr3In ete_etad_PNM haranti_hṛ_PPr3In śleṣayanti_śleṣay_PPr3In atha_atha_"
+  },
+  {
+    "index": 42891,
+    "sanskrit": "jīvitasthitiṃ kuryān naikasya saṃbandhi annam adyān naikabhikṣānnaṃ bhuñjīta /",
+    "english": "\"He should subsist on alms\";he should nourish his bodysustain his lifeby means of food obtained by begging; and he should not eat food received from a single person.",
+    "morphology": "jīvita_jīvita_Cp sthitim_sthiti_SAF kuryāt_kṛ_SPr3O na_na_ ekasya_eka_SGM saṃbandhi_sambandhin_SANe annam_anna_SANe adyāt_ad_SPr3O na_na_ eka_eka_Cp bhikṣā_bhikṣā_Cp annam_anna_SANe bhuñjīta_bhuj_SPr3O"
+  },
+  {
+    "index": 42892,
+    "sanskrit": "vijayāya prayāsyāmi diśam dhanada rakṣitām sarve vāyu pravegāḥ ca sarva alaṃkāra bhūṣitāḥ tithau atha muhūrte ca nakṣatre ca tathā śive",
+    "english": "I desire to set out, in an auspicious moment of a holy day of the moon under a favourable constellation for the conquest of the direction that is presided over by the Lord of treasures (viz.",
+    "morphology": "vijayāya_vijaya_SDM prayāsyāmi_prayā_SFu1In diśam_diś_SAF dhanada_dhanada_MCp rakṣitām_rakṣ_SAPaPsF sarve_sarva_PNM vāyu_vāyu_MCp pravegāḥ_pravega_PNM ca_ca_U sarva_sarva_Cp alaṃkāra_alaṃkāra_MCp bhūṣitāḥ_bhūṣay_PNPaPsM titha"
+  },
+  {
+    "index": 42893,
+    "sanskrit": "dṛśyasvadanamuktasya samyagjñānavato muneḥ / nirvikalpaṃ samādhānamavirāmaṃ pravartate //",
+    "english": "The well intelligent sage who is freed from his relishing the visibles, is situated in his position of unflinching meditation, and in the enjoyment of his continuous reveries.",
+    "morphology": "dṛśya_dṛś_GdCp svadana_svadana_Cp muktasya_muc_SGPaM samyak_samyak_ jñānavataḥ_jñānavat_SGM muneḥ_muni_SGM  / nirvikalpam_nirvikalpa_SNNe samādhānam_samādhāna_SNNe avirāmam_avirāma_SNNe pravartate_pravṛt_SPr3In  /"
+  },
+  {
+    "index": 42894,
+    "sanskrit": "rāseśvaryā kṛṣṇa patnyā tulasī sevane kṛteyad babhūva tato brahmaṃs tan me brūhi tapo dhana",
+    "english": "O brāhmaṇa whose wealth is austerity, please tell me what happened after Lord Kṛṣṇa's wife Rādhā, who is the queen of the rāsa dance, served Tulasī.",
+    "morphology": "rāseśvaryā_rāseśvarī_SIF kṛṣṇa_kṛṣṇa_SVM patnyā_patnī_SIF tulasī_tulasī_SNF sevane_sevana_SLNe kṛtā_kṛ_SNPaF iyat_iyat_SNNe babhūva_bhū_SPs3In tatas_tatas_ brahman_brahman_SVM tat_tad_SANe me_mad_SG brūhi_brū_SPr2Im tapaḥ_t"
+  },
+  {
+    "index": 42895,
+    "sanskrit": "yallokottaraṃ samāpattidravyaṃ tadanāsravam /",
+    "english": "The absorption free from the defilements is transworldly.",
+    "morphology": "yat_yad_SNNe lokottaram_lokottara_SNNe samāpatti_samāpatti_Cp dravyam_dravya_SNNe tat_tad_SNNe anāsravam_anāsrava_SNNe  /"
+  }
+]

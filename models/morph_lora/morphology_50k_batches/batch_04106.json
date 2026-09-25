@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32840,
+    "sanskrit": "pra vaḥ devam cit sahasānam agnim aśvam na vājinam hiṣe namaḥ bhiḥ bhava naḥ dūtaḥ adhvarasya vidvān tmanā deveṣu vivide mita duḥ",
+    "english": "I SEND forth even your God, victorious Agni, like a strong courser, with mine adoration. Herald of sacrifice be he who knoweth he hath reached Gods, himself, with measured motion.",
+    "morphology": "pra_pra_U vaḥ_tvad_PD devam_deva_SAM cit_cit_U sahasānam_sah_SAPaPsM agnim_agni_SAM aśvam_aśva_SAM na_na_U vājinam_vājin_SAM hiṣe_hi_SPs3In namaḥ_namas_NeCp bhiḥ_bhi_SNM bhava_bhū_SPr2Im naḥ_mad_PG dūtaḥ_dūta_SNM adhvarasya_adhvara_SGM "
+  },
+  {
+    "index": 32841,
+    "sanskrit": "yat abhyadhāvat gāṅgeyam śikhaṇḍī śatru tāpanaḥ",
+    "english": "That grinder of foes Sikhandin, then rushed at the of Ganga.",
+    "morphology": "yat_yat_U abhyadhāvat_abhidhāv_SPs3In gāṅgeyam_gāṅgeya_SAM śikhaṇḍī_śikhaṇḍin_SNM śatru_śatru_MCp tāpanaḥ_tāpana_SNM"
+  },
+  {
+    "index": 32842,
+    "sanskrit": "tasmātsevā satāṃ kāryā sarvairapi sukhepsubhiḥ | puṇyatīrthāni sevyāni pūjyā viprāśca dhenavaḥ || 48 ||",
+    "english": "48. Therefore, service should be rendered to saintly persons by all those who desire happiness. Sacred places should be resorted to Brāhmaṇas and cows should be worshipped.",
+    "morphology": "tasmāt_tasmāt_ sevā_sevā_SNF satām_sat_PGM kāryā_kṛ_SNFGd sarvaiḥ_sarva_PIM api_api_ sukha_sukha_Cp īpsubhiḥ_īpsu_PIM  / puṇya_puṇya_Cp tīrthāni_tīrtha_PNNe sevyāni_sev_PNNeGd pūjyāḥ_pūjay_PNMGd viprāḥ_vipra_PNM ca_ca_ dhenav"
+  },
+  {
+    "index": 32843,
+    "sanskrit": "ayam aparo vājasaneyakasvādhyāyavidhir brāhmaṇe 'rthavādānuvādaḥ /",
+    "english": "This is another commendatory statement pertaining to the injunction of Vedic Study contained in the VājasaneyaBrāhmaṇa.",
+    "morphology": "ayam_idam_SNM aparaḥ_apara_SNM vājasaneyaka_vājasaneyaka_Cp svādhyāya_svādhyāya_Cp vidhiḥ_vidhi_SNM brāhmaṇe_brāhmaṇa_SLNe arthavāda_arthavāda_Cp anuvādaḥ_anuvāda_SNM  /"
+  },
+  {
+    "index": 32844,
+    "sanskrit": "tvam soma tanūkr̥t bhyaḥ dveṣaḥ bhyaḥ anya kr̥tebhyaḥ uru yantā asi varūtham",
+    "english": "Thou, Soma, givest wide defence against the hate of alien men, Hatreds that waste and weaken us.",
+    "morphology": "tvam_tvad_SN soma_soma_SVM tanūkrāt_tanūkrāt_SVM bhyaḥ_bhyas_U dveṣaḥ_dveṣas_NeCp bhyaḥ_bhyas_U anya_anya_Cp krātebhyaḥ_kṛ_PBPaPsNe uru_uru_Cp yantā_yantṛ_SNM asi_as_SPr2In varūtham_varūtha_SNNe"
+  },
+  {
+    "index": 32845,
+    "sanskrit": "śaṃtanuḥ ca mahīm lebhe vāhlīkaḥ ca mahā rathaḥ",
+    "english": "And the kingdom was obtained by Santanu and the mighty car-warrior Valhika.",
+    "morphology": "śaṃtanuḥ_śaṃtanu_SNM ca_ca_U mahīm_mahī_SAF lebhe_labh_SPs3In vāhlīkaḥ_vāhlīka_SNM"
+  },
+  {
+    "index": 32846,
+    "sanskrit": "rājovāca | tvatprasādādakuśalaṃ nāsti rājye kvacinmama | jātakautūhalo'smyasmi mama bhāryā'tra kā mune || 164 ||",
+    "english": "The King said: 164. Through your favour there is absolutely no unhappiness in my kingdom. O sage, I have a curiosity: Who is my wife here?",
+    "morphology": "rājā_rājan_SNM uvāca_vac_SPs3In  / tvad_tvad_Cp prasādāt_prasāda_SBM akuśalam_akuśala_SNNe na_na_ asti_as_SPr3In rājye_rājya_SLNe kvacid_kvacid_ mama_mad_SG  / jāta_jan_PaCp kautūhalaḥ_kautūhala_SNM asmi_as_SPr1In asmi_as_SPr1In mama_mad_SG"
+  },
+  {
+    "index": 32847,
+    "sanskrit": "cārasaṃcāriṇaḥ saṃsthā gūḍhāś caagūḍhasaṃjñitāḥ //",
+    "english": "It is the institutes of espionage, secret or avowed, that set spies in motion",
+    "morphology": "cāra_cāra_Cp saṃcāriṇaḥ_saṃcārin_PNM saṃsthāḥ_saṃstha_PNM gūḍhāḥ_guh_PNPaM ca_ca_ agūḍha_agūḍha_Cp saṃjñitāḥ_saṃjñita_PNM  /"
+  }
+]

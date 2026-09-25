@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11272,
+    "sanskrit": "gajāśvoṣṭragoghātī tv ekakarapādaḥ kāryaḥ //",
+    "english": "For killing an elephant, or a horse, or a camel, or a cow, (the criminal) shall have one hand, or one foot, lopped off",
+    "morphology": "gaja_gaja_Cp aśva_aśva_Cp uṣṭra_uṣṭra_Cp go_go_Cp ghātī_ghātin_SNM tu_tu_ eka_eka_Cp kara_kara_Cp pādaḥ_pāda_SNM"
+  },
+  {
+    "index": 11273,
+    "sanskrit": "druhyañcānūñca pūruñca śarmiṣṭhā vārṣaparvaṇī /",
+    "english": "Śarmiṣṭhā, the daughter of Vṛṣaparva gave birth to Druhya, Anu and Pūru.",
+    "morphology": "druhyaḥ_druhyas_SNM ca_ca_ anūn_anu_SNM ca_ca_ pūruḥ_pūru_SNM ca_ca_ śarmiṣṭhā_śarmiṣṭhā_SNF vārṣaparvaṇī_vārṣaparvaṇī_SNF  /"
+  },
+  {
+    "index": 11274,
+    "sanskrit": "atha vāsanākṣayamanonāśau krameṇa nirūpyete /",
+    "english": "And now the effacement of latent impressions – desire, and the dissolution of the mind are being described respectively.",
+    "morphology": "atha_atha_ vāsanā_vāsanā_Cp kṣaya_kṣaya_Cp manaḥ_manas_Cp nāśau_nāśa_DuNM krameṇa_krameṇa_"
+  },
+  {
+    "index": 11275,
+    "sanskrit": "tatkrodhād etya nṛpatiḥ pramāthas tam ayodhayat / so 'py ahanyata tenātha cakravālena saṃyuge //",
+    "english": "Angry at that, King Pramātha attacked him, and he too was slain by that Cakravāla in fight.",
+    "morphology": "tad_tad_Cp krodhāt_krodha_SBM etya_e_Co nṛpatiḥ_nṛpati_SNM pramāthaḥ_pramātha_SNM tam_tad_SAM ayodhayat_yodhay_S3ImIn  / saḥ_tad_SNM api_api_ ahanyata_han_S3ImInPv tena_tad_SIM atha_atha_ cakravāleṇa_cakravāla_SIM saṃyuge_saṃyuga_SLNe "
+  },
+  {
+    "index": 11276,
+    "sanskrit": "sa idānīm atikrānta iti kathaṃ tatkṛta eṣa pratyayaḥ syāt ucyate tadānīm aśrūyamāṇasya śabdasya smṛtyārūḍhasya tatpratyayahetutvāt //",
+    "english": "The word has ceased to exist. How is it that the judgment in question is due to the instrumentality of the past word? Do not think that we entertain such an absurd hypothesis. Though the word is not heard at the time of the formation of the judgment yet it being recalled in our memory, generates it.",
+    "morphology": "saḥ_tad_SNM idānīm_idānīm_ atikrāntaḥ_atikram_SNPaM iti_iti_ katham_katham_ tad_tad_Cp kṛtaḥ_kṛ_SNPaM eṣa_etad_SNM pratyayaḥ_pratyaya_SNM syāt_as_SPr3O ucyate_vac_SPr3InPv tadānīm_tadānīm_ a_a_ śrūyamāṇasya_śru_SGPaPrMPv śabd"
+  },
+  {
+    "index": 11277,
+    "sanskrit": "kāntanāvakaṃ mayūragrīvaābham //",
+    "english": "Kántanávaka is of the colour of the neck of the peacock;",
+    "morphology": "kānta_kānta_Cp nāvakam_nāvaka_SNNe mayūragrīva_mayūragrīva_Cp ābham_ābha_SNNe  /"
+  },
+  {
+    "index": 11278,
+    "sanskrit": "sakhāyaḥ kratum icchata kathā rādhāma śarasya upa stutim bhojaḥ sūriḥ yaḥ ahrayaḥ",
+    "english": "O my companions, wish for power. How may we perfect Saras praise, The liberal princely patron, never to be harmed?",
+    "morphology": "sakhāyaḥ_sakhi_PVM kratum_kratu_SAM icchata_iṣ_PPr2Im kathā_kathā_U rādhāma_rādh_PPs1Su śarasya_śara_SGM upa_upa_U stutim_stuti_SAF bhojaḥ_bhoja_SNM sūriḥ_sūri_SNM yaḥ_yad_SNM ahrayaḥ_ahraya_SNM"
+  },
+  {
+    "index": 11279,
+    "sanskrit": "śauṣire hṛta rakte tu rodhra mustā rasāñjanaiḥ",
+    "english": "In a case of Shaushira, the affected parts, after being properly bled, should be plastered (Lepa) with Lodhra, Musta and Rasanjana, pounded together and mixed with honey.",
+    "morphology": "śauṣire_śauṣira_SLNe hṛta_hṛ_PaPsCp rakte_rakta_SLNe tu_tu_U rodhra_rodhra_MCp mustā_mustā_FCp rasāñjanaiḥ_rasāñjana_PINe"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27392,
+    "sanskrit": "kṣatriyasya kṣititrāṇam //",
+    "english": "For a Kshatriya, to protect the world (and receive due reward, in form of taxes);",
+    "morphology": "kṣatriyasya_kṣatriya_SGM kṣiti_kṣiti_Cp trāṇam_trāṇa_SNNe"
+  },
+  {
+    "index": 27393,
+    "sanskrit": "navamyāmathavāṣṭamyāṃ caṃḍīyātrā śubhā matā | aṃtargṛhasya vai yātrā kartavyā prativāsaram || 76 || prātaḥsnānaṃ vidhāyādau natvā paṃcavināyakān | namaskṛtvātha viśveśaṃ sthitvā nirvāṇamaṃḍape || 77 ||",
+    "english": "76. Caṇḍī Yātrā is considered auspicious when performed on the eighth or ninth lunar day. Everyday the pilgrimage of the inner apartment (Sanctum) should be performed,77. At the outset, the early morning bath is taken. Then the five Vināyakas are bowed to. A devotee then makes obeisance to Viśveśa standing in the Nirvāṇamaṇḍapa.",
+    "morphology": "navamyām_navamī_SLF athavā_athavā_ aṣṭamyām_aṣṭamī_SLF caṃḍīyātrā_caṇḍīyātrā_SNF śubhā_śubha_SNF matā_man_SNPaF  / aṃtargṛhasya_antargṛha_SGNe vai_vai_ yātrā_yātrā_SNF kartavyā_kṛ_SNFGd prativāsaram_prativāsar"
+  },
+  {
+    "index": 27394,
+    "sanskrit": "atyanta garhitau etau sadā sthūla kṛśau narau |",
+    "english": "Excessively corpulent and excessively lean persons are alike condemnable.",
+    "morphology": "atyaḥ_atyanta_Cp"
+  },
+  {
+    "index": 27395,
+    "sanskrit": "tvam cit naḥ śamyai agne asyāḥ r̥tasya bodhi r̥ta cit su ādhīḥ kadā te ukthā sadha mādyāni kadā bhavanti sakhyā gr̥he te",
+    "english": "Thou who art well-intentioned, give heed to this our toiling 1, to this Rita 2, O observer of Rita! When will our hymns share in thy rejoicings? When will our friendship dwell in thy house?",
+    "morphology": "tvam_tvad_SN cit_cit_U naḥ_mad_PD śamyai_śamī_SDF agne_agni_SVM asyāḥ_idam_SGF r̥tasya_r̥ta_SGNe bodhi_bhū_SPs2Im r̥ta_r̥ta_NeCp cit_cit_SNM su_su_U ādhīḥ_ādhī_SNM kadā_kadā_U te_tvad_SG ukthā_uktha_PNNe sadha_sadha_SVM mādyāni_mād"
+  },
+  {
+    "index": 27396,
+    "sanskrit": "jayadratham samīpa stham avekṣantau jighāṃsayā rurum nipāne lipsantau vyāghra vat tau atiṣṭhatām yathā hi mukha varṇaḥ ayam anayoḥ iti menire",
+    "english": "Casting their eyes, from desire of slaughter, on Jayadratha who was not far off from them, the two heroes looked like two tigers waiting from desire of falling upon a Ruru deer.",
+    "morphology": "jayadratham_jayadratha_SAM samīpa_samīpa_NeCp stham_stha_SAM avekṣantau_avekṣ_DuNPaPrM jighāṃsayā_jighāṃsā_SIF rurum_ruru_SAM nipāne_nipāna_SLNe lipsantau_lips_DuNPaPrM vyāghra_vyāghra_MCp vat_vat_U tau_tad_DuNM atiṣṭhatām_sthā_DuPs"
+  },
+  {
+    "index": 27397,
+    "sanskrit": "ahiṃsā brahmacaryaṃ ca tvayi nityaṃ ca taddvayam | svadharmopaśamau caiva vairāgyaṃ cātmavedanam || 2 ||",
+    "english": "2. In you there is always (observance of) both non-violence and celibacy, abidance by personal (religious) duties, quiescence, disaffection to worldly (objects of) enjoyment, and perception and knowledge of the soul.",
+    "morphology": "ahiṃsā_ahiṃsā_SNF brahmacaryam_brahmacarya_SNNe ca_ca_ tvayi_tvad_SL nityam_nityam_ ca_ca_ tat_tad_SNNe dvayam_dvaya_SNNe "
+  },
+  {
+    "index": 27398,
+    "sanskrit": "tacca jñānādeva prāpyate, sadehatvasyājñānakalpitatvena jñānaikanivartyatvāt /",
+    "english": "And that is attained only through knowledge, inasmuch as the notion of the Self having a body is due to ignorance which knowledge alone can remove.",
+    "morphology": "tat_tad_SNNe ca_ca_ jñānāt_jñāna_SBNe eva_eva_ prāpyate_prāp_SPr3InPv sa_sa_ deha_deha_Cp tvasya_tva_SGNe ajñāna_ajñāna_Cp kalpita_kalpay_PaCp tvena_tva_SINe jñāna_jñāna_Cp eka_eka_Cp nivartya_nivṛt_GdCp tvāt_tva_SBNe"
+  },
+  {
+    "index": 27399,
+    "sanskrit": "sarvatra śābaleyādau samānatvāvasāyataḥ //",
+    "english": "inasmuch it is apprehended as common to all cows the variegated and the rest.",
+    "morphology": "sarvatra_sarvatra_ śābaleya_śābaleya_Cp ādau_ādi_SLM samāna_samāna_Cp tva_tva_Cp avasāyataḥ_avasāya_SBNe"
+  }
+]

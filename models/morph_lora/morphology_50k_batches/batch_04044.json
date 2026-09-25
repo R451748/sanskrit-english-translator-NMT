@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32344,
+    "sanskrit": "kathaṃ punaḥ prākaraṇikena viśeṣavidhinā sahātulyabalasya vikalpo 'bhidhīyate /",
+    "english": "Question How can that which is laid down by an Injunction, not occurring in the Context of the Primary sacrifice, and which is weaker in authority, be taken as an optional alternative to that which is parti cularly laid down in the same Context with it.",
+    "morphology": "katham_katham_ punar_punar_ prākaraṇikena_prākaraṇika_SIM viśeṣa_viśeṣa_Cp vidhinā_vidhi_SIM saha_saha_ atulya_atulya_Cp balasya_bala_SGM vikalpaḥ_vikalpa_SNM abhidhīyate_abhidhā_SPr3InPv  /"
+  },
+  {
+    "index": 32345,
+    "sanskrit": "guṇānāmeva vaiṣamyātprāpnuvanti narā ime | prakṛtisthā ime jīvā baddhā etairguṇaistribhiḥ || 6 ||",
+    "english": "In some cases they obtain happiness, in some instances they experience miseries and in some cases they get both (happiness and miseries). These they attain on account of difference in their (share of) Guṇas. Being bound by the three Guṇas, these Jīvas abide in Prakṛti.",
+    "morphology": "guṇānām_guṇa_PGM eva_eva_ vaiṣamyāt_vaiṣamya_SBNe prāpnuvanti_prāp_PPr3In narāḥ_nara_PNM ime_idam_PNM  / prakṛti_prakṛti_Cp sthāḥ_stha_PNM ime_idam_PNM jīvāḥ_jīva_PNM baddhāḥ_bandh_PNPaM etaiḥ_etad_PIM guṇaiḥ_guṇa_PIM"
+  },
+  {
+    "index": 32346,
+    "sanskrit": "vyāsa uvāca | asti me niyamaḥ kaścitsa siddhiṃ cedvrajecchubhe | ekabhikṣāṃ tadāhaṃ tu kariṣye nānyathā punaḥ || 53 ||",
+    "english": "Vyāsa said: 153. O splendid lady, I abide by a certain rule. If that is duly observed, I shall receive the alms once. None on another occasion.",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / asti_as_SPr3In me_mad_SG niyamaḥ_niyama_SNM kaścid_kaścit_SNM sa_tad_SNM siddhim_siddhi_SAF ced_ced_ vrajet_vraj_SPr3O śubhe_śubha_SVF  / eka_eka_Cp bhikṣām_bhikṣā_SAF tadā_tadā_ aham_mad_SN tu_tu_ ka"
+  },
+  {
+    "index": 32347,
+    "sanskrit": "catuḥṣaṣṭikalā dvedhā karmādyair gītikādibhiḥ /",
+    "english": "The sixtyfour fine arts are divided into two according as they begin with action or music.",
+    "morphology": "catuḥṣaṣṭi_catuḥṣaṣṭi_Cp kalā_kalā_SNF dvedhā_dvedhā_ karma_karman_Cp ādyaiḥ_ādya_PINe gītikā_gītikā_Cp ādibhiḥ_ādi_PINe  /"
+  },
+  {
+    "index": 32348,
+    "sanskrit": "tatrasthaḥ cintayām āsa daitya dānava vigraham",
+    "english": "While residing there, Sukra meditated upon the war of the Daityas and the Danavas (with the gods).",
+    "morphology": "tatrasthaḥ_tatrastha_SNM"
+  },
+  {
+    "index": 32349,
+    "sanskrit": "go sāḥ indo iti nr̥ sāḥ asi aśva sāḥ vāja sāḥ uta ātmā yajñasya pūrvyaḥ",
+    "english": "Winner of kine, Indu, art thou, winner of heroes, steeds, and strength Primeval Soul of sacrifice.",
+    "morphology": "go_go_MCp sāḥ_sā_SNM indo_indu_SVM iti_iti_U nr̥_nr_U sāḥ_sā_SNM asi_as_SPr2In aśva_aśva_MCp sāḥ_sā_SNM vāja_vāja_MCp sāḥ_sā_SNM uta_uta_U ātmā_ātman_SNM yajñasya_yajña_SGM pūrvyaḥ_pūrvya_SNM"
+  },
+  {
+    "index": 32350,
+    "sanskrit": "api svajanmanakṣatre saṃpatsvāpatsu bhītiṣu | praveśanirgamanayoścārcanīyo'ruṇeśvaraḥ || 44 ||",
+    "english": "44. On one’s own birthday, during joyous occasions as well as in adversities, when some danger is feared, at the time of exit and entries etc. Aruṇeśvara should be worshipped.",
+    "morphology": "api_api_ sva_sva_Cp janma_janman_Cp nakṣatre_nakṣatra_SLNe saṃpatsu_sampad_PLF āpatsu_āpad_PLF bhītiṣu_bhīti_PLF  / praveśa_praveśa_Cp nirgamanayoḥ_nirgamana_DuLNe ca_ca_ arcanīyaḥ_arc_SNMGd aruṇeśvaraḥ_aruṇeśvara_SNM "
+  },
+  {
+    "index": 32351,
+    "sanskrit": "yuddhaṃ sarvair narendraiś ca yādavānāṃ mahātmanām /",
+    "english": "Thereupon bowing unto the feet of Vasudeva they showed proper honor to king Ugrasena and other leading Yadavas who were assembled there.",
+    "morphology": "yuddham_yuddha_SNNe sarvaiḥ_sarva_PIM narendraiḥ_narendra_PIM ca_ca_ yādavānām_yādava_PGM mahātmanām_mahātman_PGM  /"
+  }
+]

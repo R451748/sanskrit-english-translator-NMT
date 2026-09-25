@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30432,
+    "sanskrit": "tad ayuktaṃ /",
+    "english": "This explanation, however, is not right.",
+    "morphology": "tat_tad_SNNe ayuktam_ayukta_SNNe"
+  },
+  {
+    "index": 30433,
+    "sanskrit": "yat atra anantaram kāryam tat bhavān vaktum arhati iti uktaḥ saṃjayena idam punar āha sa pārthivaḥ na eṣa mṛtyuḥ aniṣṭaḥ naḥ niḥsṛtānām gṛhāt svayam",
+    "english": "That which should next be done should be indicated by thee.' Thus addressed by Sanjaya the king once more said,--'This death cannot be calamitous to us, for we have left our home of our own accord.",
+    "morphology": "yat_yad_SNNe atra_atra_U anantaram_anantaram_U kāryam_kṛ_SNNeGd tat_tad_SANe bhavān_bhavat_SNM vaktum_vac_In arhati_arh_SPr3In iti_iti_U uktaḥ_vac_SNPaPsM saṃjayena_saṃjaya_SIM idam_idam_SANe punar_punar_U āha_ah_SPs3In sa_tad_SNM pārthivaḥ_p"
+  },
+  {
+    "index": 30434,
+    "sanskrit": "bhojanānaṃtaraṃ viṣṇoḥ pragacchanti svamālayam | prahlādapramukhā bhaktāḥ praviśaṃti hareḥ padam || 41 ||",
+    "english": "41. After partaking of food, they go to the abode of Viṣṇu. The devotees, the chief among whom is Prahlāda, enter the region of Hari.",
+    "morphology": "bhojana_bhojana_Cp anantaram_anantaram_ viṣṇoḥ_viṣṇu_SGM pragacchanti_pragam_PPr3In svam_sva_SAM ālayam_ālaya_SAM  / prahlāda_prahlāda_Cp pramukhāḥ_pramukha_PNM bhaktāḥ_bhakta_PNM praviśanti_praviś_PPr3In hareḥ_hari_SGM padam_pada_S"
+  },
+  {
+    "index": 30435,
+    "sanskrit": "sukhopapattayastriso navatridhyānabhūmayaḥ //",
+    "english": "There are three \"arisings of pleasure\": the nine spheres of three Dhyānas.",
+    "morphology": "sukha_sukha_Cp upapattayaḥ_upapatti_PNF trisaḥ_tris_PNF nava_navan_Cp tri_tri_Cp dhyāna_dhyāna_Cp bhūmayaḥ_bhūmi_PNF  /"
+  },
+  {
+    "index": 30436,
+    "sanskrit": "amātyarāṣṭradurgārthadaṇḍākhyāḥ pañca cāparāḥ / pratyekaṃ kathitā hy etāḥ saṃkṣepeṇa dvisaptatiḥ //",
+    "english": "There are five others, the minister, the kingdom, the fortress, the treasury and the armydescribed in connection with each of the above twelve; these then, briefly, being seventytwo.",
+    "morphology": "amātya_amātya_Cp rāṣṭra_rāṣṭra_Cp durga_durga_Cp artha_artha_Cp daṇḍa_daṇḍa_Cp ākhyāḥ_ākhyā_PNF pañca_pañcan_PNF ca_ca_ aparāḥ_apara_PNF  / pratyekam_pratyekam_ kathitāḥ_kathay_PNPaF hi_hi_ etāḥ_etad_PNF saṃkṣepeṇ"
+  },
+  {
+    "index": 30437,
+    "sanskrit": "ājñāpayati ātma yoniḥ mahātmā",
+    "english": "In this way, the high-souled Krishna, who has Himself for His origin divides (or displays) Himself in fourfold form.",
+    "morphology": "āṇī_āṇi_SIF"
+  },
+  {
+    "index": 30438,
+    "sanskrit": "tasyānyāpohalakṣaṇasya śabdārthasyānyāpoḍhāt padārthād apṛthaktvād avyatirekād iti yāvat /",
+    "english": "That is, there the Denotation of words in the shape of the ‘Exclusion of other things’ is not different from, not anything other than that which is excluded from others.",
+    "morphology": "tasya_tad_SGM anya_anya_Cp apoha_apoha_Cp lakṣaṇasya_lakṣaṇa_SGM śabda_śabda_Cp arthasya_artha_SGM anya_anya_Cp apoḍhāt_apavah_SBPaM padārthāt_padārtha_SBM apṛthaktvāt_apṛthaktva_SBNe avyatirekāt_avyatireka_SBM iti_iti_ yāvat_yāvat_"
+  },
+  {
+    "index": 30439,
+    "sanskrit": "tat eva viśadam rucyam kapha ghnam karśanam laghu ||",
+    "english": "It tends to enrage the bodily Vayu, is clear, and imparts a relish to one’s food, and reduces fat and Kapha.",
+    "morphology": "tat_U eva_U viśada_viśada_SNNe rucya_rucya_SNNe kapha_kapha_MCp ghna_ghna_SNNe karśanam_karśana_SNNe laghu_laghu_SNNe"
+  }
+]

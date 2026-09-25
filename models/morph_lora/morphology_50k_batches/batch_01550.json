@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12392,
+    "sanskrit": "abhicāre tathā śailaṃ aśanaṃ śaktavaḥ payaḥ /",
+    "english": "Could not be traced. MS. ..a ., Cf. ayam agne jaritā ṚV.",
+    "morphology": "abhicāre_abhicāra_SLM tathā_tathā_ śailam_śaila_SNNe aśanam_aśana_SNNe śaktavaḥ_śaktu_PNM payaḥ_payas_SNNe  /"
+  },
+  {
+    "index": 12393,
+    "sanskrit": "yena indraḥ haviṣā kr̥tvī abhavat dyumnī ut tamaḥ idam tat akri devāḥ asapatnaḥ kila abhuvam",
+    "english": "Oblation, that which Indra. gave and thus grew glorious and most high,– This have I offered, Gods! and hence now, verily, am rivalless.",
+    "morphology": "yena_yad_SINe indraḥ_indra_SNM haviṣā_havis_SINe kr̥tvī_kṛ_Co abhavat_bhū_SPs3In dyumnī_dyumnin_SNM ud_ud_U tamaḥ_tama_SNM idam_idam_SANe tat_tad_SANe akri_kṛ_SPs1In devāḥ_deva_PVM asapatnaḥ_asapatna_SNM kila_kila_U abhuvam_bhū_SPs1In"
+  },
+  {
+    "index": 12394,
+    "sanskrit": "na vidyate abhyupāyaḥ ca kaḥ cit me prāṇadhāraṇe",
+    "english": "I do not see any means again for preserving my life.",
+    "morphology": "na_na_U vidyate_vid_SPr3InPv abhyupāyaḥ_abhyupāya_SNM ca_ca_U kaḥ_ka_SNM cit_cit_U me_mad_SG prāṇadhāraṇe_prāṇadhāraṇa_SLNe"
+  },
+  {
+    "index": 12395,
+    "sanskrit": "te bāṇam utsṛjya raṇe jagmur bhayasamākulāḥ /",
+    "english": "Leaving behind Vāna in the battle-field those vanquished Danavas fled away in fear to the welkin.",
+    "morphology": "te_tad_PNM bāṇam_bāṇa_SAM utsṛjya_utsṛj_Co raṇe_raṇa_SLM jagmuḥ_gam_PPs3In bhaya_bhaya_Cp samākulāḥ_samākula_PNM  /"
+  },
+  {
+    "index": 12396,
+    "sanskrit": "aśvinau vai devānām bhiṣajau tābhyām evāsmai bheṣajaṃ karoti pañcopa dadhāti pāṅkto yajñas |",
+    "english": "the Açvins are the physicians of the gods; verily by them be produces medicine for it. Five he puts down; the sacrifice is fivefold;",
+    "morphology": "aśvinau_aśvin_DuNM vai_vai_ devānām_deva_PGM bhiṣajau_bhiṣaj_DuNM tābhyām_tad_DuIM eva_eva_ asmai_idam_SDM bheṣajam_bheṣaja_SANe karoti_kṛ_SPr3In pañca_pañcan_PANe upa_upa_ dadhāti_dhā_SPr3In pāṅktaḥ_pāṅkta_SNM yajñaḥ_yajña_"
+  },
+  {
+    "index": 12397,
+    "sanskrit": "yadi sati api liṅge asmin jñānam eva atra kāraṇam nirmokṣāya iha duḥkhasya liṅga mātram nirarthakam",
+    "english": "When, notwithstanding the adoption of these emblems of a particular mode of life, knowledge alone becomes the cause of one's Emancipation from sorrow, it would appear that the adoption of mere emblems is perfectly useless.",
+    "morphology": "yadi_yadi_U sati_as_SLPaPrNe api_api_U liṅge_liṅga_SLNe asmin_idam_SLNe jñānam_jñāna_SNNe eva_eva_U atra_atra_U kāraṇam_kāraṇa_SNNe nirmokṣāya_nirmokṣa_SDM iha_iha_U duḥkhasya_duḥkha_SGNe liṅga_liṅga_NeCp mātram_mātra_SNNe nira"
+  },
+  {
+    "index": 12398,
+    "sanskrit": "tena vajreṇa vai vṛtram vadhiṣyati śatakratuḥ",
+    "english": "With that weapon will he of a hundred sacrifices slay Vritia.",
+    "morphology": "tena_tad_SIM vajreṇa_vajra_SIM vai_vai_U vṛtram_vṛtra_SAM vadhiṣyati_vadh_SFu3In śatakratuḥ_śatakratu_SNM"
+  },
+  {
+    "index": 12399,
+    "sanskrit": "upakramamātram etat // siddhāntas tv ayam ucyate /",
+    "english": "What has been said hitherto is only by way of a preface; the settled conclusion is going to be stated now in the following verse.",
+    "morphology": "upakrama_upakrama_Cp mātram_mātra_SNNe etat_etad_SNNe  // siddhāntaḥ_siddhānta_SNM tu_tu_ ayam_idam_SNM ucyate_vac_SPr3InPv  /"
+  }
+]

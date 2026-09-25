@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22480,
+    "sanskrit": "karṣaṇāyudhakṛṣṭāsmi roṣo 'yaṃ vinivartyatām // eṣā mūrdhnābhigacchāmi caraṇau te halāyudha /",
+    "english": "have been dragged here with thy weapon. Do thou assuage thy ire. thou of large arms, thou, the wielder of plough-share, fall at thy feet.",
+    "morphology": "karṣaṇa_karṣaṇa_Cp āyudha_āyudha_Cp kṛṣṭā_kṛṣ_SNPaF asmi_as_SPr1In roṣaḥ_roṣa_SNM ayam_idam_SNM vinivartyatām_vinivartay_SPr3ImPv  // eṣā_etad_SNF mūrdhnā_mūrdhan_SIM abhigacchāmi_abhigam_SPr1In caraṇau_caraṇa_DuAM te"
+  },
+  {
+    "index": 22481,
+    "sanskrit": "abrāhmaṇe gurau vāso 'dhyayanāya pūrveṇokto naiṣṭhikasyāpi prāpto viśeṣeṇa niṣidhyate /",
+    "english": "The foregoing verse might create the impression that the Lifelong Student may live in residence with his nonBrāhmaṇa teacher, for the purposes of study; and it is this that is particularly interdicted here.",
+    "morphology": "a_a_ brāhmaṇe_brāhmaṇa_SLM gurau_guru_SLM vāsaḥ_vāsa_SNM adhyayanāya_adhyayana_SDNe pūrveṇa_pūrva_SIM uktaḥ_vac_SNPaM naiṣṭhikasya_naiṣṭhika_SGM api_api_ prāptaḥ_prāp_SNPaM viśeṣeṇa_viśeṣeṇa_ niṣidhyate_niṣidh_SPr"
+  },
+  {
+    "index": 22482,
+    "sanskrit": "pratiṣedhe pibed yā tu madyam abhyudayeṣv api / prekṣāsamājaṃ gacched vā sā daṇḍyā kṛṣṇalāni ṣaṭ //",
+    "english": "If the wife, though forbidden, drinks wine even at festivals or visits, shows and assemblies, she shall be fined six \"Kṛṣṇalas\".",
+    "morphology": "pratiṣedhe_pratiṣedha_SLM pibet_pā_SPr3O yā_yad_SNF tu_tu_ madyam_madya_SANe abhyudayeṣu_abhyudaya_PLM api_api_  / prekṣā_prekṣā_Cp samājam_samāja_SAM gacchet_gam_SPr3O vā_vā_ sā_tad_SNF daṇḍyā_daṇḍay_SNFGd kṛṣṇalāni_kṛ"
+  },
+  {
+    "index": 22483,
+    "sanskrit": "idānīntaramastitvaṃ na hi pūrvadhiyā gatam /",
+    "english": "“As a matter of fact, the existence of the thing at the present time (of recognition) has not been included under the previous cognition;",
+    "morphology": "idānīntaram_idānīntara_SNNe astitvam_astitva_SNNe na_na_ hi_hi_ pūrva_pūrva_Cp dhiyā_dhī_SIF gatam_gam_SNPaNe  /"
+  },
+  {
+    "index": 22484,
+    "sanskrit": "caturvedādhyāyī bharadvāja iti ca prasiddham eva /",
+    "english": "We say that Bharadvaja has studied the four Vedas.",
+    "morphology": "catur_catur_Cp veda_veda_Cp adhyāyī_adhyāyin_SNM bharadvājaḥ_bharadvāja_SNM iti_iti_ ca_ca_ prasiddham_prasidh_SNPaNe eva_eva_  /"
+  },
+  {
+    "index": 22485,
+    "sanskrit": "tatra kaḥ cit samutsāham kṛtvā śūdraḥ dayā anvitaḥ",
+    "english": "Once upon a time a Sudra endued with compassion for all creatures, ventured to come into that asylum.",
+    "morphology": "tatra_tatra_U kaḥ_ka_SNM cit_cit_SNM samutsāham_samutsāha_SAM kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 22486,
+    "sanskrit": "ni duroṇe amr̥taḥ martyānām rājā sasāda vidathāni sādhan ghr̥ta pratīkaḥ urviyā vi adyaut agniḥ viśvāni kāvyāni vidvān",
+    "english": "Within the house hath sate the King immortal of mortals, filling full their sacred synods. Bedewed with holy oil he shineth widely, Agni, the knower of all secret wisdom.",
+    "morphology": "ni_ni_U duroṇe_duroṇa_SLNe amr̥taḥ_amr̥ta_SNM martyānām_martya_PGM rājā_rājan_SNM sasāda_sad_SPs3In vidathāni_vidatha_PANe sādhan_sādh_SNPaPrM ghrāta_ghrā_PaPsCp pratīkaḥ_pratīka_SNM urviyā_urviyā_U vi_vi_U adyaut_dyut_SPs3In agni"
+  },
+  {
+    "index": 22487,
+    "sanskrit": "tatas tadvismṛtam iva kṣipraṃ kṛtvā svayuktitaḥ / kāryāpadeśād vyasṛjan nijaṃ mittrāvasuṃ gṛham //",
+    "english": "Thereupon he quickly dismissed Mitrāvasu to his own house on the pretext of some business, artfully pretending that he himself had forgotten it.",
+    "morphology": "tatas_tatas_ tat_tad_SANe vismṛtam_vismṛ_SAPaNe iva_iva_ kṣipram_kṣipram_ kṛtvā_kṛ_Co sva_sva_Cp yuktitaḥ_yukti_SBF  / kārya_kārya_Cp apadeśāt_apadeśa_SBM vyasṛjat_visṛj_S3ImIn nijam_nija_SANe mittrāvasum_mitrāvasu_SAM gṛham_g"
+  }
+]

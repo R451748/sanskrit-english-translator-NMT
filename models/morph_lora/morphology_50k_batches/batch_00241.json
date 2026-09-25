@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1920,
+    "sanskrit": "nandīśvara uvāca | śṛṇu tvaṃ brahmaputrādyāvatāraṃ parameśituḥ | avadhūteśvarāhvaṃ vai śakragarvāpahārakam ||",
+    "english": "[Sanskrit text for this chapter is available] 1. O son of Brahmā, listen to the first incarnation of the great lord, named Avadhūteśvara, who dispelled the arrogance of Indra.",
+    "morphology": "nandīśvaraḥ_nandīśvara_SNM uvāca_vac_SPs3In  / śṛṇu_śru_SPr2Im tvam_tvad_SN brahma_brahman_Cp putra_putra_Cp ādya_ādya_Cp avatāram_avatāra_SAM parameśituḥ_parameśitṛ_SGM  / avadhūteśvara_avadhūteśvara_Cp āhvam_āhvā_SAM vai_vai"
+  },
+  {
+    "index": 1921,
+    "sanskrit": "ityevaṃ sā samutpannā brahmaṇā saṃstutā satī | ekānaṃśā mahādevī dhyātavyā sāpi bhaktitaḥ || 32 ||",
+    "english": "It was thus that she was born and eulogized by Brahmā. The great Goddess Ekānaṃśā should be meditated upon with devotion.[Sanskrit text for this chapter is available] Note: The story [of Harasiddhi] illustrates the importance of the shrine in Mahākālavana.",
+    "morphology": "iti_iti_ evam_evam_ sā_tad_SNF samutpannā_samutpad_SNPaF brahmaṇā_brahman_SIM saṃstutā_saṃstu_SNPaF satī_satī_SNF  / ekānaṃśā_ekānaṃśā_SNF mahādevī_mahādevī_SNF dhyātavyā_dhyā_SNFGd sā_tad_SNF api_api_ bhaktitaḥ_bhakti_SBF"
+  },
+  {
+    "index": 1922,
+    "sanskrit": "ātitheyāḥ sadā saumyāḥ dvi kālam mad parāyaṇāḥ",
+    "english": "My condition is intolerable.",
+    "morphology": "ātitheyāḥ_ātitheya_PNM"
+  },
+  {
+    "index": 1923,
+    "sanskrit": "vilvājyābjapāyasena pṛthak yogaḥ śriye bhavet //",
+    "english": "One would gain prosperity by doing oblations separately with the twigs of bilva, clarified butter, lotus and sweet porridge.",
+    "morphology": "__vilva_U __ājya_U __abja_U __pāyasa_U __pṛthak_U __yoga_U __śrī_U bhavet_bhū_SPr3O  /"
+  },
+  {
+    "index": 1924,
+    "sanskrit": "ayājyayājinaḥ //",
+    "english": "Nor those who offer sacrifices for those for whom it is forbidden to sacrifice (such as outcasts and others);",
+    "morphology": "a_a_ yājya_yājay_SNPaPrM "
+  },
+  {
+    "index": 1925,
+    "sanskrit": "iti śrī suśrutasaṃhitāyam sūtrasthāne dravyaguṇarasavīryavipākavijñānīyaḥ nāma catvāriṃśattamaḥ adhyāyaḥ || ekacatvāriṃśattamaḥ adhyāyaḥ |",
+    "english": "Thus ends the fortieth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with drugs and their flavours, virtues, and digestive (chemical) transformation.",
+    "morphology": "iti_iti_U śrī_śrī_Cp suśrutasaṃhitā_suśrutasaṃhitā_SNF ayam_idam_SNM sūtrasthāne_sūtrasthāna_SLNe dravyaguṇarasavīryavipākavijñānīyaḥ_dravyaguṇarasavīryavipākavijñānīya_SNM nāma_nāma_U catvāriṃśattamaḥ_catvāriṃśa"
+  },
+  {
+    "index": 1926,
+    "sanskrit": "dhenūnām dadāmi ayutam samagram",
+    "english": "Unto each of you I shall give a thousand kine of white hair, foremost in speed, each accompanied by a bull, and each having a well-born calf, and, therefore, yielding milk.",
+    "morphology": "dhenūnām_dhenu_PGF"
+  },
+  {
+    "index": 1927,
+    "sanskrit": "sa cāyaṃ liṅādīnām arthaḥ praiṣo ṇijarthavilakṣaṇaḥ pratīyate // nanu prayojakavyāpare ṇic vidhīyate/",
+    "english": "This is the sum and substance of the objection raised by an objector. The above objections are not tenable since they produce different forms of awareness in our mind. The senten- ces 'Let him do.",
+    "morphology": "sa_tad_SNM ca_ca_ ayam_idam_SNM liṅ_liṅ_Cp ādīnām_ādi_PGM arthaḥ_artha_SNM praiṣaḥ_praiṣa_SNM ṇic_ṇic_Cp artha_artha_Cp vilakṣaṇaḥ_vilakṣaṇa_SNM pratīyate_pratī_SPr3InPv  // nanu_nanu_ prayojaka_prayojaka_Cp vyāpare_vyāpar"
+  }
+]

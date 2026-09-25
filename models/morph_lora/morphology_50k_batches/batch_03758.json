@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30056,
+    "sanskrit": "uktopāyapraśaṃsā nopāyāntaraniṣedhaḥ //",
+    "english": "This verse is meant to be a praise of the method laid down in the preceding verse, and it does not exclude other methods.",
+    "morphology": "ukta_vac_PaCp upāya_upāya_Cp praśaṃsā_praśaṃsā_SNF na_na_ upāya_upāya_Cp antara_antara_Cp niṣedhaḥ_niṣedha_SNM  /"
+  },
+  {
+    "index": 30057,
+    "sanskrit": "caturvidhāste ṣaḍviṃśabhedāḥ ṣoḍaśa gonasāḥ // trayodaśa ca rājīlā vyantarā ekaviṃśatiḥ /",
+    "english": "They are again classified into four kinds as earthy, watery, fiery and windy and are divided into twentysix kinds. The gonasas are sixteen kinds, the rājīlas, thirteen and the vyantaras, twentyone.",
+    "morphology": "caturvidhāḥ_caturvidha_PNM te_tad_PNM ṣaḍviṃśa_ṣaḍviṃśa_Cp bhedāḥ_bheda_PNM ṣoḍaśa_ṣoḍaśan_SNNe gonasāḥ_gonasa_PNM  // trayodaśa_trayodaśan_SNNe ca_ca_ rājīlāḥ_rājīla_PNM vyantarāḥ_vyantara_PNM ekaviṃśatiḥ_"
+  },
+  {
+    "index": 30058,
+    "sanskrit": "vastusthityā hi tajjñānam avisaṃvādi niścitam /",
+    "english": "because as regards the real state of things, the cognition in question has been definitely found to be not incompatible;",
+    "morphology": "vastu_vastu_Cp sthityā_sthiti_SIF hi_hi_ tat_tad_SNNe jñānam_jñāna_SNNe avisaṃvādi_avisaṃvādin_SNNe"
+  },
+  {
+    "index": 30059,
+    "sanskrit": "tasyopadeśane śaktir na syāccet kiṃ tadā bhavet / tato bhavadbhir vaktavyamāgamo na bhaved iti //",
+    "english": "To this, the wise men made the answer ‘if he had no power to impart teachings, what would happen?’ The proper rejoinder for you should have been that “in that case there would be no reliable scripture”.",
+    "morphology": "tasya_tad_SGM upadeśane_upadeśana_SLNe śaktiḥ_śakti_SNF na_na_ syāt_as_SPr3O ced_ced_ kim_ka_SNNe tadā_tadā_ bhavet_bhū_SPr3O  / tatas_tatas_ bhavadbhiḥ_bhavat_PIM vaktavyam_vac_SNNeGd āgamaḥ_āgama_SNM na_na_ bhavet_bhū_SPr3O iti_iti_  /"
+  },
+  {
+    "index": 30060,
+    "sanskrit": "iha tvā bhūry ā cared upa tman doṣāvastar dīdivāṃsam anu dyūn |",
+    "english": "Here let each serve thee readily, That shinest in the darkness, as the days go by;",
+    "morphology": "iha_iha_ tvā_tvad_SA bhūri_bhūri_SANe ā_ā_ caret_car_SPr3O upa_upa_ tman_tman_SLM doṣā_doṣā_ vastar_vastṛ_SVM dīdī_dīdī_SNPaPsM"
+  },
+  {
+    "index": 30061,
+    "sanskrit": "anye tu śodhanāni harītakyādīni recanāny āhuḥ, gautamīyaṃ cedam udāharanti abhojyabhojane niṣpurīṣībhāvaḥ iti /",
+    "english": "Others explain \"purifications\" as standing for the Harītakī and such other purgatives; and they quote, in their support, the following from Gautama \"For eating improper food, the bowels should be cleared of all refuse\".",
+    "morphology": "anye_anya_PNM tu_tu_ śodhanāni_śodhana_PANe harītakyādīni_harītakyādi_PANe recanāni_recana_PANe āhuḥ_ah_PPs3In gautamīyam_gautamīya_SANe ca_ca_ idam_idam_SANe udāharanti_udāhṛ_PPr3In abhojya_abhojya_Cp bhojane_bhojana_SLNe niṣpurīṣī"
+  },
+  {
+    "index": 30062,
+    "sanskrit": "bāhyaābhyantaraprakṛtikopapratīkārāḥ kṣayavyayalābhaviparimarśaḥ,",
+    "english": "remedies against internal and external troubles; consideration about loss of men, wealth and profit Kautilyas Arthashastra Internal and external dangers;",
+    "morphology": "bāhya_bāhya_Cp ābhyantara_ābhyantara_Cp prakṛti_prakṛti_Cp kopa_kopa_Cp pratīkārāḥ_pratīkāra_PNM"
+  },
+  {
+    "index": 30063,
+    "sanskrit": "teṣām niśamya iṅgitāni yuddhe prāṇān juhūṣatām samudvīkṣya mukham rājñaḥ bāla arka sama varcasaḥ ācārya putraḥ medhāvī vākya jñaḥ vākyam ādade",
+    "english": "Observing the indications of those who were all desirous of pouring their lives as libations on the battle-fire, and beholding the monarch's face radiant as morning Sun, the preceptor's son endued with intelligence and accomplished in speech, said these words: \"Enthusiasm, opportunity, skill and policy,--these are the means declared by the learned, to be capable of accomplishing all ends.",
+    "morphology": "teṣām_tad_PGM niśamya_niśāmay_Co iṅgitāni_iṅgita_PANe yuddhe_yuddha_SLNe prāṇān_prāṇa_PAM juhūṣatām_juhūṣ_PGPaPrM samudvīkṣya_samudvīkṣ_Co mukham_mukha_SANe rājñaḥ_rājan_SGM bāla_bāla_Cp arka_arka_MCp sama_sama_Cp varc"
+  }
+]

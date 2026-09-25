@@ -1,0 +1,50 @@
+[
+  {
+    "index": 35136,
+    "sanskrit": "patitam yāti bhūmi tvam ayanam tasya hi kṣitiḥ",
+    "english": "Falling down, it is transformed into earth, for that is its ultimate destination.",
+    "morphology": "patitam_pat_SAPaPsM"
+  },
+  {
+    "index": 35137,
+    "sanskrit": "pakva āma māṃsa lubdhāya tumbī vīṇā priyāya ca namaḥ vṛṣāya vṛṣyāya go vṛṣāya vṛṣāya ca",
+    "english": "Salutations to thee that art fond of both cooked and uncooked meat, and that regardest the gourded Vina as highly dear.",
+    "morphology": "pakva_pakva_Cp āma_āma_Cp māṃsa_māṃsa_NeCp lubdhāya_lubh_SDPaPsM tumbī_tumbī_FCp vīṇā_vīṇā_FCp priyāya_priya_SDM ca_ca_U namaḥ_namas_SNNe vṛṣāya_vṛṣa_SDM vṛṣyāya_vṛṣya_SDM go_go_MCp vṛṣāya_vṛṣa_SDM vṛṣā"
+  },
+  {
+    "index": 35138,
+    "sanskrit": "sa hataḥ grasate pāṃsūn paśya kālasya paryayam yena ājau nihatāḥ bhūmau aśerata purā dviṣaḥ sa bhūmau nihataḥ śete kuru rājaḥ paraiḥ ayam",
+    "english": "Behold the reverses brought about by Time! This scorcher of foes that used to walk at the head of all crowned kings, now eateth the dust struck down (by the foe)! He who had formerly struck down many foes and caused them to lie on the bare ground, alas, that king of the Kurus lieth today on the bare ground, struck down by foes.",
+    "morphology": "sa_tad_SNM hataḥ_han_SNPaPsM grasate_gras_SPr3In pāṃsūn_pāṃsu_PAM paśya_paś_SPr2Im kālasya_kāla_SGM paryayam_paryaya_SAM yena_yad_SIM ājau_āji_SLM nihatāḥ_nihan_PNPaPsM bhūmau_bhūmi_SLF aśerata_śī_PPs3In purā_purā_U dviṣaḥ_dvi"
+  },
+  {
+    "index": 35139,
+    "sanskrit": "tathā rakṣodhipaḥ sākṣādrāvaṇo balagarvitaḥ | uddharansvabhujairdīrghaiḥ kailāsaṃ girimātmanaḥ || tadāgo 'sahamānasya devadevasya śūlinaḥ | padāṃguṣṭhaparispandānmamajja mṛdito bhuvi ||",
+    "english": "46-47 Rāvaṇa, king of Rākṣasas, arrogant of his prowess lifted up Kailāsa with his long arms. Śiva, the trident-bearing lord of the gods could not brook that sin. He pressed it with his big toe and the demon sank under the pressure.",
+    "morphology": "tathā_tathā_ rakṣaḥ_rakṣas_Cp adhipaḥ_adhipa_SNM sākṣāt_sākṣāt_ rāvaṇaḥ_rāvaṇa_SNM bala_bala_Cp garvitaḥ_garvita_SNM  / uddharan_uddhṛ_SNPaPrM sva_sva_Cp bhujaiḥ_bhuja_PIM dīrghaiḥ_dīrgha_PIM kailāsam_kailāsa_SAM girim"
+  },
+  {
+    "index": 35140,
+    "sanskrit": "draupadeyāḥ tathā śūrāḥ mādrī putrau ca pāṇḍavau",
+    "english": "And the sons of Draupadi, and the Suras, and the twin sons of Madri by Pandu, also followed the king.",
+    "morphology": "draupadeyāḥ_draupadeya_PNM tathā_tathā_U śūrāḥ_śūra_PNM"
+  },
+  {
+    "index": 35141,
+    "sanskrit": "pūṣan anu pra gāḥ ihi yajamānasya sunvataḥ asmākam stuvatām uta",
+    "english": "Follow the kine of him who pours libations out and worships thee; And ours who sing thee songs of praise.",
+    "morphology": "pūṣan_pūṣan_SVM"
+  },
+  {
+    "index": 35142,
+    "sanskrit": "manuṣyaḥ brāhmaṇaḥ ca asi śrotriyaḥ ca asi kāśyapa",
+    "english": "Thou, O Kasyapa, art a human being! Amongst human beings, thou art again a Brahmana. Among Brahmanas, thou art again one that is conversant with the Vedas.",
+    "morphology": "manuṣyaḥ_manuṣya_SNM"
+  },
+  {
+    "index": 35143,
+    "sanskrit": "devaiś ca prahito vāyuḥ praṇipattyāha keśavam / rajasyevamahaṃ dūtaḥ prahito bhagavansuraiḥ // vasvaśvimarudādityarudrasādhyādibhiḥ saha / vijñāpayati śakrastvāṃ tadidaṃ śrūyatāṃ vibho //",
+    "english": "Then there came to Keśava, when he was private and alone, a messenger from the gods, who addressed him with reverence, and said, “I am sent to you, O lord, by the deities, and do thou hear what Indra, together with the Viśvas, Maruts, Ādityas, Sādhyas, and Rudras, respectfully represents.",
+    "morphology": "devaiḥ_deva_PIM ca_ca_ prahitaḥ_prahi_SNPaM vāyuḥ_vāyu_SNM praṇipattyā_praṇipatti_SIF āha_ah_SPs3In keśavam_keśava_SAM  / rajasi_rajas_SLNe evam_evam_ aham_mad_SN dūtaḥ_dūta_SNM prahitaḥ_prahi_SNPaM bhagavan_bhagavant_SVM suraiḥ_sur"
+  }
+]

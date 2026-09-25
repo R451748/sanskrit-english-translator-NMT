@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45312,
+    "sanskrit": "parvakāle 'thavā prāpte paṭhedbrāhmaṇasaṃnidhau | pitṛmedhasya yajñasya sa phalaṃ labhate 'khilam || 26 ||",
+    "english": "26. One should read this in the presence of Brāhmaṇas at the time of Parvans (festive occasions). Thereby one obtains the entire benefit of Pitṛmedha (Yajña pertaining to Pitṛs).",
+    "morphology": "parva_parvan_Cp kāle_kāla_SLM athavā_athavā_ prāpte_prāp_SLPaM paṭhet_paṭh_SPr3O brāhmaṇa_brāhmaṇa_Cp saṃnidhau_saṃnidhi_SLM  / pitṛ_pitṛ_Cp medhasya_medha_SGM yajñasya_yajña_SGM sa_tad_SNM phalam_phala_SANe labhate_labh_SPr3In ak"
+  },
+  {
+    "index": 45313,
+    "sanskrit": "bhāvināmārthakalanaiḥ kiṃcidūhitarūpakam / ākāśādaṇu śuddhaṃ ca sarvasminbhāti bodhanam //",
+    "english": "Then this thinking Intellect (chetya-chit), gets the notions (bodhas) of some faint images (uhita-rupas), which are purer and lighter than air, and which have received their names and forms afterwards.",
+    "morphology": "bhāvi_bhāvin_Cp nāma_nāman_Cp artha_artha_Cp kalanaiḥ_kalana_PINe kiṃcid_kaścit_SNNe ūhita_ūh_PaCp rūpakam_rūpaka_SNNe  / ākāśāt_ākāśa_SBNe aṇu_aṇu_SNNe śuddham_śudh_SNPaNe ca_ca_ sarvasmin_sarva_SLNe bhāti_bhā_SPr3In bodhanam_b"
+  },
+  {
+    "index": 45314,
+    "sanskrit": "vanaspatīnāṃ sarveṣām upabhogo yathā yathā / tathā tathā damaḥ kāryo hiṃsāyām iti dhāraṇā //",
+    "english": "In the case of all trees, as their usefulness so should be the punishment inflicted for injuring them; this is the settled rule.",
+    "morphology": "vanaspatīnām_vanaspati_PGM sarveṣām_sarva_PGM upabhogaḥ_upabhoga_SNM yathā_yathā_ yathā_yathā_  / tathā_tathā_ tathā_tathā_ damaḥ_dama_SNM kāryaḥ_kṛ_SNMGd hiṃsāyām_hiṃsā_SLF iti_iti_ dhāraṇā_dhāraṇā_SNF  /"
+  },
+  {
+    "index": 45315,
+    "sanskrit": "nanu ca naivaitāsāṃ vivāhasaṃskāro 'sti, pāṇigrahaṇikā mantrāḥ kanyāsu iti vacanāt /",
+    "english": "Objection As a matter of fact, there is no marriage sacrament in the case of these latter; since it has been declared Manu.",
+    "morphology": "nanu_nanu_ ca_ca_ na_na_ eva_eva_ etāsām_etad_PGF vivāha_vivāha_Cp saṃskāraḥ_saṃskāra_SNM asti_as_SPr3In pāṇigrahaṇikāḥ_pāṇigrahaṇika_PNM mantrāḥ_mantra_PNM kanyāsu_kanyā_PLF iti_iti_ vacanāt_vacana_SBNe  /"
+  },
+  {
+    "index": 45316,
+    "sanskrit": "ājñām pratyaharat ca api kṛtakaiḥ puruṣaiḥ sadā",
+    "english": "Through deceitful servitors he caused the commands of his uncle to be disobeyed.",
+    "morphology": "ājñām_ājñā_SAF pratyaharat_pratihṛ_SPs3In ca_ca_U api_api_U kṛtakaiḥ_kṛtaka_PIM puruḥā_puruḥ_PIM sadā_sadā_U"
+  },
+  {
+    "index": 45317,
+    "sanskrit": "āntarāndhyatamastyāgaṃ kṛtvā viṣayalampaṭam / tasyoḍḍīya mano yāti kadācittrastapakṣivat //",
+    "english": "Leaving the soul in the gloom of internal darkness, the licentious mind flies as fast as a bird, to the objects of sense abroad.",
+    "morphology": "āntara_āntara_Cp āndhyatamaḥ_āndhyatama_SNM tyāgam_tyāga_SAM kṛtvā_kṛ_Co viṣaya_viṣaya_Cp lampaṭam_lampaṭa_SAM  / tasya_tad_SGM uḍḍīya_uḍḍī_Co manaḥ_manas_SNNe yāti_yā_SPr3In kadācid_kadācid_ trasta_tras_PaCp pakṣi_pa"
+  },
+  {
+    "index": 45318,
+    "sanskrit": "svābhāvikaṃ cedam ;",
+    "english": "It has been said",
+    "morphology": "svābhāvikam_svābhāvika_SNNe ca_ca_ idam_idam_SNNe"
+  },
+  {
+    "index": 45319,
+    "sanskrit": "doṣa ukleśa nimittāḥ tu jayet śamana śodhanaiḥ atha kṣaya nimittāsu yathāsvam bṛṃhaṇam hitam",
+    "english": "The distempers due to an aggravation of the Doshas should he remedied with soothing (Shamana)and corrective ^S'odhana) measures and remedies, while those resulting from the loss or waste of the Doshas should be remedied with such drugs and remedies as would make up the decreased Doshas (of the system).",
+    "morphology": "doṣa_doṣa_MCp ukleśa_ukleśa_MCp nimittāḥ_nimitta_PAF tu_tu_U jayet_ji_SPr3O śamana_śamana_NeCp śodhanaiḥ_śodhana_PINe atha_atha_U kṣaya_kṣaya_MCp nimittāsu_nimitta_PLF yathāsvam_yathāsvam_U bṛṃhaṇam_bṛṃhaṇa_SNNe hitam_hita"
+  }
+]

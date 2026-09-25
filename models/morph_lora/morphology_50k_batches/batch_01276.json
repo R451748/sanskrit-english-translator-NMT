@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10200,
+    "sanskrit": "yadi hi akāmām āsevet striyam anyām api dhruvam śatadhā asya phalet dehaḥ iti uktaḥ saḥ abhavat purā",
+    "english": "For that person had cursed Ravana of old, saying, that if he ever approached an unwilling woman, his head should certainly be split into a hundred fragments.",
+    "morphology": "yadi_yadi_U hi_hi_U akāmām_akāma_SAF āsevet_āsev_SPr3O striyam_strī_SAF anyām_anya_SAF api_api_U dhruvam_dhruvam_U śatadhā_śatadhā_U asya_idam_SGM phalet_phal_SPr3O dehaḥ_deha_SNM iti_iti_U uktaḥ_vac_SNPaPsM saḥ_tad_SNM abhavat_bhū_SPs3In"
+  },
+  {
+    "index": 10201,
+    "sanskrit": "ye ca eva anye kuru mukhyāḥ yuvānaḥ putrāḥ pautrāḥ bhrātaraḥ ca eva ye naḥ yam yam eṣām yena yena abhigaccheḥ",
+    "english": "Others there are of youthful age and of consideration amongst the Kurus, who bear a relationship to us like that of sons, grandsons, and brothers.",
+    "morphology": "ye_yad_PNM ca_ca_U eva_eva_U anye_anya_PNM kuru_kuru_MCp mukhyāḥ_mukhya_PNM yuvānaḥ_yuvan_PNM putrāḥ_putra_PNM pautrāḥ_pautra_PNM bhrātaraḥ_bhrātṛ_PNM ca_ca_U eva_eva_U ye_yad_PNM naḥ_mad_PG yam_yad_SAM yam_yad_SAM eṣām_idam_PGM yena"
+  },
+  {
+    "index": 10202,
+    "sanskrit": "sa tasya vidhivaccakre jātakarmādikāḥ kriyāḥ | tathopanayanādyāśca sa cāśīlo'bhavannṛpa || 118 ||",
+    "english": "118. He performed all his rites like the ceremony performed at the birth of a child; so also rites like the thread ceremony, (but) O King, he turned to be characterless.",
+    "morphology": "sa_tad_SNM tasya_tad_SGM vidhivat_vidhivat_ cakre_kṛ_SPs3In jātakarma_jātakarman_Cp ādikāḥ_ādika_PAF kriyāḥ_kriyā_PAF  / tathā_tathā_ upanayana_upanayana_Cp ādyāḥ_ādya_PAF ca_ca_ sa_tad_SNM ca_ca_ aśīlaḥ_aśīla_SNM abhavat_bhū_S3I"
+  },
+  {
+    "index": 10203,
+    "sanskrit": "ṛtu kāle tatas snātā kadā cit vāsukeḥ svasā bhartāram tam yathānyāyam upatasthe mahā munim",
+    "english": "And one day, after the menstrual period, the sister of Vasuki, having purified herself by a bath according to custom, approached her lord the great Muni;",
+    "morphology": "ṛtu_ṛtu_MCp kāle_kāla_SLM tatas_tatas_U snātā_snā_SNPaPsF kadā_kadā_U cit_cit_U vāsukeḥ_vāsuki_SGM svasā_svasṛ_SNF bhartāram_bhartṛ_SAM tam_tad_SAM yathānyāyam_yathānyāyam_U upatasthe_upasthā_SPs3In mahā_mahat_Cp munim_muni_SAM"
+  },
+  {
+    "index": 10204,
+    "sanskrit": "svarūpasahakārisannidhānam eva śaktiḥ sā ca sugamaiva //",
+    "english": "force or power is, in our view, nothing but the147 Perception of conduciveness to Pleasure assemblage of the cause and the conditions.",
+    "morphology": "sva_sva_Cp rūpa_rūpa_Cp sahakāri_sahakārin_Cp sannidhānam_saṃnidhāna_SNNe eva_eva_ śaktiḥ_śakti_SNF sā_tad_SNF ca_ca_ sugamā_sugama_SNF eva_eva_  /"
+  },
+  {
+    "index": 10205,
+    "sanskrit": "pūrvavat pitṛsaṃyogaṃ bhāvayitvodbhavākhyayā // vāmayā tadanenaiva devīgarbhe vinikṣipet /",
+    "english": "The union of divine parentsshould be imagined as before with the udbhavamudrā posture with fingers denoting generation and the seed of the soul should be cast into the womb of the goddess by exhibiting the same mudrā from the left.",
+    "morphology": "pūrvavat_pūrvavat_ pitṛ_pitṛ_Cp saṃyogam_saṃyoga_SAM bhāvayitvā_bhāvay_Co udbhava_udbhava_Cp ākhyayā_ākhyā_SIF  // vāmayā_vāma_SIF tat_tad_SANe anena_idam_SIM eva_eva_ devī_devī_Cp garbhe_garbha_SLM vinikṣipet_vinikṣip_SPr3O  /"
+  },
+  {
+    "index": 10206,
+    "sanskrit": "śaktyā paramayā nunnā prasūte sakalaṃ jagat | evaṃ śaktisamāyogācchaktimānucyate śivaḥ ||",
+    "english": "36. Śiva is called Śaktimān since he is in association with it. This universe born of both Śakti and Śaktimān is termed Śākta and Śaiva.",
+    "morphology": "śaktyā_śakti_SIF paramayā_parama_SIF nunnā_nud_SNPaF prasūte_prasū_SPr3In sakalam_sakala_SANe jagat_jagant_SANe  / evam_evam_ śakti_śakti_Cp samāyogāt_samāyoga_SBM śaktimān_śaktimat_SNM ucyate_vac_SPr3InPv śivaḥ_śiva_SNM  /"
+  },
+  {
+    "index": 10207,
+    "sanskrit": "pitā ca eva janitrī ca śrāntau vṛtta utsavau iva",
+    "english": "Fathers and mothers are worn out with work, and have abstained from indulging in festivities.",
+    "morphology": "pitā_pitṛ_SNM ca_ca_U eva_eva_U janitrī_janitrī_SNF ca_ca_U"
+  }
+]

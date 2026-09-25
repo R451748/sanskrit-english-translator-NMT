@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24584,
+    "sanskrit": "tathā eva a pacamānebhyaḥ pradeyam gṛhamedhinā",
+    "english": "One leading a domestic mode of life should give (food) unto Brahmacharins and Sannyasins.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 24585,
+    "sanskrit": "eṣām hi ekaikaśas rājñām samarthaḥ pāṇḍavān prati",
+    "english": "Every one amongst these kings is able to withstand the Pandavas.",
+    "morphology": "eṣām_idam_PGM hi_hi_U ekaikaśas_ekaikaśas_U rājñām_rājan_PGM"
+  },
+  {
+    "index": 24586,
+    "sanskrit": "bastis tv eṣa ātmana iti hovāca / bastis te vyabhetsyad yan māṃ nāgamiṣya iti //",
+    "english": "But this is only the bladder of the Self and your bladder would have burst if you had not come to me’",
+    "morphology": "bastiḥ_basti_SNF tu_tu_ eṣaḥ_etad_SNM ātmanaḥ_ātman_SGM iti_iti_ ha_ha_ uvāca_vac_SPs3In  / bastiḥ_basti_SNF te_tvad_SG vyabhetsyat_vibhid_SFu3 yat_yat_"
+  },
+  {
+    "index": 24587,
+    "sanskrit": "brahmovāca | tatastu militāḥ sarve vimṛśya ca parasparam | kecidūcustadā rāmaṃ vayaṃ śiloṃchajīvikāḥ || 6 || saṃtoṣaṃ paramāsthāya sthitā dharmaparāyaṇāḥ | pratigrahaprayogeṇa na cāsmākaṃ prayojanam || 7 ||",
+    "english": "6-9. Thereafter all of them assembled and consulted one another. Some of them said to Rāma then: “We live on gleanings of ears of corn. We are absolutely contented and we are devoted to righteousness. We have nothing to do with the acceptance of gifts.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / tatas_tatas_ tu_tu_ militāḥ_mil_PNPaM sarve_sarva_PNM vimṛśya_vimṛś_Co ca_ca_ parasparam_paraspara_SAM  / kecid_kaścit_PNM ūcuḥ_vac_PPs3In tadā_tadā_ rāmam_rāma_SAM vayam_mad_PN śila_śila_Cp uṃc"
+  },
+  {
+    "index": 24588,
+    "sanskrit": "kṣaṇapradā'bhavatkāṃtā gaurī mṛgadṛśī mudā | lolāpāṃgyatha tasyaiva bhāryā ca sadṛśī ratau ||",
+    "english": "9. His wife of fair complexion, tremulous side-glances and fawn-eyes, admirably suited to his love of pleasure offered him ample sports.",
+    "morphology": "kṣaṇa_kṣaṇa_Cp pradā_prada_SNF abhavat_bhū_S3ImIn kāntā_kāntā_SNF gaurī_gaurī_SNF mṛga_mṛga_Cp dṛśī_dṛś_SNF mudā_mud_SIF  / lolāpāḥ_lolāpāḥ_SNF"
+  },
+  {
+    "index": 24589,
+    "sanskrit": "kuśāḥ siddhārthapuṣpāni tilā dravyāṇi cārhaṇam /",
+    "english": "The kuśa grass, flowers of white mustard, sesamum are the articles used for adoration.",
+    "morphology": "kuśāḥ_kuśa_PNM"
+  },
+  {
+    "index": 24590,
+    "sanskrit": "nijadehagate dhāmani tathaiva pūjyaṃ samabhyasyet | yattacchāntaṃ rūpaṃ tenābhyastena hṛdayasaṃvittyā | śāntaṃ śivapadameti hi galitataraṅgārṇavaprakhyam | tacchāntapadādhyāsāccakrastho devatāgaṇa sarvaḥ | tiṣṭhatyuparatavṛttiḥ śūnyālambī nirānandaḥ | yo'pyanucakradṛgādisvarūpabhākso'piyattadāyattaḥ| |",
+    "english": "On his attainment of that state, all the gods presiding over the cakras also come to rest in the void of the supernal delight nirānanda. -a Even those deities who preside over such cakras as the senses on the imperative of those of main ones, they as well remain dipped in that delight on account of being aspirant of it. b-a Secret of Kula System The senses remain formless on account of their lacking in direct contact with the Supreme Being and therefore depend for the same on intervening agencies for coming to themselves and yet remain eager to get formed.",
+    "morphology": "nija_nija_Cp deha_deha_Cp gate_gam_SLPaNe dhāmani_dhāman_SLNe tathā_tathā_ eva_eva_ pūjyam_pūjay_SANeGd samabhyasyet_samabhyas_SPr3O  / yat_yad_SNNe tat_tad_SNNe śāntam_śam_SNPaNe rūpam_rūpa_SNNe tena_tad_SIM abhyastena_abhyas_SIPaM hṛdaya_h"
+  },
+  {
+    "index": 24591,
+    "sanskrit": "api ca liṅntapadayukte 'pi vākye padāntarārthānāṃ parasparam anvayo dṛśyata eva /",
+    "english": "Moreover, in a sentence which contains a verb in the injunctive mood all other words are noticed to be mutually connected.",
+    "morphology": "api_api_ ca_ca_ liṅ_liṅ_Cp nta_nta_Cp pada_pada_Cp yukte_yuj_SLPaNe api_api_ vākye_vākya_SLNe pada_pada_Cp antara_antara_Cp arthānām_artha_PGM parasparam_paraspara_SAM anvayaḥ_anvaya_SNM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19056,
+    "sanskrit": "pārthena nihatān saṃkhye mahā indra upama vikramān an icchataḥ katham vīra droṇasya yudhi pāṇḍavaḥ priyaḥ hi phalgunaḥ nityam ācāryasya mahātmanaḥ",
+    "english": "How, indeed, could Phalguna, in spite of the resistance offered by Drona in battle, accomplish his vow by slaying the ruler of the Sindhus? If Drona had not himself willed it, O hero, how could the son of Pandu, in battle, have pierced that impenetrable array, overcoming his struggling preceptor? Truly, Phalguna is exceedingly dear to the illustrious preceptor! For this, the latter gave him admittance, without having fought with him.",
+    "morphology": "pārthena_pārtha_SIM nihatān_nihan_PAPaPsM saṃkhye_saṃkhya_SLNe mahā_mahat_Cp indra_indra_MCp upama_upama_Cp vikramān_vikrama_PAM an_an_U icchataḥ_iṣ_PAPaPrM katham_katham_U vīra_vīra_MCp droṇasya_droṇa_SGM yudhi_yudh_SLF pāṇḍavaḥ_"
+  },
+  {
+    "index": 19057,
+    "sanskrit": "alābukam nikhātakam // karkarikaḥ nikhātakaḥ // tat vātaḥ unmathāyati //",
+    "english": "20. Winged with a falcon's pinion is that harmless swelling of thy tongue.",
+    "morphology": "alābukam_alābuka_SNNe nikhātakam_nikhātaka_SNNe  // karkarikaḥ_karkarika_SNM nikhātakaḥ_nikhātaka_SNM  // tat_tad_SANe vātaḥ_vāta_SNM unmathāyati_unmathāy_SPr3In  /"
+  },
+  {
+    "index": 19058,
+    "sanskrit": "mahā bhogaḥ mahā kośaḥ dhanī bhavati mānavaḥ",
+    "english": "Indeed, blessed with the possession of such articles, he becomes endued with affluence and a well-filled treasury.",
+    "morphology": "mahā_mahat_Cp bhogaḥ_bhoga_SNM mahā_mahat_Cp kośaḥ_kośa_SNM dhanī_dhanin_SNM"
+  },
+  {
+    "index": 19059,
+    "sanskrit": "bhīṣmaḥ api samare rājan pāṇḍavānām anīkinīm kālayām āsa balavān pālaḥ paśu gaṇān iva",
+    "english": "And the mighty Bhishma also, in Chapter XVIII that battle, O king, afflicted the Pandava army like a herdsman belabouring his herd.",
+    "morphology": "bhīṣmaḥ_bhīṣma_SNM api_api_U samare_samara_SLNe rājan_rājan_SVM pāṇḍavānām_pāṇḍava_PGM anīkinīm_anīkinī_SAF kālayām_kālay_SPs3In āsa_as_SPs3In balavān_balavat_SNM pālaḥ_pāla_SNM paśu_paśu_MCp gaṇān_gaṇa_PAM"
+  },
+  {
+    "index": 19060,
+    "sanskrit": "amāyayā niveda gurave na kadannena saṃskṛtam annaṃ pracchādya kadannaṃ guroḥ prakāśayet / kadannaṃ kila eṣa na grahīṣyatīty anayā buddhyā /",
+    "english": "\"Having offered it without guile to the Teacher;\" ie, he should not show the teacher only the inferior articles of food, hiding with these the superior ones, with the view that the Teacher would not take any thing out of the inferior articles.",
+    "morphology": "amāyayā_amāyā_SIF niveda_nivid_SPs1In gurave_guru_SDM na_na_ kadannena_kadanna_SINe saṃskṛtam_saṃskṛ_SAPaNe annam_anna_SANe pracchādya_pracchāday_Co kadannam_kadanna_SANe guroḥ_guru_SGM prakāśayet_prakāśay_SPr3O  / kadannam_kadanna_SANe"
+  },
+  {
+    "index": 19061,
+    "sanskrit": "svāśramaṃ prayayau tūrṇaṃ hālāsyeśvarabhaktimān | atha rāmāstamāliṃgya durddamaṃ patimāturāḥ || 27 ||",
+    "english": "26b-29. After saying this to the excellent wives of Durdama, Vasiṣṭha, the devotee of Lord of Hālāsya, immediately went back to his hermitage.",
+    "morphology": "sva_sva_Cp āśramam_āśrama_SAM prayayau_prayā_SPs3In tūrṇam_tūrṇam_ hālāsya_hālāsya_Cp īśvara_īśvara_Cp bhaktimān_bhaktimat_SNM  / atha_atha_ rāmāḥ_rāmā_PNF tam_tad_SAM āliṃgya_āliṅgay_Co durddamam_durdama_SAM patim_pati_SAM "
+  },
+  {
+    "index": 19062,
+    "sanskrit": "asya pratiṣedhasyātikrame doṣam āha /",
+    "english": "The present text describes the evil effects of transgressing the above prohibition.",
+    "morphology": "asya_idam_SGM pratiṣedhasya_pratiṣedha_SGM atikrame_atikrama_SLM "
+  },
+  {
+    "index": 19063,
+    "sanskrit": "evaṃ kīlālapādyāḥ syuḥ kaviragnis tathārayaḥ /",
+    "english": "The words such as Kīlālapāḥ drinkers of a celestial drink would be similar.",
+    "morphology": "evam_evam_ kīlāla_kīlāla_Cp pādyāḥ_pādya_PNM syuḥ_as_PPr3O kaviḥ_kavi_SNM agniḥ_agni_SNM tathā_tathā_ arayaḥ_ari_PNM"
+  }
+]

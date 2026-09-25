@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24992,
+    "sanskrit": "suraṃgaiścāpi nāraṃgairaṃgamaṃḍapavacchiyaḥ | vānīraiścāpi jaṃbīrairbījapūraiḥ prapūritam || 11 ||",
+    "english": "11. It is like the dancing pavilion of Śrī (Lakṣmī) through orange trees of excellent hues. It abounds in Vānīras (reeds), Jaṃbīras (citrons) and Bījapūras (a variety of citron).",
+    "morphology": "suraṃgaiḥ_suraṃga_PIM ca_ca_ api_api_ nāraṃgaiḥ_nāraṃga_PIM aṃga_aṅga_Cp maṇḍapa_maṇḍapa_Cp vat_vat_ śiyaḥ_śī_PNF  / vānīraiḥ_vānīra_PIM ca_ca_ api_api_ jaṃbīraiḥ_jambīra_PIM bījapūraiḥ_bījapūra_PIM prapūri"
+  },
+  {
+    "index": 24993,
+    "sanskrit": "yāgādikarmaiva śābarā bruvate /",
+    "english": "According to Sabara the religious acts themselves are Dharma.",
+    "morphology": "yāga_yāga_Cp ādi_ādi_Cp karma_karman_SANe eva_eva_ śābarāḥ_śābara_PNM bruvate_brū_PPr3In  /"
+  },
+  {
+    "index": 24994,
+    "sanskrit": "sahasram ca sahasrāṇām kanyāḥ hema vibhūṣitāḥ ījānaḥ vitate yajñe dakṣiṇām atyakālayat",
+    "english": "A hundred thousand maidens also, adorned with golden ornaments, he gave away as presents in a sacrifice he performed.",
+    "morphology": "sahasram_sahasra_SANe ca_ca_U sahasrāṇām_sahasra_PGNe kanyāḥ_kanyā_PAF hema_heman_NeCp vibhūṣitāḥ_vibhūṣay_PAPaPsF ījānaḥ_yaj_SNPaPsM vitate_vitan_SLPaPsM yajñe_yajña_SLM dakṣiṇām_dakṣiṇā_SAF atyakālayat_atikālay_SPs3In"
+  },
+  {
+    "index": 24995,
+    "sanskrit": "caturthāvaraṇaṃ dhyātvā bahistasya samarcayet | bhānuḥ pūrvadale pūjyo dakṣiṇe caturānanaḥ ||",
+    "english": "24. When the third Āvaraṇa has been worshipped thus he shall worship the fourth Āvaraṇa outside it after meditation.",
+    "morphology": "caturtha_caturtha_Cp āvaraṇam_āvaraṇa_SANe dhyātvā_dhyā_Co bahis_bahis_ tasya_tad_SGM samarcayet_samarcay_SPr3O  / bhānuḥ_bhānu_SNM pūrva_pūrva_Cp dale_dala_SLNe pūjyaḥ_pūjay_SNMGd dakṣiṇe_dakṣiṇa_SLNe caturānanaḥ_caturānana_"
+  },
+  {
+    "index": 24996,
+    "sanskrit": "kṛtāṃtarāyo na paṭhedbhekākhu śvāhi babhrubhiḥ | bhūtāṣṭamyoḥ paṃcadaśyorbrahmacārī sadā bhavet || 80 ||",
+    "english": "80. A Brāhmaṇa should not study the Vedas when there are disturbances created by frogs, mice, dogs, serpents and ichneumons. A householder shall remain celibate (i.e., avoid sex) on eighth, fourteenth and fifteenth lunar days.",
+    "morphology": "kṛta_kṛ_PaCp antarāyaḥ_antarāya_SNM na_na_ paṭhet_paṭh_SPr3O bheka_bheka_Cp ākhu_ākhu_SANe śvāhi_śvāhi_SANe babhrubhiḥ_babhru_PIM  / bhūta_bhūta_Cp aṣṭamyoḥ_aṣṭamī_DuLF paṃcadaśyoḥ_paṃcadaśī_DuLF brahmacārī_brahm"
+  },
+  {
+    "index": 24997,
+    "sanskrit": "tatra antar lohitam pāṇḍum śīta pāda kara ānanam",
+    "english": "The blood (of the affected chamber or receptacle) in such case lies incarcerated therein in the event of its failing to find an outlet and causes a pallor of the face and a coldness of the extremities and of the face in the patient.",
+    "morphology": "tatra_tatra_U antar_antar_U lohitam_lohita_SAM"
+  },
+  {
+    "index": 24998,
+    "sanskrit": "vidūṣaṇāpratipakṣo duḥkhasamudayālambanaḥ prayogamārgaḥ /",
+    "english": "But we say, here is the correct order: opposition through disgust is the Preparatory Path;",
+    "morphology": "vidūṣaṇa_vidūṣaṇa_Cp a_a_ pratipakṣaḥ_pratipakṣa_SNM duḥkha_duḥkha_Cp samudaya_samudaya_Cp ālambanaḥ_ālambana_SNM prayoga_prayoga_Cp mārgaḥ_mārga_SNM  /"
+  },
+  {
+    "index": 24999,
+    "sanskrit": "nanu cāyuktakasya paraprayuktakāritvāhatvija iva yajamānatvaṃ na rājatvaṃ bhaviṣyati",
+    "english": "je Objection As for the Representative of the king, inasmuch as he performs those functions by being appointed to it by another person, the word Raja is not applied to him just as the word sacrificer yajamana is not applied to the sacrificial Priests.",
+    "morphology": "nanu_nanu_ ca_ca_ ayuktakasya_ayuktaka_SGM para_para_Cp prayukta_prayuj_PaCp kāri_kārin_Cp tvāt_tva_SBNe hatvijaḥ_hatvij_SGM iva_iva_ yajamāna_yaj_PaPrCp tvam_tva_SNNe na_na_ rāja_rājan_Cp tvam_tva_SNNe bhaviṣyati_bhū_SFu3In"
+  }
+]

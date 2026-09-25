@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14288,
+    "sanskrit": "tathā eva vācyam bhavatā hi mad vacaḥ samāgateṣu kṣitipeṣu sarvaśas",
+    "english": "Say unto the assembled kings that those are also my words.",
+    "morphology": "tathā_tathā_U eva_eva_U vācyam_vac_SNNeGd bhavatā_bhavat_SIM hi_hi_U mad_mad_Cp vacaḥ_vacas_SNNe samāgateṣu_samāgam_PLPaPsM kṣitipeṣu_kṣitipa_PLM"
+  },
+  {
+    "index": 14289,
+    "sanskrit": "bheje sarva ātmanā ca eva pradyumna jananī tathā",
+    "english": "And the mother of Pradyumna also loveth them with her whole soul.",
+    "morphology": "bheje_bhaj_SPs3In sarva_sarva_Cp ātmanā_ātman_SIM cīḥ_cīḍā_SNF"
+  },
+  {
+    "index": 14290,
+    "sanskrit": "ṛśyaśṛṅgaḥ tapaḥ nityaḥ vane eva vyavardhata",
+    "english": "And Rishyasringa, devoted to penances, always passed his days in the forest.",
+    "morphology": "ṛśyaśṛṅgaḥ_ṛśyaśṛṅga_SNM tapaḥ_tapas_SANe nityaḥ_nitya_SNM vanā_vana_SLNe eva_eva_U vyavardhata_vivṛdh_SPs3In"
+  },
+  {
+    "index": 14291,
+    "sanskrit": "tenāptaḥ preṣito me 'dya dūto vaktumidaṃ vacaḥ / mama sūryaprabheṇādau sutā nītā tatas tava //",
+    "english": "he has today sent me a trustworthy messenger to speak this speech: ‘Sūryaprabha first carried off my daughter, then yours.",
+    "morphology": "tena_tad_SIM āptaḥ_āpta_SNM preṣitaḥ_preṣay_SNPaM me_mad_SG adya_adya_ dūtaḥ_dūta_SNM vaktum_vac_In idam_idam_SANe vacaḥ_vacas_SANe  / mama_mad_SG sūryaprabheṇa_sūryaprabha_SIM ādau_ādi_SLM sutā_sutā_SNF nītā_nī_SNPaF tatas_tatas"
+  },
+  {
+    "index": 14292,
+    "sanskrit": "ityuktavatyatha munau divaso jagāma sāyatanāya vidhaye'stamino jagāma / snātuṃ sabhā kṛtanamaskaraṇā jagāma śyāmākṣaye ravikaraiśca sahājagāma //",
+    "english": "As the Muni spake these words, the day declined to its evening twilight. The assembly broke with mutual salutations, to perform their vesperal ablutions, and met again at the court hall with the rising sunbeams, after dispersion of the nocturnal gloom.",
+    "morphology": "iti_iti_ uktavati_vac_SLPaM atha_atha_ munau_muni_SLM divasaḥ_divasa_SNM jagāma_gam_SPs3In sa_sa_ āyatanāya_āyatana_SDM vidhaye_vidhi_SDM astaminaḥ_astamina_SNM jagāma_gam_SPs3In  / snātum_snā_In sabhā_sabhā_SNF kṛta_kṛ_PaCp namaskaraṇā"
+  },
+  {
+    "index": 14293,
+    "sanskrit": "na etat anyena śakyam hi vaktum kena cit adya vai",
+    "english": "None else is capable of explaining the matter.",
+    "morphology": "na_na_U etat_etad_SNNe anyena_anya_SIM śakyam_śakya_SNNe hi_hi_U vaktum_vac_In"
+  },
+  {
+    "index": 14294,
+    "sanskrit": "yady antareṇa vacanam atra nidhānaṃ labhyate, apy anidhāyaiveti vacanam anarthakam /",
+    "english": "In the present verse nothing is said regarding the necessity of having to keep away the substance, and yet if it were to be taken as implied, the phrase \"without laying down\" would be absolutely futile.",
+    "morphology": "yadi_yadi_ antareṇa_antareṇa_ vacanam_vacana_SANe atra_atra_ nidhānam_nidhāna_SNNe labhyate_labh_SPr3InPv api_api_ a_a_ nidhāya_nidhā_Co eva_eva_ iti_iti_ vacanam_vacana_SNNe anarthakam_anarthaka_SNNe  /"
+  },
+  {
+    "index": 14295,
+    "sanskrit": "niṣekakāle some ca sīmantonnayane tathā | tathā puṃsavane caiva śrāddhaṃ karmāṃgameva ca || 48 ||",
+    "english": "48. The Śrāddha performed at the time of Niṣeka (impregnation), Soma extraction, Sīmantonnayana and Puṃsavana as a part of these rites is called Karmāṅga Śrāddha.",
+    "morphology": "niṣeka_niṣeka_Cp kāle_kāla_SLM some_soma_SLM ca_ca_ sīmantonnayane_sīmantonnayana_SLNe tathā_tathā_  / tathā_tathā_ puṃsavane_puṃsavana_SLNe ca_ca_ eva_eva_ śrāddham_śrāddha_SNNe karma_karman_Cp aṅgam_aṅga_SNNe eva_eva_ ca_ca_"
+  }
+]

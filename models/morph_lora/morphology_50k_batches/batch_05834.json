@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46664,
+    "sanskrit": "dṛṣṭvā puraḥ sthitaṃ daityaṃ meghakūṭamiva sthitam | avadhyatvamapi śrutvāpyanyairabhyudyato'bhavat ||",
+    "english": "24. On seeing the Daitya standing in front like the lofty peak of Meru and hearing from others that he could not be killed, he stood ready for it.",
+    "morphology": "dṛṣṭvā_dṛś_Co puras_puras_ sthitam_sthā_SAPaM daityam_daitya_SAM megha_megha_Cp kūṭam_kūṭa_SANe iva_iva_ sthitam_sthā_SAPaM  / avadhya_avadhya_Cp tvam_tva_SANe api_api_ śrutvā_śru_Co api_api_ anyaiḥ_anya_PIM abhyudyataḥ_abhyudyam_S"
+  },
+  {
+    "index": 46665,
+    "sanskrit": "maṇiparvataśṛṃgeṣu kalpadrumavanāṃtare | saṃcaraṃti sadā martyā mama kṛtvā pradakṣiṇam || 92 ||",
+    "english": "92. By circumambulating me men will always wander on the peaks of the Maṇiparvata in the midst of the grove of Kalpa trees. Gaurī said:",
+    "morphology": "maṇi_maṇi_Cp parvata_parvata_Cp śṛṃgeṣu_śṛṅga_PLNe kalpadruma_kalpadruma_Cp vana_vana_Cp antare_antara_SLNe  / saṃcaraṃti_saṃcar_PPr3In sadā_sadā_ martyāḥ_martya_PNM mama_mad_SG kṛtvā_kṛ_Co pradakṣiṇam_pradakṣiṇa_SAM"
+  },
+  {
+    "index": 46666,
+    "sanskrit": "kiñcātaḥ /",
+    "english": "What difference would that make?",
+    "morphology": "kiñca_kiṃca_ atas_atas_"
+  },
+  {
+    "index": 46667,
+    "sanskrit": "niyataḥ niyata āhāraḥ ṣaṣṭha bhaktaḥ apramādavān",
+    "english": "Observant of vows and abstemious in diet, he should eat only once, the time thereof being the sixth part of the day. He should be always heedful.",
+    "morphology": "niyataḥ_niyam_SNPaPsM niyata_niyam_PaPsCp āhāraḥ_āhāra_SNM ṣaṣṭha_ṣaṣṭha_Cp bhaktaḥ_bhakta_SNM"
+  },
+  {
+    "index": 46668,
+    "sanskrit": "vācakaṃ hi śabdam adhikṛtyaitaducyate na ca śrotrajñānāvaseyoḥ yaḥ svalakṣaṇātmāsādhāraṇaśabdo vācakaḥ /",
+    "english": "and what is meant is that the uncommon word, which is apprehended in auditory Perception, as of the nature of a ‘Specific Individuality’, cannot be denotative.",
+    "morphology": "vācakam_vācaka_SAM hi_hi_ śabdam_śabda_SAM adhikṛtya_adhikṛ_Co etat_etad_SNNe ucyate_vac_SPr3InPv na_na_ ca_ca_ śrotra_śrotra_Cp jñāna_jñāna_Cp avaseyoḥ_avasā_DuGF yaḥ_yad_SNM sva_sva_Cp lakṣaṇa_lakṣaṇa_Cp ātma_ātman_Cp asādh"
+  },
+  {
+    "index": 46669,
+    "sanskrit": "punarjalaṃdharo vegādvavarṣa niśitaiḥ śaraiḥ | bāṇāṃdhakāraiḥ saṃchannaṃ tadā bhūmitalaṃ mahat || 8 ||",
+    "english": "8. Again Jalandhara showered sharp arrows in quick succession. At that time the vast surface of the earth was covered by darkness due to the (numerous) arrows (so discharged).",
+    "morphology": "punar_punar_ jalaṃdharaḥ_jalaṃdhara_SNM vegāt_vega_SBM vavarṣa_vṛṣ_SPs3In niśitaiḥ_niśā_PIPaM śaraiḥ_śara_PIM  / bāṇa_bāṇa_Cp aṃdhakāraiḥ_andhakāra_PIM saṃchannam_saṃchad_SNPaNe tadā_tadā_ bhūmi_bhūmi_Cp talam_tala"
+  },
+  {
+    "index": 46670,
+    "sanskrit": "madhvājyaśarkarāyuktaṃ liḍhvā strīśaḥ payaḥ pivet // māsapippaliśālīnāṃ yavagodhūmayos tathā /",
+    "english": "One should lick powdered emblic myrobalan soaked in the juice of the same with honey, clarified butter and sugar and drink milk if desirous of enjoying women.",
+    "morphology": "__madhu_U __ājya_U __śarkarā_U __yuj_PaU liḍhvā_lih_CoU __strīśa_U __payas_U pivet_pā_SPr3O  // __māsa_U __pippalī_U __śāli_U __yava_U __godhūma_U __tathā_U  /"
+  },
+  {
+    "index": 46671,
+    "sanskrit": "atha ko devān aharahar yāciṣyatīti tasmān nopastheyas | atho khalv āhur āśiṣe vai kaṃ yajamāno yajata iti |",
+    "english": "and who then will day by day beg of the gods?' Then they say, 'The sacrificer sacrifices for the sake of the benediction.' The reverence of the fire is [6] the benediction of him who has established a fire;",
+    "morphology": "atha_atha_ kaḥ_ka_SNM devān_deva_PAM ahar_ahar_SANe ahar_ahar_SANe yāciṣyati_yāc_SFu3In iti_iti_ tasmāt_tasmāt_ na_na_ upastheyaḥ_upasthā_SNMGd  / atha_atha_ u_u_ khalu_khalu_ āhuḥ_ah_PPs3In āśiṣe_āśis_SDF vai_vai_ kam_kaṃ_ yajamāna"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 144,
+    "sanskrit": "lokapāleṣu sarveṣu dikṣu saṃyānavartiṣu / bhāve tapasi śuddhānām abhāve pāpakarmaṇām //",
+    "english": "The regents, of the quarters, began to range in their respective provinces, pure persons, intent on carrying on Tapas, began to flourish and there was absence of impious men.",
+    "morphology": "lokapāleṣu_lokapāla_PLM sarveṣu_sarva_PLM dikṣu_diś_PLF saṃyāna_saṃyāna_Cp vartiṣu_vartin_PLM  / bhāve_bhāva_SLM tapasi_tapas_SLNe śuddhānām_śuddha_PGM abhāve_abhāva_SLM pāpa_pāpa_Cp karmaṇām_karman_PGM  /"
+  },
+  {
+    "index": 145,
+    "sanskrit": "sarvavittvāttu tenedaṃ manastvaṃ cetitaṃ svataḥ / rūpamatyajatā śuddhaṃ buddhamādhivivarjitam //",
+    "english": "The Lord being omniscient, took upon him the form of hypostasis of the mind, without forsaking his nature of pure intelligence, and exemption from disease and decay.",
+    "morphology": "sarva_sarva_Cp vid_vid_Cp tvāt_tva_SBNe tu_tu_ tena_tad_SIM idam_idam_SNNe manaḥ_manas_SNNe tvam_tvad_SN cetitam_cetay_SNPaNe svatas_svatas_  / rūpam_rūpa_SANe atyajatā_atyajat_SIM śuddham_śudh_SNPaNe buddha_budh_PaCp mādhi_mādhi_Cp vivarjitam_vi"
+  },
+  {
+    "index": 146,
+    "sanskrit": "jāmiḥ sindhūnām bhrātāiva svasrām ibhyān na rājā vanāni atti",
+    "english": "(He is) the kinsman of the rivers, as a brother of his sisters. He eats the forests as a king (eats, i. e. takes the wealth of) the rich 1.",
+    "morphology": "jāmiḥ_jāmi_SNM sindhūnām_sindhu_PGF bhrātā_bhrātṛ_SNM iva_iva_ svasrām_svasṛ_PGF ibhyān_ibhya_PAM na_na_ rājā_rājan_SNM"
+  },
+  {
+    "index": 147,
+    "sanskrit": "etāvān iha vāsaś ca kathito nāradena me //",
+    "english": "am to live here: this Nārada said to me; too tell you this.",
+    "morphology": "etāvān_etāvat_SNM iha_iha_ vāsaḥ_vāsa_SNM ca_ca_ kathitaḥ_kathay_SNPaM nāradena_nārada_SIM me_mad_SG  /"
+  },
+  {
+    "index": 148,
+    "sanskrit": "ye prajāṃ neṣire dhīrā te'mṛtatvaṃ hi bhejire /'",
+    "english": "‘Who desire progeny go to the crematorium, who do not, they achieve immortality *.",
+    "morphology": "ye_yad_PNM prajām_prajā_SAF na_na_ iṣire_iṣ_PPs3In dhīrāḥ_dhīra_PNM te_tad_PNM"
+  },
+  {
+    "index": 149,
+    "sanskrit": "sa yajñasṛṣṭirūpo'sau jagadvṛttau vyavasthitaḥ / dviguṇāṇḍādvahiḥ pṛthvī pṛthivyā dviguṇaṃ jalam //",
+    "english": "He was born in the form of creation, and it is he that is settled in everything in the universe; and caused this earth to appear from the bipartite mundane egg, as also the water which is twice as much as the land.",
+    "morphology": "sa_tad_SNM yajña_yajña_Cp sṛṣṭi_sṛṣṭi_Cp rūpaḥ_rūpa_SNM asau_adas_SNM jagat_jagant_Cp vṛttau_vṛtti_SLF vyavasthitaḥ_vyavasthā_SNPaM  / dviguṇa_dviguṇa_Cp aṇḍāt_aṇḍa_SBNe vahis_vahis_ pṛthvī_pṛthvī_SNF pṛthivyā"
+  },
+  {
+    "index": 150,
+    "sanskrit": "nivṛttimuddharetpūrvamindhanaṃ ca tataḥ param | kālaṃ samuddharetpaścāddaṃḍamī śvarameva ca ||",
+    "english": "12. Firstly the devotee shall extricate Nivṛtti, then the the fuel, time, s iff, and the lord.",
+    "morphology": "nivṛttim_nivṛtti_SAF uddharet_uddhṛ_SPr3O pūrvam_pūrvam_ indhanam_indhana_SANe ca_ca_ tatas_tatas_ param_param_  / kālam_kāla_SAM samuddharet_samuddhṛ_SPr3O paścāt_paścāt_ daṇḍamī_daṇḍamī_SNF īśvaram_īśvara_SAM eva_eva_ ca_ca_"
+  },
+  {
+    "index": 151,
+    "sanskrit": "nudasva kāma pra nudasva kāma āvartim yantu mama ye sapatnāḥ / teṣām nuttānām adhamā tamāṃsi agne vāstūni niḥ daha tvam /",
+    "english": "Drive them away, drive them afar, O Kāma; indigence fall on those who are my foemen! When they have been cast down to deepest darkness, consume their dwellings with thy fire, O Agni.",
+    "morphology": "nudasva_nud_SPr2Im kāma_kāma_SVM pra_pra_U nudasva_nud_SPr2Im kāma_kāma_SVM āvartim_āvarti_SAF yantu_i_PPr3Im mama_mad_SG ye_yad_PNM sapatnāḥ_sapatna_PNM  / teṣām_tad_PGM nuttānām_nud_PGPaPsM adhamā_adhama_PANe tamāṃsi_tamas_PANe agne_agn"
+  }
+]

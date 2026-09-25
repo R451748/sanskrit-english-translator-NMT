@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36352,
+    "sanskrit": "brahmatuṅgam nadīḥ ca anyāḥ tathā janapadān api",
+    "english": "And then he reached the summit called Brahmatunga, and then many rivers, and then many inhabited provinces.",
+    "morphology": "brahmatuṅgam_brahmatuṅga_SAM nadīḥ_nadī_PAF ca_ca_U anyāḥ_anya_PAF"
+  },
+  {
+    "index": 36353,
+    "sanskrit": "dhāvatām ca ratha oghānām nighnatām ca pṛthak pṛthak babhūva tumulaḥ śabdaḥ vimiśraḥ dundubhi svanaiḥ",
+    "english": "And the rattle of innumerable cars rushing (to join the fray), or engaged separately raised a loud uproar, mingling with the beat of drums.",
+    "morphology": "dhāvatām_dhāv_PGPaPrM ca_ca_U ratha_ratha_MCp oghānām_ogha_PGM nighnatām_nihan_PGPaPrM ca_ca_U pṛthak_pṛthak_U pṛthak_pṛthak_U babhūva_bhū_SPs3In tumulaḥ_tumula_SNM śabdaḥ_śabda_SNM vimiśraḥ_vimiśra_SNM dundubhi_dundubhi_MCp svana"
+  },
+  {
+    "index": 36354,
+    "sanskrit": "tyāgaḥ snehasya yaḥ tyāgaḥ viṣayāṇām tathā eva ca",
+    "english": "The casting off of affection as also of all earthly possessions, is called renunciation.",
+    "morphology": "tyāgaḥ_tyāga_SNM snehasya_sneha_SGM yaḥ_yad_SNM tyāgaḥ_tyāga_SNM viṣayāṇām_viṣaya_PGM tathā_tathā_U eva_eva_U ca_ca_U"
+  },
+  {
+    "index": 36355,
+    "sanskrit": "śleṣmaṇā āvṛta mārga tvāt ucchvāsaḥ asya nirudhyate",
+    "english": "Expiration (exhalation of the breath) becomes impossible owing to the internal passages having been choked by the deranged Kapha.",
+    "morphology": "śleṣmaṇā_śleṣman_SIM"
+  },
+  {
+    "index": 36356,
+    "sanskrit": "tatoti vismitaścāhaṃ manyamānaḥ kṛtārthatām | teṣāṃ nihīnaṃ saṃciṃtya prāvocaṃ prabravītvayam || 48 ||",
+    "english": "48. I became surprised thereby. I considered myself contented and blessed. Thinking one of them to be the least learned among them, I said: “Let this one reply.”",
+    "morphology": "vismitaḥ_vismi_SNPaM ca_ca_ aham_mad_SN manyamānaḥ_man_SNPaPrM kṛtārtha_kṛtārtha_Cp tām_tā_SAF  / teṣām_tad_PGM nihīnam_nihīna_SAM saṃciṃtya_saṃcintay_Co prāvocam_pravac_SPs1InTh prabravītu_prabrū_SPr3Im ayam_idam_SNM  /"
+  },
+  {
+    "index": 36357,
+    "sanskrit": "evam āraṇya śāstrāṇām ugram ugrataram vidhim sevamānaḥ pratīkṣiṣye dehasya asya samāpanam",
+    "english": "Observing in this way the austere regulations of a forest life, I shall pass my days, calmly awaiting the dissolution of my body.",
+    "morphology": "evam_evam_U āraṇya_āraṇya_Cp śāstrāṇām_śāstra_PGNe ugram_ugra_SAM ugrataram_ugratara_SAM vidhim_vidhi_SAM sevamānaḥ_sev_SNPaPrM pratīkṣiṣye_pratīkṣ_SFu1In dehasya_deha_SGM asya_idam_SGM samāpanam_samāpana_SANe"
+  },
+  {
+    "index": 36358,
+    "sanskrit": "aham hi divi divyena vimānena caran purā abhimānena mattaḥ san kam cit na anyam acintayam brahmarṣi deva gandharva yakṣa rākṣasa kiṃnarāḥ",
+    "english": "In days of yore, while I used to sojourn in heaven in a celestial chariot, revelling in my pride, I did not think of anything else, I used to exact tribute from Brahmarshis, Devas, Yakshas, Gandharvas, Rakshasas, Pannagas and all other dwellers of the three worlds.",
+    "morphology": "aham_mad_SN hi_hi_U divi_div_SLM divyena_divya_SINe vimānena_vimāna_SINe caran_car_SNPaPrM purā_purā_U abhimānena_abhimāna_SIM mattaḥ_mad_SNPaPsM san_as_SNPaPrM kam_ka_SAM cit_cit_U na_na_U anyam_anya_SAM acintayam_cintay_SPs1In brahmarṣi_brahmar"
+  },
+  {
+    "index": 36359,
+    "sanskrit": "tato gopyo mahādevi ādyā yāḥ ṣoḍaśa smṛtāḥ | tāsāṃ nāmāni te vakṣye tāni hmekamanāḥ śṛṇu || 10 ||",
+    "english": "10. I shall mention the names of sixteen senior Gopīs. Listen to them with attention, O great goddess.",
+    "morphology": "tatas_tatas_ gopyaḥ_gopī_PNF mahādevi_mahādevī_SVF ādyāḥ_ādya_PNF yāḥ_yad_PNF ṣoḍaśa_ṣoḍaśan_SNNe smṛtāḥ_smṛ_PNPaF  / tāsām_tad_PGF nāmāni_nāman_PANe te_tvad_SD vakṣye_vac_SFu1In tāni_tad_PANe hm_hm_ ekamanāḥ_ekama"
+  }
+]

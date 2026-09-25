@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47224,
+    "sanskrit": "kīrtiḥ hi puruṣam loke saṃjīvayati mātṛ vat akīrtiḥ jīvitam hanti jīvataḥ api śarīriṇaḥ",
+    "english": "Fame keepeth people alive in this world even like a mother, while infamy killeth men even though they may move about with bodies undestroyed.",
+    "morphology": "kīrtiḥ_kīrti_SNF hi_hi_U puruṣam_puruṣa_SAM loke_loka_SLM saṃjīvayati_saṃjīvay_SPr3In mātṛ_mātṛ_FCp vat_vat_U akīrtiḥ_akīrti_SNF jīvitam_jīvita_SANe hanti_han_SPr3In jīvataḥ_jīv_SGPaPrM api_api_U śarīriṇaḥ_śarīrin_SGM"
+  },
+  {
+    "index": 47225,
+    "sanskrit": "ekaikam eṣām niṣpiṃṣan śiṣṭeṣu nipuṇam caret",
+    "english": "As regards the remnant, (being few in number,) the victor may behave peacefully towards them.",
+    "morphology": "ekaikam_ekaika_SAM eṣām_idam_PGM niṣpiṣan_niṣpiṣ_SNPaPrM"
+  },
+  {
+    "index": 47226,
+    "sanskrit": "tad uktam [trayāṇāṃ pratyakṣatvarūpavattvadravatvādīni] iti //",
+    "english": "Praśasta Deva has also said that only three substances have perceptibility, colour and fluidity.",
+    "morphology": "tat_tad_SNNe uktam_vac_SNPaNe trayāṇām_tri_PGNe pratyakṣa_pratyakṣa_Cp tva_tva_Cp rūpavat_rūpavat_Cp tva_tva_Cp drava_drava_Cp tva_tva_Cp ādīni_ādi_PNNe iti_iti_  /"
+  },
+  {
+    "index": 47227,
+    "sanskrit": "aham tu prahṛte pūrvam prahariṣyāmi te anagha",
+    "english": "O sinless one, I will not strike thee unless thou strikest me first.",
+    "morphology": "aham_mad_SN tu_tu_U prahṛte_prahṛta_SLNe"
+  },
+  {
+    "index": 47228,
+    "sanskrit": "tyāgo vyākhyātaḥ asaṃbhogaḥ sahaśayyāvarjanam /",
+    "english": "\"Divorce\" ,\"Casting off\" , has already been explained as consisting in dropping intercourse with her, and avoiding her bed.",
+    "morphology": "tyāgaḥ_tyāga_SNM vyākhyātaḥ_vyākhyā_SNPaM asaṃbhogaḥ_asaṃbhoga_SNM saha_saha_ śayyā_śayyā_Cp varjanam_varjana_SNNe"
+  },
+  {
+    "index": 47229,
+    "sanskrit": "vāyoḥ pakṣatiḥ sarasvato nipakṣatis |",
+    "english": "For Vayu the first rib; for Sarasvant the second;",
+    "morphology": "vāyoḥ_vāyu_SGM pakṣatiḥ_pakṣati_SNF sarasvataḥ_sarasvant_SGM nipakṣatiḥ_nipakṣati_SNF"
+  },
+  {
+    "index": 47230,
+    "sanskrit": "yat mā hutam ahutam ājagāma dattam pitṛbhiḥ anumatam manuṣyaiḥ / yasmāt me manaḥ ud iva rārajīti agniḥ tat hotā su hutam kṛṇotu //",
+    "english": "Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by the Fathers, Whereby my heart seems to leap up, may Agni the Hotar make that sacrifice well-offered.",
+    "morphology": "yat_yad_SNNe mā_mad_SA hutam_hu_SNPaPsNe ahutam_ahuta_SNNe ājagāma_āgam_SPs3In dattam_dā_SNPaPsNe pitṛbhiḥ_pitṛ_PIM anumatam_anuman_SNPaPsNe manuṣyaiḥ_manuṣya_PIM  / yasmāt_yad_SBNe me_mad_SG manaḥ_manas_SNNe ud_ud_U iva_iva_U rārajīt"
+  },
+  {
+    "index": 47231,
+    "sanskrit": "idam pitre marutām ucyate vacaḥ svādoḥ svādīyaḥ rudrāya vardhanam rāsva ca naḥ amr̥ta marta bhojanam tmane tokāya tanayāya mr̥l̥a",
+    "english": "To him the Maruts' Father is this hymn addressed, to strengthen Rudra's might, a song more sweet than sweet. Grant us, Immortal One, the food which mortals eat: be gracious unto me, my seed, my progeny.",
+    "morphology": "idam_idam_SNNe pitre_pitṛ_SDM marutām_marut_PGM ucyate_vac_SPr3InPv vacaḥ_vacas_SNNe svādoḥ_svādu_SBNe svādīyaḥ_svādīyas_SANe rudrāya_rudra_SDM vardhanam_vardhana_SANe rāsva_rā_SPs2Im ca_ca_U naḥ_mad_PD amr̥ta_amr̥ta_SVM marta_marta_M"
+  }
+]

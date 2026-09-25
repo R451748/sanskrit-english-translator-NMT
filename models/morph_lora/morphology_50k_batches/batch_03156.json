@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25240,
+    "sanskrit": "sāpīti / apavādāpekṣā /",
+    "english": "‘Sāpi’ i.e. the dependence upon sublation.",
+    "morphology": "sā_tad_SNF api_api_ iti_  /"
+  },
+  {
+    "index": 25241,
+    "sanskrit": "cintayām āsa samare dharmarājaḥ yudhiṣṭhiraḥ katham nu na bhavet satyam tat mādhava vacaḥ mahat na hi kruddhaḥ raṇe rājā kṣapayeta balam mama",
+    "english": "Beholding his troops shrouded with arrows, O monarch, in that battle, king Yudhishthira the just began to reflect in this strain, \"Verily, how shall those grave words of Madhava become true? I hope, the rider of the Madras, excited with rage, will not annihilate my army in battle.' Then the Pandavas, O elder brother of Pandu (Dhritarashtra), with cars and elephants and steeds, approached the ruler of the Madras and began to afflict him from every side.",
+    "morphology": "cintayām_cintay_SPs3In āsa_as_SPs3In samare_samara_SLNe dharmarājaḥ_dharmarāja_SNM yudhiṣṭhiraḥ_yudhiṣṭhira_SNM katham_katham_U nu_nu_U na_na_U bhavet_bhū_SPr3O satyam_satya_SNNe tat_tad_SNNe mādhava_mādhava_MCp vacaḥ_vacas_SNNe mahat_"
+  },
+  {
+    "index": 25242,
+    "sanskrit": "kaśyapasya svarvido yāvāhuḥ sayujāviti / yayorviśvamapi vrataṃ yajñaṃ dhīrā nicāyya //",
+    "english": "Those whom they call the attendant pair of Kasyapa who knows the light,",
+    "morphology": "kaśyapasya_kaśyapa_SGM svar_svar_Cp vidaḥ_vid_SGM yau_yad_DuAM āhuḥ_ah_PPs3In sayujau_sayuj_DuAM iti_iti_  / yayoḥ_yad_DuGM viśvam_viśva_SANe api_api_ vratam_vrata_SANe yajñam_yajña_SAM dhīrāḥ_dhīra_PNM"
+  },
+  {
+    "index": 25243,
+    "sanskrit": "svavākyādivirodhaścetyādāvāha svavākyādivirodhānām ityādi / svavākyādvirodhānām ajñānāc codanā kṛtā /",
+    "english": "The following Text points out that the argument put forward by the other party involves ‘self-contradiction’: [see verses 2735-2736 next] The objection in question has been urged by the other party, through ignorance that his doing so involves self-contradictions on his part;",
+    "morphology": "sva_sva_Cp vākya_vākya_Cp ādi_ādi_Cp virodhaḥ_virodha_SNM ca_ca_ ityādau_ityādi_SLM āha_ah_SPs3In sva_sva_Cp vākya_vākya_Cp ādi_ādi_Cp virodhānām_virodha_PGM ityādi_ityādi_SANe  / sva_sva_Cp vākya_vākya_Cp ādi_ādi_Cp ādi_ādi_Cp ādi_"
+  },
+  {
+    "index": 25244,
+    "sanskrit": "imam ca dṛṣṭvā tava karma doṣam",
+    "english": "Beholding again thy unworthy deeds, which, besides, being highly sinful and unspeakable, are sure to terminate in misery, it seemeth to me that one of thy nature winneth praise only so long as his able foe bideth his time.",
+    "morphology": "ima_idam_SAM"
+  },
+  {
+    "index": 25245,
+    "sanskrit": "saṃtoṣayāmāsa ca taṃ yavaneśo hyanātmajaḥ / tadyoṣitsaṃgamāccāsya putro 'bhūdalisannibhaḥ // taṃ kālayavanaṃ nāma rāye sve yavaneśvaraḥ / abhiṣicya vanaṃ yāto vajragrakaṭhinorasam //",
+    "english": "The king of the Yavanas, who was childless, became the friend of Gārgya and the latter begot a son by his wife, who was as black as a bee, and was thence called Kālayavana. The Yavana king having placed his son, whose breast was as hard as the point of the thunderbolt, upon the throne, retired to the woods.",
+    "morphology": "saṃtoṣayāmāsa_saṃtoṣay_SPs3InPe ca_ca_ tam_tad_SAM yavana_yavana_Cp īśaḥ_īśa_SNM hi_hi_ an_an_ ātmajaḥ_ātmaja_SNM  / tad_tad_Cp yoṣit_yoṣit_Cp saṃgamāt_saṃgama_SBM ca_ca_ asya_idam_SGM putraḥ_putra_SNM abhūt_bhū_SPs3In ali_"
+  },
+  {
+    "index": 25246,
+    "sanskrit": "tebhyaḥ sarvebhyaḥ eva āhuḥ bhayam rāja upasevinām",
+    "english": "They that serve kings have to fear all of them.",
+    "morphology": "tebhyaḥ_tad_PDM"
+  },
+  {
+    "index": 25247,
+    "sanskrit": "manaścandramaso jātaṃ manasaścandra utthitaḥ / jīvājjīvo'thavaikaiṣā sattā dravajalāṅgavat //",
+    "english": "The mind is derived from the moon, again the moon has sprung from the mind; so doth life spring from life and the fluid water flows from the congealed snow and ice and vice versa.",
+    "morphology": "manaḥ_manas_SNNe candramasaḥ_candramas_SBM jātam_jan_SNPaNe manasaḥ_manas_SBNe candraḥ_candra_SNM utthitaḥ_utthā_SNPaM  / jīvāt_jīva_SBM jīvaḥ_jīva_SNM atha_atha_ vā_vā_ ekaiḥ_eka_SVM ḥ_etad_SNM ḥ_aḥ_"
+  }
+]

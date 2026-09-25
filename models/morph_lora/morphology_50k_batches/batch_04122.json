@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32968,
+    "sanskrit": "tatas abhigamya kaunteyaḥ śirasā abhyanamat balī",
+    "english": "And the mighty son of Kunti, approaching Indra, saluted him by bending his head to the ground.",
+    "morphology": "tatas_tatas_U abhigamya_abhigam_Co kaunteyaḥ_kaunteya_SNM śirasā_śiras_SINe abhyanamat_abhinam_SPs3In balī_balin_SNM"
+  },
+  {
+    "index": 32969,
+    "sanskrit": "yaccoktam indriyādirūpam evānyanirapekṣam arthāvisaṃvādijñānotpādakam iti, tadapyayuktam /",
+    "english": "It has been argued that “The form of the Sense-organ and other Means of Cognition, independently of anything else, serves to bring about cognitions in conformity with the real state of things”.",
+    "morphology": "yat_yad_SNNe ca_ca_ uktam_vac_SNPaNe indriya_indriya_Cp ādi_ādi_Cp rūpam_rūpa_SNNe eva_eva_ anya_anya_Cp nirapekṣam_nirapekṣa_SNNe artha_artha_Cp avisaṃvādi_avisaṃvādin_Cp jñāna_jñāna_Cp utpādakam_utpādaka_SNNe iti_iti_ tat_tad_SNNe api"
+  },
+  {
+    "index": 32970,
+    "sanskrit": "samabhāgacaritānām āvaraṇam iti yeṣāṃ viṣayasādṛśye {sāmīpye?} kleśa utpadyate na tvabhīkṣṇaṃ te samabhāgacaritāḥ /",
+    "english": "They who course in equal shares refers to those for whom moral defilement manifests in conformity with the object, but not continuously.",
+    "morphology": "sama_sama_Cp bhāga_bhāga_Cp caritānām_car_PGPaM āvaraṇam_āvaraṇa_SNNe iti_iti_ yeṣām_yad_PGM viṣaya_viṣaya_Cp sādṛśye_sādṛśya_SLNe kleśaḥ_kleśa_SNM utpadyate_utpad_SPr3In na_na_ tu_tu_ abhīkṣṇam_abhīkṣṇam_ te_tad_PNM "
+  },
+  {
+    "index": 32971,
+    "sanskrit": "ṣaṣṭhe kāle tu kaunteya naraḥ saṃvatsaram kṣapet aśvamedhasya yajñasya phalam prāpnoti mānavaḥ",
+    "english": "That man, O son of Kunti, who passes a whole year observing fasts for five days and taking food on only the sixth day, acquires the merit of the Horse-sacrifice.",
+    "morphology": "ṣaṣṭhe_ṣaṣṭha_SLM kāle_kāla_SLM tu_tu_U kaunteya_kaunteya_SVM naraḥ_nara_SNM saṃvatsaram_saṃvatsara_SAM kṣapet_kṣap_SPr3O aśvamedhasya_aśvamedha_SGM yajñasya_yajña_SGM phalam_phala_SANe prāpnoti_prāp_SPr3In mānavaḥ_mānava_"
+  },
+  {
+    "index": 32972,
+    "sanskrit": "mārjāre pāśa saṃbaddhe kim kartavyam mayā bhavet",
+    "english": "If I remain on this trap, the owl will surely seize me.",
+    "morphology": "mārjāre_mārjāra_SLM pāśa_pāśa_MCp saṃbaddhe_sambandh_SLPaPsM kim_ka_SNNe kartavyam_kṛ_SNNeGd mayā_mad_SI"
+  },
+  {
+    "index": 32973,
+    "sanskrit": "dukkho bālehi saṃvāso amittehi-r-iva sabbadā |",
+    "english": "dwelling with fools is always suffering as it is with enemies,",
+    "morphology": "dukkhaḥ_dukkha_SNM"
+  },
+  {
+    "index": 32974,
+    "sanskrit": "unmūlitādrīndraśilā yadotpātānilā vavuḥ / ādhūtamerutaravastadā nākampata drumaḥ //",
+    "english": "When the mountains were up-rooted by the hail-storms blowing with tremendous violence, and sweeping away the huge forest trees of this mount of Meru, even then was this tree unshaken by the blast.",
+    "morphology": "unmūlita_unmūlay_PaCp adri_adri_Cp indra_indra_Cp śilāḥ_śilā_PNF yadā_yadā_ utpāta_utpāta_Cp anilāḥ_anila_PNM vavuḥ_vā_PPs3In  / ādhūta_ādhū_PaCp meru_meru_Cp taravaḥ_tarava_SNM tadā_tadā_ na_na_ akampata_kamp_S3ImIn drumaḥ_drum"
+  },
+  {
+    "index": 32975,
+    "sanskrit": "etad eva dvitīyena ślokena darśayati /",
+    "english": "This same idea is further expounded in the following texts: [see verses 1787-1790 next]",
+    "morphology": "etat_etad_SANe eva_eva_ dvitīyena_dvitīya_SIM ślokena_śloka_SIM "
+  }
+]

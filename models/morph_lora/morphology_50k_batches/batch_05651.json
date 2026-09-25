@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45200,
+    "sanskrit": "rākṣasaḥ karkaṭīputraḥ kuṃbhakarṇodbhavo balī | pīḍayatyaniśaṃ devānbrahmadattavarorjitaḥ ||",
+    "english": "60. The Rākṣasa, the powerful son of Karkaṭī, begot by Kumbhakarṇa, harasses the gods always, with his strength enhanced by the boon granted by Brahmā.",
+    "morphology": "rākṣasaḥ_rākṣasa_SNM karkaṭī_karkaṭī_Cp putraḥ_putra_SNM kumbhakarṇa_kumbhakarṇa_Cp udbhavaḥ_udbhava_SNM balī_balin_SNM  / pīḍayati_pīḍay_SPr3In aniśam_aniśam_ devān_deva_PAM brahma_brahman_Cp datta_dā_PaCp vara_vara_Cp ūr"
+  },
+  {
+    "index": 45201,
+    "sanskrit": "so 'i bāhujitas tasya śāsanaṃ cakravartinaḥ / vajramuṣṭyādibhiḥ sārdhaṃ praṇataḥ pratyapadyata //",
+    "english": "But he, having been subdued by the emperor’s arm, humbly submitted to him, together with Vajramuṣṭi and the others.",
+    "morphology": "saḥ_tad_SNM bāhujitaḥ_bāhujit_SGM tasya_tad_SGM śāsanam_śāsana_SANe cakravartinaḥ_cakravartin_SGM  / vajramuṣṭi_vajramuṣṭi_Cp ādibhiḥ_ādi_PIM sārdham_sārdham_ praṇataḥ_praṇam_SNPaM pratyapadyata_pratipad_S3ImIn  /"
+  },
+  {
+    "index": 45202,
+    "sanskrit": "ātmānam evopa hvayate | ātmā hy upahūtānāṃ vasiṣṭhas |",
+    "english": "verily he invokes the self, for the self is the best of those invoked.",
+    "morphology": "ātmānam_ātman_SAM eva_eva_ upa_upa_ hvayate_hvā_SPr3In  / ātmā_ātman_SNM hi_hi_ upahūtānām_upahvā_PGPaF vasiṣṭhaḥ_vasiṣṭha_SNM"
+  },
+  {
+    "index": 45203,
+    "sanskrit": "mṛṣṭam aśnāti yaḥ ca ekaḥ dṛśyamānaḥ tu bāndhavaiḥ",
+    "english": "Nilakantha explains this verse in a different way.",
+    "morphology": "mṛṣṭam_mṛj_SAPaPsNe aśnāti_aś_SPr3In yaḥ_yad_SNM ca_ca_U ekaḥ_eka_SNM dṛśyamānaḥ_dṛś_SNPaPrMPv tu_tu_U bāndhavaiḥ_bāndhava_PIM"
+  },
+  {
+    "index": 45204,
+    "sanskrit": "aditiḥ śmaśru vapatu āpaḥ undantu varcasā / cikitsatu prajāpatiḥ dīrgha āyu tvāya cakṣase /",
+    "english": "Let Aditi shave the beard, and let the Waters bathe it with their strength: Prajāpati restore his health for sight and days of lengthened life!",
+    "morphology": "aditiḥ_aditi_SNF śmaśru_śmaśru_SANe vapatu_vap_SPr3Im āpaḥ_ap_PNF undantu_und_PPr3Im varcasā_varcas_SINe  / cikitsatu_cikits_SPr3Im prajāpatiḥ_prajāpati_SNM dīrgha_dīrgha_Cp āyu_āyu_MCp tvāya_tva_SDNe cakṣase_cakṣas_SDNe  /"
+  },
+  {
+    "index": 45205,
+    "sanskrit": "āha na khalv evaṃ na jāne kintu yad eva śāstre vyutpādyatvena sthitaṃ tad eva vyutpādyatām /",
+    "english": "Now the objector replies:—'Do not think that I do not know all these'.",
+    "morphology": "āha_ah_SPs3In na_na_ khalu_khalu_ evam_evam_ na_na_ jāne_jñā_SPr1In kintu_kiṃtu_ yat_yad_SNNe eva_eva_ śāstre_śāstra_SLNe vyutpādya_vyutpāday_GdCp tvena_tva_SINe sthitam_sthā_SNPaNe tat_tad_SNNe eva_eva_ vyutpādyatām_vyutpāday_SPr3ImPv  /"
+  },
+  {
+    "index": 45206,
+    "sanskrit": "purīṣa jān kapha utthān ca hanyāt evam kṛmīn bhiṣaj||",
+    "english": "Worms which have their origin in the accumulated feces or aggravated Kapha in the body should be destroyed with the help of the aforesaid medicinal remedies.",
+    "morphology": "purīṣa_purīṣa_NeCp jān_ja_PAM kapha_kapha_MCp utthān_uttha_PAM ca_ca_U hanyāt_han_SPr3O evam_evam_U kṛmīn_kṛmi_PAM bhiṣaj_bhiṣaj_SNM"
+  },
+  {
+    "index": 45207,
+    "sanskrit": "ramyaṃ hyaramyamathaveti vicārayasva / yatpāvanaṃ tadavabudhya tadantarāssva //",
+    "english": "Now distinguish between what is desirable or disagreeable to you, and choose that which is holy and perfect, and you will certainly arrive to it.",
+    "morphology": "ramyam_ramya_SNNe hi_hi_ aramyam_aramya_SNNe athavā_athavā_ iti_iti_ vicārayasva_vicāray_SPr2Im  / yat_yad_SNNe pāvanam_pāvana_SNNe tat_tad_SANe avabudhya_avabudh_Co tat_tad_SANe antar_antar_ āssva_ās_SPr2Im  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13936,
+    "sanskrit": "parivārya raṇe bhīmam nijaghnuḥ te samantataḥ",
+    "english": "Encompassing Bhima in that battle, they began to strike him from all sides.",
+    "morphology": "parivārya_parivāray_Co"
+  },
+  {
+    "index": 13937,
+    "sanskrit": "bahu mūla phala upetam nānā pakṣi gaṇaiḥ vṛtam",
+    "english": "And it was inhabited by various kinds of fowls and birds, and fall of water that was pure and sweet.",
+    "morphology": "bahu_bahu_Cp mūla_mūla_NeCp phala_phala_NeCp upetam_upe_SAPaPsNe"
+  },
+  {
+    "index": 13938,
+    "sanskrit": "kāla prāptam upādadyāt na artham rājā prasūcayet",
+    "english": "The king should take wealth from his subjects at the proper time. He should never proclaim what he does.",
+    "morphology": "kāla_kāla_MCp prāptam_prāp_SAPaPsM upādadyāt_upādā_SPr3O"
+  },
+  {
+    "index": 13939,
+    "sanskrit": "tadetatkathitaṃ bījamavidyāyā mayā tava / kleśānāṃ ca kṣayakaraṃ yogādanyanna vidyate //",
+    "english": "Such is the seed of ignorance, as I have explained it to you. There is but one cure of worldly sorrows, the practice of devotion no other is known.”",
+    "morphology": "tat_tad_SNNe etat_etad_SNNe kathitam_kathay_SNPaNe bījam_bīja_SNNe avidyāyāḥ_avidyā_SGF mayā_mad_SI tava_tvad_SG  / kleśānām_kleśa_PGM ca_ca_ kṣaya_kṣaya_Cp karaḥ_kara_SNM yogāt_yoga_SBM anyat_anya_SNNe na_na_ vidyate_vid_SPr3InPv  /"
+  },
+  {
+    "index": 13940,
+    "sanskrit": "utpattimātram āśrityoktam udāharati / tatredaṃ virudhyate anutpādya tathā prajām iti /",
+    "english": "Our explanation of this is as followsWhat the text just quoted does is to mention the mere coming into existence of the stage of Renunciation; and if it were taken in its literal sense it would be contrary to what is said in the following verse regarding the impropriety of \"going forth, without having begotten offspring\".",
+    "morphology": "utpatti_utpatti_Cp mātram_mātra_SANe āśritya_āśri_Co uktam_vac_SAPaNe udāharati_udāhṛ_SPr3In  / tatra_tatra_ idam_idam_SNNe virudhyate_virudh_SPr3InPv an_an_ utpādya_utpāday_Co tathā_tathā_ prajām_prajā_SAF iti_iti_"
+  },
+  {
+    "index": 13941,
+    "sanskrit": "āvavruḥ tasya panthānam gaja anīkena daṃśitāḥ kaliṅgāḥ ca niṣādāḥ ca krātha putraḥ ca vīryavān",
+    "english": "Thereupon, the Kalingas, the Nishadas, and the valiant son of Kratha, all clad in mail, cut off his path by encompassing him with their elephant-division.",
+    "morphology": "āvavruḥ_āvṛ_PPs3In tasya_tad_SGM panthānam_pathin_SAM gaja_gaja_MCp anīkena_anīka_SINe daṃśitāḥ_daṃśay_PNPaPsM kaliṅgāḥ_kaliṅga_PNM ca_ca_U niṣādāḥ_niṣāda_PNM ca_ca_U krātha_krātha_MCp putraḥ_putra_SNM ca_ca_U vīryav"
+  },
+  {
+    "index": 13942,
+    "sanskrit": "idānīm abhiyāsyataḥ karmāha /",
+    "english": "The text now describes what is to be done by one who is going to undertake an expedition.",
+    "morphology": "idānīm_idānīm_ abhiyāsyataḥ_abhiyā_SGPaFuM"
+  },
+  {
+    "index": 13943,
+    "sanskrit": "nahi pṛthagjanā nirodhasamāpattimutpādayituṃ śaknuvantyucchedabhīrutvādāryamārgabalena cotpādanāddṛṣṭadharmanirvāṇasya tadadhimuktitaḥ / āryasyāpi ceyaṃ na vairāgyalabhyā / kiṃ tarhi /",
+    "english": "These latter cannot produce it because they fear annihilation, and because this absorption can only be produced through the power of the Path: in fact, it is the ascetic who has seen Nirvāṇa who is determined to obtain it.",
+    "morphology": "nahi_nahi_ pṛthagjanāḥ_pṛthagjana_PNM nirodha_nirodha_Cp samāpattim_samāpatti_SAF utpādayitum_utpāday_In śaknuvanti_śak_PPr3In uccheda_uccheda_Cp bhīru_bhīru_Cp tvāt_tva_SBNe ārya_ārya_Cp mārga_mārga_Cp balena_bala_SINe ca_ca_ utpādan"
+  }
+]

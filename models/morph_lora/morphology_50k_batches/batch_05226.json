@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41800,
+    "sanskrit": "na tat balam yat mṛdunā virudhyate",
+    "english": "That is not strength which is opposed to softness.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 41801,
+    "sanskrit": "iti chāndogyopaniṣadi tṛtīyādhyāyasya tṛtīyaḥ khaṇḍaḥ",
+    "english": "End of Section of Discourse",
+    "morphology": "iti_iti_ chāndogya_chāndogya_Cp upaniṣadi_upaniṣad_SLF tṛtīya_tṛtīya_Cp adhyāyasya_adhyāya_SGM tṛtīyaḥ_tṛtīya_SNM khaḥ_khaḥ_SNM"
+  },
+  {
+    "index": 41802,
+    "sanskrit": "kapha medaḥ nvite vāyau nivāta ātapa guru prāvaraṇa niyuddha adhva vyāyāma bhāra haraṇa amarṣaiḥ svedam utpādayet iti",
+    "english": "The patient should be diaphorised by making him put on warm clothing or exposing himself to the sun or by becoming fatigued after a long walk, or by wrestling, or some other physical exercise, load-carrying, etc., or by arousing his anger in a case where the deranged Vayu would be found to be subcharged with the deranged fat or Kapha, 10.",
+    "morphology": "kapha_kapha_MCp medaḥ_medas_NeCp nvite_nvita_SLM vāyau_vāyu_SLM nivāta_nivāta_Cp ātapa_ātapa_MCp guru_guru_Cp prāvaraṇa_prāvaraṇa_NeCp niyuddha_niyuddha_NeCp adhva_adhvan_MCp vyāyāma_vyāyāma_MCp bhāra_bhāra_MCp haraṇa_haraṇa_NeCp am"
+  },
+  {
+    "index": 41803,
+    "sanskrit": "jñātavānasi tattvaṃ svamekayā sūkṣmayā dhiyā / jāto'si nirahaṃkāro vyomavattiṣṭha nirmalaḥ //",
+    "english": "You have known the true essence of your being by your right discernment (that it is He—the Sat); you are thereby freed from the sense of your personality, and are set free as the subtile air.",
+    "morphology": "jñātavān_jñā_SNPaM asi_as_SPr2In tattvam_tattva_SANe svam_sva_SANe ekayā_eka_SIF sūkṣmayā_sūkṣma_SIF dhiyā_dhī_SIF  / jātaḥ_jan_SNPaM asi_as_SPr2In nirahaṃkāraḥ_nirahaṃkāra_SNM vyoma_vyoman_Cp vat_vat_ tiṣṭha_sthā_SPr2Im nirm"
+  },
+  {
+    "index": 41804,
+    "sanskrit": "prasphurattārakāmālā dināntatimirā iva / paśyemau mama jāyete pronmukhāvurasi stanau //",
+    "english": "Look here at these two snowy balls bulging out of my bosom, like two white lotus-buds rising on the surface of waters in the vernal season.",
+    "morphology": "prasphurat_prasphur_PaPrCp tārakā_tārakā_Cp mālāḥ_mālā_PNF dina_dina_Cp anta_anta_Cp timirāḥ_timira_PNF iva_iva_  / paśya_paś_SPr2Im imau_idam_DuNM mama_mad_SG jāyete_jan_DuPr3In pronmukhau_pronmukha_DuNM urasi_uras_SLNe stanau_stana_DuNM  "
+  },
+  {
+    "index": 41805,
+    "sanskrit": "teṣāṃ sadaśvabhūyiṣṭhāstuṅgā draviṇarāśayaḥ /",
+    "english": "Lofty (stupendous) heaps of riches, abounding in noble steeds, reached the lord of the Kosalas every day; but not their boastful manners (or, 'but pride never touched him').",
+    "morphology": "teṣām_tad_PGM sat_sat_Cp aśva_aśva_Cp bhūyiṣṭhāḥ_bhūyiṣṭha_PNM tuṅgāḥ_tuṅga_PNM draviṇa_draviṇa_Cp rāśayaḥ_rāśi_PNM  /"
+  },
+  {
+    "index": 41806,
+    "sanskrit": "ahaṃkāra vimūḍha ātmā kartā aham iti manyate tattva vid tu mahā bāho guṇa karma vibhāgayoḥ guṇāḥ guṇeṣu vartante iti matvā na sajjate",
+    "english": "He, whose mind is deluded by egoism, however, regards himself as the actor.[161] But he, O mighty-armed one, who knoweth the distinction (of self) from qualities and work, is not attached to work, considering that it is his senses alone (and not his self) that engage in their objects.[162] Those who are deluded by the qualities of nature, become attached to the works done by the qualities.",
+    "morphology": "ahaṃkāra_ahaṃkāra_MCp vimūḍha_vimuh_PaPsCp ātmā_ātman_SNM kartā_kartṛ_SNM aham_mad_SN iti_iti_U manyate_man_SPr3In tattva_tattva_NeCp vid_vid_SNM tu_tu_U mahā_mahat_Cp bāho_bāhu_SVM guṇa_guṇa_MCp karma_karman_NeCp vibhāgayoḥ_vibhā"
+  },
+  {
+    "index": 41807,
+    "sanskrit": "vipramuktaḥ atha mārjāraḥ tam eva abhyapatat drumam sa ca tasmāt bhayāt muktaḥ muktaḥ ghoreṇa śatruṇā",
+    "english": "Palita also, freed from that situation of danger and from the presence of a terrible foe, quickly fled and entered his hole.",
+    "morphology": "vipramuktaḥ_vipramuc_SNPaPsM atha_atha_U mārjāraḥ_mārjāra_SNM tam_tad_SAM eva_eva_U abhyapatat_abhipat_SPs3In drumam_druma_SAM sa_tad_SNM ca_ca_U tasmāt_tad_SBNe bhayāt_bhaya_SBNe muktaḥ_muc_SNPaPsM muktaḥ_muc_SNPaPsM ghoreṇa_ghora_SIM śat"
+  }
+]

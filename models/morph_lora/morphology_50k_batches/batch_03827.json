@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30608,
+    "sanskrit": "tam toṣaya mahā bāho tapasā vara dam haram",
+    "english": "O (prince) of a powerful arm! Obtain the favour, by practising austerities, of that same Siva-giver of boons.",
+    "morphology": "tam_tad_SAM"
+  },
+  {
+    "index": 30609,
+    "sanskrit": "pitarau mama vārddhakye vartamānau vyavasthitau | tathā pativratā patnī gṛhadharmavicakṣaṇā || 26 ||",
+    "english": "26. My parents are in their advanced state of senility. My chaste wife is an adept in household chores.",
+    "morphology": "pitarau_pitṛ_DuNM mama_mad_SG vārddhakye_vārddhakya_SLNe vartamānau_vṛt_DuNPaPrM vyavasthitau_vyavasthā_DuNPaM  / tathā_tathā_ pativratā_pativratā_SNF patnī_patnī_SNF gṛha_gṛha_Cp dharma_dharma_Cp vicakṣaṇā_vicakṣaṇa_SNF"
+  },
+  {
+    "index": 30610,
+    "sanskrit": "sāravañjulavistāraguptākhilasarittaṭam / asamāptaśilāśvabhralatāvartanamārutam //",
+    "english": "There were the robust reeds, hedging the banks of rivers with their wide stretching stems and roots, and the strong winds tossing about the tender creepers, growing out of the rocky caves, for want of support.",
+    "morphology": "sāra_sāra_Cp vañjula_vañjula_Cp vistāra_vistāra_Cp gupta_gup_PaCp akhila_akhila_Cp sarit_sarit_Cp taṭam_taṭa_SAM  / asamāpta_asamāpta_Cp śilā_śilā_Cp śvabhra_śvabhra_Cp latā_latā_Cp āvartana_āvartana_Cp mārutam_māruta_SAM  /"
+  },
+  {
+    "index": 30611,
+    "sanskrit": "śaśamānasya vā naraḥ svedasya satya śavasaḥ vida kāmasya venataḥ",
+    "english": "You take notice either of the sweat of him who praises you, ye men of true strength, or of the desire of the suppliant 1.",
+    "morphology": "śaśamānasya_śam_SGPaPsM vā_vā_U naraḥ_nṛ_PNM svedasyā_sveda_SGM satya_satya_Cp śavasā_śavas_SGM vida_vida_Cp kāmasā_kāma_SGM venataḥ_vena_SGM"
+  },
+  {
+    "index": 30612,
+    "sanskrit": "viditāḥ sarva dharmāḥ te sthiti artham anupṛcchasi",
+    "english": "This question that thou askest is only for confirmation of thy conclusions.",
+    "morphology": "viṣṇuḥ_vid_PNPaPsM"
+  },
+  {
+    "index": 30613,
+    "sanskrit": "asurāḥ yātudhānāḥ ca guhyakāḥ ca paraṃtapa karṇataḥ samapadyanta khecarāṇi vayāṃsi ca",
+    "english": "The Asuras, Yatudhanas, the Guhyakas, O scorcher of foes, and ravens and other rangers of the sky, sided with Karna.",
+    "morphology": "asurāḥ_asura_PNM yātudhānāḥ_yātudhāna_PNM ca_ca_U guhyakāḥ_guhyaka_PNM ca_ca_U paraṃtapa_paraṃtapa_SVM karṇataḥ_karṇa_SBM samapadyanta_sampad_PPs3In khecarāṇi_khecara_PNNe vayāṃsi_vayas_PNNe ca_ca_U"
+  },
+  {
+    "index": 30614,
+    "sanskrit": "tato'marāḥ śāṃtabhayā athainaṃ nirīkṣya devaṃ jalamadhyasaṃstham | natvā parikramya tadā samāyayurnirūḍhabhāvāḥ svapuraṃ tataḥ kramāt || 44 ||",
+    "english": "44. Then the Devas saw the Lord stationed in the middle of the waters. Their fright subsided. With great feelings of devotion firmly rooted (in their hearts), they bowed down and circumambulated the Lord. Then they gradually went to their city.",
+    "morphology": "tatas_tatas_ amarāḥ_amara_PNM śāṃta_śam_PaCp bhayāḥ_bhaya_PNM atha_atha_ enam_enad_SAM nirīkṣya_nirīkṣ_Co devam_deva_SAM jala_jala_Cp madhya_madhya_Cp saṃstham_saṃstha_SAM  / natvā_nam_Co parikramya_parikram_Co tadā_tadā_ samāyayu"
+  },
+  {
+    "index": 30615,
+    "sanskrit": "tatraiva hi hrado jātaḥ sarvadaivatavaṃditaḥ | khyātaṃ śivapadaṃ taddhi yatpadā'krāṃtavānvibhuḥ || 20 ||",
+    "english": "20. A pool was formed there itself. It was bowed down to by all the Devas. Since the Lord pressed with his foot, the place is called Śivapada.",
+    "morphology": "tatra_tatra_ eva_eva_ hi_hi_ hradaḥ_hrada_SNM jātaḥ_jan_SNPaM sarva_sarva_Cp daivata_daivata_Cp vaṃditaḥ_vand_SNPaM  / khyātam_khyā_SNPaNe śiva_śiva_Cp padam_pada_SNNe tat_tad_SNNe hi_hi_ yat_yad_SANe padā_pada_SIM ākrāntavān_ākrāntavat_"
+  }
+]

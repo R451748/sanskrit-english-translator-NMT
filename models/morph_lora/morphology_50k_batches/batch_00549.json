@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4384,
+    "sanskrit": "atha [sukhī bhava ] [duḥkhī bhava ] iti tatra kāryaparatvaṃ vyākhyāyate tad api na yuktam īdṛśānām akṣarāṇām aśravaṇāt kalpanāyāś ca niṣphalatvāt /",
+    "english": "Now the opponents may contend that the above two sentences imply 'Be happy' and 'Be sad'. Thus they purport to do some- thing. Such an interpretation is not tenable since no such words which denote an act to be performed (a process) are heard in these sentences.",
+    "morphology": "atha_atha_ sukhī_sukhin_SNM bhava_bhū_SPr2Im  / duḥkhī_duḥkhin_SNM bhava_bhū_SPr2Im iti_iti_ tatra_tatra_ kārya_kārya_Cp para_para_Cp tvam_tva_SNNe vyākhyāyate_vyākhyā_SPr3InPv tat_tad_SNNe api_api_ na_na_ yuktam_yuj_SNPaNe īdṛśāṇām_"
+  },
+  {
+    "index": 4385,
+    "sanskrit": "tatrasthe ca śilāstambhe sa vinyasya vilepanam / vililepa kaṣan pṛṣṭhaṃ yuvā pratyaham ekakaḥ //",
+    "english": "And the young man placed the unguent on a stone pillar that stood there, and so anointed himself every day alone, rubbing his back against it.",
+    "morphology": "tatra_tatra_ sthe_stha_SLM ca_ca_ śilā_śilā_Cp stambhe_stambha_SLM sa_tad_SNM vinyasya_vinyas_Co vilepanam_vilepana_SANe  / vililepa_vilip_SPs3In kaṣan_kaṣ_SNPaPrM pṛṣṭham_pṛṣṭha_SANe yāvā_yāvat_SNM"
+  },
+  {
+    "index": 4386,
+    "sanskrit": "ārupyajāstridhātvāptatrayānāsravagocarāḥ // ārūpyāvacarāsta eva triprakārā dharmā daśānāṃ cittānāmālambanam /",
+    "english": "The same categories of dharmas in Ārūpyadhātu are the objects of three consciousnesses of the three spheres and pure consciousness.",
+    "morphology": "ārupya_ārupya_Cp jāḥ_ja_PNM tri_tri_Cp dhātu_dhātu_Cp āpta_āp_PaCp traya_traya_Cp anāsrava_anāsrava_Cp gocarāḥ_gocara_PNM  // ārūpya_ārūpya_Cp avacarāḥ_avacara_PNM te_tad_PNM eva_eva_ tri_tri_Cp prakārāḥ_prakāra_PNM dharmāḥ_dha"
+  },
+  {
+    "index": 4387,
+    "sanskrit": "idam ca su mahat citram arjunasya iha saṃjaya mahādevena bāhubhyām yat sametaḥ iti śrutiḥ",
+    "english": "This, O Sanjaya, is most marvellous in Arjuna that, as we have heard, he hath been clasped by Mahadeva in his arms.",
+    "morphology": "idam_idam_SNNe ca_ca_U su_su_U mahat_mahat_SNNe citram_citra_SNNe arjunasya_arjuna_SGM iha_iha_U saṃjaya_saṃjaya_SVM mahādevena_mahādeva_SIM"
+  },
+  {
+    "index": 4388,
+    "sanskrit": "prabuddho'smi prahṛṣṭo'smi dṛṣṭaścoro'yamātmanaḥ / mano nāma nihanmyenaṃ manasāsmi ciraṃ hataḥ //",
+    "english": "I am now awakened, and am glad to find out the robber of my soul; it is my own mind, and this I am determined to kill, as it had so long deprived me of the inestimable treasure of my soul.",
+    "morphology": "prabuddhaḥ_prabudh_SNPaM asmi_as_SPr1In prahṛṣṭaḥ_prahṛṣ_SNPaM asmi_as_SPr1In dṛṣṭaḥ_dṛś_SNPaM coraḥ_cora_SNM ayam_idam_SNM ātmanaḥ_ātman_SGM  / manaḥ_manas_SNNe nāma_nāma_ nihanmi_nihan_SPr1In enam_enad_SAM manaḥ_manas"
+  },
+  {
+    "index": 4389,
+    "sanskrit": "dhāvataḥ tasya vīrasya mṛga arthe vāta raṃhasaḥ ūru vāta vinirbhagnān drumān vyāvarjitān pathi",
+    "english": "And on the way were scattered trees pulled down by the wind caused by the thighs of that hero endued with the speed of the wind as he rushed after the deer.",
+    "morphology": "dhāvataḥ_dhāv_SGPaPrM tasya_tad_SGM vīrasya_vīra_SGM mṛga_mṛga_MCp arthe_artha_SLM vāta_vāta_MCp raṃhasaḥ_raṃhas_SGM ūru_ūru_MCp vāta_vāta_MCp vinirbhagnān_vinirbhañj_PAPaPsM"
+  },
+  {
+    "index": 4390,
+    "sanskrit": "rājñyuvāca | na tvayānnaṃ parityājyaṃ sarvamanne pratiṣṭhitam | tasmātsarvaprayatnena mamānnaṃ pratigṛhyatām || 96 || tapasvino mahābhāgā ye cāraṇyanivāsinaḥ | gṛhasthadvāri te sarve yācante'nnamatandritāḥ || 97 ||",
+    "english": "Food should not be discarded by you. Everything is established in food. Hence, by all means accept the foodstuff given by me. Sages of great esteem, those who dwell in forests—all diligently come and beg at the portals of householders.",
+    "morphology": "rājñī_rājñī_SNF uvāca_vac_SPs3In  / na_na_ tvayā_tvad_SI annam_anna_SNNe parityājyam_parityaj_SNNeGd sarvam_sarva_SNNe anne_anna_SLNe pratiṣṭhitam_pratiṣṭhā_SNPaNe  / tasmāt_tasmāt_ sarva_sarva_Cp prayatnena_prayatna_SIM mama_mad_SG ann"
+  },
+  {
+    "index": 4391,
+    "sanskrit": "caturthas tu mahāvīras tadabhyadhikavikramaḥ / te ca prabhāsaṃ divyāstrair yodhayām āsur uddhatāḥ //",
+    "english": "And those haughty chiefs attacked Prabhāsa with heavenly weapons.",
+    "morphology": "caturthaḥ_caturtha_SNM tu_tu_ mahā_mahat_Cp vīraḥ_vīra_SNM tad_tad_Cp abhyadhika_abhyadhika_Cp vikramaḥ_vikrama_SNM  / te_tad_PNM ca_ca_ prabhāsam_prabhāsa_SAM divya_divya_Cp astraiḥ_astra_PINe yodhayām_yodhay_SPs3InPe"
+  }
+]

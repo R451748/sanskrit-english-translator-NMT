@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12184,
+    "sanskrit": "nānyaṃ kariṣyatīti /",
+    "english": "‘Will not bring about another’;",
+    "morphology": "na_na_ anyam_anya_SAM"
+  },
+  {
+    "index": 12185,
+    "sanskrit": "kāruḥ śilpī saṃhataistair dvayoḥ śreṇiḥ sajātibhiḥ //",
+    "english": "Kāru and śilpī denote the artisan. Their union with those of their own caste is called śreṇi, both in the feminine and masculine.",
+    "morphology": "kāruḥ_kāru_SNM śilpī_śilpin_SNM saṃhataiḥ_saṃhan_PIPaM taiḥ_tad_PIM dvayoḥ_dvi_DuGM śreṇiḥ_śreṇi_SNM sajātibhiḥ_sajāti_PIM  /"
+  },
+  {
+    "index": 12186,
+    "sanskrit": "evamādyasya sadbhāve bahu syād asamañjasam //",
+    "english": "Thus, if ‘inherence’ is postulated to exist, then there would be this and many other incongruities.",
+    "morphology": "__evam_U __U __U __U __U __U __U"
+  },
+  {
+    "index": 12187,
+    "sanskrit": "na hi jñānasyānyadrūpaṃ nirddhārayāmo 'nyatrārthānubhavāt /",
+    "english": "We cannot find any other form (or character) of the Cognition, apart from Apprehension.",
+    "morphology": "na_na_ hi_hi_ jñānasya_jñāna_SGNe anyat_anya_SANe rūpam_rūpa_SANe nirddhārayāmaḥ_nirdhāray_PPr1In anyatra_anyatra_"
+  },
+  {
+    "index": 12188,
+    "sanskrit": "atha pṛthvyādayo'nye vā kecidatropakurvate / sahakārikāraṇatvaṃ tatpūrvaṃ cātra dūṣaṇam //",
+    "english": "To say the earth and other elements, to be the accompanying causes of production, is also wrong; since it is impossible for these elements to exist prior to their creation.",
+    "morphology": "atha_atha_ pṛthvī_pṛthvī_Cp ādayaḥ_ādi_PNM anye_anya_PNM vā_vā_ kecid_kaścit_PNM atra_atra_ upakurvate_upakṛ_PPr3In  / sahakāri_sahakārin_Cp kāraṇa_kāraṇa_Cp tvam_tva_SNNe tat_tad_SNNe pūrvam_pūrva_SNNe"
+  },
+  {
+    "index": 12189,
+    "sanskrit": "skaṃda uvāca | ghaṃṭākarṇe gaṇe yāte prayāte ca mahodare | visismāya smaradveṣṭā maulimāṃdolayanmuhuḥ || 42 || uvāca ca manasyeva haraḥ smitvā punaḥpunaḥ | mahāmohanavidyāsi kāśi tvāṃ paryavaimyaham || 43 ||",
+    "english": "42-43. When the Gaṇa Ghaṇṭākarṇa had gone and when Mahodara too had gone, the Enemy of Smara (Lord Śiva) became wonderstruck. Shaking his head frequently and smiling again and again, Hara said in his mind: ‘Oh Kāśī! I know you well that you have a great power of bewitching others.",
+    "morphology": "skaṃdaḥ_skanda_SNM uvāca_vac_SPs3In  / ghaṃṭākarṇe_ghaṃṭākarṇa_SLM gaṇe_gaṇa_SLM yāte_yā_SLPaM prayāte_prayā_SLPaM ca_ca_ mahodare_mahodara_SLM  / visismāya_vismi_SPs3In smara_smara_Cp dveṣṭā_dveṣṭṛ_SNM maulim_mauli_S"
+  },
+  {
+    "index": 12190,
+    "sanskrit": "ati trī soma rocanā rohan na bhrājase divam iṣṇan sūryam na codayaḥ",
+    "english": "Soma, thou shinest mounting heaven as 'twere above light's triple realm, And moving secm'st to speed the Sun.",
+    "morphology": "ati_ati_U trī_tri_PANe soma_soma_SVM rocanā_rocana_PANe rohan_ruh_SNPaPrM na_na_U bhrājase_bhrāj_SPr2In divaḥ_div_SIM"
+  },
+  {
+    "index": 12191,
+    "sanskrit": "sā tac chrutvaiva cāgatya bhūlokaṃ siddhatāpasī / sthitaṃ kṣetre 'mareśasya hiraṇyākṣaṃ tam abhyadhāt // ehi vaidyādharaṃ lokaṃ putrety uktvā kareṇa sā / praṇataṃ taṃ samādāya bāhāvudapatan nabhaḥ //",
+    "english": "And the holy ascetic returned to the earth, and said to Hiraṇyākṣa, who was in the temenos of Amareśa: “Come to the world of Vidyādharas.” When she said this, he bent before her, and she took him up in her arms, and flew up with him to heaven.",
+    "morphology": "sā_tad_SNF tat_tad_SANe śrutvā_śru_Co eva_eva_ ca_ca_ āgatya_āgam_Co bhū_bhū_Cp lokam_loka_SAM siddha_siddha_Cp tāpasī_tāpasī_SNF  / sthitam_sthā_SAPaM kṣetre_kṣetra_SLNe amara_amara_Cp īśasya_īśa_SGM hiraṇyākṣam_hiraṇyākṣa_S"
+  }
+]

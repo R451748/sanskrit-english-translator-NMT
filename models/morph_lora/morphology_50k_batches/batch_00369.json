@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2944,
+    "sanskrit": "tathānyair vṛṣṇivīrāṇāṃ nṛpāṇāṃ ca mahātmanām / yuddham āsīd dhi sainyānāṃ sainikair bharatarṣabha //",
+    "english": "Thus did the great heroes and soldiers, belonging to the army of Vrishnis, fight for twenty-seven days with the highly powerful sovereigns and soldiers of the king of Magadha's party -.",
+    "morphology": "tathā_tathā_ anyaiḥ_anya_PIM vṛṣṇi_vṛṣṇi_Cp vīrāṇām_vīra_PGM nṛpāṇām_nṛpa_PGM ca_ca_ mahātmanām_mahātman_PGM  / yuddham_yuddha_SNNe āsīt_as_S3ImIn hi_hi_ sainyānām_sainya_PGNe sainikaiḥ_sainika_PIM bharata_bharata_Cp "
+  },
+  {
+    "index": 2945,
+    "sanskrit": "anumānya raṇe bhīṣmam itas aham dvipadām varam",
+    "english": "After Bhishma will have retired from the fight, thou wilt smite (the foe) in battle'.",
+    "morphology": "anumānya_anumānay_Co raṇe_raṇa_SLM bhīṣmam_bhīṣma_SAM"
+  },
+  {
+    "index": 2946,
+    "sanskrit": "mūrkhasyāpi svakarmaiva śreyase kimu sanmateḥ / matirgaladahaṃkārā patitāpi na lipyate //",
+    "english": "Seeing even the ignorant stick fast to the proper duties of their race, no intelligent person can neglect or set them at naught; and the mind that is devoid of vanity, cannot be ashamed or dejected, even if one fails or falls in the discharge of his duty.",
+    "morphology": "mūrkhasya_mūrkha_SGM api_api_ sva_sva_Cp karma_karman_SNNe eva_eva_ śreyase_śreyas_SDNe kimu_kimu_ sat_sat_Cp mateḥ_mati_SGM  / matiḥ_mati_SNF galat_gal_PaPrCp ahaṃkārā_ahaṃkāra_SNF patitā_pat_SNPaF api_api_ na_na_ lipyate_lip_SPr3InPv  /"
+  },
+  {
+    "index": 2947,
+    "sanskrit": "bṛhaspates tu bhaginī varastrī brahmacāriṇī / yogasiddhā jagat kṛtsnam asaktā vicacāra ha //",
+    "english": "Shorn of attachment Vrihaspati's sister, the beautiful Yogasiddhā, who led a life of celibacy, ranged all over the earth.",
+    "morphology": "bṛhaspateḥ_bṛhaspati_SGM tu_tu_ bhaginī_bhaginī_SNF vara_vara_Cp strī_strī_SNF brahmacāriṇī_brahmacārin_SNF  / yogasiddhā_yogasiddhā_SNF jagat_jagant_SANe kṛtsnam_kṛtsna_SANe asaktā_asakta_SNF vicacāra_vicar_SPs3In ha_ha_  /"
+  },
+  {
+    "index": 2948,
+    "sanskrit": "tadaiva vītahavyo'sau śrṛṇu kiṃ nopaśāntavān / dehamutsṛjya tattvajño jñātajñeyavatāṃ varaḥ //",
+    "english": "It was in this manner that this sage, who knew the truth, and was best acquainted with the knowledge of the knowable, left his earthy body, in order to find the rest of his soul in the Supreme Spirit.",
+    "morphology": "tadā_tadā_ eva_eva_ vītahavyaḥ_vītahavya_SNM asau_adas_SNM śrṛṇu_śru_SPr2Im kim_ka_SANe nā_na_ upaśāntavān_upaśam_SNPaM  / deham_deha_SAM utsṛjya_utsṛj_Co tattva_tattva_Cp jñaḥ_jña_SNM jñāta_jñā_PaCp jñeyavatām_jñeyavat_PGM "
+  },
+  {
+    "index": 2949,
+    "sanskrit": "na nāma tasya kiṃcid apy anauṣadhaṃ,",
+    "english": "For him there was nothing that was not a medicine,",
+    "morphology": "na_na_ nāma_nāman_SNNe tasya_tad_SGM kiṃcid_kaścit_SNNe api_api_ anauṣadham_anauṣadha_SNNe"
+  },
+  {
+    "index": 2950,
+    "sanskrit": "sahetusapratyayasanidānasūtrakrameṇa vā bījakṣetrabhāvaṃ pratipādayatā vijñānādayo 'ṣyuktāḥ /",
+    "english": "That consciousness and the other skandhas are the origin of suffering results again from the fact that the Sūtra declares that they are respectively seed and field.",
+    "morphology": "sa_sa_ hetu_hetu_Cp sa_sa_ pratyaya_pratyaya_Cp sa_sa_ nidāna_nidāna_Cp sūtra_sūtra_Cp krameṇa_krama_SIM vā_vā_ bīja_bīja_Cp kṣetra_kṣetra_Cp bhāvam_bhāva_SAM pratipādayatā_pratipāday_SIPaPrM vijñāna_vijñāna_Cp ādayaḥ_ādi_PNM  /"
+  },
+  {
+    "index": 2951,
+    "sanskrit": "sa gāḍha viddhaḥ vyathitaḥ pratyapāyāt ratha antaram duryodhanaḥ mahā rāja dāśārha śara pīḍitaḥ",
+    "english": "Deeply pierced by Satyaki and feeling great pain, Duryodhana, O king, in great distress, sought shelter in another car.",
+    "morphology": "sa_tad_SNM gāḍha_gāḍha_Cp viddhaḥ_vyadh_SNPaPsM vyathitaḥ_vyath_SNPaPsM pratyapāyāt_pratyapayā_SPs3In ratha_ratha_MCp antaram_antara_SANe duryodhanaḥ_duryodhana_SNM mahā_mahat_Cp rāja_rāja_MCp dāśārha_dāśārha_MCp śara_śara_MCp pī"
+  }
+]

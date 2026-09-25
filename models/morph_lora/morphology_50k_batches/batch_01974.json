@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15784,
+    "sanskrit": "prabhūpakaṃṭhagatyarthaṃ vṛttāṃtaṃ saṃnyavedayat | taddvārapāya cājñaptastenānyaṃ praviveśa ha ||",
+    "english": "8. They informed the gatekeeper of their desire to approach the lord. Permitted by them they entered and saw another door.",
+    "morphology": "prabhu_prabhu_Cp upakaṇṭha_upakaṇṭha_Cp gati_gati_Cp artham_artha_SAM vṛttāṃtam_vṛttāṃta_SAM saṃnyavedayat_saṃniveday_S3ImIn  / tad_tad_Cp dvārapāya_dvārapa_SDM ca_ca_ ājñaptaḥ_ājñapay_SNPaM tena_tad_SIM anyam_anya_SAM praviv"
+  },
+  {
+    "index": 15785,
+    "sanskrit": "vikalpānugatātmabhir iti / savikalpair ity arthaḥ /",
+    "english": "‘Vikalpānugatātmabhiḥ’ i.e. with Conceptual (Determinate) Cognitions.",
+    "morphology": "vikalpa_vikalpa_Cp anugata_anugam_PaCp ātmabhiḥ_ātman_PIM iti_iti_  / sa_sa_"
+  },
+  {
+    "index": 15786,
+    "sanskrit": "nirucyante mahat tvāt ca vibhu tvāt karmabhiḥ tathā",
+    "english": "Verily, the meanings of those names are derived from either his greatness or vastness, or his feats, or his conduct.",
+    "morphology": "nirucyante_nirvac_PPr3InPv"
+  },
+  {
+    "index": 15787,
+    "sanskrit": "bhāvabhaktisamā yuktā maṃtrasaṃyojanena ca | devī mantrasamāyātā tvayā vālukayā'rcitā || 19 ||",
+    "english": "19. Urged by emotional purity and devout feelings with the Mantras added on, the goddess who came to you through the invocation of Mantras was adored by you with sand particles.",
+    "morphology": "bhāva_bhāva_Cp bhakti_bhakti_Cp samā_sama_SNF yuktā_yuj_SNPaF maṃtra_mantra_Cp saṃyojanena_saṃyojana_SINe ca_ca_  / devī_devī_SNF mantra_mantra_Cp samāyātā_samāyā_SNPaF"
+  },
+  {
+    "index": 15788,
+    "sanskrit": "kaṃdarpo 'pi bhramandaivāttatprāpa nagaraṃ kila / yatra rūpavatīṃ tāṃ sa kesaṭaḥ pariṇītavān //",
+    "english": "And Kandarpa, in the course of his wanderings, happened to visit that very city where Keśaṭa married Rūpavatī.",
+    "morphology": "kaṃdarpaḥ_kandarpa_SNM api_api_ bhraman_bhram_SNPaPrM daivāt_daiva_SBNe tat_tad_SANe prāpa_prāp_SPs3In nagaram_nagara_SANe kila_kila_  / yatra_yatra_ rūpavatīm_rūpavat_SAF tām_tad_SAF sa_tad_SNM kesaṭaḥ_kesaṭa_SNM pariṇītavan_pariṇī_"
+  },
+  {
+    "index": 15789,
+    "sanskrit": "balam tava āyuḥ ca cirāya vardhatām",
+    "english": "Thy foes are being exterminated.",
+    "morphology": "balam_bala_SNNe"
+  },
+  {
+    "index": 15790,
+    "sanskrit": "tacchuśrūṣasva bhadraṃ te brāhmaṇācchaddhayāsaha | śūdrasya dvijaśuśrūṣā manvādibhirudīritā || 41 ||",
+    "english": "41-44. Therefore, welfare unto you. Render service to Brāhmaṇas with great faith. Rendering service to the Twice-born has been mentioned by Manu and others (as the duty) of a Śūdra. It does not behove you to forsake your natural duty.",
+    "morphology": "tat_tad_SANe śuśrūṣasva_śuśrūṣ_SPr2Im bhadram_bhadra_SNNe te_tvad_SG brāhmaṇāt_brāhmaṇa_SBM śaddhayā_śaddhā_SIF saha_saha_  / śūdrasya_śūdra_SGM dvija_dvija_Cp śuśrūṣā_śuśrūṣā_SNF"
+  },
+  {
+    "index": 15791,
+    "sanskrit": "brahmajñānanidhiḥ sākṣānnāradaḥ pratyuvāca yat | na hi vedāṃtavacaso'parasmājjñānamasya vai || 4 || na hi pravṛttirviṣṇostu vinā vedaṃ pravartate | pareṣāṃ svasya vā sṛṣṭau śrutiprāmāṇyavānprabhuḥ || 5 ||",
+    "english": "Nārada himself, who is a storehouse of the knowledge of Brahman, has told you that the knowledge of this (Lord) cannot be had from anything other than the words of Vedanta. Indeed the activity of Viṣṇu cannot go on without the Vedas. Whether it is the creation of others or manifestation of himself, the Lord honours the authority of the Vedas.",
+    "morphology": "brahma_brahman_Cp jñāna_jñāna_Cp nidhiḥ_nidhi_SNM sākṣāt_sākṣāt_ nāradaḥ_nārada_SNM pratyuvāca_prativac_SPs3In yat_yad_SANe  / na_na_ hi_hi_ vedāṃta_vedāṃta_Cp vacasaḥ_vacas_SBNe aparasmāt_apara_SBNe jñānam_jñāna_SNNe asya_i"
+  }
+]

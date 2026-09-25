@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22544,
+    "sanskrit": "daṇḍaka araṇyam āsādya mahā rājaḥ upaspṛśet",
+    "english": "Arriving next at the sacred forest of Dandaka, a person should bathe (in the waters) there.",
+    "morphology": "daṇḍaka_daṇḍaka_MCp araṇyam_araṇya_SANe āsādya_āsāday_Co"
+  },
+  {
+    "index": 22545,
+    "sanskrit": "śardham śardham vaḥ eṣām vrātam vrātam gaṇam gaṇam suśasti bhiḥ anu krāmema dhīti bhiḥ",
+    "english": "With eulogies and hymns may we follow your army, troop by troop, and band by band, And company by company.",
+    "morphology": "śardham_śardha_SAM śardham_śardha_SAM vaḥ_tvad_PG eṣām_idam_PGM vrātam_vrāta_SAM vrātam_vrāta_SAM gaṇam_gaṇa_SAM gaṇam_gaṇa_SAM suśasti_suśasti_SIF"
+  },
+  {
+    "index": 22546,
+    "sanskrit": "tān abhyanujñāya tadā ati duḥkhāt gadam tathā eva atibalam ca rāmam",
+    "english": "Bidding them farewell with a sorrowful heart, I then repaired to Gada and to Rama of great might.",
+    "morphology": "tān_tad_PAM abhyanujñāya_abhyanujñā_Co tadā_tadā_U ati_ati_U duḥkhāt_duḥkha_SBNe gadam_gada_SAM tathā_tathā_U eva_eva_U atibalam_atibala_SAM ca_ca_U"
+  },
+  {
+    "index": 22547,
+    "sanskrit": "raibhya uvāca | ayodhyāyāmasti tīrthaṃ pāvanaṃ paramaṃ mahat | tatra snānaṃ kuruṣvādya sauṃdaryaṃ paramāpnuhi || 102 || tvannāmnaiva ca vikhyātiṃ toyaṃ yāsyati taddhruvam || 103 ||",
+    "english": "102-103. In Ayodhyā there is an extremely great and holy Tīrtha. Do take your holy bath therein and regain your great beauty. Certainly that Tīrtha will acquire fame after your name.",
+    "morphology": "raibhyaḥ_raibhya_SNM uvāca_vac_SPs3In  / ayodhyāyām_ayodhyā_SLF asti_as_SPr3In tīrtham_tīrtha_SNNe pāvanam_pāvana_SNNe paramam_parama_SNNe mahat_mahat_SNNe  / tatra_tatra_ snānam_snāna_SANe kuruṣva_kṛ_SPr2Im adya_adya_ sauṃdaryam_saundary"
+  },
+  {
+    "index": 22548,
+    "sanskrit": "yuyudhuḥ samare devyā saha śastrāstrapāragāḥ | itthaṃ kālo vyatīyāya yudhyatorbhīṣaṇastayoḥ ||",
+    "english": "39. As they, the masters of weapons and missiles, fought with the goddess in the battle a terribly long time elapsed.",
+    "morphology": "yuyudhuḥ_yudh_PPs3In samare_samara_SLNe devyā_devī_SIF saha_saha_ śastra_śastra_Cp astra_astra_Cp pāragāḥ_pāraga_PNM  / ittham_ittham_ kālaḥ_kāla_SNM vyatīyāya_vyatī_SPs3In yudhyatoḥ_yudh_DuGPaPrM bhīṣaṇaḥ_bhīṣaṇa_SNM tayo"
+  },
+  {
+    "index": 22549,
+    "sanskrit": "bhojayām āsa tac chrutvā vasiṣṭho 'py asya cukrudhe //",
+    "english": "Hearing it Vashishtha was enraged. The revered Rishi, worked up with anger, then said to the prince.",
+    "morphology": "bhojayām_bhojay_SPs3InPe āsa_as_SPs3In tat_tad_SANe śrutvā_śru_Co vasiṣṭhaḥ_vasiṣṭha_SNM api_api_ asya_idam_SGM cukrudhe_krudh_SPs3In  /"
+  },
+  {
+    "index": 22550,
+    "sanskrit": "bahūni ca sahasrāṇi prayutāni arbudāni ca rathena anena daityānām jitavān maghavā yudhi",
+    "english": "And mounted on this car also Maghavan, had conquered in battle many thousands and millions and hundreds of millions of Daityas.",
+    "morphology": "bahūni_bahu_PANe ca_ca_U sahasrāṇi_sahasra_PANe prayutāni_prayuta_PANe arbudāni_arbuda_PANe ca_ca_U rathena_ratha_SIM anena_idam_SIM daityānām_daitya_PGM jitavān_ji_SNPaPsM maghavā_maghavan_SNM"
+  },
+  {
+    "index": 22551,
+    "sanskrit": "jayākhilajñānamaya jaya sthūlamayāvyaya / jayānanta jayāvyakta jaya vyaktamaya prabho // parāparātmanviśvātmañjaya yajña pate 'nagha / tvaṃ yajñastvaṃ paṣaṭkārastvamoṅkārastvamagnayaḥ //",
+    "english": "Triumph to the essence of all wisdom, to the unchangeable, the imperishable triumph to the eternal to the indiscrete, to the essence of discrete things to him who is both cause and effect who is the universe the sinless lord of sacrifice triumph.",
+    "morphology": "jaya_ji_SPr2Im akhila_akhila_Cp jñāna_jñāna_Cp maya_maya_SVM jaya_ji_SPr2Im sthūla_sthūla_Cp maya_maya_SVM avyaya_avyaya_SVM  / jaya_ji_SPr2Im ananta_ananta_SVM jaya_ji_SPr2Im avyakta_avyakta_SVM jaya_ji_SPr2Im vyakta_vyakta_Cp maya_maya_SVM prabho_p"
+  }
+]

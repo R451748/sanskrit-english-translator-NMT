@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20904,
+    "sanskrit": "te nādhītaṃ guroḥ sarvaṃ te na sarvamanuṣṭhitam | yena vipreṇa śirasi tripuṃḍraṃ bhasmanā kṛtam ||",
+    "english": "31. If a brahmin wears the Tripuṇḍra with the ash on his forehead he must be considered as having learnt everything from the preceptor and as having performed every sacred rite.",
+    "morphology": "te_tvad_SG na_na_ adhītam_adhī_SNPaNe guroḥ_guru_SGM sarvam_sarva_SNNe te_tvad_SG na_na_ sarvam_sarva_SNNe anuṣṭhitam_anuṣṭhā_SNPaNe  / yena_yad_SIM vipreṇa_vipra_SIM śirasi_śiras_SLNe tripuṇḍram_tripuṇḍra_SNNe bhasmanā_bhasman_SI"
+  },
+  {
+    "index": 20905,
+    "sanskrit": "candraṃ ca svāminaṃ prāpya śobhamānā viśeṣataḥ | candro'pi caiva tāḥ prāpya śobhate sma nirantaram ||",
+    "english": "6. On securing the moon as their lord, those daughters shone extraordinarily. The moon too, on securing them shone incessantly.",
+    "morphology": "candram_candra_SAM ca_ca_ svāminam_svāmin_SAM prāpya_prāp_Co śobhamānāḥ_śubh_PNPaPrF viśeṣataḥ_viśeṣataḥ_  / candraḥ_candra_SNM api_api_ ca_ca_ eva_eva_ tāḥ_tad_PAF prāpya_prāp_Co śobhate_śubh_SPr3In sma_sma_ nirantaram_niranta"
+  },
+  {
+    "index": 20906,
+    "sanskrit": "tasya pañcapadāḥ paṅktayo yājyānuvākyā bhavanti pañca vā ṛtava ṛtūnprāviśadṛtubhya evainametannirmimīte //",
+    "english": "Its offering prayers and invitatory prayers consist of paṅkti strophes of five pâdas each ; for there are five seasons, and the seasons he (Agni) entered: from the seasons he accordingly produces him.",
+    "morphology": "tasya_tad_SGM pañca_pañcan_Cp padāḥ_pada_PNF paṅktayaḥ_paṅkti_PNF yājyā_yājyā_Cp anuvākyāḥ_anuvākyā_PNF bhavanti_bhū_PPr3In pañca_pañcan_PNM vai_vai_ ṛtavaḥ_ṛtu_PNM ṛtūn_ṛtu_PAM prāviśat_praviś_S3ImIn ṛtubhyaḥ_ṛt"
+  },
+  {
+    "index": 20907,
+    "sanskrit": "daśa dadyāt caraṇayoḥ eṣā pretasya niṣkṛtiḥ",
+    "english": "A Kudava is equal to about twelve double handfuls.",
+    "morphology": "daśa_daśan_SANe dadyāt_dā_SPr3O caraṇayoḥ_caraṇa_DuLM eṣā_etad_SNF pretasya_preta_SGM niṣkṛtiḥ_niṣkṛti_SNF"
+  },
+  {
+    "index": 20908,
+    "sanskrit": "chatra ādiṣu viśeṣeṣu muktam mām viddhi sarvaśas",
+    "english": "Know that I am truly freed from all vanity in respect of my royal umbrella and sceptre.",
+    "morphology": "chatra_chattra_NeCp ādiṣu_ādi_PLM viśeṣeṣu_viśeṣa_PLM muktam_muc_SAPaPsM mām_mad_SA viddhi_vid_SPr2Im"
+  },
+  {
+    "index": 20909,
+    "sanskrit": "vāyubhakṣaṇatonyatra yatpuṇyaṃ śaradāṃ śatam | tatpuṇyaṃ ghaṭikārdhena maunaṃ dakṣiṇamaṃḍape || 63 ||",
+    "english": "65. By observing silence for half a Ghaṭikā in the Southern Maṇḍapa, one attāins the same merit as is obtained elsewhere through the austerity of living solely on the intake of wind for a hundred years.",
+    "morphology": "vāyu_vāyu_Cp bhakṣaṇataḥ_bhakṣaṇa_SBNe nyatra_nyatra_ yat_yad_SNNe puṇyam_puṇya_SNNe śaradām_śarad_PGF śatam_śata_SANe  / tat_tad_SNNe puṇyam_puṇya_SNNe ghaṭikā_ghaṭikā_Cp ardhena_ardha_SINe maunam_mauna_SNNe dakṣiṇa_dak"
+  },
+  {
+    "index": 20910,
+    "sanskrit": "asaṃrambhā iti /",
+    "english": "‘Without anger’ Free from anger.",
+    "morphology": "a_a_ saṃrambhāḥ_saṃrambha_PNM"
+  },
+  {
+    "index": 20911,
+    "sanskrit": "no 'smākaṃ yaś ca bhargaś ca sarveṣāṃ prāṇināṃ dhiyaḥ // codayāt prerayed buddhīrbhoktṝṇāṃ sarvakarmasu /",
+    "english": "The word naḥ means ‘our’ May that Bharga who is in the intellects of all beings prompt the intellects of those who enjoy in all their acts and results seen and unseen.",
+    "morphology": "naḥ_mad_PG asmākam_mad_PG yaḥ_yad_SNM ca_ca_ bhargaḥ_bharga_SNM ca_ca_ sarveṣām_sarva_PGM prāṇinām_prāṇin_PGM dhiyaḥ_dhī_PNF  / codayāt_coday_SPr3Su prerayet_preray_SPr3O buddhīḥ_buddhi_PAF bhoktṝṇām_bhoktṛ_PGM sarva_sarva_Cp"
+  }
+]

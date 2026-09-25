@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1320,
+    "sanskrit": "yanmanyase 'nyasminvijñāte 'nyanna jñāyata iti /",
+    "english": "You think that the knowledge of one thing cannot make another thing known",
+    "morphology": "yat_yat_"
+  },
+  {
+    "index": 1321,
+    "sanskrit": "hemakartāraḥ pakṣiṇaḥ //",
+    "english": "\"Hemakartṛs\" is the name of a bird.",
+    "morphology": "hema_heman_Cp kartāraḥ_kartṛ_PNM"
+  },
+  {
+    "index": 1322,
+    "sanskrit": "devasya anumatam matvā praṇamya śirasā tatas",
+    "english": "That mighty Being then set out, having obtained the permission of Mahadeva and having bowed his head unto him.",
+    "morphology": "devasya_deva_SGM anumatam_anumata_SANe matvā_man_Co"
+  },
+  {
+    "index": 1323,
+    "sanskrit": "vrajādhīśasya putro 'yaṃ bhūtvā steyaṃ samācaretna mayā kathitaṃ kiñcid yaśode tava gauravāt",
+    "english": "He is the son of Vraja's king. He should not steal. O Yaśodā, there are some other things also that, out of respect for you, I have not told.",
+    "morphology": "vraja_vraja_Cp adhīśasya_adhīśa_SGM putraḥ_putra_SNM ayam_idam_SNM bhūtvā_bhū_Co steyam_steya_SANe samācaret_samācar_SPr3O na_na_ mayā_mad_SI kathitam_kathay_SNPaNe"
+  },
+  {
+    "index": 1324,
+    "sanskrit": "tasmiṃstasminvastuni rūḍhiravaśyaṃ śivātmikā bhavati | tattvamidametadātmakametasmātproddhṛto mayā śiṣyaḥ |",
+    "english": "-a Sri Tantrāloka From within all the unsteadiness of the curvature of consciousness, if anyone happens to fix it to a certain objective, that objective whatsoever is sure to become Śiva itself. It is with this psychology that I have tried to impress the student.",
+    "morphology": "tasmin_tad_SLNe tasmin_tad_SLNe vastuni_vastu_SLNe rūḍhiḥ_rūḍhi_SNF avaśyam_avaśyam_ śiva_śiva_Cp ātmakā_ātmaka_SNF bhavati_bhū_SPr3In  / tattvam_tattva_SNNe idam_idam_SNNe etat_etad_SNNe ātmakam_ātmaka_SNNe etasmāt_etad_SBNe proddhṛta"
+  },
+  {
+    "index": 1325,
+    "sanskrit": "sa teṣu ātmānam uddiśya pitryam cakre yathāvidhi",
+    "english": "The puissant Vishnu dedicated those balls of mud unto his own self, according to the rites laid down in the eternal ordinance.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 1326,
+    "sanskrit": "uktaṃ ca śivatanāvidamadhikārapadasthitena guruṇā naḥ | aṣṭānāṃ devānāṃ śaktyāvirbhāvayonayohyetāḥ |",
+    "english": "This has been stated by our teacher Brhaspati in his text titled Siva-Tanu as an authority. According to his statement these eight kinds of divine species are manifestations of their forces of consciousness.",
+    "morphology": "uktam_vac_SNPaNe ca_ca_ śivatanau_śivatanu_SLM idam_idam_SNNe adhikāra_adhikāra_Cp pada_pada_Cp sthitena_sthā_SIPaM guruṇā_guru_SIM naḥ_mad_PG  / aṣṭānām_aṣṭan_PGM devānām_deva_PGM śakti_śakti_Cp āvirbhāva_āvirbhāva_Cp yonayaḥ"
+  },
+  {
+    "index": 1327,
+    "sanskrit": "iti śrīskāṃde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ dvitīye vaiṣṇavakhaṇḍe brahmaviṣṇusaṃvāde mārgaśīrṣamāhātmye dīpamāhātmyavarṇanaṃnāma aṣṭamo'dhyāyaḥ || 8 ||",
+    "english": "VV 33-43 describe the efficacy of offering lamps to the deity; the last two verses state the imprecation for violators of this service.[Sanskrit text for this chapter is available]",
+    "morphology": "iti_iti_ śrī_śrī_Cp skāṃde_skānda_SLNe mahāpurāṇe_mahāpurāṇa_SLNe ekāśīti_ekāśīti_Cp sāhasryām_sāhasra_SLF saṃhitāyām_saṃhitā_SLF dvitīye_dvitīya_SLM vaiṣṇava_vaiṣṇava_Cp khaṇḍe_khaṇḍa_SLM brahma_brahman_Cp"
+  }
+]

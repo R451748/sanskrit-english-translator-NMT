@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44968,
+    "sanskrit": "śuṣkam bhavati yat ca api rocanā cūrṇa saṃnibham",
+    "english": "A non-slimy and thick flow of yellow-coloured urine attended with a burning sensation, and leaving a sediment like powdered Rocana when dried, is called (Pittaja) Mutraukasada.",
+    "morphology": "śuṣkam_śuṣka_SNNe bhavati_bhū_SPr3In yat_yad_SNNe ca_ca_U api_api_U rocanā_rocanā_FCp cūrṇa_cūrṇa_NeCp"
+  },
+  {
+    "index": 44969,
+    "sanskrit": "kṛtaṃ karaṇīyam,",
+    "english": "done is what ought to be done,",
+    "morphology": "kṛtam_kṛ_SNPaNe"
+  },
+  {
+    "index": 44970,
+    "sanskrit": "chādanād ropaṇāc caiva nayanāt saṃparigrahāt / pūraṇāt triparicchedād upabhogāc ca karṣaṇāt //",
+    "english": "\"Because of concealment, planting, conducting, and holding fast; because of filling up, the triple distinguishing, experiencing, being pulled along;",
+    "morphology": "chādanāt_chādana_SBNe ropaṇāt_ropaṇa_SBNe ca_ca_ eva_eva_ nayanāt_nayana_SBNe saṃparigrahāt_samparigraha_SBM  / pūraṇāt_pūraṇa_SBNe tri_tri_Cp paricchedāt_pariccheda_SBM upabhogāt_upabhoga_SBM ca_ca_ karṣaṇāt_karṣaṇa_SBNe  /"
+  },
+  {
+    "index": 44971,
+    "sanskrit": "pañcagavyaṃ prasiddham /",
+    "english": "\"Five Products of the Cow\" These are wellknown.",
+    "morphology": "pañcagavyam_pañcagavya_SNNe prasiddham_prasidh_SNPaNe  /"
+  },
+  {
+    "index": 44972,
+    "sanskrit": "anaṅgena kṛtāmādau vakṣye 'naṅgatrayodaśīṃ //",
+    "english": "shall describe Anaṅgatrayodaśī the thirteenth day of God of love that was done at first by the God of love.",
+    "morphology": "anaṅgena_anaṅga_SIM kṛtām_kṛ_SAPaF ādau_ādi_SLM vakṣye_vac_SFu1In anaṅgatrayodaśīm_anaṅgatrayodaśī_SAF  /"
+  },
+  {
+    "index": 44973,
+    "sanskrit": "rudrāṃśako bhavedvīra indrāṃśaśceśvarapriyaḥ /",
+    "english": "The formulae of Rudra are called Vīras. Those pertaining to Indra are dear to Īśvara.",
+    "morphology": "rudra_rudra_Cp aṃśakaḥ_aṃśaka_SNM bhavet_bhū_SPr3O vīraḥ_vīra_SNM indra_indra_Cp aṃśaḥ_aṃśa_SNM ca_ca_ īśvara_īśvara_Cp priyaḥ_priya_SNM  /"
+  },
+  {
+    "index": 44974,
+    "sanskrit": "tam upākṛtya gaccheyam anujñātaḥ tvayā vibho gautamaḥ uvāca",
+    "english": "Having brought it, I shall go hence, O lord, with thy permission.' \"Gautama said.",
+    "morphology": "tam_tad_SAM upākṛtya_upākṛ_Co gaccheyam_gam_SPr1O anujñātaḥ_anujñā_SNPaPsM tvayā_tvad_SI vibho_vibhu_SVM gautamaḥ_gautama_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 44975,
+    "sanskrit": "vibhāgam kīrtayati eva supratīkaḥ atha nityaśas",
+    "english": "And Supritika would always speak of partition.",
+    "morphology": "vibhāgam_vibhāga_SAM kīrtayati_kīrtay_SPr3In eva_eva_U supratīkaḥ_supratīka_SNM atha_atha_U nityaśas_nityaśas_U"
+  }
+]

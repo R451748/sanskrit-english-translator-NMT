@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25096,
+    "sanskrit": "āgacchat brāhmaṇaḥ kaḥ cit svarga lokāt ariṃdama brahma lokāt ca durdharṣaḥ saḥ asmābhiḥ pūjitaḥ abhavat",
+    "english": "O chastiser of foes, on one occasion, a Brahmana came to us from the regions of Heaven.",
+    "morphology": "āgacchat_āgam_SNPaPrM brāhmaṇaḥ_brāhmaṇa_SNM kaḥ_ka_SNM cit_cit_U svarga_svarga_MCp lokāt_loka_SBM ariṃdama_ariṃdama_SVM brahma_brahman_MCp lokāt_loka_SBM ca_ca_U durdharṣaḥ_durdharṣa_SNM saḥ_tad_SNM asmābhiḥ_mad_PI pūjitaḥ_"
+  },
+  {
+    "index": 25097,
+    "sanskrit": "tapasā caiva mahatā jātā vṛddhasya cātmajāḥ //",
+    "english": "By carrying on hard austerities he got all those sons in his old age, descendant of Bharata.",
+    "morphology": "tapasā_tapas_SINe ca_ca_ eva_eva_ mahatā_mahat_SINe jātāḥ_jan_PNPaM vṛddhasya_vṛddha_SGM ca_ca_ ātmajāḥ_ātmaja_PNM  /"
+  },
+  {
+    "index": 25098,
+    "sanskrit": "niścayo'yamabhūttasya kāryākāryavihāriṇaḥ / jāgratastiṣṭhato vāpi tajjñānāṃ tena satyatā //",
+    "english": "He is quite confident in his certain knowledge of the main truth, both when he is employed in his active duties, in his waking state as well as when he remains quiet at his leisure.",
+    "morphology": "niścayaḥ_niścaya_SNM ayam_idam_SNM abhūt_bhū_SPs3In tasya_tad_SGM kārya_kārya_Cp akārya_akārya_Cp vihāriṇaḥ_vihārin_SGM  / jāgrataḥ_jāgṛ_SGPaPrM tiṣṭhataḥ_sthā_SGPaPrM vā_vā_ api_api_ tad_tad_Cp jñānām_jña_PGM tena_tena_ "
+  },
+  {
+    "index": 25099,
+    "sanskrit": "mārtaṇḍasyātmajāv etāv aṣṭamasya prajāpateḥ //",
+    "english": "They were the sons of the eighth Patriarch Mārtanda.",
+    "morphology": "mārtaṇḍasya_mārtaṇḍa_SGM ātmajau_ātmaja_DuNM etau_etad_DuNM aṣṭaṇḍaḥ_aṣṭaṇḍa_SNM prajāpateḥ_prajāpati_SGM  /"
+  },
+  {
+    "index": 25100,
+    "sanskrit": "pratyakṣa hetavaḥ yogāḥ sāṃkhyāḥ śāstra viniścayāḥ",
+    "english": "The evidences of Yoga are addressed to the direct ken of the senses; those of Sankhya are based on the scriptures.",
+    "morphology": "pratyakṣa_pratyakṣa_NeCp hetavaḥ_hetu_PNM"
+  },
+  {
+    "index": 25101,
+    "sanskrit": "imam eva cā'rthamadhikṛtyoktā gāthā kleśo bodhynga āpanno mohopāyaprayogataḥ /",
+    "english": "With reference to this very matter, a verse has been composed Moral defilement becomes a limb of enlightenment for one who employs the mighty expedients and even samsāra has the nature of appeasement.",
+    "morphology": "imam_idam_SAM eva_eva_ ca_ca_ artham_artha_SAM adhikṛtya_adhikṛ_Co uktā_vac_SNPaF gāthā_gāthā_SNF kleśaḥ_kleśa_SNM bodhi_bodhi_Cp ngaḥ_nga_SNM āpannaḥ_āpad_SNPaM moha_moha_Cp upāya_upāya_Cp prayogataḥ_prayoga_SBM"
+  },
+  {
+    "index": 25102,
+    "sanskrit": "iti śrīskāṃde mahāpurāṇa ekāśītisāhasyā saṃhitāyāṃ caturthe kāśīkhaṃḍe pūrvārddhe yamalokavarṇanaṃnāmā'ṣṭamo'dhyāyaḥ || 8 ||",
+    "english": "The pious acts of these ancient kings are described in Mbh and Purāṇas, for example Uśīnara’s (Śivi’s) offer of his own body to a falcon to protect his protégé, a pigeon. Thereby they became the members of Indra’s assembly, Sudharmā.",
+    "morphology": "iti_iti_ śrī_śrī_Cp skāṃde_skānda_SLNe mahāpurāṇe_mahāpurāṇa_SLNe ekāśīti_ekāśīti_Cp sāhasyā_sāhasya_SNF saṃhitāyām_saṃhitā_SLF caturthe_caturtha_SLM kāśīkhaṇḍe_kāśīkhaṇḍa_SLM pūrva_pūrva_Cp arddhe_ardha_SLM "
+  },
+  {
+    "index": 25103,
+    "sanskrit": "tatas te bhrātaraḥ pañca rākṣasa indram mahā āhave vivyadhuḥ niśitaiḥ bāṇaiḥ tapanīya vibhūṣitaiḥ",
+    "english": "Then those five brothers in that great battle, pierced that foremost of Rakshasas with many whetted shafts of golden wings.",
+    "morphology": "tatas_tatas_U te_tad_PNM bhrātaraḥ_bhrātṛ_PNM pañca_pañcan_PNM rākṣasa_rākṣasa_MCp indram_indra_SAM mahā_mahat_Cp āhave_āhava_SLM vivyadhuḥ_vyadh_PPs3In niśitaiḥ_niśā_PIPaPsM bāṇaiḥ_bāṇa_PIM tapanīya_tapanīya_NeCp vibhū"
+  }
+]

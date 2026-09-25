@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40136,
+    "sanskrit": "tatas duryodhanaḥ karṇaḥ droṇaḥ duḥśāsanaḥ tathā pāṇḍavaiḥ samasajjanta caturbhiḥ caturaḥ rathāḥ duryodhanaḥ saha bhrātrā yamābhyām samasajjata",
+    "english": "Then Duryodhana, Karna, Drona and Duhsasana, these four (Kauravas) warriors engaged in battle with four of the Pandava warriors, Duryodhana and his brothers, encountered the twins (Nakula and Sahadeva).",
+    "morphology": "tatas_tatas_U duryodhanaḥ_duryodhana_SNM karṇaḥ_karṇa_SNM droṇaḥ_droṇa_SNM duḥśāsanaḥ_duḥśāsana_SNM tathā_tathā_U pāṇḍavaiḥ_pāṇḍava_PIM samasajjanta_saṃsañj_PPs3In caturbhiḥ_catur_PIM caturaḥ_catur_PAM rathāḥ"
+  },
+  {
+    "index": 40137,
+    "sanskrit": "nārāyaṇam namaskṛtya naram ca eva narottamam devīm sarasvatīm ca eva tatas jayam udīrayet om namaḥ bhagavate tasmai vyāsāya amita tejase",
+    "english": "SECTION I (Sabhakriya Parva) Om! After having bowed down to Narayana, and Nara, the most exalted male being, and also to the goddess Saraswati, must the word Jaya be uttered.",
+    "morphology": "nārāyaṇam_nārāyaṇa_SAM namaskṛtya_namaskṛ_Co naram_nara_SAM ca_ca_U eva_eva_U narottamam_narottama_SAM devīm_devī_SAF sarasvatīm_sarasvatī_SAF ca_ca_U eva_eva_U tatas_tatas_U jayam_jaya_SAM udīrayet_udīray_SPr3O om_oṃ_U namaḥ_namas_SN"
+  },
+  {
+    "index": 40138,
+    "sanskrit": "ādityabhāskara rave bhāno svayaṃ divākara | prabhākara namastubhyaṃ sasārānmāṃ samuddhara || 18 ||",
+    "english": "18. “O Āditya, Bhāskara, Ravi, Bhānu, Prabhākara, O maker of the day, I bow down to you; uplift me from Saṃsāra.",
+    "morphology": "āditya_āditya_Cp bhāskara_bhāskara_SVM rave_ravi_SVM bhāno_bhānu_SVM svayam_svayam_ divākara_divākara_SVM  / prabhākara_prabhākara_SVM namaḥ_namas_SNNe tubhyam_tvad_SD sa_sa_ sārāt_sṛ_SPs3In mām_mad_SA samuddhara_samuddhṛ_SPr2Im"
+  },
+  {
+    "index": 40139,
+    "sanskrit": "puṣpa upakīrṇāni mahā acalasya śṛṅgāṇi sānūni ca paśyamānā gireḥ param harṣam avāpya tasthuḥ",
+    "english": "And experiencing great exhilaration, they lived (there), seeing the slopes and summits of that mighty mountain, filled with flowers, and resonant with the cries of peacocks and cranes.",
+    "morphology": "puṣpa_puṣpa_NeCp upakīrṇāni_upakṛ_PAPaPsNe mahā_mahat_Cp acalasya_acala_SGM śṛṅgāṇi_śṛṅga_PANe sānūni_sānu_PANe ca_ca_U paśyamānā_paś_SNPaPrFPv gireḥ_giri_SGM parā_para_PANe harṣam_harṣa_PANe avāpya_avāp_Co tasthuḥ"
+  },
+  {
+    "index": 40140,
+    "sanskrit": "kim āgamanam iti evam rājā rājānam abravīt tasya sarvam abhiprāyam itikartavya tām ca tām satyavantam samuddiśya sarvam eva nyavedayat",
+    "english": "Thereupon, offering him the Arghya, a seat, and a cow, the monarch asked his royal guest,--Wherefore is this visit?--Thus addressed the king disclosed everything about his intentions and purpose with reference to Satyavan.",
+    "morphology": "kim_ka_SNNe āgamanam_āgamana_SNNe iti_iti_U evam_evam_U rājā_rājan_SNM rājānam_rājan_SAM abravīt_brū_SPs3In tasya_tad_SGM sarvam_sarva_SAM abhiprāyam_abhiprāya_SAM itikartavya_itikartavya_Cp tām_tā_SAF ca_ca_U tām_tad_SAF satyavantam_satyava"
+  },
+  {
+    "index": 40141,
+    "sanskrit": "puṣyeṇa svayaṃmṛtasya vāsasā prasevaṃ kṛtvā citābhasmanā pūrayitvā tam ābadhya",
+    "english": "and having on the day of the star of Pushya formed a sack from the garment of the corpse of a man who has died from natural causes, and having filled the sack with the ashes of the Bráhmans corpse, one may put on the sack on ones back, and walk invisible to others",
+    "morphology": "puṣyeṇa_puṣya_SIM svayam_svayam_ mṛtasya_mṛ_SGPaM vāsasā_vāsas_SINe prasevam_praseva_SAM kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 40142,
+    "sanskrit": "puṣpojjvalāṃstaruvarān vasantaṃ dakṣiṇānilam | tāścaivāpsarasaḥ sarvāḥ kandarpaṃ ca mahāmunī || 36 || yaccārabdhaṃ tapastābhyāmātmānaṃ gandhamādanam | dadarśāte'khilaṃ rūpaṃ brahmaṇaḥ puruṣarṣabha || 37 ||",
+    "english": "O bull among men, those great sages saw as an aspect of Brahman, everything such as the excellent trees shining well in their full bloom, the spring season, the southern breeze, all those celestial damsels, Kandarpa (god of Love), the penance begun by themselves, their own selves and Gandhamādana.",
+    "morphology": "puṣpa_puṣpa_Cp ujjvalān_ujjvala_PAM taru_taru_Cp varān_vara_PAM vasantam_vasanta_SAM dakṣiṇa_dakṣiṇa_Cp anilam_anila_SAM  / tāḥ_tad_PAF ca_ca_ eva_eva_ apsarasaḥ_apsaras_PAF sarvāḥ_sarva_PAF kandarpam_kandarpa_SAM ca_ca_ mahā_mahat_C"
+  },
+  {
+    "index": 40143,
+    "sanskrit": "prabhāvaṃ tasya vijñātuṃ prayuktāpi tato mama / vidyā na prābhavattena vimṛśyāhamacintayam //",
+    "english": "Then my magic science was set in motion to ascertain the cause of the sound, but prevailed not;",
+    "morphology": "prabhāvam_prabhāva_SAM tasya_tad_SGM vijñātum_vijñā_In prayuktā_prayuj_SNPaF api_api_ tatas_tatas_ mama_mad_SG  / vidyā_vidyā_SNF na_na_ prābhavat_prabhū_S3ImIn tena_tad_SIM vimṛśya_vimṛś_Co"
+  }
+]

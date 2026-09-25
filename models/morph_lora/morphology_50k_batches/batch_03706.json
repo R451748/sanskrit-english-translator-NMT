@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29640,
+    "sanskrit": "śvas vā adya vā mahā bāho gamyatām putra mā ciram",
+    "english": "O mighty-armed one, do thou then depart either tomorrow or this very day. Do not tarry, O son.",
+    "morphology": "śvas_śvas_U vā_vā_U adya_adya_U vā_vā_U mahā_mahat_Cp bāho_bāhu_SVM gamyatām_gam_SPr3ImPv putra_putra_SVM mā_mā_U"
+  },
+  {
+    "index": 29641,
+    "sanskrit": "saṃbhārāḥ ca eva rāja indra sarve saṃkalpitāḥ abhavan",
+    "english": "All the articles necessary for the sacrifice, O king, were duly procured.",
+    "morphology": "saṃbhārāḥ_sambhāra_PNM ca_ca_U eva_eva_U rāja_rājan_SVM indra_indra_SVM sarve_sarva_PNM saṃkalpitāḥ_saṃkalpay_PNPaPsM"
+  },
+  {
+    "index": 29642,
+    "sanskrit": "svārthajñaḥ svārtham uddiśya yaśaḥ svaṃ ca prakāśayan / rajir uvāca",
+    "english": "Then identifying his own interest with that of theirs and displaying his own glory the king Raji said to the gods and demons.",
+    "morphology": "sva_sva_Cp artha_artha_Cp jñaḥ_jña_SNM sva_sva_Cp artham_artha_SAM uddiśya_uddiś_Co yaśaḥ_yaśas_SANe svam_sva_SANe ca_ca_ prakāśayan_prakāśay_SNPaPrM  / rajiḥ_raji_SNM uvāca_vac_SPs3In"
+  },
+  {
+    "index": 29643,
+    "sanskrit": "vṛṣṇi andhaka vināśāya kiṃkara pratimam mahat",
+    "english": "Indeed, for the destruction of the Vrishnis and the Andhakas, Samva brought forth, through that curse, a fierce iron bolt that looked like a gigantic messenger of death.",
+    "morphology": "vṛṣṇi_vṛṣṇi_MCp andhaka_andhaka_MCp vināśāya_vināśa_SDM kiṃkara_kiṃkara_MCp pratimā_pratimā_SNF"
+  },
+  {
+    "index": 29644,
+    "sanskrit": "|| subrahmaṇya uvāca | idameva mune guhyaṃ bhṛgave śivayogine | uktaṃ bhagavatā sākṣātsarvajñena pinākinā ||",
+    "english": "6. It is this secret, O sage, that was explained to Bhṛgu, the devotee of Śiva by the omniscient Pināka-bearing lord himself.",
+    "morphology": "subrahmaṇyaḥ_subrahmaṇya_SNM uvāca_vac_SPs3In  / idam_idam_SNNe eva_eva_ mune_muni_SVM guhyam_guhya_SNNe bhṛgave_bhṛgu_SDM śiva_śiva_Cp yogine_yogin_SDM  / uktam_vac_SNPaNe bhagavatā_bhagavant_SIM sākṣāt_sākṣāt_ sarvajñena_sarvajña_"
+  },
+  {
+    "index": 29645,
+    "sanskrit": "anyairapi tu vardhanam /",
+    "english": "They grow through the others also.",
+    "morphology": "anyaiḥ_anya_PIM api_api_ tu_tu_ vardhanam_vardhana_SNNe "
+  },
+  {
+    "index": 29646,
+    "sanskrit": "nandīśvara uvāca | ityākarṇya prabhorvākyaṃ sa bhadrāyurmahīpatiḥ | puna praṇamya saṃstūya svāminaṃ natako'bravīt ||",
+    "english": "58. On hearing the words of the lord, the king Bhadrāyu eulogised and bowed to the lord with bent head.",
+    "morphology": "nandīśvaraḥ_nandīśvara_SNM uvāca_vac_SPs3In  / iti_iti_ ākarṇya_ākarṇay_Co prabhoḥ_prabhu_SGM vākyam_vākya_SANe sa_tad_SNM bhadrāyūḥ_bhadrāyus_SNM mahīpatiḥ_mahīpati_SNM  / punar_punar_ praṇamya_praṇam_Co saṃstūya_saṃstu_"
+  },
+  {
+    "index": 29647,
+    "sanskrit": "rudrākṣaṃ mastake baddhvā śiraḥsnānaṃ karoti yaḥ | gaṃgāsnānaphalaṃ tasya jāyate nātra saṃśayaḥ || 11 ||",
+    "english": "11. One who takes a head-bath with a Rudrākṣa tied to his head, shall undoubtedly get the merit of a holy bath in Gaṅgā.",
+    "morphology": "rudrākṣam_rudrākṣa_SAM mastake_mastaka_SLM baddhvā_bandh_Co śiraḥsnānam_śiraḥsnāna_SANe karoti_kṛ_SPr3In yaḥ_yad_SNM  / gaṃgā_gaṅgā_Cp snāna_snāna_Cp phalam_phala_SNNe tasya_tad_SGM jāyate_jan_SPr3In na_na_ atra_atra_ saṃśaya"
+  }
+]

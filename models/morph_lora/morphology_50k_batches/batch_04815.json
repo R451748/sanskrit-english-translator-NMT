@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38512,
+    "sanskrit": "vahasva bhāryām dharmeṇa devayānīm sumadhyamām",
+    "english": "I grant thee absolution. Maintain virtuously thy wife--the slender-waisted Devayani.",
+    "morphology": "vahasva_vah_SPr2Im"
+  },
+  {
+    "index": 38513,
+    "sanskrit": "vedaiḥ caturbhiḥ saṃprītāḥ prāpnuvanti divaukasaḥ havyam kavyam ca vividham niṣpūrtam hutam eva ca",
+    "english": "The dwellers of heaven highly gratified, used to get, according to (the ordinances of) the four Vedas, libations of clarified butter and other offerings of food made by men.",
+    "morphology": "vedaiḥ_veda_PIM caturbhiḥ_catur_PIM saṃprītāḥ_samprī_PNPaPsM prāpnuvanti_prāp_PPr3In divaukasaḥ_divaukas_PNM havyam_havya_SANe kavyam_kavya_SANe ca_ca_U vividham_vividha_SANe niṣpūrtam_niṣpṛ_SAPaPsNe hutam_huta_SANe eva_eva_U"
+  },
+  {
+    "index": 38514,
+    "sanskrit": "ūrdhve samidhāv ā dadhāty upariṣṭād eva rakṣāṃsy apahanti yajuṣānyāṃ tūṣṇīm anyām mithunatvāya dve ā dadhāti dvipād yajamānaḥ pratiṣṭhityai brahmavādino vadanti |",
+    "english": "(he places one) with a Yajus, the other in silence, to make pair. He places two; the sacrifice has two feet; (verily they serve) for support.",
+    "morphology": "ūrdhve_ūrdhva_DuAF samidhau_samidh_DuAF ā_ā_ dadhāti_dhā_SPr3In upariṣṭāt_upariṣṭāt_ eva_eva_ rakṣāṃsi_rakṣas_PANe apahanti_apahan_SPr3In yajuṣā_yajus_SINe anyām_anya_SAF tūṣṇīm_tūṣṇīm_ anyām_anya_SAF mithuna_mithuna"
+  },
+  {
+    "index": 38515,
+    "sanskrit": "tānyathākhātamevāvamarśayati /",
+    "english": "This is why these (openings of the) vital airs are connected by channels farther (inside).",
+    "morphology": "tāni_tad_PANe yathā_yathā_ ṛc_ṛc_SNF "
+  },
+  {
+    "index": 38516,
+    "sanskrit": "vṛthak roṣa pratijñaḥ hi na aham jīvitum utsahe",
+    "english": "I cannot consent to be one whose anger and vows are futile.",
+    "morphology": "vṛthak_vṛthak_U"
+  },
+  {
+    "index": 38517,
+    "sanskrit": "vyāpnuvanti abhitas deham nābhitaḥ prasṛtāḥ sirāḥ pratānāḥ padminī kandāt bisa ādīnām yathā jalam",
+    "english": "As the stem and leaves etc., of a lotus plant, originated from its bulb, spread over the whole surface of a pool or tank (lit: water), so the vessels emanating from the umbilicus of a man spread over his whole organism.",
+    "morphology": "vyāpnuvanti_vyāp_PPr3In abhitas_abhitas_U deham_deha_SAM nābhitaḥ_nābhi_SBF prasṛtāḥ_prasṛ_PNPaPsF sirāḥ_sirā_PNF pratānāḥ_pratāna_PNM padminī_padminī_FCp kandāt_kanda_SBNe bisa_bisa_NeCp ādīnām_ādi_PGM yathā_yathā_U jalam_ja"
+  },
+  {
+    "index": 38518,
+    "sanskrit": "ajaratvaṃ bhaveddevi śivatvamupagacchati //",
+    "english": "O Goddess! One would become unaging and attains the qualities of lord Śiva.",
+    "morphology": "ajara_ajara_Cp tvam_tva_SNNe bhavet_bhū_SPr3O devi_devī_SVF śiva_śiva_Cp tvam_tva_SANe upagacchati_upagam_SPr3In  /"
+  },
+  {
+    "index": 38519,
+    "sanskrit": "tad idam anupapannam /",
+    "english": "But this form is conspicuous by its absence.",
+    "morphology": "tat_tad_SNNe idam_idam_SNNe anupapannam_anupapanna_SNNe"
+  }
+]

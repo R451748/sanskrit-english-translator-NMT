@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36904,
+    "sanskrit": "svārthe tat prayujyata iti cet padam api svārthe kvacit prayujyata eva / yatra padāntarāṇām artho 'rthaprakaraṇādinā labhyate tatra yāvad aprāptaṃ tāvat padam eva kevalaṃ uccārayanti /",
+    "english": "The Naiyayikas will also hold that words are invariably employ- ed in order to do the same function, i.e., to make the said sentence expressive. There are a few sentences the meaning of which is obtained through the context. Even, in these cases, words play an important part since they are uttered to convey such matters as are beyond the reach of a context.",
+    "morphology": "sva_sva_Cp arthe_artha_SLM tat_tad_SNNe prayujyate_prayuj_SPr3InPv iti_iti_ ced_ced_ padam_pada_SNNe api_api_ sva_sva_Cp arthe_artha_SLM kvacid_kvacid_ prayujyate_prayuj_SPr3InPv eva_eva_  / yatra_yatra_ pada_pada_Cp antarāṇām_antara_PGNe arthaḥ_arth"
+  },
+  {
+    "index": 36905,
+    "sanskrit": "tvamavyaktamanirdeśyamacintyānāmavarmavat / apāṇipādarūpaṃ ca śuddhaṃ nityaṃ parātparam //",
+    "english": "Thou art imperceptible, indescribable, inconceivable without name, or colour, or hands, or feet pure, eternal, and infinite.",
+    "morphology": "tvam_tvad_SN avyaktam_avyakta_SNNe anirdeśyam_anirdeśya_SNNe acintyānām_acintya_PGM a_a_ varma_varman_Cp vat_vat_  / a_a_ pāṇi_pāṇi_Cp pāda_pāda_Cp rūpam_rūpa_SNNe ca_ca_ śuddham_śudh_SNPaNe"
+  },
+  {
+    "index": 36906,
+    "sanskrit": "yūyaṃ śarīrakartāras teṣāṃ devā bhaviṣyatha / te tu jñānapradātāraḥ pitaro vo na saṃśayaḥ //",
+    "english": "gods, ye have given them the body and they have given ye the knowledge and are undoubtedly your fathers.",
+    "morphology": "yūyam_tvad_PN śarīra_śarīra_Cp kartāraḥ_kartṛ_PNM teṣām_tad_PGM devāḥ_deva_PNM bhaviṣyatha_bhū_PFu2In  / te_tad_PNM tu_tu_ jñāna_jñāna_Cp pradātāraḥ_pradātṛ_PNM pitaraḥ_pitṛ_PNM vaḥ_tvad_PG na_na_ saṃśayaḥ_saṃśay"
+  },
+  {
+    "index": 36907,
+    "sanskrit": "gokulasya tṛṣā ārtasya jala arthe vasudhādhipa utpādayati yaḥ vighnam tam vidyāt brahma ghātinam",
+    "english": "Thou shouldst, O king, know that man to be guilty of Brahmanicide, who causes obstructions in the way of thirsty kine while employed in quenching that thirst.",
+    "morphology": "gokulasya_gokula_SGNe tṛṣā_tṛṣ_SIF ārtasya_ārta_SGNe jala_jala_NeCp arthe_artha_SLM vasudhādhipa_vasudhādhipa_SVM utpādayati_utpāday_SPr3In yaḥ_yad_SNM vighnam_vighna_SAM"
+  },
+  {
+    "index": 36908,
+    "sanskrit": "sa vai pūjyo namaskāryo vaṃdanīyo manīṣibhiḥ | ādau sa eva pūjyaḥ syātsamyagyātrāphalepsubhiḥ || 57 ||",
+    "english": "57. He should be worshipped, should be saluted by learned men. At the outset, he alone should be worshipped by those who wish to get the fruit of the perfect pilgrimage.",
+    "morphology": "sa_tad_SNM vai_vai_ pūjyaḥ_pūjay_SNMGd namaskāryaḥ_namaskṛ_SNMGd vaṃdanīyaḥ_vand_SNMGd manīṣibhiḥ_manīṣin_PIM  / ādau_ādi_SLM saḥ_tad_SNM eva_eva_ pūjyaḥ_pūjay_SNMGd syāt_as_SPr3O samyak_samyak_ yātrā_yātrā_Cp phala_phala"
+  },
+  {
+    "index": 36909,
+    "sanskrit": "mahārājasya dayitāṃ niyuktām anulepane //",
+    "english": "am a favourite of the king and engaged in the work of smearing his body.",
+    "morphology": "mahā_mahat_Cp rājasya_rāja_SGM dayitām_dayitā_SAF niyuktām_niyuj_SAPaF anulepane_anulepana_SLNe  /"
+  },
+  {
+    "index": 36910,
+    "sanskrit": "{2} samyak-saṃkalpaḥ,",
+    "english": "{2} right thought,",
+    "morphology": "u"
+  },
+  {
+    "index": 36911,
+    "sanskrit": "tat śrutvā drupadaḥ rājā kuntī putrasya bhāṣitam vigarhayām āsa tadā dhṛtarāṣṭram janeśvaram",
+    "english": "Hearing everything that the son of Kunti said, king Drupada censured Dhritarashtra, that ruler of men.",
+    "morphology": "tat_tad_SANe śrutvā_śru_Co drupadaḥ_drupada_SNM rājā_rājan_SNM kuntī_kuntī_FCp putrasya_putra_SGM bhāṣitam_bhāṣita_SANe vigarhayām_vigarhay_SPs3In āsa_as_SPs3In tadā_tadā_U dhṛtarāṣṭraḥ_dhṛtarāṣṭra_SNM janeśvaraḥ_jane"
+  }
+]

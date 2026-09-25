@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17000,
+    "sanskrit": "virūpāyā'tirūpāya bahurūpāya śaṃbhave | yajñavidhvaṃsakartre ca yajñānāṃ phaladāyine || 13 ||",
+    "english": "13. Bow to the lord with a hideous form, to the lord who is beyond all forms, to Śaṃbhu of many forms. Obeisance to the lord who caused destruction to (Dakṣa’s) Yajña, to the lord who grants the benefit of Yajñas.",
+    "morphology": "virūpāya_virūpa_SDM a_a_ atirūpāya_atirūpa_SDM bahurūpāya_bahurūpa_SDM śaṃbhave_śambhu_SDM  / yajña_yajña_Cp vidhvaṃsa_vidhvaṃsa_Cp kartre_kartṛ_SDM ca_ca_ yajñānām_yajña_PGM phala_phala_Cp dāyine_dāyin_SDM"
+  },
+  {
+    "index": 17001,
+    "sanskrit": "irāvatīḥ varuṇa dhenavaḥ vām madhu mat vām sindhavaḥ mitra duhre trayaḥ tasthuḥ vr̥ṣabhāsaḥ tisr̥r̥ṇām dhiṣaṇānām retaḥ dhāḥ vi dyu mantaḥ",
+    "english": "Ye, Varuṇa, have kine who yield refreshment; Mitra, your floods pour water full of sweetness. There stand the Three Steers, splendid in their brightness, who fill the three world-bowls with genial moisture.",
+    "morphology": "irāvatīḥ_irāvat_PNF varuṇa_varuṇa_SVM dhenavaḥ_dhenu_PNF vām_tvad_DuD madhu_madhu_NeCp mat_mat_SANe vām_tvad_DuD sindhavaḥ_sindhu_PNM mitra_mitra_SVM duhre_duh_PPr3In trayaḥ_tri_PNM tasthuḥ_sthā_PPs3In vr̥ṣabhāsaḥ_vrāṣabha_PNM "
+  },
+  {
+    "index": 17002,
+    "sanskrit": "mahadaṃkaśca bhūtānāṃ cakrāccaiva viśuddhitaḥ | paṃcamastu tṛtīyo'bhūtsuto viśvavibhūṣaṇaḥ || 32 ||",
+    "english": "32. Pañcama (name of a Rāga) is the third one, the ornament of the universe. It originated from Viśuddhi Cakra (situated in the inner throat). It is marked by the principle Mahat.",
+    "morphology": "mahat_mahant_Cp aṃkaḥ_aṅka_SNM ca_ca_ bhūtānām_bhūta_PGNe cakrāt_cakra_SBNe ca_ca_ eva_eva_ viśuddhitaḥ_viśuddhi_SBF  / paṃcamaḥ_pañcama_SNM tu_tu_ tṛtīyaḥ_tṛtīya_SNM abhūt_bhū_SPs3In sutaḥ_suta_SNM viśva_viśva_Cp vibhū"
+  },
+  {
+    "index": 17003,
+    "sanskrit": "ata edhādiṣu yacñāviruddhā /",
+    "english": "Hence, in connection with these latter, even begging is not objectionable.",
+    "morphology": "atas_atas_ "
+  },
+  {
+    "index": 17004,
+    "sanskrit": "yādavāś ca balodagrāḥ sarve saṃgrāmalālasāḥ /",
+    "english": "And in proper time and according to his strength he should engage in fight.",
+    "morphology": "yādavāḥ_yādava_PNM ca_ca_ bala_bala_Cp udagrāḥ_udagra_PNM sarve_sarva_PNM "
+  },
+  {
+    "index": 17005,
+    "sanskrit": "hanūmānabravīdrāmaṃ laṅghayitvābdhimāgataḥ // sītāṃ dṛṣṭvā purīṃ dagdhvā sītāmaṇiṃ gṛhāṇa vai /",
+    "english": "Hanūmat said to Rāma how he had come after crossing the ocean and seeing Sītā, burning the city of Laṅkā and taking jewel from Sītā.",
+    "morphology": "hanūmān_hanumant_SNM abravīt_brū_S3ImIn rāmam_rāma_SAM laṅghayitvā_laṅghay_Co abdhim_abdhi_SAM āgataḥ_āgam_SNPaM  // sītām_sītā_SAF dṛṣṭvā_dṛś_Co purīm_purī_SAF dagdhvā_dah_Co sītā_sītā_Cp maṇim_maṇi_SAM gṛhāṇa_"
+  },
+  {
+    "index": 17006,
+    "sanskrit": "kṛṣṇam nṛpāḥ te samudīkṣamāṇāḥ",
+    "english": "And those valiant men, assembled together, having conversed with one another upon various topics, remained for some time in a pensive mood, with their eyes fixed upon Krishna.",
+    "morphology": "kṛṣṇam_kṛṣṇa_SAM"
+  },
+  {
+    "index": 17007,
+    "sanskrit": "nityatvaikatvādayo dharmā ākāśavad evāsya boddhavyāḥ //",
+    "english": "“The character of being permanent, one and so forth has to be understood in regard to Time in the same way as in regard to Ākāśa.” (623-624)",
+    "morphology": "nitya_nitya_Cp tva_tva_Cp eka_eka_Cp tva_tva_Cp ādayaḥ_ādi_PNM dharmāḥ_dharma_PNM ākāśa_ākāśa_Cp vat_vat_ eva_eva_ asya_idam_SGM boddhavyāḥ_budh_PNMGd  /"
+  }
+]

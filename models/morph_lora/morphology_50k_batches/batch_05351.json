@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42800,
+    "sanskrit": "atra eva puruṣa vyāghra maruttaḥ satram uttamam āste deva ṛṣi mukhyena saṃvartena abhipālitaḥ",
+    "english": "O tiger among men! it was here that Marutta sheltered by Samvartta, leader of saints, succeeded in performing excellent sacrifices.",
+    "morphology": "atra_atra_U eva_eva_U puruṣa_puruṣa_MCp vyāghra_vyāghra_SVM maruttaḥ_marutta_SNM satram_sattra_SANe uttamam_uttama_SANe āste_ās_SPr3In deva_deva_MCp ṛṣi_ṛṣi_MCp mukhyena_mukhya_SIM saṃvartena_saṃvarta_SIM abhipālitaḥ_abhipālay_SNP"
+  },
+  {
+    "index": 42801,
+    "sanskrit": "kṣura dhārāḥ viṣam sarpaḥ mṛtyuḥ iti ekatas striyaḥ",
+    "english": "She is poison. She is a snake.",
+    "morphology": "kṣura_kṣura_MCp dhārāḥ_dhārā_PNF viṣam_viṣa_SNNe sarpaḥ_sarpa_SNM mṛtyuḥ_mṛtyu_SNM iti_iti_U ekatas_ekatas_U striyaḥ_strī_PNF"
+  },
+  {
+    "index": 42802,
+    "sanskrit": "sūtrāṇi vā saptadaśa sūtreṇa trivibhaktake / rocanāgurukarpūraharidrākuṅkumādibhiḥ // rañjayeccandanādyair vā snānasandhyādikṛnnaraḥ /",
+    "english": "One who has bathed and performed the twilight worship should dye the seventeen strings divided into three parts, with rocanā yellow pigment, agallochuṃ, camphor, turmeric, saffron or sandal.",
+    "morphology": "sūtrāṇi_sūtra_PANe vā_vā_ saptadaśa_saptadaśan_SANe sūtreṇa_sūtra_SINe tri_tri_Cp vibhaktake_vibhaktaka_SLM  / rocanā_rocanā_Cp aguru_aguru_Cp karpūra_karpūra_Cp haridrā_haridrā_Cp kuṅkuma_kuṅkuma_Cp ādibhiḥ_ādi_PIM  / rañjayet_"
+  },
+  {
+    "index": 42803,
+    "sanskrit": "tvayā dṛṣṭaṃ manohāri śubhaṃ paṃkajakānanam | tatra snātvā payaḥ pītvā pitṛdevāḥ pratarpitāḥ || 26 ||",
+    "english": "26. There, after seeing an auspicious pond full of an enticing forest of lotus, you took a bath there and offered libations of water to your parental ancestors.",
+    "morphology": "tvayā_tvad_SI dṛṣṭam_dṛś_SNPaNe manohāri_manohārin_SNNe śubham_śubha_SNNe paṃkaja_paṅkaja_Cp kānanam_kānana_SNNe  / tatra_tatra_ snātvā_snā_Co payaḥ_payas_SANe pītvā_pā_Co pitṛ_pitṛ_Cp devāḥ_deva_PNM pratarpitāḥ_pratar"
+  },
+  {
+    "index": 42804,
+    "sanskrit": "iha hi tāvadbrahmaṇaḥ sarvabhūtānāṃ trividhotpattiriti tatpūrvoktam //",
+    "english": "I have told you before of the triple nature of the production of beings here below, which I believe, you well remember.",
+    "morphology": "iha_iha_ hi_hi_ tāvat_tāvat_ brahmaṇaḥ_brahman_SGNe sarva_sarva_Cp bhūtānām_bhūta_PGNe trividhā_trividha_SNF utpattiḥ_utpatti_SNF iti_iti_ tat_tad_SNNe pūrva_pūrva_Cp uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 42805,
+    "sanskrit": "dūṣitam dharma śāstreṣu para dāra abhimarśanam",
+    "english": "One's congress with another man's wife is condemned by persons conversant with the scriptures on morality.",
+    "morphology": "dūṣitam_dūṣay_SNPaPsNe dharma_dharma_MCp śāstreṣu_śāstra_PLNe paṇḍā_paṇḍā_SNF"
+  },
+  {
+    "index": 42806,
+    "sanskrit": "te kruddhāḥ śaravarṣeṇa sunīthaṃ samavākiran / nṛtyantaṃ rathamārgeṣu cāpahastāḥ kalāpinaḥ //",
+    "english": "Thereupon the Yādavas, with bows and arrows in hands, angrily covered Sunitha with a downpour of shafts, who was dancing on the car.",
+    "morphology": "te_tad_PNM kruddhāḥ_krudh_PNPaM śara_śara_Cp varṣeṇa_varṣa_SIM sunītham_sunītha_SAM samavākiran_samavakṛ_P3ImIn  / nṛtyantam_nṛt_SAPaPrM ratha_ratha_Cp mārgeṣu_mārga_PLM cāpa_cāpa_Cp hastāḥ_hasta_PNM kalāpinaḥ_kalāpin_PNM  "
+  },
+  {
+    "index": 42807,
+    "sanskrit": "sūryaśceti ca maṃtreṇa syādācamanamuttamam | āpohiṣṭheti tisṛbhirmārjanaṃ tu tataścaret || 35 ||",
+    "english": "135. The excellent Ācamana is with the Mantra beginning with sūryaśca mā manyuś ca (Tāit. Āraṇyaka 10.25.1) etc. Then the devotee performs the Mārjana rites with the three Mantras beginning with āpo hiṣṭhā etc. (RV X.9.1-3).",
+    "morphology": "sūryaḥ_sūrya_SNM ca_ca_ iti_iti_ ca_ca_ maṃtreṇa_mantra_SIM syāt_as_SPr3O ācamanam_ācamana_SNNe uttamam_uttama_SNNe  / āpohiṣṭhā_āpohiṣṭhā_SNF iti_iti_ tisṛbhiḥ_tri_PIF mārjanam_mārjana_SANe tu_tu_ tatas_tatas_ caret_car_SPr3O"
+  }
+]

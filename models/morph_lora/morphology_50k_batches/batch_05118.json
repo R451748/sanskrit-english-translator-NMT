@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40936,
+    "sanskrit": "amogham darśanam mahyam āhūtaḥ ca asmi te śubhe",
+    "english": "Amiable one, my approach cannot be futile;",
+    "morphology": "amogham_amogha_SNNe darśanam_darśana_SNNe mahyam_mad_SD āhūtaḥ_āhvā_SNPaPsM"
+  },
+  {
+    "index": 40937,
+    "sanskrit": "kriyākrameṇa mahatā tapasā niyamena ca / dānena tīrthayātrābhiścirakālaṃ vivekataḥ //",
+    "english": "It is by performance of ritual duties and observance of the prescribed rules, that the demerits of former births are expunged.",
+    "morphology": "kriyā_kriyā_Cp krameṇa_krama_SIM mahatā_mahat_SIM tapasā_tapas_SINe niyamena_niyama_SIM ca_ca_  / dānena_dāna_SINe tīrtha_tīrtha_Cp yātrābhiḥ_yātrā_PIF cira_cira_Cp kālam_kāla_SAM vivekataḥ_viveka_SBM  /"
+  },
+  {
+    "index": 40938,
+    "sanskrit": "trividhastvatithiḥ prokto gṛhasthānāṃ dvijottamāḥ | tasyāhaṃ vacmi vaḥ kālaṃ śṛṇudhvaṃ susamāhitāḥ || 11 ||",
+    "english": "11. O excellent Brāhmaṇas, guests of householders are of three types. I shall tell you the time when they appear. Listen with attention.",
+    "morphology": "trividhaḥ_trividha_SNM tu_tu_ atithiḥ_atithi_SNM proktaḥ_pravac_SNPaM gṛhasthānām_gṛhastha_PGM dvijottamāḥ_dvijottama_PVM  / tasya_tad_SGM aham_mad_SN vacmi_vac_SPr1In vaḥ_tvad_PA kālam_kāla_SAM śṛṇudhvam_śru_PPr2Im su_su_ samāhit"
+  },
+  {
+    "index": 40939,
+    "sanskrit": "ekam camasam caturaḥ kr̥ṇotana tat vaḥ devāḥ abruvan tat vaḥ ā agamam saudhanvanāḥ yadi eva kariṣyatha sākam devaiḥ yajñiyāsaḥ bhavi ṣyatha",
+    "english": "The chalice that is single make ye into four: thus have the Gods commanded; therefore am I come. If, O Sudhanvan's Children, ye will do this thing ye shall participate in sacrifice with Gods.",
+    "morphology": "ekam_eka_SAM camasam_camasa_SAM caturaḥ_catur_PAM kr̥ṇotana_kṛ_PPr2Im tat_tad_SANe vaḥ_tvad_PA devāḥ_deva_PNM abruvan_brū_PPs3In tat_tad_SANe vaḥ_tvad_PA ā_ā_U agamam_gam_SPs1In saudhanvanāḥ_saudhanvana_PVM yadi_yadi_U eva_eva_U kariṣ"
+  },
+  {
+    "index": 40940,
+    "sanskrit": "dadāmi te vapuṣaḥ kāmyatām ca",
+    "english": "Thy body too shall be most beautiful.",
+    "morphology": "dadāmi_dā_SPr1In"
+  },
+  {
+    "index": 40941,
+    "sanskrit": "janmāṃtareṇa yatpāpaṃ sāṃprataṃ yatkṛtaṃ priye | tatsarvaṃ nāśamāyāti ghṛtasnānena bhāmini || 30 ||",
+    "english": "30. O beautiful woman, the sins committed in the previous births and also committed now are destroyed, O my beloved, through the ablution (of the Liṅga) with curds.",
+    "morphology": "janma_janman_Cp antareṇa_antara_SINe yat_yad_SNNe pāpam_pāpa_SNNe sāṃpratam_sāṃpratam_ yat_yad_SNNe kṛtam_kṛ_SNPaNe priye_priya_SVF  / tat_tad_SNNe sarvam_sarva_SNNe nāśam_nāśa_SAM āyāti_āyā_SPr3In ghṛta_ghṛta_Cp snānena_snāna_S"
+  },
+  {
+    "index": 40942,
+    "sanskrit": "etāḥ tu mama vai sakhyaḥ catasraḥ anyāḥ jale sthitāḥ",
+    "english": "But those four friends of mine are still within the other waters here.",
+    "morphology": "etāḥ_etad_PNF tu_tu_U mama_mad_SG vai_vai_U sakhyaḥ_sakhī_PNF catasraḥ_catur_PNF anyāḥ_anya_PNF jale_jala_SLNe sthitāḥ_sthā_PNPaPsF"
+  },
+  {
+    "index": 40943,
+    "sanskrit": "sa tāmmūrdhni samādhāya vidyāṃ vidyāsanopari | adhiropya yathānyāyamabhivaṃdya samarcayet ||",
+    "english": "15. The disciple shall accept it with his bent head and place the Vidyā over the scat. He shall then respectfully adore it.",
+    "morphology": "sa_tad_SNM tām_tad_SAF mūrdhni_mūrdhan_SLM samādhāya_samādhā_Co vidyām_vidyā_SAF vidyā_vidyā_Cp āsana_āsana_Cp upari_upari_  / adhiropya_adhiropay_Co yathānyāyam_yathānyāyam_ abhivandya_abhivand_Co samarcayet_samarcay_SPr3O"
+  }
+]

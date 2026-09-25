@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8888,
+    "sanskrit": "anyatra gatacittasya vastumātropalambhanam / sarvopādhivivekena tata eva pravartate //",
+    "english": "It is because the process is as described that when a man has his mind turned somewhere else, there appears only the vague apprehension of the mere thing apart from all specific peculiarities.",
+    "morphology": "anyatra_anyatra_ gata_gam_PaCp cittasya_citta_SGM vastu_vastu_Cp mātra_mātra_Cp upalambhanam_upalambhana_SNNe  / sarva_sarva_Cp upādhi_upādhi_Cp vivekena_viveka_SIM tatas_tatas_ eva_eva_ pravartate_pravṛt_SPr3In  /"
+  },
+  {
+    "index": 8889,
+    "sanskrit": "samīhitārtha saṃsiddhirlabhyate puṇyabhārataḥ | tacca puṇyaṃ bhavedvipra śrutivartmasabhājanāt || 5 ||",
+    "english": "5. A desired object is obtained through the power of meritorious acts. That meritoriousness shall be obtained by resorting to the Vedic path, O Brāhmaṇa.",
+    "morphology": "samīhita_samīh_PaCp artha_artha_SVM saṃsiddhiḥ_saṃsiddhi_SNF labhyate_labh_SPr3InPv puṇya_puṇya_Cp bhārataḥ_bhārata_SNM  / tat_tad_SNNe ca_ca_ puṇyam_puṇya_SNNe bhavet_bhū_SPr3O vipra_vipra_SVM śruti_śruti_Cp vartma_vartman_Cp sabhā"
+  },
+  {
+    "index": 8890,
+    "sanskrit": "tasmātkileyaṃ manasā na sthitenaiva kutracit / kalpitena mudhānyena kṛpaṇena nihanyate //",
+    "english": "Thus is this world, which is a false creation of fancy, and exists nowhere except in the idle brains of the ignorant, lost into nothing at the sight of reason.",
+    "morphology": "tasmāt_tasmāt_ kila_kila_ iyam_idam_SNF manasā_manas_SINe na_na_ sthitena_sthā_SIPaM eva_eva_ kutracid_kutracid_  / kalpitena_kalpay_SIPaM mudhā_mudhā_ anyena_anya_SIM kṛpaṇena_kṛpaṇa_SIM nihanyate_nihan_SPr3InPv  /"
+  },
+  {
+    "index": 8891,
+    "sanskrit": "paśyan api yathā lakṣma jagat some na vindati",
+    "english": "People see the world reflected on the moon's disc in the form of spots. Though seeing, they do not know that it is the world that is so reflected there.",
+    "morphology": "paśyan_paś_SNPaPrM api_api_U yathā_yathā_U lakṣma_lakṣman_SANe jagāt_jagant_SNNe some_soma_SLM na_na_U vindati_vid_SPr3In"
+  },
+  {
+    "index": 8892,
+    "sanskrit": "etatkathaya deveśa dayāṃ kṛtvā mama prabho || 17 ||",
+    "english": "Īśvara said:",
+    "morphology": "etat_etad_SANe kathaya_kathay_SPr2Im deveśa_deveśa_SVM dayām_dayā_SAF kṛtvā_kṛ_Co mama_mad_SG prabho_prabhu_SVM"
+  },
+  {
+    "index": 8893,
+    "sanskrit": "vāyuḥ tatas prādurabhūt nīcais śarkara karṣaṇaḥ",
+    "english": "A wind rose there, bearing along the earth myriads of stony nodules, and afflicting therewith the combatants by hundreds and thousands.",
+    "morphology": "vāyuḥ_vāyu_SNM tatas_tatas_U prādurabhūt_prādurbhū_SPs3In nīcais_nīcais_U"
+  },
+  {
+    "index": 8894,
+    "sanskrit": "kū sthaḥ devau aśvinā adya divaḥ manāvasūiti tat śravathaḥ vr̥ṣaṇvasūitivr̥ṣaṇ vasū atriḥ vām ā vivāsati",
+    "english": "WHERE in the heavens are ye to-day, Gods, Aṣvins, rich in constancy? Hear this, ye excellent as Steers: Atri inviteth you to come.",
+    "morphology": "kū_ku_U sthaḥ_as_DuPr2In devau_deva_DuNM aśvinā_aśvin_DuNM adya_adya_U divaḥ_div_SGM manāvasūiti_manāvasu_DuNM iti_iti_U tat_tad_SANe śravathaḥ_śru_DuPs2Su vr̥ṣaṇvasūitivr̥ṣaṇ_vrāṣaṇvasu_DuNM itivr̥ṣaṇ_itivrāṣaṇ_Cp "
+  },
+  {
+    "index": 8895,
+    "sanskrit": "sa ārohāḥ turagāḥ petuḥ bahavaḥ arjuna tāḍitāḥ nirjihva antrāḥ kṣitau kṣīṇāḥ rudhira ārdrāḥ su durdṛśaḥ",
+    "english": "Large numbers of steeds with their riders, struck by Arjuna, fell down on the Earth, their tongues and entrails pressed out, themselves deprived of strength and bathed in blood, and presenting an awful sight.",
+    "morphology": "sa_sa_U ārohāḥ_āroha_PNM turagāḥ_turaga_PNM petuḥ_pat_PPs3In bahavaḥ_bahu_PNM arjuna_arjuna_MCp tāḍitāḥ_tāḍay_PNPaPsM nirjihva_nirjihva_Cp antrāḥ_antra_PNM kṣitau_kṣiti_SLF kṣīṇāḥ_kṣi_PNPaPsM rudhira_rudhira_NeCp ārdr"
+  }
+]

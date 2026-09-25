@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5144,
+    "sanskrit": "iti cittamahaṃrūpaṃ nāstyato na ca bhinnatā / nirvāsanaḥ śāntamanā maunī paranabhomayaḥ //",
+    "english": "Thus egoism (being) no other than a form of the intellect, there is no difference whatever between them; hence the words I, thou &c. are mere human inventions to distinguish one from another.",
+    "morphology": "iti_iti_ cittam_citta_SNNe ahaṃrūpam_ahaṃrūpa_SNNe na_na_ asti_as_SPr3In atas_atas_ na_na_ ca_ca_ bhinna_bhid_PaCp tā_tā_SNF  / nirvāsanaḥ_nirvāsana_SNM śānta_śam_PaCp manāḥ_manas_SNM maunī_maunin_SNM para_para_Cp nabhaḥ_nabhas_Cp maya"
+  },
+  {
+    "index": 5145,
+    "sanskrit": "samavāyādviśuddhānāṃ saṃcayātpuṇyakarmaṇām / kākatālīyayogena prathamodeti bhūmikā //",
+    "english": "As it is by association with holy men, and by means of the assemblage of virtuous acts, that one arrives on a sudden to the first stage of yoga:—",
+    "morphology": "samavāyāt_samavāya_SBM viśuddhānām_viśudh_PGPaM saṃcayāt_saṃcaya_SBM puṇya_puṇya_Cp karmaṇām_karman_PGM  / kākatālīya_kākatālīya_Cp yogena_yoga_SIM prathamā_prathama_SNF udeti_udi_SPr3In bhūmikā_bhūmikā_SNF  /"
+  },
+  {
+    "index": 5146,
+    "sanskrit": "uṣya dvādaśa rātram tu kṛtātmā bhavate naraḥ",
+    "english": "By staying there for twelve nights, one's soul is cleansed of all sins.",
+    "morphology": "uṣya_vas_Co"
+  },
+  {
+    "index": 5147,
+    "sanskrit": "bilvamūle kṣīramuktamannamājyena saṃyutam | yo dadyācchivabhaktāya sa daridro na jāyate ||",
+    "english": "31. He who makes a gift of rice cooked in milk and ghee to a devotee of Śiva, at the root of a Bilva tree will never become poor.",
+    "morphology": "bilva_bilva_Cp mūle_mūla_SLNe kṣīra_kṣīra_Cp muktam_muc_SAPaNe annam_anna_SANe ājyena_ājya_SINe saṃyutam_saṃyuta_SANe  / yaḥ_yad_SNM dadyāt_dā_SPr3O śiva_śiva_Cp bhaktāya_bhakta_SDM sa_tad_SNM daridraḥ_daridra_SNM na_na_ jāyate_jan_"
+  },
+  {
+    "index": 5148,
+    "sanskrit": "adṛṣṭitaḥ vikurute dṛṣṭvā vā na abhibhāṣate",
+    "english": "When the eye of the person assured is on him, the wicked man does not even allude to the subject.",
+    "morphology": "adṛṣṭitaḥ_adṛṣṭi_SBF vikurute_vikṛ_SPr3In dṛṣṭvā_dṛś_Co vā_vā_U na_na_U abhibhāṣate_abhibhāṣ_SPr3In"
+  },
+  {
+    "index": 5149,
+    "sanskrit": "nṛttam gītam ca kaunteya citrasenāt avāpnuhi",
+    "english": "Indra addressed him in due time, saying, 'O son of Kunti, learn thou music and dancing from Chitrasena.",
+    "morphology": "nṛttam_nṛtta_SANe gītam_gīta_SANe ca_ca_U"
+  },
+  {
+    "index": 5150,
+    "sanskrit": "athaivamabhipadya vācayati / dhruvāsi dhruvo 'yaṃ yajamāno 'sminnāyatane prajayā bhūyāditi paśubhiriti vaivaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate //",
+    "english": "He then makes (the sacrificer) say, while touching it thus , 'Thou art firm: may this sacrificer be firm in this homestead through progeny'--or, 'through cattle!' thus whatever wish he entertains that wish is accomplished unto him.",
+    "morphology": "atha_atha_ evam_evam_ abhipadya_abhipad_Co vācayati_vācay_SPr3In  / dhruvā_dhruva_SNF asi_as_SPr2In dhruvaḥ_dhruva_SNM ayam_idam_SNM yajamānaḥ_yaj_SNPaPrM asmin_idam_SLNe āyatane_āyatana_SLNe prajayā_prajā_SIF bhūyāt_bhū_SPs3O iti_iti_ paśu"
+  },
+  {
+    "index": 5151,
+    "sanskrit": "ruciruvāca | hatā tasya janirnābhūtkathaṃ pāpa durātmanā || 56 ||",
+    "english": "Ruci said:",
+    "morphology": "ruciḥ_ruci_SNM uvāca_vac_SPs3In  / hatā_han_SNPaF tasya_tad_SGM janiḥ_jani_SNF na_na_ abhūt_bhū_SPs3In katham_katham_ pāpa_pāpa_SVM durātmanā_durātman_SIM"
+  }
+]

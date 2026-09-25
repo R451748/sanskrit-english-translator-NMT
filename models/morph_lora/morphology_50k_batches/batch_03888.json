@@ -1,0 +1,50 @@
+[
+  {
+    "index": 31096,
+    "sanskrit": "yaccoktaṃ tapaḥśabdena parivrāḍapyukta iti /",
+    "english": "but it is not true that the term Austerity includes the Wandering Mendicant also",
+    "morphology": "yat_yad_SNNe ca_ca_ uktam_vac_SNPaNe tapaḥ_tapas_Cp śabdena_śabda_SIM parivrāj_parivrāj_SNM api_api_ uktaḥ_vac_SNPaM iti_iti_"
+  },
+  {
+    "index": 31097,
+    "sanskrit": "jāla ābhaḥ kaṭhina siraḥ mahān sa raktaḥ saṃtānaḥ smṛtaḥ iha jāla saṃjñitaḥ tu",
+    "english": "Red and extensive patches of hardened veins spreading over the white coat and looking like a net-work is called Sira-jala.",
+    "morphology": "jāla_jāla_NeCp ābhaḥ_ābha_SNM kaṭhina_kaṭhina_Cp siraḥ_sirā_SNM mahān_mahat_SNM sa_tad_SNM raktaḥ_rakta_SNM saṃtānaḥ_saṃtāna_SNM smṛtaḥ_smṛ_SNPaPsM iha_iha_U jāla_jāla_NeCp saṃjñitaḥ_saṃjñita_SNM tu_tu_U"
+  },
+  {
+    "index": 31098,
+    "sanskrit": "tathā me pātakaṃ sarvaṃ prasādāttava śaṃkara || 8 ||",
+    "english": "Śaṅkara said:",
+    "morphology": "tathā_tathā_ me_mad_SG pātakam_pātaka_SNNe sarvam_sarva_SNNe prasādāt_prasāda_SBM tava_tvad_SG śaṃkara_śaṃkara_SVM"
+  },
+  {
+    "index": 31099,
+    "sanskrit": "apakṣapātinaḥ sabhyāḥ satyam utpattyapekṣayā / śabdasya kalpanām āhuḥ abhivyaktau laghīyasīm //",
+    "english": "The speed of the air is a well-known fact but not a fiction. We have only indulged in imagination regarding the improvement made upon the organ of hearing.",
+    "morphology": "apakṣapātinaḥ_apakṣapātin_PNM sabhyāḥ_sabhya_PNM satyam_satya_SANe utpatti_utpatti_Cp apekṣayā_apekṣā_SIF  / śabdasya_śabda_SGM kalpanām_kalpanā_SAF āhuḥ_ah_PPs3In abhivyaktau_abhivyakti_SLF laghīyasīm_laghīyas_SAF  /"
+  },
+  {
+    "index": 31100,
+    "sanskrit": "atas ūrdhvam pravakṣyāmi sarvān eva prajāpatīn",
+    "english": "I shall now mention all the Prajapatis who came after these.",
+    "morphology": "atas_atas_U ūrdhvam_ūrdhvam_U"
+  },
+  {
+    "index": 31101,
+    "sanskrit": "ātmagrāhi ca vijñānamātmano yadi jāyate / tataḥ sarvātmavijñānaṃ yugapat samprasajyate //",
+    "english": "If the cognition envisaging the soul proceeds from one’s own soul, then there should be the cognition of all souls at one and the same time.",
+    "morphology": "ātma_ātman_Cp grāhi_grāhin_SNNe ca_ca_ vijñānam_vijñāna_SNNe ātmanaḥ_ātman_SBM yadi_yadi_ jāyate_jan_SPr3In  / tatas_tatas_ sarva_sarva_Cp ātma_ātman_Cp vijñānam_vijñāna_SNNe yugapad_yugapad_ samprasajyate_samprasañj_SPr3InPv  /"
+  },
+  {
+    "index": 31102,
+    "sanskrit": "etat śrutvā mahā rāja dharme kuru manaḥ sadā yudhiṣṭhiraḥ uvāca adharmasya gatiḥ brahman kathitā me tvayā anagha",
+    "english": "Having listened to all this, O monarch, do thou always set thy heart on righteousness.'\" SECTION CXII \"Yudhishthira said, 'Thou hast told me, O regenerate one, what the end is of unrighteousness or sin.",
+    "morphology": "etat_etad_SANe śrutvā_śru_Co mahā_mahat_Cp rāja_rāja_SVM dharme_dharma_SLM kuru_kṛ_SPr2Im manaḥ_manas_SANe sadā_sadā_U yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In adharmasya_adharma_SGM gatiḥ_gati_SNF brahman_brahman_SVM kathitā"
+  },
+  {
+    "index": 31103,
+    "sanskrit": "annaṃ pānaṃ ca śūdre'pi brāhmaṇe ca viśiṣyate | na pṛcchedgotracaraṇaṃ svādhyāyaṃ deśameva ca ||",
+    "english": "38. Gift of food and drink whether to a Śūdra or to a brahmin is equally excellent. One should not ask the spiritual lineage,[1] branch of the Vedas[2] or the country of the recipient.",
+    "morphology": "annam_anna_SNNe pānam_pāna_SNNe ca_ca_ śūdre_śūdra_SLM api_api_ brāhmaṇe_brāhmaṇa_SLM ca_ca_ viśiṣyate_viśiṣ_SPr3InPv  / na_na_ pṛcchet_pracch_SPr3O gotra_gotra_Cp caraṇam_caraṇa_SAM svādhyāyam_svādhyāya_SAM deśam_deśa_SAM eva"
+  }
+]

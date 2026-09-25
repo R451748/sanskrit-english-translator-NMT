@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24552,
+    "sanskrit": "utpātā hy atra dṛśyante kathayanto naśobhanam /",
+    "english": "He said:—These omens presage evil.",
+    "morphology": "utpātāḥ_utpāta_PNM hi_hi_ atra_atra_ dṛśyante_dṛś_PPr3InPv kathayantaḥ_kathay_PNPaPrM na_na_ śobhana_śobhana_SANe"
+  },
+  {
+    "index": 24553,
+    "sanskrit": "vāsanāmātrabhāvacceti mātragrahaṇaṃ tathābhūtālambanārthavyavacchedārtham /",
+    "english": "In the phrase ‘proceeding entirely from Disposition’, the term ‘entirely’ is for the purpose of excluding a real background.",
+    "morphology": "vāsanā_vāsanā_Cp mātra_mātra_Cp bhāvat_bhāvat_SNNe ca_ca_ iti_iti_ mātra_mātra_Cp grahaṇam_grahaṇa_SNNe tathābhūta_tathābhūta_Cp ālambana_ālambana_Cp artha_artha_Cp vyavaccheda_vyavaccheda_Cp artham_artha_SAM  /"
+  },
+  {
+    "index": 24554,
+    "sanskrit": "pradūṣya māṃsam gala rodhinaḥ aṅkurān sṛjanti yān sā asuharā hi rohiṇī",
+    "english": "The disease is called Rohini (Diphtheria).",
+    "morphology": "pradūṣya_pradūṣay_Co māṃsam_māṃsa_SANe gala_gala_MCp rodhinaḥ_rodhin_SGM aṅkurān_aṅkura_PAM sṛjanti_sṛj_PPr3In yān_yad_PAM sā_tad_SNF asuharā_asuhara_SNF hi_hi_U"
+  },
+  {
+    "index": 24555,
+    "sanskrit": "sarva tīrtha samāvāsaḥ dṛśyate atra arbuda acalaḥ kāśmīra maṇḍalam ca etat sarva puṇyam ariṃdama mahā ṛṣibhiḥ ca adhyuṣitam paśya idam bhrātṛbhiḥ saha",
+    "english": "Look, O king with thy brothers at the sacred region of Kasmeera, frequented by holy sages.",
+    "morphology": "sarva_sarva_Cp tīrtha_tīrtha_NeCp samāvāsaḥ_samāvāsa_SNM dṛśyate_dṛś_SPr3InPv atra_atra_U arbuda_arbuda_MCp acalaḥ_acala_SNM kāśmīra_kāśmīra_MCp maṇḍalam_maṇḍala_SNNe ca_ca_U etat_etad_SNNe sarva_sarva_Cp puṇyam_puṇya_SNNe"
+  },
+  {
+    "index": 24556,
+    "sanskrit": "agnaye 'nubrūhīti /",
+    "english": "The Hotri sits down in the Hotri's seat.",
+    "morphology": "agnaye_agni_SDM"
+  },
+  {
+    "index": 24557,
+    "sanskrit": "etad eva spaṣṭayann āha yadyapītyādi / yadyapyudakāharaṇādiṣu dṛṣṭasāmarthyā ghaṭavyaktiḥ kartuṃ na [p.624] pāryate, niṣpannavinaṣṭatvāt /",
+    "english": "This same idea is further clarified ‘Even with regard to the Individual, etc. etc.’ Even though the individual Jar has had its efficiency perceived in the past in the fetching of water, yet that individual cannot be made again; as it has come and perished;",
+    "morphology": "etat_etad_SANe eva_eva_ spaṣṭayan_spaṣṭay_SNPaPrM āha_ah_SPs3In yadi_yadi_ api_api_ ityādi_ityādi_SNNe  / yadi_yadi_ api_api_ udaka_udaka_Cp āharaṇa_āharaṇa_Cp ādiṣu_ādi_PLNe dṛṣṭa_dṛś_PaCp sāmarthyā_sāmarthya_SNF ghaṭa_g"
+  },
+  {
+    "index": 24558,
+    "sanskrit": "amanthiṣṭām bhāratā revat agnim deva śravāḥ deva vātaḥ su dakṣam agne vi paśya br̥hatā abhi rāyā iṣām naḥ netā bhavatāt anu dyūn",
+    "english": "Both Bharatas, Devaṣravas, Devavâta, have strongly rubbed to life effectual Agni. O Agni, look thou forth with ample riches: be, every day, bearer of food to feed us.",
+    "morphology": "amanthiṣṭām_math_DuPs3In bhāratā_bhārata_DuNM revat_revat_SANe agnim_agni_SAM deva_deva_MCp śravāḥ_śravas_SNM deva_deva_MCp vātaḥ_vāta_SNM su_su_U dakṣam_dakṣa_SAM agne_agni_SVM vi_vi_U paśya_paś_SPr2Im br̥hatā_brāhmat_SIM abhi_ab"
+  },
+  {
+    "index": 24559,
+    "sanskrit": "asvargyaṃ svargaprāptau karmāntarajanyāyāṃ pratibandhakam /",
+    "english": "\"Leads to loss of heaven\";ie, obstructs the passage to heaven, that might have been opened by other meritorious deeds.",
+    "morphology": "__asvargya_U __svarga_U __prāpti_U __karman_U __antara_U __jan_GdU __pratibandhaka_U"
+  }
+]

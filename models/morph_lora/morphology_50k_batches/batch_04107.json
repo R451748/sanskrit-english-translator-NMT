@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32848,
+    "sanskrit": "rūpāṇi ca balākānām gṛdhra cakrāṅgayoḥ api",
+    "english": "He it is that assumes the forms of cranes and vultures and Chakravakas.",
+    "morphology": "rūpāṇi_rūpa_PNNe ca_ca_U balākānām_balākā_PGF gṛdhra_gṛdhra_MCp cakrāṅgayoḥ_cakrāṅga_DuGM api_api_U"
+  },
+  {
+    "index": 32849,
+    "sanskrit": "tasmiṃstīrthe sakṛtsnānā tsmaraṇātkīrtanādapi | loke tatodhikaṃ tīrthaṃ tattulyaṃ vā dvijottamāḥ || 5 ||",
+    "english": "3-9. Of the twenty-four important Tīrthas, O excellent Brāhmaṇas, the first one that is mentioned is well-known in all the worlds. By remembering that Tīrtha a devotee will cease to have rebirth in any species. Even the sins committed in the course of a hundred thousand births become dissolved by taking a single holy bath in that Tīrtha, by remembering it and by glorifying it. A Tīrtha superior to this or at least equal to it does not exist in the world, O excellent Brāhmaṇas. O excellent sages, the truth has been stated by me.",
+    "morphology": "tasmin_tad_SLNe tīrthe_tīrtha_SLNe sakṛt_sakṛt_ snānāt_snāna_SBNe smaraṇāt_smaraṇa_SBNe kīrtanāt_kīrtana_SBNe api_api_  / loke_loka_SLM tatas_tatas_ adhikam_adhika_SNNe tīrtham_tīrtha_SNNe tad_tad_Cp tulyam_tulya_SNNe vā_vā_ dvijottam"
+  },
+  {
+    "index": 32850,
+    "sanskrit": "pāṇḍava arthe hi lubhyantaḥ sva arthāt dhāsyanti te sutāḥ",
+    "english": "Coveting the possessions of the Pandavas, thy sons will lose their own.",
+    "morphology": "pāṇḍava_pāṇḍava_MCp arthe_artha_SLM hi_hi_U lubhyantaḥ_lubh_PNPaPrM"
+  },
+  {
+    "index": 32851,
+    "sanskrit": "so hy āvāṃ yudhi nirjetā tasyāvāṃ vihitau sutau // sa hi gṛhya mṛdhe daityau dorbhyāṃ tau samapīḍayat / janmatur nidhanaṃ cāpi tāv ubhau madhukaiṭabhau //",
+    "english": "Catching these two demons with his arms in battle Nārāyana assailed them. Thereat Madhu and Kaitava met with death. Thus killed those two Dāityas were saturated with water.",
+    "morphology": "saḥ_tad_SNM hi_hi_ āvām_mad_DuA yudhi_yudh_SLF nirjetā_nirji_SFu3InPe tasya_tad_SGM āvām_mad_DuN vihitau_vidhā_DuNPaM sutau_suta_DuNM  // sa_tad_SNM hi_hi_ gṛhya_grah_Co mṛdhe_mṛdha_SLM daityau_daitya_DuAM dorbhyām_dos_PB tau_tad_DuAM samap"
+  },
+  {
+    "index": 32852,
+    "sanskrit": "na ca eṣām maithunaḥ dharmaḥ babhūva bharata ṛṣabha",
+    "english": "Sexual congress, O chief of the Bharatas, was then not necessary for perpetuating the species.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 32853,
+    "sanskrit": "puruṣam tam na paśyāmi yaḥ saheta mahāvratam dhṛṣṭadyumnam ṛte rājan iti me dhīyate matiḥ",
+    "english": "I do not, O king, see the man except Dhrishtadyumna, who is able to withstand Bhishma of great vows. This is just what I think.",
+    "morphology": "puruṣam_puruṣa_SAM tam_tad_SAM na_na_U paśyāmi_paś_SPr1In yaḥ_yad_SNM saheta_sah_SPr3O mahāvratam_mahāvrata_SAM dhṛṣṭadyumnam_dhṛṣṭadyumna_SAM ṛte_ṛte_U rājan_rājan_SVM"
+  },
+  {
+    "index": 32854,
+    "sanskrit": "ye tu tad bhāvitāḥ loke ekānti tvam samāsthitāḥ etat abhyadhikam teṣām yat te tam praviśanti uta",
+    "english": "Those persons in this world who, filled with His spirit, become fully and conclusively devoted to Him, attain to ends that are much higher, for they succeed in entering Him and becoming merged in his Self.",
+    "morphology": "ye_yad_PNM tu_tu_U tad_tad_Cp bhāvitāḥ_bhāvay_PNPaPsM loke_loka_SLM ekānti_ekāntin_Cp tvam_tva_SANe samāsthitāḥ_samāsthā_PNPaPsM etat_etad_SNNe abhyadhikam_abhyadhika_SNNe teṣām_tad_PGM yat_yat_U te_tad_PNM tam_tad_SAM praviśanti_praviś_P"
+  },
+  {
+    "index": 32855,
+    "sanskrit": "śabdaśaktiṃ gate śrotre varāke svārthapīḍite / tadahaṃkāraduḥkhasya nirbījasya ka āgamaḥ //",
+    "english": "You often hear that word ringing in your ears, though you feel it to be an empty sound as air, and cannot account whence this rootless word had its rise.",
+    "morphology": "śabda_śabda_Cp śaktim_śakti_SAF gate_gam_SLPaNe śrotre_śrotra_SLNe varāke_varāka_SLNe sva_sva_Cp artha_artha_Cp pīḍite_pīḍay_SLPaNe  / tad_tad_Cp ahaṃkāra_ahaṃkāra_Cp duḥkhasya_duḥkha_SGNe nirbījasya_nirbīja_SGNe kaḥ_ka_SNM āga"
+  }
+]

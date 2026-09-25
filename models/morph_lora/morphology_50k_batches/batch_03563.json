@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28496,
+    "sanskrit": "anyena ca vinā hetur yathā vyāpāra iṣyate / kāryasya vā bhavet tadvat kimanye 'pi na hetavaḥ //",
+    "english": "Just as the ‘operation’, without any other (operation), is held to be the cause of the effect, in the same way, why cannot others, like it, be causes? (525)",
+    "morphology": "anyena_anya_SIM ca_ca_ vinā_vinā_ hetuḥ_hetu_SNM yathā_yathā_ vyāpāraḥ_vyāpāra_SNM iṣyate_iṣ_SPr3InPv  / kāryasya_kārya_SGNe vā_vā_ bhavet_bhū_SPr3O tadvat_tadvat_ kim_ka_SNNe anye_anya_PNM api_api_ na_na_ hetavaḥ_hetu_PNM  /"
+  },
+  {
+    "index": 28497,
+    "sanskrit": "annameva paraṃ gāvo devānāṃ haviruttamam //",
+    "english": "The excellent food for gods is the clarified butter from cows.",
+    "morphology": "annam_anna_SNNe eva_eva_ param_para_SNNe gāvaḥ_go_PNM devānām_deva_PGM haviḥ_havis_SNNe uttamam_uttama_SNNe  /"
+  },
+  {
+    "index": 28498,
+    "sanskrit": "atho atiriktenaivātiriktam āptvāva rundhate yadi madhyaṃdine dīryeta vaṣaṭkāranidhanaṃ sāma kuryus |",
+    "english": "If it is broken at the midday pressing, they should make the Saman have the Vasatkara as its finale.",
+    "morphology": "atha_atha_ u_u_ atiriktena_atiric_SIPaNe eva_eva_ atiriktam_atiric_SAPaNe āptvā_āp_Co ava_ava_ rundhate_rudh_PPr3In yadi_yadi_ madhyaṃdine_madhyaṃdina_SLM dīryeta_dṛ_SPr3OPv vaṣaṭkāra_vaṣaṭkāra_Cp nidhanam_nidhana_SANe sāma_sāman_SANe"
+  },
+  {
+    "index": 28499,
+    "sanskrit": "vāstavī cānumā sarvā dvayasiddhamapekṣate /",
+    "english": "Every right inference requires such corroborative instance, etc, as are admitted by both parties.",
+    "morphology": "vāstavī_vāstava_SNF ca_ca_ anumā_anumā_SNF sarvā_sarva_SNF dvaya_dvaya_Cp siddham_sidh_SAPaNe apekṣate_apekṣ_SPr3In  /"
+  },
+  {
+    "index": 28500,
+    "sanskrit": "tatrārthapratibhāsaṃ yad rūpādibhāvena pratibhāsate /",
+    "english": "In this passage, the appearance of objects of senses and understanding is that which appears because of the being of cf. Kausika-prajñā-pārumitā-sūtra visibles, etc.",
+    "morphology": "tatra_tatra_ artha_artha_Cp pratibhāsam_pratibhāsa_SNNe yat_yad_SNNe rūpa_rūpa_Cp ādi_ādi_Cp bhāvena_bhāva_SIM pratibhāsate_pratibhās_SPr3In  /"
+  },
+  {
+    "index": 28501,
+    "sanskrit": "kliṣṭā na tu prakṛtyeti darśayati /",
+    "english": "He shows that it is defiled but not intrinsically so.",
+    "morphology": "kliṣṭāḥ_kliś_PNPaM na_na_ tu_tu_ prakṛtyā_prakṛti_SIF iti_iti_"
+  },
+  {
+    "index": 28502,
+    "sanskrit": "hate tu pāṇḍave kṛṣṇaḥ bhrātaraḥ ca asya sodarāḥ anarjunāḥ na śakṣyanti mahīm bhoktum katham cana",
+    "english": "Upon Arjuna's fall, Krishna and the uterine brothers of Arjuna will never be able to enjoy the (sovereignty of the) earth without Arjuna (to aid them).",
+    "morphology": "hate_han_SLPaPsM tu_tu_U pāṇḍave_pāṇḍava_SLM kṛṣṇaḥ_kṛṣṇa_SNM bhrātaraḥ_bhrātṛ_PNM ca_ca_U asya_idam_SGM sodarāḥ_sodara_PNM anarjunāḥ_anarjuna_PNM na_na_U śakṣyanti_śak_PFu3In mahīm_mahī_SAF bhoktum_bhuj_In katham_"
+  },
+  {
+    "index": 28503,
+    "sanskrit": "evaṃ devi samākhyātaṃ tatkṣetraṃ hi tridaivatam | guhyādguhyataraṃ kṣetraṃ mama priyataraṃ śubhe || 26 ||",
+    "english": "26. Thus, O goddess, that holy spot has been described as having three divinities. O splendid lady, this holy spot is the greatest secret of all secrets and very dear to me.",
+    "morphology": "evam_evam_ devi_devī_SVF samākhyātam_samākhyā_SNPaNe tat_tad_SNNe kṣetram_kṣetra_SNNe hi_hi_ tri_tri_Cp daivatam_daivata_SNNe  / guhyāt_guhya_SBNe guhyataram_guhyatara_SNNe kṣetram_kṣetra_SNNe mama_mad_SG priyataram_priyatara_SNNe śubhe_śub"
+  }
+]

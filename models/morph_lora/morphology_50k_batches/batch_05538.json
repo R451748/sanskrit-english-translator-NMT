@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44296,
+    "sanskrit": "tasya tadvacanaṃ śrutvā romāṃcita tanūruhaḥ | jñātvā māheśvaraḥ ko'yaṃ ciṃtāvānsamupasthitaḥ || 20 ||",
+    "english": "20. On hearing his words, he (i.e. Niṃbaśuca) became glad and experienced horripilation all over his body. He thought: ‘Who may be this devotee of Maheśvara perpetually engaged in meditation who has come to me?’ (and then said:)",
+    "morphology": "tasya_tad_SGM tat_tad_SANe vacanam_vacana_SANe śrutvā_śru_Co romāṃcita_romāñcita_SVM tanūruhaḥ_tanūruha_SNM  / jñātvā_jñā_Co māheśvaraḥ_māheśvara_SNM kaḥ_ka_SNM ayam_idam_SNM ciṃtāvān_ciṃtāvat_SNM samupasthitaḥ_samupasthā"
+  },
+  {
+    "index": 44297,
+    "sanskrit": "dānaṃ bahirvedi yathāśaktidravyasaṃvibhāgo bhikṣamāṇebhyaḥ /",
+    "english": "c Charity making gifts outside the sacrificial altar, i e distribution of wealth according to one’s resources among persons seeking for it",
+    "morphology": "dānam_dāna_SNNe bahirvedi_bahirvedi_ yathāśakti_yathāśakti_ dravya_dravya_Cp saṃvibhāgaḥ_saṃvibhāga_SNM bhikṣamāṇebhyaḥ_bhikṣ_PDPaPrM  /"
+  },
+  {
+    "index": 44298,
+    "sanskrit": "anye tu manyante / santi merunivāsinaḥ kecij janapadā yatayo nāma / śrūyante indro yatīn sālāvṛkebhyaḥ prāyacchat iti /",
+    "english": "Others, however, think that there are a people known as \"Yatis,\" \"Hermits,\" inhabiting the Meru mountain; as is clear from what we read regarding \"India having made over the Yatis to the Sālāvṛkas\".",
+    "morphology": "anye_anya_PNM tu_tu_ manyante_man_PPr3In  / santi_as_PPr3In meru_meru_Cp nivāsinaḥ_nivāsin_PNM kecid_kaścit_PNM janapadāḥ_janapada_PNM yatayaḥ_yati_PNM nāma_nāma_  / śrūyante_śru_PPr3InPv indraḥ_indra_SNM yatīn_yati_PAM sālāvṛkebhya"
+  },
+  {
+    "index": 44299,
+    "sanskrit": "śiṣṭaṃ prasiddham|",
+    "english": "The MS.",
+    "morphology": "śiṣṭam_śās_SNPaNe"
+  },
+  {
+    "index": 44300,
+    "sanskrit": "punardvitīye samprāpte ṛtukāle'pyupasthitā | punaḥ sā chanditā tena vratastho'dyeti bhārata || 18 ||",
+    "english": "The next month, when the menstrual cycle recurred, she approached him again. On the plea that he was observing a holy vow, she was dissuaded by him.",
+    "morphology": "punar_punar_ dvitīye_dvitīya_SLM samprāpte_samprāp_SLPaM ṛtu_ṛtu_Cp kāle_kāla_SLM api_api_ upasthitā_upasthā_SNPaF  / punar_punar_ sā_tad_SNF chanditā_chanday_SNPaF tena_tad_SIM vrata_vrata_Cp sthaḥ_stha_SNM adya_adya_ iti_iti_ bhārata_bh"
+  },
+  {
+    "index": 44301,
+    "sanskrit": "sādhu gaccha nivartasva mā tvam prāpsyasi vaiśasam",
+    "english": "Better desist and go back.",
+    "morphology": "sādhu_sādhu_SANe gaccha_gam_SPr2Im nivartasva_nivṛt_SPr2Im mā_mā_U tvam_tvad_SN prāpsyasi_prāp_SFu2In"
+  },
+  {
+    "index": 44302,
+    "sanskrit": "madhu sāragham /",
+    "english": "\"Madhu\" stands for the honey produced by bees.",
+    "morphology": "madhu_madhu_SNNe sāragham_sāragha_SNNe  /"
+  },
+  {
+    "index": 44303,
+    "sanskrit": "adhas yā vedanām yāti varcaḥ mūtra āśaya utthitā bhindati iva guda upastham sā tūnī iti abhidhīyate",
+    "english": "A sort of pain, which (rising from the bowels or the urinary bladder and ranging downward) gives rise to a bursting sensation in the regions of the anus and the genitals, is called Tuni, whereas the one, rising upward from the preceding parts and extending up to the region of the intestines, is called Prati-tuni.",
+    "morphology": "adhas_adhas_U yā_yad_SNF vedanām_vedanā_SAF yāti_yā_SPr3In varcaḥ_varcas_SANe mūtra_mūtra_NeCp āśaya_āśaya_MCp utthitā_utthā_SNPaPsF bhindati_bhid_SPr3In iva_iva_U guda_guda_MCp upastham_upastha_SAM sā_tad_SNF tūnī_tūṇī_SNF iti_iti_U "
+  }
+]

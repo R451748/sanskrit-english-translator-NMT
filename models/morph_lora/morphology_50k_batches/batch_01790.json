@@ -1,0 +1,50 @@
+[
+  {
+    "index": 14312,
+    "sanskrit": "bhūmyatikrāntaṃ na jānātīti /",
+    "english": "It does not know a mind in a higher sphere, faculties, personalities, nor the past and future. A mind is superior either from the point of view of its bh%mi, from the point of view of its indriyas, ot from the point of view of its personality.",
+    "morphology": "bhūmi_bhūmi_Cp atikrāntam_atikram_SAPaM na_na_ jānāti_jñā_SPr3In iti_"
+  },
+  {
+    "index": 14313,
+    "sanskrit": "vratam idam ājagaram śuciḥ carāmi aniyata śayana āsanaḥ prakṛtyā dama niyama vrata satya śauca yuktaḥ",
+    "english": "Without restrictions of any kind in respect of bed and food, endued by my nature with self-restraint, abstemiousness, pure vow, truth, and purity of conduct, and without any desire to store (for future use) the rewards of action, I follow, with a delighted and pure heart, this vow.",
+    "morphology": "vratam_vrata_SANe idam_idam_SANe ājagaram_ājagara_SANe śuciḥ_śuci_SNM carāmi_car_SPr1In aniyata_aniyata_Cp śayana_śayana_NeCp āsanaḥ_āsana_SNM prakṛtyā_prakṛti_SIF dama_dama_MCp niyama_niyama_MCp vrata_vrata_NeCp satya_satya_NeCp śauca_"
+  },
+  {
+    "index": 14314,
+    "sanskrit": "tvam hi deveśa sarvasya jagataḥ paramaḥ guruḥ",
+    "english": "Though art the Lord of all the deities, and the supreme refuge of the universe.",
+    "morphology": "tvam_tvad_SN"
+  },
+  {
+    "index": 14315,
+    "sanskrit": "bhrāntistvaṃ smṛtirūpā tvaṃ mātṛrūpeṇa saṃsthitā | tvaṃ lakṣmīrbhavane puṃsāṃ puṇyākṣarapravartinām ||",
+    "english": "63. You are Bhrānti (Illusion). You appear in the form of Smṛti (Memory): you stay assuming the form of mother. You are Lakṣmī in the house of those who engage themselves in meritorious activities.",
+    "morphology": "bhrāntiḥ_bhrānti_SNF tvam_tvad_SN smṛti_smṛti_Cp rūpā_rūpa_SNF tvam_tvad_SN mātṛ_mātṛ_Cp rūpeṇa_rūpa_SINe saṃsthitā_saṃsthā_SNPaF  / tvam_tvad_SN lakṣmīḥ_lakṣmī_SNF bhavane_bhavana_SLNe puṃsām_puṃs_PGM puṇya_puṇy"
+  },
+  {
+    "index": 14316,
+    "sanskrit": "yātudhānāḥ nirṛtiḥ āt u rakṣaḥ te asya ghnantu anṛtena satyam / indra iṣitāḥ devāḥ ājam asya mathnantu mā tat sam pādi yat asau juhoti //",
+    "english": "For him may sorcerers, Destruction, demons strike and prevent fulfilment through their falsehood. Let Gods, by Indra sent, destroy his butter, and let his sacrifice be ineffective.",
+    "morphology": "yātudhānāḥ_yātudhāna_PNM nirṛtiḥ_nirṛti_SNF āt_āt_U u_u_U rakṣaḥ_rakṣas_SNNe te_tad_PNM asya_idam_SGM ghnantu_han_PPr3Im anṛtena_anṛta_SINe satyam_satya_SANe  / indra_indra_MCp iṣitāḥ_iṣay_PNPaPsM devāḥ_deva_PNM ājam_āj"
+  },
+  {
+    "index": 14317,
+    "sanskrit": "bhuśuṇḍīṃ bhīṣaṇākārāṃ gṛhītvā śailagauravām | rakṣiṇo mukuṭasyātha niṣpipeṣa niśācarān || 40 ||",
+    "english": "Looking at them with great indignation the Dānava, full of vehement heroism, took up a Bhuśuṇḍī missile as weighty as a mountain and very terrific in shape and size. He then thrashed and pounded the Night-walkers who were protecting the crown.",
+    "morphology": "bhuśuṇḍīm_bhuśuṇḍi_SAF bhīṣaṇa_bhīṣaṇa_Cp ākārām_ākāra_SAF gṛhītvā_grah_Co śaila_śaila_Cp gauravām_gaurava_SAF  / rakṣiṇaḥ_rakṣin_PAM mukuṭasya_mukuṭa_SGM atha_atha_ niṣpipeṣa_niṣpiṣ_SPs3In niśācarān_"
+  },
+  {
+    "index": 14318,
+    "sanskrit": "eṣāṃ bhūtānāṃ pṛthivī rasaḥ /",
+    "english": "The Earth is the essence of all beings;",
+    "morphology": "eṣām_idam_PGM bhūtānām_bhūta_PGM pṛthivī_pṛthivī_SNF rasaḥ_rasa_SNM  /"
+  },
+  {
+    "index": 14319,
+    "sanskrit": "aṃtarhitastu tatraiva māyayā vṛṣabhadhvajaḥ | tāmāliliṃga bhītyā svaṃ cakitā vyākulā'bhavat ||",
+    "english": "19. Sometimes Śiva would become invisible through His Māyā and suddenly embrace her when she would become terrified and agitated.",
+    "morphology": "aṃtarhitaḥ_antardhā_SNPaM tu_tu_ tatra_tatra_ eva_eva_ māyayā_māyā_SIF vṛṣabhadhvajaḥ_vṛṣabhadhvaja_SNM  / tām_tad_SAF āliliṃga_āliṅg_SPs3In bhītyā_bhīti_SIF svam_sva_SANe cakitā_cak_SNPaF vyākulā_vyākula_SNF abhavat_bhū_S"
+  }
+]

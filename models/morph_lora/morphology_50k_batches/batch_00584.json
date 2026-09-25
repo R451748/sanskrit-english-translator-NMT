@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4664,
+    "sanskrit": "prāṇanāt prāṇa ityucyate /",
+    "english": "It is called Prāna, because of breathing.",
+    "morphology": "prāṇanāt_prāṇana_SBNe prāṇaḥ_prāṇa_SNM iti_iti_ ucyate_vac_SPr3InPv "
+  },
+  {
+    "index": 4665,
+    "sanskrit": "prajñā cānye ca sarve sālambanā dharmā ākārayanti /",
+    "english": "Prajñā and all the other dharmas which have an object perceive. Everything that exists is the object of perception.",
+    "morphology": "prajñā_prajñā_SNF ca_ca_ anye_anya_PNM ca_ca_ sarve_sarva_PNM sa_sa_ ālambanāḥ_ālambana_PNM dharmāḥ_dharma_PNM ākārayanti_ākāray_PPr3In"
+  },
+  {
+    "index": 4666,
+    "sanskrit": "mamāgne varco vihaveṣv astu vayaṃ tvendhānās tanuvam puṣema |",
+    "english": "May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make ourselves to prosper;",
+    "morphology": "mama_mad_SG agne_agni_SVM varcaḥ_varcas_SNNe vihaveṣu_vihava_PLM astu_as_SPr3Im vayam_mad_PN tvā_tvad_SA indhānāḥ_indh_PNPaPrM tanuvam_tanū_SAF"
+  },
+  {
+    "index": 4667,
+    "sanskrit": "taṇḍulasyāṣṭamuṣṭīnāṃ varjayitvāṅgulīdvayaṃ / bhaktaṃ kṛtvā cāmrapuṭe sakuśe sakulāmbikāṃ //",
+    "english": "Eight times fist full of rice less the quantity that would. rest on two fingers should be cooked and kept on mango leaves knit together and spread on the kuśa and the goddess Ambikā with her retinue and benevolent attendants should be worshipped.",
+    "morphology": "taṇḍulasya_taṇḍula_SGM aṣṭa_aṣṭan_Cp muṣṭīnām_muṣṭi_PGM varjayitvā_varjay_Co aṅgulī_aṅguli_Cp dvayam_dvaya_SANe  / bhaktam_bhakta_SANe kṛtvā_kṛ_Co ca_ca_ āmra_āmra_Cp puṭe_puṭa_SLM sa_sa_ kuśe_kuśa_SLM sa_sa_ ku"
+  },
+  {
+    "index": 4668,
+    "sanskrit": "nirastāvayavācchāntādanākhyādyatpravartate / akāraṇaṃ bhavedbhūtaṃ tadandhāḥ kathamanyathā //",
+    "english": "Whatever issues out of the bodiless and nameless something, which is forever quiescent and calm in its nature; are deemed as causeless and uncaused productions, appearing before the blinded sight.",
+    "morphology": "nirasta_niras_PaCp avayavāt_avayava_SBM śāntāt_śam_SBPaM anākhyāt_anākhya_SBM yat_yad_SNNe pravartate_pravṛt_SPr3In  / akāraṇam_akāraṇa_SNNe bhavet_bhū_SPr3O bhūtam_bhū_SNPaNe tat_tad_SNNe andhāḥ_andha_PNM katham_katham_ anyathā_anya"
+  },
+  {
+    "index": 4669,
+    "sanskrit": "tasmin sthite tadā rājan kruddhe vidhṛta kārmuke",
+    "english": "And O king, as Rudra thus stood, holding his bow, the three cities during that time became united.",
+    "morphology": "tasmin_tad_SLM sthite_sthā_SLPaPsM tadā_tadā_U rājan_rājan_SVM kruddhe_krudh_SLPaPsM"
+  },
+  {
+    "index": 4670,
+    "sanskrit": "saḥ pūrvyaḥ vasu vit jāyamānaḥ mr̥jānaḥ ap su duduhānaḥ adrau abhiśasti pāḥ bhuvanasya rājā vidat gātum brahmaṇe pūyamānaḥ",
+    "english": "Born in old time as finder-out of treasures, drained with the stone, decking himself in waters, Warding off curses, King of all existence, he shall find way for prayer the while they cleanse him.",
+    "morphology": "saḥ_tad_SNM pūrvyaḥ_pūrvya_SNM vasu_vasu_NeCp vid_vid_SNM jāyamānaḥ_jan_SNPaPrM mr̥jānaḥ_mrj_SNPaPrM ap_ap_SNF su_su_U duduhānaḥ_duh_SNPaPsM adrau_adri_SLM abhiśasti_abhiśasti_FCp pāḥ_pā_SNM bhuvanasya_bhuvana_SGNe rājā_rājan_SNM "
+  },
+  {
+    "index": 4671,
+    "sanskrit": "na ananujñāta bhūmiḥ hi yajñasya phalam aśnute",
+    "english": "The person who has not obtained by lawful means the earth whereon to make the sacrificial altar, earns not the merit of the sacrifice he performs.",
+    "morphology": "na_na_U ananujñāta_ananujñāta_Cp bhūmiḥ_bhūmi_SNF hi_hi_U yajñasya_yajña_SGM phalam_phala_SANe aśnute_aś_SPr3In"
+  }
+]

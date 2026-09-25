@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19176,
+    "sanskrit": "codaneti vaidikaṃśabdamāha, viśeṣeṇa sāmānyasya lakṣaṇāt |pravṛttibhedaṃ vibhajate – yā hi codanā dharmasyaiti |",
+    "english": "There is also a difference in the operation of the text. The term codana here signifies Scriptural text not merely an injunctive text, the general being secondarily implied by what denotes the particular.",
+    "morphology": "codanā_codanā_SNF iti_iti_ vaidikam_vaidika_SAM śabdam_śabda_SAM āha_ah_SPs3In viśeṣeṇa_viśeṣeṇa_ sāmānyasya_sāmānya_SGNe lakṣaṇāt_lakṣaṇa_SBNe  / pravṛtti_pravṛtti_Cp bhedam_bheda_SAM vibhajate_vibhaj_SPr3In  / yā_yad_SNF "
+  },
+  {
+    "index": 19177,
+    "sanskrit": "garhitād iti siṃhāvalokitavat pūrvābhyām apy abhisaṃbadhyate /",
+    "english": "The epithet \"reprehensible\" is applicable both ways, according to the maxim of the \"Lion\" s glance\".",
+    "morphology": "garhitāt_garh_SBPaM iti_iti_ siṃhāvalokita_siṃhāvalokita_Cp vat_vat_ pūrvābhyām_pūrva_DuIM api_api_ abhisaṃbadhyate_abhisambandh_SPr3InPv  /"
+  },
+  {
+    "index": 19178,
+    "sanskrit": "tatas taṃ pāṇḍuraṃ śaurir mūrdhni tiṣṭhan garutmataḥ /",
+    "english": "Seated on Garuda's back she saw that sable-hued palace -.",
+    "morphology": "tatas_tatas_ tam_tad_SAM pāṇḍuram_pāṇḍura_SAM śauriḥ_śauri_SNM mūrdhni_mūrdhan_SLM tiṣṭhan_sthā_SNPaPrM garutmataḥ_garutmant_SGM  /"
+  },
+  {
+    "index": 19179,
+    "sanskrit": "yathāhi khaḍgapāśāde karaṇasya vibhedinaḥ | abhedini svahastādau layastadvadayaṃ vidhiḥ |",
+    "english": "Elucidations of this are sword, trap, etc., as means of different kinds of action having the responsibility of their use in the hands of the warrior concerned.",
+    "morphology": "yathā_yathā_ hi_hi_ khaḍga_khaḍga_Cp pāśa_pāśa_Cp āde_āda_SLM karaṇasya_karaṇa_SGNe vibhedinaḥ_vibhedin_SGNe  / abhedini_abhedin_SLM sva_sva_Cp hasta_hasta_Cp ādau_ādi_SLM layaḥ_laya_SNM tadvat_tadvat_ ayam_idam_SNM vidhiḥ_vidhi_SNM"
+  },
+  {
+    "index": 19180,
+    "sanskrit": "tam prasādya tadā devam badaryām kila bhārata",
+    "english": "O PART I Bharata, in the retreat of Vadari, by penances, that he has succeeded in pervading the entire universe.",
+    "morphology": "tam_tad_SAM prasādya_prasāday_Co tadā_tadā_U devam_deva_SAM badaryām_badarī_SLF kila_kila_U bhārata_bhārata_SVM"
+  },
+  {
+    "index": 19181,
+    "sanskrit": "sakalaṃ nocyate sakalaṃ yugapadālambanta iti / api tu pañcaprakāramapi sarvaṃ yugapat /",
+    "english": "In the same way, no one considers the totality of the Dhātus as he cause of the world, but only Īévara, Prajāpati, etc. We do not say that the universals have the entire Dhātu for their object all at once, but rather they have the Dhātu in its five categories for their object: “entire” refers to the totality of types.",
+    "morphology": "sakalam_sakala_SNNe na_na_ ucyate_vac_SPr3InPv sakalam_sakala_SANe yugapad_yugapad_ ālambantaḥ_ālamb_PNPaPrM iti_iti_  / api_api_ tu_tu_ pañca_pañcan_Cp prakāram_prakāra_SNNe api_api_ sarvam_sarva_SNNe yugapad_yugapad_  /"
+  },
+  {
+    "index": 19182,
+    "sanskrit": "vidhihīne tathā'pātre yo dadāti pratigraham | na kevalaṃ hi tadyāti śeṣaṃ puṇyaṃ praṇaśyati || 13 ||",
+    "english": "13. If a monetary gift is offered to an undeserving person and contrary to the injunctions, not only does the money so offered vanish but also the remaining merit is destroyed.",
+    "morphology": "vidhi_vidhi_Cp hīne_hā_SLPaNe tathā_tathā_ apātre_apātra_SLNe yaḥ_yad_SNM dadāti_dā_SPr3In pratigraham_pratigraha_SAM  / na_na_ kevalam_kevalam_ hi_hi_ tat_tad_SNNe yāti_yā_SPr3In śeṣam_śeṣa_SNNe puṇyam_puṇya_SNNe praṇaśyati_praṇ"
+  },
+  {
+    "index": 19183,
+    "sanskrit": "yatra snātvā kṛtārthaḥ asmi iti ātmānam avagacchati",
+    "english": "Bathing there, one regardeth himself as having all his purposes fulfilled.",
+    "morphology": "yatra_yatra_U snātvā_snā_Co kṛtārthaḥ_kṛtārtha_SNM asmi_as_SPr1In iti_iti_U ātmānam_ātman_SAM avagacchati_avagam_SPr3In"
+  }
+]

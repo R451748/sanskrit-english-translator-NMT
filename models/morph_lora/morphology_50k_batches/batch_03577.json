@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28608,
+    "sanskrit": "chalajātinigrahasthānāni jalpavitaṇḍopakaraṇāni /",
+    "english": "In cases of debate like Jalpi or Vitaṇḍā type, Chala, Jāti and Nigrahasthana are freely employed.",
+    "morphology": "chala_chala_Cp jāti_jāti_Cp nigrahasthānāni_nigrahasthāna_PNNe"
+  },
+  {
+    "index": 28609,
+    "sanskrit": "evamācarato dharmaṃ maheśasya gṛhe sataḥ | dharmārthakāmasaṃprāptau paratreha ca śobhanam || 173 ||",
+    "english": "173. To a person who practises pious rites thus and stays in the abode of Maheśa, everything is splendid both here and hereafter on attaining wealth, virtue and love.",
+    "morphology": "evam_evam_ ācarataḥ_ācar_SGPaPrM dharmam_dharma_SAM maheśasya_maheśa_SGM gṛhe_gṛha_SLM sataḥ_as_SGPaPrM  / dharma_dharma_Cp artha_artha_Cp kāma_kāma_Cp saṃprāptau_samprāpti_SLF"
+  },
+  {
+    "index": 28610,
+    "sanskrit": "tadatra hetudharmasya tādṛśo 'numitair matāḥ / jātās tadekakālās te sarve bodhādayo 'pare //",
+    "english": "because if the Probans were to lead to the inference of things without some such relationship, then they might lead to the inference of anything and everything;",
+    "morphology": "tat_tad_SNNe atra_atra_ hetu_hetu_Cp dharmasya_dharma_SGM tādṛśaḥ_tādṛś_PNM anumitaiḥ_anumā_PIPaM matāḥ_man_PNPaM  / jātāḥ_jan_PNPaM tad_tad_Cp eka_eka_Cp kālāḥ_kāla_PNM te_tad_PNM sarve_sarva_PNM bodha_bodha_Cp ādayaḥ_ādi_PNM"
+  },
+  {
+    "index": 28611,
+    "sanskrit": "takra odana āśī vijayeta rogam pāṇḍum tathā dīpayate analam ca||",
+    "english": "The medicine acts as a good appetiser and proves curative in cases of Pandu.",
+    "morphology": "takra_takra_NeCp odana_odana_NeCp āśī_āśin_SNM vijayeta_viji_SPr3O rogam_roga_SAM pāṇḍum_pāṇḍu_SAM tathā_tathā_U dīpayate_dīpay_SPr3In"
+  },
+  {
+    "index": 28612,
+    "sanskrit": "pratir ābhimukhye /",
+    "english": "The prefix \"prati\" has the sense of being face to face.",
+    "morphology": "pratiḥ_prati_SNM"
+  },
+  {
+    "index": 28613,
+    "sanskrit": "śaṃkha uvāca | trividhā jīvasaṃghā hi rajaḥsattvatamoguṇāḥ | rājasā rājasaṃ karma tāmasāstāmasaṃ tathā || 3 || sāttvikāḥ sāttvikaṃ karma kurvaṃtyete yathākramam | kvacicca guṇavaiṣamyameteṣāṃ saṃsṛtau bhavet || 4 ||",
+    "english": "Śaṅkha said: 3-6. Indeed the groups of Jīvas are of three types with Rajas, Sattva and Tamas as their Guṇas.[1] Those of Rajas perform Rājasa activities. Those of Tamas pursue Tāmasa activities and those of Sattva pursue Sāttvika activities.",
+    "morphology": "śaṃkhaḥ_śaṃkha_SNM uvāca_vac_SPs3In  / trividhāḥ_trividha_PNM jīva_jīva_Cp saṃghāḥ_saṃgha_PNM hi_hi_ rajaḥ_rajas_Cp sattva_sattva_Cp tamaḥ_tamas_Cp guṇāḥ_guṇa_PNM  / rājasāḥ_rājasa_PNM rājasam_rājasa_SANe karma_karman"
+  },
+  {
+    "index": 28614,
+    "sanskrit": "upayāmagṛhīto 'sīty āha |",
+    "english": "'Thou art taken with a support', he says, for the support of inspiration.",
+    "morphology": "upayāma_upayāma_Cp grah_SNPaM"
+  },
+  {
+    "index": 28615,
+    "sanskrit": "athāpi pācakatvādijātiranyaiva vartate / sadyojāte 'pi tadyogāt pācakādimatir bhavet //",
+    "english": "in the same way, the ‘Universal’ Cook also, being inherent in a certain particular substratum, would not appear at all times; so that it would not inhere in the new-born child.",
+    "morphology": "atha_atha_ api_api_ pācaka_pācaka_Cp tva_tva_Cp ādi_ādi_Cp jātiḥ_jāti_SNF anyā_anya_SNF eva_eva_ vartate_vṛt_SPr3In  / sadyojāte_sadyojāta_SLM api_api_ tad_tad_Cp āḥ_ap_SNM ḥ_ḥ_"
+  }
+]

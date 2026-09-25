@@ -1,0 +1,50 @@
+[
+  {
+    "index": 17600,
+    "sanskrit": "asmākam indraḥ samṛteṣu dhvajeṣv asmākaṃ yā iṣavas tā jayantu / asmākaṃ vīrā uttare bhavantv asmām̐ u devā avatā haveṣu //",
+    "english": "May Indra aid us when our flags are gathered: victorious be the arrows of our army. May our brave men of war prevail in battle. Ye Gods protect us in the shout of onset.44",
+    "morphology": "asmākam_mad_PG indraḥ_indra_SNM samṛteṣu_samṛch_PLPaM dhvajeṣu_dhvaja_PLM asmākam_mad_PG yāḥ_yad_PNF iṣavaḥ_iṣu_PNF tāḥ_tad_PNF jayantu_ji_PPr3Im  / asmākam_mad_PG vīrāḥ_vīra_PNM uttare_uttara_PNM bhavantu_bhū_PPr3Im asmām_m"
+  },
+  {
+    "index": 17601,
+    "sanskrit": "viparyaye mūlyadviguṇo daṇḍaḥ //",
+    "english": "otherwise a fine of twice the value of the grains shall be imposed",
+    "morphology": "viparyaye_viparyaya_SLM mūlya_mūlya_Cp dviguṇaḥ_dviguṇa_SNM daṇḍaḥ_SNM  /"
+  },
+  {
+    "index": 17602,
+    "sanskrit": "tantur iti prajāḥ pṛtanāṣāḍ iti paśūn revad ity oṣadhīs |",
+    "english": "with 'thread', offspring; with 'enduring the battle', cattle; with 'wealthy', plants.",
+    "morphology": "tantuḥ_tantu_SNM iti_iti_ prajāḥ_prajā_PAF pṛtanāṣāh_pṛtanāṣāh_SNM iti_iti_ paśūn_paśu_PAM revat_revat_SNNe iti_iti_ oṣadhīḥ_oṣadhi_PAF"
+  },
+  {
+    "index": 17603,
+    "sanskrit": "sampattārā mahāśreṣṭhā vipattārā tu niṣphalā /",
+    "english": "The star known as sampat yields extremely great result. The star known as vipat makes one’s attempts futile.",
+    "morphology": "sampat_sampad_Cp tārā_tārā_SNF mahā_mahat_Cp śreṣṭhā_śreṣṭha_SNF vipad_vipad_Cp tārā_tārā_SNF tu_tu_ niṣphalā_niṣphala_SNF  /"
+  },
+  {
+    "index": 17604,
+    "sanskrit": "ajñātvā tapaso bhāvaṃ tapovanamupāśritā | ciṃtayā pariśuṣyehaṃ vepate hi mano mama ||",
+    "english": "57. Without knowing the procedure of penance I have come to this penance grove. Due to this worry I am perplexed and my heart trembles”.",
+    "morphology": "a_a_ jñātvā_jñā_Co tapasaḥ_tapas_SGNe bhāvam_bhāva_SAM tapaḥ_tapas_Cp vanam_vana_SANe upāśritā_upāśri_SNPaF  / ciṃtayā_ciṃtā_SIF pariśuṣya_pariśuṣ_Co iham_iham_ vepate_vip_SPr3In hi_hi_ manaḥ_manas_SNNe mama_mad_SG  /"
+  },
+  {
+    "index": 17605,
+    "sanskrit": "pitā cataṃ sa samarabhaṭaṃ nāmnākaronnṛpaḥ / atha tau kṛtasaṃskārāvavardhetāṃ śanaiḥ śiśū //",
+    "english": "And the usual sacraments were performed for them, and the two boys gradually grew up.",
+    "morphology": "pitā_pitṛ_SNM sa_tad_SNM samarabhaṭam_samarabhaṭa_SAM nāmnā_nāman_SINe akarot_kṛ_S3ImIn nṛpaḥ_nṛpa_SNM  / atha_atha_ tau_tad_DuNM kṛta_kṛ_PaCp saṃskārau_saṃskāra_DuNM avardhetām_vṛdh_Du3ImIn śanais_śanais_ śiśū_śiśu_Du"
+  },
+  {
+    "index": 17606,
+    "sanskrit": "kulmāṣādyair baliḥ snānadhūpalepādi pūrvavat //",
+    "english": "Offering should be made with kulmāṣa etc. Bathing, fumigation and smearing etc. are done as before.",
+    "morphology": "kulmāṣa_kulmāṣa_Cp ādyaiḥ_ādya_PIM baliḥ_bali_SNM snāna_snāna_Cp dhūpa_dhūpa_Cp lepa_lepa_Cp ādi_ādi_SNNe pūrvavat_pūrvavat_"
+  },
+  {
+    "index": 17607,
+    "sanskrit": "kaṇṭhopariṣṭāt kartavyaṃ vimalāmalasārakaṃ // tadūrdhvaṃ vṛkalaṃ kuryāccakrañcādyaṃ sudarśanaṃ /",
+    "english": "Threads should be wound round the altar, neck, top and the globe of the temple after that. Then the metallic ring known as the sudarśana disc should be placed.",
+    "morphology": "kaṇṭha_kaṇṭha_Cp upariṣṭāt_upariṣṭāt_ kartavyam_kṛ_SNNeGd vimala_vimala_Cp amala_amala_Cp sārakam_sāraka_SNNe  // tad_tad_Cp ūrdhvam_ūrdhvam_ vṛkalam_vṛkala_SAM kuryāt_kṛ_SPr3O cakram_cakra_SANe ca_ca_ ādyam_ādya_SANe sudar"
+  }
+]

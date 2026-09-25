@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29216,
+    "sanskrit": "pratibhāsādītyādiśabdena varṇasaṃsthānāvasthāviśeṣādiparigrahaḥ.",
+    "english": "In the phrase ‘manifestation and the rest’, the term ‘the rest’ is meant to include Colour, Shape, Condition and other peculiarities.",
+    "morphology": "__pratibhāsa_U"
+  },
+  {
+    "index": 29217,
+    "sanskrit": "yat śakra asi parāvati yat arvāvati vr̥tra han ataḥ tvā gīḥ bhi ḥ dyu gat indra keśi bhiḥ suta vān ā vivāsati",
+    "english": "Whether, O Ṣakra, thou be far, or, Vritra-slayer, near at hand, Thence by heaven-reaching songs he who hath pressed the juice invites thee with thy long-maned Steeds.",
+    "morphology": "yat_yat_U śakra_śakra_SVM asi_as_SPr2In parāvati_parāvat_SLF yat_yat_U arvāvati_arvāvat_SLF vrītra_vrītra_NeCp han_han_SVM atas_atas_U tvā_tvad_SA gīḥ_gir_SNF bhiḥ_bhiḥ_U ḥ_ḥ_U dyu_div_MCp gat_gam_SNF indra_indra_SVM keśi_keśin_SVM"
+  },
+  {
+    "index": 29218,
+    "sanskrit": "duṣkarṇam nihatam dṛṣṭvā pañca rājan mahā rathāḥ jighāṃsantaḥ śatānīkam sarvatas paryavārayan",
+    "english": "Beholding Dushkarna slain, five mighty car-warriors, O king, surrounded Satanika on all sides, from desire of slaying him.",
+    "morphology": "duṣkarṇam_duṣkarṇa_SAM nihatam_nihan_SAPaPsM dṛṣṭvā_dṛś_Co pañca_pañcan_PNM rājan_rājan_SVM mahā_mahat_Cp rathāḥ_ratha_PNM jighāṃsantaḥ_jighāṃs_PNPaPrM śatānīkam_śatānīka_SAM sarvāḥ_sarva_PNM hā"
+  },
+  {
+    "index": 29219,
+    "sanskrit": "evaṃ tac-chāsanam antarhitam |",
+    "english": "Thus the Dispensation disappeared.",
+    "morphology": "evam_evam_ ḥ_ḥ_"
+  },
+  {
+    "index": 29220,
+    "sanskrit": "evaṃvidhe vartamāne yajñe svargasadaḥsame | vaiśaṃpāyanamāsīnaṃ papraccha janamejayaḥ || 9 ||",
+    "english": "Janamejaya said:",
+    "morphology": "evaṃvidhe_evaṃvidha_SLM vartamāne_vṛt_SLPaPrM yajñe_yajña_SLM svargasadaḥ_svargasad_PNM same_sama_PNM  / vaiśaṃpāyanaḥ_vaiśampāyana_SNM āsīnaḥ_ās_SNPaM"
+  },
+  {
+    "index": 29221,
+    "sanskrit": "hotā yakṣat tanūnapātam ūtibhir jetāram aparājitam / indraṃ devam̐ svarvidaṃ pathibhir madhumattamair narāśam̐sena tejasā vetv ājyasya hotar yaja // hotā yakṣad iḍābhir indram īḍitam ājuhvānam amartyam / devo devaiḥ savīryo vajrahastaḥ puraṃdaro vetv ājyasya hotar yaja //",
+    "english": "the conqueror never overcome, Indra, the God who finds heaven's light on paths most rich in pleasant sweets, with Narâsamsa all aglow. Let him enjoy, etc., as in verse 1 With viands let the Hotar worship Indra immortal, praised, receiver of oblations. The God, the equal of the Gods in vigour, the thunder-wielder, breaker-down of castles. Let him enjoy, etc. 4",
+    "morphology": "hotā_hotṛ_SNM yakṣat_yaj_SPs3Su tanū_tanū_Cp napātam_napāt_SAM ūtibhiḥ_ūti_PIF jetāram_jetṛ_SAM aparājitam_aparājita_SAM  / indram_indra_SAM devam_deva_SAM svar_svar_Cp vidam_vid_SAM pathibhiḥ_pathin_PIM madhumattamaiḥ_madhumattama_PI"
+  },
+  {
+    "index": 29222,
+    "sanskrit": "yaścaturthadhyāne vajropamaḥ samādhiḥ sa āsravakṣayāya samādhibhāvanā /",
+    "english": "In the Fourth Dhyāṇna there is produced an absorption that is called the cultivation \"like a Vajra\". This absorption destroys all of the defilements.",
+    "morphology": "yaḥ_yad_SNM caturtha_caturtha_Cp dhyāne_dhyāna_SLNe vajra_vajra_Cp upamaḥ_upama_SNM samādhiḥ_samādhi_SNM saḥ_SNM āsrava_āsrava_Cp kṣayāya_kṣaya_SDM samādhi_samādhi_Cp bhāvanā_bhāvanā_SNF  /"
+  },
+  {
+    "index": 29223,
+    "sanskrit": "kartṛkaraṇavyatiriktaṃ jñānajanakam ālambanam ucyata iti na paramāṇvādau prasaktir iti /",
+    "english": "An alambana is such a condition of apprehension as is other than the agent and the instrument. Therefore, a supersensible object like an atom is never an alambana.",
+    "morphology": "__kartṛ_U __karaṇa_U __vyatiric_PaU __jñāna_U __janaka_U __ālambana_U ucyate_vac_SPr3InPv iti_iti_U na_na_U __paramāṇu_U __ādi_U __prasaktiḥ_U"
+  }
+]

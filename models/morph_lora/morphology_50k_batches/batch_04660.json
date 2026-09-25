@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37272,
+    "sanskrit": "nakulaḥ sahadevaḥ ca tribhiḥ tribhiḥ ajihmagaiḥ",
+    "english": "And Nakula and Sahadeva struck him with seven straight shafts.",
+    "morphology": "nakulaḥ_nakula_SNM sahadevaḥ_sahadeva_SNM ca_ca_U tribhiḥ_tri_PIM tribhiḥ_tri_PIM ajihmagaiḥ_ajihmaga_PIM"
+  },
+  {
+    "index": 37273,
+    "sanskrit": "nanu sūtrārthenaivāgamavirodhe darśita prakṛtipratyayā pratyayā rthamityetadasaṃbaddvam / kathamasaṃbaddhaṃ yadā pūrveṇa nyāyena kartuḥ prādhānyamapi pūrvapakṣavādinā darśayitavyam /",
+    "english": "Reply How can it be said to be irrelevant, when is is necessary for the Purvapakshi to establish the fact of the Nominative being the predominant factor and it is only the Assertion quoted, and not the Sūtra, that has any bearing upon that point. And hence what is meant by citing the authority of both is to show that there are Smrtis in support of the theory that the Nominative is directly denoted, as also that it is the predominant factor.",
+    "morphology": "nanu_nanu_ sūtra_sūtra_Cp arthena_artha_SIM eva_eva_ āgama_āgama_Cp virodhe_virodha_SLM darśita_darśay_SVPaM prakṛti_prakṛti_Cp pratyayā_pratyaya_SNF pratyayā_pratyaya_SNF artham_artha_SAM iti_iti_ etat_etad_SNNe asaṃbaddham_asaṃbaddha_SNNe"
+  },
+  {
+    "index": 37274,
+    "sanskrit": "yathā ca vartan puruṣaḥ śreyasā saṃprayujyate",
+    "english": "Indeed, I shall enlighten thee as to the manner in which one must live in order to be endued with all that is beneficial for him.",
+    "morphology": "yathā_yathā_"
+  },
+  {
+    "index": 37275,
+    "sanskrit": "tenāsau mokṣam āsthāya brahmabhūto 'bhavan muniḥ //",
+    "english": "Having acquired final liberation he was united with Brahman.",
+    "morphology": "tena_tena_ asau_adas_SNM mokṣam_mokṣa_SAM āsthāya_āsthā_Co brahma_brahman_Cp bhūtaḥ_bhū_SNPaM abhavat_bhū_S3ImIn muniḥ_muni_SNM  /"
+  },
+  {
+    "index": 37276,
+    "sanskrit": "saptarṣayaḥ mām vakṣyanti sarve brahmarṣayaḥ tathā",
+    "english": "The seven Rishis, and also the regenerate Rishis, shall carry me.",
+    "morphology": "saptarṣayaḥ_saptarṣi_PNM"
+  },
+  {
+    "index": 37277,
+    "sanskrit": "kvacinmaraṇasākrandanārīkaruṇavedanam / kvaciduttāṇḍavastraiṇamahotsavamahāsukham //",
+    "english": "I beheld in one place a number of women, lamenting loudly on the death of some body; and saw also the great rejoicing of certain females, on the occasion of their festive mirth.",
+    "morphology": "kvacid_kvacid_ maraṇa_maraṇa_Cp sa_sa_ ākranda_ākranda_Cp nārī_nārī_Cp karuṇa_karuṇa_Cp vedanam_vedanā_SNNe  / kvacid_kvacid_ uttāṇḍava_uttāṇḍava_Cp straiṇa_straiṇa_Cp mahā_mahat_Cp utsava_utsava_Cp mahā_mahat_Cp sukham_sukha"
+  },
+  {
+    "index": 37278,
+    "sanskrit": "sa bālaḥ saṃgataḥ prāṇaiḥ śanairunmīlya locane | prāptapūrvendriyabalo ruroda stanyakāṃkṣayā || 84 ||",
+    "english": "84. That boy regaining the vital breaths opened his eyes slowly. Having got back the strength of his sense-organs as before, he cried out with a desire for breast-milk.",
+    "morphology": "sa_tad_SNM bālaḥ_bāla_SNM saṃgataḥ_saṃgam_SNPaM prāṇaiḥ_prāṇa_PIM śanais_śanais_ unmīlya_unmīl_Co locane_locana_DuANe  / prāpta_prāp_PaCp pūrva_pūrva_Cp indriya_indriya_Cp balaḥ_bala_SNM rājñ_sva_Cp sāraiḥ_sāra_SVM anāḥ"
+  },
+  {
+    "index": 37279,
+    "sanskrit": "śrīrāma uvāca / jñātametanmayā brahmanyathāsminbhuvanatraye / mana eva hi saṃsārijarāmaraṇabhājanam //",
+    "english": "Rama said:—I am fully persuaded to believe, sir, that the mind is the active agent in this world, and is subject to decay and death.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / jñātam_jñā_SNPaNe etat_etad_SNNe mayā_mad_SI brahman_brahman_SVM yathā_yathā_ asmin_idam_SLNe bhuvanatraye_bhuvanatraya_SLNe  / manaḥ_manas_SNNe eva_eva_ hi_hi_ saṃsāri_saṃsārin_Cp jarā"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4072,
+    "sanskrit": "jyotiṣṭomānām ca śatam yat iṣṭam",
+    "english": "The great sacrifice of Jyotishtoma was performed by me a hundred times.",
+    "morphology": "jyotiṣṭomānām_jyotiṣṭoma_PGM"
+  },
+  {
+    "index": 4073,
+    "sanskrit": "sarveṣv api svabhāveṣu //",
+    "english": "And anywhere at the birth-place of a deity, (such as Râma, Krishna, and others);",
+    "morphology": "sarveṣu_sarva_PLM api_api_ svabhāveṣu_svabhāva_PLM  /"
+  },
+  {
+    "index": 4074,
+    "sanskrit": "karṇam koṣṇena cukreṇa pūrayet karṇa śūlinaḥ",
+    "english": "The expressed juice of Kapittha, Matulunga and Ardraka mixed together and made lukewarm, or the lukewarm Chukra (a kind of Kanjika) should be used as ear-drops in a case of ear-ache.",
+    "morphology": "karṇam_karṇa_SAM koṣṇena_koṣṇa_SINe"
+  },
+  {
+    "index": 4075,
+    "sanskrit": "dakṣiṇāni bhaviṣyanti grahāḥ ca api anuloma gāḥ",
+    "english": "And the planets, duly revolving in their orbits, will become exceedingly propitious.",
+    "morphology": "dakṣiṇāni_dakṣiṇa_PNNe bhaviṣyanti_bhū_PFu3In grahāḥ_graha_PNM ca_ca_U api_api_U anuloma_anuloma_Cp gāḥ_ga_PNM"
+  },
+  {
+    "index": 4076,
+    "sanskrit": "yat prajñānam uta ceto dhṛtiś ca yaj jyotir antar amṛtaṃ prajāsu / yasmān na ṛte kiṃ cana karma kriyate tan me manaḥ śivasaṃkalpam astu //",
+    "english": "That which is wisdom, intellect, and firmness, immortal light which creatures have within them, That without which men do no single action, may that, my mind, be moved by right intention. 4",
+    "morphology": "yat_yad_SNNe prajñānam_prajñāna_SNNe uta_uta_ cetaḥ_cetas_SNNe dhṛtiḥ_dhṛti_SNF ca_ca_ yat_yad_SNNe jyotiḥ_jyotis_SNNe antar_antar_ amṛtam_amṛta_SNNe prajāsu_prajā_PLF  / yasmāt_yad_SBNe na_na_ ṛte_ṛte_ kim_ka_SNNe cana_cana_ karma"
+  },
+  {
+    "index": 4077,
+    "sanskrit": "so 'gnisaṃtaptas-tvaritam-ūrdhvam-utpatitukāmo bhavet-pratretukāmaś-ca,",
+    "english": "wishes to rise up quickly and wishes to escape the heat of the fire,",
+    "morphology": "saḥ_tad_SNM agni_agni_Cp saṃtaptaḥ_saṃtap_SNPaM tvaritam_tvaritam_ ūrdhvam_ūrdhvam_ utpatitu_utpatitu_Cp kāmaḥ_kāma_SNM bhavet_bhū_SPr3O"
+  },
+  {
+    "index": 4078,
+    "sanskrit": "vimānamāruhya sa divyarūpadhṛksa tuṃburuḥ pārśvagataḥ svakāṃtayā | gāyanmaheśasya guṇānmanoramāñjagāma kaivalyapadaṃ sanātanam || 130 ||",
+    "english": "130. Assuming a divine form, he got into the aerial chariot along with Tuṃburu and accompanied by his beloved he began to sing about the fascinating good qualities of Maheśa and attained the eternal state of liberation.",
+    "morphology": "vimānam_vimāna_SANe āruhya_āruh_Co sa_tad_SNM divya_divya_Cp rūpadhṛk_rūpadhṛk_SNM sa_tad_SNM tuṃburuḥ_tumburu_SNM pārśva_pārśva_Cp gataḥ_gam_SNPaM sva_sva_Cp kāṃtayā_kāntā_SIF  / gāyan_gā_SNPaPrM maheśasya_maheśa_SGM guṇān"
+  },
+  {
+    "index": 4079,
+    "sanskrit": "marmacchedaśarāghātavyathāviditaduṣkṛti / kabandhabandhaprārabdhavetālavadanākramam //",
+    "english": "Some suffering under the agony of arrows piercing their mortal parts, thought upon the sins of their past lives, that had brought this pain upon them; while the blood sucking Vetalas, advanced with their horrid mouths for drinking the blood of the headless trunks.",
+    "morphology": "marma_marman_Cp cheda_cheda_Cp śara_śara_Cp āghāta_āghāta_Cp vyathā_vyathā_Cp vidita_vid_PaCp duṣkṛti_duṣkṛt_SNNe  / kabandha_kabandha_Cp bandha_bandha_Cp prārabdha_prārabh_PaCp vetāla_vetāla_Cp vadana_vadana_Cp ākramam_ākrama_SNNe  /"
+  }
+]

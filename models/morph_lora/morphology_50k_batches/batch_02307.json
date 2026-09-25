@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18448,
+    "sanskrit": "annaṃ juhvati vrīhyādisaṃskṛtam /",
+    "english": "They offer food,in the form of Vrīhi and other grains duly embellished and refined",
+    "morphology": "annam_anna_SANe juhvati_hu_PPr3In vrīhi_vrīhi_Cp ādi_ādi_Cp saṃskṛtam_saṃskṛ_SAPaNe  /"
+  },
+  {
+    "index": 18449,
+    "sanskrit": "mānasaḥ nāma sa japaḥ japyate taiḥ mahātmabhiḥ",
+    "english": "They were engaged in silently thinking on Brahma.[1805] The Yapa performed by those high-souled persons was a mental yapa (and did not consist of the actual recitation of any mantras in words).",
+    "morphology": "mānasaḥ_mānasa_SNM nāma_nāma_U sa_tad_SNM japaḥ_japa_SNM japyate_jap_SPr3InPv taiḥ_tad_PIM mahātmabhiḥ_mahātman_PIM"
+  },
+  {
+    "index": 18450,
+    "sanskrit": "prekṣantaḥ tam mahā bāhum rukma puṅkhaiḥ samāvṛtam tvadīyāḥ ca palāyante mṛgāḥ siṃha arditāḥ iva",
+    "english": "Seeing that mighty-armed warrior, viz., Salya, thus covered with shafts of golden wings, thy army fled away like a head of deer attacked by a lion.",
+    "morphology": "prekṣantaḥ_prekṣ_PNPaPrM tam_tad_SAM mahā_mahat_Cp bāhum_bāhu_SAM rukma_rukma_NeCp puṅkhaiḥ_puṅkha_PIM samāvṛtam_samāvṛ_SAPaPsM tvadīyāḥ_tvadīya_PNM ca_ca_U palāyante_palāy_PPr3In mṛgāḥ_mṛga_PNM siṃha_siṃha_MCp ardit"
+  },
+  {
+    "index": 18451,
+    "sanskrit": "vatsarājo 'pi taccintāṃ muktvā mantrivacaḥ smaran / nananda labdhaṃ manvāno devīṃ rājyaṃ sutaṃ tathā //",
+    "english": "As for the King of Vatsa, he ceased to think about her, and remembering the speech of his minister, he rejoiced, considering that he had saved his queens and kingdom and also his son.",
+    "morphology": "vatsa_vatsa_Cp rājaḥ_rāja_SNM api_api_ tad_tad_Cp cintām_cintā_SAF muktvā_muc_Co mantri_mantrin_Cp vacaḥ_vacas_SANe smaran_smṛ_SNPaPrM  / nananda_nand_SPs3In labdham_labh_SAPaNe manvānaḥ_man_SNPaPrM devīm_devī_SAF rājyam_rājya_SANe sutam_"
+  },
+  {
+    "index": 18452,
+    "sanskrit": "jāyatām brahma varcasvī rāṣṭre vai brāhmaṇaḥ śuciḥ",
+    "english": "Let Brahmanas of pure behaviour and Brahma-effulgence be born in a kingdom.",
+    "morphology": "jāyatām_jan_SPr3Im brahma_brahman_SNNe varcasvī_varcasvin_SNM rāṣṭre_rāṣṭra_SLNe vai_vai_U brāhmaṇaḥ_brāhmaṇa_SNM śuciḥ_śuci_SNM"
+  },
+  {
+    "index": 18453,
+    "sanskrit": "tatra tatra ca vipra indraiḥ stūyamānaḥ samantataḥ niryayau parayā prītyā vanam mṛga jighāṃsayā",
+    "english": "And followed by foremost of Brahmanas uttering blessings all the way, the king in great gladness of heart went towards the forest, eager for slaying the deer.",
+    "morphology": "tatra_tatra_U tatra_tatra_U ca_ca_U vipra_vipra_MCp indraiḥ_indra_PIM stūyamānaḥ_stu_SNPaPrMPv samantataḥ_samantataḥ_U niryayau_niryā_SPs3In parayā_para_SIF prītyā_prīti_SIF vanam_vana_SANe mṛga_mṛga_MCp jighāṃsayā_jighāṃsā_SIF"
+  },
+  {
+    "index": 18454,
+    "sanskrit": "tasmātyāmivamane syāt /",
+    "english": "For these reasons, it must be admitted that the Ishti should be per formed only when the vomiting would be that by the Yajamana.",
+    "morphology": "tasmāt_tasmāt_ a_a_ yāmi_yāmi_Cp vamane_vamana_SLNe syāt_as_SPr3O"
+  },
+  {
+    "index": 18455,
+    "sanskrit": "keśavaḥ api mudā yuktaḥ praviveśa pura uttamam pūjyamānaḥ yadu śreṣṭhaiḥ ugrasena mukhaiḥ tathā",
+    "english": "And Kesava also, worshipped by the principal Yadavas including Ugrasena, entered with a happy heart his own excellent city.",
+    "morphology": "keśavaḥ_keśava_SNM api_api_U mudā_mud_SIF yuktaḥ_yuj_SNPaPsM praviveśa_praviś_SPs3In pura_pura_NeCp uttamam_uttama_SANe pūjyamānaḥ_pūjay_SNPaPrMPv yadu_yadu_MCp śreṣṭhaiḥ_śreṣṭha_PIM ugrasena_ugrasena_MCp mukhaiḥ_mukha_PIM tath"
+  }
+]

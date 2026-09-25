@@ -1,0 +1,50 @@
+[
+  {
+    "index": 30656,
+    "sanskrit": "itihāsapurāṇaṃ hi pañcamaṃ vedam āhuḥ /",
+    "english": "Some authoritative persons say that the Puranas are the fifth Veda.",
+    "morphology": "itihāsa_itihāsa_Cp purāṇa_purāṇa_SNNe"
+  },
+  {
+    "index": 30657,
+    "sanskrit": "tasya putraśataṃ tv āsīd aṅgānāṃ kulavardhanam //",
+    "english": "He had a hundred sons who multiplied the race of Anga.",
+    "morphology": "tasya_tad_SGM putra_putra_Cp śatam_śata_SNNe tu_tu_ āsīt_as_S3ImIn aṅgānām_aṅga_PGM kula_kula_Cp vardhanaḥ_vardhana_SNNe"
+  },
+  {
+    "index": 30658,
+    "sanskrit": "sa tathā iti pratiśrutya kīṭaḥ vartmani atiṣṭhata",
+    "english": "Or, if thou wishest, I may place thee in any other status!' The worm, agreeing to the words of Vyasa, did not leave the road, but remained on it.",
+    "morphology": "sa_tad_SNM"
+  },
+  {
+    "index": 30659,
+    "sanskrit": "evaṃbhūtaṃ ca tatsainyaṃ lokakṣayakaraṃ mahat | dṛṣṭvā ca vismitāssarve babhūvuramarādayaḥ ||",
+    "english": "18. On seeing that vast army of destructive potentiality, devas and others were quite surprised.",
+    "morphology": "evaṃbhūtam_evaṃbhūta_SANe ca_ca_ tat_tad_SANe sainyam_sainya_SANe loka_loka_Cp kṣaya_kṣaya_Cp karam_kara_SANe mahat_mahat_SANe  / dṛṣṭvā_dṛś_Co ca_ca_ vismitāḥ_vismi_PNPaM sarve_sarva_PNM babhūvuḥ_bhū_PPs3In amara_amara_Cp ādaya"
+  },
+  {
+    "index": 30660,
+    "sanskrit": "dravyahastivanabhogayor dravyavanabhogaḥ sarvakarmaṇāṃ yoniḥ prabhūtanidhānakṣamaś ca, viparīto hastivanabhogaḥ ity ācāryāḥ //",
+    "english": "My teacher says that of the two forests, one productive of timber, and another of elephants, the former is the source of all kinds of works and is of immense help in forming a storehouse, while the latter is of reverse character",
+    "morphology": "dravya_dravya_Cp hasti_hastin_Cp vana_vana_Cp bhogayoḥ_bhoga_DuGM dravya_dravya_Cp vana_vana_Cp bhogaḥ_bhoga_SNM sarva_sarva_Cp karmaṇām_karman_PGNe yoniḥ_yoni_SNM prabhūta_prabhūta_Cp nidhāna_nidhāna_Cp kṣamaḥ_kṣama_SNM ca_ca_ viparīta"
+  },
+  {
+    "index": 30661,
+    "sanskrit": "evaṃvidhaṃ nivāsaṃ me viddhi rāma nṛpottama | śūnyaṃ tu sarvato yasmānnivāsāya dvijā gatāḥ || 35 || tena me sumahadduḥkhaṃ tasmāttrāhi nareśvara | etacchrutvā vaco rāma uvāca vadatāṃ varaḥ || 36 ||",
+    "english": "35-36. O Rāma who are excellent among kings, know that my abode has become of this sort. Since it is totally desolate, it is not fit for dwelling. Hence the Brāhmaṇas went away. Therefore, I am excessively miserable. Hence, save me, O lord of men.” On hearing this, Rāma, foremost among eloquent persons, spoke thus:",
+    "morphology": "evaṃvidham_evaṃvidha_SAM nivāsam_nivāsa_SAM me_mad_SG viddhi_vid_SPr2Im rāma_rāma_SVM nṛpa_nṛpa_Cp uttama_uttama_SVM  / śūnyam_śūnya_SAM tu_tu_ sarvatas_sarvatas_ yasmāt_yasmāt_ nivāsāya_nivāsa_SDM dvijāḥ_dvija_PNM gatāḥ_gam_PNPa"
+  },
+  {
+    "index": 30662,
+    "sanskrit": "tebhyo rakṣed imāḥ prajāḥ / na kevalaṃ rājārthanāśaḥ anavekṣayā, yāvat prajā api nirdhanīkurvanti //",
+    "english": "\"He shall protect the people against them,\" By ignoring them, it is not only the King\" s own interest that suffers; the people also become reduced to poverty.",
+    "morphology": "tebhyaḥ_tad_PBM rakṣet_rakṣ_SPr3O imāḥ_idam_PAF prajāḥ_prajā_PAF  / na_na_ kevalam_kevala_SNNe rāja_rājan_Cp artha_artha_Cp nāśaḥ_nāśa_SNM anavekṣayā_anavekṣā_SIF yāvat_yāvat_ prajāḥ_prajā_PNF api_api_ nirdhanīkurvanti_nir"
+  },
+  {
+    "index": 30663,
+    "sanskrit": "na an āhūtaḥ na hi a bhṛtaḥ mama sainye babhūva ha",
+    "english": "They are not a rabble come of their own accord, nor have they been admitted into my army without pay.",
+    "morphology": "na_na_U an_an_U āhūtaḥ_āhvā_SNPaPsM na_na_U hi_hi_U a_a_U ṛcā_aṇī_SIF"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3728,
+    "sanskrit": "na asya bhaktaiḥ priyataraḥ loke kaḥ cana vidyate",
+    "english": "There exists no one in the universe that is dearer to him than one that adores him with devotion.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 3729,
+    "sanskrit": "nanu tasya pramāṇa tve vijñānasya aviniścite | katham tatra pravartteta prekṣāvān īpsita āgateḥ ||",
+    "english": "If the validity of the cognition is not definitely ascertained,—then how could any sane person have recourse to activity? Because what is wanted is not cognised.”",
+    "morphology": "nanu_nanu_U tasya_tad_SGNe pramāṇa_pramāṇa_NeCp tve_tva_SLNe vijñānasya_vijñāna_SGNe aviniścite_aviniścita_SLNe  / katham_katham_U tatra_tatra_U pravartteta_pravṛt_SPr3O prekṣāvān_prekṣāvat_SNM īpsita_īpsay_PaPsCp āgateḥ_āgati_SG"
+  },
+  {
+    "index": 3730,
+    "sanskrit": "tasmāt tadbhedo 'py aupādhika iti siddham //",
+    "english": "For this reason, the elaborate treatment of them has been given up.",
+    "morphology": "tasmāt_tasmāt_ tad_tad_Cp bhedaḥ_bheda_SNM api_api_ aupādhikaḥ_aupādhika_SNM iti_iti_"
+  },
+  {
+    "index": 3731,
+    "sanskrit": "vidhamya rākṣasān bāṇaiḥ sa aśva sūta gajān vibhuḥ dadāha bhagavān vahniḥ bhūtāni iva yuga kṣaye tatas karṇaḥ mahā rāja rākṣasān vyadhamat śaraiḥ",
+    "english": "Destroying with his shafts those Rakshasas along with their steeds and diverse elephants, the puissant Karna looked like the divine Agni consuming all creatures at the time of the universal dissolution.",
+    "morphology": "vidhamya_vidham_Co rākṣasān_rākṣasa_PAM bāṇaiḥ_bāṇa_PIM sa_sa_U aśva_aśva_MCp sūta_sūta_MCp gajān_gaja_PAM vibhuḥ_vibhu_SNM dadāha_dah_SPs3In bhagavān_bhagavat_SNM vahniḥ_vahni_SNM bhūtāni_bhūta_PANe iva_iva_U yuga_yuga_NeCp k"
+  },
+  {
+    "index": 3732,
+    "sanskrit": "sa saptadaśakena api rāśinā yujyate hi saḥ evam bahuvidhaḥ proktaḥ puruṣaḥ te yathākramam",
+    "english": "The acting Soul is endued with the seven and ten possessions.[1921] Thus it is said that there are innumerable kinds of Purushas in due order.",
+    "morphology": "sa_sa_U saptadaśakena_saptadaśaka_SIM api_api_U rāśinā_rāśi_SIM yujyate_yuj_SPr3InPv hi_hi_U saḥ_tad_SNM evam_evam_U bahuvidhaḥ_bahuvidha_SNM proktaḥ_pravac_SNPaPsM puruṣaḥ_puruṣa_SNM te_tvad_SG"
+  },
+  {
+    "index": 3733,
+    "sanskrit": "nanu sahakāriṇāṃ madhye adṛṣṭam apy anupraviṣṭam /",
+    "english": "But among the conditions the invisible residue of a previous unmerited action is also included.",
+    "morphology": "nanu_nanu_ sahakāriṇām_sahakārin_PGM madhye_madhya_SLNe adṛṣṭam_adṛṣṭa_SNNe api_api_ anupraviṣṭam_anupraviś_SNPaNe  /"
+  },
+  {
+    "index": 3734,
+    "sanskrit": "dadhighṛtagrahaṇaṃ prādhānyād upāttam /",
+    "english": "\"Curd\" and \"butter\" have been mentioned separately with a view to indicate the special importance of these among all milkproducts.",
+    "morphology": "dadhi_dadhi_Cp ghṛta_ghṛta_Cp grahaṇam_grahaṇa_SNNe prādhānyāt_prādhānya_SBNe"
+  },
+  {
+    "index": 3735,
+    "sanskrit": "yena yena eva haviṣā brāhmaṇān tarpayet naraḥ tena tena eva prīyante pitaraḥ devatāḥ tathā",
+    "english": "Those particular offerings in sacrifices with which one gratifies the Brahmanas go to gratify both the Pitris and the deities.",
+    "morphology": "yena_yad_SINe yena_yad_SINe eva_eva_U haviṣā_havis_SINe brāhmaṇān_brāhmaṇa_PAM tarpayet_tarpay_SPr3O naraḥ_nara_SNM tena_tad_SINe tena_tad_SINe eva_eva_U prīyante_prī_PPr3InPv pitaraḥ_pitṛ_PNM devatāḥ_devatā_PNF tathā_tathā_U"
+  }
+]

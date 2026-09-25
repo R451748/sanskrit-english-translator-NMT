@@ -1,0 +1,50 @@
+[
+  {
+    "index": 34256,
+    "sanskrit": "saṃhatān yodhayed alpān kāmaṃ vistārayed bahūn / sūcyā vajreṇa caivaitān vyūhena vyūhya yodhayet //",
+    "english": "Let him make a small number of soldiers fight in close order, at his pleasure let him extend a large number in loose ranks; or let him make them fight, arranging (a small number) in the needle-array, (and a large number) in the thunderbolt-array.",
+    "morphology": "saṃhatān_saṃhan_PAPaM yodhayet_yodhay_SPr3O alpān_alpa_PAM kāmam_kāmam_ vistārayet_vistāray_SPr3O bahūn_bahu_PAM  / sūcyā_sūci_SIF vajreṇa_vajra_SIM ca_ca_ eva_eva_ etān_etad_PAM vyūhena_vyūha_SIM vyūhya_vyūh_Co yodhayet_yodhay_SPr3O  "
+  },
+  {
+    "index": 34257,
+    "sanskrit": "(gī.15/16-20) iti|",
+    "english": "So in the Mahā-varāha—",
+    "morphology": "iti_iti_"
+  },
+  {
+    "index": 34258,
+    "sanskrit": "pratyaṅmukhā yayur hṛṣṭā vṛṣṇayo bharatarṣabha //",
+    "english": "Vaishampāyana said:— king, listen to the work, difficult of being done by men, which the highly effulgent son of Vinatā performed after his departure from the city of Bidarbha.",
+    "morphology": "pratyak_pratyañc_Cp mukhāḥ_mukha_PNM yayuḥ_yā_PPs3In hṛṣṭāḥ_hṛṣ_PNPaM vṛṣṇayaḥ_vṛṣṇi_PNM bharata_bharata_Cp ṛṣabha_ṛṣabha_SVM  /"
+  },
+  {
+    "index": 34259,
+    "sanskrit": "vanam rājan tvam sa putraḥ ambikeya",
+    "english": "O king, O son of Ambika, thy son is as a forest.",
+    "morphology": "vanam_vana_SNNe"
+  },
+  {
+    "index": 34260,
+    "sanskrit": "syuḥ yena kaṇḍū vyathana oṣa coṣāḥ taleṣu tat carma dalam vadanti",
+    "english": "In the form known as Carmadala (Hypertrophy of the skin) a burning, sucking, drawing pain is experienced in the palms of the hands and in the soles of the feet which become characterised with an itching sensation.",
+    "morphology": "syuḥ_as_PPr3O yena_yad_SINe kaṇḍū_kaṇḍū_FCp vyathana_vyathana_NeCp oṣa_oṣa_MCp coṣāḥ_coṣa_PNM taleṣu_tala_PLM tat_tad_SANe carma_carman_NeCp dalam_dala_SANe vadanti_vad_PPr3In"
+  },
+  {
+    "index": 34261,
+    "sanskrit": "mahiṣo'pi ca taṃ śabdamabhyadhāvadruṣānvitaḥ | sa dadarśa tato devīṃ vyāptalokatrayāṃ rucā ||",
+    "english": "35. The infuriated Mahiṣa rushed at the direction of the sound and saw the goddess who had pervaded the three worlds with her beautiful lustre.",
+    "morphology": "mahiṣaḥ_mahiṣa_SNM api_api_ ca_ca_ tam_tad_SAM śabdam_śabda_SAM abhyadhāvat_abhidhāv_S3ImIn ruṣā_ruṣ_SIF anvitaḥ_anvita_SNM  / sa_tad_SNM dadarśa_dṛś_SPs3In tatas_tatas_ devīm_devī_SAF vyāpta_vyāp_PaCp loka_loka_Cp trayām_traya_SA"
+  },
+  {
+    "index": 34262,
+    "sanskrit": "yaḥ prāṇataḥ ni miṣataḥ mahi tvā ekaḥ it rājā jagataḥ babhūva yaḥ īśe asya dvi padaḥ catuḥ padaḥ kasmai devāya haviṣā vidhema",
+    "english": "He who through his might became the sole king of the breathing and twinkling 1 world, who governs all this, man and beast:—Who is the God to whom we shall offer sacrifice?",
+    "morphology": "yaḥ_yad_SNM prāṇataḥ_prāṇ_SGPaPrM ni_ni_U miṣataḥ_miṣ_SGPaPrM mahi_mahi_Cp tvā_tva_SINe ekaḥ_eka_SNM id_id_U rājā_rājan_SNM jagataḥ_jagant_SGNe babhūva_bhū_SPs3In yaḥ_yad_SNM īśe_īś_SPs3In asya_idam_SGNe dvi_dvi_Cp padaḥ_p"
+  },
+  {
+    "index": 34263,
+    "sanskrit": "yatrāste muniśārdūlo devarāta iti smṛtaḥ | vratasvādhyāyasaṃpannastapasā dhvastakilviṣaḥ || 38 ||",
+    "english": "It was there that the tiger among sages, remembered as Devarāta, stayed. He was richly endowed with the practice of holy vows and regular study of the Vedas. With regular penance, he had dispelled all sins.",
+    "morphology": "yatra_yatra_ āste_ās_SPr3In muni_muni_Cp śārdūlaḥ_śārdūla_SNM devarātaḥ_devarāta_SNM iti_iti_ smṛtaḥ_smṛ_SNPaM  / vrata_vrata_Cp svādhyāya_svādhyāya_Cp saṃpannaḥ_sampad_SNPaM tapasā_tapas_SINe dhvasta_dhvaṃs_PaCp kilviṣaḥ"
+  }
+]

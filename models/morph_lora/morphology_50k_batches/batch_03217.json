@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25728,
+    "sanskrit": "gajavājimahārāva sphuṭacchabdagrahāṇi ca | bhagnadhvajapatākāni kṣīṇapraharaṇāni ca || 64 || rudhirodgāra citrāṇi vyaśvahastirathāni ca | pipāsitāni sainyāni mumūrchurubhayatra vai || 65 ||",
+    "english": "64-65. The armies on both the sides fell into a swoon utterly thirsty, their ears becoming rent and split due to the loud trumpets and neighing of elephants and horses, the flags and flag-staffs torn and broken, the missiles and weapons becoming powerless. They appeared variegated with the vomitted blood and they were deprived of their horses and elephants.",
+    "morphology": "gaja_gaja_Cp vāji_vājin_Cp mahā_mahat_Cp rāva_rāva_SVM sphuṭat_sphuṭ_PaPrCp śabda_śabda_Cp grahāni_graha_PNNe ca_ca_  / bhagna_bhañj_PaCp dhvaja_dhvaja_Cp patākāni_patākā_PNNe kṣīṇa_kṣi_PaCp praharaṇāni_praharaṇa_PNNe ca_ca_  /"
+  },
+  {
+    "index": 25729,
+    "sanskrit": "{2} pretaḥ,",
+    "english": "{2} ghosts,",
+    "morphology": ""
+  },
+  {
+    "index": 25730,
+    "sanskrit": "devadevena rudreṇa sṛṣṭi saṃhāra hetunā",
+    "english": "That god of gods, viz., Rudra, that cause of both creation and destruction, displays in his form the indications of both the sexes as the one cause of the creation of the universe.",
+    "morphology": "devadevena_devadeva_SIM rudrāḥ_rudra_PNM"
+  },
+  {
+    "index": 25731,
+    "sanskrit": "tasmād rājā jagacchlāghyaḥ sahasrānīka ity abhūt / yaḥ śakrapreṣitaratho divi cakre gatāgatam //",
+    "english": "His son was King Sahasrānīka, an object of praise to the world, to whom Indra sent his chariot, and he went to heaven and returned thence.",
+    "morphology": "tasmāt_tasmāt_ rājā_rājan_SNM jagat_jagant_Cp ślāghyaḥ_ślāgh_SNMGd sahasrānīkaḥ_sahasrānīka_SNM iti_iti_ abhūt_bhū_SPs3In  / yaḥ_yad_SNM śakra_śakra_Cp preṣita_preṣay_PaCp rathaḥ_ratha_SNM divi_div_SLM cakre_kṛ_SPs3In gatāga"
+  },
+  {
+    "index": 25732,
+    "sanskrit": "deśotsādakulotsādarūpo vā pralayo bhavet /",
+    "english": "Or ‘dissolution’ may be there in the form of the destruction of particular countries or destruction of particular families.",
+    "morphology": "__deśa_U __utsāda_U __kula_U __utsāda_U __rūpa_U"
+  },
+  {
+    "index": 25733,
+    "sanskrit": "śrīvasiṣṭha uvāca / rājaputra brahmatattvamevedamāvartate yasmātsarvaśakti tattasmātsarvāḥ śaktayo brahmaṇi dṛśyante //",
+    "english": "Vasishtha replied:—O prince, such is the nature of Brahma, that all power incessantly flows from him, wherefore every power is said to reside in him.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / rāja_rājan_Cp putra_putra_SVM brahma_brahman_Cp tattvam_tattva_SNNe eva_eva_ idam_idam_SNNe āvartate_āvṛt_SPr3In yasmāt_yasmāt_ sarva_sarva_Cp śakti_śakti_SNNe tat_tad_SNNe tasm"
+  },
+  {
+    "index": 25734,
+    "sanskrit": "mama bhartrā hṛto vīra balavīryapravartinā /",
+    "english": "When you were a helpless baby in the lying-in chamber you were stolen by my powerful husband.",
+    "morphology": "mama_mad_SG bhartrā_bhartṛ_SIM hṛtaḥ_hṛ_SNPaM"
+  },
+  {
+    "index": 25735,
+    "sanskrit": "aniruddhaṃ rasamātraṃ brahmāṇaṃ gandharūpakaṃ /",
+    "english": "He created Aniruddha, consisting of taste only and Brahmā of the form of smell.",
+    "morphology": "aniruddham_aniruddha_SAM rasa_rasa_Cp mātraḥ_mātra_SNM brahmāṇam_brahman_SAM gandha_gandha_Cp rūpakaḥ_rūpaka_SNM  /"
+  }
+]

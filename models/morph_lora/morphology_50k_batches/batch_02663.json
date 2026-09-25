@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21296,
+    "sanskrit": "māsaiścaturbhiraṃgulyaḥ prajāyaṃte yathākramam | mukhaṃ nāsā ca karṇau māsaiḥ paṃcabhireva ca ||",
+    "english": "20. Within the fourth month the fingers are duly formed. The mouth, nose, and cars are ready within the fifth month,",
+    "morphology": "māsaiḥ_māsa_PIM caturbhiḥ_catur_PIM aṃgulyaḥ_aṅguli_PNF prajāyaṃte_prajan_PPr3In yathākramam_yathākramam_  / mukham_mukha_SNNe nāsā_nāsā_SNF ca_ca_ karṇau_karṇa_DuNM māsaiḥ_māsa_PIM paṃcabhiḥ_pañcan_PIM eva_eva_ ca_ca_  /"
+  },
+  {
+    "index": 21297,
+    "sanskrit": "eṣa yogeśvaro nāma triṣu lokeṣu viśrutaḥ | na tasmādadhikaḥ kaścidyāgo 'sti bhuvane kvacit ||",
+    "english": "91. This rite is Yogeśvara. Nowhere in the world is there a Yoga superior to this.",
+    "morphology": "eṣa_etad_SNM yogeśvaraḥ_yogeśvara_SNM nāma_nāma_ triṣu_tri_PLM lokeṣu_loka_PLM viśrutaḥ_viśru_SNPaM  / na_na_ tasmāt_tad_SBM adhikaḥ_adhika_SNM kaścid_kaścit_SNM yāgaḥ_yāga_SNM asti_as_SPr3In bhuvane_bhuvana_SLNe kvacid_kvacid_  /"
+  },
+  {
+    "index": 21298,
+    "sanskrit": "vadhyamānam tatas tat tu śaraiḥ pārthasya saṃyuge dudrāva kauravam sainyam viṣāda bhaya kampitam",
+    "english": "And the Kaurava army, thus slaughtered in battle with the shafts of Partha, fled away, trembling in grief and fear.",
+    "morphology": "vadhyamānam_vadh_SNPaPrNePv tatas_tatas_U tat_tad_SNNe tu_tu_U śaraiḥ_śara_PIM pārthasya_pārtha_SGM saṃyuge_saṃyuga_SLNe dudrāva_dru_SPs3In kauravam_kaurava_SNNe sainyam_sainya_SNNe viṣāda_viṣāda_MCp bhaya_bhaya_NeCp kampitam_kamp_SNPaPsN"
+  },
+  {
+    "index": 21299,
+    "sanskrit": "ihāmutra ca bhavyānāṃ vividhābhyudayāvaham //",
+    "english": "it is conducive to various forms of welfare here and elsewhere;",
+    "morphology": "iha_iha_ amutra_amutra_ ca_ca_ bhavyānām_bhū_PGMGd vividha_vividha_Cp abhyudaya_abhyudaya_Cp āvaham_āvaha_SNNe  /"
+  },
+  {
+    "index": 21300,
+    "sanskrit": "śrīrāma uvāca / sa kundadanta ityādikathākathanakovidaḥ / sthitastataḥprabhṛtyeva matsamīpagataḥ sadā //",
+    "english": "Rama said:—The eloquent Kundadanta that made this speech to me, has been ever since sitting by my side in this assembly.",
+    "morphology": "śrī_śrī_Cp rāmaḥ_rāma_SNM uvāca_vac_SPs3In  / sa_tad_SNM kunda_kunda_Cp dantaḥ_danta_SNM ityādi_ityādi_Cp kathā_kathā_Cp kathana_kathana_Cp kovidaḥ_kovida_SNM  / sthitaḥ_sthā_SNPaM tatas_tatas_ prabhṛti_prabhṛti_ eva_eva_ mad_mad_Cp"
+  },
+  {
+    "index": 21301,
+    "sanskrit": "avaśyam tu mayā kāryam vacanam bhavatām hitam",
+    "english": "I cannot avoid, however, doing good to you agreeably to your request.",
+    "morphology": "avaśyam_avaśyam_U tu_tu_U mayā_mad_SI kāryam_kṛ_SNNeGd vacanam_vacana_SNNe bhavānām_bhavat_PGM hitam_hita_SNNe"
+  },
+  {
+    "index": 21302,
+    "sanskrit": "vṛṣalyāḥ pheno vṛṣalīpheno vaktrāsavaḥ, sa pīto yena / palāṇḍubhikṣitādivat paranipātaḥ /",
+    "english": "\"Vṛṣalīphena\" is the moisture of her mouth; he by whom this has been drunk is \"vṛṣalīphenapīta;\" the past participial adjective \"pīta\" being put last by the analogy of such compounds as \"palāṇḍubhakṣita,\" and so forth.",
+    "morphology": "vṛṣalyāḥ_vṛṣalī_SGF phenaḥ_phena_SNM vṛṣalī_vṛṣalī_Cp phenaḥ_phena_SNM vaktra_vaktra_Cp āsavaḥ_āsava_SNM sa_tad_SNM pītaḥ_pā_SNPaM yena_yad_SIM  / palāṇḍu_palāṇḍu_Cp bhikṣita_bhikṣ_PaCp ādi_ādi_Cp vat_vat_ "
+  },
+  {
+    "index": 21303,
+    "sanskrit": "cintitāni phalantyāśu devodyānāntareṣviva / tānyeva na phalantyāśu mokṣādīnāṃ ca rāghava //",
+    "english": "In the garden of bliss of Indra every desired object to be got, but in salvation such kind of desired object is wanting.",
+    "morphology": "cintitāni_cintita_PNNe phalanti_phal_PPr3In āśu_āśu_ deva_deva_Cp udyāna_udyāna_Cp antareṣu_antara_PLNe iva_iva_  / tāni_tad_PNNe eva_eva_ na_na_ phalanti_phal_PPr3In āśu_āśu_ mokṣa_mokṣa_Cp ādīnām_ādi_PGM ca_ca_ rāghava_rāghava_SVM"
+  }
+]

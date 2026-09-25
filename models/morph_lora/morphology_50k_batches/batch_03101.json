@@ -1,0 +1,50 @@
+[
+  {
+    "index": 24800,
+    "sanskrit": "na śaśāka niyantum tam kāmam kāma balātkṛtaḥ",
+    "english": "And ill-able to suppress his desire thus kindled at the sight of his wife of eyes like lotus-petals, he was completely overpowered.",
+    "morphology": "na_na_U śaśāka_śak_SPs3In niyantum_niyam_In tam_tad_SAM"
+  },
+  {
+    "index": 24801,
+    "sanskrit": "brahmovāca | ityākarṇya harissarvānāhūyovāca tanmayāḥ | surāssarve tathaivāśu gamanaṃ cakrurutsukāḥ ||",
+    "english": "5. On hearing it Viṣṇu called all and told them of his suggestion. The gods then walked in accordance with that suggestion enthusiastically.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / iti_iti_ ākarṇya_ākarṇay_Co hariḥ_hari_SNM sarvān_sarva_PAM āhūya_āhvā_Co uvāca_vac_SPs3In tad_tad_Cp mayāḥ_maya_PNM  / surāḥ_sura_PNM sarve_sarva_PNM tathā_tathā_ eva_eva_ āśu_āśu_ gamanam"
+  },
+  {
+    "index": 24802,
+    "sanskrit": "yathāhi pretānāṃ pūyādirūpeṇa salilādi /",
+    "english": "For instance, Water becomes Pus for only some dead people, not for all.",
+    "morphology": "yathā_yathā_ hi_hi_ pretānām_preta_PGM pūya_pūya_Cp ādi_ādi_Cp rūpeṇa_rūpa_SINe salila_salila_Cp ādi_ādi_SNNe  /"
+  },
+  {
+    "index": 24803,
+    "sanskrit": "ekādaśīvrataṃ vakṣye bhuktimuktipradāyākaṃ / daśamyānniyatāhāro māṃsamaithunavarjitaḥ //",
+    "english": "One would become a lord of the brahmins. shall describe the vow to be performed on the eleventh lunar day that would yield enjoyment and emancipation.",
+    "morphology": "ekādaśīvratam_ekādaśīvrata_SANe vakṣye_vac_SFu1In  / daśamyāt_daśamī_SBF niyata_niyam_PaCp āhāraḥ_āhāra_SNM māṃsa_māṃsa_Cp maithuna_maithuna_Cp varjitaḥ_varjay_SNPaM  /"
+  },
+  {
+    "index": 24804,
+    "sanskrit": "tato na paśyati manaḥ praśāntaṃ dehatāṃ punaḥ / svanāśena padaṃ prāptaṃ vāsanaiva mano viduḥ //",
+    "english": "The mind being with its desires, which form its soul and life, it can no more see the body in which it took so much delight;and then the tranquil soul attains its holiest state.",
+    "morphology": "tatas_tatas_ na_na_ paśyati_dṛś_SPr3In manaḥ_manas_SNNe praśāntam_praśam_SNPaNe deha_deha_Cp tām_tā_SAF punar_punar_  / sva_sva_Cp nāśena_nāśa_SIM padam_pada_SANe prāptam_prāp_SAPaNe vāsanā_vāsanā_SNF eva_eva_ manaḥ_manas_SANe vidu"
+  },
+  {
+    "index": 24805,
+    "sanskrit": "nedaṃ śabdārthasaṃbandhe pramāṇam, kiṃ tarhi dharmādharmayoḥ /",
+    "english": "The authority of this Smṛti does not extend to the subject of words and their denotations; it is confined to the subject of right and wrong, what is lawful and what unlawful.",
+    "morphology": "na_na_ idam_idam_SNNe śabda_śabda_Cp artha_artha_Cp saṃbandhe_sambandha_SLM pramāṇam_pramāṇa_SNNe kim_ka_SNNe tarhi_tarhi_ dharma_dharma_Cp adharmayoḥ_adharma_DuGM  /"
+  },
+  {
+    "index": 24806,
+    "sanskrit": "devatānām pitṝṇām ca samakṣam ari sūdanaḥ etasmin eva kāle tu daityāḥ āsan mahā balāḥ",
+    "english": "Meanwhile, the Daityas became very mighty.",
+    "morphology": "devatānām_devatā_PGF pitṝṇām_pitṛ_PGM ca_ca_U samakṣam_samakṣa_SANe ari_ari_MCp sūdanaḥ_sūdana_SNM etasmin_etad_SLM eva_eva_U kāle_kāla_SLM tu_tu_U daityāḥ_daitya_PNM āsan_as_PPs3In mahā_mahat_Cp balāḥ_bala_PNM"
+  },
+  {
+    "index": 24807,
+    "sanskrit": "tadādyaṃ tārakakṣetraṃ yadā gaṃgā na cāgatā | yadaivāvirabhūtkāśī trailokyoddhaṇāya vai || 68 ||",
+    "english": "168. That is the first Liṅga with Tāraka (Praṇava) as its source while Gaṅgā had not yet arrived at Kāśī. However, it had manifested for the sake of uplifting the three worlds.",
+    "morphology": "tad_tad_Cp ādyam_ādya_SANe tāraka_tāraka_Cp kṣetram_kṣetra_SANe yadā_yadā_ gaṃgā_gaṅgā_SNF na_na_ ca_ca_ āgatā_āgam_SNPaF  / yadā_yadā_ eva_eva_ āvirabhūt_āvirbhū_SPs3In kāśī_kāśin_SNM vai_vai_  /"
+  }
+]

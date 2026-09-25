@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13000,
+    "sanskrit": "jihvā niḥsaraṇa ādiṣu uktaḥ pratīkāraḥ |",
+    "english": "Remedies in cases of a protrusion of the tongue, etc., have been already described.",
+    "morphology": "jihvā_jihvā_FCp niḥsaraṇa_niḥsaraṇa_NeCp ādiṣu_ādi_PLM uktaḥ_vac_SNPaPsM pratīkāraḥ_pratīkāra_SNM"
+  },
+  {
+    "index": 13001,
+    "sanskrit": "tasmāttvaṃ sāṃprataṃ gaccha viṃdhyākhyaṃ parvatottamam | tapastatra kuruṣvogra tejo yenābhivardhate || 22 ||",
+    "english": "22. Hence do go to the excellent mountain named Vindhya and perform a severe penance there whereby your refulgence can increase.",
+    "morphology": "tasmāt_tasmāt_ tvam_tvad_SN sāṃpratam_sāṃpratam_ gaccha_gam_SPr2Im viṃdhya_vindhya_Cp ākhyam_ākhyā_SAM parvata_parvata_Cp uttamam_uttama_SAM  / tapaḥ_tapas_SANe tatra_tatra_ kuruṣva_kṛ_SPr2Im ugra_ugra_SVM tejaḥ_tejas_SNNe yena_yad_SIN"
+  },
+  {
+    "index": 13002,
+    "sanskrit": "eṣaḥ eva paraḥ dharmaḥ rājarṣīṇām yudhiṣṭhira",
+    "english": "Even this is the highest duty, O Yudhishthira, of royal sages.",
+    "morphology": "eṣaḥ_etad_SNM eva_eva_U paraḥ_para_SNM dharmaḥ_dharma_SNM rājarṣīṇām_rājarṣi_PGM yudhiṣṭhira_yudhiṣṭhira_SVM"
+  },
+  {
+    "index": 13003,
+    "sanskrit": "punaḥ ṣaṣṭhe bhave jātaḥ piśācaḥ piśitāśanaḥ | siddhamaṃtrairathodagrairatharvaprabhavairbhṛśam || 12 ||",
+    "english": "Again in his sixth birth, he was a flesh-eating Piśāca (ghost). By means of well-tested Mantras of great power a Brāhmaṇa, the most excellent one among those conversant with Mantras of Atharva, did away with him.",
+    "morphology": "punar_punar_ ṣaṣṭhe_ṣaṣṭha_SLM bhave_bhava_SLM jātaḥ_jan_SNPaM piśācaḥ_piśāca_SNM piśita_piśita_Cp aśanaḥ_aśana_SNM  / siddha_siddha_Cp maṃtraiḥ_mantra_PIM atha_atha_ udagraiḥ_udagra_PIM atharva_atharvan_Cp prabhavaiḥ_pra"
+  },
+  {
+    "index": 13004,
+    "sanskrit": "vrātyastomādibhir vrātyānāṃ hi saṃhitānāṃ yāgo vihitaḥ / pratiṣiddhaṃ ca tad yājanaṃ vrātyānāṃ yājanaṃ kṛtvā iti /",
+    "english": "The collective performance of the Vrātyastoma for a number of Vrātyas has been prescribed and officiating at such sacrifices has been prohibited under.",
+    "morphology": "vrātyastoma_vrātyastoma_Cp ādibhiḥ_ādi_PIM vrātyānām_vrātya_PGM hi_hi_ saṃhitānām_saṃdhā_PGPaM yāgaḥ_yāga_SNM vihitaḥ_vidhā_SNPaM  / pratiṣiddham_pratiṣidh_SNPaNe ca_ca_ tat_tad_SNNe yājanam_yājana_SNNe vrātyānām_vrātya_PG"
+  },
+  {
+    "index": 13005,
+    "sanskrit": "tasmād ātharvaṇa eva brahmeti /",
+    "english": "For this reason we hold that a Brahmin, well-versed in the Atharva Veda, is Brahman.",
+    "morphology": "tasmāt_tasmāt_ ātharvaṇaḥ_ātharvaṇa_SNM eva_eva_ brahma_brahman_SNNe iti_iti_  /"
+  },
+  {
+    "index": 13006,
+    "sanskrit": "saṃkleśo vyavadānaṃ cākāśopamatā tathā /",
+    "english": "affliction and alleviation; their likeness to space;",
+    "morphology": "saṃkleśaḥ_saṃkleśa_SNM vyavadānam_vyavadāna_SNNe ca_ca_ ākāśa_ākāśa_Cp upama_upama_Cp tā_tā_SNF tathā_tathā_"
+  },
+  {
+    "index": 13007,
+    "sanskrit": "vijitī vītihotraḥ ca bhavaḥ śvetaḥ bṛhadguruḥ",
+    "english": "Vijava, Virihorta, Anga, Bhava, Sweta, and Vripadguru;",
+    "morphology": "vijitī_vijitin_SNM vītihotraḥ_vītihotra_SNM ca_ca_U bhavaḥ_bhava_SNM śvetaḥ_śveta_SNM bṛhadguruḥ_bṛhadguru_SNM"
+  }
+]

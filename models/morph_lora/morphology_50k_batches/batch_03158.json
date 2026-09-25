@@ -1,0 +1,50 @@
+[
+  {
+    "index": 25256,
+    "sanskrit": "jalaukā kevalaṃ raktamādadānā tapasvinī | pramadā sarvadā datte cittaṃ vittaṃ balaṃ sukham || 86 ||",
+    "english": "86. The poor, scorched leech takes up only the blood. But a young woman always takes away the mind, wealth, strength and happiness.",
+    "morphology": "jalaukā_jalaukā_SNF kevalam_kevalam_ raktam_rakta_SANe ādadānā_ādā_SNPaPrF tapasvinī_tapasvinī_SNF  / pramadā_pramadā_SNF sarvadā_sarvadā_ datte_dā_SPr3In cittam_citta_SANe vittam_vitta_SANe balam_bala_SANe sukham_sukha_SANe"
+  },
+  {
+    "index": 25257,
+    "sanskrit": "katame trayaḥ?",
+    "english": "Which three?",
+    "morphology": "katame_katama_PNM"
+  },
+  {
+    "index": 25258,
+    "sanskrit": "sa vedāḥ sa śrutīkāḥ ca kṛtāḥ pūrvam kṛte yuge",
+    "english": "The Vedas with the auditions in them, were re-created by me in the Krita age.",
+    "morphology": "sa_sa_U vedāḥ_veda_PNF sa_sa_U śrutīkāḥ_śrutīka_PNF cā_cā_U ā_ā_U"
+  },
+  {
+    "index": 25259,
+    "sanskrit": "vadha prāptau manyate nau praveśya śara veśmani",
+    "english": "He regardeth us to be slain, having shrouded us with his dense arrowy shower.",
+    "morphology": "vadha_vadha_MCp"
+  },
+  {
+    "index": 25260,
+    "sanskrit": "tisraḥ koṭyo'rdhakoṭī ca tīrthānāmiha bhūtale | saṃjātāni pavitrāṇi sarvapāpaharāṇi ca || 99 ||",
+    "english": "99. There are three and a half crores of Tīrthas on the earth. They are holy and destructive of all sins.",
+    "morphology": "tisraḥ_tri_PNF koṭyaḥ_koṭi_PNF ardha_ardha_Cp koṭī_koṭi_SNF ca_ca_ tīrthānām_tīrtha_PGNe iha_iha_ bhū_bhū_Cp tale_tala_SLM  / saṃjātāni_saṃjan_PNPaNe pavitrāṇi_pavitra_PNNe"
+  },
+  {
+    "index": 25261,
+    "sanskrit": "rodhra sāvararodhra palāśa kuṭannaṭa aśoka phañjī kaṭphala elavāluka śallakī jiṅginī kadamba sālāḥ kadalī ca iti || eṣa rodhra ādiḥ iti uktaḥ medaḥ kapha haraḥ gaṇaḥ |",
+    "english": "The group of medicinal drugs known as the Rodhradi consists of Rodhra, Savararodhra, Palasha Kutannata, Ashoka, Phanji, Katphala, Elabaluka, Sallaki, Jingini, Kadamva, Sala and Kadali.",
+    "morphology": "rodhra_rodhra_MCp sāvararodhra_sāvararodhra_MCp palāśa_palāśa_MCp kuṭannaṭa_kuṭannaṭa_MCp aśoka_aśoka_MCp phañjī_phañjī_FCp kaṭphala_kaṭphala_MCp elavāluka_elavāluka_MCp śallakī_śallakī_FCp jiṅginī_jiṅginī_FCp kadamba_ka"
+  },
+  {
+    "index": 25262,
+    "sanskrit": "dhruvaśca ṛṣabhaścaiva bharato nava yoginaḥ | tadbhrātaraḥ pare cāpi śivapūjanakārakāḥ ||",
+    "english": "24. Dhruva, Ṛṣabha, Bharata, his brothers the nine Yogins and others too were worshippers of Śiva.",
+    "morphology": "dhruvaḥ_dhruva_SNM ca_ca_ ṛṣabhaḥ_ṛṣabha_SNM ca_ca_ eva_eva_ bharataḥ_bharata_SNM nava_navan_SNNe yoginaḥ_yogin_PNM  / tad_tad_Cp bhrātaraḥ_bhrātṛ_PNM pare_para_PNM ca_ca_ api_api_ śiva_śiva_Cp pūjana_pūjana_Cp kārakāḥ_kāraka"
+  },
+  {
+    "index": 25263,
+    "sanskrit": "sā satyevārcitā nityaṃ kīrtisaṃpatpradāyinī | paramā parameśānī bhuktimuktipradāyinī ||",
+    "english": "10. That Satī alone when propitiated for ever bestows fame and wealth. She is the great Goddess who confers worldly pleasures and salvation.",
+    "morphology": "sā_tad_SNF satī_satī_SNF eva_eva_ arcitā_arcay_SNPaF nityam_nityam_ kīrti_kīrti_Cp saṃpad_sampad_Cp pradāyinī_pradāyin_SNF  / paramā_parama_SNF parameśānī_parameśānī_SNF bhukti_bhukti_Cp mukti_mukti_Cp pradāyinī_pradāyin_SNF"
+  }
+]

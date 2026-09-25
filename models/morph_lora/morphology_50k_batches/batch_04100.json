@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32792,
+    "sanskrit": "praviṣṭaḥ hāstinapuram bāṣpa kaṇṭhaḥ aśru locanaḥ",
+    "english": "With those ladies, Yuyutsu entered the city of Hastinapura, with tearful eyes and with voice choked in grief.",
+    "morphology": "praviṣṭaḥ_praviś_SNPaPsM"
+  },
+  {
+    "index": 32793,
+    "sanskrit": "tatra te puruṣa vyāghrāḥ paramam śaucam āsthitāḥ ṣaṣ rātram avasan vīrāḥ dhanaṃjaya didṛkṣayā tasmin viharamāṇāḥ ca ramamāṇāḥ ca pāṇḍavāḥ",
+    "english": "And those tigers among men, the Pandavas of the god-like appearance, felt delight in witnessing the various amusements of Draupadi.\" SECTION CXLV Vaisampayana said, \"There observing cleanliness, those tigers among men dwelt for six nights, in expectation of beholding Dhananjaya.",
+    "morphology": "tatra_tatra_U te_tad_PNM puruṣa_puruṣa_MCp vyāghrāḥ_vyāghra_PNM paramam_parama_SANe śaucam_śauca_SANe āsthitāḥ_āsthā_PNPaPsM ṣaṣ_ṣaṣ_Cp rātram_rātra_SAM avasan_vas_PPs3In vīrāḥ_vīra_PNM dhanaṃjaya_dhanaṃjaya_MCp didṛk"
+  },
+  {
+    "index": 32794,
+    "sanskrit": "vicikitsāsaṃyojanaṃ saty aratneṣu vimatiḥ /",
+    "english": "The fetter of doubt is perplexity in regard to the truths and the jewels.",
+    "morphology": "vicikitsā_vicikitsā_Cp saṃyojanam_saṃyojana_SNNe satī_as_SNPaPrF a_a_ ratneṣu_ratna_PLNe vimatiḥ_vimati_SNF"
+  },
+  {
+    "index": 32795,
+    "sanskrit": "jāmadagnyena rāmeṇa purā yaḥ na parājitaḥ",
+    "english": "He could not be vanquished by even Rama of Jamadagni's race with his celestial weapons of great energy.",
+    "morphology": "jāmadagnyena_jāmadagnya_SIM"
+  },
+  {
+    "index": 32796,
+    "sanskrit": "tathā rudra maheśābhyāmanyatkṛtyadvayaṃ param | anugrahākhyaṃ kenāpi labdhuṃ naiva hi śakyate || tatsarvaṃ paurvikaṃ karma yuvābhyāṃ kālavismṛtam | na tadrudra maheśābhyāṃ vismṛtaṃ karma tādṛśam ||",
+    "english": "11. Similarly, the other two activities (annihilation and concealment) have been assigned to Rudra and Maheśa. The fifth one of Anugraha (liberation) cannot be taken up by any other. 12. All this previous arrangement has been forgotten by both of you due to lapse of time, not so by Rudra and Maheśa.",
+    "morphology": "tathā_tathā_ rudra_rudra_SVM maheśābhyām_maheśa_DuIM anyat_anya_SNNe kṛtya_kṛtya_Cp dvayam_dvaya_SNNe param_para_SNNe  / anugraha_anugraha_Cp ākhyam_ākhyā_SNNe kena_ka_SIM api_api_ labdhum_labh_In na_na_ eva_eva_ hi_hi_ śakyate_śak_SPr3InPv "
+  },
+  {
+    "index": 32797,
+    "sanskrit": "sā gṛhītā mayā dīrghaṃ prakurvāṇā mahāsvanam | tāteti ca vimānasthā rurodātīva bhadraka || 45 ||",
+    "english": "45. On being seized by me and placed in the aerial chariot she lamented loudly for a long time shouting “O father, O father”, O gentle Sir.",
+    "morphology": "sā_tad_SNF gṛhītā_grah_SNPaF mayā_mad_SI dīrgham_dīrgha_SAM prakurvāṇā_prakṛ_SNPaPrF mahā_mahat_Cp svanam_svana_SAM  / tāta_tāta_SVM iti_iti_ ca_ca_ vimāna_vimāna_Cp sthā_stha_SNF ḥ_ḥ_"
+  },
+  {
+    "index": 32798,
+    "sanskrit": "yadi etat rocate rājan punar brūhi bravīmi te rāja putraḥ uvāca",
+    "english": "If thou likest it, O king, tell me, for then I shall speak to thee of that policy.' \"The king said, 'Tell me, O holy one, what thou wishest to say.",
+    "morphology": "yadi_yadi_U etat_etad_SNNe rocate_ruc_SPr3In rājan_rājan_SVM punar_punar_U brūhi_brū_SPr2Im bravīmi_brū_SPr1In ḥ"
+  },
+  {
+    "index": 32799,
+    "sanskrit": "ūrdhvāṃ gatimavāpnoti vīkṣaṇādūrdhvaretasaḥ | ūrdhvaretasi ye bhaktā na hi teṣāmadhogatiḥ || 64 ||",
+    "english": "64. By viewing Ūrdhvaretas a devotee attains an elevated status. There is no question of going downwards (in status etc.) in the case of the devotees of Ūrdhvaretas.",
+    "morphology": "ūrdhvām_ūrdhva_SAF gatim_gati_SAF avāpnoti_avāp_SPr3In vīkṣaṇāt_vīkṣaṇa_SBNe ūrdhvaretasaḥ_ūrdhvaretas_SGM  / ūrdhvaretasi_ūrdhvaretas_SLM yā_yad_SNF bhaktāḥ_bhakta_PNM na_na_ hi_hi_ teṣām_tad_PGM adhogatiḥ_adhogati_SNF"
+  }
+]

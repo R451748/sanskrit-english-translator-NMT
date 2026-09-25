@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47184,
+    "sanskrit": "hrīmān kula anvitaḥ śrīmān sarva śāstra viśāradaḥ",
+    "english": "he that is well-versed in all branches of learning;",
+    "morphology": "hrīmān_hrīmat_SNM kula_kula_NeCp anvitaḥ_anvita_SNM"
+  },
+  {
+    "index": 47185,
+    "sanskrit": "sam iddhaḥ agne ā vaha devān adya yata sruce tantum tanuṣva pūrvyam suta somāya dāśuṣe",
+    "english": "KINDLED, bring, Agni, Gods to-day for him who lifts the ladle up. Spin out the ancient thread for him who sheds, with gifts, the Soma juice.",
+    "morphology": "sam_sam_U iddhaḥ_indh_SNPaPsM agne_agni_SVM ā_ā_U vaha_vah_SPr2Im devān_deva_PAM adya_adya_U yata_yam_PaPsCp sruce_sruc_SDM tantum_tantu_SAM tanuṣva_tan_SPr2Im pūrvyaḥ_pūrvya_SNM suta_su_PaPsCp somāya_soma_SDM dāśuṣe_dāś_SVPaPsM"
+  },
+  {
+    "index": 47186,
+    "sanskrit": "asaṃbhāvitamūlaṃ hi pauruṣeyaṃ yaducyate /",
+    "english": "And in regard to that work of the human author of which a basis is not found, if it be asserted that it has no basis at all, such an assertion would be as acceptable as the description of a colour by one who is born blind.",
+    "morphology": "a_a_ saṃbhāvita_sambhāvay_PaCp mūlaḥ_mūla_SNM hi_hi_ pauruṣeyaḥ_pauruṣeya_SNM"
+  },
+  {
+    "index": 47187,
+    "sanskrit": "dṛśyate nivṛttacakṣurbhiḥ samāhitacetobhirbrahmacaryādisādhanāpekṣam /",
+    "english": "‘Is seen’by persons who have withdrawn their physical eyes and have concentrated their mind, through such means as leading the life of the Religious Student and the like",
+    "morphology": "dṛśyate_dṛś_SPr3InPv nivṛtta_nivṛt_PaCp cakṣurbhiḥ_cakṣus_PINe samāhita_samāhita_Cp cetaḥ_cetas_PINe"
+  },
+  {
+    "index": 47188,
+    "sanskrit": "kṣuttuṣṇe dehadharmākhye na mamaite yato dvija / tataḥ kṣutsambhavābhāvāttṛptirastyeva me sadā // manasaḥ svasthatā tuṣṭiścittadharmāvimau dvija / cetaso yasya tatpṛccha pumān ebhir na yujyate //",
+    "english": "Hunger and thirst are the functions of the body, and satisfaction must always be afforded me by that by which they are removed for when hunger is no longer sensible, pleasure and contentment of mind are faculties of the intellect ask their condition of the mind then, for man is not affected by them.",
+    "morphology": "kṣudh_kṣudh_Cp tuṣṇe_tuṣṇa_DuNF deha_deha_Cp dharma_dharma_Cp ākhye_ākhyā_DuNF na_na_ mama_mad_SG ete_etad_DuNF yatas_yatas_ dvija_dvija_SVM  / tatas_tatas_ kṣudh_kṣudh_Cp sambhava_sambhava_Cp abhāvāt_abhāva_SBM tṛptiḥ_tṛpti_SNF"
+  },
+  {
+    "index": 47189,
+    "sanskrit": "tat dṛṣṭvā parama prītaḥ gandharvaḥ citram adbhutam",
+    "english": "And beholding that wonderful weapon of great beauty, the mighty Gandiva, Chitrasena, highly pleased, addressed the lord of celestials, saying, 'Behold these arrows shot by Partha coursing through the sky in one continuous line.",
+    "morphology": "tat_tad_SANe dṛṣṭvā_dṛś_Co ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭvā_ṛṣṭvā_SNF ṛṣṭ"
+  },
+  {
+    "index": 47190,
+    "sanskrit": "samudrā ūcuḥ | tāvatsthāsyāmahe'traiva yāvatkalpāvasānakam || 20 ||",
+    "english": "The Oceans said:",
+    "morphology": "samudrāḥ_samudra_PNM ūcuḥ_vac_PPs3In  / tāvat_tāvat_ sthāsyāmahe_sthā_PFu1In atra_atra_ eva_eva_ yāvat_yāvat_ kalpa_kalpa_Cp avasānakam_avasānaka_SNNe"
+  },
+  {
+    "index": 47191,
+    "sanskrit": "na ca sannihitaṃ vastu tatrāsti vanitādikam / tenedaṃ smṛtyupārūḍhaṃ avabhātīti manvate //",
+    "english": "In other words, when we doubt, our mind oscillates between the two contradictory or contrary predicates of one and the same subject and fails to arrive at a decision.",
+    "morphology": "na_na_ ca_ca_ sannihitam_saṃnidhā_SNPaNe vastu_vastu_SNNe tatra_tatra_ asti_as_SPr3In vanitā_vanitā_Cp ādikam_ādika_SNNe  / tena_tad_SINe idam_idam_SNNe smṛti_smṛti_Cp upārūḍham_upāruh_SNPaNe avabhāti_avabhā_SPr3In iti_iti_"
+  }
+]

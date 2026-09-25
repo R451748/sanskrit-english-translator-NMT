@@ -1,0 +1,50 @@
+[
+  {
+    "index": 640,
+    "sanskrit": "tasmād utthānam ātmanaḥ kurvīta //",
+    "english": "Hence the king shall ever be wakeful",
+    "morphology": "tasmāt_tasmāt_ utthānam_utthāna_SANe ātmanaḥ_ātman_SGM kurvīta_kṛ_SPr3O  /"
+  },
+  {
+    "index": 641,
+    "sanskrit": "āhṛtim kauśika ācāryam yatnena mahatā tatas vaśe cakre mahā bāhuḥ surāṣṭra adhipatim tathā",
+    "english": "And the prince, after this, with great efforts brought Akriti, the king of Saurashtra and preceptor of the Kausikas under his sway.",
+    "morphology": "āhṛtim_āhṛti_SAF kauśika_kauśika_MCp ācāryam_ācārya_SAM yatnena_yatna_SIM mahatā_mahat_SIM tatas_tatas_U vaśe_vaśa_SLM cakre_kṛ_SPs3In mahā_mahat_Cp bāhuḥ_bāhu_SNM surāṣṭra_surāṣṭra_MCp adhipatim_adhipati_SAM tathā_tathā_U"
+  },
+  {
+    "index": 642,
+    "sanskrit": "sūta uvāca | etāvadeva martyānāṃ paraṃ śreyaḥ sanātanam | yadīśvarakathāyāṃ vai jātā bhaktirahaitukī || 5 ||",
+    "english": "5. The highest good of mortals, of a permanent nature, consists in this much alone that devotion to his story is generated (in them) spontaneously, without any ulterior motive.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / etāvat_etāvat_SNNe eva_eva_ martyānām_martya_PGM param_para_SNNe śreyaḥ_śreyas_SNNe sanātanam_sanātana_SNNe  / yadi_yadi_ īśvara_īśvara_Cp kathāyām_kathā_SLF vai_vai_ jātā_jan_SNPaF bhaktiḥ_bhakt"
+  },
+  {
+    "index": 643,
+    "sanskrit": "hastinaś cāpi dāyādās trayaḥ paramadhārmikāḥ /",
+    "english": "Hasti had three highly pious sons.",
+    "morphology": "hastinaḥ_hastin_SGM ca_ca_ api_api_ dāyādāḥ_dāyāda_PNM trayaḥ_tri_PNM parama_parama_Cp dhārmikāḥ_dhārmika_PNM  /"
+  },
+  {
+    "index": 644,
+    "sanskrit": "dvau bhūta sargau loke asmin daivaḥ āsuraḥ eva ca",
+    "english": "(There are) two kinds of created beings in this world, viz., the god-like and the demoniac.",
+    "morphology": "dvau_dvi_DuNM bhūta_bhūta_NeCp sargau_sarga_DuNM loke_loka_SLM asmin_idam_SLM daivaḥ_daiva_SNM āsuraḥ_āsura_SNM eva_eva_U"
+  },
+  {
+    "index": 645,
+    "sanskrit": "mām hi kāmayamānaḥ ayam rājā preta vaśam gataḥ",
+    "english": "The king, in seeking me wishfully, hath gone to the region of spirits;",
+    "morphology": "mām_mad_SA hi_hi_U kāmayamānaḥ_kāmay_SNPaPrM ayam_idam_SNM rājā_rājan_SNM"
+  },
+  {
+    "index": 646,
+    "sanskrit": "akāryātiśayaṃ yat tu nīrūpamavikāri ca /",
+    "english": "and that such previously non-existent effect is quite amenable to the potency of the cause”.",
+    "morphology": "akārya_akārya_Cp atiśayam_atiśaya_SNNe yat_yad_SNNe tu_tu_ nīrūpam_nīrūpa_SNNe avikāri_avikārin_SNNe ca_ca_  /"
+  },
+  {
+    "index": 647,
+    "sanskrit": "sa tena varmaṇā guptaḥ prāyāt vṛtra camūm prati",
+    "english": "Protected by that armour, Sakra proceeded against the host of Vritra in battle.",
+    "morphology": "sa_tad_SNM tena_tad_SIM varmaṇā_varman_SIM guptaḥ_gup_SNPaPsM prāyāt_prayā_SPs3In vṛtra_vṛtra_MCp camūm_camū_SAF"
+  }
+]

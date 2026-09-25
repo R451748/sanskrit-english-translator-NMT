@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3280,
+    "sanskrit": "vedī madhyāt samutpannā padma patra nibha īkṣaṇā darśanīya anavadya aṅgī sukumārī manasvinī",
+    "english": "Of eyes like lotus-petals and of faultless features endued with youth and intelligence, she is extremely beautiful.",
+    "morphology": "vedī_vedi_FCp madhyāt_madhya_SBNe samutpannā_samutpad_SNPaPsF padma_padma_MCp patra_pattra_MCp nibha_nibha_Cp īkṣaṇā_īkṣaṇa_SNF darśanīya_darśanīya_Cp anavadya_anavadya_Cp aṅgī_aṅga_SNF"
+  },
+  {
+    "index": 3281,
+    "sanskrit": "tamasyuparate kāntaṃ tejaḥpuñjaṃ dadarśa saḥ / śārvare timire śānte prātaḥsaṃdhyāmivāmbujam //",
+    "english": "After dispersion of this darkness, he saw a beautiful collection of light, shining upon him like the morning twilight, and alighting upon his lotus bed, after dispersion of the shade of night.",
+    "morphology": "tamasi_tamas_SLNe uparate_uparam_SLPaNe kāntam_kānta_SAM tejaḥ_tejas_Cp puñjam_puñja_SAM dadarśa_dṛś_SPs3In saḥ_tad_SNM  / śārvare_śārvara_SLNe timire_timira_SLNe śānte_śam_SLPaNe prātar_prātar_ saṃdhyām_saṃdhyā_SAF iva_iva_ ambu"
+  },
+  {
+    "index": 3282,
+    "sanskrit": "tvām āhvayāmahe rājan sthiraḥ yudhyasva māgadha",
+    "english": "O king of Magadha, we challenge thee. Fight standing before us.",
+    "morphology": "tvām_tvad_SA"
+  },
+  {
+    "index": 3283,
+    "sanskrit": "aṅgaśabdenaikadeśa ucyate /",
+    "english": "[The word ‘aṅga’ stands for part].",
+    "morphology": "aṅga_aṅga_Cp śabdena_śabda_SIM eka_eka_Cp deśaḥ_SNM "
+  },
+  {
+    "index": 3284,
+    "sanskrit": "dadyām aham vaḥ aśvatarī sahasram",
+    "english": "Verily, I shall give unto you a thousand mules.",
+    "morphology": "dadyām_dā_SPr1O"
+  },
+  {
+    "index": 3285,
+    "sanskrit": "karṇa pāli āmayān ṇnām punar vakṣyāmi suśruta |",
+    "english": "Now I shall deal with the process of affixing an artificial nose.",
+    "morphology": "karṇa_karṇa_MCp pāli_pāli_SVM āmayān_āmaya_PAM"
+  },
+  {
+    "index": 3286,
+    "sanskrit": "dhanaṃjayaḥ ratha anīkam anvapadyata vīryavān",
+    "english": "Meanwhile, Dhananjaya of great energy proceeded towards the car-division (of the Kurus).",
+    "morphology": "dhanaṃjayaḥ_dhanaṃjaya_SNM ratha_ratha_MCp anīkam_anīka_SANe anvapadyata_anuṣṭhāḥ_ṛṣṭa_PNM"
+  },
+  {
+    "index": 3287,
+    "sanskrit": "kaḥ anyaḥ hi pṛthivīm kṛtsnām avajitya sa pārthivām cārayitvā haya śreṣṭham upāyāyāt ṛte arjunam ye vyatītāḥ mahātmānaḥ rājānaḥ sagara ādayaḥ",
+    "english": "Praise to you and king Yudhishthira! Who else than Arjuna could come back after having caused the horse to wander over the whole Earth and after having vanquished all the kings in battle? We have not heard of such a feat having been achieved by even Sagara and other high-souled kings of antiquity.",
+    "morphology": "kaḥ_ka_SNM anyaḥ_anya_SNM hi_hi_U pṛthivīm_pṛthivī_SAF kṛtsnām_kṛtsna_SAF avajitya_avaji_Co sa_sa_U pārthivām_pārthiva_SAF cārayitvā_cāray_Co haya_haya_MCp śreṣṭham_śreṣṭha_SAM upāyāyāt_upāyā_SPr3O ṛte_ṛte_U arjunam_"
+  }
+]

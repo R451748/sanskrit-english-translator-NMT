@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1000,
+    "sanskrit": "bhavet evam hi ātmanā tulyam eva",
+    "english": "The Pandavas then will become thy equals (instead of, as now, superiors);",
+    "morphology": "bhavā_bhū_SPr3O"
+  },
+  {
+    "index": 1001,
+    "sanskrit": "pāṇḍavebhyaḥ śivam vaḥ astu śastram abhyutsṛjāmi aham",
+    "english": "Let no injury happen to you from the Pandayas.",
+    "morphology": "pāṇḍavebhyaḥ_pāṇḍava_PDM"
+  },
+  {
+    "index": 1002,
+    "sanskrit": "ya eva mahākalpo nirdiṣṭaḥ / tadasaṃkhyatrayodbhavam // buddhatvam saṃkhyeyānāṃ kalpānāṃ trayeṇa /",
+    "english": "Of these great kalpas that we have just defined.",
+    "morphology": "yaḥ_yad_SNM eva_eva_ mahākalpaḥ_mahākalpa_SNM nirdiṣṭaḥ_nirdiś_SNPaM  / tat_tad_SNNe asaṃkhya_asaṃkhya_Cp traya_traya_Cp udbhavam_udbhava_SNNe  // buddha_budh_PaCp tvaṇḍa_tva_SNNe"
+  },
+  {
+    "index": 1003,
+    "sanskrit": "tatra yaḥ prajāgarūkaḥ śīta dveṣī durbhagaḥ stenaḥ matsarī anāryaḥ gāndharva cittaḥ sphuṭita kara caraṇaḥ alpa rūkṣa śmaśru nakha keśaḥ ati rūkṣa śmaśru nakha keśaḥ iti pā *krāthī danta nakha khādī ca bhavati",
+    "english": "A man of Vatikatemparament is wakeful, averse to bathing and cold contact, unshapely, thievish, vain, dishonest and fond of music; the soles of his feet, and the palms of his hands are much fissured; has often a rough and grisly beard and moustache, finger nails and hairs in him; he is hot-tempered and is given to biting his finger nails and grinding his teeth (when asleep).",
+    "morphology": "tatra_tatra_U yaḥ_yad_SNM prajāgarūkaḥ_prajāgarūka_SNM śīta_śīta_NeCp dveṣī_dveṣin_SNM durbhagaḥ_durbhaga_SNM stenaḥ_stena_SNM matsarī_matsarin_SNM anāryaḥ_anārya_SNM gāndharva_gāndharva_Cp cittaḥ_citta_SNM sphuṭita_sphuṭ_"
+  },
+  {
+    "index": 1004,
+    "sanskrit": "patitānāṃ ca saṃbhāṣe kuryādācamanikriyām | adhyetavyā trayī nityaṃ bhavitavyaṃ vipaścitā || 167 ||",
+    "english": "Three Vedas must be studied everyday. One should (try to) become a learned man. One should acquire wealth by righteous means. Worship should be performed scrupulously.",
+    "morphology": "patitānām_pat_PGPaM ca_ca_ saṃbhāṣe_sambhāṣa_SLM kuryāt_kṛ_SPr3O ācamanikriyām_ācamanikriyā_SAF  / adhyetavyā_adhī_SNFGd trayī_trayī_SNF nityam_nityam_ bhavitavyam_bhū_SNNeGd vipaścitā_vipaścit_SIM"
+  },
+  {
+    "index": 1005,
+    "sanskrit": "ni yachati vṛṣṭim evāsmai ni yachati nātyagram pra haret |",
+    "english": "verily he brings down rain for him. He should not put forward the points too much;",
+    "morphology": "ni_ni_ yacchati_yam_SPr3In vṛṣṭim_vṛṣṭi_SAF eva_eva_ asmai_idam_SDM ni_ni_ yacchati_yam_SPr3In na_na_ atyagram_atyagram_"
+  },
+  {
+    "index": 1006,
+    "sanskrit": "vyāsa uvāca | sanatkumāra sarvajña hate tasminsuradruhi | kimakārṣīttatastasya jyeṣṭhabhrātā mahāsuraḥ ||",
+    "english": "1. O Santakumāra of great intellect, when that Asura was killed what did his elder brother, the great Asura, do?",
+    "morphology": "vyāsaḥ_vyāsa_SNM uvāca_vac_SPs3In  / sanatkumāra_sanatkumāra_SVM sarva_sarva_Cp jña_jña_SVM hate_han_SLPaM tasmin_tad_SLM suradruhi_suradruh_SLM  / kim_ka_SANe akārṣīt_kṛ_SPs3InFs tatas_tatas_ tasya_tad_SGM jyeṣṭha_jyeṣṭha_Cp bhrāt"
+  },
+  {
+    "index": 1007,
+    "sanskrit": "asṛkṣata pra vājino gavyā somāso aśvayā / śukrāso vīrayāśavaḥ //",
+    "english": "Through our desire of heroes, kine, and horses, potent Soma drops, brilliant and swift, have been effused",
+    "morphology": "asṛkṣata_sṛj_PPs3InFs pra_pra_ vājinaḥ_vājin_PNM gavyā_gavyā_SIF somāsaḥ_soma_PNM aśvayā_aśvayā_SIF  / śukrāsaḥ_śukra_PNM"
+  }
+]

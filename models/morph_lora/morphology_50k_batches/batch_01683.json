@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13456,
+    "sanskrit": "abhinnavelau gambhīrāvamburāśirbhavānapi | asāvañjanasaṃkāśastvaṃ tu cāmīkaradyutiḥ ||",
+    "english": "\"Incapable of transgressing the bounds and unfathomable are the ocean as well as Your Honour: that one appears like black soot;",
+    "morphology": "abhinna_abhinna_Cp velau_velā_DuNM gambhīrau_gambhīra_DuNM amburāśiḥ_amburāśi_SNM bhavān_bhavat_SNM api_api_  / asau_adas_SNM añjana_añjana_Cp saṃkāśaḥ_saṃkāśa_SNM tvam_tvad_SN"
+  },
+  {
+    "index": 13457,
+    "sanskrit": "yatra asya nītiḥ akhilā prādurbhūtā mahātmanaḥ",
+    "english": "It was there that the whole science of politics and morals (that goes by Sukra's name) appeared to him by inward light.",
+    "morphology": "yāvān_yāvat_SNM"
+  },
+  {
+    "index": 13458,
+    "sanskrit": "kuḍya ādi pratibandhaḥ api yujyate mātariśvanaḥ | śrotra deśa abhighātaḥ api tena tīvra pravṛttinā || tasya ca krama vṛtti tvāt kṣayi vegi tva sampadaḥ | saṃskāra krama tīvra tva manda tā ādi nimitta tā ||",
+    "english": "The interception caused by obstacles like the wall is quite possible in the case of air. the striking against the tympanum (of which we are at times cognisant) is due to the force of the air-current. and inasmuch as the air proceeds in succession and has a waning intensity and velocity, it becomes the cause of the sequence and varying grades of intensity of the embellishment produced by it.”Ślokavārtika—eternality of words, 128-130]",
+    "morphology": "kuḍya_kuḍya_NeCp ādi_ādi_MCp pratibandhaḥ_pratibandha_SNM api_api_U yujyate_yuj_SPr3InPv mātariśvanaḥ_mātariśvan_SGM  / śrotra_śrotra_NeCp deśa_deśa_MCp abhighātaḥ_abhighāta_SNM api_api_U tena_tad_SIM tīvra_tīvra_Cp pravṛttinā_pr"
+  },
+  {
+    "index": 13459,
+    "sanskrit": "tauryatrikasvarūpāya tauryatrikamahāpriya || tauryatrikakṛtāṃbhaktyā nirvāṇaśrīpradāyaka || 17 ||",
+    "english": "117. O Lord, extremely fond of Tauryatrika (union or triple symphony of dance, vocal and instrumental music), to one identical with Tauryatrika, O bestower of the glory of salvation on those who present Tauryatrika with devotion!",
+    "morphology": "tauryatrika_tauryatrika_Cp svarūpāya_svarūpa_SDM tauryatrika_tauryatrika_Cp mahā_mahat_Cp priya_priya_SVM  / tauryatrika_tauryatrika_Cp kṛtām_kṛt_PGM bhaktyā_bhakti_SIF"
+  },
+  {
+    "index": 13460,
+    "sanskrit": "śaktaḥ sa hi mahīm jetum nivāta kavaca antakaḥ",
+    "english": "That destroyer of the Nivatakavachas is competent to conquer the whole Earth.",
+    "morphology": "śaktaḥ_śak_SNPaPsM"
+  },
+  {
+    "index": 13461,
+    "sanskrit": "ratham ratham śatam ca aśvāḥ deśa jāḥ hema mālinaḥ",
+    "english": "With each car were a hundred steeds, all of good breed and all decked with trappings of gold.",
+    "morphology": "ratham_ratha_SAM ratham_ratha_SAM śatam_śata_SNNe ca_ca_U aśvāḥ_aśva_PNM"
+  },
+  {
+    "index": 13462,
+    "sanskrit": "bila stham kṛṣṇa sarpam tvam bālyāt kāṣṭhena vidhyasi mahā viṣam pūrṇa kośam yat pārtham yoddhum icchasi",
+    "english": "From folly thou art piercing, with a piece of wood, the black cobra of virulent poison excited to fury within its hole, in desiring to fight with Partha.",
+    "morphology": "bila_bila_NeCp stham_stha_SAM kṛṣṇa_kṛṣṇa_SVM sarpam_sarpa_SAM tvam_tvad_SN bālyāt_bālya_SBNe kāṣṭhena_kāṣṭha_SINe vidhyasi_vyadh_SPr2In mahā_mahat_Cp viṣam_viṣa_SAM pūrṇa_pṛ_PaPsCp kośam_kośa_SAM yat_yat_U pārtham_pā"
+  },
+  {
+    "index": 13463,
+    "sanskrit": "tato janmatrayāṇyeva harttā nirayamāvrajet | pūrvajā nopabhuṃjaṃti tatpradattaṃ jalaṃ kvacit || 18 ||",
+    "english": "Even if a Varāṭikā (cowrie) is to be taken away from Brāhmaṇas, the said thief falls in hell for three (successive) generations. The water libation offered by him is never accepted by the Manes (ancestors).",
+    "morphology": "tatas_tatas_ janma_janman_Cp trayāṇi_traya_PANe eva_eva_ harttā_hartṛ_SNM nirayam_niraya_SAM āvrajet_āvraj_SPr3O  / pūrva_pūrva_Cp jāḥ_ja_PNM na_na_ upabhuṃjanti_upabhuj_PPr3In tad_tad_Cp pradattam_pradā_SAPaNe jalam_jala_SANe kvacid_kvacid"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42264,
+    "sanskrit": "pitryam hi rājyam viditam nṛpāṇām yathā apakṛṣṭam dhṛtarāṣṭra putraiḥ mithyā upacāreṇa tathā api anena",
+    "english": "How the sons of Dhritarashtra fraudulently robbed him of his paternal kingdom, and how he hath passed a life of unendurable hardships, are known to all the kings assembled here.",
+    "morphology": "pitryam_pitrya_SNNe hi_hi_U rājyam_rājya_SNNe viditam_vid_SNPaPsNe nṛpāṇām_nṛpa_PGM yathā_yathā_U apakṛṣṭam_apakṛṣ_SNPaPsNe dhṛtarāṣṭra_dhṛtarāṣṭra_MCp putraiḥ_putra_PIM mithyā_mithyā_U upacāreṇa_upacāra_SIM tath"
+  },
+  {
+    "index": 42265,
+    "sanskrit": "dasyūnām iva dharmaḥ te na hi saṃsadi śobhate",
+    "english": "Thy behaviour is like that of a robber, and doth not shine in a court.",
+    "morphology": "dasyūnām_dasyu_PGM"
+  },
+  {
+    "index": 42266,
+    "sanskrit": "buddhiḥ cintayataḥ kim cit svam śreyaḥ na avabudhyate muhyatā tu manuṣyeṇa praṣṭavyāḥ suhṛdaḥ budhāḥ",
+    "english": "Plunged in reflection, I fail to see what is for our good! A man that is stupefied himself should ask counsel of his friends.",
+    "morphology": "buddhiḥ_buddhi_SNF cintayataḥ_cintay_SGPaPrM kim_ka_SANe cit_cit_U svam_sva_SANe śreyaḥ_śreyas_SANe na_na_U avabudhyate_avabudh_SPr3In muhyatā_muh_SIPaPrM tu_tu_U manuṣyeṇa_manuṣya_SIM praṣṭavyāḥ_pracch_PNMGd suhṛdaḥ_suhṛd_PNM b"
+  },
+  {
+    "index": 42267,
+    "sanskrit": "tenāyam artho bhavati /",
+    "english": "‘Preceded by that’, i.e. preceded by affirmation;",
+    "morphology": "tena_tad_SINe "
+  },
+  {
+    "index": 42268,
+    "sanskrit": "aṣṭau vasūn śuśruma devatāsu",
+    "english": "eight Vasus, as we hear, are amongst the celestials;",
+    "morphology": "aṣṭau_aṣṭan_PAM vasūn_vasu_PAM"
+  },
+  {
+    "index": 42269,
+    "sanskrit": "dakṣiṇenāhavanīyam prācīnagrīve kṛṣṇājine upastṛṇāti /",
+    "english": "South of the Âhavanîya he spreads two black antelope skins on the ground, with the neck parts towards the east: thereon he consecrates him.",
+    "morphology": "dakṣiṇena_dakṣiṇena_ āhavanīyam_āhavanīya_SAM prācīna_prācīna_Cp grīve_grīvā_DuANe kṛṣṇājine_kṛṣṇājina_DuANe  /"
+  },
+  {
+    "index": 42270,
+    "sanskrit": "pratyudyayau hariṃ raudraḥ svabāhubalamāśritaḥ | rīkṣṇadhāreṇa śūlena mahiṣo harimardayan || 64 ||",
+    "english": "64. That terrible Mahiṣa who rushed at Hari depending solely on the strength of his arms attacked Hari with a keen-edged lance.",
+    "morphology": "pratyudyayau_pratyudyā_SPs3In harim_hari_SAM raudraḥ_raudra_SNM sva_sva_Cp bāhu_bāhu_Cp balam_bala_SANe āśritaḥ_āśri_SNPaM  / rīkṣṇa_rīkṣṇa_Cp dhāreṇa_dhārā_SIM śūlena_śūla_SIM mahiṣaḥ_mahiṣa_SNM harim_hari_SAM ardayan_a"
+  },
+  {
+    "index": 42271,
+    "sanskrit": "purā vaivasvate kalpe tretākāle samāgate | mahākālavane divye yaje paitāmahe priye || 2 || upaviṣṭeṣu vipreṣu hūyamāne hutāśane | veṣaṃ kāpālikaṃ kṛtvā gato'haṃ tatra saṃsadi || 3 ||",
+    "english": "Formerly in Vaivasvata Kalpa at the advent of Tretāyuga, O beloved one, a divine Yajña was in progress in Mahākālavana under the guidance of Brahmā. As the Brāhmaṇas were seated all round and the Homa was being performed in the sacrificial fire, I assumed the guise of a Kāpālika and went to the assembly there.",
+    "morphology": "purā_purā_ vaivasvate_vaivasvata_SLM kalpe_kalpa_SLM tretā_tretā_Cp kāle_kāla_SLM samāgate_samāgam_SLPaM  / mahākāla_mahākāla_Cp vane_vana_SLNe divye_divya_SLNe yaje_yaj_SPr1In paitāmahe_paitāmaha_SLNe priye_priya_SVF  / upaviṣṭeṣu_upav"
+  }
+]

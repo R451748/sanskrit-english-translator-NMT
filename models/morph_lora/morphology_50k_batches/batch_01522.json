@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12168,
+    "sanskrit": "evam sa nidhanam prāptaḥ kuru rājaḥ mahāmanāḥ gāndhārī ca pṛthā ca eva jananyau te narādhipa",
+    "english": "Even thus the high-souled Kuru king met with his death, and it was even thus that Gandhari and Kunti, thy two mothers, also met with death, O monarch.",
+    "morphology": "evam_evam_U sa_tad_SNM nidhanam_nidhana_SANe prāptaḥ_prāp_SNPaPsM kuru_kuru_MCp rājaḥ_rāja_SNM mahāmanāḥ_mahāmanas_SNM gāndhārī_gāndhārī_SNF ca_ca_U pṛthā_pṛthā_SNF ca_ca_U eva_eva_U jananyau_jananī_DuNF"
+  },
+  {
+    "index": 12169,
+    "sanskrit": "samāhṛtya tu tad bhakṣaṃ yāvad artham amāyayā / nivedya gurave 'śnīyād ācamya prāṅmukhaḥ śuciḥ //",
+    "english": "Having collected as much food as may be needed, and having offered it, without guile, to his Teacher, he should eat it, with his face to the east, after having sipped water and become pure.",
+    "morphology": "samāhṛtya_samāhṛ_Co tu_tu_ tat_tad_SANe bhakṣam_bhakṣa_SAM yāvat_yāvat_ artham_artha_SAM amāyayā_amāyā_SIF  / nivedya_niveday_Co gurave_guru_SDM aśnīyāt_aś_SPr3O ācamya_ācam_Co prāc_prāñc_Cp mukhaḥ_mukha_SNM śuciḥ_śuci_SNM  /"
+  },
+  {
+    "index": 12170,
+    "sanskrit": "cireṇa maṃtraṃ saṃdhīyāccirema ca kṛtaṃ tyajet | cireṇa vihataṃ mitraṃ ciraṃ dhāraṇamarhati || 124 ||",
+    "english": "124. “One should take counsel for a long time. One should abandon what is done (by one) only after a delay. One should contract friendship only after a prolonged (test). But that friendship should be maintained for a long time-",
+    "morphology": "cireṇa_cireṇa_ maṃtram_mantra_SAM saṃdhīyāt_saṃdhā_SPr3O cira_cira_Cp ima_idam_SANe ca_ca_ kṛtam_kṛ_SAPaNe tyajet_tyaj_SPr3O  / cireṇa_cireṇa_ vihatam_vihan_SNPaNe mitram_mitra_SNNe ciram_ciram_ dhāraṇa_dhāraṇa_SANe arhati_arh_SP"
+  },
+  {
+    "index": 12171,
+    "sanskrit": "na ca aham tān pratipatsya iha dattvā",
+    "english": "But I do not desire to enjoy regions given to me by others.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 12172,
+    "sanskrit": "idam-ucyate duḥkha-nirodham-ārya-satyam |",
+    "english": "This is said to be the noble truth of the cessation of suffering.",
+    "morphology": "idam_idam_SNNe ucyate_vac_SPr3InPv duḥkha_duḥkha_Cp nirodham_nirodha_SNNe ārya_ārya_Cp satyam_satya_SNNe"
+  },
+  {
+    "index": 12173,
+    "sanskrit": "nāpi dvitīyaḥ pakṣo yujyata iti darśayann āha athāpītyādi /",
+    "english": "The following Text proceeds to show that the other alternative cannot be maintained: [see verse 140 next]",
+    "morphology": "na_na_ api_api_ dvitīyaḥ_dvitīya_SNM pakṣaḥ_pakṣa_SNM yujyate_yuj_SPr3InPv iti_iti_ darśayan_darśay_SNPaPrM āha_ah_SPs3In atha_atha_ api_api_ ityādi_ityādi_SNNe"
+  },
+  {
+    "index": 12174,
+    "sanskrit": "nārada uvāca | prasādaṃ kuru deveśa yuddhārthaṃ kautukaṃ mama | ekena brāhmaṇenājau hanyaṃte kṣatriyā yadā | pitrā proktaṃ ca me pūrvaṃ tadā yuddhaṃ bhaviṣyati || 174 ||",
+    "english": "Nārada said: 174. O Lord of gods, (please) favour me. I have a curiosity for war. My father had formerly told me: “A war will take place when in a battle Kṣatriyas are killed by a Brāhmaṇa.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / prasādam_prasāda_SAM kuru_kṛ_SPr2Im deveśa_deveśa_SVM yuddha_yuddha_Cp artham_artha_SAM kautukam_kautuka_SNNe mama_mad_SG  / ekena_eka_SIM brāhmaṇena_brāhmaṇa_SIM ājau_āji_SLM hanyaṃte_han_PPr3InP"
+  },
+  {
+    "index": 12175,
+    "sanskrit": "dityā putradvayaṃ jajñe kaśyapāditi naḥ śrutam / hiraṇyakaśipuścaiva hiraṇyākṣaś ca durjayaḥ // siṃhikā cābhavatkanyā vipracitteḥ parigrahaḥ //",
+    "english": "It has been related to us, that Diti had two sons by Kaśyapa, named Hiraṇyakaśipu and the invincible Hiraṇyākṣa she had also a daughter, Siṅkā, the wife of Viprachitti.",
+    "morphology": "dityā_diti_SIF putra_putra_Cp dvayam_dvaya_SNNe jajñe_jan_SPs3In kaśyapāt_kaśyapa_SBM iti_iti_ naḥ_mad_PG śrutam_śru_SNPaNe  / hiraṇyakaśipuḥ_hiraṇyakaśipu_SNM ca_ca_ eva_eva_ hiraṇyākṣaḥ_hiraṇyākṣa_SNM ca_ca_ durjayaḥ_durjay"
+  }
+]

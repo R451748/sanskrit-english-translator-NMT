@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27456,
+    "sanskrit": "duḥkham vidyāt upādānāt abhimānāt ca vardhate",
+    "english": "It should be known that sorrow springs from the very fact of acceptance of body (in the womb).",
+    "morphology": "duḥkham_duḥkha_SANe"
+  },
+  {
+    "index": 27457,
+    "sanskrit": "īdṛśī tu tvayā baddhā bhāvaneha vimohajā / saṃsāre yadaśocyo'pi tvayā tātonuśocyate //",
+    "english": "Thou dost in vain indulge thyself in thy false and fruitless grief, and mournest for what is not to be mourned for at all:",
+    "morphology": "īdṛśī_īdṛśa_SNF tu_tu_ tvayā_tvad_SI baddhā_bandh_SNPaF bhāvanā_bhāvanā_SNF iha_iha_ vimoha_vimoha_Cp jā_ja_SNF  / saṃsāre_saṃsāra_SLM yat_yat_ ḍhaḍha_ḍha_"
+  },
+  {
+    "index": 27458,
+    "sanskrit": "strī pūrvakaḥ hi asau jātaḥ tasmāt varjyaḥ raṇe mayā",
+    "english": "He was a female before, O king, and, therefore, should be avoided by me in battle.",
+    "morphology": "strī_strī_FCp pūrvakaḥ_pūrvaka_SNM hi_hi_U asau_adas_SNM jātaḥ_jan_SNPaPsM"
+  },
+  {
+    "index": 27459,
+    "sanskrit": "manmittrasya hiraṇyasya mūṣakasyāntikaṃ drutam / vrajāmaḥ sa imān pāśāṃś chittvāsmān mocayiṣyati // ity uktvā so 'nugaiḥ sākaṃ gatvā tair jālakarṣibhiḥ / mūṣakasya biladvāraṃ prāpyākāśādavātarat // bho bho hiraṇya niryāhi citragrīvo 'hamāgataḥ / ityājuhāva taṃ tatra mūṣakaṃ sa kapotarāṭ //",
+    "english": "Then Citragrīva, being relieved from his fear, said to his followers: “Let us quickly go to my friend the mouse Hiraṇya; he will gnaw these meshes asunder and set us at liberty.” With these words he went on with those pigeons, who were dragging the net along with them, and descended from the air at the entrance of a mouse’s hole. And there the king of the pigeons called the mouse, saying: “Hiraṇya, come out;",
+    "morphology": "mad_mad_Cp mittrasya_mitra_SGM hiraṇyasya_hiraṇya_SGM mūṣakasya_mūṣaka_SGM antikam_antika_SANe drutam_dru_SAPaNe  / vrajāmaḥ_vraj_PPr1In saḥ_tad_SNM imān_idam_PAM pāśān_pāśa_PAM chittvā_chid_Co asmān_mad_PA mocayiṣyati_mocay_SFu3In"
+  },
+  {
+    "index": 27460,
+    "sanskrit": "gomatīsnānaṃ kartavyaṃ prātaḥkāle sadā budhaiḥ | tatraivopāsanaṃ puṇyaṃ saṃdhyāyā iti niścitam || 23 ||",
+    "english": "On hearing it, Lord Viṣṇu who had assumed the form of a Māyāmānuṣa (in the guise of a human being) performed the worshipful propitiation of Gomatī in Kuśasthalī itself, O excellent Brāhmaṇa.",
+    "morphology": "gomatī_gomatī_Cp snānam_snāna_SNNe kartavyam_kṛ_SNNeGd prātaḥkāle_prātaḥkāla_SLM sadā_sadā_ budhaiḥ_budha_PIM  / tatra_tatra_ eva_eva_ upāsanam_upāsana_SNNe puṇyam_puṇya_SNNe saṃdhyāyāḥ_saṃdhyā_SGF iti_iti_ __yad_U __yad_U "
+  },
+  {
+    "index": 27461,
+    "sanskrit": "dhanuḥ ca ekena bāṇena ciccheda indra dhvaja upamam",
+    "english": "And with another broad-headed shaft he cut off he king's bow resembling a pole erected to the honour of Indra.",
+    "morphology": "dhanuḥ_dhanus_SANe"
+  },
+  {
+    "index": 27462,
+    "sanskrit": "agniḥ sarvā devatā iti te |",
+    "english": "therefore they say, 'Agni is all the gods'.",
+    "morphology": "agniḥ_agni_SNM"
+  },
+  {
+    "index": 27463,
+    "sanskrit": "śālmalīṃ te'vagūhanti paradāraratā hi ye | parasya yoṣitaṃ hṛtvā brahmasvamapahṛtya ca || 103 ||",
+    "english": "Those who sport about with the wives of others are made to embrace terrible (heated) images of iron full of many spikes in the hell Śālmalī.",
+    "morphology": "śālmalīm_śālmalī_SAF te_tad_PNM avagūhanti_avaguh_PPr3In para_para_Cp dāra_dāra_Cp ratāḥ_ram_PNPaM hi_hi_ ye_yad_PNM  / parasya_para_SGM yoṣitam_yoṣit_SAF hṛtvā_hṛ_Co brahma_brahman_Cp svam_sva_SANe apahṛtya_apahṛ_Co"
+  }
+]

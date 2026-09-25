@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16448,
+    "sanskrit": "palāśatailaṃ karṣaikaṃ ṣaṇmāsaṃ madhunā pivet /",
+    "english": "One should drink a karṣaka of the oil of palāśa together with honey for six months.",
+    "morphology": "__palāśa_U __taila_U __karṣa_U __eka_U __para_U __para_U"
+  },
+  {
+    "index": 16449,
+    "sanskrit": "tailaṃ nipīḍitaṃ rāma tilaiḥ puṣpādhivāsitaiḥ / vāsanāt puṣpasadṛśaṃ gandhena tu bhaved dhruvaṃ //",
+    "english": "O Rāma! the oil extracted from the sesamum and scented with any of the flowers would certainly have the fragrance of the flower.",
+    "morphology": "tailam_taila_SNNe nipīḍitam_nipīḍay_SNPaNe rāma_rāma_SVM tilaiḥ_tila_PIM puṣpa_puṣpa_Cp adhivāsitaiḥ_adhivāsay_PIPaM  / vāsanāt_vāsana_SBNe puṣpa_puṣpa_Cp sadṛśaḥ_sadṛśa_SNM gandhena_gandha_SIM tu_tu_ bhavān_bhū_SNPaPrM  "
+  },
+  {
+    "index": 16450,
+    "sanskrit": "cyutireva cyutamupapattirudbhavaḥ /",
+    "english": "The term çyuea is the equivalent of cyati or death; the term xudbhava is the equivalent of wpapatti, arising.",
+    "morphology": "cyutiḥ_cyuti_SNF eva_eva_ cyutam_cyu_SNPaNe upapattiḥ_upapatti_SNF udbhavaḥ_udbhava_SNM"
+  },
+  {
+    "index": 16451,
+    "sanskrit": "kiñ ca nityaparokṣā te buddhir evaṃ ca nādavat /",
+    "english": "But it is absolutely unreasonable to hold such a hypothesis.",
+    "morphology": "kim_kim_"
+  },
+  {
+    "index": 16452,
+    "sanskrit": "sā ca prāptyavasthā anuśaṃsāvasthā kṛtyānuṣṭhānāvasthā ca yāḥ pūrvam uktāḥ //",
+    "english": "And this refers to the attainment state, the state of benefit and the state of the performance of duty, which have been previously described.",
+    "morphology": "sā_tad_SNF ca_ca_ prāpti_prāpti_Cp avasthā_avasthā_SNF anuśaṃsa_anuśaṃsa_Cp avasthā_avasthā_SNF kṛtyā_kṛtyā_Cp anuṣṭhāna_anuṣṭhāna_Cp avasthā_avasthā_SNF ca_ca_ yāḥ_yad_PNF pūrvam_pūrvam_"
+  },
+  {
+    "index": 16453,
+    "sanskrit": "nanvityādinā pratividhatte / na dṛśyeyam ityanupalambhena sadvyavahāraniṣedhaṃ karoti //",
+    "english": "The answer to this is ‘As no such Light, etc. etc.’ The phrase ‘it is not visible’ denies the propriety of the Light being existent, on the ground of its non-apprehension.",
+    "morphology": "nanu_nanu_ ityādinā_ityādi_SINe pratividhatte_pratividhā_SPr3In  / na_na_ dṛśyeyam_dṛś_SPr1O iti_iti_ anupalambhena_anupalambha_SIM sat_sat_Cp vyavahāra_vyavahāra_Cp niṣedham_niṣedha_SAM karoti_kṛ_SPr3In  /"
+  },
+  {
+    "index": 16454,
+    "sanskrit": "tasmātsarvaprayatnena mahākālavanaṃ vrajet | yatra viṣṇusarastīrthaṃ tatra gacchata māciram || 6 || upāsanāṃ suraśreṣṭhā viṣṇoratu letejasaḥ | kurudhvaṃ sarvabhītibhyastrātā sa syātsurottamāḥ || 57 ||",
+    "english": "56-61. Hence with all efforts, one should go to Mahākālavana. Do not tarry. Go to the place where the Tīrtha of Viṣṇusaras is situated. O excellent Suras, perform the Upāsānā (adoration) of Viṣṇu of incomparable splendour. O excellent Suras, he shall be the saviour from all fears.",
+    "morphology": "tasmāt_tasmāt_ sarva_sarva_Cp prayatnena_prayatna_SIM mahākāla_mahākāla_Cp vanam_vana_SANe vrajet_vraj_SPr3O  / yatra_yatra_ viṣṇusaraḥ_viṣṇusaras_SNNe tīrtham_tīrtha_SNNe tatra_tatra_ gacchata_gam_PPr2Im māciram_māciram_  / upāsanām_"
+  },
+  {
+    "index": 16455,
+    "sanskrit": "tam aham kupitā bhīma punar kopam niyamya ca abruvam kāma saṃmūḍham ātmānam rakṣa kīcaka",
+    "english": "Angry with him for this, but then suppressing my wrath I answer that wretch deprived of sense by lust, saying, 'O Kichaka, protect thyself.",
+    "morphology": "tam_tad_SAM aham_mad_SN kupitā_kup_SNPaPsF bhīma_bhīma_SVM punar_punar_U kopam_kopa_SAM niyamya_niyam_Co ca_ca_U abruvam_brū_SPs1In kāma_kāma_MCp saṃmūḍham_sammuh_SAPaPsM"
+  }
+]

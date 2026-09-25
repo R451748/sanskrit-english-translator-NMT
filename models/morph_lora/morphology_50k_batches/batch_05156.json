@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41240,
+    "sanskrit": "dhṛṣṭabuddhir vaiśya putro jñāti tyakto mahā khalaḥ ekādaśī vratam kṛtvā vaikuṇṭham sa jagāma ha",
+    "english": "The sinner Dhṛṣṭabuddhi, who was a vaiśya's son, and who abandoned his own relatives, followed ekādaśī and went to Vaikuṇṭha.",
+    "morphology": "dhṛṣṭabuddhiḥ_dhṛṣṭabuddhi_SNM vaiśya_vaiśya_MCp putraḥ_putra_SNM jñāti_jñāti_MCp tyaktaḥ_tyaj_SNPaM mahā_mahat_Cp khalaḥ_khala_SNM ekādaśī_ekādaśī_FCp vratam_vrata_SANe kṛtvā_kṛ_Co vaikuṇṭham_vaikuṇṭha_SAM sa_"
+  },
+  {
+    "index": 41241,
+    "sanskrit": "bibhrat brāhmīm śriyam dīptām devaiḥ iva bṛhaspatiḥ",
+    "english": "Indeed, he blazed with a Vedic splendour like Vrihaspati in the midst of the celestials.",
+    "morphology": "bibhrat_bhṛ_SNPaPrM brāhmīm_brāhma_SAF śriyam_śrī_SAF dīptām_dīp_SAPaPsF devaiḥ_deva_PIM iva_iva_U bṛhaspatiḥ_bṛhaspati_SNM"
+  },
+  {
+    "index": 41242,
+    "sanskrit": "daśa ācāryān upādhyāyaḥ upādhyāyān pitā daśa",
+    "english": "The Upadhyaya is superior to even ten Acharyas. The sire is equal to ten Upadhyayas.",
+    "morphology": "daśa_daśan_SANe ācāryān_ācārya_PAM upādhyāyaḥ_upādhyāya_SNM upādhyāyān_upādhyāya_PAM pitā_pitṛ_SNM"
+  },
+  {
+    "index": 41243,
+    "sanskrit": "yathā taimirikākṣasya sahajā eva dṛṣṭayaḥ / keśoṇḍrakādivadbhānti tathemāstatra dṛṣṭayaḥ //",
+    "english": "As the stars are seen to shine resplendent in the darkness of night, and the worms and waves are seen to float on the surface of the waters, so do all these phenomena appear to occur in his reality.",
+    "morphology": "yathā_yathā_ taimirika_taimirika_Cp akṣasya_akṣa_SGM sahajāḥ_sahaja_PNF eva_eva_ dṛṣṭayaḥ_dṛṣṭi_PNF  / keśoṇḍraka_keśoṇḍraka_Cp ādi_ādi_Cp vat_vat_ bhānti_bhā_PPr3In tathā_tathā_ imāḥ_idam_PNF tatra_tatra_ dṛṣ"
+  },
+  {
+    "index": 41244,
+    "sanskrit": "bādhyeta phalalobhena nityaṃ kāmyena tava cet /",
+    "english": "Then, it might be urged that, through a desire for the desirable result, the Kamya would always set aside the Nitya.",
+    "morphology": "bādhyeta_bādh_SPr3OPv phala_phala_Cp lobhena_lobha_SIM nityam_nityam_ kāmyena_kāmya_SINe tava_tvad_SG ced_ced_"
+  },
+  {
+    "index": 41245,
+    "sanskrit": "asamyagdarśanaṃ tyaktvā samyakpaśya sulocana / na kvacinmuhyati prauḍhaḥ samyagdarśanavāniha //",
+    "english": "Refrain from a partial (i.e. superficial or onesided) view of things, and employ yourself to the full (or comprehensive) knowledge of objects; and know that the learned man of vast knowledge, never falls into the erroneous conceptions of things.",
+    "morphology": "a_a_ samyak_samyak_ darśanam_darśana_SANe tyaktvā_tyaj_Co samyak_samyak_ paśya_paś_SPr2Im su_su_ locana_locana_SVM  / na_na_ kvacid_kvacid_ muhyati_muh_SPr3In prauḍhaḥ_prauḍha_SNM samyak_samyak_ darśanavān_darśanavat_SNM iha_iha_  /"
+  },
+  {
+    "index": 41246,
+    "sanskrit": "śūdre saṃvatsaram ṛṣabhaikādaśāś ca gā dadyāt /",
+    "english": "If someone kills a Kşatriya, he should observe the standard vow of chastity for six years and give a thousand cows together with a bull (A .. n.); ¹ if he kills a Vaisya, he should do so for three years and give a hundred cows together with a bull; ¹ and if he kills a Śūdra, he should do so for one year and give ten cows together with a bull, ¹ as also when he kills a Brahmin woman who is not in her season.",
+    "morphology": "śūdre_śūdra_SLM saṃvatsaram_saṃvatsara_SAM ṛṣabha_ṛṣabha_Cp ekādaśāḥ_ekādaśa_PAF ca_ca_ gāḥ_go_PAF dadyāt_dā_SPr3O"
+  },
+  {
+    "index": 41247,
+    "sanskrit": "anādikālasaṃsiddhaṃ yadbhānaṃ brahmaṇo nijam / sa ātivāhiko deho virājo jagadākṛtiḥ //",
+    "english": "The spiritual body which is the attribute of God from time without beginning (that God is a spirit); is the same with Viraja or manifestation of himself, and exhibits the form of the world or the microcosm.",
+    "morphology": "anādi_anādi_Cp kāla_kāla_Cp saṃsiddham_saṃsidh_SNPaNe yat_yad_SNNe bhānam_bhāna_SNNe brahmaṇaḥ_brahman_SGNe nijam_nija_SNNe  / saḥ_tad_SNM ātivāhikaḥ_ātivāhika_SNM dehaḥ_deha_SNM virājaḥ_virāj_SGM jagat_jagant_Cp ākṛtiḥ_āk"
+  }
+]

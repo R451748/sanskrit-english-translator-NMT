@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46968,
+    "sanskrit": "ata evābādhitaviṣayatvamapyasiddham /",
+    "english": "hence it becomes established that those things cannot be permanent.",
+    "morphology": "atas_atas_ eva_eva_ abādhita_abādhita_Cp viṣaya_viṣaya_Cp tvam_tva_SNNe api_api_ asiddham_asiddha_SNNe  /"
+  },
+  {
+    "index": 46969,
+    "sanskrit": "saṃjñā eṣā laukikī rājan na hinasti na hanyate",
+    "english": "This is the language of the world. Really, however, no one stays and no one is slain.",
+    "morphology": "saṃjñā_saṃjñā_SNF eṣā_etad_SNF laukikī_laukika_SNF rājan_rājan_SVM na_na_ hinasti_hiṃs_SPr3In na_na_ hanyate_han_SPr3InPv"
+  },
+  {
+    "index": 46970,
+    "sanskrit": "bhavasaṃbhāvita bhāvaṃ bhūtabhavyabhavātmakam | durgamaṃ durgatiharaṃ haranetraṃ trayīmayam || 9 ||",
+    "english": "64. Bhava—(The present) 65. Bhūtabhavya—(Identical with past and future)",
+    "morphology": "bhava_bhava_Cp saṃbhāvita_sambhāvay_SVPaM bhāvam_bhāva_SAM bhūta_bhū_PaCp bhavya_bhū_GdCp bhava_bhava_Cp ātmakam_ātmaka_SAM  / durgamam_durgama_SAM durgati_durgati_Cp haram_hara_SAM hara_hara_Cp netram_netra_SAM trayī_trayī_Cp mayam_maya_SAM "
+  },
+  {
+    "index": 46971,
+    "sanskrit": "sadviṣayāt",
+    "english": "Because it has an object.",
+    "morphology": "__as_PaPrU"
+  },
+  {
+    "index": 46972,
+    "sanskrit": "pareṇābhiyuktaś ca sarvātmanā svarāṣṭraṃ gopāyet //",
+    "english": "And when he has been attacked by his foe, let him protect his own realm to the best of his power.",
+    "morphology": "pareṇa_para_SIM abhiyuktaḥ_abhiyuj_SNPaM ca_ca_ sarva_sarva_Cp ātmanā_ātman_SIM sva_sva_Cp rāṣṭram_rāṣṭra_SANe gopāyet_gopāy_SPr3O"
+  },
+  {
+    "index": 46973,
+    "sanskrit": "kāmataḥ hi dhanam rājā pārakyam yaḥ prayacchati na sa dharmeṇa dharma ātman yujyate yaśasā na ca",
+    "english": "That king, O virtuous one, who giveth away for his own pleasure the wealth that belongeth to others, can never earn virtue or fame.",
+    "morphology": "kāmataḥ_kāma_SBM hi_hi_U dhanam_dhana_SANe rājā_rājan_SNM pārakyam_pārakya_SANe yaḥ_yad_SNM prayacchati_prayam_SPr3In na_na_U sa_tad_SNM dharmeṇa_dharma_SIM dharma_dharma_MCp ātman_ātman_SVM yujyate_yuj_SPr3InPv yaśasā_yaśas_SINe na_na_U "
+  },
+  {
+    "index": 46974,
+    "sanskrit": "tāṃ śrutvā bhartṛrahitāṃ śāradāṃ garbhiṇī satīm | sarve dhigiti procustāṃ jāriṇīti jagurjanāḥ || 44 ||",
+    "english": "44. On hearing that Śāradā had conceived even as she continued to be a widow, all of them said, “Fie upon you!” The people proclaimed her an adulteress.[1]",
+    "morphology": "tām_tad_SAF śrutvā_śru_Co bhartṛ_bhartṛ_Cp rahitām_rahita_SAF śāradām_śāradā_SAF garbhiṇī_garbhiṇī_SNF satīm_satī_SAF  / sarve_sarva_PNM dhik_dhik_ iti_iti_ procuḥ_pravac_PPs3In tām_tad_SAF jāriṇī_jāriṇī_SNF iti_iti_ jagu"
+  },
+  {
+    "index": 46975,
+    "sanskrit": "cūḍālovāca / yadyupādeyavākyo'haṃ rājarṣe tadvadāmi te / yathā jñānamidaṃ kiṃcinna vakṣye sthāṇukākavat //",
+    "english": "Chudala replied:—I will tell thee prince as far as I know about it, and what may be best acceptable to thee; and not throw away my words in vain, like crowing ravens about a headless trunk.",
+    "morphology": "cūḍālā_cūḍālā_SNF uvāca_vac_SPs3In  / yadi_yadi_ upādeya_upādā_GdCp vākyaḥ_vākya_SNM aham_mad_SN rājarṣe_rājarṣi_SVM tat_tad_SANe vadāmi_vad_SPr1In te_tvad_SD  / yathā_yathā_ jñānam_jñāna_SANe idam_idam_SANe kiṃcid_kaścit_"
+  }
+]

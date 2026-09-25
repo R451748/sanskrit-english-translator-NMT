@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10016,
+    "sanskrit": "citsattaiva jagatsattā jagatsattaiva cittakam / ekābhāvādvayornāśaḥ sa ca satyavicāraṇāt //",
+    "english": "The reality of the world depends upon the reality of mind, which causes the world to appear as real. The loss of the one, destroys them both;because neither of them can subsist without the other.",
+    "morphology": "cit_cit_Cp sattā_sattā_SNF eva_eva_ jagat_jagant_Cp sattā_sattā_SNF jagat_jagant_Cp sattā_sattā_SNF eva_eva_ cittakam_cittaka_SNNe  / eka_eka_Cp abhāvāt_abhāva_SBM vayoḥ_vayas_DuGNe nāśaḥ_nāśa_SNM sa_tad_SNM ca_ca_ satya_satya_Cp vicāra"
+  },
+  {
+    "index": 10017,
+    "sanskrit": "yattūktaṃ “saṃskṛtā mārgavarjitāḥ /",
+    "english": "We have said that the impure dharmas are the conditioned dharmas, minus the Path.",
+    "morphology": "yat_yad_SNNe tu_tu_ uktam_vac_SNPaNe "
+  },
+  {
+    "index": 10018,
+    "sanskrit": "sa yajñāriḥ sa kāmāriḥ mahā daṃṣṭraḥ mahā āyudhaḥ",
+    "english": "Thou art of large teeth, and thou art of mighty weapons.",
+    "morphology": "sa_tad_SNM yajñāriḥ_yajñāri_SNM sa_tad_SNM kāmāriḥ_kāmāri_SNM mahā_mahat_Cp daṃṣṭraḥ_daṃṣṭra_SNM"
+  },
+  {
+    "index": 10019,
+    "sanskrit": "niśamya tasya vacanam kṛtvā manasi durmanāḥ brāhmaṇaḥ uvāca amarṣī drupadaḥ rājā karma siddhān dvijarṣabhān",
+    "english": "Sad at heart, the king began to waste away.'\" SECTION CLXIX (Chaitraratha Parva continued) \"The Brahmana continued, 'King Drupada (after this), distressed at heart, wandered among many asylums of Brahmanas in search of superior Brahmanas well-skilled in sacrificial rites.",
+    "morphology": "niśamya_niśāmay_Co tasya_tad_SGM vacanam_vacana_SANe kṛtvā_kṛ_Co manasi_manas_SLNe durmanāḥ_durmanas_SNM brāhmaṇaḥ_brāhmaṇa_SNM uvāca_vac_SPs3In amarṣī_amarṣin_SNM drupadaḥ_drupada_SNM rājā_rājan_SNM karma_karman_NeCp siddhān"
+  },
+  {
+    "index": 10020,
+    "sanskrit": "parāuktadaṇḍaḥ pañcabandhaḥ //",
+    "english": "Punishment for Parokta Fine for parokta is five times the amount paroktadandah panchabandah",
+    "morphology": "parāukta_parāvac_PaCp daṇḍaḥ_daṇḍa_SNM pañca_pañcan_Cp bandhaḥ_bandha_SNM  /"
+  },
+  {
+    "index": 10021,
+    "sanskrit": "teno eva vyajayanta yeyameṣāṃ vijitistāmatha yānevaiṣāṃ tasmintsaṃgrāma iṣava ārcaṃstānetaireva śalpānniraharanta tānvyavṛhanta yattryambakairayajanta //",
+    "english": "Now whichever of them were hit by (the Asuras’) arrows in that battle, those same darts they extracted, those they pulled out, by performing the Tryambaka-offerings.",
+    "morphology": "tena_tad_SIM u_u_ eva_eva_ vyajayanta_viji_P3ImIn yā_yad_SNF iyam_idam_SNF eṣām_idam_PGM vijitiḥ_vijiti_SNF tām_tad_SAF atha_atha_ yān_yad_PAM eva_eva_ eṣām_idam_PGM tasmin_tad_SLM saṃgrāme_saṃgrāma_SLM iṣavaḥ_iṣu_PNM ārcan_arc_P3Im"
+  },
+  {
+    "index": 10022,
+    "sanskrit": "tatas arjunaḥ hṛṣṭa manāḥ gaṅgāyām āplutaḥ śuciḥ",
+    "english": "Arjuna then, with a cheerful heart, purified himself by a bath in the Ganges.",
+    "morphology": "tatas_tatas_U arjunaḥ_arjuna_SNM hṛṣṭa_hṛṣ_PaPsCp manāḥ_manas_SNM gaṅgāyām_gaṅgā_SLF āplutaḥ_āplu_SNPaPsM śuciḥ_śuci_SNM"
+  },
+  {
+    "index": 10023,
+    "sanskrit": "praṇamya stutibhiryuktyā mārkkaṃḍaṃ munayo'bruvan | bhagavannaimiṣāraṇye satre dvādaśavārṣike || 6 ||",
+    "english": "The sages said:",
+    "morphology": "praṇamya_praṇam_Co stutibhiḥ_stuti_PIF yuktyā_yukti_SIF mārkkaṃḍam_mārkaṇḍa_SAM munayaḥ_muni_PNM abruvan_brū_P3ImIn  / bhagavat_bhagavat_SVM naimiṣa_naimiṣa_Cp araṇye_araṇya_SLNe sattre_sattra_SLNe dvādaśa_dvādaśan_Cp vār"
+  }
+]

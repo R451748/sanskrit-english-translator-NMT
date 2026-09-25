@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28480,
+    "sanskrit": "abhijidviśvajidbhyāṃ vā trivṛtāgniṣṭutāpi vā //",
+    "english": "Or, he may offer the Aśvamedha, or the Svajitthe Gosava, or the AbhijitViśvajit, or the triple Agniṣṭut.",
+    "morphology": "abhijit_abhijit_Cp viśvajidbhyām_viśvajit_DuIM vā_vā_ ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭa_SNM ṛṣṭaḥ_ṛṣṭ"
+  },
+  {
+    "index": 28481,
+    "sanskrit": "ebhirmaṃtrairmahāvīrau cakraturyuddhamadbhutam | anyonyaṃ sādhakau bhūtvā mahābalaparākramau ||",
+    "english": "8. With these mantras they were possessed of magical properties. They wonderfully fought each other using their full strength and exploits.",
+    "morphology": "ebhiḥ_idam_PIM maṃtraiḥ_mantra_PIM mahā_mahat_Cp vīrau_vīra_DuNM cakratuḥ_kṛ_DuPs3In yuddham_yuddha_SANe adbhutam_adbhuta_SANe  / anyonyam_anyonya_SAM sādhakau_sādhaka_DuNM bhūtvā_bhū_Co mahā_mahat_Cp bala_bala_Cp parākramau_parākrama_"
+  },
+  {
+    "index": 28482,
+    "sanskrit": "bhayācchokābhighātādvā rājño rogaḥ kadācana / sphuṭed ayam iti smāhur bhiṣajo mantriṇaṃ rahaḥ //",
+    "english": "The physicians told the ministers in private that the disease might relieve itself by fear or the stroke of some affliction.",
+    "morphology": "bhayāt_bhaya_SBNe śoka_śoka_Cp abhighātāt_abhighāta_SBM vā_vā_ rājñaḥ_rājan_SGM rogaḥ_roga_SNM kadācana_kadācana_  / sphuṭet_sphuṭ_SPr3O ayam_idam_SNM iti_iti_ sma_sma_ āhuḥ_ah_PPs3In bhiṣajaḥ_bhiṣaj_PNM mantriṇam_mantrin_SA"
+  },
+  {
+    "index": 28483,
+    "sanskrit": "na ati snigdhāḥ viśodhyāḥ syuḥ tathā kuṣṭhi pramehiṇaḥ",
+    "english": "The body of a patient, habituated to the use of oleaginous articles (Sneha), should be first made dry (Ruksha).",
+    "morphology": "na_na_U ati_ati_U snigdhāḥ_snigdha_PNM viśodhyāḥ_viśodhay_PNMGd"
+  },
+  {
+    "index": 28484,
+    "sanskrit": "bālavarggaḥ",
+    "english": "The Chapter about Fools",
+    "morphology": "__bāla_U"
+  },
+  {
+    "index": 28485,
+    "sanskrit": "tadya-thā—matsyārthī saśalkānsakaṇṭakānmatsyānupādatte,sa yāvadādeyaṃ tāvadādāya nivartate; yathāvā dhānyārthī sapalālāni dhānyānyāharati, sayāvadādeyaṃ tāvadādāya nivartate |",
+    "english": "This is how he who desires fish brings up the fish along with mosses and thorns, takes what is to be taken and abandons the rest or, he who desires grain brings the grain with the straw, takes what is to be taken and abandons the rest.",
+    "morphology": "tat_tad_SNNe ya-thā_yathā_ matsya_matsya_Cp arthī_arthin_SNM sa_sa_ śalkān_śalka_PAM sa_sa_ kaṇṭakān_kaṇṭaka_PAM matsyān_matsya_PAM upādatte_upādā_SPr3In sa_tad_SNM yāvat_yāvat_ ādeyam_ādā_SNNeGd tāvat_tāvat_ ādāya_ādā_Co niva"
+  },
+  {
+    "index": 28486,
+    "sanskrit": "aho sthite rājani duṣṭa citte na ko 'pi vaktum kṣama eva sakhyaḥ tasmād dhi naḥ puṇya balena cet tau tvaram mṛdhe vai jayatām arīn svān",
+    "english": "Friends, while this wicked king is present no one dare say anything. We simply pray that by the power of Their pious deeds these two boys will defeat Their enemies.",
+    "morphology": "aho_aho_U sthite_sthā_SLPaPsM rājani_rājan_SLM duṣṭa_duṣ_PaPsCp citte_citta_SLM na_na_U kaḥ_ka_SNM api_api_U vaktum_vac_In kṣama_kṣama_SNF eva_eva_U sakhyaḥ_sakhī_PVF tasmāt_tasmāt_U hi_hi_U naḥ_mad_PG puṇya_puṇya_NeCp balena_bala"
+  },
+  {
+    "index": 28487,
+    "sanskrit": "yat agne tapasā tapaḥ upatapyāmahe tapaḥ / priyāḥ śrutasya bhūyāsma āyuṣmantaḥ sumedhasaḥ //",
+    "english": "Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacred Lore, may we be wise and live long lives.",
+    "morphology": "yat_yad_SANe agne_agni_SVM tapasā_tapas_SINe tapaḥ_tapas_SANe upatapyāmahe_upatap_PPr1InPv tapaḥ_tapas_SANe  / priyāḥ_priya_PNM śrutasya_śruta_SGNe bhūyāsma_bhū_PPs1O āyuṣmantaḥ_āyuṣmat_PNM sumedhasaḥ_sumedhas_PNM  /"
+  }
+]

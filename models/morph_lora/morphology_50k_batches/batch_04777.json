@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38208,
+    "sanskrit": "tam āpatantam udvṛttam dṛṣṭvā vṛṣabhadānavam / tasmāt sthānān na vyacalat kṛṣṇo girir ivācalaḥ //",
+    "english": "Beholding that wicked demon of the form of a bull approach Krishna did not move out from where he stood and rather remain there firm like a mountain -.",
+    "morphology": "tam_tad_SAM āpatantam_āpat_SAPaPrM udvṛttam_udvṛt_SAPaPsM dṛṣṭvā_dṛś_Co vṛṣabha_vṛṣabha_Cp dānavam_dānava_SAM  / tasmāt_tad_SBNe sthānāt_sthāna_SBNe na_na_ vyacalat_vical_S3ImIn kṛṣṇaḥ_kṛṣṇa_SNM giriḥ_giri_SNM "
+  },
+  {
+    "index": 38209,
+    "sanskrit": "ahaṃkāradṛganyā tu tṛtīyā vidyate'nagha / deho'hamiti tāṃ viddhi duḥkhāyaiva na śāntaye //",
+    "english": "There is a third sort of egoism amounting to the non-ego, which takes the body for the ego, and thus becomes subject to misery, and finds no rest in this life nor in the next.",
+    "morphology": "ahaṃkāra_ahaṃkāra_Cp dṛś_dṛś_SNF anyā_anya_SNF tu_tu_ tṛtīyā_tṛtīya_SNF vidyate_vid_SPr3InPv anagha_anagha_SVM  / dehaḥ_deha_SNM aham_mad_SN iti_iti_ tām_tad_SAF viddhi_vid_SPr2Im duḥkhāya_duḥkha_SDNe eva_eva_ na_na_ śāntaye_"
+  },
+  {
+    "index": 38210,
+    "sanskrit": "tvad prasādāt imam lokam tārayiṣyanti śāśvatam",
+    "english": "Through thy grace, let all these rescue the world (from becoming an uninhabited wilderness).",
+    "morphology": "tvad_tvad_Cp prasādāt_prasāda_SBM imam_idam_SAM lokam_loka_SAM tārayiṣyanti_tāray_PFu3In śāśvatam_śāśvata_SAM"
+  },
+  {
+    "index": 38211,
+    "sanskrit": "mahiṣa uvāca | caṃḍakopa mahāvīrya yuddhyasvaināṃ durātmikām | tathāstviti sa coktvātha caṃḍakopaḥ pratāpavān || 2 ||",
+    "english": "2-6. O Caṇḍakopa of great vigour, fight with this vicious woman.",
+    "morphology": "mahiṣaḥ_mahiṣa_SNM uvāca_vac_SPs3In  / caṇḍakopa_caṇḍakopa_SVM mahā_mahat_Cp vīrya_vīrya_SVM yuddhyasva_yudh_SPr2Im enām_enad_SAF durātmikām_durātmaka_SAF  / tathā_tathā_ astu_as_SPr3Im iti_iti_ sa_tad_SNM ca_ca_ uktvā_vac_Co atha_"
+  },
+  {
+    "index": 38212,
+    "sanskrit": "nāmnaiva siddhamaśubhākāreti /",
+    "english": "As its name, ‘the loathsome”, indicates, it is a visualization of a repulsive or unclean thing: thus it has the repulsive for its “aspect”. It does not have the aspect of impermanence, etc. : it contemplates a visible thing as horrible and not as impermanent, etc. In the past, it had a past object;",
+    "morphology": "nāmnā_nāman_SINe eva_eva_ siddham_sidh_SNPaNe aśubha_aśubha_Cp ākāra_ākāra_SNF iti_iti_"
+  },
+  {
+    "index": 38213,
+    "sanskrit": "bhāgadheyam vibhaktam ca śeṣam kiñcid na vidyate",
+    "english": "All services and their emoluments in consequence have been filled up and settled and there remains nothing for you to fill.",
+    "morphology": "bhāgadheyam_bhāgadheya_SNNe vibhaktam_vibhaj_SNPaPsNe ca_ca_U śeṣam_śeṣa_SNNe"
+  },
+  {
+    "index": 38214,
+    "sanskrit": "evaśabdo 'vadhāraṇārthaḥ sansamuccayapratiṣedhārthaḥ /",
+    "english": "QuestionHow does the syllable come to be called by the name ‘svara’ vowel?",
+    "morphology": "eva_eva_ śabdaḥ_śabda_SNM avadhāraṇa_avadhāraṇa_Cp arthaḥ_artha_SNM san_as_SNPaPrM samuccaya_samuccaya_Cp pratiṣedha_pratiṣedha_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 38215,
+    "sanskrit": "pañcamūla śṛtam kṣīram phala amlaḥ rasaḥ eva ca||",
+    "english": "Blood-letting (in small quantities) should be resorted to several times in a case of complete enesthesia (Supta-Vata) and the body should be anointed with oil mixed with salt and chamber-dust (Agara-dhuma) Milk bailed with a decoction of the drugs of the Panca-mula group, acid-fruits (Phalamla), meat-soup or soup of (well-cooked) corn (Dhanya) with clarified butter are beneficial in cases of Vataroga.",
+    "morphology": "pañcamūla_pañcamūla_NeCp śṛtam_śrī_SNPaPsNe kṣīram_kṣīra_SNNe phala_phala_NeCp amlaḥ_amla_SNM rasaḥ_rasa_SNM eva_eva_U"
+  }
+]

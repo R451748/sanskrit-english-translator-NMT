@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12600,
+    "sanskrit": "tasmāt yaḥ sahitaḥ dṛṣṭaḥ bhartṛ pratyaya lakṣaṇaḥ",
+    "english": "Principally characterised by a belief in either of the two parties, that Vyavahara is seen to be productive of good.",
+    "morphology": "tasmāt_tasmāt_U yaḥ_yad_SNM sahitaḥ_sahita_SNM dṛṣṭaḥ_dṛś_SNPaPsM bhartṛ_bhartṛ_MCp pratyaya_pratyaya_MCp lakṣaṇaḥ_lakṣaṇa_SNM"
+  },
+  {
+    "index": 12601,
+    "sanskrit": "ye na mānitam icchanti mānayanti ca ye param mānyamānāḥ na manyante durgāṇi atitaranti te",
+    "english": "They that do not desire honour for themselves, that give honours unto others, that bow down unto those that deserve their worship, succeed in overcoming all difficulties.",
+    "morphology": "ye_yad_PNM na_na_U mānitam_mānay_SAPaPsM icchanti_iṣ_PPr3In mānayanti_mānay_PPr3In ca_ca_U ye_yad_PNM param_para_SAM mānyamānāḥ_mānay_PNPaPrMPv na_na_U manyante_man_PPr3In durgāṇi_durga_PANe atitaranti_atit￞_PPr3In te_tad_PNM"
+  },
+  {
+    "index": 12602,
+    "sanskrit": "pravartata iti vākyaśeṣaḥ //",
+    "english": "The term ‘follows’ ‘pravartate’ has to be supplied",
+    "morphology": "pravartate_pravṛt_SPr3In iti_iti_ vākya_vākya_Cp śeṣaḥ_śeṣa_SNM  /"
+  },
+  {
+    "index": 12603,
+    "sanskrit": "brahmovāca | atha sā garbhamādhatta varāṃgī tatpurādarāt | sa vavarddhābhyaṃtare hi bahuvarṣaiḥ sutejasā ||",
+    "english": "1. Then that Varāṅgī. devoted to him, conceived. The child within her body developed in many years with its brilliance.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / atha_atha_ sā_tad_SNF garbham_garbha_SAM ādhatta_ādhā_S3ImIn varāṃgī_varāṅgī_SNF tad_tad_Cp purā_purā_ ādarāt_ādara_SBM  / sa_tad_SNM vavardha_vṛdh_SPs3In abhyaṃtare_abhyaṃtara_SLNe hi_hi_ bah"
+  },
+  {
+    "index": 12604,
+    "sanskrit": "mahā vīryavatām saṃkhye sutarām bhīru dustarām",
+    "english": "And capable of being easily crossed by those possessed of exceeding energy, it was incapable of being crossed by the timid.",
+    "morphology": "mahā_mahat_Cp vīryavatām_vīryavat_PGM saṃkhye_saṃkhya_SLNe sutarām_sutarām_U"
+  },
+  {
+    "index": 12605,
+    "sanskrit": "ityuktavantaṃ taṃ yāvatsadāro'tha vadhūyutaḥ / sanmānaṃ kurute tāvanmunirantardhimāyayo //",
+    "english": "On hearing this malediction the old parents and their daughters in law, were proceeding to do him reverence, when the ancient sage disappeared from their sight and vanished in air.",
+    "morphology": "iti_iti_ uktavantam_vac_SAPaM tam_tad_SAM yāvat_yāvat_ sa_sa_ dāraḥ_dāra_SNM atha_atha_ vadhū_vadhū_Cp yutaḥ_yuta_SNM  / sanmānam_sanmāna_SAM kurute_kṛ_SPr3In tāvat_tāvat_ muniḥ_muni_SNM antardhi_antardhi_Cp māyayoḥ_māyā_DuGF  /"
+  },
+  {
+    "index": 12606,
+    "sanskrit": "su kṣetriyā sugātu yā vasu yā ca yajāmahe apa naḥ śośucat agham",
+    "english": "For goodly fields, for pleasant homes, for wealth we sacrifice to thee. May his light chase our sin away.",
+    "morphology": "su_su_U kṣetriyā_kṣetriya_PANe sugātu_sugātu_PANe yā_yad_PANe vasu_vasu_PANe yā_yad_PANe ca_ca_U yajāmahe_yaj_PPr1In apa_apa_U naḥ_mad_PG śośucat_śośuc_SNPaPrM"
+  },
+  {
+    "index": 12607,
+    "sanskrit": "vapanaṃ mekhalā daṇḍo bhaikṣyacaryā vratāni ca / nivartante dvijātīnāṃ punaḥsaṃskārakarmaṇi //",
+    "english": "In the performance of the Reinitiation of twiceborn men, tonsure, the girdle, the staff, begging alms, and the vows are omitted.",
+    "morphology": "vapanam_vapana_SNNe mekhalā_mekhalā_SNF daṇḍaḥ_daṇḍa_SNM bhaikṣya_bhaikṣya_Cp caryā_caryā_SNF vratāni_vrata_PNNe ca_ca_  / nivartante_nivṛt_PPr3In dvijātīnām_dvijāti_PGM punaḥsaṃskāra_punaḥsaṃskāra_Cp karmaṇi_karman_SLN"
+  }
+]

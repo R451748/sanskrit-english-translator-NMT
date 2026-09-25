@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7048,
+    "sanskrit": "vilakṣaṇaḥ /",
+    "english": "‘Heterogeneous series’, of a different character.",
+    "morphology": "__vilakṣaṇa_U"
+  },
+  {
+    "index": 7049,
+    "sanskrit": "prahasya bhagavānviṣṇuruvāca parameśvaraḥ | mā bhayaṃ kriyatāṃ sarvaiḥ śivarūpī sadāśivaḥ || 178 || sa na dhakṣyati sarveṣāṃ devānāṃ bhayanāśanaḥ | tasmādbhavadbhirgatavyaṃ mayā sārddhaṃ vicakṣaṇāḥ || 179 ||",
+    "english": "178-180. Lord Viṣṇu, the great lord, laughed and said: “All of you need not be afraid. Sadāśiva is the embodiment of auspiciousness. He is the destroyer of fear of all Devas. He will not burn (you). Hence, O clever ones, all of you must go along with me.",
+    "morphology": "prahasya_prahas_Co bhagavān_bhagavant_SNM viṣṇuḥ_viṣṇu_SNM uvāca_vac_SPs3In parameśvaraḥ_parameśvara_SNM  / mā_mā_ bhayam_bhaya_SNNe kriyatām_kṛ_SPr3ImPv sarvaiḥ_sarva_PIM śiva_śiva_Cp rūpī_rūpin_SNM sadāśivaḥ_sadāśiva_SNM"
+  },
+  {
+    "index": 7050,
+    "sanskrit": "vayam oṁ iti tvā divā sute vayam naktam havāmahe asmākam kāmam ā pr̥ṇa",
+    "english": "We call on thee both night and day to taste the flowing Soma juice: Do thou fulfil our heart's desire.",
+    "morphology": "vayam_mad_PN"
+  },
+  {
+    "index": 7051,
+    "sanskrit": "mārkaṇḍeya uvāca | tato gacchettu rājendra agnitīrthamanuttamam | tatra snātvā tu pakṣādau mucyate sarvakilbiṣaiḥ || 1 ||",
+    "english": "Śrī Mārkaṇḍeya said: 1-4. Thereafter, O eminent king, a person should go to the excellent Agni Tīrtha. By taking the holy bath there at the beginning of a fortnight, one is rid of all sins.",
+    "morphology": "mārkaṇḍeyaḥ_mārkaṇḍeya_SNM uvāca_vac_SPs3In  / tatas_tatas_ gacchet_gam_SPr3O tu_tu_ rāja_rājan_Cp indra_indra_SVM agnitīrtham_agnitīrtha_SANe anuttamam_anuttama_SANe  / tatra_tatra_ snātvā_snā_Co tu_tu_ pakṣa_pakṣa_Cp ādau_ādi_SL"
+  },
+  {
+    "index": 7052,
+    "sanskrit": "na kuṣṭhipaittikabrāhmaṇānāṃ viṣaṃ deyam //",
+    "english": "The (ordeal by) poison must not be administered to lepers, bilious persons, or Brâhmanas;",
+    "morphology": "na_na_ kuṣṭhi_kuṣṭhin_Cp paittika_paittika_Cp brāhmaṇānām_brāhmaṇa_PGM"
+  },
+  {
+    "index": 7053,
+    "sanskrit": "prāyikābhiprāyamidaṃ vacanam|",
+    "english": "Hence the author of the Vṛtti has said—",
+    "morphology": "prāyika_prāyika_Cp abhiprāyam_abhiprāya_SNNe idam_idam_SNNe"
+  },
+  {
+    "index": 7054,
+    "sanskrit": "kā janmabhūḥ kaḥ svajanaḥ sarvametadbhavānmama / na pativyatirekeṇa sustrīṇāmaparā gatiḥ //",
+    "english": "I care not for the land of my birth, nor for my relatives; you are all those to me.[11] Good women have no other refuge than their husbands.",
+    "morphology": "kā_ka_SNF janma_janman_Cp bhūḥ_bhū_SNF kaḥ_ka_SNM sva_sva_Cp janaḥ_jana_SNM sarvam_sarva_SNNe etat_etad_SNNe bhavān_bhavat_SNM mama_mad_SG  / na_na_ pati_pati_Cp vyatirekeṇa_vyatireka_SIM su_su_ strīṇām_strī_PGF aparā_apara_SNF gatiḥ_ga"
+  },
+  {
+    "index": 7055,
+    "sanskrit": "yathoktam adhyakṣapracāre te 'dhyakṣāḥ sarvāṇi kāryāṇy avekṣerann anyeṣāṃ nṛṇāṃ tatsthānopayogināṃ kāryāṇi kurvatām, hastyadhyakṣeṇa hastipakāḥ, aśvādhyakṣeṇa turaṅgamādyāḥ, gavādhakṣeṇa karṣaṇādayaḥ //",
+    "english": "All these should be endowed with all the qualities of ministers; as has been declared in the Adhyakṣapracāra \"Those inspectors shall supervise all the works of men who transact the king\" s business as his agents, eg, elephantkeepers in the keeping of elephants, masters of the horse in looking after horses, and keepers of cattle in looking after ploughing and such works\".",
+    "morphology": "yathā_yathā_ uktam_vac_SNPaNe adhyakṣa_adhyakṣa_Cp pracāre_pracāra_SLM te_tad_PNM adhyakṣāḥ_adhyakṣa_PNM sarvāṇi_sarva_PANe kāryāṇi_kārya_PANe avekṣeran_avekṣ_PPr3O anyeṣām_anya_PGM nṛṇām_nṛ_PGM tad_tad_Cp sthāna_sthā"
+  }
+]

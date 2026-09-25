@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46424,
+    "sanskrit": "svabhāvas trividho'sacca nityaṃ ityādi vistaraḥ /",
+    "english": "The three natures refer to that which is eternally nonexistent etc.That which is characterized as the imaginary is eternally nonexistent.",
+    "morphology": "svabhāvaḥ_svabhāva_SNM trividhaḥ_trividha_SNM asat_asat_SNNe ca_ca_ nityam_nitya_SNNe ityādi_ityādi_SNNe"
+  },
+  {
+    "index": 46425,
+    "sanskrit": "chadmanā nihatam śrutvā pitaram pāpa karmaṇā bāṣpeṇa āpūryata drauṇī roṣeṇa ca nara ṛṣabha",
+    "english": "'Hearing of the slaughter of his sire by Dhrishtadyumna, of sinful deeds, Drona's son was filled with grief and rage, O bull among men.",
+    "morphology": "chadmanā_chadman_SINe nihatam_nihan_SAPaPsM śrutvā_śru_Co pitaram_pitṛ_SAM pāpa_pāpa_Cp karmaṇā_karman_SIM bāṣpeṇa_bāṣpa_SIM āpūryata_āp￞_SPs3InPv"
+  },
+  {
+    "index": 46426,
+    "sanskrit": "kiṃ sa viṣayas sukhahetur na bhavati yathā tv eṣa viṣayaḥ kaluṣasya jñānasya hetuḥ tathā so 'pi kaluṣasya kaṭuvipākasya sukhasya hetur iti tathāvidhaṃ sukham api vyabhicāri bhavaty evety alam atikelinā //",
+    "english": "Is not that object conducive to pleasure ? As the object referred to by an illusion is the condition of untrue knowledge so the condemned source of pleasure produces such pleasure as turns out to be misery in the end. Such bitterNyayamanjari pleasure is called unreal.",
+    "morphology": "kim_kim_ sa_tad_SNM viṣayaḥ_viṣaya_SNM sukha_sukha_Cp hetuḥ_hetu_SNM na_na_ bhavati_bhū_SPr3In yathā_yathā_ tu_tu_ eṣa_etad_SNM viṣayaḥ_viṣaya_SNM kaluṣasya_kaluṣa_SGNe jñānasya_jñāna_SGNe hetuḥ_hetu_SNM tathā_tathā_ saḥ_ta"
+  },
+  {
+    "index": 46427,
+    "sanskrit": "kva saṃbhramopalabdhatvaṃ kva pratyakṣanidarśanam / kvāsatyatvamasaṃdigdhaṃ kva satyapariṇāmitā //",
+    "english": "Observe how the false conception of the Brahman, appeared as present to his sensible perception; and see how the false thought appeared as true to him, and his true knowledge of him-self vanishing at last into untruth.",
+    "morphology": "kva_kva_ saṃbhrama_sambhrama_Cp upalabdha_upalabh_PaCp tvam_tva_SNNe kva_kva_ pratyakṣa_pratyakṣa_Cp nidarśanam_nidarśana_SNNe  / kva_kva_ asatya_asatya_Cp tvam_tva_SNNe asaṃdigdham_asaṃdigdha_SNNe kva_kva_ satya_satya_Cp pariṇāmi_pariṇām"
+  },
+  {
+    "index": 46428,
+    "sanskrit": "tasmiṃs tadaiva sarasi snānārthaṃ kācid āgatā / tena divyākṛtiḥ kanyā dadṛśe saparicchadā //",
+    "english": "and in that pool of gods there was seen by him a maiden of heavenly appearance, who had come there with her attendants to bathe.",
+    "morphology": "tasmin_tad_SLNe tadā_tadā_ eva_eva_ sarasi_saras_SLNe snāna_snāna_Cp artham_artha_SAM kācid_kaścit_SNF āgatā_āgam_SNPaF  / tena_tena_ divya_divya_Cp ākṛtiḥ_ākṛti_SNF kanyā_kanyā_SNF dadṛśe_dṛś_SPs3In sa_sa_ paricchadā_paricchada_S"
+  },
+  {
+    "index": 46429,
+    "sanskrit": "anye tatas a parijñātāḥ hrasvāḥ hrasva upajīvinaḥ",
+    "english": "Besides these there are many other smaller mountains inhabited by barbarous tribes.",
+    "morphology": "anye_anya_PNM"
+  },
+  {
+    "index": 46430,
+    "sanskrit": "an ādi nidhanam jantum ātma yonim sadā avyayam anaupamyam amūrtam ca bhagavān āha buddhimān",
+    "english": "Such a person is styled by the omnipotent, intelligent Spirit as one who is without beginning and without end, self-existent, immutable, incorporeal and incomparable.",
+    "morphology": "an_an_U ādi_ādi_MCp nidhanam_nidhana_SAM jantum_jantu_SAM ātma_ātman_MCp yonim_yoni_SAM sadā_sadā_U"
+  },
+  {
+    "index": 46431,
+    "sanskrit": "dṛṣṭvā nidāghaṃ sa ṛbhurupagamyābhivādya ca / uvāca kasmādekānte sthīyate bhavatā dvija //",
+    "english": "Ribhu approached him, and saluting him reverentially as if he was a stranger demanded why he was standing in such a retired spot.",
+    "morphology": "dṛṣṭvā_dṛś_Co nidāgham_nidāgha_SAM saḥ_tad_SNM ṛbhuḥ_ṛbhu_SNM upagamya_upagam_Co abhivādya_abhivāday_Co ca_ca_  / uvāca_vac_SPs3In kasmāt_kasmāt_"
+  }
+]

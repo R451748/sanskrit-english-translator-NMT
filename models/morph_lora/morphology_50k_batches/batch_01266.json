@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10120,
+    "sanskrit": "tasmin dhṛtiḥ ca vīryam ca prajñā ca ojaḥ ca mādhave",
+    "english": "Indeed, intelligence and prowess and wisdom and energy, all reside in Madhava.",
+    "morphology": "tasmin_tad_SLM dhṛtiḥ_dhṛti_SNF ca_ca_U vīryam_vīrya_SNNe ca_ca_U prajñā_prajñā_SNF ca_ca_U ojaḥ_ojas_SNNe ca_ca_U mādhave_mādhava_SLM"
+  },
+  {
+    "index": 10121,
+    "sanskrit": "atha vā mantravat brūyuḥ māṃsa ādānām yajuṣkṛtam",
+    "english": "Some say that sacrifices and other acts performed with the aid of mantras, and which certainly contribute to the purification of the Soul, are evil or cruel acts.",
+    "morphology": "atha_atha_U vā_vā_U mantravat_mantravat_U brūyuḥ_brū_PPr3O māṃsa_māṃsa_NeCp ādānām_āda_PGM yajuṣkṛtam_yajuṣkṛta_SANe"
+  },
+  {
+    "index": 10122,
+    "sanskrit": "yat vartate yat ca bhaviṣyati iha",
+    "english": "Whatever exists, and whatever will spring into existence, all is Kesava.",
+    "morphology": "yat_yad_SNNe"
+  },
+  {
+    "index": 10123,
+    "sanskrit": "somadattaḥ tu asaṃbhrāntaḥ dṛṣṭvā ketum nipātitam śaineyam pañcaviṃśatyā sāyakānām samācinot",
+    "english": "Somadatta, however, beholding his standard cut down, fearlessly pierced the grandson of Sini with five and twenty arrows.",
+    "morphology": "somadattaḥ_somadatta_SNM tu_tu_U asaṃbhrāntaḥ_asambhrānta_SNM dṛṣṭvā_dṛś_Co ketum_ketu_SAM nipātitam_nipātay_SAPaPsM śaineyam_śaineya_SAM pañcaviṃśatyā_pañcaviṃśati_SIF sāyakānām_sāyaka_PGM samācinot_samāci_SPs3In"
+  },
+  {
+    "index": 10124,
+    "sanskrit": "nacāpyadṛṣṭimātreṇa tadabhāvaḥ prasiddhyati /",
+    "english": "The mere fact that such power is not seen cannot prove that it does not exist;",
+    "morphology": "na_na_ ca_ca_ api_api_ adṛṣṭi_adṛṣṭi_Cp mātreṇa_mātra_SINe tad_tad_Cp abhāvaḥ_abhāva_SNM prasiddhi_prasiddhi_Cp ati_ati_"
+  },
+  {
+    "index": 10125,
+    "sanskrit": "śaraiḥ ca avākirat rājan śaineyam tanayaḥ tava",
+    "english": "indeed, O king, thy son poured on him of Sini's race a perfect shower of arrows.",
+    "morphology": "śaraiḥ_śara_PIM ca_ca_U avākirat_avakṛ_SPs3In rājan_rājan_SVM śaineyam_śaineya_SAM tanayaḥ_tanaya_SNM"
+  },
+  {
+    "index": 10126,
+    "sanskrit": "abhighāta jvare kuryāt kriyām uṣṇa vivarjitām kaṣāya madhurām snigdhām yathādoṣam atha api vā",
+    "english": "All heat-engendering (Ushna) measures are prohibited in a case of traumatic fever and sweet and astringent drugs charged with oil or clarified butter should be prescribed.",
+    "morphology": "abhighāta_abhighāta_MCp jvare_jvara_SLM kuryāt_kṛ_SPr3O kriyām_kriyā_SAF uṣṇa_uṣṇa_NeCp vivarjitām_vivarjay_SAPaPsF kaṣāya_kaṣāya_Cp madhurām_madhura_SAF snigdhām_snigdha_SAF yathādoṣam_yathādoṣam_U atha_atha_U api_api_U vā_v"
+  },
+  {
+    "index": 10127,
+    "sanskrit": "śarānmumoca caiteṣu pārthā vairiṣvamarṣitaḥ / tvagbhedaṃ de paraṃ cakrurastā gāṇḍīvadhanvinā //",
+    "english": "Losing all patience, he launched, as best he might, his shafts upon the enemy but those shot from Gāndīva merely scratched the skin.",
+    "morphology": "śarān_śara_PAM mumoca_muc_SPs3In ca_ca_ eteṣu_etad_PLM pārthāḥ_pārtha_PVM vairiṣu_vairin_PLM amarṣitaḥ_amarṣita_SNM  / tvac_tvac_Cp bhedam_bheda_SAM de_da_PNM param_para_SAM cakruḥ_kṛ_PPs3In astāḥ_as_PNPaM gāṇḍīvadhanvinā_g"
+  }
+]

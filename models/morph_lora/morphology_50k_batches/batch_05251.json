@@ -1,0 +1,50 @@
+[
+  {
+    "index": 42000,
+    "sanskrit": "tvām agne manīṣiṇaḥ tvām hinvanti citti bhiḥ tvām vardhantu naḥ g iraḥ",
+    "english": "O Agni, they who understand stir thee to action with their thoughts: So let our songs enhance thy might.",
+    "morphology": "tvām_tvad_SA agne_agni_SVM manīṣiṇaḥ_manīṣin_PNM tvām_tvad_SA hinvanti_hi_PPr3In citti_citti_FCp bhiḥ_bhiḥ_PIF tvām_tvad_SA vardhantu_vṛdh_PPr3Im naḥ_mad_PG g_g_U"
+  },
+  {
+    "index": 42001,
+    "sanskrit": "kārayām āsa nṛpatiḥ sauvarṇam sarvam īpsitam",
+    "english": "And king Srinjaya caused all desirable things of his to be made of gold.",
+    "morphology": "kārayām_kāray_SPs3In_SPs3In"
+  },
+  {
+    "index": 42002,
+    "sanskrit": "tathā āryaratnakūṭe yathoktam “kāśyapa/ cittaṃ tu parigaveṣyamāṇaṃ na labhyate /",
+    "english": "As has been said in Arya Ratnakūta “O Kaśyapa! the mind is untraceable even when reached.",
+    "morphology": "tathā_tathā_ ārya_ārya_Cp ratnakūṭe_ratnakūṭa_SLM yathā_yathā_ uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 42003,
+    "sanskrit": "dhruvam duryodhanaḥ vīraḥ gatim na sulabhām gataḥ tathā hi abhimukhaḥ śete śayane vīra sevite",
+    "english": "Without doubt, the heroic Duryodhana, when he sleeps on that bed which is the heros hath obtained the most unattainable end.",
+    "morphology": "dhruvam_dhruvam_U duryodhanaḥ_duryodhana_SNM vīraḥ_vīra_SNM gatim_gati_SAF na_na_U sulabhām_sulabha_SAF gataḥ_gam_SNPaPsM tathā_tathā_U hi_hi_U abhimukhaḥ_abhimukha_SNM śete_śī_SPr3In śayane_śayana_SLNe"
+  },
+  {
+    "index": 42004,
+    "sanskrit": "kratoś ca saṃtatirbhāryā vālakhilyānasūyata / ṣaṣṭiputrasahasrāṇi munīnāmūrdhvaretasām / aṅguṣṭhaparvamātrāṇāṃ jvaladbhāskaratejasām //",
+    "english": "The wife of Kratu, Sannati, brought forth the sixty thousand Bālakhilyas, pigmy sages, no bigger than a joint of the thumb, chaste, pious, resplendent as the rays of the sun.",
+    "morphology": "kratoḥ_kratu_SGM ca_ca_ saṃtatiḥ_saṃtati_SNF bhāryā_bhāryā_SNF vālakhilyān_vālakhilya_PAM asūyata_sū_S3ImIn  / ṣaṣṭi_ṣaṣṭi_Cp putra_putra_Cp sahasrāṇi_sahasra_PNNe munīnām_muni_PGM ūrdhvaretasām_ūrdhvaretas_PGM  / aṅg"
+  },
+  {
+    "index": 42005,
+    "sanskrit": "nāgāḥ samupabhogena tribhiḥ etaiḥ tu mānuṣāḥ",
+    "english": "and human beings with all three, viz., scent, sight, and touch.",
+    "morphology": "nāgāḥ_nāga_PNM samupabhogena_samupabhoga_SIM tribhiḥ_tri_PIM etaiḥ_etad_PIM tu_tu_U mānuṣāḥ_mānuṣa_PNM"
+  },
+  {
+    "index": 42006,
+    "sanskrit": "jātakarmāṇi sarvāṇi kārayām āsa pārthivaḥ puṃvat vidhāna yuktāni śikhaṇḍī iti ca tām viduḥ",
+    "english": "And, O king, Drupada caused all the rites of infancy, prescribed for a son, to be performed in respect of that child, and he bestowed the name of Sikhandin on her.",
+    "morphology": "jātakarmāṇi_jātakarman_PANe sarvāṇi_sarva_PANe kārayām_kāray_SPs3In āsa_as_SPs3In pārthivaḥ_pārthiva_SNM puṃvat_puṃvat_U vidhāna_vidhāna_NeCp yuktāni_yuj_PAPaPsNe śikhaṇḍī_śikhaṇḍin_SNM iti_iti_U ca_ca_U tām_tad_SAF vidu"
+  },
+  {
+    "index": 42007,
+    "sanskrit": "pravṛttyarthaṃ rajo niyamārthaṃ tamaḥ sthitau samarthamityarthaḥ prakāśakriyāsthitiśīlā guṇā iti /",
+    "english": "Rajas is adapted to activate. Tamas is adapted to restrain, i.e., is competent to fix a thing. That is, the Attributes are of the nature of illumination, activity and fixture.",
+    "morphology": "pravṛtti_pravṛtti_Cp artham_artha_SNNe rajaḥ_rajas_SNNe niyama_niyama_Cp artham_artha_SNNe tamaḥ_tamas_SNNe sthitau_sthiti_SLF samartham_samartha_SNNe iti_iti_ arthaḥ_artha_SNM prakāśa_prakāśa_Cp kriyā_kriyā_Cp sthiti_sthiti_Cp śīlāḥ_"
+  }
+]

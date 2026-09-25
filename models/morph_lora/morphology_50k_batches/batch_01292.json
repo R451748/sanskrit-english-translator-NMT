@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10328,
+    "sanskrit": "tatra te pūjitāḥ tena sarve eva sukha uṣitāḥ pratasthuḥ vimale sūrye himavantam girim prati",
+    "english": "Having been thus received with honour, and having dwelt comfortably at this place, they started for the mountain Himalaya, when the sun shone brightly in the firmament.",
+    "morphology": "tatra_tatra_U te_tad_PNM pūjitāḥ_pūjay_PNPaPsM tena_tad_SIM sarve_sarva_PNM eva_eva_U sukha_sukha_Cp uṣitāḥ_vas_PNPaPsM pratasthuḥ_prasthā_PPs3In vimale_vimala_SLM sūrye_sūrya_SLM himavantam_himavant_SAM girim_giri_SAM prati_prati_U"
+  },
+  {
+    "index": 10329,
+    "sanskrit": "tā etāḥ kāścidatyacchā yathā hariharādayaḥ / kāścidalpavimohasthā yathoraganarāmarāḥ //",
+    "english": "There are some of pure and enlightened souls, as the gods Hari, Hara and others; and some of somewhat darkened understandings, as men and the inferior demigods.",
+    "morphology": "tāḥ_tad_PNF etāḥ_etad_PNF kāścid_kaścit_PNF ati_ati_ acchāḥ_accha_PNF yathā_yathā_ hari_hari_Cp hara_hara_Cp ādayaḥ_ādi_PNM  / kāścid_kaścit_PNF alpa_alpa_Cp vimoha_vimoha_Cp sthāḥ_stha_PNF yathā_yathā_ uraga_uraga_Cp nara_nara_Cp"
+  },
+  {
+    "index": 10330,
+    "sanskrit": "tasmai hovāca //",
+    "english": "He then taught him",
+    "morphology": "tasmai_tad_SDM ha_ha_ uvāca_vac_SPs3In  /"
+  },
+  {
+    "index": 10331,
+    "sanskrit": "prasīda bhagavatyādye prasīda śivarūpiṇam | prasīda bhaktavarade jaganmāye namostu te ||",
+    "english": "14. Be pleased, O primordial Goddess, be pleased, O Goddess in the form of ≈öiva; be pleased, O bestower of boons to the devotees; obeisance be to Thee, O wielder of illusion over the universe.",
+    "morphology": "prasīda_prasad_SPr2Im bhagavati_bhagavatī_SVF ādye_ādya_SVF prasīda_prasad_SPr2Im śiva_śiva_Cp rūpiṇam_rūpin_SAM  / prasīda_prasad_SPr2Im bhakta_bhakta_Cp vara_vara_Cp de_da_SVF jaganmāye_jaganmāyā_SVF namaḥ_namas_SNNe astu_as_SPr3Im te_tv"
+  },
+  {
+    "index": 10332,
+    "sanskrit": "| īśvara uvāca | caturdvārasthitaṃ devi śṛṇu liṃgacatuṣṭayam | yasya darśanamātreṇa kṛtakṛtyo naro bhavet || 1 ||",
+    "english": "Īśvara said:",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / catur_catur_Cp dvāra_dvāra_Cp sthitam_sthā_SAPaNe devi_devī_SVF śṛṇu_śru_SPr2Im liṅga_liṅga_Cp catuṣṭayam_catuṣṭaya_SANe  / yasya_yad_SGNe darśana_darśana_Cp mātreṇa_mātra_SINe kṛt"
+  },
+  {
+    "index": 10333,
+    "sanskrit": "evaṃ samarcitastābhyāṃ śivayogī mahādyutiḥ | ativāhya niśāmekāṃ yayau prātastadādṛtaḥ || 12 ||",
+    "english": "12. Thus honoured by both of them, the Śivayogin of great splendour spent a night there and went away in the morning duly respected by them.",
+    "morphology": "evam_evam_ samarcitaḥ_samarcay_SNPaM tābhyām_tad_DuIM śiva_śiva_Cp yogī_yogin_SNM mahā_mahat_Cp dyutiḥ_dyuti_SNM  / ativāhya_ativāhay_Co niśām_niśā_SAF ekām_eka_SAF yayau_yā_SPs3In prātar_prātar_ tad_tad_Cp ādṛtaḥ_ādṛ_SNPaM  /"
+  },
+  {
+    "index": 10334,
+    "sanskrit": "kathaṃ bhavatītyāha",
+    "english": "What happens then?",
+    "morphology": "katham_katham_"
+  },
+  {
+    "index": 10335,
+    "sanskrit": "mūlamūlyaparivārānuparivartakavalālpavahutvācca /",
+    "english": "Or rather the two minds, a defiled mind and a good mind, are called small and great because their roots, their worth, their followings, their entourage, and their forces, are respectively, small or great.",
+    "morphology": "mūla_mūla_Cp mūlya_mūlya_Cp parivāra_parivāra_Cp anuparivarta_anuparivarta_Cp kavala_kavala_Cp alpa_alpa_Cp vahu_vahu_Cp tvāt_tva_SBNe"
+  }
+]

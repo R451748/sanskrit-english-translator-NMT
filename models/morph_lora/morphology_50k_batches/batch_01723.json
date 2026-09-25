@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13776,
+    "sanskrit": "bhāva abhāvau tadātve ca ayane dakṣiṇa uttare",
+    "english": "Thine is the sovereignty of the heavens, thine is the sovereignty of the Earth, thou art the Northern and the Southern declensions.",
+    "morphology": "bhāva_bhāva_MCp"
+  },
+  {
+    "index": 13777,
+    "sanskrit": "pra vaḥ marutaḥ taviṣāḥ udanyavaḥ vayaḥ vr̥dhaḥ aśva yujaḥ pari jrayaḥ sam vi dyutā dadhati vāśati tritaḥ svaranti āpaḥ avanā pari jrayaḥ",
+    "english": "O Maruts, rich in water, strengtheners of life are your strong bands with harnessed steeds, that wander far. Trita roars out at him who aims the lightning-flash. The waters sweeping round are thundering on their way.",
+    "morphology": "pra_pra_U vaḥ_tvad_PG marutaḥ_marut_PVM taviṣāḥ_taviṣa_PVM udanyavaḥ_udanyu_PVM vayaḥ_vi_PNM vr̥dhaḥ_vrādh_PNM aśva_aśva_MCp yujaḥ_yuj_PNM pari_pari_U jrayaḥ_jrayas_SANe sam_sam_U vi_vi_U dyutā_dyut_SIF dadhati_dhā_PPr3In vāśat"
+  },
+  {
+    "index": 13778,
+    "sanskrit": "śukram viśvasṛjam brahma brahmacāriṇam eva ca",
+    "english": "thou art the Creator of Brahman;",
+    "morphology": "śukram_śukra_SAM viśvasṛjam_viśvasṛj_SAM brahma_brahman_SANe brahmacāriṇaḥ"
+  },
+  {
+    "index": 13779,
+    "sanskrit": "soyaṃ soyaṃ yuvā dhanyastarjanyagreṇa darśitaḥ | gaṃdharvarājastaṃ dṛṣṭvā nāgarājakumārakam || 1 || atīvasmeranayanaḥ saṃprahṛṣṭatanūruhaḥ | manasyenaṃ ca saṃvarṇya tadrūpaṃ savayonvayam || 2 || dhanyosmyanugṛhītosmi ratneśena varārpaṇāt | kanyā dhanyatarā ceyamanurūposti yatpatiḥ || 3 ||",
+    "english": "On seeing the prince of serpents, the king of Gandharvas became delighted with hairs standing on ends. His eyes beamed with smile in his face. He thought in his mind thus after seeing him, of youthful form and nobility of birth: ‘I am blessed. I have been favoured by Ratneśa by offering me an excellent bridegroom This girl too is blessed, because her husband is quite suitable to her.’",
+    "morphology": "saḥ_tad_SNM iyam_idam_SNF saḥ_tad_SNM iyam_idam_SNF yuvā_yuvan_SNM dhanyaḥ_dhanya_SNM tarjanī_tarjanī_Cp agreṇa_agra_SINe darśitaḥ_darśay_SNPaM  / gaṃdharva_gandharva_Cp rājaḥ_rāja_SNM tam_tad_SAM dṛṣṭvā_dṛś_Co nāga_nāga_Cp"
+  },
+  {
+    "index": 13780,
+    "sanskrit": "vi bhrājamānaḥ uṣasām upa sthāt rebhaiḥ ut eti anu madyamānaḥ eṣaḥ me devaḥ savitā cacchanda yaḥ samānam na pra mināti dhāma",
+    "english": "Refulgent from the bosom of the Mornings, he in Whom singers take delight ascendeth. This Savitar, God, is my chief joy and pleasure, who breaketh not the universal statute.",
+    "morphology": "vi_vi_U bhrājamānaḥ_bhrāj_SNPaPrM uṣasām_uṣas_PGF upa_upa_U sthāt_sthā_SPs3 rebhaiḥ_rebha_PIM ud_ud_U eti_i_SPr3In anu_anu_U madyamānaḥ_mad_SNPaPrMPv eṣaḥ_etad_SNM me_mad_SD devaḥ_deva_SNM savitā_savitṛ_SNM cacchanda_chand_SPs3In "
+  },
+  {
+    "index": 13781,
+    "sanskrit": "iha loke prameyavastu pramāṇena sādhyate yathā prasthādibhirvrīhayastulayā candanādi /",
+    "english": "In this world, the knowables are proved by means of proof, as rice by the weight seer and sandal by balance.",
+    "morphology": "iha_iha_ loke_loka_SLM prameya_pramā_GdCp vastu_vastu_SNNe pramāṇena_pramāṇa_SINe sādhyate_sādhay_SPr3InPv yathā_yathā_ prastha_prastha_Cp ādibhiḥ_ādi_PIM vrīhayaḥ_vrīhi_PNM tulayā_tulā_SIF"
+  },
+  {
+    "index": 13782,
+    "sanskrit": "teṣām hi śāpa kālaḥ asau kṛtaḥ agastyena dhīmatā",
+    "english": "As the intelligent Agastya had fixed this period as the limit of (the duration of) his curse, so being slain in conflict, the Rakshasas were freed from the imprecation.",
+    "morphology": "teṣām_tad_PGM hi_hi_U śāpa_śāpa_MCp kālaḥ_kāla_SNM asau_adas_SNM"
+  },
+  {
+    "index": 13783,
+    "sanskrit": "māghe 'siti pañcadaśī kadācidupaiti yogaṃ yadi vāruṇena / ṛkṣeṇa kālaḥsa paraḥ pitṝṇāṃ na hyalpapuṇyair nṛpa labhyatesau //",
+    "english": "The fifteenth day of the dark half of the month Māgha, when united with the conjunction of the asterism over which Varuṇa presides Satābhiṣā, is a season of no little sanctity, when offerings are especially grateful to the progenitors.",
+    "morphology": "māghe_māgha_SLM asiti_asit_SLM pañcadaśī_pañcadaśī_SNF kadācid_kadācid_ upaiti_upe_SPr3In yogam_yoga_SAM yadi_yadi_ vāruṇena_vāruṇa_SIM  / ṛkṣeṇa_ṛkṣa_SIM kālaḥ_kāla_SNM sa_tad_SNM paraḥ_para_SNM pitṝṇām_pitṛ_PGM na_n"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3048,
+    "sanskrit": "tadaṃgasaṃgamāsādya vidadre śatadhā tayā | kaumodakī prahāreṇa vīrabhadraṃ pratāpinam || 79 || jaghāna vāsudevopi tarasā'jñātavedanam | tataḥ khaṭvāṃgamādāya gadāhastaṃ gadādharam || 80 || ātāḍya savyadordaṃḍe gadāṃ bhūmāvapātayat | kupitoyaṃ madhudveṣī cakreṇātāḍayacca tam || 81 ||",
+    "english": "79-81. Clashing with his body, the Bhuśuṇḍī broke into a hundred pieces. Vāsudeva struck with force by means of a blow with Kaumodakī (name of the Gaḍā) the valorous Vīrabhadra who did not feel the pain at all. Thereafter Vīrabhadra took up a Khaṭvāṅga, struck the Mace-wielding Gadādhara in his brawny right hand and made the mace fell down. The infuriated Slayer of Madhu hit him with his discus.",
+    "morphology": "tad_tad_Cp aṃga_aṅga_Cp saṃgam_saṅga_SAM āsādya_āsāday_Co vidadre_vidṛ_SPs3In śatadhā_śatadhā_ tayā_tad_SIF  / kaumodakī_kaumodakī_SNF prahāreṇa_prahāra_SIM vīrabhadram_vīrabhadra_SAM pratāpinam_pratāpin_SAM  / jaghāna_han_SPs"
+  },
+  {
+    "index": 3049,
+    "sanskrit": "kṛṣṇa kṛṣṇa namastubhyaṃ gṛhṇīṣvedaṃ pavitrakaṃ /",
+    "english": "“O Kṛṣṇa! Salutations to you.",
+    "morphology": "kṛṣṇa_kṛṣṇa_SVM kṛṣṇa_kṛṣṇa_SVM namaḥ_namas_SNNe tubhyaḥ_tvad_SD gṛhṇīṣva_grah_SPr2Im idam_idam_SANe pavitrakaḥ_pavitraka_SNM  /"
+  },
+  {
+    "index": 3050,
+    "sanskrit": "evaṃ hi niścayo hi syāt sarvasattvātmadarśane / taddṛṣṭau sarvavidbhūto bhavān iti ca varṇitam //",
+    "english": "and such certainty could be possible only if the souls of all men were known to you; and if all these were known to you, then you yourself would be omniscient, as has been pointed out above.",
+    "morphology": "evam_evam_ hi_hi_ niścayaḥ_niścaya_SNM hi_hi_ syāt_as_SPr3O sarva_sarva_Cp sattva_sattva_Cp ātma_ātman_Cp darśane_darśana_SLNe  / tad_tad_Cp ṛṣṭau_ṛṣṭi_SLF saḥ_tad_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 3051,
+    "sanskrit": "evam sa vāhanam sarvam āvignam abhavat balam vyaṣīdanta narāḥ rājan śaṅkha śabdena māriṣa",
+    "english": "Thy whole army with its animals became filled with anxiety, O king, and in consequence of the blare of those (two) conchs, all men, O sire, lost their strength.",
+    "morphology": "evam_evam_U sa_sa_U vāhanam_vāhana_SNNe sarvam_sarva_SNNe āvignam_āvij_SNPaPsNe abhavat_bhū_SPs3In balam_bala_SNNe vyaṣīdanta_viṣad_PPs3In narāḥ_nara_PNM rājan_rājan_SVM śaṅkha_śaṅkha_MCp śabdena_śabda_SIM ṛṣṭaḥ_ṛṣṭa_SN"
+  },
+  {
+    "index": 3052,
+    "sanskrit": "bibhrat daṇḍa ajinam muṇḍaḥ brāhmaṇaḥ arhati vāsasam",
+    "english": "Even the Brahmana that wears a deer-skin and the wand of (mendicancy) and has his head shaved, should be punished (when he transgresses).[1215] If great men transgress, their chastisement should be proportionate to their greatness.",
+    "morphology": "bibhrat_bhṛ_SNPaPrM daṇḍa_daṇḍa_MCp ajinam_ajina_SANe"
+  },
+  {
+    "index": 3053,
+    "sanskrit": "tathā tathā vijānāti vijñānam ca asya rocate",
+    "english": "Such Knowledge verily becomes agreeable to him.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 3054,
+    "sanskrit": "taṃ tārisaṃ sappuruṣaṃ sumedhaṃ sevetha nakkhattapathe va candramā ||",
+    "english": "follow such a true and intelligent person as the moon follows the course of the stars.",
+    "morphology": "tam_tad_SAM tārisaḥ_tārisa_SNM sappuruṣaḥ_sappuruṣa_SNM su_su_ medhaḥ_medhā_SNM sevetha_sev_SPr2O"
+  },
+  {
+    "index": 3055,
+    "sanskrit": "cirapravāsopayāto hatāris tatra mātaram / sa rāma iva kauśalyāṃ darśanotkāmanandayat //",
+    "english": "Then returning from a long absence, after slaying his enemy, he delighted his mother, who was eager to behold him, as Rāma did Kauśalyā.",
+    "morphology": "cira_cira_Cp pravāsa_pravāsa_Cp upayātaḥ_upayā_SNPaM hata_han_PaCp ariḥ_ari_SNM tatra_tatra_ mātaram_mātṛ_SAF  / saḥ_tad_SNM ḥḥ_ḥḥ_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38120,
+    "sanskrit": "gandha mālya ādi yuktam ca haviṣyam bhojayet dvijān",
+    "english": "One should listen with rapt attention to this Asramavasika Parvan, and having heard it recited, one should feed Brahmanas with Habishya, honouring them with scents and garlands.\"' The end of Asramavasika Parvan. FOOTNOTES 1.",
+    "morphology": "gandha_gandha_MCp"
+  },
+  {
+    "index": 38121,
+    "sanskrit": "sa saṃprahāraḥ tumulaḥ tasya teṣām ca dhanvinām deva asura raṇa prakhyaḥ prāvartata jana kṣayaḥ",
+    "english": "The passage at arms between those united bowmen (on the one side) and Satyaki (on the other) was exceedingly fierce, resembling that between the gods and the Asuras (in days of old).",
+    "morphology": "sa_tad_SNM saṃprahāraḥ_samprahāra_SNM tumulaḥ_tumula_SNM tasya_tad_SGM teṣām_tad_PGM ca_ca_U dhanvinām_dhanvin_PGM deva_deva_MCp asura_asura_MCp raṇa_raṇa_MCp prakhyaḥ_prakhyā_SNM prāhāḥ_prahā_PNPaPsM"
+  },
+  {
+    "index": 38122,
+    "sanskrit": "ekatrāsati sāmarthya mantraḥ śeṣobhidhīyate /",
+    "english": "In the case of the mantra kadā cu etc., however, we actually perceive a potency of indicat ing Indra and from that we have to proceed to assume that the appli cation of the Mantra is declared or enjoined by the word.",
+    "morphology": "ekatra_ekatra_ asati_asat_SLNe "
+  },
+  {
+    "index": 38123,
+    "sanskrit": "iha tu gauṇenāpi prayojanenārthavādatayāpy upapatter na ghātakatvaṃ śakyam avasātum /",
+    "english": "In the present case, however the passage is capable of serving an auxiliary purpose by bring taken as a commendatory statement; so that it is not possible, on the strength of the present text alone, to regard all these persons as \"slayers\".",
+    "morphology": "iha_iha_ tu_tu_ gauṇena_gauṇa_SINe api_api_ prayojanena_prayojana_SINe arthavāda_arthavāda_Cp tayā_tā_SIF api_api_ upapatteḥ_upapatti_SBF na_na_"
+  },
+  {
+    "index": 38124,
+    "sanskrit": "ye pākayajñāś catvāro vidhiyajñasamanvitāḥ / te sarve japayajñasya kalāṃ nārhanti ṣoḍaśīm //",
+    "english": "The four Pâkayagñas (small or domesticofferings), together with the sacrifices prescribed (in the Veda), though all united, are not equal to a sixteenth part of the sacrifice performed by reciting (those sacred prayers).",
+    "morphology": "ye_yad_PNM pākayajñāḥ_pākayajña_PNM catvāraḥ_catur_PNM vidhi_vidhi_Cp yajña_yajña_Cp samanvitāḥ_samanvita_PNM  / te_tad_PNM sarve_sarva_PNM japa_japa_Cp yajñasya_yajña_SGM kalām_kalā_SAF na_na_ arhanti_arh_PPr3In ṣoḍaśīm_ṣoḍaś"
+  },
+  {
+    "index": 38125,
+    "sanskrit": "utpatti avastham eva idam pramāṇam iti mīyate | na tāvat avikalpa tvāt aniṣṭeḥ ca ātma saṃvidaḥ || na api jñāna antareṇa eva tad kāle asannidhānataḥ | tasya api avyakta bhāva tvāt aniṣṭa āpattitaḥ api vā ||",
+    "english": "It cannot be recognised that it is valid at the time that it appears;—because it is non-conceptual and because self-cognition is not admitted.—Nor can it be recognised by another cognition; because it is not there at the time; also because its presence is not manifested; or because of an undesirable contingency",
+    "morphology": "utpatti_utpatti_FCp avastham_avasthā_SNNe eva_eva_U idam_idam_SNNe pramāṇam_pramāṇa_SNNe iti_iti_U mīyate_mā_SPr3InPv  / na_na_U tāvat_tāvat_U avikalpa_avikalpa_MCp tvāt_tva_SBNe aniṣṭeḥ_aniṣṭi_SBF ca_ca_U ātma_ātman_MCp saṃvida"
+  },
+  {
+    "index": 38126,
+    "sanskrit": "śiraḥ svaḥsūryātmane ca śikhā kavacamucyate //",
+    "english": "‘Svaḥ, to the soul of Sun’ is said to be the armour of the tuft.",
+    "morphology": "śiraḥ_śiras_SNNe svar_svar_ sūrya_sūrya_Cp ātmane_ātman_SDM ca_ca_ śikhā_śikhā_SNF"
+  },
+  {
+    "index": 38127,
+    "sanskrit": "bhikṣām apy udapātraṃ vā satkṛtya vidhipūrvakam / vedatattvārthaviduṣe brāhmaṇāyopapādayet //",
+    "english": "In accordance with scriptural injunctions, one should make over to the Brāhmaṇa knowing the true meaning of the Veda even alms and a waterput, after having honoured him0.",
+    "morphology": "bhikṣām_bhikṣā_SAF api_api_ uda_uda_Cp pātram_pātra_SANe vā_vā_ satkṛtya_satkṛ_Co vidhi_vidhi_Cp pūrvakam_pūrvaka_SANe  / veda_veda_Cp tattva_tattva_Cp artha_artha_Cp viduṣe_vidvas_SDM brāhmaṇāya_brāhmaṇa_SDM upapādayet_upapāday_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26864,
+    "sanskrit": "ubhayam tat samībhūtam vasa pūjani mā gamaḥ",
+    "english": "Do not leave thy present abode.",
+    "morphology": "ubhayam_ubhaya_SNNe"
+  },
+  {
+    "index": 26865,
+    "sanskrit": "airyāpathikavipākajānantaramaṣṭau / svabhūmikāni ṣaḍanyatra prāyogikābhijñāphalābhyāṃ rūpārupyāvacāre ca kliṣṭe /",
+    "english": "Followed by eight: six minds of the same sphere, with the exeption of a mind acquired through effort and abhñāphala; an undefiled-neutral mind of Rūpadhātu and of Arūpyadhātu.",
+    "morphology": "airyāpathika_airyāpathika_Cp vipāka_vipāka_Cp ja_ja_Cp anantaram_anantaram_ aṣṭau_aṣṭan_PNM  / sva_sva_Cp bhūmikāni_bhūmika_PNNe ṣaḍ_ṣaṣ_PNNe anyatra_anyatra_ prāyogika_prāyogika_Cp abhijñā_abhijñā_Cp phalābhyām_phala_DuINe r"
+  },
+  {
+    "index": 26866,
+    "sanskrit": "ātta iti / gṛhītaḥ /",
+    "english": "‘Atta’ apprehended. ‘True character’;",
+    "morphology": "āttaḥ_ā_SNPaM iti_iti_"
+  },
+  {
+    "index": 26867,
+    "sanskrit": "kṛcchrāt labdham abhipretam yadā kausalya naśyati tadā nirvidyate saḥ arthāt paribhagna kramaḥ naraḥ",
+    "english": "If, O prince of Kosala, a person loses that wealth which had been earned with difficulty and which had been proportionate to his desires, he then, overcome by the inactivity of despair, gives up all desire of wealth.",
+    "morphology": "kṛcchrāt_kṛcchra_SBNe labdham_labh_SNPaPsNe abhipretam_abhipre_SNPaPsNe yadā_yadā_U kausalya_kausalya_SVM naśyati_naś_SPr3In tadā_tadā_U nirvidyate_nirvid_SPr3InPv saḥ_tad_SNM arthāt_artha_SBM paribhagna_paribhañj_PaPsCp kramaḥ_krama_SNM"
+  },
+  {
+    "index": 26868,
+    "sanskrit": "candraḥ eva tu amāvāsyām tathā bhavati mūrtimān na abhisarpat vimuñcat vā śaśinam dṛśyate tamaḥ",
+    "english": "It cannot be distinctly seen how Rahu approaches and leaves the moon.",
+    "morphology": "candraḥ_candra_SNM eva_eva_U tu_tu_U amāvāsyām_amāvāsī_SLF tathā_tathā_U bhavati_bhū_SPr3In mūrtimān_mūrtimat_SNM na_na_U abhisarpat_abhisṛp_SNPaPrNe vimuñcat_vimuc_SNPaPrNe vā_vā_U śaśinam_śaśin_SAM dṛśyate_dṛś_SPr3InPv"
+  },
+  {
+    "index": 26869,
+    "sanskrit": "abhātāyāṃ jagadbhrāntau bhūtabhāvaḥ svayaṃ bhavan / yaḥ sa brahmamayaḥ proktaḥ saṃbhavo na sa yonijaḥ //",
+    "english": "The other is the viewing of the representation of Brahma, in all things appearing to exist in this non-existent and unreal world; and this called the pantheistic view of the world, and not as a production either by birth or creation of it.",
+    "morphology": "a_a_ bhātāyām_bhā_SLPaF jagat_jagant_Cp bhrāntau_bhrānti_SLF bhūta_bhū_PaCp bhāvaḥ_bhāva_SNM svayam_svayam_ bhavan_bhū_SNPaPrM  / yaḥ_yad_SNM sa_tad_SNM brahma_brahman_Cp mayaḥ_maya_SNM proktaḥ_pravac_SNPaM saṃbhavaḥ_sambhava_SNM na_"
+  },
+  {
+    "index": 26870,
+    "sanskrit": "yady apy arthavādā vidhyuddeśastutiparā na svārthasya vidhāyakāḥ, tathāpi keṣāṃcid anyaparataiva nopapadyate yāvat svārthaviṣayo vidhir nāvagamitaḥ /",
+    "english": "Though it is true that Arthavādas only serve to eulogise what has been enjoined by an Injunctive sentence, and they do not exercise the function of enjoining anything, yet there are instances in which even the connection of the Arthavāda with an Injunctive sentence is not possible unless the former has afforded some; idea of an injunction in regard to something expressed by its words.",
+    "morphology": "yadi_yadi_ api_api_ arthavādāḥ_arthavāda_PNM vidhi_vidhi_Cp uddeśa_uddeśa_Cp stuti_stuti_Cp parāḥ_para_PNM na_na_ sva_sva_Cp arthasya_artha_SGM vidhāyakāḥ_vidhāyaka_PNM tathā_tathā_ api_api_ keṣāṃcid_kaścit_PGM anya_anya_Cp para_para"
+  },
+  {
+    "index": 26871,
+    "sanskrit": "bhrāmayitvā śataguṇaṃ pṛthivyāṃ samapothayat | na mamāra sa daityendro brahmaṇo varakāraṇāt || 125 ||",
+    "english": "125. Whirling him a hundred times he threw him on the ground. Due to his having had a boon from Brahmā the Lord of demons did not die.",
+    "morphology": "bhrāmayitvā_bhrāmay_Co śataguṇam_śataguṇa_SANe pṛthivyām_pṛthivī_SLF samapothayat_sampothay_S3ImIn  / na_na_ mamāra_mṛ_SPs3In sa_tad_SNM daitya_daitya_Cp indraḥ_indra_SNM brahmaṇaḥ_brahman_SGM vara_vara_Cp kāraṇāt_kāraṇa_SBNe"
+  }
+]

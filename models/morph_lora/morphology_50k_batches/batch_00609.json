@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4864,
+    "sanskrit": "apuṃñalābhaṃ anikāmaśeyaṃ nindaṃ tritīyaṃ nirayaṃ catutthaṃ ||",
+    "english": "he gains demerit, an uncomfortable bed, blame as third, and rebirth in the underworld as fourth.",
+    "morphology": "nindaṃ_ninda_SAM tritīyam_tritīya_SAM nirayam_niraya_SAM catutthaṃ_catuttha_SAM  /"
+  },
+  {
+    "index": 4865,
+    "sanskrit": "tapāṃsi tena taptāni sarvadānapradaḥ sa ca | sa prāpta yoganiyamo yastu gaṃgāṃ niṣevate || 14 ||",
+    "english": "14. He who resorts to Gaṅgā has practised all types of penances, attained all the fruits of Yogic practices and observances and is on a par with a person who makes a liberal gift of everything.",
+    "morphology": "tapāṃsi_tapas_PNNe tena_tad_SIM taptāni_tap_PNPaNe sarva_sarva_Cp dāna_dāna_Cp pradaḥ_prada_SNM sa_tad_SNM ca_ca_  / sa_tad_SNM yoga_yoga_Cp niyamaḥ_niyama_SNM yaḥ_yad_SNM tu_tu_ gaṃgām_gaṅgā_SAF niṣevate_niṣev_SPr3In  /"
+  },
+  {
+    "index": 4866,
+    "sanskrit": "avedanam su saṃpakvam dīpta agneḥ su cira utthitam nānā varṇam atīsāram puṭapākaiḥ upācaret",
+    "english": "A case of long-standing (chronic) Atisara marked by stools of various colours and a keen digestion but unattended with any sort of pain or complication should be remedied with medicines prepared in the maner of Puta-paka preparation (described below).",
+    "morphology": "avedanam_avedana_SAM su_su_U saṃpakvam_sampakva_SAM dīpta_dīp_PaPsCp agneḥ_agni_SGM su_su_U cira_cira_Cp utthitam_utthā_SAPaPsM nānā_nānā_U varṇam_varṇa_SAM atīsāram_atīsāra_SAM puṭapākaiḥ_puṭapāka_PIM upācaret_upācar_SPr3O"
+  },
+  {
+    "index": 4867,
+    "sanskrit": "tatrāpi yogyatāṃ dṛṭvā śabdaṃ tajjñāḥ prayuṃjate //",
+    "english": "The experts noticing such capability use such words.",
+    "morphology": "tatra_tatra_ api_api_ yogyatām_yogyatā_SAF dṛṣṭvā_dṛś_Co śabdam_śabda_SAM tad_tad_Cp jñāḥ_jña_PNM prayuṃjate_prayuj_PPr3In  /"
+  },
+  {
+    "index": 4868,
+    "sanskrit": "indra tri dhātu śaraṇam tri varūtham svasti mat chardiḥ yaccha maghavat bhyaḥ ca mahyam ca yavaya didyum ebhyaḥ",
+    "english": "O Indra, grant a happy home, a triple refuge triply strong. Bestow a dwelling-place on the rich lords and me, and keep thy dart afar from these.",
+    "morphology": "indra_indra_SVM tri_tri_Cp dhātu_dhātu_NeCp śaraṇam_śaraṇa_SANe tri_tri_Cp varūtham_varūtha_SANe svasti_svasti_SANe mat_mad_SB chardiḥ_chardis_SANe yaccha_yam_SPr2Im maghavat_maghavan_PDM ca_ca_U mahyam_mad_SD ca_ca_U yavaya_yavay_SPr2Im didyum"
+  },
+  {
+    "index": 4869,
+    "sanskrit": "brahmovāca | kārtike māsi kāveryyāṃ yaḥ snānaṃ kartumicchati | tāvatā vai vimuktā'gho viṣṇusāyujyamāpnuyāt || 50 ||",
+    "english": "Brahmā said: 50. If in the month of Kārttika a person wishes to take his holy bath in Kāverī, he will be liberated from all sins by that itself and he will attain Sāyujya with (i.e. absorption into) Viṣṇu.",
+    "morphology": "brahmā_brahman_SNM uvāca_vac_SPs3In  / kārtike_kārttika_SLM māsi_mās_SLM kāveryām_kāverī_SLF yaḥ_yad_SNM snānam_snāna_SANe kartum_kṛ_In icchati_iṣ_SPr3In  / tāvatā_tāvat_SINe vai_vai_ vimukta_vimuc_PaCp aghaḥ_agha_SNM viṣṇu_viṣ"
+  },
+  {
+    "index": 4870,
+    "sanskrit": "vicāraprītisukhasaṃyuktaṃ kuśalamaikāgyraṃ tat prathamaṃ dhyānam /",
+    "english": "The First Dhyāna is a good concentration filled with vicāra, prīti, and rukha [that is to say, associated with a vicāra filled or associated with priti and sukha].",
+    "morphology": "vicāra_vicāra_Cp prīti_prīti_Cp sukha_sukha_Cp saṃyuktam_saṃyuj_SNPaNe kuśalam_kuśala_SNNe aikāgyram_aikāgyra_SNNe tat_tad_SNNe prathamam_prathama_SNNe dhyānam_dhyāna_SNNe  /"
+  },
+  {
+    "index": 4871,
+    "sanskrit": "yastatropānahau dadyādbrāhmaṇāya yatavrataḥ | sa yānavaramārūḍho viṣṇuloke mahīyate || 11 ||",
+    "english": "11. He who makes a gift of a pair of shoes to a Brāhmaṇa and observes Vratas, proceeds to Viṣṇu’s world riding on a vehicle and is also honoured in Viṣṇuloka.[Sanskrit text for this chapter is available]",
+    "morphology": "yaḥ_yad_SNM tatra_tatra_ upānahau_upānah_DuAF dadyāt_dā_SPr3O brāhmaṇāya_brāhmaṇa_SDM yata_yam_PaCp vrataḥ_vrata_SNM  / sa_tad_SNM yāna_yāna_Cp varam_vara_SAM ārūḍhaḥ_āruh_SNPaM viṣṇu_viṣṇu_Cp loke_loka_SLM mahīyate_mahīy_"
+  }
+]

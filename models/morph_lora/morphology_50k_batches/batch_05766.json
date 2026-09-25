@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46120,
+    "sanskrit": "niṣpatanti tathā bāṇāḥ tat mātaliḥ apūjayat",
+    "english": "and this Matali admired.",
+    "morphology": "niṣpatanti_niṣpat_PPr3In tathā_tathā_U bāṇāḥ_bāṇa_PNM"
+  },
+  {
+    "index": 46121,
+    "sanskrit": "dīrghasattravyādhigurukulauparuddhaṃ bālam asāraṃ vā naṛṇam anuvardheta // mucyamānam ṛṇam apratigṛhṇato dvādaśapaṇo daṇḍaḥ //",
+    "english": "Interest on debts due from persons who are engaged in sacrifices taking a long time dírghasatra, or who are suffering from disease, or who are detained in the houses of their teachers for learning, or who are either minors or too poor, shall not accumulate A creditor refusing to receive the payment of his debt shall pay a fine of panas",
+    "morphology": "dīrgha_dīrgha_Cp sattra_sattra_Cp vyādhi_vyādhi_Cp guru_guru_Cp kula_kula_Cp auparuddham_auparudh_SAPaM bālam_bāla_SAM asāram_asāra_SAM vā_vā_ na_na_ ṛṇam_ṛṇa_SNNe anuvardheta_anuvṛdh_SPr3O  // mucyamānam_muc_SAPaPrNePv ṛṇam_ṛṇ"
+  },
+  {
+    "index": 46122,
+    "sanskrit": "kenacitkarmadoṣeṇa samprāptoyaṃ daśāmimām | tadbhuktvā paramaṃ śreyaḥ prāpsyate tvadanugrahāt ||",
+    "english": "33. Through some defect in his past actions he has attained this plight. After experiencing it he will surely attain glory, thanks to your bliss.",
+    "morphology": "kenacid_kaścit_SIM karma_karman_Cp doṣeṇa_doṣa_SIM samprāptaḥ_samprāp_SNPaM yam_idam_SNF daśām_daśā_SAF imām_idam_SAF  / tat_tad_SANe bhuktvā_bhuj_Co paramam_parama_SANe śreyaḥ_śreyas_SANe prāpsyate_prāp_SFu3In tvad_tvad_Cp anugrahā"
+  },
+  {
+    "index": 46123,
+    "sanskrit": "punar yāsyanti araṇyāya kaunteyāḥ tam anuvratāḥ",
+    "english": "If brought hither (alive), vanquished once more at dice, the Pandavas will once more go to the woods, for they are all obedient to Yudhishthira.",
+    "morphology": "punar_punar_U"
+  },
+  {
+    "index": 46124,
+    "sanskrit": "laukikaṃ vaidikaṃ vāpi tathādhyātmikam eva vā / ādadīta yato jñānaṃ na taṃ druhyet kadācana //",
+    "english": "Let (a student) never grieve that man from whom he has obtained worldly knowledge (relating to poetry, rhetoric, and the like subjects), sacred knowledge (relating to the Vedas and Vedângas), or knowledge of the Supreme Spirit.",
+    "morphology": "laukikam_laukika_SANe vaidikam_vaidika_SANe vā_vā_ api_api_ tathā_tathā_ ādhyātmikam_ādhyātmika_SANe eva_eva_ vā_vā_  / ādadīta_ādā_SPr3O yatas_yatas_ jñānam_jñāna_SANe na_na_ tam_tad_SAM druhyet_druh_SPr3O kadācana_kadācana_  /"
+  },
+  {
+    "index": 46125,
+    "sanskrit": "tatas abravīt mahā tejāḥ vyāsaḥ dharma ātmajam nṛpam yathākālam yathāyogam sajjāḥ sma tava dīkṣaṇe",
+    "english": "Then Vyasa of great energy said unto the royal son of Dharma,--'As regards ourselves, we are all prepared to initiate thee in view of the sacrifice.",
+    "morphology": "tatas_tatas_U abravīt_brū_SPs3In mahā_mahat_Cp tejāḥ_tejas_SNM vyāsaḥ_vyāsa_SNM dharma_dharma_MCp ātmajam_ātmaja_SAM nṛpam_nṛpa_SAM yathākālam_yathākālam_U yathāyogam_yathāyogam_U sajjāḥ_sajja_PNM sma_sma_U tava_tvad_SG dīkṣaṇ"
+  },
+  {
+    "index": 46126,
+    "sanskrit": "satyam / arthavādaḥ / amutra agneḥ sakāśād bhṛgor janma śrutaṃ taddarśanenaivam uktam /",
+    "english": "True; but what was stated there was an imaginary commendation, while what is said here is in accordance with the account found in the Vedas of Bhṛgu having been born out of fire.",
+    "morphology": "satyam_satya_SNNe  / arthavādaḥ_arthavāda_SNM  / amutra_amutra_ agneḥ_agni_SGM sakāśāt_sakāśāt_ bhṛgoḥ_bhṛgu_SGM janma_janman_SNNe śrutam_śru_SNPaNe tad_tad_Cp darśanena_darśana_SINe evam_evam_ uktam_vac_SNPaNe  /"
+  },
+  {
+    "index": 46127,
+    "sanskrit": "agnihotra phalāḥ vedāḥ datta bhukta phalam dhanam",
+    "english": "Wealth is said to bear fruit when he that hath it enjoyeth it himself and giveth it away in charity.",
+    "morphology": "agnihotra_agnihotra_NeCp phalāḥ_phala_PNM vedāḥ_veda_PNM datta_dā_PaPsCp bhukta_bhuj_PaPsCp phalam_phala_SNNe"
+  }
+]

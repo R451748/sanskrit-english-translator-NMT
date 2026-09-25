@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27296,
+    "sanskrit": "tatas te pāṇḍavāḥ sarve saha kuntyā nara ṛṣabhāḥ",
+    "english": "Then those bulls among men, the Pandavas, with their mother Kunti, solicited the new lodger to narrate to them his interesting experiences.",
+    "morphology": "tatas_tatas_ te_tad_PNM pāṇḍavāḥ_pāṇḍava_PNM sarve_sarva_PNM"
+  },
+  {
+    "index": 27297,
+    "sanskrit": "yāvapyasaktāvanyonyaṃ mithaḥ saṃnamitau katham / kathaṃ sthūlo'ṇurūpaḥ syādaṇuḥ sthūlaḥ kathaṃ bhavet //",
+    "english": "It is impossible, Rama, for the reciprocation of their feelings, that never agree in their natures; the gross body has no connection with the subtile soul, nor has the rarefied soul any relation with the solid body.",
+    "morphology": "yau_yad_DuNM api_api_ asaktau_asakta_DuNM anyonyam_anyonya_SAM mithas_mithas_ saṃnamitau_saṃnamay_DuNPaM katham_katham_  / katham_katham_ sthūlaḥ_sthūla_SNM aṇu_aṇu_Cp rūpaḥ_rūpa_SNM syāt_as_SPr3O aṇuḥ_aṇu_SNM sthūlaḥ_sthūla_SNM "
+  },
+  {
+    "index": 27298,
+    "sanskrit": "utkarṣavān guṇaḥ kaścidukte yasmin pratīyate | tadudārāhvayaṃ tena sanāthā kāvyapaddhatiḥ ||",
+    "english": "75 When upon the recitation of a [ composition] a certain eminent charm is experienced, that i composition] is styled Pregnant-in-expression.' This [ charm] lends excellence to poetic style.",
+    "morphology": "utkarṣavān_utkarṣavat_SNM guṇaḥ_guṇa_SNM kaścid_kaścit_SNM ukte_vac_SLPaNe yasmin_yad_SLNe pratīyate_pratī_SPr3InPv  / tat_tad_SNNe udāra_udāra_Cp āhvayam_āhvaya_SNNe tena_tad_SINe sanāthā_sanātha_SNF kāvya_kāvya_Cp paddhatiḥ_padd"
+  },
+  {
+    "index": 27299,
+    "sanskrit": "yady apy atra kiṃcid uktam eva pratibhāti tathāpi padyagranthatvān nātīva paunaruktyam /",
+    "english": "Though what is asserted here appears to have been already said before, yet, in as much as the treatise is a metrical one, repetition cannot he very strongly objected to.",
+    "morphology": "yadi_yadi_ api_api_ atra_atra_ kiṃcid_kaścit_SNNe uktam_vac_SNPaNe eva_eva_ pratibhāti_pratibhā_SPr3In tathā_tathā_ api_api_ padya_padya_Cp grantha_grantha_Cp tvāt_tva_SBNe na_na_ atīva_atīva_ paunaruktyam_paunaruktya_SNNe  /"
+  },
+  {
+    "index": 27300,
+    "sanskrit": "āsanne 'pi ca māyāyāḥ parasmātkāraṇāttrayam | tatrāpyātmā sthito 'dhastādantarātmā ca madhyataḥ || parastātparamātmeti brahmaviṣṇumaheśvarāḥ | vartante vasavaḥ kecitparamātmapadāśrayāḥ ||",
+    "english": "66-67. In the vicinity too the three are stationed beyond Māyā: the Ātman is stationed below; the Antarātman is stationed:n the middle and the Paramātman is stationed beyond. They are Brahmā, Viṣṇu and Maheśvara. Some Vasus too are stationed in the region of Paramātman.",
+    "morphology": "āsanne_āsad_SLPaNe api_api_ ca_ca_ māyāyāḥ_māyā_SBF parasmāt_para_SBNe kāraṇāt_kāraṇa_SBNe trayam_traya_SNNe  / tatra_tatra_ api_api_ ātmā_ātman_SNM sthitaḥ_sthā_SNPaM adhastāt_adhastāt_ antarātmā_antarātman_SNM ca_ca_ madhyatas"
+  },
+  {
+    "index": 27301,
+    "sanskrit": "aśma yuddheṣu kuśalāḥ na etat jānāti sātyakiḥ",
+    "english": "Satyaki is ignorant of this mode of warfare.",
+    "morphology": "aśma_aśman_MCp yuddheṣu_yuddha_PLNe kuśalāḥ_kuśala_PNM"
+  },
+  {
+    "index": 27302,
+    "sanskrit": "ātmā kṣetrajñaḥ iti uktaḥ saṃyuktaḥ prākṛtaiḥ guṇaiḥ",
+    "english": "When the Soul becomes endued with vulgar attributes, it comes to be called Kshetrajna.",
+    "morphology": "ātmā_ātman_SNM kṣetrajñaḥ_kṣetrajña_SNM iti_iti_U uktaḥ_vac_SNPaPsM"
+  },
+  {
+    "index": 27303,
+    "sanskrit": "tatas sāṃyamaniḥ kruddhaḥ dṛṣṭvā nihatam ātmajam abhidudrāva vegena pāñcālyam yuddha durmadam",
+    "english": "Then Samyamani, excited with rage upon beholding his own son slain, impetuously rushed towards the prince of Panchala who was incapable of defeat in battle.",
+    "morphology": "tatas_tatas_U sāṃyamaniḥ_sāṃyamani_SNM kruddhaḥ_krudh_SNPaPsM dṛṣṭvā_dṛś_Co nihatam_nihan_SAPaPsM ātmajam_ātmaja_SAM abhidudrāva_abhidru_SPs3In vegena_vega_SIM pāñcālyam_pāñcālya_SAM yuddha_yuddha_NeCp durmadam_durmada_SAM"
+  }
+]

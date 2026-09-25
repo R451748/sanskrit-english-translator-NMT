@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1112,
+    "sanskrit": "purīṣam asṛjan ke cit ke cit mūtram prasusruvuḥ",
+    "english": "some wandered here and there without any purpose.",
+    "morphology": "purīṣam_purīṣa_SANe asṛjan_sṛj_PPs3In"
+  },
+  {
+    "index": 1113,
+    "sanskrit": "ato vyākhyeyo 'yaṃ ślokaḥ / ucyate /",
+    "english": "For these reasons some other explanation, has to be found for this verse.",
+    "morphology": "atas_atas_ vyākhyeyaḥ_vyākhyā_SNMGd ayam_idam_SNM ślokaḥ_śloka_SNM  /"
+  },
+  {
+    "index": 1114,
+    "sanskrit": "te śacī arthe mahā indreṇa yācitaḥ sa paraṃtapaḥ amoghayā mahā rāja śaktyā parama bhīmayā",
+    "english": "for Sachi's gratification Indra begged them of that repressor of foes, in exchange, O king, of an infallible and terrible shaft.",
+    "morphology": "te_tad_PNM śacī_śacī_FCp arthe_artha_SLM mahā_mahat_Cp indreṇa_indra_SIM yācitaḥ_yāc_SNPaPsM sa_tad_SNM paraṃtapaḥ_paraṃtapa_SNM amoghayā_amogha_SIF mahā_mahat_Cp rāja_rājan_MCp śaktyā_śakti_SIF parama_parama_Cp bhīmayā_bhīma_SIF"
+  },
+  {
+    "index": 1115,
+    "sanskrit": "tasmin ayutaśas rājan bhūyas ca sa paraṃtapaḥ bhīṣmaḥ śāṃtanavaḥ yodhān jaghāna parama astra vid",
+    "english": "On that day, O scorcher of foes, Santanu's son, Bhishma, conversant with high and mighty weapons, repeatedly slew thousands upon thousands of warriors.",
+    "morphology": "tasmin_tad_SLM ayutaśas_ayutaśas_U rājan_rājan_SVM bhūyas_bhūyas_U ca_ca_U sa_tad_SNM paraṃtapaḥ_paraṃtapa_SNM bhīṣmaḥ_bhīṣma_SNM śāṃtanavaḥ_śāṃtanava_SNM yodhān_yodha_PAM jaghāna_han_SPs3In parama_parama_Cp astra_astra_NeCp"
+  },
+  {
+    "index": 1116,
+    "sanskrit": "vida devāḥ aghānām ādityāsaḥ apa ākr̥tim pakṣā vayaḥ yathā upari vi asme iti śarma yacchata anehasaḥ vaḥ ūtayaḥ su ūtayaḥ vaḥ ūtayaḥ",
+    "english": "O Gods, Âdityas, well ye know the way to keep all woes afar. As the birds spread their sheltering wings, spread your protection over us.",
+    "morphology": "vida_vid_PPs2In devāḥ_deva_PVM aghānām_agha_PGNe ādityāsaḥ_āditya_PVM apa_apa_U ākr̥tim_ākrāti_SAF pakṣā_pakṣa_DuAM vayaḥ_vi_PNM yathā_yathā_U upari_upari_U vi_vi_U asme_mad_PD iti_iti_U śarma_śarman_SANe yacchata_yam_PPr2Im anehas"
+  },
+  {
+    "index": 1117,
+    "sanskrit": "tatra dvitīya home chotrakā nānādevatā yajati maitrāvaruṇo mitrāvaruṇā mitraṃ vayaṃ havāmahaityādiyājyābhireva darśayati /",
+    "english": "Sutra The mantra will have to be applied in accordance with the Deity to whom the offering has been made because the offerings to the other Deities are shown to have their archetype in the offering made to Indra. In connection with the eating of the Soma dedicated to other Deities than Indra, the mantra is to be repeated with the necessary modifications because the offerings to the other Deities are mere ectypes of the offering to Indra.",
+    "morphology": "tatra_tatra_ dvitīya_dvitīya_Cp home_homa_SLM chotrakāḥ_chotraka_PNM nānā_nānā_ devatāḥ_devatā_PAF yajati_yaj_SPr3In maitrāvaruṇaḥ_maitrāvaruṇa_SNM mitrāvaruṇāḥ_mitrāvaruṇa_PVM mitram_mitra_SAM vayam_mad_PN havāmahe_hvā_PPr1"
+  },
+  {
+    "index": 1118,
+    "sanskrit": "na ādau saṃgrāhyam udriktam yat asṛj balinaḥ aśnataḥ tat pāṇḍu grahaṇī kuṣṭha plīha gulma jvara āvaham",
+    "english": "It is improper to arrest the emission of blood immediately at the outset of the disease if the patient be a sufficiently strong man, in as much as such a procedure may bring on an attack of[1] Pandu-roga, Grahani, Kushtha (cutaneous diseases), Gulma, or fever or enlargement of the spleen.",
+    "morphology": "na_na_U ādau_ādi_SLM saṃgrāhyam_saṃgrah_SNNeGd udriktam_udric_SNPaPsNe yat_yad_SNNe asṛj_asṛj_SANe balinaḥ_balin_SGM aśnataḥ_aś_SGPaPrM tat_tad_SNNe pāṇḍu_pāṇḍu_Cp grahaṇī_grahaṇī_FCp kuṣṭha_kuṣṭha_MCp plīha_plīha"
+  },
+  {
+    "index": 1119,
+    "sanskrit": "sūta uvāca | śṛṇudhvaṃ munayaḥ sarve sāvadhānatayādhunā | sarvaṃ vadāmi saṃprītyā dhanyā yūyaṃ śivavratāḥ ||",
+    "english": "2. O sages, all of you please hear now attentively. With pleasure I shall explain everything. All of you who take up Śiva’s sacred rites are really blessed.",
+    "morphology": "sūtaḥ_sūta_SNM uvāca_vac_SPs3In  / śṛṇudhvam_śru_PPr2Im munayaḥ_muni_PVM sarve_sarva_PVM sāvadhāna_sāvadhāna_Cp tayā_tā_SIF adhunā_adhunā_  / sarvam_sarva_SANe vadāmi_vad_SPr1In saṃprītyā_samprīti_SIF dhanyāḥ_dhanya_PNF yūyam"
+  }
+]

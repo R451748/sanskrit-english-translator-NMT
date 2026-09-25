@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41248,
+    "sanskrit": "na nūnam asti no iti śvaḥ kaḥ tat veda yat adbhutam anyasya cittam abhi sam careṇyam uta ādhītam vi naśyati",
+    "english": "NAUGHT is to-day, to-morrow naught. Who comprehends the mystery? We must address ourselves unto another's thought, and lost is then the hope we formed.",
+    "morphology": "na_na_U nūnam_nūnam_U asti_as_SPr3In no_no_U iti_iti_U śvas_śvas_U kaḥ_ka_SNM tat_tad_SANe veda_vid_SPs3In yat_yad_SNNe adbhutam_adbhuta_SNNe anyasya_anya_SGM cittam_citta_SANe abhi_abhi_U sam_sam_U careṇyam_careṇya_SNNe uta_uta_U ādhītam_ādh"
+  },
+  {
+    "index": 41249,
+    "sanskrit": "cijjagadvalanaṃ paśya barhyaṇḍe rasabarhiṇam / yathā jagati cittattvaṃ cittattve yajjagattathā / nānā'nānātmakaikaṃ ca mayūrāṇḍaraso yathā //",
+    "english": "Know the world to be compressed under the category of the Intellect, as the Intellect also is assimilated with the works of creation;in the same manner as is the relation of the feather and moisture, the one being the production and the other the producer of one another.",
+    "morphology": "cit_cit_Cp jagat_jagant_Cp valanam_valana_SAM paśya_paś_SPr2Im barhi_barhin_Cp aṇḍe_aṇḍa_SLNe rasa_rasa_Cp barhiṇam_barhin_SAM  / yathā_yathā_ jagati_jagant_SLNe cit_cit_Cp tattvam_tattva_SNNe cit_cit_Cp tattve_tattva_SLNe yat_yad_SNNe jagat_"
+  },
+  {
+    "index": 41250,
+    "sanskrit": "naca teṣāṃ nivṛttau parokṣasya deśakālasvabhāvaviprakṛṣṭasya nivṛttir astīti /",
+    "english": "and the absence of these is not followed by the absence or negation of things removed in time, place and nature;",
+    "morphology": "na_na_ ca_ca_ teṣām_tad_PGM nivṛttau_nivṛtti_SLF parokṣasya_parokṣa_SGM deśa_deśa_Cp kāla_kāla_Cp svabhāva_svabhāva_Cp viprakṛṣṭasya_viprakṛṣ_SGPaM nivṛttiḥ_nivṛtti_SNF asti_as_SPr3In iti_iti_  /"
+  },
+  {
+    "index": 41251,
+    "sanskrit": "dugdhe 'smā ityādyuktārtham //",
+    "english": "For him Speech yields milk etc, etc,this has been already explained above",
+    "morphology": "dugdhe_dugdha_SLNe asmai_idam_SDM ityādi_ityādi_SNNe "
+  },
+  {
+    "index": 41252,
+    "sanskrit": "tvam ca mātar yathā satyam bravīmi bhujaga uttame",
+    "english": "Do thou also listen to me, O mother. I say the truth, O best of all daughters of the snakes.",
+    "morphology": "tvam_tvad_SN ca_ca_U mātar_mātṛ_SVF"
+  },
+  {
+    "index": 41253,
+    "sanskrit": "madhye kurūṇām sa mayā uktaḥ tathā iti tatra dyūtam abhavat naḥ jaghanyam",
+    "english": "Thus addressed by the prince, I replied unto him in the midst of all the Kurus, 'So be it!' The wretched game then commenced.",
+    "morphology": "madhye_madhya_SLNe kurūṇām_kuru_PGM sa_tad_SNM mayā_mad_SI uktaḥ_vac_SNPaPsM tathā_tathā_U iti_iti_U tatra_tatra_U dyūtam_dyūta_SNNe abhavat_bhū_SPs3In naḥ_mad_PG"
+  },
+  {
+    "index": 41254,
+    "sanskrit": "nocchiṣṭam aśnīyāt //",
+    "english": "Nor eat the leaving of his food.",
+    "morphology": "na_na_ ucchiṣṭam_ucchiṣṭa_SANe aśnīyāt_aś_SPr3O"
+  },
+  {
+    "index": 41255,
+    "sanskrit": "vauṣaḍaṃtena mūlena punaḥ prakṣālya kartarīm | haste śiṣyasya caitanyaṃ taddehe vinivartayet ||",
+    "english": "40. Then with the basic mantra ending with Vauṣaṭ he shall wash the scissors and hands. He shall restore the consciousness of the disciple to his body.",
+    "morphology": "__vauṣaṭ_U __anta_U __mūla_U punar_punar_U prakṣālya_prakṣālay_CoU __kartarī_U  / __hasta_U __śiṣya_U __caitanya_U __tad_U __deha_U __vinivartay_SPr3O"
+  }
+]

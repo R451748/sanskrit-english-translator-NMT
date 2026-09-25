@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48824,
+    "sanskrit": "jvaritānām śunā sakhyam kapi sakhyam tu śoṣiṇām |",
+    "english": "A fever patient dreaming of friendship with a dog, a consumptive one dreaming of making friends with a monkey or a monster; a hysteric patient who dreams of making friendship with a ghost; a Prameha or dysentery patient dreaming of drinking water; a leper dreaming of drinking oil, or a Gulma patient dreaming of a tree grow-on his belly, should count his days as numbered.",
+    "morphology": "jvaritānām_jvaray_PGPaPsM śunā_śvan_SIM sakhyam_sakhya_SNNe kapi_kapi_MCp sakhyam_sakhya_SNNe tu_tu_U śoṣiṇām_śoṣin_PGM"
+  },
+  {
+    "index": 48825,
+    "sanskrit": "pūrvavikalpānām uttaravyañjanoccaraṇakāle'navasthānam uccāraṇānantaram eva vinaṣṭatvād ityāśankāvyudāsārtham āha avicchinnoccāraṇatayeti /",
+    "english": "order to dispel the uncertainty that a preceding articulation does not remain at the time that subsequent syllables are articulated because they pass away immediately after they are articulated, he says as an uninterrupted articulation.",
+    "morphology": "__pūrva_U __vikalpa_U __uttara_U __vyañjana_U __uccaraṇa_U __kāla_U __anavasthāna_U __uccāraṇa_U __anantara_U eva_eva_U __vinaś_PaU __tva_U iti_iti_U __āśankā_U __vyudāsa_U __artha_U āha_ah_SPs3In __avicchinna_U __uccāraṇa_U __tā_U iti_i"
+  },
+  {
+    "index": 48826,
+    "sanskrit": "śuklādiguṇaviśeṣabandhas tu padāntarād avagamyate /",
+    "english": "If the relation of a cow to a specific attribute such as the colour 'white' etc..",
+    "morphology": "śukla_śukla_Cp ādi_ādi_Cp guṇa_guṇa_Cp viśeṣa_viśeṣa_Cp bandhaḥ_bandha_SNM tu_tu_ pada_pada_Cp antarāt_antara_SBNe"
+  },
+  {
+    "index": 48827,
+    "sanskrit": "evam eṣa purāvṛttaḥ itihāsaḥ agni śāpa jaḥ pulomasya vināśaḥ ca cyavanasya ca saṃbhavaḥ",
+    "english": "And such is the ancient history connected with the destruction of the Rakshasa, Pauloma and the birth of Chyavana.'\" Thus endeth the seventh section of the Pauloma Parva of the Adi Parva of the blessed Mahabharata.",
+    "morphology": "evam_evam_U eṣa_etad_SNM purāvṛttaḥ_purāvṛtta_SNM itihāsaḥ_itihāsa_SNM agni_agni_MCp śāpa_śāpa_MCp jaḥ_ja_SNM pulomasya_puloma_SGM vināśaḥ_vināśa_SNM ca_ca_U cyavanasya_cyavana_SGM ca_ca_U saṃbhavaḥ_sambhava_SNM"
+  },
+  {
+    "index": 48828,
+    "sanskrit": "śivadrohiṇamālokya daṣṭadaṃto yamaḥ svayam | taptatailakaṭāheṣu pātayatyeva nānyathā ||",
+    "english": "47. On seeing an enemy of Śiva, Yama gnashes his teeth. He puts him in cauldrons of oil and not otherwise.",
+    "morphology": "śiva_śiva_Cp drohiṇam_drohin_SAM ālokya_ālokay_Co daṣṭa_daṃś_PaCp dantaḥ_danta_SNM yamaḥ_yama_SNM svayam_svayam_  / tapta_tap_PaCp taila_taila_Cp kaṭāheṣu_kaṭāha_PLM pātayati_pātay_SPr3In eva_eva_ na_na_ anyathā_anyathā_"
+  },
+  {
+    "index": 48829,
+    "sanskrit": "tatas duryodhanaḥ kruddhaḥ gadām udyamya vegitaḥ vidhitsuḥ kalahasya antam abhidudrāva pāṇḍavam",
+    "english": "Then Duryodhana, filled with wrath, uplifting a mace of great impetuosity, rushed at king Yudhishthira the just, for ending the hostilities (that raged between the Kurus and the Pandus).",
+    "morphology": "tatas_tatas_U duryodhanaḥ_duryodhana_SNM kruddhaḥ_krudh_SNPaPsM gadām_gadā_SAF udyamya_udyam_Co vegitaḥ_vegita_SNM vidhitsuḥ_vidhitsu_SNM kalahasya_kalaha_SGM antam_anta_SAM abhidudrāva_abhidru_SPs3In pāṇḍavam_pāṇḍava_SAM"
+  },
+  {
+    "index": 48830,
+    "sanskrit": "ālokya sarvaśāstrāṇi vicārya ca punaḥpunaḥ | idameva suniṣpannaṃ dhyeyo nārāyaṇaḥ sadā || 116 ||",
+    "english": "116. After viewing all scriptures and having thought repeatedly this (conclusion) has been arrived at: Nārāyaṇa should always be meditated upon.",
+    "morphology": "ālokya_ālokay_Co sarva_sarva_Cp śāstrāṇi_śāstra_PANe vicārya_vicāray_Co ca_ca_ punar_punar_ punar_punar_  / idam_idam_SNNe eva_eva_ su_su_ niṣpannam_niṣpad_SNPaNe dhyeyaḥ_dhyā_SNMGd nārāyaṇaḥ_nārāyaṇa_SNM sadā_sadā_"
+  },
+  {
+    "index": 48831,
+    "sanskrit": "dhanam ca asmai daduḥ bhūri prīyamāṇāḥ mahā rathāḥ",
+    "english": "And those mighty car-warriors highly gratified with him, made large gifts of wealth unto him.",
+    "morphology": "dhanam_dhana_SANe ca_ca_U asmai_idam_SDM daduḥ_dā_PPs3In bhūri_bhūri_SANe prīḥ_prī_PNPaPrMPv"
+  }
+]

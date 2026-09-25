@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2320,
+    "sanskrit": "namaḥ astu te dvādaśa netra bāho",
+    "english": "I salute thee who art possessed of twelve eyes and many hands.",
+    "morphology": "namaḥ_namas_SNNe"
+  },
+  {
+    "index": 2321,
+    "sanskrit": "aśvāścaivāpyakalmāṣā vāyuvegāḥ suvarcasaḥ | aṃgatrāṇasamāyuktāḥ śataśo'tha sahasraśaḥ || 100 ||",
+    "english": "100. The marvellous horses of variegated colour with speed similar to. the wind, a swollen army comprising thousands of soldiers with their bodies equipped with defensive guards, was presenting a scene of vigour and energy.",
+    "morphology": "aśvāḥ_aśva_PNM ca_ca_ eva_eva_ api_api_ akalmāṣāḥ_akalmāṣa_PNM vāyu_vāyu_Cp vegāḥ_vega_PNM su_su_ varcasaḥ_varcas_PNM  / aṃga_aṅga_Cp trāṇa_trāṇa_Cp samāyuktāḥ_samāyuj_PNPaM śataśas_śataśas_ atha_atha_ sahasraśas_sa"
+  },
+  {
+    "index": 2322,
+    "sanskrit": "viṃśatiḥ saptaśatakāḥ sahitā dīpavartayaḥ | dadaddīpaṃ pūrṇimāyāṃ sarvapāpaiḥ pramucyate || 39 ||",
+    "english": "39. One who offers a lamp with seven hundred and twenty lighted wicks on the full-moon day, shall be liberated from all sins.",
+    "morphology": "viṃśatiḥ_viṃśati_SNF sapta_saptan_Cp śatakāḥ_śataka_PNF sahitāḥ_sahita_PNF dīpa_dīpa_Cp vartayaḥ_vartī_PNF  / dadat_dā_SNPaPrNe dīpam_dīpa_SAM pūrṇimāyām_pūrṇimā_SLF sarva_sarva_Cp pāpaiḥ_pāpa_PINe pramucyate_pramuc_SPr"
+  },
+  {
+    "index": 2323,
+    "sanskrit": "indrasya suṣuvāṇasya daśadhendriyaṃ vīryam parāpatat tad devāḥ sautrāmaṇyā sam abharan |",
+    "english": "When Indra had been consecrated, his power and strength fell away in ten places; the gods brought it together with the Sautramani;",
+    "morphology": "indrasya_indra_SGM suṣuvāṇasya_su_SGPaPsM daśadhā_daśadhā_ indriyam_indriya_SNNe vīryam_vīrya_SNNe parāpatat_parāpat_S3ImIn tat_tad_SANe devāḥ_deva_PNM sautrāmaṇyā_sautrāmaṇī_SIF saṃ_sam_ abharan_bhṛ_P3ImIn "
+  },
+  {
+    "index": 2324,
+    "sanskrit": "ahaṃ kevalamekānte dhyānaikagatamānasaḥ / vāgīśvarīkadambasya tale tiṣṭhāmi śailavat //",
+    "english": "I only have been sitting alone, devoutly intent upon meditation; and have remained as motionless as a stone, beneath this kadamba tree, which is sacred to the goddess of speech.",
+    "morphology": "aham_mad_SN kevalam_kevalam_ ekānte_ekānta_SLM dhyāna_dhyāna_Cp eka_eka_Cp gata_gam_PaCp mānasaḥ_mānasa_SNM  / vāgīśvarī_vāgīśvarī_Cp kadambasya_kadamba_SGM tale_tala_SLM tiṣṭhāmi_sthā_SPr1In śaila_śaila_Cp vat_vat_"
+  },
+  {
+    "index": 2325,
+    "sanskrit": "tasmādyadyapi paramārthato nābhidhīyete tathā'pi śākhe 'bhihitavadāśrayaṇāinabhihitādhikāravihita bibhakto na lakṣyete iti parihṛtaḥ kārakavibhaktiprasaṅgaḥ /",
+    "english": "you have, to show that it is not so denoted ? Answer We did that for the sake of with reference to ordinary parlance of the world, and for the Veda,and not for grammatical purposes. Question Are the purposes of grammar something different from those of ordinary life and the Veda ?. Answer Certainly for instance, such technical words as Vrddhi and Guna are not found, either in ordinary parlance or in the Veda, to denote ataic and aten respectively. Objection It is only natural that the word la should be used for the lādēças the substitutes for la, i.e. the affixes tip and the rest as it is a general rule that the attributing of a certain meaning to the original i.e.",
+    "morphology": "tasmāt_tasmāt_ yadi_yadi_ api_api_ paramārthataḥ_paramārtha_SBM na_na_ abhidhīyete_abhidhā_DuPr3InPv tathā_tathā_ api_api_ śākhe_śākhā_DuNF na_na_ lakṣyete_lakṣay_DuPr3InPv iti_iti_ parihṛtaḥ_parihṛ_SNPaM kāraka_kāraka_Cp vibhakt"
+  },
+  {
+    "index": 2326,
+    "sanskrit": "(1) artha-pratisaṃvit katamā?",
+    "english": "(1) The analytical knowledge of meaning is what?",
+    "morphology": "aḥ_"
+  },
+  {
+    "index": 2327,
+    "sanskrit": "nivṛtta roṣe tasmin tu bhagavati aparājite sā kanyā api jagāma atha samīpāt tasya dhīmataḥ",
+    "english": "And upon that, invincible and illustrious Lord having shaken off his wrath, that damsel left the presence of that wise Deity.",
+    "morphology": "nivṛtta_nivṛt_PaPsCp roṣe_roṣa_SLM tasmin_tad_SLM tu_tu_U bhagavati_bhagavat_SLM aparājite_aparājita_SLM sā_tad_SNF kanyā_kanyā_SNF api_api_U jagāma_gam_SPs3In atha_atha_U samīpāt_samīpa_SBNe tasya_tad_SGM dhīmataḥ_dhīmat_SGM"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23608,
+    "sanskrit": "droṇa karṇau pratīyātām yadi bhīṣmaḥ api vā raṇe",
+    "english": "If Drona, or Karna, or even Bhishma advance against him in battle, a great calamity is likely to befall the earth.",
+    "morphology": "droṇa_droṇa_MCp karṇau_karṇa_DuNM pratīyātām_pratī_DuPr3O"
+  },
+  {
+    "index": 23609,
+    "sanskrit": "kalpayitvāsya vṛttiṃ ca rakṣed enaṃ samantataḥ / rājā hi dharmaṣaḍbhāgaṃ tasmāt prāpnoti rakṣitāt //",
+    "english": "Having provided a living for him, the king shall protect him in every way; since he obtains, from the person thus protected, the sixth part of his spiritual merit.",
+    "morphology": "kalpayitvā_kalpay_Co asya_idam_SGM vṛttim_vṛtti_SAF ca_ca_ rakṣet_rakṣ_SPr3O enam_enad_SAM samantataḥ_samantataḥ_  / rājā_rājan_SNM hi_hi_ dharma_dharma_Cp ṣaḍbhāgam_ṣaḍbhāga_SAM tasmāt_tad_SBM prāpnoti_prāp_SPr3In ā_ā_ "
+  },
+  {
+    "index": 23610,
+    "sanskrit": "hrasvadantyo vidaṃtyaśca dīrghadantyo vibhīṣaṇāḥ | gajadaṃtyastathaivānyā lohadaṃtyobhayāvahāḥ || 32 ||",
+    "english": "32. There were terribly hideous beings with short teeth, long teeth and peculiar types of teeth. Others were frightening with elephant teeth and teeth like steel.",
+    "morphology": "hrasva_hrasva_Cp dantyaḥ_dantī_PNF vidaṃtyaḥ_vidantī_PNF ca_ca_ dīrgha_dīrgha_Cp dantyaḥ_dantī_PNF vibhīṣaṇāḥ_vibhīṣaṇa_PNF  / gaja_gaja_Cp dantyaḥ_dantī_PNF tathā_tathā_ eva_eva_ anyāḥ_anya_PNF loha_loha_Cp dantyāḥ_dan"
+  },
+  {
+    "index": 23611,
+    "sanskrit": "etāvaduktvā virate mṛgendre pratisvanenāsya guhāgatena /",
+    "english": "When the lord of beasts had ceased, having said this much, the mountain too, on account of the echo of his words resounding in the caves, seemed affectionately and loudly to say the very same thing to the king.",
+    "morphology": "etāvat_etāvat_SANe uktvā_vac_Co virate_viram_SLPaM mṛgendre_mṛgendra_SLM pratisvanena_pratisvana_SIM asya_idam_SGM guhā_guhā_Cp gatena_gam_SIPaM"
+  },
+  {
+    "index": 23612,
+    "sanskrit": "ete smṛtā viśeṣāḥ /",
+    "english": "These arc called specific.",
+    "morphology": "ete_etad_PNM"
+  },
+  {
+    "index": 23613,
+    "sanskrit": "tatas sa cetanaḥ jantuḥ na abhijānāti kim cana",
+    "english": "The creature then, though still endued with the principle of consciousness, fails to know anything.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 23614,
+    "sanskrit": "dṛṣṭvā ca taṃ smarāviṣṭaṃ ceṭīnām atra sā mukham / adrākṣīt tāś ca tatkālam iṅgitajñās tam abruvan // atithis tvam iha prāptas tad asmatsvāminīkṛtam / bhajasvātithyam uttiṣṭha snāhi bhuṅksva tataḥ param // tac chrutvā so 'valambyāśāṃ khatam apy utthitas tataḥ / yayau pradarśitāṃ tābhir ekām udyānavāpikām //",
+    "english": "And when she saw that he was enamoured of her, she looked at the faces of her attendants, and then they, understanding the expression of her face, said to him: “You have arrived here as a guest, so enjoy the hospitality provided by our mistress. Rise up, bathe, and then take food.” When he heard that, he entertained some hope, and he rose up, though not without a struggle, and he went to a tank in the garden which they showed him.",
+    "morphology": "dṛṣṭvā_dṛś_Co ca_ca_ tam_tad_SAM smara_smara_Cp āviṣṭam_āviś_SAPaM ceṭīnām_ceṭī_PGF atra_atra_ sā_tad_SNF mukham_mukha_SANe  / adrākṣīt_dṛś_SPs3InFs tāḥ_tad_PNF ca_ca_ tad_tad_Cp kālam_kāla_SAM iṅgita_iṅgita_Cp jñ"
+  },
+  {
+    "index": 23615,
+    "sanskrit": "sa vadhyamānaḥ samare bhāradvājena sātyakiḥ na abhyapadyata kartavyam kim cit eva viśām pate",
+    "english": "Thus struck in that battle by the son of Bharadwaja, Satyaki, O monarch, knew not what to do.",
+    "morphology": "sa_tad_SNM vadhyamānaḥ_vadh_SNPaPrMPv samare_samara_SLNe bhāradvājena_bhāradvāja_SIM sātyakiḥ_sātyaki_SNM na_na_U abhyapadyata_abhipad_SPs3In kartavyam_kṛ_SANeGd"
+  }
+]

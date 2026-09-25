@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18496,
+    "sanskrit": "dvāvetau rāma susamāvantaścet pariśītalau /",
+    "english": "‘Both of them, O Rāma, are perfectly equal, provided they are absolutely cool within.",
+    "morphology": "dvau_dvi_DuNM etau_etad_DuNM rāma_rāma_SVM su_su_ samāvantaḥ_samāvat_PNM "
+  },
+  {
+    "index": 18497,
+    "sanskrit": "sāṣṭa māsam hi naḥ varṣam yat enān upayuñjmahe",
+    "english": "We have been feeding on them for a year together and eight months.",
+    "morphology": "sāḥ_sāḥ_SNM"
+  },
+  {
+    "index": 18498,
+    "sanskrit": "kṛtvā tu pūjām rudrasya gaṇānām ca eva sarvaśas yayau vyāsam puraskṛtya nṛpaḥ ratna nidhim prati",
+    "english": "Having performed the worship of Rudra and of all the Ganas, the king, placing Vyasa PART I ahead, proceeded towards the place where the treasure was buried.",
+    "morphology": "kṛtvā_kṛ_Co tu_tu_U pūjām_pūjā_SAF rudrasya_rudra_SGM gaṇānām_gaṇa_PGM ca_ca_U eva_eva_U sarvaśas_sarvaśas_U yayau_yā_SPs3In vyāsam_vyāsa_SAM puraskṛtya_puraskṛ_Co"
+  },
+  {
+    "index": 18499,
+    "sanskrit": "ātmanaḥ pratirūpāṇi rūpāṇi atha mahātmani parasparasya ca apaśyan sarve parama vismitāḥ",
+    "english": "Beholding in that high-souled one those diverse forms that each had individually conceived in own heart, all of them became filled with wonder.",
+    "morphology": "ātmanaḥ_ātman_SGM pratirūpāṇi_pratirūpa_PANe rūpāṇi_rūpa_PANe atha_atha_U mahātmani_mahātman_SLM parasparasya_paraspara_SGM ca_ca_U apaśyan_paś_PPs3In sarvāṇi_sarva_PNNe"
+  },
+  {
+    "index": 18500,
+    "sanskrit": "saṅkaṭenāśucinā mārgeṇa nirgacchatauti kliśyate jagat /",
+    "english": "Again [the embryo] leaves [the womb] by a narrow and impure channel and in this manner, too, the world is defiled.",
+    "morphology": "saṅkaṭena_saṃkaṭa_SINe aśucinā_aśuci_SIM mārgeṇa_mārga_SIM nirgacchata_nirgam_SPr3In auti_auti_"
+  },
+  {
+    "index": 18501,
+    "sanskrit": "idam api vaktavyam kiṃ punar etad brāhmaṇatvaṃ nāma, tathā katarad etad gotraṃ nāma / yathaiva samāne puruṣatve brāhmaṇatvādiviśeṣaḥ, evaṃ samāne brāhmaṇatve vasiṣṭhādigotrabhedaḥ, pratigotraṃ ca samānārṣeyāṇi / yasyaitad gotraṃ tasya taiḥ śabdaiḥ pravarāśrayaṇaṃ kartavyam /",
+    "english": "Well, you are asking too little; you might as well ask \"What is a Brāhmaṇa?\" \"What is a gotra?\" In fact, just as the generic character of \"man\" being equally present in all men, the \"Brāhmaṇa\" and the rest constitute the particular species included under that generic character, exactly in the same manner, the generic character of \"Brāhmaṇa\" being common among a number of men,\"Vaśiṣṭha\" and the rest come in as specific subdivisions; and related to each \"gotra\" there are a few names of \"Ṛṣis;\" and the person who belongs to a certain \"gotra\" has to connect himself with these Ṛṣinames, which are called his \"pravara\" This same is the meaning of the term \"pravara\" in connection with the prohibition of marriage.",
+    "morphology": "idam_idam_SNNe api_api_ vaktavyam_vac_SNNeGd kim_ka_SNNe punar_punar_ etat_etad_SNNe brāhmaṇa_brāhmaṇa_Cp tvam_tva_SNNe nāma_nāma_ tathā_tathā_ katarat_katara_SNNe etat_etad_SNNe gotram_gotra_SNNe nāma_nāma_  / yathā_yathā_ eva_eva_ samāne_s"
+  },
+  {
+    "index": 18502,
+    "sanskrit": "agre cā'pi duruttāramavalaṃbavivarjitam | tāndraṣṭvā vismito bhūtvā dayālurvākyamabravīt || 60 ||",
+    "english": "On seeing them the compassionate Brāhmaṇa was wonder-struck and he spoke these words:",
+    "morphology": "agre_agra_SLNe ca_ca_ api_api_ duruttāram_duruttāra_SAM avalaṃba_avalamba_Cp vivarjitam_vivarjay_SAPaM  / tān_tad_PAM draṣṭvā_dṛś_Co"
+  },
+  {
+    "index": 18503,
+    "sanskrit": "uraso bāhubhyām pañcadaśaṃ nir amimīta tam indro devatānv asṛjyata triṣṭup chando bṛhat | sāma rājanyo manuṣyāṇām aviḥ paśūnām |",
+    "english": "From the breast and arms he meted out the Pañcadaça Stoma. After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of men the Rajanya, of cattle the sheep.",
+    "morphology": "urasaḥ_uras_SBNe bāhubhyām_bāhu_DuBM pañcadaśam_pañcadaśa_SAM niḥ_niḥ_ amimīta_mā_S3ImIn tam_tad_SAM indraḥ_indra_SNM devatā_devatā_SNF anu_anu_ asṛjyata_sṛj_S3ImInPv triṣṭubh_triṣṭubh_SNF chandaḥ_chandas_SNNe bṛhat_bṛh"
+  }
+]

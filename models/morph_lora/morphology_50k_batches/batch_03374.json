@@ -1,0 +1,50 @@
+[
+  {
+    "index": 26984,
+    "sanskrit": "sūryasomānvaye kaścidrājā bhavatu bhūtale || 74 ||",
+    "english": "74. Let there be some king on the earth in the solar or lunar family. Sārasvata said:",
+    "morphology": "sūrya_sūrya_Cp soma_soma_Cp anvaye_anvaya_SLM kaścid_kaścit_SNM rājā_rājan_SNM bhavatu_bhū_SPr3Im bhū_bhū_Cp tale_tala_SLM"
+  },
+  {
+    "index": 26985,
+    "sanskrit": "nanu na yuktameṣa u evetyanṛtaṃ vaktum /",
+    "english": "Any way, it was not right for him to say‘it is He Himself that is seen in the eyeperceived in all insides’,which was evidently untrue",
+    "morphology": "nanu_nanu_ na_na_ yuktam_yuj_SNPaNe eṣa_etad_SNM u_u_ eva_eva_ iti_iti_ anṛtam_anṛta_SANe vaktum_vac_In  /"
+  },
+  {
+    "index": 26986,
+    "sanskrit": "nirodhe dharma-jñānaṃ,",
+    "english": "the knowledge of cessation,",
+    "morphology": "nirodhe_nirodha_SLM"
+  },
+  {
+    "index": 26987,
+    "sanskrit": "pitu bhr̥taḥ na tantum it su dānavaḥ prati dadhmaḥ yajāmasi",
+    "english": "As nourishers we tie the thread, and, liberal with our bounty, offer sacrifice.",
+    "morphology": "pitu_pitu_MCp bhr̥taḥ_bhṛt_PNM na_na_U tantum_tantu_SAM id_id_U su_su_U dānavaḥ_dānu_PNM prati_prati_U dadhmaḥ_dhā_PPr1In yajāma_yaj_PPr1In"
+  },
+  {
+    "index": 26988,
+    "sanskrit": "madhyena tu caruṃ sthāpya pārśve paṅktiṃ pramārjayet //",
+    "english": "The gruel should be placed at the centre, the adjacent parts having been cleaned.",
+    "morphology": "madhyena_madhya_SINe tu_tu_ carum_caru_SAM sthāpya_sthāpay_Co pārśve_pārśva_SLM paṅktim_paṅkti_SAF pramārjayet_pramārjay_SPr3O  /"
+  },
+  {
+    "index": 26989,
+    "sanskrit": "nāsti gaṃgāsamaṃ tīrthaṃ nāsti devo haropamaḥ | śivarātreḥ paraṃ nāsti tapaḥ satyaṃ mayoditam || 85 ||",
+    "english": "85. There is no Tīrtha on a par with Gaṅgā; there is no other Lord comparable to Śiva; there is no penance greater than Śivarātri. It is the truth that has been uttered by me.",
+    "morphology": "na_na_ asti_as_SPr3In gaṃgā_gaṅgā_Cp samam_sama_SNNe tīrtham_tīrtha_SNNe na_na_ asti_as_SPr3In devaḥ_deva_SNM hara_hara_Cp upamaḥ_upama_SNM  / śivarātreḥ_śivarātri_SBF param_para_SNNe na_na_ asti_as_SPr3In tapaḥ_tapas_SNNe satyam_satya_"
+  },
+  {
+    "index": 26990,
+    "sanskrit": "gurorapyavaliptasya kāryākāryamajānataḥ | utpathe vartamānasya parityāgo vidhīyate || 42 ||",
+    "english": "42. “Desertion is enjoined in the case of even a preceptor who is overbearing and arrogant, who does not discriminate between what should be done and what should not be done and who adhers to wrong path.”",
+    "morphology": "guroḥ_guru_SGM api_api_ avaliptasya_avalipta_SGM kārya_kārya_Cp akāryam_akārya_SANe a_a_ jānataḥ_jñā_SGPaPrM  / utpathe_utpatha_SLM vartamānasya_vṛt_SGPaPrM parityāgaḥ_parityāga_SNM vidhīyate_vidhā_SPr3InPv "
+  },
+  {
+    "index": 26991,
+    "sanskrit": "nahi tatra kāyikī vedanā 'sti / pañcavijñānakāyābhāvāt / anyatra sā saumanasyaṃ",
+    "english": "but in the Third Dhyāṇna, bodily sensation is absent because the five sense consciousnesses are not there.",
+    "morphology": "nahi_nahi_ tatra_tatra_ kāyikī_kāyika_SNF vedanā_vedanā_SNF asti_as_SPr3In  / pañca_pañcan_Cp vijñāna_vijñāna_Cp kāya_kāya_Cp abhāvāt_abhāva_SBM  / anyatra_anyatra_ sā_tad_SNF saumanasyam_saumanasya_SNNe"
+  }
+]

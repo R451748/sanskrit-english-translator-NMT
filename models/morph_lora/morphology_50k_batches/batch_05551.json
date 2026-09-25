@@ -1,0 +1,50 @@
+[
+  {
+    "index": 44400,
+    "sanskrit": "kumbhaśabdaḥ parimāṇaviśeṣe vartate na ghaṭamātre /",
+    "english": "The term \"jar\" is used in the sense of a particular measure, and not in that of one jarful only.",
+    "morphology": "kumbha_kumbha_Cp śabdaḥ_śabda_SNM parimāṇa_parimāṇa_Cp viśeṣe_viśeṣa_SLM vartate_vṛt_SPr3In na_na_ ghaṭa_ghaṭa_Cp mātre_mātra_SLNe  /"
+  },
+  {
+    "index": 44401,
+    "sanskrit": "ahaṃ brahma paraṃ jyotiḥ suṣuptisthānavarjitam // ahaṃ brahma paraṃ jyotiḥ prājñabhāvavivarjitam /",
+    "english": "am Brahman, the Supreme Light devoid of the location of deep sleep. am Brahman, the Supreme Effulgence free from the feeling of being learned.",
+    "morphology": "aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe suṣupti_suṣupti_Cp sthāna_sthāna_Cp varjitam_varjay_SNPaNe  // aham_mad_SN brahma_brahman_SNNe param_para_SNNe jyotiḥ_jyotis_SNNe prājña_prājña_Cp bhāva_bhāva_Cp vivarjitam_"
+  },
+  {
+    "index": 44402,
+    "sanskrit": "jñātur ekasya sadbhāvād dvibhede tvanibandhanam //",
+    "english": "when however there is difference of both, there would be no basis for recognition.",
+    "morphology": "jñātuḥ_jñātṛ_SGM ekasya_eka_SGM sadbhāvāt_sadbhāva_SBM dvi_dvi_Cp bhede_bheda_SLM tu_tu_ a_a_ nibandhanam_nibandhana_SNNe  /"
+  },
+  {
+    "index": 44403,
+    "sanskrit": "kṛpaṇaṃ tu mano rājanpelave'pi nimajjati / kārye goṣpadatoye'pi jīrṇāṅgo maśako yathā //",
+    "english": "But the base and debased mind, will plunge itself in mean and vile matters of the world; as the contemptible gnat is drowned in a drop of water in a little hole.",
+    "morphology": "kṛpaṇam_kṛpaṇa_SNNe tu_tu_ manaḥ_manas_SNNe rājan_rājan_SVM pelave_pelava_SLNe api_api_ nimajjati_nimajj_SPr3In  / kārye_kārya_SLNe goṣpada_goṣpada_Cp toye_toya_SLNe api_api_ jīrṇa_jṛ_PaCp aṅgaḥ_aṅga_SNM maśakaḥ_maśaka_SNM "
+  },
+  {
+    "index": 44404,
+    "sanskrit": "na sasatveṣu garteṣu na gacchan nāpi ca sthitaḥ / na nadītīram āsādya na ca parvatamastake //",
+    "english": "Nor in holes inhabited by living creatures, nor walking, nor standing, nor on reaching the banks of a river, nor on the mountaintop.",
+    "morphology": "na_na_ sa_sa_ sattveṣu_sattva_PLM garteṣu_garta_PLM na_na_ gacchan_gam_SNPaPrM na_na_ api_api_ ca_ca_ sthitaḥ_sthā_SNPaM  / na_na_ nadī_nadī_Cp tīram_tīra_SANe āsādya_āsāday_Co na_na_ ca_ca_ parvata_parvata_Cp mastake_mastaka_SLM  /"
+  },
+  {
+    "index": 44405,
+    "sanskrit": "tasya vāyur eva samit / abhraṃ dhūmaḥ / vidyud arciḥ / aśanir aṅgārāḥ /",
+    "english": "of that Air is the ‘Fuel’, the Cloud is the ‘Soma the Lightning is the ‘Flame’, the Thunderbolt is the ‘Embers’, and the Thunderings are the ‘Sparks",
+    "morphology": "tasya_tad_SGM vāyuḥ_vāyu_SNM eva_eva_ samidh_samidh_SNF  / abhram_abhra_SNNe dhūmaḥ_dhūma_SNM  / vidyut_vidyut_SNF arciḥ_arcis_SNNe  / aśaniḥ_aśani_SNM aṅgārāḥ_aṅgāra_PNM  /"
+  },
+  {
+    "index": 44406,
+    "sanskrit": "mānuṣe pārthive loke mānuṣatvam upāgatam /",
+    "english": "In the city of Shonitpura on earth Bāna is born as a man.",
+    "morphology": "mānuṣe_mānuṣa_SLM pārthive_pārthiva_SLM loke_loka_SLM mānuṣa_mānuṣa_Cp tvam_tva_SANe upāgatam_upāgam_SAPaM"
+  },
+  {
+    "index": 44407,
+    "sanskrit": "abhyāsavaśāc cātīndriyeṣv apy artheṣu parisphuṭāḥ pratibhāsāḥ prādurbhavanto dṛśyante /",
+    "english": "We have also got a lot of examples to show that men, practising meditation upon objects which are beyond the reach of sense-organs, have clear and vivid vision of them.",
+    "morphology": "abhyāsa_abhyāsa_Cp vaśāt_vaśa_SBM ca_ca_ atīndriyeṣu_atīndriya_PLM api_api_ artheṣu_artha_PLM parisphuṭāḥ_parisphuṭa_PNM pratibhāsāḥ_pratibhāsa_PNM prādurbhavantaḥ_prādurbhū_PNPaPrM dṛśyante_dṛś_PPr3InPv  /"
+  }
+]

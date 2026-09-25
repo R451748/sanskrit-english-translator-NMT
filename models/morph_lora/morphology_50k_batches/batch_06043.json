@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48336,
+    "sanskrit": "stambhana ākṣepaṇa svāpa śopha śūlāni sarva gaḥ sthāneṣu ukteṣu saṃmiśraḥ saṃmiśrāḥ kurute rujaḥ",
+    "english": "The symptoms, which mark such conditions of the body, are numbness (paralysis), convulsive contortions of the limbs (Akshepa), anesthesia, and various kinds of pain (Shula), and swelling (Shopha) of the body.",
+    "morphology": "stambhana_stambhana_NeCp ākṣepaṇa_ākṣepaṇa_NeCp svāpa_svāpa_MCp śopha_śopha_MCp śūlāni_śūla_PANe sarva_sarva_Cp gaḥ_ga_SNM sthāneṣu_sthāna_PLNe ukteṣu_vac_PLPaPsNe saṃmiśraḥ_sammiśra_SNM saṃmiśrāḥ_sammiśra_PAF kurute"
+  },
+  {
+    "index": 48337,
+    "sanskrit": "tatrākasmāt tathābhūtā prāptā pṛṣṭā sasaṃbhramam / mātrā pitrā ca rudatī sādhvī saivam abhāṣata //",
+    "english": "When she arrived there suddenly in this state, her mother and father questioned her eagerly. And the virtuous lady, weeping, told this tale.",
+    "morphology": "tatra_tatra_ akasmāt_akasmāt_ tathā_tathā_ bhūtā_bhū_SNPaF prāptā_prāp_SNPaF pṛṣṭā_pracch_SNPaF sa_sa_ saṃbhramam_sambhrama_SANe  / mātrā_mātṛ_SIF pitrā_pitṛ_SIM ca_ca_ rudatī_rud_SNPaPrF sādhvī_sādhu_SNF sā_tad_SNF evam_eva"
+  },
+  {
+    "index": 48338,
+    "sanskrit": "tato dadau ca kavalaṃ śrīdāmā mādhavāya caanyān sarvān bahu śreṣṭhaṃ jaguḥ sarve vrajārbhakāḥ",
+    "english": "Then Śrīdāmā gave a morsel to Kṛṣṇa and the other boys. All the boys of Vraja declared, This is the best.",
+    "morphology": "tatas_tatas_ dadau_dā_SPs3In ca_ca_ kavalam_kavala_SAM śrīdāmā_śrīdāman_SNM mādhavāya_mādhava_SDM ca_ca_ anyān_anya_PAM sarvān_sarva_PAM bahu_bahu_SANe śreṣṭham_śreṣṭha_SANe jaguḥ_gā_PPs3In sarve_sarva_PNM vraja_vraja_Cp arbhakā"
+  },
+  {
+    "index": 48339,
+    "sanskrit": "āmūrtarayasaḥ tasmāt tatas bhūmiśayaḥ nṛpaḥ",
+    "english": "From Puru it was taken by Amurtarya, From Amurtarya it descended to the royal Bhumisaya.",
+    "morphology": "āmūrtarayasaḥ_āmūrtarayasa_SNM tasmāt_tad_SBM tatas_tatas_U bhūmiśayaḥ_bhūmiśaya_SNM"
+  },
+  {
+    "index": 48340,
+    "sanskrit": "dīrghaṃ yojanavistāraṃ dustaraṃ tridaśair api //",
+    "english": "It extended over a Yojana and even the celestials could not cross it.",
+    "morphology": "dīrgham_dīrgha_SANe yojana_yojana_Cp vistāram_vistāra_SANe dustara_dustara_SANe tridaśaiḥ_tridaśa_PIM api_api_  /"
+  },
+  {
+    "index": 48341,
+    "sanskrit": "sa dṛṣṭvā svāni karmāṇi kule janma ca bhārata uttiṣṭhasva viṣādam mā kṛthāḥ vīra sthiraḥ bhava na ca etat anurūpam te yat te glāniḥ ariṃdama",
+    "english": "Recollecting thy own deeds and the race also in which thou art born, arise, O Bharata, yield not, to grief, O hero, and be firm.",
+    "morphology": "sa_tad_SNM dṛṣṭvā_dṛś_Co svāni_sva_PANe karmāṇi_karman_PANe kule_kula_SLNe janma_janman_SANe ca_ca_U bhārata_bhārata_SVM uttiṣṭhasva_utthā_SPr2Im viṣādam_viṣāda_SAM mā_mā_U kṛthāḥ_kṛ_SPs2 vīra_vīra_SVM sthiraḥ_sthira"
+  },
+  {
+    "index": 48342,
+    "sanskrit": "sattva sthān pāṇḍavān paśya na te prāyam upāviśan",
+    "english": "Behold them yet alive, O king! They have not resolved to die, forgoing all food.",
+    "morphology": "sattva_sattva_NeCp sthān_stha_PAM pāṇḍavān_pāṇḍava_PAM paśya_paś_SPr2Im na_na_U te_tvad_SG prāyam_prāya_SAM upāviśan_upaviś_PPs3In"
+  },
+  {
+    "index": 48343,
+    "sanskrit": "sarva evāniśaṃ śreyo dhāvanti prāṇino balāt / parinimnaṃ payāṃsīva tadvicārya samāśrayet //",
+    "english": "All living beings, are naturally impelled towards whatever tends to their real good; as it is the nature of water to seek its own level. Therefore men should choose the company of the good for their best good.",
+    "morphology": "sarve_sarva_PNM eva_eva_ aniśam_aniśam_ śreyaḥ_śreyas_SANe dhāvanti_dhāv_PPr3In prāṇinaḥ_prāṇin_PNM balāt_bala_SBNe  / parinimnam_parinimna_SANe payāṃsi_payas_PANe iva_iva_ tat_tad_SANe vicārya_vicāray_Co samāśrayet_samāśri_SPr3O "
+  }
+]

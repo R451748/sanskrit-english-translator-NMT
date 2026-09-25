@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27624,
+    "sanskrit": "māno ’sya nihato bhavati |",
+    "english": "One’s pride is lowered.",
+    "morphology": "mānaḥ_māna_SNM"
+  },
+  {
+    "index": 27625,
+    "sanskrit": "kim ca etat manyase kṛcchram asmākam pāpam āditas kurvanti teṣām karmāṇi yeṣām na asti phala udayaḥ",
+    "english": "It is true, peace seemeth to thee to be impossible in consequence of our distressful condition, yet they are still acting against us without reaping the fruits of their acts.",
+    "morphology": "kim_ka_SANe ca_ca_U etat_etad_SANe manyase_man_SPr2In kṛcchram_kṛcchra_SANe asmākam_mad_PG pāpam_pāpa_SANe āditas_āditas_U kurvanti_kṛ_PPr3In teṣām_tad_PGM karmāṇi_karman_PANe yeṣām_yad_PGNe na_na_U asti_as_SPr3In phala_phala_NeCp udaya"
+  },
+  {
+    "index": 27626,
+    "sanskrit": "mitravyasanato vāarir uttiṣṭhed yoanavagrahaḥ / mitreṇaeva bhavet sādhyaś chāditavyasanena saḥ // amitravyasanān mitram utthitaṃ yad virajyati / arivyasanasiddhyā tatśatruṇāeva prasidhyati //",
+    "english": "When an enemy furiously rises against his own enemy ie, the conquerors friend under troubles, the former should be put down Kautilyas Arthashastra by the latter himself with troubles concealed When a friend keeps quiet after rising against an enemy under troubles, that friend will be subdued by the enemy himself after getting rid of his troubles",
+    "morphology": "mitra_mitra_Cp vyasanataḥ_vyasana_SBNe vā_vā_ ariḥ_ari_SNM uttiṣṭhet_utthā_SPr3O yoana_yoana_Cp vagrahaḥ_vagraha_SNM  / mitreṇa_mitra_SIM eva_eva_ bhavet_bhū_SPr3O sādhyaḥ_sādhay_SNMGd chādita_chāday_PaCp vyasanena_vyasana_SIM saḥ_t"
+  },
+  {
+    "index": 27627,
+    "sanskrit": "etasmāt kāraṇāt rājan pāṇigrahaṇam iṣyate",
+    "english": "For these reasons, O king, doth marriage exist.",
+    "morphology": "etasmāt_etad_SBNe kāraṇāt_kāraṇa_SBNe"
+  },
+  {
+    "index": 27628,
+    "sanskrit": "kāryāntarāya rathāt rathāvayavāḥ prabhavantīti cet padavarṇā api kāryāntare prabhaviṣyanti /",
+    "english": "Now, it may be contended that parts of a chariot are necessary because they render some other service which a chariot cannot do.",
+    "morphology": "kārya_kārya_Cp antarāya_antara_SDNe rathāt_ratha_SBM ratha_ratha_Cp avayavāḥ_avayava_PNM prabhavanti_prabhū_PPr3In iti_iti_ ced_ced_ pada_pada_Cp varṇāḥ_varṇa_PNM api_api_ kārya_kārya_Cp antare_antara_SLNe prabhaviṣyanti_prabhū_PFu3In  "
+  },
+  {
+    "index": 27629,
+    "sanskrit": "bhojanaṃ guruviprāṇāṃ ghṛtadānaṃ ca satkriyā | etāni yasya tiṣṭhanti cāturmāsye na mānavaḥ || 10 ||",
+    "english": "10. He who has to his credit, the offering of food to preceptors and Brāhmaṇas, the gift of ghee, extending of great hospitality during Cāturmāsya is no (ordinary) man.",
+    "morphology": "bhojanam_bhojana_SNNe guru_guru_Cp viprāṇām_vipra_PGM ghṛta_ghṛta_Cp dānam_dāna_SNNe ca_ca_ satkriyā_satkriyā_SNF  / etāni_etad_PNNe yasya_yad_SGM tiṣṭhanti_sthā_PPr3In cāturmāsye_cāturmāsya_SLNe na_na_ mānavaḥ_mānava_SNM"
+  },
+  {
+    "index": 27630,
+    "sanskrit": "caturthe dvāpare caiva yadā vyāsoṃ'girāḥ smṛtaḥ | tadāpyahaṃ bhaviṣyāmi suhotro nāma nāmataḥ ||",
+    "english": "17. In the fourth aeon of Dvāpara in the age of Aṅgiras Vyāsa, I shall be born as Suhotra.",
+    "morphology": "caturthe_caturtha_SLM dvāpare_dvāpara_SLM ca_ca_ eva_eva_ yadā_yadā_ vyāsaḥ_vyāsa_SNM oṃ_oṃ_ girāḥ_giras_SNM smṛtaḥ_smṛ_SNPaM  / tadā_tadā_ api_api_ aham_mad_SN bhaviṣyāmi_bhū_SFu1In suhotraḥ_suhotra_SNM nāma_nāma_ nāmataḥ"
+  },
+  {
+    "index": 27631,
+    "sanskrit": "nicakhāna sa saṃbhrāntaḥ pūrva vairam anusmaran",
+    "english": "Then Bhimasena, recollecting the wrongs formerly inflicted by Karna, became filled with rage and began with deliberate care to pierce Karna with many keen arrows.",
+    "morphology": "nichāva_nikhan_SPs3In"
+  }
+]

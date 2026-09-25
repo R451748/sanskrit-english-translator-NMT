@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47296,
+    "sanskrit": "tac caitad asāram svargaśabdasya dravyavācitvābhāvāt / prītivacanohy eṣa svargaśabdaḥ na dravyavacanaḥ /",
+    "english": "The view in question is not sound since the word 'heaven' does not denote a substance since it denotes bliss but not a substance.",
+    "morphology": "tat_tad_SNNe ca_ca_ etat_etad_SNNe asāram_asāra_SNNe svarga_svarga_Cp śabdasya_śabda_SGM dravya_dravya_Cp vāci_vācin_Cp tva_tva_Cp abhāvāt_abhāva_SBM  / prīti_prīti_Cp vacanā_vacana_SNF hi_hi_ eṣa_etad_SNM svarga_svarga_Cp śabdaḥ_śabda_SN"
+  },
+  {
+    "index": 47297,
+    "sanskrit": "ṛṣaya ūcuḥ | devadeva ramānātha sarveśvara mahāprabho | rakṣa yajñaṃ hi dakṣasya yajñosi tvaṃ na saṃśayaḥ || yajñakarmā yajñarūpo yajñāṃgo yajñarakṣakaḥ | rakṣa yajñamato rakṣa tvattonyo na hi rakṣakaḥ ||",
+    "english": "41-42. “O lord of Lakṣmī, lord of devas, O great lord, lord of everyone, save the sacrifice of Dakṣa. Undoubtedly you are the sacrifice, the performer of sacrifice, the sacrifice embodied, ancillary to sacrifice and the protector of sacrifice. Please save, save the sacrifice. There is none else than you to protect it.”",
+    "morphology": "ṛṣayaḥ_ṛṣi_PNM ūcuḥ_vac_PPs3In  / devadeva_devadeva_SVM ramānātha_ramānātha_SVM sarveśvara_sarveśvara_SVM mahā_mahat_Cp prabho_prabhu_SVM  / rakṣa_rakṣ_SPr2Im yajñam_yajña_SAM hi_hi_ dakṣasya_dakṣa_SGM yajñaḥ_yajña_SNM asi"
+  },
+  {
+    "index": 47298,
+    "sanskrit": "tatas taṃ nārado 'bhyetya munirevam abhāṣata / nītijñasyāspi te ko 'yaṃ rājannaviṣayodyamaḥ // pravartamāno hryutsekādasādhye paribhūyate / daśāsya iva darpeṇa kailāsonmūlanodyataḥ //",
+    "english": "Then the hermit Nārada came and said to the king: “Prince, what means this striving after things out of your reach, though you know policy? For one who out of overweening self-confidence attempts the impossible is disgraced like Rāvaṇa, who, in his pride, endeavoured to uproot Kailāsa.",
+    "morphology": "tatas_tatas_ tam_tad_SAM nāradaḥ_nārada_SNM abhyetya_abhye_Co muniḥ_muni_SNM evam_evam_ abhāṣata_bhāṣ_S3ImIn  / nīti_nīti_Cp jñasya_jña_SGM aspi_api_ te_tvad_SG kaḥ_ka_SNM ayam_idam_SNM rājan_rājan_SVM a_a_ viṣaya_viṣaya_Cp udyama"
+  },
+  {
+    "index": 47299,
+    "sanskrit": "anyāyenārjitaṃ dravyamapātre pratipāditam | kliṣṭaṃ ca vidhihīnaṃ ca vṛddhabhāve tadaśnute || 16 ||",
+    "english": "16. If anyone makes a gift of an article or wealth illegally got, to a non-deserving person, with mental distress and without caring for the injunctions, he reaps the consequence during old age.",
+    "morphology": "anyāyena_anyāya_SIM arjitam_arjay_SNPaNe dravyam_dravya_SNNe apātre_apātra_SLNe pratipāditam_pratipāday_SNPaNe  / kliṣṭam_kliś_SNPaNe ca_ca_ vidhi_vidhi_Cp hīnam_hā_SNPaNe ca_ca_ vṛddha_vṛddha_Cp bhāve_bhāva_SLM tat_tad_SANe aśnute_aś_"
+  },
+  {
+    "index": 47300,
+    "sanskrit": "tasya bhrātaraḥ trayaḥ śrutasenaḥ ugrasenaḥ bhīmasenaḥ iti",
+    "english": "His brothers were three, Srutasena, Ugrasena, and Bhimasena.",
+    "morphology": "tasya_tad_SGM bhrātaraḥ_bhrātṛ_PNM trayaḥ_tri_PNM"
+  },
+  {
+    "index": 47301,
+    "sanskrit": "tatas sutau te balinau śūrau duṣkarṇa durmadau",
+    "english": "Filled with rage, Bhima struck with his fists those mighty and brave sons of thine, viz., Durmada and Dushkarna, and crushed them therewith and roared aloud.",
+    "morphology": "tatas_tatas_U"
+  },
+  {
+    "index": 47302,
+    "sanskrit": "yā tu adhāḥ pravāhikā sā tu ūrdhvam śuṣka udgārāḥ iti",
+    "english": "What diarrhea (Pravahika) is to purging, a dry eructation is to vomiting.",
+    "morphology": "yā_yad_SNF"
+  },
+  {
+    "index": 47303,
+    "sanskrit": "ūrdhvam bhavati saṃdehāt iha dṛṣṭārtham eva vā a prekṣā pūrva karaṇāt prāyaścittam vidhīyate",
+    "english": "When an act is undertaken from the expectation, however doubtful, that it will produce mischief (to some one) in the future, or when an act is done whose consequence is visibly mischievous, expiation has been laid down.",
+    "morphology": "ūrdhvam_ūrdhvam_U bhavati_bhū_SPr3In saṃdehāt_saṃdeha_SBM iha_iha_U dṛṣṭārtham_dṛṣṭārtha_SNNe eva_eva_U vā_vā_U a_a_U prekṣā_prekṣā_SNF pūrva_pūrva_Cp karaṇāt_karaṇa_SINe"
+  }
+]

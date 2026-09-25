@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3384,
+    "sanskrit": "te hanyamānāḥ samare rathinaḥ sādinaḥ tathā pādātāḥ dantinaḥ ca eva cakruḥ ārta svaram mahat",
+    "english": "And car-warriors and horsemen and foot-soldiers and tuskers, while thus slaughtered by him, uttered loud cries of woe.",
+    "morphology": "te_tad_PNM hanyamānāḥ_han_PNPaPrMPv samare_samara_SLNe rathinaḥ_rathin_PNM sādinaḥ_sādin_PNM tathā_tathā_U pādātāḥ_pādāta_PNM dantinaḥ_dantin_PNM ca_ca_U eva_eva_U cakruḥ_kṛ_PPs3In ārta_ārta_Cp svaram_svara_SAM mahat_mahat_SANe"
+  },
+  {
+    "index": 3385,
+    "sanskrit": "gāṃ pṛthivīṃ mūrtiṣu śarīrabhāgeṣu //",
+    "english": "\"Fluids\" in die form of fats and marrow;into these he shall withdraw Water.",
+    "morphology": "gām_go_SAF pṛthivīm_pṛthivī_SAF mūrtiṣu_mūrti_PLF śarīra_śarīra_Cp bhāgeṣu_bhāga_PLM  /"
+  },
+  {
+    "index": 3386,
+    "sanskrit": "yo jāta iti sūktena sarvān kāmānavāpnuyāt /",
+    "english": "One will get all the pleasures by the repetition of the hymn yo jāta.",
+    "morphology": "yaḥ_yad_SNM jātaḥ_jan_SNPaM iti_iti_ sūktena_sūkta_SINe sarvān_sarva_PAM kāmān_kāma_PAM avāpnuyāt_avāp_SPr3O"
+  },
+  {
+    "index": 3387,
+    "sanskrit": "sa kuṇḍalam mahat karṇāt karṇasya apātayat bhuvi",
+    "english": "(With that arrow) he felled on the earth the large and beautiful ear-ring of Karna.",
+    "morphology": "sa_sa_U kuṇḍalam_kuṇḍala_SANe mahat_mahat_SANe karṇāt_karṇa_SBM karṇasya_karṇa_SGM apātayat_pātay_SPs3In bhuvi_bhū_SLF"
+  },
+  {
+    "index": 3388,
+    "sanskrit": "te tatra prayatāḥ kālam kam cit ūṣuḥ nara ṛṣabhāḥ mātrā saha ekacakrāyām brāhmaṇasya niveśane",
+    "english": "And those bulls among men dwelt in that town in the house of a Brahmana for some time, with temperance and abstinence.",
+    "morphology": "te_tad_PNM tatra_tatra_U prayatāḥ_prayam_PNPaPsM kālam_kāla_SAM kam_ka_SAM cit_cit_U ūṣuḥ_vas_PPs3In nara_nara_MCp ṛṣabhāḥ_ṛṣabha_PNM mātrā_mātṛ_SIF saha_saha_U ekacakrāyām_ekacakrā_SLF brāhmaṇasya_brāhmaṇa_SGM niveśane_"
+  },
+  {
+    "index": 3389,
+    "sanskrit": "yat tat karṇaḥ manyate pāraṇīyam yuddhe gṛhīta āyudham arjunena",
+    "english": "When Arjuna taketh up his weapon in fight, Karna believeth him capable of being withstood.",
+    "morphology": "yat_yad_SANe tat_tad_SANe karṇaḥ_karṇa_SNM manyate_man_SPr3In pāraṇīyam_pṛ_SANeGd yuddhe_yuddha_SLNe gṛhīta_grah_PaPsCp āyudham_āyudha_SANe"
+  },
+  {
+    "index": 3390,
+    "sanskrit": "lokadvayasukhaṃ samyaksarvaṃ yāsu pratiṣṭhitam / niricchāyāḥ prayātāyāḥ pāraṃ saṃsāravāridheḥ //",
+    "english": "The happiness of both worlds depends entirely on the person of the disinterested and virtuous wife, who serves as a raft to her husband, for his going across the wide ocean of the perilous world.",
+    "morphology": "loka_loka_Cp dvaya_dvaya_Cp sukham_sukha_SNNe samyak_samyak_ sarvam_sarva_SNNe yāsu_yad_PLF pratiṣṭhitam_pratiṣṭhā_SNPaNe  / niricchāyāḥ_niricchā_SGF prayātāyāḥ_prayā_SGPaF pāram_pāra_SAM saṃsāra_saṃsāra_Cp vāridheḥ_vāridhi"
+  },
+  {
+    "index": 3391,
+    "sanskrit": "svarṇa daṇḍām mahā ghorām aṣṭa ghaṇṭām bhaya āvahām samutkṣipya ca tām hṛṣṭaḥ nanāda balavat balī",
+    "english": "Equipped with a golden staff, of awful mien, having eight bells attached to it, and exceedingly terrible, the mighty Yudhishthira, taking it up, uttered a loud roar.",
+    "morphology": "svarṇa_svarṇa_NeCp daṇḍām_daṇḍa_SAF mahā_mahat_Cp ghorām_ghora_SAF aṣṭa_aṣṭan_Cp ghaṇṭām_ghaṇṭā_SAF bhaya_bhaya_NeCp āvahām_āvaha_SAF samutkṣipya_samutkṣip_Co ca_ca_U tām_tad_SAF hṛṣṭaḥ_hṛṣ_SNPaPsM nanā"
+  }
+]

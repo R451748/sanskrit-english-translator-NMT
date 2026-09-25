@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18224,
+    "sanskrit": "vidhīyate /",
+    "english": ".",
+    "morphology": "vidhīyate_"
+  },
+  {
+    "index": 18225,
+    "sanskrit": "surūpam patram ālakṣya suparṇaḥ ayam bhavatu iti",
+    "english": "And seeing that the feather was very beautiful, they said, 'Let this bird be called Suparna (having fair feathers).",
+    "morphology": "surūpa_surūpa_SANe patra_pattra_SANe ālakṣya_ālakṣay_Co"
+  },
+  {
+    "index": 18226,
+    "sanskrit": "mahāśubhāyatasyāgre liṃgaṃ paṃcanadeśvaram | maṃgalodo mahākūpo maṃgalā paścime śubhaḥ || 91 ||",
+    "english": "191. In front of it is the Pañcanadeśvara Liṅga that is conducive to great auspiciousness. To the west of Maṅgalā is the great splendid well Maṅgaloda (‘a well of auspicious waters’).",
+    "morphology": "__mahat_U __śubha_U __āyam_PaU __agra_U __liṅga_U __pañcanada_U __īśvara_U  / __maṅgaloda_U __mahat_U __kūpa_U __maṅgalā_U __paścima_U __ā_U __"
+  },
+  {
+    "index": 18227,
+    "sanskrit": "cakrarakṣau tu karṇasya putrau māriṣa durjayau suṣeṇaḥ satyasenaḥ ca tyaktvā prāṇān ayudhyatām",
+    "english": "The two protectors of Karna's car wheels, viz., his two invincible sons, O sire, that were named Sushena and Satyasena, began to fight, reckless of their very lives.",
+    "morphology": "cakrarakṣau_cakrarakṣa_DuNM tu_tu_U karṇasya_karṇa_SGM putrau_putra_DuNM māriṣa_māriṣa_MCp durjayau_durjaya_DuNM suṣeṇaḥ_suṣeṇa_SNM satyasenaḥ_satyasena_SNM ca_ca_U tyaktvā_tyaj_Co"
+  },
+  {
+    "index": 18228,
+    "sanskrit": "nanv etāḥ śrutīḥ atharvāṇa evādhīyate nānye trayīvidaḥ / te tv evaṃ paṭhanti yadṛcā hautraṃ kriyate yajuṣā ''dhvaryavaṃ sāmnā audgātraṃ atha kena brahmatvaṃ kriyate iti trayyā vidyate brūyāt iti /",
+    "english": "the priests well-versed in the Atharva Veda. 533 The Atharva-veda constitutes the Trayi The persons who are well-versed in the Atharva-Veda only read the above Vedic passages which refer to the Atharva-Veda but the scholars of the three Vedas do not come acroSS such Vedic sentences. The students of the three Vedas read the following Vedic passages.",
+    "morphology": "nanu_nanu_ etāḥ_etad_PAF śrutīḥ_śruti_PAF atharvāṇaḥ_atharvan_PNM eva_eva_ adhīyate_adhī_PPr3In na_na_ anye_anya_PNM trayī_trayī_Cp vidaḥ_vid_PNM  / te_tad_PNM tu_tu_ evam_evam_ paṭhanti_paṭh_PPr3In yat_yat_ ṛcā_ṛc_SIF hautram_h"
+  },
+  {
+    "index": 18229,
+    "sanskrit": "teṣāṃ gatiḥ pratītiḥ, tasyā aṅgam kāraṇam, asau hastakampādir bhavati /",
+    "english": "the ‘aid’ to this is its cause. It is the shaking of the hand, etc. that become such aids.",
+    "morphology": "teṣām_tad_PGM gatiḥ_gati_SNF pratītiḥ_pratīti_SNF tasyāḥ_tad_SGF aṅgam_aṅga_SNNe kāraṇam_kāraṇa_SNNe asau_adas_SNM hasta_hasta_Cp kampa_kampa_Cp ādiḥ_ādi_SNM bhavati_bhū_SPr3In  /"
+  },
+  {
+    "index": 18230,
+    "sanskrit": "evaṃ tridaśā devatā asyeti traidaśikam / tridaśaśabdād devatāṇikṛte svārthe kaḥ / devatātvaṃ ca pūrvavat /",
+    "english": "Similarly that which is dedicated to the \"thriceten\" ie, the Godsis called the \"traidaśikam\" The word \"traidaśikam\" is derived from \"tridaśa\" with the deifìc affix \"aṇ,\" and then the reflexive \"ka\" And the deific character in this case also is of the same kind as before in the term \"brāhma\".",
+    "morphology": "evam_evam_ tri_tri_Cp daśāḥ_daśan_PNF devatāḥ_devatā_PNF asya_idam_SGM iti_iti_ traidaśikam_traidaśika_SNNe  / tridaśa_tridaśa_Cp śabdāt_śabda_SBM devatā_devatā_Cp āṇikṛte_āṇikṛta_SLM svārthe_svārtha_SLM kaḥ_ka_SNM  / devat"
+  },
+  {
+    "index": 18231,
+    "sanskrit": "yat tat sarve parābhūya paryavārayata ārjunim",
+    "english": "With resolute care, all of you had surrounded Arjuna, resolved to stand by the ruler of the Sindhus.",
+    "morphology": "yat_yat_"
+  }
+]

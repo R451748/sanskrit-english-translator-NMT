@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15728,
+    "sanskrit": "tatra te nyavasan rājan kam cit kālam manasvinaḥ dhanurveda pare vīrāḥ śṛṇvānāḥ vedam uttamam",
+    "english": "And possessed of energy, those heroes, O king, lived there for some time, devoted to the exercise of the bow and hearing all the while the chanting of the Vedas.",
+    "morphology": "tatra_tatra_U te_tad_PNM nyavasan_nivas_PPs3In rājan_rājan_SVM kam_ka_SAM cit_cit_U kālam_kāla_SAM manasvinaḥ_manasvin_PNM dhanurveda_dhanurveda_MCp pare_para_PNM vīrāḥ_vīra_PNM śṛṇvānāḥ_śru_PNPaPrM vedam_veda_SAM uttamam_uttama_SAM"
+  },
+  {
+    "index": 15729,
+    "sanskrit": "ābabhāṣe śivaḥ śrīmānnāmabhedārcanakramam | vrataṃ ca karuṇāmūrttiraruṇādrīśvaraḥ śivaḥ || 49 ||",
+    "english": "The glorious Śiva mentioned the different names and the procedures of worship. Śiva, the embodiment of mercy and Lord of Aruṇācala, proclaimed Vratas (i e. vows and observances) also.",
+    "morphology": "ābabhāṣe_ābhāṣ_SPs3In śivaḥ_śiva_SNM śrīmān_śrīmat_SNM nāma_nāman_Cp bheda_bheda_Cp arcana_arcana_Cp kramam_krama_SAM  / vratam_vrata_SANe ca_ca_ karuṇā_karuṇā_Cp mūrttiḥ_mūrti_SNM aruṇādri_aruṇādri_Cp īśvaraḥ_īśvar"
+  },
+  {
+    "index": 15730,
+    "sanskrit": "havyā deveṣu no dadhat |",
+    "english": "May he place our oblations among the gods.",
+    "morphology": "havyā_havya_PANe deveṣu_deva_PLM naḥ_mad_PG dadhat_SNPaPrM"
+  },
+  {
+    "index": 15731,
+    "sanskrit": "dantendumālāvimalā vimaloddayotapātataḥ / tamorṇavorddhvalekheva vṛttāvartavivartinī //",
+    "english": "Her moon-like teeth, cast their lustre like moon beams; and it glistened amidst the dark ocean of chaotic night, as the moon beams play upon the surface, and rising waves of the dark blue deep.",
+    "morphology": "danta_danta_Cp indu_indu_Cp mālā_mālā_Cp vimalā_vimala_SNF vimala_vimala_Cp uddaya_uddaya_Cp uta_uta_ pātataḥ_pāta_SBM  / tamas_tamas_Cp ūrṇava_ūrṇava_Cp ūrddhva_ūrdhva_Cp lekhā_lekhā_SNF iva_iva_ vṛtta_vṛtta_Cp āvarta_āvarta_Cp vi"
+  },
+  {
+    "index": 15732,
+    "sanskrit": "bala anvitāḥ ca api apare hi anṛtyan anyonyam āśliṣya nadantaḥ ūcuḥ dṛṣṭvā tu karṇam bhuvi niṣṭanantam",
+    "english": "Others, possessed of might, danced, embracing each other, and uttering loud shouts, said, \"By good luck, Karna hath been stretched on the earth and mangled with arrows.\" Indeed, the severed head of Karna looked beautiful like a mountain summit loosened by a tempest, or a quenched fire after the sacrifice is over, or the image of the sun after it has reached the Asta hills.",
+    "morphology": "bala_bala_NeCp anvitāḥ_anvita_PNM ca_ca_U api_api_U apare_apara_PNM hi_hi_U anṛtyan_nṛt_PPs3In anyonyam_anyonya_SAM āśliṣya_āśliṣ_Co nadantaḥ_nad_PNPaPrM ūcuḥ_vac_PPs3In dṛṣṭvā_dṛś_Co tu_tu_U karṇam_karṇa_SAM bhuvi_bhū_SL"
+  },
+  {
+    "index": 15733,
+    "sanskrit": "upaśāntaṃ ca kāntaṃ ca vapurāpādamastakam / śrṛṅgaṃ śubhrāmbudeneva puṣpeṇācchādayāmunā //",
+    "english": "Please now to refresh thy fair and fatigued frame, with wearing these flowery chaplet from the head to foot; as the vest of a hoary cloud, invests a mountain from its top to bottom.",
+    "morphology": "upaśāntam_upaśam_SAPaNe ca_ca_ kāntam_kānta_SANe ca_ca_ vapuḥ_vapus_SANe āpādamastakam_āpādamastakam_  / śrṛṅgam_śrṛṅga_SANe śubhra_śubhra_Cp ambudena_ambuda_SIM iva_iva_ puṣpeṇa_puṣpa_SINe ācchādaya_ācchāday_SPr2Im amunā_"
+  },
+  {
+    "index": 15734,
+    "sanskrit": "pāṇḍureṇa ātapatreṇa dhriyamāṇena mūrdhani",
+    "english": "A white umbrella was held over his head.",
+    "morphology": "pāṇḍureṇa_pāṇḍura_SINe ātapatreṇa_ātapatra_SINe dhriyamāṇena_dhṛ_SIPaPrNePv"
+  },
+  {
+    "index": 15735,
+    "sanskrit": "mantrayet saha vidvadbhiḥ śaktaiḥ karmāṇi kārayet",
+    "english": "Wise men only should be consulted, and affairs are to be despatched through officers that are able. And polity must be executed through persons that are friendly;",
+    "morphology": "mantrayet_mantray_SPr3O saha_saha_U vidvadbhiḥ_vidvas_PIM śaktaiḥ_śak_PIPaPsM"
+  }
+]

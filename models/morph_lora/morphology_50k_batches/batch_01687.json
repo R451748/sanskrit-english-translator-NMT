@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13488,
+    "sanskrit": "kevalaṃ ṣaṇmukhastatra nāpalāyata vikramī | mahāvīrastadā sarvānāvārya purataḥ sthitaḥ ||",
+    "english": "59. The valorous sixfaced deity alone did not flee. The great warrior stopped everyone and stood in front.",
+    "morphology": "kevalam_kevalam_ ṣaṇmukhaḥ_ṣaṇmukha_SNM tatra_tatra_ na_na_ apalāyata_palāy_S3ImIn vikramī_vikramin_SNM  / mahāvīraḥ_mahāvīra_SNM tadā_tadā_ sarvān_sarva_PAM āvārya_āvāray_Co puratas_puratas_ sthitaḥ_sthā_SNPaM"
+  },
+  {
+    "index": 13489,
+    "sanskrit": "yena vindāmi vārṣṇeya kaśmalam śoka tāpitaḥ",
+    "english": "It is for this that, scorched by grief, O thou of Vrishni's race, I have become so cheerless.",
+    "morphology": "yena_yena_U"
+  },
+  {
+    "index": 13490,
+    "sanskrit": "dharma uvāca | namaḥ kṣīrābdhivāsāya namaḥ paryaṃkaśāyine | namaḥ śaṃkarasaṃspṛṣṭadivyapādāya viṣṇave || 10 ||",
+    "english": "10. Obeisance to the Lord residing in the Ocean of Milk. Bow to the Lord lying on a couch (of Śeṣa). Obeisance to Viṣṇu whose divine feet are touched by Śaṅkara.",
+    "morphology": "dharmaḥ_dharma_SNM uvāca_vac_SPs3In  / namaḥ_namas_SNNe kṣīrābdhi_kṣīrābdhi_Cp vāsāya_vāsa_SDM namaḥ_namas_SNNe paryaṅka_paryaṅka_Cp śāyine_śāyin_SDM  / namaḥ_namas_SNNe śaṃkara_śaṃkara_Cp saṃspṛṣṭa_saṃspṛś_Pa"
+  },
+  {
+    "index": 13491,
+    "sanskrit": "yathānyāyam iti vṛttapūraṇam /",
+    "english": "\"Duly\" this has been added for the purpose of filling up the verse.",
+    "morphology": "yathānyāyam_yathānyāyam_"
+  },
+  {
+    "index": 13492,
+    "sanskrit": "kailāsa mandarābhyām tu tathā himavataḥ gireḥ sahasraśas mahā śabdam śikharāṇi patanti ca",
+    "english": "From the mountains of Kailasa and Mandara and Himavat thousands of explosions are heard and thousands of summits are tumbling down.",
+    "morphology": "kailāsa_kailāsa_MCp mandarābhyām_mandara_DuBM tu_tu_U tathā_tathā_U himavataḥ_himavant_SGM gireḥ_giri_SGM sahasraśas_sahasraśas_U mahā_mahat_Cp śabdam_śabda_SAM śikharāṇi_śikhara_PNNe patanti_pat_PPr3In ca_ca_U"
+  },
+  {
+    "index": 13493,
+    "sanskrit": "vāravratāni vakṣyāmi bhuktimuktipradāni hi /",
+    "english": "shall describe vows relating to the weekdays that would confer enjoyment and emancipation.",
+    "morphology": "__vāravrata_U __vac_PFu1In __bhukti_U __mukti_U __prada_U __hi_U  /"
+  },
+  {
+    "index": 13494,
+    "sanskrit": "prāyaḥ pākhaṃḍabhūyiṣṭhaṃ puṇyakṣetraṃ bhaviṣyati | śūdrā dharmapravaktāro jaṭilāstāpasāḥ kalau || 42 ||",
+    "english": "42. Every holy spot generally became prominent resort of heretics. Śūdras became expounders of Dharmas. They became ascetics with matted hair in Kali Age.",
+    "morphology": "prāyas_prāyas_ pākhaṃḍa_pākhaṇḍa_Cp bhūyiṣṭham_bhūyiṣṭha_SNNe puṇya_puṇya_Cp kṣetram_kṣetra_SNNe bhaviṣyati_bhū_SFu3In  / śūdrāḥ_śūdra_PNM dharma_dharma_Cp pravaktāraḥ_pravaktṛ_PNM jaṭilāḥ_jaṭila_PNM tāp"
+  },
+  {
+    "index": 13495,
+    "sanskrit": "tasya bhṛtyajanaṃ jñātvā svakuṭumbān mahīpatiḥ / śrutaśīle ca vijñāya vṛttiṃ dharmyāṃ prakalpayet //",
+    "english": "Having ascertained the number of persons he has to maintain, and having investigated his learning and character, the king shall provide, out of his own property, a proper living for him.",
+    "morphology": "tasya_tad_SGM bhṛtya_bhṛtya_Cp janam_jana_SAM jñātvā_jñā_Co sva_sva_Cp kuṭumbāt_kuṭumba_SBNe mahīpatiḥ_mahīpati_SNM  / śruta_śruta_Cp śīle_śīla_DuANe ca_ca_ vijñāya_vijñā_Co vṛttim_vṛtti_SAF dharmyām_dharmya_SAF prakalpayet"
+  }
+]

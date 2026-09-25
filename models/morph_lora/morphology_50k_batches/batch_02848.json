@@ -1,0 +1,50 @@
+[
+  {
+    "index": 22776,
+    "sanskrit": "(24) sama-kramāś-ca,",
+    "english": "(24) an even step,",
+    "morphology": ""
+  },
+  {
+    "index": 22777,
+    "sanskrit": "tān eva agnīn paricaret yajamānaḥ divaukasaḥ",
+    "english": "He should attend to those fires to which he had attended as a householder. Desirous of sacrificing, he should adore the deities (according to the rituals ordained).",
+    "morphology": "tān_tad_PAM"
+  },
+  {
+    "index": 22778,
+    "sanskrit": "ātmanaḥ ca pareṣām ca vṛttim saṃrakṣa bhārata",
+    "english": "Do thou, O Bharata, protect thy own means (of support and of doing acts of righteousness), as also the means of other people's subsistence.",
+    "morphology": "ātmanaḥ_ātman_SBM"
+  },
+  {
+    "index": 22779,
+    "sanskrit": "śmaśāne mṛtamutsṛjya dṛṣṭvā kāyamanāmayam | brāhmaṇānāṃ hitārthāya praviṣṭo yogamāyayā || divyāṃ meruguhāṃ puṇyāṃ tvayā sārddhaṃ ca viṣṇunā | bhaviṣyāmi tadā brahmaṃllakulī nāmanāmataḥ ||",
+    "english": "46-47. On seeing a dead body forsaken in the cremation ground I shall enter into it and make it free from ailments by means of Yogic Māyā for the welfare of the brahmins. Then I will enter the holy divine cavern of Meru[13] along with you and Viṣṇu. O Brahmā, I shall then be known as Lakulin.",
+    "morphology": "śmaśāne_śmaśāna_SLNe mṛtam_mṛ_SAPaM utsṛjya_utsṛj_Co dṛṣṭvā_dṛś_Co kāyam_kāya_SAM anāmayam_anāmaya_SAM  / brāhmaṇānām_brāhmaṇa_PGM hita_hita_Cp arthāya_artha_SDM praviṣṭaḥ_praviś_SNPaM yoga_yoga_Cp māyayā_māy"
+  },
+  {
+    "index": 22780,
+    "sanskrit": "yathānubhūtagodarśanasya puṃso 'raṇyagatasya gavayadarśanāt pūrvānubhūte gavi tat sādharmyajñānam /",
+    "english": "For example, when a man who has had the perception of the Cow goes to the forest, and sees the Qavaya there, he perceives in this latter, the similarity to the Cow.",
+    "morphology": "yathā_yathā_ anubhūta_anubhū_PaCp go_go_Cp darśanasya_darśana_SGM puṃsaḥ_puṃs_SGM araṇya_araṇya_Cp gatasya_gam_SGPaM gavaya_gavaya_Cp darśanāt_darśana_SBNe pūrva_pūrva_Cp anubhūte_anubhū_SLPaM gavi_go_SLM tat_tad_SNNe sādharmya_sād"
+  },
+  {
+    "index": 22781,
+    "sanskrit": "divase divase kṛtvā bhāgam prāc āhnikam mama",
+    "english": "Even this is what hath been laid down in respect of the duties of warriors.",
+    "morphology": "divaḥḥ_divasa_SLM divaḥḥ_divasa_SLM kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 22782,
+    "sanskrit": "bhagavān āha //",
+    "english": "The Blessed One said:",
+    "morphology": "bhagavān_SNM"
+  },
+  {
+    "index": 22783,
+    "sanskrit": "kalpamātreṇa kālena sumahāpelavodare / tasminnapi hi yo nāśaḥ sarvādhiramahādhiyām //",
+    "english": "What, if any one is to live and enjoy the blessings of this world for a whole Kalpa when, he can not escape the sorrow, consequent on the loss of all his friends during that period.",
+    "morphology": "kalpa_kalpa_Cp mātreṇa_mātra_SIM kālena_kāla_SIM su_su_ mahā_mahat_Cp pelava_pelava_Cp udare_udara_SLNe  / tasmin_tad_SLNe api_api_ hi_hi_ yaḥ_yad_SNM nāśaḥ_nāśa_SNM sarva_sarva_Cp ādhiḥ_ādhi_SNM a_a_ mahā_mahat_Cp dhiyām_dhī_SLF  /"
+  }
+]

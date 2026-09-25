@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49528,
+    "sanskrit": "tasminn imāni sarvāṇi bhūtāny anvāyattānīti vidyāt /",
+    "english": "One should know that all these beings are dependent upon Him",
+    "morphology": "tasmin_tad_SLM imāni_idam_PNNe sarvāṇi_sarva_PNNe bhūtāni_bhūta_PNNe anvāyattāni_anvāyat_PNPaNe iti_iti_"
+  },
+  {
+    "index": 49529,
+    "sanskrit": "tadyathā hastipadopame “pṛthivīdhātuḥ katamaḥ” ityadhikṛtyāha “keśā romāṇī“ti /",
+    "english": "For example, in the Hastéápadopamasiūtra, to the question “What is the internal earth element?",
+    "morphology": "tat_tad_SNNe yathā_yathā_ hasti_hastin_Cp pada_pada_Cp upame_upama_SLNe “pṛthivī_pṛthivī_Cp dhātuḥ_dhātu_SNM katamaḥ_katama_SNM iti_iti_ adhikṛtya_adhikṛ_Co āha_ah_SPs3In  /"
+  },
+  {
+    "index": 49530,
+    "sanskrit": "dāha jvara rujāvantaḥ tāmrāḥ sphoṭāḥ sa pītakāḥ gātreṣu vadane ca antar vijñeyāḥ tāḥ masūrikāḥ",
+    "english": "Masurika (variola):—The yellow or copper-coloured pustules or eruptions attended with pain, fever and burning and appearing all over the body, on (the skin of) the face and inside the cavity of the mouth, are called Masurika.",
+    "morphology": "dāha_dāha_MCp jvara_jvara_MCp rujāvantaḥ_rujāvat_PNM tāmrāḥ_tāmra_PNM sphoṭāḥ_sphoṭa_PNM sa_sa_U pītakāḥ_pītaka_PNM gātreṣu_gātra_PLNe vadane_vadana_SLNe ca_ca_U antar_antar_U vijñeyāḥ_vijñā_PNFGd"
+  },
+  {
+    "index": 49531,
+    "sanskrit": "asmint sadhasthe adhy uttarasmin viśve devāḥ |",
+    "english": "In this higher place, All-gods [3], do ye sit with the sacrificer.",
+    "morphology": "asmin_idam_SLNe sadhasthe_sadhastha_SLNe adhi_adhi_ uttarasmin_uttara_SLNe viśve_viśva_PNM devāḥ_deva_PNM"
+  },
+  {
+    "index": 49532,
+    "sanskrit": "na ca dvitīyam vyasṛjat kuñjara aśva nareṣu saḥ",
+    "english": "Arjuna never shot arrows, at any elephant, steed or man.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 49533,
+    "sanskrit": "arthebhyo hi vivṛddhebhyaḥ saṃbhṛtebhyastatastataḥ | pravartaṃte kriyāḥ sarvāḥ parvatebhyo yathāpagāḥ || 45 ||",
+    "english": "45. From increased riches collected from here and there, all activities spring up like rivers from mountains.",
+    "morphology": "arthebhyaḥ_artha_PBM hi_hi_ vivṛddhebhyaḥ_vivṛdh_PBPaM saṃbhṛtebhyaḥ_sambhṛ_PBPaM tatas_tatas_ tatas_tatas_  / pravartante_pravṛt_PPr3In kriyāḥ_kriyā_PNF sarvāḥ_sarva_PNF parvatebhyaḥ_parvata_PBM yathā_yathā_ āpagāḥ_āpagā"
+  },
+  {
+    "index": 49534,
+    "sanskrit": "sadyojātāya tubhyaṃ bho vāmadevāya te namaḥ | īśānāya namastubhyaṃ paṃcāsyāya kapāline || 78 ||",
+    "english": "78. Obeisance to you, Sadyojāta, to Vāmadeva, to Īśāna, Obeisance to you, Pañcāsya (the five-faced one)[3], to Kapālin (the skull-holding one).",
+    "morphology": "sadyojātāya_sadyojāta_SDM tubhyam_tvad_SD bho_bho_ vāmadevāya_vāmadeva_SDM te_tvad_SD namaḥ_namas_SNNe  / īśānāya_īśāna_SDM namaḥ_namas_SNNe tubhyam_tvad_SD pañca_pañcan_Cp āsyāya_āsya_SDM kapāline_kapālin_SDM"
+  },
+  {
+    "index": 49535,
+    "sanskrit": "tadanuvidhānasyānanyathā- siddhatvāt| ata eva nālokajñānābhāvaḥ| abhāvasya pratiyogigrāhake ndriyagrāhyatvaniyamena mānasatvaprasaṅgāt| tasmādālokābhāva eva tamaḥ| na ca vidhipratyayavedyatvenābhāvatvāyoga iti sāṃpratam|",
+    "english": "(c.) Hence darkness cannot be the absence of the cognition of light, since, by the well-known rule that that organ which perceives a certain object can also perceive its absence, it would follow that darkness would be perceived by the mind [since it is the mind which perceives cognitions].[44] Hence we conclude that the fourth or remaining opinion must be the true one, viz., that darkness is only the absence of light.",
+    "morphology": "__tad_U __anuvidhāna_U __ananyathā_U __sidh_PaU __tva_U __atas_U eva_eva_U __na_U __āloka_U __jñāna_U __abhāva_U __abhāva_U __pratiyogin_U __grāhaka_U __indriya_U __grah_GdU __tva_U __niyama_U __mānasa_U __tva_U __prasaṅga_U __tasmāt_U __āloka"
+  }
+]

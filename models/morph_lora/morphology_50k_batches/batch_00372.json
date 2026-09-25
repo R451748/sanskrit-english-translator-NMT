@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2968,
+    "sanskrit": "dharmam tu śrotu kāmena hṛtam na kroddhum arhasi",
+    "english": "It behoveth thee not to give way to anger! Duties are the foremost of Srutis.",
+    "morphology": "dharma_dharma_SAM"
+  },
+  {
+    "index": 2969,
+    "sanskrit": "tathā ca vakṣyati teṣāṃ tu niṣṭhā vijñeyā vidvadbhiḥ saptame pade iti /",
+    "english": "It is in view of this that the author is going to declare later on \"the learned should regard the seventh step as the final stage of the marriage\".",
+    "morphology": "tathā_tathā_ ca_ca_ vakṣyati_vac_SFu3In teṣām_tad_PGM tu_tu_ niṣṭhā_niṣṭhā_SNF vijñeyā_vijñā_SNFGd vidvadbhiḥ_vidvas_PIM saptame_saptama_SLM pade_pada_SLM iti_iti_"
+  },
+  {
+    "index": 2970,
+    "sanskrit": "bhāryā mūlam trivargasya bhāryā mitram mariṣyataḥ",
+    "english": "The wife is the root of salvation.",
+    "morphology": "bhāryā_bhāryā_SNF"
+  },
+  {
+    "index": 2971,
+    "sanskrit": "etasminneva kāle tu vāguvācāśarīriṇī | uddālaka mahābāho śṛṇuṣvaitadvaco mama || 5 ||",
+    "english": "5-7. At that very time, an unembodied voice said: “O Uddālaka of powerful arms, listen to my words:",
+    "morphology": "etasmin_etad_SLM eva_eva_ kāle_kāla_SLM tu_tu_ vāc_vāc_SNF uvāca_vac_SPs3In aśarīriṇī_aśarīrin_SNF  / uddālaka_uddālaka_SVM mahā_mahat_Cp bāho_bāhu_SVM śṛṇuṣva_śru_SPr2Im etat_etad_SANe vacaḥ_vacas_SANe"
+  },
+  {
+    "index": 2972,
+    "sanskrit": "namo brahmaṇyadevāya gobrāhmaṇahitāya ca | jagaddhitāya kṛṣṇāya goviṃdāya namonamaḥ || 48 || sa no rakṣatu goviṃdo bhayārtāste jaguḥ surāḥ | surāṇāṃ ciṃtitaṃ jñātvā bhagavāngaruḍadhvajaḥ || 49 ||",
+    "english": "48-49. ‘Obeisance to Brahmaṇyadeva, to the Lord helpful to the welfare of cows and Brāhmaṇas; obeisance to Kṛṣṇa, the benefactor of the universe. Repeated obeisance to Govinda. May that Govinda save us.’ Thus the Suras who were overwhelmed by fright, prayed repeatedly.",
+    "morphology": "namaḥ_namas_SNNe brahmaṇyadevāya_brahmaṇyadeva_SDM go_go_ brāhmaṇa_brāhmaṇa_Cp hitāya_hita_SDNe ca_ca_  / jagat_jagant_Cp hitāya_hita_SDNe kṛṣṇāya_kṛṣṇa_SDM goviṃdāya_govinda_SDM namaḥ_namas_SNNe namaḥ_namas_SNNe  / sa_ta"
+  },
+  {
+    "index": 2973,
+    "sanskrit": "tataśca brāhmaṇānāṃ hi bhojyo saṃkalpamācaret | anyatsarvaṃ tathā kuryādyāvacca dvitayāvadhi ||",
+    "english": "64. Then the brahmins shall be fed sumptuously. Other rites shall be performd as before till the end of the second 3-hour period of time.",
+    "morphology": "tatas_tatas_ ca_ca_ brāhmaṇānām_brāhmaṇa_PGM hi_hi_ saṃkalpam_saṃkalpa_SAM ācaret_ācar_SPr3O  / anyat_anya_SANe sarvam_sarva_SANe tathā_tathā_ kuryāt_kṛ_SPr3O yāvat_yāvat_ ca_ca_ dvitaya_dvitaya_Cp avadhi_avadhi_"
+  },
+  {
+    "index": 2974,
+    "sanskrit": "tatrasthaś ca prabhapuñjamādau vyomno 'py anantaram / tato vidyādharīrvahvīravatīrṇā dadarśa saḥ //",
+    "english": "And while he was there he saw first a blaze of splendour descend from heaven, and after it a company of many Vidyādhara females.",
+    "morphology": "tatrasthaḥ_tatrastha_SNM ca_ca_ prabha_prabha_Cp puñja_puñja_Cp mādau_mādi_SLM vyomnaḥ_vyoman_SGM api_api_ anantaram_anantaram_  / tatas_tatas_ vidyādharīḥ_vidyādharī_PAF vahvīḥ_vahu_PAF avatīrṇāḥ_avatṛ_PAPaF"
+  },
+  {
+    "index": 2975,
+    "sanskrit": "kānyakubja pateḥ sākṣād bhalandana nṛpasya cajāmātā tvaṃ mahā vīra kuvera iva kośavān",
+    "english": "You are the son in law of King Bhalandana, the ruler of Kānyakubja. You are as rich as Kuvera.",
+    "morphology": "kānyakubja_kānyakubja_SVM pateḥ_pati_SGM sākṣāt_sākṣāt_ bhalandana_bhalandana_SVM nṛpasya_nṛpa_SGM ca_ca_ jāmātā_jāmātṛ_SNM tvam_tvad_SN"
+  }
+]

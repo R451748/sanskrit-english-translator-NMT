@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29208,
+    "sanskrit": "ayam bharāya sānasiḥ indrāya pavate sutaḥ somaḥ jaitrasya cetati yathā vide",
+    "english": "Effused, this juice victorious flows for Indra, for his maintenance. Soma bethinks him of the Conqueror, as he knows.",
+    "morphology": "ayam_idam_SNM bharāya_bhara_SDM sānasiḥ_sānasi_SNM indrāya_indra_SDM pavate_pū_SPr3In sutaḥ_su_SNPaPsM somaḥ_soma_SNM jaitrasya_jaitra_SGNe cetati_cit_SPr3In yathā_yathā_U vide_vid_SPr3In"
+  },
+  {
+    "index": 29209,
+    "sanskrit": "mauṇḍyaṃ prāṇāntiko daṇḍo brāhmaṇasya vidhīyate /",
+    "english": "Tonsure has been prescribed as the deathpenalty for the Brāhmaṇa; for other castes the penalty would be actual death.",
+    "morphology": "mauṇḍyam_mauṇḍya_SNNe prāṇāntikaḥ_prāṇāntika_SNM daṇḍaḥ_daṇḍa_SNM brāhmaṇasya_brāhmaṇa_SGM vidhīyate_vidhā_SPr3InPv  /"
+  },
+  {
+    "index": 29210,
+    "sanskrit": "tallakṣaṇaṃ brahma 'yato vā imāni bhūtāni' (taḍha.2/1/1) ityādivākyaṃ pratipādayatīti sthitam|",
+    "english": "It is evinced that it is such texts as, Whence also these elements, that prove the existence of the absolute thus described.",
+    "morphology": "tad_tad_Cp lakṣaṇam_lakṣaṇa_SNNe brahma_brahman_SNNe yatas_yatas_ vai_vai_ imāni_idam_PNNe bhūtāni_bhūta_PNNe ityādi_ityādi_Cp vākyam_vākya_SNNe pratipādayati_pratipāday_SPr3In iti_iti_ sthitam_sthā_SNPaNe"
+  },
+  {
+    "index": 29211,
+    "sanskrit": "yasya śarman upa viśve janāsaḥ evaiḥ tasthuḥ su matim bhikṣamāṇāḥ vaiśvānaraḥ varam ā rodasyoḥ ā agniḥ sasāda pitroḥ upa stham",
+    "english": "In whose protection all men rest by nature, desiring to enjoy his gracious favour- Agni Vaiṣvânara in his Parents, bosom hath found the choicest seat in earth and heaven.",
+    "morphology": "yasya_yad_SGM śarman_śarman_SLNe upa_upa_U viśve_viśva_PNM janāsaḥ_jana_PNM evaiḥ_eva_PIM tasthuḥ_sthā_PPs3In su_su_U matim_mati_SAF bhikṣamāṇāḥ_bhikṣ_PNPaPrM vaiśvānaraḥ_vaiśvānara_SNM varam_vara_SAM ā_ā_U rodasyoḥ_rodasī_"
+  },
+  {
+    "index": 29212,
+    "sanskrit": "balinā vigrahaḥ rājan na katham cit praśasyate",
+    "english": "Hostility with a person that is powerful is, O king, never applauded.",
+    "morphology": "balinā_balin_SIM vigrahaḥ_vigraha_SNM rājan_rājan_SVM na_na_U katham_katham_U cit_cit_U"
+  },
+  {
+    "index": 29213,
+    "sanskrit": "kasya brahmāṇi jujuṣuḥ yuvānaḥ kaḥ adhvare marutaḥ ā vavarta śyenān iva dhrajataḥ antarikṣe kena mahā manasā rīramāma",
+    "english": "Whose prayers have they, the Youthful Ones, accepted? Who to his sacrifice hath turned the Maruts? We will delay them on their journey sweeping-with what high spirit!-through the air like eagles.",
+    "morphology": "kasya_ka_SGM brahmāṇi_brahman_PANe jujuṣuḥ_juṣ_PPs3In yuvānaḥ_yuvan_PNM kaḥ_ka_SNM adhvare_adhvara_SLM marutaḥ_marut_PAM ā_ā_U vavarta_vṛt_SPs3In śyenān_śyena_PAM iva_iva_U dhrajataḥ_dhraj_PAPaPrM antarikṣe_antarikṣa_SLNe kena_"
+  },
+  {
+    "index": 29214,
+    "sanskrit": "yadi pramāṇānāṃ pramāṇāntarāpekṣā na syāt tadā pramāṇam ityeṣu pratyakṣādiṣu niścayo na syāt /",
+    "english": "If Cognitions did not need (corroboration by) other Cognitions, then, in regard to Sense-perception and the rest, there could be no certainty as to their being ‘valid’;",
+    "morphology": "yadi_yadi_ pramāṇānām_pramāṇa_PGNe pramāṇa_pramāṇa_Cp antara_antara_Cp apekṣā_apekṣā_SNF na_na_ syāt_as_SPr3O tadā_tadā_ pramāṇam_pramāṇa_SNNe iti_iti_ eṣu_idam_PLNe pratyakṣa_pratyakṣa_Cp ādiṣu_ādi_PLNe niścayaḥ_n"
+  },
+  {
+    "index": 29215,
+    "sanskrit": "iti tad vacanaṃ satyaṃ bhavatv adya divaukasaḥ / putrāś ca pitaraś caiva vayaṃ sarve parasparam //",
+    "english": "Let his words prove true to-day, gods, and we are now respectively fathers and sons.",
+    "morphology": "iti_iti_ tat_tad_SNNe vacanam_vacana_SNNe satyam_satya_SNNe bhavatu_bhū_SPr3Im adya_adya_ divaukasaḥ_divaukas_PVM  / putrāḥ_putra_PNM ca_ca_ pitaraḥ_pitṛ_PNM ca_ca_ eva_eva_ vayam_mad_PN sarve_sarva_PNM parasparam_paraspara_SAM  /"
+  }
+]

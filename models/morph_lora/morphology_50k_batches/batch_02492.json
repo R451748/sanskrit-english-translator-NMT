@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19928,
+    "sanskrit": "āśukārī muhuścārī pakvādhāna guda ālayaḥ",
+    "english": "It has its primary field of action in the intestinal tract (Pakvadhana) and the rectum (Guda).",
+    "morphology": "āśukārī_āśukārin_SNM muhuścārī_muhuścārin_SNM pakvādhāna_pakvādhāna_NeCp guda_guda_MCp ālayaḥ_ālaya_SNM"
+  },
+  {
+    "index": 19929,
+    "sanskrit": "bhava bhāvanayā mukto bhāvābhāvavivarjitaḥ / cidātmansaṃsthitāḥ keva vada te vāsanādayaḥ //",
+    "english": "Say thou that hast the intellectual soul, what relation doth thy immaterial soul bear to the material world, and being freed from thy earthly cares, how canst thou entertain any earthly desire or affection in it.",
+    "morphology": "bhava_bhū_SPr2Im bhāvanayā_bhāvanā_SIF muktaḥ_muc_SNPaM bhāva_bhāva_Cp abhāva_abhāva_Cp vivarjitaḥ_vivarjay_SNPaM  / cit_cit_Cp ātman_ātman_SVM saṃsthitāḥ_saṃsthā_PNPaM kā_ka_SNF iva_iva_ vada_vad_SPr2Im te_tvad_SG vāsanā_vāsanā"
+  },
+  {
+    "index": 19930,
+    "sanskrit": "svarga loke gṛhasthānām pratiṣṭhā niyata ātmanām",
+    "english": "For all householders of restrained souls, the regions of heaven constitute the high reward.",
+    "morphology": "svarga_svarga_MCp loke_loka_SLM gṛhasthānām_gṛhastha_PGM"
+  },
+  {
+    "index": 19931,
+    "sanskrit": "ahaṃ kilendro devānāṃ tvaṃ gavām indratāṃ gataḥ /",
+    "english": "am the king of the celestials and thou hast, although eternal, become now the king of the cows.",
+    "morphology": "aham_mad_SN kila_kila_ indraḥ_indra_SNM devānām_deva_PGM tvam_tvad_SN gavām_go_PGM indra_indra_Cp tām_tā_SAF gataḥ_gam_SNPaM  /"
+  },
+  {
+    "index": 19932,
+    "sanskrit": "tasminna vasare viprāstasya tīrthasya śīkarāḥ | nyapataṃstasya gātreṣu vāyunā vai samāhṛtāḥ || 80 ||",
+    "english": "80. At that time, O Brāhmaṇas, the sprays of water from that Tīrtha brought by wind fell on. his limbs.",
+    "morphology": "tasmin_tad_SLM na_na_ vasare_vasara_SLM viprāḥ_vipra_PVM tasya_tad_SGM tīrthasya_tīrtha_SGM śīkarāḥ_śīkara_PNM  / nyapatan_nipat_P3ImIn tasya_tad_SGM gātreṣu_gātra_PLNe vāyunā_vāyu_SIM vai_vai_ samāhṛtāḥ_samāhṛ_PNPaM  /"
+  },
+  {
+    "index": 19933,
+    "sanskrit": "hiraṇyaṃ tatra dātavyaṃ samyagyātrāphalepsubhiḥ | catvāri tasya nāmāni kathyamānāni me śṛṇu || 6 ||",
+    "english": "6. Gold should be offered there by those who wish the benefit of a perfect pilgrimage. Listen, as I enumerate the four names (of the deity).",
+    "morphology": "hiraṇyam_hiraṇya_SNNe tatra_tatra_ dātavyam_dā_SNNeGd samyak_samyak_ yātrā_yātrā_Cp phala_phala_Cp īpsubhiḥ_īpsu_PIM  / catvāri_catur_PANe tasya_tad_SGM nāmāni_nāman_PANe kathyamānāni_kathay_PAPaPrNePv me_mad_SG śṛṇu_śru_SPr2Im  /"
+  },
+  {
+    "index": 19934,
+    "sanskrit": "pradhāna vadhaḥ eva asya vināśaḥ tam karomi aham yudhiṣṭhiraḥ uvāca tasmāt tvam eva rādheyam bhīmasenaḥ suyodhanam",
+    "english": "By slaying their foremost of warriors, I will achieve their destruction.\" \"'Yudhishthira said, \"With that view, do thou proceed against the son of Radha, and let Bhimasena proceed against Suyodhana, Nakula against Virshasena, Sahadeva against the son of Subala, Satanika against Duhshasana, that bull amongst the Sinis, viz., Satyaki, against the son of Hridika, and Pandya against the son of Drona.",
+    "morphology": "pradhāna_pradhāna_NeCp vadhaḥ_vadha_SNM eva_eva_U asya_idam_SGM vināśaḥ_vināśa_SNM tam_tad_SAM karomi_kṛ_SPr1In aham_mad_SN yudhiṣṭhiraḥ_yudhiṣṭhira_SNM uvāca_vac_SPs3In tasmāt_tasmāt_U tvam_tvad_SN eva_eva_U rādheyam_rādheya_SAM"
+  },
+  {
+    "index": 19935,
+    "sanskrit": "rāyaḥ kāmaḥ vajra hastam su dakṣiṇam putraḥ na pitaram huve",
+    "english": "Longing for wealth I call on him, the Thunderer with the strong right hand, As a son calleth on his sire.",
+    "morphology": "rāyaḥ_rai_SGM kāmaḥ_kāma_SNM vajra_vajra_MCp hastam_hasta_SAM su_su_U dakṣiṇam_dakṣiṇā_SAM putraḥ_putra_SNM na_na_U pitaram_pitṛ_SAM huve_hvā_SPr3In"
+  }
+]

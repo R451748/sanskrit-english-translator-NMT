@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19544,
+    "sanskrit": "dadṛśuścāpi te tatra sarparājavaśaṅgatam / niṣprayatnīkṛtaṃ kṛṣṇaṃ sarpabhogaviveṣṭitam //",
+    "english": "There they beheld him apparently in the power of the serpentking, encompassed by twining snakes, and making no effort to escape.",
+    "morphology": "dadṛśuḥ_dṛś_PPs3In ca_ca_ api_api_ te_tad_PNM tatra_tatra_ sarpa_sarpa_Cp rāja_rājan_Cp vaśaṅgatam_vaśaṅgata_SAM  / niṣprayatnīkṛtam_niṣprayatnīkṛ_SAPaM kṛṣṇam_kṛṣṇa_SAM sarpa_sarpa_Cp bhoga_bhoga_Cp viveṣṭitam_viv"
+  },
+  {
+    "index": 19545,
+    "sanskrit": "tāś ca dravyaguṇakarmātmakapadārthatrayāśritatvāt tannirākaranād evāpāstāḥ /",
+    "english": "These are held to be subsistent in the three Categories, Substance, Quality and Action; and hence become discarded by the rejection of these Categories themselves;",
+    "morphology": "tāḥ_tad_PNF ca_ca_ dravya_dravya_Cp guṇa_guṇa_Cp karma_karman_Cp ātmaka_ātmaka_Cp padārtha_padārtha_Cp traya_traya_Cp āśrita_āśri_PaCp tvāt_tva_SBNe tad_tad_Cp nirākaranāt_nirākarana_SBNe eva_eva_ apāstāḥ_apās_PNPaF  /"
+  },
+  {
+    "index": 19546,
+    "sanskrit": "ekaikaṃ grāsamaśnīyāt tryahāṇi trīṇi pūrvavat / tryahañcopavasedantyamatikṛcchraṃ caran dvijaḥ //",
+    "english": "A brahmin who is practising the atikṛcchra should eat one morsel a day for three days three times as before and fast for three days at the end.",
+    "morphology": "ekaikam_ekaika_SAM grāsam_grāsa_SAM aśnīyāt_aś_SPr3O tri_tri_Cp ahāṇi_ahar_PANe trīṇi_tri_PANe pūrvavat_pūrvavat_  / tri_tri_Cp ahan_ahar_SANe ca_ca_ upavaset_upavas_SPr3O antyam_antya_SAM atikṛcchram_atikṛcchra_SAM caran_car_SNPaPrM dvij"
+  },
+  {
+    "index": 19547,
+    "sanskrit": "tvatpitā smṛtikāraśca bhaviṣyati dvijārcitaḥ | sthānasyāsya na nāśaśca kadācitprabhaviṣyati || 78 ||",
+    "english": "78. Your father-will become an author of a Smṛti text (viz. Hārita-Smṛti). He will be adored by Brāhmaṇas. This spot will never perish.",
+    "morphology": "tvad_tvad_Cp pitā_pitṛ_SNM smṛti_smṛti_Cp kāraḥ_kāra_SNM ca_ca_ bhaviṣyati_bhū_SFu3In dvija_dvija_Cp arcitaḥ_arcay_SNPaM  / sthānasya_sthāna_SGNe asya_idam_SGNe na_na_ nāśaḥ_nāśa_SNM ca_ca_ kadācid_kadācid_ prabhaviṣyati_prabhū"
+  },
+  {
+    "index": 19548,
+    "sanskrit": "jīvanaviśiṣṭas tv asau gṛhyamāṇo liṅgatām aśnute vyabhicāranirāsāt /",
+    "english": "On previous occasions we have found that whenever a living person has been absent from his house he has been present outside the place of his residence.",
+    "morphology": "jīvana_jīvana_Cp viśiṣṭaḥ_viśiṣ_SNPaM tu_tu_ asau_adas_SNM gṛhyamāṇaḥ_grah_SNPaPrMPv liṅga_liṅga_Cp tām_tā_SAF aśnute_aś_SPr3In vyabhicāra_vyabhicāra_Cp nirāsāt_nirāsa_SBM  /"
+  },
+  {
+    "index": 19549,
+    "sanskrit": "ayam-eva samyag-dṣṭyādi-r-āryāṣṭāṅgo mārgaḥ |",
+    "english": "It is that eightfold noble path beginning with right view and so on.",
+    "morphology": "ayam_idam_SNM eva_eva_ ārya_ārya_Cp aṣṭa_aṣṭan_Cp aṅgaḥ_aṅga_SNM mārgaḥ_mārga_SNM"
+  },
+  {
+    "index": 19550,
+    "sanskrit": "mūtra doṣān jayet sarvān anya yogaiḥ su durjayān",
+    "english": "By using this Ghrita, a man is relieved of all injurious principles of his body, and gets rid of distressing and dreadful urinary troubles which cannot otherwise be easily cured by any other remedy.",
+    "morphology": "mūtra_mūtra_NeCp doṣān_doṣa_PAM jayet_ji_SPr3O sarvān_sarva_PAM anya_anya_Cp yogaiḥ_yoga_PIM su_su_U durjayān_durjaya_PAM"
+  },
+  {
+    "index": 19551,
+    "sanskrit": "sainikāḥ ca mudā yuktāḥ vardhayanti dvijottamam duryodhanam puraskṛtya prārthayantaḥ mahat yaśaḥ",
+    "english": "And the troops, filled with joy, and with Duryodhana at their head, desirous of winning great renown, began to glorify that best of Brahmanas.",
+    "morphology": "sainikāḥ_sainika_PNM ca_ca_U mudā_mud_SIF yuktāḥ_yuj_PNPaPsM vardhayanti_vardhay_PPr3In dvijottamam_dvijottama_SAM duryodhanam_duryodhana_SAM puraskṛtya_puraskṛ_Co prārthayantaḥ_prārthay_PNPaPrM mahat_mahat_SANe yaśaḥ_yaśas_SANe"
+  }
+]

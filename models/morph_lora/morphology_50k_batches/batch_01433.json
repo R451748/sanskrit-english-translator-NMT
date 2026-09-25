@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11456,
+    "sanskrit": "snehanam ropaṇam vā api hīna yuktam apārthakam",
+    "english": "Deficient applications of both the Snehana (soothing) and the Ropana (healing) Anjanas (in respect of ocular affections) are sure to prove abortive in their effects.",
+    "morphology": "snehanam_snehana_SNNe ropaṇam_ropaṇa_SNNe vā_vā_U api_api_U hīna_hā_PaPsCp"
+  },
+  {
+    "index": 11457,
+    "sanskrit": "nāha asma samayam tāta tat ca naḥ brāhmaṇāḥ viduḥ",
+    "english": "That we violated not our word is well-known to the Brahman as who were with us.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 11458,
+    "sanskrit": "iti te kathitam rājan yathāvṛttam śrutam mayā duḥṣantaḥ uvāca",
+    "english": "Thus have I told thee, O king, all that hath been heard by me regarding my birth!'\" SECTION LXXIII (Sambhava Parva continued) \"Vaisampayana continued, 'King Dushmanta, hearing all this, said, 'Well-spoken, O princess, this that thou hast said! Be my wife, O beautiful one! What shall I do for thee? Golden garlands, robes, ear-rings of gold, white and handsome pearls, from various countries, golden coins, finest carpets, I shall present thee this very day.",
+    "morphology": "iti_iti_U te_tvad_SG kathitam_kathay_SNPaPsNe rājan_rājan_SVM yathāvṛttam_yathāvṛtta_SNNe śrutam_śru_SNPaPsNe mayā_mad_SI duḥṣaṇā_duḥṣaṇā_SNF"
+  },
+  {
+    "index": 11459,
+    "sanskrit": "devā ūcuḥ | dhātastripuranāthena satārakasutena hi | sarve pratāpitā nūnaṃ mayena tridivaukasaḥ ||",
+    "english": "5. O Brahmā, the heaven-dwellers have been subjected to great distress by Maya the virtual ruler of the three cities, accompanied by the sons of Tāraka.",
+    "morphology": "devāḥ_deva_PNM ūcuḥ_vac_PPs3In  / dhātar_dhātṛ_SVM tripura_tripura_Cp nāthena_nātha_SIM sa_sa_ tāraka_tāraka_Cp sutena_suta_SIM hi_hi_  / sarve_sarva_PNM pratāpitāḥ_pratāpay_PNPaM nūnam_nūnam_ mayena_maya_SIM tridivaukasaḥ_tridivauka"
+  },
+  {
+    "index": 11460,
+    "sanskrit": "tān nikṛttān iṣūn dṛṣṭvā dūratas brahma vādinā nyavedayat keśavāya vismitaḥ śvetavāhanaḥ na etat astram mayā śakyam dvis prayoktum janārdana",
+    "english": "Beholding those shafts of his thus frustrated from a distance by that utterer of Brahma (Aswatthaman), Arjuna, owning white steeds, filled with amazement represented unto Kesava, saying, 'I cannot, Janardana, twice use this weapon, for if do so, it will slay my own self and my own troops.",
+    "morphology": "tān_tad_PAM nikṛttān_nikṛt_PAPaPsM iṣūn_iṣu_PAM dṛṣṭvā_dṛś_Co dūratas_dūratas_U brahma_brahman_NeCp vādinā_vādin_SIM nyavedayat_niveday_SPs3In keśavāya_keśava_SDM vismitaḥ_vismi_SNPaPsM śvetavāhanaḥ_śvetavāhana_SNM na_n"
+  },
+  {
+    "index": 11461,
+    "sanskrit": "pūrvaṃ ced abhidhānakriyā so 'yam abhihitānvaya eva nābhidhīyamānānvayaḥ /",
+    "english": "Again, if words convey their meanings at first then it is the hypothesis of abhihita-anvaya but not that of abhidhīyamāna-anvaya (the relation of meanings being expressed).",
+    "morphology": "pūrvam_pūrvam_ ced_ced_ abhidhāna_abhidhāna_Cp kriyā_kriyā_SNF saḥ_tad_SNM ayam_idam_SNM abhihita_abhidhā_PaCp anvayaḥ_anvaya_SNM eva_eva_ na_na_ abhidhīyamāna_abhidhā_PaPrPvCp anvayaḥ_anvaya_SNM  /"
+  },
+  {
+    "index": 11462,
+    "sanskrit": "svabhāvapratipakṣānyāmākārākāragocarāt / prayogakṛtakṛtyatvahetūpacayoto daśa // saptabhiḥ kila kāraṇairdaśa jñānāni vyavasthāpyante /",
+    "english": "the distinction is established by reason of their nature, their opposition, their aspect, their aspect and their object, their preparatory exercises, the achievement of their task, and the extension of their cause.",
+    "morphology": "svabhāva_svabhāva_Cp pratipakṣa_pratipakṣa_Cp anyām_anya_SAF ākāra_ākāra_Cp ākāra_ākāra_Cp gocarāt_gocara_SBM  / prayoga_prayoga_Cp kṛta_kṛ_PaCp kṛtya_kṛtya_Cp tva_tva_Cp hetu_hetu_Cp upacaya_upacaya_Cp ūtaḥ_ūta_SNM daśa_daśan"
+  },
+  {
+    "index": 11463,
+    "sanskrit": "tacca nānyo vijānāti svayamevānubhūyate / lokaiṣaṇāviraktena jñena jñatvamivātmani //",
+    "english": "This state of saintly anaesthesia is not marked by others, nor perceived by the saint himself; because the knowing sage shuns the society of men in disgust, and is enlightened with his spiritual knowledge within himself.",
+    "morphology": "tat_tad_SANe ca_ca_ na_na_ anyaḥ_anya_SNM vijānāti_vijñā_SPr3In svayam_svayam_ eva_eva_ anubhūyate_anubhū_SPr3InPv  / loka_loka_Cp eṣaṇā_eṣaṇā_Cp viraktena_virañj_SIPaM jñena_jña_SIM jña_jña_Cp tvam_tva_SNNe iva_iva_ ātmani_ātman_S"
+  }
+]

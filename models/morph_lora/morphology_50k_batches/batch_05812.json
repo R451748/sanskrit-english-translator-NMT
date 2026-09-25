@@ -1,0 +1,50 @@
+[
+  {
+    "index": 46488,
+    "sanskrit": "durnāma śvāsa kāseṣu hitam agneḥ ca dīpanam |",
+    "english": "Its beneficial effect is witnessed in cases of piles, dyspnea and cough.",
+    "morphology": "durnāma_durnāman_NeCp śvāsa_śvāsa_MCp kāseṣu_kāsa_PLM hitam_hita_SNNe agneḥ_agni_SGM ca_ca_U"
+  },
+  {
+    "index": 46489,
+    "sanskrit": "khañjaḥ pādavikalaḥ /",
+    "english": "\"Lame\" who is without one leg.",
+    "morphology": "__khañja_U __pāda_U __vikala_U"
+  },
+  {
+    "index": 46490,
+    "sanskrit": "sugandhiḥ su laghuḥ sūkṣmaḥ tīkṣṇa uṣṇaḥ kaṭukaḥ rase",
+    "english": "Guggulu is aromatic, light, penetrating into the minutest parts of the body, sharp, heat-making in potency, pungent in taste and digestion, laxative, emulsive, slimy, and wholesome to the heart (Hridya).",
+    "morphology": "sugandhiḥ_sugandhi_SNM su_su_U laghuḥ_laghu_SNM sūkṣmaḥ_sūkṣma_SNM tīkṣṇa_tīkṣṇa_Cp uṣṇaḥ_uṣṇa_SNM kaṭukaḥ_kaṭuka_SNM rase_rasa_SLM"
+  },
+  {
+    "index": 46491,
+    "sanskrit": "na cedṛśe 'rthe sāmānyatodṛṣṭaṃ prakramate /",
+    "english": "Nor in such cases, can we have any operation of the Samanyatodrshta Infer ence towards the inference of the sacrifice.",
+    "morphology": "na_na_ ca_ca_ īdṛśe_īdṛśa_SLM arthe_artha_SLM sāmānyatodṛṣṭam_sāmānyatodṛṣṭa_SNNe prakramate_prakram_SPr3In  /"
+  },
+  {
+    "index": 46492,
+    "sanskrit": "pātayitvā kṛpasya aśvān tathā ubhau pārṣṇisārathī atha enam daśabhiḥ bāṇaiḥ pratyavidhyat stanāntare",
+    "english": "Felling the steeds yoked to Kripa's car, as also both his Parshni charioteers, Abhimanyu pierced Kripa himself in the centre of the chest with ten arrows.",
+    "morphology": "pātayitvā_pātay_Co kṛpasya_kṛpa_SGM aśvān_aśva_PAM tathā_tathā_U ubhau_ubh_DuAM pārṣṇisārathī_pārṣṇisārathi_DuAM atha_atha_U enam_enad_SAM daśabhiḥ_daśan_PIM bāṇaiḥ_bāṇa_PIM pratyavidhyat_prativyadh_SPs3In stanāntare_s"
+  },
+  {
+    "index": 46493,
+    "sanskrit": "sambaddhāntāviva hīmau lokau tardmasamute paścādbhavatastadimāveva lokau mithunīkṛtya tayorenamadhi dīkṣayati //",
+    "english": "They are joined (fitted) together along their edge , for these two worlds are also, as it were, joined together at their edge. At the hind part they are fastened together through holes: thus, after uniting (mithunîkritya) these two worlds, he consecrates him thereon.",
+    "morphology": "sambaddha_sambandh_PaCp antau_anta_DuNM iva_iva_ hi_hi_ imau_idam_DuNM lokau_loka_DuNM tardma_tardman_Cp samute_saṃve_DuNPaNe paścāt_paścāt_ bhavataḥ_bhū_DuPr3In tat_tad_SANe imau_idam_DuAM eva_eva_ lokau_loka_DuAM mithunīkṛtya_mithunīkṛ_Co "
+  },
+  {
+    "index": 46494,
+    "sanskrit": "āditya vacanāt ca eva jātam mām sā vyasarjayat",
+    "english": "And at the command of Surya himself, she abandoned me as soon as I was born.",
+    "morphology": "āditya_āditya_MCp vacanāt_vacana_SBNe ca_ca_U eva_eva_U jātam_jan_SAPaPsM mām_mad_SA sā_tad_SNF"
+  },
+  {
+    "index": 46495,
+    "sanskrit": "tāṃ vīkṣya jagatāṃ dhātrīmāvirbhūtāṃ puraḥsthitām | nipetatustatpadayoḥ sa muniḥ sā ca kanyakā || 10 ||",
+    "english": "10. On seeing the Mother of the worlds appearing and standing before them, the sage and the girl fell down at her feet.",
+    "morphology": "tām_tad_SAF vīkṣya_vīkṣ_Co jagatām_jagant_PGNe dhātrīm_dhātrī_SAF āvirbhūtām_āvirbhū_SAPaF puras_puras_ sthitām_sthā_SAPaF  / nipetatuḥ_nipat_DuPs3In tad_tad_Cp padayoḥ_pada_DuLM sa_tad_SNM muniḥ_muni_SNM sā_tad_SNF ca_ca_ kanyak"
+  }
+]

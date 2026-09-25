@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23264,
+    "sanskrit": "etaṃ dṛḍhaṃ bandhanam āhu dhīrā ohārimaṃ sukhumaṃ dupramuñcaṃ |",
+    "english": "that bondage is strong say the wise, dragging down, subtle, hard to get free from,",
+    "morphology": "etam_etad_SAM dṛḍham_dṛḍha_SANe bandhanam_bandhana_SANe āhuḥ_ah_PPs3In dhīrāḥ_dhīra_PNM ohārimam_ohārima_SAM sukhumam_sukhuma_SAM dupramuñcam_dupramuñca_SAM  /"
+  },
+  {
+    "index": 23265,
+    "sanskrit": "bhrātṛvyasyaiva ruktvāgraṃ samānānām pary eti ye devā divy ekādaśa sthety āha |",
+    "english": "verily having destroyed his rival he reaches the top of his equals. 'Ye gods that are eleven in the sky', he says [1];",
+    "morphology": "bhrātṛvyasya_bhrātṛvya_SGM eva_eva_ ruktvā_ruj_Co agram_agra_SANe samānānām_samāna_PGM pari_pari_ eti_i_SPr3In ye_yad_PNM devāḥ_deva_PNM divi_div_SLM ekādaśa_ekādaśan_SNNe stha_as_PPr2In iti_iti_ āha_ah_SPs3In "
+  },
+  {
+    "index": 23266,
+    "sanskrit": "sa gajān gadayā nighnan vyacarat samare balī bhīmasenaḥ mahā bāhuḥ sa vajraḥ iva vāsavaḥ",
+    "english": "And the mighty-armed Bhimasena endued with great strength, slaying elephants with his mace, wandered over the field, like the slayer of Vritra among the Danava host.",
+    "morphology": "sa_tad_SNM gajān_gaja_PAM gadayā_gadā_SIF nighnan_nihan_SNPaPrM vyacarat_vicar_SPs3In samare_samara_SLNe balī_balin_SNM bhīmasenaḥ_bhīmasena_SNM mahā_mahat_Cp bāhuḥ_bāhu_SNM sa_sa_U vajraḥ_vajra_SNM iva_iva_U vāsavaḥ_vāsava_SNM"
+  },
+  {
+    "index": 23267,
+    "sanskrit": "vīryeṇa guṇān vardhayati /",
+    "english": "Through vigour, he increases his virtues.",
+    "morphology": "vīryeṇa_vīrya_SINe fl_fl_SIF"
+  },
+  {
+    "index": 23268,
+    "sanskrit": "abhyavarṣan sura gaṇān śrama saṃtāpa karśitān",
+    "english": "These, turned into clouds charged with lightning, poured showers that refreshed the tired gods.",
+    "morphology": "abhyavarṣan_abhivṛṣ_PPs3In sura_sura_MCp gaṇān_gaṇa_PAM śrama_śrama_MCp saṃtāpa_saṃtāpa_MCp karśitān_karśay_PAPaPsM"
+  },
+  {
+    "index": 23269,
+    "sanskrit": "mandāramālāvalanairhemābjapaṭalotkaraiḥ / kalpavṛkṣalatāgucchai ratnastabakamaṇḍalaiḥ //",
+    "english": "He presented wreaths of Mandara flowers, and chains of lotuses made of gold, together with garlands of leaves and flowers of kalpa plants, and bouquets and nosegays studded with gems and pearls.",
+    "morphology": "mandāra_mandāra_Cp mālā_mālā_Cp valanaiḥ_valana_PINe hema_heman_Cp abja_abja_Cp paṭala_paṭala_Cp utkaraiḥ_utkara_PIM  / kalpavṛkṣa_kalpavṛkṣa_Cp latā_latā_Cp gucchaiḥ_guccha_PINe ratna_ratna_Cp stabaka_stabaka_Cp maṇḍalaiḥ_m"
+  },
+  {
+    "index": 23270,
+    "sanskrit": "bhramaṃś ca daivāt tat prāpa sudūraṃ sa vanāntaram / tapasyantī sutā sāsya yatra hemaprabhā sthitā //",
+    "english": "And, as it happened, that King Buddhiprabha went to that distant forest, in which his daughter Hemaprabhā was engaged in ascetic practices.",
+    "morphology": "bhraman_bhram_SNPaPrM ca_ca_ daivāt_daiva_SBNe tat_tad_SANe prāpa_prāp_SPs3In su_su_ dūram_dūra_SANe sa_tad_SNM vana_vana_Cp antaram_antara_SANe  / tapasyantī_tapasyantī_SNF sutā_sutā_SNF sā_tad_SNF asya_idam_SGM yatra_yatra_ hemaprabhā_hemaprab"
+  },
+  {
+    "index": 23271,
+    "sanskrit": "vedavyāsaḥ ca yoga ātmā parāśara sutaḥ muniḥ saḥ api śaṃkaram ārādhya prāptavān atulam yaśaḥ",
+    "english": "The great ascetic who is Parasara's son, viz., Vyasa, of soul set on Yoga, has obtained great PART I celebrity by adoring Sankara.",
+    "morphology": "vedavyāsaḥ_vedavyāsa_SNM ca_ca_U yoga_yoga_MCp ātmā_ātman_SNM parāśara_parāśara_MCp sutaḥ_suta_SNM muniḥ_muni_SNM saḥ_tad_SNM api_api_U śaṃkaram_śaṃkara_SAM ārādhya_ārādhay_Co prāptavān_prāp_SNPaPsM atulam_atula_SANe yaśaḥ_"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 49592,
+    "sanskrit": "parihasta vi dhāraya yonim garbhāya dhātave / maryāde putram ā dhehi tam tvam ā gamaya āgame //",
+    "english": "Prepare accordantly, O Ring, the mother for the infant's birth. On the right way bring forth the boy. Make him come hither. I am here.",
+    "morphology": "parihasta_parihasta_SVM vi_vi_U dhāraya_dhāray_SPr2Im yonim_yoni_SAF garbhāya_garbha_SDM dhātave_dhā_In  / maryāde_maryādā_SVF putram_putra_SAM ā_ā_U dhehi_dhā_SPr2Im tam_tad_SAM tvam_tvad_SN ā_ā_U gamaya_gamay_SPr2Im āgame_āgama_SLM  /"
+  },
+  {
+    "index": 49593,
+    "sanskrit": "pitā ca tvā āha kaunteya pāṇḍuḥ kaurava nandanaḥ hariścandre śriyam dṛṣṭvā nṛpatau jāta vismayaḥ",
+    "english": "O king of the Kuru race, O son of Kunti, thy father Pandu, beholding the good fortune of Harischandra and wondering much thereat, hath told thee something.",
+    "morphology": "pitā_pitṛ_SNM ca_ca_U tvā_tvad_SA āha_ah_SPs3In kaunteya_kaunteya_SVM pāṇḍuḥ_pāṇḍu_SNM kaurava_kaurava_MCp nandanaḥ_nandana_SNM hariścandre_hariścandra_SLM śriyā_śrī_SIF"
+  },
+  {
+    "index": 49594,
+    "sanskrit": "vālakhilyā ūcuḥ | kṛṣṇādimāsakramataḥ kārtikasyādimāsataḥ | ākāśādīpadānaṃ tu kurvaṃtu ṛṣisattamāḥ || 100 ||",
+    "english": "100-102a. (Defective Text) May the excellent sages perform the rite of Ākāśadīpa (beacon light on the top of a pole) either in the month of Vaiśākha or in Kārttika according to the calendar which begins the month with the dark half (Pūrṇimānta-māsa calendar), from the beginning of the month previous to Kārttika i.e. Āśvina (i.e. from the full-moon day of Āśvina).",
+    "morphology": "vālakhilyāḥ_vālakhilya_PNM ūcuḥ_vac_PPs3In  / kṛṣṇa_kṛṣṇa_Cp ādi_ādi_Cp māsa_māsa_Cp kramataḥ_krama_SBM kārtikasya_kārttika_SGM ādi_ādi_Cp māsataḥ_māsa_SBM  / ākāśāt_ākāśāt_SBM __dīpa_U __dāna_U tu_tu_U kurvantu_"
+  },
+  {
+    "index": 49595,
+    "sanskrit": "yajñam ca naḥ tanvam ca pra jām ca ādityaiḥ indraḥ saha cīkl̥pāti",
+    "english": "Our sacrifice, our bodies, and our offspr. let Indra form together with Âdityas.",
+    "morphology": "yajñam_yajña_SAM"
+  },
+  {
+    "index": 49596,
+    "sanskrit": "tenaiva vatsagrahaṇenāvatsā dhenur ānīyatām itivad gor iti labdhe gograhaṇam ajāmahiṣyor apratiṣedhārtham /",
+    "english": "The \"cow\" having been already mentioned in the first half, the term is repeated in the second half, with a view to show that similar milk of the goat and the buffalo is not forbidden.",
+    "morphology": "tena_tad_SINe eva_eva_ vatsa_vatsa_Cp grahaṇena_grahaṇa_SINe avatsā_avatsa_SNF dhenuḥ_dhenu_SNF ānīyatām_ānī_SPr3ImPv iti_iti_ vat_vat_ goḥ_go_SGM iti_iti_ labdhe_labh_SLPaNe go_go_Cp grahaṇam_grahaṇa_SNNe"
+  },
+  {
+    "index": 49597,
+    "sanskrit": "parāśara uvāca | atrāvācyaṃ hi yatkiṃcitkathaṃ śaktosmi śaṃsitum | yacchrutvā dhṛtimaṃtopi viṣādaṃ prāpnuyurjanāḥ || 7 ||",
+    "english": "Parāśara said: 7. In this regard there is something that cannot be spoken. How will I be able to speak out? On hearing that, even men of great courage may become distressed.",
+    "morphology": "parāśaraḥ_parāśara_SNM uvāca_vac_SPs3In  / atra_atra_ avācyam_avācya_SNNe hi_hi_ yat_yad_SNNe kiṃcid_kaścit_SNNe katham_katham_ śaktaḥ_śak_SNPaM asmi_as_SPr1In śaṃsitum_śaṃs_In  / yat_yad_SANe śrutvā_śru_Co dhṛtimantaḥ_dhṛtim"
+  },
+  {
+    "index": 49598,
+    "sanskrit": "hetupanibandhanasya ca saṃgrāhakaṃ sūtram- 'utpādādvā tathāgatānāmanutpādādvā sthitaivaiṣāṃ dharmāṇāṃ dharmatā dharmasthititā dharmaniyāmakatā ca pratītyasamutpādānulomatā' iti| tathāgatānāṃ buddhānāṃ mate dharmāṇāṃ kāryakāraṇarūpāṇāṃ yā dharmatā kāryakāraṇabhāvarūpā eṣotpādādanutpādādvāsthitā|",
+    "english": "The aphorism comprising the aggregate determined by causation is: \"With the Tathāgatas the nature of these conditions is fixed by production, or by non-production; there is continuance as a condition, and determination by a condition, and conformity of the production to the cause;\" that is to say, according to the doctrine of the Tathāgata Buddhas, the nature of these conditions, that is, the causal relation between the cause and effect, results from production or from non-production.",
+    "morphology": "hetu_hetu_Cp upanibandhanasya_upanibandhana_SGNe ca_ca_ saṃgrāhakam_saṃgrāhaka_SNNe sūtram_sūtra_SNNe 'utpādāt_utpāda_SBM vā_vā_ tathāgatānām_tathāgata_PGM anutpādāt_anutpāda_SBM vā_vā_ sthitā_sthā_SNPaF eva_eva_ eṣām_idam_PGM dh"
+  },
+  {
+    "index": 49599,
+    "sanskrit": "vidhiparebhyo'pi vastu-tattvaviniścaya ityatra nidarśanamuktam – yathāyūpa iti |",
+    "english": "All this he says in even though etc. In the matter of the ascertainment of the true nature of a thing, even from those which have an injunction for purport, an example is given",
+    "morphology": "vidhi_vidhi_Cp parebhyaḥ_para_PDM api_api_ vastu_vastu_Cp tattva_tattva_Cp viniścayaḥ_viniścaya_SNM iti_iti_ atra_atra_ nidarśanam_nidarśana_SNNe uktam_vac_SNPaNe  /"
+  }
+]

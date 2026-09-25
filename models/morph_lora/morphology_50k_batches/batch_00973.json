@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7776,
+    "sanskrit": "saddharmaṃ vigarhati |",
+    "english": "One reviles true Dharma.",
+    "morphology": "saddharmam_saddharma_SAM"
+  },
+  {
+    "index": 7777,
+    "sanskrit": "tam jayantam anīkāni bhāradvājam tatas tatas pāñcāla putraḥ dyutimān vīraketuḥ samabhyayāt",
+    "english": "The illustrious Viraketu, the son of the ruler of the Panchalas, rushed against the son of Bharadwaja who thus engaged in vanquishing the Pandava ranks.",
+    "morphology": "tam_tad_SAM jayantam_ji_SAPaPrM anīkāni_anīka_PANe bhāradvājam_bhāradvāja_SAM tatas_tatas_U tatas_tatas_U pāñcāla_pāñcāla_MCp putraḥ_putra_SNM dyutimān_dyutimat_SNM vīraketuḥ_vīraketu_SNM samabhyayāt_samabhiyā_SPs3In"
+  },
+  {
+    "index": 7778,
+    "sanskrit": "mahā rājye sthitaḥ dīpte na striyam hantum arhasi hatā eva eṣā yadā strī ca bandhana sthā ca te gṛhe na ca eṣā deha bhedena hatā syāt iti me matiḥ",
+    "english": "Listen, O Yudhishthira, to the reasons urged by Avindhya! That wise Rakshasa said, 'Placed as thou art on the blazing throne of an empire, it behoveth thee not to slay a woman! Besides, this woman is already slain, considering that she is a captive in thy power! I think, she would not be slain if only her body were destroyed.",
+    "morphology": "mahā_mahat_Cp rājye_rājya_SLNe sthitaḥ_sthā_SNPaPsM dīpte_dīp_SLPaPsNe na_na_U striyam_strī_SAF hantum_han_In arhasi_arh_SPr2In hatā_han_SNPaPsF eva_eva_U eṣā_etad_SNF yadā_yadā_U strī_strī_SNF ca_ca_U bandhana_bandhana_NeCp sthā_stha_SNF"
+  },
+  {
+    "index": 7779,
+    "sanskrit": "saiveha paramaṃ dhāma saiveha paramā gatiḥ | saiveha paramā kāṣṭhā vibhūtiḥ parameṣṭhinaḥ ||",
+    "english": "77. That superhuman power of Parameṣṭhin is the greatest splendour, the greatest goal and the acme of achievement.",
+    "morphology": "sā_tad_SNF eva_eva_ iha_iha_ paramam_parama_SNNe dhāma_dhāman_SNNe sā_tad_SNF eva_eva_ iha_iha_ paramā_parama_SNF gatiḥ_gati_SNF  / sā_tad_SNF eva_eva_ iha_iha_ paramā_parama_SNF kāṣṭhā_kāṣṭhā_SNF vibhūtiḥ_vibhūti_SNF"
+  },
+  {
+    "index": 7780,
+    "sanskrit": "tat ca api apriyam asmākam putraḥ te samupācarat",
+    "english": "Thy son inflicted many wrongs on us.",
+    "morphology": "tat_tad_SANe ca_ca_U api_api_U apriyam_apriya_SANe asmākam_mad_PG putraḥ_putra_SNM"
+  },
+  {
+    "index": 7781,
+    "sanskrit": "sa snātaḥ sarvatīrtheṣu somapānaṃ dine dine | gaṅgādyāḥ saritaḥ sarvāḥ samudrāśca sarāṃsi ca | kalpānte saṃkṣayaṃ yānti na mṛtā tena narmadā || 15 ||",
+    "english": "One should always reside on the banks of Revā. He shall be on a par with one who has bathed in all the Tīrthas and imbibed Soma juice everyday. All the rivers beginning with Gaṅgā, seas and lakes perish at the end of the Kalpa. But Narmadā does not perish thereby.[Sanskrit text for this chapter is available]",
+    "morphology": "sa_tad_SNM snātaḥ_snā_SNPaM sarva_sarva_Cp tīrtheṣu_tīrtha_PLNe soma_soma_Cp pānam_pāna_SANe dine_dina_SLNe dine_dina_SLNe  / gaṅgā_gaṅgā_Cp ādyāḥ_ādya_PNF saritaḥ_sarit_PNF sarvāḥ_sarva_PNF samudrāḥ_samudra_PNM ca_ca_ sarāṃ"
+  },
+  {
+    "index": 7782,
+    "sanskrit": "iti dhyātvā gṛhītvā tatsthāpayitvā ca rakṣitam / mātuluṅgaṃ sa utthāya cakre bhūpatirāhnikam //",
+    "english": "And so these splendid jewels come back to me again and again.” Thus the king reflected, and he took that citron and put it away safely, and rose up and performed the duties of the day.",
+    "morphology": "iti_iti_ dhyātvā_dhyā_Co gṛhītvā_grah_Co tat_tad_SANe sthāpayitvā_sthāpay_Co ca_ca_ rakṣitam_rakṣ_SAPaNe  / mātuluṅgam_mātuluṅga_SANe saḥ_tad_SNM utthāya_utthā_Co cakre_kṛ_SPs3In bhūpatiḥ_bhūpati_SNM āhnikam_āhnika_SANe  /"
+  },
+  {
+    "index": 7783,
+    "sanskrit": "na ati dūra apayātam tu kṛta buddhim palāyane duryodhanaḥ svakam sainyam apaśyat śara vikṣatam",
+    "english": "Duryodhana then beheld his own troops who, mangled with arrows, had set their hearts on flight, gone not far from the field.",
+    "morphology": "na_na_U ati_ati_U dūra_dūra_Cp apayātam_apayā_SAPaPsM tu_tu_U kṛta_kṛ_PaPsCp buddhim_buddhi_SAM palāyane_palāyana_SLNe duryodhanaḥ_duryodhana_SNM svakam_svaka_SANe sainyam_sainya_SANe apaśyat_paś_SPs3In śara_śara_MCp vikṣatam_vikṣan_SAP"
+  }
+]

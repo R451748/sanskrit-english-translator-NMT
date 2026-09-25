@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11032,
+    "sanskrit": "te ced yathāuktaṃ kuryur na caenān grāhayet //",
+    "english": "If they say in reply as they are told, they may be caused to be set free;",
+    "morphology": "te_tad_PNM ced_ced_ yathā_yathā_ uktam_vac_SAPaNe kuryuḥ_kṛ_PPr3O na_na_ ca_ca_ enān_enad_PAM grāhayet_grāhay_SPr3O"
+  },
+  {
+    "index": 11033,
+    "sanskrit": "sa tasya vacanenaiva staṃbhito likhito yathā | calituṃ naiva śaknoti prabhāvāttasya sanmuneḥ || 34 ||",
+    "english": "34. The Messenger as it is, stunned with the words of the Sage as if they were written, was unable to walk.",
+    "morphology": "sa_tad_SNM tasya_tad_SGM vacanena_vacana_SINe eva_eva_ staṃbhitaḥ_stambhay_SNPaM likhitaḥ_likh_SNPaM yathā_yathā_  / calitum_cal_In na_na_ eva_eva_ śaknoti_śak_SPr3In prabhāvāt_prabhāva_SBM tasya_tad_SGM sat_sat_Cp muneḥ_muni_SGM"
+  },
+  {
+    "index": 11034,
+    "sanskrit": "medasaḥ asthi tatas majjā majjñaḥ śukram tu jāyate ||",
+    "english": "From bones originate marrow, which, in its turn, germinates semen.",
+    "morphology": "medasaḥ_medas_SBNe asthi_asthi_SNNe tatas_tatas_U majjā_majjan_SNM"
+  },
+  {
+    "index": 11035,
+    "sanskrit": "paryāptakāmasya kṛtātmanastivahaiva sarve pravilīyanti kāmāḥityādyātharvaṇe /",
+    "english": "this has been thus described in the Ātharvaṇa text‘for one whose all desires have been fulfilled and who has reached the Self,all desires disappear in this life itself’",
+    "morphology": "paryāpta_paryāp_PaCp kāmasya_kāma_SGM kṛtātmanaḥ_kṛtātman_SGM tivahā_tivaha_SNF eva_eva_ sarve_sarva_PNM pravilīyanti_pravilī_PPr3In kāmāḥ_kāma_PNM "
+  },
+  {
+    "index": 11036,
+    "sanskrit": "divaukasāṃ tu ye lokāḥ śūnyāḥ sarve tathā'bhavan | śūnye triviṣṭape jāte śūnyeṣu nara keṣu ca || 65 || nārado dharmarājānaṃ gatvā cedamuvāca ha | nākrandaḥ śrūyate rājanprākcchruto narake yathā || 66 || tathā na kriyate lekhyaṃ kiṃcidduṣkṛtakarmaṇām | citragupto muniriva sthito'yaṃ maunasaṃsthitaḥ || 67 ||",
+    "english": "65-68. All the abodes of the heaven-dwellers became empty similarly. When the heaven became empty, when all the Narakas too became void, Nārada went to Dharmarāja and spoke thus: “O king, no usual lamentation is heard in Naraka; nothing is being written about the evil-doers. Citragupta is observing a vow of silence like a sage. Tell me the reason, O king, why men of evil actions, great imposters and tricksters do not come to your abode.”",
+    "morphology": "divaukasām_divaukas_PGM tu_tu_ ye_yad_PNM lokāḥ_loka_PNM śūnyāḥ_śūnya_PNM sarve_sarva_PNM tathā_tathā_ abhavan_bhū_P3ImIn  / śūnye_śūnya_SLNe triviṣṭape_triviṣṭapa_SLNe jāte_jan_SLPaNe śūnyeṣu_śūnya_PLM ca_ca_  / nāradaḥ"
+  },
+  {
+    "index": 11037,
+    "sanskrit": "yathā naḥ śreyasaḥ karad yathā no vasyasaḥ karad yathā naḥ paśumataḥ karad yathā no vyavasāyayāt |",
+    "english": "That he may make us prosperous, That he may increase our wealth, That he may make us rich in cattle, That he may embolden us.",
+    "morphology": "yathā_yathā_ naḥ_mad_PA śreyasaḥ_śreyas_PAM karat_kṛ_SPs3Su yathā_yathā_ naḥ_mad_PA vasyasaḥ_vasyas_PAM karat_kṛ_SPs3Su yathā_yathā_ naḥ_mad_PA paśumataḥ_paśumat_PAM karat_kṛ_SPs3Su yathā_yathā_ naḥ_mad_PA vyavasāyayāt_vya"
+  },
+  {
+    "index": 11038,
+    "sanskrit": "svargamārgapade //",
+    "english": "And at Svargamârgapada (or Rathamârga);",
+    "morphology": "__U"
+  },
+  {
+    "index": 11039,
+    "sanskrit": "vedhāḥ sva aṅgaḥ ajitaḥ kṛṣṇaḥ dṛḍhaḥ saṃkarṣaṇaḥ acyutaḥ",
+    "english": "He that has never been vanquished; He that is the Island-born Krishna; He that is enduring (in consequence of His transcending decay): He that mows all things and is Himself above deterioration;",
+    "morphology": "vedhāḥ_vedhas_SNM sva_sva_Cp aṅgaḥ_aṅga_SNM ajitaḥ_ajita_SNM kṛṣṇaḥ_kṛṣṇa_SNM dṛḍhaḥ_dṛḍha_SNM saṃkaḥḥḥ_saṃkaṣṭa_SNM"
+  }
+]

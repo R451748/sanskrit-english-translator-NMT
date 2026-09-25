@@ -1,0 +1,50 @@
+[
+  {
+    "index": 37552,
+    "sanskrit": "dharmanairātmyajñānād api jñeyāvaraṇapratipakṣatvāt jñeyāvaraṇaṃ prahīyate /",
+    "english": "The realization of the dharmanairātmya as the counterpart of the jneyāvarana) annuls the latter.",
+    "morphology": "dharma_dharma_Cp nairātmya_nairātmya_Cp jñānāt_jñāna_SBNe api_api_ jñeya_jñā_GdCp āvaraṇa_āvaraṇa_Cp pratipakṣa_pratipakṣa_Cp tvāt_tva_SBNe jñeya_jñā_GdCp āvaraṇam_āvaraṇa_SNNe prahīyate_prahā_SPr3InPv  /"
+  },
+  {
+    "index": 37553,
+    "sanskrit": "rasān seveta pitta ghnān pittalāni vivarjayet",
+    "english": "All Pitta-generating articles should be avoided and those which soothe the Pitta should be used.",
+    "morphology": "rasān_rasa_PAM seveta_sev_SPr3O pitta_pitta_NeCp ghnān_ghna_PAM pittalāni_pittala_PANe vivarjayet_vivarjay_SPr3O"
+  },
+  {
+    "index": 37554,
+    "sanskrit": "ime palāyamānānām narakāḥ pratyupasthitāḥ",
+    "english": "There, on the other side, are the regions of hell, intended for those that fly away from battle.",
+    "morphology": "ime_idam_PNM palāyamānānām_palāy_PGPaPrM narakāḥ_naraka_PNM"
+  },
+  {
+    "index": 37555,
+    "sanskrit": "aparaṃ parāparaṃ ca dvidhā tatsā parā tviyam | rūpakatvādudāsīnāccyuteyaṃ pūrṇatonmukhī | |",
+    "english": "-a There are two stages in the fourth state of consciousness, namely, anāmayā blemishless and savyāpārā active.",
+    "morphology": "aparam_apara_SNNe parāparam_parāpara_SNNe ca_ca_ dvidhā_dvidhā_ tat_tad_SNNe sā_tad_SNF parā_para_SNF tu_tu_ iyam_idam_SNF  / rūpaka_rūpaka_Cp tvāt_tva_SBNe udāsīnāt_udāsīna_SBNe cyutā_cyu_SNPaF iyam_idam_SNF pūrṇa_pṛ_PaCp tā_tā_Cp un"
+  },
+  {
+    "index": 37556,
+    "sanskrit": "dharma āsane niyuktaḥ san dharma mūlam nara ṛṣabha",
+    "english": "A kingdom, O bull among men, has its root in righteousness.",
+    "morphology": "dharma_dharma_MCp āsane_āsana_SLNe niyuktaḥ_niyuj_SNPaPsM san_as_SNPaPrM"
+  },
+  {
+    "index": 37557,
+    "sanskrit": "kṛta cihnam tu sugrīvam rāmaḥ dṛṣṭvā mahā dhanuḥ vicakarṣa dhanuḥ śreṣṭham vālim uddiśya lakṣya vat",
+    "english": "And Rama, recognising Sugriva by that sign, then drew his foremost of huge bows, aiming at Vali as his mark.",
+    "morphology": "kṛta_kṛ_PaPsCp cihnam_cihna_SAM tu_tu_U sugrīvam_sugrīva_SAM rāmaḥ_rāma_SNM dṛṣṭvā_dṛś_Co mahā_mahat_Cp dhanuḥ_dhanus_SANe vicakarṣa_vikṛṣ_SPs3In dhanuḥ_dhanus_SANe śreṣṭham_śreṣṭha_SANe vālim_vāli_SAM uddiśya_ud"
+  },
+  {
+    "index": 37558,
+    "sanskrit": "vipaḥ cite pavamānāya gāyata mahī na dhārā ati andhaḥ arṣati ahiḥ na jūṇām ati sarpati tvacam atyaḥ na krīl̥an asarat vr̥ṣā hariḥ",
+    "english": "Sing forth to Pavamâna skilled in holy song: the juice is flowing onward like a mighty stream. He.glideth like a serpent from his ancient skin, and like a playful horse the Tawny Steer hath run.",
+    "morphology": "vipaḥ_vip_PVF cite_cit_SDM pavamānāya_pū_SDPaPrM gāyata_gā_PPr2Im mahī_mah_SNF na_na_U dhārā_dhārā_SNF ati_ati_U andhaḥ_andhas_SANe arṣati_ṛṣ_SPr3In ahiḥ_ahi_SNM na_na_U jūṇām_jūṇā_SAF ati_ati_U sarpati_sṛp_SPr3In tvacam_tva"
+  },
+  {
+    "index": 37559,
+    "sanskrit": "tamaḥ saṃkalpayāmāsa saṃhāra iva bhūtabhuk / triviṣṭapasya deśo'sau babhūva timirākulaḥ //",
+    "english": "At last the shade of night overspread the landscape of the heavenly paradise, as if the god of destruction (Rudra) was advancing to bury the world under universal gloom.",
+    "morphology": "tamaḥ_tamas_SANe saṃkalpayāmāsa_saṃkalpay_SPs3InPe saṃhāre_saṃhāra_SLM iva_iva_ bhūtabhuj_bhūtabhuj_SNM  / triviṣṭapasya_triviṣṭapa_SGNe deśaḥ_deśa_SNM asau_adas_SNM babhūva_bhū_SPs3In timira_timira_Cp ākulaḥ_ākula_SNM  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 32096,
+    "sanskrit": "yuddhe hi ayam rudra kalpaḥ tvam ca brahma samaḥ anagha",
+    "english": "In battle, Karna is like Rudra, and thou art like Brahman in policy.",
+    "morphology": "yuddhe_yuddha_SLNe"
+  },
+  {
+    "index": 32097,
+    "sanskrit": "sā padmayoner ādeśāt pārśvaṃ sundopasundayoḥ / pralobhanāya prayayau kailāsodyānavartinoḥ //",
+    "english": "She, by the order of Brahmā, went to Sunda and Upasunda, while they were in the garden of Kailāsa, in order to seduce them.",
+    "morphology": "sā_tad_SNF padmayoneḥ_padmayoni_SGM ādeśāt_ādeśa_SBM pārśvam_pārśva_SANe sunda_sunda_Cp upasundayoḥ_upasunda_DuGM  / pralobhanāya_pralobhana_SDNe prayayau_prayā_SPs3In kailāsa_kailāsa_Cp udyāna_udyāna_Cp vartinoḥ_vartin_DuGM  /"
+  },
+  {
+    "index": 32098,
+    "sanskrit": "śeṣāṇi tattvadarśanasyāvaraṇaṃ /",
+    "english": "The remaining are obscurations relevant to the insight into reality.",
+    "morphology": "śeṣāṇi_śeṣa_PNNe tattva_tattva_Cp darśanasya_darśana_SGNe āvaraṇam_āvaraṇa_SNNe  /"
+  },
+  {
+    "index": 32099,
+    "sanskrit": "yajña aṅgaḥ yaḥ varāhaḥ vai bhūtvā gām ujjahāra ha lokatraya hita arthāya tasmai vīrya ātmane namaḥ",
+    "english": "Salutations to thee in thy form as the word![147] Assuming the form of a boar whose limbs were constituted by sacrifice, thou hadst raised the submerged earth for the benefit of the three worlds.",
+    "morphology": "yajña_yajña_MCp aṅgaḥ_aṅga_SNM yaḥ_yad_SNM varāhaḥ_varāha_SNM vai_vai_U bhūtvā_bhū_Co gām_go_SAF ujjahāra_uddhṛ_SPs3In ha_ha_U lokatraya_lokatraya_NeCp hita_hita_NeCp arthāya_artha_SDM tasmai_tad_SDM vīrya_vīrya_NeCp ātmane_ātman_"
+  },
+  {
+    "index": 32100,
+    "sanskrit": "atha vā tena balato 'nyasmin necchati tad vyayaṃ kurvati na dhanam āropayitavyam / yataḥ pareṇārthyamāna upacīyate na balāt prayuñjānaḥ, śāstraniṣedhāt /",
+    "english": "Or, the meaning may be that \"no loan shall he forced upon an unwilling spendthrift;as it is only when money is lent at the request of the other party that the moneylender prospers, and not when he forces the loan upon him, since such forcing is forbidden by law\".",
+    "morphology": "atha_atha_ vā_vā_ tena_tad_SIM balataḥ_bala_SBNe anyasmin_anya_SLM na_na_ icchati_iṣ_SPr3In tat_tad_SANe vyayam_vyaya_SAM kurvati_kṛ_SLPaPrM na_na_ dhanam_dhana_SNNe āropayitavyam_āropay_SNNeGd  / yatas_yatas_ pareṇa_para_SIM arthyamānaḥ_art"
+  },
+  {
+    "index": 32101,
+    "sanskrit": "upāyayuktaḥ prajñāsevanataśca samyak saṃvṛtiparamārthasatyakuśalo bhavati /",
+    "english": "The practitioner of wisdom prajñā coupled with means upāyaya becomes totally proficient in samvriti the apparent and paramārtha the ultimate truths.",
+    "morphology": "upāya_upāya_Cp yuktaḥ_yuj_SNPaM prajñā_prajñā_Cp sevanataḥ_sevana_SBNe ca_ca_ samyak_samyak_ saṃvṛti_saṃvṛti_Cp paramārtha_paramārtha_Cp satya_satya_Cp kuśalaḥ_kuśala_SNM"
+  },
+  {
+    "index": 32102,
+    "sanskrit": "dikpatibhyastato dadyāt sapavitraṃ vahirbaliṃ // siddhāntapustake dadyāt sapramāṇaṃ pavitrakaṃ /",
+    "english": "Oblation should be given outside along with a sacred thread to the guardian deities of all directions. Two theological books and a sacred thread should be offered.",
+    "morphology": "dikpatibhyaḥ_dikpati_PDM tatas_tatas_ dadyāt_dā_SPr3O sa_sa_ pavitram_pavitra_SAM vahis_vahis_ balim_bali_SAM  // siddhānta_siddhānta_Cp pustake_pustaka_SLM dadyāt_dā_SPr3O sa_sa_ pramāṇaḥ_pramāṇa_SNM pavitrakaḥ_pavitraka_SNM  /"
+  },
+  {
+    "index": 32103,
+    "sanskrit": "kartṛviśeṣaṇe hi vedavitpade brahmacāriṇo nādhikāraḥ syāt /",
+    "english": "While if the term \"learned in the Veda\" were taken as a significant epithet of the Nominative agent of the act enjoined, then the student would not be entitled to the act.",
+    "morphology": "kartṛ_kartṛ_Cp viśeṣaṇe_viśeṣaṇa_SLNe hi_hi_ veda_veda_Cp vid_vid_Cp pade_pada_SLNe brahmacāriṇaḥ_brahmacārin_SGM na_na_ adhikāraḥ_adhikāra_SNM"
+  }
+]

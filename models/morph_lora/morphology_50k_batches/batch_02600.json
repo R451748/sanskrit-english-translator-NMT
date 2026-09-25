@@ -1,0 +1,50 @@
+[
+  {
+    "index": 20792,
+    "sanskrit": "ācārya putraḥ kṣamatām na ayam kālaḥ sva bhedane",
+    "english": "O preceptor's son, do thou forgive. This is not the time for disunion.",
+    "morphology": "ācārya_ācārya_MCp putraḥ_putra_SNM kṣamatām_kṣam_SPr3Im"
+  },
+  {
+    "index": 20793,
+    "sanskrit": "pavamāna vidāḥ rayim asmabhyam soma su śriyam indo iti sahasra varcasam",
+    "english": "O Soma Pavamâna, find exceeding glorious wealth for us, Wealth, Indu, fraught with boundless might.",
+    "morphology": "pavamāna_pavamāna_SVM vidāḥ_vid_SPr2Su rayim_rayi_SAM asmabhyam_mad_PD soma_soma_SVM su_su_U śriyam_śrī_SAM indo_indu_SVM iti_iti_U sahasra_sahasra_NeCp varcasam_varcas_SAM"
+  },
+  {
+    "index": 20794,
+    "sanskrit": "ātmānaṃ tena samprokṣya pūjādravyañca vai dhruvam //",
+    "english": "One should then sprinkle that water on oneself as well as on the materials for worship.",
+    "morphology": "ātmānam_ātman_SAM tena_tad_SINe samprokṣya_samprokṣ_Co pūjā_pūjā_Cp dravyam_dravya_SANe ca_ca_ vai_vai_ dhruvam_dhruvam_"
+  },
+  {
+    "index": 20795,
+    "sanskrit": "pṛṣṭas tāṃs tādṛśāṃs tasyai mārgakleśāñ śaśaṃsa yat / tena sā bahu mene taṃ bhogaiś ceṣṭair upācarat //",
+    "english": "And when, on her questioning him, he told her those strange and painful adventures of his journey, she respected him much and bestowed on him all the enjoyments that heart could wish.",
+    "morphology": "pṛṣṭaḥ_pracch_SNPaM tān_tad_PAM tādṛśān_tādṛśa_PAM tasyai_tad_SDF mārga_mārga_Cp kleśān_kleśa_PAM śaśaṃsa_śaṃs_SPs3In yat_yat_  / tena_tena_ sā_tad_SNF bahu_bahu_SANe mene_man_SPs3In tam_tad_SAM bhogaiḥ_bhoga_PIM ca_ca_ i"
+  },
+  {
+    "index": 20796,
+    "sanskrit": "bhūmayānyekaniṣṭhāni niṣpiṇḍānyeva kānicit / kānicidvāripūrṇāni vahnipūrṇāni kānicit //",
+    "english": "There are some made of one material only (as solid earth), and others have no solidity in them (as air &c.); some are composed of the watery substance, and others are full of fiery matter in them.",
+    "morphology": "bhūmayāni_bhūmaya_PNNe eka_eka_Cp niṣṭhāni_niṣṭhā_PNNe niṣpiṇḍāni_niṣpiṇḍa_PNNe eva_eva_ kānicid_kaścit_PNNe  / kānicid_kaścit_PNNe vāri_vāri_Cp pūrṇāni_pṛ_PNPaNe vahni_vahni_Cp pūrṇāni_pṛ_PNPaNe kānicid_kaścit"
+  },
+  {
+    "index": 20797,
+    "sanskrit": "tadājñayā vīrabāhustadanveṣaṇahetave | praṇamya svāminaṃ bhaktyā mahāvīro drutaṃ yayau ||",
+    "english": "24. At his bidding, the great hero Vīrabāhu who bowed to his master with devotion started in search of it.",
+    "morphology": "tad_tad_Cp ājñayā_ājñā_SIF vīra_vīra_Cp bāhuḥ_bāhu_SNM tad_tad_Cp anveṣaṇa_anveṣaṇa_Cp hetave_hetu_SDM  / praṇamya_praṇam_Co svāminam_svāmin_SAM bhaktyā_bhakti_SIF mahā_mahat_Cp vīraḥ_vīra_SNM drutam_drutam_ yayau_yā_SPs3In"
+  },
+  {
+    "index": 20798,
+    "sanskrit": "prakaraṇasamākhyābhyāṃ ca karmadharmaḥ / sarvapramāṇānugrahārthaṃ prakaraṇe manuṣyapradhāne niveśaḥ /",
+    "english": "But since all these are not distinctly enjoined, therefore, we must take the sentences in question as Restrictive Injunctions. The Content and Name Sūtra however point them out as belonging to Actions and not to Man while all the six means of knowledge jointly point them out as finding a place in that Context wherein Man is the principal factor.",
+    "morphology": "prakaraṇa_prakaraṇa_Cp samākhyābhyām_samākhyā_DuIF ca_ca_ karma_karman_Cp dharmaḥ_dharma_SNM  / sarva_sarva_Cp pramāṇa_pramāṇa_Cp anugraha_anugraha_Cp artham_artha_SAM prakaraṇe_prakaraṇa_SLNe manuṣya_manuṣya_Cp pradhāne_pradhāna"
+  },
+  {
+    "index": 20799,
+    "sanskrit": "viśvāmitraḥ jamadagniḥ ca rājan ṛṣiḥ tathā gālavaḥ atha aṣṭakaḥ ca bharadvājaḥ arundhatī vālakhilyāḥ",
+    "english": "and Bhrigu and Vasishtha and Kasyapa and Gautama and Viswamitra and Jamadagni, O king! There were also the Rishi Galava, and Ashtaka and Bharadwaja and Arundhati and the Valakhilyas;",
+    "morphology": "viśvāmitraḥ_viśvāmitra_SNM jamadagniḥ_jamadagni_SNM ca_ca_U rājan_rājan_SVM ṛṣiḥ_ṛṣi_SNM tathā_tathā_U gālavaḥ_gālava_SNM atha_atha_U aṣṭakaḥ_aṣṭaka_SNM ca_ca_U bharadvājaḥ_bharadvāja_SNM arundhatī_arundhatī_FCp v"
+  }
+]

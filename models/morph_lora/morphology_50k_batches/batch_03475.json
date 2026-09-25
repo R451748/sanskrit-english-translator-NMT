@@ -1,0 +1,50 @@
+[
+  {
+    "index": 27792,
+    "sanskrit": "tāḥ kathaṃ rakṣanti /",
+    "english": "And how are they to guard themselves?",
+    "morphology": "tāḥ_tad_PNF "
+  },
+  {
+    "index": 27793,
+    "sanskrit": "nirṇayaḥ",
+    "english": "They are—",
+    "morphology": "nirṇayaḥ_"
+  },
+  {
+    "index": 27794,
+    "sanskrit": "gautama uvāca | kaccitte kuśalaṃ rājankaccitte padamavyayam || 66 ||",
+    "english": "Gautama said:",
+    "morphology": "gautamaḥ_gautama_SNM uvāca_vac_SPs3In  / kaccit_kaccit_ te_tvad_SG kuśalam_kuśala_SNNe rājan_rājan_SVM kaccit_kaccit_ te_tvad_SG padam_pada_SNNe avyayam_avyaya_SNNe"
+  },
+  {
+    "index": 27795,
+    "sanskrit": "sam mā agne varcasā sṛja sam prajayā sam āyuṣā / vidyuḥ me asya devāḥ indraḥ vidyāt saha ṛṣibhiḥ /",
+    "english": "Give me the boon of splendid strength; give, Agni! progeny and life. May the Gods know this prayer of mine, may Indra with the Rishis know.",
+    "morphology": "sam_sam_U mā_mad_SA agne_agni_SVM varcasā_varcas_SINe sṛja_sṛj_SPr2Im sam_sam_U prajayā_prajā_SIF sam_sam_U āyuṣā_āyus_SINe  / vidyuḥ_vid_PPr3O me_mad_SG asya_idam_SGM devāḥ_deva_PNM indraḥ_indra_SNM vidyāt_vid_SPr3O saha_saha_U ṛṣ"
+  },
+  {
+    "index": 27796,
+    "sanskrit": "niśamyeti vidhervākyaṃ narmadā sariduttamā | dhāturvaraṃ parityajya prāptā vārāṇasīṃ purīm || 14 ||",
+    "english": "14. On hearing these words of Vidhi (Brahmā) Narmaḍā, the excellent river, refused the boon of the Creator and came to the city of Vārāṇasī.",
+    "morphology": "niśamya_niśāmay_Co iti_iti_ vidheḥ_vidhi_SGM vākyam_vākya_SANe narmadā_narmadā_SNF sarit_sarit_SNF uttamā_uttama_SNF  / dhātuḥ_dhātṛ_SGM varam_vara_SAM parityajya_parityaj_Co prāptāḥ_prāp_PNPaM vārāṇasīm_vārāṇasī_SAF purīm_p"
+  },
+  {
+    "index": 27797,
+    "sanskrit": "sākṣāt mūrtam annaṃ kadācin na śliṣyati / piṇḍeṣv anuvartyamāneṣu annarasa uṣmāvasaṃparkāt saṃkrāmati haste / sa eva lepa ucyate /",
+    "english": "The answer to this is as followsIt is possible that solid food may not stick to the hand; but when the ball of food is being rolled up, the juices of the food are sure to stick to the hand, by reason of the contact with heat; and it is this that is called the \"smearing\".",
+    "morphology": "sākṣāt_sākṣāt_ mūrtam_mūrch_SNPaNe annam_anna_SNNe kadācid_kadācid_ na_na_ śliṣyati_śliṣ_SPr3In  / piṇḍeṣu_piṇḍa_PLM anuvartyamāneṣu_anuvartay_PLPaPrMPv anna_anna_Cp rasaḥ_rasa_SNM uṣmau_uṣman_SLM asaṃparkāt_asaṃpa"
+  },
+  {
+    "index": 27798,
+    "sanskrit": "ārupyesu samyagvākkarmāntājīvaiḥ prītisaṃkalpābhyāṃ ca varjitā dvātriṃśat /",
+    "english": "In the three Ārūpyas there is also absent Right Speech, Right actions, and Right Livelihood, but thirty-two adjutants of Bodhi remain.",
+    "morphology": "ārupyesu_ārupya_PLNe samyak_samyak_ vāc_vāc_Cp karmānta_karmānta_Cp ājīvaiḥ_ājīva_PIM prīti_prīti_Cp saṃkalpābhyām_saṃkalpa_DuIM ca_ca_ varjitā_varjay_SNPaF dvātriṃśat_dvātriṃśat_SNF  /"
+  },
+  {
+    "index": 27799,
+    "sanskrit": "tatraitatsyādicāpyupasaddhicaritvetyanuṣaṅgādagni pocatutyatva miti /",
+    "english": "Because in all these cases, the mention of the sequence to the Upasads and of Month would be wholly meaningless. When, however, the sentence is taken as laying down a distinct Agnihotra, there would be nothing incongruous in the laying down of many things. Hence the sentence must be taken as laying down a distinct Agnihotra.",
+    "morphology": "tatra_tatra_ etat_etad_SNNe syāt_as_SPr3O i_i_ ca_ca_ api_api_ upasad_upasad_Cp hi_hi_ caritvā_car_Co iti_iti_ anuṣaṅgāt_anuṣaṅga_SBM agni_agni_SVM iti_"
+  }
+]

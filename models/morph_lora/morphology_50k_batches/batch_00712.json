@@ -1,0 +1,50 @@
+[
+  {
+    "index": 5688,
+    "sanskrit": "evam etat mahā rāja yathā ayam keśavaḥ abravīt",
+    "english": "\"Narada said, 'It is even so, O thou of mighty arms, as Kesava here hath said.",
+    "morphology": "evam_evam_U etat_etad_SNNe mahā_mahat_Cp rāja_rāja_SVM yathā_yathā_U ayam_idam_SNM"
+  },
+  {
+    "index": 5689,
+    "sanskrit": "tataś ca ko doṣa ity āha tatrāsato 'pītyādi /",
+    "english": "Question: ‘What is the harm if that is so?’ Answer: [see verse 959 next]",
+    "morphology": "tatas_tatas_ ca_ca_ kaḥ_ka_SNM doṣaḥ_doṣa_SNM iti_iti_ āha_ah_SPs3In tatra_tatra_ asataḥ_asat_SGM api_api_ ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 5690,
+    "sanskrit": "brahmā tayā saṃsmṛtamātra eva strīrūpadhārī bhagavāṃśca viṣṇuḥ | indraśca sarveḥ saha sainyakaiśca strīrūpamāsthāya samāgatāste ||",
+    "english": "24. Thus remembered by the goddess, Brahmā, Viṣṇu, Indra and others assumed female forms and came there.[2]",
+    "morphology": "brahmā_brahman_SNM tayā_tad_SIF saṃsmṛta_saṃsmṛ_PaCp mātraḥ_mātra_SNM eva_eva_ strī_strī_Cp rūpa_rūpa_Cp dhārī_dhārin_SNM bhagavān_bhagavant_SNM ca_ca_ viṣṇuḥ_viṣṇu_SNM  / indraḥ_indra_SNM ca_ca_ sarveḥ_sarva_PIM saha_sa"
+  },
+  {
+    "index": 5691,
+    "sanskrit": "vaktavyam adhibhūtam ca vahniḥ tatra adhidaivatam",
+    "english": "As connected with objects, it is what is spoken. The presiding deity there is Agni.",
+    "morphology": "vaktavyam_vac_SNNeGd adhibhūtam_adhibhūta_SNNe ca_ca_U vahniḥ_vahni_SNM tatra_tatra_U"
+  },
+  {
+    "index": 5692,
+    "sanskrit": "yukṣvā hi devahūtamām̐ aśvām̐ agne rathīr iva / ni hotā pūrvyaḥ sadaḥ //",
+    "english": "Yoke, Agni, as a charioteer, thy steeds who best invoke the Gods: As ancient Hotar take thy seat. 38",
+    "morphology": "yukṣvā_yuj_SPs2Im hi_hi_ deva_deva_Cp hūtamām_hūtama_SAF aśvām_aśva_SAF agne_agni_SVM rathīḥ_rathī_SNM iva_iva_  / ni_ni_ hotā_hotṛ_SNM pūrvyaḥ_pūrvya_SNM sadaḥ_sad_SPs2  /"
+  },
+  {
+    "index": 5693,
+    "sanskrit": "tasyā anantaraṃ yāṃti pāpamārgeṇa pāpinaḥ | dharmiṣṭhā dharmamārgeṇa vimānavaramāśritāḥ || 38 ||",
+    "english": "38. After that (after crossing Vaitaraṇī) sinners go along the Pāpamārga (path of sin). The virtuous ride on excellent aerial chariots and go along the Dharmamārga (path of virtue).",
+    "morphology": "tasyāḥ_tad_SGF anantaram_anantaram_ yānti_yā_PPr3In pāpa_pāpa_Cp mārgeṇa_mārga_SIM pāpinaḥ_pāpin_PNM  / dharmiṣṭhāḥ_dharmiṣṭha_PNM dharma_dharma_Cp mārgeṇa_mārga_SIM vimāna_vimāna_Cp varam_vara_SAM āśritāḥ_āśri_PNPaM"
+  },
+  {
+    "index": 5694,
+    "sanskrit": "jahi mānaṃ mahākopaṃ kāluṣyaṃ krūratāṃ tathā / na mahānto nimajjanti prākṛte guṇasaṃkaṭe //",
+    "english": "Forsake, O my soul! the pride and anger of thy mind, and all the foulness and wiliness of thy heart; because the high-minded never fall into the faults and errors of the common people.",
+    "morphology": "jahi_hā_SPr2Im mānam_māna_SAM mahā_mahat_Cp kopam_kopa_SAM kāluṣyam_kāluṣya_SANe krūra_krūra_Cp tām_tā_SAF tathā_tathā_  / na_na_ mahāntaḥ_mahat_PNM nimajjanti_nimajj_PPr3In prākṛte_prākṛta_SLNe guṇa_guṇa_Cp saṃkaṭe_saṃka"
+  },
+  {
+    "index": 5695,
+    "sanskrit": "tataścāśīviṣo ghoro'bhavatphaṇasamākulaḥ | viṣaniḥśvāsanirdagdhasurasainyamahārathaḥ || 111 ||",
+    "english": "111. Thereupon he became a terrible serpent with a number of hoods. The great warriors in the army of Suras were burned by his poisonous breath.",
+    "morphology": "tatas_tatas_ ca_ca_ āśīviṣaḥ_āśīviṣa_SNM ghoraḥ_ghora_SNM abhavat_bhū_S3ImIn phaṇa_phaṇa_Cp samākulaḥ_samākula_SNM  / viṣa_viṣa_Cp niḥśvāsa_niḥśvāsa_Cp nirdagdha_nirdah_PaCp sura_sura_Cp sainya_sainya_Cp mahā_mahat_Cp ra"
+  }
+]

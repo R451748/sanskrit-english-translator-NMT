@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16536,
+    "sanskrit": "tat kathaṃ kṣaṇikagrāhi kathyate //",
+    "english": "Therefore, a pot is taken as a locative case.",
+    "morphology": "tat_tad_SNNe katham_katham_ kṣaṇika_kṣaṇika_Cp grāhi_grāhin_SNNe kathyate_kathay_SPr3InPv "
+  },
+  {
+    "index": 16537,
+    "sanskrit": "na abhavat vikṛtam kim cit mṛtasya api mahātmanaḥ",
+    "english": "Nothing, in that illustrious dead, seemed changed.",
+    "morphology": "na_na_U abhavat_bhū_SPs3In vikṛtam_vikṛ_SNPaPsNe kim_ka_SNNe cit_cit_SNNe ṛṣṭā_ṛṣṭa_SIM ḥ"
+  },
+  {
+    "index": 16538,
+    "sanskrit": "mantramudrādhvadravyāṇāṃ home sādhāraṇā sthitiḥ |",
+    "english": "-a Mantra, mudrā posture and oblation are common for initiation of all the students.",
+    "morphology": "__mantra_U __mudrā_U __adhvan_U __dravya_U"
+  },
+  {
+    "index": 16539,
+    "sanskrit": "tatra jñānī priyatara mamarūpañca sa smṛtaḥ | tasmātpriyataro nānyaḥ satyaṃ satyaṃ vadāmyaham ||",
+    "english": "6. The wise among these four is a great favourite of mine. He is of my own form. None is dearer to me than the wise. It is the truth. I tell you the truth.",
+    "morphology": "tatra_tatra_ jñānī_jñānin_SNM sa_tad_SNM smṛtaḥ_smṛ_SNPaM  / tasmāt_tad_SBM priyataraḥ_priyatara_SNM na_na_ anyaḥ_anya_SNM"
+  },
+  {
+    "index": 16540,
+    "sanskrit": "paścādātmani saivātmā nānāsaṃjñāḥ kariṣyati / ādhibhautikatānāmni pṛthvyādyā ātivāhike //",
+    "english": "The selfsame spirit then designates all these several parts of itself by various appellations, and the incorporeal spirit assumes to itself, an endless variety of material and terraqueous natures and names.",
+    "morphology": "paścāt_paścāt_ ātmani_ātman_SLM saḥ_tad_SNM eva_eva_ ātmā_ātman_SNM nānā_nānā_ saṃjñāḥ_saṃjñā_PAF kariṣyati_kṛ_SFu3In  / ādhibhautikatā_ādhibhautikatā_Cp nāmni_nāman_SLNe pṛthvī_pṛthvī_Cp ādyāḥ_ādya_PNM ātivā"
+  },
+  {
+    "index": 16541,
+    "sanskrit": "kve jāno 'bhūditi tadyadevāsyātra mitraḥ sviṣṭaṃ gṛhṇāti tadevāsmā etayā prītaḥ pratyavasṛjati yadu cāsya varuṇo duriṣṭaṃ gṛhṇāti taccaivāsmā etayā prītaḥ sviṣṭaṃ karoti tadu cāsmai pratyavasṛjati so 'syaiṣa sva eva yajño bhavati svaṃ sukṛtam //",
+    "english": "Then they say, 'What has become of the sacrificer?'--whatever well-offered part of his (sacrifice) Mitra here takes, that he now again surrenders to him, being pleased with this (cow); and whatever ill-offered part of his Varuna takes, that indeed he makes well-offered for him, being pleased with this (cow), and surrenders it again to him. This forsooth is his own sacrifice , his own merit. And again, why there is a barren cow for Mitra and Varuna.",
+    "morphology": "kva_kva_ jānaḥ_jānu_SNNe abhūt_bhū_SPs3In iti_iti_ tat_tad_SANe yat_yad_SANe eva_eva_ asya_idam_SGM atra_atra_ mitraḥ_mitra_SNM su_su_ iṣṭam_yaj_SAPaNe gṛhṇāti_grah_SPr3In tat_tad_SANe eva_eva_ asmai_idam_SDM etayā_etad_SIF prītaḥ_prī"
+  },
+  {
+    "index": 16542,
+    "sanskrit": "hiraṇyaṃ tatra dātavyaṃ samyagyātrāphalepsubhiḥ || 73 ||",
+    "english": "73. Gold should be offered there by those who are desirous of getting the full benefit of a perfect pilgrimage.",
+    "morphology": "hiraṇyam_hiraṇya_SNNe tatra_tatra_ dātavyam_dā_SNNeGd samyak_samyak_ yātrā_yātrā_Cp phala_phala_Cp īpsubhiḥ_īpsu_PIM"
+  },
+  {
+    "index": 16543,
+    "sanskrit": "tyāgo hyaprāptakāmānāṃ na tathā ca guruḥ smṛtaḥ | yathā prāptaṃ parityajya kāmaṃ kamalalocana | śrutvaitadbrahmaṇo vākyaṃ daityaḥ prāṃjalirabravīt || 18 ||",
+    "english": "On hearing these words of Brahmā, the Daitya spoke with palms joined in reverence:",
+    "morphology": "tyāgaḥ_tyāga_SNM hi_hi_ aprāpta_aprāpta_Cp kāmānām_kāma_PGM na_na_ tathā_tathā_ ca_ca_ guruḥ_guru_SNM smṛtaḥ_smṛ_SNPaM  / yathā_yathā_ prāptam_prāp_SAPaM parityajya_parityaj_Co kāmam_kāma_SAM kamala_kamala_Cp locana_locana_SVM  / "
+  }
+]

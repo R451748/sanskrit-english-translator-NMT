@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36080,
+    "sanskrit": "jīvaiḥ tatam idam sarvam ākāśam pṛthivī tathā",
+    "english": "He is the Creator of this whole Earth, and He is the Lord of the three worlds He is also the Destroyer of all creatures mobile and immobile.",
+    "morphology": "jīvaiḥ_jīva_PIM tatam_tan_SNPaPsNe idam_idam_SNNe sarvam_sarva_SNNe ākāśam_ākāśa_SNNe"
+  },
+  {
+    "index": 36081,
+    "sanskrit": "yo 'ntakāle jagat pītvā kṛtvā toyamayaṃ vapuḥ /",
+    "english": "He, at the time of the universal dissolution, drank up the earth and assumed the form of water.",
+    "morphology": "yaḥ_yad_SNM antakāle_antakāla_SLM jagat_jagant_SANe pītvā_pā_Co kṛtvā_kṛ_Co"
+  },
+  {
+    "index": 36082,
+    "sanskrit": "(śve.5/9) iti|",
+    "english": "And again—",
+    "morphology": "iti_"
+  },
+  {
+    "index": 36083,
+    "sanskrit": "gāndhārī ca eva kuntī ca draupadī sātvatī tathā striyaḥ ca anyāḥ tathā anyābhiḥ saha upaviviśuḥ tatas",
+    "english": "Gandhari and Kunti and Draupadi, and she of the Sattwata race, and other ladies of the royal household also sat down.",
+    "morphology": "gāndhārī_gāndhārī_SNF ca_ca_U eva_eva_U kuntī_kuntī_SNF ca_ca_U draupadī_draupadī_SNF sātvatī_sātvatī_SNF tathā_tathā_U striyaḥ_strī_PNF ca_ca_U anyāḥ_anya_PNF tathā_tathā_U anyābhiḥ_anya_PIF saha_saha_U"
+  },
+  {
+    "index": 36084,
+    "sanskrit": "kalikāle viśeṣeṇa svairiṇyo lalitaspṛhāḥ | bhartrā vivadamānāśca striyaḥ kārmaṇatatparāḥ | vṛthā vratāni kurvaṃti tyaktvā tāḥ svapateḥ kathām || 24 ||",
+    "english": "24. In the Kali age unchaste women are too fond of delicate things. Women argue with their husbands and they are interested in their special work or witchcraft. They ignore the interests of their husbands and perform Vratas which are futile.",
+    "morphology": "kali_kali_Cp kāle_kāla_SLM viśeṣeṇa_viśeṣeṇa_ svairiṇyaḥ_svairin_PNF lalita_lal_PaCp spṛhāḥ_spṛhā_PNF  / bhartrā_bhartṛ_SIM vivadamānāḥ_vivad_PNPaPrF ca_ca_ striyaḥ_strī_PNF kārmaṇa_kārmaṇa_Cp tatparāḥ_tatpara_PNF"
+  },
+  {
+    "index": 36085,
+    "sanskrit": "tatra sma dānavā ghorāḥ sarve saṃgrāmadarpitāḥ / ghnanti devān sagandharvān sayakṣoragacāraṇān // te vadhyamānā vimukhāḥ kṣīṇapraharaṇā raṇe /",
+    "english": "Being elated with success in war and assisted by the Gandharvas, Yakshas, Uragas, and Rākshasas the dreadful Dānavas engaged in an onslaught of the gods,. When all the weapons were destroyed in battle, they were about to be killed by the Dānavas.",
+    "morphology": "tatra_tatra_ sma_sma_ dānavāḥ_dānava_PNM ghorāḥ_ghora_PNM sarve_sarva_PNM saṃgrāma_saṃgrāma_Cp darpitāḥ_darpay_PNPaM  / ghnanti_han_PPr3In devān_deva_PAM sa_sa_ gandharvān_gandharva_PAM sa_sa_ yakṣa_yakṣa_Cp uraga_uraga_Cp cāraṇā"
+  },
+  {
+    "index": 36086,
+    "sanskrit": "tathā hi na hyabhāvasya svātmani vyāpṛtir matā /",
+    "english": "For instance, mere negation (absence) is not regarded as having any action upon itself;",
+    "morphology": "tathā_tathā_ hi_hi_ na_na_ hi_hi_ abhāvasya_abhāva_SGM sva_sva_Cp ātmani_ātman_SLM vyāpṛtiḥ_vyāpṛti_SNF "
+  },
+  {
+    "index": 36087,
+    "sanskrit": "śarāḥ ca niśitāḥ pītāḥ niścaranti sma saṃyuge vanāt phulla drumāt rājan bhramarāṇām iva vrajāḥ",
+    "english": "And well-tempered and sharp shafts came from his bow-string in that battle like Chapter XVIII flights of bees, O king, from blossoming trees in the forest.",
+    "morphology": "śarāḥ_śara_PNM ca_ca_U niśitāḥ_niśā_PNPaPsM pītāḥ_pā_PNPaPsM niścaranti_niścar_PPr3In sma_sma_U saṃyuge_saṃyuga_SLNe vanāt_vana_SBNe phulla_phulla_Cp drumāt_druma_SBNe rājan_rājan_SVM bhramarāṇām_bhramara_PGM iva_iva_U vrajā"
+  }
+]

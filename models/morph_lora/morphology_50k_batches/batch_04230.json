@@ -1,0 +1,50 @@
+[
+  {
+    "index": 33832,
+    "sanskrit": "kakṣa vaṅkṣaṇa daśaneṣu ulūkhalāḥ |",
+    "english": "teeth, and hip (Vankshana) are of the Udukhala type.",
+    "morphology": "kakṣa_kakṣa_MCp vaṅkṣaṇa_vaṅkṣaṇa_MCp daśaneṣu_daśana_PLM ulūkhalāḥ_ulūkhala_PNM"
+  },
+  {
+    "index": 33833,
+    "sanskrit": "tvattaḥ aham durlabham kāmam an avāpya eva keśava pratiyāsyāmi govinda śivena abhivadasva mām",
+    "english": "Having failed, O Keshava, in obtaining my almost unattainable wish, I am about to leave thee, O Govinda! Address me in fair words now.",
+    "morphology": "tvattaḥ_tvad_SBM aham_mad_SN durlabham_durlabha_SAM kāmam_kāma_SAM an_an_U avāpya_avāp_Co eva_eva_U keśava_keśava_SVM pratiyāsyāmi_pratiyā_SFu1In govinda_govinda_SVM śivena_śiva_SINe abhivadasva_abhivad_SPr2Im"
+  },
+  {
+    "index": 33834,
+    "sanskrit": "(2) dharme ’vetyaprasādena samanvāgato bhavati:",
+    "english": "(2) He is endowed with perfect confidence in the Dharma (thus):",
+    "morphology": "dharme_dharma_SLM"
+  },
+  {
+    "index": 33835,
+    "sanskrit": "sāhāyyaṃ ca kariṣyāmi vyāsasya hi śatakratoḥ | uddhariṣyāmi bhaktāṃśca saṃsārabhayato vidhe ||",
+    "english": "29. O Brahmā, I shall render help to Śatakratu Vyāsa I shall lift up the devotees from the fear of worldly existence.",
+    "morphology": "sāhāyyam_sāhāyya_SANe ca_ca_ kariṣyāmi_kṛ_SFu1In vyāsasya_vyāsa_SGM hi_hi_ śatakratoḥ_śatakratu_SGM  / uddhariṣyāmi_uddhṛ_SFu1In bhaktān_bhakta_PAM ca_ca_ saṃsāra_saṃsāra_Cp bhayataḥ_bhaya_SBNe vidhe_vidhi_SVM"
+  },
+  {
+    "index": 33836,
+    "sanskrit": "tathā pṛthupājavatyāvapi draṣṭavye/ tatrāpi pūrvasyāḥ sāmidhenīkramamatikramya yājyāpuronuvākyottara kālapāṭhāduttareṣṭiviṣayatvaṃ vijñāyate /",
+    "english": "The same is the case with the Prthupājavati verses as in the case of these also, we find that the former is recognized as pertaining to the latter sacrifice, because, as against the order of the Samidhenī, it is mentioned after the Yājā puronuvakya verses.",
+    "morphology": "tathā_tathā_ pṛthu_pṛthu_Cp pājavatyau_pājavatī_DuNF api_api_ draṣṭavye_dṛś_DuNFGd  / tatra_tatra_ api_api_ pūrvasyāḥ_pūrva_SGF sāmidhenī_sāmidhenī_Cp kramam_krama_SAM atikramya_atikram_Co yājyā_yājyā_Cp puronuvākyā_puronuvā"
+  },
+  {
+    "index": 33837,
+    "sanskrit": "bhartā me sarvadharmajñastumbururmunisattamaḥ | sarvadharmānmanojñā tvaṃ kuru nityaṃ mayā saha || 78 ||",
+    "english": "78. O excellent sage, my husband Tuṃburu who is conversant with all Dharmas said to me: “You are a charming (lady). Always perform all holy rites along with me.”",
+    "morphology": "bhartā_bhartṛ_SNM me_mad_SG sarva_sarva_Cp dharma_dharma_Cp jñaḥ_jña_SNM tumburuḥ_tumburu_SNM muni_muni_Cp sattamaḥ_sattama_SNM  / sarva_sarva_Cp dharmāt_dharma_SBM manojñā_manojña_SNF tvam_tvad_SN kuru_kṛ_SPr2Im nityam_nityam_ mayā_mad_S"
+  },
+  {
+    "index": 33838,
+    "sanskrit": "pramāṇāntarameveyam ity āha carako muniḥ /",
+    "english": "Hence this is a distinct Means of Cognition; so says the sage Caraka, the medical doctor.",
+    "morphology": "pramāṇa_pramāṇa_Cp antaram_antara_SNNe eva_eva_ iyam_idam_SNF iti_iti_ āha_ah_SPs3In carakaḥ_caraka_SNM muniḥ_muni_SNM  /"
+  },
+  {
+    "index": 33839,
+    "sanskrit": "tatra cāmṛtikābhūmau nṛtyantīṃ nartakasya saḥ / dadarśa tanayāṃ tasya nāmnā lāsyavatīṃ nṛpaḥ //",
+    "english": "And in that piece the king saw the actor’s daughter Lāsavatī dancing in the character of Amṛtikā.",
+    "morphology": "tatra_tatra_ ca_ca_ amṛtikā_amṛtikā_Cp bhūmau_bhūmi_SLF nṛtyantīm_nṛt_SAPaPrF nartakasya_nartaka_SGM saḥ_tad_SNM  / dadarśa_dṛś_SPs3In tanayām_tanayā_SAF tasya_tad_SGM nāmnā_nāman_SINe lāsyavatīm_lāsyavatī_SAF nṛpaḥ_nṛpa_S"
+  }
+]

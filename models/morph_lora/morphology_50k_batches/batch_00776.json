@@ -1,0 +1,50 @@
+[
+  {
+    "index": 6200,
+    "sanskrit": "siṃhanāda ravān ca ugrān cakrire tatra māriṣa tatas prasiṣvide kṛṣṇaḥ khinnaḥ ca arjunam abravīt kva asi pārtha na paśye tvām kaccit jīvasi śatru han",
+    "english": "And those heroes also blew their conchs and beat their drums and cymbals by thousands, and uttered many leonine shouts, O sire! Then Krishna, covered with sweat, and much weakened, addressed Arjuna, saying, 'Where art thou, O Partha! I do not see thee.",
+    "morphology": "siṃhanāda_siṃhanāda_MCp ravān_rava_PAM ca_ca_U ugrān_ugra_PAM cakrire_kṛ_PPs3In tatra_tatra_U māriṣa_māriṣa_SVM tatas_tatas_U prasiṣvide_prasvid_SPs3In kṛṣṇaḥ_kṛṣṇa_SNM khinnaḥ_khid_SNPaPsM ca_ca_U arjunam_arjuna_SAM abrav"
+  },
+  {
+    "index": 6201,
+    "sanskrit": "vakṣaḥ atimātram vihatam tu yasya vyāyāma bhāra adhyayana abhighātaiḥ",
+    "english": "Sexual excess, carrying heavy loads, excessive toils of journey, over-exertion in battle, forcible controlling of horses and elephants and such other fatiguing feats tend to produce parchedness of the system and ulcers in the Uras (chest) whereby the bodily Vayu is deranged and cough is produced.",
+    "morphology": "vakṣaḥ_vakṣas_SNNe atimātram_atimātram_U vihatam_vihan_SNPaPsNe tu_tu_U yasya_yad_SGM vyāyāma_vyāyāma_MCp bhāra_bhāra_MCp adhyayana_adhyayana_NeCp abhighātaiḥ_abhighāta_SNM"
+  },
+  {
+    "index": 6202,
+    "sanskrit": "ānīya hṛdyaṃ pāṣāṇaṃ śūnye tu śibirottame | nātidūre svaśibirācchivaliṃgamakalpayat || 31 ||",
+    "english": "31. He brought a beautiful stone and placed it in a vacant excellent tent not far from his own tent and considered it Śiva Liṅga.",
+    "morphology": "ānīya_ānī_Co hṛdyam_hṛdya_SAM pāṣāṇam_pāṣāṇa_SAM śūnye_śūnya_SLNe tu_tu_ śibira_śibira_Cp uttame_uttama_SLNe  / na_na_ ati_ati_ dūre_dūra_SLNe sva_sva_Cp śibirāt_śibira_SBNe śiva_śiva_Cp liṅgam_liṅga_SANe akalpayat_kalp"
+  },
+  {
+    "index": 6203,
+    "sanskrit": "jyotir gaur āyur iti tryahā bhavanti |",
+    "english": "There are the three days Jyotis, Go, and Ayus.",
+    "morphology": "jyotiḥ_jyotis_SNNe gauḥ_go_SNM āyuḥ_āyus_SNNe"
+  },
+  {
+    "index": 6204,
+    "sanskrit": "yugānurūpaṃ yaḥ kṛtvā rūpaṃ lokahitāya vai | dharmamuddharate devaḥ sa kathaṃ kṣetramāśritaḥ || 36 ||",
+    "english": "36. How did that Lord who adopts form befitting the Yuga for the purpose of the welfare of the worlds and redeems Dharma, happen to resort to this Kṣetra?",
+    "morphology": "yuga_yuga_Cp anurūpam_anurūpa_SANe yaḥ_yad_SNM kṛtvā_kṛ_Co rūpam_rūpa_SANe loka_loka_Cp hitāya_hita_SDNe vai_vai_  / dharmam_dharma_SAM uddharate_uddhṛ_SPr3In devaḥ_deva_SNM sa_tad_SNM katham_katham_ kṣetram_kṣetra_SANe āśritaḥ_āś"
+  },
+  {
+    "index": 6205,
+    "sanskrit": "iha śocati precca śocati pāpakammo ubhayattha śocati |",
+    "english": "Here he laments, after death he laments, the wicked one laments in both places,",
+    "morphology": "iha_iha_ śocati_śuc_SPr3In precca_precch_ śocati_śuc_SPr3In pāpa_pāpa_Cp kammaḥ_kamma_SNM"
+  },
+  {
+    "index": 6206,
+    "sanskrit": "kva kilāmaravidhvaṃsiśambarānīkanāthatā / kva tāpataptajambālajālajarjaramīnatā //",
+    "english": "Mind! how great was the leadership of Sambara's army, (once held by Dama and his colleagues), and whereby they defeated the hosts of the immortal deities, and reflect on the change of their state to contemptible fishes in a dry and dirty quagmire.",
+    "morphology": "kva_kva_ kila_kila_ amara_amara_Cp vidhvaṃsi_vidhvaṃsin_Cp śambara_śambara_Cp anīka_anīka_Cp nātha_nātha_Cp tā_tā_SNF  / kva_kva_ tāpa_tāpa_Cp tapta_tap_PaCp jambāla_jambāla_Cp jāla_jāla_Cp jarjara_jarjara_Cp mīna_mīna_Cp tā_tā_SNF  /"
+  },
+  {
+    "index": 6207,
+    "sanskrit": "ekatattvātmakatve hi na bhedo 'trāpi yuktimān //",
+    "english": "here also no diversity can be reasonable in what is essentially one.",
+    "morphology": "eka_eka_Cp tattva_tattva_Cp ātmaka_ātmaka_Cp tve_tva_SLNe hi_hi_ na_na_ bhedaḥ_bheda_SNM atra_atra_ api_api_"
+  }
+]

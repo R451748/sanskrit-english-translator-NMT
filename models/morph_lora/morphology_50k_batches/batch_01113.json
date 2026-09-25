@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8896,
+    "sanskrit": "nirjitāś ca gaṇāḥ sarve pradyumnena mahātmanā /",
+    "english": "Vanquished by the high-souled Pradyumna, the ghosts, leaving the battle-field, went to Shankara.",
+    "morphology": "nirjitāḥ_nirji_PNPaM ca_ca_ gaṇāḥ_gaṇa_PNM sarve_sarva_PNM"
+  },
+  {
+    "index": 8897,
+    "sanskrit": "tam karṇaḥ saṃyuge rājan pratyavārayat āśugaiḥ miṣataḥ bhīmasenasya sātvatasya ca bhārata",
+    "english": "Karna, however, O king, with his arrows, resisted him in that battle in the very sight, O Bharata, of Bhimasena and Satwata.",
+    "morphology": "tam_tad_SAM karṇaḥ_karṇa_SNM saṃyuge_saṃyuga_SLNe rājan_rājan_SVM pratyavārayat_prativāray_SPs3In āśugaiḥ_āśuga_PIM miṣataḥ_miṣ_SGPaPrM bhīmasenasya_bhīmasena_SGM sātvatasya_sātvata_SGM ca_ca_U bhārata_bhārata_SVM"
+  },
+  {
+    "index": 8898,
+    "sanskrit": "tatra pratyakṣapūrvikā tāvad arthāpattiḥ pratyakṣāvagatadahanasaṃsargodgatadāhākhyakāryānyathā 'nupapattyā vahner dāhaśaktikalpanā //",
+    "english": "It is solved only if it has the power of moving. An example of presumption based upon comparison is cited as follows. We see a gavaya (a blue deer).",
+    "morphology": "tatra_tatra_ pratyakṣa_pratyakṣa_Cp __pūrvaka_SN tāvat_tāvat_ arthāpattiḥ_arthāpatti_SNF pratyakṣa_pratyakṣa_Cp avagata_avagam_PaCp dahana_dahana_Cp saṃsarga_saṃsarga_Cp udgata_udgam_PaCp dāha_dāha_Cp ākhya_ākhya_Cp kārya_kārya_Cp "
+  },
+  {
+    "index": 8899,
+    "sanskrit": "na hi devatā icchayā dhanaṃ niyuñjate / na ca paripālanavyāpāras tāsāṃ dṛśyate / svaṃ ca loke tādṛśam ucyate /",
+    "english": "In fact the gods never make use of any property, by their own wish; nor are they found to be actually taking care of any property; and it is where all this is found that property is said in ordinary life to belong to a person.",
+    "morphology": "na_na_ hi_hi_ devatāḥ_devatā_PNF icchayā_icchā_SIF dhanam_dhana_SANe niyuñjate_niyuj_PPr3In  / na_na_ ca_ca_ paripālana_paripālana_Cp vyāpāraḥ_vyāpāra_SNM tāsām_tad_PGF dṛśyate_dṛś_SPr3InPv  / svam_sva_SNNe ca_ca_ loke_loka_SLM tād"
+  },
+  {
+    "index": 8900,
+    "sanskrit": "pitṝn pūjya āditaḥ paścāt devān saṃtarpayanti vai",
+    "english": "It is seen that people worship the Pitris first, and gratify the deities next by offering them their adorations.",
+    "morphology": "pitṝn_pitṛ_PAM pūjya_pūjay_Co"
+  },
+  {
+    "index": 8901,
+    "sanskrit": "īśvara uvāca | gaccha nārada śīghraṃ tvaṃ yatra devo janārdanaḥ | viditaṃ ca tvayā sarvaṃ yatkṛtaṃ dānavena tu || 40 || avadhyo dānavo hyeṣa sendrairapi marudgaṇaiḥ | gatvā tu keśavaṃ devaṃ nivedaya mahāmune || 41 ||",
+    "english": "O Nārada, do go quickly to the place where Lord Janārdana is present. Everything done by the Dānava has been already known to you. This Dānava cannot be slain by groups of Maruts even assisted by Indra. O great sage, go and intimate (this) to Lord Keśava.",
+    "morphology": "īśvaraḥ_īśvara_SNM uvāca_vac_SPs3In  / gaccha_gam_SPr2Im nārada_nārada_SVM śīghram_śīghram_ tvam_tvad_SN yatra_yatra_ devaḥ_deva_SNM janārdanaḥ_janārdana_SNM  / viditam_vid_SNPaNe ca_ca_ tvayā_tvad_SI sarvam_sarva_SNNe yat_yad_SNNe kṛ"
+  },
+  {
+    "index": 8902,
+    "sanskrit": "kṛṣṇa uvāca | yugāvarteṣu sarveṣu yogācāryacchalena tu | avatārānhi śarvasya śiṣyāṃśca bhagavanvada ||",
+    "english": "[Sanskrit text for this chapter is available] 1. O lord, please enumerate the incarnations of Śiva as Yogācārya and his disciples in the different circles of Yugas.",
+    "morphology": "kṛṣṇaḥ_kṛṣṇa_SNM uvāca_vac_SPs3In  / yuga_yuga_Cp āvarteṣu_āvarta_PLM sarveṣu_sarva_PLM yoga_yoga_Cp ācārya_ācārya_Cp chalena_chala_SIM tu_tu_  / avatārān_avatāra_PAM"
+  },
+  {
+    "index": 8903,
+    "sanskrit": "yat gatvā na nivartante tat dhāma paramam mama",
+    "english": "Whither going none returneth, that is my supreme seat.",
+    "morphology": "yat_yad_SANe gatvā_gam_CoU"
+  }
+]

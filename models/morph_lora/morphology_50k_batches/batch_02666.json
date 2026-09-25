@@ -1,0 +1,50 @@
+[
+  {
+    "index": 21320,
+    "sanskrit": "haviḥ tu rudhiram kṛṣṇa asmin yajñe bhaviṣyati",
+    "english": "O Krishna, in this sacrifice.",
+    "morphology": "haviḥ_havis_SNNe tu_tu_U rudhiram_rudhira_SNNe kṛṣṇa_kṛṣṇa_SVM asmin_idam_SLM yajñe_yajña_SLM bhaviṣyati_bhū_SFu3In"
+  },
+  {
+    "index": 21321,
+    "sanskrit": "āptayo dvidhā /",
+    "english": "Possession is of two types.",
+    "morphology": "āptayaḥ_"
+  },
+  {
+    "index": 21322,
+    "sanskrit": "tatas uccukruśuḥ sarve pāñcālāḥ pāṇḍavaiḥ saha dhṛṣṭadyumnena tat karma kṛtam dṛṣṭvā su duṣkaram",
+    "english": "And beholding that difficult feat achieved by Dhrishtadyumna, the Panchalas with the Pandavas, filled with delight, set up loud shouts.",
+    "morphology": "tatas_tatas_U uccukruśuḥ_utkruś_PPs3In sarve_sarva_PNM pāñcālāḥ_pāñcāla_PNM pāṇḍavaiḥ_pāṇḍava_PIM saha_saha_U dhṛṣṭadyumnena_dhṛṣṭadyumna_SIM tat_tad_SANe karma_karman_SANe kṛtam_kṛ_SAPaPsNe dṛṣṭvā_dṛś_Co "
+  },
+  {
+    "index": 21323,
+    "sanskrit": "vyāttānanaṃ mahākāyaṃ bhīmadaṃṣṭraṃ bhayānakam | tamāyāṃtamabhiprekṣya yogīśo na cacāla saḥ || 9 ||",
+    "english": "9. The eminent Yogin did not move even after seeing him terrifyingly rushing towards himself with his open mouth, terrible, curved fangs and an unwieldy huge body.",
+    "morphology": "vyātta_vyātta_Cp ānanam_ānana_SAM mahā_mahat_Cp kāyam_kāya_SAM bhīma_bhīma_Cp daṃṣṭram_daṃṣṭra_SAM bhayānakam_bhayānaka_SAM  / tam_tad_SAM āyāntam_āyā_SAPaPrM abhiprekṣya_abhiprekṣ_Co yogi_yogin_Cp īśaḥ_īśa_SNM na_na_ c"
+  },
+  {
+    "index": 21324,
+    "sanskrit": "yugānta sadṛśam dīptam yena asau mathitaḥ giriḥ",
+    "english": "That eye began to blaze forth like the Yuga-fire and began to consume that mountain.",
+    "morphology": "yugānta_yugānta_MCp sadṛśam_sadṛśa_SNNe dīptam_dīp_SNPaPsNe yena_yad_SIM"
+  },
+  {
+    "index": 21325,
+    "sanskrit": "bhūtaśuddhiṃ vidhāyānvagaṃtaryāgaṃ cakāra sā | hṛdi padmāsane cārcya jñānadharmādikānkramāt || 63 ||",
+    "english": "63-67. She performed the purificatory rite of the Bhūtas (elements). Afterwards she performed the Antaryāga (‘internal sacrifice’).",
+    "morphology": "bhūtaśuddhim_bhūtaśuddhi_SAF vidhāya_vidhā_Co anvagantar_anvagantṛ_SVM yāgam_yāga_SAM cakāra_kṛ_SPs3In sā_tad_SNF  / hṛdi_hṛd_SLNe padmāsane_padmāsana_SLNe ca_ca_ arcya_arcay_Co jñāna_jñāna_Cp dharma_dharma_Cp ādikān_ādika_PAM kr"
+  },
+  {
+    "index": 21326,
+    "sanskrit": "upasaṃharati —tasmādbrahma jijñāsitavyam ukttalakṣaṇena mumu-kṣuṇā |",
+    "english": "He concludes Therefore, Brahman is what is to be desired to be known by the person who is of the character stated above and desires release.",
+    "morphology": "upasaṃharati_upasaṃhṛ_SPr3In  /"
+  },
+  {
+    "index": 21327,
+    "sanskrit": "raṃhovahadgirinadīravaghargharāṇāṃ kundāvadātajaladadyutibhāsurāṇām / saudhasthitollasitaphullalatālayānāṃ līlāvalolakalakaṇṭhavihaṅgamānām //",
+    "english": "The gargling noise of the rivulets running down precipitately from the hills, and the whiteness of the hoary cloud, hanging with the hue of kundu flowers over them; the beauty of the flowery parterres in the compound of the house, and the melodious warbling of musical birds singing joyous in the air, enchanted the scene.",
+    "morphology": "raṃhaḥ_raṃhas_Cp vahat_vah_PaPrCp giri_giri_Cp nadī_nadī_Cp rava_rava_Cp ghargharāṇām_gharghara_PGF kunda_kunda_Cp avadāta_avadāta_Cp jalada_jalada_Cp dyuti_dyuti_Cp bhāsurāṇām_bhāsura_PGF  / saudha_saudha_Cp sthita_sthā_PaCp ullasita_"
+  }
+]

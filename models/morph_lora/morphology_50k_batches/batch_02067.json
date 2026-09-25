@@ -1,0 +1,50 @@
+[
+  {
+    "index": 16528,
+    "sanskrit": "labdham putra śatam śarvāt purā pāṇḍu nṛpa ātmaja",
+    "english": "As the reward of those penances, I obtained from Sarva, O son of king Pandu, a hundred sons, all of whom were born without the intervention of woman, of well-restrained soul, conversant with righteousness, possessed of great splendour, free from disease and sorrow, and endued with lives extending over a hundred thousand years--Then the illustrious Valmiki, addressing Yudhishthira, said,--Once upon a time, in course of a dialectical disputation, certain ascetics that were possessors of the homa fire denounced me as one guilty of Brahmanicide.",
+    "morphology": "labdham_labh_SNPaPsNe putra_putra_MCp śatam_śata_SNNe śarvāt_śarva_SBM purā_purā_U pāṇḍu_pāṇḍu_MCp nṛpa_nṛpa_MCp ātmaja_ātmaja_SVM"
+  },
+  {
+    "index": 16529,
+    "sanskrit": "samānte / samāśabdaḥ saṃvatsaraparyāyas tasya cāntaḥ samāptiḥ śiśire /",
+    "english": "\"At the end of the year\" The term \"samā\" is synonymous with \"year;\" and the \"end\" of this is the śiśira, the later winter season.",
+    "morphology": "samā_samā_Cp ante_anta_SLM  / samā_samā_Cp śabdaḥ_śabda_SNM saṃvatsara_saṃvatsara_Cp paryāyaḥ_paryāya_SNM tasya_tad_SGM ca_ca_ antaḥ_anta_SNM samāptiḥ_samāpti_SNF śiśire_śiśira_SLM  /"
+  },
+  {
+    "index": 16530,
+    "sanskrit": "īdṛśasyaiva ṣaṇḍhasya vadhe palālabhārakaśuddhiḥ / sa hy asaṃskṛto 'nupanītaḥ śāntyai na kasyacit tiṣṭhati /",
+    "english": "It is on the killing of such a confirmed and permanent eunuch that one becomes purified of the sin by the giving of a load of dry grass; and the reason for this lies in the fact that he has had no \"sacraments,\" he has not been \"initiated,\" and his life is of no use to any person.",
+    "morphology": "īdṛśasya_īdṛśa_SGM eva_eva_ ṣaṇḍhasya_ṣaṇḍha_SGM vadhe_vadha_SLM palāla_palāla_Cp bhāraka_bhāraka_Cp śuddhiḥ_śuddhi_SNF  / sa_tad_SNM hi_hi_ a_a_ saṃskṛtaḥ_saṃskṛ_SNPaM an_an_ upanītaḥ_upanī_SNPaM śāntyai_śānti"
+  },
+  {
+    "index": 16531,
+    "sanskrit": "nirdahan iva cakṣurbhyām yaḥ asau āste tapaḥ nidhiḥ tam pralobhayitum deva gacchāmaḥ sahitāḥ vayam",
+    "english": "That very receptacle of austerities, sitting now as if scorching everything with his eyes, O god, we are going together to tempt.",
+    "morphology": "nirdahan_nirdah_SNPaPrM iva_iva_U cakṣurbhyām_cakṣus_DuINe yaḥ_yad_SNM asau_adas_SNM āste_ās_SPr3In tapaḥ_tapas_NeCp nidhiḥ_nidhi_SNM tam_tad_SAM pralobhayitum_pralobhay_In deva_deva_SVM gacchāmaḥ_gam_PPr1In sahitāḥ_sahita_PNM vayam_mad_"
+  },
+  {
+    "index": 16532,
+    "sanskrit": "yad api guruvacanaṃ kartavyam iti kecit pravṛttinibandhanam āhuḥ /",
+    "english": "Some people have leld that the general injunction that \"one must obey the injunction of his elders\" is what prompts the male in question.",
+    "morphology": "yat_yat_ api_api_ guru_guru_Cp vacanam_vacana_SNNe kartavyam_kṛ_SNNeGd iti_iti_ kecid_kaścit_PNM pravṛtti_pravṛtti_Cp nibandhanam_nibandhana_SANe āhuḥ_ah_PPs3In  /"
+  },
+  {
+    "index": 16533,
+    "sanskrit": "kimetadbhavatāṃ dṛṣṭaṃ hṛdaye kva mahārṇavaḥ / jaṭhare kalpavātaḥ kiṃ hṛdi kalpānalaḥ katham //",
+    "english": "How came you to see the ocean in the breast, which never exists therein, and how did you see the conflagration in the heart and the tornado in the bowels, which are never to be found in any of those places.",
+    "morphology": "kim_ka_SNNe etat_etad_SNNe bhavatām_bhavat_PGM dṛṣṭam_dṛś_SNPaNe hṛdaye_hṛdaya_SLNe kva_kva_ mahā_mahat_Cp arṇavaḥ_arṇava_SNM  / jaṭhare_jaṭhara_SLNe kalpa_kalpa_Cp vātaḥ_vāta_SNM kim_ka_SNNe hṛdi_hṛd_SLNe kalpa_kalpa_Cp an"
+  },
+  {
+    "index": 16534,
+    "sanskrit": "prabhūta-vastro bhavati |",
+    "english": "One has abundant clothing.",
+    "morphology": "prabhūta_prabhūta_Cp"
+  },
+  {
+    "index": 16535,
+    "sanskrit": "avāritān phalān dadyādyajamānāya vai guruḥ //",
+    "english": "Without any restraint the benefits of sacrifice should be extended to the patronemployer by the principal priest.",
+    "morphology": "a_a_ vāritān_vāray_PAPaM phalān_phala_PAM dadyāt_dā_SPr3O yajamānāya_yaj_SDPaPrM vai_vai_ guruḥ_guru_SNM"
+  }
+]

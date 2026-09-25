@@ -1,0 +1,50 @@
+[
+  {
+    "index": 29320,
+    "sanskrit": "lakṣyaṃ prati mukteṣuvatpravṛttaphalatvāttasya na dāhaḥ /",
+    "english": "this last evil is not burnt up, because like the arrow that has been shot, its effects have already begun to appear",
+    "morphology": "lakṣyam_lakṣya_SANe prati_prati_ mukta_muc_PaCp iṣu_iṣu_Cp vat_vat_ pravṛtta_pravṛt_PaCp phala_phala_Cp tvāt_tva_SBNe tasya_tad_SGM na_na_ dāhaḥ_dāha_SNM  /"
+  },
+  {
+    "index": 29321,
+    "sanskrit": "vedanā duḥkhataḥ proktā saṃbuddhena prajānaneti” //",
+    "english": "It is said, 'The perfect, omniscient Buddha, knowing the impermanence and the transformation of the sanskāras, declares that sensation is suffering.",
+    "morphology": "vedanā_vedanā_SNF duḥkhataḥ_duḥkha_SBNe proktā_pravac_SNPaF saṃbuddhena_sambudh_SIPaM prajānana_prajānana_SVM iti_iti_  /"
+  },
+  {
+    "index": 29322,
+    "sanskrit": "yavīyāṃsam tatas pūrum putram sva vaśa vartinam rājye niveśayām āsa vidheyam nṛpa sattamaḥ",
+    "english": "And having cursed his these sons, that best of kings placed on his throne his youngest son Puru who was docile and obedient to him.",
+    "morphology": "yavīyāṃsam_yavīyas_SAM tatas_tatas_U pūrum_pūru_SAM putram_putra_SAM sva_sva_Cp vaśa_vaśa_MCp vartinam_vartin_SAM rājye_rājya_SLNe niveśayām_niveśay_SPs3In āsa_as_SPs3In vidheyam_vidhā_SAMGd nṛpa_nṛpa_MCp sattamaḥ_sattama_SNM"
+  },
+  {
+    "index": 29323,
+    "sanskrit": "tam tathā satkṛtam dṛṣṭvā yujyamānam ca karmaṇi prādviṣan kṛta saṃghātāḥ pūrva bhṛtyāḥ muhur muhur",
+    "english": "Beholding the jackal treated with respect and honoured in all his acts, the old servants of the king, conspiring together, began ceaselessly to display their hatred towards him.",
+    "morphology": "tam_tad_SAM tathā_tathā_U satkṛtam_satkṛ_SAPaPsM dṛṣṭvā_dṛś_Co yujyamānam_yuj_SAPaPrMPv ca_ca_U karmaṇi_karman_SLNe prādviṣan_pradviṣ_PPs3In kṛta_kṛ_PaPsCp saṃghātāḥ_saṃghāta_PNM pūrva_pūrva_Cp bhṛtyāḥ_bhṛtya_P"
+  },
+  {
+    "index": 29324,
+    "sanskrit": "bhāvitā bahulīktā jñāna-darśana-pratilambhāya saṃvartate?",
+    "english": "leads to the acquisition of knowledge and insight?",
+    "morphology": "bhāvitā_bhāvay_SNPaF bahulīk￞_bahulīkṛ_SNPaF jñāna_jñāna_Cp darśana_darśana_Cp pratilambhāya_pratilambha_SDM saṃvartate_saṃvṛt_SPr3In"
+  },
+  {
+    "index": 29325,
+    "sanskrit": "hiḍimba darśane ca eva tathā tvam abhavaḥ gatiḥ",
+    "english": "When again we were seen by Hidimba, it was thou that becamest our refuge in the same way.",
+    "morphology": "hiḍimba_hiḍimba_MCp darśane_darśana_SLNe ca_ca_U eva_eva_U tathā_tathā_U tvam_tvad_SN abhavaḥ_bhū_SPs2In gatiḥ_gati_SNF"
+  },
+  {
+    "index": 29326,
+    "sanskrit": "juṣasva saprathaḥ tamam vacaḥ devapsaraḥ tamam havyā juhvānaḥ āsani",
+    "english": "Accept gladly our most widely-sounding 1 speech, the most agreeable to the gods, thou who, in thy mouth, offerest the sacrificial food (to the gods).",
+    "morphology": "juṣasva_juṣ_SPr2Im saprathaḥ_saprathas_Cp tamam_tama_SANe vacaḥ_vacas_SANe devapsaraḥ_devapsaras_SVF tamam_tama_SANe havyā_havya_PANe juhvānaḥ_hu_SNPaPrM āsani_āsan_SLNe"
+  },
+  {
+    "index": 29327,
+    "sanskrit": "dravyasamuddeśe'pi vikārāpagame satyaṃ suvarṇaṃ kuṇḍale yathā| vikārāpagamo yatra tamāhuḥ prakṛtiṃ parām||",
+    "english": "\"That which remains as the Real during the presence of modification, as the gold remains under the form of the earring,—that wherein change comes and goes, that they call the Supreme Nature.\"",
+    "morphology": "dravya_dravya_Cp samuddeśe_samuddeśa_SLM api_api_ vikāra_vikāra_Cp apagame_apagama_SLM satyam_satya_SNNe suvarṇam_suvarṇa_SNNe kuṇḍale_kuṇḍala_SLNe yathā_yathā_ vikāra_vikāra_Cp apagamaḥ_apagama_SNM yatra_yatra_ tam_tad_SAM āhuḥ_ah"
+  }
+]

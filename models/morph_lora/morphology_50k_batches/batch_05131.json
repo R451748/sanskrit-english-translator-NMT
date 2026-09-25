@@ -1,0 +1,50 @@
+[
+  {
+    "index": 41040,
+    "sanskrit": "kanaka stambha ruciram toraṇena virājitam viviśuḥ te mahā raṅgam nṛpāḥ siṃhāḥ iva acalam",
+    "english": "And the monarchs entered the amphitheatre decorated with golden pillars and a lofty portal arch, like mighty lions entering the mountain wilds.",
+    "morphology": "kanaka_kanaka_NeCp stambha_stambha_MCp ruciram_rucira_SAM toraṇena_toraṇa_SINe virājitam_virāj_SAPaPsM viviśuḥ_viś_PPs3In te_tad_PNM mahā_mahat_Cp raṅgam_raṅga_SAM nṛpāḥ_nṛpa_PNM siṃhāḥ_siṃha_PNM"
+  },
+  {
+    "index": 41041,
+    "sanskrit": "kṣveḍita āsphoṭita ravaiḥ bāṇa śabdaiḥ ca sarvaśas tau janān harṣayitvā ca siṃhanādān pracakratuḥ",
+    "english": "Gladdening the people around with their loud roars and the slaps on their armpits and the whizz of this arrows, they continued to utter leonine shouts.",
+    "morphology": "kṣveḍita_kṣveḍita_NeCp āsphoṭita_āsphoṭay_PaPsCp ravaiḥ_rava_PIM bāṇa_bāṇa_MCp śabdaiḥ_śabda_PIM ca_ca_U sarvaśas_sarvaśas_U tau_tad_DuNM janān_jana_PAM harṣayitvā_harṣay_Co ca_ca_U siṃhanādān_siṃhanāda_PAM pracār"
+  },
+  {
+    "index": 41042,
+    "sanskrit": "mahādeva jayetyuccairbhadrakālīsamanvitāḥ | bhūtapretapiśācānāṃ samūhā yasya vallabhāḥ || 8 || astuvaṃstaṃ samīpasthā vasante samupāgate | vanarājirvibhāti sma navakorakaśobhitā || 9 ||",
+    "english": "8-9. At the advent of spring, rows of trees shone as they were rendered splendid with fresh buds and blossoms. Accompanied by Bhadrakālī the groups of Bhūtas, Pretas, and Piśācas eulogized him shouting victory to Mahādeva from the vicinity, as they were his beloved ones.",
+    "morphology": "mahādeva_mahādeva_SVM jaya_ji_SPr2Im iti_iti_ uccais_uccais_ bhadra_bhadra_Cp kālī_kālī_Cp samanvitāḥ_samanvita_PNM  / bhūta_bhūta_Cp preta_preta_Cp piśācānām_piśāca_PGM samūhāḥ_samūha_PNM yasya_yad_SGM vallabhāḥ_vallabha_PNM  / as"
+  },
+  {
+    "index": 41043,
+    "sanskrit": "na chāyāyām //",
+    "english": "Nor in the shade of a tree (fit to be used for sacrifices);",
+    "morphology": "na_na_ "
+  },
+  {
+    "index": 41044,
+    "sanskrit": "samitim brāhmaṇaiḥ gacchet iti vai brāhmaṇī śrutiḥ",
+    "english": "This has been said by Brahman himself.",
+    "morphology": "samitim_samiti_SAF"
+  },
+  {
+    "index": 41045,
+    "sanskrit": "asti dehādivyatiriktaḥ saṃsārīkartā bhoktetyapare |",
+    "english": "Still others say that there is a being different from the body, who migrates, who is agent and enjoyer.",
+    "morphology": "asti_as_SPr3In deha_deha_Cp ādi_ādi_Cp vyatiriktaḥ_vyatiric_SNPaM saṃsārīkartā_saṃsārīkartṛ_SNM bhoktā_bhoktṛ_SNM iti_iti_"
+  },
+  {
+    "index": 41046,
+    "sanskrit": "snehasaṃkṣayamevāṅga viduḥ kaivalyamuttamam / tatsaṃbhavati dehasya bhāve cābhāva eva ca //",
+    "english": "Lessening of affections is fraught with the bliss of solity (Kaivalya), and it is possible to become impassible both in the embodied as will as disembodied states of life.",
+    "morphology": "sneha_sneha_Cp saṃkṣayam_saṃkṣaya_SAM eva_eva_ aṅga_aṅga_ viduḥ_vid_PPs3In kaivalyam_kaivalya_SANe uttamam_uttama_SANe  / tat_tad_SNNe saṃbhavati_sambhū_SPr3In dehasya_deha_SGM bhāve_bhāva_SLM ca_ca_ abhāve_abhāva_SLM eva_eva_ ca_ca_  "
+  },
+  {
+    "index": 41047,
+    "sanskrit": "tvām śuṣmin puru hūta vājayantam upa bruve śatakrato itiśata krato saḥ naḥ rāsva su vīryam",
+    "english": "To thee, Strong, Much-invoked, who showest forth thy strength, O Ṣatakratu, do I speak: So grant thou us heroic strength.",
+    "morphology": "tvām_tvad_SA śuṣmin_śuṣmin_SVM puru_puru_Cp hūta_hvā_SVPaPsM vājayantam_vājay_SAPaPrM upa_upa_U bruve_brū_SPr1In śatakrato_śatakratu_SVM itiśata_itiśata_Cp krato_kratu_SVM"
+  }
+]

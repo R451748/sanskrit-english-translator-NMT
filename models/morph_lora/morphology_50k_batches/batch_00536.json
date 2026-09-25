@@ -1,0 +1,50 @@
+[
+  {
+    "index": 4280,
+    "sanskrit": "pṛcchāmi tvām spṛhaṇīya rūpa",
+    "english": "Having never done so before, how shall I now accept a gift?' \"Pratardana who was amongst them asked, 'O thou of the handsomest form, I am Pratardana by name.",
+    "morphology": "pṛcchāmi_pracch_SPr1In"
+  },
+  {
+    "index": 4281,
+    "sanskrit": "asti bhagavaḥ saṃkalpād bhūya iti / saṃkalpād vāva bhūyo 'stīti / tan me bhagavān bravītv iti //",
+    "english": "‘Revered Sir, is there anything greater than Will?’‘Certainly, there is something greater than Will’‘Explain that to me, Revered Sir’",
+    "morphology": "asti_as_SPr3In bhagavaḥ_bhagavat_SVM saṃkalpāt_saṃkalpa_SBM bhūyaḥ_bhūyas_SNNe iti_iti_  / saṃkalpāt_saṃkalpa_SBM vāva_vāva_ bhūyaḥ_bhūyas_SNNe asti_as_SPr3In iti_iti_  / tat_tad_SANe me_mad_SD bhagavān_bhagavat_SNM bravītu_brū_SPr"
+  },
+  {
+    "index": 4282,
+    "sanskrit": "bhīmasenaḥ tu dharmeṇa yudhyamānaḥ na jeṣyati",
+    "english": "If he were to fight fairly, Bhimasena will never succeed in winning the victory.",
+    "morphology": "bhīmasenaḥ_bhīmasena_SNM tu_tu_U dharmeṇa_dharma_SIM yudhyamānaḥ_yudh_SNPaPrM"
+  },
+  {
+    "index": 4283,
+    "sanskrit": "yadā na bhāvyate kiṃcinnirvāsanatayātmani / bālamūkādivijñānamiva ca sthīyate sthiram //",
+    "english": "When the indifferent soul thinks of nothing in itself, but remains with its calm and quiet composure, like a young child or a deaf and dumb person, in possession of his internal consciousness:—",
+    "morphology": "yadā_yadā_ na_na_ bhāvyate_bhāvay_SPr3InPv kiṃcid_kaścit_SNNe nirvāsana_nirvāsana_Cp tayā_tā_SIF ātmani_ātman_SLM  / bāla_bāla_Cp mūka_mūka_Cp ādi_ādi_Cp vijñānam_vijñāna_SNNe iva_iva_ ca_ca_ sthīyate_sthā_SPr3InPv sthiram_sthira_S"
+  },
+  {
+    "index": 4284,
+    "sanskrit": "ubhayasyaapy avidviṣṭaṃ vidyād ubhayabhāvi tat //",
+    "english": "whoever, owing to his own weakness, follows the ascendancy of both the conqueror and his enemy, not incurring enmity with either, is known as a common friend;",
+    "morphology": "ubhayasya_ubhaya_SGM api_api_ a_a_ vidviṣṭam_vidviṣ_SAPaNe vidyāt_vid_SPr3O ubhaya_ubhaya_Cp bhāvi_bhāvin_SANe tat_tad_SANe  /"
+  },
+  {
+    "index": 4285,
+    "sanskrit": "ayamatra tāvat samudāyārthaḥ /",
+    "english": "The upshot of the whole of this argument is as follows;",
+    "morphology": "ayam_idam_SNM atra_atra_ tāvat_tāvat_ samudāya_samudāya_Cp arthaḥ_artha_SNM  /"
+  },
+  {
+    "index": 4286,
+    "sanskrit": "yadyevam ityādinā pratividhatte ---",
+    "english": "The above argument is answered in the following: [see verses 860-864 next]",
+    "morphology": "yadi_yadi_ evam_evam_ ityādinā_ityādi_SINe pratividhatte_pratividhā_SPr3In"
+  },
+  {
+    "index": 4287,
+    "sanskrit": "evaṃ hi tairavikalakāraṇatvam ātmano darśitaṃ bhavet yadi yugapad bhaveyuḥ /",
+    "english": "Thus alone could the untrammelled causal efficiency of God be shown, if things were produced simultaneously.",
+    "morphology": "evam_evam_ hi_hi_ taiḥ_tad_PIM avikala_avikala_Cp kāraṇa_kāraṇa_Cp tvam_tva_SNNe ātmanaḥ_ātman_SGM darśitam_darśay_SNPaNe bhavet_bhū_SPr3O yadi_yadi_ yugapad_yugapad_ bhaveyuḥ_bhū_PPr3O  /"
+  }
+]

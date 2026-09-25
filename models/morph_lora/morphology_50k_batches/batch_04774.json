@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38184,
+    "sanskrit": "mo iti te riṣan ye acchokti bhiḥ vaso iti agne kebhiḥ cit evaiḥ kīriḥ cit hi tvām īṭe dūtyāya rāta havyaḥ su adhvaraḥ",
+    "english": "O Vasu, Agni, let not them be harmed who come in any way with lauds to thee. Even the lowly, skilled in rites, with offered gifts, seeketh thee for the envoy's task.",
+    "morphology": "mo_mo_U iti_iti_U te_tad_PNM riṣan_riṣ_PPs3 ye_yad_PNM acchokti_acchokti_FCp bhiḥ_bhiḥ_U vaso_vasu_SVM iti_iti_U agne_agni_SVM kebhiḥ_ka_PIM cit_cit_U evaiḥ_eva_PIM kīriḥ_kīri_SNM cit_cit_U hi_hi_U tvām_tvad_SA īṭe_īḍ_SPr3In dūtyāy"
+  },
+  {
+    "index": 38185,
+    "sanskrit": "atha anyān api rāja indra nānā janapada īśvarān śaraiḥ anala saṃkāśaiḥ ninye vīrān yama kṣayam",
+    "english": "And, O monarch, with his shafts that resembled blazing flames of fire, he despatched many other heroes, kings of diverse realms, unto the region of Yama.",
+    "morphology": "atha_atha_U anyān_anya_PAM api_api_U rāja_rājan_MCp indra_indra_SVM nānā_nānā_U janapada_janapada_MCp īśvarān_īśvara_PAM śaraiḥ_śara_PIM anala_anala_MCp saṃkāśaiḥ_saṃkāśa_PIM ninye_nī_SPs3In vīrān_vīra_PAM"
+  },
+  {
+    "index": 38186,
+    "sanskrit": "tasmādekavarṇāpāye 'pi mantratvābhāvātma mastatatkāryya nivṛttiḥ /",
+    "english": "That is to say, when in a Mantra the slightest part is changed from that which has been known to be its form, it ceases to be recognised as that Mantra.",
+    "morphology": "tasmāt_tasmāt_U __eka_U __varṇa_U __apāya_U api_U __mantra_U __tva_U __abhāva_U __u_U __u_U __u_U __U"
+  },
+  {
+    "index": 38187,
+    "sanskrit": "tatra eva bharataḥ rājā cakravartī mahā yaśāḥ viṃśatim sapta ca aṣṭau ca hayamedhān upāharat",
+    "english": "There the illustrious king, the imperial Bharata, performed five and thirty horse-sacrifices.",
+    "morphology": "tatra_tatra_U eva_eva_U bharataḥ_bharata_SNM rājā_rājan_SNM cakravartī_cakravartin_SNM mahā_mahat_Cp yaśāḥ_yaśas_SNM viṃśatim_viṃśati_SAF sapta_saptan_SANe ca_ca_U aṣṭau_aṣṭan_PAM ca_ca_U hayamedhān_hayamedha_PAM"
+  },
+  {
+    "index": 38188,
+    "sanskrit": "a tattva jñaḥ asi bālaḥ ca dustoṣaḥ a pūraṇaḥ analaḥ",
+    "english": "Thou art a fool. Thou art difficult of being contented.",
+    "morphology": "a_a_U tattva_tattva_NeCp jñaḥ_jña_SNM asi_as_SPr2In bālaḥ_bāla_SNM ca_ca_U dustoṣaḥ_dustoṣa_SNM"
+  },
+  {
+    "index": 38189,
+    "sanskrit": "tatra ye śubhakarmmāṇastāṃstu sammānayedyamaḥ | svāgatāsanadānena pādyārghyeṇa priyeṇa ca || dhanyā yūyaṃ mahātmāno nigamoditakāriṇaḥ | yaiśca divyasukhārthāya bhavadbhissukṛtaṃ kṛtam ||",
+    "english": "44. Yama welcomes with pleasure and due honour, all those who had performed auspicious rites in this world. He offers them seat, pādya and Arghya. 45. Yama tells them—“You are noble souls duly blessed, since you have performed what is ordained in the Vedas. Good deeds that are conducive to divine happiness have been performed by you.",
+    "morphology": "tatra_tatra_ ye_yad_PNM śubha_śubha_Cp karmmāṇaḥ_karman_PNM tān_tad_PAM tu_tu_ sammānayet_sammānay_SPr3O yamaḥ_yama_SNM  / svāgata_svāgata_Cp āsana_āsana_Cp dānena_dāna_SINe pādya_pādya_Cp arghyeṇa_arghya_SINe priyeṇa_priya_SINe ca_"
+  },
+  {
+    "index": 38190,
+    "sanskrit": "tasmād idaṃ prāgasatsamutpadyata ityasyāḥ kalpanāyā bījaṃ /",
+    "english": "Hence this forms the basis for the conception that the thing that is produced is one that did not exist before.",
+    "morphology": "tasmāt_tasmāt_"
+  },
+  {
+    "index": 38191,
+    "sanskrit": "yaḥ durbalaḥ na namati sa mahat kleśa bhāj bhavet",
+    "english": "That cow which cannot be easily milked has to suffer much torture.",
+    "morphology": "yaḥ_yad_SNM"
+  }
+]

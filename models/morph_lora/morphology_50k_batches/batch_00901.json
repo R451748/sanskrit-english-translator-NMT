@@ -1,0 +1,50 @@
+[
+  {
+    "index": 7200,
+    "sanskrit": "aryamā yāti vṛṣabhas tuviṣmān dātā vasūnām puruhūto arhan |",
+    "english": "Aryaman goeth, the mighty bull, The giver of wealth, much invoked, deserving;",
+    "morphology": "aryamā_aryaman_SNM yāti_yā_SPr3In vṛṣabhaḥ_vṛṣabha_SNM tuviṣmān_tuviṣmat_SNM dātā_dātṛ_SNM vasūnām_vasu_PGNe puru_puru_Cp hūtaḥ_hvā_SNPaM"
+  },
+  {
+    "index": 7201,
+    "sanskrit": "oṣadhiḥ somas taṃ yo vikrīṇīte, yāgārtham auṣadhārthaṃ vā /",
+    "english": "\"Soma\" is a particular kind of herb; he who sells this herb, for use either at sacrifices or for medicine.",
+    "morphology": "oṣadhiḥ_oṣadhi_SNF somaḥ_soma_SNM tam_tad_SAM yaḥ_yad_SNM vikrīṇīte_vikrī_SPr3In yāga_yāga_Cp artham_artha_SAM auṣadha_auṣadha_Cp artham_artha_SAM vā_vā_  /"
+  },
+  {
+    "index": 7202,
+    "sanskrit": "kathaṃ punar dṛṣṭe saty adṛṣṭam uktam /",
+    "english": "How is it that the author should impose an invisible transcedental character upon what is quite visible?",
+    "morphology": "katham_katham_ punar_punar_ dṛṣṭe_dṛś_SLPaNe sati_as_SLPaPrNe adṛṣṭam_adṛṣṭa_SNNe uktaḥ_vac_SNPaNe  /"
+  },
+  {
+    "index": 7203,
+    "sanskrit": "tatsaṃvidi tataḥ saṃvidvilīnārthaiva bhāsate| citsvābhāvyāt tato bhūyaḥ sṛṣṭiryaccinmaheśvarī |",
+    "english": "b-a Objectification being the innate nature of consciousness, she as the mistress of the Lord manifests another creation in Her awareness each moment and dissolves the same in the next.",
+    "morphology": "tad_tad_Cp saṃvidi_saṃvid_SLF tatas_tatas_ saṃvid_saṃvid_SNF vilīna_vilī_PaCp arthā_artha_SNF eva_eva_ bhāsate_bhās_SPr3In cit_cit_Cp svābhāvyāt_svābhāvya_SBNe tatas_tatas_ bhūyas_bhūyas_ sṛṣṭiḥ_sṛṣṭi_SNF yat_yad_SNNe cit_"
+  },
+  {
+    "index": 7204,
+    "sanskrit": "te ugrāsaḥ vr̥ṣaṇaḥ ugra bāhavaḥ nakiḥ tanūṣu yetire sthirā dhanvān i āyudhā ratheṣu vaḥ anīkeṣu adhi śriyaḥ",
+    "english": "These strong, manly, strong-armed Maruts, do not strive among themselves; firm are the bows, the weapons on your chariot, and on your faces are splendours.",
+    "morphology": "te_tad_PNM ugrāsaḥ_ugra_PNM vr̥ṣaṇaḥ_vrāṣan_PNM ugra_ugra_Cp bāhavaḥ_bāhu_PNM nakir_nakir_U tanūṣu_tanū_PLF yetire_yat_PPs3In sthirā_sthira_PANe dhanvān_dhanvan_PANe i_i_U āyudhā_āyudha_PANe ratheṣu_ratha_PLM vaḥ_tvad_PG anīk"
+  },
+  {
+    "index": 7205,
+    "sanskrit": "āyur evātman dhatte prati yajñena tiṣṭhati darśapūrṇamāsayoḥ |",
+    "english": "verily he confers life on himself, and finds support through the sacrifice.",
+    "morphology": "āyuḥ_āyus_SANe eva_eva_ ātman_ātman_SLM dhatte_dhā_SPr3In prati_prati_ yajñena_yajña_SIM tiṣṭhati_sthā_SPr3In darśa_darśa_Cp pūrṇamāsayoḥ_pūrṇamāsa_DuLM"
+  },
+  {
+    "index": 7206,
+    "sanskrit": "āyuṣastarhi karmādhārabhūtaṃ yāvadākṣiptaṃ karmaṇā tāvadanuvarttanāt /",
+    "english": "The āyus is supported by means of actions; the āyus has been projected through actions and continues to exist as long as the projection of action allows it to do so.",
+    "morphology": "āyuṣaḥ_āyus_SGNe tarhi_tarhi_ karma_karman_Cp ādhāra_ādhāra_Cp bhūtam_bhū_SNPaNe yāvat_yāvat_ ākṣiptam_ākṣip_SNPaNe karmaṇā_karman_SINe tāvat_tāvat_ anuvarttanāt_anuvartana_SBNe  /"
+  },
+  {
+    "index": 7207,
+    "sanskrit": "saḥ asurān darśanāt eva śaktaḥ hantum saha anugān nivāta kavacān sarvān nāgān iva mahā hrade",
+    "english": "Verily as the illustrious Hari had slain the Nagas in the great lake, he, by sight alone, is capable of slaying those Asuras called the Nivatakavachas, along with their followers.",
+    "morphology": "saḥ_tad_SNM asurān_asura_PAM darśanāt_darśana_SBNe eva_eva_U śaktaḥ_śak_SNPaPsM hantum_han_In saha_saha_U anugān_anuga_PAM nivāta_nivāta_Cp kavacān_kavaca_PAM sarvān_sarva_PAM nāgān_nāga_PAM iva_iva_U mahā_mahat_Cp hrade_hrada_SLM"
+  }
+]

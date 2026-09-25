@@ -1,0 +1,50 @@
+[
+  {
+    "index": 15056,
+    "sanskrit": "evamuktvā'stuvandevāḥ stotreṇānena sattama | jānubhyāṃ dharaṇīṃ gatvā śirasyādhāya cāṃjalim || 22 ||",
+    "english": "22. After saying so, they knelt on the ground. With joined palms kept over the head all those Devas eulogized her by means of this prayer.",
+    "morphology": "evam_evam_ uktvā_vac_Co astuvan_stu_P3ImIn devāḥ_deva_PNM stotreṇa_stotra_SINe anena_idam_SINe sattama_sattama_SVM  / jānubhyām_jānu_DuIM dharaṇīm_dharaṇī_SAF gatvā_gam_Co śirasi_śiras_SLNe ādhāya_ādhā_Co ca_ca_ añjalim_añjali_SAM  "
+  },
+  {
+    "index": 15057,
+    "sanskrit": "tat ca bhartrā dhanam dattam na a dattam bhoktum arhati",
+    "english": "The wealth that the husband gives unto the wife, the latter may spend or dispose of as she likes.",
+    "morphology": "tat_tad_SNNe ca_ca_U bhartrā_bhartṛ_SIM dhanam_dhana_SNNe dattam_dā_SNPaPsNe na_na_U a_a_U dattam_dā_SAPaPsNe bhoktum_bhuj_In"
+  },
+  {
+    "index": 15058,
+    "sanskrit": "kaccit samāgamaḥ teṣām āsīt vaiśravaṇena ca tatra hi āyāti dhanadaḥ ārṣṭiṣeṇaḥ yathā bravīt",
+    "english": "And did they meet with Vaisravana? Surely, as Arshtishena said, the lord of wealth cometh thither.",
+    "morphology": "kaccit_kaccit_U samāgamaḥ_samāgama_SNM teṣām_tad_PGM āsīt_as_SPs3In vaiśravaṇena_vaiśravaṇa_SIM ca_ca_U tatra_tatra_U hi_hi_U āyāti_āyā_SPr3In dhanadaḥ_dhanada_SNM ārṣṭiṣeṇaḥ_ārṣṭiṣeṇa_SNM yathā_yathā_U bravīt_br"
+  },
+  {
+    "index": 15059,
+    "sanskrit": "madhuraiḥ sāma gītaiḥ ca ṛṣibhiḥ niyata vrataiḥ",
+    "english": "Other places again were filled with the harmonious strains of Saman hymns sung by vow-observing Rishis.",
+    "morphology": "madhuraiḥ_madhura_PIM sāma_sāman_NeCp gītaiḥ_gā_PIPaPsM ca_ca_U ṛṣibhiḥ_ṛṣi_PIM niyata_niyam_PaPsCp vrataiḥ_vrata_PIM"
+  },
+  {
+    "index": 15060,
+    "sanskrit": "ācāryakaraṇavidhyekakāryatve tv asya vidhirūpataiva hīyate, svārthasyāvivakṣitatvāt /",
+    "english": "But if the Injunction of Vedic Study were taken as serving the same purpose as that of \"becoming a Teacher,\" then the former would lose its injunctive character; as in that case no significance would attach to what is expressed by its own words.",
+    "morphology": "ācārya_ācārya_Cp karaṇa_karaṇa_Cp vidhi_vidhi_Cp eka_eka_Cp kārya_kārya_Cp tve_tva_SLNe tu_tu_ asya_idam_SGM vidhi_vidhi_Cp rūpa_rūpa_Cp tā_tā_SNF eva_eva_ hīyate_hā_SPr3InPv svārthasya_svārtha_SGM avivakṣita_avivakṣita_Cp tvāt_tva_S"
+  },
+  {
+    "index": 15061,
+    "sanskrit": "dinamadhye vyatikrāṃte laṃbite bahuvāsare | vartmanyadṛśyatāgre tu deśo bhuvanamaṃḍanaḥ || 69 ||",
+    "english": "69-70. After midday had passed and a greater part of the day yet remained, the land named Oḍhra was seen ahead on the way itself. O Brāhmaṇas, this land is an ornament unto the universe.[6] It sanctifies the sphere of the earth.",
+    "morphology": "dina_dina_Cp madhye_madhya_SLNe vyatikrāṃte_vyatikram_SLPaNe laṃbite_lamb_SLPaM bahu_bahu_Cp vāsare_vāsara_SLM  / vartmani_vartman_SLNe adṛśyata_dṛś_S3ImInPv agre_agra_SLNe tu_tu_ deśaḥ_deśa_SNM bhuvana_bhuvana_Cp maṃḍanaḥ_maṃḍan"
+  },
+  {
+    "index": 15062,
+    "sanskrit": "upalabdhiṃ samāśritya nopalabdhiḥ prajāyate / nopalabdhiṃ samāśritya nopalabdhiḥ prajāyate //",
+    "english": "\"A non-apprehension comes about dependent on apprehension, a non-apprehension comes about dependent on this non-apprehension”.",
+    "morphology": "upalabdhim_upalabdhi_SAF samāśritya_samāśri_Co na_na_ upalabdhiḥ_upalabdhi_SNF prajāyate_prajan_SPr3In  / na_na_ upalabdhim_upalabdhi_SAF samāśritya_samāśri_Co na_na_ upalabdhiḥ_upalabdhi_SNF prajāyate_prajan_SPr3In  /"
+  },
+  {
+    "index": 15063,
+    "sanskrit": "śiro nonnatam nāvanataṃ ekapārśve niścalaṃ sthāpayitavyam /",
+    "english": "The head, neither too upraised nor too bent, should be fixed motionless to one side the nose should be straight navelward.",
+    "morphology": "śiraḥ_śiras_SNNe na_na_ unnatam_unnam_SNPaNe na_na_ avanatam_avanam_SNPaNe eka_eka_Cp pārśve_pārśva_SLM niścalam_niścala_SNNe sthāpayitavyam_sthāpay_SNNeGd  /"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10384,
+    "sanskrit": "yāvatī dyāvāpṛthivī mahitvā yāvac ca sapta sindhavo vitasthuḥ | tāvantam indra te | grahaṃ sahorjā gṛhṇāmy astṛtam |",
+    "english": "As great as are sky and earth in mightiness, As great as the expense of the seven rivers, So great is the cup of thee, O Indra [1], Which unvanquished I draw off with strength.",
+    "morphology": "yāvatī_yāvat_DuNF dyāvāpṛthivī_dyāvāpṛthivī_DuNF mahitvā_mahitva_SINe yāvat_yāvat_SANe ca_ca_ sapta_saptan_PNM sindhavaḥ_sindhu_PNM vitasthuḥ_viṣṭhā_PPs3In  / tāvantam_tāvat_SAM indra_indra_SVM te_tvad_SD  / graham_graha_SAM saha"
+  },
+  {
+    "index": 10385,
+    "sanskrit": "nārada uvāca | bhagavanbrūhi me dharmamekāntaṃ tava saṃmatam | prīyate yena viśvātmā vāsudevaḥ sa sarvadā || 1 ||",
+    "english": "Nārada said: 1. O Lord! Expound to me the Ekānta Dharma as approved by you, whereby the Universal Soul, Vāsudeva, gets always pleased.",
+    "morphology": "nāradaḥ_nārada_SNM uvāca_vac_SPs3In  / bhagavan_bhagavat_SVM brūhi_brū_SPr2Im me_mad_SG dharmam_dharma_SAM ekāntam_ekānta_SAM tava_tvad_SG saṃmatam_samman_SAPaM  / prīyate_prī_SPr3InPv yena_yad_SIM viśvātmā_viśvātman_SNM vāsudevaḥ_vās"
+  },
+  {
+    "index": 10386,
+    "sanskrit": "tadāha yamaḥ— 'hiraṇmayāni pātrāṇi kārṣṇāyasamayāni ca /",
+    "english": "Yama says the same thus: ‘Vessels made of gold or iron are not vessels for the yogis;",
+    "morphology": "tat_tad_SANe āha_ah_SPs3In yamaḥ_yama_SNM "
+  },
+  {
+    "index": 10387,
+    "sanskrit": "tīrthasnānārthinī caiva patipādodakaṃ pibet | śaṃkarādapi vā viṣṇoḥ patirevādhi kaḥ striyaḥ || 36 ||",
+    "english": "36. Desirous of taking holy dip in a sacred Tīrtha, she should drink the water with which her husband’s feet are washed. To a woman the husband is superior to Lord Śaṅkara and Lord Viṣṇu.",
+    "morphology": "tīrtha_tīrtha_Cp snāna_snāna_Cp arthinī_arthin_SNF ca_ca_ eva_eva_ pati_pati_Cp pāda_pāda_Cp udakam_udaka_SANe pibet_pā_SPr3O  / śaṃkarāt_śaṃkara_SBM api_api_ vā_vā_ viṣṇoḥ_viṣṇu_SBM patiḥ_pati_SNM eva_eva_ adhi_adhi_ kaḥ_ka_"
+  },
+  {
+    "index": 10388,
+    "sanskrit": "āvayoḥ purato jātā vāṇī cāpyaśarīriṇī | kimarthaṃ bālakau yuddhaṃ kalpyate mūḍhamānasau || 34 ||",
+    "english": "An ethereal voice rose up in front of us;",
+    "morphology": "āvayoḥ_mad_DuG puratas_puratas_ jātā_jan_SNPaF vāṇī_vāṇī_SNF ca_ca_ api_api_ aśarīriṇī_aśarīrin_SNF  / kimartham_kimartham_ bālakau_bālaka_DuVM yuddham_yuddha_SNNe kalpyate_kalpay_SPr3InPv mūḍha_muh_PaCp mānasau_mānasa_DuVM "
+  },
+  {
+    "index": 10389,
+    "sanskrit": "hiśabdo yasmād arthe /",
+    "english": "‘Tied, up together as by a chain’ ‘Hi’ stands for because.",
+    "morphology": "hi_hi_ śabdaḥ_śabda_SNM yasmāt_yad_SBM "
+  },
+  {
+    "index": 10390,
+    "sanskrit": "katame ’ṣṭau?",
+    "english": "Which eight?",
+    "morphology": "katame_katama_PNM"
+  },
+  {
+    "index": 10391,
+    "sanskrit": "dvikarmako 'yaṃ dhātuḥ / pradhānaṃ karma trayam / apradhānena dvitīyena karmaṇā bhavitavyam / na ca tad asti /",
+    "english": "But as a matter of fact, the root in \"dudoha\" \"milked\" is one that should have two objects; it has its primary object in the form of \"trayam\"; and it should have a second, the secondary, object; but there is no such secondary object in the sentence.",
+    "morphology": "dvi_dvi_Cp karmakaḥ_karmaka_SNM ayam_idam_SNM dhātuḥ_dhātu_SNM  / pradhānam_pradhāna_SNNe karma_karman_SNNe trayam_traya_SNNe  / apradhānena_apradhāna_SINe dvitīyena_dvitīya_SINe karmaṇā_karman_SINe bhavitavyam_bhū_SNNeGd  / na_na_ ca_ca_ t"
+  }
+]

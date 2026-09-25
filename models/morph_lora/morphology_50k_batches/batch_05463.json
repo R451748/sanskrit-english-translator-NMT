@@ -1,0 +1,50 @@
+[
+  {
+    "index": 43696,
+    "sanskrit": "astra saṃdarśana ārambhaḥ dharmarājasya saṃnidhau pārthasya pratiṣedhaḥ ca nāradena mahā ṛṣiṇā",
+    "english": "the commencement of the display of the celestial weapons by Arjuna before Yudhishthira, the prevention of the same by Narada;",
+    "morphology": "astra_astra_NeCp saṃdarśana_saṃdarśana_NeCp ārambhaḥ_ārambha_SNM dharmarājasya_dharmarāja_SGM saṃnidhau_saṃnidhi_SLM pārthasya_pārtha_SGM pratiṣedhaḥ_pratiṣedha_SNM ca_ca_U nāradena_nārada_SIM mahā_mahat_Cp ṛṣiṇā_ṛṣi_S"
+  },
+  {
+    "index": 43697,
+    "sanskrit": "kliṣṭacittasyeti vartate / arthābhijñe abhrāntyeti ca /",
+    "english": "Injarious words are abusive discourse.",
+    "morphology": "kliṣṭa_kliś_PaCp cittasya_citta_SGM iti_iti_ vartate_vṛt_SPr3In  / artha_artha_Cp abhijñe_abhijñā_SLM abhrāntyā_abhrānti_SIF iti_iti_ ca_ca_"
+  },
+  {
+    "index": 43698,
+    "sanskrit": "hāṭakeśvaramityuktamasti kṣetramanuttamam | liṃgasya patanājjātaṃ devadevasya śūlinaḥ || 9 ||",
+    "english": "“There is an excellent holy shrine named Hāṭakeśvara. It has been created by the fall of the penis of the Trident-bearing Lord of the chiefs of gods.",
+    "morphology": "hāṭakeśvaram_hāṭakeśvara_SNNe iti_iti_ uktam_vac_SNPaNe asti_as_SPr3In kṣetram_kṣetra_SNNe anuttamam_anuttama_SNNe  / liṃgasya_liṅga_SGM patanāt_patana_SBNe jātam_jan_SNPaNe devadevasya_devadeva_SGM śūlinaḥ_śūlin_SGM  /"
+  },
+  {
+    "index": 43699,
+    "sanskrit": "nṛpadarśī dhaniṣṭhāsu hastāpauṣṇāśvinīṣu ca //",
+    "english": "A sovereign should be seen in the asterisms of hasta, revatī and aśvinī.",
+    "morphology": "nṛpa_nṛpa_Cp darśī_darśin_SNM dhaniṣṭhāsu_dhaniṣṭhā_PLF hastā_hastā_Cp pauṣṇa_pauṣṇa_Cp aśvinīṣu_aśvinī_PLF ca_ca_  /"
+  },
+  {
+    "index": 43700,
+    "sanskrit": "evaṃ śatavarṣam iti /",
+    "english": "The same explanation applies to the epithet \"of a hundred years\".",
+    "morphology": "evam_evam_ śata_śata_Cp varṣam_varṣa_SAM iti_iti_"
+  },
+  {
+    "index": 43701,
+    "sanskrit": "dharma lakṣaṇa saṃyuktam uktam vaḥ vidhivat mayā",
+    "english": "I have thus declared to you duty what the indications are of duty.",
+    "morphology": "dharma_dharma_MCp lakṣaṇa_lakṣaṇa_NeCp saṃyuktam_saṃyuj_SNPaPsNe uktam_vac_SNPaPsNe vaḥ_tvad_PA vidhivat_vidhivat_U mayā_mad_SI"
+  },
+  {
+    "index": 43702,
+    "sanskrit": "tam āpatantam viśikham yama daṇḍa upama tviṣam khaḍgena śita dhāreṇa dvidhā ciccheda kauravaḥ",
+    "english": "The Kuru warrior, however, with his keen-edged sword, cut off into two fragments that shaft, bright as the rod of Death, as it coursed towards him.",
+    "morphology": "tam_tad_SAM āpatantam_āpat_SAPaPrM viśikham_viśikha_SAM yama_yama_MCp daṇḍa_daṇḍa_MCp upama_upama_Cp tviṣam_tviṣ_SAM khaḍgena_khaḍga_SIM śita_śā_PaPsCp dhāreṇa_dhārā_SIM dvidhā_dvidhā_U ciccheda_chid_SPs3In kauravaḥ_kaurava_"
+  },
+  {
+    "index": 43703,
+    "sanskrit": "saṃjajñe pitṛśuśrūṣājitajīmūtavāhanaḥ / abhivyaktamahācakravartilakṣaṇalāñchitaḥ //",
+    "english": "in obedience to his father he came to surpass Jīmūtavāhana, and he was distinctly marked with the signs of a great emperor.",
+    "morphology": "saṃjajñe_saṃjan_SPs3In pitṛ_pitṛ_Cp śuśrūṣā_śuśrūṣā_Cp jita_ji_PaCp jīmūta_jīmūta_Cp vāhanaḥ_vāhana_SNM  / abhivyakta_abhivyañj_PaCp mahā_mahat_Cp cakravarti_cakravartin_Cp lakṣaṇa_lakṣaṇa_Cp lāñchitaḥ_lāñchita_"
+  }
+]

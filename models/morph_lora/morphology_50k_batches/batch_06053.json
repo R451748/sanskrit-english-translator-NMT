@@ -1,0 +1,50 @@
+[
+  {
+    "index": 48416,
+    "sanskrit": "agnaye sāhantyāya puroḍāśam aṣṭākapālaṃ nir vapet sīkṣamāṇas |",
+    "english": "He who seeks to be strong should offer a cake on eight potsherds to Agni, the strong;",
+    "morphology": "agnaye_agni_SDM sāhantyāya_sāhantya_SDM puroḍāśam_puroḍāśa_SAM aṣṭākapālam_aṣṭākapāla_SAM niḥ_niḥ_ vapet_vap_SPr3O"
+  },
+  {
+    "index": 48417,
+    "sanskrit": "ratnapradīpaśatakairjvaladbhirjvalitaṃ śriyā | ratnapātraghaṭākīrṇaṃ muktāmaṇivirājitam || ratnadarppaṇaśobhāḍhyaṃ maṇḍitaṃ śvetacāmaraiḥ | muktāmaṇisumālābhirveṣṭitaṃ paramarddhimat || anūpamammahādivyaṃ vicitraṃ sumanoharam | cittāhlādakaraṃ nānāracanāracitasthalam ||",
+    "english": "16. It was brightly illuminated with hundreds of gemset lamps. There were many gemset vessels. Pearls etc. were gorgeously displayed. 17. Gemset mirrors, white chowries, pearl necklaces and gorgeous things were richly displayed. 18. It was unequalled in its divine exquisiteness highly pleasing and richly decorated.",
+    "morphology": "ratna_ratna_Cp pradīpa_pradīpa_Cp śatakaiḥ_śataka_PINe jvaladbhiḥ_jval_PIPaPrNe jvalitam_jval_SAPaM śriyā_śrī_SIF  / ratna_ratna_Cp pātra_pātra_Cp ghaṭa_ghaṭa_Cp ākīrṇam_ākṛ_SAPaM muktāmaṇi_muktāmaṇi_Cp virājitam_virāj_SAPa"
+  },
+  {
+    "index": 48418,
+    "sanskrit": "mṛgā rurupṛṣatādaya āraṇyāḥ /",
+    "english": "\"Deer\" stands for such wilder varieties as the \"Ruru\" the \"Pṛṣata\" and the like.",
+    "morphology": "mṛgāḥ_mṛga_PNM"
+  },
+  {
+    "index": 48419,
+    "sanskrit": "atha vā tyāgo hāniḥ / anyasya cānirdeśād dharmahāniṃ prāpnoti //",
+    "english": "Or \"giving up\" may mean loss; and as nothing else is mentioned, it must mean the \"loss\" of merit on the part of the king.",
+    "morphology": "atha_atha_ vā_vā_ tyāgaḥ_tyāga_SNM hāniḥ_hāni_SNF  / anyasya_anya_SGM ca_ca_ anirdeśāt_anirdeśa_SBM"
+  },
+  {
+    "index": 48420,
+    "sanskrit": "pudgaladharmayor grāhyagrāhakayor bhāvābhāvayoś cā'samāropānapavādaviparyāsa dṛśyatattvam aviparyāsalakṣaṇaṃ / taddhi nityādiviparyāsapratipakṣabhūtaṃ /",
+    "english": "The visible reality free from illusory notions i.e. the reality of characteristic, for the freedom from illusory notions comes about on account of this because there is neither imputation nor negation in regard to a the personal entity and the dharmas, b the apprehended object and apprehending subject and c existence and nonexistence.",
+    "morphology": "pudgala_pudgala_Cp dharmayoḥ_dharma_DuGM grāhya_grāhya_Cp grāhakayoḥ_grāhaka_DuGM bhāva_bhāva_Cp abhāvayoḥ_abhāva_DuGM ca_ca_ a_a_ samāropa_samāropa_Cp anapavāda_anapavāda_Cp viparyāsa_viparyāsa_SVM dṛśya_dṛś_GdCp tattvam_tattva_S"
+  },
+  {
+    "index": 48421,
+    "sanskrit": "durvāsā uvāca | ya़jñadeva kṛtaṃ pāpamatikrūraṃ sutena te | nāsya pāpasya śāṃtiḥ syātprāyaścittāyutairapi || 79 ||",
+    "english": "79. O Yajñadeva, excessively grave sins have been committed by your son. Even by ten thousand expiatory rites his sin cannot be subdued.",
+    "morphology": "durvāsāḥ_durvāsas_SNM uvāca_vac_SPs3In  / yajñadeva_yajñadeva_SVM kṛtam_kṛ_SNPaNe pāpam_pāpa_SNNe ati_ati_ krūram_krūra_SNNe sutena_suta_SIM te_tvad_SG  / na_na_ asya_idam_SGNe pāpasya_pāpa_SGNe śāṃtiḥ_śānti_SNF syāt_as_SPr3O pr"
+  },
+  {
+    "index": 48422,
+    "sanskrit": "tyaja śvānam na atra nṛśaṃsam asti",
+    "english": "Do thou abandon this dog. There is no cruelty in this.",
+    "morphology": "tyaja_tyaj_SPr2Im"
+  },
+  {
+    "index": 48423,
+    "sanskrit": "ityuktau tau muniśreṣṭhau bhūtenātyantaduḥkhinā | pratyūcaturmahātmānau kiṃciddhyānaparāyaṇau || 24 ||",
+    "english": "24. On being asked thus by the king who was extremely miserable, those noble-souled excellent sages meditated for a short while and then replied:",
+    "morphology": "iti_iti_ uktau_vac_DuNPaM tau_tad_DuNM muni_muni_Cp śreṣṭhau_śreṣṭha_DuNM bhūtena_bhūta_SINe atyanta_atyanta_Cp duḥkhinā_duḥkhin_SINe  / pratyūcatuḥ_prativac_DuPs3In mahātmānau_mahātman_DuNM"
+  }
+]

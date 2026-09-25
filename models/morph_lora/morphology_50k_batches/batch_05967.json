@@ -1,0 +1,50 @@
+[
+  {
+    "index": 47728,
+    "sanskrit": "śrīvasiṣṭha uvāca / hemormikādivanmithyā kathitāyāḥ kṣayonmukham / tvaṃ mahattvamavidyāyāḥ śṛṇu rāghava kīdṛśam //",
+    "english": "Vasishtha continued:—Now Rama, attend to the wonderful power of the said Avidya or error, in displaying the changeful phenomenals, like the changing forms of ornaments in the substance of the self-same gold.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / hema_heman_Cp ūrmika_ūrmika_Cp ādi_ādi_Cp vat_vat_ mithyā_mithyā_ kathitāyāḥ_kathay_SGPaF kṣaya_kṣaya_Cp unmukham_unmukha_SANe  / tvam_tvad_SN mahat_mahat_Cp tvam_tva_SNNe a"
+  },
+  {
+    "index": 47729,
+    "sanskrit": "tam śṛṇuṣva mahā rāja mama kīrtayataḥ prabho na asti lokeṣu tat bhūtam bhavitā naḥ bhaviṣyati yaḥ jayet pāṇḍavān saṃkhye pālitān śārṅgadhanvanā",
+    "english": "Listen also, O king, from me as I speak of it, O Lord, to the reason why the Pandavas, whose achievements tire them not, are unslayable.[385] There is not, was not, will not be, the being in all the worlds who would or will be able to vanquish the sons of Pandu who are all protected by the wielder of Saranga.",
+    "morphology": "tam_tad_SAM śṛṇuṣva_śru_SPr2Im mahā_mahat_Cp rāja_rāja_SVM mama_mad_SG kīrtayataḥ_kīrtay_SGPaPrM prabho_prabhu_SVM na_na_U asti_as_SPr3In lokeṣu_loka_PLM tat_tad_SNNe bhūtam_bhū_SNPaPsNe bhavitā_bhū_SFu3In naḥ_mad_PG bhaviṣyati_bh"
+  },
+  {
+    "index": 47730,
+    "sanskrit": "nāsti niyama iti bhadantaḥ /",
+    "english": "There is no fixed rule, says the Bhadanta.",
+    "morphology": "na_na_ asti_as_SPr3In niyamaḥ_niyama_SNM iti_ bhadantaḥ_bhadanta_SNM"
+  },
+  {
+    "index": 47731,
+    "sanskrit": "na ca tasya ekaikaśa iti liṅgāt kecit samudāye 'pīti /",
+    "english": "\"For each act\" This shows that what is here laid down is not to be regarded as cumulative.",
+    "morphology": "na_na_ ca_ca_ tasya_tad_SGM ekaikaśas_ekaikaśas_ iti_iti_ liṅgāt_liṅga_SBNe kecid_kaścit_PNM samudāye_samudāya_SLM api_api_ iti_iti_"
+  },
+  {
+    "index": 47732,
+    "sanskrit": "kiṃ tu-",
+    "english": "Not at all, but,.",
+    "morphology": "__U"
+  },
+  {
+    "index": 47733,
+    "sanskrit": "prabhajyamānam sainyam tu dṛṣṭvā yādava nandanaḥ uvāca pārtham bībhatsum nigṛhya ratham uttamam ayam sa kālaḥ saṃprāptaḥ pārtha yaḥ kāṅkṣitaḥ tava",
+    "english": "\"Then that delighter of the Yadavas, beholding the Pandava army breaking, reined the excellent car (that he guided), and addressing Vibhatsu the son of Pritha, said,--That hour is come, O Partha, which thou hadst hoped for.",
+    "morphology": "prabhajyamānam_prabhañj_SAPaPrNePv sainyam_sainya_SANe tu_tu_U dṛṣṭvā_dṛś_Co yādava_yādava_MCp nandanaḥ_nandana_SNM uvāca_vac_SPs3In pārtham_pārtha_SAM bībhatsum_bībhatsu_SAM nigṛhya_nigrah_Co ratham_ratha_SAM uttamam_uttama_SAM ayam"
+  },
+  {
+    "index": 47734,
+    "sanskrit": "śrīvasiṣṭha uvāca / cinmātrameva puruṣastadevetthamavasthitam / cinmātravyatirekeṇa kimanyadupapadyate //",
+    "english": "Vasishtha continued:—Thus it is the Intellect only which is the soul of the body also, and which is situated every where in the manner as said before; and there is nothing which is so self-evident as the Intellect.",
+    "morphology": "śrī_śrī_Cp vasiṣṭhaḥ_vasiṣṭha_SNM uvāca_vac_SPs3In  / cit_cit_Cp mātram_mātra_SNNe eva_eva_ puruṣaḥ_puruṣa_SNM tat_tad_SNNe eva_eva_ ittham_ittham_ avasthitam_avasthā_SNPaNe  / cit_cit_Cp mātra_mātra_Cp vyatirekeṇa_vyatireka_SIM"
+  },
+  {
+    "index": 47735,
+    "sanskrit": "iṃdra uvāca | namo bhargāya devāya devānāmatidurgama | varado bhava deveśa devānāṃ kāryasiddhaye || 187 ||",
+    "english": "Indra prayed: 187. Obeisance to lord Bharga, who is very difficult to be approached by Devas. O lord of Devas, be the bestower of boons for the sake of the accomplishment of the tasks of Devas.",
+    "morphology": "iṃdraḥ_indra_SNM uvāca_vac_SPs3In  / namaḥ_namas_SNNe bhargāya_bharga_SDM devāya_deva_SDM devānām_deva_PGM ati_ati_ durgama_durgama_SVM  / vara_vara_Cp daḥ_da_SNM bhava_bhū_SPr2Im deveśa_deveśa_SVM devānām_deva_PGM kārya_kārya_Cp siddha"
+  }
+]

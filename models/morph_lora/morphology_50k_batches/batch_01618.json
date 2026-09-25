@@ -1,0 +1,50 @@
+[
+  {
+    "index": 12936,
+    "sanskrit": "tenaikasya śabdasya phaladvayamaviruddham eva //",
+    "english": "Thus there is nothing incongruous in a single word having two resultants.",
+    "morphology": "tena_tena_ __eka_U __śabda_U __phala_U __U __U __U"
+  },
+  {
+    "index": 12937,
+    "sanskrit": "tathā cātrocyate valmīkād dūratarād aśvasthānāc cānyetyādi /",
+    "english": "In present connection, for instance, it has been declared that \"earth should be got from a place far removed from an anthill, us also from the stables\" and so forth.",
+    "morphology": "tathā_tathā_ ca_ca_ atra_atra_ ucyate_vac_SPr3InPv valmīkāt_valmīka_SBM dūratarāt_dūratara_SBNe aśva_aśva_Cp sthānāt_sthāna_SBNe ca_ca_ anya_anya_Cp ityādi_ityādi_SNNe  /"
+  },
+  {
+    "index": 12938,
+    "sanskrit": "yathaiva hi parā buddhiḥ paro dharmaḥ paro damaḥ /",
+    "english": "Virtue is His effulgence. The sun and moon are His eyes and the sky is His body.",
+    "morphology": "yathā_yathā_ eva_eva_ hi_hi_ parā_para_SNF buddhiḥ_buddhi_SNF paraḥ_para_SNM dharmaḥ_dharma_SNM paraḥ_para_SNM damaḥ_dama_SNM  /"
+  },
+  {
+    "index": 12939,
+    "sanskrit": "iti śrutārthaḥ sa rājā-apalakṣaṇā kilāsau, na ca me kulānurūpeti tasyāṃ vinivṛttābhilāṣo babhūva /",
+    "english": "Now once, on the occasion of the Kaumudī-festival, it happened that the king desired to contemplate the splendour of that festivity in his capital.",
+    "morphology": "iti_iti_ śruta_śru_PaCp arthaḥ_artha_SNM sa_tad_SNM rājā_rājan_SNM apalakṣaṇā_apalakṣaṇa_SNF kila_kila_ asau_adas_SNF na_na_ ca_ca_ me_mad_SG kula_kula_Cp anurūpā_anurūpa_SNF iti_iti_ tasyām_tad_SLF vinivṛtta_vinivṛt_PaCp abhilāṣ"
+  },
+  {
+    "index": 12940,
+    "sanskrit": "nalina utpala kiñjalka gairikaiḥ go śakṛt rasaiḥ guḍikā añjanam etat vā dina rātri andhayoḥ hitam",
+    "english": "Pollens of Nalini (red lotus) and of Utpala (blue lotus) as well as Gairika[3] pasted together with the Rasa (watery secretions) of cow-dung[4] and made into large pills (Gudika) may be profitably applied to the eye as an Anjana alike in cases of day-blindness and night-blindness.",
+    "morphology": "nalina_nalina_MCp utpala_utpala_MCp kiñjalka_kiñjalka_MCp gairikaiḥ_gairika_PINe go_go_U śakṛt_śakṛt_NeCp rasaiḥ_rasa_PIM guḍikā_guḍikā_FCp añjanam_añjana_SNNe ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_ā_U ā_"
+  },
+  {
+    "index": 12941,
+    "sanskrit": "paitāmahena hṛdayaṃ bhitvā rāmeṇa rāvaṇaḥ //",
+    "english": "Rāvaṇa was made to fall down to the ground by Rāma by piercing his heart with the Brahmāstra weapon of the Pitāmaha.",
+    "morphology": "paitāmahena_paitāmaha_SIM hṛdayam_hṛdaya_SANe bhitvā_bhī_Co"
+  },
+  {
+    "index": 12942,
+    "sanskrit": "ekādhikaṃ harej jyeṣṭhaḥ putro 'dhyardhaṃ tato 'nujaḥ / aṃśam aṃśaṃ yavīyāṃsa iti dharmo vyavasthitaḥ // ekenāṃśenādhikaṃ svāṃśaṃ haret svīkuryāt dvāv aṃśau pratipadyetety arthaḥ /",
+    "english": "The eldest son shall take one share in excess; the one born next to him a share and a half; and the younger ones one share each; such is the settled law. The eldest brother shall take \"one share in excess\" of his own; that is, he shall take two shares. The brother born next to him \"a share and a half,\" this being the second brother\" s share.",
+    "morphology": "eka_eka_Cp adhikam_adhika_SAM haret_hṛ_SPr3O jyeṣṭhaḥ_jyeṣṭha_SNM putraḥ_putra_SNM adhyardham_adhyardha_SANe tatas_tatas_ anujaḥ_anuja_SNM  / aṃśam_aṃśa_SAM aṃśam_aṃśa_SAM iti_iti_ dharmaḥ_dharma_SNM vyavasthitaḥ_vyavasthā_"
+  },
+  {
+    "index": 12943,
+    "sanskrit": "senā avaśeṣam tam dṛṣṭvā tava putrasya pāṇḍavaḥ vyavasthitam savyasācī cukrodha balavat nṛpa",
+    "english": "Then the mighty Savyasaci, the son of Pandu, beholding a remnant of thy army still keeping their ground, became filled with rage, O king.",
+    "morphology": "senā_senā_FCp avaśeṣam_avaśeṣa_SAM tam_tad_SAM dṛṣṭvā_dṛś_Co tava_tvad_SG putrasya_putra_SGM pāṇḍavaḥ_pāṇḍava_SNM vyavasthitam_vyavasthā_SAPaPsM savyasācī_savyasācin_SNM cukrodha_krudh_SPs3In balavat_balavat_SANe nṛpa_n"
+  }
+]

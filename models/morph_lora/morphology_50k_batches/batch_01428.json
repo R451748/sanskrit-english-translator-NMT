@@ -1,0 +1,50 @@
+[
+  {
+    "index": 11416,
+    "sanskrit": "idam saraḥ mahā puṇyam deva loke api viśrutam",
+    "english": "It hath been heard, of even in the heavens.",
+    "morphology": "idam_idam_SNNe saraḥ_saras_SNNe mahā_mahat_Cp puṇyam_puṇya_SNNe"
+  },
+  {
+    "index": 11417,
+    "sanskrit": "śubhāśubha iti kuśalākuśalaḥ /",
+    "english": "“Pure or impure” means good or bad.",
+    "morphology": "śubha_śubha_Cp aśubhaḥ_aśubha_SNM"
+  },
+  {
+    "index": 11418,
+    "sanskrit": "taṃ vandamānaṃ caraṇāvavalokya muniściram / uvāca vākyaṃ vicchāyaḥ kathamadya tvamīdṛśaḥ // avīrajonugamanaṃ brahmahatyā kṛtātha vā / dṛḍhāśābhaṅgaduḥkhīva bhraṣṭacchāyo 'si sāṃpratam //",
+    "english": "The Muni surveyed him for some time, as he lay prostrate at his feet, and said to him, “How is it that I see you thus shorn of your lustre? Have you been guilty of illicit intercourse with women, or of the death of a Brahman? or have you suffered some grievous disappointment? that you are so dejected.",
+    "morphology": "tam_tad_SAM vandamānam_vand_SAPaPrM caraṇau_caraṇa_DuAM avalokya_avalokay_Co muniḥ_muni_SNM ciram_ciram_  / uvāca_vac_SPs3In vākyam_vākya_SANe vicchāyaḥ_vicchāya_SNM katham_katham_ adya_adya_ tvam_tvad_SN īdṛśaḥ_īdṛśa_SNM  / brahmah"
+  },
+  {
+    "index": 11419,
+    "sanskrit": "hiraṇyagarbham tvām āhuḥ svadhā svāhā ca keśava",
+    "english": "Thou art called Hiranyagarbha, thou art the sacred mantras swadha and swaha, thou art Kesava.",
+    "morphology": "hiraṇyagarbham_hiraṇyagarbha_SAM tvā_tvad_SA āhuḥ_ah_PPs3In"
+  },
+  {
+    "index": 11420,
+    "sanskrit": "devair gatvā stuto viṣṇur yajñarūpo varāhakaḥ /",
+    "english": "Viṣṇu being praised by the celestials who had gone to him, he assumed the form as Yajñavarāha boar.",
+    "morphology": "devaiḥ_deva_PIM gatvā_gam_Co stutaḥ_stu_SNPaM viṣṇuḥ_viṣṇu_SNM yajña_yajña_Cp rūpaḥ_rūpa_SNM varāhakaḥ_varāhaka_SNM"
+  },
+  {
+    "index": 11421,
+    "sanskrit": "kadācicca hyanāvṛṣṭirabhavattatra suvratāḥ | varṣāṇāṃ ca śataṃ raudrī lokā duḥkhamupāgatāḥ ||",
+    "english": "4. O great ones of good rites, once a terrible drought lasting for a hundred years occurred there. All the people were put to great distress.",
+    "morphology": "kadācid_kadācid_ ca_ca_ hi_hi_ anāvṛṣṭiḥ_anāvṛṣṭi_SNF abhavat_bhū_S3ImIn tatra_tatra_ suvratāḥ_suvrata_PVM  / varṣāṇām_varṣa_PGM ca_ca_ śatam_śata_SANe raudrī_raudra_SNF lokāḥ_loka_PNM duḥkham_duḥkha_SANe upāgatā"
+  },
+  {
+    "index": 11422,
+    "sanskrit": "ato jīvannapi mṛta iva sarvo'vatiṣṭhate / asāvahaṃ ca tvaṃ ceti jīvanto'pi mṛtā iva //",
+    "english": "Here in its ample exhibition, all living beings are displayed as dead bodies; and I and you, he and it, are all represented as lifeless figures in a picture.",
+    "morphology": "atas_atas_ jīvan_jīv_SNPaPrM api_api_ mṛtaḥ_mṛ_SNPaM iva_iva_ sarvaḥ_sarva_SNM avatiṣṭhate_avasthā_SPr3In  / asau_adas_SNM aham_mad_SN ca_ca_ tvam_tvad_SN ca_ca_ iti_iti_"
+  },
+  {
+    "index": 11423,
+    "sanskrit": "sāṅkhyayoga virāgādi prāguktaṃ yacca duṣkaram | tadapi syāddhi sukaramanenaivāśu siddhidam || 18 ||",
+    "english": "18. It is due to this that whatever (practice or act) such as Sāṅkhya, Yoga, Vairāgya (indifference to worldly objects) etc. has been previously declared as difficult becomes easy to accomplish immediately.",
+    "morphology": "sāṅkhya_sāṃkhya_Cp yoga_yoga_SVM virāga_virāga_Cp ādi_ādi_SNNe prāk_prāk_ uktam_vac_SNPaNe yat_yad_SNNe ca_ca_ duṣkaram_duṣkara_SNNe  / tat_tad_SNNe api_api_ syāt_as_SPr3O hi_hi_ sukaram_sukara_SNNe anena_idam_SINe eva_eva_ āśu_āśu_ si"
+  }
+]

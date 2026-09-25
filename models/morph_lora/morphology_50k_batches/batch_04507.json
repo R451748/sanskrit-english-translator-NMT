@@ -1,0 +1,50 @@
+[
+  {
+    "index": 36048,
+    "sanskrit": "urasyakakṣapakṣāstu vyūho 'yaṃ sapratigrahaḥ // guroreṣa ca śukrasya kakṣābhyāṃ parivarjitaḥ /",
+    "english": "The array called guru consists of chest, sides and wings together with the rear. That of śukra is devoid of two sides.",
+    "morphology": "urasya_urasya_Cp kakṣa_kakṣa_Cp pakṣāḥ_pakṣa_PNM tu_tu_ vyūhaḥ_vyūha_SNM ayam_idam_SNM sa_sa_ pratigrahaḥ_pratigraha_SNM  / guroḥ_guru_SGM eṣa_etad_SNM ca_ca_ śukrasya_śukra_SGM kakṣābhyām_kakṣa_DuIM parivarjitaḥ_parivarjay_S"
+  },
+  {
+    "index": 36049,
+    "sanskrit": "vaidehikād dvāv āndhramedau / kasyāṃ stryām /",
+    "english": "From the Vaidehaha are born the two castes \"Andhra\" and \"Meda,\" on what women?on the Kāravara and the Niṣāda women respectively.",
+    "morphology": "vaidehikāt_vaidehika_SBM dvau_dvi_DuNM āndhra_āndhra_Cp medau_meda_DuNM  / kasyām_ka_SLF ḥ_ḥ_"
+  },
+  {
+    "index": 36050,
+    "sanskrit": "brāhmaṇāḥ ca eva yajñāḥ ca saha annāḥ saha dakṣiṇāḥ",
+    "english": "As regards those that have fallen away (in consequence of their sinful deeds) from the status of Brahman, uncooked food should be given to them outside the limits of the sacrificial altar.[469] The Brahmanas are the Vedas themselves and all the Sacrifices with large presents.",
+    "morphology": "brāhmaṇāḥ_brāhmaṇa_PNM ca_ca_U eva_eva_U yajñāḥ_yajña_PNM ca_ca_U saha_saha_U annāḥ_anna_PNM saha_saha_U dakṣiṇāḥ_dakṣiṇā_PNF"
+  },
+  {
+    "index": 36051,
+    "sanskrit": "iti vāvaitad āha yady agniṣṭomo juhoti yady ukthyaḥ paridhau ni mārṣṭi yady atirātro yajur vadan pra padyate yajñakratūnāṃ vyāvṛttyai |",
+    "english": "If it is an Agnistoma, he makes a libation; if an Ukthya, he rubs (butter) on the enclosing-sticks; if it is an Atiratra, he goes forward uttering a text, to distinguish the sacrifices.",
+    "morphology": "iti_iti_ vāva_vāva_ etat_etad_SANe āha_ah_SPs3In yadi_yadi_ agniṣṭomaḥ_agniṣṭoma_SNM juhoti_hu_SPr3In yadi_yadi_ ukthyaḥ_ukthya_SNM paridhau_paridhi_SLM ni_ni_ mārṣṭi_mṛj_SPr3In yadi_yadi_ atirātraḥ_atirātra_SNM yajuḥ_yajus_SANe"
+  },
+  {
+    "index": 36052,
+    "sanskrit": "iti / chedyate 'neneti chedanam //",
+    "english": "The word ‘Chedana’, ‘Cutting weapon’, stands for that by which something is cut.",
+    "morphology": "iti_iti_  / chedyate_cheday_SPr3InPv anena_idam_SIM iti_iti_ chedanam_chedana_SNNe  /"
+  },
+  {
+    "index": 36053,
+    "sanskrit": "āruroha tayor mukhyaṃ sa kāñcanagiriṃ svayam / kanīyase ca putrāya dadau kāñcanaśekharam //",
+    "english": "And he himself mounted the chief one, which was named Kāñcanagiri, and the lesser one, which was named Kāñcanaśekhara, he gave to the younger of his sons.",
+    "morphology": "āruroha_āruh_SPs3In tayoḥ_tad_DuGM mukhyam_mukhya_SAM sa_tad_SNM kāñcana_kāñcana_Cp girim_giri_SAM svayam_svayam_  / kanīyase_kanīyas_SDM ca_ca_ putrāya_putra_SDM dadau_dā_SPs3In kāñcanaśekharam_kāñcanaśekhara_SAM  /"
+  },
+  {
+    "index": 36054,
+    "sanskrit": "caturmūrtimayaṃ śubhraṃ yattatsakalaniṣkalam| tasminbhogaḥ samuddiṣṭa ityatredaṃ ca varṇitam | |",
+    "english": "It has been mentioned in that Sastra that the bindu has inherent in it four kalās, Sri Tantrāloka namely, nivrtti, pratisthā, vidyā and śānta. It is white. Though imbued with kalās, it lies in transcendence of all of them.",
+    "morphology": "catur_catur_Cp mūrti_mūrti_Cp mayam_maya_SNNe śubhram_śubhra_SNNe yat_yad_SNNe tat_tad_SNNe sakala_sakala_Cp niṣkalam_niṣkala_SNNe tasmin_tad_SLNe bhogaḥ_bhoga_SNM samuddiṣṭaḥ_samuddiś_SNPaM iti_iti_ atra_atra_ idam_idam_SNNe ca_ca_ varṇ"
+  },
+  {
+    "index": 36055,
+    "sanskrit": "śrībhagavānuvāca | bakaihi tvaṃ mahābhāga kailāsaṃ parvatottamam | mayā sārdhamanenaiva śarīreṇa gaṇo bhava || 77 ||",
+    "english": "Śrī Bhagavān said: 77. O Baka, O highly esteemed one, come to the excellent mountain Kailāsa along with me in this very physical form. Be my Gaṇa.",
+    "morphology": "śrī_śrī_Cp bhagavān_bhagavant_SNM uvāca_vac_SPs3In  / bakaiḥ_baka_SVM ehi_e_SPr2Im tvam_tvad_SN mahābhāga_mahābhāga_SVM kailāsam_kailāsa_SAM parvata_parvata_Cp uttamam_uttama_SAM  / mayā_mad_SI sārdham_sārdham_ anena_idam_SINe eva_eva_ śa"
+  }
+]

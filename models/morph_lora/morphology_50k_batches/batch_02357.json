@@ -1,0 +1,50 @@
+[
+  {
+    "index": 18848,
+    "sanskrit": "manyamāno hataṃ vyāghraṃ svasthānaṃ sa jagāma ha | rātryāṃ tasyāṃ bhramāpanno varṣavātavinaṣṭadhīḥ ||",
+    "english": "56. Due to rain and gust of wind in the night he was deluded. Thinking, that the tiger had been killed he returned to his place.",
+    "morphology": "manyamānaḥ_man_SNPaPrM hatam_han_SAPaM vyāghram_vyāghra_SAM sva_sva_Cp sthānam_sthāna_SANe sa_tad_SNM jagāma_gam_SPs3In ha_ha_  / rātryām_rātri_SLF tasyām_tad_SLF bhrama_bhrama_Cp āpannaḥ_āpad_SNPaM varṣa_varṣa_Cp vāta_vāta_Cp vinaṣ"
+  },
+  {
+    "index": 18849,
+    "sanskrit": "jagāma manasā ca eva vasiṣṭham ṛṣi sattamam purohitam amitra ghnaḥ tadā saṃvaraṇaḥ nṛpaḥ",
+    "english": "King Samvarana, that smiter of all foes, thought also of his chief priest Vasishtha, that best of Rishis.",
+    "morphology": "jagāma_gam_SPs3In manasā_manas_SINe ca_ca_U eva_eva_U vasiṣṭham_vasiṣṭha_SAM ṛṣi_ṛṣi_MCp sattamam_sattama_SAM purohitam_purohita_SAM amitra_amitra_MCp ghnaḥ_ghna_SNM tadā_tadā_U saṃvaraṇaḥ_saṃvaraṇa_SNM nṛpaḥ_nṛpa_SNM"
+  },
+  {
+    "index": 18850,
+    "sanskrit": "ārohati mahat yānam haṃsa sārasa vāhanam",
+    "english": "He makes his journeys on such a car, drawn by swans and cranes and lives for millions and millions of years in great happiness in heaven.",
+    "morphology": "ārohati_āruh_SPr3In mahat_mahat_SANe yānam_yāna_SANe"
+  },
+  {
+    "index": 18851,
+    "sanskrit": "pūrve sarva-prāṇānukampanatayā nihita-loṣṭa-daṇḍa-śastratayā ca nirvttam |",
+    "english": "arose through previously having compassion towards all living beings, and praising the putting down of clods of earth and sticks.",
+    "morphology": "pūrve_pūrva_PNM sarva_sarva_Cp prāṇa_prāṇa_Cp anukampana_anukampana_Cp tayā_tā_SIF nihita_nidhā_PaCp loṣṭa_loṣṭa_Cp daṇḍa_daṇḍa_Cp śastra_śastra_Cp tayā_tā_SIF ca_ca_ nirvṛttam_nirvṛt_SNPaNe"
+  },
+  {
+    "index": 18852,
+    "sanskrit": "tvaṃ someti ca sūktena navaṃ paśyenniśākaraṃ // upatiṣṭhet samitpāṇirvāsāṃsyāpnotyasaṃśayaṃ /",
+    "english": "One should look at the rising moon with the repetition of the hymn tvam soma and worship with the twig in the hand.",
+    "morphology": "tvam_tvad_SN soma_soma_SVM iti_iti_ ca_ca_ sūktena_sūkta_SINe navam_nava_SAM paśyet_paś_SPr3O niśākaram_niśākara_SAM  // upatiṣṭhet_upasthā_SPr3O samidh_samidh_Cp pāṇiḥ_pāṇi_SNM vāsāṃsi_vāsas_PANe āpnoti_āp_SPr3In asaṃśayam_a"
+  },
+  {
+    "index": 18853,
+    "sanskrit": "rājadharmāṇām anusaṃdhānārtham /",
+    "english": "This verse shows the purpose of indicating all the duties of the king.",
+    "morphology": "rāja_rājan_Cp dharmāṇām_dharma_PGM anusaṃdhāna_anusaṃdhāna_Cp artham_artha_SAM "
+  },
+  {
+    "index": 18854,
+    "sanskrit": "darpāt mānaḥ samabhavat mānāt krodhaḥ vyajāyata",
+    "english": "And pride begat vanity and vanity begat wrath.",
+    "morphology": "darpāt_darpa_SBM mānaḥ_māna_SNM samabhavat_sambhū_SPs3In mānāt_māna_SBM krodhaḥ_krodha_SNM vyajāyata_vijan_SPs3In"
+  },
+  {
+    "index": 18855,
+    "sanskrit": "yadi vā māsasaṃcayaka iti bahuvrīhisamāso 'tra kartavyaḥ māsaparyāptaḥ saṃcayo 'syeti /",
+    "english": "Or the reading may be \"māsasañcayakaḥ\" and the word explained as a Bahuvrīhi compound \"he whose collection is sufficient for a month\".",
+    "morphology": "yadi_yadi_ vā_vā_ māsa_māsa_Cp saṃcayakaḥ_saṃcayaka_SNM iti_iti_ bahuvrīhi_bahuvrīhi_Cp samāsaḥ_samāsa_SNM atra_atra_ kartavyaḥ_kṛ_SNMGd māsa_māsa_Cp paryāptaḥ_paryāp_SNPaM saṃcayaḥ_saṃcaya_SNM asya_idam_SGM iti_iti_  /"
+  }
+]

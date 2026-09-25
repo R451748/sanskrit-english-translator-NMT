@@ -1,0 +1,50 @@
+[
+  {
+    "index": 19400,
+    "sanskrit": "satyam arthaṃ ca saṃpaśyed ātmānam atha sākṣiṇaḥ / deśaṃ rūpaṃ ca kālaṃ ca vyavahāravidhau sthitaḥ //",
+    "english": "When engaged in judicial proceedings he must pay full attention to the truth, to the object (of the dispute), (and) to himself, next to the witnesses, to the place, to the time, and to the aspect.",
+    "morphology": "satyam_satya_SANe artham_artha_SAM ca_ca_ saṃpaśyet_saṃpaś_SPr3O ātmānam_ātman_SAM atha_atha_ sākṣiṇaḥ_sākṣin_SGM  / deśam_deśa_SAM rūpam_rūpa_SANe ca_ca_ kālam_kāla_SAM ca_ca_ vyavahāra_vyavahāra_Cp vidhau_vidhi_SLM sthitaḥ_st"
+  },
+  {
+    "index": 19401,
+    "sanskrit": "jñāna yogena sāṃkhyānām karma yogena yoginām",
+    "english": "that of the Sankhyas through knowledge and that of the yogins through work.",
+    "morphology": "jñāna_jñāna_NeCp yogena_yoga_SIM sāṃkhyānām_sāṃkhya_PGM"
+  },
+  {
+    "index": 19402,
+    "sanskrit": "bhavati yad ālabdhāyām abhraḥ syād apsu vā praveśayet sarvāṃ vā prāśnīyāt |",
+    "english": "if a cloud should appear when it has been offered, he should either cast it into the waters or eat it whole;",
+    "morphology": "bhavati_bhū_SPr3In yat_yat_ ālabdhāyām_ālabh_SLPaF abhraḥ_abhra_SNM syāt_as_SPr3O apsu_ap_PLF vā_vā_ praveśayet_praveśay_SPr3O sarvām_sarva_SAF vā_vā_ prāśnīyāt_prāś_SPr3O"
+  },
+  {
+    "index": 19403,
+    "sanskrit": "tathā tasya īhamānasya samārambhaḥ vinaśyati",
+    "english": "In his eager desire for the acquisition of wealth, such a person loses all other objects of life.",
+    "morphology": "tathā_tathā_U"
+  },
+  {
+    "index": 19404,
+    "sanskrit": "ayāmi te namaḥ uktim juṣasva r̥ta vaḥ tubhyam cetate sahasvaḥ vidvān ā vakṣi viduṣaḥ ni ṣatsi madhye ā barhiḥ ūtaye yajatra",
+    "english": "To thee I offer reverent speech: accept it: to thee who markest it, victorious, faithful! Bring, thou who knowest, those who know, and seat thee amid the sacred grass, for help, O Holy.",
+    "morphology": "ayāmi_yam_SPs3InPv te_tvad_SD namaḥ_namas_SNNe uktim_ukti_SAF juṣasva_juṣ_SPr2Im r̥ta_r̥ta_NeCp vaḥ_tvad_PD tubhyam_tvad_SD cetate_cit_SDPaPrM sahasvas_sahasvat_SVM vidvān_vid_SNPaPsM ā_ā_U vakṣi_vah_SPr2Su viduṣaḥ_vid_PAPaPsM ni_ni_U s"
+  },
+  {
+    "index": 19405,
+    "sanskrit": "etāni khalu doṣa sthānāni eṣu saṃcīyante doṣāḥ | prāk saṃcaya hetuḥ uktaḥ |",
+    "english": "These are the locations of the deranged humours, which are respectively accumulated in them on account of the aforesaid causes.",
+    "morphology": "etāni_etad_PNNe khalu_khalu_U doṣa_doṣa_MCp sthānāni_sthāna_PNNe eṣu_idam_PLNe saṃcīyante_saṃci_PPr3InPv doṣāḥ_doṣa_PNM  / prāk_prāk_U saṃcaya_saṃcaya_MCp hetuḥ_hetu_SNM uktaḥ_vac_SNPaPsM  /"
+  },
+  {
+    "index": 19406,
+    "sanskrit": "tatpratibimbitaṃ bāhyānmukurapratibimvavat / satyaṃ tadantarevāsti citernāsatyamarthataḥ //",
+    "english": "The thoughts that are subjective and imprinted in the inner intellect (from preconceived desire or reminiscence), are never untrue; just as the reflection of our face cast in a mirror from without, cannot be a false shadow.",
+    "morphology": "tat_tad_SNNe pratibimbitam_pratibimb_SNPaNe bāhyāt_bāhya_SBNe mukura_mukura_Cp pratibimva_pratibimva_Cp vat_vat_  / satyam_satya_SNNe tat_tad_SNNe antar_antar_ eva_eva_ asti_as_SPr3In citeḥ_citi_SGF na_na_ asatyam_asatya_SNNe arthataḥ_artha_SBM  /"
+  },
+  {
+    "index": 19407,
+    "sanskrit": "nānubhūte'nubhūte ca svataścidvyomni yā smṛtiḥ / sā jagadbhūriti prauḍhā dṛśyā sāstyeva citprabhā //",
+    "english": "The remembrance that lives impressed of itself in the empty space of individual Intellects, is verily the reservoir of the perceptible and imperceptible worlds. This reminiscence is eternally present before the sight of God, as a reflection of his own Intellect.",
+    "morphology": "na_na_ anubhūte_anubhū_SLPaM anubhūte_anubhū_SLPaM ca_ca_ svatas_svatas_ cit_cit_Cp vyomni_vyoman_SLM yā_yad_SNF smṛtiḥ_smṛti_SNF  / sā_tad_SNF jagat_jagant_Cp bhūḥ_bhū_SNF iti_iti_ prauḍhā_prauḍha_SNF dṛśyā_dṛś_SNFGd sā_tad_SN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "index": 3904,
+    "sanskrit": "viṣṇav {F urukramaiṣa}{W urukramaiṣa}{GOLS urukramaiṣa} te somas taṃ rakṣasva |",
+    "english": "For the gods thee! For the All-gods thee! For all the gods thee! O Visnu, wide striding, this is thy Soma;",
+    "morphology": "viṣṇo_viṣṇu_SVM "
+  },
+  {
+    "index": 3905,
+    "sanskrit": "sūryamātrāhataṃ brahmaṇyaṅgānīha tu pūrvavat //",
+    "english": "It should then be coupled as before with the aṅgamantras adding also the syllables of Sūrya and Viśvarūpa, the cause.",
+    "morphology": "__sūrya_U __mātrā_U __han_PaU __brahman_U __aṅga_U __iha_U __pūrvavat_U  /"
+  },
+  {
+    "index": 3906,
+    "sanskrit": "vinā vadham na kurvanti tāpasāḥ prāṇa yāpanam",
+    "english": "The very ascetics cannot support their lives without killing creatures.",
+    "morphology": "vi_vinā_U"
+  },
+  {
+    "index": 3907,
+    "sanskrit": "evam tuṣṭāḥ tatas sarve adhastāt bhāra pīḍitā",
+    "english": "If offerings are made in this way, those beings that live in the nether regions, bearing the weight of the upper regions upon their heads or shoulders, become well-pleased and gratified.",
+    "morphology": "evam_evam_U"
+  },
+  {
+    "index": 3908,
+    "sanskrit": "tadvai tatpunaryajñe prayujyate tasmādimāḥ prajāḥ punarabhyāvartam prajāyanta itīva vā ṛtupātramitīvaikaśaphasya śira āgrayaṇapātramukthyapātramādityapātrametānyevānu gāvaḥ prajāyante tāni vai tāni punaryajñe prayujyante tasmādimāḥ prajāḥ punarabhyāvartam prajāyante //",
+    "english": "Now that (cup) is again employed in the sacrifice: hence creatures are here produced again and again. And such-like is the Ritu cup , and suchlike the head of the one-hoofed. The Âgrayanacup, the Ukthya cup, and the Âditya cup,--after them cows are produced. Now, these are again employed in the sacrifice: hence creatures are here produced again and again.",
+    "morphology": "tat_tad_SNNe vai_vai_ tat_tad_SNNe punar_punar_ yajñe_yajña_SLM prayujyate_prayuj_SPr3InPv tasmāt_tasmāt_ imāḥ_idam_PNF prajāḥ_prajā_PNF punar_punar_ abhyāvartam_abhyāvṛt_Co prajāyante_prajan_PPr3In iti_iti_ iva_iva_ vai_vai_ ṛtu_ṛtu_Cp"
+  },
+  {
+    "index": 3909,
+    "sanskrit": "dharma artham rocaye rājyam dharmaḥ ca atra na vidyate",
+    "english": "It seems to me that no merit is attached to it.",
+    "morphology": "dharma_dharma_MCp artham_artha_SAM rocaye_rocay_SPr1In rājya_rājya_SANe"
+  },
+  {
+    "index": 3910,
+    "sanskrit": "ko 'sāvartho 'bhidhātum iṣṭa ity āha sarve dharmā ityādi / sarva dharmā nirātmānaḥ sarve vā puruṣā gatāḥ /",
+    "english": "Question: “What is it that is meant to be spoken of?” Answer: [see verses 1186-1187 next] ‘All things are soulless’, ‘all men are gone’, in such sentences, what is apprehended is entirety, and what is ‘excluded’ is a certain factor.",
+    "morphology": "kaḥ_ka_SNM asau_adas_SNM arthaḥ_artha_SNM abhidhātum_abhidhā_In iṣṭaḥ_iṣ_SNPaM iti_iti_ āha_ah_SPs3In sarve_sarva_PNM dharmāḥ_dharma_PNM ityādi_ityādi_SANe  / dharma_dharma_SNF nirātmānaḥ_nirātman_PNM sarve_sarva_PNM vā_vā_ puru"
+  },
+  {
+    "index": 3911,
+    "sanskrit": "suradruma vacā kuṣṭha siddhārtha vyoṣa hiṅgubhiḥ",
+    "english": "The use of (the medicated) Ghrita duly cooked with Krishna, Vaca and the drugs of the Mustakadi group (as Kalka) and with the decoction of the drugs of the Aragvadhadi group[1] and with the five officinal kinds of animal urine is recommended in cases of the Kaphaja type of Apasmara.",
+    "morphology": "__sāra_U"
+  }
+]

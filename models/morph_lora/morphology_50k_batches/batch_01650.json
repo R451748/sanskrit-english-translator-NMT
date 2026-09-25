@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13192,
+    "sanskrit": "sa dhūmakam niśvasiti ghreyam anyat na vetti ca |",
+    "english": "The patient breathes out smoke and fails to catch any other smell than that of it.",
+    "morphology": "sa_sa_U flā_flā_U flā_flā_U flā_flā_U "
+  },
+  {
+    "index": 13193,
+    "sanskrit": "jātyantaragato hy eṣa mṛdhe bādhati dānavān //",
+    "english": "Even when born again he oppresses the Dāvanas.",
+    "morphology": "jāti_jāti_Cp antara_antara_Cp gataḥ_gam_SNPaM hi_hi_ eṣa_etad_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_SNM ḥ_ḥ_"
+  },
+  {
+    "index": 13194,
+    "sanskrit": "pulastya uvāca | sa tāsāṃ vacanaṃ śrutvā gato yatra niśākaraḥ | abravīcca samaṃ paśya sarvāsu tanayāsu me || 6 ||",
+    "english": "Pulastya said: 6. After hearing them, he then went to Candra and told him to behave equally with all his daughters.",
+    "morphology": "pulastyaḥ_pulastya_SNM uvāca_vac_SPs3In  / sa_tad_SNM tāsām_tad_PGF vacanam_vacana_SANe śrutvā_śru_Co gataḥ_gam_SNPaM yatra_yatra_ niśākaraḥ_niśākara_SNM  / abravīt_brū_S3ImIn ca_ca_ samam_sama_SANe paśya_paś_SPr2Im sarvāsu_sarva_PLF t"
+  },
+  {
+    "index": 13195,
+    "sanskrit": "yathā hi akarṇa dhārā nau rathaḥ ca a sārathiḥ yathā dravet yatheṣṭam tadvat syāt ṛte senāpatim balam a daiśikaḥ yathā sārthaḥ sarvam pāpam samarchati",
+    "english": "Indeed, as a boat without a helmsman, or a car without a driver, would go anywhere, so would the plight be of a host that is without a leader.",
+    "morphology": "yathā_yathā_U hi_hi_U akarṇa_akarṇa_MCp dhārā_dhārā_SNF nau_nau_SNF rathaḥ_ratha_SNM ca_ca_U a_a_U sārathiḥ_sārathi_SNM yathā_yathā_U dravet_dru_SPr3O yatheṣṭam_yatheṣṭa_SANe tadvat_tadvat_U syāt_as_SPr3O ṛte_ṛte_U senāpatim"
+  },
+  {
+    "index": 13196,
+    "sanskrit": "akāryam api yena iha prayuktaḥ sevate naraḥ",
+    "english": "Urged by that fault, one indulges in acts that are forbidden.",
+    "morphology": "akāryam_akārya_SANe api_api_U"
+  },
+  {
+    "index": 13197,
+    "sanskrit": "nātmanaḥ srajam apakarṣet //",
+    "english": "He must not take off his garland (from his head) himself (but he may cause another to do so).",
+    "morphology": "na_na_ ātmanaḥ_ātman_SGM srajam_sraj_SAF"
+  },
+  {
+    "index": 13198,
+    "sanskrit": "vicārākārako maurkhyādahamāsaṃ mitasthitiḥ / vicāreṇāmitākāraḥ kva nāmāhaṃ vicārakaḥ //",
+    "english": "\"I considered myself as a limited and embodied being, as long as I was unable to reason about these abstruse subjects; and now I have come to know my unlimited form of the spirit;but what is this that I call \"\"myself\"\"is what I have not yet been able to know, since the whole is full with the one supreme spirit. \"",
+    "morphology": "vicāra_vicāra_Cp ākārakaḥ_ākāraka_SNM maurkhyāt_maurkhya_SBNe aham_mad_SN āsam_as_S1ImIn mita_mita_Cp sthitiḥ_sthiti_SNM  / vicāreṇa_vicāra_SIM amita_amita_Cp ākāraḥ_ākāra_SNM kva_kva_ nāma_nāma_ aham_mad_SN vicārakaḥ_vicāraka_S"
+  },
+  {
+    "index": 13199,
+    "sanskrit": "śrutarvāṇam mahīpālam yam veda abhyadhikam nṛpaiḥ sa viditvā tu nṛpatiḥ kumbhayonim upāgamat viṣaya ante saha amātyaḥ pratyagṛhṇāt su satkṛtam",
+    "english": "And that monarch, learning of the arrival of the pot-born Rishi on the frontiers of his kingdoms, went out with his ministers and received the holy man with respect.",
+    "morphology": "śrutarvāṇam_śrutarvan_SAM mahīpālam_mahīpāla_SAM yam_yad_SAM veda_vid_SPs3In abhyadhikam_abhyadhika_SAM nṛpaiḥ_nṛpa_PIM sa_tad_SNM viditvā_vid_Co tu_tu_U nṛpatiḥ_nṛpati_SNM kumbhayonim_kumbhayoni_SAM upāgamat_upagam_SPs3In viṣaya_v"
+  }
+]

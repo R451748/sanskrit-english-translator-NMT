@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2920,
+    "sanskrit": "para loka gurum ca eva rājānam yaḥ avamanyate na tasya dattam na hutam na śrāddham phalati kva cit",
+    "english": "The gifts, and libations, and offerings to the Pitris of the man that disregards the king who is superior to every one, become fruitless.",
+    "morphology": "para_para_Cp loka_loka_MCp gurum_guru_SAM ca_ca_U eva_eva_U rājānam_rājan_SAM yaḥ_yad_SNM avamanyate_avaman_SPr3In na_na_U tasya_tad_SGM dattam_dā_SNPaPsNe na_na_U hutam_hu_SNPaPsNe na_na_U śrāddham_śrāddha_SNNe phalati_phal_SPr3In kva_kva_U"
+  },
+  {
+    "index": 2921,
+    "sanskrit": "paraṃ tu kārakāṇi sādhanatvena phalaṃ tu sādhyatvena /",
+    "english": "But an end is related to an action as an object to be realised.",
+    "morphology": "param_para_SNNe tu_tu_ kārakāṇi_kāraka_PNNe sādhana_sādhana_Cp tvena_tva_SINe phalam_phala_SNNe tu_tu_ sādhya_sādhay_GdCp tvena_tva_SINe  /"
+  },
+  {
+    "index": 2922,
+    "sanskrit": "āsanāśanaśayyābhir adbhir mūlaphalena vā / nāsya kaścid vased gehe śaktito 'narcito 'tithiḥ //",
+    "english": "No guest shall dwell in his house without being honoured, to the best of his ability, with seat, food, bed, or with water, fruits and roots.",
+    "morphology": "āsana_āsana_Cp aśana_aśana_Cp śayyābhiḥ_śayyā_PIF adbhiḥ_ap_PIF mūla_mūla_Cp phalena_phala_SINe vā_vā_  / na_na_ asya_idam_SGM kaścid_kaścit_SNM vaset_vas_SPr3O gehe_geha_SLNe śaktitas_śaktitas_ anarcitaḥ_anarcita_SNM atithiḥ_atithi"
+  },
+  {
+    "index": 2923,
+    "sanskrit": "śaktirmama tu nāstyeva dakṣādyaitannivāraṇe | śapathollaṃghanādeva śivadrohī yatosmyaham ||",
+    "english": "37. O Dakṣa, I have no power to prevent this since I have become an enemy of Śiva by transgressing his affirmation.",
+    "morphology": "śaktiḥ_śakti_SNF mama_mad_SG tu_tu_ na_na_ asti_as_SPr3In eva_eva_ dakṣa_dakṣa_Cp ādyā_ādya_SNF etad_etad_Cp nivāraṇe_nivāraṇa_SLNe  / śapatha_śapatha_Cp ullaṃghanāt_ullaṅghana_SBNe eva_eva_ śiva_śiva_Cp drohī_drohin_SNM yatas_ya"
+  },
+  {
+    "index": 2924,
+    "sanskrit": "aghaṃ kila cittasthaṃ rūpam /",
+    "english": "The void is thus a type of matter close to agha. According to another opinion, agha signifies “free from striking”.",
+    "morphology": "agham_agha_SNNe kila_kila_ citta_citta_Cp stham_stha_SNNe rūpam_rūpa_SNNe  /"
+  },
+  {
+    "index": 2925,
+    "sanskrit": "nanu yathā dīpāditejo 'bhinavam api prakāśayatyarthaṃ tathā śabdo 'pi pratipādayiṣyatītyāha tejaḥ pratyakṣaśeṣatvād iti /",
+    "english": "“Light is auxiliary to the perception; hence, even when newly lit, it illumines things; [not so the word]. [If it be urged that] in the case of the word the comprehension of the meaning of a certain word is due to its similarity to another well-known word;",
+    "morphology": "nanu_nanu_ yathā_yathā_ dīpa_dīpa_Cp ādi_ādi_Cp tejaḥ_tejas_SNNe abhinavam_abhinava_SNNe api_api_ prakāśayati_prakāśay_SPr3In artham_artha_SAM tathā_tathā_ śabdaḥ_śabda_SNM api_api_ pratipādayiṣyati_pratipāday_SFu3In iti_iti_ āha_ah_"
+  },
+  {
+    "index": 2926,
+    "sanskrit": "ākhaṇḍalapurīṃ ramyāṃ prayayāvamarāvatīm | rākṣasī sāpi śāpena kumbhajasya mahaujasaḥ || 65 ||",
+    "english": "After serving Rāmanātha, the moon-crested Lord Śaṅkara, she went back to Amarāvatī, the beautiful city of Indra.",
+    "morphology": "ākhaṇḍala_ākhaṇḍala_Cp purīm_purī_SAF ramyām_ramya_SAF prayayau_prayā_SPs3In amarāvatīm_amarāvatī_SAF  / rākṣasī_rākṣasī_SNF sā_tad_SNF api_api_ śāpena_śāpa_SIM kumbhajasya_kumbhaja_SGM mahā_mahat_Cp ojasaḥ_ojas_SGM  /"
+  },
+  {
+    "index": 2927,
+    "sanskrit": "tataḥ sa bhojanaṃ cakre kṣudhārtaśca papau jalam | bhayaṃ tyaktvā suviśrabdhaḥ pretarājasya śāsanāt || 26 ||",
+    "english": "26. The hungry Śūdra had a hearty meal and drank water. At the bidding of the king of the Pretas, he became carefree and fearless.",
+    "morphology": "tatas_tatas_ sa_tad_SNM bhojanam_bhojana_SANe cakre_kṛ_SPs3In kṣudhā_kṣudhā_Cp ārtaḥ_ārta_SNM ca_ca_ papau_pā_SPs3In jalam_jala_SANe  / bhayam_bhaya_SANe tyaktvā_tyaj_Co su_su_ viśrabdhaḥ_viśrambh_SNPaM pretarājasya_pretarāja_SGM śāsa"
+  }
+]

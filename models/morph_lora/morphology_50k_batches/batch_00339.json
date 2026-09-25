@@ -1,0 +1,50 @@
+[
+  {
+    "index": 2704,
+    "sanskrit": "mama tvam hi niyogena tatas śreyaḥ hi avāpsyasi evam uktā tu sā tena mṛtyuḥ kamala locanā dadhyau ca atyartham abalā praruroda ca su svaram",
+    "english": "By doing this, thou wilt be benefited.' Thou lotus-lady, called Death, thus addressed by him reflected deeply, and then helplessly wept aloud in melodious accents.",
+    "morphology": "mama_mad_SG tvam_tvad_SN hi_hi_U niyogena_niyoga_SIM tatas_tatas_U śreyaḥ_śreyas_SANe hi_hi_U avāpsyasi_avāp_SFu2In evam_evam_U uktā_vac_SNPaPsF tu_tu_U sā_tad_SNF tena_tad_SIM mṛtyuḥ_mṛtyu_SNM kamala_kamala_NeCp locanā_locana_SNF dadhyau_dh"
+  },
+  {
+    "index": 2705,
+    "sanskrit": "idaṃ purāṇaṃ paramaṃ pavitraṃ śṛṇvangṛṇanpāpaviśuddhihetu | nārāyaṇaṃ taṃ manasā vicintya mṛto'bhigacchatyamṛtaṃ surādhikam || 60 ||",
+    "english": "60. This is very ancient and highly sacred. If one listens to this or extols this it causes purification. One who dies mentally remembering Nārāyaṇa attains immortality and excels all Suras.[Sanskrit text for this chapter is available] Nārada said:",
+    "morphology": "idam_idam_SANe purāṇam_purāṇa_SANe paramam_parama_SANe pavitram_pavitra_SANe śṛṇvan_śru_SNPaPrM gṛṇan_gṛ_SNPaPrM pāpa_pāpa_Cp viśuddhi_viśuddhi_Cp hetu_hetu_SANe  / nārāyaṇam_nārāyaṇa_SAM tam_tad_SAM manasā_manas_SINe vicinty"
+  },
+  {
+    "index": 2706,
+    "sanskrit": "kārpāsaśāṇāvikāny upavītāni vāsāṃsi ca //",
+    "english": "Their sacrificial strings and their garments should be made of cotton, hemp, and wool respectively.",
+    "morphology": "kārpāsa_kārpāsa_Cp śāṇa_śāṇa_Cp āvikāni_āvika_PNNe upavītāni_upavīta_PNNe vāsāḥ_vāsas_PNNe ca_ca_  /"
+  },
+  {
+    "index": 2707,
+    "sanskrit": "kārtikasya caturdaśyāṃ viśveśaṃ yo vilokayet | snātvā cottaravāhinyāṃ na tasya punarāgatiḥ || 110 ||",
+    "english": "110. If a man takes his holy bath in the north-flowing (Gaṅgā) and visits Viśveśa on the fourteenth day in the month of Kārttika, he never comes back (to the human world of misery).",
+    "morphology": "kārtikasya_kārttika_SGM caturdaśyām_caturdaśī_SLF viśveśam_viśveśa_SAM yaḥ_yad_SNM vilokayet_vilokay_SPr3O  / snātvā_snā_Co ca_ca_ uttara_uttara_Cp vāhinyām_vāhinī_SLF na_na_ tasya_tad_SGM punarāgatiḥ_punarāgati_SNF  /"
+  },
+  {
+    "index": 2708,
+    "sanskrit": "na tatra śokaḥ dainyam vā vaivarṇyam ca upalakṣyate divaukasām mahā rāja na ca glāniḥ ariṃdama",
+    "english": "And, O great monarch, the celestials feel neither sorrow nor poverty of spirit, nor weakness, nor lassitude, O grinder of foes.",
+    "morphology": "na_na_U tatra_tatra_U śokaḥ_śoka_SNM dainyam_dainya_SNNe vā_vā_U vaivarṇyam_vaivarṇya_SNNe ca_ca_U upalakṣyate_upalakṣay_SPr3InPv divaukasām_divaukas_PGM mahā_mahat_Cp rāja_rāja_SVM na_na_U ca_ca_U glāniḥ_glāni_SNF"
+  },
+  {
+    "index": 2709,
+    "sanskrit": "yo vījayetpaṭenā'pi pathi śrāṃtaṃ dvijottamam | tāvatātha vimukto'sau viṣṇusāyujyamāpnuyāt || 23 ||",
+    "english": "23. If a person fans with even a cloth an excellent Brāhmaṇa tired by (a walk) along the road, he shall become liberated by that itself and shall attain Sāyujya with Viṣṇu.",
+    "morphology": "yaḥ_yad_SNM vījayet_vījay_SPr3O paṭena_paṭa_SIM api_api_ pathi_pathin_SLM śrāntam_śram_SAPaM dvijottamam_dvijottama_SAM  / tāvatā_tāvat_SIM atha_atha_ vimuktaḥ_vimuc_SNPaM asau_adas_SNM viṣṇu_viṣṇu_Cp sāyujyam_sāyujya_SANe āpnuy"
+  },
+  {
+    "index": 2710,
+    "sanskrit": "rucyā vānyataraḥ kuryāditaro vartayecchiraḥ /",
+    "english": "Or one may be made to undergo the ordeal, and the other to undertake the agreement to undergo punishment.",
+    "morphology": "rucyā_ruci_SIF vā_vā_ anyataraḥ_anyatara_SNM kuryāt_kṛ_SPr3O itaraḥ_itara_SNM vartayet_vartay_SPr3O śiraḥ_śiras_SANe  /"
+  },
+  {
+    "index": 2711,
+    "sanskrit": "ata eva na laghuparikalpo guṇatulyavad vikalpyate //",
+    "english": "Nor should any optional alternatives be admitted in such cases.",
+    "morphology": "atas_atas_ eva_eva_ na_na_ laghu_laghu_Cp parikalpaḥ_parikalpa_SNM guṇa_guṇa_Cp tulya_tulya_Cp vat_vat_ vikalpyate_vikalpay_SPr3InPv  /"
+  }
+]

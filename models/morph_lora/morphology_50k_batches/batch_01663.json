@@ -1,0 +1,50 @@
+[
+  {
+    "index": 13296,
+    "sanskrit": "vara asinā vāji ratha aśva kuñjarān",
+    "english": "With also his foremost of swords he hath destroyed many horsemen and cars and steeds and elephants.",
+    "morphology": "vara_vara_Cp"
+  },
+  {
+    "index": 13297,
+    "sanskrit": "mithaḥsaṃghaṭṭanipatajjanopāyanadanturam / puṣpaśekharasaṃbhāramayasaṃsārasundaram //",
+    "english": "Men bearing presents to the king, fell upon one another at their mutual clashing; and others wearing the flowery chaplets on their heads and hairs, moved gracefully all about.",
+    "morphology": "mithas_mithas_ saṃghaṭṭa_saṃghaṭṭa_Cp nipatat_nipat_PaPrCp jana_jana_Cp upāyana_upāyana_Cp danturam_dantura_SAM  / puṣpa_puṣpa_Cp śekhara_śekhara_Cp saṃbhāra_sambhāra_Cp maya_maya_Cp saṃsāra_saṃsāra_Cp sundaram_sundara_SAM  /"
+  },
+  {
+    "index": 13298,
+    "sanskrit": "nihataḥ ca jarāsaṃdhaḥ mokṣitāḥ ca mahīkṣitaḥ rājasūyaḥ ca me labdhaḥ nideśe tava tiṣṭhataḥ",
+    "english": "I who stay under thy command regard that Jarasandha is already slain, that the monarchs confined by him have already been set free, that the Rajasuya hath already been accomplished by me.",
+    "morphology": "nihataḥ_nihan_SNPaPsM ca_ca_U jarāsaṃdhaḥ_jarāsaṃdha_SNM mokṣitāḥ_mokṣay_PNPaPsM ca_ca_U mahīkṣitaḥ_mahīkṣit_PNM rājasūyaḥ_rājasūya_SNM ca_ca_U me_mad_SG labdhaḥ_labh_SNPaPsM nideśe_nideśa_SLM tava_tvad_SG tiṣṭhataḥ"
+  },
+  {
+    "index": 13299,
+    "sanskrit": "tatra katamad-duḥkham?",
+    "english": "Herein, what is suffering?",
+    "morphology": "tatra_tatra_ katamat_katama_SNNe duḥkham_duḥkha_SNNe"
+  },
+  {
+    "index": 13300,
+    "sanskrit": "sarasvatī yonyāṃ garbham antar aśvibhyāṃ patnī sukṛtaṃ bibharti / apām̐ rasena varuṇo na sāmnendram̐ śriyai janayann apsu rājā //",
+    "english": "Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infant. King Varuna with waters’ wealthy essence begetting Indra in the floods for glory. 95",
+    "morphology": "sarasvatī_sarasvatī_SNF yonyām_yoni_SLF garbham_garbha_SAM antar_antar_ aśvibhyām_aśvin_DuIM patnī_patnī_SNF su_su_ kṛtam_kṛ_SAPaM bibharti_bhṛ_SPr3In  / apām_ap_PGF rasena_rasa_SIM varuṇaḥ_varuṇa_SNM na_na_ sāmnā_sāman_SINe indram_"
+  },
+  {
+    "index": 13301,
+    "sanskrit": "icchāvighātajaṃ mokṣaṃ daurmanasyaṃ pracakṣate | viṣayeṣu vicitreṣu vibhramastatra lolatā ||",
+    "english": "8. Dejectedness is the agitation due to the frustration of desires. Indulgence in diverse sensual objects is the overfondness for them.",
+    "morphology": "icchā_icchā_Cp vighāta_vighāta_Cp jam_ja_SAM mokṣam_mokṣa_SAM daurmanasyam_daurmanasya_SANe pracakṣate_pracakṣ_PPr3In  / viṣayeṣu_viṣaya_PLM vicitreṣu_vicitra_PLM vibhramaḥ_vibhrama_SNM tatra_tatra_ lola_lola_Cp tā_tā_SNF"
+  },
+  {
+    "index": 13302,
+    "sanskrit": "sā cintayantī buddhyā atha tarkayām āsa bhāminī katham nu devān jānīyām katham vidyām nalam nṛpam evam saṃcintayantī sā vaidarbhī bhṛśa duḥkhitā",
+    "english": "And filled with anxiety, the beauteous one thought within herself, 'Oh, how shall I distinguish the celestials, and how discern the royal Nala?' And thinking thus, the daughter of Vidarbha became filled with grief.",
+    "morphology": "sā_tad_SNF cintayantī_cintay_SNPaPrF buddhyā_buddhi_SIF atha_atha_U tarkayām_tarkay_SPs3In āsa_as_SPs3In bhāminī_bhāminī_SNF katham_katham_U nu_nu_U devān_deva_PAM jānīyām_jñā_SPr1O katham_katham_U vidyām_vid_SPr1O nalam_nala_SAM nṛpam_n"
+  },
+  {
+    "index": 13303,
+    "sanskrit": "etāvat uktvā tam droṇaḥ śara vrātaiḥ avākirat sa ratha aśva dhvajam tīkṣṇaiḥ prahasan vai sa sārathim",
+    "english": "Telling him this much, Drona, with a smile covered him with showers of sharp arrows, as also his car and steeds and standard and charioteer.",
+    "morphology": "etāvat_etāvat_SANe uktvā_vac_Co tam_tad_SAM droṇaḥ_droṇa_SNM śara_śara_MCp vrātaiḥ_vrāta_PIM avākirat_avakṛ_SPs3In sa_sa_U ratha_ratha_MCp aśva_aśva_MCp dhvajam_dhvaja_SAM tīkṣṇaiḥ_tīkṣṇa_PIM prahasan_prahas_SNPaPrM vai_vai_"
+  }
+]

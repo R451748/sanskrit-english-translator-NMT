@@ -1,0 +1,50 @@
+[
+  {
+    "index": 45800,
+    "sanskrit": "paśya gandharva rājānam dhṛtarāṣṭram manīṣiṇam",
+    "english": "\"Behold Dhritarashtra, the king of the Gandharvas, possessed of great wisdom.",
+    "morphology": "paśya_paś_SPr2Im gandharva_gandharva_MCp rājānam_rājan_SAM dhṛtarāṣṭram_dhṛtarāṣṭra_SAM manīṣiṇaḥ_manīṣin_SAM"
+  },
+  {
+    "index": 45801,
+    "sanskrit": "dvaṃdvāprāptau na jāyetāṃ sukhaduḥkhe vijānataḥ | vihitāvihite tasya na syātāṃ ca surarṣayaḥ ||",
+    "english": "78. O celestial sages, when the mutually clashing opposites do not afflict, a person endowed with true knowledge has neither happiness nor misery. Rules of do’s and don’ts do not bind him.",
+    "morphology": "dvaṃdva_dvaṃdva_Cp aprāptau_aprāpti_DuNF na_na_ jāyetām_jan_DuPr3O sukha_sukha_Cp duḥkhe_duḥkha_DuNNe vijānataḥ_vijñā_SGPaPrM  / vihita_vidhā_PaCp avihite_avihita_DuNNe tasya_tad_SGM na_na_ syātām_as_DuPr3O ca_ca_ sura_sura_Cp ṛṣaya"
+  },
+  {
+    "index": 45802,
+    "sanskrit": "kat oṁ iti dyumnam indra tvāvataḥ nr̥r̥n kayā dhiyā karase kat naḥ ā agan mitraḥ na satyaḥ uru gāya bhr̥tyai anne samasya yat asan manīṣāḥ",
+    "english": "Indra, what fame hath one like thee mid heroes? With what plan wilt thou act? Why hast thou sought us? As a true Friend, Wide-Strider! to sustain us, since food absorbs the thought of each among us.",
+    "morphology": "kat_ka_SNNe oṁ_oṃ_U iti_iti_U dyumnam_dyumna_SNNe indra_indra_SVM tvāvataḥ_tvāvat_PAM nr̥r̥n_nr̥r̥n_SNM kayā_ka_SIF dhiyā_dhī_SIF karase_kṛ_SPs2Su kat_ka_SANe naḥ_mad_PA ā_ā_U agan_gam_SPs3In mitraḥ_mitra_SNM na_na_U satyaḥ_satya_S"
+  },
+  {
+    "index": 45803,
+    "sanskrit": "vada satyam vanasya asya parvatasya atha vā diśaḥ",
+    "english": "Art thou human? Tell us truly, O blessed one if thou art the goddess of this wood or of this mountain or of the points of the heaven.",
+    "morphology": "vada_vad_SPr2Im satyam_satya_SANe vanasya_vana_SGNe asya_idam_SGNe parvatasya_parvata_SGM atha_atha_U vā_vā_U diśaḥ_diś_SGF"
+  },
+  {
+    "index": 45804,
+    "sanskrit": "draupadeyāḥ narendrān ca bhūyiṣṭham samavārayan",
+    "english": "The (five) sons of Draupadi checked numerous kings (of the Kuru army).",
+    "morphology": "draupadeyāḥ_draupadeya_PNM narendrān_narendra_PAM ca_ca_U bhūyiṣṭham_bhūyiṣṭham_"
+  },
+  {
+    "index": 45805,
+    "sanskrit": "evaṃ viśvamidaṃ svapnastatra satyaṃ bhavānmama / yathaiva tvaṃ tathaivānye svapne svapnavarā nṛṇām //",
+    "english": "Learn then this truth of me, that this world is a dream, and that you and all other men have your sleeping dreams, contained in your waking dreams of this visionary world.",
+    "morphology": "evam_evam_ viśvam_viśva_SNNe idam_idam_SNNe svapnaḥ_svapna_SNM tatra_tatra_ satyam_satya_SNNe bhavān_bhavat_SNM mama_mad_SG  / yathā_yathā_ eva_eva_ tvam_tvad_SN tathā_tathā_ eva_eva_ anye_anya_PNM svapne_svapna_SLM svapna_svapna_Cp varāḥ_vara_"
+  },
+  {
+    "index": 45806,
+    "sanskrit": "uṣṭrair yuktaṃ yānaṃ gantryādi /",
+    "english": "\"Uṣṭrayāna\" is a cart to which a camel is yoked.",
+    "morphology": "uṣṭraiḥ_uṣṭra_PIM yuktam_yuj_SNPaNe yānam_yāna_SNNe gantrī_gantrī_Cp ādi_ādi_SNNe "
+  },
+  {
+    "index": 45807,
+    "sanskrit": "mukhyagrahaṃ tvapi vinā pratibimbagraho bhavet | svapaścātsthaṃ priyaṃ paśyeṭṭaṅkitaṃ mukure vapuḥ |",
+    "english": "One can see the reflection without seeing the origin of the reflection. This statement is elucidated by the lover standing behind the beloved and seen reflected in the mirror by her.",
+    "morphology": "mukhya_mukhya_Cp graham_graha_SAM tu_tu_ api_api_ vinā_vinā_ pratibimba_pratibimba_Cp grahaḥ_graha_SNM bhavet_bhū_SPr3O  / sva_sva_Cp paścāt_paścāt_ stham_stha_SANe priyam_priya_SANe paśyet_paś_SPr3O ṭaṅkitam_ṭaṅk_SAPaNe mukure_mukura_SL"
+  }
+]

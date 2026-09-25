@@ -1,0 +1,50 @@
+[
+  {
+    "index": 28360,
+    "sanskrit": "brāhmaṇāya ca rājñe ca sarvāḥ paridade prajāḥ",
+    "english": "Upon the Brahmana and the Kshatriya he conferred (the care of) all creatures.",
+    "morphology": "brāhmaṇāya_brāhmaṇa_SDM ca_ca_ rājñe_rājan_SDM ca_ca_ sarvāḥ_sarva_PAF paridade_paridā_SPs3In prajāḥ_prajā_PAF"
+  },
+  {
+    "index": 28361,
+    "sanskrit": "nīlavarṇāṃ pretasaṃsthāṃ viṃśahastāṃ yajejjaye //",
+    "english": "One possessing the colour of a blue cloud! One who has made the garland of cloud as the ornament! Shine! Oṃ.",
+    "morphology": "nīla_nīla_Cp varṇām_varṇa_SAF preta_preta_Cp saṃsthām_saṃstha_SAF viṃśa_viṃśa_Cp hastām_hasta_SAF yajet_yaj_SPr3O jaye_jaya_SLM  /"
+  },
+  {
+    "index": 28362,
+    "sanskrit": "kaḥ anyaḥ hi puṇḍarīkākṣāt mahābhārata kṛt bhavet",
+    "english": "In the case, however, of those that have betaken themselves to a life of renunciation the great endeavour is to exhaust this residuum.",
+    "morphology": "kaḥ_ka_SNM anyaḥ_anya_SNM hi_hi_U puṇḍarīkākṣāt_puṇḍarīkākṣa_SBM mahābhārata_mahābhārata_NeCp kṛt_kṛt_SNM bhavāt_bhū_SPr3O"
+  },
+  {
+    "index": 28363,
+    "sanskrit": "vyaṃjanāni ca śubhrāṇi manojñāni priyāṇi ca | karttavyāni sahomāse brāhmaṇārthe caturmukha || 18 ||",
+    "english": "18. Splendid and attractive side-dishes and pickles should be prepared in the monṃ of Mārgaśīrṣa, O Four-faced One, for the sake of Brāhmaṇas.",
+    "morphology": "vyaṃjanāni_vyañjana_PNNe ca_ca_ śubhrāṇi_śubhra_PNNe manojñāni_manojña_PNNe priyāṇi_priya_PNNe ca_ca_  / karttavyāni_kṛ_PNNeGd saha_saha_ umāse_umāsa_SLM brāhmaṇa_brāhmaṇa_Cp arthe_artha_SLM caturmukha_caturmukha_SVM  /"
+  },
+  {
+    "index": 28364,
+    "sanskrit": "evainam ud yachate |",
+    "english": "verily with the breaths [1] he raises him up;",
+    "morphology": "eva_eva_ enam_enad_SAM ud_ud_"
+  },
+  {
+    "index": 28365,
+    "sanskrit": "evaṃprāyaśca he prājña siddhāntaste bhaviṣyati / tatraivodāhariṣyāmaḥ siddhāntārthoktipañjaram //",
+    "english": "This also must be the conclusion, which you will arrive at by your reasoning, and which I will propound with many instances and tenets in the Book of Nirvana or Extinction.",
+    "morphology": "evaṃprāyaḥ_evamprāya_SNM ca_ca_ he_he_ prājña_prājña_SVM siddhāntaḥ_siddhānta_SNM te_tvad_SG bhaviṣyati_bhū_SFu3In  / tatra_tatra_ evā_eva_ udāhariṣyāmaḥ_udāhṛ_PFu1In siddhānta_siddhānta_Cp artha_artha_Cp ukti_ukti_Cp pañjaram"
+  },
+  {
+    "index": 28366,
+    "sanskrit": "mahābhāratam ākhyānam yaḥ paṭhet su samāhitaḥ sa gacchet paramām siddhim iti me na asti saṃśayaḥ",
+    "english": "There is no doubt in this that he who, with rapt attention, recites this history called Bharata, attains to high success.",
+    "morphology": "mahābhāratam_mahābhārata_SANe ākhyānam_ākhyāna_SANe yaḥ_yad_SNM paṭhet_paṭh_SPr3O su_su_U samāhitaḥ_samāhita_SNM sa_tad_SNM gacchet_gam_SPr3O paramām_parama_SAF siddhim_siddhi_SAF iti_iti_U me_mad_SG na_na_U asti_as_SPr3In saṃśayaḥ_"
+  },
+  {
+    "index": 28367,
+    "sanskrit": "viprahāṇāya duḥkhasya durgatiḥ hi anyathā bhavet",
+    "english": "They that betake themselves to that path succeed in driving off all sorrow.",
+    "morphology": "viprahāṇāya_viprahāṇa_SDNe duḥkhasya_duḥkha_SGNe durgatiḥ_durgati_SNF hi_hi_U anyathā_anyathā_U bhavet_bhū_SPr3O"
+  }
+]

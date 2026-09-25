@@ -1,0 +1,50 @@
+[
+  {
+    "index": 38456,
+    "sanskrit": "nadantaḥ bhairavān nādān jalada upama nisvanān apare pradrutāḥ tatra dahyamānāḥ mahā gajāḥ tresuḥ tathā apare ghore vane dāva agni saṃvṛtāḥ",
+    "english": "Other huge elephants, scorched by that fire, ran hither and thither, and roared aloud in fear, as if in the midst of a forest conflagration.",
+    "morphology": "nadantaḥ_nad_PNPaPrM bhairavān_bhairava_PAM nādān_nāda_PAM jalada_jalada_MCp upama_upama_Cp nisvanān_nisvana_PAM apare_apara_PNM pradrutāḥ_pradru_PNPaPsM tatra_tatra_U dahyamānāḥ_dah_PNPaPrMPv mahā_mahat_Cp gajāḥ_gaja_PNM tresuḥ_tras_PP"
+  },
+  {
+    "index": 38457,
+    "sanskrit": "vairājā yatra te devā vaseyurdāhavarjitāḥ | vāsudeve mano yeṣāṃ vāsudevārpitakriyāḥ || 11 ||",
+    "english": "11. Vairajas (created by Hiraṇyagarbha) (a class of Devas) free from thirst (or fire ending the world), reside there. They have their minds directed and their actions dedicated to Vāsudeva.",
+    "morphology": "vairājāḥ_vairāja_PNM yatra_yatra_ te_tad_PNM devāḥ_deva_PNM vaseyuḥ_vas_PPr3O dāha_dāha_Cp varjitāḥ_varjay_PNPaM  / vāsudeve_vāsudeva_SLM manaḥ_manas_SNNe yeṣām_yad_PGM"
+  },
+  {
+    "index": 38458,
+    "sanskrit": "saṃśaptakāstu samayātsaṅgrāmādanivartinaḥ / patākā vaijayantī syātketanaṃ dhajamistriyāṃ //",
+    "english": "Saṃśaptaka are those who do not turn back from battle. The words patākā, vaijayantī, ketanam and dhvajam denote a banner. The word dhvajam is used in the masculine and neuter.",
+    "morphology": "saṃśaptakāḥ_saṃśaptaka_PNM tu_tu_ samayāt_samaya_SBM saṅgrāmāt_saṃgrāma_SBM anivartinaḥ_anivartin_PNM  / patākā_patākā_SNF vaijayantī_vaijayantī_SNF syāt_as_SPr3O ketanam_ketana_SNNe  /"
+  },
+  {
+    "index": 38459,
+    "sanskrit": "tatra gatvā munīn dṛṣṭvā nānā veṣa dharān balaḥ",
+    "english": "Arrived there, Vala saw diverse kinds of ascetics in diverse kinds of attire.",
+    "morphology": "tatra_tatra_U gatvā_gam_Co"
+  },
+  {
+    "index": 38460,
+    "sanskrit": "sattveṣu pṛthivīpāla na dharmaṃ tyaktum arhasi //",
+    "english": "Therefore, king, you should not forsake your morality.",
+    "morphology": "sattveṣu_sattva_PLM pṛthivīpāla_pṛthivīpāla_SVM na_na_ dharmam_dharma_SAM tyaktum_tyaj_In arhasi_arh_SPr2In  /"
+  },
+  {
+    "index": 38461,
+    "sanskrit": "kim punas tat ? mātsaryaṃ /",
+    "english": "What then is this obscuration? It is avarice.",
+    "morphology": "kim_ka_SNNe punar_punar_U tat_tad_SNNe"
+  },
+  {
+    "index": 38462,
+    "sanskrit": "sarva gandha vipakvam tu tailam abhyañjane hitam",
+    "english": "Medicated oil duly cooked with the drugs of the Sarvagandha group should be used in anointing its body.",
+    "morphology": "saḥ_saḥ_"
+  },
+  {
+    "index": 38463,
+    "sanskrit": "maivam / atra hi samādhiprāśastyamevāṅgīkṛtya vāsanā nindyate / iyamatra vacanavyaktiḥ– yadyapi vyavahārātsamādhiḥ praśastaḥ, tathāpyasau savāsanaścettadānirvāsanādvyavahārādadhama eveti sa na samādhiḥ /",
+    "english": "Objection : But here in the following verses — it is found that samādhi has been belittled and involvement in worldly activities has been praised thus : ‘If the mind of one in the state of concentration is restless with transformation, that concentration of him is tantamount to mad dance .",
+    "morphology": "mā_mā_ evam_evam_  / atra_atra_ hi_hi_ samādhi_samādhi_Cp prāśastyam_prāśastya_SANe eva_eva_ aṅgīkṛtya_aṅgīkṛ_Co vāsanā_vāsanā_SNF nindyate_nind_SPr3InPv  / iyam_idam_SNF atra_atra_ vacana_vacana_Cp vyaktiḥ_vyakti_SNF  / iyam_idam_S"
+  }
+]

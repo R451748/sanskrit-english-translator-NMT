@@ -1,0 +1,50 @@
+[
+  {
+    "index": 544,
+    "sanskrit": "teṣāṃ brāhmādiṣv api dānavivāhayoḥ sāmānādhikaraṇyāt saṃskāro vinivartate /",
+    "english": "But, according to these people, in the \"Brāhma\" and other forms also, since the \"giving\" is mentioned in apposition to \"marriage,\" the sacramental rites would cease to be necessary factors in the marriage.",
+    "morphology": "teṣām_tad_PGM brāhma_brāhma_Cp ādiṣu_ādi_PLM api_api_ dāna_dāna_Cp vivāhayoḥ_vivāha_DuGM sāmānādhikaraṇyāt_sāmānādhikaraṇya_SBNe saṃskāraḥ_saṃskāra_SNM vinivartate_vinivṛt_SPr3In  /"
+  },
+  {
+    "index": 545,
+    "sanskrit": "na surāḥ na asurāḥ loke na gandharvāḥ na rākṣasāḥ sukham edhanti kupite tasmin api guhā gatāḥ",
+    "english": "If Mahadeva becomes angry, neither gods, nor Asuras, Gandharvas, nor Rakshasas, even if they hide themselves in deep oceans, can have peace.",
+    "morphology": "na_na_U surāḥ_sura_PNM na_na_U asurāḥ_asura_PNM loke_loka_SLM na_na_U gandharvāḥ_gandharva_PNM na_na_U rākṣasāḥ_rākṣasa_PNM sukham_sukham_U edhanti_edh_PPr3In kupite_kup_SLPaPsM tasmin_tad_SLM api_api_U guhā_guhā_U gatāḥ_gam_PNPaPsM"
+  },
+  {
+    "index": 546,
+    "sanskrit": "tvam aśvinau yamau mitraḥ somaḥ tvam asi ca anilaḥ",
+    "english": "Thou art the twin Aswins; thou art Surya; thou art Soma;",
+    "morphology": "tvam_tvad_SN aśvinau_aśvin_DuNM yamau_yama_DuNM mitraḥ_mitra_SNM somaḥ_soma_SNM"
+  },
+  {
+    "index": 547,
+    "sanskrit": "rudrā kṣadhāraṇaṃ prāptaṃ mahāpātakanāśanam | rudra saṃkhyāśataṃ dhṛtvā rudra rūpo bhavennaraḥ ||",
+    "english": "24. The wearing of Rudrākṣa is spoken of as conducive to the destruction of great sins. If eleven hundred Rudrākṣas are worn on the person, the man assumes the form of Rudra.",
+    "morphology": "rudra_rudra_SVM akṣa_akṣa_Cp dhāraṇam_dhāraṇa_SNNe prāptam_prāp_SNPaNe mahā_mahat_Cp pātaka_pātaka_Cp nāśanam_nāśana_SNNe  / rudra_rudra_SVM saṃkhyā_saṃkhyā_Cp śatam_śata_SANe dhṛtvā_dhṛ_Co rudra_rudra_SVM rūpaḥ_rūpa_SNM"
+  },
+  {
+    "index": 548,
+    "sanskrit": "dharmata iti /",
+    "english": "\"In obedience to law;\" ie, with the idea that such receiving is sanctioned by law, and hot with the idea of receiving it in exchange for price for the girl.",
+    "morphology": "dharmataḥ_"
+  },
+  {
+    "index": 549,
+    "sanskrit": "lokāḥ lokeśvarāḥ ca eva sarve brāhmaṇa pūrvakāḥ",
+    "english": "The denizens of all the worlds, and the Regents of the universe, are all worshippers of Brahmanas.",
+    "morphology": "lokāḥ_loka_PNM lokeśvarāḥ_lokeśvara_PNM ca_ca_U eva_eva_U sarve_sarva_PNM brāhmaṇa_brāhmaṇa_MCp pūrvakāḥ_pūrvaka_PNM"
+  },
+  {
+    "index": 550,
+    "sanskrit": "mānitau ca mayā vīrau rādheya vacanāt tava pitāmaha tvam saṃprekṣya pāṇḍu putrāḥ mahā raṇe rakṣitāḥ tāta bhīṣmeṇa divasāni daśa eva ha",
+    "english": "Still both those heroes were respected by me, O son of Radha, at thy word! Viewing his relationship of grandsire unto them, the sons of Pandu, O sire, were spared in dreadful battle by Bhishma for ten successive days! Thyself also having laid aside thy weapons, the valiant Bhishma was slain in great battle by Phalguni with Shikhandi before him! After that great bowman had fallen and betaken himself to his bed of arrows, it was at thy word, O tiger among men, that Drona was made our leader! By him also were the sons of Pritha spared, in consequence, as I think, of their relationship unto him of pupils.",
+    "morphology": "mānitau_mānay_DuAPaPsM ca_ca_U mayā_mad_SI vīrau_vīra_DuAM rādheya_rādheya_MCp vacanāt_vacana_SBNe tava_tvad_SG pitāmaha_pitāmaha_MCp tvam_tva_SANe saṃprekṣya_saṃprekṣ_Co pāṇḍu_pāṇḍu_MCp putrāḥ_putra_PNM mahā_mahat_Cp raṇe"
+  },
+  {
+    "index": 551,
+    "sanskrit": "na cāpyaśvādiśabdebhyo jāyate 'pohabhodhanam /",
+    "english": "“The terms ‘horse’ and the rest do not bring about the cognition of the Apoha;",
+    "morphology": "na_na_ ca_ca_ api_api_ aśva_aśva_Cp ādi_ādi_Cp śabdebhyaḥ_śabda_PBM jāyate_jan_SPr3In apoha_apoha_Cp bhodhanam_bhodhana_SNNe  /"
+  }
+]

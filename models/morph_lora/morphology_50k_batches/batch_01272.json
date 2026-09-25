@@ -1,0 +1,50 @@
+[
+  {
+    "index": 10168,
+    "sanskrit": "lodhra ambaṣṭhā priyaṅgvādīn gaṇān evam prayojayet padmām samaṅgām madhukam bilva jambu śalāṭu ca pibet taṇḍula toyena sa kṣaudram agadaṅkaram",
+    "english": "Similarly, the decoction of Padma, Samanga, Yashti-madhu and dried Vilva and Jambu fruits should be taken with the washings of rice mixed with honey.",
+    "morphology": "lodhra_lodhra_MCp ambaṣṭhā_ambaṣṭhā_FCp priyaṅgvādīn_priyaṅgvādi_PAM gaṇān_gaṇa_PAM evam_evam_U prayojayet_prayojay_SPr3O padmām_padmā_SAF samaṅgām_samaṅgā_SAF madhukam_madhuka_SANe bilva_bilva_MCp jambu_jambu_NeCp śalāṭu_"
+  },
+  {
+    "index": 10169,
+    "sanskrit": "anyathā rājñā daṇḍyaḥ /",
+    "english": "Otherwise he should be punished by the King.",
+    "morphology": "anyathā_anyathā_U "
+  },
+  {
+    "index": 10170,
+    "sanskrit": "sāttvikāḥ sarvadā sevyāḥ saṃsāravijigīṣubhiḥ | guṇatrayasya vakṣyāmi saṃkṣepāllakṣaṇaṃ tava || 66 ||",
+    "english": "I shall succinctly state the characteristics of the three Guṇas unto you.",
+    "morphology": "sāttvikāḥ_sāttvika_PNM sarvadā_sarvadā_ sevyāḥ_sev_PNMGd saṃsāra_saṃsāra_Cp vijigīṣubhiḥ_vijigīṣu_PIM  / guṇatrayasya_guṇatraya_SGNe vakṣyāmi_vac_SFu1In saṃkṣepāt_saṃkṣepa_SBM lakṣaṇam_lakṣaṇa_SANe tava_tvad_"
+  },
+  {
+    "index": 10171,
+    "sanskrit": "tāv ubhau bhūtasaṃpṛktau mahān kṣetrajña eva ca / uccāvaceṣu bhūteṣu sthitaṃ taṃ vyāpya tiṣṭhataḥ //",
+    "english": "Both of these, the \"Great Principle\" and the \"Conscious Being,\" united with the material substances, subsist in Him who resides in all things, pervading them all.",
+    "morphology": "tau_tad_DuNM ubhau_ubh_DuNM bhūta_bhūta_Cp saṃpṛktau_sampṛc_DuNPaM mahān_mahant_SNM kṣetrajñaḥ_kṣetrajña_SNM eva_eva_ ca_ca_  / uccāvaceṣu_uccāvaca_PLNe bhūteṣu_bhūta_PLNe sthitam_sthā_SAPaM tam_tad_SAM vyāpya_vyāp_Co tiṣṭha"
+  },
+  {
+    "index": 10172,
+    "sanskrit": "sa iṣṭvā pāpīyān bhavati //",
+    "english": "and he, having sacrificed thus, becomes the worst sinner",
+    "morphology": "saḥ_tad_SNM iṣṭvā_yaj_Co"
+  },
+  {
+    "index": 10173,
+    "sanskrit": "tataś ca tatrāpi [tathā cāyaṃ jvalanajātīyaḥ] iti parāmarśo bhavatā 'bhyupeya eva /",
+    "english": "You should admit an intermediate judgment that fire which is inferred is also endowed with the characteristic fea-The place of Paramarša Judgment 143 as a ture of fire in general that it is conducive to pleasure.",
+    "morphology": "tatas_tatas_ ca_ca_ tatra_tatra_ api_api_ tathā_tathā_ ca_ca_ ayam_idam_SNM jvalana_jvalana_Cp jātīyaḥ_jātīya_SNM iti_iti_ parāmarśaḥ_parāmarśa_SNM bhavatā_bhavat_SIM abhyupeyaḥ_abhyupe_SNMGd eva_eva_"
+  },
+  {
+    "index": 10174,
+    "sanskrit": "sravanti pūya rudhiram calāḥ dantāḥ bhavanti ca dantaveṣṭaḥ sa vijñeyaḥ duṣṭa śoṇita saṃbhavaḥ",
+    "english": "The disease is due to the vitiated condition of the blood and Kapha. Danta-veshtaka:—The teeth become loose in the gums, which exude a discharge of blood and pus.",
+    "morphology": "sravanti_sru_PPr3In pūya_pūya_MCp rudhiram_rudhira_SANe calāḥ_cala_PNM dantāḥ_danta_PNM bhavanti_bhū_PPr3In ca_ca_U dantaveṣṭaḥ_dantaveṣṭa_SNM sa_tad_SNM vijñeyaḥ_vijñā_SNMGd duṣṭa_duṣ_PaPsCp śoṇita_śoṇita_NeCp saṃbhav"
+  },
+  {
+    "index": 10175,
+    "sanskrit": "tīrthayātrāprasaṃgena tena mārgeṇa bhāmini | kālena tena sarve'tha yathāvadabhivādanaiḥ | āyuṣmānbhava tairuktaḥ sa bālo daṇḍavalkalī || 25 ||",
+    "english": "25. O beautiful lady, they came that way in the course of their pilgrimage at that time. The boy wearing bark-garments and holding a staff duly made obeisance to them and he was blessed by them, “Be long-lived.”",
+    "morphology": "tīrtha_tīrtha_Cp yātrā_yātrā_Cp prasaṃgena_prasaṅga_SIM tena_tad_SIM mārgeṇa_mārga_SIM bhāmini_bhāminī_SVF  / kālena_kāla_SIM tena_tad_SIM sarve_sarva_PNM atha_atha_ yathāvat_yathāvat_ abhivādanaiḥ_abhivādana_PINe  / āyuṣmān_ā"
+  }
+]

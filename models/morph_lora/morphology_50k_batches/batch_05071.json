@@ -1,0 +1,50 @@
+[
+  {
+    "index": 40560,
+    "sanskrit": "na hi dattasya dānasya nāśaḥ asti iha kadā cana",
+    "english": "A gift made to a deserving person is never lost.",
+    "morphology": "na_na_U"
+  },
+  {
+    "index": 40561,
+    "sanskrit": "kṣetrajña ātmā puruṣaḥ pradhānaṃ prakṛtiḥ striyāṃ /",
+    "english": "The latter two are feminine. Kṣetrajña, ātman and puruṣa relate to the soul in the body.",
+    "morphology": "kṣetrajñaḥ_kṣetrajña_SNM ātmā_ātman_SNM puruṣaḥ_puruṣa_SNM pradhānam_pradhāna_SNNe prakṛtiḥ_prakṛti_SNF striyāḥ_strī_SLF  /"
+  },
+  {
+    "index": 40562,
+    "sanskrit": "samare patitaiḥ ca eva śakti ṛṣṭi śara tomaraiḥ nistriṃśaiḥ paṭṭiśaiḥ prāsaiḥ ayaskuntaiḥ paraśvadhaiḥ parighaiḥ bhindipālaiḥ ca śataghnībhiḥ tathā eva ca",
+    "english": "And the field of battle lay covered with fallen darts and swords and arrows and lances and scimitars and axes and bearded darts and iron crows and battle-axes, and spiked clubs and short arrows and Sataghnis[461] and bodies mangled with weapons.",
+    "morphology": "samare_samara_SLNe patitaiḥ_pat_PIPaPsM ca_ca_U eva_eva_U śakti_śakti_FCp ṛṣṭi_ṛṣṭi_FCp śara_śara_MCp tomaraiḥ_tomara_PIM nistriṃśaiḥ_nistriṃśa_PIM paṭṭiśaiḥ_paṭṭiśa_PIM prāsaiḥ_prāsa_PIM ayaskuntaiḥ_ayaskunta_"
+  },
+  {
+    "index": 40563,
+    "sanskrit": "aṃ darśanī vāmāṅgulya aḥ syātsañjīvanī kare //",
+    "english": "The letter aḥ be located on the hand representing Sañjīvanī the vitalising force.",
+    "morphology": "__aḥ_U __darśanī_U __vāma_U __aṅguli_U __U __U"
+  },
+  {
+    "index": 40564,
+    "sanskrit": "na me vivakṣā asti mahā anubhāva catuṣpadāḥ dvipadāḥ ṣaṣ padāḥ ca tathābhūtāḥ garbha bhūtāḥ bhavanti",
+    "english": "I have nothing more to say, O thou of great and pure soul! I have told thee how beings are born, after development of embryonic forms, as four-footed, six-footed creatures and others with more feet.",
+    "morphology": "na_na_U me_mad_SG vivakṣā_vivakṣā_SNF asti_as_SPr3In mahā_mahat_Cp anubhāva_anubhāva_SVM catuṣpadāḥ_catuṣpada_PNM dvipadāḥ_dvipada_PNM ṣaṣ_ṣaṣ_Cp padāḥ_pada_PNM ca_ca_U tathābhūtāḥ_tathābhūta_PNM garbha_garbha_MCp bhūt"
+  },
+  {
+    "index": 40565,
+    "sanskrit": "maccaritramidaṃ śrutvā smṛtvā liṃgamidaṃ hṛdi | saṃgrāme praviśanmartyo jayamāpnoti nānyathā || 80 ||",
+    "english": "After listening to this story of mine and remembering the Liṅga the man may enter battlefield. He will win (the battle). Not otherwise.”",
+    "morphology": "mad_mad_Cp caritram_caritra_SANe idam_idam_SANe śrutvā_śru_Co smṛtvā_smṛ_Co liṃgam_liṅga_SANe idam_idam_SANe hṛdi_hṛd_SLNe  / saṃgrāme_saṃgrāma_SLM praviśan_praviś_SNPaPrM martyaḥ_martya_SNM jayam_jaya_SAM āpnoti_āp_SPr3In na_na"
+  },
+  {
+    "index": 40566,
+    "sanskrit": "namaḥ śivāya śāntāya namaḥ śāntatamāya ca",
+    "english": "Salutations to thee that art auspicious, that art tranquil, and that art most tranquil.",
+    "morphology": "namaḥ_namas_SNNe śivāya_śiva_SDM śāntāya_śam_SDPaM namaḥ_namas_SNNe śāntatamāya_śāntatama_SDM"
+  },
+  {
+    "index": 40567,
+    "sanskrit": "tatas tāṃ peśalām ādāv adhaḥkartrīṃ ca madhyataḥ / ante vikāraghorāṃ ca durjanair iva saṃgatim // naṣṭāṃ vicintayan paśyan haste divyaṃ ca nūpuram / savismayaḥ sābhitāpaḥ saharṣaś ca babhūva saḥ //",
+    "english": "Then he, reflecting that she had disappeared after showing herself mild at first, and evil-working in the middle, and at the end horror-striking by assuming a terrible form, like association with wicked men, and seeing that heavenly anklet in his hand, was astonished, grieved and delighted at the same time;",
+    "morphology": "tatas_tatas_ tām_tad_SAF peśalām_peśala_SAF ādau_ādi_SLM adhas_adhas_ kartrīm_kartṛ_SAF ca_ca_ madhyatas_madhyatas_  / ante_anta_SLM vikāra_vikāra_Cp ghorām_ghora_SAF ca_ca_ durjanaiḥ_durjana_PIM iva_iva_ saṃgatim_saṃgati_SAF  / naṣṭ"
+  }
+]

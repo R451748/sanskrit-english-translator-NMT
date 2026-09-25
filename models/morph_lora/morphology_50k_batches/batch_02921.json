@@ -1,0 +1,50 @@
+[
+  {
+    "index": 23360,
+    "sanskrit": "iti te varṇitaṃ sarvaṃ vasiṣṭhasyopadeśanam / anena jñānamārgeṇa yogamārgeṇa putraka //",
+    "english": "I have thus related to you my son, all the doctrines of Vasishtha, as the best means to the way of your knowledge and practice of yoga meditation.",
+    "morphology": "iti_iti_ te_tvad_SD varṇitam_varṇay_SNPaNe sarvam_sarva_SNNe vasiṣṭhasya_vasiṣṭha_SGM upadeśanam_upadeśana_SNNe  / anena_idam_SIM jñāna_jñāna_Cp mārgeṇa_mārga_SIM yoga_yoga_Cp mārgeṇa_mārga_SIM putraka_putraka_SVM  /"
+  },
+  {
+    "index": 23361,
+    "sanskrit": "tatra tu lokavedārthatvasya pūrvaṃ nirākṛtatvāt pariśeṣataḥ svaśāstrārthatā /",
+    "english": "equally justified only in the way in which the denial of Concomitance and Nonconcomitance has been refuted before, under the Tadbhūtādhikaraṇa i. But, in view of various other reasons shown above, adherence should be accorded to the theory that the Nominative is indicated by the Bhāvanā. Or, we may take the word anabhihite in its direct denotative sense.",
+    "morphology": "tatra_tatra_ tu_tu_ loka_loka_Cp veda_veda_Cp artha_artha_Cp tvasya_tva_SGNe pūrvam_pūrvam_ nirākṛta_nirākṛ_PaCp tvāt_tva_SBNe pariśeṣataḥ_pariśeṣa_SBM sva_sva_Cp śāstra_śāstra_Cp artha_artha_Cp tā_tā_SNF  /"
+  },
+  {
+    "index": 23362,
+    "sanskrit": "etat prayojanam ca atra prādhānyena upalabhyate",
+    "english": "This course seems expedient in this wise.",
+    "morphology": "etat_etad_SNNe prayojanam_prayojana_SNNe ca_ca_U atra_atra_U prādhānyena_prādhānya_SINe"
+  },
+  {
+    "index": 23363,
+    "sanskrit": "yāvannākramyate lubdho dhanādhyakṣo raṇājire | tāvannārpayate vittaṃ yadā tatsaṃcitaṃ suraiḥ || 20 ||",
+    "english": "20. “As long as the greedy Lord of wealth (Kubera) is not overpowered on the battlefield, he will not give the wealth which is collected by the gods.",
+    "morphology": "yāvat_yāvat_ na_na_ ākramyate_ākram_SPr3InPv lubdhaḥ_lubh_SNPaM dhanādhyakṣaḥ_dhanādhyakṣa_SNM raṇa_raṇa_Cp ajire_ajira_SLNe  / tāvat_tāvat_ na_na_ arpayate_arpay_SPr3In vittam_vitta_SANe yadā_yadā_ tat_tad_SNNe saṃcitam_saṃci_SNP"
+  },
+  {
+    "index": 23364,
+    "sanskrit": "mādhvīti kathaṃ yāvatā guṇena mādhavīti bhavitavyam /",
+    "english": "How do you explain the form \"Mādhvī\" ? The correct form should be \"Mādhavī\".",
+    "morphology": "mādhvī_mādhvī_SNF iti_iti_ katham_katham_ yāvatā_yāvat_SIM guṇena_guṇa_SIM mādhavī_mādhavī_SNF iti_iti_ bhavitavyam_bhū_SNNeGd"
+  },
+  {
+    "index": 23365,
+    "sanskrit": "vayam te adya rarima hi kāmam uttāna hastāḥ namasā upa sadya yajiṣṭhena manasā yakṣi devān asredhatā manmanā vipraḥ agne",
+    "english": "We have given thee thy desire to-day, sitting down near thee adoringly with outstretched hands 1: sacrifice thou to the gods as a priest with thy mind most skilled in sacrifice, with unerring thoughts, O Agni!",
+    "morphology": "vayam_mad_PN te_tvad_SD adya_adya_U rarima_rā_PPs1In hi_hi_U kāmam_kāma_SAM uttāna_uttāna_Cp hastāḥ_hasta_PNM namasā_namas_SINe upa_upa_U sadya_sadya_U yajiṣṭhena_yajiṣṭha_SINe manasā_manas_SINe yakṣi_yaj_SPr2Su devān_deva_PAM asredhat"
+  },
+  {
+    "index": 23366,
+    "sanskrit": "granthasyeti tatrāpi saṃbadhyate granthasya dhāriṇaḥ iti / śreṣṭhatvam eteṣāṃ japapratigrahādiṣv adhikārāt /",
+    "english": "The \"retainers\" also are of the books. What the superiority of these latter means is that they are qualified for being engaged in recitations, for receiving gifts, and so forth.",
+    "morphology": "granthasya_grantha_SGM iti_iti_ tatra_tatra_ api_api_ saṃbadhyate_sambandh_SPr3InPv granthasya_grantha_SGM dhāriṇaḥ_dhārin_SGM iti_iti_  / śreṣṭha_śreṣṭha_Cp tvam_tva_SNNe eteṣām_etad_PGM japa_japa_Cp pratigraha_pratigraha_Cp ādiṣu_"
+  },
+  {
+    "index": 23367,
+    "sanskrit": "dadataḥ me akṣayā ca astu dharme śraddhā ca vardhatām",
+    "english": "Let my regard for virtue exist for ever.",
+    "morphology": "dadataḥ_dā_SGPaPrM me_mad_SG akṣayā_akṣaya_SNF ca_ca_U astu_as_SPr3Im dharme_dharma_SLM śraddhā_śraddhā_SNF"
+  }
+]

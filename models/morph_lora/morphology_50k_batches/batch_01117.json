@@ -1,0 +1,50 @@
+[
+  {
+    "index": 8928,
+    "sanskrit": "nādhyāpayedbudhaḥ śūdraṃ tathā naiva ca yājayet | na pāṭhayettathā śūdraṃ śāstraṃ vyākaraṇādikam || 40 || kāvyaṃ vā nāṭakaṃ vāpi tathālaṃkārameva ca | purāṇamitihāsaṃ ca śūdraṃ naiva tu pāṭhayet || 41 ||",
+    "english": "A learned man shall not teach a Śūdra, nor should he perform a Yāga on his behalf. He shall not teach a Śūdra any of the following subjects: the scriptures including Grammar, Poetry, Drama, Rhetorics, Purāṇa, Epic, myths and legends.",
+    "morphology": "na_na_ adhyāpayet_adhyāpay_SPr3O budhaḥ_budha_SNM śūdram_śūdra_SAM tathā_tathā_ na_na_ eva_eva_ ca_ca_ yājayet_yājay_SPr3O  / na_na_ pāṭhayet_pāṭhay_SPr3O tathā_tathā_ śūdram_śūdra_SAM śāstram_śāstra_SANe vyākaraṇa_vyākara"
+  },
+  {
+    "index": 8929,
+    "sanskrit": "akṛtāgrāṇi bhokṣyanti narāś caivāgnihotriṇaḥ / bhikṣāṃ balim adattvā ca bhokṣyanti puruṣāḥ svayam //",
+    "english": "Without offering the first four oblations to the gods the Agnihotris will take their meals; and without offering food to their guests, men will eat themselves.",
+    "morphology": "a_a_ kṛtāgrāṇi_kṛtāgra_PANe bhokṣyanti_bhuj_PFu3In narāḥ_nara_PNM ca_ca_ eva_eva_ agnihotriṇaḥ_agnihotrin_PNM  / bhikṣām_bhikṣā_SAF balim_bali_SAM a_a_ dattvā_dā_Co ca_ca_ bhokṣyanti_bhuj_PFu3In puruṣāḥ_puruṣa_PNM svayam_"
+  },
+  {
+    "index": 8930,
+    "sanskrit": "kāṇḍabhagnam atas ūrdhvam vakṣyāmaḥ karkaṭakam aśvakarṇam cūrṇitam piccitam asthi challitam kāṇḍabhagnam majjā anugatam atipātitam vakram chinnam pāṭitam sphuṭitam iti dvādaśavidham",
+    "english": "Now we shall describe the Kanda-Bhagna (fracture etc.). Fractures may be divided into twelve different kinds which are known as,",
+    "morphology": "kāṇḍabhagnam_kāṇḍabhagna_SANe atas_atas_U ūrdhvam_ūrdhvam_U vakṣyāmaḥ_vac_PFu1In karkaṭakam_karkaṭaka_SNNe aśvakarṇam_aśvakarṇa_SNNe cūrṇitam_cūrṇita_SNNe piccitam_piccita_SNNe asthi_asthi_NeCp challitam_challita_SNNe kā"
+  },
+  {
+    "index": 8931,
+    "sanskrit": "tatra khañja tā; ūrdhvam ubhayatas tri aṅgula māṇī nāma |",
+    "english": "A piercing of the Ani-Marma,[18] situated on both the sides above three fingers’ width from the Janu (knee joint), brings on swelling and paralysis (numbness) of the leg.",
+    "morphology": "tatra_tatra_U khañja_khañja_Cp tā_tā_SNF "
+  },
+  {
+    "index": 8932,
+    "sanskrit": "amānuṣam manuṣya indraiḥ jālam vitatam antarā",
+    "english": "When those lords of men will, in the midst of my army, spread their superhuman net of arrows, I fear my troops will not come out of it.",
+    "morphology": "amānuṣī"
+  },
+  {
+    "index": 8933,
+    "sanskrit": "vaṃdamānā ca me pādau mayā nītāṃka mātmanaḥ | manyatā tāṃ jagatpūjyāmuktaṃ bāle tavocitam || 29 || na tatpaśyāmi yattubhyaṃ dadmyāśīḥ kā tavocitā | ityukte mātṛvātsalyācchailendra mahiṣī tadā || 30 ||",
+    "english": "On being told thus, she got up from her father’s lap speedily and saluted my feet. She was taken in my lap by me. Considering that she would be worthy of being worshipped by the universe I said, “O lass, I do not see anything befitting you. I do not know what blessing should I offer. What is the blessing suitable unto you?”",
+    "morphology": "vaṃdamānā_vand_SNPaPrF ca_ca_ me_mad_SG pādau_pāda_DuAM mayā_mad_SI mā_mā_ ātmanaḥ_ātman_SGM  / manyatā_man_SIPaPrM tām_tad_SAF jagat_jagant_Cp pūjyām_pūjay_SAFGd uktam_vac_SNPaNe bāle_bāla_SVF tava_tvad_SG ucitam_ucita_SNNe  / na_na_ t"
+  },
+  {
+    "index": 8934,
+    "sanskrit": "māṅgalikāviti maṅgalaprayojanatvavivakṣayā pravṛtteḥ| nāpi pūrvaprakṛtāpekṣothaśabdaḥ|",
+    "english": "Nor can the particle atha have here the meaning of \"reference to a previous topic,\" since the previously mentioned faults will all equally apply here, as this meaning really involves that of \"after\" [which we have already discussed and rejected].",
+    "morphology": "māṅgalikau_māṅgalika_DuNM iti_iti_ maṅgala_maṅgala_Cp prayojana_prayojana_Cp tva_tva_Cp vivakṣayā_vivakṣā_SIF pravṛtteḥ_pravṛtti_SBF"
+  },
+  {
+    "index": 8935,
+    "sanskrit": "bhīmasenasya vā rājan upāya kuśalaiḥ naraiḥ",
+    "english": "Or, let, O king, some clever spies, repairing thither, secretly compass the death of Bhimasena.",
+    "morphology": "bhīmasenasya_bhīmasena_SGM"
+  }
+]
